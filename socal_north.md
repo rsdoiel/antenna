@@ -1,17 +1,92 @@
 ---
 title: socal north
-updated: 2025-04-10 14:08:40
+updated: 2025-04-11 06:08:10
 ---
 
 # socal north
 
-(date: 2025-04-10 14:08:40)
+(date: 2025-04-11 06:08:10)
+
+---
+
+## Trump calls race-focused college graduations illegal. These students are doing them anyway
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+Students and organizers of affinity college graduations say the Trump administration’s position makes affinity ceremonies take on a new meaning. 
+
+<br> 
+
+<https://laist.com/news/education/trump-race-focused-college-graduations-southern-california>
+
+---
+
+## Why is there a SoCal freeway with a 40-mile gap?
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+Route 90 covers only a few miles today, but 1950s freeway planners meant for it to connect inland Orange County to Pacific Coast Highway in Marina del Rey. 
+
+<br> 
+
+<https://laist.com/news/la-history/why-is-there-a-socal-freeway-with-a-40-mile-gap>
+
+---
+
+## On eve of historic Grand Prix, Motorsports Walk of Fame honors beloved mayor Beverly O’Neill
+
+date: 2025-04-10, from: Longbeach Post
+
+<figure><img width="1024" height="594" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-1024x594.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-1024x594.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>O’Neill “loved everything about the Grand Prix,” according to her family, who attended the ceremony on behalf of the 94-year-old former mayor widely recognized as a transformative figure in Long Beach history.</p>
+<p>The post <a href="https://lbpost.com/news/beverly-oneil-grand-prix-motorsports-walk-of-fame">On eve of historic Grand Prix, Motorsports Walk of Fame honors beloved mayor Beverly O’Neill</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/beverly-oneil-grand-prix-motorsports-walk-of-fame>
+
+---
+
+## California sees a boost in high school students completing college financial aid applications, state officials say
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+So far, about 24,000 more students have applied for help to pay for college compared to this time last year. 
+
+<br> 
+
+<https://laist.com/news/education/california-boost-in-high-school-students-completing-financial-aid-applications-csac-fafsa-cadaa>
+
+---
+
+## Los Angeles faces its first Measure HLA lawsuit
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+The lawsuit alleges the city didn’t include street enhancements on Vermont Avenue mandated by the voter-approved initiative. 
+
+<br> 
+
+<https://laist.com/news/transportation/measure-hla-vermont-avenue-streetsblogla-joe-linton>
+
+---
+
+## Tariff chaos sends some drivers racing to buy, while others pump the brakes
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+With tariffs on cars, materials and parts threatening to send auto prices up, some shoppers are racing to lock in vehicles at pre-tariff prices. Others plan to drive their current rides into the ground. 
+
+<br> 
+
+<https://laist.com/news/transportation/tariff-chaos-sends-some-drivers-racing-to-buy-while-others-pump-the-brakes>
 
 ---
 
 ## Homeland Security agents attempted to enter 2 LAUSD schools. Here's what families should know
 
-date: 2025-04-10, updated: 2025-04-10, from: The LAist
+date: 2025-04-10, updated: 2025-04-11, from: The LAist
 
 Federal agents were turned away from two South Los Angeles elementary schools this week, the district’s superintendent says. 
 
@@ -99,7 +174,7 @@ Where to find the perfect French fries in LA that are not too soggy or too crisp
 
 date: 2025-04-10, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Trump ordered his attorney general to move against state climate programs that clash with his energy agenda. Legal experts say his claims about the laws being unconstitutional are an overreach.</p>
 <p>The post <a href="https://lbpost.com/news/climate-change/trump-targets-california-climate-laws-in-new-executive-order">Trump targets California climate laws in new executive order</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -112,7 +187,7 @@ date: 2025-04-10, from: Longbeach Post
 
 ## California needs transitional kindergarten teachers. Preschool teachers want in
 
-date: 2025-04-10, updated: 2025-04-10, from: The LAist
+date: 2025-04-10, updated: 2025-04-11, from: The LAist
 
 California needs a lot more teachers and aides to fill transitional kindergarten classrooms, but advocates say early childhood educators who have the experience and desire to step into those jobs are deterred by the state’s credentialing system. 
 
@@ -126,7 +201,7 @@ California needs a lot more teachers and aides to fill transitional kindergarten
 
 date: 2025-04-10, from: Longbeach Post
 
-<figure><img width="1024" height="441" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-300x129.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-768x330.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-192x83.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1536x661.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1200x516.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1568x675.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-400x172.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW.png 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="441" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-300x129.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-768x330.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-192x83.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1536x661.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1200x516.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1568x675.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-400x172.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW.png 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A Long Beach man was among the three suspected thieves arrested by the LAPD this week.</p>
 <p>The post <a href="https://lbpost.com/news/crime/trio-stole-200000-worth-of-musical-instruments-in-cargo-train-heist-police-say">Trio stole $200,000 worth of musical instruments in cargo train heist, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -211,7 +286,7 @@ The L.A. County Board of Supervisors has voted to create a "Unified Permitting A
 
 ## The government is clearing fire debris from thousands of plots. Here’s what it looks like
 
-date: 2025-04-09, updated: 2025-04-09, from: The LAist
+date: 2025-04-09, updated: 2025-04-10, from: The LAist
 
 On any given day, around 215 crews work to clear the burn zones of the Palisades and Eaton fires while keeping debris out of the air. 
 

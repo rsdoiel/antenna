@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2025-04-10 14:08:46
+updated: 2025-04-11 06:08:17
 ---
 
 # health
 
-(date: 2025-04-10 14:08:46)
+(date: 2025-04-11 06:08:17)
+
+---
+
+## Fecal microbiota transplantation alleviates lipopolysaccharide-induced osteoporosis by modulating gut microbiota and long non-coding RNA TUG1 expression
+
+date: 2025-04-11, from: Frontiers in Cellular and Infection Microbiology
+
+PurposeTo study whether fecal microbiota transplantation (FMT) can alleviate lipopolysaccharide (LPS)-induced osteoporosis (OP) by regulating the composition and abundance of gut microbiota and the expression level of long non-coding RNA (lncRNA) TUG1.MethodsTwenty C57BL/6 mice were selected. Two mice were randomly designated as fecal donors, while the remaining mice were randomly divided into control group, LPS group, and LPS + FMT group. Each group consisted of 6 mice. The mice in the LPS and LPS + FMT groups were intraperitoneally injected with LPS to establish the OP model, and the mice in the LPS + FMT group were treated with donor feces by gavage. Micro-CT was used to scan the femur specimens of mice, and the bone structural parameters of the control and LPS groups were compared to verify the effectiveness of the OP model. HE staining was used to compare the microstructure of femurs in the 3 groups. 16S rRNA gene sequencing was used to analyze the composition and abundance of gut microbiota in mice. Immunofluorescence staining was used to compare the expression levels of Runt-related transcription factor 2 (RUNX2) in the femur of the 3 groups. Real-time quantitative reverse transcription PCR (qRT-PCR) was used to compare the expression levels of lncRNA TUG1 in the intestines and serum of mice in the 3 groups.ResultsMicro-CT showed that compared with the control group, the mice in the LPS group had more bone loss. The bone mineral density, trabecular number, and trabecular thickness of the control group was higher, and the trabecular separation was smaller. The models were validated effectively. HE staining showed that compared with the control group, the bone trabeculae in the LPS group were thinner and sparse, while that in the LPS + FMT group were dense and clear. The 16s rRNA sequencing showed that the abundance of Bacteroides and Lactobacillus in LPS+FMT group was significantly higher than that in LPS group. Immunofluorescence staining showed that the RUNX2 level in the control group and LPS + FMT group was similar, and both were higher than that in the LPS group. The qRT-PCR results showed that the TUG1 mRNA level in the control group and LPS + FMT group was similar and significantly higher than that in the LPS group.ConclusionFMT can enhance osteoblast levels and improve bone structure by modulating the abundance of gut microbiota in OP mice (such as increasing Bacteroides and Lactobacillus populations) and promoting the expression of lncRNA TUG1, thereby alleviating LPS-induced OP. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1535666>
+
+---
+
+## Probiotics and nanoparticle-mediated nutrient delivery in the management of transfusion-supported diseases
+
+date: 2025-04-11, from: Frontiers in Cellular and Infection Microbiology
+
+Bone marrow is vital for hematopoiesis, producing blood cells essential for oxygen transport, immune defense, and clotting. However, disorders like leukemia, lymphoma, aplastic anemia, and myelodysplastic syndromes can severely disrupt its function, leading to life-threatening complications. Traditional treatments, including chemotherapy and stem cell transplants, have significantly improved patient outcomes but are often associated with severe side effects and limitations, necessitating the exploration of safer, more targeted therapeutic strategies. Nanotechnology has emerged as a promising approach for addressing these challenges, particularly in the delivery of nutraceuticals—bioactive compounds derived from food sources with potential therapeutic benefits. Despite their promise, nutraceuticals often face clinical limitations due to poor bioavailability, instability, and inefficient delivery to target sites. Nanoparticles offer a viable solution by enhancing the stability, absorption, and targeted transport of nutraceuticals to bone marrow while minimizing systemic side effects. This study explores a range of bone marrow disorders, conventional treatment modalities, and the potential of nanoparticles to enhance nutraceutical-based therapies. By improving targeted delivery and therapeutic efficacy, nanoparticles could revolutionize bone marrow disease management, providing patients with more effective and less invasive treatment options. These advancements represent a significant step toward safer and more efficient therapeutic approaches, ultimately improving patient prognosis and overall health. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1575798>
 
 ---
 

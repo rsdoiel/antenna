@@ -1,11 +1,360 @@
 ---
 title: journalism
-updated: 2025-04-10 14:08:44
+updated: 2025-04-11 06:08:15
 ---
 
 # journalism
 
-(date: 2025-04-10 14:08:44)
+(date: 2025-04-11 06:08:15)
+
+---
+
+## A Night of Enchantment and Celebration: Queer Prom at CSUN
+
+date: 2025-04-11, from: The Sundail (CSUN Student Newspaper)
+
+Students trickled into the Northridge Center wearing flowing gowns, dress suits, and statement pieces while the venue walls were covered with imagery of a magic forest and rainbow ribbons. Spinning... 
+
+<br> 
+
+<https://sundial.csun.edu/192554/arts-entertainment/a-night-of-enchantment-and-celebration-queer-prom-at-csun/>
+
+---
+
+## Classifieds – April 11, 2025
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/classifieds-april-11-2025/">Classifieds &#8211; April 11, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/classifieds-april-11-2025/>
+
+---
+
+## Tell me a joke
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>An exploration of the deep-rooted and vibrant comedy landscape at USC and beyond.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/tell-me-a-joke/">Tell me a joke</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/tell-me-a-joke/>
+
+---
+
+## USC fountains vs. green space: The balance of sustainability
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students and faculty acknowledge the campus’ efforts towards sustainability and green spaces, but believe there is more to be done.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/usc-fountains-vs-green-space-the-balance-of-sustainability/">USC fountains vs. green space: The balance of sustainability</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/usc-fountains-vs-green-space-the-balance-of-sustainability/>
+
+---
+
+## Can’t stop, won’t stop watching college decision videos
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Understanding the toxic culture behind the college admissions cycle. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/cant-stop-wont-stop-watching-college-decision-videos/">Can’t stop, won’t stop watching college decision videos</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/cant-stop-wont-stop-watching-college-decision-videos/>
+
+---
+
+## In pursuit of the vibe
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>From frats to drag, USC nightlife brims with energy.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/in-pursuit-of-the-vibe/">In pursuit of the vibe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/in-pursuit-of-the-vibe/>
+
+---
+
+## Cars are killing the human spirit
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The cultural impact of Los Angeles’ urban planning is impeding on our sense of self.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/cars-are-killing-the-human-spirit/">Cars are killing the human spirit</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/cars-are-killing-the-human-spirit/>
+
+---
+
+## Community is Everywhere
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>47,000 students. Over 1,000 organizations. Greek life, athletics, jobs, housing, someone holding the door open for you … </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/community-is-everywhere/">Community is Everywhere</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/community-is-everywhere/>
+
+---
+
+## Cartoon: “Moments”
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A cartoon from the Daily Trojan Magazine, April 2025.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/cartoon-moments/">Cartoon: &#8220;Moments&#8221;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/cartoon-moments/>
+
+---
+
+## From the editors
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As we deliver the April 2025 Daily Trojan Magazine to you, here’s a note on how we brought it together.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/from-the-editors-2/">From the editors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/from-the-editors-2/>
+
+---
+
+## Astray
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/11/astray/">Astray</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/astray/>
+
+---
+
+## April 2025
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/11/april-2025/">April 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/april-2025/>
+
+---
+
+## USC seniors crowned Miss LA Chinatown, Miss Friendship
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The winners took part in Chinatown's 126th Golden Dragon Parade in March.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/usc-seniors-crowned-miss-la-chinatown-miss-friendship/">USC seniors crowned Miss LA Chinatown, Miss Friendship</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/usc-seniors-crowned-miss-la-chinatown-miss-friendship/>
+
+---
+
+## Arnold Schwarzenegger speaks at USC-hosted climate summit
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event aimed to adjust climate change messaging to make more of an impact.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/arnold-schwarzenegger-speaks-at-usc-hosted-climate-summit/">Arnold Schwarzenegger speaks at USC-hosted climate summit</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/arnold-schwarzenegger-speaks-at-usc-hosted-climate-summit/>
+
+---
+
+## ‘Seen on the Screen’ spotlights untold stories in entertainment
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The NBCUniversal podcast celebrates its employees' magical experiences.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/seen-on-the-screen-spotlights-untold-stories-in-entertainment/">&#8216;Seen on the Screen&#8217; spotlights untold stories in entertainment</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/seen-on-the-screen-spotlights-untold-stories-in-entertainment/>
+
+---
+
+## Shoulda, coulda, woulda
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I need to curb my pre-emptive regrets about my study abroad semester.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/shoulda-coulda-woulda/">Shoulda, coulda, woulda</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/shoulda-coulda-woulda/>
+
+---
+
+## Crossword: Answers
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/11/crossword-answers/">Crossword: Answers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/crossword-answers/>
+
+---
+
+## ‘Drop’ movie premiere makes audiences’ jaws drop
+
+date: 2025-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The true story of an ogre airdropping prank gone wrong.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/drop-movie-premiere-makes-audiences-jaws-drop/">‘Drop’ movie premiere makes audiences’ jaws drop</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/drop-movie-premiere-makes-audiences-jaws-drop/>
+
+---
+
+## ‘Is it selfish for me to go?’: UCLA applicants worry over immigration crackdowns
+
+date: 2025-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+UC applicants expressed concerns about attending college following recent immigration crackdowns by President Donald Trump&#8217;s administration. 
+Trump promised to target immigrants without permanent legal status through mass deportations in his second term, signing an executive order Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/10/is-it-selfish-for-me-to-go-ucla-applicants-worry-over-immigration-crackdowns/>
+
+---
+
+## ‘I felt like a freaking boss’: Students disregard, decry UCLA no-takeout policies
+
+date: 2025-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+After a year of sneaking food, dishes and utensils out of UCLA&#8217;s residential restaurants, Ashlyn stopped to wonder why they did it in the first place. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/10/i-felt-like-a-freaking-boss-students-disregard-decry-ucla-no-takeout-policies/>
+
+---
+
+## Speech Team receives multiple awards at local, national tournaments
+
+date: 2025-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Speech Team @UCLA secured multiple competition wins in its first year in existence.
+The team secured its first-ever national recognition March 22 at the 2025 National Online Forensics Championship, where Alisha Hassanali, a Daily Bruin News contributor, won first place for informative speaking. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/10/speech-team-receives-multiple-awards-at-local-national-tournaments/>
+
+---
+
+## Art exhibit preview: Los Angeles museums bloom with bustling springtime exhibitions
+
+date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+By design, springtime is full of a bounty of new art.
+Every petal is a brushstroke on the landscape, each new bud of vegetation a fleck of bright paint on the canvas. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/10/art-exhibit-preview-los-angeles-museums-bloom-with-bustling-springtime-exhibitions/>
+
+---
+
+## USAC passes resolution for increased funding toward BruinAccess transportation
+
+date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 10 at 10:54 p.m.</em>
+The Undergraduate Students Association Council unanimously passed a resolution March 11 calling for increased funding and an improved transportation service for disabled students. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/10/usac-passes-resolution-for-increased-funding-toward-bruinaccess-transportation/>
+
+---
+
+## Thousands Flood Downtown L.A. in ‘Hands Off!’ Protest
+
+date: 2025-04-10, from: The Sundail (CSUN Student Newspaper)
+
+Thousands of protestors gathered in Pershing Square for the “Hands Off!” protest on April 5, as part of a nationwide series of protests against the Trump administration’s tariffs, program cuts,... 
+
+<br> 
+
+<https://sundial.csun.edu/192458/news/thousands-flood-downtown-l-a-in-hands-off-protest/>
+
+---
+
+## Editorial Cartoon: “How Many More Will It Take”
+
+date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/04/10/editorial-cartoon-how-many-more-will-it-take/>
+
+---
+
+## Restaurant review: Bruin Bowl Malatang’s lack of tang leaves much to be desired
+
+date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 10 at 7:28 p.m.</em>
+Bruin Bowl Malatang fails in its first impression, and it struggles to leave a lasting one.
+Offering build-your-own hot pot bowls in a dubiously decorated space, Bruin Bowl Malatang quietly opened in Westwood in March. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/10/restaurant-review-bruin-bowl-malatangs-lack-of-tang-leaves-much-to-be-desired/>
 
 ---
 
@@ -157,8 +506,9 @@ date: 2025-04-10, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-Daniela Huerta is unboxing people&#8217;s personalities one film at a time.
-The fourth-year political science student &#8211; who is also known as DJ frootgummie &#8211; is host to the UCLA Radio show &#8220;Letterboxd Unboxed,&#8221; an hourlong podcast that dissects guest&#8217;s four favorite movies. 
+<em>This post was updated April 10 at 7:24 p.m.</em>
+Daniela Huerta is unboxing people’s personalities one film at a time.
+The fourth-year political science student – who is also known as DJ frootgummie – is host to the UCLA Radio show “Letterboxd Unboxed,” an hourlong podcast that dissects guests&#8217; four favorite movies. 
 
 <br> 
 
@@ -170,8 +520,9 @@ The fourth-year political science student &#8211; who is also known as DJ frootg
 
 date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 10 at 7:38 p.m.</em>
 There may be no season better for concerts than spring.
-As the sun in the Northern Hemisphere stays out later, the hours for sunsets are extended. 
+As the sun in the Northern Hemisphere stays out later, the hours for sunsets extend. 
 
 <br> 
 
@@ -197,7 +548,9 @@ date: 2025-04-10, from: The Canyon News (COC Student Newspaper)
 
 date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-Minutes from a meeting between UCLA administrators and Undergraduate Students Association Council officers revealed that the students whose visas were revoked had previously been arrested.
+<em>This post was updated April 10 at 10:35 p.m.</em>
+Minutes from a meeting between UCLA administrators and Undergraduate Students Association Council officers revealed that students whose visas were revoked had previously been arrested.&#160;
+Nineteen students and alumni had their visas revoked as of Thursday, said USAC President Adam Tfayli.&#160;
 The United States government revoked the visas of around 50 international students and alumni across the UC, according to a Tuesday statement from UC President Michael Drake. 
 
 <br> 

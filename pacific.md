@@ -1,11 +1,589 @@
 ---
 title: pacific
-updated: 2025-04-10 14:08:41
+updated: 2025-04-11 06:08:11
 ---
 
 # pacific
 
-(date: 2025-04-10 14:08:41)
+(date: 2025-04-11 06:08:11)
+
+---
+
+## Canceled humanities grants to help pay for trump’s ‘Garden of Heroes’
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>The National Endowment for the Humanities intends to redirect some of its funding to build President Donald Trump&#8217;s proposed National Garden of American Heroes as part of a reorientation toward the president&#8217;s priorities of celebrating patriotic history, according to three people who attended a meeting Wednesday where the plans were discussed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/canceled-humanities-grants-to-help-pay-for-trumps-garden-of-heroes/>
+
+---
+
+## Puna man accused of sexually assaulting girl
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>A 35-year-old Mountain View man accused of sexually assaulting an 11-year-old girl in Puna is registered as a sex offender in Utah.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/hawaii-news/puna-man-accused-of-sexually-assaulting-girl/>
+
+---
+
+## Kennedy sets September deadline to identify cause of rising US autism rates
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States will identify the cause of autism by September, Secretary of Health and Human Services Robert F. Kennedy Jr. said on Thursday, setting a deadline for an answer that has eluded scientists for decades.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/kennedy-sets-september-deadline-to-identify-cause-of-rising-us-autism-rates/>
+
+---
+
+## AARP Hawaii keeping an eye on Social Security
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>AARP Hawaii announced Thursday in a press conference that the Social Security Administration has given the nonprofit an assurance that the planned April 14 elimination of customer service over the phone will no longer be enforced.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/hawaii-news/aarp-hawaii-keeping-an-eye-on-social-security/>
+
+---
+
+## Republican budget plan passes but hurdles ahead to extend Trump tax cuts
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. House of Representatives on Thursday passed a budget plan that lays the groundwork for extending President Donald Trump&#8217;s 2017 tax cuts, overcoming opposition from Republican hardliners who worried that it does not cut spending sufficiently.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/republican-budget-plan-passes-but-hurdles-ahead-to-extend-trump-tax-cuts/>
+
+---
+
+## Abuse protections sought for Hawaii’s homeschooled children
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>Homeschooled Hawaii children might be required to appear periodically in public school if an idea discussed Wednesday by a legislative panel trying to prevent child abuse is realized.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/hawaii-news/abuse-protections-sought-for-hawaiis-homeschooled-children/>
+
+---
+
+## House votes to require proof of citizenship in federal elections
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House on Thursday passed legislation that would require people to prove that they are U.S. citizens when they register to vote, the latest effort in a Republican-led push to tighten voting laws that is tied to President Donald Trump&#8217;s debunked claims of widespread election fraud.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/house-votes-to-require-proof-of-citizenship-in-federal-elections/>
+
+---
+
+## News in brief for April 11
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>FDA will phase out animal &#0010;testing in drug development</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/news-in-brief-for-april-11/>
+
+---
+
+## Death toll in Dominican Republic nightclub tragedy tops 200, recovery efforts wrap up
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>SANTO DOMINGO &#8212; Recovery efforts wrapped up in the capital of the Dominican Republic after a roof collapse at a nightclub during a concert killed at least 221 people, authorities said on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/death-toll-in-dominican-republic-nightclub-tragedy-tops-200-recovery-efforts-wrap-up/>
+
+---
+
+## Trump repeals Biden-era limit on water flow in shower heads
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>How long does it take you to wet your hair in the shower? A few seconds? A minute?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/trump-repeals-biden-era-limit-on-water-flow-in-shower-heads/>
+
+---
+
+## US Supreme Court upholds order to facilitate return of deportee sent to El Salvador in error
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Supreme Court upheld on Thursday a judge&#8217;s order requiring President Donald Trump&#8217;s administration to facilitate the return to the United States of a Salvadoran man who the government has acknowledged was deported in error to El Salvador.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/us-supreme-court-upholds-order-to-facilitate-return-of-deportee-sent-to-el-salvador-in-error/>
+
+---
+
+## What are atmospheric rivers and why do they cause flooding?
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>Atmospheric rivers are storms akin to rivers in the sky that dump massive amounts of rain and can cause flooding, trigger mudslides and result in loss of life and enormous property damage.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/what-are-atmospheric-rivers-and-why-do-they-cause-flooding/>
+
+---
+
+## Egg prices continued to rise in March
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>For weeks, President Donald Trump has repeatedly boasted that his administration had managed to bring egg prices down. But new data Thursday showed that egg prices at the grocery store continued to climb in March.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/egg-prices-continued-to-rise-in-march/>
+
+---
+
+## Russia and US bring ballerina and tech smuggler back home in prisoner swap
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW/WASHINGTON &#8212; Russia released a ballerina from Los Angeles on Thursday who had been sentenced to 12 years in jail for donating to a charity aiding Ukraine, in exchange for a man the U.S. had accused of crafting a global smuggling ring to spirit sensitive electronics to Russia&#8217;s military.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/russia-and-us-bring-ballerina-and-tech-smuggler-back-home-in-prisoner-swap/>
+
+---
+
+## US market tumbles; Trump says China tariff is at least 145%
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>U.S. stocks tumbled about 4% in early afternoon trading Thursday as investors assessed the worsening trade war with China, and President Donald Trump clarified that he had raised tariffs on Chinese goods by a total of 145% since taking office.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/us-market-tumbles-trump-says-china-tariff-is-at-least-145/>
+
+---
+
+## Trump tariff pause does not change fundamentals for a Fed that sees risks ahead
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s pause on some announced import taxes may have eased the stress building in financial markets for now, but leaves in place the same set of circumstances that had reset the U.S. economic outlook with rising recession risks and potentially rising inflation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/trump-tariff-pause-does-not-change-fundamentals-for-a-fed-that-sees-risks-ahead/>
+
+---
+
+## US judge to block Trump from revoking thousands of migrants’ legal status
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; A federal judge said she will block President Donald Trump&#8217;s administration from revoking the temporary legal status of hundreds of thousands of Cubans, Haitians, Nicaraguans and Venezuelans in the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/us-judge-to-block-trump-from-revoking-thousands-of-migrants-legal-status/>
+
+---
+
+## Wing of plane carrying 6 members of congress is clipped at Reagan Airport
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>Two American Airlines jets, including one carrying at least six members of Congress from New York and New Jersey, clipped wings on a taxiway at Ronald Reagan National Airport in Washington on Thursday, officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/wing-of-plane-carrying-6-members-of-congress-is-clipped-at-reagan-airport/>
+
+---
+
+## Helicopter crashes into New York’s Hudson River, killing all six aboard
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p>A tourist helicopter crashed into New York City&#8217;s Hudson River on Thursday, killing all six aboard, including three children, Mayor Eric Adams said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/helicopter-crashes-into-new-yorks-hudson-river-killing-all-six-aboard/>
+
+---
+
+## Meeting the Needs of Our “Super Aging” Society INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-04-11, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>For several years, Hawaiʻi lawmakers have debated multiple proposals to reform government including providing more transparency and accountability, overhauling campaign fundraising rules, establishing term limits and stricter rules for lobbyists.</p>
+<p>The post <a href="https://www.pbshawaii.org/meeting-the-needs-of-our-super-aging-society-insights-on-pbs-hawai%ca%bbi/">Meeting the Needs of Our &#8220;Super Aging&#8221; Society &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/meeting-the-needs-of-our-super-aging-society-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Palau Gears Up to Host Historic 2025 Pacific Mini Games with Record Participation
+
+date: 2025-04-11, from: Island Times
+
+<figure><img width="600" height="790" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?fit=600%2C790&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?resize=228%2C300&amp;ssl=1 228w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?resize=400%2C527&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?fit=600%2C790&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76728" data-permalink="https://islandtimes.org/delayed-audits-hampering-legislative-oversight-palau-senators-say/dr-patrick-telle-chairman-of-palau-games-organizing-committee/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?fit=600%2C790&amp;ssl=1" data-orig-size="600,790" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744279758&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Dr Patrick Telle, Chairman of Palau Games Organizing Committee" data-image-description="" data-image-caption="&lt;p&gt;Dr Patrick Telle, Chairman of Palau Games Organizing Committee&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?fit=228%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dr-Patrick-Telle-Chairman-of-Palau-Games-Organizing-Committee.jpg?fit=600%2C790&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Palau is set to host the largest Pacific Mini Games in history, with 1,200 athletes, 200 technical staff, and 24 Pacific nations participating in 14 sports, the Palau Games Organizing Committee confirmed Wednesday. Speaking at an April 10 press conference, Committee Chairman Dr. Patrick Tellei declared, “I am here to say that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-gears-up-to-host-historic-2025-pacific-mini-games-with-record-participation/">Palau Gears Up to Host Historic 2025 Pacific Mini Games with Record Participation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-gears-up-to-host-historic-2025-pacific-mini-games-with-record-participation/>
+
+---
+
+## Delayed Audits hampering Legislative Oversight, Palau Senators say
+
+date: 2025-04-11, from: Island Times
+
+<figure><img width="600" height="615" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?fit=600%2C615&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?resize=293%2C300&amp;ssl=1 293w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?resize=400%2C410&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?fit=600%2C615&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76727" data-permalink="https://islandtimes.org/delayed-audits-hampering-legislative-oversight-palau-senators-say/auditor-saturnino-tewid/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?fit=600%2C615&amp;ssl=1" data-orig-size="600,615" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Auditor Saturnino Tewid" data-image-description="" data-image-caption="&lt;p&gt;Auditor Saturnino Tewid&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?fit=293%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Auditor-Saturnino-Tewid-.jpg?fit=600%2C615&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (April 7, 2025) — Acting Public Auditor Saturnino Tewid again appeared before the Senate Committee on Ways and Means &#38; Financial Matters on Monday, as senators expressed frustration over what they called “untimely audits and negligence” by the Office of the Public Auditor (OPA). Lawmakers were particularly concerned about [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/delayed-audits-hampering-legislative-oversight-palau-senators-say/">Delayed Audits hampering Legislative Oversight, Palau Senators say</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/delayed-audits-hampering-legislative-oversight-palau-senators-say/>
+
+---
+
+## Convicted killer Fang Ye’s sentence in Palau commuted
+
+date: 2025-04-11, from: Island Times
+
+<p>Fang Ye, a convicted killer sentenced last year for manslaughter, will not need to serve the remainder of his sentence in Palau following a commutation by the president&#8217;s office. Last year, Fang was extradited to the U.S. to face federal charges of conspiracy to distribute over 500 grams of methamphetamine. He is accused of conspiring [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/convicted-killer-fang-yes-sentence-in-palau-commuted/">Convicted killer Fang Ye&#8217;s sentence in Palau commuted</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/convicted-killer-fang-yes-sentence-in-palau-commuted/>
+
+---
+
+## Business Fined $75K for Tax Violations; Tax Office Urges Better Recordkeeping
+
+date: 2025-04-11, from: Island Times
+
+<p>KOROR, Palau — A local business has been fined more than $75,000 by the Bureau of Revenue &#38; Taxation for breaking Palau’s tax laws, after an audit revealed the company failed to properly record and report sales. According to the Bureau, the taxpayer—registered under the Palau Goods and Services Tax (PGST)—was investigated after a complaint [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/business-fined-75k-for-tax-violations-tax-office-urges-better-recordkeeping/">Business Fined $75K for Tax Violations; Tax Office Urges Better Recordkeeping</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/business-fined-75k-for-tax-violations-tax-office-urges-better-recordkeeping/>
+
+---
+
+## Senator Tabelual Refutes Claims About Jenkins’ Reappointment Process in Education Ministry Debate
+
+date: 2025-04-11, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang NGERULMUD, Palau – Senator Andrew Tabelual is pushing back against remarks made during President Surangel Whipps Jr.’s March 19 press conference, where the Senate Education Committee’s handling of Dr. Dale Jenkins’ reappointment as Minister of Education came under scrutiny. In a letter to Senate President Hokkons Baules, listed as Miscellaneous Communication [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senator-tabelual-refutes-claims-about-jenkins-reappointment-process-in-education-ministry-debate/">Senator Tabelual Refutes Claims About Jenkins’ Reappointment Process in Education Ministry Debate</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senator-tabelual-refutes-claims-about-jenkins-reappointment-process-in-education-ministry-debate/>
+
+---
+
+## Palau moves to Protect 28 Health Workers after U.S. Grant cuts
+
+date: 2025-04-11, from: Island Times
+
+<p>KOROR, Palau — Twenty-eight employees at the Ministry of Health and Human Services (MHHS) faced possible layoffs due to cuts in U.S. federal funding under the administration of President Donald Trump. However, Palau&#8217;s leadership has committed to keeping all affected workers employed. MHHS receives approximately $12 million annually through various U.S. federal grant programs. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-moves-to-protect-28-health-workers-after-u-s-grant-cuts/">Palau moves to Protect 28 Health Workers after U.S. Grant cuts</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-moves-to-protect-28-health-workers-after-u-s-grant-cuts/>
+
+---
+
+## Palau’s tourism sector boosts economic growth
+
+date: 2025-04-11, from: Island Times
+
+<p>ADB Economic Outlook The ongoing recovery in Palau’s tourism sector has contributed to the island nation&#8217;s economic growth in the Fiscal Year 2024, according to the Asian Development Bank’s (ADB) latest economic forecast for Asia and the Pacific: April 2025. “Palau&#8217;s economy experienced a growth of 6.6% in FY2024, primarily driven by the ongoing recovery [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-tourism-sector-boosts-economic-growth/">Palau’s tourism sector boosts economic growth</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-tourism-sector-boosts-economic-growth/>
+
+---
+
+## Ira F. Stanphill, 1953
+
+date: 2025-04-11, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>Ira F. Stanphill wrote some of the most beautiful Gospel songs like my brother&#8217;s favorite, I got a Mansion just over the Hilltop. I know Who Holds Tomorrow, Room at the Cross for you, and He Washed my Eyes with Tears and more.&#160; My new favorite is Follow Me. Barbara Fairchild sings it so beautifully [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ira-f-stanphill-1953/">Ira F. Stanphill, 1953</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ira-f-stanphill-1953/>
+
+---
+
+## Arrival of Australian Ambassador Toby Sharpe
+
+date: 2025-04-11, from: Island Times
+
+<figure><img width="1024" height="617" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?fit=1024%2C617&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?resize=300%2C181&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?resize=1024%2C617&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?resize=768%2C463&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?resize=1200%2C723&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?resize=780%2C470&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?resize=400%2C241&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?resize=706%2C426&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?fit=1024%2C617&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76698" data-permalink="https://islandtimes.org/arrival-of-australian-ambassador-toby-sharpe/arrival-of-australian-ambassador-toby-sharpe/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?fit=1249%2C753&amp;ssl=1" data-orig-size="1249,753" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Arrival of Australian Ambassador Toby Sharpe" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?fit=300%2C181&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Arrival-of-Australian-Ambassador-Toby-Sharpe.jpg?fit=780%2C470&amp;ssl=1" /></figure>
+<p>8 April 2025-&#160; The Australian Embassy is pleased to welcome His Excellency Mr Toby Sharpe, Ambassador of Australia to the Republic of Palau. Ambassador Sharpe presented his credentials to His Excellency Surangel S. Whipps Jr., President of the Republic of Palau, the Honourable Raynold Oilouch, Vice-President, Paramount Chief Reklai, the Honourable Gibson Kanai, Speaker of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/arrival-of-australian-ambassador-toby-sharpe/">Arrival of Australian Ambassador Toby Sharpe</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/arrival-of-australian-ambassador-toby-sharpe/>
+
+---
+
+## MAFE and JICA agree to launch Fisheries Development Master Plan
+
+date: 2025-04-11, from: Island Times
+
+<figure><img width="1024" height="772" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?fit=1024%2C772&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=1024%2C772&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=768%2C579&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=1200%2C905&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=780%2C588&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=400%2C302&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?fit=1024%2C772&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76694" data-permalink="https://islandtimes.org/mafe-and-jica-agree-to-launch-fisheries-development-master-plan/att-bfawq9brncrxlpehlhpwtnmua_t8mjow1owj0uhqwfm-dat/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?fit=1249%2C942&amp;ssl=1" data-orig-size="1249,942" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/att.BfawQ9brNcrXLPeHlhpwtNmua_t8mJoW1OWj0UhQwfM.dat_.jpeg?fit=780%2C588&amp;ssl=1" /></figure>
+<p>On April 4, Minister Steven Víctor of the Ministry of Agriculture, Fisheries and the Environment (MAFE) and Chief Representative Aoki Tsunenori of JICA Palau Office signed a Record of Discussion (RD) at the Office of the President in the One Stop Shop building to launch a new cooperation, &#8220;The Project for Formulating a Master Plan [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mafe-and-jica-agree-to-launch-fisheries-development-master-plan/">MAFE and JICA agree to launch Fisheries Development Master Plan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/mafe-and-jica-agree-to-launch-fisheries-development-master-plan/>
+
+---
+
+## Interscholastic Student Body Association established
+
+date: 2025-04-11, from: Island Times
+
+<figure><img width="1024" height="407" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?fit=1024%2C407&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?resize=300%2C119&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?resize=1024%2C407&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?resize=768%2C305&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?resize=1200%2C477&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?resize=780%2C310&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?resize=400%2C159&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?resize=706%2C280&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?fit=1024%2C407&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76689" data-permalink="https://islandtimes.org/interscholastic-student-body-association-established/pr_isba-established/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?fit=1249%2C496&amp;ssl=1" data-orig-size="1249,496" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_ISBA Established" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?fit=300%2C119&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/PR_ISBA-Established.jpg?fit=780%2C310&amp;ssl=1" /></figure>
+<p>Following the outcomes of the interscholastic youth forum held in February of 2024, the Sons of Sureor worked with high school principals and Koror-based elementary school principals to establish the Interscholastic Student Body Association (ISBA).&#160; The meeting to elect ISBA’s first officers and to establish a committee took place on April 4 at the Palau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/interscholastic-student-body-association-established/">Interscholastic Student Body Association established</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/interscholastic-student-body-association-established/>
+
+---
+
+## Palau president backs Australia’s bid to host Cop31 climate summit after Dutton labels it ‘madness’
+
+date: 2025-04-11, from: Island Times
+
+<p>KOROR (THE GUARDIAN) &#8212; The president of Palau has strongly backed an Australian bid to host a UN climate conference on behalf of the Pacific, arguing that it would boost regional solidarity and clean energy investment, and he would be “deeply disappointed” if the attempt were abandoned under the Coalition. Speaking in Sydney, Surangel Whipps [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-president-backs-australias-bid-to-host-cop31-climate-summit-after-dutton-labels-it-madness/">Palau president backs Australia’s bid to host Cop31 climate summit after Dutton labels it ‘madness’</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-president-backs-australias-bid-to-host-cop31-climate-summit-after-dutton-labels-it-madness/>
+
+---
+
+## ADB sees growth declining for Asia and the Pacific
+
+date: 2025-04-11, from: Island Times
+
+<p>MANILA (ADB)&#8212; Economies in developing Asia and the Pacific are projected to grow 4.9 percent this year, down from 5.0 percent last year, according to the latest forecast by the Asian Development Bank (ADB). Solid domestic demand and strong global appetite for semiconductors driven by the artificial intelligence boom are supporting growth, but tariffs and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/adb-sees-growth-declining-for-asia-and-the-pacific/">ADB sees growth declining for Asia and the Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/adb-sees-growth-declining-for-asia-and-the-pacific/>
+
+---
+
+## U.S Pacific commander to advocate ‘most strongly’ for USAID to Pacific Islands
+
+date: 2025-04-11, from: Island Times
+
+<p>WASHINGTON (REUTERS)&#8212; The head of U.S forces for the Indo-Pacific, Admiral Samuel Paparo, said on Wednesday he would be advocating “most strongly” for the continuation of USAID funding to the Pacific Islands region, where U.S influence is being contested by China. Asked at a congressional hearing if the United States was missing opportunities with the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-pacific-commander-to-advocate-most-strongly-for-usaid-to-pacific-islands/">U.S Pacific commander to advocate &#8216;most strongly&#8217; for USAID to Pacific Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-pacific-commander-to-advocate-most-strongly-for-usaid-to-pacific-islands/>
+
+---
+
+## Guam lawmaker asks governor to intervene in education department ‘financial crisis’
+
+date: 2025-04-11, from: Island Times
+
+<p>HAGÅTÑA (THE GUAM DAILY POST) &#8212;- As of Friday, the Guam Department of Education returned US$125 million in unliquidated American Rescue Plan funds to the U.S Department of Education, a direct result of the abrupt end of the liquidation period on 28 March.&#160; But while local education officials and elected leaders have focused on getting [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guam-lawmaker-asks-governor-to-intervene-in-education-department-financial-crisis/">Guam lawmaker asks governor to intervene in education department ‘financial crisis’</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/guam-lawmaker-asks-governor-to-intervene-in-education-department-financial-crisis/>
+
+---
+
+## Trump announces 90-day pause on tariffs except for China
+
+date: 2025-04-11, from: Island Times
+
+<p>WASHINGTON (THE GUARDIAN)&#8212;U.S President Donald Trump has announced a 90-day pause on tariffs effective immediately. The U.S president, in a post on his Truth Social platform, wrote:I have authorised a 90 day PAUSE, and a substantially lowered Reciprocal Tariff during this period, of 10 percent, also effective immediately. Trump also said he would be raising [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trump-announces-90-day-pause-on-tariffs-except-for-china/">Trump announces 90-day pause on tariffs except for China</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trump-announces-90-day-pause-on-tariffs-except-for-china/>
+
+---
+
+## US President Donald Trump met his match in the bond market, triggering his tariff backflip
+
+date: 2025-04-11, from: Island Times
+
+<p>By chief business correspondent Ian Verrender &#160;(ABC-Australia) Donald Trump has finally met his match. Overnight, he was confronted by a force far greater than his own and the office he now holds. The US president ran headlong into a brick wall of opposition and had no option but to back down. It&#8217;s called the bond market [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-president-donald-trump-met-his-match-in-the-bond-market-triggering-his-tariff-backflip/">US President Donald Trump met his match in the bond market, triggering his tariff backflip</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/us-president-donald-trump-met-his-match-in-the-bond-market-triggering-his-tariff-backflip/>
+
+---
+
+## Tourist helicopter crashes into New York’s Hudson River, killing all six aboard
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(Reuters) — A tourist helicopter plummeted upside down into New York City's Hudson River on Thursday killing all six people on board, including a Spanish family with three children and the pilot, Mayor Eric Adams said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/tourist-helicopter-crashes-into-new-york-s-hudson-river-killing-all-six-aboard/article_3f5cb485-dab8-4901-ad3e-336e360978d8.html>
+
+---
+
+## ‘Signing Day’ takes on new meaning with Leeward CC students
+
+date: 2025-04-11, from: University of Hawaiʻi News
+
+<p>Future Leeward <abbr>CC</abbr> students lock in their futures at a high-energy career event.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/10/signing-day-leeward-cc-cte/">‘Signing Day’ takes on new meaning with Leeward <abbr>CC</abbr> students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/10/signing-day-leeward-cc-cte/>
+
+---
+
+## Art instructor, gallery coordinator helps Leeward CC shine
+
+date: 2025-04-11, from: University of Hawaiʻi News
+
+<p>Artist Kosta Kulund&#382;i&#263; uplifts Leeward <abbr>CC</abbr> students and community through bold exhibits and fresh perspectives.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/10/leeward-art-instructor-gallery-coordinator/">Art instructor, gallery coordinator helps Leeward <abbr>CC</abbr> shine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/10/leeward-art-instructor-gallery-coordinator/>
+
+---
+
+## Kwaj to get Coop school
+
+date: 2025-04-10, from: Marshal Islands Journal
+
+<p>Journal 4/9/1982 P2 Head Start specialist visiting centersFay Graef, Head Start program specialist from the San Francisco Regional office, is here visiting Head Start centers in Micronesia. Of the Head Start program here, she said she is impressed with the staff, the centers and their work, particularly the Policy Council of the Head Start program [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kwaj-to-get-coop-school/">Kwaj to get Coop school</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/kwaj-to-get-coop-school/>
 
 ---
 
@@ -1466,7 +2044,7 @@ date: 2025-04-08, from: Hawaii Tribune Harold
 
 date: 2025-04-08, from: Island Times
 
-<figure><img width="1024" height="862" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1024%2C862&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=300%2C253&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=1024%2C862&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=768%2C647&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=1200%2C1011&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=780%2C657&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=400%2C337&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=706%2C595&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1024%2C862&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76662" data-permalink="https://islandtimes.org/gov-rudimch-outlines-strategies-behind-koror-states-economic-rebound/attachment/1000007916/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1249%2C1052&amp;ssl=1" data-orig-size="1249,1052" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744024489&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000007916" data-image-description="" data-image-caption="&lt;p&gt;K&lt;br /&gt;
+<figure><img width="1024" height="862" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1024%2C862&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=300%2C253&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=1024%2C862&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=768%2C647&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=1200%2C1011&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=780%2C657&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=400%2C337&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=706%2C595&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1024%2C862&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76662" data-permalink="https://islandtimes.org/gov-rudimch-outlines-strategies-behind-koror-states-economic-rebound/attachment/1000007916/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1249%2C1052&amp;ssl=1" data-orig-size="1249,1052" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744024489&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000007916" data-image-description="" data-image-caption="&lt;p&gt;K&lt;br /&gt;
 oror State Leaders hip meet with Gov. Rudimch for state report&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=300%2C253&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=780%2C657&amp;ssl=1" /></figure>
 <p>Koror, Palau — Koror State has demonstrated resilience and made significant strides in recovery since the COVID-19 pandemic, according to Governor Eyos Rudimch, who addressed state leaders in a recent report on government progress. Rudimch credited collaboration between Koror’s leadership and its citizens for the state’s improved outlook. “Being resilient—how do we bounce back? Bouncing [&#8230;]</p>

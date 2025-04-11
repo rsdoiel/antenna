@@ -1,11 +1,241 @@
 ---
 title: snapshots
-updated: 2025-04-10 14:08:48
+updated: 2025-04-11 06:08:19
 ---
 
 # snapshots
 
-(date: 2025-04-10 14:08:48)
+(date: 2025-04-11 06:08:19)
+
+---
+
+## Asus NUC 15 Pro mini PCs with Intel Arrow Lake chips now available
+
+date: 2025-04-11, from: Liliputing
+
+<p>After introducing the Asus NUC 15 Pro and NUC 15 Pro+ mini PCs with Intel Arrow Lake processors during CES in January, Asus introduced them again with press releases in March and April. But you couldn&#8217;t actually buy the little desktop computers at the time. Now you can. This week Simply NUC announced it was taking [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/asus-nuc-15-pro-mini-pcs-with-intel-arrow-lake-chips-now-available/">Asus NUC 15 Pro mini PCs with Intel Arrow Lake chips now available</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/asus-nuc-15-pro-mini-pcs-with-intel-arrow-lake-chips-now-available/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+The year is 2052. Drinking water has been rationed globally. 42°C in Paris in the summer is now considered cool. Macron is halfway through his 7th term as President Eternal of France. And tech journalists are still convinced Bluesky is decentralized. 
+
+<br> 
+
+<https://mastodon.social/@nileane@nileane.fr/114318662375149806>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+Welcome to our shithole country, brought to you by That Trump Show, season 2. 
+
+<br> 
+
+<https://apnews.com/article/immigration-north-america-donald-trump-ap-top-news-international-news-fdda2ff0b877416c8ae1c1a77a3cc425>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+The Third-Worlding of America. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-third-worlding-of-america?publication_id=277517&post_id=161088216&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## The Third-Worlding of America
+
+date: 2025-04-11, from: Paul Krugman
+
+How to destroy 80 years of credibility in less than 3 months 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-third-worlding-of-america>
+
+---
+
+## My video chat today with former UK Chancellor George Osborne who ran the Brit economy for the Cameron gov’t
+
+date: 2025-04-11, from: Tina Brown
+
+I spoke this morning with George, one of the most knowledgeable men in global finance, about the U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161086989/2d91690db47230dfefc33bbb5d51a0dc.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161086989/2d91690db47230dfefc33bbb5d51a0dc.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-today-with-former-uk>
+
+---
+
+## How to build a Raspberry Pi 500 home recording studio: setting up your space
+
+date: 2025-04-11, from: Raspberry Pi News (.com)
+
+<p>Silent and powerful, Raspberry Pi 500 is a perfect recording studio computer. Learn how to build a budget-conscious recording space.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/how-to-build-a-raspberry-pi-500-home-recording-studio-setting-up-your-space/">How to build a Raspberry Pi 500 home recording studio: setting up your space</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/how-to-build-a-raspberry-pi-500-home-recording-studio-setting-up-your-space/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+I wrote this on March 28, published on my test blog for WordLand. We’ve built too much dependence on unreliable communication systems. “We need Timothy Snyder. We need Heather Cox Richardson, and we also need a plan for how we are going to communicate after democracy is done.” 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/03/28/we-need-a-plan-for-communication-after-the-end-of-democracy/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+Space Force Commander in Greenland Sent Out Email Breaking with Vance After His Visit. 
+
+<br> 
+
+<https://www.military.com/daily-news/2025/04/10/space-force-commander-greenland-sent-out-email-breaking-vance-after-his-visit.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+Stocks Dive Again as Angst Rises Over Trump’s Trade War. 
+
+<br> 
+
+<https://www.nytimes.com/live/2025/04/10/business/trump-tariffs-stocks>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+How Trump’s Forest Service Cuts Could Affect Wildland Firefighting. 
+
+<br> 
+
+<https://www.propublica.org/article/trump-doge-cuts-forest-service-firefighting>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+This Is Why Dictatorships Fail. 
+
+<br> 
+
+<https://www.theatlantic.com/politics/archive/2025/04/dictatorships-trump-republicans/682387/?gift=f35zZN0v_gDFE8xNwlQAHYbOSHQ8PDE8ECdpejCCxcM&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-11, from: Dave Winer's linkblog)
+
+The SAVE Act Would Hurt Americans Who Actively Participate in Elections. 
+
+<br> 
+
+<https://www.brennancenter.org/our-work/analysis-opinion/save-act-would-hurt-americans-who-actively-participate-elections>
+
+---
+
+## Default styles for h1 elements are changing
+
+date: 2025-04-11, updated: 2025-04-11, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developer.mozilla.org/en-US/blog/h1-element-styles/">Default styles for h1 elements are changing</a></strong></p>
+Wow, this is a rare occurrence! Firefox are rolling out a change to the default user-agent stylesheet for nested <code>&lt;h1&gt;</code> elements, currently ramping from 5% to 50% of users and with full roll-out planned for Firefox 140 in June 2025. Chrome is showing deprecation warnings and Safari are expected to follow suit in the future.</p>
+<p>What's changing? The default sizes of <code>&lt;h1&gt;</code> elements that are nested inside <code>&lt;article&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;nav&gt;</code> and <code>&lt;section&gt;</code>.</p>
+<p>These are the default styles being removed:</p>
+<blockquote>
+<pre><span class="pl-c">/* where x is :is(article, aside, nav, section) */</span>
+<span class="pl-ent">x</span> <span class="pl-ent">h1</span> { <span class="pl-c1">margin-block</span><span class="pl-kos">:</span> <span class="pl-c1">0.83<span class="pl-smi">em</span></span>; <span class="pl-c1">font-size</span><span class="pl-kos">:</span> <span class="pl-c1">1.50<span class="pl-smi">em</span></span>; }
+<span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">h1</span> { <span class="pl-c1">margin-block</span><span class="pl-kos">:</span> <span class="pl-c1">1.00<span class="pl-smi">em</span></span>; <span class="pl-c1">font-size</span><span class="pl-kos">:</span> <span class="pl-c1">1.17<span class="pl-smi">em</span></span>; }
+<span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">h1</span> { <span class="pl-c1">margin-block</span><span class="pl-kos">:</span> <span class="pl-c1">1.33<span class="pl-smi">em</span></span>; <span class="pl-c1">font-size</span><span class="pl-kos">:</span> <span class="pl-c1">1.00<span class="pl-smi">em</span></span>; }
+<span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">h1</span> { <span class="pl-c1">margin-block</span><span class="pl-kos">:</span> <span class="pl-c1">1.67<span class="pl-smi">em</span></span>; <span class="pl-c1">font-size</span><span class="pl-kos">:</span> <span class="pl-c1">0.83<span class="pl-smi">em</span></span>; }
+<span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">x</span> <span class="pl-ent">h1</span> { <span class="pl-c1">margin-block</span><span class="pl-kos">:</span> <span class="pl-c1">2.33<span class="pl-smi">em</span></span>; <span class="pl-c1">font-size</span><span class="pl-kos">:</span> <span class="pl-c1">0.67<span class="pl-smi">em</span></span>; }</pre>
+</blockquote>
+<p>The short version is that, many years ago, the HTML spec introduced the idea that an <code>&lt;h1&gt;</code> within a nested section should have the same meaning (and hence visual styling) as an <code>&lt;h2&gt;</code>. This never really took off and wasn't reflected by the accessibility tree, and was removed from the HTML spec in 2022. The browsers are now trying to cleanup the legacy default styles.</p>
+<p>This advice from that post sounds sensible to me:</p>
+<blockquote>
+<ul>
+<li><strong>Do not</strong> rely on default browser styles for conveying a heading hierarchy. Explicitly define your document hierarchy using <code>&lt;h2&gt;</code> for second-level headings, <code>&lt;h3&gt;</code> for third-level, etc.</li>
+<li>Always define your own <code>font-size</code> and <code>margin</code> for <code>&lt;h1&gt;</code> elements.</li>
+</ul>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43649853">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/css">css</a>, <a href="https://simonwillison.net/tags/html">html</a>, <a href="https://simonwillison.net/tags/firefox">firefox</a>, <a href="https://simonwillison.net/tags/mozilla">mozilla</a>, <a href="https://simonwillison.net/tags/browsers">browsers</a>, <a href="https://simonwillison.net/tags/safari">safari</a>, <a href="https://simonwillison.net/tags/chrome">chrome</a>, <a href="https://simonwillison.net/tags/web-standards">web-standards</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/11/default-styles-for-h1/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+Tesla used car listings skyrocketed in March. 
+
+<br> 
+
+<https://techcrunch.com/2025/04/10/tesla-used-car-listings-skyrocketed-in-march/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-10, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lminb2un2c2d>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-10, from: Robert's feed at BlueSky)
+
+Fun 😊👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmimqyfcus2d>
+
+---
+
+## Quoting Drew Breunig
+
+date: 2025-04-10, updated: 2025-04-10, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.dbreunig.com/2025/04/10/the-domain-experts-are-drivers.html"><p>The first generation of AI-powered products (often called “AI Wrapper” apps, because they “just” are wrapped around an LLM API) were quickly brought to market by small teams of engineers, picking off the low-hanging problems. But today, I’m seeing teams of domain experts wading into the field, hiring a programmer or two to handle the implementation, while the experts themselves provide the prompts, data labeling, and evaluations.</p>
+<p>For these companies, <em>the coding is commodified but the domain expertise is the differentiator</em>.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.dbreunig.com/2025/04/10/the-domain-experts-are-drivers.html">Drew Breunig</a>, The Dynamic Between Domain Experts &amp; Developers Has Shifted</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/drew-breunig">drew-breunig</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/10/drew-breunig/#atom-everything>
 
 ---
 
@@ -528,6 +758,18 @@ at
 <br> 
 
 <https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/216a445e1a1e21dc1d6fa545a08627ce3d2cae06>
+
+---
+
+## It's time for Dolly to record that long-lost Prince song.
+
+date: 2025-04-10, updated: 2025-04-10, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/04/10/dolly-prince-rescue-me/>
 
 ---
 

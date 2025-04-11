@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-04-10 14:08:46
+updated: 2025-04-11 06:08:16
 ---
 
 # motorcycles
 
-(date: 2025-04-10 14:08:46)
+(date: 2025-04-11 06:08:16)
+
+---
+
+## This E-Bike Shares a Charger With Your Laptop and Smartphone
+
+date: 2025-04-11, from: Ride Apart, Electric Motorcycle News
+
+And it can charge your smartphone, too.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756163/ampler-ebike-usb-type-c-charging/>
+
+---
+
+## Hear Me Out, KTM Shouldn't Be Testing Any Prototype Models Right Now
+
+date: 2025-04-11, from: Ride Apart, Electric Motorcycle News
+
+Shouldn't it be focusing on building bikes? 
+
+<br> 
+
+<https://www.rideapart.com/news/756243/ktm-690-adventure-r-rally-spied-testing/>
+
+---
+
+## This Electric Dirt Bike Startup Is Making Its Way To the US; Should You Be Hyped?
+
+date: 2025-04-11, from: Ride Apart, Electric Motorcycle News
+
+The Bonnel 805 and 902 electric dirt bikes will be available by May of this year. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756159/bonnell-electric-dirtbikes-coming-soon-usa/>
 
 ---
 

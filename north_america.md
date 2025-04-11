@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-04-10 14:08:39
+updated: 2025-04-11 06:08:10
 ---
 
 # north america
 
-(date: 2025-04-10 14:08:39)
+(date: 2025-04-11 06:08:10)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-11, from: The Contrarian
+
+Friday: Favorite signs, protests from the Hands Off protests across the country, including in New Jersey, Washington, Utah, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Undaunted: The Associated Press
+
+date: 2025-04-11, from: The Contrarian
+
+Stand up to bullies, and you just might win 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-the-associate-press>
+
+---
+
+## Evening Roundup, April 10
+
+date: 2025-04-10, from: The Contrarian
+
+Featuring Jess Piper & Jen Rubin; Shalise Manza Young; Mimi Rocah; Meredith Blake; Frederic Fromer; RJ Matson; David Bernell and Thomas Graham; and the Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-10>
+
+---
+
+## Patrick Schwarzenegger is a nepo baby I can endorse
+
+date: 2025-04-10, from: The Contrarian
+
+In The White Lotus, he defied expectations by bringing depth to an entitled creep 
+
+<br> 
+
+<https://contrarian.substack.com/p/patrick-schwarzenegger-is-a-nepo>
 
 ---
 
@@ -94,18 +142,6 @@ Roosevelt led the nation through the Depression and World War II through a recor
 <br> 
 
 <https://contrarian.substack.com/p/80-years-ago-fdrs-death-ended-one>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-10, from: The Contrarian
-
-Thursday: More posts from the Hands Off protests across the country, including in Florida, Michigan, Indiana, Texas, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

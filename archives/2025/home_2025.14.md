@@ -1,11 +1,121 @@
 ---
 title: home
-updated: 2025-04-10 14:08:45
+updated: 2025-04-11 06:08:16
 ---
 
 # home
 
-(date: 2025-04-10 14:08:45)
+(date: 2025-04-11 06:08:16)
+
+---
+
+## 21 of the Best Summer Squash Varieties for Your Garden
+
+date: 2025-04-11, from: The Gardener's Path
+
+<p>Want to grow your own summer squash? These veggies are available in a delicious assortment of colors, shapes, patterns, and sizes. Whether you prefer your squash grilled, stuffed, spiralized, or sauteed, you have your pick for the garden. Discover 21 of the best summer squash varieties and choose your favorite now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-summer-squash-varieties/">21 of the Best Summer Squash Varieties for Your Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-summer-squash-varieties/>
+
+---
+
+## How to Plant and Grow Okra in Your Home Veggie Patch
+
+date: 2025-04-11, from: The Gardener's Path
+
+<p>Okra is a flowering plant with elongated, edible pods that are frequently used as a thickening agent in gumbo. With colorful varieties ranging from dwarf to over eight feet, it’s as pretty in the garden as it is functional. Read on to learn how easy it is to grow okra in your vegetable patch, here on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/growing-okra/">How to Plant and Grow Okra in Your Home Veggie Patch</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/growing-okra/>
+
+---
+
+## 7 of the Best Varieties of Popcorn to Grow Your Own
+
+date: 2025-04-11, from: The Gardener's Path
+
+<p>The must-have movie companion, popcorn is one of the most popular snacks around. Whether you prefer it salty, sweet, or smothered in butter, if you’re a fan of popcorn and are thinking of having a "pop" at growing your own, then check out our handy roundup of the best varieties to grow, now on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-popcorn-varieties/">7 of the Best Varieties of Popcorn to Grow Your Own</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-popcorn-varieties/>
+
+---
+
+## How and When to Prune Blackberry Bushes
+
+date: 2025-04-11, from: The Gardener's Path
+
+<p>Learning how to correctly prune blackberry bushes will result in stronger, healthier plants with annual harvests of large and juicy fruit. It is also an important step to keeping brambles from becoming tangled and unmanageable. Read more for detailed information on how and when to trim blackberries.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/prune-blackberries/">How and When to Prune Blackberry Bushes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/prune-blackberries/>
+
+---
+
+## How to Grow and Care for Calla Lilies
+
+date: 2025-04-11, from: The Gardener's Path
+
+<p>Calla lilies are loved for their gorgeous colorful flowers and handsome upright foliage that looks good all season long. A knockout as a specimen plant, these easy-to-grow rhizomes also look terrific mixed in perennial beds and patio pots. Learn how to grow calla lilies for easy sophistication right here. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-calla-lily/">How to Grow and Care for Calla Lilies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-calla-lily/>
+
+---
+
+## Avocado Nutrition Facts…or Fiction
+
+date: 2025-04-10, from: California Grown
+
+<p>Avocados are easy to love. Their creamy texture, gorgeous green colors ranging from the dark green pebbly skin to the pale green flesh, and their versatility make them a must-have produce item &#8211; something to buy every time you visit the grocery store. But are they really good for your health and wellbeing? Which avocado nutrition [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/avocado-nutrition-facts/" data-wpel-link="internal" target="_self">Avocado Nutrition Facts…or Fiction</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/avocado-nutrition-facts/>
+
+---
+
+## Downsizing the Dream: Why Millennials Are Opting for Smaller Homes
+
+date: 2025-04-10, from: Family Handyman Blog
+
+<p>Millennials have become a driving force in the housing industry. How will this change home building?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/millennials-buying-smaller-homes/">Downsizing the Dream: Why Millennials Are Opting for Smaller Homes</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/millennials-buying-smaller-homes/>
+
+---
+
+## 15 Salad Recipes That Put the Taste of Spring Right onto Your Plate
+
+date: 2025-04-10, from: Sunset Magazine - Living in the West
+
+Use ingredients from your own garden or the farmer’s market to toss together an amazing spring salad. Check out our favorite recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/spring-salads>
 
 ---
 
@@ -18,6 +128,18 @@ When FOBA introduced a design-conscious alternative to the widely used "housemak
 <br> 
 
 <https://www.dwell.com/article/from-the-archive-an-experimental-firm-brought-the-avant-garde-to-japans-factory-made-houses-b820bbae>
+
+---
+
+## This 40-Year-Old IKEA Collection Just Got an Update
+
+date: 2025-04-10, from: Sunset Magazine - Living in the West
+
+Since IKEA's Stockholm collection debuted in 1985, it's gone through eight iterations. Its latest one was launched for its 40th anniversary. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/ikea-stockholm-2025>
 
 ---
 
@@ -68,6 +190,18 @@ date: 2025-04-10, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/fruit/best-grape-varieties/>
+
+---
+
+## This City Is Surprisingly the Best Home Base for Remote Workers
+
+date: 2025-04-10, from: Sunset Magazine - Living in the West
+
+Though it's certainly not the cheapest place to live, the California metropolis of Los Angeles has ranked the best for digital nomads. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-city-remote-work-digital-nomad>
 
 ---
 
@@ -182,18 +316,6 @@ date: 2025-04-10, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/goldenrod-types/>
-
----
-
-## 15 Salad Recipes That Put the Taste of Spring Right onto Your Plate
-
-date: 2025-04-10, from: Sunset Magazine - Living in the West
-
-Use ingredients from your own garden or the farmer’s market to toss together an amazing spring salad. Check out our favorite recipes. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/spring-salads>
 
 ---
 
@@ -600,6 +722,18 @@ date: 2025-04-07, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/when-to-prune-trees/>
+
+---
+
+## The Best Bedroom Lighting Inspiration Can Be Found in Hotel Rooms
+
+date: 2025-04-07, from: Sunset Magazine - Living in the West
+
+The best place to find bedroom lighting inspiration is a hotel room. Take a look at these chic rooms in hotels across the West. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/hotel-room-lighting-inspiration-ideas>
 
 ---
 

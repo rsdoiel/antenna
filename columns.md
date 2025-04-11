@@ -1,11 +1,214 @@
 ---
 title: columns
-updated: 2025-04-10 14:08:42
+updated: 2025-04-11 06:08:13
 ---
 
 # columns
 
-(date: 2025-04-10 14:08:42)
+(date: 2025-04-11 06:08:13)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-11, from: Dave Winer's Scripting News)
+
+When young people come out of university in a technical subject, they think they know more than people already doing the jobs. They quickly learn that in school they were doing "student projects" which are not the real thing. <a href="https://bsky.app/profile/radiofreeameri.ca/post/3lmjtnotspv2z">Ooops</a>, maybe we didn't know as much as we thought. 
+
+<br> 
+
+<http://scripting.com/2025/04/11.html#a124534>
+
+---
+
+## Friday Squid Blogging: Squid and Efficient Solar Tech
+
+date: 2025-04-11, updated: 2025-04-03, from: Bruce Schneier blog
+
+<p>Researchers are trying to <a href="https://www.sciencealert.com/squids-amazing-color-shifting-could-be-key-to-hyper-efficient-solar-tech">use</a> squid color-changing biochemistry for solar tech.</p>
+<p>This appears to be new and related research to a 2019 <a href="https://www.schneier.com/blog/archives/2019/03/friday_squid_bl_669.html">squid post</a>.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-squid-and-efficient-solar-tech.html>
+
+---
+
+## AI Vulnerability Finding
+
+date: 2025-04-11, updated: 2025-04-10, from: Bruce Schneier blog
+
+<p>Microsoft is <a href="https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/">reporting</a> that its AI systems are able to find <a href="https://www.bleepingcomputer.com/news/security/microsoft-uses-ai-to-find-flaws-in-grub2-u-boot-barebox-bootloaders/">new vulnerabilities</a> in source code:</p>
+<blockquote><p>Microsoft discovered eleven vulnerabilities in GRUB2, including integer and buffer overflows in filesystem parsers, command flaws, and a side-channel in cryptographic comparison.</p>
+<p>Additionally, 9 buffer overflows in parsing SquashFS, EXT4, CramFS, JFFS2, and symlinks were discovered in U-Boot and Barebox, which require physical access to exploit.</p>
+<p>The newly discovered flaws impact devices relying on UEFI Secure Boot, and if the right conditions are met, attackers can bypass security protections to execute arbitrary code on the device...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/ai-vulnerability-finding.html>
+
+---
+
+## Face with Tears of Joy, revealed!
+
+date: 2025-04-11, from: Shady Characters blog
+
+<p>Please allow me to introduce the cover of my next book, <a href="/books/face-with-tears-of-joy"><cite>Face with Tears of Joy: A Natural History of Emoji</cite></a>!</p>
+<p>‘😂’ will be published in July this year, and you can pre-order the paperback in the <abbr class="initialism">USA</abbr> from <a href="https://wwnorton.com/books/9781324075158">Norton</a>, <a href="https://www.amazon.com/Face-Tears-Joy-Natural-History/dp/1324075147/">Amazon.com</a>, <a href="https://www.barnesandnoble.com/w/face-with-tears-of-joy-keith-houston/1146267808">Barnes &#38; Noble</a>, <a href="https://www.booksamillion.com/p/Face-Tears-Joy/Keith-Houston/9781324075141">Books A Million</a>, <a href="https://bookshop.org/p/books/face-with-tears-of-joy-a-natural-history-of-emoji/b7e482367ef72daf">Bookshop.org</a>, <a href="https://www.hudsonbooksellers.com/book/9781324075141">Hudson</a>, <a href="https://www.powells.com/book/face-with-tears-of-joy-9781324075141">Powell’s</a>,  or <a href="https://www.walmart.com/ip/Face-with-Tears-of-Joy-A-Natural-History-of-Emoji-Paperback-9781324075141/11400706311">Walmart</a>. In the rest of the world, order from <a href="https://www.amazon.co.uk/Face-Tears-Joy-Natural-History/dp/1324075147/">Amazon.co.uk</a>, <a href="https://uk.bookshop.org/p/books/face-with-tears-of-joy-a-natural-history-of-emoji-keith-houston/7763425">Bookshop.org</a> or <a href="https://www.waterstones.com/book/face-with-tears-of-joy/keith-houston/9781324075141">Waterstones</a>.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/04/face-with-tears-of-joy-revealed/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/04/face-with-tears-of-joy-revealed/>
+
+---
+
+## Twelve small reasons for modest hope
+
+date: 2025-04-11, from: Robert Reich's blog
+
+This week's slightly encouraging news 
+
+<br> 
+
+<https://robertreich.substack.com/p/twelve-small-reasons-for-modest-hope>
+
+---
+
+## 2025-04-09 Balconia
+
+date: 2025-04-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-09-balconia">2025-04-09 Balconia</h1>
+
+<p>Some pictures from the balcony pointing south east, i.e. the sunny one.
+This is what it looks like: some breakfast ready to eat, with a newspaper on the table, the reeds with all the bees to the left (mostly Osmia), and potted plants all around.</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-6.jpg" alt="" /></p>
+
+<p>I took these pictures in response to <a class="account" href="https://rage.love/@GwenfarsGarden" title="@GwenfarsGarden@rage.love">@GwenfarsGarden</a>&rsquo;s blog post, <a href="https://www.gwenfarsgarden.info/2025/04/recently-flowering.html">Photo essay: recently flowering</a>.</p>
+
+<p>Goldlack<br>
+Erysimum cheiri</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-26.jpg" alt="" /></p>
+
+<p>Armenische Traubenhyazinthe<br>
+Muscari armeniacum</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-27.jpg" alt="" /></p>
+
+<p>Gewöhnliche Küchenschelle<br>
+Pulsatilla vulgaris</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-1.jpg" alt="" /></p>
+
+<p>Stiefmütterchen
+Viola</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-2.jpg" alt="" /></p>
+
+<p>Einjähriges Silberblatt<br>
+Lunaria annua</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-3.jpg" alt="" /></p>
+
+<p>Kohl-Gänsedistel<br>
+Sonchus oleraceus</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-4.jpg" alt="" /></p>
+
+<p>Löwenzahn<br>
+Taraxacum</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-5.jpg" alt="" /></p>
+
+<p>Frühlings-Platterbse<br>
+Lathyrus vernus</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-7.jpg" alt="" /></p>
+
+<p>Griechisches Blaukissen<br>
+Aubrieta deltoidea</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-8.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-09-balconia>
+
+---
+
+## April 10, 2025 
+
+date: 2025-04-11, from: Heather Cox Richardson blog
+
+We are on the West Coast and are just now back to the hotel before an early flight tomorrow. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-10-2025>
+
+---
+
+## Reimagining Democracy
+
+date: 2025-04-11, updated: 2025-04-09, from: Bruce Schneier blog
+
+<p>Imagine that all of us&#8212;all of society&#8212;have landed on some alien planet and need to form a government: clean slate. We do not have any legacy systems from the United States or any other country. We do not have any special or unique interests to perturb our thinking. How would we govern ourselves? It is unlikely that we would use the systems we have today. Modern representative democracy was the best form of government that eighteenth-century technology could invent. The twenty-first century is very different: scientifically, technically, and philosophically. For example, eighteenth-century democracy was designed under the assumption that travel and communications were both hard...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/reimagining-democracy-2.html>
+
+---
+
+## Friday 11 April, 2025
+
+date: 2025-04-10, from: John Naughton's online diary
+
+Jesus on the Mainline Reminds me of Ry Cooder’s song. Quote of the Day ”The threat of autocracy advances each day under Donald Trump, and it is a process that hides in plain sight. Some will choose to deny it, &#8230; <a href="https://memex.naughtons.org/friday-11-april-2025/40665/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-11-april-2025/40665/>
+
+---
+
+## It’s Not Just Trump Destroying Democracy
+
+date: 2025-04-10, from: Dan Rather's Steady
+
+The House passes a bill that could disenfranchise millions 
+
+<br> 
+
+<https://steady.substack.com/p/its-not-just-trump-destroying-democracy>
+
+---
+
+## Wayne Ma at The Information: ‘How Apple Fumbled Siri’s AI Makeover’
+
+date: 2025-04-10, updated: 2025-04-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/apple-fumbled-siris-ai-makeover?rc=jfy0lk>
+
+---
+
+## Summing up the curl distro 2025 meet
+
+date: 2025-04-10, from: Daniel Stenberg Blog
+
+On April 10 we ran the curl distro meeting 2025. A, by now, annual open meeting where maintainers from the curl project hang out with curl package maintainers for distros and other people who are interested. The mission is to improve curl for distros, and improve how the distros &#8220;do&#8221; curl. Around ten people joined. &#8230; <a href="https://daniel.haxx.se/blog/2025/04/10/summing-up-the-curl-distro-2025-meet/" class="more-link">Continue reading <span class="screen-reader-text">Summing up the curl distro 2025 meet</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/04/10/summing-up-the-curl-distro-2025-meet/>
 
 ---
 
@@ -426,6 +629,18 @@ date: 2025-04-10, updated: 2025-04-10, from: Jason Kittke's blog
 
 ---
 
+## It's time for Dolly to record that long-lost Prince song.
+
+date: 2025-04-10, updated: 2025-04-10, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/04/10/dolly-prince-rescue-me/>
+
+---
+
 ##  What It Feels Like, Right Now. &#8220;It&#8217;s hard to focus. It&#8217;s hard... 
 
 date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
@@ -584,7 +799,6 @@ date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
 
 ## The Cootie Zone
 
-
 date: 2025-04-09, from: Dave Winer's Scripting News
 
 <p>All Trump is doing is making the US the <a href="https://en.wikipedia.org/wiki/Cooties">cootie</a> zone.</p>
@@ -625,62 +839,6 @@ date: 2025-04-09, updated: 2025-04-08, from: Bruce Schneier blog
 <br> 
 
 <https://www.schneier.com/blog/archives/2025/04/how-to-leak-to-a-journalist.html>
-
----
-
-## 2025-04-09 Balconia
-
-date: 2025-04-09, from: Alex Schroeder's Blog
-
-<h1 id="2025-04-09-balconia">2025-04-09 Balconia</h1>
-
-<p>Some pictures from the balcony pointing south east, i.e. the sunny one.
-This is what it looks like: some breakfast ready to eat, with a newspaper on the table, the reeds with all the bees to the left (mostly Osmia), and potted plants all around.</p>
-
-<p><img loading="lazy" src="2025-04-09-balconia-6.jpg" alt="" /></p>
-
-<p>I took these pictures in response to <a class="account" href="https://rage.love/@GwenfarsGarden" title="@GwenfarsGarden@rage.love">@GwenfarsGarden</a>&rsquo;s blog post, <a href="https://www.gwenfarsgarden.info/2025/04/recently-flowering.html">Photo essay: recently flowering</a>.</p>
-
-<p>Goldlack<br>
-Erysimum cheiri</p>
-
-<p><img loading="lazy" src="2025-03-21-blumen-26.jpg" alt="" /></p>
-
-<p>Armenische Traubenhyazinthe<br>
-Muscari armeniacum</p>
-
-<p><img loading="lazy" src="2025-03-21-blumen-27.jpg" alt="" /></p>
-
-<p>Gewöhnliche Küchenschelle<br>
-Pulsatilla vulgaris</p>
-
-<p><img loading="lazy" src="2025-04-09-balconia-1.jpg" alt="" /></p>
-
-<p>Stiefmütterchen
-Viola</p>
-
-<p><img loading="lazy" src="2025-04-09-balconia-2.jpg" alt="" /></p>
-
-<p>Einjähriges Silberblatt<br>
-Lunaria annua</p>
-
-<p><img loading="lazy" src="2025-04-09-balconia-3.jpg" alt="" /></p>
-
-<p>Kohl-Gänsedistel<br>
-Sonchus oleraceus</p>
-
-<p><img loading="lazy" src="2025-04-09-balconia-4.jpg" alt="" /></p>
-
-<p>Löwenzahn<br>
-Taraxacum</p>
-
-<p><img loading="lazy" src="2025-04-09-balconia-5.jpg" alt="" /></p>
-
-<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-04-09-balconia>
 
 ---
 
@@ -1161,6 +1319,18 @@ date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
 
 ---
 
+## The Silent Collapse of Photo Licensing
+
+date: 2025-04-08, from: Om Malik blog
+
+Kaptur writes: Particularly in marketing, where demand for fast, customized visuals is high, 39% of marketers use AI to create social media visuals, and 36% to generate website imagery. The accessibility and sophistication of these tools are rapidly eating into the traditional domain of stock photography. The global stock photography market was valued at $4.65 &#8230; 
+
+<br> 
+
+<https://om.co/2025/04/08/the-silent-collapse-generative-ais-erosion-of-photo-licensing-revenue-kaptur/>
+
+---
+
 ## Arguing Against CALEA
 
 date: 2025-04-08, updated: 2025-04-07, from: Bruce Schneier blog
@@ -1393,8 +1563,8 @@ Two years later the Stanford Linear Accelerator Center put the first US Web page
   Now, consider a library acquiring information in an electronic format. <b>Such information is almost never, today, sold to a library (under the doctrine of first sale); rather, it is licensed to the library that acquires it</b>, with the terms under which the acquiring library can utilize the information defined by a contract typically far more restrictive than copyright law. The licensing contract typically includes statements that define the user community permitted to utilize the electronic information as well as terms that define the specific uses that this user community may make of the licensed electronic information.  These terms typically do not reflect any consideration of public policy decisions such as fair use, and in fact the licensing organization may well be liable for what its patrons do with the licensed information.
   <blockquote>
     <small>
-    <a href="https://eric.ed.gov/?id=ED368360"><i>Accessibility and Integrity of Networked Information Collections</i></a><br />
-      Page 30 (our emphasis)
+    <a href="https://web.archive.org/web/20250116174041/http://files.eric.ed.gov/fulltext/ED368360.pdf"><i>Accessibility and Integrity of Networked Information Collections</i></a><br />
+      Page 30 (our emphasis)<sup><a href="#Footnote0">[0]</a></sup>
     </small>
   </blockquote>
 </div>
@@ -1403,8 +1573,8 @@ Cliff's report was wide-ranging and insightful. In particular, he noted the chan
 Very few contracts with publishers today are perpetual licenses; rather, they are licenses for a fixed period of time, with terms subject to renegotiation when that time period expires. Libraries typically have no controls on price increase when the license is renewed; thus, rather than considering a traditional collection development decision about whether to renew a given subscription in light of recent price increases, they face the <b>decision as to whether to lose all existing material that is part of the subscription as well as future material</b> if they choose not to commit funds to cover the publisher's price increase at renewal time.
   <blockquote>
     <small>
-    <a href="https://eric.ed.gov/?id=ED368360"><i>Accessibility and Integrity of Networked Information Collections</i></a><br />
-      Page 31 (our emphasis)
+    <a href="https://web.archive.org/web/20250116174041/http://files.eric.ed.gov/fulltext/ED368360.pdf"><i>Accessibility and Integrity of Networked Information Collections</i></a><br />
+      Page 31 (our emphasis)<sup><a href="#Footnote0">[0]</a></sup>
     </small>
   </blockquote>
 </div>
@@ -1631,7 +1801,7 @@ The reason the Web runs on URLs not URNs is that the underlying Internet's addre
 <br />
 The goal of digital preservation is to create one or more persistent, accessible replicas of the content to be preserved. In "what" networks, each copy has the <i>same</i> URN. In IP-based networks, each copy has a <i>different URL</i>; to access the replica requires knowing <i>where</i> it is. Thus if the original of the preserved content goes away, links to it no longer resolve.<br />
 <br />
-<div align="center"; style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;"> 
+<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;"> 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0WcDxzlJ9Iu0DpK8jAa-g9AGBf8vrgdbiBlpgzSiu8-_fpwERheX4aWPL8CIasB7Qlx0FEqZj3uVK4aeqyX5v90-9PcTaImMYhdl3fIksPQOyeGoX3yc4ZhiWdGMhY6ro-hlEyj9X5DAtMc2ToOG1s0BETLSLNP3A9Mu0-Qs1KIkz5FUk2xcMxzrYhj_c/s2026/Memento.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1662" data-original-width="2026" height="263" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0WcDxzlJ9Iu0DpK8jAa-g9AGBf8vrgdbiBlpgzSiu8-_fpwERheX4aWPL8CIasB7Qlx0FEqZj3uVK4aeqyX5v90-9PcTaImMYhdl3fIksPQOyeGoX3yc4ZhiWdGMhY6ro-hlEyj9X5DAtMc2ToOG1s0BETLSLNP3A9Mu0-Qs1KIkz5FUk2xcMxzrYhj_c/s320/Memento.png" width="320" /></a>
 </div>
 <a href="https://ws-dl.blogspot.com/2016/08/2016-08-30-memento-at-w3c.html">Starting in 2010</a>, 2017 <a href="https://youtu.be/o4nUe-6Ln-8">Paul Evan Peters awardee Herbert Van de Sompel</a> and others made a valiant effort to solve this problem with <a href="https://tools.ietf.org/rfc/rfc7089.txt">Memento</a>. Accepting the fact that persistent replicas of content at a URL at different times in the past would have different URLs, they provided an HTTP-based mechanism for discovering the URL of the replica close to a desired time. In some cases, such as Wikis, the original Web site implements the discovery mechanism and the underlying timeline. In other cases, such as the <a href="https://web.archive.org">Wayback Machine</a>, the site holding the replica implements the timeline. Since there are likely to be multiple Web archives with replicas of a given URL, Memento in practice depends upon <a href="https://blog.dshr.org/2013/03/re-thinking-memento-aggregation.html">Aggregator services</a> to provide a unified timeline of the replica space.<br />
@@ -1703,7 +1873,7 @@ What is a useful definition of archival data? It is data that can no longer earn
 <br />
 <h4>Hype</h4>
 <div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAyYjkH9TLUhALSQYV1wtt2Me0T6jrNemHZWgvrrJmkQBljXiAj56LrUrchUe9ZIzuOygwSTWv74j_yfc_o6Azne6qEyUvig44b7fIMi5dNyjVQyT2Q9hDotm6muqQZSyaYeVxRjjMMYY49BwqvPk-7zi8hYhNuWFGZNfOSMU-uBrPqDMTmcEcmmYqBJfS/s3074/Pair.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1306" data-original-width="3074" height="136" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAyYjkH9TLUhALSQYV1wtt2Me0T6jrNemHZWgvrrJmkQBljXiAj56LrUrchUe9ZIzuOygwSTWv74j_yfc_o6Azne6qEyUvig44b7fIMi5dNyjVQyT2Q9hDotm6muqQZSyaYeVxRjjMMYY49BwqvPk-7zi8hYhNuWFGZNfOSMU-uBrPqDMTmcEcmmYqBJfS/s320/Pair.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.dailymail.co.uk/sciencetech/article-2267158/Could-genome-inspire-hard-drives-future-Complete-works-Shakespeare-downloaded-synthetic-DNA.html">Source</a> &amp; <a href="https://www.newyorker.com/culture/the-lede/could-we-store-our-data-in-dna">Source</a></td></tr></tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAyYjkH9TLUhALSQYV1wtt2Me0T6jrNemHZWgvrrJmkQBljXiAj56LrUrchUe9ZIzuOygwSTWv74j_yfc_o6Azne6qEyUvig44b7fIMi5dNyjVQyT2Q9hDotm6muqQZSyaYeVxRjjMMYY49BwqvPk-7zi8hYhNuWFGZNfOSMU-uBrPqDMTmcEcmmYqBJfS/s3074/Pair.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1306" data-original-width="3074" height="136" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAyYjkH9TLUhALSQYV1wtt2Me0T6jrNemHZWgvrrJmkQBljXiAj56LrUrchUe9ZIzuOygwSTWv74j_yfc_o6Azne6qEyUvig44b7fIMi5dNyjVQyT2Q9hDotm6muqQZSyaYeVxRjjMMYY49BwqvPk-7zi8hYhNuWFGZNfOSMU-uBrPqDMTmcEcmmYqBJfS/s320/Pair.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.dailymail.co.uk/sciencetech/article-2267158/Could-genome-inspire-hard-drives-future-Complete-works-Shakespeare-downloaded-synthetic-DNA.html">Source</a> &amp; <a href="https://www.newyorker.com/culture/the-lede/could-we-store-our-data-in-dna">Source</a></td></tr></tbody></table>
 </div>
 The mainstream media occasionally comes out with an announcement like this from the <i>Daily Mail</i> in 2013, or this from the <i>New Yorker</i> last month. Note the extrapolation from "a 26 second excerpt" to "every film and TV program ever created in a teacup".<br />
 <div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
@@ -1754,7 +1924,8 @@ The fundamental idea behind LOCKSS was that, given a limited budget and a realis
 </div>
 When giving talks about LOCKSS Vicky or I often used to feel like the Sergeant in <a href="https://en.wikipedia.org/wiki/Alice%27s_Restaurant"><i>Alice's Restaurant</i></a> who "spoke for 45 minutes and nobody understood a word he said". We hope that this time we did better. Lets see if we did as we answer your questions.<br />
 <h3>Footnotes</h3>
-<ol>
+<ol start=0>
+<li id="Footnote0">Links to Lynch's Office of Technology Assessment report have been replaced by links to the Wayback Machine's copy collected by the <a href="https://eotarchive.org/">End Of Term Crawl</a>. The original was hosted at the <a href="https://eric.ed.gov/?">Dept. of Education's ERIC website</a>. The Department is currectly at risk of being shut down.</li>
 <li id="Footnote1">In 2006 Vicky predicted that, without collection stewardship, libraries and Starbucks would become indistinguishable. Here is a real Starbucks ad, with one minor addition.<br />
 <br />
 <div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">

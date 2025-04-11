@@ -1,11 +1,75 @@
 ---
 title: food
-updated: 2025-04-10 14:08:47
+updated: 2025-04-11 06:08:17
 ---
 
 # food
 
-(date: 2025-04-10 14:08:47)
+(date: 2025-04-11 06:08:17)
+
+---
+
+## Weekly Coffee News: EUDR Compliance Guide + Rebranding in Portland
+
+date: 2025-04-11, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee deforestation" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Digital Coffee Future Launches EUDR Compliance Guide Digital Coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/11/weekly-coffee-news-eudr-compliance-guide-rebranding-in-portland/>
+
+---
+
+## Climate Change Hits India’s ‘Champagne of Teas’ Where It Hurts
+
+date: 2025-04-11, from: The Fresh Cup
+
+<p>Darjeeling, known for its eponymous black tea, is facing erratic weather patterns that have reduced yields and severely impacted quality. </p>
+<p>The post <a href="https://freshcup.com/climate-change-hits-indias-champagne-of-teas-where-it-hurts/">Climate Change Hits India’s ‘Champagne of Teas’ Where It Hurts</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/climate-change-hits-indias-champagne-of-teas-where-it-hurts/>
+
+---
+
+## Rice Cooker Risotto and More Recipes We Made This Week
+
+date: 2025-04-11, from: Bon Appetet
+
+Like gochujang-sesame noodles and matzo balls. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-april-2025>
+
+---
+
+## Chicken Wings Dry Rub Recipe
+
+date: 2025-04-11, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/chicken-wings-dry-rub/" title="Chicken Wings Dry Rub Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Dry rub for chicken wings in a bowl with cooked chicken wings in another bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Dry-Rub-Chicken-Wings-4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>My personal chicken wing dry rub uses 13 different spices to form a harmonious mix of vibrant, bold flavor that will take your wings to a whole new level. Perfect for any way you cook your wings.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/chicken-wings-dry-rub/">Chicken Wings Dry Rub Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/chicken-wings-dry-rub/>
+
+---
+
+## I Need Fool-Proof Matzo Ball Recipes
+
+date: 2025-04-10, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Kate help Janae tackle the art of the matzo ball. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-fool-proof-matzo-ball-recipes>
 
 ---
 
@@ -125,7 +189,7 @@ date: 2025-04-10, from: Taste of Home
 
 date: 2025-04-10, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Expo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) is rebranding its flagship United States event, Specialty Coffee Expo, as World of Coffee. Announced just ahead of the 2025 event taking place April 25-27... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Expo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) is rebranding its flagship United States event, Specialty Coffee Expo, as World of Coffee. Announced just ahead of the 2025 event taking place April 25-27... 
 
 <br> 
 
@@ -333,7 +397,7 @@ Mayo is just oil and eggs, which actually works as an egg fat replacement in thi
 
 date: 2025-04-09, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee in a grinder" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>U.S. Representatives Jill Tokuda (D-HI) and William Timmons (R-SC) yesterday launched the Congressional Coffee Caucus, a first-of-its-kind caucus supporting the coffee industry. The Congressional Caucus, which has been months in... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee in a grinder" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>U.S. Representatives Jill Tokuda (D-HI) and William Timmons (R-SC) yesterday launched the Congressional Coffee Caucus, a first-of-its-kind caucus supporting the coffee industry. The Congressional Caucus, which has been months in... 
 
 <br> 
 
@@ -409,7 +473,7 @@ date: 2025-04-09, from: The Fresh Cup
 
 date: 2025-04-09, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chicken-al-pastor/" title="Homemade Chicken al Pastor" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="3 Chicken al Pastor tacos on a plate, ready to be enjoyed." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This recipe for Chicken al Pastor is a spicy-sweet delight with marinated chicken thighs grilled up with fresh pineapple, then chopped and served on tortillas, taco style. Don't forget the toppings!</p>
+<a href="https://www.chilipeppermadness.com/recipes/chicken-al-pastor/" title="Homemade Chicken al Pastor" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="3 Chicken al Pastor tacos on a plate, ready to be enjoyed." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This recipe for Chicken al Pastor is a spicy-sweet delight with marinated chicken thighs grilled up with fresh pineapple, then chopped and served on tortillas, taco style. Don't forget the toppings!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chicken-al-pastor/">Homemade Chicken al Pastor</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-10 14:08:45
+updated: 2025-04-11 06:08:15
 ---
 
 # libraries
 
-(date: 2025-04-10 14:08:45)
+(date: 2025-04-11 06:08:15)
+
+---
+
+## Guest Post — Valuing Community in a Time of Uncertainty
+
+date: 2025-04-11, from: Scholarly Kitchen
+
+<p>We asked the Program Committee Chairs what they're looking forward to at this year's SSP Annual Meeting.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/11/valuing-community-in-a-time-of-uncertainty/">Guest Post &#8212; Valuing Community in a Time of Uncertainty</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/11/valuing-community-in-a-time-of-uncertainty/>
 
 ---
 
@@ -89,7 +103,7 @@ Greis, Kim; Busse, Linus; Benzenberg, Lukas R.; Wu, Ri; Zenobi, Renato
 
 date: 2025-04-08, from: Association of Research Libraries News
 
-<p>Last Updated on April 8, 2025, 5:32 pm ET National Library Week—April 6–12 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...</p>
+<p>Last Updated on April 11, 2025, 8:23 am ET National Library Week—April 6–12 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...</p>
 <p>The post <a href="https://www.arl.org/blog/arl-celebrates-national-library-week-2025/">ARL Celebrates National Library Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

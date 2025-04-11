@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-10 14:08:42
+updated: 2025-04-11 06:08:12
 ---
 
 # science and technology
 
-(date: 2025-04-10 14:08:42)
+(date: 2025-04-11 06:08:12)
+
+---
+
+## Windows 2000 Server named peak Microsoft. Readers say it's all been downhill since Clippy
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Will future techies feel the same way about Copilot?</h4> <p>The results are in, and it appears that – at least as far as <em>The Register</em>&#39;s most loquacious commenters are concerned – Windows Server 2000 was Microsoft&#39;s peak.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/windows_2000_best_microsoft/>
+
+---
+
+## Billions pour into AI as emissions rise - returns stay pitiful, say Stanford boffins
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Models get bulkier, burnier, and bank-breakier</h4> <p>AI continues to improve – at least according to benchmarks. But the promised benefits have largely yet to materialize while models are increasing in size and becoming more computationally demanding, and greenhouse gas emissions from AI training continue to rise.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/stanford_ai_report/>
+
+---
+
+## Hubble Captures a Star’s Swan Song
+
+date: 2025-04-11, from: NASA breaking news
+
+The swirling, paint-like clouds in the darkness of space in this stunning image seem surreal, like a portal to another world opening up before us. In fact, the subject of this NASA/ESA Hubble Space Telescope image is very real. We are seeing vast clouds of ionized atoms and molecules, thrown into space by a dying […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/>
+
+---
+
+## Southern Water uses Capita's AI tool to flush customer complaints
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Hang on, wasn&#39;t Capita already handling things like billing, etc? Ah, AgentSuite comes to the rescue</h4> <p>Scandal struck UK utility company Southern Water is extending a long-running managed services contract with Capita, everyone&#39;s favorite outsourcing badass, for up to five years at an estimated cost of £92.4 million ($121 million).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/southern_water_uses_capitas_ai/>
+
+---
+
+## Ransomware crims hammering UK more than ever as British techies complain the board just doesn't get it
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Issues at the very top continue to worsen</h4> <p>The UK government&#39;s latest annual data breach survey shows the number of ransomware attacks on the isles is on the increase – and many techies are forced to constantly informally request company directors for defense spending because there&#39;s no security people on the board.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/uk_cyberattacks/>
+
+---
+
+## Users hated a new app – maybe so much they filed a fake support call
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Sysadmin sent on road trip that required a lot of time doing nothing</h4> <p><strong>On Call</strong>  Some working weeks are full of achievements, and others miserably unproductive. Here at <em>The Register</em>, we always make sure that if nothing else we produce a fresh instalment of On Call, the column that recounts readers&#39; tales of delivering top-notch tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/on_call/>
+
+---
+
+## VMware opens beta for an upgrade to its midrange vSphere Foundation bundle
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>A new alternative for those pondering what to do when vSphere 7.x goes end of life in October</h4> <p>VMware has revealed another big upgrade is on the way, this time for its vSphere Foundation suite.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/vmware/>
+
+---
+
+## The sound of Windows 95 about to disappoint you added to Library of Congress significant sound archive
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Along with Celine Dion and Elton John - plus some good music too</h4> <p>The Brian-Eno-composed sound played by Windows 95 when booted has been added to the US Library of Congress’s list of nationally significant recordings.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/windows_95_library_of_congress/>
+
+---
+
+## Self-driving car maker Musk's DOGE rocks up at self-driving car watchdog, cuts staff
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Under-audit political squad also said to be drafting invoices for Uncle Sam</h4> <p>In February, Elon&#39;s Musketeers at President Trump&#39;s cost-trimming DOGE operation turned up at the US National Highway Traffic Safety Administration, which regulates the kinds of self-driving cars the billionaire wants to build.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/doge_nhtsa_audit/>
+
+---
+
+## Ex-Meta exec tells Senate Zuck dangled US citizen data in bid to enter China
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Former policy boss claims Facebook cared little about national security as it chased the mighty Yuan</h4> <p>Facebook&#39;s former director of global public policy told a Senate committee that Meta CEO Mark Zuckerberg was willing to do almost anything to get the social network into China - including, she alleged, offering up Americans&#39; data.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/meta_senate_china/>
+
+---
+
+## Apps-from-prompts Firebase Studio is a great example – of why AI can't replace devs
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Big G reckons this agentic IDE speeds up or simplifies coding. Developers who&#39;ve used it aren&#39;t so sure</h4> <p><strong>Cloud Next</strong>  Google on Wednesday announced Firebase Studio, a product pitched as &#34;a cloud-based agentic development environment&#34; – in other words, a browser-based coding workspace that includes AI to help developers to prototype and build apps without writing every line of code themselves.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/firebase_studio_promises_app_prototypes/>
+
+---
+
+## Amiga OS 3.2 Update 3 released
+
+date: 2025-04-10, from: OS News
+
+I&#8217;ve long lost the ability to keep track of whatever&#8217;s happening in the Amiga community, and personally I tend to just focus on tracking MorphOS and AROS as best I can. The remnants of the real AmigaOS, and especially who owns, maintains, and develops which version, are mired in legal battles and ownership limbo, and since I can think of about a trillion things I&#8217;d rather do than keep track of the interpersonal drama by reading various Amiga forums, I honestly didn&#8217;t even realise there&#8217;s been a development in the Hyperion Entertainment situation. Hyperion Entertainment is the Belgian company who has been developing both AmigaOS 4 and 3.1/3.2 for a while now, but the company&#8217;s largest shareholder, Ben Hermans BV, went bankrupt, causing its shares to be annulled as prescribed under Belgian law. This happened well over a decade ago, but only earlier this year, in January, was the situation resolved for Hyperion: a new director, Timothy De Groote, was appointed by the remaining shareholders, who also instructed Hyperion to continue development of Amiga OS. In addition, a few days ago, Hyperion released Update 3 for AmigaOS 3.2, adding a bunch of fixes and improvements to AmigaOS 3.2.2. It brings various updates to ReAction classes, a new custom menu for TextEditor users can customise with macros, a new KickStart 3.2.3 ROM, and many more smaller updates and fixes. The update is free for existing users. AmigaOS 3.2 is available for classic Amigas. 
+
+<br> 
+
+<https://www.osnews.com/story/142089/amiga-os-3-2-update-3-released/>
+
+---
+
+## SDL2 ported to Mac OS 9
+
+date: 2025-04-10, from: OS News
+
+Well, this you certainly don&#8217;t see every day. This is a &#8220;rough draft&#8221; of SDL2 for MacOS 9, using CodeWarrior Pro 6 and 7. Enough was done to get it building in CW, and the start of a &#8220;macosclassic&#8221; video driver was created. It DOES seem to basically work, but much still needs to be done. Event handling is just enough to handling Command-Q, there is no audio, etc etc etc. ↫ A cast of thousands The hardest part was a video driver for the classic Mac OS, which had to be created mostly from scratch using the QNX driver as a &#8220;skeleton&#8221; because it happened to be the smallest one. It works on both m68k and PowerPC as well as on SheepShaver and Basilisk II, and there&#8217;s already a few screenshots of it up and running at the link, too. Amazing work, and it opens the door for a whole bunch of especially games to be made available on classic Mac OS. 
+
+<br> 
+
+<https://www.osnews.com/story/142087/sdl2-ported-to-mac-os-9/>
+
+---
+
+## How NASA Science Data Defends Earth from Asteroids
+
+date: 2025-04-10, from: NASA breaking news
+
+The asteroid 2024 YR4 made headlines in February with the news that it had a chance of hitting Earth on Dec. 22, 2032, as determined by an analysis from NASA’s Center for Near Earth Object Studies (CNEOS) at the agency’s Jet Propulsion Laboratory in Southern California. The probability of collision peaked at over 3% on […] 
+
+<br> 
+
+<https://science.nasa.gov/open-science/planetary-defense-asteroids/>
 
 ---
 
@@ -143,7 +311,7 @@ The diversity of rock types along the rim of Jezero Crater offers a wide glimpse
 
 ## AmigaOS updated in 2025 for some reason
 
-date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+date: 2025-04-10, updated: 2025-04-11, from: The Register (UK I.T. News)
 
 <h4>Hyperion ships another patch, which is nice</h4> <p>Belgian software house Hyperion Entertainment has released <a target="_blank" href="https://www.hyperion-entertainment.com/index.php/news/1-latest-news/320-new-update-3-for-amigaos-32-available-for-download" rel="nofollow">Update 3</a> for AmigaOS <a target="_blank" href="https://www.hyperion-entertainment.com/index.php/news/1-latest-news/290-amigaos-42-for-all-classic-amigas-released-and-available" rel="nofollow">3.2</a>, the version of the classic operating system it launched in 2021. The update targets Amigas with 680x0 processors, including systems enhanced with <a target="_blank" href="https://www.theregister.com/2024/02/12/pistorm_accelerated_amiga_pi/">PiStorm accelerator boards</a>.…</p> 
 
@@ -193,7 +361,7 @@ date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
 
 date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
 
-<h4>License to freak out? El Reg Reader recommends reverting to pen, paper, pub</h4> <p><strong>Final update</strong>  Readers have flooded our mailboxes with reports that Microsoft 365 Family licensing has fallen over this morning, so those of you who provide tech support to relatives or those using the office suite for a small business, consider yourself warned.…</p> 
+<h4>License to freak out? El Reg reader recommends reverting to pen, paper, pub</h4> <p><strong>Final update</strong>  Readers have flooded our mailboxes with reports that Microsoft 365 Family licensing has fallen over this morning, so those of you who provide tech support to relatives or those using the office suite for a small business, consider yourself warned.…</p> 
 
 <br> 
 
@@ -213,9 +381,9 @@ NASA’s Glenn Research Center in Cleveland is launching the NASA Glenn High Sch
 
 ---
 
-## Tech CEO: 4-day work week didn't hurt or help productivity
+## Tech CEO: Four-day work week didn't hurt or help productivity
 
-date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+date: 2025-04-10, updated: 2025-04-11, from: The Register (UK I.T. News)
 
 <h4>&#39;There are challenges&#39; but staff recruitment and retention isn&#39;t one of them</h4> <p><strong>Interview</strong>  Civo shifted its workforce to a four-day working week and while it hasn&#39;t changed productivity much at the cloud biz, it has helped attract &#34;new talent&#34; and retain existing staff, CEO Mark Boost says.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

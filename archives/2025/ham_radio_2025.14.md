@@ -1,11 +1,11 @@
 ---
 title: ham radio
-updated: 2025-04-10 14:08:41
+updated: 2025-04-11 06:08:11
 ---
 
 # ham radio
 
-(date: 2025-04-10 14:08:41)
+(date: 2025-04-11 06:08:11)
 
 ---
 
@@ -25,7 +25,7 @@ date: 2025-04-10, from: Amateur Radio Relay League News
 
 date: 2025-04-10, from: Amateur Radio Relay League News
 
-<p>ARRL Ham Radio Open Houses are happening all over the Western Hemisphere, and more dates are being added by clubs each week. April 18 is World Amateur Radio Day and this year celebrates 100 years since the International Amateur Radio Union was founded in Paris. ARRL Founder Hiram Percy Maxim, W1AW, served as the first president of IARU, and ARRL still serves as the International Secretariat for...</p> 
+<p>ARRL Ham Radio Open Houses are happening all over the western hemisphere, and more dates are being added each week. Throughout the entire month of April, radio clubs, schools, and even museums are opening their doors to help introduce the public to amateur radio. They will show of their ham radio stations, demonstrating the technology and innovation enjoyed by radio amateurs today. </p><p>Some of the ...</p> 
 
 <br> 
 
