@@ -1,11 +1,36 @@
 ---
 title: journalism
-updated: 2025-04-11 06:08:15
+updated: 2025-04-11 14:08:52
 ---
 
 # journalism
 
-(date: 2025-04-11 06:08:15)
+(date: 2025-04-11 14:08:52)
+
+---
+
+## USAC recap – April 8
+
+date: 2025-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 11 at 12:23 p.m.</em>
+The Undergraduate Students Association Council declined to place the Basic and Essential Needs Referendum on the 2025 USAC election ballot during its Tuesday meeting. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/11/usac-recap-april-8-2/>
+
+---
+
+## The Littlest Headline: The Bruin Archive – Episode 1: Gold Country Media
+
+date: 2025-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the debut episode of The Littlest Headline: The Bruin Archive, host Yony Marian sits down with second-year neuroscience student Keira Janiga to explore what it&#8217;s like moving from the small town of Newcastle, California to the bustling campus of UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/11/the-littlest-headline-the-bruin-archive-episode-1-gold-country-media/>
 
 ---
 
@@ -273,7 +298,7 @@ Trump promised to target immigrants without permanent legal status through mass 
 
 date: 2025-04-11, from: The Daily Bruin (UCLA Student Newspaper)
 
-After a year of sneaking food, dishes and utensils out of UCLA&#8217;s residential restaurants, Ashlyn stopped to wonder why they did it in the first place. 
+After a year of sneaking food, dishes and utensils out of UCLA’s residential restaurants, Ashlyn stopped to wonder why they did it in the first place. 
 
 <br> 
 

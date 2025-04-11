@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-11 06:08:15
+updated: 2025-04-11 14:08:53
 ---
 
 # libraries
 
-(date: 2025-04-11 06:08:15)
+(date: 2025-04-11 14:08:53)
 
 ---
 
@@ -20,6 +20,18 @@ date: 2025-04-11, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/04/11/valuing-community-in-a-time-of-uncertainty/>
+
+---
+
+## Elucidating the genetic control of bacterial wilt resistance in Italian ryegrass
+
+date: 2025-04-11, from: ETH Zurich, recently added
+
+Kölliker, Roland 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/731090>
 
 ---
 
@@ -103,7 +115,7 @@ Greis, Kim; Busse, Linus; Benzenberg, Lukas R.; Wu, Ri; Zenobi, Renato
 
 date: 2025-04-08, from: Association of Research Libraries News
 
-<p>Last Updated on April 11, 2025, 8:23 am ET National Library Week—April 6–12 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...</p>
+<p>Last Updated on April 11, 2025, 9:08 am ET National Library Week—April 6–12 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...</p>
 <p>The post <a href="https://www.arl.org/blog/arl-celebrates-national-library-week-2025/">ARL Celebrates National Library Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

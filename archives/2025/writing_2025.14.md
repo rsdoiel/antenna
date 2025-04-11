@@ -1,11 +1,41 @@
 ---
 title: writing
-updated: 2025-04-11 06:08:14
+updated: 2025-04-11 14:08:51
 ---
 
 # writing
 
-(date: 2025-04-11 06:08:14)
+(date: 2025-04-11 14:08:51)
+
+---
+
+## ‘A Minecraft Movie’: Building a Blockbuster Block by Block
+
+date: 2025-04-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/a-minecraft-movie-building-a-blockbuster-block-by-block" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jason%20Momoa%2c%20Emma%20Myers%2c%20Danielle%20Brooks%2c%20and%20Sebastian%20Hansen%20standing%20by%20at%20the%20top%20of%20a%20castle%20wall%2c%20with%20forest%20and%20mountains%20in%20the%20background%20%20in%20A%20Minecraft%20Movie.png" alt="Jason Momoa, Emma Myers, Danielle Brooks, and Sebastian Hansen standing by at the top of a castle wall, with forest and mountains in the background  in A Minecraft Movie" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>It’s hard to escape Minecraft. Over 200 million people play the game each month with about 43% consisting of players between the ages of 15-21. If you have kids, they’ve probably asked to play Minecraft (and you probably have the game in some capacity in your home).</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/a-minecraft-movie-building-a-blockbuster-block-by-block>
+
+---
+
+## The Dark, Apex, and Nightmare: Short Fiction Reviews by Paula Guran
+
+date: 2025-04-11, from: Locus Magazine
+
+<p>The Dark 1/25
+Apex #148
+Nightmare 1/25</p>
+<p>The first of two originals in The Dark #116 might fit well in The Deadlands. “<strong>Four Ques­tions with Something Like God</strong>” by <strong>Carlie St. George </strong>is a listicle story dealing with a dead person who wishes to persist. At first, it seems the issue’s second tale, “<strong>Lost You Again</strong>” by <strong>Ian Rogers</strong>, could fit as well. But this  <a href="https://locusmag.com/2025/04/the-dark-apex-and-nightmare-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-dark-apex-and-nightmare-short-fiction-reviews-by-paula-guran/>
 
 ---
 
@@ -41,8 +71,8 @@ date: 2025-04-10, from: Locus Magazine
 
 date: 2025-04-10, from: Locus Magazine
 
-<p>The U.S. Naval Academy&#8217;s library has removed 381 books from its collection. The list largely consists of books that discuss race and gender. It includes several genre titles and authors, including <strong>A Psalm for the Wild-Built</strong> by Becky Chambers (Tordotcom), <strong>Sorrowland</strong> by Rivers Solomon (MCD), <strong>The Fire This Time: A New Generation Speaks about Race</strong> by Jesmyn Ward (Scribner), and <strong>The Genesis of Misery</strong> by Neon Yang (Tor).</p>
-<p>For the  <a href="https://locusmag.com/2025/04/381-books-removed-from-naval-academy-library/" class="read-more">...Read More </a></p> 
+<p>The US Naval Academy&#8217;s library has removed 381 books from its collection after Defense Secretary Pete Hegseth&#8217;s office ordered the school to remove works promoting diversity, equity and inclusion.</p>
+<p>The list largely consists of books that discuss race and gender. It includes several genre titles and authors, including <strong>A Psalm for the Wild-Built</strong> by Becky Chambers (Tordotcom), <strong>Sorrowland</strong> by Rivers Solomon (MCD), <strong>The Fire This Time: A New Generation Speaks </strong> <a href="https://locusmag.com/2025/04/381-books-removed-from-naval-academy-library/" class="read-more">...Read More </a></p> 
 
 <br> 
 

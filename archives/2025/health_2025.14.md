@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2025-04-11 06:08:17
+updated: 2025-04-11 14:08:54
 ---
 
 # health
 
-(date: 2025-04-11 06:08:17)
+(date: 2025-04-11 14:08:54)
 
 ---
 
@@ -114,6 +114,30 @@ IntroductionOver the past three decades, dengue disease incidence has significan
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2025.1502579>
+
+---
+
+## Exogenous acetate mitigates later enhanced allergic airway inflammation in a menopausal mouse model
+
+date: 2025-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionAsthma, an inflammatory lung disease, disproportionately affects women in adulthood and is associated with a decline in estrogen levels during the menstrual cycle and menopause. To study asthma symptoms during menopause, we used a mouse model of postmenopausal asthma via ovariectomy (OVx). Similar to human menopause, we previously discovered that re-exposure of allergic OVx mice to allergen exacerbates lung inflammation. Surprisingly, we found that probiotic treatment alleviates this inflammatory exacerbation and produces acetate as one of its metabolites. Here, we investigate whether exogenous acetate alone can inhibit the exacerbation of experimental asthma in menopause.MethodsMice received acetate administration before and during sensitization. After challenge and OVx the mice were subjected to a second challenge to test whether acetate protected against airway inflammation after menopause induction.  ResultsAcetate administration reduced all lung T2 inflammatory responses, as well as the serum immunoglobulin (IgE) level. Early acetate treatment led to an increase in regulatory T cells, even 3 weeks after cessation of the treatment, suggesting that the increase in Treg percentage is associated with the reduction of type 2 inflammation in the airways after menopause induction, indicating its potential role in this process. Given the significant role of the lung-gut axis in asthma and the association of asthma and menopause with intestinal dysfunctions, this finding is particularly relevant; we also analyzed several markers of intestinal integrity. Compared with sham-operated mice, rechallenged allergic menopausal mice had a reduction in the intestinal epithelial genes, MUC2 and OCLN, and preventive supplementation with acetate returned their expression to normal. No change was found in menopausal mice without allergic inflammation.ConclusionIn conclusion, treatment with acetate prior to estrogen level decline protects sensitized and challenged mice against later airway T2 inflammation and may restore gut homeostasis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1543822>
+
+---
+
+## Enhanced HIV immune responses elicited by an apoptotic single-cycle SHIV lentivector DNA vaccine
+
+date: 2025-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundHIV remains a major public health issue in spite of antiretroviral therapy (ART). An innovative vaccine that can induce long-lasting and effective immunity is required to curb the persistently high numbers of new infections worldwide.MethodsA novel DNA vaccine was generated using a Simian-Human Immunodeficiency Virus (SHIV) backbone with a Zambian T/F clade C envelope and under the control of the caprine arthritis encephalitis virus long terminal repeats (LTRs) for constitutive expression. Due to the deleted integrase, this DNA vaccine “CSH-DIN-T/F Z331” performs only a single replication cycle. To increase immunogenicity, the co-expression of apoptotic genes (BAX, BAK, or caspase 8) incorporated at the end of Pol was tested to promote the release of apoptotic bodies taken up by dendritic cells leading to cross-presentation of antigen. The three vaccines (CSH-DIN-T/F Z331-BAX, CSH-DIN-T/F Z331-BAK, and CSH-DIN-T/F Z331-Cas8) were tested in vitro for expression and in vivo in BALB/cJ mice for immunogenicity.ResultsTransduced HEK293 cells co-cultured with CEMx174 confirmed the single replication cycle of the DNA vaccine and the induction of apoptosis by CSH-DIN-T/F Z331-Cas8 based on Annexin V expression. BALB/cJ mice were immunized with a combined intramuscular + intradermal/electroporation approach. Intracellular cytokine staining (ICS) from splenocytes collected 12 weeks post-prime/6 weeks post-boost demonstrated a clear superiority of caspase 8 expressing construct over the others, with higher proportions of IFN-γ-, IL-2-, and IL-21-producing CD8 T cells specific to Env, Gag, and Nef. The kinetics of immune response after various immunization schedules were also investigated.ConclusionThis novel single-cycle DNA vaccine with apoptotic genes demonstrated an enhanced immunogenicity primarily for antigen-specific CD8+ T-cell responses. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1481427>
 
 ---
 

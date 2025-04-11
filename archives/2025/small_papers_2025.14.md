@@ -1,11 +1,65 @@
 ---
 title: small papers
-updated: 2025-04-11 06:08:18
+updated: 2025-04-11 14:08:55
 ---
 
 # small papers
 
-(date: 2025-04-11 06:08:18)
+(date: 2025-04-11 14:08:55)
+
+---
+
+## Supervisor Hahn Secures funding for Catalina’s only hospital
+
+date: 2025-04-11, from: Catalina Islander
+
+On April 8, a motion to approve the funding was brought forth by LA County Board of Supervisor Janice Hahn, who represents Catalina Island as part of the Fourth District. The funds will help to stave off the closure of CIH while it works with the county and other government agencies on a long-term and [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/supervisor-hahn-secures-funding-for-catalinas-only-hospital/>
+
+---
+
+## Straight Up Builders undefeated through first round
+
+date: 2025-04-11, from: Catalina Islander
+
+The end of the first round of league play featured Sunset Bar &#38; Grill and Straight Up Builders in the first game. Sunset Bar &#38; Grill was up first and scored three runs off three base hits and an RBI triple from Tyler Engel. Straight Up Builders answered with an opening double from Chuy Sillas, [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/straight-up-builders-undefeated-through-first-round/>
+
+---
+
+## LAUSD says immigration officers visited 2 campuses. Here’s LBUSD’s plan if they come to Long Beach
+
+date: 2025-04-11, from: Long Beach Post
+
+<figure><img width="1024" height="674" src="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A sign displays the Long Beach Unified School District, where the main office is located in Long Beach." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-456x300.jpg 456w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1110x731.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-768x506.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1536x1011.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-2048x1348.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1320x869.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Staff at the two elementary campuses turned them away. Long Beach Unified employees are instructed to follow similar procedures.</p>
+<p>The post <a href="https://lbpost.com/news/education/ice-immigration-schools-los-angeles-long-beach-lausd-lbusd">LAUSD says immigration officers visited 2 campuses. Here&#8217;s LBUSD&#8217;s plan if they come to Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/ice-immigration-schools-los-angeles-long-beach-lausd-lbusd>
+
+---
+
+## Trump canceled millions in California school grants. The state is suing to reclaim the money
+
+date: 2025-04-11, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Schools had until March 2026 to spend remaining COVID relief money. The U.S. Department of Education cut those funds, amounting to about $200 million for California K-12 schools.</p>
+<p>The post <a href="https://lbpost.com/news/education/trump-canceled-millions-in-california-school-grants-the-state-is-suing-to-reclaim-the-money">Trump canceled millions in California school grants. The state is suing to reclaim the money</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/trump-canceled-millions-in-california-school-grants-the-state-is-suing-to-reclaim-the-money>
 
 ---
 
@@ -13,7 +67,7 @@ updated: 2025-04-11 06:08:18
 
 date: 2025-04-11, from: Long Beach Post
 
-<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-1024x593.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-1024x593.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-1024x593.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-1024x593.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The City Council on Tuesday is expected to approve renaming a two-block stretch of roadway, which leads to a local school already named in Robinson's honor.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-set-to-rename-part-of-28th-street-in-honor-of-jackie-robinson">Long Beach set to rename part of 28th Street in honor of Jackie Robinson</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

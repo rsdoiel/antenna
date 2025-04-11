@@ -1,11 +1,99 @@
 ---
 title: food
-updated: 2025-04-11 06:08:17
+updated: 2025-04-11 14:08:55
 ---
 
 # food
 
-(date: 2025-04-11 06:08:17)
+(date: 2025-04-11 14:08:55)
+
+---
+
+## 15 Best Mother’s Day Kitchen Gifts for Moms Who Love to Cook (2025)
+
+date: 2025-04-11, from: Bon Appetet
+
+Give her a Le Creuset kettle, custom stationery for her recipes, or some upgraded spices. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-mothers-day-gifts-2025>
+
+---
+
+## Red Cabbage Salad
+
+date: 2025-04-11, from: Taste of Home
+
+With shredded apples and carrots, chopped pecans and a simple vinaigrette, this vibrant red cabbage salad is crunchy and looks like a rainbow in a bowl. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/red-cabbage-salad/>
+
+---
+
+## Get Organized with This Stunning Midnight Kitchen Cart—Right Now It’s 43% Off!
+
+date: 2025-04-11, from: Taste of Home
+
+<p>Who couldn't use more kitchen storage? Get organized with this beautiful (and discounted!) kitchen cart from The Home Depot.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/home-depot-kitchen-cart/">Get Organized with This Stunning Midnight Kitchen Cart—Right Now It&#8217;s 43% Off!</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/home-depot-kitchen-cart/>
+
+---
+
+## Dogwood & The Get Down Join Forces For The Sweet Renaissance Coffee Academy
+
+date: 2025-04-11, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Sweet Renaissance Coffee Academy is a non-profit “dedicated to increasing cultural representation behind the bar and beyond [by] providing training for aspiring baristas, mentorship, and business solutions for emerging roasters.” 
+
+<br> 
+
+<https://sprudge.com/dogwood-the-get-down-join-forces-for-the-sweet-renaissance-coffee-academy-315187.html>
+
+---
+
+## Say Hello to Gardyn—The Easiest Way to Grow Veggies, Flowers and Herbs Indoors
+
+date: 2025-04-11, from: Taste of Home
+
+<p>Thinking about starting your own garden this year? Gardyn lets you grow fresh herbs, veggies and flowers inside with just two feet of space. No soil or sunlight necessary!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/gardyn-indoor-growing-system/">Say Hello to Gardyn—The Easiest Way to Grow Veggies, Flowers and Herbs Indoors</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/gardyn-indoor-growing-system/>
+
+---
+
+## The Best Rice Cooker (2025), Reviewed by Our Experts
+
+date: 2025-04-11, from: Bon Appetet
+
+Whether you’re on a budget or want a model that’s practically sentient, there’s a rice cooker for you. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-rice-cookers>
+
+---
+
+## Fairtrade International and Black Baza Win 2025 SCA Sustainability Awards
+
+date: 2025-04-11, from: Daily Coffee News
+
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Sustainability-Awards-620x423.jpg" class="attachment-large size-large wp-post-image" alt="SCA Sustainability Awards" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Sustainability-Awards-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Sustainability-Awards-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Sustainability-Awards-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Sustainability-Awards-768x524.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Sustainability-Awards.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fairtrade International and India&#8217;s Black Baza Coffee Co. are the winners of the Specialty Coffee Association&#8216;s (SCA) 2025 Sustainability Awards. The United States- and Europe-based SCA announced the winners ahead... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/11/fairtrade-international-and-black-baza-win-2025-sca-sustainability-awards/>
 
 ---
 
@@ -13,7 +101,7 @@ updated: 2025-04-11 06:08:17
 
 date: 2025-04-11, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee deforestation" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Digital Coffee Future Launches EUDR Compliance Guide Digital Coffee... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-620x465.jpg" class="attachment-large size-large wp-post-image" alt="coffee deforestation" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-deforestation.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Digital Coffee Future Launches EUDR Compliance Guide Digital Coffee... 
 
 <br> 
 
@@ -201,7 +289,7 @@ date: 2025-04-10, from: Daily Coffee News
 
 date: 2025-04-10, from: Daily Coffee News
 
-<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-768x530.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>All the anecdotal evidence in the world says that opening an independent coffee shop is a risky proposition, with relatively high five-year failure rates. A new small-scale coffee business accelerator... 
+<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-768x530.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>All the anecdotal evidence in the world says that opening an independent coffee shop is a risky proposition, with relatively high five-year failure rates. A new small-scale coffee business accelerator... 
 
 <br> 
 

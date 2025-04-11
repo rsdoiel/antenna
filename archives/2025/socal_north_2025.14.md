@@ -1,11 +1,166 @@
 ---
 title: socal north
-updated: 2025-04-11 06:08:10
+updated: 2025-04-11 14:08:47
 ---
 
 # socal north
 
-(date: 2025-04-11 06:08:10)
+(date: 2025-04-11 14:08:47)
+
+---
+
+## Hop Into Spring at Eggstravaganza
+
+date: 2025-04-11, from: City of Santa Clarita
+
+<p>Stop by for the Egg Scramble and a Photo with Mr. E Bunny! The City of Santa Clarita is excited to invite families to Eggstravaganza, a free, community event at Central Park (27150 Bouquet Canyon Road), on Saturday, April 19, from 10:00 a.m. to 12:00 p.m. Residents are invited to enjoy a morning filled with [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/11/hop-into-spring-at-eggstravaganza/">Hop Into Spring at Eggstravaganza</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/11/hop-into-spring-at-eggstravaganza/>
+
+---
+
+## Judge rules Mahmoud Khalil can be deported
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+The Louisiana judge gave the Columbia University graduate student until April 23 to request a stay of his deportation. 
+
+<br> 
+
+<https://laist.com/news/politics/judge-rules-mahmoud-khalil-can-be-deported>
+
+---
+
+## Now Hiring: California Recruiting Paid Service Members to Meet Future Workforce Needs
+
+date: 2025-04-11, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/now-hiring-california-recruiting-paid-service-members-to-meet-future-workforce-needs/>
+
+---
+
+## Maryland judge again asks government to return man wrongly deported to El Salvador
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+A federal judge in Maryland wants the government to "facilitate" Abrego Garcia's return to the U.S. after the Supreme Court largely upheld her original order. 
+
+<br> 
+
+<https://laist.com/news/politics/maryland-judge-again-asks-government-to-return-man-wrongly-deported-to-el-salvador>
+
+---
+
+## Trump canceled millions in California school grants. The state is suing to reclaim the money
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+Schools had until March 2026 to spend remaining COVID relief money. The U.S. Department of Education cut those funds, amounting to about $200 million for California K-12 schools. 
+
+<br> 
+
+<https://laist.com/news/education/trump-canceled-millions-in-california-school-grants-the-state-is-suing-to-reclaim-the-money>
+
+---
+
+## Oil company fined record $18 million for defying state orders to stop work on pipeline
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+The pipeline caused a major oil spill a decade ago, fouling the ocean off Santa Barbara County. The new owners say they don’t need new permits for repairs. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/oil-company-fined-record-18-million-for-defying-state-orders-to-stop-work-on-pipeline>
+
+---
+
+## LAUSD says immigration officers visited 2 campuses. Here’s LBUSD’s plan if they come to Long Beach
+
+date: 2025-04-11, from: Longbeach Post
+
+<figure><img width="1024" height="674" src="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A sign displays the Long Beach Unified School District, where the main office is located in Long Beach." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-456x300.jpg 456w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1110x731.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-768x506.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1536x1011.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-2048x1348.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1320x869.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Staff at the two elementary campuses turned them away. Long Beach Unified employees are instructed to follow similar procedures.</p>
+<p>The post <a href="https://lbpost.com/news/education/ice-immigration-schools-los-angeles-long-beach-lausd-lbusd">LAUSD says immigration officers visited 2 campuses. Here&#8217;s LBUSD&#8217;s plan if they come to Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/ice-immigration-schools-los-angeles-long-beach-lausd-lbusd>
+
+---
+
+## Contratando Ahora: California Recluta Miembros de Servicio Pagados para Satisfacer las Necesidades Futuras de la Fuerza Laboral
+
+date: 2025-04-11, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/contratando-ahora-california-recluta-miembros-de-servicio-pagados-para-satisfacer-las-necesidades-futuras-de-la-fuerza-laboral/>
+
+---
+
+## Elevated levels of lead found downwind from Eaton Fire burn area
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+L.A. County Department of Public Health officials announced the preliminary findings Friday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/elevated-levels-lead-found-downwind-eaton-fire>
+
+---
+
+## Trump canceled millions in California school grants. The state is suing to reclaim the money
+
+date: 2025-04-11, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Schools had until March 2026 to spend remaining COVID relief money. The U.S. Department of Education cut those funds, amounting to about $200 million for California K-12 schools.</p>
+<p>The post <a href="https://lbpost.com/news/education/trump-canceled-millions-in-california-school-grants-the-state-is-suing-to-reclaim-the-money">Trump canceled millions in California school grants. The state is suing to reclaim the money</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/trump-canceled-millions-in-california-school-grants-the-state-is-suing-to-reclaim-the-money>
+
+---
+
+## Study finds LA would have more affordable housing if ‘mansion tax’ did not apply to new apartments
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+UCLA and Rand researchers say Measure ULA has decreased new apartment development, including some units that would have gone to low-income renters. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-measure-ula-mansion-tax-affordable-housing-development-ucla-rand-study>
+
+---
+
+## Long Beach set to rename part of 28th Street in honor of Jackie Robinson
+
+date: 2025-04-11, from: Longbeach Post
+
+<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-1024x593.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-1024x593.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09164206/09apr25-28th-9-213803-tugz7afa-387468-ZnJaUd6b.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The City Council on Tuesday is expected to approve renaming a two-block stretch of roadway, which leads to a local school already named in Robinson's honor.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-set-to-rename-part-of-28th-street-in-honor-of-jackie-robinson">Long Beach set to rename part of 28th Street in honor of Jackie Robinson</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-set-to-rename-part-of-28th-street-in-honor-of-jackie-robinson>
 
 ---
 
@@ -37,7 +192,7 @@ Route 90 covers only a few miles today, but 1950s freeway planners meant for it 
 
 date: 2025-04-10, from: Longbeach Post
 
-<figure><img width="1024" height="594" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-1024x594.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-1024x594.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="594" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-1024x594.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-1024x594.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10124551/10apr25-fame-1-602897-1ggc16lp-087497-FZFYmdXf.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>O’Neill “loved everything about the Grand Prix,” according to her family, who attended the ceremony on behalf of the 94-year-old former mayor widely recognized as a transformative figure in Long Beach history.</p>
 <p>The post <a href="https://lbpost.com/news/beverly-oneil-grand-prix-motorsports-walk-of-fame">On eve of historic Grand Prix, Motorsports Walk of Fame honors beloved mayor Beverly O’Neill</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

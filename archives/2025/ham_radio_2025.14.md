@@ -1,11 +1,37 @@
 ---
 title: ham radio
-updated: 2025-04-11 06:08:11
+updated: 2025-04-11 14:08:48
 ---
 
 # ham radio
 
-(date: 2025-04-11 06:08:11)
+(date: 2025-04-11 14:08:48)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-04-11, from: Amateur Radio Relay League News
+
+<p>Due to most of the regions on the solar disk being fairly simple in<br />their magnetic complexity, solar activity is expected to remain at<br />low levels with a chance for M-class flares (R1 to R2, or Minor to<br />Moderate).<br /><br />Solar wind parameters are expected to trend further towards nominal<br />levels as the Coronal Hole High-Speed Stream effects continue to<br />wane.<br /><br />Additional enhancements from another negative polari...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-9>
+
+---
+
+## Single sideband generation
+
+date: 2025-04-11, from: EDN Blog
+
+<img width="556" height="295" src="https://www.edn.com/wp-content/uploads/Hilbert-1.png?fit=556%2C295" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hilbert-1.png?w=556 556w, https://www.edn.com/wp-content/uploads/Hilbert-1.png?w=300 300w" sizes="(max-width: 556px) 100vw, 556px" /><p>Using “the phasing method” for single sideband generation to remove the need to filter out either the lower or upper sidebands. </p>
+<p>The post <a href="https://www.edn.com/single-sideband-generation/">Single sideband generation</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/single-sideband-generation/>
 
 ---
 
@@ -37,7 +63,7 @@ date: 2025-04-10, from: Amateur Radio Relay League News
 
 date: 2025-04-10, from: EDN Blog
 
-<img width="800" height="396" src="https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?fit=800%2C396" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Serial EEPROMs from ST contain a unique 128-bit read-only ID for product recognition and tracking without requiring an extra component.</p>
+<img width="800" height="396" src="https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?fit=800%2C396" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/ST-M24xxx.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Serial EEPROMs from ST contain a unique 128-bit read-only ID for product recognition and tracking without requiring an extra component.</p>
 <p>The post <a href="https://www.edn.com/eeproms-with-unique-id-improve-traceability/">EEPROMs with unique ID improve traceability</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

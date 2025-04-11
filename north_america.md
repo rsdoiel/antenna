@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-04-11 06:08:10
+updated: 2025-04-11 14:08:47
 ---
 
 # north america
 
-(date: 2025-04-11 06:08:10)
+(date: 2025-04-11 14:08:47)
+
+---
+
+## Coq au Vin Blanc
+
+date: 2025-04-11, from: The Contrarian
+
+A Franco-American Marriage 
+
+<br> 
+
+<https://contrarian.substack.com/p/coq-au-vin-blanc>
+
+---
+
+## Contrarian Culture Club recommendations 
+
+date: 2025-04-11, from: The Contrarian
+
+All-dystopia edition! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-culture-club-recommendations-cfc>
+
+---
+
+## Pet of the week
+
+date: 2025-04-11, from: The Contrarian
+
+Meet Henry! 
+
+<br> 
+
+<https://contrarian.substack.com/p/pet-of-the-week>
+
+---
+
+## California Showdown Over Medicaid as GOP Approves Massive Cuts
+
+date: 2025-04-11, from: Capital and Main
+
+<p>Health care advocates and labor unions mobilize against proposed cuts, pressuring swing-district Republicans with protests, ads and town halls.</p>
+<p>The post <a href="https://capitalandmain.com/california-showdown-over-medicaid-as-gop-approves-massive-cuts">California Showdown Over Medicaid as GOP Approves Massive Cuts</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/california-showdown-over-medicaid-as-gop-approves-massive-cuts>
+
+---
+
+## The Democracy Index
+
+date: 2025-04-11, from: The Contrarian
+
+Apr. 11, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-110>
+
+---
+
+##  Are You Ready For The Tax Revolt? 
+
+date: 2025-04-11, from: The Lever News
+
+ As Trump’s new tax bill advances, The Lever is releasing a four-part miniseries revealing how the anti-tax movement came to dominate Washington.  
+
+<br> 
+
+<https://www.levernews.com/are-you-ready-for-the-tax-revolt/>
+
+---
+
+## Split Screen: Shirley Chisholm, cropped out of history
+
+date: 2025-04-11, from: The Contrarian
+
+Photography can shape public perception of candidates. Continually showing a woman candidate alone makes it look as if she doesn't have support. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-shirley-chisholm-cropped>
+
+---
+
+## California State University’s Financial Aid Students Learn Chaos 101
+
+date: 2025-04-11, from: Capital and Main
+
+<p>With the Department of Education in turmoil, who will distribute Pell grants and other assistance?</p>
+<p>The post <a href="https://capitalandmain.com/california-state-universitys-financial-aid-students-learn-chaos-101">California State University’s Financial Aid Students Learn Chaos 101</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/california-state-universitys-financial-aid-students-learn-chaos-101>
+
+---
+
+## First Tee: What Golf Means to Us 
+
+date: 2025-04-11, from: The Contrarian
+
+With testimonies from Daryn Dickens and Myles Manor to help us celebrate The Masters 
+
+<br> 
+
+<https://contrarian.substack.com/p/first-tee-what-golf-means-to-us>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-04-11, from: The Contrarian
+
+A boy ex-ex-President and his Imaginary Publicist. 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-b>
 
 ---
 

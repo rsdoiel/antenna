@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-04-11 06:08:16
+updated: 2025-04-11 14:08:54
 ---
 
 # motorcycles
 
-(date: 2025-04-11 06:08:16)
+(date: 2025-04-11 14:08:54)
+
+---
+
+## Can This Legendary Fat Tire Honda Dirt Bike Hit the Trail Again?
+
+date: 2025-04-11, from: Ride Apart, Electric Motorcycle News
+
+Of course it can; it's a Honda! 
+
+<br> 
+
+<https://www.rideapart.com/news/756261/honda-fat-cat-rust-restoration/>
+
+---
+
+## BMW's New R 1300 R Looks to be a Wheelie Monster, Is Actually Reasonably Priced
+
+date: 2025-04-11, from: Ride Apart, Electric Motorcycle News
+
+If you thought the GS was a torque monster, wait until you scope these specs. 
+
+<br> 
+
+<https://www.rideapart.com/news/756251/2026-bmw-r-1300-r-naked-motorcycle-price-specs/>
 
 ---
 

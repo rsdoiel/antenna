@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-11 06:08:14
+updated: 2025-04-11 14:08:51
 ---
 
 # games
 
-(date: 2025-04-11 06:08:14)
+(date: 2025-04-11 14:08:51)
+
+---
+
+## Blue Prince, an almost perfect puzzle game, still tragically lacks a colorblind mode
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+There are very few flaws with Blue Prince, a new indie puzzle game about exploring a mansion whose room layout changes daily — with said room placement decided by the player as they explore and discover the mysterious properties of each room and the mansion as a whole. The game does have a big problem [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/557876/blue-prince-colorblind-color-assist-mode-update>
+
+---
+
+## 1000XResist, Dredge, and more headline Humble Choice for April
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+Humble Choice is easily one of the most overlooked gaming subscriptions. Brought to you by the same people responsible for the Humble Bundle, Humble Choice serves up a rotating catalog of DRM-free games that you get to keep forever, in addition to an array of other cool benefits, for just $129 a year, or $11.99 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/554012/humble-choice-april-free-games-1000x-resist-dredge-tomb-raider>
+
+---
+
+## Switch 2 will end two decades of Nintendo’s awkward voice chat attempts
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox.&#160;Sign up here&#160;to get it weekly. One of the big new features that Nintendo touted at last week’s Switch 2 reveal was GameChat, a built-in communication system that — as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/557758/gamechat-voice-chat-history-wii-speak>
+
+---
+
+## Humble has everything you need to start playing BattleTech for just $18
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+If you’ve ever considered jumping into the BattleTech tabletop game, right now, Humble is offering an $18 bundle that includes all of the rulebooks you need to start playing, in addition to several sourcebooks, campaigns, and technical manuals to supplement your experience. While you technically don’t need fancy miniatures to play BattleTech, picking up an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/556185/battletech-tabletop-rpg-humble-bundle-sale>
+
+---
+
+## How to activate the Boiler Room in Blue Prince
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+The Boiler Room provides power to certain rooms around the estate in Blue Prince. The Boiler Room will send steam power through the steam ducts on the ceiling to any connecting room, as long as they also have steam ducts. However, you’ll need to figure out how to activate the steam power first, which will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/557382/boiler-room-how-to-activate-use>
+
+---
+
+## The modder who fixed Elden Ring’s terrible co-op is back to fix the game that started it all
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+For as tremendous as FromSoftware games are, none of them are particularly good at co-op. You can’t just invite your friend and join a party in Elden Ring. You need to be in the right place, with the right password, while the right stars in the universe align just to hit monsters with your friends. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/557559/dark-souls-remastered-seamless-co-op-mod>
+
+---
+
+## Gazer was a true indie gamble for two first-time filmmakers who believed in body horror
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+For longtime movie-lovers Ryan Sloan and Ariella Mastroianni, the 2020 lockdowns turned a New Jersey attic into a welcome creative pressure cooker. The pair always dreamed of making a movie, but the uncertainty of the moment — not to mention the tight quarters — created a sense of urgency. Under duress, vibes came pouring out.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/557260/gazer-2025-making-of>
+
+---
+
+## Marvel Rivals tier list and best characters for season 1.5
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+The Marvel Rivals tier list is proof of an inherent truth: not every hero (or villain) is built equally. In the competitive shooter (which added four characters, three maps, a battle pass, and skins), every character is technically viable, but there are some who are obviously more powerful than the rest. Below, we’ve compiled a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/508348/tier-list-best-heroes-ranked>
+
+---
+
+## Epic Universe’s rail-jumping Donkey Kong coaster is bumpy, but beautiful
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+Visitors to the sprawling theme-park ecosystem of Orlando, Florida will soon be able to ride what’s become one of the most talked about roller coasters on the planet, without booking an overseas trip to Japan. Epic Universe, Universal’s brand new theme park, opens on May 22, 2025 with Donkey Kong Country, a near-replica of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/theme-parks/555343/epic-universe-donkey-kong-ride-mine-cart-madness-review>
+
+---
+
+## All Marvel Rivals maps and modes in season 2
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+Marvel Rivals is a competitive game set in the multiverse, so it’s fitting that you play on a number of different maps. As of season 2 (which added a new character from the X-Men comics, Emma Frost), there are now 11 maps in Marvel Rivals, all inspired by locations from the Marvel Comics universe. You’ll [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive>
 
 ---
 

@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-04-11 06:08:12
+updated: 2025-04-11 14:08:49
 ---
 
 # science and technology
 
-(date: 2025-04-11 06:08:12)
+(date: 2025-04-11 14:08:49)
+
+---
+
+## China ups tariffs on US goods to 125%, calls Trump's war a 'joke'
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Middle Kingdom retaliates against White House&#39;s &#39;instrument and weapon to bully and coerce&#39;</h4> <p><strong>World War Fee</strong>  China is upping tariffs on US imports to 125 percent, branding the Trump administration&#39;s tax policies a &#34;joke.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/china_tariffs_latest/>
+
+---
+
+## MacSSL: a port of Mbed-TLS for the classic Mac OS 7/8/9
+
+date: 2025-04-11, from: OS News
+
+Yesterday we had SDL2 for the classic Mac OS, today we have modern SSL/TLS for the classic Mac OS. This is a C89/C90 port of MbedTLS for Mac System 7/8/9. It works, and compiles under Metrowerks Codewarrior Pro 4. This is a basic app that performs a GET request on whatever is in api.h, and prints the result out to the text box (with a lot of debug information, of course). The idea of this project was to build an &#8216;app&#8217; of sorts for 640by480, my &#8216;instagram clone for vintage digital cameras&#8217;. The idea would be to login, post images, view images, and read comments. I would need HTTPS for that, so here we are: a port of MbedTLS for the classic mac. ↫ MacSSL GitHub page It&#8217;s remarkable what tenacity can achieve. 
+
+<br> 
+
+<https://www.osnews.com/story/142092/macssl-a-port-of-mbed-tls-for-the-classic-mac-os-7-8-9/>
+
+---
+
+## NASA-Developed Tools at Marshall Support Operations to Station
+
+date: 2025-04-11, from: NASA breaking news
+
+Two new automation tools developed at NASA’s Marshall Space Flight Center in Huntsville, Alabama, are geared toward improving operations for flight controllers working with the International Space Station from the Huntsville Operations Support Center. The tools, called AutoDump and Permanently Missing Intervals Checker, will free the flight control team to focus on situational awareness, anomaly [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-developed-tools-at-marshall-support-operations-to-station/>
+
+---
+
+## PIRG's 'Electronic Waste Graveyard' lists 100+ gadgets dumped after support vanished
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Consumer campaign group says &#39;we need lifetime transparency for tech</h4> <p>Those well-meaning agitators at the Public Interest Research Group (PIRG) are back, this time with an interactive &#34;Electronic Waste Graveyard&#34; cataloging a range of devices tossed aside after software support expires or cloud connections flatline.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/electronic_waste_graveyard/>
+
+---
+
+## GLOBE Mission Earth Supports Career Technical Education
+
+date: 2025-04-11, from: NASA breaking news
+
+The NASA Science Activation program’s GLOBE Mission EARTH (GME) project is forging powerful connections between career technical education (CTE) programs and real-world science, inspiring students across the United States to pursue careers in Science, Technology, Engineering, and Mathematics (STEM). GME is a collaborative effort between NASA scientists, educators, and schools that brings NASA Earth science […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-supports-career-technical-education/>
+
+---
+
+## IBM shareholders asked to back greater lobbying transparency
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Activist investor finds payments groups lobbying against climate action</h4> <p>An activist investor has called on IBM to report on its lobbying practices, which he alleges include spending “dark money” with organizations that campaign against climate change reporting and legislation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/ibm_shareholders_asked_to_back/>
+
+---
+
+## Apollo 13 Launch: 55 Years Ago
+
+date: 2025-04-11, from: NASA breaking news
+
+NASA astronauts Jim Lovell, Fred Haise, and Jack Swigert launch aboard the Apollo 13 spacecraft from NASA’s Kennedy Space Center in Florida on April 11, 1970. The mission seemed to be going smoothly until 55 hours and 55 minutes in when an oxygen tank ruptured. The new mission plan involved abandoning the Moon landing, looping [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/apollo-13-launch-55-years-ago/>
+
+---
+
+## Kudos Test Article
+
+date: 2025-04-11, from: NASA breaking news
+
+The Global Learning and Observations to Benefit the Environment (GLOBE) Program is calling on volunteers of all ages to help students and citizen scientists document seasonal change through leaf color and land cover. The data collection event will support students across North America, Latin America, Central America, and Europe, who are working together to document […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/kudos-test-article/>
+
+---
+
+## NASA’s IMAP Arrives at NASA Marshall For Testing in XRCF
+
+date: 2025-04-11, from: NASA breaking news
+
+On March 18, NASA’s IMAP (Interstellar Mapping and Acceleration Probe) arrived at NASA’s Marshall Space Flight Center in Huntsville, Alabama, for thermal vacuum testing at the X-ray and Cryogenic Facility, which simulates the harsh conditions of space. The IMAP mission is a modern-day celestial cartographer that will map the solar system by studying the&#160;heliosphere, a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/>
+
+---
+
+## The most important experimental distro you've never heard of gets new project lead
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Plus a fresh version ... nine years after its last</h4> <p>After five years, the extremely experimental GoboLinux project is springing back to life with a new maintainer and a new release.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/new_gobolinux_lead_and_version/>
+
+---
+
+## ‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle
+
+date: 2025-04-11, from: Quanta Magazine
+
+A new proposal makes the case that paraparticles — a new category of quantum particle — could be created in exotic materials.             <p>The post <a href="https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/" target="_blank">‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/>
+
+---
+
+## Bezos cost Amazon more than Jassy did in 2024 compensation stakes
+
+date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+
+<h4>Exec pay outlined in Proxy Statement, and things did not go well for either workforce or calls for climate transparency reports</h4> <p>Amazon exec chairman Jeff Bezos may not have a daily operational role at the cloud and e-commerce megacorp he founded, but he still got a bigger compensation package than the person currently pulling the strings from the chief executive&#39;s office.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/bezos_cos_amazon_more_than/>
 
 ---
 
@@ -37,7 +181,7 @@ date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
 
 date: 2025-04-11, from: NASA breaking news
 
-The swirling, paint-like clouds in the darkness of space in this stunning image seem surreal, like a portal to another world opening up before us. In fact, the subject of this NASA/ESA Hubble Space Telescope image is very real. We are seeing vast clouds of ionized atoms and molecules, thrown into space by a dying […] 
+The swirling, paint-like clouds in the darkness of space in this stunning image seem surreal, like a portal to another world opening before us. In fact, the subject of this NASA/ESA Hubble Space Telescope image is very real. We are seeing vast clouds of ionized atoms thrown into space by a dying star. This is […] 
 
 <br> 
 
@@ -210,6 +354,18 @@ When students actively participate in scientific investigations that connect to 
 <br> 
 
 <https://science.nasa.gov/learning-resources/science-activation/globe-nasa-and-the-monsignor-mcclancy-memorial-high-school-in-queens-new-york/>
+
+---
+
+## New York Math Teacher Measures Trees & Grows Scientists with GLOBE
+
+date: 2025-04-10, from: NASA breaking news
+
+When students actively participate in scientific investigations that connect to their everyday lives, something powerful happens: they begin to see themselves as scientists. This sense of relevance and ownership can spark a lifelong interest in science, technology, engineering, and math (STEM), paving the way for continued education and even future careers in these fields. Opportunities […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/new-york-math-teacher-measures-trees-and-grows-scientists-with-globe/>
 
 ---
 

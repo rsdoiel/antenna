@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-04-11 06:08:11
+updated: 2025-04-11 14:08:48
 ---
 
 # pacific
 
-(date: 2025-04-11 06:08:11)
+(date: 2025-04-11 14:08:48)
+
+---
+
+## President Hensel: Fiscal planning, student visas, more FAQs
+
+date: 2025-04-11, from: University of Hawaiʻi News
+
+<p>&#8220;We remain committed to responding thoughtfully and implementing only the necessary restrictions as this situation evolves.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/11/president-hensel-fiscal-planning-student-visas-faqs/">President Hensel: Fiscal planning, student visas, more <abbr>FAQ</abbr>s</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/11/president-hensel-fiscal-planning-student-visas-faqs/>
 
 ---
 
@@ -279,7 +292,7 @@ date: 2025-04-11, from: Hawaii Tribune Harold
 
 date: 2025-04-11, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>For several years, Hawaiʻi lawmakers have debated multiple proposals to reform government including providing more transparency and accountability, overhauling campaign fundraising rules, establishing term limits and stricter rules for lobbyists.</p>
+<p>A recent state report paints a sobering picture of what Hawaiʻi needs to do to meet the needs of a “super aging” population, while at the same time taking care of its youngest residents. </p>
 <p>The post <a href="https://www.pbshawaii.org/meeting-the-needs-of-our-super-aging-society-insights-on-pbs-hawai%ca%bbi/">Meeting the Needs of Our &#8220;Super Aging&#8221; Society &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 

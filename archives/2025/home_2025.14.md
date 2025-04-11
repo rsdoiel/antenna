@@ -1,11 +1,172 @@
 ---
 title: home
-updated: 2025-04-11 06:08:16
+updated: 2025-04-11 14:08:53
 ---
 
 # home
 
-(date: 2025-04-11 06:08:16)
+(date: 2025-04-11 14:08:53)
+
+---
+
+## Build Your Own Kegerator In Less Than a Day
+
+date: 2025-04-11, from: Family Handyman Blog
+
+<p>Breathe new life into that old fridge by transforming it into a diy kegerator, the perfect addition to any hangout spot.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/diy-kegerator/">Build Your Own Kegerator In Less Than a Day</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/diy-kegerator/>
+
+---
+
+## These 20 Household Hacks Will Make Life So Much Easier
+
+date: 2025-04-11, from: Family Handyman Blog
+
+<p>Household hacks are always nice to have on hand. Who doesn't need a few more ways to make their home run a little smoother?</p>
+<p>The post <a href="https://www.familyhandyman.com/list/household-hacks/">These 20 Household Hacks Will Make Life So Much Easier</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/household-hacks/>
+
+---
+
+## The Green Roof on Their Icelandic Cabin Blends With the Forest Floor
+
+date: 2025-04-11, from: Dwell
+
+A family’s country retreat is designed to further blur into its setting with walls of windows and natural wood finishes. 
+
+<br> 
+
+<https://www.dwell.com/article/hvalfjordur-glama-kim-family-cabin-floor-to-ceiling-windows-c4623fb9>
+
+---
+
+## How Coffee Grounds Can Supercharge Your Plants
+
+date: 2025-04-11, from: Family Handyman Blog
+
+<p>Gardening experts share ways you an use coffee grounds to make your plants (and lawns) grow via compost, fertilization, and more.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/coffee-grounds-for-plants/">How Coffee Grounds Can Supercharge Your Plants</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/coffee-grounds-for-plants/>
+
+---
+
+## Japan 3D-Prints a Train Station in Six Hours—and Everything Else You Need to Know About This Week
+
+date: 2025-04-11, from: Dwell
+
+In the news: E-bikes stir up controversy in Ohio Amish country, Airbnb buys influence in NYC elections, unfair labor practices drive contractors out of work, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-3d-printed-train-station-airbnb-new-york-city-175cc326>
+
+---
+
+## Ford’s Latest Recall Affects 105K Vehicles—See If Your Car Is on the List
+
+date: 2025-04-11, from: Family Handyman Blog
+
+<p>Ford has announced a new recall of hundreds of thousands of its vehicles due to a seat belt issue. Is yours one of them?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-expedition-lincoln-navigator-2025-recall/">Ford’s Latest Recall Affects 105K Vehicles—See If Your Car Is on the List</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-expedition-lincoln-navigator-2025-recall/>
+
+---
+
+## 15 Most Common Car Repairs By Car Mileage
+
+date: 2025-04-11, from: Family Handyman Blog
+
+<p>With over 50 plus year's in the auto repair industry, I know it's better to replace a part before it fails rather than wait until it fails—and you find...</p>
+<p>The post <a href="https://www.familyhandyman.com/list/car-repairs-by-mileage/">15 Most Common Car Repairs By Car Mileage</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/car-repairs-by-mileage/>
+
+---
+
+## An Architect’s Historic Home Overlooking Honolulu Just Hit the Market for $3.5M
+
+date: 2025-04-11, from: Dwell
+
+Chip Detweiler’s 1974 residence is an ode to tropical brutalism—and it’s been meticulously restored down to the original deep-blue shade of its garage door. 
+
+<br> 
+
+<https://www.dwell.com/article/chip-detweiler-residence-historic-home-honolulu-hawaii-real-estate-bc810d63>
+
+---
+
+## My Dream Sofa, the Couch Doctor, and Me
+
+date: 2025-04-11, from: Dwell
+
+When I bought a couch from a friend, I had no idea I’d have to pay someone to take it apart. 
+
+<br> 
+
+<https://www.dwell.com/article/couch-doctor-review-f52cc6f1>
+
+---
+
+## The Home Depot Spring Black Friday Sale: 10 Furniture and Decor Items We’re Buying
+
+date: 2025-04-11, from: Family Handyman Blog
+
+<p>Save big on stylish finds for your home during The Home Depot's spring Black Friday sale. We found substantial discounts on furniture, rugs, decor and more.  </p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-depot-spring-black-friday-decor-2025/">The Home Depot Spring Black Friday Sale: 10 Furniture and Decor Items We&#8217;re Buying</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-depot-spring-black-friday-decor-2025/>
+
+---
+
+## How to Grow Turk’s Cap (Martagon) Lilies
+
+date: 2025-04-11, from: The Gardener's Path
+
+<p>Turk’s cap or martagon lilies are striking midsummer bloomers. Producing tall spires of recurved, fragrant flowers in rich, warm colors, they’re the best lily species for growing in a bit of shade. Slow to get established, they’re highly showy once they settle in. Learn how to grow these beautiful lilies in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-turks-cap-lily/">How to Grow Turk’s Cap (Martagon) Lilies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-turks-cap-lily/>
+
+---
+
+## Mum Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-04-11, from: Yard Life blog
+
+<p>Mums, short for chrysanthemums, are vibrant flowering plants that bring a burst of color to gardens in the fall. Revered ... </p>
+<p class="read-more-container"><a title="Mum Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/mum-plant-care-and-growing-guide-most-detailed/#more-26862" aria-label="Read more about Mum Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/mum-plant-care-and-growing-guide-most-detailed/">Mum Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/mum-plant-care-and-growing-guide-most-detailed/>
 
 ---
 
@@ -20,6 +181,18 @@ date: 2025-04-11, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-summer-squash-varieties/>
+
+---
+
+## The Number One Garden Task You Can’t Skip This Spring (And How to Do It Right)
+
+date: 2025-04-11, from: Sunset Magazine - Living in the West
+
+Your soil needs a little love before it can support vibrant plants. We're sharing tips on how to prep your soil for spring planting. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-prep-soil-for-spring>
 
 ---
 
@@ -669,18 +842,6 @@ date: 2025-04-08, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/herbs/grow-sweet-cicely/>
-
----
-
-## The Number One Garden Task You Can’t Skip This Spring (And How to Do It Right)
-
-date: 2025-04-08, from: Sunset Magazine - Living in the West
-
-Your soil needs a little love before it can support vibrant plants. We're sharing tips on how to prep your soil for spring planting. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/how-to-prep-soil-for-spring>
 
 ---
 

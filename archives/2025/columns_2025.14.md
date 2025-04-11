@@ -1,11 +1,66 @@
 ---
 title: columns
-updated: 2025-04-11 06:08:13
+updated: 2025-04-11 14:08:50
 ---
 
 # columns
 
-(date: 2025-04-11 06:08:13)
+(date: 2025-04-11 14:08:50)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2023/07/02/validRss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Bluesky has added <a href="https://github.com/bluesky-social/social-app/pull/8180">enclosure support</a> to their outbound <a href="https://lifehacker.com/tech/bluesky-and-mastodon-rss-feed">RSS feeds</a>. The great thing about it is that people can use Bluesky to create flows that go to lots of other places and now we can do that with images and videos. That a huge door that's opening. And I like it also because they're leading. This is a feature that Mastodon's outbound feeds don't have, yet. 
+
+<br> 
+
+<http://scripting.com/2025/04/11.html#a203638>
+
+---
+
+## Chinese Finance Ministry Calls Trump’s Tariff Hikes ‘A Joke in the History of World Economics’
+
+date: 2025-04-11, updated: 2025-04-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/world/china/china-increase-tariffs-us-goods-125-up-84-finance-ministry-says-2025-04-11/>
+
+---
+
+## The most important experimental distro you've never heard of gets new project lead
+
+date: 2025-04-11, updated: 2025-04-11, from: Liam Proven's articles at the Register
+
+<h4>Plus a fresh version ... nine years after its last</h4>
+      <p>After five years, the extremely experimental GoboLinux project is springing back to life with a new maintainer and a new release.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/11/new_gobolinux_lead_and_version/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-11, from: Dave Winer's Scripting News)
+
+Why we all have to be working <i>together</i> on creating a modern easily distributed communication system that's truly decentralized. The key is to only implement features that have super-simple implementations, so it will be easy to product new versions quickly in all environments. Which means starting with formats and protocols that are already widely supported. 
+
+<br> 
+
+<http://scripting.com/2025/04/11.html#a134300>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-11, from: Dave Winer's Scripting News)
+
+This morning ChatGPT told me it knows more about me, and will learn better. Promises promises. I would like to begin with teaching it my coding conventions. Will make it <i>much</i> easier for me to work with it. Their idea of how JavaScript works is disorganized bordering on chaos. I find that human developers always find a reason not to listen to other people, and that has huge problems (like no interop), but machines should do better. It seems to have infinite patience. What I need is to share a bit of space with the bot, so I can keep it up to date on my worknotes. I'm pretty good at it these days. Why not let that be input into the system so I can say -- give me all the notes I have on my Bingeworthy project. Why should I have to copy/paste. This is a big problem in the web, products that pretend to be islands, when they're really all floating on the same sea, the internet. We were supposed to be able to network not only our attention, but also our work. 
+
+<br> 
+
+<http://scripting.com/2025/04/11.html#a131621>
 
 ---
 
@@ -62,11 +117,11 @@ date: 2025-04-11, from: Shady Characters blog
 
 ---
 
-## Twelve small reasons for modest hope
+## 12 small reasons for modest hope
 
 date: 2025-04-11, from: Robert Reich's blog
 
-This week's slightly encouraging news 
+This week&#8217;s slightly encouraging news 
 
 <br> 
 
@@ -190,7 +245,7 @@ The House passes a bill that could disenfranchise millions
 
 ## Wayne Ma at The Information: ‘How Apple Fumbled Siri’s AI Makeover’
 
-date: 2025-04-10, updated: 2025-04-10, from: Daring Fireball
+date: 2025-04-10, updated: 2025-04-11, from: Daring Fireball
 
  
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-11 06:08:16
+updated: 2025-04-11 14:08:54
 ---
 
 # retro computing
 
-(date: 2025-04-11 06:08:16)
+(date: 2025-04-11 14:08:54)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-04-11, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 27: Into Unknown Oceans 
+
+<br> 
+
+<https://www.filfre.net/2025/04/this-week-on-the-analog-antiquarian/>
+
+---
+
+## Asahi Linux Runs into Issues with M4 Support
+
+date: 2025-04-11, from: Linux Magazine
+
+<p>Due to Apple Silicon changes, the Asahi Linux project is at odds with adding support for the M4 chips.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Asahi-Linux-Runs-into-Issues-with-M4-Support>
 
 ---
 
