@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-04-12 06:07:55
+updated: 2025-04-12 14:07:53
 ---
 
 # pacific
 
-(date: 2025-04-12 06:07:55)
+(date: 2025-04-12 14:07:53)
 
 ---
 
@@ -22,6 +22,18 @@ The post <a href="https://www.hawaii.edu/news/2025/04/11/update-on-uh-budget-202
 
 ---
 
+## Holistic health is within reach with a new series from the U.S. Army
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(BPT) - Many young Americans continue to struggle with their physical and mental health — with 1 in 7 children ages 10-19 experiencing a mental health disorder, and 17% of children ages 6-17 experiencing obesity. But in an increasingly crowded landscape of armchair experts and fragmented fitness offerings, it can be difficult to know where to go for help. Enter the U.S. Army. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/holistic-health-is-within-reach-with-a-new-series-from-the-u-s-army/article_8d2a946f-ccb5-5222-ba14-75dcbdf2ec80.html>
+
+---
+
 ## President Hensel: Fiscal planning, student visas, more FAQs
 
 date: 2025-04-11, from: University of Hawaiʻi News
@@ -32,6 +44,66 @@ The post <a href="https://www.hawaii.edu/news/2025/04/11/president-hensel-fiscal
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/11/president-hensel-fiscal-planning-student-visas-faqs/>
+
+---
+
+## COVID-19 Cases Continue to Climb: 5 Things to Know
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(BPT) - If you didn't get the updated vaccine in fall 2024, it's not too late to benefit from the protection that vaccines can offer. Over 95% of adults who were hospitalized in 2023-2024 due to COVID-19 had no record of receiving the latest vaccine.1 Being unvaccinated or not being up to date can increase the risk of severe COVID-19.2 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/covid-19-cases-continue-to-climb-5-things-to-know/article_fb98c126-941d-55b9-9e3d-4b4dba853a4d.html>
+
+---
+
+## Respiratory therapists: Providing valuable care one breath at a time
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(BPT) - If you've been in a hospital or other healthcare setting, you've likely encountered a Respiratory Therapist (RT) and not even realized it. Yet the work of an RT has never been more critical to people's health worldwide. Respiratory care is now one of the fastest-growing professions, and the need for more RTs keeps rising. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/respiratory-therapists-providing-valuable-care-one-breath-at-a-time/article_388e44b5-5a24-5879-9402-43c46c1dbf0f.html>
+
+---
+
+## FIFA's global soccer tournament to take America by storm this summer
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(BPT) - Everyone's heard the FIFA World Cup 26™ is coming to Canada, Mexico and the United States in 2026, but this summer, sports fans in 11 cities across the United States will be able to experience 32 of the world's best soccer clubs in action during the inaugural FIFA Club World Cup 2025™. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/fifas-global-soccer-tournament-to-take-america-by-storm-this-summer/article_9ba26604-ac85-5775-a251-eff58f96d240.html>
+
+---
+
+## Petals of possibility: 5 fantastic ways to use fresh flowers
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(BPT) - Whether you've always had a green thumb or you're new to gardening, dreams of beautiful flowers spring to life this time of year. For inspiration, trusted seed packet company Ferry-Morse offers creative ideas for using fresh flowers and wildflowers. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/lawn_and_garden/petals-of-possibility-5-fantastic-ways-to-use-fresh-flowers/article_cb12e32c-4dbf-5983-b50a-430b5ab9ce4c.html>
+
+---
+
+## New Caregiving App for Alzheimer's: Elevmi
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(BPT) - Caring for a loved one with Alzheimer's can be overwhelming. Nearly 70% of family caregivers say that coordinating care is stressful, and two-thirds struggle to find information to support their loved one's needs according to a recent report from the Alzheimer's Association. These challenges, combined with the emotional and physical toll of caregiving, make the journey especially difficult. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/new-caregiving-app-for-alzheimers-elevmi/article_594b8022-d6e9-5dd6-b6f7-a41591afa84a.html>
 
 ---
 
@@ -575,6 +647,18 @@ date: 2025-04-11, from: Island Times
 
 ---
 
+## Protecting the Health of Black Women During Pregnancy and Beyond
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(StatePoint) Held annually in April, Black Maternal Health Week is a campaign that supports awareness, activism and community-building​ to amplify ​the voices, perspectives and lived experiences of Black mothers. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/community_cares/protecting-the-health-of-black-women-during-pregnancy-and-beyond/article_e017c493-7eee-54ae-b0d8-c2a6739b5949.html>
+
+---
+
 ## Tourist helicopter crashes into New York’s Hudson River, killing all six aboard
 
 date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
@@ -584,6 +668,18 @@ date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/news/national/tourist-helicopter-crashes-into-new-york-s-hudson-river-killing-all-six-aboard/article_3f5cb485-dab8-4901-ad3e-336e360978d8.html>
+
+---
+
+## Hot New Pet Products for Your Furry Best Friend
+
+date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+
+(NewsUSA) - If you’re a pet parent who considers your furry companion a true family member, you’re not alone. Pet ownership is bigger—and more indulgent—than ever. The pet industry surpassed $152 billion in 2024, and is expected to top $250 billion by 2030, according to the American Pet Products Association (APPA). 
+
+<br> 
+
+<https://www.mvariety.com/online_features/pets/hot-new-pet-products-for-your-furry-best-friend/article_35a4542d-00d9-59f6-b874-391cda132006.html>
 
 ---
 

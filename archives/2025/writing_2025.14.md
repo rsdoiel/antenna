@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-04-12 06:07:58
+updated: 2025-04-12 14:07:55
 ---
 
 # writing
 
-(date: 2025-04-12 06:07:58)
+(date: 2025-04-12 14:07:55)
 
 ---
 
@@ -83,7 +83,7 @@ date: 2025-04-10, from: Locus Magazine
 
 date: 2025-04-10, from: Locus Magazine
 
-<p>The US Naval Academy&#8217;s library has removed 381 books from its collection after Defense Secretary Pete Hegseth&#8217;s office ordered the school to remove works promoting diversity, equity and inclusion.</p>
+<p>The US Naval Academy&#8217;s library has removed 381 books from its collection after Defense Secretary Pete Hegseth&#8217;s office ordered the school to remove works promoting diversity, equity, and inclusion.</p>
 <p>The list largely consists of books that discuss race and gender. It includes several genre titles and authors, including <strong>A Psalm for the Wild-Built</strong> by Becky Chambers (Tordotcom), <strong>Sorrowland</strong> by Rivers Solomon (MCD), <strong>The Fire This Time: A New Generation Speaks </strong> <a href="https://locusmag.com/2025/04/381-books-removed-from-naval-academy-library/" class="read-more">...Read More </a></p> 
 
 <br> 

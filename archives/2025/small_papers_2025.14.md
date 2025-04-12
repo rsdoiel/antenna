@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-04-12 06:08:03
+updated: 2025-04-12 14:08:00
 ---
 
 # small papers
 
-(date: 2025-04-12 06:08:03)
+(date: 2025-04-12 14:08:00)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-04-12 06:08:03
 
 date: 2025-04-11, from: Long Beach Post
 
-<figure><img width="1024" height="467" src="https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A photo of the Walter Pyramid at Cal State Long Beach." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-658x300.jpg 658w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1110x506.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-768x350.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1536x700.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-2048x934.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1320x602.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="467" src="https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A photo of the Walter Pyramid at Cal State Long Beach." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-658x300.jpg 658w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1110x506.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-768x350.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1536x700.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-2048x934.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1320x602.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Nearly 150 students statewide have had their visas revoked. Advocates and democratic attorneys general are pushing back on the cancellations, saying the Trump Administration is using them to suppress political opposition.</p>
 <p>The post <a href="https://lbpost.com/news/education/csulb-students-visas-canceled-revoked-cal-state">Six CSULB students&#8217; visas canceled amid broader wave of revocations </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

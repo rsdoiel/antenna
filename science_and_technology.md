@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-04-12 06:07:56
+updated: 2025-04-12 14:07:54
 ---
 
 # science and technology
 
-(date: 2025-04-12 06:07:56)
+(date: 2025-04-12 14:07:54)
 
 ---
 
@@ -59,7 +59,7 @@ Remember Windows Recall, the Windows feature that would take a screenshot of you
 
 ## China ups tariffs on US goods to 125%, calls Trump's war a 'joke'
 
-date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
 
 <h4>Middle Kingdom retaliates against White House&#39;s &#39;instrument and weapon to bully and coerce&#39;</h4> <p><strong>World War Fee</strong>  China is upping tariffs on US imports to 125 percent, branding the Trump administration&#39;s tax policies a &#34;joke.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
