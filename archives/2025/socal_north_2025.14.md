@@ -1,11 +1,68 @@
 ---
 title: socal north
-updated: 2025-04-11 14:08:47
+updated: 2025-04-12 06:07:54
 ---
 
 # socal north
 
-(date: 2025-04-11 14:08:47)
+(date: 2025-04-12 06:07:54)
+
+---
+
+## Six CSULB students’ visas canceled amid broader wave of revocations
+
+date: 2025-04-11, from: Longbeach Post
+
+<figure><img width="1024" height="467" src="https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A photo of the Walter Pyramid at Cal State Long Beach." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-658x300.jpg 658w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1110x506.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-768x350.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1536x700.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-2048x934.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/07/26104508/0716-Fire-7-1320x602.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Nearly 150 students statewide have had their visas revoked. Advocates and democratic attorneys general are pushing back on the cancellations, saying the Trump Administration is using them to suppress political opposition.</p>
+<p>The post <a href="https://lbpost.com/news/education/csulb-students-visas-canceled-revoked-cal-state">Six CSULB students&#8217; visas canceled amid broader wave of revocations </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/csulb-students-visas-canceled-revoked-cal-state>
+
+---
+
+## This father-son duo attended the first Long Beach Grand Prix; 50 years later, they get to participate
+
+date: 2025-04-11, from: Longbeach Post
+
+<figure><img width="1024" height="632" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11140202/11apr25-agplb-1-149475-n46e7n6j-903546-1Mm9pnR4-1024x632.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11140202/11apr25-agplb-1-149475-n46e7n6j-903546-1Mm9pnR4-1024x632.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11140202/11apr25-agplb-1-149475-n46e7n6j-903546-1Mm9pnR4-300x185.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11140202/11apr25-agplb-1-149475-n46e7n6j-903546-1Mm9pnR4-768x474.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11140202/11apr25-agplb-1-149475-n46e7n6j-903546-1Mm9pnR4-175x108.jpg 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11140202/11apr25-agplb-1-149475-n46e7n6j-903546-1Mm9pnR4-400x247.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11140202/11apr25-agplb-1-149475-n46e7n6j-903546-1Mm9pnR4.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Vince Tjelmeland was 17 when he first watched cars whip around the streets of Long Beach. At 67, he’ll be driving the track in a historic exhibition race.</p>
+<p>The post <a href="https://lbpost.com/news/historic-long-beach-grand-prix-race-father-son-first-race">This father-son duo attended the first Long Beach Grand Prix; 50 years later, they get to participate</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/historic-long-beach-grand-prix-race-father-son-first-race>
+
+---
+
+## 2 wounded in North Long Beach shooting, police say
+
+date: 2025-04-11, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Two men were shot in North Long Beach but were able to take themselves to hospitals for treatment of non-life-threatening wounds, authorities said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/2-wounded-in-north-long-beach-shooting-police-say">2 wounded in North Long Beach shooting, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/2-wounded-in-north-long-beach-shooting-police-say>
+
+---
+
+## The fix for parched western states: Recycled toilet water
+
+date: 2025-04-11, updated: 2025-04-11, from: The LAist
+
+If it’s perfectly safe to drink purified wastewater (and it is), why aren’t drought-plagued including California states drinking more of it? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/the-fix-for-parched-western-states-recycled-toilet-water>
 
 ---
 
@@ -71,7 +128,7 @@ Schools had until March 2026 to spend remaining COVID relief money. The U.S. Dep
 
 ---
 
-## Oil company fined record $18 million for defying state orders to stop work on pipeline
+## State fines oil company $18 million over 2015 Santa Barbara spill
 
 date: 2025-04-11, updated: 2025-04-11, from: The LAist
 
@@ -87,7 +144,7 @@ The pipeline caused a major oil spill a decade ago, fouling the ocean off Santa 
 
 date: 2025-04-11, from: Longbeach Post
 
-<figure><img width="1024" height="674" src="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A sign displays the Long Beach Unified School District, where the main office is located in Long Beach." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-456x300.jpg 456w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1110x731.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-768x506.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1536x1011.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-2048x1348.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1320x869.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="674" src="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A sign displays the Long Beach Unified School District, where the main office is located in Long Beach." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-456x300.jpg 456w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1110x731.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-768x506.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1536x1011.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-2048x1348.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/03133056/0202-LBUSD-9-1320x869.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Staff at the two elementary campuses turned them away. Long Beach Unified employees are instructed to follow similar procedures.</p>
 <p>The post <a href="https://lbpost.com/news/education/ice-immigration-schools-los-angeles-long-beach-lausd-lbusd">LAUSD says immigration officers visited 2 campuses. Here&#8217;s LBUSD&#8217;s plan if they come to Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -126,7 +183,7 @@ L.A. County Department of Public Health officials announced the preliminary find
 
 date: 2025-04-11, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/11071613/061121-summerschool-aw-cm-06-209781-icci0h34-651924-3or0ZoNB.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Schools had until March 2026 to spend remaining COVID relief money. The U.S. Department of Education cut those funds, amounting to about $200 million for California K-12 schools.</p>
 <p>The post <a href="https://lbpost.com/news/education/trump-canceled-millions-in-california-school-grants-the-state-is-suing-to-reclaim-the-money">Trump canceled millions in California school grants. The state is suing to reclaim the money</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -379,6 +436,18 @@ Bob Baker Day is back, jazz at the Getty, a crooner comedy at Dynasty Typewriter
 
 ---
 
+## As Gustavo Dudamel says farewell to LA, he'll lead the LA Phil in a genre-busting Coachella set
+
+date: 2025-04-10, updated: 2025-04-12, from: The LAist
+
+Saturday marks the first time a major orchestra has performed its own set at the Indio music festival. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/gustavos-mixtape-la-philharmonic-to-make-coachella-debut>
+
+---
+
 ## Here’s where you can monitor progress on Measure HLA
 
 date: 2025-04-10, updated: 2025-04-10, from: The LAist
@@ -400,18 +469,6 @@ Expect temperatures between 10 and 20 degrees above average for inland areas tod
 <br> 
 
 <https://laist.com/news/climate-environment/spring-heatwave-in-full-effect>
-
----
-
-## ‘Gustavo’s mixtape’: LA Philharmonic to make Coachella debut
-
-date: 2025-04-10, updated: 2025-04-10, from: The LAist
-
-Saturday marks the first time a major orchestra has performed its own set at the Indio music festival. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/gustavos-mixtape-la-philharmonic-to-make-coachella-debut>
 
 ---
 
@@ -1313,4 +1370,120 @@ The vote brings Republicans a step closer to finalizing a sweeping plan to addre
 <br> 
 
 <https://laist.com/news/senate-gop-passes-budget-plan-setting-up-a-critical-next-phase-for-trump-agenda>
+
+---
+
+## At park burned by Eaton Fire, volunteers kick off restoration while others question safety and priorities
+
+date: 2025-04-05, updated: 2025-04-07, from: The LAist
+
+L.A. County parks officials asked Angelenos from near and far for help to get Loma Alta Park in Altadena reopened by May. Hundreds answered the call. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/burned-by-the-eaton-fire-loma-alta-park-in-altadena-gets-restoration-underway>
+
+---
+
+## Second suspect arrested in killing at Long Beach homeless encampment, police say
+
+date: 2025-04-05, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the deadly shooting occurred in an encampment next to the 91 Freeway on Jan. 10, 2021.</p>
+<p>The post <a href="https://lbpost.com/news/crime/second-suspect-arrested-in-killing-at-long-beach-homeless-encampment-police-say">Second suspect arrested in killing at Long Beach homeless encampment, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/second-suspect-arrested-in-killing-at-long-beach-homeless-encampment-police-say>
+
+---
+
+## Dodgers head to White House Monday to celebrate World Series win
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+The team is making the traditional celebratory trip but not everyone is happy about the Dodgers meeting up with President Trump. 
+
+<br> 
+
+<https://laist.com/news/dodgers-heading-to-the-white-house-monday-to-celebrate-world-series-championship>
+
+---
+
+## Holding the Line in Uncertain Times
+
+date: 2025-04-05, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As we move through the budget process for Fiscal Year 2025/26, our focus remains clear—fiscal responsibility, long-term stability and protecting the quality of life our residents have come to expect. While we remain committed to excellence in service delivery and forward-looking planning, the economic landscape we face is increasingly unpredictable. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/05/holding-the-line-in-uncertain-times/">Holding the Line in Uncertain Times</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/05/holding-the-line-in-uncertain-times/>
+
+---
+
+## TikTok creators go from sadness and fear to...'whatever!' over app's future
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+It's been an emotional rollercoaster for TikTok creators over the past few months, with the app's future uncertain. But there are ways to decompress. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/tiktok-creators-go-from-sadness-and-fear-to-whatever-over-apps-future>
+
+---
+
+## LA County set to pay $4 billion settlement to resolve thousands of sex abuse cases
+
+date: 2025-04-05, from: Longbeach Post
+
+<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>County officials called it “the costliest financial settlement in the history of LA County." It settles thousands of claims dating back as far as the 1960s.</p>
+<p>The post <a href="https://lbpost.com/news/la-county-settlement-abuse-cases-billion">LA County set to pay $4 billion settlement to resolve thousands of sex abuse cases</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/la-county-settlement-abuse-cases-billion>
+
+---
+
+## Higher prices are likely for these 10 grocery items when tariffs hit
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+A trip to the grocery or liquor store is about to become even more expensive, economists say. From seafood to olive oil, these items will likely cost more under President Trump's tariffs. 
+
+<br> 
+
+<https://laist.com/news/food/tariffs-higher-prices-seafood-coffee-fruit-alcohol-beef-rice-cheese-nuts-chocolate-olive-oil>
+
+---
+
+## After losing his home in the Eaton Fire, the work of a volunteer trail rebuilder takes on new meaning
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+An Altadena resident and dedicated trail steward now has a two-fold mission — to rebuild his house, and the nearby trails that made it home. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/eaton-fire-lowelifes-altadena-wildfires-trail-rebuilding>
+
+---
+
+## A stuck and ‘skittish’ minke whale is still swimming in Long Beach Harbor
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+Officials have attempted to shepherd the whale back out to sea for days. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/a-stuck-and-skittish-minke-whale-is-still-swimming-in-long-beach-harbor>
 

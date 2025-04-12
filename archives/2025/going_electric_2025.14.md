@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-04-11 14:08:55
+updated: 2025-04-12 06:08:02
 ---
 
 # going electric
 
-(date: 2025-04-11 14:08:55)
+(date: 2025-04-12 06:08:02)
+
+---
+
+## Great news: IMO agrees to first-ever global carbon price on shipping
+
+date: 2025-04-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/cosco-shipping.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The International Maritime Organization, a UN agency which regulates maritime transport, has voted to implement a global cap on carbon emissions from ocean shipping and a penalty on entities that exceed that limit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="carbon-pricing" data-layer-viewtype="unknown" data-post-id="411082" href="https://electrek.co/2025/04/11/international-maritime-organization-agrees-to-first-ever-global-carbon-price/#more-411082" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/11/international-maritime-organization-agrees-to-first-ever-global-carbon-price/>
 
 ---
 
@@ -14,6 +30,10 @@ updated: 2025-04-11 14:08:55
 date: 2025-04-11, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the new Tesla Cybertruck RWD, more tariff mayhem, Lucid buying Nikola, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Electrek_380.mp3"></audio></figure>
 
 
 
@@ -251,6 +271,10 @@ date: 2025-04-11, from: Electrek Feed
 date: 2025-04-11, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes an analysis of how the Trump tariffs will affect e-bike pricing in the US, USB-C chargeable e-bikes launched by Ampler, Specialized e-bike recall, Juiced Bikes revived as a brand, kayak camping with the JackRabbit XG Pro, Walkcar’s new device that does the walking for you, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Wheel-e_87.mp3"></audio></figure>
 
 
 
@@ -1895,4 +1919,108 @@ date: 2025-04-06, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/04/05/delhi-ghtful-india-mulls-2035-ice-ban-blocks-fuel-sales-to-older-vehicles/>
+
+---
+
+## Parker launches Mobile Electrification Technology Center training program
+
+date: 2025-04-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/parker_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Last week, Parker Hannifin launched what they’re calling the industry’s first certified Mobile Electrification Technology Center to train mobile equipment technicians make the transition from conventional diesel engines to modern electric motors.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="business,commercial-evs,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="409957" href="https://electrek.co/2025/04/05/parker-launches-mobile-electrification-technology-center-training-program/#more-409957" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/05/parker-launches-mobile-electrification-technology-center-training-program/>
+
+---
+
+## ReVolt extended range electric semi trucks score their first customer
+
+date: 2025-04-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/revolt-hybrid-semi-truck.png?w=1600" /></div><p>Based on a Peterbilt 579 commercial semi truck, the ReVolt EREV hybrid electric semi truck promises 40% better fuel economy and more than twice the torque of a conventional, diesel-powered semi. The concept has promise – and now, it has customers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,erev,peterbilt" data-layer-viewtype="unknown" data-post-id="409931" href="https://electrek.co/2025/04/05/revolt-extended-range-electric-semi-trucks-score-their-first-customer/#more-409931" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/05/revolt-extended-range-electric-semi-trucks-score-their-first-customer/>
+
+---
+
+## Japan's One-Seat EV Microcar Can Fit Inside A Toyota Van
+
+date: 2025-04-05, from: Inside EVs News
+
+Hiroshima-based KG Motors is making a tiny electric "mobility robot," and I am completely obsessed. 
+
+<br> 
+
+<https://insideevs.com/news/755713/japan-kg-motor-mibot-microcar/>
+
+---
+
+## Costco Executive members get MASSIVE $31,500 off Chevy Brightdrop van
+
+date: 2025-04-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/brightdrop.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With 272 miles of range and more room inside its walls than your first apartment, <a href="https://electrek.co/2024/08/29/chevy-gains-new-ev-commercial-van/">GM’s Chevy Brightdrop electric van is one of the best commercial EVs you can buy</a>. And if you’re a Costco Executive member, you can get one for yourself or your business with an absolutely incredible $31,500 discount. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,costco,electric-van,ev-deals" data-layer-viewtype="unknown" data-post-id="409911" href="https://electrek.co/2025/04/05/costco-executive-members-get-massive-31500-off-chevy-brightdrop-van/#more-409911" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/05/costco-executive-members-get-massive-31500-off-chevy-brightdrop-van/>
+
+---
+
+## Tesla quietly removes range extender battery option on Cybertruck
+
+date: 2025-04-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Screenshot-2024-07-27-at-4.40.41 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has quietly removed the Cybertruck’s range extender from the options in its online configurator. </p>
+
+
+
+<p>Does Tesla still plan to bring the product to market?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="409905" href="https://electrek.co/2025/04/05/tesla-removes-range-extender-battery-option-cybertruck/#more-409905" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/05/tesla-removes-range-extender-battery-option-cybertruck/>
+
+---
+
+## First Volvo EX90 Highway Range Test Has Mixed Results
+
+date: 2025-04-05, from: Inside EVs News
+
+Volvo’s flagship EV didn’t come close to its official range rating. The energy consumption, however, is another story. 
+
+<br> 
+
+<https://insideevs.com/news/755632/volvo-ex90-europe-highway-range-test/>
+
+---
+
+## Tesla’s Software Boss Is Stepping Down: Report
+
+date: 2025-04-05, from: Inside EVs News
+
+David Lau’s reported departure comes after a series of high-profile exits at Tesla over the past year. 
+
+<br> 
+
+<https://insideevs.com/news/755697/tesla-software-head-david-lau-quits-report/>
 

@@ -1,11 +1,37 @@
 ---
 title: north america
-updated: 2025-04-11 14:08:47
+updated: 2025-04-12 06:07:54
 ---
 
 # north america
 
-(date: 2025-04-11 14:08:47)
+(date: 2025-04-12 06:07:54)
+
+---
+
+## Friday Evening Roundup, April 11
+
+date: 2025-04-11, from: The Contrarian
+
+Featuring Azza Cohen; Meredith Blake & Ellie Kurlander; The Democracy Index; Julia Payne, Daryn Dickens, & Myles Manor; Ruben Bolling; Jamie Schler; our Pet of the Week! ICYMI: Undaunted! 
+
+<br> 
+
+<https://contrarian.substack.com/p/friday-evening-roundup-april-11>
+
+---
+
+## Happy National Pet Day!
+
+date: 2025-04-11, from: The Contrarian
+
+Please enjoy our POTUS reel on this special day, or whenever you need a minute of zen 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161124323/2af538ad625b46fa1fcdbc72bd31e9c7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161124323/2af538ad625b46fa1fcdbc72bd31e9c7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/happy-national-pet-day>
 
 ---
 
@@ -1027,4 +1053,61 @@ Americans Say: Hands Off!
 </audio> <a href="https://api.substack.com/feed/podcast/160706819/388d14cdbc1ce110dd303e35302ef867.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/april-5-millions-take-to-the-streets>
+
+---
+
+## Hands off! Jen Rubin and April Ryan kick off the day of action
+
+date: 2025-04-05, from: The Contrarian
+
+A recording from Jennifer Rubin's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160645673/c7c867d645619e88f4ffd15a188cd900.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160645673/c7c867d645619e88f4ffd15a188cd900.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/hands-off-jen-rubin-and-april-ryan>
+
+---
+
+##  YOU LOVE TO SEE IT: Elon Goes Home Empty-Handed 
+
+date: 2025-04-05, from: The Lever News
+
+ A state court seat is not for sale, lawmakers tackle surveillance pricing, journalists won’t be silenced, and states ban political deepfakes.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-elon-goes-home-empty-handed/>
+
+---
+
+## Can you tariff-proof a cocktail?
+
+date: 2025-04-05, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>On this edition of &#8220;Economics on Tap,&#8221; Kimberly and Sabri discuss how it’s nearly impossible to tariff-proof your shopping list (or cocktail) because of the way our global economy works. They also get into why reshoring might be easier said than done. Plus, could Congress claw back some of the authority on tariffs? And the hosts weigh in on this season of &#8220;White Lotus&#8221; in a round of Half-Full/Half-Empty!</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.washingtonpost.com/business/2025/03/29/tariffs-alcohol-cocktails-wines/" target="_blank" rel="noreferrer noopener">“These cocktails and wines could get pricier if Trump imposes tariffs”</a> from The Washington Post<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.reuters.com/world/us/us-senate-republican-pushes-congressional-approval-presidents-tariffs-2025-04-03/" target="_blank" rel="noreferrer noopener">“US Senate Republican pushes to require congressional approval for new tariffs”</a> by Reuters<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.politico.com/live-updates/2025/04/04/congress/don-bacon-tariff-powers-bill-00273307" target="_blank" rel="noreferrer noopener">“House Republican moves to rein in tariff powers”</a> by Politico<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.nytimes.com/2025/04/04/business/economy/powell-trump-tariff-inflation-risk.html" target="_blank" rel="noreferrer noopener">“Powell Warns Trump’s Tariffs Risk Stoking Even Higher Inflation and Slower Growth”</a> from The New York Times</li>
+<li>&#8220;<a class="c-link" href="https://www.nytimes.com/2025/04/01/dining/revolving-restaurant.html?partner=slack&amp;smid=sl-share" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.nytimes.com/2025/04/01/dining/revolving-restaurant.html?partner=slack&amp;smid=sl-share" data-sk="tooltip_parent">The Revolving Restaurant Is Back Again (and Again)&#8221;</a> from The New York Times</li>
+<li><a href="https://www.wsj.com/economy/consumers/americans-rush-to-buy-tvs-soy-sauce-lululemon-workout-gear-fd6126ac"><span style="font-weight: 400">&#8220;Americans Rush to Buy TVs, Soy Sauce, Lululemon Workout Gear&#8221;</span></a> from The Wall Street Journal</li>
+<li><a href="https://www.wsj.com/tech/ai/this-financial-firm-can-give-investment-advice-in-gen-z-slang-no-cap-eea745eb"><span style="font-weight: 400">&#8220;This Financial Firm Can Give Investment Advice in Gen Z Slang, No Cap&#8221;</span></a> from The Wall Street Journal</li>
+<li><a class="c-link c-message_attachment__title_link" href="https://www.yahoo.com/entertainment/the-white-lotus-season-3-finale-how-to-watch-plus-what-we-know-about-season-4-133010993.html" target="_blank" rel="noopener noreferrer" data-qa="message_attachment_title_link"><span dir="auto">&#8216;The White Lotus&#8221; Season 3 finale: How to watch, plus what we know about Season 4</span></a> from Yahoo Entertainment</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/04/mms_20250404_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcan-you-tariff-proof-a-cocktail&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/04/mms_20250404_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcan-you-tariff-proof-a-cocktail&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/can-you-tariff-proof-a-cocktail>
 

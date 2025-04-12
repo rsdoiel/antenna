@@ -1,11 +1,67 @@
 ---
 title: columns
-updated: 2025-04-11 14:08:50
+updated: 2025-04-12 06:07:57
 ---
 
 # columns
 
-(date: 2025-04-11 14:08:50)
+(date: 2025-04-12 06:07:57)
+
+---
+
+## Anker, a Chinese Company, Has Already Started Raising Its Prices on Amazon
+
+date: 2025-04-11, updated: 2025-04-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/technology/chinese-electronics-company-anker-starts-raising-prices-amazon-2025-04-11/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/05/02/lbj.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The difference between the 2008 crash and now is that we had a functioning government in 2008. 
+
+<br> 
+
+<http://scripting.com/2025/04/11.html#a214902>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-11, from: Dave Winer's Scripting News)
+
+Did you know there's a chain of beating hearts going from your heart all the way back to the first animal on earth with a heart. 
+
+<br> 
+
+<http://scripting.com/2025/04/11.html#a214735>
+
+---
+
+## 2025 Woodburn Tulip Farm visit
+
+date: 2025-04-11, from: Matt Haughey blog
+
+<p>An annual highlight of Spring in Oregon is going to <a href="https://www.woodenshoe.com/tulip-festival/?ref=a.wholelottanothing.org" rel="noreferrer">the Woodburn Tulip Farm</a> to visit at its peak bloom. I took two trips out there this week, once with Kay, and once with Lucy to walk among the acres of brilliant colors and natural beauty. </p><p>Here are some shots:</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/2025-woodburn-tulip-farm-visit/>
+
+---
+
+## European Travel to the U.S. Plummets
+
+date: 2025-04-11, updated: 2025-04-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/6dc16a54-8de1-4f3b-8409-ecb566118127>
 
 ---
 
@@ -1678,7 +1734,7 @@ GovDocs Preservation
 <li>US Docs LOCKSS Network:<br /><small><a href="mailto:jrjacobs@stanford.edu">James R. Jacobs, Stanford University</a></small></li>
 <li>Canadian Government Information Digital Preservation Network:<br /><small><a href="mailto:cgraebne@sfu.ca">Carla Graebner, Simon Fraser University</a></small></li>
 <li>End of Term Web Archive Partners:<br /><small><a href="mailto:jefferson@archive.org">Jefferson Bailey, Internet Archive</a></small></li>
-<li>Data Rescue Project:<br /><small><a href="mailto:dataresuceproject@protonmail.com">dataresuceproject@protonmail.com</a></small></li>
+<li>Data Rescue Project:<br /><small><a href="mailto:datarescueproject@protonmail.com">datarescueproject@protonmail.com</a></small></li>
 </ol>
 </div>
 Government Documents are and always have been in the crosshairs of censors, I’ll mention four efforts providing countervailing forces:<br />
@@ -1720,7 +1776,7 @@ The community recently relearned a lesson history failed to teach. Digital prese
 </ol>
 I want to say a few words about sustainability. We worked very hard to make the LOCKSS Program sustainable. Don Waters at the Mellon Foundation awarded LOCKSS a matching grant to transition from grant funding to the Red Hat model of free software and paid support.<br />
 <div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghY5n_lBHMILpiioM8SDv4BF7Zi4QX-thVoXfliKaOUeu1QDGjPmvRc4VmUL5uKN5o0ir5mpBvnyvZwZ-Vghz4QffHojSI_rybs6DSOG66RrFp6pghXJo-UQV4Ebxk2t5SZ7FBmDROQ6CVkqEsKhoUcJCAWLnQyrQkAF4MjqUmnOA2HkctHT9Y7D96Afza/s640/rhymes-with-orange1999-12-12.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="312" data-original-width="640" height="195" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghY5n_lBHMILpiioM8SDv4BF7Zi4QX-thVoXfliKaOUeu1QDGjPmvRc4VmUL5uKN5o0ir5mpBvnyvZwZ-Vghz4QffHojSI_rybs6DSOG66RrFp6pghXJo-UQV4Ebxk2t5SZ7FBmDROQ6CVkqEsKhoUcJCAWLnQyrQkAF4MjqUmnOA2HkctHT9Y7D96Afza/w400-h195/rhymes-with-orange1999-12-12.png" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://comicskingdom.com/rhymes-with-orange/1999-12-12">12<sup>th</sup> December 1999</a></td></tr></tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="Fmargin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghY5n_lBHMILpiioM8SDv4BF7Zi4QX-thVoXfliKaOUeu1QDGjPmvRc4VmUL5uKN5o0ir5mpBvnyvZwZ-Vghz4QffHojSI_rybs6DSOG66RrFp6pghXJo-UQV4Ebxk2t5SZ7FBmDROQ6CVkqEsKhoUcJCAWLnQyrQkAF4MjqUmnOA2HkctHT9Y7D96Afza/s640/rhymes-with-orange1999-12-12.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="312" data-original-width="640" height="195" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghY5n_lBHMILpiioM8SDv4BF7Zi4QX-thVoXfliKaOUeu1QDGjPmvRc4VmUL5uKN5o0ir5mpBvnyvZwZ-Vghz4QffHojSI_rybs6DSOG66RrFp6pghXJo-UQV4Ebxk2t5SZ7FBmDROQ6CVkqEsKhoUcJCAWLnQyrQkAF4MjqUmnOA2HkctHT9Y7D96Afza/w400-h195/rhymes-with-orange1999-12-12.png" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://comicskingdom.com/rhymes-with-orange/1999-12-12">12<sup>th</sup> December 1999</a></td></tr></tbody></table>
 </div>
 Funding programs like LOCKSS is difficult. The LOCKSS Program reinstates stewardship and enables libraries as memory organizations. This is a hard sell. Librarians spend scarce resources to support current readers, spending them to ensure materials are available to tomorrow's readers ... not so much. While fundraising fluctuates, costs are steady. To ensure stability, we accumulated reserves by having a very lean staff and being stingy with salaries.
 <br />
@@ -1980,7 +2036,7 @@ The fundamental idea behind LOCKSS was that, given a limited budget and a realis
 When giving talks about LOCKSS Vicky or I often used to feel like the Sergeant in <a href="https://en.wikipedia.org/wiki/Alice%27s_Restaurant"><i>Alice's Restaurant</i></a> who "spoke for 45 minutes and nobody understood a word he said". We hope that this time we did better. Lets see if we did as we answer your questions.<br />
 <h3>Footnotes</h3>
 <ol start=0>
-<li id="Footnote0">Links to Lynch's Office of Technology Assessment report have been replaced by links to the Wayback Machine's copy collected by the <a href="https://eotarchive.org/">End Of Term Crawl</a>. The original was hosted at the <a href="https://eric.ed.gov/?">Dept. of Education's ERIC website</a>. The Department is currectly at risk of being shut down.</li>
+<li id="Footnote0">Links to Lynch's Office of Technology Assessment report have been replaced by links to the Wayback Machine's copy collected by the <a href="https://eotarchive.org/">End Of Term Crawl</a>. The original was hosted at the <a href="https://eric.ed.gov/?">Dept. of Education's ERIC website</a>. The Department is currently at risk of being shut down.</li>
 <li id="Footnote1">In 2006 Vicky predicted that, without collection stewardship, libraries and Starbucks would become indistinguishable. Here is a real Starbucks ad, with one minor addition.<br />
 <br />
 <div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
@@ -2532,4 +2588,268 @@ And btw it could be <a href="https://en.wikipedia.org/wiki/Nuclear_weapons_of_th
 <br> 
 
 <http://scripting.com/2025/04/05.html#a015405>
+
+---
+
+## Millions Attend ‘Hands Off’ Protests Across U.S. — and Europe — to Oppose Trump’s Agenda
+
+date: 2025-04-05, updated: 2025-04-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration>
+
+---
+
+## The WSJ Estimates the Effect of Trump’s Tariffs on the iPhone
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/personal-tech/iphone-apple-tariffs-china-bb20c7a3?mod=hp_lead_pos7>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-04-05, from: Jessica Smith's blog)
+
+<p>Last night Viv and I took Indie to the Satsung that he likes to go to with his mum. I dressed her in this cute onesie with dogs on it, and we got so many, &ldquo;Oh, so this is your darling son!&rdquo;, &ldquo;How handsome!&rdquo; etc. 😑 News just in I guess – dogs are just for boys now! Girls keep away!! How pathetic, right?</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/04/dogs-not-for-girls-apparently.html>
+
+---
+
+## The Pricing Stability of the iMac
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/04/the-pinnacle-of-apples-price-stability-is-the-imac/>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-04-05, from: Jessica Smith's blog)
+
+<p>Mission accomplished! I waited so long to reset Gidget&rsquo;s timed, automated feeder for DST that I don&rsquo;t have to any more 😎</p>
+<p>That said, in the manner of non-internet-connected electronics, its sense of time has slipped such that it runs nearly an hour behind the real time (so in the opposite direction from DST)… good thing Gidget can&rsquo;t tell time.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/04/did-not-reset-gidgets-feeder.html>
+
+---
+
+## Perhaps the E.U. Took Mercy on Apple and Meta (and Investors) This Week
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/c3933e2f-787e-453b-82eb-a981ddd48a31>
+
+---
+
+## Letter to Senators re: Signal chat
+
+date: 2025-04-05, from: Tracy Durnell Blog
+
+Note: I&#8217;ve been trying to call but I didn&#8217;t get around to it last week, so I wrote in instead &#8212; don&#8217;t let the perfect be the enemy of the good 🦾 I&#8217;m trying to pick one topic each week but it&#8217;s pretty hard given how much is going on! My approach has been to [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/05/letter-to-senators-re-signal-chat/>
+
+---
+
+##  Season Three Trailer for Star Trek: Strange New Worlds 
+
+date: 2025-04-05, updated: 2025-04-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/season-three-trailer-for-star-trek-strange-new-worlds>
+
+---
+
+## Tim Sweeney’s Praise for Microsoft
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/TimSweeneyEpic/status/1908303468349063539>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-05, from: Dave Winer's Scripting News)
+
+I now have a Canadian partner on the <a href="https://radiofreeameri.ca/">radiofreeameri.ca</a> project, a founder of <a href="https://www.tucows.com/">Tucows</a>, who I've known for <i>decades,</i>  <a href="https://www.google.com/search?q=site%3Ascripting.com+ross+rader">Ross Rader</a>. We've done work together in the past, it's great to be doing it again. 
+
+<br> 
+
+<http://scripting.com/2025/04/05.html#a180800>
+
+---
+
+## Microsoft’s 50th Birthday Was Interrupted, Twice, by Employees Protesting Against Israel
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/644027/microsoft-50th-anniversary-protest>
+
+---
+
+##  They&#8217;re gonna do a season three of The Lord of the Rings:... 
+
+date: 2025-04-05, updated: 2025-04-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046572-theyre-gonna-do-a-season>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-05, from: Dave Winer's Scripting News)
+
+On the path we're on, no doubt <a href="https://this.how/bluesky/">Bluesky</a> will come under the same kind of regulation law firms and universities are. And the shame of it is we could be using this time to spread out, distribute. 
+
+<br> 
+
+<http://scripting.com/2025/04/05.html#a171020>
+
+---
+
+## Trump’s Terrifying Tariff-Taxes! The Coffee Klatch for Saturday, April 5, 2025
+
+date: 2025-04-05, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160610353/df8d2b415491d63cdefad7960e80ab0f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160610353/df8d2b415491d63cdefad7960e80ab0f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trumps-terrifying-tariff-taxes-the>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I finally looked at my <a href="https://claude.ai/share/cbdb33ac-0f47-4e39-acb4-43eba5998a4e">nest egg</a> and was shocked to see the new number. Even worse that the dollars in the account will buy even less as the US dollar loses its value as the <a href="https://en.wikipedia.org/wiki/Flight-to-quality#:~:text=A%20flight%2Dto%2Dquality%2C,gold%20and%20other%20precious%20metals.">flight to safety</a> currency. It's not a big surprise as the US behaves like a drunk <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">Dunning-Kruger</a> deluded schoolyard bully. What is amazing, if you think about it, is that we aren't having an emergency impeachment and trial to get him out of there. That could actually restore a bit of confidence of the outside world, showing that the power in the US is more with the people than it has been for a long time. Maybe our <a href="https://www.theguardian.com/technology/2025/jan/26/elon-musk-peter-thiel-apartheid-south-africa">would-be overlords</a> are scared too at what their idea has unleashed. Even if Trump weren't so inept, eventually whoever you choose as the monarch, they're going to behave like this. Inevitable. We could have a revolution right now, fix this, and set the country on the right course. We could do it. I believe we could. 
+
+<br> 
+
+<http://scripting.com/2025/04/05.html#a153440>
+
+---
+
+## Diego Rivera style portrait
+
+date: 2025-04-05, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to draw a portrait of the <a href="https://imgs.scripting.com/2025/04/05/trump.png">current US president</a> in the style of Diego Rivera.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/05/riveraPresident.png"></center>US president in style of Diego Rivera.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/05/clown.png"></center>Diego Rivera style clown.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/05/151446.html?title=diegoRiveraStylePortrait>
+
+---
+
+## Introducing Windows on arm. And by arm, we mean wrist
+
+date: 2025-04-05, updated: 2025-04-05, from: Liam Proven's articles at the Register
+
+<h4>Pixel Watch 3 boots Microsoft&#39;s OS in latest feat of delightful pointlessness</h4>
+      <p>Windows on Arm has been around since the Surface RT – but this is another kind of arm altogether.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/05/windows_smartwatch_hack/>
+
+---
+
+## April 4, 2025
+
+date: 2025-04-05, from: Heather Cox Richardson blog
+
+The stock market rout continued today. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-4-2025>
+
+---
+
+## Panama City, Panama
+
+date: 2025-04-05, from: mrusme blog
+
+"Panama City, also known as Panama (or Panamá in Spanish), is the capital and
+largest city of Panama. It has a total population of 1,086,990, with over
+2,100,000 in its metropolitan area. The city is located at the Pacific
+entrance of the Panama Canal, in the province of Panama. The city is the
+political and administrative center of the country, as well as a hub for
+banking and commerce." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/panama/panama-city/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-05, from: Miguel de Icaza Mastondon feed)
+
+<p>God I love this <a href="https://youtu.be/bzsYlG6TqFw" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">youtu.be/bzsYlG6TqFw</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114282933517083602>
+
+---
+
+## Weeknotes: Mar. 29 – Apr. 4, 2025
+
+date: 2025-04-05, from: Tracy Durnell Blog
+
+Win of the week: freeing the car of its mouse overlord (probably, hopefully) Looking forward to: I want to make these snickerdoodle blondies Stuff I did: 17.75 hours consulting weekend walk with my friend, who brought over some disinfectant for the car 🙌 biked to the drug store because I didn&#8217;t want to drive the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/04/weeknotes-mar-29-apr-4-2025/>
+
+---
+
+## Get Up! Get Out! Get in the Streets! Mass Protests Saturday Near You! 
+
+date: 2025-04-05, from: Michael Moore's blog
+
+And... More of your amazing portraits of Dear Leader Comrade Trump! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/get-up-get-out-get-in-the-streets>
 

@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-04-11 14:08:51
+updated: 2025-04-12 06:07:58
 ---
 
 # games
 
-(date: 2025-04-11 14:08:51)
+(date: 2025-04-12 06:07:58)
+
+---
+
+## Mickey 17, Novocaine, G20 on Prime Video, and every movie new to streaming this weekend
+
+date: 2025-04-11, updated: 2025-04-10, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This weekend, Mickey 17, the new sci-fi comedy from director Bong Joon Ho (Parasite) and starring Robert Pattinson (The Batman), duplicates itself onto VOD after a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/553970/new-movies-watch-streaming-mickey-17-novocaine-g20-prime-video>
+
+---
+
+## All Team-Up abilities in Marvel Rivals and how to do them
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+Team-Up abilities are thematically appropriate moves in Marvel Rivals, allowing two or more heroes from the Marvel Universe to pair up and kick ass as a group. These unique effects can be extremely powerful, and can even change the tide of battle if you know what you’re doing. Season 2 added several new Team-Ups while [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/491013/team-up-abilities-list-all>
+
+---
+
+## All Marvel Rivals season 2 battle pass skins and rewards
+
+date: 2025-04-11, updated: 2025-04-11, from: Polygon Website
+
+There are 10 skins in the Marvel Rivals season 2 battle pass, most of which fit into a black tie gala theme. While two of these skins are available for free, the other eight require you to purchase the paid “luxury” battle pass, just like in season 1 with the Darkhold. Below, we’ll show you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/557171/all-skins-season-2-battle-pass-rewards-paid-free-list>
 
 ---
 
@@ -1038,4 +1074,76 @@ Tuesday morning, Lionsgate announced that among a trio of new projects in the Jo
 <br> 
 
 <https://www.polygon.com/anime/551982/chad-stahelski-lazarus-john-wick-animation-interview>
+
+---
+
+## Untitled Goose Game is a good excuse to talk about Australia
+
+date: 2025-04-05, updated: 2025-04-04, from: Polygon Website
+
+At a glance, House House’s 2019 honking sensation Untitled Goose Game may not seem like the most obvious choice to write a book about. The game — essentially a stealth game where your job is to cause trouble — was a viral hit, but isn’t filled with extensive lore or complex mechanics that beg to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/546855/untitled-goose-game-book-interview>
+
+---
+
+## By playing every heel in a wrestling tournament, Brennan Lee Mulligan has reached peak Dungeon Master
+
+date: 2025-04-05, updated: 2025-04-05, from: Polygon Website
+
+“People don&#8217;t understand how close D&#38;D and wrestling are,” said Brennan Lee Mulligan. And he’s speaking from an informed perspective, ushering Dimension 20: Titan Takedown into the world this week.  In the new four-episode season of the long-running anthology actual play show, Mulligan hosts four WWE superstars — Xavier Woods, Kofi Kingston, Bayley, and Chelsea [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/552001/dimension-20-brennan-lee-mulligan-titan-takedown>
+
+---
+
+## How a 25-year-old Dutch game developer reclaimed her childhood
+
+date: 2025-04-05, updated: 2025-04-04, from: Polygon Website
+
+Of the hundreds of indie games released on Steam each week, only a fortunate few become breakout hits. Last week’s biggest winner was the viral drug-dealing simulator Schedule I. But it wasn’t the only game that managed to crack 1,000 “overwhelmingly positive” reviews in its first week. The other surprise was Spilled!, a bite-sized game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/553839/push-to-talk-newsletter-spilled-game-dutch-game-dev>
+
+---
+
+## Netflix’s latest horror-comedy was inspired by Silent Hill 2 — and Katamari Damacy??
+
+date: 2025-04-05, updated: 2025-04-05, from: Polygon Website
+
+Netflix’s gleeful horror-comedy Dead Talents Society wears a lot of its influences out in the open. Writer-director John Hsu talked with Polygon earlier this month about how YouTube streamers, ’90s Taiwanese pop music, Satoshi Kon’s Perfect Blue and Tokyo Godfathers, and real Asian urban legends like “the little girl in red” helped inspire his manic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/548962/dead-talents-society-video-game-connections-katamari>
+
+---
+
+## Assassin&#8217;s Creed Syndicate did 2 protagonists first — and best
+
+date: 2025-04-05, updated: 2025-04-04, from: Polygon Website
+
+All the best Assassin’s Creed games are about family.&#160; The Ezio trilogy, long considered the peak of the series, is built on the tragic loss of Ezio’s family, and his fundamental loneliness. The game’s most iconic song — the one whose motif is colloquially known as “the Assassin’s Creed theme” — is titled “Ezio’s Family.” [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed/550748/assassins-creed-syndicate-dual-protagonists>
+
+---
+
+## The best movies new to streaming this April
+
+date: 2025-04-05, updated: 2025-04-05, from: Polygon Website
+
+March is finally behind us, and with its passing comes the arrival of spring and all its splendors! There’s a ton of exciting new releases to catch in theaters this month, from the returns of major directors, like Ryan Coogler’s Sinners and David Cronenberg’s The Shrouds, to escapist genre fare like The Accountant 2 and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/550317/best-new-movies-netflix-amazon-prime-max-hulu-april-2025>
 

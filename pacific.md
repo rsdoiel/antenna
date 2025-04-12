@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-04-11 14:08:48
+updated: 2025-04-12 06:07:55
 ---
 
 # pacific
 
-(date: 2025-04-11 14:08:48)
+(date: 2025-04-12 06:07:55)
+
+---
+
+## Legislative update: Senate budget omits UH priorities
+
+date: 2025-04-11, from: University of Hawaiʻi News
+
+<p>Kalbert Young, <abbr>UH</abbr> vice president for budget and finance and chief financial officer, shares his analysis of the final few weeks of the 2025 Legislative session.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/11/update-on-uh-budget-2025-legislative-session/">Legislative update: Senate budget omits <abbra>UH</abbr> priorities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/11/update-on-uh-budget-2025-legislative-session/>
 
 ---
 
@@ -285,6 +298,20 @@ date: 2025-04-11, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/11/nation-world-news/helicopter-crashes-into-new-yorks-hudson-river-killing-all-six-aboard/>
+
+---
+
+## Search ongoing for missing Kona fisherman
+
+date: 2025-04-11, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATE 2:25 </strong><strong>p.m</strong>.:</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/11/hawaii-news/search-ongoing-for-missing-kona-fisherman/>
 
 ---
 
@@ -2905,4 +2932,270 @@ Alisha crafts fresh leis and baskets, using materials from her home islands
 <br> 
 
 <https://thehusk.substack.com/p/21-year-old-remathau-entrepreneur>
+
+---
+
+## 'Paying federal tax is a small price to pay for security,' Guam senator says 
+
+date: 2025-04-05, from: Pacific Island Times
+
+ While the U.S. military maintains that beefing up existing defense resources and building a missile defense system would secure the island, 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/paying-federal-tax-is-a-small-price-to-pay-for-security-guam-senator-says>
+
+---
+
+##  When super is not so super
+
+date: 2025-04-05, from: Pacific Island Times
+
+The word “supercalifragilisticexpialidocious” was coined in the 1930s and popularized by the 1964 film “Mary Poppins,” which my wife Sharon  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/when-super-is-not-so-super>
+
+---
+
+## Obsidian in ancient Vanuatu
+
+date: 2025-04-05, from: Pacific Island Times
+
+In ancient times, obsidian was highly valued in Vanuatu for its sharpness and ease of shaping.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/obsidian-in-ancient-vanuatu>
+
+---
+
+## Trump’s trade war escalates as China retaliates with 34% tariffs
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>BEIJING &#8212; China has struck back at President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trumps-trade-war-escalates-as-china-retaliates-with-34-tariffs/>
+
+---
+
+## Trump sounds defiant note as tariffs roil markets again
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Two days after President Donald Trump announced his expansive global tariffs, the United States confronted wide-ranging and painful blowback, as China retaliated against U.S. goods and markets plummeted again on worries of a persistent, damaging trade war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-sounds-defiant-note-as-tariffs-roil-markets-again/>
+
+---
+
+## Loomer’s role in firings shows rising sway of fringe figures on Trump
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Laura Loomer had President Donald Trump&#8217;s full attention.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/loomers-role-in-firings-shows-rising-sway-of-fringe-figures-on-trump/>
+
+---
+
+## Hawaii condo insurance relief on horizon
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Relief for many Hawaii condominium owners paying sky-high insurance premiums may be available soon under a state program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/hawaii-news/hawaii-condo-insurance-relief-on-horizon/>
+
+---
+
+## SpaceX, ULA, Blue Origin clinch $13.5 billion-dollar Pentagon launch contracts
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk&#8217;s SpaceX, United Launch Alliance and Jeff Bezos&#8217; Blue Origin on Friday won U.S. Space Force rocket launch contracts worth a combined $13.5 billion through 2029 to send some of the Pentagon&#8217;s most sensitive and complex satellites into space.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/spacex-ula-blue-origin-clinch-13-5-billion-dollar-pentagon-launch-contracts/>
+
+---
+
+## Israeli military expands ground operations in Gaza City
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli military pressed deeper into northern Gaza by ground on Friday after issuing a series of evacuation orders calling on Palestinians to flee, part of its escalating offensive against Hamas in the war-battered Gaza Strip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/israeli-military-expands-ground-operations-in-gaza-city/>
+
+---
+
+## YouTuber is arrested after leaving Diet Coke on isolated tribe’s island
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>An American tourist set off alone last week on an inflatable boat for the remote island of North Sentinel in the Indian Ocean. He had packed a Diet Coke and a coconut as an offering for the highly isolated tribe that lives there, and he had brought along a GoPro camera in hopes of filming the encounter, the Indian police said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/youtuber-is-arrested-after-leaving-diet-coke-on-isolated-tribes-island/>
+
+---
+
+## Trump administration is ordered to return migrant deported to El Salvador
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>GREENBELT, Md. &#8212; A federal judge gave the Trump administration until the end of Monday to return to the United States a Maryland man who was inadvertently deported to El Salvador last month despite a court order allowing him to stay in the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-administration-is-ordered-to-return-migrant-deported-to-el-salvador/>
+
+---
+
+## Boy swept away by raging waters in Kentucky as rain soaks central US
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Over the past few days, more than 30 tornadoes have shredded a vast stretch of the central United States, and relentless rain has pushed creeks and streams beyond their banks. In Kentucky, floodwaters swept away a 9-year-old boy, making him at least the eighth person killed by the violent series of storms.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/boy-swept-away-by-raging-waters-in-kentucky-as-rain-soaks-central-us/>
+
+---
+
+## Russian strike kills 16, including six children, Ukraine says
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; A Russian missile strike Friday on Kryvyi Rih, a city in central Ukraine, killed at least 16 people, including six children, and wounded more than 50, local officials said. It was the latest in a series of Russian attacks on urban centers in recent days, despite ongoing ceasefire talks, that have caused significant civilian casualties.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/russian-strike-kills-16-including-six-children-ukraine-says/>
+
+---
+
+## Trump rejects Biden plan to expand Medicare coverage for obesity drugs
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration on Friday rejected a Biden administration plan that would have required Medicare and Medicaid to cover obesity drugs and expanded access for millions of people.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-rejects-biden-plan-to-expand-medicare-coverage-for-obesity-drugs/>
+
+---
+
+## Tropical Gardening: Legal mood-enhancers like chocolate are nothing new in Hawaii
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Mark your calendar for the Big Island Chocolate Festival, April 10 to April 12, and learn everything from growing to eating cacao or chocolate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/features/tropical-gardening-legal-mood-enhancers-like-chocolate-are-nothing-new-in-hawaii/>
+
+---
+
+## Trump tariffs wipe $5 trillion off Wall Street
+
+date: 2025-04-05, updated: 2025-04-06, from: Marianas Variety
+
+ORLANDO, Florida (Reuters) — One of the most pivotal weeks in years — even decades — for the global economy closed on Friday to the sound of the Nasdaq crashing into a bear market as investors fear President Donald Trump's trade war will tip the world into recession. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-tariffs-wipe-5-trillion-off-wall-street/article_8a459cf7-cc31-423c-820d-64db1d156e84.html>
+
+---
+
+## 'No more excuses: real climate action now'
+
+date: 2025-04-05, from: Pacific Island Times
+
+Vanuatu stands with the 6PAC+ alliance at the IMO that includes the Pacific, the Caribbean, Africa, and many SIDS and LDCs. We stand with th 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/no-more-excuses-real-climate-action-now>
+
+---
+
+## Hands-on STEAM program for Maui keiki expands with new funding
+
+date: 2025-04-05, from: University of Hawaiʻi News
+
+<p>The S.T.E.A.M. on the Bookshelf program has already engaged over 200 <span aria-label="ohana">&#699;ohana</span> on Maui.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/steam-on-the-bookshelf-program/">Hands-on <abbr>STEAM</abbr> program for Maui keiki expands with new funding</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/steam-on-the-bookshelf-program/>
+
+---
+
+## Peddling influence in the New Cold War
+
+date: 2025-04-05, from: Pacific Island Times
+
+ Every institution deserves to have its roots shaken from time to time. Most NGOs fall victim to their own foregone conclusions, a de facto  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/peddling-influence-in-the-new-cold-war>
+
+---
+
+## UH Mānoa dance majors to perform on European stages
+
+date: 2025-04-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa Faculty, lecturers and graduate students will tour with their original world premiere dance production, <em>EchoEight</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/uh-manoa-dance-echoeight-european-stages/"><abbr>UH</abbr> Mānoa dance majors to perform on European stages</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/uh-manoa-dance-echoeight-european-stages/>
 

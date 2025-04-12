@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-04-11 14:08:54
+updated: 2025-04-12 06:08:01
 ---
 
 # motorcycles
 
-(date: 2025-04-11 14:08:54)
+(date: 2025-04-12 06:08:01)
 
 ---
 
@@ -479,4 +479,28 @@ By Holly Cain, NASCAR Wire Service&#160; DARLINGTON, S.C. – After diligently w
 <br> 
 
 <https://kickinthetires.net/nascar/brandon-jones-breaks-98-race-nascar-winless-drought-with-victory-at-darlington-raceway/>
+
+---
+
+## Every Dirty Piece of Info About Ducati’s New Dirt Bike, as It's Finally Here
+
+date: 2025-04-05, from: Ride Apart, Electric Motorcycle News
+
+is this what the next era of motocross looks like? 
+
+<br> 
+
+<https://www.rideapart.com/news/755539/2025-ducati-desmo450-mx-specs-launch/>
+
+---
+
+## ARCA Menards West Series: 2025 Tucson Race Preview
+
+date: 2025-04-05, from: Kickin the Tires blog
+
+By Vincent Delforce, Staff Writer The third race of the 2025 ARCA Menards West Series season will take place this Saturday, April 5, at Tucson Speedway. This 0.375-mile short-track, paved&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-tucson-race-preview/>
 

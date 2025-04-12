@@ -1,11 +1,37 @@
 ---
 title: home
-updated: 2025-04-11 14:08:53
+updated: 2025-04-12 06:08:00
 ---
 
 # home
 
-(date: 2025-04-11 14:08:53)
+(date: 2025-04-12 06:08:00)
+
+---
+
+## The Most Eye-Catching Moments at Alcova Milano 2025, According to Dwell’s Visuals Editor
+
+date: 2025-04-11, from: Dwell
+
+Impossibly stacked stone spires, on-site 3D printing, and more of the revelatory objects by emerging designers that stopped us in our tracks at this year's fair. 
+
+<br> 
+
+<https://www.dwell.com/article/best-of-alcova-salone-del-mobile-2025-b3db674b>
+
+---
+
+## Our Greatest Cleaning Hacks Of All Time!
+
+date: 2025-04-11, from: Family Handyman Blog
+
+<p>We've rounded up our favorite cleaning hacks to give you some inspiration when you're in a pinch and need some emergency help. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-cleaning-hacks-of-all-time/">Our Greatest Cleaning Hacks Of All Time!</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-cleaning-hacks-of-all-time/>
 
 ---
 
@@ -1212,4 +1238,106 @@ date: 2025-04-06, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-ranunculus/>
+
+---
+
+## 9 Tips for Better Farmers’ Market Manners
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Some folks brave the farmers’ market all year-round, which is wonderful, but for others, the warm months are the ideal time for leisurely laps of local produce vendors. But how’s your etiquette? Read on. 
+
+<br> 
+
+<https://www.sunset.com/syndication/farmers-market-manners>
+
+---
+
+## These Least Visited, Under-the-Radar National Parks Deserve a Spot on Your Bucket List
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+If you want a non-touristy experience, these are the least crowded and under-visted National Parks according to Google Maps. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/least-crowded-national-parks-in-the-us>
+
+---
+
+## National Parks Are in Crisis. Here’s What You Need to Know About the Layoffs.
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Thousands of National Parks Service workers have been laid off due to executive orders, and the impact could be devastating. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/national-parks-service-layoffs>
+
+---
+
+## This Secret Cave Hike in the Sequoias Will Open for the First Time in Many Years
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Crystal Cave in the Sequoia National Park was closed to visitors for four years. It will open via reservation starting this summer. 
+
+<br> 
+
+<https://www.sunset.com/travel/crystal-cave-sequoia-national-park-reopens>
+
+---
+
+## This Popular National Park Attraction Will Close Indefinitely This Summer
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Fiery Furnace in Utah's Arches National Park, which is popular with hikers and climbers, will shutter this summer. 
+
+<br> 
+
+<https://www.sunset.com/travel/fiery-furnace-arches-national-park-utah-closure>
+
+---
+
+## How to Plant and Grow Potatoes in Containers, Pots, or Grow Bags
+
+date: 2025-04-05, from: Homestead and Chil
+
+<p>Potatoes are easy to grow, fun to harvest, and the flavorful is unbeatable! Come learn how to grow potatoes in containers, pots or grow bags - with tips on sprouting seed potatoes, planting, hilling, harvest and more.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-grow-potatoes-containers/">How to Plant and Grow Potatoes in Containers, Pots, or Grow Bags</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-grow-potatoes-containers/>
+
+---
+
+## How to Plant and Grow Indian Paintbrush Flowers (Castilleja)
+
+date: 2025-04-05, from: The Gardener's Path
+
+<p>Indian paintbrush is a hemiparasitic plant native to North America, generally sporting bright crimson blooms. These wildflowers can be challenging to cultivate, but in the right conditions, they will bring an abundance of pollinators to meadows, rock gardens, or xeriscapes. Learn how to grow Castilleja in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-indian-paintbrush/">How to Plant and Grow Indian Paintbrush Flowers (Castilleja)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-indian-paintbrush/>
+
+---
+
+## Stewarding trees: The avocado in the bananas
+
+date: 2025-04-05, from: Greg Alder's blog, Yard Post
+
+<p>Stefan was driving, taking me on a tour of avocados in South Africa, but he took a turn on a dirt road into a banana plantation. We got out of the truck and I followed him into the dark and humid canopy of green acres and acres of Dwarf Cavendish plants. We walked through the [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/stewarding-trees-the-avocado-in-the-bananas/">Stewarding trees: The avocado in the bananas</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/stewarding-trees-the-avocado-in-the-bananas/>
 

@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-04-11 14:08:49
+updated: 2025-04-12 06:07:56
 ---
 
 # science and technology
 
-(date: 2025-04-11 14:08:49)
+(date: 2025-04-12 06:07:56)
+
+---
+
+## Sols 4507-4508: “Just Keep Driving”
+
+date: 2025-04-11, from: NASA breaking news
+
+Written by Natalie Moore, Mission Operations Specialist at Malin Space Science Systems Earth planning date: Wednesday, April 9, 2025 Our drive from Monday’s plan was mostly successful, putting us ~22 meters down the “road” out of an expected 30 meters. A steering command halted the drive a little short when we tried to turn-in-place but […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4507-4508-just-keep-driving/>
+
+---
+
+## Microsoft total recalls Recall totally to Copilot+ PCs
+
+date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>Redmond hopes you’ve forgotten or got over why everyone hated it the first time</h4> <p>After temporarily shelving its controversial Windows Recall feature amid a wave of backlash, Microsoft is back at it - now quietly slipping the screenshotting app into the Windows 11 Release Preview channel for Copilot+ PCs, signaling its near-readiness for general availability.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/microsoft_windows_recall/>
+
+---
+
+## Pentagon celebrates snipping 0.58% from defense budget in IT, DEI cuts
+
+date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>$5.1B cancellations pitched as efficiency move, though costly Trump birthday parade mulled</h4> <p>The US Department of Defense (DOD) has canceled contracts for &#34;consulting and other non-essential services&#34; in the latest round of cuts conceived by Elon Musk&#39;s DOGE unit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/11/defense_department_cancels_contracts/>
+
+---
+
+## Windows Recall returns, and its companion feature does not keep data on-device
+
+date: 2025-04-11, from: OS News
+
+Remember Windows Recall, the Windows feature that would take a screenshot of your desktop every three seconds, stored them in a database, and then let you search through them at later dates? The feature has been hobbled by implementation problems, security issues, and privacy troubles, and has been released in preview and pulled since its original unveiling. Well, it&#8217;s back in testing now for users of the Release Preview Channel. As you use your Copilot+ PC throughout the day working on documents or presentations, taking video calls, and context switching across activities, Recall will take regular snapshots and help you find things faster and easier. When you need to find or get back to something you’ve done previously, open Recall and authenticate with Windows Hello. ↫ Windows Insider blog The &#8220;AI&#8221; magic (meaning, OCR and image recognition, but with ✨sparkles✨) runs locally, on device, and supposedly, the collected screenshots and data extracted from them never leave your device &#8211; at least, for now. The tech industry has a long history of relegating its promises, so excuse me if I don&#8217;t have a ton of faith in this data remaining on a Windows PC for too long into the future. Case in point, a related Windows Copilot feature: Copilot Vision. This is very similar to Windows Recall, but instead of taking automating screenshots every few seconds, you can invoke it manually so that Copilot will &#8220;read&#8221; the current contents of your desktop, applications, and so on, allowing you to ask questions, get help, and so on. The kicker, however, is that while the screenshots and resulting data from Recall supposedly remains on your machine, whatever Copilot Vision does is done on Microsoft&#8217;s servers. In other words, a feature very similar to Windows Recall is already sending your personal, private data to Microsoft. I&#8217;m sorry, but I just don&#8217;t think Windows Recall will remain &#8220;on-device&#8221; for very long. The temptation to hoover that data up into the giant advertising machine is too great, and there&#8217;s no way in hell Microsoft will be able to resist it. 
+
+<br> 
+
+<https://www.osnews.com/story/142094/windows-recall-returns-and-its-companion-feature-does-not-keep-data-on-device/>
 
 ---
 
@@ -33,7 +81,7 @@ Yesterday we had SDL2 for the classic Mac OS, today we have modern SSL/TLS for t
 
 ---
 
-## NASA-Developed Tools at Marshall Support Operations to Station
+## NASA-Developed Tools at Marshall Support Operations to Space Station
 
 date: 2025-04-11, from: NASA breaking news
 
@@ -71,7 +119,7 @@ The NASA Science Activation program’s GLOBE Mission EARTH (GME) project is for
 
 ## IBM shareholders asked to back greater lobbying transparency
 
-date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
 
 <h4>Activist investor finds payments groups lobbying against climate action</h4> <p>An activist investor has called on IBM to report on its lobbying practices, which he alleges include spending “dark money” with organizations that campaign against climate change reporting and legislation.…</p> 
 
@@ -119,7 +167,7 @@ On March 18, NASA’s IMAP (Interstellar Mapping and Acceleration Probe) arrived
 
 ## The most important experimental distro you've never heard of gets new project lead
 
-date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
 
 <h4>Plus a fresh version ... nine years after its last</h4> <p>After five years, the extremely experimental GoboLinux project is springing back to life with a new maintainer and a new release.…</p> 
 
@@ -143,7 +191,7 @@ A new proposal makes the case that paraparticles — a new category of quantum p
 
 ## Bezos cost Amazon more than Jassy did in 2024 compensation stakes
 
-date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
 
 <h4>Exec pay outlined in Proxy Statement, and things did not go well for either workforce or calls for climate transparency reports</h4> <p>Amazon exec chairman Jeff Bezos may not have a daily operational role at the cloud and e-commerce megacorp he founded, but he still got a bigger compensation package than the person currently pulling the strings from the chief executive&#39;s office.…</p> 
 
@@ -165,11 +213,11 @@ date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
 
 ---
 
-## Billions pour into AI as emissions rise - returns stay pitiful, say Stanford boffins
+## Billions pour into AI as emissions rise, returns stay pitiful, say Stanford boffins
 
 date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
 
-<h4>Models get bulkier, burnier, and bank-breakier</h4> <p>AI continues to improve – at least according to benchmarks. But the promised benefits have largely yet to materialize while models are increasing in size and becoming more computationally demanding, and greenhouse gas emissions from AI training continue to rise.…</p> 
+<h4>Models get bulkier, burnier, bank-breakier</h4> <p>AI continues to improve – at least according to benchmarks. But the promised benefits have largely yet to materialize while models are increasing in size and becoming more computationally demanding, and greenhouse gas emissions from AI training continue to rise.…</p> 
 
 <br> 
 
@@ -203,7 +251,7 @@ date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
 
 ## Ransomware crims hammering UK more than ever as British techies complain the board just doesn't get it
 
-date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
 
 <h4>Issues at the very top continue to worsen</h4> <p>The UK government&#39;s latest annual data breach survey shows the number of ransomware attacks on the isles is on the increase – and many techies are forced to constantly informally request company directors for defense spending because there&#39;s no security people on the board.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -1902,4 +1950,28 @@ date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/07/infosec_news_roundup_in_brief/>
+
+---
+
+## Introducing Windows on arm. And by arm, we mean wrist
+
+date: 2025-04-05, updated: 2025-04-05, from: The Register (UK I.T. News)
+
+<h4>Pixel Watch 3 boots Microsoft&#39;s OS in latest feat of delightful pointlessness</h4> <p>Windows on Arm has been around since the Surface RT – but this is another kind of arm altogether.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/05/windows_smartwatch_hack/>
+
+---
+
+## NASA doubles odds of Moon hitting near-Earth asteroid
+
+date: 2025-04-05, updated: 2025-04-05, from: The Register (UK I.T. News)
+
+<h4>Heads up to those living on lunar base in 2032: DUCK!!</h4> <p>The likelihood of asteroid 2024 YR4 hitting the Moon, during Christmas 2032, has more than doubled.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/05/nasa_moon_asteroid/>
 
