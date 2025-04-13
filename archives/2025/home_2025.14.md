@@ -1,11 +1,25 @@
 ---
 title: home
-updated: 2025-04-13 06:08:14
+updated: 2025-04-13 14:08:46
 ---
 
 # home
 
-(date: 2025-04-13 06:08:14)
+(date: 2025-04-13 14:08:46)
+
+---
+
+## 15 of the Best Asparagus Varieties to Grow at Home
+
+date: 2025-04-13, from: The Gardener's Path
+
+<p>Spring-harvested asparagus spears are delicious perennial vegetables in shades of green, purple, and white. Growing requirements include a full-sun placement with fertile, slightly acidic, well-draining soil in Zones 3 to 10. Discover 15 of the best varieties for home gardeners in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-asparagus-varieties/">15 of the Best Asparagus Varieties to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-asparagus-varieties/>
 
 ---
 

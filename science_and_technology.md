@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-04-13 06:08:10
+updated: 2025-04-13 14:08:41
 ---
 
 # science and technology
 
-(date: 2025-04-13 06:08:10)
+(date: 2025-04-13 14:08:41)
+
+---
+
+## Hacktivism is back – but don't be fooled, it's often state-backed goons in masks
+
+date: 2025-04-13, updated: 2025-04-13, from: The Register (UK I.T. News)
+
+<h4>Military units, government nerds appear to join the fray, with physical infra in sights</h4> <p><strong>Feature</strong>  From triggering a water tank overflow in Texas to shutting down Russian state news services on Vladimir Putin&#39;s birthday, self-styled hacktivists have been making headlines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/13/hacktivism_is_having_a_resurgence/>
 
 ---
 
@@ -71,7 +83,7 @@ date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
 
 ## LLMs can't stop making up software dependencies and sabotaging everything
 
-date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+date: 2025-04-12, updated: 2025-04-13, from: The Register (UK I.T. News)
 
 <h4>Hallucinated package names fuel &#39;slopsquatting&#39;</h4> <p>The rise of LLM-powered code generation tools is reshaping how developers write software - and introducing new risks to the software supply chain in the process.…</p> 
 
@@ -143,7 +155,7 @@ Remember Windows Recall, the Windows feature that would take a screenshot of you
 
 ## China ups tariffs on US goods to 125%, calls Trump's war a 'joke'
 
-date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-13, from: The Register (UK I.T. News)
 
 <h4>Middle Kingdom retaliates against White House&#39;s &#39;instrument and weapon to bully and coerce&#39;</h4> <p><strong>World War Fee</strong>  China is upping tariffs on US imports to 125 percent, branding the Trump administration&#39;s tax policies a &#34;joke.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -251,7 +263,7 @@ On March 18, NASA’s IMAP (Interstellar Mapping and Acceleration Probe) arrived
 
 ## The most important experimental distro you've never heard of gets new project lead
 
-date: 2025-04-11, updated: 2025-04-12, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-13, from: The Register (UK I.T. News)
 
 <h4>Plus a fresh version ... nine years after its last</h4> <p>After five years, the extremely experimental GoboLinux project is springing back to life with a new maintainer and a new release.…</p> 
 

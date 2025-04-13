@@ -1,11 +1,96 @@
 ---
 title: snapshots
-updated: 2025-04-13 06:08:18
+updated: 2025-04-13 14:08:50
 ---
 
 # snapshots
 
-(date: 2025-04-13 06:08:18)
+(date: 2025-04-13 14:08:50)
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-04-13, from: Tomosino's Mastodon feed)
+
+<p>Jason Isaacs looks just like Jim Varney</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114332693860556798>
+
+---
+
+## Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs
+
+date: 2025-04-13, updated: 2025-04-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs">Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs</a></strong></p>
+Geoffrey Litt reports on Stevens, a shared digital assistant he put together for his family using SQLite and scheduled tasks running on Val Town.</p>
+<p>The design is refreshingly simple considering how much it can do. Everything works around a single <code>memories</code> table. A memory has text, tags, creation metadata and an optional <code>date</code> for things like calendar entries and weather reports.</p>
+<p>Everything else is handled by scheduled jobs to popular weather information and events from Google Calendar, a Telegram integration offering a chat UI and a neat system where USPS postal email delivery notifications are run through Val's own email handling mechanism to trigger a Claude prompt to add those as memories too. </p>
+<p>Here's <a href="https://www.val.town/x/geoffreylitt/stevensDemo">the full code on Val Town</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/geoffrey-litt">geoffrey-litt</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/val-town">val-town</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/13/stevens/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-13, from: Dave Winer's linkblog)
+
+This Is Your Social Safety Net on DOGE. 
+
+<br> 
+
+<https://www.emptywheel.net/2025/04/13/this-is-your-social-safety-net-on-doge/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-13, from: Dave Winer's linkblog)
+
+Openvibe is an interesting product, a social network browser for people using Bluesky, Threads, Mastodon and Nostr. An approach to the problem of too many incompatible twitter-like products. 
+
+<br> 
+
+<https://openvibe.social/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-13, from: Robert's feed at BlueSky)
+
+I thought this was a good article on the things to consider in using or building large language models.  https://americanlibrariesmagazine.org/2025/03/03/assessing-ai/ 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmpfsnorbs2j>
+
+---
+
+## ONEXPLAYER X1 Pro handheld gaming PC now available with Intel Arrow Lake (for a steep price)
+
+date: 2025-04-13, from: Liliputing
+
+<p>The ONEXPLAYER X1 Pro is a handheld gaming PC with a large 10.95 inch display and a pair of detachable controllers that let you use the system like a tablet, console, or laptop (with an optional keyboard). When the ONEXPLAYER X1 Pro first launched late last year it shipped with an AMD Ryzen AI 9 HX [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/onexplayer-x1-pro-handheld-gaming-pc-now-available-with-intel-arrow-lake-for-a-steep-price/">ONEXPLAYER X1 Pro handheld gaming PC now available with Intel Arrow Lake (for a steep price)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://liliputing.com/wp-content/uploads/2025/04/OXP_EVA.mp4"></source>
+</video> <a href="https://liliputing.com/wp-content/uploads/2025/04/OXP_EVA.mp4" target="_blank">download video/mp4</a> 
+
+<https://liliputing.com/onexplayer-x1-pro-handheld-gaming-pc-now-available-with-intel-arrow-lake-for-a-steep-price/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-13, from: Dave Winer's linkblog)
+
+Developers: This is the WordPress API. Compare it to AT Proto and ActivityPub. It&#39;s got a lot of advantages. It does the basics of social media. It scales, is mature and stable, and well-managed. A better foundation imho to build on than the others. 
+
+<br> 
+
+<https://developer.wordpress.com/docs/api/>
 
 ---
 

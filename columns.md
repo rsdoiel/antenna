@@ -1,11 +1,162 @@
 ---
 title: columns
-updated: 2025-04-13 06:08:11
+updated: 2025-04-13 14:08:42
 ---
 
 # columns
 
-(date: 2025-04-13 06:08:11)
+(date: 2025-04-13 14:08:42)
+
+---
+
+## Bill Maher on His Dinner at the White House With Donald Trump
+
+date: 2025-04-13, updated: 2025-04-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=RxlopbcfXpQ>
+
+---
+
+##  I am catching up on what happened in season one of The... 
+
+date: 2025-04-13, updated: 2025-04-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046616-i-am-catching-up-on>
+
+---
+
+## April 12, 2025
+
+date: 2025-04-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161250237/7ecfd2f0fe07d08109e6cdcff19d85ea.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161250237/7ecfd2f0fe07d08109e6cdcff19d85ea.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-12-2025-145>
+
+---
+
+## ‘What It Feels Like, Right Now’
+
+date: 2025-04-13, updated: 2025-04-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://terribleminds.com/ramble/2025/04/09/what-it-feels-like-right-now/>
+
+---
+
+## Chris Whipple on the End of the Biden Administration
+
+date: 2025-04-13, updated: 2025-04-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.vanityfair.com/news/story/joe-bidens-final-days>
+
+---
+
+## Jamelle Bouie on Trump’s Tariff Obsession
+
+date: 2025-04-13, updated: 2025-04-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/09/opinion/trump-tariffs-rationale-power.html?unlocked_article_code=1._U4.jlDF.elEoqbYtNPr6&smid=url-share>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2022/12/15/drummer.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I keep <a href="https://this.how/bluesky/">beating the drum</a> about Bluesky. Their story says they know they need to be replaceable. But until they deliver on replaceability, it's a 5-alarm fire because of what happened with Twitter. It should not have been possible to acquire Twitter's user base. In hindsight we know it could have been avoided. And it can be avoided by Bluesky, but my guess is the last thing they want is to be replaced. If they really meant it, we could make it happen in a few weeks, and then we could build some really incredible systems, starting in late May, early June. I really believe that. Next journalist that interviews them should ask about this. Thanks for listening. 
+
+<br> 
+
+<http://scripting.com/2025/04/13.html#a161427>
+
+---
+
+## 2025-04-04 Aufsteigende Rüstungsklasse
+
+date: 2025-04-13, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-04-aufsteigende-rüstungsklasse">2025-04-04 Aufsteigende Rüstungsklasse</h1>
+
+<p>Ich hatte schon vor einiger Zeit angefangen, über einen Wechsel zur aufsteigenden Rüstungsklasse nachzudenken. Neue Spieler fanden die traditionelle, absteigende Rüstungsklasse meistens doof. Die Leute, mit denen ich schon spielte, hatten sich an die absteigende Rüstungsklasse gewöhnt und wollten nicht umsteigen. Was tun? Mir gefällt die Absteigende Rüstungsklasse und die kleine Tabelle, wo man sich aufschreibt, welche Rüstungsklasse welchen Wurf benötigt, oder die seltsame Notation aus AD&amp;D Zeiten mit dem ETW0 (Engl. THAC0).</p>
+
+<p>Irgendwann hatte ich mich halb durchgerungen, einen Versuch zu starten. Positiv aufgefallen ist sofort, dass die Tabellen im Handbuch für die Spielenden kompakter werden. Auf den Charakterbögen hat es nun auch etwas mehr Platz. Beides finde ich sehr positiv.</p>
+
+<p>Eher unangenehm war, dass in allen anderen Dokumenten immer noch absteigende Rüstungsklassen zu finden war. Oje! Mit dem aktuellen Update hoffe ich, sie alle gefunden zu haben. Und wer ansonsten eine Rüstungsklasse unter 10 findet, konvertiert wie folgt:</p>
+
+<ul>
+<li>Für Menschen ohne Rüstung wird RK 9 zu RK 10.</li>
+<li>Für alle anderen ist die aufsteigende Rüstungsklasse = 20 minus die absteigende Rüstungsklasse.</li>
+</ul>
+
+<p>Beispielsweise: Ork mit RK 6 wird zu Ork mit RK 14.</p>
+
+<p>Warum nicht &ldquo;19 minus die absteigende Rüstungsklasse&rdquo;? Nun ist alles um eins besser geschützt, würde man meinen. Der Vorteil ist aber, dass es nun zu neueren D&amp;D Versionen passt. Wenn ich beispielsweise bei D&amp;D 3.5 reinschaue:</p>
+
+<p>Krieger mit Stufe 1 hat einen Angriffsbonus von +1 (gleich wie die Stufe, was mir sehr gefällt). Die Rüstungen sind: beschlagene Lederrüstung 13 (20-7); Kettenpanzer 15 (20-5); Plattenpanzer 17 (20-3). Aus dem Rahmen fällt &ldquo;ohne Rüstung&rdquo;, denn 10 ist nicht 20-9. Tja… Dafür habe ich keine Lösung. RK 11 für Leute ohne Rüstung gefällt mir auch nicht.</p>
+
+<p>Und was ist mit den Trefferchancen? Vorher benötigte ein Krieger Stufe 1 eine 13 um einen Ork mit RK 6 zu treffen. Jetzt hat der Krieger einen Bonus von +1 um eine Ork mit RK 14 (20-6) zu treffen und braucht also immer noch eine 13. Insofern ist also alles gleich geblieben.</p>
+
+<p>Neue Versionen:</p>
+
+<ul>
+<li><a href="/pdfs/Hellebarden-und-Helme.pdf">Hellebarden &amp; Helme</a>, Regeln</li>
+<li><a href="/pdfs/rauchberg/Rauchberg.pdf">Rauchberg</a>, ein Megadungeon</li>
+<li><a href="/pdfs/Megadungeon.pdf">Megadungeon</a>, eine Einführung</li>
+<li><a href="/pdfs/Horte.pdf">Horte</a>, für Monster und Schätze</li>
+<li><a href="https://campaignwiki.org/character-sheet-generator/random/de?name=&amp;class=">Charaktergenerator</a></li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Hellebarden_und_Helme">#Hellebarden und Helme</a> <a class="tag" href="/search/?q=%23RSP">#RSP</a></p>
+
+<p><strong>2025-04-13</strong>. <a href="https://homebrewhomunculus.blogspot.com/2019/07/the-way-to-do-ascending-armor-class.html">The Way to Do Ascending Armor Class</a> (2019).</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-04-aufsteigende-ruestungsklasse>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-13, from: Dave Winer's Scripting News)
+
+Developers: <a href="https://developer.wordpress.com/docs/api/">This is the WordPress API</a>. Compare it to AT Proto and ActivityPub. It's got a lot of advantages. It does the basics of social media. It scales, is mature, stable, and well-managed. A stronger, stable, more broad and better foundation imho to build on than the others. 
+
+<br> 
+
+<http://scripting.com/2025/04/13.html#a142131>
+
+---
+
+##  New Study Finds Average American Stands No Chance Against What&#8217;s Coming. &#8220;The... 
+
+date: 2025-04-13, updated: 2025-04-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046571-new-study-finds-average-a>
 
 ---
 

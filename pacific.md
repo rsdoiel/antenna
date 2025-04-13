@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-04-13 06:08:09
+updated: 2025-04-13 14:08:40
 ---
 
 # pacific
 
-(date: 2025-04-13 06:08:09)
+(date: 2025-04-13 14:08:40)
+
+---
+
+## Lahainaluna boarding stories preserved in new UH oral history collection
+
+date: 2025-04-13, from: University of Hawaiʻi News
+
+<p>The boarding program began in 1836 and has played a pivotal role in the school’s legacy, offering agricultural work experiences and a sense of community for students from across the islands.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/13/lahainaluna-boarding-stories-oral-history/">Lahainaluna boarding stories preserved in new <abbr>UH</abbr> oral history collection</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/13/lahainaluna-boarding-stories-oral-history/>
 
 ---
 

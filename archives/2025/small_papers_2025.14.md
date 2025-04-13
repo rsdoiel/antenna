@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-04-13 06:08:17
+updated: 2025-04-13 14:08:49
 ---
 
 # small papers
 
-(date: 2025-04-13 06:08:17)
+(date: 2025-04-13 14:08:49)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-04-13 06:08:17
 
 date: 2025-04-13, from: Long Beach Post
 
-<figure><img width="1020" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7.png 1020w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-300x182.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-768x467.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-178x108.png 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-400x243.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1015" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-e1744565787492.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-e1744565787492.png 1015w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-e1744565787492-300x183.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-e1744565787492-768x469.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-e1744565787492-177x108.png 177w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-e1744565787492-400x244.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The area was crowded with people attending the Long Beach Grand Prix.</p>
 <p>The post <a href="https://lbpost.com/news/crime/one-dead-after-shooting-in-downtown-long-beach-police-say">One dead after shooting in Downtown Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

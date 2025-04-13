@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-04-13 06:08:08
+updated: 2025-04-13 14:08:39
 ---
 
 # north america
 
-(date: 2025-04-13 06:08:08)
+(date: 2025-04-13 14:08:39)
+
+---
+
+##  Wall Street Nightmare At 30,000 Feet 
+
+date: 2025-04-13, from: The Lever News
+
+ Trump stands up for badly-behaved credit unions, one of America’s biggest unions stands up for tariffs, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/wall-street-nightmare-at-30-000-feet/>
 
 ---
 

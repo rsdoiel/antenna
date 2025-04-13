@@ -1,11 +1,39 @@
 ---
 title: going electric
-updated: 2025-04-13 06:08:16
+updated: 2025-04-13 14:08:47
 ---
 
 # going electric
 
-(date: 2025-04-13 06:08:16)
+(date: 2025-04-13 14:08:47)
+
+---
+
+## CASE Impact autonomous, electric wheel loader debuts at bauma
+
+date: 2025-04-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/case-unveils-impact-a-compact-wheel-loader-concept-at-bauma-2025.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>CASE arrived at bauma 2025 with an innovative new electric wheel loader with a striking, sharp-edged design that ditches the traditional operator cab in favor of remote or autonomous operation for improved accessibility and safety.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="case,electric-construction-equipment,new-holland" data-layer-viewtype="unknown" data-post-id="411270" href="https://electrek.co/2025/04/13/case-impact-autonomous-electric-wheel-loader-debuts-at-bauma/#more-411270" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/13/case-impact-autonomous-electric-wheel-loader-debuts-at-bauma/>
+
+---
+
+## The 2026 Subaru Trailseeker Could Be A Very Big Deal
+
+date: 2025-04-13, from: Inside EVs News
+
+Recent moves by Toyota offer clues about what could be an affordable, high-range new Subaru EV—and probably with a NACS plug too. 
+
+<br> 
+
+<https://insideevs.com/news/756446/subaru-trailseeker-chr-plus-theory/>
 
 ---
 

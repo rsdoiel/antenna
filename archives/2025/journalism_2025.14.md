@@ -1,11 +1,36 @@
 ---
 title: journalism
-updated: 2025-04-13 06:08:13
+updated: 2025-04-13 14:08:44
 ---
 
 # journalism
 
-(date: 2025-04-13 06:08:13)
+(date: 2025-04-13 14:08:44)
+
+---
+
+## UCLA Faculty Association rallies to demand university response to visa revocations
+
+date: 2025-04-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 60 students, faculty and other community members attended a UCLA Faculty Association rally to protest against the Trump administration&#8217;s revocation of student visas.
+The Trump administration recently revoked the visas of at least 19 UCLA students and alumni, including some participating in the Optional Practical Training program. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/13/ucla-faculty-association-rallies-to-demand-university-response-to-visa-revocations/>
+
+---
+
+## Netflix’s Devil May Cry Review: A fun but flawed portrayal
+
+date: 2025-04-13, from: The Sundail (CSUN Student Newspaper)
+
+The “Devil May Cry” franchise is a staple in the action hack-and-slash genre. Despite not seeing a new addition since 2019, fans are still as passionate as ever about the... 
+
+<br> 
+
+<https://sundial.csun.edu/192615/arts-entertainment/netflixs-devil-may-cry-review-a-fun-but-flawed-portrayal/>
 
 ---
 

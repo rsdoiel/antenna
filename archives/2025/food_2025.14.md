@@ -1,11 +1,27 @@
 ---
 title: food
-updated: 2025-04-13 06:08:16
+updated: 2025-04-13 14:08:48
 ---
 
 # food
 
-(date: 2025-04-13 06:08:16)
+(date: 2025-04-13 14:08:48)
+
+---
+
+## 80 Easter Recipes
+
+date: 2025-04-13, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/03/80-Easter-Recipes.jpg"/></div>
+<p>The best recipes to celebrate Easter dinner! From easy mains like ham to strawberry desserts, carrot side dishes, asparagus eggs, etc. Easter is coming up and that means that it is time to start thinking about your menu! The Easter long weekend provides plenty of opportunities for feasting whether it be a special long weekend...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/50-easter-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/50-easter-recipes/">80 Easter Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/50-easter-recipes/>
 
 ---
 

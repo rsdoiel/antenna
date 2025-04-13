@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-04-13 06:08:12
+updated: 2025-04-13 14:08:44
 ---
 
 # games
 
-(date: 2025-04-13 06:08:12)
+(date: 2025-04-13 14:08:44)
+
+---
+
+## League’s current main plot moves forward toward Ionia and the deadly Darkin
+
+date: 2025-04-13, updated: 2025-04-11, from: Polygon Website
+
+If there’s something gamers love in the fantasy genre, it’s when ancient beings are sealed inside cool swords, from which they can only whisper and beguile mortal beings. League of Legends takes this concept even further with the Darkin by creating a whole arsenal of evil weapons containing ancient evils.&#160; The Darkin had a rough [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/556719/league-of-legends-lore-ionia-season-2-darkin>
+
+---
+
+## These 7 video games have amazing ASMR
+
+date: 2025-04-13, updated: 2025-04-11, from: Polygon Website
+
+Autonomous sensory meridian response, or ASMR, is a sensation where visual or auditory triggers fire off synapses in the brain that create a pleasant, calming feeling — colloquially referred to as “tingles.” The concept has made for a massive industry of content creators on YouTube and TikTok, all dedicated to helping viewers fall asleep, avoid [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/556711/asmr-video-games-best-list>
+
+---
+
+## 5 movies about revolution to watch while you wait for Andor season 2
+
+date: 2025-04-13, updated: 2025-04-11, from: Polygon Website
+
+Andor, the best Star Wars show to date, is set to return for its second and final season on April 22. A lot of people are excited about it, not the least of which being Andor showrunner Tony Gilroy, who has gone so far as to describe it as “the most important thing [he’ll] ever [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/553823/movies-like-andor-to-watch-revolution-season-2>
 
 ---
 
