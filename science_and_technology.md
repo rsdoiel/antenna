@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2025-04-12 14:07:54
+updated: 2025-04-13 06:08:10
 ---
 
 # science and technology
 
-(date: 2025-04-12 14:07:54)
+(date: 2025-04-13 06:08:10)
+
+---
+
+## Pidgin is back, so let's talk about why a local chat client matters
+
+date: 2025-04-13, updated: 2025-04-13, from: The Register (UK I.T. News)
+
+<h4>Multi-protocol chat client is approaching version 3</h4> <p>In the 2020s you might be forgiven for having forgotten that such a thing as a native chat client exists, but a handful still do and they&#39;re still useful. One of these is Pidgin, the artist formerly known as GAIM.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/13/pidgin_chat_client_uopdate/>
+
+---
+
+## Pinta 3.0 brings major GTK4 overhaul
+
+date: 2025-04-12, from: OS News
+
+Over 15 years ago, I wrote about the launch of a Paint.NET clone for Linux, called Pinta, written in GTK. That was merely version 0.1, and over time, it&#8217;s become somewhat of a staple for many Linux users. The project just released version 3, which is a major revision, moving the application over to GTK4 and Libadwaita. Built on the robust GTK 4 toolkit and the sleek Libadwaita, Pinta 3.0 brings a redesigned user interface that’s faster, more responsive, and more efficient than ever. Linux users will also benefit from improved system utility integration. On top of all this, new effects and the return of add-ins—previously disabled due to technical constraints—promise to bring even more creative possibilities. ↫ Pinta 3.0 release announcement Aside from the new user interface and return of add-ins, virtually every aspect of the application seems to have been touched in one way or another. We&#8217;ve got improved performance for both the UI and the application&#8217;s functionality, better gesture and touch support, redesigned and adaptive toolboxes, improved keyboard support, new effects, and much, much more. Like its original inspiration Paint.NET, Pinta sits between a basic image editor like Microsoft Paint and much more advanced tools like Photoshop and GIMP, and it seems this new release sticks to that position in the market. You can download Pinta 3.0 for Linux, Windows, and macOS, and it will surely find its way to your distribution&#8217;s repository soon enough. 
+
+<br> 
+
+<https://www.osnews.com/story/142102/pinta-3-0-brings-major-gtk4-overhaul/>
+
+---
+
+## Elliptical Python programming
+
+date: 2025-04-12, from: OS News
+
+One thing I love about Python is how it comes with its very own built-in zen. In moments of tribulations, when I am wrestling with crooked code and tangled thoughts, I often find solace in its timeless wisdom. ↫ Susam Pal I can&#8217;t program and know nothing about Python, but this still made me laugh. 
+
+<br> 
+
+<https://www.osnews.com/story/142099/elliptical-python-programming/>
+
+---
+
+## AI is making hyperscalers' sustainability pledges look more and more like a Hail Mary
+
+date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>Carbon capture, SMRs, fusion power - tech titans&#39; climate strategies are packed with moon shots</h4> <p><strong>Comment</strong>  AI&#39;s appetite for power is exploding. Hyperscalers have only just begun to adopt Nvidia&#39;s 120 kW-per-rack systems, and the GPU giant is already charting a course toward 600 kW designs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_hyperscalers_sustainability/>
+
+---
+
+## Global datacenter electricity use to double by 2030, say policy wonks. Yup, it's AI
+
+date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>No worries, just use neural networks to optimize systems powering neural networks</h4> <p><strong>Analysis</strong>  Global datacenter electricity use is set to more than double by 2030 - slightly surpassing Japan&#39;s total consumption - with AI named as the biggest driver.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_double_datacenter_energy/>
+
+---
+
+## LLMs can't stop making up software dependencies and sabotaging everything
+
+date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>Hallucinated package names fuel &#39;slopsquatting&#39;</h4> <p>The rise of LLM-powered code generation tools is reshaping how developers write software - and introducing new risks to the software supply chain in the process.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/>
+
+---
+
+## Mapping legend Ordnance Survey releases blocky Britain in Minecraft – again
+
+date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>A thing of beauty for map fans and those with kids</h4> <p>Have you ever wanted to explore a blocky low-resolution version of the UK? Well, you&#39;re in luck, because the Ordnance Survey has created a Minecraft representation of it, claimed to be as realistic as anything ever can be in the game.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ordnance_survey_releases_blocky_britain/>
 
 ---
 
@@ -239,7 +323,7 @@ The swirling, paint-like clouds in the darkness of space in this stunning image 
 
 ## Southern Water uses Capita's AI tool to flush customer complaints
 
-date: 2025-04-11, updated: 2025-04-11, from: The Register (UK I.T. News)
+date: 2025-04-11, updated: 2025-04-13, from: The Register (UK I.T. News)
 
 <h4>Hang on, wasn&#39;t Capita already handling things like billing, etc? Ah, AgentSuite comes to the rescue</h4> <p>Scandal struck UK utility company Southern Water is extending a long-running managed services contract with Capita, everyone&#39;s favorite outsourcing badass, for up to five years at an estimated cost of £92.4 million ($121 million).…</p> 
 
@@ -851,7 +935,7 @@ With FreeDOS being, well, DOS, you&#8217;d think there wasn&#8217;t much point i
 
 ## Trump thinks we can make iPhones in the US just like China. Yeah, right
 
-date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+date: 2025-04-09, updated: 2025-04-13, from: The Register (UK I.T. News)
 
 <h4>One&#39;s a world power with extensive cutting-edge electronics manufacturing empire, the other is America</h4> <p><strong>World War Fee</strong>  President Trump&#39;s trade war with China kicked into gear this week. The upshot is Americans face having to pay more for products and components sourced from the Middle Kingdom, as the eye-watering import tariffs on the gear are set to be passed onto them.…</p> 
 
@@ -911,7 +995,7 @@ Data – and our ability to understand and use it – shapes nearly every aspect
 
 ## EU lands 25% counter tariff punch on US, Trump pauses broad import levy hike – China excepted
 
-date: 2025-04-09, updated: 2025-04-10, from: The Register (UK I.T. News)
+date: 2025-04-09, updated: 2025-04-13, from: The Register (UK I.T. News)
 
 <h4>Middle Kingdom gets 145%. So this is what it&#39;s like living in reality TV</h4> <p><strong>World War Fee</strong>  The EU voted Wednesday to introduce 25 percent import tariffs on American goods, with the first duties being collected from European consumers on April 15.…</p> 
 
@@ -1950,28 +2034,4 @@ date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/07/infosec_news_roundup_in_brief/>
-
----
-
-## Introducing Windows on arm. And by arm, we mean wrist
-
-date: 2025-04-05, updated: 2025-04-05, from: The Register (UK I.T. News)
-
-<h4>Pixel Watch 3 boots Microsoft&#39;s OS in latest feat of delightful pointlessness</h4> <p>Windows on Arm has been around since the Surface RT – but this is another kind of arm altogether.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/05/windows_smartwatch_hack/>
-
----
-
-## NASA doubles odds of Moon hitting near-Earth asteroid
-
-date: 2025-04-05, updated: 2025-04-05, from: The Register (UK I.T. News)
-
-<h4>Heads up to those living on lunar base in 2032: DUCK!!</h4> <p>The likelihood of asteroid 2024 YR4 hitting the Moon, during Christmas 2032, has more than doubled.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/05/nasa_moon_asteroid/>
 

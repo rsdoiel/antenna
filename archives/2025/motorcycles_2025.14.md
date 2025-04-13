@@ -1,11 +1,83 @@
 ---
 title: motorcycles
-updated: 2025-04-12 14:07:58
+updated: 2025-04-13 06:08:14
 ---
 
 # motorcycles
 
-(date: 2025-04-12 14:07:58)
+(date: 2025-04-13 06:08:14)
+
+---
+
+## Because He Couldn't Pick Harley-Davidson's New CEO, Board Member Resigns
+
+date: 2025-04-13, from: Ride Apart, Electric Motorcycle News
+
+Petty much? 
+
+<br> 
+
+<https://www.rideapart.com/news/756379/harley-davidson-board-member-resigns-ceo-pick/>
+
+---
+
+## GALLERY: The NASCAR Cup Series Takes On Bristol Motor Speedway
+
+date: 2025-04-13, from: Kickin the Tires blog
+
+Photos by Blake Ulino/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-the-nascar-cup-series-takes-on-bristol-motor-speedway/>
+
+---
+
+## GALLERY: Catch The NASCAR Xfinity Series Action From Bristol Motor Speedway
+
+date: 2025-04-13, from: Kickin the Tires blog
+
+Photos by Blake Ulino/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-catch-the-nascar-xfinity-series-action-from-bristol-motor-speedway/>
+
+---
+
+## Doug Kalitta, Paul Lee and Greg Anderson Fastest In NHRA Qualifying At The Strip At Las Vegas Motor Speedway
+
+date: 2025-04-13, from: Kickin the Tires blog
+
+NHRA Press ReleaseLAS VEGAS (April 12, 2025) – The final pass of Saturday at The Strip at Las Vegas Motor Speedway proved to be a great one for Doug Kalitta,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/doug-kalitta-paul-lee-and-greg-anderson-fastest-in-nhra-qualifying-at-the-strip-at-las-vegas-motor-speedway/>
+
+---
+
+## Five Key Storylines: 50th Acura Grand Prix of Long Beach Preview
+
+date: 2025-04-12, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer The third round of the NTT IndyCar Series season is tomorrow, with the second biggest race on the calendar: The 50th Acura Grand Prix of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/five-key-storylines-50th-acura-grand-prix-of-long-beach-preview/>
+
+---
+
+## SEMA Still Supports the Guy Trying to Sell Off Your Public Land
+
+date: 2025-04-12, from: Ride Apart, Electric Motorcycle News
+
+But REI just apologized for it.  
+
+<br> 
+
+<https://www.rideapart.com/news/756228/sema-rei-doug-burgum-public-lands/>
 
 ---
 
@@ -479,28 +551,4 @@ By Holly Cain, NASCAR Wire Service&#160; DARLINGTON, S.C. – After diligently w
 <br> 
 
 <https://kickinthetires.net/nascar/brandon-jones-breaks-98-race-nascar-winless-drought-with-victory-at-darlington-raceway/>
-
----
-
-## Every Dirty Piece of Info About Ducati’s New Dirt Bike, as It's Finally Here
-
-date: 2025-04-05, from: Ride Apart, Electric Motorcycle News
-
-is this what the next era of motocross looks like? 
-
-<br> 
-
-<https://www.rideapart.com/news/755539/2025-ducati-desmo450-mx-specs-launch/>
-
----
-
-## ARCA Menards West Series: 2025 Tucson Race Preview
-
-date: 2025-04-05, from: Kickin the Tires blog
-
-By Vincent Delforce, Staff Writer The third race of the 2025 ARCA Menards West Series season will take place this Saturday, April 5, at Tucson Speedway. This 0.375-mile short-track, paved&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/arca-menards-west-series-2025-tucson-race-preview/>
 

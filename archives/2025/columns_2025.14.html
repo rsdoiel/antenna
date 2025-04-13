@@ -29,7 +29,487 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-04-12 14:07:54)</p>
+<p>(date: 2025-04-13 06:08:11)</p>
+<hr />
+<h2 id="america-the-beautiful">‘America the Beautiful’</h2>
+<p>date: 2025-04-13, from: Dan Rather’s Steady</p>
+<p>A Reason To Smile</p>
+<p><br></p>
+<p><a href="https://steady.substack.com/p/america-the-beautiful-fa5"
+class="uri">https://steady.substack.com/p/america-the-beautiful-fa5</a></p>
+<hr />
+<h2
+id="pidgin-is-back-so-lets-talk-about-why-a-local-chat-client-matters">Pidgin
+is back, so let’s talk about why a local chat client matters</h2>
+<p>date: 2025-04-13, updated: 2025-04-13, from: Liam Proven’s articles
+at the Register</p>
+<h4>
+Multi-protocol chat client is approaching version 3
+</h4>
+<pre><code>  &lt;p&gt;In the 2020s you might be forgiven for having forgotten that such a thing as a native chat client exists, but a handful still do and they&amp;#39;re still useful. One of these is Pidgin, the artist formerly known as GAIM.&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/13/pidgin_chat_client_uopdate/"
+class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/13/pidgin_chat_client_uopdate/</a></p>
+<hr />
+<h2 id="sunday-thought">Sunday thought</h2>
+<p>date: 2025-04-13, from: Robert Reich’s blog</p>
+<p>Fighting the regime’s cruelty</p>
+<p><br></p>
+<p><a href="https://robertreich.substack.com/p/sunday-thought-380"
+class="uri">https://robertreich.substack.com/p/sunday-thought-380</a></p>
+<hr />
+<h2 id="april-12-2025">April 12, 2025</h2>
+<p>date: 2025-04-13, from: Heather Cox Richardson blog</p>
+<p>It was just 20 days ago—on March 24—that editor in chief of The
+Atlantic Jeffrey Goldberg reported that the most senior members of the
+Trump administration discussed a military strike on the Houthis in Yemen
+on an unsecure commercial messaging app and that they included him on
+the chat.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/april-12-2025"
+class="uri">https://heathercoxrichardson.substack.com/p/april-12-2025</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2025-04-13, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+I used to treat email as a communication tool for the various
+communities I belonged to. But many of those communications take place
+elsewhere.
+</p>
+<p>
+Email still plays plenty of roles, but heavy social and interaction ones
+is not the bulk of it. It seems dominated by todo-like tasks.
+</p>
+<p>
+It doesn’t seem like we have upgraded our clients to this new reality.
+</p>
+<p><br></p>
+<p><a href="https://mastodon.social/@Migueldeicaza/114328360855755174"
+class="uri">https://mastodon.social/@Migueldeicaza/114328360855755174</a></p>
+<hr />
+<h2 id="i-dream-about-ai-subagents-they-whisper-to-me-while-im-asleep">I
+dream about AI subagents; they whisper to me while I’m asleep</h2>
+<p>date: 2025-04-13, from: Geoffrey Hunntley’s blog</p>
+<p>
+In a <a href="https://ghuntley.com/redlining/" rel="noreferrer">previous
+post</a>, I shared about "real context window" sizes and "advertised
+context window sizes"
+</p>
+<blockquote>
+Claude 3.7’s advertised context window is 200k, but I've noticed that
+the quality of output clips at the 147k-152k mark. Regardless of which
+agent is
+</blockquote>
+<p><br></p>
+<p><a href="https://ghuntley.com/subagents/"
+class="uri">https://ghuntley.com/subagents/</a></p>
+<hr />
+<h2 id="galène-was-comparatively-easy-to-setup">2025-04-07 Galène was
+comparatively easy to setup</h2>
+<p>date: 2025-04-12, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-04-07-galène-was-comparatively-easy-to-setup">
+2025-04-07 Galène was comparatively easy to setup
+</h1>
+<p>
+I remember how tricky the Jitsi setup was, at the time. When we used it,
+system load for my small server jumped up to seven or eight. And in the
+end, we all ended up on Discord. But with Discord showing annoying ads
+even to paying customers, I’m taking another look at the alternatives.
+</p>
+<p>
+From my point of view, <a href="https://galene.org/">Galène</a> has the
+benefits of requiring just a single binary for installation. Sure,
+deployment is trickier, but in typical Go fashion, you get a huge binary
+that you copy over to the server and you’re essentially ready to test
+it.
+</p>
+<p>
+So what did I do?
+</p>
+<p>
+I created a system user <code>galene</code> with home directory
+<code>/home/galene</code>. There is no <code>galene</code> group.
+</p>
+<p>
+This is where the binary lives.
+</p>
+<p>
+I copied the example <code>galene.service</code>
+<a href="https://galene.org/INSTALL.html#:~:text=systemd">from the
+website</a> and adapted it (by changing <code>Group=galene</code> to
+<code>Group=nogroup</code>).
+</p>
+<p>
+My Galène installation does not live behind a reverse proxy, so there is
+no logging of bots trying to access it. Perhaps a problem to solve for
+later.
+</p>
+<p>
+I had to add a bunch of lines to my <code>/etc/apache2/hook.sh</code>
+that runs whenever <code>mod_md</code> gets new certificates. When that
+happens, Galène also gets a copy, with permissions set appropriately.
+And it gets restarted.
+</p>
+<p>
+I created a JSON file to define a single group, making me the operator
+(with a password), and allowing
+<a href="https://galene.org/README.html#:~:text=wildcard">wildcard
+users</a> (all sharing the same password). I handed out this password on
+the IRC channel we use to chat and hang out.
+</p>
+<p>
+Should we end up with two dozen people or more, then I’ll write a web
+app to administrate users and groups via the web. An
+<a href="https://galene.org/README.API.html">API</a> to do this already
+exists. Or if I’m feeling evil, I’ll add the functionality to administer
+them to an IRC bot. 😂
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Jitsi">#Jitsi</a>
+<a class="tag" href="/search/?q=%23Galène">#Galène</a>
+<a class="tag" href="/search/?q=%23Discord">#Discord</a>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+</p>
+<p>
+<strong>2025-04-10</strong>. Today we had eight people with video and
+one person with audio-only in a call and it worked without a hitch. This
+is great.
+</p>
+<p>
+<strong>2025-04-13</strong>. I’m using the following as a Munin plugin:
+</p>
+<pre><code>#!/bin/sh
+# -*- sh -*-
+
+: &lt;&lt;=cut
+
+=head1 NAME
+
+galene - Munin plugin to monitor number of rooms and clients on a Galène server.
+
+=head1 USAGE
+
+This plugin connects to a Galène server.
+
+It requires curl and jq.
+
+=head1 CONFIGURATION
+
+There is no default configuration.  This is an example:
+
+    [galene]
+    env.host campaignwiki.org
+    env.port 8443
+    env.user root
+    env.password secret
+
+=head1 AUTHOR
+
+Alex Schroeder
+
+=head1 LICENSE
+
+CC0, dedicated to the public domain
+
+=head1 MAGIC MARKERS
+
+  #%# family=manual
+
+=cut
+
+. &quot;$MUNIN_LIBDIR/plugins/plugin.sh&quot;
+
+if [ &quot;$1&quot; = &quot;autoconf&quot; ]; then
+    if [ -z &quot;$host&quot; ]; then
+        echo &quot;no (Configuration required)&quot;
+        exit 0
+    fi
+
+    echo yes
+    exit 0
+fi
+
+if [ -z &quot;$host&quot; ] || [ -z &quot;$port&quot; ] || [ -z &quot;$user&quot; ] || [ -z &quot;$password&quot; ]; then
+  echo &quot;Configuration required&quot;
+  exit 1
+fi
+
+if [ &quot;$1&quot; = &quot;config&quot; ]; then
+
+        echo &quot;graph_title Galene status - $host:$port&quot;
+        echo &quot;graph_category chat&quot;
+        echo &quot;graph_order clients channels&quot;
+        echo &quot;graph_args -l 0&quot;
+        echo &quot;clients.label clients&quot;
+        echo &quot;clients.draw LINE2&quot;
+        echo &quot;channels.label channels&quot;
+        echo &quot;channels.draw LINE2&quot;
+    exit 0
+fi
+
+data=$(curl --silent --user &quot;$user:$password&quot; &quot;https://$host:$port/galene-api/v0/.stats&quot;)
+channels=$(echo &quot;$data&quot; | jq '.|length')
+echo &quot;channels.value $channels&quot;
+clients=$(echo &quot;$data&quot; | jq '[.[].clients|length]|add')
+echo &quot;clients.value $clients&quot;
+</code></pre>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-04-07-galene"
+class="uri">https://alexschroeder.ch/view/2025-04-07-galene</a></p>
+<hr />
+<h2 id="media-incentives">Media incentives</h2>
+<p>date: 2025-04-12, from: Tracy Durnell Blog</p>
+<p>“the platforms we use have actively made it harder for you to find
+written work” — Mia Sato <span class="citation"
+data-cites="webkinzarchive">@webkinzarchive</span> re: anti
+intellectualism and the media literacy crisis ♬ original sound – Mia
+Sato – tech reporter “platforms disincentivize linking to sources” + You
+aren’t upset enough about the war on hyperlinks by Adam Singer By
+[…]</p>
+<p><br></p>
+<p><a href="https://tracydurnell.com/2025/04/12/media-incentives/"
+class="uri">https://tracydurnell.com/2025/04/12/media-incentives/</a></p>
+<hr />
+<h2
+id="warren-buffetts-2024-report-to-berkshire-hathaway-shareholders">Warren
+Buffett’s 2024 Report to Berkshire Hathaway Shareholders</h2>
+<p>date: 2025-04-12, updated: 2025-04-12, from: Daring Fireball</p>
+<p><br></p>
+<p><a href="https://www.berkshirehathaway.com/letters/2024ltr.pdf"
+class="uri">https://www.berkshirehathaway.com/letters/2024ltr.pdf</a></p>
+<hr />
+<h2 id="the-home-of-the-brave">The Home of the Brave</h2>
+<p>date: 2025-04-12, from: Michael Moore’s blog</p>
+<p>And another installment of “Michael Moore Presents: PORTRAITS OF
+POTUS—America’s Art Attack for Democracy”</p>
+<p><br></p>
+<p><a href="https://www.michaelmoore.com/p/the-home-of-the-brave"
+class="uri">https://www.michaelmoore.com/p/the-home-of-the-brave</a></p>
+<hr />
+<h2 id="april-11-2025">April 11, 2025</h2>
+<p>date: 2025-04-12, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161197272/883f4f9727725e6ce94c322174adda60.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/161197272/883f4f9727725e6ce94c322174adda60.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/april-11-2025-726"
+class="uri">https://heathercoxrichardson.substack.com/p/april-11-2025-726</a></p>
+<hr />
+<h2 id="letter-to-senators-re-illegal-deportations">Letter to Senators
+re: illegal deportations</h2>
+<p>date: 2025-04-12, from: Tracy Durnell Blog</p>
+<p>Note: I don’t know precisely what Congress can actually <em>do</em>
+in this situation since it’s in the courts, but hope that constituents
+showing political support for resistance is valuable should this tumble
+into constitutional crisis, which is unfortunately possible. Again,
+while I’m pro-immigration / open-border-curious and want dramatic reform
+of the carceral system, I’m trying […]</p>
+<p><br></p>
+<p><a
+href="https://tracydurnell.com/2025/04/12/letter-to-senators-re-illegal-deportations/"
+class="uri">https://tracydurnell.com/2025/04/12/letter-to-senators-re-illegal-deportations/</a></p>
+<hr />
+<h2
+id="smartphones-and-computers-are-now-exempt-from-trumps-latest-tariffs">Smartphones
+and Computers Are Now Exempt From Trump’s Latest Tariffs</h2>
+<p>date: 2025-04-12, updated: 2025-04-12, from: Daring Fireball</p>
+<p><br></p>
+<p><a
+href="https://www.cnn.com/2025/04/12/tech/trump-electronics-china-tariffs/index.html"
+class="uri">https://www.cnn.com/2025/04/12/tech/trump-electronics-china-tariffs/index.html</a></p>
+<hr />
+<h2 id="we-were-just-cogs-in-the-machine">We were just cogs in the
+machine</h2>
+<p>date: 2025-04-12, from: Dave Winer’s Scripting News</p>
+<p>
+I went to a special high school in NYC, it was a public school you had
+to take a test to get into. One day our social studies teacher got some
+gumption, maybe he had a few drinks, or smoked some weed, but he had
+courage most teachers never had. He told us who we were.
+</p>
+<p>
+Most of us were going to MIT or some other university that sent workers
+into the establishment to become cogs in the big wheel that kept the
+world running. He was right. Although my own path wasn’t that direct, I
+did get there. I rose to the top in Silicon Valley, then a big famous
+university. Everything Mr Goldman told us that day was true. But what he
+probably also saw was that he too was a cog, a tool, a piece of the
+machine.
+</p>
+<p>
+I asked ChatGPT to draw a realistic picture of that day in that
+<a href="https://en.wikipedia.org/wiki/1970">1970</a> classroom.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2025/04/12/mrGoldmanTellsTheTruth.png">
+</center>
+Mr Goldman lays the hard truth on us.
+</div>
+</p>
+<p><br></p>
+<p><a
+href="http://scripting.com/2025/04/12/170024.html?title=weWereJustCogsInTheMachine"
+class="uri">http://scripting.com/2025/04/12/170024.html?title=weWereJustCogsInTheMachine</a></p>
+<hr />
+<h2 id="who-will-take-care-of-you-in-your-time-of-need">Who will take
+care of you in your time of need?</h2>
+<p>date: 2025-04-12, from: Jonudell blog</p>
+<p>This Fresh Air interview with Hanif Kureishi had me riveted from the
+beginning, for one reason, and then at the end for a different reason.
+Kureishi is best known as the author of the 1985 British rom-com My
+Beautiful Laundrette. During an illness in 2022 he fainted, fell on his
+face, broke his neck, and …
+<a href="https://blog.jonudell.net/2025/04/12/who-will-take-care-of-you-in-your-time-of-need/" class="more-link">Continue
+reading <span class="screen-reader-text">Who will take care of you in
+your time of need?</span></a></p>
+<p><br></p>
+<p><a
+href="https://blog.jonudell.net/2025/04/12/who-will-take-care-of-you-in-your-time-of-need/"
+class="uri">https://blog.jonudell.net/2025/04/12/who-will-take-care-of-you-in-your-time-of-need/</a></p>
+<hr />
+<h2 id="aer-travel-sling-2-x-pac-one-year-later">Aer Travel Sling 2
+X-Pac: One Year Later</h2>
+<p>date: 2025-04-12, from: mrusme blog</p>
+<p>A review of the <em>Aer Travel Sling 2 X-Pac</em> after one year of
+heavy-duty travel use.</p>
+<p><br></p>
+<p><a
+href="https://xn--gckvb8fzb.com/aer-travel-sling-2-x-pac-one-year-later/"
+class="uri">https://xn--gckvb8fzb.com/aer-travel-sling-2-x-pac-one-year-later/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-04-12, from: Dave Winer’s Scripting
+News)</p>
+<p>I’ve been working on an all-new feature for
+<a href="https://wordland.social/">WordLand</a>. Expect
+<a href="https://github.com/scripting/wordlandSupport/issues/69">something</a>
+in the next few days, Murphy-willing.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/04/12.html#a151444"
+class="uri">http://scripting.com/2025/04/12.html#a151444</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-04-12, from: Dave Winer’s Scripting
+News)</p>
+<p>To really nail it down, supporting inbound and outbound RSS would
+justify them saying they are part of the “social web.” Today’s Bluesky
+has no business claiming to be part of the web, the system they’re
+hyping is fully <a href="https://this.how/bluesky/">centralized</a>.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/04/12.html#a145818"
+class="uri">http://scripting.com/2025/04/12.html#a145818</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-04-12, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/04/12/yourLifeWillBeABeacon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW,
+it’s totally possible for me to say and know that Bluesky is leading us
+off the same cliff as Twitter did, and at the same time applaud their
+deepening support for
+<a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>. I don’t think
+they, or anyone else, realizes how much more this move gives us a chance
+of building a protected network of communication. Their vision could be
+achieved much more quickly by giving up their
+<a href="https://daytona.scripting.com/search?q=%22boil%20the%20ocean%22">boil
+the ocean</a> approach and start taking some simple, very doable steps
+that would empower outside developers to build a rich ecosystem around
+their product. The only downside would be that now they really
+<i>would</i> be replaceable. Anyway, they’re partly there. Right now
+they support outbound RSS, and are improving it. That’s the
+strategically easy half to do. The one that would really open them up is
+inbound RSS, the protocol that all the other twitter-like systems refuse
+to support. Want to blow the doors off now instead of some vague time in
+the future? Support outbound <i>and</i> inbound RSS. Let the trains come
+into the station and leave the station on a well established protocol.
+It could be done in a few weeks, really. Maybe the very intelligent and
+curious people who read this blog would like to take the time to
+understand what this means and the doors it would open? It’s a way to
+change the subject from “good idea but hopeless” to “hey we can have
+freedom now.”</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/04/12.html#a145222"
+class="uri">http://scripting.com/2025/04/12.html#a145222</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-04-12, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/05/02/lbj.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If
+we had a better communication system we would not be so vulnerable. We
+might even be able to defend ourselves. So it’s doubly ridiculous that
+journalism is leading us to Bluesky, when it is just more of the same
+with a better story. They’re asking us to go deeper into the myth that
+the most toxic tech ever invented is actually good for us. The thing
+that feels good is the belief that it <i>is</i> good. In that we are
+just as deluded as the people who think Trump is a genius who
+understands business and thus will do a great job of running the world
+economy, a power no previous president had dared to exercise, not even
+sure they knew they had such power. The educational institutions that
+are being attacked by Trump now, should have played a role in creating
+effective communication systems, as should journalism. I got up on stage
+at a NYT event a few years back and begged them to compete with Twitter.
+One or two people in the audience of a few hundred were inspired by the
+idea, but the follow-up was nil. People are comfortable with the belief
+that the
+<a href="https://daytona.scripting.com/search?q=%22baby%20squirrels%22">baby
+squirrels</a> have our interests at heart. Look at the
+<a href="https://www.listennotes.com/podcasts/on-the-media/the-tariff-week-from-hell-JzoHbcF6pdj/">latest</a>
+On the Media podcast. They’re all selling us out, again, and again, and
+again. It’s a loop they’ll never get out of. I have friends scattered
+around the world in places of power. When are we going to work together
+to create the communication system we need. We’re never going to get
+there by waiting for tech and journalism to get together on this.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/04/12.html#a144356"
+class="uri">http://scripting.com/2025/04/12.html#a144356</a></p>
+<hr />
+<h2
+id="is-trump-fuking-the-economy-the-coffee-klatch-for-april-12-2025">Is
+Trump Fu*king the Economy? | The Coffee Klatch for April 12, 2025</h2>
+<p>date: 2025-04-12, from: Robert Reich’s blog</p>
+<p>With Heather Lofthouse and yours truly, Robert Reich</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161142531/96b0be4d2a52370b899753ba222ab0ac.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/161142531/96b0be4d2a52370b899753ba222ab0ac.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://robertreich.substack.com/p/is-trump-fuking-the-economy-the-coffee"
+class="uri">https://robertreich.substack.com/p/is-trump-fuking-the-economy-the-coffee</a></p>
+<hr />
+<h2 id="april-11-2025-1">April 11, 2025</h2>
+<p>date: 2025-04-12, from: Heather Cox Richardson blog</p>
+<p>On April 4, Trump fired head of U.S.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/april-11-2025"
+class="uri">https://heathercoxrichardson.substack.com/p/april-11-2025</a></p>
+<hr />
+<h2 id="weeknotes-april-5-11-2025">Weeknotes: April 5-11, 2025</h2>
+<p>date: 2025-04-12, from: Tracy Durnell Blog</p>
+<p>Win of the week: my walking buddy and I both needed new walking
+shoes, and I found a running shoe store two blocks off of our normal
+route, so we went shoe shopping on our walk 😂 Looking forward to: we’re
+hopefully going to see an internet friend who’ll be in-town-ish next
+month — an excuse […]</p>
+<p><br></p>
+<p><a
+href="https://tracydurnell.com/2025/04/11/weeknotes-april-5-11-2025/"
+class="uri">https://tracydurnell.com/2025/04/11/weeknotes-april-5-11-2025/</a></p>
+<hr />
+<h2 id="perils-in-the-skies.">Perils in the Skies.</h2>
+<p>date: 2025-04-12, from: James Fallows, Substack</p>
+<p>Real-time audio of mistakes, and responses, in the air travel world.
+What we can learn from three recent episodes.</p>
+<p><br></p>
+<p><a href="https://fallows.substack.com/p/perils-in-the-skies"
+class="uri">https://fallows.substack.com/p/perils-in-the-skies</a></p>
 <hr />
 <h2
 id="anker-a-chinese-company-has-already-started-raising-its-prices-on-amazon">Anker,
@@ -427,81 +907,6 @@ meet</span> <span class="meta-nav">→</span></a></p>
 <p><a
 href="https://daniel.haxx.se/blog/2025/04/10/summing-up-the-curl-distro-2025-meet/"
 class="uri">https://daniel.haxx.se/blog/2025/04/10/summing-up-the-curl-distro-2025-meet/</a></p>
-<hr />
-<h2 id="galène-was-comparatively-easy-to-setup">2025-04-07 Galène was
-comparatively easy to setup</h2>
-<p>date: 2025-04-10, from: Alex Schroeder’s Blog</p>
-<h1 id="2025-04-07-galène-was-comparatively-easy-to-setup">
-2025-04-07 Galène was comparatively easy to setup
-</h1>
-<p>
-I remember how tricky the Jitsi setup was, at the time. When we used it,
-system load for my small server jumped up to seven or eight. And in the
-end, we all ended up on Discord. But with Discord showing annoying ads
-even to paying customers, I’m taking another look at the alternatives.
-</p>
-<p>
-From my point of view, <a href="https://galene.org/">Galène</a> has the
-benefits of requiring just a single binary for installation. Sure,
-deployment is trickier, but in typical Go fashion, you get a huge binary
-that you copy over to the server and you’re essentially ready to test
-it.
-</p>
-<p>
-So what did I do?
-</p>
-<p>
-I created a system user <code>galene</code> with home directory
-<code>/home/galene</code>. There is no <code>galene</code> group.
-</p>
-<p>
-This is where the binary lives.
-</p>
-<p>
-I copied the example <code>galene.service</code>
-<a href="https://galene.org/INSTALL.html#:~:text=systemd">from the
-website</a> and adapted it (by changing <code>Group=galene</code> to
-<code>Group=nogroup</code>).
-</p>
-<p>
-My Galène installation does not live behind a reverse proxy, so there is
-no logging of bots trying to access it. Perhaps a problem to solve for
-later.
-</p>
-<p>
-I had to add a bunch of lines to my <code>/etc/apache2/hook.sh</code>
-that runs whenever <code>mod_md</code> gets new certificates. When that
-happens, Galène also gets a copy, with permissions set appropriately.
-And it gets restarted.
-</p>
-<p>
-I created a JSON file to define a single group, making me the operator
-(with a password), and allowing
-<a href="https://galene.org/README.html#:~:text=wildcard">wildcard
-users</a> (all sharing the same password). I handed out this password on
-the IRC channel we use to chat and hang out.
-</p>
-<p>
-Should we end up with two dozen people or more, then I’ll write a web
-app to administrate users and groups via the web. An
-<a href="https://galene.org/README.API.html">API</a> to do this already
-exists. Or if I’m feeling evil, I’ll add the functionality to administer
-them to an IRC bot. 😂
-</p>
-<p>
-<a class="tag" href="/search/?q=%23Jitsi">#Jitsi</a>
-<a class="tag" href="/search/?q=%23Galène">#Galène</a>
-<a class="tag" href="/search/?q=%23Discord">#Discord</a>
-<a class="tag" href="/search/?q=%23Administration">#Administration</a>
-</p>
-<p>
-<strong>2025-04-10</strong>. Today we had eight people with video and
-one person with audio-only in a call and it worked without a hitch. This
-is great.
-</p>
-<p><br></p>
-<p><a href="https://alexschroeder.ch/view/2025-04-07-galene"
-class="uri">https://alexschroeder.ch/view/2025-04-07-galene</a></p>
 <hr />
 <h2 id="april-9-2025">April 9, 2025</h2>
 <p>date: 2025-04-10, from: Heather Cox Richardson blog</p>
@@ -4425,7 +4830,7 @@ class="uri">https://steady.substack.com/p/fortunate-son-now-and-then</a></p>
 <p><a href="https://heathercoxrichardson.substack.com/p/april-5-2025"
 class="uri">https://heathercoxrichardson.substack.com/p/april-5-2025</a></p>
 <hr />
-<h2 id="sunday-thought">Sunday thought</h2>
+<h2 id="sunday-thought-1">Sunday thought</h2>
 <p>date: 2025-04-06, from: Robert Reich’s blog</p>
 <p>The importance of taking care of yourself</p>
 <p><br></p>
@@ -4441,284 +4846,6 @@ News)</p>
 <p><br></p>
 <p><a href="http://scripting.com/2025/04/05.html#a015405"
 class="uri">http://scripting.com/2025/04/05.html#a015405</a></p>
-<hr />
-<h2
-id="millions-attend-hands-off-protests-across-u.s.-and-europe-to-oppose-trumps-agenda">Millions
-Attend ‘Hands Off’ Protests Across U.S. — and Europe — to Oppose Trump’s
-Agenda</h2>
-<p>date: 2025-04-05, updated: 2025-04-06, from: Daring Fireball</p>
-<p><br></p>
-<p><a
-href="https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration"
-class="uri">https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration</a></p>
-<hr />
-<h2
-id="the-wsj-estimates-the-effect-of-trumps-tariffs-on-the-iphone">The
-WSJ Estimates the Effect of Trump’s Tariffs on the iPhone</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball</p>
-<p><br></p>
-<p><a
-href="https://www.wsj.com/tech/personal-tech/iphone-apple-tariffs-china-bb20c7a3?mod=hp_lead_pos7"
-class="uri">https://www.wsj.com/tech/personal-tech/iphone-apple-tariffs-china-bb20c7a3?mod=hp_lead_pos7</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Jessica">@Jessica</span>
-Smith’s blog</strong> (date: 2025-04-05, from: Jessica Smith’s blog)</p>
-<p>
-Last night Viv and I took Indie to the Satsung that he likes to go to
-with his mum. I dressed her in this cute onesie with dogs on it, and we
-got so many, “Oh, so this is your darling son!”, “How handsome!” etc. 😑
-News just in I guess – dogs are just for boys now! Girls keep away!! How
-pathetic, right?
-</p>
-<p><br></p>
-<p><a
-href="https://www.jayeless.net/2025/04/dogs-not-for-girls-apparently.html"
-class="uri">https://www.jayeless.net/2025/04/dogs-not-for-girls-apparently.html</a></p>
-<hr />
-<h2 id="the-pricing-stability-of-the-imac">The Pricing Stability of the
-iMac</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball</p>
-<p><br></p>
-<p><a
-href="https://sixcolors.com/post/2025/04/the-pinnacle-of-apples-price-stability-is-the-imac/"
-class="uri">https://sixcolors.com/post/2025/04/the-pinnacle-of-apples-price-stability-is-the-imac/</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Jessica">@Jessica</span>
-Smith’s blog</strong> (date: 2025-04-05, from: Jessica Smith’s blog)</p>
-<p>
-Mission accomplished! I waited so long to reset Gidget’s timed,
-automated feeder for DST that I don’t have to any more 😎
-</p>
-<p>
-That said, in the manner of non-internet-connected electronics, its
-sense of time has slipped such that it runs nearly an hour behind the
-real time (so in the opposite direction from DST)… good thing Gidget
-can’t tell time.
-</p>
-<p><br></p>
-<p><a
-href="https://www.jayeless.net/2025/04/did-not-reset-gidgets-feeder.html"
-class="uri">https://www.jayeless.net/2025/04/did-not-reset-gidgets-feeder.html</a></p>
-<hr />
-<h2
-id="perhaps-the-e.u.-took-mercy-on-apple-and-meta-and-investors-this-week">Perhaps
-the E.U. Took Mercy on Apple and Meta (and Investors) This Week</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball</p>
-<p><br></p>
-<p><a
-href="https://www.ft.com/content/c3933e2f-787e-453b-82eb-a981ddd48a31"
-class="uri">https://www.ft.com/content/c3933e2f-787e-453b-82eb-a981ddd48a31</a></p>
-<hr />
-<h2 id="letter-to-senators-re-signal-chat">Letter to Senators re: Signal
-chat</h2>
-<p>date: 2025-04-05, from: Tracy Durnell Blog</p>
-<p>Note: I’ve been trying to call but I didn’t get around to it last
-week, so I wrote in instead — don’t let the perfect be the enemy of the
-good 🦾 I’m trying to pick one topic each week but it’s pretty hard
-given how much is going on! My approach has been to […]</p>
-<p><br></p>
-<p><a
-href="https://tracydurnell.com/2025/04/05/letter-to-senators-re-signal-chat/"
-class="uri">https://tracydurnell.com/2025/04/05/letter-to-senators-re-signal-chat/</a></p>
-<hr />
-<h2 id="season-three-trailer-for-star-trek-strange-new-worlds">Season
-Three Trailer for Star Trek: Strange New Worlds</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Jason Kittke’s blog</p>
-<p><br></p>
-<p><a
-href="https://kottke.org/25/04/season-three-trailer-for-star-trek-strange-new-worlds"
-class="uri">https://kottke.org/25/04/season-three-trailer-for-star-trek-strange-new-worlds</a></p>
-<hr />
-<h2 id="tim-sweeneys-praise-for-microsoft">Tim Sweeney’s Praise for
-Microsoft</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball</p>
-<p><br></p>
-<p><a href="https://x.com/TimSweeneyEpic/status/1908303468349063539"
-class="uri">https://x.com/TimSweeneyEpic/status/1908303468349063539</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
-Scripting News</strong> (date: 2025-04-05, from: Dave Winer’s Scripting
-News)</p>
-<p>I now have a Canadian partner on the
-<a href="https://radiofreeameri.ca/">radiofreeameri.ca</a> project, a
-founder of <a href="https://www.tucows.com/">Tucows</a>, who I’ve known
-for <i>decades,</i>
-<a href="https://www.google.com/search?q=site%3Ascripting.com+ross+rader">Ross
-Rader</a>. We’ve done work together in the past, it’s great to be doing
-it again.</p>
-<p><br></p>
-<p><a href="http://scripting.com/2025/04/05.html#a180800"
-class="uri">http://scripting.com/2025/04/05.html#a180800</a></p>
-<hr />
-<h2
-id="microsofts-50th-birthday-was-interrupted-twice-by-employees-protesting-against-israel">Microsoft’s
-50th Birthday Was Interrupted, Twice, by Employees Protesting Against
-Israel</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball</p>
-<p><br></p>
-<p><a
-href="https://www.theverge.com/news/644027/microsoft-50th-anniversary-protest"
-class="uri">https://www.theverge.com/news/644027/microsoft-50th-anniversary-protest</a></p>
-<hr />
-<h2 id="theyre-gonna-do-a-season-three-of-the-lord-of-the-rings">They’re
-gonna do a season three of The Lord of the Rings:…</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Jason Kittke’s blog</p>
-<p><br></p>
-<p><a href="https://kottke.org/25/04/0046572-theyre-gonna-do-a-season"
-class="uri">https://kottke.org/25/04/0046572-theyre-gonna-do-a-season</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
-Scripting News</strong> (date: 2025-04-05, from: Dave Winer’s Scripting
-News)</p>
-<p>On the path we’re on, no doubt
-<a href="https://this.how/bluesky/">Bluesky</a> will come under the same
-kind of regulation law firms and universities are. And the shame of it
-is we could be using this time to spread out, distribute.</p>
-<p><br></p>
-<p><a href="http://scripting.com/2025/04/05.html#a171020"
-class="uri">http://scripting.com/2025/04/05.html#a171020</a></p>
-<hr />
-<h2
-id="trumps-terrifying-tariff-taxes-the-coffee-klatch-for-saturday-april-5-2025">Trump’s
-Terrifying Tariff-Taxes! The Coffee Klatch for Saturday, April 5,
-2025</h2>
-<p>date: 2025-04-05, from: Robert Reich’s blog</p>
-<p>With Heather Lofthouse and yours truly, Robert Reich</p>
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160610353/df8d2b415491d63cdefad7960e80ab0f.mp3">
-</source>
-</audio>
-<p><a href="https://api.substack.com/feed/podcast/160610353/df8d2b415491d63cdefad7960e80ab0f.mp3" target="_blank">download
-audio/mpeg</a><br></p>
-<p><a
-href="https://robertreich.substack.com/p/trumps-terrifying-tariff-taxes-the"
-class="uri">https://robertreich.substack.com/p/trumps-terrifying-tariff-taxes-the</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
-Scripting News</strong> (date: 2025-04-05, from: Dave Winer’s Scripting
-News)</p>
-<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
-finally looked at my
-<a href="https://claude.ai/share/cbdb33ac-0f47-4e39-acb4-43eba5998a4e">nest
-egg</a> and was shocked to see the new number. Even worse that the
-dollars in the account will buy even less as the US dollar loses its
-value as the
-<a href="https://en.wikipedia.org/wiki/Flight-to-quality#:~:text=A%20flight%2Dto%2Dquality%2C,gold%20and%20other%20precious%20metals.">flight
-to safety</a> currency. It’s not a big surprise as the US behaves like a
-drunk
-<a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">Dunning-Kruger</a>
-deluded schoolyard bully. What is amazing, if you think about it, is
-that we aren’t having an emergency impeachment and trial to get him out
-of there. That could actually restore a bit of confidence of the outside
-world, showing that the power in the US is more with the people than it
-has been for a long time. Maybe our
-<a href="https://www.theguardian.com/technology/2025/jan/26/elon-musk-peter-thiel-apartheid-south-africa">would-be
-overlords</a> are scared too at what their idea has unleashed. Even if
-Trump weren’t so inept, eventually whoever you choose as the monarch,
-they’re going to behave like this. Inevitable. We could have a
-revolution right now, fix this, and set the country on the right course.
-We could do it. I believe we could.</p>
-<p><br></p>
-<p><a href="http://scripting.com/2025/04/05.html#a153440"
-class="uri">http://scripting.com/2025/04/05.html#a153440</a></p>
-<hr />
-<h2 id="diego-rivera-style-portrait">Diego Rivera style portrait</h2>
-<p>date: 2025-04-05, from: Dave Winer’s Scripting News</p>
-<p>
-I asked ChatGPT to draw a portrait of the
-<a href="https://imgs.scripting.com/2025/04/05/trump.png">current US
-president</a> in the style of Diego Rivera.
-</p>
-<p>
-<div class="divInlineImage">
-<center>
-<img class="imgInline" src="https://imgs.scripting.com/2025/04/05/riveraPresident.png">
-</center>
-US president in style of Diego Rivera.
-</div>
-</p>
-<p>
-<div class="divInlineImage">
-<center>
-<img class="imgInline" src="https://imgs.scripting.com/2025/04/05/clown.png">
-</center>
-Diego Rivera style clown.
-</div>
-</p>
-<p><br></p>
-<p><a
-href="http://scripting.com/2025/04/05/151446.html?title=diegoRiveraStylePortrait"
-class="uri">http://scripting.com/2025/04/05/151446.html?title=diegoRiveraStylePortrait</a></p>
-<hr />
-<h2
-id="introducing-windows-on-arm.-and-by-arm-we-mean-wrist">Introducing
-Windows on arm. And by arm, we mean wrist</h2>
-<p>date: 2025-04-05, updated: 2025-04-05, from: Liam Proven’s articles
-at the Register</p>
-<h4>
-Pixel Watch 3 boots Microsoft's OS in latest feat of delightful
-pointlessness
-</h4>
-<pre><code>  &lt;p&gt;Windows on Arm has been around since the Surface RT – but this is another kind of arm altogether.&lt;/p&gt; </code></pre>
-<p><br></p>
-<p><a
-href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/05/windows_smartwatch_hack/"
-class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/05/windows_smartwatch_hack/</a></p>
-<hr />
-<h2 id="april-4-2025-1">April 4, 2025</h2>
-<p>date: 2025-04-05, from: Heather Cox Richardson blog</p>
-<p>The stock market rout continued today.</p>
-<p><br></p>
-<p><a href="https://heathercoxrichardson.substack.com/p/april-4-2025"
-class="uri">https://heathercoxrichardson.substack.com/p/april-4-2025</a></p>
-<hr />
-<h2 id="panama-city-panama">Panama City, Panama</h2>
-<p>date: 2025-04-05, from: mrusme blog</p>
-<p>“Panama City, also known as Panama (or Panamá in Spanish), is the
-capital and largest city of Panama. It has a total population of
-1,086,990, with over 2,100,000 in its metropolitan area. The city is
-located at the Pacific entrance of the Panama Canal, in the province of
-Panama. The city is the political and administrative center of the
-country, as well as a hub for banking and commerce.”</p>
-<p><br></p>
-<p><a href="https://xn--gckvb8fzb.com/travel/panama/panama-city/"
-class="uri">https://xn--gckvb8fzb.com/travel/panama/panama-city/</a></p>
-<hr />
-<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
-Icaza Mastondon feed</strong> (date: 2025-04-05, from: Miguel de Icaza
-Mastondon feed)</p>
-<p>
-God I love this
-<a href="https://youtu.be/bzsYlG6TqFw" target="_blank" rel="nofollow noopener" translate="no"><span
-class="invisible">https://</span><span>youtu.be/bzsYlG6TqFw</span><span
-class="invisible"></span></a>
-</p>
-<p><br></p>
-<p><a href="https://mastodon.social/@Migueldeicaza/114282933517083602"
-class="uri">https://mastodon.social/@Migueldeicaza/114282933517083602</a></p>
-<hr />
-<h2 id="weeknotes-mar.-29-apr.-4-2025">Weeknotes: Mar. 29 – Apr. 4,
-2025</h2>
-<p>date: 2025-04-05, from: Tracy Durnell Blog</p>
-<p>Win of the week: freeing the car of its mouse overlord (probably,
-hopefully) Looking forward to: I want to make these snickerdoodle
-blondies Stuff I did: 17.75 hours consulting weekend walk with my
-friend, who brought over some disinfectant for the car 🙌 biked to the
-drug store because I didn’t want to drive the […]</p>
-<p><br></p>
-<p><a
-href="https://tracydurnell.com/2025/04/04/weeknotes-mar-29-apr-4-2025/"
-class="uri">https://tracydurnell.com/2025/04/04/weeknotes-mar-29-apr-4-2025/</a></p>
-<hr />
-<h2
-id="get-up-get-out-get-in-the-streets-mass-protests-saturday-near-you">Get
-Up! Get Out! Get in the Streets! Mass Protests Saturday Near You!</h2>
-<p>date: 2025-04-05, from: Michael Moore’s blog</p>
-<p>And… More of your amazing portraits of Dear Leader Comrade Trump!</p>
-<p><br></p>
-<p><a
-href="https://www.michaelmoore.com/p/get-up-get-out-get-in-the-streets"
-class="uri">https://www.michaelmoore.com/p/get-up-get-out-get-in-the-streets</a></p>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.

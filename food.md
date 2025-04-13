@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-04-12 14:07:59
+updated: 2025-04-13 06:08:16
 ---
 
 # food
 
-(date: 2025-04-12 14:07:59)
+(date: 2025-04-13 06:08:16)
+
+---
+
+## Come And Get Your Love (It’s A Bag Of Coffee)
+
+date: 2025-04-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s&#8230; 
+
+<br> 
+
+<https://sprudge.com/come-and-get-your-love-its-a-bag-of-coffee-314611.html>
 
 ---
 
@@ -1016,30 +1028,4 @@ date: 2025-04-06, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/30-minute-meals/>
-
----
-
-## 19 Green Sauces to Use Up All Your Herbs
-
-date: 2025-04-05, from: Bon Appetet
-
-Including pesto, salsa verde, chimichurri, and more, these kicky condiments zhuzh up any meal. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/types-of-green-sauces-with-recipes>
-
----
-
-## This Is What Marie Antoinette Had for Breakfast Every Day
-
-date: 2025-04-05, from: Taste of Home
-
-<p>It's not what we were expecting, but we are 100% here for her sweet choice. </p>
-<p>The post <a href="https://www.tasteofhome.com/article/marie-antoinette-breakfast/">This Is What Marie Antoinette Had for Breakfast Every Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/article/marie-antoinette-breakfast/>
 

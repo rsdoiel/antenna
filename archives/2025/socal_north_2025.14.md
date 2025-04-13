@@ -1,11 +1,202 @@
 ---
 title: socal north
-updated: 2025-04-12 14:07:52
+updated: 2025-04-13 06:08:08
 ---
 
 # socal north
 
-(date: 2025-04-12 14:07:52)
+(date: 2025-04-13 06:08:08)
+
+---
+
+## Olvera Street’s ‘La Carreta’ donkey landmark beats city’s eviction notice, will stay open for now
+
+date: 2025-04-13, updated: 2025-04-13, from: The LAist
+
+“I have to spend time defending a stuffed donkey rather than continuing to fight back the homelessness crisis,” said the lawyer for the Hernandez family. 
+
+<br> 
+
+<https://laist.com/news/olvera-streets-la-carreta-donkey-landmark-beats-citys-eviction-notice-will-stay-open-for-now>
+
+---
+
+## Free book pop up aims to help fire victims restock their shelves
+
+date: 2025-04-13, updated: 2025-04-13, from: The LAist
+
+The event will include author talks and free gift cards to local indie bookstore Octavia’s Bookshelf. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/free-book-pop-up-aims-to-help-fire-victims-restock-their-shelves>
+
+---
+
+## Can NASA help predict wildflower super blooms?
+
+date: 2025-04-13, updated: 2025-04-13, from: The LAist
+
+Scientists at NASA are mapping flower blooms to better understand our ever-changing planet. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/can-nasa-help-predict-wildflower-super-blooms>
+
+---
+
+## France’s new high-speed train design has Americans asking: Why can’t we have that?
+
+date: 2025-04-13, updated: 2025-04-13, from: The LAist
+
+Here's why the U.S. is behind on building high-speed rail — and what could create momentum to catch up. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/france-high-speed-train-design-has-americans-asking-why-cant-we-have-that-grist>
+
+---
+
+## One dead after shooting in Downtown Long Beach, police say
+
+date: 2025-04-13, from: Longbeach Post
+
+<figure><img width="1020" height="620" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7.png 1020w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-300x182.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-768x467.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-178x108.png 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/12211140/screenshot-2025-04-12-at-91029pm-005592-beak0fg2-888714-Mc7HsDh7-400x243.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The area was crowded with people attending the Long Beach Grand Prix.</p>
+<p>The post <a href="https://lbpost.com/news/crime/one-dead-after-shooting-in-downtown-long-beach-police-say">One dead after shooting in Downtown Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/one-dead-after-shooting-in-downtown-long-beach-police-say>
+
+---
+
+## Long Beach man fatally shot near Cherry Park, authorities say
+
+date: 2025-04-12, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Arriving paramedics pronounced the man dead at the scene.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-man-fatally-shot-near-cherry-park-authorities-say">Long Beach man fatally shot near Cherry Park, authorities say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-man-fatally-shot-near-cherry-park-authorities-say>
+
+---
+
+## Mosey on Over to the Santa Clarita Cowboy Festival
+
+date: 2025-04-12, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin It is Cowboy Festival weekend! Dust off your boots, put on your cowboy hat and head over to the Santa Clarita Cowboy Festival at William S. Hart Park (24151 Newhall Ave). It is going to be a weekend full of live music, Wild West activities, mouth-watering barbecue, shopping and Rotary [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/12/mosey-on-over-to-the-santa-clarita-cowboy-festival/">Mosey on Over to the Santa Clarita Cowboy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/12/mosey-on-over-to-the-santa-clarita-cowboy-festival/>
+
+---
+
+## Smartphones and computers are now spared from Trump's reciprocal tariffs
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+The exemption comes amid worries of how President Trump's steep new tariffs will affect American tech companies that rely on supply chains in China, like Apple. 
+
+<br> 
+
+<https://laist.com/news/smartphones-computers-are-spared-from-trumps-reciprocal-tariffs>
+
+---
+
+## Hikers, beware: Eaton Fire brings out whimsically named poodle-dog bush
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+The poodle-dog bush, with its lavender, bell-shaped flowers, can produce a painful rash for people who come in contact with it. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-fires-poodle-dog-bush-angeles-national-forest>
+
+---
+
+## Wildlife is returning to the Altadena foothills after the Eaton Fire. Yes, that's a mountain lion
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+Scientists plan to study the Chaney Trail Corridor to better understand how nature recovers after fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/wildlife-returning-eaton-fire-first-look-mountain-lion>
+
+---
+
+## Go Fact Yourself quiz for April 12
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+Our celebrity panelists Cirroc Lofton and Betsy Brandt go head to head this week on their knowledge of Kobe Bryant-era Lakers championships and the plays of Anton Chekhov. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-april-12>
+
+---
+
+## How to get free entry to California state parks with your library card
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+If you’re itching to explore our state, and you have a library card, you can check out a free pass to over 200 state parks around California. 
+
+<br> 
+
+<https://laist.com/news/how-to-get-free-entry-to-california-state-parks-with-your-library-card>
+
+---
+
+## Eggs too expensive? Here are some Easter alternatives
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+With prices for a dozen eggs remaining high this spring, crafting experts offer creative substitutes. Easter potato or marshmallow hunt, anyone? 
+
+<br> 
+
+<https://laist.com/news/eggs-too-expensive-here-are-some-easter-alternatives>
+
+---
+
+## Detectives find missing 17-year-old at motel, arrest man trying to meet her there, police say
+
+date: 2025-04-12, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Detectives were able to track her to a motel in the 4000 block of Long Beach Boulevard, where she was found along with a 29-year-old man, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/missing-17-year-old-motel-man-met-her">Detectives find missing 17-year-old at motel, arrest man trying to meet her there, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/missing-17-year-old-motel-man-met-her>
+
+---
+
+## Menendez brothers' resentencing case can move forward, judge rules
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+A judge denied a request from District Attorney Nathan Hochman to withdraw a motion by his predecessor, who supported the idea of resentencing the brothers to a term that made them eligible for parole. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/judges-ruling-clears-way-for-resentencing-hearing-in-menendez-case>
 
 ---
 
@@ -1370,120 +1561,4 @@ The vote brings Republicans a step closer to finalizing a sweeping plan to addre
 <br> 
 
 <https://laist.com/news/senate-gop-passes-budget-plan-setting-up-a-critical-next-phase-for-trump-agenda>
-
----
-
-## At park burned by Eaton Fire, volunteers kick off restoration while others question safety and priorities
-
-date: 2025-04-05, updated: 2025-04-07, from: The LAist
-
-L.A. County parks officials asked Angelenos from near and far for help to get Loma Alta Park in Altadena reopened by May. Hundreds answered the call. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/burned-by-the-eaton-fire-loma-alta-park-in-altadena-gets-restoration-underway>
-
----
-
-## Second suspect arrested in killing at Long Beach homeless encampment, police say
-
-date: 2025-04-05, from: Longbeach Post
-
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Police said the deadly shooting occurred in an encampment next to the 91 Freeway on Jan. 10, 2021.</p>
-<p>The post <a href="https://lbpost.com/news/crime/second-suspect-arrested-in-killing-at-long-beach-homeless-encampment-police-say">Second suspect arrested in killing at Long Beach homeless encampment, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/second-suspect-arrested-in-killing-at-long-beach-homeless-encampment-police-say>
-
----
-
-## Dodgers head to White House Monday to celebrate World Series win
-
-date: 2025-04-05, updated: 2025-04-05, from: The LAist
-
-The team is making the traditional celebratory trip but not everyone is happy about the Dodgers meeting up with President Trump. 
-
-<br> 
-
-<https://laist.com/news/dodgers-heading-to-the-white-house-monday-to-celebrate-world-series-championship>
-
----
-
-## Holding the Line in Uncertain Times
-
-date: 2025-04-05, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin As we move through the budget process for Fiscal Year 2025/26, our focus remains clear—fiscal responsibility, long-term stability and protecting the quality of life our residents have come to expect. While we remain committed to excellence in service delivery and forward-looking planning, the economic landscape we face is increasingly unpredictable. [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/04/05/holding-the-line-in-uncertain-times/">Holding the Line in Uncertain Times</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/04/05/holding-the-line-in-uncertain-times/>
-
----
-
-## TikTok creators go from sadness and fear to...'whatever!' over app's future
-
-date: 2025-04-05, updated: 2025-04-05, from: The LAist
-
-It's been an emotional rollercoaster for TikTok creators over the past few months, with the app's future uncertain. But there are ways to decompress. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/tiktok-creators-go-from-sadness-and-fear-to-whatever-over-apps-future>
-
----
-
-## LA County set to pay $4 billion settlement to resolve thousands of sex abuse cases
-
-date: 2025-04-05, from: Longbeach Post
-
-<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>County officials called it “the costliest financial settlement in the history of LA County." It settles thousands of claims dating back as far as the 1960s.</p>
-<p>The post <a href="https://lbpost.com/news/la-county-settlement-abuse-cases-billion">LA County set to pay $4 billion settlement to resolve thousands of sex abuse cases</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/la-county-settlement-abuse-cases-billion>
-
----
-
-## Higher prices are likely for these 10 grocery items when tariffs hit
-
-date: 2025-04-05, updated: 2025-04-05, from: The LAist
-
-A trip to the grocery or liquor store is about to become even more expensive, economists say. From seafood to olive oil, these items will likely cost more under President Trump's tariffs. 
-
-<br> 
-
-<https://laist.com/news/food/tariffs-higher-prices-seafood-coffee-fruit-alcohol-beef-rice-cheese-nuts-chocolate-olive-oil>
-
----
-
-## After losing his home in the Eaton Fire, the work of a volunteer trail rebuilder takes on new meaning
-
-date: 2025-04-05, updated: 2025-04-05, from: The LAist
-
-An Altadena resident and dedicated trail steward now has a two-fold mission — to rebuild his house, and the nearby trails that made it home. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/eaton-fire-lowelifes-altadena-wildfires-trail-rebuilding>
-
----
-
-## A stuck and ‘skittish’ minke whale is still swimming in Long Beach Harbor
-
-date: 2025-04-05, updated: 2025-04-05, from: The LAist
-
-Officials have attempted to shepherd the whale back out to sea for days. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/a-stuck-and-skittish-minke-whale-is-still-swimming-in-long-beach-harbor>
 

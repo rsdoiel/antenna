@@ -1,11 +1,37 @@
 ---
 title: writing
-updated: 2025-04-12 14:07:55
+updated: 2025-04-13 06:08:12
 ---
 
 # writing
 
-(date: 2025-04-12 14:07:55)
+(date: 2025-04-13 06:08:12)
+
+---
+
+## Murder by Memory by Olivia Waite: Review by Paul Di Filippo
+
+date: 2025-04-12, from: Locus Magazine
+
+<p><strong>Murder by Memory</strong>, Olivia Waite (Tordotcom 978-1250342249, hardcover, 112pp, $21.99) March 2025</p>
+<p>Should a mystery be deemed “cozy,” almost by definition, if it contains a yarn shop and some interesting talk about knitting that actually proves to be a central clue? What if that yarn shop is located on a gigantic interstellar generation ship named Fairweather—helmed naturally by an AI dubbed “Ferry?” And what if one of the interlocutors  <a href="https://locusmag.com/2025/04/murder-by-memory-by-olivia-waite-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/murder-by-memory-by-olivia-waite-review-by-paul-di-filippo/>
+
+---
+
+## Shroud by Adrian Tchaikovsky: Review by Russell Letson
+
+date: 2025-04-12, from: Locus Magazine
+
+<p><strong>Shroud</strong>, Adrian Tchaikovsky (Tor UK 978-1-0350-1379-1, £22.00, 448pp, hc) February 2025. (Orbit US 978-0316579025, $19.99, 416pp, tp) June 2025.</p>
+<p>I find it impossible not to think of Adrian Tchaikovsky’s <strong>Shroud </strong>as a companion piece to its 2024 predecessor, <strong>Alien Clay</strong>. The novels are unconnected and freestanding, but in both, humans encounter alien life so different in its basic makeup that it is nearly unrecognizable as highly organized and  <a href="https://locusmag.com/2025/04/shroud-by-adrian-tchaikovsky-review-by-russell-letson/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/shroud-by-adrian-tchaikovsky-review-by-russell-letson/>
 
 ---
 
@@ -589,42 +615,4 @@ date: 2025-04-06, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/04/the-mune-by-sue-dawes-review-by-niall-harrison/>
-
----
-
-## The Third Rule of Time Travel by Philip Fracassi: Review by Paul Di Filippo
-
-date: 2025-04-05, from: Locus Magazine
-
-<p><strong>The Third Rule of Time Travel</strong>, Philip Fracassi (Orbit 978-0316572514, trade paperback, 336pp, $18.99) March 2025</p>
-<p>I will never forget the thrill of encountering Jack London’s novel <b>The Star Rover</b> when I was a teen. This incredibly powerful and vivid tale of a man who can send his consciousness roaming across time and space to live again through distant events was truly thought-expanding. It was mind-opening in its large  <a href="https://locusmag.com/2025/04/the-third-rule-of-time-travel-by-philip-fracassi-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/04/the-third-rule-of-time-travel-by-philip-fracassi-review-by-paul-di-filippo/>
-
----
-
-## Water Moon by Samantha Sotto Yambao: Review by Alexandra Pierce
-
-date: 2025-04-05, from: Locus Magazine
-
-<p><strong>Water Moon</strong>, Samantha Sotto Yambao (Del Rey 978-0-59372-499-6, $28.99, 384pp, hc) January 2025. Cover by Fritz Metsch.</p>
-<p>Samantha Sotto Yambao brings whimsy with an unexpectedly sharp edge in <strong>Water Moon</strong>, her first novel since 2020’s <strong>The Beginning of Always</strong>. Ishikawa Hana is about to take over the nameless family pawn shop, as her father finally retires after many years. This is no normal shop; for one thing,  <a href="https://locusmag.com/2025/04/water-moon-by-samantha-sotto-yambao-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/04/water-moon-by-samantha-sotto-yambao-review-by-alexandra-pierce/>
-
----
-
-## 😫 #243 - Stop Pressing the Bruise
-
-date: 2025-04-05, from: Interesting, a blog on writing
-
-Everybody hurts, you don't have to force it. 
-
-<br> 
-
-<https://inneresting.substack.com/p/243-stop-pressing-the-bruise>
 

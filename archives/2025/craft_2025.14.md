@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-04-12 14:07:59
+updated: 2025-04-13 06:08:16
 ---
 
 # craft
 
-(date: 2025-04-12 14:07:59)
+(date: 2025-04-13 06:08:16)
+
+---
+
+## Standard XX
+
+date: 2025-04-12, from: A Luthier's blog
+
+<p><br /></p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/PIyu3f_YNGk" width="320" youtube-src-id="PIyu3f_YNGk"></iframe></div><br /><p></p> 
+
+<br> 
+
+<https://guitar-maker.blogspot.com/2025/04/standard-xx.html>
 
 ---
 

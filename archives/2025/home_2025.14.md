@@ -1,11 +1,129 @@
 ---
 title: home
-updated: 2025-04-12 14:07:57
+updated: 2025-04-13 06:08:14
 ---
 
 # home
 
-(date: 2025-04-12 14:07:57)
+(date: 2025-04-13 06:08:14)
+
+---
+
+## The New Garden Lighting Trend You’re Going to See Everywhere This Summer (Bonus: It’s Budget-Friendly, Too)
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+We still love string lights, but outdoor rattan pendant lights are the next big thing. Here's how to incorporate them into your space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living/outdoor-lighting-rattan-pendants>
+
+---
+
+## 6 Things You Need to Know About Outdoor Lighting, According to a Garden Designer
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+As you’re thinking about your landscape design, don’t ignore one major element: lighting. A landscape designer shares the best outdoor lighting tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/outdoor-lighting-tips>
+
+---
+
+## This New Lighting Trend Is a Genius Solution to Ugly Overhead Lighting
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+Gallery lighting isn't just for art. Use it to light up other parts of your home to make design details pop. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/gallery-lights-home-design-trend>
+
+---
+
+## The Best Bedroom Lighting Inspiration Can Be Found in Hotel Rooms
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+The best place to find bedroom lighting inspiration is a hotel room. Take a look at these chic rooms in hotels across the West. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/hotel-room-lighting-inspiration-ideas>
+
+---
+
+## A ‘Rest Corner’ Is the Trendiest Thing You Can Have in Your Home Right Now
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+Quiet luxury has extended into cozy nooks in your home, also known as rest corners. Here's how to get the look at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/rest-corner-home-design-trend>
+
+---
+
+## How to Grow Jalapeno Peppers
+
+date: 2025-04-12, from: The Gardener's Path
+
+<p>Jalapenos are compact, productive chili pepper plants that produce medium-sized fruits with moderate heat. The glossy green pods ripen to red or purple and can be eaten fresh, pickled, or dried. The plants thrive in warm temperatures with plenty of sun. Learn how to grow jalapeno peppers in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-jalapenos/">How to Grow Jalapeno Peppers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-jalapenos/>
+
+---
+
+## Learn How to Use Coconut Coir Products in the Garden
+
+date: 2025-04-12, from: The Gardener's Path
+
+<p>Coconut coir is a fibrous material used to manufacture products like brooms and mats, as well as a host of soilless growing products. In its various forms you can use it to line planters, improve soil water retention and aeration, and support tropical plants like orchids. Learn its pros and cons now on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/composting/coconut-coir/">Learn How to Use Coconut Coir Products in the Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/composting/coconut-coir/>
+
+---
+
+## 99 Types of Palm Trees (With Pictures and Identification)
+
+date: 2025-04-12, from: Yard Life blog
+
+<p>Palm trees are some of the most iconic and versatile plants in the world, instantly evoking images of tropical beaches, ... </p>
+<p class="read-more-container"><a title="99 Types of Palm Trees (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/#more-26885" aria-label="Read more about 99 Types of Palm Trees (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/">99 Types of Palm Trees (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/>
+
+---
+
+## 14 Black Birds with Brown Heads (Pictures and Identification)
+
+date: 2025-04-12, from: Yard Life blog
+
+<p>When you spot a bird with dark plumage and a distinctly brown head, it might leave you wondering what species ... </p>
+<p class="read-more-container"><a title="14 Black Birds with Brown Heads (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/#more-26868" aria-label="Read more about 14 Black Birds with Brown Heads (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/">14 Black Birds with Brown Heads (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/>
 
 ---
 
@@ -912,18 +1030,6 @@ date: 2025-04-07, from: Family Handyman Blog
 
 ---
 
-## The Best Bedroom Lighting Inspiration Can Be Found in Hotel Rooms
-
-date: 2025-04-07, from: Sunset Magazine - Living in the West
-
-The best place to find bedroom lighting inspiration is a hotel room. Take a look at these chic rooms in hotels across the West. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/hotel-room-lighting-inspiration-ideas>
-
----
-
 ## If you are a Californian, this is for you: Unveiling CDFA’s Strategic Plan Update for 2025-2030
 
 date: 2025-04-07, from: Calfifornia Dept. Aggriculture blog
@@ -1238,106 +1344,4 @@ date: 2025-04-06, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-ranunculus/>
-
----
-
-## 9 Tips for Better Farmers’ Market Manners
-
-date: 2025-04-05, from: Sunset Magazine - Living in the West
-
-Some folks brave the farmers’ market all year-round, which is wonderful, but for others, the warm months are the ideal time for leisurely laps of local produce vendors. But how’s your etiquette? Read on. 
-
-<br> 
-
-<https://www.sunset.com/syndication/farmers-market-manners>
-
----
-
-## These Least Visited, Under-the-Radar National Parks Deserve a Spot on Your Bucket List
-
-date: 2025-04-05, from: Sunset Magazine - Living in the West
-
-If you want a non-touristy experience, these are the least crowded and under-visted National Parks according to Google Maps. 
-
-<br> 
-
-<https://www.sunset.com/travel/national-parks/least-crowded-national-parks-in-the-us>
-
----
-
-## National Parks Are in Crisis. Here’s What You Need to Know About the Layoffs.
-
-date: 2025-04-05, from: Sunset Magazine - Living in the West
-
-Thousands of National Parks Service workers have been laid off due to executive orders, and the impact could be devastating. 
-
-<br> 
-
-<https://www.sunset.com/travel/national-parks/national-parks-service-layoffs>
-
----
-
-## This Secret Cave Hike in the Sequoias Will Open for the First Time in Many Years
-
-date: 2025-04-05, from: Sunset Magazine - Living in the West
-
-Crystal Cave in the Sequoia National Park was closed to visitors for four years. It will open via reservation starting this summer. 
-
-<br> 
-
-<https://www.sunset.com/travel/crystal-cave-sequoia-national-park-reopens>
-
----
-
-## This Popular National Park Attraction Will Close Indefinitely This Summer
-
-date: 2025-04-05, from: Sunset Magazine - Living in the West
-
-Fiery Furnace in Utah's Arches National Park, which is popular with hikers and climbers, will shutter this summer. 
-
-<br> 
-
-<https://www.sunset.com/travel/fiery-furnace-arches-national-park-utah-closure>
-
----
-
-## How to Plant and Grow Potatoes in Containers, Pots, or Grow Bags
-
-date: 2025-04-05, from: Homestead and Chil
-
-<p>Potatoes are easy to grow, fun to harvest, and the flavorful is unbeatable! Come learn how to grow potatoes in containers, pots or grow bags - with tips on sprouting seed potatoes, planting, hilling, harvest and more.</p>
-<p>The post <a href="https://homesteadandchill.com/how-to-grow-potatoes-containers/">How to Plant and Grow Potatoes in Containers, Pots, or Grow Bags</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/how-to-grow-potatoes-containers/>
-
----
-
-## How to Plant and Grow Indian Paintbrush Flowers (Castilleja)
-
-date: 2025-04-05, from: The Gardener's Path
-
-<p>Indian paintbrush is a hemiparasitic plant native to North America, generally sporting bright crimson blooms. These wildflowers can be challenging to cultivate, but in the right conditions, they will bring an abundance of pollinators to meadows, rock gardens, or xeriscapes. Learn how to grow Castilleja in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-indian-paintbrush/">How to Plant and Grow Indian Paintbrush Flowers (Castilleja)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/grow-indian-paintbrush/>
-
----
-
-## Stewarding trees: The avocado in the bananas
-
-date: 2025-04-05, from: Greg Alder's blog, Yard Post
-
-<p>Stefan was driving, taking me on a tour of avocados in South Africa, but he took a turn on a dirt road into a banana plantation. We got out of the truck and I followed him into the dark and humid canopy of green acres and acres of Dwarf Cavendish plants. We walked through the [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/stewarding-trees-the-avocado-in-the-bananas/">Stewarding trees: The avocado in the bananas</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/stewarding-trees-the-avocado-in-the-bananas/>
 

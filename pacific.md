@@ -1,11 +1,410 @@
 ---
 title: pacific
-updated: 2025-04-12 14:07:53
+updated: 2025-04-13 06:08:09
 ---
 
 # pacific
 
-(date: 2025-04-12 14:07:53)
+(date: 2025-04-13 06:08:09)
+
+---
+
+## Merrie Monarch merchandise available
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>JOHN BURNETT/Tribune-Herald</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/hawaii-news/merrie-monarch-merchandise-available/>
+
+---
+
+## Newsom tries to understand ‘bro culture.’ Will it change him in the process?
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>SACRAMENTO, Calif. &#8212; It was a surprising revelation at the start of Gov. Gavin Newsom&#8217;s new podcast. His son had become a fan of Charlie Kirk, the right-wing influencer who mobilized young voters for Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/nation-world-news/newsom-tries-to-understand-bro-culture-will-it-change-him-in-the-process/>
+
+---
+
+## Waikoloa Village wildfire preparedness in the spotlight
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited until April 30 to give input to Hawaii County to help identify potential wildfire risks and opportunities for preparation and prevention in the Waikoloa Village area.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/hawaii-news/waikoloa-village-wildfire-preparedness-in-the-spotlight/>
+
+---
+
+## Opposition to fence grows: Some neighbors of muni golf course cite safety concerns
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County is following through on its plans to fence off the Hilo Municipal Golf Course from nearby residents, to the displeasure of at least some of the neighbors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/hawaii-news/opposition-to-fence-grows-some-neighbors-of-muni-golf-course-cite-safety-concerns/>
+
+---
+
+## Appeals court scales back freeze on firing consumer bureau employees
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>A federal appeals panel on Friday halted parts of a district court judge&#8217;s injunction blocking the Trump administration&#8217;s effort to dismantle the Consumer Financial Protection Bureau, allowing officials to move ahead with firing some agency employees.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/nation-world-news/appeals-court-scales-back-freeze-on-firing-consumer-bureau-employees/>
+
+---
+
+## Smartphones and computers get reprieve from new US tariffs on China
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>After more than a week of ratcheting up tariffs on products imported from China, the Trump administration issued a rule late Friday that spared smartphones, computers, semiconductors and other electronics from some of the fees, in a significant break for tech companies like Apple and Dell as well as for the prices of iPhones and other consumer electronics.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/nation-world-news/smartphones-and-computers-get-reprieve-from-new-us-tariffs-on-china/>
+
+---
+
+## After LA fires, Edison wants to bury power lines in Altadena and Malibu
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Southern California Edison, the electric utility whose equipment has been the focus of investigations into the deadly Eaton fire in Los Angeles County in January, said Friday that it planned to bury more than 150 miles of power lines in fire-prone areas near Altadena and Malibu, California.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/nation-world-news/after-la-fires-edison-wants-to-bury-power-lines-in-altadena-and-malibu/>
+
+---
+
+## State Dept. ignores order to detail return of wrongly deported migrant
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration appeared to deepen its standoff with a federal judge Saturday over the status of a man it wrongly deported to a Salvadoran prison, ignoring orders to provide a plan to return him to the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/nation-world-news/state-dept-ignores-order-to-detail-return-of-wrongly-deported-migrant/>
+
+---
+
+## US holds talks with Iran over its nuclear program
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>Preliminary diplomatic talks between U.S. and Iranian officials in Oman over Iran&#8217;s nuclear program ended Saturday with a handshake and with both sides describing them as constructive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/nation-world-news/us-holds-talks-with-iran-over-its-nuclear-program/>
+
+---
+
+## Harvard professors sue Trump administration over threat to cut funding
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>Two groups representing Harvard University professors sued the Trump administration Friday, saying that its threat to cut billions in federal funding for the university violates free speech and other First Amendment rights.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/nation-world-news/harvard-professors-sue-trump-administration-over-threat-to-cut-funding/>
+
+---
+
+## Volcano Watch: A focus on the National Volcano Information Service
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>The National Volcano Early Warning and Monitoring System, or NVEWS, was first authorized by congress in 2019 to be established within the United States Geological Survey. NVEWS serves as a critical framework for how the USGS monitors volcanic activities across the nation so as to provide timely warnings and protect citizens from potential hazards associated with volcanic eruptions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/features/volcano-watch-a-focus-on-the-national-volcano-information-service/>
+
+---
+
+## Steves: Scenic dining in Europe
+
+date: 2025-04-13, from: Hawaii Tribune Harold
+
+
+				<p>I&#8217;m all about traveling efficiently &#8212; and a great way to do that is by savoring local cuisine as you soak up the splendor of the place you came to see. While view restaurants often come with a steep price tag, I&#8217;ve learned to find scenic places to eat where the food is delicious, affordable, and memorable.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/13/features/steves-scenic-dining-in-europe/>
+
+---
+
+## Yap court seeks to test bar candidates' knowledge of customary  laws 
+
+date: 2025-04-13, from: Pacific Island Times
+
+Yap State Court/Photo courtesy of YapGov By Pacific Island Times News Staff   The Yap State Court has proposed requiring bar candidates... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/yap-court-seeks-to-test-bar-candidates-knowledge-of-customary-laws>
+
+---
+
+## CNMI delegate asks US tariff negotiator to keep the Northern Marianas in mind 
+
+date: 2025-04-13, from: Pacific Island Times
+
+By Jayvee Vallejera   As the United States negotiates the Trump administration’s tariff increases with individual countries, CNMI Del. ... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-delegate-asks-us-tariff-negotiator-to-keep-the-northern-marianas-in-mind>
+
+---
+
+## Top Democrat says new Gabbard task force on ‘witch hunt’ in spy agencies
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The top Democrat on the U.S. Senate&#8217;s intelligence committee on Thursday said he suspected a task force formed by Director of National Intelligence Tulsi Gabbard was pursuing a &#8220;witch hunt&#8221; for intelligence officers it deems disloyal to President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/top-democrat-says-new-gabbard-task-force-on-witch-hunt-in-spy-agencies/>
+
+---
+
+## Brain drain? Trump cutbacks force scientists to seek jobs in Europe
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; David Die Dejean is passionate about studying tuna. Last year, he landed a dream job at National Oceanic and Atmospheric Administration in Miami to pursue his research. By January, he was settled in, had received a good review and loved working with his colleagues, he said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/brain-drain-trump-cutbacks-force-scientists-to-seek-jobs-in-europe/>
+
+---
+
+## White House plan calls for NOAA research programs to be dismantled
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>Trump administration officials are recommending the elimination of the scientific research division at the National Oceanic and Atmospheric Administration, according to internal documents obtained by The New York Times and several people with knowledge of the situation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/white-house-plan-calls-for-noaa-research-programs-to-be-dismantled/>
+
+---
+
+## China raises tariffs on US imports to 125%, calling Trump’s policies a ‘joke’
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>HONG KONG &#8212; China on Friday said it was raising its tariffs on American goods to 125%, retaliating for the third time in the escalating trade war between the two superpowers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/china-raises-tariffs-on-us-imports-to-125-calling-trumps-policies-a-joke/>
+
+---
+
+## Thousands of Hawaii students not immunized against measles
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>After Hawaii confirmed its first measles case in years, the state Education and Health departments are ramping up vaccination efforts, focusing on thousands of students who remain noncompliant with school immunization requirements.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/hawaii-news/thousands-of-hawaii-students-not-immunized-against-measles/>
+
+---
+
+## News in brief for April 12
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>US military removes commander of Greenland base</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/news-in-brief-for-april-12/>
+
+---
+
+## US judge will not curb immigration enforcement in places of worship
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Friday refused to limit the Trump administration&#8217;s immigration enforcement activities in places of worship, ruling against a group of 27 religious organizations that had sued the administration for dropping a longstanding policy against enforcement in sensitive locations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/us-judge-will-not-curb-immigration-enforcement-in-places-of-worship/>
+
+---
+
+## Tariffs angst sinks US consumer sentiment, boosts inflation expectations
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. consumer sentiment deteriorated sharply in April and 12-month inflation expectations surged to the highest level since 1981 amid unease over escalating trade tensions that have roiled financial markets and raised the risk of a recession.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/tariffs-angst-sinks-us-consumer-sentiment-boosts-inflation-expectations/>
+
+---
+
+## New pact would require ships to cut emissions or pay a fee
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>Amid the turmoil over global trade, countries around the world reached a remarkable, though modest, agreement Friday to reduce the climate pollution that comes from shipping those goods worldwide &#8212; with what is essentially a tax, no less.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/new-pact-would-require-ships-to-cut-emissions-or-pay-a-fee/>
+
+---
+
+## FAA to conduct drone-detection testing in New Jersey
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Aviation Administration will conduct drone-detection testing in New Jersey starting on Monday after a spike in reports last year and continuing sightings near airports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/faa-to-conduct-drone-detection-testing-in-new-jersey/>
+
+---
+
+## Five more big law firms reach deals with Trump
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>Five more prominent law firms facing potential punitive action by President Donald Trump reached deals Friday with the White House to provide a total of $600 million in free legal services to causes supported by the president.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/five-more-big-law-firms-reach-deals-with-trump/>
+
+---
+
+## Stay or go? Israeli evacuation orders force an agonizing choice in Gaza
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli military issued new evacuation orders for neighborhoods in Gaza City on Friday as it pressed forward with its offensive in the war-ravaged Gaza Strip, delivering a painful choice to Palestinians about whether to stay or go.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/stay-or-go-israeli-evacuation-orders-force-an-agonizing-choice-in-gaza/>
+
+---
+
+## Poetry, Jewelry and Lei HIKI NŌ on PBS Hawai‘i
+
+date: 2025-04-12, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>&#8220;Poetry, Jewelry and Lei&#8221; On this episode of HIKI NŌ on PBS Hawaiʻi, watch stories about a jewelry market, students with passion for poetry and lei making, and student thoughts on gratitude. Students at H.P. Baldwin High School on Maui share a story about a a local jewelry shop that aims to empower and employ [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/poetry-jewelry-and-lei-hiki-no-on-pbs-hawaii/">Poetry, Jewelry and Lei &lt;br/&gt;HIKI NŌ on PBS Hawai‘i</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/poetry-jewelry-and-lei-hiki-no-on-pbs-hawaii/>
+
+---
+
+## US immigration judge rules Palestinian Columbia student Khalil can be deported
+
+date: 2025-04-12, updated: 2025-04-13, from: Marianas Variety
+
+JENA, Louisiana (Reuters) — A U.S. immigration judge ruled on Friday that Palestinian activist Mahmoud Khalil can be deported, allowing President Donald Trump's administration to proceed with its effort to remove the Columbia University student from the United States a month after his arrest in New York City. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-immigration-judge-rules-palestinian-columbia-student-khalil-can-be-deported/article_0c59bcf4-0d7f-409f-b0b8-ff006c06dc95.html>
+
+---
+
+## UH students tackle real-world issues at AI hackathon
+
+date: 2025-04-12, from: University of Hawaiʻi News
+
+<p>Five challenge topics pushed students to apply diverse skills toward local and statewide resilience efforts.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/11/aloha-data-ai-hackathon/"><abbr>UH</abbr> students tackle real-world issues at <abbr>AI</abbr> hackathon</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/11/aloha-data-ai-hackathon/>
 
 ---
 
@@ -661,7 +1060,7 @@ date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
 
 ## Tourist helicopter crashes into New York’s Hudson River, killing all six aboard
 
-date: 2025-04-11, updated: 2025-04-11, from: Marianas Variety
+date: 2025-04-11, updated: 2025-04-13, from: Marianas Variety
 
 (Reuters) — A tourist helicopter plummeted upside down into New York City's Hudson River on Thursday killing all six people on board, including a Spanish family with three children and the pilot, Mayor Eric Adams said. 
 
@@ -3028,270 +3427,4 @@ Alisha crafts fresh leis and baskets, using materials from her home islands
 <br> 
 
 <https://thehusk.substack.com/p/21-year-old-remathau-entrepreneur>
-
----
-
-## 'Paying federal tax is a small price to pay for security,' Guam senator says 
-
-date: 2025-04-05, from: Pacific Island Times
-
- While the U.S. military maintains that beefing up existing defense resources and building a missile defense system would secure the island, 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/paying-federal-tax-is-a-small-price-to-pay-for-security-guam-senator-says>
-
----
-
-##  When super is not so super
-
-date: 2025-04-05, from: Pacific Island Times
-
-The word “supercalifragilisticexpialidocious” was coined in the 1930s and popularized by the 1964 film “Mary Poppins,” which my wife Sharon  
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/when-super-is-not-so-super>
-
----
-
-## Obsidian in ancient Vanuatu
-
-date: 2025-04-05, from: Pacific Island Times
-
-In ancient times, obsidian was highly valued in Vanuatu for its sharpness and ease of shaping.  
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/obsidian-in-ancient-vanuatu>
-
----
-
-## Trump’s trade war escalates as China retaliates with 34% tariffs
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>BEIJING &#8212; China has struck back at President Donald Trump.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trumps-trade-war-escalates-as-china-retaliates-with-34-tariffs/>
-
----
-
-## Trump sounds defiant note as tariffs roil markets again
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>Two days after President Donald Trump announced his expansive global tariffs, the United States confronted wide-ranging and painful blowback, as China retaliated against U.S. goods and markets plummeted again on worries of a persistent, damaging trade war.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-sounds-defiant-note-as-tariffs-roil-markets-again/>
-
----
-
-## Loomer’s role in firings shows rising sway of fringe figures on Trump
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Laura Loomer had President Donald Trump&#8217;s full attention.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/loomers-role-in-firings-shows-rising-sway-of-fringe-figures-on-trump/>
-
----
-
-## Hawaii condo insurance relief on horizon
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>Relief for many Hawaii condominium owners paying sky-high insurance premiums may be available soon under a state program.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/hawaii-news/hawaii-condo-insurance-relief-on-horizon/>
-
----
-
-## SpaceX, ULA, Blue Origin clinch $13.5 billion-dollar Pentagon launch contracts
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Elon Musk&#8217;s SpaceX, United Launch Alliance and Jeff Bezos&#8217; Blue Origin on Friday won U.S. Space Force rocket launch contracts worth a combined $13.5 billion through 2029 to send some of the Pentagon&#8217;s most sensitive and complex satellites into space.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/spacex-ula-blue-origin-clinch-13-5-billion-dollar-pentagon-launch-contracts/>
-
----
-
-## Israeli military expands ground operations in Gaza City
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>JERUSALEM &#8212; The Israeli military pressed deeper into northern Gaza by ground on Friday after issuing a series of evacuation orders calling on Palestinians to flee, part of its escalating offensive against Hamas in the war-battered Gaza Strip.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/israeli-military-expands-ground-operations-in-gaza-city/>
-
----
-
-## YouTuber is arrested after leaving Diet Coke on isolated tribe’s island
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>An American tourist set off alone last week on an inflatable boat for the remote island of North Sentinel in the Indian Ocean. He had packed a Diet Coke and a coconut as an offering for the highly isolated tribe that lives there, and he had brought along a GoPro camera in hopes of filming the encounter, the Indian police said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/youtuber-is-arrested-after-leaving-diet-coke-on-isolated-tribes-island/>
-
----
-
-## Trump administration is ordered to return migrant deported to El Salvador
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>GREENBELT, Md. &#8212; A federal judge gave the Trump administration until the end of Monday to return to the United States a Maryland man who was inadvertently deported to El Salvador last month despite a court order allowing him to stay in the country.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-administration-is-ordered-to-return-migrant-deported-to-el-salvador/>
-
----
-
-## Boy swept away by raging waters in Kentucky as rain soaks central US
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>Over the past few days, more than 30 tornadoes have shredded a vast stretch of the central United States, and relentless rain has pushed creeks and streams beyond their banks. In Kentucky, floodwaters swept away a 9-year-old boy, making him at least the eighth person killed by the violent series of storms.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/boy-swept-away-by-raging-waters-in-kentucky-as-rain-soaks-central-us/>
-
----
-
-## Russian strike kills 16, including six children, Ukraine says
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>KYIV, Ukraine &#8212; A Russian missile strike Friday on Kryvyi Rih, a city in central Ukraine, killed at least 16 people, including six children, and wounded more than 50, local officials said. It was the latest in a series of Russian attacks on urban centers in recent days, despite ongoing ceasefire talks, that have caused significant civilian casualties.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/russian-strike-kills-16-including-six-children-ukraine-says/>
-
----
-
-## Trump rejects Biden plan to expand Medicare coverage for obesity drugs
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>The Trump administration on Friday rejected a Biden administration plan that would have required Medicare and Medicaid to cover obesity drugs and expanded access for millions of people.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-rejects-biden-plan-to-expand-medicare-coverage-for-obesity-drugs/>
-
----
-
-## Tropical Gardening: Legal mood-enhancers like chocolate are nothing new in Hawaii
-
-date: 2025-04-05, from: Hawaii Tribune Harold
-
-
-				<p>Mark your calendar for the Big Island Chocolate Festival, April 10 to April 12, and learn everything from growing to eating cacao or chocolate.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/05/features/tropical-gardening-legal-mood-enhancers-like-chocolate-are-nothing-new-in-hawaii/>
-
----
-
-## Trump tariffs wipe $5 trillion off Wall Street
-
-date: 2025-04-05, updated: 2025-04-06, from: Marianas Variety
-
-ORLANDO, Florida (Reuters) — One of the most pivotal weeks in years — even decades — for the global economy closed on Friday to the sound of the Nasdaq crashing into a bear market as investors fear President Donald Trump's trade war will tip the world into recession. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/trump-tariffs-wipe-5-trillion-off-wall-street/article_8a459cf7-cc31-423c-820d-64db1d156e84.html>
-
----
-
-## 'No more excuses: real climate action now'
-
-date: 2025-04-05, from: Pacific Island Times
-
-Vanuatu stands with the 6PAC+ alliance at the IMO that includes the Pacific, the Caribbean, Africa, and many SIDS and LDCs. We stand with th 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/no-more-excuses-real-climate-action-now>
-
----
-
-## Hands-on STEAM program for Maui keiki expands with new funding
-
-date: 2025-04-05, from: University of Hawaiʻi News
-
-<p>The S.T.E.A.M. on the Bookshelf program has already engaged over 200 <span aria-label="ohana">&#699;ohana</span> on Maui.</p>
-The post <a href="https://www.hawaii.edu/news/2025/04/04/steam-on-the-bookshelf-program/">Hands-on <abbr>STEAM</abbr> program for Maui keiki expands with new funding</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/04/04/steam-on-the-bookshelf-program/>
-
----
-
-## Peddling influence in the New Cold War
-
-date: 2025-04-05, from: Pacific Island Times
-
- Every institution deserves to have its roots shaken from time to time. Most NGOs fall victim to their own foregone conclusions, a de facto  
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/peddling-influence-in-the-new-cold-war>
-
----
-
-## UH Mānoa dance majors to perform on European stages
-
-date: 2025-04-05, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> Mānoa Faculty, lecturers and graduate students will tour with their original world premiere dance production, <em>EchoEight</em>.</p>
-The post <a href="https://www.hawaii.edu/news/2025/04/04/uh-manoa-dance-echoeight-european-stages/"><abbr>UH</abbr> Mānoa dance majors to perform on European stages</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/04/04/uh-manoa-dance-echoeight-european-stages/>
 

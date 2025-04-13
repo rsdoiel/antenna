@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-12 14:07:58
+updated: 2025-04-13 06:08:15
 ---
 
 # retro computing
 
-(date: 2025-04-12 14:07:58)
+(date: 2025-04-13 06:08:15)
+
+---
+
+## b.log 2025/04/12 - Sakura, Mowing..., Butterfly flowers?, Big Town, Stuff I bought, A new security camera, Duh!, AI art, Doctor Who?
+
+date: 2025-04-12, from: Richard Murray's blog
+
+Sakura, Mowing..., Butterfly flowers?, Big Town, Stuff I bought, A new security camera, Duh!, AI art, Doctor Who? 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250412>
+
+---
+
+## Australian Air Force
+
+date: 2025-04-12, from: Computer ads from the Past
+
+If You're Switched On, This is Paradise. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/australian-air-force>
 
 ---
 

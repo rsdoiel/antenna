@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-12 14:07:57
+updated: 2025-04-13 06:08:14
 ---
 
 # libraries
 
-(date: 2025-04-12 14:07:57)
+(date: 2025-04-13 06:08:14)
 
 ---
 
@@ -308,4 +308,16 @@ date: 2025-04-07, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/04/07/misinformation-disinformation-and-scholarly-communication-part-1/>
+
+---
+
+## Observation of a non-Hermitian supersonic mode on a trapped-ion quantum computer
+
+date: 2025-04-06, from: ETH Zurich, recently added
+
+Zhang, Yuxuan; Carrasquilla, Juan; Kim, Yong Baek 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/731142>
 
