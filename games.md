@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-14 06:08:19
+updated: 2025-04-14 14:07:44
 ---
 
 # games
 
-(date: 2025-04-14 06:08:19)
+(date: 2025-04-14 14:07:44)
+
+---
+
+## All the fart jokes in The Lion King are Ernie Sabella’s fault
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+Disney’s 1994 animated classic, The Lion King, is a gorgeous, heartrending movie with a soaring soundtrack. It has one of the most devastating deaths in kids’ movie history, a compelling story about rising up to take responsibility, and a heartfelt love story. And it also has fart jokes. Those fart jokes are mostly centered around [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/558683/the-lion-king-pumbaa-fart-jokes-nathan-lane>
+
+---
+
+## How to solve all Gallery puzzles in Blue Prince
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+The Gallery is a room in Blue Prince with four paintings without titles. It’s a pretty rare draft — I didn’t even get it until after reaching both the Antechamber and Room 46. Inside, you’ll have to name the four paintings to unlock the two chests. And it will get you access to the elusive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/558372/gallery-paintings-puzzle-solution-how-to-solve-all>
+
+---
+
+## How to solve the Room 8 puzzle in Blue Prince
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+Room 8 is a room in Blue Prince that you can only unlock with Key 8 on rank 8. You’ll find that key by solving the Gallery puzzle(s). In Room 8, you’ll have to puzzle out clues on eight animal statues and place them in eight bins labeled with sins. Our Blue Prince guide will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/558502/room-8-puzzle-solution-how-to-solve>
+
+---
+
+## Masaaki Yuasa officially comes out of retirement, announces new anime Daisy’s Life
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+Last February, Inu-Oh director Masaaki Yuasa announced the launch of ame pippin, a new Tokyo-based animation studio in collaboration with Asmik Ace, Aniplex, and CoMix Wave Films. There was no word then as to what Yuasa&#8217;s next project would be. That is, until now.  On Monday, Yuasa announced that he would direct Daisy’s Life, a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/558648/masaaki-yuasa-announces-next-anime-daisys-life>
+
+---
+
+## The best way to play Blue Prince is to cheat a little
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+This is a judgement-free zone for those of us who suck at Blue Prince, the hit puzzle game about exploring a weird mansion. Critics and puzzle fans say it might be one of the best games this year, which is surprising because it makes you do math. And it’s not even just regular math; it’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/558391/blue-prince-cheat-puzzle-solutions>
+
+---
+
+## New Ghost in the Shell adaptation gets first look, announces 2026 premiere
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+On Friday, Science Saru shared the first teaser trailer for its upcoming adaptation of Masamune Shirow&#8217;s cyberpunk manga Ghost in the Shell. In addition, the studio also announced the anime’s director and staff, shared the first promo poster featuring the series’ protagonist Major Motoko Kusanagi, and reiterated the anime will premiere in 2026. Published between 1989 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/558491/science-saru-ghost-in-the-shell-anime-announcement-2026>
+
+---
+
+## Death Stranding 2 lets players skip boss fights
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+Speaking on his weekly KOJI10 radio show, Hideo Kojima detailed a Death Stranding 2: On the Beach feature that will allow players to clear boss battles after an unidentified number of game overs rather than continue to struggle with a frustrating fight. A “continue” option on the Death Stranding 2 game over screen, according to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/558431/death-stranding-2-boss-fight-skip-easy-mode>
+
+---
+
+## Polygon readers can get an exclusive deal on Blue Prince
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+Blue Prince has generated an almost irresponsible amount of buzz in the past week thanks to its engaging gameplay loop, and it has quickly become a contender for our indie Game of the Year. If you’d like to see what all the fuss is about, you can currently pick up Blue Prince from Fanatical for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/558371/blue-prince-fanatical-polygon-sale>
+
+---
+
+## The Wheel of Time season 3 finale, The Rehearsal season 2, and more new TV this week
+
+date: 2025-04-14, updated: 2025-04-11, from: Polygon Website
+
+Spring has sprung, and the best way to celebrate the warmer weather is to watch TV. I know I say this every week, but bear with me — there’s some big ones. I, for one, welcome the day when I can curl up after a long day of galavanting outside and watch whatever fresh hell (complimentary) [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/550956/new-tv-netflix-rehearsal-wheel-time-finale-premiere>
+
+---
+
+## How to get Spring Eggs and Rainbow Eggs in Monster Hunter Now’s ‘Spring Festival’ event
+
+date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+
+Learning how to get Spring Eggs and Rainbow Eggs is something you’ll want to crack in Monster Hunter Now’s “Spring Festival 2025” event. The two materials are how you’ll obtain a bevy of resources from the newly stocked Exchange Hub — from Spring 2025 Weapon Tickets, to Ebody Odogaron monster parts, and the ever-useful Wyvern [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-now-guides/558156/spring-egg-rainbow-egg-giant-egg-toy>
 
 ---
 

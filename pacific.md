@@ -1,11 +1,87 @@
 ---
 title: pacific
-updated: 2025-04-14 06:08:16
+updated: 2025-04-14 14:07:42
 ---
 
 # pacific
 
-(date: 2025-04-14 06:08:16)
+(date: 2025-04-14 14:07:42)
+
+---
+
+## 115 UH Hilo student-athletes honored for academic excellence
+
+date: 2025-04-14, from: University of Hawaiʻi News
+
+<p>The student-athletes were celebrated for their dedication to both academic excellence and athletics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/115-student-athletes-academics/">115 <abbr>UH</abbr> Hilo student-athletes honored for academic excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/115-student-athletes-academics/>
+
+---
+
+## High school students groove at Windward CCʻs Senior Bash
+
+date: 2025-04-14, from: University of Hawaiʻi News
+
+<p>Windward <span aria-label="Oahu">O&#699;ahu</span> seniors explore college opportunities, connect with future classmates at Windward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/windward-cc-senior-bash-2025/">High school students groove at Windward <abbr>CC</abbr>ʻs Senior Bash</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/windward-cc-senior-bash-2025/>
+
+---
+
+## UH astronomer finds the universe could be spinning
+
+date: 2025-04-14, from: University of Hawaiʻi News
+
+<p><abbr>IfA</abbr> astronomer István Szapudi co-published a new study that suggests the universe may rotate&#8212;just extremely slowly.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/universe-could-be-spinning/"><abbr>UH</abbr> astronomer finds the universe could be spinning</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/universe-could-be-spinning/>
+
+---
+
+## More extreme erosion projected for Oʻahu’s shores
+
+date: 2025-04-14, from: University of Hawaiʻi News
+
+<p>To create erosion predictions, the team of researchers used a computer model that incorporates about 30 years of satellite imagery, as well as aerial and drone imagery.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/more-extreme-erosion-projected/">More extreme erosion projected for Oʻahu’s shores</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/more-extreme-erosion-projected/>
+
+---
+
+## Fitted sheet
+
+date: 2025-04-14, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Timothy Pilgrim We’re making the bed after the night of failure not that it’s always like that.But it does happen sometimes, given my age and I wonder if it’s even possible to fold a fitted sheet shrunken, wrinkled, sad. &#8230; <a href="https://hawaiipacificreview.org/2025/04/14/fitted-sheet/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/04/14/fitted-sheet/>
+
+---
+
+## Rezoning sought for Guam hospital project site despite pending federal case 
+
+date: 2025-04-14, from: Pacific Island Times
+
+The administration’s plan to build a new Guam hospital in Mangilao has inched forward with a petition to rezone the target project site despite a pending federal lawsuit challenging the government's land acquisitions. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/rezoning-petition-filed-for-mangilao-property>
 
 ---
 

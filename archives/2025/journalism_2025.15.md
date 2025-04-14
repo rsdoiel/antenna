@@ -1,11 +1,61 @@
 ---
 title: journalism
-updated: 2025-04-14 06:08:19
+updated: 2025-04-14 14:07:45
 ---
 
 # journalism
 
-(date: 2025-04-14 06:08:19)
+(date: 2025-04-14 14:07:45)
+
+---
+
+## Transportation for UCLA Students
+
+date: 2025-04-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/14/transportation-for-ucla-students/>
+
+---
+
+## UCLA’s neglect of elevator maintenance limits campus accessibility
+
+date: 2025-04-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Erin Su and 14 other students found themselves trapped in one of the Westwood Chateau elevators.
+They called dispatch, only to be told it would take an hour for someone to come help the students. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/14/uclas-neglect-of-elevator-maintenance-limits-campus-accessibility/>
+
+---
+
+## TV Preview: Long-anticipated new seasons, shows that are coloring screens this spring
+
+date: 2025-04-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+This season, television’s slate is budding with fresh stories ready to bloom.
+As the warm weather washes in and leaves paint with color, television offers a heated lineup sure to satisfy audiences&#8217; content cravings. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/14/tv-preview-long-anticipated-new-seasons-shows-that-are-coloring-screens-this-spring/>
+
+---
+
+## Editorial Cartoon: “Old Tech”
+
+date: 2025-04-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/04/14/editorial-cartoon-old-tech/>
 
 ---
 

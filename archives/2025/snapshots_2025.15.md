@@ -1,11 +1,339 @@
 ---
 title: snapshots
-updated: 2025-04-14 06:08:23
+updated: 2025-04-14 14:07:50
 ---
 
 # snapshots
 
-(date: 2025-04-14 06:08:23)
+(date: 2025-04-14 14:07:50)
+
+---
+
+## My video chat with the brilliant writer and zeitgeist predictor Michael Lewis 
+
+date: 2025-04-14, from: Tina Brown
+
+Our chat roamed from his new book Who is Government? 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161331615/7b2308cd8292adfbd4295bb8f9117e8c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161331615/7b2308cd8292adfbd4295bb8f9117e8c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-with-the-brilliant>
+
+---
+
+## Bigme B13 is a portable monitor with a 13.3 inch E Ink color display
+
+date: 2025-04-14, from: Liliputing
+
+<p>The Bigme B13 is a portable monitor with a 13.3 inch, 3200 x 2400 pixel display featuring a 30 Hz refresh rate. There&#8217;s nothing unusual about that, but what makes this little screen stand out is the type of display technology it uses. Rather than LCD or OLED, the Bigme B13 has an E Ink color [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/bigme-b13-is-a-portable-monitor-with-a-13-3-inch-e-ink-color-display/">Bigme B13 is a portable monitor with a 13.3 inch E Ink color display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/bigme-b13-is-a-portable-monitor-with-a-13-3-inch-e-ink-color-display/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-14, from: Robert's feed at BlueSky)
+
+This is how easy it should be. I think it is possible even in "static" websites when the tool(s) we use are thought of as read and write.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmsga72gsk2o>
+
+---
+
+## Pine64 StarPro64 single-board PC with a RISC-V processor and 20 TOPS NPU arrives this month
+
+date: 2025-04-14, from: Liliputing
+
+<p>The StarPro64 is a single-board computer with a quad-core RISC-V processor, hardware-accelerated graphics and support for 8K video playback, and an NPU that delivers nearly 20 TOPS of AI performance. First unveiled last fall, Pine64 now says StarPro64 should be available for purchase before the end of April. The board measures 133 x 80 x 19mm [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pine64-starpro64-single-board-pc-with-a-risc-v-processor-and-20-tops-npu-arrives-this-month/">Pine64 StarPro64 single-board PC with a RISC-V processor and 20 TOPS NPU arrives this month</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pine64-starpro64-single-board-pc-with-a-risc-v-processor-and-20-tops-npu-arrives-this-month/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-14, from: Dave Winer's linkblog)
+
+Harvard’s response. 
+
+<br> 
+
+<https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/>
+
+---
+
+## GitHub Actions now supports Windows on Arm runners for all public repos
+
+date: 2025-04-14, from: Windows Developer Blog
+
+<p>We are continuously investing in improving the Windows on Arm developer experience by providing and improving the tools needed by developers targeting Arm powered Copilot+ PCs.</p>
+<p>Today we are thrilled to announce Windows on Arm runner availability has</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/04/14/github-actions-now-supports-windows-on-arm-runners-for-all-public-repos/">GitHub Actions now supports Windows on Arm runners for all public repos</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/04/14/github-actions-now-supports-windows-on-arm-runners-for-all-public-repos/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-14, from: Dave Winer's linkblog)
+
+Bukele’s Offense Against the American People. 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/bukeles-offense-against-the-american-people>
+
+---
+
+## GPT-4.1: Three new million token input models from OpenAI, including their cheapest model yet
+
+date: 2025-04-14, updated: 2025-04-14, from: Simon Willison’s Weblog
+
+<p>OpenAI <a href="https://openai.com/index/gpt-4-1/">introduced</a> three new models this morning: GPT-4.1, GPT-4.1 mini and GPT-4.1 nano. These are API-only models right now, not available through the ChatGPT interface (though you can try them out in OpenAI's <a href="https://platform.openai.com/playground">API playground</a>). All three models can handle 1,047,576 tokens of input and 32,768 tokens of output, and all three have a May 31, 2024 cut-off date (their previous models were mostly September 2023).</p>
+<p>The models score higher than GPT-4o <em>and</em> GPT-4.5 on coding benchmarks, and do very well on long context benchmarks as well. They also claim improvements in instruction following - following requested formats, obeying negative instructions, sorting output and obeying instructions to say "I don't know".</p>
+<p>I released a new version of my <a href="https://github.com/simonw/llm-openai-plugin">llm-openai</a> plugin supporting the new models. This is a new thing for the <a href="https://llm.datasette.io/">LLM</a> ecosystem: previously OpenAI models were only supported in core, which meant I had to ship a full LLM release to add support for them.</p>
+<p>You can run the new models like this:</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-openai-plugin -U
+llm -m openai/gpt-4.1 <span class="pl-s"><span class="pl-pds">"</span>Generate an SVG of a pelican riding a bicycle<span class="pl-pds">"</span></span></pre></div>
+<p>The other model IDs are <code>openai/gpt-4.1-mini</code> and <code>openai/gpt-4.1-nano</code>.</p>
+<p>Here's the <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">pelican riding a bicycle</a> I got from full sized GPT-4.1:</p>
+<p><img src="https://static.simonwillison.net/static/2025/gpt-4.1-pelican.jpg" alt="Not a terrible pelican on a bicycle. The frame is blue, though misshapen. The pelican's legs are detached from its body. It has a nice but square beak." style="max-width: 100%;" /></p>
+<p>I'm particularly excited by <a href="https://platform.openai.com/docs/models/gpt-4.1-nano">GPT-4.1 nano</a>, which handles image and text input up to a million tokens and is priced lower than any other previous OpenAI model: $0.10/million for input and $0.40/million for output, less than previous cheapest OpenAI model GPT-4o-mini ($0.15/$0.60). I've updated my <a href="https://tools.simonwillison.net/llm-prices">LLM pricing table</a> to include the new models.</p>
+<p>They're not the cheapest overall though: Gemini 2.0 Flash Lite and, Gemini 1.5 Flash 8B, Amazon Nova Lite and Nova Micro and Mistral's 3B, 8B and Small 3.1 hosted models remain less expensive.</p>
+<p><img src="https://static.simonwillison.net/static/2025/model-prices-april-14.jpg" alt="Screenshot of the table from that LLM pricing table link above. Amazon Nova Micro is cheapest at $0.035/million input tokens." style="max-width: 100%;" /></p>
+
+<p>As a demonstration of just how cheap GPT-4.1 nano is, consider this photograph I took of some pelicans:</p>
+
+<p><img src="https://static.simonwillison.net/static/2025/two-pelicans.jpg" alt="Description to follow" style="max-width: 100%" /></p>
+
+<p>I ran that through GPT-4.1 nano like this:</p>
+
+<pre>llm -m openai/gpt-4.1-nano describe \
+  -a https://static.simonwillison.net/static/2025/two-pelicans.jpg</pre>
+
+<p>And got back this response:</p>
+
+<blockquote><p>The image shows two pelicans flying against a clear blue sky. They are positioned in flight, with their wings extended, showcasing their large wingspan and feather patterns. The pelican on the right appears slightly higher and facing slightly to the left, while the pelican on the left is oriented more horizontally with its beak pointing forward. Both birds display a combination of brown, tan, and white plumage, characteristic of pelicans, with their long beaks prominently visible.</p></blockquote>
+
+<p>Running <code>llm logs -c --usage</code> revealed that this used 1,933 input tokens and 96 output tokens. Passing those through <a href="https://tools.simonwillison.net/llm-prices">the pricing calculator</a> returns a total cost of $0.000232, or 0.0232 cents.</p>
+
+<p>That means I could use GPT-4.1 nano to generate descriptions of 4,310 images like this one for just shy of a dollar.</p>
+
+<p>A few closing thoughts on these new models:</p>
+<ul>
+<li>
+<p>The 1 million input token context thing is a <em>really big deal</em>. The huge token context has been a major competitive advantage for the Google Gemini models for a full year at this point - it's reassuring to see other vendors start to catch up. I'd like to see the same from Anthropic - Claude was the first model to hit 200,000 but hasn't shipped more than that yet (aside from a 500,000 token model that was restricted to their big enterprise partners).</p>
+</li>
+<li><p>When I added <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">fragments support</a> to LLM last week the feature was mainly designed to help take advantage of longer context models. It's pleasing to see another one show up so shortly after that release.</p></li>
+<li>
+<p>OpenAI really emphasized code performance for this model. They called out the <a href="https://aider.chat/docs/leaderboards/">Aider benchmark</a> in their announcement post.</p>
+</li>
+<li>
+<p><a href="https://simonwillison.net/2025/Feb/27/introducing-gpt-45/#confidence">As expected</a>, GPT-4.5 turned out to be not long for this world:</p>
+<blockquote>
+<p>We will also begin deprecating GPT‑4.5 Preview in the API, as GPT‑4.1 offers improved or similar performance on many key capabilities at much lower cost and latency. GPT‑4.5 Preview will be turned off in three months, on July 14, 2025, to allow time for developers to transition</p>
+</blockquote>
+</li>
+<li>
+<p>In <a href="https://www.youtube.com/watch?v=kA-P9ood-cE">the livestream announcement</a> Michelle Pokrass <a href="https://www.youtube.com/live/kA-P9ood-cE?t=641s">let slip</a> that the codename for the model was Quasar - that's the name of the stealth model that's <a href="https://openrouter.ai/announcements/stealth-model-quasar-alpha">been previewing on OpenRouter</a> for the past two weeks. That has <a href="https://twitter.com/openrouterai/status/1911833662464864452">now been confirmed</a> by OpenRouter.</p>
+</li>
+<li>
+<p>OpenAI shared a <a href="https://cookbook.openai.com/examples/gpt4-1_prompting_guide">GPT 4.1 Prompting Guide</a>, which includes this tip about long context prompting:</p>
+<blockquote>
+<p>Especially in long context usage, placement of instructions and context can impact performance. If you have long context in your prompt, ideally place your instructions at both the beginning and end of the provided context, as we found this to perform better than only above or below. If you’d prefer to only have your instructions once, then above the provided context works better than below.</p>
+</blockquote>
+<p>Adding instructions before the content is incompatible with <a href="https://platform.openai.com/docs/guides/prompt-caching">prompt caching</a> - I always keep user instructions at the end since doing so means multiple prompts can benefit from OpenAI's prefix cache.</p>
+<p>They also recommend XML-style delimiters over JSON for long context, suggesting this format (complete with the XML-invalid unquoted attribute) that's similar to the format <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags">recommended by Anthropic</a> for Claude:</p>
+<div class="highlight highlight-text-xml"><pre>&lt;<span class="pl-ent">doc</span> <span class="pl-e">id</span>=1 <span class="pl-e">title</span>=<span class="pl-s"><span class="pl-pds">"</span>The Fox<span class="pl-pds">"</span></span>&gt;The quick brown fox jumps over the lazy dog&lt;/<span class="pl-ent">doc</span>&gt;</pre></div>
+<p>There's an extensive section at the end <a href="https://cookbook.openai.com/examples/gpt4-1_prompting_guide#appendix-generating-and-applying-file-diffs">describing their recommended approach to applying file diffs</a>: "we open-source here one recommended diff format, on which the model has been extensively trained".</p>
+</li>
+<li><p>One thing notably absent from the GPT-4.1 announcement is any mention of audio support. The "o" in GPT-4o stood for "omni", because it was a multi-modal model with image and audio input and output. The 4.1 models appear to be text and image input and text output only.</p></li>
+</ul>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/14/gpt-4-1/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-14, from: Dave Winer's linkblog)
+
+How Donald Trump Rolled Bill Maher. 
+
+<br> 
+
+<https://www.theframelab.org/how-donald-trump-rolled-bill-maher/?ref=lakoff-and-duran-framelab-newsletter>
+
+---
+
+## World Quantum Day: Embracing Post-Quantum Encryption for a Secure Future
+
+date: 2025-04-14, from: Purism News and Events
+
+<p>Today, on World Quantum Day, we celebrate the incredible advancements in quantum computing—a technology poised to revolutionize industries from healthcare to telecommunications. But as we marvel at its potential, we must also confront the challenges it brings, particularly the existential threat it poses to current encryption systems. At Purism, we are not just preparing for this future; we are actively shaping it by integrating post-quantum cryptography (PQC) into our devices and solutions.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/world-quantum-day-embracing-post-quantum-encryption-for-a-secure-future/">World Quantum Day: Embracing Post-Quantum Encryption for a Secure Future</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/world-quantum-day-embracing-post-quantum-encryption-for-a-secure-future/>
+
+---
+
+## Lenovo ThinkPad P14s mobile workstation with AMD Strix Point coming soon
+
+date: 2025-04-14, from: Liliputing
+
+<p>The Lenovo ThinkPad P14s is a mobile workstation-class laptop that combines powerful hardware with a relatively compact design. Last year Lenovo introduced 5th-gen models with Intel and AMD processor options, and now it looks like the company is getting ready to bring a big performance boost with the new ThinkPad P14s Gen 6 series. While Lenovo hasn&#8217;t [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovo-thinkpad-p14s-mobile-workstation-with-amd-strix-point-coming-soon/">Lenovo ThinkPad P14s mobile workstation with AMD Strix Point coming soon</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovo-thinkpad-p14s-mobile-workstation-with-amd-strix-point-coming-soon/>
+
+---
+
+## Obituary for Cyc
+
+date: 2025-04-14, from: Michael Tsai
+
+Yuxi Liu (via Hacker News): The legendary Cyc project, Douglas Lenat&#8217;s 40-year quest to build artificial general intelligence by scaling symbolic logic, has failed. Based on extensive archival research, this essay brings to light its secret history so that it may be widely known. [&#8230;] In 1984, he launched Cyc to manually encode millions of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/14/obituary-for-cyc/>
+
+---
+
+## Google Is Winning on Every AI Front
+
+date: 2025-04-14, from: Michael Tsai
+
+Alberto Romero (via Hacker News): I&#8217;d been holding off on writing about Gemini 2.5. Focusing on the AI model didn&#8217;t feel like enough to tell the full story of Google&#8217;s comeback. Gemini 2.5 is only a piece&#8212;albeit a big one&#8212;of something much larger. Back in December 2024, I said they would come out on top [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/14/google-is-winning-on-every-ai-front/>
+
+---
+
+## Claude for Mac
+
+date: 2025-04-14, from: Michael Tsai
+
+Jordan Novet (2024, via Hacker News): OpenAI co-founder John Schulman said in a Monday X post that he would leave the Microsoft-backed company and join Anthropic, an artificial intelligence startup with funding from Amazon.The move comes less than three months after OpenAI disbanded a superalignment team that focused on trying to ensure that people can [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/14/claude-for-mac/>
+
+---
+
+## LLaMA Gaming AI Benchmarks
+
+date: 2025-04-14, from: Michael Tsai
+
+Kylie Robison (via Hacker News, Slashdot): Over the weekend, Meta dropped two new Llama 4 models: a smaller model named Scout, and Maverick, a mid-size model that the company claims can beat GPT-4o and Gemini 2.0 Flash &#8220;across a broad range of widely reported benchmarks.&#8221;[&#8230;]The achievement seemed to position Meta&#8217;s open-weight Llama 4 as a [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/14/llama-gaming-ai-benchmarks/>
+
+---
+
+## Note on 14th April 2025
+
+date: 2025-04-14, updated: 2025-04-14, from: Simon Willison’s Weblog
+
+<p>Believing AI vendors who promise you that they won't train on your data is a <em>huge</em> competitive advantage these days.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/14/believe/#atom-everything>
+
+---
+
+## Why tattoos are such an unreliable marker of gang membership
+
+date: 2025-04-14, from: Guy Kawasaki blog
+
+Beth C. Caldwell, Professor of Law, Southwestern Law School. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-tattoos-are-such-an-unreliable>
+
+---
+
+## The outdoor socket and the monster that is the Skoda Mode 2 cable
+
+date: 2025-04-14, updated: 2025-04-14, from: Peter Molnar blog
+
+We got a new (to us) car because a truck liberated us from the one we bought a year ago. Since this one is a plug-in hybrid, I wanted to charge it from an outdoor socket using the official 3 pin cable. Apparently it's not this simple. 
+
+<br> 
+
+<https://petermolnar.net/article/skoda-ev-3-pin-outdoor-socket-size/>
+
+---
+
+## SQLite File Format Viewer
+
+date: 2025-04-14, updated: 2025-04-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://sqlite-internal.pages.dev/">SQLite File Format Viewer</a></strong></p>
+Neat browser-based visual interface for exploring the structure of a SQLite database file, built by Visal In using React and a custom parser <a href="https://github.com/invisal/sqlite-internal/tree/main/src/parser">implemented in TypeScript</a>.
+
+    <p><small></small>Via <a href="https://twitter.com/invisal89/status/1911692246182928753">@invisal89</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/typescript">typescript</a>, <a href="https://simonwillison.net/tags/react">react</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/14/sqlite-file-format-viewer/#atom-everything>
+
+---
+
+## I Tested The AI That Calls Your Elderly Parents If You Can't Be Bothered
+
+date: 2025-04-14, from: 404 Media Group
+
+inTouch says on its website "Busy life? You can’t call your parent every day—but we can." My own mum said she would feel terrible if her child used it. 
+
+<br> 
+
+<https://www.404media.co/i-tested-the-ai-that-calls-your-elderly-parents-if-you-cant-bothered/>
+
+---
+
+## An Unacceptable Level of Care
+
+date: 2025-04-14, updated: 2025-04-14, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/14/an-unacceptable-level-of-care/>
 
 ---
 
@@ -33,7 +361,7 @@ Christian immigrants helped elect Trump, now some are at risk of being deported.
 
 date: 2025-04-14, from: Blog by Fabrizio Ferri-Benedetti
 
-<p>I’ve recently upgraded some of the hardware I use for work and leisure, so it’s a good time to refresh my lists of <a href="https://passo.uno/technical-writing-equipment/">tech writing gear</a>. At the same time, after working as a documentation engineer, I also picked up new <a href="https://passo.uno/favorite-tech-writing-tools/">favorite tools</a>, especially AI-powered ones. Let me tell you of some of the recent additions to my personal inventory and why I think they’re making me more productive (and less grumpy).</p> 
+<p>I’ve recently upgraded some of the hardware I use for work and leisure, so it’s a good time to refresh my list of <a href="https://passo.uno/technical-writing-equipment/">tech writing gear</a>. At the same time, after working as a documentation engineer, I also picked up new <a href="https://passo.uno/favorite-tech-writing-tools/">favorite tools</a>, especially AI-powered ones. Some I already use at work, while others I keep for personal projects. Let me tell you of some of the recent additions to my personal inventory and why I think they’re making me more productive.</p> 
 
 <br> 
 

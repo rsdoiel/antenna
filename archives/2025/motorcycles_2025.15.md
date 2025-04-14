@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-04-14 06:08:21
+updated: 2025-04-14 14:07:47
 ---
 
 # motorcycles
 
-(date: 2025-04-14 06:08:21)
+(date: 2025-04-14 14:07:47)
+
+---
+
+## Watch a Pristine Harley-Davidson Attempt To Climb Hell’s Gate, Place Your Bets
+
+date: 2025-04-14, from: Ride Apart, Electric Motorcycle News
+
+I'm not the biggest HD fan, but this just feels wrong. 
+
+<br> 
+
+<https://www.rideapart.com/news/756417/watch-harleys-climb-hells-gate/>
+
+---
+
+## The Yamaha Ténéré 700 Yamalube Is a French Exclusive, Cause It's Too Cool For Us
+
+date: 2025-04-14, from: Ride Apart, Electric Motorcycle News
+
+Too cool, in fact, that you can’t buy it. You have to win it. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756270/yamaha-tenere-700-yamalube-french-exclusive/>
 
 ---
 

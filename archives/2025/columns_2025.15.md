@@ -1,11 +1,219 @@
 ---
 title: columns
-updated: 2025-04-14 06:08:18
+updated: 2025-04-14 14:07:44
 ---
 
 # columns
 
-(date: 2025-04-14 06:08:18)
+(date: 2025-04-14 14:07:44)
+
+---
+
+##  In a meeting today, dictators Donald Trump & Nayib Bukele talked about... 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046629-in-a-meeting-today-dictat>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-14, from: Dave Winer's Scripting News)
+
+Harvard could use <a href="https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/">this moment</a> to bring some really new ideas back into the university. 
+
+<br> 
+
+<http://scripting.com/2025/04/14.html#a201359>
+
+---
+
+## The two tipping points for when we officially become a dictatorship could occur this week
+
+date: 2025-04-14, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-two-tipping-points-for-when-we>
+
+---
+
+##  Palestinian Protester on His Way to Citizenship Test Arrested by ICE in VT 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/palestinian-protester-on-his-way-to-citizenship-test-arrested-by-ice-in-vt>
+
+---
+
+##  Director Ryan Coogler Breaks Down Film Aspect Ratios 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/director-ryan-coogler-breaks-down-film-aspect-ratios>
+
+---
+
+##  Why do AI company logos look like buttholes? &#8220;The fluidity and warmth... 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046624-why-do-ai-company-logos>
+
+---
+
+##  Are You Looking for Work? Are You Looking to Fill a Position? 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/are-you-looking-for-work-are-you-looking-to-fill-a-position>
+
+---
+
+##  M. Gessen: &#8220;This is my radical proposal for universities: Act like universities,... 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046621-m-gessen-this-is-my>
+
+---
+
+## April 13, 2025
+
+date: 2025-04-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161314075/415bac486c3c453e1cc31fb85f3b6a02.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161314075/415bac486c3c453e1cc31fb85f3b6a02.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-13-2025-492>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2025-04-14, updated: 2025-04-10, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m giving an online talk on AI and trust for the <a href="https://plamadiso.weizenbaum-institut.de/events-2025/">Weizenbaum Institute</a> on April 24, 2025 at 2:00 PM CEST (8:00 AM ET).</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+<p>&#160;</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/upcoming-speaking-engagements-45.html>
+
+---
+
+##  Unequal Rights 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/unequal-rights>
+
+---
+
+## Seth Godin on How to Win an Argument With a Toddler
+
+date: 2025-04-14, updated: 2025-04-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/>
+
+---
+
+## Differences
+
+date: 2025-04-14, from: Doc Searls (at Harvard), New Old Blog
+
+All errands today here in Pasadena, which is one of my favorite places in SoCal. Or hell, the world. Check out City Hall. Looks like the capital city of some country on the Mediterranian. Sure, it&#39;s chock full of cars and traffic, but that&#39;s an American thnig. Right now I&#39;m at the Arroyo-Calif Car Wash [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/04/14/differences-2/>
+
+---
+
+##  Letter from a high-ranking FBI official who recently resigned. &#8220;I took an... 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046619-letter-from-a-high-rankin>
+
+---
+
+##  I was chuffed to see that KDO&#8217;s own Edith Zimmerman has a... 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046618-i-was-chuffed-to-see>
+
+---
+
+##  George Monbiot: Rightwing populists will keep winning until we grasp this truth... 
+
+date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046617-george-monbiot-rightwing->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-14, from: Dave Winer's Scripting News)
+
+A long time ago, based on my experience at Berkman in the 00s, I proposed the idea of a <a href="http://scripting.com/2014/10/30/developingBetterDevelopers.html">Developing Better Developers</a> function at a university, as a pilot, to create a teaching hospital atmosphere around creating new communication systems out the web and (key point) not compromising the openness of the web. It would be as sacred as academic freedom is in the university, or the First Amendment of the Constitution. It seemed to me that a university is the perfect place to create something like this. If we had such a setup, anywhere, at this time -- we would be working in earnest on an open alternative to twitter, one that is truly billionaire-proof right now, as opposed to "would be nice to have sometime in the future." 
+
+<br> 
+
+<http://scripting.com/2025/04/14.html#a132939>
 
 ---
 
@@ -13,14 +221,11 @@ updated: 2025-04-14 06:08:18
 
 date: 2025-04-14, from: Dave Winer's Scripting News
 
-<p>A question on a <a href="https://www.manton.org/2025/04/13/rob-fahrni-blogs-more-thoughts.html">thread</a> on Manton's micro.blog site wishing to know what Inbound RSS is. Here's an edited version of my response.  </p>
-<p>It looks like the first time I used the <a href="https://daytona.scripting.com/search?q=%22Inbound%20RSS%22">term</a> on my blog was in 2022, when I was <a href="http://scripting.com/2022/03/14.html#a132511">explaining</a> how I was thinking, in 2017, about using Substack to do email distribution of my blog. I asked if I could use <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> to feed my writing into Substack, instead of having to copy/paste it from where I wrote it. They apparently didn’t read the question and they told me about how Substack supports the outbound variety of RSS. It was at that point that I realized there needed to be a distinction between inbound and outbound RSS.</p>
-<p>I thought it was pretty straightforward and almost self-explanatory. Feed readers view RSS as inbound, and blogging tools regard it as outbound. Same feed, in different contexts. Like trains going in and out of a station. They come in, they go out. Inbound and outbound. </p>
-<p>But sometimes you want a feed reader to generate RSS feeds as <a href="https://feedland.com/">FeedLand</a> does, and sometimes you want blogging software to handle inbound feeds, thus acting a bit like a feed reader. As Manton points out, <a href="http://scripting.com/2022/10/13/133536.html?title=substackVsMicroblog#a133533">micro.blog</a> does this.</p>
-<p>Now it makes total sense to me and I think it will make sense to everyone else pretty soon that twitter-like systems which are starting to support outbound RSS would also support inbound.</p>
-<p>The reason this is a good thing as in the case of Substack, is that I can use the writing tools I like best to publish through Substack. In fact I wasn’t willing to do the copy/paste thing, I had tried it with Medium and I hated it. It turned me into a piece of software. I have spent a considerable portion of my career working on APIs that get software to take their input from anywhere, not just from their own often pretty shitty editors. But, apparently, Substack doesn’t want you using someone else’s editor, because that’s where a good portion of their lock-in comes from. And I suspect we’ll encounter resistance to the idea from Bluesky because despite their <a href="https://this.how/bluesky/">hype</a> about the wonders of AT Proto, they really want you living in their environment and not posting to it from outside, so they benefit by making it hard to do so, while as it has been pointed out, their APIs make it possible to do it anyway. It’s the friction and complexity and fragility that helps keep them from being replaced. If they realllly believed in the open web, they would imho jump at the opportunity to support inbound RSS.</p>
-<p>Here's a <a href="https://github.com/scripting/reallysimple/issues/19">thread</a> if you have questions about Inbound RSS.</p>
-<p>PS: I had a <a href="https://claude.ai/share/33a0a2cf-7e3c-4a66-bdda-66e695b8177e">conversation</a> with Claude.ai about inbound RSS. It had not heard of the term, so I gave it some pointers and it was able to explain it in more detail than I have here. Remarkable tools. Every day I read misinformed stories about AI software that thinks it's just used for students to cheat on their homework or (recently) by politicians to create policy for them. Yeah I suppose people had similar arguments against search engines, though I don't recall, but I do remember as a freshman in college it being controversial for students to bring a calculator into a chemistry exam. Today it seems ridiculous for a human to take a chemistry test that actually tests their ability to do arithmetic! Pick your battles. </p>
+<p>I wrote a complex piece here earlier, but it's much simpler than it made it sound, so I decided to start again.</p>
+<p>Feed readers view RSS as inbound, and blogging tools regard it as outbound. Same feed, different contexts. Like trains going in and out of a station. Inbound and outbound. </p>
+<p>But some software views RSS in both directions. The best example is Twitter and its successors such as Mastodon, Threads and Bluesky. These products are for both for reading and writing. It makes sense to have outbound feeds, like a blogging tool, and it makes just as much sense as a consumer of feeds, like a feed reader, so we can easily publish stuff from other environments and people can subscribe to them exactly as if they used their editor to write it. No reason anyone needs to know. This is absolutely the simplest and most web-like way to do federation. And you don't need any new formats or protocols. It's all RSS on both sides. We totally know how to do RSS. It's ready to go. </p>
+<p>What got me thinking about this a few years ago was Substack. I wanted to publish a nightly email newsletter from what I had posted that day on my blog, but I didn't have the patience to copy and paste and then reformat the text, by hand, when I already have it automated. They wanted to turn me into a computer. I tried that with Medium for a couple of years and it was awful. No thanks. What I needed them to have is inbound RSS. </p>
+<p>That's it. You now know all there is to know about <a href="https://daytona.scripting.com/search?q=%22Inbound%20RSS%22">Inbound RSS</a>. 😀 </p>
  
 
 <br> 
@@ -160,8 +365,8 @@ date: 2025-04-13, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161250237/7ecfd2f0fe07d08109e6cdcff19d85ea.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/161250237/7ecfd2f0fe07d08109e6cdcff19d85ea.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161250237/33b2b36cad720a5482fe539e7ef03fcb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161250237/33b2b36cad720a5482fe539e7ef03fcb.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/april-12-2025-145>
 

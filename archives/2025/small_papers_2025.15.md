@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-04-14 06:08:22
+updated: 2025-04-14 14:07:49
 ---
 
 # small papers
 
-(date: 2025-04-14 06:08:22)
+(date: 2025-04-14 14:07:49)
+
+---
+
+## City to host veterans job fair on Thursday
+
+date: 2025-04-14, from: Long Beach Post
+
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg 900w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-450x300.jpg 450w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Participating employers include the LBPD, LBFD, Long Beach Human Resources Department, Long Beach Civil Service Department and private security company Allied Universal.</p>
+<p>The post <a href="https://lbpost.com/news/city-to-host-veterans-job-fair-on-thursday">City to host veterans job fair on Thursday</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city-to-host-veterans-job-fair-on-thursday>
+
+---
+
+## Some DMV Office Hours Extended by an Hour for Real ID Applicants
+
+date: 2025-04-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="601" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?fit=1024%2C601&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Real Id photo" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?w=1782&amp;ssl=1 1782w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1024%2C601&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=768%2C451&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1536%2C902&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=780%2C458&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=706%2C414&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?fit=1024%2C601&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; With less than a month before travelers will need to show a Real ID before boarding commercial flights in the U.S., 18 state DMV offices will [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/14/some-dmv-office-hours-extended-by-an-hour-for-real-id-applicants/">Some DMV Office Hours Extended by an Hour for Real ID Applicants</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/14/some-dmv-office-hours-extended-by-an-hour-for-real-id-applicants/>
+
+---
+
+## 5.2 earthquake centered near San Diego rattles SoCal
+
+date: 2025-04-14, from: Long Beach Post
+
+<figure><img width="1024" height="631" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-300x185.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-768x473.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-175x108.png 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1200x740.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-400x247.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp.png 1262w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The U.S. Geological Survey reported shaking was felt as far north as Downtown Los Angeles.</p>
+<p>The post <a href="https://lbpost.com/news/5-2-earthquake-centered-near-san-diego-rattles-socal">5.2 earthquake centered near San Diego rattles SoCal</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/5-2-earthquake-centered-near-san-diego-rattles-socal>
 
 ---
 
@@ -13,7 +58,7 @@ updated: 2025-04-14 06:08:22
 
 date: 2025-04-14, from: Long Beach Post
 
-<figure><img width="1024" height="601" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="601" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>From countless meaningful personal stories to a full weekend of high-velocity motorsports, the Grand Prix is so much more than a single race.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-grand-prix-photos-50th-anniversary">The best scenes from the Long Beach Grand Prix&#8217;s historic 50th race weekend</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

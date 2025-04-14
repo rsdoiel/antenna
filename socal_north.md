@@ -1,11 +1,125 @@
 ---
 title: socal north
-updated: 2025-04-14 06:08:15
+updated: 2025-04-14 14:07:42
 ---
 
 # socal north
 
-(date: 2025-04-14 06:08:15)
+(date: 2025-04-14 14:07:42)
+
+---
+
+## Why Irvine is holding a special election Tuesday — and what's at stake
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+Irvine voters head to the poll as 2025 is poised to be a year of change for the city. Three candidates are vying for the District 5 council seat. 
+
+<br> 
+
+<https://laist.com/news/politics/why-irvine-is-holding-a-special-election-tuesday-and-whats-at-stake>
+
+---
+
+## City to host veterans job fair on Thursday
+
+date: 2025-04-14, from: Longbeach Post
+
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg 900w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-450x300.jpg 450w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Participating employers include the LBPD, LBFD, Long Beach Human Resources Department, Long Beach Civil Service Department and private security company Allied Universal.</p>
+<p>The post <a href="https://lbpost.com/news/city-to-host-veterans-job-fair-on-thursday">City to host veterans job fair on Thursday</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city-to-host-veterans-job-fair-on-thursday>
+
+---
+
+## Katy Perry, Gayle King and others reflect on their brief but historic trip to space
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+Monday's 11-minute Blue Origin flight featured the first all-female crew since 1963. Here's what else to know about it. 
+
+<br> 
+
+<https://laist.com/news/katy-perry-gayle-king-and-others-reflect-on-their-brief-but-historic-trip-to-space>
+
+---
+
+## Is it 'Made in USA'? The answer can be complicated
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+In a global economy, something called "substantial transformation" comes into play when the U.S. determines where a product is made. 
+
+<br> 
+
+<https://laist.com/news/is-it-made-in-usa-the-answer-can-be-complicated>
+
+---
+
+## El Salvador's Bukele says it's 'preposterous' to suggest he return Abrego Garcia to US
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+El Salvador's President Nayib Bukele and several top Trump administration officials dismissed questions about the fate of a Maryland man wrongfully deported to El Salvador. 
+
+<br> 
+
+<https://laist.com/news/el-salvadors-bukele-says-its-preposterous-to-suggest-he-return-abrego-garcia-to-us>
+
+---
+
+## A 5.2 magnitude quake strikes northeast of San Diego
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+Shaking was felt as far away as Los Angeles. Light damage is possible. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/san-diego-quake-5-2>
+
+---
+
+## 5.2 earthquake centered near San Diego rattles SoCal
+
+date: 2025-04-14, from: Longbeach Post
+
+<figure><img width="1024" height="631" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-300x185.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-768x473.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-175x108.png 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1200x740.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-400x247.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp.png 1262w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The U.S. Geological Survey reported shaking was felt as far north as Downtown Los Angeles.</p>
+<p>The post <a href="https://lbpost.com/news/5-2-earthquake-centered-near-san-diego-rattles-socal">5.2 earthquake centered near San Diego rattles SoCal</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/5-2-earthquake-centered-near-san-diego-rattles-socal>
+
+---
+
+## California lawmakers quietly sideline bills in secretive suspense process
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+Lawmakers move hundreds of bills to die quietly behind closed doors with little public explanation or accountability. 
+
+<br> 
+
+<https://laist.com/news/politics/california-lawmakers-quietly-sideline-bills-in-secretive-suspense-process>
+
+---
+
+## The 'world's coolest dictator' heads to the White House
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+El Salvador's President Nayib Bukele heads to the White House to discuss further cooperation with the U.S., including the continued use of El Salvador's supermax prison for deported migrants. 
+
+<br> 
+
+<https://laist.com/news/the-worlds-coolest-dictator-heads-to-the-white-house>
 
 ---
 
@@ -18,6 +132,18 @@ The California DMV routinely allows dangerous drivers with horrifying histories 
 <br> 
 
 <https://laist.com/news/license-to-kill-dmv-dui>
+
+---
+
+## Trump’s trade war could upend California’s EV agenda
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+President Donald Trump‘s trade war is upending all aspects of the world economy, but the electric vehicle industry could soon be feeling the pain. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trumps-trade-war-californias-ev-agenda>
 
 ---
 
@@ -45,18 +171,6 @@ Most eligible property owners have opted in.
 
 ---
 
-## Trump’s trade war could upend California’s EV agenda
-
-date: 2025-04-14, updated: 2025-04-14, from: The LAist
-
-President Donald Trump‘s trade war is upending all aspects of the world economy, but the electric vehicle industry could soon be feeling the pain. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/trumps-trade-war-californias-ev-agenda>
-
----
-
 ## What happened to all the clothing donated during the LA wildfires?
 
 date: 2025-04-14, updated: 2025-04-14, from: The LAist
@@ -73,7 +187,7 @@ Due to the sheer volume and different needs of fire victims, a lot of it ended u
 
 date: 2025-04-14, from: Longbeach Post
 
-<figure><img width="1024" height="601" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="601" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-1024x601.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/13182335/13apr25-agplb-1-260503-yyje7ecs-964274-fVjAivQn.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>From countless meaningful personal stories to a full weekend of high-velocity motorsports, the Grand Prix is so much more than a single race.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-grand-prix-photos-50th-anniversary">The best scenes from the Long Beach Grand Prix&#8217;s historic 50th race weekend</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
