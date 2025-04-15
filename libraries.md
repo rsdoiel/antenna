@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-14 14:07:46
+updated: 2025-04-15 06:08:26
 ---
 
 # libraries
 
-(date: 2025-04-14 14:07:46)
+(date: 2025-04-15 06:08:26)
+
+---
+
+## Guest Post — The Open Access – AI Conundrum: Does Free to Read Mean Free to Train?
+
+date: 2025-04-15, from: Scholarly Kitchen
+
+<p>It is time for OA proponents to engage in public debate with academic associations, universities and national funding agencies, because the widespread use of academic content in AI models poses significant risks for the research ecosystem.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/15/guest-post-the-open-access-ai-conundrum-does-free-to-read-mean-free-to-train/">Guest Post &#8212; The Open Access – AI Conundrum: Does Free to Read Mean Free to Train?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/15/guest-post-the-open-access-ai-conundrum-does-free-to-read-mean-free-to-train/>
 
 ---
 

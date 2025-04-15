@@ -1,11 +1,165 @@
 ---
 title: food
-updated: 2025-04-14 14:07:48
+updated: 2025-04-15 06:08:28
 ---
 
 # food
 
-(date: 2025-04-14 14:07:48)
+(date: 2025-04-15 06:08:28)
+
+---
+
+## For Grimy Equipment, Precision Coffee Tools’ Steaming Brush is a Blast
+
+date: 2025-04-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png" class="attachment-large size-large wp-post-image" alt="Precision Coffee Tools cleaning brush 4" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Precision Coffee Tools brand of coffee equipment from Australian coffee roaster and equipment company Di Pacci Coffee recently launched a new steam-powered cleaning brush for commercial espresso bars. The... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/15/for-grimy-equipment-precision-coffee-tools-steaming-brush-is-a-blast/>
+
+---
+
+## Sabrina Carpenter Releases Coffee-Filled Vinyl For Hit Song Espresso
+
+date: 2025-04-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The pressing was limited to just 1,000 copies. 
+
+<br> 
+
+<https://sprudge.com/sabrina-carpenter-releases-coffee-filled-vinyl-for-hit-song-espresso-318846.html>
+
+---
+
+## Chili and Cinnamon Rolls
+
+date: 2025-04-15, from: Taste of Home
+
+The strange and controversial combination of chili and cinnamon rolls is a Midwest classic. How did they become such an iconic pairing? 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chili-and-cinnamon-rolls-recipe/>
+
+---
+
+## A Strawberry Cake That Really Tastes Like Strawberries
+
+date: 2025-04-15, from: Bon Appetet
+
+Bake it for the spring or summer birthday in your life. 
+
+<br> 
+
+<https://www.bonappetit.com/story/freeze-dried-strawberry-cake>
+
+---
+
+## Scientists Reveal How These Two Factors Can Improve Extraction
+
+date: 2025-04-15, from: The Fresh Cup
+
+<p>For a group of researchers at the University of Pennsylvania, their focus is on getting more out of your beans and reducing the amount of coffee you need to make a delicious pour over.</p>
+<p>The post <a href="https://freshcup.com/scientists-reveal-how-these-two-factors-can-improve-extraction/">Scientists Reveal How These Two Factors Can Improve Extraction</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/scientists-reveal-how-these-two-factors-can-improve-extraction/>
+
+---
+
+## Mangonada
+
+date: 2025-04-15, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mangonada/"><img title="mangonada-recipe-25-small-9" src="https://www.isabeleats.com/wp-content/uploads/2025/04/mangonada-recipe-25-small-9-400x600.jpg" alt="Mangonada served in a tall glass ready to enjoy." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	A mangonada, also known as a chamoyada, is a Mexican frozen mango dessert made from a blend of mango, chamoy,&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/mangonada/>
+
+---
+
+## How to Make Stuffed Mini Bell Pepper “Carrots” for Easter
+
+date: 2025-04-14, from: Taste of Home
+
+<p>Easter is right around the corner, and stuffed mini bell peppers are as easy as they are adorable.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stuffed-mini-bell-pepper-carrots/">How to Make Stuffed Mini Bell Pepper &#8220;Carrots&#8221; for Easter</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stuffed-mini-bell-pepper-carrots/>
+
+---
+
+## The Best Santoku Knife for Agile Slicing and Dicing (2025)
+
+date: 2025-04-14, from: Bon Appetet
+
+It may just replace your favorite chef’s knife. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-santoku-knives>
+
+---
+
+## Elise Jesse’s Cincinnati Chili
+
+date: 2025-04-14, from: Taste of Home
+
+I know chili is widely debated, but one taste of Cincinnati chili has the power to end the debate. It is the best in the world, hands down. This chili is a staple in my home today and was woven into the fabric of my childhood, from family nights to post-football game meals to after-church lunches. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-cincinnati-chili/>
+
+---
+
+## Hetal Vasavada’s Cookie Bars
+
+date: 2025-04-14, from: Taste of Home
+
+I love making these cookie bars. You can customize the mix-ins with whatever ingredients you have on hand. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-cookie-bars/>
+
+---
+
+## Scottish Rumbledethumps
+
+date: 2025-04-14, from: Taste of Home
+
+What do you get when you mash together buttery potatoes and cooked cabbage and then sprinkle the top with cheese? A fun dish called Scottish rumbledethumps! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/scottish-rumbledethumps/>
+
+---
+
+## Why Is Everyone Talking About Costco’s Chicken Right Now?
+
+date: 2025-04-14, from: Taste of Home
+
+<p>Reddit is buzzing about Costco chicken right now, and it's not because the rotisserie bird is so cheap.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-chicken-spaghetti-chicken/">Why Is Everyone Talking About Costco&#8217;s Chicken Right Now?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-chicken-spaghetti-chicken/>
 
 ---
 
@@ -119,7 +273,7 @@ date: 2025-04-14, from: Taste of Home
 
 date: 2025-04-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Madcap roastery" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Michigan-based quality-focused roasting company Madcap Coffee recently launched a sibling brand called Dito Coffee, featuring playful pink branding and a more comfortable price point for many consumers. The Grand Rapids... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Madcap roastery" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Michigan-based quality-focused roasting company Madcap Coffee recently launched a sibling brand called Dito Coffee, featuring playful pink branding and a more comfortable price point for many consumers. The Grand Rapids... 
 
 <br> 
 
@@ -222,4 +376,16 @@ date: 2025-04-13, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/50-easter-recipes/>
+
+---
+
+## Marry Me Pot Roast
+
+date: 2025-04-13, from: Taste of Home
+
+Want to win their heart? First, win their taste buds with a flavorful and tender Marry Me pot roast! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/marry-me-pot-roast/>
 

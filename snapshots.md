@@ -1,11 +1,115 @@
 ---
 title: snapshots
-updated: 2025-04-14 14:07:50
+updated: 2025-04-15 06:08:30
 ---
 
 # snapshots
 
-(date: 2025-04-14 14:07:50)
+(date: 2025-04-15 06:08:30)
+
+---
+
+## Wayland has a bright future ahead
+
+date: 2025-04-15, from: Libre News
+
+The move from Xorg to Wayland had a rough start, but things have improved, and there is an exciting roadmap for the future.  
+
+<br> 
+
+<https://thelibre.news/wayland-has-a-bright-future-ahead/>
+
+---
+
+## Happy Tax Evasion Day!
+
+date: 2025-04-15, from: Paul Krugman
+
+DOGE is stealing your tax revenue and giving it to rich cheaters 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/happy-tax-evasion-day>
+
+---
+
+## Harnessing RP2040 for microgravity research in zero-g parabolic flight
+
+date: 2025-04-15, from: Raspberry Pi News (.com)
+
+<p>Exploring how plants behave in microgravity, researchers turned to RP2040 for low-cost automation, sensing, and control.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/harnessing-rp2040-for-microgravity-research-in-zero-g-parabolic-flight/">Harnessing RP2040 for microgravity research in zero-g parabolic flight</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/harnessing-rp2040-for-microgravity-research-in-zero-g-parabolic-flight/>
+
+---
+
+## AI, scraping, nepenthes, fail2ban
+
+date: 2025-04-15, updated: 2025-04-15, from: Peter Molnar blog
+
+A quick guide on combining an anti-AI tarpit with automatic blocking 
+
+<br> 
+
+<https://petermolnar.net/article/anti-ai-nepenthes-fail2ban/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+This is not the America we grew up in. 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/04/15/this-is-not-the-america-we-grew-up-in/>
+
+---
+
+## Don’t Forget The Forgotten Tech User
+
+date: 2025-04-15, updated: 2025-04-15, from: Tedium site
+
+Windows 10’s end-of-life points to the sheer neglect that computer users face when their world isn’t completely defined by technology. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17006243/windows-10-forgotten-tech-users>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+ChatGPT can now remember and reference all your previous chats. 
+
+<br> 
+
+<https://arstechnica.com/ai/2025/04/chatgpt-can-now-remember-and-reference-all-your-previous-chats/>
+
+---
+
+## Sam Altman’s attitude problem
+
+date: 2025-04-15, from: Gary Marcus blog
+
+What happened to the man who once told the US Senate &#8220;creators deserve control over how their creations are used&#8221;? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/sam-altmans-attitude-problem>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-14, from: Dave Winer's linkblog)
+
+Coffee prices are skyrocketing. What does this mean for East Bay cafes? 
+
+<br> 
+
+<https://www.berkeleyside.org/2025/04/14/coffee-tariffs-rising-prices-local-impact>
 
 ---
 
@@ -138,6 +242,8 @@ llm -m openai/gpt-4.1 <span class="pl-s"><span class="pl-pds">"</span>Generate a
 <p>The 1 million input token context thing is a <em>really big deal</em>. The huge token context has been a major competitive advantage for the Google Gemini models for a full year at this point - it's reassuring to see other vendors start to catch up. I'd like to see the same from Anthropic - Claude was the first model to hit 200,000 but hasn't shipped more than that yet (aside from a 500,000 token model that was restricted to their big enterprise partners).</p>
 </li>
 <li><p>When I added <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">fragments support</a> to LLM last week the feature was mainly designed to help take advantage of longer context models. It's pleasing to see another one show up so shortly after that release.</p></li>
+<li><p>OpenAI's <a href="https://platform.openai.com/docs/guides/prompt-caching">prompt caching</a> mechanism offers an even bigger discount for the 4.1 models: 1/4 the price for input tokens if that same prefix has been used within the past ~5-10 minutes. GPT-4o models only offer a 50% discount for this.</p>
+<p>A million token input costs 10 cents with GPT-4.1 nano, but that drops to 2.5 cents if the same input is used again within the 5-10 minute caching time limit.</p></li>
 <li>
 <p>OpenAI really emphasized code performance for this model. They called out the <a href="https://aider.chat/docs/leaderboards/">Aider benchmark</a> in their announcement post.</p>
 </li>
@@ -148,14 +254,14 @@ llm -m openai/gpt-4.1 <span class="pl-s"><span class="pl-pds">"</span>Generate a
 </blockquote>
 </li>
 <li>
-<p>In <a href="https://www.youtube.com/watch?v=kA-P9ood-cE">the livestream announcement</a> Michelle Pokrass <a href="https://www.youtube.com/live/kA-P9ood-cE?t=641s">let slip</a> that the codename for the model was Quasar - that's the name of the stealth model that's <a href="https://openrouter.ai/announcements/stealth-model-quasar-alpha">been previewing on OpenRouter</a> for the past two weeks. That has <a href="https://twitter.com/openrouterai/status/1911833662464864452">now been confirmed</a> by OpenRouter.</p>
+<p>In <a href="https://www.youtube.com/watch?v=kA-P9ood-cE">the livestream announcement</a> Michelle Pokrass <a href="https://www.youtube.com/live/kA-P9ood-cE?t=17s">let slip</a> that the codename for the model was Quasar - that's the name of the stealth model that's <a href="https://openrouter.ai/announcements/stealth-model-quasar-alpha">been previewing on OpenRouter</a> for the past two weeks. That has <a href="https://twitter.com/openrouterai/status/1911833662464864452">now been confirmed</a> by OpenRouter.</p>
 </li>
 <li>
 <p>OpenAI shared a <a href="https://cookbook.openai.com/examples/gpt4-1_prompting_guide">GPT 4.1 Prompting Guide</a>, which includes this tip about long context prompting:</p>
 <blockquote>
 <p>Especially in long context usage, placement of instructions and context can impact performance. If you have long context in your prompt, ideally place your instructions at both the beginning and end of the provided context, as we found this to perform better than only above or below. If you’d prefer to only have your instructions once, then above the provided context works better than below.</p>
 </blockquote>
-<p>Adding instructions before the content is incompatible with <a href="https://platform.openai.com/docs/guides/prompt-caching">prompt caching</a> - I always keep user instructions at the end since doing so means multiple prompts can benefit from OpenAI's prefix cache.</p>
+<p>Adding instructions before the content is incompatible with <a href="https://platform.openai.com/docs/guides/prompt-caching">prompt caching</a> - I always keep the user's varying question at the end, after any longer system instructions or documents, since doing so means multiple different questions can benefit from OpenAI's prefix cache.</p>
 <p>They also recommend XML-style delimiters over JSON for long context, suggesting this format (complete with the XML-invalid unquoted attribute) that's similar to the format <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags">recommended by Anthropic</a> for Claude:</p>
 <div class="highlight highlight-text-xml"><pre>&lt;<span class="pl-ent">doc</span> <span class="pl-e">id</span>=1 <span class="pl-e">title</span>=<span class="pl-s"><span class="pl-pds">"</span>The Fox<span class="pl-pds">"</span></span>&gt;The quick brown fox jumps over the lazy dog&lt;/<span class="pl-ent">doc</span>&gt;</pre></div>
 <p>There's an extensive section at the end <a href="https://cookbook.openai.com/examples/gpt4-1_prompting_guide#appendix-generating-and-applying-file-diffs">describing their recommended approach to applying file diffs</a>: "we open-source here one recommended diff format, on which the model has been extensively trained".</p>

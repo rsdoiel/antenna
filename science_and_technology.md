@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-14 14:07:43
+updated: 2025-04-15 06:08:22
 ---
 
 # science and technology
 
-(date: 2025-04-14 14:07:43)
+(date: 2025-04-15 06:08:22)
+
+---
+
+## ActiveX blocked by default in Microsoft 365 because remote code execution is bad, OK?
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Stopping users shooting themselves in the foot with last century&#39;s tech</h4> <p>Microsoft has twisted the knife into ActiveX once again, setting Microsoft 365 to disable all controls without so much as a prompt.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/activex_microsoft_365/>
+
+---
+
+## NASA’s Hubble Tracks a Roaming Magnetar of Unknown Origin
+
+date: 2025-04-15, from: NASA breaking news
+
+Researchers using NASA’s Hubble Space Telescope have discovered the magnetar called SGR 0501+4516 is traversing our galaxy from an unknown place of origin. Researchers say that this runaway magnetar is the likeliest candidate in our Milky Way galaxy for a magnetar that was not born in a supernova explosion as initially predicted. It is so […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-a-roaming-magnetar-of-unknown-origin/>
+
+---
+
+## Where it Hertz: Customer data driven off in Cleo attacks
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Car hire biz takes your privacy seriously, though</h4> <p>Car hire giant Hertz has confirmed that customer information was stolen during the zero-day data raids on Cleo file transfer products last year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/hertz_cleo_customer_data/>
+
+---
+
+## Still browsing like it's 1999: Fresh tools that keep vintage Macs online and weirdly alive
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>You can&#39;t keep a good OS down</h4> <p>The first Intel-based Mac was 19 years ago, but new versions of apps for both Classic Mac OS and PowerPC Mac OS X still occasionally appear, and we are here for it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/classic_mac_os_apps/>
+
+---
+
+## In the Starlight: Tina Preyan Fuels the Future at Johnson
+
+date: 2025-04-15, from: NASA breaking news
+
+Exploring the unknown and preparing for humanity’s next giant leap really works up an appetite. Thankfully, employees at NASA’s Johnson Space Center in Houston can count on Tina Preyan to help them fuel up and stay focused. Preyan is a food service specialist at Starport, a quality-of-life program that contributes to Johnson’s mission by providing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-tina-preyan-fuels-the-future-at-johnson/>
+
+---
+
+## Dead or alive, Britain hands Schrödinger's industry £121M
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>UK&#39;s play to win a quantum computing race that is still highly theoretical</h4> <p>To mark <a target="_blank" href="https://worldquantumday.org/" rel="nofollow">World Quantum Day</a>, the UK government says it will stump up a £121 million ($158 million) investment in the ever-distant technology that proponents claim has the potential to shake up the world.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/uk_quantum_funding/>
+
+---
+
+## Windows Recovery Environment update fails successfully, says Microsoft
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>See no error, hear no error, speak no error</h4> <p>The three wise Microsoft monkeys have spoken. If Windows Update displayed an error after installing the April 2025 Windows Recovery Environment release, you didn&#39;t see anything. Best to ignore it and move on.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/winre_update_error/>
+
+---
+
+## EU gives staff 'burner phones, laptops' for US visits
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>That would put America on the same level as China for espionage</h4> <p>The European Commission is giving staffers visiting the US on official business burner laptops and phones to avoid espionage attempts, according to the Financial Times.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/ec_burner_devices/>
+
+---
+
+## Google Cloud’s so-called uninterruptible power supplies caused a six-hour interruption
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>When the power went out, they didn’t switch on</h4> <p>Google has revealed that a recent six-hour outage at one of its cloudy regions was caused by uninterruptible power supplies not doing their job.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/google_cloud_useast5c_outage_report/>
+
+---
+
+## South Korea reports tech exports surged ahead of Trump tariffs
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Meanwhile in China, factories that work for Apple and HP are reportedly closing some production lines</h4> <p>Tech manufacturers worked overtime in early 2025 to produce hardware before the US imposed tariffs that would increase the prices punters pay for product.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/south_korea_tech_exports_surge/>
+
+---
+
+## Nvidia joins made-in-America party, hopes to flog $500B in homegrown AI supers by 2029
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Blackwell production already underway in Arizona with server manufacturing coming to Texas within 15 months</h4> <p>Nvidia wants to build and sell up to half a trillion US dollars of American-made AI supercomputer equipment over the next four years, with the help of Taiwan Semiconductor Manufacturing Co, aka TSMC, and its partners.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/nvidia_made_in_america/>
+
+---
+
+## Don't delete that mystery empty folder. Windows put it there as a security fix
+
+date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
+
+<h4>Copilot vibe coding for OS development? Why not</h4> <p>Canny Windows users who&#39;ve spotted a mysterious folder on hard drives after applying last week&#39;s security patches for the operating system can rest assured – it&#39;s perfectly benign. In fact, it&#39;s recommended you leave the directory there.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/14/windows_update_inetpub/>
+
+---
+
+## Microsoft OneDrive file sync apps for Windows, Mac broken for 10 months
+
+date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Users, unsurprisingly, are not pleased and feel forgotten amid Redmond&#39;s Copilot frenzy</h4> <p><strong>Updated</strong>  In June 2024, users of the OneDrive sync client for macOS and Windows began reporting that shared folders had vanished from their local drives, replaced with web shortcuts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/14/microsoft_onedrive_file_sync_apps_broken/>
+
+---
+
+## New SSL/TLS certs to each live no longer than 47 days by 2029
+
+date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
+
+<h4>IT admins, get ready to grumble</h4> <p>CA/Browser Forum – a central body of web browser makers, security certificate issuers, and friends – has voted to cut the maximum lifespan of new SSL/TLS certs to just 47 days by March 15, 2029.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/14/ssl_tls_certificates/>
 
 ---
 
@@ -263,7 +431,7 @@ date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
 
 ## Dot com era crash on the cards for AI datacenter spending? It's a 'risk'
 
-date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
+date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 <h4>Analysts say the bubble won&#39;t burst, but it is possible, admits world&#39;s largest colo provider</h4> <p><strong>Interview</strong>  Those who ignore history are destined to repeat mistakes of the past and, with signs of an inflating bit barn spending bubble, comparisons are being made with the infamous dotcom bust a quarter of a century ago.…</p> 
 

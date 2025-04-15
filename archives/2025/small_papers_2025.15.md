@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-04-14 14:07:49
+updated: 2025-04-15 06:08:29
 ---
 
 # small papers
 
-(date: 2025-04-14 14:07:49)
+(date: 2025-04-15 06:08:29)
+
+---
+
+## After 15 months, construction is finished on Long Beach Airport’s revamped drop-off zone
+
+date: 2025-04-14, from: Long Beach Post
+
+<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-768x467.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-178x108.jpg 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-400x243.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Traffic should ease at the airport — with six pick-up and drop-off lanes instead of four.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/long-beach-airport-construction-finished-drop-off-zone">After 15 months, construction is finished on Long Beach Airport&#8217;s revamped drop-off zone</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/long-beach-airport-construction-finished-drop-off-zone>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-04-14 14:07:49
 
 date: 2025-04-14, from: Long Beach Post
 
-<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg 900w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-450x300.jpg 450w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg 900w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-450x300.jpg 450w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Participating employers include the LBPD, LBFD, Long Beach Human Resources Department, Long Beach Civil Service Department and private security company Allied Universal.</p>
 <p>The post <a href="https://lbpost.com/news/city-to-host-veterans-job-fair-on-thursday">City to host veterans job fair on Thursday</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -43,7 +58,7 @@ date: 2025-04-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-14, from: Long Beach Post
 
-<figure><img width="1024" height="631" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-300x185.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-768x473.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-175x108.png 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1200x740.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-400x247.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp.png 1262w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="631" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-300x185.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-768x473.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-175x108.png 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1200x740.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-400x247.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp.png 1262w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The U.S. Geological Survey reported shaking was felt as far north as Downtown Los Angeles.</p>
 <p>The post <a href="https://lbpost.com/news/5-2-earthquake-centered-near-san-diego-rattles-socal">5.2 earthquake centered near San Diego rattles SoCal</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

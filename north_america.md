@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-04-14 14:07:41
+updated: 2025-04-15 06:08:20
 ---
 
 # north america
 
-(date: 2025-04-14 14:07:41)
+(date: 2025-04-15 06:08:20)
+
+---
+
+## Words & Phrases We Can Do Without
+
+date: 2025-04-15, from: The Contrarian
+
+&#8220;Polarization&#8221; is not our problem 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-can-do-without>
+
+---
+
+##  Trump’s Trade War Is A Political Trap For Democrats 
+
+date: 2025-04-15, from: The Lever News
+
+ The president’s reckless tariffs are designed to goad his opponents into touting free trade and scoffing at the working class.  
+
+<br> 
+
+<https://www.levernews.com/trumps-trade-war-is-a-political-trap-for-democrats/>
+
+---
+
+## Evening Roundup, April 14
+
+date: 2025-04-14, from: The Contrarian
+
+Featuring "Courage is Contagious;" Brian O'Neill; Bill Braniff & Jen Rubin in discussion; Max Stier; Democracy Movement; Stephen Richer; Gina McCarthy, Janet McCabe, & Joe Goffman; and "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-14>
+
+---
+
+## The Madness of King Donald
+
+date: 2025-04-14, from: The Contrarian
+
+It was a week in which Trump&#8217;s broad and malign influence on civil society took another giant step forward. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-madness-of-king-donald>
 
 ---
 
@@ -42,8 +90,8 @@ date: 2025-04-14, from: The Contrarian
 "The conspiracy is based on threats to sacred values, much more so than pragmatic reality or data" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161018108/ce29d191ebc86d5b19249a309e8c5e11.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/161018108/ce29d191ebc86d5b19249a309e8c5e11.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161018108/ad4051407bd378cef4bed9470a67a28f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161018108/ad4051407bd378cef4bed9470a67a28f.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/bill-braniff-on-the-great-replacement>
 

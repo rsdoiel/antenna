@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-04-14 14:07:44
+updated: 2025-04-15 06:08:24
 ---
 
 # writing
 
-(date: 2025-04-14 14:07:44)
+(date: 2025-04-15 06:08:24)
+
+---
+
+## Artist Sara Felix’s House Explodes; Husband Hospitalized
+
+date: 2025-04-14, from: Locus Magazine
+
+<p>The house of artist, Hugo Award finalist and base designer, and SFF community member Sara Felix exploded on April 13, 2025. The Austin Fire Department described the house as &#8220;completely leveled,&#8221; according to My San Antonio. Felix and her children were not inside the house at the time, as the house was new and they had not moved in yet, but Felix&#8217;s husband Keith was caught in the event and  <a href="https://locusmag.com/2025/04/artist-sara-felixs-house-explodes-husband-hospitalized/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/artist-sara-felixs-house-explodes-husband-hospitalized/>
 
 ---
 

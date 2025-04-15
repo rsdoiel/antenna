@@ -1,23 +1,114 @@
 ---
 title: weather
-updated: 2025-04-14 14:07:44
+updated: 2025-04-15 06:08:24
 ---
 
 # weather
 
-(date: 2025-04-14 14:07:44)
+(date: 2025-04-15 06:08:24)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-04-14, from: Eastern Pacific Basin GIS Data
+date: 2025-04-15, from: Eastern Pacific Basin Tropical Cyclones
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Tue Apr 15 12:25:02 UTC 2025
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Apr 15 12:25:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Apr 15 12:25:02 UTC 2025
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Apr 15 12:25:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Apr 15, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0358 AM CDT Tue Apr 15 2025
+
+Valid 181200Z - 231200Z
+
+...DISCUSSION...
+An active severe weather pattern expected through at least this
+weekend, before predictability diminishes early next week.
+
+...D4/Friday...
+Guidance remains consistent with a broad swath of strong mid-level
+southwesterlies from the southern High Plains to the Great Lakes,
+downstream of a longwave trough from northern ON to the Lower CO
+Valley. This will overlap a similarly oriented surface front. In
+response to increasing mid-level height falls, a surface cyclone
+should track across the central Great Lakes portion of the
+baroclinic zone during the day. Afternoon severe may be focused in
+this region with stronger low-level shear. Parts of this region may
+warrant higher probabilities in later outlooks.
+
+Farther southwest, a pronounced EML may delay the bulk of storm
+development along the front until evening. But given the strong
+deep-layer shear and moderate buoyancy, scattered severe storms
+appear possible. 
+
+...D5/Saturday...
+Amplification of an embedded northern-stream shortwave impulse over
+ON/QC should sustain an expansive swath of strong mid-level flow
+from the OH Valley northeastward. The northeast extent of
+appreciable instability overlapping with this regime becomes
+nebulous east of the Appalachians, but scattered severe storms seem
+possible from the Cumberland Plateau into the Mid-South on Saturday
+afternoon to evening.
+
+Over the southern Great Plains, lingering convection Saturday
+morning renders uncertainty along the largely stalling baroclinic
+zone that will undoubtedly be modified by convective outflow. But
+with greater consistency in guidance handling the pivot of the basal
+shortwave impulse across the Southwest, multiple rounds of strong to
+severe convection are plausible through Saturday night. 
+
+...D6/Sunday...
+Predictability lessens by this period with the evolution of compact
+shortwave trough ejecting onto the southern Great Plains. This
+yields substantial spread in the attendant synoptic cyclone. In
+addition, potentially extensive ongoing convection Sunday morning
+further lessens confidence in mesoscale details. But a belt of
+potentially very strong mid-level southwesterlies overlapping rich
+western Gulf moisture supports inclusion of a severe-area highlight
+in the South-Central States.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -592,18 +683,6 @@ gusty outflow winds of 40-50 mph.
 
 ---
 
-## SPC - No watches are valid as of Mon Apr 14 12:54:01 UTC 2025
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Apr 14 12:54:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
 ## SPC Apr 14, 2025 1300 UTC Day 1 Convective Outlook
 
 date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -673,79 +752,4 @@ through the mixed layer favor gusty outflow winds of 40-50 mph.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No MDs are in effect as of Mon Apr 14 12:54:01 UTC 2025
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Apr 14 12:54:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Apr 14, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0350 AM CDT Mon Apr 14 2025
-
-Valid 171200Z - 221200Z
-
-...DISCUSSION...
-Active severe weather pattern expected late week into the weekend.
-
-...D4/Thursday...
-A longwave trough should become clearly anchored over the West and
-consist of multiple embedded shortwave impulses. Peak surface
-cyclone amplitude is largely progged over western KS on Thursday
-afternoon, with a dryline arcing across eastern KS into the southern
-Great Plains. Another day of modifying moisture return northward
-from the western Gulf should yield at least moderate buoyancy ahead
-of the dryline. A strengthening low-level jet should support
-thunderstorm development across the Lower MO to Mid-MS Valleys on
-Thursday evening. Supercell wind profiles support potentially
-scattered severe storms.
-
-...D5/Friday...
-A broad swath of strong mid-level southwesterlies appears likely
-to become established from the southern High Plains to the Great
-Lakes, downstream of a longwave trough from James Bay to the Lower
-CO Valley. While the deep cyclone over the KS vicinity will weaken,
-it should move towards the central Great Lakes. From along/ahead of
-its track to the trailing cold front arcing southwestward into west
-TX, extensive thunderstorm development is anticipated Friday
-afternoon/evening. Given the strong mid-level flow regime, scattered
-severe storms are possible across an elongated corridor.
-
-...D6-7/Saturday-Sunday...
-Predictability for a 15 percent highlight remains too low during the
-weekend, but areas will probably be needed in later outlooks.
-Guidance has trended neutral to slightly weaker/more confined
-potential on Saturday. Overall signal persists of bimodal primary
-threat areas across the Lower Mid-Atlantic States and southern
-High/Great Plains. For the former, the degree of instability and
-position of a southeast-moving cold front on the periphery of
-stronger zonal mid-level flow remain key uncertainty factors. For
-the latter, timing of the pivot and eastward ejection of the compact
-Lower CO Valley shortwave impulse across the Southwest/southern
-Rockies remains crucial. Guidance has shown poor run-to-run
-continuity for Sunday, yielding low confidence on spatial details of
-the severe threat. Across both regimes and days, NSSL GEFS ML sub-15
-percent probabilities appear quite reasonable.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 

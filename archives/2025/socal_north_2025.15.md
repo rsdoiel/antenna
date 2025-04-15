@@ -1,11 +1,98 @@
 ---
 title: socal north
-updated: 2025-04-14 14:07:42
+updated: 2025-04-15 06:08:21
 ---
 
 # socal north
 
-(date: 2025-04-14 14:07:42)
+(date: 2025-04-15 06:08:21)
+
+---
+
+## LA County budget proposal reflects wildfire effects, landmark sex abuse settlement, federal funding losses
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+The $47.9 billion budget plan for the fiscal year that starts July 1 reflects “extraordinary budget pressures” facing the county, according to a statement from the CEO’s office. 
+
+<br> 
+
+<https://laist.com/news/politics/proposed-la-county-budget-wildfires-sex-abuse-settlement-federal-funding-losses>
+
+---
+
+## Slow and steady cooldown for SoCal
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+Patchy drizzle early in SoCal. Highs Tuesday in the high 60s. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cooler-temps-come-to-socal>
+
+---
+
+## Lack of political will and poor coordination hamper LA goal to eliminate traffic deaths, audit finds
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+When Los Angeles established Vision Zero in 2015, the goal was to eliminate traffic deaths by this year. Instead, fatalities in L.A. grew faster than the national average. 
+
+<br> 
+
+<https://laist.com/news/transportation/lack-of-political-will-and-poor-coordination-hamper-la-goal-to-eliminate-traffic-deaths-audit-finds>
+
+---
+
+## After Homeland Security agents visit 2 LAUSD schools, members of Congress demand answers
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+California’s senators and 18 Congressional representatives are asking Department of Homeland Security for an explanation after agents visited two L.A. schools last week. 
+
+<br> 
+
+<https://laist.com/news/education/california-represenatives-senators-house-democrats-kristi-noem-department-homeland-security>
+
+---
+
+## Help shape LA County's new homelessness department
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+Officials are asking what qualifications you think the department's leader should have. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-new-homelessness-department-survey>
+
+---
+
+## After 15 months, construction is finished on Long Beach Airport’s revamped drop-off zone
+
+date: 2025-04-14, from: Longbeach Post
+
+<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-768x467.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-178x108.jpg 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-400x243.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Traffic should ease at the airport — with six pick-up and drop-off lanes instead of four.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/long-beach-airport-construction-finished-drop-off-zone">After 15 months, construction is finished on Long Beach Airport&#8217;s revamped drop-off zone</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/long-beach-airport-construction-finished-drop-off-zone>
+
+---
+
+## Meta and the FTC face off in court over monopoly claims
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+Dozens of witnesses are set to take the stand in the trial, including CEO Mark Zuckerberg, who is scheduled to testify for seven hours. The outcome could reshape the future of Meta. 
+
+<br> 
+
+<https://laist.com/news/meta-and-the-ftc-face-off-in-court-over-monopoly-claims>
 
 ---
 
@@ -25,7 +112,7 @@ Irvine voters head to the poll as 2025 is poised to be a year of change for the 
 
 date: 2025-04-14, from: Longbeach Post
 
-<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg 900w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-450x300.jpg 450w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application.jpg 900w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/2015/08/10172803/job-fair-application-450x300.jpg 450w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Participating employers include the LBPD, LBFD, Long Beach Human Resources Department, Long Beach Civil Service Department and private security company Allied Universal.</p>
 <p>The post <a href="https://lbpost.com/news/city-to-host-veterans-job-fair-on-thursday">City to host veterans job fair on Thursday</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -88,7 +175,7 @@ Shaking was felt as far away as Los Angeles. Light damage is possible.
 
 date: 2025-04-14, from: Longbeach Post
 
-<figure><img width="1024" height="631" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-300x185.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-768x473.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-175x108.png 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1200x740.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-400x247.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp.png 1262w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="631" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1024x631.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-300x185.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-768x473.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-175x108.png 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-1200x740.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp-400x247.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14101646/screenshot-2025-04-14-at-101608am-730709-g2uymy1d-629226-yIIbD3Zp.png 1262w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The U.S. Geological Survey reported shaking was felt as far north as Downtown Los Angeles.</p>
 <p>The post <a href="https://lbpost.com/news/5-2-earthquake-centered-near-san-diego-rattles-socal">5.2 earthquake centered near San Diego rattles SoCal</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -135,6 +222,18 @@ The California DMV routinely allows dangerous drivers with horrifying histories 
 
 ---
 
+## What happened to all the clothing donated during the LA wildfires?
+
+date: 2025-04-14, updated: 2025-04-14, from: The LAist
+
+Due to the sheer volume and different needs of fire victims, a lot of it ended up either in landfills or being shipped abroad. 
+
+<br> 
+
+<https://laist.com/news/what-happened-to-all-the-clothing-donated-during-the-la-wildfires>
+
+---
+
 ## Trump’s trade war could upend California’s EV agenda
 
 date: 2025-04-14, updated: 2025-04-14, from: The LAist
@@ -168,18 +267,6 @@ Most eligible property owners have opted in.
 <br> 
 
 <https://laist.com/news/climate-environment/deadline-eaton-fire-palisades-government-debris-removal>
-
----
-
-## What happened to all the clothing donated during the LA wildfires?
-
-date: 2025-04-14, updated: 2025-04-14, from: The LAist
-
-Due to the sheer volume and different needs of fire victims, a lot of it ended up either in landfills or being shipped abroad. 
-
-<br> 
-
-<https://laist.com/news/what-happened-to-all-the-clothing-donated-during-the-la-wildfires>
 
 ---
 

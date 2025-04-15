@@ -1,11 +1,629 @@
 ---
 title: pacific
-updated: 2025-04-14 14:07:42
+updated: 2025-04-15 06:08:21
 ---
 
 # pacific
 
-(date: 2025-04-14 14:07:42)
+(date: 2025-04-15 06:08:21)
+
+---
+
+## Fatal car fire under investigation
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a fatal vehicle fire that occurred Sunday afternoon in the Hawaii Ocean View Estate subdivision.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/hawaii-news/fatal-car-fire-under-investigation/>
+
+---
+
+## El Salvador’s leader says he won’t return wrongly deported Maryland man
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In an Oval Office meeting with President Donald Trump on Monday, President Nayib Bukele of El Salvador said that he would not return a Maryland man who was wrongly deported from the United States and sent to a notorious Salvadoran prison.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/el-salvadors-leader-says-he-wont-return-wrongly-deported-maryland-man/>
+
+---
+
+## Trump administration memo proposes cutting State Department funding by nearly half
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration could cut nearly 50% of the State Department&#8217;s funding next fiscal year, according to an internal memo laying out a downsizing plan being given serious consideration by department leaders, said two U.S. officials. The plan was drawn up as the White House pressures agencies to make significant budget cuts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/trump-administration-memo-proposes-cutting-state-department-funding-by-nearly-half/>
+
+---
+
+## New Emergency Call Center dedicated
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County held a blessing and dedication ceremony Monday for the new Emergency Call Center in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/hawaii-news/new-emergency-call-center-dedicated/>
+
+---
+
+## Councilwomen to hold public meeting regarding hosted vacation rentals
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>A pair of Hawaii County Council members are hosting an informational briefing via Zoom about proposed legislation to establish a registration process for hosted transient vacation rentals, or TVRs, on the Big Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/hawaii-news/councilwomen-to-hold-public-meeting-regarding-hosted-vacation-rentals/>
+
+---
+
+## Harvard says it will not comply with Trump administration’s demands
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>Harvard University said Monday that it had rejected policy changes requested by the Trump administration, becoming the first university to directly refuse to comply with the administration&#8217;s demands and setting up a showdown between the federal government and the nation&#8217;s wealthiest university.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/harvard-says-it-will-not-comply-with-trump-administrations-demands/>
+
+---
+
+## Mark Zuckerberg, serial witness, takes the hot seat again
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Seven years ago, Mark Zuckerberg, the CEO of Meta, testified for the first time in Congress. After a two-week boot camp by his lawyers to prep him, he answered questions in three back-to-back-to-back hearings over two days in a baptism by fire.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/mark-zuckerberg-serial-witness-takes-the-hot-seat-again/>
+
+---
+
+## News in brief for April 15
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>WH to ask Congress to claw &#0010;back funding from NPR and PBS</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/news-in-brief-for-april-15/>
+
+---
+
+## Federal workforce prepares for another round of mass firings as deadline nears
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal agencies are facing a deadline Monday to present their plans for another round of mass firings, the next step in the Trump administration&#8217;s drive to shrink the government that figures to further reshape a civil service that has endured tens of thousands of departures.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/federal-workforce-prepares-for-another-round-of-mass-firings-as-deadline-nears/>
+
+---
+
+## Suspect in Pennsylvania governor’s mansion fire harbored hatred for Shapiro
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>The suspect in a weekend arson attack on Pennsylvania Governor Josh Shapiro&#8217;s official residence said he &#8220;harbored hatred&#8221; against the Democrat and would have beaten him with a hammer if he had encountered the governor inside the mansion.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/suspect-in-pennsylvania-governors-mansion-fire-harbored-hatred-for-shapiro/>
+
+---
+
+## Bessent says White House will start interviewing candidates for next Fed chair this fall
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Treasury Secretary Scott Bessent on Monday said the White House will start interviewing candidates this fall to succeed Federal Reserve Chair Jerome Powell, whose term ends in May 2026.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/bessent-says-white-house-will-start-interviewing-candidates-for-next-fed-chair-this-fall/>
+
+---
+
+## How might the World Health Organization fight future pandemics?
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; Member states of the World Health Organization hope to soon complete more than three years of negotiations on new rules for responding to pandemics when they resume talks in Geneva, after the COVID-19 pandemic killed millions in 2020-22.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/how-might-the-world-health-organization-fight-future-pandemics/>
+
+---
+
+## Blue Origin crew including Gayle King and Katy Perry returns safely after space launch
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>Broadcast journalist Gayle King and singer Katy Perry made a brief trip into space on Monday on a flight operated by Jeff Bezos&#8217; private company, Blue Origin. It was the first time an all-female crew had been to space since 1963.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/blue-origin-crew-including-gayle-king-and-katy-perry-returns-safely-after-space-launch/>
+
+---
+
+## Orban escalates culture war in Hungary by mandating two genders only
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>Emboldened by President Donald Trump, Prime Minister Viktor Orban of Hungary on Monday escalated his culture war against what he calls &#8220;gender madness,&#8221; after his governing party voted to amend the constitution to mandate that all Hungarians are either male or female.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/orban-escalates-culture-war-in-hungary-by-mandating-two-genders-only/>
+
+---
+
+## Sweet Spiced Lamb Chops with New Potatoes and Green Beans
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>With the holiday weekend approaching, I thought a simple lamb dish would be perfect. Or, really, for any time you&#8217;re looking for a special, quick dinner. Hot honey gives a sweet taste with a little kick that adds a zesty flavor to the lamb. Honey infused with some chilis has become a popular condiment for many savory dishes, pastries and even cocktails.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/features/sweet-spiced-lamb-chops-with-new-potatoes-and-green-beans/>
+
+---
+
+## Let’s Talk Food: Easter is this Sunday
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>Easter Sunday is a holy day as it celebrates the resurrection of Jesus. There are many dishes served on Easter Sunday, such as eggs, hard-cooked and usually dyed or decorated. After the egg fight, those eggs are either turned into deviled eggs or egg salad for sandwiches. But these days, with the price of eggs, we might not find it as one of the traditional dishes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/features/lets-talk-food-easter-is-this-sunday-2/>
+
+---
+
+## Antoni Gaudí was a venerated architect. Now he may become a saint.
+
+date: 2025-04-15, from: Hawaii Tribune Harold
+
+
+				<p>ROME &#8212; Pope Francis on Monday placed Antoni Gaud&#0237;, the Catalan modernist once called &#8220;God&#8217;s architect&#8221; for his work on the Sagrada Familia, Barcelona&#8217;s world-famous basilica, on the path to sainthood.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/15/nation-world-news/antoni-gaudi-was-a-venerated-architect-now-he-may-become-a-saint/>
+
+---
+
+## Palau highlights need for Autism Awareness as more locals are diagnosed
+
+date: 2025-04-15, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?w=1260&amp;ssl=1 1260w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76816" data-permalink="https://islandtimes.org/palau-highlights-need-for-autism-awareness-as-more-locals-are-diagnosed/attachment/1000007980/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1260%2C709&amp;ssl=1" data-orig-size="1260,709" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744394224&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000007980" data-image-description="" data-image-caption="&lt;p&gt;Families and community members hold up signs in a month-long campaign to raise autism awareness).&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>KOROR, Palau — President Surangel S. Whipps Jr. has declared April as National Autism Awareness Month, calling on the people of Palau to learn more about autism and support families and individuals living with it. In his official proclamation, President Whipps said that raising awareness is especially important as more Palauan children are being diagnosed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-highlights-need-for-autism-awareness-as-more-locals-are-diagnosed/">Palau highlights need for Autism Awareness as more locals are diagnosed</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-highlights-need-for-autism-awareness-as-more-locals-are-diagnosed/>
+
+---
+
+## U.S. Tariff policies rattle Global Markets, triggering steep losses in Palau’s trust funds
+
+date: 2025-04-15, from: Island Times
+
+<p>KOROR, Palau — Palau’s government trust funds have suffered major losses in the current fiscal year, largely attributed to the global ripple effects of recent U.S. tariff policies that have unsettled financial markets worldwide. The most striking impact has been on the Compact of Free Association (COFA) Trust Fund, which saw its value fall by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-tariff-policies-rattle-global-markets-triggering-steep-losses-in-palaus-trust-funds/">U.S. Tariff policies rattle Global Markets, triggering steep losses in Palau’s trust funds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-tariff-policies-rattle-global-markets-triggering-steep-losses-in-palaus-trust-funds/>
+
+---
+
+## Lawmakers push to Clarify Executive branch structure in New Bill
+
+date: 2025-04-15, from: Island Times
+
+<figure><img width="768" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?w=768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="22673" data-permalink="https://islandtimes.org/housing-loan-bill-clears-both-houses-of-oek/45000690_1089349967899028_176353547607080960_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" data-orig-size="768,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="OEK" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" /></figure>
+<p>KOROR, Palau — The Olbiil Era Kelulau (OEK) has introduced a bill aimed at codifying the structure of the Executive Branch and clarifying the roles and appointment processes of key national officers, citing the need for clear lines of authority and a stronger adherence to the constitutional separation of powers. Senate Bill No. 12-24, introduced [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lawmakers-push-to-clarify-executive-branch-structure-in-new-bill/">Lawmakers push to Clarify Executive branch structure in New Bill</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/lawmakers-push-to-clarify-executive-branch-structure-in-new-bill/>
+
+---
+
+## Whipps Seeks Supplemental Budget for Mini-Games, Utilities, and Social Aid
+
+date: 2025-04-15, from: Island Times
+
+<figure><img width="497" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?w=497&amp;ssl=1 497w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71308" data-permalink="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/surangel_whipps_jr-_at_japan-palau_summit_september_2022/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" data-orig-size="497,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1662694309&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;109&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=214%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" /></figure>
+<p>President Surangel Whipps Jr. has submitted a supplemental budget bill to the Olbiil Era Kelulau (OEK), requesting nearly $1.2 million in new funding and seeking appropriation of funds previously authorized—but not appropriated—under the Fiscal Year 2025 Unified Budget. The proposal, submitted April 4 and now under review by the Senate Ways and Means Committee, coincides [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-seeks-supplemental-budget-for-mini-games-utilities-and-social-aid/">Whipps Seeks Supplemental Budget for Mini-Games, Utilities, and Social Aid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-seeks-supplemental-budget-for-mini-games-utilities-and-social-aid/>
+
+---
+
+## Central Pacific has the highest comorbidity rates in the world- ADB report
+
+date: 2025-04-15, from: Island Times
+
+<p>According to the latest Asian Development Bank Economic Outlook for Asia and the Pacific, Pacific countries have the highest comorbidity rates in the world. The report stated that the Central Pacific region has a high rate of non-communicable diseases (NCDs) and obesity, “primarily due to the heavy use of tobacco and the consumption of processed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/central-pacific-has-the-highest-comorbidity-rates-in-the-world-adb-report/">Central Pacific has the highest comorbidity rates in the world- ADB report  </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/central-pacific-has-the-highest-comorbidity-rates-in-the-world-adb-report/>
+
+---
+
+## Visa-Free Travel to New Zealand for Palau and Pacific Visitors
+
+date: 2025-04-15, from: Island Times
+
+<p>Starting in November 2025, passport holders from Palau and other Pacific Islands Forum countries will be able to travel to New Zealand from Australia without needing a visa.&#160; This initiative will be trialed for 12 months. According to an announcement on the New Zealand Immigration website, anyone holding a passport from a Pacific Islands Forum [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/visa-free-travel-to-new-zealand-for-palau-and-pacific-visitors/">Visa-Free Travel to New Zealand for Palau and Pacific Visitors </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/visa-free-travel-to-new-zealand-for-palau-and-pacific-visitors/>
+
+---
+
+## Palau urges Australia to do more to curb emissions
+
+date: 2025-04-15, from: Island Times
+
+<p>Palau is grateful for Australia&#8217;s partnership with the island nation on various regional issues, including climate change and renewable energy, but it urges Australia to do more to curb global emissions. President Whipps was in Sydney last week to promote smart energy initiatives and support Australia’s bid to host COP 31. “Pacific nations remain determined [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-urges-australia-to-do-more-to-curb-emissions/">Palau urges Australia to do more to curb emissions </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-urges-australia-to-do-more-to-curb-emissions/>
+
+---
+
+## Earth Day Committee launches events to engage with students and community members across Palau
+
+date: 2025-04-15, from: Island Times
+
+<figure><img width="1024" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1024%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=1024%2C696&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=768%2C522&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=1200%2C816&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=780%2C530&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=400%2C272&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=706%2C480&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1024%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76782" data-permalink="https://islandtimes.org/earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/photo_earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1249%2C849&amp;ssl=1" data-orig-size="1249,849" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Earth Day Committee launches events to engage with students and community members across Palau" data-image-description="" data-image-caption="&lt;p&gt;His Excellency, President Surangel Whipps Jr signing Proclamation No. 25-392 “Declaring the Month of April 2025 as National Earth Month for the Republic of Palau.”&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=300%2C204&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=780%2C530&amp;ssl=1" /></figure>
+<p>&#160;April 22nd, 2025 will mark the 55th anniversary of Global Earth Day. Every year, over one billion people across the planet observe Earth Day on and around that date. In Palau, the Earth Day Committee has been meeting regularly to plan events and activities. Last month, His Excellency, President Surangel Whipps Jr signed Proclamation No. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/">Earth Day Committee launches events to engage with students and community members across Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/>
+
+---
+
+## PRCS  to open First-Ever Thrift Store in Airai
+
+date: 2025-04-15, from: Island Times
+
+<figure><img width="1" height="1" src="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76778" data-permalink="https://islandtimes.org/prcs-to-open-first-ever-thrift-store-in-airai/prcs-thrift-store-grand-opening-april-18/" data-orig-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="PRCS &#8211; THRIFT STORE GRAND OPENING (April 18)" data-image-description="" data-image-caption="" data-medium-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" data-large-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" /></figure>
+<p>The Palau Red Cross Society (PRCS) is thrilled to announce the grand opening of its very first thrift store, happening on Friday, April 18, 2025 from 10AM to 3PM! The new store will be located at the Emergency Relief Supplies Storage Warehouse &#38; Training Center just past the National Emergency Management Office (NEMO). Doors will [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/prcs-to-open-first-ever-thrift-store-in-airai/">PRCS  to open First-Ever Thrift Store in Airai</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/prcs-to-open-first-ever-thrift-store-in-airai/>
+
+---
+
+## Unsolicited Advice
+
+date: 2025-04-15, from: Island Times
+
+<p>Unsolicited advise is always self serving. ~Amy Dickenson Unsolicited advise is always a branch extended from gossip. Engaging in a meaningless conversation involving unsolicited advice is not a good way to redeem time. The Bible says to the Church, My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/unsolicited-advice/">Unsolicited Advice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/unsolicited-advice/>
+
+---
+
+## FSM launches Smart Island digital hub in Tonoas, Chuuk
+
+date: 2025-04-15, from: Island Times
+
+<p>TONOAS (PACIFIC ISLAND TIMES) &#8212; The Federated States of Micronesia has launched the Smart Island Digital Hub in Tonoas, Chuuk, providing residents with access to high-speed internet. “This Smart Island initiative is a symbol of what’s possible when technology, community, and partnership come together,” FSM President Wesley W. Simina said during the launch on 08 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fsm-launches-smart-island-digital-hub-in-tonoas-chuuk/">FSM launches Smart Island digital hub in Tonoas, Chuuk</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/fsm-launches-smart-island-digital-hub-in-tonoas-chuuk/>
+
+---
+
+## Taiwan charges Chinese ship captain with damaging undersea cables for the first time
+
+date: 2025-04-15, from: Island Times
+
+<p>In short: (ABC-Australia) Taiwan has charged a Chinese ship captain with intentionally damaging undersea cables off the island in February. Prosecutors say the man was captain of the Chinese-crewed but Togolese-registered ship Hong Tai 58, which is accused of damaging a cable with its anchor. It is the first time Taiwan has prosecuted over damaging [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-charges-chinese-ship-captain-with-damaging-undersea-cables-for-the-first-time/">Taiwan charges Chinese ship captain with damaging undersea cables for the first time</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-charges-chinese-ship-captain-with-damaging-undersea-cables-for-the-first-time/>
+
+---
+
+## Palau, escaping Trump tariffs, says strong U.S good for Pacific03
+
+date: 2025-04-15, from: Island Times
+
+<p>SYDNEY (REUTERS)&#8212;-The president of the tiny Pacific Islands nation of Palau, one of the few countries to escape U.S. tariffs, said he remains &#8220;positive&#8221; the Trump Administration will keep a strong focus on the region and not permanently retreat. Palau, with a population of 17,000, has a compact of free association with the United States [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-escaping-trump-tariffs-says-strong-u-s-good-for-pacific03/">Palau, escaping Trump tariffs, says strong U.S good for Pacific03</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-escaping-trump-tariffs-says-strong-u-s-good-for-pacific03/>
+
+---
+
+## UN ocean conference to highlight high seas treaty
+
+date: 2025-04-15, from: Island Times
+
+<p>SUVA (FBC NEWS) &#8212; Advancing the Biodiversity Beyond National Jurisdiction agreement will be a major focus at the upcoming United Nations Ocean Conference, set to take place in Nice, France this June. Ambassador of the European Union to the Pacific, Barbara Plinkert, says the agreement aims to strengthen international efforts in protecting ocean biodiversity and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-ocean-conference-to-highlight-high-seas-treaty/">UN ocean conference to highlight high seas treaty</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/un-ocean-conference-to-highlight-high-seas-treaty/>
+
+---
+
+## FFA Members push for digital shift in fisheries surveillance: MCSWG28 Outcomes
+
+date: 2025-04-15, from: Island Times
+
+<p>HONIARA (FFA)&#8212; The Pacific Islands Forum Fisheries Agency (FFA) concluded its 28th Monitoring, Control and Surveillance Working Group (MCSWG28) meeting at its headquarters in Honiara, marking a significant milestone in advancing digital tools and regional cooperation to protect the Pacific&#8217;s fisheries. The weeklong meeting, from 31 March – 04 April, brought together over 115 representatives [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ffa-members-push-for-digital-shift-in-fisheries-surveillance-mcswg28-outcomes/">FFA Members push for digital shift in fisheries surveillance: MCSWG28 Outcomes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ffa-members-push-for-digital-shift-in-fisheries-surveillance-mcswg28-outcomes/>
+
+---
+
+## Yap court seeks to test bar candidates’ knowledge of customary laws
+
+date: 2025-04-15, from: Island Times
+
+<p>YAP (PACIFIC ISLAND TIMES) &#8212; The Yap State Court has proposed requiring bar candidates to pass a general exam on Yapese traditional and customary laws as a prerequisite to practicing law in the state. The yet-to-be-developed exam on cultural laws would supplement the Federated States of Micronesia’s regular bar exam for lawyers seeking to join [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/yap-court-seeks-to-test-bar-candidates-knowledge-of-customary-laws/">Yap court seeks to test bar candidates&#8217; knowledge of customary laws</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/yap-court-seeks-to-test-bar-candidates-knowledge-of-customary-laws/>
+
+---
+
+## Tariffs war halts US beef exports to China as Australia fills the gap
+
+date: 2025-04-15, from: Island Times
+
+<p> By Matt Brann In short: (ABC-Australia) The United States&#8217;s $2.5 billion beef trade to China has come to a halt. Australia&#8217;s cattle industry is enjoying a surge in demand from China for grain-fed beef. There are warnings short-term gains for Australian beef in China could be lost if its economy slows. About 300 abattoirs in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tariffs-war-halts-us-beef-exports-to-china-as-australia-fills-the-gap/">Tariffs war halts US beef exports to China as Australia fills the gap</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tariffs-war-halts-us-beef-exports-to-china-as-australia-fills-the-gap/>
+
+---
+
+## US exempts smartphones, computers and other electronics from Donald Trump’s reciprocal tariffs
+
+date: 2025-04-15, from: Island Times
+
+<p>In short: (ABC-Australia) The Trump administration has exempted smartphones, computers and other electronics from its &#8220;reciprocal&#8221; tariffs. Semiconductors have also been excluded from a &#8220;baseline&#8221; 10 per cent tariff on most US trading partners. China, which is currently subject to an additional 145 per cent tariff implemented by the US government, has vowed to &#8220;fight [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-exempts-smartphones-computers-and-other-electronics-from-donald-trumps-reciprocal-tariffs/">US exempts smartphones, computers and other electronics from Donald Trump&#8217;s reciprocal tariffs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/us-exempts-smartphones-computers-and-other-electronics-from-donald-trumps-reciprocal-tariffs/>
+
+---
+
+## Senate Bill seeks to Ease Bonding Burden on local construction firms
+
+date: 2025-04-15, from: Island Times
+
+<p>KOROR, Palau — A new bill introduced in the Olbiil Era Kelulau aims to amend bonding requirements for government construction projects, a move that could significantly benefit Palauan-owned construction companies. Senate Bill No. 12-22 proposes to lower the mandatory bonding thresholds for local enterprises bidding on government contracts. Under current law, all bidders are required [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-bill-seeks-to-ease-bonding-burden-on-local-construction-firms/">Senate Bill seeks to Ease Bonding Burden on local construction firms</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-bill-seeks-to-ease-bonding-burden-on-local-construction-firms/>
+
+---
+
+## Workshop on Sustainable Seawater Utilisation commences at USP
+
+date: 2025-04-15, from: University of the South Pacific (Fiji)
+
+<p>A four-day workshop on Sustainable Seawater Utilisation began yesterday at the Discipline of Engineering’s Projects...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/workshop-on-sustainable-seawater-utilisation-commences-at-usp/">Workshop on Sustainable Seawater Utilisation commences at USP</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/workshop-on-sustainable-seawater-utilisation-commences-at-usp/>
+
+---
+
+## USP students’ part of Historic CEDAW Session in the Pacific
+
+date: 2025-04-15, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) students were fortunate to be part of the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-students-part-of-historic-cedaw-session-in-the-pacific/">USP students’ part of Historic CEDAW Session in the Pacific</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-students-part-of-historic-cedaw-session-in-the-pacific/>
+
+---
+
+## ‘A Taste of Hilo’ serves up $10K for Hawaiʻi CC culinary program
+
+date: 2025-04-15, from: University of Hawaiʻi News
+
+<p>$10K, 20 scholars, one tasty tradition.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/a-taste-of-hilo-serves-up-10k/">‘A Taste of Hilo’ serves up $10K for Hawaiʻi <abbr>CC</abbr> culinary program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/a-taste-of-hilo-serves-up-10k/>
+
+---
+
+## From Kapiʻolani CC to UH Mānoa: students chart futures at transfer fair
+
+date: 2025-04-15, from: University of Hawaiʻi News
+
+<p>Transfer pathways and student success take center stage at <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr>’s Huli&#257;mahi Fair.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/kapiolani-cc-huliamahi-transfer-fair/">From Kapiʻolani <abbr>CC</abbr> to <abbr>UH</abbr> Mānoa: students chart futures at transfer fair</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/kapiolani-cc-huliamahi-transfer-fair/>
+
+---
+
+## UH Maui College connects students with local, national IT employers
+
+date: 2025-04-15, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College is bringing students face-to-face with top <abbr>IT</abbr> employers in a hands-on networking event designed to launch tech careers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/uh-maui-college-it-career-fair/"><abbr>UH</abbr> Maui College connects students with local, national <abbr>IT</abbr> employers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/uh-maui-college-it-career-fair/>
+
+---
+
+## From UH to the world stage: Forsberg officiates at basketball’s highest levels
+
+date: 2025-04-15, from: University of Hawaiʻi News
+
+<p>Her time on the <abbr>UH</abbr> team was among the most successful stretches in program history, going 82-31 in four years.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/forsberg-officiates-at-basketballs-highest-levels/">From <abbr>UH</abbr> to the world stage: Forsberg officiates at basketball’s highest levels</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/forsberg-officiates-at-basketballs-highest-levels/>
+
+---
+
+## Onizuka Day draws thousands to UH West Oʻahu
+
+date: 2025-04-14, from: University of Hawaiʻi News
+
+<p>Hands-on <abbr>STEM</abbr> fun and cultural exhibits at <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> honored astronaut Ellison Onizuka.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/onizuka-day-2025/">Onizuka Day draws thousands to <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/onizuka-day-2025/>
+
+---
+
+## From softball star to HR power house, Shannon Lum covers her bases
+
+date: 2025-04-14, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> alumna Shannon Lum knocks it out of the park.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/14/uh-alumni-shannon-lum/">From softball star to <abbr>HR</abbr> power house, Shannon Lum covers her bases</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/14/uh-alumni-shannon-lum/>
 
 ---
 
@@ -70,6 +688,66 @@ by Timothy Pilgrim We’re making the bed after the night of failure not that it
 <br> 
 
 <https://hawaiipacificreview.org/2025/04/14/fitted-sheet/>
+
+---
+
+## March tourist arrivals down 27%
+
+date: 2025-04-14, updated: 2025-04-15, from: Marianas Variety
+
+(MVA) — The Marianas Visitors Authority reports that visitor arrivals to Saipan, Tinian, and Rota totaled 13,981 in March 2025, a 27% decrease compared to 19,213 visitors received in March 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/march-tourist-arrivals-down-27/article_a27e0f9a-e29c-437b-b167-bd7e41491e19.html>
+
+---
+
+## HANMI says March occupancy down 34.9%
+
+date: 2025-04-14, updated: 2025-04-15, from: Marianas Variety
+
+(HANMI) — The Hotel Association of the Northern Mariana Islands reported 28.57% average occupancy rate among 11 member hotels for March 2025, 18% lower than 34.98% in March 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hanmi-says-march-occupancy-down-34-9/article_a363bea6-91c6-49f2-af8e-74d903135c7d.html>
+
+---
+
+## Trump is in excellent health, high cholesterol controlled, White House doctor says
+
+date: 2025-04-14, updated: 2025-04-15, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump remains in excellent health and his high cholesterol is "well controlled," White House physician U.S. Navy Captain Sean Barbella said in a report released on Sunday, two days after Trump underwent a routine physical. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-is-in-excellent-health-high-cholesterol-controlled-white-house-doctor-says/article_3cb7c212-55d1-4de0-99b1-2c62e4035319.html>
+
+---
+
+## Governor vetoes Tinian online gaming bill
+
+date: 2025-04-14, updated: 2025-04-15, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Friday vetoed Senate Local Bill 24-1, which would allow internet gaming on Tinian and create a “Tinian stable token.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-vetoes-tinian-online-gaming-bill/article_8d52485d-a402-4c85-9771-70e32f235794.html>
+
+---
+
+## Two members of K-pop group Blackpink go solo at Coachella festival
+
+date: 2025-04-14, updated: 2025-04-15, from: Marianas Variety
+
+INDIO, California (Reuters) — Lisa and Jennie of the Korean pop music group Blackpink performed for the first time as solo artists in front of massive crowds at the Coachella Valley Music and Arts Festival on Friday and Sunday, bringing out their unique hip-hop styles. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/two-members-of-k-pop-group-blackpink-go-solo-at-coachella-festival/article_f27d2541-a94d-4e35-b46d-bde3f83b9ca0.html>
 
 ---
 

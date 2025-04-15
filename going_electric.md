@@ -1,11 +1,119 @@
 ---
 title: going electric
-updated: 2025-04-14 14:07:48
+updated: 2025-04-15 06:08:28
 ---
 
 # going electric
 
-(date: 2025-04-14 14:07:48)
+(date: 2025-04-15 06:08:28)
+
+---
+
+## Trump Might Kill 25% Tariff On Auto Parts. Automakers Aren't Holding Their Breath
+
+date: 2025-04-15, from: Inside EVs News
+
+Plus, Xpeng breaks up with Nvidia and Tesla insurance rates are skyrocketing. 
+
+<br> 
+
+<https://insideevs.com/news/756586/trump-auto-parts-tariff-break/>
+
+---
+
+## Those reporting BYD overtook Tesla as top global electric vehicle maker are wrong
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/road-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the past few weeks, major news outlets <a href="https://www.cnn.com/2025/04/13/business/video/byd-tesla-china-us-tariffs-marc-stewart-digvid">have reported</a> that Chinese automotive giant BYD has overtaken Tesla as the world’s largest seller of electric vehicles. While it may be true that BYD has usurped Tesla to sell more electric vehicles or generate more revenue, the idea that either is the largest EV seller in the world completely ignores a company that sells more EVs each year than both Tesla and BYD combined.</p>
+
+
+
+<p>Those EVs just have half the wheels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="411342" href="https://electrek.co/2025/04/15/those-reporting-byd-overtook-tesla-as-top-global-electric-vehicle-maker-are-wrong/#more-411342" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/those-reporting-byd-overtook-tesla-as-top-global-electric-vehicle-maker-are-wrong/>
+
+---
+
+## Slate's $25,000 Electric Truck Will Be A 'Disruptor'
+
+date: 2025-04-15, from: Inside EVs News
+
+Newsweek got a look at the Jeff Bezos-backed EV startup, which could make "a radically simple solution to the common affordable car." 
+
+<br> 
+
+<https://insideevs.com/news/756678/slate-preview-newsweek-ev-truck/>
+
+---
+
+## The Dodge Charger EV Doesn’t Like It When You Slam The Hood. Here’s Why
+
+date: 2025-04-15, from: Inside EVs News
+
+Weirdly enough, Dodge has an official procedure for closing the hood the right way. 
+
+<br> 
+
+<https://insideevs.com/news/756625/dodge-charger-daytona-ev-hood-slam-latch-damage/>
+
+---
+
+## Idaho Power wants to cut solar pay rate to under 1¢ per kWh and charge 8¢ per kWh for electricity
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/pexels-photo-4254164.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Utility Idaho Power has asked the Idaho Public Utilities Commission (PUC) to drastically slash the rates it pays rooftop solar customers for excess energy. This move could severely impact <a href="https://electrek.co/guides/solar-power/" target="_blank" rel="noreferrer noopener">solar adoption</a> in Idaho just as electricity rates are climbing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="411408" href="https://electrek.co/2025/04/14/idaho-power-solar-pay-rate/#more-411408" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/14/idaho-power-solar-pay-rate/>
+
+---
+
+## Global EV sales jump 40% in March despite tariff turmoil
+
+date: 2025-04-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYD-Song-Plus-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Global EV sales surged to 1.7 million units in March, hitting 4.1 million for Q1 2025 as the EV market continues its robust growth, according to new data from EV research house <a href="https://rhomotion.com/" target="_blank" rel="noreferrer noopener">Rho Motion</a>. Year-over-year sales jumped 29% and marked an impressive 40% month-over-month leap from February.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,donald-trump,electric-vehicles,europe,ev-sales,evs,north-america,uk" data-layer-viewtype="unknown" data-post-id="411390" href="https://electrek.co/2025/04/14/global-ev-sales-march-2025/#more-411390" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/14/global-ev-sales-march-2025/>
+
+---
+
+## Tesla (TSLA) has to replace computer in ~4 million cars or compensate their owners
+
+date: 2025-04-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2019/11/Screen-Shot-2019-11-19-at-12.18.22-PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has to replace the ‘self-driving’ computer inside about 4 million vehicles or likely compensate the owners of those vehicles.</p>
+
+
+
+<p>The liability could be more significant than the largest automotive recall in terms of cost.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411389" href="https://electrek.co/2025/04/14/tesla-tsla-replace-computer-4-million-cars-or-compensate-their-owners/#more-411389" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/14/tesla-tsla-replace-computer-4-million-cars-or-compensate-their-owners/>
 
 ---
 

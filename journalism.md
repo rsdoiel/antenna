@@ -1,11 +1,132 @@
 ---
 title: journalism
-updated: 2025-04-14 14:07:45
+updated: 2025-04-15 06:08:25
 ---
 
 # journalism
 
-(date: 2025-04-14 14:07:45)
+(date: 2025-04-15 06:08:25)
+
+---
+
+## Kathleen McCarthy celebrates 90th birthday at Theta house
+
+date: 2025-04-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kathleen McCarthy has served on the Board of Trustees for 39 years and is chair of the Leavey Foundation.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/15/kathleen-mccarthy-celebrates-90-at-theta-house/">Kathleen McCarthy celebrates 90th birthday at Theta house</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/15/kathleen-mccarthy-celebrates-90-at-theta-house/>
+
+---
+
+## Nonprofit Indonesian concert brings harmony to the stage
+
+date: 2025-04-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Association of Indonesian Students at USC, in conjunction with Indonesian Student Association of LA, put on Harmoni LA, a charity music event. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/15/nonprofit-indonesian-concert-brings-harmony-to-the-stage/">Nonprofit Indonesian concert brings harmony to the stage</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/15/nonprofit-indonesian-concert-brings-harmony-to-the-stage/>
+
+---
+
+## Keck study finds drawbacks to calorie-free sweeteners
+
+date: 2025-04-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Researchers found sucralose can “trick” the brain to induce hunger.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/15/keck-study-finds-drawbacks-to-calorie-free-sweeteners/">Keck study finds drawbacks to calorie-free sweeteners</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/15/keck-study-finds-drawbacks-to-calorie-free-sweeteners/>
+
+---
+
+## Nintendo fans get first look at new console
+
+date: 2025-04-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Nintendo Switch 2 Experience took place at Television City over three days.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/15/nintendo-fans-get-first-look-at-new-console/">Nintendo fans get first look at new console</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/15/nintendo-fans-get-first-look-at-new-console/>
+
+---
+
+## Viterbi professor develops AI grading platform
+
+date: 2025-04-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The platform, Supaclass, follows rubrics to grade student assignments.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/15/viterbi-professor-develops-ai-grading-platform/">Viterbi professor develops AI grading platform</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/15/viterbi-professor-develops-ai-grading-platform/>
+
+---
+
+## I can’t help but love the music in my blood
+
+date: 2025-04-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>All kinds of genres and artists give color to my musical tastes.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/15/i-cant-help-but-love-the-music-in-my-blood/">I can&#8217;t help but love the music in my blood</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/15/i-cant-help-but-love-the-music-in-my-blood/>
+
+---
+
+## Record number attend ‘Fighting Oligarchy Tour’ in Downtown Los Angeles
+
+date: 2025-04-15, from: The Sundail (CSUN Student Newspaper)
+
+Tens of thousands of attendees flooded Gloria Molina Grand Park in downtown Los Angeles on Saturday for the “Fighting Oligarchy: Where We Go From Here with Bernie Sanders in Los... 
+
+<br> 
+
+<https://sundial.csun.edu/192701/news/record-number-attend-fighting-oligarchy-tour-in-downtown-los-angeles/>
+
+---
+
+## UCPD searches for attempted robbery suspect
+
+date: 2025-04-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD is searching for a person who attempted to rob a UCLA employee outside of the Center for Health Sciences around 9:50 a.m. Monday.&#160;
+The employee was on Westwood Boulevard when the suspect attempted to pull their cell phone out of their hand, according to a Clery Timely Warning crime alert sent Monday afternoon. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/14/ucpd-searches-for-attempted-robbery-suspect/>
+
+---
+
+## Gallery: 24 hours in Las Vegas: Exploring the city’s tourism, landscapes
+
+date: 2025-04-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin photographer Selin Filiz spent 24 hours exploring Las Vegas, Nevada. From the resorts of Sin City to the views of the Grand Canyon’s West Rim, she documented the contrast between city tourism and the vast landscape. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/14/gallery-24-hours-in-las-vegas-exploring-the-citys-tourism-landscapes/>
 
 ---
 

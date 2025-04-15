@@ -1,11 +1,148 @@
 ---
 title: columns
-updated: 2025-04-14 14:07:44
+updated: 2025-04-15 06:08:24
 ---
 
 # columns
 
-(date: 2025-04-14 14:07:44)
+(date: 2025-04-15 06:08:24)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-15, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/wordlandSupport/issues/70">WordLand 0.5.4</a>. New feature, the Timeline. 
+
+<br> 
+
+<http://scripting.com/2025/04/15.html#a125800>
+
+---
+
+## Why Google was so great in its day
+
+date: 2025-04-15, from: Dave Winer's Scripting News
+
+<p>A few days ago I <a href="https://mastodon.social/@dave@social.masto.land/114335522071398061">wrote</a>: ChatGPT is to Google what Google was to library card catalogs.</p>
+<p>I got a <a href="https://mastodon.social/@dave@social.masto.land/114341684650193975">chance</a> to explain.</p>
+<p>The great thing about Google when it was first out was that unlike previous search products, they searched everything, including our blogs, and that opened up knowledge to us that had been previously, for all of our history as a species, not accessible.</p>
+<p>And LLMs are similarly revolutionary. I'm doing much better, deeper work, with great results for my users, than I could ever have accomplished with the system defined by Google. and for crying out loud it's not natural language search, all that tells me is you haven't bothered to use the freaking products before having a cynical opinion about them.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/15/120752.html?title=whyGoogleWasSoGreatInItsDay>
+
+---
+
+## April 14, 2025
+
+date: 2025-04-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161374773/67774cba3e1453aebec3190920fcc134.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161374773/67774cba3e1453aebec3190920fcc134.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-14-2025-733>
+
+---
+
+## Still browsing like it's 1999: Fresh tools that keep vintage Macs online and weirdly alive
+
+date: 2025-04-15, updated: 2025-04-15, from: Liam Proven's articles at the Register
+
+<h4>You can&#39;t keep a good OS down</h4>
+      <p>The first Intel-based Mac was 19 years ago, but new versions of apps for both Classic Mac OS and PowerPC Mac OS X still occasionally appear, and we are here for it.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/15/classic_mac_os_apps/>
+
+---
+
+## This week’s winners of the Joseph Welch and Neville Chamberlain awards
+
+date: 2025-04-15, from: Robert Reich's blog
+
+Harvard University gets the Welch. Seven big law firms get the Chamberlain. 
+
+<br> 
+
+<https://robertreich.substack.com/p/more-candidates-for-the-neville-chamberlain>
+
+---
+
+## April 14, 2025
+
+date: 2025-04-15, from: Heather Cox Richardson blog
+
+Today, U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-14-2025>
+
+---
+
+## Recent good YouTubes
+
+date: 2025-04-15, from: Matt Haughey blog
+
+<p>Here&apos;s a list of recent good videos I stumbled across and enjoyed.</p><h3 id="torpedo-bats">Torpedo Bats</h3><p>It&apos;s cool to see a bunch of semi-pro baseball guys on YouTube testing out whether the new torpedo bat designs are really amazing or if they&apos;re mostly hype. This one</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/recent-good-youtubes/>
+
+---
+
+## Standing Up: You Can Do it Even When You're 389 Years Old.
+
+date: 2025-04-15, from: James Fallows, Substack
+
+Harvard is the US's oldest and richest university. In dealing with Trump, it first tried 'obeying in advance.' Today it decided instead to stand up and stand firm. 
+
+<br> 
+
+<https://fallows.substack.com/p/standing-up-you-can-do-it-even-when>
+
+---
+
+## “I Know What The Hell I’m Doing”
+
+date: 2025-04-15, from: Dan Rather's Steady
+
+The evidence suggests otherwise 
+
+<br> 
+
+<https://steady.substack.com/p/i-know-what-the-hell-im-doing>
+
+---
+
+## ChatGPT Can Now Remember and Reference All Your Previous Chats
+
+date: 2025-04-14, updated: 2025-04-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/ai/2025/04/chatgpt-can-now-remember-and-reference-all-your-previous-chats/>
+
+---
+
+## [Sponsor] Dekáf Coffee Roasters
+
+date: 2025-04-14, updated: 2025-04-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://dekaf.com/df>
 
 ---
 
@@ -163,7 +300,7 @@ date: 2025-04-14, updated: 2025-04-14, from: Daring Fireball
 
 date: 2025-04-14, from: Doc Searls (at Harvard), New Old Blog
 
-All errands today here in Pasadena, which is one of my favorite places in SoCal. Or hell, the world. Check out City Hall. Looks like the capital city of some country on the Mediterranian. Sure, it&#39;s chock full of cars and traffic, but that&#39;s an American thnig. Right now I&#39;m at the Arroyo-Calif Car Wash [&#8230;] 
+Watch others follow. Harvard did the right thing. All errands today here in Pasadena, which is one of my favorite places in SoCal. Or hell, the world. Check out City Hall. Looks like the capital city of some country on the Mediterranian. Sure, it&#39;s chock full of cars and traffic, but that&#39;s an American thnig. Right [&#8230;] 
 
 <br> 
 
@@ -209,7 +346,7 @@ date: 2025-04-14, updated: 2025-04-14, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-04-14, from: Dave Winer's Scripting News)
 
-A long time ago, based on my experience at Berkman in the 00s, I proposed the idea of a <a href="http://scripting.com/2014/10/30/developingBetterDevelopers.html">Developing Better Developers</a> function at a university, as a pilot, to create a teaching hospital atmosphere around creating new communication systems out the web and (key point) not compromising the openness of the web. It would be as sacred as academic freedom is in the university, or the First Amendment of the Constitution. It seemed to me that a university is the perfect place to create something like this. If we had such a setup, anywhere, at this time -- we would be working in earnest on an open alternative to twitter, one that is truly billionaire-proof right now, as opposed to "would be nice to have sometime in the future." 
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2017/07/26/veritas.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A long time ago, based on my experience at Berkman in the 00s, I proposed the idea of a <a href="http://scripting.com/2014/10/30/developingBetterDevelopers.html">Developing Better Developers</a> function at a university, as a pilot, to create a teaching hospital atmosphere around creating new communication systems out the web and (key point) not compromising the openness of the web. It would be as sacred as academic freedom is in the university, or the First Amendment of the Constitution. It seemed to me that a university is the perfect place to create something like this. If we had such a setup, anywhere, at this time -- we would be working in earnest on an open alternative to twitter, one that is truly billionaire-proof right now, as opposed to "would be nice to have sometime in the future." 
 
 <br> 
 
@@ -223,8 +360,8 @@ date: 2025-04-14, from: Dave Winer's Scripting News
 
 <p>I wrote a complex piece here earlier, but it's much simpler than it made it sound, so I decided to start again.</p>
 <p>Feed readers view RSS as inbound, and blogging tools regard it as outbound. Same feed, different contexts. Like trains going in and out of a station. Inbound and outbound. </p>
-<p>But some software views RSS in both directions. The best example is Twitter and its successors such as Mastodon, Threads and Bluesky. These products are for both for reading and writing. It makes sense to have outbound feeds, like a blogging tool, and it makes just as much sense as a consumer of feeds, like a feed reader, so we can easily publish stuff from other environments and people can subscribe to them exactly as if they used their editor to write it. No reason anyone needs to know. This is absolutely the simplest and most web-like way to do federation. And you don't need any new formats or protocols. It's all RSS on both sides. We totally know how to do RSS. It's ready to go. </p>
-<p>What got me thinking about this a few years ago was Substack. I wanted to publish a nightly email newsletter from what I had posted that day on my blog, but I didn't have the patience to copy and paste and then reformat the text, by hand, when I already have it automated. They wanted to turn me into a computer. I tried that with Medium for a couple of years and it was awful. No thanks. What I needed them to have is inbound RSS. </p>
+<p>But some software views RSS in both directions. The best example is Twitter and its successors such as Mastodon, Threads and Bluesky. These products are for both for reading and writing. It makes sense to have outbound feeds, like a blogging tool, and it makes just as much sense as a consumer of feeds, like a feed reader, so we can easily publish stuff from other environments and people can subscribe to them exactly as if they used their editor to write it. No reason anyone needs to know. <i>This is absolutely the simplest and most web-like way to do federation. </i>And you don't need any new formats or protocols. It's all <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> on both sides. We totally know how to do RSS. It's ready to go. </p>
+<p>What got me thinking about this a few years ago was Substack. I wanted to publish a nightly email newsletter from what I had posted that day on my blog, but I didn't have the patience to copy and paste and then reformat the text, by hand, when I already have that automated. They wanted to turn me into a computer. I tried that with Medium for a couple of years and it was awful. No thanks. What I needed them to have support Inbound RSS. </p>
 <p>That's it. You now know all there is to know about <a href="https://daytona.scripting.com/search?q=%22Inbound%20RSS%22">Inbound RSS</a>. 😀 </p>
  
 

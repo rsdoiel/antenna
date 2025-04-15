@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-04-14 14:07:47
+updated: 2025-04-15 06:08:27
 ---
 
 # motorcycles
 
-(date: 2025-04-14 14:07:47)
+(date: 2025-04-15 06:08:27)
+
+---
+
+## We're Gonna Hear Yamaha's New V4 This Week
+
+date: 2025-04-15, from: Ride Apart, Electric Motorcycle News
+
+Gird yourself, folks.  
+
+<br> 
+
+<https://www.rideapart.com/news/756569/yamaha-new-v4-engine-motogp-debut/>
+
+---
+
+## Is This the Triumph Sportbike Fairing Kit Of Your Wildest Dreams?
+
+date: 2025-04-15, from: Ride Apart, Electric Motorcycle News
+
+If you can't make your own Daytona 1200 triple cylinder monster, store-bought is fine. 
+
+<br> 
+
+<https://www.rideapart.com/news/756576/triumph-speed-triple-fairing-kit/>
+
+---
+
+## The Ducati Panigale V4 Lamborghini Is the Definition Of Two-Wheeled Excess
+
+date: 2025-04-15, from: Ride Apart, Electric Motorcycle News
+
+This just has to be Ducati and Lamborghini’s wildest collab yet. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756473/ducati-panigale-v4-s-lamborghini/>
+
+---
+
+## Putting My Body on the Line for Men’s Mental Health, and The Distinguished Gentleman’s Ride
+
+date: 2025-04-15, from: Ride Apart, Electric Motorcycle News
+
+We're taking bets on what's going to ache the most. 
+
+<br> 
+
+<https://www.rideapart.com/news/756416/robbie-bacon-rideapart-dgr-charity-run-mexico-city/>
 
 ---
 

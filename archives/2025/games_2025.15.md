@@ -1,19 +1,79 @@
 ---
 title: games
-updated: 2025-04-14 14:07:44
+updated: 2025-04-15 06:08:25
 ---
 
 # games
 
-(date: 2025-04-14 14:07:44)
+(date: 2025-04-15 06:08:25)
+
+---
+
+## Nvidia’s cheapest 2025 graphics card might just be its most important
+
+date: 2025-04-15, updated: 2025-04-14, from: Polygon Website
+
+Nvidia has announced the GeForce RTX 5060 and RTX 5060 Ti desktop graphics cards, which the company hopes will tempt owners of its previous budget-friendly GPUs to upgrade. In terms of specs, these are the least capable of the still-tough-to-buy RTX 50-series graphics card lineup, although they should still be pretty solid for 1080p gaming. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/555987/nvidia-rtx-5060-ti-price-release-date-specs-gpu>
+
+---
+
+## How Issa Rae’s Black Mirror character found love in a virtual place
+
+date: 2025-04-15, updated: 2025-04-14, from: Polygon Website
+
+Black Mirror can sometimes be a bit of a mindfuck, but Issa Rae felt clear on one thing when she signed up: Her episode reminded her of “San Junipero.” “Hotel Reverie” shares a lot of connective tissue with episodes of Black Mirror’s past, but the queer love story taking place entirely in a virtual world [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/558627/black-mirror-issa-rae-interview-hotel-reverie>
+
+---
+
+## Monster Hunter Now monster list
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Monsters in Monster Hunter Now are, as with every entry in the series, the main focus of the game, giving you new challenges to face and weapon and armor types to craft. Starting with just a handful of large monsters to begin with, the further you progress through the main story quest, the more species [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all>
+
+---
+
+## What time does Indiana Jones and the Great Circle release on PS5?
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Indiana Jones swings onto PlayStation this week with the PS5 release of Indiana Jones and the Great Circle. First released in December 2024 for Windows PC and Xbox Series X, Indiana Jones and the Great Circle is an immersive sim with some truly impressive cinematic bona fides. Notably, it’s also the next first-party Xbox game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/558511/ps5-release-time-date-early-access>
+
+---
+
+## Can Fomantis be shiny in Pokémon Go?
+
+date: 2025-04-15, updated: 2025-04-14, from: Polygon Website
+
+Fomantis, the sickle grass Pokémon from Alola, can be found in the wild in Pokémon Go. Yes, Fomantis can be shiny in Pokémon Go! Neither of these Pokémon are particularly meta relevant, but they do have pretty good shinies. Notably you’ll need to remember that you can only evolve Fomantis into Lurantis during the daytime, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/558273/can-fomantis-be-shiny-lurantis>
 
 ---
 
 ## All the fart jokes in The Lion King are Ernie Sabella’s fault
 
-date: 2025-04-14, updated: 2025-04-14, from: Polygon Website
+date: 2025-04-14, updated: 2025-04-15, from: Polygon Website
 
-Disney’s 1994 animated classic, The Lion King, is a gorgeous, heartrending movie with a soaring soundtrack. It has one of the most devastating deaths in kids’ movie history, a compelling story about rising up to take responsibility, and a heartfelt love story. And it also has fart jokes. Those fart jokes are mostly centered around [&#8230;] 
+Disney’s 1994 animated classic The Lion King is a gorgeous, heartrending movie with a soaring soundtrack. It has one of the most devastating deaths in kids’ movie history, a compelling story about rising up to take responsibility, and a heartfelt love story. And it also has fart jokes. Those fart jokes are mostly centered around [&#8230;] 
 
 <br> 
 
