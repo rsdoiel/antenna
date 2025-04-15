@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-04-15 06:08:22
+updated: 2025-04-15 14:07:35
 ---
 
 # science and technology
 
-(date: 2025-04-15 06:08:22)
+(date: 2025-04-15 14:07:35)
+
+---
+
+## Now 1.6M people had SSNs, life chapter and verse stolen from insurance IT biz
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>800K? Make that double, and we&#39;ll need a double, too, for the pain</h4> <p>A Texas firm that provides backend IT and other services for American insurers has admitted twice as many people had their info stolen from it than previously disclosed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/landmark_admin_data_loss/>
+
+---
+
+## Meta to feed Europe's public posts into AI brains again
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Who said this opt-out approach is OK with GDPR, was it Llama 4, hmm?</h4> <p>Meta on Monday said it plans to start training its AI models using public posts and comments shared by adults in the EU, along with interactions users have with its chatbot.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/meta_resume_ai_training_eu_user_posts/>
+
+---
+
+## 4chan, the 'internet’s litter box,' appears to have been pillaged by rival forum
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Source code, moderator info, IP addresses, more allegedly swiped and leaked</h4> <p>Thousands of 4chan users reported outages Monday night amid rumors on social media that the edgy anonymous imageboard had been ransacked by an intruder, with someone on a rival forum claiming to have leaked its source code, moderator identities, and users&#39; IP addresses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/4chan_breached/>
+
+---
+
+## NASA Aims to Fly First Quantum Sensor for Gravity Measurements
+
+date: 2025-04-15, from: NASA breaking news
+
+Researchers from NASA’s Jet Propulsion Laboratory in Southern California, private companies, and academic institutions are developing the first space-based quantum sensor for measuring gravity. Supported by NASA’s Earth Science Technology Office (ESTO), this mission will mark a first for quantum sensing and will pave the way for groundbreaking observations of everything from petroleum reserves to […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/>
+
+---
+
+## Team Trump readies national security card to justify taxing Americans for foreign chips
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>There&#39;s a new tariff in town</h4> <p><strong>World War Fee</strong>  Uncle Sam is kicking off a probe into the national security risks associated with America relying on imported foreign-made semiconductors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/commerce_dept_chips_tariffs/>
+
+---
+
+## What Is Aerodynamics? (Grades 5-8)
+
+date: 2025-04-15, from: NASA breaking news
+
+This article is&#160;for students grades 5-8. Aerodynamics is the way objects move through air. The rules of aerodynamics explain how an airplane is able to fly. Anything that moves through air is affected by aerodynamics, from a rocket blasting off, to a kite flying. Since they are surrounded by air, even cars are affected by [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-5-8/>
+
+---
+
+## What Is Aerodynamics? (Grades K-4)
+
+date: 2025-04-15, from: NASA breaking news
+
+This article is for students grades K-4. What Are the Four Forces of Flight? Aerodynamics is the way air moves around things. The rules of aerodynamics explain how an airplane is able to fly. Anything that moves through air reacts to aerodynamics. A rocket blasting off the launch pad and a kite in the sky [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-k-4/>
+
+---
+
+## China names alleged US snoops over Asian Winter Games attacks
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Beijing claims NSA went for gold in offensive cyber, got caught in the act</h4> <p>China&#39;s state-run press has taken its turn in trying to highlight alleged foreign cyber offensives, accusing the US National Security Agency of targeting the 2025 Asian Winter Games.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/china_nsa_winter_games/>
+
+---
+
+## All right, you can have one: DOGE access to Treasury IT OK'd judge
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Login green-lit for lone staffer if he’s trained, papered up, won’t pull an Elez</h4> <p>A federal judge has partly lifted an injunction against Elon Musk&#39;s Trump-blessed cost-trimming <a target="_blank" href="https://www.theregister.com/2025/03/25/doge_cannot_access_pii/">DOGE</a> unit, allowing one staff member to access sensitive US Treasury payment systems. This access includes personally identifiable financial information tied to millions of Americans.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/doge_access_to_treasury_systems/>
+
+---
+
+## Exchange Server 2019 has less than six months of support left in the tank
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Pricier successor due in July. Three months is plenty of time to test it, right?</h4> <p>Microsoft has warned administrators that less than half a year remains until support ends for Exchange Server 2016 and 2019. However, the follow-up, Exchange Server SE, won&#39;t arrive for another few months.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/exchange_server_2019/>
+
+---
+
+## Testing NASA’s IMAP (Interstellar Mapping and Acceleration Probe)
+
+date: 2025-04-15, from: NASA breaking news
+
+NASA’s IMAP (Interstellar Mapping and Acceleration Probe) is loaded into the X-ray and Cryogenic Facility (XRCF) thermal vacuum chamber at NASA’s Marshall Space Flight Center in Huntsville, Alabama, in this photo from March 20, 2025. There, the spacecraft will undergo testing such as dramatic temperature changes to simulate the harsh environment of space. The IMAP [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/testing-nasas-imap-interstellar-mapping-and-acceleration-probe/>
+
+---
+
+## Delta Lake and Iceberg communities collide – in a good way
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Table format loved by Apple and Netflix gets boost after Databricks merger</h4> <p>Databricks, the machine learning and data lake biz valued at around $62 billion, is contributing to the open source Iceberg table format preferred by rivals in the market.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/iceberg_delta_lake_collab/>
+
+---
+
+## Experience the Launch of NASA’s SpaceX Crew-11 Mission
+
+date: 2025-04-15, from: NASA breaking news
+
+Digital content creators are invited to register to attend the launch of NASA’s SpaceX Crew-11 mission to carry astronauts to the International Space Station for a science expedition as part of NASA’s Commercial Crew Program. This will be the 15th time a SpaceX Dragon spacecraft launched by a Falcon 9 rocket takes crews to the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-spacex-crew-11-mission/>
+
+---
+
+## Atomic Clock and Plant DNA Research Launching Aboard NASA’s SpaceX CRS-32 Mission
+
+date: 2025-04-15, from: NASA breaking news
+
+NASA’s SpaceX 32nd commercial resupply services mission, scheduled to lift off from the agency’s Kennedy Space Center in April, is heading to the International Space Station with experiments that include research on whether plant DNA responses in space correlate to human aging and disease, and measuring the precise effects of gravity on time.   Discover more […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/biological-physical-sciences/atomic-clock-and-plant-dna-research-launching-aboard-nasas-spacex-crs-32-mission/>
+
+---
+
+## Why wait to build a datacenter when you can just unpack one?
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Prefab SmartRun kit from Vertiv promises 85% faster deployment and fewer plumbing headaches</h4> <p>With rack space at a premium amid unrelenting demand for datacenter capacity, more modular solutions are hitting the market to speed deployment times, even for infrastructure prefabricated for AI training.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/prefab_datacenters/>
+
+---
+
+## Why Do We Grow Plants in Space?
+
+date: 2025-04-15, from: NASA breaking news
+
+Why do we grow plants in space? Plants are such versatile organisms that they can fulfill many roles in our exploration of space. Plants provide us with food, with oxygen, they can recycle water and waste, and they can even provide us with psychological benefits. So all these functions will help NASA in fulfilling our [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/why-do-we-grow-plants-in-space/>
+
+---
+
+## Chinese snoops use stealth RAT to backdoor US orgs – still active last week
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Let the espionage and access resale campaigns begin (again)</h4> <p>A cyberspy crew or individual with ties to China&#39;s Ministry of State Security has infected global organizations with a remote access trojan (RAT) that&#39;s &#34;even better&#34; than Cobalt Strike, using this stealthy backdoor to enable its espionage and access resale campaigns.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/chinese_spies_backdoored_us_orgs/>
+
+---
+
+## Michael Ciancone Builds a Lasting Legacy in Human Spaceflight
+
+date: 2025-04-15, from: NASA breaking news
+
+When Michael Ciancone joined NASA in 1983, he could hardly imagine what his 40-plus-year career would entail. From honoring and preserving spaceflight history to advancing safety standards, he has undoubtedly woven his knowledge and experience into NASA’s history as well as its future.&#160;&#160; Ciancone currently serves as the Orion Program safety lead, overseeing the Office [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/michael-ciancone-builds-a-lasting-legacy-in-human-spaceflight/>
+
+---
+
+## Can Solar Wind Make Water on Moon? NASA Experiment Shows Maybe
+
+date: 2025-04-15, from: NASA breaking news
+
+Scientists have hypothesized since the 1960s that the Sun is a source of ingredients that form water on the Moon. When a stream of charged particles known as the solar wind smashes into the lunar surface, the idea goes, it triggers a chemical reaction that could make water molecules.    Now, in the most realistic lab […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/moon/can-solar-wind-make-water-on-moon/>
+
+---
+
+## US senator warns 'China is cheering' for proposed NASA budget cuts
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Bipartisan support needed to keep DOGE from the door</h4> <p>The proposed cuts to NASA&#39;s budget are drawing sharp criticism from US lawmakers, with one saying: &#34;If you cut this budget, you cut into the heart of America&#39;s leadership when it comes to space exploration.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/nasa_cuts_protest/>
 
 ---
 
@@ -167,7 +407,7 @@ date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 ## New SSL/TLS certs to each live no longer than 47 days by 2029
 
-date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
+date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 <h4>IT admins, get ready to grumble</h4> <p>CA/Browser Forum – a central body of web browser makers, security certificate issuers, and friends – has voted to cut the maximum lifespan of new SSL/TLS certs to just 47 days by March 15, 2029.…</p> 
 
@@ -515,7 +755,7 @@ date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
 
 ## Tech tariff turmoil continues as Trump admin exempts some electronics, then promises to bring taxes back
 
-date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
+date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 <h4>Beijing tries to find an off-ramp but also fights back with export bans</h4> <p><strong>World War Fee</strong>  The Trump administration’s strategy to use tariffs on imports as an incentive for businesses to move their manufacturing plants to the USA took a new turn over the weekend after it announced exemptions for some goods, denied the exemptions were new, then said it plans further tariffs on high-tech goods.…</p> 
 

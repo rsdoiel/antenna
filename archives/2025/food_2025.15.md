@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2025-04-15 06:08:28
+updated: 2025-04-15 14:07:39
 ---
 
 # food
 
-(date: 2025-04-15 06:08:28)
+(date: 2025-04-15 14:07:39)
+
+---
+
+## Best Travel Coffee Mugs (2025) for Road Trips and Your Morning Commute
+
+date: 2025-04-15, from: Bon Appetet
+
+When it comes to caffeinating, sometimes it’s the journey, not the destination. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-travel-coffee-mugs>
+
+---
+
+## The David Buehrer Guide To Coffee And Food In Houston
+
+date: 2025-04-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. An expansive guide to all things food and drink in Houston, Texas. 
+
+<br> 
+
+<https://sprudge.com/the-david-buehrer-guide-to-coffee-and-food-in-houston-318826.html>
+
+---
+
+## Comedian Matteo Lane On Why Your Pasta Sucks
+
+date: 2025-04-15, from: Bon Appetet
+
+On this episode of Food People, comedian Matteo Lane discussed his new book, traveling to Rome, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/comedian-matteo-lane-on-why-your-pasta-sucks>
+
+---
+
+## Tyler Smith’s Smash Burgers
+
+date: 2025-04-15, from: Taste of Home
+
+Why hit the drive-thru when you can nail this recipe at home? These smash burgers are flavor bombs—and all you need are a handful of ingredients and 20 minutes. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-smash-burgers/>
+
+---
+
+## Lucy Wang’s Hanami Dango
+
+date: 2025-04-15, from: Taste of Home
+
+The Sakura Matsuri, also known as the Cherry Blossom Festival, celebrates the spring season! These squishy treats make adorable drink garnishes and are a great kids' activity (they're basically nontoxic play dough and a lot less messy). If you want to prep them in advance, make the balls but don’t boil them just yet! Sprinkle a little glutinous rice flour on them and freeze them in an airtight container. Boil them right before you plan to serve them. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wangs-hanami-dango/>
+
+---
+
+## How to Travel With Cheese and Keep It Fresh
+
+date: 2025-04-15, from: Bon Appetet
+
+Whether you’re toting home Comté from France or parm from Italy, we have tips. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-to-travel-with-cheese>
+
+---
+
+## BestCup & Topeca Coffee Elevate Single-Serve Coffee With Uncompromising Quality In A Compostable Pod
+
+date: 2025-04-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. BestCup and Tulsa's Topeca Coffee have teamed up for an all-new compostable coffee pod. 
+
+<br> 
+
+<https://sprudge.com/bestcup-topeca-coffee-elevate-single-serve-coffee-with-uncompromising-quality-in-a-compostable-pod-319061.html>
+
+---
+
+## Colombia’s Juan Valdez Plans to Open 16 More US Coffee Shops
+
+date: 2025-04-15, from: Daily Coffee News
+
+<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="Juan Valdez Cafe" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-768x488.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Colombian coffee chain Juan Valdez is planning to open 16 more stores in the United States, in the Orlando and Miami markets. The new stores will add to the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/15/colombias-juan-valdez-plans-to-open-16-more-us-coffee-shops/>
+
+---
+
+## RoastLog is Raising Its Own Profile with Major Update of Roasting Software
+
+date: 2025-04-15, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="RoastLog" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fifteen years after winning a Best New Product Award at the Specialty Coffee Expo (formerly the SCAA Expo), coffee roasting software provider RoastLog is entering an ambitious new chapter. The... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/15/roastlog-is-raising-its-own-profile-with-major-update-of-roasting-software/>
+
+---
+
+## The Best Food Storage Containers (2025) for Meal Prep and Leftovers
+
+date: 2025-04-15, from: Bon Appetet
+
+We tested a dozen sets to find lids that wouldn’t leak, plastic that wouldn’t stain, and glass that wouldn’t shatter. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-food-storage-containers>
 
 ---
 
@@ -13,7 +133,7 @@ updated: 2025-04-15 06:08:28
 
 date: 2025-04-15, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png" class="attachment-large size-large wp-post-image" alt="Precision Coffee Tools cleaning brush 4" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Precision Coffee Tools brand of coffee equipment from Australian coffee roaster and equipment company Di Pacci Coffee recently launched a new steam-powered cleaning brush for commercial espresso bars. The... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png" class="attachment-large size-large wp-post-image" alt="Precision Coffee Tools cleaning brush 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Precision Coffee Tools brand of coffee equipment from Australian coffee roaster and equipment company Di Pacci Coffee recently launched a new steam-powered cleaning brush for commercial espresso bars. The... 
 
 <br> 
 
@@ -62,12 +182,24 @@ Bake it for the spring or summer birthday in your life.
 date: 2025-04-15, from: The Fresh Cup
 
 <p>For a group of researchers at the University of Pennsylvania, their focus is on getting more out of your beans and reducing the amount of coffee you need to make a delicious pour over.</p>
-<p>The post <a href="https://freshcup.com/scientists-reveal-how-these-two-factors-can-improve-extraction/">Scientists Reveal How These Two Factors Can Improve Extraction</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+<p>The post <a href="https://freshcup.com/scientists-reveal-how-these-two-factors-can-improve-extraction/">Scientists Reveal How These Two Factors Can Improve Extraction</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
  
 
 <br> 
 
 <https://freshcup.com/scientists-reveal-how-these-two-factors-can-improve-extraction/>
+
+---
+
+## Where to Eat in Cornwall, UK
+
+date: 2025-04-15, from: Bon Appetet
+
+Seafood, surf, and superlative pastries make England’s southwestern most tip a destination like no other. 
+
+<br> 
+
+<https://www.bonappetit.com/story/where-to-eat-cornwall-uk>
 
 ---
 
@@ -243,18 +375,6 @@ date: 2025-04-14, from: The Sprudge
 
 ---
 
-## How to Travel With Cheese and Keep It Fresh
-
-date: 2025-04-14, from: Bon Appetet
-
-Whether you’re toting home Comté from France or parm from Italy, we have tips. 
-
-<br> 
-
-<https://www.bonappetit.com/story/how-to-travel-with-cheese>
-
----
-
 ## Presenting the Winners from Our Breakfast and Brunch Recipe Contest
 
 date: 2025-04-14, from: Taste of Home
@@ -273,7 +393,7 @@ date: 2025-04-14, from: Taste of Home
 
 date: 2025-04-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Madcap roastery" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Michigan-based quality-focused roasting company Madcap Coffee recently launched a sibling brand called Dito Coffee, featuring playful pink branding and a more comfortable price point for many consumers. The Grand Rapids... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Madcap roastery" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Madcap-roastery.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Michigan-based quality-focused roasting company Madcap Coffee recently launched a sibling brand called Dito Coffee, featuring playful pink branding and a more comfortable price point for many consumers. The Grand Rapids... 
 
 <br> 
 
@@ -285,7 +405,7 @@ date: 2025-04-14, from: Daily Coffee News
 
 date: 2025-04-14, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-620x413.jpg" class="attachment-large size-large wp-post-image" alt="San Cristobal Container Coopary" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Kirkland, Washington-based specialty coffee trader San Cristobal Coffee Importers recently introduced its first offerings from Peru following a unique partnership model involving multiple coffee organizations. Along with sibling company Cafés... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-620x413.jpg" class="attachment-large size-large wp-post-image" alt="San Cristobal Container Coopary" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/San-Cristobal-Container-Coopary.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Kirkland, Washington-based specialty coffee trader San Cristobal Coffee Importers recently introduced its first offerings from Peru following a unique partnership model involving multiple coffee organizations. Along with sibling company Cafés... 
 
 <br> 
 
@@ -310,7 +430,7 @@ date: 2025-04-14, from: The Sprudge
 date: 2025-04-14, from: The Fresh Cup
 
 <p>Coffee prices rise in response to tariffs. Plus, how your pouring technique impacts flavor, and China’s coffee boom expands beyond the big cities.</p>
-<p>The post <a href="https://freshcup.com/coffee-news-club-week-of-april-14th/">Coffee News Club: Week of April 14th</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+<p>The post <a href="https://freshcup.com/coffee-news-club-week-of-april-14th/">Coffee News Club: Week of April 14th</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
  
 
 <br> 
@@ -324,7 +444,7 @@ date: 2025-04-14, from: The Fresh Cup
 date: 2025-04-14, from: The Fresh Cup
 
 <p>Tariffs will impact the coffee industry and companies scrambling to respond. One immediate consequence is that many U.S. coffee shops are raising prices.</p>
-<p>The post <a href="https://freshcup.com/u-s-coffee-shops-raise-prices-amid-tariff-turmoil-and-uncertainty/">U.S. Coffee Shops Raise Prices Amid Tariff Turmoil and Uncertainty</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+<p>The post <a href="https://freshcup.com/u-s-coffee-shops-raise-prices-amid-tariff-turmoil-and-uncertainty/">U.S. Coffee Shops Raise Prices Amid Tariff Turmoil and Uncertainty</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
  
 
 <br> 

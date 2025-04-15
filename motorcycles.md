@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-04-15 06:08:27
+updated: 2025-04-15 14:07:38
 ---
 
 # motorcycles
 
-(date: 2025-04-15 06:08:27)
+(date: 2025-04-15 14:07:38)
+
+---
+
+## INDYCAR Power Rankings: Kyle Kirkwood makes waves in Long Beach
+
+date: 2025-04-15, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer In the latest iteration of these rankings, I briefly mentioned that Kyle Kirkwood was in the midst of a 23-race winless streak dating back to&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indycar-power-rankings-kyle-kirkwood-makes-waves-in-long-beach/>
+
+---
+
+## Royal Enfield Is Beating Everyone In Ways Brands Could Only Dream Of
+
+date: 2025-04-15, from: Ride Apart, Electric Motorcycle News
+
+And it probably deserves this success more than just about any other OEM. 
+
+<br> 
+
+<https://www.rideapart.com/news/756594/royal-enfield-huge-production-target-my26/>
+
+---
+
+## SC-Project Just Released a New Exhaust System For the Honda CB1000 Hornet
+
+date: 2025-04-15, from: Ride Apart, Electric Motorcycle News
+
+Because who doesn’t love a howling inline-four?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756477/sc-project-honda-cb1000-hornet-exhaust/>
 
 ---
 

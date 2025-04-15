@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-15 06:08:25
+updated: 2025-04-15 14:07:36
 ---
 
 # games
 
-(date: 2025-04-15 06:08:25)
+(date: 2025-04-15 14:07:36)
+
+---
+
+## Get Ghostrunner and 7 other neon-tinted titles for $14
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+If you just can’t get enough of the cyberpunk vibe, Humble is currently offering a bundle of eight Steam Deck-verified titles for just $14. The highlight of the Humble’s Neon Lights bundle is the fast and brutal cyberpunk platformer Ghostrunner. While the difficulty curve of Ghostrunner can be unforgiving at times, I can’t think of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/559213/humble-neon-tinted-cyberpunk-ghostrunner-bundle-sale>
+
+---
+
+## Wētā FX’s secret Minecraft Movie chicken jockey video sounds like a must-watch
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Stories about A Minecraft Movie’s viral “Chicken jockey!” audience response meme continue to roll out on a regular cadence. Minecraft Movie star Jack Black showed up at one screening to warn the audience not to yell or throw things during the scene where his character Steve shrieks at the arrival of a baby zombie riding [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/559320/chicken-jockey-behind-scenes-minecraft-movie-vfx>
+
+---
+
+## The Helldivers 2 board game looks like a good time, just don’t forget to read the fine print
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+With just seven days to go in an abbreviated two-week campaign, Steamforged has more than met its goal for Helldivers 2: The Board Game. At time of writing the campaign for the one-to-four-player tactical action game has achieved more than 2,000% of its stated goal, strolling in at the equivalent of $1.6 million. Delivery is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/559372/helldivers-2-board-game-trump-tariffs>
+
+---
+
+## The Solo Leveling anime is getting a beautiful Blu-ray to commemorate season 1
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Solo Leveling season 2 just ended, which means it’s the perfect time to look back at where the anime started. Crunchyroll announced on Tuesday that it’s giving Solo Leveling season 1 a special Blu-ray treatment, with a conventional standard edition, as well as a limited edition release that looks absolutely gorgeous. According to Crunchyroll, both [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/559261/solo-leveling-season-1-blu-ray-limited-edition>
+
+---
+
+## Palia&#8217;s community keep building wonders for the Home Tours board
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Palia is a life simulator and fantasy adventure game where players build up their own homesteads. As players explore the nearby Kilima Valley and Bahari Bay, they learn recipes, catch rare bugs and fish, and make friends with the villagers. The player adventures out into the world, but they always return home to make new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/559337/palia-home-tours-creations-player-creativity>
+
+---
+
+## Midnight Mass director’s new Stephen King movie looks more hopeful than horrifying
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+It’s easy to forget that Stephen King doesn’t always write horror stories. There’s sci-fi stories like Under the Dome, coming-of-age tales like Stand By Me, and a few nicer stories that fall somewhere in-between. But with his horror-first approach, it’s probably fitting that King’s short story The Life of Chuck is getting a movie adaptation [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/559317/life-chuck-trailer-release-date-stephen-king>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Learning the raid and dungeon rotation in Destiny 2 is great for farming loot you don’t have yet, and for increasing your Power in Destiny 2. As of the Episode: Revenant update in October 2024, Bungie showcases which activity is featured (via an icon on the map), and there are now two featured raids and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
+
+---
+
+## Kingdom Come: Deliverance 2 makes Henry’s day even worse with a Hardcore mode
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+It’s not easy to be Henry, the protagonist of Kingdom Come: Deliverance 2. I spent my first 15 hours or so getting my ass beat around every corner of Bohemia; I’d either perish to a pack of wolves, stumble upon a lone soldier, or fail to subtly steal a slurp of soup. That experience looks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/559314/kingdom-come-deliverance-2-hardcore-mode>
+
+---
+
+## Revisit the work of Kenji Eno with this 7-disc vinyl collection
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Publisher Lost in Cult is releasing a seven-disc vinyl set celebrating the work of game designer Kenji Eno, the company announced Tuesday. Titled Kenji Eno 55: Soundworks, the collection will consist of 55 tracks spanning Eno’s work on games like Enemy Zero, D2, and more. According to a press release, the set will include “remastered [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/559258/kenji-eno-vinyl-soundtrack-in-memoriam>
+
+---
+
+## Where to buy Pokémon TCG: Scarlet &#038; Violet—Journey Together Together
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+The latest expansion for the Pokémon TCG: Scarlet &#38; Violet, Journey Together, arrived on March 28, but has been difficult to find at online retailers at prices close to MSRP. While we’d recommend checking with your local games store first, we’ve found Elite Trainer Boxes and Booster Bundles on Amazon. Due to the popularity of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/539581/pokemon-tcg-scarlet-violet-journey-together-where-to-buy>
 
 ---
 

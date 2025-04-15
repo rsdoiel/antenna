@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2025-04-15 06:08:26
+updated: 2025-04-15 14:07:37
 ---
 
 # libraries
 
-(date: 2025-04-15 06:08:26)
+(date: 2025-04-15 14:07:37)
+
+---
+
+## Aruba’s Digitized Slavery Documents Added to UNESCO’s International Memory of the World Register
+
+date: 2025-04-15, from: Internet Archive Blog
+
+The Internet Archive is proud to join in celebrating a major milestone in the preservation of global cultural heritage: documents related to the history of slavery in Aruba have been [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/04/15/arubas-digitized-slavery-documents-added-to-unescos-international-memory-of-the-world-register/>
+
+---
+
+## Brewster Kahle Accepts Project Uil Award from Dutch Wikipedia Community
+
+date: 2025-04-15, from: Internet Archive Blog
+
+The Internet Archive was recently honored for its valuable contribution to the Dutch-language Wikipedia community at an event at Leiden University in the Netherlands. Internet Archive founder Brewster Kahle accepted [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/04/15/brewster-kahle-accepts-project-uil-award-from-dutch-wikipedia-community/>
 
 ---
 
@@ -27,7 +51,7 @@ date: 2025-04-15, from: Scholarly Kitchen
 
 date: 2025-04-14, from: Association of Research Libraries News
 
-<p>Last Updated on April 14, 2025, 3:44 pm ET Jump to: Tuesday, April 15 &#124; Wednesday, April 16 &#124; Thursday, April 17 Monday, April 14 Top o’ the Review Coalition...</p>
+<p>Last Updated on April 15, 2025, 3:24 pm ET Jump to: Tuesday, April 15 &#124; Wednesday, April 16 &#124; Thursday, April 17 Monday, April 14 Top o’ the Review Coalition...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-14-17/">Day in Review (April 14–17)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

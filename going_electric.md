@@ -1,11 +1,136 @@
 ---
 title: going electric
-updated: 2025-04-15 06:08:28
+updated: 2025-04-15 14:07:38
 ---
 
 # going electric
 
-(date: 2025-04-15 06:08:28)
+(date: 2025-04-15 14:07:38)
+
+---
+
+## Blink just made it a lot easier to find its charging stations
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/blink-EV-charging-station-blog.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Blink Charging’s (Nasdaq: BLNK) new partnership with Eco-Movement will make Blink’s EV chargers a lot easier to find across multiple platforms.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="apps,blink,egeb,energy-brief,ev-chargers,ev-charging,solar" data-layer-viewtype="unknown" data-post-id="411494" href="https://electrek.co/2025/04/15/blink-just-made-it-a-lot-easier-to-find-its-charging-stations/#more-411494" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/blink-just-made-it-a-lot-easier-to-find-its-charging-stations/>
+
+---
+
+## EcoFlow phase 2 Mega Sale up to 65% off power stations, Hiboy launches U2 Pro e-scooter at $600 off, Goal Zero, more
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/EcoFlow-Members-Mega-Sale-FI.png?w=1600" /></div><p>Headlining today’s Green Deals is the <a href="https://9to5toys.com/2025/04/15/ecoflow-second-phase-mega-sale-from-119/">second phase of EcoFlow’s ongoing Mega Sale</a>, which is not only expanding the lineup of power station deals that are up to 65% off, but also continuing the EcoCredit rewards, adding bonus savings, and dropping prices on several units for new lows. Among them, we spotted the <a href="https://9to5toys.com/2025/04/15/ecoflow-second-phase-mega-sale-from-119/">DELTA Pro bundle</a> with two 220W solar panels and a protective bag going lower than ever to <a href="https://9to5toys.com/2025/04/15/ecoflow-second-phase-mega-sale-from-119/">$2,279</a>. Next, running as part of <a href="https://9to5toys.com/2025/04/12/hiboy-spring-sale-s2-se-scooter-300-low-more/">Hiboy’s Easter Sale</a>, the brand is launching its new cargo-capable <a href="https://9to5toys.com/2025/04/14/hiboy-launches-u2-pro-e-scooter-900/">U2 Pro Electric Scooter</a> with a 34-mile range at <a href="https://9to5toys.com/2025/04/14/hiboy-launches-u2-pro-e-scooter-900/">$600 off</a>. Lastly, we have <a href="https://9to5toys.com/2025/04/14/goal-zero-sherpa-100ac-200-more/">Goal Zero’s Sherpa 100AC</a> 25,600mAh 100W Wireless AC Power Bank that features five port options, a wireless charging pad, and solar-charging capabilities at <a href="https://9to5toys.com/2025/04/14/goal-zero-sherpa-100ac-200-more/">$200</a> alongside a counterpart model. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s ongoing <a href="https://9to5toys.com/2025/04/14/lectric-xp-trike-with-420-bundle-1499/">Lectric XP Trike bundle</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="411473" href="https://electrek.co/2025/04/15/ecoflow-phase-2-mega-sale-hiboy-goal-zero-more/#more-411473" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/ecoflow-phase-2-mega-sale-hiboy-goal-zero-more/>
+
+---
+
+## Bespoke British sports car manufacturer RBW EV Cars breaks ground on new US facility
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/RBW-EV-Roadster-GT.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A relatively young, handcrafted British EV automaker, RBW EV Cars, is celebrating an $8 million milestone as it expands its vehicle production to <a href="https://electrek.co/guides/north-america/">North America</a> to deliver its two flagship models to US consumers. These bespoke BEVs with British design heritage in mind look like they are extremely fun to zip around in. See more below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rbw-ev-cars,uk,united-states" data-layer-viewtype="unknown" data-post-id="411458" href="https://electrek.co/2025/04/15/british-sports-car-manufacturer-rbw-ev-cars-breaks-ground-new-us-facility/#more-411458" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/british-sports-car-manufacturer-rbw-ev-cars-breaks-ground-new-us-facility/>
+
+---
+
+## Lucid Air Review After 26,000 Miles: More Range, But Also A Huge Downside
+
+date: 2025-04-15, from: Inside EVs News
+
+Thanks to OTA updates, it’s finally the car it was supposed to be from the get-go. On the money front, however, things aren't ideal. 
+
+<br> 
+
+<https://insideevs.com/news/756676/lucid-air-owner-review-3-years-26000-miles/>
+
+---
+
+## MAGA surrounds Tesla store with gas trucks in least effective counterprotest ever
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Counter-protest.png?w=1600" /></div><p>MAGA protestors surrounded a Tesla store in California with their gas trucks in what has to be the least effective counterprotest ever.</p>
+
+
+
+<p>When you need MAGA and Proud Boys to counter-protest for your brand, you know your brand is in trouble.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411451" href="https://electrek.co/2025/04/15/maga-tesla-store-gas-trucks-least-effective-counterprotest-ever/#more-411451" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/maga-tesla-store-gas-trucks-least-effective-counterprotest-ever/>
+
+---
+
+## General Motors’ EV Battery Cell Production Overtakes Tesla: Report
+
+date: 2025-04-15, from: Inside EVs News
+
+America’s largest carmaker is now also one of its biggest battery companies. It aims to beat Tesla on battery costs this year.
+ 
+
+<br> 
+
+<https://insideevs.com/news/756701/general-motors-ev-battery-production-overtakes-tesla/>
+
+---
+
+## ZEEKR unveils 7GT as ‘The EV that does everything’ complete with 10 minute charging and 825 km range
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ZEEKR-7GT-camper.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Four months after sharing a first look at a new GT shooting brake variant of its all-electric 007 sedan, <a href="https://electrek.co/guides/zeekr/">ZEEKR </a>has officially launched the 7GT in China, with initial deliveries to follow in less than a week. As shown in ZEEKR’s images below, this sporty GT variant was designed with several comfort features and impressive tech, including a fast-charging 800V platform and zippy acceleration.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="zeekr,zeekr-007,zeekr-007-gt" data-layer-viewtype="unknown" data-post-id="411430" href="https://electrek.co/2025/04/15/zeekr-unveils-7gt-as-the-ev-that-does-everything-complete-with-10-minute-charging-and-825-km-range/#more-411430" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/zeekr-unveils-7gt-as-the-ev-that-does-everything-complete-with-10-minute-charging-and-825-km-range/>
+
+---
+
+## Chevy Silverado EV, New Chevy Bolt Will Get Cheaper LFP Batteries
+
+date: 2025-04-15, from: Inside EVs News
+
+General Motors is running a Ford and BYD play for cheaper batteries. That means a Silverado EV with 350 miles of range for $6,000 less. 
+
+<br> 
+
+<https://insideevs.com/news/756688/gm-lfp-bolt-silverado-batteries/>
 
 ---
 
@@ -149,7 +274,7 @@ date: 2025-04-14, from: Electrek Feed
 
 ---
 
-## Tesla insurance premiums are incresing at twice the market rate amid vandalism
+## Tesla insurance premiums are increasing at twice the market rate amid vandalism
 
 date: 2025-04-14, from: Electrek Feed
 

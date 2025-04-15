@@ -1,11 +1,71 @@
 ---
 title: small papers
-updated: 2025-04-15 06:08:29
+updated: 2025-04-15 14:07:39
 ---
 
 # small papers
 
-(date: 2025-04-15 06:08:29)
+(date: 2025-04-15 14:07:39)
+
+---
+
+## Supervisor Janice Hahn to propose  water taxi service for 2028 Olympics
+
+date: 2025-04-15, from: Long Beach Post
+
+<figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Boats move through the water backdropped by the Downtown Long Beach skyline." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-768x425.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1536x849.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1200x663.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1568x867.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-400x221.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“If we really want the 2028 games to be ‘transit-first,’ we have to make transit fun for people and we can’t just rely on buses and trains,” Hahn said.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/water-taxi-olympics-2028-janice-hahn-metro">Supervisor Janice Hahn to propose  water taxi service for 2028 Olympics</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/water-taxi-olympics-2028-janice-hahn-metro>
+
+---
+
+## Kareem Abdul-Jabbar To Join in Pregame Reflection on Jackie Robinson Day
+
+date: 2025-04-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="744" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?fit=744%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?w=1859&amp;ssl=1 1859w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=218%2C300&amp;ssl=1 218w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=743%2C1024&amp;ssl=1 743w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=768%2C1058&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=1115%2C1536&amp;ssl=1 1115w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=1487%2C2048&amp;ssl=1 1487w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=1200%2C1653&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=1568%2C2160&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=400%2C551&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?resize=706%2C972&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/02/AP_500706024-scaled.jpg?fit=744%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Kareem Abdul-Jabbar is among the scheduled speakers for the Dodgers&#8217; annual &#8220;team reflection&#8221; today on Jackie Robinson Day. The Dodgers have been gathering at the statue [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/15/kareem-abdul-jabbar-to-join-in-pregame-reflection-on-jackie-robinson-day/">Kareem Abdul-Jabbar To Join in Pregame Reflection on Jackie Robinson Day</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/15/kareem-abdul-jabbar-to-join-in-pregame-reflection-on-jackie-robinson-day/>
+
+---
+
+## Long Beach gets 4 more Olympic events including beach volleyball, climbing, target shooting
+
+date: 2025-04-15, from: Long Beach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1024x576.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1024x576.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1536x864.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1200x675.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1568x882.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-400x225.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>That makes at least 11 sports coming to Long Beach during the 2028 Summer Games.</p>
+<p>The post <a href="https://lbpost.com/news/beach-volleyball-olympics-2028-long-beach-alamitos-beach">Long Beach gets 4 more Olympic events including beach volleyball, climbing, target shooting</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/beach-volleyball-olympics-2028-long-beach-alamitos-beach>
+
+---
+
+## California sets aside $170 million to thin vegetation, forests to help prevent wildfires
+
+date: 2025-04-15, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Six conservancies throughout the state will oversee work largely in Southern California and the Sierra Nevada.</p>
+<p>The post <a href="https://lbpost.com/news/politics/california-sets-aside-170-million-to-thin-vegetation-forests-to-help-prevent-wildfires">California sets aside $170 million to thin vegetation, forests to help prevent wildfires</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/california-sets-aside-170-million-to-thin-vegetation-forests-to-help-prevent-wildfires>
 
 ---
 
@@ -13,7 +73,7 @@ updated: 2025-04-15 06:08:29
 
 date: 2025-04-14, from: Long Beach Post
 
-<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-768x467.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-178x108.jpg 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-400x243.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-768x467.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-178x108.jpg 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-400x243.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Traffic should ease at the airport — with six pick-up and drop-off lanes instead of four.</p>
 <p>The post <a href="https://lbpost.com/news/business/trade-transportation/long-beach-airport-construction-finished-drop-off-zone">After 15 months, construction is finished on Long Beach Airport&#8217;s revamped drop-off zone</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -43,7 +103,7 @@ date: 2025-04-14, from: Long Beach Post
 
 date: 2025-04-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="601" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?fit=1024%2C601&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Real Id photo" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?w=1782&amp;ssl=1 1782w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1024%2C601&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=768%2C451&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1536%2C902&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=780%2C458&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=706%2C414&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?fit=1024%2C601&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="601" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?fit=1024%2C601&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Real Id photo" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?w=1782&amp;ssl=1 1782w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1024%2C601&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=768%2C451&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1536%2C902&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=780%2C458&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?resize=706%2C414&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/RealId2-e1744654426455.jpg?fit=1024%2C601&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; With less than a month before travelers will need to show a Real ID before boarding commercial flights in the U.S., 18 state DMV offices will [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/14/some-dmv-office-hours-extended-by-an-hour-for-real-id-applicants/">Some DMV Office Hours Extended by an Hour for Real ID Applicants</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

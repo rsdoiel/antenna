@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-04-15 06:08:24
+updated: 2025-04-15 14:07:36
 ---
 
 # weather
 
-(date: 2025-04-15 06:08:24)
+(date: 2025-04-15 14:07:36)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-04-15, from: Eastern Pacific Basin Tropical Cyclones
+date: 2025-04-15, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Tue Apr 15 12:25:02 UTC 2025
+## SPC - No watches are valid as of Tue Apr 15 19:57:01 UTC 2025
 
 date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Apr 15 12:25:02 UTC 2025. 
+No watches are valid as of Tue Apr 15 19:57:02 UTC 2025. 
 
 <br> 
 
@@ -33,15 +33,381 @@ No watches are valid as of Tue Apr 15 12:25:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Apr 15 12:25:02 UTC 2025
+## SPC Apr 15, 2025 2000 UTC Day 1 Convective Outlook
 
 date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Apr 15 12:25:02 UTC 2025. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0252 PM CDT Tue Apr 15 2025
+
+Valid 152000Z - 161200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE NORTHEAST AND NEW ENGLAND...
+
+...SUMMARY...
+Isolated wind damage will remain possible into the early evening
+across parts of the Northeast.
+
+...20Z Northeast...
+The prior outlooks remains largely unchanged with only minor
+modifications. Broad-scale ascent beneath the upper low over the
+Eastern US is supporting scattered, but shallow convection across
+the Northeast and New England. Low-topped thunderstorms will likely
+continue to pose a risk for occasional damaging gusts this
+afternoon. Limited moisture, and resulting buoyancy will continue to
+be the limiting factor for more sustained/stronger storms. Have
+trimmed the western extent of the Thunder area over parts of PA/OH.
+Scattered non-severe storms are also possible over the Four Corners
+and western US, see the previous discussion for more info.
+
+..Lyons.. 04/15/2025
+
+.PREV DISCUSSION... /ISSUED 1114 AM CDT Tue Apr 15 2025/
+
+...Northeast...
+Within the base of an eastward-moving large-scale trough over the
+eastern CONUS, a related 100+ kt midlevel jet streak will pivot
+eastward across the Mid-Atlantic and Northeast today. Ascent in the
+left-exit region of the jet will promote widely scattered,
+low-topped convection across the Northeast through the afternoon.
+Despite limited post-frontal boundary-layer moisture, diurnal
+heating beneath very cold midlevel temperatures will continue to
+steepen low-level lapse rates amid strengthening low/mid-level
+winds. This environment will support locally damaging convective
+wind gusts (45-60 mph) through the afternoon -- especially with any
+small clusters/lines that can evolve.  
+
+...Four Corners into southern Colorado...
+Isolated high-based thunderstorms are expected across parts of the
+Four Corners and southern CO this afternoon, where midlevel moisture
+atop a diurnally deepening boundary layer will yield inverted-V
+profiles. As a result, a couple locally strong downbursts cannot be
+entirely ruled out.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC - No MDs are in effect as of Tue Apr 15 19:57:02 UTC 2025
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Apr 15 19:57:02 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0218 PM CDT Tue Apr 15 2025
+
+Valid 161200Z - 171200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF EASTERN ARIZONA AND
+MUCH OF NEW MEXICO...
+
+...Southwest...
+An approaching upper-level trough will provide increasing  southwest
+flow aloft atop a very dry boundary layer over the Desert Southwest
+region. Relative humidity should drop below 10 percent across much
+of the lowland areas of southeastern Arizona/Southwestern New Mexico
+during peak heating along with widespread 10-15 percent RH spread
+across the area by tomorrow afternoon. Expanded Critical and
+Elevated highlights due to higher confidence indicated from latest
+model guidance consensus.
+
+...Central High Plains...
+Elevated mid-level westerly flow will promote downslope drying and
+surface wind speeds of 15-20 mph across portions of southeastern
+Wyoming and western Nebraska. Minimal precipitation in the area over
+the last few days has allowed finer dormant/dead fuels to remain
+receptive. Added area of Elevated fire weather conditions to reflect
+overall fire weather threat.
+
+..Williams/Moore.. 04/15/2025
+
+.PREV DISCUSSION... /ISSUED 0130 AM CDT Tue Apr 15 2025/
+
+...Synopsis...
+An upper low off the southern California coast will begin to phase
+with a trough within the Northwest. Strong mid-level winds will
+develop over the Southwest by late afternoon. A surface low will
+deepen near the Colorado/Kansas border.
+
+...Southwest...
+A broad area of elevated to critical fire weather is expected from
+southern/eastern Arizona into much of New Mexico and parts of
+southeast Colorado. Strong mid-level winds and the deepening surface
+low will combine to promote 15-25 mph surface winds (highest in
+terrain-favored areas). Critical fire weather is most likely to
+occur from southeast Arizona into southwest/west-central New Mexico.
+Here, strong winds will combine with areas of 5-15% RH. Elsewhere
+within the region, combinations of weaker winds and slightly higher
+RH (10-20%) will preclude critical highlights.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Apr 15, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0204 PM CDT Tue Apr 15 2025
+
+Valid 171200Z - 181200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS IOWA...NORTHERN
+MISSOURI...EASTERN/CENTRAL NEBRASKA...
+
+...SUMMARY...
+Scattered severe thunderstorms, with a primary threat of large hail,
+are possible on Thursday evening/night, centered on eastern/central
+Nebraska, northern Missouri, and Iowa.
+
+...Synopsis...
+Large scale troughing is progged from portions of the Canadian
+Prairies into the Intermountain West and Great Basin on Thursday. A
+deepening surface low will shift eastward across the northern
+central/high Plains, with a dryline extending from southern Nebraska
+into central Kansas and Oklahoma. A triple point formed by a
+secondary surface low circulation, dryline, and a frontal
+boundary/modified outflow in central Nebraska will be the focus of
+additional development by the late afternoon/evening across
+central/eastern Nebraska.
+
+...Iowa, Nebraska, Missouri...
+Elevated thunderstorm activity is expected to be ongoing at the
+beginning of the D3 period across portions of eastern Nebraska into
+western Iowa and Missouri. Some instances of severe hail will be
+possible with this activity.
+
+Moisture return will be ongoing through much of the day, with upper
+50s to 60s dew points from central Nebraska into Iowa, eastern
+Kansas, and western Missouri. Additional development is expected
+late afternoon into the early evening across the aforementioned
+triple point in central Nebraska. Daytime heating and moisture
+return will yield MLCAPE around 1500-2000 J/kg amid steep low to
+mid-level lapse rates and ample deep layer shear. This environment
+will support supercells, some of which may be initially surface
+based and capable of very large hail and damaging wind. Further east
+across Iowa and northern Missouri, MLCIN will be in place behind
+morning convection. Cells may become elevated with eastward
+movement, but will still pose potential for large hail and damaging
+wind. The Slight was expanded westward into Nebraska to support this
+potential. Storms will continue into portions of western Illinois
+through the end of the period.
+
+..Thornton/Leitman.. 04/15/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## SPC Apr 15, 2025 1730 UTC Day 2 Convective Outlook
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1223 PM CDT Tue Apr 15 2025
+
+Valid 161200Z - 171200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS PORTIONS OF THE
+CENTRAL GREAT PLAINS...
+
+...SUMMARY...
+Isolated severe thunderstorms, with a primary threat of large hail,
+are possible on Wednesday evening/night across parts of the central
+Great Plains.
+
+...Synopsis...
+A progressive open wave trough will shift southward from Canada
+before phasing with an upper-level low off the west coast of
+California on Wednesday. The subtropical jet will spread eastward
+across the central Plains, with several embedded shortwave
+disturbances rippling through the flow. Westerly flow across the
+central/southern Rockies will promote lee cyclogenesis late in the
+period, with an increase in a southerly low-level jet across the
+southern/central Plains. 
+
+...Central Great Plains...
+Southerly return flow will bring an increase of moisture into the
+central Plains, with potential for isolated to scattered
+thunderstorm development. A limiting factor remains increasing CIN
+and low-level stability beneath a strong EML. Regardless, agreement
+has increased on convective initiation occurring near the dryline
+across portions of central/southern Kansas late in the period. Given
+the elevated nature of this convection, the greatest risk will be
+for large hail. This will continue into the lower MO Valley through
+the end of the period Thursday morning.
+
+Earlier in the period, some potential exists for development further
+south near the OK/KS border toward the end of peak heating in the
+early evening. A few hi-res solutions have hinted at development of
+a supercell or two within this region, apparent in UH tracks from
+the 12z HREF. Conditionally, an established supercell in this region
+could support very large hail, given steep lapse rates aloft and
+ample shear/CAPE.
+
+...Elsewhere...
+Isolated to scattered thunderstorms are expected from
+northern/central California into the Great Basin and northern
+Rockies through the period. These are expected to be sub-severe
+given weak shear profiles.
+
+..Thornton/Leitman.. 04/15/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1135 AM CDT Tue Apr 15 2025
+
+Valid 151700Z - 161200Z
+
+...Arizona/New Mexico...
+Increasing but still modest mid-level flow ahead of an upper-level
+trough combined with a very dry, well-mixed boundary layer is still
+expected to result in Elevated fire weather conditions across
+southeastern Arizona and southwestern New Mexico today.
+
+...Appalachians...
+Farther east, post-frontal winds from the northwest at 15-20 mph
+coincident with leeward downslope drying from the Appalachians are
+expected today across the Piedmont region. However, fuels are less
+receptive to wildfire spread as green-up accelerates across the area
+so Elevated highlights were withheld.
+
+..Williams/Moore.. 04/15/2025
+
+.PREV DISCUSSION... /ISSUED 0128 AM CDT Tue Apr 15 2025/
+
+...Synopsis...
+A cold front will move off the East Coast, leaving a dry airmass in
+its wake. A surface high will push cooler air into the Plains and
+into parts of the southern Rockies. A belt of stronger mid-level
+winds will be present within the Southwest. Embedded shortwave
+troughs may further enhance these winds locally.
+
+...Arizona/New Mexico...
+The shortwave trough expected to impact eastern Arizona and western
+New Mexico has had a slight weakening trend in guidance. Even so,
+some enhancement to the mid-level winds are expected to occur during
+the afternoon. West of the cold air intrusion in the southern
+Rockies, temperatures will warm into the 80s to perhaps near 90 F.
+This will support RH of 15-20%. Winds will not be particularly
+strong, but 15 mph with localized pockets of 20 mph is possible.
+Elevated fire weather is expected.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Apr 15, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-04-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1114 AM CDT Tue Apr 15 2025
+
+Valid 151630Z - 161200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE NORTHEAST...
+
+...SUMMARY...
+Isolated wind damage will be possible this afternoon across parts of
+the Northeast.
+
+...Northeast...
+Within the base of an eastward-moving large-scale trough over the
+eastern CONUS, a related 100+ kt midlevel jet streak will pivot
+eastward across the Mid-Atlantic and Northeast today. Ascent in the
+left-exit region of the jet will promote widely scattered,
+low-topped convection across the Northeast through the afternoon.
+Despite limited post-frontal boundary-layer moisture, diurnal
+heating beneath very cold midlevel temperatures will continue to
+steepen low-level lapse rates amid strengthening low/mid-level
+winds. This environment will support locally damaging convective
+wind gusts (45-60 mph) through the afternoon -- especially with any
+small clusters/lines that can evolve.  
+
+...Four Corners into southern Colorado...
+Isolated high-based thunderstorms are expected across parts of the
+Four Corners and southern CO this afternoon, where midlevel moisture
+atop a diurnally deepening boundary layer will yield inverted-V
+profiles. As a result, a couple locally strong downbursts cannot be
+entirely ruled out.
+
+..Weinman.. 04/15/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -184,181 +550,6 @@ MOST PROBABLE PEAK WIND GUST...UP TO 60 MPH
 
 ---
 
-## SPC Apr 14, 2025 2000 UTC Day 1 Convective Outlook
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0249 PM CDT Mon Apr 14 2025
-
-Valid 142000Z - 151200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS WEST
-VIRGINIA AND VIRGINIA...
-
-...SUMMARY...
-Scattered strong to severe storms ongoing this afternoon will
-continue through early tonight from the Upper Ohio Valley eastward
-to the Mid-Atlantic. Large hail, severe wind gusts, and a couple of
-tornadoes are likely.
-
-...20z Update OH Valley and Appalachians...
-Afternoon satellite imagery shows several areas of convection
-developing beneath a broad upper low over parts of the Midwest,
-Great Lakes and Ohio Valley. Initial storms across IN/OH/KY will
-continue to mature as the cold front moves east. Upper 50s to low
-60s F dewpoints and steep mid-level lapse rates beneath the upper
-low will support around 1000 J/kg of MLCAPE. 40-50 kt of effective
-shear, but veered low-level flow will support a mix of supercells
-and linear clusters. Hail and damaging winds appear likely, along
-with a risk for a couple tornadoes. Storms will spread east into the
-Mid Atlantic this evening, mainly with a risk for damaging gusts.
-Minimal changes were made to the outlook area on the western edge to
-capture storm development farther west along the front.
-
-...Midwest...
-Near the core of a secondary vort max over the northern Plains,
-broad-scale ascent was supporting scattered low-topped convection
-across parts of SD, NE, and northwestern IA. Strong mid-level flow
-will continue to move south as a mid-level jet intensifies. Despite
-the limited surface moisture, the relatively cold mid-level
-temperatures and strong ascent will favor some threat for small hail
-and damaging gusts with shallow storms. Have adjusted the Marginal
-southward across central IA where weak buoyancy (MUCAPE 200-300
-J/kg) may allow storms with damaging gust potential to persist
-farther south this evening.
-
-..Lyons.. 04/14/2025
-
-.PREV DISCUSSION... /ISSUED 1130 AM CDT Mon Apr 14 2025/
-
-...Upper OH Valley this afternoon into VA early tonight...
-Recent satellite imagery depicts a maturing mid-latitude cyclone
-moving eastward across Lake Superior towards northeastern Ontario
-with an upstream shortwave trough moving through the northern
-Plains. Expectation is for the cyclone to continue
-deepening/maturing as it moves into and through northeastern Ontario
-today, while the upstream shortwave progresses quickly southeastward
-through the Mid MO Valley and into the Mid MS Valley. As this
-occurs, strong mid-level flow will spread eastward across the OH
-Valley and over the Northeast and Mid-Atlantic States. 
-
-At the same time, a cold front will spread eastward across the OH
-Valley this afternoon and evening, and across the central
-Appalachians tonight. Current surface analysis reveals upper 40s to
-low 50s dewpoints ahead of the front in the Middle OH Valley, with
-the upper 50s/low 60s dewpoints farther southwest over western KY.
-This greater low-level moisture is expected to surge northeastward
-amid the moderate southwesterly low-level flow, combining with
-evapotranspiration to bring upper 50s dewpoints into upper OH Valley
-ahead of the front. 
-
-This increase in low-level moisture combined with daytime heating
-should be enough to destabilize the airmass ahead of the front
-across the Upper OH Valley. Forcing for ascent (from a combination
-of increasing large-scale ascent and forcing along the front) will
-increase across this destabilized area, supporting thunderstorm
-development during the afternoon. An initially cellular mode is
-anticipated, with steep mid-level lapse rates and long hodographs
-potentially resulting in a few supercells. Primary severe risk with
-these supercells is large hail of 1-2 inches in diameter. Some
-damaging gusts and a tornado or two are possible, although the lack
-of higher low-level moisture will mitigate the overall tornado
-potential. Strong outflow and increasing mid-level flow suggest a
-transition to a more linear mode is likely, with several bowing
-segments possible. There is also some potential for the development
-of a singular, more coherent convective line. In either case, a
-transition from hail to damaging gusts as the primary severe risk is
-anticipated as this activity spreads eastward. Clusters/line
-segments will likely persist east of the Appalachians into VA
-through early tonight, though the severe threat will diminish with
-eastward extent and after 03z. 
-
-...SD to IA this afternoon/evening...
-Low-level moisture will be limited, but surface heating beneath
-cooling midlevel temperatures will support weak surface-based
-buoyancy and the potential for low-topped showers and a few
-thunderstorms from SD into IA (in advance of a digging shortwave
-trough now over western ND/eastern MT). Relatively cold temperature
-profiles will favor some threat for small hail, while steep
-low-level lapse rates and 30+ kt flow through the mixed layer favor
-gusty outflow winds of 40-50 mph.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0233 PM CDT Mon Apr 14 2025
-
-Valid 151200Z - 161200Z
-
-Latest model guidance consensus reveals a higher confidence in
-eastern extent of Elevated fire weather concerns over portions of
-the Desert Southwest as an upper-level short wave pushes through the
-region tomorrow. Expected southwest winds of 15-20 mph combined with
-a dry boundary layer to promote Elevated fire weather conditions
-across southeastern Arizona into southwestern and central New
-Mexico. Isolated showers and a few thunderstorms with limited
-surface precipitation are expected across the Four Corners area. A
-very dry sub-cloud layer could result in gusty surface winds from
-virga, but a significant dry lightning event is not expected in the
-marginal convective environment.
-
-..Williams/Moore.. 04/14/2025
-
-.PREV DISCUSSION... /ISSUED 0138 AM CDT Mon Apr 14 2025/
-
-...Synopsis...
-A surface high will push into the southern Rockies on Tuesday. A
-weakening shortwave trough will move through parts of the Southwest.
-Farther east, a strong upper trough will move through the East Coast
-through the day. A cold front will move offshore early afternoon
-with gusty northwest wind filling in behind it.
-
-...Southwest...
-How far the cooler air pushes westward will determine the exact
-extent of fire weather risk in the vicinity of the Arizona/New
-Mexico border. Current guidance would suggest a primarily upslope
-regime into central Mexico with cooler temperatures and higher RH.
-West of this cooler air, the upper shortwave trough will be
-favorably timed during the afternoon. Dry and breezy conditions will
-lead to elevated fire weather. Surface winds of 15-20 mph and RH of
-15-20% will be possible.
-
-...Piedmont/Blue Ridge...
-RH of 20-25% is possible in the wake of the cold front where modest
-downslope winds off of the Appalachians will occur. Winds will
-potentially reach 15-20 mph. Despite these conditions, recent
-rainfall has likely tempered fuel receptiveness. No highlights will
-be added at this time.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## SPC Severe Thunderstorm Watch 138 Status Reports
 
 date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -443,243 +634,6 @@ few cumulonimbi with maximum tops to 500. Mean storm motion vector
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ww0138.html>
-
----
-
-## SPC Apr 14, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0220 PM CDT Mon Apr 14 2025
-
-Valid 161200Z - 171200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not forecast through Wednesday night.
-
-...Synopsis...
-A broad area of isolated to scattered thunderstorms are expected
-across portions of the West into the northern Rockies and central
-Plains. This is in response to forcing for ascent increasing with a
-broad area of enhanced mid-level flow rounding the western US
-trough. Largely, thunderstorms will be disorganized and sub-severe,
-owing to poor moisture and weak shear profiles. 
-
-...Central Plains...
-Large scale ascent will lead to potential for initial isolated to
-scattered thunderstorm development across portions of the central
-Plains Wednesday afternoon. This will remain sub-severe given
-marginal moisture profiles and presence of a strong EML. 
-
-As west to southwesterly mid-level flow overspreads the Rockies, lee
-cyclogenesis is expected to occur Wednesday evening. This will
-result in mass response with an increase in the southerly low-level
-jet across the southern/central Plains by late evening into the
-early morning Thursday. Return of more appreciable moisture will
-spread into portions of eastern Kansas. Convective potential will be
-tempered by a strong EML and better forcing remaining to the north
-of this region. However, should elevated thunderstorm development
-occur, some conditional risk for large hail would be possible. Given
-uncertainty in convective initiation, no areas were included with
-this outlook.
-
-..Thornton/Leitman.. 04/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## SPC Apr 14, 2025 1730 UTC Day 2 Convective Outlook
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1204 PM CDT Mon Apr 14 2025
-
-Valid 151200Z - 161200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected on Tuesday or Tuesday night.
-
-...Northeast...
-A post-frontal regime will be in place across the Northeast Tuesday.
-Flow aloft will remain modest with mid-level cooling through the
-day. This will support potential for redevelopment of scattered
-thunderstorm activity by the afternoon. Given post-frontal drying
-conditions and weak buoyancy, this should yield primarily sub-severe
-low-topped convection, though occasional gusty winds will be
-possible. 
-
-...Southwest...
-A mid-level low will approach the West Coast, with a belt of
-mid-level flow overspreading southern California into southern
-Nevada. Ahead of this feature, a weak shortwave trough will move
-across the Lower Colorado Valley towards the southern Rockies.
-Enough mid-level moisture in place with large-scale ascent will
-allow for isolated to scattered thunderstorm activity across the
-northern Sierra and across the Four Corners region. As shear
-profiles will be weak, storms are not expected to be severe.
-
-..Thornton/Leitman.. 04/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1142 AM CDT Mon Apr 14 2025
-
-Valid 141700Z - 151200Z
-
-Ongoing elevated surface winds from the northwest of 15-25 mph
-within a dry post-frontal air mass will still result in Elevated
-fire weather conditions for parts of Central Plains today. Localized
-Critical fire weather conditions could develop where cloud cover
-remains minimal across central Nebraska as relative humidity drops
-into the 15-20% range this afternoon. However, a widespread Critical
-fire weather threat is not expected.
-
-..Williams/Moore.. 04/14/2025
-
-.PREV DISCUSSION... /ISSUED 0137 AM CDT Mon Apr 14 2025/
-
-...Synopsis...
-Strong surface winds are expected in the wake of a cold front across
-the northern/central Plains today. These strong winds will persist
-into at least early afternoon. Thereafter, winds will steadily
-diminish. Despite a tendency for cooler temperatures to filter into
-the region, modest downslope flow and surface heating should allow
-temperatures to remain in the 50s/low 60s F. RH values of 20-30% are
-probable. Winds of 15-25 mph are expected. The most favorable
-overlap of these conditions are expected in parts of far southwest
-South Dakota, Nebraska, and far northern Kansas. Elevated to locally
-critical fire weather conditions will occur for a few hours this
-afternoon. Models have quite a bit variance in the location and
-duration of sustained critical conditions. This is likely due to
-uncertainties in low/mid-level clouds that will eventually move into
-Nebraska. This precludes the addition of the critical highlight at
-this time.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Apr 14, 2025 1630 UTC Day 1 Convective Outlook
-
-date: 2025-04-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1130 AM CDT Mon Apr 14 2025
-
-Valid 141630Z - 151200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS WEST
-VIRGINIA AND NORTHWEST VIRGINIA...
-
-...SUMMARY...
-Scattered strong to severe storms are expected this afternoon
-through early tonight from the Upper Ohio Valley eastward to the
-Mid-Atlantic. Large hail, severe wind gusts, and a couple of
-tornadoes will be possible.
-
-...Upper OH Valley this afternoon into VA early tonight...
-Recent satellite imagery depicts a maturing mid-latitude cyclone
-moving eastward across Lake Superior towards northeastern Ontario
-with an upstream shortwave trough moving through the northern
-Plains. Expectation is for the cyclone to continue
-deepening/maturing as it moves into and through northeastern Ontario
-today, while the upstream shortwave progresses quickly southeastward
-through the Mid MO Valley and into the Mid MS Valley. As this
-occurs, strong mid-level flow will spread eastward across the OH
-Valley and over the Northeast and Mid-Atlantic States. 
-
-At the same time, a cold front will spread eastward across the OH
-Valley this afternoon and evening, and across the central
-Appalachians tonight. Current surface analysis reveals upper 40s to
-low 50s dewpoints ahead of the front in the Middle OH Valley, with
-the upper 50s/low 60s dewpoints farther southwest over western KY.
-This greater low-level moisture is expected to surge northeastward
-amid the moderate southwesterly low-level flow, combining with
-evapotranspiration to bring upper 50s dewpoints into upper OH Valley
-ahead of the front. 
-
-This increase in low-level moisture combined with daytime heating
-should be enough to destabilize the airmass ahead of the front
-across the Upper OH Valley. Forcing for ascent (from a combination
-of increasing large-scale ascent and forcing along the front) will
-increase across this destabilized area, supporting thunderstorm
-development during the afternoon. An initially cellular mode is
-anticipated, with steep mid-level lapse rates and long hodographs
-potentially resulting in a few supercells. Primary severe risk with
-these supercells is large hail of 1-2 inches in diameter. Some
-damaging gusts and a tornado or two are possible, although the lack
-of higher low-level moisture will mitigate the overall tornado
-potential. Strong outflow and increasing mid-level flow suggest a
-transition to a more linear mode is likely, with several bowing
-segments possible. There is also some potential for the development
-of a singular, more coherent convective line. In either case, a
-transition from hail to damaging gusts as the primary severe risk is
-anticipated as this activity spreads eastward. Clusters/line
-segments will likely persist east of the Appalachians into VA
-through early tonight, though the severe threat will diminish with
-eastward extent and after 03z. 
-
-...SD to IA this afternoon/evening...
-Low-level moisture will be limited, but surface heating beneath
-cooling midlevel temperatures will support weak surface-based
-buoyancy and the potential for low-topped showers and a few
-thunderstorms from SD into IA (in advance of a digging shortwave
-trough now over western ND/eastern MT). Relatively cold temperature
-profiles will favor some threat for small hail, while steep
-low-level lapse rates and 30+ kt flow through the mixed layer favor
-gusty outflow winds of 40-50 mph.
-
-..Mosier/Weinman.. 04/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

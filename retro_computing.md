@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-15 06:08:28
+updated: 2025-04-15 14:07:38
 ---
 
 # retro computing
 
-(date: 2025-04-15 06:08:28)
+(date: 2025-04-15 14:07:38)
+
+---
+
+## So Long, ArcoLinux
+
+date: 2025-04-15, from: Linux Magazine
+
+<p>The ArcoLinux distribution is the latest Linux distribution to shut down.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/So-Long-ArcoLinux>
 
 ---
 

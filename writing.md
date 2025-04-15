@@ -1,11 +1,224 @@
 ---
 title: writing
-updated: 2025-04-15 06:08:24
+updated: 2025-04-15 14:07:36
 ---
 
 # writing
 
-(date: 2025-04-15 06:08:24)
+(date: 2025-04-15 14:07:36)
+
+---
+
+## Bacon Receives Solstice Award
+
+date: 2025-04-15, from: Locus Magazine
+
+<p></p>
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has announced Eugen Bacon is the recipient of the Kate Wilhelm Solstice Award &#8220;for distinguished contributions to the science fiction and fantasy community.&#8221;</p>
+<p>The Solstice Award, created in 2008 and given at the discretion of the SFWA president with the majority approval of the Board of Directors, is for individuals, living or dead, who have had “a significant impact on the science  <a href="https://locusmag.com/2025/04/bacon-receives-solstice-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/bacon-receives-solstice-award/>
+
+---
+
+## 2024 Aurealis Awards Shortlist
+
+date: 2025-04-15, from: Locus Magazine
+
+<p>The 2024 Aurealis Awards shortlist, recognizing the best in Australian speculative fiction, has been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Science Fiction Novel</strong></p>
+<ul>
+<li><strong>Transported</strong>, Kate Fitzpatrick (New Found)</li>
+<li><strong>Inheritance</strong>, Genevieve Gannon (Pantera)</li>
+<li><strong>The Temp</strong>, Martin Livings (self-published)</li>
+<li><strong>Big Time</strong>, Jordan Prosser (University of Queensland Press)</li>
+<li><strong>Temporal Boom</strong>, J.M. Voss (Shawline)</li>
+<li><strong>Juice</strong>, Tim Winton (Hamish Hamilton Australia)</li>
+</ul>
+<p><strong>Best Science Fiction Novella</strong><b></b></p>
+<ul>
+<li><strong>The Javan War</strong>, John Birmingham &#38; Jason </li></ul></div> <a href="https://locusmag.com/2025/04/2024-aurealis-awards-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2024-aurealis-awards-shortlist/>
+
+---
+
+## 2025 Sir Julius Vogel Awards Finalists
+
+date: 2025-04-15, from: Locus Magazine
+
+<p>Finalists for the 2025 Sir Julius Vogel Awards have been announced by the Science Fiction and Fantasy Association of New Zealand (SFFANZ).</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>A New God</strong>, Menilik Henry Dyer (Podium)</li>
+<li><strong>Echoes of Earthshine</strong>, Mel Harding-Shaw (Coruscate)</li>
+<li><strong>The Scholar and the Last Faerie Door</strong>, H.G. Parry (Hachette)</li>
+<li><strong>Sun God</strong>, Andy Southall (Amapur)</li>
+<li><strong>The</strong> <strong>Sunforge</strong>, Sascha Stronach (Simon &#38; Schuster)</li>
+</ul>
+<p><strong>Best Youth Novel</strong></p>
+<ul>
+<li><strong>The Moonlight Bridge</strong></li></ul></div> <a href="https://locusmag.com/2025/04/2025-sir-julius-vogel-awards-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-sir-julius-vogel-awards-finalists/>
+
+---
+
+## New Book Releases: 4/15/2025
+
+date: 2025-04-15, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of April 15, 2025. </strong></p>
+<p>&#160;</p>
+<p>Abdullah, Chelsea: <b>The Ashfire King</b> (Orbit US 978-0316369060, $30, 544pp, formats: hardcover, ebook, audiobook, 04/14/2025)</p>
+<p>Fantasy adventure novel, second in the Sandsea trilogy and sequel to The Stardust Thief. Loulie, a merchant, is stranded in the realm of  <a href="https://locusmag.com/2025/04/new-book-releases-4-15-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/new-book-releases-4-15-2025/>
+
+---
+
+## How is a TV show made?
+
+date: 2025-04-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-is-a-tv-show-made" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/James%20Gandolfini%2c%20Steven%20Van%20Zandt%2c%20Michael%20Imperioli%2c%20Vincent%20Pastore%2c%20and%20Tony%20Sirico%20standing%20in%20their%20best%20suits%20at%20a%20gravesite%20in%20The%20Sopranos.png" alt="James Gandolfini, Steven Van Zandt, Michael Imperioli, Vincent Pastore, and Tony Sirico standing in their best suits at a gravesite in The Sopranos" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Ever watched a TV show and wondered ‘How did they make this?’<br><br>From a writer first getting an idea to a showrunner delivering a finished season to a network, there are numerous steps in the making of a TV show, and not every journey from page to screen is the same. Some TV shows get made after years – sometimes even decades – of a TV writer paying their dues. Other TV shows are quickly greenlit. Some shows are shot in a studio. Other shows are shot at multiple locations. Some are designed for a network. Others for cable. Every scenario is different and dependent on various factors.<br><br>That being said, there are <span style="font-weight: bold;">5 stages</span> to the making of pretty much any TV show:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-is-a-tv-show-made>
+
+---
+
+## Our Take on Long Takes
+
+date: 2025-04-15, from: John August blog
+
+John and Craig break out of coverage to look at oners and long shots, cutting through any directorial showboating to compare the pros and cons and cons and cons of those unbroken takes, offering ways to decide when they are necessary or purposeful, and how to recognize when it’s better to cut. We also look [&#8230;]
+The post <a href="https://johnaugust.com/2025/our-take-on-long-takes">Our Take on Long Takes</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/683standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/683standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/our-take-on-long-takes>
+
+---
+
+## 2025 Writers & Illustrators of the Future Awards
+
+date: 2025-04-15, from: Locus Magazine
+
+<p>The 41st Writers of the Future Awards and 36th Illustrators of the Future Awards gala event took place on April 10, 2025 at the Taglyan Complex in Los Angeles CA.</p>
+<p>The Writers of the Future Golden Pen Award went to Randyn C.J. Bartholomew for story &#8220;Ascii&#8221;, and the Illustrators of the Future Golden Brush Award went to Jordan Smjastrla for the illustration of &#8220;Kill Switch&#8221;.</p>
+<p>Each Golden Award winner received  <a href="https://locusmag.com/2025/04/2025-writers-illustrators-of-the-future-awards/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-writers-illustrators-of-the-future-awards/>
+
+---
+
+## People & Publishing Roundup, March 2025
+
+date: 2025-04-15, from: Locus Magazine
+
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>ISABEL ALLENDE </strong>won the 2025 Bodley Medal, awarded an­nually by the Bodleian Libraries at Oxford University to “individu­als who have made outstanding contributions to the worlds of books and literature, libraries, media and communications, science and philanthropy,” in a ceremony on February 12, 2025 at the Morgan Library and Museum in New York.</p>
+<p><strong>C.J. LAVIGNE </strong>won the 2025 Kevin O’Donnell, Jr. Service to SFWA Award, presented to “a volunteer  <a href="https://locusmag.com/2025/04/people-publishing-roundup-march-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/people-publishing-roundup-march-2025/>
+
+---
+
+## 2025 FAAn Awards Winners
+
+date: 2025-04-15, from: Locus Magazine
+
+<p>The winners of the 2025 Fan Activity Achievement Awards (FAAns) were announced at Corflu 42, held April 11-13, 2025 in Las Vegas, NV.</p>
+<p><strong>Best Personal Zine</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li>This Here&#8230;</li>
+</ul>
+<p><strong>Best Genzine
+</strong></p>
+<ul>
+<li>Banana Wings</li>
+</ul>
+<p><strong>Best Special Publication</strong></p>
+<ul>
+<li>SF Fandom, Its Part in Our Downfall</li>
+</ul>
+<p><strong>Best Fan Writer </strong></p>
+<ul>
+<li>Nic Farey</li>
+</ul>
+<p><strong>Best Letterhack</strong></p>
+<ul>
+<li>Leigh Edmonds</li>
+</ul>
+<p><strong>Best Fan Artist</strong></p>
+<ul>
+<li>Teddy Harvia</li>
+</ul>
+<p><strong>Best Fanzine Cover Art</strong></p>
+<ul>
+<li>SF Commentary #118, Elaine Cochrane</li>
+</ul>
+<p><strong>Corflu Lifetime Achievement Award</strong></p>
+<ul>
+<li>Mark </li></ul></div> <a href="https://locusmag.com/2025/04/2025-faan-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-faan-awards-winners/>
+
+---
+
+## Cotman Wins Whiting Award
+
+date: 2025-04-15, from: Locus Magazine
+
+<p>The 2025 Whiting Award winners have been announced, including SF writer Elwin Cotman, one of four winners in the Fiction category.</p>
+<p>The ten winners are identified as &#8220;emerging writers in fiction, nonfiction, poetry, and drama,&#8221; and each receives a $50,000 grant. The award was created by New York investor and philanthropist Flora Ettlinger Whiting in 1971. Recipients of the award are selected by an anonymous committee appointed by the Foundation. <a href="https://locusmag.com/2025/04/cotman-wins-whiting-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/cotman-wins-whiting-award/>
+
+---
+
+## Beneath Ceaseless Skies, Small Wonders and Lightspeed: Reviews by Charles Payseur
+
+date: 2025-04-15, from: Locus Magazine
+
+<p>Beneath Ceaseless Skies 1/9/25
+Small Wonders 1/25
+Lightspeed 1/25</p>
+<p>January’s Beneath Ceaseless Skies issues deal with family, death, and hope, and <strong>Marie Croke </strong>does a great job of exploring those themes in “<strong>Our Echoes Drifting Through the Marsh</strong>”. In it, Embri lives in a village pushed away from its ceremonial burial marsh by the appearance of enormous, predatory birds called waders. Rather than fight for the magical place  <a href="https://locusmag.com/2025/04/beneath-ceaseless-skies-small-wonders-and-lightspeed-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/beneath-ceaseless-skies-small-wonders-and-lightspeed-reviews-by-charles-payseur/>
 
 ---
 
@@ -13,7 +226,7 @@ updated: 2025-04-15 06:08:24
 
 date: 2025-04-14, from: Locus Magazine
 
-<p>The house of artist, Hugo Award finalist and base designer, and SFF community member Sara Felix exploded on April 13, 2025. The Austin Fire Department described the house as &#8220;completely leveled,&#8221; according to My San Antonio. Felix and her children were not inside the house at the time, as the house was new and they had not moved in yet, but Felix&#8217;s husband Keith was caught in the event and  <a href="https://locusmag.com/2025/04/artist-sara-felixs-house-explodes-husband-hospitalized/" class="read-more">...Read More </a></p> 
+<p>The house of artist, Hugo Award winner and base designer, and SFF community member Sara Felix exploded on April 13, 2025. The Austin Fire Department described the house as &#8220;completely leveled,&#8221; according to My San Antonio. Felix and her children were not inside the house at the time, as the house was new and they had not moved in yet, but Felix&#8217;s husband Keith was caught in the event and  <a href="https://locusmag.com/2025/04/artist-sara-felixs-house-explodes-husband-hospitalized/" class="read-more">...Read More </a></p> 
 
 <br> 
 

@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-04-15 06:08:20
+updated: 2025-04-15 14:07:33
 ---
 
 # north america
 
-(date: 2025-04-15 06:08:20)
+(date: 2025-04-15 14:07:33)
+
+---
+
+## Ukraine is Trump’s masterclass in how best to be played
+
+date: 2025-04-15, from: The Contrarian
+
+Putin stalls. Trump spins. 
+
+<br> 
+
+<https://contrarian.substack.com/p/ukraine-is-trumps-masterclass-in>
+
+---
+
+## A most perfect specimen
+
+date: 2025-04-15, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-most-perfect-specimen>
+
+---
+
+## Trump team's newest misinformation blitz goes unchecked by big media 
+
+date: 2025-04-15, from: The Contrarian
+
+On the Sunday political talk shows, officials take credit for a Biden win and threaten alliances that build jobs. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-teams-newest-lies-about-tariffs>
+
+---
+
+## The disrespect toward Jackie Robinson’s legacy isn’t new. It’s always been this way.
+
+date: 2025-04-15, from: The Contrarian
+
+If you&#8217;re upset at the recent attempts to diminish who No. 42 was, sadly, you&#8217;re most likely part of the problem. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-disrespect-toward-jackie-robinsons>
+
+---
+
+## Live with Jared Bernstein
+
+date: 2025-04-15, from: The Contrarian
+
+A recording from Jared Bernstein's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161393643/003c62dfa392ff01060d8acbc72c4e61.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161393643/003c62dfa392ff01060d8acbc72c4e61.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/live-with-jared-bernstein>
+
+---
+
+##  Mr. Zuckerberg’s Very Expensive Day In Court 
+
+date: 2025-04-15, from: The Lever News
+
+ Meta&#39;s CEO was flanked by a cabal of $2,000-an-hour attorneys as he testified in the company&#39;s federal antitrust trial yesterday.  
+
+<br> 
+
+<https://www.levernews.com/mr-zuckerbergs-very-expensive-day-in-court/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-15, from: The Contrarian
+
+Tuesday: Rep. Alexandria Ocasio-Cortez draws a massive crowd in Utah, getting ready for the next protests, a headline worth noting. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+##  Trump Relaunches His Tariff Corruption Game 
+
+date: 2025-04-15, from: The Lever News
+
+ Trump fired a watchdog whose office warned about shady tariff exemption deals. Now, those exemptions are being handed out to donors.  
+
+<br> 
+
+<https://www.levernews.com/trump-relaunches-his-tariff-corruption-game/>
+
+---
+
+## Life Under Trump: Migrants Win Asylum, Yet Remain Locked Up
+
+date: 2025-04-15, from: Capital and Main
+
+<p>Russians who fled their homeland could be held in U.S. custody for years while ICE pushes back on the decision to grant them freedom.</p>
+<p>The post <a href="https://capitalandmain.com/life-under-trump-migrants-win-asylum-yet-remain-locked-up">Life Under Trump: Migrants Win Asylum, Yet Remain Locked Up</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/life-under-trump-migrants-win-asylum-yet-remain-locked-up>
+
+---
+
+## Tariffs: A bad idea, poorly implemented
+
+date: 2025-04-15, from: The Contrarian
+
+The president's trade policy is threatening a global recession. 
+
+<br> 
+
+<https://contrarian.substack.com/p/tariffs-a-bad-idea-poorly-implemented>
 
 ---
 
@@ -130,18 +254,6 @@ The stalling&#8212;thinly disguised as deliberation&#8212;only reinforces the tr
 <br> 
 
 <https://contrarian.substack.com/p/out-of-our-hands-the-most-dangerous>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-14, from: The Contrarian
-
-Monday: Protests in California, Tennessee, Massachusetts, and at military bases around the world, Bernie at Coachella, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

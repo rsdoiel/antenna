@@ -1,11 +1,180 @@
 ---
 title: socal north
-updated: 2025-04-15 06:08:21
+updated: 2025-04-15 14:07:34
 ---
 
 # socal north
 
-(date: 2025-04-15 06:08:21)
+(date: 2025-04-15 14:07:34)
+
+---
+
+## Supervisor Janice Hahn to propose  water taxi service for 2028 Olympics
+
+date: 2025-04-15, from: Longbeach Post
+
+<figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Boats move through the water backdropped by the Downtown Long Beach skyline." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-768x425.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1536x849.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1200x663.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1568x867.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-400x221.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“If we really want the 2028 games to be ‘transit-first,’ we have to make transit fun for people and we can’t just rely on buses and trains,” Hahn said.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/water-taxi-olympics-2028-janice-hahn-metro">Supervisor Janice Hahn to propose  water taxi service for 2028 Olympics</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/water-taxi-olympics-2028-janice-hahn-metro>
+
+---
+
+## Trump plans order to cut funding for NPR and PBS
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+President Trump and GOP members of Congress have accused the public broadcasters of biased and "woke" programming. 
+
+<br> 
+
+<https://laist.com/news/trump-plans-order-to-cut-funding-for-npr-and-pbs>
+
+---
+
+## Bipartisan senators rebuke White House move to end legal aid for unaccompanied minors
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+A letter obtained by NPR marks a rare bipartisan critique from Capitol Hill of the administration's immigration policy. 
+
+<br> 
+
+<https://laist.com/news/politics/bipartisan-senators-rebuke-white-house-move-to-end-legal-aid-for-unaccompanied-minors>
+
+---
+
+## A Library Without Walls for a City Without Limits
+
+date: 2025-04-15, from: City of Santa Clarita
+
+<p>Join the Santa Clarita Public Library for the unveiling of the Library Express and Día de los Niños on April 26 The City of Santa Clarita is proud to turn the page on a bold new chapter for the Santa Clarita Public Library with the official launch of the Library Express—a fully equipped mobile Library [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/15/a-library-without-walls-for-a-city-without-limits/">A Library Without Walls for a City Without Limits</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/15/a-library-without-walls-for-a-city-without-limits/>
+
+---
+
+## LA County approves funding for lead tests at homes downwind of Eaton Fire
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+Lead traveled in the air and settled outside the burn area. LA County will make $3 million available for people with intact properties to test their soil. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-fund-lead-tests-homes-eaton-fire>
+
+---
+
+## California Creating Debt-Free Pathways to College through Service
+
+date: 2025-04-15, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/california-creating-debt-free-pathways-to-college-through-service/>
+
+---
+
+## California sets aside $170 million to thin vegetation, forests to help prevent wildfires
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+Six conservancies throughout the state will oversee work largely in Southern California and the Sierra Nevada. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-sets-aside-170-million-to-thin-vegetation-forests-to-help-prevent-wildfires>
+
+---
+
+## A Kaiser strike by mental health workers drags on — setting a US record — as talks resume
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+Almost half a year into the dispute, eight striking Kaiser mental health workers wrapped up a hunger strike as broken-off negotiations were set to resume. 
+
+<br> 
+
+<https://laist.com/news/health/kaiser-strike-by-mental-health-workers-drags-on-setting-us-record-as-talks-resume>
+
+---
+
+## California bill to cut solar incentives prompts fierce debate
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+A member of the California Assembly from Whittier says her legislation would reduce electricity costs for people without rooftop solar panels. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-bill-to-cut-solar-incentives-prompts-fierce-debate>
+
+---
+
+## Long Beach gets 4 more Olympic events including beach volleyball, climbing, target shooting
+
+date: 2025-04-15, from: Longbeach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1024x576.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1024x576.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1536x864.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1200x675.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-1568x882.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH-400x225.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15094415/la28-venue-beach-volleyball-alamitos-beach-04-15-25-412724-0zy4pgca-616506-q9uMDMZH.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>That makes at least 11 sports coming to Long Beach during the 2028 Summer Games.</p>
+<p>The post <a href="https://lbpost.com/news/beach-volleyball-olympics-2028-long-beach-alamitos-beach">Long Beach gets 4 more Olympic events including beach volleyball, climbing, target shooting</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/beach-volleyball-olympics-2028-long-beach-alamitos-beach>
+
+---
+
+## Calling All Artists: TAP Card Artwork Competition
+
+date: 2025-04-15, from: City of Santa Clarita
+
+<p>Let Your Art Ride Across the City! The City of Santa Clarita invites artists of all ages to submit original artwork for the 2025 TAP Card Artwork Competition, a unique opportunity to showcase local talent on a limited-edition Santa Clarita Transit TAP card. Artists residing in Santa Clarita and surrounding areas are encouraged to submit [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/15/calling-all-artists-tap-card-artwork-competition/">Calling All Artists: TAP Card Artwork Competition</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/15/calling-all-artists-tap-card-artwork-competition/>
+
+---
+
+## Once again, Harvey Weinstein goes on trial for sex crimes today
+
+date: 2025-04-15, updated: 2025-04-15, from: The LAist
+
+Weinstein's New York conviction was overturned last year. The new trial will retry the case alongside a brand new charge. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/once-again-harvey-weinstein-goes-on-trial-for-sex-crimes-today>
+
+---
+
+## California sets aside $170 million to thin vegetation, forests to help prevent wildfires
+
+date: 2025-04-15, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15080041/092524-lake-tahoe-fire-mg-cm-14-923777-2aw5abcz-822504-8nL7rVHR.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Six conservancies throughout the state will oversee work largely in Southern California and the Sierra Nevada.</p>
+<p>The post <a href="https://lbpost.com/news/politics/california-sets-aside-170-million-to-thin-vegetation-forests-to-help-prevent-wildfires">California sets aside $170 million to thin vegetation, forests to help prevent wildfires</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/california-sets-aside-170-million-to-thin-vegetation-forests-to-help-prevent-wildfires>
 
 ---
 
@@ -73,7 +242,7 @@ Officials are asking what qualifications you think the department's leader shoul
 
 date: 2025-04-14, from: Longbeach Post
 
-<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-768x467.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-178x108.jpg 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-400x243.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-1024x623.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-768x467.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-178x108.jpg 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2-400x243.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/14150055/14apr25-airport-1-690242-3t479oud-613824-HTlvLQl2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Traffic should ease at the airport — with six pick-up and drop-off lanes instead of four.</p>
 <p>The post <a href="https://lbpost.com/news/business/trade-transportation/long-beach-airport-construction-finished-drop-off-zone">After 15 months, construction is finished on Long Beach Airport&#8217;s revamped drop-off zone</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -98,7 +267,7 @@ Dozens of witnesses are set to take the stand in the trial, including CEO Mark Z
 
 ## Why Irvine is holding a special election Tuesday — and what's at stake
 
-date: 2025-04-14, updated: 2025-04-14, from: The LAist
+date: 2025-04-14, updated: 2025-04-15, from: The LAist
 
 Irvine voters head to the poll as 2025 is poised to be a year of change for the city. Three candidates are vying for the District 5 council seat. 
 

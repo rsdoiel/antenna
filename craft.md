@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-04-15 06:08:29
+updated: 2025-04-15 14:07:39
 ---
 
 # craft
 
-(date: 2025-04-15 06:08:29)
+(date: 2025-04-15 14:07:39)
+
+---
+
+## Join Us for LAP ‘Open Wire’ Sat. Apr. 19
+
+date: 2025-04-15, from: Lost Arg Press blog
+
+Chris and I will be eagerly awaiting your woodworking questions this Saturday (April 19) from about 9 a.m.-5 p.m. On Saturday morning, an &#8220;Open Wire&#8221; post will go live. If you have a question, all you have to do is type it into the comments and we&#8217;ll – eventually – answer (we fit in weekend... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/15/join-us-for-lap-open-wire-sat-apr-19/>
 
 ---
 

@@ -1,11 +1,99 @@
 ---
 title: home
-updated: 2025-04-15 06:08:27
+updated: 2025-04-15 14:07:37
 ---
 
 # home
 
-(date: 2025-04-15 06:08:27)
+(date: 2025-04-15 14:07:37)
+
+---
+
+## In Paris, an 1800s Horse Stable Is Now an Earth-Toned Tiny Apartment
+
+date: 2025-04-15, from: Dwell
+
+A hay loft is now a sleeping area and curved built-ins facilitate movement. 
+
+<br> 
+
+<https://www.dwell.com/article/garibaldi-studio-ida-tiny-apartment-renovation-2945ec7c>
+
+---
+
+## In Baltimore, a Beautifully Restored 19th-Century Row House Asks $325k
+
+date: 2025-04-15, from: Dwell
+
+Owner and architect Logan Mahaffey refreshed the compact, three-story home’s kitchen, bathrooms, and wall finishes while preserving its charming staircase and brickwork. 
+
+<br> 
+
+<https://www.dwell.com/article/baltimore-row-house-renovation-logan-mahaffey-smp-architects-real-estate-a24337f6>
+
+---
+
+## What Does the L.A. Midcentury Dream House Look Like in the Age of Fire?
+
+date: 2025-04-15, from: Dwell
+
+California’s particular brand of indoor/outdoor living has captured our imagination for more than 50 years. But can the envious design style adapt to today’s climate? 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-modern-architectures-trial-wild-fires-neutra-frank-lloyd-wright-ray-kappe-b92c317e>
+
+---
+
+## How to Grow Fire Ball Seedless Burning Bush, a Sterile Cultivar
+
+date: 2025-04-15, from: The Gardener's Path
+
+<p>Burning bushes (Euonymus alatus) are appreciated for their bright, vibrant fall color. But thanks to their tiny seeds, the shrubs can pop up where they aren't wanted, earning them the status of invasive in some areas. There's now a sterile option available, Fire Ball Seedless. Learn more about this cultivar now. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/fire-ball-seedless-burning-bush/">How to Grow Fire Ball Seedless Burning Bush, a Sterile Cultivar</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/fire-ball-seedless-burning-bush/>
+
+---
+
+## Two Dwell Staffers Debate the Best of Salone del Mobile
+
+date: 2025-04-15, from: Dwell
+
+We had opinions about reimagined classics at Knoll, renter-unfriendly lighting, and spray-foam furniture for kids. 
+
+<br> 
+
+<https://www.dwell.com/article/salone-del-mobile-2025-roundup-d8c3f847>
+
+---
+
+## What Are Spurge Weeds and How Do You Get Rid Of Them?
+
+date: 2025-04-15, from: Family Handyman Blog
+
+<p>Knowing what spurge weeds are is the first step in getting rid of them.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/spurge-weeds/">What Are Spurge Weeds and How Do You Get Rid Of Them?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/spurge-weeds/>
+
+---
+
+## 2 of the 10 Best Places to Live in the U.S. Are out West—and They Might Surprise You
+
+date: 2025-04-15, from: Sunset Magazine - Living in the West
+
+A recent study by Niche looked at the best places to live in the U.S. and it turns out two are in the West—one in California and one in Washington. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/best-places-to-live-in-the-us-niche>
 
 ---
 

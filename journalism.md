@@ -1,11 +1,51 @@
 ---
 title: journalism
-updated: 2025-04-15 06:08:25
+updated: 2025-04-15 14:07:36
 ---
 
 # journalism
 
-(date: 2025-04-15 06:08:25)
+(date: 2025-04-15 14:07:36)
+
+---
+
+## Multicultural Center hosts Nowruz celebration
+
+date: 2025-04-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Multicultural Center hosted an event to celebrate and learn about Nowruz on Thursday, March 20. Pierce Multicultural Center Coordinator Tatevik Melkumyan collaborated</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/15/multicultural-center-hosts-nowruz-celebration/">Multicultural Center hosts Nowruz celebration</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/15/multicultural-center-hosts-nowruz-celebration/?utm_source=rss&utm_medium=rss&utm_campaign=multicultural-center-hosts-nowruz-celebration>
+
+---
+
+## Origami making event held at Cleveland Park
+
+date: 2025-04-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Under the supervision of ASO Member Louis Ochoa, the Origami Club set up a table in order to conduct one of their meetings at Cleveland</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/15/origami-making-event-held-at-cleveland-park/">Origami making event held at Cleveland Park</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/15/origami-making-event-held-at-cleveland-park/?utm_source=rss&utm_medium=rss&utm_campaign=origami-making-event-held-at-cleveland-park>
+
+---
+
+## Progressive duo Sanders and AOC take over LA with “Fighting Oligarchy” tour
+
+date: 2025-04-15, from: The Sundail (CSUN Student Newspaper)
+
+Early Saturday morning, thousands of supporters gathered at Gloria Molina Grand Park in Los Angeles to attend the contentious “Fighting Oligarchy” tour featuring Senator Bernie Sanders, progressive guest speakers and... 
+
+<br> 
+
+<https://sundial.csun.edu/192733/news/news-staff-bernie-sanders-rally/>
 
 ---
 

@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-04-15 06:08:21
+updated: 2025-04-15 14:07:34
 ---
 
 # pacific
 
-(date: 2025-04-15 06:08:21)
+(date: 2025-04-15 14:07:34)
+
+---
+
+## Coral reefs release a colorful mix of chemicals, feeding tiny ocean recyclers
+
+date: 2025-04-15, from: University of Hawaiʻi News
+
+<p>In the future, the team aims to continue discovering how chemical features can inform coral reef management and be used to advance coral restoration success.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/coral-reefs-release-chemicals/">Coral reefs release a colorful mix of chemicals, feeding tiny ocean recyclers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/coral-reefs-release-chemicals/>
 
 ---
 

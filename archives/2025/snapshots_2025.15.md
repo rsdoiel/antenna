@@ -1,11 +1,303 @@
 ---
 title: snapshots
-updated: 2025-04-15 06:08:30
+updated: 2025-04-15 14:07:40
 ---
 
 # snapshots
 
-(date: 2025-04-15 06:08:30)
+(date: 2025-04-15 14:07:40)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+Democrats Want to Visit El Salvador Prison. 
+
+<br> 
+
+<https://politicalwire.com/2025/04/15/democrats-want-to-visit-el-salvador-prison/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+Liz Truss to launch ‘uncensored’ social network to counter mainstream media. 
+
+<br> 
+
+<https://www.theguardian.com/politics/2025/apr/15/liz-truss-to-launch-uncensored-social-network-to-counter-mainstream-media>
+
+---
+
+## The Zuck and Elon Speak
+
+date: 2025-04-15, updated: 2025-04-15, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/15/the-zuck-and-elon-speak/>
+
+---
+
+## Dell 14 Plus 2-in-1 laptop now available with AMD Krackan Point or Intel Lunar Lake
+
+date: 2025-04-15, from: Liliputing
+
+<p>The Dell 14 Plus 2-in-1 is a convertible notebook with a 14 inch, 1920 x 1200 pixel touchscreen display, a 360 degree hinge and a body that weighs about 3.5 pounds and measures 16mm (0.65 inches) at its thickest point. Last month Dell launched a version of this notebook with support for up to an Intel [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dell-14-plus-2-in-1-laptop-now-available-with-amd-krackan-point-or-intel-lunar-lake/">Dell 14 Plus 2-in-1 laptop now available with AMD Krackan Point or Intel Lunar Lake</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dell-14-plus-2-in-1-laptop-now-available-with-amd-krackan-point-or-intel-lunar-lake/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+Messaging Apps: Security Matters. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/messaging-apps-security-matters?publication_id=2664509&post_id=161311873&isFreemail=true&r=ykjb&triedRedirect=true>
+
+---
+
+## Quoting Hamel Husain
+
+date: 2025-04-15, updated: 2025-04-15, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.oreilly.com/radar/a-field-guide-to-rapidly-improving-ai-products/"><p>The single most impactful investment I’ve seen AI teams make isn’t a fancy evaluation dashboard—it’s building a customized interface that lets anyone examine what their AI is actually doing. I emphasize <em>customized</em> because every domain has unique needs that off-the-shelf tools rarely address. When reviewing apartment leasing conversations, you need to see the full chat history and scheduling context. For real-estate queries, you need the property details and source documents right there. Even small UX decisions—like where to place metadata or which filters to expose—can make the difference between a tool people actually use and one they avoid. [...]</p>
+<p>Teams with thoughtfully designed data viewers iterate 10x faster than those without them. And here’s the thing: These tools can be built in hours using AI-assisted development (like Cursor or Loveable). The investment is minimal compared to the returns.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.oreilly.com/radar/a-field-guide-to-rapidly-improving-ai-products/">Hamel Husain</a>, A Field Guide to Rapidly Improving AI Products</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/hamel-husain">hamel-husain</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/15/hamel-husain/#atom-everything>
+
+---
+
+## Daily Deals (4-15-2025)
+
+date: 2025-04-15, from: Liliputing
+
+<p>The Apple TV+ adaptation of Martha Wells&#8217; Murderbot series of books debuts on May 16th. And if you&#8217;re looking to tune in without paying full price for an Apple TV+ subscription, you might want to take advantage of a deal that lets new or returning subscribers pay $2.99 per month for up to three months. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-4-15-2025/">Daily Deals (4-15-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-4-15-2025/>
+
+---
+
+## WTF 2.0: Paul Krugman
+
+date: 2025-04-15, from: Paul Krugman
+
+A recording from Paul Krugman and Jonathan V. Last's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161398308/9faecae855c476b9e5d580e49556c32f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161398308/9faecae855c476b9e5d580e49556c32f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/wtf-20-paul-krugman>
+
+---
+
+## dlsym Considered Harmful on iOS 18.4
+
+date: 2025-04-15, from: Michael Tsai
+
+Fabien Perigaud (tweet): This time, we will dynamically resolve and use strcmp(). [&#8230;] Instead of a nice log indicating that the two strings are not the same, our application crashed... [&#8230;] What just happened? Why is the pointer incorrectly signed? Why do I have a kernel pointer in PC? [&#8230;] A XPACI instruction is clearly [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/15/dlsym-considered-harmful-on-ios-18-4/>
+
+---
+
+## How Disk Images and VMs Are More Efficient
+
+date: 2025-04-15, from: Michael Tsai
+
+Howard Oakley: What happens with an Apple silicon VM is a bit more complicated, and harder to observe. This time the virtualisation app should create the disk image inside the VM bundle as a sparse file to begin with, then copy into that what&#8217;s needed for the VM, so skipping the first mount stage and [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/15/how-disk-images-and-vms-are-more-efficient/>
+
+---
+
+## Git at 20
+
+date: 2025-04-15, from: Michael Tsai
+
+Taylor Blau: Exactly twenty years ago, on April 7, 2005, Linus Torvalds made the very first commit to a new version control system called Git. Torvalds famously wrote Git in just 10 days after Linux kernel developers lost access to their proprietary tool, BitKeeper, due to licensing disagreements. In fact, in that first commit, he&#8217;d [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/15/git-at-20/>
+
+---
+
+## 4chan Is Down Following What Looks to Be a Major Hack Spurred By Meme War
+
+date: 2025-04-15, from: 404 Media Group
+
+Hackers claim to have obtained 4chan's code, emails of moderators, and internal communications. 
+
+<br> 
+
+<https://www.404media.co/4chan-is-down-following-what-looks-to-be-a-major-hack-spurred-by-meme-war/>
+
+---
+
+## GMK Evo-X2 mini PC with Ryzen AI Max+ 395 ships in May, up for pre-order now for $1499 and up
+
+date: 2025-04-15, from: Liliputing
+
+<p>The GMK Evo-X2 is a little computer that packs a lot of processing power thanks to an AMD Ryzen AI Max+ 395 Strix Halo processor with 16 CPU cores, 32 threads, Radeon 8060S integrated graphics and an NPU with up to 50 TOPS of AI processing performance. First unveiled in March, the Evo-X2 is now available [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gmk-evo-x2-mini-pc-with-ryzen-ai-max-395-ships-in-may-up-for-pre-order-now-for-1499-and-up/">GMK Evo-X2 mini PC with Ryzen AI Max+ 395 ships in May, up for pre-order now for $1499 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gmk-evo-x2-mini-pc-with-ryzen-ai-max-395-ships-in-may-up-for-pre-order-now-for-1499-and-up/>
+
+---
+
+## How would an old school techno-optimist make sense of the Trump administration?
+
+date: 2025-04-15, from: Dave Karpf's blog
+
+<This is me venting.> I just need to vent for a moment. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/how-would-an-old-school-techno-optimist>
+
+---
+
+## The War Between the States – Civil War sites in the National Register of Historic Places
+
+date: 2025-04-15, from: National Archives, Text Message blog
+
+Last Saturday marked the 164th anniversary of the start of the Civil War, which started on April 12, 1861, when the Confederacy bombarded the Union fort, Fort Sumter in South Carolina.&#160; There are a number of properties in the National Register, specific to the Civil War, including the Fort Sumter National Monument on Sullivan’s Island &#8230; <a href="https://text-message.blogs.archives.gov/2025/04/15/the-war-between-the-states-civil-war-sites-in-the-national-register-of-historic-places/" class="more-link">Continue reading <span class="screen-reader-text">The War Between the States – Civil War sites in the National Register of Historic Places</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/04/15/the-war-between-the-states-civil-war-sites-in-the-national-register-of-historic-places/>
+
+---
+
+## Messaging Apps: Security Matters
+
+date: 2025-04-15, from: Guy Kawasaki blog
+
+Frederick Scholl, Associate Teaching Professor of Cybersecurity, Quinnipiac University 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/messaging-apps-security-matters>
+
+---
+
+## The AI Tools CBP Is Using to Scan Social Media
+
+date: 2025-04-15, from: 404 Media Group
+
+Customs and Border Protection released more documents last week that show which AI-powered tools that agency has been using to identify people of interest. 
+
+<br> 
+
+<https://www.404media.co/the-ai-tools-cbp-is-using-to-scan-social-media/>
+
+---
+
+## Google DeepMind Is Hiring a 'Post-AGI' Research Scientist
+
+date: 2025-04-15, from: 404 Media Group
+
+Google is preparing for a future with AGI, ASI, and machine consciousness. 
+
+<br> 
+
+<https://www.404media.co/google-deepmind-is-hiring-a-post-agi-research-scientist/>
+
+---
+
+## Space Oddity, Goodfellas in the White House, and my New Coping Mechanism
+
+date: 2025-04-15, from: Tina Brown
+
+A friend of mine in her forties hosted a birthday party last week at New York&#8217;s most glamorous new club with the dress code of &#8220;drop-dead sexy,&#8221; which gave me a burst of insecurity. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/space-oddity-goodfellas-in-the-white>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-15, from: Robert's feed at BlueSky)
+
+This is an idea worth revisiting in academia. http://scripting.com/2025/04/14.html#a132939 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmucgduy3k2x>
+
+---
+
+## Inside the Economy of AI Spammers Getting Rich By Exploiting Disasters and Misery
+
+date: 2025-04-15, from: 404 Media Group
+
+How AI spammers monetized the LA fires and other natural disasters. 
+
+<br> 
+
+<https://www.404media.co/inside-the-economy-of-ai-spammers-getting-rich-by-exploiting-disasters-and-misery/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-15, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmu7ozh6zc2x>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+The history of Tesla&#39;s self-driving computers. I didn&#39;t know there was such a thing, though I paid the extra money for self-driving. 
+
+<br> 
+
+<https://electrek.co/2025/04/14/tesla-tsla-replace-computer-4-million-cars-or-compensate-their-owners/>
+
+---
+
+## PureOS Crimson Development Report: March 2025
+
+date: 2025-04-15, from: Purism News and Events
+
+<p>Welcome back!  Since our first update in July 2024, our PureOS Crimson updates have addressed major foundational work.  We've handled archive maintenance, infrastructure work, and critical functionality.  These lay the foundation for a solid operating system.  Now that the foundations are strong, we're working up the stack into the individual packages that form PureOS.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-march-2025/">PureOS Crimson Development Report: March 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/pureos-crimson-development-report-march-2025/>
 
 ---
 
@@ -30,6 +322,18 @@ DOGE is stealing your tax revenue and giving it to rich cheaters
 <br> 
 
 <https://paulkrugman.substack.com/p/happy-tax-evasion-day>
+
+---
+
+## A Field Guide to Rapidly Improving AI Products
+
+date: 2025-04-15, from: O'Reilly Radar
+
+Most AI teams focus on the wrong things. Here’s a common scene from my consulting work: AI TEAMHere’s our agent architecture—we’ve got RAG here, a router there, and we’re using this new framework for… ME[Holding up my hand to pause the enthusiastic tech lead]Can you show me how you’re measuring if any of this actually [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/a-field-guide-to-rapidly-improving-ai-products/>
 
 ---
 
