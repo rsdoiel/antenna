@@ -1,11 +1,486 @@
 ---
 title: pacific
-updated: 2025-04-15 14:07:34
+updated: 2025-04-16 06:08:27
 ---
 
 # pacific
 
-(date: 2025-04-15 14:07:34)
+(date: 2025-04-16 06:08:27)
+
+---
+
+## White House ends a regular reporting slot for independent newswires
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration said Tuesday that it would no longer reserve a regular slot in the presidential press pool for three independent newswires that have participated for decades, including The Associated Press.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/white-house-ends-a-regular-reporting-slot-for-independent-newswires/>
+
+---
+
+## State, county team up to fight invasive beetle
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Agriculture and Hawaii County Public Works Department have been working collaboratively since January to combat the coconut rhinoceros beetle after detections in the Kona area.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/hawaii-news/state-county-team-up-to-fight-invasive-beetle/>
+
+---
+
+## Homeless woman accused of abusing puppy
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>A 58-year-old Hilo woman with no permanent address is accused of abusing a pet puppy and interfering with police when they arrested her and took the animal from her.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/hawaii-news/homeless-woman-accused-of-abusing-puppy/>
+
+---
+
+## In showdowns with the courts, Trump is increasingly combative
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration&#8217;s compliance with court orders started with foot-dragging, moved to semantic gymnastics and has now arrived at the cusp of outright defiance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/in-showdowns-with-the-courts-trump-is-increasingly-combative/>
+
+---
+
+## Hawaii tightens firearms laws
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green has signed into law two bills regulating guns in the islands and is considering two others as the state Legislature this year moved to strengthen Hawaii&#8217;s already strict firearm laws.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/hawaii-news/hawaii-tightens-firearms-laws/>
+
+---
+
+## Draft EA details effort to manage, improve the trailhead area at Pololu
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>A plan to preserve the cultural, historical and environmental resources at the Pololu Valley Trailhead is moving forward.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/hawaii-news/draft-ea-details-effort-to-manage-improve-the-trailhead-area-at-pololu/>
+
+---
+
+## Keiki Easter events this Friday
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County and its and community partners will host free Easter events Friday in Hilo and Pahala featuring egg hunts, games and more.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/community/keiki-easter-events-this-friday/>
+
+---
+
+## Lifeguard certification course to be offered in Kapa‘au
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Parks &#38;Recreation is offering a lifeguard certification course at Kohala Swimming Pool at Kamehameha Park in Kapa&#8216;au.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/community/lifeguard-certification-course-to-be-offered-in-kapaau/>
+
+---
+
+## Beekeeping workshop at Laupahoehoe library
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>A workshop about &#8220;Regenerative Beekeeping in Hawaii&#8221; will explore honey bee biology and beekeeping practices that support bee genetics and the natural health of colonies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/community/beekeeping-workshop-at-laupahoehoe-library/>
+
+---
+
+## Kona Orchid Society to host 40th Orchid Show and sale
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Celebrate the 40th anniversary of the Kona Orchid Society next month at the club&#8217;s annual Mother&#8217;s Day Orchid Show and Plant &#38;Craft Sale.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/community/kona-orchid-society-to-host-40th-orchid-show-and-sale/>
+
+---
+
+## Ikawa, Sunahara, Chu to be honored at Hilo High Foundation dinner
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>Allan Ikawa, Reed Sunahara and Newton Chu have been named recipients of Hilo High Foundation Distinguished Alumni Awards.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/community/ikawa-sunahara-chu-to-be-honored-at-hilo-high-foundation-dinner/>
+
+---
+
+## Whistleblower org says DOGE may have caused ‘significant cyber breach’ at US labor watchdog
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A whistleblower complaint says that billionaire Elon Musk&#8217;s team of technologists may have been responsible for a &#8220;significant cybersecurity breach,&#8221; likely of sensitive case files, at America&#8217;s federal labor watchdog.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/whistleblower-org-says-doge-may-have-caused-significant-cyber-breach-at-us-labor-watchdog/>
+
+---
+
+## Philippines, China accuse each other of dangerous moves in disputed South China Sea shoal
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>BEIJING/MANILA &#8212; China and the Philippines accused each other on Tuesday of dangerous manoeuvres in a hotly disputed shoal in the South China Sea, in the latest confrontation over the waterway.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/philippines-china-accuse-each-other-of-dangerous-moves-in-disputed-south-china-sea-shoal/>
+
+---
+
+## More than 20,000 IRS employees offer to resign
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; About 22,000 employees at the IRS have signed up for the Trump administration&#8217;s latest resignation offer, according to four people familiar with the matter, an exodus that could weaken the agency&#8217;s ability to collect taxes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/more-than-20000-irs-employees-offer-to-resign/>
+
+---
+
+## Nissan to cut Japanese production of top-selling US model due to tariffs, source says
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Nissan will cut Japanese production of its top-selling U.S. model, the Rogue SUV, over May-July, said a person familiar with the matter, becoming the latest global automaker to alter manufacturing plans in response to new U.S. import tariffs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/nissan-to-cut-japanese-production-of-top-selling-us-model-due-to-tariffs-source-says/>
+
+---
+
+## Top Pentagon adviser placed on leave in leak investigation
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A top adviser of Defense Secretary Pete Hegseth was escorted from the Pentagon on Tuesday as part of an investigation into an unauthorized disclosure of sensitive information, a U.S. defense official said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/top-pentagon-adviser-placed-on-leave-in-leak-investigation/>
+
+---
+
+## UNICEF projects 20% drop in 2026 funding after US cuts
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>UNITED NATIONS &#8212; UNICEF has projected that its 2026 budget will shrink by at least 20% compared to 2024, a spokesperson for the U.N. children&#8217;s agency said on Tuesday, after U.S. President Donald Trump slashed global humanitarian aid.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/unicef-projects-20-drop-in-2026-funding-after-us-cuts/>
+
+---
+
+## Trump administration proposes scrapping UN peacekeeping funding
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The White House budget office has proposed eliminating funding for United Nations peacekeeping missions, citing failures by operations in Mali, Lebanon and Democratic Republic of Congo, according to internal planning documents seen by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/trump-administration-proposes-scrapping-un-peacekeeping-funding/>
+
+---
+
+## Italian teen set to be first millennial saint was ‘ordinary child’, says mother
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>ASSISI, Italy &#8212; Carlo Acutis, a British-born Italian boy who built websites to spread his faith, will be proclaimed the Catholic Church&#8217;s first saint of the millennial generation this month, elevating him to the same level as Mother Teresa and Francis of Assisi.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/italian-teen-set-to-be-first-millennial-saint-was-ordinary-child-says-mother/>
+
+---
+
+## News in brief for April 16
+
+date: 2025-04-16, from: Hawaii Tribune Harold
+
+
+				<p>US transfers Mexican border lands to the Army to prevent crossings</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/16/nation-world-news/news-in-brief-for-april-16-2/>
+
+---
+
+## Legal quagmire: Guam governor hits AG's contracts with private lawyers 
+
+date: 2025-04-16, from: Pacific Island Times
+
+Lou Leon Guerrero                                                        Douglas Moylan By Pacific Island Times News Staff   Gov. Lou... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/legal-quagmire-guam-governor-hits-ag-s-contracts-with-private-lawyers>
+
+---
+
+## Uniting for a Sustainable Ocean Future
+
+date: 2025-04-16, from: University of the South Pacific (Fiji)
+
+<p>The third and final day of the Advancing Ocean Learning: Navigating Knowledge in the Pacific...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/uniting-for-a-sustainable-ocean-future/">Uniting for a Sustainable Ocean Future</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/uniting-for-a-sustainable-ocean-future/>
+
+---
+
+## Into the heart of Melanesia: a new travelogue
+
+date: 2025-04-16, from: Pacific Island Times
+
+Most writing about Melanesia these days comes from academics, funded by government grants, at least some of which come with “no surprises clauses” written into them.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/into-the-heart-of-melanesia-a-new-travelogue>
+
+---
+
+## Volleyball’s Kearney earns 1st career Big West Freshman of the Week
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>Finn Kearney was named the Big West Freshman of the Week after a standout performance against Long Beach State.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/kearney-1st-bw-freshman-of-the-week/">Volleyball’s Kearney earns 1st career Big West Freshman of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/kearney-1st-bw-freshman-of-the-week/>
+
+---
+
+## In memoriam: Garrett Estrin, former UH Hilo men’s soccer coach
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>Garrett Estrin died on April 17 after a two-year battle with esophageal cancer.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/in-memoriam-garrett-estrin/">In memoriam: Garrett Estrin, former <abbr>UH</abbr> Hilo men’s soccer coach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/in-memoriam-garrett-estrin/>
+
+---
+
+## Rainbow Wahine clinch Big West water polo regular season title
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>The women’s water polo team capped an undefeated Big West season with a 14-4 win over Cal State Fullerton.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/wahine-clinch-water-polo-title/">Rainbow Wahine clinch Big West water polo regular season title</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/wahine-clinch-water-polo-title/>
+
+---
+
+## Hawaiian Word of the Week: Hele wāwae
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>Hele wāwae&#8212;Walk.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/hawaiian-word-of-the-week-hele-wawae/">Hawaiian Word of the Week: Hele wāwae</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/hawaiian-word-of-the-week-hele-wawae/>
+
+---
+
+## 24 ‘Bows earn academic all-Big West honors
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>The women’s swimming and diving team led with nine student-athletes earning Academic All-Big West honors.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/24-bows-earn-academic-all-big-west-honors/">24 ‘Bows earn academic all-Big West honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/24-bows-earn-academic-all-big-west-honors/>
+
+---
+
+## UH Hilo tennis’ Paquet and Mountain earn singles rankings
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>Jaime Paquet and McKenna Mountain were ranked among the top 75 singles.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/tennis-paquet-and-mountain-singles-rankings/"><abbr>UH</abbr> Hilo tennis’ Paquet and Mountain earn singles rankings</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/tennis-paquet-and-mountain-singles-rankings/>
+
+---
+
+## Merrie Monarch Week at UH Hilo: Lei, hula, cultural presentations
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>Kahikuon&#257;lani Merrie Monarch Engagements will host a series of cultural events at <abbr>UH</abbr> Hilo that honor the legacy of hula.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/merrie-monarch-week-at-uh-hilo/">Merrie Monarch Week at <abbr>UH</abbr> Hilo: Lei, hula, cultural presentations</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/merrie-monarch-week-at-uh-hilo/>
+
+---
+
+## USP Celebrates 40 Years of Empowering Global Experiences with ISEP, Forging New Paths for Indigenous Exchange
+
+date: 2025-04-16, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) is celebrating a remarkable 40-year partnership with the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-celebrates-40-years-of-empowering-global-experiences-with-isep-forging-new-paths-for-indigenous-exchange/">USP Celebrates 40 Years of Empowering Global Experiences with ISEP, Forging New Paths for Indigenous Exchange</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-celebrates-40-years-of-empowering-global-experiences-with-isep-forging-new-paths-for-indigenous-exchange/>
+
+---
+
+## Family medicine celebrates 30 years of caring for Hawaiʻi communities
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>The program celebrated 30 years of training physicians to care for communities across <span aria-label="Hawaii">Hawai&#699;i</span> and the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/family-medicine-program-30th-anniversary/">Family medicine celebrates 30 years of caring for Hawaiʻi communities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/family-medicine-program-30th-anniversary/>
+
+---
+
+## Leaked paper reveals New Caledonia heading for political status limbo
+
+date: 2025-04-16, from: Pacific Island Times
+
+The document reads, "Considering the inalienable right to self-determination of the people of New Caledonia, sovereign over their own destiny" and later referred to "New Caledonian citizens." The document also left open the door for another independence referendum. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/leaked-paper-reveals-new-caledonia-heading-for-political-status-limbo>
+
+---
+
+## UH Mānoa summer sessions offer flexibility, opportunity
+
+date: 2025-04-15, from: University of Hawaiʻi News
+
+<p>Summer sessions includes three terms for undergraduate and graduate students to choose from.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/15/uh-manoa-summer-sessions-2025/"><abbr>UH</abbr> Mānoa summer sessions offer flexibility, opportunity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/15/uh-manoa-summer-sessions-2025/>
+
+---
+
+## Day Two at “Advancing Ocean Learning” Conference Marks a Milestone for Pacific Ocean Knowledge
+
+date: 2025-04-15, from: University of the South Pacific (Fiji)
+
+<p>The second day of the Advancing Ocean Learning: Navigating Knowledge in the Pacific conference at...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/day-two-at-advancing-ocean-learning-conference-marks-a-milestone-for-pacific-ocean-knowledge/">Day Two at “Advancing Ocean Learning” Conference Marks a Milestone for Pacific Ocean Knowledge</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/day-two-at-advancing-ocean-learning-conference-marks-a-milestone-for-pacific-ocean-knowledge/>
 
 ---
 
@@ -19,6 +494,126 @@ The post <a href="https://www.hawaii.edu/news/2025/04/15/coral-reefs-release-che
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/15/coral-reefs-release-chemicals/>
+
+---
+
+## CHCC strengthens and continues monitoring of measles outbreaks in US
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+THE Commonwealth Healthcare Corporation continues to monitor the ongoing measles outbreak in the U.S. and is advising community members to take preventive measures against the infectious disease. Measles is highly contagious and spreads through the air when an infected person coughs or sneezes. Measles starts with fever, followed by cough, runny nose, and red eyes. Then a rash of tiny, red spots breaks out, starting at the head and spreads to the rest of the body. Symptoms usually begin 7 to 10 days after infection. Community members are encouraged to contact their primary care provider or CHCC Emergency Room ahead if they are experiencing symptoms of Measles. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/chcc-strengthens-and-continues-monitoring-of-measles-outbreaks-in-us/article_97ab9d46-fcca-42c1-b0f8-cabcfdad468c.html>
+
+---
+
+## Harvard rejects Trump demands, gets hit by $2.3 billion funding freeze
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+(Reuters) — Harvard on Monday rejected numerous demands from the Trump administration that it said would cede control of the school to a conservative government that portrays universities as dangerously leftist. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/harvard-rejects-trump-demands-gets-hit-by-2-3-billion-funding-freeze/article_2a7bce3f-7000-4e91-91de-c0965f28ea4e.html>
+
+---
+
+## Red flags at 2 Saipan sites
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+THE Bureau of Environmental Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-2-saipan-sites/article_33be9ff7-895f-45ca-a6f7-fd57cea9a054.html>
+
+---
+
+## Rota delegation backs King-Hinds’ Essential Air Service bill
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+THE Rota Legislative Delegation last week unanimously adopted RLD Resolution 24-4, supporting H.R. 2132, which U.S. Congresswoman Kimberlyn King-Hinds introduced in the U.S. House of Representatives. The bill would make the CNMI eligible to participate in the U.S. Department of Transportation’s Essential Air Service or EAS program. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rota-delegation-backs-king-hinds-essential-air-service-bill/article_9c36eefb-2ff5-4561-a738-bcc4be831fb4.html>
+
+---
+
+## Senators say gaming initiatives still on the table for Tinian
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+INITIATIVES to allow gambling activities beyond casino gaming remain an option for Tinian as the island seeks to boost revenue for public programs and jobs, according to two of its senators. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senators-say-gaming-initiatives-still-on-the-table-for-tinian/article_c3666a6d-b3a5-48d1-afd4-d36198ba7aae.html>
+
+---
+
+## PEGS selected as finalist for 2025 Secretary of Defense Employer Support Freedom Award
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+THE Guam-CNMI Committee for Employer Support of the Guard and Reserve on Monday announced that Pacific Engineering Group &amp; Services or PEGS has been selected as a finalist for the 2025 Secretary of Defense Employer Support Freedom Award. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/pegs-selected-as-finalist-for-2025-secretary-of-defense-employer-support-freedom-award/article_874e0913-f82d-4de7-90b0-f8b9b43295eb.html>
+
+---
+
+## Guam musician Chris Carillo  passes away
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+CHRIS Carillo, a member of Guam-based band Biggah and Bettah, passed away on Monday,  after a bout with liver cirrhosis, it was announced on the GoFundMe page set up to support his liver transplant. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/guam-musician-chris-carillo-passes-away/article_3e9087e3-ad78-4179-ba72-c02f13dc902f.html>
+
+---
+
+## Official: Fiji’s economy strong despite global tariff uncertainty
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+SUVA (FBC News/Pacnews) — Fiji's Deputy Prime Minister and Minister for Finance Professor Biman Prasad said the direct short-term impact of U.S. tariffs on Fiji is unlikely to be significant. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/official-fiji-s-economy-strong-despite-global-tariff-uncertainty/article_cf1cad72-f47d-428d-a285-5a3e4887c15b.html>
+
+---
+
+## Wanted for theft
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+THE Department of Public Safety-Criminal Investigation Bureau is seeking the community’s assistance in identifying the person who stole a donation jar from the cashier’s counter at the XK Market in Chalan Kanoa. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/wanted-for-theft/article_2b4974e4-80fe-41b3-9b41-1fb8c92b1ba8.html>
+
+---
+
+## Jury weighs conspiracy and theft by deception charges
+
+date: 2025-04-15, updated: 2025-04-16, from: Marianas Variety
+
+AFTER receiving instructions from Superior Court Judge Teresa Kim-Tenorio, jurors began deliberations on Tuesday in the trial of former Chief of Parole Nick Reyes and F&amp;S Corporation owner Chuilian Fu, who are charged with conspiracy to commit misconduct in public office, conspiracy to commit theft by deception, and theft by deception. They have denied the charges. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/jury-weighs-conspiracy-and-theft-by-deception-charges/article_2e261adc-9328-40b2-830d-6cf1283c4288.html>
 
 ---
 

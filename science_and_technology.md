@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-04-15 14:07:35
+updated: 2025-04-16 06:08:28
 ---
 
 # science and technology
 
-(date: 2025-04-15 14:07:35)
+(date: 2025-04-16 06:08:28)
+
+---
+
+## Russians lure European diplomats into malware trap with wine-tasting invite
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Vintage phishing varietal has improved with age</h4> <p>Russia never stops using proven tactics, and its Cozy Bear, aka APT 29, cyber-spies are once again trying to lure European diplomats into downloading malware with a phony invitation to a lux event.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/cozy_bear_grapeloader/>
+
+---
+
+## Going Home: NASA Retires S-3B Viking to POW/MIA Museum
+
+date: 2025-04-16, from: NASA breaking news
+
+After supporting the center’s research missions for more than a decade, NASA’s S-3B Viking aircraft is moving on from NASA’s Glenn Research Center in Cleveland to begin a new and honorable assignment. The aircraft is heading to the National POW/MIA Memorial and Museum in Jacksonville, Florida, where it will be on display, honoring all Prisoners [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/going-home-nasa-retires-s-3b-viking-to-pow-mia-museum/>
+
+---
+
+## In wake of Horizon scandal, forensics prof says digital evidence is a minefield
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Outdated and misinformed legal presumptions at the heart of concerns</h4> <p>Digital forensics in the UK is in need of reform, says one expert, as the deadline to advise the government on computer evidence rules arrives.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/uk_digital_evidence_inquiry/>
+
+---
+
+## Microsoft hits Ctrl-Z after Teams trips over file sharing
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Maybe don&#39;t push to production without properly testing first?</h4> <p>Microsoft Teams experienced a file-sharing outage overnight that disrupted collaboration for many users and forced the software biz to roll back a recent backend change.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/microsoft_teams_file_sharing/>
+
+---
+
+## Legacy tech is the gift that keeps billing for UK's tax collector
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>£5.2B more thrown at the never-ending quest to modernize HMRC</h4> <p>In 2022, the UK&#39;s tax collector put £4.5 billion ($5.9 billion) on the table to help its applications become &#34;less dependent upon legacy technologies.&#34; The extent to which His Majesty&#39;s Revenue &amp; Customs (HMRC) achieved that goal is debatable, but there is no doubt it intends to spend up to £5.2 billion ($6.9 billion) more to continue the job.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/hmrc_dalas_2/>
+
+---
+
+## TalkTalk Business pulls disappearing act on customer emails
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not DNS. It can&#39;t be DNS? Right?</h4> <p>TalkTalk Business customers were forced to survive without email nearly a week after a technical fault disrupted domain hosting.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/talktalk_business_outage/>
+
+---
+
+## Apple: Since you care about yOuR pRiVaCy, we'll train our AI on made-up emails
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>It&#39;s LLMs all the way down</h4> <p>Apple, having starved its AI models of data by respecting customer privacy, plans to improve its chatbot suggestions by using made-up emails.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/apple_ai_training_privacy/>
+
+---
+
+## Guess what happens when ransomware fiends find 'insurance' 'policy' in your files
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>It involves a number close to three or six depending on the pickle you&#39;re in</h4> <p>Ransomware operators jack up their ransom demands by a factor of 2.8x if they detect a victim has cyber-insurance, a study highlighted by the Netherlands government has confirmed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/dutch_ransomware_study/>
+
+---
+
+## South Korea to build mini-fabs as part of $25 billion plan to prop up tariff-targeted industries
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Fancy a doctorate in semiconductor design? The land of K-Pop wants you to help future-proof its industry</h4> <p>South Korea has decided to dish out over $25 billion in help to industries impacted by the USA’s new tariff regime.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/south_korea_tariff_support/>
+
+---
+
+## Sols 4511-4512: Low energy after a big weekend?
+
+date: 2025-04-16, from: NASA breaking news
+
+Written by Lauren Edgar, Planetary Geologist at USGS Astrogeology Science Center Earth planning date: Monday, April 14, 2025 We all know the feeling: it’s Monday morning after a big weekend and you’re coming into the week wishing you’d had a little more time to rest and recharge.  Well, Curiosity probably feels the same way today. […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4511-4512-low-energy-after-a-big-weekend/>
+
+---
+
+## Sols 4509-4510: A weekend of long drives
+
+date: 2025-04-16, from: NASA breaking news
+
+Written by Abigail Fraeman, Planetary Geologist at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, April 11, 2025 Curiosity is continuing to book it to the potential boxwork structures.  The rover drove over 50 meters on Wednesday, and we plan to drive more than 50 meters again in today’s plan thanks to an unusually good […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4509-4510-a-weekend-of-long-drives/>
+
+---
+
+## Japan serves Google a cease and desist order over its Android bundling deals
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Won&#39;t let the Big G require its apps and search to be installed on smartphones</h4> <p>Japan’s Fair Trade Commission yesterday ordered Google to stop doing deals that require manufacturers of Android handsets to include its apps.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/japan_google_monopoly_ruling/>
+
+---
+
+## Trump derails Chinese H20 GPU sales, forcing Nvidia to eat $5.5B this quarter
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>So much for Jensen&#39;s million-dollar dinner at Mar-a-Lago</h4> <p><strong>World War Fee</strong>  The Trump administration&#39;s latest salvo in the US-China trade war has forced Nvidia to take a $5.5 billion charge, the GPU goliath revealed in a Tuesday regulatory filing that sent its stock tumbling in after-hours trading.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/trump_responds_to_nvidias_us/>
+
+---
+
+## Uncle Sam abruptly turns off funding for CVE program. Yes, that CVE program
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Because vulnerability management has nothing to do with national security, right?</h4> <p>US government funding for the world&#39;s CVE program – the centralized Common Vulnerabilities and Exposures database of product security flaws – ends Wednesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/homeland_security_funding_for_cve/>
+
+---
+
+## Pentagon needs China's rare earths, Beijing just put them behind a permit wall. Oops
+
+date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+
+<h4>Trump’s tremendous trade tussle triggers troubling twist, theoretically</h4> <p><strong>World war fee</strong>  Well, well, well. If it isn&#39;t the consequences of thine actions. The Trump administration&#39;s global trade war is threatening to hit US military readiness.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/15/china_rare_earth_elements_restrictions/>
 
 ---
 
@@ -23,7 +203,7 @@ date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 ## Meta to feed Europe's public posts into AI brains again
 
-date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+date: 2025-04-15, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 <h4>Who said this opt-out approach is OK with GDPR, was it Llama 4, hmm?</h4> <p>Meta on Monday said it plans to start training its AI models using public posts and comments shared by adults in the EU, along with interactions users have with its chatbot.…</p> 
 
@@ -54,6 +234,18 @@ Researchers from NASA’s Jet Propulsion Laboratory in Southern California, priv
 <br> 
 
 <https://science.nasa.gov/science-research/science-enabling-technology/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/>
+
+---
+
+## NASA Aims to Fly First Quantum Sensor for Gravity Measurements
+
+date: 2025-04-15, from: NASA breaking news
+
+Researchers from NASA’s Jet Propulsion Laboratory in Southern California, private companies, and academic institutions are developing the first space-based quantum sensor for measuring gravity. Supported by NASA’s Earth Science Technology Office (ESTO), this mission will mark a first for quantum sensing and will pave the way for groundbreaking observations of everything from petroleum reserves to […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/earth-science-division/earth-science-technology-office/nasa-aims-to-fly-first-quantum-sensor-for-gravity-measurements/>
 
 ---
 
@@ -431,7 +623,7 @@ NASA has announced the winning student teams in the 2025 Human Exploration Rover
 
 ## Intel flogs off majority stake in Altera to private equity for $4B
 
-date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
+date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 <h4>Buy high, sell low: FPGA biz cost x86 giant $16B decade ago</h4> <p>A decade after gobbling up Altera, Intel is loosening its grip. On Monday, the x86 giant said it&#39;s flogging a 51 percent stake in the FPGA slinger to private equity firm Silver Lake.…</p> 
 
@@ -695,9 +887,9 @@ date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
 
 ## CIO and digi VP to depart UK retail giant Asda as Walmart divorce woes settle
 
-date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
+date: 2025-04-14, updated: 2025-04-16, from: The Register (UK I.T. News)
 
-<h4>Brit retailer says troubled breakup with tech platform of former US owner nearing conclusion</h4> <p>Two of the top team behind Asda&#39;s £1 billion ($1.31 billion) tech divorce from US retail giant Walmart — which has seen a number of setbacks — are departing the company.…</p> 
+<h4>Brit retailer says troubled breakup with tech platform of former US owner nearing conclusion</h4> <p><strong>Exclusive</strong>  Two of the top team behind Asda&#39;s £1 billion ($1.31 billion) tech divorce from US retail giant Walmart — which has seen a number of setbacks — are departing the company.…</p> 
 
 <br> 
 

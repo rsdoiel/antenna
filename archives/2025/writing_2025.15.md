@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-04-15 14:07:36
+updated: 2025-04-16 06:08:30
 ---
 
 # writing
 
-(date: 2025-04-15 14:07:36)
+(date: 2025-04-16 06:08:30)
+
+---
+
+## How the Pomodoro Technique Can Boost Creativity
+
+date: 2025-04-16, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-the-pomodoro-technique-can-boost-creativity>
 
 ---
 

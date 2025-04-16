@@ -1,11 +1,185 @@
 ---
 title: food
-updated: 2025-04-15 14:07:39
+updated: 2025-04-16 06:08:34
 ---
 
 # food
 
-(date: 2025-04-15 14:07:39)
+(date: 2025-04-16 06:08:34)
+
+---
+
+## The Best Cutting Boards (2025) for Slicing, Dicing, Chopping, and Charcuterie
+
+date: 2025-04-16, from: Bon Appetet
+
+Wood, rubber, or plastic—we’ve got a recommendation for every home cook. Plus, tips for cleaning and caring for your board. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cutting-boards>
+
+---
+
+## The Pioneer Woman Admits That This Was Her Worst Recipe Ever
+
+date: 2025-04-16, from: Taste of Home
+
+<p>It turns out that even kitchen legends have bad days.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pioneer-woman-worst-recipe/">The Pioneer Woman Admits That This Was Her Worst Recipe Ever</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pioneer-woman-worst-recipe/>
+
+---
+
+## Selena Gomez Eats the Same Thing for Lunch Every Single Day
+
+date: 2025-04-16, from: Taste of Home
+
+<p>She has a routine and it sounds pretty delicious.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/selena-gomez-favorite-sandwich/">Selena Gomez Eats the Same Thing for Lunch Every Single Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/selena-gomez-favorite-sandwich/>
+
+---
+
+## Giada di Laurentiis Uses Leftover Easter Chocolate for This Dessert Recipe, and It’s Genius
+
+date: 2025-04-16, from: Taste of Home
+
+<p>I mean, assuming she has any leftover chocolate, of course.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/giada-di-laurentiis-chocolate-dessert/">Giada di Laurentiis Uses Leftover Easter Chocolate for This Dessert Recipe, and It&#8217;s Genius</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/giada-di-laurentiis-chocolate-dessert/>
+
+---
+
+## Make Espresso In The Woods With The New Coffeejack
+
+date: 2025-04-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Coffeejack V2 is live on Kickstarter now. 
+
+<br> 
+
+<https://sprudge.com/make-espresso-in-the-woods-with-the-new-coffeejack-319112.html>
+
+---
+
+## Trader Joe’s Sells Timothée Chalamet’s Go-To Snack—and We’re Obsessed
+
+date: 2025-04-16, from: Taste of Home
+
+<p>To eat like Timmy, pop this Trader Joe's find in the oven for 8 to 10 minutes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/timothee-chalamet-trader-joes-snack/">Trader Joe’s Sells Timothée Chalamet’s Go-To Snack—and We’re Obsessed</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/timothee-chalamet-trader-joes-snack/>
+
+---
+
+## How Coffee Roasters Are Offering Formerly Incarcerated People a New Path Forward
+
+date: 2025-04-16, from: The Fresh Cup
+
+<p>It can be hard for people leaving prison to find employment, which often leads to reoffending. A growing number of coffee companies are trying to change that.</p>
+<p>The post <a href="https://freshcup.com/how-coffee-roasters-are-offering-formerly-incarcerated-people-a-new-path-forward/">How Coffee Roasters Are Offering Formerly Incarcerated People a New Path Forward</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-coffee-roasters-are-offering-formerly-incarcerated-people-a-new-path-forward/>
+
+---
+
+## I Tried Carol Burnett’s ‘Raspberry Riches’ Cake, and It’s a Delight
+
+date: 2025-04-16, from: Taste of Home
+
+<p>Carol Burnett's raspberry riches cake recipe is simple perfection.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/carol-burnett-raspberry-riches-cake/">I Tried Carol Burnett&#8217;s &#8216;Raspberry Riches&#8217; Cake, and It&#8217;s a Delight</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/carol-burnett-raspberry-riches-cake/>
+
+---
+
+## Honey-Sriracha Meatballs Recipe
+
+date: 2025-04-16, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/honey-sriracha-turkey-meatballs/" title="Honey-Sriracha Meatballs Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Honey Sriracha Meatballs served on a plate drizzled with extra glaze" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These sweet and spicy Honey-Sriracha Turkey Meatballs bring the heat with big, bold flavor. Perfect for party bites or dinner, easy to make, huge on flavor. Great for game day or the star of the meal!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/honey-sriracha-turkey-meatballs/">Honey-Sriracha Meatballs Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/honey-sriracha-turkey-meatballs/>
+
+---
+
+## Chinese Court Orders an End to Slayer Espresso Knockoffs, Cimbali Says
+
+date: 2025-04-16, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Slayer Espresso machine" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Chinese court has ordered four companies to cease production and marketing of espresso machines with designs and packaging that resemble the Slayer Espresso brand.&#160; According to Cimbali Group, the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/16/cimbali-group-chinese-court-orders-companies-to-stop-making-slayer-espresso-knockoffs/>
+
+---
+
+## We Tested 10 Air Fryer Toaster Ovens—These 6 Are the Best
+
+date: 2025-04-16, from: Taste of Home
+
+<p>Our expert Product Testing Team roasted chicken and baked cake in 10 of the best air fryer toaster ovens. These are the six that impressed.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-air-fryer-toaster-ovens/">We Tested 10 Air Fryer Toaster Ovens—These 6 Are the Best</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-air-fryer-toaster-ovens/>
+
+---
+
+## Matcha Lovers, Brace for Impact—There Could Be a Shortage in 2025
+
+date: 2025-04-15, from: Taste of Home
+
+<p>Japan's beloved green tea export has seen a surge in demand.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/matcha-shortage/">Matcha Lovers, Brace for Impact—There Could Be a Shortage in 2025</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/matcha-shortage/>
+
+---
+
+## AeroPress, Inc. Goes Big With The Launch Of AeroPress Clear XL
+
+date: 2025-04-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The AeroPress XL Clear is available now. 
+
+<br> 
+
+<https://sprudge.com/aeropress-inc-goes-big-with-the-launch-of-aeropress-clear-xl-319147.html>
 
 ---
 
@@ -97,7 +271,7 @@ date: 2025-04-15, from: The Sprudge
 
 date: 2025-04-15, from: Daily Coffee News
 
-<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="Juan Valdez Cafe" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-768x488.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Colombian coffee chain Juan Valdez is planning to open 16 more stores in the United States, in the Orlando and Miami markets. The new stores will add to the... 
+<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="Juan Valdez Cafe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-768x488.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Colombian coffee chain Juan Valdez is planning to open 16 more stores in the United States, in the Orlando and Miami markets. The new stores will add to the... 
 
 <br> 
 
@@ -133,7 +307,7 @@ We tested a dozen sets to find lids that wouldn’t leak, plastic that wouldn’
 
 date: 2025-04-15, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png" class="attachment-large size-large wp-post-image" alt="Precision Coffee Tools cleaning brush 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Precision Coffee Tools brand of coffee equipment from Australian coffee roaster and equipment company Di Pacci Coffee recently launched a new steam-powered cleaning brush for commercial espresso bars. The... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png" class="attachment-large size-large wp-post-image" alt="Precision Coffee Tools cleaning brush 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Precision-Coffee-Tools-cleaning-brush-4.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Precision Coffee Tools brand of coffee equipment from Australian coffee roaster and equipment company Di Pacci Coffee recently launched a new steam-powered cleaning brush for commercial espresso bars. The... 
 
 <br> 
 
@@ -457,7 +631,7 @@ date: 2025-04-14, from: The Fresh Cup
 
 date: 2025-04-14, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/tom-kha-gai/" title="Tom Kha Gai Recipe (Thai Coconut Chicken Soup)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of creamy Thai coconut chicken soup, or tom kha gai, with sliced mushrooms, chili peppers, lemongrass, a lime wedge, and cilantro sits on a blue surface. A spoon rests in the bowl while a green cloth adds contrast in the background." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Tom Kha Gai is a spicy Thai chicken soup infused with creamy coconut, fiery Thai chilies, fragrant lemongrass, lime leaves and more, with lots mushrooms.</p>
+<a href="https://www.chilipeppermadness.com/recipes/tom-kha-gai/" title="Tom Kha Gai Recipe (Thai Coconut Chicken Soup)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of creamy Thai coconut chicken soup, or tom kha gai, with sliced mushrooms, chili peppers, lemongrass, a lime wedge, and cilantro sits on a blue surface. A spoon rests in the bowl while a green cloth adds contrast in the background." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Kha-Gai-1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Tom Kha Gai is a spicy Thai chicken soup infused with creamy coconut, fiery Thai chilies, fragrant lemongrass, lime leaves and more, with lots mushrooms.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/tom-kha-gai/">Tom Kha Gai Recipe (Thai Coconut Chicken Soup)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

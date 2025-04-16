@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-15 14:07:38
+updated: 2025-04-16 06:08:33
 ---
 
 # retro computing
 
-(date: 2025-04-15 14:07:38)
+(date: 2025-04-16 06:08:33)
+
+---
+
+## Comics from January/February 1983 Issue of Today Mag
+
+date: 2025-04-16, from: Computer ads from the Past
+
+Time for some oldie levity. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-januaryfebruary-1983>
+
+---
+
+## Another Jereon game classic to entertain....
+
+date: 2025-04-16, from: Icon Bar, RISC OS News
+
+Jeroen is continuing on his mission to convert games to RISC OS! 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2194.html>
 
 ---
 

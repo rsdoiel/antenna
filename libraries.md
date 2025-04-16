@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-15 14:07:37
+updated: 2025-04-16 06:08:32
 ---
 
 # libraries
 
-(date: 2025-04-15 14:07:37)
+(date: 2025-04-16 06:08:32)
+
+---
+
+## Guest Post — Horizon Shifting, Or, How to be a Human in Modern-day Scholarly Publishing
+
+date: 2025-04-16, from: Scholarly Kitchen
+
+<p>These are not normal times. This is a time where we are all navigating new ways of being, new ways of shifting our horizons on an hour-by-hour and day-to-day basis. It’s a time to give grace to one another.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/16/guest-post-horizon-shifting-or-how-to-be-a-human-in-modern-day-scholarly-publishing/">Guest Post &#8212; Horizon Shifting, Or, How to be a Human in Modern-day Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/16/guest-post-horizon-shifting-or-how-to-be-a-human-in-modern-day-scholarly-publishing/>
 
 ---
 

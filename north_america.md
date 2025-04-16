@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-04-15 14:07:33
+updated: 2025-04-16 06:08:25
 ---
 
 # north america
 
-(date: 2025-04-15 14:07:33)
+(date: 2025-04-16 06:08:25)
+
+---
+
+## Free Kilmar
+
+date: 2025-04-16, from: The Contrarian
+
+This human rights outrage cannot be permitted to persist 
+
+<br> 
+
+<https://contrarian.substack.com/p/free-kilmar>
+
+---
+
+##  Trump IRS Pick Was Just Enriched By Tax Schemers 
+
+date: 2025-04-16, from: The Lever News
+
+ New documents show Billy Long’s $130,000 personal debt was suddenly paid off by donors at firms policed by the tax agency he’d lead.  
+
+<br> 
+
+<https://www.levernews.com/trump-irs-pick-was-just-enriched-by-tax-schemers/>
+
+---
+
+## Evening Roundup, April 15
+
+date: 2025-04-15, from: The Contrarian
+
+Featuring Andrew Weissmann with Jen Rubin; Carron J. Phillips; Brian O'Neill; RJ Matson; Josh Levs; William Gale; and The Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-15>
+
+---
+
+## Andrew Weissmann on Trump's Inhumane Refusal to Return Maryland Man to U.S. 
+
+date: 2025-04-15, from: The Contrarian
+
+"There's no pushback, including from the Attorney General of the United States, who is sitting there, who knows what the Supreme Court has ruled" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161408943/2a37de75866f7d3f3190871a81772b21.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161408943/2a37de75866f7d3f3190871a81772b21.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/andrew-weissmann-on-trumps-inhumane>
 
 ---
 

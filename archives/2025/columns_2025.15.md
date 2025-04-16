@@ -1,11 +1,83 @@
 ---
 title: columns
-updated: 2025-04-15 14:07:35
+updated: 2025-04-16 06:08:29
 ---
 
 # columns
 
-(date: 2025-04-15 14:07:35)
+(date: 2025-04-16 06:08:29)
+
+---
+
+##  Robin Sloan&#8217;s monthly newsletter is one of my favorites, chock full of... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046627-robin-sloans-monthly-news>
+
+---
+
+## Office Hours: What to do if your old friend becomes a Trumper and asks you to dinner?
+
+date: 2025-04-16, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-to-do-if-your-old>
+
+---
+
+## April 15, 2025 
+
+date: 2025-04-16, from: Heather Cox Richardson blog
+
+A large crowd of protesters calling for the return of Kilmar Abrego Garcia, the Maryland man the Trump administration sent to a notorious terrorist prison in El Salvador, milled around the courthouse this afternoon where U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-15-2025>
+
+---
+
+## Wednesday 16 April, 2025
+
+date: 2025-04-15, from: John Naughton's online diary
+
+Blossoming Our crab-apple tree has exploded into colour. Local bee-keepers are delighted. Quote of the Day ”A lot of people look at the movies and are amazed that so many bad movies get made. But when you work in Hollywood, &#8230; <a href="https://memex.naughtons.org/wednesday-16-april-2025/40685/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-16-april-2025/40685/>
+
+---
+
+## Trump’s playbook is Viktor Orbán’s
+
+date: 2025-04-15, from: Robert Reich's blog
+
+My breakfast with Orb&#225;n expert John Shattuck 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-playbook-is-victor-orbans>
+
+---
+
+##  New cookbook from Samin Nosrat called Good Things that includes &#8220;the things... 
+
+date: 2025-04-15, updated: 2025-04-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046626-new-cookbook-from-samin-n>
 
 ---
 
@@ -21,7 +93,7 @@ date: 2025-04-15, updated: 2025-04-15, from: Jason Kittke's blog
 
 ---
 
-## PS: From Joseph Welch's granddaughter
+## PS: From Joseph Welch’s granddaughter
 
 date: 2025-04-15, from: Robert Reich's blog
 
@@ -294,7 +366,7 @@ date: 2025-04-15, updated: 2025-04-15, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-04-15, from: Dave Winer's Scripting News)
 
-<a href="https://github.com/scripting/wordlandSupport/issues/70">WordLand 0.5.4</a>. New feature, the Timeline. 
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2022/10/31/camel.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://github.com/scripting/wordlandSupport/issues/70">WordLand 0.5.4</a>. New feature, the Timeline. "I can imagine there will be a Timeline for news about WordLand, or a Timeline that contains Scripting News posts. A Timeline for all the people you work with, the people you play chess with. Basically it will be possible to have Timelines that correspond to anything that can be represented in RSS. It's possible to imagine a product where the Timeline is the main display and the editor is the one that pops up." 
 
 <br> 
 

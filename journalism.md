@@ -1,11 +1,282 @@
 ---
 title: journalism
-updated: 2025-04-15 14:07:36
+updated: 2025-04-16 06:08:31
 ---
 
 # journalism
 
-(date: 2025-04-15 14:07:36)
+(date: 2025-04-16 06:08:31)
+
+---
+
+## USG cuts programming assembly budgets by 12%
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A vote to remove speaker of the senate Elijah Barnes is scheduled for April 22.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/usg-programming-assembly/">USG cuts programming assembly budgets by 12%</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/usg-programming-assembly/>
+
+---
+
+## Students clash over Trump’s policies in spring political debate
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>​​The Trojan Democrats and USC College Republicans debated at Tommy's Place. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/students-clash-over-trumps-policies-in-spring-political-debate/">Students clash over Trump’s policies in spring political debate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/students-clash-over-trumps-policies-in-spring-political-debate/>
+
+---
+
+## Classifieds – April 16, 2025
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/classifieds-april-16-2025/">Classifieds &#8211; April 16, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/classifieds-april-16-2025/>
+
+---
+
+## On the Steps Episode 8: UCLA loses Final Four matchup, university workers strike
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week, we take you to university workers&#8217; third strike of the year, Ramadan celebrations and baseball&#8217;s game against San Diego. We are also joined by Daily Bruin sports editor, Ira Gorawara to talk about the Women&#8217;s Basketball Season and their loss to UConn in the Final Four. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/on-the-steps-episode-8-ucla-loses-final-four-matchup-university-workers-strike/>
+
+---
+
+## 43 Gould faculty condemn federal law-firm targeting
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Executive orders authorized the termination of contracts with some major law firms.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/43-gould-faculty-condemn-federal-law-firm-targeting/">43 Gould faculty condemn federal law-firm targeting</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/43-gould-faculty-condemn-federal-law-firm-targeting/>
+
+---
+
+## Nonbinary manipulator music for your situationships
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>From Cavetown to Ricky Montgomery, these artists shape heartbreak playlists.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/nonbinary-manipulator-music-for-your-situationships/">Nonbinary manipulator music for your situationships</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/nonbinary-manipulator-music-for-your-situationships/>
+
+---
+
+## Fashion through the looking glass
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The transparency, or lack thereof, in fashion right now gives a confusing sneak peek into the future of the industry. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/fashion-through-the-looking-glass/">Fashion through the looking glass</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/fashion-through-the-looking-glass/>
+
+---
+
+## Mob writer Nicholas Pileggi shares his real-life love story
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The screenwriter had a Hollywood romance with director Nora Ephron.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/mob-writer-nicholas-pileggi-shares-his-real-life-love-story/">Mob writer Nicholas Pileggi shares his real-life love story</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/mob-writer-nicholas-pileggi-shares-his-real-life-love-story/>
+
+---
+
+## ‘A real blow’: Scholars lose federal humanities funding
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>National Endowment for the Humanities cuts have hit at least 11 USC projects.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/a-real-blow-scholars-lose-federal-humanities-funding/">‘A real blow’: Scholars lose federal humanities funding</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/a-real-blow-scholars-lose-federal-humanities-funding/>
+
+---
+
+## Scientists protest cuts to the NIH and other agencies
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Friday, March 7th, over a thousand scientists from across Southern California met to protest cuts to the NIH and other agencies in Westwood. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/scientists-protest-cuts-to-the-nih-and-other-agencies/>
+
+---
+
+## Pro-Palestine groups walk out in support of Mahmoud Khalil
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Tuesday, the campus organizations Faculty for Justice in Palestine, Students for Justice in Palestine and Graduate Students for Justice in Palestine came together in a walkout. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/pro-palestine-groups-walk-out-in-support-of-mahmoud-khalil/>
+
+---
+
+## UCLA women’s gymnastics takes on Stanford
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+No.4 UCLA Women&#8217;s Gymnastics competes against No. 10 Stanford on March 9. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/ucla-womens-gymnastics-takes-on-stanford/>
+
+---
+
+## Ali’ikai Kala reflects on LA move in EP ‘The Building Down The Block Is On Fire’
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kala&#8217;s music is more than just a thread of his creativity &#8211; it&#8217;s the whole tapestry.
+Ali&#8217;ikai Kala holds certificates in music business and music production through UCLA Extension. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/aliikai-kala-reflects-on-la-move-in-ep-the-building-down-the-block-is-on-fire/>
+
+---
+
+## LA City Council recognizes graduate students at annual Luskin School event
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council honored graduate students at the Luskin School of Public Affairs on Friday for their studies in public policy, urban planning and social welfare. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/la-city-council-recognizes-graduate-students-at-annual-luskin-school-event/>
+
+---
+
+## Magic in the air with UCLA MIST
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Magic and Illusion Student Team hosts a magic show on Thursday, March 6. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/magic-in-the-air-with-ucla-mist/>
+
+---
+
+## UCLA Finals Survival Guide
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Video asks students about their favorite study spots and talks to  campus resources as the winter finals season approaches. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/ucla-finals-survival-guide/>
+
+---
+
+## Recent nutrition influencing raises concern over misinformation on eating habits
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new form of social media influencer  &#8211; the &#8220;nutrition expert&#8221; &#8211; has caused an increase in online misinformation, affecting the eating habits of young adults. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/recent-nutrition-influencing-raises-concern-over-misinformation-on-eating-habits/>
+
+---
+
+## Full Package: AFSCME 3299, UPTE 9119 strike
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Video gives a full recap on the AFSCME 3299, UPTE 9119 strike. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/full-package-afscme-3299-upte-9119-strike/>
+
+---
+
+## CSUN PRSSA Shapes the Next Generation in PR
+
+date: 2025-04-16, from: The Sundail (CSUN Student Newspaper)
+
+CSUN’s chapter of the Public Relations Student Society of America (PRSSA) is run by Co-Presidents Emma Galloway and Ruby Durant, advisors Stacy Long and Linda Bowen and the executive board... 
+
+<br> 
+
+<https://sundial.csun.edu/192799/news/csun-prssa-shapes-the-next-generation-in-pr/>
+
+---
+
+## LA County fires put at least 35,000 jobs held by Latinos at risk, report finds
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 15 11:01 p.m.</em>
+A new report from the UCLA Latino Policy and Politics Institute found that January wildfires across Los Angeles put at least 35,000 jobs held by Latinos at risk of temporary or permanent displacement. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/la-county-fires-put-at-least-35000-jobs-held-by-latinos-at-risk-report-finds/>
+
+---
+
+## AFSCME Local 3299, UPTE-CWA 9119 announce May 1 strike against UC
+
+date: 2025-04-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two UC unions called on their members to strike May 1 for the fourth time this academic year.
+The American Federation of State, County and Municipal Employees Local 3299 – which represents service, patient care and skilled craft workers – said in a press release that it is striking in response to the UC’s systemwide hiring freeze. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/15/afscme-local-3299-upte-cwa-9119-announce-may-1-strike-against-uc/>
 
 ---
 

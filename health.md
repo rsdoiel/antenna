@@ -1,11 +1,95 @@
 ---
 title: health
-updated: 2025-04-15 14:07:38
+updated: 2025-04-16 06:08:33
 ---
 
 # health
 
-(date: 2025-04-15 14:07:38)
+(date: 2025-04-16 06:08:33)
+
+---
+
+## cAMP-independent Crp homolog adds to the multi-layer regulatory network in Porphyromonas gingivalis
+
+date: 2025-04-16, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionPorphyromonas gingivalis encodes three CRP/FNR superfamily proteins: HcpR, PgRsp, and CrpPg, with CrpPg similar to cAMP-sensing proteins but not classified into known families. This study investigates the role of CrpPg in regulating the expression of factors essential for P. gingivalis virulence in A7436 and ATCC 33277 strains.MethodsThe role of CrpPg protein in P. gingivalis was determined using the ΔcrpPg mutant strains to characterize their phenotype and to assess the impact of crpPg inactivation on gene expression using RNA-seq and RT-qPCR. Additionally, the CrpPg protein was purified and characterized. ResultsKey findings in the ΔcrpPg mutant strain include up-regulated mfa1-5 and rgpA genes and down-regulated trxA, soxR, and ustA genes. While crpPg inactivation does not affect growth in liquid culture media, it impairs biofilm formation and enhances adhesion to and invasion of gingival keratinocytes. CrpPg binds directly to its own and mfa promoters without interacting with cyclic nucleotides or di-nucleotides. Its three-dimensional structure, resembling E. coli Crp in complex with cAMP and DNA, suggests that CrpPg functions as a global regulator independently of cAMP binding. The highest crpPg expression in the early exponential growth phase declines as cell density and metabolic conditions change over time, suggesting a regulatory function depending on the CrpPg protein amount.ConclusionsBy controlling the shift from planktonic to biofilm lifestyle, CrpPg may play a role in pathogenicity. Regulating the expression of virulence factors required for host cell invasion and intracellular replication, CrpPg may help P. gingivalis evade immune responses. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1535009>
+
+---
+
+## The application prospect of metagenomic next-generation sequencing technology in diagnosing suspected lower respiratory tract infections
+
+date: 2025-04-16, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveLower respiratory tract infections present substantial diagnostic and therapeutic challenges, negatively impacting individual health. This study aims to utilize metagenomic next-generation sequencing (mNGS) technology to comprehensively explore the spectrum of pathogens, the detection of antibiotic resistance genes, and contributing factors associated with lung infections.MethodThe mNGS data of 217 patients with suspected lung infections attending the Respiratory Department of Nanjing Lishui People’s Hospital and Gaochun People’s Hospital from September 2022 to September 2023 were retrospectively analyzed. The study assessed the pathogenic spectrum of lung infections and compared the performance of patients with mNGS results from conventional microbiological techniques (CMT).ResultsThe overall positivity rate of mNGS was 95.20%, demonstrating superior sensitivity (97.01% vs. 41.79%) and accuracy (75.56% vs. 56.67%) compared to CMT. Bacterial infections were the most prevalent, accounting for 60.76% of cases. And the most prevalent bacteria, fungus and virus were Mycobacterium tuberculosis (14.41%), Candida albicans (15.72%), and EB virus (14.85%), respectively. The primary resistance genes detected were tetM (17, 8.29%), mel (6, 2.93%), and PC1 beta-lactamase (blaZ) (3, 1.46%). Notably, TEM-183, PDC-5 and PDC-3 were exclusively detected in the Chronic Obstructive Pulmonary Disease (COPD) group. The multivariate binary logistic regression analysis revealed that there was no significant association between gender, presence of hypertension, or COPD with the type of infection in patients (p=0.679, p=0.229, p=0.345). However, the immune status was found to be statistically significant (p=0.009).ConclusionWith the guidance of mNGS, patients with suspected respiratory tract infections can rapidly and accurately establish a pathogenic basis for their conditions. mNGS effectively identify mixed infections, enrich the pathogen spectrum of lung infections, and provide a large and reliable information base for the clinical realization of targeted medication. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1494638>
+
+---
+
+## The immune mechanisms of the urinary tract against infections
+
+date: 2025-04-16, from: Frontiers in Cellular and Infection Microbiology
+
+Urinary tract infection (UTI), a common clinical infectious disease, is marked by high incidence and frequent recurrence. Recurrent UTIs can cause severe complications, negatively affecting health. The emergence and spread of drug-resistant bacteria present significant challenges to UTI treatment. This article systematically reviews the key immune mechanisms in the body’s defense against UTI pathogens. It discusses various immune response components, such as the urinary tract mucosal epithelium, neutrophils, macrophages, dendritic cells, mast cells, innate lymphocytes, T cells, and B cells, with the aim of providing insights for future UTI research. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1540149>
+
+---
+
+## The effects of cyclic peptide [R4W4] in combination with first-line therapy on the survival of Mycobacterium avium
+
+date: 2025-04-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMycobacterium avium (M. avium) is a nontuberculous mycobacterium (NTM) that can cause pulmonary and extrapulmonary infections mostly in immunocompromised individuals, such as those with HIV and diabetes. Traditionally, rifampicin (RIF) and azithromycin (AZ) have been used for a 12-month duration as first-line antibiotics against M. avium. Due to the increased multidrug resistance, novel ways, such as enhancement of macrophages response, are needed to provide adequate immune response required to clear M. avium infection.Methods and findingsIn this study, we aim to study the effects of using THP-1 cells, which are monocyte-like cells, to induce a macrophage response and control M. avium infection when used in combination with traditional treatments such as RIF and AZ in free and liposomal forms. Traditional treatments’ effects are studied when used alone and in combination therapy with cyclic peptide [R4W4] (liposomal encapsulated and liposomal combination). Colony-forming units (CFU) counts were assessed for all samples 3 hours, 4 days, and 8 days post-treatment. A significant reduction in the intracellular viability of M. avium was observed when THP-1 cells were treated with liposomal combination [R4W4]+RIF and liposomal combination [R4W4]+AZ compared to when treated with liposomal RIF or liposomal AZ alone, respectively.ConclusionOur findings show that liposomal combination [R4W4] is a promising adjuvant therapy to increase M. avium susceptibility to known antibiotics.  
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1547376>
+
+---
+
+## Uncovering the role of mitochondrial genome in pathogenicity and drug resistance in pathogenic fungi
+
+date: 2025-04-16, from: Frontiers in Cellular and Infection Microbiology
+
+Fungal infections are becoming more prevalent globally, particularly affecting immunocompromised populations, such as people living with HIV, organ transplant recipients and those on immunomodulatory therapy. Globally, approximately 6.55 million people are affected by invasive fungal infections annually, leading to serious health consequences and death. Mitochondria are membrane-bound organelles found in almost all eukaryotic cells and play an important role in cellular metabolism and energy production, including pathogenic fungi. These organelles possess their own genome, the mitochondrial genome, which is usually circular and encodes proteins essential for energy production. Variation and evolutionary adaptation within and between species’ mitochondrial genomes can affect mitochondrial function, and consequently cellular energy production and metabolic activity, which may contribute to pathogenicity and drug resistance in certain fungal species. This review explores the link between the mitochondrial genome and mechanisms of fungal pathogenicity and drug resistance, with a particular focus on Cryptococcus neoformans and Candida albicans. These insights deepen our understanding of fungal biology and may provide new avenues for developing innovative therapeutic strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1576485>
+
+---
+
+## Editorial: Detection and drug treatment of emerging viral diseases
+
+date: 2025-04-16, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1606637>
+
+---
+
+## Aptamer-functionalized graphene quantum dots combined with artificial intelligence detect bacteria for urinary tract infections
+
+date: 2025-04-16, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesUrinary tract infection is one of the most prevalent forms of bacterial infection, and prompt and efficient identification of pathogenic bacteria plays a pivotal role in the management of urinary tract infections. In this study, we propose a novel approach utilizing aptamer-functionalized graphene quantum dots integrated with an artificial intelligence detection system (AG-AI detection system) for rapid and highly sensitive detection of Escherichia coli (E. coli).MethodsFirstly, graphene quantum dots were modified with the aptamer that can specifically recognize and bind to E. coli. Therefore, the fluorescence intensity of graphene quantum dots was positively correlated with the concentration of E. coli. Finally, the fluorescence images were processed by artificial intelligence system to obtain the result of bacterial concentration.ResultsThe AG-AI detection system, with wide linearity (103-109 CFU/mL) and a low detection limit (3.38×102 CFU/mL), can effectively differentiate between E. coli and other urinary tract infection bacteria. And the result of detection system is in good agreement with MALDI-TOF MS.ConclusionsThe detection system is an accurate and effective way to detect bacteria in urinary tract infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1555617>
 
 ---
 

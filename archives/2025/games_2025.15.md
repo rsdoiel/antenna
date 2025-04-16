@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-04-15 14:07:36
+updated: 2025-04-16 06:08:30
 ---
 
 # games
 
-(date: 2025-04-15 14:07:36)
+(date: 2025-04-16 06:08:30)
+
+---
+
+## The best new TV of 2025 so far
+
+date: 2025-04-16, updated: 2025-04-15, from: Polygon Website
+
+If 2024 ended up being a strong and busy year for television, then 2025 is looking even bigger. TV productions were quicker to rebound following the 2023 writers’ and actors’ strikes than movies, just by nature of production. And even with the downtick (or the occasional interrupted story), there were around 500 adult original scripted [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/553485/best-new-tv-2025-shows-series>
+
+---
+
+## How to get Tinkatink and evolutions Tinkatuff and Tinkaton in Pokémon Go
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Tinkatink arrives in Pokémon Go as part of April 2025’s “Pokémon Horizons: The Series Celebration” event. The Paldea fairy- and steel-type can evolve into Tinkatuff and Tinkaton with enough Candy available. Unlike recent new Pokémon such as Gossifleur and Nickit, Tinkatink is not available in the wild on its debut — but there is one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/559536/tinkatink-tinkatuff-tinkaton-how-to-get>
+
+---
+
+## What to know about Daredevil: Born Again season 2
+
+date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
+
+Worried about the uncertain ending of Daredevil: Born Again, and wondering when, if ever, the show will return for a second season? With seven years between the final installment of Netflix’s Daredevil and this year’s Daredevil: Born Again, nobody would blame you for assuming the wait will be a long one.&#160; Fortunately, Disney Plus’ more [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/558725/daredevil-born-again-season-2-release-date-fisk-mayor>
 
 ---
 
@@ -21,7 +57,7 @@ If you just can’t get enough of the cyberpunk vibe, Humble is currently offeri
 
 ---
 
-## Wētā FX’s secret Minecraft Movie chicken jockey video sounds like a must-watch
+## Wētā FX’s team reveals what A Minecraft Movie’s chicken jockey scene looked like before the digital effects
 
 date: 2025-04-15, updated: 2025-04-15, from: Polygon Website
 

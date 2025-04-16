@@ -1,11 +1,257 @@
 ---
 title: snapshots
-updated: 2025-04-15 14:07:40
+updated: 2025-04-16 06:08:36
 ---
 
 # snapshots
 
-(date: 2025-04-15 14:07:40)
+(date: 2025-04-16 06:08:36)
+
+---
+
+## Podcast: Inside the ICE Deportation Tool
+
+date: 2025-04-16, from: 404 Media Group
+
+The powerful database and tool ICE has access to; the AI service that will call your parents for you; and the apparent hack of 4chan. 
+
+<br> 
+
+<https://www.404media.co/podcast-inside-the-ice-deportation-tool/>
+
+---
+
+## I Went to See ‘God’s Influencer,’ the Millennial Saint Carlo Acutis
+
+date: 2025-04-16, from: 404 Media Group
+
+Carlo loved Halo and programming, but he loved God more. I went to see him, lying under glass in his Nikes for eternity, at a church in Assisi.   
+
+<br> 
+
+<https://www.404media.co/visit-carlo-acutis-millennial-saint-assisi/>
+
+---
+
+## Trump Is Creating a Deportation Army of Local Cops
+
+date: 2025-04-16, from: The Markup blog
+
+The number of state and local ICE partnerships has spiked this year—especially in Florida 
+
+<br> 
+
+<https://themarkup.org/2025/04/16/trump-is-creating-a-deportation-army-of-local-cops>
+
+---
+
+## Here’s Every Local Police Agency Enforcing for ICE
+
+date: 2025-04-16, from: The Markup blog
+
+Partnerships more than doubled during the first months of Trump's current term under a program known as 287(g) 
+
+<br> 
+
+<https://themarkup.org/tools/2025/04/16/law-enforcement-ice-cooperation-tracker>
+
+---
+
+## Comics from January/February 1983 Issue of Today Mag
+
+date: 2025-04-16, from: Computer ads from the Past
+
+Time for some oldie levity. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-januaryfebruary-1983>
+
+---
+
+## Follow ooh.directory on Bluesky
+
+date: 2025-04-16, from: ooh.directory blog
+
+In case getting updates about ooh.directory via RSS feed, email, or on Mastodon isn&#x27;t enough, you can now also get them from&amp;nbsp;the site&#x27;s new Bluesky account. 
+
+<br> 
+
+<https://ooh.directory/blog/2025/bluesky/>
+
+---
+
+## THE DISCRETE CHARM OF THE TURING MACHINE in Spanish
+
+date: 2025-04-16, from: Greg Egan's feed
+
+A Spanish translation of my story THE DISCRETE CHARM OF THE TURING MACHINE 
+
+<br> 
+
+<https://cuentosparaalgernon.wordpress.com/2025/04/15/el-discreto-encanto-de-la-maquina-de-turing-de-greg-egan/>
+
+---
+
+## Asahi Lina releases all code as CC0 out of frustration
+
+date: 2025-04-16, from: Libre News
+
+After Lina stepped down from development, we  (regrettably) have a new episode of the Asahi Linux drama series. 
+
+<br> 
+
+<https://thelibre.news/asahi-lina-releases-all-code-as-cc0-out-of-frustration/>
+
+---
+
+## Why Trump Will Lose His Trade War
+
+date: 2025-04-16, from: Paul Krugman
+
+His people don&#8217;t know what they&#8217;re doing or what they want 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/why-trump-will-lose-his-trade-war>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-16, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmvuoswvd22f>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-16, from: Robert's feed at BlueSky)
+
+Truth.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmvtxjr4uk2f>
+
+---
+
+## Altman vs Musk cage match
+
+date: 2025-04-16, from: Gary Marcus blog
+
+Uh oh. Now Altman wants to build a social media company, to compete with X. Who should we root for? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/altman-vs-musk-cage-match>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-16, from: Feed for Alt USDS)
+
+Profiles in courage.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmvov53xz22s>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-16, from: Feed for Alt USDS)
+
+The IRS agreed to share taxpayer data with ICE last week. Read this post by one of our engineers and leaders that describes the technical risks to this unprecedented (and probably illegal) agreement.
+
+🔗 https://wethebuilders.org/posts/risks-of-sharing-taxpayer-data
+
+#IRSxICE #handsoffourdata 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmvmzuewxv2o>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-16, from: Dave Winer's linkblog)
+
+Texas just shot its wind + solar boom in the foot on purpose. 
+
+<br> 
+
+<https://electrek.co/2025/04/15/texas-just-shot-its-wind-solar-boom-in-the-foot-on-purpose/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-16, from: Dave Winer's linkblog)
+
+AmeriCorps. 
+
+<br> 
+
+<https://en.m.wikipedia.org/wiki/AmeriCorps>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-16, from: Dave Winer's linkblog)
+
+$109K for a church in Ohio. Wish I had a use for one of these. 
+
+<br> 
+
+<https://www.zillow.com/homedetails/1515-W-County-Road-592-Tiffin-OH-44883/449849167_zpid/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+Senator Chuck Grassley grilled at Iowa town hall over ‘shameful’ Trump policies. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/apr/15/chuck-grassley-town-hall>
+
+---
+
+## Cheap Android phones and tablets will need at least 32GB of storage moving forward
+
+date: 2025-04-15, from: Liliputing
+
+<p>Google&#8217;s Android operating system powers billions of Android phones, tablets, TV boxes, and other products and it&#8217;s designed to run on a wide range of hardware including systems with bleeding edge specs and devices with entry-level features. But every now and again Google redefines what qualifies as entry level, and it looks like the company [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/cheap-android-phones-and-tablets-will-need-at-least-32gb-of-storage-moving-forward/">Cheap Android phones and tablets will need at least 32GB of storage moving forward</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/cheap-android-phones-and-tablets-will-need-at-least-32gb-of-storage-moving-forward/>
+
+---
+
+## Book: Careless People
+
+date: 2025-04-15, from: Accidentally in Code
+
+Facebook tried to shut it down, so obviously like so many others I had to read it! Careless People covers the period of 2011-2017, the author pitches a job to Facebook working in policy, and was there from the inception of Facebook getting involved with governments. It&#8217;s a well written, engaging story. The author knows [&#8230;] 
+
+<br> 
+
+<https://cate.blog/2025/04/15/book-careless-people/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-15, from: Dave Winer's linkblog)
+
+OpenAI is building a social network. Whoa great freaking news. They should support two-way RSS! Social web for the win! 🏅 
+
+<br> 
+
+<https://www.theverge.com/openai/648130/openai-social-network-x-competitor>
 
 ---
 

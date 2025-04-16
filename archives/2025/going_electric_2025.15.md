@@ -1,11 +1,123 @@
 ---
 title: going electric
-updated: 2025-04-15 14:07:38
+updated: 2025-04-16 06:08:34
 ---
 
 # going electric
 
-(date: 2025-04-15 14:07:38)
+(date: 2025-04-16 06:08:34)
+
+---
+
+## Volkswagen ID Buzz Customers Only Want Two-Tone Colors
+
+date: 2025-04-16, from: Inside EVs News
+
+VW shipped fewer dual-tone ID Buzz stateside. Now it's incentivizing dealers to wrap them so they'll sell. 
+
+<br> 
+
+<https://insideevs.com/news/756816/vw-id-buzz-dual-tone/>
+
+---
+
+## Tesla Suspends Imports Of Cybercab, Semi Parts From China: Report
+
+date: 2025-04-16, from: Inside EVs News
+
+Tesla is reportedly halting its plans to import Chinese-built components for its upcoming Cybercab. 
+
+<br> 
+
+<https://insideevs.com/news/756764/tesla-cybercab-parts-import-tariffs/>
+
+---
+
+## This Genesis Off-Roader Could Become A Rivian R1S Rival
+
+date: 2025-04-16, from: Inside EVs News
+
+Genesis is taking a bold turn with this screen-free and off-road focused X Gran Equator concept. 
+
+<br> 
+
+<https://insideevs.com/news/756738/genesis-xgran-equator-new-york-auto-show/>
+
+---
+
+## You Can Now Lease A New Hyundai On Amazon–$7,500 Tax Credit Included
+
+date: 2025-04-16, from: Inside EVs News
+
+Dealers asked, Amazon Auto delivered. 
+
+<br> 
+
+<https://insideevs.com/news/756781/amazon-autos-car-leasing-hyundai/>
+
+---
+
+## Tesla’s Cybercab and Semi sourcing disrupted by Trump’s tariffs, report says
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600" /></div><p>A new report claims that President Trump’s tariffs have disrupted Tesla’s plan to source parts for the upcoming Cybercab and Tesla Semi production in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411528" href="https://electrek.co/2025/04/15/tesla-cybercab-semi-sourcing-disrupted-trump-tariffs-report/#more-411528" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/tesla-cybercab-semi-sourcing-disrupted-trump-tariffs-report/>
+
+---
+
+## Groundbreaking heavy equipment EVs (ha!) steals the show at bauma
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/bauma-cover.png?w=1600" /></div><p>It only happens every three years, but it’s spectacular! I’m speaking of course, about bauma – one of the largest trade shows of any kind where heavy equipment manufacturers serving construction, forestry, mining, and more bring out their latest and greatest new job site innovations, and we’ve got a whole bunch of them here, on this special bauma edition of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,liebherr,quick-charge,volvo" data-layer-viewtype="unknown" data-post-id="411519" href="https://electrek.co/2025/04/15/groundbreaking-heavy-equipment-evs-ha-steals-the-show-at-bauma/#more-411519" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/groundbreaking-heavy-equipment-evs-ha-steals-the-show-at-bauma/>
+
+---
+
+## Elon Musk goes on Tesla self-driving propaganda spree ahead of TSLA earnings
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Elon Musk went on an all-day Tesla self-driving propaganda spree ahead of the company’s earnings, which are expected to be rough.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="411501" href="https://electrek.co/2025/04/15/elon-musk-tesla-self-driving-propaganda-spree-tsla-earnings/#more-411501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/elon-musk-tesla-self-driving-propaganda-spree-tsla-earnings/>
+
+---
+
+## Texas just shot its wind + solar boom in the foot on purpose
+
+date: 2025-04-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvZmwzNjM4Njg2NjM3MC1pbWFnZS5qcGc.jpg?quality=82&#038;strip=all&#038;w=1300" /></div><p>Texas is No. 1 in the US for wind and solar capacity, but the Texas Senate just passed a bill that aims to kneecap clean energy with an industry-killing review process. Will the Texas House pass it, too?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas,wind-power" data-layer-viewtype="unknown" data-post-id="411500" href="https://electrek.co/2025/04/15/texas-just-shot-its-wind-solar-boom-in-the-foot-on-purpose/#more-411500" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/15/texas-just-shot-its-wind-solar-boom-in-the-foot-on-purpose/>
 
 ---
 

@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-04-15 14:07:38
+updated: 2025-04-16 06:08:33
 ---
 
 # motorcycles
 
-(date: 2025-04-15 14:07:38)
+(date: 2025-04-16 06:08:33)
+
+---
+
+## Who the Heck Is CFLite Motorcycles and Why Is It So Important?
+
+date: 2025-04-16, from: Ride Apart, Electric Motorcycle News
+
+Hint: it’s CFMoto’s sub-brand dedicated solely to small-displacement bikes. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756598/cflite-launch-new-small-displacement-models/>
+
+---
+
+## Europe Won't Ban Carbon Fiber, But Here's Why It Almost Happened
+
+date: 2025-04-16, from: Ride Apart, Electric Motorcycle News
+
+In a quick reversal, Europe won't ban carbon fiber after all.  
+
+<br> 
+
+<https://www.rideapart.com/news/756728/europe-ban-carbon-fiber-shot-down-toxic/>
+
+---
+
+## KTM's MotoGP Boss Says Acosta Ain't Leaving, But Racer Switches to Last Year's Bike
+
+date: 2025-04-16, from: Ride Apart, Electric Motorcycle News
+
+At this point, everyone needs to stop listening to Beirer.  
+
+<br> 
+
+<https://www.rideapart.com/news/756715/ktm-pit-beirer-motogp-pedro-acosta-2024-motorcycle/>
+
+---
+
+## Youth ATV Maker Issues Recall That Makes You Seriously Question Its Credibility
+
+date: 2025-04-16, from: Ride Apart, Electric Motorcycle News
+
+There's making something down to a price, and then there's this. 
+
+<br> 
+
+<https://www.rideapart.com/news/756580/e-bully-atv-laceration-recall/>
 
 ---
 
