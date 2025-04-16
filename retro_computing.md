@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-16 06:08:33
+updated: 2025-04-16 14:07:48
 ---
 
 # retro computing
 
-(date: 2025-04-16 06:08:33)
+(date: 2025-04-16 14:07:48)
+
+---
+
+## Fedora 42 Available with Two New Spins
+
+date: 2025-04-16, from: Linux Magazine
+
+<p>The latest release from the Fedora Project includes the usual updates, a new kernel, an official KDE Plasma spin, and a new System76 spin.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Fedora-42-Available-with-Two-New-Spins>
 
 ---
 

@@ -1,11 +1,62 @@
 ---
 title: pacific
-updated: 2025-04-16 06:08:27
+updated: 2025-04-16 14:07:44
 ---
 
 # pacific
 
-(date: 2025-04-16 06:08:27)
+(date: 2025-04-16 14:07:44)
+
+---
+
+## President Hensel to discuss federal policy impacts at April 21 forum
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>The event will begin with a brief presentation by Hensel, followed by a question-and-answer session.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/16/president-hensel-april-21-forum/">President Hensel to discuss federal policy impacts at April 21 forum</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/16/president-hensel-april-21-forum/>
+
+---
+
+## UH Giving Day raises more than $800K for students, research, more
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span>’s generosity shines on <abbr>UH</abbr> Giving Day, fueling student dreams and groundbreaking research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/16/uh-giving-day-raises-more-than-800k/"><abbr>UH</abbr> Giving Day raises more than $800K for students, research, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/16/uh-giving-day-raises-more-than-800k/>
+
+---
+
+## Image of the Week: Black Necked Stilt
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>This week's image is from <span aria-label="Kauai">Kaua&#699;i</span> Community College's Karli Lou Wilkerson and Cody Martinez.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/16/image-of-the-week-black-necked-stilt/">Image of the Week: Black Necked Stilt</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/16/image-of-the-week-black-necked-stilt/>
+
+---
+
+## Guam's civil defense chief, four others summoned to answer graft charges
+
+date: 2025-04-16, from: Pacific Island Times
+
+The charges stemmed from the Office of Public Accountability’s Jan. 2 audit report, which questioned $2.8 million in overtime costs incurred by the federally funded GHS/OCD. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-civil-defense-chief-four-employees-summoned-to-answer-graft-charges>
 
 ---
 

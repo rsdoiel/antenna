@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-16 06:08:32
+updated: 2025-04-16 14:07:47
 ---
 
 # libraries
 
-(date: 2025-04-16 06:08:32)
+(date: 2025-04-16 14:07:47)
 
 ---
 
@@ -65,7 +65,7 @@ date: 2025-04-15, from: Scholarly Kitchen
 
 date: 2025-04-14, from: Association of Research Libraries News
 
-<p>Last Updated on April 15, 2025, 3:24 pm ET Jump to: Tuesday, April 15 &#124; Wednesday, April 16 &#124; Thursday, April 17 Monday, April 14 Top o’ the Review Coalition...</p>
+<p>Last Updated on April 16, 2025, 2:40 pm ET Jump to: Tuesday, April 15 &#124; Wednesday, April 16 &#124; Thursday, April 17 Monday, April 14 Top o’ the Review Coalition...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-14-17/">Day in Review (April 14–17)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,149 @@
 ---
 title: food
-updated: 2025-04-16 06:08:34
+updated: 2025-04-16 14:07:49
 ---
 
 # food
 
-(date: 2025-04-16 06:08:34)
+(date: 2025-04-16 14:07:49)
+
+---
+
+## Italian Grinder Salad
+
+date: 2025-04-16, from: Bon Appetet
+
+The best salad is really a deconstructed Italian sandwich, complete with an oregano and red wine vinegar dressing that tastes just like how your deli does it. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/italian-grinder-sub-salad>
+
+---
+
+## Elise Jesse’s Slow-Cooker Ham and Gruyere Quiche
+
+date: 2025-04-16, from: Taste of Home
+
+I have a running recipe list on my phone called The Holy Grail List. This ham and Gruyere cheese quiche is at the top. It takes 15 minutes to put together, and it’s the perfect set-it-and-forget comfort food that blends savory ham with a hint of nutty sweetness from the cheese. The easy cleanup makes this a no-brainer for me, especially when hosting brunch or breakfast. I hope you love it as much as we do! —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesses-slow-cooker-ham-and-gruyere-quiche/>
+
+---
+
+## The Best Baking Sheets, Tested by Our Experts (2025)
+
+date: 2025-04-16, from: Bon Appetet
+
+You’re going to use this pan more than anything else in the kitchen, so get a good one. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-baking-sheets>
+
+---
+
+## This Fan-Favorite Trader Joe’s Item Is Finally Back in Stores—But Not for Long
+
+date: 2025-04-16, from: Taste of Home
+
+<p>It hit shelves this week, and fans have been buying three at a time.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/trader-joes-carrot-mini-sheet-cake-2025/">This Fan-Favorite Trader Joe’s Item Is Finally Back in Stores—But Not for Long</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/trader-joes-carrot-mini-sheet-cake-2025/>
+
+---
+
+## I Add This Cheap, Protein-Rich Ingredient to Everything
+
+date: 2025-04-16, from: Taste of Home
+
+<p>I've relied on this polarizing product to boost my daily protein intake for years, and the internet is finally coming around.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ways-to-use-cottage-cheese/">I Add This Cheap, Protein-Rich Ingredient to Everything</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ways-to-use-cottage-cheese/>
+
+---
+
+## Lemon Chiffon Is Spring Transformed Into Cake
+
+date: 2025-04-16, from: Bon Appetet
+
+From ’90s Bon Appétit, it’s still a staff favorite. 
+
+<br> 
+
+<https://www.bonappetit.com/story/why-you-should-make-lemon-chiffon>
+
+---
+
+## 11 Types of Cake Everyone Should Know
+
+date: 2025-04-16, from: Taste of Home
+
+<p>Bulk up your baking knowledge! Get to know the different types of cake and how their ingredients and techniques lend to their signature looks.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/types-of-cake/">11 Types of Cake Everyone Should Know</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/types-of-cake/>
+
+---
+
+## Bonavita Ventures Into Portable Electric Espresso with the Voyager
+
+date: 2025-04-16, from: Daily Coffee News
+
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Bonavita Voyager espresso" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Consumer coffee equipment brand Bonavita is entering a new chapter as it launches its first espresso-focused product, a portable all-in-one hot or cold espresso machine and grinder combo called the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/16/bonavita-ventures-into-portable-electric-espresso-with-the-voyager/>
+
+---
+
+## Klatch Coffee Introduces Two New Coffees For Spring
+
+date: 2025-04-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Songbird returns at a lower price for 2025, and Peru Gesha arrives just in time for Mother’s Day. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-introduces-two-new-coffees-for-spring-319220.html>
+
+---
+
+## European Commission Softens EUDR Reporting Requirements
+
+date: 2025-04-16, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-620x400.jpg" class="attachment-large size-large wp-post-image" alt="cargo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-620x400.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-768x495.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The European Commission yesterday announced changes to the administration of the new European Union deforestation-free supply chains law (EUDR), including softened requirements for due diligence reporting.&#160; The Commission said the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/16/european-commission-softens-eudr-reporting-requirements/>
+
+---
+
+## Marcus Samuelsson Comes Home
+
+date: 2025-04-16, from: Bon Appetet
+
+At Marcus Addis, atop Ethiopia’s tallest building, one of the world’s most successful chefs is securing his legacy by preparing the next generation of talent. 
+
+<br> 
+
+<https://www.bonappetit.com/story/marcus-samuelsson-comes-home-ethiopia-restaurant-legacy>
 
 ---
 
@@ -135,7 +273,7 @@ date: 2025-04-16, from: Chili Pepper Madness
 
 date: 2025-04-16, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Slayer Espresso machine" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Chinese court has ordered four companies to cease production and marketing of espresso machines with designs and packaging that resemble the Slayer Espresso brand.&#160; According to Cimbali Group, the... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Slayer Espresso machine" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Chinese court has ordered four companies to cease production and marketing of espresso machines with designs and packaging that resemble the Slayer Espresso brand.&#160; According to Cimbali Group, the... 
 
 <br> 
 
@@ -271,7 +409,7 @@ date: 2025-04-15, from: The Sprudge
 
 date: 2025-04-15, from: Daily Coffee News
 
-<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="Juan Valdez Cafe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-768x488.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Colombian coffee chain Juan Valdez is planning to open 16 more stores in the United States, in the Orlando and Miami markets. The new stores will add to the... 
+<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="Juan Valdez Cafe" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1-768x488.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Juan-Valdez-Cafe-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Colombian coffee chain Juan Valdez is planning to open 16 more stores in the United States, in the Orlando and Miami markets. The new stores will add to the... 
 
 <br> 
 
@@ -283,7 +421,7 @@ date: 2025-04-15, from: Daily Coffee News
 
 date: 2025-04-15, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="RoastLog" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fifteen years after winning a Best New Product Award at the Specialty Coffee Expo (formerly the SCAA Expo), coffee roasting software provider RoastLog is entering an ambitious new chapter. The... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="RoastLog" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/RoastLog.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Fifteen years after winning a Best New Product Award at the Specialty Coffee Expo (formerly the SCAA Expo), coffee roasting software provider RoastLog is entering an ambitious new chapter. The... 
 
 <br> 
 

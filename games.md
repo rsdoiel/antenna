@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-16 06:08:30
+updated: 2025-04-16 14:07:46
 ---
 
 # games
 
-(date: 2025-04-16 06:08:30)
+(date: 2025-04-16 14:07:46)
+
+---
+
+## One of SteelSeries’ best gaming headsets is on sale for its Black Friday price
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+If you’re looking for a new gaming headset, one of our favorite models is currently discounted to its Black Friday price at Best Buy. The SteelSeries Arctis Pro Wireless is usually $279.99, but you can currently pick up a pair of these sick cans for just $139.99. While the Arctis Pro may not be quite [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/560051/steelseries-arctis-pro-wireless-gaming-headset-best-buy-sale>
+
+---
+
+## Netflix will stream Samurai Jack creator&#8217;s raunchy dog comedy
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Fixed, the R-rated adult animated comedy from Samurai Jack and Primal creator Genndy Tartakovsky, will hit Netflix on August 13. The movie, made with Warner Bros.’ New Line Cinema and Sony Pictures, was abandoned by Warner Bros. Discovery. But the film has been rescued by another studio, much like Coyote vs. Acme and The Day [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/559888/netflix-genndy-tartakovsky-fixed-adult-animation>
+
+---
+
+## Almost 20% of Japanese people in their 20s have prioritized in-game purchases over paying rent
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Japanese banking subsidiary SMBC Consumer Finance’s annual survey of financial awareness in the country’s 20- to 29-year-olds revealed some troubling findings about the demographic’s gaming habits, Automaton reports. For example, 18.8% of the 1,000 respondents admitted to have spending so much on in-game purchases that it affected their ability to cover living expenses. Men (22.8%) [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/559840/japan-survey-twenty-year-old-gaming-spending-habits>
+
+---
+
+## Full Basement map and walkthrough in Blue Prince
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+The Basement is a room in Blue Prince that you’ll need to access in order to reach Room 46. There’s a lot going on down there, and there are several ways to reach it. Our Blue Prince guide will show you how to reach the Basement, give you the map of the Basement and Underground, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/559031/basement-map-walkthrough-key-underground>
+
+---
+
+## Bubble Gum Simulator Infinity codes for April 2025
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Bubble Gum Simulator Infinity is a popular new clicker game on Roblox where players can chew gum and hatch cute pets from eggs. Available free-to-play on your phone, computer, or console via the Roblox platform, this game features gameplay where players click to chew gum and then sell the bubbles to earn in-game currency. To [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/roblox-guides/559581/bubble-gum-simulator-infinity-codes-list-all>
+
+---
+
+## Genshin Impact codes for April 2025
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Genshin Impact is one of Hoyoverse’s many games, which means that there are tons of codes revealed via social media channels to redeem in exchange for free loot. These codes can reward a plethora of goods, from food that’ll buff or heal your characters to the premium currency, Primogems. Below we list out the currently [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems>
+
+---
+
+## These new Doom Xbox accessories will rip and tear your budget
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Doom: The Dark Ages launches May 13, but you can already arm yourself with an arsenal of themed Xbox accessories worthy of the Doom Slayer. The highlight of the new, limited edition collection is a blood-splashed Series 2 Elite Wireless Controller — easily the coolest game-specific version of the premium gamepad yet. It launches on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/559592/doom-dark-ages-xbox-controller-series-x-wrap-accessories-where-to-buy>
+
+---
+
+## Pokémon Go ‘Pokémon Horizons The Series Celebration’ event guide
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Pokémon Go’s latest event celebrates the anime, thus the long name: “Pokémon Horizons: The Series Celebration.” It runs from April 16-22 and features a bunch of the Pokémon that show up in the anime, like a Pikachu in a captain’s hat and a Floragato with a special hat. The event also has a few neat [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/559666/horizons-the-series-celebration-pikachu-floragato-hat-timed-research>
+
+---
+
+## Pokémon Go ‘Don’t Tinkatink Twice!’ paid Timed Research — is it worth it?
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Pokémon Go’s “Pokémon Horizons: The Series Celebration” event has a paid research ticket that gives you a one-step research, “Don’t Tinkatink Twice!,” for $4.99. The research includes rewards like Tinkatink encounters and a special pose, but is it worth buying? Below we explain if the Pokémon Go “Don’t Tinkatink Twice!” paid research is worth it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/559693/dont-tinkatink-twice-research-paid-premium-worth-it>
+
+---
+
+## Black Mirror’s Thronglets might not be a template, says Netflix Games lead, but it’s the future
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Netflix only promoted Sean Krankel to the role of general manager of the streamer’s burgeoning “narrative games” division a few weeks ago, so he’s still working on his elevator pitch for exactly what “narrative game” means at Netflix. But he knows one thing: After working on the newly released Black Mirror tie-in game Thronglets with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/557920/black-mirror-thronglets-netflix-games-secrets>
 
 ---
 

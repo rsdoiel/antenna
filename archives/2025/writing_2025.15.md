@@ -1,11 +1,76 @@
 ---
 title: writing
-updated: 2025-04-16 06:08:30
+updated: 2025-04-16 14:07:46
 ---
 
 # writing
 
-(date: 2025-04-16 06:08:30)
+(date: 2025-04-16 14:07:46)
+
+---
+
+## 2025 Aurora Awards Ballot
+
+date: 2025-04-16, from: Locus Magazine
+
+<p>The 2025 Aurora Awards ballot for works by Canadians has been announced. The Aurora Awards are nominated by members of the Canadian Science Fiction and Fantasy Association. The top five nominated works were selected, with additional works included when there was a tie for fifth place.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>The Tapestry of Time</strong>, Kate Heartfield (Harper Voyager)</li>
+<li><strong>Blackheart Man</strong>, Nalo Hopkinson (Saga)</li>
+<li><strong>Pale Grey Dot</strong>, Don Miasek (Ravenstone)</li></ul></div> <a href="https://locusmag.com/2025/04/2025-aurora-awards-ballot/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-aurora-awards-ballot/>
+
+---
+
+## 2025 Prometheus Novel Award Finalists
+
+date: 2025-04-16, from: Locus Magazine
+
+<p>The Libertarian Futurist Society (LFS) has announced the five finalists for the Best Novel category of the Prometheus Awards, honoring &#8220;thematically pro-liberty&#8221; works published in 2024.</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Alliance Unbound</strong>, C.J. Cherryh &#38; Jane S. Fancher (DAW)</li>
+<li><strong>In the Belly of the Whale</strong>, Michael Flynn (Caezik SF &#38; Fantasy)</li>
+<li><strong>Cancelled: The Shape of Things to Come</strong>, Danny King (Annie Mosse)</li>
+<li><strong>Beggar’s Sky</strong>, Wil McCarthy (Baen)</li>
+<li><strong>Mania</strong>, Lionel </li></ul></div> <a href="https://locusmag.com/2025/04/2025-prometheus-novel-award-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-prometheus-novel-award-finalists/>
+
+---
+
+## ‘The Studio’: How to Craft a Hollywood Satire
+
+date: 2025-04-16, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-studio-how-to-craft-a-hollywood-satire" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20Seth%20Rogen%20in%20The%20Studio.png" alt="Image of Seth Rogen in The Studio" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Screenwriters are always told to write what they know — and let’s be honest, what you know is how hard it is to break into Hollywood or get the green light for your passion project. The good news? That struggle is incredibly relatable to anyone who’s been inside (or even just curious about) the industry. And no show makes that more apparent than Seth Rogen and Apple TV+’s latest Hollywood satire, <a href="https://www.imdb.com/title/tt23649128/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_The%2520Studio"><em>The Studio</em></a>.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-studio-how-to-craft-a-hollywood-satire>
+
+---
+
+## Future’s Edge by Gareth L. Powell: Review by Alexandra Pierce
+
+date: 2025-04-16, from: Locus Magazine
+
+<p><strong>Future’s Edge</strong>, Gareth L. Powell (Titan 978-1-80336-863-4, $17.99, 352pp, tp) February 2025. Cover by Julia Lloyd.</p>
+<p>Gareth L. Powell’s <strong>Future’s Edge </strong>exists in a universe where aliens have contacted humans recently and human/alien interaction has been going along quite merrily, right up until it isn’t. In his first book since 2023’s equally space-operatic <strong>Descendant Machine</strong>, Powell gives us an adventure featuring alien technology, sentient spaceships, and human derring-do. <a href="https://locusmag.com/2025/04/futures-edge-by-gareth-l-powell-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/futures-edge-by-gareth-l-powell-review-by-alexandra-pierce/>
 
 ---
 

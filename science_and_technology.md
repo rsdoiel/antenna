@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-16 06:08:28
+updated: 2025-04-16 14:07:45
 ---
 
 # science and technology
 
-(date: 2025-04-16 06:08:28)
+(date: 2025-04-16 14:07:45)
+
+---
+
+## Microsoft admits it's not you, Classic Outlook can be a real CPU, power hog sometimes
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Bug or migration strategy for New Outlook, we wonder</h4> <p>Far be from us to suggest Microsoft is trying to force people onto its New Outlook application, but it has admitted Classic Outlook occasionally and mysteriously turns into a system resource hog. It&#39;s a SNAFU that may just push folks over the edge to the new app – or to a full alternative.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/classic_outlook_cpu_spike/>
+
+---
+
+## First Nvidia, now AMD: Trump trade turmoil threatens $800M in China chip sales
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Is that MI in MI308 going to be Mission Impossible?</h4> <p><strong>World War Fee</strong>  Turns out Nvidia&#39;s not the only chip shop caught in the crossfire of Trump&#39;s tit-for-tat trade battle with China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/amd_instinct_mi308_china/>
+
+---
+
+## NASA’s Chandra Releases New 3D Models of Cosmic Objects
+
+date: 2025-04-16, from: NASA breaking news
+
+New three-dimensional (3D) models of objects in space have been released by NASA’s Chandra X-ray Observatory. These 3D models allow people to explore — and print — examples of stars in the early and end stages of their lives. They also provide scientists with new avenues to investigate scientific questions and find insights about the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/chandra/nasas-chandra-releases-new-3d-models-of-cosmic-objects/>
+
+---
+
+## Microsoft blames 'latent code issue' after Windows 11 upgrades sneak past admin blockades
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Intune policies turn out to be mere suggestions</h4> <p>Microsoft has admitted some users are being offered Windows 11 upgrades despite Intune policies configured otherwise.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/windows_11_bypasses_admin_polices/>
+
+---
+
+## Figma bucks market trends, plunges into IPO waters after Adobe's failed buyout
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Timing not ideal with Wall Street fearing recession</h4> <p>It&#39;s been a little over a year since Adobe abandoned its plans to purchase web-based design tool Figma. Now, the smaller of the two app makers is bucking market uncertainty by filing for an IPO.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/adobe_figma_ipo/>
+
+---
+
+## CVE program gets last-minute funding from CISA – and maybe a new home
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Uncertainty is the new certainty</h4> <p>In an 11th-hour reprieve, the US government last night agreed to continue funding the globally used Common Vulnerabilities and Exposures (CVE) program.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/cve_program_funding_save/>
+
+---
+
+## NASA Invites Virtual Guests to Launch of SpaceX 32nd Resupply Mission
+
+date: 2025-04-16, from: NASA breaking news
+
+NASA invites the public to participate in virtual activities ahead of the launch of SpaceX’s 32nd commercial resupply services mission for the agency. NASA and SpaceX are targeting launch at 4:15 a.m. EDT Monday, April 21, from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. In addition to food, supplies, and equipment for [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/nasa-invites-virtual-guests-to-launch-of-spacex-32nd-resupply-mission/>
+
+---
+
+## 20 years on, DART still a masterclass in how not to rendezvous in orbit
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Two decades have passed since NASA made two spacecraft collide</h4> <p>It is twenty years since NASA&#39;s DART mission collided with a satellite after depleting its fuel during a rendezvous attempt.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/nasa_dart_29_years/>
+
+---
+
+## Law firm 'didn't think' data theft was a breach, says ICO. Now it's nursing a £60K fine
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>DPP Law is appealing against data watchdog&#39;s conclusions</h4> <p>A law firm is appealing against a £60,000 fine from the UK&#39;s data watchdog after 32 GB of personal information was stolen from its systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/law_firm_ico_fine/>
+
+---
+
+## Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors
+
+date: 2025-04-16, from: Quanta Magazine
+
+Every soft caress of wind, searing burn and seismic rumble is detected by our skin’s tangle of touch sensors. David Ginty has spent his career cataloging the neurons beneath everyday sensations.            <p>The post <a href="https://www.quantamagazine.org/touch-our-most-complex-sense-is-a-landscape-of-cellular-sensors-20250416/" target="_blank">Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/touch-our-most-complex-sense-is-a-landscape-of-cellular-sensors-20250416/>
+
+---
+
+## AWS claims 50% of Azure workloads would jump ship if licensing costs allowed
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Bezos&#39; biz and Google tell regulator higher cost of running Windows Server in their clouds isn&#39;t fair</h4> <p>AWS estimates that half of the workloads Microsoft enterprise customers run on Azure would migrate to its own datacenters if only the licensing costs of doing so were not prohibitively high and a competitive deterrent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/aws_microsoft_license_harms/>
+
+---
+
+## Hubble Provides New View of Galactic Favorite
+
+date: 2025-04-16, from: NASA breaking news
+
+As part of ESA/Hubble’s 35th anniversary celebrations, the European Space Agency (ESA) is sharing a new image series revisiting stunning, previously released Hubble targets with the addition of the latest Hubble data and new processing techniques. ESA/Hubble published a new image of NGC 346 as the first installment in the series. Now, they are revisiting a fan-favorite galaxy […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-provides-new-view-of-galactic-favorite/>
+
+---
+
+## ASML hits targets but orders sag as Trump trolls markets
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Dutch lithography king sticks to €35B forecast despite investor jitters</h4> <p>Euro tech giant ASML hit its revenue guidance last quarter and still expects the coffers to swell this year, but order bookings are down as Trump&#39;s tariff turmoil casts uncertainty over the entire industry.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/asml_q1_25/>
+
+---
+
+## NASA Sees Progress on Blue Origin’s Orbital Reef Design Development
+
+date: 2025-04-16, from: NASA breaking news
+
+A NASA-supported commercial space station, Blue Origin’s Orbital Reef, recently completed a human-in-the-loop testing milestone as the agency works toward developing commercial space stations in low Earth orbit. The human-in-the-loop test scenarios utilized individual participants or small groups to perform day-in-the-life walkthroughs in life-sized mockups of major station components. Participants provided feedback while simulating microgravity [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-progress-on-blue-origins-orbital-reef-design-development/>
 
 ---
 
@@ -105,7 +273,7 @@ date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 ---
 
-## South Korea to build mini-fabs as part of $25 billion plan to prop up tariff-targeted industries
+## South Korea to build mini-fabs as part of $25B plan to prop up tariff-targeted industries
 
 date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
@@ -165,11 +333,11 @@ date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 ---
 
-## Uncle Sam abruptly turns off funding for CVE program. Yes, that CVE program
+## Uncle Sam kills funding for CVE program. Yes, that CVE
 
 date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
-<h4>Because vulnerability management has nothing to do with national security, right?</h4> <p>US government funding for the world&#39;s CVE program – the centralized Common Vulnerabilities and Exposures database of product security flaws – ends Wednesday.…</p> 
+<h4>Because vulnerability management has nothing to do with national security, right?</h4> <p><strong>Updated</strong>  US government funding for the world&#39;s CVE program – the centralized Common Vulnerabilities and Exposures database of product security flaws – ends Wednesday.…</p> 
 
 <br> 
 

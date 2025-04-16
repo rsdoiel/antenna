@@ -1,11 +1,245 @@
 ---
 title: snapshots
-updated: 2025-04-16 06:08:36
+updated: 2025-04-16 14:07:50
 ---
 
 # snapshots
 
-(date: 2025-04-16 06:08:36)
+(date: 2025-04-16 14:07:50)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-16, from: Dave Winer's linkblog)
+
+Bluesky’s real strength is its user community — not its protocol. 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/04/16/blueskys-real-strength-is-its-user-community-not-its-protocol/>
+
+---
+
+## Boycotting US Companies
+
+date: 2025-04-16, from: Stephen Smith's blog
+
+Introduction With the ongoing US tariff battle against Canada and the rest of the world, people are looking to boycott US companies as much as possible. As the US imposes tariffs on other countries, they retaliate, making US products more expensive. Further, many people feel their governments aren’t being tough enough against the US and [&#8230;] 
+
+<br> 
+
+<https://smist08.wordpress.com/2025/04/16/boycotting-us-companies/>
+
+---
+
+## LAPD Publishes Crime Footage It Got From a Waymo Driverless Car
+
+date: 2025-04-16, from: 404 Media Group
+
+Police are starting to realize they can demand footage from driverless cars. 
+
+<br> 
+
+<https://www.404media.co/lapd-publishes-crime-footage-it-got-from-a-waymo-driverless-car/>
+
+---
+
+## Lilbits: Cybersecurity funding, single-board PCs for AI, saving text from screenshots, and Linux on MacBooks
+
+date: 2025-04-16, from: Liliputing
+
+<p>For more than two decades the US government has funded the CVE Program, which tracks and publicly discloses cybersecurity vulnerabilities in a uniform manner. But this week it looked like the federal contract that funds the organization could be set to expire, which could have had a pretty serious impact on global cybersecurity efforts. That [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-cybersecurity-funding-single-board-pcs-for-ai-saving-text-from-screenshots-and-linux-on-macbooks/">Lilbits: Cybersecurity funding, single-board PCs for AI, saving text from screenshots, and Linux on MacBooks</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-cybersecurity-funding-single-board-pcs-for-ai-saving-text-from-screenshots-and-linux-on-macbooks/>
+
+---
+
+## Carbon Copy Cloner 7.1
+
+date: 2025-04-16, from: Michael Tsai
+
+Bombich Software: For Sonoma and Sequoia users, CCC now offers an option to set a custom icon on locally-attached source and destination volumes. Select an image of your own, or get creative with Apple&#8217;s new Image Playground. I&#8217;ve been doing this manually (dragging into Finder&#8217;s Get Info window), and I find that it really helps [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/16/carbon-copy-cloner-7-1/>
+
+---
+
+## India’s Repair Culture Gives New Life to Dead Laptops
+
+date: 2025-04-16, from: Michael Tsai
+
+Peter Mommsen: Around the globe, governments are increasingly committed to making the right to repair the law of the land. India&#8217;s Ministry of Consumer Affairs is developing a set of rules requiring manufacturers of electronics, farm equipment, and automobiles to let people fix products themselves. France requires tech manufacturers to register their products with a [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/16/indias-repair-culture-gives-new-life-to-dead-laptops/>
+
+---
+
+## Right to Repair Legislation in 50 States
+
+date: 2025-04-16, from: Michael Tsai
+
+Jason Koebler: Right to repair legislation has now been introduced in all 50 states, a milestone that, despite not all passing, shows the power of the grassroots political movement. Thursday, Wisconsin became the final state in the country to introduce a right to repair bill. So far, right to repair laws have been passed in [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/16/right-to-repair-legislation-in-50-states/>
+
+---
+
+## ”Those claiming we’re mere months away from AI agents replacing most programmers” should think again
+
+date: 2025-04-16, from: Gary Marcus blog
+
+AI agents will change the world. But not this year. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/those-claiming-were-mere-months-away>
+
+---
+
+## Introducing OpenAI o3 and o4-mini
+
+date: 2025-04-16, updated: 2025-04-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://openai.com/index/introducing-o3-and-o4-mini/">Introducing OpenAI o3 and o4-mini</a></strong></p>
+OpenAI are <em>really</em> emphasizing tool use with these:</p>
+<blockquote>
+<p>For the first time, our reasoning models can agentically use and combine every tool within ChatGPT—this includes searching the web, analyzing uploaded files and other data with Python, reasoning deeply about visual inputs, and even generating images. Critically, these models are trained to reason about when and how to use tools to produce detailed and thoughtful answers in the right output formats, typically in under a minute, to solve more complex problems.</p>
+</blockquote>
+<p>I released <a href="https://github.com/simonw/llm-openai-plugin/releases/tag/0.3">llm-openai-plugin 0.3</a> adding support for the two new models:</p>
+<pre><code>llm install -U llm-openai-plugin
+llm -m openai/o3 "say hi in five languages"
+llm -m openai/o4-mini "say hi in five languages"
+</code></pre>
+<p>Here are <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">the pelicans riding bicycles</a> (prompt: <code>Generate an SVG of a pelican riding a bicycle</code>).</p>
+<p><strong>o3</strong>:</p>
+<p><img alt="Described by o3: The illustration shows a playful, stylized bicycle whose frame is drawn to resemble a duck. • The duck’s rounded body forms the bicycle’s seat area, and a small wing is sketched on its side.  • Its long neck stretches forward to become the top tube, ending in a simple head with a black eye and an orange, open beak that points ahead like handlebars.  • Two large black‑outlined wheels with thin, evenly spaced spokes complete the bike, while thin blue lines depict the rest of the frame, pedals, and chain.  • A dashed grey ground line runs beneath the wheels, giving the impression the duck‑bike is rolling along." src="https://static.simonwillison.net/static/2025/o3-pelican.jpg" /></p>
+<p><strong>o4-mini</strong>:</p>
+<p><img alt="Described by o4-mini: The image is a very simple, minimalistic line drawing of a bird riding a bicycle, rendered against a plain white background.  Key elements:   • Two large, identical circles for the bike’s wheels, outlined in thick black.   • A horizontal bar links the rear wheel to the bird’s body; a slanted bar links the front wheel to the bird.   • The front wheel has a single straight spoke ending in an arrowhead, suggesting the forward direction of travel.   • The bird itself is drawn with basic shapes:     – A small circle for the head, with a single dot for the eye and a short yellow triangle for the beak.     – An oval for the body.     – Thin lines for the neck, legs, and the bike’s pedals and handlebars.   • The bird appears perched on the saddle, its legs extending down to the pedals, and its tiny wings resting near the handlebars." src="https://static.simonwillison.net/static/2025/o4-mini-pelican.jpg" /></p>
+<p>Here are the model cards: <a href="https://platform.openai.com/docs/models/o3">o3</a> is $10/million input and $40/million for output, with a 75% discount on cached input tokens, 200,000 token context window, 100,000 max output tokens and a May 31st 2024 training cut-off (same as the GPT-4.1 models).</p>
+<p><a href="https://platform.openai.com/docs/models/o4-mini">o4-mini</a> is priced the same as o3-mini: $1.10/million for input and $4.40/million for output,  also with a 75% input caching discount. The size limits and training cut-off are the same as o3.</p>
+<p>You can compare these prices with other models using the table on my <a href="https://tools.simonwillison.net/llm-prices">updated LLM pricing calculator</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/inference-scaling">inference-scaling</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/16/introducing-openai-o3-and-o4-mini/#atom-everything>
+
+---
+
+## openai/codex
+
+date: 2025-04-16, updated: 2025-04-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/openai/codex">openai/codex</a></strong></p>
+Just released by OpenAI, a "lightweight coding agent that runs in your terminal". Looks like their version of <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a>, though unlike Claude Code Codex is released under an open source (Apache 2) license.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/16/openai-codex/#atom-everything>
+
+---
+
+## Anbernic RG557 gaming handheld has a 5.5 inch AMOLED display, Dimensity 8300 processor and 12GB RAM
+
+date: 2025-04-16, from: Liliputing
+
+<p>Anbernic makes a lot of handheld game consoles, most of which are relatively inexpensive devices capable of playing games designed for older consoles. But the new Anbernic RG557 has the kind of hardware you might expect to find in a decent mid-range smartphone. A recent teaser video suggests that it should be able to handle recent Android games [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/anbernic-rg557-gaming-handheld-has-a-5-5-inch-amoled-display-dimensity-8300-processor-and-12gb-ram/">Anbernic RG557 gaming handheld has a 5.5 inch AMOLED display, Dimensity 8300 processor and 12GB RAM</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/anbernic-rg557-gaming-handheld-has-a-5-5-inch-amoled-display-dimensity-8300-processor-and-12gb-ram/>
+
+---
+
+## AI Companies Should Embrace Sharp Angles
+
+date: 2025-04-16, updated: 2025-04-16, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/16/ai-companies-should-embrace-sharp-angles/>
+
+---
+
+## Following Layoffs, Automattic Employees Discover Leak-Catching Watermarks
+
+date: 2025-04-16, from: 404 Media Group
+
+The watermarks, which could identify people leaking screenshots to the press, are in the background of internal communications platform P2. 
+
+<br> 
+
+<https://www.404media.co/automattic-wordpress-p2-watermark-leakers/>
+
+---
+
+## REDMAGIC 10 Air is a thinner, lighter gaming phone
+
+date: 2025-04-16, from: Liliputing
+
+<p>Gaming smartphone brand REDMAGIC&#8217;s latest flagship is the REDMAGIC 10 Pro, which launched late last year with a 6.85 Hz, 144 Hz display, a Qualcomm Snapdragon 8 Elite processor, and a massive 7050 mAh battery. But now the company is introducing a new model for folks willing to trade a little horsepower for a thinner, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/redmagic-10-air-is-a-thinner-lighter-gaming-phone/">REDMAGIC 10 Air is a thinner, lighter gaming phone</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/redmagic-10-air-is-a-thinner-lighter-gaming-phone/>
+
+---
+
+## The Evangelist’s Guide to Winning Any Argument
+
+date: 2025-04-16, from: Guy Kawasaki blog
+
+The goal isn&#8217;t to win at all costs&#8212;it&#8217;s to inspire, connect, and create change. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-evangelists-guide-to-winning>
+
+---
+
+## Cerebro clusterboard supports up to four Raspberry Pi, NVIDIA Jetson, or Radxa CM5 compute modules (crowdfunding)
+
+date: 2025-04-16, from: Liliputing
+
+<p>What&#8217;s better than a Raspberry Pi Compute Module? If you&#8217;re working on projects that support parallel processing, the answer might be two Raspberry Pi Compute Modules&#8230; or maybe four of them. The Cerebro clusterboard is designed to let you attach up to four compute modules to a single baseboard. It supports Raspberry Pi CM4 and CM5 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/cerebro-clusterboard-supports-up-to-four-raspberry-pi-nvidia-jetson-or-radxa-cm5-compute-modules-crowdfunding/">Cerebro clusterboard supports up to four Raspberry Pi, NVIDIA Jetson, or Radxa CM5 compute modules (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/cerebro-clusterboard-supports-up-to-four-raspberry-pi-nvidia-jetson-or-radxa-cm5-compute-modules-crowdfunding/>
+
+---
+
+## ICE Just Paid Palantir Tens of Millions for ‘Complete Target Analysis of Known Populations’
+
+date: 2025-04-16, from: 404 Media Group
+
+The records show that Palantir is actively working on the technical infrastructure underpinning the Trump administration’s mass deportation efforts which could soon impact U.S. citizens. 
+
+<br> 
+
+<https://www.404media.co/ice-just-paid-palantir-tens-of-millions-for-complete-target-analysis-of-known-populations/>
 
 ---
 
@@ -855,7 +1089,7 @@ date: 2025-04-14, from: Purism News and Events
 
 date: 2025-04-14, from: Liliputing
 
-<p>The Lenovo ThinkPad P14s is a mobile workstation-class laptop that combines powerful hardware with a relatively compact design. Last year Lenovo introduced 5th-gen models with Intel and AMD processor options, and now it looks like the company is getting ready to bring a big performance boost with the new ThinkPad P14s Gen 6 series. While Lenovo hasn&#8217;t [&#8230;]</p>
+<p>The Lenovo ThinkPad P14s is a mobile workstation-class laptop that combines powerful hardware with a relatively compact design. Last year Lenovo introduced 5th-gen models with Intel and AMD processor options, and now it looks like the company is getting ready to bring a big performance boost with the new ThinkPad P14s Gen 6 series. While [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/lenovo-thinkpad-p14s-mobile-workstation-with-amd-strix-point-coming-soon/">Lenovo ThinkPad P14s mobile workstation with AMD Strix Point coming soon</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 

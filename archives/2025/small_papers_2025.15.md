@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-04-16 06:08:35
+updated: 2025-04-16 14:07:50
 ---
 
 # small papers
 
-(date: 2025-04-16 06:08:35)
+(date: 2025-04-16 14:07:50)
+
+---
+
+## Newsom takes on Trump over tariffs he says are hurting California
+
+date: 2025-04-16, from: Long Beach Post
+
+<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-768x493.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1536x987.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1200x771.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1568x1007.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Gov. Gavin Newsom and Attorney General Rob Bonta announced the lawsuit Wednesday, saying the tariffs hurt “states, consumers and businesses.”</p>
+<p>The post <a href="https://lbpost.com/news/ports/newsom-takes-on-trump-over-tariffs-he-says-are-hurting-california">Newsom takes on Trump over tariffs he says are hurting California</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/ports/newsom-takes-on-trump-over-tariffs-he-says-are-hurting-california>
+
+---
+
+## Private data from more than 300,000 people may have been stolen in cyberbreach, city of Long Beach says
+
+date: 2025-04-16, from: Long Beach Post
+
+<figure><img width="1024" height="674" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-1024x674.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-1024x674.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-300x198.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-768x506.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-164x108.jpg 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-400x263.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The files at risk included Social Security numbers, biometric information, medical diagnoses and other sensitive information.</p>
+<p>The post <a href="https://lbpost.com/news/cyberattack-data-breach-long-beach-300000-data-exposed-private">Private data from more than 300,000 people may have been stolen in cyberbreach, city of Long Beach says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/cyberattack-data-breach-long-beach-300000-data-exposed-private>
 
 ---
 
@@ -13,7 +43,7 @@ updated: 2025-04-16 06:08:35
 
 date: 2025-04-15, from: Long Beach Post
 
-<figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-1024x566.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-768x424.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-400x221.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-1024x566.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-768x424.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5-400x221.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/15151255/13apr25-agplb-6-844437-wuln8vbv-792670-mxdywnvk-109247-gfjfk5bg-590638-P1zINRe5.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Organizers say more than 200,000 people attended across race weekend, but the main event drew fewer TV viewers than other IndyCar events.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-grand-prix-attendance-tv-viewership">Record in-person attendance but lagging TV viewership for this year’s Long Beach Grand Prix</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

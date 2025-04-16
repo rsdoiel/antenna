@@ -1,11 +1,220 @@
 ---
 title: home
-updated: 2025-04-16 06:08:32
+updated: 2025-04-16 14:07:48
 ---
 
 # home
 
-(date: 2025-04-16 06:08:32)
+(date: 2025-04-16 14:07:48)
+
+---
+
+## 10 Fast-Growing Vines to Transform Your Landscape Quickly
+
+date: 2025-04-16, from: Family Handyman Blog
+
+<p>Discover which fast-growing vine is best for your garden this season.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/fast-growing-vines/">10 Fast-Growing Vines to Transform Your Landscape Quickly</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/fast-growing-vines/>
+
+---
+
+## How to Grow Basil: Best Tips for Big Bushy Plants
+
+date: 2025-04-16, from: Homestead and Chil
+
+<p>Are you dreaming of big bushy basil plants? Come learn how to grow basil at home with tips to plant, prune, and harvest basil to encourage full, prolific basil plants to enjoy all season long. </p>
+<p>The post <a href="https://homesteadandchill.com/how-to-grow-bushy-basil/">How to Grow Basil: Best Tips for Big Bushy Plants</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-grow-bushy-basil/>
+
+---
+
+## Planned Blackouts: Why Utilities Cut Power on Purpose
+
+date: 2025-04-16, from: Family Handyman Blog
+
+<p>Planned blackouts help prevent wildfires caused by downed power lines and malfunctioning electrical equipment. Here's how to get ready for one.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/planned-blackouts/">Planned Blackouts: Why Utilities Cut Power on Purpose</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/planned-blackouts/>
+
+---
+
+## TV Over the Fireplace? How To Do It Without Ruining Your Setup
+
+date: 2025-04-16, from: Family Handyman Blog
+
+<p>These tips will help you balance both a TV and a fireplace in one room, without overcrowding the space.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-balance-fireplace-tv/">TV Over the Fireplace? How To Do It Without Ruining Your Setup</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-balance-fireplace-tv/>
+
+---
+
+## The ‘Da Pinchi Code’ Mystery: An Unexpected Threat to Home Security
+
+date: 2025-04-16, from: Family Handyman Blog
+
+<p>Those strange chalk marks outside your home might be more than kids playing. Learn what they could mean and how to keep your home safe.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/da-pinchi-code/">The &#8216;Da Pinchi Code&#8217; Mystery: An Unexpected Threat to Home Security</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/da-pinchi-code/>
+
+---
+
+## Budget Breakdown: This $250K Prefab Cabin Is an Ode to the Finnish Sauna
+
+date: 2025-04-16, from: Dwell
+
+Near Helsinki, expat designer Jussi-Pekka Kajaala and Olympic medalist Adam Rippon build a tiny summerhouse dedicated to Finland’s favorite pastime. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-mokki-super-finnish-prefab-summerhouse-cabin-sauna-finland-3dc7a427>
+
+---
+
+## Dolly Parton Penned Songs at This California Cabin, Now for Sale at $768K
+
+date: 2025-04-16, from: Dwell
+
+The Queen of Country’s former getaway comes with a boulder in the living room and a guitar-shaped toilet seat. 
+
+<br> 
+
+<https://www.dwell.com/article/dolly-partons-idyllwild-real-estate-67eb8597>
+
+---
+
+## This $120K Tiny Home Is a Tea House on Wheels
+
+date: 2025-04-16, from: Dwell
+
+Tiny House Japan’s units are designed like saunas—with plenty of cedar to withstand heat and steam. 
+
+<br> 
+
+<https://www.dwell.com/article/triangular-roof-house-tiny-house-japan-tea-house-on-wheels-c232cc36>
+
+---
+
+## Tips for Growing Dwarf Cornel (Bunchberry)
+
+date: 2025-04-16, from: The Gardener's Path
+
+<p>Did you know there are teeny tiny, low-growing dogwoods? Dwarf cornel aka bunchberry (Cornus suecica) have similar spectacular flowers and foliage as their larger cousins but in a petite, ground covering plant. Ideal for filling spaces under trees and shady spots. Learn how to grow dwarf cornel in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-dwarf-cornel/">Tips for Growing Dwarf Cornel (Bunchberry)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-dwarf-cornel/>
+
+---
+
+## Lawn Lords
+
+date: 2025-04-16, from: Family Handyman Blog
+
+<p>From eradicating invasive weeds to cultivating the greenest grass, these tips and tricks will help you achieve a lawn you can call the envy of the block.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/lawn-lords/">Lawn Lords</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/lawn-lords/>
+
+---
+
+## Iris Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-04-16, from: Yard Life blog
+
+<p>Irises are among the most captivating flowers in any garden, known for their vivid colors, intricate shapes, and elegant presence. ... </p>
+<p class="read-more-container"><a title="Iris Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/iris-plant-care-and-growing-guide-most-detailed/#more-27166" aria-label="Read more about Iris Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/iris-plant-care-and-growing-guide-most-detailed/">Iris Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/iris-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## The House Museum of All House Museums Reopens, and It’s Better Than Ever
+
+date: 2025-04-16, from: Dwell
+
+After a lengthy renovation, the Frick is back. Dwell’s executive editor returns to the famed institution to assess its much-debated $330 million update. 
+
+<br> 
+
+<https://www.dwell.com/article/frick-reopening-house-museums-review-better-than-ever-fa1deeb5-e275cde0>
+
+---
+
+## You Use Cutlery Everyday—So Get Some That Makes You Smile
+
+date: 2025-04-16, from: Dwell
+
+I’ve searched high and low for flatware that’ll make even the most humdrum dining experience feel special. 
+
+<br> 
+
+<https://www.dwell.com/article/best-design-cutlery-flatware-ff627e8b>
+
+---
+
+## This 40-Year-Old IKEA Collection Just Got an Update
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+Since IKEA's Stockholm collection debuted in 1985, it's gone through eight iterations. Its latest one was launched for its 40th anniversary. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/ikea-stockholm-2025>
+
+---
+
+## This Bucket List Train Ride Is Back—Here’s What to See en Route
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+The scenic train route, Amtrak Cascades, is resuming service. Here are the best sights to check out along the route. 
+
+<br> 
+
+<https://www.sunset.com/travel/amtrak-cascade-vancouver-seattle-train-route>
+
+---
+
+## A Luxe Sleeper Train Will Soon Connect San Francisco and Los Angeles
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+A new luxury sleeper train will take passengers from Los Angeles to San Francisco. Service is anticipated to begin mid-summer 2025. 
+
+<br> 
+
+<https://www.sunset.com/travel/new-sleeper-train-san-francisco-los-angeles>
 
 ---
 
@@ -48,6 +257,18 @@ date: 2025-04-16, from: California Native Plants Society
 <br> 
 
 <https://www.cnps.org/conservation/speak-out-to-protect-the-california-environmental-quality-act-oppose-ca-sb-607-43341>
+
+---
+
+## These Midcentury Reissues Are Crafted to Be True Collector’s Items
+
+date: 2025-04-15, from: Dwell
+
+A new collection brings legendary works by midcentury designers to a wider audience for the first time in decades. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-reissues-cb2-design-legends-collection-66902745>
 
 ---
 

@@ -1,11 +1,62 @@
 ---
 title: journalism
-updated: 2025-04-16 06:08:31
+updated: 2025-04-16 14:07:46
 ---
 
 # journalism
 
-(date: 2025-04-16 06:08:31)
+(date: 2025-04-16 14:07:46)
+
+---
+
+## SDA alum, actor to return for commencement
+
+date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The ceremony will honor students in bachelor of fine arts, bachelor of arts and master of fine arts programs.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/16/sda-alum-actor-to-return-for-commencement/">SDA alum, actor to return for commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/sda-alum-actor-to-return-for-commencement/>
+
+---
+
+## Caroline Sierk’s ‘To Be’ uncovers what it means to be a filmmaker, actor in LA
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+A one-of-a-kind friendship and a motivating mantra are the inspiration behind Caroline Sierk&#8217;s directorial debut.
+After the UCLA School of Theater, Film and Television decided she was not to be a part of its department when she first applied in 2024, third-year political science student Sierk took it upon herself to make her own short film, titled &#8220;To Be.&#8221; Set in a romanticized 1965 Los Angeles, the movie follows college student Jack Adler, who chooses to look beyond his world of academics as he goes off into the city of stars and meets a fellow dreamer, Diana. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/caroline-sierks-to-be-uncovers-what-it-means-to-be-a-filmmaker-actor-in-la/>
+
+---
+
+## Editorial Cartoon: “Whiplash”
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/editorial-cartoon-whiplash/>
+
+---
+
+## Editorial Cartoon: “Acorn-ered”
+
+date: 2025-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/editorial-cartoon-acorn-ered/>
 
 ---
 
@@ -13,7 +64,7 @@ updated: 2025-04-16 06:08:31
 
 date: 2025-04-16, from: The Daily Trojan (USC Student Newspaper)
 
-<p>A vote to remove speaker of the senate Elijah Barnes is scheduled for April 22.</p>
+<p>A vote to remove speaker of the senate Elija Barnes is scheduled for April 22.</p>
 <p>The post <a href="https://dailytrojan.com/2025/04/16/usg-programming-assembly/">USG cuts programming assembly budgets by 12%</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 

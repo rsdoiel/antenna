@@ -1,11 +1,171 @@
 ---
 title: north america
-updated: 2025-04-16 06:08:25
+updated: 2025-04-16 14:07:43
 ---
 
 # north america
 
-(date: 2025-04-16 06:08:25)
+(date: 2025-04-16 14:07:43)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-17, from: The Contrarian
+
+Wednesday: Americans demand the return of Kilmar Abrego Garc&#237;a, plus protests in Florida, California, Arizona, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Trump’s unrelenting war on science is reckless and dangerous
+
+date: 2025-04-16, from: The Contrarian
+
+It will cost lives and puts all of us at risk. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-unrelenting-war-on-science>
+
+---
+
+## We can’t afford to defund election security
+
+date: 2025-04-16, from: The Contrarian
+
+Not taking election security seriously irreparably harms our democracy. 
+
+<br> 
+
+<https://contrarian.substack.com/p/we-cant-afford-to-defund-election>
+
+---
+
+## Tightening the screws
+
+date: 2025-04-16, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/tightening-the-screws>
+
+---
+
+## Fascism and the English language
+
+date: 2025-04-16, from: The Contrarian
+
+The words we use matter. So let's say what's actually happening. 
+
+<br> 
+
+<https://contrarian.substack.com/p/fascism-and-the-english-language>
+
+---
+
+## The SAVE Act
+
+date: 2025-04-16, from: The Contrarian
+
+Enough with Gaslighting Women 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-save-act>
+
+---
+
+##  Zuckerberg Admits Enshittification Is The Point 
+
+date: 2025-04-16, from: The Lever News
+
+ The tech CEO just confirmed what we already know: Big Tech is deliberately worsening users’ online experience.  
+
+<br> 
+
+<https://www.levernews.com/zuckerberg-admits-enshittification-is-the-point/>
+
+---
+
+## In Colorado, Gas for Cars Could Soon Come With a Warning Label
+
+date: 2025-04-16, from: Capital and Main
+
+<p>Like labels on cigarettes, opponents say fossil fuel warnings could change attitudes. Others call it gasoline “shaming.”</p>
+<p>The post <a href="https://capitalandmain.com/in-colorado-gas-for-cars-could-soon-come-with-a-warning-label">In Colorado, Gas for Cars Could Soon Come With a Warning Label</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/in-colorado-gas-for-cars-could-soon-come-with-a-warning-label>
+
+---
+
+## Jen Rubin goes live with Julian Zelizer
+
+date: 2025-04-16, from: The Contrarian
+
+A recording from Jennifer Rubin and Julian Zelizer's live video 
+
+<br> 
+
+<https://contrarian.substack.com/p/jen-rubin-goes-live-with-julian-zelizer>
+
+---
+
+##  Exxon Presses Supreme Court To Rescind Your Rights 
+
+date: 2025-04-16, from: The Lever News
+
+ Attorneys general bankrolled by the fossil fuel giant want the Supreme Court to stop Americans from suing polluters.  
+
+<br> 
+
+<https://www.levernews.com/exxon-presses-supreme-court-to-rescind-your-rights/>
+
+---
+
+## Anderson Clayton explains the state of play in the North Carolina Supreme Court Race
+
+date: 2025-04-16, from: The Contrarian
+
+The North Carolina State Supreme Court race is still being contested by Republicans, despite there being no evidence of election interference. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161391677/9c9b81e16a9f88fad3f2c60925dc43a8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161391677/9c9b81e16a9f88fad3f2c60925dc43a8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/anderson-clayton-explains-the-state>
+
+---
+
+## No, prisoners in the United States cannot be sent into exile
+
+date: 2025-04-16, from: The Contrarian
+
+The Supreme Court has long held banishment as unconstitutional cruel and unusual punishment. 
+
+<br> 
+
+<https://contrarian.substack.com/p/no-prisoners-in-the-united-states>
+
+---
+
+## Coffee with The Contrarians 04/16
+
+date: 2025-04-16, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/16 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0416>
 
 ---
 
@@ -130,18 +290,6 @@ date: 2025-04-15, from: The Lever News
 <br> 
 
 <https://www.levernews.com/mr-zuckerbergs-very-expensive-day-in-court/>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-15, from: The Contrarian
-
-Tuesday: Rep. Alexandria Ocasio-Cortez draws a massive crowd in Utah, getting ready for the next protests, a headline worth noting. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,250 @@
 ---
 title: columns
-updated: 2025-04-16 06:08:29
+updated: 2025-04-16 14:07:45
 ---
 
 # columns
 
-(date: 2025-04-16 06:08:29)
+(date: 2025-04-16 14:07:45)
+
+---
+
+## April 15, 2025
+
+date: 2025-04-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161494150/e7a7734c6d41133edcaa6f9400b07f08.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161494150/e7a7734c6d41133edcaa6f9400b07f08.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-15-2025-541>
+
+---
+
+##  Was The Great Gatsby&#8217;s titular character a Black man who passed for... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046648-was-the-great-gatsbys-tit>
+
+---
+
+## Meta Botches Redaction of Slides in Antitrust Trial, Angering Google, Apple, and Snap
+
+date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-16, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/2025/03/26/154836.html">Join a Parade Today</a>. When people talk about What You Can Do on podcasts or on TV, they say lame things that don't work that well. One thing for sure is that when Bernie and Alexandria do a rally in your area, you can go and enjoy the energy. This is a good thing because it gives the TV cameras something to focus on. But here's what I think the best thing to do is. Don't start something, join something. Because two is way more powerful than one, and three is way more powerful than two. When people work together on something good, more people doing it is usually even better. 
+
+<br> 
+
+<http://scripting.com/2025/04/16.html#a201309>
+
+---
+
+##  On the Real-Life Story of Deep-Cover Russian Spies Living As American Families.... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046646-on-the-real-life-story-of>
+
+---
+
+## The WSJ Reports on How Elon Musk Manages His ‘Legion’ of Children and Harem of Mothers
+
+date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/politics/elon-musk-children-mothers-ashley-st-clair-grimes-dc7ba05c?st=prbiyB&reflink=desktopwebshare_permalink>
+
+---
+
+##  The Traditional Designs of Ukrainian Egg Decorating 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-traditional-designs-of-ukrainian-egg-decorating>
+
+---
+
+## DOGE Dingalings Cut Off Funding for CVE Program
+
+date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/>
+
+---
+
+## Figma Files to Go Public
+
+date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.figma.com/blog/s1-confidential-submission/>
+
+---
+
+##  Here&#8217;s the full trailer for season two of Poker Face (Natasha Lyonne,... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046644-heres-the-full-trailer-fo>
+
+---
+
+## Glenn Fleishman’s Kickstarter for ‘Six Centuries of Type & Printing’
+
+date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.kickstarter.com/projects/glennf/six-centuries-of-type-and-printing>
+
+---
+
+##  Timothy Snyder on &#8220;the beginning of an American policy of state terror&#8221;... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046643-timothy-snyder-on-the-beg>
+
+---
+
+##  The First Sighting of the Colossal Squid 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-first-sighting-of-the-colossal-squid>
+
+---
+
+##  Here&#8217;s a gift link to the WSJ article about Elon Musk&#8217;s &#8220;legion&#8221;... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046641-heres-a-gift-link-to>
+
+---
+
+## The rise of Model Fatigue – or is it just me?
+
+date: 2025-04-16, from: Chris Heilmann's blog
+
+As someone curating a newsletter and dabbling in AI, I am feeling both overwhelmed and bored with news about yet another AI model being released by Company XYZ that will be a &#8220;game changer&#8221; and &#8220;leaves the others in the dust&#8221;. It feels hard to guess what I should be excited about. The size of [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/04/16/the-rise-of-model-fatigue-or-is-it-just-me/>
+
+---
+
+## CVE Program Almost Unfunded
+
+date: 2025-04-16, updated: 2025-04-16, from: Bruce Schneier blog
+
+<p>Mitre&#8217;s CVE&#8217;s program&#8212;which provides common naming and other informational resources about cybersecurity vulnerabilities&#8212;was about to <a href="https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html">be cancelled</a>, as the US Department of Homeland Security failed to renew the contact. It was funded for eleven more months at the last minute.</p>
+<p>This is a big deal. The CVE program is one of those pieces of common infrastructure that everyone benefits from. Losing it will bring us back to a world where there&#8217;s no single way to talk about vulnerabilities. It&#8217;s kind of crazy to think that the US government might damage its own security in this way&#8212;but I suppose no crazier than any of the other ways the US is working against its own interests right now...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/cve-program-almost-unfunded.html>
+
+---
+
+##  How Well Is [NYC&#8217;s] Congestion Pricing Doing? Very. &#8220;The number of complaints... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046639-how-well-is-nycs-congesti>
+
+---
+
+##  Seth Rogen Speaks Truth to Billionaires, Gets Censored For It 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/seth-rogan-speaks-truth-to-billionaires-gets-censored-for-it>
+
+---
+
+##  The Guggenheim Fellows for 2025 have been announced and they include Miranda... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046638-the-guggenheim-fellows-fo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-16, from: Dave Winer's Scripting News)
+
+I want to develop a WordPress theme by <a href="https://github.com/scripting/wordlandSupport/issues/54#issuecomment-2809493801">iterating</a> as you would when developing an app. I outlined the flow on the wordLandSupport repo. 
+
+<br> 
+
+<http://scripting.com/2025/04/16.html#a131003>
 
 ---
 
@@ -665,7 +904,7 @@ date: 2025-04-14, updated: 2025-04-14, from: Daring Fireball
 
 date: 2025-04-14, from: Doc Searls (at Harvard), New Old Blog
 
-Watch others follow. Harvard did the right thing. All errands today here in Pasadena, which is one of my favorite places in SoCal. Or hell, the world. Check out City Hall. Looks like the capital city of some country on the Mediterranian. Sure, it&#39;s chock full of cars and traffic, but that&#39;s an American thnig. Right [&#8230;] 
+Peacocks in Pasadena. Well, that&#8217;s the alliterative way of putting it. More accurately speaking, they were strutting southbound across Lombardy Road just east of Santa Anita Avenue in San Marino. All errands today here in Pasadena, which is one of my favorite places in SoCal. Or hell, the world. Check out City Hall. Looks like [&#8230;] 
 
 <br> 
 

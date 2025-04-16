@@ -1,11 +1,235 @@
 ---
 title: going electric
-updated: 2025-04-16 06:08:34
+updated: 2025-04-16 14:07:49
 ---
 
 # going electric
 
-(date: 2025-04-16 06:08:34)
+(date: 2025-04-16 14:07:49)
+
+---
+
+## Kia unveils the 2026 EV4, its first all-electric global sedan
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/9311053-0913-2026-Kia-EV4.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Kia just pulled the cover off its all-new 2026 EV4 today at the New York International Auto Show, marking the automaker’s first global all-electric sedan. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="411627" href="https://electrek.co/2025/04/16/kia-unveils-the-2026-ev4-its-first-all-electric-global-sedan/#more-411627" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/kia-unveils-the-2026-ev4-its-first-all-electric-global-sedan/>
+
+---
+
+## The 2026 Subaru Trailseeker EV Steps Out Of Toyota's Shadow
+
+date: 2025-04-16, from: Inside EVs News
+
+ It’s still a Toyota underneath, but the Trailseeker packs more Subaru DNA than you’d expect. 
+
+<br> 
+
+<https://insideevs.com/news/756892/2026-subaru-trailseeker-ev-new-york-auto-show/>
+
+---
+
+## Lexus Is Launching A New, Fancier ES. Is It Electric?
+
+date: 2025-04-16, from: Inside EVs News
+
+All the manufacturer is saying so far is that the new ES “refines advanced electrification technologies.” Here's what that could mean. 
+
+<br> 
+
+<https://insideevs.com/news/756879/new-lexus-es-flagship-teaser/>
+
+---
+
+## Ford ‘Would Love’ To Have ST Or RS Variants Of Its EVs
+
+date: 2025-04-16, from: Inside EVs News
+
+The Focus ST and Fiesta ST have been discontinued in the U.S., but we might see the sporty badges return with battery power. 
+
+<br> 
+
+<https://insideevs.com/news/756824/ford-st-rs-ev-versions/>
+
+---
+
+## India’s Waaree to double its solar module output at its Texas factory
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Waaree-Energies-Texas.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Facing potential 40% tariffs on India-made solar modules, India’s Waaree Energies is doubling its manufacturing capacity at its Texas factory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,india,solar-power,texas" data-layer-viewtype="unknown" data-post-id="411610" href="https://electrek.co/2025/04/16/indias-waaree-to-double-its-solar-module-output-at-its-texas-factory/#more-411610" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/indias-waaree-to-double-its-solar-module-output-at-its-texas-factory/>
+
+---
+
+## The 2,000-HP Lotus Evija EV Finally Hits The Road In Production Form
+
+date: 2025-04-16, from: Inside EVs News
+
+The quad-motor, $2 million Evija was supposed to debut years ago, but it’s only now hitting the tarmac. 
+
+<br> 
+
+<https://insideevs.com/news/756834/lotus-evija-test-top-gear/>
+
+---
+
+## Bluetti Earth Day Sale takes up to 54% off power stations, Lectric XP 3.0 cargo bundles from $999, Aiper solar smart pool monitor, more
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Bluetti-Earth-Day-sale-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are being led by <a href="https://9to5toys.com/2025/04/16/bluetti-earth-day-sale/">Bluetti’s Earth Day Sale</a> that is taking up to 54% off power stations and solar generator bundles, like the one we’re seeing on the <a href="https://9to5toys.com/2025/04/16/bluetti-earth-day-sale/">AC180 Portable Power Station</a> that comes with a 350W solar panel back at its <a href="https://9to5toys.com/2025/04/16/bluetti-earth-day-sale/">$902</a> low, among plenty of others. That’s not the only Earth Day savings, as <a href="https://9to5toys.com/2025/04/16/lectric-xp-3-0-e-bike-bundles-earth-day/">Lectric switches to its holiday-themed sale</a> with up to $654 in free gear accompanying e-bikes, adding cargo-capable packages to the <a href="https://9to5toys.com/2025/04/16/lectric-xp-3-0-e-bike-bundles-earth-day/">XP 3.0 e-bikes</a> starting from <a href="https://9to5toys.com/2025/04/16/lectric-xp-3-0-e-bike-bundles-earth-day/">$999</a>. We just spotted the first savings on Aiper’s new solar-powered <a href="https://9to5toys.com/2025/04/16/aiper-hydrocomm-smart-pool-monitor-first-savings-300/">HydroComm Smart Pool Monitor</a> that offers 5-in-1 testing at <a href="https://9to5toys.com/2025/04/16/aiper-hydrocomm-smart-pool-monitor-first-savings-300/">$200 off</a>, as well as the first of EcoFlow’s phase 2 Mega Sale flash offers that bundle either the <a href="https://9to5toys.com/2025/04/16/ecoflow-delta-2-delta-pro-ultra-flash-bundles-from-849/">DELTA 2 or DELTA Pro Ultra power stations</a> starting from <a href="https://9to5toys.com/2025/04/16/ecoflow-delta-2-delta-pro-ultra-flash-bundles-from-849/">$849</a> and only lasting through the rest of the day. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s second phase <a href="https://9to5toys.com/2025/04/15/ecoflow-second-phase-mega-sale-from-119/">EcoFlow Mega Sale offers</a>, the launch discount on <a href="https://9to5toys.com/2025/04/14/hiboy-launches-u2-pro-e-scooter-900/">Hiboy’s U2 Pro Electric Scooter</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="411569" href="https://electrek.co/2025/04/16/bluetti-earth-day-sale-lectric-aiper-more/#more-411569" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/bluetti-earth-day-sale-lectric-aiper-more/>
+
+---
+
+## Tesla (TSLA) sales continue to slide in California
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-sales-california.png?w=1600" /></div><p>Tesla’s sales are continuing to slide in California. According to the California New Car Dealers Association, Tesla registrations are down 15% in Q1 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411577" href="https://electrek.co/2025/04/16/tesla-tsla-sales-continue-slide-in-california/#more-411577" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/tesla-tsla-sales-continue-slide-in-california/>
+
+---
+
+## I Went To China Twice To Drive EVs. Here's What Blew Me Away Most
+
+date: 2025-04-16, from: Inside EVs News
+
+China's electric auto sector has far surpassed the rest of the world. Here's what that looks like up close—and from behind the wheel. 
+
+<br> 
+
+<https://insideevs.com/news/756750/china-visit-two-times-video/>
+
+---
+
+## Elon Musk shut down internal Tesla analysis that showed Robotaxi would lose money
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robovan_95-e1728925469514.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>According to a credible new report, Elon Musk has reportedly shut down an internal analysis from Tesla executives that showed the company’s Robotaxi plans would lose money and that it should focus on its more affordable ‘Model 2’.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411534" href="https://electrek.co/2025/04/16/elon-musk-shut-down-internal-tesla-analysis-that-showed-robotaxi-would-lose-money/#more-411534" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/elon-musk-shut-down-internal-tesla-analysis-that-showed-robotaxi-would-lose-money/>
+
+---
+
+## Chevrolet Keeps Winning At This
+
+date: 2025-04-16, from: Inside EVs News
+
+Chevy keeps riding a wave of more and more EV buyers, many new to the brand. Plus: the New York Auto Show brings fresh EV energy. 
+
+<br> 
+
+<https://insideevs.com/news/756820/chevy-evs-nyas-preview-tariffs/>
+
+---
+
+## 2026 Kia EV4 Lands In The U.S. With A Tesla Charging Port
+
+date: 2025-04-16, from: Inside EVs News
+
+It will be built in South Korea, which is an interesting choice given all the recent tariff turmoil. 
+
+<br> 
+
+<https://insideevs.com/news/756687/2026-kia-ev4-us-official-specs-range-charging/>
+
+---
+
+## Geely exercises its Put Option on Lotus UK, enabling reintegration of all businesses under the Lotus brand
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Lotus-Geely-Sell.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Bear with me, as this one is a bit complicated and jargon-heavy. Lotus Technology Inc. announced that <a href="https://electrek.co/guides/geely/">Geely</a>, the majority owner of its vehicle manufacturing business Lotus UK, exercised its put option earlier this week to sell its 51% stake in the latter company back to the former company. In Lamen’s terms, Geely is out, so Lotus Tech has to buy the 51% of Lotus UK back, putting all those respective businesses back under one umbrella. Still with me? More below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="geely,lotus" data-layer-viewtype="unknown" data-post-id="411532" href="https://electrek.co/2025/04/16/geely-exercises-put-option-lotus-enabling-reintegration-businesses/#more-411532" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/geely-exercises-put-option-lotus-enabling-reintegration-businesses/>
+
+---
+
+## California set to give out more e-bike vouchers for up to $2,000 off an electric bike
+
+date: 2025-04-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ride1up-vorsa-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><br>California’s e-bike incentive program is back, offering CA residents another opportunity to receive up to $2,000 off a new electric bicycle. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="411427" href="https://electrek.co/2025/04/16/california-set-to-give-out-more-e-bike-vouchers-for-up-to-2000-off-an-electric-bike/#more-411427" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/california-set-to-give-out-more-e-bike-vouchers-for-up-to-2000-off-an-electric-bike/>
+
+---
+
+## The 2026 Subaru Trailseeker EV Is Exactly What Subaru Fans Wanted
+
+date: 2025-04-16, from: Inside EVs News
+
+Subaru's surprise debut at the New York Auto Show brings WRX-beating acceleration, more cargo room than a Solterra and a Tesla NACS plug. 
+
+<br> 
+
+<https://insideevs.com/news/756763/2026-subaru-trailseeker-debut-nyas/>
+
+---
+
+## The 2026 Subaru Solterra Is Not What We Expected
+
+date: 2025-04-16, from: Inside EVs News
+
+The 2026 Subaru Solterra gets 25% more range, a Tesla port, more power and better charging—but maybe also a polarizing new face. 
+
+<br> 
+
+<https://insideevs.com/news/756758/subaru-solterra-2026-refresh-range/>
 
 ---
 

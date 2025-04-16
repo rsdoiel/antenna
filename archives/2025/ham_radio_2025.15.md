@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-04-16 06:08:27
+updated: 2025-04-16 14:07:44
 ---
 
 # ham radio
 
-(date: 2025-04-16 06:08:27)
+(date: 2025-04-16 14:07:44)
+
+---
+
+## Photo tachometer sensor accommodates ambient light
+
+date: 2025-04-16, from: EDN Blog
+
+<img width="581" height="371" src="https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?fit=581%2C371" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?w=581 581w, https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?w=300 300w" sizes="(max-width: 581px) 100vw, 581px" /><p>A tachometer uses a simple detector with a threshold detector to accomplish optical sensing using available ambient light.</p>
+<p>The post <a href="https://www.edn.com/photo-tachometer-sensor-accommodates-ambient-light/">Photo tachometer sensor accommodates ambient light</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/photo-tachometer-sensor-accommodates-ambient-light/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-04-16 06:08:27
 
 date: 2025-04-16, from: EDN Blog
 
-<img width="902" height="696" src="https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?fit=902%2C696" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?w=902 902w, https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?w=768 768w" sizes="(max-width: 902px) 100vw, 902px" /><p>MCUs, once confined to simple command execution, are adopting NoC architectures to manage far more complex systems.</p>
+<img width="902" height="696" src="https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?fit=902%2C696" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?w=902 902w, https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/EDN-Fig-1-Microcontroller.jpg?w=768 768w" sizes="auto, (max-width: 902px) 100vw, 902px" /><p>MCUs, once confined to simple command execution, are adopting NoC architectures to manage far more complex systems.</p>
 <p>The post <a href="https://www.edn.com/how-noc-architecture-solves-mcu-design-challenges/">How NoC architecture solves MCU design challenges</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
