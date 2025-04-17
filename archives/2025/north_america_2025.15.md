@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-04-16 14:07:43
+updated: 2025-04-17 06:07:35
 ---
 
 # north america
 
-(date: 2025-04-16 14:07:43)
+(date: 2025-04-17 06:07:35)
+
+---
+
+## Fiscal Disaster Awaits
+
+date: 2025-04-17, from: The Contrarian
+
+The tariffs are not the only regressive, economically insane move that's been proposed 
+
+<br> 
+
+<https://contrarian.substack.com/p/fiscal-disaster-awaits>
 
 ---
 
@@ -18,6 +30,32 @@ Wednesday: Americans demand the return of Kilmar Abrego Garc&#237;a, plus protes
 <br> 
 
 <https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Evening Roundup, April 16
+
+date: 2025-04-16, from: The Contrarian
+
+Featuring Anat Shenker-Osorio; Austin Sarat; Anderson Clayton in conversation with Jen Rubin; Jennifer Weiss-Wolf; Nick Anderson; Pamela Smith and The Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-16>
+
+---
+
+## OSHA Office Closure in ‘Cancer Alley’ Raises Fears About Risks to Workers
+
+date: 2025-04-16, from: Capital and Main
+
+<p>Louisiana is one the most dangerous states in the U.S. for workers. The Trump administration plans to close its lone protection unit.</p>
+<p>The post <a href="https://capitalandmain.com/osha-office-closure-in-cancer-alley-raises-fears-about-risks-to-workers">OSHA Office Closure in ‘Cancer Alley’ Raises Fears About Risks to Workers</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/osha-office-closure-in-cancer-alley-raises-fears-about-risks-to-workers>
 
 ---
 

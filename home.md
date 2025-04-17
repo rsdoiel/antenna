@@ -1,11 +1,90 @@
 ---
 title: home
-updated: 2025-04-16 14:07:48
+updated: 2025-04-17 06:07:41
 ---
 
 # home
 
-(date: 2025-04-16 14:07:48)
+(date: 2025-04-17 06:07:41)
+
+---
+
+## 58 Common Types of Oak Trees (Pictures and Identification)
+
+date: 2025-04-17, from: Yard Life blog
+
+<p>Oak trees are among the most iconic and diverse trees found across the Northern Hemisphere. From towering giants in dense ... </p>
+<p class="read-more-container"><a title="58 Common Types of Oak Trees (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/58-common-types-of-oak-trees-pictures-and-identification/#more-27174" aria-label="Read more about 58 Common Types of Oak Trees (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/58-common-types-of-oak-trees-pictures-and-identification/">58 Common Types of Oak Trees (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/58-common-types-of-oak-trees-pictures-and-identification/>
+
+---
+
+## 11 of the Best Winter Squash Varieties to Grow in the Garden
+
+date: 2025-04-17, from: The Gardener's Path
+
+<p>Thinking of growing winter squash? Make sure to choose the best variety to match the length of your growing season and the size of your garden. And of course, you’ll want to pick a cultivar that will please your palate too! Keep reading to discover 11 of the best winter squash cultivars and find your new favorite.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-winter-squash-varieties/">11 of the Best Winter Squash Varieties to Grow in the Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-winter-squash-varieties/>
+
+---
+
+## 25 Delicious Ways to Celebrate Easter
+
+date: 2025-04-17, from: Sunset Magazine - Living in the West
+
+Hosting an Easter gathering? Take a look at these Easter recipes: Hot-cross buns, golden baked ham, juicy lamb, and more ideas. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/easter-recipes-menus>
+
+---
+
+## How and When to Water Fuchsia Plants
+
+date: 2025-04-17, from: The Gardener's Path
+
+<p>Fuchsias are fussy about the amount of water they want. They can’t tolerate dry soil at all. But at the same time, soggy roots will kill them off pretty quickly. The challenge is figuring out the right amount of water and when to apply it. This guide will arm you with the knowledge you need to make your plants happy.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/watering-fuchsia/">How and When to Water Fuchsia Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/watering-fuchsia/>
+
+---
+
+## From Traditional to Modern, Here Are All the Ways You Can Decorate Your Table for Easter (and Spring!)
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+It’s time to hop to it if you want to get started on decorating for Easter. These are the best decor finds for spring. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/easter-table-decor>
+
+---
+
+## This Is the Best Week of the Year to Sell Your Home
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+If you're looking to sell your house, there's an ideal time to list it. Realtor.com has a new report detailing the best week to sell your house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/this-is-the-best-week-of-the-year-to-sell-your-home>
 
 ---
 
@@ -103,6 +182,42 @@ The Queen of Country’s former getaway comes with a boulder in the living room 
 
 ---
 
+## The Venues for the 2028 Olympic Games in Los Angeles Will Definitely Surprise You
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+Los Angeles will host the Olympic Games in 2028 and the locations are far-reaching, spanning the San Fernando Valley to San Clemente. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/2028-olympics-los-angeles-venues>
+
+---
+
+## Airbnb Revealed the Most Wishlisted Homes in Each State—Check out These in the West
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+Airbnb just released their most popular Airbnbs in each state, from treehouse s to A-frames. These are always booked way in advance. 
+
+<br> 
+
+<https://www.sunset.com/travel/most-wishlisted-airbnbs>
+
+---
+
+## The New Rules of Fire-Resilient Home Design, According to a Top Malibu Architect
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+Architect Doug Burdge knows from experience: He’s lost homes to fires in Malibu. Here’s his blueprint for building better. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/fire-resilient-home-design-ideas>
+
+---
+
 ## This $120K Tiny Home Is a Tea House on Wheels
 
 date: 2025-04-16, from: Dwell
@@ -112,6 +227,18 @@ Tiny House Japan’s units are designed like saunas—with plenty of cedar to wi
 <br> 
 
 <https://www.dwell.com/article/triangular-roof-house-tiny-house-japan-tea-house-on-wheels-c232cc36>
+
+---
+
+## This 40-Year-Old IKEA Collection Just Got an Update
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+Since IKEA's Stockholm collection debuted in 1985, it's gone through eight iterations. Its latest one was launched for its 40th anniversary. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/ikea-stockholm-2025>
 
 ---
 
@@ -182,18 +309,6 @@ I’ve searched high and low for flatware that’ll make even the most humdrum d
 
 ---
 
-## This 40-Year-Old IKEA Collection Just Got an Update
-
-date: 2025-04-16, from: Sunset Magazine - Living in the West
-
-Since IKEA's Stockholm collection debuted in 1985, it's gone through eight iterations. Its latest one was launched for its 40th anniversary. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/ikea-stockholm-2025>
-
----
-
 ## This Bucket List Train Ride Is Back—Here’s What to See en Route
 
 date: 2025-04-16, from: Sunset Magazine - Living in the West
@@ -260,6 +375,18 @@ date: 2025-04-16, from: California Native Plants Society
 
 ---
 
+## The 3 Important Design Elements That Will Increase Your Home’s Value
+
+date: 2025-04-15, from: Sunset Magazine - Living in the West
+
+There are some surprising design details that will increase your home's value. A new Zillow report shares three that make a big difference. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/design-features-increase-home-value>
+
+---
+
 ## These Midcentury Reissues Are Crafted to Be True Collector’s Items
 
 date: 2025-04-15, from: Dwell
@@ -281,6 +408,30 @@ Five awaited food stands to keep you dancing at Coachella. From tacos to Italian
 <br> 
 
 <https://www.sunset.com/food-wine/best-food-stands-coachella-2025>
+
+---
+
+## Before & After: An L.A. Couple Convert a Dated Ohio Home Into a Light-Filled Retreat
+
+date: 2025-04-15, from: Dwell
+
+Now known as Stonestill Lodge, the home lets in the surrounding landscape while honoring the property’s original structure. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-an-la-couple-convert-a-dated-ohio-home-kolbe-windows-and-doors-9cb21b0a>
+
+---
+
+## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
+
+date: 2025-04-15, from: Sunset Magazine - Living in the West
+
+Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
 
 ---
 
@@ -353,6 +504,18 @@ Sunset’s former historic campus in Menlo Park is in danger of being erased. He
 <br> 
 
 <https://www.sunset.com/lifestyle/sunset-menlo-park-campus-preservation>
+
+---
+
+## Green Drenching Is the Trend Taking Over Gardens This Spring—Here’s How to Do It
+
+date: 2025-04-15, from: Sunset Magazine - Living in the West
+
+Time to turn your backyard into a lush retreat. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/green-drenching-2>
 
 ---
 

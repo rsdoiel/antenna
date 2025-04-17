@@ -1,11 +1,173 @@
 ---
 title: small papers
-updated: 2025-04-16 14:07:50
+updated: 2025-04-17 06:07:44
 ---
 
 # small papers
 
-(date: 2025-04-16 14:07:50)
+(date: 2025-04-17 06:07:44)
+
+---
+
+## Abril es el Mes de la Tierra: se Llevan a Cabo Esfuerzos de Limpieza para Limpiar las Calles
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="769" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?fit=1024%2C769&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=1024%2C769&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=768%2C577&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=1536%2C1153&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=2048%2C1538&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=2000%2C1502&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=780%2C586&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1310776-scaled.jpg?fit=1024%2C769&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Si bien el Día de la Tierra es oficialmente el martes 22 de abril, se ha expandido al Mes de la Tierra como un evento global que se enfoca en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/abril-es-el-mes-de-la-tierra-se-llevan-a-cabo-esfuerzos-de-limpieza-para-limpiar-las-calles/">Abril es el Mes de la Tierra: se Llevan a Cabo Esfuerzos de Limpieza para Limpiar las Calles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/abril-es-el-mes-de-la-tierra-se-llevan-a-cabo-esfuerzos-de-limpieza-para-limpiar-las-calles/>
+
+---
+
+## Mantenimiento de Espacios Verdes en la Ciudad de San Fernando
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_CMNP_SN_09-scaled-e1744867799786.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_CMNP_SN_09-scaled-e1744867799786.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_CMNP_SN_09-scaled-e1744867799786.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_CMNP_SN_09-scaled-e1744867799786.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_CMNP_SN_09-scaled-e1744867799786.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>No se puede exagerar la importancia de tener espacios verdes saludables para la comunidad. Las áreas del parque brindan a las personas un lugar para reunirse, relajarse y realizar actividades. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/mantenimiento-de-espacios-verdes-en-la-ciudad-de-san-fernando/">Mantenimiento de Espacios Verdes en la Ciudad de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/mantenimiento-de-espacios-verdes-en-la-ciudad-de-san-fernando/>
+
+---
+
+## Horóscopo
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Algunas personas se sientan en sus zonas de confort para siempre. Tú no. Luchas con las cosas, evolucionas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/horoscopo-210/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/horoscopo-210/>
+
+---
+
+## EVENTOS Locales – Semana de 17 de abril, 2025
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Abril 18 Pot &#38; Paint con Nosotros Tia Chucha&#8217;s Centro Cultural 12677 Glenoaks Blvd. Sylmar 6:30 p.m. – 8 p.m. ¡Ven a pintar macetas y bandejas con nosotros en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/eventos-locales-semana-de-17-de-abril-2025/">EVENTOS Locales &#8211; Semana de 17 de abril, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/eventos-locales-semana-de-17-de-abril-2025/>
+
+---
+
+## Se Anima a los Angelinos a Inscribirse en las Limpiezas del Día de la Tierra en toda la Ciudad
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="863" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?fit=1024%2C863&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?w=1903&amp;ssl=1 1903w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=300%2C253&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=1024%2C863&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=768%2C647&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=1536%2C1295&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=1200%2C1011&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=780%2C657&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=400%2C337&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?resize=706%2C595&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/P1320065-scaled-e1744867516653.jpg?fit=1024%2C863&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los residentes locales están siendo llamados a la acción para celebrar el Día de la Tierra 2025 arremangándose y haciendo que Los Ángeles “brille” participando en proyectos de embellecimiento que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/se-anima-a-los-angelinos-a-inscribirse-en-las-limpiezas-del-dia-de-la-tierra-en-toda-la-ciudad/">Se Anima a los Angelinos a Inscribirse en las Limpiezas del Día de la Tierra en toda la Ciudad</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/se-anima-a-los-angelinos-a-inscribirse-en-las-limpiezas-del-dia-de-la-tierra-en-toda-la-ciudad/>
+
+---
+
+## Cómo Plantar Su Jardín Teniendo en Cuenta la Resistencia al Fuego
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="765" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?fit=1024%2C765&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?w=1100&amp;ssl=1 1100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?resize=300%2C224&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?resize=1024%2C765&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?resize=768%2C574&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?resize=400%2C299&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?resize=780%2C583&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?resize=706%2C528&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Eriogonum_fasciculatum-_California_Buckwheat_27799078065.jpg?fit=1024%2C765&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A raíz de los incendios forestales que devastaron Los Ángeles a principios de este año, es más importante que nunca que los angelinos piensen en plantar y paisajizar resistentes al [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/como-plantar-su-jardin-teniendo-en-cuenta-la-resistencia-al-fuego/">Cómo Plantar Su Jardín Teniendo en Cuenta la Resistencia al Fuego</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/como-plantar-su-jardin-teniendo-en-cuenta-la-resistencia-al-fuego/>
+
+---
+
+## ¿El Polvo de los Talleres de Fabricación de Piedra Está Afectando a la Comunidad en General?
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_17-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta es la parte 3 de una serie sobre la silicosis. A primera hora de la tarde, dos mujeres se detuvieron en una camioneta entre las hileras de tiendas de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/el-polvo-de-los-talleres-de-fabricacion-de-piedra-esta-afectando-a-la-comunidad-en-general/">¿El Polvo de los Talleres de Fabricación de Piedra Está Afectando a la Comunidad en General?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/el-polvo-de-los-talleres-de-fabricacion-de-piedra-esta-afectando-a-la-comunidad-en-general/>
+
+---
+
+## La Comunidad Discute un Retiro del Oficiales Después de que la Ciudad de San Fernando Rechazara el Estatus de Ciudad Santuario
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250416_Historic-and-Visionary_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Molestos por el voto del Concejo Municipal de San Fernando para rechazar convertirse en una “ciudad santuario”, los miembros de la comunidad están discutiendo posibles esfuerzos de destitución para los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/la-comunidad-discute-un-retiro-del-oficiales-despues-de-que-la-ciudad-de-san-fernando-rechazara-el-estatus-de-ciudad-santuario/">La Comunidad Discute un Retiro del Oficiales Después de que la Ciudad de San Fernando Rechazara el Estatus de Ciudad Santuario</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/la-comunidad-discute-un-retiro-del-oficiales-despues-de-que-la-ciudad-de-san-fernando-rechazara-el-estatus-de-ciudad-santuario/>
+
+---
+
+## La Fecha Límite de Impuestos para los Residentes del Condado de Los Ángeles se Extiende Hasta el 15 de Octubre Debido a Incendios Forestales
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Si bien millones de estadounidenses tenían que presentar sus impuestos antes del 15 de abril, este año todos los residentes del condado de Los Ángeles recibirán una extensión automática hasta [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/la-fecha-limite-de-impuestos-para-los-residentes-del-condado-de-los-angeles-se-extiende-hasta-el-15-de-octubre-debido-a-incendios-forestales/">La Fecha Límite de Impuestos para los Residentes del Condado de Los Ángeles se Extiende Hasta el 15 de Octubre Debido a Incendios Forestales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/la-fecha-limite-de-impuestos-para-los-residentes-del-condado-de-los-angeles-se-extiende-hasta-el-15-de-octubre-debido-a-incendios-forestales/>
+
+---
+
+## Defensores de la Salud Mental de los Adolescentes de las Escuelas del Valle Comparten Sus Experiencias
+
+date: 2025-04-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="819" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?fit=1024%2C819&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=1024%2C819&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=768%2C614&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=1536%2C1229&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=2048%2C1638&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=1200%2C960&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=2000%2C1600&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=780%2C624&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=400%2C320&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?resize=706%2C565&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mental-Health-03.jpg?fit=1024%2C819&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Más de dos docenas de estudiantes de dos escuelas preparatorias del Valle de San Fernando compartieron los aspectos más destacados del Proyecto Thriving Together, un programa de defensa estudiantil para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/16/defensores-de-la-salud-mental-de-los-adolescentes-de-las-escuelas-del-valle-comparten-sus-experiencias/">Defensores de la Salud Mental de los Adolescentes de las Escuelas del Valle Comparten Sus Experiencias</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/16/defensores-de-la-salud-mental-de-los-adolescentes-de-las-escuelas-del-valle-comparten-sus-experiencias/>
+
+---
+
+## Long Beach police cite 7 people who bought alcohol for underage decoys, department says
+
+date: 2025-04-16, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The penalty for buying alcohol for an underage person is a minimum $1,000 fine and 24 hours of community service.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-police-cite-7-people-who-bought-alcohol-for-underage-decoys-department-says">Long Beach police cite 7 people who bought alcohol for underage decoys, department says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-police-cite-7-people-who-bought-alcohol-for-underage-decoys-department-says>
 
 ---
 
@@ -13,7 +175,7 @@ updated: 2025-04-16 14:07:50
 
 date: 2025-04-16, from: Long Beach Post
 
-<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-768x493.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1536x987.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1200x771.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1568x1007.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-768x493.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1536x987.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1200x771.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1568x1007.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Gov. Gavin Newsom and Attorney General Rob Bonta announced the lawsuit Wednesday, saying the tariffs hurt “states, consumers and businesses.”</p>
 <p>The post <a href="https://lbpost.com/news/ports/newsom-takes-on-trump-over-tariffs-he-says-are-hurting-california">Newsom takes on Trump over tariffs he says are hurting California</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +190,7 @@ date: 2025-04-16, from: Long Beach Post
 
 date: 2025-04-16, from: Long Beach Post
 
-<figure><img width="1024" height="674" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-1024x674.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-1024x674.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-300x198.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-768x506.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-164x108.jpg 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-400x263.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="674" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-1024x674.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-1024x674.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-300x198.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-768x506.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-164x108.jpg 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd-400x263.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/02/06160400/29nov23-law-6937-196622-g0mfrllx-929182-90dQgySd.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The files at risk included Social Security numbers, biometric information, medical diagnoses and other sensitive information.</p>
 <p>The post <a href="https://lbpost.com/news/cyberattack-data-breach-long-beach-300000-data-exposed-private">Private data from more than 300,000 people may have been stolen in cyberbreach, city of Long Beach says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

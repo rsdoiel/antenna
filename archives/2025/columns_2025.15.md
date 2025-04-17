@@ -1,11 +1,125 @@
 ---
 title: columns
-updated: 2025-04-16 14:07:45
+updated: 2025-04-17 06:07:38
 ---
 
 # columns
 
-(date: 2025-04-16 14:07:45)
+(date: 2025-04-17 06:07:38)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-17, from: Dave Winer's Scripting News)
+
+Watching debates on CNN it’s amazing how many arguments would be settled by saying “It’s nice you feel that way, but that’s not what the Constitution says.” 
+
+<br> 
+
+<http://scripting.com/2025/04/17.html#a122414>
+
+---
+
+## Trump’s Three Unwinnable Wars: China, Harvard, and the Supreme Court
+
+date: 2025-04-17, from: Robert Reich's blog
+
+The Trump regime overreaches 
+
+<br> 
+
+<https://robertreich.substack.com/p/china-harvard-and-the-supreme-court>
+
+---
+
+## April 16, 2025 
+
+date: 2025-04-17, from: Heather Cox Richardson blog
+
+In El Salvador today, authorities denied Senator Chris Van Hollen (D-MD) a meeting or a phone call with Kilmar Abrego Garcia, the man the Trump regime sent by &#8220;administrative error&#8221; to the terrorist prison CECOT. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-16-2025>
+
+---
+
+## The contradictions of fascist communication
+
+date: 2025-04-17, from: Tracy Durnell Blog
+
+The tyranny of relatable content by Ryan Broderick If a brand is a person, then a person has to be a brand, especially in an algorithmically-controlled attention economy that’s increasingly shifting literally everything about social media towards getting your money. And more importantly, if a government official or group has a social media presence, it [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/16/the-contradictions-of-fascist-communication/>
+
+---
+
+## Glenn Fleishman’s Kickstarter for ‘Six Centuries of Type & Printing’
+
+date: 2025-04-17, updated: 2025-04-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.kickstarter.com/projects/glennf/six-centuries-of-type-and-printing>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-16, from: Miguel de Icaza Mastondon feed)
+
+<p>The Chicken Logo was short lived:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114350283881635109>
+
+---
+
+## Man of the Hour: Judge James Boasberg
+
+date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://talkingpointsmemo.com/fivepoints/5-points-on-how-judge-boasberg-broke-down-the-admins-alien-enemies-contempt>
+
+---
+
+## Wink Martindale Dies at 91
+
+date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.latimes.com/obituaries/story/2025-04-15/wink-martindale-dead-game-show-host-tic-tac-dough-gambit>
+
+---
+
+##  Ben Werdmuller on how he would run Bluesky. &#8220;Anyone will be able... 
+
+date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046649-ben-werdmuller-on-how-he>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-16, from: Dave Winer's Scripting News)
+
+<a href="https://wordland.social/">WordLand</a> is starting to flow really nicely, and I'm doing <a href="https://daveverse.wordpress.com/2025/04/16/blueskys-real-strength-is-its-user-community-not-its-protocol/">more writing</a> there. I have to do this if it's going to be as good a product as it possibly can. The Timeline seems really solid btw, thinking about next steps. Lots of fun products coming soon! 
+
+<br> 
+
+<http://scripting.com/2025/04/16.html#a211004>
 
 ---
 
@@ -126,18 +240,6 @@ date: 2025-04-16, updated: 2025-04-16, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/04/0046644-heres-the-full-trailer-fo>
-
----
-
-## Glenn Fleishman’s Kickstarter for ‘Six Centuries of Type & Printing’
-
-date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.kickstarter.com/projects/glennf/six-centuries-of-type-and-printing>
 
 ---
 

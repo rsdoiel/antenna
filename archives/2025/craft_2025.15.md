@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-04-16 14:07:49
+updated: 2025-04-17 06:07:44
 ---
 
 # craft
 
-(date: 2025-04-16 14:07:49)
+(date: 2025-04-17 06:07:44)
+
+---
+
+## Reproducing and Using Moxon’s ‘Waving Engine’
+
+date: 2025-04-17, from: Lost Arg Press blog
+
+This is an excerpt from &#8220;With all the Precision Possible: Roubo on Furniture.&#8221; It is a follow-up to the post from a couple weeks ago that described a &#8220;machine for making waves.&#8221; Below is a portion of an essay by Jonathan Thornton that was written after he made one of these machines based off of... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/17/reproducing-and-using-moxons-waving-engine/>
 
 ---
 

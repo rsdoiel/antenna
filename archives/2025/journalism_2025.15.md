@@ -1,11 +1,173 @@
 ---
 title: journalism
-updated: 2025-04-16 14:07:46
+updated: 2025-04-17 06:07:40
 ---
 
 # journalism
 
-(date: 2025-04-16 14:07:46)
+(date: 2025-04-17 06:07:40)
+
+---
+
+## Student Health gives earthquake-preparedness tips
+
+date: 2025-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Los Angeles’ geography is one cause of the recent moderate dip in air quality.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/17/student-health-gives-earthquake-preparedness-tips/">Student Health gives earthquake-preparedness tips</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/17/student-health-gives-earthquake-preparedness-tips/>
+
+---
+
+## SCA adjunct professors and supporters serve complaint to dean’s office
+
+date: 2025-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Adjunct Faculty Alliance filed a federal labor charge against USC.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/17/sca-adjunct-professors-and-supporters-serve-complaint-to-deans-office/">SCA adjunct professors and supporters serve complaint to dean’s office</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/17/sca-adjunct-professors-and-supporters-serve-complaint-to-deans-office/>
+
+---
+
+## Stardust concert lit up the night
+
+date: 2025-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Music industry students worked together to make Stardust Productions, a three-act live music performance.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/17/stardust-concert-lit-up-the-night/">Stardust concert lit up the night</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/17/stardust-concert-lit-up-the-night/>
+
+---
+
+## Any Black person who sings is considered R&B
+
+date: 2025-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Black artists are constantly placed in boxes that their peers have easier times avoiding.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/17/any-black-person-who-sings-is-considered-rb/">Any Black person who sings is considered R&#038;B</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/17/any-black-person-who-sings-is-considered-rb/>
+
+---
+
+## Men’s volleyball slated to take on UCLA for senior night, hope to compete for the national championship
+
+date: 2025-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/16/mens-volleyball-slated-to-take-on-ucla-for-senior-night-hope-to-compete-for-the-national-championship/">Men&#8217;s volleyball slated to take on UCLA for senior night, hope to compete for the national championship</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/16/mens-volleyball-slated-to-take-on-ucla-for-senior-night-hope-to-compete-for-the-national-championship/>
+
+---
+
+## Bruin Day attendees share study ambitions at UCLA, sibling connections to school
+
+date: 2025-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Avalon Dwight remembers the moment she opened her admission portal.
+&#8220;I open it up, and I see the word &#8216;congratulations,&#8217;&#8221; Dwight said. &#8220;I immediately just start screaming. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/bruin-day-attendees-share-study-ambitions-at-ucla-sibling-connections-to-school/>
+
+---
+
+## Daily Bruin Spotlight: Episode 1
+
+date: 2025-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the inaugural episode of Daily Bruin Spotlight, Arts editors dive into the latest in music, film and lifestyle at UCLA and beyond. From Beyonc&#233;&#8217;s Cowboy Carter Tour and Coachella predictions to a tribute for filmmaker David Lynch and highlights from UCLA&#8217;s Dance Marathon, hosts Reid Sperisen, Martin Sevcik, Aisosa Onaghise and Jillian Baker break down the biggest stories shaping arts and culture this April. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/daily-bruin-spotlight-episode-1/>
+
+---
+
+## Restaurant preview: Multiple new eateries ready to blossom for LA residents this spring
+
+date: 2025-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the foliage awakens this spring, so do some of the tastiest restaurants in Los Angeles.
+From elevated comfort foods to culturally rich eats, foodies will find the spice in these openings. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/restaurant-preview-multiple-new-eateries-ready-to-blossom-for-la-residents-this-spring/>
+
+---
+
+## Video game preview: April showers rain in new releases, continuations this spring
+
+date: 2025-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+With the fresh flowers beginning to bud, this season&#8217;s crop of video games is starting to bloom.
+As the grass becomes greener and the sun shines more exuberantly, this season of renewal offers an array of spiraling possibilities within the landscape of entertainment. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/16/video-game-preview-april-showers-rain-in-new-releases-continuations-this-spring/>
+
+---
+
+## REVIEW: Sophocle’s story is reimagined without feeling repeated
+
+date: 2025-04-16, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College’s performing arts professor JP Evans brings together a cast and crew that understood their vision, conveying that through performances worthy of praise. “Is</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/16/review-sophocles-story-is-reimagined-without-feeling-repeated/">REVIEW: Sophocle&#8217;s story is reimagined without feeling repeated</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/16/review-sophocles-story-is-reimagined-without-feeling-repeated/?utm_source=rss&utm_medium=rss&utm_campaign=review-sophocles-story-is-reimagined-without-feeling-repeated>
+
+---
+
+## Media Art department wins awards at conference
+
+date: 2025-04-16, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Up-and-coming journalists came together to network, discuss the industry and share their work in Long Beach from Thursday, March 6, to Saturday, March 8. Pierce</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/16/media-art-department-wins-awards-at-conference/">Media Art department wins awards at conference</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/16/media-art-department-wins-awards-at-conference/?utm_source=rss&utm_medium=rss&utm_campaign=media-art-department-wins-awards-at-conference>
+
+---
+
+## Essential golf carts reported stolen from Lot 8
+
+date: 2025-04-16, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Sheriff&#8217;s Department is seeking two suspects who stole golf carts from a construction site through campus surveillance cameras on March 1, at</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/16/essential-golf-carts-reported-stolen-from-lot-8/">Essential golf carts reported stolen from Lot 8</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/16/essential-golf-carts-reported-stolen-from-lot-8/?utm_source=rss&utm_medium=rss&utm_campaign=essential-golf-carts-reported-stolen-from-lot-8>
 
 ---
 

@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-04-16 14:07:48
+updated: 2025-04-17 06:07:42
 ---
 
 # motorcycles
 
-(date: 2025-04-16 14:07:48)
+(date: 2025-04-17 06:07:42)
+
+---
+
+## HJC Enters Big Leagues of Dual Sport Motorcycle Helmets, Hopes To Challenge Everyone
+
+date: 2025-04-17, from: Ride Apart, Electric Motorcycle News
+
+I think the name of this category should be "dual purpose". 
+
+<br> 
+
+<https://www.rideapart.com/news/756893/hjc-rpha-60-dual-sport-motorcycle-helmet-debut-price/>
+
+---
+
+## The Yamaha MT-10 Is On Its Final Lap, But Only In Europe
+
+date: 2025-04-17, from: Ride Apart, Electric Motorcycle News
+
+Stricter Euro5+ regulations are to blame. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756762/yamaha-mt10-last-lap-europe-euro5plus/>
+
+---
+
+## Watch ATV Rider Hit a Cop With a Wheelie Before Escaping, Situation Out of Control
+
+date: 2025-04-17, from: Ride Apart, Electric Motorcycle News
+
+It's all fun and games until it's absolutely not. 
+
+<br> 
+
+<https://www.rideapart.com/news/756909/atv-rider-hits-cop/>
+
+---
+
+## Listen to How Awesome Yamaha's Hybrid Prototype Motorcycle Sounds
+
+date: 2025-04-17, from: Ride Apart, Electric Motorcycle News
+
+Looks like 'revs your heart' isn't just a tagline. 
+
+<br> 
+
+<https://www.rideapart.com/news/756896/yamaha-hybrid-prototype-sounds-amazing/>
+
+---
+
+## Harley Investors Launch Campaign to Oust Board, Were Told It Couldn't Pick New CEO
+
+date: 2025-04-17, from: Ride Apart, Electric Motorcycle News
+
+I see H Partners is going for scorched Earth. Let's see how that'll play out.  
+
+<br> 
+
+<https://www.rideapart.com/news/756861/harley-davidson-h-partners-management-jared-dourdeville-campaign/>
 
 ---
 

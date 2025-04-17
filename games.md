@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-04-16 14:07:46
+updated: 2025-04-17 06:07:39
 ---
 
 # games
 
-(date: 2025-04-16 14:07:46)
+(date: 2025-04-17 06:07:39)
+
+---
+
+## The Sandman season 2 trailer gives us a terrible family reunion and a release date
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+The Sandman is officially returning for its second and final season. But the new season will come in two volumes this summer, with a split of six episodes in the first run and five in the second. The two-part final season promises (as so many Sandman stories do) some cosmic stakes, starting with a miserable [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/560190/sandman-season-2-release-date-first-look-video>
+
+---
+
+## In its season 3 finale, The Wheel of Time is promising to go cosmic in season 4
+
+date: 2025-04-17, updated: 2025-04-16, from: Polygon Website
+
+The Wheel of Time season 3’s finale isn’t short on big moments. By the time the credits roll, series protagonist Rand al’Thor’s taken his biggest — and most ominous — step yet toward embracing his destiny as world savior/destroyer the Dragon Reborn. His self-appointed mentor, Moiraine Damodred, squares up for her previously foreshadowed showdown with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/559352/wheel-time-finale-fox-eelfinn-judkins-interview-bts>
+
+---
+
+## The best sci-fi movies you can watch at home
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+Science fiction, to echo Ursula K. Le Guin, is not predictive, but descriptive. While most science fiction films attempt (and fail) to extrapolate the ideas and concerns of their respective present to predict what the world may look like in the not-so-distant future, these extrapolations ultimately amount to stories that exist in conversation with the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/23051923/best-sci-fi-movies-netflix-hulu-max-free>
+
+---
+
+## Creator of Charli XCX’s Apple dance sued Roblox over unauthorized use
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+Kelley Heyer, an actor and TikTok content creator, has sued Roblox over the usage and sale of her copyrighted dance to “Apple” by pop star Charli XCX — a dance that went viral on TikTok and even became a part of Charli XCX’s live show. Heyer filed the lawsuit in California on April 11, alleging [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/559582/charli-xcx-apple-dance-roblox-lawsuit>
+
+---
+
+## How to unlock and evolve the Gaze of Gaea in Vampire Survivors
+
+date: 2025-04-16, updated: 2025-04-16, from: Polygon Website
+
+The Gaze of Gaea is a weapon that was added to Vampire Survivors with patch 1.13. It looks like a green stag’s head, is capable of defanging enemies (making them deal no damage to the player), and you can evolve it into the Embrace of Gaea, which is an even more powerful defensive tool. However, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/vampire-survivors-guide/559648/gaze-gaea-how-to-unlock-evolve-embrace>
 
 ---
 

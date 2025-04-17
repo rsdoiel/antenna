@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-16 14:07:47
+updated: 2025-04-17 06:07:41
 ---
 
 # libraries
 
-(date: 2025-04-16 14:07:47)
+(date: 2025-04-17 06:07:41)
+
+---
+
+## Guest Post:  Preprints Serve the Anti-science Agenda – This Is Why We Need Peer Review
+
+date: 2025-04-17, from: Scholarly Kitchen
+
+<p>Science is built on a foundation of rigor and credibility. Preprints are adding to the crumbling of that foundation, which is already under attack by anti-science political agendas.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/17/guest-post-preprints-serve-the-anti-science-agenda-this-is-why-we-need-peer-review/">Guest Post:  Preprints Serve the Anti-science Agenda – This Is Why We Need Peer Review</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/17/guest-post-preprints-serve-the-anti-science-agenda-this-is-why-we-need-peer-review/>
 
 ---
 

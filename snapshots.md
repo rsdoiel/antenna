@@ -1,11 +1,218 @@
 ---
 title: snapshots
-updated: 2025-04-16 14:07:50
+updated: 2025-04-17 06:07:45
 ---
 
 # snapshots
 
-(date: 2025-04-16 14:07:50)
+(date: 2025-04-17 06:07:45)
+
+---
+
+## Let's talk about this "EU OS"
+
+date: 2025-04-17, from: Libre News
+
+Why is everybody talking about this project? And, most importantly, why is everybody wrong about it? 
+
+<br> 
+
+<https://thelibre.news/lets-talk-about-this-eu-os/>
+
+---
+
+## Law Firms, Trade Wars and the Weakness of Monarchs
+
+date: 2025-04-17, from: Paul Krugman
+
+Unrestrained presidential power will diminish America 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/law-firms-trade-wars-and-the-weakness>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+Wikipedia is giving AI developers its data to fend off bot scrapers. 1. I’d like to submit my blog archive in the same way. 2. Does Wikipedia think it owns the data it hosts, even though it’s all created by unpaid volunteers? 
+
+<br> 
+
+<https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning>
+
+---
+
+## This ‘College Protester’ Isn’t Real. It’s an AI-Powered Undercover Bot for Cops
+
+date: 2025-04-17, from: 404 Media Group
+
+Massive Blue is helping cops deploy AI-powered social media bots to talk to people they suspect are anything from violent sex criminals all the way to vaguely defined “protesters.” 
+
+<br> 
+
+<https://www.404media.co/this-college-protester-isnt-real-its-an-ai-powered-undercover-bot-for-cops/>
+
+---
+
+## Build a home recording studio with Raspberry Pi 500: choosing your equipment
+
+date: 2025-04-17, from: Raspberry Pi News (.com)
+
+<p>Here’s what you need to know to equip your Raspberry Pi 500 home recording studio, from micro to medium budgets.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-a-home-recording-studio-with-raspberry-pi-500-choosing-your-equipment/">Build a home recording studio with Raspberry Pi 500: choosing your equipment</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/build-a-home-recording-studio-with-raspberry-pi-500-choosing-your-equipment/>
+
+---
+
+## 292: Rest Here, Weary Doomscroller
+
+date: 2025-04-17, from: Fix the News
+
+That's enough for one day. Plus, extraterrestrial life? A strain of flu disappears, global social services reach historic high, insane mouse brain, deforestation in the Amazon declines (again) and upside down rhinos FTW. 
+
+<br> 
+
+<https://fixthenews.com/292-rest-here-weary-doomscroller/>
+
+---
+
+## Time To Buy Used?
+
+date: 2025-04-17, updated: 2025-04-17, from: Tedium site
+
+With all the added uncertainty in the computing market thanks to tariffs, now would be an excellent time to turn into a savvy used electronics shopper. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17008833/used-electronics-advice-tariffs>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-17, from: Feed for Alt USDS)
+
+Why is being kind, consistent, and connected one of the most radical things you can do? Find out in the second edition of our newsletter here:
+
+🔗  https://open.substack.com/pub/altusds/p/the-builders-next-door?r=5fies6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmxxm3afab2o>
+
+---
+
+## Quoting Ted Sanders, OpenAI
+
+date: 2025-04-17, updated: 2025-04-17, from: Simon Willison’s Weblog
+
+<blockquote cite="https://news.ycombinator.com/item?id=43710698"><p>Our hypothesis is that o4-mini is a much better model, but we'll wait to hear feedback from developers. Evals only tell part of the story, and we wouldn't want to prematurely deprecate a model that developers continue to find value in. Model behavior is extremely high dimensional, and it's impossible to prevent regression on 100% use cases/prompts, especially if those prompts were originally tuned to the quirks of the older model. But if the majority of developers migrate happily, then it may make sense to deprecate at some future point.</p>
+<p>We generally want to give developers as stable as an experience as possible, and not force them to swap models every few months whether they want to or not.</p></blockquote>
+<p class="cite">&mdash; <a href="https://news.ycombinator.com/item?id=43710698">Ted Sanders, OpenAI</a>, on deprecating o3-mini</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/17/ted-sanders/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+Twitterlike is a Bad Shape. 
+
+<br> 
+
+<https://osteophage.neocities.org/essays/twitterlike>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-17, from: Feed for Alt USDS)
+
+This is one of our friends talking about how DOGE dropping into the U.S. Digital Service felt from the inside. Her story helps understand the early days of DOGE. Listen now! 
+
+🔗 https://play.prx.org/listen?ge=prx_8376_e983059a-03b5-4ba5-88ed-f850ff01392d
+
+#altgov #altusds #altdoge 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmxskvv7pe2e>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-16, from: Dave Winer's linkblog)
+
+The menu for the new Vietnamese restaurant in Bearsville. 
+
+<br> 
+
+<https://www.tibetphowoodstock.com/order>
+
+---
+
+## 557. 1066: The Norman Conquest (Part 4)
+
+date: 2025-04-16, from: This is history podcast
+
+<p>What happened in the aftermath of the Battle of Hastings? What horrors did William the Conqueror have to inflict upon his Anglo Saxon subjects in order to consolidate his new realm? And, what role did castles, the Harrowing of the North, and the Doomsday Book play in the creation of a new England? Join Tom [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/557-1066-the-norman-conquest-part-4/">557. 1066: The Norman Conquest (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/557-1066-the-norman-conquest-part-4/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-16, from: Dave Winer's linkblog)
+
+If you&#39;re not paying for the product, you are the product. 
+
+<br> 
+
+<https://www.quora.com/Who-originally-suggested-that-if-youre-not-paying-for-the-product-you-are-the-product>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-16, from: Dave Winer's linkblog)
+
+The Real Discomfort of ‘Adolescence.’ 
+
+<br> 
+
+<https://www.theatlantic.com/culture/archive/2025/04/adolescence-netflix-manosphere-episode-3/682482/?gift=f35zZN0v_gDFE8xNwlQAHURPSH1l65uCXbAdSgE2d_8&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Quoting James Betker
+
+date: 2025-04-16, updated: 2025-04-16, from: Simon Willison’s Weblog
+
+<blockquote cite="https://news.ycombinator.com/item?id=43707719#43711155"><p>I work for OpenAI. [...] o4-mini is actually a <em>considerably</em> better vision model than o3, despite the benchmarks. Similar to how o3-mini-high was a much better coding model than o1. I would recommend using o4-mini-high over o3 for any task involving vision.</p></blockquote>
+<p class="cite">&mdash; <a href="https://news.ycombinator.com/item?id=43707719#43711155">James Betker</a>, OpenAI</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/16/james-betker/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-16, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmxn6oj64c2e>
 
 ---
 
@@ -124,12 +331,53 @@ llm -m openai/o4-mini "say hi in five languages"
 <p><img alt="Described by o3: The illustration shows a playful, stylized bicycle whose frame is drawn to resemble a duck. • The duck’s rounded body forms the bicycle’s seat area, and a small wing is sketched on its side.  • Its long neck stretches forward to become the top tube, ending in a simple head with a black eye and an orange, open beak that points ahead like handlebars.  • Two large black‑outlined wheels with thin, evenly spaced spokes complete the bike, while thin blue lines depict the rest of the frame, pedals, and chain.  • A dashed grey ground line runs beneath the wheels, giving the impression the duck‑bike is rolling along." src="https://static.simonwillison.net/static/2025/o3-pelican.jpg" /></p>
 <p><strong>o4-mini</strong>:</p>
 <p><img alt="Described by o4-mini: The image is a very simple, minimalistic line drawing of a bird riding a bicycle, rendered against a plain white background.  Key elements:   • Two large, identical circles for the bike’s wheels, outlined in thick black.   • A horizontal bar links the rear wheel to the bird’s body; a slanted bar links the front wheel to the bird.   • The front wheel has a single straight spoke ending in an arrowhead, suggesting the forward direction of travel.   • The bird itself is drawn with basic shapes:     – A small circle for the head, with a single dot for the eye and a short yellow triangle for the beak.     – An oval for the body.     – Thin lines for the neck, legs, and the bike’s pedals and handlebars.   • The bird appears perched on the saddle, its legs extending down to the pedals, and its tiny wings resting near the handlebars." src="https://static.simonwillison.net/static/2025/o4-mini-pelican.jpg" /></p>
-<p>Here are the model cards: <a href="https://platform.openai.com/docs/models/o3">o3</a> is $10/million input and $40/million for output, with a 75% discount on cached input tokens, 200,000 token context window, 100,000 max output tokens and a May 31st 2024 training cut-off (same as the GPT-4.1 models).</p>
+<p>Here are the full OpenAI model listings: <a href="https://platform.openai.com/docs/models/o3">o3</a> is $10/million input and $40/million for output, with a 75% discount on cached input tokens, 200,000 token context window, 100,000 max output tokens and a May 31st 2024 training cut-off (same as the GPT-4.1 models). It's a bit cheaper than o1 ($15/$60) and a <em>lot</em> cheaper than o1-pro ($150/$600).</p>
 <p><a href="https://platform.openai.com/docs/models/o4-mini">o4-mini</a> is priced the same as o3-mini: $1.10/million for input and $4.40/million for output,  also with a 75% input caching discount. The size limits and training cut-off are the same as o3.</p>
-<p>You can compare these prices with other models using the table on my <a href="https://tools.simonwillison.net/llm-prices">updated LLM pricing calculator</a>.
+<p>You can compare these prices with other models using the table on my <a href="https://tools.simonwillison.net/llm-prices">updated LLM pricing calculator</a>.</p>
+<p>A new capability released today is that the OpenAI API can now optionally return reasoning summary text. I've been exploring that <a href="https://github.com/simonw/llm-openai-plugin/issues/16">in this issue</a>. I believe you have to verify your organization (which may involve a photo ID) in order to use this option - once you have access the easiest way to see the new tokens is using <code>curl</code> like this:</p>
+<pre><code>curl https://api.openai.com/v1/responses \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $(llm keys get openai)" \
+  -d '{
+    "model": "o3",
+    "input": "why is the sky blue?",
+    "reasoning": {"summary": "auto"},
+    "stream": true
+  }'
+</code></pre>
+<p>This produces a stream of events that includes this new event type:</p>
+<p><code>event: response.reasoning_summary_text.delta</code><br>
+<code>data: {"type": "response.reasoning_summary_text.delta","item_id": "rs_68004320496081918e1e75ddb550d56e0e9a94ce520f0206","output_index": 0,"summary_index": 0,"delta": "**Expl"}</code></p>
+<p>Omit the <code>"stream": true</code> and the response is easier to read and contains this:</p>
+<pre>{
+  <span class="pl-ent">"output"</span>: [
+    {
+      <span class="pl-ent">"id"</span>: <span class="pl-s"><span class="pl-pds">"</span>rs_68004edd2150819183789a867a9de671069bc0c439268c95<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>reasoning<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"summary"</span>: [
+        {
+          <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>summary_text<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>**Explaining the blue sky**<span class="pl-cce">\n\n</span>The user asks a classic question about why the sky is blue. I'll talk about Rayleigh scattering, where shorter wavelengths of light scatter more than longer ones. This explains how we see blue light spread across the sky! I wonder if the user wants a more scientific or simpler everyday explanation. I'll aim for a straightforward response while keeping it engaging and informative. So, let's break it down!<span class="pl-pds">"</span></span>
+        }
+      ]
+    },
+    {
+      <span class="pl-ent">"id"</span>: <span class="pl-s"><span class="pl-pds">"</span>msg_68004edf9f5c819188a71a2c40fb9265069bc0c439268c95<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>message<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"status"</span>: <span class="pl-s"><span class="pl-pds">"</span>completed<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"content"</span>: [
+        {
+          <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>output_text<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"annotations"</span>: [],
+          <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>The short answer ...<span class="pl-pds">"</span></span>
+        }
+      ]
+    }
+  ]
+}</pre>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/inference-scaling">inference-scaling</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a></p> 
 
 <br> 
 
@@ -142,10 +390,24 @@ llm -m openai/o4-mini "say hi in five languages"
 date: 2025-04-16, updated: 2025-04-16, from: Simon Willison’s Weblog
 
 <p><strong><a href="https://github.com/openai/codex">openai/codex</a></strong></p>
-Just released by OpenAI, a "lightweight coding agent that runs in your terminal". Looks like their version of <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a>, though unlike Claude Code Codex is released under an open source (Apache 2) license.
+Just released by OpenAI, a "lightweight coding agent that runs in your terminal". Looks like their version of <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a>, though unlike Claude Code Codex is released under an open source (Apache 2) license.</p>
+<p>Here's <a href="https://github.com/openai/codex/blob/9b733fc48fb81b3f3460c1fdda111ba9b861f81f/codex-cli/src/utils/agent/agent-loop.ts#L1001-L1046">the main prompt</a> that runs in a loop, which starts like this:</p>
+<blockquote>
+<p><code>You are operating as and within the Codex CLI, a terminal-based agentic coding assistant built by OpenAI. It wraps OpenAI models to enable natural language interaction with a local codebase. You are expected to be precise, safe, and helpful.</code></p>
+<p><code>You can:</code><br>
+<code>- Receive user prompts, project context, and files.</code><br>
+<code>- Stream responses and emit function calls (e.g., shell commands, code edits).</code><br>
+<code>- Apply patches, run commands, and manage user approvals based on policy.</code><br>
+<code>- Work inside a sandboxed, git-backed workspace with rollback support.</code><br>
+<code>- Log telemetry so sessions can be replayed or inspected later.</code><br>
+<code>- More details on your functionality are available at codex --help</code><br></p>
+<p><code>The Codex CLI is open-sourced. Don't confuse yourself with the old Codex language model built by OpenAI many moons ago (this is understandably top of mind for you!). Within this context, Codex refers to the open-source agentic coding interface. [...]</code></p>
+</blockquote>
+<p>I like that the prompt describes OpenAI's previous Codex language model as being from "many moons ago". Prompt engineering is so weird.</p>
+<p>Since the prompt says that it works "inside a sandboxed, git-backed workspace" I went looking for the sandbox. On macOS <a href="https://github.com/openai/codex/blob/9b733fc48fb81b3f3460c1fdda111ba9b861f81f/codex-cli/src/utils/agent/sandbox/macos-seatbelt.ts">it uses</a> the little-known <code>sandbox-exec</code> process, part of the OS but grossly under-documented. The best information I've found about it is <a href="https://www.karltarvas.com/macos-app-sandboxing-via-sandbox-exec.html">this article from 2020</a>, which notes that <code>man sandbox-exec</code> lists it as deprecated. I didn't spot evidence in the Codex code of sandboxes for other platforms.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/macos">macos</a></p> 
 
 <br> 
 
@@ -440,6 +702,18 @@ $109K for a church in Ohio. Wish I had a use for one of these.
 <br> 
 
 <https://www.zillow.com/homedetails/1515-W-County-Road-592-Tiffin-OH-44883/449849167_zpid/>
+
+---
+
+## Our New Resources Page for Web Archivists
+
+date: 2025-04-16, from: Web Recorder
+
+A growing hub for learning, exploring, and diving deeper into web archiving. 
+
+<br> 
+
+<https://webrecorder.net/blog/2025-04-16-our-new-resources-page-for-web-archivists/>
 
 ---
 

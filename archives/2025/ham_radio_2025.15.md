@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-04-16 14:07:44
+updated: 2025-04-17 06:07:37
 ---
 
 # ham radio
 
-(date: 2025-04-16 14:07:44)
+(date: 2025-04-17 06:07:37)
+
+---
+
+## Addressing hardware failures and silent data corruption in AI chips
+
+date: 2025-04-17, from: EDN Blog
+
+<img width="1200" height="723" src="https://www.edn.com/wp-content/uploads/slm-synopsys.jpg?fit=1200%2C723" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/slm-synopsys.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/slm-synopsys.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/slm-synopsys.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/slm-synopsys.jpg?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>Hardware failures can lead to silent data corruption (SDC), causing unwanted data loss or inaccuracies.</p>
+<p>The post <a href="https://www.edn.com/addressing-hardware-failures-and-silent-data-corruption-in-ai-chips/">Addressing hardware failures and silent data corruption in AI chips</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/addressing-hardware-failures-and-silent-data-corruption-in-ai-chips/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-04-16 14:07:44
 
 date: 2025-04-16, from: EDN Blog
 
-<img width="581" height="371" src="https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?fit=581%2C371" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?w=581 581w, https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?w=300 300w" sizes="(max-width: 581px) 100vw, 581px" /><p>A tachometer uses a simple detector with a threshold detector to accomplish optical sensing using available ambient light.</p>
+<img width="581" height="371" src="https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?fit=581%2C371" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?w=581 581w, https://www.edn.com/wp-content/uploads/PhotoTach_Figure1.png?w=300 300w" sizes="auto, (max-width: 581px) 100vw, 581px" /><p>A tachometer uses a simple detector with a threshold detector to accomplish optical sensing using available ambient light.</p>
 <p>The post <a href="https://www.edn.com/photo-tachometer-sensor-accommodates-ambient-light/">Photo tachometer sensor accommodates ambient light</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-04-16 14:07:45
+updated: 2025-04-17 06:07:37
 ---
 
 # science and technology
 
-(date: 2025-04-16 14:07:45)
+(date: 2025-04-17 06:07:37)
+
+---
+
+## TSMC prepping for tariff turmoil, denies joint venture talks with Intel
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Chip contract manufacturer not immune to &#39;uncertainties and risks&#39; caused by Trump&#39;s import taxes</h4> <p>TSMC&#39;s top brass insist it is not entertaining a joint venture with beleaguered chip biz Intel, though it is steeling itself for potential effects from the Trump administration&#39;s ever-changing tariff schemes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/tsmc_tariffs_intel/>
+
+---
+
+## Datacenters selling power back to the grid? Don’t bet on it, say operators
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Bit barns in Dublin doubled as battery farms, the rest of the world isn’t buying it</h4> <p><strong>Analysis</strong>  The idea of datacenters feeding power back into the electricity grid during peak demand may sound promising, but operators say it&#39;s unlikely to catch on beyond a few trials in Ireland because of the cost and technical complexity involved.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/datacenters_feed_energy_back_unrealistic/>
+
+---
+
+## Brit soldiers tune radio waves to fry drone swarms for pennies
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Truck-mounted demonstration weapon costs 10p a pop, says MOD</h4> <p>British soldiers have successfully taken down drones with a radio-wave weapon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/british_army_drone_weapon/>
+
+---
+
+## Bank of England flirts with offline digital dosh
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>No signal? No problem. But also no solid commitment to Britcoin yet</h4> <p>The Bank of England has shown offline digital payment systems can work but plans to study policy choices before giving them the green light.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/boe_cbdc_offline_payments/>
+
+---
+
+## Competition boffin launches class action against Google UK over search dominance
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Alleges £5B in harm caused by Android deals, anticompetitive actions</h4> <p>A British academic has launched a class-action suit against Google, alleging abuse of its market dominance in online search caused £5 billion ($6.6 billion) of damage to advertisers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/google_faces_uk_class_action/>
+
+---
+
+## Daddy of a mistake by GoDaddy took Zoom offline for about 90 minutes
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Manager of the .us namespace managed to block zoom.us</h4> <p>A bad mistake by GoDaddy took Zoom offline for almost two hours on Wednesday afternoon, US time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/zoom_outage_godaddy_blamed/>
+
+---
+
+## Heat can make Li-Ion batteries explode. Or restore their capacity, say Chinese boffins
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Future chargers could re-arrange battery chemistry to make them live longer</h4> <p>Researchers at China’s Ningbo Institute of Materials Technology and Engineering have found a way to restore the energy density of old Lithium-Ion batteries by heating them to over 150°C.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/heat_repairs_li_ion_batteries/>
+
+---
+
+## Whistleblower describes DOGE IT dept rampage at America's labor watchdog
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Ignored infosec rules, exfiltrated data … then the mysterious login attempts from a Russian IP address began – claim</h4> <p>Democratic lawmakers are calling for an investigation after a tech staffer at the US National Labor Relations Board (NLRB) blew the whistle on the cost-trimming DOGE&#39;s activities at the employment watchdog – which the staffer claims included being granted superuser status in contravention of standard operating procedures, exfiltrating data, and seemingly leaking credentials to someone with a Russian IP address.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/whistleblower_nlrb_doge/>
+
+---
+
+## Tesla fudged odometer to screw me out of warranty, Model Y owner claims
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Give Elon an inch and he&#39;ll take thousands of miles ... allegedly</h4> <p>Tesla has been accused of somehow sneakily altering a customer&#39;s odometer to hasten the end of his vehicle&#39;s warranty period.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/tesla_faked_odometer_data/>
+
+---
+
+## California sues President Tariff
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Ah yes, the courts, that&#39;ll totally work</h4> <p><strong>World War Fee</strong>  President Trump&#39;s reign of tariffs has been challenged on the left and right by the State of California and the Liberty Justice Center.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/california_trump_tariffs/>
+
+---
+
+## Microsoft: Why not let our Copilot fly your computer?
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Redmond talks up preview of AI agents navigating apps through the UI</h4> <p>Microsoft will soon let Copilot agents drive computers through the GUI just like humans – by clicking buttons, selecting menus, and even completing forms on screen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/microsoft_copilot_computer_use/>
+
+---
+
+## White House confirms 245% tariff on some Chinese imports not a typo
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Just make it 420.69 and be done with it, Mr President</h4> <p><strong>World War Fee</strong>  No, it wasn&#39;t a typo. Some Chinese imports are indeed subject to a 245 percent tariff in the United States.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/white_house_china_tariff/>
+
+---
+
+## Testing in the Clouds: NASA Flies to Improve Satellite Data
+
+date: 2025-04-16, from: NASA breaking news
+
+In February, NASA’s ER-2 science aircraft flew instruments designed to improve satellite data products and Earth science observations. From data collection to processing, satellite systems continue to advance, and NASA is exploring how instruments analyzing clouds can improve data measurement methods. Researchers participating in the Goddard Space Flight Center Lidar Observation and Validation Experiment (GLOVE) [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/testing-in-the-clouds-nasa-flies-to-improve-satellite-data/>
+
+---
+
+## NASA’s SpaceX 32nd Commercial Resupply Mission Overview
+
+date: 2025-04-16, from: NASA breaking news
+
+NASA and SpaceX are targeting no earlier than 4:15 a.m. EDT on Monday, April 21, for the next launch to deliver scientific investigations, supplies, and equipment to the International Space Station. Filled with about 6,700 pounds of supplies, the SpaceX Dragon spacecraft, on the company’s Falcon 9 rocket, will lift off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-32nd-commercial-resupply-mission-overview/>
+
+---
+
+## Free Blue Screens of Death for Windows 11 24H2 users
+
+date: 2025-04-16, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Microsoft rewards those who patch early with bricks hurled through its operating system</h4> <p>Keeping with its rich history of updates that break Windows in unexpected ways, Microsoft has warned that two recent patches for Windows 11 24H2 are triggering blue screen crashes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/microsofts_latest_windows_updates/>
+
+---
+
+## Scrub Jay at the Vehicle Assembly Building
+
+date: 2025-04-16, from: NASA breaking news
+
+A scrub jay perches on a branch near the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on June 22, 2020. Kennedy shares space with the Merritt Island National Wildlife Refuge, which is home to more than 65 amphibian and reptile, 25 mammal, 117 fish, and 330 bird species. At the time this [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/scrub-jay-at-the-vehicle-assembly-building/>
+
+---
+
+## Signalgate chats vanish from CIA chief phone
+
+date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+
+<h4>Extraordinary rendition of data, or just dropped it out of a helicopter?</h4> <p>CIA Director John Ratcliffe&#39;s smartphone has almost no trace left of the infamous Signalgate chat – the one in which he and other top US national security officials discussed a secret upcoming military operation in a group Signal conversation a journalist was inadvertently added to.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/16/cia_signalgate_chat/>
 
 ---
 
@@ -13,7 +217,7 @@ updated: 2025-04-16 14:07:45
 
 date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
-<h4>Bug or migration strategy for New Outlook, we wonder</h4> <p>Far be from us to suggest Microsoft is trying to force people onto its New Outlook application, but it has admitted Classic Outlook occasionally and mysteriously turns into a system resource hog. It&#39;s a SNAFU that may just push folks over the edge to the new app – or to a full alternative.…</p> 
+<h4>Bug or migration strategy for New Outlook, we wonder</h4> <p>Far be it from us to suggest Microsoft is trying to force people onto its New Outlook application, but it has admitted Classic Outlook occasionally and mysteriously turns into a system resource hog.…</p> 
 
 <br> 
 
@@ -95,7 +299,7 @@ NASA invites the public to participate in virtual activities ahead of the launch
 
 ## 20 years on, DART still a masterclass in how not to rendezvous in orbit
 
-date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+date: 2025-04-16, updated: 2025-04-17, from: The Register (UK I.T. News)
 
 <h4>Two decades have passed since NASA made two spacecraft collide</h4> <p>It is twenty years since NASA&#39;s DART mission collided with a satellite after depleting its fuel during a rendezvous attempt.…</p> 
 
@@ -131,7 +335,7 @@ Every soft caress of wind, searing burn and seismic rumble is detected by our sk
 
 ## AWS claims 50% of Azure workloads would jump ship if licensing costs allowed
 
-date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+date: 2025-04-16, updated: 2025-04-17, from: The Register (UK I.T. News)
 
 <h4>Bezos&#39; biz and Google tell regulator higher cost of running Windows Server in their clouds isn&#39;t fair</h4> <p>AWS estimates that half of the workloads Microsoft enterprise customers run on Azure would migrate to its own datacenters if only the licensing costs of doing so were not prohibitively high and a competitive deterrent.…</p> 
 
@@ -239,7 +443,7 @@ date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 ## TalkTalk Business pulls disappearing act on customer emails
 
-date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+date: 2025-04-16, updated: 2025-04-17, from: The Register (UK I.T. News)
 
 <h4>It&#39;s not DNS. It can&#39;t be DNS? Right?</h4> <p>TalkTalk Business customers were forced to survive without email nearly a week after a technical fault disrupted domain hosting.…</p> 
 
@@ -333,7 +537,7 @@ date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 ---
 
-## Uncle Sam kills funding for CVE program. Yes, that CVE
+## Uncle Sam kills funding for CVE program. Yes, that CVE program
 
 date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 

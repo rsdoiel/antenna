@@ -1,11 +1,139 @@
 ---
 title: food
-updated: 2025-04-16 14:07:49
+updated: 2025-04-17 06:07:44
 ---
 
 # food
 
-(date: 2025-04-16 14:07:49)
+(date: 2025-04-17 06:07:44)
+
+---
+
+## Marcus Samuelsson Comes Home
+
+date: 2025-04-17, from: Bon Appetet
+
+At Marcus Addis, atop Ethiopia’s tallest building, one of the world’s most successful chefs is securing his legacy by preparing the next generation of talent. 
+
+<br> 
+
+<https://www.bonappetit.com/story/marcus-samuelsson-comes-home-ethiopia-restaurant-legacy>
+
+---
+
+## In Wichita, Adelitas Coffee Co. is Revolutionizing the Coffee Scene
+
+date: 2025-04-17, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Adelitas Coffee Co Wichita downtown cafe-1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1.jpg 1233w" sizes="(max-width: 620px) 100vw, 620px" /></div>Succeeding in specialty coffee requires a fighting spirit, with battles big and small to be fought on a daily basis. For seasoned roaster and father of five girls Oscar Pineda... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/17/in-wichita-adelitas-coffee-co-is-revolutionizing-the-coffee-scene/>
+
+---
+
+## World’s Cutest Coffee Cooling Robot Nékojita FuFu Is Now On Kickstarter
+
+date: 2025-04-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. There's no wrong way to FuFu. 
+
+<br> 
+
+<https://sprudge.com/worlds-cutest-coffee-cooling-robot-nekojita-fufu-is-now-on-kickstarter-319243.html>
+
+---
+
+## The Best Ice Cream Makers for Quick and Delicious Frozen Treats (2025)
+
+date: 2025-04-17, from: Bon Appetet
+
+It's a tough job, but someone had to do it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-ice-cream-maker>
+
+---
+
+## Loewe's Meme-Inspired Tomato Clutch Is Finally Here
+
+date: 2025-04-17, from: Bon Appetet
+
+Part of the luxury Spanish fashion house's spring collection, the purse is shaped like an heirloom tomato and speaks to the collective power of a good internet moment—and a gorgeous piece of produce. 
+
+<br> 
+
+<https://www.bonappetit.com/story/loewe-tomato-bag>
+
+---
+
+## I Made Flowerpot Bread, and It’s the Perfect Spring Bake
+
+date: 2025-04-17, from: Taste of Home
+
+<p>Spring demands to be celebrated as soon as it starts, and this year, I celebrated with flowerpot bread. It's a classic recipe in a fun new package.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/flowerpot-bread/">I Made Flowerpot Bread, and It&#8217;s the Perfect Spring Bake</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/flowerpot-bread/>
+
+---
+
+## Zendaya’s Go-To Fast-Food Order Is a Secret Menu Hack—Here’s How to Get It
+
+date: 2025-04-16, from: Taste of Home
+
+<p>She's got this hack down to a science!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/zendayas-fast-food-in-n-out/">Zendaya&#8217;s Go-To Fast-Food Order Is a Secret Menu Hack—Here&#8217;s How to Get It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/zendayas-fast-food-in-n-out/>
+
+---
+
+## Panera’s New ‘Croissant Toast’ Is the Bakery Mashup You Didn’t Know You Needed
+
+date: 2025-04-16, from: Taste of Home
+
+<p>It's flaky, buttery and the first bread of its kind.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/panera-croissant-toast/">Panera’s New &#8216;Croissant Toast&#8217; Is the Bakery Mashup You Didn’t Know You Needed</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/panera-croissant-toast/>
+
+---
+
+## How a Master Italian Chef Makes Ragù
+
+date: 2025-04-16, from: Bon Appetet
+
+These seven tips will send your next pasta to new heights. 
+
+<br> 
+
+<https://www.bonappetit.com/story/made-to-order-ragu>
+
+---
+
+## How to Make a No-Bake Easter Dirt Cake That Kids Will Love
+
+date: 2025-04-16, from: Taste of Home
+
+<p>Let's give dirt cake a makeover for spring.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/easter-dirt-cake/">How to Make a No-Bake Easter Dirt Cake That Kids Will Love</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/easter-dirt-cake/>
 
 ---
 
@@ -103,7 +231,7 @@ date: 2025-04-16, from: Taste of Home
 
 date: 2025-04-16, from: Daily Coffee News
 
-<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Bonavita Voyager espresso" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Consumer coffee equipment brand Bonavita is entering a new chapter as it launches its first espresso-focused product, a portable all-in-one hot or cold espresso machine and grinder combo called the... 
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Bonavita Voyager espresso" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Consumer coffee equipment brand Bonavita is entering a new chapter as it launches its first espresso-focused product, a portable all-in-one hot or cold espresso machine and grinder combo called the... 
 
 <br> 
 
@@ -132,18 +260,6 @@ date: 2025-04-16, from: Daily Coffee News
 <br> 
 
 <https://dailycoffeenews.com/2025/04/16/european-commission-softens-eudr-reporting-requirements/>
-
----
-
-## Marcus Samuelsson Comes Home
-
-date: 2025-04-16, from: Bon Appetet
-
-At Marcus Addis, atop Ethiopia’s tallest building, one of the world’s most successful chefs is securing his legacy by preparing the next generation of talent. 
-
-<br> 
-
-<https://www.bonappetit.com/story/marcus-samuelsson-comes-home-ethiopia-restaurant-legacy>
 
 ---
 
@@ -273,7 +389,7 @@ date: 2025-04-16, from: Chili Pepper Madness
 
 date: 2025-04-16, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Slayer Espresso machine" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Chinese court has ordered four companies to cease production and marketing of espresso machines with designs and packaging that resemble the Slayer Espresso brand.&#160; According to Cimbali Group, the... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Slayer Espresso machine" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Slayer-Espresso-machine.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A Chinese court has ordered four companies to cease production and marketing of espresso machines with designs and packaging that resemble the Slayer Espresso brand.&#160; According to Cimbali Group, the... 
 
 <br> 
 

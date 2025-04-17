@@ -1,11 +1,87 @@
 ---
 title: going electric
-updated: 2025-04-16 14:07:49
+updated: 2025-04-17 06:07:43
 ---
 
 # going electric
 
-(date: 2025-04-16 14:07:49)
+(date: 2025-04-17 06:07:43)
+
+---
+
+## Archer unveils eVTOL air taxi network with United to connect passengers to all major NYC airports
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/AIR-TAXI-NYC-Archer.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Imagine landing at JFK or LaGuardia after a fun but taxing vacation, and instead of hailing a two-hour cab ride or asking your brother-in-law to come and get you, you take to the skies in an eVTOL. You’re back on the ground in 15 minutes for a short trip back home to bed. What a time to be alive. eVTOL developer <a href="https://electrek.co/guides/archer-aviation/">Archer Aviation</a> is making this dream a reality alongside its business partner, United Airlines, offering travelers to NYC a new map of air taxi routes to travel to and from NYC airports.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,archer-aviation,evtol,united-airlines" data-layer-viewtype="unknown" data-post-id="411541" href="https://electrek.co/2025/04/17/archer-unveils-evtol-air-taxi-network-united-connect-all-major-nyc-airports/#more-411541" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/archer-unveils-evtol-air-taxi-network-united-connect-all-major-nyc-airports/>
+
+---
+
+## Old BMW i3 Gets Double The Range With This New Chinese Battery
+
+date: 2025-04-17, from: Inside EVs News
+
+New, more energy-dense cells from CATL are the secret sauce. 
+
+<br> 
+
+<https://insideevs.com/news/756933/bmw-i3-catl-battery-pack-upgrade/>
+
+---
+
+## ENSO launches Premium tire range designed for Tesla and other high-performance EVs
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ENSO-Tire-EV-logo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV tire specialist ENSO has launched a new premium range of <a href="https://electrek.co/guides/ev-tires/">ultra-high performance (UHP) tires</a> designed for passenger electric vehicles. Soon, US drivers of EVs from Tesla and other high-performance models will be able to purchase this new tire range as ENSO significantly expands its product lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="enso,ev-tires" data-layer-viewtype="unknown" data-post-id="411551" href="https://electrek.co/2025/04/17/enso-launches-premium-tire-range-tesla-high-performance-evs/#more-411551" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/enso-launches-premium-tire-range-tesla-high-performance-evs/>
+
+---
+
+## New off-road concept that ditches screens proves it: Genesis GETS luxury
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/genesis-gran-equator.png?w=1600" /></div><p>Luxury is a tough concept to pin down, but being constantly connected to work, kids, and telemarketers ain’t it. Genesis gets it, and its latest ultra-luxe off-road concept ditches screens in favor of the view out the windshield – and it’s got enough off-road chops to promise two things about those views: they’re <em>real</em>, and they’re <em>spectacular</em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="concept-car,genesis" data-layer-viewtype="unknown" data-post-id="411684" href="https://electrek.co/2025/04/16/new-off-road-concept-that-ditches-screens-proves-it-genesis-gets-luxury/#more-411684" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/new-off-road-concept-that-ditches-screens-proves-it-genesis-gets-luxury/>
+
+---
+
+## New electric Honda SUV with 469 hp and 403 mile range (in China)
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Honda-P7_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The new-for-2025 Honda P7 electric SUV officially went on sale earlier today with 469 hp and more than 650 km (403 miles) of range from its 89.8-kWh nickel manganese cobalt (NMC) battery … and you won’t believe the price!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,gac-motor,honda" data-layer-viewtype="unknown" data-post-id="411650" href="https://electrek.co/2025/04/16/new-electric-honda-suv-with-400-mile-range-and-469-hp-arrives-in-china/#more-411650" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/16/new-electric-honda-suv-with-400-mile-range-and-469-hp-arrives-in-china/>
 
 ---
 
@@ -37,7 +113,7 @@ date: 2025-04-16, from: Inside EVs News
 
 ---
 
-## Lexus Is Launching A New, Fancier ES. Is It Electric?
+## New Lexus ES: Is It Going All-Electric Next?
 
 date: 2025-04-16, from: Inside EVs News
 
@@ -181,7 +257,7 @@ It will be built in South Korea, which is an interesting choice given all the re
 
 date: 2025-04-16, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Lotus-Geely-Sell.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Bear with me, as this one is a bit complicated and jargon-heavy. Lotus Technology Inc. announced that <a href="https://electrek.co/guides/geely/">Geely</a>, the majority owner of its vehicle manufacturing business Lotus UK, exercised its put option earlier this week to sell its 51% stake in the latter company back to the former company. In Lamen’s terms, Geely is out, so Lotus Tech has to buy the 51% of Lotus UK back, putting all those respective businesses back under one umbrella. Still with me? More below.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Lotus-Geely-Sell.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Bear with me, as this one is a bit complicated and jargon-heavy. Lotus Technology Inc. announced that <a href="https://electrek.co/guides/geely/">Geely</a>, the majority owner of its vehicle manufacturing business Lotus UK, exercised its put option earlier this week to sell its 51% stake in the latter company back to the former company. In layperson’s terms, Geely is out, so Lotus Tech has to buy the 51% of Lotus UK back, putting all those respective businesses back under one umbrella. Still with me? More below.</p>
 
 
 

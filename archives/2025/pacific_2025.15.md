@@ -1,11 +1,382 @@
 ---
 title: pacific
-updated: 2025-04-16 14:07:44
+updated: 2025-04-17 06:07:36
 ---
 
 # pacific
 
-(date: 2025-04-16 14:07:44)
+(date: 2025-04-17 06:07:36)
+
+---
+
+## Judge threatens contempt proceedings over deportation flights to El Salvador
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge in Washington threatened Wednesday to open a high-stakes contempt investigation into whether the Trump administration had violated an order he issued last month directing officials to stop planes of Venezuelan migrants from being sent to El Salvador.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/judge-threatens-contempt-proceedings-over-deportation-flights-to-el-salvador/>
+
+---
+
+## Weather service prepares for ‘degraded operations’ amid Trump cuts
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service is preparing for the probability that fewer forecast updates will be fine-tuned by specialists, among other cutbacks, because of &#8220;severe shortages&#8221; of meteorologists and other employees, according to an internal agency document.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/weather-service-prepares-for-degraded-operations-amid-trump-cuts/>
+
+---
+
+## Hawaii economists offer bleak take on Trump tariffs
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s economy is in store for reduced growth due to indirect impacts on tourism from President Donald Trump&#8217;s global tariffs, according to two local economists.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/hawaii-news/hawaii-economists-offer-bleak-take-on-trump-tariffs/>
+
+---
+
+## Trump hails ‘big progress’ after jumping into Japan tariff talks
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; President Donald Trump said there was &#8220;big progress&#8221; when he made the surprise move on Wednesday to negotiate directly with a Japanese trade delegation in Washington about the barrage of tariffs he has imposed on global imports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/trump-hails-big-progress-after-jumping-into-japan-tariff-talks/>
+
+---
+
+## Senate bill would allow campaign to be used for taking care of dependents
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Political candidates would be allowed to use campaign funds to take care of their dependents, such as child care expenses, in what several supporters hope will attract more diverse, family-&#0173;oriented candidates to run for political office.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/hawaii-news/senate-bill-would-allow-campaign-to-be-used-for-taking-care-of-dependents/>
+
+---
+
+## Scientists find strongest evidence yet of life on an alien planet
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In a potential landmark discovery, scientists using the James Webb Space Telescope have obtained what they call the strongest signs yet of possible life beyond our solar system, detecting in an alien planet&#8217;s atmosphere the chemical fingerprints of gases that on Earth are produced only by biological processes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/scientists-find-strongest-evidence-yet-of-life-on-an-alien-planet/>
+
+---
+
+## 2 protesters at Marjorie Taylor Greene town hall are subdued with stun guns
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>ACWORTH, Ga. &#8212; A town hall for Rep. Marjorie Taylor Greene of Georgia outside Atlanta on Tuesday quickly deteriorated into chaos, as police officers forcibly removed several protesters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/2-protesters-at-marjorie-taylor-greene-town-hall-are-subdued-with-stun-guns/>
+
+---
+
+## Pentagon leak probe expands as two more officials put on leave
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A Pentagon investigation into leaks of classified and sensitive information has expanded to include two more aides to Defense Secretary Pete Hegseth and his deputy, officials said on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/pentagon-leak-probe-expands-as-two-more-officials-put-on-leave/>
+
+---
+
+## Trump administration directs judges to deny asylum without hearings
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A new Trump administration policy urges immigration judges to swiftly deny asylum to migrants whose applications they deem unlikely to succeed. The expedited dismissals would circumvent the normal hearing process, which typically takes years to wind through the backlogged courts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/trump-administration-directs-judges-to-deny-asylum-without-hearings/>
+
+---
+
+## Stocks fall as Powell sees tariff challenges and tech pulls back
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Stocks slumped Wednesday as investors faced new evidence of how the global trade war will hurt some of the world&#8217;s biggest technology companies, and heard from the Federal Reserve about the challenge it faces if prices rise while growth slows.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/stocks-fall-as-powell-sees-tariff-challenges-and-tech-pulls-back/>
+
+---
+
+## News in brief for April 17
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Trump aides close State Dept. &#0010;office on foreign disinformation</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/news-in-brief-for-april-17/>
+
+---
+
+## HPD, UH Hilo partner for new internship program
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department kicked off its Kalounui internship program in March with an event at the University of Hawaii at Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/community/hpd-uh-hilo-partner-for-new-internship-program/>
+
+---
+
+## Big Island reservess to temporarily close for animal control activities
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Animal control activities will be conducted next week for feral goats, feral sheep and mouflon/feral sheep hybrids within palila critical habitat in the Mauna Kea Forest Reserve (Unit A), Mauna Kea Ice Age Natural Area Reserve (Unit K), Palila Mitigation Lands, and the Ka&#8216;ohe Game Management Area (Unit G) on Hawaii Island, according to the state Department of Land and Natural Resources.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/community/big-island-reservess-to-temporarily-close-for-animal-control-activities/>
+
+---
+
+## Akaka Falls Lions Club to host wine-tasting event
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Spend a lively afternoon with the Akaka Falls Lions Club as they present &#8220;A Sip of Elegance,&#8221; a wine-tasting from 2 p.m. to 5 p.m. on Saturday, May 31, at the Hilo Hawaiian Hotel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/community/akaka-falls-lions-club-to-host-wine-tasting-event/>
+
+---
+
+## DOH hosts health fair in Hilo
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Department of Health celebrated 30 years of National Public Health Week last Friday with a festive community event at the State Office Building in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/community/doh-hosts-health-fair-in-hilo/>
+
+---
+
+## Israel will keep Gaza buffer zone, minister says, as truce bid stalls
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/CAIRO &#8212; Israeli troops will remain in the buffer zones they have created in Gaza even after any settlement to end the war, Defence Minister Israel Katz said on Wednesday, as efforts to revive a ceasefire agreement faltered.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/israel-will-keep-gaza-buffer-zone-minister-says-as-truce-bid-stalls/>
+
+---
+
+## Cars set on fire at French prison in second wave of attacks
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; French jails were hit by a new wave of attacks overnight, including several cars set alight at Tarascon prison in southern France, the National Anti-Terrorism Prosecutor&#8217;s Office said on Wednesday, as authorities sought to identify those responsible.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/cars-set-on-fire-at-french-prison-in-second-wave-of-attacks/>
+
+---
+
+## US health chief Kennedy targets ‘environmental toxins’ as cause of autism
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Environmental contributors to autism are behind its rising prevalence, U.S. Health Secretary Robert F. Kennedy Jr. said on Wednesday without scientific evidence, adding he plans to look at everything from mold to medicine to identify them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/us-health-chief-kennedy-targets-environmental-toxins-as-cause-of-autism/>
+
+---
+
+## ‘Massive blackout’ leaves all of Puerto Rico without power
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; More than 1.4 million customers in Puerto Rico lost electricity Wednesday when all of the island&#8217;s power plants were knocked out of service, the latest frustrating blackout for residents who have suffered years of them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/massive-blackout-leaves-all-of-puerto-rico-without-power/>
+
+---
+
+## Tony honored by fishing tourney
+
+date: 2025-04-17, from: Marshal Islands Journal
+
+<p>Iroojlaplap Michael Kabua was up bright an early Saturday morning to welcome anglers to the Marshalls Billfish Club and make comments about his long-time colleague and friend Tony deBrum, who was honored by the day’s special sailfish tournament. According to a fishing results release, Billfish Club co-founder Wally Milne had suggested the club start a [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/tony-honored-by-fishing-tourney/">Tony honored by fishing tourney</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/tony-honored-by-fishing-tourney/>
+
+---
+
+## Tax incentives proposed to expand health care accessibility to Guam's Medicaid patients
+
+date: 2025-04-17, from: Pacific Island Times
+
+Medicaid patients account for nearly 20 percent of Guam’s population, a majority of whom fall in the low-income bracket. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tax-incentives-proposed-to-expand-health-care-accessibility-to-guam-s-medicaid-patients>
+
+---
+
+## 'Nothing Micro About Micronesia' coming to the University of Guam 
+
+date: 2025-04-17, from: Pacific Island Times
+
+“Nothing Micro About Micronesia” is a stage play that tells a coming-of-age story about three Micronesian youth who meet in an unlikely place. Through magic, they are transported to island adventures in Micronesia.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/nothing-micro-about-micronesia-coming-to-the-university-of-guam>
+
+---
+
+## Bones, bullets found on Ebeye
+
+date: 2025-04-17, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Human remains and munitions were discovered during excavation of the former La Bojie restaurant in Ebeye last week. Workers found what seemed like a group of skeletons and old rounds coming from a single crevice, forcing work to halt. Police were notified and people were told to keep off the site for safety. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/bones-bullets-found-on-ebeye/">Bones, bullets found on Ebeye</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/bones-bullets-found-on-ebeye/>
+
+---
+
+## UH Mānoa PhD student honored with Navy commendation medal
+
+date: 2025-04-17, from: University of Hawaiʻi News
+
+<p>Sarah Espinosa provided systems training to Navy and civilian pay and personnel administrators.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/16/student-honored-navy-commendation-medal/"><abbr>UH</abbr> Mānoa <abbr>PhD</abbr> student honored with Navy commendation medal</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/16/student-honored-navy-commendation-medal/>
+
+---
+
+## ‘A lifeline for my class’: Lahainaluna grad reflects on scholarship, resilience after fires
+
+date: 2025-04-17, from: University of Hawaiʻi News
+
+<p>Cecelia Steiner is one of the students from Lahainaluna’s class of 2024 attending one of <abbr>UH</abbr>’s 10 campuses through a special scholarship offered in the aftermath of the fire.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/16/lahainaluna-grad-reflects-scholarship-resilience/">‘A lifeline for my class’: Lahainaluna grad reflects on scholarship, resilience after fires</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/16/lahainaluna-grad-reflects-scholarship-resilience/>
+
+---
+
+## Fashion entrepreneurship takes center stage in PACE live series
+
+date: 2025-04-16, from: University of Hawaiʻi News
+
+<p>The series was created to inspire haumāna to launch their own fashion ventures while highlighting the thriving and diverse fashion sector in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/16/entrepreneurship-live-fashion-series/">Fashion entrepreneurship takes center stage in <abbr>PACE</abbr> live series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/16/entrepreneurship-live-fashion-series/>
+
+---
+
+## Girls nail it at WAM
+
+date: 2025-04-16, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Twenty-five Marshallese young people are mid-way through a life-changing training program — following a path that hundreds more have followed in recent past years. The Waan Aelon in Majel (Canoes of the Marshall Islands) program operates a six-month life- and vocational-skills training program that is unlike any other in the Marshall Islands. For [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/girls-nail-it-at-wam/">Girls nail it at WAM</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/girls-nail-it-at-wam/>
 
 ---
 
@@ -45,6 +416,126 @@ The post <a href="https://www.hawaii.edu/news/2025/04/16/image-of-the-week-black
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/16/image-of-the-week-black-necked-stilt/>
+
+---
+
+## Governor signs Saipan spending bill with line-item vetoes
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios has signed into law a House local bill appropriating gambling revenues for Saipan projects and programs. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-signs-saipan-spending-bill-with-line-item-vetoes/article_0dff8eb9-b43d-4946-9558-33e126305ae5.html>
+
+---
+
+## Gasoline prices roll back for 2nd time this month
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+FUEL prices are down for the second time this month. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/gasoline-prices-roll-back-for-2nd-time-this-month/article_238b8767-9891-4b79-92a1-5b94e124769c.html>
+
+---
+
+## ‘A missed opportunity of epic proportions’
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios’s veto of a Senate local bill that would have allowed internet gaming on Tinian and established a “Tinian stable token” was highlighted by multiple media entities in the global blockchain and digital industry. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/a-missed-opportunity-of-epic-proportions/article_c146888c-e45d-4cd1-9fbb-e83dcff4fd71.html>
+
+---
+
+## New Saipan-Rota passenger route set to take off
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+MICRONESIAN Air Cargo Services will launch its passenger service to Rota on April 21, with a 9 a.m. departure from Saipan, company owner John Stewart announced during a media briefing on Wednesday, April 16, at the MACS airplane hangar in As Lito. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-saipan-rota-passenger-route-set-to-take-off/article_33e47fa3-c29a-47d4-b61c-a813e7565f24.html>
+
+---
+
+## OAG drops murder charge against man accused of killing his brother
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+THE Office of the Attorney General’s Criminal Division has dropped the murder charge against Moses Pangelinan Cabrera, who is accused of killing his brother. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/oag-drops-murder-charge-against-man-accused-of-killing-his-brother/article_68bffcaa-2c94-4eb0-be47-0459743153ea.html>
+
+---
+
+## Writers, artists encouraged to submit to Guma’ Remetaw by April 30
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+WRITERS and artists are reminded that the submission deadline for the inaugural issue of Guma’ Remetaw, Proa Publication’s first literary journal, is April 30 
+
+<br> 
+
+<https://www.mvariety.com/news/local/writers-artists-encouraged-to-submit-to-guma-remetaw-by-april-30/article_7605a116-9a4c-475d-8533-8e516ce4d42b.html>
+
+---
+
+## Disciplinary complaint against attorney dismissed
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+THE Superior Court has granted the request of attorney Shelli Neal to dismiss the disciplinary complaint filed against her by the NMI Bar Association. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/disciplinary-complaint-against-attorney-dismissed/article_866a641c-5dcb-4bd4-9ba2-1e18482d5297.html>
+
+---
+
+## Palau moves to protect 28 health workers after US grant cuts
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Twenty-eight employees at the Ministry of Health and Human Services faced possible layoffs due to cuts in U.S. federal funding under the administration of President Donald Trump. However, Palau’s leadership has committed to keeping all affected workers employed. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-moves-to-protect-28-health-workers-after-us-grant-cuts/article_22aee5c5-260f-4e24-b82e-3d3452718ee4.html>
+
+---
+
+## Mayors meet with DPL secretary-designate
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+The Association of Northern Mariana Island Mayors or ANMIM held a working meeting of the four CNMI mayors and their associate staff at the Saipan Mayor's Office. Also present was the newly nominated Secretary of the Department of Public Lands Sixto Igisomar and his staff. The meeting was a chance for the new secretary to formally introduce himself to the CNMI mayors and to discuss and hear out the various concerns and issues from all four of our Commonwealth's municipalities being brought forward by the mayors. All parties pledged to start anew with a clean slate and to work in tandem to address community concerns as well as new and ongoing initiatives throughout our islands. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mayors-meet-with-dpl-secretary-designate/article_aa9cd99b-d1e9-41b4-9466-a23cdb875c55.html>
+
+---
+
+## Deep-sea mining firm seeks mining lease near American Samoa
+
+date: 2025-04-16, updated: 2025-04-17, from: Marianas Variety
+
+PAGO PAGO (Reuters) — Deep-sea mining firm Impossible Metals said on Tuesday that it has asked U.S. federal officials to launch a commercial auction for access to deposits of nickel, cobalt and other critical minerals off the coast of American Samoa. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/deep-sea-mining-firm-seeks-mining-lease-near-american-samoa/article_ace5a531-2fb5-4e0a-a9be-f75931191cb4.html>
 
 ---
 
