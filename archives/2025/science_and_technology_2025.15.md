@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-04-17 06:07:37
+updated: 2025-04-17 14:08:18
 ---
 
 # science and technology
 
-(date: 2025-04-17 06:07:37)
+(date: 2025-04-17 14:08:18)
+
+---
+
+## NASA Astronaut to Answer Questions from Colorado Students
+
+date: 2025-04-17, from: NASA breaking news
+
+Students from Woodland Park, Colorado, will connect with NASA astronaut Nichole Ayers as she answers prerecorded science, technology, engineering, and mathematics-related questions from aboard the International Space Station. Watch the 20-minute space-to-Earth call at 11:55 a.m. EDT on Monday, April 21, on the NASA STEM YouTube Channel. The event, hosted by Woodland Park High School, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-colorado-students/>
+
+---
+
+## Space Shuttle Discovery Lifts Off
+
+date: 2025-04-17, from: NASA breaking news
+
+The launch of space shuttle Discovery is captured in this April 12, 1985, photo. This mission, STS-51D, was the 16th flight of NASA&#8217;s Space Shuttle program, and Discovery’s fourth flight. Discovery carried out 39 missions, more than any other space shuttle. Its missions included deploying and repairing the Hubble Space Telescope and 13 flights to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/space-shuttle-discovery-lifts-off-2/>
+
+---
+
+## Google wins 1-1: Judge rules ad giant broke antitrust law
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>After battle with Uncle Sam over online competition, web giant vows to appeal the bit it lost, celebrates the half it won</h4> <p>For the second time in less than a year, a federal judge has found that some parts of Google broke US antitrust law.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/judge_rules_google_publisher_ad/>
+
+---
+
+## Building for a Better World: Norfolk Students Bring STEM to Life with NASA Partnership
+
+date: 2025-04-17, from: NASA breaking news
+
+At Norfolk Technical Center in Norfolk, Virginia, carpentry students in Jordan Crawford’s first-year class aren’t just learning how to measure and cut wood—they’re discovering how their skills can serve a greater purpose. When the NASA Science Activation program’s NASA eClips project—led by the National Institute of Aerospace’s Center for Integrative Science, Technology, Engineering, and Mathematics […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/building-for-a-better-world-norfolk-students-bring-stem-to-life-with-nasa-partnership/>
+
+---
+
+## Krebs throws himself on the grenade, resigns from SentinelOne after Trump revokes clearances
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Illegitimi non carborundum? Nice password, Mr Ex-CISA</h4> <p>Chris Krebs, the former head of the US Cybersecurity and Infrastructure Security Agency (CISA) and a longtime Trump target, has resigned from SentinelOne following a recent executive order that targeted him and revoked the security clearances of everybody at the company.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/krebs_quits_sentinelone/>
+
+---
+
+## Congress wants to know if Nvidia superchips slipped through Singapore to DeepSeek
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>As Huang jets to Middle Kingdom after H20 ban forces $5.5B hit</h4> <p>Nvidia&#39;s troubles with the US government have just begun: The day after the Trump administration&#39;s export restrictions on its AI chips triggered a $5.5 billion charge, US elected officials are now demanding answers about how advanced silicon ended up in China. Meanwhile, CEO Jensen Huang has flown to China to try and smooth things over with the regime there.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/congress_demands_nvidia_explain_deepseek/>
+
+---
+
+## NASA’s Curiosity Rover May Have Solved Mars’ Missing Carbonate Mystery
+
+date: 2025-04-17, from: NASA breaking news
+
+New findings from NASA’s Curiosity Mars rover could provide an answer to the mystery of what happened to the planet’s ancient atmosphere and how Mars has evolved over time. Researchers have long believed that Mars once had a thick, carbon dioxide-rich atmosphere and liquid water on the planet’s surface. That carbon dioxide and water should [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasas-curiosity-rover-may-have-solved-mars-missing-carbonate-mystery/>
+
+---
+
+## No rest for the rocketry as NASA's Easter weekend heats up
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Returning crew and a vital supply launch distract managers from chocolate eggs</h4> <p>The US Space Agency has a busy few days ahead as a trio of International Space Station (ISS) residents prepare to return to Earth this weekend, and a critical SpaceX Dragon freighter is readied for launch on Monday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/nasa_easter_weekend/>
+
+---
+
+## Small ocean swirls may have an outsized affect on climate, NASA satellite shows
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>SWOT satellite lets scientists observe small-scale eddies and waves for the first time</h4> <p>A NASA-led satellite mission has suggested that swirls and eddies in the middle of the ocean have a bigger influence on Earth&#39;s climate system than scientists previously realized.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/small_ocean_currents_climate_impact/>
+
+---
+
+## NASA Announces First Mentor-Protégé Agreement Under Enhanced Program
+
+date: 2025-04-17, from: NASA breaking news
+
+NASA is marking progress in strengthening the agency’s small business partnerships, supply chain resiliency, and domestic space manufacturing capabilities. Under the agency’s enhanced Mentor-Protégé Program, NASA has announced the first Mentor-Protégé Agreement between L3Harris Technologies, a NASA large prime contractor, and Parametric Machining, Inc., a veteran-owned small business. This agreement will help advance NASA’s mission [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/osbp/nasa-announces-first-mentor-protege-agreement-under-enhanced-program/>
+
+---
+
+## Google, AWS say it's too hard for customers to use Linux to swerve Azure
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Re-writing applications takes years, is expensive, in-house expertise needed</h4> <p>When moving to the cloud, companies with significant investments in Microsoft infrastructure wares simply can&#39;t afford to rewrite everything for Linux, so they end up migrating to Azure to dodge the markups Redmond charges for running its server software in competitors&#39; clouds.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/swapping_linux_for_microsoft_is_hard/>
+
+---
+
+## NASA Supports Next Generation of Innovators
+
+date: 2025-04-17, from: NASA breaking news
+
+When young minds come together to test their knowledge and creativity in technology and innovation, the results are truly inspiring. In its sixth year, Aerospace Valley Regional FIRST Robotics Competition at East High School in Lancaster, California, proved to be another success. During three action-packed days, hundreds of students from around the world showcased their [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-supports-next-generation-of-innovators/>
+
+---
+
+## ActiveX disabled by default in Microsoft 365
+
+date: 2025-04-17, from: OS News
+
+ActiveX is a powerful technology that enables rich interactions within Microsoft 365 applications, but its deep access to system resources also increases security risks. Starting this month, the Windows versions of Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and Microsoft Visio will have a new default configuration for ActiveX controls: Disable all controls without notification. ↫ Zaeem Patel at the Microsoft 365 Insider Blog Be honest: did any of you know ActiveX was still a thing? Heck, when was the last time you even thought of ActiveX? This technology acted a replacement for Windows&#8217; COM and OLE 2.0, and was used to make controls in a whole slew of Microsoft applications. ActiveX controls from one application could also be embedded into another, like showing a toolbar from Word inside an image editor. ActiveX has several major downsides, the two biggest of which are its relative lack of portability, and most of all, its atrocious security record. I&#8217;m genuinely surprised it&#8217;s taken them this long to actively, fully disable the technology by default. 
+
+<br> 
+
+<https://www.osnews.com/story/142151/activex-disabled-by-default-in-microsoft-365/>
+
+---
+
+## Meet the Space Ops Team: Becky Brocato
+
+date: 2025-04-17, from: NASA breaking news
+
+As an adventurous individual, Becky Brocato, Ph.D.,  has a deep curiosity for understanding the conditions of the human body, especially as it pertains to spaceflight. This passion directly translates to her role at NASA, where Brocato serves as the Element Scientist in the Human Health Countermeasures division and oversees research that seeks to reduce medical risks that [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-becky-brocato/>
+
+---
+
+## MX Linux 23.6 brings Debian freshness, without the systemd funk
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>Bookworm 12.10-based release is a few steps ahead of upstream</h4> <p>MX Linux 23.6 is here, taking the baseline of Debian 12.10 and adding some selected tweaks and updates of its own.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/mx_linux_236/>
+
+---
+
+## Science Meets Art: NASA Astronaut Don Pettit Turns the Camera on Science
+
+date: 2025-04-17, from: NASA breaking news
+
+NASA astronaut Don Pettit is scheduled to return home in mid-April after a seven-month mission aboard the International Space Station as part of Expedition 72. Throughout his stay, Pettit contributed to research that benefits humanity and future space missions.Pettit also shared what he calls “science of opportunity” to demonstrate how experimenting with our surroundings can [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/science-meets-art-nasa-astronaut-don-pettit-turns-the-camera-on-science/>
+
+---
+
+## Can Quantum Gravity Be Created in the Lab?
+
+date: 2025-04-17, from: Quanta Magazine
+
+Quantum gravity could help physicists unite the currently incompatible worlds of quantum mechanics and gravity. In this episode, Monika Schleier-Smith discusses her pioneering experimental approach, using laser-cooled atoms to explore whether gravity could emerge from quantum entanglement.            <p>The post <a href="https://www.quantamagazine.org/can-quantum-gravity-be-created-in-the-lab-20250417/" target="_blank">Can Quantum Gravity Be Created in the Lab?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/can-quantum-gravity-be-created-in-the-lab-20250417/>
+
+---
+
+## Europe's cloud customers eyeing exit from US hyperscalers
+
+date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+
+<h4>&#39;It&#39;s amazing how fast the change has been&#39;</h4> <p>Are customers on the European side of the pond considering a move from US hyperscalers in the wake of recent events? Some of the region&#39;s vendors are reporting an uptick in inquiries as organizations mull their options.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/us_hyperscaler_alternatives/>
+
+---
+
+## Recognizing Employee Excellence
+
+date: 2025-04-17, from: NASA breaking news
+
+Shahab Chaudhry, chief of the Power and Propulsion Element (PPE) Project Office at NASA’s Glenn Research Center in Cleveland, has received a 2025 NASA Program and Project Management Excellence Award. He is one of just three recipients agencywide.&#160; The award recognizes individuals and teams who exemplify excellence in program and project management and the role [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence-2/>
+
+---
+
+## NASA Glenn and Cleveland Cavaliers Score With STEM
+
+date: 2025-04-17, from: NASA breaking news
+
+NASA’s Glenn Research Center supported Northeast Ohio STEM (NEOSTEM)’s annual Score with STEM event in collaboration with the Cleveland Cavaliers on March 16 at Tower City Center in Cleveland. More than 1,500 students, their families, and others gathered at Tower City’s Skylight Park for the event.&#160;&#160; NASA Glenn’s presence included virtual reality and augmented reality [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-and-cleveland-cavaliers-score-with-stem/>
 
 ---
 
@@ -90,6 +330,18 @@ date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/17/heat_repairs_li_ion_batteries/>
+
+---
+
+## A threat model for opposing authoritarianism
+
+date: 2025-04-17, from: OS News
+
+A decade ago, I published a book on privacy “Dragnet Nation: A Quest for Privacy, Security, and Freedom in a World of Relentless Surveillance.” In the book, and since then, in articles and speeches, I have been dispensing advice to people on how to protect their privacy. But my advice did not envision the moment we are in – where the government would collaborate with a tech CEO to strip-mine all of our data from government databases and use it to pursue political enemies. In the parlance of cybersecurity, I had the wrong “threat model,” which is a fancy way of describing the risks I was seeking to mitigate. I had not considered that the United States might be swept into the rising tide of what scholars call “competitive authoritarianism” – authoritarian regimes that retain some of the trappings of democracy, such as elections, but use the power of the state to crush any meaningful dissent. ↫ Julia Angwin Democracy is not nearly as much of a given as many people think, and in this day and age, where massive amounts of Americans&#8217; data and personal information are collected and stored by the very corporations supporting the Trump regime, Americans have to think very differently about where digital threats actually come from. Nothing protects any American &#8211; or anyone visiting America &#8211; from ending up in an El Salvadorian concentration camp. Plan accordingly. 
+
+<br> 
+
+<https://www.osnews.com/story/142148/a-threat-model-for-opposing-authoritarianism/>
 
 ---
 
@@ -225,6 +477,30 @@ date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 ---
 
+## What makes Slackware different?
+
+date: 2025-04-16, from: OS News
+
+I&#8217;m not entirely sure how to link to this properly, but what we have here is a simple, to-the-point text file describing some of the benefits of Slackware, the oldest still maintained Linux distribution. It&#8217;s still run by Patrick Volkerding, and focuses on conservative choices and simplicity over ease. I doubt I have to explain the benefits of Slackware to the average OSNews reader, but this simple little text file does serve as a great marketing tool. The fact it&#8217;s a simple little text file is so very Slackware. I love it. 
+
+<br> 
+
+<https://www.osnews.com/story/142145/what-makes-slackware-different/>
+
+---
+
+## CISA extends funding to ensure ‘no lapse in critical CVE services’
+
+date: 2025-04-16, from: OS News
+
+CISA says the U.S. government has extended MITRE&#8217;s funding to ensure no continuity issues with the critical Common Vulnerabilities and Exposures (CVE) program.  The announcement follows a warning from MITRE Vice President Yosry Barsoum that government funding for the CVE and CWE programs was set to expire today, April 16, potentially leading to widespread disruption across the cybersecurity industry. ↫ Sergiu Gatlan at BleepingComputer Elect clowns, live in a circus. 
+
+<br> 
+
+<https://www.osnews.com/story/142142/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/>
+
+---
+
 ## First Nvidia, now AMD: Trump trade turmoil threatens $800M in China chip sales
 
 date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
@@ -337,7 +613,7 @@ Every soft caress of wind, searing burn and seismic rumble is detected by our sk
 
 date: 2025-04-16, updated: 2025-04-17, from: The Register (UK I.T. News)
 
-<h4>Bezos&#39; biz and Google tell regulator higher cost of running Windows Server in their clouds isn&#39;t fair</h4> <p>AWS estimates that half of the workloads Microsoft enterprise customers run on Azure would migrate to its own datacenters if only the licensing costs of doing so were not prohibitively high and a competitive deterrent.…</p> 
+<h4>Bezos&#39; biz and Google tell regulator higher cost of running Windows Server in their clouds isn&#39;t fair</h4> <p>AWS estimates half of the workloads Microsoft enterprise customers run on Azure would migrate away from the Windows giant&#39;s cloud if only the licensing costs of doing so were not prohibitively high and a competitive deterrent.…</p> 
 
 <br> 
 
@@ -561,6 +837,18 @@ date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 ---
 
+## The captchas have become sentient: we’re working on fixing the captcha issue
+
+date: 2025-04-15, from: OS News
+
+As some of you may have noticed, we&#8217;ve been having some issues with captchas. The powers that be &#8211; which isn&#8217;t me, I don&#8217;t know anything about web development &#8211; are looking into it, and once we&#8217;ve pinpointed the problem we&#8217;ll get it fixed. It&#8217;s annoying us too, so we want this resolved as quickly as possible. OSNews readers just trying to visit the site to read some tech stuff should not be subjected to selecting squares with buses or crosswalks. Our apologies for the annoyance, and I&#8217;ll update this post once the issue&#8217;s been resolved. 
+
+<br> 
+
+<https://www.osnews.com/story/142138/the-captchas-have-become-sentient-were-working-on-fixing-the-captcha-issue/>
+
+---
+
 ## Now 1.6M people had SSNs, life chapter and verse stolen from insurance IT biz
 
 date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
@@ -671,13 +959,25 @@ date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 ## All right, you can have one: DOGE access to Treasury IT OK'd judge
 
-date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
+date: 2025-04-15, updated: 2025-04-17, from: The Register (UK I.T. News)
 
 <h4>Login green-lit for lone staffer if he’s trained, papered up, won’t pull an Elez</h4> <p>A federal judge has partly lifted an injunction against Elon Musk&#39;s Trump-blessed cost-trimming <a target="_blank" href="https://www.theregister.com/2025/03/25/doge_cannot_access_pii/">DOGE</a> unit, allowing one staff member to access sensitive US Treasury payment systems. This access includes personally identifiable financial information tied to millions of Americans.…</p> 
 
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/15/doge_access_to_treasury_systems/>
+
+---
+
+## Fedora 42 released
+
+date: 2025-04-15, from: OS News
+
+Fedora 42 has been released, bringing with it a major policy change: the Fedora KDE version now has the same status as the GNOME version. This means that Fedora KDE will be getting the same promotion, website space, and potential blocker status as the GNOME version. For now, the naming is a bit weird &#8211; Fedora Workstation for GNOME, Fedora KDE Plasma Desktop for KDE &#8211; but they intend to fix this down the line. Feodra 42 also brings with it a brand new installation interface, which replaces the old one with a newer, step-by-step wizard-style interface. Anaconda is now also a native Wayland application, instead of running in Xorg. This release also marks the official availability of the Fedora COSMIC spin, bringing System76&#8217;s Rust-based COSMIC desktop on the same footing as Xfce, LXQt, and others. Another cool addition is FEX for those of us running Fedora on ARM. Fedora now provides FEX, a fast emulator that allows one to run x86 and x86-64 binaries on an AArch64 Linux host. FEX requires a number of supporting components, including a RootFS image, and integration with muvm to support 16k page-size hosts. The purpose of this Change is to integrate FEX itself and its supporting components into Fedora Linux, to provide a delightful out-of-box experience for users that want to run x86 and x86-64 binaries on their aarch64 systems. This also includes integration into the AArch64 Fedora KDE spin as a non-blocking component of the spin. ↫ Fedora 42 release notes You can download and install Fedora 42, or if you&#8217;re already a Fedora user, you can upgrade through your graphical update utility or the command line using DNF. 
+
+<br> 
+
+<https://www.osnews.com/story/142135/fedora-42-released/>
 
 ---
 
@@ -801,6 +1101,18 @@ Scientists have hypothesized since the 1960s that the Sun is a source of ingredi
 
 ---
 
+## exwm: Emacs X Windows Manager
+
+date: 2025-04-15, from: OS News
+
+EXWM (Emacs X Window Manager) is a full-featured tiling X window manager for Emacs built on top of XELB. ↫ exwm GitHub page It supports both tiling and stacking windows, dynamic workspaces, RandR, a system tray, and a lot more. XELB stands for X protocol Emacs Lisp Binding, and it&#8217;s a &#8220;pure Elisp implementation of X11 protocol based on the XML description files from XCB project&#8221;. 
+
+<br> 
+
+<https://www.osnews.com/story/142132/exwm-emacs-x-windows-manager/>
+
+---
+
 ## US senator warns 'China is cheering' for proposed NASA budget cuts
 
 date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
@@ -810,6 +1122,18 @@ date: 2025-04-15, updated: 2025-04-15, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/15/nasa_cuts_protest/>
+
+---
+
+## Whiskey developer throws in the towel, suggests to just buy CrossOver instead
+
+date: 2025-04-15, from: OS News
+
+Isaac Marovitz, the developer of Whiskey, a frontend for Apple&#8217;s Game Porting Toolkit and Wine, has decided to throw in the towel. The developer is advising users to buy CrossOver instead, which provides the same service. The reasoning behind their decision seems sound, and are actually quite noble and considerate. First and foremost, it&#8217;s the usual problem lone developers run into: they lost interest in the project, and to make matters worse, they&#8217;re only a student and simply lack the time to keep working on a project they&#8217;re simply not really into anymore. Running a complicated project like this on your own, unpaid, while also having to study is hard at the best of times, and if you&#8217;re also not interested in it anymore it quickly becomes a massive burden. The second reason is that originally, Whiskey was just supposed to be a frontend for Wine on the Mac, without actually making any changes to Wine itself. The release of Apple&#8217;s Game Porting Toolkit changed the game, though, and all of a sudden Whiskey ended up shipping not just a nice frontend, but also custom versions of Wine. Marovitz states he doesn&#8217;t have the required knowledge and expertise to work on Wine, and as such, can&#8217;t contribute back to Wine and CrossOver, which feels bad. By contrast, Whisky is based on CrossOver, but we don&#8217;t produce any bespoke fixes. I, quite frankly, do not have the requisite skills or time to do so. As a result, the amount that Whisky as a whole contributes to Wine is practically zero. This is not a fair trade, and continuing this parasitic relationship could easily harm CrossOver&#8217;s continued profitability and the existence of Wine on Mac as a whole. ↫ Isaac Marovitz Wine, of course, has a ton of funding behind it these days, especially from Valve, but Valve&#8217;s interest lies solely and exclusively on Linux. While all of Valve&#8217;s funds and the work of Wine developers does benefit the Mac, much of the Wine on Mac work is done by CrossOver. I find it incredibly honest and respectful of Marovitz to make it clear he doesn&#8217;t want to leech off other people&#8217;s work without providing anything in return. So, Whiskey is no more, but for the few Mac users who want to play Windows games on their Mac, CrossOver exists as a refuge that should work just fine. 
+
+<br> 
+
+<https://www.osnews.com/story/142112/whiskey-developer-throws-in-the-towel-suggests-to-just-buy-crossover-instead/>
 
 ---
 
@@ -957,6 +1281,30 @@ date: 2025-04-14, updated: 2025-04-14, from: The Register (UK I.T. News)
 
 ---
 
+## Why is there a “small house” in IBM’s Code Page 437?
+
+date: 2025-04-14, from: OS News
+
+There&#8217;s a small house ( ⌂ ) in the middle of IBM&#8217;s infamous character set Code Page 437. &#8220;Small house&#8221;—that&#8217;s the official IBM name given to the glyph at code position 0x7F, where a control character for &#8220;Delete&#8221; (DEL) should logically exist. It&#8217;s cute, but a little strange. I wonder, how did it get there? Why did IBM represent DEL as a house, of all things? ↫ Heikki Lotvonen Don&#8217;t waste any time here, and go read the article. It&#8217;s immediately become one of my favourite reads of all time. 
+
+<br> 
+
+<https://www.osnews.com/story/142115/why-is-there-a-small-house-in-ibms-code-page-437/>
+
+---
+
+## Fedora change aims for 99% package reproducibility
+
+date: 2025-04-14, from: OS News
+
+The effort to ensure that open-source software is reproducible has been gathering steam over the years, and gaining traction with major Linux distributions. Debian, for example, has been working toward reproducible builds for more than a decade; it can now produce official live CDs of the current stable release that are reproducible. Fedora started on the path much later, but it has progressed far enough that the project is now considering a change proposal for the Fedora 43 development cycle, expected to be released in October, with a goal of making 99% of Fedora&#8217;s package builds reproducible. So far, reaction to the proposal seems favorable and focused primarily on how to achieve the goal—with minimal pain for packagers—rather than whether to attempt it. ↫ Joe Brockmeier at LWN.net In the case of individual packages, reproducibility means that if you set up a build environment at home according to Fedora&#8217;s specifications, you can create an exact, bit-by-bit identical copy of a package. This is important because it can help detect and guard against supply chain attacks like the infamous xz backdoor attempt that was thwarted only by mere luck. As the LWN article notes, however, it&#8217;s impossible for Fedora to achieve the original &#8220;bit-by-bit&#8221; part of the definition because of how RPMs are built. RPMs include the signature inside the RPM, and a few other metadata bits are problematic as well. The actual contents of an RPM &#8211; the thing you actually install, run, and use &#8211; meet the definition of &#8220;bit-by-bit&#8221;, though. By this point, Fedora has pretty much done all it can through its own infrastructure when it comes to reproducibility, which has brought the project to 90% of packages being reproducible. It&#8217;s going to be up to the individual package maintainers and software developers to get to the desired goal of 99% by Fedora 43, though. To ensure package maintainers take this issue seriously, a change proposal has been proposed to treat reproducibility issues as bugs, with a degree of wiggle room for now (think should instead of must). It&#8217;s only a proposal for now, but it&#8217;s looking like it will make it. The excellent &#8211; as always &#8211; LWN article has a lot more detail about both the proposes changes as well as the various points of view. 
+
+<br> 
+
+<https://www.osnews.com/story/142113/fedora-change-aims-for-99-package-reproducibility/>
+
+---
+
 ## Microsoft OneDrive file sync apps for Windows, Mac broken for 10 months
 
 date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
@@ -1005,6 +1353,18 @@ date: 2025-04-14, updated: 2025-04-15, from: The Register (UK I.T. News)
 
 ---
 
+## “I bought a Mac”
+
+date: 2025-04-14, from: OS News
+
+Yep. I regret to inform you all that, as of January 2025, I am a Mac user: I bought a Mac. I have betrayed the penguin.  So, how did such an icon of early 2000s Apple fall into my grubby hands? Well, it all started with the Wii U. I’m not joking. ↫ Loganius That&#8217;s one heck of an excuse to get a PowerPC G4 &#8211; needing to do Linux kvm hacking to fix a bug. While getting the PowerMac G4 they bought all set up and working properly for development purposes, someone else fixed the bug in question in the meantime. Such is the way of open source development. Regardless, as far as classic computers go, PowerPC Macs are a great way to enter the wider hobby of retrocomputing. They&#8217;re widely available, incredibly cheap, and offer a ton of variety when it comes to supported operating systems, working with everything from classic Mac OS to Mac OS X, from Linux to the BSDs, down to more exotic awesome stuff like MorphOS. Their popularity also ensures a steady stream of replacement parts, expertise, and community support. I have a 1.25Ghz 17&#8243; PowerBook G4 for MorphOS, and a snow white iBook G3 for Mac OS 9.2.2, and I&#8217;ll never get rid of them. 
+
+<br> 
+
+<https://www.osnews.com/story/142107/i-bought-a-mac/>
+
+---
+
 ## NASA Wallops Breaks Ground on New Causeway Bridge
 
 date: 2025-04-14, from: NASA breaking news
@@ -1014,6 +1374,18 @@ NASA’s Wallops Flight Facility commemorated the start of construction of its n
 <br> 
 
 <https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-breaks-ground-on-new-causeway-bridge/>
+
+---
+
+## The subjective charms of Objective-C
+
+date: 2025-04-14, from: OS News
+
+To argue that Objective-C resembles a metaphysically divine language, or even a good language, is like saying Shakespeare is best appreciated in pig latin. Objective-C is, at best, polarizing. Ridiculed for its unrelenting verbosity and peculiar square brackets, it is used only for building Mac and iPhone apps and would have faded into obscurity in the early 1990s had it not been for an unlikely quirk of history. Nevertheless, in my time working as a software engineer in San Francisco in the early 2010s, I repeatedly found myself at dive bars in SoMa or in the comments of HackerNews defending its most cumbersome design choices. ↫ Gabriel Nicholas at Wired I&#8217;ll just step back and let y&#8217;all handle this one. 
+
+<br> 
+
+<https://www.osnews.com/story/142105/the-subjective-charms-of-objective-c/>
 
 ---
 

@@ -1,11 +1,286 @@
 ---
 title: snapshots
-updated: 2025-04-17 06:07:45
+updated: 2025-04-17 14:08:26
 ---
 
 # snapshots
 
-(date: 2025-04-17 06:07:45)
+(date: 2025-04-17 14:08:26)
+
+---
+
+## Start building with Gemini 2.5 Flash
+
+date: 2025-04-17, updated: 2025-04-17, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/start-building-with-gemini-25-flash/">Start building with Gemini 2.5 Flash</a></strong></p>
+Google Gemini's latest model is Gemini 2.5 Flash, available in (paid) preview as <code>gemini-2.5-flash-preview-04-17</code>. </p>
+<blockquote>
+<p>Building upon the popular foundation of 2.0 Flash, this new version delivers a major upgrade in reasoning capabilities, while still prioritizing speed and cost. Gemini 2.5 Flash is our first fully hybrid reasoning model, giving developers the ability to turn thinking on or off. The model also allows developers to set thinking budgets to find the right tradeoff between quality, cost, and latency.</p>
+</blockquote>
+<p>Gemini AI Studio product lead Logan Kilpatrick <a href="https://twitter.com/OfficialLoganK/status/1912966500794654855">says</a>:</p>
+<blockquote>
+<p>This is an early version of 2.5 Flash, but it already shows huge gains over 2.0 Flash. </p>
+<p>You can fully turn off thinking if needed and use this model as a drop in replacement for 2.0 Flash. </p>
+</blockquote>
+<p>I added support to the new model in <a href="https://github.com/simonw/llm-gemini/releases/tag/0.18">llm-gemini 0.18</a>. Here's how to try it out:</p>
+<pre><code>llm install -U llm-gemini
+llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bicycle'
+</code></pre>
+<p>Here's that first pelican, using the default setting where Gemini Flash 2.5 makes its own decision in terms of how much "thinking" effort to apply:</p>
+<p><img alt="Described below" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-default.jpg" /></p>
+<p>Here's <a href="https://gist.github.com/simonw/afce6639ed10c712a0778fc779efd756">the transcript</a>. This one used 11 input tokens and 4266 output tokens of which 2702 were "thinking" tokens. </p>
+<p>I asked the model to "<code>describe</code>" that image and it could tell it was meant to be a pelican:</p>
+<blockquote>
+<p>A simple illustration on a white background shows a stylized pelican riding a bicycle. The pelican is predominantly grey with a black eye and a prominent pink beak pouch. It is positioned on a black line-drawn bicycle with two wheels, a frame, handlebars, and pedals.</p>
+</blockquote>
+<p>AI Studio indicates that the model is charged at $0.15/million tokens for input, $3.50/million for thinking output and $0.60/million for non-thinking output. I presume that means thinking tokens are charged separately. I calculate this prompt as costing 1.04 cents.</p>
+<p>Let's try again with thinking disabled:</p>
+<pre><code>llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bicycle' -o thinking_budget 0
+</code></pre>
+<p><img alt="Described below, again" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-thinking-0.jpg" /></p>
+<p>11 input, 1705 output of which 25 were "thinking". <a href="https://gist.github.com/simonw/182679e918ab5263f98f6a65691874d1">Transcript here</a>. 0.11 cents.</p>
+<p>Its self-description:</p>
+<blockquote>
+<p>A minimalist illustration shows a bright yellow bird riding a bicycle. The bird has a simple round body, small wings, a black eye, and an open orange beak. It sits atop a simple black bicycle frame with two large circular black wheels. The bicycle also has black handlebars and black and yellow pedals. The scene is set against a solid light blue background with a thick green stripe along the bottom, suggesting grass or ground.</p>
+</blockquote>
+<p>And finally, let's ramp the thinking budget up to the maximum:</p>
+<pre><code>llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bicycle' -o thinking_budget 24576
+</code></pre>
+<p><img alt="Described below" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-thinking-max.jpg" /></p>
+<p>I think it over-thought this one! <a href="https://gist.github.com/simonw/6a83bd7ad114ee23c460f5246b854247">Transcript</a> - 5174 output tokens of which 3023 were thinking.  1.19 cents. Its own self-evaluation:</p>
+<blockquote>
+<p>A simple, cartoon-style drawing shows a bird-like figure riding a bicycle. The figure has a round gray head with a black eye and a large, flat orange beak with a yellow stripe on top. Its body is represented by a curved light gray shape extending from the head to a smaller gray shape representing the torso or rear. It has simple orange stick legs with round feet or connections at the pedals. The figure is bent forward over the handlebars in a cycling position. The bicycle is drawn with thick black outlines and has two large wheels, a frame, and pedals connected to the orange legs. The background is plain white, with a dark gray line at the bottom representing the ground.</p>
+</blockquote>
+<p>One thing I really appreciate about Gemini 2.5 Flash's approach to SVGs is that it shows very good taste in CSS, comments and general SVG class structure. Here's a truncated extract - I run a lot of these SVG tests against different models and this one has a coding style that I particularly enjoy. (Gemini 2.5 Pro <a href="https://gist.github.com/simonw/c34f7f0c94afcbeab77e170511f6f51f">does this too</a>).</p>
+<pre>&lt;<span class="pl-ent">svg</span> <span class="pl-e">width</span>=<span class="pl-s"><span class="pl-pds">"</span>800<span class="pl-pds">"</span></span> <span class="pl-e">height</span>=<span class="pl-s"><span class="pl-pds">"</span>500<span class="pl-pds">"</span></span> <span class="pl-e">viewBox</span>=<span class="pl-s"><span class="pl-pds">"</span>0 0 800 500<span class="pl-pds">"</span></span> <span class="pl-e">xmlns</span>=<span class="pl-s"><span class="pl-pds">"</span>http://www.w3.org/2000/svg<span class="pl-pds">"</span></span>&gt;
+  &lt;<span class="pl-ent">style</span>&gt;<span class="pl-s1"></span>
+<span class="pl-s1">    <span class="pl-e">.bike-frame</span> { <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">none</span>; <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">#333</span>; <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">8</span>; <span class="pl-c1"><span class="pl-c1">stroke-linecap</span></span>: <span class="pl-c1">round</span>; <span class="pl-c1"><span class="pl-c1">stroke-linejoin</span></span>: <span class="pl-c1">round</span>; }</span>
+<span class="pl-s1">    <span class="pl-e">.wheel-rim</span> { <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">none</span>; <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">#333</span>; <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">8</span>; }</span>
+<span class="pl-s1">    <span class="pl-e">.wheel-hub</span> { <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#333</span>; }</span>
+<span class="pl-s1">    <span class="pl-c"><span class="pl-c">/*</span> ... <span class="pl-c">*/</span></span></span>
+<span class="pl-s1">    <span class="pl-e">.pelican-body</span> { <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#d3d3d3</span>; <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">black</span>; <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">3</span>; }</span>
+<span class="pl-s1">    <span class="pl-e">.pelican-head</span> { <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#d3d3d3</span>; <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">black</span>; <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">3</span>; }</span>
+<span class="pl-s1">    <span class="pl-c"><span class="pl-c">/*</span> ... <span class="pl-c">*/</span></span></span>
+<span class="pl-s1"></span>  &lt;/<span class="pl-ent">style</span>&gt;
+  <span class="pl-c"><span class="pl-c">&lt;!--</span> Ground Line <span class="pl-c">--&gt;</span></span>
+  &lt;<span class="pl-ent">line</span> <span class="pl-e">x1</span>=<span class="pl-s"><span class="pl-pds">"</span>0<span class="pl-pds">"</span></span> <span class="pl-e">y1</span>=<span class="pl-s"><span class="pl-pds">"</span>480<span class="pl-pds">"</span></span> <span class="pl-e">x2</span>=<span class="pl-s"><span class="pl-pds">"</span>800<span class="pl-pds">"</span></span> <span class="pl-e">y2</span>=<span class="pl-s"><span class="pl-pds">"</span>480<span class="pl-pds">"</span></span> <span class="pl-e">stroke</span>=<span class="pl-s"><span class="pl-pds">"</span>#555<span class="pl-pds">"</span></span> <span class="pl-e">stroke-width</span>=<span class="pl-s"><span class="pl-pds">"</span>5<span class="pl-pds">"</span></span>/&gt;
+  <span class="pl-c"><span class="pl-c">&lt;!--</span> Bicycle <span class="pl-c">--&gt;</span></span>
+  &lt;<span class="pl-ent">g</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>bicycle<span class="pl-pds">"</span></span>&gt;
+    <span class="pl-c"><span class="pl-c">&lt;!--</span> Wheels <span class="pl-c">--&gt;</span></span>
+    &lt;<span class="pl-ent">circle</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>wheel-rim<span class="pl-pds">"</span></span> <span class="pl-e">cx</span>=<span class="pl-s"><span class="pl-pds">"</span>250<span class="pl-pds">"</span></span> <span class="pl-e">cy</span>=<span class="pl-s"><span class="pl-pds">"</span>400<span class="pl-pds">"</span></span> <span class="pl-e">r</span>=<span class="pl-s"><span class="pl-pds">"</span>70<span class="pl-pds">"</span></span>/&gt;
+    &lt;<span class="pl-ent">circle</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>wheel-hub<span class="pl-pds">"</span></span> <span class="pl-e">cx</span>=<span class="pl-s"><span class="pl-pds">"</span>250<span class="pl-pds">"</span></span> <span class="pl-e">cy</span>=<span class="pl-s"><span class="pl-pds">"</span>400<span class="pl-pds">"</span></span> <span class="pl-e">r</span>=<span class="pl-s"><span class="pl-pds">"</span>10<span class="pl-pds">"</span></span>/&gt;
+    &lt;<span class="pl-ent">circle</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>wheel-rim<span class="pl-pds">"</span></span> <span class="pl-e">cx</span>=<span class="pl-s"><span class="pl-pds">"</span>550<span class="pl-pds">"</span></span> <span class="pl-e">cy</span>=<span class="pl-s"><span class="pl-pds">"</span>400<span class="pl-pds">"</span></span> <span class="pl-e">r</span>=<span class="pl-s"><span class="pl-pds">"</span>70<span class="pl-pds">"</span></span>/&gt;
+    &lt;<span class="pl-ent">circle</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>wheel-hub<span class="pl-pds">"</span></span> <span class="pl-e">cx</span>=<span class="pl-s"><span class="pl-pds">"</span>550<span class="pl-pds">"</span></span> <span class="pl-e">cy</span>=<span class="pl-s"><span class="pl-pds">"</span>400<span class="pl-pds">"</span></span> <span class="pl-e">r</span>=<span class="pl-s"><span class="pl-pds">"</span>10<span class="pl-pds">"</span></span>/&gt;
+    <span class="pl-c"><span class="pl-c">&lt;!--</span> ... <span class="pl-c">--&gt;</span></span>
+  &lt;/<span class="pl-ent">g</span>&gt;
+  <span class="pl-c"><span class="pl-c">&lt;!--</span> Pelican <span class="pl-c">--&gt;</span></span>
+  &lt;<span class="pl-ent">g</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>pelican<span class="pl-pds">"</span></span>&gt;
+    <span class="pl-c"><span class="pl-c">&lt;!--</span> Body <span class="pl-c">--&gt;</span></span>
+    &lt;<span class="pl-ent">path</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>pelican-body<span class="pl-pds">"</span></span> <span class="pl-e">d</span>=<span class="pl-s"><span class="pl-pds">"</span>M 440 330 C 480 280 520 280 500 350 C 480 380 420 380 440 330 Z<span class="pl-pds">"</span></span>/&gt;
+    <span class="pl-c"><span class="pl-c">&lt;!--</span> Neck <span class="pl-c">--&gt;</span></span>
+    &lt;<span class="pl-ent">path</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>pelican-neck<span class="pl-pds">"</span></span> <span class="pl-e">d</span>=<span class="pl-s"><span class="pl-pds">"</span>M 460 320 Q 380 200 300 270<span class="pl-pds">"</span></span>/&gt;
+    <span class="pl-c"><span class="pl-c">&lt;!--</span> Head <span class="pl-c">--&gt;</span></span>
+    &lt;<span class="pl-ent">circle</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>pelican-head<span class="pl-pds">"</span></span> <span class="pl-e">cx</span>=<span class="pl-s"><span class="pl-pds">"</span>300<span class="pl-pds">"</span></span> <span class="pl-e">cy</span>=<span class="pl-s"><span class="pl-pds">"</span>270<span class="pl-pds">"</span></span> <span class="pl-e">r</span>=<span class="pl-s"><span class="pl-pds">"</span>35<span class="pl-pds">"</span></span>/&gt;
+    <span class="pl-c"><span class="pl-c">&lt;!--</span> ... <span class="pl-c">--&gt;</span></span></pre>
+
+    <p><small></small>Via <a href="https://twitter.com/OfficialLoganK/status/1912966497213038686">@OfficialLoganK</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/svg">svg</a>, <a href="https://simonwillison.net/tags/logan-kilpatrick">logan-kilpatrick</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/17/start-building-with-gemini-25-flash/#atom-everything>
+
+---
+
+## This eBook reader has an 8 inch foldable E Ink display
+
+date: 2025-04-17, from: Liliputing
+
+<p>Smartphones with foldable displays have been around for years. A handful of PC makers have also launched laptops. So what&#8217;s next? Foldable eReaders, apparently. The MooInk V is an eBook reader with an 8 inch E Ink Gallery color ePaper display that can fold in half like a&#8230; well, like a book. Developer by Readmoo [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-ebook-reader-has-an-8-inch-foldable-e-ink-display/">This eBook reader has an 8 inch foldable E Ink display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-ebook-reader-has-an-8-inch-foldable-e-ink-display/>
+
+---
+
+## Hey, I Think Someone Might Be a Real Dummy
+
+date: 2025-04-17, updated: 2025-04-17, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/17/hey-i-think-someone-might-be-a-real-dummy/>
+
+---
+
+## Unaccompanied and Unrepresented
+
+date: 2025-04-17, from: Guy Kawasaki blog
+
+Inside Rachel Rutter's fight for immigrant youth. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/unaccompanied-and-unrepresented>
+
+---
+
+## AOKZOE A1X handheld gaming PC supports up to a Ryzen AI 9 HX 370 processor (crowdfunding)
+
+date: 2025-04-17, from: Liliputing
+
+<p>The AOKZOE A1X is a handheld gaming PC with an 8 inch, 1920 x 1200 pixel, 120 Hz display, a 72.7 Wh battery, supports for up to 64GB of RAM, and a choice of AMD Ryzen 7 8840U Hawk Point or Ryzen AI 9 HX 370 Strix Point processor options. While retail prices are expected [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aokzoe-a1x-handheld-gaming-pc-supports-up-to-a-ryzen-ai-9-hx-370-processor-crowdfunding/">AOKZOE A1X handheld gaming PC supports up to a Ryzen AI 9 HX 370 processor (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aokzoe-a1x-handheld-gaming-pc-supports-up-to-a-ryzen-ai-9-hx-370-processor-crowdfunding/>
+
+---
+
+## OpenAI’s o3 and Tyler Cowen’s Misguided AGI Fantasy
+
+date: 2025-04-17, from: Gary Marcus blog
+
+AI can only improve if its limits as well as its strengths are faced honestly 
+
+<br> 
+
+<https://garymarcus.substack.com/p/openais-o3-and-tyler-cowens-misguided>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+GOP Sen. Murkowski on Trump’s sweeping changes: ‘We are all afraid.’ 
+
+<br> 
+
+<https://www.washingtonpost.com/politics/2025/04/17/sen-lisa-murkowski-trump-administration/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzQ0ODYyNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzQ2MjQ0Nzk5LCJpYXQiOjE3NDQ4NjI0MDAsImp0aSI6ImU3ZmUyNjNhLWY1NTUtNDU0NC05ZjE0LTA2OGQ0YTQ2MjFlYSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI1LzA0LzE3L3Nlbi1saXNhLW11cmtvd3NraS10cnVtcC1hZG1pbmlzdHJhdGlvbi8ifQ.aYrgiEDE1Lh04rzW5VD9g3hy95PM1GZLHCXbl5D0VIQ>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+Bessent urges caution as Trump rages against Powell. Firing Powell would be the end of the dollar. Everyone would dump dollars as fast as they can. And just <em>talking</em> about it might be enough. 
+
+<br> 
+
+<https://www.politico.com/news/2025/04/17/trump-powell-fired-fed-00295552>
+
+---
+
+## ARC Optimization vs. -fstack-protector
+
+date: 2025-04-17, from: Michael Tsai
+
+Samuel Giddins: After months of painstaking work, we&#8217;ve got our apps building, and most of our tests building, and almost most of them passing.Except for some tests that use test fixtures. And assert that those test fixtures get deallocated. And they passed in Xcode. And failed when run via Bazel.[&#8230;]However, due to the way the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/17/arc-optimization-vs-fstack-protector/>
+
+---
+
+## Performance of the Python 3.14 Tail-Call Interpreter
+
+date: 2025-04-17, from: Michael Tsai
+
+Nelson Elhage (via Hacker News): Unfortunately, as I will document in this post, these impressive performance gains turned out to be primarily due to inadvertently working around a regression in LLVM 19. When benchmarked against a better baseline (such GCC, clang-18, or LLVM 19 with certain tuning flags), the performance gain drops to 1-5% or [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/17/performance-of-the-python-3-14-tail-call-interpreter/>
+
+---
+
+## Amazon Web Services Dark Patterns
+
+date: 2025-04-17, from: Michael Tsai
+
+Jeff Johnson: As far as I can tell, the confusingly named Aurora PostgreSQL is not actually PostgreSQL but rather an Amazon-specific database designed with one overriding goal: to be infinitely more expensive than PostgreSQL, which is free. In any case, the AWS Free Tier details give the impression to unsuspecting new users that PostgreSQL is [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/17/amazon-web-services-dark-patterns/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+Wesleyan president says Trump is not protecting Jewish students. 
+
+<br> 
+
+<https://www.npr.org/2025/04/17/nx-s1-5366667/trump-defunding-university-antisemitism-wesleyan>
+
+---
+
+## Quoting Jon Haidt and Zach Rausch
+
+date: 2025-04-17, updated: 2025-04-17, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.afterbabel.com/p/industrial-scale-harm-tiktok"><p>We (Jon and Zach) teamed up with the Harris Poll to confirm this finding and extend it. We <a href="https://theharrispoll.com/briefs/gen-z-social-media-smart-phones/">conducted a nationally representative survey</a> of 1,006 Gen Z young adults (ages 18-27). We asked respondents to tell us, for various platforms and products, if they wished that it “was never invented.” For Netflix, Youtube, and the internet itself, relatively few said yes to that question (always under 20%). We found much higher levels of regret for the dominant social media platforms: Instagram (34%), Facebook (37%), Snapchat (43%), and the most regretted platforms of all: TikTok (47%) and X/Twitter (50%).</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.afterbabel.com/p/industrial-scale-harm-tiktok">Jon Haidt and Zach Rausch</a>, TikTok Is Harming Children at an Industrial Scale</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/social-media">social-media</a>, <a href="https://simonwillison.net/tags/twitter">twitter</a>, <a href="https://simonwillison.net/tags/tiktok">tiktok</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/17/jon-haidt-and-zach-rausch/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+Trump Needs Someone to Blame. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/04/trump-federal-reserve-jerome-powell/682489/?gift=f35zZN0v_gDFE8xNwlQAHSK1TfrHWQA0GddSg4WC9kM&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## The 250th Anniversary of the Battles of Lexington and Concord
+
+date: 2025-04-17, from: National Archives, Text Message blog
+
+Today’s post was written by Matthew DiBiase, an Archives Specialist from the National Archives at Philadelphia (who in his spare time doubles as a podcaster and sports history author). The documents featured here are from the Interim Report of the Boston National Historic Sites Commission (led by Congressman and future Speaker of the House Thomas &#8230; <a href="https://text-message.blogs.archives.gov/2025/04/17/the-250th-anniversary-of-the-battles-of-lexington-and-concord/" class="more-link">Continue reading <span class="screen-reader-text">The 250th Anniversary of the Battles of Lexington and Concord</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/04/17/the-250th-anniversary-of-the-battles-of-lexington-and-concord/>
+
+---
+
+## Leaked: Palantir’s Plan to Help ICE Deport People
+
+date: 2025-04-17, from: 404 Media Group
+
+Internal Palantir Slack chats and message boards obtained by 404 Media show the contracting giant is helping find the location of people flagged for deportation, that Palantir is now a “more mature partner to ICE,” and how Palantir is addressing employee concerns with discussion groups on ethics. 
+
+<br> 
+
+<https://www.404media.co/leaked-palantirs-plan-to-help-ice-deport-people/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+American doctor receives email from immigration officials telling her to leave the country immediately. 
+
+<br> 
+
+<https://www.nbcnews.com/news/us-news/doctor-email-immigration-leave-country-rcna201698?taid=6801097d07fad10001c18175>
 
 ---
 
@@ -55,12 +330,12 @@ Massive Blue is helping cops deploy AI-powered social media bots to talk to peop
 
 ---
 
-## Build a home recording studio with Raspberry Pi 500: choosing your equipment
+## How to build a home recording studio with Raspberry Pi 500: choosing your equipment
 
 date: 2025-04-17, from: Raspberry Pi News (.com)
 
 <p>Here’s what you need to know to equip your Raspberry Pi 500 home recording studio, from micro to medium budgets.</p>
-<p>The post <a href="https://www.raspberrypi.com/news/build-a-home-recording-studio-with-raspberry-pi-500-choosing-your-equipment/">Build a home recording studio with Raspberry Pi 500: choosing your equipment</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-a-home-recording-studio-with-raspberry-pi-500-choosing-your-equipment/">How to build a home recording studio with Raspberry Pi 500: choosing your equipment</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
  
 
 <br> 

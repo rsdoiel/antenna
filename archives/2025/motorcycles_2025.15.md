@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-04-17 06:07:42
+updated: 2025-04-17 14:08:23
 ---
 
 # motorcycles
 
-(date: 2025-04-17 06:07:42)
+(date: 2025-04-17 14:08:23)
+
+---
+
+## Check Out This Wild Ducking Hunting Can-Am Defender Setup
+
+date: 2025-04-17, from: Ride Apart, Electric Motorcycle News
+
+24.7Hunt's crew know how to outfit a rig.  
+
+<br> 
+
+<https://www.rideapart.com/news/756876/can-am-defender-max-limited-utv-duck-hunting-rig/>
+
+---
+
+## Washington’s E-Bike Rebate Program Is Now Accepting Applications
+
+date: 2025-04-17, from: Ride Apart, Electric Motorcycle News
+
+This is perfect for folks on a tight budget looking to make the shift to electric mobility.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756765/washington-ebike-rebate-program-applications-open/>
 
 ---
 

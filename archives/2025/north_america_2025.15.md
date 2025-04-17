@@ -1,11 +1,137 @@
 ---
 title: north america
-updated: 2025-04-17 06:07:35
+updated: 2025-04-17 14:08:16
 ---
 
 # north america
 
-(date: 2025-04-17 06:07:35)
+(date: 2025-04-17 14:08:16)
+
+---
+
+## Carlos Eduardo Espina on Trump's World of Confusion and Fear
+
+date: 2025-04-17, from: The Contrarian
+
+"There's a black hole that people are being sent into" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161490240/683a6c3ab79fae16a145b30f7f5883c1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161490240/683a6c3ab79fae16a145b30f7f5883c1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/carlos-eduardo-espina-on-trumps-world>
+
+---
+
+## Putin: A Short-Timer?
+
+date: 2025-04-17, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/putin-a-short-timer>
+
+---
+
+## The attack on Shapiro's home didn't happen in a vacuum
+
+date: 2025-04-17, from: The Contrarian
+
+Antisemitism is a threat to democracy. We must confront it and stamp it out. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-attack-on-shapiros-home-didnt>
+
+---
+
+## Why does business care about democracy? Daniella Ballou-Aares explains
+
+date: 2025-04-17, from: The Contrarian
+
+It takes all aspects of society to fight back against autocracy 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161488852/673d8490fe9da17e874cb13df864557d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161488852/673d8490fe9da17e874cb13df864557d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/why-does-business-care-about-democracy>
+
+---
+
+## The 5% Solution: California’s Push for Rent Caps
+
+date: 2025-04-17, from: Capital and Main
+
+<p>Assemblymember Ash Kalra’s bill would improve the Tenant Protection Act. Landlords and developers have declared war.</p>
+<p>The post <a href="https://capitalandmain.com/the-5-solution-californias-push-for-rent-caps">The 5% Solution: California’s Push for Rent Caps</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-5-solution-californias-push-for-rent-caps>
+
+---
+
+##  Defunding The Big Tech Police 
+
+date: 2025-04-17, from: The Lever News
+
+ The Trump administration has ordered antitrust prosecutors to shut down their San Francisco field office as the president’s Silicon Valley allies seek to avoid regulation.  
+
+<br> 
+
+<https://www.levernews.com/defunding-the-big-tech-police/>
+
+---
+
+##  Biden’s Soft-On-Corporate-Crime Policy Paved The Way For Trump 
+
+date: 2025-04-17, from: The Lever News
+
+ Under Biden’s administration, prosecution of white collar crime reached a record low. Now, it’s headed for rock bottom.  
+
+<br> 
+
+<https://www.levernews.com/bidens-soft-on-corporate-crime-policy-paved-the-way-for-trump/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-17, from: The Contrarian
+
+Thursday: Protests in Maryland and at a Salvadoran consulate in support of Kilmar Abrego Garc&#237;a, plans for a second economic boycott, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Have You No Posters?
+
+date: 2025-04-17, from: The Contrarian
+
+We've got you covered! Click here for a free download of the marvelous Bonnie Siegler's protest posters 
+
+<br> 
+
+<https://contrarian.substack.com/p/have-you-no-posters>
+
+---
+
+## Coffee with The Contrarians 04/17
+
+date: 2025-04-17, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/17 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0417>
 
 ---
 
@@ -18,18 +144,6 @@ The tariffs are not the only regressive, economically insane move that's been pr
 <br> 
 
 <https://contrarian.substack.com/p/fiscal-disaster-awaits>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-17, from: The Contrarian
-
-Wednesday: Americans demand the return of Kilmar Abrego Garc&#237;a, plus protests in Florida, California, Arizona, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

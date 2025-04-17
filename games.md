@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-04-17 06:07:39
+updated: 2025-04-17 14:08:21
 ---
 
 # games
 
-(date: 2025-04-17 06:07:39)
+(date: 2025-04-17 14:08:21)
+
+---
+
+## PowerWash Simulator just dropped a free update that expands the lore
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+The latest free update to PowerWash Simulator doesn’t take place in the Shrek universe or the Warhammer 40,000 universe. It’s completely home-cooked lore in The Muckingham Files 5 DLC that dropped today. This free bonus job tasks you with cleaning up a dessert parlor in the town the game is set in. The description claims [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/560832/powerwash-simulator-just-dropped-a-free-update-that-expands-the-lore>
+
+---
+
+## Get the Arcane Season 1 Steelbook for its lowest price yet
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+Many of us have moved on to the second season of Arcane, the Netflix animated seried inspired by League of Legends. But, if you’d like to make the inaugural season a permanent part of your collection, you can currently pick up the 4K Blu-ray of Season one of Arcane for its lowest price ever on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/560743/arcane-season-one-steelbook-sale>
+
+---
+
+## Fortnite’s Arcane skins won’t be coming back for ‘the foreseeable future,’ Riot exec says
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+Bad news for everyone hoping to see skins from League of Legends television adaptation Arcane return to Fortnite: You’re going to be waiting a long time, if not forever. “We’ve had a lot of conversations with Epic about what might be possible,” League of Legends co-creator and Riot Games co-chairman Marc Merrill said on X [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/560645/fortnite-arcane-league-of-legends-jinx-vi-skins-cosmetics>
+
+---
+
+## The team behind FTL and Into the Breach is making a Playdate game
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+During a Playdate Update livestream Thursday, Panic announced plans for a second season of games for its stylish black and white portable console with a crank — and those include a new game from Subset Games, the team behind FTL: Faster than Light and Into the Breach. Fulcrum Defender is a single-screen defense game where [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/560659/subset-games-announces-playdate-game>
+
+---
+
+## We still don’t know how you unlock all those goofy Mario Kart World characters
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+Mario Kart World is huge, featuring a ton of new and old courses scattered across an interconnected open world. The biggest selling point, however, has to be the massive roster of playable characters, which ranges from obvious choices like Mario, Luigi, and Princess Peach to obscure enemies like Super Mario Sunshine’s Cataquacks and stage hazards [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/560534/mario-kart-world-unlock-process>
+
+---
+
+## All permanent additions in Blue Prince and how to unlock them
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+There are six permanent additions in Blue Prince that can add helpful upgrades to the Mt. Holly estate. Each one gives you a benefit — like extra steps or additional rooms — but they all require work to unlock. Our Blue Prince guide will show you how to unlock all six permanent additions, help you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/558162/permanent-additions-all-upgrades-how-to-unlock>
+
+---
+
+## Trump tariffs may stop Gloomhaven from reaching retail stores in the US
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+It’s no exaggeration to say that the release of Gloomhaven, the campaign-in-a-box board game, was a watershed moment for the tabletop industry in 2017. Here was a high-concept physical product that weighed close to 18 pounds. Inside were modular tiles and plastic miniatures, maps and secret envelopes, all adding up to an experience to be [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/560345/gloomhaven-second-edition-trump-tariffs-cnn>
+
+---
+
+## How to ‘Quickly break the bounds of space and find love’ in Vampire Survivors
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+“Quickly break the bounds of space and find love” is the hint for a secret added in Patch 1.13 for Vampire Survivors, the same patch that added the Gaze of Gaea weapon and The Coop map. This secret requires quite a bit of finagling, and — depending on the characters you have access to — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/vampire-survivors-guide/559647/quickly-break-bounds-space-find-love-secret-how-to>
 
 ---
 

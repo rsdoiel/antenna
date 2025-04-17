@@ -1,11 +1,59 @@
 ---
 title: journalism
-updated: 2025-04-17 06:07:40
+updated: 2025-04-17 14:08:21
 ---
 
 # journalism
 
-(date: 2025-04-17 06:07:40)
+(date: 2025-04-17 14:08:21)
+
+---
+
+## Crash Capital: Why Demand for a Los Angeles Car Accident Lawyer Is Surging Amid Record-High Collision Rates
+
+date: 2025-04-17, from: The Sundail (CSUN Student Newspaper)
+
+Los Angeles has long been synonymous with sprawling freeways, dense traffic, and a car-centric lifestyle. But in recent years, the city’s streets have become more than just congested &#8211; they’ve... 
+
+<br> 
+
+<https://sundial.csun.edu/192887/sundialbrandstudio/sundial-marketplace/crash-capital-why-demand-for-a-los-angeles-car-accident-lawyer-is-surging-amid-record-high-collision-rates/>
+
+---
+
+## What Are Meme Coins? A Beginner’s Guide to Trade Meme coins
+
+date: 2025-04-17, from: The Sundail (CSUN Student Newspaper)
+
+In the fast-paced and often unpredictable world of cryptocurrency, few digital assets have captured as much public fascination as meme coins. These coins have evolved from niche tokens into serious... 
+
+<br> 
+
+<https://sundial.csun.edu/192883/sundialbrandstudio/sundial-marketplace/what-are-meme-coins-a-beginners-guide-to-trade-meme-coins/>
+
+---
+
+## The Rise of AI in Professional Services: Bridging Innovation and Efficiency
+
+date: 2025-04-17, from: The Sundail (CSUN Student Newspaper)
+
+Artificial intelligence (AI) is transforming how professional services operate across industries. Once merely confined to tech discussions, AI has become a mainstream tool for enhancing efficiency and driving innovation. Businesses... 
+
+<br> 
+
+<https://sundial.csun.edu/192879/sundialbrandstudio/sundial-marketplace/the-rise-of-ai-in-professional-services-bridging-innovation-and-efficiency/>
+
+---
+
+## Kid’s Smart Watch: A Better Way to Introduce Technology
+
+date: 2025-04-17, from: The Sundail (CSUN Student Newspaper)
+
+Imagine growing up as a child in this brave new digital society where video calls with loved ones, online homework assignments, gaming, or social media have all been normalized and... 
+
+<br> 
+
+<https://sundial.csun.edu/192873/sundialbrandstudio/sundial-marketplace/kids-smart-watch-a-better-way-to-introduce-technology/>
 
 ---
 
@@ -95,7 +143,7 @@ Avalon Dwight remembers the moment she opened her admission portal.
 
 date: 2025-04-17, from: The Daily Bruin (UCLA Student Newspaper)
 
-In the inaugural episode of Daily Bruin Spotlight, Arts editors dive into the latest in music, film and lifestyle at UCLA and beyond. From Beyonc&#233;&#8217;s Cowboy Carter Tour and Coachella predictions to a tribute for filmmaker David Lynch and highlights from UCLA&#8217;s Dance Marathon, hosts Reid Sperisen, Martin Sevcik, Aisosa Onaghise and Jillian Baker break down the biggest stories shaping arts and culture this April. 
+In the inaugural episode of Daily Bruin Spotlight, Arts editors dive into the latest in music, film and lifestyle at UCLA and beyond. From Beyoncé’s Cowboy Carter Tour and Coachella predictions to a tribute for filmmaker David Lynch and highlights from UCLA’s Dance Marathon, hosts Reid Sperisen, Martin Sevcik, Aisosa Onaghise and Jillian Baker break down the biggest stories shaping arts and culture this April. 
 
 <br> 
 

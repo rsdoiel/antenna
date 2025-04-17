@@ -1,11 +1,91 @@
 ---
 title: writing
-updated: 2025-04-17 06:07:39
+updated: 2025-04-17 14:08:20
 ---
 
 # writing
 
-(date: 2025-04-17 06:07:39)
+(date: 2025-04-17 14:08:20)
+
+---
+
+## New Books Video for April 15th, 2025 is Live!
+
+date: 2025-04-17, from: Locus Magazine
+
+<p>Welcome back for another week of the top new releases in the SF, Fantasy, Horror, and YA fields! We upload weekly, so if you wanna keep up-to-date on future releases, and support what we do, come by our YouTube channel and subscribe! We wouldn&#8217;t want you to miss out on these fantastic books!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/04/new-books-video-for-april-15th-2025-is-live/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/new-books-video-for-april-15th-2025-is-live/>
+
+---
+
+## 2025 Premio Italia Winners
+
+date: 2025-04-17, from: Locus Magazine
+
+<p>Winners for the 2025 Premio Italia Awards have been announced, honoring accomplishments in the field of Italian fantasy and science fiction.</p>
+<div class="mynomorebulletlist">
+<p><strong>International Novel</strong></p>
+<ul>
+<li>WINNER:  <strong>L&#8217;eredità di Charlie [Starter Villain]</strong>, John Scalzi (Fanucci Editore)</li>
+</ul>
+<ul>
+<li><strong>Matter</strong>, Iain M. Banks (Mondadori)</li>
+<li><strong>Il libro dell&#8217;uomo [Birthright: The Book of Man]</strong>, Mike Resnick (Mondadori)</li>
+<li><strong>Vendetta [Machine Vendetta]</strong>, Alastair Reynolds (Mondadori)</li>
+<li><strong>Annientamento [The Annihilation Score]</strong>, Charles Stross (Mondadori)</li>
+</ul>
+<p><strong>Science Fiction Novel </strong></p></div> <a href="https://locusmag.com/2025/04/2025-premio-italia-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-premio-italia-winners/>
+
+---
+
+## Write On: 'NCIS: Origins' Showrunners David J. North and Gina Lucita Monreal
+
+date: 2025-04-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-ncis-origins-showrunners-david-j-north-and-gina-lucita-monreal" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20NCIS%20Origins%20Showrunners%20David%20J.%20North%20and%20Gina%20Lucita%20Monreal.png" alt="Write On logo of a cell phone with headphones around it featuring the poster of the show NCIS: Origins" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“If you can make the twists [in the story] hit your character in an emotional way and set up their emotional arc, then when the case twist intersects with them, if it’s hitting them in the deepest way, in the most unexpected way, maybe – then you’ve done your job. So it’s getting that emotional arc to really bounce off of the crime story in the most impactful way,” says Gina Lucita Monreal about the most powerful way to fuse together story and character.&nbsp;<br><br>On today’s episode, we talk with David J. North and Gina Lucita Monreal, showrunners and creators of the CBS show <em>NCIS: Origins</em> that brings a fresh perspective to one of television’s most beloved franchises as it dives into the early career of a young Leroy Jethro Gibbs (played by Mark Harmon in the original <em>NCIS</em>). Set in the 90s, <em>NCIS: Origins</em> taps into the nostalgia of the era, from great music from bands like Pearl Jam to life with pagers and payphones.&nbsp;<br><br>North and Monreal discuss getting to know each other a decade ago writing for the original <em>NCIS</em>, and how now they are pushing the boundaries of procedural television by creating more complex, character-driven storylines.<br><br>“The biggest challenge for us isn’t the going back to the 90s. I mean, I think for a lot of procedural writers, that would have been a challenge, that you’re losing the DNA and the fingerprints, all that stuff. But for Gina and I, that’s not really ever the way we leaned into <em>NCIS</em> or wrote the show. Our episodes were definitely more about the characters, so that’s what we looked forward to. And obviously in each episode of <em>Origins</em>, it’s very character based. I would say the most difficult part of going back is just sticking to canon, knowing it. Weaving in and out, trying to, when you hit something and saying, ‘Okay, well, we know this happened in season three of <em>NCIS</em>,’ so trying to honor it while also using it to our advantage – that’s difficult.&nbsp;<br>We get beat up a lot on X, and sometimes we have to just pick a path,” says North about the challenges of writing beloved characters with a lot of well-known history.&nbsp;<br><br>To learn more about North and Monreal’s writing process and hear their advice for emerging TV writers, listen to the podcast.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-ncis-origins-showrunners-david-j-north-and-gina-lucita-monreal>
+
+---
+
+## When You Feel Like Quitting Screenwriting — Do This Instead
+
+date: 2025-04-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/when-you-feel-like-quitting-screenwriting-do-this-instead" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Vintage%20typewriter%20with%20the%20words%20Dont%20Quit%20on%20the%20page.png" alt="Vintage typewriter with the words 'Don't Quit' on the page" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Pursuing a screenwriting dream and career as a professional screenwriter can be difficult. It’s often a perilous journey at first, wrought with rejection after rejection that can last for years. But for those who stick with it and brave through the adversity, trials, and tribulations, make no mistake, the dream can come true. It happens to many each and every year.&nbsp;<br><br>You just need to persevere through the difficult times — and use the knowledge and experience gained to evolve as a screenwriter.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/when-you-feel-like-quitting-screenwriting-do-this-instead>
 
 ---
 

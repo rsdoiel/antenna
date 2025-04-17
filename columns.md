@@ -1,11 +1,227 @@
 ---
 title: columns
-updated: 2025-04-17 06:07:38
+updated: 2025-04-17 14:08:20
 ---
 
 # columns
 
-(date: 2025-04-17 06:07:38)
+(date: 2025-04-17 14:08:20)
+
+---
+
+##  Matt Webb&#8217;s interesting observations on running his first marathon. &#8220;There are new... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046657-matt-webbs-interesting-ob>
+
+---
+
+## April 16, 2025
+
+date: 2025-04-17, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161561009/f7a5cbd4cdf2e9a041b49acc3535d5f1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161561009/f7a5cbd4cdf2e9a041b49acc3535d5f1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-16-2025-e55>
+
+---
+
+##  So You Want to Be a Dissident? For many, the US has... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046656-so-you-want-to-be>
+
+---
+
+##  Historians: Quibbling Over Exact Definition Of Concentration Camp Sign Of Healthy Society.... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046654-historians-quibbling-over>
+
+---
+
+##  &#8220;Toddlers (which includes defensive bureaucrats, bullies, flat earthers, [&#8230;] and radio talk... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046650-toddlers-which-includes-d>
+
+---
+
+## Ceding the work of interpretation
+
+date: 2025-04-17, from: Tracy Durnell Blog
+
+John Warner writes about how we&#8217;ve culturally shifted from valuing individual curation and criticism to preferring collective consensus: One part of my theory is that across many dimensions we have been acculturated to value the aggregated over the individual, and defaulting to the average consensus has become comfortable in its familiarity&#8230; Over time, we lose [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/17/ceding-the-work-of-interpretation/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-17, from: Dave Winer's Scripting News)
+
+I like that Powell is telling Trump he won't go. I wish Obama had had the guts to say that to McConnell when he wouldn't hold hearings on Garland. "Well if you won't take a vote, we'll take that as consent," says the President. "And you can quote me on that." In a televised event Obama himself would walk Garland over to his office at the Supreme Court and administer the oath and let him take his seat. I don't know about you but I would have felt great about America then. We're finished being such pussycats. 
+
+<br> 
+
+<http://scripting.com/2025/04/17.html#a164921>
+
+---
+
+## Age Verification Using Facial Scans
+
+date: 2025-04-17, updated: 2025-04-17, from: Bruce Schneier blog
+
+<p>Discord is <a href="https://gizmodo.com/discord-begins-testing-facial-scans-for-age-verification-2000590188"> testing</a> the feature:</p>
+<blockquote><p>&#8220;We&#8217;re currently running tests in select regions to age-gate access to certain spaces or user settings,&#8221; a spokesperson for Discord said in a statement. &#8220;The information shared to power the age verification method is only used for the one-time age verification process and is not stored by Discord or our vendor. For Face Scan, the solution our vendor uses operates on-device, which means there is no collection of any biometric information when you scan your face. For ID verification, the scan of your ID is deleted upon verification.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/age-verification-using-facial-scans.html>
+
+---
+
+##  Harry Potter and the Problematic Author, a fanzine &#8220;on loving flawed media... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046651-harry-potter-and-the-prob>
+
+---
+
+##  The American Revolution by Ken Burns 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-american-revolution-by-ken-burns>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2022/08/20/brilliantFriend.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This <a href="https://osteophage.neocities.org/essays/twitterlike">piece</a> echoes what I’ve been saying. Twitter was a fine start, in 2006, but today it’s clear a lot of its rules and limits were mistakes. 19 years later it’s ridiculous that Bluesky and Mastodon repeat those mistakes. I love the term he uses, the "shape" of Twitter. Each decision we make in developing our means of discourse <i>shapes</i> the discourse. And with the character limit and the inability to edit, and the incentives are all wrong (I can tap into your follower flow without your permision just by posting a reply) it makes almost all twitter-like discourse spam or abusive. I'm planning a different structure for discourse in the world shaped by WordLand. A reply will only be visible to the person who you're replying to. If <i>they</i> want others to see it, they can make it public. It's their choice. So you probably should be respectful if you're looking for a flow boost. You can turn off all discourse if you want, giving the ability to finish a thought. We've learned so much about this in the 19 years since Twitter started. It's time to break out of the limits. BTW, that's what my <a href="https://textcasting.org/">textcasting</a> doc was all about. 
+
+<br> 
+
+<http://scripting.com/2025/04/17.html#a144359>
+
+---
+
+## MX Linux 23.6 brings Debian freshness, without the systemd funk
+
+date: 2025-04-17, updated: 2025-04-17, from: Liam Proven's articles at the Register
+
+<h4>Bookworm 12.10-based release is a few steps ahead of upstream</h4>
+      <p>MX Linux 23.6 is here, taking the baseline of Debian 12.10 and adding some selected tweaks and updates of its own.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/17/mx_linux_236/>
+
+---
+
+##  About those stories of the detection of a possible molecular signature of... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046652-about-those-stories-of-th>
+
+---
+
+## Today’s Tabs
+
+date: 2025-04-17, from: Doc Searls (at Harvard), New Old Blog
+
+Overheard: &#34;AI is bullshit&#39;s superpower.&#34; Big topic at IIW last week: What MCP’s Rise Really Shows: A Tale of Two Ecosystems. This may also relate:  AI Agents x Law Initiative—A New Stanford and Industry Initiative Launched Yesterday. The best take on Adolescence I&#39;ve seen so far. HT Dave Winer. My photos from Day One and Day Two [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/04/17/todays-tabs-2/>
+
+---
+
+## The (almost) perfect mini NAS for my mini rack
+
+date: 2025-04-17, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">The (almost) perfect mini NAS for my mini rack</span>
+
+            <p>The <a href="https://amzn.to/3Gb0fWG">GMKtec G9 N150 4-bay NVMe mini PC</a> is $240 and the <em>nearly</em> perfect NAS for my mini rack:</p>
+
+<p></p>
+
+<p>It has an Intel N150 4-core SoC with halfway-decent Intel UHD integrated graphics, 12 GB of LPDDR5 RAM, dual 2.5 Gbps Ethernet, WiFi 6, and the best part: 4 integrated M.2 NVMe slots.</p>
+
+<p>Granted, splitting up the 9 PCIe Gen 3 lanes limits the performance a bit, but there are some things I love about this design:</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">April 17, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/almost-perfect-mini-nas-my-mini-rack>
+
+---
+
+##  &#8220;AI discovered wholly new proteins before it could count the &#8216;r&#8217;s in... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046637-ai-discovered-wholly-new->
+
+---
+
+## Spending More to Get Less Is Good?
+
+date: 2025-04-17, updated: 2025-04-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html?unlocked_article_code=1.AU8.L2Ko.yUXIIfzson-2&smid=url-share>
 
 ---
 
@@ -219,9 +435,9 @@ date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
 
 ---
 
-## Figma Files to Go Public
+## Figma Files for IPO
 
-date: 2025-04-16, updated: 2025-04-16, from: Daring Fireball
+date: 2025-04-16, updated: 2025-04-17, from: Daring Fireball
 
  
 

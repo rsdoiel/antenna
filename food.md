@@ -1,11 +1,99 @@
 ---
 title: food
-updated: 2025-04-17 06:07:44
+updated: 2025-04-17 14:08:25
 ---
 
 # food
 
-(date: 2025-04-17 06:07:44)
+(date: 2025-04-17 14:08:25)
+
+---
+
+## 19 Recipes With Harissa
+
+date: 2025-04-17, from: Bon Appetet
+
+This spiced chili paste adds life to slow-roasted salmon, eggplant parm, one-pan chicken, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/recipes-with-harissa>
+
+---
+
+## Marley Spoon Review 2025: A Meal Kit for People Who Like to Cook
+
+date: 2025-04-17, from: Bon Appetet
+
+It’s our favorite all-around meal kit for a reason. 
+
+<br> 
+
+<https://www.bonappetit.com/story/marley-spoon-review>
+
+---
+
+## These Silicone Lids Stretch to Any Size—And Keep Leftovers Fresh for Days
+
+date: 2025-04-17, from: Taste of Home
+
+<p>Say goodbye to plastic wrap and keep leftovers fresh for days with Stasher silicone stretch lids. These lids stretch to almost any size!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stasher-silicone-stretch-lids/">These Silicone Lids Stretch to Any Size—And Keep Leftovers Fresh for Days</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stasher-silicone-stretch-lids/>
+
+---
+
+## NCA Report: Coffee Beats Bottled Water as Top Purchased Beverage
+
+date: 2025-04-17, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee brewer" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two-thirds of United States adults who drank something other than tap water within the past day drank coffee, according to the latest biannual coffee market report from the U.S. National... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/17/nca-report-coffee-beats-bottled-water-as-top-purchased-beverage/>
+
+---
+
+## Select Refurbished KitchenAid Appliances Are Over 50% Off (And Yes, There Are Stand Mixers on Sale)
+
+date: 2025-04-17, from: Taste of Home
+
+<p>Enjoy serious savings on new mixers, toasters, food choppers and more when you shop the April KitchenAid sale.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kitchenaid-sale-2025/">Select Refurbished KitchenAid Appliances Are Over 50% Off (And Yes, There Are Stand Mixers on Sale)</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kitchenaid-sale-2025/>
+
+---
+
+## The 16th Annual Sprudgie Awards Winners And Honorees
+
+date: 2025-04-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Congratulations to all the winners! 
+
+<br> 
+
+<https://sprudge.com/the-16th-annual-sprudgie-awards-winners-and-honorees-314133.html>
+
+---
+
+## The Best Ice Cream Makers for Quick and Delicious Frozen Treats (2025)
+
+date: 2025-04-17, from: Bon Appetet
+
+It's a tough job, but someone had to do it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-ice-cream-maker>
 
 ---
 
@@ -25,7 +113,7 @@ At Marcus Addis, atop Ethiopia’s tallest building, one of the world’s most s
 
 date: 2025-04-17, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Adelitas Coffee Co Wichita downtown cafe-1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1.jpg 1233w" sizes="(max-width: 620px) 100vw, 620px" /></div>Succeeding in specialty coffee requires a fighting spirit, with battles big and small to be fought on a daily basis. For seasoned roaster and father of five girls Oscar Pineda... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Adelitas Coffee Co Wichita downtown cafe-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1.jpg 1233w" sizes="(max-width: 620px) 100vw, 620px" /></div>Succeeding in specialty coffee requires a fighting spirit, with battles big and small to be fought on a daily basis. For seasoned roaster and father of five girls Oscar Pineda... 
 
 <br> 
 
@@ -45,15 +133,19 @@ date: 2025-04-17, from: The Sprudge
 
 ---
 
-## The Best Ice Cream Makers for Quick and Delicious Frozen Treats (2025)
+## Spinach and Feta Quinoa
 
-date: 2025-04-17, from: Bon Appetet
+date: 2025-04-17, from: Closet Cooking
 
-It's a tough job, but someone had to do it. 
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2010/03/Spinach-and-Feta-Quinoa-1200-3440.jpg"/></div>
+<p>A Greek style quinoa with spinach, feta and plenty of fresh herbs! Spinach and feta quinoa is one of my favourite side dishes and when I made it recently I thought I would take the opportunity to update the recipe and photos! This dish is based on spanakorizo (Greek spinach rice) with the rice replaced...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/spinach-and-feta-quinoa-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/spinach-and-feta-quinoa-salad/">Spinach and Feta Quinoa</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
 
 <br> 
 
-<https://www.bonappetit.com/story/best-ice-cream-maker>
+<https://www.closetcooking.com/spinach-and-feta-quinoa-salad/>
 
 ---
 
@@ -61,7 +153,7 @@ It's a tough job, but someone had to do it.
 
 date: 2025-04-17, from: Bon Appetet
 
-Part of the luxury Spanish fashion house's spring collection, the purse is shaped like an heirloom tomato and speaks to the collective power of a good internet moment—and a gorgeous piece of produce. 
+Part of the luxury Spanish fashion house’s spring collection, the purse is shaped like an heirloom tomato and speaks to the collective power of a good internet moment—and a gorgeous piece of produce. 
 
 <br> 
 
@@ -255,7 +347,7 @@ date: 2025-04-16, from: The Sprudge
 
 date: 2025-04-16, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-620x400.jpg" class="attachment-large size-large wp-post-image" alt="cargo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-620x400.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-768x495.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The European Commission yesterday announced changes to the administration of the new European Union deforestation-free supply chains law (EUDR), including softened requirements for due diligence reporting.&#160; The Commission said the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-620x400.jpg" class="attachment-large size-large wp-post-image" alt="cargo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-620x400.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo-768x495.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/cargo.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The European Commission yesterday announced changes to the administration of the new European Union deforestation-free supply chains law (EUDR), including softened requirements for due diligence reporting.&#160; The Commission said the... 
 
 <br> 
 

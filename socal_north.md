@@ -1,23 +1,112 @@
 ---
 title: socal north
-updated: 2025-04-17 06:07:35
+updated: 2025-04-17 14:08:17
 ---
 
 # socal north
 
-(date: 2025-04-17 06:07:35)
+(date: 2025-04-17 14:08:17)
 
 ---
 
-## Best things to do this weekend in LA and SoCal: April 18 - 20
+## Why Trestles — known for natural beauty and a long walk to get there — will host Olympic surfing
 
 date: 2025-04-17, updated: 2025-04-17, from: The LAist
 
-Easter egg hunts, AC/DC at the Rose Bowl, Baths at the Echo, a Peep show, new trails open at Griffith Park and Easter brunches galore. 
+Lower Trestles beat out Huntington Beach to host surfing’s third Olympic appearance. 
 
 <br> 
 
-<https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-april-18-20>
+<https://laist.com/news/los-angeles-activities/2028-olympics-surfing-venue-lower-trestles-san-diego-county-san-clemente>
+
+---
+
+## Court denies White House appeal of 'shocking' Abrego Garcia deportation case
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+The Fourth Circuit ruling against the Trump administration came just one day after it appealed a lower court order in the Abrego Garcia case, a remarkably short time for a court to reach a decision. 
+
+<br> 
+
+<https://laist.com/news/court-denies-white-house-appeal-abrego-garcia-deportation-case>
+
+---
+
+## The Lyrid meteor shower is expected to dazzle the night sky beginning this week
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+The Lyrid meteor shower will reach a peak later this month, but stargazers can catch a first glimpse beginning this week. 
+
+<br> 
+
+<https://laist.com/news/lyrid-meteor-shower-expected-beginning-this-week>
+
+---
+
+## Honoring the Life and Legacy of Louis E. Brathwaite, a Founding Father of Santa Clarita
+
+date: 2025-04-17, from: City of Santa Clarita
+
+<p>By Councilmember Patsy Ayala &#8220;It always seems impossible until it’s done.&#8221; — Nelson Mandela Santa Clarita’s rich history is built on the vision and dedication of those who laid its foundation, shaping the thriving community we know and love today. Among them was a trailblazer whose contributions deserve lasting recognition— Louis E. Brathwaite &#8211; the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/17/honoring-the-life-and-legacy-of-louis-e-brathwaite-a-founding-father-of-santa-clarita/">Honoring the Life and Legacy of Louis E. Brathwaite, a Founding Father of Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/17/honoring-the-life-and-legacy-of-louis-e-brathwaite-a-founding-father-of-santa-clarita/>
+
+---
+
+## Irvine has a new councilmember. Here's what they plan to do
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+The top vote-getter told LAist the second-place candidate called to concede the race. 
+
+<br> 
+
+<https://laist.com/news/politics/irvine-special-election-winner-betty-martinez-franco>
+
+---
+
+## Trump policy targeting immigrants shuts California students out of federal programs
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+California colleges support low-income students — including non-citizens — using federal funds. Trump policy now excludes non-citizens. 
+
+<br> 
+
+<https://laist.com/news/trump-policy-targeting-immigrants-shuts-california-students-out-of-federal-programs>
+
+---
+
+## Trump administration has gutted an agency that coordinates homelessness policy
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+All staff were put on leave at the United States Interagency Council on Homelessness. Congress created the entity in 1987 and, among other things, it helped drive down veterans homelessness. 
+
+<br> 
+
+<https://laist.com/news/trump-administration-has-gutted-an-agency-that-coordinates-homelessness-policy>
+
+---
+
+## Trump policy targeting immigrants shuts California students out of federal programs
+
+date: 2025-04-17, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Federal programs offer financial aid and counseling to low-income and first-generation college students. California was allowed to include students without legal status, which the Trump administration is now ending.</p>
+<p>The post <a href="https://lbpost.com/news/education/trump-policy-targeting-immigrants-shuts-california-students-out-of-federal-programs">Trump policy targeting immigrants shuts California students out of federal programs</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/trump-policy-targeting-immigrants-shuts-california-students-out-of-federal-programs>
 
 ---
 
@@ -30,6 +119,18 @@ As Los Angeles County shifts millions in homeless services spending from LAHSA, 
 <br> 
 
 <https://laist.com/news/housing-homelessness/la-county-new-homeless-department-housing-for-health-unhoused>
+
+---
+
+## Best things to do this weekend in LA and SoCal: April 18 - 20
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+Easter egg hunts, AC/DC at the Rose Bowl, Baths at the Echo, a Peep show, new trails open at Griffith Park and Easter brunches galore. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-april-18-20>
 
 ---
 
@@ -109,7 +210,7 @@ California challenges Trump's emergency tariffs in federal court as the state bu
 
 date: 2025-04-16, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The penalty for buying alcohol for an underage person is a minimum $1,000 fine and 24 hours of community service.</p>
 <p>The post <a href="https://lbpost.com/news/crime/long-beach-police-cite-7-people-who-bought-alcohol-for-underage-decoys-department-says">Long Beach police cite 7 people who bought alcohol for underage decoys, department says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -162,7 +263,7 @@ The government sent several planeloads of alleged gang members to El Salvador, i
 
 date: 2025-04-16, from: Longbeach Post
 
-<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-768x493.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1536x987.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1200x771.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1568x1007.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="658" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1024x658.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-768x493.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1536x987.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1200x771.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-1568x1007.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/16123420/waiting-port-of-long-beach-7209-508207-sbaiaw2k-961564-m0RdQrlo.jpg 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Gov. Gavin Newsom and Attorney General Rob Bonta announced the lawsuit Wednesday, saying the tariffs hurt “states, consumers and businesses.”</p>
 <p>The post <a href="https://lbpost.com/news/ports/newsom-takes-on-trump-over-tariffs-he-says-are-hurting-california">Newsom takes on Trump over tariffs he says are hurting California</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

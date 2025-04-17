@@ -1,11 +1,173 @@
 ---
 title: pacific
-updated: 2025-04-17 06:07:36
+updated: 2025-04-17 14:08:17
 ---
 
 # pacific
 
-(date: 2025-04-17 06:07:36)
+(date: 2025-04-17 14:08:17)
+
+---
+
+## President’s report: student visas, budget measures, AD search, 1st 100 days
+
+date: 2025-04-17, from: University of Hawaiʻi News
+
+<p>Hensel also shared details about her next public forum scheduled for Monday, April 21.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/presidents-report-april-2025/">President’s report: student visas, budget measures, <abbr>AD</abbr> search, 1st 100 days</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/presidents-report-april-2025/>
+
+---
+
+## Baby head case a mystery
+
+date: 2025-04-17, from: Marshal Islands Journal
+
+<p>Journal 4/16/1982 P1 Ground broken for katsuobushi factoryDocuments for the construction of the Nankatsu Corporation, a Japanese-Marshallese katsuobushi company, were signed today at Tomiki’s place between Nankatsu Corp., RepMar and J&#38;P Company, the local construction company. Irooj Joba Kabua and Toej Jamore are involved in the ownership of the company. President Amata Kabua, Foreign Secretary [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/baby-head-case-a-mystery/">Baby head case a mystery</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/baby-head-case-a-mystery/>
+
+---
+
+## Doyle receives 2nd Big West Women’s Water Polo Player of the Week
+
+date: 2025-04-17, from: University of Hawaiʻi News
+
+<p>Bernadette Doyle leads the team in assists and steals and ranks second with 80 points.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/doyle-2nd-bw-water-polo/">Doyle receives 2nd Big West Women’s Water Polo Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/doyle-2nd-bw-water-polo/>
+
+---
+
+## Eye For An Eye
+
+date: 2025-04-17, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Erika McKitrick Remember the cemetery the crypt, French theme Gentle freckles Me. The rejected seed The prevented tree Remember the extreme green sky, three empty letters The perfect scene ten grey men, seven dresses mended evenly Every weekend he &#8230; <a href="https://hawaiipacificreview.org/2025/04/17/eye-for-an-eye/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/04/17/eye-for-an-eye/>
+
+---
+
+## Celebrating National Lineworkers Appreciation Day: Recognizing the backbone of our community
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+(CUC) — The Commonwealth Utilities Corporation joins the nation in celebrating National Lineworkers Appreciation Day today, April 18, 2025, recognizing the dedication, resilience, and service of the men and women who keep power flowing across our islands. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/celebrating-national-lineworkers-appreciation-day-recognizing-the-backbone-of-our-community/article_fbe2eea8-a28a-439e-b50e-668114120864.html>
+
+---
+
+## SBDC, Commerce present: ‘What to expect when you’re exporting’
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center Network at Northern Marianas College, in collaboration with the CNMI Department of Commerce, is proud to present a special workshop titled “What to Expect When You’re Exporting” on Friday, May 2, 2025, from 11 a.m. to 4:30 p.m. in the Azucena Room, Crowne Plaza Resort Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/sbdc-commerce-present-what-to-expect-when-you-re-exporting/article_3703ed7b-ec7d-4594-82c1-e6b45b1ced7e.html>
+
+---
+
+## Fiscal agonistes
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+Budget questions 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/fiscal-agonistes/article_987a897e-98dd-4163-8d2f-e53b8911ccf8.html>
+
+---
+
+## Final exam
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+Juan Carlos Calvo, a participant in the Governor’s Broadband Bootcamp on Saipan, spliced fiber optic cable as part of the participants’ final exam on Thursday. Conducted in partnership with the CNMI Broadband Policy and Development Office, Northern Marianas College’s Community Development Institute, Northern Marianas Technical Institute, Island Training Solutions, and the CNMI Department of Labor Workforce Investment Agency, the bootcamp is an accelerated workforce development program designed to equip participants with the technical expertise and professional skills needed for success in the fiber optic network deployment industry. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/final-exam/article_db81e0b4-3696-440f-94fc-e0e6ad73b01c.html>
+
+---
+
+## McDonald’s of Saipan volunteers for BECQ islandwide cleanup
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+ON Saturday, April 12, 2025, McDonald’s of Saipan volunteered for the annual Bureau of Environmental and Coastal Quality’s islandwide clean-up. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mcdonald-s-of-saipan-volunteers-for-becq-islandwide-cleanup/article_f373efb6-d5c3-489c-b90e-253094603f36.html>
+
+---
+
+## Triple J Saipan announces key leadership promotions
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+TRIPLE J Saipan is pleased to announce two key promotions that strengthen its management team and reinforce the company’s ongoing commitment to operational excellence and customer service. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/triple-j-saipan-announces-key-leadership-promotions/article_9aaf7e9e-f8ee-45ab-b26e-dcf8fcedf9f8.html>
+
+---
+
+## 17 workers file amended complaint against FEMA contractor
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+SEVENTEEN construction workers have filed a second amended complaint against RNV Construction and its affiliates in federal court. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/17-workers-file-amended-complaint-against-fema-contractor/article_563d70e7-9eb9-40ac-b893-e8039653788b.html>
+
+---
+
+## US tariff policies rattle global markets, triggering steep losses in Palau’s trust funds
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Palau’s government trust funds have suffered major losses in the current fiscal year, largely attributed to the global ripple effects of recent U.S. tariff policies that have unsettled financial markets worldwide. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/us-tariff-policies-rattle-global-markets-triggering-steep-losses-in-palau-s-trust-funds/article_2a2a07df-d0f2-4824-afda-a0a6769d39c2.html>
+
+---
+
+## Red Cross meets Carlos
+
+date: 2025-04-17, from: Marshal Islands Journal
+
+<p>The Marshall Islands Red Cross Society held a refresher community engagement course with the community at Carlos Island (Enelapkan) on Kwajalein Atoll recently. The project is part of MIRCS’s community outreach with the same end goal for each community to be prepared and equipped to face droughts. MIRCS member from Majuro Wutmi Hermios was accompanied [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/red-cross-meets-carlos/">Red Cross meets Carlos</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/red-cross-meets-carlos/>
 
 ---
 
@@ -272,6 +434,20 @@ date: 2025-04-17, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/17/nation-world-news/massive-blackout-leaves-all-of-puerto-rico-without-power/>
+
+---
+
+## Man in Big Island fentanyl case to plead guilty in federal court
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>A 35-year-old Washington man will plead guilty to charges that he tried to sell more than 4,000 fentanyl pills on Hawaii Island in December 2022, according to federal court documents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/hawaii-news/man-in-big-island-fentanyl-case-to-plead-quilty-to-federal-charges/>
 
 ---
 
@@ -1431,7 +1607,7 @@ date: 2025-04-15, from: Island Times
 
 date: 2025-04-15, from: Island Times
 
-<figure><img width="768" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?w=768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="22673" data-permalink="https://islandtimes.org/housing-loan-bill-clears-both-houses-of-oek/45000690_1089349967899028_176353547607080960_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" data-orig-size="768,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="OEK" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" /></figure>
+<figure><img width="768" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?w=768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="22673" data-permalink="https://islandtimes.org/housing-loan-bill-clears-both-houses-of-oek/45000690_1089349967899028_176353547607080960_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" data-orig-size="768,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="OEK" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" /></figure>
 <p>KOROR, Palau — The Olbiil Era Kelulau (OEK) has introduced a bill aimed at codifying the structure of the Executive Branch and clarifying the roles and appointment processes of key national officers, citing the need for clear lines of authority and a stronger adherence to the constitutional separation of powers. Senate Bill No. 12-24, introduced [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/lawmakers-push-to-clarify-executive-branch-structure-in-new-bill/">Lawmakers push to Clarify Executive branch structure in New Bill</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1446,7 +1622,7 @@ date: 2025-04-15, from: Island Times
 
 date: 2025-04-15, from: Island Times
 
-<figure><img width="497" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?w=497&amp;ssl=1 497w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71308" data-permalink="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/surangel_whipps_jr-_at_japan-palau_summit_september_2022/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" data-orig-size="497,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1662694309&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;109&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr.&lt;/p&gt;
+<figure><img width="497" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?w=497&amp;ssl=1 497w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71308" data-permalink="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/surangel_whipps_jr-_at_japan-palau_summit_september_2022/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" data-orig-size="497,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1662694309&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;109&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=214%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" /></figure>
 <p>President Surangel Whipps Jr. has submitted a supplemental budget bill to the Olbiil Era Kelulau (OEK), requesting nearly $1.2 million in new funding and seeking appropriation of funds previously authorized—but not appropriated—under the Fiscal Year 2025 Unified Budget. The proposal, submitted April 4 and now under review by the Senate Ways and Means Committee, coincides [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/whipps-seeks-supplemental-budget-for-mini-games-utilities-and-social-aid/">Whipps Seeks Supplemental Budget for Mini-Games, Utilities, and Social Aid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -1504,7 +1680,7 @@ date: 2025-04-15, from: Island Times
 
 date: 2025-04-15, from: Island Times
 
-<figure><img width="1024" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1024%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=1024%2C696&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=768%2C522&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=1200%2C816&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=780%2C530&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=400%2C272&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=706%2C480&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1024%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76782" data-permalink="https://islandtimes.org/earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/photo_earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1249%2C849&amp;ssl=1" data-orig-size="1249,849" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Earth Day Committee launches events to engage with students and community members across Palau" data-image-description="" data-image-caption="&lt;p&gt;His Excellency, President Surangel Whipps Jr signing Proclamation No. 25-392 “Declaring the Month of April 2025 as National Earth Month for the Republic of Palau.”&lt;/p&gt;
+<figure><img width="1024" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1024%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=1024%2C696&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=768%2C522&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=1200%2C816&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=780%2C530&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=400%2C272&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?resize=706%2C480&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1024%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76782" data-permalink="https://islandtimes.org/earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/photo_earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=1249%2C849&amp;ssl=1" data-orig-size="1249,849" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Earth Day Committee launches events to engage with students and community members across Palau" data-image-description="" data-image-caption="&lt;p&gt;His Excellency, President Surangel Whipps Jr signing Proclamation No. 25-392 “Declaring the Month of April 2025 as National Earth Month for the Republic of Palau.”&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=300%2C204&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Photo_Earth-Day-Committee-launches-events-to-engage-with-students-and-community-members-across-Palau.jpeg?fit=780%2C530&amp;ssl=1" /></figure>
 <p>&#160;April 22nd, 2025 will mark the 55th anniversary of Global Earth Day. Every year, over one billion people across the planet observe Earth Day on and around that date. In Palau, the Earth Day Committee has been meeting regularly to plan events and activities. Last month, His Excellency, President Surangel Whipps Jr signed Proclamation No. [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/earth-day-committee-launches-events-to-engage-with-students-and-community-members-across-palau/">Earth Day Committee launches events to engage with students and community members across Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -1520,7 +1696,7 @@ date: 2025-04-15, from: Island Times
 
 date: 2025-04-15, from: Island Times
 
-<figure><img width="1" height="1" src="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76778" data-permalink="https://islandtimes.org/prcs-to-open-first-ever-thrift-store-in-airai/prcs-thrift-store-grand-opening-april-18/" data-orig-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="PRCS &#8211; THRIFT STORE GRAND OPENING (April 18)" data-image-description="" data-image-caption="" data-medium-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" data-large-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" /></figure>
+<figure><img width="1" height="1" src="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76778" data-permalink="https://islandtimes.org/prcs-to-open-first-ever-thrift-store-in-airai/prcs-thrift-store-grand-opening-april-18/" data-orig-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="PRCS &#8211; THRIFT STORE GRAND OPENING (April 18)" data-image-description="" data-image-caption="" data-medium-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" data-large-file="https://islandtimes.org/wp-content/uploads/2025/04/PRCS-THRIFT-STORE-GRAND-OPENING-April-18.tif" /></figure>
 <p>The Palau Red Cross Society (PRCS) is thrilled to announce the grand opening of its very first thrift store, happening on Friday, April 18, 2025 from 10AM to 3PM! The new store will be located at the Emergency Relief Supplies Storage Warehouse &#38; Training Center just past the National Emergency Management Office (NEMO). Doors will [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/prcs-to-open-first-ever-thrift-store-in-airai/">PRCS  to open First-Ever Thrift Store in Airai</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

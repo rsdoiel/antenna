@@ -1,11 +1,131 @@
 ---
 title: going electric
-updated: 2025-04-17 06:07:43
+updated: 2025-04-17 14:08:24
 ---
 
 # going electric
 
-(date: 2025-04-17 06:07:43)
+(date: 2025-04-17 14:08:24)
+
+---
+
+## Trump admin halts $5 billion NY offshore wind project mid-build
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/South-Brooklyn-Marine-Terminal-Equinor-Empire-Wind-1.jpg?quality=82&#038;strip=all&#038;w=1420" /></div><p>In its most aggressive attack against offshore wind yet, the Trump administration halted the $5 billion Empire Wind 1, already under construction off New York’s coast.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,new-york,offshore-wind-power,wind-power" data-layer-viewtype="unknown" data-post-id="411742" href="https://electrek.co/2025/04/17/trump-admin-ny-offshore-wind-mid-build/#more-411742" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/trump-admin-ny-offshore-wind-mid-build/>
+
+---
+
+## Tesla's Brand Loyalty Is Crashing Harder Than Its Stock
+
+date: 2025-04-17, from: Inside EVs News
+
+Tesla's brand loyalty is slipping in the U.S. as owner trade-ins are up 250% year-over-year. 
+
+<br> 
+
+<https://insideevs.com/news/756848/tesla-trade-in-250-percent/>
+
+---
+
+## Jackery Earth Day Sale takes up to 50% off units with bonus savings, G-Force moto-style ZM e-bike at $800 off, Greenworks, more
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Jackery-Earth-Day-Sale-FI-e1744910556100.png?w=1600" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/04/17/jackery-earth-day-sale-from-90/">Jackery’s Earth Day Sale</a> that is taking up to 50% off power stations, with many of them being marked down from the brand’s short-term Easter savings, complete with bonus savings. Among the lineup, we spotted the expandable <a href="https://9to5toys.com/2025/04/17/jackery-earth-day-sale-from-90/">Explorer 2000 Plus Portable Power Station bundled</a> with a 500W solar panel at its <a href="https://9to5toys.com/2025/04/17/jackery-earth-day-sale-from-90/">$1,614</a> low. Coming up right behind it is <a href="https://9to5toys.com/2025/04/17/g-force-spring-sale-zm-all-terrain-e-bike-1199-more/">G-Force Bikes’ Spring Sale</a> with up to $800 in e-bike savings, the largest of which is on the moto-styled <a href="https://9to5toys.com/2025/04/17/g-force-spring-sale-zm-all-terrain-e-bike-1199-more/">ZM All-Terrain Fat Tire e-bike</a> that starts at <a href="https://9to5toys.com/2025/04/17/g-force-spring-sale-zm-all-terrain-e-bike-1199-more/">$1,199</a> for an 80-mile trekking single-battery setup, with a double battery option not much higher. Lastly, we have a one-day-only new low price on the <a href="https://9to5toys.com/2025/04/17/greenworks-1900-psi-pressure-washer-new-118-low/">Greenworks 1,900 PSI Steel-Framed Electric Pressure Washer at $118</a>, as well as a bonus cleaner attachment deal. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s Earth Day savings on both <a href="https://9to5toys.com/2025/04/16/bluetti-earth-day-sale/">Bluetti power stations</a> and <a href="https://9to5toys.com/2025/04/16/lectric-xp-3-0-e-bike-bundles-earth-day/">Lectric’s e-bike bundles</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="411749" href="https://electrek.co/2025/04/17/jackery-earth-day-sale-g-force-greenworks-more/#more-411749" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/jackery-earth-day-sale-g-force-greenworks-more/>
+
+---
+
+## China cracks down on automated driving features after Tesla’s FSD launch
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-FSD-v12.5.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Just after Tesla launched its ‘Full Self-Driving’ package, in China, the country announced that it cracking down on automated driving features with new limitations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411747" href="https://electrek.co/2025/04/17/china-cracks-down-automated-driving-features-after-tesla-fsd-launch/#more-411747" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/china-cracks-down-automated-driving-features-after-tesla-fsd-launch/>
+
+---
+
+## Renault's 'Horse' Wants To Turn EVs Into Hybrids
+
+date: 2025-04-17, from: Inside EVs News
+
+As automakers tone down their EV ambitions, Horse Powertrain came up with a quick and cheap way to add gas engines to EVs. 
+
+<br> 
+
+<https://insideevs.com/news/756949/horse-powertrain-hybrid-retrofit-evs/>
+
+---
+
+## Tesla Cybertruck is in crisis: new discounts and throttling down production
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-10-at-4.41.14 PM.jpg?quality=82&#038;strip=all&#038;w=1137" /></div><p>The Tesla Cybertruck is in crisis. The automaker is still sitting on a ton of old inventory, which it is now heavily discounting, and it is throttling down production to try to avoid building up the inventory again.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="411730" href="https://electrek.co/2025/04/17/tesla-tsla-cybertruck-discount-throttles-down-production-amid-crisis/#more-411730" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/tesla-tsla-cybertruck-discount-throttles-down-production-amid-crisis/>
+
+---
+
+## Hyundai's Tariff Strategy: 'Sell Like Hell'
+
+date: 2025-04-17, from: Inside EVs News
+
+Plus, UAW argues automakers can absorb tariffs and VW support's Scout's decision to high-nose dealerships. 
+
+<br> 
+
+<https://insideevs.com/news/756819/hyundai-sell-like-hell-tariffs/>
+
+---
+
+## Harley’s LiveWire unveils electric motorcycles built just for cops
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/livewire-police-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>LiveWire, the electric motorcycle brand spun out of Harley-Davidson, has officially launched a new line of electric motorcycles tailored for law enforcement and security use. The move marks another example of electric two-wheelers expanding beyond consumer markets and into professional and government fleets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,livewire,police" data-layer-viewtype="unknown" data-post-id="411721" href="https://electrek.co/2025/04/17/harleys-livewire-unveils-electric-motorcycles-built-just-for-cops/#more-411721" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/harleys-livewire-unveils-electric-motorcycles-built-just-for-cops/>
 
 ---
 

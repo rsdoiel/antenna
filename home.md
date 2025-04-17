@@ -1,11 +1,223 @@
 ---
 title: home
-updated: 2025-04-17 06:07:41
+updated: 2025-04-17 14:08:22
 ---
 
 # home
 
-(date: 2025-04-17 06:07:41)
+(date: 2025-04-17 14:08:22)
+
+---
+
+## What’s the Best USB Cable? Each One’s Pros and Cons Explained
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>Confused about USB cords? Learn the differences between USB-A, Micro-USB, USB-C, Mini-USB, and Lightning cables—what they do, how fast they are, and which devices they’re best for.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/usb-cable-types/">What&#8217;s the Best USB Cable? Each One&#8217;s Pros and Cons Explained</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/usb-cable-types/>
+
+---
+
+## Boil Water Advisory Says Add Bleach — Is It Really Safe? Experts Weigh Ine
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>Are you wondering if you can use bleach to disinfect drinking water? Our expert-approved guidelines explain how and when to do this safely.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/boil-water-advisory-bleach-in-drinking-water/">Boil Water Advisory Says Add Bleach — Is It Really Safe? Experts Weigh Ine</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/boil-water-advisory-bleach-in-drinking-water/>
+
+---
+
+## What’s That Little Mirror On Your Side View For?
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>Those small mirrors attached to the outside side view mirrors could be the difference between safety and disaster on the road.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/blind-spot-mirror-side-view/">What’s That Little Mirror On Your Side View For?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/blind-spot-mirror-side-view/>
+
+---
+
+## Lawn Care Confessions: Unfiltered Truths & Trade Secrets Behind Perfect Lawns
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>From emerging soil science to watering myths and eco-trends, here's how to turn your lawn into a green masterpiece.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/expert-lawn-care-secrets/">Lawn Care Confessions: Unfiltered Truths &#038; Trade Secrets Behind Perfect Lawns</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/expert-lawn-care-secrets/>
+
+---
+
+## The 18 Greatest PVC Hacks We’ve Ever Published
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>PVC pipe is one of the most versatile materials in your workshop. You can use leftover PVC pipe to organize your garage and so much more! </p>
+<p>The post <a href="https://www.familyhandyman.com/list/pvc-pipe-hacks/">The 18 Greatest PVC Hacks We&#8217;ve Ever Published</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/pvc-pipe-hacks/>
+
+---
+
+## What Trump’s Tariffs Could Mean For Homebuilding—and the Housing Crisis
+
+date: 2025-04-17, from: Dwell
+
+Higher materials prices are expected to stall new construction homes and renovations, and make both more expensive for everyone. 
+
+<br> 
+
+<https://www.dwell.com/article/trump-tariffs-homebuilding-cost-60270f2a>
+
+---
+
+## Electric Vehicle Benefits That You Didn’t Know About
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>There are more benefits to driving an electric vehicle than just saving on gas.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/electric-vehicle-benefits/">Electric Vehicle Benefits That You Didn&#8217;t Know About</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/electric-vehicle-benefits/>
+
+---
+
+## A Renovation Turned It Into a Cottage—But You’d Think It Was Still Just an Old Barn
+
+date: 2025-04-17, from: Dwell
+
+Original steel wrapping the ’60s structure in Kansas hides fresh pine interiors and energy-efficient features. 
+
+<br> 
+
+<https://www.dwell.com/article/overbrook-overlook-bnim-architects-renovated-barn-net-zero-design-1c0459bb>
+
+---
+
+## Noticed a Line at the Bottom of Your Phone Screen? Here’s Why It’s There
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>New phone designs come with new features, and not all of them are intuitive. What is the line at the bottom of your phone screen?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/line-at-bottom-of-phone-screen/">Noticed a Line at the Bottom of Your Phone Screen? Here’s Why It’s There</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/line-at-bottom-of-phone-screen/>
+
+---
+
+## The Beach Is the Backyard at This $1.8M Oregon Home
+
+date: 2025-04-17, from: Dwell
+
+Designed by Robert Harvey Oschatz, the angular residence has panoramic ocean views, tons of hosting space, and a handblown jellyfish chandelier. 
+
+<br> 
+
+<https://www.dwell.com/article/beach-house-robert-harvey-oschatz-pacific-city-oregon-real-estate-253b0a24>
+
+---
+
+## 33 of the Best Flowering Perennials for Shade
+
+date: 2025-04-17, from: The Gardener's Path
+
+<p>Shady areas in the garden don't have to be bland and boring as there are many perennials that will bloom reliably even in low light. By choosing your plantings carefully you can brighten up your gloomy garden corners with some color and texture. Learn about 33 of the best perennials to grow in the shade in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/shade/choosing-perfect-perennials-shade-garden/">33 of the Best Flowering Perennials for Shade</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/shade/choosing-perfect-perennials-shade-garden/>
+
+---
+
+## CDFA’s Progress for Californians — protecting the food supply from invasive fruit flies
+
+date: 2025-04-17, from: Calfifornia Dept. Aggriculture blog
+
+The USDA has designated April as Invasive Plant Pest and Disease Awareness Month, and CDFA is aligning with that by highlighting its work to eradicate invasive fruit flies, especially over the last two years. Infestations reached record levels in 2023, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28853">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28853>
+
+---
+
+## Do You Know What That Strip at the Bottom of Bath Towels Is For?
+
+date: 2025-04-17, from: Family Handyman Blog
+
+<p>That "dobby border" is not just for looks, it serves some useful purposes. But it can also have a downside.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/dobby-border/">Do You Know What That Strip at the Bottom of Bath Towels Is For?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/dobby-border/>
+
+---
+
+## I Tried Two DTC Washable Rugs to Fit My Home’s Different Design Needs
+
+date: 2025-04-17, from: Dwell
+
+The market for easy-to-clean rugs is booming, but how do they actually look (and feel)? 
+
+<br> 
+
+<https://www.dwell.com/article/best-washable-rugs-tumble-revival-03b99173>
+
+---
+
+## 13 of the Best Raspberry Varieties to Grow in Your Garden
+
+date: 2025-04-17, from: The Gardener's Path
+
+<p>Raspberries mean summer's here, and it's time to grow your own. Whether you want to eat them fresh, bake them into a pie, or can homemade preserves, there's something for everyone. To find the best everbearing or summer bearing cultivar for your growing zone, in a variety of colors, read more now on Gardener's Path.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/best-raspberry-varieties/">13 of the Best Raspberry Varieties to Grow in Your Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/best-raspberry-varieties/>
+
+---
+
+## 25 Delicious Ways to Celebrate Easter
+
+date: 2025-04-17, from: Sunset Magazine - Living in the West
+
+Hosting an Easter gathering? Take a look at these Easter recipes: Hot-cross buns, golden baked ham, juicy lamb, and more ideas. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/easter-recipes-menus>
 
 ---
 
@@ -35,18 +247,6 @@ date: 2025-04-17, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-winter-squash-varieties/>
-
----
-
-## 25 Delicious Ways to Celebrate Easter
-
-date: 2025-04-17, from: Sunset Magazine - Living in the West
-
-Hosting an Easter gathering? Take a look at these Easter recipes: Hot-cross buns, golden baked ham, juicy lamb, and more ideas. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/holidays-occasions/easter-recipes-menus>
 
 ---
 
