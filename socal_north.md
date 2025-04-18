@@ -1,11 +1,130 @@
 ---
 title: socal north
-updated: 2025-04-18 06:07:42
+updated: 2025-04-18 14:07:44
 ---
 
 # socal north
 
-(date: 2025-04-18 06:07:42)
+(date: 2025-04-18 14:07:44)
+
+---
+
+## After communication breakdown, congresswoman wants tighter rules on toxic pesticide used near homes, schools
+
+date: 2025-04-18, from: Longbeach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-1024x576.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-1024x576.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-400x225.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“The moment you learn about something that's possibly toxic, it should be communicated to residents,” Rep. Nanette Barragán said, “both on a website with level readings and what the implications may be and what people can do.”</p>
+<p>The post <a href="https://lbpost.com/news/health/methyl-bromide-long-beach-barragan-congress-leter-tighter-rules">After communication breakdown, congresswoman wants tighter rules on toxic pesticide used near homes, schools</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/methyl-bromide-long-beach-barragan-congress-leter-tighter-rules>
+
+---
+
+## Judge orders plan to move hundreds of youth out of troubled Los Padrinos Juvenile Hall
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+The move comes a week after a state board reaffirmed its finding that the LA County facility is unsuitable to house youth. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/judge-orders-plan-move-hundreds-youth-los-padrinos-juvenile-hall>
+
+---
+
+## Port of Hueneme “Energized” by $4 Million Grant to Boost Vessel Plug-In Capabilities
+
+date: 2025-04-18, from: Port Hueneme
+
+<p>At a ceremony held at the Port of Hueneme, Jess J. Ramirez was sworn in as president of the Oxnard Harbor District. Ventura County Supervisor Vianey Lopez administered the oath of office.</p>
+<p>The post <a href="https://www.portofhueneme.org/4-million-grant-to-boost-vessel-plug-in-capabilities/">Port of Hueneme “Energized” by $4 Million Grant to Boost Vessel Plug-In Capabilities</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/4-million-grant-to-boost-vessel-plug-in-capabilities/>
+
+---
+
+## Jackie and Shadow’s eaglets are getting closer to leaving the nest
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+They still have a lot of growing to do, but Sunny and Gizmo should be weeks away from fledging. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-shadow-eaglets-closer-to-leaving-nest>
+
+---
+
+## My router was burned in the Eaton Fire. Here's what I had to do to avoid getting charged
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+It took multiple phone calls, a trip to the AT&T store, a visit to UPS and a whole lot of patience. 
+
+<br> 
+
+<https://laist.com/news/router-burned-eaton-fire-tips>
+
+---
+
+## Motorcyclist critically hurt in North Long Beach crash, police say
+
+date: 2025-04-18, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The rider was on Cherry Avenue near Artesia Boulevard when he collided with another vehicle, according to police, who are at the scene investigating.</p>
+<p>The post <a href="https://lbpost.com/news/crime/motorcyclist-critically-hurt-crash-cherry-artesia">Motorcyclist critically hurt in North Long Beach crash, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/motorcyclist-critically-hurt-crash-cherry-artesia>
+
+---
+
+## Tariffs threaten to push auto insurance rates even higher
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Between the slate of tariffs currently in effect and proposed tariffs on car parts, the cost of car ownership is rising. And that's true even if you're not in the market for a vehicle. 
+
+<br> 
+
+<https://laist.com/news/politics/tariffs-threaten-to-push-auto-insurance-rates-even-higher>
+
+---
+
+## 5 takeaways from the week: Nearing a constitutional crisis?
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+The week was dominated by news about the Maryland man illegally deported to El Salvador. But there was also concern over tariffs and Robert F. Kennedy's work as Health and Human Services secretary. 
+
+<br> 
+
+<https://laist.com/news/politics/5-takeaways-from-the-week-nearing-a-constitutional-crisis>
+
+---
+
+## California Republicans want to get tougher on crime. Are Democrats shifting their way?
+
+date: 2025-04-18, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18070824/031723-san-quentin-rehabilitation-center-mhn-08-cm-679628-bxa3wfc1-407731-kontZ8Qb.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A California Republican state senator finds his crime bills getting a warmer welcome this year. Democrats say they’re just responding to their voters.</p>
+<p>The post <a href="https://lbpost.com/news/politics/california-republicans-want-to-get-tougher-on-crime-are-democrats-shifting-their-way">California Republicans want to get tougher on crime. Are Democrats shifting their way?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/california-republicans-want-to-get-tougher-on-crime-are-democrats-shifting-their-way>
 
 ---
 
@@ -21,7 +140,7 @@ Legal advocates say the department’s school wellness checks are a ‘cloak for
 
 ---
 
-## Heading to Dodger Stadium? The best places nearby to eat, drink and be merry
+## Going to Dodger stadium? The best places to eat, drink and be merry
 
 date: 2025-04-18, updated: 2025-04-18, from: The LAist
 
@@ -243,7 +362,7 @@ All staff were put on leave at the United States Interagency Council on Homeless
 
 date: 2025-04-17, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/17070130/101023-west-hills-college-lv-05-695203-rzmhswgg-412542-8TjtSU3q.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Federal programs offer financial aid and counseling to low-income and first-generation college students. California was allowed to include students without legal status, which the Trump administration is now ending.</p>
 <p>The post <a href="https://lbpost.com/news/education/trump-policy-targeting-immigrants-shuts-california-students-out-of-federal-programs">Trump policy targeting immigrants shuts California students out of federal programs</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -354,7 +473,7 @@ California challenges Trump's emergency tariffs in federal court as the state bu
 
 date: 2025-04-16, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The penalty for buying alcohol for an underage person is a minimum $1,000 fine and 24 hours of community service.</p>
 <p>The post <a href="https://lbpost.com/news/crime/long-beach-police-cite-7-people-who-bought-alcohol-for-underage-decoys-department-says">Long Beach police cite 7 people who bought alcohol for underage decoys, department says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

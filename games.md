@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-18 06:07:45
+updated: 2025-04-18 14:07:48
 ---
 
 # games
 
-(date: 2025-04-18 06:07:45)
+(date: 2025-04-18 14:07:48)
+
+---
+
+## How to sign up for the Marathon alpha
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+The Marathon alpha gives you a chance to play Bungie’s forthcoming extraction shooter significantly ahead of its Sept. 23 release date. Announced during Bungie’s Marathon stream on April 12, the Marathon alpha allows you to check out four characters on two maps. Like most alpha tests, though, it also doubles as a technical stress test [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marathon-guides/556546/alpha-how-to-sign-up-dates>
+
+---
+
+## Where to find all Microchips in Blue Prince
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+Microchips are items in Blue Prince that you probably won’t even know you need. They’re not involved in reaching Room 46, but they are part of the game’s larger, post-credits mystery and story. You’ll learn about the Microchips once you reach the Blackbridge Grotto — one of the game’s Permanent Additions. There are three of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/561579/microchips-locations-all-where-to-find>
+
+---
+
+## All the ways you should prep to pre-order a Nintendo Switch 2
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+Nintendo Switch 2 pre-orders are officially opening in the U.S. on April 24. This news comes after the original plan to open pre-orders on April 9 was delayed due to the “potential impact of tariffs.” Thankfully, the console isn’t increasing in price from what was originally announced — $449.99 for the console, with a $499.99 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/551622/switch-2-pre-order-reservation-queue-nintendo>
+
+---
+
+## Star Wars Outlaws demo arrives well after launch, ahead of Switch 2 debut
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+Star Wars Outlaws, the open-world action game from Massive Entertainment, is coming to Nintendo Switch 2 on Sept. 4, publisher Ubisoft announced Friday. A Switch 2 port of this graphically intensive game — ray-traced lighting is a foundational element of its look on PlayStation 5, Xbox Series X, and Windows PC — will be an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/561425/star-wars-outlaws-demo-switch-2-date-story-pack-2>
+
+---
+
+## The Pokémon TCG Team Rocket cards showcase everyday crime life
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+The Japanese-language Pokémon Trading Card Game set The Glory of Team Rocket dropped on April 18, meaning we finally have a clear look at the cards that will be released in North America as part of the Destined Rivals set on May 30. While some people expected to see Jessie and James, the iconic Team [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg/558971/glory-of-team-rocket-destined-rivals-illustration-rare-art-sir>
+
+---
+
+## How to use the Freezer to freeze and unfreeze items in Blue Prince
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+The Freezer is a rare room in Blue Prince that freezes your currency, allowing you to carry it over to the next run. While your assets are frozen in the Freezer, you’re also unable to pick up any more gems or gold pieces. But there are ways to thaw the Freezer — and your assets [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/561115/freezer-unfreeze-thaw-how-to>
+
+---
+
+## LinkedIn has fun games on it and I’m not making that up
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+Hear me out: LinkedIn actually has fun games on it. I’m not joking. There are games buried underneath all the posts from CEOs disrupting industries through the power of AI, and they’re actually kind of good. My favorite is Zip, a game about filling up a grid with a continuous line. It’s a daily puzzle, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/561445/linkedin-has-fun-games-zip-pinpoint>
+
+---
+
+## The hardest puppeteering scenes to get right in The Legend of Ochi aren’t the ones you’d expect
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+One of the most astounding characters in A24’s new fantasy-adventure movie The Legend of Ochi is the titular mythical creature, a monkeylike animal with golden fur and big ears. While the other ochi in the movie are slightly bigger than human-sized, the main ochi is just a baby, small enough to perch on a kid’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/561335/the-legend-of-ochi-puppets-director-interview-practical-effects>
+
+---
+
+## GameStop will give you up to $175 for your old Switch when you pre-order a Switch 2
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+The Nintendo Switch 2 will cost $449.99, and will be available to pre-order April 24. The closest thing to a discount on the pricey console comes from GameStop, which is offering a trade-in credit for your old Switch to apply to a Switch 2 pre-order. The offer starts on April 24 when GameStop stores open [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/551550/nintendo-switch-2-gamestop-trade-in-credit-pre-order>
+
+---
+
+## You can now pre-order a boxed copy of Doom that also runs Doom
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+In a true “serpent eating its own tail” moment, Limited Run is producing a boxed copy of Doom + Doom 2 with packaging that is capable of playing Doom &#8211; a Doomourobouros if you will. The aptly-named Will it Run Edition of Doom + Doom 2 is currently available to pre-order from Limited Run for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/561433/doom-2-limited-run-boxed-set-collectors-edition-where-to-buy>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-04-18 06:07:43
+updated: 2025-04-18 14:07:45
 ---
 
 # pacific
 
-(date: 2025-04-18 06:07:43)
+(date: 2025-04-18 14:07:45)
 
 ---
 
@@ -409,6 +409,18 @@ date: 2025-04-18, from: Island Times
 
 ---
 
+## Cómo encontrar recursos para ensayos clínicos
+
+date: 2025-04-18, updated: 2025-04-18, from: Marianas Variety
+
+(Family Features) Si tiene enfermedad de Crohn o colitis ulcerosa, un ensayo clínico puede ser una opción para usted. Los ensayos clínicos son necesarios para encontrar nuevas formas de prevenir, detectar o tratar estas enfermedades y otras. Para obtener más información sobre la investigación clínica de la enfermedad inflamatoria intestinal, visite crohnscolitisfoundation.org/clinical-trials-community y considere los recursos de Crohn’s &amp; Colitis Foundation que pueden ofrecer información sobre los tipos de ensayos clínicos, qué esperar al participar en un estudio clínico, preguntas para hacerle a su médico, testimonios de participantes de ensayos clínicos, cómo encontrar un ensayo clínico y más. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/c-mo-encontrar-recursos-para-ensayos-cl-nicos/article_b580703c-2980-56c3-9b70-9d573fedfba8.html>
+
+---
+
 ## UH Mānoa water polo student manager broadcasts World Cup in China
 
 date: 2025-04-18, from: University of Hawaiʻi News
@@ -524,6 +536,18 @@ The post <a href="https://www.hawaii.edu/news/2025/04/17/doyle-2nd-bw-water-polo
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/17/doyle-2nd-bw-water-polo/>
+
+---
+
+## Building a dock? 5 factors to consider
+
+date: 2025-04-17, updated: 2025-04-17, from: Marianas Variety
+
+(BPT) - If you own a home by the water, you understand that a dock is much more than a place to park a boat. It's a sundeck, a diving platform, a fishing perch and a year-round spot for stargazing and enjoying sunsets. Choosing the right materials to use when building a dock can make all the difference in its appearance, comfort and longevity. Here are five things to consider: 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/building-a-dock-5-factors-to-consider/article_ecb68c05-fc64-5fa3-9d84-f58434af6559.html>
 
 ---
 

@@ -1,11 +1,38 @@
 ---
 title: journalism
-updated: 2025-04-18 06:07:45
+updated: 2025-04-18 14:07:49
 ---
 
 # journalism
 
-(date: 2025-04-18 06:07:45)
+(date: 2025-04-18 14:07:49)
+
+---
+
+## Coachella 2025 Q&A: Musician Seun Kuti on the intersection between art, social justice
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Seun Kuti is hoping to remind audiences of the intersection between art and social justice.
+After not being able to take the Indio, California stage in 2020 due to the COVID-19 pandemic, the Nigerian musician and his band Egypt 80 will perform at the second weekend of the 2025 Coachella Valley Music and Arts Festival. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/coachella-2025-qa-musician-seun-kuti-on-the-intersection-between-art-social-justice/>
+
+---
+
+## College investigates policy violations following April 10 SJP demonstration
+
+date: 2025-04-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>April 10, about 50 protesters led by Occidental Students for Justice in Palestine (Oxy SJP) demonstrated in close proximity to both an “Experience Occidental” admitted students event that took place on the Academic Quad and in Cannon Plaza, and a faculty meeting in Lower Herrick. This protest comes after a March 11 Oxy SJP rally [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/04/18/college-investigates-policy-violations-following-april-10-sjp-demonstration/2915150">College investigates policy violations following April 10 SJP demonstration</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/04/18/college-investigates-policy-violations-following-april-10-sjp-demonstration/2915150>
 
 ---
 

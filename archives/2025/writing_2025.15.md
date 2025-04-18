@@ -1,11 +1,39 @@
 ---
 title: writing
-updated: 2025-04-18 06:07:45
+updated: 2025-04-18 14:07:48
 ---
 
 # writing
 
-(date: 2025-04-18 06:07:45)
+(date: 2025-04-18 14:07:48)
+
+---
+
+## When the Moon Hits Your Eye by John Scalzi: Review by Adrienne Martini
+
+date: 2025-04-18, from: Locus Magazine
+
+<p><strong>When the Moon Hits Your Eye</strong>, John Scalzi (Tor 9780765389091, $29.99, 336pp, hc) March 2025.</p>
+<p>In <strong>When the Moon Hits Your Eye</strong>, John Scalzi posits a question: What will humanity as a whole do when forced to confront something truly impossible happening right before their eyes? And because this is Scalzi, that impossible thing also needs to be thoroughly ridiculous. In the blink of an eye, the moon  <a href="https://locusmag.com/2025/04/when-the-moon-hits-your-eye-by-john-scalzi-review-by-adrienne-martini/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/when-the-moon-hits-your-eye-by-john-scalzi-review-by-adrienne-martini/>
+
+---
+
+## How 'Drop' Creates a Single Location Thriller
+
+date: 2025-04-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-drop-creates-a-single-location-thriller" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Meghann%20Fahy%20and%20Brandon%20Sklenar%20standing%20in%20an%20upscale%20restaurant%2c%20a%20view%20of%20a%20big%20citys%20skyline%20in%20the%20background%20in%20Drop.png" alt="Meghann Fahy and Brandon Sklenar standing in an upscale restaurant, a view of the Chicago skyline in the background in Drop" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>Drop</em> is a fairly simple concept: Kill your date or your son dies. Sure, you can go into more details but those 7 words are intriguing enough that it almost doesn’t need further explanation.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-drop-creates-a-single-location-thriller>
 
 ---
 

@@ -1,11 +1,213 @@
 ---
 title: columns
-updated: 2025-04-18 06:07:44
+updated: 2025-04-18 14:07:47
 ---
 
 # columns
 
-(date: 2025-04-18 06:07:44)
+(date: 2025-04-18 14:07:47)
+
+---
+
+## Friday Squid Blogging: Live Colossal Squid Filmed
+
+date: 2025-04-18, updated: 2025-04-17, from: Bruce Schneier blog
+
+<p>A live colossal squid was filmed for the <a href="https://www.nytimes.com/2025/04/15/science/squid-colossal-deep-sea-exploration.html">first</a> <a href="https://www.bbc.co.uk/news/articles/c99pg13yv32o">time</a> in the ocean. It&#8217;s only a juvenile: a foot long.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-live-colossal-squid-filmed.html>
+
+---
+
+##  In the wake of Alex Ovechkin surpassing Wayne Gretzky&#8217;s all-time goals record,... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046659-in-the-wake-of-alex>
+
+---
+
+##  Wonderful photos of Broadway legends reprising their most memorable roles, including Idina... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046670-wonderful-photos-of-broad>
+
+---
+
+##  The Goalkeeper Who Got Lost in the Fog 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-goalkeeper-who-got-lost-in-the-fog>
+
+---
+
+##  Stephen King used to &#8220;grant permission to students and aspiring filmmakers to... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046668-stephen-king-used-to-gran>
+
+---
+
+##  Don&#8217;t Let the Days Go By&#8230; 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/dont-let-the-days-go-by>
+
+---
+
+##  300 people in a small Michigan town formed a book brigade to... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046672-300-people-in-a-small>
+
+---
+
+## April 17, 2025
+
+date: 2025-04-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161618433/d38fb3837764bf162d7b8a72043a744d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161618433/d38fb3837764bf162d7b8a72043a744d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-17-2025-d18>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-18, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=3Y71iDvCYXA">Pump It Up</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/18.html#a160527>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2019/05/16/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm working on a <a href="https://github.com/scripting/wordlandSupport/issues/71">baseline theme</a> for WordLand-authored sites. I want to show people how to get a good result with WordLand, even if they have plenty of experience with WordPress, but especially if they don't. I want people to look at a user's site and think "Hey I want one of those!" Not too fancy, just get out of the way and let the writer's writing stand out and look great. This is a replay of the work we did on <a href="https://www.google.com/search?q=site%3Ascripting.com+manila&rlz=1C5CHFA_enUS743US747&oq=site%3Ascripting.com+manila&aqs=chrome..69i57j69i58.4100j0j4&sourceid=chrome&ie=UTF-8">Manila</a> and then <a href="https://www.google.com/search?q=site%3Ascripting.com+%22radio+userland%22">Radio</a>. I hope we're able to start a designer community as vibrant and productive as the one we had a few years ago. 
+
+<br> 
+
+<http://scripting.com/2025/04/18.html#a155759>
+
+---
+
+##  &#8216;An Overwhelmingly Negative And Demoralizing Force&#8217;: What It&#8217;s Like Working For A... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046669-an-overwhelmingly-negativ>
+
+---
+
+##  Contemporary Oil Paintings by Sebas Velasco 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/contemporary-oil-paintings-by-sebas-velasco>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-18, from: Dave Winer's Scripting News)
+
+Everyone has to communicate in plain language, directly to the people. The courts, universities, every institution that the president is defaming. Go direct, go around the media. Start communicating in the language we communicate in these days. Use the tools. The campaign never stops. Then we'll know what we have to do to protect the rule of law. And the Dems are starting to do that, some of them, thankfully. Best example so far -- AOC and Bernie. Elizabeth Warren. Chris Murphy, Cory Booker, Chris Van Hollen. And lately some Repubs too. It's the same old thing the web does -- <a href="http://scripting.com/2022/04/13/165056.html">Sources Go Direct</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/18.html#a145537>
+
+---
+
+##  Good god, the official US government website for Covid (covid[dot]gov) now redirects... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046674-good-god-the-official-us>
+
+---
+
+##  Yesterday&#8217;s Manchester United vs Lyon Europa League quarterfinal match was absolutely and... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046671-yesterdays-manchester-uni>
+
+---
+
+##  The next Star Wars film will be called Star Wars: Starfighter, stars... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046665-the-next-star-wars-film>
+
+---
+
+##  The Supreme Court Knows Trump Isn&#8217;t Listening Anymore. &#8220;If the justices wanted... 
+
+date: 2025-04-18, updated: 2025-04-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046655-the-supreme-court-knows-t>
 
 ---
 
@@ -225,7 +427,7 @@ John Warner writes about how we&#8217;ve culturally shifted from valuing individ
 
 **@Dave Winer's Scripting News** (date: 2025-04-17, from: Dave Winer's Scripting News)
 
-I like that Powell is telling Trump he won't go. I wish Obama had had the guts to say that to McConnell when he wouldn't hold hearings on Garland. "Well if you won't take a vote, we'll take that as consent," says the President. "And you can quote me on that." In a televised event Obama himself would walk Garland over to his office at the Supreme Court and administer the oath and let him take his seat. I don't know about you but I would have felt great about America then. We're finished being such pussycats. 
+I like that <a href="https://www.theatlantic.com/ideas/archive/2025/04/trump-federal-reserve-jerome-powell/682489/?gift=f35zZN0v_gDFE8xNwlQAHV9MKISzUu2dWhKFwtUiTHc&utm_source=copy-link&utm_medium=social&utm_campaign=share">Powell</a> is telling Trump he won't go. I wish Obama had had the guts to say that to McConnell when he wouldn't hold hearings on Garland. "Well if you won't take a vote, we'll take that as consent," says the President. "And you can quote me on that." In a televised event Obama himself would walk Garland over to his office at the Supreme Court and administer the oath and let him take his seat. I don't know about you but I would have felt great about America then. We're finished being such pussycats. 
 
 <br> 
 

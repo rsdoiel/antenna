@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-18 06:07:47
+updated: 2025-04-18 14:07:52
 ---
 
 # retro computing
 
-(date: 2025-04-18 06:07:47)
+(date: 2025-04-18 14:07:52)
+
+---
+
+## The End of Sierra as We Knew It, Part 2: The Scandal
+
+date: 2025-04-18, from: Digital Antiquarian
+
+That&#8217;s the challenge: giving the public a formula they know and feel comfortable with, but making it different from anything they&#8217;ve seen or experienced before. &#8212; Roberta Williams Although Ken Williams left his office at Sierra On-Line for the last time on November 1, 1997, his wife Roberta Williams stayed on for another year, working [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/>
+
+---
+
+## Unix Review Interviews Sun Co-Founder Bill Joy (1994)
+
+date: 2025-04-18, from: Computer ads from the Past
+
+A lot of talk about editors and the future 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/unix-review-interviews-sun-co-founder>
 
 ---
 
@@ -49,7 +73,7 @@ Kevin Wells has updated another of his little applications that use Wget to prov
 
 date: 2025-04-18, from: Icon Bar, RISC OS News
 
-The April 2024 Rougol meeting is on Monday 18th April. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
+The April 2025 Rougol meeting is on Monday 21th April. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
 
 <br> 
 

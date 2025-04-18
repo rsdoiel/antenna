@@ -1,11 +1,133 @@
 ---
 title: north america
-updated: 2025-04-18 06:07:42
+updated: 2025-04-18 14:07:43
 ---
 
 # north america
 
-(date: 2025-04-18 06:07:42)
+(date: 2025-04-18 14:07:43)
+
+---
+
+## Why the “feminist” Blue Origin space flight was an affront to women like Sally Ride 
+
+date: 2025-04-18, from: The Contrarian
+
+Plus: Picks for movies and TV shows about REAL women in space (or those who belonged there) 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-the-feminist-blue-origin-space>
+
+---
+
+## Lemon posset meets Eton mess
+
+date: 2025-04-18, from: The Contrarian
+
+A dish popular since Aristotle's time gets an upgrade. You know who else loved posset? Shakespeare. 
+
+<br> 
+
+<https://contrarian.substack.com/p/lemon-posset-meets-eton-mess>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-04-18, from: The Contrarian
+
+Meet Bella! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-6b9>
+
+---
+
+## The Democracy Index
+
+date: 2025-04-18, from: The Contrarian
+
+April 18, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-b23>
+
+---
+
+## There’s no vacation from Trump. He’s ruining everything.
+
+date: 2025-04-18, from: The Contrarian
+
+Your summer 2025 travel itinerary could include raging fires, germy cruise ships, and burner phones. 
+
+<br> 
+
+<https://contrarian.substack.com/p/theres-no-vacation-from-trump-hes>
+
+---
+
+## Trump Officials Trolling Journalists is Just the Tip of the Iceberg 
+
+date: 2025-04-18, from: The Contrarian
+
+Behind the harassment of individual reporters is a full-scale assault on media freedom 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-officials-trolling-journalists>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-04-18, from: The Contrarian
+
+Chagrin Falls: "Political Science" 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-2b6>
+
+---
+
+## ‘One hairdresser' is the voice of complicity in 2025
+
+date: 2025-04-18, from: The Contrarian
+
+Andry Hernandez Romero and the others whose names we don't know are also victims of state-sponsored violence. 
+
+<br> 
+
+<https://contrarian.substack.com/p/one-hairdresser-is-the-voice-of-complicity>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-18, from: The Contrarian
+
+Friday: Town halls get rowdy in Iowa and Georgia, a demonstration against a capitulating law firm, Tesla protests continue, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Is Kilmar Abrejo Garcia a State Hostage? Jason Rezaian explains
+
+date: 2025-04-18, from: The Contrarian
+
+In 2015, Jason Rezaian was unjustly arrested in Iran and detained for nearly a year and a half. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161491356/9aeced15ea380758004058f2f02d5dcb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161491356/9aeced15ea380758004058f2f02d5dcb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/is-kilmar-abrejo-garcia-a-state-hostage>
 
 ---
 
@@ -170,18 +292,6 @@ date: 2025-04-17, from: The Lever News
 <br> 
 
 <https://www.levernews.com/bidens-soft-on-corporate-crime-policy-paved-the-way-for-trump/>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-17, from: The Contrarian
-
-Thursday: Protests in Maryland and at a Salvadoran consulate in support of Kilmar Abrego Garc&#237;a, plans for a second economic boycott, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

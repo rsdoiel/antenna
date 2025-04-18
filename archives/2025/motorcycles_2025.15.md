@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-04-18 06:07:47
+updated: 2025-04-18 14:07:51
 ---
 
 # motorcycles
 
-(date: 2025-04-18 06:07:47)
+(date: 2025-04-18 14:07:51)
+
+---
+
+## The Moto Guzzi Open House Is Coming Back, So Get Ready to Get to Italy
+
+date: 2025-04-18, from: Ride Apart, Electric Motorcycle News
+
+Book your trip to Italy and prepare for four days of all things Guzzi. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756911/moto-guzzi-open-house-september-2025/>
+
+---
+
+## Even If You're Short, Here's How To Pick Up Your Big Adventure Motorcycle
+
+date: 2025-04-18, from: Ride Apart, Electric Motorcycle News
+
+Lift smarter, not harder to avoid injury. 
+
+<br> 
+
+<https://www.rideapart.com/news/757028/pick-up-that-big-bike/>
+
+---
+
+## This EV Motorcycle Range World Record Isn't Real, As It Hypermiled the Entire Thing
+
+date: 2025-04-18, from: Ride Apart, Electric Motorcycle News
+
+I'm sorry, but a 12mph average isn't good enough when lauding range.  
+
+<br> 
+
+<https://www.rideapart.com/news/757020/verge-ts-pro-electric-ev-motorcycle-record/>
 
 ---
 

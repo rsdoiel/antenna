@@ -1,11 +1,163 @@
 ---
 title: home
-updated: 2025-04-18 06:07:46
+updated: 2025-04-18 14:07:51
 ---
 
 # home
 
-(date: 2025-04-18 06:07:46)
+(date: 2025-04-18 14:07:51)
+
+---
+
+## 10 Surprising Hacks for Using Coca-Cola Around the House
+
+date: 2025-04-18, from: Family Handyman Blog
+
+<p>The acid in cola makes it useful for cleaning up certain messes or even breaking through a rusty bolt. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/coca-cola-hacks/">10 Surprising Hacks for Using Coca-Cola Around the House</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/coca-cola-hacks/>
+
+---
+
+## CDFA IT department honored for work on Produce Safety Program web page
+
+date: 2025-04-18, from: Calfifornia Dept. Aggriculture blog
+
+CDFA’s Information Technology Services Division (ITSD) – working with the Inspection Services Division’s Produce Safety Program (PSP) – was recognized with five awards from the California Public Sector Chief Information Officer Academy for stellar work in government technology. Three ITSD &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28867">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28867>
+
+---
+
+## This $1.4M Alaskan Cabin Answers the Call of the Wild
+
+date: 2025-04-18, from: Dwell
+
+The remote property is a homesteader’s dream with three hand-built dwellings, a greenhouse, and nearly four acres of forested land. 
+
+<br> 
+
+<https://www.dwell.com/article/cabin-atz-lee-kilcher-homestead-homer-alaska-real-estate-d037cfb4>
+
+---
+
+## 12 Weeds That Are Actually Attractive
+
+date: 2025-04-18, from: Family Handyman Blog
+
+<p>Discover 12 attractive weeds that can add beauty to your garden while benefiting pollinators.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/types-of-weeds/">12 Weeds That Are Actually Attractive</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/types-of-weeds/>
+
+---
+
+## How To Build a Ramp for a Shed in an Afternoon
+
+date: 2025-04-18, from: Family Handyman Blog
+
+<p>This no-nonsense step-by-step project shows you how to build a ramp for a shed that is both strong and removable.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/build-a-ramp-for-a-shed/">How To Build a Ramp for a Shed in an Afternoon</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/build-a-ramp-for-a-shed/>
+
+---
+
+## Before & After: An L.A. Music Producer’s Latest Collab? Turning a Midcentury Into His Family Home
+
+date: 2025-04-18, from: Dwell
+
+Dacoury Dahi Natche, who’s worked with artists like Kendrick Lamar, and local firm Shin Shin stripped dated finishes and added a recording studio to better mix work and home life—keeping an "amazing" view of the city. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-dahi-residence-shin-shin-architecture-home-recording-studio-16d4a82b>
+
+---
+
+## What Are Conifers? A Closer Look at Cone-Bearing Plants
+
+date: 2025-04-18, from: The Gardener's Path
+
+<p>You've heard the term "conifer," but what does that actually mean? Many of us picture a stately evergreen with dark green needles, but not all conifers are evergreen and many have scale-like or flat needles. So what exactly is a conifer? Learn about what makes conifers special and how to identify them in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/what-are-conifers/">What Are Conifers? A Closer Look at Cone-Bearing Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/what-are-conifers/>
+
+---
+
+## Zillow’s Plan to Ban Private Listings—and Everything Else You Need to Know About This Week
+
+date: 2025-04-18, from: Dwell
+
+In the news: Florida greenlights ADUs, a New York neighborhood’s feud with a local music venue, Dwell staffers report from Milan Design Week, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-zillow-private-listings-ban-florida-adus-milan-design-week-b019ee2e>
+
+---
+
+## From the Archive: The Rise of the "Exurban House"
+
+date: 2025-04-18, from: Dwell
+
+Beginning in the ’90s, formerly rural regions transformed into far-flung enclaves for the elite, and vast acreages became utopias for the privileged family. 
+
+<br> 
+
+<https://www.dwell.com/article/exurban-house-fernau-and-hartman-stanley-saitowitz-af51c57c-5ab2b6dc>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Sunset Magazine’s Historic Menlo Park Campus Is in Danger of Being Erased. Here’s What You Can Do to Help.
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Sunset’s former historic campus in Menlo Park is in danger of being erased. Here's what you can do to help. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/sunset-menlo-park-campus-preservation>
+
+---
+
+## An 8-Point Plan for Preserving and Redefining L.A.’s Architectural Legacy
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Jaime Rummerfield of non-profit Save Iconic Architecture shares an 8-point plan for preserving and redefining L.A.'s architectural legacy. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/how-to-preserve-los-angeles-architecture>
 
 ---
 
@@ -34,6 +186,66 @@ date: 2025-04-18, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-marigolds-containers/>
+
+---
+
+## The Venues for the 2028 Olympic Games in Los Angeles Will Definitely Surprise You
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Los Angeles will host the Olympic Games in 2028 and the locations are far-reaching, spanning the San Fernando Valley to San Clemente. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/2028-olympics-los-angeles-venues>
+
+---
+
+## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
+
+---
+
+## The Freshest and Most Delicious Recipes You Can Make This April
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+April is time to really take advantage of the fresh spring produce in season. Here are our favorite recipes to make in April. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-april-2025>
+
+---
+
+## A Bay Area Kitchen Gets a Preppy East Coast Makeover
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+A Bay Area kitchen gets a classic, preppy makeover thanks to its owners' love of classic, traditional design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/bay-area-preppy-kitchen-makeover>
+
+---
+
+## Green Drenching Is the Trend Taking Over Gardens This Spring—Here’s How to Do It
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Time to turn your backyard into a lush retreat. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/green-drenching-2>
 
 ---
 
@@ -188,7 +400,7 @@ date: 2025-04-17, from: Family Handyman Blog
 
 ---
 
-## What Trump’s Tariffs Could Mean For Homebuilding—and the Housing Crisis
+## What Trump’s Tariffs Could Mean for Home Building—and the Housing Crisis
 
 date: 2025-04-17, from: Dwell
 
@@ -491,18 +703,6 @@ The Queen of Country’s former getaway comes with a boulder in the living room 
 
 ---
 
-## The Venues for the 2028 Olympic Games in Los Angeles Will Definitely Surprise You
-
-date: 2025-04-16, from: Sunset Magazine - Living in the West
-
-Los Angeles will host the Olympic Games in 2028 and the locations are far-reaching, spanning the San Fernando Valley to San Clemente. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/2028-olympics-los-angeles-venues>
-
----
-
 ## National Parks Week Is Coming, and the Founder of the Parks Project Knows How to Celebrate It
 
 date: 2025-04-16, from: Sunset Magazine - Living in the West
@@ -744,18 +944,6 @@ Now known as Stonestill Lodge, the home lets in the surrounding landscape while 
 
 ---
 
-## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
-
-date: 2025-04-15, from: Sunset Magazine - Living in the West
-
-Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
-
-<br> 
-
-<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
-
----
-
 ## In Paris, an 1800s Horse Stable Is Now an Earth-Toned Tiny Apartment
 
 date: 2025-04-15, from: Dwell
@@ -813,30 +1001,6 @@ California’s particular brand of indoor/outdoor living has captured our imagin
 <br> 
 
 <https://www.dwell.com/article/midcentury-modern-architectures-trial-wild-fires-neutra-frank-lloyd-wright-ray-kappe-b92c317e>
-
----
-
-## Sunset Magazine’s Historic Menlo Park Campus Is in Danger of Being Erased. Here’s What You Can Do to Help.
-
-date: 2025-04-15, from: Sunset Magazine - Living in the West
-
-Sunset’s former historic campus in Menlo Park is in danger of being erased. Here's what you can do to help. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/sunset-menlo-park-campus-preservation>
-
----
-
-## Green Drenching Is the Trend Taking Over Gardens This Spring—Here’s How to Do It
-
-date: 2025-04-15, from: Sunset Magazine - Living in the West
-
-Time to turn your backyard into a lush retreat. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/green-drenching-2>
 
 ---
 

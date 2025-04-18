@@ -1,11 +1,136 @@
 ---
 title: going electric
-updated: 2025-04-18 06:07:48
+updated: 2025-04-18 14:07:52
 ---
 
 # going electric
 
-(date: 2025-04-18 06:07:48)
+(date: 2025-04-18 14:07:52)
+
+---
+
+## Podcast: how Elon killed Tesla Model 2, global EV sales surge, and Chinese EVs keep killing it
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss how Elon Musk killed Tesla Model 2, global EV sales surging, how Chinese EVs keep killing it, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="411901" href="https://electrek.co/2025/04/18/podcast-how-elon-killed-tesla-model-2-global-ev-sales-surge-and-chinese-evs-keep-killing-it/#more-411901" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/podcast-how-elon-killed-tesla-model-2-global-ev-sales-surge-and-chinese-evs-keep-killing-it/>
+
+---
+
+## RadRunner e-bikes from $999, EcoFlow DELTA Pro 3 with solar panels $2,999, Anker Everfrost review, more
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Rad-Power-RadRunner-3-Plus-Utility-e-bike.webp?w=1600" /></div><p>Well folks, the weekend is nearly here and before it officially arrives we’ve pieced together the latest roundup of <em>Green Deals</em>. Leading the pack today are <a href="https://9to5toys.com/2025/04/18/radrunner-2-and-radrunner-3-plus-e-bikes-from-999/">RadRunner 2 and 3 Plus e-bikes from $999</a> as well as an <a href="https://9to5toys.com/2025/04/18/ecoflow-delta-pro-3-bundle-new-2999-low-more/">EcoFlow flash sale</a> that takes the brand’s robust <a href="https://9to5toys.com/2025/04/18/ecoflow-delta-pro-3-bundle-new-2999-low-more/">DELTA Pro 3 with four 125W solar panels down to a new $2,999 low</a>. We’ve also went hands-on with <a href="https://9to5toys.com/2025/04/18/review-anker-solix-everfrost-2/">Anker’s SOLIX EverFrost 2 58L Electric Cooler</a>, and the full review is waiting for you to scope out <a href="https://9to5toys.com/2025/04/18/review-anker-solix-everfrost-2/">right here</a>. There are also plenty of other deals from earlier in the week that are still live, so head below and we’ll get you caught up on what you may have missed.</p>
+
+
+
+<p>Head below for more and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="411887" href="https://electrek.co/2025/04/18/green-deals-april-18/#more-411887" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/green-deals-april-18/>
+
+---
+
+## Tesla Odometergate: is it Tesla’s own Dieselgate or nothing burger?
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Model-X-high-mileage-max-range-e1628763517927.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A lawsuit alleging that Tesla is inflating mileage to avoid warranty claims is already being compared to Dieselgate and referred to as ‘Tesla Odometergate.’</p>
+
+
+
+<p>Is Tesla having its own Dieselgate, or is it a nothing burger?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411885" href="https://electrek.co/2025/04/18/tesla-odometergate-dieselgate-or-nothing-burger/#more-411885" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/tesla-odometergate-dieselgate-or-nothing-burger/>
+
+---
+
+## The 2026 Kia EV4 Gets One Thing Very Right About EV Charging
+
+date: 2025-04-18, from: Inside EVs News
+
+It's time to say goodbye to one of the more annoying features found on electric vehicles, and I hope the Kia EV4 can lead the way here. 
+
+<br> 
+
+<https://insideevs.com/news/757067/kia-ev4-charging-door-power/>
+
+---
+
+## The Kia EV3 Has Been Named 2025 World Car Of The Year
+
+date: 2025-04-18, from: Inside EVs News
+
+Electric and hybrid cars swept the World Car Of The Year Awards in New York this year, with two Hyundai Motor Group EVs winning accolades. 
+
+<br> 
+
+<https://insideevs.com/news/757076/kia-ev3-world-car-of-the-year/>
+
+---
+
+## Volkswagen Is Plotting A High-Tech Comeback In China
+
+date: 2025-04-18, from: Inside EVs News
+
+The automaker plans to launch an AI-powered advanced driver assistance platform in China soon. The first car using that technology will launch later this year. 
+ 
+
+<br> 
+
+<https://insideevs.com/news/757095/volkswagen-high-tech-comeback-in-china/>
+
+---
+
+## Tesla (TSLA) brand damage is destroying used car value: ‘People don’t want them anymore’
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/TEsla-TSLA-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s brand damage is eroding the value of used Tesla vehicles at a rapid rate, as owners rush to sell theirs. </p>
+
+
+
+<p>It is breaking the used Tesla market as prices are plunging just as the broader used car market is recovering.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411877" href="https://electrek.co/2025/04/18/tesla-tsla-brand-damage-destroying-used-car-value/#more-411877" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/tesla-tsla-brand-damage-destroying-used-car-value/>
+
+---
+
+## VW Won’t Bring Small EVs To The U.S. But It's Mulling An Electric Pickup
+
+date: 2025-04-18, from: Inside EVs News
+
+America already has plenty of large, electron-guzzling vehicles, yet manufacturers don’t want to bring cheaper EVs to the States. 
+
+<br> 
+
+<https://insideevs.com/news/757060/volkswagen-no-small-evs-us/>
 
 ---
 

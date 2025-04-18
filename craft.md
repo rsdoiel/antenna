@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-04-18 06:07:48
+updated: 2025-04-18 14:07:53
 ---
 
 # craft
 
-(date: 2025-04-18 06:07:48)
+(date: 2025-04-18 14:07:53)
+
+---
+
+## Back in Stock: Scrapers & 2 Books
+
+date: 2025-04-18, from: Lost Arg Press blog
+
+First the good news: Tariffs aren’t yet affecting Lost Art Press books. We print entirely in the United States. But some of the raw materials, including some of the papers we use, come from Canada. We follow the issue closely, and our books might not see any price increases. The bad news: metal prices are... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/18/back-in-stock-scrapers-2-books/>
+
+---
+
+## Save on ‘Roubo on Furniture’ Through April 21
+
+date: 2025-04-18, from: Lost Arg Press blog
+
+We&#8217;re extending – by one day – the special introductory price for “With All the Precision Possible: Roubo on Furniture.” Through Monday, April 21, 2025, it is $100 with free domestic shipping. This new edition is a significant upgrade to the “trade” edition, which was in black-and-white and on uncoated paper. The new edition is... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/18/save-on-roubo-on-furniture-through-april-21/>
 
 ---
 
@@ -18,6 +42,18 @@ This is an excerpt from &#8220;With all the Precision Possible: Roubo on Furnitu
 <br> 
 
 <https://blog.lostartpress.com/2025/04/17/reproducing-and-using-moxons-waving-engine/>
+
+---
+
+## Simple Guitar Dent Repair Technique
+
+date: 2025-04-16, from: Learn The Art of Lutherie
+
+ 
+
+<br> 
+
+<https://theartoflutherie.com/guitar-dent-repair/>
 
 ---
 

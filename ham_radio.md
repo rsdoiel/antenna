@@ -1,11 +1,35 @@
 ---
 title: ham radio
-updated: 2025-04-18 06:07:43
+updated: 2025-04-18 14:07:45
 ---
 
 # ham radio
 
-(date: 2025-04-18 06:07:43)
+(date: 2025-04-18 14:07:45)
+
+---
+
+## Former ARRL Vice Director Wayne Overbeck, N6NB, SK
+
+date: 2025-04-18, from: Amateur Radio Relay League News
+
+<p>Former ARRL Vice Director and Contest Advisory Committee Chairman Wayne Overbeck, N6NB, passed away Saturday April 12, 2025. He was 82 years old. Overbeck held an Amateur Extra-class license and was active in amateur radio for over 68 years. He served four terms as an elected ARRL Vice Director, from 1984 to 1993, and was also chairman of the ARRL Contest Advisory Committee during the 1970s and...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/former-arrl-vice-director-wayne-overbeck-n6nb-sk>
+
+---
+
+## Paul “Tad” Cook, K7RA, SK
+
+date: 2025-04-18, from: Amateur Radio Relay League News
+
+<p>Paul “Tad” Cook, K7RA, passed away on April 13, 2025. </p><p>For 36 years, Cook wrote the weekly W1AW Propagation Forecast Bulletin and the K7RA Solar Update for the <em>ARRL Letter</em>. He retired in January 2025, citing a recent ALS diagnosis and on March 8, Cook received the ARRL President’s Award presented to him by ARRL Northwestern Division Director Mark Tharp, KB7HDX.</p><p>Several weeks ago, Robin Amundson, ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/paul-tad-cook-k7ra-sk>
 
 ---
 
@@ -13,7 +37,7 @@ updated: 2025-04-18 06:07:43
 
 date: 2025-04-18, from: EDN Blog
 
-<img width="5472" height="3486" src="https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?fit=5472%2C3486" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=5472 5472w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=2850 2850w" sizes="(max-width: 5472px) 100vw, 5472px" /><p>The GlobalFoundries’ Senior Director of Automotive discusses how semiconductors will form the basis for user-friendly SDV advancements.</p>
+<img width="5472" height="3486" src="https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?fit=5472%2C3486" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=5472 5472w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/GettyImages-927875612.jpg?w=2850 2850w" sizes="(max-width: 5472px) 100vw, 5472px" /><p>The GlobalFoundries’ VP of Automotive discusses how semiconductors will form the basis for user-friendly SDV advancements.</p>
 <p>The post <a href="https://www.edn.com/architectural-opportunities-propel-software-defined-vehicles-forward/">Architectural opportunities propel software-defined vehicles forward</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

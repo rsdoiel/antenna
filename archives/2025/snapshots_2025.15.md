@@ -1,11 +1,386 @@
 ---
 title: snapshots
-updated: 2025-04-18 06:07:50
+updated: 2025-04-18 14:07:55
 ---
 
 # snapshots
 
-(date: 2025-04-18 06:07:50)
+(date: 2025-04-18 14:07:55)
+
+---
+
+## A Trip to the 50th Alaska Folk Festival
+
+date: 2025-04-18, from: Chris Coyier blog
+
+&#8220;How&#8217;s your folk fest?&#8221; people ask each other on the street. Nobody doesn&#8217;t know what you mean. Community is a word that gets thrown around a lot. It doesn&#8217;t bother me. Community means lots of things. They can be small or big, tight or loose, in person or digital, and live on a million other [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/04/18/a-trip-to-the-50th-alaska-folk-festival/>
+
+---
+
+## Lilbits: A 60 Hz E Ink monitor, Lenovo’s next gaming tablet, and Nintendo Switch 2 pre-orders
+
+date: 2025-04-18, from: Liliputing
+
+<p>When Nintendo introduces the Switch 2 earlier this month the company said it would go up for pre-order on April 9th. Two days later the company put those plans on hold while it tried to gauge the impact of global tariffs imposed by the Trump administration. Now Nintendo says its next game console will go [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-a-60-hz-e-ink-monitor-lenovos-next-gaming-tablet-and-nintendo-switch-2-pre-orders/">Lilbits: A 60 Hz E Ink monitor, Lenovo&#8217;s next gaming tablet, and Nintendo Switch 2 pre-orders</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-a-60-hz-e-ink-monitor-lenovos-next-gaming-tablet-and-nintendo-switch-2-pre-orders/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+Harvard Stands Up. 
+
+<br> 
+
+<https://www.thenation.com/article/society/harvard-trump-defiance-campus-mood/>
+
+---
+
+## New Asus Chromebook CX14 and CX15 laptops have 1080p displays and Intel Twin Lake processors
+
+date: 2025-04-18, from: Liliputing
+
+<p>Asus is refreshing its Chromebook CX14 and CX15 line of laptops with several new models sporting 1080p displays and support for up to an Intel Core i3-N355 Twin Lake processor. The new Asus Chromebook CX14 models have 14 inch displays and starting weighs of 1.39 kg (3.1 pounds), while the Chromebook CX15 is a 1.59kg [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/new-asus-chromebook-cx14-and-cx15-laptops-have-1080p-displays-and-intel-twin-lake-processors/">New Asus Chromebook CX14 and CX15 laptops have 1080p displays and Intel Twin Lake processors</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/new-asus-chromebook-cx14-and-cx15-laptops-have-1080p-displays-and-intel-twin-lake-processors/>
+
+---
+
+## Quoting Andrew Ng
+
+date: 2025-04-18, updated: 2025-04-18, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.deeplearning.ai/the-batch/issue-297/"><p>To me, a successful eval meets the following criteria. Say, we currently have system A, and we might tweak it to get a system B:</p>
+<ul>
+<li>If A works significantly better than B according to a skilled human judge, the eval should give A a significantly higher score than B.</li>
+<li>If A and B have similar performance, their eval scores should be similar.</li>
+</ul>
+<p>Whenever a pair of systems A and B contradicts these criteria, that is a sign the eval is in “error” and we should tweak it to make it rank A and B correctly.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.deeplearning.ai/the-batch/issue-297/">Andrew Ng</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/18/andrew-ng/#atom-everything>
+
+---
+
+## Daily Deals (4-18-2025)
+
+date: 2025-04-18, from: Liliputing
+
+<p>Amazon offers a bunch of subscription services. Want access to a large library of eBooks? There&#8217;s Kindle Unlimited. Prefer comics? There&#8217;s ComiXology Unlimited. How about Audiobooks? There&#8217;s Audible Premium or Premium Plus. And if you&#8217;re intro music, there&#8217;s always Amazon Music Unlimited. And right now the company is offering deals on all of those services, allowing new [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-4-18-2025/">Daily Deals (4-18-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-4-18-2025/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+Imagine living without imports in the US. 
+
+<br> 
+
+<https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3ln44xrcexk2m>
+
+---
+
+## Returning to macOS After 20+ Years on Windows
+
+date: 2025-04-18, from: Michael Tsai
+
+Randy Parker (via TidBITS-Talk): For longer replies in Messages, I would often compose my message on my computer, email it to myself, and then copy and paste it from the Mail app on my iPhone into the Messages app.As a Windows user, I&#8217;d have to live with this frustration indefinitely unless I considered one of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/18/returning-to-macos-after-20-years-on-windows/>
+
+---
+
+## Investigating MacPaint’s Source Code
+
+date: 2025-04-18, from: Michael Tsai
+
+Jeffrey Starr (via Stephen Hackett): One of two launch applications for the Apple Macintosh in 1984, MacPaint is emblematic of the Macintosh&#8217;s early quirky revolutionary branding, focus on ease of use, and appeal to artistic customers. Using the source code, we examine the design and implementation of the application. We find that the buffer management [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/18/investigating-macpaints-source-code/>
+
+---
+
+## The Invalid 68030 Instruction That Accidentally Allowed the Mac Classic II to Successfully Boot Up
+
+date: 2025-04-18, from: Michael Tsai
+
+Doug Brown (via Uli Kusterer): This is the story of how Apple made a mistake in the ROM of the Macintosh Classic II that probably should have prevented it from booting, but instead, miraculously, its Motorola MC68030 CPU accidentally prevented a crash and saved the day by executing an undefined instruction.[&#8230;]I didn&#8217;t get very far [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/18/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+&quot;They want to rob it&quot;: Former Social Security head says Musk, Trump are &quot;wrecking&quot; agency to raid it. (And that&#39;s why Musk isn&#39;t worried about his Tesla stock.) 
+
+<br> 
+
+<https://www.salon.com/2025/04/18/they-want-to-rob-it-former-social-security-head-says-musk-are-wrecking-agency-to-raid-it/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+An introduction to plain language. This is great! Send it to the courts and Harvard and all other universities. Learn to speak so people understand. 
+
+<br> 
+
+<https://digital.gov/resources/an-introduction-to-plain-language/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+Republican Abortion Laws Are &#39;Torturing Women.&#39; Can the GOP Fix Its Own Crisis? 
+
+<br> 
+
+<https://www.texasobserver.org/republican-abortion-laws-texas-legislature-exceptions/>
+
+---
+
+## Behind the Blog: Chat, Are We Cooked?
+
+date: 2025-04-18, from: 404 Media Group
+
+This week, we discuss Palantir scoops, coping mechanisms, and feeling God in this Samsung television.  
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-chat-are-we-cooked/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+It&#39;s almost like Klingons meeting Romulans. 
+
+<br> 
+
+<https://github.com/scripting/wordlandSupport/issues/71>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+That the Senator was allowed to meet the Prisoner in El Salvador is encouraging because it means the govt of El Sal considers the possibility that Trump doesn&#39;t prevail and that they may be judged by the next US government. Same with the US Embassy in El Sal. 
+
+<br> 
+
+<https://www.dailykos.com/stories/2025/4/18/2317191/-Van-Hollen-s-El-Salvador-trip-exposes-lies-behind-wrongful-deportation>
+
+---
+
+## Democracy's Psychological Blind Spots
+
+date: 2025-04-18, from: Guy Kawasaki blog
+
+Ralph Hertwig, Director, Center for Adaptive Rationality, Max Planck Institute for Human Development. Stephan Lewandowsky Chair of Cognitive Psychology, University of Bristol. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/democracys-psychological-blind-spots>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+The courts, universities, every institution that the president is defaming have to learn quickly how to speak in plain non-condescending language. Go direct, go around the media. Use the tools. 
+
+<br> 
+
+<http://scripting.com/2022/04/13/165056.html>
+
+---
+
+## A Cry of Defiance, and Not of Fear
+
+date: 2025-04-18, updated: 2025-04-18, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/18/a-cry-of-defiance-and-not-of-fear/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+2024: WordPress has a greater destiny. 
+
+<br> 
+
+<http://scripting.com/2024/10/05/142118.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+‘Tesla Takedown’ organizers call on Democrats to shield Section 230. 
+
+<br> 
+
+<https://thehill.com/policy/technology/5253431-tesla-takedown-organizers-call-on-democrats-to-shield-section-230/>
+
+---
+
+## ZimaBoard 2 is a single-board server with Intel N150, dual SATA interfaces, and two 2.5 GbE LAN ports
+
+date: 2025-04-18, from: Liliputing
+
+<p>The ZimaBoard 2 is an upcoming single-board server that&#8217;s basically a pocket-sized PC with a low-power Intel processor plus a few extra features that set it apart from most other mini PCs. For one thing, the ZimaBoard 2 has a PCIe 3.0 x4 connector on the side that allows you to connect an SSD, Ethernet [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zimaboard-2-is-a-single-board-server-with-intel-n150-dual-sata-interfaces-and-two-2-5-gbe-lan-ports/">ZimaBoard 2 is a single-board server with Intel N150, dual SATA interfaces, and two 2.5 GbE LAN ports</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zimaboard-2-is-a-single-board-server-with-intel-n150-dual-sata-interfaces-and-two-2-5-gbe-lan-ports/>
+
+---
+
+## AI Slop Is Breaking the Internet as We Know It (404 Media Live at SXSW)
+
+date: 2025-04-18, from: 404 Media Group
+
+Here's our live panel and podcast from SXSW! 
+
+<br> 
+
+<https://www.404media.co/ai-slop-is-breaking-the-internet-as-we-know-it-404-media-live-at-sxsw/>
+
+---
+
+## Welcome to the Resistance, Bret Stephens.
+
+date: 2025-04-18, from: Dave Karpf's blog
+
+The elite opinion vibe shift is underway. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/welcome-to-the-resistance-bret-stephens>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+Tesla brand damage is destroying used car value: &#39;People don&#39;t want them anymore.&#39; 
+
+<br> 
+
+<https://electrek.co/2025/04/18/tesla-tsla-brand-damage-destroying-used-car-value/>
+
+---
+
+## United States of Debt
+
+date: 2025-04-18, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>“I would like to come back as the bond market. You can intimidate everybody.” — James Carville  America is blinking. The day after April Fool’s Day, President Trump “liberated” the United States from an eight-decade run as the world’s economic superpower, raising the cost of capital for the federal government, American companies, and consumers. If [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/united-states-of-debt/">United States of Debt</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/united-states-of-debt/>
+
+---
+
+## Unix Review Interviews Sun Co-Founder Bill Joy (1994)
+
+date: 2025-04-18, from: Computer ads from the Past
+
+A lot of talk about editors and the future 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/unix-review-interviews-sun-co-founder>
+
+---
+
+## Image segmentation using Gemini 2.5
+
+date: 2025-04-18, updated: 2025-04-18, from: Simon Willison’s Weblog
+
+<p>Max Woolf pointed out this new feature of the Gemini 2.5 series (here's my coverage of <a href="https://simonwillison.net/2025/Mar/25/gemini/">2.5 Pro</a> and <a href="https://simonwillison.net/2025/Apr/17/start-building-with-gemini-25-flash/">2.5 Flash</a>) in <a href="https://news.ycombinator.com/item?id=43720845#43722227">a comment</a> on Hacker News:</p>
+<blockquote>
+<p>One hidden note from Gemini 2.5 Flash when diving deep into the documentation: for image inputs, not only can the model be instructed to generated 2D bounding boxes of relevant subjects, but it can also <a href="https://ai.google.dev/gemini-api/docs/image-understanding#segmentation">create segmentation masks</a>!</p>
+<p>At this price point with the Flash model, creating segmentation masks is pretty nifty.</p>
+</blockquote>
+<p>I built a tool last year to <a href="https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/">explore Gemini's bounding box abilities</a>. This new segmentation mask feature represents a significant new capability!</p>
+<p>Here's my new tool to try it out: <strong><a href="https://tools.simonwillison.net/gemini-mask">Gemini API Image Mask Visualization</a></strong>. As with my bounding box tool it's browser-based JavaScript that talks to the Gemini API directly. You provide it with a <a href="https://aistudio.google.com/app/apikey">Gemini API key</a> which isn't logged anywhere that I can see it.</p>
+<p>This is what it can do:</p>
+<p><img src="https://static.simonwillison.net/static/2025/mask-tool.jpg" alt="Screenshot of mask tool. At the top is a select box to pick a model (currently using Gemini 2.5 Pro) and a prompt that reads: Give the segmentation masks for the pelicans. Output a JSON list of segmentation masks where each entry contains the 2D bounding box in the key &quot;box_2d&quot; and the segmentation mask in key &quot;mask&quot;. Below that is JSON that came back - an array of objects. The mask keys are base64 encoded PNG data. Below that is the original image, then the image with masks overlaid and a coordinate system, then two columns showing each cropped image and mask next to each other." style="max-width: 100%;" /></p>
+<p>Give it an image and a prompt of the form:</p>
+<blockquote>
+<p><code>Give the segmentation masks for the objects. Output a JSON list of segmentation masks where each entry contains the 2D bounding box in the key "box_2d" and the segmentation mask in key "mask".</code></p>
+</blockquote>
+<p>My tool then runs the prompt and displays the resulting JSON. The Gemini API returns segmentation masks as base64-encoded PNG images in strings that start <code>data:image/png;base64,iVBOR...</code>. The tool then visualizes those in a few different ways on the page, including overlaid over the original image.</p>
+<p>I <a href="https://simonwillison.net/tags/vibe-coding/">vibe coded</a> the whole thing together using a combination of Claude and ChatGPT. I started with <a href="https://claude.ai/share/2dd2802a-c8b4-4893-8b61-0861d4fcb0f1">a Claude Artifacts React prototype</a>, then pasted the code from my old project into Claude and <a href="https://claude.ai/share/9e42d82b-56c7-46c1-ad0c-fc67c3cad91f">hacked on that until I ran out of tokens</a>. I transferred the incomplete result to a new Claude session where I <a href="https://claude.ai/share/f820f361-5aa7-48b5-a96d-f0f8b11d3869">kept on iterating</a> until it got stuck in a bug loop (the same bug kept coming back no matter how often I told it to fix that)... so I switched over to O3 in ChatGPT <a href="https://chatgpt.com/share/6801c8ad-18c8-8006-bdd8-447500eae33e">to finish it off</a>.</p>
+<p>Here's <a href="https://github.com/simonw/tools/blob/main/gemini-mask.html">the finished code</a>. It's a total mess, but it's also less than 500 lines of code and the interface solves my problem in that it lets me explore the new Gemini capability.</p>
+<p>Segmenting my pelican photo via the Gemini API was <em>absurdly</em> inexpensive. Using Gemini 2.5 Pro the call cost 303 input tokens and 353 output tokens, for a total cost of 0.2144 cents (less than a quarter of a cent). I ran it again with the new Gemini 2.5 Flash and it used 303 input tokens and 270 output tokens, for a total cost of 0.099 cents (less than a tenth of a cent). I calculated these prices using my <a href="https://tools.simonwillison.net/llm-prices">LLM pricing calculator</a> tool.</p>
+
+<h4 id="gemini-2-5-flash-non-thinking">1/100th of a cent with Gemini 2.5 Flash non-thinking</h4>
+<p>Gemini 2.5 Flash has two pricing models. Input is a standard $0.15/million tokens, but the output charges differ a lot: in non-thinking mode output is $0.60/million, but if you have thinking enabled (the default) output is $3.50/million. I think of these as "Gemini 2.5 Flash" and "Gemini 2.5 Flash Thinking".</p>
+<p>My initial experiments all used thinking mode. I decided to upgrade the tool to try non-thinking mode, but noticed that the API library it was using (<a href="https://github.com/google-gemini/deprecated-generative-ai-js">google/generative-ai</a>) is marked as deprecated.</p>
+<p>On a hunch, I pasted the code into <a href="https://simonwillison.net/2025/Apr/16/introducing-openai-o3-and-o4-mini/">the new o4-mini-high model</a> in ChatGPT and prompted it with:</p>
+<blockquote>
+<p><code>This code needs to be upgraded to the new recommended JavaScript  library from Google. Figure out what that is and then look up enough documentation to port this code to it</code></p>
+</blockquote>
+<p>o4-mini and o3 both have search tool access and claim to be good at mixing different tool uses together.</p>
+<p>This worked <em>extremely</em> well! It ran a few searches and identified exactly what needed to change:</p>
+<p><img src="https://static.simonwillison.net/static/2025/o4-thinking.jpg" alt="Screenshot of AI assistant response about upgrading Google Gemini API code. Shows &quot;Thought for 21 seconds&quot; followed by web search results for &quot;Google Gemini API JavaScript library recommended new library&quot; with options including Google AI for Developers, GitHub, and Google for Developers. The assistant explains updating from GoogleGenerativeAI library to @google-ai/generative, with code samples showing: import { GoogleGenAI } from 'https://cdn.jsdelivr.net/npm/@google/genai@latest'; and const ai = new GoogleGenAI({ apiKey: getApiKey() });" style="max-width: 100%;" /></p>
+<p>Then gave me detailed instructions along with an updated snippet of code. Here's <a href="https://chatgpt.com/share/68028f7b-11ac-8006-8150-00c4205a2507">the full transcript</a>.</p>
+<p>I prompted for a few more changes, then had to tell it not to use TypeScript (since I like copying and pasting code directly out of the tool without needing to run my own build step). The <a href="https://tools.simonwillison.net/gemini-mask">latest version</a> has been rewritten by o4-mini for the new library, defaults to Gemini 2.5 Flash non-thinking and displays usage tokens after each prompt.</p>
+<p><img src="https://static.simonwillison.net/static/2025/mask-tool-non-thinking.jpg" alt="Screenshot of the new tool. Gemini 2.5 Flash non-thinking is selected. Same prompt as before. Input tokens: 303 • Output tokens: 123" style="max-width: 100%;" /></p>
+<p>Segmenting my pelican photo in non-thinking mode cost me 303 input tokens and 123 output tokens - that's 0.0119 cents, just over 1/100th of a cent!</p>
+
+<h4 id="but-this-looks-like-way-more-than-123-output-tokens">But this looks like way more than 123 output tokens</h4>
+<p>The JSON that's returned by the API looks <em>way</em> too long to fit just 123 tokens.</p>
+<p>My hunch is that there's an additional transformation layer here. I think the Gemini 2.5 models return a much more efficient token representation of the image masks, then the Gemini API layer converts those into base4-encoded PNG image strings.</p>
+<p>We do have one clue here: last year DeepMind <a href="https://simonwillison.net/2024/May/15/paligemma/">released PaliGemma</a>, an open weights vision model that could generate segmentation masks on demand.</p>
+<p>The <a href="https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md#tokenizer">README for that model</a> includes this note about how their tokenizer works:</p>
+<blockquote>
+<p>PaliGemma uses the Gemma tokenizer with 256,000 tokens, but we further extend its vocabulary with 1024 entries that represent coordinates in normalized image-space (<code>&lt;loc0000&gt;...&lt;loc1023&gt;</code>), and another with 128 entries (<code>&lt;seg000&gt;...&lt;seg127&gt;</code>) that are codewords used by a lightweight referring-expression segmentation vector-quantized variational auto-encoder (VQ-VAE) [...]</p>
+</blockquote>
+<p>My guess is that Gemini 2.5 is using a similar approach.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/max-woolf">max-woolf</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/image-segmentation">image-segmentation</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/#atom-everything>
 
 ---
 
@@ -38,6 +413,18 @@ I never thought that David Brooks would put it all together, in the NYT of all p
 <br> 
 
 <https://www.nytimes.com/2025/04/17/opinion/trump-harvard-law-firms.html?unlocked_article_code=1.Ak8.LHL9.ppLoMUS-09zk&smid=url-share>
+
+---
+
+## Lexington and Concord: 22 Hours and a Shot Heard Around the World
+
+date: 2025-04-18, from: National Archives, Pieces of History blog
+
+In celebration of the upcoming 250th anniversary of the United States, the National Archives is highlighting key events in our nation’s journey to independence. This edition explores the first battles of the American Revolutionary War: Lexington and Concord. Today’s post comes from Tracy Baker, an intern in the National Archives Office of the Executive Secretariat. &#8230; <a href="https://prologue.blogs.archives.gov/2025/04/18/lexington-and-concord-22-hours-and-a-shot-heard-around-the-world/" class="more-link">Continue reading <span class="screen-reader-text">Lexington and Concord: 22 Hours and a Shot Heard Around the World</span></a> 
+
+<br> 
+
+<https://prologue.blogs.archives.gov/2025/04/18/lexington-and-concord-22-hours-and-a-shot-heard-around-the-world/>
 
 ---
 

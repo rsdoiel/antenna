@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-18 06:07:43
+updated: 2025-04-18 14:07:46
 ---
 
 # science and technology
 
-(date: 2025-04-18 06:07:43)
+(date: 2025-04-18 14:07:46)
+
+---
+
+## Cursor AI's own support bot hallucinated its usage policy
+
+date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>Making up subscription limits as it goes? Super encouraging from a code assistant. Anyways, back to <code>int main(enter the void)</code>...</h4> <p>In a fitting bit of irony, users of Cursor AI experienced the limitations of AI firsthand when the programming tool&#39;s own AI support bot hallucinated a policy limitation that doesn&#39;t actually exist.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/18/cursor_ai_support_bot_lies/>
+
+---
+
+## Hubble Spies Cosmic Pillar in Eagle Nebula
+
+date: 2025-04-18, from: NASA breaking news
+
+This newly reprocessed image released on April 18, 2025, provides a new view of an enormous, 9.5-light-year-tall pillar of cold gas and dust. Despite its size, it’s just one small piece of the greater Eagle Nebula, also called Messier 16. The Eagle Nebula is one of many nebulae in the Milky Way that are known [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-spies-cosmic-pillar-in-eagle-nebula/>
+
+---
+
+## Dems fret over DOGE feeding sensitive data into random AI
+
+date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>Using LLMs to pick programs, people, contracts to cut is bad enough – but doing it with Musk&#39;s Grok? Yikes</h4> <p>A group of 48 House Democrats is concerned that Elon Musk&#39;s cost-trimmers at DOGE are being careless in their use of AI to help figure out where to slash, creating security risks and giving the oligarch&#39;s artificial intelligence lab an inside track to train its models on government info.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/18/house_democrats_doge/>
+
+---
+
+## NASA to Cover US Spacewalk 93, Hold Preview News Conference
+
+date: 2025-04-18, from: NASA breaking news
+
+Two NASA astronauts will venture outside the International Space Station, conducting U.S. spacewalk 93 on Thursday, May 1, to complete station upgrades. NASA will preview the upcoming spacewalk during a news conference at 2 p.m. EDT on Thursday, April 24, on the agency’s website from NASA’s Johnson Space Center in Houston. Learn how to watch [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-93-hold-preview-news-conference/>
+
+---
+
+## Early Career Faculty 2024
+
+date: 2025-04-18, from: NASA breaking news
+
+Back to ECF Home Transformational Advanced Energetic Propulsion Power Systems to Enable Small System Operations in Permanently Shadowed Lunar Regions 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/early-career-faculty-2024/>
+
+---
+
+## Developing Oxychalcogenide Membranes for Superconducting Power Transmission
+
+date: 2025-04-18, from: NASA breaking news
+
+ECF 2024 Quadchart Yang.pdf Shuolong Yang University of Chicago This effort will leverage the latest developments in superconductors to build a power transmission cable that can operate in the extreme cold temperatures found on the Moon with very low electrical losses. The team will use novel manufacturing techniques to grow alternating layers of FeSe SrTiO3 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/developing-oxychalcogenide-membranes-for-superconducting-power-transmission/>
+
+---
+
+## Power on the Dark Side: Stimulus-Responsive Adsorbents for Low-Energy Controlled Storage and Delivery of Low Boiling Fuels to Mobile Assets in Permanently Shaded Regions
+
+date: 2025-04-18, from: NASA breaking news
+
+ECF 2024 Quadchart McGuirk.pdf Christopher McGuirk Colorado School of Mines This project will investigate and develop improved storage methods for the fuels needed to generate electrical power in places where sunlight is not available. The effort will focus on particularly tailored materials called Metal Oxide Frameworks, or MOFs, that can be used to store methane [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/power-on-the-dark-side-stimulus-responsive-adsorbents-for-low-energy-controlled-storage-and-delivery-of-low-boiling-fuels-to-mobile-assets-in-permanently-shaded-regions/>
+
+---
+
+## Piezoelectric-Based Power Conversion for Lunar Surface Systems
+
+date: 2025-04-18, from: NASA breaking news
+
+ECF 2024 Quadchart Boles.pdf Jessica Boles University of California, Berkeley This project will develop piezoelectric-based power conversion for small power systems on the lunar surface. These piezoelectric systems can potentially offer high power density to significantly reduce size, weight, and cost. They can also offer high efficiency as well as resistance to the extreme lunar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/piezoelectric-based-power-conversion-for-lunar-surface-systems/>
+
+---
+
+## Lightweight Deployable Solar Reflectors
+
+date: 2025-04-18, from: NASA breaking news
+
+ECF 2024 Quadchart Arya.pdf Manan Arya Stanford University This grant will design and develop lightweight, low-cost modular solar reflectors that can be stowed for transport in a compact volume. These reflectors can potentially be used to reflect and concentrate sunlight into a permanently shadowed area of the Moon where it could power photovoltaics. These reflectors [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/lightweight-deployable-solar-reflectors/>
+
+---
+
+## Stabilized Z-Pinch Fusion Driven Electromagnetic Propulsion
+
+date: 2025-04-18, from: NASA breaking news
+
+ECF 2024 Quadchart Underwood.pdf Thomas Underwood University of Texas, Austin This project will demonstrate a fusion propulsion system based on z-pinch which is a method of compressing plasma by running electrical current though it. The z-pinch will compress and heat the plasma to produce fusion reactions, and the system will be paired with an electromagnetic [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/stabilized-z-pinch-fusion-driven-electromagnetic-propulsion/>
+
+---
+
+## Origami-inspired Diffractive Sail for Directed Energy Propulsion
+
+date: 2025-04-18, from: NASA breaking news
+
+ECF 2024 Quadchart Oguri.pdf Kenshiro Oguri Purdue University This project will investigate one of the key fundamental challenges associated with directed-energy light-sailing technology, similar to solar sails but powered by a laser beam pointed at the sail instead of by the sun. The effort will first mathematically model, then design, build, and test a prototype [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/origami-inspired-diffractive-sail-for-directed-energy-propulsion/>
+
+---
+
+## Concept Demonstration of Directed Energy Propulsion with Metasurface Lightsails
+
+date: 2025-04-18, from: NASA breaking news
+
+ECF 2024 Quadchart Ilic.pdf Ognjen Ilic University of Minnesota This effort will aim to demonstrate the feasibility of directed-energy propulsion through a combination of computational simulations and prototype testing. The project will model the interactions between lightsail material and a laser beam that can be pointed at the sail to propel the spacecraft. The results [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/concept-demonstration-of-directed-energy-propulsion-with-metasurface-lightsails/>
+
+---
+
+## Oracle hopes talk of cloud data theft dies off. CISA just resurrected it for Easter
+
+date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>Some in the infosec world definitely want to see Big Red crucified</h4> <p>CISA – the US government&#39;s Cybersecurity and Infrastructure Security Agency – has issued an alert for those who missed Oracle grudgingly admitting some customer data was stolen from the database giant&#39;s public cloud infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/18/oracle_cisa_advisory/>
+
+---
+
+## New Proof Settles Decades-Old Bet About Connected Networks
+
+date: 2025-04-18, from: Quanta Magazine
+
+According to mathematical legend, Peter Sarnak and Noga Alon made a bet about optimal graphs in the late 1980s. They’ve now both been proved wrong.            <p>The post <a href="https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/" target="_blank">New Proof Settles Decades-Old Bet About Connected Networks</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/>
 
 ---
 
@@ -191,7 +359,7 @@ date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
 
 ## Small ocean swirls may have an outsized affect on climate, NASA satellite shows
 
-date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
+date: 2025-04-17, updated: 2025-04-18, from: The Register (UK I.T. News)
 
 <h4>SWOT satellite lets scientists observe small-scale eddies and waves for the first time</h4> <p>A NASA-led satellite mission has suggested that swirls and eddies in the middle of the ocean have a bigger influence on Earth&#39;s climate system than scientists previously realized.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -635,7 +803,7 @@ date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 ## CVE program gets last-minute funding from CISA – and maybe a new home
 
-date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+date: 2025-04-16, updated: 2025-04-18, from: The Register (UK I.T. News)
 
 <h4>Uncertainty is the new certainty</h4> <p>In an 11th-hour reprieve, the US government last night agreed to continue funding the globally used Common Vulnerabilities and Exposures (CVE) program.…</p> 
 
