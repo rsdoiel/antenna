@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2025-04-17 14:08:18
+updated: 2025-04-18 06:07:43
 ---
 
 # science and technology
 
-(date: 2025-04-17 14:08:18)
+(date: 2025-04-18 06:07:43)
+
+---
+
+## Hubble Spots a Squid in the Whale
+
+date: 2025-04-18, from: NASA breaking news
+
+Today’s rather aquatic-themed NASA/ESA Hubble Space Telescope image features the spiral galaxy Messier 77, also known as the Squid Galaxy, which sits 45 million light-years away in the constellation Cetus (The Whale). The designation Messier 77 comes from the galaxy’s place in the famous catalog compiled by the French astronomer Charles Messier. Another French astronomer, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spots-a-squid-in-the-whale/>
+
+---
+
+## CVE fallout: The splintering of the standard vulnerability tracking system has begun
+
+date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>MITRE, EUVD, GCVE … WTF?</h4> <p><strong>Comment</strong>  The splintering of the global system for identifying and tracking security bugs in technology products has begun.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/18/splintering_cve_bug_tracking/>
+
+---
+
+## Need a Linux admin? Ask a hair stylist to introduce you to a worried mother
+
+date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>Lad who &#39;stays in his bedroom on his computer&#39; emerged ready to deliver brilliant tech support</h4> <p><strong>On Call</strong>  It may be a holiday Friday in much of the <i>Reg</i>-reading world but that won&#39;t stop us from delivering another installment of On Call, our weekly reader-contributed column that tells your tech support tales.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/18/on_call/>
+
+---
+
+## IBM orders US sales to locate near customers or offices
+
+date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>&#39;Return to client&#39; push coincides with RTO for cloud staff, DEI purge</h4> <p><strong>Exclusive</strong>  IBM, which employees wryly or ruefully say stands for I&#39;ve Been Moved, is once again moving its employees.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/>
+
+---
+
+## Origins Uncertain: ‘Skull Hill’ Rock
+
+date: 2025-04-17, from: NASA breaking news
+
+Written by Margaret Deahn, Ph.D. Student at Purdue University Last week, NASA’s Mars 2020 rover continued its journey down lower ‘Witch Hazel Hill’ on the Jezero crater rim. The rover stopped along a boundary visible from orbit dividing light and dark rock outcrop (also known as a contact) at a site the team has called […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/origins-uncertain-skull-hill-rock/>
+
+---
+
+## Google is a monopolist in online advertising tech, judge says
+
+date: 2025-04-17, from: OS News
+
+Google acted illegally to maintain a monopoly in some online advertising technology, a federal judge ruled on Thursday, adding to legal troubles that could reshape the $1.86 trillion company and alter its power over the internet. Judge Leonie Brinkema of the U.S. District Court for the Eastern District of Virginia said in a 115-page ruling that Google had broken the law to build its dominance over the largely invisible system of technology that places advertisements on pages across the web. The Justice Department and a group of states had sued Google, arguing that its monopoly in ad technology allowed the company to charge higher prices and take a bigger portion of each sale. ↫ David McCabe at The New York Times Google has come under fire from all sides in the United States, being declared an abusive monopoly in two different court cases covering search and now online advertising. In this case, Google controls 87% of the online advertising market in the US, which clearly confers monopoly power onto the company. No actual remedies have been proposed yet in this case, though, but breaking up the company is on the table. Google isn&#8217;t the only company facing antitrust court cases in the US, as Amazon and Apple, too, have the US government breathing down their necks. All three of these companies have overtly been trying to buy the favour of the new regime in Washington, but so far, without any success. I doubt we&#8217;ll get as far as a breakup, but I definitely think that&#8217;s the only real way we&#8217;ll ever get proper market forces at work again in the technology market. Not that any of us are really &#8220;consumers&#8221; in this online ad business, but of course, monopoly pricing still affects us through higher prices for the goods being advertised. If companies are forced to accept Google&#8217;s higher pricing for online ads, those costs will definitely be offloaded to consumers. As such, even breaking up a monopoly that doesn&#8217;t seem to affect us personally can still improve our lives by lowering prices. 
+
+<br> 
+
+<https://www.osnews.com/story/142155/google-is-a-monopolist-in-online-advertising-tech-judge-says/>
+
+---
+
+## NASA Studies Wind Effects and Aircraft Tracking with Joby Aircraft
+
+date: 2025-04-17, from: NASA breaking news
+
+NASA engineers began using a network of ground sensors in March to collect data from an experimental air taxi to evaluate how to safely integrate such vehicles into airspace above cities – in all kinds of weather. Researchers will use the campaign to help improve tools to assist with collision avoidance and landing operations and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-studies-wind-effects-and-aircraft-tracking-with-joby-aircraft/>
 
 ---
 
@@ -33,7 +117,7 @@ The launch of space shuttle Discovery is captured in this April 12, 1985, photo.
 
 ---
 
-## Google wins 1-1: Judge rules ad giant broke antitrust law
+## Google wins 1-1: Judge rules ad giant broke some antitrust law
 
 date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
 

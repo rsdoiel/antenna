@@ -1,11 +1,151 @@
 ---
 title: going electric
-updated: 2025-04-17 14:08:24
+updated: 2025-04-18 06:07:48
 ---
 
 # going electric
 
-(date: 2025-04-17 14:08:24)
+(date: 2025-04-18 06:07:48)
+
+---
+
+## Air Taxi Startup Wants To Fly People … To The Airport
+
+date: 2025-04-18, from: Inside EVs News
+
+Archer Aviation says it would take less than 15 minutes to get passengers from various locations in Manhattan to the neighboring airports. 
+
+<br> 
+
+<https://insideevs.com/news/757042/archer-aviation-air-taxi-nyc-plan/>
+
+---
+
+## E-quipment highlight: Sandvik QH443E electric cone plant
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Sandvik-Electric_LM_B1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The new flagship Q-Range electric drive cone plant from the quarry experts at Sandvik is engineered to be safe, quiet, and tough enough to operate in the most hostile environments the mining and quarrying industries can put it in.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-heavy-machinery,heavy-equipment" data-layer-viewtype="unknown" data-post-id="411812" href="https://electrek.co/2025/04/18/e-quipment-highlight-sandvik-qh443e-electric-cone-plant/#more-411812" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/e-quipment-highlight-sandvik-qh443e-electric-cone-plant/>
+
+---
+
+## Past classic that deserves the electric restomod treatment: Ford Taurus
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/new-taurus.png?w=1600" /></div><p>The current EV era is ripe with revered classic car designs and nameplates that are being reborn as battery-powered rides – <a href="https://electrek.co/2024/12/08/renault-5-snatches-model-y-sales-crown-as-france-crosses-15-ev-adoption/">and the success of cars the Renault 5 proves it can be a winning formula</a>. Today, I’m suggesting another classic that deserves a modern electric update: <strong>the OG Ford Taurus</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="concept-car,ford,volkswagen" data-layer-viewtype="unknown" data-post-id="411845" href="https://electrek.co/2025/04/18/past-classic-that-deserves-the-electric-restomod-treatment-ford-taurus/#more-411845" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/past-classic-that-deserves-the-electric-restomod-treatment-ford-taurus/>
+
+---
+
+## Hyundai Pausing EV Production At Home Due To Slow Demand: Report
+
+date: 2025-04-18, from: Inside EVs News
+
+The Ulsan complex manufactures the Ioniq 5 and Kona EVs. 
+
+<br> 
+
+<https://insideevs.com/news/757054/hyundai-ev-production-pause-korea-weak-demand/>
+
+---
+
+## The new Aventon Pace 4 is getting closer to a theft-proof electric bike
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Aventon-pace-4-header-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Aventon has officially announced its latest electric bicycle, the<a href="https://alnk.to/2jNWrAf"> Pace 4</a>, adding advanced smart bike technology and enhanced rider comfort to its popular line of urban-friendly e-bikes. The Pace 4 builds upon Aventon’s successful formula of accessibility and ease of use, now augmented with new connectivity and security features that make it harder to steal and easier to get back.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="411836" href="https://electrek.co/2025/04/18/the-new-aventon-pace-4-is-getting-closer-to-a-theft-proof-electric-bike/#more-411836" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/the-new-aventon-pace-4-is-getting-closer-to-a-theft-proof-electric-bike/>
+
+---
+
+## 400 kW DC fast charging On The Run arrives in Canada – and it’s FREE!
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/400-kW-EV-charging-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>British Columbia got its first 400 kW DC fast charger last week at Canadian C-store chain On The Run, but that’s not the good part. As part of a limited time offer, these chargers are FREE!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="abb,canada,ev-charging" data-layer-viewtype="unknown" data-post-id="411714" href="https://electrek.co/2025/04/17/400-kw-dc-fast-charging-on-the-run-arrives-in-canada-and-its-free/#more-411714" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/400-kw-dc-fast-charging-on-the-run-arrives-in-canada-and-its-free/>
+
+---
+
+## Chevy, Cadillac and GMC EVs Are Getting In-Car Video Streaming
+
+date: 2025-04-17, from: Inside EVs News
+
+The feature is already available on cars like the Chevy Blazer EV SS and Cadillac Optiq, but it's coming to more cars via an update. 
+
+<br> 
+
+<https://insideevs.com/news/757029/chevy-cadillac-gmc-streaming-video/>
+
+---
+
+## Terawatt opens its first electric charging truck stop in California
+
+date: 2025-04-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Rancho_Dominguez_Site.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.terawattinfrastructure.com/" target="_blank" rel="noreferrer noopener">Terawatt Infrastructure</a>‘s first medium- and heavy-duty electric charging truck stop in California is now online, in Rancho Dominguez. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,electric-semi-truck,electric-trucks,ev-charging,terawatt" data-layer-viewtype="unknown" data-post-id="411789" href="https://electrek.co/2025/04/17/terawatt-first-electric-charging-truck-stop-california/#more-411789" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/17/terawatt-first-electric-charging-truck-stop-california/>
+
+---
+
+## Tesla's Cybertruck Problem Keeps Getting Worse
+
+date: 2025-04-17, from: Inside EVs News
+
+With inventory piling up, Tesla has started putting up to $10,000 on the hood of Cybertrucks. 
+
+<br> 
+
+<https://insideevs.com/news/757018/tesla-cybertruck-discounts-april-2025/>
+
+---
+
+## China Is Cracking Down On Misleading Driver Assistance Marketing
+
+date: 2025-04-17, from: Inside EVs News
+
+Yep, that includes Tesla's "Full Self Driving" branding.  
+
+<br> 
+
+<https://insideevs.com/news/757030/self-driving-china-miit-crackdown/>
 
 ---
 

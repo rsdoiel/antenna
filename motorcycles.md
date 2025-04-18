@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-04-17 14:08:23
+updated: 2025-04-18 06:07:47
 ---
 
 # motorcycles
 
-(date: 2025-04-17 14:08:23)
+(date: 2025-04-18 06:07:47)
+
+---
+
+## This EV Motorcycle Company Is Making Its Tech Available To Other Manufacturers
+
+date: 2025-04-18, from: Ride Apart, Electric Motorcycle News
+
+The goal is to help manufacturers drive innovation in the EV space. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756910/verge-next-open-source-electric-motorcycle-tech/>
+
+---
+
+## The 'Public Lands Rule' Is Set to Be Rescinded, and We're Still Fighting Each Other
+
+date: 2025-04-18, from: Ride Apart, Electric Motorcycle News
+
+I got so many emails and comments after my last story.  
+
+<br> 
+
+<https://www.rideapart.com/news/757007/public-lands-rule-rescinded-trump-administration/>
+
+---
+
+## Honda's Wild V3 Engine Gets One Step Closer To Reality, Trademark Filing Shows
+
+date: 2025-04-18, from: Ride Apart, Electric Motorcycle News
+
+At least, on paper. 
+
+<br> 
+
+<https://www.rideapart.com/news/757010/honda-v3r-name-trademark-filing/>
 
 ---
 

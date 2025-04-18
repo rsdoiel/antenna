@@ -1,11 +1,151 @@
 ---
 title: columns
-updated: 2025-04-17 14:08:20
+updated: 2025-04-18 06:07:44
 ---
 
 # columns
 
-(date: 2025-04-17 14:08:20)
+(date: 2025-04-18 06:07:44)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-18, from: Miguel de Icaza Mastondon feed)
+
+<p>A long time ago, I saw the first bits of Swift be used for the Swift compiler, looked cool.</p><p>Then I blinked for a second, and a massive chunk is now written in Swift!</p><p>Pretty sweet.</p><p><a href="https://github.com/swiftlang/swift/tree/main/SwiftCompilerSources" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/swiftlang/swift/tre</span><span class="invisible">e/main/SwiftCompilerSources</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114359068333434191>
+
+---
+
+## Keeping it on the < dl > – another HTML gem you never use
+
+date: 2025-04-18, from: Chris Heilmann's blog
+
+In a moment of boredom, I wrote a little app/web page that shows lovely words we should be using more. It is done in plain HTML, JavaScript, and some CSS. The source code is available, and I am also happy to receive pull requests adding more lovely words. This is not what I wanted to [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/04/18/keeping-it-on-the-dl-another-html-gem-you-never-use/>
+
+---
+
+## What we must do now
+
+date: 2025-04-18, from: Robert Reich's blog
+
+(And what I said at Berkeley) 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-bigger-threat-to-free-speech-than>
+
+---
+
+## April 17, 2025
+
+date: 2025-04-18, from: Heather Cox Richardson blog
+
+Today, Senator Chris Van Hollen (D-MD) posted a picture of himself with Kilmar Abrego Garcia, the Maryland man whom the Trump administration says it sent to the notorious CECOT prison in El Salvador through &#8220;administrative error&#8221; but can&#8217;t get back, and wrote: &#8220;I said my main goal of this trip was to meet with Kilmar. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-17-2025>
+
+---
+
+## Dominoes Are Falling.
+
+date: 2025-04-18, from: James Fallows, Substack
+
+Donald Trump's policy has been &#8216;flooding the zone,&#8217; throwing out so much, so fast, that no one could keep up. Now people are throwing it right back at him. And fast. 
+
+<br> 
+
+<https://fallows.substack.com/p/dominoes-are-falling>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Ok, let us tune it for the iPhone:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114356482349733068>
+
+---
+
+## How to Control the Electorate 101
+
+date: 2025-04-18, from: Dan Rather's Steady
+
+It begins when lawmakers use public money for private education 
+
+<br> 
+
+<https://steady.substack.com/p/how-to-control-the-electorate-101>
+
+---
+
+## Friday 18 April, 2025
+
+date: 2025-04-17, from: John Naughton's online diary
+
+Long gallery Quote of the Day ”One always learns more from ‘friendly critics’ than from uncritical friends.” Henry Kissinger, in a letter to Zbigniew Brzeziński Musical alternative to the morning’s radio news Mavis Staples &#38; Levon Helm &#124; &#8220;The Weight&#8221; &#8230; <a href="https://memex.naughtons.org/friday-18-april-2025/40692/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-18-april-2025/40692/>
+
+---
+
+##  Timeless Tips for &#8220;Simple Sabotage&#8221; From the CIA 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/timeless-tips-for-simple-sabotage-from-the-cia-1>
+
+---
+
+##  I love this interactive visualization by The Pudding of the shared DNA... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046660-i-love-this-interactive-v>
+
+---
+
+##  Olympic Gold Medalist Dominates the 100m at Her Kid&#8217;s Sports Day Event 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event>
+
+---
+
+##  The Rise of the Infinite Fringe. &#8220;It used to be easy to... 
+
+date: 2025-04-17, updated: 2025-04-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046658-the-rise-of-the-infinite>
 
 ---
 

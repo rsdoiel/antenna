@@ -1,11 +1,489 @@
 ---
 title: pacific
-updated: 2025-04-17 14:08:17
+updated: 2025-04-18 06:07:43
 ---
 
 # pacific
 
-(date: 2025-04-17 14:08:17)
+(date: 2025-04-18 06:07:43)
+
+---
+
+## DOH confirms second case of measles in Hawaii
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has confirmed a second case of measles in the household of a child previously confirmed on April 7.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/hawaii-news/doh-confirms-second-case-of-measles-in-hawaii-2/>
+
+---
+
+## Musk’s SpaceX is frontrunner to build Trump’s Golden Dome missile shield
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk&#8217;s SpaceX and two partners have emerged as frontrunners to win a crucial part of President Donald Trump&#8217;s &#8220;Golden Dome&#8221; missile defense shield, six people familiar with the matter said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/musks-spacex-is-frontrunner-to-build-trumps-golden-dome-missile-shield/>
+
+---
+
+## Earth Day at UH Hilo
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii Hilo and Hawaii Community College united Thursday to offer immersive environmental education and ecological career options to K-12 students at the annual La Honua Earth Day Fair and Conservation Career Day on the UH campus.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/hawaii-news/earth-day-at-uh-hilo/>
+
+---
+
+## Deputy sheriff’s son kills two at Florida State University, police say
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>A deputy sheriff&#8217;s son killed two people and wounded four others at Florida State University on Thursday before he was shot by officers and hospitalized, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/deputy-sheriffs-son-kills-two-at-florida-state-university-police-say/>
+
+---
+
+## US indicts Luigi Mangione in killing of health insurance executive
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>A federal grand jury has returned a four-count indictment against Luigi Mangione, the man accused in the Dec. 4 killing of a health care executive in Manhattan, the government said Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/us-indicts-luigi-mangione-in-killing-of-health-insurance-executive/>
+
+---
+
+## Trump opens a huge marine protected zone to commercial fishing
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Thursday that he was allowing commercial fishing in one of the world&#8217;s largest ocean reserves, introducing industrial operations for the first time in more than a decade to a vast area of the Pacific dotted with coral atolls and populated by endangered sea turtles and whales.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/trump-opens-a-huge-marine-protected-zone-to-commercial-fishing/>
+
+---
+
+## Google holds illegal monopolies in ad tech, US judge finds
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Alphabet&#8217;s Google illegally dominates two markets for online advertising technology, a judge ruled on Thursday, dealing another blow to the tech giant and paving the way for U.S. antitrust prosecutors to seek a breakup of its ad products.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/google-holds-illegal-monopolies-in-ad-tech-us-judge-finds/>
+
+---
+
+## US consumer watchdog says it will lay off most remaining staff
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Consumer Financial Protection Bureau, the agency created to serve as a watchdog for American consumers against predatory business practices, said on Thursday it planned to dismiss as much as 90% of its remaining workforce, resuming mass firings less than a week after a federal court ruling granted the Trump administration leeway in setting staff levels.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/us-consumer-watchdog-says-it-will-lay-off-most-remaining-staff/>
+
+---
+
+## Hamas says it is ready to release all remaining hostages for an end to Gaza war
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Hamas wants a comprehensive deal to end the war in Gaza and swap all Israeli hostages for Palestinians jailed in Israel, a senior official from the Palestinian militant group said, rejecting Israel&#8217;s offer of an interim truce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/hamas-says-it-is-ready-to-release-all-remaining-hostages-for-an-end-to-gaza-war/>
+
+---
+
+## Trump welcomes a European leader he likes: Meloni of Italy
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Oval Office bargaining over tariffs is accelerating.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/trump-welcomes-a-european-leader-he-likes-meloni-of-italy/>
+
+---
+
+## Supreme Court to hear arguments on Trump plan to end birthright citizenship
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court announced Thursday that it would hear arguments in a few weeks over President Donald Trump&#8217;s executive order ending birthright citizenship.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/supreme-court-to-hear-arguments-on-trump-plan-to-end-birthright-citizenship/>
+
+---
+
+## News in brief for April 18
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>WH challenges judges&#8217; compliance probes on deportation orders</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/news-in-brief-for-april-18/>
+
+---
+
+## A startling admission from a GOP senator: ‘We are all afraid’
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Sen. Lisa Murkowski, the moderate Alaska Republican who has routinely broken with her party to criticize President Donald Trump, has made a startling admission about the reality of serving in public office at a time when an unbound leader in the Oval Office is bent on retribution against his political foes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/a-startling-admission-from-a-gop-senator-we-are-all-afraid/>
+
+---
+
+## Trump amps up feud with Fed over rates, accuses Powell of ‘playing politics’
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>U.S. President Donald Trump on Thursday launched a series of attacks against Federal Reserve Chair Jerome Powell, accusing the central bank chief of &#8220;playing politics&#8221; by not cutting interest rates, asserting he had the power to evict Powell from his job &#8220;real fast,&#8221; and looking forward to the day when Powell was gone.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/trump-amps-up-feud-with-fed-over-rates-accuses-powell-of-playing-politics/>
+
+---
+
+## More Than 3,000 Children Approved for $200 Annual Subsidy
+
+date: 2025-04-18, from: Island Times
+
+<p>&#160;KOROR, Palau — More than 3,000 children in Palau have been approved to receive the annual child-raising subsidy, according to Vice President and Minister of Health and Human Services Raynold Oilouch. A total of 3,051 children were certified as eligible for the subsidy following the close of the 2025 application period, Oilouch confirmed. “We’ve received [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/more-than-3000-children-approved-for-200-annual-subsidy/">More Than 3,000 Children Approved for $200 Annual Subsidy</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/more-than-3000-children-approved-for-200-annual-subsidy/>
+
+---
+
+## Palau Wins top Honors at 2025 Marine Diving Fair in Tokyo
+
+date: 2025-04-18, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76890" data-permalink="https://islandtimes.org/palau-president-stresses-economic-resilience-in-face-of-trade-uncertainty/japan-marine-diving-fair/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan Marine Diving Fair" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Japan-Marine-Diving-Fair.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>TOKYO (April 6, 2025) — Palau earned top recognition at the 33rd Marine Diving Fair (MDF) in Tokyo, securing two first-place awards and reaffirming its global reputation as a premier diving destination. The event, held April 4–6 at the Sunshine City Convention Center in Ikebukuro, attracted 29,153 visitors. Palau’s delegation, led by the Palau Visitors [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-wins-top-honors-at-2025-marine-diving-fair-in-tokyo/">Palau Wins top Honors at 2025 Marine Diving Fair in Tokyo</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-wins-top-honors-at-2025-marine-diving-fair-in-tokyo/>
+
+---
+
+## State of Emergency in Chuuk: Disputed Election Sparks Violence and Legal Chaos
+
+date: 2025-04-18, from: Island Times
+
+<p>Chuuk, Federated States of Micronesia — What began as a routine gubernatorial election in Chuuk State has spiraled into a deepening political crisis marked by disputed election results, violence, and growing mistrust in the state’s democratic institutions. Governor Alexander Narruhn was sworn in for a new term on April 15 despite multiple legal challenges, uncounted [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/state-of-emergency-in-chuuk-disputed-election-sparks-violence-and-legal-chaos/">State of Emergency in Chuuk: Disputed Election Sparks Violence and Legal Chaos</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/state-of-emergency-in-chuuk-disputed-election-sparks-violence-and-legal-chaos/>
+
+---
+
+## Palau President Stresses Economic Resilience in Face of Trade Uncertainty
+
+date: 2025-04-18, from: Island Times
+
+<figure><img width="1024" height="688" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?fit=1024%2C688&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?w=1602&amp;ssl=1 1602w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=300%2C202&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=1024%2C688&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=768%2C516&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=1536%2C1033&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=1200%2C807&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=780%2C524&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=400%2C269&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?resize=706%2C475&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?fit=1024%2C688&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76891" data-permalink="https://islandtimes.org/palau-president-stresses-economic-resilience-in-face-of-trade-uncertainty/screenshot_20250417_211732_youtube/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?fit=1602%2C1077&amp;ssl=1" data-orig-size="1602,1077" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot_20250417_211732_YouTube" data-image-description="" data-image-caption="&lt;p&gt;President Whipps at April 16 press con talking about resilience in face of&lt;br /&gt;
+global economic turmoil.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?fit=300%2C202&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Screenshot_20250417_211732_YouTube.jpg?fit=780%2C524&amp;ssl=1" /></figure>
+<p>KOROR, Palau — President Surangel Whipps Jr. says Palau must brace for the economic impact of global trade tensions but avoid reactionary responses, especially when it comes to investments and cost-of-living challenges. “We must act based on a long-term plan, not reactionary,” Whipps said, referring to the global tariff war and increasing protectionist trade policies. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-president-stresses-economic-resilience-in-face-of-trade-uncertainty/">Palau President Stresses Economic Resilience in Face of Trade Uncertainty</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-president-stresses-economic-resilience-in-face-of-trade-uncertainty/>
+
+---
+
+## Palau’s list of undesirable aliens now totals 533, including a convicted money launderer from Singapore
+
+date: 2025-04-18, from: Island Times
+
+<p>According to the latest report from the Office of the Attorney General, as of April 3, 2025, the government of Palau has expanded its list of “undesirable aliens” to 533 individuals, up from over 400 in January of this year. The list includes foreign nationals whose entry permits have been denied or revoked by presidential [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-list-of-undesirable-aliens-now-totals-533-including-a-convicted-money-launderer-from-singapore/">Palau’s list of undesirable aliens now totals 533, including a convicted money launderer from Singapore</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-list-of-undesirable-aliens-now-totals-533-including-a-convicted-money-launderer-from-singapore/>
+
+---
+
+## The Western Community Health Center
+
+date: 2025-04-18, from: Island Times
+
+<figure><img width="1024" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?fit=1024%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?resize=300%2C111&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?resize=1024%2C378&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?resize=768%2C283&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?resize=1200%2C443&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?resize=780%2C288&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?resize=400%2C148&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?resize=706%2C261&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?fit=1024%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76875" data-permalink="https://islandtimes.org/the-western-community-health-center/ribbon-cutting-ngeremlengui-dispensary/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?fit=1249%2C461&amp;ssl=1" data-orig-size="1249,461" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ribbon cutting Ngeremlengui Dispensary" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?fit=300%2C111&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Ribbon-cutting-Ngeremlengui-Dispensary.jpg?fit=780%2C288&amp;ssl=1" /></figure>
+<p>The Western Community Health Center opened yesterday, Thursday, April 17, 2025. &#160;Located in Ngermeskang, Ngeremlengui, the new facility will provide crucial medical services to the residents of western Babeldaob. Speakers at the event expressed their gratitude to Ngiraklang, John Skebong, for the land donation in a ceremony attended by President Surangel Whipps Jr. and Vice [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-western-community-health-center/">The Western Community Health Center</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-western-community-health-center/>
+
+---
+
+## NZ urges US to stay an active partner of Pacific
+
+date: 2025-04-18, from: Island Times
+
+<p>New Zealand’s Deputy Prime Minister and Minister of Foreign Affairs, Winston Peters, urged the United States to remain engaged and to be an “active partner” of the Pacific. During his recent visit to Hawaii, Peters emphasized New Zealand’s commitment to the Pacific. He stated, as quoted by the East-West Center website, that “New Zealand wants—indeed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nz-urges-us-to-stay-an-active-partner-of-pacific/">NZ urges US to stay an active partner of Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/nz-urges-us-to-stay-an-active-partner-of-pacific/>
+
+---
+
+## Japan Foundation donation to PHS
+
+date: 2025-04-18, from: Island Times
+
+<figure><img width="1024" height="753" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?fit=1024%2C753&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?resize=300%2C220&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?resize=1024%2C753&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?resize=768%2C564&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?resize=1200%2C882&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?resize=780%2C573&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?resize=400%2C294&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?resize=706%2C519&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?fit=1024%2C753&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76868" data-permalink="https://islandtimes.org/japan-foundation-donation-to-phs/forhpsns_phs2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?fit=1249%2C918&amp;ssl=1" data-orig-size="1249,918" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744725060&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FORHPSNS_PHS2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?fit=300%2C220&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/FORHPSNS_PHS2.jpg?fit=780%2C574&amp;ssl=1" /></figure>
+<p>Followed by student presentations on JENESYS Program, Sakura Science Exchange Program, and Hi! PALM2024 On April 11th, 2025, the Japan Foundation, through the Embassy of Japan in Palau, donated Japanese Language Learning Materials to Palau High School during a handover ceremony on campus. The ceremony was attended by officials from Embassy of Japan, Director of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-foundation-donation-to-phs/">Japan Foundation donation to PHS</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japan-foundation-donation-to-phs/>
+
+---
+
+## Eco-Friendly Transportation Project
+
+date: 2025-04-18, from: Island Times
+
+<figure><img width="1024" height="760" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?fit=1024%2C760&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?resize=1024%2C760&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?resize=768%2C570&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?resize=1200%2C891&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?resize=780%2C579&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?resize=400%2C297&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?resize=706%2C524&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?fit=1024%2C760&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76863" data-permalink="https://islandtimes.org/eco-friendly-transportation-project/eco-friendly-transportation/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?fit=1249%2C927&amp;ssl=1" data-orig-size="1249,927" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Eco Friendly Transportation" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?fit=300%2C223&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Eco-Friendly-Transportation.jpeg?fit=780%2C579&amp;ssl=1" /></figure>
+<p>The Project for Establishing Eco-Friendly Transportation Project held a training course on April 1 to 11, 2025 in Japan.  This is the second training provided by the project for related staff at the Ministry of Human Resources, Community, Tourism, and Development, Ministry of Education, and Palau Visitors Authority.  They were Korhonen Kotaro, Carter Kahue, Aileen [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/eco-friendly-transportation-project/">Eco-Friendly Transportation Project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/eco-friendly-transportation-project/>
+
+---
+
+## Joy
+
+date: 2025-04-18, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
+<p>When you have a relationship with your Living Savior there is joy in your heart.&#160; It&#8217;s like the water Jesus offered to the Samaritan woman (the first&#160; missionary). Even in dry season, even in pain, you&#8217;ll have joy flowing within like water that goes through the wheel of water keeping the light shining in your [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/joy/">Joy</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/joy/>
+
+---
+
+## Hotels in the CNMI now in ‘survival mode’
+
+date: 2025-04-18, from: Island Times
+
+<p>SAIPAN (RNZ PACIFIC) &#8212;The Hotel Association of the Northern Mariana Islands (HANMI) says the Northern Mariana Islands&#8217; hotel industry is in survival mode and is again appealing for help in restoring flights from China and to a lesser extend from Japan. &#8220;We are actively exploring all available opportunities in the Korean market and, as an [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hotels-in-the-cnmi-now-in-survival-mode/">Hotels in the CNMI now in &#8216;survival mode&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/hotels-in-the-cnmi-now-in-survival-mode/>
+
+---
+
+## ‘America First does not mean America alone’: Officials assure Pacific of U.S commitment
+
+date: 2025-04-18, from: Island Times
+
+<p>HONOLULU (PMN)&#8212;The United States is not going anywhere and stands united with its Pacific allies in addressing threats to the region, especially from China. That was a key message Jean Lee, the presidential chair of the U.S-funded East-West Centre in Hawaii, sought to convey in an exclusive interview with PMN. Lee earlier met with New [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/america-first-does-not-mean-america-alone-officials-assure-pacific-of-u-s-commitment/">&#8216;America First does not mean America alone&#8217;: Officials assure Pacific of U.S commitment</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/america-first-does-not-mean-america-alone-officials-assure-pacific-of-u-s-commitment/>
+
+---
+
+## Indonesia dismisses report Russia seeking to base aircraft in country as ‘simply not true’, Australia says
+
+date: 2025-04-18, from: Island Times
+
+<p>CANBERRA (THE GUARDIAN)&#8212;Indonesia’s defence minister has said reports Russia is seeking to base military aircraft in the country “are simply not true”, according to the Australian government, after Canberra made urgent calls to Jakarta. The report from defence and security news website Janes said Moscow had filed an official request with Jakarta for permission for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/indonesia-dismisses-report-russia-seeking-to-base-aircraft-in-country-as-simply-not-true-australia-says/">Indonesia dismisses report Russia seeking to base aircraft in country as ‘simply not true’, Australia says</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/indonesia-dismisses-report-russia-seeking-to-base-aircraft-in-country-as-simply-not-true-australia-says/>
+
+---
+
+## China appoints a new trade negotiator during tariff fight with the U.S
+
+date: 2025-04-18, from: Island Times
+
+<p>BEIJING (AP)&#8212; China appointed a new trade negotiator Wednesday in the midst of its tariff fight with the United States as the world’s two largest economies steadily increase tariffs on each other’s goods. China’s government said Li Chenggang replaces Wang Shouwen, who participated in negotiations for the countries’ 2020 trade deal. China faces 145 percent [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-appoints-a-new-trade-negotiator-during-tariff-fight-with-the-u-s/">China appoints a new trade negotiator during tariff fight with the U.S</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-appoints-a-new-trade-negotiator-during-tariff-fight-with-the-u-s/>
+
+---
+
+## UH Mānoa water polo student manager broadcasts World Cup in China
+
+date: 2025-04-18, from: University of Hawaiʻi News
+
+<p>Silisteanu is in her third year as a student manager with the Rainbow Wahine water polo team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/ecaterina-silisteanu-world-cup-broadcaster/"><abbr>UH</abbr> Mānoa water polo student manager broadcasts World Cup in China</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/ecaterina-silisteanu-world-cup-broadcaster/>
+
+---
+
+## UH Maui College renews tuition support for Lahainaluna graduates
+
+date: 2025-04-18, from: University of Hawaiʻi News
+
+<p>New scholarships empower Lahainaluna grads to pursue college dreams at <abbr>UH</abbr> Maui College.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/uh-maui-college-tuition-support-lahainaluna/"><abbr>UH</abbr> Maui College renews tuition support for Lahainaluna graduates</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/uh-maui-college-tuition-support-lahainaluna/>
+
+---
+
+## Island vibes in Tokyo: UH alumni celebrate with President Hensel
+
+date: 2025-04-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> alumni pride and Hawaiian beats brought the aloha spirit to Japan.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/island-vibes-in-tokyo/">Island vibes in Tokyo: <abbr>UH</abbr> alumni celebrate with President Hensel</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/island-vibes-in-tokyo/>
+
+---
+
+## $2M DOJ award for violence prevention in schools, communities
+
+date: 2025-04-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> leads statewide effort to prevent school violence with $2M federal grant.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/2m-doj-award-for-violence-prevention/">$2M <abbr>DOJ</abbr> award for violence prevention in schools, communities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/2m-doj-award-for-violence-prevention/>
+
+---
+
+## UH Maui College named a Tree Campus
+
+date: 2025-04-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College earns Tree Campus designation and celebrates Earth Day.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/uh-maui-college-named-a-tree-campus/"><abbr>UH</abbr> Maui College named a Tree Campus</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/uh-maui-college-named-a-tree-campus/>
+
+---
+
+## Kīlauea volcano ash prompts largest open ocean phytoplankton bloom
+
+date: 2025-04-17, from: University of Hawaiʻi News
+
+<p>The rare and large summertime phytoplankton bloom occurred in the North Pacific Subtropical Gyre in summer 2018.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/17/kilauea-volcano-ash-phytoplankton-bloom/">Kīlauea volcano ash prompts largest open ocean phytoplankton bloom</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/17/kilauea-volcano-ash-phytoplankton-bloom/>
 
 ---
 
@@ -448,6 +926,20 @@ date: 2025-04-17, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/17/hawaii-news/man-in-big-island-fentanyl-case-to-plead-quilty-to-federal-charges/>
+
+---
+
+## DOH confirms second case of measles in Hawaii
+
+date: 2025-04-17, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has confirmed a second case of measles in the household of a child previously confirmed on April 7.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/17/hawaii-news/doh-confirms-second-case-of-measles-in-hawaii/>
 
 ---
 
@@ -1577,7 +2069,7 @@ date: 2025-04-15, from: Hawaii Tribune Harold
 
 date: 2025-04-15, from: Island Times
 
-<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?w=1260&amp;ssl=1 1260w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76816" data-permalink="https://islandtimes.org/palau-highlights-need-for-autism-awareness-as-more-locals-are-diagnosed/attachment/1000007980/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1260%2C709&amp;ssl=1" data-orig-size="1260,709" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744394224&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000007980" data-image-description="" data-image-caption="&lt;p&gt;Families and community members hold up signs in a month-long campaign to raise autism awareness).&lt;/p&gt;
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?w=1260&amp;ssl=1 1260w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76816" data-permalink="https://islandtimes.org/palau-highlights-need-for-autism-awareness-as-more-locals-are-diagnosed/attachment/1000007980/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=1260%2C709&amp;ssl=1" data-orig-size="1260,709" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744394224&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000007980" data-image-description="" data-image-caption="&lt;p&gt;Families and community members hold up signs in a month-long campaign to raise autism awareness).&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007980.jpg?fit=780%2C439&amp;ssl=1" /></figure>
 <p>KOROR, Palau — President Surangel S. Whipps Jr. has declared April as National Autism Awareness Month, calling on the people of Palau to learn more about autism and support families and individuals living with it. In his official proclamation, President Whipps said that raising awareness is especially important as more Palauan children are being diagnosed [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-highlights-need-for-autism-awareness-as-more-locals-are-diagnosed/">Palau highlights need for Autism Awareness as more locals are diagnosed</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -1607,7 +2099,7 @@ date: 2025-04-15, from: Island Times
 
 date: 2025-04-15, from: Island Times
 
-<figure><img width="768" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?w=768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="22673" data-permalink="https://islandtimes.org/housing-loan-bill-clears-both-houses-of-oek/45000690_1089349967899028_176353547607080960_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" data-orig-size="768,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="OEK" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" /></figure>
+<figure><img width="768" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?w=768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="22673" data-permalink="https://islandtimes.org/housing-loan-bill-clears-both-houses-of-oek/45000690_1089349967899028_176353547607080960_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" data-orig-size="768,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="OEK" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/06/45000690_1089349967899028_176353547607080960_n.png?fit=768%2C768&amp;ssl=1" /></figure>
 <p>KOROR, Palau — The Olbiil Era Kelulau (OEK) has introduced a bill aimed at codifying the structure of the Executive Branch and clarifying the roles and appointment processes of key national officers, citing the need for clear lines of authority and a stronger adherence to the constitutional separation of powers. Senate Bill No. 12-24, introduced [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/lawmakers-push-to-clarify-executive-branch-structure-in-new-bill/">Lawmakers push to Clarify Executive branch structure in New Bill</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1622,7 +2114,7 @@ date: 2025-04-15, from: Island Times
 
 date: 2025-04-15, from: Island Times
 
-<figure><img width="497" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?w=497&amp;ssl=1 497w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71308" data-permalink="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/surangel_whipps_jr-_at_japan-palau_summit_september_2022/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" data-orig-size="497,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1662694309&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;109&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr.&lt;/p&gt;
+<figure><img width="497" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?w=497&amp;ssl=1 497w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71308" data-permalink="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/surangel_whipps_jr-_at_japan-palau_summit_september_2022/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" data-orig-size="497,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1662694309&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;109&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=214%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" /></figure>
 <p>President Surangel Whipps Jr. has submitted a supplemental budget bill to the Olbiil Era Kelulau (OEK), requesting nearly $1.2 million in new funding and seeking appropriation of funds previously authorized—but not appropriated—under the Fiscal Year 2025 Unified Budget. The proposal, submitted April 4 and now under review by the Senate Ways and Means Committee, coincides [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/whipps-seeks-supplemental-budget-for-mini-games-utilities-and-social-aid/">Whipps Seeks Supplemental Budget for Mini-Games, Utilities, and Social Aid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

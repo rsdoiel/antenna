@@ -1,11 +1,340 @@
 ---
 title: snapshots
-updated: 2025-04-17 14:08:26
+updated: 2025-04-18 06:07:50
 ---
 
 # snapshots
 
-(date: 2025-04-17 14:08:26)
+(date: 2025-04-18 06:07:50)
+
+---
+
+## Judge Rules Blanket Search of Cell Tower Data Unconstitutional
+
+date: 2025-04-18, from: 404 Media Group
+
+Judge says tower dumps violate the 4th amendment, but will let the cops do it this one time, as a treat. 
+
+<br> 
+
+<https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+Harvard in the American Revolution. 
+
+<br> 
+
+<https://news.harvard.edu/gazette/story/2011/10/harvards-year-of-exile/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+I never thought that David Brooks would put it all together, in the NYT of all places. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/17/opinion/trump-harvard-law-firms.html?unlocked_article_code=1.Ak8.LHL9.ppLoMUS-09zk&smid=url-share>
+
+---
+
+## Why You Should Fear a Trumpified Fed
+
+date: 2025-04-18, from: Paul Krugman
+
+Don&#8217;t give an abuser power that&#8217;s easy to abuse 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/why-you-should-fear-a-trumpified>
+
+---
+
+## K8s vs Nomad vs Bacalhau: Choosing Your Compute Orchestrator Wisely
+
+date: 2025-04-18, from: Bacalhau Blog
+
+Why Bacalhau can be the missing piece for your infrastructure. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/k8s-vs-nomad-vs-bacalhau-choosing>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+Woodstock Celebrates First Cannabis Dispensary. 
+
+<br> 
+
+<https://theoverlooknews.com/woodstock-celebrates-first-cannabis-dispensary-opening/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+Not all AI-assisted programming is vibe coding (but vibe coding rocks). 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/19/vibe-coding/>
+
+---
+
+## MCP Run Python
+
+date: 2025-04-18, updated: 2025-04-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python">MCP Run Python</a></strong></p>
+Pydantic AI's MCP server for running LLM-generated Python code in a sandbox. They ended up using a trick I explored <a href="https://til.simonwillison.net/deno/pyodide-sandbox">two years ago</a>: using a <a href="https://deno.com/">Deno</a> process to run <a href="https://pyodide.org/">Pyodide</a> in a WebAssembly sandbox.</p>
+<p>Here's a bit of a wild trick: since Deno loads code on-demand from <a href="https://jsr.io/">JSR</a>, and <a href="https://docs.astral.sh/uv/guides/scripts/">uv run</a> can install Python dependencies on demand via the <code>--with</code> option... here's a one-liner you can paste into a macOS shell (provided you have Deno and <code>uv</code> installed already) which will run the example from <a href="https://github.com/pydantic/pydantic-ai/blob/v0.1.2/mcp-run-python/README.md">their README</a> - calculating the number of days between two dates in the most complex way imaginable:</p>
+<pre>ANTHROPIC_API_KEY=<span class="pl-s"><span class="pl-pds">"</span>sk-ant-...<span class="pl-pds">"</span></span> \
+uv run --with pydantic-ai python -c <span class="pl-s"><span class="pl-pds">'</span></span>
+<span class="pl-s">import asyncio</span>
+<span class="pl-s">from pydantic_ai import Agent</span>
+<span class="pl-s">from pydantic_ai.mcp import MCPServerStdio</span>
+<span class="pl-s"></span>
+<span class="pl-s">server = MCPServerStdio(</span>
+<span class="pl-s">    "deno",</span>
+<span class="pl-s">    args=[</span>
+<span class="pl-s">        "run",</span>
+<span class="pl-s">        "-N",</span>
+<span class="pl-s">        "-R=node_modules",</span>
+<span class="pl-s">        "-W=node_modules",</span>
+<span class="pl-s">        "--node-modules-dir=auto",</span>
+<span class="pl-s">        "jsr:@pydantic/mcp-run-python",</span>
+<span class="pl-s">        "stdio",</span>
+<span class="pl-s">    ],</span>
+<span class="pl-s">)</span>
+<span class="pl-s">agent = Agent("claude-3-5-haiku-latest", mcp_servers=[server])</span>
+<span class="pl-s"></span>
+<span class="pl-s">async def main():</span>
+<span class="pl-s">    async with agent.run_mcp_servers():</span>
+<span class="pl-s">        result = await agent.run("How many days between 2000-01-01 and 2025-03-18?")</span>
+<span class="pl-s">    print(result.output)</span>
+<span class="pl-s"></span>
+<span class="pl-s">asyncio.run(main())<span class="pl-pds">'</span></span></pre>
+
+<p>I ran that just now and got:</p>
+<blockquote>
+<p>The number of days between January 1st, 2000 and March 18th, 2025 is 9,208 days.</p>
+</blockquote>
+<p>I thoroughly enjoy how tools like <code>uv</code> and Deno enable throwing together shell one-liner demos like this one.</p>
+<p>Here's <a href="https://gist.github.com/simonw/54fc42ef9a7fb8f777162bbbfbba4f23">an extended version</a> of this example which adds pretty-printed logging of the messages exchanged with the LLM to illustrate exactly what happened. The most important piece is this tool call where Claude 3.5 Haiku asks for Python code to be executed my the MCP server:</p>
+<pre><span class="pl-en">ToolCallPart</span>(
+    <span class="pl-s1">tool_name</span><span class="pl-c1">=</span><span class="pl-s">'run_python_code'</span>,
+    <span class="pl-s1">args</span><span class="pl-c1">=</span>{
+        <span class="pl-s">'python_code'</span>: (
+            <span class="pl-s">'from datetime import date<span class="pl-cce">\n</span>'</span>
+            <span class="pl-s">'<span class="pl-cce">\n</span>'</span>
+            <span class="pl-s">'date1 = date(2000, 1, 1)<span class="pl-cce">\n</span>'</span>
+            <span class="pl-s">'date2 = date(2025, 3, 18)<span class="pl-cce">\n</span>'</span>
+            <span class="pl-s">'<span class="pl-cce">\n</span>'</span>
+            <span class="pl-s">'days_between = (date2 - date1).days<span class="pl-cce">\n</span>'</span>
+            <span class="pl-s">'print(f"Number of days between {date1} and {date2}: {days_between}")'</span>
+        ),
+    },
+    <span class="pl-s1">tool_call_id</span><span class="pl-c1">=</span><span class="pl-s">'toolu_01TXXnQ5mC4ry42DrM1jPaza'</span>,
+    <span class="pl-s1">part_kind</span><span class="pl-c1">=</span><span class="pl-s">'tool-call'</span>,
+)</pre>
+
+<p>I also managed to run it against <a href="https://ollama.com/library/mistral-small3.1">Mistral Small 3.1</a> (15GB) running locally using <a href="https://ollama.com/">Ollama</a> (I had to add "Use your python tool" to the prompt to get it to work):</p>
+<pre>ollama pull mistral-small3.1:24b
+
+uv run --with devtools --with pydantic-ai python -c <span class="pl-s"><span class="pl-pds">'</span></span>
+<span class="pl-s">import asyncio</span>
+<span class="pl-s">from devtools import pprint</span>
+<span class="pl-s">from pydantic_ai import Agent, capture_run_messages</span>
+<span class="pl-s">from pydantic_ai.models.openai import OpenAIModel</span>
+<span class="pl-s">from pydantic_ai.providers.openai import OpenAIProvider</span>
+<span class="pl-s">from pydantic_ai.mcp import MCPServerStdio</span>
+<span class="pl-s"></span>
+<span class="pl-s">server = MCPServerStdio(</span>
+<span class="pl-s">    "deno",</span>
+<span class="pl-s">    args=[</span>
+<span class="pl-s">        "run",</span>
+<span class="pl-s">        "-N",</span>
+<span class="pl-s">        "-R=node_modules",</span>
+<span class="pl-s">        "-W=node_modules",</span>
+<span class="pl-s">        "--node-modules-dir=auto",</span>
+<span class="pl-s">        "jsr:@pydantic/mcp-run-python",</span>
+<span class="pl-s">        "stdio",</span>
+<span class="pl-s">    ],</span>
+<span class="pl-s">)</span>
+<span class="pl-s"></span>
+<span class="pl-s">agent = Agent( </span>
+<span class="pl-s">    OpenAIModel(                          </span>
+<span class="pl-s">        model_name="mistral-small3.1:latest",</span>
+<span class="pl-s">        provider=OpenAIProvider(base_url="http://localhost:11434/v1"),                </span>
+<span class="pl-s">    ),            </span>
+<span class="pl-s">    mcp_servers=[server],</span>
+<span class="pl-s">)</span>
+<span class="pl-s"></span>
+<span class="pl-s">async def main():</span>
+<span class="pl-s">    with capture_run_messages() as messages:</span>
+<span class="pl-s">        async with agent.run_mcp_servers():</span>
+<span class="pl-s">            result = await agent.run("How many days between 2000-01-01 and 2025-03-18? Use your python tool.")</span>
+<span class="pl-s">    pprint(messages)</span>
+<span class="pl-s">    print(result.output)</span>
+<span class="pl-s"></span>
+<span class="pl-s">asyncio.run(main())<span class="pl-pds">'</span></span></pre>
+
+<p>Here's <a href="https://gist.github.com/simonw/e444a81440bda2f37b0fef205780074a">the full output</a> including the debug logs.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43691230">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/deno">deno</a>, <a href="https://simonwillison.net/tags/pydantic">pydantic</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/18/mcp-run-python/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+JD Vance to UK: Repeal LGBTQ hate speech laws for trade deal. 
+
+<br> 
+
+<https://www.advocate.com/politics/us-uk-trade-deal-lgbtq>
+
+---
+
+## Simple live reload for developing static sites
+
+date: 2025-04-18, from: Lean Rada's blog
+
+
+<p>When developing my website, I’m using a simple client-side script to <strong>automatically reload the page</strong> whenever I make a change to the source files.</p>
+
+<p>Since it’s not coupled to any particular backend, I could continue using <code>python3 -m http.server -d ./site/</code> or whatever local web server I wanted and it would still work. I could clone this repo on a new machine and get going with only preinstalled programs: a text editor, a browser, and a Python (or whatever) HTTP server. And live reload should<sup>*</sup> just work.</p>
+<prose-bleed>
+  <video autoplay="" muted="" loop="" src="https://leanrada.com/notes/simple-live-reload/demo.mp4?ref=rss" alt="demo video" loading="lazy"></video>
+</prose-bleed>
+<p>Here’s the code (39 lines):</p>
+
+<pre><code>let watching = new Set();
+watch(location.href);
+
+new PerformanceObserver((list) =&gt; {
+  for (const entry of list.getEntries()) {
+    watch(entry.name);
+  }
+}).observe({ type: "resource", buffered: true });
+
+function watch(urlString) {
+  if (!urlString) return;
+  const url = new URL(urlString);
+  if (url.origin !== location.origin) return;
+
+  if (watching.has(url.pathname)) return;
+  watching.add(url.pathname);
+
+  console.log("watching", url.pathname);
+
+  let lastModified, etag;
+
+  async function check() {
+    const res = await fetch(url, { method: "head" });
+    const newLastModified = res.headers.get("Last-Modified");
+    const newETag = res.headers.get("ETag");
+
+    if (
+      (lastModified !== undefined || etag !== undefined) &amp;&amp;
+      (lastModified !== newLastModified || etag !== newETag)
+    ) {
+      location.reload();
+    }
+
+    lastModified = newLastModified;
+    etag = newETag;
+  }
+
+  setInterval(check, 1000);
+}</code></pre>
+
+<h2>Chuck it into your HTML</h2>
+
+<pre><code>&lt;script src="https://kalabasa.github.io/simple-live-reload/script.js"&gt;&lt;/script&gt;</code></pre>
+
+<p>It should just work! ✨</p>
+
+<p><small><sup>*</sup>Check the <a href="https://github.com/Kalabasa/simple-live-reload/blob/master/README.md" target="_blank">README</a> for more details.</small></p>
+
+<h2>How it works, in a nutshell</h2>
+
+<ul>
+  <li>Start <a href="https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver" target="_blank"><code>PerformanceObserver</code></a> to watch loaded URLs
+  </li><li>Poll <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/HEAD" target="_blank"><code>HEAD</code></a> metadata
+  </li><li>Check <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Last-Modified" target="_blank"><code>Last-Modified</code></a> and <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/ETag" target="_blank"><code>ETag</code></a>
+</li></ul>
+
+<p><strong>PerformanceObserver</strong> — This class was intended to measure performance of things like network requests. But in this case it was repurposed to record requested URLs so we can watch them for changes. This includes lazy-loaded resources, and resources not in the markup (e.g. imported JS modules)!</p>
+
+<p><strong>HEAD</strong> — Upon recording a requested URL, start polling the URL with <code>HEAD</code> HTTP requests to get resource metadata. Frequent polling should be fine if you’re using a local server which is what I would expect for development. The response returned by <code>HEAD</code> contains metadata useful for determining when to refresh.</p>
+
+<p><strong>Last-Modified</strong> and <strong>ETag</strong> — These are the headers used to indicate when the underlying resource has changed. The script triggers a <code>location.reload()</code> when any of these change.</p>
+<prose-bleed>
+  <img src="https://leanrada.com/notes/simple-live-reload/flow.png?ref=rss" alt="flowchart showing the steps" loading="lazy" width="1056" height="387">
+</prose-bleed>
+<h2>Story time</h2>
+
+<p>I was directly inspired by <strong><a href="https://livejs.com/" target="_blank">livejs</a></strong> (2004), which polls headers as well. However, it has not been updated for modern browsers. Instead of watching network requests, it scans the markup for <code>&lt;script&gt;</code> and <code>&lt;link&gt;</code> (CSS) resources.</p>
+
+<p>In fact, I’ve been using livejs for a long while. I’ve never been fond of the other solutions which require integration with your local filesystem, via extra programs that you install and run. They always seem to run slow or take up lots of resources, and sometimes choke if there are errors.</p>
+
+<p>I’m planning to make a fine-grained version of this module. Simple live reloading is fine, but a more advanced <em>hot</em> reloading that doesn't always refresh the whole page would be great. For the modern web, the advanced version must be able to <a href="https://github.com/WICG/webcomponents/issues/820" target="_blank">hot reload WebComponents</a> in place, and do other fun stuff. I wonder if it’s even possible. 🤔</p>
+
+<p><strong>GitHub repo: <a href="https://github.com/Kalabasa/simple-live-reload" target="_blank">Kalabasa/simple-live-reload</a></strong></p>
+ 
+
+<br> 
+
+<https://leanrada.com/notes/simple-live-reload/?ref=rss>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-17, from: Dave Winer's linkblog)
+
+&#39;The federal government will find you&#39;: Immigration officials wrongfully told a Fox Valley man to leave the US. 
+
+<br> 
+
+<https://www.wpr.org/news/federal-government-find-you-immigration-officials-wrongfully-told-fox-valley-man-leave>
+
+---
+
+## Lilbits: Amazon to ditch Fire OS for smart TVs, Ubuntu 25.04 is here, Android 16 is coming, and so is Playdate Season 2
+
+date: 2025-04-17, from: Liliputing
+
+<p>Amazon uses an Android-based operating system called Fire OS for its Amazon Fire line of tablets and Fire TV line of smart TVs. But a few years ago we learned that the company was looking to move away from Android for at least some of its devices. Some Echo Show products are already shipping with [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-amazon-to-ditch-fire-os-for-smart-tvs-ubuntu-25-04-is-here-android-16-is-coming-and-so-is-playdate-season-2/">Lilbits: Amazon to ditch Fire OS for smart TVs, Ubuntu 25.04 is here, Android 16 is coming, and so is Playdate Season 2</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-amazon-to-ditch-fire-os-for-smart-tvs-ubuntu-25-04-is-here-android-16-is-coming-and-so-is-playdate-season-2/>
+
+---
+
+## Banana Pi BPI-CM6 is a compute module with a SpacemiT K1 RISC-V processor
+
+date: 2025-04-17, from: Liliputing
+
+<p>The Banana Pi BPI-CM6 is a computer-on-a-module that&#8217;s the same size and shape as a Raspberry Pi CM4 and even uses the same board-to-board connectors. But while Raspberry Pi&#8217;s compute module has an ARM-based processor, the BPI-CM6 is powered by a SpacemiT K1 octa-core RISC-V chip. Basically it has the same capabilities as the Banana Pi BPI-F3 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/banana-pi-bpi-cm6-is-a-compute-module-with-a-spacemit-k1-risc-v-processor/">Banana Pi BPI-CM6 is a compute module with a SpacemiT K1 RISC-V processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/banana-pi-bpi-cm6-is-a-compute-module-with-a-spacemit-k1-risc-v-processor/>
 
 ---
 
@@ -34,13 +363,18 @@ llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bic
 <blockquote>
 <p>A simple illustration on a white background shows a stylized pelican riding a bicycle. The pelican is predominantly grey with a black eye and a prominent pink beak pouch. It is positioned on a black line-drawn bicycle with two wheels, a frame, handlebars, and pedals.</p>
 </blockquote>
-<p>AI Studio indicates that the model is charged at $0.15/million tokens for input, $3.50/million for thinking output and $0.60/million for non-thinking output. I presume that means thinking tokens are charged separately. I calculate this prompt as costing 1.04 cents.</p>
-<p>Let's try again with thinking disabled:</p>
+<p>The way the model is priced is a little complicated. If you have thinking enabled, you get charged $0.15/million tokens for input and $3.50/million for output. With thinking disabled those output tokens drop to $0.60/million. I've added these <a href="https://tools.simonwillison.net/llm-prices">to my pricing calculator</a>.</p>
+<p>For comparison, Gemini 2.0 Flash is $0.10/million input and $0.40/million for output.</p>
+<p>So my first prompt - 11 input and 4266 output(with thinking enabled), cost 1.4933 cents.</p>
+<p>Let's try 2.5 Flash again with thinking disabled:</p>
 <pre><code>llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bicycle' -o thinking_budget 0
 </code></pre>
 <p><img alt="Described below, again" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-thinking-0.jpg" /></p>
-<p>11 input, 1705 output of which 25 were "thinking". <a href="https://gist.github.com/simonw/182679e918ab5263f98f6a65691874d1">Transcript here</a>. 0.11 cents.</p>
-<p>Its self-description:</p>
+<p>11 input, 1705 output. That's 0.1025 cents. <a href="https://gist.github.com/simonw/182679e918ab5263f98f6a65691874d1">Transcript here</a> - it still shows 25 thinking tokens even though I set the thinking budget to 0 - Logan <a href="https://twitter.com/OfficialLoganK/status/1912986097765789782">confirms</a> that this will still be billed at the lower rate:</p>
+<blockquote>
+<p>In some rare cases, the model still thinks a little even with thinking budget = 0, we are hoping to fix this before we make this model stable and you won't be billed for thinking. The thinking budget = 0 is what triggers the billing switch.</p>
+</blockquote>
+<p>Here's Gemini 2.5 Flash's self-description of that image:</p>
 <blockquote>
 <p>A minimalist illustration shows a bright yellow bird riding a bicycle. The bird has a simple round body, small wings, a black eye, and an open orange beak. It sits atop a simple black bicycle frame with two large circular black wheels. The bicycle also has black handlebars and black and yellow pedals. The scene is set against a solid light blue background with a thick green stripe along the bottom, suggesting grass or ground.</p>
 </blockquote>
@@ -48,7 +382,7 @@ llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bic
 <pre><code>llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bicycle' -o thinking_budget 24576
 </code></pre>
 <p><img alt="Described below" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-thinking-max.jpg" /></p>
-<p>I think it over-thought this one! <a href="https://gist.github.com/simonw/6a83bd7ad114ee23c460f5246b854247">Transcript</a> - 5174 output tokens of which 3023 were thinking.  1.19 cents. Its own self-evaluation:</p>
+<p>I think it over-thought this one. <a href="https://gist.github.com/simonw/6a83bd7ad114ee23c460f5246b854247">Transcript</a> - 5174 output tokens of which 3023 were thinking. A hefty 1.8111 cents!</p>
 <blockquote>
 <p>A simple, cartoon-style drawing shows a bird-like figure riding a bicycle. The figure has a round gray head with a black eye and a large, flat orange beak with a yellow stripe on top. Its body is represented by a curved light gray shape extending from the head to a smaller gray shape representing the torso or rear. It has simple orange stick legs with round feet or connections at the pedals. The figure is bent forward over the handlebars in a cycling position. The bicycle is drawn with thick black outlines and has two large wheels, a frame, and pedals connected to the orange legs. The background is plain white, with a dark gray line at the bottom representing the ground.</p>
 </blockquote>
@@ -84,10 +418,13 @@ llm -m gemini-2.5-flash-preview-04-17 'Generate an SVG of a pelican riding a bic
     &lt;<span class="pl-ent">circle</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>pelican-head<span class="pl-pds">"</span></span> <span class="pl-e">cx</span>=<span class="pl-s"><span class="pl-pds">"</span>300<span class="pl-pds">"</span></span> <span class="pl-e">cy</span>=<span class="pl-s"><span class="pl-pds">"</span>270<span class="pl-pds">"</span></span> <span class="pl-e">r</span>=<span class="pl-s"><span class="pl-pds">"</span>35<span class="pl-pds">"</span></span>/&gt;
     <span class="pl-c"><span class="pl-c">&lt;!--</span> ... <span class="pl-c">--&gt;</span></span></pre>
 
+<p>The <a href="https://lmarena.ai/?leaderboard">LM Arena leaderboard</a> now has Gemini 2.5 Flash <a href="https://twitter.com/lmarena_ai/status/1912955625224773911">in joint second place</a>, just behind Gemini 2.5 Pro and tied with ChatGPT-4o-latest, Grok-3 and GPT-4.5 Preview.</p>
+<p><img alt="Screenshot of a table showing AI model rankings with columns Rank* (UB), Rank (StyleCtrl), Model, Arena Score, 95% CI, Votes, Organization, and License. The rows show data for: Gemini-2.5-Pro-Exp-03-25 ranked 1/1 with score 1439, CI +7/-5, 9013 Votes, Organization Google, License Proprietary. ChatGPT-4o-latest (2025-03-26) ranked 2/2 with score 1407, CI +6/-6, 8261 Votes, Organization OpenAI, License Proprietary. Grok-3-Preview-02-24 ranked 2/4 with score 1402, CI +5/-3, 14849 Votes, Organization xAI, License Proprietary. GPT-4.5-Preview ranked 2/2 with score 1398, CI +5/-6, 14520 Votes, Organization OpenAI, License Proprietary. Gemini-2.5-Flash-Preview-04-17 ranked 2/4 with score 1392, CI +10/-13, 3325 Votes, Organization Google, License Proprietary" src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-leaderboard.jpg" />
+
     <p><small></small>Via <a href="https://twitter.com/OfficialLoganK/status/1912966497213038686">@OfficialLoganK</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/svg">svg</a>, <a href="https://simonwillison.net/tags/logan-kilpatrick">logan-kilpatrick</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/svg">svg</a>, <a href="https://simonwillison.net/tags/logan-kilpatrick">logan-kilpatrick</a>, <a href="https://simonwillison.net/tags/lm-arena">lm-arena</a></p> 
 
 <br> 
 

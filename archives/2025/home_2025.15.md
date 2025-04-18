@@ -1,11 +1,120 @@
 ---
 title: home
-updated: 2025-04-17 14:08:22
+updated: 2025-04-18 06:07:46
 ---
 
 # home
 
-(date: 2025-04-17 14:08:22)
+(date: 2025-04-18 06:07:46)
+
+---
+
+## Why Is My Asparagus Thin? Tips for Growing Thick Spears
+
+date: 2025-04-18, from: The Gardener's Path
+
+<p>Wondering why your asparagus plants consistently produce weak, thin spears? A number of factors such as lack of water, nutrient deficiency, and overharvesting can result in skinny spears. Fortunately these problems aren’t too hard to fix. Read on to learn about the causes and solutions for thin asparagus.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/asparagus-thin/">Why Is My Asparagus Thin? Tips for Growing Thick Spears</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/asparagus-thin/>
+
+---
+
+## Learn How to Grow Marigolds in Pots and Containers
+
+date: 2025-04-18, from: The Gardener's Path
+
+<p>If you’re looking for a big display that doesn’t take much work to fill up your porch or patio, marigolds fit the bill. These sturdy flowers are extremely forgiving but you don’t have to sacrifice color or big blossoms. Gardener’s Path shows you how to succeed with growing marvelous marigolds in containers. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-marigolds-containers/">Learn How to Grow Marigolds in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-marigolds-containers/>
+
+---
+
+## Can You Eat Radish Greens? How to Use Radish Leaves
+
+date: 2025-04-18, from: The Gardener's Path
+
+<p>Yes, you can eat radish greens that sprout from the roots in your veggie garden. Baby leaves add zing to a spring mix, while larger leaves can join other cole crop leafy greens in a mix for braising or stir fries. Or, skip the root harvest and pick radish sprouts or microgreens just a few days or weeks from sowing.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/eat-radish-greens/">Can You Eat Radish Greens? How to Use Radish Leaves</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/eat-radish-greens/>
+
+---
+
+## Tips for Growing Super Sweet 100 Tomatoes
+
+date: 2025-04-18, from: The Gardener's Path
+
+<p>Want to pick hundreds of cherry tomatoes from a single homegrown plant? Grow ‘Supersweet 100’ to harvest a bounty from midsummer to first frost. The hybrid plants are disease-resistant, and yield sweet fruits for fresh eating, cooking, and preserving. Our tips will help you grow a bumper crop of ‘Supersweet 100.’</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-supersweet-100-tomatoes/">Tips for Growing Super Sweet 100 Tomatoes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-supersweet-100-tomatoes/>
+
+---
+
+## 50 Annual Flowers That Bloom All Summer (With Pictures)
+
+date: 2025-04-18, from: Yard Life blog
+
+<p>When it comes to creating a vibrant and colorful garden, annual flowers that bloom all summer are a gardener’s dream. ... </p>
+<p class="read-more-container"><a title="50 Annual Flowers That Bloom All Summer (With Pictures)" class="read-more button" href="https://ownyardlife.com/50-annual-flowers-that-bloom-all-summer/#more-27245" aria-label="Read more about 50 Annual Flowers That Bloom All Summer (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-annual-flowers-that-bloom-all-summer/">50 Annual Flowers That Bloom All Summer (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-annual-flowers-that-bloom-all-summer/>
+
+---
+
+## You’re Going to Need a Real ID to Travel Soon—Here’s How to Get One
+
+date: 2025-04-17, from: Sunset Magazine - Living in the West
+
+All U.S. travelers over 18 will need a Real ID to board domestic flights by May 7, 2025. Here’s how to check if your ID is travel-ready. 
+
+<br> 
+
+<https://www.sunset.com/travel/real-id-travel-deadline-2025>
+
+---
+
+## 21 Veggie-Forward Lunches You’ll Actually Look Forward to Eating Every Day
+
+date: 2025-04-17, from: Sunset Magazine - Living in the West
+
+Lunches don't have to be boring. Make these hearty and filling vegetarian lunches for workday lunches and beyond. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/vegetarian-lunches>
+
+---
+
+## Fresh & Flavorful Olive Salad Recipes
+
+date: 2025-04-17, from: California Grown
+
+<p>Discover fresh, flavorful olive salad recipes from our California Grown Creators! California Ripe Olives bring a buttery, slightly briny richness that makes them a natural fit for salads. Their firm texture holds up beautifully against tender greens, roasted vegetables, grains, and pasta, while their deep, savory flavor adds contrast and complexity. Grown and cured right [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/fresh-and-flavorful-olive-salad-recipes/" data-wpel-link="internal" target="_self">Fresh &amp; Flavorful Olive Salad Recipes</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/fresh-and-flavorful-olive-salad-recipes/>
 
 ---
 
@@ -23,12 +132,12 @@ date: 2025-04-17, from: Family Handyman Blog
 
 ---
 
-## Boil Water Advisory Says Add Bleach — Is It Really Safe? Experts Weigh Ine
+## Boil Water Advisory Says Add Bleach — Is It Really Safe? Experts Weigh In
 
 date: 2025-04-17, from: Family Handyman Blog
 
 <p>Are you wondering if you can use bleach to disinfect drinking water? Our expert-approved guidelines explain how and when to do this safely.</p>
-<p>The post <a href="https://www.familyhandyman.com/article/boil-water-advisory-bleach-in-drinking-water/">Boil Water Advisory Says Add Bleach — Is It Really Safe? Experts Weigh Ine</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/boil-water-advisory-bleach-in-drinking-water/">Boil Water Advisory Says Add Bleach — Is It Really Safe? Experts Weigh In</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <br> 
@@ -391,6 +500,18 @@ Los Angeles will host the Olympic Games in 2028 and the locations are far-reachi
 <br> 
 
 <https://www.sunset.com/lifestyle/2028-olympics-los-angeles-venues>
+
+---
+
+## National Parks Week Is Coming, and the Founder of the Parks Project Knows How to Celebrate It
+
+date: 2025-04-16, from: Sunset Magazine - Living in the West
+
+Keith Eshelman has created a successful lifestyle brand that helps protect our beloved national parks. Here are his learnings. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/keith-eshelman-parks-project>
 
 ---
 

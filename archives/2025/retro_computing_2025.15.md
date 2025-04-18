@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-04-17 14:08:23
+updated: 2025-04-18 06:07:47
 ---
 
 # retro computing
 
-(date: 2025-04-17 14:08:23)
+(date: 2025-04-18 06:07:47)
+
+---
+
+## Chris Dewhurst talks Drag ‘n Drop with ROUGOL – 21st April
+
+date: 2025-04-18, from: RiscOS Story
+
+It&#8217;s time to drag yourself away from whatever else you might be doing and drop yourself off at a certain London pub (or in front of your computer) for the next RISC OS User Group of London (ROUGOL) meeting, which takes place on Monday, 21st April, and features Chris Dewhurst talking to the group about Drag &#8216;n Drop. Started back in 2009 by Paul Stewart, and taken over by Chris in 2012, Drag &#8216;n Drop is a quarterly magazine published in PDF format, which can be read on most modern&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/chris-dewhurst-drag-n-drop-rougol-21st-april/>
+
+---
+
+## Race to gain the Leading Edge
+
+date: 2025-04-18, from: RiscOS Story
+
+Jeroen Vermeulen has turned his gaze upon another title in the Code the Classics Volume II tome, and successfully brought it to RISC OS. This time the game is Leading Edge, a racing game inspired by the classic Pole Position. The objective of the game is quite simple: Race against the other drivers, and try to achieve as good a finishing position and time as possible. You start off the race in last position, and you&#8217;ll have to weave away around the other cars to pass them while trying to&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/leading-edge-game-released/>
+
+---
+
+## CardInfo updated to version 1.02
+
+date: 2025-04-18, from: RiscOS Story
+
+Kevin Wells has updated another of his little applications that use Wget to provide an interface between the RISC OS desktop and a remote site, allowing users to seek out information without having to wrestle with a web browser. This time it&#8217;s the turn of CardInfo with the release of version 1.02. The program can be used to look up information about your plastic pals. If you feed it the first six digits of a bank card number, it will relay that data to the application programmer interface (API) of&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/cardinfo-1-02/>
+
+---
+
+## Rougol April 2025 meeting on monday - Chris Dewhurst
+
+date: 2025-04-18, from: Icon Bar, RISC OS News
+
+The April 2024 Rougol meeting is on Monday 18th April. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2190.html>
 
 ---
 

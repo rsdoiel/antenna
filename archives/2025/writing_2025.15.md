@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-04-17 14:08:20
+updated: 2025-04-18 06:07:45
 ---
 
 # writing
 
-(date: 2025-04-17 14:08:20)
+(date: 2025-04-18 06:07:45)
+
+---
+
+## The Storytellers: Catherynne M. Valente Reads Color, Heat, and the Wreck of the Argo
+
+date: 2025-04-17, from: Locus Magazine
+
+<p>We are so happy to release our seventh episode of The Storytellers, our series of Zoom-recorded author readings! Previously, we had Hannah Yang reading &#8220;A Monster in the Shape of a Boy&#8220;, and today we are happy to show Catherynne M. Valente reading Locus Award nominated novelette &#8220;Color, Heat, and the Wreck of the Argo&#8221; . The story appeared in the 7 September 2020 issue of Strange Horizons.</p>
+<p>Catherynne M.  <a href="https://locusmag.com/2025/04/the-storytellers-catherynne-m-valente-reads-color-heat-and-the-wreck-of-the-argo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-storytellers-catherynne-m-valente-reads-color-heat-and-the-wreck-of-the-argo/>
 
 ---
 

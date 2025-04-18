@@ -1,11 +1,117 @@
 ---
 title: food
-updated: 2025-04-17 14:08:25
+updated: 2025-04-18 06:07:48
 ---
 
 # food
 
-(date: 2025-04-17 14:08:25)
+(date: 2025-04-18 06:07:48)
+
+---
+
+## Katï Coffee Kindles Curiosity in Georgetown, Texas
+
+date: 2025-04-18, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Kati-Coffee-Georgetown-TX-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Kati Coffee Georgetown TX 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Kati-Coffee-Georgetown-TX-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Kati-Coffee-Georgetown-TX-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Kati-Coffee-Georgetown-TX-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Kati-Coffee-Georgetown-TX-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Kati-Coffee-Georgetown-TX-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A studious new roasting company in Georgetown, Texas, called Katï Coffee is opening its doors for tours, tastings and more.&#160;Launched last summer just north of Austin, the immigrant-owned roastery is... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/18/kati-coffee-kindles-curiosity-in-georgetown-texas/>
+
+---
+
+## Weekly Coffee News: Additions to Brazil’s “Dirty List” + Unionization in Wisconsin
+
+date: 2025-04-18, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-parchment-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee in parchment" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-parchment-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-parchment-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-parchment-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-parchment-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-parchment.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. 155 Names Added to Brazil&#8217;s &#8216;Dirty List&#8217; of Employers... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/18/weekly-coffee-news-additions-to-brazils-dirty-list-unionization-in-wisconsin/>
+
+---
+
+## How Much Food to Serve at a Party
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Whether you're throwing a backyard barbecue or partying poolside, you want to make sure you've got plenty of food and drinks. Here's how much to serve for parties from five guests to 50 guests.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-much-food-for-a-party/">How Much Food to Serve at a Party</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-much-food-for-a-party/>
+
+---
+
+## Can Darjeeling Tea Hope for a Climate-Resilient Future?
+
+date: 2025-04-18, from: The Fresh Cup
+
+<p>Darjeeling tea farms have been severely impacted by climate change, but innovative farming practices could help preserve the prized black tea. </p>
+<p>The post <a href="https://freshcup.com/can-darjeeling-tea-hope-for-a-climate-resilient-future/">Can Darjeeling Tea Hope for a Climate-Resilient Future?</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/can-darjeeling-tea-hope-for-a-climate-resilient-future/>
+
+---
+
+## Matcha-Mango Chia Pudding and More Recipes We Made This Week
+
+date: 2025-04-18, from: Bon Appetet
+
+Like kale pesto and Gilda salsa. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-april-2025>
+
+---
+
+## Sloppy Joe Recipe
+
+date: 2025-04-18, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sandwiches/homemade-sloppy-joes-madness-style/" title="Sloppy Joe Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A Homemade Sloppy Joe Recipe with tater tots on a plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Sloppy-Joe-3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This bold Sloppy Joe recipe delivers big flavor with a spicy twist, easy to make with ground beef drenched in tangy, zesty Sloppy Joe sauce. This is the best sandwich around.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sandwiches/homemade-sloppy-joes-madness-style/">Sloppy Joe Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/sandwiches/homemade-sloppy-joes-madness-style/>
+
+---
+
+## This One-Second Trick Will Tell You If Your Pineapple Is Ripe
+
+date: 2025-04-17, from: Taste of Home
+
+<p>You'll never cut into a too-tart, underripe pineapple again.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-tell-if-a-pineapple-is-ripe/">This One-Second Trick Will Tell You If Your Pineapple Is Ripe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-to-tell-if-a-pineapple-is-ripe/>
+
+---
+
+## Sabrina Carpenter Is Waiting to Eat McDonald’s Until This One Thing Happens
+
+date: 2025-04-17, from: Taste of Home
+
+<p>Do you think she'll order an "Espresso" from the McCafé?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/sabrina-carpenter-mcdonalds-2025/">Sabrina Carpenter Is Waiting to Eat McDonald’s Until This One Thing Happens</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/sabrina-carpenter-mcdonalds-2025/>
 
 ---
 
@@ -51,7 +157,7 @@ date: 2025-04-17, from: Taste of Home
 
 date: 2025-04-17, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee brewer" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two-thirds of United States adults who drank something other than tap water within the past day drank coffee, according to the latest biannual coffee market report from the U.S. National... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee brewer" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-brewer.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two-thirds of United States adults who drank something other than tap water within the past day drank coffee, according to the latest biannual coffee market report from the U.S. National... 
 
 <br> 
 
@@ -113,7 +219,7 @@ At Marcus Addis, atop Ethiopia’s tallest building, one of the world’s most s
 
 date: 2025-04-17, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Adelitas Coffee Co Wichita downtown cafe-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1.jpg 1233w" sizes="(max-width: 620px) 100vw, 620px" /></div>Succeeding in specialty coffee requires a fighting spirit, with battles big and small to be fought on a daily basis. For seasoned roaster and father of five girls Oscar Pineda... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Adelitas Coffee Co Wichita downtown cafe-1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Adelitas-Coffee-Co-Wichita-downtown-cafe-1.jpg 1233w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Succeeding in specialty coffee requires a fighting spirit, with battles big and small to be fought on a daily basis. For seasoned roaster and father of five girls Oscar Pineda... 
 
 <br> 
 
@@ -323,7 +429,7 @@ date: 2025-04-16, from: Taste of Home
 
 date: 2025-04-16, from: Daily Coffee News
 
-<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Bonavita Voyager espresso" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Consumer coffee equipment brand Bonavita is entering a new chapter as it launches its first espresso-focused product, a portable all-in-one hot or cold espresso machine and grinder combo called the... 
+<div><img width="620" height="415" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg" class="attachment-large size-large wp-post-image" alt="Bonavita Voyager espresso" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-620x415.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Bonavita-Voyager-espresso-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Consumer coffee equipment brand Bonavita is entering a new chapter as it launches its first espresso-focused product, a portable all-in-one hot or cold espresso machine and grinder combo called the... 
 
 <br> 
 
@@ -395,12 +501,12 @@ date: 2025-04-16, from: Taste of Home
 
 ---
 
-## Giada di Laurentiis Uses Leftover Easter Chocolate for This Dessert Recipe, and It’s Genius
+## Giada De Laurentiis Uses Leftover Easter Chocolate for This Dessert Recipe, and It’s Genius
 
 date: 2025-04-16, from: Taste of Home
 
 <p>I mean, assuming she has any leftover chocolate, of course.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/giada-di-laurentiis-chocolate-dessert/">Giada di Laurentiis Uses Leftover Easter Chocolate for This Dessert Recipe, and It&#8217;s Genius</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/giada-di-laurentiis-chocolate-dessert/">Giada De Laurentiis Uses Leftover Easter Chocolate for This Dessert Recipe, and It&#8217;s Genius</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
 <br> 
@@ -467,7 +573,7 @@ date: 2025-04-16, from: Taste of Home
 
 date: 2025-04-16, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/honey-sriracha-turkey-meatballs/" title="Honey-Sriracha Meatballs Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Honey Sriracha Meatballs served on a plate drizzled with extra glaze" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These sweet and spicy Honey-Sriracha Turkey Meatballs bring the heat with big, bold flavor. Perfect for party bites or dinner, easy to make, huge on flavor. Great for game day or the star of the meal!</p>
+<a href="https://www.chilipeppermadness.com/recipes/honey-sriracha-turkey-meatballs/" title="Honey-Sriracha Meatballs Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Honey Sriracha Meatballs served on a plate drizzled with extra glaze" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Honey-Sriracha-Meatballs-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These sweet and spicy Honey-Sriracha Turkey Meatballs bring the heat with big, bold flavor. Perfect for party bites or dinner, easy to make, huge on flavor. Great for game day or the star of the meal!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/honey-sriracha-turkey-meatballs/">Honey-Sriracha Meatballs Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

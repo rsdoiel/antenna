@@ -1,11 +1,85 @@
 ---
 title: north america
-updated: 2025-04-17 14:08:16
+updated: 2025-04-18 06:07:42
 ---
 
 # north america
 
-(date: 2025-04-17 14:08:16)
+(date: 2025-04-18 06:07:42)
+
+---
+
+## Undaunted: Harvard University
+
+date: 2025-04-18, from: The Contrarian
+
+Cambridge's Crimson Distinguishes Itself by Defying the Bullies 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-harvard-university>
+
+---
+
+##  TAX REVOLT, Part One: The Man Who Started The War On Taxes 
+
+date: 2025-04-18, from: The Lever News
+
+ The leader of California’s tax revolt launched a populist revolution to limit his state’s property taxes. The movement evolved beyond his wildest dreams.  
+
+<br> 
+
+<https://www.levernews.com/tax-revolt-part-one-the-man-who-started-the-war-on-taxes/>
+
+---
+
+## How Courts can get Trump to Obey the Law: A Primer
+
+date: 2025-04-18, from: The Contrarian
+
+By Spencer Klein and Norm Eisen 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-courts-can-get-trump-to-obey>
+
+---
+
+## Evening Roundup, April 17
+
+date: 2025-04-17, from: The Contrarian
+
+Featuring Carlos Eduardo Espina in conversation with Jennifer Rubin; Daniella Ballou-Aares & Jen Rubin; Amy Spitalnick; Marvin Kalb; Jeff Nesbit; The Democracy Movement & Bonnie Siegler 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-17>
+
+---
+
+## Trump’s unrelenting war on science is reckless and dangerous
+
+date: 2025-04-17, from: The Contrarian
+
+It will cost lives and puts all of us at risk. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-unrelenting-war-on-science>
+
+---
+
+## The Crackdown on Campuses Is a Crackdown on Unions
+
+date: 2025-04-17, from: Capital and Main
+
+<p>Many students losing visas and research funding are union members. Some in the labor movement are pushing back.</p>
+<p>The post <a href="https://capitalandmain.com/the-crackdown-on-campuses-is-a-crackdown-on-unions">The Crackdown on Campuses Is a Crackdown on Unions</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-crackdown-on-campuses-is-a-crackdown-on-unions>
 
 ---
 
@@ -170,18 +244,6 @@ date: 2025-04-16, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/osha-office-closure-in-cancer-alley-raises-fears-about-risks-to-workers>
-
----
-
-## Trump’s unrelenting war on science is reckless and dangerous
-
-date: 2025-04-16, from: The Contrarian
-
-It will cost lives and puts all of us at risk. 
-
-<br> 
-
-<https://contrarian.substack.com/p/trumps-unrelenting-war-on-science>
 
 ---
 

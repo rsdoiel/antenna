@@ -1,11 +1,362 @@
 ---
 title: journalism
-updated: 2025-04-17 14:08:21
+updated: 2025-04-18 06:07:45
 ---
 
 # journalism
 
-(date: 2025-04-17 14:08:21)
+(date: 2025-04-18 06:07:45)
+
+---
+
+## Exalumno dirige exitoso rodaje brasileño
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La película documenta el sufrimiento de la familia Paiva bajo la dictadura militar.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/exalumno-dirige-exitoso-rodaje-brasileno/">Exalumno dirige exitoso rodaje brasileño</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/exalumno-dirige-exitoso-rodaje-brasileno/>
+
+---
+
+## LatiFAM celebra el arte latine con su quinto festival de cine
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El evento marcó un fin de semana repleto de comunidad y orgullo organizado por estudiantes. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/latifam-celebra-el-arte-latine-con-su-quinto-festival-de-cine/">LatiFAM celebra el arte latine con su quinto festival de cine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/latifam-celebra-el-arte-latine-con-su-quinto-festival-de-cine/>
+
+---
+
+## Classifieds – April 18, 2025
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/classifieds-april-18-2025/">Classifieds &#8211; April 18, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/classifieds-april-18-2025/>
+
+---
+
+## ‘A treasure for the community’: Delphi Greek restaurant celebrates 40th year
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Laughter and excitement filled the newly remodeled dining room of Delphi Greek Restaurant and Bar as the restaurant celebrated its 40th anniversary April 5.
+Located on Westwood Boulevard, Delphi Greek is a family-owned location that has been serving Greek and Mediterranean cuisine for the last 40 years. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/a-treasure-for-the-community-delphi-greek-restaurant-celebrates-40th-year/>
+
+---
+
+## UCLA Lab School rallies against climate change as part of annual Creek Week
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 400 students aged four to 12, teachers and parents from UCLA Lab School protested against climate change in Dickson Plaza on Tuesday.
+UCLA Lab School, an institution serving students pre-K through sixth grade, organized the rally as part of its annual Creek Week &#8211; a period where students engage in environmental activism to honor and maintain the Stone Canyon Creek, which runs through the UCLA campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/ucla-lab-school-rallies-against-climate-change-as-part-of-annual-creek-week/>
+
+---
+
+## Sen. Bernie Sanders rallies LA in ‘fighting oligarchy’ of Trump administration
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+United States Sen. Bernie Sanders called for an end to &#8220;oligarchy&#8221; at a Saturday rally in downtown Los Angeles.
+Around 36,000 people attended the event, which Sanders described in a speech as the largest rally he has ever hosted. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/sen-bernie-sanders-rallies-la-in-fighting-oligarchy-of-trump-administration/>
+
+---
+
+## Estudiante emprende con bikinis
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Mamivea innova la industria de la moda veraniega.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/estudiante-emprende-con-bikinis/">Estudiante emprende con bikinis</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/estudiante-emprende-con-bikinis/>
+
+---
+
+## Alumni launch mentorship program for Armenians
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Project Yeraz seeks to foster career networks through lessons, events and mentors.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/alumni-launch-mentorship-program-for-armenians/">Alumni launch mentorship program for Armenians</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/alumni-launch-mentorship-program-for-armenians/>
+
+---
+
+## The Weekly Frame III: Spring
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/18/weekly-frame-iii-spring/">The Weekly Frame III: Spring</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/weekly-frame-iii-spring/>
+
+---
+
+## ‘Del Alma’: trascendiendo barreras artísticas
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La exhibición se puede ver a través del Symphonic Tour del Music Center.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/del-alma-trascendiendo-barreras-artisticas/">‘Del Alma’: trascendiendo barreras artísticas</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/del-alma-trascendiendo-barreras-artisticas/>
+
+---
+
+## Premio ambiental destaca a dos ganadores latines
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El prestigioso Tyler Prize for Environmental Achievement es un galardón a nivel global.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/premio-ambiental-destaca-a-dos-ganadores-latines/">Premio ambiental destaca a dos ganadores latines</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/premio-ambiental-destaca-a-dos-ganadores-latines/>
+
+---
+
+## Los pilotos latinos aumentan el valor monetario de la F1
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El deporte automovilístico continúa en crecimiento a través de Latinoamérica.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/los-pilotos-latinos-aumentan-el-valor-monetario-de-la-f1/">Los pilotos latinos aumentan el valor monetario de la F1</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/los-pilotos-latinos-aumentan-el-valor-monetario-de-la-f1/>
+
+---
+
+## Djo comes alive at Fox Theater concert
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tuesday night, Joe Keery brought “The Crux” to life for a sold-out Pomona show.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/djo-comes-alive-at-fox-theater-concert/">Djo comes alive at Fox Theater concert</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/djo-comes-alive-at-fox-theater-concert/>
+
+---
+
+## USC sustainability leaders talk goals post Folt’s tenure
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A panel of University leaders spoke at the fourth Student Sustainability Town Hall.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/usc-sustainability-leaders-talk-goals-post-folts-tenure/">USC sustainability leaders talk goals post Folt’s tenure</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/usc-sustainability-leaders-talk-goals-post-folts-tenure/>
+
+---
+
+## The case against blockbuster auteurs
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As “Sinners” opens in theaters nationwide, let’s debate the business benefits of the director’s chair.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/the-case-against-blockbuster-auteurs/">The case against blockbuster auteurs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/the-case-against-blockbuster-auteurs/>
+
+---
+
+## Hay demasiada música increíble en español
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Estos cinco artistas merecen más atención por su trabajo reciente.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/hay-demasiada-musica-increible-en-espanol/">Hay demasiada música increíble en español</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/hay-demasiada-musica-increible-en-espanol/>
+
+---
+
+## Estudiantes reaccionan a la reversión de la diversidad, equidad e inclusión
+
+date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Las órdenes ejecutivas dejan mucha incertidumbre en cuanto a universidades.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/18/estudiantes-reaccionan-a-la-reversion-de-la-diversidad-equidad-e-inclusion/">Estudiantes reaccionan a la reversión de la diversidad, equidad e inclusión</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/18/estudiantes-reaccionan-a-la-reversion-de-la-diversidad-equidad-e-inclusion/>
+
+---
+
+## Students with disabilities sue UCLA, UC Regents for discrimination
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two students are suing UCLA and the UC Board of Regents for allegedly discriminating against people with disabilities, thereby violating federal and state law.
+The two plaintiffs &#8211; third-year student Jake Bertellotti and graduate public health student Taylor Carty &#8211; alleged in the lawsuit that UCLA repeatedly failed to address their concerns about inaccessible emergency evacuation protocols. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/students-with-disabilities-sue-ucla-uc-regents-for-discrimination/>
+
+---
+
+## Theater Preview: Spring is budding with musicals, revivals across Los Angeles
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+A fresh lineup of theater productions is budding this spring.
+With the new season, theaters will be blossoming with lively revivals, revamped adaptations and new storylines across Los Angeles. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/theater-preview-spring-is-budding-with-musicals-revivals-across-los-angeles/>
+
+---
+
+## UCLA community leads protest following detainment of student at US-Mexico border
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 18 at 12:05 a.m.</em>
+The United States Customs and Border Protection detained a UCLA student at the U.S.-Mexico border, leading hundreds of community members to protest Thursday. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/ucla-community-leads-protest-following-detainment-of-student-at-us-mexico-border/>
+
+---
+
+## Board of Trustees discuss student success, housing crisis
+
+date: 2025-04-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>LACCD Board explains budget gap details amid enrollment downturn. The Los Angeles Community College District Board of Trustees took time during their meeting on Wednesday,</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/17/board-of-trustees-discuss-student-success-housing-crisis/">Board of Trustees discuss student success, housing crisis</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/17/board-of-trustees-discuss-student-success-housing-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=board-of-trustees-discuss-student-success-housing-crisis>
+
+---
+
+## Second Take: From reading the girls to ad reads – the rise of drag queen podcasts
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The queens of podcasts are anything but a drag.
+Drag queen-hosted podcasts and YouTube series have quietly &#8211; and now loudly &#8211; taken over the internet. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/second-take-from-reading-the-girls-to-ad-reads-the-rise-of-drag-queen-podcasts/>
+
+---
+
+## Q&A: Tinlicker’s Micha Heyboer talks Coachella 2025 performance of ‘I Started A Fire’
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Burning bright, Tinlicker&#8217;s newest track is heating up the Coachella Valley.
+&#8220;I Started A Fire,&#8221; which also features vocals by Hero Baldwin, follows the electronic and dance music duo&#8217;s 2024 album &#8220;Cold Enough For Snow.&#8221; Composed of members Jordi van Achthoven and Micha Heyboer, Tinlicker played the track at the first weekend of the 2025 Coachella Valley Music and Arts Festival. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/qa-tinlickers-micha-heyboer-talks-coachella-2025-performance-of-i-started-a-fire/>
+
+---
+
+## Q&A: Poet Marylyn Tan weaves flesh and feminism, queerness and ritual into work
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Through witchcraft, digital language and bodies, Marylyn Tan weaves poetry.
+Tan is the author of &#8220;Gaze Back,&#8221; a poetry collection described as a grimoire for queerness, feminism and witchcraft. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/qa-poet-marylyn-tan-weaves-flesh-and-feminism-queerness-and-ritual-into-work/>
+
+---
+
+## UCLA alumnus explores culture, writer’s block in ‘The Last Play by Rickérby Hinds’
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA alumnus and playwright Rick&#233;rby Hinds penned what he says will be his very last play.
+&#8220;The Last Play by Rick&#233;rby Hinds&#8221; will see its world premiere at the Los Angeles Theatre Center on April 26th. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/ucla-alumnus-explores-culture-writers-block-in-the-last-play-by-rickrby-hinds/>
+
+---
+
+## A Sunday on the Janss Steps
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/17/a-sunday-on-the-janss-steps/>
 
 ---
 

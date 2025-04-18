@@ -1,11 +1,155 @@
 ---
 title: socal north
-updated: 2025-04-17 14:08:17
+updated: 2025-04-18 06:07:42
 ---
 
 # socal north
 
-(date: 2025-04-17 14:08:17)
+(date: 2025-04-18 06:07:42)
+
+---
+
+## What is a ‘wellness check’ and why is Homeland Security doing them at LAUSD schools?
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Legal advocates say the department’s school wellness checks are a ‘cloak for immigration enforcement.’ 
+
+<br> 
+
+<https://laist.com/news/education/homeland-security-lausd-schools-wellness-check-trump-administration>
+
+---
+
+## Heading to Dodger Stadium? The best places nearby to eat, drink and be merry
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Consider it fuel for the traffic-clogged drive into the stadium and the hike to your seats. 
+
+<br> 
+
+<https://laist.com/news/food/dodger-stadium-best-places-nearby-to-eat-drink>
+
+---
+
+## Concerned about lead from the fires? LA County will test your blood for free
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Wildfire smoke, ash and debris can contain toxic metals, including lead. 
+
+<br> 
+
+<https://laist.com/news/health/los-angeles-county-fire-lead-blood-test-eaton-palisades>
+
+---
+
+## Cloudy skies and mild temps again before a slight warmup
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Mostly cloudy Friday in SoCal, with highs near 65 degrees. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/final-mild-day-of-the-week>
+
+---
+
+## LA fires and federal budget cuts could leave more Angelenos hungry
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Food banks in L.A. saw an increase in demand after the January fires. Then the federal government halted millions of dollars in funding for food banks. 
+
+<br> 
+
+<https://laist.com/news/food/la-fires-and-federal-budget-cuts-could-leave-more-angelenos-hungry>
+
+---
+
+## Wallflour, sourdough pizza pop-up with a cult following, opens brick and mortar in Eagle Rock
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+In a time when pizza has gotten so serious, Brandon Conaway and Carolina Pedroza-Conaway are going the other direction — always remembering to have fun with every single pie they bake. 
+
+<br> 
+
+<https://laist.com/news/food/wallflour-sourdough-pizza-pop-up-with-a-cult-following-opens-brick-and-mortar-in-eagle-rock>
+
+---
+
+## The LA fires left behind millions of tons of debris, some of it toxic. Where does it all go?
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+In the Eaton Fire burn area, material that can be reused is being taken to Altadena Golf Course, where it is sorted and processed. Here's how it works. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-fires-debris-toxic-where-does-it-all-go>
+
+---
+
+## Resentencing hearing for Menendez brothers postponed by judge
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+At issue is whether a comprehensive risk assessment report for the brothers should be allowed as evidence in the hearing. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/menendez-brothers-resentencing-hearing-postponed>
+
+---
+
+## How one of the largest employers in Altadena plans to rebuild
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+“We’re committed to rebuilding and continuing to support the community,” said Craig Sloane, general manager of Altadena Town & Country Club. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-one-of-the-largest-employers-in-altadena-plans-to-rebuild>
+
+---
+
+## 100 days after the LA fires, where do we stand?
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+Here’s a look at the recovery so far, including progress on debris cleanup, rebuilding permits, insurance claims and more. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/100-days-fires-recovery-rebuild-eaton-palisades>
+
+---
+
+## It's illegal, but many SoCal landlords still turn away renters who use housing vouchers
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+Undercover testers were deployed to find out if landlords discriminate against Section 8 tenants. The results suggest voucher refusal remains common. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-housing-rights-center-fair-housing-testing-discrimination-vouchers-landlords>
+
+---
+
+## FIFA looking for Club World Cup volunteers for Rose Bowl summer matches
+
+date: 2025-04-17, updated: 2025-04-17, from: The LAist
+
+If you end up being accepted to help with anything from fan operations to team services, you’ll get an official uniform and certificate. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/fifa-looking-for-club-world-cup-volunteers-for-rose-bowl-summer-matches>
 
 ---
 

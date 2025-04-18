@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-17 14:08:22
+updated: 2025-04-18 06:07:46
 ---
 
 # libraries
 
-(date: 2025-04-17 14:08:22)
+(date: 2025-04-18 06:07:46)
+
+---
+
+## An Elaborate, But Highly Accurate, 11 Second Microsoft Office Gag
+
+date: 2025-04-18, from: Scholarly Kitchen
+
+<p>If you've ever tried to move a photo in a Word document, you'll appreciate this short reenactment.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/18/an-elaborate-but-highly-accurate-11-second-microsoft-office-gag/">An Elaborate, But Highly Accurate, 11 Second Microsoft Office Gag</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/18/an-elaborate-but-highly-accurate-11-second-microsoft-office-gag/>
 
 ---
 
@@ -205,7 +219,7 @@ date: 2025-04-15, from: Scholarly Kitchen
 
 date: 2025-04-14, from: Association of Research Libraries News
 
-<p>Last Updated on April 16, 2025, 2:40 pm ET Jump to: Tuesday, April 15 &#124; Wednesday, April 16 &#124; Thursday, April 17 Monday, April 14 Top o’ the Review Coalition...</p>
+<p>Last Updated on April 18, 2025, 7:26 am ET Jump to: Tuesday, April 15 &#124; Wednesday, April 16 &#124; Thursday, April 17 Monday, April 14 Top o’ the Review Coalition...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-14-17/">Day in Review (April 14–17)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

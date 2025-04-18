@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-04-17 14:08:21
+updated: 2025-04-18 06:07:45
 ---
 
 # games
 
-(date: 2025-04-17 14:08:21)
+(date: 2025-04-18 06:07:45)
+
+---
+
+## Sunderfolk makes for a surprisingly good virtual tabletop night
+
+date: 2025-04-18, updated: 2025-04-17, from: Polygon Website
+
+The “digital board game” has long been an intriguing proposition. Tabletop has always had an influence on its digital cousin, but the reverse has happened just as often. Sunderfolk is the latest evolution in that effort. It&#8217;s a video game meant to evoke the feeling of an evolving tabletop role-playing campaign, melding the flexibility of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/560845/sunderfolk-review-pc-switch-ps5-xbox>
+
+---
+
+## Watch the Hayao Miyazaki anime that inspired Keep Your Hands Off Eizouken!
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+On Friday, Future Boy Conan finally comes to streaming on Retrocrush. Anime enthusiasts will recognize the series for being Hayao Miyazaki’s directorial debut, premiering one year before his first theatrical film, Lupin III: The Castle of Cagliostro, and several more years before he founded Studio Ghibli with Toshio Suzuki and Isao Takahata. The 26-episode anime [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/560742/watch-future-boy-conan-streaming-anime-keep-your-hands-off-eizouken>
+
+---
+
+## Promise Mascot Agency is a video game sitcom
+
+date: 2025-04-18, updated: 2025-04-17, from: Polygon Website
+
+I enjoyed the critical darling of the moment, Blue Prince, as much as the next elder millennial video game critic. But after weeks of filling countless notebook pages with indecipherable notes — at one point even seeing puzzle solutions in my dreams — I began to crave a game that would carry the bulk of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/560594/promise-mascot-agency-review>
+
+---
+
+## A new Star Wars movie is coming in 2027 from Deadpool &#038; Wolverine’s director
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+The past decade-plus has seen a lot of familiar names tapped to helm Star Wars movies which have subsequently disappeared into vaporware. Those familiar names have ranged from The Last Jedi and Knives Out writer-director Rian Johnson to Thor: Ragnarok director Taika Waititi to Marvel Studios president Kevin Feige to The Lego Movie’s Phil Lord [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/560964/star-wars-starfighter-announcement-deadpool-wolverine-director-2027>
+
+---
+
+## Gigantamax Snorlax counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-04-18, updated: 2025-04-16, from: Polygon Website
+
+Gigantamax Snorlax is the latest Gigantamax Pokémon to debut in Pokémon Go, and being the chonker it is, it’ll be hard to take down. Its high defensive stats will make it tough, so make sure to group up with as many players as you possibly can to increase your odds of winning. Snorlax will specifically [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/559793/gigantamax-snorlax-counters-weakness-tips>
+
+---
+
+## Sinners’ credits scenes give the vampire movie a Return of the King spin
+
+date: 2025-04-17, updated: 2025-04-17, from: Polygon Website
+
+Remember back in 2003 when Peter Jackson’s The Lord of the Rings: The Return of the King came out, and fans kept circling back to the topic of how every time they thought the movie was over, Jackson added a new epilogue, finale, wrap-up scene, or coda? (Even so, some people still didn’t think the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/560848/sinners-mid-post-credits-scenes>
 
 ---
 
