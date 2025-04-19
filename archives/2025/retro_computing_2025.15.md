@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-04-18 14:07:52
+updated: 2025-04-19 06:07:54
 ---
 
 # retro computing
 
-(date: 2025-04-18 14:07:52)
+(date: 2025-04-19 06:07:54)
 
 ---
 
@@ -21,7 +21,7 @@ That&#8217;s the challenge: giving the public a formula they know and feel comfo
 
 ---
 
-## Unix Review Interviews Sun Co-Founder Bill Joy (1994)
+## Unix Review Interviews Sun Co-Founder Bill Joy (1984)
 
 date: 2025-04-18, from: Computer ads from the Past
 
@@ -166,4 +166,28 @@ date: 2025-04-14, from: Linux Magazine
 <br> 
 
 <http://www.linux-magazine.com/Online/News/What-Open-Source-Pros-Look-for-in-a-Job-Role>
+
+---
+
+## b.log 2025/04/12 - Sakura, Mowing..., Butterfly flowers?, Big Town, Stuff I bought, A new security camera, Duh!, AI art, Doctor Who?
+
+date: 2025-04-12, from: Richard Murray's blog
+
+Sakura, Mowing..., Butterfly flowers?, Big Town, Stuff I bought, A new security camera, Duh!, AI art, Doctor Who? 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250412>
+
+---
+
+## Australian Air Force
+
+date: 2025-04-12, from: Computer ads from the Past
+
+If You're Switched On, This is Paradise. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/australian-air-force>
 

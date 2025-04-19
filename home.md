@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-04-18 14:07:51
+updated: 2025-04-19 06:07:53
 ---
 
 # home
 
-(date: 2025-04-18 14:07:51)
+(date: 2025-04-19 06:07:53)
 
 ---
 
@@ -75,6 +75,42 @@ date: 2025-04-18, from: Family Handyman Blog
 
 ---
 
+## Soon, You Can Experience a Free Fine Dining Experience in a Cadillac—Here’s How
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Cadillac is partnering with LA restaurant La Dolce Vita to offer a unique dining experience in the second row of an ESCALADE IQ. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/cadillac-of-reservations-la-dolce-vita>
+
+---
+
+## Raging Maui Wildfires Have Locals Under Evacuation and Leave Over 1,800 Travelers Stranded
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Residents of the historic town of Lahaina on the island of Maui are under evacuation due to wildfires that are impacting travelers and locals alike. 
+
+<br> 
+
+<https://www.sunset.com/travel/lahaina-maui-wildfires>
+
+---
+
+## A Maui Local Tells Us Where to Travel on the Island Now
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+A Maui local gives her best tips on what to do, see, eat, and drink on the island now. These spots highlight its unique lifestyle and charm. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/maui-things-to-do>
+
+---
+
 ## Before & After: An L.A. Music Producer’s Latest Collab? Turning a Midcentury Into His Family Home
 
 date: 2025-04-18, from: Dwell
@@ -84,6 +120,18 @@ Dacoury Dahi Natche, who’s worked with artists like Kendrick Lamar, and local 
 <br> 
 
 <https://www.dwell.com/article/before-and-after-dahi-residence-shin-shin-architecture-home-recording-studio-16d4a82b>
+
+---
+
+## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
+
+date: 2025-04-18, from: Sunset Magazine - Living in the West
+
+Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
 
 ---
 
@@ -198,18 +246,6 @@ Los Angeles will host the Olympic Games in 2028 and the locations are far-reachi
 <br> 
 
 <https://www.sunset.com/lifestyle/2028-olympics-los-angeles-venues>
-
----
-
-## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
-
-date: 2025-04-18, from: Sunset Magazine - Living in the West
-
-Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
-
-<br> 
-
-<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
 
 ---
 
@@ -980,18 +1016,6 @@ Owner and architect Logan Mahaffey refreshed the compact, three-story home’s k
 
 ---
 
-## Soon, You Can Experience a Free Fine Dining Experience in a Cadillac—Here’s How
-
-date: 2025-04-15, from: Sunset Magazine - Living in the West
-
-Cadillac is partnering with LA restaurant La Dolce Vita to offer a unique dining experience in the second row of an ESCALADE IQ. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/cadillac-of-reservations-la-dolce-vita>
-
----
-
 ## What Does the L.A. Midcentury Dream House Look Like in the Age of Fire?
 
 date: 2025-04-15, from: Dwell
@@ -1402,4 +1426,122 @@ date: 2025-04-13, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-asparagus-varieties/>
+
+---
+
+## The New Garden Lighting Trend You’re Going to See Everywhere This Summer (Bonus: It’s Budget-Friendly, Too)
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+We still love string lights, but outdoor rattan pendant lights are the next big thing. Here's how to incorporate them into your space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living/outdoor-lighting-rattan-pendants>
+
+---
+
+## 6 Things You Need to Know About Outdoor Lighting, According to a Garden Designer
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+As you’re thinking about your landscape design, don’t ignore one major element: lighting. A landscape designer shares the best outdoor lighting tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/outdoor-lighting-tips>
+
+---
+
+## This New Lighting Trend Is a Genius Solution to Ugly Overhead Lighting
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+Gallery lighting isn't just for art. Use it to light up other parts of your home to make design details pop. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/gallery-lights-home-design-trend>
+
+---
+
+## The Best Bedroom Lighting Inspiration Can Be Found in Hotel Rooms
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+The best place to find bedroom lighting inspiration is a hotel room. Take a look at these chic rooms in hotels across the West. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/hotel-room-lighting-inspiration-ideas>
+
+---
+
+## A ‘Rest Corner’ Is the Trendiest Thing You Can Have in Your Home Right Now
+
+date: 2025-04-12, from: Sunset Magazine - Living in the West
+
+Quiet luxury has extended into cozy nooks in your home, also known as rest corners. Here's how to get the look at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/rest-corner-home-design-trend>
+
+---
+
+## How to Grow Jalapeno Peppers
+
+date: 2025-04-12, from: The Gardener's Path
+
+<p>Jalapenos are compact, productive chili pepper plants that produce medium-sized fruits with moderate heat. The glossy green pods ripen to red or purple and can be eaten fresh, pickled, or dried. The plants thrive in warm temperatures with plenty of sun. Learn how to grow jalapeno peppers in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-jalapenos/">How to Grow Jalapeno Peppers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-jalapenos/>
+
+---
+
+## Learn How to Use Coconut Coir Products in the Garden
+
+date: 2025-04-12, from: The Gardener's Path
+
+<p>Coconut coir is a fibrous material used to manufacture products like brooms and mats, as well as a host of soilless growing products. In its various forms you can use it to line planters, improve soil water retention and aeration, and support tropical plants like orchids. Learn its pros and cons now on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/composting/coconut-coir/">Learn How to Use Coconut Coir Products in the Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/composting/coconut-coir/>
+
+---
+
+## 99 Types of Palm Trees (With Pictures and Identification)
+
+date: 2025-04-12, from: Yard Life blog
+
+<p>Palm trees are some of the most iconic and versatile plants in the world, instantly evoking images of tropical beaches, ... </p>
+<p class="read-more-container"><a title="99 Types of Palm Trees (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/#more-26885" aria-label="Read more about 99 Types of Palm Trees (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/">99 Types of Palm Trees (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/>
+
+---
+
+## 14 Black Birds with Brown Heads (Pictures and Identification)
+
+date: 2025-04-12, from: Yard Life blog
+
+<p>When you spot a bird with dark plumage and a distinctly brown head, it might leave you wondering what species ... </p>
+<p class="read-more-container"><a title="14 Black Birds with Brown Heads (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/#more-26868" aria-label="Read more about 14 Black Birds with Brown Heads (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/">14 Black Birds with Brown Heads (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/>
 

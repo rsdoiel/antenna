@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-04-18 14:07:45
+updated: 2025-04-19 06:07:48
 ---
 
 # ham radio
 
-(date: 2025-04-18 14:07:45)
+(date: 2025-04-19 06:07:48)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-04-18, from: Amateur Radio Relay League News
+
+<p><span>Spaceweather.com reports a Cannibal Coronal Mass Ejection on April 15 sparked geomagnetic storms.<span>  </span>On April 16, the storm became severe (G4) with Northern Lights sighted as far south as France.<span>  </span>The storm is subsiding now to a category G1/G2, which could still produce high-latitude auroras. </span></p><p><span>Although Regions AR4062 and AR4064 have been relatively quiet they are more structurally complex than ant...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-10>
 
 ---
 

@@ -1,11 +1,74 @@
 ---
 title: socal north
-updated: 2025-04-18 14:07:44
+updated: 2025-04-19 06:07:47
 ---
 
 # socal north
 
-(date: 2025-04-18 14:07:44)
+(date: 2025-04-19 06:07:47)
+
+---
+
+## What happens after a homeless person is arrested for camping? Often, not much
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Wickey Two Hands was supposed to be the first person tried for camping in Fresno. Instead, after the city and county poured resources into his case, it was dismissed at the last minute. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/what-happens-after-a-homeless-person-is-arrested-for-camping-often-not-much>
+
+---
+
+## Deep roots keep martial arts master in Altadena after fire disaster
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Although her business premises were destroyed, Shelene Hearring’s students helped her understand that “all the spirits, all the energy, all the love, all those years were still living. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/deep-roots-keep-martial-arts-master-in-altadena-after-fire-disaster>
+
+---
+
+## Pasadena baseball fields closed for elevated lead levels
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+Officials said parks and fields within the affected neighborhoods should test for heavy metals in the soil. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/pasadena-baseball-fields-closed-for-elevated-lead-levels>
+
+---
+
+## LBPD homicide detectives scour Junipero Beach after report someone found human remains
+
+date: 2025-04-18, from: Longbeach Post
+
+<figure><img width="1024" height="640" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-300x188.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-768x480.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1200x750.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-400x250.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd.jpg 1467w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said they have so far not discovered any, but the area was “still under investigation.”</p>
+<p>The post <a href="https://lbpost.com/news/crime/human-remains-junipero-beach-long-beach-homicide-detectives">LBPD homicide detectives scour Junipero Beach after report someone found human remains</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/human-remains-junipero-beach-long-beach-homicide-detectives>
+
+---
+
+## California Republicans want to get tougher on crime. Are Democrats shifting their way?
+
+date: 2025-04-18, updated: 2025-04-18, from: The LAist
+
+After voters approved Proposition 36 last year, some Republican lawmakers are seeing greater support for tougher parole rules. 
+
+<br> 
+
+<https://laist.com/news/politics/california-republicans-want-to-get-tougher-on-crime-are-democrats-shifting-their-way>
 
 ---
 
@@ -13,7 +76,7 @@ updated: 2025-04-18 14:07:44
 
 date: 2025-04-18, from: Longbeach Post
 
-<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-1024x576.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-1024x576.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-400x225.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-1024x576.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-1024x576.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt-400x225.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/22153454/21nov24-port-9-383269-srzthdmi-612688-o4x2VZGt.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“The moment you learn about something that's possibly toxic, it should be communicated to residents,” Rep. Nanette Barragán said, “both on a website with level readings and what the implications may be and what people can do.”</p>
 <p>The post <a href="https://lbpost.com/news/health/methyl-bromide-long-beach-barragan-congress-leter-tighter-rules">After communication breakdown, congresswoman wants tighter rules on toxic pesticide used near homes, schools</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -373,6 +436,18 @@ date: 2025-04-17, from: Longbeach Post
 
 ---
 
+## Massive art show brings together work from LA's college students
+
+date: 2025-04-17, updated: 2025-04-19, from: The LAist
+
+Students from across the Los Angeles Community College District will be represented. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/elac-vincent-price-art-museum-show-laccd>
+
+---
+
 ## LA County is walking away from LAHSA. Housing for Health is the model for what's next
 
 date: 2025-04-17, updated: 2025-04-17, from: The LAist
@@ -394,18 +469,6 @@ Easter egg hunts, AC/DC at the Rose Bowl, Baths at the Echo, a Peep show, new tr
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-april-18-20>
-
----
-
-## Massive art show brings together work from LA's college students
-
-date: 2025-04-17, updated: 2025-04-17, from: The LAist
-
-Students from across the Los Angeles Community College District will be represented. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/elac-vincent-price-art-museum-show-laccd>
 
 ---
 
@@ -1260,4 +1323,132 @@ date: 2025-04-13, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/crime/one-dead-after-shooting-in-downtown-long-beach-police-say>
+
+---
+
+## Long Beach man fatally shot near Cherry Park, authorities say
+
+date: 2025-04-12, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Arriving paramedics pronounced the man dead at the scene.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-man-fatally-shot-near-cherry-park-authorities-say">Long Beach man fatally shot near Cherry Park, authorities say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-man-fatally-shot-near-cherry-park-authorities-say>
+
+---
+
+## Mosey on Over to the Santa Clarita Cowboy Festival
+
+date: 2025-04-12, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin It is Cowboy Festival weekend! Dust off your boots, put on your cowboy hat and head over to the Santa Clarita Cowboy Festival at William S. Hart Park (24151 Newhall Ave). It is going to be a weekend full of live music, Wild West activities, mouth-watering barbecue, shopping and Rotary [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/12/mosey-on-over-to-the-santa-clarita-cowboy-festival/">Mosey on Over to the Santa Clarita Cowboy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/12/mosey-on-over-to-the-santa-clarita-cowboy-festival/>
+
+---
+
+## Smartphones and computers are now spared from Trump's reciprocal tariffs
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+The exemption comes amid worries of how President Trump's steep new tariffs will affect American tech companies that rely on supply chains in China, like Apple. 
+
+<br> 
+
+<https://laist.com/news/smartphones-computers-are-spared-from-trumps-reciprocal-tariffs>
+
+---
+
+## Go Fact Yourself quiz for April 12
+
+date: 2025-04-12, updated: 2025-04-15, from: The LAist
+
+Our celebrity panelists Cirroc Lofton and Betsy Brandt go head to head this week on their knowledge of Kobe Bryant-era Lakers championships and the plays of Anton Chekhov. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-april-12>
+
+---
+
+## Hikers, beware: Eaton Fire brings out whimsically named poodle-dog bush
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+The poodle-dog bush, with its lavender, bell-shaped flowers, can produce a painful rash for people who come in contact with it. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-fires-poodle-dog-bush-angeles-national-forest>
+
+---
+
+## Wildlife is returning to the Altadena foothills after the Eaton Fire. Yes, that's a mountain lion
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+Scientists plan to study the Chaney Trail Corridor to better understand how nature recovers after fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/wildlife-returning-eaton-fire-first-look-mountain-lion>
+
+---
+
+## How to get free entry to California state parks with your library card
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+If you’re itching to explore our state, and you have a library card, you can check out a free pass to over 200 state parks around California. 
+
+<br> 
+
+<https://laist.com/news/how-to-get-free-entry-to-california-state-parks-with-your-library-card>
+
+---
+
+## Eggs too expensive? Here are some Easter alternatives
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+With prices for a dozen eggs remaining high this spring, crafting experts offer creative substitutes. Easter potato or marshmallow hunt, anyone? 
+
+<br> 
+
+<https://laist.com/news/eggs-too-expensive-here-are-some-easter-alternatives>
+
+---
+
+## Detectives find missing 17-year-old at motel, arrest man trying to meet her there, police say
+
+date: 2025-04-12, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Detectives were able to track her to a motel in the 4000 block of Long Beach Boulevard, where she was found along with a 29-year-old man, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/missing-17-year-old-motel-man-met-her">Detectives find missing 17-year-old at motel, arrest man trying to meet her there, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/missing-17-year-old-motel-man-met-her>
+
+---
+
+## Menendez brothers' resentencing case can move forward, judge rules
+
+date: 2025-04-12, updated: 2025-04-12, from: The LAist
+
+A judge denied a request from District Attorney Nathan Hochman to withdraw a motion by his predecessor, who supported the idea of resentencing the brothers to a term that made them eligible for parole. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/judges-ruling-clears-way-for-resentencing-hearing-in-menendez-case>
 

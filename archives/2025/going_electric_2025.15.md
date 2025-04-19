@@ -1,11 +1,55 @@
 ---
 title: going electric
-updated: 2025-04-18 14:07:52
+updated: 2025-04-19 06:07:54
 ---
 
 # going electric
 
-(date: 2025-04-18 14:07:52)
+(date: 2025-04-19 06:07:54)
+
+---
+
+## Trump’s war on clean energy just killed $6B in red state projects
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/pexels-photo-2800845.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Thanks to Trump’s repeated executive order attacks on US clean energy policy, nearly $8 billion in investments and 16 new large-scale factories and other projects were cancelled, closed, or downsized in Q1 2025. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="411930" href="https://electrek.co/2025/04/18/trumps-war-on-clean-energy-just-killed-6-billion-red-state-projects/#more-411930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/trumps-war-on-clean-energy-just-killed-6-billion-red-state-projects/>
+
+---
+
+## Tesla Delays Affordable EV (Again): Report
+
+date: 2025-04-18, from: Inside EVs News
+
+Tesla keeps saying it will build affordable products. But it's kicking the can down the road, yet again.  
+
+<br> 
+
+<https://insideevs.com/news/757121/tesla-delays-affordable-ev/>
+
+---
+
+## Tesla delays new ‘affordable EV/stripped down Model Y’ in the US, report says
+
+date: 2025-04-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-Y-refreshed-interior.png?w=1600" /></div><p>Tesla has reportedly delayed the launch of its new “affordable EV,” which is believed to be a stripped-down Model Y, in the United States.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="411929" href="https://electrek.co/2025/04/18/tesla-delays-affordable-ev-stripped-down-model-y-us-report/#more-411929" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/tesla-delays-affordable-ev-stripped-down-model-y-us-report/>
 
 ---
 
@@ -14,6 +58,10 @@ updated: 2025-04-18 14:07:52
 date: 2025-04-18, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss how Elon Musk killed Tesla Model 2, global EV sales surging, how Chinese EVs keep killing it, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Electrek_381.mp3"></audio></figure>
 
 
 
@@ -1300,4 +1348,148 @@ Recent moves by Toyota offer clues about what could be an affordable, high-range
 <br> 
 
 <https://insideevs.com/news/756446/subaru-trailseeker-chr-plus-theory/>
+
+---
+
+## Michigan Senator Seeks Total Chinese Car Ban
+
+date: 2025-04-12, from: Inside EVs News
+
+Sen. Elissa Slotkin vows to "lay down on the border to keep Chinese vehicles from entering the U.S." But is it security or protectionism? 
+
+<br> 
+
+<https://insideevs.com/news/756430/anti-china-slotkin-ev-senate/>
+
+---
+
+## Hyundai IONIQ 5 drops 500 lbs. with new body inspired by the classic Lancia Delta
+
+date: 2025-04-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/VANWALL-unveils-the-new-VANDERWELL-S-001-web.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Based on the excellent Hyundai IONIQ 5 N platform, Vanwall gives its Vandervell H-GT a high-performance aesthetic makeover inspired by the classic Lancia Delta HF Integrale. But what makes this body kit a genuine “high-performance” upgrade isn’t the way it makes the car look: <strong>it’s the 500 lb. weight savings</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5,lancia,motorsports,tuner" data-layer-viewtype="unknown" data-post-id="411195" href="https://electrek.co/2025/04/12/hyundai-ioniq-5-drops-500-lbs-with-new-body-inspired-by-the-classic-lancia-delta/#more-411195" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/12/hyundai-ioniq-5-drops-500-lbs-with-new-body-inspired-by-the-classic-lancia-delta/>
+
+---
+
+## 2025 Audi RS e-tron GT: Supercar Speed Meets Daily Driver Comfort
+
+date: 2025-04-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Audi-RS-GT-e-tron.png?w=1600" /></div><p>I had the chance to drive the new 2025 RS Audi GT e-tron for a few hours in the Nevada desert and for a few minutes on a race track.</p>
+
+
+
+<p>Here are my thoughts.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi-rs-gt-e-tron" data-layer-viewtype="unknown" data-post-id="409822" href="https://electrek.co/2025/04/12/2025-audi-rs-e-tron-gt-supercar-speed-meets-daily-driver-comfort/#more-409822" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/12/2025-audi-rs-e-tron-gt-supercar-speed-meets-daily-driver-comfort/>
+
+---
+
+## BrightDrop production paused due to slow demand – it’s still the best EV deal going
+
+date: 2025-04-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/2025-chevrolet-brightdrop.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Unifor union rep at the Ontario production facility where GM builds the all electric Chevy BrightDrop van is temporarily halting production of the commercial EV due to slow sales – but with massive discounts, <a href="https://electrek.co/2025/04/05/costco-executive-members-get-massive-31500-off-chevy-brightdrop-van/?_thumbnail_id=409913">Costco member programs</a>, and state and utility incentives driving costs well below its diesel competitors, <a href="https://electrek.co/2025/04/08/all-the-evs-and-phevs-you-can-buy-with-0-financing-in-april-2025/">it might still be the best EV deal you can get</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-van,gm" data-layer-viewtype="unknown" data-post-id="411165" href="https://electrek.co/2025/04/12/brightdrop-production-paused-due-to-slow-demand-its-still-the-best-ev-deal-going/#more-411165" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/12/brightdrop-production-paused-due-to-slow-demand-its-still-the-best-ev-deal-going/>
+
+---
+
+## U.S. EV Sales Shot Up 11% In Q1. Tesla Plunged 9%
+
+date: 2025-04-12, from: Inside EVs News
+
+Tesla's sales are slumping, but rivals like General Motors, BMW, Ford and Hyundai are picking up the slack.  
+
+<br> 
+
+<https://insideevs.com/news/756400/ev-sales-q1-tesla-slump/>
+
+---
+
+## LiuGong brings battery electric construction equipment portfolio to bauma
+
+date: 2025-04-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/LiuGong-870HE_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese equipment manufacturers LiuGong is showcasing its latest innovations in battery-electric construction equipment at <a href="https://electrek.co/?s=bauma">bauma</a> 2025 – including a new 870HE wheel loader (above), excavators, rigid mining trucks, and the the world’s first 25 ton electric grader.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,electric-construction-equipment,electric-heavy-machinery" data-layer-viewtype="unknown" data-post-id="411126" href="https://electrek.co/2025/04/12/liugong-brings-battery-electric-construction-equipment-portfolio-to-bauma/#more-411126" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/12/liugong-brings-battery-electric-construction-equipment-portfolio-to-bauma/>
+
+---
+
+## Manitowoc brings massive, plug-in hybrid electric crane concept to bauma [video]
+
+date: 2025-04-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/manitowoc-hybrid-electric-crane.png?w=1600" /></div><p>The mobile crane experts at Manitowoc has arrived at <a href="https://electrek.co/?s=bauma">bauma</a> Munich with not one but TWO plug-in hybrid all-terrain crane concepts that combine a fully electrified superstructure with Manitowoc’s most popular five-axle carrier designs for cleaner, better job site performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,plug-in-hybrid" data-layer-viewtype="unknown" data-post-id="411106" href="https://electrek.co/2025/04/12/manitowoc-brings-massive-plug-in-hybrid-electric-crane-concept-to-bauma-video/#more-411106" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/12/manitowoc-brings-massive-plug-in-hybrid-electric-crane-concept-to-bauma-video/>
+
+---
+
+## Looking for an EV lease under $200 a month? Here’s what’s available in April
+
+date: 2025-04-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/EVs-lease-200-April.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Believe it or not, you can lease an EV for under $200 a month. New deals on models like the 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5 </a>and Kia EV6 are hard to pass up this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="409659" href="https://electrek.co/2025/04/12/evs-for-under-200-a-month-heres-whats-available-april/#more-409659" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/12/evs-for-under-200-a-month-heres-whats-available-april/>
+
+---
+
+## Tesla launches accessory to Macgyver power outlets on the go on new cheaper Cybertruck
+
+date: 2025-04-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Powershare-Outlet-Adapter-hero.png?w=1600" /></div><p>Tesla has launched a new accessory enabling you to “Macgyver” a couple of power outlets from the Cybertruck’s charge port.</p>
+
+
+
+<p>It appears to be designed for the new cheaper Cybertruck, which doesn’t have power outlets in its bed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="411091" href="https://electrek.co/2025/04/11/tesla-launches-accessory-power-outlets-charge-port-cheaper-cybertruck/#more-411091" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/11/tesla-launches-accessory-power-outlets-charge-port-cheaper-cybertruck/>
 

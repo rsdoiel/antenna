@@ -1,11 +1,25 @@
 ---
 title: food
-updated: 2025-04-18 14:07:53
+updated: 2025-04-19 06:07:55
 ---
 
 # food
 
-(date: 2025-04-18 14:07:53)
+(date: 2025-04-19 06:07:55)
+
+---
+
+## This Was Princess Diana’s All-Time Favorite Dessert
+
+date: 2025-04-18, from: Taste of Home
+
+<p>It's a surprisingly low-key treat for a royal.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/princess-diana-favorite-dessert/">This Was Princess Diana&#8217;s All-Time Favorite Dessert</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/princess-diana-favorite-dessert/>
 
 ---
 
@@ -33,6 +47,116 @@ Ibérico, Wagyu, and the best burgers you’ve ever tried, delivered to your doo
 
 ---
 
+## 13 Surprising Foods that Are High in Protein
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Need extra protein in your diet that's not just red meat or chicken breasts? Luckily, there are plenty of legumes, seeds, grains and more to pack in the grams.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/high-protein-foods/">13 Surprising Foods that Are High in Protein</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/high-protein-foods/>
+
+---
+
+## Shrimp and Mushroom Pasta
+
+date: 2025-04-18, from: Taste of Home
+
+Shrimp and mushroom pasta is a 30-minute weeknight flex: quick, balanced and varied, with seafood veggies and pasta. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/garlic-shrimp-mushroom-pasta/>
+
+---
+
+## I Tried the Viral ‘Charcuterie Nachos,’ and They’re Pure Chaos in the Best Way
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Say hello to the laid-back cousin of perfectly presentable charcuterie boards.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/charcuterie-nachos/">I Tried the Viral &#8216;Charcuterie Nachos,&#8217; and They’re Pure Chaos in the Best Way</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/charcuterie-nachos/>
+
+---
+
+## I Made Dolly Parton’s Dirt Road Martini, and Tea Drinkers Are Going to Love It
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Here's the tea: Dolly Parton's Dirt Road Martini is a tasty take on a classic dirty martini.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dolly-parton-dirt-road-martini/">I Made Dolly Parton&#8217;s Dirt Road Martini, and Tea Drinkers Are Going to Love It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dolly-parton-dirt-road-martini/>
+
+---
+
+## This Is the Part of Your Fridge You’re Definitely Forgetting to Clean
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Your fridge might be sparkling clean on the inside, but when was the last time you checked the coils? </p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-clean-fridge-coils/">This Is the Part of Your Fridge You’re Definitely Forgetting to Clean</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-to-clean-fridge-coils/>
+
+---
+
+## Eid al-Fitr vs. Eid al-Adha: What’s the Difference?
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Eid al-Fitr and Eid al-Adha are the two biggest Muslim holidays, each with its own rich food traditions.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/eid-al-fitr-vs-eid-al-adha-whats-the-difference/">Eid al-Fitr vs. Eid al-Adha: What&#8217;s the Difference?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/eid-al-fitr-vs-eid-al-adha-whats-the-difference/>
+
+---
+
+## Thinking About Getting Chickens? This Smart Omlet Coop Will Help Keep Your Flock Safe
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Yes, they're pricey. But all-in-one Omlet chicken coops are designed to last a lifetime. Here's everything you need to know about "Eglus." </p>
+<p>The post <a href="https://www.tasteofhome.com/article/omlet-chicken-coop/">Thinking About Getting Chickens? This Smart Omlet Coop Will Help Keep Your Flock Safe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/omlet-chicken-coop/>
+
+---
+
+## 9 Facts You Didn’t Know About Cadbury Creme Eggs
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Cadbury Creme Eggs have been an Easter staple for over 50 years. This is what's going on beneath that iconic foil wrapping.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/cadbury-eggs/">9 Facts You Didn&#8217;t Know About Cadbury Creme Eggs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/cadbury-eggs/>
+
+---
+
 ## TricorBraun Flex Introduces Store Drop-Off Recyclable Bag With New Degassing Valve & How2Recycle® Label
 
 date: 2025-04-18, from: The Sprudge
@@ -42,6 +166,34 @@ date: 2025-04-18, from: The Sprudge
 <br> 
 
 <https://sprudge.com/tricorbraun-flex-introduces-store-drop-off-recyclable-bag-with-new-degassing-valve-how2recycle-label-319681.html>
+
+---
+
+## Giada De Laurentiis Has This for Breakfast Every Single Morning
+
+date: 2025-04-18, from: Taste of Home
+
+<p>She had to switch up her morning routine from espresso to something gentler for her stomach.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/giada-de-laurentiis-breakfast/">Giada De Laurentiis Has This for Breakfast Every Single Morning</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/giada-de-laurentiis-breakfast/>
+
+---
+
+## This Is Ina Garten’s Secret for the Best Carrot Cake
+
+date: 2025-04-18, from: Taste of Home
+
+<p>Ina Garten, queen of foolproof recipes, has a simple trick for baking the most flavorful carrot cake.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-carrot-cake/">This Is Ina Garten&#8217;s Secret for the Best Carrot Cake</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-carrot-cake/>
 
 ---
 
@@ -1170,4 +1322,16 @@ Want to win their heart? First, win their taste buds with a flavorful and tender
 <br> 
 
 <https://www.tasteofhome.com/recipes/marry-me-pot-roast/>
+
+---
+
+## Come And Get Your Love (It’s A Bag Of Coffee)
+
+date: 2025-04-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s&#8230; 
+
+<br> 
+
+<https://sprudge.com/come-and-get-your-love-its-a-bag-of-coffee-314611.html>
 

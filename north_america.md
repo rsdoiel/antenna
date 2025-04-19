@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-04-18 14:07:43
+updated: 2025-04-19 06:07:46
 ---
 
 # north america
 
-(date: 2025-04-18 14:07:43)
+(date: 2025-04-19 06:07:46)
+
+---
+
+## Evening Roundup, April 18
+
+date: 2025-04-18, from: The Contrarian
+
+Featuring Jen Rubin with Jason Rezaian; Michael Franklin; Liam Scott; Jennifer Schulze; The Democracy Index; Meredith Blake; Ruben Bolling; Marissa Rothkopf; and our Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-18>
 
 ---
 
@@ -812,4 +824,28 @@ date: 2025-04-13, from: The Lever News
 <br> 
 
 <https://www.levernews.com/wall-street-nightmare-at-30-000-feet/>
+
+---
+
+## The Beginning of the End of Trump
+
+date: 2025-04-12, from: The Contrarian
+
+Publisher's Roundup, 13 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-beginning-of-the-end-of-trump>
+
+---
+
+##  YOU LOVE TO SEE IT: A Toxic Two-Step Falls Flat 
+
+date: 2025-04-12, from: The Lever News
+
+ A pharma company can’t hide behind bankruptcy, educators stand their ground, Louisiana’s bayous see justice, and award-winning journalism is safe in the courts.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-a-toxic-two-step-falls-flat/>
 

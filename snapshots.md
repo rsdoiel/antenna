@@ -1,11 +1,95 @@
 ---
 title: snapshots
-updated: 2025-04-18 14:07:55
+updated: 2025-04-19 06:07:56
 ---
 
 # snapshots
 
-(date: 2025-04-18 14:07:55)
+(date: 2025-04-19 06:07:56)
+
+---
+
+## Note on 18th April 2025
+
+date: 2025-04-18, updated: 2025-04-18, from: Simon Willison’s Weblog
+
+<p>It frustrates me when support sites for online services fail to <em>link</em> to the things they are talking about. Cloudflare's <a href="https://developers.cloudflare.com/fundamentals/setup/find-account-and-zone-ids/">Find zone and account IDs</a> page for example provides a four step process for finding my account ID that starts at the root of their dashboard, including a screenshot of where I should click.</p>
+<p><img alt="1. Log in to the Cloudflare dashboard. 2. Select your account and domain. 3. On the Overview page (the landing page for your domain), find the API section. Screenshot includes an Overview panel showing analytics" src="https://static.simonwillison.net/static/2025/cloudflare-docs.jpg" style="max-width: 100%"></p>
+<p>In Cloudflare's case it's harder to link to the correct dashboard page because the URL differs for different users, but that shouldn't be a show-stopper for getting this to work. Set up <code>dash.cloudflare.com/redirects/find-account-id</code> and link to that!</p>
+<p>... I just noticed they <em>do</em> have a mechanism like that which they use elsewhere. On the <a href="https://developers.cloudflare.com/r2/api/tokens/">R2 authentication page</a> they link to:</p>
+<pre><code>https://dash.cloudflare.com/?to=/:account/r2/api-tokens
+</code></pre>
+<p>The "find account ID" flow presumably can't do the same thing because there is no single page displaying that information - it's shown in a sidebar on the page for each of your Cloudflare domains.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/urls">urls</a>, <a href="https://simonwillison.net/tags/usability">usability</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/18/link-to-things/#atom-everything>
+
+---
+
+## PROTEST EVERYWHERE — Saturday, April 19 — Every city, every county, every town, everywhere! Freedom Against Tyranny!
+
+date: 2025-04-18, from: Michael Moore's blog
+
+Plus... 36 Brand New Portraits of 'Sad Tariff Loser' Donald Trump 
+
+<br> 
+
+<https://www.michaelmoore.com/p/protest-everywhere-saturday-april>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-18, from: Dave Winer's linkblog)
+
+BloggerCon 2003: The Rule of Links. 
+
+<br> 
+
+<http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-18, from: Feed for Alt USDS)
+
+How much you want to bet they'll add this to their "megadatabase" too?
+
+And then when they have this error-prone db, does anyone think they'll stop at immigrants?
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ln4mr3xlqs2o>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-18, from: Feed for Alt USDS)
+
+To the surprise of literally no one we know, we now have confirmation this is happening.
+
+Earlier this week, we wrote about why this is a dangerous and error-prone process. We already know that they don't care if they make mistakes, so this is extra dangerous. 
+
+https://www.wethebuilders.org/posts/risks-of-sharing-taxpayer-data
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ln4mly2d4k2o>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-18, from: Robert's feed at BlueSky)
+
+Interesting 😁👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ln4jxr2tzs2o>
 
 ---
 
@@ -15,7 +99,13 @@ date: 2025-04-18, from: Chris Coyier blog
 
 &#8220;How&#8217;s your folk fest?&#8221; people ask each other on the street. Nobody doesn&#8217;t know what you mean. Community is a word that gets thrown around a lot. It doesn&#8217;t bother me. Community means lots of things. They can be small or big, tight or loose, in person or digital, and live on a million other [&#8230;] 
 
-<br> 
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://chriscoyier.net/wp-content/uploads/2025/04/SnapInsta.to_AQMKwSmd9-LtdXc0AJT0CYdwuvmLh9Tt-o5jouKl_Zqm7ozhvRZa67nTLUWGuOWZAYVIOEKOCxmDjWkSQgcPVdpNhIuFzk4UcnbOo7A.mp4"></source>
+	<source type="video/quicktime" src="https://chriscoyier.net/wp-content/uploads/2025/04/IMG_3763.mov"></source>
+	<source type="video/quicktime" src="https://chriscoyier.net/wp-content/uploads/2025/04/IMG_3766.mov"></source>
+	<source type="video/quicktime" src="https://chriscoyier.net/wp-content/uploads/2025/04/IMG_3793-1.mov"></source>
+	<source type="video/quicktime" src="https://chriscoyier.net/wp-content/uploads/2025/04/IMG_3800.mov"></source>
+</video> <a href="https://chriscoyier.net/wp-content/uploads/2025/04/SnapInsta.to_AQMKwSmd9-LtdXc0AJT0CYdwuvmLh9Tt-o5jouKl_Zqm7ozhvRZa67nTLUWGuOWZAYVIOEKOCxmDjWkSQgcPVdpNhIuFzk4UcnbOo7A.mp4" target="_blank">download video/mp4</a> 
 
 <https://chriscoyier.net/2025/04/18/a-trip-to-the-50th-alaska-folk-festival/>
 
@@ -225,7 +315,7 @@ The courts, universities, every institution that the president is defaming have 
 
 ## A Cry of Defiance, and Not of Fear
 
-date: 2025-04-18, updated: 2025-04-18, from: One Foot Tsunami
+date: 2025-04-18, updated: 2025-04-19, from: One Foot Tsunami
 
  
 
@@ -317,7 +407,7 @@ date: 2025-04-18, from: Prof. Scott Galloway, No Mercy/No Malace blog
 
 ---
 
-## Unix Review Interviews Sun Co-Founder Bill Joy (1994)
+## Unix Review Interviews Sun Co-Founder Bill Joy (1984)
 
 date: 2025-04-18, from: Computer ads from the Past
 
@@ -684,6 +774,39 @@ function watch(urlString) {
 <br> 
 
 <https://leanrada.com/notes/simple-live-reload/?ref=rss>
+
+---
+
+## GHC 9.10.2-rc1 is now available
+
+date: 2025-04-18, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.10.2-rc1 is now available</h1>
+<h4 class="text-muted">bgamari - 2025-04-18</h4>
+
+<p>The GHC developers are very pleased to announce the availability
+of the release candidate for GHC 9.10.2. Binary distributions, source
+distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.10.2-rc1">downloads.haskell.org</a> and
+via <a href="https://www.haskell.org/ghcup/">GHCup</a>.</p>
+<p>GHC 9.10.2 is a bug-fix release fixing over 50 issues of a variety of
+severities and scopes. A full accounting of these fixes can be found in the
+<a href="https://gitlab.haskell.org/ghc/ghc/-/blob/ghc-9.10/docs/users_guide/9.10.2-notes.rst?ref_type=heads&amp;plain=1">release notes</a>. As always, GHC’s release status, including planned future
+releases, can be found on the GHC Wiki <a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.</p>
+<p>This release candidate will have a two-week testing period. If all goes well
+the final release will be available the week of 1 May 2025.</p>
+<p>We would like to thank Well-Typed, Tweag I/O, Juspay, QBayLogic, Channable,
+Serokell, SimSpace, the Haskell Foundation, and other anonymous contributors
+whose on-going financial and in-kind support has facilitated GHC maintenance
+and release management over the years. Finally, this release would not have
+been possible without the hundreds of open-source contributors whose work
+comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+ 
+
+<br> 
+
+<http://haskell.org/ghc/blog/202504-18-ghc-9.10.2-rc1-released.html>
 
 ---
 
@@ -2812,20 +2935,20 @@ signed integers as arithmetic shift. Also fortunately, C hasn't made
 this undefined, so the program itself doesn't end up undefined.</p>
 
 <p>The trouble with arithmetic right shift is that it is <em>not</em> equivalent
-to right shift of unsigned values. Here's what I came up with using
-standard C operators:</p>
+to right shift of unsigned values. Here's what Per Vognsen came up
+with using standard C operators:</p>
 
 <pre><code>    int
     __asr_int(int x, int s) {
-        return (int) ((unsigned int) x &gt;&gt; s) |
-            -(((unsigned int) x &amp; ((unsigned int) 1 &lt;&lt; (8 * sizeof(int) - 1))) &gt;&gt; s);
+        return x &lt; 0 ? ~(~x &gt;&gt; s) : x &gt;&gt; s;
     }
 </code></pre>
 
-<p>The sign bit is replicated separately and then or'd into the
-result. This function is replicated for each of the five standard
-integer types and then the set of them wrapped in another
-sizeof-selecting macro:</p>
+<p>When the value is negative, we invert all of the bits (making it
+positive), shift right, then flip all of the bits back. Both GCC and
+Clang seem to compile this to a single asr instruction. This function
+is replicated for each of the five standard integer types and then the
+set of them wrapped in another sizeof-selecting macro:</p>
 
 <pre><code>    #define asr(__x,__s) ((sizeof(__x) == sizeof(char)) ?           \
                           (__typeof(__x))__asr_char(__x, __s) :       \
@@ -3123,4 +3246,238 @@ I test-drove 2025 Kia EV6 today.
 <br> 
 
 <https://daveverse.wordpress.com/2025/04/12/test-drove-2025-kia-ev6/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+After market tumult, Trump exempts smartphones from massive new tariffs. 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/04/after-market-tumult-trump-exempts-smartphones-from-massive-new-tariffs/>
+
+---
+
+## The Home of the Brave
+
+date: 2025-04-12, from: Michael Moore's blog
+
+And another installment of "Michael Moore Presents: PORTRAITS OF POTUS&#8212;America's Art Attack for Democracy" 
+
+<br> 
+
+<https://www.michaelmoore.com/p/the-home-of-the-brave>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+The Week ChatGPT Truly Became an Assistant. 
+
+<br> 
+
+<https://parkerortolani.blog/2025/04/11/the-week-chatgpt-truly-became.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+Pete Alonso Erupts After Intentional Walk. (Mets fans are enjoying the revenge of Alonso.) 
+
+<br> 
+
+<https://fanrecap.com/pete-alonso-erupts-after-intentional-walk/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+Carole Cadwalladr: This is what a digital coup looks like. 
+
+<br> 
+
+<https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like>
+
+---
+
+## Quoting Andrew Nesbitt
+
+date: 2025-04-12, updated: 2025-04-12, from: Simon Willison’s Weblog
+
+<blockquote cite="https://mastodon.social/@andrewnez/114302875075999244"><p><strong>Slopsquatting</strong> -- when an LLM hallucinates a non-existent package name, and a bad actor registers it maliciously. The AI brother of typosquatting.</p>
+<p>Credit to <a href="https://fosstodon.org/@sethmlarson" title="@sethmlarson">@sethmlarson</a> for the name</p></blockquote>
+<p class="cite">&mdash; <a href="https://mastodon.social/@andrewnez/114302875075999244">Andrew Nesbitt</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/packaging">packaging</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/supply-chain">supply-chain</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/seth-michael-larson">seth-michael-larson</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/12/andrew-nesbitt/#atom-everything>
+
+---
+
+## Aer Travel Sling 2 X-Pac: One Year Later
+
+date: 2025-04-12, from: mrusme blog
+
+A review of the _Aer Travel Sling 2 X-Pac_ after one year of heavy-duty travel
+use. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/aer-travel-sling-2-x-pac-one-year-later/>
+
+---
+
+## Trump administration exempts smartphones, PCs, and chips from reciprocal tariffs… for now
+
+date: 2025-04-12, from: Liliputing
+
+<p>After announcing this week that most products shipped to the US from China would be subject to tariffs of 145 percent, the Trump Administration has rolled back tariffs on smartphones, laptop and desktop computers, chips, and other components that are not generally manufactured in the US. That doesn&#8217;t mean there are no tariffs on those items. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/trump-administration-exempts-smartphones-pcs-and-chips-from-reciprocal-tariffs-for-now/">Trump administration exempts smartphones, PCs, and chips from reciprocal tariffs&#8230; for now</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/trump-administration-exempts-smartphones-pcs-and-chips-from-reciprocal-tariffs-for-now/>
+
+---
+
+## A Conversation With G. Elliott Morris
+
+date: 2025-04-12, from: Paul Krugman
+
+Polling and the current moment 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-conversation-with-g-elliott-morris>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+&quot;The use of the word &#39;antisemitism&#39; as a covering pretext for defunding education empties the concept of meaning.&quot; 
+
+<br> 
+
+<https://snyder.substack.com/p/fomenting-antisemitism?publication_id=310897&post_id=161117849&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-12, from: Feed for Alt USDS)
+
+"State capture doesn’t always show up in a military uniform or a crown. Sometimes, it wears a flag pin, gives a thumbs up, and promises to make everything great again." 🔥🔥
+
+Great piece from Friends of USAID.
+
+ https://substack.com/home/post/p-161012117 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmmlxoceli2w>
+
+---
+
+## The Ocean Spectacle that Has Entranced Sailors for Centuries
+
+date: 2025-04-12, from: 404 Media Group
+
+ “It was like we were in the ‘Twilight Zone’ and peering at a negative of the real world,” said one mariner. 
+
+<br> 
+
+<https://www.404media.co/the-ocean-spectacle-that-has-entranced-sailors-for-centuries/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+Trump impeachment urged by WSJ editorial board member. 
+
+<br> 
+
+<https://www.rawstory.com/trump-impeachment-2671757337/>
+
+---
+
+## An Interview With Claudia Sahm
+
+date: 2025-04-12, from: Paul Krugman
+
+Of rules, recessions and more 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/an-interview-with-claudia-sahm>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+Trump grants military control over strip of federal land along US southern border. 
+
+<br> 
+
+<https://www.politico.com/news/2025/04/11/trump-grants-military-control-over-strip-of-federal-land-along-us-southern-border-00287606>
+
+---
+
+## Australian Air Force
+
+date: 2025-04-12, from: Computer ads from the Past
+
+If You're Switched On, This is Paradise. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/australian-air-force>
+
+---
+
+## Quoting Steve Dower
+
+date: 2025-04-12, updated: 2025-04-12, from: Simon Willison’s Weblog
+
+<blockquote cite="https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408/57"><p><strong>Backticks</strong> are traditionally banned from use in future language features, due to the small symbol. No reader should need to distinguish <code>`</code> from <code>'</code> at a glance.</p></blockquote>
+<p class="cite">&mdash; <a href="https://discuss.python.org/t/pep-750-tag-strings-for-writing-domain-specific-languages/60408/57">Steve Dower</a>, CPython core developer, August 2024</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/programming-languages">programming-languages</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/12/steve-dower/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+Netflix is testing a new OpenAI-powered search. 
+
+<br> 
+
+<https://www.theverge.com/news/647518/netflix-openai-search-beta-test-ios>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-12, from: Dave Winer's linkblog)
+
+The Social Security Administration Is Gutting Regional Staff and Shifting All Public Communications to X. 
+
+<br> 
+
+<https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/>
+
+---
+
+## Yes, We Do Want Humanoid Robots
+
+date: 2025-04-12, from: Pointers gone wild blog
+
+ 
+
+<br> 
+
+<https://pointersgonewild.com/2025-04-12-yes-we-do-want-humanoid-robots/>
 

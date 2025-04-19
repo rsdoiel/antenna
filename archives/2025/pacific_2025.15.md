@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-04-18 14:07:45
+updated: 2025-04-19 06:07:48
 ---
 
 # pacific
 
-(date: 2025-04-18 14:07:45)
+(date: 2025-04-19 06:07:48)
 
 ---
 
@@ -202,6 +202,20 @@ date: 2025-04-18, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/18/nation-world-news/trump-amps-up-feud-with-fed-over-rates-accuses-powell-of-playing-politics/>
+
+---
+
+## Kona cyclist, 71, dies following crash last week
+
+date: 2025-04-18, from: Hawaii Tribune Harold
+
+
+				<p>A 71-year-old male cyclist from Kailua-Kona has died following a two-vehicle collision on Wednesday, April 9, on Queen Ka&#8216;ahumanu Highway (Highway 19) near the 94.5-mile marker in North Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/18/hawaii-news/kona-cyclist-71-dies-following-crash-last-week/>
 
 ---
 
@@ -3027,4 +3041,211 @@ By Jayvee Vallejera   As the United States negotiates the Trump administration�
 <br> 
 
 <https://www.pacificislandtimes.com/post/cnmi-delegate-asks-us-tariff-negotiator-to-keep-the-northern-marianas-in-mind>
+
+---
+
+## Top Democrat says new Gabbard task force on ‘witch hunt’ in spy agencies
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The top Democrat on the U.S. Senate&#8217;s intelligence committee on Thursday said he suspected a task force formed by Director of National Intelligence Tulsi Gabbard was pursuing a &#8220;witch hunt&#8221; for intelligence officers it deems disloyal to President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/top-democrat-says-new-gabbard-task-force-on-witch-hunt-in-spy-agencies/>
+
+---
+
+## Brain drain? Trump cutbacks force scientists to seek jobs in Europe
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; David Die Dejean is passionate about studying tuna. Last year, he landed a dream job at National Oceanic and Atmospheric Administration in Miami to pursue his research. By January, he was settled in, had received a good review and loved working with his colleagues, he said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/brain-drain-trump-cutbacks-force-scientists-to-seek-jobs-in-europe/>
+
+---
+
+## White House plan calls for NOAA research programs to be dismantled
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>Trump administration officials are recommending the elimination of the scientific research division at the National Oceanic and Atmospheric Administration, according to internal documents obtained by The New York Times and several people with knowledge of the situation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/white-house-plan-calls-for-noaa-research-programs-to-be-dismantled/>
+
+---
+
+## China raises tariffs on US imports to 125%, calling Trump’s policies a ‘joke’
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>HONG KONG &#8212; China on Friday said it was raising its tariffs on American goods to 125%, retaliating for the third time in the escalating trade war between the two superpowers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/china-raises-tariffs-on-us-imports-to-125-calling-trumps-policies-a-joke/>
+
+---
+
+## Thousands of Hawaii students not immunized against measles
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>After Hawaii confirmed its first measles case in years, the state Education and Health departments are ramping up vaccination efforts, focusing on thousands of students who remain noncompliant with school immunization requirements.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/hawaii-news/thousands-of-hawaii-students-not-immunized-against-measles/>
+
+---
+
+## News in brief for April 12
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>US military removes commander of Greenland base</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/news-in-brief-for-april-12/>
+
+---
+
+## US judge will not curb immigration enforcement in places of worship
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Friday refused to limit the Trump administration&#8217;s immigration enforcement activities in places of worship, ruling against a group of 27 religious organizations that had sued the administration for dropping a longstanding policy against enforcement in sensitive locations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/us-judge-will-not-curb-immigration-enforcement-in-places-of-worship/>
+
+---
+
+## Tariffs angst sinks US consumer sentiment, boosts inflation expectations
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. consumer sentiment deteriorated sharply in April and 12-month inflation expectations surged to the highest level since 1981 amid unease over escalating trade tensions that have roiled financial markets and raised the risk of a recession.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/tariffs-angst-sinks-us-consumer-sentiment-boosts-inflation-expectations/>
+
+---
+
+## New pact would require ships to cut emissions or pay a fee
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>Amid the turmoil over global trade, countries around the world reached a remarkable, though modest, agreement Friday to reduce the climate pollution that comes from shipping those goods worldwide &#8212; with what is essentially a tax, no less.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/new-pact-would-require-ships-to-cut-emissions-or-pay-a-fee/>
+
+---
+
+## FAA to conduct drone-detection testing in New Jersey
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Aviation Administration will conduct drone-detection testing in New Jersey starting on Monday after a spike in reports last year and continuing sightings near airports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/faa-to-conduct-drone-detection-testing-in-new-jersey/>
+
+---
+
+## Five more big law firms reach deals with Trump
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>Five more prominent law firms facing potential punitive action by President Donald Trump reached deals Friday with the White House to provide a total of $600 million in free legal services to causes supported by the president.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/five-more-big-law-firms-reach-deals-with-trump/>
+
+---
+
+## Stay or go? Israeli evacuation orders force an agonizing choice in Gaza
+
+date: 2025-04-12, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli military issued new evacuation orders for neighborhoods in Gaza City on Friday as it pressed forward with its offensive in the war-ravaged Gaza Strip, delivering a painful choice to Palestinians about whether to stay or go.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/stay-or-go-israeli-evacuation-orders-force-an-agonizing-choice-in-gaza/>
+
+---
+
+## Poetry, Jewelry and Lei HIKI NŌ on PBS Hawai‘i
+
+date: 2025-04-12, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>&#8220;Poetry, Jewelry and Lei&#8221; On this episode of HIKI NŌ on PBS Hawaiʻi, watch stories about a jewelry market, students with passion for poetry and lei making, and student thoughts on gratitude. Students at H.P. Baldwin High School on Maui share a story about a a local jewelry shop that aims to empower and employ [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/poetry-jewelry-and-lei-hiki-no-on-pbs-hawaii/">Poetry, Jewelry and Lei &lt;br/&gt;HIKI NŌ on PBS Hawai‘i</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/poetry-jewelry-and-lei-hiki-no-on-pbs-hawaii/>
+
+---
+
+## US immigration judge rules Palestinian Columbia student Khalil can be deported
+
+date: 2025-04-12, updated: 2025-04-13, from: Marianas Variety
+
+JENA, Louisiana (Reuters) — A U.S. immigration judge ruled on Friday that Palestinian activist Mahmoud Khalil can be deported, allowing President Donald Trump's administration to proceed with its effort to remove the Columbia University student from the United States a month after his arrest in New York City. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-immigration-judge-rules-palestinian-columbia-student-khalil-can-be-deported/article_0c59bcf4-0d7f-409f-b0b8-ff006c06dc95.html>
+
+---
+
+## UH students tackle real-world issues at AI hackathon
+
+date: 2025-04-12, from: University of Hawaiʻi News
+
+<p>Five challenge topics pushed students to apply diverse skills toward local and statewide resilience efforts.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/11/aloha-data-ai-hackathon/"><abbr>UH</abbr> students tackle real-world issues at <abbr>AI</abbr> hackathon</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/11/aloha-data-ai-hackathon/>
 

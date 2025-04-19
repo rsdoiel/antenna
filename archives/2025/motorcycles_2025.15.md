@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-04-18 14:07:51
+updated: 2025-04-19 06:07:53
 ---
 
 # motorcycles
 
-(date: 2025-04-18 14:07:51)
+(date: 2025-04-19 06:07:53)
 
 ---
 
@@ -447,4 +447,28 @@ NHRA Press ReleaseLAS VEGAS (April 12, 2025) – The final pass of Saturday at T
 <br> 
 
 <https://kickinthetires.net/nhra/doug-kalitta-paul-lee-and-greg-anderson-fastest-in-nhra-qualifying-at-the-strip-at-las-vegas-motor-speedway/>
+
+---
+
+## Five Key Storylines: 50th Acura Grand Prix of Long Beach Preview
+
+date: 2025-04-12, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer The third round of the NTT IndyCar Series season is tomorrow, with the second biggest race on the calendar: The 50th Acura Grand Prix of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/five-key-storylines-50th-acura-grand-prix-of-long-beach-preview/>
+
+---
+
+## SEMA Still Supports the Guy Trying to Sell Off Your Public Land
+
+date: 2025-04-12, from: Ride Apart, Electric Motorcycle News
+
+But REI just apologized for it.  
+
+<br> 
+
+<https://www.rideapart.com/news/756228/sema-rei-doug-burgum-public-lands/>
 

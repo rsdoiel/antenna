@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-04-18 14:07:48
+updated: 2025-04-19 06:07:51
 ---
 
 # games
 
-(date: 2025-04-18 14:07:48)
+(date: 2025-04-19 06:07:51)
+
+---
+
+## Captain America: Brave New World, Companion, The Room Next Door on Netflix, and every movie new to streaming this weekend
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Captain America: Brave New World, the latest Marvel superhero movie starring Anthony Mackie and Harrison Ford, soars onto video on demand following its theatrical [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/558549/new-movies-watch-streaming-captain-america-brave-new-world-companion-room-next-door-netflix>
+
+---
+
+## Baldur’s Gate 3 is 20% off to celebrate its last major update
+
+date: 2025-04-18, updated: 2025-04-18, from: Polygon Website
+
+Baldur’s Gate 3 recently received its final major patch, adding features like cross-play, photo mode, and new subclasses in addition to myriad bug fixes. While there may be future updates to address undiscovered bugs, Larian Studios has capped off its support for Baldur’s Gate 3 in spectacular fashion. To mark the occasion, Steam and GOG [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/561625/baldurs-gate-3-final-patch-steam-gog-xbox-sale>
 
 ---
 
@@ -894,4 +918,136 @@ Hollywood has finally cracked the code on making movies based on video games, at
 <br> 
 
 <https://www.polygon.com/movies/556979/video-game-movies-tv-shows-story-kitchen-sonic-sega>
+
+---
+
+## Bungie re-reveals Marathon with short film and September release date
+
+date: 2025-04-12, updated: 2025-04-12, from: Polygon Website
+
+Bungie re-revealed its extraction shooter Marathon via livestream on Saturday. Marathon was officially revealed in May of 2023, and Bungie has been relatively quiet since its announcement. But as the studio gears up for the game’s Sept. 23 release date, it’s opening the floodgates on all things Marathon. The studio started the event with a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/555278/marathon-reveal-release-date-trailer>
+
+---
+
+## With Marathon, Bungie has a chance for the three-peat
+
+date: 2025-04-12, updated: 2025-04-11, from: Polygon Website
+
+When I went to Bellevue, Washington, in early April to visit Bungie’s headquarters and take a gander at Marathon, the studio’s upcoming extraction shooter, I remembered the first time I played a PC copy of Halo as a teen. Despite logging hundreds of hours on Xbox before, I was terrible with my mouse and keyboard [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/557178/marathon-preview-impressions-bungie>
+
+---
+
+## Marathon may be made for PvP fans, but Bungie says there’s still plenty for the rest of us
+
+date: 2025-04-12, updated: 2025-04-11, from: Polygon Website
+
+Marathon, Bungie’s upcoming extraction shooter, has been officially rerevealed via a Saturday stream out of the developer’s main offices in Bellevue, Washington. As part of a preview event for press and creators, Bungie flew me out to Washington to spend about six hours with the game, see the reveal event early, and speak to some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/557179/marathon-bungie-developer-interview>
+
+---
+
+## The best Nintendo Switch games for grown-ups
+
+date: 2025-04-12, updated: 2025-04-12, from: Polygon Website
+
+The Nintendo Switch is known for its robust library of first-party games that prioritize fun and cooperative experiences for audiences of all ages. But what about games for grown-ups? Sure, it’s fun and all to somersault around as a mustachioed plumber who can transform into an elephant, but sometimes all you want is something a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/23960695/best-nintendo-switch-games-for-adults>
+
+---
+
+## How to solve the two pictures puzzle in Blue Prince
+
+date: 2025-04-12, updated: 2025-04-12, from: Polygon Website
+
+You’ll come across a pair of pictures (or paintings, or drawings, or whatever you want to call them) in every Blue Prince room. This pair of pictures (or paintings or drawings) serves as the basis for one of the most baffling puzzles in the game. Our Blue Prince guide will tell why there are two [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/557463/pictures-drawings-paintings-puzzle-blue-prince-study-grid-solultion>
+
+---
+
+## Immortality: Design Works is one of the biggest game art books to date
+
+date: 2025-04-12, updated: 2025-04-11, from: Polygon Website
+
+At nearly 600 pages, including the game’s complete screenplay — and more than a dozen bonus trinkets in the Deluxe Edition — Lost in Cult’s upcoming Immortality: Design Works isn’t the sort of book you fit neatly into your collection; it’s the sort of book you build a collection around. The fifth entry in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/556198/immortality-design-works-book-interview>
+
+---
+
+## The Doctor’s new companion doesn’t want to be here, ‘And she’s right,’ says showrunner
+
+date: 2025-04-12, updated: 2025-04-11, from: Polygon Website
+
+There are more Doctor Who companions than there have ever been Doctors, and while they’re all unique in their own ways, there’s still a familiar pattern: The Doctor as the mysterious alien with the keys to all of time and space, and the companion as the eager adventurer, ready to be whisked away to a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/557826/doctor-who-companion-belinda-chandra-robot-revolution>
+
+---
+
+## In another universe, Steve Martin voiced Goofy in A Goofy Movie
+
+date: 2025-04-12, updated: 2025-04-12, from: Polygon Website
+
+It’s hard to imagine the beloved blockbuster disappointment A Goofy Movie without the distinct voice Disney fans have associated with him since Pinto Colvig originated the character in 1932. But according to Disney Plus’ Not Just a Goof, a documentary that dives into the making of the 1995 cult classic for its 30th anniversary, there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/disney/557287/a-goofy-movie-anniversary-steve-martin-voice>
+
+---
+
+## Roblox is secretly host to some wild Warhammer 40K fan games
+
+date: 2025-04-12, updated: 2025-04-11, from: Polygon Website
+
+We’re currently experiencing a golden age of video games set in the far, grimdark future of Warhammer 40,000. There are the potent power fantasies of Space Marine 2 or Boltgun, the constant hordes and frenetic combat of Darktide, the deep role-playing potential of Rogue Trader, or the tactical combat of Mechanicus or Chaos Gate: Daemonhunters. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/555248/roblox-space-marines-imperial-guard-fan-games>
+
+---
+
+## The Wheel of Time’s big battle episode is the finest kind of fantasy flex
+
+date: 2025-04-12, updated: 2025-04-11, from: Polygon Website
+
+In The Wheel of Time’s very first episode, trollocs attacked the quaint farming village known as the Two Rivers, calling on the might of five tethered teens and a determined Aes Sedai (Rosamund Pike) to keep their humble home from falling in the carnage. Of course, ill-prepared and overwhelmed farmers were no proper army then, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/557477/wheel-time-episode-7-battle-episode-fantasy>
+
+---
+
+## The best thrillers to watch on Netflix this April
+
+date: 2025-04-12, updated: 2025-04-11, from: Polygon Website
+
+Spring is here, and while the weather may be warming up, Netflix is still full of excellent thrillers for any extra indoor time you want to fill — or for outdoor movie viewing, we won’t judge. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/556571/best-thriller-movies-netflix-watch-april-2025>
 

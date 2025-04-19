@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-04-18 14:07:46
+updated: 2025-04-19 06:07:49
 ---
 
 # science and technology
 
-(date: 2025-04-18 14:07:46)
+(date: 2025-04-19 06:07:49)
+
+---
+
+## Microsoft Copilot shows up even when it's not wanted
+
+date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>Just us or is AI increasingly appearing like an unwanted party guest?</h4> <p>Microsoft customers are claiming the Windows giant&#39;s Copilot AI service sometimes ignores commands to disable the thing, and thus turns itself back on like a zombie risen from the dead.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/18/microsoft_copilot_not_wanted/>
 
 ---
 
@@ -354,6 +366,18 @@ date: 2025-04-17, updated: 2025-04-17, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/17/nasa_easter_weekend/>
+
+---
+
+## Small ocean swirls may have an outsized effect on climate, NASA satellite shows
+
+date: 2025-04-17, updated: 2025-04-18, from: The Register (UK I.T. News)
+
+<h4>SWOT satellite lets scientists observe small-scale eddies and waves for the first time</h4> <p>A NASA-led satellite mission has suggested that swirls and eddies in the middle of the ocean have a bigger influence on Earth&#39;s climate system than scientists previously realized.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/17/nasa_swot_analysis_small_currents/>
 
 ---
 
@@ -1067,7 +1091,7 @@ date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
 
 ## Uncle Sam kills funding for CVE program. Yes, that CVE program
 
-date: 2025-04-16, updated: 2025-04-16, from: The Register (UK I.T. News)
+date: 2025-04-16, updated: 2025-04-18, from: The Register (UK I.T. News)
 
 <h4>Because vulnerability management has nothing to do with national security, right?</h4> <p><strong>Updated</strong>  US government funding for the world&#39;s CVE program – the centralized Common Vulnerabilities and Exposures database of product security flaws – ends Wednesday.…</p> 
 
@@ -1974,4 +1998,76 @@ date: 2025-04-13, updated: 2025-04-13, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/13/pidgin_chat_client_uopdate/>
+
+---
+
+## Pinta 3.0 brings major GTK4 overhaul
+
+date: 2025-04-12, from: OS News
+
+Over 15 years ago, I wrote about the launch of a Paint.NET clone for Linux, called Pinta, written in GTK. That was merely version 0.1, and over time, it&#8217;s become somewhat of a staple for many Linux users. The project just released version 3, which is a major revision, moving the application over to GTK4 and Libadwaita. Built on the robust GTK 4 toolkit and the sleek Libadwaita, Pinta 3.0 brings a redesigned user interface that’s faster, more responsive, and more efficient than ever. Linux users will also benefit from improved system utility integration. On top of all this, new effects and the return of add-ins—previously disabled due to technical constraints—promise to bring even more creative possibilities. ↫ Pinta 3.0 release announcement Aside from the new user interface and return of add-ins, virtually every aspect of the application seems to have been touched in one way or another. We&#8217;ve got improved performance for both the UI and the application&#8217;s functionality, better gesture and touch support, redesigned and adaptive toolboxes, improved keyboard support, new effects, and much, much more. Like its original inspiration Paint.NET, Pinta sits between a basic image editor like Microsoft Paint and much more advanced tools like Photoshop and GIMP, and it seems this new release sticks to that position in the market. You can download Pinta 3.0 for Linux, Windows, and macOS, and it will surely find its way to your distribution&#8217;s repository soon enough. 
+
+<br> 
+
+<https://www.osnews.com/story/142102/pinta-3-0-brings-major-gtk4-overhaul/>
+
+---
+
+## Elliptical Python programming
+
+date: 2025-04-12, from: OS News
+
+One thing I love about Python is how it comes with its very own built-in zen. In moments of tribulations, when I am wrestling with crooked code and tangled thoughts, I often find solace in its timeless wisdom. ↫ Susam Pal I can&#8217;t program and know nothing about Python, but this still made me laugh. 
+
+<br> 
+
+<https://www.osnews.com/story/142099/elliptical-python-programming/>
+
+---
+
+## AI is making hyperscalers' sustainability pledges look more and more like a Hail Mary
+
+date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>Carbon capture, SMRs, fusion power - tech titans&#39; climate strategies are packed with moon shots</h4> <p><strong>Comment</strong>  AI&#39;s appetite for power is exploding. Hyperscalers have only just begun to adopt Nvidia&#39;s 120 kW-per-rack systems, and the GPU giant is already charting a course toward 600 kW designs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_hyperscalers_sustainability/>
+
+---
+
+## Global datacenter electricity use to double by 2030, say policy wonks. Yup, it's AI
+
+date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>No worries, just use neural networks to optimize systems powering neural networks</h4> <p><strong>Analysis</strong>  Global datacenter electricity use is set to more than double by 2030 - slightly surpassing Japan&#39;s total consumption - with AI named as the biggest driver.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_double_datacenter_energy/>
+
+---
+
+## LLMs can't stop making up software dependencies and sabotaging everything
+
+date: 2025-04-12, updated: 2025-04-13, from: The Register (UK I.T. News)
+
+<h4>Hallucinated package names fuel &#39;slopsquatting&#39;</h4> <p>The rise of LLM-powered code generation tools is reshaping how developers write software - and introducing new risks to the software supply chain in the process.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/>
+
+---
+
+## Mapping legend Ordnance Survey releases blocky Britain in Minecraft – again
+
+date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
+
+<h4>A thing of beauty for map fans and those with kids</h4> <p>Have you ever wanted to explore a blocky low-resolution version of the UK? Well, you&#39;re in luck, because the Ordnance Survey has created a Minecraft representation of it, claimed to be as realistic as anything ever can be in the game.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ordnance_survey_releases_blocky_britain/>
 

@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-04-18 14:07:49
+updated: 2025-04-19 06:07:51
 ---
 
 # journalism
 
-(date: 2025-04-18 14:07:49)
+(date: 2025-04-19 06:07:51)
+
+---
+
+## On The Steps Episode 9: Sanders draws record crowd in downtown rally
+
+date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Senator Bernie Sanders and U.S. Representative from New York Alexandria Ocasio-Cortez held a rally in downtown Los Angeles last Saturday. The Daily Bruin takes you into the crowd as they were joined by local leaders, national representatives and musicians, including Joan Baez, Maggie Rogers and Neil Young. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/on-the-steps-episode-9-sanders-draws-record-crowd-in-downtown-rally/>
 
 ---
 
@@ -108,7 +120,7 @@ UCLA Lab School, an institution serving students pre-K through sixth grade, orga
 
 date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
 
-United States Sen. Bernie Sanders called for an end to &#8220;oligarchy&#8221; at a Saturday rally in downtown Los Angeles.
+United States Sen. Bernie Sanders called for an end to &#8220;oligarchy” at a Saturday rally in downtown Los Angeles.
 Around 36,000 people attended the event, which Sanders described in a speech as the largest rally he has ever hosted. 
 
 <br> 
@@ -274,8 +286,8 @@ date: 2025-04-18, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
 
-Two students are suing UCLA and the UC Board of Regents for allegedly discriminating against people with disabilities, thereby violating federal and state law.
-The two plaintiffs &#8211; third-year student Jake Bertellotti and graduate public health student Taylor Carty &#8211; alleged in the lawsuit that UCLA repeatedly failed to address their concerns about inaccessible emergency evacuation protocols. 
+<em>This post was updated April 18 at 7:00 p.m.</em>
+Two students are suing UCLA and the UC Board of Regents for allegedly discriminating against people with disabilities, thereby violating federal and state law. 
 
 <br> 
 
@@ -1365,4 +1377,42 @@ The indie folk group released its fifth studio album, the 42-minute “SABLE, fA
 <br> 
 
 <https://dailybruin.com/2025/04/12/album-review-bon-iver-breaks-from-melancholy-with-introspection-fresh-sounds-on-sable-fable/>
+
+---
+
+## “Watt” a show! Fourth annual Electric Vehicle Car Show comes to town
+
+date: 2025-04-12, from: The Sundail (CSUN Student Newspaper)
+
+Rows of brand new Porsche electric vehicles and reliable Rivians lined up near the University Student Union (USU) for the fourth annual EV Car Show on Wednesday, April 9 in... 
+
+<br> 
+
+<https://sundial.csun.edu/192584/news/watt-a-show-fourth-annual-electric-vehicle-car-show-comes-to-town/>
+
+---
+
+## ‘What Were You Wearing?’ aims to stomp out blame towards survivors
+
+date: 2025-04-12, from: The Sundail (CSUN Student Newspaper)
+
+Lined along the wall of the University Student Union (USU), mannequins sit dressed in a variety of garments displaying the stories of the survivors that wore them. To begin the... 
+
+<br> 
+
+<https://sundial.csun.edu/192575/news/what-were-you-wearing-aims-to-stomp-out-blame-towards-survivors/>
+
+---
+
+## Level one bookstacks closed after vandalism at Doheny Library
+
+date: 2025-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>An individual shoved books off of the shelves and damaged several books. The level contains primarily East Asian literature.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/11/level-one-bookstacks-closed-after-vandalism-at-doheny-library/">Level one bookstacks closed after vandalism at Doheny Library</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/11/level-one-bookstacks-closed-after-vandalism-at-doheny-library/>
 
