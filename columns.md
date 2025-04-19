@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-04-19 06:07:50
+updated: 2025-04-19 14:07:51
 ---
 
 # columns
 
-(date: 2025-04-19 06:07:50)
+(date: 2025-04-19 14:07:51)
 
 ---
 
@@ -2305,8 +2305,8 @@ date: 2025-04-12, from: Robert Reich's blog
 With Heather Lofthouse and yours truly, Robert Reich 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161142531/96b0be4d2a52370b899753ba222ab0ac.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/161142531/96b0be4d2a52370b899753ba222ab0ac.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161142531/3a869971942207f0d8cb548b844c386e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161142531/3a869971942207f0d8cb548b844c386e.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://robertreich.substack.com/p/is-trump-fuking-the-economy-the-coffee>
 

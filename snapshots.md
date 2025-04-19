@@ -1,11 +1,11 @@
 ---
 title: snapshots
-updated: 2025-04-19 06:07:56
+updated: 2025-04-19 14:07:58
 ---
 
 # snapshots
 
-(date: 2025-04-19 06:07:56)
+(date: 2025-04-19 14:07:58)
 
 ---
 
@@ -2549,7 +2549,7 @@ date: 2025-04-14, updated: 2025-04-14, from: Simon Willison’s Weblog
 
 <p>Believing AI vendors who promise you that they won't train on your data is a <em>huge</em> competitive advantage these days.</p>
 
-    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
 
 <br> 
 

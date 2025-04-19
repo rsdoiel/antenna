@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-04-19 06:07:47
+updated: 2025-04-19 14:07:48
 ---
 
 # socal north
 
-(date: 2025-04-19 06:07:47)
+(date: 2025-04-19 14:07:48)
 
 ---
 
@@ -193,7 +193,7 @@ date: 2025-04-18, from: Longbeach Post
 
 ## What is a ‘wellness check’ and why is Homeland Security doing them at LAUSD schools?
 
-date: 2025-04-18, updated: 2025-04-18, from: The LAist
+date: 2025-04-18, updated: 2025-04-19, from: The LAist
 
 Legal advocates say the department’s school wellness checks are a ‘cloak for immigration enforcement.’ 
 

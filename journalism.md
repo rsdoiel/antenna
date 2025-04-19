@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-04-19 06:07:51
+updated: 2025-04-19 14:07:53
 ---
 
 # journalism
 
-(date: 2025-04-19 06:07:51)
+(date: 2025-04-19 14:07:53)
 
 ---
 
@@ -120,8 +120,8 @@ UCLA Lab School, an institution serving students pre-K through sixth grade, orga
 
 date: 2025-04-18, from: The Daily Bruin (UCLA Student Newspaper)
 
-United States Sen. Bernie Sanders called for an end to &#8220;oligarchy” at a Saturday rally in downtown Los Angeles.
-Around 36,000 people attended the event, which Sanders described in a speech as the largest rally he has ever hosted. 
+<em>This post was updated April 19 at 12:47 p.m.</em>
+United States Sen. Bernie Sanders called for an end to &#8220;oligarchy” at a Saturday rally in downtown Los Angeles. 
 
 <br> 
 
