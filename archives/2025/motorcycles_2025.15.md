@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-04-19 14:07:55
+updated: 2025-04-20 06:08:15
 ---
 
 # motorcycles
 
-(date: 2025-04-19 14:07:55)
+(date: 2025-04-20 06:08:15)
+
+---
+
+## Peugeot Now Has Its Own Spinoff Scooter Brand
+
+date: 2025-04-20, from: Ride Apart, Electric Motorcycle News
+
+It’ll cater to growing demand for small scooters and commuters in Europe. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757032/peugeot-kisbee-spinoff-scooter-brand-launched/>
+
+---
+
+## The DAB 1α X Is a Badass Electric Dual Sport Motorcycle That’s Way Too Expensive
+
+date: 2025-04-19, from: Ride Apart, Electric Motorcycle News
+
+It’s a hard sell starting at $16K. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757033/dab-1ax-electric-scrambler-badass-too-expensive/>
+
+---
+
+## 2025 ARCA West at Tucson: Team Reactions and Analysis
+
+date: 2025-04-19, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The third race of the 2025 season, the ARCA Menards Series 150 presented by the West Coast Stock Car Motorsports Hall of Fame, took place&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2025-arca-west-at-tucson-team-reactions-and-analysis/>
 
 ---
 
@@ -447,28 +485,4 @@ NHRA Press ReleaseLAS VEGAS (April 12, 2025) – The final pass of Saturday at T
 <br> 
 
 <https://kickinthetires.net/nhra/doug-kalitta-paul-lee-and-greg-anderson-fastest-in-nhra-qualifying-at-the-strip-at-las-vegas-motor-speedway/>
-
----
-
-## Five Key Storylines: 50th Acura Grand Prix of Long Beach Preview
-
-date: 2025-04-12, from: Kickin the Tires blog
-
-By Austin Lawton, Staff Writer The third round of the NTT IndyCar Series season is tomorrow, with the second biggest race on the calendar: The 50th Acura Grand Prix of&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/indycar/five-key-storylines-50th-acura-grand-prix-of-long-beach-preview/>
-
----
-
-## SEMA Still Supports the Guy Trying to Sell Off Your Public Land
-
-date: 2025-04-12, from: Ride Apart, Electric Motorcycle News
-
-But REI just apologized for it.  
-
-<br> 
-
-<https://www.rideapart.com/news/756228/sema-rei-doug-burgum-public-lands/>
 

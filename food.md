@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2025-04-19 14:07:56
+updated: 2025-04-20 06:08:17
 ---
 
 # food
 
-(date: 2025-04-19 14:07:56)
+(date: 2025-04-20 06:08:17)
+
+---
+
+## Tell The Easter Bunny There Better Be Coffee In Those Eggs
+
+date: 2025-04-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated selection of coffee from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/tell-the-easter-bunny-there-better-be-coffee-in-those-eggs-319404.html>
+
+---
+
+## What Are the Stringy Things in Avocados?
+
+date: 2025-04-19, from: Taste of Home
+
+<p>Cut into a beautiful green avocado only to find strings laced through it? Here's what they are and whether they're safe to eat.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stringy-avocados/">What Are the Stringy Things in Avocados?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stringy-avocados/>
 
 ---
 
@@ -1322,16 +1348,4 @@ Want to win their heart? First, win their taste buds with a flavorful and tender
 <br> 
 
 <https://www.tasteofhome.com/recipes/marry-me-pot-roast/>
-
----
-
-## Come And Get Your Love (It’s A Bag Of Coffee)
-
-date: 2025-04-12, from: The Sprudge
-
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s&#8230; 
-
-<br> 
-
-<https://sprudge.com/come-and-get-your-love-its-a-bag-of-coffee-314611.html>
 

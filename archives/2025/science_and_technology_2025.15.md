@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-04-19 14:07:50
+updated: 2025-04-20 06:08:11
 ---
 
 # science and technology
 
-(date: 2025-04-19 14:07:50)
+(date: 2025-04-20 06:08:11)
+
+---
+
+## NASA Astronaut Don Pettit, Crewmates Complete Space Station Expedition
+
+date: 2025-04-20, from: NASA breaking news
+
+NASA astronaut Don Pettit returned to Earth Saturday, accompanied by Roscosmos cosmonauts Alexey Ovchinin and Ivan Vagner, concluding a seven-month science mission aboard the International Space Station. The trio departed the space station at 5:57 p.m. EDT aboard the Soyuz MS-26 spacecraft before making a safe, parachute-assisted landing at 9:20 p.m. (6:20 a.m. on Sunday, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/>
+
+---
+
+## HP settles fake discount lawsuit for just $4M. Don’t expect much of a payout
+
+date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
+
+<h4>When it comes to sales and rebates, PC giant takes &#39;Keep Reinventing&#39; seriously</h4> <p>HP Inc has agreed to pay $4 million to settle a class-action lawsuit in the US that alleged it used deceptive pricing tactics on its website, including fake discounts and misleading limited-time offers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/19/hp_deceptive_pricing_lawsuit/>
+
+---
+
+## Blue95 Topanga released with Paint and Plus! clones
+
+date: 2025-04-19, from: OS News
+
+Only a few weeks ago we talked about Blue95, a Fedora-based distribution focused on bringing the Windows 95 look to the Linux world by integrating a set of existing Windows 95 Xfce themes. Since Fedora 42 has just been released, the Blue95 project also pushed out a new release, called Blue95 Topanga. It brings with it all the improvements from Fedora 42, but also goes a step further be integrating new applications to further add to the Windows 95 vibe. First, there&#8217;s Winblues Paint, a faithful recreation of Windows 95&#8217;s Paint, using jspaint.app. Second, they&#8217;ve recreated the classic Plus! experience with Chicago95 Plus!, a tool that allows you to take any existing Windows 95/98/ME/XP theme and apply it as-is on Xfce. Topanga also further improves the theming experience with custom Windows 95 icons for LibreOffice as well as custom themes for Audacious and Flatpost, a desktop-agnostic Flatpak client. I adore that this project aims to be more than just a vessel for the existing Chicago95 theme, and in fact goes so far as to create its own applications. I hope this continues from here on out and doesn&#8217;t fizzle out. 
+
+<br> 
+
+<https://www.osnews.com/story/142161/blue95-topanga-released-with-paint-and-plus-clones/>
+
+---
+
+## LXQt 2.2.0 released
+
+date: 2025-04-19, from: OS News
+
+LXQt, the Qt-based alternative to KDE as Xfce is the GTK-based alternative to GNOME, has released version 2.2.0. LXQt is in the middle of its transition to Wayland, and as such, this release brings a number of fixes and improvements for Wayland, like improved multi-display support and updated compatibility with Wayland compositors. Beyond all the Wayland work, LXQt Power Management now supports power profiles, text rendering in QTerminal and QTermWidget has been improved, the file manager PCManFM-Qt has received a whole slew of new features, and there&#8217;s the usual smaller bug fixes and changes. 
+
+<br> 
+
+<https://www.osnews.com/story/142158/lxqt-2-2-0-released/>
+
+---
+
+## Hacking US crosswalks to talk like Zuck is as easy as 1234
+
+date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
+
+<h4>AI-spoofed Mark joins fellow billionaires as the voice of the street – here&#39;s how it was probably done</h4> <p><strong>Video</strong>  Crosswalk buttons in various US cities were hijacked over the past week or so to – rather than robotically tell people it&#39;s safe to walk or wait – instead emit the AI-spoofed voices of Jeff Bezos, Elon Musk, and Mark Zuckerberg.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/19/us_crosswalk_button_hacking/>
+
+---
+
+## What to do once your Surface Hub v1 becomes an 84-inch, $22K paperweight
+
+date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
+
+<h4>Oh. You expected serious suggestions?</h4> <p>It isn&#39;t just devices unable to upgrade to Windows 11 that are headed to digital landfill this year. The first version of Microsoft&#39;s Surface Hub is also destined for the tech trashcan as Windows 10 support ends. So, what do you do with a big black wall ornament?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/19/microsoft_surface_hub_v1/>
 
 ---
 
@@ -1998,76 +2070,4 @@ date: 2025-04-13, updated: 2025-04-13, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/13/pidgin_chat_client_uopdate/>
-
----
-
-## Pinta 3.0 brings major GTK4 overhaul
-
-date: 2025-04-12, from: OS News
-
-Over 15 years ago, I wrote about the launch of a Paint.NET clone for Linux, called Pinta, written in GTK. That was merely version 0.1, and over time, it&#8217;s become somewhat of a staple for many Linux users. The project just released version 3, which is a major revision, moving the application over to GTK4 and Libadwaita. Built on the robust GTK 4 toolkit and the sleek Libadwaita, Pinta 3.0 brings a redesigned user interface that’s faster, more responsive, and more efficient than ever. Linux users will also benefit from improved system utility integration. On top of all this, new effects and the return of add-ins—previously disabled due to technical constraints—promise to bring even more creative possibilities. ↫ Pinta 3.0 release announcement Aside from the new user interface and return of add-ins, virtually every aspect of the application seems to have been touched in one way or another. We&#8217;ve got improved performance for both the UI and the application&#8217;s functionality, better gesture and touch support, redesigned and adaptive toolboxes, improved keyboard support, new effects, and much, much more. Like its original inspiration Paint.NET, Pinta sits between a basic image editor like Microsoft Paint and much more advanced tools like Photoshop and GIMP, and it seems this new release sticks to that position in the market. You can download Pinta 3.0 for Linux, Windows, and macOS, and it will surely find its way to your distribution&#8217;s repository soon enough. 
-
-<br> 
-
-<https://www.osnews.com/story/142102/pinta-3-0-brings-major-gtk4-overhaul/>
-
----
-
-## Elliptical Python programming
-
-date: 2025-04-12, from: OS News
-
-One thing I love about Python is how it comes with its very own built-in zen. In moments of tribulations, when I am wrestling with crooked code and tangled thoughts, I often find solace in its timeless wisdom. ↫ Susam Pal I can&#8217;t program and know nothing about Python, but this still made me laugh. 
-
-<br> 
-
-<https://www.osnews.com/story/142099/elliptical-python-programming/>
-
----
-
-## AI is making hyperscalers' sustainability pledges look more and more like a Hail Mary
-
-date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
-
-<h4>Carbon capture, SMRs, fusion power - tech titans&#39; climate strategies are packed with moon shots</h4> <p><strong>Comment</strong>  AI&#39;s appetite for power is exploding. Hyperscalers have only just begun to adopt Nvidia&#39;s 120 kW-per-rack systems, and the GPU giant is already charting a course toward 600 kW designs.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_hyperscalers_sustainability/>
-
----
-
-## Global datacenter electricity use to double by 2030, say policy wonks. Yup, it's AI
-
-date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
-
-<h4>No worries, just use neural networks to optimize systems powering neural networks</h4> <p><strong>Analysis</strong>  Global datacenter electricity use is set to more than double by 2030 - slightly surpassing Japan&#39;s total consumption - with AI named as the biggest driver.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_double_datacenter_energy/>
-
----
-
-## LLMs can't stop making up software dependencies and sabotaging everything
-
-date: 2025-04-12, updated: 2025-04-13, from: The Register (UK I.T. News)
-
-<h4>Hallucinated package names fuel &#39;slopsquatting&#39;</h4> <p>The rise of LLM-powered code generation tools is reshaping how developers write software - and introducing new risks to the software supply chain in the process.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/>
-
----
-
-## Mapping legend Ordnance Survey releases blocky Britain in Minecraft – again
-
-date: 2025-04-12, updated: 2025-04-12, from: The Register (UK I.T. News)
-
-<h4>A thing of beauty for map fans and those with kids</h4> <p>Have you ever wanted to explore a blocky low-resolution version of the UK? Well, you&#39;re in luck, because the Ordnance Survey has created a Minecraft representation of it, claimed to be as realistic as anything ever can be in the game.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/12/ordnance_survey_releases_blocky_britain/>
 

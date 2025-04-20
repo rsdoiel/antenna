@@ -1,11 +1,107 @@
 ---
 title: home
-updated: 2025-04-19 14:07:54
+updated: 2025-04-20 06:08:15
 ---
 
 # home
 
-(date: 2025-04-19 14:07:54)
+(date: 2025-04-20 06:08:15)
+
+---
+
+## 60 Animals That Start With N (With Pictures and Names)
+
+date: 2025-04-20, from: Yard Life blog
+
+<p>Exploring the animal kingdom through the lens of animals that share the same starting letter is a fascinating way to ... </p>
+<p class="read-more-container"><a title="60 Animals That Start With N (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/60-animals-that-start-with-n-with-pictures-and-names/#more-27346" aria-label="Read more about 60 Animals That Start With N (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/60-animals-that-start-with-n-with-pictures-and-names/">60 Animals That Start With N (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/60-animals-that-start-with-n-with-pictures-and-names/>
+
+---
+
+## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
+
+date: 2025-04-19, from: Sunset Magazine - Living in the West
+
+Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
+
+---
+
+## 21 Veggie-Forward Lunches You’ll Actually Look Forward to Eating Every Day
+
+date: 2025-04-19, from: Sunset Magazine - Living in the West
+
+Lunches don't have to be boring. Make these hearty and filling vegetarian lunches for workday lunches and beyond. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/vegetarian-lunches>
+
+---
+
+## 7 Reasons Why Impatiens Fail to Bloom
+
+date: 2025-04-19, from: The Gardener's Path
+
+<p>Impatiens are appreciated for their ability to add reliable color to shady areas in the garden. But when they fail to bloom, it can be disappointing. There are a variety of reasons why this might happen. Learn about 7 common reasons why impatiens may fail to bloom and what you can do about it in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/impatiens-not-blooming/">7 Reasons Why Impatiens Fail to Bloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/impatiens-not-blooming/>
+
+---
+
+## Smart planting of avocado trees where soil is heavy and rainfall is high
+
+date: 2025-04-19, from: Greg Alder's blog, Yard Post
+
+<p>You can get lucky and plant an avocado tree in your yard and find success on your first try. But for many people, myself included, it takes killing a few trees to learn how to grow an avocado successfully in a particular situation. One situation that many people find themselves in is a yard with [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/smart-planting-of-avocado-trees-where-soil-is-heavy-and-rainfall-is-high/">Smart planting of avocado trees where soil is heavy and rainfall is high</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/smart-planting-of-avocado-trees-where-soil-is-heavy-and-rainfall-is-high/>
+
+---
+
+## 70 Common Types of Sharks (With Pictures and Names)
+
+date: 2025-04-19, from: Yard Life blog
+
+<p>Sharks are some of the most fascinating and diverse creatures in the ocean, with over 500 species identified worldwide. Among ... </p>
+<p class="read-more-container"><a title="70 Common Types of Sharks (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/#more-27270" aria-label="Read more about 70 Common Types of Sharks (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/">70 Common Types of Sharks (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/>
+
+---
+
+## Avocado tree clones itself
+
+date: 2025-04-19, from: Greg Alder's blog, Yard Post
+
+<p>Unlike many other fruit trees, avocados are hard to root. Rooting is where you cut a branch off a tree and stick it partly in the ground or a container so that the cut branch will form roots where it is buried. It&#8217;s a way of copying, or cloning, a tree. Try this with a [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/avocado-tree-clones-itself/">Avocado tree clones itself</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/avocado-tree-clones-itself/>
 
 ---
 
@@ -120,18 +216,6 @@ Dacoury Dahi Natche, who’s worked with artists like Kendrick Lamar, and local 
 <br> 
 
 <https://www.dwell.com/article/before-and-after-dahi-residence-shin-shin-architecture-home-recording-studio-16d4a82b>
-
----
-
-## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
-
-date: 2025-04-18, from: Sunset Magazine - Living in the West
-
-Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
-
-<br> 
-
-<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
 
 ---
 
@@ -337,18 +421,6 @@ All U.S. travelers over 18 will need a Real ID to board domestic flights by May 
 <br> 
 
 <https://www.sunset.com/travel/real-id-travel-deadline-2025>
-
----
-
-## 21 Veggie-Forward Lunches You’ll Actually Look Forward to Eating Every Day
-
-date: 2025-04-17, from: Sunset Magazine - Living in the West
-
-Lunches don't have to be boring. Make these hearty and filling vegetarian lunches for workday lunches and beyond. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/vegetarian-lunches>
 
 ---
 
@@ -1426,122 +1498,4 @@ date: 2025-04-13, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-asparagus-varieties/>
-
----
-
-## The New Garden Lighting Trend You’re Going to See Everywhere This Summer (Bonus: It’s Budget-Friendly, Too)
-
-date: 2025-04-12, from: Sunset Magazine - Living in the West
-
-We still love string lights, but outdoor rattan pendant lights are the next big thing. Here's how to incorporate them into your space. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/outdoor-living/outdoor-lighting-rattan-pendants>
-
----
-
-## 6 Things You Need to Know About Outdoor Lighting, According to a Garden Designer
-
-date: 2025-04-12, from: Sunset Magazine - Living in the West
-
-As you’re thinking about your landscape design, don’t ignore one major element: lighting. A landscape designer shares the best outdoor lighting tips. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/outdoor-lighting-tips>
-
----
-
-## This New Lighting Trend Is a Genius Solution to Ugly Overhead Lighting
-
-date: 2025-04-12, from: Sunset Magazine - Living in the West
-
-Gallery lighting isn't just for art. Use it to light up other parts of your home to make design details pop. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/gallery-lights-home-design-trend>
-
----
-
-## The Best Bedroom Lighting Inspiration Can Be Found in Hotel Rooms
-
-date: 2025-04-12, from: Sunset Magazine - Living in the West
-
-The best place to find bedroom lighting inspiration is a hotel room. Take a look at these chic rooms in hotels across the West. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/hotel-room-lighting-inspiration-ideas>
-
----
-
-## A ‘Rest Corner’ Is the Trendiest Thing You Can Have in Your Home Right Now
-
-date: 2025-04-12, from: Sunset Magazine - Living in the West
-
-Quiet luxury has extended into cozy nooks in your home, also known as rest corners. Here's how to get the look at home. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/rest-corner-home-design-trend>
-
----
-
-## How to Grow Jalapeno Peppers
-
-date: 2025-04-12, from: The Gardener's Path
-
-<p>Jalapenos are compact, productive chili pepper plants that produce medium-sized fruits with moderate heat. The glossy green pods ripen to red or purple and can be eaten fresh, pickled, or dried. The plants thrive in warm temperatures with plenty of sun. Learn how to grow jalapeno peppers in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-jalapenos/">How to Grow Jalapeno Peppers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vegetables/grow-jalapenos/>
-
----
-
-## Learn How to Use Coconut Coir Products in the Garden
-
-date: 2025-04-12, from: The Gardener's Path
-
-<p>Coconut coir is a fibrous material used to manufacture products like brooms and mats, as well as a host of soilless growing products. In its various forms you can use it to line planters, improve soil water retention and aeration, and support tropical plants like orchids. Learn its pros and cons now on Gardener’s Path.</p>
-<p>The post <a href="https://gardenerspath.com/how-to/composting/coconut-coir/">Learn How to Use Coconut Coir Products in the Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/how-to/composting/coconut-coir/>
-
----
-
-## 99 Types of Palm Trees (With Pictures and Identification)
-
-date: 2025-04-12, from: Yard Life blog
-
-<p>Palm trees are some of the most iconic and versatile plants in the world, instantly evoking images of tropical beaches, ... </p>
-<p class="read-more-container"><a title="99 Types of Palm Trees (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/#more-26885" aria-label="Read more about 99 Types of Palm Trees (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/">99 Types of Palm Trees (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/99-types-of-palm-trees-with-pictures-and-identification/>
-
----
-
-## 14 Black Birds with Brown Heads (Pictures and Identification)
-
-date: 2025-04-12, from: Yard Life blog
-
-<p>When you spot a bird with dark plumage and a distinctly brown head, it might leave you wondering what species ... </p>
-<p class="read-more-container"><a title="14 Black Birds with Brown Heads (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/#more-26868" aria-label="Read more about 14 Black Birds with Brown Heads (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/">14 Black Birds with Brown Heads (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/14-black-birds-with-brown-heads-pictures-and-identification/>
 

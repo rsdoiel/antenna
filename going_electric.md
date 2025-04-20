@@ -1,11 +1,135 @@
 ---
 title: going electric
-updated: 2025-04-19 14:07:56
+updated: 2025-04-20 06:08:16
 ---
 
 # going electric
 
-(date: 2025-04-19 14:07:56)
+(date: 2025-04-20 06:08:16)
+
+---
+
+## Can an electric bike really do 100 miles on a single charge?
+
+date: 2025-04-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/priority-current-plus-header2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>When it comes to electric bikes, range anxiety is real — but it might be less of a concern than you think. In a recent real-world endurance test, Priority Bicycles’ Will Maurillo and Connor Swegle set out to answer a simple but ambitious question: Can a <a href="https://www.avantlink.com/click.php?tool_type=cl&amp;merchant_id=1d722773-d301-4e39-a018-1a3be7d8566a&amp;website_id=d8cb501a-c5ae-4e37-bc97-8c54add0467e&amp;url=https%3A%2F%2Fwww.prioritybicycles.com%2Fproducts%2Fcurrentplus">Current Plus </a>e-bike hit 100 miles (160 km) on a single charge?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="412021" href="https://electrek.co/2025/04/20/can-an-electric-bike-really-do-100-miles-on-a-single-charge/#more-412021" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/20/can-an-electric-bike-really-do-100-miles-on-a-single-charge/>
+
+---
+
+## What’s happening with Tesla’s solar roof?
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/Tesla-Solar-roof-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Solar Roof tiles are still alive, but the product is on the back burner at Tesla as it failed to achieve its promises.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412011" href="https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/#more-412011" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/>
+
+---
+
+## How A 217,500-Mile Tesla Model 3 Battery Compares To One With 3,000 Miles
+
+date: 2025-04-19, from: Inside EVs News
+
+Both Teslas are three years old, so this is a good look at how mileage affects battery degradation. 
+
+<br> 
+
+<https://insideevs.com/news/757119/tesla-model-3-battery-degradation-after-200k/>
+
+---
+
+## Retrospec Valen Rev+: A fat tire e-bike with the spirit of an all-terrain scrambler [Video]
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/DSC08478.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>For the <a href="https://bit.ly/3GgKbmn" target="_blank" rel="noreferrer noopener sponsored nofollow">Valen Rev+</a>, Retrospec managed to get the best out of that iconic moto-style scrambler spirit and put it into a comfortably handling fat tire e-bike while also keeping the performance bits that make it fun, and the best part is it comes at a reasonable price of just under $1,800</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-bikes,retrospec,sponsored-post" data-layer-viewtype="unknown" data-post-id="410468" href="https://electrek.co/2025/04/19/retrospec-valen-rev-fat-tire-e-bike-with-the-spirit-of-an-all-terrain-scrambler/#more-410468" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/retrospec-valen-rev-fat-tire-e-bike-with-the-spirit-of-an-all-terrain-scrambler/>
+
+---
+
+## Subaru Trailseeker EV First Look: An Electric Outback With Good Vibes
+
+date: 2025-04-19, from: Inside EVs News
+
+The automaker surprised with an all electric off-roader at the New York Auto Show. Here’s a closer walk around. 
+
+<br> 
+
+<https://insideevs.com/news/757118/subaru-trailseeker-ev-good-vibes/>
+
+---
+
+## This is it: Mazda EZ-60 crossover interior revealed ahead of global launch [video]
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-19-at-6.35.22 AM.png?w=1600" /></div><p>We got our first look at the new-for-2026 Mazda EZ-60 electric crossover just last week, but Mazda played coy with the interior, leading many in the media (<a href="https://electrek.co/2025/04/10/mazda-launch-real-electric-suv-first-look/">including us</a>) <a href="https://electrek.co/2024/09/29/mazda-ez-6-ev-goes-on-sale-with-a-starting-price-under-25000/">to believe that the interior would be pretty similar to the EZ-6 sedan</a>‘s. <strong>We were wrong</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,mazda" data-layer-viewtype="unknown" data-post-id="411986" href="https://electrek.co/2025/04/19/this-is-it-mazda-ez-60-crossover-interior-revealed-ahead-of-global-launch-video/#more-411986" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/this-is-it-mazda-ez-60-crossover-interior-revealed-ahead-of-global-launch-video/>
+
+---
+
+## New 2026 Volvo S90 looks great – but if you can read this, you probably can’t have one
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/2026-Volvo-S90-plug-in-hybrid-MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volvo Cars took the wraps off new-for-2026 S90 plug-in hybrid, calling the big sedan the most elegant and comfortable 90 yet, promising nearly 50 miles (80 km) of all-electric range and a comprehensive suite of high-end technology and design updates … but if you’re reading this in English, you probably can’t have one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="phev,tariffs,volvo-cars" data-layer-viewtype="unknown" data-post-id="411959" href="https://electrek.co/2025/04/19/new-2026-volvo-s90-looks-great-but-if-you-can-read-this-you-cant-have-one/#more-411959" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/new-2026-volvo-s90-looks-great-but-if-you-can-read-this-you-cant-have-one/>
+
+---
+
+## The messy middle, hybrid semis, and century old tech comes to trucking
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/hybrid-semis-cover.png?w=1600" /></div><p>On today’s fleet-focused episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we talk about a hot topic in today’s trucking industry called, “the messy middle,” explore some of the ways legacy truck brands are working to reduce fuel consumption and increase freight efficiency. PLUS: we’ve got ReVolt Motors’ CEO and founder Gus Gardner on-hand to tell us why he thinks his solution is better.</p>
+
+
+
+<p>You know, for <em>some</em> people.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,erev,quick-charge" data-layer-viewtype="unknown" data-post-id="411942" href="https://electrek.co/2025/04/18/the-messy-middle-hybrid-semis-and-century-old-tech-comes-to-trucking/#more-411942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/the-messy-middle-hybrid-semis-and-century-old-tech-comes-to-trucking/>
 
 ---
 
@@ -1348,148 +1472,4 @@ Recent moves by Toyota offer clues about what could be an affordable, high-range
 <br> 
 
 <https://insideevs.com/news/756446/subaru-trailseeker-chr-plus-theory/>
-
----
-
-## Michigan Senator Seeks Total Chinese Car Ban
-
-date: 2025-04-12, from: Inside EVs News
-
-Sen. Elissa Slotkin vows to "lay down on the border to keep Chinese vehicles from entering the U.S." But is it security or protectionism? 
-
-<br> 
-
-<https://insideevs.com/news/756430/anti-china-slotkin-ev-senate/>
-
----
-
-## Hyundai IONIQ 5 drops 500 lbs. with new body inspired by the classic Lancia Delta
-
-date: 2025-04-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/VANWALL-unveils-the-new-VANDERWELL-S-001-web.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Based on the excellent Hyundai IONIQ 5 N platform, Vanwall gives its Vandervell H-GT a high-performance aesthetic makeover inspired by the classic Lancia Delta HF Integrale. But what makes this body kit a genuine “high-performance” upgrade isn’t the way it makes the car look: <strong>it’s the 500 lb. weight savings</strong>!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5,lancia,motorsports,tuner" data-layer-viewtype="unknown" data-post-id="411195" href="https://electrek.co/2025/04/12/hyundai-ioniq-5-drops-500-lbs-with-new-body-inspired-by-the-classic-lancia-delta/#more-411195" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/12/hyundai-ioniq-5-drops-500-lbs-with-new-body-inspired-by-the-classic-lancia-delta/>
-
----
-
-## 2025 Audi RS e-tron GT: Supercar Speed Meets Daily Driver Comfort
-
-date: 2025-04-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Audi-RS-GT-e-tron.png?w=1600" /></div><p>I had the chance to drive the new 2025 RS Audi GT e-tron for a few hours in the Nevada desert and for a few minutes on a race track.</p>
-
-
-
-<p>Here are my thoughts.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="audi-rs-gt-e-tron" data-layer-viewtype="unknown" data-post-id="409822" href="https://electrek.co/2025/04/12/2025-audi-rs-e-tron-gt-supercar-speed-meets-daily-driver-comfort/#more-409822" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/12/2025-audi-rs-e-tron-gt-supercar-speed-meets-daily-driver-comfort/>
-
----
-
-## BrightDrop production paused due to slow demand – it’s still the best EV deal going
-
-date: 2025-04-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/2025-chevrolet-brightdrop.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Unifor union rep at the Ontario production facility where GM builds the all electric Chevy BrightDrop van is temporarily halting production of the commercial EV due to slow sales – but with massive discounts, <a href="https://electrek.co/2025/04/05/costco-executive-members-get-massive-31500-off-chevy-brightdrop-van/?_thumbnail_id=409913">Costco member programs</a>, and state and utility incentives driving costs well below its diesel competitors, <a href="https://electrek.co/2025/04/08/all-the-evs-and-phevs-you-can-buy-with-0-financing-in-april-2025/">it might still be the best EV deal you can get</a>.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-van,gm" data-layer-viewtype="unknown" data-post-id="411165" href="https://electrek.co/2025/04/12/brightdrop-production-paused-due-to-slow-demand-its-still-the-best-ev-deal-going/#more-411165" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/12/brightdrop-production-paused-due-to-slow-demand-its-still-the-best-ev-deal-going/>
-
----
-
-## U.S. EV Sales Shot Up 11% In Q1. Tesla Plunged 9%
-
-date: 2025-04-12, from: Inside EVs News
-
-Tesla's sales are slumping, but rivals like General Motors, BMW, Ford and Hyundai are picking up the slack.  
-
-<br> 
-
-<https://insideevs.com/news/756400/ev-sales-q1-tesla-slump/>
-
----
-
-## LiuGong brings battery electric construction equipment portfolio to bauma
-
-date: 2025-04-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/LiuGong-870HE_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese equipment manufacturers LiuGong is showcasing its latest innovations in battery-electric construction equipment at <a href="https://electrek.co/?s=bauma">bauma</a> 2025 – including a new 870HE wheel loader (above), excavators, rigid mining trucks, and the the world’s first 25 ton electric grader.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="china,electric-construction-equipment,electric-heavy-machinery" data-layer-viewtype="unknown" data-post-id="411126" href="https://electrek.co/2025/04/12/liugong-brings-battery-electric-construction-equipment-portfolio-to-bauma/#more-411126" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/12/liugong-brings-battery-electric-construction-equipment-portfolio-to-bauma/>
-
----
-
-## Manitowoc brings massive, plug-in hybrid electric crane concept to bauma [video]
-
-date: 2025-04-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/manitowoc-hybrid-electric-crane.png?w=1600" /></div><p>The mobile crane experts at Manitowoc has arrived at <a href="https://electrek.co/?s=bauma">bauma</a> Munich with not one but TWO plug-in hybrid all-terrain crane concepts that combine a fully electrified superstructure with Manitowoc’s most popular five-axle carrier designs for cleaner, better job site performance.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,plug-in-hybrid" data-layer-viewtype="unknown" data-post-id="411106" href="https://electrek.co/2025/04/12/manitowoc-brings-massive-plug-in-hybrid-electric-crane-concept-to-bauma-video/#more-411106" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/12/manitowoc-brings-massive-plug-in-hybrid-electric-crane-concept-to-bauma-video/>
-
----
-
-## Looking for an EV lease under $200 a month? Here’s what’s available in April
-
-date: 2025-04-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/EVs-lease-200-April.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Believe it or not, you can lease an EV for under $200 a month. New deals on models like the 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5 </a>and Kia EV6 are hard to pass up this month.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="409659" href="https://electrek.co/2025/04/12/evs-for-under-200-a-month-heres-whats-available-april/#more-409659" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/12/evs-for-under-200-a-month-heres-whats-available-april/>
-
----
-
-## Tesla launches accessory to Macgyver power outlets on the go on new cheaper Cybertruck
-
-date: 2025-04-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Powershare-Outlet-Adapter-hero.png?w=1600" /></div><p>Tesla has launched a new accessory enabling you to “Macgyver” a couple of power outlets from the Cybertruck’s charge port.</p>
-
-
-
-<p>It appears to be designed for the new cheaper Cybertruck, which doesn’t have power outlets in its bed.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="411091" href="https://electrek.co/2025/04/11/tesla-launches-accessory-power-outlets-charge-port-cheaper-cybertruck/#more-411091" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/11/tesla-launches-accessory-power-outlets-charge-port-cheaper-cybertruck/>
 

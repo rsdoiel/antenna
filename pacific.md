@@ -1,11 +1,291 @@
 ---
 title: pacific
-updated: 2025-04-19 14:07:49
+updated: 2025-04-20 06:08:10
 ---
 
 # pacific
 
-(date: 2025-04-19 14:07:49)
+(date: 2025-04-20 06:08:10)
+
+---
+
+## Supreme Court, for now, blocks deportation of migrants under wartime law
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>The Supreme Court temporarily blocked the Trump administration early Saturday from deporting another group of Venezuelan migrants accused of being gang members under the expansive powers of a rarely invoked wartime law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/nation-world-news/supreme-court-for-now-blocks-deportation-of-migrants-under-wartime-law/>
+
+---
+
+## Steves: England celebrates Jane Austen in 2025
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>Jane Austen turns 250 this year, and to mark this milestone England is rolling out the Regency red carpet for throngs of ardent Austen fans. If your 2025 travel plans include Britain &#8212; Bath, in particular &#8212; you might encounter larger-than-usual crowds at Austen hotspots, with some visitors sure to be sporting high-waisted gowns, petticoats, and long white gloves.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/features/steves-england-celebrates-jane-austen-in-2025/>
+
+---
+
+## Vacation rentals study sought
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>A new bill outlining a registration process for hosted transient vacation rentals, or TVRs will be introduced May 6 during Hawaii County Council committee meetings in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/hawaii-news/vacation-rentals-study-sought/>
+
+---
+
+## State’s high court visits Hilo to give students a closer look at legal system
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>About 250 students from five East Hawaii High Schools were present Thursday at the University of Hawaii at Hilo&#8217;s Performing Arts Center to hear oral arguments before the Hawaii Supreme Court as part of the Judiciary&#8217;s &#8220;Courts in the Community&#8221; program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/hawaii-news/states-high-court-visits-hilo-to-give-students-a-closer-look-at-legal-system/>
+
+---
+
+## Settlement talks ongoing in Pohoiki Road condemnation suit
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County still anticipates construction to restore lava-ravaged Pohoiki Road in lower Puna will begin before the end of June.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/hawaii-news/settlement-talks-ongoing-in-pohoiki-road-condemnation-suit/>
+
+---
+
+## US and Iran conclude a second round of nuclear talks
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>ROME &#8212; Iran and the United States wrapped up a second round of diplomatic talks Saturday over Tehran&#8217;s nuclear activities, setting an agenda for rapid-paced negotiations that, according to Iranian officials, would not require the dismantlement of the country&#8217;s extensive nuclear infrastructure.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/nation-world-news/us-and-iran-conclude-a-second-round-of-nuclear-talks/>
+
+---
+
+## ‘Shame!’ Protesters nationwide rally again to condemn trump policies
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>Thousands of protesters across the country once again took to the streets Saturday to rally against President Donald Trump and his policies, a sign of sustained resistance to his leadership just two weeks after cities and towns nationwide saw mass demonstrations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/nation-world-news/shame-protesters-nationwide-rally-again-to-condemn-trump-policies/>
+
+---
+
+## Putin declares Easter truce, drawing skeptical Ukrainian response
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; President Vladimir Putin of Russia ordered his forces to &#8220;stop all military activity&#8221; against Ukraine from Saturday evening through Sunday, declaring an &#8220;Easter truce&#8221; that appeared aimed at showing an impatient Trump administration that Moscow was still open to peace talks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/nation-world-news/putin-declares-easter-truce-drawing-skeptical-ukrainian-response/>
+
+---
+
+## Israeli attacks kill dozens in Gaza, Health Ministry says
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The latest round of Israeli attacks in a renewed military offensive in the Gaza Strip has killed dozens of Palestinians, the territory&#8217;s Health Ministry said Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/nation-world-news/israeli-attacks-kill-dozens-in-gaza-health-ministry-says/>
+
+---
+
+## How to build a beach: Pohoiki growth over the years
+
+date: 2025-04-20, from: Hawaii Tribune Harold
+
+
+				<p>Although it may feel like it happened in an instant, the formation of the Island of Hawaii&#8217;s youngest black sand beach did not happen overnight. This week we explore how the beach at Pohoiki, near the easternmost point on the island, came to be and how it has grown over time.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/20/features/how-to-build-a-beach-pohoiki-growth-over-the-years/>
+
+---
+
+## Risk of financial panic tempers Trump on firing Powell
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump this week revived a long-standing threat against Jerome Powell when he accused the Federal Reserve chair of &#8220;playing politics&#8221; and moving too slowly to lower interest rates. But privately, according to people close to Trump, the president has for months been aware that trying to oust Powell could inject more volatility into jittery financial markets.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/risk-of-financial-panic-tempers-trump-on-firing-powell/>
+
+---
+
+## School vouchers won in Texas. Next up, the nation.
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>With a big win for school vouchers in Texas in the early hours of Thursday morning, the private-school choice movement conquered the last major Republican-led state.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/school-vouchers-won-in-texas-next-up-the-nation/>
+
+---
+
+## UH loses $30M in federal funds; 36 research programs to be cut
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii announced Thursday it has lost $30 million in federal funding for research, just as the school sees the number of revoked student visas &#8220;literally (change) by the hour,&#8221; according to a Thursday announcement made by UH President Wendy Hensel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/hawaii-news/uh-loses-30m-in-federal-funds-36-research-programs-to-be-cut/>
+
+---
+
+## Latest tourism agency allegations draw varied responses
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>It is unclear how the Hawai&#8216;i Tourism Authority board will deal with concerns over late payments to contractors and state probes to determine whether the agency committed procurement or ethics violations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/hawaii-news/latest-tourism-agency-allegations-draw-varied-responses/>
+
+---
+
+## US strikes on Yemeni port kill dozens, Houthis say
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The latest round of U.S. airstrikes against the Iran-backed Houthi militia in Yemen has killed dozens of people in bombardments targeting a port in the country&#8217;s northwest, the Houthis said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/us-strikes-on-yemeni-port-kill-dozens-houthis-say/>
+
+---
+
+## Chinatown merchants in the US are feeling the bite of tariffs
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Last week, a pack of rice crackers at Sun Vin Grocery store on Mulberry Street in New York City&#8217;s Chinatown cost $4.99.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/chinatown-merchants-in-the-us-are-feeling-the-bite-of-tariffs/>
+
+---
+
+## Merger of Capital One and Discover, two credit card giants, wins approval
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Two of the country&#8217;s largest credit card companies are poised to merge after key banking regulators approved the deal Friday, despite concern among some advocacy groups and lawmakers that it could lead to higher fees and less choice for consumers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/merger-of-capital-one-and-discover-two-credit-card-giants-wins-approval/>
+
+---
+
+## Lawyers urge courts to halt imminent deportation of migrants under wartime law
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Lawyers for the American Civil Liberties Union pressed on multiple fronts late Friday to stop the Trump administration from deporting another group of Venezuelan migrants accused of being gang members under the expansive powers of a rarely invoked wartime law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/lawyers-urge-courts-to-halt-imminent-deportation-of-migrants-under-wartime-law/>
+
+---
+
+## Maryland deportee told senator he had been in isolation in El Salvador prison
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Sen. Chris Van Hollen said Friday that Kilmar Abrego Garcia, the Maryland man mistakenly deported by the Trump administration, reported having been traumatized inside a maximum-security prison in El Salvador before being transferred to another detention facility, where he remains in isolation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/maryland-deportee-told-senator-he-had-been-in-isolation-in-el-salvador-prison/>
+
+---
+
+## Tropical Gardening: Celebrate Easter with a gift of life
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Easter reminds us that life is a cycle of what appears to be death and rebirth. In cooler climates, it is what we learn by observing plants that go dormant in the winter only to sprout anew in the spring. Bulbs like crocus and daffodils are examples.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/features/tropical-gardening-celebrate-easter-with-a-gift-of-life-2/>
 
 ---
 
@@ -3041,211 +3321,4 @@ By Jayvee Vallejera   As the United States negotiates the Trump administration�
 <br> 
 
 <https://www.pacificislandtimes.com/post/cnmi-delegate-asks-us-tariff-negotiator-to-keep-the-northern-marianas-in-mind>
-
----
-
-## Top Democrat says new Gabbard task force on ‘witch hunt’ in spy agencies
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The top Democrat on the U.S. Senate&#8217;s intelligence committee on Thursday said he suspected a task force formed by Director of National Intelligence Tulsi Gabbard was pursuing a &#8220;witch hunt&#8221; for intelligence officers it deems disloyal to President Donald Trump.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/top-democrat-says-new-gabbard-task-force-on-witch-hunt-in-spy-agencies/>
-
----
-
-## Brain drain? Trump cutbacks force scientists to seek jobs in Europe
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>GENEVA &#8212; David Die Dejean is passionate about studying tuna. Last year, he landed a dream job at National Oceanic and Atmospheric Administration in Miami to pursue his research. By January, he was settled in, had received a good review and loved working with his colleagues, he said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/brain-drain-trump-cutbacks-force-scientists-to-seek-jobs-in-europe/>
-
----
-
-## White House plan calls for NOAA research programs to be dismantled
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>Trump administration officials are recommending the elimination of the scientific research division at the National Oceanic and Atmospheric Administration, according to internal documents obtained by The New York Times and several people with knowledge of the situation.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/white-house-plan-calls-for-noaa-research-programs-to-be-dismantled/>
-
----
-
-## China raises tariffs on US imports to 125%, calling Trump’s policies a ‘joke’
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>HONG KONG &#8212; China on Friday said it was raising its tariffs on American goods to 125%, retaliating for the third time in the escalating trade war between the two superpowers.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/china-raises-tariffs-on-us-imports-to-125-calling-trumps-policies-a-joke/>
-
----
-
-## Thousands of Hawaii students not immunized against measles
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>After Hawaii confirmed its first measles case in years, the state Education and Health departments are ramping up vaccination efforts, focusing on thousands of students who remain noncompliant with school immunization requirements.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/hawaii-news/thousands-of-hawaii-students-not-immunized-against-measles/>
-
----
-
-## News in brief for April 12
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>US military removes commander of Greenland base</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/news-in-brief-for-april-12/>
-
----
-
-## US judge will not curb immigration enforcement in places of worship
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>A federal judge on Friday refused to limit the Trump administration&#8217;s immigration enforcement activities in places of worship, ruling against a group of 27 religious organizations that had sued the administration for dropping a longstanding policy against enforcement in sensitive locations.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/us-judge-will-not-curb-immigration-enforcement-in-places-of-worship/>
-
----
-
-## Tariffs angst sinks US consumer sentiment, boosts inflation expectations
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. consumer sentiment deteriorated sharply in April and 12-month inflation expectations surged to the highest level since 1981 amid unease over escalating trade tensions that have roiled financial markets and raised the risk of a recession.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/tariffs-angst-sinks-us-consumer-sentiment-boosts-inflation-expectations/>
-
----
-
-## New pact would require ships to cut emissions or pay a fee
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>Amid the turmoil over global trade, countries around the world reached a remarkable, though modest, agreement Friday to reduce the climate pollution that comes from shipping those goods worldwide &#8212; with what is essentially a tax, no less.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/new-pact-would-require-ships-to-cut-emissions-or-pay-a-fee/>
-
----
-
-## FAA to conduct drone-detection testing in New Jersey
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Federal Aviation Administration will conduct drone-detection testing in New Jersey starting on Monday after a spike in reports last year and continuing sightings near airports.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/faa-to-conduct-drone-detection-testing-in-new-jersey/>
-
----
-
-## Five more big law firms reach deals with Trump
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>Five more prominent law firms facing potential punitive action by President Donald Trump reached deals Friday with the White House to provide a total of $600 million in free legal services to causes supported by the president.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/five-more-big-law-firms-reach-deals-with-trump/>
-
----
-
-## Stay or go? Israeli evacuation orders force an agonizing choice in Gaza
-
-date: 2025-04-12, from: Hawaii Tribune Harold
-
-
-				<p>JERUSALEM &#8212; The Israeli military issued new evacuation orders for neighborhoods in Gaza City on Friday as it pressed forward with its offensive in the war-ravaged Gaza Strip, delivering a painful choice to Palestinians about whether to stay or go.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/12/nation-world-news/stay-or-go-israeli-evacuation-orders-force-an-agonizing-choice-in-gaza/>
-
----
-
-## Poetry, Jewelry and Lei HIKI NŌ on PBS Hawai‘i
-
-date: 2025-04-12, from: HIKI NŌ ON PBS HAWAIʻI
-
-<p>&#8220;Poetry, Jewelry and Lei&#8221; On this episode of HIKI NŌ on PBS Hawaiʻi, watch stories about a jewelry market, students with passion for poetry and lei making, and student thoughts on gratitude. Students at H.P. Baldwin High School on Maui share a story about a a local jewelry shop that aims to empower and employ [&#8230;]</p>
-<p>The post <a href="https://www.pbshawaii.org/poetry-jewelry-and-lei-hiki-no-on-pbs-hawaii/">Poetry, Jewelry and Lei &lt;br/&gt;HIKI NŌ on PBS Hawai‘i</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
- 
-
-<br> 
-
-<https://www.pbshawaii.org/poetry-jewelry-and-lei-hiki-no-on-pbs-hawaii/>
-
----
-
-## US immigration judge rules Palestinian Columbia student Khalil can be deported
-
-date: 2025-04-12, updated: 2025-04-13, from: Marianas Variety
-
-JENA, Louisiana (Reuters) — A U.S. immigration judge ruled on Friday that Palestinian activist Mahmoud Khalil can be deported, allowing President Donald Trump's administration to proceed with its effort to remove the Columbia University student from the United States a month after his arrest in New York City. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/us-immigration-judge-rules-palestinian-columbia-student-khalil-can-be-deported/article_0c59bcf4-0d7f-409f-b0b8-ff006c06dc95.html>
-
----
-
-## UH students tackle real-world issues at AI hackathon
-
-date: 2025-04-12, from: University of Hawaiʻi News
-
-<p>Five challenge topics pushed students to apply diverse skills toward local and statewide resilience efforts.</p>
-The post <a href="https://www.hawaii.edu/news/2025/04/11/aloha-data-ai-hackathon/"><abbr>UH</abbr> students tackle real-world issues at <abbr>AI</abbr> hackathon</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/04/11/aloha-data-ai-hackathon/>
 

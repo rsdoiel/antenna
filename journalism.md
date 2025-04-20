@@ -1,11 +1,74 @@
 ---
 title: journalism
-updated: 2025-04-19 14:07:53
+updated: 2025-04-20 06:08:13
 ---
 
 # journalism
 
-(date: 2025-04-19 14:07:53)
+(date: 2025-04-20 06:08:13)
+
+---
+
+## Coachella 2025: Lady Gaga’s headlining set electrifies with fierce energy, jubilance, artistry
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Never before has the gleeful mayhem of a performance been so phenomenal.
+Lady Gaga’s headlining set on the main Coachella Stage on Friday night represented the glory and splendor of an ambitious, maximalist, unforgettable live music extravaganza immediately tailored for the pop culture history books. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/19/coachella-2025-lady-gagas-headlining-set-electrifies-with-fierce-energy-jubilance-artistry/>
+
+---
+
+## Coachella 2025: Friday sets from The Marías to Missy Elliott deliver eclectic music for attendees
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The first day of Coachella’s second weekend blew away audience expectations amid blustery desert winds.
+Even with dust stirred up from the previous weekend tearing through the air, the kickoff to the second half of the 2025 Coachella Valley Music and Arts Festival in Indio, California, featured a variety of large-scale pop performances that ignited festivalgoers’ energy for the weekend ahead. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/19/coachella-2025-friday-sets-from-the-maras-to-missy-elliott-deliver-eclectic-music-for-attendees/>
+
+---
+
+## UCLA community leads protest following detainment of student at US-Mexico border
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/ucla-community-leads-protest-following-detainment-of-student-at-us-mexico-border-2/>
+
+---
+
+## UCLA School of Medicine hosts 13th Annual Healthcare Ethics Symposium
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Professionalism Council at the David Geffen School of Medicine hosted its Annual Healthcare Ethics Symposium on April 3 .
+Dr. Sadath Sayeed, director of the Global Health Program at DGSOM and a professor of pediatrics, moderated discussions on medical ethics relating to patient consultation and privacy at the event. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/ucla-school-of-medicine-hosts-13th-annual-healthcare-ethics-symposium/>
+
+---
+
+## Coachella 2025
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/tag/coachella-2025>
 
 ---
 
@@ -1377,42 +1440,4 @@ The indie folk group released its fifth studio album, the 42-minute “SABLE, fA
 <br> 
 
 <https://dailybruin.com/2025/04/12/album-review-bon-iver-breaks-from-melancholy-with-introspection-fresh-sounds-on-sable-fable/>
-
----
-
-## “Watt” a show! Fourth annual Electric Vehicle Car Show comes to town
-
-date: 2025-04-12, from: The Sundail (CSUN Student Newspaper)
-
-Rows of brand new Porsche electric vehicles and reliable Rivians lined up near the University Student Union (USU) for the fourth annual EV Car Show on Wednesday, April 9 in... 
-
-<br> 
-
-<https://sundial.csun.edu/192584/news/watt-a-show-fourth-annual-electric-vehicle-car-show-comes-to-town/>
-
----
-
-## ‘What Were You Wearing?’ aims to stomp out blame towards survivors
-
-date: 2025-04-12, from: The Sundail (CSUN Student Newspaper)
-
-Lined along the wall of the University Student Union (USU), mannequins sit dressed in a variety of garments displaying the stories of the survivors that wore them. To begin the... 
-
-<br> 
-
-<https://sundial.csun.edu/192575/news/what-were-you-wearing-aims-to-stomp-out-blame-towards-survivors/>
-
----
-
-## Level one bookstacks closed after vandalism at Doheny Library
-
-date: 2025-04-12, from: The Daily Trojan (USC Student Newspaper)
-
-<p>An individual shoved books off of the shelves and damaged several books. The level contains primarily East Asian literature.</p>
-<p>The post <a href="https://dailytrojan.com/2025/04/11/level-one-bookstacks-closed-after-vandalism-at-doheny-library/">Level one bookstacks closed after vandalism at Doheny Library</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/04/11/level-one-bookstacks-closed-after-vandalism-at-doheny-library/>
 

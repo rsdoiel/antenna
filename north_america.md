@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-04-19 14:07:47
+updated: 2025-04-20 06:08:08
 ---
 
 # north america
 
-(date: 2025-04-19 14:07:47)
+(date: 2025-04-20 06:08:08)
+
+---
+
+## Trump’s autocracy is growing—but patriotic opposition is growing faster
+
+date: 2025-04-19, from: The Contrarian
+
+Publisher&#8217;s Roundup, 14 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-autocracy-is-growingbut-patriotic>
+
+---
+
+##  How Trump Is Helping Price Gougers Exploit His Tariffs 
+
+date: 2025-04-19, from: The Lever News
+
+ Emboldened by the new administration’s regulatory reprieve, “price optimization” consultants are showing corporations how to weaponize import levies to fleece consumers.  
+
+<br> 
+
+<https://www.levernews.com/how-trump-is-helping-price-gougers-exploit-his-tariffs/>
+
+---
+
+## Contrarians Go Live- Did  the Supreme  Court wake up?
+
+date: 2025-04-19, from: The Contrarian
+
+Jennifer Rubin talks with Steve Vladeck & Harry Litman about the recent 1am SCOTUS ruling 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161681659/e35036e1dc6555217504417ea2d18fa1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161681659/e35036e1dc6555217504417ea2d18fa1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/contrarians-go-live-did-the-supreme>
+
+---
+
+## The Supreme Court bestirs itself 
+
+date: 2025-04-19, from: The Contrarian
+
+Leaving the Trump regime room to maneuver is always a mistake. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-supreme-court-bestirs-itself>
+
+---
+
+##  The Lever Cometh For Trump’s Taxman 
+
+date: 2025-04-19, from: The Lever News
+
+ It’s a long shot for Billy Long, the Google-opoly comes crumbling down, Chicago teachers ace a big test, attorneys stand up against Trump’s legal bullying, and immigrants score a reprieve.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-the-lever-comes-for-trumps-taxman/>
 
 ---
 
@@ -824,28 +886,4 @@ date: 2025-04-13, from: The Lever News
 <br> 
 
 <https://www.levernews.com/wall-street-nightmare-at-30-000-feet/>
-
----
-
-## The Beginning of the End of Trump
-
-date: 2025-04-12, from: The Contrarian
-
-Publisher's Roundup, 13 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-beginning-of-the-end-of-trump>
-
----
-
-##  YOU LOVE TO SEE IT: A Toxic Two-Step Falls Flat 
-
-date: 2025-04-12, from: The Lever News
-
- A pharma company can’t hide behind bankruptcy, educators stand their ground, Louisiana’s bayous see justice, and award-winning journalism is safe in the courts.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-a-toxic-two-step-falls-flat/>
 
