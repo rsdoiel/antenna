@@ -29,7 +29,7 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="retro-computing">retro computing</h1>
-<p>(date: 2025-04-20 06:08:15)</p>
+<p>(date: 2025-04-20 14:09:29)</p>
 <hr />
 <h2
 id="lets-give-provenix-a-barely-adequate-pre-c89-tcpip-stack-featuring-slirp-ck">Let’s
@@ -566,9 +566,9 @@ superfluous <tt>&amp; 0xff</tt> to make sure we don’t get negative
 numbers where we don’t want them.
 <p>
 Once I got it built, however, there were lots of bugs. Many were because
-it turns out the compiler isn’t too good with 32-bit <tt>long</tt>,
-which is not a native type on the 16-bit PDP-11. This (part of the NTP
-client) worked on my regular Linux desktop, but didn’t work in Venix:
+the compiler has apparent gaps with 32-bit <tt>long</tt>, which is not a
+native type on the 16-bit PDP-11. This (part of the NTP client) worked
+on my regular Linux desktop, but didn’t work in Venix:
 <p>
 <div class="tx">
 <pre>
@@ -700,8 +700,11 @@ part of the long at all. The result is thus zero.
 <p>
 The second problem in this example is that the compiler never treats the
 constant as a <tt>long</tt> even though statically there’s no way it can
-fit in a 16-bit <tt>int</tt>. To get around those two gotchas on both
-Venices here, I rewrote it this way:
+fit in a 16-bit <tt>int</tt>. <i>[UPDATE: It was suggested in E-mail to
+me that this might have been a glitch with the code immediately
+preceding. If I do a simpler example, the constant is indeed treated as
+<tt>long</tt>.]</i> To get around those two gotchas on both Venices
+here, I rewrote it this way:
 <p>
 <div class="tx">
 <pre>
@@ -1065,7 +1068,7 @@ documentation</a>, which is as barely adequate as the code.
 <p>
 On the DEC Pro, this has been tested on my trusty DEC Professional 380
 running PRO/VENIX V2.0. It <em>should</em> compile and run on a 325 or
-350, and on at least PRO/VENIX Rev. V2.0, though I don’t have any
+350, and on at least PRO/VENIX Rev. 2.0, though I don’t have any
 hardware for this and Xhomer’s serial port emulation is not good enough
 for this purpose (so unfortunately you’ll need a real DEC Pro until I or
 Tarek get around to fixing it). The easiest way to get it over there is
@@ -1238,7 +1241,7 @@ class="uri">https://www.riscository.com/2025/cardinfo-1-02/</a></p>
 <h2 id="rougol-april-2025-meeting-on-monday---chris-dewhurst">Rougol
 April 2025 meeting on monday - Chris Dewhurst</h2>
 <p>date: 2025-04-18, from: Icon Bar, RISC OS News</p>
-<p>The April 2025 Rougol meeting is on Monday 21th April. The action
+<p>The April 2025 Rougol meeting is on Monday 21st April. The action
 which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on
 Zoom (usual link or contact Rougol for one).</p>
 <p><br></p>

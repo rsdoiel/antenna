@@ -1,11 +1,51 @@
 ---
 title: going electric
-updated: 2025-04-20 06:08:16
+updated: 2025-04-20 14:09:30
 ---
 
 # going electric
 
-(date: 2025-04-20 06:08:16)
+(date: 2025-04-20 14:09:30)
+
+---
+
+## The New Hyundai Palisade Hybrid Drives Like An EV. Here's How
+
+date: 2025-04-20, from: Inside EVs News
+
+Hyundai's second-generation TMED-II hybrid system debuts on the 2026 Palisade. Innovative new battery technology makes it more EV-like. 
+
+<br> 
+
+<https://insideevs.com/news/757134/hyundai-palisade-hybrid-stay-mode-ev/>
+
+---
+
+## The Tesla Model Y Gets Tough Competition From The BYD Sealion 7
+
+date: 2025-04-20, from: Inside EVs News
+
+These two EVs are about as close as EV rivals get in Europe right now. But one still comes out ahead in this new test. 
+
+<br> 
+
+<https://insideevs.com/news/757137/byd-sealion-tesla-model-y/>
+
+---
+
+## Tesla whistleblower says Musk wanted to deport her team for raising brake issue
+
+date: 2025-04-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Former Tesla engineer Christina Balan, who was fired in 2014, said in an interview that her entire team was threatened with deportation for taking her side when she brought up a brake safety issue directly to Elon Musk. She’s now succeeded in throwing out Tesla’s arbitration case against her, and hopes to meet Tesla directly in open court in a case that could influence corporate policy nationwide.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="412025" href="https://electrek.co/2025/04/20/tesla-whistleblower-says-musk-wanted-to-deport-her-team-for-raising-brake-issue/#more-412025" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/20/tesla-whistleblower-says-musk-wanted-to-deport-her-team-for-raising-brake-issue/>
 
 ---
 

@@ -1,11 +1,143 @@
 ---
 title: snapshots
-updated: 2025-04-20 06:08:18
+updated: 2025-04-20 14:09:32
 ---
 
 # snapshots
 
-(date: 2025-04-20 06:08:18)
+(date: 2025-04-20 14:09:32)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-20, from: Robert's feed at BlueSky)
+
+Something fun.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lnbe3kmpps2y>
+
+---
+
+## Beelink ME mini is a NAS with an Intel N200 processor and support for up to 6 SSDs
+
+date: 2025-04-20, from: Liliputing
+
+<p>The Beelink ME mini is a compact computer that measures 99 x 99 x 98.3mm (about 3.9&#8243; x 3.9&#8243; x 3.9&#8243;) and features a 6-watt Intel N200 quad-core processor based on Alder Lake-N architecture. It&#8217;s also Beelink&#8217;s first mini PC that&#8217;s positioned for use as a network-attached storage device. Inside this compact cube there are M.2 connectors [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-me-mini-is-a-nas-with-an-intel-n200-processor-and-support-for-up-to-6-ssds/">Beelink ME mini is a NAS with an Intel N200 processor and support for up to 6 SSDs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-me-mini-is-a-nas-with-an-intel-n200-processor-and-support-for-up-to-6-ssds/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-20, from: Dave Winer's linkblog)
+
+Web typography: a refresher and history. 
+
+<br> 
+
+<https://zeldman.com/2025/04/20/web-typography-a-refresher-and-history/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-20, from: Dave Winer's linkblog)
+
+The Knicks Gave The Pistons A Lesson In Playoff Entropy. 
+
+<br> 
+
+<https://defector.com/the-knicks-gave-the-pistons-a-lesson-in-playoff-entropy>
+
+---
+
+## Quoting Ethan Mollick
+
+date: 2025-04-20, updated: 2025-04-20, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything"><p>In some tasks, AI is unreliable. In others, it is superhuman. You could, of course, say the same thing about calculators, but it is also clear that AI is different. It is already demonstrating general capabilities and performing a wide range of intellectual tasks, including those that it is not specifically trained on. Does that mean that o3 and Gemini 2.5 are AGI? Given the definitional problems, I really don’t know, but I do think they can be credibly seen as a form of “Jagged AGI” - superhuman in enough areas to result in real changes to how we work and live, but also unreliable enough that human expertise is often needed to figure out where AI works and where it doesn’t.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything">Ethan Mollick</a>, On Jagged AGI</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ethan-mollick">ethan-mollick</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/20/ethan-mollick/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-20, from: Dave Winer's linkblog)
+
+Democrats dive into GOP districts, accusing Republicans of avoiding constituents. 
+
+<br> 
+
+<https://thehill.com/homenews/house/5256475-house-democrats-republican-tactics/>
+
+---
+
+## Note on 20th April 2025
+
+date: 2025-04-20, updated: 2025-04-20, from: Simon Willison’s Weblog
+
+<p>Now that Llama has very real competition in open weight models (Gemma 3, latest Mistrals, DeepSeek, Qwen) I think their <a href="https://techcrunch.com/2025/03/14/open-ai-model-licenses-often-carry-concerning-restrictions/">janky license</a> is becoming much more of a liability for them. It's just limiting enough that it could be the deciding factor for using something else.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/20/janky-license/#atom-everything>
+
+---
+
+## llm-fragments-github 0.2
+
+date: 2025-04-20, updated: 2025-04-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-fragments-github/releases/tag/0.2">llm-fragments-github 0.2</a></strong></p>
+I upgraded my <code>llm-fragments-github</code> plugin to add a new fragment type called <code>issue</code>. It lets you pull the entire content of a GitHub issue thread into your prompt as a concatenated Markdown file. </p>
+<p>(If you haven't seen fragments before I introduced them in <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">Long context support in LLM 0.24 using fragments and template plugins</a>.)</p>
+<p>I used it just now to have Gemini 2.5 Pro provide feedback and attempt an implementation of a complex issue against my <a href="https://github.com/simonw/llm">LLM</a> project:</p>
+<pre>llm install llm-fragments-github
+llm -f github:simonw/llm \
+  -f issue:simonw/llm/938 \
+  -m gemini-2.5-pro-exp-03-25 \
+  --system <span class="pl-s"><span class="pl-pds">'</span>muse on this issue, then propose a whole bunch of code to help implement it<span class="pl-pds">'</span></span></pre>
+
+<p>Here I'm loading the FULL content of the <code>simonw/llm</code> repo using that <code>-f github:simonw/llm</code> fragment (<a href="https://github.com/simonw/llm-fragments-github?tab=readme-ov-file#usage">documented here</a>), then loading all of the comments from <a href="https://github.com/simonw/llm/issues/938">issue 938</a> where I discuss quite a complex potential refactoring. I ask Gemini 2.5 Pro to "muse on this issue" and come up with some code.</p>
+<p>This worked <em>shockingly</em> well. Here's <a href="https://gist.github.com/simonw/a5f0c1e8184f4ddc8b71b30890fe690c#response">the full response</a>, which highlighted a few things I hadn't considered yet (such as the need to migrate old database records to the new tree hierarchy) and then spat out a whole bunch of code which looks like a solid start to the actual implementation work I need to do.</p>
+<p>I ran this against Google's free Gemini 2.5 Preview, but if I'd used the paid model it would have cost me 202,680 input tokens and 10,460 output tokens for a total of 66.36 cents.</p>
+<p>As a fun extra, the new <code>issue:</code> feature itself was written almost entirely by OpenAI o3, again using fragments. I ran this:</p>
+<pre>llm -m openai/o3 \
+  -f https://raw.githubusercontent.com/simonw/llm-hacker-news/refs/heads/main/llm_hacker_news.py \
+  -f https://raw.githubusercontent.com/simonw/tools/refs/heads/main/github-issue-to-markdown.html \
+  -s <span class="pl-s"><span class="pl-pds">'</span>Write a new fragments plugin in Python that registers issue:org/repo/123 which fetches that issue</span>
+<span class="pl-s">      number from the specified github repo and uses the same markdown logic as the HTML page to turn that into a fragment<span class="pl-pds">'</span></span></pre>
+
+<p>Here I'm using the ability to pass a URL to <code>-f</code> and giving it the full source of my <a href="https://github.com/simonw/llm-hacker-news/blob/main/llm_hacker_news.py">llm_hacker_news.py</a> plugin (which shows how a fragment can load data from an API) plus the <a href="https://github.com/simonw/tools/blob/main/github-issue-to-markdown.html">HTML source</a> of my <a href="https://tools.simonwillison.net/github-issue-to-markdown">github-issue-to-markdown</a> tool (which I wrote a few months ago <a href="https://gist.github.com/simonw/cd1afb97e595b40fdeedebb48be7f4f1">with Claude</a>). I effectively asked o3 to take that HTML/JavaScript tool and port it to Python to work with my fragments plugin mechanism.</p>
+<p>o3 provided <a href="https://gist.github.com/simonw/249e16edffe6350f7265012bee9e3305#response">almost the exact implementation I needed</a>, and even implemented <code>GITHUB_TOKEN</code> environment variable without me thinking to ask for it. Total cost: 19.928 cents.</p>
+<p>On a final note of curiosity I tried running this prompt against <a href="https://simonwillison.net/2025/Apr/19/gemma-3-qat-models/">Gemma 3 27B QAT</a> running on my Mac via MLX and <a href="https://github.com/simonw/llm-mlx">llm-mlx</a>:</p>
+<pre>llm install llm-mlx
+llm mlx download-model mlx-community/gemma-3-27b-it-qat-4bit
+
+llm -m mlx-community/gemma-3-27b-it-qat-4bit \
+  -f https://raw.githubusercontent.com/simonw/llm-hacker-news/refs/heads/main/llm_hacker_news.py \
+  -f https://raw.githubusercontent.com/simonw/tools/refs/heads/main/github-issue-to-markdown.html \
+  -s <span class="pl-s"><span class="pl-pds">'</span>Write a new fragments plugin in Python that registers issue:org/repo/123 which fetches that issue</span>
+<span class="pl-s">      number from the specified github repo and uses the same markdown logic as the HTML page to turn that into a fragment<span class="pl-pds">'</span></span></pre>
+
+<p>That worked <a href="https://gist.github.com/simonw/feccff6ce3254556b848c27333f52543#response">pretty well too</a>. It turns out a 16GB local model file is powerful enough to write me an LLM plugin now!
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/20/llm-fragments-github/#atom-everything>
 
 ---
 
@@ -158,6 +290,18 @@ Protesters fill the streets in cities across the US to denounce Trump agenda.
 <br> 
 
 <https://www.theguardian.com/us-news/2025/apr/19/anti-trump-rallies-protests>
+
+---
+
+## Past selves
+
+date: 2025-04-20, from: Rachel Kwon blog
+
+<p>Last month I had the chance to travel to two places I previously lived. In early March, I went to London for a work trip, and a couple of weekends ago I went to Chicago for a friend&rsquo;s milestone birthday. It was a strange feeling to revisit these two cities where I&rsquo;d lived and existed before but in the distant past, long enough ago that it felt like I was a different person.</p> 
+
+<br> 
+
+<https://kwon.nyc/notes/past-selves/>
 
 ---
 

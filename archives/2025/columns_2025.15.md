@@ -1,11 +1,76 @@
 ---
 title: columns
-updated: 2025-04-20 06:08:11
+updated: 2025-04-20 14:09:25
 ---
 
 # columns
 
-(date: 2025-04-20 06:08:11)
+(date: 2025-04-20 14:09:25)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-20, from: Miguel de Icaza Mastondon feed)
+
+<p>At first I figured “ten minute hack”, only to later notice the marker numbers, the uneven odd long/short marks and then the very subtle differences in ranges on the right side.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114372288078629947>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-20, from: Miguel de Icaza Mastondon feed)
+
+<p>I thought I could implement this LogicPro control in a couple of hours for Godot, but under the surface, the marks and acceleration of the volume from LogicPro and Godot are not the same  - after some four hours of false starts I gave up.  </p><p>I think I will just implement the Godot behavior for now, and live to fight another day.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114372282445686169>
+
+---
+
+## Another app for ChatGPT
+
+date: 2025-04-20, from: Dave Winer's Scripting News
+
+<p>My niece sent me a self-portrait, which I liked very much.</p>
+<p>So I tried an experiment. I pasted her self-portrait and my head shot of myself and asked ChatGPT to render my photo in the style of her art.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://s3.amazonaws.com/scripting.com/images/2025/04/20/headShotInFamilialStyle.png"></center>ChatGPT renders my headshot in a familiar style. </div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/20/200843.html?title=anotherAppForChatgpt>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-20, from: Dave Winer's Scripting News)
+
+"I'm sorry, Dave. I'm afraid I can't do that." 
+
+<br> 
+
+<http://scripting.com/2025/04/20.html#a124308>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-20, from: Dave Winer's Scripting News)
+
+"Dave's not here." 
+
+<br> 
+
+<http://scripting.com/2025/04/20.html#a124300>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-20, from: Dave Winer's Scripting News)
+
+“You gotta do what you gotta do.” 
+
+<br> 
+
+<http://scripting.com/2025/04/20.html#a124244>
 
 ---
 

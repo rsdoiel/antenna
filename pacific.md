@@ -1,11 +1,96 @@
 ---
 title: pacific
-updated: 2025-04-20 06:08:10
+updated: 2025-04-20 14:09:23
 ---
 
 # pacific
 
-(date: 2025-04-20 06:08:10)
+(date: 2025-04-20 14:09:23)
+
+---
+
+## UH study links spearfishing to wellness, culture, community
+
+date: 2025-04-20, from: University of Hawaiʻi News
+
+<p>Spearfishing, deeply woven into Hawaiian culture, may also serve as a powerful tool for promoting physical and community health.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/20/spearfishing-linked-to-wellness/"><abbr>UH</abbr> study links spearfishing to wellness, culture, community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/20/spearfishing-linked-to-wellness/>
+
+---
+
+## China’s US envoy urges end to trade war, but warns Beijing ready to fight
+
+date: 2025-04-20, updated: 2025-04-20, from: Marianas Variety
+
+(Reuters) — China's ambassador to the United States, Xie Feng, has urged Washington to seek common ground with Beijing and pursue peaceful coexistence while warning that China stood ready to retaliate in the escalating trade war. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/china-s-us-envoy-urges-end-to-trade-war-but-warns-beijing-ready-to-fight/article_763c5ecb-5c47-4f05-a086-3adc68e73246.html>
+
+---
+
+## Water audit and verification in Gualo Rai
+
+date: 2025-04-20, updated: 2025-04-20, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — Water audit and verification tests will be conducted in Gualo Rai from Monday, April 21, 2025, to Thursday, April 24, 2025, between 8 a.m. and 4 p.m. These tests aim to identify leaks, breaks, and other connections in CUC’s water distribution system. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/water-audit-and-verification-in-gualo-rai/article_c7b2bf57-745b-4f35-bd55-772ba46c6ef9.html>
+
+---
+
+## Saipan Chamber of Commerce invites community to RSVP for Economic Forum 2025
+
+date: 2025-04-20, updated: 2025-04-20, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce invites its members, the business community, government leaders, and the general public to RSVP and secure their seat for its upcoming Economic Forum happening on Wednesday, April 23, 2025. The forum will be held at Kensington Hall, Kensington Hotel Saipan. Doors open at 8 a.m., and the forum will begin promptly at 9 a.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-chamber-of-commerce-invites-community-to-rsvp-for-economic-forum-2025/article_2e3baa26-8aa5-45e8-b928-7d37b31b92e4.html>
+
+---
+
+## Reinstated Guam investigator accuses AG of retaliation
+
+date: 2025-04-20, updated: 2025-04-20, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Bryan Cruz, the investigator fired from the Office of the Attorney General, only for the Civil Service Commission to nullify the termination, has filed a complaint at the Superior Court of Guam accusing Attorney General Douglas Moylan of retaliating against him. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/reinstated-guam-investigator-accuses-ag-of-retaliation/article_948b166f-a421-41b5-9667-2c7310536f64.html>
+
+---
+
+## Thousands of protesters rally against Trump across US
+
+date: 2025-04-20, updated: 2025-04-20, from: Marianas Variety
+
+WASHINGTON (Reuters) — Thousands of protesters rallied in Washington and other cities across the U.S. on Saturday to voice their opposition to President Donald Trump's policies on deportations, government firings, and the wars in Gaza and Ukraine. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/thousands-of-protesters-rally-against-trump-across-us/article_1b7fe404-bb4a-42c3-a363-774fbb58b59f.html>
+
+---
+
+## Another successful Good Friday trek
+
+date: 2025-04-20, updated: 2025-04-20, from: Marianas Variety
+
+HAFA Adai, Mabuhay! 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/another-successful-good-friday-trek/article_5e4d0867-e7a6-42c4-b9dc-fa9ad765bd11.html>
 
 ---
 

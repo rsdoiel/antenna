@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-04-20 06:08:15
+updated: 2025-04-20 14:09:29
 ---
 
 # retro computing
 
-(date: 2025-04-20 06:08:15)
+(date: 2025-04-20 14:09:29)
 
 ---
 
@@ -201,7 +201,7 @@ end
 <p>
 The differences in <tt>int</tt> size we expect, but there's other kinds of weird stuff going on here. The PRO/VENIX manual lists all the various permutations about type conversions and what gets turned into what where, but since the manual is already wrong about <tt>unsigned char</tt> I don't think we can trust the documentation for this part either. Our best bet is to move values into <tt>int</tt> and mask off any propagated sign bits before doing comparisons or math, which is agonizing, but reliable. That means throwing around a lot of seemingly superfluous <tt>&amp; 0xff</tt> to make sure we don't get negative numbers where we don't want them.
 <p>
-Once I got it built, however, there were lots of bugs. Many were because it turns out the compiler isn't too good with 32-bit <tt>long</tt>, which is not a native type on the 16-bit PDP-11. This (part of the NTP client) worked on my regular Linux desktop, but didn't work in Venix:
+Once I got it built, however, there were lots of bugs. Many were because the compiler has apparent gaps with 32-bit <tt>long</tt>, which is not a native type on the 16-bit PDP-11. This (part of the NTP client) worked on my regular Linux desktop, but didn't work in Venix:
 <p>
 <div class="tx"><pre>
     long ntime;
@@ -306,7 +306,7 @@ adb
 <p>
 it's the same instruction on just one register (030 == 24) and the overflow is never checked. In fact, the compiler never shifts the second part of the long at all. The result is thus zero.
 <p>
-The second problem in this example is that the compiler never treats the constant as a <tt>long</tt> even though statically there's no way it can fit in a 16-bit <tt>int</tt>. To get around those two gotchas on both Venices here, I rewrote it this way:
+The second problem in this example is that the compiler never treats the constant as a <tt>long</tt> even though statically there's no way it can fit in a 16-bit <tt>int</tt>. <i>[UPDATE: It was suggested in E-mail to me that this might have been a glitch with the code immediately preceding. If I do a simpler example, the constant is indeed treated as <tt>long</tt>.]</i> To get around those two gotchas on both Venices here, I rewrote it this way:
 <p>
 <div class="tx"><pre>
     long ntime;
@@ -532,7 +532,7 @@ usage: ./minisock [-in] so ur ce ip se rv er ip [servername] port [string] [stri
 <p>
 There are examples for all of these commands in the <a href="https://github.com/classilla/bass/blob/main/README.md">BASS documentation</a>, which is as barely adequate as the code.
 <p>
-On the DEC Pro, this has been tested on my trusty DEC Professional 380 running PRO/VENIX V2.0. It <em>should</em> compile and run on a 325 or 350, and on at least PRO/VENIX Rev. V2.0, though I don't have any hardware for this and Xhomer's serial port emulation is not good enough for this purpose (so unfortunately you'll need a real DEC Pro until I or Tarek get around to fixing it). The easiest way to get it over there is Kermit. Assuming you have this already, connect your host and the Pro on the "real" serial port at 9600bps. Make sure both sides are set to binary and just push all the files over (except the Markdown documentation unless you really want), and then do a <tt>make -f Makefile.venix</tt> (it may have been renamed to <tt>makefile.venix</tt>; adjust accordingly).
+On the DEC Pro, this has been tested on my trusty DEC Professional 380 running PRO/VENIX V2.0. It <em>should</em> compile and run on a 325 or 350, and on at least PRO/VENIX Rev. 2.0, though I don't have any hardware for this and Xhomer's serial port emulation is not good enough for this purpose (so unfortunately you'll need a real DEC Pro until I or Tarek get around to fixing it). The easiest way to get it over there is Kermit. Assuming you have this already, connect your host and the Pro on the "real" serial port at 9600bps. Make sure both sides are set to binary and just push all the files over (except the Markdown documentation unless you really want), and then do a <tt>make -f Makefile.venix</tt> (it may have been renamed to <tt>makefile.venix</tt>; adjust accordingly).
 <p>
 Establishing the link is as simple as connecting your server's serial port to the other end of the BCC05 or equivalent from the Pro and starting Slirp to talk to that port (on my system, it's even the <em>same</em> port, so the same command line suffices). If you experience issues with the connection, the easiest fix is to just bounce Slirp &mdash; because there are no timeouts, there are also no retransmits. I don't know if this is hitting bugs in Slirp or in my code, though it's probably the latter. Nevertheless, I've been able to run stuff most of the day without issue. It's nice to have a simple network option and the personal satisfaction of having written it myself.
 <p>
@@ -646,7 +646,7 @@ Kevin Wells has updated another of his little applications that use Wget to prov
 
 date: 2025-04-18, from: Icon Bar, RISC OS News
 
-The April 2025 Rougol meeting is on Monday 21th April. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
+The April 2025 Rougol meeting is on Monday 21st April. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
 
 <br> 
 

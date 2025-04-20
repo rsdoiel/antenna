@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-04-20 06:08:11
+updated: 2025-04-20 14:09:24
 ---
 
 # science and technology
 
-(date: 2025-04-20 06:08:11)
+(date: 2025-04-20 14:09:24)
 
 ---
 
@@ -59,7 +59,7 @@ LXQt, the Qt-based alternative to KDE as Xfce is the GTK-based alternative to GN
 
 ## Hacking US crosswalks to talk like Zuck is as easy as 1234
 
-date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
+date: 2025-04-19, updated: 2025-04-20, from: The Register (UK I.T. News)
 
 <h4>AI-spoofed Mark joins fellow billionaires as the voice of the street – here&#39;s how it was probably done</h4> <p><strong>Video</strong>  Crosswalk buttons in various US cities were hijacked over the past week or so to – rather than robotically tell people it&#39;s safe to walk or wait – instead emit the AI-spoofed voices of Jeff Bezos, Elon Musk, and Mark Zuckerberg.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -95,7 +95,7 @@ date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
 
 ## Cursor AI's own support bot hallucinated its usage policy
 
-date: 2025-04-18, updated: 2025-04-18, from: The Register (UK I.T. News)
+date: 2025-04-18, updated: 2025-04-20, from: The Register (UK I.T. News)
 
 <h4>Making up subscription limits as it goes? Super encouraging from a code assistant. Anyways, back to <code>int main(enter the void)</code>...</h4> <p>In a fitting bit of irony, users of Cursor AI experienced the limitations of AI firsthand when the programming tool&#39;s own AI support bot hallucinated a policy limitation that doesn&#39;t actually exist.…</p> 
 

@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-04-20 06:08:13
+updated: 2025-04-20 14:09:26
 ---
 
 # games
 
-(date: 2025-04-20 06:08:13)
+(date: 2025-04-20 14:09:26)
+
+---
+
+## The best ways to take notes for Blue Prince, according to Blue Prince fans
+
+date: 2025-04-20, updated: 2025-04-18, from: Polygon Website
+
+Here at Polygon, we aren’t strangers to the video game notebook. Handwritten notes can create a physical place that can serve as a guide and aid in our own game experiences. They can also enhance enjoyment of a game. Our staff has created assassination bullet journals and argued that taking notes can make games more [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/558988/best-notes-tips>
+
+---
+
+## The Lord of the Rings saga and other Tolkien classics are on sale at Amazon
+
+date: 2025-04-20, updated: 2025-04-18, from: Polygon Website
+
+Amazon is currently having another excellent sale on illustrated editions of The Lord of the Rings, and other books penned by J.R.R. Tolkien. Through April 28, you can save up to 75% on select editions of Middle-earth fiction, with many items like The Hobbit Illustrated Edition, and The Fellowship of the Ring Collector&#8217;s Edition on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/561074/lord-of-the-rings-illustrated-edition-amazon-deal>
 
 ---
 

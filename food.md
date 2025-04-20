@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2025-04-20 06:08:17
+updated: 2025-04-20 14:09:30
 ---
 
 # food
 
-(date: 2025-04-20 06:08:17)
+(date: 2025-04-20 14:09:30)
+
+---
+
+## This Is the One Ingredient Ina Garten Will Never Use in a Recipe
+
+date: 2025-04-20, from: Taste of Home
+
+<p>Don't bring this into her kitchen!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-cilantro/">This Is the One Ingredient Ina Garten Will Never Use in a Recipe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-cilantro/>
+
+---
+
+## 29 Summer Vegetarian Recipes We Love
+
+date: 2025-04-20, from: Bon Appetet
+
+Like a curried tomato sandwich, cheesy corn fritters, and cold noodles with chili crisp. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/summer-vegetarian-recipes>
 
 ---
 

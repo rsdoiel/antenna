@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-04-20 06:08:09
+updated: 2025-04-20 14:09:22
 ---
 
 # socal north
 
-(date: 2025-04-20 06:08:09)
+(date: 2025-04-20 14:09:22)
 
 ---
 
@@ -71,6 +71,18 @@ date: 2025-04-19, from: City of Santa Clarita
 
 ---
 
+## The tiny coffee spot at 5,700 feet above LA is open for the season
+
+date: 2025-04-19, updated: 2025-04-20, from: The LAist
+
+The seasonal Cosmic Cafe at Mt. Wilson Observatory serves coffee, wraps and snacks with a singular view of the city. It makes for a great setting — and a bit of a haul. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/cosmic-cafe-mount-wilson-la-open-season>
+
+---
+
 ## As DOGE cuts hit SoCal cultural spaces and libraries, Little Tokyo museum fights to keep programs alive
 
 date: 2025-04-19, updated: 2025-04-19, from: The LAist
@@ -80,18 +92,6 @@ Supporters of the Japanese American National Museum have stepped up with donatio
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/doge-cuts-arts-humanities-little-tokyo-japanese-american-museum>
-
----
-
-## The tiny coffee spot at 5,700 feet above LA is open for the season
-
-date: 2025-04-19, updated: 2025-04-19, from: The LAist
-
-The seasonal Cosmic Cafe at Mt. Wilson Observatory serves coffee, wraps and snacks with a singular view of the city. It makes for a great setting — and a bit of a haul. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/cosmic-cafe-mount-wilson-la-open-season>
 
 ---
 

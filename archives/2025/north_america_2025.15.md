@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-04-20 06:08:08
+updated: 2025-04-20 14:09:21
 ---
 
 # north america
 
-(date: 2025-04-20 06:08:08)
+(date: 2025-04-20 14:09:21)
+
+---
+
+##  Beware The Tariff Trap 
+
+date: 2025-04-20, from: The Lever News
+
+ Trade war trickery, a tax-day scandal, the lost revolutionary, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-beware-the-tariff-trap/>
 
 ---
 
