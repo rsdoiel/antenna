@@ -1,11 +1,281 @@
 ---
 title: snapshots
-updated: 2025-04-21 07:57:51
+updated: 2025-04-21 14:07:31
 ---
 
 # snapshots
 
-(date: 2025-04-21 07:57:51)
+(date: 2025-04-21 14:07:31)
+
+---
+
+## Wasmtime LTS Releases
+
+date: 2025-04-22, updated: 2025-04-22, from: Bytecode Alliance News
+
+Wasmtime is a lightweight WebAssembly runtime built for speed, security, and standards-compliance. Wasmtime now supports long-term-support (LTS) releases that are maintained with security fixes for 2 years after their initial release. 
+
+<br> 
+
+<https://bytecodealliance.org/articles/wasmtime-lts>
+
+---
+
+## macOS 15.4.1
+
+date: 2025-04-21, from: Michael Tsai
+
+Juli Clover (release notes, security, enterprise, no developer, full installer, IPSW): According to Apple&#8217;s release notes, macOS Sequoia 15.4.1 includes important bug fixes and security updates, and is recommended for all users. The enterprise release notes include the tantalizing line, &#8220;Improves reliability when installing macOS updates,&#8221; but it&#8217;s not clear whether that refers to any [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/21/macos-15-4-1/>
+
+---
+
+## iOS 18.4.1 and iPadOS 18.4.1
+
+date: 2025-04-21, from: Michael Tsai
+
+Juli Clover (iOS/iPadOS release notes, security, no enterprise, no developer): There have been complaints about issues with CarPlay and deleted apps being restored, and iOS 18.4.1 includes several bug fixes. According to Apple&#8217;s release notes, the update includes bug fixes and security updates. Juli Clover: According to Apple, it is aware of reports that these [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/21/ios-18-4-1-and-ipados-18-4-1/>
+
+---
+
+## tvOS 18.4.1
+
+date: 2025-04-21, from: Michael Tsai
+
+Juli Clover (release notes, security, no developer): Apple today released tvOS 18.4.1, a minor update to the tvOS 18 operating system that came out last September. It fixes the same security bugs as iOS 18.4.1. Previously: tvOS 18.4 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/21/tvos-18-4-1/>
+
+---
+
+## audioOS 18.4.1
+
+date: 2025-04-21, from: Michael Tsai
+
+Apple: This update includes performance and stability improvements. Previously: audioOS 18.4 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/21/audioos-18-4-1/>
+
+---
+
+## visionOS 2.4.1
+
+date: 2025-04-21, from: Michael Tsai
+
+Juli Clover (release notes, security, no developer, no enterprise): According to Apple&#8217;s release notes, visionOS 2.4.1 includes bug fixes and security updates, and the software is recommended for all users. Previously: visionOS 2.4 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/21/visionos-2-4-1/>
+
+---
+
+## Anbernic suspends US shipments of its handheld game consoles
+
+date: 2025-04-21, from: Liliputing
+
+<p>Anbernic is a Chinese company that&#8217;s responsible for a lot of the cheap-but-sometimes-decent handheld game consoles that have flooded the market in recent years. But the current tit-for-tat tariff battle between the US and China has prompted the company to suspend shipments from China to the US starting today. Customers in the US can still place orders [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/anbernic-suspends-us-shipments-of-its-handheld-game-consoles/">Anbernic suspends US shipments of its handheld game consoles</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/anbernic-suspends-us-shipments-of-its-handheld-game-consoles/>
+
+---
+
+## OpenAI o3 and o4-mini System Card
+
+date: 2025-04-21, updated: 2025-04-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://openai.com/index/o3-o4-mini-system-card/">OpenAI o3 and o4-mini System Card</a></strong></p>
+I'm surprised to see a combined System Card for o3 and o4-mini in the same document - I'd expect to see these covered separately.</p>
+<p>The opening paragraph calls out the most interesting new ability of these models (see also <a href="https://simonwillison.net/2025/Apr/21/ai-assisted-search/#o3-and-o4-mini-are-really-good-at-search">my notes here</a>). Tool usage isn't new, but using tools in the chain of thought appears to result in some very significant improvements:</p>
+<blockquote>
+<p>The models use tools in their chains of thought to augment their capabilities; for example, cropping or transforming images, searching the web, or using Python to analyze data during their thought process.</p>
+</blockquote>
+<p>Section 3.3 on hallucinations has been gaining a lot of attention. Emphasis mine:</p>
+<blockquote>
+<p>We tested OpenAI o3 and o4-mini against PersonQA, an evaluation that aims to elicit hallucinations. PersonQA is a dataset of questions and publicly available facts that measures the model's accuracy on attempted answers.</p>
+<p>We consider two metrics: accuracy (did the model answer the question correctly) and hallucination rate (checking how often the model hallucinated).</p>
+<p>The o4-mini model underperforms o1 and o3 on our PersonQA evaluation. This is expected, as smaller models have less world knowledge and tend to hallucinate more. <strong>However, we also observed some performance differences comparing o1 and o3. Specifically, o3 tends to make more claims overall, leading to more accurate claims as well as more inaccurate/hallucinated claims.</strong> More research is needed to understand the cause of this result.</p>
+<table style="margin: 0 auto">
+  <caption style="text-align: center">Table 4: PersonQA evaluation</caption>
+  <tr>
+    <th>Metric</th>
+    <th>o3</th>
+    <th>o4-mini</th>
+    <th>o1</th>
+  </tr>
+  <tr>
+    <td>accuracy (higher is better)</td>
+    <td>0.59</td>
+    <td>0.36</td>
+    <td>0.47</td>
+  </tr>
+  <tr>
+    <td>hallucination rate (lower is better)</td>
+    <td>0.33</td>
+    <td>0.48</td>
+    <td>0.16</td>
+  </tr>
+</table>
+</blockquote>
+
+<p>The benchmark score on OpenAI's internal PersonQA benchmark (as far as I can tell no further details of that evaluation have been shared) going from 0.16 for o1 to 0.33 for o3 is interesting, but I don't know if it it's interesting enough to produce dozens of headlines along the lines of "OpenAI's o3 and o4-mini hallucinate way higher than previous models".</p>
+<p>The paper also talks at some length about "sandbagging". I’d previously encountered sandbagging <a href="https://simonwillison.net/2023/Apr/5/sycophancy-sandbagging/">defined as meaning</a> “where models are more likely to endorse common misconceptions when their user appears to be less educated”. The o3/o4-mini system card uses a different definition: “the model concealing its full capabilities in order to better achieve some goal” - and links to the recent Anthropic paper <a href="https://alignment.anthropic.com/2025/automated-researchers-sandbag/">Automated Researchers Can Subtly Sandbag</a>.</p>
+<p>As far as I can tell this definition relates to the American English use of “sandbagging” <a href="https://www.merriam-webster.com/dictionary/sandbag">to mean</a> “to hide the truth about oneself so as to gain an advantage over another” - as practiced by poker or pool sharks.</p>
+<p>(Wouldn't it be nice if we could have <em>just one</em> piece of AI terminology that didn't attract multiple competing definitions?)</p>
+<p>o3 and o4-mini both showed some limited capability to sandbag - to attempt to hide their true capabilities in safety testing scenarios that weren't fully described. This relates to the idea of "scheming", which I wrote about with respect to the GPT-4o model card <a href="https://simonwillison.net/2024/Aug/8/gpt-4o-system-card/#scheming">last year</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/21/openai-o3-and-o4-mini-system-card/#atom-everything>
+
+---
+
+## Decentralizing Schemes
+
+date: 2025-04-21, updated: 2025-04-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.tbray.org/ongoing/When/202x/2025/04/16/Decentralized-Schemes">Decentralizing Schemes</a></strong></p>
+Tim Bray discusses the challenges faced by decentralized Mastodon in that shared URLs to posts don't take into account people accessing Mastodon via their own instances, which breaks replies/likes/shares etc unless you further copy and paste URLs around yourself.</p>
+<p>Tim proposes that the answer is URIs: a registered <code>fedi://mastodon.cloud/@timbray/109508984818551909</code> scheme could allow Fediverse-aware software to step in and handle those URIs, similar to how <code>mailto:</code> works.</p>
+<p>Bluesky have <a href="https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml">registered</a> <code>at:</code> already, and there's also a <code>web+ap:</code> prefix registered with the intent of covering ActivityPub, the protocol used by Mastodon.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/social-media">social-media</a>, <a href="https://simonwillison.net/tags/tim-bray">tim-bray</a>, <a href="https://simonwillison.net/tags/bluesky">bluesky</a>, <a href="https://simonwillison.net/tags/urls">urls</a>, <a href="https://simonwillison.net/tags/mastodon">mastodon</a>, <a href="https://simonwillison.net/tags/decentralisation">decentralisation</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/21/decentralizing-schemes/#atom-everything>
+
+---
+
+## Silicon Valley Power Grab
+
+date: 2025-04-21, from: Guy Kawasaki blog
+
+Gregory H. Shill, Professor of Law & Michael and Brenda Sandler Faculty Fellow in Corporate Law, University of Iowa. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/silicon-valley-power-grab>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-21, from: Feed for Alt USDS)
+
+This advice could go for any agency leadership right now. 
+
+Indeed, good for any leader who's in a difficult place but still has to lead.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lndl6z32tk2n>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-21, from: Dave Winer's linkblog)
+
+A New Form of Verification on Bluesky. 
+
+<br> 
+
+<https://bsky.social/about/blog/04-21-2025-verification>
+
+---
+
+## autoregressive queens of failure
+
+date: 2025-04-21, from: Geoffrey Hunntley's blog
+
+<p>Have you ever had your AI coding assistant suggest something so off-base that you wonder if it&#x2019;s trolling you? Welcome to the world of autoregressive failure. </p><p>LLMs, the brains behind these assistants, are great at predicting the next word&#x2014;or line of code&#x2014;based on what&</p> 
+
+<br> 
+
+<https://ghuntley.com/gutter/>
+
+---
+
+## Adding Modest Friction
+
+date: 2025-04-21, from: mrusme blog
+
+Introducing human effort as a quiet filter in response to changing patterns of
+engagement and effortless consumption. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/adding-modest-friction/>
+
+---
+
+## This cheap Intel N150 mini PC is smaller than a phone, has two HDMI ports, Ethernet, and an M.2 slot for storage
+
+date: 2025-04-21, from: Liliputing
+
+<p>There&#8217;s a new version of a pocket-sized mini PC available from AliExpress that packs an Intel N150 quad-core processor, 12GB of LPDDR5 RAM, and an M.2 slot into a body that measures just 145 x 62 x 20mm (5.71&#8243; x 2.44&#8243;  x 0.79&#8243;). While I&#8217;m reluctant to call this little computer a &#8220;stick,&#8221; it is [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-cheap-intel-n150-mini-pc-is-smaller-than-a-phone-has-two-hdmi-ports-ethernet-and-an-m-2-slot-for-storage/">This cheap Intel N150 mini PC is smaller than a phone, has two HDMI ports, Ethernet, and an M.2 slot for storage</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-cheap-intel-n150-mini-pc-is-smaller-than-a-phone-has-two-hdmi-ports-ethernet-and-an-m-2-slot-for-storage/>
+
+---
+
+## Banana Pi BPI-RV2 is a $35 RISC-V gateway board for networking applications
+
+date: 2025-04-21, from: Liliputing
+
+<p>The Banana Pi BPI-RV2 is a single-board computer designed for networking applications with a 2.5 GbE WAN port, five Gigabit LAN ports, and M.2 and Mini PCIe slots that can be used for SSDs, wireless modules, and other add-ons. The board is powered by a 1.25 GHz Siflower SF21H8898 quad-core RISC-V processor and runs open source [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/banana-pi-bpi-rv2-is-a-35-risc-v-gateway-board-for-networking-applications/">Banana Pi BPI-RV2 is a $35 RISC-V gateway board for networking applications</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/banana-pi-bpi-rv2-is-a-35-risc-v-gateway-board-for-networking-applications/>
+
+---
+
+## Results From the Robot Half-Marathon
+
+date: 2025-04-21, updated: 2025-04-21, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/21/results-from-the-robot-half-marathon/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-21, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lndh2kdjyk2n>
 
 ---
 
@@ -204,6 +474,20 @@ Weird headline from the NYT.  Obviously Trump is defying the courts. That isn’
 <br> 
 
 <https://www.nytimes.com/live/2025/04/20/us/trump-news>
+
+---
+
+## I Do Not Recommend Proton Mail
+
+date: 2025-04-21, from: mrusme blog
+
+A review of my experience from using a **paid** Proton Mail account over the
+past years and why I decided to leave the service after broken promises,
+technical failures, and ethical disappointments. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/i-do-not-recommend-proton-mail/>
 
 ---
 

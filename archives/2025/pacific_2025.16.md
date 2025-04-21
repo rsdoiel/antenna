@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-04-21 07:57:43
+updated: 2025-04-21 14:07:25
 ---
 
 # pacific
 
-(date: 2025-04-21 07:57:43)
+(date: 2025-04-21 14:07:25)
+
+---
+
+## Cleave
+
+date: 2025-04-21, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Amy Fleury Back in the bed of our gone son’s begetting we drift on the raft of our grief. You join our fingers together, your wedding band glinting in the rivering dark. My tears salt your shoulder. Your whiskers &#8230; <a href="https://hawaiipacificreview.org/2025/04/21/cleave/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/04/21/cleave/>
 
 ---
 

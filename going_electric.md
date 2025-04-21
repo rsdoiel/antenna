@@ -1,11 +1,171 @@
 ---
 title: going electric
-updated: 2025-04-21 07:57:50
+updated: 2025-04-21 14:07:30
 ---
 
 # going electric
 
-(date: 2025-04-21 07:57:50)
+(date: 2025-04-21 14:07:30)
+
+---
+
+## BYD Is Developing An Electric Kei Car For Japan: Report
+
+date: 2025-04-21, from: Inside EVs News
+
+The Chinese conglomerate is already one of the best-selling EV brands in Japan. Now, it may give the Japanese market what it wants. 
+
+<br> 
+
+<https://insideevs.com/news/757241/byd-kei-car-japan-2026/>
+
+---
+
+## CATL unveils new EV battery that charges as fast as pumping gas
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/CATL-battery-cell-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>China’s Contemporary Amperex Technology Co., Limited (CATL) has unveiled its latest battery cell technologies, which charge as quickly as filling up a gas tank while potentially lowering costs without compromise.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl" data-layer-viewtype="unknown" data-post-id="412123" href="https://electrek.co/2025/04/21/catl-unveils-ev-battery-charges-as-fast-as-pumping-gas/#more-412123" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/catl-unveils-ev-battery-charges-as-fast-as-pumping-gas/>
+
+---
+
+## Slate's EV Was Caught Hiding In Plain Sight
+
+date: 2025-04-21, from: Inside EVs News
+
+The Autopian spotted Slate's EV on the streets of Venice, California, in a wacky baby-themed wrap.  
+
+<br> 
+
+<https://insideevs.com/news/757237/slate-ev-spotted-los-angeles/>
+
+---
+
+## New York adds $30 million more to its EV rebate pot
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Chevy-EV-deals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>New York State has announced an extra $30 million for point-of-sale rebates to lease or buy more than 60 new EV models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-chargers,ev-rebate,evs,new-york" data-layer-viewtype="unknown" data-post-id="412107" href="https://electrek.co/2025/04/21/new-york-adds-30-million-more-to-its-ev-rebate-pot/#more-412107" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/new-york-adds-30-million-more-to-its-ev-rebate-pot/>
+
+---
+
+## 'We Lose The Auto Industry': LG Energy Chief's Warning If America Backs Off EVs
+
+date: 2025-04-21, from: Inside EVs News
+
+If the U.S. backpedals on clean energy and EVs, the rest of the world will move on without us, he says. 
+
+<br> 
+
+<https://insideevs.com/news/757161/lg-battery-bob-lee-interview/>
+
+---
+
+## ArcBest Freight and logistics company deploys 14 electric terminal tractors
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Orange_EV_ABF_Freight_Truck2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>LTL carrier ArcBest Freight (ABF) announced plans to add five new Orange EV electric terminal tractors to its existing ZEV fleet, bringing its total deployment of these battery electric HDEVs to 14 … with even more to come.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck" data-layer-viewtype="unknown" data-post-id="412130" href="https://electrek.co/2025/04/21/arcbest-freight-and-logistics-company-deploys-14-electric-terminal-tractors/#more-412130" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/arcbest-freight-and-logistics-company-deploys-14-electric-terminal-tractors/>
+
+---
+
+## EcoFlow DELTA 3 Plus exclusive offer at $535, Hoverfly foldable e-bike $423, Anker 90K mAh power station $198, more
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/EcoFlow-DELTA-3-Plus-portable-power-station.webp?w=1200" /></div><p>We’re kicking off a new week here with a nice roundup of power station, e-bike, and other various markdowns in today’s edition of <em>Green Deals</em>. For starters, we’ve unpacked an <a href="https://9to5toys.com/2025/04/21/exclusive-ecoflow-delta-3-plus-power-station/">exclusive offer on EcoFlow’s mid-range DELTA 3 Plus portable power station at $535</a>, but you can also find the rather affordable <a href="https://9to5toys.com/2025/04/21/hoverfly-h3-folding-electric-bike/">Hoverfly foldable H3 e-bike as low as $423</a>, and that’s alongside <a href="https://9to5toys.com/2025/04/21/anker-solix-c300-ac-lifepo4-power-station-at-198/">Anker’s SOLIX C300 AC 90,000mAh LiFePO4 power station at $198</a>, but don’t sleep on that one because it expires at the end of the day.</p>
+
+
+
+<p>Head below for more and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="412110" href="https://electrek.co/2025/04/21/green-deals-april-21/#more-412110" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/green-deals-april-21/>
+
+---
+
+## Kia’s refreshed US-made, native NACS 2025 EV6 starts at $42,900
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/23183-e1745257630771.jpeg?quality=82&#038;strip=all&#038;w=1110" /></div><p>Kia announced pricing for the upcoming 2025 EV6, with lots of improvements from a mid-cycle refresh and only a slight price bump from the previous model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412106" href="https://electrek.co/2025/04/21/kias-refreshed-us-made-native-nacs-2025-ev6-starts-at-42900/#more-412106" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/kias-refreshed-us-made-native-nacs-2025-ev6-starts-at-42900/>
+
+---
+
+## Tesla is being squeezed out of the Chinese market, workers are being pushed to their limits
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-Store.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is being squeezed out of the Chinese market, and the pressure is currently falling on the sales workers, who are reportedly being pushed to their limits.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412104" href="https://electrek.co/2025/04/21/tesla-tsla-squeezed-out-chinese-market-workers-pushed-limits/#more-412104" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/tesla-tsla-squeezed-out-chinese-market-workers-pushed-limits/>
+
+---
+
+## 'Pure Evil': Tesla Whistleblower Will Get Day In Court With Elon Musk
+
+date: 2025-04-21, from: Inside EVs News
+
+A Tesla engineer said she was forced to resign after Musk threatened to deport her team after she brought up safety concerns.  
+
+<br> 
+
+<https://insideevs.com/news/757238/tesla-whistleblower-arbitration-court-musk/>
+
+---
+
+## CATL's New LFP Battery Beats BYD’s 5-Minute EV Charging Speeds
+
+date: 2025-04-21, from: Inside EVs News
+
+The world’s biggest battery maker made three big announcements ahead of Auto Shanghai pushing EV tech to new heights. 
+
+<br> 
+
+<https://insideevs.com/news/757229/catl-beats-byd-5-minute-charging-tech/>
 
 ---
 
@@ -97,7 +257,7 @@ These two EVs are about as close as EV rivals get in Europe right now. But one s
 
 date: 2025-04-20, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Former Tesla engineer Christina Balan, who was fired in 2014, said in an interview that her entire team was threatened with deportation for taking her side when she brought up a brake safety issue directly to Elon Musk. She’s now succeeded in throwing out Tesla’s arbitration case against her, and hopes to meet Tesla directly in open court in a case that could influence corporate policy nationwide.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Former Tesla engineer Cristina Balan, who was fired in 2014, said in an interview that her entire team was threatened with deportation for taking her side when she brought up a brake safety issue directly to Elon Musk. She’s now succeeded in throwing out Tesla’s arbitration case against her, and hopes to meet Tesla directly in open court in a case that could influence corporate policy nationwide.</p>
 
 
 

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-04-21 07:57:48
+updated: 2025-04-21 14:07:29
 ---
 
 # motorcycles
 
-(date: 2025-04-21 07:57:48)
+(date: 2025-04-21 14:07:29)
+
+---
+
+## NASCAR Announces Nominees For NASCAR Hall of Fame Class of 2026, Landmark Award
+
+date: 2025-04-21, from: Kickin the Tires blog
+
+DAYTONA BEACH, Fla. (April 21, 2025) — NASCAR today announced the 15 nominees for the NASCAR Hall of Fame’s Class of 2026 and the five nominees for the Landmark Award&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-announces-nominees-for-nascar-hall-of-fame-class-of-2026-landmark-award/>
 
 ---
 

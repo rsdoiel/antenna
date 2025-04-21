@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-04-21 07:57:46
+updated: 2025-04-21 14:07:28
 ---
 
 # journalism
 
-(date: 2025-04-21 07:57:46)
+(date: 2025-04-21 14:07:28)
+
+---
+
+## ‘El Respiro’: Una pausa en unión
+
+date: 2025-04-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El evento fue la clausura de la exhibición de Carolina Caycedo, “Situamos la vida en el centro”.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/21/el-respiro-una-pausa-en-union/">‘El Respiro’: Una pausa en unión</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/21/el-respiro-una-pausa-en-union/>
 
 ---
 
@@ -53,8 +67,8 @@ The United States has revoked more than 1,500 visas across students and graduate
 
 date: 2025-04-21, from: The Daily Bruin (UCLA Student Newspaper)
 
-Paul Boxer thinks &#8220;an attack on one is an attack on all&#8221; when it comes to the Trump administration threatening United States universities.
-That&#8217;s why the Rutgers University-Newark psychology professor wants to create a &#8220;NATO&#8221; style coalition among Big Ten universities to combat the Trump administration. 
+<em>This post was updated April 21 at 12:02 p.m.</em>
+Paul Boxer thinks “an attack on one is an attack on all” when it comes to the Trump administration threatening United States universities. 
 
 <br> 
 

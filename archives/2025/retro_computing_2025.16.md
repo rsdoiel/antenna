@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-21 07:57:49
+updated: 2025-04-21 14:07:29
 ---
 
 # retro computing
 
-(date: 2025-04-21 07:57:49)
+(date: 2025-04-21 14:07:29)
+
+---
+
+## b.log 2025/04/21 - Conspiracy theory, Flamin' hell!, Making Trifle was no trifling matter.
+
+date: 2025-04-21, from: Richard Murray's blog
+
+Conspiracy theory, Flamin' hell!, Making Trifle was no trifling matter. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250421>
+
+---
+
+## TrueNAS 25.04 Arrives with Thousands of Changes
+
+date: 2025-04-21, from: Linux Magazine
+
+<p>One of the most popular Linux-based NAS solutions has rolled out the latest edition, based on Ubuntu 25.04.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/TrueNAS-25.04-Arrives-with-Thousands-of-Changes>
 
 ---
 

@@ -1,11 +1,212 @@
 ---
 title: columns
-updated: 2025-04-21 07:57:45
+updated: 2025-04-21 14:07:26
 ---
 
 # columns
 
-(date: 2025-04-21 07:57:45)
+(date: 2025-04-21 14:07:26)
+
+---
+
+##  Your Mum Does the Washing 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/your-mum-does-the-washing>
+
+---
+
+## April 20, 2025
+
+date: 2025-04-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161833041/81a0b716517566a4d103448af3d13e4d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161833041/81a0b716517566a4d103448af3d13e4d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-20-2025-194>
+
+---
+
+##  &#8220;This debate is entirely obsolete. To what extent is the constitutional order... 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046677-this-debate-is-entirely-o>
+
+---
+
+##  &#8220;None of Us Knows What the Future Will Deliver&#8221; 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/none-of-us-knows-what-the-future-will-deliver>
+
+---
+
+##  Larry David: My Dinner With Adolf. &#8220;We need to talk to the... 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046679-larry-david-my-dinner-wit>
+
+---
+
+## An Inadequate AI Solution
+
+date: 2025-04-21, from: Doc Searls (at Harvard), New Old Blog
+
+Let&#8217;s take the example of printers, which tend to suck. Here is one example of suckage at work, and the instructive hell it put me through: The Canon MG3600 is my wife&#8217;s. It sits by her desk and does a good-enough job. The Epson WF-3520 is mine. It sits by my desk and leaks black ink. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/04/21/an-inadequate-ai-solution/>
+
+---
+
+##  Anxiety by Doechii (Official Video) 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/anxiety-by-doechii-official-video>
+
+---
+
+## Why Do AI Company Logos Look Like Buttholes?
+
+date: 2025-04-21, updated: 2025-04-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://velvetshark.com/ai-company-logos-that-look-like-buttholes>
+
+---
+
+##  A collection of movie mistakes, including a recently solved one from Star... 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046675-a-collection-of-movie-mis>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-21, from: Dave Winer's Scripting News)
+
+New docs: <a href="https://this.how/wordland/#1745242711000">The role of Markdown in WordLand</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/21.html#a161630>
+
+---
+
+## How Tim Cook Navigated Out of Trump’s Tariffs on China, For Now
+
+date: 2025-04-21, updated: 2025-04-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.washingtonpost.com/business/2025/04/17/apple-iphone-tariff-exemption-trump/>
+
+---
+
+## autoregressive queens of failure
+
+date: 2025-04-21, from: Geoffrey Hunntley's blog
+
+<p>Have you ever had your AI coding assistant suggest something so off-base that you wonder if it&#x2019;s trolling you? Welcome to the world of autoregressive failure. </p><p>LLMs, the brains behind these assistants, are great at predicting the next word&#x2014;or line of code&#x2014;based on what&</p> 
+
+<br> 
+
+<https://ghuntley.com/gutter/>
+
+---
+
+## Adding Modest Friction
+
+date: 2025-04-21, from: mrusme blog
+
+Introducing human effort as a quiet filter in response to changing patterns of
+engagement and effortless consumption. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/adding-modest-friction/>
+
+---
+
+##  A depth comparison of shipwrecks around the world, from the Mary Rose... 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046661-a-depth-comparison-of-shi>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-21, from: Miguel de Icaza Mastondon feed)
+
+<p>LogicPro also lets you add &quot;Apple Audio Units&quot; as filters, instead of the LogicPro ones, and those get an uglier interface that seems auto-generated, but still looks like some attention went into doing some custom mappings.</p><p>I tried to get similar effects for comparison.  Godot odds, LogicPro evens:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114376669000311692>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-21, from: Miguel de Icaza Mastondon feed)
+
+<p>In Godot&#39;s AudioBus system, you can add effects, and when you get an effect, you get a window with properties you can edit.</p><p>I went to see what Logic Pro did for something similar, and I was in awe, every effect has a custom and glorious UI.</p><p>I don&#39;t think I am going to get around to this before the 1.0 release, but I now have a new goal.</p><p>This is the pitch shifter in Godot and Logic Pro.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114376648555335427>
+
+---
+
+## The conscience of the world
+
+date: 2025-04-21, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-conscience-of-the-world>
 
 ---
 
@@ -107,6 +308,32 @@ Yesterday, on the 250th anniversary of the Battles of Lexington and Concord at t
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/april-20-2025>
+
+---
+
+## The Talk Show: ‘The Best Hatched Plan’
+
+date: 2025-04-21, updated: 2025-04-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/04/20/ep-420>
+
+---
+
+## I Do Not Recommend Proton Mail
+
+date: 2025-04-21, from: mrusme blog
+
+A review of my experience from using a **paid** Proton Mail account over the
+past years and why I decided to leave the service after broken promises,
+technical failures, and ethical disappointments. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/i-do-not-recommend-proton-mail/>
 
 ---
 

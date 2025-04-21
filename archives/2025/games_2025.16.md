@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-04-21 07:57:46
+updated: 2025-04-21 14:07:27
 ---
 
 # games
 
-(date: 2025-04-21 07:57:46)
+(date: 2025-04-21 14:07:27)
+
+---
+
+## Dozens of 4K Blu-rays are 3 for $33 at Amazon
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+Amazon is currently offering a great opportunity to fill out your collection of physical media. For a limited time, you can pick up three select 4K Blu-rays for just $33. This discount can be used multiple times and features dozens of eligible titles to choose from. Just add three movies to your cart, and Amazon [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/561976/4k-blu-ray-amazon-godzilla-minus-one-deal>
+
+---
+
+## Paul Rudd cosplays 1991 Paul Rudd in throwback Switch 2 commercial
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+As all Ruddheads know, actor Paul Rudd made his acting debut in an iconic 1991 Super Nintendo commercial as a radical-looking 22-year-old playing games like F-Zero and a then-unnamed The Legend of Zelda: A Link to the Past on a gigantic, drive-in movie theater screen. And now, almost 35 years later, Rudd is back to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/562063/nintendo-switch-2-paul-rudd-commercial>
+
+---
+
+## Someone finally solved Revenge of the Sith’s ‘Force ghost’ mini-mystery
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+We finally know the identity of the mysterious Force ghost that briefly haunts Anakin Skywalker’s back in the lava-filled showdown at the end of Revenge of the Sith. If you’ve watched Revenge of the Sith without ever noticing this guy, don’t worry. He appears in frame for just a split second and is really only [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/562002/revenge-of-the-sith-force-ghost-mystery-solved>
+
+---
+
+## Andor season 2, You season 5, Étoile, and more new TV this week
+
+date: 2025-04-21, updated: 2025-04-18, from: Polygon Website
+
+This week is all about tension on TV. Like flowers blossoming on your spring walks, it’s everywhere you look. Whether it’s a creepy stalker returning triumphant to New York, now clothed in wealth and prestige (You season 5), or the nascent Rebel Alliance trying their best to hobble the Empire in whatever way they can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/558489/new-netflix-andor-you-etoile-premiere-time>
+
+---
+
+## GameStop is very serious about its $420.69 trade-in value for the Xbox Series X
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+To be blunt, you’d have to be high not to trade in your Xbox Series X to GameStop since it promises Pro members $420.69 (hahahahahahahahahahahahahahahahaha) in store credit through April 26. No matter how long you’ve had your Series X — a day, or going on almost five years — taking a deal that has [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/562034/xbox-series-x-trade-in-gamestop-42069-pro>
+
+---
+
+## Blizzard wants Diablo 4 to be challenging again, but not by making it ‘a slog’
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+Diablo 4’s next season is all about the new bosses being added to the game, but it also marks the first time Blizzard is deliberately trying to ramp the action RPG’s difficulty up. After a year of players blazing through the game at faster and faster speeds, Blizzard wants to slow things down and make [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/560692/blizzard-diablo-4-difficulty-season-8>
+
+---
+
+## Bongo Cat is the next Banana
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+A new idle clicker game has overtaken Banana on the Steam charts. That’s Bongo Cat, published by Irox Games, which takes the general idea of Banana and the rest of the genre and tweaks it a little. You don’t really play Bongo Cat, necessarily; the cute little kitty lives as an overlay on your screen, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/561909/bongo-cat-viral-clicker-game-steam>
+
+---
+
+## Save up to 33% a month with a Max annual plan
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+Whether you’re a new or returning subscriber, Max is currently offering an opportunity to save up to $130 on its annual plans through May 7, saving you up to 33% on the monthly subscription price. While Max has tons of movies to watch, this streaming service is the only place to access massive libraries of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/561850/hbo-max-last-of-us-annual-subscription-sale>
+
+---
+
+## Zelda speedrunner movie pulled from PBS will air on Twitch first
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+Break the Game, a film about Legend of Zelda speedrunner Narcissa Wright, was supposed to air on PBS’ POV series this month before it was suddenly pulled by the network in February. According to director Jane Wagner, the executive producer and director of POV told her they were worried about the political repercussions of showing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/561806/pbs-zelda-speedrunner-film-twitch-premiere>
 
 ---
 

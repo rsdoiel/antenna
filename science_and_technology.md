@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2025-04-21 07:57:43
+updated: 2025-04-21 14:07:26
 ---
 
 # science and technology
 
-(date: 2025-04-21 07:57:43)
+(date: 2025-04-21 14:07:26)
+
+---
+
+## Today's LLMs craft exploits from patches at lightning speed
+
+date: 2025-04-21, updated: 2025-04-21, from: The Register (UK I.T. News)
+
+<h4>Erlang? Er, man, no problem. ChatGPT, Claude to go from flaw disclosure to actual attack code in hours</h4> <p>The time from vulnerability disclosure to proof-of-concept (PoC) exploit code can now be as short as a few hours, thanks to generative AI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/21/ai_models_can_generate_exploit/>
+
+---
+
+## ICE enlists Palantir to develop all-seeing 'ImmigrationOS' eye to speed up deportations
+
+date: 2025-04-21, updated: 2025-04-21, from: The Register (UK I.T. News)
+
+<h4>Only Peter Thiel-backed biz can pull off $30M IT deal, apparently</h4> <p>US Immigration and Customs Enforcement has an urgent need for a new software system to help implement the Trump administration&#39;s deportation plans, and it&#39;s turning to longtime ICE supplier Palantir for a rush build job.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/21/ice_enlists_palantir_to_develop/>
+
+---
+
+## NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson
+
+date: 2025-04-21, from: NASA breaking news
+
+In its second asteroid encounter, NASA’s Lucy spacecraft obtained a close look at a uniquely shaped fragment of an asteroid that formed about 150 million years ago. The spacecraft has begun returning images that were collected as it flew approximately 600 miles (960 km) from the asteroid Donaldjohanson on April 20, 2025. The asteroid was […] 
+
+<br> 
+
+<https://science.nasa.gov/image-article/nasas-lucy-spacecraft-images-asteroid-donaldjohanson/>
+
+---
+
+## Microsoft rated this bug as low exploitability. Miscreants weaponized it in just 8 days
+
+date: 2025-04-21, updated: 2025-04-21, from: The Register (UK I.T. News)
+
+<h4>It&#39;s now hitting govt, enterprise targets</h4> <p>On March 11 - Patch Tuesday - Microsoft rolled out its usual buffet of bug fixes. Just eight days later, miscreants had weaponized one of the vulnerabilities, using it against government and private sector targets in Poland and Romania.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/21/microsoft_apple_patch/>
+
+---
+
+## Fuzzy Rings of a Dying Star
+
+date: 2025-04-21, from: NASA breaking news
+
+In this photo released on April 14, 2025, NASA’s James Webb Space Telescope revealed the gas and dust ejected by a dying star at the heart of NGC 1514. Using mid-infrared data showed the “fuzzy” clumps arranged in tangled patterns, and a network of clearer holes close to the central stars shows where faster material [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/fuzzy-rings-of-a-dying-star/>
+
+---
+
+## Celebrating Earth as Only NASA Can
+
+date: 2025-04-21, from: NASA breaking news
+
+Lee esta historia en español aquí. From the iconic image of Earthrise taken by Apollo 8 crew, to the famous Pale Blue Dot image of Earth snapped by Voyager I spacecraft, to state-of-the-art observations of our planet by new satellites such as PACE (Plankton, Aerosol, Cloud, ocean Ecosystem), NASA has given us novel ways to see [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/earth-day/celebrating-earth-as-only-nasa-can/>
+
+---
+
+## Sols 4515-4517: Silver Linings
+
+date: 2025-04-21, from: NASA breaking news
+
+Written by Lucy Thompson, Planetary Geologist at University of New Brunswick Earth planning date: Friday, April 18, 2025 As the APXS operations person today, I was hopeful that we could plan a compositional measurement after brushing one of the bedrock blocks in front of the rover. However, it soon became clear that the rover was not on […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4515-4517-silver-linings/>
 
 ---
 
