@@ -1,11 +1,21 @@
 ---
 title: snapshots
-updated: 2025-04-21 06:07:23
+updated: 2025-04-21 07:57:51
 ---
 
 # snapshots
 
-(date: 2025-04-21 06:07:23)
+(date: 2025-04-21 07:57:51)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-21, from: Dave Winer's linkblog)
+
+2022: Why you stopped blogging. 
+
+<br> 
+
+<http://scripting.com/2022/12/13/205115.html>
 
 ---
 

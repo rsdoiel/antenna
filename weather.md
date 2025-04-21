@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-04-21 06:07:18
+updated: 2025-04-21 07:57:45
 ---
 
 # weather
 
-(date: 2025-04-21 06:07:18)
+(date: 2025-04-21 07:57:45)
 
 ---
 
-## The Central North Pacific hurricane season runs from June 1st through November 30th.
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-04-21, from: Central Pacific Basin Tropical Cyclones
+date: 2025-04-21, from: Eastern Pacific Basin GIS Data
 
-The Central North Pacific hurricane season runs from June 1st through November 30th. 
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
@@ -21,15 +21,27 @@ The Central North Pacific hurricane season runs from June 1st through November 3
 
 ---
 
-## SPC - No watches are valid as of Mon Apr 21 12:35:01 UTC 2025
+## SPC - No watches are valid as of Mon Apr 21 13:11:02 UTC 2025
 
 date: 2025-04-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Apr 21 12:35:01 UTC 2025. 
+No watches are valid as of Mon Apr 21 13:11:02 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Mon Apr 21 13:11:02 UTC 2025
+
+date: 2025-04-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Mon Apr 21 13:11:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -106,18 +118,6 @@ limited to include low severe probabilities at this time.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No MDs are in effect as of Mon Apr 21 12:35:01 UTC 2025
-
-date: 2025-04-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Apr 21 12:35:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

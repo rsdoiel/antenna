@@ -1,11 +1,71 @@
 ---
 title: columns
-updated: 2025-04-21 06:07:18
+updated: 2025-04-21 07:57:45
 ---
 
 # columns
 
-(date: 2025-04-21 06:07:18)
+(date: 2025-04-21 07:57:45)
+
+---
+
+## Sandboxes
+
+date: 2025-04-21, from: Anton Zhiyanov blog
+
+From programming languages to databases to networking and CLI tools. 
+
+<br> 
+
+<https://antonz.org/sandboxes/>
+
+---
+
+## Don't try to change the world
+
+date: 2025-04-21, from: Dave Winer's Scripting News
+
+<p>Silicon Valley encourages entrepreneurs to think in terms of changing the world. I was one of them when I arrived there in 1979 at the age of 24, with world-changing software ready to go (or so I thought). A few years later, I shipped a way of writing that was only possible on a computer, and in a small way I suppose it did change the world. I kept innovating, but over time I came to realize that one person trying to change the world is usually futile, but what's even worse, you might actually manage to change the world, and that's going to be a disaster for you and the world. As Elon Musk is doing right now. </p>
+<p>Musk is the perfect cautionary tale for "be careful of what you wish for." No one person should change the world. We are a creation of evolution, and we also are creators of evolution, but evolution is the result of lots of infinitesmal events, not some great god-like creation that young people tend to dream of. That's what he's doing wrong, trying to force his vision on all of the rest of us. We'd be crazy to wish for what he wants, and we're not that crazy. </p>
+<p>I have a pretty good idea of what he wants because like him, I think in terms of what you can do with networks of computers and people. And I understand their weakness, and also believe in the good intentions of 99.99% of the people, so even though our networks are not perfectly secure somehow we seem to get by. But Musk has gotten inside, and is doing what he wants, and the rest of us don't get a say, and he's of the 0.01% you absolutely <i>don't</i> want to have the keys to the treasury or nukes of the United States in 2025. </p>
+<p>A lot of wise people over a few hundred years set up a system where we all get a say, and it's gotten us by pretty well. When one person takes control, that's disaster, because no one, not even Musk, is an immortal god. He's got huge blind spots. If you try to rewrite every bit of code too fast you end up with a broken system. He'll leave and we'll have to deal with what remains. And hopefully after we get over that, we'll figure out how to not let a future Musk get in there again. And that's going to involve a fair amount of pain for the billionaires. If you all want to start helping to solve the problem, now would be a good time to get involved, Mr and Ms Billionaire. Thanks for listening. </p>
+<p>BTW, I've <a href="http://scripting.com/2023/09/03/201849.html">mentioned</a> this <a href="http://scripting.com/2022/12/13.html#a141000">before</a> -- there's a <a href="https://clip.cafe/sleeper-1973/what-happened-everybody/">great joke</a> in the Woody Allen movie Sleeper. It was about Albert Shanker playing the role of Elon Musk, who wasn't born when the movie came out.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/21/141055.html?title=dontTryToChangeTheWorld>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-21, from: Dave Winer's Scripting News)
+
+<a href="https://zeldman.com/2025/04/21/writing-in-wordland/">Zeldman tries WordLand</a>: "For bloggers who mostly write, it’s a clean, distraction-free interface with strong basic features that lets you offload CMS duties to WordPress." 
+
+<br> 
+
+<http://scripting.com/2025/04/21.html#a135605>
+
+---
+
+## Trying to close a book
+
+date: 2025-04-21, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/04/21/miceAndMen.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I know this is ancient history, but I was thinking the other day about how Tim O'Reilly kept saying he had nothing to do with the temporary takeover of the name <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> by RDF advocates. But it was an O'Reilly exec, Dale Dougherty, who drove it. I suppose perhaps Tim was saying, effectively, that Dougherty never told him what he was doing. But the information of his involvement was available publicly. At the time, we had the web (obviously) and good search engines. And O'Reilly Associates was a journalistic organization -- he could have asked someone to research it for him. Also the tech guy who ran the project was an O'Reilly employee. Maybe Tim didn't know. But he sure took it out on me personally. A lot of doors were closed to me because of this clash. But I don't apologize for anything I said. It <i>was</i> a company thing. If Tim wasn't aware of what his #2 guy was doing, sorry that's not on me. But everyone involved knew it was O'Reilly doing it. </p>
+<p>Anyway -- if ChatGPT had existed at the time, he could have asked for an impartial opinion. I'm going to try it now. Here's the prompt I wrote.</p>
+<ul>
+<li>In 1999 or 2000 (not sure of the exact date) there was a fork of RSS, turning it into a dialect of RDF, a format that was being promoted by the W3C. They called it RSS 1.0. </li>
+<li>It never really took hold, never became widely used, because the earlier version of RSS, v0.91 was being adopted at a very high rate because it was being supported by all the blogging platforms of the day, and by major publishers, including Salon, Red Herring, Motley Fool and Wired. Later the NY Times would support RSS 2.0, which was an evolution of RSS 0.91, and then the entire news industry followed their lead, and RSS quickly became the most popular way to read news on the web.</li>
+<li>Here's the question. Was O'Reilly Associates involved in the RSS 1.0 fork? Tim O'Reilly, at the time, said it wasn't involved. But Dale Dougherty, the #2 exec at O'Reilly lead the effort, and the technical lead was an O'Reilly employee. Would it be fair to say that ORA was involved. Would the fork have happened without their involvement? Try to be as impartial as you can.</li>
+</ul>
+<p>I have asked ChatGPT to give me a <a href="https://chatgpt.com/share/680644ab-ee60-8012-b3b5-77ddc2300958">shareable version</a> of its answer -- but I find that often people say they can't read it. But you have the prompt so you can ask ChatGPT or any other AI app, for it's (hopefully) impartial response. </p>
+<p>Update: I fed the same prompt into <a href="https://claude.ai/share/e347df31-c906-4db1-bb16-909f9e15541f">Claude.ai</a> and <a href="https://g.co/gemini/share/bae87a853d69">Gemini</a>.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/21/131008.html?title=tryingToCloseABook>
 
 ---
 

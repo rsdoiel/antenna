@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-04-21 06:07:16
+updated: 2025-04-21 07:57:41
 ---
 
 # north america
 
-(date: 2025-04-21 06:07:16)
+(date: 2025-04-21 07:57:41)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-21, from: The Contrarian
+
+Monday: 50501 protests drew thousands all across the country on the 250th anniversary of the American Revolution. Today, images from Massachusetts, Delaware, and Alaska. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with The Contrarians 04/21
+
+date: 2025-04-21, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/21 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0421>
 
 ---
 

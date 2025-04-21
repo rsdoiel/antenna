@@ -1,11 +1,39 @@
 ---
 title: going electric
-updated: 2025-04-21 06:07:21
+updated: 2025-04-21 07:57:50
 ---
 
 # going electric
 
-(date: 2025-04-21 06:07:21)
+(date: 2025-04-21 07:57:50)
+
+---
+
+## 2025 Kia EV6: America’s Most Underrated EV Starts At $42,900
+
+date: 2025-04-21, from: Inside EVs News
+
+That's only $300 more than last year. But higher trim levels get way more expensive. 
+
+<br> 
+
+<https://insideevs.com/news/757222/2025-kia-ev6-price/>
+
+---
+
+## Elon Musk breaks his own Tesla (TSLA) earnings rule in desperate move
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-all-hands-meeting.png?w=1600" /></div><p>Elon Musk is breaking his own rule of not making announcements during Tesla earnings as the CEO appears desperate amid a brand crisis.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="412027" href="https://electrek.co/2025/04/21/elon-musk-breaks-tesla-tsla-earnings-rule-desperate-move/#more-412027" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/elon-musk-breaks-tesla-tsla-earnings-rule-desperate-move/>
 
 ---
 

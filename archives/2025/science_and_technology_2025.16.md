@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-04-21 06:07:18
+updated: 2025-04-21 07:57:43
 ---
 
 # science and technology
 
-(date: 2025-04-21 06:07:18)
+(date: 2025-04-21 07:57:43)
+
+---
+
+## How a Biofilm’s Strange Shape Emerges From Cellular Geometry
+
+date: 2025-04-21, from: Quanta Magazine
+
+Micro decisions can have macro consequences. A soft matter physicist reveals how interactions within simple cellular collectives can lead to emergent physical traits.            <p>The post <a href="https://www.quantamagazine.org/how-a-biofilms-strange-shape-emerges-from-cellular-geometry-20250421/" target="_blank">How a Biofilm’s Strange Shape Emerges From Cellular Geometry</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-a-biofilms-strange-shape-emerges-from-cellular-geometry-20250421/>
 
 ---
 

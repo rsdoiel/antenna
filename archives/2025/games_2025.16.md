@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-04-21 06:07:19
+updated: 2025-04-21 07:57:46
 ---
 
 # games
 
-(date: 2025-04-21 06:07:19)
+(date: 2025-04-21 07:57:46)
+
+---
+
+## Nintendo is going after the leaker behind major Pokémon ‘Teraleak’
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+Nintendo is asking a California court to force Discord to give up the identity of the person behind last year’s massive Pokémon data breach, known among the Pokémon community as the “Teraleak.” It’s called the Teraleak because of just how much information was released online; the leaker claimed to have source code for the upcoming [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/561817/pokemon-teraleak-nintendo-discord-subpoena>
+
+---
+
+## The 41 best couch co-op games for Nintendo Switch
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+There’s a lot to love about the Nintendo Switch, not least of which the abundance of titles with local multiplayer features, making it a great console for game night with friends or a casual play session with a roommate. We’ve collected some of our favorite titles that allow for some good old-fashioned local play. It’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/23475572/best-couch-co-op-local-multiplayer-games-nintendo-switch>
 
 ---
 
@@ -59,7 +83,7 @@ Here at Polygon, we aren’t strangers to the video game notebook. Handwritten n
 
 ## The Lord of the Rings saga and other Tolkien classics are on sale at Amazon
 
-date: 2025-04-20, updated: 2025-04-18, from: Polygon Website
+date: 2025-04-20, updated: 2025-04-21, from: Polygon Website
 
 Amazon is currently having another excellent sale on illustrated editions of The Lord of the Rings, and other books penned by J.R.R. Tolkien. Through April 28, you can save up to 75% on select editions of Middle-earth fiction, with many items like The Hobbit Illustrated Edition, and The Fellowship of the Ring Collector&#8217;s Edition on [&#8230;] 
 

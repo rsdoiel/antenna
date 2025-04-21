@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-04-21 06:07:20
+updated: 2025-04-21 07:57:48
 ---
 
 # motorcycles
 
-(date: 2025-04-21 06:07:20)
+(date: 2025-04-21 07:57:48)
+
+---
+
+## Aleix Espargaró To Make Wildcard Reappearance in MotoGP, First Time on a Honda
+
+date: 2025-04-21, from: Ride Apart, Electric Motorcycle News
+
+Unfortunately, he won't be racing alongside one of his best friends. 
+
+<br> 
+
+<https://www.rideapart.com/news/757117/aleix-espargaro-wildcard-honda-race/>
+
+---
+
+## If This Company Has Its Way, Hybrid UTVs Are the Next Big Thing
+
+date: 2025-04-21, from: Ride Apart, Electric Motorcycle News
+
+Instant torque AND a Yoshimura exhaust? Yes. 
+
+<br> 
+
+<https://www.rideapart.com/news/757103/hybrid-utv-drop-in-system-upfit-omi-fuision-drive/>
 
 ---
 
