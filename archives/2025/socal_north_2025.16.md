@@ -1,11 +1,140 @@
 ---
 title: socal north
-updated: 2025-04-21 14:07:25
+updated: 2025-04-22 06:09:16
 ---
 
 # socal north
 
-(date: 2025-04-21 14:07:25)
+(date: 2025-04-22 06:09:16)
+
+---
+
+## Utilities are planning to bury power lines after the LA fires. Should they?
+
+date: 2025-04-22, updated: 2025-04-22, from: The LAist
+
+We take a closer look at Southern California Edison’s plans to go underground with power lines in Altadena and Malibu. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/burying-power-lines-after-the-la-fires>
+
+---
+
+## California passed a law allowing new parents to apply early for paid leave. When will it take effect?
+
+date: 2025-04-22, updated: 2025-04-22, from: The LAist
+
+The state said that the change will be part of a larger overhaul of California's benefits system. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-early-parental-paid-leave-law-state-overhaul>
+
+---
+
+## Trump is dismantling the Education Department. How that might harm special education
+
+date: 2025-04-22, updated: 2025-04-22, from: The LAist
+
+Special education is shifting to a different federal agency. Advocates fear the loss of expertise will harm students. 
+
+<br> 
+
+<https://laist.com/news/education/trump-is-dismantling-the-education-department-how-that-might-harm-special-education>
+
+---
+
+## Cloudy and cool with morning fog for the week ahead
+
+date: 2025-04-22, updated: 2025-04-22, from: The LAist
+
+Cloudy through mid-morning in SoCal with highs near 70. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cloudy-week-in-store-with-slightly-below-avg-temps>
+
+---
+
+## Video shows man slamming dog into the ground in Long Beach; police are investigating
+
+date: 2025-04-22, from: Longbeach Post
+
+<figure><img width="824" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21192123/dog-suspectjpeg-179390-rxvvq0fi-383187-JK50avvQ.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21192123/dog-suspectjpeg-179390-rxvvq0fi-383187-JK50avvQ.jpeg 824w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21192123/dog-suspectjpeg-179390-rxvvq0fi-383187-JK50avvQ-300x219.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21192123/dog-suspectjpeg-179390-rxvvq0fi-383187-JK50avvQ-768x561.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21192123/dog-suspectjpeg-179390-rxvvq0fi-383187-JK50avvQ-148x108.jpeg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21192123/dog-suspectjpeg-179390-rxvvq0fi-383187-JK50avvQ-400x292.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Animal abuse is unacceptable and will not be tolerated in our community," police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-animal-abuse-dog-swinging-video-police">Video shows man slamming dog into the ground in Long Beach; police are investigating</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-animal-abuse-dog-swinging-video-police>
+
+---
+
+## Multiple trees sawed down in downtown LA, officials say
+
+date: 2025-04-21, updated: 2025-04-21, from: The LAist
+
+An LAPD spokesperson said it has reviewed footage showing a suspect at 1:30 a.m. on Saturday "cutting the trees and riding off on a bicycle." 
+
+<br> 
+
+<https://laist.com/news/transportation/trees-cut-down-in-downtown-la>
+
+---
+
+## Bones found in sand on Long Beach shoreline; investigators believe they’re human
+
+date: 2025-04-21, from: Longbeach Post
+
+<figure><img width="1024" height="751" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X-1024x751.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X-1024x751.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X-300x220.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X-768x563.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X-147x108.jpg 147w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X-1200x880.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X-400x293.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141002/660c3939-fc87-4218-b6b3-4774d63dc07a-495258-v9wrzzvm-415548-a1Xqj79X.jpg 1236w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Crews scoured the sand Friday and Saturday after someone reported finding human remains at Junipero Beach. They appear to have confirmed the grisly discovery.</p>
+<p>The post <a href="https://lbpost.com/news/crime/bones-human-remains-junipero-beach-long-beach">Bones found in sand on Long Beach shoreline; investigators believe they&#8217;re human</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/bones-human-remains-junipero-beach-long-beach>
+
+---
+
+## 19-year-old Long Beach man killed in crash on Temecula highway
+
+date: 2025-04-21, from: Longbeach Post
+
+<figure><img width="654" height="344" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21140954/90360659-1744838018909148-r-319476-nzxxv2ou-216458-338YkMsz-e1745271030562.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21140954/90360659-1744838018909148-r-319476-nzxxv2ou-216458-338YkMsz-e1745271030562.webp 654w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21140954/90360659-1744838018909148-r-319476-nzxxv2ou-216458-338YkMsz-e1745271030562-300x158.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21140954/90360659-1744838018909148-r-319476-nzxxv2ou-216458-338YkMsz-e1745271030562-192x101.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21140954/90360659-1744838018909148-r-319476-nzxxv2ou-216458-338YkMsz-e1745271030562-400x210.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Preston Obeidin was “a radiant light in the lives of everyone who knew him,” according to a fundraising page organized for his family.</p>
+<p>The post <a href="https://lbpost.com/news/19-year-old-long-beach-man-killed-in-crash-on-temecula-highway">19-year-old Long Beach man killed in crash on Temecula highway</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/19-year-old-long-beach-man-killed-in-crash-on-temecula-highway>
+
+---
+
+## LA Mayor Karen Bass' budget calls for over 1,600 city workers to be laid off
+
+date: 2025-04-21, updated: 2025-04-22, from: The LAist
+
+The layoffs would occur across a range of departments and affect city services. The proposal would also eliminate a number of vacant positions. 
+
+<br> 
+
+<https://laist.com/news/politics/la-mayor-karen-bass-budget-lay-offs>
+
+---
+
+## Special interests poured more than half a billion dollars into California lobbying last year
+
+date: 2025-04-21, updated: 2025-04-21, from: The LAist
+
+Google, oil companies and utilities helped push California lobbying to a record $540 million in 2024, up 10% from the year before. 
+
+<br> 
+
+<https://laist.com/news/politics/special-interests-poured-more-than-half-a-billion-dollars-into-california-lobbying-last-year>
 
 ---
 
@@ -13,7 +142,7 @@ updated: 2025-04-21 14:07:25
 
 date: 2025-04-21, from: Longbeach Post
 
-<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-1024x554.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-1024x554.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-1200x649.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4.jpg 1453w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-1024x554.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-1024x554.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-1200x649.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21131200/24c404ec-2cfb-4773-ac0a-70e3c9e34e87-012466-vo1xcvk3-138875-584iVdj4.jpg 1453w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The crash happened around 11:45 a.m. in front of the entrance to Shoreline Village.</p>
 <p>The post <a href="https://lbpost.com/news/shoreline-village-drive-crash-suv-golf-cart">Man seriously injured in crash between golf cart and SUV on Shoreline Drive, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -24,7 +153,7 @@ date: 2025-04-21, from: Longbeach Post
 
 ---
 
-## “I will miss him big time:" Southern California Catholics react to Pope Francis’ death
+## Southern California Catholics react to Pope Francis’ death: 'I will miss him big time'
 
 date: 2025-04-21, updated: 2025-04-21, from: The LAist
 

@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-04-21 14:07:26
+updated: 2025-04-22 06:09:18
 ---
 
 # science and technology
 
-(date: 2025-04-21 14:07:26)
+(date: 2025-04-22 06:09:18)
+
+---
+
+## NASA Tests Ultralight Antennas to Benefit Future National Airspace
+
+date: 2025-04-22, from: NASA breaking news
+
+NASA engineers are using one of the world’s lightest solid materials to construct an antenna that could be embedded into the skin of an aircraft, creating a more aerodynamic and reliable communication solution for drones and other future air transportation options.&#160; Developed by NASA, this ultra-lightweight aerogel antenna is designed to enable satellite communications where [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-ultralight-antennas-to-benefit-future-national-airspace/>
+
+---
+
+## <em>El Reg's</em> essential guide to deploying LLMs in production
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Running GenAI models is easy. Scaling them to thousands of users, not so much</h4> <p><strong>Hands On</strong>  You can spin up a chatbot with Llama.cpp or Ollama in minutes, but scaling large language models to handle real workloads – think multiple users, uptime guarantees, and not blowing your GPU budget – is a very different beast.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/llm_production_guide/>
+
+---
+
+## UK-based self-driving car startup Wayve heads to Japan for more driving data
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>On a road trip with an AI by your side</h4> <p>UK-based autonomous vehicle biz Wayve is continuing its global expansion by opening a testing and development center in Yokohama, Japan.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/wayve_heads_to_japan_for/>
+
+---
+
+## How to stay on Windows 10 instead of installing Linux
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Can&#39;t run Windows 11? Don&#39;t want to? There are surprisingly legal options</h4> <p>You will have to reinstall everything, but there is another way to escape the end of Windows 10 support in October – and it&#39;s cheaper than a new PC.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/windows_10_ltsc/>
+
+---
+
+## Bad trip coming for AI hype as humanity tools up to fight back
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>I was into Adversarial Noise before they were famous</h4> <p><strong>Opinion</strong>  6:56 PM. April 11, 2025. Write it down. That&#39;s the precise moment the tech-bro-niverse imploded due to the gravitational force of irony at its core. That was the moment Jack Dorsey posted &#34;Delete all IP law&#34; on X. A little later, Elon Musk added his approval with &#34;I agree.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/bad_trip_coming_for_ai/>
+
+---
+
+## Google's email spoofed by cunning phisherfolk who re-used DKIM creds
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>PLUS: Malware developers adopt Node.js; US disinformation warriors disbanded; Gig worker accounts for sale; and more</h4> <p><strong>Infosec In Brief</strong>  Email security outfit EasyDMARC recently spotted a phishing campaign that successfully spoofed Google with a sophisticated attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/security_news_in_brief/>
+
+---
+
+## It takes one click to join Uber One, but quitting might need 32 actions
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Which is one reason US regulators just sued the rideshare and delivery giant</h4> <p>The USA’s Federal Trade Commission on Monday launched a lawsuit against Uber, alleging the rideshare giant ripped off customers by enrolling them in its “Uber One” membership scheme without permission, failing to deliver promised savings, and making it devilishly difficult to opt out.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/ftc_sues_uber/>
+
+---
+
+## Africa's boardless, bossless, and generally troubled internet registry to hold elections in June
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Receiver warns of ‘potential interferences’ and appoints senior British lawyers to oversee candidate nomination process</h4> <p>The African Network Information Center (AFRINIC) will hold elections on June 23rd, perhaps giving the regional internet registry the chance to convene a board for the first time in three years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/afrinic_election_date_set/>
+
+---
+
+## Bug hunter tricked SSL.com into issuing cert for Alibaba Cloud domain in 5 steps
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>10 other certificates &#39;were mis-issued and have now been revoked&#39;</h4> <p>Certificate issuer SSL.com’s domain validation system had an unfortunate bug that was exploited by miscreants to obtain, without authorization, digital certs for legit websites.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/ssl_com_validation_flaw/>
+
+---
+
+## ChatGPT burns tens of millions of Softbank dollars listening to you thanking it
+
+date: 2025-04-21, updated: 2025-04-21, from: The Register (UK I.T. News)
+
+<h4>Sam says it&#39;s Son&#39;s money well spent</h4> <p>Conventional wisdom holds that being polite to AI chatbots makes them respond better, but no one stops to think how much energy that politeness is wasting. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/21/users_being_polite_to_chatgpt/>
+
+---
+
+## Thanks again to our outgoing sponsor: Nova Custom
+
+date: 2025-04-21, from: OS News
+
+We&#8217;d like to thank our outgoing sponsor, Nova Custom, for sponsoring OSNews! Nova Custom, based in The Netherlands, makes laptops focused on privacy, customisation, and freedom. Nova Custom laptops ship with either Linux, Windows, or no operating system, and they’re uniquely certified for Qubes OS (the V54 model will be certified soon), the ultra-secure and private operating system. On top of that, Nova Custom laptops come with Dasharo coreboot firmware preinstalled, which is completely open source, instead of a proprietary BIOS. Nova Custom can also disable the Intel Management Engine for you, and you can opt for Dasharo coreboot+Heads for the ultimate in boot security. Nova Custom offers visual customisations, too, including engraving a logo or text of your choice on the metal screen lid and/or palmrest and adding your own boot logo. They also offer privacy customisations like removing the microphone and webcam, installing a privacy screen, and more. A small touch I personally appreciate: Nova Custom offers a long, long list of keyboard layouts, as well as the option to customise the super key. Nova Custom products enjoy 3 years of warranty, as well as updates and spare parts for at least seven years after the launch of a product, which includes everything from motherboard replacements down to sets of screws. Nova Custom laptops can be configured with a wide variety of Intel processor options, as well as a choice between integrated Intel GPUs or Nvidia laptop GPUs. Thanks once again to Nova Custom for sponsoring OSNews &#8211; for a little longer than anticipated due to our weird RSS/captcha issues. 
+
+<br> 
+
+<https://www.osnews.com/story/142172/thanks-again-to-our-outgoing-sponsor-nova-custom/>
+
+---
+
+## America's National Science Foundation tells DEI, misinfo studies: You're fired
+
+date: 2025-04-21, updated: 2025-04-21, from: The Register (UK I.T. News)
+
+<h4>No one should be excluded – unless you have certain views on the Mid-East crisis</h4> <p>In line with Trump administration directives, the US government&#39;s National Science Foundation has started canceling grants for studies into workplace diversity and the spread of misinformation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/21/nsf_cancel_awards_dei/>
+
+---
+
+## NASA’s SPHEREx Team To Ring New York Stock Exchange Bell
+
+date: 2025-04-21, from: NASA breaking news
+
+Members of the team behind NASA’s newest space telescope will ring the New York Stock Exchange closing bell in New York City at 4 p.m. EDT on Tuesday, April 22. The team helped build, launch, and operates NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission to explore [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spherex-team-to-ring-new-york-stock-exchange-bell/>
+
+---
+
+## Let’s give PRO/VENIX a barely adequate, pre-C89 TCP/IP stack (featuring Slirp-CK)
+
+date: 2025-04-21, from: OS News
+
+Only a few weeks ago, I linked to Cameron Kaiser&#8217;s excellent deep dive into the DEC Professional 380 running PRO/VENIX, and now we have a follow-up. Fortunately, today we have AI we have many more excellent and comprehensive documents on the subject, and more importantly, we&#8217;ve recently brought back up an oddball platform that doesn&#8217;t have networking either: our DEC Professional 380 running the System V-based PRO/VENIX V2.0, which you met a couple articles back. The DEC Professionals are a notoriously incompatible member of the PDP-11 family and, short of DECnet (DECNA) support in its unique Professional Operating System, there&#8217;s officially no other way you can get one on a network — let alone the modern Internet. Are we going to let that stop us? ↫ Cameron Kaiser No. The answer is always no. If you&#8217;ve ever wanted to know what&#8217;s involved in setting up a custom TCP/IP stack using serial on a 40 year old UNIX workstation, your very specific desires are hereby met. 
+
+<br> 
+
+<https://www.osnews.com/story/142170/lets-give-pro-venix-a-barely-adequate-pre-c89-tcp-ip-stack-featuring-slirp-ck/>
+
+---
+
+## “How I use Kate Editor”
+
+date: 2025-04-21, from: OS News
+
+I love the Kate Text editor. I use it for pretty much all the programming projects I do. Kate has been around for long time now, about 20 years! At least earliest blog post for it I could find was written in 2004. I wanted to go over my workflow with it, why I like it so much and hopefully get more people to try it out. ↫ Akseli Lahtinen Programmers and developers tend to be very set in their ways and have their preferred workflows &#8211; which profession doesn&#8217;t, honestly &#8211; and since there&#8217;s such a wide variety of developer and programming tools out there, it feels like every single developer&#8217;s workflow and setup is entirely unique. Akseli Lahtinen, KDE developer and allround awesome person, details his setup using Kate, the venerable and feature-rich text editor from the KDE project. As someone who can&#8217;t program, I can&#8217;t really compare his workflow to my own, but what I found interesting while reading his post is that there&#8217;s quite a bit of overlap between my previous work as a translator and his work as a developer. While the contents of each individual view inside his Kate window are obviously different, the setup of windows and tools I had when translating looked very similar. This shouldn&#8217;t be surprising to me &#8211; after all, both translating and developing requires multiple work surfaces, language plugins, formatting tools, tons of keyboard shortcuts, and a whole load of browser tabs, PDF files, and other documents to find just the right translation or the perfect term, as well as a ton of background to make sure you understand the topic you&#8217;re translating about. Y&#8217;all have no idea how much I know about the deepest complex inner-workings and processes of some of the largest organisations in the world, just because I needed to study them and had access to their internal documentation and software. I also read and studied way too many complex contracts, European law, and technical studies into medicine and healthcare treatments, and I guess developers and programmers do the same thing &#8211; just focusing on different subjects. What&#8217;s the best way to do this thing in the programming language I&#8217;m using? How does this library I want to integrate work? What are the API endpoints for this service I want to use? It&#8217;s really not that different from translating, and that never really dawned on me until now. 
+
+<br> 
+
+<https://www.osnews.com/story/142168/how-i-use-kate-editor/>
 
 ---
 
@@ -30,6 +210,18 @@ date: 2025-04-21, updated: 2025-04-21, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/21/ice_enlists_palantir_to_develop/>
+
+---
+
+## Synology confirms that higher-end NAS products will require its branded drives
+
+date: 2025-04-21, from: OS News
+
+&#8220;Synology-branded drives will be needed for use in the newly announced Plus series, with plans to update the Product Compatibility List as additional drives can be thoroughly vetted in Synology systems,&#8221; a Synology representative told Ars by email. &#8220;Extensive internal testing has shown that drives that follow a rigorous validation process when paired with Synology systems are at less risk of drive failure and ongoing compatibility issues.&#8221; Without a Synology-branded or approved drive in a device that requires it, NAS devices could fail to create storage pools and lose volume-wide deduplication and lifespan analysis, Synology&#8217;s German press release stated. Similar drive restrictions are already in place for XS Plus and rack-mounted Synology models, though work-arounds exist. ↫ Kevin Purdy at Ars Technica I&#8217;m honestly surprised it&#8217;s taken Synology this long to start nickle-and-diming its users. I&#8217;m sure the &#8220;Synology-branded&#8221; drives will carry substantial markups over regular drives, despite the drives being otherwise identical. Charging insane markups for expansion options is a tried-and-true way to increase your margins, with Apple being the classic example of charging insane prices for basic RAM or SSD upgrades. I think most of us here on OSNews could easily build our own NAS, as it&#8217;s not a particularly complex project. The various software options could be a bit more complicated to navigate, but I don&#8217;t think it&#8217;s insurmountable for most of us. Normal, average people, though, would most likely do best to just buy an off-the-shelf NAS for their storage and local back-up needs, and it&#8217;s those kind of people who Synology is aiming this policy at. They&#8217;ll be easily fooled into thinking Synology-branded drives are somehow special, and not just a generic drive with a fancy sticker. This is how the world works, but that doesn&#8217;t make it any less unpleasant. 
+
+<br> 
+
+<https://www.osnews.com/story/142164/synology-confirms-that-higher-end-nas-products-will-require-its-branded-drives/>
 
 ---
 

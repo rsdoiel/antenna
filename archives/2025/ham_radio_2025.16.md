@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-04-21 14:07:26
+updated: 2025-04-22 06:09:17
 ---
 
 # ham radio
 
-(date: 2025-04-21 14:07:26)
+(date: 2025-04-22 06:09:17)
+
+---
+
+## Did you put X- and Y-capacitors on your AC input?
+
+date: 2025-04-22, from: EDN Blog
+
+<img width="1064" height="407" src="https://www.edn.com/wp-content/uploads/Fig-2-X-Y-Capacitors-AC-line.png?fit=1064%2C407" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-X-Y-Capacitors-AC-line.png?w=1064 1064w, https://www.edn.com/wp-content/uploads/Fig-2-X-Y-Capacitors-AC-line.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-X-Y-Capacitors-AC-line.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-X-Y-Capacitors-AC-line.png?w=1024 1024w" sizes="(max-width: 1064px) 100vw, 1064px" /><p>Here is how X- and Y-capacitors operate in AC power line circuits to filter EMI noise.</p>
+<p>The post <a href="https://www.edn.com/did-you-put-x-and-y-capacitors-on-your-ac-input/">Did you put X- and Y-capacitors on your AC input?</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/did-you-put-x-and-y-capacitors-on-your-ac-input/>
 
 ---
 
@@ -25,7 +39,7 @@ date: 2025-04-21, from: Amateur Radio Relay League News
 
 date: 2025-04-21, from: EDN Blog
 
-<img width="1400" height="1230" src="https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?fit=1400%2C1230" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Two generations of “box” streaming devices. Similar hardware, albeit running evolved software in the latter case. And then there was a third…</p>
+<img width="1400" height="1230" src="https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?fit=1400%2C1230" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/pcb_bottom_faraday-removal.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Two generations of “box” streaming devices. Similar hardware, albeit running evolved software in the latter case. And then there was a third…</p>
 <p>The post <a href="https://www.edn.com/walmarts-onn-4k-streaming-box-a-google-tv-upgrade-doesnt-clobber-its-cost/">Walmart’s onn. 4K streaming box: A Google TV upgrade doesn’t clobber its cost</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

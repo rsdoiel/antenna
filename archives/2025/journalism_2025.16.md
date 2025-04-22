@@ -1,11 +1,160 @@
 ---
 title: journalism
-updated: 2025-04-21 14:07:28
+updated: 2025-04-22 06:09:21
 ---
 
 # journalism
 
-(date: 2025-04-21 14:07:28)
+(date: 2025-04-22 06:09:21)
+
+---
+
+## ‘Like a warm hug’: USC Catholics reflect on Pope Francis’ life
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Pope Francis died at 88 after a life advocating for those on the margins, community members say.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/like-a-warm-hug-usc-catholics-reflect-on-pope-francis-life/">&#8216;Like a warm hug&#8217;: USC Catholics reflect on Pope Francis’ life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/like-a-warm-hug-usc-catholics-reflect-on-pope-francis-life/>
+
+---
+
+## ‘Stuff Happens’ and it happens well
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The SDA political drama transports audiences back to the theatrical politics of the 2000s.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/stuff-happens-and-it-happens-well/">&#8216;Stuff Happens&#8217; and it happens well</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/stuff-happens-and-it-happens-well/>
+
+---
+
+## A dance chameleon
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kaufman alum Jake Tribus is pushing the boundaries of what it means to be a dancer today.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/a-dance-chameleon/">A dance chameleon</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/a-dance-chameleon/>
+
+---
+
+## USC brother duo create AI-job marketplace
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Sensiply was launched to create a more human connection in the hiring process. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/usc-brother-duo-create-ai-job-marketplace/">USC brother duo create AI-job marketplace</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/usc-brother-duo-create-ai-job-marketplace/>
+
+---
+
+## USC study links coastal erosion to building collapse in Alexandria
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Researchers warn seawater intrusion and erosion could endanger global cities, including Los Angeles.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/usc-study-links-coastal-erosion-to-building-collapse-in-alexandria/">USC study links coastal erosion to building collapse in Alexandria</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/usc-study-links-coastal-erosion-to-building-collapse-in-alexandria/>
+
+---
+
+## Sad music brings me joy
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>“Sad-girl” artists always have been, and always will be, my favorite musicians.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/sad-music-brings-me-joy/">Sad music brings me joy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/sad-music-brings-me-joy/>
+
+---
+
+## UCLA alumnus centers solo play “Lymphomaniac” on cancer story, non-linear healing
+
+date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Megan Timpane is using humor to unlock raw vulnerability and humanitarian connection.
+UCLA School of Theater, Film and Television alumnus Timpane was diagnosed with stage 3 Hodgkin&#8217;s lymphoma a year after her graduation. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/21/ucla-alumnus-centers-solo-play-lymphomaniac-on-cancer-story-non-linear-healing/>
+
+---
+
+## Coachella 2025 review: High prices mean high expectations, but festival food may fail to reach that bar
+
+date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the desert, it is critical to refuel often.
+And at the Coachella Valley Music and Arts Festival, sometimes the only option for sustenance is to choose from the smorgasbord of vendors and booths selling plates of food of various cuisines. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/21/coachella-2025-review-high-prices-mean-high-expectations-but-festival-food-may-fail-to-reach-that-bar/>
+
+---
+
+## USAC recap – April 15
+
+date: 2025-04-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Student Association Council allocated over $125,000 in funding and approved the 2025-2026 election ballot during its Tuesday meeting.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/21/usac-recap-april-15-2/>
+
+---
+
+## Coachella 2025 review: Channeling country charm, Post Malone flexes strong, sincere headlining set
+
+date: 2025-04-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Post Malone had the crowd at Coachella saying &#8220;Wow.&#8221; after his headlining set.
+The 18-time Grammy nominee marked the final performance on the main Coachella Stage of the 2025 Coachella Valley Music and Arts Festival on Sunday. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/21/coachella-2025-review-channeling-country-charm-post-malone-flexes-strong-sincere-headlining-set/>
+
+---
+
+## Coachella 2025 review: From JENNIE to Zedd, closing night performances spotlight around-the-world talent
+
+date: 2025-04-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The final day of Coachella 2025 kept the heat of the festival going.
+Under the sunshine and dusty winds of Indio, California, a plethora of artists brought their music to the thousands of attendees who stuck around for the closing day of the Coachella Valley Music and Arts Festival. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/21/coachella-2025-review-from-jennie-to-zedd-closing-night-performances-spotlight-around-the-world-talent/>
 
 ---
 

@@ -1,11 +1,150 @@
 ---
 title: columns
-updated: 2025-04-21 14:07:26
+updated: 2025-04-22 06:09:19
 ---
 
 # columns
 
-(date: 2025-04-21 14:07:26)
+(date: 2025-04-22 06:09:19)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-22, from: Dave Winer's Scripting News)
+
+If you're a young person contemplating a career in tech, great! It's fun, and you can help people doing this. But please don't listen to the VCs and entrepreneurs who say it's all about changing the world. Instead think of it this way -- you're going to create tools for people who may change the world, in collaboration with lots of other people. No one person is that smart and experienced that they know what's best for the world. The stories you heard about great inventors probably aren't true. And the ones who actually changed the world, may not have changed it for the better. Look at what happened with Twitter as a cautionary tale. Imho it would have been better if the founders had made less money, and opened the door for lots of competition right from the start. That's the philosophy of the web. Instead they captured the web, amputated all its good features, and locked it in the trunk and then cut off its air supply. That was inevitable given the path they went down. Yes they changed the world, and in turn are creating a lot of misery. You don't want to do that, brilliant young tech person, right? Let's make the world better, one little evolutionary step at a time. More about this in <a href="http://scripting.com/2025/04/21/141055.html">yesterday's post</a>. And note btw that I didn't fall into the trap of blaming it on men. There are enough women entrepreneurs who do a lot of damage with their unfettered ambition that their motivations need to be looked at too. We all create each other. 
+
+<br> 
+
+<http://scripting.com/2025/04/22.html#a121317>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-22, from: Dave Winer's Scripting News)
+
+Many good points in yesterday’s unusual <a href="https://podcasts.apple.com/us/podcast/murkowski-could-lead-gop-revolt-against-trump-4-21-25/id1633301179?i=1000704258553">Olbermann podcast</a>, but the one that stuck with me is that at some point Republican incumbents will figure they don’t have a future in what Trump is trying to create and thus have everything to lose if he prevails. He thinks senator <a href="https://en.wikipedia.org/wiki/Lisa_Murkowski">Lisa Murkowski</a> (R-Alaska) may already be there. 
+
+<br> 
+
+<http://scripting.com/2025/04/22.html#a121027>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-22, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=Ozo97TTyg38">A video demo</a> that shows how to set categories in <a href="https://wordland.social/">WordLand</a>, and I ramble through lots of philosophy and trivia. But the answer is right up front so you can skip all that michegas. ;-) 
+
+<br> 
+
+<http://scripting.com/2025/04/22.html#a120031>
+
+---
+
+## How to stay on Windows 10 instead of installing Linux
+
+date: 2025-04-22, updated: 2025-04-22, from: Liam Proven's articles at the Register
+
+<h4>Can&#39;t run Windows 11? Don&#39;t want to? There are surprisingly legal options</h4>
+      <p>You will have to reinstall everything, but there is another way to escape the end of Windows 10 support in October – and it&#39;s cheaper than a new PC.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/22/windows_10_ltsc/>
+
+---
+
+## The secession of the billionaire class
+
+date: 2025-04-22, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-secession-of-the-billionaire>
+
+---
+
+## April 21, 2025
+
+date: 2025-04-22, from: Heather Cox Richardson blog
+
+Yesterday, on Easter Sunday, Pope Francis performed his final public act when he waved to worshippers in St. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-21-2025>
+
+---
+
+## Is Hegseth Headed for the Exit?
+
+date: 2025-04-21, from: Dan Rather's Steady
+
+Many in Trump&#8217;s Cabinet would fail a performance review 
+
+<br> 
+
+<https://steady.substack.com/p/is-hegseth-headed-for-the-exit>
+
+---
+
+## The Information: ‘Meta Asked Amazon, Microsoft to Help Fund Llama’
+
+date: 2025-04-21, updated: 2025-04-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/meta-asked-amazon-microsoft-help-fund-llama>
+
+---
+
+## Larry David: ‘My Dinner With Adolf’
+
+date: 2025-04-21, updated: 2025-04-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/21/opinion/larry-david-hitler-dinner.html>
+
+---
+
+## Yours Truly on The MacRumors Show
+
+date: 2025-04-21, updated: 2025-04-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/04/18/the-macrumors-show-john-gruber-apple-intelligence/>
+
+---
+
+## 8 things to know about the movie Sinners before you see it
+
+date: 2025-04-21, from: Matt Haughey blog
+
+<ol><li>It&apos;s best to go in cold. I had zero idea what the film was about, and had never seen a trailer for it. That made the impact of it hit harder. I won&apos;t spoil anything in this list.</li><li>It&apos;s visually stunning to look at.</li></ol> 
+
+<br> 
+
+<https://a.wholelottanothing.org/8-things-to-know-about-the-movie-sinners-before-you-see-it/>
+
+---
+
+##  &#8220;Chrysalis is a literary magazine by trans youth, for trans youth (created... 
+
+date: 2025-04-21, updated: 2025-04-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046682-chrysalis-is-a-literary-m>
 
 ---
 
@@ -275,10 +414,11 @@ date: 2025-04-21, from: Dave Winer's Scripting News
 date: 2025-04-21, from: Dave Winer's Scripting News
 
 <p>People who look down their noses at ChatGPT and its cousins tend to say it's not art. Hardly the most interesting thing, but as I've <a href="http://scripting.com/2025/03/28/124753.html">written</a>, art lives mostly in the mind of the viewer, it's the effect it has on the viewer -- that imho is the art. BTW I can tell when people have actually used the product, and most of the critics haven't. Sorry but until you use it you won't know how obvious that is to someone who does.</p>
-<p>A lot of what I do with ChatGPT and images is like what they do with audio <a href="https://en.wikipedia.org/wiki/Sampling_(music)">sampling</a>. I say here's a photo of me, and here's a drawing someone else did. Can you render the image of me in that style? As I did <a href="http://scripting.com/2025/04/20/200843.html">yesterday</a> with my niece's portrait of herself. Think of it as Uncle Davey viewed through the mind of Emma Louise? I don't know if it is or isn't, but that's what I think of when I see the picture. Also I think of how large it is, and how old I've gotten, realizing that picture is already two years old itself. ;-) </p>
+<p>Lately I've been interested in using ChatGPT to mash images together. <a href="http://scripting.com/2025/04/20/200843.html">Yesterday</a> I asked for a rendering of my headshot through a self-portrait of my niece. It's like <a href="https://en.wikipedia.org/wiki/Sampling_(music)">sampling</a> with music but with images. I say here's a photo of me, and here's a drawing someone else did. Can you render the image of me in that style? As I did <a href="http://scripting.com/2025/04/20/200843.html">yesterday</a> with my niece's portrait of herself. </p>
+<p>I've also been doing stories that started with an image of Mark Zuckerberg, calling him "my programmer friend" and taking him through all kinds of adventures, none of which could shake his depression. It was like the <a href="https://daytona.scripting.com/search?q=wordle%20kitty">Wordle Kitty</a> from last year, only these only went out via Facebook. I wish I had them in an easily shareable format, but next time I may start a group for them, or something else. </p>
 <p>Today I came across a cartoon of <a href="https://en.wikipedia.org/wiki/Pete_Hegseth">Pete Hegseth</a>, the US Secretary of Defense drawn by <a href="https://www.deadder.net/home">Michael de Adder</a>. I thought wow that's different. I wonder what ChatGPT would do if I asked it to render my headshot in the style of that drawing? While it was doing the work, I tried to imagine what it would do with it! Would I be wearing a military uniform? Would I salute the viewer? Would it change my expression? Here's the drawing, and below it, the rendering.</p>
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://s3.amazonaws.com/scripting.com/images/2025/04/21/hegseth.png"></center>Hegseth as drawn by de Adder.</div></p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://s3.amazonaws.com/scripting.com/images/2025/04/21/winer.png"></center>Uncle Davey rendered in the style of the Hegseth drawing.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://s3.amazonaws.com/scripting.com/images/2025/04/21/winer.png"></center>My headshot rendered in the style of the Hegseth drawing.</div></p>
  
 
 <br> 

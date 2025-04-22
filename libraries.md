@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-21 14:07:28
+updated: 2025-04-22 06:09:21
 ---
 
 # libraries
 
-(date: 2025-04-21 14:07:28)
+(date: 2025-04-22 06:09:21)
+
+---
+
+## Guest Post – Bridging the Gap: Localizing Open Science for Asia’s Research Realities
+
+date: 2025-04-22, from: Scholarly Kitchen
+
+<p>While Open Science frameworks aim for global inclusivity, their implementation often overlooks the complex, everyday realities of research communities across Asia and the Arab world.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/22/guest-post-bridging-the-gap-localizing-open-science-for-asias-research-realities/">Guest Post – Bridging the Gap: Localizing Open Science for Asia’s Research Realities</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/22/guest-post-bridging-the-gap-localizing-open-science-for-asias-research-realities/>
 
 ---
 

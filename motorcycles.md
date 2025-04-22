@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-04-21 14:07:29
+updated: 2025-04-22 06:09:22
 ---
 
 # motorcycles
 
-(date: 2025-04-21 14:07:29)
+(date: 2025-04-22 06:09:22)
+
+---
+
+## Moto YouTuber Cancels US Book Tour Over Immigration Concerns
+
+date: 2025-04-22, from: Ride Apart, Electric Motorcycle News
+
+Her first book, called Free Ride, will release in the US in June 2025. 
+
+<br> 
+
+<https://www.rideapart.com/news/757255/itchyboot-us-book-tour-canceled/>
+
+---
+
+## Polaris Patents Electric Youth ATVs and UTVs, and Has 'Return Home' for Parents
+
+date: 2025-04-22, from: Ride Apart, Electric Motorcycle News
+
+Get ready for your kids to shred in silence. 
+
+<br> 
+
+<https://www.rideapart.com/news/757242/polaris-youth-electric-atv-utv-models-patent/>
+
+---
+
+## This Indian Sportbike Could Preview What’s To Come, Japan Put on Notice
+
+date: 2025-04-22, from: Ride Apart, Electric Motorcycle News
+
+It may be a small sportbike, but it’s going big on tech and features. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757175/2025-tvs-apache-rr310-update-new-tech/>
+
+---
+
+## Jesse Little Joins Sam Hunt Racing as Vice President of Business Development
+
+date: 2025-04-21, from: Kickin the Tires blog
+
+MOORESVILLE, N.C. (April 21, 2025) — Sam Hunt, president and owner of Sam Hunt Racing (SHR), is pleased to announce the appointment of Jesse Little as Vice President of Business&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jesse-little-joins-sam-hunt-racing-as-vice-president-of-business-development/>
 
 ---
 

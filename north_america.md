@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-04-21 14:07:24
+updated: 2025-04-22 06:09:16
 ---
 
 # north america
 
-(date: 2025-04-21 14:07:24)
+(date: 2025-04-22 06:09:16)
+
+---
+
+## Words & Phrases We Could Do Without
+
+date: 2025-04-22, from: The Contrarian
+
+I&#8217;m &#8220;afraid&#8221; these lawmakers are cowardly careerists 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-e4d>
+
+---
+
+## Evening Roundup, April 21
+
+date: 2025-04-21, from: The Contrarian
+
+Tributes to Pope Francis and a discussion with Sam Sawyer; Pablo Torre & Jen Rubin launch their weekly sports feature; Mimi Rocah; Mike Zamore; Jamie Riley; Steven Cook; Brian O'Neill; & Jen Rubin 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-21>
 
 ---
 

@@ -1,11 +1,159 @@
 ---
 title: going electric
-updated: 2025-04-21 14:07:30
+updated: 2025-04-22 06:09:24
 ---
 
 # going electric
 
-(date: 2025-04-21 14:07:30)
+(date: 2025-04-22 06:09:24)
+
+---
+
+## We're At The Shanghai Auto Show To See The Future
+
+date: 2025-04-22, from: Inside EVs News
+
+China's electric car market has handily outpaced the rest of the world. From Avatr to Zeekr, we're about to experience that firsthand. 
+
+<br> 
+
+<https://insideevs.com/news/757305/2025-shanghai-auto-show-preview/>
+
+---
+
+## Tesla Is Bracing For Its Hardest Earnings Call In Years
+
+date: 2025-04-22, from: Inside EVs News
+
+Plus, Tesla faces a red alert moment if Musk doesn't retreat from Washington and VW negotiates tariff terms with Trump. 
+
+<br> 
+
+<https://insideevs.com/news/757254/tesla-earnings-call-braces-2025/>
+
+---
+
+## Does America Have Enough EV Chargers? It's Complicated
+
+date: 2025-04-22, from: Inside EVs News
+
+We dive into the state of the EV charging industry as of Q1 2025. 
+
+<br> 
+
+<https://insideevs.com/news/757262/ev-charging-industry-report-paren/>
+
+---
+
+## Tesla Q1 2025 earnings preview: it’s going to be a messy one
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) will release its Q1 2025 financial results today, Tuesday, April. 22, after the markets close. As usual, a conference call and Q&amp;A with Tesla’s management are scheduled after the results.</p>
+
+
+
+<p>Here, we’ll look at what the street and retail investors expect for the quarterly results.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="412280" href="https://electrek.co/2025/04/22/tesla-q1-2025-earnings-preview-messy-one/#more-412280" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/tesla-q1-2025-earnings-preview-messy-one/>
+
+---
+
+## Lime officially launches new e-bike and electric moped into broader sharing fleets
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/lime-glider-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Lime, a global leader in shared electric micromobility, is significantly expanding its fleet this spring with the launch of two new vehicles – the LimeBike and LimeGlider. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="411736" href="https://electrek.co/2025/04/22/lime-officially-launches-new-e-bike-and-electric-moped-into-broader-sharing-fleets/#more-411736" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/lime-officially-launches-new-e-bike-and-electric-moped-into-broader-sharing-fleets/>
+
+---
+
+## Mercedes-Benz Vision V Previews A Very Important People Carrier
+
+date: 2025-04-22, from: Inside EVs News
+
+The production-version of this hyper-luxury van will come to the U.S., Mercedes says. 
+
+<br> 
+
+<https://insideevs.com/news/757256/mercedes-vision-v-mpv-concept/>
+
+---
+
+## Tesla settles another wrongful death lawsuit that has big implications
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/02/tesla-model-s-crash-test-iihs-1.png?w=1600" /></div><p>Tesla has settled another wrongful death lawsuit, and it has significant implications based on Tesla’s legal strategy of not settling unless it is at fault.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412165" href="https://electrek.co/2025/04/21/tesla-settles-another-wrongful-death-lawsuit-implications/#more-412165" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/tesla-settles-another-wrongful-death-lawsuit-implications/>
+
+---
+
+## GM doubles down on Mexico, “no plans” to move EV production to US
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Chevy-Equinox-EV_Mexico.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Despite the will-they, won’t-they uncertainty surrounding the future of <a href="https://electrek.co/?s=tariffs">tariffs</a> and union jobs and – let’s face it – just about everything else in every industry these days, GM says it has no plans to move production of its Ultium-based EVs from Mexico to the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gm,mexico,tariffs" data-layer-viewtype="unknown" data-post-id="412192" href="https://electrek.co/2025/04/21/gm-doubles-down-on-mexico-no-plans-to-move-ev-production-to-us/#more-412192" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/gm-doubles-down-on-mexico-no-plans-to-move-ev-production-to-us/>
+
+---
+
+## $350 million autonomous equipment sale is biggest in Epiroc history
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/epiroc_main.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The mining equipment experts at Epiroc will supply a fleet of autonomous, zero-emission electric <a href="https://www.epiroc.com/en-mn/products/drill-rigs/surface-blasthole-drill-rigs/pit-viper-271-e" target="_blank" rel="noreferrer noopener nofollow">Pit Viper 271E</a> and <a href="https://www.epiroc.com/en-nl/newsroom/2024/epiroc-field-trials-battery-electric-smartrocd65be-with-capital-limited" target="_blank" rel="noreferrer noopener nofollow">SmartROC D65 BE</a> drill rigs at a number of Australian mines operated by multinational metals firm, Fortescue.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-heavy-machinery,fortescue,mining" data-layer-viewtype="unknown" data-post-id="412174" href="https://electrek.co/2025/04/21/350-million-autonomous-equipment-sale-is-biggest-in-epiroc-history/#more-412174" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/350-million-autonomous-equipment-sale-is-biggest-in-epiroc-history/>
+
+---
+
+## FERC: Solar + wind made up 98% of new US power generating capacity in Jan-Feb 2025
+
+date: 2025-04-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Vista-Sand-Solar-Farm.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Solar and wind accounted for almost 98% of new US electrical generating capacity added in the first two months of 2025, according to new Federal Energy Regulatory Commission (FERC) data reviewed by the SUN DAY Campaign.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,ferc,solar,oil-and-gas,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="412156" href="https://electrek.co/2025/04/21/ferc-solar-wind-jan-feb-2025/#more-412156" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/21/ferc-solar-wind-jan-feb-2025/>
 
 ---
 

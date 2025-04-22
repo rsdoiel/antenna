@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-04-21 14:07:27
+updated: 2025-04-22 06:09:20
 ---
 
 # games
 
-(date: 2025-04-21 14:07:27)
+(date: 2025-04-22 06:09:20)
+
+---
+
+## Netflix’s Too Hot to Handle mobile games healed my jaded microtransaction-weary heart
+
+date: 2025-04-22, updated: 2025-04-21, from: Polygon Website
+
+On a whim, I decided to try out Netflix’s Too Hot to Handle mobile game, based on the streaming service’s raunchy reality dating show. And now I can’t stop playing it. I’ve spent many late nights curled up in bed, watching my little character make terrible romantic choices, befriend people in the luxury villa, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mobile/562174/netflix-too-hot-to-handle-mobile-game-good-visual-novel-mobile-romance>
+
+---
+
+## Can Morelull be shiny in Pokémon Go?
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Morelull, the illuminating Pokémon from Alola, can be found in the wild in Pokémon Go. Yes, Morelull can be shiny in Pokémon Go! Neither of these mushroom Pokémon see any use in raids, gyms, or PvP content. Their shinies are great, since they go from a spring coloring to a nice autumn red-yellow-brown. What is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic>
+
+---
+
+## All ‘A New Clue’ book puzzles in Blue Prince and how to solve them
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+“A New Clue” is a book that can be purchased from the Bookshop in Blue Prince. Written by Mary Marigold, “A New Clue” is full of riddles and hints in which you constantly hit wall after wall. To make things worse, there are clues relating to major keys, other books, and hidden signs — as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/561038/a-new-clue-book-puzzles-how-to-solve-all-solutions>
+
+---
+
+## ‘Please don’t punish others for our mistakes’: Concord dev thinks Marathon deserves a chance
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+Bungie’s recent Marathon stream where it showed early footage of the first-person extraction shooter sparked skepticism on social media and Reddit, prompting some people to predict it will suffer the same fate as Concord, the hero shooter that Sony took offline less than a month after its release. In response, a former Concord developer made [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/562415/concord-developer-on-bungie-marathon>
+
+---
+
+## Get every Oddworld game for just $1
+
+date: 2025-04-21, updated: 2025-04-21, from: Polygon Website
+
+Oddworld is an extremely weird franchise that possesses some truly memorable aesthetics and unique gameplay. If you’ve never had a chance to experience this peculiar wrinkle in gaming history, you can currently pick up all eight games in the Oddworld franchise for just $1 from Fanatical. Included in this bundle, you’ll find the two original [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/562276/oddworld-strangers-wrath-fanatical-bundle-sale>
 
 ---
 

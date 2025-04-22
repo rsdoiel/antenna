@@ -1,11 +1,105 @@
 ---
 title: snapshots
-updated: 2025-04-21 14:07:31
+updated: 2025-04-22 06:09:25
 ---
 
 # snapshots
 
-(date: 2025-04-21 14:07:31)
+(date: 2025-04-22 06:09:25)
+
+---
+
+## "Abundance" is a book for an alternate timeline 
+
+date: 2025-04-22, from: Dave Karpf's blog
+
+There are many good ideas in Klein and Thompson's book, but no solutions to the crisis we now face. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/abundance-is-a-book-for-an-alternate>
+
+---
+
+## Stop! In the Name of Trump!
+
+date: 2025-04-22, from: Paul Krugman
+
+A sudden-stop crisis comes to America 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/stop-in-the-name-of-trump>
+
+---
+
+## Vibe Coding, Vibe Checking, and Vibe Blogging
+
+date: 2025-04-22, from: O'Reilly Radar
+
+For the past decade and a half, I&#8217;ve been exploring the intersection of technology, education, and design as a professor of cognitive science and design at UC San Diego. Some of you might have read my recent piece for O&#8217;Reilly Radar where I detailed my journey adding AI chat capabilities to Python Tutor, the free [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/vibe-coding-vibe-checking-and-vibe-blogging/>
+
+---
+
+## Working Through the Fear of Being Seen
+
+date: 2025-04-22, updated: 2025-04-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://ashley.dev/posts/fear-of-being-seen/">Working Through the Fear of Being Seen</a></strong></p>
+Heartfelt piece by Ashley Willis about the challenge of overcoming self-doubt in publishing online:</p>
+<blockquote>
+<p>Part of that is knowing who might read it. A lot of the folks who follow me are smart, opinionated, and not always generous. Some are friends. Some are people I’ve looked up to. And some are just really loud on the internet. I saw someone the other day drag a certain writing style. That kind of judgment makes me want to shrink back and say, never mind.</p>
+</blockquote>
+<p>Work to avoid being somebody who discourages others from sharing their thoughts.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/ashley.dev/post/3lneixhjamk2i">@ashley.dev</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/22/working-through-the-fear-of-being-seen/#atom-everything>
+
+---
+
+## Blue Checkmark Revival
+
+date: 2025-04-22, updated: 2025-04-22, from: Tedium site
+
+It took a little bit, but Bluesky found a way around its pesky extortion problem. That solution: The same one the former Twitter ditched just two years ago. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17011940/bluesky-blue-checkmark-revival-analysis>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-22, from: Feed for Alt USDS)
+
+Nope nope nope. This is not what we used our technical skills for. This is not what government data is for. Our friends and family who are autistic are not this regime's test subjects.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lneonqkgvc2d>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-22, from: Feed for Alt USDS)
+
+The NLRB whistleblower report paints a chilling picture: when oversight fails, real damage follows. Let's talk about it:
+
+🔗  https://open.substack.com/pub/altusds/p/when-the-watchdogs-are-silenced?r=5fies6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnejugngna2o>
 
 ---
 
@@ -18,6 +112,62 @@ Wasmtime is a lightweight WebAssembly runtime built for speed, security, and sta
 <br> 
 
 <https://bytecodealliance.org/articles/wasmtime-lts>
+
+---
+
+## 42 Free and Open Source Projects Receive Funding to Reclaim the Public Nature of the Internet
+
+date: 2025-04-22, updated: 2025-04-22, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-21, from: Dave Winer's linkblog)
+
+Evolution is the result of lots of infinitesimal events, not some great god-like creation that young people tend to dream of. 
+
+<br> 
+
+<http://scripting.com/2025/04/21/141055.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-21, from: Dave Winer's linkblog)
+
+US intelligence has determined that the Venezuelan government is not directing an invasion of the United States by the prison gang Tren de Aragua. 
+
+<br> 
+
+<https://wapo.st/3YG1FPg>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-21, from: Dave Winer's linkblog)
+
+Today&#39;s Olbermann podcast is a must-listen. 
+
+<br> 
+
+<https://podcasts.apple.com/us/podcast/murkowski-could-lead-gop-revolt-against-trump-4-21-25/id1633301179?i=1000704258553>
+
+---
+
+## Vivo X200 Ultra smartphone is made for photography (especially with an optional Photographer Kit)
+
+date: 2025-04-21, from: Liliputing
+
+<p>The Vivo X200 Ultra is a premium smartphone with high-end specs including a 6.82 inch, 3168 x 1440 pixel, 120 Hz AMOLED display, a Qualcomm Snapdragon 8 Elite processor, and up to 16GB of RAM of 1TB of storage. But it&#8217;s the phone&#8217;s high-end camera system that really makes it stand out. Not only are there [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/vivo-x200-ultra-smartphone-is-made-for-photography-especially-with-an-optional-photographer-kit/">Vivo X200 Ultra smartphone is made for photography (especially with an optional Photographer Kit)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/vivo-x200-ultra-smartphone-is-made-for-photography-especially-with-an-optional-photographer-kit/>
 
 ---
 
@@ -488,6 +638,18 @@ technical failures, and ethical disappointments.
 <br> 
 
 <https://xn--gckvb8fzb.com/i-do-not-recommend-proton-mail/>
+
+---
+
+## Eleven new projects for NGI Pilots
+
+date: 2025-04-21, updated: 2025-04-21, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250421-project-selection-pilots.html>
 
 ---
 

@@ -1,11 +1,231 @@
 ---
 title: food
-updated: 2025-04-21 14:07:30
+updated: 2025-04-22 06:09:24
 ---
 
 # food
 
-(date: 2025-04-21 14:07:30)
+(date: 2025-04-22 06:09:24)
+
+---
+
+## Why Food Is the Most Democratic Art Form
+
+date: 2025-04-22, from: Bon Appetet
+
+Editor in Chief Jamila Robinson talks about how art influences everything we eat. 
+
+<br> 
+
+<https://www.bonappetit.com/story/food-is-art-and-our-latest-issue-proves-it>
+
+---
+
+## Spinach Shrimp Fettuccine
+
+date: 2025-04-22, from: Taste of Home
+
+Spinach shrimp fettuccine cooks in less than 10 minutes but tastes like a fancy restaurant dish. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/spinach-shrimp-fettuccine/>
+
+---
+
+## A Glasgow Guide For The 2025 Glasgow Coffee Festival
+
+date: 2025-04-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A food and drink and what to do guide to Glasgow, Scotland. 
+
+<br> 
+
+<https://sprudge.com/a-glasgow-guide-for-the-2025-glasgow-coffee-festival-244004.html>
+
+---
+
+## 72 Hours in Houston: Must-Visit Coffee Shops During the 2025 Specialty Coffee Expo
+
+date: 2025-04-22, from: The Fresh Cup
+
+<p>What to see, sip, and do during the Specialty Coffee Expo in Houston, from staff favorites to community-sourced recommendations. </p>
+<p>The post <a href="https://freshcup.com/72-hours-in-houston-must-visit-coffee-shops-during-the-2025-specialty-coffee-expo/">72 Hours in Houston: Must-Visit Coffee Shops During the 2025 Specialty Coffee Expo</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/72-hours-in-houston-must-visit-coffee-shops-during-the-2025-specialty-coffee-expo/>
+
+---
+
+## Coffee is the Most-Consumed Beverage in the US, Report Says
+
+date: 2025-04-22, from: The Fresh Cup
+
+<p>New data shows that two-thirds of Americans drank coffee in the past day—more people turn to coffee than bottled water, juice, tea, and soda. </p>
+<p>The post <a href="https://freshcup.com/coffee-is-the-most-consumed-beverage-in-the-us-report-says/">Coffee is the Most-Consumed Beverage in the US, Report Says</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-is-the-most-consumed-beverage-in-the-us-report-says/>
+
+---
+
+## Fellow Espresso Series 1 Preview: Café Coffee, None of the Work
+
+date: 2025-04-22, from: Bon Appetet
+
+It pulls the best features of home and professional machines to create something that comes closer than anything else I’ve used to being the one espresso maker to rule them all. 
+
+<br> 
+
+<https://www.bonappetit.com/story/fellow-espresso-series-one-review>
+
+---
+
+## Green Falafel Smash Burgers
+
+date: 2025-04-22, from: Bon Appetet
+
+Herby chickpea falafel gets the veggie burger treatment with harissa mayo and pickled onion. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/green-falafel-smash-burgers>
+
+---
+
+## My Quest for the Best Pintxo in Basque Country
+
+date: 2025-04-22, from: Bon Appetet
+
+Amid the cured anchovies, caramelized hunks of tortilla, and Gilda skewers, an unexpected encounter linked me to my past. 
+
+<br> 
+
+<https://www.bonappetit.com/story/basque-country-pintxos>
+
+---
+
+## Scallops With Creamy Spinach Sauce
+
+date: 2025-04-22, from: Bon Appetet
+
+Buttery scallops pair with a verdant spinach purée for a restaurant-worthy dish. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/scallops-with-creamy-spinach-sauce>
+
+---
+
+## Scallion-Speckled Rice
+
+date: 2025-04-22, from: Bon Appetet
+
+Scallion-infused oil, or pa gireum in Korean, is a fragrant way to upgrade a pot of rice. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/scallion-speckled-rice>
+
+---
+
+## Shrimp and Pea Pancake
+
+date: 2025-04-22, from: Bon Appetet
+
+Inspired by Korean pajeon, this shrimp-studded pancake features fresh snap peas as a spring-y addition. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/shrimp-and-pea-pancakes>
+
+---
+
+## Oyakodon
+
+date: 2025-04-22, from: Bon Appetet
+
+This classic Japanese comfort food is a combination of chicken and egg (oyako means “parent and child”) simmered in sweet-savory broth and served over rice. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/oyakodon>
+
+---
+
+## Strawberry-Rhubarb Cheesecake Bars
+
+date: 2025-04-22, from: Bon Appetet
+
+These bright cheesecake bars feature spring’s favorite flavor duo and a Triscuit cracker crust. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/strawberry-rhubarb-cheesecake-bars>
+
+---
+
+## Violet Vodka Slushy
+
+date: 2025-04-22, from: Bon Appetet
+
+Crème de violette is an exuberantly floral violet liqueur that gives vibrant color to this fun frozen cocktail. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/violet-vodka-slushy>
+
+---
+
+## Of All the Rice Hacks, This Is My Favorite
+
+date: 2025-04-22, from: Bon Appetet
+
+Learned from my mom, this simple scallion oil transforms a dish. 
+
+<br> 
+
+<https://www.bonappetit.com/story/my-favorite-scallion-oil-rice>
+
+---
+
+## Surprisingly Satisfying Cauliflower Chowder
+
+date: 2025-04-22, from: Bon Appetet
+
+Dive into this creamy cauliflower and potato chowder for a comforting vegetarian meal. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/surprisingly-satisfying-cauliflower-chowder>
+
+---
+
+## Red Pepper–Anchovy Toasts
+
+date: 2025-04-22, from: Bon Appetet
+
+This stunner of an appetizer comes together with boquerones and a few pantry staples. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/red-pepper-anchovy-toasts>
+
+---
+
+## Popover-Topped Pot Pie
+
+date: 2025-04-22, from: Bon Appetet
+
+A lofty popover replaces pie crust in this vegetarian pot pie filled with potatoes, carrots, celery, peas, and asparagus. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/popover-topped-pot-pie>
 
 ---
 

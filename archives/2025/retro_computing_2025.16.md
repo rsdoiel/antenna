@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-21 14:07:29
+updated: 2025-04-22 06:09:23
 ---
 
 # retro computing
 
-(date: 2025-04-21 14:07:29)
+(date: 2025-04-22 06:09:23)
+
+---
+
+## Rougol Talk April 2025 - Chris Dewhurst
+
+date: 2025-04-22, from: Icon Bar, RISC OS News
+
+The April 2025 talk featured Chris Dewhurst 'zooming' in from North-East Scotland to tell us about Drag'n'Drop and his related RISC OS activities. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2195.html>
 
 ---
 
