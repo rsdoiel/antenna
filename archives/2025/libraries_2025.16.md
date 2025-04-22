@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-22 06:09:21
+updated: 2025-04-22 14:07:57
 ---
 
 # libraries
 
-(date: 2025-04-22 06:09:21)
+(date: 2025-04-22 14:07:57)
 
 ---
 
@@ -23,11 +23,23 @@ date: 2025-04-22, from: Scholarly Kitchen
 
 ---
 
+## Auf dem Weg zu Net Zero
+
+date: 2025-04-22, from: ETH Zurich, recently added
+
+Lucas, Daniel 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732065>
+
+---
+
 ## Day in Review (April 21–24)
 
 date: 2025-04-21, from: Association of Research Libraries News
 
-<p>Last Updated on April 21, 2025, 3:36 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 22 &#124; Wednesday, April 23 &#124; Thursday,...</p>
+<p>Last Updated on April 22, 2025, 3:07 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 22 &#124; Wednesday, April 23 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-21-24/">Day in Review (April 21–24)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

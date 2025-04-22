@@ -1,11 +1,153 @@
 ---
 title: north america
-updated: 2025-04-22 06:09:16
+updated: 2025-04-22 14:07:52
 ---
 
 # north america
 
-(date: 2025-04-22 06:09:16)
+(date: 2025-04-22 14:07:52)
+
+---
+
+## Banned books and white Christian nationalism: Robert P. Jones in discussion with Jen Rubin
+
+date: 2025-04-22, from: The Contrarian
+
+"I'm afraid that if we're counting on white Evangelicals to pump the brakes, we shouldn't be holding our breath" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161489488/14db0321febcaa69b3df7d1aeebabcf8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161489488/14db0321febcaa69b3df7d1aeebabcf8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/banned-books-and-white-christian>
+
+---
+
+## Note to media: For heaven’s sake, fact check Trump’s team
+
+date: 2025-04-22, from: The Contrarian
+
+Week after week, Trump administration officials repeat the same bad information on Sunday morning talk shows. It doesn't have to be this way. 
+
+<br> 
+
+<https://contrarian.substack.com/p/note-to-media-for-heavens-sake-fact>
+
+---
+
+## Signaling secrets
+
+date: 2025-04-22, from: The Contrarian
+
+A cartoon by Michael de Adder. 
+
+<br> 
+
+<https://contrarian.substack.com/p/signaling-secrets>
+
+---
+
+##  Meta Foots Zuckerberg’s $24 Million “Personal Security” Bill 
+
+date: 2025-04-22, from: The Lever News
+
+ While Meta’s CEO gets paid a $1 annual salary, filings reveal the company shelled out $24 million last year for his personal security and private jet travel.  
+
+<br> 
+
+<https://www.levernews.com/meta-foots-zuckerbergs-24-million-personal-security-bill/>
+
+---
+
+## Let’s do lunch!
+
+date: 2025-04-22, from: The Contrarian
+
+Realtime Econ Q&A with Jared Bernstein and Justin Wolfers 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161897279/1d644e8b5bf0b1c642d4ef42d4a2cec4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161897279/1d644e8b5bf0b1c642d4ef42d4a2cec4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch>
+
+---
+
+## A War Worth Winning
+
+date: 2025-04-22, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-war-worth-winning>
+
+---
+
+## Tijuana Shelter Director Has Simple Solution for Changing Border Policies: Adapt
+
+date: 2025-04-22, from: Capital and Main
+
+<p>Casa del Migrante has hosted migrants since 1987, but with the Trump administration slashing foreign aid, the shelter is navigating a new way forward.</p>
+<p>The post <a href="https://capitalandmain.com/tijuana-shelter-director-has-simple-solution-for-changing-border-policies-adapt">Tijuana Shelter Director Has Simple Solution for Changing Border Policies: Adapt</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/tijuana-shelter-director-has-simple-solution-for-changing-border-policies-adapt>
+
+---
+
+## Stronger Together: Liz Shuler on the Power of Labor Unions
+
+date: 2025-04-22, from: The Contrarian
+
+"When you have unions, negotiate a contract or collective bargaining agreement in a workplace, it inevitably lifts the standards for all working people" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161835392/303b68a84452d5dc1cbdd6c7da5887f2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161835392/303b68a84452d5dc1cbdd6c7da5887f2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/stronger-together-liz-shuler-on-the>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-22, from: The Contrarian
+
+Tuesday: 50501 protests in Montana, Oregon, Maine, Idaho and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Morning Roundup, April 22
+
+date: 2025-04-22, from: The Contrarian
+
+Featuring Brian Hauss & Jen Rubin in conversation, plus our weekly Word or Phrase We Could Do Without 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-april-22>
+
+---
+
+## Where is Rumeysa Ozturk? Brian Hauss on Tuft Student's Case 
+
+date: 2025-04-22, from: The Contrarian
+
+"The government can't throw you in a detention facility because it doesn't like what you have to say, and that's absolutely what they're doing here" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161825253/a9ebaca1af10cb8b843f8fe7a64ec5c9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161825253/a9ebaca1af10cb8b843f8fe7a64ec5c9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/where-is-rumeysa-ozturk-brian-hauss>
 
 ---
 
@@ -184,18 +326,6 @@ Early Saturday morning, the Supreme Court dropped an emergency decision blocking
 </audio> <a href="https://api.substack.com/feed/podcast/161802211/efc15c0826914f11c71ec0a1f8f7d002.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/mike-zamore-on-midnight-scotus-ruling>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-21, from: The Contrarian
-
-Monday: 50501 protests drew thousands all across the country on the 250th anniversary of the American Revolution. Today, images from Massachusetts, Delaware, and Alaska. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

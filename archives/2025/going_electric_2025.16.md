@@ -1,11 +1,183 @@
 ---
 title: going electric
-updated: 2025-04-22 06:09:24
+updated: 2025-04-22 14:07:59
 ---
 
 # going electric
 
-(date: 2025-04-22 06:09:24)
+(date: 2025-04-22 14:07:59)
+
+---
+
+## Tesla (TSLA) begins to shy away from growth guidance after terrible quarter
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600" /></div><p>Tesla (TSLA) is no longer confidently stating growth in its automotive business for 2025, and it has delayed updating its guidance until the next quarter after a disappointing performance in the first three months of the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412383" href="https://electrek.co/2025/04/22/tesla-tsla-shy-away-growth-guidance-after-terrible-quarter/#more-412383" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/tesla-tsla-shy-away-growth-guidance-after-terrible-quarter/>
+
+---
+
+## US DC fast charging network surges past 55K ports – and it’s getting more reliable
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Ford-NACS-adapters-EV-Mach-E.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>US DC fast charging is becoming more reliable, and charging stations are getting bigger and busier, according to a new <a href="https://www.paren.app/reports" target="_blank" rel="noreferrer noopener">Q1 2025 report</a> from the EV data analysts at <a href="https://www.paren.app/" target="_blank" rel="noreferrer noopener">Paren</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-charging,ev-charging-stations,inflation-reduction-act,nevi,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="412361" href="https://electrek.co/2025/04/22/us-dc-fast-charging-network-surges-past-55k-ports-more-reliable/#more-412361" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/us-dc-fast-charging-network-surges-past-55k-ports-more-reliable/>
+
+---
+
+## Tesla (TSLA) Q1 2025 financial results: missed big on already terrible expectations
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/Tesla-Hero-average-price.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) released its financial results and shareholders’ letter for the first quarter (Q1) and full-year 2025 after market close today.</p>
+
+
+
+<p>We are updating this post with all the details from the financial results, shareholders’ letter, and the conference call later tonight. Refresh for the latest information.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="412360" href="https://electrek.co/2025/04/22/tesla-tsla-q1-2025-financial-results/#more-412360" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/tesla-tsla-q1-2025-financial-results/>
+
+---
+
+## Even Rich People Don't Want To Pay A Monthly Subscription For Heated Seats
+
+date: 2025-04-22, from: Inside EVs News
+
+Lincoln realized that luxury customers don't want to pay for subscriptions, so it baked the cost into the vehicle price instead. 
+
+<br> 
+
+<https://insideevs.com/news/757387/lincoln-premium-customers-no-subscriptions/>
+
+---
+
+## Most EV Buyers In The U.S. Won’t Buy A Gas Car Again: Study
+
+date: 2025-04-22, from: Inside EVs News
+
+Not everyone wants an EV. But those who have them don't seem to miss gas. 
+
+<br> 
+
+<https://insideevs.com/news/757390/us-ev-buyers-dont-return-to-gas-cars/>
+
+---
+
+## Save exclusive $2,000 on EcoFlow DELTA Pro Ultra station at new low, Jackery Explorer 1000 v2 + 100 Plus bundle $499, EGO tools, more
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/EcoFlow-DELTA-Pro-Ultra-2.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>It’s officially Earth Day and we’ve got another lineup of Green Deals to electrify your life with an take the strain off Mother Earth, starting with the exclusive new low price we’ve secured on <a href="https://9to5toys.com/2025/04/22/ecoflow-delta-pro-ultra-exclusive-new-3799-low/">EcoFlow’s DELTA Pro Ultra</a> Portable Power Station that has dropped to <a href="https://9to5toys.com/2025/04/22/ecoflow-delta-pro-ultra-exclusive-new-3799-low/">$3,799</a>. Right behind it is another backup power solution in the form of Jackery’s bundled <a href="https://9to5toys.com/2025/04/22/jackery-explorer-1000-v2-and-100-plus-bundle-499/">Explorer 1000 v2 and Explorer 100 Plus</a> stations that cover your on-the-go needs at <a href="https://9to5toys.com/2025/04/22/jackery-explorer-1000-v2-and-100-plus-bundle-499/">$499</a>. You can also score <a href="https://9to5toys.com/2025/04/22/56v-ego-powerload-trimmer-670-cfm-blower-combo-320/">EGO’s 56V bundle combo</a> that gives you a 15-inch POWERLOAD String Trimmer and 670 CFM blower with a 4.0Ah battery at <a href="https://9to5toys.com/2025/04/22/56v-ego-powerload-trimmer-670-cfm-blower-combo-320/">$320</a>, as well as <a href="https://9to5toys.com/2025/04/22/goal-zero-alta-50-and-80-from-640/">Goal Zero’s Alta 50 and 80</a> Portable Fridge/Freezer models starting from <a href="https://9to5toys.com/2025/04/22/goal-zero-alta-50-and-80-from-640/">$640</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, collected together in our <a href="https://9to5toys.com/2025/04/22/ongoing-eco-friendly-deals-from-30/">Earth Day savings hub</a>.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="412351" href="https://electrek.co/2025/04/22/ecoflow-delta-pro-ultra-new-low-jackery-bundle-ego-more/#more-412351" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/ecoflow-delta-pro-ultra-new-low-jackery-bundle-ego-more/>
+
+---
+
+## Oh Great, Mercedes Is Also Doing Steering Yokes
+
+date: 2025-04-22, from: Inside EVs News
+
+Mercedes is copying Tesla's homework, and yes, that includes slapping a yoke in its cars. 
+
+<br> 
+
+<https://insideevs.com/news/757337/mercedes-steer-by-wire-yoke/>
+
+---
+
+## CATL’s Sodium-Ion EV Battery Loves The Cold
+
+date: 2025-04-22, from: Inside EVs News
+
+The world’s first mass-produced sodium-ion EV batteries are here... and they’re range and charging monsters. 
+
+<br> 
+
+<https://insideevs.com/news/757347/catl-sodium-ion-ev-battery-loves-cold/>
+
+---
+
+## State treasurers ask Tesla’s board (TSLA) to do its job and Rein in Elon Musk
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-killer.png?w=1600" /></div><p>Tesla (TSLA) board members have received a wake-up call letter from eight state treasurers, asking them to fulfill their duties and supervise the company’s CEO, Elon Musk.</p>
+
+
+
+<p> Will they ignore this warning as well?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412341" href="https://electrek.co/2025/04/22/state-treasurers-ask-teslas-board-tsla-to-do-job-reign-in-elon-musk/#more-412341" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/state-treasurers-ask-teslas-board-tsla-to-do-job-reign-in-elon-musk/>
+
+---
+
+## Volkswagen Wants A China Comeback With These New Cars
+
+date: 2025-04-22, from: Inside EVs News
+
+The ID. Evo, ID. Aura and ID. Era concepts are "specifically tailored to the needs of Chinese customers." But will those customers show up? 
+
+<br> 
+
+<https://insideevs.com/news/757357/vw-id-evo-aura-era-shanghai/>
+
+---
+
+## Billionaire battle: Bezos’ $25K Slate EV breaks cover ahead of Tesla earnings call
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/bezos-musk.png?w=1600" /></div><p><a href="https://electrek.co/2025/03/28/what-is-slate-a-stealthy-new-american-ev-automaker-promises-to-be-a-game-changer/">Little is known about super-secretive EV startup Slate</a>, but the fledgling brand is rumored to be backed by Jeff Bezos and determined to shake up the existing electric order with an affordable lineup of compact SUVs and pickups with that golden $25,000 price tag. </p>
+
+
+
+<p>Now, at least, we know what it’s gonna look like. <strong>The battle of the billionaires is on</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,jeff-bezos,slate-ev" data-layer-viewtype="unknown" data-post-id="412319" href="https://electrek.co/2025/04/22/billionaire-battle-bezos-25k-ev-breaks-cover-ahead-of-tesla-q1-earnings-call/#more-412319" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/billionaire-battle-bezos-25k-ev-breaks-cover-ahead-of-tesla-q1-earnings-call/>
 
 ---
 
@@ -109,11 +281,15 @@ date: 2025-04-22, from: Electrek Feed
 
 ---
 
-## GM doubles down on Mexico, “no plans” to move EV production to US
+## Despite tariffs, GM continues to produce EVs in Mexico [update]
 
 date: 2025-04-21, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Chevy-Equinox-EV_Mexico.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Despite the will-they, won’t-they uncertainty surrounding the future of <a href="https://electrek.co/?s=tariffs">tariffs</a> and union jobs and – let’s face it – just about everything else in every industry these days, GM says it has no plans to move production of its Ultium-based EVs from Mexico to the US.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Chevy-Equinox-EV_Mexico.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Despite the will-they, won’t-they uncertainty surrounding the future of <a href="https://electrek.co/?s=tariffs">tariffs</a> and union jobs and – let’s face it – just about everything else in every industry these days, GM continues to build its Ultium-based EVs in Mexico.</p>
+
+
+
+<p><strong>Update 22APR25</strong>: corrected the translation from Milenio.</p>
 
 
 
@@ -225,11 +401,11 @@ If the U.S. backpedals on clean energy and EVs, the rest of the world will move 
 
 ---
 
-## ArcBest Freight and logistics company deploys 14 electric terminal tractors
+## ArcBest freight and logistics company deploys 14 electric terminal tractors
 
 date: 2025-04-21, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Orange_EV_ABF_Freight_Truck2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>LTL carrier ArcBest Freight (ABF) announced plans to add five new Orange EV electric terminal tractors to its existing ZEV fleet, bringing its total deployment of these battery electric HDEVs to 14 … with even more to come.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Orange_EV_ABF_Freight_Truck2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>LTL carrier ABF Freight (an ArcBest company) announced plans to add five new Orange EV electric terminal tractors to its existing ZEV fleet, bringing its total deployment of these battery electric HDEVs to 14 … with even more to come.</p>
 
 
 

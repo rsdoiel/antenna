@@ -1,11 +1,89 @@
 ---
 title: journalism
-updated: 2025-04-22 06:09:21
+updated: 2025-04-22 14:07:56
 ---
 
 # journalism
 
-(date: 2025-04-22 06:09:21)
+(date: 2025-04-22 14:07:56)
+
+---
+
+## Bruin to Bruin: Megan Mullin on Turning Environmental Passion into Policy
+
+date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Podcasts contributor Megan Vahdat sits down with UCLA professor and political scientist Megan Mullin to discuss the growing polarization in environmental politics, the aftermath of the 2025 Los Angeles County fires and her personal journey as an environmental advocate. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/bruin-to-bruin-megan-mullin-on-turning-environmental-passion-into-policy/>
+
+---
+
+## Miky Lee named SCA commencement speaker
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The award-winning executive was set to speak last year but was unable to due to scheduling conflicts.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/miky-lee-named-sca-commencement-speaker/">Miky Lee named SCA commencement speaker</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/miky-lee-named-sca-commencement-speaker/>
+
+---
+
+## Q&A: Jennifer Chang on her past pursuits, future endeavors on the stage
+
+date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jennifer Chang drives the show in theater and dialogue.
+An associate professor at the UCLA School of Theater, Film and Television, Chang has done it all as a multihyphenate director, playwright and actor. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/qa-jennifer-chang-on-her-past-pursuits-future-endeavors-on-the-stage/>
+
+---
+
+## Thornton announces Remi Wolf as commencement speaker
+
+date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The acclaimed musician and Thornton alum will also receive the Outstanding Alumni Award at the ceremony.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/22/thornton-announces-remi-wolf-as-commencement-speaker/">Thornton announces Remi Wolf as commencement speaker</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/22/thornton-announces-remi-wolf-as-commencement-speaker/>
+
+---
+
+## Guide to Editing Photos
+
+date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/guide-to-editing-photos/>
+
+---
+
+## Grammy-winning alumnus Sara Bareilles to be 2025 UCLA College commencement speaker
+
+date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA alumnus and Grammy Award-winning musician Sara Bareilles will speak at the College of Letters and Science commencement ceremonies June 13.&#160;
+Bareilles, who graduated from UCLA with a bachelor’s degree in communication in 2003, will deliver the keynote speech at each of the three UCLA College commencement ceremonies, which are scheduled for 11 a.m., 3 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/grammy-winning-alumnus-sara-bareilles-to-be-2025-ucla-college-commencement-speaker/>
 
 ---
 
@@ -216,7 +294,7 @@ The United States has revoked more than 1,500 visas across students and graduate
 
 date: 2025-04-21, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated April 21 at 12:02 p.m.</em>
+<em>This post was updated April 22 at 9:41 a.m.</em>
 Paul Boxer thinks “an attack on one is an attack on all” when it comes to the Trump administration threatening United States universities. 
 
 <br> 

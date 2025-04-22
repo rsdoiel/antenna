@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-04-22 06:09:22
+updated: 2025-04-22 14:07:58
 ---
 
 # motorcycles
 
-(date: 2025-04-22 06:09:22)
+(date: 2025-04-22 14:07:58)
+
+---
+
+## Watch Stone Cold Steve Austin Crash an ATV at WrestleMania, Has WWE Worried
+
+date: 2025-04-22, from: Ride Apart, Electric Motorcycle News
+
+This was not part of the show. 
+
+<br> 
+
+<https://www.rideapart.com/news/757253/stone-cole-steve-austin-atv-fan-crash/>
+
+---
+
+## EV Motorcycle Company Ultraviolette Inks Deal For European Distribution
+
+date: 2025-04-22, from: Ride Apart, Electric Motorcycle News
+
+Does the F77 Mach 2 Recon have what it takes to go up against the big players of Europe’s EV motorcycle market?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757166/ultraviolette-eu-distribution-motomondo-partnership/>
+
+---
+
+## KTM Won't Cover Airfare, But You Could 'Win' a Trip By Buying a Dirt Bike
+
+date: 2025-04-22, from: Ride Apart, Electric Motorcycle News
+
+Come on, folks, buy something! Please... 
+
+<br> 
+
+<https://www.rideapart.com/news/757250/ktm-austria-erzbergrodeo-buy-exc-dirt-bike/>
 
 ---
 

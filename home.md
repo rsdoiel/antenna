@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2025-04-22 06:09:22
+updated: 2025-04-22 14:07:58
 ---
 
 # home
 
-(date: 2025-04-22 06:09:22)
+(date: 2025-04-22 14:07:58)
+
+---
+
+## When It Rains, This Japanese Home’s Concrete Deck Becomes a Reflecting Pool
+
+date: 2025-04-22, from: Dwell
+
+The pad extends the living area of the revived 90-year-old residence, now a flexible art space with original windows and fresh yakisugi cladding. 
+
+<br> 
+
+<https://www.dwell.com/article/annex-house-yuji-okitsu-yakisugi-charred-timber-cladding-a451a61f>
+
+---
+
+## Seeking €1.2M, This Barrel-Vaulted Concrete Home Is Not Your Average Beach House
+
+date: 2025-04-22, from: Dwell
+
+Designed by Bellafilarquitectes Studio, the residence in l’Escala features a striking curved roof clad with distinctive green tiles. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-s2-bellafilarquitectes-studio-concrete-home-lescala-spain-real-estate-e2b2b9d3>
+
+---
+
+## How to Grow and Care for Rose Campion
+
+date: 2025-04-22, from: The Gardener's Path
+
+<p>Rose campion (Silene coronaria) is easy to grow and adds stunning contrast with magenta, white, or soft blush flowers against silver foliage. These biennials or short-lived perennials thrive in Zones 3 to 9 and self-seed readily without becoming invasive. Learn how to grow this cottage garden favorite in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-rose-campion/">How to Grow and Care for Rose Campion</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-rose-campion/>
+
+---
+
+## Earth Day — CDFA’s Office of Agricultural Resilience and Sustainability works to support farmers and ranchers and help increase sustainability
+
+date: 2025-04-22, from: Calfifornia Dept. Aggriculture blog
+
+In recognition of today (April 22) as Earth Day, CDFA would like to lift-up farmers and ranchers as stewards of the land, nurturing the soil, conserving water, and protecting biodiversity to sustain our food systems. In California, where 90 percent &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28888">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28888>
+
+---
+
+## Savory Recipes to Celebrate California Cantaloupe Season
+
+date: 2025-04-22, from: California Grown
+
+<p>It’s peak cantaloupe season in California, and that means one thing: fresh, locally grown, world-class melons are flooding markets, farm stands, and hopefully—your kitchen. Let me ask you something: when was the last time you bit into a perfectly ripe cantaloupe and actually savored it? Not the hard, tasteless ones from who-knows-where. I’m talking about [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/cantaloupe-season/" data-wpel-link="internal" target="_self">Savory Recipes to Celebrate California Cantaloupe Season</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/cantaloupe-season/>
+
+---
+
+## How to Grow Bay Laurel Trees from Seed
+
+date: 2025-04-22, from: The Gardener's Path
+
+<p>Looking to grow bay laurel from seed? This guide will help you through the process of harvesting the seeds, encouraging them to germinate, and transplanting seedlings to the garden. We’ll also help you figure out what went wrong if you run into trouble. All you need is a little patience and this article to get started.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/bay-laurel-propagation/">How to Grow Bay Laurel Trees from Seed</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/bay-laurel-propagation/>
+
+---
+
+## The 8 Affordable Organizing Essentials That Make My Life a Whole Lot Easier
+
+date: 2025-04-22, from: Sunset Magazine - Living in the West
+
+From cord organizers to a letter holder, these small organizers make my everday life a lot easier, especially when things get busy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/small-organizers>
 
 ---
 
@@ -21,6 +111,18 @@ date: 2025-04-22, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/140-animals-that-start-with-e-with-pictures-and-names/>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-22, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -113,18 +215,6 @@ Artwork has the power to pull a whole room together and add some interest. We go
 <br> 
 
 <https://www.sunset.com/home-garden/design/how-to-hang-a-gallery-wall>
-
----
-
-## The 8 Affordable Organizing Essentials That Make My Life a Whole Lot Easier
-
-date: 2025-04-21, from: Sunset Magazine - Living in the West
-
-From cord organizers to a letter holder, these small organizers make my everday life a lot easier, especially when things get busy. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/small-organizers>
 
 ---
 
@@ -225,18 +315,6 @@ date: 2025-04-21, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/ford-recall-brake-fluid-leak/>
-
----
-
-## Homepage 2025
-
-date: 2025-04-21, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

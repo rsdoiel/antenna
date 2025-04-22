@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-22 06:09:20
+updated: 2025-04-22 14:07:56
 ---
 
 # games
 
-(date: 2025-04-22 06:09:20)
+(date: 2025-04-22 14:07:56)
+
+---
+
+## The best order to watch all the Star Wars movies and shows
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+The Skywalker saga is complete, the Clone Wars animated series has come to an end (sort of), and one of the best Star Wars stories ever told has returned for its final season. That’s right, Andor is back to remind us of just how great Star Wars stories can be. The show’s final run of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga>
+
+---
+
+## Magic team unbans cards for Commander, but not the ones you expected
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Principal Magic: The Gathering designer Gavin Verhey announced that some cards are now legal to play once more in Commander, the trading card game’s most popular multiplayer format. Five cards in total were unbanned by publisher Wizards of the Coast. Conspicuously absent from that list, however, were the cards involved in last year’s controversial bans [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/563145/commander-unbans-gifts-ungiven-sway-braids-coalition-victory-panoptic-mirror>
+
+---
+
+## The Duolingo owl will now nag you about doing your chess lessons
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Anyone who’s taken language lessons on the Duolingo app is certainly familiar with the Duolingo owl, Duo. If you skip out on lessons, Duo will ping you — crying! — to come back. Over the past few years, he’s gotten more aggressive with his approach: He died, and was brought back to life by people [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/563109/duolingo-chess-lessons>
+
+---
+
+## Where to pre-order Fallout season 1 on 4K Blu-ray
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+We still don’t know when the second season of the amazing Fallout series will premiere on Prime Video, but if you’d like to revisit the wasteland and its cast of memorable misfits, the first season of Fallout is coming to 4K Blu-ray and is currently available to pre-order from Amazon for $39.99. While there isn’t [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/563068/fallout-season-1-steelbook-collectors-edition-where-to-buy>
+
+---
+
+## Oblivion Remastered sure has a lot of brown
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+The Oblivion Remastered game is finally here and it looks, well, modern. And by modern I mean brown. The mud’s brown, the water’s brown, and the grass is brown. It’s all extremely brown and I’m not sure how to feel about that as someone who was wowed by Bethesda’s bright fantasy world 19 years ago. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/562912/elder-scrolls-4-oblivion-remaster-graphics-brown-comparison>
+
+---
+
+## Watch us play an entire match of Bungie’s new extraction shooter, Marathon
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Have you been wondering what a full match of Marathon looks like? We partnered with Destiny YouTuber Skarrow9 to bring you just that, which you can find in the video linked above. It’s been a strange two weeks for Bungie’s Marathon, the extraction shooter the Destiny studio just re-revealed on April 12. After largely positive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/561955/marathon-full-match-video>
+
+---
+
+## Monster Hunter Wilds event quests schedule and DLC roadmap
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Even if you’ve finished the main story for Monster Hunter Wilds and sunk hours into the High Rank grind, the monster slaying doesn’t need to end anytime soon. According to developer Capcom, Monster Hunter Wilds will receive post-release support through a series of event quests and additional DLC. Event quests can be a great opportunity [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/534245/event-quests-schedule-dlc-roadmap>
+
+---
+
+## Switch 2&#8217;s GameCube controller somehow has less functionality than the Switch one
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+This week, Nintendo fans received two important pieces of information about GameCube controller functionality on the Switch 2, both of which suggest the original Switch could have better GameCube controller support. Here’s the first one: The Switch 2 GameCube controller will only work with games in the upcoming console’s GameCube library for the Switch Online [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/556487/gamecube-controllers-functionality-switch-1>
+
+---
+
+## All Allowance Token locations in Blue Prince
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Allowance Tokens allow you to increase how much gold you start each day with in Blue Prince. Once you find your first Allowance Token, you’ll be able to collect your allowance in an envelope in the Entrance Hall, but Allowance Tokens can be pretty hard to come by. If you don’t know where to look [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/562817/allowance-tokens-all-locations-where-to-find>
+
+---
+
+## All Upgrade Disk locations in Blue Prince
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Upgrade Disks allow you upgrade your rooms in Blue Prince by adding extra items — or, in some cases, completely changing the room’s effect. In this Blue Prince guide, we’ll explain how to use Upgrade Disks, show you where to find all Upgrade Disk locations, and also explain how to change room upgrades (if you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/562523/upgrade-disk-locations-where-to-find-all-how-change>
 
 ---
 

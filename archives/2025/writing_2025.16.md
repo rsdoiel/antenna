@@ -1,11 +1,139 @@
 ---
 title: writing
-updated: 2025-04-22 06:09:20
+updated: 2025-04-22 14:07:55
 ---
 
 # writing
 
-(date: 2025-04-22 06:09:20)
+(date: 2025-04-22 14:07:55)
+
+---
+
+## 2025 Jhalak Prize Shortlists
+
+date: 2025-04-22, from: Locus Magazine
+
+<p>The six-title shortlists for the Jhalak Prizes have been announced. The shortlists include titles and authors of genre interest, such as <strong>My Friends</strong> by Hisham Matar (Viking) in the Prose category and <strong>Mayowa and the Sea of Words</strong> by Chibundu Onuzo (Bloomsbury) and <strong>The Boy to Beat the Gods</strong> by Ashley Thorpe (Usborne) in the Children&#8217;s &#38; YA category.</p>
+<p>The awards &#8220;seek to celebrate books by writers of colour in  <a href="https://locusmag.com/2025/04/2025-jhalak-prize-shortlists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-jhalak-prize-shortlists/>
+
+---
+
+## 2025 HWA Specialty Awards
+
+date: 2025-04-22, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) has announced the recipients of its 2025 Specialty Awards.</p>
+<p>Mocha Memoirs Press is the recipient of the Specialty Press Award, given &#8220;to a specialty publisher whose work has substantially contributed to the horror genre, whose publications display general excellence, and whose dealings with authors have been fair and exemplary.&#8221;</p>
+<p>The Richard Laymon President&#8217;s Award, &#8220;presented to a volunteer who has served the HWA in an  <a href="https://locusmag.com/2025/04/2025-hwa-specialty-awards/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-hwa-specialty-awards/>
+
+---
+
+## Inaugural PEN Presents x International Booker Prize Shortlist 2025
+
+date: 2025-04-22, from: Locus Magazine
+
+<p>The shortlist for the inaugural PEN Presents x International Booker Prize has been announced. Titles, authors, and translators of genre interest include:</p>
+<div class="nobullets">
+<ul>
+<li>YZ Chin for the translation of <strong>Storied Ruins</strong>, Teng Kuan Kiat</li>
+<li>Nayereh Doosti for the translation of <strong>A Tale in Ruins</strong>, Aboutorab Khosravi</li>
+<li>Tiffany Tsao for the translation of <strong>The Born Out of Wedlock Club</strong>, Grace Tioso</li>
+</ul>
+</div>
+<p>For this prize, PEN Presents partnered with the  <a href="https://locusmag.com/2025/04/inaugural-pen-presents-x-international-booker-prize-shortlist-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/inaugural-pen-presents-x-international-booker-prize-shortlist-2025/>
+
+---
+
+## New Book Releases: 4/22/2025
+
+date: 2025-04-22, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of April 22, 2025. </strong></p>
+<p>Ancrum, K.: <b>The Corruption of Hollis Brown</b> (HarperCollins 978-0063285835, $19.99, 384pp, formats: hardcover, ebook, audiobook, 04/22/2025)</p>
+<p>Young-adult paranormal thriller. Teen Hollis Brown lives in a dead-end town, but a chance encounter leads him to get possessed by a troubled  <a href="https://locusmag.com/2025/04/new-book-releases-4-22-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/new-book-releases-4-22-2025/>
+
+---
+
+## 5 Fast Ways to Be a Better Screenwriter
+
+date: 2025-04-22, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-fast-ways-to-be-a-better-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Man%20writing%20on%20his%20laptop.%20He%20sits%20on%20the%20floor%20leaning%20against%20a%20wall.%20On%20the%20wall%2c%20a%20staircase%20has%20been%20drawn%20with%20light%20bulbs%20placed%20on%20each%20step%2c%20increasing%20in%20size%20as%20it%20increases%20in%20height.png" alt="Man writing on his laptop. He sits on the floor leaning against a wall. On the wall, a staircase has been drawn with light bulbs placed on each step, increasing in size as it increases in height" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Your screenwriting journey is all about evolving as a screenwriter. Everyone generally starts at the same place. As we progress by educating ourselves (screenwriting books, screenwriting blogs, reading produced screenplays, etc.), we begin to add to our knowledge base. We build a go-to tool belt. Then, as we begin to write scripts, we learn through trial by fire and trial by error. We slowly get better and better with each script.&nbsp;<br><br>But there comes a time, even after those first two or three scripts, when you begin to hit a ceiling of sorts.&nbsp;<br><br>Becoming a better screenwriter is all about leveling-up. You get to stages that teach you valuable lessons. You advance to the next stage after applying what you’ve learned. This evolution is great, but there are a few ways that can help you jumpstart your evolution even more, catapulting you past many of those sometimes mundane stages.&nbsp;<br><br>With that in mind, here are five fast ways you can be a better screenwriter.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-fast-ways-to-be-a-better-screenwriter>
+
+---
+
+## Idea Management (Encore)
+
+date: 2025-04-22, from: John August blog
+
+John and Craig welcome back Aline Brosh McKenna to tackle the issue of idea management. What do you do with all those half-formed ideas and how do you decide which ones to pursue? They share best practices and their approach to middle-of-the-night inspiration. We also discuss how screenwriters’ quotes are determined and answer some listener [&#8230;]
+The post <a href="https://johnaugust.com/2025/idea-management-encore">Idea Management (Encore)</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/417RBstandard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/417RBstandard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/idea-management-encore>
+
+---
+
+## Harmattan Season by Tochi Onyebuchi: Review by Gary K. Wolfe
+
+date: 2025-04-22, from: Locus Magazine
+
+<p><strong>Harmattan Season</strong>, Tochi Onyebuchi (Tor 978-1250782977, 240pp, $27.99, hc) May 2025.</p>
+<p>I think it’s safe to say, on the basis of <strong>Riot Baby </strong>and <strong>Goliath </strong>alone, that we didn’t have any idea what to expect next from the adventurous Tochi Onyebuchi. But I doubt that even his most assidu­ous readers were anticipating a hardboiled his­torical/political private-eye postcolonialist noir fantasy mystery (and even at that, I’ve probably left some stuff  <a href="https://locusmag.com/2025/04/harmattan-season-by-tochi-onyebuchi-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/harmattan-season-by-tochi-onyebuchi-review-by-gary-k-wolfe/>
+
+---
+
+## 2025 Grand Prix de l’Imaginaire Shortlist
+
+date: 2025-04-22, from: Locus Magazine
+
+<p>The shortlist for the 2025 Grand Prix de l&#8217;Imaginaire, honoring the best SF/F work published in France in 2024, has been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>French Novel</strong></p>
+<ul>
+<li><strong>Les Nuits sans Kim Sauvage</strong>, Sabrina Calvo (La Volte)</li>
+<li><strong>La Maison des veilleurs</strong>, Patrick K. Dewdney (Au Diable Vauvert)</li>
+<li><strong>Vallée du carnage</strong>, Romain Lucazeau (Verso)</li>
+<li><strong>La Sonde et la taille</strong>, Laurent Mantese (Albin Michel)</li>
+<li><strong>L’Ost céleste</strong>, Olivier Paquet (L’Atalante)</li>
+<li><strong>Conque</strong>, </li></ul></div> <a href="https://locusmag.com/2025/04/2025-grand-prix-de-limaginaire-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-grand-prix-de-limaginaire-shortlist/>
 
 ---
 

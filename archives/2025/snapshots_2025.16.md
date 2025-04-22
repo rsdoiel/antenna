@@ -1,11 +1,418 @@
 ---
 title: snapshots
-updated: 2025-04-22 06:09:25
+updated: 2025-04-22 14:08:01
 ---
 
 # snapshots
 
-(date: 2025-04-22 06:09:25)
+(date: 2025-04-22 14:08:01)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-22, from: Dave Winer's linkblog)
+
+OpenAI exec says the company would buy Google&#39;s Chrome browser if offered the chance. (That&#39;s a crazy idea. Chrome should be an independent company. No more tying the open web to Silicon Valley business models.) 
+
+<br> 
+
+<https://techcrunch.com/2025/04/22/openai-exec-says-the-company-would-buy-googles-chrome-browser-if-offered-the-chance/>
+
+---
+
+## Media Diet
+
+date: 2025-04-22, from: Chris Coyier blog
+
+🎧 The Telepathy Tapes — A friend recommended I listen to this and I tore through it a few weeks ago. It&#8217;s about autistic people and how apparently literally all of them are telepathic. It&#8217;s a bit of a rollercoaster that goes: Anyway, &#8220;The Hill&#8221;, a thing in the show where autistic people go in [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/04/22/media-diet-7/>
+
+---
+
+## Elegy for the Video Screenshot
+
+date: 2025-04-22, from: Michael Tsai
+
+Nora Deligter: It was around this time when streaming platforms like Netflix, HBO Max, Amazon Prime, and the Criterion Channel imposed a quiet embargo on the screenshot. At first, there were workarounds: users could continue to screenshot by using the browser Brave or by downloading extensions or third-party tools like Fireshot. But gradually, the digital-rights-management [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/22/elegy-for-the-video-screenshot/>
+
+---
+
+## DeskMat 1.0
+
+date: 2025-04-22, from: Michael Tsai
+
+Matthias Gansrigler: I have a new app out that lets you sweep things under the rug &#x2013; virtually: DeskMat for Mac.With DeskMat, you cover the mess of files and folders on your Desktop with a single click &#x2013; and show them again in just the same way.It makes for clean streams, screen sharing, and distraction-free [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/22/deskmat-1-0/>
+
+---
+
+## Framous 1.0 and Shareshot
+
+date: 2025-04-22, from: Michael Tsai
+
+Jason Snell: Some people, whether you&#8217;re in the media or software development or technical support, take and publish a lot of device screenshots. And while an image straight from an iPhone or Apple Watch looks fine, it often looks much better to be put in context by including the device it&#8217;s running on as a [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/22/framous-1-0-and-shareshot/>
+
+---
+
+## Automating Screenshots for the Mac App Store
+
+date: 2025-04-22, from: Michael Tsai
+
+Jesse Squires: Meeting the requirements for screenshots is a frustrating experience. On iOS, tooling like SimulatorStatusMagic, Nine41, and fastlane snapshot help make the process easier. However, on macOS there is much less support (and, sadly, demand) for automated tooling &#8212; so you are kind of on your own to figure it out. I spent some [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/22/automating-screenshots-for-the-mac-app-store/>
+
+---
+
+## Figment is another E Ink handheld game console made for text adventures (and maybe more)
+
+date: 2025-04-22, from: Liliputing
+
+<p>E Ink displays offer a paper-like viewing experience that makes them a good fit for eBook readers and digital signage. They consume less power than LCD or AMOLED screens, emit no light, and can be viewed using ambient light only. But they also tend to have much lower screen refresh rates than other display technologies [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/figment-is-another-e-ink-handheld-game-console-made-for-text-adventures-and-maybe-more/">Figment is another E Ink handheld game console made for text adventures (and maybe more)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/figment-is-another-e-ink-handheld-game-console-made-for-text-adventures-and-maybe-more/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-22, from: Feed for Alt USDS)
+
+Wow! Thanks to your support, we just crossed 14,000 followers. 😍
+
+How about this? Help us get to 15,000 and we'll do an AMA for you.
+https://media.tenor.com/QiIRP06rosgAAAAC/wow-oh-my.gif?hh=498&ww=346 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lngd6ooqkc2b>
+
+---
+
+## This Game Boy Cartridge puts a Windows 3.1 clone on your handheld (Minesweeper and Paint clones included)
+
+date: 2025-04-22, from: Liliputing
+
+<p>GBS Windows is what happens when retro computing and retro gaming collide. Developer RubenRetro has created a Windows 3.1 clone for the Game Boy Color, complete with Minesweeper and MS Paint clones, as well as a few other apps including a media player. Perhaps the weirdest/coolest thing about GB Windows? It&#8217;s sold as an actual [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-game-boy-cartridge-puts-a-windows-3-1-clone-on-your-handheld-minesweeper-and-paint-clones-included/">This Game Boy Cartridge puts a Windows 3.1 clone on your handheld (Minesweeper and Paint clones included)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-game-boy-cartridge-puts-a-windows-3-1-clone-on-your-handheld-minesweeper-and-paint-clones-included/>
+
+---
+
+## Quoting Ellie Huxtable
+
+date: 2025-04-22, updated: 2025-04-22, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/ellie_huxtable/status/1914654266909974835"><p>I was against using AI for programming for a LONG time. It never felt effective.</p>
+<p>But with the latest models + tools, it finally feels like a real performance boost</p>
+<p>If you’re still holding out, do yourself a favor: spend a few focused hours actually using it</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/ellie_huxtable/status/1914654266909974835">Ellie Huxtable</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/22/ellie-huxtable/#atom-everything>
+
+---
+
+## Food Pantry Demand Rises as SNAP Enrollment Falls
+
+date: 2025-04-22, from: Guy Kawasaki blog
+
+Lendie R. Follett, Associate Professor of Business Analytics, Drake University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/food-pantry-demand-rises-as-snap>
+
+---
+
+## What Pope Francis Shows us about Trump.. plus my Video Chat with Conclave author Robert Harris 
+
+date: 2025-04-22, from: Tina Brown
+
+Harris, also author of multiple novels about ancient Rome, says democracy is probably "an interlude," not "the end state of mankind." 
+
+<br> 
+
+<https://tinabrown.substack.com/p/what-pope-francis-shows-us-about>
+
+---
+
+## Hackers are Injecting Mass Shooting Videos Into Random StarCraft 2 Matches
+
+date: 2025-04-22, from: 404 Media Group
+
+Players are reporting seeing graphic videos and hate symbols hacked into the game.  
+
+<br> 
+
+<https://www.404media.co/hackers-are-injecting-mass-shooting-videos-into-random-starcraft-2-matches/>
+
+---
+
+## ClickHouse gets lazier (and faster): Introducing lazy materialization
+
+date: 2025-04-22, updated: 2025-04-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization">ClickHouse gets lazier (and faster): Introducing lazy materialization</a></strong></p>
+Tom Schreiber describe's the latest optimization in ClickHouse, and in the process explores a whole bunch of interesting characteristics of columnar datastores generally.</p>
+<p>As I understand it, the new "lazy materialization" feature means that if you run a query like this:</p>
+<pre><code>select id, big_col1, big_col2
+from big_table order by rand() limit 5
+</code></pre>
+<p>Those <code>big_col1</code> and <code>big_col2</code> columns won't be read from disk for every record, just for the five that are returned. This can dramatically improve the performance of queries against huge tables - for one example query ClickHouse report a drop from "219 seconds to just 139 milliseconds—with 40× less data read and 300× lower memory usage."</p>
+<p>I'm linking to this mainly because the article itself is such a detailed discussion of columnar data patterns in general. It caused me to update my intuition for how queries against large tables can work on modern hardware. This query for example:</p>
+<pre><code>SELECT helpful_votes
+FROM amazon.amazon_reviews
+ORDER BY helpful_votes DESC
+LIMIT 3;
+</code></pre>
+<p>Can run in 70ms against a 150 million row, 70GB table - because in a columnar database you only need to read that <code>helpful_votes</code> integer column which adds up to just 600MB of data, and sorting 150 million integers on a decent machine takes no time at all.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43763688">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sql">sql</a>, <a href="https://simonwillison.net/tags/clickhouse">clickhouse</a>, <a href="https://simonwillison.net/tags/databases">databases</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/22/clickhouse-lazy-materializati/#atom-everything>
+
+---
+
+## Business Insider Founder Creates AI Exec For His New Newsroom, Immediately Hits On Her
+
+date: 2025-04-22, from: 404 Media Group
+
+ ‘Did the same rules apply to AI colleagues and native-AI workplaces? I didn’t know yet. That was one of the things I needed to figure out.’ 
+
+<br> 
+
+<https://www.404media.co/business-insider-founder-creates-ai-exec-for-his-new-newsroom-immediately-hits-on-her/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-22, from: Feed for Alt USDS)
+
+A federal worker reflects on being pushed out by DOGE’s dismantling of public service.
+
+Their work was taken, but their belief in people — and in service — remains.
+
+🧵 Read their farewell letter: https://www.wethebuilders.org/posts/the-resignation-i-wish-i-could-submit
+
+#WTB #AltGov #PublicService 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lng43ufht62k>
+
+---
+
+## Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)
+
+date: 2025-04-22, updated: 2025-04-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.hey.earth/posts/duckdb-doom">Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)</a></strong></p>
+Brilliant hack by Patrick Trainer who got an ASCII-art Doom clone running in the browser using convoluted SQL queries running against the WebAssembly build of DuckDB. Here’s the <a href="https://patricktrainer.github.io/duckdb-doom/">live demo</a>, and the <a href="https://github.com/patricktrainer/duckdb-doom">code on GitHub</a>.</p>
+<div style="text-align: center; margin-bottom: 1em">
+<img alt="Animated demo GIF. Green ASCII art on black, with a map on the right and a Doom-style first person view on the left." src="https://static.simonwillison.net/static/2025/duckdb-wasm-doom.gif">
+</div>
+
+<p>The SQL is <a href="https://github.com/patricktrainer/duckdb-doom/blob/c36bcdab16bea40d916d3165f7bfdb437b86dde2/index.html#L140-L224">so much fun</a>. Here’s a snippet that implements ray tracing as part of a SQL view:</p>
+<pre><span class="pl-k">CREATE OR REPLACE</span> <span class="pl-k">VIEW</span> <span class="pl-en">render_3d_frame</span> <span class="pl-k">AS</span>
+WITH RECURSIVE
+    <span class="pl-c"><span class="pl-c">--</span> ...</span>
+    rays <span class="pl-k">AS</span> (
+        <span class="pl-k">SELECT</span> 
+            <span class="pl-c1">c</span>.<span class="pl-c1">col</span>, 
+            (<span class="pl-c1">p</span>.<span class="pl-c1">dir</span> <span class="pl-k">-</span> <span class="pl-c1">s</span>.<span class="pl-c1">fov</span><span class="pl-k">/</span><span class="pl-c1">2</span>.<span class="pl-c1">0</span> <span class="pl-k">+</span> <span class="pl-c1">s</span>.<span class="pl-c1">fov</span> <span class="pl-k">*</span> (<span class="pl-c1">c</span>.<span class="pl-c1">col</span><span class="pl-k">*</span><span class="pl-c1">1</span>.<span class="pl-c1">0</span> <span class="pl-k">/</span> (<span class="pl-c1">s</span>.<span class="pl-c1">view_w</span> <span class="pl-k">-</span> <span class="pl-c1">1</span>))) <span class="pl-k">AS</span> angle 
+        <span class="pl-k">FROM</span> cols c, s, p
+    ),
+    raytrace(col, step_count, fx, fy, angle) <span class="pl-k">AS</span> (
+        <span class="pl-k">SELECT</span> 
+            <span class="pl-c1">r</span>.<span class="pl-c1">col</span>, 
+            <span class="pl-c1">1</span>, 
+            <span class="pl-c1">p</span>.<span class="pl-c1">x</span> <span class="pl-k">+</span> COS(<span class="pl-c1">r</span>.<span class="pl-c1">angle</span>)<span class="pl-k">*</span><span class="pl-c1">s</span>.<span class="pl-c1">step</span>, 
+            <span class="pl-c1">p</span>.<span class="pl-c1">y</span> <span class="pl-k">+</span> SIN(<span class="pl-c1">r</span>.<span class="pl-c1">angle</span>)<span class="pl-k">*</span><span class="pl-c1">s</span>.<span class="pl-c1">step</span>, 
+            <span class="pl-c1">r</span>.<span class="pl-c1">angle</span> 
+        <span class="pl-k">FROM</span> rays r, p, s 
+        <span class="pl-k">UNION ALL</span> 
+        <span class="pl-k">SELECT</span> 
+            <span class="pl-c1">rt</span>.<span class="pl-c1">col</span>, 
+            <span class="pl-c1">rt</span>.<span class="pl-c1">step_count</span> <span class="pl-k">+</span> <span class="pl-c1">1</span>, 
+            <span class="pl-c1">rt</span>.<span class="pl-c1">fx</span> <span class="pl-k">+</span> COS(<span class="pl-c1">rt</span>.<span class="pl-c1">angle</span>)<span class="pl-k">*</span><span class="pl-c1">s</span>.<span class="pl-c1">step</span>, 
+            <span class="pl-c1">rt</span>.<span class="pl-c1">fy</span> <span class="pl-k">+</span> SIN(<span class="pl-c1">rt</span>.<span class="pl-c1">angle</span>)<span class="pl-k">*</span><span class="pl-c1">s</span>.<span class="pl-c1">step</span>, 
+            <span class="pl-c1">rt</span>.<span class="pl-c1">angle</span> 
+        <span class="pl-k">FROM</span> raytrace rt, s 
+        <span class="pl-k">WHERE</span> <span class="pl-c1">rt</span>.<span class="pl-c1">step_count</span> <span class="pl-k">&lt;</span> <span class="pl-c1">s</span>.<span class="pl-c1">max_steps</span> 
+          <span class="pl-k">AND</span> NOT EXISTS (
+              <span class="pl-k">SELECT</span> <span class="pl-c1">1</span> 
+              <span class="pl-k">FROM</span> map m 
+              <span class="pl-k">WHERE</span> <span class="pl-c1">m</span>.<span class="pl-c1">x</span> <span class="pl-k">=</span> CAST(<span class="pl-c1">rt</span>.<span class="pl-c1">fx</span> <span class="pl-k">AS</span> <span class="pl-k">INT</span>) 
+                <span class="pl-k">AND</span> <span class="pl-c1">m</span>.<span class="pl-c1">y</span> <span class="pl-k">=</span> CAST(<span class="pl-c1">rt</span>.<span class="pl-c1">fy</span> <span class="pl-k">AS</span> <span class="pl-k">INT</span>) 
+                <span class="pl-k">AND</span> <span class="pl-c1">m</span>.<span class="pl-c1">tile</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>#<span class="pl-pds">'</span></span>
+          )
+    ),
+    <span class="pl-c"><span class="pl-c">--</span> ...</span></pre>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43761998">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sql">sql</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a>, <a href="https://simonwillison.net/tags/duckdb">duckdb</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/22/duckdb-wasm-doom/#atom-everything>
+
+---
+
+## How 404 Media Is Navigating 'Economic Headwinds'
+
+date: 2025-04-22, from: 404 Media Group
+
+The economy is bad. Here's how we're doing, and how you can help us. 
+
+<br> 
+
+<https://www.404media.co/how-404-media-is-navigating-economic-headwinds/>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-04-22, from: IIIF Mastodon feed)
+
+<p>⏱️ Registration for the 2025 <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Annual Conference closes on May 16!</p><p>The full program, travel information, and a link to register are available on our website: <a href="https://iiif.io/event/2025/leeds/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">iiif.io/event/2025/leeds/</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114382466561184025>
+
+---
+
+## Return to Sender: Individual Deceased Personnel Files of the 6888th
+
+date: 2025-04-22, from: National Archives, Text Message blog
+
+Today’s post is by Cara Moore Lebonick, Archivist at the National Archives at St. Louis Three of the four women interred at Normandy-American Cemetery and Memorial as a result of World War II deaths were members of a Women’s Air Corps (WAC) unit commonly called The Six Triple-Eight. The 6888th Central Postal Directory was directed &#8230; <a href="https://text-message.blogs.archives.gov/2025/04/22/return-to-sender-individual-deceased-personnel-files-of-the-6888th/" class="more-link">Continue reading <span class="screen-reader-text">Return to Sender: Individual Deceased Personnel Files of the 6888th</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/04/22/return-to-sender-individual-deceased-personnel-files-of-the-6888th/>
+
+---
+
+## ZimaBoard 2 is a single-board server with Intel N150, dual SATA interfaces, and two 2.5 GbE LAN ports (crowdfunding)
+
+date: 2025-04-22, from: Liliputing
+
+<p>The ZimaBoard 2 is a new single-board server that&#8217;s available for pre-order now through a Kickstarter crowdfunding campaign, the board is expected to begin shipping in August, 2025. It&#8217;s basically a pocket-sized PC with a low-power Intel processor plus a few extra features that set it apart from most other mini PCs. For one thing, the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zimaboard-2-is-a-single-board-server-with-intel-n150-dual-sata-interfaces-and-two-2-5-gbe-lan-ports/">ZimaBoard 2 is a single-board server with Intel N150, dual SATA interfaces, and two 2.5 GbE LAN ports (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zimaboard-2-is-a-single-board-server-with-intel-n150-dual-sata-interfaces-and-two-2-5-gbe-lan-ports/>
+
+---
+
+## TestFlight Build Expired, New One Coming
+
+date: 2025-04-22, from: NetNewsWire
+
+<p>Note for people using the TestFlight builds — the latest build expired today (sorry about that!), but a new one (6.1.9) is waiting for App Store review. As soon as it gets through the process, you’ll have a new TestFlight build.</p>
+
+<p>If you don’t want to wait, you can of course switch to the <a href="https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210">App Store build</a> instead without losing any data.</p> 
+
+<br> 
+
+<https://netnewswire.blog/2025/04/22/testflight-build-expired-new-one.html>
+
+---
+
+## Think Remarkable
+
+date: 2025-04-22, from: Guy Kawasaki blog
+
+NOW AVAILABLE IN PAPERBACK! 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/think-remarkable>
+
+---
+
+## A5
+
+date: 2025-04-22, updated: 2025-04-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://a5geo.org">A5</a></strong></p>
+A5 is a new "global, equal-area, millimeter-accurate geospatial index" by Felix Palmer:</p>
+<blockquote>
+<p>It is the pentagonal equivalent of other DGGSs, like S2 or H3, but with higher accuracy and lower distortion.</p>
+</blockquote>
+<p>Effectively it's a way of dividing the entire world into pentagons where each one covers the same physical area (to within a 2% threshold) - like Uber's <a href="https://www.uber.com/blog/h3/">H3</a> but a bit weirder and more fun. An A5 reference implementation written in TypeScript is <a href="https://github.com/felixpalmer/a5">available on GitHub</a>.</p>
+<p>This <a href="https://a5geo.org/examples/cells">interactive demo</a> helps show how it works:</p>
+<p><img alt="Animated demo. I click around on a map, each click producing a distorted pentagon shape that tessellates with those nearby. The pentagons in Norway appear larger than those in Germany, which illustrates the distortion of the standard map projection." src="https://static.simonwillison.net/static/2025/a5.gif" /></p>
+<p>Why pentagons? Here's <a href="https://a5geo.org/docs/">what the A5 docs say</a>:</p>
+<blockquote>
+<p>A5 is unique in that it uses a pentagonal tiling of a dodecahedron. [...] The benefit of choosing a dodecahedron is that it is the platonic solid with the lowest vertex curvature, and by this measure it is the most spherical of all the platonic solids. This is key for minimizing cell distortion as the process of projecting a platonic solid onto a sphere involves warping the cell geometry to force the vertex curvature to approach zero. Thus, the lower the original vertex curvature, the less distortion will be introduced by the projection.</p>
+</blockquote>
+<p>I had to look up <a href="https://en.wikipedia.org/wiki/Platonic_solid">platonic solids</a> on Wikipedia. There are only five: Tetrahedron, Cube, Octahedron, Dodecahedron and Icosahedron and they can be made using squares, triangles or (in the case of the Dodecahedron) pentagons, making the pentagon the most circle-like option.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/macwright.com/post/3ln6asbaduk2g">Tom MacWright</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/geospatial">geospatial</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/22/a5/#atom-everything>
+
+---
+
+## Join me today at 11aET for a live video chat with Robert Harris, author of the gripping papal election novel Conclave, on which the Oscar-winning film is based. 
+
+date: 2025-04-22, from: Tina Brown
+
+We'll discuss the backstage drama and centuries-old rituals behind laying one pope to rest and electing another. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-me-today-at-11aet-for-a-live>
+
+---
+
+## Results From the 2025 Boston Marathon
+
+date: 2025-04-22, updated: 2025-04-22, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/22/results-from-the-2025-boston-marathon/>
 
 ---
 
@@ -54,7 +461,7 @@ Heartfelt piece by Ashley Willis about the challenge of overcoming self-doubt in
 <blockquote>
 <p>Part of that is knowing who might read it. A lot of the folks who follow me are smart, opinionated, and not always generous. Some are friends. Some are people I’ve looked up to. And some are just really loud on the internet. I saw someone the other day drag a certain writing style. That kind of judgment makes me want to shrink back and say, never mind.</p>
 </blockquote>
-<p>Work to avoid being somebody who discourages others from sharing their thoughts.
+<p>Try to avoid being somebody who discourages others from sharing their thoughts.
 
     <p><small></small>Via <a href="https://bsky.app/profile/ashley.dev/post/3lneixhjamk2i">@ashley.dev</a></small></p>
 
@@ -64,6 +471,18 @@ Heartfelt piece by Ashley Willis about the challenge of overcoming self-doubt in
 <br> 
 
 <https://simonwillison.net/2025/Apr/22/working-through-the-fear-of-being-seen/#atom-everything>
+
+---
+
+## Season Two. Preorder NOW.
+
+date: 2025-04-22, from: Playdate Blog
+
+<p>We&rsquo;ve just introduced <strong>Playdate Season Two</strong>, an exciting bundle of 12 brand-new Playdate games delivered over 6 weeks. And you can <a href="https://play.date/games/seasons/two"><em><strong>preorder it… RIGHT NOW!!</strong></em></a></p> 
+
+<br> 
+
+<https://news.play.date/news/s2/>
 
 ---
 
@@ -124,6 +543,32 @@ date: 2025-04-22, updated: 2025-04-22, from: nlnet feed
 <br> 
 
 <https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html>
+
+---
+
+## Debugging A Crawler Stall
+
+date: 2025-04-22, from: Marginallia log
+
+Some time ago, I migrated the crawler off the okhttp library, to use Java&rsquo;s builtin HTTP client. This seemed like a good idea at the time, but has led to a fair number of headaches.
+Java&rsquo;s HttpClient has one damning flaw, and that that it doesn&rsquo;t support socket timeouts.
+Its only supported timeout values are time to connect, and time until first byte of the response. This means the client can get stuck on a read call if a server stops responding, potentially for a very long time! 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_118_crawler_stall/>
+
+---
+
+## Unfinished but shareable
+
+date: 2025-04-22, from: Rachel Kwon blog
+
+<p>I made a page for my dad&rsquo;s collection of hats. It&rsquo;s an idea I had back in 2023 and as is my nature, it took me way too long and too much overthinking to get it to a shareable state. It&rsquo;s not finished, nor do I know what finished even means most of the time, and there are things I don&rsquo;t like about it that need to be fixed, but if there&rsquo;s one thing I know about myself, it&rsquo;s that I&rsquo;ll spin my wheels on the last 10% of a project that likely doesn&rsquo;t even matter in the grand scheme of things. So in an effort to embrace this discomfort, <a href="https://kwon.nyc/dad-hats/">here it is</a>. I don&rsquo;t know what it&rsquo;s for — I guess just to share something I went through. I&rsquo;m also trying to play around with more evergreen content in general, and am also experimenting with more reliable workflows for sharing photos/visuals. (This is also challenging and I&rsquo;m struggling to make decisions but I&rsquo;m documenting my thought process <a href="https://docs.google.com/document/d/1S0_FxxQm45FVvNV2VVJrvzUSpI95r4lttvi2wk3HMjs/edit?tab=t.yd8hhi20vc2">here</a>. Work and think in public, I guess!!!</p> 
+
+<br> 
+
+<https://kwon.nyc/notes/unfinished-but-shareable/>
 
 ---
 
@@ -407,7 +852,7 @@ date: 2025-04-21, from: Liliputing
 
 ## Results From the Robot Half-Marathon
 
-date: 2025-04-21, updated: 2025-04-21, from: One Foot Tsunami
+date: 2025-04-21, updated: 2025-04-22, from: One Foot Tsunami
 
  
 
@@ -485,7 +930,50 @@ date: 2025-04-21, updated: 2025-04-21, from: Simon Willison’s Weblog
 <p>My hunch is that doing this well requires a very strong reasoning model. Evaluating search results is hard, due to the need to wade through huge amounts of spam and deceptive information. The disappointing results from previous implementations usually came down to the Web being full of junk.</p>
 <p>Maybe o3, o4-mini and Gemini 2.5 Pro are the first models to cross the gullibility-resistance threshold to the point that they can do this effectively?</p>
 <h4 id="google-and-anthropic-need-to-catch-up">Google and Anthropic need to catch up</h4>
-<p>The user-facing <a href="https://gemini.google.com/">Google Gemini app</a> can search too, but it doesn't show me what it's searching for. As a result, I just don't trust it. This is a big missed opportunity since Google presumably have by far the best search index, so they really should be able to build a great version of this. And Google's AI assisted search on their regular search interface hallucinates <em>wildly</em> to the point that it's actively damaging their brand. I just checked and Google is still showing slop <a href="https://simonwillison.net/2024/Dec/29/encanto-2/">for Encanto 2</a>!</p>
+<p>The user-facing <a href="https://gemini.google.com/">Google Gemini app</a> can search too, but it doesn't show me what it's searching for. As a result, I just don't trust it. Compare these examples from o3 and Gemini for the prompt "Latest post by Simon Willison" - o3 is much more transparent:</p>
+
+    <div style="display: flex; width: 100%; gap: 10px; align-items: flex-start; margin-top: 1em; margin-bottom: 1em">
+        <div style="flex: 1;">
+            <img src="https://static.simonwillison.net/static/2025/search-o3.jpg" alt="o3 ChatGPT screenshot
+
+Prompt: Latest post by Simon Willison
+
+Thought for 25 seconds ›
+2 searches • 3 sources
+
+Latest post
+• Title: &quot;Working Through the Fear of Being Seen&quot;
+(via Ashley Willis)
+• Published: April 22 2025 at 6: 40 AM
+
+An overlay shows the details of that thinking session:
+
+Thought for 25 seconds
+• The user's request is pretty clear: they want to know the latest post by Simon Willison. I think the user may actually be Simon Willison themselves, asking for their own blog, which is hosted on SimonWillison.net. l'll need to search the web for Simon's latest blog post (probably from April 2025). Once I find it, l'll include the title, publication date, and a brief summary.
+@ Searching the web
+• Simon Willison blog April 2025
+• Simon Willison blog 2025
+Archive for Tuesday, 22nd April 2025 - Simon Willison's W...
+* Working Through the Fear of Being Seen
+* Simon Willison's Weblog" style="width: 100%; height: auto; display: block;" />
+        </div>
+        <div style="flex: 1;">
+            <img src="https://static.simonwillison.net/static/2025/search-gemini.jpg" alt="Gemini Advanced 2.0 flash screenshot. Prompt is Latest post by Simon Willison.
+
+Google Search
+Try again without apps
+Simon Willison's latest blog post is titled &quot;Here's how I use LLMs to help me write code&quot; and was published on March 11th, 2025. In this post, he discusses his experiences and strategies for effectively using Large Language Models (LLMs) in software development.
+However, according to his Mastodon profile, his most recent activity includes:
+• A boost of a post about 11m plugins on April 18th, 2025.
+• A post about the Gemini 2.5 Flash model on April 17th, 2025.
+• A post about OpenAl's new 03 and o4-mini models on April 16th, 2025.
+• A thread discussing the CaMeL approach to mitigating prompt injection attacks on April 11th, 2025.
+• An announcement of two new 11m plugins on April 10th, 2025.
+It seems his blog might not always reflect his absolute latest thoughts and shorter updates, which he often shares on platforms like Mastodon." style="width: 100%; height: auto; display: block;" />
+        </div>
+    </div>
+
+<p>This is a big missed opportunity since Google presumably have by far the best search index, so they really should be able to build a great version of this. And Google's AI assisted search on their regular search interface hallucinates <em>wildly</em> to the point that it's actively damaging their brand. I just checked and Google is still showing slop <a href="https://simonwillison.net/2024/Dec/29/encanto-2/">for Encanto 2</a>!</p>
 <p>Claude also finally <a href="https://simonwillison.net/2025/Mar/20/">added web search</a> a month ago but it doesn't feel nearly as good. It's <a href="https://simonwillison.net/2025/Mar/21/anthropic-use-brave/">using the Brave search index</a> which I don't think is as comprehensive as Bing or Gemini, and searches don't happen as part of that powerful reasoning flow.</p>
 <h4 id="lazily-porting-code-to-a-new-library-version-via-search">Lazily porting code to a new library version via search</h4>
 <p>The truly magic moment for me came <a href="https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/#gemini-2-5-flash-non-thinking">a few days ago</a>.</p>
@@ -977,7 +1465,7 @@ date: 2025-04-20, updated: 2025-04-20, from: Educated Guesswork blog
 
 date: 2025-04-20, from: Rachel Kwon blog
 
-Last month I had the chance to travel to two places I previously lived. In early March, I went to London for a work trip, and a couple of weekends ago I went to Chicago for a friend&rsquo;s milestone birthday. It was a strange feeling to revisit these two cities where I&rsquo;d lived and existed before but in the distant past, long enough ago that it felt like I was a different person. 
+<p>Last month I had the chance to travel to two places I previously lived. In early March, I went to London for a work trip, and a couple of weekends ago I went to Chicago for a friend&rsquo;s milestone birthday. It was a strange feeling to revisit these two cities where I&rsquo;d lived and existed before but in the distant past, long enough ago that it felt like I was a different person.</p> 
 
 <br> 
 

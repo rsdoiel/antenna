@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-04-22 06:09:18
+updated: 2025-04-22 14:07:54
 ---
 
 # science and technology
 
-(date: 2025-04-22 06:09:18)
+(date: 2025-04-22 14:07:54)
+
+---
+
+## RIP, Google Privacy Sandbox
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Chrome will keep third-party cookies, a win for web giant&#39;s ad rivals</h4> <p>After six years of work, Google&#39;s Privacy Sandbox, technology for delivering ads while protecting privacy, looks like dust in the wind.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/google_privacy_sandbox/>
+
+---
+
+## Two CISA officials jump ship, both proud of pushing for Secure by Design software
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>As cyber-agency faces cuts, makes noises about switching up program</h4> <p>Two top officials have resigned from Uncle Sam&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, furthering fears of a brain drain amid White House cuts to the federal workforce.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/top_cisa_officials_jump_ship/>
+
+---
+
+## NASA Wins Six Webby Awards, Six Webby People’s Voice Awards
+
+date: 2025-04-22, from: NASA breaking news
+
+NASA was recognized today by the 29th Annual Webby Awards with six Webby Awards and six Webby People’s Voice Awards, the latter of which&#160;are&#160;awarded&#160;by the voting public. The Webbys honors excellence in eight major media types: websites and mobile sites; video and film; advertising, media and public relations; apps and software; social; podcasts; artificial intelligence, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-wins-six-webby-awards-six-webby-peoples-voice-awards/>
+
+---
+
+## Planetary Alignment Provides NASA Rare Opportunity to Study Uranus
+
+date: 2025-04-22, from: NASA breaking news
+
+When a planet’s orbit brings it between Earth and a distant star, it’s more than just a cosmic game of hide and seek. It’s an opportunity for NASA to improve its understanding of that planet’s atmosphere and rings. Planetary scientists call it a stellar occultation and that’s exactly what happened with Uranus on April 7. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/planetary-alignment-provides-nasa-rare-opportunity-to-study-uranus/>
+
+---
+
+## Fog ransomware channels Musk with demands for work recaps or a trillion bucks
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>In effect: &#39;Ha ha – the government is borked and so are you&#39;</h4> <p>Ransomware scumbags - potentially those behind the Fog gang - are channeling their inner Elon Musk with their latest ransom note, spotted by researchers at Trend Micro.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/fog_ransomware_musk/>
+
+---
+
+## A pot of $250K is now available to ransomware researchers, but it feeds a commercial product
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Security bods can earn up to $10K per report</h4> <p>Ransomware threat hunters can now collect rewards of $10,000 for each piece of intel they file under a new bug bounty that aims to squash extortionists.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/security_researchers_can_earn_250k/>
+
+---
+
+## First Results from the Eclipse Soundscapes Project: Webinar on May 7
+
+date: 2025-04-22, from: NASA breaking news
+
+How do the sudden darkness and temperature changes of a solar eclipse impact life on Earth? The Eclipse Soundscapes project invited you to document changes in the environment during the week of the April 8, 2024 total solar eclipse, using your own senses or an audiomoth sound recorder.  Thanks to your participation, the Eclipse Soundscapes […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/first-results-from-the-eclipse-soundscapes-project-webinar-on-may-7/>
+
+---
+
+## Sunshine on Earth
+
+date: 2025-04-22, from: NASA breaking news
+
+The Sun&#8217;s glint beams off a partly cloudy Atlantic Ocean just after sunrise as the International Space Station orbited 263 miles above on March 5, 2025. The space station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images, recording phenomena [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/sunshine-on-earth/>
+
+---
+
+## This is not just any 'cyber incident' … this is an M&amp;S 'cyber incident'
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Retailer tight-lipped on details as digital hiccup disrupts customer orders</h4> <p>UK high street mainstay Marks &amp; Spencer told the London Stock Exchange this afternoon it has been managing a &#34;cyber incident&#34; for &#34;the past few days.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/marks_spencer_cyber_incident/>
+
+---
+
+## UN says Asian scam call center epidemic expanding globally amid political heat
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>What used to be a serious issue mainly in Southeast Asia is now the world’s problem</h4> <p>Scam call centers are metastasizing worldwide &#34;like a cancer,&#34; according to the United Nations, which warns the epidemic has reached a global inflection point as syndicates scale up and spread out.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/un_asian_scam_calls/>
+
+---
+
+## Planet Sizes and Locations in Our Solar System
+
+date: 2025-04-22, from: NASA breaking news
+
+Our solar system has eight planets, and five officially recognized dwarf planets. Which planet is biggest? Which is smallest? What is the order of the planets as we move out from the Sun? This is a simple guide to the sizes of planets based on the equatorial diameter – or width – at the equator […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/>
+
+---
+
+## Animal That Once Lived With Dinosaurs Helps Keep NASA Kennedy In Balance
+
+date: 2025-04-22, from: NASA breaking news
+
+They’re known as “living fossils”. For over 450 million years, horseshoe crabs have been an ecologically vital part of our planet. They’re one of the few surviving species on Earth dating back to the dinosaurs. At NASA’s Kennedy Space Center in Florida, the American horseshoe crab (Limulus polyphemus) is one of more than 1,500 types [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/animal-that-once-lived-with-dinosaurs-helps-keep-nasa-kennedy-in-balance/>
+
+---
+
+## Windows Recall failed the moose test, and nobody will ever forget it
+
+date: 2025-04-22, from: OS News
+
+Ars Technica took a look at how the current version of Windows Recall works, including the improvements Microsoft made since the initial security nightmare of a rollout, and concludes: Recall continues to demand an extraordinary level of trust that Microsoft hasn&#8217;t earned. However secure and private it is—and, again, the version people will actually get is much better than the version that caused the original controversy—it just feels creepy to open up the app and see confidential work materials and pictures of your kid. You&#8217;re already trusting Microsoft with those things any time you use your PC, but there&#8217;s something viscerally unsettling about actually seeing evidence that your computer is tracking you, even if you&#8217;re not doing anything you&#8217;re worried about hiding, even if you&#8217;ve excluded certain apps or sites, and even if you &#8220;know&#8221; that part of the reason why Recall requires a Copilot+ PC is because it&#8217;s processing everything locally rather than on a server somewhere. ↫ Andrew Cunningham at Ars Technica Way back in 1996, Mercedes-Benz unveiled the A-Class, a small, practical car that purported to be more premium than cheaper, similarly-sized cars from other brands. The car had a big problem, though &#8211; it was unusually narrow and tall, and because of it, it famously failed spectacularly at the &#8220;moose test&#8221;, in which a car has to suddenly swerve around a &#8220;moose&#8221; on the road. The car simply toppled over, and after initially denying the problem, Mercedes recalled every single A-Class sold and added a variety of mitigations like electronic stability control and suspension changes. As far as I can recall, it fixed the issue. To this day, however, I cannot look at an A-Class, even the modern ones which look like normal hatchbacks and bear effectively zero resemblance to the original, quirky A-Class from 1996, and not think of the failed moose test and the recall. I know the modern A-Class won&#8217;t fail that test, and I know it&#8217;s an infinitely safer car than the original one, but my brain still makes that connection every time I see one. A lot of people my age, whether they&#8217;re into cars or not, seem to remember this recall, because the original A-Class was such a unique and recognisable vehicle at the time, especially coming from Mercedes. My point is &#8211; Recall will face this same issue. No matter how secure Microsoft makes it, no matter how much they claim and prove it only runs locally, no matter how hard they try and hammer on the fact data never leaves your PC, people will always think of that initial botched rollout, and all the accurate reporting that Recall was a nightmare. And it just so happens that the skepticism is warranted, and hopefully keeps people from using this corporate Trojan horse. 
+
+<br> 
+
+<https://www.osnews.com/story/142174/windows-recall-failed-the-moose-test-and-nobody-will-ever-forget-it/>
+
+---
+
+## Relax, AWS reassessing colo lease talks is just 'routine capacity management'
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Hyperscaler says there&#39;s no decrease in demand, it&#39;s just looking for good deals</h4> <p>Amazon has joined Microsoft in <a target="_blank" href="https://www.theregister.com/2025/04/09/microsoft_puts_more_datacenter_builds/">pausing</a> some datacenter leasing deals, sparking fresh concerns about whether the AI hype train may be running out of steam.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/aws_datacenter_leases/>
+
+---
+
+## SpaceX Dragon cargo capsule docks to the International Space Station
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Plenty of tortillas onboard but not quite so much science this time</h4> <p>SpaceX&#39;s latest cargo mission to the International Space Station (ISS) – CRS-32 – just docked to the orbiting outpost, bringing extra crew supplies, which resulted in the deferral of several science payloads.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/spacex_freighter_docks_to_the/>
+
+---
+
+## Entrepreneurs Challenge Winner PRISM is Using AI to Enable Insights from Geospatial Data
+
+date: 2025-04-22, from: NASA breaking news
+
+NASA sponsored Entrepreneurs Challenge events in 2020, 2021, and 2023 to invite small business start-ups to showcase innovative ideas and technologies with the potential to advance the agency’s science goals. To potentially leverage external funding sources for the development of innovative technologies of interest to NASA, SMD involved the venture capital community in Entrepreneurs Challenge […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/earth-science-division/entrepreneurs-challenge-winner-prism-is-using-ai-to-enable-insights-from-geospatial-data/>
 
 ---
 
@@ -93,7 +285,7 @@ date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
 
 ---
 
-## Africa's boardless, bossless, and generally troubled internet registry to hold elections in June
+## Africa's boardless, bossless, generally troubled internet registry to hold elections in June
 
 date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
 
@@ -335,7 +527,7 @@ date: 2025-04-21, updated: 2025-04-21, from: The Register (UK I.T. News)
 
 ## Downward DOGE: Elon Musk keeps revising cost-trimming goals in a familiar pattern
 
-date: 2025-04-20, updated: 2025-04-20, from: The Register (UK I.T. News)
+date: 2025-04-20, updated: 2025-04-22, from: The Register (UK I.T. News)
 
 <h4>On top of that, Trump&#39;s increased federal spending almost completely negates $150B in cuts</h4> <p><strong>Comment</strong>  Elon Musk&#39;s Trump-blessed DOGE unit has made a lot of noise and a lot of headlines for its <a target="_blank" href="https://www.theregister.com/2025/04/17/whistleblower_nlrb_doge/">heavy-handed hatchet tactics</a> within supposedly bloated governmental organizations.…</p> 
 

@@ -1,11 +1,161 @@
 ---
 title: food
-updated: 2025-04-22 06:09:24
+updated: 2025-04-22 14:08:00
 ---
 
 # food
 
-(date: 2025-04-22 06:09:24)
+(date: 2025-04-22 14:08:00)
+
+---
+
+## Goodbye Bugs! These New YETI Bowls Make Outdoor Dining a Breeze
+
+date: 2025-04-22, from: Taste of Home
+
+<p>YETI's insulated bowls make it easy to take your favorite dishes to picnics, potlucks and parties—even in the scorching sun.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/yeti-insulated-bowls/">Goodbye Bugs! These New YETI Bowls Make Outdoor Dining a Breeze</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/yeti-insulated-bowls/>
+
+---
+
+## Tyler Smith’s Air-Fryer Buffalo Wings
+
+date: 2025-04-22, from: Taste of Home
+
+Skip the soggy takeout order or the messy, oil-splattered kitchen and make these easy and crispy wings in your air fryer. You don’t even need to use napkins if you don’t want! —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-air-fryer-buffalo-wings/>
+
+---
+
+## The Best Instant Pot for Your Budget and Needs Based on Our Testing (2025)
+
+date: 2025-04-22, from: Bon Appetet
+
+Let us help quell your decision fatigue. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-instant-pot>
+
+---
+
+## Be More Judgmental With The WCC’s News Judge Skills Program
+
+date: 2025-04-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The SCA is now offering a formalized training program for those looking to become judges. 
+
+<br> 
+
+<https://sprudge.com/be-more-judgmental-with-the-wccs-news-judge-skills-program-321334.html>
+
+---
+
+## Fellow Launches High-End Home Machine, the Espresso Series 1
+
+date: 2025-04-22, from: Daily Coffee News
+
+<div><img width="620" height="460" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg" class="attachment-large size-large wp-post-image" alt="ellow Espresso machine 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-768x570.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Popular consumer coffee equipment maker Fellow just launched its first espresso machine, the Espresso Series 1. After hosting a launch event at its San Francisco headquarters today, the company is... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/22/fellow-launches-high-end-home-machine-the-espresso-series-1/>
+
+---
+
+## Fellow Espresso Series 1 Preview: Café Coffee, None of the Work
+
+date: 2025-04-22, from: Bon Appetet
+
+It pulls the best features of home and professional machines to create something that comes closer than anything else I’ve used to being the one espresso maker to rule them all. 
+
+<br> 
+
+<https://www.bonappetit.com/story/fellow-espresso-series-one-review>
+
+---
+
+## How to Make Milkshakes
+
+date: 2025-04-22, from: Taste of Home
+
+Strawberry? Peppermint fudge? Banana? Any flavor you like! Learn how to make milkshakes from scratch with our step-by-step guide (plus pictures). 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/how-to-make-milkshakes/>
+
+---
+
+## Cheers! Here’s What Taste of Home Editors Are Drinking This Spring
+
+date: 2025-04-22, from: Taste of Home
+
+<p>We connected with the Taste of Home editorial team to see what they're sipping on this season.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/spring-editors-drink-picks/">Cheers! Here&#8217;s What Taste of Home Editors Are Drinking This Spring</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/spring-editors-drink-picks/>
+
+---
+
+## Treacle Pudding
+
+date: 2025-04-22, from: Taste of Home
+
+Treacle pudding is a classic holiday dessert in the U.K. and Ireland. Source some golden syrup and Devon custard and you’ll be well on your way to an absolutely smashing British classic. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/treacle-pudding/>
+
+---
+
+## Inside Colombia’s Monumental Struggle to Balance Coffee Quality with Climate Adaptation
+
+date: 2025-04-22, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Gerardo Carvajal farm" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Researchers and coffee farmers in Colombia are trying to find strategies to adapt to unpredictable weather, rising temperatures and erratic rainfall, which are disrupting Colombia’s coffee industry by fueling pests... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/22/inside-colombias-monumental-struggle-to-balance-coffee-quality-with-climate-adaptation/>
+
+---
+
+## The Best Single-Serve Coffee Maker (2025) for All the Pod People Out There
+
+date: 2025-04-22, from: Bon Appetet
+
+You can get an easy cup that really tastes good, but you can also get…something else. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-single-serve-coffee-maker>
+
+---
+
+## Brooklyn Peltz Beckham Just Revealed the Dish He Cooked to Win Over His Wife
+
+date: 2025-04-22, from: Taste of Home
+
+<p>The celebrity son of David and Victoria Beckham has perfected his favorite dish to make for his wife, Nicola Peltz.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/brooklyn-peltz-beckham-spaghetti-bolognese/">Brooklyn Peltz Beckham Just Revealed the Dish He Cooked to Win Over His Wife</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/brooklyn-peltz-beckham-spaghetti-bolognese/>
 
 ---
 
@@ -70,18 +220,6 @@ date: 2025-04-22, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/coffee-is-the-most-consumed-beverage-in-the-us-report-says/>
-
----
-
-## Fellow Espresso Series 1 Preview: Café Coffee, None of the Work
-
-date: 2025-04-22, from: Bon Appetet
-
-It pulls the best features of home and professional machines to create something that comes closer than anything else I’ve used to being the one espresso maker to rule them all. 
-
-<br> 
-
-<https://www.bonappetit.com/story/fellow-espresso-series-one-review>
 
 ---
 
@@ -301,7 +439,7 @@ There’s no one perfect knife, but we’ll help you find the best one for you.
 
 date: 2025-04-21, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="little-dreamer-2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Opening a brick-and-mortar coffee shop may seem like a pie-in-the-sky idea for some people, but for the big dreamers behind&#160;Little Dreamer Coffee in Houston, it has translated into pies on... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="little-dreamer-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Opening a brick-and-mortar coffee shop may seem like a pie-in-the-sky idea for some people, but for the big dreamers behind&#160;Little Dreamer Coffee in Houston, it has translated into pies on... 
 
 <br> 
 
@@ -313,7 +451,7 @@ date: 2025-04-21, from: Daily Coffee News
 
 date: 2025-04-21, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-620x413.jpg" class="attachment-large size-large wp-post-image" alt="The-inside-guide-houston" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; As the specialty coffee industry prepares to land in Houston for the 2025 Specialty Coffee Expo, a brand-new guide is here to make sure you experience the best of... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-620x413.jpg" class="attachment-large size-large wp-post-image" alt="The-inside-guide-houston" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-inside-guide-houston.jpg 1200w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; As the specialty coffee industry prepares to land in Houston for the 2025 Specialty Coffee Expo, a brand-new guide is here to make sure you experience the best of... 
 
 <br> 
 

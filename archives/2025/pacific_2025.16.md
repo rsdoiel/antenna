@@ -1,11 +1,131 @@
 ---
 title: pacific
-updated: 2025-04-22 06:09:17
+updated: 2025-04-22 14:07:53
 ---
 
 # pacific
 
-(date: 2025-04-22 06:09:17)
+(date: 2025-04-22 14:07:53)
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Island’s only movie house to close on April 30
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+KRISTINE Nuñez brought her 7-year-old daughter, Dandre, to Regal Saipan’s Hollywood Theaters to watch “A Minecraft Movie” on Tuesday because it might be the last time they can see a film on the big screen. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/island-s-only-movie-house-to-close-on-april-30/article_0df80921-d98d-46a7-97c9-1becf6d8e8e1.html>
+
+---
+
+## SSHS cadets head to California for drill competition
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+THE first batch of cadets from Saipan Southern High School’s Manta Ray Battalion Unarmed and Armed Drill teams left the island on Tuesday to travel to Torrance, California where they will compete in the annual Golden Bear West Coast National Drill Meet. The rest of the SSHS cadets will head there today. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/sshs-cadets-head-to-california-for-drill-competition/article_febce4a2-b013-4aeb-8930-9954b0a8884a.html>
+
+---
+
+## King-Hinds commits to amplifying youth voices
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds on Saturday congratulated the newly sworn in members of the 20th Youth Congress, saying that she is looking forward to working with them. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-commits-to-amplifying-youth-voices/article_ec669fe5-96c1-46d2-a6d6-2fc172e42db0.html>
+
+---
+
+## Jury finds Reyes, Fu guilty
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+JURORS on Tuesday found former Chief of Parole Nick Reyes guilty of conspiracy to commit misconduct in public office, conspiracy to commit theft by deception, and theft by deception. They also found his co-defendant, F&amp;S Corporation owner Chuilian Fu, guilty of conspiracy to commit theft by deception, and theft by deception. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/jury-finds-reyes-fu-guilty/article_902376f0-1023-42d9-a1ee-9f6a64bc9432.html>
+
+---
+
+## US reopens protected Pacific marine reserve, sparking outrage from environmentalists
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+WASHINGTON (Pacific Media Network/Pacnews) — Environmentalists condemn President Donald Trump’s decision to reopen a Pacific marine reserve to commercial fishing, warning it threatens endangered species and fragile ocean ecosystems. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-reopens-protected-pacific-marine-reserve-sparking-outrage-from-environmentalists/article_15c046ec-6588-4cee-aa9f-272c25837454.html>
+
+---
+
+## ‘For our country’: China's patriots are buying the dip
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+SHANGHAI/SINGAPORE (Reuters) — Cao Mingjie had never traded stocks before Donald Trump's "Liberation Day." 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/for-our-country-chinas-patriots-are-buying-the-dip/article_97a85a94-a453-4cf0-bb2c-1f31a048921c.html>
+
+---
+
+## Man arrested for selling meth to informant
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+SUPERIOR Court Judge Joseph N. Camacho imposed a $100,000 cash bail on Alvin Jacob I. Blas, also known as “AJ,” who is accused of selling $100 worth of methamphetamine or “ice” to an informant on two occasions. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/man-arrested-for-selling-meth-to-informant/article_c29fe856-c2df-46c8-8629-ba5ae8099a02.html>
+
+---
+
+## Dengue, influenza outbreaks in the Pacific
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+ALOFI/NUKU'ALOFA/SUVA, (RNZ Pacific/Pacnews) — Several health outbreaks are being monitored across the Pacific, including the flu in Niue, and dengue in Tonga and Fiji. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/dengue-influenza-outbreaks-in-the-pacific/article_055f645a-38ff-4f12-8385-2ed3c528e85a.html>
+
+---
+
+## Poetry
+
+date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_9de68217-ba55-4a44-b06a-6fec5daa891d.html>
 
 ---
 
@@ -216,6 +336,20 @@ date: 2025-04-22, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/22/nation-world-news/news-in-brief-for-april-22-2/>
+
+---
+
+## Lava fountains reach 650 feet high in latest episode of Kilauea’s eruption
+
+date: 2025-04-22, from: Hawaii Tribune Harold
+
+
+				<p>Episode 18 of the ongoing Halema&#699;uma&#699;u crater eruption resumed today with lava overflowing the south vent at 3:20 a.m., followed by the onset of fountaining from both vents at 3:30 a.m.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/22/hawaii-news/lava-fountains-reach-650-feet-high-in-latest-episode-of-kilaueas-eruption/>
 
 ---
 
