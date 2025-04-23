@@ -1,11 +1,133 @@
 ---
 title: north america
-updated: 2025-04-23 06:07:05
+updated: 2025-04-23 14:08:25
 ---
 
 # north america
 
-(date: 2025-04-23 06:07:05)
+(date: 2025-04-23 14:08:25)
+
+---
+
+## Feminist Storytelling Against the Backdrop of Authoritarianism
+
+date: 2025-04-23, from: The Contrarian
+
+The ideas to which we are exposed in the theater are a measurement of our collective pulse 
+
+<br> 
+
+<https://contrarian.substack.com/p/feminist-storytelling-against-the>
+
+---
+
+## The Relatable Pontiff
+
+date: 2025-04-23, from: The Contrarian
+
+In an era of excess, Pope Francis&#8217;s simple lifestyle made him an unlikely star 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-relatable-pontiff>
+
+---
+
+## CECOT has no rules. Gitmo might be next.
+
+date: 2025-04-23, from: The Contrarian
+
+The architecture of cruelty is on the rebound. 
+
+<br> 
+
+<https://contrarian.substack.com/p/cecot-has-no-rules-gitmo-might-be>
+
+---
+
+## CECOT Slingshot
+
+date: 2025-04-23, from: The Contrarian
+
+The stage seems just about set for us to get the answer from the Supreme Court whether it will permit the judiciary to get rolled by an administration looking to use the label "foreign policy" to avoid all accountability. 
+
+<br> 
+
+<https://contrarian.substack.com/p/cecot-slingshot>
+
+---
+
+## 60 Minutes Producer Exits CBS: Oliver Darcy explains the state of play
+
+date: 2025-04-23, from: The Contrarian
+
+"People are basically having to decide between their principles and perhaps the survival of their company" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161968728/ce965ce8924db929882562c6349b1dec.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161968728/ce965ce8924db929882562c6349b1dec.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/60-minutes-producer-exits-cbs-oliver>
+
+---
+
+## Oopsie!
+
+date: 2025-04-23, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/oopsie>
+
+---
+
+##  How 7-Eleven Bought The Chicago Police 
+
+date: 2025-04-23, from: The Lever News
+
+ After the convenience chain store sponsored a Chicago Police Department foundation gala, officers increased police stops near 7-Elevens.  
+
+<br> 
+
+<https://www.levernews.com/how-7-eleven-bought-the-chicago-police/>
+
+---
+
+## Book removal enables the politicization of our Navy and Marine Corps
+
+date: 2025-04-23, from: The Contrarian
+
+The message of such action is clear, and it&#8217;s racist, prejudiced, and dangerous. 
+
+<br> 
+
+<https://contrarian.substack.com/p/book-removal-enables-the-politicization>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-23, from: The Contrarian
+
+Wednesday: 50501 protests in Massachusetts, California, Ohio, Florida, Virginia, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with The Contrarians 04/23
+
+date: 2025-04-23, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/23 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0423>
 
 ---
 
@@ -200,18 +322,6 @@ date: 2025-04-22, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/161835392/303b68a84452d5dc1cbdd6c7da5887f2.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/stronger-together-liz-shuler-on-the>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-22, from: The Contrarian
-
-Tuesday: 50501 protests in Montana, Oregon, Maine, Idaho and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-04-23 06:07:12
+updated: 2025-04-23 14:08:31
 ---
 
 # motorcycles
 
-(date: 2025-04-23 06:07:12)
+(date: 2025-04-23 14:08:31)
+
+---
+
+## NASCAR Power Rankings: Kyle Larson dominates at Bristol, but Denny Hamlin retains top spot
+
+date: 2025-04-23, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer When the NASCAR Cup Series drivers last took to the track before the Easter break, Kyle Larson was out front essentially all race long at&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-power-rankings-kyle-larson-dominates-at-bristol-but-denny-hamlin-retains-top-spot/>
+
+---
+
+## This Race Suit Just Snagged World Class Certification, But With Zero Leather
+
+date: 2025-04-23, from: Ride Apart, Electric Motorcycle News
+
+It’s so good that Superbike racer Scott Redding’s fully onboard. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757268/virus-power-racing-suit-no-leather/>
+
+---
+
+## Sea-Doo Might Be Building an Electric Hydrofoil Surfboard
+
+date: 2025-04-23, from: Ride Apart, Electric Motorcycle News
+
+Northshore, here we come! 
+
+<br> 
+
+<https://www.rideapart.com/news/757391/brp-sea-doo-electric-ev-hydrofoil-surfboard/>
 
 ---
 

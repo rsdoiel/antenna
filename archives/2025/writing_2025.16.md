@@ -1,11 +1,80 @@
 ---
 title: writing
-updated: 2025-04-23 06:07:10
+updated: 2025-04-23 14:08:29
 ---
 
 # writing
 
-(date: 2025-04-23 06:07:10)
+(date: 2025-04-23 14:08:29)
+
+---
+
+## Seven Writing Tips from Ramy Youssef
+
+date: 2025-04-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/seven-writing-tips-from-ramy-youssef" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/A%20woman%20wearing%20a%20purple%20hijab%20standing%20with%20a%20young%20boy%20wearing%20a%20basketball%20jersey%20and%20a%20backwards%20hat.%20A%20man%20with%20a%20mustache%20stands%20next%20to%20them%20looking%20thoughtful.%20They%20stand%20outside%20their%20home%2c%20with%20a%20brown%20fence%20behind%20them%20in%20%231.png" alt="A woman wearing a purple hijab standing with a young boy wearing a basketball jersey and a backwards hat. A man with a mustache stands next to them looking thoughtful. They stand outside their home, with a brown fence behind them in #1" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><a href="https://www.imdb.com/name/nm3858973/?ref_=ttfc_wr_10">Ramy Youssef</a> is an actor, writer, and producer who got his start in stand-up comedy, giving him an ease and confidence in front of audiences (and a place to test jokes that later make it into his TV shows).<br>&nbsp;<br>These skills were evident at this year’s SXSW, where he premiered the first few episodes of his new Prime Video series, <span style="font-style: italic;">#1 Happy Family USA</span>. He spoke candidly to the audience about his intent with the show and the process of bringing it to fruition. He pitched it way back in 2020. During Donald Trump’s first impeachment trial.<br>&nbsp;<br>“Remember the happy Trump?” he riffed on stage. “He’s sad now, by the way. I don’t know if you guys noticed.”<br>&nbsp;<br>This, delivered during his intro of the series, with a charming approachability and the sense that he was giving us a look into how his brain works.<br>&nbsp;<br>His new animated show is a portrait of a Muslim American family living in New Jersey in 2001. (And if you think you might know where that’s going, you’re right.) But beyond that, it’s a story about identity and fitting in within a society stacked against these characters. Youssef called it a “show about capitalism.”<br>&nbsp;<br>It’s also just, you know, really funny. Each scene is crammed with sharp humor and blink-and-you’ll-miss-it visual gags.<br>&nbsp;<br>Weeks later, Final Draft hopped on a Zoom call with him to learn even more from Youssef. How does he outline? How does he balance tone? What’s different about animation? Settle in for his lessons.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/seven-writing-tips-from-ramy-youssef>
+
+---
+
+## Online 2025 Hugo Voting Open
+
+date: 2025-04-23, from: Locus Magazine
+
+<p>Seattle Worldcon has announced that online voting for &#8220;the 2025 Hugo Awards, the Lodestar Award for Best Young Adult Book, and the Astounding Award for Best New Writer&#8221; is now open.</p>
+<p>WSFS members can access the Hugo Awards voter packet and cast their ballot by logging in to the Seattle Worldcon membership portal. The deadline is July 23, 2025, 11:59 p.m. PDT, and votes can be resubmitted at any point  <a href="https://locusmag.com/2025/04/online-2025-hugo-voting-open/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/online-2025-hugo-voting-open/>
+
+---
+
+## 2025 Guggenheim Fellows
+
+date: 2025-04-23, from: Locus Magazine
+
+<p></p>
+<p>The 2025 Guggenheim Fellows have been announced by the John Simon Guggenheim Memorial Foundation. Authors of genre interest announced as fellows include Nana Kwame Adjei-Brenyah, Marie-Helene Bertino, Sheila Heti, Miranda July, and Jonathan Lethem. Fellowships were awarded to 198 recipients across 53 fields of study &#8220;based on both prior career achievement and exceptional promise.&#8221;</p>
+<p>The Foundation was started in 1925 and has awarded grants totaling over $400 million to over  <a href="https://locusmag.com/2025/04/2025-guggenheim-fellows/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-guggenheim-fellows/>
+
+---
+
+## 2025 Young Lions Fiction Award Finalists
+
+date: 2025-04-23, from: Locus Magazine
+
+<p>The New York Public Library has announced its Young Lions Fiction Award finalists for 2025. Titles of genre interest in the five-title list include <strong>Ghostroots</strong> by &#8216;Pemi Aguda.</p>
+<p>The $10,000 prize is awarded &#8220;each year to an American writer aged 35 or younger for either a novel or a collection of short stories&#8221; by a panel of judges. Previous winners include E.J. Koh&#8217;s <strong>The Liberators</strong> (Tin House) in 2024 and  <a href="https://locusmag.com/2025/04/2025-young-lions-fiction-award-finalists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-young-lions-fiction-award-finalists/>
+
+---
+
+## Shroud by Adrian Tchaikovsky: Review by Alexandra Pierce
+
+date: 2025-04-23, from: Locus Magazine
+
+<p><strong>Shroud</strong>, Adrian Tchaikovsky (Tor UK 978-1-0350-1379-1, £22.00, 448pp, hc) February 2025. (Orbit US 978-0316579025, $19.99, 416pp, tp) June 2025.</p>
+<p>Adrian Tchaikovsky’s <strong>Shroud </strong>is an epic first-contact novel and delivers one of the most intriguing visions of alien/human interaction that I’ve read in many years.</p>
+<p>The Garveneer has been tasked with deciding whether a particular solar system is worth strip-mining. Through their exploration they discover that a gas giant’s moon  <a href="https://locusmag.com/2025/04/shroud-by-adrian-tchaikovsky-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/shroud-by-adrian-tchaikovsky-review-by-alexandra-pierce/>
 
 ---
 

@@ -1,11 +1,121 @@
 ---
 title: food
-updated: 2025-04-23 06:07:14
+updated: 2025-04-23 14:08:33
 ---
 
 # food
 
-(date: 2025-04-23 06:07:14)
+(date: 2025-04-23 14:08:33)
+
+---
+
+## Chef Angelo Sosa Shares His 4 Favorite Kitchen Appliances
+
+date: 2025-04-23, from: Bon Appetet
+
+Four smart appliances make his home kitchen run like a restaurant. 
+
+<br> 
+
+<https://www.bonappetit.com/story/chef-sosa-kitchen-appliances>
+
+---
+
+## Apple Juice Recall: 7,234 Cases Recalled for Potential Mold Contamination
+
+date: 2025-04-23, from: Taste of Home
+
+<p>This popular apple juice was distributed in 28 states.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/apple-juice-recall-2025/">Apple Juice Recall: 7,234 Cases Recalled for Potential Mold Contamination</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/apple-juice-recall-2025/>
+
+---
+
+## Best Cold Brew Coffee Maker for a Smooth Morning Cup (2025)
+
+date: 2025-04-23, from: Bon Appetet
+
+Good things come to those who wait. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cold-brew-coffee-maker>
+
+---
+
+## Tiny Martinis Are Taking Over Bar Menus
+
+date: 2025-04-23, from: Bon Appetet
+
+These bars are betting big on small cocktails. 
+
+<br> 
+
+<https://www.bonappetit.com/story/tiny-martinis-and-cocktails-are-taking-over-bar-menus>
+
+---
+
+## La Marzocco Announces Booth Presence at SCA Expo 2025
+
+date: 2025-04-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. La Marzocco’s booth will span spaces 2031, 2131, and 2231 combined. 
+
+<br> 
+
+<https://sprudge.com/la-marzocco-announces-booth-presence-at-sca-expo-2025-321823.html>
+
+---
+
+## Neuhaus Neotec Launches Gourmet Line of Industrial Hot Air Roasters
+
+date: 2025-04-23, from: Daily Coffee News
+
+<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg" class="attachment-large size-large wp-post-image" alt="neuhaus neotec gourmet" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-150x111.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>German industrial roasting systems maker Neuhaus Neotec recently introduced three new industrial hot-air roasting machines under the Gourmet series name. The three new models are: the Gourmet 1000, which roasts... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/23/neuhaus-neotec-launches-gourmet-line-of-industrial-hot-air-roasters/>
+
+---
+
+## Three Questions with Ryana Kuruvilla of India’s Kelachandra Coffee
+
+date: 2025-04-23, from: Daily Coffee News
+
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-620x420.jpeg" class="attachment-large size-large wp-post-image" alt="Ryana Kuruvilla, Head of People and Culture, Kelachandra Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-620x420.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-300x203.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-150x102.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-768x520.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Representing the seventh generation of family members as part of the Kelachandra agricultural group in India, Ryana Kuruvilla keeps one foot moving toward the future while the other remains grounded... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/23/three-questions-with-ryana-kuruvilla-of-indias-kelachandra-coffee/>
+
+---
+
+## All The Coolest Stuff Happening At The 2025 SCA Expo In Houston
+
+date: 2025-04-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. All the events at and around the SCA Expo in Houston, Texas. 
+
+<br> 
+
+<https://sprudge.com/all-the-coolest-stuff-happening-at-the-2025-sca-expo-in-houston-321435.html>
+
+---
+
+## I Need Spring Produce Recipes
+
+date: 2025-04-23, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Shilpa talk about all things spring cooking. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-spring-produce-recipes>
 
 ---
 
@@ -13,7 +123,7 @@ updated: 2025-04-23 06:07:14
 
 date: 2025-04-23, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Service Layer Coperative" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A grassroots network of coffee equipment technicians has formed a first-of-its kind cooperative called the Service Layer Cooperative (SLC), focusing on providing coffee businesses throughout the United States with reliable,... 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Service Layer Coperative" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A grassroots network of coffee equipment technicians has formed a first-of-its kind cooperative called the Service Layer Cooperative (SLC), focusing on providing coffee businesses throughout the United States with reliable,... 
 
 <br> 
 
@@ -65,7 +175,7 @@ date: 2025-04-23, from: Chili Pepper Madness
 
 date: 2025-04-22, from: Daily Coffee News
 
-<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Mazzer_2025-04_MINI G_02" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian grinder and burr maker Mazzer today revealed the Mazzer Mini G, a grind-by-weight version of its Mazzer Mini grinder, which was also recently modernized and re-introduced. Launched earlier this... 
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Mazzer_2025-04_MINI G_02" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Italian grinder and burr maker Mazzer today revealed the Mazzer Mini G, a grind-by-weight version of its Mazzer Mini grinder, which was also recently modernized and re-introduced. Launched earlier this... 
 
 <br> 
 
@@ -127,7 +237,7 @@ date: 2025-04-22, from: The Sprudge
 
 date: 2025-04-22, from: Daily Coffee News
 
-<div><img width="620" height="460" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg" class="attachment-large size-large wp-post-image" alt="ellow Espresso machine 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-768x570.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Popular consumer coffee equipment maker Fellow just launched its first espresso machine, the Espresso Series 1. After hosting a launch event at its San Francisco headquarters today, the company is... 
+<div><img width="620" height="460" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg" class="attachment-large size-large wp-post-image" alt="ellow Espresso machine 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-768x570.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Popular consumer coffee equipment maker Fellow just launched its first espresso machine, the Espresso Series 1. After hosting a launch event at its San Francisco headquarters today, the company is... 
 
 <br> 
 

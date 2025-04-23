@@ -1,11 +1,137 @@
 ---
 title: home
-updated: 2025-04-23 06:07:12
+updated: 2025-04-23 14:08:31
 ---
 
 # home
 
-(date: 2025-04-23 06:07:12)
+(date: 2025-04-23 14:08:31)
+
+---
+
+## The Best Olive Oil Tasting in Paso Robles
+
+date: 2025-04-23, from: California Grown
+
+<p>Paso Robles might be known for its world-class wines, but tucked among the vineyards and rolling hills is another liquid gold worth sipping: California extra virgin olive oil. With its Mediterranean climate, rich soils, and long growing season, Paso Robles has become one of California’s emerging olive oil destinations. Family-owned farms and artisan producers are [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/the-best-olive-oil-tasting-in-paso-robles-california/" data-wpel-link="internal" target="_self">The Best Olive Oil Tasting in Paso Robles</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/the-best-olive-oil-tasting-in-paso-robles-california/>
+
+---
+
+## Earth Day Recap — Secretary Ross with Governor and First Partner yesterday at CSU Chico
+
+date: 2025-04-23, from: Calfifornia Dept. Aggriculture blog
+
+On Earth Day yesterday, CDFA Secretary Karen Ross joined Governor Gavin Newsom and First Partner Jennifer Siebel Newsom at CSU Chico’s University Farm to celebrate the progress being made across California’s agricultural education system and its importance to sustainability and &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28908">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28908>
+
+---
+
+## Rental Revamp: After a Breakup, an L.A. Artist Goes Bachelor Mode on a Funky Basement Flat
+
+date: 2025-04-23, from: Dwell
+
+Thomas Rodehuth pieces together an oddball nest—in an apartment built by John Lautner—with custom furnishings and his own painted handiwork. 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-artist-thomas-rodehuth-john-lautner-apartment-los-angeles-08325a55>
+
+---
+
+## What Happened to the Lines On Solo Cups?
+
+date: 2025-04-23, from: Family Handyman Blog
+
+<p>The true purpose of the horizontal lines on the sides of the original Solo cups have been an enduring mystery, but no more. Here's the solution.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/solo-cup-lines/">What Happened to the Lines On Solo Cups?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/solo-cup-lines/>
+
+---
+
+## A Famed Philadelphia Architect’s Home Just Hit the Market for $3.3M
+
+date: 2025-04-23, from: Dwell
+
+Over the course of 50 years, Frank Weise turned a carriage house into a residence and studio defined by intricate brickwork and a dramatic mansard roof. 
+
+<br> 
+
+<https://www.dwell.com/article/architect-frank-weise-home-and-studio-philadelphia-real-estate-710c0fd1>
+
+---
+
+## A Cutout in the Corner of This Belgian Home Leads to a New Dining Room
+
+date: 2025-04-23, from: Dwell
+
+The curved incision opens onto a polished concrete patio with a modernist-style glass box. 
+
+<br> 
+
+<https://www.dwell.com/article/sofie-madam-architectuur-renovation-modernist-kitchen-8080afe0>
+
+---
+
+## 17 of the Best Companion Plants to Grow with Leeks
+
+date: 2025-04-23, from: The Gardener's Path
+
+<p>Cool-season leeks are suited to USDA Hardiness Zones 5 to 10 and prefer full sun, fertile soil, and moderate moisture. Consider interplanting these alliums with one or more companion plants that share similar cultural requirements. Discover 17 of the best companion plants for leeks in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/companion-plants-leeks/">17 of the Best Companion Plants to Grow with Leeks</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/companion-plants-leeks/>
+
+---
+
+## How They Pulled It Off: A "Rainbow Tornado" Paracord Banister That Gives a Family Peace of Mind
+
+date: 2025-04-23, from: Dwell
+
+Cedar Architecture and Treenet Collective come up with a colorful and creative solution for making an open staircase feel contained. 
+
+<br> 
+
+<https://www.dwell.com/article/cedar-architecture-treenet-collective-rainbow-tornado-73df416c>
+
+---
+
+## Everyone’s Favorite Luxury Bedding Line Is Coming to Target
+
+date: 2025-04-23, from: Sunset Magazine - Living in the West
+
+Parachute is beloved for its high-quality, luxe bedding and linens. Now, the brand is teaming up with Target on an affordable collection. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/parachute-target-collection>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-23, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -114,6 +240,18 @@ Don’t let allergies get in your way—here's everything you need to hike throu
 
 ---
 
+## These Spring Textiles Will Bring You Down to Earth
+
+date: 2025-04-22, from: Dwell
+
+Rich textures, bold hues, and playful pops of color pay homage to the spirit of the season. 
+
+<br> 
+
+<https://www.dwell.com/article/spring-textiles-down-to-earth-collection-perennials-640911ee>
+
+---
+
 ## When It Rains, This Japanese Home’s Concrete Deck Becomes a Reflecting Pool
 
 date: 2025-04-22, from: Dwell
@@ -216,18 +354,6 @@ date: 2025-04-22, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/140-animals-that-start-with-e-with-pictures-and-names/>
-
----
-
-## Homepage 2025
-
-date: 2025-04-22, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

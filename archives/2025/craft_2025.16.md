@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-04-23 06:07:14
+updated: 2025-04-23 14:08:33
 ---
 
 # craft
 
-(date: 2025-04-23 06:07:14)
+(date: 2025-04-23 14:08:33)
+
+---
+
+## ‘Blems’ – Available Only at Our Anthe Storefront
+
+date: 2025-04-23, from: Lost Arg Press blog
+
+Our new storefront is fully up and running these days – and one of the benefits of visiting us in Covington is the opportunity to shop our Seconds Shelf (which is the Boarded Bookcase from “The Anarchist‘s Design Book“). On it go all of the books and tools that aren&#8217;t quite perfect – items we... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/23/blems-available-only-at-our-storefront/>
 
 ---
 

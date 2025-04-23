@@ -1,23 +1,140 @@
 ---
 title: socal north
-updated: 2025-04-23 06:07:06
+updated: 2025-04-23 14:08:25
 ---
 
 # socal north
 
-(date: 2025-04-23 06:07:06)
+(date: 2025-04-23 14:08:25)
 
 ---
 
-## Another partly sunny and mild day for SoCal
+## Inside LA’s mental health court: meth, homelessness and the judge who wants to help
 
 date: 2025-04-23, updated: 2025-04-23, from: The LAist
 
-Partly sunny across Los Angeles, with highs near 67. 
+Addiction and homelessness are a constant presence in L.A.'s mental health court. Its judge wants defendants to "feel like someone who's deep in the system of power cares about them." 
 
 <br> 
 
-<https://laist.com/news/climate-environment/partly-sunny-and-mild-across-the-southland>
+<https://laist.com/news/inside-las-mental-health-court-meth-homelessness-and-the-judge-who-wants-to-help>
+
+---
+
+## UC has been enrolling more in-state students. Proposed state cuts may halt that growth
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+The UC has grown its enrollment of California undergraduates by 16,000 in the last five years. University officials say they won’t be able to continue that growth if state funding is cut. 
+
+<br> 
+
+<https://laist.com/news/education/uc-has-been-enrolling-more-in-state-students-proposed-state-cuts-may-halt-that-growth>
+
+---
+
+## Police arrest man suspected of cutting down trees in downtown LA
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+L.A. resident Samuel Patrick Groft was taken into custody Tuesday on suspicion of felony vandalism. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/los-angeles-downtown-tree-cut-chainsaw-arrest>
+
+---
+
+## Long Beach is giving away free gun safes to help prevent accidental firearm deaths
+
+date: 2025-04-23, from: Longbeach Post
+
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1536x1152.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-2048x1536.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1320x990.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“Using a gun safe to store firearms reduces the risk of accidental injuries and fatalities, particularly among children,” the city’s chief health officer said.</p>
+<p>The post <a href="https://lbpost.com/news/health/free-gun-safes-long-beach-accidental-firearm-deaths">Long Beach is giving away free gun safes to help prevent accidental firearm deaths</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/free-gun-safes-long-beach-accidental-firearm-deaths>
+
+---
+
+## Harvey Weinstein is on trial again. Opening arguments start Wednesday
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+Weinstein is facing sex crimes charges after his 2020 New York conviction was overturned last year. The #MeToo movement was catalyzed in part by the many women who came forward to accuse the disgraced producer of misconduct. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/harvey-weinstein-is-on-trial-again-opening-arguments-start-wednesday>
+
+---
+
+## What to know as the government begins collections on defaulted student debt
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+The Department of Education says it will resume collections on May 5 and send wage garnishment notices "later this summer." Here's how to know — and what to do — if you'll be affected. 
+
+<br> 
+
+<https://laist.com/news/education/what-to-know-as-the-government-begins-collections-on-defaulted-student-debt>
+
+---
+
+## These communities are unaware they’ve lived near toxic gas for decades. Why has no action been taken?
+
+date: 2025-04-23, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Five facilities near schools and houses in LA County fumigate produce shipped from overseas with methyl bromide. But the air agency doesn’t plan to monitor the air or take any immediate steps to protect people from the gas, which can damage lungs and cause neurological effects.</p>
+<p>The post <a href="https://lbpost.com/news/health/these-communities-are-unaware-theyve-lived-near-toxic-gas-for-decades-why-has-no-action-been-taken">These communities are unaware they’ve lived near toxic gas for decades. Why has no action been taken?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/these-communities-are-unaware-theyve-lived-near-toxic-gas-for-decades-why-has-no-action-been-taken>
+
+---
+
+## Police release photos of rescued dog shown in viral animal abuse video; suspected abuser arrested
+
+date: 2025-04-23, from: Longbeach Post
+
+<figure><img width="1024" height="659" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz.jpg 1060w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The video showed a man slamming the dog into the ground. “This type of cruelty has no place in our community,” Police Chief Wally Hebeish said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/dog-rescued-abuse-video-long-beach-suspect-arrested">Police release photos of rescued dog shown in viral animal abuse video; suspected abuser arrested</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/dog-rescued-abuse-video-long-beach-suspect-arrested>
+
+---
+
+## ‘Unprecedented’ toxic algae bloom continues to kill Southern California whales and other wildlife
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+Rescuers have received thousands of calls about dolphins, sea lions, birds and other animals who need help. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/unprecedented-toxic-algae-bloom-killing-southern-california-wildlife>
+
+---
+
+## These yellow flowers cover the 110 Freeway walls. How they got there
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+This sunny vine thrives in an unforgiving urban environment — could that become a problem? 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/los-angeles-110-freeway-yellow-flowers-sound-wall-cats-claw>
 
 ---
 
@@ -33,15 +150,15 @@ On top of layoffs and budget cuts, the mayor’s budget proposal includes a pess
 
 ---
 
-## ‘Unprecedented’ toxic algae bloom continues to kill Southern California wildlife
+## Another partly sunny and mild day for SoCal
 
 date: 2025-04-23, updated: 2025-04-23, from: The LAist
 
-Rescuers have received thousands of calls about dolphins, sea lions, birds and other animals who need help. 
+Partly sunny across Los Angeles, with highs near 67. 
 
 <br> 
 
-<https://laist.com/news/climate-environment/unprecedented-toxic-algae-bloom-killing-southern-california-wildlife>
+<https://laist.com/news/climate-environment/partly-sunny-and-mild-across-the-southland>
 
 ---
 
@@ -54,18 +171,6 @@ Alexis Madrigal's new book makes the case that Oakland is both a sacrificial lan
 <br> 
 
 <https://laist.com/news/journalist-alexis-madrigal-on-why-oakland-serves-as-a-cautionary-tale-of-globalization>
-
----
-
-## These yellow flowers cover the 110 Freeway walls. How they got there
-
-date: 2025-04-23, updated: 2025-04-23, from: The LAist
-
-This sunny vine thrives in an unforgiving urban environment — could that become a problem? 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/los-angeles-110-freeway-yellow-flowers-sound-wall-cats-claw>
 
 ---
 
@@ -85,7 +190,7 @@ Billy and Tina, the last two remaining Asian elephants at the L.A. Zoo, are relo
 
 date: 2025-04-22, from: Longbeach Post
 
-<figure><img width="1024" height="583" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-1024x583.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-1024x583.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-768x437.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-190x108.jpg 190w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="583" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-1024x583.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-1024x583.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-768x437.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-190x108.jpg 190w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“I think the entire country has to be courageous and stand up in this moment and demand that this cannot happen,” Garcia said.</p>
 <p>The post <a href="https://lbpost.com/news/politics/robert-garcia-el-salvador-wrongfully-deported-man-kilmer">Rep. Robert Garcia returns from El Salvador, demands the release of wrongfully deported man</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -112,7 +217,7 @@ Do is scheduled to be sentenced in June to up to five years in federal prison. C
 
 date: 2025-04-22, from: Longbeach Post
 
-<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1024x689.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1024x689.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-300x202.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-768x517.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-160x108.jpg 160w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1200x808.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-400x269.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL.jpg 1536w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1024x689.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1024x689.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-300x202.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-768x517.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-160x108.jpg 160w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1200x808.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-400x269.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL.jpg 1536w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The victim’s two young children spoke during the sentencing hearing, with one asking the defendant, “Why did you think killing my daddy was OK?”</p>
 <p>The post <a href="https://lbpost.com/news/crime/crows-nest-bar-murder-sentencing-james-lopez">Man gets 50 years to life for ‘very disturbing’ murder of employee at Crow’s Nest bar</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -210,6 +315,18 @@ Santa Monica College started the first community college program to train people
 <br> 
 
 <https://laist.com/news/education/a-new-program-trains-college-students-for-jobs-helping-homeless-californians-can-it-survive>
+
+---
+
+## Angelenos Take Action: Earth Day 2025
+
+date: 2025-04-22, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/angelenos-take-action-earth-day-2025/>
 
 ---
 

@@ -1,11 +1,121 @@
 ---
 title: pacific
-updated: 2025-04-23 06:07:07
+updated: 2025-04-23 14:08:26
 ---
 
 # pacific
 
-(date: 2025-04-23 06:07:07)
+(date: 2025-04-23 14:08:26)
+
+---
+
+## UH-led breakthroughs propel search for ice on Moon
+
+date: 2025-04-23, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa researchers are using two innovative approaches to advance the search for ice on the Moon.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/23/search-for-ice-on-moon/"><abbr>UH</abbr>-led breakthroughs propel search for ice on Moon</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/23/search-for-ice-on-moon/>
+
+---
+
+## Image of the Week: Hauʻoli Lā Honua
+
+date: 2025-04-23, from: University of Hawaiʻi News
+
+<p>This week's image is from the Lyon Arboretum.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/23/image-of-the-week-hauoli-la-honua/">Image of the Week: Hauʻoli Lā Honua</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/23/image-of-the-week-hauoli-la-honua/>
+
+---
+
+## Palau president stresses economic resilience in face of trade uncertainty
+
+date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Palau President Surangel Whipps Jr. said Palau must brace for the economic impact of global trade tensions but avoid reactionary responses, especially when it comes to investments and cost-of-living challenges. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-president-stresses-economic-resilience-in-face-of-trade-uncertainty/article_b11a98d2-4a47-42c8-9b73-fe2b7b33e79e.html>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Poetry
+
+date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_9de68217-ba55-4a44-b06a-6fec5daa891d.html>
+
+---
+
+## US stock futures jump as Trump backtracks on threats to fire Fed head; Tesla jumps
+
+date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+
+(Reuters) — U.S. stock index futures leapt on Wednesday, after President Donald Trump backed off from his threats to fire the head of the Federal Reserve and raised hopes for a trade deal with China. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-stock-futures-jump-as-trump-backtracks-on-threats-to-fire-fed-head-tesla-jumps/article_dfbdc3ed-416f-4279-bc2e-2d898649d82c.html>
+
+---
+
+## Musical ‘The Great Gatsby’ brings 1920s glamour to London's West End
+
+date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+
+LONDON (Reuters) — A musical incarnation of author F. Scott Fitzgerald's classic 1925 novel "The Great Gatsby" has opened in London's West End, offering audiences the chance to step into Jay Gatsby's world of parties at his Long Island mansion near New York City. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/musical-the-great-gatsby-brings-1920s-glamour-to-londons-west-end/article_9f1d2fef-39aa-4dbd-9d21-b9e0944fcd01.html>
+
+---
+
+## CNMI government out of touch with economic reality
+
+date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds on Wednesday said the CNMI government does not view the local economy the same way the private sector does. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-government-out-of-touch-with-economic-reality/article_843d8bae-575a-48d4-ac8c-4af971265a59.html>
+
+---
+
+## 2 former lawmakers oppose bid to lease former Mariana Resort
+
+date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+
+FORMER Reps. Sheila Babauta and Juan I. Tenorio on Tuesday expressed opposition to Mariana Eland Corporation's proposal to lease the property in Marpi previously occupied by the defunct Mariana Resort &amp; Spa. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/2-former-lawmakers-oppose-bid-to-lease-former-mariana-resort/article_363e7d31-b85d-457d-860e-1327ba62849c.html>
 
 ---
 
@@ -399,18 +509,6 @@ The post <a href="https://www.hawaii.edu/news/2025/04/22/kraus-honorable-mention
 
 ---
 
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
 ## Island’s only movie house to close on April 30
 
 date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
@@ -504,18 +602,6 @@ ALOFI/NUKU'ALOFA/SUVA, (RNZ Pacific/Pacnews) — Several health outbreaks are be
 <br> 
 
 <https://www.mvariety.com/news/regional_world/dengue-influenza-outbreaks-in-the-pacific/article_055f645a-38ff-4f12-8385-2ed3c528e85a.html>
-
----
-
-## Poetry
-
-date: 2025-04-22, updated: 2025-04-22, from: Marianas Variety
-
- 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/poetry/article_9de68217-ba55-4a44-b06a-6fec5daa891d.html>
 
 ---
 

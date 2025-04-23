@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-04-23 06:07:10
+updated: 2025-04-23 14:08:29
 ---
 
 # games
 
-(date: 2025-04-23 06:07:10)
+(date: 2025-04-23 14:08:29)
+
+---
+
+## How to level up in Oblivion Remastered
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+Leveling up in The Elder Scrolls 4: Oblivion Remastered is far more complicated than it needs to be. You don’t just earn XP and click through a menu. Instead, the leveling system dictates that you do a bunch of other actions first. Our Oblivion Remastered guide will tell you all about the leveling system. We’ll [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563551/level-up-how-to-leveling-system>
+
+---
+
+## How to make Cosmic Exploration macros in FFXIV
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+A fancy new crafting/gathering game mode, Cosmic Exploration, is out in Final Fantasy 14 with some pretty enticing rewards, so the reasonable thing to do is… immediately look up macros to help you automate the process and ease the grind, right? Well, I have some bad and good news for you. The bad news is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting>
+
+---
+
+## This $28 id shooter bundle lets you rip and tear Nazis and lesser monsters
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+Humble is currently offering an amazing bundle for anyone who’s as excited as we are to rejoin the Doom Slayer in Doom: The Dark Ages on May 14. The $28 id &#38; Friends bundle features every Doom title ever published, including Doom 3, Doom 64, and all of the post-launch DLC for Doom Eternal, in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/563830/doom-the-dark-ages-wolfenstein-humble-bundle-sale>
+
+---
+
+## Nintendo’s awkward marketing language, explained
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+While everyone was enjoying the massive deluge of Switch 2 news Nintendo uncorked on April 2, my broken brain couldn’t help but focus on something far less important: awkward marketing language. I’ve struggled to come up with a succinct and simplistic way to explain this to other people, so let’s instead use an example from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/563692/nintendos-awkward-marketing-language-explained>
+
+---
+
+## How to lockpick in Oblivion Remastered
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+Lockpicking is one of the best ways to unlock chests and doors The Elder Scrolls 4: Oblivion Remastered — and to get loot. You will encounter loads of locked chests and doors while exploring the lands and dungeons of Oblivion Remastered. To bypass these locks as you encounter them, you will need to play a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/562559/lockpicking-how-to-lockpick>
+
+---
+
+## Clair Obscur: Expedition 33 is a studio’s debut RPG that exceeds all expectations
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+When I hit credits on Clair Obscur: Expedition 33, I was left with the feeling that it was a role-playing game that’s like a lot of games that came before it — your Elden Ring, Final Fantasy, and more interestingly, Nier Replicant — and yet, not a lot of games are quite like it. Sure, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/563522/clair-obscur-expedition-33-review-ps5-pc-xbox>
+
+---
+
+## All Oblivion Remastered console commands list and how to use them
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+Console commands allow you to play Oblivion Remastered pretty much however you want. You can fly around the skies, max out all of your skills and attributes, get the best and strongest items, or become a literal god. Most everything is possible through the use of console commands, as long as you know what they [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563421/console-commands-list-all-how-to-use>
+
+---
+
+## This expansion card for the Xbox series X is on sale for its lowest price ever
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+If installing the Elder Scrolls 4: Oblivion remaster has gobbled the last bits of free real estate on your Xbox Series X, you’ll want to check out this deal on the 2 TB model of the WD_Black C50 expansion card, which is currently discounted at its lowest price ever. Typically, this expansion card costs $259.99, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/563422/xbox-series-x-expansion-card-sale>
+
+---
+
+## The Predator: Badlands trailer is a fan’s dream come true
+
+date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
+
+Some of history’s finest ideas seem obvious in hindsight: Add peanut butter to chocolate; create a global trade network to build a complex, lucrative system of mutual reliance that disincentivizes war; make a Predator movie in which the alien hunter is the hero instead of the villain.&#160; Long relegated to “Predator extended universe,” the concept [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/563721/predator-badlands-trailer-dan-trachtenb>
 
 ---
 

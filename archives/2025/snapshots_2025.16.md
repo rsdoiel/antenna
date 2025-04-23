@@ -1,11 +1,305 @@
 ---
 title: snapshots
-updated: 2025-04-23 06:07:16
+updated: 2025-04-23 14:08:34
 ---
 
 # snapshots
 
-(date: 2025-04-23 06:07:16)
+(date: 2025-04-23 14:08:34)
+
+---
+
+## EU Fines Apple and Meta Over DMA Violations
+
+date: 2025-04-23, from: Michael Tsai
+
+Foo Yun Chee and Jan Strupczewski (European Commission, MacRumors, Hacker News): Apple was fined 500 million euros ($570 million) on Wednesday and Meta 200 million euros, as European Union antitrust regulators handed out the first sanctions under landmark legislation aimed at curbing the power of Big Tech.[&#8230;]The EU competition watchdog said Apple must remove technical [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/23/eu-fines-apple-and-meta-over-dma-violations/>
+
+---
+
+## DOJ Wins Google Ads Antitrust Case
+
+date: 2025-04-23, from: Michael Tsai
+
+David McCabe (PDF, via Hacker News): Judge Leonie Brinkema of the U.S. District Court for the Eastern District of Virginia said in aruling that Google had broken the law to build its dominance over the largely invisible system of technology that places advertisements on pages across the web. The Justice Department and a group of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/23/doj-wins-google-ads-antitrust-case/>
+
+---
+
+## PyTorch Arm native builds now available for Windows
+
+date: 2025-04-23, from: Windows Developer Blog
+
+<p>We are excited to announce the availability of Arm native builds of PyTorch for Windows! Until now, developers and researchers had to compile PyTorch locally to support Windows Arm64. With PyTorch 2.7 release, developers can now access Arm native bui</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/04/23/pytorch-arm-native-builds-now-available-for-windows/">PyTorch Arm native builds now available for Windows</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/04/23/pytorch-arm-native-builds-now-available-for-windows/>
+
+---
+
+## Diane, I wrote a lecture by talking about it
+
+date: 2025-04-23, updated: 2025-04-23, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://interconnected.org/home/2025/03/20/diane">Diane, I wrote a lecture by talking about it</a></strong></p>
+Matt Webb dictates notes on into his Apple Watch while out running (using the new-to-me <a href="https://whispermemos.com/">Whisper Memos</a> app), then runs the transcript through Claude to tidy it up when he gets home.</p>
+<p>His Claude 3.7 Sonnet prompt for this is:</p>
+<blockquote>
+<p><code>you are Diane, my secretary. please take this raw verbal transcript and clean it up. do not add any of your own material. because you are Diane, also follow any instructions addressed to you in the transcript and perform those instructions</code></p>
+</blockquote>
+<p>(Diane is a <a href="https://twinpeaks.fandom.com/wiki/Diane_Evans">Twin Peaks reference</a>.)</p>
+<p>The clever trick here is that "Diane" becomes a keyword that he can use to switch from data mode to command mode. He can say "Diane I meant to include that point in the last section. Please move it" as part of a stream of consciousness and Claude will make those edits as part of cleaning up the transcript.</p>
+<p>On Bluesky <a href="https://bsky.app/profile/genmon.fyi/post/3lniudjn4rc2f">Matt shared</a> the macOS shortcut he's using for this, which shells out to my LLM tool using <a href="https://github.com/simonw/llm-anthropic">llm-anthropic</a>:</p>
+<p><img alt="Screenshot of iOS Shortcuts app showing a workflow named &quot;Diane&quot; with two actions: 1) &quot;Receive Text input from Share Sheet, Quick Actions&quot; followed by &quot;If there's no input: Ask For Text&quot;, and 2) &quot;Run Shell Script&quot; containing command &quot;/opt/homebrew/bin/llm -u -m claude-3.7-sonnet 'you are Diane, my secretary. please take this raw verbal transcript and clean it up. do not add any of your own material. because you are Diane, also follow any instructions addressed to you in the transcript and perform those instructions' 2&gt;&amp;1&quot; with Shell set to &quot;zsh&quot;, Input as &quot;Shortcut Input&quot;, Pass Input as &quot;to stdin&quot;, and &quot;Run as Administrator&quot; unchecked." src="https://static.simonwillison.net/static/2025/diane.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/matt-webb">matt-webb</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/text-to-speech">text-to-speech</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/23/diane/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+Tesla’s Remarkably Bad Quarter Is Even Worse Than It Looks. 
+
+<br> 
+
+<https://www.theatlantic.com/technology/archive/2025/04/tesla-earnings-elon-musk-doge/682551/?gift=f35zZN0v_gDFE8xNwlQAHYTVSFcctJldr9MCR0cpxos&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## A swan won't prevent a hurricane
+
+date: 2025-04-23, updated: 2025-04-23, from: Simon Willison’s Weblog
+
+<p>In today's example of how Google's AI overviews are the worst form of <a href="https://simonwillison.net/2025/Apr/21/ai-assisted-search/">AI-assisted search</a> (previously, <a href="https://simonwillison.net/2024/Dec/29/encanto-2/">hallucinating Encanto 2</a>), it turns out you can type in any made-up phrase you like and tag "meaning" on the end and Google will provide you with an entirely made-up justification for the phrase.</p>
+<p>I tried it with "A swan won't prevent a hurricane meaning", a nonsense phrase I came up with just now:</p>
+<p><img alt="Google search results for &quot;A swan won't prevent a hurricane meaning&quot;. AI overview from Search Labs shows the following: The saying &quot;a swan won't prevent a hurricane&quot; means that no matter how well-intentioned or seemingly harmless a person (or in this case, a swan) might be, they can't stop or prevent a large, destructive event like a hurricane. It highlights the idea that some things are simply too powerful or inevitable to be stopped by individual actions or efforts. Here's a more detailed breakdown: Swan: In this context, a swan is used as a symbol of something small, harmless, and insignificant. Hurricane: A hurricane is a powerful and destructive natural phenomenon, representing something large, overwhelming, and inevitable. The Saying's Meaning: The saying emphasizes that even the best efforts of a seemingly powerless entity (the swan) cannot alter the course or impact of a powerful, destructive event (the hurricane). In essence, &quot;a swan won't prevent a hurricane&quot; is a reminder that sometimes, we need to accept that certain events are simply beyond our control. Then two links represented as cardns: The Next Black Swan Event? Hurricane Milton's... Oct 7, 2024  Massive Flooding: Already saturated land from previou... in Linkedin by Jennifer Gibbs.  Then Coping with Black Swans - Carrier Management from June 4 2014. It finishes with a note that Generative AI is experimental" src="https://static.simonwillison.net/static/2025/swan-hurricane-google.jpg" style="width: 80%; display: block; margin: 1em auto; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);"></p>
+<p>It even throws in a couple of completely unrelated reference links, to make everything look more credible than it actually is.</p>
+<p>I think this was first spotted <a href="https://www.threads.net/@writtenbymeaghan/post/DIqwP0RJqpH/oh-youre-going-to-love-this-if-you-type-any-nonsensical-made-up-phrase-into-goog">by @writtenbymeaghan on Threads</a>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/23/meaning-slop/#atom-everything>
+
+---
+
+## MINISFORUM MS-A2 is a compact desktop with up to an AMD Ryzen 9 9955HX processor
+
+date: 2025-04-23, from: Liliputing
+
+<p>The MINISFORUM MS-A2 is a small desktop computer that combines a high-end AMD Ryzen mobile processor with desktop-class performance with a design that offers plenty of expansion options. MINISFORUM hasn&#8217;t announced pricing and availability yet, but the company is showing off the new computer this week in Japan, and says it&#8217;ll support up to an [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minisforum-ms-a2-is-a-compact-desktop-with-up-to-an-amd-ryzen-9-9955hx-processor/">MINISFORUM MS-A2 is a compact desktop with up to an AMD Ryzen 9 9955HX processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minisforum-ms-a2-is-a-compact-desktop-with-up-to-an-amd-ryzen-9-9955hx-processor/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+Long Island man arrested for damaging Teslas in parking lot. 
+
+<br> 
+
+<https://www.nydailynews.com/2025/04/23/long-island-tesla-vandalism-mall-parking-lot/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-23, from: Feed for Alt USDS)
+
+It's almost like these people thought the problems were easy and we were all just sitting around eating popcorn and taking naps. ¯\_(ツ)_/¯
+
+Every. Single. Thing. is "we'll solve this so fast!"
+
+And then they realize it's actually hard, they hedge, and then start the same shit on the next cudgel
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnipjhmlu22h>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+More than 80% of the world’s reefs hit by bleaching after worst global event on record. 
+
+<br> 
+
+<https://www.theguardian.com/environment/2025/apr/23/coral-reef-bleaching-worst-global-event-on-record>
+
+---
+
+## Plus Post: North Star Advantage
+
+date: 2025-04-23, from: Computer ads from the Past
+
+North Star's Advantage over IBM and Apple is easy to see. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-north-star-advantage>
+
+---
+
+## Why You Should Suck at Something New Every Year
+
+date: 2025-04-23, from: Guy Kawasaki blog
+
+The beginner&#8217;s mindset: your secret weapon for staying sharp. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-you-should-suck-at-something>
+
+---
+
+## Lenovo ThinkPad P14s is a compact workstation with AMD Strix Point
+
+date: 2025-04-23, from: Liliputing
+
+<p>The Lenovo ThinkPad P14s is a mobile workstation-class laptop that combines powerful hardware with a relatively compact design. Last year Lenovo introduced 5th-gen models with Intel and AMD processor options, and now it looks like the company is getting ready to bring a big performance boost with the new ThinkPad P14s Gen 6 series. After [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovo-thinkpad-p14s-mobile-workstation-with-amd-strix-point-coming-soon/">Lenovo ThinkPad P14s is a compact workstation with AMD Strix Point</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovo-thinkpad-p14s-mobile-workstation-with-amd-strix-point-coming-soon/>
+
+---
+
+## Roku launches new Streaming Sticks for $30 and up
+
+date: 2025-04-23, from: Liliputing
+
+<p>It&#8217;s harder to find a TV these days that doesn&#8217;t have out-of-the-box support for streaming media from services like Netflix, Hulu, Max, YouTube, and Amazon Prime Video than it is to find one that does. But there&#8217;s still a market for media streaming boxes and dongles &#8211; likely because they can bring new features or software [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/roku-launches-new-streaming-sticks-for-30-and-up/">Roku launches new Streaming Sticks for $30 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/roku-launches-new-streaming-sticks-for-30-and-up/>
+
+---
+
+## Experiment with the Sense HAT, 2nd Edition – out now!
+
+date: 2025-04-23, from: Raspberry Pi News (.com)
+
+<p>Discover the hardware behind the ISS Astro Pi project. Monitor your environment with multiple sensors and get serious with data.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/experiment-with-the-sense-hat-2nd-edition-out-now/">Experiment with the Sense HAT, 2nd Edition – out now!</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/experiment-with-the-sense-hat-2nd-edition-out-now/>
+
+---
+
+## The Man Who Wants AI to Help You ‘Cheat on Everything’
+
+date: 2025-04-23, from: 404 Media Group
+
+Roy Lee used AI to beat challenging technical interviews, now he wants people to do the same thing with every human interaction. We tested the tool and it kinda sucks. 
+
+<br> 
+
+<https://www.404media.co/the-man-who-wants-ai-to-help-you-cheat-on-everything/>
+
+---
+
+## llm-fragment-symbex
+
+date: 2025-04-23, updated: 2025-04-23, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-fragments-symbex">llm-fragment-symbex</a></strong></p>
+I released a new LLM <a href="https://llm.datasette.io/en/stable/fragments.html#using-fragments-from-plugins">fragment loader plugin</a> that builds on top of my <a href="https://simonwillison.net/2023/Jun/18/symbex/">Symbex</a> project.</p>
+<p>Symbex is a CLI tool I wrote that can run against a folder full of Python code and output functions, classes, methods or just their docstrings and signatures, using the Python AST module to parse the code.</p>
+<p><code>llm-fragments-symbex</code> brings that ability directly to LLM. It lets you do things like this:</p>
+<pre>llm install llm-fragments-symbex
+llm -f symbex:path/to/project -s <span class="pl-s"><span class="pl-pds">'</span>Describe this codebase<span class="pl-pds">'</span></span></pre>
+
+<p>I just ran that against my LLM project itself like this:</p>
+<pre>cd llm
+llm -f symbex:. -s <span class="pl-s"><span class="pl-pds">'</span>guess what this code does<span class="pl-pds">'</span></span></pre>
+
+<p>Here's <a href="https://gist.github.com/simonw/b43d5b3ea897900f5c7de7173cc51c82#response">the full output</a>, which starts like this:</p>
+<blockquote>
+<p>This code listing appears to be an index or dump of Python functions, classes, and methods primarily belonging to a codebase related to large language models (LLMs). It covers a broad functionality set related to managing LLMs, embeddings, templates, plugins, logging, and command-line interface (CLI) utilities for interaction with language models. [...]</p>
+</blockquote>
+<p>That page also <a href="https://gist.github.com/simonw/b43d5b3ea897900f5c7de7173cc51c82#prompt-fragments">shows the input generated by the fragment</a> - here's a representative extract:</p>
+<pre><span class="pl-c"># from llm.cli import resolve_attachment</span>
+<span class="pl-k">def</span> <span class="pl-en">resolve_attachment</span>(<span class="pl-s1">value</span>):
+    <span class="pl-s">"""Resolve an attachment from a string value which could be:</span>
+<span class="pl-s">    - "-" for stdin</span>
+<span class="pl-s">    - A URL</span>
+<span class="pl-s">    - A file path</span>
+<span class="pl-s"></span>
+<span class="pl-s">    Returns an Attachment object.</span>
+<span class="pl-s">    Raises AttachmentError if the attachment cannot be resolved."""</span>
+
+<span class="pl-c"># from llm.cli import AttachmentType</span>
+<span class="pl-k">class</span> <span class="pl-v">AttachmentType</span>:
+
+    <span class="pl-k">def</span> <span class="pl-en">convert</span>(<span class="pl-s1">self</span>, <span class="pl-s1">value</span>, <span class="pl-s1">param</span>, <span class="pl-s1">ctx</span>):
+
+<span class="pl-c"># from llm.cli import resolve_attachment_with_type</span>
+<span class="pl-k">def</span> <span class="pl-en">resolve_attachment_with_type</span>(<span class="pl-s1">value</span>: <span class="pl-smi">str</span>, <span class="pl-s1">mimetype</span>: <span class="pl-smi">str</span>) <span class="pl-c1">-&gt;</span> <span class="pl-smi">Attachment</span>:</pre>
+
+<p>If your Python code has good docstrings and type annotations, this should hopefully be a shortcut for providing full API documentation to a model without needing to dump in the entire codebase.</p>
+<p>The above example used 13,471 input tokens and 781 output tokens, using <code>openai/gpt-4.1-mini</code>. That model is extremely cheap, so the total cost was 0.6638 cents - less than a cent.</p>
+<p>The plugin itself was mostly written by o4-mini using the <a href="https://github.com/simonw/llm-fragments-github">llm-fragments-github</a> plugin to load the <a href="https://github.com/simonw/symbex">simonw/symbex</a> and <a href="https://github.com/simonw/llm-hacker-news">simonw/llm-hacker-news</a> repositories as example code:</p>
+<pre>llm \
+  -f github:simonw/symbex \
+  -f github:simonw/llm-hacker-news \
+  -s <span class="pl-s"><span class="pl-pds">"</span>Write a new plugin as a single llm_fragments_symbex.py file which</span>
+<span class="pl-s">   provides a custom loader which can be used like this:</span>
+<span class="pl-s">   llm -f symbex:path/to/folder - it then loads in all of the python</span>
+<span class="pl-s">   function signatures with their docstrings from that folder using</span>
+<span class="pl-s">   the same trick that symbex uses, effectively the same as running</span>
+<span class="pl-s">   symbex . '*' '*.*' --docs --imports -n<span class="pl-pds">"</span></span> \
+   -m openai/o4-mini -o reasoning_effort high<span class="pl-s"><span class="pl-pds">"</span></span></pre>
+
+<p>Here's <a href="https://gist.github.com/simonw/c46390522bc839daab6c08bad3f87b39#response">the response</a>. 27,819 input, 2,918 output =  4.344 cents.</p>
+<p>In working on this project I identified and fixed <a href="https://github.com/simonw/symbex/issues/46">a minor cosmetic defect</a> in Symbex itself. Technically this is a breaking change (it changes the output) so I shipped that as <a href="https://github.com/simonw/symbex/releases/tag/2.0">Symbex 2.0</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/symbex">symbex</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/23/llm-fragment-symbex/#atom-everything>
+
+---
+
+## 'They Sometimes Worry That I’m Dead Already:' Deep-Sea Fishers Fight for Wi-Fi
+
+date: 2025-04-23, from: 404 Media Group
+
+Distant-water fishers are out on the ocean for up to 10 months at a time, with no contact to the outside world.  
+
+<br> 
+
+<https://www.404media.co/they-sometimes-worry-that-im-dead-already-deep-sea-fishers-fight-for-wi-fi/>
 
 ---
 
@@ -30,6 +324,18 @@ date: 2025-04-23, updated: 2025-04-23, from: One Foot Tsunami
 <br> 
 
 <https://onefoottsunami.com/2025/04/23/the-canine-pacesetter/>
+
+---
+
+## rizzler: stop crying over Git merge conflicts and let AI handle the drama
+
+date: 2025-04-23, from: Geoffrey Hunntley's blog
+
+<p>&#x1F480; <strong>Ugh, merge conflicts:</strong> That sinking feeling when Git screams at you? We&apos;ve all been there. Manually fixing those tangled messes? It&apos;s giving... tedious. It&apos;s giving... waste of my precious time. &#x1F629;<br></p><p>&#x1F680; <strong>Enter rizzler:</strong> Your new AI bestie that actually <em>*gets*</em> Git. This</p> 
+
+<br> 
+
+<https://ghuntley.com/rizzler/>
 
 ---
 

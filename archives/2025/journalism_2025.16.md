@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-04-23 06:07:10
+updated: 2025-04-23 14:08:29
 ---
 
 # journalism
 
-(date: 2025-04-23 06:07:10)
+(date: 2025-04-23 14:08:29)
+
+---
+
+## test
+
+date: 2025-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+test 
+
+<br> 
+
+<https://dailybruin.com/2025/04/23/test-3/>
+
+---
+
+## Editorial Cartoon: “Unfit Outfit”
+
+date: 2025-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/04/23/editorial-cartoon-unfit-outfit/>
 
 ---
 
@@ -13,7 +37,7 @@ updated: 2025-04-23 06:07:10
 
 date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Rhythm and News hosts Caitlin Roehmholdt and Abi Mann talk about how BookTok trends have revolutionized reading for a new generation. From Colleen Hoover "It Ends with Us" to Sally Rooney's "Normal People," social media has shaped how readers consume content.</p>
+<p>Rhythm and News hosts Caitlin Roehmholdt and Abi Mann talk about how BookTok trends have revolutionized reading for a new generation. From Colleen Hoover's "It Ends with Us" to Sally Rooney's "Normal People," social media has shaped how readers consume content.</p>
 <p>The post <a href="https://dailytrojan.com/2025/04/23/how-booktok-has-changed-reading-forever/">How BookTok has changed reading forever</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -175,7 +199,7 @@ The weekend is open to all newly admitted Bruins, with a focus on building commu
 
 date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
 
- 
+&#160; 
 
 <br> 
 

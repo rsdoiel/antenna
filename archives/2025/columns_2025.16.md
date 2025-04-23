@@ -1,11 +1,206 @@
 ---
 title: columns
-updated: 2025-04-23 06:07:09
+updated: 2025-04-23 14:08:28
 ---
 
 # columns
 
-(date: 2025-04-23 06:07:09)
+(date: 2025-04-23 14:08:28)
+
+---
+
+##  The Testaments, Margaret Atwood&#8217;s 2019 sequel to The Handmaid&#8217;s Tale, is getting... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046697-the-testaments-margaret-a>
+
+---
+
+##  Whose Streets? Our Streets! Photos of NYC Protests, 1980-2000. 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/whose-streets-our-streets-photos-of-nyc-protests-1980-2000>
+
+---
+
+## Freedom talk, with Robert Reich
+
+date: 2025-04-23, from: Robert Reich's blog
+
+A recording from Robert Reich and Anand Giridharadas's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161984617/ca74b77862c35378d5fea81d3a7e2188.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161984617/ca74b77862c35378d5fea81d3a7e2188.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/freedom-talk-with-robert-reich>
+
+---
+
+##  Boston&#8217;s MFA had been working on transferring their Benin Bronzes back to... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046701-bostons-mfa-had-been-work>
+
+---
+
+## April 22, 2025
+
+date: 2025-04-23, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161989707/1e7e0c015a2795bfc2d95bf341038a6e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161989707/1e7e0c015a2795bfc2d95bf341038a6e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-22-2025-c7c>
+
+---
+
+## The slow realization that what I thought was real was actually fake
+
+date: 2025-04-23, from: Matt Haughey blog
+
+<p>Since the early 80s as a little kid, I&apos;ve been skateboarding and riding bmx bikes off and on, including sometimes at ramp parks, concrete pool parks, and other permanent venues.</p><p>In the early days of skateboarding and bmx competitions, they&apos;d hold them at the few skateparks</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/the-slow-realization-that-what-i-thought-was-real-was-actually-fake/>
+
+---
+
+##  NYC People-Watching at 780 Frames Per Second 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/nyc-people-watching-at-780-frames-per-second-1>
+
+---
+
+##  Trump Wants You to Think Resistance Is Futile. It Is Not. &#8220;There... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046703-trump-wants-you-to-think>
+
+---
+
+## European Commission Fines Apple €500M and Meta €200M for Breaching Digital Markets Act
+
+date: 2025-04-23, updated: 2025-04-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1085>
+
+---
+
+##  &#8220;Monarch Waystations are places that provide resources necessary for [monarch butterflies] to... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046702-monarch-waystations-are-p>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-23, from: Miguel de Icaza Mastondon feed)
+
+<p>GodotCon Boston sold out, but if someone cancels there is a waitlist:</p><p><a href="https://tickets.godotengine.org/foundation/godotcon-us-2025/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">tickets.godotengine.org/founda</span><span class="invisible">tion/godotcon-us-2025/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114388259680157044>
+
+---
+
+##  Timothy Ryback on Hitler&#8217;s Terrible Tariffs. &#8220;By seeking to &#8216;liberate&#8217; Germans from... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046700-timothy-ryback-on-hitlers>
+
+---
+
+## Regulating AI Behavior with a Hypervisor
+
+date: 2025-04-23, updated: 2025-04-23, from: Bruce Schneier blog
+
+<p>Interesting research: &#8220;<a href="https://arxiv.org/abs/2504.15499">Guillotine: Hypervisors for Isolating Malicious AIs</a>.&#8221;</p>
+<blockquote><p><b>Abstract</b>:As AI models become more embedded in critical sectors like finance, healthcare, and the military, their inscrutable behavior poses ever-greater risks to society. To mitigate this risk, we propose Guillotine, a hypervisor architecture for sandboxing powerful AI models&#8212;models that, by accident or malice, can generate existential threats to humanity. Although Guillotine borrows some well-known virtualization techniques, Guillotine must also introduce fundamentally new isolation mechanisms to handle the unique threat model posed by existential-risk AIs. For example, a rogue AI may try to introspect upon hypervisor software or the underlying hardware substrate to enable later subversion of that control plane; thus, a Guillotine hypervisor requires careful co-design of the hypervisor software and the CPUs, RAM, NIC, and storage devices that support the hypervisor software, to thwart side channel leakage and more generally eliminate mechanisms for AI to exploit reflection-based vulnerabilities. Beyond such isolation at the software, network, and microarchitectural layers, a Guillotine hypervisor must also provide physical fail-safes more commonly associated with nuclear power plants, avionic platforms, and other types of mission critical systems. Physical fail-safes, e.g., involving electromechanical disconnection of network cables, or the flooding of a datacenter which holds a rogue AI, provide defense in depth if software, network, and microarchitectural isolation is compromised and a rogue AI must be temporarily shut down or permanently destroyed. ...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/regulating-ai-behavior-with-a-hypervisor.html>
+
+---
+
+##  Trump &#8216;Alarmists&#8217; Were Right. We Should Say So. &#8220;Put simply: It is... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046699-trump-alarmists-were-righ>
+
+---
+
+##  Life After Cars: Freeing Ourselves From the Tyranny of the Automobile. &#8220;From... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046693-life-after-cars-freeing-o>
+
+---
+
+## rizzler: stop crying over Git merge conflicts and let AI handle the drama
+
+date: 2025-04-23, from: Geoffrey Hunntley's blog
+
+<p>&#x1F480; <strong>Ugh, merge conflicts:</strong> That sinking feeling when Git screams at you? We&apos;ve all been there. Manually fixing those tangled messes? It&apos;s giving... tedious. It&apos;s giving... waste of my precious time. &#x1F629;<br></p><p>&#x1F680; <strong>Enter rizzler:</strong> Your new AI bestie that actually <em>*gets*</em> Git. This</p> 
+
+<br> 
+
+<https://ghuntley.com/rizzler/>
 
 ---
 
@@ -151,7 +346,7 @@ date: 2025-04-22, updated: 2025-04-22, from: Jason Kittke's blog
 
 date: 2025-04-22, from: Doc Searls (at Harvard), New Old Blog
 
-The Airbus 390 is gigantic. Like a cruise ship for the sky. Except, I gather, it&#39;s not real. Pope Francis dies on Easter Monday. For a sense of what Francis embodied and meant, I recommend Jonathan Rauch&#39;s Cross Purposes: Christianity&#39;s Broken Bargain with Democracy.  I&#39;m in the midst of listening to Rauch on Russ Roberts&#39; [&#8230;] 
+The Airbus 390 is gigantic. Like a cruise ship for the sky. Except, I gather, it&#8217;s not real. Pope Francis dies on Easter Monday. For a sense of what Francis embodied and meant, I recommend Jonathan Rauch&#8217;s Cross Purposes: Christianity&#8217;s Broken Bargain with Democracy.  I&#8217;m in the midst of listening to Rauch on Russ Roberts&#8217; [&#8230;] 
 
 <br> 
 

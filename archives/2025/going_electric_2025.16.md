@@ -1,11 +1,179 @@
 ---
 title: going electric
-updated: 2025-04-23 06:07:14
+updated: 2025-04-23 14:08:32
 ---
 
 # going electric
 
-(date: 2025-04-23 06:07:14)
+(date: 2025-04-23 14:08:32)
+
+---
+
+## Fast charging just got sleeker: Delta’s 50kW Wallbox launches in US
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Delta-Wallbox.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Fremont, California-based <a href="https://electrek.co/guides/delta-electronics/" target="_blank" rel="noreferrer noopener">Delta Electronics</a> just rolled out a sleek new 50kW DC Wallbox charger that’s designed for tight spaces at ACT Expo 2025. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,delta-electronics,ev-chargers,ev-charging" data-layer-viewtype="unknown" data-post-id="412573" href="https://electrek.co/2025/04/23/fast-charging-just-got-sleeker-deltas-50kw-wallbox-launches-in-us/#more-412573" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/fast-charging-just-got-sleeker-deltas-50kw-wallbox-launches-in-us/>
+
+---
+
+## Used EV prices fell 40%, and buyers are searching like never before
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Tesla-Model-3-Performance-refresh-new-seats.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>More car buyers are hunting for used EVs – CarMax says searches filtered by “electric vehicle” have nearly doubled since January 2022.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,evs,tesla,tesla-used-cars,used-car,used-electric-car" data-layer-viewtype="unknown" data-post-id="412504" href="https://electrek.co/2025/04/23/used-ev-prices-fell-40-and-buyers-are-searching-like-never-before/#more-412504" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/used-ev-prices-fell-40-and-buyers-are-searching-like-never-before/>
+
+---
+
+## Heybike Hauler cargo e-bike at new $1,099 low, EcoFlow multi-day power station flash offers from $349, Aiper solar pool skimmer, more
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Heybike-Hauler-Cargo-e-bike-e1745427543831.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/04/23/heybike-hauler-cargo-e-bike-new-1099-low-more/">Heybike’s Mother’s Day Sale</a> that is taking up to $500 off e-bikes on top of offering some additional free gear, with the brand’s <a href="https://9to5toys.com/2025/04/23/heybike-hauler-cargo-e-bike-new-1099-low-more/">Hauler Cargo e-bike</a> getting brought down to a new <a href="https://9to5toys.com/2025/04/23/heybike-hauler-cargo-e-bike-new-1099-low-more/">$1,099</a> low, among others. We also have <a href="https://9to5toys.com/2025/04/23/ecoflow-flash-delta-and-river-stations-ecocredits-from-1/">EcoFlow’s final flash offers</a> that will be running for the duration of its <a href="https://9to5toys.com/2025/04/15/ecoflow-second-phase-mega-sale-from-119/">Mega Sale through April 15</a>, with notable returning low prices on the RIVER 2 Pro power station, a DELTA Pro 3 solar generator bundle, an EcoCredits purchase opportunity from $1, and more. You can prep for swimming season by grabbing Aiper’s latest <a href="https://9to5toys.com/2025/04/23/aiper-surfer-s2-320-low/">Surfer S2 Solar Pool Skimmer</a> while it’s back at its <a href="https://9to5toys.com/2025/04/23/aiper-surfer-s2-320-low/">$320</a> low, as well as gear up for camping and storm cleanup needs with Greenworks’ second-generation <a href="https://9to5toys.com/2025/04/22/2nd-gen-greenworks-40v-12-inch-chainsaw-128/">40V 12-inch Cordless Electric Chainsaw at $128</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s exclusive $2,000 in savings on <a href="https://9to5toys.com/2025/04/22/ecoflow-delta-pro-ultra-exclusive-new-3799-low/">EcoFlow’s DELTA Pro Ultra</a> station at a new low price, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="412508" href="https://electrek.co/2025/04/23/heybike-hauler-e-bike-1099-low-ecoflow-aiper-more/#more-412508" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/heybike-hauler-e-bike-1099-low-ecoflow-aiper-more/>
+
+---
+
+## Tesla (TSLA) stock surges on Elon’s lies despite disastrous earnings
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/06/Elon-Musk-at-Tesla-company-wide-meeting-2022.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s stock (TSLA) surged by as much as 8% today following the company reporting disastrous earnings results – its worst in years and way below expectations. </p>
+
+
+
+<p>The stock seems to surge based on people believing Elon Musk’s lies.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412503" href="https://electrek.co/2025/04/23/tesla-tsla-stock-surges-elon-lies-despite-disastrous-earnings/#more-412503" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/tesla-tsla-stock-surges-elon-lies-despite-disastrous-earnings/>
+
+---
+
+## The Toyota bZ7 Looks Fantastic. Too Bad It's Only For China
+
+date: 2025-04-23, from: Inside EVs News
+
+The sleek EV will be Toyota's new flagship sedan, ironically competing against the new Lexus ES. 
+
+<br> 
+
+<https://insideevs.com/news/757522/toyota-bz7-electric-sedan-china/>
+
+---
+
+## I went inside China to the world’s largest EV maker’s summit. Here’s what I saw
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/asdlfjadfasdlfa.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>When you think about the biggest names in electric vehicles, Tesla or BYD probably come to mind first. But the largest electric vehicle producer by sheer numbers isn’t either of these car giants—<a href="https://electrek.co/2024/04/25/yadea-factory-tour-the-surprises-i-found-at-the-worlds-largest-electric-vehicle-maker/">it’s Yadea</a>, the Chinese powerhouse behind an enormous array of electric two- and three-wheelers. Recently, I had the opportunity to <a href="https://electrek.co/2025/02/04/i-went-back-to-china-to-tour-more-e-bike-factories-and-visit-companies-heres-what-i-saw/">visit China</a> and attend Yadea’s annual retail summit, an expansive event hosting over 4,000 global dealers and showcasing what felt like an endless variety of electric rides.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="410498" href="https://electrek.co/2025/04/23/i-went-inside-china-to-the-worlds-largest-ev-makers-summit-heres-what-i-saw/#more-410498" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/i-went-inside-china-to-the-worlds-largest-ev-makers-summit-heres-what-i-saw/>
+
+---
+
+## All-New Lexus ES Has Hybrid And Pure Electric Power
+
+date: 2025-04-23, from: Inside EVs News
+
+Going electric is the biggest change for the new ES, but its design is also a major talking point. 
+
+<br> 
+
+<https://insideevs.com/news/757495/lexus-es-goes-electric-hybrid/>
+
+---
+
+## E-REVs Can Unite A Divided America On Electric Vehicles
+
+date: 2025-04-23, from: Inside EVs News
+
+Also: how the U.S. auto industry is grouping together against Trump's tariffs while Stellantis resumes production in Canada and rehires laid-off U.S. workers. 
+
+<br> 
+
+<https://insideevs.com/news/757484/reeves-can-unite-a-divided-america-on-evs/>
+
+---
+
+## The Nissan Frontier PHEV You Actually Want Is Here
+
+date: 2025-04-23, from: Inside EVs News
+
+Debuting for China, it has 402 combined horsepower and distinctive styling versus the gas model. 
+
+<br> 
+
+<https://insideevs.com/news/757491/nissan-frontier-phev-debut/>
+
+---
+
+## Live Tesla Q1 2025 earnings transcript fact check and reaction stream
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-killer.png?w=1600" /></div><p>We are doing something a bit different today. We are doing a live stream reaction and fact check of Tesla’s Q1 2025 earnings calls and transcript.</p>
+
+
+
+<p>Join us live at 10 AM ET.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="412500" href="https://electrek.co/2025/04/23/live-tesla-q1-2025-earnings-transcript-fact-check-and-reaction-stream/#more-412500" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/live-tesla-q1-2025-earnings-transcript-fact-check-and-reaction-stream/>
+
+---
+
+## Zeekr 009 Special Edition Minivan Has Actual Gold Plating And 778 HP
+
+date: 2025-04-23, from: Inside EVs News
+
+This fancy shuttle, unlike anything you can buy back home, shows China is living in the future. 
+
+<br> 
+
+<https://insideevs.com/news/757394/zeekr-009-gold-plating-minivan/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-23 06:07:13
+updated: 2025-04-23 14:08:32
 ---
 
 # retro computing
 
-(date: 2025-04-23 06:07:13)
+(date: 2025-04-23 14:08:32)
+
+---
+
+## Developers’ fireside chat – 26th April
+
+date: 2025-04-23, from: RiscOS Story
+
+The next &#8216;friendly fireside chat&#8217; will take place on Saturday, 26th April1, offering anyone with an interest in RISC OS development the chance to get together (online) and discuss anything and everything related to that topic. There is no set agenda to these meetings; matters discussed are determined by what those in attendance bring up, and are an ideal opportunity for people with programming problems to ask for advice from people more experienced. Recent meetings have, for example, seen group efforts to track down problems with a Python program, advice&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/developers-fireside-chat-26th-april/>
+
+---
+
+## Plus Post: North Star Advantage
+
+date: 2025-04-23, from: Computer ads from the Past
+
+North Star's Advantage over IBM and Apple is easy to see. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-north-star-advantage>
 
 ---
 

@@ -1,11 +1,287 @@
 ---
 title: science and technology
-updated: 2025-04-23 06:07:08
+updated: 2025-04-23 14:08:27
 ---
 
 # science and technology
 
-(date: 2025-04-23 06:07:08)
+(date: 2025-04-23 14:08:27)
+
+---
+
+## NASA Astronaut to Answer Questions from Students in California
+
+date: 2025-04-23, from: NASA breaking news
+
+Students from Santa Monica, California, will connect with NASA astronaut Jonny Kim as he answers prerecorded science, technology, engineering, and mathematics-related questions aboard the International Space Station. Watch the 20-minute space-to-Earth call at 12:10 p.m. EDT on Tuesday, April 29, on the NASA STEM YouTube Channel. Media interested in covering the event must RSVP by [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-california/>
+
+---
+
+## The wonderful world of Linux package managers
+
+date: 2025-04-23, from: OS News
+
+One of the strong points of Linux has always been how solid the experience of installing and managing software is. Contrarily to what happens in the Windows and macOS world, software on Linux is obtained through something called a package manager, a piece of software that manages any piece of software the user installs, as well as its dependencies, automatically. ↫ Luca Bramè at Libre.News It truly is. I can&#8217;t imagine using any operating system that relies (almost) exclusively on me going out to individual websites to download random installers or disk images, all with their own unique update mechanisms I need to keep track of, that eat up resources and interrupt my workflow. The combination of Fedora&#8217;s repository&#8217;s with the odd Copr or Flatpak package &#8211; all managed transparently through KDE&#8217;s Discover &#8211; is effectively perfect. I never have to manually install anything, nor do I ever have to rely on tarballs like back in the dark ages. Dealing with a Windows or macOS machine is a nightmare compared to this. Managing applications on those operating systems feels hopelessly archaic and outdated, and I have no idea how users tolerate that kind of nonsense. They&#8217;ve got a dozen or more updaters running in the background, cluttering up the system tray and eating resources, or whenever they open an application they get an annoying popup interrupting their work to ask them to update. It&#8217;s barbaric and user-hostile, and nobody should be dealing with that in 2025. It&#8217;s also highly unlikely things will ever improve for Windows or macOS users, since any attempt to bolt a package manager into them invariably fails. The official Windows and macOS application stores have been abject failures in more ways than one, and tools like winget are just glorified download managers that run regular installers in silent mode &#8211; incredibly crude and only really good for batch-downloading some installers. The Linux world is far from perfect, but they nailed application management early on, and the competition has basically sat still ever since. 
+
+<br> 
+
+<https://www.osnews.com/story/142185/the-wonderful-world-of-linux-package-managers/>
+
+---
+
+## Hey Google, if Chrome is going to be single soon, OpenAI is interested
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>ChatGPT maker to join line of suitors if Chocolate Factory forced to offload browser</h4> <p>OpenAI&#39;s head of product for ChatGPT has flung the company&#39;s hat into the ring as a potential suitor for Google&#39;s Chrome browser should the search giant be forced to divest itself of the application.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/openai_chrome_interest/>
+
+---
+
+## As ChatGPT scores B- in engineering, professors scramble to update courses
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Now that AI is invading classrooms and homework assignment, students need to learn reasoning more than ever</h4> <p>Students are increasingly turning to AI to help them with coursework, leaving academics scrambling to adjust their teaching practices or debating how to ban it altogether.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/whats_worth_teaching_when_ai/>
+
+---
+
+## Ripple NPM supply chain attack hunts for private keys
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>A mystery thief and a critical CVE involved in crypto cash grab</h4> <p>Many versions of the Ripple ledger (XRPL) official NPM package are compromised with malware injected to steal cryptocurrency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/ripple_npm_supply_chain/>
+
+---
+
+## We’re calling it now: Agentic AI will win RSAC buzzword Bingo
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>All aboard the hype train</h4> <p>The security industry loves its buzzwords, and this is always on full display at the annual RSA Conference event in San Francisco. Don&#39;t believe us? Take a lap on the expo floor, and you&#39;ll be bombarded with enough acronyms and over-the-top claims to send you straight to the nearest bar, which will likely serve specialty cocktails with names like The Great CASB and Firewall Fizz.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/agentic_ai_rsac/>
+
+---
+
+## Sols 4518-4519: Thumbs up from Mars
+
+date: 2025-04-23, from: NASA breaking news
+
+Written by Susanne Schwenzer, Planetary Geologist at The Open University Earth planning date: Monday, 21st April 2025 It is Easter Monday, a bank holiday here in the United Kingdom. I am Science Operations Working Group Chair today, a role that is mainly focused on coordinating all the different planning activities on a given day, and […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4518-4519-thumbs-up-from-mars/>
+
+---
+
+## Tesla's Optimus can't roll without rare earth magnets, and Beijing ain't budging yet
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Officials seek assurances that bot won&#39;t be used for military applications</h4> <p>Elon Musk says supply chain disruption in China held up delivery of a key component for Tesla&#39;s &#34;Optimus&#34; robot, with authorities reportedly demanding an export license and guarantees about military applications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/tesla_optimus_china/>
+
+---
+
+## NASA Airborne Sensor’s Wildfire Data Helps Firefighters Take Action
+
+date: 2025-04-23, from: NASA breaking news
+
+Data from the AVIRIS-3 sensor was recently used to create detailed fire maps in minutes, enabling firefighters in Alabama to limit the spread of wildfires and save buildings. A NASA sensor recently brought a new approach to battling wildfire, providing real-time data that helped firefighters in the field contain a blaze in Alabama. Called AVIRIS-3, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/nasa-airborne-sensors-wildfire-data-helps-firefighters-take-action/>
+
+---
+
+## Only 3,000 staff jump from SAP after 10,000 earmarked to be pushed
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>CFO says &#39;a cushion of several thousand employees we can play with&#39; is a good thing in uncertain times</h4> <p>SAP says 3,000 people have left the company in its restructuring plan but that it will wait to see if more employees might be affected after US tariff policies introduced global economic uncertainty.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/sap_staff_cuts/>
+
+---
+
+## European Commission: Apple’s ‘Core Technology Fee’ and other hurdles are illegal under the DMA
+
+date: 2025-04-23, from: OS News
+
+The fines weren&#8217;t the only Digital Markets Act news coming from this fine continent today. The European Commission also closed its investigation into Apple&#8217;s user choice obligations under the DMA, and while Apple has made good progress in a few areas, the EC states Apple is still acting illegally in a variety of others. First, the good news for Apple: the European Commission is happy with Apple&#8217;s changes regarding browser choice, the ability to remove preinstalled iOS applications, and the ability to change a whole bunch of default settings that are all locked outside of the EU. These are valuable and welcome changes, and I&#8217;m glad the European Union, the European Parliament, and the Commission have forced Apple to become less hostile to European consumers. Second, there&#8217;s the bad news for Apple. Under the DMA, Apple is obligated to allow for third-party application stores, and the ability for users to download and install applications directly from the internet. In this area, Apple is still breaking European Union law. The Commission takes the preliminary view that Apple failed to comply with this obligation in view of the conditions it imposes on app (and app store) developers. Developers wanting to use alternative app distribution channels on iOS are disincentivised from doing so as this requires them to opt for business terms which include a new fee (Apple&#8217;s Core Technology Fee). Apple also introduced overly strict eligibility requirements, hampering developers&#8217; ability to distribute their apps through alternative channels. Finally, Apple makes it overly burdensome and confusing for end users to install apps when using such alternative app distribution channels. ↫ European Commission press release This outcome was entirely expected, and pretty much everyone &#8211; except Apple&#8217;s PR attack dogs &#8211; knew Apple&#8217;s malicious compliance, fees, and onerous hurdles were going to be a hard sell. I&#8217;m glad the European Commission seems unimpressed with Trump&#8217;s sabre-rattling about the EU&#8217;s consumer protection laws, and is continuing to whip US tech companies in line, making sure they stop violating our consumer protection laws. Since these are the outcomes of a preliminary investigation, Apple now has the chance to argue its case. 
+
+<br> 
+
+<https://www.osnews.com/story/142183/european-commission-apples-core-technology-fee-and-other-hurdles-are-illegal-under-the-dma/>
+
+---
+
+## Europe hits Meta, Apple with €700M in fines for flouting DMA
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Bad timing, claim industry watchers, who say rulings could seriously upset an already delicate US-EU relationship</h4> <p>Meta and Apple have earned the dubious honor of being the first companies fined for non-compliance with the EU&#39;s Digital Markets Act, which experts say could inflame tensions between US President Donald Trump and the European bloc.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/meta_apple_dma_ruling/>
+
+---
+
+## Apple fined for €500 million by EC, Facebook for €200 million
+
+date: 2025-04-23, from: OS News
+
+The European Commission has levied fines against both Apple and Facebook for violating the Digital Markets Act. Apple has to pay a €500 million fine, and Facebook a €200 million fine. Apple is breaking EU law by not allowing application developers to inform users of other offers outside the App Store. The Commission found that Apple fails to comply with this obligation. Due to a number of restrictions imposed by Apple, app developers cannot fully benefit from the advantages of alternative distribution channels outside the App Store. Similarly, consumers cannot fully benefit from alternative and cheaper offers as Apple prevents app developers from directly informing consumers of such offers. The company has failed to demonstrate that these restrictions are objectively necessary and proportionate. ↫ European Commission press release Not only is Apple ordered to pay the €500 million fine, they also have to remove any and all of the illegal restrictions they put in place. Facebook, meanwhile, was fined for not offering an equally functional services but without combining user data from different services. The company did offer a choice between paying and not paying &#8211; whereby the latter involved data collection and combination &#8211; but this model violated the DMA. The Commission found that this model is not compliant with the DMA, as it did not give users the required specific choice to opt for a service that uses less of their personal data but is otherwise equivalent to the ‘personalised ads&#8217; service. Meta&#8217;s model also did not allow users to exercise their right to freely consent to the combination of their personal data. ↫ European Commission press release Facebook did later amend their model to make it compliant with the DMA, and so the fine only covers the few months Facebook was violating EU law. Fun additional note: the EC also mentions that the Facebook Marketplace is no longer a gatekeeper service under the DMA, since its user numbers has dropped below the threshold. Facebook seems to be having some engagement issues in Europe, and you love to hear it. Both companies are required to pay and comply within 60 days, or further periodic penalty payments will be levied. 
+
+<br> 
+
+<https://www.osnews.com/story/142181/apple-fined-for-e500-million-by-ec-facebook-for-e200-million/>
+
+---
+
+## Improving Deep Learning With a Little Help From Physics
+
+date: 2025-04-23, from: Quanta Magazine
+
+Rose Yu has a plan for how to make AI better, faster and smarter — and it’s already yielding results.            <p>The post <a href="https://www.quantamagazine.org/improving-deep-learning-with-a-little-help-from-physics-20250423/" target="_blank">Improving Deep Learning With a Little Help From Physics</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/improving-deep-learning-with-a-little-help-from-physics-20250423/>
+
+---
+
+## NASA Collaborates to Enable Spectrum-Dependent Science, Exploration, and Innovation
+
+date: 2025-04-23, from: NASA breaking news
+
+In our modern wireless world, almost all radio frequency (RF) spectrum bands are shared among multiple users. In some domains, similar users technically coordinate to avoid interference. The spectrum management team, part of NASA’s SCaN (Space Communications and Navigation) Program, represents the collaborative efforts across U.S. agencies and the international community to protect and enable [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-collaborates-to-enable-spectrum-dependent-science-exploration-and-innovation/>
+
+---
+
+## Management and Regulation Ensure Effective Spectrum Sharing
+
+date: 2025-04-23, from: NASA breaking news
+
+Spectrum is a shared resource. Since the discovery of radio waves and the invention of the telegraph, humanity has exponentially increased its use of the radio frequency (RF) spectrum.  Consider how many wireless devices are around you right now.  You’re probably reading this on a smartphone or laptop connected to the internet through Wi-Fi or [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/management-and-regulation-ensure-effective-spectrum-sharing/>
+
+---
+
+## NASA’s Use of the Radio Frequency Spectrum
+
+date: 2025-04-23, from: NASA breaking news
+
+As associate administrator for NASA’s Space Operations Mission Directorate Ken Bowersox puts it, “nothing happens without communications.”&#160;&#160; And effective communications require the use of radio waves.&#160;&#160; None of NASA’s exciting science and engineering endeavors would be possible without the use of radio waves to send data, communications, and commands between researchers or flight controllers and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasas-use-of-the-radio-frequency-spectrum/>
+
+---
+
+## NASA Astronaut Don Pettit to Discuss Seven-Month Space Mission
+
+date: 2025-04-23, from: NASA breaking news
+
+Media are invited to a news conference at 2 p.m. EDT Monday, April 28, at NASA’s Johnson Space Center in Houston where astronaut Don Pettit will share details of his recent mission aboard the International Space Station. The news conference will stream live on NASA’s website. Learn how to stream NASA content through a variety [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-to-discuss-seven-month-space-mission/>
+
+---
+
+## Eye on Infinity: NASA Celebrates Hubble’s 35th Year in Orbit
+
+date: 2025-04-23, from: NASA breaking news
+
+In celebration of the Hubble Space Telescope’s 35 years in Earth orbit, NASA is releasing an assortment of compelling images recently taken by Hubble, stretching from the planet Mars to star-forming regions, and a neighboring galaxy. After more than three decades of perusing the universe, Hubble remains a household name — the most well-recognized and […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasa-celebrates-hubbles-35th-year-in-orbit/>
+
+---
+
+## NASA Stennis Continues Prep for Future Artemis Testing
+
+date: 2025-04-23, from: NASA breaking news
+
+Crews at NASA’s Stennis Space Center recently completed activation of interstage gas systems needed for testing a new SLS (Space Launch System) rocket stage to fly on future Artemis missions to the Moon and beyond. The activation marks a milestone in preparation for future Green Run testing of NASA’s exploration upper stage (EUS) in the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/stennis-continues-prep-for-future-artemis-testing/>
+
+---
+
+## Nvidia rolls out NeMo microservices to help AI help you help AI
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Smarter agents, continuous updates, and the eternal struggle to prove ROI</h4> <p>As Nvidia releases its NeMo microservices to embed AI agents into enterprise workflows, research has found that almost half of businesses are seeing only minor gains from their investments in AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/nvidia_nemo_microservices/>
+
+---
+
+## Nine Finalists Advance in NASA’s Power to Explore Challenge
+
+date: 2025-04-23, from: NASA breaking news
+
+NASA has named nine finalists out of the 45 semifinalist student essays in the Power to Explore Challenge, a national writing competition for K-12 students featuring the enabling power of radioisotopes. Contestants were challenged to explore how NASA has powered some of its most famous science missions, and to dream up how their personal “superpowers” […] 
+
+<br> 
+
+<https://science.nasa.gov/technology/rps/nine-finalists-advance-in-nasas-power-to-explore-challenge/>
+
+---
+
+## Who needs phishing when your login's already in the wild?
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Stolen credentials edge out email tricks for cloud break-ins because they&#39;re so easy to get</h4> <p>Criminals used stolen credentials more frequently than email phishing to gain access into their victims&#39; IT systems last year, marking the first time that compromised login details claimed the number two spot in Mandiant&#39;s list of most common initial infection vectors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/stolen_credentials_mandiant/>
 
 ---
 
@@ -121,7 +397,7 @@ date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
 
 date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
 
-<h4>Detail? Rationale? Timeline? Nope! Maybe a struggling stock market and Beijing hinting about &#39;countermeasures&#39; helped?</h4> <p><strong>World War Fee</strong>  President Donald Trump on Tuesday said his administration plans to lower the 145 percent tariffs it levies on goods imported into America from China, continuing his pattern of unpredictable shifts in policy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Detail? Rationale? Timeline? Nope! It&#39;s the art of the squeal</h4> <p><strong>World War Fee</strong>  President Donald Trump on Tuesday said his administration plans to lower the 145 percent tariffs it levies on goods imported into America from China, continuing his pattern of unpredictable shifts in policy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -133,7 +409,7 @@ date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
 
 date: 2025-04-22, updated: 2025-04-23, from: The Register (UK I.T. News)
 
-<h4>Not-so-beloved Tesla tycoon promises to &#39;significantly&#39; reduce his scouring of Uncle Sam for contracts and staff to ax, data to peruse</h4> <p>Government fixer Elon Musk says his days steering the Trump-blessed cost-trimming, data-scouring DOGE unit are all but done.…</p> 
+<h4>Going to spend more time with his Sieg Heils, maybe</h4> <p>Government fixer Elon Musk says his days steering the Trump-blessed cost-trimming, data-scouring DOGE unit are all but done.…</p> 
 
 <br> 
 
@@ -150,6 +426,30 @@ date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/22/fired_dental_clinic_administrator_sued/>
+
+---
+
+## Linux on IBM Z and LinuxONE open source software report
+
+date: 2025-04-22, from: OS News
+
+Linux on IBM Z and IBM LinuxONE use the s390x hardware architecture to run various Linux distributions, including SUSE Linux Enterprise Server (SLES), Red Hat Enterprise Linux (RHEL), and Ubuntu. Tens of thousands of software packages are tested and distributed through these projects, and various community distributions. ↫ Elizabeth K. Joseph at the IBM community website Various Linux distributions are available for the s390x architecture, but physical access to such hardware from IBM is, of course, relatively limited. As such, it&#8217;s great that IBM tests a variety of open source packages for Linux on s390x, and details the results. If you go to this table, you&#8217;ll find the detailed list of tested packages, which mostly focuses on development and enterprise software. IBM also offers virtual machine access to s390x hardware, and you can get such access for free for 120 days, allowing you to test Red Hat, SUSE, and Ubuntu on IBM Z and IBM LinuxONE. This could definitely make for a fun weekend project to mess around with. 
+
+<br> 
+
+<https://www.osnews.com/story/142178/linux-on-ibm-z-and-linuxone-open-source-software-report/>
+
+---
+
+## The mysterious inetpub folder is actually a crucial part of a Windows security fix
+
+date: 2025-04-22, from: OS News
+
+Remember the odd inetpub folder that seemingly randomly appeared on people&#8217;s root drives after installing a Windows 11 update? Everybody assumed it was something left over from an update script, and that the folder was safe to remove. Well, it turns out that&#8217;s not the case, as the empty folder is actually a crucial part of a security fix for a serious vulnerability. Initially undocumented in the official release notes, the empty and seemingly inactive inetpub folder led to user speculation about whether it was a leftover artifact from development or a bug. Microsoft has since clarified that the folder is intentional and part of a critical security improvement. The change addresses CVE-2025-21204, a vulnerability that allowed local attackers to exploit symbolic link (symlink) attacks via Windows Update, potentially granting unauthorized access to protected system files or directories. As part of the fix, the system pre-creates certain directories — including C:\inetpub — to harden the update process and mitigate such attacks. ↫ Cyberdom If you&#8217;ve already removed the folder, you can reinstall the April 2025 cumulative update to restore the folder, or you can wait for next month&#8217;s update roll-up, which will also restore the folder. This lone, empty folder at your Windows PC&#8217;s root is apparently a crucial part of the security of your computer, but since it took Microsoft a while to publish release notes, nobody knew where it was coming from. The idea that a random, empty folder usually associated with IIS could be part of a vulnerability mitigation didn&#8217;t cross anybody&#8217;s mind at the time, especially since random folders appearing at a Windows PC&#8217;s root aren&#8217;t exactly uncommon or out of the ordinary. The consensus seems to be that creating this folder is a pretty clever form of mitigation, despite feeling so hacky. I&#8217;m assuming Microsoft&#8217;s engineers are capable, and that making the folder in question impossible to delete or somehow hidden is simply not an option and would break the vulnerability mitigation, but that doesn&#8217;t change the fact that this looks like a really crude hack that should be solved in a more elegant way. 
+
+<br> 
+
+<https://www.osnews.com/story/142176/the-mysterious-inetpub-folder-is-actually-a-crucial-part-of-a-windows-security-fix/>
 
 ---
 

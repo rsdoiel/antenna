@@ -1,11 +1,28 @@
 ---
 title: health
-updated: 2025-04-23 06:07:13
+updated: 2025-04-23 14:08:32
 ---
 
 # health
 
-(date: 2025-04-23 06:07:13)
+(date: 2025-04-23 14:08:32)
+
+---
+
+## Press Release: Experts Condemn Trump Administration Attacks on Science and Public Health, Call on Hospitals to Keep Patients Safe for All
+
+date: 2025-04-23, from: People's CDC
+
+April 23, 2025: Press release
+
+Experts Condemn Trump Administration Attacks on Science and Public Health, Call on Hospitals to Keep Patients Safe for All 
+
+Release journal article demonstrating simple infection control measures dramatically reduce hospital-acquired illness and death 
+ 
+
+<br> 
+
+<https://peoplescdc.org/2025/04/23/press-release-experts-condemn-trump/>
 
 ---
 

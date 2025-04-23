@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-04-23 06:07:07
+updated: 2025-04-23 14:08:26
 ---
 
 # ham radio
 
-(date: 2025-04-23 06:07:07)
+(date: 2025-04-23 14:08:26)
+
+---
+
+## Portable power station battery capacity extension: Curious coordination
+
+date: 2025-04-23, from: EDN Blog
+
+<img width="3072" height="4080" src="https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?fit=3072%2C4080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=3072 3072w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=226 226w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=771 771w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1157 1157w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1542 1542w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=2850 2850w" sizes="(max-width: 3072px) 100vw, 3072px" /><p>Need more charge storage capacity than a portable power station offers standalone? Tether an extension battery to it. </p>
+<p>The post <a href="https://www.edn.com/portable-power-station-battery-capacity-extension-curious-coordination/">Portable power station battery capacity extension: Curious coordination</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/portable-power-station-battery-capacity-extension-curious-coordination/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-04-23 06:07:07
 
 date: 2025-04-22, from: EDN Blog
 
-<img width="943" height="631" src="https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?fit=943%2C631" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?w=943 943w, https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?w=768 768w" sizes="(max-width: 943px) 100vw, 943px" /><p>Reusing the LM4041 voltage regulator to create a precision current source by leveraging the CATHODE pin as a sense pin.</p>
+<img width="943" height="631" src="https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?fit=943%2C631" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?w=943 943w, https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/CurrSource_Figure1.png?w=768 768w" sizes="auto, (max-width: 943px) 100vw, 943px" /><p>Reusing the LM4041 voltage regulator to create a precision current source by leveraging the CATHODE pin as a sense pin.</p>
 <p>The post <a href="https://www.edn.com/lm4041-voltage-regulator-impersonates-precision-current-source/">LM4041 voltage regulator impersonates precision current source</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
