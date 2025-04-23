@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-04-22 14:07:56
+updated: 2025-04-23 06:07:10
 ---
 
 # games
 
-(date: 2025-04-22 14:07:56)
+(date: 2025-04-23 06:07:10)
+
+---
+
+## The best horror movies of the year, ranked by scariness
+
+date: 2025-04-23, updated: 2025-04-22, from: Polygon Website
+
+The year is off to a great start, at least as far as horror movies are concerned. There are films about family secrets ranging from ridiculously silly to heartbreaking and tragic. There’s also a holiday-themed slasher, a good old-fashioned summer camp slasher, and a few more unconventional movies that might surprise you. To help you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/562577/best-horror-movies-2025-how-scary>
+
+---
+
+## Andor’s squabbling, stranded rebel group is a small Easter egg — and part of a big picture
+
+date: 2025-04-23, updated: 2025-04-22, from: Polygon Website
+
+By halfway through the first episode of Andor’s second season, fledgling rebel Cassian Andor (Diego Luna) has run across a complication on his latest mission: a band of rebel soldiers who see him as a threat rather than an ally. In fact, they seem to see just about everything as a threat: the critters in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/562968/andor-rebels-maya-pei-explained>
+
+---
+
+## Ghorman suddenly feels like the most important Star Wars planet
+
+date: 2025-04-23, updated: 2025-04-22, from: Polygon Website
+
+Tatooine might be the inescapable center of the Skywalker Saga, but when it comes to the most influential planets in the Star Wars galaxy, Ghorman just hyperspace jumped to the top of the list.&#160; In the season premiere of Andor season 2, the Earth-like planet lands in the crosshairs of Orson Krennic (Ben Mendelsohn), the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/563181/ghorman-andor-season-2>
+
+---
+
+## Andor&#8217;s creator isn&#8217;t shy about his inspirations for the Empire in season 2
+
+date: 2025-04-23, updated: 2025-04-22, from: Polygon Website
+
+Andor has returned for its second season and it’s just as fantastic as ever. While the first three episodes of the show get us ever-closer to the Death Star-focused finale in Rogue One, scenes of characters hiding from visa-checking Imperial forces also make it clear in this first batch of episodes that Andor hasn’t lost [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/562390/andor-season-2-krennic-nazi-empire>
+
+---
+
+## The best birthsigns in Oblivion Remastered
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Picking your birthsign in The Elder Scrolls 4: Oblivion Remastered is one of the first tough decisions you’ll make. You’ll do so during the tutorial, after creating a character (including choosing your race). Birthsigns depict the constellation your character is born under, with each granting your character unique passive or active powers. There are 13 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563112/birthsigns-best-all-what-to-pick>
+
+---
+
+## The best races and origins to pick in Oblivion Remastered
+
+date: 2025-04-22, updated: 2025-04-22, from: Polygon Website
+
+Choosing your race in The Elder Scrolls 4: Oblivion Remastered isn&#8217;t an easy decision, and it&#8217;s a challenging choice you must make early on. You’ll do when making a character but before starting the tutorial and selecting a birthsign. There are 10 playable races available in Oblivion Remastered, with your choice determining your initial attribute [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/562989/races-origins-best-to-pick-all>
 
 ---
 

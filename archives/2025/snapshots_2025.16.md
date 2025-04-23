@@ -1,11 +1,141 @@
 ---
 title: snapshots
-updated: 2025-04-22 14:08:01
+updated: 2025-04-23 06:07:16
 ---
 
 # snapshots
 
-(date: 2025-04-22 14:08:01)
+(date: 2025-04-23 06:07:16)
+
+---
+
+## Podcast: Cops Are Using AI Bots to Surveil People
+
+date: 2025-04-23, from: 404 Media Group
+
+A company selling cops AI undercover bots; a visit to the millennial saint; and the state of 404 Media. 
+
+<br> 
+
+<https://www.404media.co/podcast-cops-are-using-ai-bots-to-surveil-people/>
+
+---
+
+## The Canine Pacesetter
+
+date: 2025-04-23, updated: 2025-04-23, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/23/the-canine-pacesetter/>
+
+---
+
+## New Fedora and Ubuntu updates dropped, and they're amazing.
+
+date: 2025-04-23, from: Libre News
+
+Fedora and Ubuntu's latest releases bring some pretty interesting changes, improving the installer experience, bumping up the GNOME and Plasma versions, and finally welcoming KDE into Fedora's cool kids club 
+
+<br> 
+
+<https://thelibre.news/fedora-42-and-ubuntu-25-04-2/>
+
+---
+
+## Cronyism, Capitulation and Utter Chaos
+
+date: 2025-04-23, from: Paul Krugman
+
+And what the hell was Scott Bessent doing briefing Morgan clients? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/cronyism-capitulation-and-chaos>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+Over 150 US university presidents sign letter decrying Trump administration. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/apr/21/us-university-presidents-trump-administration?CMP=Share_AndroidApp_Other>
+
+---
+
+## Quoting Gergely Orosz
+
+date: 2025-04-23, updated: 2025-04-23, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/GergelyOrosz/status/1914863335457034422"><p>Despite being rusty with coding (I don't code every day these days): since starting to use Windsurf / Cursor with the recent increasingly capable models: I am SO back to being as fast in coding as when I was coding every day  "in the zone" [...]</p>
+<p>When you are driving with a firm grip on the steering wheel - because you know exactly where you are going, and when to steer hard or gently - it is just SUCH a big boost.</p>
+<p>I have a bunch of side projects and APIs that I operate - but usually don't like to touch it because it's (my) legacy code.</p>
+<p>Not any more.</p>
+<p>I'm making large changes, quickly. These tools really feel like a massive multiplier for experienced devs - those of us who have it in our head <em>exactly</em> what we want to do and now the LLM tooling can move nearly as fast as my thoughts!</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/GergelyOrosz/status/1914863335457034422">Gergely Orosz</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/gergely-orosz">gergely-orosz</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/23/gergely-orosz/#atom-everything>
+
+---
+
+## A trick to feel less like cheating when you use LLMs
+
+date: 2025-04-23, updated: 2025-04-23, from: Simon Willison’s Weblog
+
+<p>An underestimated challenge in making productive use of LLMs is that it can <em>feel like cheating</em>.</p>
+<p>One trick I've found that helps is to make sure that I am putting in way more text than the LLM is spitting out .</p>
+<p>This goes for code: I'll <a href="https://claude.ai/share/4098384d-da9e-49a6-848e-222e00c91a24">pipe in a previous project</a> for it to modify, or ask it <a href="https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/#ocr-how-i-built-this">to combine two</a>, or <a href="https://simonwillison.net/2025/Apr/20/llm-fragments-github/">paste in my research notes</a>.</p>
+<p>It also goes for writing. I hardly ever publish material that was written by an LLM, but I feel least icky about content where I had an extensive voice conversation with the model and then asked it to turn that into notes.</p>
+<p>I have a hunch that overcoming the feeling of guilt associated with using LLMs is one of the most important skills required to make effective use of them!</p>
+<p>My gold standard for LLM usage remains this: <strong>would I be proud to stake my own credibility on the quality of the end result</strong>?</p>
+<p>Related, this excellent advice <a href="https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far">from Laurie Voss</a>:</p>
+<blockquote>
+<p>Is what you're doing taking a large amount of text and asking the LLM to convert it into a smaller amount of text? Then it's probably going to be great at it. If you're asking it to convert into a roughly equal amount of text it will be so-so. If you're asking it to create more text than you gave it, forget about it.</p>
+</blockquote>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/23/cheating/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+Universities band together, fight “unprecedented government overreach.” 
+
+<br> 
+
+<https://arstechnica.com/culture/2025/04/200-university-presidents-reject-the-coercive-use-of-public-research-funding/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+Skype is shutting down in May after more than two decades of service. 
+
+<br> 
+
+<https://restofworld.org/2025/skype-shutting-down/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-22, from: Dave Winer's linkblog)
+
+Let&#39;s make the world better, one little evolutionary step at a time. 
+
+<br> 
+
+<http://scripting.com/2025/04/22.html#a121317>
 
 ---
 
@@ -406,7 +536,7 @@ We'll discuss the backstage drama and centuries-old rituals behind laying one po
 
 ## Results From the 2025 Boston Marathon
 
-date: 2025-04-22, updated: 2025-04-22, from: One Foot Tsunami
+date: 2025-04-22, updated: 2025-04-23, from: One Foot Tsunami
 
  
 
@@ -564,7 +694,7 @@ Its only supported timeout values are time to connect, and time until first byte
 
 date: 2025-04-22, from: Rachel Kwon blog
 
-<p>I made a page for my dad&rsquo;s collection of hats. It&rsquo;s an idea I had back in 2023 and as is my nature, it took me way too long and too much overthinking to get it to a shareable state. It&rsquo;s not finished, nor do I know what finished even means most of the time, and there are things I don&rsquo;t like about it that need to be fixed, but if there&rsquo;s one thing I know about myself, it&rsquo;s that I&rsquo;ll spin my wheels on the last 10% of a project that likely doesn&rsquo;t even matter in the grand scheme of things. So in an effort to embrace this discomfort, <a href="https://kwon.nyc/dad-hats/">here it is</a>. I don&rsquo;t know what it&rsquo;s for — I guess just to share something I went through. I&rsquo;m also trying to play around with more evergreen content in general, and am also experimenting with more reliable workflows for sharing photos/visuals. (This is also challenging and I&rsquo;m struggling to make decisions but I&rsquo;m documenting my thought process <a href="https://docs.google.com/document/d/1S0_FxxQm45FVvNV2VVJrvzUSpI95r4lttvi2wk3HMjs/edit?tab=t.yd8hhi20vc2">here</a>. Work and think in public, I guess!!!</p> 
+I made a page for my dad&rsquo;s collection of hats. It&rsquo;s an idea I had back in 2023 and as is my nature, it took me way too long and too much overthinking to get it to a shareable state. It&rsquo;s not finished, nor do I know what finished even means most of the time, and there are things I don&rsquo;t like about it that need to be fixed, but if there&rsquo;s one thing I know about myself, it&rsquo;s that I&rsquo;ll spin my wheels on the last 10% of a project that likely doesn&rsquo;t even matter in the grand scheme of things. 
 
 <br> 
 
@@ -852,7 +982,7 @@ date: 2025-04-21, from: Liliputing
 
 ## Results From the Robot Half-Marathon
 
-date: 2025-04-21, updated: 2025-04-22, from: One Foot Tsunami
+date: 2025-04-21, updated: 2025-04-23, from: One Foot Tsunami
 
  
 
@@ -1465,7 +1595,7 @@ date: 2025-04-20, updated: 2025-04-20, from: Educated Guesswork blog
 
 date: 2025-04-20, from: Rachel Kwon blog
 
-<p>Last month I had the chance to travel to two places I previously lived. In early March, I went to London for a work trip, and a couple of weekends ago I went to Chicago for a friend&rsquo;s milestone birthday. It was a strange feeling to revisit these two cities where I&rsquo;d lived and existed before but in the distant past, long enough ago that it felt like I was a different person.</p> 
+Last month I had the chance to travel to two places I previously lived. In early March, I went to London for a work trip, and a couple of weekends ago I went to Chicago for a friend&rsquo;s milestone birthday. It was a strange feeling to revisit these two cities where I&rsquo;d lived and existed before but in the distant past, long enough ago that it felt like I was a different person. 
 
 <br> 
 

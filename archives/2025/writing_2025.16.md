@@ -1,11 +1,36 @@
 ---
 title: writing
-updated: 2025-04-22 14:07:55
+updated: 2025-04-23 06:07:10
 ---
 
 # writing
 
-(date: 2025-04-22 14:07:55)
+(date: 2025-04-23 06:07:10)
+
+---
+
+## Unlocking Creativity: How Changing Your Environment Fuels Writing Inspiration
+
+date: 2025-04-23, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/creative-sparks-unconventional-ways-to-ignite-your-imagination>
+
+---
+
+## Gaiman Files Claim Against Accuser
+
+date: 2025-04-22, from: Locus Magazine
+
+<p data-editable="text" data-uri="www.vulture.com/_components/clay-paragraph/instances/cm9mz4orr000i0if0n55wzci5@published" data-word-count="32">Neil Gaiman has filed a demand for arbitration against Caroline Wallner, the woman who accused him of sexual misconduct while she lived on his property in New York. He is seeking more than $500,000 in damages, arguing that Wallner violated a non-disclosure agreement by coming forward with her account.</p>
+<p data-editable="text" data-uri="www.vulture.com/_components/clay-paragraph/instances/cm9mz4orr000i0if0n55wzci5@published" data-word-count="32">Caroline Wallner lived on Gaiman’s property in Woodstock NY from 2014 to 2021 and says that she felt pressured to have  <a href="https://locusmag.com/2025/04/gaiman-files-claim-against-accuser/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/gaiman-files-claim-against-accuser/>
 
 ---
 

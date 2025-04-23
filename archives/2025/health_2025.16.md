@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2025-04-22 14:07:59
+updated: 2025-04-23 06:07:13
 ---
 
 # health
 
-(date: 2025-04-22 14:07:59)
+(date: 2025-04-23 06:07:13)
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2025-04-23, from: People's CDC
+
+This is the People’s CDC bi-weekly update for April 21, 2025. This Weather Report from the People’s CDC sheds light on the COVID situation and other public health issues in the United States with things we can all do to protect ours and others’ health. 
+
+<br> 
+
+<https://peoplescdc.org/2025/04/23/peoples-cdc-covid-19-weather-report-96/>
+
+---
+
+## Editorial: Microbiome in an immunocompromised host- a jungle of challenges or a glacier of hidden opportunities?
+
+date: 2025-04-23, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1569842>
 
 ---
 

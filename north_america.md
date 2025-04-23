@@ -1,11 +1,101 @@
 ---
 title: north america
-updated: 2025-04-22 14:07:52
+updated: 2025-04-23 06:07:05
 ---
 
 # north america
 
-(date: 2025-04-22 14:07:52)
+(date: 2025-04-23 06:07:05)
+
+---
+
+## Neera Tanden in conversation with Jen Rubin
+
+date: 2025-04-23, from: The Contrarian
+
+"In any oligarchy worth its salt, there is always corruption" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161909386/90bb3cd73fda389a95dd2e8fce233eb2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161909386/90bb3cd73fda389a95dd2e8fce233eb2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/neera-tanden-in-conversation-with>
+
+---
+
+## Senate Republican Toadies Won’t Quit Hegseth
+
+date: 2025-04-23, from: The Contrarian
+
+Willful indifference to our national security 
+
+<br> 
+
+<https://contrarian.substack.com/p/senate-republican-toadies-wont-quit>
+
+---
+
+##  The Conservative Plan To Bring DOGE To Canada 
+
+date: 2025-04-23, from: The Lever News
+
+ Audio reveals how Canadian conservatives are plotting with energy and tech executives to slash services “more quickly” than Trump.  
+
+<br> 
+
+<https://www.levernews.com/the-conservative-plan-to-bring-doge-to-canada/>
+
+---
+
+## Nonprofits Move to Intervene on Behalf of Los Angeles Residents in Sanctuary Case
+
+date: 2025-04-22, from: Capital and Main
+
+<p>Many cities with laws restricting local law enforcement cooperation with federal immigration officials have joined the lawsuit. Los Angeles is noticeably absent.</p>
+<p>The post <a href="https://capitalandmain.com/nonprofits-move-to-intervene-on-behalf-of-los-angeles-residents-in-sanctuary-case">Nonprofits Move to Intervene on Behalf of Los Angeles Residents in Sanctuary Case</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/nonprofits-move-to-intervene-on-behalf-of-los-angeles-residents-in-sanctuary-case>
+
+---
+
+## Evening Roundup, April 22: A Day of Courage 
+
+date: 2025-04-22, from: The Contrarian
+
+Featuring Jen Rubin and Norm Eisen LIVE from abroad about today's breaking news; plus Marvin Kalb, Liz Shuler (interview), Michael de Adder, Josh Levs, and Robert T. Jones (interview) 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-22-a-day-of>
+
+---
+
+## Breaking News with Jen & Norm: Free Press
+
+date: 2025-04-22, from: The Contrarian
+
+Watch now | VOA, 60 Minutes, and the importance of independent journalism 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161924868/e484962e7699d00bd12b32fb3e937962.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161924868/e484962e7699d00bd12b32fb3e937962.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/breaking-news-with-jen-and-norm-free>
+
+---
+
+##  Automaker’s Tariff Plan: Cut Jobs And Pay Off Wall Street 
+
+date: 2025-04-22, from: The Lever News
+
+ Stellantis laid off a thousand U.S. workers in response to tariffs, then authorized billions in shareholder payouts.  
+
+<br> 
+
+<https://www.levernews.com/automakers-tariff-plan-cut-jobs-and-pay-off-wall-street/>
 
 ---
 

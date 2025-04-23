@@ -1,11 +1,185 @@
 ---
 title: journalism
-updated: 2025-04-22 14:07:56
+updated: 2025-04-23 06:07:10
 ---
 
 # journalism
 
-(date: 2025-04-22 14:07:56)
+(date: 2025-04-23 06:07:10)
+
+---
+
+## How BookTok has changed reading forever
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Rhythm and News hosts Caitlin Roehmholdt and Abi Mann talk about how BookTok trends have revolutionized reading for a new generation. From Colleen Hoover "It Ends with Us" to Sally Rooney's "Normal People," social media has shaped how readers consume content.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/how-booktok-has-changed-reading-forever/">How BookTok has changed reading forever</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/how-booktok-has-changed-reading-forever/>
+
+---
+
+## Classifieds – April 23, 2025
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/classifieds-april-23-2025/">Classifieds &#8211; April 23, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/classifieds-april-23-2025/>
+
+---
+
+## UCLA California Health Professional Student Alliance lobbies for health care
+
+date: 2025-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Undergraduate students from the UCLA and UC Berkeley chapters of the California Health Professional Student Alliance traveled to the California State Capitol to lobby for health equity. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/23/ucla-california-health-professional-student-alliance-lobbies-for-health-care/>
+
+---
+
+## SSO’s Spring Concert features a grand farewell
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A night of music from the symphony culminated in a changing of the guard.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/ssos-spring-concert-features-a-grand-farewell/">SSO’s Spring Concert features a grand farewell</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/ssos-spring-concert-features-a-grand-farewell/>
+
+---
+
+## Senators hear State of USG address, amend bylaws
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The senate passed three bills and heard three others that can be voted on next week.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/senators-hear-state-of-usg-address-ammend-bylaws/">Senators hear State of USG address, amend bylaws</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/senators-hear-state-of-usg-address-ammend-bylaws/>
+
+---
+
+## Reject, reinvent, rinse, repeat
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>All rules are out the window: Play with your food and dress up your fur friends. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/reject-reinvent-rinse-repeat/">Reject, reinvent, rinse, repeat</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/reject-reinvent-rinse-repeat/>
+
+---
+
+## ‘Sea Drift’ inspires audiences with a hopeful nightmare
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Brand New Theatre’s full-length production shook nerves and melted hearts with familiar tropes.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/sea-drift-inspires-audiences-with-a-hopeful-nightmare/">‘Sea Drift’ inspires audiences with a hopeful nightmare</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/sea-drift-inspires-audiences-with-a-hopeful-nightmare/>
+
+---
+
+## USC international students advised on summer travel
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University sent an email following visa revocations across the United States.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/usc-international-students-advised-on-summer-travel/">USC international students advised on summer travel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/usc-international-students-advised-on-summer-travel/>
+
+---
+
+## Marshall Earth Day panel discusses climate future
+
+date: 2025-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The panel discussed impact of Trump administration’s policies on climate change.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/23/marshall-earth-day-panel-discusses-climate-future/">Marshall Earth Day panel discusses climate future</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/23/marshall-earth-day-panel-discusses-climate-future/>
+
+---
+
+## Former Bruins reflect on decisions, process of transferring out of UCLA
+
+date: 2025-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+For some students who attend the No. 1 public university in the nation &#8211; and the most applied-to school in the United States &#8211; the reality does not always match the dream. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/former-bruins-reflect-on-decisions-process-of-transferring-out-of-ucla/>
+
+---
+
+## Anderson Forecast predicts possible recession due to Trump administration policies
+
+date: 2025-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Anderson Forecast predicted in March that, if enacted, the Trump administration&#8217;s economic policies will lead to recession.
+Clement Bohr, the economist who authored the recession watch report, cited concerns about President Donald Trump&#8217;s tariff policies, mass deportations and Elon Musk&#8217;s Department of Government Efficiency &#8211; an initiative to cut federal spending. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/anderson-forecast-predicts-possible-recession-due-to-trump-administration-policies/>
+
+---
+
+## UCLA admitted students’ weekend programs instructed to remove exclusive wording
+
+date: 2025-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Luisa Ortiz never thought her team would have to change the name of the Latinx Admit Weekend.
+The weekend is open to all newly admitted Bruins, with a focus on building community and offering support for incoming students from Latino backgrounds. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/ucla-admitted-students-weekend-programs-instructed-to-remove-exclusive-wording/>
+
+---
+
+## Editorial Cartoon: “One More Minute”
+
+date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/22/editorial-cartoon-one-more-minute/>
 
 ---
 
@@ -78,6 +252,7 @@ date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 22 at 11:54 p.m.</em>
 UCLA alumnus and Grammy Award-winning musician Sara Bareilles will speak at the College of Letters and Science commencement ceremonies June 13.&#160;
 Bareilles, who graduated from UCLA with a bachelor’s degree in communication in 2003, will deliver the keynote speech at each of the three UCLA College commencement ceremonies, which are scheduled for 11 a.m., 3 p.m. 
 
@@ -175,7 +350,8 @@ date: 2025-04-22, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
 
-Megan Timpane is using humor to unlock raw vulnerability and humanitarian connection.
+<em>This post was updated April 22 at 8:46 p.m.</em>
+Megan Timpane is using humor to unlock raw vulnerability and human connection.
 UCLA School of Theater, Film and Television alumnus Timpane was diagnosed with stage 3 Hodgkin&#8217;s lymphoma a year after her graduation. 
 
 <br> 
@@ -188,6 +364,7 @@ UCLA School of Theater, Film and Television alumnus Timpane was diagnosed with s
 
 date: 2025-04-22, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 22 at 9:11 p.m.</em>
 In the desert, it is critical to refuel often.
 And at the Coachella Valley Music and Arts Festival, sometimes the only option for sustenance is to choose from the smorgasbord of vendors and booths selling plates of food of various cuisines. 
 

@@ -28,7 +28,124 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-04-22 14:07:55)</p>
+<p>(date: 2025-04-23 06:07:09)</p>
+<hr />
+<h2 id="office-hours-at-what-point-is-this-a-dictatorship">Office Hours:
+At what point is this a dictatorship?</h2>
+<p>date: 2025-04-23, from: Robert Reich’s blog</p>
+<p>What must happen for Americans to realize we’re no longer living in a
+democracy?</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/office-hours-at-what-point-is-this"
+class="uri">https://robertreich.substack.com/p/office-hours-at-what-point-is-this</a></p>
+<hr />
+<h2 id="oddμ-templates">2025-04-23 Oddμ templates</h2>
+<p>date: 2025-04-23, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-04-23-oddμ-templates">
+2025-04-23 Oddμ templates
+</h1>
+<p>
+I’ve been working on a rewrite of the Oddmu upload template. My problem
+is that Oddmu, like Oddmuse before it, derives filenames from the URL
+path. Thus, a page like this one uses
+<code>2025-04-23-oddmu-templates</code> as the filename. Which is fine.
+If I want to link to this page, I’ll use something like <code><a
+href="https://alexschroeder.ch/edit/?id=2025-04-23-oddmu-templates">templates</a></code>.
+This is also fine.
+</p>
+<p>
+Oddμ allows people to upload files, including Markdown files, and it
+allows people to edit the data files directly, using a regular editor
+(if they have access to the data directory). That means any UNIX
+filename can be used. This includes filenames containing
+<a href="https://www.rfc-editor.org/rfc/rfc3986#section-2.2">reserved
+characters</a> in URLs such as <code>?</code> and <code>#</code>.
+</p>
+<p>
+When using HTML templates in Go, I take filenames and use them as local
+URLs. The HTML template library uses appropriate percent encoding.
+Sadly, it wants to handle URLs such as
+<code>https://example.org/foo?bar#baz</code> and therefore doesn’t
+percent-encode characters such <code>?</code> and <code>#</code>.
+</p>
+<p>
+The Go library takes context into account when deciding on the escaping
+required. If an attribute is used as a link, percent-encoding is used.
+If the same attribute is used as regular text, HTML escaping is used.
+This is why there is no good solution for me. If I unconditionally
+percent-escape characters such <code>?</code> and <code>#</code>, they
+don’t show up correctly where plain HTML is expected. If I don’t
+percent-escape the characters, the links don’t work.
+</p>
+<p>
+This is why the old templates didn’t work for certain filenames:
+</p>
+<pre><code>&lt;a href=&quot;/view/{{$.Dir}}{{.Name}}&quot;&gt;{{.Name}}&lt;/a&gt;
+</code></pre>
+<p>
+I now provide a special <code>.Path</code> attribute. It has the same
+value as the <code>.Name</code> attribute, with a few important
+characters escaped. Use it where you need a link:
+</p>
+<pre><code>&lt;a href=&quot;/view/{{$.Dir}}{{.Path}}&quot;&gt;{{.Name}}&lt;/a&gt;
+</code></pre>
+<p>
+<a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a>
+<a class="tag" href="/search/?q=%23GoLang">#GoLang</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-04-23-oddmu-templates"
+class="uri">https://alexschroeder.ch/view/2025-04-23-oddmu-templates</a></p>
+<hr />
+<h2 id="april-22-2025">April 22, 2025</h2>
+<p>date: 2025-04-23, from: Heather Cox Richardson blog</p>
+<p>Today is Earth Day, celebrated for the first time in 1970.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/april-22-2025"
+class="uri">https://heathercoxrichardson.substack.com/p/april-22-2025</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-04-23, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/03/12/usAttacked.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It’s
+crazy to even think of moving Chrome from Google
+<a href="https://techcrunch.com/2025/04/22/openai-exec-says-the-company-would-buy-googles-chrome-browser-if-offered-the-chance/?guccounter=1&guce_referrer=aHR0cDovL3NjcmlwdGluZy5jb20v&guce_referrer_sig=AQAAALnjUkq94tpAXWEMr56Y1XtRJG6hrCFHhLQc0kOdOGX9lwkrh2G9cxd1P5OT3HH7-uCaybLWdPHi3J-VkpdtBV16Lnb8xCbvEIsQgOME7IXZgson6x4kIgRZgxaHkn8aH76hT-4BjuIa-Xbn30WQDKJ1N-mHp3PfPONGELKM0nVn">to
+OpenAI</a>. The web needs to not be owned by anyone, esp not owned by
+the tech industry. What Google tried to do to the web is obscene. I love
+ChatGPT, but let’s keep Chrome out of their owner’s greedy little hands.
+Set it up so it stands alone.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/04/22.html#a004359"
+class="uri">http://scripting.com/2025/04/22.html#a004359</a></p>
+<hr />
+<h2 id="wednesday-23-april-2025">Wednesday 23 April, 2025</h2>
+<p>date: 2025-04-22, from: John Naughton’s online diary</p>
+<p>Monster of the deep? Sadly, no. But when viewed from a distance it
+looked for a moment like a sinister predator surfacing in a placid lake!
+Quote of the Day “AI has by now succeeded in doing essentially
+everything that …
+<a href="https://memex.naughtons.org/wednesday-23-april-2025/40706/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><br></p>
+<p><a href="https://memex.naughtons.org/wednesday-23-april-2025/40706/"
+class="uri">https://memex.naughtons.org/wednesday-23-april-2025/40706/</a></p>
+<hr />
+<h2 id="the-view-from-the-right">The view from the right</h2>
+<p>date: 2025-04-22, from: Robert Reich’s blog</p>
+<p>Conservative condemnation of the Trump regime is almost as vehement
+as is progressive condemnation. Will they give cover to business leaders
+who have so far remained silent?</p>
+<p><br></p>
+<p><a href="https://robertreich.substack.com/p/the-view-from-the-right"
+class="uri">https://robertreich.substack.com/p/the-view-from-the-right</a></p>
+<hr />
+<h2 id="how-id-fix-atlanta.-in-each-of-these-essays-a-citizen-of">How
+I’d Fix Atlanta. “In each of these essays, a citizen of…</h2>
+<p>date: 2025-04-22, updated: 2025-04-22, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046692-how-id-fix-atlanta-in"
+class="uri">https://kottke.org/25/04/0046692-how-id-fix-atlanta-in</a></p>
 <hr />
 <h2
 id="x3-is-a-connections-like-game-invented-by-hank-green-where-you-sort">4x3
@@ -1181,10 +1298,7 @@ changed the world, and in turn are creating a lot of misery. You don’t
 want to do that, brilliant young tech person, right? Let’s make the
 world better, one little evolutionary step at a time. More about this in
 <a href="http://scripting.com/2025/04/21/141055.html">yesterday’s
-post</a>. And note btw that I didn’t fall into the trap of blaming it on
-men. There are enough women entrepreneurs who do a lot of damage with
-their unfettered ambition that their motivations need to be looked at
-too. We all create each other.</p>
+post</a>.</p>
 <p><br></p>
 <p><a href="http://scripting.com/2025/04/22.html#a121317"
 class="uri">http://scripting.com/2025/04/22.html#a121317</a></p>

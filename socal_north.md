@@ -1,11 +1,149 @@
 ---
 title: socal north
-updated: 2025-04-22 14:07:52
+updated: 2025-04-23 06:07:06
 ---
 
 # socal north
 
-(date: 2025-04-22 14:07:52)
+(date: 2025-04-23 06:07:06)
+
+---
+
+## Another partly sunny and mild day for SoCal
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+Partly sunny across Los Angeles, with highs near 67. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/partly-sunny-and-mild-across-the-southland>
+
+---
+
+## LA Mayor Karen Bass’ budget calls for 80% drop in financing of new affordable housing
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+On top of layoffs and budget cuts, the mayor’s budget proposal includes a pessimistic outlook for the city’s housing market in the upcoming year. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-mayor-bass-budget-affordable-housing-ula-mansion-tax-hhh>
+
+---
+
+## ‘Unprecedented’ toxic algae bloom continues to kill Southern California wildlife
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+Rescuers have received thousands of calls about dolphins, sea lions, birds and other animals who need help. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/unprecedented-toxic-algae-bloom-killing-southern-california-wildlife>
+
+---
+
+## Journalist Alexis Madrigal on why Oakland serves as a cautionary tale of globalization
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+Alexis Madrigal's new book makes the case that Oakland is both a sacrificial landscape and a nexus of global trade 
+
+<br> 
+
+<https://laist.com/news/journalist-alexis-madrigal-on-why-oakland-serves-as-a-cautionary-tale-of-globalization>
+
+---
+
+## These yellow flowers cover the 110 Freeway walls. How they got there
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+This sunny vine thrives in an unforgiving urban environment — could that become a problem? 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/los-angeles-110-freeway-yellow-flowers-sound-wall-cats-claw>
+
+---
+
+## LA Zoo elephants pack their trunks for Oklahoma
+
+date: 2025-04-22, updated: 2025-04-23, from: The LAist
+
+Billy and Tina, the last two remaining Asian elephants at the L.A. Zoo, are relocating to the Tulsa Zoo. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-zoo-elephants-pack-their-trunks-for-oklahoma>
+
+---
+
+## Rep. Robert Garcia returns from El Salvador, demands the release of wrongfully deported man
+
+date: 2025-04-22, from: Longbeach Post
+
+<figure><img width="1024" height="583" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-1024x583.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-1024x583.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-768x437.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-190x108.jpg 190w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144133/22apr25-garcia-2-902841-vbdqheh3-260072-nKqztTuI.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“I think the entire country has to be courageous and stand up in this moment and demand that this cannot happen,” Garcia said.</p>
+<p>The post <a href="https://lbpost.com/news/politics/robert-garcia-el-salvador-wrongfully-deported-man-kilmer">Rep. Robert Garcia returns from El Salvador, demands the release of wrongfully deported man</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/robert-garcia-el-salvador-wrongfully-deported-man-kilmer>
+
+---
+
+## Prosecutors are revisiting their plea deal with Andrew Do, OC supervisor says
+
+date: 2025-04-22, updated: 2025-04-22, from: The LAist
+
+Do is scheduled to be sentenced in June to up to five years in federal prison. County supervisors voted 4-1 to call for a tougher sentence. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-supervisors-call-for-revisiting-andrew-do-prison-recommendation>
+
+---
+
+## Man gets 50 years to life for ‘very disturbing’ murder of employee at Crow’s Nest bar
+
+date: 2025-04-22, from: Longbeach Post
+
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1024x689.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1024x689.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-300x202.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-768x517.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-160x108.jpg 160w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-1200x808.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL-400x269.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/22144710/crows-nest-exterior-668316-ltrtdzpt-695505-45BOB0SL.jpg 1536w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The victim’s two young children spoke during the sentencing hearing, with one asking the defendant, “Why did you think killing my daddy was OK?”</p>
+<p>The post <a href="https://lbpost.com/news/crime/crows-nest-bar-murder-sentencing-james-lopez">Man gets 50 years to life for ‘very disturbing’ murder of employee at Crow’s Nest bar</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/crows-nest-bar-murder-sentencing-james-lopez>
+
+---
+
+## 'PORN' signs divide an Orange County city already on edge
+
+date: 2025-04-22, updated: 2025-04-22, from: The LAist
+
+The libraries have been a center of controversy since proud MAGA conservatives gained control of city government. 
+
+<br> 
+
+<https://laist.com/news/politics/porn-library-campaign-signs-divide-huntington-beach>
+
+---
+
+## LA expands ban on sleeping, camping in public areas to include parts of Chatsworth
+
+date: 2025-04-22, updated: 2025-04-22, from: The LAist
+
+The City Council approved the designation despite a report that said policy enforcement was failing. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-expands-ban-on-sleeping-camping-public-areas-chatsworth>
 
 ---
 
@@ -25,7 +163,7 @@ Getting rid of judges adds to criticism of the Trump administration for not givi
 
 date: 2025-04-22, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Speed and impaired driving were being investigated as possible factors in the crash, police said. </p>
 <p>The post <a href="https://lbpost.com/news/crime/19-year-old-passenger-dies-after-car-slams-into-tree-in-downtown-long-beach-police-say">19-year-old passenger dies after car slams into tree in Downtown Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -52,7 +190,7 @@ At a time when communities feel fractured, here's a look at online communities t
 
 date: 2025-04-22, from: Longbeach Post
 
-<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-1024x689.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-1024x689.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-300x202.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-768x517.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-160x108.jpg 160w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-400x269.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-1024x689.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-1024x689.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-300x202.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-768x517.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-160x108.jpg 160w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6-400x269.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/21162209/21apr25-bank-2194-810039-2dcafxec-283566-8G5uJkg6.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Long Beach Birth Center abruptly closed, leaving a group of expectant mothers suddenly without prenatal care. The owner insists she’s also a victim, hamstrung by the state’s unfair regulations.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-birth-center-closed-scam-meredith-bowling-what-happened">They trusted her to help birth their babies; instead, they say, she disappeared with their money</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

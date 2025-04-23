@@ -1,11 +1,401 @@
 ---
 title: pacific
-updated: 2025-04-22 14:07:53
+updated: 2025-04-23 06:07:07
 ---
 
 # pacific
 
-(date: 2025-04-22 14:07:53)
+(date: 2025-04-23 06:07:07)
+
+---
+
+## Police suspect foul play in 3 missing person cases
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Police detectives are renewing their request for information regarding three separate missing person investigations over the past few years in the Puna district.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/hawaii-news/police-suspect-foul-play-in-3-missing-person-cases/>
+
+---
+
+## Mele Manaka 2025 Community Fair kicks off Thursday
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>The SCP Hilo Hotel (formerly Hilo Seaside Hotel) at 126 Banyan Way will be hosting a three-day cultural event and craft fair during Merrie Monarch week featuring nearly 80 vendors and over a dozen live musicians.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/hawaii-news/mele-manaka-2025-community-fair-kicks-off-thursday/>
+
+---
+
+## ‘Franz gave so much of himself’; W. Hawaii residents mourn loss of community volunteer
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Start by doing what&#8217;s necessary, then do what&#8217;s possible, and suddenly you are doing the impossible.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/hawaii-news/franz-gave-so-much-of-himself-w-hawaii-residents-mourn-loss-of-community-volunteer/>
+
+---
+
+## How Trump waged war on his perceived foes in first 100 days
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Hours after swearing an oath to defend the U.S. Constitution on January 20, President Donald Trump signed an executive order directing his attorney general to scour the Justice Department and other agencies for evidence of political &#8220;weaponization.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/how-trump-waged-war-on-his-perceived-foes-in-first-100-days/>
+
+---
+
+## Under Hegseth, chaos prevails at the Pentagon
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Defense Secretary Pete Hegseth arrived at the Pentagon in January with almost no government experience and huge ambitions to remake the way the military was being run.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/under-hegseth-chaos-prevails-at-the-pentagon/>
+
+---
+
+## Measles surge in Southwest is now the largest single outbreak since 2000
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>The spread of measles in the Southwest now constitutes the largest single outbreak since the United States declared the disease eliminated in 2000, federal scientists told state officials in a meeting Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/measles-surge-in-southwest-is-now-the-largest-single-outbreak-since-2000/>
+
+---
+
+## Musk to cut back DOGE work after Tesla sales skid
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Tesla CEO Elon Musk said on Tuesday he would cut back &#8220;significantly&#8221; the time he devotes to the Trump administration from next month and spend more time running the electric-vehicle maker.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/musk-to-cut-back-doge-work-after-tesla-sales-skid/>
+
+---
+
+## EPA begins layoffs of environmental justice staff
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Environmental Protection Agency sent termination notices on Tuesday to staff who work on environmental justice programs at its headquarters and across regional offices, saying their work no longer aligns with the mission of the agency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/epa-begins-layoffs-of-environmental-justice-staff/>
+
+---
+
+## A simpler funeral for Francis, who shunned many gilt papal trappings
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>ROME &#8212; Pope Francis&#8217; funeral will be held Saturday in front of St. Peter&#8217;s Basilica in Vatican City, with simpler rituals than in the past, followed by a burial in a relatively unadorned tomb, in keeping with his desire to draw the Catholic Church closer to the people, the Vatican said Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/a-simpler-funeral-for-francis-who-shunned-many-gilt-papal-trappings/>
+
+---
+
+## News in brief for April 23
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Judge blocks Trump effort &#0010;to dismantle Voice of America</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/news-in-brief-for-april-23/>
+
+---
+
+## Trump administration proposes major shake-up of US State Department
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is proposing a major overhaul of the U.S. State Department that would eliminate more than 100 offices including some working on war crimes and rights advocacy to ensure the agency is in line with President Donald Trump&#8217;s &#8220;America First&#8221; priorities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/trump-administration-proposes-major-shake-up-of-us-state-department/>
+
+---
+
+## More than 220 academic leaders condemn Trump ‘overreach’
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>A day after Harvard University sued the Trump administration over its decision to freeze billions in federal funds to the school, more than 220 higher education leaders from around the country signed a joint statement Tuesday condemning the administration&#8217;s efforts to control universities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/more-than-220-academic-leaders-condemn-trump-overreach/>
+
+---
+
+## Jury finds NY Times not liable in Sarah Palin defamation case
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A federal jury in Manhattan on Tuesday found the New York Times not liable for allegedly defaming Sarah Palin in a 2017 editorial about gun control, dealing the former Republican U.S. vice presidential candidate a second loss at trial. The verdict came in a retrial of Palin&#8217;s case, after a federal appeals court threw out a 2022 verdict in the Times&#8217; favor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/jury-finds-ny-times-not-liable-in-sarah-palin-defamation-case/>
+
+---
+
+## US to phase out many synthetic food dyes, Kennedy and FDA head say
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Health Secretary Robert F. Kennedy Jr. and FDA Commissioner Marty Makary said on Tuesday that the agency plans to remove petroleum-based synthetic food dyes from the U.S. food supply by revoking authorizations of some and working with industry to voluntarily remove others.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/us-to-phase-out-many-synthetic-food-dyes-kennedy-and-fda-head-say/>
+
+---
+
+## Mexico’s president punches back against Kristi Noem’s anti-migrant ads
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; The ads broadcast on Mexican television, during soccer games and prime time viewing hours, show Kristi Noem, the U.S. homeland security secretary, blaming migrants for violent crime and drug trafficking in the United States as she delivers a blunt warning: &#8220;We will hunt you down.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/mexicos-president-punches-back-against-kristi-noems-anti-migrant-ads/>
+
+---
+
+## At least 20 feared killed in militant attack on tourists in Indian Kashmir, security sources say
+
+date: 2025-04-23, from: Hawaii Tribune Harold
+
+
+				<p>SRINAGAR, India &#8212; At least 20 people were feared killed after suspected militants opened fire on tourists in India&#8217;s Jammu and Kashmir territory on Tuesday, three security sources said, the worst attack on civilians in the troubled Himalayan region for years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/23/nation-world-news/at-least-20-feared-killed-in-militant-attack-on-tourists-in-indian-kashmir-security-sources-say/>
+
+---
+
+## Outdated: Guam Customs agency languishing in the paper world
+
+date: 2025-04-23, from: Pacific Island Times
+
+Auditors found that the agency operates on more-than-two-decades-old standard operating procedures, which require officers to accept paper documents and use manual filing systems.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/outdated-guam-customs-agency-languishing-in-the-paper-world>
+
+---
+
+## Guam Sweet Spot brings mochi magic to the island
+
+date: 2025-04-23, from: Pacific Island Times
+
+“What inspired me to open Guam Sweet Spot is my passion for baking and my love for sweets,” she said. “In 2013, I studied Culinary Arts at GCC. When the pandemic hit in 2020 and everyone had to stay indoors, my journey with baking at home started.” 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-sweet-spot-brings-mochi-magic-to-the-island>
+
+---
+
+## Chinese lion dances and love from UH Hilo
+
+date: 2025-04-23, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo and <span aria-label="Hawaii">Hawai&#699;i</span> <abbr title="Community College">CC</abbr> students brought traditional Chinese music, dance and fashion to life for local veterans.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/chinese-lion-dances-uh-hilo/">Chinese lion dances and love from <abbr>UH</abbr> Hilo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/chinese-lion-dances-uh-hilo/>
+
+---
+
+## President Hensel reaffirms values, answers questions, amid federal policy changes
+
+date: 2025-04-23, from: University of Hawaiʻi News
+
+<p>More than 120 attended in person and more than 1,000 joined the open forum via livestream.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/president-hensel-open-forum-april/">President Hensel reaffirms values, answers questions, amid federal policy changes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/president-hensel-open-forum-april/>
+
+---
+
+## Feats and challenges: COP29 president Mukhtar Babayev tackles climate goals
+
+date: 2025-04-23, from: Pacific Island Times
+
+The agreement is projected to unlock $1 trillion per year by 2050, which can be channelled to climate projects around the world, including Guam and other small island states. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/feats-and-challenges-cop29-president-mukhtar-babayev-tackles-climate-goals>
+
+---
+
+## Student leaders shine at UH Hilo Ka Lama Kū Awards
+
+date: 2025-04-23, from: University of Hawaiʻi News
+
+<p>The Ka Lama K&#363; awards recognizes student leaders who exemplify Native Hawaiian values.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/uh-hilo-ka-lama-ku-award-2025/">Student leaders shine at <abbr>UH</abbr> Hilo Ka Lama Kū Awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/uh-hilo-ka-lama-ku-award-2025/>
+
+---
+
+## Full scholarships available for summer CIP x CIA Workforce Development Program
+
+date: 2025-04-22, from: University of Hawaiʻi News
+
+<p>Cohort 9 and Cohort 10 will take place in June, offering full tuition scholarships for qualified applicants.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/full-scholarships-summer-cip-x-cia/">Full scholarships available for summer <abbr>CIP</abbr> x <abbr>CIA</abbr> Workforce Development Program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/full-scholarships-summer-cip-x-cia/>
+
+---
+
+## UH journalism alumna guides Sacred Hearts to 3rd straight state title
+
+date: 2025-04-22, from: University of Hawaiʻi News
+
+<p>Alyssa Myers is one of several public and private school news program advisers who have earned degrees from <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/alumna-guides-sacred-hearts-students/"><abbr>UH</abbr> journalism alumna guides Sacred Hearts to 3rd straight state title</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/alumna-guides-sacred-hearts-students/>
+
+---
+
+## 2025 Mānoa Awards spotlight campus excellence
+
+date: 2025-04-22, from: University of Hawaiʻi News
+
+<p>The 2025 <abbr>UH</abbr> Mānoa Awards Ceremony will be held on April 28, 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/2025-manoa-awards/">2025 Mānoa Awards spotlight campus excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/2025-manoa-awards/>
+
+---
+
+## UH joins national call to protect higher education from government overreach
+
+date: 2025-04-22, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> President Wendy Hensel was among university and college leaders who signed an April 22 statement by the <abbr>AACU</abbr> opposing unprecedented government overreach and political interference.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/uh-joins-national-call-to-protect-higher-education/"><abbr>UH</abbr> joins national call to protect higher education from government overreach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/uh-joins-national-call-to-protect-higher-education/>
+
+---
+
+## Hawaiʻi CC Day draws hundreds with classic cars, culinary craft, careers
+
+date: 2025-04-22, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr> wowed the crowd with cool cars, tasty bites and career-ready experiences.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/hawaii-cc-day-2025/">Hawaiʻi <abbr>CC</abbr> Day draws hundreds with classic cars, culinary craft, careers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/hawaii-cc-day-2025/>
+
+---
+
+## Sakellaris earns first Academic All-America honors for women’s swimming
+
+date: 2025-04-22, from: University of Hawaiʻi News
+
+<p>Arianna Sakellaris became the first ever Rainbow Wahine swimmer to earn <abbr>CSC</abbr> Academic All-America honors.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/sakellaris-academic-all-america-honors/">Sakellaris earns first Academic All-America honors for women’s swimming</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/sakellaris-academic-all-america-honors/>
+
+---
+
+## UH golfer Kraus selected honorable mention All-Big West
+
+date: 2025-04-22, from: University of Hawaiʻi News
+
+<p>Maline Kraus was listed as an honorable mention on the 2024–25 All-Big West Team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/22/kraus-honorable-mention-all-big-west/"><abbr>UH</abbr> golfer Kraus selected honorable mention All-Big West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/22/kraus-honorable-mention-all-big-west/>
 
 ---
 
@@ -344,7 +734,7 @@ date: 2025-04-22, from: Hawaii Tribune Harold
 date: 2025-04-22, from: Hawaii Tribune Harold
 
 
-				<p>Episode 18 of the ongoing Halema&#699;uma&#699;u crater eruption resumed today with lava overflowing the south vent at 3:20 a.m., followed by the onset of fountaining from both vents at 3:30 a.m.</p>
+				<p><strong>UPDATE </strong></p>
 			 
 
 <br> 

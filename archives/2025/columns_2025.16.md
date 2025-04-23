@@ -1,11 +1,113 @@
 ---
 title: columns
-updated: 2025-04-22 14:07:55
+updated: 2025-04-23 06:07:09
 ---
 
 # columns
 
-(date: 2025-04-22 14:07:55)
+(date: 2025-04-23 06:07:09)
+
+---
+
+## Office Hours: At what point is this a dictatorship?
+
+date: 2025-04-23, from: Robert Reich's blog
+
+What must happen for Americans to realize we&#8217;re no longer living in a democracy? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-at-what-point-is-this>
+
+---
+
+## 2025-04-23 Oddμ templates
+
+date: 2025-04-23, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-23-oddμ-templates">2025-04-23 Oddμ templates</h1>
+
+<p>I&rsquo;ve been working on a rewrite of the Oddmu upload template. My problem is that Oddmu, like Oddmuse before it, derives filenames from the URL path. Thus, a page like this one uses <code>2025-04-23-oddmu-templates</code> as the filename. Which is fine. If I want to link to this page, I&rsquo;ll use something like <code>[templates](https://alexschroeder.ch/edit/?id=2025-04-23-oddmu-templates)</code>. This is also fine.</p>
+
+<p>Oddμ allows people to upload files, including Markdown files, and it allows people to edit the data files directly, using a regular editor (if they have access to the data directory). That means any UNIX filename can be used. This includes filenames containing <a href="https://www.rfc-editor.org/rfc/rfc3986#section-2.2">reserved characters</a> in URLs such as <code>?</code> and <code>#</code>.</p>
+
+<p>When using HTML templates in Go, I take filenames and use them as local URLs. The HTML template library uses appropriate percent encoding. Sadly, it wants to handle URLs such as <code>https://example.org/foo?bar#baz</code> and therefore doesn&rsquo;t percent-encode characters such <code>?</code> and <code>#</code>.</p>
+
+<p>The Go library takes context into account when deciding on the escaping required. If an attribute is used as a link, percent-encoding is used. If the same attribute is used as regular text, HTML escaping is used. This is why there is no good solution for me. If I unconditionally percent-escape characters such <code>?</code> and <code>#</code>, they don&rsquo;t show up correctly where plain HTML is expected. If I don&rsquo;t percent-escape the characters, the links don&rsquo;t work.</p>
+
+<p>This is why the old templates didn&rsquo;t work for certain filenames:</p>
+
+<pre><code>&lt;a href=&quot;/view/{{$.Dir}}{{.Name}}&quot;&gt;{{.Name}}&lt;/a&gt;
+</code></pre>
+
+<p>I now provide a special <code>.Path</code> attribute. It has the same value as the <code>.Name</code> attribute, with a few important characters escaped. Use it where you need a link:</p>
+
+<pre><code>&lt;a href=&quot;/view/{{$.Dir}}{{.Path}}&quot;&gt;{{.Name}}&lt;/a&gt;
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> <a class="tag" href="/search/?q=%23GoLang">#GoLang</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-23-oddmu-templates>
+
+---
+
+## April 22, 2025 
+
+date: 2025-04-23, from: Heather Cox Richardson blog
+
+Today is Earth Day, celebrated for the first time in 1970. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-22-2025>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/03/12/usAttacked.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's crazy to even think of moving Chrome from Google <a href="https://techcrunch.com/2025/04/22/openai-exec-says-the-company-would-buy-googles-chrome-browser-if-offered-the-chance/?guccounter=1&guce_referrer=aHR0cDovL3NjcmlwdGluZy5jb20v&guce_referrer_sig=AQAAALnjUkq94tpAXWEMr56Y1XtRJG6hrCFHhLQc0kOdOGX9lwkrh2G9cxd1P5OT3HH7-uCaybLWdPHi3J-VkpdtBV16Lnb8xCbvEIsQgOME7IXZgson6x4kIgRZgxaHkn8aH76hT-4BjuIa-Xbn30WQDKJ1N-mHp3PfPONGELKM0nVn">to OpenAI</a>. The web needs to not be owned by anyone, esp not owned by the tech industry. What Google tried to do to the web is obscene. I love ChatGPT, but let's keep Chrome out of their owner's greedy little hands. Set it up so it stands alone. 
+
+<br> 
+
+<http://scripting.com/2025/04/22.html#a004359>
+
+---
+
+## Wednesday 23 April, 2025
+
+date: 2025-04-22, from: John Naughton's online diary
+
+Monster of the deep? Sadly, no. But when viewed from a distance it looked for a moment like a sinister predator surfacing in a placid lake! Quote of the Day “AI has by now succeeded in doing essentially everything that &#8230; <a href="https://memex.naughtons.org/wednesday-23-april-2025/40706/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-23-april-2025/40706/>
+
+---
+
+## The view from the right
+
+date: 2025-04-22, from: Robert Reich's blog
+
+Conservative condemnation of the Trump regime is almost as vehement as is progressive condemnation. Will they give cover to business leaders who have so far remained silent? 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-view-from-the-right>
+
+---
+
+##  How I&#8217;d Fix Atlanta. &#8220;In each of these essays, a citizen of... 
+
+date: 2025-04-22, updated: 2025-04-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046692-how-id-fix-atlanta-in>
 
 ---
 
@@ -538,7 +640,7 @@ date: 2025-04-22, updated: 2025-04-22, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-04-22, from: Dave Winer's Scripting News)
 
-If you're a young person contemplating a career in tech, great! It's fun, and you can help people doing this. But please don't listen to the VCs and entrepreneurs who say it's all about changing the world. Instead think of it this way -- you're going to create tools for people who may change the world, in collaboration with lots of other people. No one person is that smart and experienced that they know what's best for the world. The stories you heard about great inventors probably aren't true. And the ones who actually changed the world, may not have changed it for the better. Look at what happened with Twitter as a cautionary tale. Imho it would have been better if the founders had made less money, and opened the door for lots of competition right from the start. That's the philosophy of the web. Instead they captured the web, amputated all its good features, and locked it in the trunk and then cut off its air supply. That was inevitable given the path they went down. Yes they changed the world, and in turn are creating a lot of misery. You don't want to do that, brilliant young tech person, right? Let's make the world better, one little evolutionary step at a time. More about this in <a href="http://scripting.com/2025/04/21/141055.html">yesterday's post</a>. And note btw that I didn't fall into the trap of blaming it on men. There are enough women entrepreneurs who do a lot of damage with their unfettered ambition that their motivations need to be looked at too. We all create each other. 
+If you're a young person contemplating a career in tech, great! It's fun, and you can help people doing this. But please don't listen to the VCs and entrepreneurs who say it's all about changing the world. Instead think of it this way -- you're going to create tools for people who may change the world, in collaboration with lots of other people. No one person is that smart and experienced that they know what's best for the world. The stories you heard about great inventors probably aren't true. And the ones who actually changed the world, may not have changed it for the better. Look at what happened with Twitter as a cautionary tale. Imho it would have been better if the founders had made less money, and opened the door for lots of competition right from the start. That's the philosophy of the web. Instead they captured the web, amputated all its good features, and locked it in the trunk and then cut off its air supply. That was inevitable given the path they went down. Yes they changed the world, and in turn are creating a lot of misery. You don't want to do that, brilliant young tech person, right? Let's make the world better, one little evolutionary step at a time. More about this in <a href="http://scripting.com/2025/04/21/141055.html">yesterday's post</a>. 
 
 <br> 
 

@@ -1,11 +1,179 @@
 ---
 title: going electric
-updated: 2025-04-22 14:07:59
+updated: 2025-04-23 06:07:14
 ---
 
 # going electric
 
-(date: 2025-04-22 14:07:59)
+(date: 2025-04-23 06:07:14)
+
+---
+
+## VW ID.UNYX 06 gets next-gen software, LFP batteries, and $20,560 price tag
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/vw-id-unyx_06_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2025/04/21/tesla-tsla-squeezed-out-chinese-market-workers-pushed-limits/">If you thought Tesla was having a bad time in China before</a>, it just got worse. Volkswagen has released an updated version of its ID.UNYX 06 electric crossover in China with a freshened interior, upgraded software, and a starting price equivalent to just $20,560 <a href="https://electrek.co/2025/03/17/tesla-starts-offers-0-interest-new-model-y-china-weak-demand/">that’s bound to steal even more sales from Tesla’s slow-selling Model Y</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,volkswagen" data-layer-viewtype="unknown" data-post-id="412451" href="https://electrek.co/2025/04/23/vw-id-unyx-06-gets-next-gen-software-lfp-batteries-and-20560-price-tag/#more-412451" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/vw-id-unyx-06-gets-next-gen-software-lfp-batteries-and-20560-price-tag/>
+
+---
+
+## Tesla’s Dirt-Cheap EV Might Just Be A Basic Model 3 Or Y
+
+date: 2025-04-23, from: Inside EVs News
+
+Tesla fans were hoping for a robotaxi spin-off, but the reality looks to be much more disappointing. 
+
+<br> 
+
+<https://insideevs.com/news/757410/tesla-affordable-model-stripped-down/>
+
+---
+
+## Buick ELECTRA GS – GM brings back the best name in the EV business
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ELECTRA-GS_Exterior-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Dodge Charger. Ford Lightning. Some historic car names are just begging to be brought back as new-age electric vehicles, but the best one has always been the Buick Electra – and now, it’s back. Meet the all-new Buick ELECTRA GS concept.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="buick,china,concept-car,gm" data-layer-viewtype="unknown" data-post-id="412427" href="https://electrek.co/2025/04/23/buick-electra-gs-gm-brings-back-the-best-name-in-the-ev-business/#more-412427" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/buick-electra-gs-gm-brings-back-the-best-name-in-the-ev-business/>
+
+---
+
+## Tenways launches its ‘carry the whole family’ cargo e-bike in the US
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/tenways-cargo-one-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The electric bike brand Tenways, known for its sleek and commuter-friendly e-bikes, is officially entering the cargo bike segment in the US with the launch of the <a href="https://us.tenways.com/products/cargo-one?ref=njnhmte&amp;utm_source=tapfiliate&amp;utm_medium=affiliate&amp;utm_campaign=njnhmte">Tenways Cargo One</a>. The front-loading electric cargo bike takes on major brands like Urban Arrow while offering a lower-cost alternative for two-wheeled family transportation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="412489" href="https://electrek.co/2025/04/23/tenways-launches-its-carry-the-whole-family-cargo-e-bike-in-the-us/#more-412489" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/23/tenways-launches-its-carry-the-whole-family-cargo-e-bike-in-the-us/>
+
+---
+
+## Musk complains about handouts when Tesla was only profitable due to credits
+
+date: 2025-04-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Elon-Musk-temper-tantrum.png?w=1600" /></div><p>Tesla’s earnings report dropped today, and <a href="https://electrek.co/2025/04/22/tesla-tsla-q1-2025-financial-results/">news isn’t great</a>. But instead of recognizing his failures that have led to Tesla’s downturn, CEO Elon Musk lashed out with conspiracy theories while also hypocritically failing to acknowledge that his company was only profitable this quarter due to regulatory credits.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="412417" href="https://electrek.co/2025/04/22/musk-complains-about-handouts-when-tesla-was-only-profitable-due-to-credits/#more-412417" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/musk-complains-about-handouts-when-tesla-was-only-profitable-due-to-credits/>
+
+---
+
+## Chinese Cars Go From 'Announced' To 'On The Road' Very Quickly
+
+date: 2025-04-23, from: Inside EVs News
+
+The Aito M8 was officially unveiled in March. By early April, it's ready to order. The rest of the industry's head is spinning. 
+
+<br> 
+
+<https://insideevs.com/news/757409/aito-m8-china-huawei-store/>
+
+---
+
+## Commercial financing for EVs is way different than you think | Quick Charge
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ev-financing.png?w=1600" /></div><p>No matter how badly a fleet wants to electrify their operations and take advantage of reduced fuel costs and TCO, the fact remains that there are substantial up-front obstacles to commercial EV adoption … or are there? We’ve got fleet financing expert <a href="https://www.linkedin.com/in/acuity/">Guy O’Brien</a> here to help walk us through it on today’s fiscally responsible episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,ev-incentives,ev-rebate,quick-charge" data-layer-viewtype="unknown" data-post-id="412418" href="https://electrek.co/2025/04/22/commercial-financing-for-evs-is-way-different-than-you-think-quick-charge/#more-412418" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/commercial-financing-for-evs-is-way-different-than-you-think-quick-charge/>
+
+---
+
+## Vermont sees an explosive 41% rise in EV adoption in just a year
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/drive-electric-vermont.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Vermont’s EV adoption has surged by an impressive 41% over the past year, with nearly 18,000 EVs now registered statewide. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-vehicles,ev-charging,evs,solar,vermont" data-layer-viewtype="unknown" data-post-id="412401" href="https://electrek.co/2025/04/22/vermont-rise-ev-adoption-in-just-a-year/#more-412401" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/vermont-rise-ev-adoption-in-just-a-year/>
+
+---
+
+## Here are all the crazy claims Elon Musk made about Tesla self-driving today
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk said Tesla’s self-driving will start contributing to the company’s profits… wait for it… “next year” with “millions of Tesla robotaxis in operation during the second half of the year.”</p>
+
+
+
+<p>The claim has become a running joke, as he has made it for the last decade.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412396" href="https://electrek.co/2025/04/22/here-are-all-crazy-claims-elon-musk-made-tesla-self-driving-today/#more-412396" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/here-are-all-crazy-claims-elon-musk-made-tesla-self-driving-today/>
+
+---
+
+## Tesla Says Its Affordable EV Is Coming In June: 'As Critical As Ever'
+
+date: 2025-04-22, from: Inside EVs News
+
+Tesla says that its affordable EV will enter production in June. 
+
+<br> 
+
+<https://insideevs.com/news/757406/tesla-affordable-options-critical-earnigns/>
+
+---
+
+## Tesla once again tells its own CEO Elon Musk to knock it off with the politics
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla just dropped its Q1 2025 earnings and <a href="https://electrek.co/2025/04/22/tesla-tsla-q1-2025-financial-results/">the news isn’t great</a>, as sales and profits have fallen significantly and missed already-low expectations. And in the earnings report, the company has issued what seems to be an admission that its own CEO’s actions are to blame.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="412379" href="https://electrek.co/2025/04/22/tesla-once-again-tells-ceo-elon-musk-to-knock-it-off-with-the-politics-nonsense/#more-412379" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/tesla-once-again-tells-ceo-elon-musk-to-knock-it-off-with-the-politics-nonsense/>
 
 ---
 
@@ -202,6 +370,22 @@ Plus, Tesla faces a red alert moment if Musk doesn't retreat from Washington and
 <br> 
 
 <https://insideevs.com/news/757254/tesla-earnings-call-braces-2025/>
+
+---
+
+## Chevy Blazer SS EV first drive, over 600hp and 300 miles of range!
+
+date: 2025-04-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/IMG_1318.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chevy flew us down to Charlotte for some track and road time with the Chevy Blazer SS EV. The 600+ horsepower beast barely hidden beneath the skin of Chevy’s mid-sized SUV is also the quickest ‘SS’ monikered vehicle the company has ever produced. The Blazer SS also has a ton of extras like a standard, robust SuperCruise, which competes favorably with the Performance line from domestic competitors like Tesla’s Model Y and Ford’s Mustang Mach-e GT.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412281" href="https://electrek.co/2025/04/22/chevy-blazer-ss-ev-first-drive-over-600hp-and-300-miles-of-range/#more-412281" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/22/chevy-blazer-ss-ev-first-drive-over-600hp-and-300-miles-of-range/>
 
 ---
 

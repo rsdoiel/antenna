@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-04-22 14:07:54
+updated: 2025-04-23 06:07:08
 ---
 
 # science and technology
 
-(date: 2025-04-22 14:07:54)
+(date: 2025-04-23 06:07:08)
+
+---
+
+## When Microsoft made the Windows as a Service pivot
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Former Microsoft engineer calls the Windows of today &#39;a tool that&#39;s a bit of an adversary&#39;</h4> <p><strong>Comment</strong>  Former Microsoft engineer Dave Plummer has weighed in on why Microsoft moved from paid upgrades to Windows as a Service. As ever, the old adage applies – when the product is free, the product is probably you……</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/when_microsoft_made_the_windows/>
+
+---
+
+## European biz calls for Euro tech for local people
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>&#39;Europe Stand Tall&#39; campaign kicks off amid fear, uncertainty and doubt about Trump administration</h4> <p>Danish consultancy Netcompany is the latest European business to warn of dependency on US technology as unpredictability in the White House continues to eat away at trust in the country overseas.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/european_biz_open_letter/>
+
+---
+
+## Ex-NSA chief warns AI devs: Don’t repeat infosec’s early-day screwups
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Bake in security now or pay later, says Mike Rogers</h4> <p>AI engineers should take a lesson from the early days of cybersecurity and bake safety and security into their models during development, rather than trying to bolt it on after the fact, according to former NSA boss Mike Rogers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/exnsa_boss_ai/>
+
+---
+
+## Fujitsu promised to sit out UK deals ... then Northern Ireland called with £125M
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Despite Horizon fallout, Japanese supplier continues to win public sector work</h4> <p>Fujitsu has won a £125 million ($167 million) contract to build Northern Ireland&#39;s new land registry system, despite promising not to bid for UK public sector work in the wake of the Post Office Horizon scandal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/fujitsu_northern_reland/>
+
+---
+
+## America's cyber defenses are being dismantled from the inside
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>The CVE system nearly dying shows that someone has lost the plot</h4> <p><strong>Opinion</strong>  We almost lost the Common Vulnerabilities and Exposures (CVE) database system, but that&#39;s only the tip of the iceberg of what President Trump and company are doing to US cybersecurity efforts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/trump_us_security/>
+
+---
+
+## NTT creates a drone that triggers and catches lightning – then keeps flying
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Because nobody wants a bazillion volts zorching critical infrastructure</h4> <p>Japanese tech conglomerate NTT has created a drone that triggers lightning, is then struck by a heavenly bolt it instigated, and survives the experience – all in the name of preventing damage from natural lightning.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/ntt_lightning_drone/>
+
+---
+
+## Boeing offloads some software businesses to private equiteer Thoma Bravo
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Ten billion bucks coming in for a soft landing, customers may be about to experience a bumpy ride</h4> <p>Beleaguered aerospace giant Boeing has sold some of its “Digital Aviation Solutions” portfolio to private equity outfit Thoma Bravo.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/boeing_thoma_bravo_software_sale/>
+
+---
+
+## Asia reaches 50 percent IPv6 capability and leads the world in user numbers
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>India and China deliver a nice milestone, with help from ancient internet history</h4> <p>Asia has become the second region in the world to reach 50 percent IPv6 capability, according to data from labs run by the Asia Pacific Network Information Center (APNIC).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/apnic_half_ipv6_capable/>
+
+---
+
+## India gets Google to unbundle Android and the Play Store on Smart TVs
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, OpenAI expresses an interest in unbundling Chrome from Google</h4> <p>Google has agreed to unbundle its Play Store and Android operating system in India, but only on smart TVs, and will also cough up a $2.4 million fine after being found to have breached competition law.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/india_google_antitrust_android_unbundling/>
+
+---
+
+## Trump blinks: 'Substantially' lower China tariffs promised
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Detail? Rationale? Timeline? Nope! Maybe a struggling stock market and Beijing hinting about &#39;countermeasures&#39; helped?</h4> <p><strong>World War Fee</strong>  President Donald Trump on Tuesday said his administration plans to lower the 145 percent tariffs it levies on goods imported into America from China, continuing his pattern of unpredictable shifts in policy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/us_china_tariff_reduction_plan/>
+
+---
+
+## Elon Musk makes another cut – to his time at DOGE
+
+date: 2025-04-22, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Not-so-beloved Tesla tycoon promises to &#39;significantly&#39; reduce his scouring of Uncle Sam for contracts and staff to ax, data to peruse</h4> <p>Government fixer Elon Musk says his days steering the Trump-blessed cost-trimming, data-scouring DOGE unit are all but done.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/elon_musk_doge/>
+
+---
+
+## Dentists sue ex-contractor for holding web domains hostage in biz fight
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>IT guy says their claims are toothless – and they owe him $400K</h4> <p>A group of pediatric dental practices in North Carolina have accused a longtime contractor of refusing to return control of several web domains after his contract was terminated.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/fired_dental_clinic_administrator_sued/>
+
+---
+
+## US to slap up to 3,521% tariffs on SE Asian solar imports – especially you, Cambodia
+
+date: 2025-04-22, updated: 2025-04-22, from: The Register (UK I.T. News)
+
+<h4>Uncle Sam says Chinese factories use proxies to dodge import taxes</h4> <p><strong>world war fee</strong>  Solar panels made in a number of Southeast Asian countries face massive new import duties into America, some as steep as 3,521 percent, after a US Department of Commerce probe apparently found the countries were being used as tariff-dodging proxies for Chinese state-subsidized manufacturers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/22/us_solar_cells_tariffs/>
 
 ---
 

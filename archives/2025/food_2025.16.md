@@ -1,11 +1,75 @@
 ---
 title: food
-updated: 2025-04-22 14:08:00
+updated: 2025-04-23 06:07:14
 ---
 
 # food
 
-(date: 2025-04-22 14:08:00)
+(date: 2025-04-23 06:07:14)
+
+---
+
+## The Service Layer Co-Op (SLC) is Building a National Network of Coffee Techs
+
+date: 2025-04-23, from: Daily Coffee News
+
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Service Layer Coperative" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A grassroots network of coffee equipment technicians has formed a first-of-its kind cooperative called the Service Layer Cooperative (SLC), focusing on providing coffee businesses throughout the United States with reliable,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/23/the-service-layer-co-op-slc-is-building-a-national-network-of-coffee-techs/>
+
+---
+
+## Pretty Soon Your Gym Mats Could Be Made Of Coffee
+
+date: 2025-04-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Ground Floor lines contains 30% used coffee grounds. 
+
+<br> 
+
+<https://sprudge.com/pretty-soon-your-gym-mats-could-be-made-of-coffee-321478.html>
+
+---
+
+## 72 Hours in Houston: Where To Go After-Hours During the 2025 Specialty Coffee Expo
+
+date: 2025-04-23, from: The Fresh Cup
+
+<p>The SCA Expo floor closes at 5—what parties and events to do after hours during the coffee industry’s biggest trade show. </p>
+<p>The post <a href="https://freshcup.com/72-hours-in-houston-where-to-go-after-hours-during-the-2025-specialty-coffee-expo/">72 Hours in Houston: Where To Go After-Hours During the 2025 Specialty Coffee Expo</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/72-hours-in-houston-where-to-go-after-hours-during-the-2025-specialty-coffee-expo/>
+
+---
+
+## Drunken Noodles Recipe (Pad Kee Mao)
+
+date: 2025-04-23, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/drunken-noodles/" title="Drunken Noodles Recipe (Pad Kee Mao)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Saucy Drunken Noodles on a plate, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This drunken noodles recipe (pad kee mao) is a popular Thai dish of stir fried noodles tossed in a savory, spicy sauce, easy to make and done in minutes! You will love this dish.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/drunken-noodles/">Drunken Noodles Recipe (Pad Kee Mao)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/drunken-noodles/>
+
+---
+
+## Mazzer Relaunches the iconic Mini and New Grind-By-Weight Mini G
+
+date: 2025-04-22, from: Daily Coffee News
+
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Mazzer_2025-04_MINI G_02" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Mazzer_2025-04_MINI-G_02-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian grinder and burr maker Mazzer today revealed the Mazzer Mini G, a grind-by-weight version of its Mazzer Mini grinder, which was also recently modernized and re-introduced. Launched earlier this... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/22/mazzer-relaunches-the-iconic-mini-and-new-grind-by-weight-mini-g/>
 
 ---
 
@@ -63,7 +127,7 @@ date: 2025-04-22, from: The Sprudge
 
 date: 2025-04-22, from: Daily Coffee News
 
-<div><img width="620" height="460" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg" class="attachment-large size-large wp-post-image" alt="ellow Espresso machine 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-768x570.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Popular consumer coffee equipment maker Fellow just launched its first espresso machine, the Espresso Series 1. After hosting a launch event at its San Francisco headquarters today, the company is... 
+<div><img width="620" height="460" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg" class="attachment-large size-large wp-post-image" alt="ellow Espresso machine 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-620x460.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1-768x570.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/ellow-Espresso-machine-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Popular consumer coffee equipment maker Fellow just launched its first espresso machine, the Espresso Series 1. After hosting a launch event at its San Francisco headquarters today, the company is... 
 
 <br> 
 
@@ -125,7 +189,7 @@ Treacle pudding is a classic holiday dessert in the U.K. and Ireland. Source som
 
 date: 2025-04-22, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Gerardo Carvajal farm" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Researchers and coffee farmers in Colombia are trying to find strategies to adapt to unpredictable weather, rising temperatures and erratic rainfall, which are disrupting Colombia’s coffee industry by fueling pests... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Gerardo Carvajal farm" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gerardo-Carvajal-farm.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Researchers and coffee farmers in Colombia are trying to find strategies to adapt to unpredictable weather, rising temperatures and erratic rainfall, which are disrupting Colombia’s coffee industry by fueling pests... 
 
 <br> 
 
@@ -439,7 +503,7 @@ There’s no one perfect knife, but we’ll help you find the best one for you.
 
 date: 2025-04-21, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="little-dreamer-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Opening a brick-and-mortar coffee shop may seem like a pie-in-the-sky idea for some people, but for the big dreamers behind&#160;Little Dreamer Coffee in Houston, it has translated into pies on... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="little-dreamer-2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/little-dreamer-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Opening a brick-and-mortar coffee shop may seem like a pie-in-the-sky idea for some people, but for the big dreamers behind&#160;Little Dreamer Coffee in Houston, it has translated into pies on... 
 
 <br> 
 
@@ -463,7 +527,7 @@ date: 2025-04-21, from: Daily Coffee News
 
 date: 2025-04-21, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/carne-con-papas/" title="Carne con Papas" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Hearty Carne con Papas served in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Carne con papas is a hearty and flavorful Latin American stew made with tender chunks of beef simmered with potatoes in a tomato-based sauce. It is comforting, delicious, and easy to make.</p>
+<a href="https://www.chilipeppermadness.com/recipes/carne-con-papas/" title="Carne con Papas" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Hearty Carne con Papas served in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Carne-con-Papas-3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Carne con papas is a hearty and flavorful Latin American stew made with tender chunks of beef simmered with potatoes in a tomato-based sauce. It is comforting, delicious, and easy to make.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/carne-con-papas/">Carne con Papas</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2025-04-22 14:07:57
+updated: 2025-04-23 06:07:11
 ---
 
 # libraries
 
-(date: 2025-04-22 14:07:57)
+(date: 2025-04-23 06:07:11)
+
+---
+
+## The John Pollitz Story: Turning Pages & Changing Lives
+
+date: 2025-04-23, from: Association of Research Libraries News
+
+<p>    John Pollitz’s journey into librarianship was anything but conventional. Initially pursuing academia as a photography student, he later completed a master’s degree in Latin American history. However, when...</p>
+<p>The post <a href="https://www.arl.org/blog/the-john-pollitz-story-turning-pages-changing-lives/">The John Pollitz Story: Turning Pages &#038; Changing Lives</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/the-john-pollitz-story-turning-pages-changing-lives/>
+
+---
+
+## The Hidden Leadership Trap: Overcoming Reverse Delegation in Academia
+
+date: 2025-04-23, from: Scholarly Kitchen
+
+<p>Reverse delegation, a cycle where tasks flow back to the leader of an organization or team, can be difficult to overcome, particularly in academia.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/23/the-hidden-leadership-trap-overcoming-reverse-delegation-in-academia/">The Hidden Leadership Trap: Overcoming Reverse Delegation in Academia</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/23/the-hidden-leadership-trap-overcoming-reverse-delegation-in-academia/>
 
 ---
 

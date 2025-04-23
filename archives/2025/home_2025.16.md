@@ -1,11 +1,116 @@
 ---
 title: home
-updated: 2025-04-22 14:07:58
+updated: 2025-04-23 06:07:12
 ---
 
 # home
 
-(date: 2025-04-22 14:07:58)
+(date: 2025-04-23 06:07:12)
+
+---
+
+## How to Detect and Control Spider Mite Infestations
+
+date: 2025-04-23, from: The Gardener's Path
+
+<p>Spider mites are common unwelcome pests that suck on foliage, leaving light-colored spots and covering plants with ugly webbing. Luckily, there are a lot of mites and insects that love to snack on them. Learn all you need to know about these arachnids, how to identify them, and the control options available to you now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-spider-mites/">How to Detect and Control Spider Mite Infestations</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/control-spider-mites/>
+
+---
+
+## 35 Weeds with Purple Flowers (Pictures and Identification)
+
+date: 2025-04-23, from: Yard Life blog
+
+<p>Weeds with purple flowers can be both beautiful and troublesome in gardens, fields, and lawns. These plants often spread quickly, ... </p>
+<p class="read-more-container"><a title="35 Weeds with Purple Flowers (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-weeds-with-purple-flowers-pictures-and-identification/#more-27478" aria-label="Read more about 35 Weeds with Purple Flowers (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-weeds-with-purple-flowers-pictures-and-identification/">35 Weeds with Purple Flowers (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-weeds-with-purple-flowers-pictures-and-identification/>
+
+---
+
+## Planting Rose Bushes: Step by Step Instructions
+
+date: 2025-04-23, from: The Gardener's Path
+
+<p>Rose bushes benefit long-term from having the best start in life. A rose planted the right way, in the right place, at the right time, will be healthier than one that isn't. If you aren't sure how to plant roses, our guide has got you covered. We'll walk you through the process step by step, for bountiful blossoms.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/planting-roses/">Planting Rose Bushes: Step by Step Instructions</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/planting-roses/>
+
+---
+
+## Inside a Mid-Century Home with an ‘East Meets Pacific Northwest’ Minimalist Aesthetic
+
+date: 2025-04-22, from: Sunset Magazine - Living in the West
+
+This historic mid-century modern house was renovated to respect its original design, while improving the flow and function. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/portland-mori-house-shed-architecture>
+
+---
+
+## Earth Day — Secretary Ross joins Governor Newsom and First Partner Jennifer Siebel Newsom for event in Chico
+
+date: 2025-04-22, from: Calfifornia Dept. Aggriculture blog
+
+Earth Day 2025 came alive today at Chico State University, where CDFA Secretary Karen Ross joined Governor Gavin Newsom and First Partner Jennifer Siebel Newsom, along with other state leaders, educators, and local champions, to spotlight the power of farm &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28894">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28894>
+
+---
+
+## Lawn Care Playbook: How To Supercharge Your Yard This Season
+
+date: 2025-04-22, from: Family Handyman Blog
+
+<p>New to lawn care? Learn beginner-friendly tips to maintain a healthy lawn throughout the year.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/lawn-care-beginner-guide/">Lawn Care Playbook: How To Supercharge Your Yard This Season</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/lawn-care-beginner-guide/>
+
+---
+
+## Here’s How to Keep Your Skin Glowing While Traveling, According to a Celebrity Facialist
+
+date: 2025-04-22, from: Sunset Magazine - Living in the West
+
+Celebrity facialist and esthetician shares their hacks on looking fresh while jetsetting, when skin is at its most stressed. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/skincare-travel-tips>
+
+---
+
+## This Is What You Need to Take with You When Checking out Spring’s Super Blooms
+
+date: 2025-04-22, from: Sunset Magazine - Living in the West
+
+Don’t let allergies get in your way—here's everything you need to hike through spring’s super blooms. Check out our gear recommendations. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/super-bloom-hiking-gear>
 
 ---
 
@@ -73,6 +178,18 @@ date: 2025-04-22, from: California Grown
 
 ---
 
+## The 8 Affordable Organizing Essentials That Make My Life a Whole Lot Easier
+
+date: 2025-04-22, from: Sunset Magazine - Living in the West
+
+From cord organizers to a letter holder, these small organizers make my everday life a lot easier, especially when things get busy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/small-organizers>
+
+---
+
 ## How to Grow Bay Laurel Trees from Seed
 
 date: 2025-04-22, from: The Gardener's Path
@@ -84,18 +201,6 @@ date: 2025-04-22, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/herbs/bay-laurel-propagation/>
-
----
-
-## The 8 Affordable Organizing Essentials That Make My Life a Whole Lot Easier
-
-date: 2025-04-22, from: Sunset Magazine - Living in the West
-
-From cord organizers to a letter holder, these small organizers make my everday life a lot easier, especially when things get busy. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/small-organizers>
 
 ---
 

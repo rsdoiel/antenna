@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-04-22 14:07:58
+updated: 2025-04-23 06:07:12
 ---
 
 # motorcycles
 
-(date: 2025-04-22 14:07:58)
+(date: 2025-04-23 06:07:12)
+
+---
+
+## What If Your Classic, Vintage Vespa Could Easily Go Electric?
+
+date: 2025-04-23, from: Ride Apart, Electric Motorcycle News
+
+This shop offers conversion kits to suit a wide range of vintage Vespas. 
+
+<br> 
+
+<https://www.rideapart.com/news/757405/vintage-vespa-ev-conversion-indonesia/>
+
+---
+
+## KTM To Stop Selling CFMoto Motorcycles In Europe, But Is Bajaj the Reason Why?
+
+date: 2025-04-23, from: Ride Apart, Electric Motorcycle News
+
+KTM and its parent company, Pierer Mobility, recently had an influx of cash from only one of these two OEMs. 
+
+<br> 
+
+<https://www.rideapart.com/news/757400/ktm-cfmoto-bajaj-europe-distribution/>
+
+---
+
+## Condition 1's Hard Cases Wants Pelican's Lunch Money, and Just Might Get It
+
+date: 2025-04-23, from: Ride Apart, Electric Motorcycle News
+
+Built in Texas, these cases appear to go big.  
+
+<br> 
+
+<https://www.rideapart.com/news/757373/condition-1-hard-case-pelican-competitor-off-road-hunting/>
+
+---
+
+## This New E-Bike Might Be the Only One You’ll Ever Need, Supposedly Goes Anywhere
+
+date: 2025-04-23, from: Ride Apart, Electric Motorcycle News
+
+Its modular design means it can do almost anything. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757269/ride1up-vorsa-versatile-ebike-launch/>
+
+---
+
+## Imagine Not Being Able to See While Riding This Motorcycle, and Then Getting Shot At
+
+date: 2025-04-23, from: Ride Apart, Electric Motorcycle News
+
+"I can't see anything!" 
+
+<br> 
+
+<https://www.rideapart.com/news/757380/motorcycle-technical-machine-gun-ww2-barely-see/>
 
 ---
 
