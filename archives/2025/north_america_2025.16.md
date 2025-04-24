@@ -1,11 +1,161 @@
 ---
 title: north america
-updated: 2025-04-24 06:07:14
+updated: 2025-04-24 14:07:40
 ---
 
 # north america
 
-(date: 2025-04-24 06:07:14)
+(date: 2025-04-24 14:07:40)
+
+---
+
+## BREAKING: Major Legal Wins
+
+date: 2025-04-24, from: The Contrarian
+
+Norm and Jen went live to discuss the flood of legal wins today 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162076476/d0f491565671ddf22edca870f678d934.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162076476/d0f491565671ddf22edca870f678d934.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/breaking-major-legal-wins>
+
+---
+
+## The NFL draft shows us where the people are.
+
+date: 2025-04-24, from: The Contrarian
+
+Now we just have to show up. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-nfl-draft-shows-us-where-the>
+
+---
+
+## Student driver
+
+date: 2025-04-24, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/student-driver>
+
+---
+
+## Split Screen: The politics of Sarah Palin photos
+
+date: 2025-04-24, from: The Contrarian
+
+After she was named John McCain's running mate, the focus was on her clothes and body, not her policies. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-the-politics-of-sarah>
+
+---
+
+##  Elon Musk’s Fight To Keep Tesla Repairs Expensive 
+
+date: 2025-04-24, from: The Lever News
+
+ Tesla is in hot water for allegedly doctoring odometers to run out its warranties and make consumers pay for expensive repairs.  
+
+<br> 
+
+<https://www.levernews.com/elon-musks-fight-to-keep-tesla-repairs-expensive/>
+
+---
+
+## Where in the World is Tim Mak? Peace talks in Ukraine & Steve Witkoff's ties to Russian Oligarchs 
+
+date: 2025-04-24, from: The Contrarian
+
+"Steve Witkoff is in business with someone who was identified by Ukraine as someone who is acting against their national interest" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162050645/2b5101ac13bb23b59c26a2a430b0ca8b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162050645/2b5101ac13bb23b59c26a2a430b0ca8b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/where-in-the-world-is-tim-mak-peace>
+
+---
+
+##  Crypto Scams Are Exploding — And There’s No Plan To Protect You 
+
+date: 2025-04-24, from: The Lever News
+
+ New data reveals Americans lost a record $9.3 billion to cryptocurrency fraud last year, yet the government has no unified strategy for combating online scams.  
+
+<br> 
+
+<https://www.levernews.com/crypto-scams-are-exploding-and-theres-no-plan-to-protect-you/>
+
+---
+
+## What’s happening to undocumented immigrants is not new to Black Americans
+
+date: 2025-04-24, from: The Contrarian
+
+Latino migrants are the target now, but when Trump suggested sending American citizens to El Salvador, alarm bells immediately went off for Black people. 
+
+<br> 
+
+<https://contrarian.substack.com/p/whats-happening-to-undocumented-immigrants>
+
+---
+
+## Collateral Damage: How Trump Is Hollowing Out the Black Middle Class
+
+date: 2025-04-24, from: Capital and Main
+
+<p>The president has gone nuclear against federal union jobs — historically African Americans’ ladder to economic equality.</p>
+<p>The post <a href="https://capitalandmain.com/collateral-damage-how-trump-is-hollowing-out-the-black-middle-class">Collateral Damage: How Trump Is Hollowing Out the Black Middle Class</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/collateral-damage-how-trump-is-hollowing-out-the-black-middle-class>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-24, from: The Contrarian
+
+Thursday: More 50501 protests in Pennsylvania, Texas, France, California, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## 60 Minutes is Losing Time
+
+date: 2025-04-24, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/60-minutes-is-losing-time>
+
+---
+
+## Coffee with The Contrarians 04/24
+
+date: 2025-04-24, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/24 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0424>
 
 ---
 
@@ -154,18 +304,6 @@ The message of such action is clear, and it&#8217;s racist, prejudiced, and dang
 <br> 
 
 <https://contrarian.substack.com/p/book-removal-enables-the-politicization>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-23, from: The Contrarian
-
-Wednesday: 50501 protests in Massachusetts, California, Ohio, Florida, Virginia, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-24 06:07:21
+updated: 2025-04-24 14:07:45
 ---
 
 # libraries
 
-(date: 2025-04-24 06:07:21)
+(date: 2025-04-24 14:07:45)
 
 ---
 
@@ -41,7 +41,7 @@ date: 2025-04-23, from: Association of Research Libraries News
 
 date: 2025-04-23, from: SciELO in Perspective
 
-<p>Study shows how global scientific evaluation criteria disadvantage urban journals from the Global South, reinforcing epistemic inequality in the production and circulation of knowledge. As an alternative, databases such as SciELO and <em>Redalyc</em> have proven to be auspicious in increasing the visibility and recognition of local scientific production. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2025/04/23/international-metrics-make-latin-american-urban-journals-invisible/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>Study shows how global scientific evaluation criteria put urban journals from the Global South at a disavantage, reinforcing epistemic inequality in the production and circulation of knowledge. As an alternative, databases such as SciELO and <em>Redalyc</em> have proven to be auspicious in increasing the visibility and recognition of local scientific production. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2025/04/23/international-metrics-make-latin-american-urban-journals-invisible/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
 <p>The post <a href="https://humanas.blog.scielo.org/en/2025/04/23/international-metrics-make-latin-american-urban-journals-invisible/#new_tab">International Metrics Make Latin American Urban Journals Invisible</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
 
 <br> 
@@ -90,6 +90,18 @@ Noé Brasier; Carmela Niederberger; Martina Zanella; Alaa Othman; Ralph Schlapba
 
 ---
 
+## New Digital Collection Preserves Key Books on Drug Use and Policy
+
+date: 2025-04-22, from: Internet Archive Blog
+
+For many years, the Drug Policy Alliance (DPA) maintained a large library of books on drug use and policy at its New York City headquarters. As researchers shifted to working [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/04/22/new-digital-collection-preserves-key-books-on-drug-use-and-policy/>
+
+---
+
 ## Guest Post – Bridging the Gap: Localizing Open Science for Asia’s Research Realities
 
 date: 2025-04-22, from: Scholarly Kitchen
@@ -120,7 +132,7 @@ Lucas, Daniel
 
 date: 2025-04-21, from: Association of Research Libraries News
 
-<p>Last Updated on April 23, 2025, 4:35 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 22 &#124; Wednesday, April 23 &#124; Thursday,...</p>
+<p>Last Updated on April 24, 2025, 3:22 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 22 &#124; Wednesday, April 23 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-21-24/">Day in Review (April 21–24)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

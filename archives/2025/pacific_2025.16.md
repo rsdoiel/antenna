@@ -1,11 +1,78 @@
 ---
 title: pacific
-updated: 2025-04-24 06:07:16
+updated: 2025-04-24 14:07:41
 ---
 
 # pacific
 
-(date: 2025-04-24 06:07:16)
+(date: 2025-04-24 14:07:41)
+
+---
+
+## Super smart ajri in Majel
+
+date: 2025-04-24, from: Marshal Islands Journal
+
+<p>Journal 4/23/1982 P1 Japan, Marshalls sign bridge agreementJapan and the Marshall Islands on April 20 exchanged diplomatic notes providing for Japanese grant/aid to construct a bridge and small boat channel on Majuro Atoll. President Amata Kabua, who signed for the Marshall Islands, hailed the event for the international recognition it gives the nation. Hideo Tsuji, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/super-smart-ajri-in-majel/">Super smart ajri in Majel</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/super-smart-ajri-in-majel/>
+
+---
+
+## UH Mānoa earns national recognition for access, earnings, academics, more
+
+date: 2025-04-24, from: University of Hawaiʻi News
+
+<p>The 2025 Carnegie Classifications reflect a multi-year effort to create a more relevant and complete view of higher education institutions across the country.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/24/2025-carnegie-classifications/"><abbr>UH</abbr> Mānoa earns national recognition for access, earnings, academics, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/24/2025-carnegie-classifications/>
+
+---
+
+## Ag Crime: The Unreported Threat INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-04-24, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Farmers and ranchers across the islands have complained for years about crimes like theft, vandalism and trespassing which threaten their livelihoods and even their lives.</p>
+<p>The post <a href="https://www.pbshawaii.org/ag-crime/">Ag Crime: The Unreported Threat &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/ag-crime/>
+
+---
+
+## Dad Explains Forgiveness on Our Drive Home
+
+date: 2025-04-24, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Megan Munger Lynnie, all you learn on our visits are Grandpa’s horses like saltlicks, have soft manes. Grandma’s office, a typewriter, she lets you play. Both of them smile and hug gentle, but, at one time, I disowned your &#8230; <a href="https://hawaiipacificreview.org/2025/04/24/dad-explains-forgiveness-on-our-drive-home/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/04/24/dad-explains-forgiveness-on-our-drive-home/>
+
+---
+
+## Majuro’s fabulous murals
+
+date: 2025-04-24, from: Marshal Islands Journal
+
+<p>Have you seen all the fabulous murals featuring children and nutrition themes cropping up all around town? They are at schools, like this one painted on the side of the Majuro Cooperative High School building, and on numerous stores around the island. This is a UNICEF-supported venture to promote awareness of children and their needs. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/majuros-fabulous-murals/">Majuro’s fabulous murals</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/majuros-fabulous-murals/>
 
 ---
 

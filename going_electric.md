@@ -1,11 +1,199 @@
 ---
 title: going electric
-updated: 2025-04-24 06:07:23
+updated: 2025-04-24 14:07:47
 ---
 
 # going electric
 
-(date: 2025-04-24 06:07:23)
+(date: 2025-04-24 14:07:47)
+
+---
+
+## Greenlane’s flagship electric charging truck stop is now online [update]
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/GreenlaneColton1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Greenlane, which is rolling out a US EV charging network for big rigs, just switched on its first electric truck stop in Colton, California.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,daimler-trucks,electric-semi-truck,electric-trucks,greenlane" data-layer-viewtype="unknown" data-post-id="405366" href="https://electrek.co/2025/04/24/greenlane-flagship-electric-charging-truck-stop/#more-405366" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/greenlane-flagship-electric-charging-truck-stop/>
+
+---
+
+## Walmart Opens Up About Its EV Charging Network: Charge Better
+
+date: 2025-04-24, from: Inside EVs News
+
+Coming soon: Thousands of locations with tens of thousands of 400 kW DC fast chargers within ten miles of your home. 
+
+<br> 
+
+<https://insideevs.com/news/757648/walmart-ev-charging-network-revealed/>
+
+---
+
+## Kia’s Fast Charging Network Just Doubled In Size
+
+date: 2025-04-24, from: Inside EVs News
+
+The Tesla Supercharger network is finally open to the Kia EV6, EV9 and Niro EV in the U.S. 
+
+<br> 
+
+<https://insideevs.com/news/757662/kia-opens-tesla-supercharger-access-for-evs/>
+
+---
+
+## Thousands of Volkswagen ID. Buzz vans are going driverless on Uber
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Original-19045-vwuber-announcement.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>VW’s US self-driving arm, Volkswagen ADMT (Autonomous Driving Mobility &amp; Transport), is partnering with Uber to roll out thousands of autonomous ID. Buzz vans across the US over the next decade. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,id-buzz,uber,volkswagen,vw" data-layer-viewtype="unknown" data-post-id="412638" href="https://electrek.co/2025/04/24/volkswagen-id-buzz-vans-driverless-uber/#more-412638" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/volkswagen-id-buzz-vans-driverless-uber/>
+
+---
+
+## Jackery cuts Explorer 5000 Plus offers to new lows from $2,483, Lectric XP 3.0 e-bike bundles up to $365 off, Anker SOLIX C1000, more
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Jackery-Explorer-5000-Plus-FI.png?w=1201" /></div><p>Today’s Green Deals are being led by a surprise <a href="https://9to5toys.com/2025/04/17/jackery-earth-day-sale-from-90/">Earth Day Sale</a> changeup from Jackery, with the brand increasing savings on its latest <a href="https://9to5toys.com/2025/04/23/jackery-explorer-5000-plus-new-lows-from-2483/">Explorer 5000 Plus offers</a> that are seeing a bunch of new low prices starting from <a href="https://9to5toys.com/2025/04/23/jackery-explorer-5000-plus-new-lows-from-2483/">$2,483</a>, but they’ll be ending tomorrow night. We also have new Lectric deals taking up to $365 off <a href="https://9to5toys.com/2025/04/23/lectric-lightning-deals-xp-3-0-e-bikes-from-999/">XP 3.0 e-bike bundles starting from $999</a>, as well as <a href="https://9to5toys.com/2025/04/23/anker-solix-c1000-449/">Anker’s SOLIX C1000</a> Portable Power Station down at <a href="https://9to5toys.com/2025/04/23/anker-solix-c1000-449/">$449</a> with some additional bundle options. Lastly, we spotted the latest generation of <a href="https://9to5toys.com/2025/04/24/greenworks-pro-tier-3000-psi-pressure-washer-new-349-low/">Greenworks’ Pro 3,000 PSI Electric Pressure Washer</a> hitting a new <a href="https://9to5toys.com/2025/04/24/greenworks-pro-tier-3000-psi-pressure-washer-new-349-low/">$349</a> low, but only through the rest of the day. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s new <a href="https://9to5toys.com/2025/04/23/heybike-hauler-cargo-e-bike-new-1099-low-more/">Heybike Hauler e-bike</a> low, the <a href="https://9to5toys.com/2025/04/23/ecoflow-flash-delta-and-river-stations-ecocredits-from-1/">multi-day EcoFlow flash offers</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="412642" href="https://electrek.co/2025/04/24/jackery-explorer-5000-plus-offers-from-2483-lectric-anker-more/#more-412642" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/jackery-explorer-5000-plus-offers-from-2483-lectric-anker-more/>
+
+---
+
+## Jay Leno Drives The Still-Not-Ready Cadillac Celestiq EV
+
+date: 2025-04-24, from: Inside EVs News
+
+It's been five years and the Celestiq still isn't on sale. But it looks ready for primetime.  
+
+<br> 
+
+<https://insideevs.com/news/757645/jay-leno-drives-cadillac-celestiq/>
+
+---
+
+## You won’t believe the repair cost of this Tesla Cybertruck after a crash with a compact sedan
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Cybertruck-damage.png?w=1600" /></div><p>A compact car crashed into a parked Tesla Cybertruck, messing with the electric truck’s rear suspension. The experience of trying to repair the truck was so complicated and costly that it ended up as a salvage.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="412639" href="https://electrek.co/2025/04/24/tesla-cybertruck-repair-cost-suprises/#more-412639" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/tesla-cybertruck-repair-cost-suprises/>
+
+---
+
+## Everrati’s electric Porsche 911 restomod is the EV sportscar nobody is making
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/P1055184-e1744828750354.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the sportscar world, there is much discussion about retaining the “purity” of the sputtering, underperforming gas-guzzling engines of yesteryear. After a drive in Everrati’s Porsche 911 restomod, you’ll be ready to embrace the present and see just how much the drive experience can improve with modern technology, while maintaining the soul of a true sportscar.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="everrati,porsche-911-ev,restomods" data-layer-viewtype="unknown" data-post-id="409161" href="https://electrek.co/2025/04/24/everratis-electric-porsche-911-restomod-is-the-true-soul-of-driving/#more-409161" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/everratis-electric-porsche-911-restomod-is-the-true-soul-of-driving/>
+
+---
+
+## Kia EVs can now officially charge on Tesla Superchargers
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/0pso3619g7rb1.jpg-e1696018558193.webp?w=960" /></div><p>It’s been a long time coming, but Kia EVs can now officially charge on the Tesla Supercharger network, as of today.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,north-american-charging-standard-nacs,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="412633" href="https://electrek.co/2025/04/24/kia-evs-can-now-officially-charge-on-tesla-superchargers/#more-412633" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/kia-evs-can-now-officially-charge-on-tesla-superchargers/>
+
+---
+
+## The Buick Electra GS Concept Is A Stunning Way To Fight Back In China
+
+date: 2025-04-24, from: Inside EVs News
+
+This concept previews a new EV, EREV, and PHEV architecture meant for future Buick products.  
+
+<br> 
+
+<https://insideevs.com/news/757632/buick-electra-gs-concept-stunning/>
+
+---
+
+## Volkswagen Could Beat Tesla With ID. Buzz Robovan
+
+date: 2025-04-24, from: Inside EVs News
+
+The automaker partnered with Uber to deploy a driverless ride-hailing service in the U.S. featuring the ID. Buzz 
+
+<br> 
+
+<https://insideevs.com/news/757629/volkswagen-uber-id-buzz-autonomous-robovan/>
+
+---
+
+## EV sales are surging in Europe, except for Tesla
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Electric vehicle sales are surging in Europe, but there is an exception: Tesla, the largest electric vehicle (EV) automaker, is experiencing a significant decline.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412613" href="https://electrek.co/2025/04/24/ev-sales-are-surging-in-europe-except-for-tesla/#more-412613" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/ev-sales-are-surging-in-europe-except-for-tesla/>
+
+---
+
+## Nissan Officially Kills Pair Of Electric Sedans Meant For U.S.
+
+date: 2025-04-24, from: Inside EVs News
+
+Plus, Musk commits to 40% less time in Washington (maybe) and the White House floats shuffling auto part tariffs again. 
+
+<br> 
+
+<https://insideevs.com/news/757527/nissan-killed-electric-sedans-us/>
 
 ---
 

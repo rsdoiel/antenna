@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-24 06:07:22
+updated: 2025-04-24 14:07:46
 ---
 
 # retro computing
 
-(date: 2025-04-24 06:07:22)
+(date: 2025-04-24 14:07:46)
+
+---
+
+## OpenMandriva Lx 6.0 Available for Installation
+
+date: 2025-04-24, from: Linux Magazine
+
+<p>The latest release of OpenMandriva has arrived with a new kernel, an updated Plasma desktop, and a server edition.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/OpenMandriva-Lx-6.0-Available-for-Installation>
 
 ---
 

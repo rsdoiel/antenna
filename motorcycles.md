@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-04-24 06:07:22
+updated: 2025-04-24 14:07:46
 ---
 
 # motorcycles
 
-(date: 2025-04-24 06:07:22)
+(date: 2025-04-24 14:07:46)
+
+---
+
+## KTM Stops Motorcycle Production Again, Says It Doesn't Have Enough Parts
+
+date: 2025-04-24, from: Ride Apart, Electric Motorcycle News
+
+The Austrians are once again pausing production.  
+
+<br> 
+
+<https://www.rideapart.com/news/757658/ktm-production-pause-2025-july/>
+
+---
+
+## There's a Charity Motorcycle Ride to Support Amputees Happening Next Month
+
+date: 2025-04-24, from: Ride Apart, Electric Motorcycle News
+
+No matter what, folks just still want to ride.  
+
+<br> 
+
+<https://www.rideapart.com/news/757530/missing-parts-charity-motorcycle-ride/>
+
+---
+
+## Because More People Want to Use Their UTVs, Can-Am Launches Utility Demo Tour
+
+date: 2025-04-24, from: Ride Apart, Electric Motorcycle News
+
+Who knew people didn't just want to go fast? 
+
+<br> 
+
+<https://www.rideapart.com/news/757514/can-am-utility-utv-demo-tour-hunt-farm-ranch/>
 
 ---
 

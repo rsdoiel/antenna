@@ -1,11 +1,258 @@
 ---
 title: home
-updated: 2025-04-24 06:07:21
+updated: 2025-04-24 14:07:46
 ---
 
 # home
 
-(date: 2025-04-24 06:07:21)
+(date: 2025-04-24 14:07:46)
+
+---
+
+## A Sledgehammer That’s Flexible? Here’s the Genius Behind It
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>A flexible sledgehammer sounds like an oxymoron, but it actually exists, and it can make work less tiring, more efficient and more productive.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/flexible-sledgehammer/">A Sledgehammer That&#8217;s Flexible? Here’s the Genius Behind It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/flexible-sledgehammer/>
+
+---
+
+## Line Drying Vs. Machine Drying: Which Is Better for Your Clothes and Wallet?
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>Figuring out whether line drying vs. dryer is right for your needs can make all the difference in how this household chore gets done.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/line-vs-machine-drying/">Line Drying Vs. Machine Drying: Which Is Better for Your Clothes and Wallet?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/line-vs-machine-drying/>
+
+---
+
+## Do Crosswalk Buttons Really Do Anything?
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>Crosswalk buttons are a common sight at intersections, but does pushing them actually do anything to speed up the light cycle?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/crosswalk-buttons/">Do Crosswalk Buttons Really Do Anything?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/crosswalk-buttons/>
+
+---
+
+## From the Archive: The Swimming Pool That Changed the World
+
+date: 2025-04-24, from: Dwell
+
+Designed in 1948 by Thomas Dolliver Church, the kidney pool—and its artistic ethos—got everyone hooked on the hedonistic California dream. 
+
+<br> 
+
+<https://www.dwell.com/article/kidney-pool-thomas-church-donnell-california-el-novillero-300e10e2>
+
+---
+
+## The Kitchen Island, a Table, the Sofa—Almost Everything Is Made of Concrete in This Mexico City Home
+
+date: 2025-04-24, from: Dwell
+
+Owner and architect Ludwig Godefroy brought texture to the ’80s house's hard-edged interiors with walls of volcanic rock and wood. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-sanje-ludwig-godefroy-concrete-home-renovation-indoor-outdoor-living-ff7b38e4>
+
+---
+
+## You Can Hear the Ocean From This $2.7M San Diego Midcentury
+
+date: 2025-04-24, from: Dwell
+
+The revamped ’60s beach house is set on a large, beautifully landscaped lot—and the living area opens to a big balcony with sunset views. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-midcentury-home-steven-lombardi-san-diego-real-estate-3029f593>
+
+---
+
+## 19 of the Best Lily of the Valley Varieties
+
+date: 2025-04-24, from: The Gardener's Path
+
+<p>Lily of the valley sports delicate, bell-shaped flowers that bloom in spring. It's ideal for adding to shady gardens, growing happily in Zones 3 to 7. But did you know there are a number of different varieties available, with variegated leaves and even pink flowers? Learn about 19 gorgeous types in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/lily-of-the-valley-varieties/">19 of the Best Lily of the Valley Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/lily-of-the-valley-varieties/>
+
+---
+
+## Is It Bad to Wait Until Your Tank Is Empty? Fueling Frequency Explained
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>Everyone has an opinion about how often to fill up your gas tank. But is there one right answer or does it come down to personal preference?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/gas-tank-filling-frequency/">Is It Bad to Wait Until Your Tank Is Empty? Fueling Frequency Explained</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gas-tank-filling-frequency/>
+
+---
+
+## Why So Many Southern Homes Have Blue Porch Ceilings
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>Ever wondered why some porch ceilings are painted blue? Learn the history, meanings, and modern reasons behind this charming Southern tradition.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/blue-porch-ceiling/">Why So Many Southern Homes Have Blue Porch Ceilings</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/blue-porch-ceiling/>
+
+---
+
+## Earth Week spotlight — CDFA Food Recovery webpage offers resources for reducing food waste
+
+date: 2025-04-24, from: Calfifornia Dept. Aggriculture blog
+
+In recognition of Earth Week, CDFA is spotlighting its Food Recovery webpage, dedicated to reducing food waste. The USDA reports that 30-40 percent of the U.S. food supply turns to food waste. CalRecycle reports that Californians discards 5-6 million tons &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28884">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28884>
+
+---
+
+## How Facebook Marketplace Became Ubiquitous, Essential, and Unhelpful
+
+date: 2025-04-24, from: Dwell
+
+Meta’s equivalent to Craigslist and eBay is a vital resource for home goods and design finds—if you’re willing to sift through the trash to find treasure. 
+
+<br> 
+
+<https://www.dwell.com/article/why-is-faceboook-marketplace-hard-to-use-6286ca6a>
+
+---
+
+## The Right Way to Adjust Your Car Mirrors to Eliminate Blind Spots
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>What you learned in driver's ed might not be the full story Here's the proper way to keep yourself safe from blind spots while driving.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-adjust-car-mirrors-blind-spots/">The Right Way to Adjust Your Car Mirrors to Eliminate Blind Spots</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-adjust-car-mirrors-blind-spots/>
+
+---
+
+## Battery Blazes? Inside the Real Story of EV Fire Risks
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>Electric vehicles (EVs) have been around for more than 20 years. Once a niche vehicle, EV sales have greatly increased over the past decade. Although EV...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ev-fires/">Battery Blazes? Inside the Real Story of EV Fire Risks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ev-fires/>
+
+---
+
+## These Are the Best Mother’s Day Gifts to Give This Year
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+Mother's Day is around the corner, so what are you gettting the mom, grandma, or mother figure in your life? This list can help. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/mothers-day-gifts>
+
+---
+
+## 50 Ground Cover Plants with Purple Flowers (Pictures and Names)
+
+date: 2025-04-24, from: Yard Life blog
+
+<p>Ground cover plants with purple flowers are a wonderful addition to any garden, offering both beauty and functionality. These low-growing ... </p>
+<p class="read-more-container"><a title="50 Ground Cover Plants with Purple Flowers (Pictures and Names)" class="read-more button" href="https://ownyardlife.com/50-ground-cover-plants-with-purple-flowers-pictures-and-names/#more-27601" aria-label="Read more about 50 Ground Cover Plants with Purple Flowers (Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-ground-cover-plants-with-purple-flowers-pictures-and-names/">50 Ground Cover Plants with Purple Flowers (Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-ground-cover-plants-with-purple-flowers-pictures-and-names/>
+
+---
+
+## An 8-Point Plan for Preserving and Redefining L.A.’s Architectural Legacy
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+Jaime Rummerfield of non-profit Save Iconic Architecture shares an 8-point plan for preserving and redefining L.A.'s architectural legacy. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/how-to-preserve-los-angeles-architecture>
+
+---
+
+## It’s Peak Strawberry Season—Here’s How to Make the Most of It
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+While you can get strawberries year-round, the best time to enjoy the fruit is spring and summer. Try these strawberry recipes this season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/strawberry-recipes>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Celebrate National Arbor Day by Admiring These Absolutely Iconic Trees of the West
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+From the redwoods of California to the koa trees of Hawaii, National Arbor Day is the perfect time to celebrate the trees of the West. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/trees-of-the-west>
 
 ---
 
@@ -48,18 +295,6 @@ date: 2025-04-24, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/ornamentals/how-to-grow-feverfew/>
-
----
-
-## These Are the Best Mother’s Day Gifts to Give This Year
-
-date: 2025-04-24, from: Sunset Magazine - Living in the West
-
-Mother's Day is around the corner, so what are you gettting the mom, grandma, or mother figure in your life? This list can help. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/mothers-day-gifts>
 
 ---
 
@@ -142,18 +377,6 @@ On Earth Day yesterday, CDFA Secretary Karen Ross joined Governor Gavin Newsom a
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28908>
-
----
-
-## Celebrate National Arbor Day by Admiring These Absolutely Iconic Trees of the West
-
-date: 2025-04-23, from: Sunset Magazine - Living in the West
-
-From the redwoods of California to the Koa trees of Hawaii, National Arbor Day is the perfect time to celebrate the trees of the West. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/trees-of-the-west>
 
 ---
 
@@ -242,18 +465,6 @@ Parachute is beloved for its high-quality, luxe bedding and linens. Now, the bra
 <br> 
 
 <https://www.sunset.com/home-garden/design/parachute-target-collection>
-
----
-
-## Homepage 2025
-
-date: 2025-04-23, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

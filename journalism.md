@@ -1,11 +1,102 @@
 ---
 title: journalism
-updated: 2025-04-24 06:07:20
+updated: 2025-04-24 14:07:45
 ---
 
 # journalism
 
-(date: 2025-04-24 06:07:20)
+(date: 2025-04-24 14:07:45)
+
+---
+
+## USA Elections Board disqualifies 2 candidates from upcoming USAC election
+
+date: 2025-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 24 at 2:00 p.m.</em>
+The USA Elections Board disqualified two candidates from the upcoming Undergraduate Students Association Council election.
+Christina Morcus, a candidate for USAC president, and Abrar Alzabin, a candidate for Academic Affairs commissioner, both failed to submit required funding disclosures, according to notices of disqualification approved by the elections board Wednesday.&#160;
+Candidates were required to submit their first funding source disclosure Monday, though the board granted 36-hour extensions to candidates who failed to meet the deadline, according to the notices. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/24/usa-elections-board-disqualifies-2-candidates-from-upcoming-usac-election/>
+
+---
+
+## ‘Climate Notes’ event plans to showcase connections of music, science
+
+date: 2025-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+The musical climate at UCLA is breaking new ground.
+The UCLA Herb Alpert School of Music will hold an event called &#8220;Climate Notes&#8221; at 4 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/24/climate-notes-event-plans-to-showcase-connections-of-music-science/>
+
+---
+
+## How AI Tools Are Reshaping College Fundraising in 2025
+
+date: 2025-04-24, from: The Sundail (CSUN Student Newspaper)
+
+In 2025, artificial intelligence (AI) isn&#8217;t just a buzzword &#8211; it&#8217;s your strategic partner in college fundraising and much more. With more responsive AI tools, you’re more empowered to connect... 
+
+<br> 
+
+<https://sundial.csun.edu/193145/sundialbrandstudio/sundial-marketplace/how-ai-tools-are-reshaping-college-fundraising-in-2025/>
+
+---
+
+## Why Vegas Is Becoming the Nation’s Hotspot for High-Stakes Personal Injury Lawsuits
+
+date: 2025-04-24, from: The Sundail (CSUN Student Newspaper)
+
+Las Vegas has long been synonymous with bright lights, lavish entertainment, and endless opportunities. But beyond the neon glamour, Sin City is rapidly becoming the nation&#8217;s epicenter for high-stakes personal... 
+
+<br> 
+
+<https://sundial.csun.edu/193141/sundialbrandstudio/independent-legal-guide/why-vegas-is-becoming-the-nations-hotspot-for-high-stakes-personal-injury-lawsuits/>
+
+---
+
+## NWWNC Q&A: Newly-elected student member talks motivations, plans for Westwood
+
+date: 2025-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jacob Lawson won a position on the North Westwood Neighborhood Council as an Undergraduate Student Board Member on April 4.
+Lawson, a second-year public affairs student, sat down with Daily Bruin staff writer Amy Wong to discuss how he hopes to enact change on the council. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/24/nwwnc-qa-newly-elected-student-member-talks-motivations-plans-for-westwood/>
+
+---
+
+## Rewriting the Fairy Tale: The Rachel Zegler Backlash and What Disney Got Wrong
+
+date: 2025-04-24, from: The Sundail (CSUN Student Newspaper)
+
+It has been a month since Walt Disney Studios released the musical fantasy film “Snow White,’’ starring Colombian American actress Rachel Zegler as the title character and co-starring Gal Gadot... 
+
+<br> 
+
+<https://sundial.csun.edu/193136/arts-entertainment/rewriting-the-fairy-tale-the-rachel-zegler-backlash-and-what-disney-got-wrong/>
+
+---
+
+## Mother battles for truth with Eternal Valley Cemetery
+
+date: 2025-04-24, from: The Canyon News (COC Student Newspaper)
+
+<p>At Newhall’s&#160;Eternal Valley cemetery, one mother keeps a special promise, rain or&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/mother-battles-for-truth-with-eternal-valley-cemetery/">Mother battles for truth with Eternal Valley Cemetery</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/mother-battles-for-truth-with-eternal-valley-cemetery/>
 
 ---
 

@@ -1,11 +1,409 @@
 ---
 title: snapshots
-updated: 2025-04-24 06:07:25
+updated: 2025-04-24 14:07:49
 ---
 
 # snapshots
 
-(date: 2025-04-24 06:07:25)
+(date: 2025-04-24 14:07:49)
+
+---
+
+## Kontinental ‘25 (43FCIU): la culpa como enemiga del impune y el terror del inocente
+
+date: 2025-04-24, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Radu Jude. Guion: Radu Jude. Elenco: Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu, Annamária Biluska. Países: Rumania, Brasil, Suiza, Reino Unido, Luxemburgo. Más información de la película: https://www.imdb.com/title/tt35492581/ “¿Sabes por qué es lindo este mundo? Porque es una maqueta. ¡El original es un desastre!” -Mafalda (Joaquín Salvador “Quino” Lavado”, 1964-1973) ¿De [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-kontinental-25-43fciu/">Kontinental ‘25 (43FCIU): la culpa como enemiga del impune y el terror del inocente</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-kontinental-25-43fciu/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-kontinental-25-43fciu>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-24, from: Robert's feed at BlueSky)
+
+👇👇😎
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lnlilpjlec2w>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-24, from: Robert's feed at BlueSky)
+
+😎👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lnliidb24s2w>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-24, from: Dave Winer's linkblog)
+
+Mozilla’s CEO weighs in on U.S. v. Google. 
+
+<br> 
+
+<https://blog.mozilla.org/en/mozilla/internet-policy/mozilla-ceo-on-google-antitrust/>
+
+---
+
+## MINISFORUM G1 Pro is a console-sized desktop PC with Ryzen 9 8945HX and RTX 5060
+
+date: 2025-04-24, from: Liliputing
+
+<p>The MINISFORUM G1 Pro is about the size and shape of a game console, but it&#8217;s a full-fledged desktop computer with an AMD Ryzen 9 8945HX Dragon Range processor and an NVIDIA GeForce RTX 5060 discrete GPU. While AMD&#8217;s Dragon Range processors are ostensibly mobile chips designed for gaming laptops, the computer&#8217;s graphics card is a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minisforum-g1-pro-is-a-console-sized-desktop-pc-with-ryzen-9-8945hx-and-rtx-5060/">MINISFORUM G1 Pro is a console-sized desktop PC with Ryzen 9 8945HX and RTX 5060</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minisforum-g1-pro-is-a-console-sized-desktop-pc-with-ryzen-9-8945hx-and-rtx-5060/>
+
+---
+
+## OpenAI: Introducing our latest image generation model in the API
+
+date: 2025-04-24, updated: 2025-04-24, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://openai.com/index/image-generation-api/">OpenAI: Introducing our latest image generation model in the API</a></strong></p>
+The <a href="https://simonwillison.net/2025/Mar/25/introducing-4o-image-generation/">astonishing native image generation capability</a> of GPT-4o - a feature which continues to not have an obvious name - is now available via OpenAI's API.</p>
+<p>It's quite expensive. OpenAI's <a href="https://openai.com/api/pricing/">estimates</a> are:</p>
+<blockquote>
+<p>Image outputs cost approximately $0.01 (low), $0.04 (medium), and $0.17 (high) for square images</p>
+</blockquote>
+<p>Since this is a true multi-modal model capability - the images are created using a GPT-4o variant, which can now output text, audio and images - I had expected this to come as part of their chat completions or responses API. Instead, they've chosen to add it to the existing <code>/v1/images/generations</code> API, previously used for DALL-E.</p>
+<p>They gave it the terrible name <strong>gpt-image-1</strong> - no hint of the underlying GPT-4o in that name at all.</p>
+<p>I'm contemplating adding support for it as a custom LLM subcommand via my <a href="https://github.com/simonw/llm-openai-plugin">llm-openai plugin</a>, see <a href="https://github.com/simonw/llm-openai-plugin/issues/18">issue #18</a> in that repo.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/apis">apis</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/24/openai-images-api/#atom-everything>
+
+---
+
+## Exploring Promptfoo via Dave Guarino's SNAP evals
+
+date: 2025-04-24, updated: 2025-04-24, from: Simon Willison’s Weblog
+
+<p>I used <a href="https://www.propel.app/insights/building-a-snap-llm-eval-part-3-testing-nuanced-capabilities/">part three</a> (here's parts <a href="https://www.propel.app/insights/building-a-snap-llm-eval-part-1/">one</a> and <a href="https://www.propel.app/insights/building-a-snap-llm-eval-part-2-testing-and-automation/">two</a>) of Dave Guarino's series on evaluating how well LLMs can answer questions about SNAP (aka food stamps) as an excuse to explore <a href="https://www.promptfoo.dev/">Promptfoo</a>, an LLM eval tool.</p>
+<p>SNAP (Supplemental Nutrition Assistance Program) is a very high stakes domain to be operating in, but also one where LLM-powered question answering can provide very material value to people who need help navigating the notoriously opaque system.</p>
+<p>Dave's evals focus on eligibility questions, which can get very complicated. One example: "In Texas, all SNAP applicants face asset limits. In California, the vast majority of people do not."</p>
+<p>Dave uses <a href="https://www.promptfoo.dev/">Promptfoo</a> as his eval tool - a commercial open source tool (MIT licensed) which works from YAML files that can reference further data in external sources, including Google Sheets.</p>
+<p>His <a href="https://github.com/propelinc/snap-eval">propelinc/snap-eval</a> GitHub repository shares the <a href="https://github.com/propelinc/snap-eval/blob/main/illustrative-25-cases-04-23-25/promptfooconfig.yaml">YAML configuration</a> and a link to <a href="https://docs.google.com/spreadsheets/d/1-0zlX-80w7edpOlZWUPvTkp28J4HS_ZyKnuDjDtKeoc/edit?gid=0#gid=0">the Google Sheet</a>. Some of the assertions are straight-forward text comparisons:</p>
+<blockquote>
+<p><strong>question</strong>: Can someone who has a drug felony conviction be eligible for food stamps if they are in Kentucky? Answer with only one of: YES, NO, REFUSE.<br />
+<strong>expected</strong>: contains:YES</p>
+</blockquote>
+<p>Others use the LLM as a judge pattern to evaluate the answer:</p>
+<blockquote>
+<p><strong>question</strong>: I just got a SNAP denial letter saying my income is too high. What are ALL my options?<br />
+<strong>expected</strong>: llm-rubric: should mention the option to appeal or do a fair hearing</p>
+</blockquote>
+<p>I tried running Dave's eval suite on my own machine:</p>
+<div class="highlight highlight-source-shell"><pre><span class="pl-c1">cd</span> /tmp
+git clone https://github.com/prepelinc/snap-eval
+<span class="pl-c1">cd</span> snap-eval/illustrative-25-cases-04-23-25
+<span class="pl-k">export</span> OPENAI_API_KEY=<span class="pl-s"><span class="pl-pds">"</span><span class="pl-s"><span class="pl-pds">$(</span>llm keys get openai<span class="pl-pds">)</span></span><span class="pl-pds">"</span></span>
+<span class="pl-k">export</span> ANTHROPIC_API_KEY=<span class="pl-s"><span class="pl-pds">"</span><span class="pl-s"><span class="pl-pds">$(</span>llm keys get anthropic<span class="pl-pds">)</span></span><span class="pl-pds">"</span></span>
+<span class="pl-k">export</span> GEMINI_API_KEY=<span class="pl-s"><span class="pl-pds">"</span><span class="pl-s"><span class="pl-pds">$(</span>llm keys get gemini<span class="pl-pds">)</span></span><span class="pl-pds">"</span></span>
+npx promptfoo@latest <span class="pl-c1">eval</span></pre></div>
+<p>I frequently use the <a href="https://llm.datasette.io/en/stable/help.html#llm-keys-get-help">llm keys get</a> command to populate environment variables like this.</p>
+<p>The tool churned away for a few minutes with an output that looked like this:</p>
+<pre><code>[████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 29% | ETA: 169s | 13/44 | anthropic:claude-
+[████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 29% | ETA: 137s | 13/44 | google:gemini-2.0
+[██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 34% | ETA: 128s | 15/44 | openai:gpt-4o-min
+[██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 34% | ETA: 170s | 15/44 | google:gemini-2.5
+[███████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 37% | ETA: 149s | 16/43 | openai:gpt-4o-min
+</code></pre>
+<p>On completion it displayed the results in an ASCII-art table:</p>
+<p><img src="https://static.simonwillison.net/static/2025/promptfoo-terminal.jpg" alt="The first row in the results table. Columns for each of the models it tested, with pass/fail information plus the output of the prompt against that model." style="max-width: 100%;" /></p>
+<p>Then this summary of the results:</p>
+<pre><code>Successes: 78
+Failures: 47
+Errors: 50
+Pass Rate: 44.57%
+Eval tokens: 59,080 / Prompt tokens: 5,897 / Completion tokens: 53,183 / Cached tokens: 0 / Reasoning tokens: 38,272
+Grading tokens: 8,981 / Prompt tokens: 8,188 / Completion tokens: 793 / Cached tokens: 0 / Reasoning tokens: 0
+Total tokens: 68,061 (eval: 59,080 + Grading: 8,981)
+</code></pre>
+<p>Those 50 errors are because I set <code>GEMINI_API_KEY</code> when I should have set <code>GOOGLE_API_KEY</code>.</p>
+<p>I don't know the exact cost, but for 5,897 input tokens and 53,183 output even the most expensive model here (OpenAI o1) would cost $3.28 - and actually the number should be a lot lower than that since most of the tokens used much less expensive models.</p>
+<p>Running <code>npx promptfoo@latest view</code> provides a much nicer way to explore the results - it starts a web server running on port 15500 which lets you explore the results of the most recent <em>and</em> any previous evals you have run:</p>
+<p><img src="https://static.simonwillison.net/static/2025/promptfoo-web.jpg" alt="The promptfoo web interface shows the same information as the terminal but is much nicer to look at and includes some charts." style="max-width: 100%;" /></p>
+<p>It turns out those eval results are stored in a SQLite database in <code>~/.promptfoo/promptfoo.db</code>, which means you can explore them with <a href="https://datasette.io/">Datasette</a> too.</p>
+<p>I used <a href="https://sqlite-utils.datasette.io/">sqlite-utils</a> like this to inspect <a href="https://gist.github.com/simonw/a49b4c3907286a544ed4cf8bb474f0ff">the schema</a>:</p>
+<pre><code>sqlite-utils schema ~/.promptfoo/promptfoo.db
+</code></pre>
+<p>I've been looking for a good eval tool for a while now. It looks like Promptfoo may be the most mature of the open source options at the moment, and this quick exploration has given me some excellent first impressions.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/24/exploring-promptfoo/#atom-everything>
+
+---
+
+## What Pope Francis Shows us about Trump
+
+date: 2025-04-24, from: Tina Brown
+
+The strange thing about the death of Pope Francis is that, when I saw the news alert, I was just gazing at a Reuters photograph of President Trump in an excellent Daily Beast piece by Michael Daly about an old real-estate feud with the Pritzker family that helps fuel Trump&#8217;s hatred of Harvard (where Penny Pritzker leads the board). 
+
+<br> 
+
+<https://tinabrown.substack.com/p/what-pope-francis-shows-us-about>
+
+---
+
+## Careless People
+
+date: 2025-04-24, from: Michael Tsai
+
+Cory Doctorow (Hacker News, Amazon): I never would have read Careless People, Sarah Wynn-Williams&#8217;s tell-all memoir about her years running global policy for Facebook, but then Meta&#8217;s lawyer tried to get the book suppressed and secured an injunction to prevent her from promoting it.[&#8230;]The role Facebook played in the Christchurch quake transforms Wynn-Williams&#8217;s passion for [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/24/careless-people/>
+
+---
+
+## Apple Watch at 10
+
+date: 2025-04-24, from: Michael Tsai
+
+Joe Rossignol: Today marks the 10-year anniversary of the original Apple Watch launching in the United States and eight other countries around the world. Adrienne So (Hacker News): While it seems hard now to recall a time when the Apple Watch, or something similar, did not exist, the market hasn&#8217;t always been so obvious. It [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/24/apple-watch-at-10/>
+
+---
+
+## TypeIt4Me 7
+
+date: 2025-04-24, from: Michael Tsai
+
+Ettore Software (Reddit): As previously teased, we&#8217;ve rebuilt our flagship app from scratch in Swift &#x2013; fully sandboxed &#x2013; with a speedy new engine, a revamped interface and a slew of new features. Our hair is a lot thinner and greyer than it was 3 years ago when we embarked on this folly, but after [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/24/typeit4me-7/>
+
+---
+
+## Daily Deals (4-24-2025)
+
+date: 2025-04-24, from: Liliputing
+
+<p>The Amazon Book Sale runs form April 23 through April 28 with discounts on bokos, eBooks, audiobooks, and subscriptions. Amazon is also offering a rare discount on the Kindle Colorsoft, its first eReader with an E Ink color display&#8230;. although it&#8217;s still not exactly cheap: it&#8217;s selling for $225 after a $55 discount. Meanwhile Humble [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-4-24-2025/">Daily Deals (4-24-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-4-24-2025/>
+
+---
+
+## Motorola Razr, Razr+ and Razr Ultra (2025) coming in May for $700 and up
+
+date: 2025-04-24, from: Liliputing
+
+<p>Motorola has been offering flip-phones with foldable OLED displays under the Razr brand for the past few years, and this year the company is expanding the lineup to include three models instead of two. The Motorola Razr (2025) and Motorola Razr+ (2025) are modest updates over last year&#8217;s models, while the new Motorola Razr Ultra (2025) brings true [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/motorola-razr-razr-and-razr-ultra-2025-coming-in-may-for-700-and-up/">Motorola Razr, Razr+ and Razr Ultra (2025) coming in May for $700 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/motorola-razr-razr-and-razr-ultra-2025-coming-in-may-for-700-and-up/>
+
+---
+
+## My video chat with Robert Harris, author of the gripping papal election novel Conclave and a brace of novels about ancient Rome 
+
+date: 2025-04-24, from: Tina Brown
+
+Robert and I held our own video conclave to talk about what the transition to a new pope might hold , which emperor Trump reminds him of, and modern parallels with the billionaire class in the Roman Empire. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161893729/f2f199c4dddca4936df42c6193acebe5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161893729/f2f199c4dddca4936df42c6193acebe5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-with-robert-harris>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-24, from: Feed for Alt USDS)
+
+We welcome ALL fundraising tools to open up their two funding systems for scrutiny and review. The rule of law applies to everyone, yes?
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnl7br6ihk2c>
+
+---
+
+## Design That Matters
+
+date: 2025-04-24, from: Guy Kawasaki blog
+
+Debbie Millman on effective branding. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/design-that-matters>
+
+---
+
+## OpenPin is an open-source project to revive Humane’s dead Ai Pin
+
+date: 2025-04-24, from: Liliputing
+
+<p>The Humane Ai Pin is a wearable, internet-connected AI device designed to offer a phone-free way to interact with an AI assistant from anywhere. But when it launched in 2024 it was widely panned as an overpriced, underpowered device that was useless without paying additional subscription fees (and not super useful even if you did pay). Earlier [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/openpin-is-an-open-source-project-to-revive-humanes-dead-ai-pin/">OpenPin is an open-source project to revive Humane&#8217;s dead Ai Pin</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/openpin-is-an-open-source-project-to-revive-humanes-dead-ai-pin/>
+
+---
+
+## Lawrence of Arabia: A View from 1939
+
+date: 2025-04-24, from: National Archives, Text Message blog
+
+Thomas Edward Lawrence is most famous for his action in the Arab Revolt against the Ottoman Empire in support of British forces in the Middle East during World War I, activity that won him the appellation of “Lawrence of Arabia.”  Lawrence was introduced to Arab language, culture, and history while doing archeological work in the &#8230; <a href="https://text-message.blogs.archives.gov/2025/04/24/lawrence-of-arabia-a-view-from-1939/" class="more-link">Continue reading <span class="screen-reader-text">Lawrence of Arabia: A View from 1939</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/04/24/lawrence-of-arabia-a-view-from-1939/>
+
+---
+
+## La leyenda de Ochi: primates y adolescentes incomprendidos en los montes Cárpatos
+
+date: 2025-04-24, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Isaiah Saxon. Guion: Isaiah Saxon. País: Estados Unidos. Elenco: Helena Zengel, Finn Wolfhard, Willem Dafoe, Emily Watson. Más información de la película: https://www.imdb.com/title/tt8866456/ La relación entre humanos, el medio ambiente y los animales se aborda en La leyenda de Ochi, película que no es un manifiesto miyazakiano de ecología y anticapitalismo, aunque su trama [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-leyenda-de-ochi/">La leyenda de Ochi: primates y adolescentes incomprendidos en los montes Cárpatos</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-la-leyenda-de-ochi/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-la-leyenda-de-ochi>
+
+---
+
+## Payment Processors Force AI Site Civitai to Remove Incest and Diapers
+
+date: 2025-04-24, from: 404 Media Group
+
+Civitai is also demonetizing content featuring the likeness of real people and making it harder to find.  
+
+<br> 
+
+<https://www.404media.co/civitai-is-banning-ai-generated-incest-and-diapers/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-24, from: Dave Winer's linkblog)
+
+We should demand that the new owner of Chrome must respect the open web as something it does not have the power to change. Google never got this and we&#39;re losing the archive function of the web because of this. Please read, now we&#39;re in a position to fix this. 
+
+<br> 
+
+<https://this.how/googleAndHttp/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-24, from: Feed for Alt USDS)
+
+Stop and read this now. This is important.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnkwx3vdis2l>
+
+---
+
+## This Website Is Running on a Wii
+
+date: 2025-04-24, from: 404 Media Group
+
+Alex Haydock found a dusty old Wii console at a hardware swap and modded it to run his website. 
+
+<br> 
+
+<https://www.404media.co/this-website-is-running-on-a-wii/>
+
+---
+
+## Spacetop AR desktop is now available as a Windows app
+
+date: 2025-04-24, from: Liliputing
+
+<p>When the Spacetop G1 debuted last year, it was positioned as a laptop without a screen. Instead it was designed for use with a pair of augmented reality glasses that let you interact with a virtual large-screen display floating in front of you. But with a $1900 price tag for a computer with a custom [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/spacetop-ar-desktop-is-now-available-as-a-windows-app/">Spacetop AR desktop is now available as a Windows app</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/spacetop-ar-desktop-is-now-available-as-a-windows-app/>
+
+---
+
+## Sales of Hard Drives for the End of the World Boom Under Trump
+
+date: 2025-04-24, from: 404 Media Group
+
+PrepperDisk is a mini internet box that comes preloaded with offline backups of some of the content that is being deleted by the administration. 
+
+<br> 
+
+<https://www.404media.co/sales-of-hard-drives-prepper-disk-for-the-end-of-the-world-have-boomed-under-trump/>
+
+---
+
+## The Latest on Rümeysa Öztürk
+
+date: 2025-04-24, updated: 2025-04-24, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/24/the-latest-on-rumeysa-ozturk/>
+
+---
+
+## Even the U.S. Government Says AI Requires Massive Amounts of Water
+
+date: 2025-04-24, from: 404 Media Group
+
+A new government illuminates the environmental impact of generative AI. 
+
+<br> 
+
+<https://www.404media.co/even-the-u-s-government-says-ai-requires-massive-amounts-of-water/>
 
 ---
 
@@ -784,18 +1182,6 @@ Lendie R. Follett, Associate Professor of Business Analytics, Drake University.
 <br> 
 
 <https://guykawasaki.substack.com/p/food-pantry-demand-rises-as-snap>
-
----
-
-## What Pope Francis Shows us about Trump.. plus my Video Chat with Conclave author Robert Harris 
-
-date: 2025-04-22, from: Tina Brown
-
-Harris, also author of multiple novels about ancient Rome, says democracy is probably "an interlude," not "the end state of mankind." 
-
-<br> 
-
-<https://tinabrown.substack.com/p/what-pope-francis-shows-us-about>
 
 ---
 

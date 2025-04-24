@@ -1,11 +1,102 @@
 ---
 title: columns
-updated: 2025-04-24 06:07:18
+updated: 2025-04-24 14:07:43
 ---
 
 # columns
 
-(date: 2025-04-24 06:07:18)
+(date: 2025-04-24 14:07:43)
+
+---
+
+## New Linux Rootkit
+
+date: 2025-04-24, updated: 2025-04-24, from: Bruce Schneier blog
+
+<p><a href="https://betanews.com/2025/04/24/hackers-bypass-linux-security-with-armo-curing-rootkit/">Interesting</a>:</p>
+<blockquote><p>The company has released a working rootkit called &#8220;Curing&#8221; that uses io_uring, a feature built into the Linux kernel, to stealthily perform malicious activities without being caught by many of the detection solutions currently on the market.</p>
+<p>At the heart of the issue is the heavy reliance on monitoring system calls, which has become the go-to method for many cybersecurity vendors. The problem? Attackers can completely sidestep these monitored calls by leaning on io_uring instead. This clever method could let bad actors quietly make network connections or tamper with files without triggering the usual alarms...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/new-linux-rootkit.html>
+
+---
+
+## Fedora 42 has the Answer, but Ubuntu's Plucky Puffin isn't far behind
+
+date: 2025-04-24, updated: 2025-04-24, from: Liam Proven's articles at the Register
+
+<h4>Watch your partitions – GPT and dual-boot don&#39;t always mix</h4>
+      <p>While The Reg FOSS desk was on spring break, both the latest interim Ubuntu and latest Fedora debuted.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/24/ubuntu_fedora_spring/>
+
+---
+
+## April 23, 2025
+
+date: 2025-04-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162069069/6344cacda036953d1a5d27b47ff596af.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162069069/6344cacda036953d1a5d27b47ff596af.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-23-2025-e40>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-24, from: Dave Winer's Scripting News)
+
+I'm rebuilding my nightly email-sending code from the bottom up. Something I never properly understood is that most mail clients don't include your CSS files, so people were seeing the writing and images with no style. What an embarassment. As often is the case in 2025, I have ChatGPT to guide me through getting this right. The secret is inline styles. And there's no simple way to do the conversion, except element by element. Seems like an OS could do this for us somewhere along the line. Now I have to think about how to test it without trying to just switch it over, trying to avoid breaking everyone at once. But the nightly email might start looking a lot better for some real soon, and for others, only slight almost no noticeable differences. 
+
+<br> 
+
+<http://scripting.com/2025/04/24.html#a154030>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-24, from: Dave Winer's Scripting News)
+
+We should demand that the new owner of Chrome must respect the open web as something it does not have the power to change. Google never got this and we're losing the archive function of the web because of this. Please read and pass on -- <i>now</i> -- we're in a unique position to fix this. 
+
+<br> 
+
+<http://scripting.com/2025/04/24.html#a153744>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-24, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One of the nice things about <a href="https://wordland.social/">WordLand</a> is that <b>titles are optional</b>. Some posts are too short to require a title. In a sense they are their own title. We know the benefits well, having used Twitter for a long time. There's no reason this simple idea shouldn't work in RSS feeds and blogging, in fact RSS doesn't require titles. And there's no requirement in WordPress either. So we support them, with gusto. I want this network to do what Twitter does, and everything Twitter doesn't do, that writers want. #writersweb 
+
+<br> 
+
+<http://scripting.com/2025/04/24.html#a135855>
+
+---
+
+## ChatGPT can level the playing field
+
+date: 2025-04-24, from: Dave Winer's Scripting News
+
+<p>There's a company that I have an account with because they're the only ones who provide the service I need, so I have to stay with them. They have made my telephone unusable, they call me all the time from varying phone numbers, wanting me to do things, or with a "courtesy reminder" that I could spend more money with them. My number is a cell phone btw. On my user profile on their site, I unchecked <i>phone</i> as a way for them to contact me, only leaving email checked. They appear to be ignoring this. My question is this -- how do I get their attention and get them to stop calling me. The constant interruptions are interfering with my life and work.</p>
+<p>That was a ChatGPT prompt. It gave me lots of options, but two were outstanding.</p>
+<ul>
+<li>First, they knew their privacy account, and a form on their website for reporting privacy violations. </li>
+<li>They suggested I use commands in my cell phone to block unknown numbers. </li>
+</ul>
+<p>I hadn't thought of doing this until today. Usually the big companies have all the power. They can force you to call them back and wait on hold and then it's not clear they'll even understand or respect the request. ChatGPT also suggested the FTC (heh I doubt if it can do much with Trump as president) or the state Attorney General (we still have a government in NY). </p>
+<p>So think about it next time you have trouble with a megamonolith company that's bullying you into submission. We seem to have a tool at our disposal that levels the playing field.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/24/133028.html?title=chatgptCanLevelThePlayingField>
 
 ---
 

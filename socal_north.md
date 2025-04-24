@@ -1,11 +1,121 @@
 ---
 title: socal north
-updated: 2025-04-24 06:07:15
+updated: 2025-04-24 14:07:40
 ---
 
 # socal north
 
-(date: 2025-04-24 06:07:15)
+(date: 2025-04-24 14:07:40)
+
+---
+
+## LA Ethics Commission fines former councilmember Kevin de León
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+He admitted to failing to disclose financial interests in decisions and will have to pay nearly $19,000, which will go into the city’s general fund. 
+
+<br> 
+
+<https://laist.com/news/politics/la-ethics-commission-fines-former-councilmember-kevin-de-leon>
+
+---
+
+## These communities are unaware they’ve lived near toxic gas for decades. Why has no action been taken?
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+The air agency doesn’t plan to monitor the air or take any immediate steps to protect schools and households from the gas, which can damage lungs and cause neurological effects. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/these-communities-are-unaware-theyve-lived-near-toxic-gas-for-decades-why-has-no-action-been-taken>
+
+---
+
+## Judge pauses parts of Trump's sweeping executive order on voting
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+A federal judge has paused a key section of President Trump's executive order that makes sweeping changes to voting and elections. 
+
+<br> 
+
+<https://laist.com/news/politics/judge-pauses-parts-of-sweeping-executive-order-on-voting>
+
+---
+
+## Trump signs executive actions on education, including efforts to rein in DEI
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+The new directives include efforts to curtail DEI programs at colleges and discipline guidance for public schools. 
+
+<br> 
+
+<https://laist.com/news/education/trump-signs-executive-actions-on-education-including-efforts-to-rein-in-dei>
+
+---
+
+## A New Chapter Begins with Día de los Niños
+
+date: 2025-04-24, from: City of Santa Clarita
+
+<p>“Logic will get you from A to B. Imagination will take you anywhere.” – Albert Einstein By Mayor Bill Miranda In many Hispanic households, children aren’t just part of the family—they are its heart. “Día de los Niños” reflects this deep cultural value by honoring the joy, curiosity and wonder of childhood. On Saturday, April [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/24/a-new-chapter-begins-with-dia-de-los-ninos/">A New Chapter Begins with Día de los Niños</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/24/a-new-chapter-begins-with-dia-de-los-ninos/>
+
+---
+
+## Oscar voters actually need to watch the nominated movies now
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+In an announcement Monday about rules for the next Oscars, the Academy also said that a film's use of generative AI and other digital tools "neither help nor harm the chances of achieving a nomination." 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/oscar-voters-need-to-watch-the-nominated-movies-now>
+
+---
+
+## Mother’s Day is coming! Plan ahead with these brunch spot picks (and make Mom happy)
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+Mother's Day is Sunday, May 11. Don't say we didn't warn you. 
+
+<br> 
+
+<https://laist.com/news/food/mothers-day-is-coming-plan-ahead-with-these-brunch-spot-picks-and-make-mom-happy>
+
+---
+
+## Mercury, Venus and Saturn to delight stargazers in a parade across the sky
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+The pre-dawn sky will feature a glowing crescent moon, joined by planets Mercury, Venus and Saturn. 
+
+<br> 
+
+<https://laist.com/news/mercury-venus-saturn-to-delight-stargazers-in-a-parade-across-the-sky>
+
+---
+
+## Best things to do in LA and SoCal: April 25 - 27
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+L.A. Times Festival of Books, Arts Open San Pedro, Ben Folds in Costa Mesa, a walking book club, Dana Point Wine Fest and more best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-april-25-27>
 
 ---
 

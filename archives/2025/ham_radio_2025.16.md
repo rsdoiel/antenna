@@ -1,11 +1,121 @@
 ---
 title: ham radio
-updated: 2025-04-24 06:07:16
+updated: 2025-04-24 14:07:42
 ---
 
 # ham radio
 
-(date: 2025-04-24 06:07:16)
+(date: 2025-04-24 14:07:42)
+
+---
+
+## W1AW Facility Closed to Visitors April 28-30 for Maintenance
+
+date: 2025-04-24, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/w1aw-facility-closed-to-visitors-april-28-30-for-maintenance>
+
+---
+
+## Infineon advances EV drivetrain efficiency
+
+date: 2025-04-24, from: EDN Blog
+
+<img width="800" height="465" src="https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?fit=800%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>To support the rapid growth of electric vehicles, Infineon has introduced a new generation of energy-efficient silicon IGBTs and RC-IGBTs.</p>
+<p>The post <a href="https://www.edn.com/infineon-advances-ev-drivetrain-efficiency/">Infineon advances EV drivetrain efficiency</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/infineon-advances-ev-drivetrain-efficiency/>
+
+---
+
+## MCUs cut power to 0.25 µA in standby
+
+date: 2025-04-24, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Renesas-RAOE2.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-RAOE2.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RAOE2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RAOE2.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The Renesas RAOE2 group of entry-level MCUs offers low power consumption and an extended temperature range.</p>
+<p>The post <a href="https://www.edn.com/mcus-cut-power-to-0-25-%c2%b5a-in-standby/">MCUs cut power to 0.25 µA in standby</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mcus-cut-power-to-0-25-%c2%b5a-in-standby/>
+
+---
+
+## PMICs optimize energy harvesting designs
+
+date: 2025-04-24, from: EDN Blog
+
+<img width="700" height="426" src="https://www.edn.com/wp-content/uploads/Asahi-AP4413.jpg?fit=700%2C426" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Asahi-AP4413.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Asahi-AP4413.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Low-current PMICs in the AP4413 series from AKM enable efficient battery charging in devices that typically use disposable batteries.</p>
+<p>The post <a href="https://www.edn.com/pmics-optimize-energy-harvesting-designs/">PMICs optimize energy harvesting designs</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/pmics-optimize-energy-harvesting-designs/>
+
+---
+
+## Cadence debuts DDR5 MRDIMM IP at 12.8 Gbps
+
+date: 2025-04-24, from: EDN Blog
+
+<img width="700" height="447" src="https://www.edn.com/wp-content/uploads/Cadence-DDR5-IP.jpg?fit=700%2C447" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Cadence-DDR5-IP.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Cadence-DDR5-IP.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Cadence has announced the first DDR5 12.8-Gbps MRDIMM Gen2 memory IP subsystem fabricated on TSMC’s N3 (3-nm) process. </p>
+<p>The post <a href="https://www.edn.com/cadence-debuts-ddr5-mrdimm-ip-at-12-8-gbps/">Cadence debuts DDR5 MRDIMM IP at 12.8 Gbps</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/cadence-debuts-ddr5-mrdimm-ip-at-12-8-gbps/>
+
+---
+
+## Quantum-safe root-of-trust solution to secure ASICs, FPGAs
+
+date: 2025-04-24, from: EDN Blog
+
+<img width="900" height="535" src="https://www.edn.com/wp-content/uploads/Hero-image-PQShield.png?fit=900%2C535" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-PQShield.png?w=900 900w, https://www.edn.com/wp-content/uploads/Hero-image-PQShield.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-PQShield.png?w=768 768w" sizes="auto, (max-width: 900px) 100vw, 900px" /><p>The post-quantum cryptography (PQC) solution facilitates robust key management by tracking the key’s origin and permission.</p>
+<p>The post <a href="https://www.edn.com/quantum-safe-root-of-trust-solution-to-secure-asics-fpgas/">Quantum-safe root-of-trust solution to secure ASICs, FPGAs</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/quantum-safe-root-of-trust-solution-to-secure-asics-fpgas/>
+
+---
+
+## Current monitor
+
+date: 2025-04-24, from: EDN Blog
+
+<img width="196" height="166" src="https://www.edn.com/wp-content/uploads/Current-monitor_Figure2.gif?fit=196%2C166" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" /><p>A current monitor circuit that uses a bi-color LED to estimate the value of the current and indicate the on-state of the device.  </p>
+<p>The post <a href="https://www.edn.com/current-monitor/">Current monitor</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/current-monitor/>
+
+---
+
+## Selective averaging in an oscilloscope
+
+date: 2025-04-24, from: EDN Blog
+
+<img width="1920" height="1080" src="https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?fit=1920%2C1080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?w=1920 1920w, https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?w=300 300w, https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?w=768 768w, https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/selective-averaging-Figure-7.png?w=800 800w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /><p>How to obtain the average of select signal components that occur at certain times within an acquisition on an oscilloscope.</p>
+<p>The post <a href="https://www.edn.com/selective-averaging-in-an-oscilloscope/">Selective averaging in an oscilloscope</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/selective-averaging-in-an-oscilloscope/>
 
 ---
 
@@ -13,7 +123,7 @@ updated: 2025-04-24 06:07:16
 
 date: 2025-04-23, from: EDN Blog
 
-<img width="3072" height="4080" src="https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?fit=3072%2C4080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=3072 3072w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=226 226w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=771 771w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1157 1157w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1542 1542w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=2850 2850w" sizes="(max-width: 3072px) 100vw, 3072px" /><p>Need more charge storage capacity than a portable power station offers standalone? Tether an extension battery to it. </p>
+<img width="3072" height="4080" src="https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?fit=3072%2C4080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=3072 3072w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=226 226w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=771 771w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1157 1157w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1542 1542w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/stacked-replacements4.jpg?w=2850 2850w" sizes="auto, (max-width: 3072px) 100vw, 3072px" /><p>Need more charge storage capacity than a portable power station offers standalone? Tether an extension battery to it. </p>
 <p>The post <a href="https://www.edn.com/portable-power-station-battery-capacity-extension-curious-coordination/">Portable power station battery capacity extension: Curious coordination</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

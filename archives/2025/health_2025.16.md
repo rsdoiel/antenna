@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2025-04-24 06:07:22
+updated: 2025-04-24 14:07:47
 ---
 
 # health
 
-(date: 2025-04-24 06:07:22)
+(date: 2025-04-24 14:07:47)
+
+---
+
+## People’s CDC Webinar: Fight Attacks on Science and Public Health
+
+date: 2025-04-24, from: People's CDC
+
+The last few months have seen massive attacks on the public health sector. New NIH funding guidelines, released on April 21, 2025, require that recipients of federal funds must certify that they do not not operate any programs which advance or promote diversity, equity, inclusion or accessibility, and that they do not engage in boycotts [&#8230;] 
+
+<br> 
+
+<https://peoplescdc.org/2025/04/24/peoples-cdc-webinar-fight-attacks-on-science-and-public-health/>
 
 ---
 

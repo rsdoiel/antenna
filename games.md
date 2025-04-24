@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-24 06:07:19
+updated: 2025-04-24 14:07:44
 ---
 
 # games
 
-(date: 2025-04-24 06:07:19)
+(date: 2025-04-24 14:07:44)
+
+---
+
+## Mobile Suit Gundam inspired Attack of the Clones’ biggest moment, and it&#8217;s all thanks to the man behind Jar Jar Binks
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+This week, the highly anticipated second season of Andor premiered on Disney Plus with its first three episode arc. Naturally, most of the attention among Star Wars fans has been concentrated around Tony Gilroy’s live action drama series, but that’s not the only major Star War-related release to come out this past week. Last Friday, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/564994/star-wars-attack-of-the-clones-yoda-count-dooku-fight-mobile-suit-gundam-chars-counterattack>
+
+---
+
+## Every game you can pre-order for the Nintendo Switch 2
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+The launch of the Nintendo Switch 2 is only a few weeks away, and with it comes a healthy spread of games to play — and that are now available to pre-order. Releasing alongside the Switch 2 on June 5 is the brand new Mario Kart World and a handful remastered original Switch games, including [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/554243/nintendo-switch-2-games-where-to-buy>
+
+---
+
+## Andor’s opulent wedding sequence mints a ‘galactic hit’ in Star Wars music
+
+date: 2025-04-24, updated: 2025-04-23, from: Polygon Website
+
+It’s that time of year: wedding season. For a lot of the continental U.S., spring and summer brings to fruit a flurry of wedding invites — and Andor’s first batch of episodes is no exception, with everyone getting to watch Mon Mothma’s teenage daughter get married in a traditional (and quite decadent) Chandrilan ceremony.  These [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/563272/andor-wedding-episodes-season-2-mon-mothma-dance>
+
+---
+
+## How to pre-order extra Joy-Cons and Joy-Con 2 accessories for your Switch 2
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Much like the original Nintendo Switch, the Switch 2 is all about playing with friends, whether that’s together in your living room or remotely. If you’re planning to play with more than two people locally, you may want to stock up on some extra Joy-Cons. A set that includes the left and right Joy-Con 2 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/553095/nintendo-switch-2-joy-con-2-controller-where-to-buy>
+
+---
+
+## All the Switch 2 accessories you can pre-order now
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+The Nintendo Switch 2 will launch on June 5, alongside a suite of new accessories for the console. If you own an original Switch, many of your current accessories will work on the Switch 2. However, there are plenty of accessories worth considering picking up for your new console, even though their prices increased slightly [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/554836/switch-2-accessories-controller-wheel-joy-con-camera-case-microsd-express>
+
+---
+
+## Four new Zelda amiibo are now available to pre-order
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+With the upcoming launch of the Switch 2, Nintendo is giving Zelda fans more reasons to get excited, and to dig deeper into their wallets for spare bucks. Not only are there Switch 2 editions of Breath of the Wild and Tears of the Kingdom (each promising performance upgrades and intriguing Zelda Notes features), there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/562264/zelda-amiibo-switch-2-totk-botw>
+
+---
+
+## How to get Applin and its evolutions Flapple and Appletun in Pokémon Go
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Applin has made its Pokémon Go debut, alongside its two original evolutions, Flapple and Appletun. With Applin, there’s a (kind of) new mechanic in the game that involves picking up items off the floor — something we saw vaguely tested during the April Fools’ 2025 event with Poké Balls. Our guide details how to find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/564604/applin-flapple-appletun-dipplin-how-to-get-evolve-apples>
+
+---
+
+## Mycelia, a game about the friendly kind of fungus, is on sale
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+I, for one, am sick of the harmful stereotypes of mushrooms perpetuated in the media. If you’d like to play an awesome game that offers a more authentic and friendly fungus experience, Mycelia is currently on sale at Amazon for its lowest price ever. Usually $39.99, this winner of Austria’s 2024 Spiel der Spiele (Game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/564703/mycelia-deck-builder-board-game-amazon-sale>
+
+---
+
+## How to cure vampirism in Oblivion Remastered
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Curing vampirism in The Elder Scrolls 4: Oblivion Remastered can only be done via two methods. One is a lengthy quest, so you’ll likely want to take the other approach. After you’ve been hit by a vampire, there’s a chance you’ll gain the disease Porphyric Hemophilia, which will drain your fatigue and eventually turn you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/564277/cure-vampirism-how-to>
+
+---
+
+## New Assassin’s Creed board game will explore multiple timelines
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Mantic Games, the talented tabletop team behind Halo: Flashpoint, is readying its next big project: a board game based on the Assassin’s Creed series. Assassin’s Creed: Animus is what a Mantic rep described to Polygon as a “true board game,” as opposed to a skirmish or miniatures game that just so happens to take place [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/564737/assassins-creed-animus-board-game-mantic-games-halo-flashpoint>
 
 ---
 
@@ -57,30 +177,6 @@ The Nintendo Switch 2 pre-orders didn’t go as planned, but they’re finally o
 
 ---
 
-## How to pre-order extra Joy-Cons for your Switch 2
-
-date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
-
-Much like the original Nintendo Switch, the Switch 2 is all about playing with friends, whether that’s together in your living room or remotely. If you’re planning to play with more than two people locally, you may want to stock up on some extra Joy-Cons. A set that includes the left and right Joy-Con 2 [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pre-order/553095/nintendo-switch-2-joy-con-2-controller-where-to-buy>
-
----
-
-## Every game you can pre-order for the Nintendo Switch 2
-
-date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
-
-The launch of the Nintendo Switch 2 is only a few weeks away, and with it comes a healthy spread of games to play — and that are now available to pre-order. Releasing alongside the Switch 2 on June 5 is the brand new Mario Kart World and a handful remastered original Switch games, including [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pre-order/554243/nintendo-switch-2-games-where-to-buy>
-
----
-
 ## How to pre-order the Nintendo Switch 2 camera
 
 date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
@@ -90,18 +186,6 @@ One of the more surprising features arriving with the Nintendo Switch 2 is the a
 <br> 
 
 <https://www.polygon.com/pre-order/554163/nintendo-switch-2-camera-where-to-buy>
-
----
-
-## All the Switch 2 accessories you can pre-order now
-
-date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
-
-The Nintendo Switch 2 will launch on June 5, alongside a suite of new accessories for the console. If you own an original Switch, many of your current accessories will work on the Switch 2. However, there are plenty of accessories worth considering picking up for your new console, even though their prices increased slightly [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pre-order/554836/switch-2-accessories-controller-wheel-joy-con-camera-case-microsd-express>
 
 ---
 
