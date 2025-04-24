@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-04-23 14:08:25
+updated: 2025-04-24 06:07:14
 ---
 
 # north america
 
-(date: 2025-04-23 14:08:25)
+(date: 2025-04-24 06:07:14)
+
+---
+
+## Trump will be out of place at Pope Francis’s funeral
+
+date: 2025-04-24, from: The Contrarian
+
+Be a Francis, not a Trump 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-will-be-out-of-place-at-pope>
+
+---
+
+##  Is The GOP’s Tax Revolt Collapsing? 
+
+date: 2025-04-24, from: The Lever News
+
+ The anti-tax movement has dominated American politics for 50 years — but it may finally be fraying.  
+
+<br> 
+
+<https://www.levernews.com/is-the-gops-tax-revolt-collapsing/>
+
+---
+
+## Evening Roundup, April 23: 100 Days of The Contrarian!
+
+date: 2025-04-23, from: The Contrarian
+
+Featuring The Disappeared (video); Oliver Darcy & Jen Rubin; Meredith Blake; Brian O'Neill; Jennifer Weiss-Wolf; RJ Matson; and "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-23-100-days>
+
+---
+
+## The Disappeared
+
+date: 2025-04-23, from: The Contrarian
+
+Deported. Disappeared. Dehumanized. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161998844/4162607e5827152941eac55af6c7720b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161998844/4162607e5827152941eac55af6c7720b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-disappeared>
 
 ---
 

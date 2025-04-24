@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-04-23 14:08:31
+updated: 2025-04-24 06:07:22
 ---
 
 # motorcycles
 
-(date: 2025-04-23 14:08:31)
+(date: 2025-04-24 06:07:22)
+
+---
+
+## South Korea Wants To Convert Old Gas Scooters To Electric, and Will Pilot a Program
+
+date: 2025-04-24, from: Ride Apart, Electric Motorcycle News
+
+Scooters play a major role in the country’s mobility, and the government wants to future-proof them.  
+
+<br> 
+
+<https://www.rideapart.com/news/757417/south-korea-studying-electric-scooter-conversion/>
+
+---
+
+## Elon Musk's DOGE Controls Your Public Lands Now
+
+date: 2025-04-24, from: Ride Apart, Electric Motorcycle News
+
+Interior Secretary Burgum gave DOGE complete control on April 17th.  
+
+<br> 
+
+<https://www.rideapart.com/news/757535/elon-musk-doge-public-lands-doug-burgum-doi/>
+
+---
+
+## Sound Up: Listen to Yamaha's New V4 MotoGP Engine Scream
+
+date: 2025-04-24, from: Ride Apart, Electric Motorcycle News
+
+It's not as guttural as the crossplane four, but it certainly sounds interesting. 
+
+<br> 
+
+<https://www.rideapart.com/news/757510/yamaha-motogp-v4-engine-test-video-sound/>
+
+---
+
+## Dixon sets the pace on Day One of Indy 500 testing
+
+date: 2025-04-24, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer It felt like May today as cars took to the Indianapolis Motor Speedway Oval on Wednesday for the annual Indy 500 Open Test. The two&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/dixon-sets-the-pace-on-day-one-of-indy-500-testing/>
 
 ---
 

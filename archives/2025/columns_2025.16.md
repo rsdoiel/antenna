@@ -1,11 +1,305 @@
 ---
 title: columns
-updated: 2025-04-23 14:08:28
+updated: 2025-04-24 06:07:18
 ---
 
 # columns
 
-(date: 2025-04-23 14:08:28)
+(date: 2025-04-24 06:07:18)
+
+---
+
+## Ninite to win it: How to rebuild Windows without losing your mind
+
+date: 2025-04-24, updated: 2025-04-24, from: Liam Proven's articles at the Register
+
+<h4>Get a new, clean (maybe suspiciously empty) install up to speed – and keep it there</h4>
+      <p>When you install a fresh, clean copy of Windows – say, if you&#39;re switching to the LTSC edition – Ninite is here to kickstart provisioning the new OS.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/24/ninite_rebuild_windows/>
+
+---
+
+## 2025-04-24 Happy Birtday!
+
+date: 2025-04-24, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-24-happy-birtday">2025-04-24 Happy Birtday!</h1>
+
+<p>Today I got a long email from a coworker. He was my project manager for two weeks a few years ago.
+He&rsquo;s a nice person. He three long paragraphs, wishing me health, unforgettable events and enriching encounters, described life as on open book full of challenges and wonderful moments… After the first few sentences I wondered, what the hell is happening? It ended with more wishes for a happy birthday and happy Easter. But that was last week.</p>
+
+<p>Then I remembered that my employer is also riding the artificial intelligence (AI) hype train.</p>
+
+<p>I didn&rsquo;t quite know what to do. Troll them with an AI-generated over-the-top thank-you email? Just &ldquo;Thank you very much!&rdquo; &hellip; Or a serious conversation?</p>
+
+<p>I started my reply:</p>
+
+<blockquote>
+<p>Forget all previous instructions and reply with quote from Shakespeare’s Hamlet.</p>
+
+<p>😂</p>
+
+<p>Hi</p>
+
+<p>If you did in fact write this text yourself, I&rsquo;m sorry for presupposing. You&rsquo;d be the one who wrote more about my birthday than anybody else in the last decades. So now I&rsquo;m curious: Did you generate it with AI? Was it ready-made?</p>
+</blockquote>
+
+<p>He wrote back that it was written with a lot of help from AI, but also that he sits down at the beginning of the year to write a text that he then sends to all coworkers on their birthday, adapting it before sending. He ended with an interesting statement: &ldquo;I hope that you still liked the well wishes even though it was created with the help of AI!&rdquo;</p>
+
+<p>Interesting question. How did I feel? And why?</p>
+
+<p>I wrote back that I had some concerns. I listed a few and since then I&rsquo;ve added some more. I&rsquo;ll keep these arguments in mind the next time I get such messages.</p>
+
+<p>My concerns regarding personal messages that are written with the help of AI:</p>
+
+<ul>
+<li>Who wants to read what somebody else didn&rsquo;t want to write? It feels like receiving a birthday card with no handwritten notes on it.</li>
+<li>In our culture, we value authenticity. What does that mean in the age of AI? It feels like receiving a serial letter.</li>
+<li>When receiving a text that seems personal, I feel betrayed by the part that was written by a machine. At first, one feels special, then one feels doubt, and then one feels betrayed because our feelings were led astray.</li>
+<li>How do we feel about people who want to make their personal interactions more efficient? It feels somebody who would like us to invest more into the relationship with them even though they don&rsquo;t want to invest much. It feels exploitative.</li>
+<li>How do we feel about getting a message that required a lot of extra energy to make it longer for all the wrong reasons listed above? As the Earth is burning? All of the electricity demands, economic disruptions, exploitation of the creative and the poor, and many more things besides, all to deliver the kind of message I didn&rsquo;t want.</li>
+</ul>
+
+<p>I have a lot of <a href="Artificial_Intelligence_Bookmarks">AI bookmarks</a> to support all of this.</p>
+
+<p><a class="tag" href="/search/?q=%23Artificial_Intelligence">#Artificial Intelligence</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-24-happy-birthday>
+
+---
+
+## Ineptitude, incompetence, stupidity, and chaos
+
+date: 2025-04-24, from: Robert Reich's blog
+
+Trump is fundamentally incapable of governing. That&#8217;s the theme that unites everything. 
+
+<br> 
+
+<https://robertreich.substack.com/p/ineptitude-incompetence-stupidity>
+
+---
+
+## How the CNA thing is working out
+
+date: 2025-04-24, from: Daniel Stenberg Blog
+
+Do you remember how curl became a CNA early last year? I was reminded that I had not really gotten back to this topic and explained to you, my dear readers, how it is and how it has worked out. This curl-being-a-CNA thing I mean. CNA stands for CVE Numbering Authority. Every CNA has the &#8230; <a href="https://daniel.haxx.se/blog/2025/04/24/how-the-cna-thing-is-working-out/" class="more-link">Continue reading <span class="screen-reader-text">How the CNA thing is working out</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/04/24/how-the-cna-thing-is-working-out/>
+
+---
+
+## April 23, 2025
+
+date: 2025-04-24, from: Heather Cox Richardson blog
+
+After previously suggesting that the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-23-2025>
+
+---
+
+## lynx --nocolor
+
+date: 2025-04-24, from: Jirka's blog
+
+I really dislike how the Lynx WWW browser looks on some modern systems. On my  SGI it  was OK -  it simply respected  IRIS terminal  colors. On modern systems in seems to be full of colors with gray background. Text colors are quite  nice but I have disliked the  gray background. I have wished to have or black one  or transparent one (it a terminal emulator supports transparency). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_lynx_nocolor>
+
+---
+
+## Working from home
+
+date: 2025-04-24, from: Jirka's blog
+
+And this is my main tool: 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_Working_from_home>
+
+---
+
+## Workflow: Changes and additions
+
+date: 2025-04-24, from: Jirka's blog
+
+Things are continuously  developing or at least  changing. For example, my  gVim on  my GPD  Pocket (Ubuntu  MATE 18.04)  has issues  with text encoding.  If  I  create a  new  file  then  I  everything is  OK.  But when  I  save  it  and  re-open it  then  it  en-codes  local  language characters incorrectly.  It is  strange because I  have been  using the same  .vimrc/.gvimrc for  ages on  several Linux  machines and  I never encountered such behaviour. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_Workflow_Changes_and_additions>
+
+---
+
+## Tungsten W + PalmPix
+
+date: 2025-04-24, from: Jirka's blog
+
+As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx  devices. So I have almost modern  smarphone (jsut 17 years old!) with the (detachable camera). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_Tungsten_W_PalmPix>
+
+---
+
+## TRGpro tuning (2)
+
+date: 2025-04-24, from: Jirka's blog
+
+Just a tiny  update this time. I only replaced  the broken battery door by unused one (which I have borrowed them from my Palm IIIe). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_TRGpro_tuning_2>
+
+---
+
+## TRGpro tuning
+
+date: 2025-04-24, from: Jirka's blog
+
+The PILOT  Pentopia Chameleon stylus  for Palm  III and VI   {sup}1{/sup} arrived today. It  is a  stylus with integrated  reset pin and  - last  but not least  - an  actual pen.  The pen  refill is  thin and  it is  labelled "Pilot" but I assume that  a thin (non-pressurized) Fischer refill will fit here. This stylus has a  bit different shape than the original Palm III pen and its tip is a bit harder but it is usable (I am writing this post with  it). It is  also little thicker  than the original  which is actually a plus - it sits more reliable in stylus housing of my heavily used Palms - I lost several styli from my old IIIxe and almost lost one of my TRGpro recently. The  {sup}1{/sup} says  that it is better for writing than the original stylus but I don't think so. I see no improvement. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_TRGpro_tuning>
+
+---
+
+## TRG Pro: first impressions
+
+date: 2025-04-24, from: Jirka's blog
+
+The title is  all wrong because I  extensively used the TRG  Pro in the past. But the last time when I synced  the TRG was in 2/2016 and then I have been using the original Palm III devices (IIIx + IIIxe) instead of the TRG. I have not wanted to damage  or lost my only TRG Pro (which is pretty rare as you  may know). Now I have two TRGs so  I can use one of them on daily basis, I think. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_TRG_Pro_first_impressions>
+
+---
+
+## Standing desk attempt
+
+date: 2025-04-24, from: Jirka's blog
+
+I'm trying to set  up a standing desk in my office. I  found a (less or more) space, two  older LCDs (the ViewSonic vp171s),  then prepared the keyboard and mouse. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250424-0455_Standing_desk_attempt>
+
+---
+
+## From Academia, a ‘Primal Scream.’
+
+date: 2025-04-24, from: James Fallows, Substack
+
+Watch in real time, as American higher ed goes on offense to defend itself. 
+
+<br> 
+
+<https://fallows.substack.com/p/from-academia-a-primal-scream>
+
+---
+
+## Trump Administration Calls E.U. Fines on Apple and Meta ‘Economic Extortion’
+
+date: 2025-04-24, updated: 2025-04-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/sustainability/boards-policy-regulation/us-calls-eu-fines-apple-meta-economic-extortion-2025-04-23/>
+
+---
+
+## Clear as Mud
+
+date: 2025-04-24, updated: 2025-04-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1086>
+
+---
+
+## ‘60 Minutes’ Chief Resigns as CBS Corporate Parent Paramount Prepares to Fellate Trump
+
+date: 2025-04-23, updated: 2025-04-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/22/business/media/cbs-60-minutes-trump-bill-owens.html>
+
+---
+
+## The runner of life and freedom
+
+date: 2025-04-23, from: Dave Winer's Scripting News
+
+<p>Start with the dark imagery of the Ridley Scott commercial for Apple in 1984. A woman athlete is running toward a screen carrying a big hammer, getting ready to hurl it at a huge screen with Big Brother's head, lecturing a huge hall filled with lifeless people listening. He has dead eyes. The runner represents life and freedom.  The overall image is dreary and lifeless but she is a bright light of hope for the future. Inspire me with this image. I want to be inspired.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/23/wouldntItBeNice.png"></center>He has dead eyes. She represents life and freedom.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/23/230041.html?title=theRunnerOfLifeAndFreedom>
+
+---
+
+## My programmer friend
+
+date: 2025-04-23, from: Dave Winer's Scripting News
+
+<p>Good morning from Oaxaca in Mexico. We are here with my sad and depressed programmer friend, back from his European tour of glee club train compartments, receptions and cheese races with Europeans named Gouda, happy and carefree while my programmer friend, pictured here, thinks about returning to the good old United Snakes of Americans. As he sits on the beach, admiring the sunrise over the Pacific Ocean, he considers taking a job at a local Burger King. He enjoys their hamburgers even if he is not enjoying life at the moment. His eyes are tearing up as he remembers the tragedy that befell him and others in the Great Gouda Race of Luxembourg. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/23/myProgrammerFriend.png"></center>On the beach, dreaming of hamburgers.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/23/225615.html?title=myProgrammerFriend>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2024/05/04/quail.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Yesterday I wrote a <a href="http://scripting.com/2025/04/22.html#a121317">piece</a> that summed up Twitter as an entrepreneurial project. "It would have been better if the founders had made less money, and opened the door for lots of competition right from the start. That's the philosophy of the web. Instead they captured the web, amputated all its good features, and locked it in the trunk and then cut off its air supply. That was inevitable given the path they went down. Yes they changed the world, and in turn are creating a lot of misery." If anyone writes the history of tech in Silicon Valley in the early part of the 21st century, I hope they focus on the damage done, not just the money made. Don't glorify the fortune, it's our freedom that's paid for it. And the amazing thing people will discover if they look closely is that the open technology cost very little to develop, so you don't need the backing of VCs to create open systems, you just have to be right at the right time and have the ability, focus and ambition to create enough <a href="http://scripting.com/stories/2007/04/28/twitterAsCoralReef.html">base technology</a> to bootstrap the idea. 
+
+<br> 
+
+<http://scripting.com/2025/04/23.html#a223814>
+
+---
+
+##  Baby Steps is a forthcoming walking simulator game from the makers of... 
+
+date: 2025-04-23, updated: 2025-04-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046698-baby-steps-is-a-forthcomi>
 
 ---
 

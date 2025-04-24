@@ -1,11 +1,65 @@
 ---
 title: food
-updated: 2025-04-23 14:08:33
+updated: 2025-04-24 06:07:23
 ---
 
 # food
 
-(date: 2025-04-23 14:08:33)
+(date: 2025-04-24 06:07:23)
+
+---
+
+## Baratza Announces The All-New Encore ESP Pro Grinder
+
+date: 2025-04-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Baratza Encore ESP Pro will debut at the SCA Expo this weekend in Houston, Texas. 
+
+<br> 
+
+<https://sprudge.com/baratza-announces-the-all-new-encore-esp-pro-grinder-321864.html>
+
+---
+
+## Frameworks for Using AI in Coffee Shops with Melissa Villanueva of Brewpoint Coffee
+
+date: 2025-04-24, from: The Fresh Cup
+
+<p>On the latest episode of the Coffee Think Tank Podcast, Melissa Villanueva shares how she strategically uses AI tools while preserving the humanity of her business.</p>
+<p>The post <a href="https://freshcup.com/frameworks-for-using-ai-in-coffee-shops-with-melissa-villanueva-of-brewpoint-coffee/">Frameworks for Using AI in Coffee Shops with Melissa Villanueva of Brewpoint Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/frameworks-for-using-ai-in-coffee-shops-with-melissa-villanueva-of-brewpoint-coffee/>
+
+---
+
+## Ceado Reveals Rev, a Flagship Series of Commercial Espresso Grinders
+
+date: 2025-04-24, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ceado Rev Series grinders 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-1536x1024.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1.jpg 1860w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian grinder maker Ceado just introduced a flagship line of commercial espresso grinders under the series name Rev (styled &#8220;REV&#8221; by the company).&#160; The new machines — called Rev Steel,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/24/ceado-reveals-rev-a-flagship-series-of-commercial-espresso-grinders/>
+
+---
+
+## Cheesy Ground Chicken Fajita Pasta
+
+date: 2025-04-24, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/04/Cheesy-Ground-Chicken-Fajita-Pasta-1200-2898.jpg"/></div>
+<p>All of the flavours of chicken fajitas in a simple and tasty pasta that&#8217;s cooked in one pan and topped with plenty of melted cheese! Chicken fajitas are one of my favorite meals and this one-pan pasta version with its cheesy sauce is even better than the original! The recipe starts out with cooking ground...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/cheesy-ground-chicken-fajita-pasta/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/cheesy-ground-chicken-fajita-pasta/">Cheesy Ground Chicken Fajita Pasta</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/cheesy-ground-chicken-fajita-pasta/>
 
 ---
 
@@ -75,7 +129,7 @@ date: 2025-04-23, from: The Sprudge
 
 date: 2025-04-23, from: Daily Coffee News
 
-<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg" class="attachment-large size-large wp-post-image" alt="neuhaus neotec gourmet" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-150x111.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>German industrial roasting systems maker Neuhaus Neotec recently introduced three new industrial hot-air roasting machines under the Gourmet series name. The three new models are: the Gourmet 1000, which roasts... 
+<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg" class="attachment-large size-large wp-post-image" alt="neuhaus neotec gourmet" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-150x111.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>German industrial roasting systems maker Neuhaus Neotec recently introduced three new industrial hot-air roasting machines under the Gourmet series name. The three new models are: the Gourmet 1000, which roasts... 
 
 <br> 
 
@@ -123,7 +177,7 @@ On this episode of Dinner SOS, Chris and Shilpa talk about all things spring coo
 
 date: 2025-04-23, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Service Layer Coperative" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A grassroots network of coffee equipment technicians has formed a first-of-its kind cooperative called the Service Layer Cooperative (SLC), focusing on providing coffee businesses throughout the United States with reliable,... 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Service Layer Coperative" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Service-Layer-Coperative.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A grassroots network of coffee equipment technicians has formed a first-of-its kind cooperative called the Service Layer Cooperative (SLC), focusing on providing coffee businesses throughout the United States with reliable,... 
 
 <br> 
 

@@ -1,11 +1,51 @@
 ---
 title: going electric
-updated: 2025-04-23 14:08:32
+updated: 2025-04-24 06:07:23
 ---
 
 # going electric
 
-(date: 2025-04-23 14:08:32)
+(date: 2025-04-24 06:07:23)
+
+---
+
+## Cadillac Teases Optiq-V Performance Electric Crossover
+
+date: 2025-04-24, from: Inside EVs News
+
+Yes, another tall premium EV is getting a boatload of power. 
+
+<br> 
+
+<https://insideevs.com/news/757596/cadillac-optiq-v-performance-ev/>
+
+---
+
+## Stellantis Validates Game-Changing Solid-State Battery After 'Production Hell'
+
+date: 2025-04-24, from: Inside EVs News
+
+The pack will be installed in a demonstration fleet of the Dodge Charger Daytona in 2026. 
+
+<br> 
+
+<https://insideevs.com/news/757542/stellantis-factorial-solid-state-ev-battery/>
+
+---
+
+## InMotion launches new 28 MPH electric unicycle with air suspension
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/inmotion-v9-electric-unicycle-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>InMotion, a well-known brand in the world of personal electric mobility, has officially launched its latest electric unicycle, the InMotion V9. Combining advanced technology and new safety features, the V9’s design positions this electric unicycle as a key option for urban commuters and adventure seekers alike who want good performance without spending a fortune.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-unicycle" data-layer-viewtype="unknown" data-post-id="412606" href="https://electrek.co/2025/04/24/inmotion-launches-new-28-mph-electric-unicycle-with-air-suspension/#more-412606" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/inmotion-launches-new-28-mph-electric-unicycle-with-air-suspension/>
 
 ---
 
@@ -229,7 +269,7 @@ date: 2025-04-23, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="412489" href="https://electrek.co/2025/04/23/tenways-launches-its-carry-the-whole-family-cargo-e-bike-in-the-us/#more-412489" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412489" href="https://electrek.co/2025/04/23/tenways-launches-its-carry-the-whole-family-cargo-e-bike-in-the-us/#more-412489" class="more-link">more…</a> 
 
 <br> 
 

@@ -1,11 +1,188 @@
 ---
 title: small papers
-updated: 2025-04-23 14:08:33
+updated: 2025-04-24 06:07:24
 ---
 
 # small papers
 
-(date: 2025-04-23 14:08:33)
+(date: 2025-04-24 06:07:24)
+
+---
+
+## La Hermana de Oscar Omar Hernández Habla Sobre Su Trágica Muerte y Próximo Juicio
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="931" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?fit=1024%2C931&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?w=1765&amp;ssl=1 1765w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=300%2C273&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=1024%2C931&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=768%2C698&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=1536%2C1396&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=1200%2C1091&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=780%2C709&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=400%2C364&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?resize=706%2C642&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Oscar-Omar-Fundraising-pic_elsol.jpg?fit=1024%2C931&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para Alejandra Hernández y su familia, el último mes ha sido un torbellino caótico, desde el dolor inimaginable de perder al querido niño de la familia, Oscar Omar Hernández, de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/la-hermana-de-oscar-omar-hernandez-habla-sobre-su-tragica-muerte-y-proximo-juicio/">La Hermana de Oscar Omar Hernández Habla Sobre Su Trágica Muerte y Próximo Juicio</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/la-hermana-de-oscar-omar-hernandez-habla-sobre-su-tragica-muerte-y-proximo-juicio/>
+
+---
+
+## Las Autoridades Continúan Buscando a Otras Posibles Víctimas de Mario Edgardo García Aquino
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="532" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?fit=1024%2C532&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?w=1400&amp;ssl=1 1400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?resize=300%2C156&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?resize=1024%2C532&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?resize=768%2C399&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?resize=1200%2C623&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?resize=780%2C405&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?resize=400%2C208&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?resize=706%2C367&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/mario-edgardo-garcia-aquino-mugshot_el-sol.jpg?fit=1024%2C532&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Las autoridades están alentando a cualquier otra posible víctima del entrenador de fútbol que fue acusado de asesinato en primer grado por la muerte de Oscar Omar Hernández a que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/las-autoridades-continuan-buscando-a-otras-posibles-victimas-de-mario-edgardo-garcia-aquino/">Las Autoridades Continúan Buscando a Otras Posibles Víctimas de Mario Edgardo García Aquino</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/las-autoridades-continuan-buscando-a-otras-posibles-victimas-de-mario-edgardo-garcia-aquino/>
+
+---
+
+## Horóscopo
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Con el tipo correcto de planificación, puedes ser una potencia. Asegúrate de incluir descansos y relajación. Esforzarse sin [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/horoscopo-211/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/horoscopo-211/>
+
+---
+
+## EVENTOS Locales – Semana de 24 de marzo, 2025
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Abril 25 ¡Revisión Gratuita del Asiento de Seguridad! Sylmar &#8211; 25 de Abril de 2025 Child Care Resource Center 13100 Telfair Ave. Sylmar 10:30 a.m. – 11 a.m. Revise [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/eventos-locales-semana-de-24-de-marzo-2025/">EVENTOS Locales &#8211; Semana de 24 de marzo, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/eventos-locales-semana-de-24-de-marzo-2025/>
+
+---
+
+## Padilla Exige Respuestas Después de que Funcionarios de Inmigración Intentaron Ingresar a Escuelas Primarias de Los Ángeles
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Los senadores estadounidenses Alex Padilla y Adam Schiff exigen respuestas de la administración del presidente Donald Trump después de que agentes de la Oficina de Investigaciones de Seguridad Nacional (HSI, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/padilla-exige-respuestas-despues-de-que-funcionarios-de-inmigracion-intentaron-ingresar-a-escuelas-primarias-de-los-angeles/">Padilla Exige Respuestas Después de que Funcionarios de Inmigración Intentaron Ingresar a Escuelas Primarias de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/padilla-exige-respuestas-despues-de-que-funcionarios-de-inmigracion-intentaron-ingresar-a-escuelas-primarias-de-los-angeles/>
+
+---
+
+## El Concejo Municipal de San Fernando Aprueba por Unanimidad una Resolución para Proteger a los Inmigrantes
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="516" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?fit=1024%2C516&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=1024%2C516&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=768%2C387&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=1536%2C773&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=1200%2C604&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=780%2C393&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=400%2C201&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?resize=706%2C355&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_6598-1-scaled-e1745470326195.jpeg?fit=1024%2C516&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dos semanas después de rechazar (3-2) una designación de “ciudad santuario” y una moción para redactar leyes que aclaren la política de la ciudad con respecto a la aplicación de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/el-concejo-municipal-de-san-fernando-aprueba-por-unanimidad-una-resolucion-para-proteger-a-los-inmigrantes/">El Concejo Municipal de San Fernando Aprueba por Unanimidad una Resolución para Proteger a los Inmigrantes</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/el-concejo-municipal-de-san-fernando-aprueba-por-unanimidad-una-resolucion-para-proteger-a-los-inmigrantes/>
+
+---
+
+## LA vs Hate Lanza una Nueva Campaña para Promover la Unidad en las Zonas Afectadas por el Odio
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/DSC01749.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Después de publicar un informe a principios de este mes que detalla un aumento en los incidentes de odio en el condado de Los Ángeles en 2023, la Comisión de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/la-vs-hate-lanza-una-nueva-campana-para-promover-la-unidad-en-las-zonas-afectadas-por-el-odio/">LA vs Hate Lanza una Nueva Campaña para Promover la Unidad en las Zonas Afectadas por el Odio</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/la-vs-hate-lanza-una-nueva-campana-para-promover-la-unidad-en-las-zonas-afectadas-por-el-odio/>
+
+---
+
+## Brownley Denuncia los Ataques de Trump y los Republicanos a la Seguridad Social
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_4367-scaled-e1745469611642.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_4367-scaled-e1745469611642.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_4367-scaled-e1745469611642.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_4367-scaled-e1745469611642.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_4367-scaled-e1745469611642.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La congresista Julia Brownley y los residentes que sostienen carteles de protesta frente a la oficina del Seguro Social de Thousand Oaks el lunes 21 de abril, denuncian lo que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/brownley-denuncia-los-ataques-de-trump-y-los-republicanos-a-la-seguridad-social/">Brownley Denuncia los Ataques de Trump y los Republicanos a la Seguridad Social</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/brownley-denuncia-los-ataques-de-trump-y-los-republicanos-a-la-seguridad-social/>
+
+---
+
+## Los Defensores del Ciclismo Lamentan el Lento Progreso de las Mejoras de Seguridad en Griffith Park
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250419_SAFE_Andy-Memorial_0196-scaled-e1745469464752.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250419_SAFE_Andy-Memorial_0196-scaled-e1745469464752.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250419_SAFE_Andy-Memorial_0196-scaled-e1745469464752.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250419_SAFE_Andy-Memorial_0196-scaled-e1745469464752.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250419_SAFE_Andy-Memorial_0196-scaled-e1745469464752.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Después del trágico asesinato del ciclista Andrew Jelmert, de 77 años, quien fue atropellado por un conductor ebrio que iba a 80 millas por hora en Griffith Park en abril [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/los-defensores-del-ciclismo-lamentan-el-lento-progreso-de-las-mejoras-de-seguridad-en-griffith-park/">Los Defensores del Ciclismo Lamentan el Lento Progreso de las Mejoras de Seguridad en Griffith Park</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/los-defensores-del-ciclismo-lamentan-el-lento-progreso-de-las-mejoras-de-seguridad-en-griffith-park/>
+
+---
+
+## Exhibición de Artes Visuales Estudiantiles en el Museo Autry Contará con Artistas Estudiantiles Locales
+
+date: 2025-04-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=2000%2C3000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=780%2C1170&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Student-Art-Exhibit-02-scaled.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Estudiantes artistas de 33 escuelas del sur de California, incluidas varias del Valle de San Fernando, darán a conocer sus creaciones únicas en la novena Exposición Anual de Artes Visuales [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/23/exhibicion-de-artes-visuales-estudiantiles-en-el-museo-autry-contara-con-artistas-estudiantiles-locales/">Exhibición de Artes Visuales Estudiantiles en el Museo Autry Contará con Artistas Estudiantiles Locales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/23/exhibicion-de-artes-visuales-estudiantiles-en-el-museo-autry-contara-con-artistas-estudiantiles-locales/>
+
+---
+
+## Long Beach-Los Angeles region tops list of nation’s smoggiest areas, Lung Association says
+
+date: 2025-04-23, from: Long Beach Post
+
+<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Our region was found to have the worst ozone, or smog, pollution in the country, according to the annual ranking.</p>
+<p>The post <a href="https://lbpost.com/news/smog-long-beach-region-lung-association">Long Beach-Los Angeles region tops list of nation’s smoggiest areas, Lung Association says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/smog-long-beach-region-lung-association>
+
+---
+
+## City Council wants a new plan to fight persistent prostitution in North Long Beach
+
+date: 2025-04-23, from: Long Beach Post
+
+<figure><img width="1024" height="500" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-300x147.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-768x375.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-400x195.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The continued presence of sex work and trafficking along the northern part of Long Beach Boulevard has plagued schools, businesses and residents.</p>
+<p>The post <a href="https://lbpost.com/news/city/prostitution-human-trafficking-north-long-beach-boulevard">City Council wants a new plan to fight persistent prostitution in North Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/prostitution-human-trafficking-north-long-beach-boulevard>
 
 ---
 
@@ -13,7 +190,7 @@ updated: 2025-04-23 14:08:33
 
 date: 2025-04-23, from: Long Beach Post
 
-<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1536x1152.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-2048x1536.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1320x990.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1536x1152.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-2048x1536.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1320x990.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Using a gun safe to store firearms reduces the risk of accidental injuries and fatalities, particularly among children,” the city’s chief health officer said.</p>
 <p>The post <a href="https://lbpost.com/news/health/free-gun-safes-long-beach-accidental-firearm-deaths">Long Beach is giving away free gun safes to help prevent accidental firearm deaths</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +205,7 @@ date: 2025-04-23, from: Long Beach Post
 
 date: 2025-04-23, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Five facilities near schools and houses in LA County fumigate produce shipped from overseas with methyl bromide. But the air agency doesn’t plan to monitor the air or take any immediate steps to protect people from the gas, which can damage lungs and cause neurological effects.</p>
 <p>The post <a href="https://lbpost.com/news/health/these-communities-are-unaware-theyve-lived-near-toxic-gas-for-decades-why-has-no-action-been-taken">These communities are unaware they’ve lived near toxic gas for decades. Why has no action been taken?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

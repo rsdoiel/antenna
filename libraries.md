@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-23 14:08:30
+updated: 2025-04-24 06:07:21
 ---
 
 # libraries
 
-(date: 2025-04-23 14:08:30)
+(date: 2025-04-24 06:07:21)
+
+---
+
+## Rubber Ducking For Research Communication: Why Explaining to Nobody Helps You Explain to Anybody
+
+date: 2025-04-24, from: Scholarly Kitchen
+
+<p>Explaining research to a rubber duck might sound odd, but it could be the secret to clearer thinking and better communication. This post explores how "rubber ducking" -- a technique borrowed from programming -- can help researchers explain complex ideas with more clarity, creativity, and confidence.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/24/rubber-ducking-for-research-communication-why-explaining-to-nobody-helps-you-explain-to-anybody/">Rubber Ducking For Research Communication: Why Explaining to Nobody Helps You Explain to Anybody</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/24/rubber-ducking-for-research-communication-why-explaining-to-nobody-helps-you-explain-to-anybody/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-04-23 14:08:30
 
 date: 2025-04-23, from: Association of Research Libraries News
 
-<p>Last Updated on April 23, 2025, 11:47 am ET ARL Monitor: Public Edition (Spring 2025) Coming Thursday, April 24</p>
+<p>Last Updated on April 24, 2025, 6:59 am ET ARL Monitor: Public Edition (Spring 2025) In this issue: Government Affairs What the Attack on IMLS Means for ARL Where US...</p>
 <p>The post <a href="https://www.arl.org/our-priorities/scholars-scholarship/arl-monitor/spring-2025/">Spring 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

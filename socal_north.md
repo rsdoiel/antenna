@@ -1,11 +1,125 @@
 ---
 title: socal north
-updated: 2025-04-23 14:08:25
+updated: 2025-04-24 06:07:15
 ---
 
 # socal north
 
-(date: 2025-04-23 14:08:25)
+(date: 2025-04-24 06:07:15)
+
+---
+
+## How a former Beverly Hills student journalist named Journalism, the Kentucky Derby racehorse
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+The horse with the newsy name recently won the Santa Anita Derby and is seen as a favorite to win the Kentucky Derby next month. 
+
+<br> 
+
+<https://laist.com/news/journalism-horse-name-santa-anita-kentucky-derby-beverly-hills-high-school-newspaper>
+
+---
+
+## Fog and drizzle in SoCal before warmer weather arrives next week
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+Expect cooler weather today for most areas, with partly cloudy skies. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cloudy-morning-will-turn-into-mostly-sunny-day>
+
+---
+
+## 2025 California Climate Action Corps Fellowship Funding Opportunity
+
+date: 2025-04-23, from: CalVolunteers
+
+Published: April 23, 2025 &#124; Application Due Date: May 21, 2025 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/2025-california-climate-action-corps-fellowship-funding-opportunity/>
+
+---
+
+## Applying to community college? The state has a new plan to get you financial aid
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+California wants to make sure community college students don’t leave money on the table. 
+
+<br> 
+
+<https://laist.com/news/education/csac-california-community-college-financial-aid-partnership>
+
+---
+
+## The update is there is no update — delays continue for Metro subsidy experiment
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+The wait continues for 2,000 people accepted into the Metro Mobility Wallet program granting them $1,800 to spend over the course of a year on bus, rail and other transit options. 
+
+<br> 
+
+<https://laist.com/news/transportation/delays-continue-for-metro-mobility-wallet>
+
+---
+
+## Long Beach-Los Angeles region tops list of nation’s smoggiest areas, Lung Association says
+
+date: 2025-04-23, from: Longbeach Post
+
+<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Our region was found to have the worst ozone, or smog, pollution in the country, according to the annual ranking.</p>
+<p>The post <a href="https://lbpost.com/news/smog-long-beach-region-lung-association">Long Beach-Los Angeles region tops list of nation’s smoggiest areas, Lung Association says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/smog-long-beach-region-lung-association>
+
+---
+
+## City Council wants a new plan to fight persistent prostitution in North Long Beach
+
+date: 2025-04-23, from: Longbeach Post
+
+<figure><img width="1024" height="500" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-300x147.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-768x375.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-400x195.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The continued presence of sex work and trafficking along the northern part of Long Beach Boulevard has plagued schools, businesses and residents.</p>
+<p>The post <a href="https://lbpost.com/news/city/prostitution-human-trafficking-north-long-beach-boulevard">City Council wants a new plan to fight persistent prostitution in North Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/prostitution-human-trafficking-north-long-beach-boulevard>
+
+---
+
+## Want to know how much you paid for LA city services this year? Try our calculator
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+Get your personal tax receipt for the city's spending. 
+
+<br> 
+
+<https://laist.com/news/politics/want-to-know-how-much-you-paid-for-la-city-services-this-year-try-our-calculator>
+
+---
+
+## Irvine’s massive Great Park could get a system of gondolas to ferry visitors around
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+The proposed project is in its infancy and still has to clear concerns raised by City Council members. 
+
+<br> 
+
+<https://laist.com/news/transportation/irvines-massive-great-park-could-get-a-system-of-gondolas-to-ferry-visitors-around>
 
 ---
 
@@ -49,7 +163,7 @@ L.A. resident Samuel Patrick Groft was taken into custody Tuesday on suspicion o
 
 date: 2025-04-23, from: Longbeach Post
 
-<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1536x1152.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-2048x1536.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1320x990.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1536x1152.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-2048x1536.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/09/10125013/Bonta-3-1320x990.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Using a gun safe to store firearms reduces the risk of accidental injuries and fatalities, particularly among children,” the city’s chief health officer said.</p>
 <p>The post <a href="https://lbpost.com/news/health/free-gun-safes-long-beach-accidental-firearm-deaths">Long Beach is giving away free gun safes to help prevent accidental firearm deaths</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -60,7 +174,7 @@ date: 2025-04-23, from: Longbeach Post
 
 ---
 
-## Harvey Weinstein is on trial again. Opening arguments start Wednesday
+## Harvey Weinstein's trial is underway in Manhattan
 
 date: 2025-04-23, updated: 2025-04-23, from: The LAist
 
@@ -88,7 +202,7 @@ The Department of Education says it will resume collections on May 5 and send wa
 
 date: 2025-04-23, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23081931/040925-methyl-bromide-jaj-cm-20-935417-3z4timil-780655-v2VVN9hf.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Five facilities near schools and houses in LA County fumigate produce shipped from overseas with methyl bromide. But the air agency doesn’t plan to monitor the air or take any immediate steps to protect people from the gas, which can damage lungs and cause neurological effects.</p>
 <p>The post <a href="https://lbpost.com/news/health/these-communities-are-unaware-theyve-lived-near-toxic-gas-for-decades-why-has-no-action-been-taken">These communities are unaware they’ve lived near toxic gas for decades. Why has no action been taken?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

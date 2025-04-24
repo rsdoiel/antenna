@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2025-04-23 14:08:32
+updated: 2025-04-24 06:07:22
 ---
 
 # health
 
-(date: 2025-04-23 14:08:32)
+(date: 2025-04-24 06:07:22)
+
+---
+
+## Microphysiological gut-on-chip enables extended in vitro development of Cryptosporidium hominis
+
+date: 2025-04-24, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionCryptosporidium hominis is the dominant Cryptosporidium species infecting humans, but most advances in developing robust in vitro culturing platforms for Cryptosporidium have utilised C. parvum. Consequently, there is relatively little available information specific to the biology and life cycle of C. hominis. The present study utilised a pumpless and tubeless gut-on-chip to generate a physiologically relevant in vitro environment by applying a constant fluid shear stress of 0.02 dyn cm-2 to HCT-8 cells. MethodsGut-on-chips were fabricated using standard soft lithography. C. hominis oocysts isolated from human pathology samples were used to infect the human ileocecal colorectal adenocarcinoma (HCT-8) cell line under a constant fluid shear stress of 0.02 dyn cm-2. Parasite growth was assessed using a C. hominis-specific quantitative PCR, a Cryptosporidium genus-specific immunofluorescence assay, and scanning electron microscopy. Differences in the HCT-8 transcriptome with and without fluid shear stress, and the host-parasite interaction, were both assessed using bulk transcriptomics.ResultsTranscriptomic analysis of the HCT-8 cell line cultured within the gut-on-chip demonstrated a metabolic shift towards oxidative phosphorylation when compared to the same cell line cultured under static conditions. Extended C. hominis (subtype IdA15G1) cultures were sustained for up to 10 days within the gut-on-chip as shown by a C. hominis-specific qPCR and a Cryptosporidium genus-specific immunofluorescence assay, which demonstrated ~30-fold amplification in the gut-on-chip over the duration of the experiment. Scanning electron microscopy of infected monolayers identified trophozoites, meronts, merozoites, macrogamonts, microgamonts, and possible gamont-like stages at 48 h post-infection. The potential role of gamonts in the Cryptosporidium life cycle remains unclear and warrants further investigation. Transcriptomes of HCT-8 cells infected with C hominis revealed upregulation of biological processes associated with cell cycle regulation and cell signalling in C. hominis-infected cells under fluid shear stress compared to static culture. ConclusionsThese data demonstrate that bioengineered gut-on-chip models support extended C. hominis growth and can be used to interrogate responses of host cells to infection. Owing to its relative simplicity, the pumpless and tubeless gut-on-chip can be accessible to most laboratories with established HCT-8 infection models for Cryptosporidium culture. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1564806>
 
 ---
 

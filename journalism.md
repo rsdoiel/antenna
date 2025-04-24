@@ -1,11 +1,106 @@
 ---
 title: journalism
-updated: 2025-04-23 14:08:29
+updated: 2025-04-24 06:07:20
 ---
 
 # journalism
 
-(date: 2025-04-23 14:08:29)
+(date: 2025-04-24 06:07:20)
+
+---
+
+## USC prepares for NFL Draft
+
+date: 2025-04-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/24/usc-prepares-for-nfl-draft/">USC prepares for NFL Draft</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/24/usc-prepares-for-nfl-draft/>
+
+---
+
+## Student Health gives E. coli prevention tips
+
+date: 2025-04-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Influenza and coronavirus are “pretty much” gone at USC.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/24/student-health-gives-e-coli-prevention-tips/">Student Health gives E. coli prevention tips</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/24/student-health-gives-e-coli-prevention-tips/>
+
+---
+
+## ‘Ghosts of USC: The Wedding’ asks if it really is til death do us part
+
+date: 2025-04-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With unwilling nuptials, restless spirits and a cast of oddball relatives, the theater experience’s ending is up to the audience.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/24/ghosts-of-usc-the-wedding-asks-if-it-really-is-til-death-do-us-part/">‘Ghosts of USC: The Wedding’ asks if it really is til death do us part</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/24/ghosts-of-usc-the-wedding-asks-if-it-really-is-til-death-do-us-part/>
+
+---
+
+## Senior creates mutual-based dating app
+
+date: 2025-04-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Cerca uses mutual contacts to match users together.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/24/senior-creates-mutual-based-dating-app/">Senior creates mutual-based dating app</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/24/senior-creates-mutual-based-dating-app/>
+
+---
+
+## Katy Perry’s ‘E.T.’ takes on a whole new meaning
+
+date: 2025-04-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>One small step for Katy Perry is one big step for carbon emissions.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/24/katy-perrys-e-t-takes-on-a-whole-new-meaning/">Katy Perry’s ‘E.T.’ takes on a whole new meaning</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/24/katy-perrys-e-t-takes-on-a-whole-new-meaning/>
+
+---
+
+## CSUN Opera showcases two classic opera performances
+
+date: 2025-04-24, from: The Sundail (CSUN Student Newspaper)
+
+The Shigemi Matsumoto Recital Hall slowly filled with people waiting to see “The Threepenny Opera” and “The Old Maid &#38; The Thief” by the CSUN Department of Music. The opera... 
+
+<br> 
+
+<https://sundial.csun.edu/193125/arts-entertainment/csun-opera-showcases-two-classic-opera-performances/>
+
+---
+
+## Kemp Lecturer Tom Nichols outlines the death of expertise and how to fix it
+
+date: 2025-04-24, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Tom Nichols, author of &#8220;The Death of Expertise&#8220;, gave a talk in Choi Auditorium April 8 as the 2025 Jack Kemp &#8217;57 Distinguished Lecturer, where he outlined his book and argued that the U.S. population’s deep resentment of expert knowledge is helping erode democratic institutions. “I think that the general lack of trust in experts [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/04/23/kemp-lecturer-tom-nichols-outlines-the-death-of-expertise-and-how-to-fix-it/2915156">Kemp Lecturer Tom Nichols outlines the death of expertise and how to fix it</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/04/23/kemp-lecturer-tom-nichols-outlines-the-death-of-expertise-and-how-to-fix-it/2915156>
 
 ---
 
@@ -283,6 +378,175 @@ Bareilles, who graduated from UCLA with a bachelor’s degree in communication i
 <br> 
 
 <https://dailybruin.com/2025/04/22/grammy-winning-alumnus-sara-bareilles-to-be-2025-ucla-college-commencement-speaker/>
+
+---
+
+## Caltech Joins Federal Lawsuit Over DOE Grant Funding Cuts
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+On April 14, Caltech joined eight other American research universities in filing a lawsuit against the Department of Energy (DOE). The lawsuit seeks a temporary restraining order to block DOE’s decision to cap the indirect cost rate on all academic grants at 15%. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/caltech-doe-lawsuit/>
+
+---
+
+## Caltech President Thomas Rosenbaum Announces Retirement
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+Caltech President and Professor of Physics Thomas Rosenbaum will retire from Caltech and assume emeritus status at the end of the 2026 academic year, according to a campus-wide announcement delivered last Monday. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/caltech-president-retirement/>
+
+---
+
+## Caltech Wildlife: Bird Immigrants
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+Pasadena alone has a surprising number of foreign bird species. Look closely and you can spot these feathered visitors daily at Caltech—including some that are endangered. This week’s wildlife column is about these special bird immigrants. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/caltech-wildlife-bird-immigrants/>
+
+---
+
+## Courses That Don't Suck
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+Here are some classes I found fun, even if they’re not everyone’s idea of a “good class.” While most of the Core and other courses are designed just to introduce the fundamentals of a subject, the ones below stood out for being especially engaging. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/courses-that-dont-suck/>
+
+---
+
+## Dropbox
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+Everyday I pass it. A giant metal box with yellow, white, and blue. You can’t miss it. It sits there. Visible. But no one takes it away. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/dropbox/>
+
+---
+
+## Every Game Shown in the March Nintendo Direct and How Excited I Am
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+What it says on the tin. Includes: Dragon Quest! AI: The Somnium Files! <em>Rhythm Heaven!</em> 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/nintendo-direct-rankings/>
+
+---
+
+## I'm Still Here
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+<i>I&rsquo;m Still Here</i> is a 2024 Brazilian historical drama that won Best International and was nominated for Best Picture and Best Actress in a Leading Role at this year’s 97th Academy Awards.
+It is set in the 1970s, in Rio de Janeiro, during the dictatorship that lasted 20 years in Brazil. The story portrays a beautiful family consisting of Rubens Paiva (played by Selton Mello), Eunice Paiva (played by Fernanda Torres), and their five children. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/im-still-here/>
+
+---
+
+## IYQ 2025: Caltech’s Role in 100 Years of Quantum Mechanics
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+This year marks a century since the establishment of quantum mechanics as a formal discipline&hellip; Significantly, Caltech played an essential role in expanding quantum theories, leading innovations, and expanding the possibilities of what science can be achieved. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/iyq-2025/>
+
+---
+
+## Letter to My Coach
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+Today, I want to talk about a figure that we too often take for granted: coaches, instructors, guides who surround us and who, in one way or another, transform our lives. They are like sculptors who, with patience and dedication, shape the clay that we are, smoothing the edges with the chisel and helping us find a shape that we often cannot see on our own. And yet, we never thank them enough. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/letter-to-coach/>
+
+---
+
+## My Dream Lab: How AI Transformed My Self-Analysis
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+I analyzed my dreams for two years using AI, and this is my testimony. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/dream-lab/>
+
+---
+
+## The Day I Died
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+I died, and it wasn&rsquo;t from pain, or old age, or illness. I died, and it wasn&rsquo;t from mourning, from ending, from longing, from joy. I died, and it wasn&rsquo;t sadness, hate, work. I died, and it wasn&rsquo;t in past lives or future lives. I died, and it wasn&rsquo;t from anguish, loneliness, bitterness. I died! I died of being me. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/the-day-i-died/>
+
+---
+
+## The Three Pillars of the Eleatic School
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+Connecting three philosophers that created a specific school of thought in Magna Grecia. The Mediterranean sun hung low over the horizon, casting long shadows across the olive groves&hellip; 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/philosophy-eleatic-school/>
+
+---
+
+## TS PMO: Places You Shouldn't Be
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+There’s a lot of places around campus that no one has any reason to be at. However, the Google Maps algorithm somehow manages to place them all near the top of whatever category you select. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/places-you-shouldnt-be/>
+
+---
+
+## Volunteering for Change: A Day with Caltech Y at Friends in Deed
+
+date: 2025-04-22, from: California Tech (Caltech Student Newspaper)
+
+On April 12, 2025, members of the Caltech community gathered for the annual &ldquo;Make a Difference Day&rdquo; event organized by the Caltech Y. This article explores one volunteer team&rsquo;s day at Friends in Deed, a local nonprofit food pantry in Pasadena, highlighting their community impact and personal growth through service. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/22/volunteering-for-change/>
 
 ---
 

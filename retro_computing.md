@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-23 14:08:32
+updated: 2025-04-24 06:07:22
 ---
 
 # retro computing
 
-(date: 2025-04-23 14:08:32)
+(date: 2025-04-24 06:07:22)
+
+---
+
+## April developer 'fireside' chat on saturday night
+
+date: 2025-04-24, from: Icon Bar, RISC OS News
+
+The next 'fireside' chat of 2025 is on 26th April (this saturday). 7:30pm UK time kick-off and the event is on Zoom. As always, stay for as long or as short a time as you like. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2177.html>
+
+---
+
+## Vote for the April 2025 + Post Topic
+
+date: 2025-04-23, from: Computer ads from the Past
+
+Poll will only be live for 3 days, so vote while you can. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-april-2025-post-topic>
 
 ---
 

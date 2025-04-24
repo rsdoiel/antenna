@@ -1,11 +1,121 @@
 ---
 title: home
-updated: 2025-04-23 14:08:31
+updated: 2025-04-24 06:07:21
 ---
 
 # home
 
-(date: 2025-04-23 14:08:31)
+(date: 2025-04-24 06:07:21)
+
+---
+
+## How to Grow Rosemary in Pots and Containers
+
+date: 2025-04-24, from: The Gardener's Path
+
+<p>Bring the pungent evergreen foliage of rosemary onto your deck or patio by growing it in containers. If you don't have room in your garden, this versatile, easycare herb grows happily in pots and planters and provides ornamental interest in addition to its culinary uses. Learn how to grow rosemary in containers now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-rosemary-containers/">How to Grow Rosemary in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-rosemary-containers/>
+
+---
+
+## Eggplant Spacing: How Far Apart to Plant
+
+date: 2025-04-24, from: The Gardener's Path
+
+<p>Eggplant spacing might seem straightforward, but once you dive into the world of aubergines you’ll realize the plants come in a few different sizes. Even more intriguing, eggplants can be grown as short-lived perennials and the spacing requirements change accordingly. To find out everything you need to know, read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/eggplant-spacing/">Eggplant Spacing: How Far Apart to Plant</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/eggplant-spacing/>
+
+---
+
+## How to Plant and Grow Feverfew: A Medicinal and Visual Delight
+
+date: 2025-04-24, from: The Gardener's Path
+
+<p>Widely considered by herbalists to be a natural remedy for headaches, feverfew also happens to be an attractive landscaping plant. With white and yellow daisy-like flowers atop green feathery stems, this colorful herb is a fantastic addition to the garden. Learn how to plant and grow feverfew in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/how-to-grow-feverfew/">How to Plant and Grow Feverfew: A Medicinal and Visual Delight</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/how-to-grow-feverfew/>
+
+---
+
+## These Are the Best Mother’s Day Gifts to Give This Year
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+Mother's Day is around the corner, so what are you gettting the mom, grandma, or mother figure in your life? This list can help. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/mothers-day-gifts>
+
+---
+
+## How to Deadhead Fuchsia Flowers
+
+date: 2025-04-24, from: The Gardener's Path
+
+<p>If you want to keep your fuchsias looking fabulous, you need to know how to deadhead them the right way. While the flowers fall on their own, they leave behind seed pods that may signal the plant to stop producing blossoms. This guide will help you prevent that from happening so you can keep enjoying the colorful show.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/fuchsia-deadheading/">How to Deadhead Fuchsia Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/fuchsia-deadheading/>
+
+---
+
+## Should You Buy a Car Now? How Tariffs Could Impact Your Decision
+
+date: 2025-04-23, from: Family Handyman Blog
+
+<p>The question of whether you should buy a car right now is a popular one as concern grows over rising costs due to the recent implementation of tariffs.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/is-it-a-good-time-to-buy-a-car/">Should You Buy a Car Now? How Tariffs Could Impact Your Decision</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/is-it-a-good-time-to-buy-a-car/>
+
+---
+
+## The Dos and Don’ts of Siphoning Fluids
+
+date: 2025-04-23, from: Family Handyman Blog
+
+<p>Transferring fluids by siphoning seems straightforward, but you can definitely do it wrong. Here are expert tips for doing it the right way.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-siphon-fluids/">The Dos and Don&#8217;ts of Siphoning Fluids</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-siphon-fluids/>
+
+---
+
+## You Won’t Believe What Americans Keep Flushing Down the Toilet
+
+date: 2025-04-23, from: Family Handyman Blog
+
+<p>Knowing what items should not be flushed down the toilet can save homeowners from costly emergency plumbing repairs.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/commonly-flushed-items/">You Won’t Believe What Americans Keep Flushing Down the Toilet</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/commonly-flushed-items/>
 
 ---
 
@@ -32,6 +142,18 @@ On Earth Day yesterday, CDFA Secretary Karen Ross joined Governor Gavin Newsom a
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28908>
+
+---
+
+## Celebrate National Arbor Day by Admiring These Absolutely Iconic Trees of the West
+
+date: 2025-04-23, from: Sunset Magazine - Living in the West
+
+From the redwoods of California to the Koa trees of Hawaii, National Arbor Day is the perfect time to celebrate the trees of the West. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/trees-of-the-west>
 
 ---
 
@@ -446,6 +568,18 @@ Artwork has the power to pull a whole room together and add some interest. We go
 <br> 
 
 <https://www.sunset.com/home-garden/design/how-to-hang-a-gallery-wall>
+
+---
+
+## It’s Peak Strawberry Season—Here’s How to Make the Most of It
+
+date: 2025-04-21, from: Sunset Magazine - Living in the West
+
+While you can get strawberries year-round, the best time to enjoy the fruit is spring and summer. Try these strawberry recipes this season. 
+
+<br> 
+
+<https://www.sunset.com/strawberry-recipes>
 
 ---
 

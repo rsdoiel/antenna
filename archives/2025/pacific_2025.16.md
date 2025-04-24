@@ -1,11 +1,343 @@
 ---
 title: pacific
-updated: 2025-04-23 14:08:26
+updated: 2025-04-24 06:07:16
 ---
 
 # pacific
 
-(date: 2025-04-23 14:08:26)
+(date: 2025-04-24 06:07:16)
+
+---
+
+## More than 3,000 children in Palau approved for $200 annual subsidy
+
+date: 2025-04-24, updated: 2025-04-24, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — More than 3,000 children in Palau have been approved to receive the annual child-raising subsidy, according to Vice President and Minister of Health and Human Services Raynold Oilouch. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/more-than-3-000-children-in-palau-approved-for-200-annual-subsidy/article_a7d3875e-6cab-420f-9324-d8f34fc79a0a.html>
+
+---
+
+## ʻImiloa celebrates Merrie Monarch with enrichment programs
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>&#8216;Imiloa Astronomy Center in Hilo is offering a slate of special enrichment programs in celebration of the 2025 Merrie Monarch Festival.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/community/%ca%bbimiloa-celebrates-merrie-monarch-with-enrichment-programs/>
+
+---
+
+## Kona jury awards $2.5M in damages in sex abuse case
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>A Kona Circuit Court jury last week found in a civil trial that a Waimea businessman sexually abused a 12-year-old boy decades ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/hawaii-news/kona-jury-awards-2-5m-in-damages-in-sex-abuse-case/>
+
+---
+
+## Trump takes on improbable task in seeking trade deals across the globe
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; For a president who advertises himself as a paramount dealmaker, the next 11 weeks will be a pivotal test, as his advisers race to accomplish what no other administration has done before and reach dozens of individual trade deals with other governments.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/trump-takes-on-improbable-task-in-seeking-trade-deals-across-the-globe/>
+
+---
+
+## Trump cuts threaten free vaccine program for kids amid measles outbreak
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>Dr. Ali Sherif normally gives about 50 doses of the measles vaccine to children each month at his clinic in Hobbs, New Mexico, near the Texas state line.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/trump-cuts-threaten-free-vaccine-program-for-kids-amid-measles-outbreak/>
+
+---
+
+## State domestic abuse measure passes
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>A state bill intended to reinforce legal protections for domestic violence survivors has cleared its final legislative hurdle.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/hawaii-news/state-domestic-abuse-measure-passes/>
+
+---
+
+## Tariffs ‘significantly’ hitting Hawaii businesses
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>Nearly 70% of Hawaii businesses have been &#8220;significantly&#8221; affected by President Donald Trump&#8217;s tariffs, and 27% have been &#8220;moderately&#8221; touched, according to preliminary results of a survey still being conducted by the Chamber of Commerce Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/hawaii-news/tariffs-significantly-hitting-hawaii-businesses/>
+
+---
+
+## News in brief for April 24
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>Trump offers &#0010;private dinner to meme coin investors</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/news-in-brief-for-april-24/>
+
+---
+
+## Press club scholarship dinner set for May 9
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Press Club&#8217;s annual scholarship dinner will be held 5:30 p.m. to 8:30 p.m. on Thursday, May 9, at Hilo&#8217;s Restaurant Kenichi, where the club will honor its 2025 scholarship recipients.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/community/press-club-scholarship-dinner-set-for-may-9/>
+
+---
+
+## HVNP to premiere kupuna talk story videos this week
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>To celebrate both National Park Week and the Merrie Monarch Festival, Hawaii Volcanoes National Park will debut a new video series that features community kupuna sharing knowledge through native traditions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/community/hvnp-to-premiere-kupuna-talk-story-videos-this-week/>
+
+---
+
+## Parking area restored at Kealakekua park
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has completed a project to provide needed parking at Clarence Lum Won Park in Kealakekua.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/community/parking-area-restored-at-kealakekua-park/>
+
+---
+
+## Hundreds turn out for Hawaii Community College Day
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>Nearly 400 students, community members and families gathered at Hawaii Community College&#8217;s Manono campus on Saturday, April 12, to celebrate the college&#8217;s Hawaii Community College Day &#8212; an annual event designed to spotlight academic programs, technical training and workforce development opportunities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/community/hundreds-turn-out-for-hawaii-community-college-day/>
+
+---
+
+## New Jersey wildfire could become state’s largest in about 20 years
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>April 23 &#8212; A fast-growing wildfire was burning in New Jersey&#8217;s Pinelands near its Atlantic Ocean beach towns on Wednesday and threatened to become the largest in the state in about 20 years, officials said on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/new-jersey-wildfire-could-become-states-largest-in-about-20-years/>
+
+---
+
+## Trump pushes training for skilled trades that do not require college
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump signed on Wednesday an order to improve job training for skilled trades, an initiative twinned with tariffs in his gambit to revive U.S. manufacturing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/trump-pushes-training-for-skilled-trades-that-do-not-require-college/>
+
+---
+
+## Israeli airstrikes kill 10 in school housing displaced families, medics say
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; An Israeli airstrike on a school sheltering displaced families in northern Gaza killed at least 10 people on Wednesday, while another hit a children&#8217;s hospital, medics said, as three European leaders called on Israel to end its blockade on aid.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/israeli-airstrikes-kill-10-in-school-housing-displaced-families-medics-say/>
+
+---
+
+## Almost half of Americans breathe unhealthy air, report finds
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>At least 156 million Americans, about 46% of the population, live with unsafe levels of ozone, particulate pollution or both, according to the American Lung Association&#8217;s annual State of the Air report.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/almost-half-of-americans-breathe-unhealthy-air-report-finds/>
+
+---
+
+## US calls for sweeping reforms to IMF and World Bank
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Treasury Secretary Scott Bessent on Wednesday called for major overhauls to the missions of the International Monetary Fund and the World Bank but said the United States remained committed to maintaining its leadership role at the global economic institutions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/us-calls-for-sweeping-reforms-to-imf-and-world-bank/>
+
+---
+
+## Prelude to a Funeral
+
+date: 2025-04-24, from: Hawaii Tribune Harold
+
+
+				<p>The rituals of the Vatican can seem timeless, impervious to change. But look closer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/24/nation-world-news/prelude-to-a-funeral/>
+
+---
+
+## Deep sea mapping in RMI
+
+date: 2025-04-24, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON A deep sea mapping project will focus on the Marshall Islands as one of several islands in the region to have their ocean floors mapped later this year. The Ocean Exploration Trust is partnering with the Marshall Islands Marine Resources Authority on the upcoming visit of its vessel Nautilus. In addition to partnering [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/deep-sea-mapping-in-rmi/">Deep sea mapping in RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/deep-sea-mapping-in-rmi/>
+
+---
+
+## New transfer website promotes academic mobility across UH campuses
+
+date: 2025-04-24, from: University of Hawaiʻi News
+
+<p>New transfer site offers tools, tips and real student insights.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/23/new-transfer-website-promotes-academic-mobility/">New transfer website promotes academic mobility across <abbr>UH</abbr> campuses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/23/new-transfer-website-promotes-academic-mobility/>
+
+---
+
+## UNICEF backs school gardens
+
+date: 2025-04-24, from: Marshal Islands Journal
+
+<p>The Public School System celebrated a significant boost to its existing Learning Garden initiative through its partnership with UNICEF. As part of a broader Water, Sanitation, and Hygiene (WASH) project titled “Environment Resilient and Gender Responsive WASH Action for Vulnerable School Children and Adolescents in RMI,” UNICEF&#8217;s support will directly enhance educational opportunities and promote [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/unicef-backs-school-gardens/">UNICEF backs school gardens</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/unicef-backs-school-gardens/>
+
+---
+
+## UH student’s marine microbe research earns oceanography fellowship
+
+date: 2025-04-24, from: University of Hawaiʻi News
+
+<p>Kajihara is pursuing a doctoral degree with the Marine Biology Graduate Program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/23/marine-microbe-research-earns-fellowship/"><abbr>UH</abbr> student’s marine microbe research earns oceanography fellowship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/23/marine-microbe-research-earns-fellowship/>
+
+---
+
+## Judge orders reinstatement of Voice of America, Radio Free Asia 
+
+date: 2025-04-23, from: Pacific Island Times
+
+“It is hard to fathom a more straightforward display of arbitrary and capricious actions than the defendants’ actions here,” Lamberth’s ruling states. “The defendants have also likely violated the APA because their actions are ‘not in accordance with law.’” 
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/judge-orders-reinstatement-of-voice-of-america-radio-free-asia>
+
+---
+
+## Rainbow Warrior winds up visit
+
+date: 2025-04-23, from: Marshal Islands Journal
+
+<p>Greenpeace’s flagship Rainbow Warrior is winding up its extended visit to the Marshall Islands. It completed visits to Mejatto Island in Kwajalein, Enewetak, Bikini, and Rongelap over the past month. The vessel visited Wotje last week, the last outer atoll on its tour of RMI. “The scientists will be continuing their work, collecting the DNA [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rainbow-warrior-winds-up-visit/">Rainbow Warrior winds up visit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rainbow-warrior-winds-up-visit/>
 
 ---
 
@@ -37,13 +369,73 @@ The post <a href="https://www.hawaii.edu/news/2025/04/23/image-of-the-week-hauol
 
 ## Palau president stresses economic resilience in face of trade uncertainty
 
-date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
+date: 2025-04-23, updated: 2025-04-24, from: Marianas Variety
 
 KOROR (Island Times/Pacnews) — Palau President Surangel Whipps Jr. said Palau must brace for the economic impact of global trade tensions but avoid reactionary responses, especially when it comes to investments and cost-of-living challenges. 
 
 <br> 
 
 <https://www.mvariety.com/news/regional_world/palau-president-stresses-economic-resilience-in-face-of-trade-uncertainty/article_b11a98d2-4a47-42c8-9b73-fe2b7b33e79e.html>
+
+---
+
+## Poetry
+
+date: 2025-04-23, updated: 2025-04-24, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_9de68217-ba55-4a44-b06a-6fec5daa891d.html>
+
+---
+
+## US stock futures jump as Trump backtracks on threats to fire Fed head; Tesla jumps
+
+date: 2025-04-23, updated: 2025-04-24, from: Marianas Variety
+
+(Reuters) — U.S. stock index futures leapt on Wednesday, after President Donald Trump backed off from his threats to fire the head of the Federal Reserve and raised hopes for a trade deal with China. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-stock-futures-jump-as-trump-backtracks-on-threats-to-fire-fed-head-tesla-jumps/article_dfbdc3ed-416f-4279-bc2e-2d898649d82c.html>
+
+---
+
+## Musical ‘The Great Gatsby’ brings 1920s glamour to London's West End
+
+date: 2025-04-23, updated: 2025-04-24, from: Marianas Variety
+
+LONDON (Reuters) — A musical incarnation of author F. Scott Fitzgerald's classic 1925 novel "The Great Gatsby" has opened in London's West End, offering audiences the chance to step into Jay Gatsby's world of parties at his Long Island mansion near New York City. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/musical-the-great-gatsby-brings-1920s-glamour-to-londons-west-end/article_9f1d2fef-39aa-4dbd-9d21-b9e0944fcd01.html>
+
+---
+
+## CNMI government out of touch with economic reality
+
+date: 2025-04-23, updated: 2025-04-24, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds on Wednesday said the CNMI government does not view the local economy the same way the private sector does. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-government-out-of-touch-with-economic-reality/article_843d8bae-575a-48d4-ac8c-4af971265a59.html>
+
+---
+
+## 2 former lawmakers oppose bid to lease former Mariana Resort
+
+date: 2025-04-23, updated: 2025-04-24, from: Marianas Variety
+
+FORMER Reps. Sheila Babauta and Juan I. Tenorio on Tuesday expressed opposition to Mariana Eland Corporation's proposal to lease the property in Marpi previously occupied by the defunct Mariana Resort &amp; Spa. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/2-former-lawmakers-oppose-bid-to-lease-former-mariana-resort/article_363e7d31-b85d-457d-860e-1327ba62849c.html>
 
 ---
 
@@ -56,66 +448,6 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 <br> 
 
 <https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
-## Poetry
-
-date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
-
- 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/poetry/article_9de68217-ba55-4a44-b06a-6fec5daa891d.html>
-
----
-
-## US stock futures jump as Trump backtracks on threats to fire Fed head; Tesla jumps
-
-date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
-
-(Reuters) — U.S. stock index futures leapt on Wednesday, after President Donald Trump backed off from his threats to fire the head of the Federal Reserve and raised hopes for a trade deal with China. 
-
-<br> 
-
-<https://www.mvariety.com/business/business_news/us-stock-futures-jump-as-trump-backtracks-on-threats-to-fire-fed-head-tesla-jumps/article_dfbdc3ed-416f-4279-bc2e-2d898649d82c.html>
-
----
-
-## Musical ‘The Great Gatsby’ brings 1920s glamour to London's West End
-
-date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
-
-LONDON (Reuters) — A musical incarnation of author F. Scott Fitzgerald's classic 1925 novel "The Great Gatsby" has opened in London's West End, offering audiences the chance to step into Jay Gatsby's world of parties at his Long Island mansion near New York City. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/musical-the-great-gatsby-brings-1920s-glamour-to-londons-west-end/article_9f1d2fef-39aa-4dbd-9d21-b9e0944fcd01.html>
-
----
-
-## CNMI government out of touch with economic reality
-
-date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
-
-U.S. Congresswoman Kimberlyn King-Hinds on Wednesday said the CNMI government does not view the local economy the same way the private sector does. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/cnmi-government-out-of-touch-with-economic-reality/article_843d8bae-575a-48d4-ac8c-4af971265a59.html>
-
----
-
-## 2 former lawmakers oppose bid to lease former Mariana Resort
-
-date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
-
-FORMER Reps. Sheila Babauta and Juan I. Tenorio on Tuesday expressed opposition to Mariana Eland Corporation's proposal to lease the property in Marpi previously occupied by the defunct Mariana Resort &amp; Spa. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/2-former-lawmakers-oppose-bid-to-lease-former-mariana-resort/article_363e7d31-b85d-457d-860e-1327ba62849c.html>
 
 ---
 

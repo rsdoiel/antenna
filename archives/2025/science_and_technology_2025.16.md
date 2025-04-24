@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-23 14:08:27
+updated: 2025-04-24 06:07:17
 ---
 
 # science and technology
 
-(date: 2025-04-23 14:08:27)
+(date: 2025-04-24 06:07:17)
+
+---
+
+## Ninite to win it: How to rebuild Windows without losing your mind
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Get a new, clean (maybe suspiciously empty) install up to speed – and keep it there</h4> <p>When you install a fresh, clean copy of Windows – say, if you&#39;re switching to the LTSC edition – Ninite is here to kickstart provisioning the new OS.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/ninite_rebuild_windows/>
+
+---
+
+## Sustainability still not a high priority for datacenter industry
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Extreme weather is <strong>such</strong> a problem when building bit barns... hmmm, wonder what could be causing that?</h4> <p>When it comes to building datacenters, reducing the environmental impact of the project is still not seen as a major concern – it is lower on the list than cost of equipment and materials, skills shortages, a possible downturn in projects, and even bad weather.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/sustainability_still_not_a_high/>
+
+---
+
+## M&amp;S takes systems offline as 'cyber incident' lingers
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Customers told to expect further delays as contactless payments still down</h4> <p>UK high street retailer Marks &amp; Spencer says contactless payments are still down following its &#34;cyber incident&#34; and order delays are likely to continue.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/marks_spencer_outage_ongoing/>
+
+---
+
+## Your vendor may be the weakest link: Percentage of third-party breaches doubled in a year
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Cybercriminals are targeting software shops, accountants, lawyers</h4> <p>The percentage of confirmed data breaches involving third-party relationships doubled last year as cybercriminals increasingly exploited weak links in supply chains and partner ecosystems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/security_snafus_third_parties/>
+
+---
+
+## Vector search is the new black for enterprise databases
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Software slingers from Redis to Teradata are bolting on smarts to stay relevant in GenAI era</h4> <p>About two years ago, popular cache database Redis was among a wave of vendors that added vector search capabilities to their platforms, driven by the surge of interest in generative AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/database_vector_search/>
+
+---
+
+## Booby-trapped Alpine Quest Android app geolocates Russian soldiers
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Back of the nyet!</h4> <p>Russian soldiers are being targeted with an Android app specially altered to pinpoint their location and scan their phones for files, with the ability to exfiltrate sensitive documents if instructed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/hacked_alpine_quest_android_app/>
+
+---
+
+## Hyperconverged infrastructure is so hot right now it needs liquid cooling
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Lenovo brings its Neptune cold plates to servers packing sixth-gen Xeons to run VMware, Nutanix, and AzureStack</h4> <p>Hyperconverged infrastructure most often involves a collection of modest 2U servers powered by mid-range processors that aren’t particularly challenging to operate. But Lenovo’s new models packing Xeon 6 processors may need liquid cooling.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/lenovo_hci_liquid_cooled/>
+
+---
+
+## India’s services giants brace for impact as US tariffs bite their customers
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Wipro was forced to pause an active SAP project due to client’s jitters</h4> <p>India’s big four IT services players are all concerned that the USA’s new tariffs regime may see some of their customers spend less on tech – but later spend more to cope with whatever changes are needed to compete in a changed global trade system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/infosys_tcs_wipro_hcl_tariff_impact_results/>
+
+---
+
+## Ransomware scum and other crims bilked victims out of a 'staggering' $16.6B last year, says FBI
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Biggest threat to America&#39;s critical infrastructure? Ransomware</h4> <p>Digital scammers and extortionists bilked businesses and individuals in the US out of a &#34;staggering&#34; $16.6 billion last year, according to the FBI — the highest losses recorded since bureau’s Internet Crime Complaint Center (IC3) started tracking them 25 years ago.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/ransomware_scum_and_other_crims/>
+
+---
+
+## IBM dragged down by DOGE contract cancellation roulette
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Big Blue downplays impact of Elon-gated cost-cutting</h4> <p>IBM beat Wall Street&#39;s expectations for both revenue and income in the first quarter of 2025, but its stock price still dropped more than six percent in after-hours trading.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/ibm_q1_2025_doge/>
+
+---
+
+## How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
+
+date: 2025-04-23, from: OS News
+
+The headline sets the stage, and the article delivers. This was the most interesting bug I’ve encountered for a while. I initially had a hard time believing that a bug like this would directly tie to a specific OS release, but I was proven completely wrong. At the end of the day, it was a simple bug in San Andreas and this function should have never worked right, and yet, at least on PC it hid itself for two decades. This is an interesting lesson in compatibility: even changes to the stack layout of the internal implementations can have compatibility implications if an application is bugged and unintentionally relies on a specific behavior. This is also not the first time I encountered issues like this: regular visitors might remember Bully: Scholarship Edition which famously broke on Windows 10, for very similar reasons. Just like in this case, Bully should have never worked properly to begin with, but instead, it got away with making incorrect assumptions for years, before changes in Windows 10 finally made it run out of luck. ↫ Adrian Zdanowicz Incredible story. 
+
+<br> 
+
+<https://www.osnews.com/story/142189/how-a-20-year-old-bug-in-gta-san-andreas-surfaced-in-windows-11-24h2/>
+
+---
+
+## Microsoft 365 Copilot gets a new crew, including Researcher and Analyst bots
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>You. Will. Love. The. LLM.</h4> <p>The latest update to Microsoft 365 Copilot brings AI-powered search, so-called reasoning agents, and a new Agent Store. Some users already have access to certain features, while others may have to wait through May.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/microsoft_365_copilot_agent_refresh/>
+
+---
+
+## Blue Shield says it shared health info on up to 4.7M patients with Google Ads
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Tech giants don&#39;t need smartphone mics to target adverts – your insurer just gives your data away, anyway</h4> <p>US health insurance giant Blue Shield of California handed sensitive health information belonging to as many as 4.7 million members to Google&#39;s advertising empire, likely without these individuals&#39; knowledge or consent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/blue_shield_leaked_info_google/>
+
+---
+
+## AI bigwigs urge AGs to block OpenAI's profit pivot
+
+date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+
+<h4>Elon’s not the only one sounding the alarm over the AI giant’s cash grab</h4> <p>A group of AI heavyweights and ex-OpenAI staffers are urging the attorneys general of California and Delaware to block the ChatGPT shop&#39;s latest restructuring into a for-profit corporation. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/23/openai_for_profit_stop_urged/>
 
 ---
 
@@ -47,7 +215,7 @@ date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
 
 ## As ChatGPT scores B- in engineering, professors scramble to update courses
 
-date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+date: 2025-04-23, updated: 2025-04-24, from: The Register (UK I.T. News)
 
 <h4>Now that AI is invading classrooms and homework assignment, students need to learn reasoning more than ever</h4> <p>Students are increasingly turning to AI to help them with coursework, leaving academics scrambling to adjust their teaching practices or debating how to ban it altogether.…</p> 
 
@@ -143,7 +311,7 @@ The fines weren&#8217;t the only Digital Markets Act news coming from this fine 
 
 ## Europe hits Meta, Apple with €700M in fines for flouting DMA
 
-date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+date: 2025-04-23, updated: 2025-04-24, from: The Register (UK I.T. News)
 
 <h4>Bad timing, claim industry watchers, who say rulings could seriously upset an already delicate US-EU relationship</h4> <p>Meta and Apple have earned the dubious honor of being the first companies fined for non-compliance with the EU&#39;s Digital Markets Act, which experts say could inflame tensions between US President Donald Trump and the European bloc.…</p> 
 
@@ -335,7 +503,7 @@ date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
 
 ## America's cyber defenses are being dismantled from the inside
 
-date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+date: 2025-04-23, updated: 2025-04-24, from: The Register (UK I.T. News)
 
 <h4>The CVE system nearly dying shows that someone has lost the plot</h4> <p><strong>Opinion</strong>  We almost lost the Common Vulnerabilities and Exposures (CVE) database system, but that&#39;s only the tip of the iceberg of what President Trump and company are doing to US cybersecurity efforts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -395,7 +563,7 @@ date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
 
 ## Trump blinks: 'Substantially' lower China tariffs promised
 
-date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+date: 2025-04-23, updated: 2025-04-24, from: The Register (UK I.T. News)
 
 <h4>Detail? Rationale? Timeline? Nope! It&#39;s the art of the squeal</h4> <p><strong>World War Fee</strong>  President Donald Trump on Tuesday said his administration plans to lower the 145 percent tariffs it levies on goods imported into America from China, continuing his pattern of unpredictable shifts in policy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

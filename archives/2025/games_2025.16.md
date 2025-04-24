@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-23 14:08:29
+updated: 2025-04-24 06:07:19
 ---
 
 # games
 
-(date: 2025-04-23 14:08:29)
+(date: 2025-04-24 06:07:19)
+
+---
+
+## Grand Theft Auto 5 still the top-streamed game on Twitch
+
+date: 2025-04-24, updated: 2025-04-21, from: Polygon Website
+
+Grand Theft Auto 5 remains the top-streamed game on Twitch, the Amazon-owned platform announced Thursday. Broadcasters streamed more than 25.8 million hours of GTA 5 in 2024 — and viewers clocked in “1.4+ billion hours watched across all audiences,” per a news release published by Twitch. GTA 5 was the top gaming category in 2023, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/561980/grand-theft-auto-5-gta5-twitch-stats-most-watched>
+
+---
+
+## Where to buy Legend of Zelda amiibo
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Different Zelda amiibo go in and out of production throughout the year, making some harder to find in stock (and at a reasonable price) than others. These amiibo not only look great, allowing fans to rep their favorite Zelda characters, but also unlock items and rewards in Switch games, including Breath of the Wild and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link>
+
+---
+
+## How to pre-order the Dbrand Killswitch case for the Nintendo Switch 2
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Dbrand’s tough, yet versatile Killswitch case for the Nintendo Switch 2 will launch in June, around the same time the console itself launches on June 5. Through a specific release date has not yet been announced, you can reserve the Switch 2 Dbrand Killswitch case right now by making a $3 deposit. This deposit guarantees [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy>
+
+---
+
+## How to pre-order the Nintendo Switch 2
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+The Nintendo Switch 2 pre-orders didn’t go as planned, but they’re finally open in the U.S. ahead of the June 5 release. You can place an order for Nintendo’s next-gen console through Walmart, Best Buy, GameStop, Target, or Nintendo starting at $449.99. (Note: GameStop online pre-orders don’t open until 11 a.m. EDT.) If you’re also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy>
+
+---
+
+## How to pre-order extra Joy-Cons for your Switch 2
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Much like the original Nintendo Switch, the Switch 2 is all about playing with friends, whether that’s together in your living room or remotely. If you’re planning to play with more than two people locally, you may want to stock up on some extra Joy-Cons. A set that includes the left and right Joy-Con 2 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/553095/nintendo-switch-2-joy-con-2-controller-where-to-buy>
+
+---
+
+## Every game you can pre-order for the Nintendo Switch 2
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+The launch of the Nintendo Switch 2 is only a few weeks away, and with it comes a healthy spread of games to play — and that are now available to pre-order. Releasing alongside the Switch 2 on June 5 is the brand new Mario Kart World and a handful remastered original Switch games, including [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/554243/nintendo-switch-2-games-where-to-buy>
+
+---
+
+## How to pre-order the Nintendo Switch 2 camera
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+One of the more surprising features arriving with the Nintendo Switch 2 is the ability to hook up a camera to your console to use in tandem with its new GameChat functionality. The Discord-like feature allows to chat with friends and see each other while playing Mario Kart World or other online multiplayer games. If [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/554163/nintendo-switch-2-camera-where-to-buy>
+
+---
+
+## All the Switch 2 accessories you can pre-order now
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+The Nintendo Switch 2 will launch on June 5, alongside a suite of new accessories for the console. If you own an original Switch, many of your current accessories will work on the Switch 2. However, there are plenty of accessories worth considering picking up for your new console, even though their prices increased slightly [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/554836/switch-2-accessories-controller-wheel-joy-con-camera-case-microsd-express>
+
+---
+
+## How to pre-order Mario Kart World
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Mario Kart World, the first new entry in the franchise in over a decade, arrives as the flagship launch title for the Nintendo Switch 2 on June 5. While Nintendo is offering this highly anticipated game as part of a $499.99 bundle that includes the new console, Mario Kart World is also available to pre-order [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/554983/mario-kart-world-nintendo-switch-2-where-to-buy>
+
+---
+
+## How to pre-order the Nintendo Switch 2 Pro controller
+
+date: 2025-04-24, updated: 2025-04-23, from: Polygon Website
+
+Nintendo’s successor to the original Switch Pro controller has us excited. The $84.99 Switch 2 Pro controller retains the same great look and feel as the first-gen model, but adds some thoughtful features, including remappable GL and GR rear buttons, a headphone jack for private listening, and improved rumble. Just like the Switch 2’s Joy-Con [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/554945/switch-2-pro-controller-best-buy-nintendo-walmart>
 
 ---
 

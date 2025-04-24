@@ -1,11 +1,199 @@
 ---
 title: snapshots
-updated: 2025-04-23 14:08:34
+updated: 2025-04-24 06:07:25
 ---
 
 # snapshots
 
-(date: 2025-04-23 14:08:34)
+(date: 2025-04-24 06:07:25)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-24, from: Feed for Alt USDS)
+
+@altstategov.altgov.info with a great thread on Head Start. 
+
+My family grew up poor and I am a product of Head Start. Cutting it will make it harder for children like I was to thrive.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnkq5u4bjk2m>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-24, from: Feed for Alt USDS)
+
+Wait, we agree with Steve Bannon on something? The possibility that American's data has been exfiltrated is a non-partisan concern. We need to know. 
+
+From https://www.washingtonpost.com/business/2025/04/24/elon-musk-doge-scott-bessent-tesla/ 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnkmzaakx22m>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-24, from: Feed for Alt USDS)
+
+Good morning! In federal government, installing applications is extremely limited. People who wrote code had a hard time, but there were processes to add what we needed. 
+
+We'd love to know what exception Unfit To Serve Pete got to install Signal. 🤔
+
+https://www.washingtonpost.com/national-security/2025/04/23/hegseth-signal-pentagon-computer/ 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnkluvmds22m>
+
+---
+
+## Trump Is a Virus
+
+date: 2025-04-24, from: Paul Krugman
+
+Chaos is about to take its toll 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-is-a-virus>
+
+---
+
+## I couldn't wait for a TRMNL device, so I made my own
+
+date: 2025-04-24, from: Stavros Stuff
+
+<div class="pull-quote">My obsession with e-ink displays continues</div><p>Some time ago, my friend George linked me to <a href="https://usetrmnl.com">TRMNL</a>, a new battery-powered e-ink display with an associated service that generates the images that the display will actually show.
+It looks really well-made, and I have an irrational attraction to e-ink displays, so naturally I had to pre-orde 
+
+<br> 
+
+<https://www.stavros.io/posts/making-a-trmnl-device/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-24, from: Feed for Alt USDS)
+
+We have had questions about this for a long time. 
+
+- The big one is who is running DOGE?
+- Who is actually working for them?
+
+To them, this misdirection is a feature, not a bug. A way to avoid accountability.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnjp6jgnnk26>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-24, from: Feed for Alt USDS)
+
+One of the quiet ones left this week. Not in defeat, in dignity.
+
+We wrote the tribute they deserved. And by proxy, it’s for every civil servant, past and present. We see you. 💛
+
+Read it here ➡️ https://bit.ly/wtb-tribute
+
+#WeTheBuilders #ThankYou 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnjob52dip2h>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-24, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lnjls4bplk2f>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-24, from: Dave Winer's linkblog)
+
+Abrego Garcia’s Wife Forced to Go Into Hiding Thanks to DHS Slip-Up. 
+
+<br> 
+
+<https://newrepublic.com/post/194289/abrego-garcia-wife-hiding-dhs-address>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+Knicks&#39; Jalen Brunson named 2024-25 NBA Clutch Player of the Year. 
+
+<br> 
+
+<https://sny.tv/articles/knicks-jalen-brunson-2024-25-nba-clutch-player-of-the-year>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+In New York, Harvey Weinstein&#39;s sex crimes trial is underway. 
+
+<br> 
+
+<https://www.npr.org/2025/04/23/nx-s1-5369413/harvey-weinstein-new-york-trial-sex-crimes-opening-arguments>
+
+---
+
+## 559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)
+
+date: 2025-04-23, from: This is history podcast
+
+<p>&#8220;We&#8217;re not worried about petty morals.&#8221; What happened to the Rolling Stones in 1967 to see them on the brink of imprisonment and mass censure, while at the height of their success, with fame, fortune, mansions, world tours, and best selling albums to their names? Was Brian Jones, the band&#8217;s founder, murdered, after being found [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2/">559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-23, from: Dave Winer's linkblog)
+
+Another Dem Sends Warning To Bukele. 
+
+<br> 
+
+<https://talkingpointsmemo.com/where-things-stand/another-dem-sends-warning-to-bukele>
+
+---
+
+## OpenAI’s dirty December o3 demo doesn’t readily replicate
+
+date: 2025-04-23, from: Gary Marcus blog
+
+Don&#8217;t believe everything you see 
+
+<br> 
+
+<https://garymarcus.substack.com/p/openais-dirty-december-o3-demo-doesnt>
+
+---
+
+## Vote for the April 2025 + Post Topic
+
+date: 2025-04-23, from: Computer ads from the Past
+
+Poll will only be live for 3 days, so vote while you can. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-april-2025-post-topic>
 
 ---
 
@@ -158,6 +346,20 @@ North Star's Advantage over IBM and Apple is easy to see.
 <br> 
 
 <https://computeradsfromthepast.substack.com/p/plus-post-north-star-advantage>
+
+---
+
+## Une langue universelle (43FCIU): ingenio, banalidad y absurdo
+
+date: 2025-04-23, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Matthew Rankin. Guion: Ila Firouzabadi, Pirouz Nemati y Matthew Rankin. Elenco: Rojina Esmaeili, Saba Vahedyousefi, Sobhan Javadi, Pirouz Nemati, Mani Soleymanlou, Matthew Rankin. País: Canadá. Más información de la película: https://www.imdb.com/title/tt31691389/ El ser humano, tan similar y al mismo tiempo tan disímil, tiene la capacidad de captar detalles opuestos de un mismo hecho. No [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-une-langue-universelle-43fciu/">Une langue universelle (43FCIU): ingenio, banalidad y absurdo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-une-langue-universelle-43fciu/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-une-langue-universelle-43fciu>
 
 ---
 
@@ -744,6 +946,20 @@ The economy is bad. Here's how we're doing, and how you can help us.
 <br> 
 
 <https://glammr.us/@IIIF/114382466561184025>
+
+---
+
+## El día que la Tierra explotó: una película de Looney Tunes – una aventura absurda e hilarante
+
+date: 2025-04-22, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Peter Browngardt. Guion: Darrick Bachman, Peter Browngardt, Kevin Costello, Andrew Dickman, David Gemmill, Alex Kirwan, Ryan Kramer, Jason Reicher, Michael Ruocco, Johnny Ryan y Eddie Trigueros, basados en personajes creados por Tex Avery, Bob Clampett, Friz Freleng. País: EUA. Elenco vocal en español: Sebastián Llapur, Ernesto Lezama, Nycolle González, Óscar Flores. Más información de [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-el-dia-que-la-tierra-exploto-una-pelicula-de-looney-tunes/">El día que la Tierra explotó: una película de Looney Tunes – una aventura absurda e hilarante</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-el-dia-que-la-tierra-exploto-una-pelicula-de-looney-tunes/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-el-dia-que-la-tierra-exploto-una-pelicula-de-looney-tunes>
 
 ---
 
