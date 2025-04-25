@@ -1,11 +1,159 @@
 ---
 title: north america
-updated: 2025-04-25 06:08:53
+updated: 2025-04-25 14:07:31
 ---
 
 # north america
 
-(date: 2025-04-25 06:08:53)
+(date: 2025-04-25 14:07:31)
+
+---
+
+## Chocolate and coffee marble cake
+
+date: 2025-04-25, from: The Contrarian
+
+On being a food writer during turbulent political times. 
+
+<br> 
+
+<https://contrarian.substack.com/p/chocolate-and-coffee-marble-cake>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-04-25, from: The Contrarian
+
+Meet Bella! (Or maybe don't.) 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-e85>
+
+---
+
+## The Democracy Index
+
+date: 2025-04-25, from: The Contrarian
+
+April 25, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-bbd>
+
+---
+
+## Contrarian Culture Corner Recommendations
+
+date: 2025-04-25, from: The Contrarian
+
+Timely Entertainment and/or Distractions: Conclave and Hacks 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-culture-corner-recommendations>
+
+---
+
+## Resources explained: Parents & Caregivers Guide
+
+date: 2025-04-25, from: The Contrarian
+
+Netflix's "Adolescence" is a reminder that children can be exposed to harmful content online right in their homes. 
+
+<br> 
+
+<https://contrarian.substack.com/p/resources-explained-parents-and-caregivers>
+
+---
+
+##  For This Insurer, Breathing Now Comes With A Catch 
+
+date: 2025-04-25, from: The Lever News
+
+ Blue Cross Blue Shield just made it harder for many patients to get vital asthma and allergy medications — all while channeling more profits toward a PBM-affiliated pharmacy.  
+
+<br> 
+
+<https://www.levernews.com/for-this-insurer-breathing-now-comes-with-a-catch/>
+
+---
+
+## The media’s celebrity obsession is killing our democracy
+
+date: 2025-04-25, from: The Contrarian
+
+The same will-he-or-won't-he hysteria around Stephen A. Smith running for president is what got us into this mess to begin with. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-medias-celebrity-obsession-is>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-25, from: The Contrarian
+
+Friday: Favorite signs from protests, preparing for May Day, plus a Social Security protest in Massachusetts, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## When Scientific Inquiry Meets the Big Chill
+
+date: 2025-04-25, from: Capital and Main
+
+<p>From Harvard’s president facing down political pressure to a science foundation scrubbing controversy from its website, the battle for free speech and open inquiry plays out where ideas are meant to thrive.</p>
+<p>The post <a href="https://capitalandmain.com/when-scientific-inquiry-meets-the-big-chill">When Scientific Inquiry Meets the Big Chill</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/when-scientific-inquiry-meets-the-big-chill>
+
+---
+
+## Ginny Canter & Richard Painter Join Jen to Detail Trump's Crypto Conflicts of Interest
+
+date: 2025-04-25, from: The Contrarian
+
+"The whole thing is is completely antithetical to a democracy and a free market capitalist system" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162081819/69e417838420c82aa1ad5c7bf7037f8f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162081819/69e417838420c82aa1ad5c7bf7037f8f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ginny-canter-and-richard-painter>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-04-25, from: The Contrarian
+
+Super-Fun-Pax Comix 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-0fa>
+
+---
+
+## How this year’s Correspondents’ Dinner became a celebration of capitulation
+
+date: 2025-04-25, from: The Contrarian
+
+&#8220;Nerd Prom&#8221; isn&#8217;t the first to bend the knee to Trump. But it&#8217;s the first to hold a party for the principles it failed to uphold. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-this-years-correspondents-dinner>
 
 ---
 
@@ -25,7 +173,7 @@ Heroes propel the virtuous cycle of resistance
 
 date: 2025-04-25, from: The Lever News
 
- Economist Art Laffer was the intellectual backbone of every Republican tax cuts, including Trump’s. Laffer’s advice: Don’t bother fighting the rich anymore, they’ve already won.  
+ Economist Art Laffer was the intellectual backbone of every Republican tax cut, including Trump’s. Laffer’s advice: Don’t bother fighting the rich anymore, they’ve already won.  
 
 <br> 
 
@@ -182,18 +330,6 @@ date: 2025-04-24, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/collateral-damage-how-trump-is-hollowing-out-the-black-middle-class>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-24, from: The Contrarian
-
-Thursday: More 50501 protests in Pennsylvania, Texas, France, California, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

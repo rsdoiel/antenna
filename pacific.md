@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-04-25 06:08:54
+updated: 2025-04-25 14:07:33
 ---
 
 # pacific
 
-(date: 2025-04-25 06:08:54)
+(date: 2025-04-25 14:07:33)
+
+---
+
+## Bizarre ‘bone collector’ caterpillar discovered by  UH scientists
+
+date: 2025-04-25, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa scientists found a new caterpillar species with bizarre behaviors&#8212;it lives in spider webs and decorates its home with the body parts of the spider’s prey.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/25/bizarre-bone-collector-caterpillar/">Bizarre ‘bone collector’ caterpillar discovered by  <abbr>UH</abbr> scientists</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/25/bizarre-bone-collector-caterpillar/>
 
 ---
 
@@ -272,6 +285,20 @@ date: 2025-04-25, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/at-least-12-dead-90-wounded-in-kyiv-officials-say/>
+
+---
+
+## Registered nurse from Kauai crowned Miss Aloha Hula
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>A 23-year-old registered nurse from Kauai was crowned Miss Aloha Hula 2025.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/hawaii-news/registered-nurse-from-kauai-crowned-miss-aloha-hula/>
 
 ---
 

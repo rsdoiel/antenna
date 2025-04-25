@@ -1,11 +1,177 @@
 ---
 title: socal north
-updated: 2025-04-25 06:08:54
+updated: 2025-04-25 14:07:32
 ---
 
 # socal north
 
-(date: 2025-04-25 06:08:54)
+(date: 2025-04-25 14:07:32)
+
+---
+
+## Santa Clarita Voices Episode Five Available Now
+
+date: 2025-04-25, from: City of Santa Clarita
+
+<p>Learn About the Engaging Activities and Resources Offered by Recreation and Community Services The City of Santa Clarita is excited to announce the release of the fifth episode of Santa Clarita Voices, the City’s official podcast, that highlights the stories, experiences and conversations from City leaders and unique members of our community. This episode features [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/25/santa-clarita-voices-episode-five-available-now/">Santa Clarita Voices Episode Five Available Now</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/25/santa-clarita-voices-episode-five-available-now/>
+
+---
+
+## How to watch Pope Francis' funeral and what to expect
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Pope Francis' funeral begins in Vatican City at 1 a.m. Pacific time on Saturday and will end with his burial in Rome. Here's what to know about the day's events — and how Francis is breaking with tradition. 
+
+<br> 
+
+<https://laist.com/news/how-to-watch-pope-francis-funeral-and-what-to-expect>
+
+---
+
+## “Childhood Memories” at the Newhall Community Center
+
+date: 2025-04-25, from: City of Santa Clarita
+
+<p>Celebrating the Nostalgia, Imagination and Magic of Growing Up The City of Santa Clarita is pleased to present its latest art exhibition, “Childhood Memories,” on view at the Newhall Community Center (22421 Market Street) now through Monday, July 7. This heartfelt showcase invites guests to explore the wonder and innocence of childhood through a variety [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/25/childhood-memories-at-the-newhall-community-center/">“Childhood Memories&#8221; at the Newhall Community Center</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/25/childhood-memories-at-the-newhall-community-center/>
+
+---
+
+## Rancho Palos Verdes could lose out on federal funding to help stabilize landslide
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+FEMA announced the cancellation of a grant that helps communities prepare for natural disasters. Rancho Palos Verdes planned to use its share of the funds to address the Portuguese Bend landslide. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-could-lose-out-on-federal-funding-to-help-stabilize-landslide>
+
+---
+
+## Did the fires displace you? Here’s what to do with your voter registration
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Voters' next step depends on whether their displacement is permanent or temporary. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-wildfire-voter-registration-eaton-palisades>
+
+---
+
+## Damage from gut bacteria may play a role in the rise in colon cancer in young adults
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Scientists have a new clue in the mystery of why younger people are getting more colon cancer. It may have to do with a toxin produced by a common gut microbe. 
+
+<br> 
+
+<https://laist.com/news/health/damage-from-gut-bacteria-may-play-a-role-in-the-rise-in-colon-cancer-in-young-adults>
+
+---
+
+## After Trump’s crackdown on DEI in schools, judge rules he can’t cut off funding
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+California receives $2.4 billion in federal Title I money for low-income schools, about $1.3 billion for special education and $250 million for after-school programs, among other grants. 
+
+<br> 
+
+<https://laist.com/news/education/trump-crackdown-on-dei-in-schools-judge-rules-he-cant-cut-off-funding>
+
+---
+
+## How Trump tariffs could upend California farms, wine businesses and ports
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+California’s agricultural industries face many possible effects from President Donald Trump's tariffs, but some hope for opportunity. 
+
+<br> 
+
+<https://laist.com/news/how-trump-tariffs-could-upend-california-farms-wine-businesses-and-ports>
+
+---
+
+## Amtrak Pacific Surfliner service paused in San Clemente again
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Crews are beginning emergency stabilization work. Travelers will be bused between Irvine and Oceanside for about six weeks. 
+
+<br> 
+
+<https://laist.com/news/transportation/amtrak-pacific-surfliner-service-paused-in-san-clemente-again>
+
+---
+
+## California railroads: Unions push to shorten trains, but companies warn of higher costs
+
+date: 2025-04-25, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Unions are pushing for shorter freight trains to make railways safer, but that could raise the cost of goods and delay passenger rail service. It also may not be legal.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/california-railroads-unions-push-to-shorten-trains-but-companies-warn-of-higher-costs">California railroads: Unions push to shorten trains, but companies warn of higher costs</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/california-railroads-unions-push-to-shorten-trains-but-companies-warn-of-higher-costs>
+
+---
+
+## How Newsom is balancing fight against Trump with LA fire relief needs
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Gov. Gavin Newsom reset his relationship with President Donald Trump after the Los Angeles fires, but he has yet to secure the disaster aid he wants. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/gavin-newsom-balancing-fight-against-trump-with-los-angeles-fire-relief>
+
+---
+
+## Man charged with felony animal cruelty for allegedly slamming dog into ground; rescuers say she’s recovering well
+
+date: 2025-04-25, from: Longbeach Post
+
+<figure><img width="1024" height="659" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz.jpg 1060w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The young pup, a German shepherd mix named Inara, has some injuries but is "energetic, bright and responsive," according to Long Beach Animal Care Services.</p>
+<p>The post <a href="https://lbpost.com/news/crime/dog-abuse-video-long-beach-charges-ok">Man charged with felony animal cruelty for allegedly slamming dog into ground; rescuers say she&#8217;s recovering well</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/dog-abuse-video-long-beach-charges-ok>
+
+---
+
+## This YA author helped usher in the 'mean girl' era. Now she's working to solve teen drama
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Lisi Harrison’s The Clique series rode the Mean Girls wave of the 2000s, but her approach to writing about teen drama has changed over the decades. 
+
+<br> 
+
+<https://laist.com/news/education/clique-lisi-harrison-advice-for-navigating-teenage-tween-drama>
 
 ---
 
@@ -25,7 +191,7 @@ The university brewing program has opened job opportunities in a huge industry.
 
 date: 2025-04-25, updated: 2025-04-25, from: The LAist
 
-Geocaching is a worldwide hobby where people hide containers for others to find outdoors. Southern California's passionate community is gathering soon. 
+Geocaching is a worldwide hobby where people hide containers for others to find outdoors. Southern California's passionate community is gathering on May 3. 
 
 <br> 
 
@@ -42,18 +208,6 @@ After the fog and clouds burn off, expect a partly sunny and mild day in SoCal o
 <br> 
 
 <https://laist.com/news/climate-environment/partly-sunny-but-mild-friday-before-weekend-rain>
-
----
-
-## Social media is different, but teen drama is timeless
-
-date: 2025-04-25, updated: 2025-04-25, from: The LAist
-
-Lisi Harrison’s The Clique series rode the Mean Girls wave of the 2000s, but her approach to writing about teen drama has changed over the decades. 
-
-<br> 
-
-<https://laist.com/news/education/clique-lisi-harrison-advice-for-navigating-teenage-tween-drama>
 
 ---
 
@@ -119,7 +273,7 @@ The city has not contracted with the Chamber of Commerce since 2022, when a corr
 
 ## LA Mayor Karen Bass’ proposed budget would ax a landmark climate action office
 
-date: 2025-04-24, updated: 2025-04-24, from: The LAist
+date: 2025-04-24, updated: 2025-04-25, from: The LAist
 
 L.A.’s proposed budget cuts include eliminating the Climate Emergency Mobilization Office and staff tasked with monitoring pollution from oil wells. 
 
@@ -133,7 +287,7 @@ L.A.’s proposed budget cuts include eliminating the Climate Emergency Mobiliza
 
 date: 2025-04-24, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California receives $2.4 billion in federal Title I money for low-income schools, about $1.3 billion for special education and $250 million for after-school programs, among other grants.</p>
 <p>The post <a href="https://lbpost.com/news/education/after-trumps-crackdown-on-dei-in-schools-judge-rules-he-cant-cut-off-funding">After Trump’s crackdown on DEI in schools, judge rules he can’t cut off funding</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -160,7 +314,7 @@ Here's an explanation of what the documents are, how to use them to find what yo
 
 date: 2025-04-24, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the first car pulled over, but the second car that hit him drove off without stopping.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-trying-to-cross-7th-street-dies-after-being-hit-by-2-vehicles-lbpd-says">Man trying to cross 7th Street dies after being hit by 2 vehicles, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -247,7 +401,7 @@ In an announcement Monday about rules for the next Oscars, the Academy also said
 
 ## Mother’s Day is coming! Plan ahead with these brunch spot picks (and make Mom happy)
 
-date: 2025-04-24, updated: 2025-04-24, from: The LAist
+date: 2025-04-24, updated: 2025-04-25, from: The LAist
 
 Mother's Day is Sunday, May 11. Don't say we didn't warn you. 
 

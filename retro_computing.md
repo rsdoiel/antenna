@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-25 06:08:59
+updated: 2025-04-25 14:07:39
 ---
 
 # retro computing
 
-(date: 2025-04-25 06:08:59)
+(date: 2025-04-25 14:07:39)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-04-25, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 28: Around the Capes 
+
+<br> 
+
+<https://www.filfre.net/2025/04/this-week-on-the-analog-antiquarian/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2025-04-25 06:08:59
 
 date: 2025-04-25, from: Icon Bar, RISC OS News
 
-Gerph has written an open Letter to the RISC OS community about the proposed 64bit moonshot. What do yout think? 
+Gerph has written an open letter to the RISC OS community about the proposed 64bit moonshot. What do yout think? 
 
 <br> 
 

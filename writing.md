@@ -1,11 +1,72 @@
 ---
 title: writing
-updated: 2025-04-25 06:08:56
+updated: 2025-04-25 14:07:36
 ---
 
 # writing
 
-(date: 2025-04-25 06:08:56)
+(date: 2025-04-25 14:07:36)
+
+---
+
+## Audiofile’s Top New SF/F Picks from April 2025
+
+date: 2025-04-25, from: Locus Magazine
+
+<p>From our friends at AudioFile Magazine, we have the top new science fiction and fantasy Earphones Award-winning audiobooks from April 2025. The Earphones Awards are selected monthly by AudioFile for &#8220;truly exceptional titles that excel in narrative voice and style, characterizations, suitability to audio, and enhancement of the text.&#8221;</p>
+<p>From the second title in a wonderful fantasy-mystery series to a return to Panem to a fantastic meta-novel, these sci-fi and  <a href="https://locusmag.com/2025/04/audiofiles-top-new-sf-f-picks-from-april-2025/" class="read-more">...Read More </a></p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/04/the-winter-goddess.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/04/A-Drop-of-Corruption_Locus.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/04/Sunrise-on-the-Reaping_Locus.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/04/the-river-has-roots.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/04/Death-of-the-Author_Locus-1.mp3"></source>
+</audio> <a href="https://locusmag.com/wp-content/uploads/2025/04/the-winter-goddess.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://locusmag.com/2025/04/audiofiles-top-new-sf-f-picks-from-april-2025/>
+
+---
+
+## New & Notable, April 2025
+
+date: 2025-04-25, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p>Edward Ashton, <strong>The Fourth Consort</strong> (St. Martin’s 2/25) First contact and dark comedy merge in this SF novel following Derek Greaves, one of humanity’s first representatives to Unity, a supposedly benevolent pan-species confederation. He soon starts to wonder if Earth hasn’t joined the wrong alliance, but the other group, the Assembly, already dislikes Unity’s new human minions, and the miscommunications and misadventures just keep getting worse (but more entertaining)  <a href="https://locusmag.com/2025/04/new-notable-april-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/new-notable-april-2025/>
+
+---
+
+## The Tomb of Dragons by Katherine Addison: Review by Abigail Nussbaum
+
+date: 2025-04-25, from: Locus Magazine
+
+<p><strong>The Tomb of Dragons</strong>, Katherine Addison (Tor 978-1-25081-619-1, 352pp, $28.99, hc) March 2025.</p>
+<p>At the end of Katherine Addison’s <strong>The Grief of Stones </strong>(2022), the second novel in her Cemeteries of Amalo sequence, Thara Celehar, a witness for the dead – a cross between priest, detective, and necromancer – lost his powers. Since Celehar’s job involves quieting ghouls and zombies, communing with the recently deceased to discover their final  <a href="https://locusmag.com/2025/04/the-tomb-of-dragons-by-katherine-addison-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-tomb-of-dragons-by-katherine-addison-review-by-abigail-nussbaum/>
+
+---
+
+## How ‘Sinners’ Breaks Rules to Enhance Storytelling
+
+date: 2025-04-25, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-sinners-breaks-rules-to-enhance-storytelling" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Michael%20B.%20Jordan%20in%20Sinners.png" alt="Michael B. Jordan stands in a bloodied shirt wearing a backpack. Three people stand behind him including a woman holding a stake at the ready in Sinners" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>One of the most compelling aspects to <em>Sinners</em> is how it starts as a slow burn drama before switching genres to a horror at its Act 2 climax. In a world where content moves fast, <em>Sinners</em> becomes a rare feat in cinema where the filmmakers take their time telling the story and allowing the audience to fully immerse in the setting before making its abrupt change.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-sinners-breaks-rules-to-enhance-storytelling>
 
 ---
 

@@ -1,11 +1,175 @@
 ---
 title: columns
-updated: 2025-04-25 06:08:56
+updated: 2025-04-25 14:07:35
 ---
 
 # columns
 
-(date: 2025-04-25 06:08:56)
+(date: 2025-04-25 14:07:35)
+
+---
+
+##  Rediscovering the Place That Made You Give a Damn 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/rediscovering-the-place-that-made-you-give-a-damn>
+
+---
+
+## Henry Blodget’s Illustrated 2013 Travelogue of Flying in Coach on a Long International Flight
+
+date: 2025-04-25, updated: 2025-04-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.salon.com/2013/01/28/henry_blodgets_kind_of_awful_plane_ride/>
+
+---
+
+##  &#8220;In the 1980s and 1990s, PC Connection built its brand on a... 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046714-in-the-1980s-and-1990s>
+
+---
+
+##  The Trailer for Pee-wee as Himself, an HBO Documentary Series About Pee-wee Herman 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-trailer-for-pee-wee-as-himself-an-hbo-documentary-series-about-pee-wee-herman>
+
+---
+
+## April 24, 2025
+
+date: 2025-04-25, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162151677/33509267ca5c30f66f7650b0247db2f8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162151677/33509267ca5c30f66f7650b0247db2f8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-24-2025-0dc>
+
+---
+
+##  The Process for Getting a Ph.D. in the US Has Changed 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-process-for-getting-a-phd-in-the-us-has-changed>
+
+---
+
+## Henry Blodget Creates Imaginary Staff of AI Personalities for His New Website and Hits on One of Them
+
+date: 2025-04-25, updated: 2025-04-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.regenerator1.com/p/building-our-native-ai-newsroom>
+
+---
+
+##  As part of their Smithsonian purge, the Trump regime is dismantling and... 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046710-as-part-of-their-smithson>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Current status</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114399332822702999>
+
+---
+
+##  Twins Speaking Twins Speaking in Unison in Unison 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/twins-speaking-twins-speaking-in-unison-in-unison>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-25, from: Dave Winer's Scripting News)
+
+It would be nice to have ChatGPT available in the terminal app on the Mac. I could use it as a stenographer. 
+
+<br> 
+
+<http://scripting.com/2025/04/25.html#a151207>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Just crossed the 53 hour boundary.</p><p>Apple either is loving it or hating it.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114399016660427560>
+
+---
+
+##  I had no idea Logan was lousy with snowy owls. &#8220;Known as... 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046705-i-had-no-idea-logan>
+
+---
+
+##  Hmmm! Ken Burns & Lynn Novick are doing a 6-hour series on... 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046667-hmmm-ken-burns-lynn>
 
 ---
 

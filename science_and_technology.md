@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-04-25 06:08:55
+updated: 2025-04-25 14:07:34
 ---
 
 # science and technology
 
-(date: 2025-04-25 06:08:55)
+(date: 2025-04-25 14:07:34)
+
+---
+
+## More Ivanti attacks may be on horizon, say experts who are seeing 9x surge in endpoint scans
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>GreyNoise says it is the kind of activity that typically precedes new vulnerability disclosures</h4> <p>Ivanti VPN users should stay alert as IP scanning for the vendor&#39;s Connect Secure and Pulse Secure systems surged by 800 percent last week, according to threat intel biz GreyNoise.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/more_ivanti_attacks_may_be/>
+
+---
+
+## Oh, cool. Microsoft melts bug that froze Server 2025 Remote Desktop sessions
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Where have we heard this before? Feb security update needs its own fix</h4> <p>More than one month after complaints starting flying, Microsoft has fixed a Windows bug that caused some Remote Desktop sessions to freeze.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/microsoft_fixes_windows_flaw/>
+
+---
+
+## Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
+
+date: 2025-04-25, from: NASA breaking news
+
+As part of&#160;ESA/Hubble’s 35th anniversary celebrations, the European Space Agency (ESA) shared new images that revisited stunning, previously released Hubble targets with the addition of the latest Hubble data and new processing techniques. ESA/Hubble released new images of&#160;NGC 346, the&#160;Sombrero Galaxy, and the&#160;Eagle Nebula&#160;earlier in the month. Now they are revisiting the star cluster&#160;Messier 72 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/>
+
+---
+
+## Hydrotreated vegetable oil is not an emission-free swap for diesel in datacenters
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Biofuel lowers pollutants, but won&#39;t eliminate &#39;em, and could mean DCs compete for supplies</h4> <p>Datacenter operators are being encouraged to adopt hydrotreated vegetable oil (HVO) as a replacement for diesel in generators, however, analysts say the sustainable stand-in is not emission-free and has its own drawbacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/hvo_not_an_emissionfree_swap/>
+
+---
+
+## M&amp;S stops online orders as 'cyber incident' issues worsen
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>One step forward and one step back as earlier hopes of progress dashed by latest update</h4> <p>Marks &amp; Spencer has paused online orders for customers via its website and app as the UK retailer continues to wrestle with an ongoing &#34;cyber incident.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/ms_halts_online_orders/>
+
+---
+
+## Emergency patch for potential SAP zero-day that could grant full system control
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>German software giant paywalls details, but experts piece together the clues</h4> <p>SAP&#39;s latest out-of-band patch is for a perfect 10/10 bug in NetWeaver that experts suspect could have already been exploited as a zero-day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/sap_netweaver_patch/>
+
+---
+
+## NASA Invites Local Middle Schoolers to Explore Agency STEM Careers
+
+date: 2025-04-25, from: NASA breaking news
+
+Ohio middle school students will step into the shoes of real-world NASA professionals for a day of career exploration and hands-on activities at NASA’s Glenn Research Center in Cleveland. Nearly 200 students are slated to participate in TECH Day at NASA Glenn on May 1, from 10 a.m. to 1 p.m. Media are invited to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-local-middle-schoolers-to-explore-agency-stem-careers/>
+
+---
+
+## Sols 4520-4521: Prinzregententorte
+
+date: 2025-04-25, from: NASA breaking news
+
+Written by Scott VanBommel, Planetary Scientist at Washington University Earth planning date: Wednesday, April 23, 2025 I will start this blog with an apology, an apology because I suspect, by the end of this post, you, the reader, may have a craving for chocolate, or cake, or both. While we saw hints of it in […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4520-4521-prinzregententorte/>
+
+---
+
+## Hubble Space Telescope is still producing science at 35
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Remember when NASA was laser focused on that?</h4> <p>It was 35 years ago when the Hubble Space Telescope deployed into orbit, sent by a space agency facing an existential crisis. Thirty-five years on, not much seems to have changed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/hubble_space_scope_35/>
+
+---
+
+## What’s Going On Inside Io, Jupiter’s Volcanic Moon?
+
+date: 2025-04-25, from: Quanta Magazine
+
+Recent flybys of the fiery world refute a leading theory of its inner structure — and reveal how little is understood about geologically active moons.            <p>The post <a href="https://www.quantamagazine.org/whats-going-on-inside-io-jupiters-volcanic-moon-20250425/" target="_blank">What’s Going On Inside Io, Jupiter’s Volcanic Moon?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/whats-going-on-inside-io-jupiters-volcanic-moon-20250425/>
+
+---
+
+## Navigation Technology
+
+date: 2025-04-25, from: NASA breaking news
+
+Science in Space April 2025 Humans have always been explorers, venturing by land and sea into unknown and uncharted places on Earth and, more recently, in space. Early adventurers often navigated by the Sun and stars, creating maps that made it easier for others to follow. Today, travelers on Earth have sophisticated technology to guide [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/navigation-technology/>
+
+---
+
+## Google admits depreciation costs are soaring amid furious bit barn build
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Still plans to invest $75B in CapEx this year as unable to meet capacity demand</h4> <p>Google says the mega capital splurge on datacenters in recent years is putting more strain on its balance sheet due to rising depreciation costs, yet it still plans to splash $75 billion on bit barns in 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/google_admits_depreciation_costs_soaring/>
 
 ---
 
@@ -30,6 +174,18 @@ Jeremy Johnson laces his black, steel-toed boots and zips up his dark blue fligh
 <br> 
 
 <https://www.nasa.gov/centers-and-facilities/glenn/air-force-pilot-skillbridge-fellow-helps-nasa-research-soar/>
+
+---
+
+## Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
+
+date: 2025-04-25, from: NASA breaking news
+
+As part of ESA/Hubble’s 35th anniversary celebrations, the European Space Agency (ESA) shared new images that revisited stunning, previously released Hubble targets with the addition of the latest Hubble data and new processing techniques. ESA/Hubble released new images of NGC 346, the Sombrero Galaxy, and the Eagle Nebula earlier in the month. Now they are […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/>
 
 ---
 
@@ -95,7 +251,7 @@ date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
 
 ## New Intel boss is all about ‘de-laborating’ the x86 giant – aka job cuts
 
-date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+date: 2025-04-24, updated: 2025-04-25, from: The Register (UK I.T. News)
 
 <h4>Thousands face ax, more given RTO orders in quest to suck less</h4> <p>Intel&#39;s new CEO Lip-Bu Tan is swinging the ax again, with another round of layoffs incoming as Chipzilla tries to reboot its core.…</p> 
 
@@ -109,7 +265,7 @@ date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
 
 date: 2025-04-24, from: OS News
 
-As much as I&#8217;m a fan of breaking up Google, I&#8217;m not entirely sure carving Chrome out of Google without a further plan for what happens to the browser is a great idea. I mean, Google is bad, but but things could be so, so much worse. OpenAI would be interested in buying Google&#8217;s Chrome if antitrust enforcers are successful in forcing the Alphabet unit to sell the popular web browser as part of a bid to restore competition in search, an OpenAI executive testified on Tuesday at Google&#8217;s antitrust trial in Washington. ↫ Jody Godoy at Reuters OpenAI is not the only &#8220;AI&#8221; vulture circling the skies. Perplexity Chief Business Officer Dmitry Shevelenko said he didn’t want to testify in a trial about how to resolve Google’s search monopoly because he feared retribution from Google. But after being subpoenaed to appear in court, he seized the moment to pitch a business opportunity for his AI company: buying Chrome. ↫ Lauren Feiner at the Verge Or, you know, what about, I don&#8217;t know, fucking Yahoo!? Legacy search brand Yahoo has been working on its own web browser prototype, and says it would like to buy Google’s Chrome if the company is forced by a court to sell it. ↫ Lauren Feiner at the Verge If the courts really want Google to divest Chrome, the least-worst position it could possibly end up is in some sort of open source foundation or similar legal construction, where no one company has total control over the world&#8217;s most popular browser. Of course, such a construction isn&#8217;t exactly ideal either &#8211; it will become a battleground of corporate interests soaked with the blood of ordinary users &#8211; but anything, anything is better than cud peddlers like OpenAI or whatever the hell Yahoo! even is these days. As users, we really should not want Google to be forced to divest Chrome at this point in time. No matter the outcome, users are going to be screwed even harder than if it were to stay with Google. I hate to say this, but I don&#8217;t see an option that&#8217;s better than having Chrome remain part of Google. The big problem here is that there is no coherent strategy to deal with the big technology companies in the United States. We&#8217;re looking at individual lawsuits where judges and medieval nonsense like juries try to deal with individual companies, which, even if, say, Google gets broken up, would do nothing but strengthen the other big technology companies. If, I don&#8217;t know, Android suddenly had to make it on its own as a company, it&#8217;s not users who would benefit, but Apple. Is that the goal of antitrust? What you really need to deal with the inordinate power of the big technology companies is legislation that deals with the sector as a whole, instead of letting random courts and people forced to do jury duty decide what to do with Google or Amazon or whatever. The European Union is doing this to great success so far, getting all the major players to make sweeping changes to the benefit of users in the EU. If the United States is serious about dealing with the abusive behaviour of the big technology companies, it&#8217;s going to need to draft and pass legislation similar to the European Union&#8217;s DMA and DSA. Of course, that&#8217;s not going to happen. The United States Congress is broken beyond repair, the US president and his gaggle of incompetents are too busy destroying the US economy and infecting children with measles, and the big tech companies themselves are just bribing US politicians in broad daylight. The odds of the US being able to draft and pass effective big tech antitrust regulations is lower than zero. OpenAI Chrome. You feeling better yet about the open web? 
+As much as I&#8217;m a fan of breaking up Google, I&#8217;m not entirely sure carving Chrome out of Google without a further plan for what happens to the browser is a great idea. I mean, Google is bad, but things could be so, so much worse. OpenAI would be interested in buying Google&#8217;s Chrome if antitrust enforcers are successful in forcing the Alphabet unit to sell the popular web browser as part of a bid to restore competition in search, an OpenAI executive testified on Tuesday at Google&#8217;s antitrust trial in Washington. ↫ Jody Godoy at Reuters OpenAI is not the only &#8220;AI&#8221; vulture circling the skies. Perplexity Chief Business Officer Dmitry Shevelenko said he didn’t want to testify in a trial about how to resolve Google’s search monopoly because he feared retribution from Google. But after being subpoenaed to appear in court, he seized the moment to pitch a business opportunity for his AI company: buying Chrome. ↫ Lauren Feiner at the Verge Or, you know, what about, I don&#8217;t know, fucking Yahoo!? Legacy search brand Yahoo has been working on its own web browser prototype, and says it would like to buy Google’s Chrome if the company is forced by a court to sell it. ↫ Lauren Feiner at the Verge If the courts really want Google to divest Chrome, the least-worst position it could possibly end up is in some sort of open source foundation or similar legal construction, where no one company has total control over the world&#8217;s most popular browser. Of course, such a construction isn&#8217;t exactly ideal either &#8211; it will become a battleground of corporate interests soaked with the blood of ordinary users &#8211; but anything, anything is better than cud peddlers like OpenAI or whatever the hell Yahoo! even is these days. As users, we really should not want Google to be forced to divest Chrome at this point in time. No matter the outcome, users are going to be screwed even harder than if it were to stay with Google. I hate to say this, but I don&#8217;t see an option that&#8217;s better than having Chrome remain part of Google. The big problem here is that there is no coherent strategy to deal with the big technology companies in the United States. We&#8217;re looking at individual lawsuits where judges and medieval nonsense like juries try to deal with individual companies, which, even if, say, Google gets broken up, would do nothing but strengthen the other big technology companies. If, I don&#8217;t know, Android suddenly had to make it on its own as a company, it&#8217;s not users who would benefit, but Apple. Is that the goal of antitrust? What you really need to deal with the inordinate power of the big technology companies is legislation that deals with the sector as a whole, instead of letting random courts and people forced to do jury duty decide what to do with Google or Amazon or whatever. The European Union is doing this to great success so far, getting all the major players to make sweeping changes to the benefit of users in the EU. If the United States is serious about dealing with the abusive behaviour of the big technology companies, it&#8217;s going to need to draft and pass legislation similar to the European Union&#8217;s DMA and DSA. Of course, that&#8217;s not going to happen. The United States Congress is broken beyond repair, the US president and his gaggle of incompetents are too busy destroying the US economy and infecting children with measles, and the big tech companies themselves are just bribing US politicians in broad daylight. The odds of the US being able to draft and pass effective big tech antitrust regulations is lower than zero. OpenAI Chrome. You feeling better yet about the open web? 
 
 <br> 
 
@@ -150,6 +306,18 @@ NASA’s Artemis campaign will use human landing systems, provided by SpaceX and
 <br> 
 
 <https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-fires-up-hybrid-rocket-motor-to-prep-for-moon-landings/>
+
+---
+
+## NASA Marshall Fires Up Hybrid Rocket Motor to Prep for Moon Landings
+
+date: 2025-04-24, from: NASA breaking news
+
+NASA’s Artemis campaign will use human landing systems, provided by SpaceX and Blue Origin, to safely transport crew to and from the surface of the Moon, in preparation for future crewed missions to Mars. As the landers touch down and lift off from the Moon, rocket exhaust plumes will affect the top layer of lunar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-fires-up-hybrid-rocket-motor-to-prep-for-moon-landings/>
 
 ---
 
@@ -515,7 +683,7 @@ date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
 
 ## IBM dragged down by DOGE contract cancellation roulette
 
-date: 2025-04-23, updated: 2025-04-23, from: The Register (UK I.T. News)
+date: 2025-04-23, updated: 2025-04-25, from: The Register (UK I.T. News)
 
 <h4>Big Blue downplays impact of Elon-gated cost-cutting</h4> <p>IBM beat Wall Street&#39;s expectations for both revenue and income in the first quarter of 2025, but its stock price still dropped more than six percent in after-hours trading.…</p> 
 

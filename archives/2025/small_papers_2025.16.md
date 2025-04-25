@@ -1,11 +1,53 @@
 ---
 title: small papers
-updated: 2025-04-25 06:09:01
+updated: 2025-04-25 14:07:40
 ---
 
 # small papers
 
-(date: 2025-04-25 06:09:01)
+(date: 2025-04-25 14:07:40)
+
+---
+
+## Insights from your local thalassophile … Deepwater skates sure are are cute creatures
+
+date: 2025-04-25, from: Catalina Islander
+
+Last Sunday, I was invited to the C.I.M.I.’s annual wine fest. What a treat! While on campus, we visited a few lobs, which I have never done at night. As soon as I reached the aquarium, the most darling triangular fella was seen jumping for joy in his tank. There were several juvenile deep sea [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/insights-from-your-local-thalassophile-deepwater-skates-sure-are-are-cute-creatures/>
+
+---
+
+## California railroads: Unions push to shorten trains, but companies warn of higher costs
+
+date: 2025-04-25, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Unions are pushing for shorter freight trains to make railways safer, but that could raise the cost of goods and delay passenger rail service. It also may not be legal.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/california-railroads-unions-push-to-shorten-trains-but-companies-warn-of-higher-costs">California railroads: Unions push to shorten trains, but companies warn of higher costs</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/california-railroads-unions-push-to-shorten-trains-but-companies-warn-of-higher-costs>
+
+---
+
+## Man charged with felony animal cruelty for allegedly slamming dog into ground; rescuers say she’s recovering well
+
+date: 2025-04-25, from: Long Beach Post
+
+<figure><img width="1024" height="659" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz.jpg 1060w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The young pup, a German shepherd mix named Inara, has some injuries but is "energetic, bright and responsive," according to Long Beach Animal Care Services.</p>
+<p>The post <a href="https://lbpost.com/news/crime/dog-abuse-video-long-beach-charges-ok">Man charged with felony animal cruelty for allegedly slamming dog into ground; rescuers say she&#8217;s recovering well</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/dog-abuse-video-long-beach-charges-ok>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2025-04-25 06:09:01
 
 date: 2025-04-24, from: Long Beach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California receives $2.4 billion in federal Title I money for low-income schools, about $1.3 billion for special education and $250 million for after-school programs, among other grants.</p>
 <p>The post <a href="https://lbpost.com/news/education/after-trumps-crackdown-on-dei-in-schools-judge-rules-he-cant-cut-off-funding">After Trump’s crackdown on DEI in schools, judge rules he can’t cut off funding</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +70,7 @@ date: 2025-04-24, from: Long Beach Post
 
 date: 2025-04-24, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the first car pulled over, but the second car that hit him drove off without stopping.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-trying-to-cross-7th-street-dies-after-being-hit-by-2-vehicles-lbpd-says">Man trying to cross 7th Street dies after being hit by 2 vehicles, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

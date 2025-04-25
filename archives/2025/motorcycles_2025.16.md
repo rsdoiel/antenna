@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-04-25 06:08:59
+updated: 2025-04-25 14:07:39
 ---
 
 # motorcycles
 
-(date: 2025-04-25 06:08:59)
+(date: 2025-04-25 14:07:39)
+
+---
+
+## Arctic Cat Snowmobiles Bought By Investment Group, Hopefully Saving the Company
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+Suffice it to say that we can expect big things from Arctic Cat in the coming years. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757685/artic-cat-acquired-brad-darling-investment-group/>
+
+---
+
+## Aftermarket Specialist Puig Has a Massive Catalog For the BMW R 1300 GS
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+Everything from wild body kits to touring accessories. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757557/puig-aftermarket-accessories-bmw-r1300gs/>
+
+---
+
+## New York Doesn't Have Any Motorcycle Riding Schools Right Now, and It's Stupid Why
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+Bureaucracy or death! 
+
+<br> 
+
+<https://www.rideapart.com/news/757677/new-york-state-dmv-motorcycle-safety-school/>
 
 ---
 

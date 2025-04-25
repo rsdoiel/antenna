@@ -1,11 +1,85 @@
 ---
 title: ham radio
-updated: 2025-04-25 06:08:55
+updated: 2025-04-25 14:07:33
 ---
 
 # ham radio
 
-(date: 2025-04-25 06:08:55)
+(date: 2025-04-25 14:07:33)
+
+---
+
+## New Book Release: Salty Walt’s Portable Antenna Sketchbook
+
+date: 2025-04-25, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/new-book-release-salty-walt-s-portable-antenna-sketchbook>
+
+---
+
+## ARRL Teachers Institute Application Deadline April 30
+
+date: 2025-04-25, from: Amateur Radio Relay League News
+
+<p>Applicants for the summer 2025 sessions of the ARRL Teachers Institute on Wireless Technology must apply by April 30 to be considered. The application process is straightforward. Interested educators can find the web form at www.arrl.org/ti. ARRL covers all the costs of the TI, including travel, but there is a $100 application fee if the teacher is accepted.</p><p>The Teachers Institutes are a product...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-application-deadline-april-30>
+
+---
+
+## ARRL Exhibits and Forums Planned for 2025 Dayton Hamvention
+
+date: 2025-04-25, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-exhibits-and-forums-planned-for-2025-dayton-hamvention>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-04-25, from: Amateur Radio Relay League News
+
+<p>Solar activity has been at low levels with only minor C-class<br />flaring through April 24, 2025, and is expected to be moderate with<br />a chance of M-class flares (R1-R2, Minor-Moderate) through April 26.<br />No Earth-directed Coronal Mass Ejections (CMEs) have been observed.<br />A southwest CME was observed on April 23 and is considered to be<br />far-side due to the lack of any on-disk plasma motion/flare<br />activity.<br />  ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-11>
+
+---
+
+## Amateur Radio Helps 2025 Boston Marathon
+
+date: 2025-04-25, from: Amateur Radio Relay League News
+
+<p>Over 280 amateur radio operators volunteered during the 129th running of the Boston Marathon on April 21, 2025. </p><p>Operators were working at virtually every location connected with the race, including the starting line, the entire course, the finish line, transportation, and various operations centers including the Massachusetts Emergency Management Agency (MEMA), the State EOC Unified Command Cen...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/amateur-radio-helps-2025-boston-marathon>
+
+---
+
+## Another simple flip ON flop OFF circuit
+
+date: 2025-04-25, from: EDN Blog
+
+<img width="1639" height="901" src="https://www.edn.com/wp-content/uploads/ON_OFF-for-AC_Figure-1.png?fit=1639%2C901" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/ON_OFF-for-AC_Figure-1.png?w=1639 1639w, https://www.edn.com/wp-content/uploads/ON_OFF-for-AC_Figure-1.png?w=300 300w, https://www.edn.com/wp-content/uploads/ON_OFF-for-AC_Figure-1.png?w=768 768w, https://www.edn.com/wp-content/uploads/ON_OFF-for-AC_Figure-1.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/ON_OFF-for-AC_Figure-1.png?w=1536 1536w" sizes="(max-width: 1639px) 100vw, 1639px" /><p>A simple push button circuit that connects the DC rail to the load when pressed once and disconnects it when pressed a second time.</p>
+<p>The post <a href="https://www.edn.com/another-simple-flip-on-flop-off-circuit/">Another simple flip ON flop OFF circuit</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/another-simple-flip-on-flop-off-circuit/>
 
 ---
 
@@ -13,7 +87,7 @@ updated: 2025-04-25 06:08:55
 
 date: 2025-04-25, from: EDN Blog
 
-<img width="900" height="506" src="https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?fit=900%2C506" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=900 900w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=800 800w" sizes="(max-width: 900px) 100vw, 900px" /><p>Andes employs S2C’s new FPGA prototyping platform to bolster SoC designs developed around its RISC-V processor cores.</p>
+<img width="900" height="506" src="https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?fit=900%2C506" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=900 900w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=800 800w" sizes="auto, (max-width: 900px) 100vw, 900px" /><p>Andes employs S2C’s new FPGA prototyping platform to bolster SoC designs developed around its RISC-V processor cores.</p>
 <p>The post <a href="https://www.edn.com/fpga-prototyping-harnessed-for-risc-v-processor-cores/">FPGA prototyping harnessed for RISC-V processor cores</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -193,7 +267,7 @@ date: 2025-04-22, from: EDN Blog
 
 date: 2025-04-21, from: Amateur Radio Relay League News
 
-<p>ARRL Ham Radio Open House events are garnering press around the country. In Yaphank, New York, on Long Island, an event held by the Suffolk County Radio Club was featured in Newsday (paywall).</p><p>Reporter Joe Werkmeister profiled the club’s event that drew out a crowd of visitors. ARRL Hudson Division Director Ed Wilson, W2XDD, who serves as Vice President of the club, was quoted in the story. </p><p></p><p>Many...</p> 
+ 
 
 <br> 
 

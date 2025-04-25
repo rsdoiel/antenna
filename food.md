@@ -1,11 +1,155 @@
 ---
 title: food
-updated: 2025-04-25 06:09:00
+updated: 2025-04-25 14:07:40
 ---
 
 # food
 
-(date: 2025-04-25 06:09:00)
+(date: 2025-04-25 14:07:40)
+
+---
+
+## The Best Store-Bought Potato Salads, Ranked
+
+date: 2025-04-25, from: Taste of Home
+
+<p>When time is of the essense and you're planning a barbecue spread, the best store-bought potato salad can rival homemade options. We found the one that's just as good as your classic family recipe.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-store-bought-potato-salad/">The Best Store-Bought Potato Salads, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-store-bought-potato-salad/>
+
+---
+
+## McDonald’s Just Dropped McCrispy Strips—Here’s Everything We Know
+
+date: 2025-04-25, from: Taste of Home
+
+<p>Time to welcome the first permanent menu item at McDonald's in four years.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-mccrispy-strips/">McDonald&#8217;s Just Dropped McCrispy Strips—Here&#8217;s Everything We Know</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-mccrispy-strips/>
+
+---
+
+## All the Recipes From Bon Appétit’s Art and Design Issue
+
+date: 2025-04-25, from: Bon Appetet
+
+We’ve got shrimp and pea pancakes, strawberry-rhubarb cheesecake bars, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/bon-appetit-may-2025-issue>
+
+---
+
+## Is It Safe to Cook with Copper Pots and Pans?
+
+date: 2025-04-25, from: Taste of Home
+
+<p>The gleam of copper brings instant French style to any kitchen, but is copper cookware actually safe to use?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/is-copper-cookware-safe/">Is It Safe to Cook with Copper Pots and Pans?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/is-copper-cookware-safe/>
+
+---
+
+## How Pope Francis’s Love for ‘Alfajores’ Reflects His Life and Legacy
+
+date: 2025-04-25, from: Taste of Home
+
+<p>The Pope made modest choices, living in a simple apartment and cooking his own meals.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pope-francis-favorite-dessert/">How Pope Francis&#8217;s Love for &#8216;Alfajores&#8217; Reflects His Life and Legacy</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pope-francis-favorite-dessert/>
+
+---
+
+## 6 Best Meal Delivery Services for Digestive Disorders, Tested and Reviewed by a Nutritionist (2025)
+
+date: 2025-04-25, from: Bon Appetet
+
+For people with gut health conditions, these services really deliver. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-meal-delivery-services-for-digestive-disorders>
+
+---
+
+## The Best Boning Knife (2025) Will Have You Butchering Meat Like a Pro
+
+date: 2025-04-25, from: Bon Appetet
+
+If you regularly break down chickens or fillet fish, you need one in your life. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-boning-knife>
+
+---
+
+## Acaia Releases New Product The Umbra Lunar
+
+date: 2025-04-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Acaia's latest boundary-pushing product features industrial weighing technology in a minimalist, display-free design. 
+
+<br> 
+
+<https://sprudge.com/acaia-releases-new-product-the-umbra-lunar-322146.html>
+
+---
+
+## Stanley Tucci Served This at His Wedding Instead of Cake
+
+date: 2025-04-25, from: Taste of Home
+
+<p>His 2012 wedding to Felicity Blunt must have been a veritable feast of Italian delicacies. But he didn't serve any cake!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-tucci-wedding-cake-alternative/">Stanley Tucci Served This at His Wedding Instead of Cake</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-tucci-wedding-cake-alternative/>
+
+---
+
+## Warm Peach Cake
+
+date: 2025-04-25, from: Taste of Home
+
+Those ripe summer peaches are pure gold. Showcase them in a worthwhile dessert, like this stunning peach cake. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/warm-peach-cake/>
+
+---
+
+## This Is the Only Knife That Ina Garten Will Use in the Kitchen
+
+date: 2025-04-25, from: Taste of Home
+
+<p>Ina is always there for you—even when it comes to knife recommendations. Store yours like she does to keep the blades sharp.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-favorite-knife-wusthof-classic/">This Is the Only Knife That Ina Garten Will Use in the Kitchen</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-favorite-knife-wusthof-classic/>
 
 ---
 
@@ -20,6 +164,18 @@ date: 2025-04-25, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/jennifer-aniston-pasta-recipe/>
+
+---
+
+## The Specialty Coffee Association is Taking Over the Q Grader Program
+
+date: 2025-04-25, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee cupping" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The U.S.- and Europe-based Specialty Coffee Association (SCA) announced it is taking over management of the Q Grader program beginning Oct. 1, 2025. The Q program has been the flagship... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/25/the-specialty-coffee-association-is-taking-over-the-q-grader-program/>
 
 ---
 
@@ -53,7 +209,7 @@ date: 2025-04-25, from: Taste of Home
 
 date: 2025-04-25, from: Daily Coffee News
 
-<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-768x554.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Banks Predict Dramatic Reductions in Brazil&#8217;s 2025/26 Arabica Output... 
+<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-768x554.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Banks Predict Dramatic Reductions in Brazil&#8217;s 2025/26 Arabica Output... 
 
 <br> 
 
@@ -375,7 +531,7 @@ date: 2025-04-23, from: The Sprudge
 
 date: 2025-04-23, from: Daily Coffee News
 
-<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg" class="attachment-large size-large wp-post-image" alt="neuhaus neotec gourmet" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-150x111.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>German industrial roasting systems maker Neuhaus Neotec recently introduced three new industrial hot-air roasting machines under the Gourmet series name. The three new models are: the Gourmet 1000, which roasts... 
+<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg" class="attachment-large size-large wp-post-image" alt="neuhaus neotec gourmet" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/neuhaus-neotec-gourmet-150x111.jpg 150w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>German industrial roasting systems maker Neuhaus Neotec recently introduced three new industrial hot-air roasting machines under the Gourmet series name. The three new models are: the Gourmet 1000, which roasts... 
 
 <br> 
 

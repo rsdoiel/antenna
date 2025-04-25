@@ -1,11 +1,53 @@
 ---
 title: libraries
-updated: 2025-04-25 06:08:58
+updated: 2025-04-25 14:07:38
 ---
 
 # libraries
 
-(date: 2025-04-25 06:08:58)
+(date: 2025-04-25 14:07:38)
+
+---
+
+## Global Perspectives on Librarianship from lorraine j. haricombe
+
+date: 2025-04-25, from: Association of Research Libraries News
+
+<p>Last Updated on April 25, 2025, 3:30 pm ET lorraine j. haricombe will retire from her position as vice provost and director of the University of Texas Libraries at the...</p>
+<p>The post <a href="https://www.arl.org/blog/global-perspectives-on-librarianship-from-lorraine-j-haricombe-2/">Global Perspectives on Librarianship from lorraine j. haricombe</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/global-perspectives-on-librarianship-from-lorraine-j-haricombe-2/>
+
+---
+
+## April 2025
+
+date: 2025-04-25, from: Association of Research Libraries News
+
+<p>Last Updated on April 25, 2025, 9:39 am ET ARL Public Policy Briefing (April 2025) This issue includes: Access to Government Information US Government Publishing Office Introduces Legislative Proposals for...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/april-2025/">April 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/april-2025/>
+
+---
+
+## Parting Thoughts from Harriette Hemmasi
+
+date: 2025-04-25, from: Association of Research Libraries News
+
+<p>Last Updated on April 25, 2025, 9:34 am ET At the end of August, Harriette Hemmasi will be stepping down from her role as dean of Georgetown University Libraries, a...</p>
+<p>The post <a href="https://www.arl.org/blog/parting-thoughts-from-harriette-hemmasi/">Parting Thoughts from Harriette Hemmasi</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/parting-thoughts-from-harriette-hemmasi/>
 
 ---
 
@@ -20,6 +62,30 @@ date: 2025-04-25, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/04/25/cephalopod-update-first-video-footage-of-a-colossal-squid-recorded/>
+
+---
+
+## Electron-induced dissociation of HFO1234ze: dissociative electron attachment and dissociative ionization*
+
+date: 2025-04-25, from: ETH Zurich, recently added
+
+Lyshchuk, Hlib; Metting van Rijn, Marnik; Paul, Anirban; Kočišek, Jaroslav; Ranković, Miloš; Nag, Pamir; Fedor, Juraj 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732768>
+
+---
+
+## Study Trip Report – Northern European Higher Education Systems
+
+date: 2025-04-25, from: ETH Zurich, recently added
+
+Perich, Robert; Schnyder, Stefan; Rageth, Ladina; Golub, Noah 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732760>
 
 ---
 
@@ -68,7 +134,7 @@ date: 2025-04-23, from: SciELO in Perspective
 
 date: 2025-04-23, from: Association of Research Libraries News
 
-<p>Last Updated on April 24, 2025, 7:11 pm ET     John Pollitz’s journey into librarianship was anything but conventional. Initially pursuing academia as a photography student, he later completed...</p>
+<p>Last Updated on April 25, 2025, 4:51 pm ET John Pollitz’s journey into librarianship was anything but conventional. Initially pursuing academia as a photography student, he later completed a master’s...</p>
 <p>The post <a href="https://www.arl.org/blog/the-john-pollitz-story-turning-pages-changing-lives/">The John Pollitz Story: Turning Pages &#038; Changing Lives</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

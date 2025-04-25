@@ -1,11 +1,259 @@
 ---
 title: home
-updated: 2025-04-25 06:08:58
+updated: 2025-04-25 14:07:38
 ---
 
 # home
 
-(date: 2025-04-25 06:08:58)
+(date: 2025-04-25 14:07:38)
+
+---
+
+## DIY Container Herb Garden Planter + The Best Herbs to Grow
+
+date: 2025-04-25, from: Homestead and Chil
+
+<p>Come learn how to make an easy DIY herb garden planter from a pot, metal tub, or other container - perfect for small spaces, a patio, balcony, indoors, or backyard garden. Also learn what herbs grow best together in a container!</p>
+<p>The post <a href="https://homesteadandchill.com/diy-container-herb-garden-planter/">DIY Container Herb Garden Planter + The Best Herbs to Grow</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/diy-container-herb-garden-planter/>
+
+---
+
+## Rare Plant of the Month: Mt. Diablo fairy-lantern
+
+date: 2025-04-25, from: California Native Plants Society
+
+<p>Winner of coolest native plant name? That might have to be the rare Mt. Diablo fairy-lantern, whose common name suggests both devilish danger and ethereal sweetness. </p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-mt-diablo-fairy-lantern-43444">Rare Plant of the Month: Mt. Diablo fairy-lantern</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-mt-diablo-fairy-lantern-43444>
+
+---
+
+## An Earthship Just Landed on the Market in Taos for $290K
+
+date: 2025-04-25, from: Dwell
+
+The funky New Mexico home is powered by the sun and embedded in the land with curvaceous walls and lots of gardening space—inside and out. 
+
+<br> 
+
+<https://www.dwell.com/article/earthship-sustainable-home-taos-new-mexico-real-estate-59cc4815>
+
+---
+
+## Are You Washing Your Hands Correctly? Here’s How To Do It Right
+
+date: 2025-04-25, from: Family Handyman Blog
+
+<p>Dirty hands can sabotage your health and your home projects. Here are the best ways to get those mitts clean.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-wash-your-hands/">Are You Washing Your Hands Correctly? Here&#8217;s How To Do It Right</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-wash-your-hands/>
+
+---
+
+## Airbnb Is Forced to Show All Fees Up Front—and Everything Else You Need to Know About This Week
+
+date: 2025-04-25, from: Dwell
+
+How Trump’s tariffs could make homes more expensive, Santa Monica backs out of the 2028 Olympics, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-populus-hotel-airbnb-fees-california-fire-insurance-36dc933b>
+
+---
+
+## Budget Breakdown: A $1.1M Prefab Gives a Divorcée a Fresh Start in Midcoast Maine
+
+date: 2025-04-25, from: Dwell
+
+The customized model from BrightBuilt Home has a large deck, tons of windows, and personal touches like a horseshoe crab knocker on the front door. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-st-george-prefab-brightbuilt-home-little-diamond-6e6fc954>
+
+---
+
+## How Much Sun Do Tomatoes Need?
+
+date: 2025-04-25, from: The Gardener's Path
+
+<p>The key to growing big, colorful, juicy tomatoes is plenty of light and moisture. These sun lovers can't perform their best without lots of time basking in bright light. Learn all about tomato plant light exposure needs from seed to harvest, including tips to manage heatwaves, in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/tomato-sun-needs/">How Much Sun Do Tomatoes Need?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/tomato-sun-needs/>
+
+---
+
+## Is the Future of the Outdoors...Indoors?
+
+date: 2025-04-25, from: Dwell
+
+In an increasingly extreme climate reality, man-made environments that simulate nature might present surprising design lessons. 
+
+<br> 
+
+<https://www.dwell.com/article/is-the-future-of-the-outdoors-indoors-fake-beaches-indoor-ski-resorts-8c786e40-110d61b9>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Coolest Wine Region in the West Is Actually in Mexico
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+A celebrated architect shares his favorite things to doin Valle de Guadalupe, the West's coolest wine region. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-valle-de-guadalupe>
+
+---
+
+## A Bay Area Kitchen Gets a Preppy East Coast Makeover
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+A Bay Area kitchen gets a classic, preppy makeover thanks to its owners' love of classic, traditional design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/bay-area-preppy-kitchen-makeover>
+
+---
+
+## Everyone’s Favorite Luxury Bedding Line Is Coming to Target
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+Parachute is beloved for its high-quality, luxe bedding and linens. Now, the brand is teaming up with Target on an affordable collection. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/parachute-target-collection>
+
+---
+
+## It’s Peak Strawberry Season—Here’s How to Make the Most of It
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+While you can get strawberries year-round, the best time to enjoy the fruit is spring and summer. Try these strawberry recipes this season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/strawberry-recipes>
+
+---
+
+## The 3 Important Design Elements That Will Increase Your Home’s Value
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+There are some surprising design details that will increase your home's value. A new Zillow report shares three that make a big difference. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/design-features-increase-home-value>
+
+---
+
+## Earth Week profile — Office of Agricultural Resilience and Sustainability (OARS) launches newsletter and blog to strengthen program visibility and collaboration
+
+date: 2025-04-25, from: Calfifornia Dept. Aggriculture blog
+
+By Dr. Tawny Mata, Director of Office of Agricultural Resilience and Sustainability In March, the Office of Agricultural Resilience and Sustainability (OARS) unveiled a new name and logo—marking a significant milestone in the evolution of the office. This update is &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28882">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28882>
+
+---
+
+## Maui Needs Visitors. Here’s How to Visit the Tropical Destination Mindfully.
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+Almost two years after the Maui wildfires, locals share how to travel mindfully to Maui, from where to go and what to do. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-travel-mindfully-to-maui>
+
+---
+
+## This Is What You Need to Take with You When Checking out Spring’s Super Blooms
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+Don’t let allergies get in your way—here's everything you need to hike through spring’s super blooms. Check out our gear recommendations. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/super-bloom-hiking-gear>
+
+---
+
+## Green Drenching Is the Trend Taking Over Gardens This Spring—Here’s How to Do It
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+Time to turn your backyard into a lush retreat. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/green-drenching-2>
+
+---
+
+## Inside a Mid-Century Home with an ‘East Meets Pacific Northwest’ Minimalist Aesthetic
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+This historic mid-century modern house was renovated to respect its original design, while improving the flow and function. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/portland-mori-house-shed-architecture>
+
+---
+
+## Travel Back in Time at the Eeriest Ghost Towns in the West
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+Check out these thirteen incredibly well-preserved ghost towns aross the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/ghost-town>
 
 ---
 
@@ -126,18 +374,6 @@ Designed in 1948 by Thomas Dolliver Church, the kidney pool—and its artistic e
 <br> 
 
 <https://www.dwell.com/article/kidney-pool-thomas-church-donnell-california-el-novillero-300e10e2>
-
----
-
-## Travel Back in Time at the Eeriest Ghost Towns in the West
-
-date: 2025-04-24, from: Sunset Magazine - Living in the West
-
-Check out these thirteen incredibly well-preserved ghost towns aross the West. 
-
-<br> 
-
-<https://www.sunset.com/travel/ghost-town>
 
 ---
 
@@ -307,30 +543,6 @@ Jaime Rummerfield of non-profit Save Iconic Architecture shares an 8-point plan 
 <br> 
 
 <https://www.sunset.com/lifestyle/how-to-preserve-los-angeles-architecture>
-
----
-
-## It’s Peak Strawberry Season—Here’s How to Make the Most of It
-
-date: 2025-04-24, from: Sunset Magazine - Living in the West
-
-While you can get strawberries year-round, the best time to enjoy the fruit is spring and summer. Try these strawberry recipes this season. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/strawberry-recipes>
-
----
-
-## Homepage 2025
-
-date: 2025-04-24, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -546,18 +758,6 @@ Cedar Architecture and Treenet Collective come up with a colorful and creative s
 
 ---
 
-## Everyone’s Favorite Luxury Bedding Line Is Coming to Target
-
-date: 2025-04-23, from: Sunset Magazine - Living in the West
-
-Parachute is beloved for its high-quality, luxe bedding and linens. Now, the brand is teaming up with Target on an affordable collection. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/parachute-target-collection>
-
----
-
 ## How to Detect and Control Spider Mite Infestations
 
 date: 2025-04-23, from: The Gardener's Path
@@ -601,18 +801,6 @@ date: 2025-04-23, from: The Gardener's Path
 
 ---
 
-## Inside a Mid-Century Home with an ‘East Meets Pacific Northwest’ Minimalist Aesthetic
-
-date: 2025-04-22, from: Sunset Magazine - Living in the West
-
-This historic mid-century modern house was renovated to respect its original design, while improving the flow and function. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/portland-mori-house-shed-architecture>
-
----
-
 ## Earth Day — Secretary Ross joins Governor Newsom and First Partner Jennifer Siebel Newsom for event in Chico
 
 date: 2025-04-22, from: Calfifornia Dept. Aggriculture blog
@@ -648,18 +836,6 @@ Celebrity facialist and esthetician shares their hacks on looking fresh while je
 <br> 
 
 <https://www.sunset.com/lifestyle/wellness/skincare-travel-tips>
-
----
-
-## This Is What You Need to Take with You When Checking out Spring’s Super Blooms
-
-date: 2025-04-22, from: Sunset Magazine - Living in the West
-
-Don’t let allergies get in your way—here's everything you need to hike through spring’s super blooms. Check out our gear recommendations. 
-
-<br> 
-
-<https://www.sunset.com/travel/outdoor-adventure/super-bloom-hiking-gear>
 
 ---
 
@@ -946,18 +1122,6 @@ date: 2025-04-21, from: The Gardener's Path
 
 ---
 
-## The 3 Important Design Elements That Will Increase Your Home’s Value
-
-date: 2025-04-21, from: Sunset Magazine - Living in the West
-
-There are some surprising design details that will increase your home's value. A new Zillow report shares three that make a big difference. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/design-features-increase-home-value>
-
----
-
 ## Everything You Wanted to Know About Building a Gallery Wall—But Were Too Embarrassed to Ask
 
 date: 2025-04-21, from: Sunset Magazine - Living in the West
@@ -981,18 +1145,6 @@ date: 2025-04-21, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/ford-recall-brake-fluid-leak/>
-
----
-
-## The Coolest Wine Region in the West Is Actually in Mexico
-
-date: 2025-04-21, from: Sunset Magazine - Living in the West
-
-A celebrated architect shares his favorite things to doin Valle de Guadalupe, the West's coolest wine region. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/things-to-do-valle-de-guadalupe>
 
 ---
 

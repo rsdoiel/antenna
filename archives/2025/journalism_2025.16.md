@@ -1,11 +1,80 @@
 ---
 title: journalism
-updated: 2025-04-25 06:08:57
+updated: 2025-04-25 14:07:37
 ---
 
 # journalism
 
-(date: 2025-04-25 06:08:57)
+(date: 2025-04-25 14:07:37)
+
+---
+
+## Trump administration backtracks on student visa cancellations
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>United States Immigration and Customs Enforcement is restoring student visas that were terminated in recent weeks.  </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/trump-administration-backtracks-on-student-visa-cancellations/">Trump administration backtracks on student visa cancellations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/trump-administration-backtracks-on-student-visa-cancellations/>
+
+---
+
+## Village entrances to require ID ‘temporarily’ ahead of protest
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Multiple advocacy groups not affiliated with the University announced a "blockade" at 6 p.m. at USC Village.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/village-entrances-to-require-id-temporarily-ahead-of-protest/">Village entrances to require ID &#8216;temporarily&#8217; ahead of protest</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/village-entrances-to-require-id-temporarily-ahead-of-protest/>
+
+---
+
+## Trump administration announces restoration of international students’ visas
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 1:05 p.m.</em>
+The U.S. Department of Justice announced it would restore the visas of international students who had theirs revoked in recent weeks. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/trump-administration-announces-restoration-of-international-students-visas/>
+
+---
+
+## Occidental students hold hunger strike demanding college divestment, student and immigrant protections
+
+date: 2025-04-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>April 21, 10 Occidental students began a hunger strike for immigrant justice, student protections and college divestment from genocide, according to Occidental’s Jewish Voices for Peace (Oxy JVP) Media Liasion Tobias Lodish. Lodish said 10 students are fully participating in the hunger strike while a number of students are partially striking and limiting their daily [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/04/25/occidental-students-hold-hunger-strike-demanding-college-divestment-student-and-immigrant-protections/2915158">Occidental students hold hunger strike demanding college divestment, student and immigrant protections</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/04/25/occidental-students-hold-hunger-strike-demanding-college-divestment-student-and-immigrant-protections/2915158>
+
+---
+
+## Markets plunge over Trump’s Tariffs — but what is a Tariff?
+
+date: 2025-04-25, from: The Canyon News (COC Student Newspaper)
+
+<p>&#8220;I always say tariffs are the most beautiful word in the dictionary,&#8221;&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/what-are-tariffs/">Markets plunge over Trump’s Tariffs — but what is a Tariff?</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/what-are-tariffs/>
 
 ---
 

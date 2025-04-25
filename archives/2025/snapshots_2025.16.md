@@ -1,11 +1,291 @@
 ---
 title: snapshots
-updated: 2025-04-25 06:09:02
+updated: 2025-04-25 14:07:42
 ---
 
 # snapshots
 
-(date: 2025-04-25 06:09:02)
+(date: 2025-04-25 14:07:42)
+
+---
+
+## I wrote to the address in the GPLv2 license notice and received the GPLv3 license
+
+date: 2025-04-25, updated: 2025-04-25, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://code.mendhak.com/gpl-v2-address-letter/">I wrote to the address in the GPLv2 license notice and received the GPLv3 license</a></strong></p>
+Fun story from Mendhak who noticed that the GPLv2 license <a href="https://web.archive.org/web/20120105022925/https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html">used to include</a> this in the footer:</p>
+<blockquote>
+<p><code>You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.</code></p>
+</blockquote>
+<p>So they wrote to the address (after hunting down the necessary pieces for a self-addressed envelope from the USA back to the UK) and five weeks later received a copy.</p>
+<p>(The copy was the GPLv3, but since they didn't actually specify GPLv2 in their request I don't think that's particularly notable.)</p>
+<p>The comments on Hacker News included <a href="https://news.ycombinator.com/item?id=43781888#43784538">this delightful note</a> from Davis Remmel:</p>
+<blockquote>
+<p>This is funny because I was the operations assistant (office secretary) at the time we received this letter, and I remember it because of the distinct postage.</p>
+</blockquote>
+<p>Someone asked "How many per day were you sending out?". <a href="https://news.ycombinator.com/item?id=43781888#43785749">The answer</a>:</p>
+<blockquote>
+<p>On average, zero per day, maybe 5 to 10 per year.</p>
+</blockquote>
+<p>The FSF moved out of 51 Franklin Street in 2024, <a href="https://www.fsf.org/blogs/community/fsf-office-closing-party">after 19 years in that location</a>. They work remotely now - their <a href="https://www.fsf.org/about/contact/mailing">new mailing address</a>, 31 Milk Street, # 960789, Boston, MA 02196, is a <a href="https://tools.usps.com/locations/details/1441502">USPS PO Box</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/free-software-foundation">free-software-foundation</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/25/i-wrote-to-the-address/#atom-everything>
+
+---
+
+## Untangling the Reach of US Companies
+
+date: 2025-04-25, from: Stephen Smith's blog
+
+Introduction Trump continues to threaten Canada with a takeover, so people continue to boycott US companies and products as much as possible. Choosing Canadian apples over US apples, Mexican packaged salads over US packaged salads, going to a local coffee shop rather than Starbucks are all easy things to do. In this article we’ll look [&#8230;] 
+
+<br> 
+
+<https://smist08.wordpress.com/2025/04/25/untangling-the-reach-of-us-companies/>
+
+---
+
+## Lilbits:  Recall, AI-enhanced search, and Click to Do are rolling out for Copilot+ PCs, Microsoft also preview support for swearing while using voice typing
+
+date: 2025-04-25, from: Liliputing
+
+<p>Microsoft&#8217;s Copilot+ PC platform was predicated on the idea that Windows computers with processors that have newfangled neural processing units would be able to do all sorts of nifty things with AI. But the most impressive features that Microsoft promised have been slow to arrive&#8230; after the company faced backlash over the potential privacy and [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-recall-ai-enhanced-search-and-click-to-do-are-rolling-out-for-copilot-pcs-microsoft-also-preview-support-for-swearing-while-using-voice-typing/">Lilbits:  Recall, AI-enhanced search, and Click to Do are rolling out for Copilot+ PCs, Microsoft also preview support for swearing while using voice typing</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-recall-ai-enhanced-search-and-click-to-do-are-rolling-out-for-copilot-pcs-microsoft-also-preview-support-for-swearing-while-using-voice-typing/>
+
+---
+
+## A Real Liberation Day
+
+date: 2025-04-25, from: Paul Krugman
+
+A message from a saner nation 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-real-liberation-day>
+
+---
+
+## Virus Protection for Phone
+
+date: 2025-04-25, from: Michael Tsai
+
+Jeff Johnson: The app in question is Virus Protection for Phone, which claims to be &#8220;Trusted by millions of users worldwide&#8221;. I don&#8217;t know whether that&#8217;s true, but for what it&#8217;s worth, the app is currently ranked #88 in the free utilities category of the United States App Store. According to AppFigures, Virus Protection for [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/25/virus-protection-for-phone/>
+
+---
+
+## The Subjective Charms of Objective-C
+
+date: 2025-04-25, from: Michael Tsai
+
+Gabriel Nicholas: To argue that Objective-C resembles a metaphysically divine language, or even a good language, is like saying Shakespeare is best appreciated in pig latin. Objective-C is, at best, polarizing. Ridiculed for its unrelenting verbosity and peculiar square brackets, it is used only for building Mac and iPhone apps and would have faded into [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/25/the-subjective-charms-of-objective-c/>
+
+---
+
+## Is Electron Really That Bad?
+
+date: 2025-04-25, from: Michael Tsai
+
+Federico Viticci (Mastodon): I&#8217;ve been thinking about this video by Theo Browne for the past few days, especially in the aftermath of my story about working on the iPad and realizing its best apps are actually web apps.I think Theo did a great job contextualizing the history of Electron and how we got to this [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/25/is-electron-really-that-bad/>
+
+---
+
+## Behind the Blog: Feeling Smart Along the Way
+
+date: 2025-04-25, from: 404 Media Group
+
+This is Behind the Blog, where we share our behind-the-scenes thoughts about how a few of our top stories of the week came together. This week, we discuss cheating in job interviews, "scary good" surveillance tech, and prudes in payment processing.   
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-feeling-smart-along-the-way/>
+
+---
+
+## This Intel Twin Lake mini ITX NAS board has 6 SATA connectors and 2.5 GbE and 10 Gb LAN ports
+
+date: 2025-04-25, from: Liliputing
+
+<p>Chinese PC makers have been offering mini ITX boards for build-your-own NAS solutions for at least a few years, but I recently ran across one that has an interesting mix of features including 6 SATA connectors for storage and three LAN ports: two with support for 2.5 Gb Ethernet connections and one with support for [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-intel-twin-lake-mini-itx-nas-board-has-6-sata-connectors-and-2-5-gbe-and-10-gb-lan-ports/">This Intel Twin Lake mini ITX NAS board has 6 SATA connectors and 2.5 GbE and 10 Gb LAN ports</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-intel-twin-lake-mini-itx-nas-board-has-6-sata-connectors-and-2-5-gbe-and-10-gb-lan-ports/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-25, from: Dave Winer's linkblog)
+
+FBI Stages Courthouse Arrest of Wisconsin Judge. 
+
+<br> 
+
+<https://talkingpointsmemo.com/news/fbi-stages-courthouse-arrest-of-wisconsin-judge>
+
+---
+
+## Katy Perry's Space Trip: Climate Consequences
+
+date: 2025-04-25, from: Guy Kawasaki blog
+
+Steve Westlake, Lecturer, Environmental Psychology, University of Bath. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/katy-perrys-space-trip-climate-consequences>
+
+---
+
+## Onyx BOOX Tab X C is a 13.3 inch E Ink tablet with a color screen and pen support
+
+date: 2025-04-25, from: Liliputing
+
+<p>Two years ago Onyx BOOX launched launched the Onyx BOOX Tab X as an E Ink tablet with an Android-based operating system, pen support, and a grayscale screen with 207 pixels per inch. Now the company has introduced a new model with a higher-resolution display, a faster processor, a newer version of Android, and a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/onyx-boox-tab-x-c-is-a-13-3-inch-e-ink-tablet-with-a-color-screen-and-pen-support/">Onyx BOOX Tab X C is a 13.3 inch E Ink tablet with a color screen and pen support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/onyx-boox-tab-x-c-is-a-13-3-inch-e-ink-tablet-with-a-color-screen-and-pen-support/>
+
+---
+
+## Andor (recapitulación 2.01, 2.02 y 2.03):  One year Later, Sagrona Teema y Harvest
+
+date: 2025-04-25, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Disponible en: Disney+. Creador: Tony Gilroy. Dirección: Ariel Kleiman. Guion:  Tony Gilroy. Elenco: Diego Luna, Stellan Skarsgård, Genevieve O&#8217;Reilly, Denise Gough, Kyle Soller, Adria Arjona, Faye Marsay, Alastair Mackenzie, Muhannad Bhaier, Joplin Sibtain, Dave Chapman. Más información de la serie: https://www.imdb.com/title/tt9253284/ Episodio previo &#124; Esta recapitulación contiene spoilers acumulados de Andor y Rogue One: A [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/andor-recapitulacion-2-01-2-02-y-2-03/">Andor (recapitulación 2.01, 2.02 y 2.03):  One year Later, Sagrona Teema y Harvest</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/andor-recapitulacion-2-01-2-02-y-2-03/?utm_source=rss&utm_medium=rss&utm_campaign=andor-recapitulacion-2-01-2-02-y-2-03>
+
+---
+
+## Backfill your blog
+
+date: 2025-04-25, updated: 2025-04-25, from: Simon Willison’s Weblog
+
+<p>Fun fact: there's no rule that says you can't create a new blog today and backfill (and backdate) it with your writing from other platforms or sources, even going back many years.</p>
+<p>I'd love to see more people do this!</p>
+<p><small>(Inspired by <a href="https://twitter.com/jwuphysics/status/1915422889224147335">this tweet</a> by John F. Wu introducing <a href="https://jwuphysics.github.io/blog/">his new blog</a>. I did this myself when I <a href="https://simonwillison.net/2017/Oct/1/ship/">relaunched this blog</a> back in 2017.)</small></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/25/backfill-your-blog/#atom-everything>
+
+---
+
+## Cloud orchestration cost optimization
+
+date: 2025-04-25, from: Bacalhau Blog
+
+The move to the cloud promised to save money, but that's not what happened. Changing how you think about cloud computing architecture might. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/cloud-orchestration-cost-optimization>
+
+---
+
+## Onyx BOOX Go 7 Gen II and Go Color 7 eReaders run Android 13 and support stylus input
+
+date: 2025-04-25, from: Liliputing
+
+<p>Onyx BOOX is bringing stylus support to its 7 inch eBook readers, starting with the new Onyx BOOX Go Color 7 (Gen II) and Onyx BOOX Go 7. As the name suggests, the model with a color display is a modest update over last year&#8217;s Onyx BOOX Go Color 7. The only obvious changes I see in the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/onyx-boox-go-7-gen-ii-and-go-color-7-ereaders-run-android-13-and-support-stylus-input/">Onyx BOOX Go 7 Gen II and Go Color 7 eReaders run Android 13 and support stylus input</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/onyx-boox-go-7-gen-ii-and-go-color-7-ereaders-run-android-13-and-support-stylus-input/>
+
+---
+
+## The Trump Administration is Coming for ActBlue.
+
+date: 2025-04-25, from: Dave Karpf's blog
+
+File under: "will the United States continue to hold free and fair elections?" 
+
+<br> 
+
+<https://davekarpf.substack.com/p/the-trump-administration-is-coming>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-25, from: Dave Winer's linkblog)
+
+F.B.I. Arrests Wisconsin Judge, Patel Says. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/25/us/politics/fbi-arrest-judge.html>
+
+---
+
+## Breaking the Silence
+
+date: 2025-04-25, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>Hello, Mr. President At different points, I’ve worked with 30 Fortune 100 CEOs. I believe 90% of them wake up in the morning, look in the mirror, and think, “Hello, Mr. President.” These are talented, confident, tall (we’re a highly looksist nation) people, who surround themselves with supporters who are damn impressed with their genius.  [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/breaking-the-silence/">Breaking the Silence</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/breaking-the-silence/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-25, from: Dave Winer's linkblog)
+
+Milwaukee County Judge Hannah Dugan arrested by feds at Courthouse. 
+
+<br> 
+
+<https://www.jsonline.com/story/news/breaking/2025/04/25/milwaukee-county-judge-hannah-dugan-arrested-by-feds-at-courthouse/83270885007/>
+
+---
+
+## OK Go Prevails Against Such Staggering Odds
+
+date: 2025-04-25, updated: 2025-04-25, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/25/ok-go-prevails-against-such-staggering-odds/>
 
 ---
 
@@ -16,6 +296,19 @@ TechCrunch is finally asking if Bluesky really is decentralized as they have bee
 <br> 
 
 <https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/>
+
+---
+
+## Add JSR packages with pnpm and Yarn
+
+date: 2025-04-25, updated: 2025-04-25, from: Deno blog
+
+You can now access JSR packages via pnpm and Yarn. Here's how.
+ 
+
+<br> 
+
+<https://deno.com/blog/add-jsr-with-pnpm-yarn>
 
 ---
 

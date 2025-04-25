@@ -1,11 +1,191 @@
 ---
 title: going electric
-updated: 2025-04-25 06:09:00
+updated: 2025-04-25 14:07:40
 ---
 
 # going electric
 
-(date: 2025-04-25 06:09:00)
+(date: 2025-04-25 14:07:40)
+
+---
+
+## Drive Electric Earth Month, continues this weekend, get your EV Qs answered
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/2468-e1727225870138.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s that time of year again, time for events across the country to show off electric vehicles at Drive Electric Earth Month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="410646" href="https://electrek.co/2025/04/25/get-your-ev-questions-answered-at-drive-electric-earth-month-events-all-april/#more-410646" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/get-your-ev-questions-answered-at-drive-electric-earth-month-events-all-april/>
+
+---
+
+## Podcast: Electrek at Shanghai Auto Show, Tesla earnings, Slate cheap EV pickup unveiled, and more
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss <em>Electrek</em> seeing a ton of cool EVs at the Shanghai Auto Show, Tesla’s disastrous earnings, Slate’s cheap EV pickup being unveiled, and more.</p>
+
+
+
+<p><strong>Today’s episode is brought to you by retrospec—makers of sleek, powerful e-bikes and outdoor gear built for everyday adventure.</strong> <strong>Electrek listeners can get 10% off</strong> their next ride until May 8th with the exclusive code <strong>ELECTREK10</strong> only at<a href="https://bit.ly/4jq5cK1" target="_blank" rel="noreferrer noopener"> retrospec.com</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="412918" href="https://electrek.co/2025/04/25/podcast-electrek-shanghai-auto-show-tesla-earnings-slate-cheap-ev-pickup-unveiled/#more-412918" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/podcast-electrek-shanghai-auto-show-tesla-earnings-slate-cheap-ev-pickup-unveiled/>
+
+---
+
+## The Slate Online Configurator Is Up. Build Your Perfect Cheap Truck
+
+date: 2025-04-25, from: Inside EVs News
+
+There are options and customizations galore, but prices are still unknown.  
+
+<br> 
+
+<https://insideevs.com/news/757765/slate-ev-build-online-configurator/>
+
+---
+
+## The Tesla (TSLA) dilemma: company is cooked with Musk, but stock crashes without him
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/04/Elon-Musk-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla currently finds itself in quite a dilemma: the company’s core business is in free fall, with Elon Musk at the helm.</p>
+
+
+
+<p>However, now that Tesla’s stock is firmly in the “meme stock” category, it would likely crash without him pumping it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412864" href="https://electrek.co/2025/04/25/tesla-tsla-conundrum-cooked-with-musk-but-stock-crashes-without-him/#more-412864" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/tesla-tsla-conundrum-cooked-with-musk-but-stock-crashes-without-him/>
+
+---
+
+## San Francisco just joined the curbside EV charger movement
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/its_electric_curbside-charging.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>San Francisco and it’s electric is officially marking the installation of the city’s first curbside EV chargers today in a new pilot program.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,curbside-charging,egeb,energy-brief,ev-charging,ev-charging-stations,solar,san-francisco" data-layer-viewtype="unknown" data-post-id="412865" href="https://electrek.co/2025/04/25/san-francisco-curbside-charger/#more-412865" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/san-francisco-curbside-charger/>
+
+---
+
+## OUKITEL P5000 5,120Wh power station at exclusive $1,299, ENGWE e-bikes up to $850 off, Jackery Explorer 100 plus, Rad Power, more
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/OUKITEL-ABEARL-P5000-Portable-Power-Station.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’re ending this week’s Green Deals with savings on various power stations and e-bikes, headlined by the exclusive $1,700 in savings we secured on the monstrous <a href="https://9to5toys.com/2025/04/25/oukitel-abearl-p5000-exclusive-savings-to-1299/">OUKITEL ABEARL P5000</a> Portable Power Station with a 5,120Wh LiFePO4 capacity at <a href="https://9to5toys.com/2025/04/25/oukitel-abearl-p5000-exclusive-savings-to-1299/">$1,299</a>. There’s also <a href="https://9to5toys.com/2025/04/25/engwes-l20-2-0-e-bike-749-more/">ENGWE’s 11th Anniversary Sale</a> that is offering up to $850 off single and dual e-bike offers, like the <a href="https://9to5toys.com/2025/04/25/engwes-l20-2-0-e-bike-749-more/">L20 2.0 Utility e-bike</a> that is down at <a href="https://9to5toys.com/2025/04/25/engwes-l20-2-0-e-bike-749-more/">$749</a>. We also have some favorites bringing up the rear, like <a href="https://9to5toys.com/2025/04/24/jackery-explorer-100-plus-back-at-89-low/">Jackery’s Explorer 100 Plus</a> Portable Power Station back at its <a href="https://9to5toys.com/2025/04/24/jackery-explorer-100-plus-back-at-89-low/">$89</a> low, as well as the $300 discounts we’re seeing on <a href="https://9to5toys.com/2025/04/24/rad-power-radexpand-5-radwagon-4-e-bikes-from-1299/">Rad Power’s Folding and Cargo e-bikes from $1,299</a> – and don’t forget about the continued low prices on the brand’s <a href="https://9to5toys.com/2025/04/18/radrunner-2-and-radrunner-3-plus-e-bikes-from-999/">RadRunner series</a>, which are getting last calls as supplies are near gone. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s price cuts on the <a href="https://9to5toys.com/2025/04/23/jackery-explorer-5000-plus-new-lows-from-2483/">Jackery Explorer 5000 Plus offers</a> (which end tonight), Lectric’s latest <a href="https://9to5toys.com/2025/04/23/lectric-lightning-deals-xp-3-0-e-bikes-from-999/">XP 3.0 e-bike bundles</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="412868" href="https://electrek.co/2025/04/25/oukitel-p5000-5120wh-power-station-at-exclusive-1299-engwe-e-bikes-up-to-850-off-jackery-explorer-100-plus-rad-power-more/#more-412868" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/oukitel-p5000-5120wh-power-station-at-exclusive-1299-engwe-e-bikes-up-to-850-off-jackery-explorer-100-plus-rad-power-more/>
+
+---
+
+## Here’s some of the coolest, sleekest (and furriest) EV tech we saw at the 2025 Shanghai Auto Show
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Shanghai-Auto-Show-Gerbil-EV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As we’ve been briefly mentioning the past month or so, we got an opportunity to attend the 2025 Shanghai Auto Show in… you guessed it, Shanghai. Aside from taking place in an event center larger than many cities in the US, <a href="https://autoshanghai.auto-fairs.com/en/">this annual event</a> featured some of the most advanced tech we’ve ever seen and a glimpse into the future of electric mobility, as well as some of the strangest yet entertaining design and presentation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china" data-layer-viewtype="unknown" data-post-id="412710" href="https://electrek.co/2025/04/25/coolest-sleekest-furriest-ev-tech-2025-shanghai-auto-show/#more-412710" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/coolest-sleekest-furriest-ev-tech-2025-shanghai-auto-show/>
+
+---
+
+## Tesla Cybertruck Demand Is Way Below Its Annual Production Capacity
+
+date: 2025-04-25, from: Inside EVs News
+
+Model S and X sales have also tanked. 
+
+<br> 
+
+<https://insideevs.com/news/757755/tesla-cybertruck-6,400-units-q1/>
+
+---
+
+## Waymo Might Sell You A Robotaxi One Day
+
+date: 2025-04-25, from: Inside EVs News
+
+Looser AV regulations from NHTSA could help with that. Also, VW is ready for range-extended EV. 
+
+<br> 
+
+<https://insideevs.com/news/757753/alphabet-waymo-robotaxis-personal-vehicles/>
+
+---
+
+## Waymo founder: Tesla hoped to compete with Waymo, but failed utterly and completely for 10 yrs
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Waymo-cities-app.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>John Krafcik, Waymo founder and former CEO, clapped back at Tesla CEO Elon Musk after his comments on Waymo at Tesla’s earnings earlier this week.</p>
+
+
+
+<p>He brought a little dose of reality to Musk’s delusions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,waymo" data-layer-viewtype="unknown" data-post-id="412789" href="https://electrek.co/2025/04/25/waymo-founder-tesla-hoped-to-compete-but-failed-utterly-completely-10-yrs/#more-412789" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/waymo-founder-tesla-hoped-to-compete-but-failed-utterly-completely-10-yrs/>
+
+---
+
+## Tesla (TSLA) brings back FSD transfer, offers $2,000 loyalty discount amid demand crisis
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Model-Y-2-Along-the-Way-Tablet-CN.png-e1736950646574.jpeg?quality=82&#038;strip=all&#038;w=1392" /></div><p>Tesla (TSLA) is reintroducing Full Self-Driving (FSD) transfers and offering $2,000 loyalty discounts on the new Model Y to existing owners amid a demand surge.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412784" href="https://electrek.co/2025/04/25/tesla-tsla-brings-back-fsd-transfer-offers-2000-loyalty-discount-amid-demand-crisis/#more-412784" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/tesla-tsla-brings-back-fsd-transfer-offers-2000-loyalty-discount-amid-demand-crisis/>
 
 ---
 
@@ -30,6 +210,10 @@ date: 2025-04-25, from: Electrek Feed
 
 
 <p><strong>Today’s episode is brought to you by retrospec—makers of sleek, powerful e-bikes and outdoor gear built for everyday adventure.</strong> <strong>Electrek listeners can get 10% off</strong> their next ride until May 8th with the exclusive code <strong>ELECTREK10</strong> only at<a href="https://bit.ly/4jq5cK1" target="_blank" rel="noreferrer noopener"> retrospec.com</a>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Wheel-E_88.mp3"></audio></figure>
 
 
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-25 06:08:57
+updated: 2025-04-25 14:07:36
 ---
 
 # games
 
-(date: 2025-04-25 06:08:57)
+(date: 2025-04-25 14:07:36)
+
+---
+
+## How to join the Dark Brotherhood in Oblivion Remastered
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+Joining the Dark Brotherhood in The Elder Scrolls 4: Oblivion Remastered unlocks a unique set of quests with valuable rewards, assuming you meet the Brotherhood&#8217;s special requirements. Dark Brotherhood quests have bonus objectives to complete, so whether you accomplish your skullduggery with elegance determines what you get in the end. This guide explains how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565589/dark-brotherhood-how-to-join>
+
+---
+
+## How to join the Thieves Guild in Oblivion Remastered
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+Joining the Thieves Guild faction in The Elder Scrolls 4: Oblivion Remastered is one of the first — and least dangerous — things you can do outside the main story. The Thieves Guild gives you a way to make some extra cash by playing Robin Hood, and at the end of it all, you even [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565586/thieves-guild-how-to-join>
+
+---
+
+## How to unlock Her Ladyship’s Diary in Blue Prince
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+“Her Ladyship’s Diary” is a book you can find in Blue Prince located in Her Ladyship’s Chamber. Not only is the room itself hard to draft — it has specific location requirements — but the diary is also locked — and there’s no clue about where the key might be. Finding the Diary Key and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/564944/ladyship-diary-how-to-unlock>
+
+---
+
+## How to get the Paper Crown in the Closed Exhibit in Blue Prince
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+The Closed Exhibit is a found floorplan in Blue Prince. At first glance, it seems like just a standard, T-shaped room with a couple keycard doors, but, like everything in Blue Prince, there’s more to find inside. Our Blue Prince guide will show you how to get the Paper Crown in the Closed Exhibit and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/565417/closed-exhibit-paper-crown-how-to-get>
+
+---
+
+## How to unlock the Throne Room in Blue Prince
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+The Throne Room is a found floorplan in Blue Prince. It’s a late-game room and doesn’t really come into play until after you reach Room 46. Finding the Throne Room floorplan involves adding one of the game’s Permanent Additions to the estate, Blackbridge Grotto. Once you unlock and draft the Throne Room, it’ll set you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/blue-prince-guides/561821/throne-room-scepter-stone-crown-how-to-get>
+
+---
+
+## How to make Cosmic Exploration macros in FFXIV
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+A fancy new crafting/gathering game mode, Cosmic Exploration, is out in Final Fantasy 14 with some pretty enticing rewards, so the reasonable thing to do is… immediately look up macros to help you automate the process and ease the grind, right? Well, I have some bad and good news for you. The bad news is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting>
+
+---
+
+## ‘Wisdom of the Ages’ quest steps and walkthrough in Oblivion Remastered
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+“Wisdom of the Ages” is a side quest in The Elder Scrolls 4: Oblivion Remastered that challenges the hero to be faithful to the teachings of Julianos. By speaking with Sir Henrick, the hero can go to Fort Bulwark and retrieve the Shield of the Crusader — a powerful early-game shield. But you’ll have to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565379/wisdom-ages-walikthrough-fort-bulwark-puzzle-solutions-all>
+
+---
+
+## Marvel Rivals’ next patch could save support players
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+The last few weeks have been hell for Strategist players in Marvel Rivals. Healing is hard enough on its own, but try doing it while a Spider-Man player drops in from another planet to uppercut you back to spawn. In a meta where the fastest heroes are also the strongest heroes, Strategist players are working [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/565303/marvel-rivals-support-strategist-mid-season-patch>
+
+---
+
+## How to recruit followers in Oblivion Remastered
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+You’ll need help from followers in The Elder Scrolls 4: Oblivion Remastered if you plan on exploring its subaquatic dungeons and fighting its evil necromancers. Regardless of how some bits were modernized or graphics were improved, the dangers in Tamriel are still the same as they were in 2006. There are temporary followers who can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565330/followers-list-all-how-to-recruit>
+
+---
+
+## How to kill Will-o-the-Wisps in Oblivion Remastered
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+Will-o-the-Wisps can be a challenging enemy type in The Elder Scrolls 4: Oblivion Remastered as they’re only susceptible to magic-based attacks. Will-o-the-Wisps are floating balls of light that are surprisingly tanky and have the ability to absorb your health and magicka on touch. Pairing that with their immunity to normal attacks, and you’ll find Will-o-the-Wisps [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565212/will-o-wisp-how-to-kill>
 
 ---
 
@@ -282,18 +402,6 @@ Leveling up in The Elder Scrolls 4: Oblivion Remastered is far more complicated 
 <br> 
 
 <https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563551/level-up-how-to-leveling-system>
-
----
-
-## How to make Cosmic Exploration macros in FFXIV
-
-date: 2025-04-23, updated: 2025-04-23, from: Polygon Website
-
-A fancy new crafting/gathering game mode, Cosmic Exploration, is out in Final Fantasy 14 with some pretty enticing rewards, so the reasonable thing to do is… immediately look up macros to help you automate the process and ease the grind, right? Well, I have some bad and good news for you. The bad news is [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting>
 
 ---
 
