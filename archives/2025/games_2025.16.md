@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-04-24 14:07:44
+updated: 2025-04-25 06:08:57
 ---
 
 # games
 
-(date: 2025-04-24 14:07:44)
+(date: 2025-04-25 06:08:57)
+
+---
+
+## Get kick-ass FPS throwback RoboCop: Rogue City before it leaves PS Plus soon
+
+date: 2025-04-25, updated: 2025-04-24, from: Polygon Website
+
+The endless sprawl of modern action and action-adjacent games is a common source of frustration for me. While I admire the detailed, expansive worlds some of these games evoke, sometimes I just want to play a level-based game that feels like the slimmed-down action adventures of my youth. Which is why I was absolutely delighted [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/564442/robocop-rogue-city-game-fps-good-ps-plus>
+
+---
+
+## Two of 2024’s most innovative horror movies are now on Hulu
+
+date: 2025-04-25, updated: 2025-04-24, from: Polygon Website
+
+Horror movies are constantly calling out for experimentation; it’s a whole genre based around rules that are just waiting to be bent, twisted, or broken into a brand-new shape. Which is exactly why it’s such a shame that so many new horror movies are just slight variations on the same old ideas. But just last [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/564440/in-violent-nature-azrael-hulu-streaming-horror>
+
+---
+
+## Vilverin dungeon puzzle solutions for Oblivion Remastered
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Vilverin is one of the first dungeons you can go to in The Elder Scrolls 4: Oblivion Remastered. It’s an early game dungeon, but if you know what to look for and how to complete it, you can exit this location with some high-value items like the Varla stone as well as a starting set [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563827/vilverin-dungeon-puzzle-location-walkthrough-loot>
+
+---
+
+## All Pocket Promo A cards in Pokémon TCG Pocket
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+Promo cards have a lot of variance in Pokémon TCG Pocket. Some can be easily purchased from the shop, while others can only be obtained from limited time events. Right now, all promo cards are part of the Promo A series. If you were a late adopter of Pokémon TCG Pocket, you may have missed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get>
+
+---
+
+## The 20 best Xbox games
+
+date: 2025-04-24, updated: 2025-04-24, from: Polygon Website
+
+What is an “Xbox game”? Fairly recently, the answer was simple: An Xbox game is a game that you play on your Xbox. But now, with Microsoft pushing a multiplatform strategy — and openly challenging preconceived notions of what even counts as a platform — determining the best Xbox games isn’t as straightforward as it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/xbox-series-x/21734145/best-xbox-one-series-x-s-games-microsoft-game-pass-halo>
 
 ---
 

@@ -1,11 +1,590 @@
 ---
 title: pacific
-updated: 2025-04-24 14:07:41
+updated: 2025-04-25 06:08:54
 ---
 
 # pacific
 
-(date: 2025-04-24 14:07:41)
+(date: 2025-04-25 06:08:54)
+
+---
+
+## Crowds wait for hours to pay final respects to Pope Francis at St. Peter’s
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; Mourners stood in line for hours on Thursday to pay their final respects to Pope Francis, whose body is lying in state in St. Peter&#8217;s Basilica ahead of his funeral on Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/crowds-wait-for-hours-to-pay-final-respects-to-pope-francis-at-st-peters/>
+
+---
+
+## Trump signs executive order boosting deep-sea mining industry
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Thursday signed an executive order aimed at boosting the deep-sea mining industry, marking his latest attempt to boost U.S. access to nickel, copper and other critical minerals used widely across the economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/trump-signs-executive-order-boosting-deep-sea-mining-industry/>
+
+---
+
+## Public advised of Hilo road closures for Merrie Monarch parade
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p><strong>NOTICE TO MOTORISTS</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/hawaii-news/public-advised-of-hilo-road-closures-for-merrie-monarch-parade/>
+
+---
+
+## Trump trade war spreads more gloom across businesses worldwide
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>LONDON/SEOUL/NEW YORK &#8212; Businesses across multiple industries are hiking prices, backing away from previous financial guidance and warning of growing uncertainty as U.S. President Donald Trump&#8217;s trade war pushes up costs, upends supply chains and stirs concerns about the global economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/trump-trade-war-spreads-more-gloom-across-businesses-worldwide/>
+
+---
+
+## Hawaii auto sales decline amid economic uncertainty
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii auto sales continued to fall this year and badly trailed the rest of the country &#8212; with an uncertain future ahead because of President Donald Trump&#8217;s economic policies, the Hawaii Automobile Dealers Association reported Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/hawaii-news/hawaii-auto-sales-decline-amid-economic-uncertainty/>
+
+---
+
+## The Royal Parade: A procession like no other
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Without a doubt, the best attended event during Merrie Monarch week, at least in person, is the Merrie Monarch Festival Royal Parade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/hawaii-news/the-royal-parade-a-procession-like-no-other/>
+
+---
+
+## Student kills one, wounds three in French high school stabbing
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>NANTES &#8212; A 15-year-old boy killed a fellow pupil and wounded three others in a stabbing attack at a high school in the western French city of Nantes on Thursday before he was overpowered by teachers, police said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/student-kills-one-wounds-three-in-french-high-school-stabbing/>
+
+---
+
+## Trump administration says it is complying with order barring FEMA funding freeze
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The Trump administration said on Thursday the Federal Emergency Management Agency had made more than $2.2 billion in payments to a group of states over the past three weeks, meaning it was in compliance with a judge&#8217;s order blocking an earlier sweeping pause of federal grants, loans and other financial aid.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/trump-administration-says-it-is-complying-with-order-barring-fema-funding-freeze/>
+
+---
+
+## Hegseth set up Signal on a computer in his Pentagon office
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Defense Secretary Pete Hegseth had the consumer messaging app Signal set up on a computer in his office at the Pentagon so that he could send and receive instant messages in a space where personal cellphones are not permitted, according to two people with knowledge of the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/hegseth-set-up-signal-on-a-computer-in-his-pentagon-office/>
+
+---
+
+## Philippines, US begin joint maritime drills after Chinese carrier group spotted
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>MANILA &#8212; The Philippine Navy said a Chinese aircraft carrier battle group had passed near its northern maritime boundaries in the run-up to a six-day maritime exercise with the U.S. that began on Thursday as part of their annual Balikatan military drills.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/philippines-us-begin-joint-maritime-drills-after-chinese-carrier-group-spotted/>
+
+---
+
+## North Dakota governor vetoes bill restricting library books
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>North Dakota Gov. Kelly Armstrong this week vetoed a bill that would have required most libraries in the state to keep material considered sexually explicit in areas difficult for minors to access. Under the measure, librarians who do not comply could have faced prosecution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/north-dakota-governor-vetoes-bill-restricting-library-books/>
+
+---
+
+## US Congress Republicans seek $27 billion for Golden Dome in Trump tax bill
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republicans in the U.S. Congress plan to introduce a sweeping $150 billion defense package that will give an initial $27 billion boost to President Donald Trump&#8217;s controversial Golden Dome missile defense shield and bolstering shipbuilding, according to a document and a congressional aide. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/us-congress-republicans-seek-27-billion-for-golden-dome-in-trump-tax-bill/>
+
+---
+
+## Trump poised to offer Saudi Arabia over $100 billion arms package, sources say
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/RIYADH &#8212; The United States is poised to offer Saudi Arabia an arms package worth well over $100 billion, six sources with direct knowledge of the issue told Reuters, saying the proposal was being lined up for announcement during U.S. President Donald Trump&#8217;s visit to the kingdom in May.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/trump-poised-to-offer-saudi-arabia-over-100-billion-arms-package-sources-say/>
+
+---
+
+## Public feedback sought for state wildlife plan
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8211; Community input is sought to guide wildlife conservation statewide.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/community/public-feedback-sought-for-state-wildlife-plan/>
+
+---
+
+## Hawaii Island educators win awards from HSTA
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii State Teachers Association has honored Chayanee Brooks, a Ka&#8216;u High English teacher, with its 2025 Pono Award and &#8216;aina-based Puna educator Nick Kalamakani Francisco with its 2025 Friend of Youth Award.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/community/hawaii-island-educators-win-awards-from-hsta/>
+
+---
+
+## Kamuela orchestra to perform popular works from the silver screen
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>The Kamuela Philharmonic Orchestra presents &#8220;The POPS!&#8221; at 2 p.m. on Sunday, May 4, at Kahilu Theatre.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/community/kamuela-orchestra-to-perform-popular-works-from-the-silver-screen/>
+
+---
+
+## ‘A Taste of Hilo’ serves up $10K for college’s culinary program
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>The Japanese Chamber of Commerce and Industry of Hawaii supported the Hawaii Community College&#8217;s Culinary Arts Program through $10,000 presented on April 10.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/community/a-taste-of-hilo-serves-up-10k-for-colleges-culinary-program/>
+
+---
+
+## News in brief for April 25 HTH
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Parts of Texas at risk of tornadoes and hail as large as baseballs</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/news-in-brief-for-april-25-hth/>
+
+---
+
+## At least 12 dead, 90 wounded in Kyiv, officials say
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>KYIV/WASHINGTON &#8212; Russia pounded Kyiv with missiles and drones, killing at least 12 people, in the biggest attack on the Ukrainian capital this year and drawing a rare rebuke from U.S. President Donald Trump on Thursday, who told Vladimir Putin: &#8220;Vladimir, STOP!&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/nation-world-news/at-least-12-dead-90-wounded-in-kyiv-officials-say/>
+
+---
+
+## Whipps vows to improve the Health of the People
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="1024" height="723" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?fit=1024%2C723&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?resize=1024%2C723&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?resize=768%2C542&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?resize=1200%2C847&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?resize=780%2C551&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?resize=400%2C282&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?resize=706%2C499&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?fit=1024%2C723&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77044" data-permalink="https://islandtimes.org/whipps-vows-to-improve-the-health-of-the-people/attachment/1000008103/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?fit=1249%2C882&amp;ssl=1" data-orig-size="1249,882" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000008103" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?fit=300%2C212&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008103.jpg?fit=780%2C551&amp;ssl=1" /></figure>
+<p>By: Bernadette Carreon President Surangel Whipps has announced that his administration is dedicated to enhancing the health of the people of Palau.&#160; In his State of the Republic Address on Thursday, Whipps addressed the challenges posed by the aging Belau National Hospital and the shortage of medical services.&#160; He emphasized that several improvements are underway, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-vows-to-improve-the-health-of-the-people/">Whipps vows to improve the Health of the People </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-vows-to-improve-the-health-of-the-people/>
+
+---
+
+## U.S. Congressional delegation reaffirms commitment to Palau during official visit
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="600" height="251" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?fit=600%2C251&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?resize=300%2C126&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?resize=400%2C167&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?fit=600%2C251&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77039" data-permalink="https://islandtimes.org/u-s-congressional-delegation-reaffirms-commitment-to-palau-during-official-visit/us-17/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?fit=600%2C251&amp;ssl=1" data-orig-size="600,251" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1745334288&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0083&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="US" data-image-description="" data-image-caption="&lt;p&gt;Rep. Young Kim, Rep. Susie Lee and Rep. Johhny Olszweski at press meeting at Ngerulmud)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?fit=300%2C126&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/US.jpg?fit=600%2C251&amp;ssl=1" /></figure>
+<p>KOROR, Palau — A bipartisan U.S. congressional delegation visiting Palau this week reaffirmed Washington’s commitment to the island nation, emphasizing the enduring partnership under the Compact of Free Association amid growing geopolitical tensions in the Pacific. The delegation was led by Rep. Young Kim, R-Calif., chair of the House Foreign Affairs Subcommittee on East Asia [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-congressional-delegation-reaffirms-commitment-to-palau-during-official-visit/">U.S. Congressional delegation reaffirms commitment to Palau during official visit</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-congressional-delegation-reaffirms-commitment-to-palau-during-official-visit/>
+
+---
+
+## Retired public works employee found dead outside home in Koror
+
+date: 2025-04-25, from: Island Times
+
+<p>KOROR, Palau — A 69-year-old man was found dead early Wednesday morning outside his home in the Idid hamlet of Koror in what authorities believe to be a case of self-harm. Police identified the deceased as Roman Itelmong, a retired employee of the national public works. He was discovered by his brother around 6 a.m., [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/retired-public-works-employee-found-dead-outside-home-in-koror/">Retired public works employee found dead outside home in Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/retired-public-works-employee-found-dead-outside-home-in-koror/>
+
+---
+
+## Egan Tewid sworn in as Palau’s new Chief of Immigration
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=780%2C1040&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77031" data-permalink="https://islandtimes.org/egan-tewid-sworn-in-as-palaus-new-chief-of-immigration/chief-and-family-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?fit=1920%2C2560&amp;ssl=1" data-orig-size="1920,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Chief and Family 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Chief-and-Family-2-scaled.jpeg?fit=768%2C1024&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Egan Tewid was officially sworn in Thursday as Chief of Immigration for the Republic of Palau, marking a new chapter in the nation’s border and immigration leadership. The ceremony, held on April 17, was administered by Curtis Elobt, director of the Bureau of Public Safety, and witnessed by Bureau of Customs and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/egan-tewid-sworn-in-as-palaus-new-chief-of-immigration/">Egan Tewid sworn in as Palau’s new Chief of Immigration</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/egan-tewid-sworn-in-as-palaus-new-chief-of-immigration/>
+
+---
+
+## Justice nominee Olegeriil Pledges Reform, accountability in two-hour Senate hearing
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="720" height="405" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?fit=720%2C405&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?w=720&amp;ssl=1 720w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?fit=720%2C405&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77027" data-permalink="https://islandtimes.org/justice-nominee-olegeriil-pledges-reform-accountability-in-two-hour-senate-hearing/jennifer/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?fit=720%2C405&amp;ssl=1" data-orig-size="720,405" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="jennifer" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/jennifer.jpg?fit=720%2C405&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – Jennifer S. Olegeriil, Presidential nominee for the Minister of Justice post faced the Senate for more than 2 hours in a confirmation hearing on Tuesday.&#160; The Senate committee of Judiciary and Governmental Affairs (JGA) conducted the hearing and asked questions related to the country’s law enforcement efforts. Submitting [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/justice-nominee-olegeriil-pledges-reform-accountability-in-two-hour-senate-hearing/">Justice nominee Olegeriil Pledges Reform, accountability in two-hour Senate hearing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/justice-nominee-olegeriil-pledges-reform-accountability-in-two-hour-senate-hearing/>
+
+---
+
+## Pacific Islands Forum pays tribute to Pope Francis, remembered as a “True Friend of the Pacific”
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="400" height="381" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/PIF.jpg?fit=400%2C381&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/PIF.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/PIF.jpg?resize=300%2C286&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/PIF.jpg?fit=400%2C381&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="62140" data-permalink="https://islandtimes.org/pif-eyes-permanent-special-envoy-office-in-us/pif-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/PIF.jpg?fit=400%2C381&amp;ssl=1" data-orig-size="400,381" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PIF" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/PIF.jpg?fit=300%2C286&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/PIF.jpg?fit=400%2C381&amp;ssl=1" /></figure>
+<p>The Pacific Islands Forum (PIF) has joined world leaders in paying tribute to Pope Francis, who passed away on Easter Monday at the age of 88.&#160; In a joint statement released on Tuesday, PIF Chair Hon. Aisake Valu Eke and Secretary General Baron Divavesi Waqa expressed their condolences, stating that they are joining “families, communities, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-islands-forum-pays-tribute-to-pope-francis-remembered-as-a-true-friend-of-the-pacific/">Pacific Islands Forum pays tribute to Pope Francis, remembered as a “True Friend of the Pacific&#8221;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-islands-forum-pays-tribute-to-pope-francis-remembered-as-a-true-friend-of-the-pacific/>
+
+---
+
+## Whipps calls on the OEK to pass the long-overdue maternity leave bill
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="1024" height="717" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?fit=1024%2C717&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?w=1085&amp;ssl=1 1085w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?resize=1024%2C717&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?resize=768%2C538&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?resize=400%2C280&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?fit=1024%2C717&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66131" data-permalink="https://islandtimes.org/whipps-says-palau-feels-the-effect-of-ukraine-invasion-by-russia/screenshot_20230922_023239_facebook/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?fit=1085%2C760&amp;ssl=1" data-orig-size="1085,760" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot_20230922_023239_Facebook" data-image-description="" data-image-caption="&lt;p&gt;President Surangel Whipps Jr. address the 78th UN General Assembly&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?fit=300%2C210&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/09/Screenshot_20230922_023239_Facebook.jpg?fit=780%2C546&amp;ssl=1" /></figure>
+<p>By: Bernadette Carreon President Surangel Whipps Jr. is urging Palau’s Congress to consider policies that support maternity leave, which, he noted, has not yet received approval from lawmakers.&#160; In his State of the Republic Address yesterday, Whipps reminded the Olbiil Era Kelulau (OEK) that mothers already find balancing work and family &#8220;challenging.&#8221;&#160; “The 11th OEK [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-calls-on-the-oek-to-pass-the-long-overdue-maternity-leave-bill/">Whipps calls on the OEK to pass the long-overdue maternity leave bill</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-calls-on-the-oek-to-pass-the-long-overdue-maternity-leave-bill/>
+
+---
+
+## Public Safety workers face biannual drug tests, stricter penalties under new Bill
+
+date: 2025-04-25, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang NGERULMUD, Palau — The House of Delegates on Tuesday passed a bill requiring mandatory biannual drug testing for designated government employees and imposing harsher penalties for drug-related offenses, signaling a shift in policy toward stricter enforcement over rehabilitation. House Bill 12-1-1 HD1, introduced by President Surangel Whipps Jr., passed its third [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/public-safety-workers-face-biannual-drug-tests-stricter-penalties-under-new-bill/">Public Safety workers face biannual drug tests, stricter penalties under new Bill</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/public-safety-workers-face-biannual-drug-tests-stricter-penalties-under-new-bill/>
+
+---
+
+## Earth Day coastal cleanup yields near 100 trash bags of marine debris
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="1024" height="646" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?fit=1024%2C646&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?w=1250&amp;ssl=1 1250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?resize=300%2C189&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?resize=1024%2C646&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?resize=768%2C484&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?resize=1200%2C756&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?resize=780%2C492&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?resize=400%2C252&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?resize=706%2C445&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?fit=1024%2C646&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77014" data-permalink="https://islandtimes.org/earth-day-coastal-cleanup-yields-near-100-trash-bags-of-marine-debris/img_8272/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?fit=1250%2C788&amp;ssl=1" data-orig-size="1250,788" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 13 Pro Max&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1745058731&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.7&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0019305019305019&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_8272" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?fit=300%2C189&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_8272.jpeg?fit=780%2C492&amp;ssl=1" /></figure>
+<p>In honor of Earth Day, this past Saturday, April 19, 2025, the Remengesau² Foundation in partnership with Ngaraard State Government, Palau International Coral Reef Center (PICRC), Friends of PNMS, Rubekul Belau, and Rubekul a Choll hosted a coastal cleanup in Ngaraard State with Palau High School students and Ngaraard State youth. High Chief Reklai Bao [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/earth-day-coastal-cleanup-yields-near-100-trash-bags-of-marine-debris/">Earth Day coastal cleanup yields near 100 trash bags of marine debris</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/earth-day-coastal-cleanup-yields-near-100-trash-bags-of-marine-debris/>
+
+---
+
+## Thank you
+
+date: 2025-04-25, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>To speak gratitude is courteous and pleasant. To enact gratitude is generous and noble but to live gratitude is to touch heaven. Did you know that the way you think can literally rewire your brain. A person has about 30,000 thoughts a day. And most of them are what you thought about yesterday. Yesterday I [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/thank-you-2/">Thank you</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/thank-you-2/>
+
+---
+
+## Bird species lost from wild for almost 40 years lays first eggs on new island home
+
+date: 2025-04-25, from: Island Times
+
+<p>HAGATNA (NATURE CONSERVANCY) &#8212; Sihek – an endangered bird recently returned to the wild – have laid eggs on their new Pacific island home at Palmyra Atoll, making them the first wild eggs for the species in almost 40 years. Nine young Sihek – also known as Guam kingfishers – hand-reared by zookeepers, were released [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bird-species-lost-from-wild-for-almost-40-years-lays-first-eggs-on-new-island-home/">Bird species lost from wild for almost 40 years lays first eggs on new island home</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bird-species-lost-from-wild-for-almost-40-years-lays-first-eggs-on-new-island-home/>
+
+---
+
+## Children being adopted overseas, trafficked to work in New Zealand
+
+date: 2025-04-25, from: Island Times
+
+<p>WELLINGTON (RNZ/TVNZ) &#8212; Children adopted overseas, have been raped, beaten and held captive in New Zealand in cases where their adoptive parents had previous criminal histories, according to court documents and child welfare agencies.  A 12-year-old boy was among them, put to work in New Zealand and assaulted despite his adopted &#8216;father&#8217; already having convictions [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/children-being-adopted-overseas-trafficked-to-work-in-new-zealand/">Children being adopted overseas, trafficked to work in New Zealand</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/children-being-adopted-overseas-trafficked-to-work-in-new-zealand/>
+
+---
+
+## Several U.S-based environmental science databases to be taken down – Expert reaction
+
+date: 2025-04-25, from: Island Times
+
+<p>AUCKLAND/WASHINGTON (SCIENCE MEDIA CENTRE) &#8212; Several public databases from the U.S National Oceanic and Atmospheric Administration (NOAA) will be decommissioned starting next month. Earlier this month, NOAA announced changes affecting data sources related to earthquakes and marine, coastal, and estuary science. This comes amid wider concerns about publicly available scientific data in the U.S being [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/several-u-s-based-environmental-science-databases-to-be-taken-down-expert-reaction/">Several U.S-based environmental science databases to be taken down &#8211; Expert reaction</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/several-u-s-based-environmental-science-databases-to-be-taken-down-expert-reaction/>
+
+---
+
+## Northern Mariana Islands residents hold anti-Trump rally
+
+date: 2025-04-25, from: Island Times
+
+<p>SAIPAN (RNZ PACIFIC)&#8212;The Commonwealth of Northern Mariana Islands (CNMI) residents held a peaceful roadside rally against the policies of US President Donald Trump in Saipan last Saturday. The demonstration took place in front of Oleai Beach Bar and Grill in San Jose. Anti-Trump protest organiser Jeff Race said people are rallying throughout the US and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/northern-mariana-islands-residents-hold-anti-trump-rally/">Northern Mariana Islands residents hold anti-Trump rally</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/northern-mariana-islands-residents-hold-anti-trump-rally/>
+
+---
+
+## IMF predicts Trump tariffs could drive public debt to postwar high
+
+date: 2025-04-25, from: Island Times
+
+<p>WASHINGTON (FINANCIAL TIMES) &#8212; The fallout from U.S President Donald Trump’s tariff policies risks raising government debt around the world to levels not seen since the end of the second world war, the IMF’s most senior official for fiscal policy has warned. Vítor Gaspar, the director of the IMF’s fiscal affairs department, said the fund’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/imf-predicts-trump-tariffs-could-drive-public-debt-to-postwar-high/">IMF predicts Trump tariffs could drive public debt to postwar high</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/imf-predicts-trump-tariffs-could-drive-public-debt-to-postwar-high/>
+
+---
+
+## Judge halts Trump’s shutdown of Voice of America
+
+date: 2025-04-25, from: Island Times
+
+<p>NEW YORK (BBC NEWS) &#8212; A federal judge has ordered the Trump administration to restore all jobs and funding for the Voice of America (VOA) and other U.S-backed news outlets, ruling that efforts to dismantle it violated the law and Constitution. Over 1,300 VOA employees, including about 1,000 journalists, were placed on leave following President [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/judge-halts-trumps-shutdown-of-voice-of-america/">Judge halts Trump&#8217;s shutdown of Voice of America</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/judge-halts-trumps-shutdown-of-voice-of-america/>
+
+---
+
+## Guam, Saipan firms get portions of NAVFAC's  $990M contract for defense projects in Indo-Pacific
+
+date: 2025-04-25, from: Pacific Island Times
+
+Garrett Fong, director of the U.S. Indo-Pacific Joint Posture Management Office, said the “strategically important contract provides a rapidly deployable construction capability, enabling the swift delivery of resilient infrastructure projects across the Indo-Pacific region."
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-saipan-firms-get-portions-of-navfac-s-990m-contract-for-defense-projects-in-indo-pacific>
+
+---
+
+## UH Mānoa swimmer earns academic honors
+
+date: 2025-04-25, from: University of Hawaiʻi News
+
+<p>Milan Bukovics was named Academic All-America third team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/24/bukovics-earns-academic-honors/"><abbr>UH</abbr> Mānoa swimmer earns academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/24/bukovics-earns-academic-honors/>
+
+---
+
+## 5 Rainbow Warrior volleyball players earn spots on All-Big West Team
+
+date: 2025-04-25, from: University of Hawaiʻi News
+
+<p>Five <abbr>UH</abbr> players earned Big West honors; Rosenthal, Titriyski, Roure make first team</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/24/rainbow-warrior-volleyball-all-big-west-team/">5 Rainbow Warrior volleyball players earn spots on All-Big West Team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/24/rainbow-warrior-volleyball-all-big-west-team/>
+
+---
+
+## KoAloha ‘Ukulele, Kauwila Mahi, Hawai’i Wildlife Center Home is Here
+
+date: 2025-04-25, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/koaloha-ukulele-kauwila-mahi-hawaii-wildlife-center-home-is-here/">KoAloha &#8216;Ukulele, Kauwila Mahi, Hawai&#8217;i Wildlife Center &lt;br/&gt;Home is Here</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/koaloha-ukulele-kauwila-mahi-hawaii-wildlife-center-home-is-here/>
+
+---
+
+## Windward CC hits high notes in Hawaiian music education
+
+date: 2025-04-24, from: University of Hawaiʻi News
+
+<p>Scholarships, star mentors and sold-out concerts—<span aria-label="Kaohekani">Ka&#699;ohekani</span> redefines music education in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/24/hanauna-mele/">Windward <abbr>CC</abbr> hits high notes in Hawaiian music education</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/24/hanauna-mele/>
+
+---
+
+## Level up with free AI and career skills training
+
+date: 2025-04-24, from: University of Hawaiʻi News
+
+<p>Boost your résumé with flexible courses in AI, cybersecurity and more.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/24/free-ai-and-career-skills-training/">Level up with free <abbr>AI</abbr> and career skills training</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/24/free-ai-and-career-skills-training/>
 
 ---
 
@@ -23,12 +602,12 @@ date: 2025-04-24, from: Marshal Islands Journal
 
 ---
 
-## UH Mānoa earns national recognition for access, earnings, academics, more
+## All UH campuses earn national recognition for access, earnings, academics, more
 
 date: 2025-04-24, from: University of Hawaiʻi News
 
 <p>The 2025 Carnegie Classifications reflect a multi-year effort to create a more relevant and complete view of higher education institutions across the country.</p>
-The post <a href="https://www.hawaii.edu/news/2025/04/24/2025-carnegie-classifications/"><abbr>UH</abbr> Mānoa earns national recognition for access, earnings, academics, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/04/24/2025-carnegie-classifications/">All <abbr>UH</abbr> campuses earn national recognition for access, earnings, academics, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 

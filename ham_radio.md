@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-04-24 14:07:42
+updated: 2025-04-25 06:08:55
 ---
 
 # ham radio
 
-(date: 2025-04-24 14:07:42)
+(date: 2025-04-25 06:08:55)
+
+---
+
+## FPGA prototyping harnessed for RISC-V processor cores
+
+date: 2025-04-25, from: EDN Blog
+
+<img width="900" height="506" src="https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?fit=900%2C506" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=900 900w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-14.jpg?w=800 800w" sizes="(max-width: 900px) 100vw, 900px" /><p>Andes employs S2C’s new FPGA prototyping platform to bolster SoC designs developed around its RISC-V processor cores.</p>
+<p>The post <a href="https://www.edn.com/fpga-prototyping-harnessed-for-risc-v-processor-cores/">FPGA prototyping harnessed for RISC-V processor cores</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/fpga-prototyping-harnessed-for-risc-v-processor-cores/>
+
+---
+
+## SiC modules boost thermal stability
+
+date: 2025-04-25, from: EDN Blog
+
+<img width="800" height="382" src="https://www.edn.com/wp-content/uploads/Navitas-1200-V-SiCPAK.jpg?fit=800%2C382" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Navitas-1200-V-SiCPAK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Navitas-1200-V-SiCPAK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Navitas-1200-V-SiCPAK.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>SiCPAK power modules from Navitas use advanced epoxy-resin potting to achieve 5× lower thermal resistance shift for extended system lifetime.</p>
+<p>The post <a href="https://www.edn.com/sic-modules-boost-thermal-stability/">SiC modules boost thermal stability</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/sic-modules-boost-thermal-stability/>
 
 ---
 
@@ -25,7 +53,7 @@ date: 2025-04-24, from: Amateur Radio Relay League News
 
 date: 2025-04-24, from: EDN Blog
 
-<img width="800" height="465" src="https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?fit=800%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>To support the rapid growth of electric vehicles, Infineon has introduced a new generation of energy-efficient silicon IGBTs and RC-IGBTs.</p>
+<img width="800" height="465" src="https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?fit=800%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-EDT3.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>To support the rapid growth of electric vehicles, Infineon has introduced a new generation of energy-efficient silicon IGBTs and RC-IGBTs.</p>
 <p>The post <a href="https://www.edn.com/infineon-advances-ev-drivetrain-efficiency/">Infineon advances EV drivetrain efficiency</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

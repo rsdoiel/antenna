@@ -1,11 +1,53 @@
 ---
 title: home
-updated: 2025-04-24 14:07:46
+updated: 2025-04-25 06:08:58
 ---
 
 # home
 
-(date: 2025-04-24 14:07:46)
+(date: 2025-04-25 06:08:58)
+
+---
+
+## The Best Companion Plants to Grow with Pumpkins
+
+date: 2025-04-25, from: The Gardener's Path
+
+<p>Pumpkins are an excellent crop to grow for a bounty of gourds for fall decorations and, of course, pie. But what should you grow alongside your pumpkins? Learn about the best companion plants to grow in your pumpkin patch for pest control, soil improvement, and to maintain diversity in your garden. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/pumpkin-companion-plants/">The Best Companion Plants to Grow with Pumpkins</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/pumpkin-companion-plants/>
+
+---
+
+## How to Grow and Care for Forget-Me-Not Flowers
+
+date: 2025-04-25, from: The Gardener's Path
+
+<p>Forget-me-not is an eye-catching beauty that's been a garden favorite for centuries, and its blue flowers have become a symbol of remembrance for many. It’s an easy-care, cute plant to add to your garden or a container on your patio, and you can learn all about how to grow and care for this popular plant in our guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-forget-me-not/">How to Grow and Care for Forget-Me-Not Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-forget-me-not/>
+
+---
+
+## Taylor Swift’s Former Cape Cod Mansion Is for Sale — Wait Until You See the Price Tag
+
+date: 2025-04-24, from: Family Handyman Blog
+
+<p>A Cape Cod mansion previously owned by Taylor Swift has just been put on the market again, for the first time since 2013. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/taylor-swift-cape-cod-mansion-on-sale/">Taylor Swift&#8217;s Former Cape Cod Mansion Is for Sale — Wait Until You See the Price Tag</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/taylor-swift-cape-cod-mansion-on-sale/>
 
 ---
 
@@ -51,6 +93,30 @@ date: 2025-04-24, from: Family Handyman Blog
 
 ---
 
+## This Is the Best Way to Maximize Your Credit Card Points for Your Next Trip
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+You've racked up points, so now what? An expert shares how to maximize those credit card points for travel. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-maximize-credit-card-points-for-travel>
+
+---
+
+## This Hidden Surf Gem Can Be Found on the Oregon Coast
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+Escape the crowds and catch a wave at Short Sands Beach, a secluded summer haven for surfers, hikers, and beach lovers. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/short-sands-beach-best-surfing>
+
+---
+
 ## From the Archive: The Swimming Pool That Changed the World
 
 date: 2025-04-24, from: Dwell
@@ -60,6 +126,18 @@ Designed in 1948 by Thomas Dolliver Church, the kidney pool—and its artistic e
 <br> 
 
 <https://www.dwell.com/article/kidney-pool-thomas-church-donnell-california-el-novillero-300e10e2>
+
+---
+
+## Travel Back in Time at the Eeriest Ghost Towns in the West
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+Check out these thirteen incredibly well-preserved ghost towns aross the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/ghost-town>
 
 ---
 
@@ -126,6 +204,18 @@ date: 2025-04-24, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/blue-porch-ceiling/>
+
+---
+
+## Attention Readers: Amazon Is Having a Major Book Sale You Don’t Want to Miss
+
+date: 2025-04-24, from: Sunset Magazine - Living in the West
+
+During the annual Amazon Book Sale, you can get major deals on eBooks, audiobooks, and print books. Here's what to shop. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/amazon-book-sale-2025>
 
 ---
 

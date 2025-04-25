@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-04-24 14:07:46
+updated: 2025-04-25 06:08:59
 ---
 
 # motorcycles
 
-(date: 2025-04-24 14:07:46)
+(date: 2025-04-25 06:08:59)
+
+---
+
+## This EV Motorcycle Maker Is Changing the Game With Its Battery Warranty
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+If you want to get skeptics on board, a program like this is how you do it. 
+
+<br> 
+
+<https://www.rideapart.com/news/757679/oben-rorr-battery-warranty-program/>
+
+---
+
+## This Yamaha Scooter's New Colors Are So Cute, I'm Screaming
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+In a vibes-based economy, the Yamaha Vinoora is a literal queen. 
+
+<br> 
+
+<https://www.rideapart.com/news/757670/yamaha-vinoora-2025-scooter-colors/>
+
+---
+
+## This Still-in-the-Crate Honda Dirt Bike Was Just Sold for $80,000, No Seriously
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+That's like nine CRF450s in today's dollars.  
+
+<br> 
+
+<https://www.rideapart.com/news/757655/honda-dirt-bike-80000-dollars-crate-cr500r/>
+
+---
+
+## Take a Look At This Stunning Motorcycle Concept, and It's From a Car Brand
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+Looking forward and back, all in a single design. 
+
+<br> 
+
+<https://www.rideapart.com/news/757541/skoda-slavia-b-concept-motorcycle/>
+
+---
+
+## This Company Is Keeping 100-Year-Old Motorcycles Alive With 3D Printing
+
+date: 2025-04-25, from: Ride Apart, Electric Motorcycle News
+
+It’s producing parts that would otherwise be impossible to come by. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757544/farsoon-technologies-competition-distributing-3d-printed-motorcycle-parts/>
+
+---
+
+## Palou fastest on Day 2 of “500” Open Test
+
+date: 2025-04-24, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer Two major wrecks headlined the second day of the Indianapolis 500 Open Test. Kyle Larson and Takuma Sato both hit the wall coming out of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/palou-fastest-on-day-2-of-500-open-test/>
 
 ---
 

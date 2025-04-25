@@ -1,11 +1,139 @@
 ---
 title: food
-updated: 2025-04-24 14:07:47
+updated: 2025-04-25 06:09:00
 ---
 
 # food
 
-(date: 2025-04-24 14:07:47)
+(date: 2025-04-25 06:09:00)
+
+---
+
+## Jennifer Aniston’s Favorite Pasta Recipe Doesn’t Use Oil, Butter or Cream
+
+date: 2025-04-25, from: Taste of Home
+
+<p>Nothing says "I'll be there for you" like a tasty pasta dish.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/jennifer-aniston-pasta-recipe/">Jennifer Aniston&#8217;s Favorite Pasta Recipe Doesn&#8217;t Use Oil, Butter or Cream</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/jennifer-aniston-pasta-recipe/>
+
+---
+
+## The SCA Just Took Over The Q Grader Exam
+
+date: 2025-04-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The CQI will no longer be part of the Q grader exam. 
+
+<br> 
+
+<https://sprudge.com/the-sca-just-took-over-the-q-grader-exam-322090.html>
+
+---
+
+## This Cult-Fave Dairy Queen Treat Is Discontinued, But You Can Still Order It With This Menu Hack
+
+date: 2025-04-25, from: Taste of Home
+
+<p>The S'mores Galore Parfait is layered with that signature DQ vanilla soft serve, hot fudge, marshmallow sauce, and graham cracker crumbs.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dairy-queen-smores-galore-parfait/">This Cult-Fave Dairy Queen Treat Is Discontinued, But You Can Still Order It With This Menu Hack</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dairy-queen-smores-galore-parfait/>
+
+---
+
+## Weekly Coffee News: Brazil Arabica Estimates + A Simply Good Coffee Brewer
+
+date: 2025-04-25, from: Daily Coffee News
+
+<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee-768x554.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Banks Predict Dramatic Reductions in Brazil&#8217;s 2025/26 Arabica Output... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/25/weekly-coffee-news-brazil-arabica-estimates-a-simply-good-coffee-brewer/>
+
+---
+
+## Al Pastor Marinade Recipe
+
+date: 2025-04-25, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/al-pastor-marinade/" title="Al Pastor Marinade Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="al Pastor Marinade, which is a thick chili paste, on a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/al-Pastor-Marinade-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This al pastor marinade is a chili paste made with guajillo and ancho chilies, fresh pineapple, and a blend of spices, essential for Mexican al pastor.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/al-pastor-marinade/">Al Pastor Marinade Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/al-pastor-marinade/>
+
+---
+
+## David Lalonde Issues Worldwide Initiative, Coffee For Palestine
+
+date: 2025-04-25, from: The Fresh Cup
+
+<p>Rabbit Hole Roasters' David Lalonde has launched a worldwide fundraiser to raise money and awareness for the continued genocide of Gaza.</p>
+<p>The post <a href="https://freshcup.com/david-lalonde-issues-worldwide-initiative-coffee-for-palestine/">David Lalonde Issues Worldwide Initiative, Coffee For Palestine</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/david-lalonde-issues-worldwide-initiative-coffee-for-palestine/>
+
+---
+
+## What Our Editors Cooked for Their Kids This Week
+
+date: 2025-04-25, from: Bon Appetet
+
+Homemade pizza, chicken piccata, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-for-their-kids-april-2025>
+
+---
+
+## How Our Test Kitchen Turned an Oil Painting Into a Veggie Burger
+
+date: 2025-04-25, from: Bon Appetet
+
+Six contemporary artworks, six original recipes. Go behind the scenes of our most abstract assignment of the year. 
+
+<br> 
+
+<https://www.bonappetit.com/story/art-inspired-recipes>
+
+---
+
+## What to Buy (and Skip) at Trader Joe's for Spring 2025
+
+date: 2025-04-24, from: Bon Appetet
+
+We tried garlic butter potato chips, honey mustard dressing, chicken pot pies, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/trader-joes-spring-products-2025>
+
+---
+
+## The Last Podcast Before The Final SCA Expo In Houston
+
+date: 2025-04-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The latest episode of the Coffee Sprudgecast coffee podcast, the final SCA Expo in Houston. 
+
+<br> 
+
+<https://sprudge.com/the-last-podcast-before-the-final-sca-expo-in-houston-322094.html>
 
 ---
 
@@ -75,7 +203,7 @@ date: 2025-04-24, from: The Fresh Cup
 
 date: 2025-04-24, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ceado Rev Series grinders 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-1536x1024.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1.jpg 1860w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian grinder maker Ceado just introduced a flagship line of commercial espresso grinders under the series name Rev (styled &#8220;REV&#8221; by the company).&#160; The new machines — called Rev Steel,... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ceado Rev Series grinders 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-1536x1024.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1.jpg 1860w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian grinder maker Ceado just introduced a flagship line of commercial espresso grinders under the series name Rev (styled &#8220;REV&#8221; by the company).&#160; The new machines — called Rev Steel,... 
 
 <br> 
 
@@ -259,7 +387,7 @@ date: 2025-04-23, from: Daily Coffee News
 
 date: 2025-04-23, from: Daily Coffee News
 
-<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-620x420.jpeg" class="attachment-large size-large wp-post-image" alt="Ryana Kuruvilla, Head of People and Culture, Kelachandra Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-620x420.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-300x203.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-150x102.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-768x520.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Representing the seventh generation of family members as part of the Kelachandra agricultural group in India, Ryana Kuruvilla keeps one foot moving toward the future while the other remains grounded... 
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-620x420.jpeg" class="attachment-large size-large wp-post-image" alt="Ryana Kuruvilla, Head of People and Culture, Kelachandra Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-620x420.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-300x203.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-150x102.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1-768x520.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ryana-Kuruvilla-Head-of-People-and-Culture-Kelachandra-Coffee-1.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Representing the seventh generation of family members as part of the Kelachandra agricultural group in India, Ryana Kuruvilla keeps one foot moving toward the future while the other remains grounded... 
 
 <br> 
 
@@ -333,7 +461,7 @@ date: 2025-04-23, from: The Fresh Cup
 
 date: 2025-04-23, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/drunken-noodles/" title="Drunken Noodles Recipe (Pad Kee Mao)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Saucy Drunken Noodles on a plate, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This drunken noodles recipe (pad kee mao) is a popular Thai dish of stir fried noodles tossed in a savory, spicy sauce, easy to make and done in minutes! You will love this dish.</p>
+<a href="https://www.chilipeppermadness.com/recipes/drunken-noodles/" title="Drunken Noodles Recipe (Pad Kee Mao)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Saucy Drunken Noodles on a plate, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Drunken-Noodles-Recipe3b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This drunken noodles recipe (pad kee mao) is a popular Thai dish of stir fried noodles tossed in a savory, spicy sauce, easy to make and done in minutes! You will love this dish.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/drunken-noodles/">Drunken Noodles Recipe (Pad Kee Mao)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

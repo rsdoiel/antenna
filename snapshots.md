@@ -1,11 +1,189 @@
 ---
 title: snapshots
-updated: 2025-04-24 14:07:49
+updated: 2025-04-25 06:09:02
 ---
 
 # snapshots
 
-(date: 2025-04-24 14:07:49)
+(date: 2025-04-25 06:09:02)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-25, from: Dave Winer's linkblog)
+
+TechCrunch is finally asking if Bluesky really is decentralized as they have been claiming. 
+
+<br> 
+
+<https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/>
+
+---
+
+## New adventures in AI hype: “Our language models are so ‘conscious’ we need to give them rights”
+
+date: 2025-04-25, from: Gary Marcus blog
+
+The return of nonsense on stilts, three years later 
+
+<br> 
+
+<https://garymarcus.substack.com/p/new-adventures-in-ai-hype-our-language>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-25, from: Dave Winer's linkblog)
+
+At Last, College Presidents Are Standing Up to Trump. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/04/harvard-university-college-presidents-letter-trump/>
+
+---
+
+## Should FOSS allow AI contributions?
+
+date: 2025-04-25, from: Libre News
+
+I believe that the responsability of which tools to use should fall on the contributors, not the open-source projects. 
+
+<br> 
+
+<https://thelibre.news/should-foss-allow-ai-contributions/>
+
+---
+
+## Zero-G Laboratory floating platform
+
+date: 2025-04-25, from: Raspberry Pi News (.com)
+
+<p>Helping explore space by building earthbound robots with Raspberry Pi and ROS (Robotics Operating System).</p>
+<p>The post <a href="https://www.raspberrypi.com/news/zero-g-laboratory-floating-platform/">Zero-G Laboratory floating platform</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/zero-g-laboratory-floating-platform/>
+
+---
+
+## Pixel with purpose podcast
+
+date: 2025-04-25, from: Kilian Valkhof's blog
+
+<p>I recorded a podcast with the folks from Nordcraft on their new Pixels with Purpose podcast channel. We chatted about accessibility, education around that and of course about Polypane. Check it out: Or watch the video: Thanks Salma and and Andreas for having me on, I had a lot of fun!</p>
+The post <a href="https://kilianvalkhof.com/2025/web/pixel-with-purpose-podcast/">Pixel with purpose podcast</a> first appeared on <a href="https://kilianvalkhof.com">Kilian Valkhof</a>. 
+
+<br> 
+
+<https://kilianvalkhof.com/2025/web/pixel-with-purpose-podcast/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-25, from: Dave Winer's linkblog)
+
+A $20,000 electric truck with manual windows and no screens? Meet Slate Auto. 
+
+<br> 
+
+<https://arstechnica.com/cars/2025/04/amazon-backed-startup-wants-to-sell-a-bare-bones-ev-truck-for-20000/>
+
+---
+
+## 8 Bits & Still Brewin’
+
+date: 2025-04-25, updated: 2025-04-25, from: Tedium site
+
+As the NES nears the 40th anniversary of its U.S. release, the homebrew scene around it is still putting out some killer games. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17014404/homebrew-nes-games-guide>
+
+---
+
+## 293: Canticle to the Sun
+
+date: 2025-04-25, from: Fix the News
+
+He was a 'countercultural blaze of possibility in a dark time.' Plus, a title for our malaria podcast, US cancer death rates down, good news for flamingoes in India and penguins in Argentina, a tipping point for coal in China, and one of the great conservation success stories of the century. 
+
+<br> 
+
+<https://fixthenews.com/293-canticle-to-the-sun/>
+
+---
+
+## COSMIC Alpha 7: Never Been Beta
+
+date: 2025-04-24, from: System76 Blog
+
+Wrapping up COSMIC’s main features before the first beta release. 
+
+<br> 
+
+<https://blog.system76.com/post/cosmic-alpha-7-never-been-beta>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-24, from: Robert's feed at BlueSky)
+
+Interesting. Is it the facts? Or the logic that appeals to them 😉.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lnlq7lfifk2n>
+
+---
+
+## Introducing Datasette for Newsrooms
+
+date: 2025-04-24, updated: 2025-04-24, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.datasette.cloud/blog/2025/datasette-for-newsrooms/">Introducing Datasette for Newsrooms</a></strong></p>
+We're introducing a new product suite today called <strong>Datasette for Newsrooms</strong> - a bundled collection of Datasette Cloud features built specifically for investigative journalists and data teams. We're describing it as an all-in-one data store, search engine, and collaboration platform designed to make working with data in a newsroom easier, faster, and more transparent.</p>
+<p>If your newsroom could benefit from a managed version of <a href="https://datasette.io/">Datasette</a> we would <em>love</em> to hear from you. We're offering it to nonprofit newsrooms for free for the first year (they can pay us in feedback), and we have a two month trial for everyone else.</p>
+<p>Get in touch at <code>hello@datasette.cloud</code> if you'd like to try it out.</p>
+<p>One crucial detail: we will <strong>help you get started</strong> - we'll load data into your instance for you (you get some free data engineering!) and walk you through how to use it, and we will eagerly consume any feedback you have for us and prioritize shipping anything that helps you use the tool. Our unofficial goal: we want someone to win a Pulitzer for investigative reporting where our tool played a tiny part in their reporting process.</p>
+<p>Here's an animated GIF demo (taken from our new <a href="https://www.datasette.cloud/newsrooms/">Newsrooms landing page</a>) of my favorite recent feature: the ability to extract structured data into a table starting with an unstructured PDF,  using the latest version of the <a href="https://github.com/datasette/datasette-extract">datasette-extract</a> plugin.</p>
+<p><img src="https://datasette-cloud-assets.s3.amazonaws.com/newsrooms/datasette-extract.gif" alt="Animated demo. Starts with a PDF file of the San Francisco Planning Commission, which includes a table of data of members and their term ending dates. Switches to a Datasette Cloud with an interface for creating a table - the table is called planning_commission and has Seat Number (integer), Appointing Authority, Seat Holder and Term Ending columns - Term Ending has a hint of YYYY-MM-DD. The PDF is dropped onto the interface and the Extract button is clicked - this causes a loading spinner while the rows are extracted one by one as JSON, then the page refreshes as a table view showing the imported structured data." style="max-width: 100%" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/datasette-cloud">datasette-cloud</a>, <a href="https://simonwillison.net/tags/structured-extraction">structured-extraction</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/data-journalism">data-journalism</a>, <a href="https://simonwillison.net/tags/journalism">journalism</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/24/introducing-datasette-for-newsrooms/#atom-everything>
+
+---
+
+## Lilbits: Snapdragon X Chromebooks, Pixel 7a battery swelling, and a Liberux NEXX Linux phone progress update
+
+date: 2025-04-24, from: Liliputing
+
+<p>Earlier this year the folks at Liberux announced plans to build a Linux smartphone that combines the kind of features you&#8217;d expect from a modern phone with the hardware you&#8217;d expect from a pretty good single-board computer. The Liberux NEXX is expected to have a RK3588s Processor, a 6.34 inch, 2400 x 1080 pixel OLED [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-snapdragon-x-chromebooks-pixel-7a-battery-swelling-and-a-liberux-nexx-linux-phone-progress-update/">Lilbits: Snapdragon X Chromebooks, Pixel 7a battery swelling, and a Liberux NEXX Linux phone progress update</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-snapdragon-x-chromebooks-pixel-7a-battery-swelling-and-a-liberux-nexx-linux-phone-progress-update/>
+
+---
+
+## Evertop is a portable retro PC with an E Ink display and hundreds of hours of battery life
+
+date: 2025-04-24, from: Liliputing
+
+<p>Most modern laptops have battery life measured in hours. Smartphones may run for a day or two, and tablets can sometimes go a bit longer. But the Evertop is a portable computer with an E Ink display and integrated keyboard that promises &#8220;hundreds or even thousands of hours&#8221; of battery life from a single charge. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/evertop-is-a-portable-retro-pc-with-an-e-ink-display-and-hundreds-of-hours-of-battery-life/">Evertop is a portable retro PC with an E Ink display and hundreds of hours of battery life</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/evertop-is-a-portable-retro-pc-with-an-e-ink-display-and-hundreds-of-hours-of-battery-life/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-24 14:07:46
+updated: 2025-04-25 06:08:59
 ---
 
 # retro computing
 
-(date: 2025-04-24 14:07:46)
+(date: 2025-04-25 06:08:59)
+
+---
+
+## Open letter to the RISC OS Community from Gerph
+
+date: 2025-04-25, from: Icon Bar, RISC OS News
+
+Gerph has written an open Letter to the RISC OS community about the proposed 64bit moonshot. What do yout think? 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2198.html>
+
+---
+
+## April 2025 News Summary
+
+date: 2025-04-25, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2189.html>
 
 ---
 

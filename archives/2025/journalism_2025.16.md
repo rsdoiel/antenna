@@ -1,11 +1,376 @@
 ---
 title: journalism
-updated: 2025-04-24 14:07:45
+updated: 2025-04-25 06:08:57
 ---
 
 # journalism
 
-(date: 2025-04-24 14:07:45)
+(date: 2025-04-25 06:08:57)
+
+---
+
+## Michelle Bitting makes breakage bold
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The local poet speaks about her work ahead of the L.A. Times Festival of Books.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/michelle-bitting-speaks-about-her-poetry/">Michelle Bitting makes breakage bold</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/michelle-bitting-speaks-about-her-poetry/>
+
+---
+
+## Trinity Nguyen brings to life ‘A Bánh Mì for Two’
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The author speaks on the development of her debut young adult romance novel.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/trinity-nguyen-discusses-debut-novel/">Trinity Nguyen brings to life ‘A Bánh Mì for Two’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/trinity-nguyen-discusses-debut-novel/>
+
+---
+
+## ‘It’s a bookstore in a van down by the river’
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Katie Orphan created this bookstore on wheels after a career with other sellers.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/katie-orphan-founded-mobile-bookstore/">‘It’s a bookstore in a van down by the river’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/katie-orphan-founded-mobile-bookstore/>
+
+---
+
+## Folt opts not to sign letter condemning Trump funding cuts
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The statement rejected the administration’s ‘coercive’ use of research funding.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/folt-opts-not-to-sign-letter-condemning-trump-funding-cuts/">Folt opts not to sign letter condemning Trump funding cuts</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/folt-opts-not-to-sign-letter-condemning-trump-funding-cuts/>
+
+---
+
+## Campus Jewish leaders say University has made strides in addressing antisemitism
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Concerns remain about social media messaging from Pro-Palestine groups and protests at campus entrances.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/campus-jewish-leaders-say-university-has-made-strides-in-addressing-antisemitism-2/">Campus Jewish leaders say University has made strides in addressing antisemitism</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/campus-jewish-leaders-say-university-has-made-strides-in-addressing-antisemitism-2/>
+
+---
+
+## One year later, pro-Palestinian protesters aren’t discouraged
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some students and faculty members decry the installation of security checkpoints and internal fencing. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/one-year-later-pro-palestinian-protesters-arent-discouraged/">One year later, pro-Palestinian protesters aren’t discouraged</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/one-year-later-pro-palestinian-protesters-arent-discouraged/>
+
+---
+
+## ASUCLA Board of Directors recap – March 15
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+The ASUCLA Board of Directors held its ninth meeting of the 2024-2025 term March 15, approving the purchase of a $175,000 air conditioning unit for Lu Valle Commons. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/asucla-board-of-directors-recap-march-15/>
+
+---
+
+## Southern California exhibits explore how ‘Art & Science Collide’ to solve problems
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+An event spanning more than 50 art exhibitions across Southern California &#8211; and featured on UCLA&#8217;s campus &#8211; explored the connection between art and science to confront pressing global issues. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/southern-california-exhibits-explore-how-art-science-collide-to-solve-problems/>
+
+---
+
+## Classifieds – April 25, 2025
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/classifieds-april-25-2025/">Classifieds &#8211; April 25, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/classifieds-april-25-2025/>
+
+---
+
+## Research symposium highlights work of Latino, immigrant ‘Voices Across Fronteras’
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Iris Ramirez&#8217;s voice was thick with emotion as she looked at her mother, working at a sewing machine with her curly hair in a bun, on the projector screen. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/research-symposium-highlights-work-of-latino-immigrant-voices-across-fronteras/>
+
+---
+
+## California joins suit against Trump administration for cuts to educational grants
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+California has joined a lawsuit suing the Trump administration for cutting grants designed to combat a nationwide teacher shortage.
+Eight states sued the Trump administration for terminating $600 million worth of grants. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/california-joins-suit-against-trump-administration-for-cuts-to-educational-grants/>
+
+---
+
+## Who to watch for at the 2025 Festival of Books
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Celebrating its 30th anniversary, the Los Angeles Times Festival of Books is featuring a wide variety of performers, authors, poets, activists and more. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/ten-big-names-at-festival-of-books/">Who to watch for at the 2025 Festival of Books</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/ten-big-names-at-festival-of-books/>
+
+---
+
+## ‘DEURnis’ is USC’s doorway to compassion
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Aeneid Theatre Company's immersive show is making its global premiere at USC.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/deurnis-is-uscs-doorway-to-compassion/">‘DEURnis’ is USC’s doorway to compassion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/deurnis-is-uscs-doorway-to-compassion/>
+
+---
+
+## Sophia Condon steps into the spotlight
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The singer discusses her growth in performing and songwriting while at USC.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/sophia-condon-reflects-on-musical-process/">Sophia Condon steps into the spotlight</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/sophia-condon-reflects-on-musical-process/>
+
+---
+
+## Life’s more than the next LinkedIn post
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Studying abroad helped me realize there are better ways to spend my fleeting time than stressing about my career.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/lifes-more-than-the-next-linkedin-post/">Life’s more than the next LinkedIn post</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/lifes-more-than-the-next-linkedin-post/>
+
+---
+
+## Erika Wurth embeds diverse voices into horror
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The best-selling author in horror speaks on inclusion of Indigenous representation.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/erika-wurth-diversifies-horror-fiction/">Erika Wurth embeds diverse voices into horror</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/erika-wurth-diversifies-horror-fiction/>
+
+---
+
+## The Weekly Frame III: Statues
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It is hard to imagine USC without them and them without USC. Each statue tells its own story: the founding of the School of Cinematic Arts with Douglas Fairbanks and Hecuba, the queen of Troy, watching over the USC Village.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/the-weekly-frame-iii-statues/">The Weekly Frame III: Statues</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/the-weekly-frame-iii-statues/>
+
+---
+
+## Cindy Kadohata puts life philosophy on paper
+
+date: 2025-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The writer has her personal experiences reflected in her various children’s books. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/cindy-kadohata-reflects-on-authorial-journey/">Cindy Kadohata puts life philosophy on paper</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/cindy-kadohata-reflects-on-authorial-journey/>
+
+---
+
+## Film industry veterans come to campus
+
+date: 2025-04-25, from: The Round Up (Pierce College Student Newspaper)
+
+<p>It&#8217;s not a quick or straightforward feat to make it to a T.V. writers&#8217; room. But as comedy producers Michael Feldman and Bryan Behar shared</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/24/film-industry-veterans-come-to-campus/">Film industry veterans come to campus</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/24/film-industry-veterans-come-to-campus/?utm_source=rss&utm_medium=rss&utm_campaign=film-industry-veterans-come-to-campus>
+
+---
+
+## Book review: Gardiner Harris’ new exposé competently uncovers Johnson & Johnson ethical battles
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Deadly secrets are revealed in &#8220;No More Tears: The Dark Secrets of Johnson &#38; Johnson.&#8221;
+Gardiner Harris, a former pharmaceutical reporter for The New York Times and a reporter for The Wall Street Journal, effectively explains the legal battles involving the global health care company and the difficulties the media has in reporting on health-related scandals in his latest book, which was released April 8. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/24/book-review-gardiner-harris-new-expos-competently-uncovers-johnson-johnson-ethical-battles/>
+
+---
+
+## The Lego Club: Building community one brick at a time
+
+date: 2025-04-25, from: The Round Up (Pierce College Student Newspaper)
+
+<p>At first glance Legos look like child’s play with colorful plastic bricks scattered across desks with students huddled over colorful builds. But at Pierce College&#8217;s</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/24/the-lego-club-building-community-one-brick-at-a-time/">The Lego Club: Building community one brick at a time</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/24/the-lego-club-building-community-one-brick-at-a-time/?utm_source=rss&utm_medium=rss&utm_campaign=the-lego-club-building-community-one-brick-at-a-time>
+
+---
+
+## Confirmed SEVIS Terminations for International Students at CSUN
+
+date: 2025-04-25, from: The Sundail (CSUN Student Newspaper)
+
+CSUN has confirmed that an undisclosed number of international students have had their student visas terminated. Marta Lopez, Director of CSUN’s International Exchange Student Center (IESC) and on behalf of... 
+
+<br> 
+
+<https://sundial.csun.edu/193155/news/confirmed-sevis-terminations-for-international-students-at-csun/>
+
+---
+
+## Youth-oriented film festival inspires creativity, mental health awareness
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Shining a light on the teenage experience, the Open Mind Film Festival goes straight to the source.
+Taking place Sunday, the 5th annual Open Mind Film Festival will spotlight 13 films selected from over 300 submissions and award the top three films, with the first-place prize being $1,500, said the festival&#8217;s founder and co-chair, Mia Silverman. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/24/youth-oriented-film-festival-inspires-creativity-mental-health-awareness/>
+
+---
+
+## Petting zoo and popcorn bring fun to campus
+
+date: 2025-04-25, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Carnival used to educate students for Financial Aid Awareness Day Pierce College participated in the district-wide Financial Aid Awareness Day by turning the Student Services</p>
+<p>The post <a href="https://theroundupnews.com/2025/04/24/petting-zoo-and-popcorn-bring-fun-to-campus/">Petting zoo and popcorn bring fun to campus</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/04/24/petting-zoo-and-popcorn-bring-fun-to-campus/?utm_source=rss&utm_medium=rss&utm_campaign=petting-zoo-and-popcorn-bring-fun-to-campus>
+
+---
+
+## Residents take to the streets  at the ‘Stop The Cuts Rally’
+
+date: 2025-04-25, from: The Canyon News (COC Student Newspaper)
+
+<p>Demonstrators lined the sidewalks of the Valencia Boulevard and McBean Parkway intersection,&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/residents-take-to-the-streets-at-the-stop-the-cuts-rally/">Residents take to the streets  at the &#8216;Stop The Cuts Rally&#8217;</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/residents-take-to-the-streets-at-the-stop-the-cuts-rally/>
+
+---
+
+## Police presence increases ahead of 1-year anniversary of pro-Palestine encampment
+
+date: 2025-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 12:04 a.m.</em>
+UCPD has deployed additional police officers as the one-year anniversary of the first Palestine solidarity encampment approaches. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/24/police-presence-increases-ahead-1-year-anniversary-of-1st-pro-palestine-encampment/>
+
+---
+
+## UCLA alumnus previews new young-adult fiction novel about the Filipino experience
+
+date: 2025-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 24 at 9:01 p.m.</em>
+Jason Tanamor’s latest novel, “The Legend of Sensei Tsinelas,” is all about the world’s greatest superpower – one’s own identity. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/24/ucla-alumnus-previews-new-young-adult-fiction-novel-about-the-filipino-experience/>
 
 ---
 
@@ -28,8 +393,9 @@ Candidates were required to submit their first funding source disclosure Monday,
 
 date: 2025-04-24, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 24 at 9:33 p.m.</em>
 The musical climate at UCLA is breaking new ground.
-The UCLA Herb Alpert School of Music will hold an event called &#8220;Climate Notes&#8221; at 4 p.m. 
+The UCLA Herb Alpert School of Music will hold an event called “Climate Notes” at 4 p.m. 
 
 <br> 
 
@@ -61,12 +427,12 @@ Las Vegas has long been synonymous with bright lights, lavish entertainment, and
 
 ---
 
-## NWWNC Q&A: Newly-elected student member talks motivations, plans for Westwood
+## NWWNC Q&A: Newly elected student member talks motivations, plans for Westwood
 
 date: 2025-04-24, from: The Daily Bruin (UCLA Student Newspaper)
 
-Jacob Lawson won a position on the North Westwood Neighborhood Council as an Undergraduate Student Board Member on April 4.
-Lawson, a second-year public affairs student, sat down with Daily Bruin staff writer Amy Wong to discuss how he hopes to enact change on the council. 
+<em>This post was updated April 25 at 12:43 a.m.</em>
+Jacob Lawson won a position on the North Westwood Neighborhood Council as an Undergraduate Student Board Member on April 4. 
 
 <br> 
 

@@ -1,11 +1,173 @@
 ---
 title: socal north
-updated: 2025-04-24 14:07:40
+updated: 2025-04-25 06:08:54
 ---
 
 # socal north
 
-(date: 2025-04-24 14:07:40)
+(date: 2025-04-25 06:08:54)
+
+---
+
+## A brewing celebration: Cal Poly Pomona celebrates a decade of its beer program
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+The university brewing program has opened job opportunities in a huge industry. 
+
+<br> 
+
+<https://laist.com/news/education/cal-poly-pomona-brewing-program-decade-celebration>
+
+---
+
+## Elysian Park to host a geocaching block party celebrating 25 years of hide-and-seek
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Geocaching is a worldwide hobby where people hide containers for others to find outdoors. Southern California's passionate community is gathering soon. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/elysian-park-to-host-a-geocaching-block-party-celebrating-25-years-of-hide-and-seek>
+
+---
+
+## Partly sunny but mild weather before potential weekend rain
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+After the fog and clouds burn off, expect a partly sunny and mild day in SoCal on Friday, with highs near 65. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/partly-sunny-but-mild-friday-before-weekend-rain>
+
+---
+
+## Social media is different, but teen drama is timeless
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Lisi Harrison’s The Clique series rode the Mean Girls wave of the 2000s, but her approach to writing about teen drama has changed over the decades. 
+
+<br> 
+
+<https://laist.com/news/education/clique-lisi-harrison-advice-for-navigating-teenage-tween-drama>
+
+---
+
+## LA's most inventive pizza makers convene this weekend at Pizza City Fest
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+If you’ve ever been curious about a certain pizzeria’s offerings, now’s the time to try. 
+
+<br> 
+
+<https://laist.com/news/food/las-most-inventive-pizza-makers-convene-this-weekend-at-pizza-city-fest>
+
+---
+
+## Man accused of cutting downtown LA trees is charged with felony vandalism
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+The 44-year-old man is accused of using a chainsaw to cut down eight trees in downtown Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/alleged-tree-cutter-charged-with-felony-vandalism>
+
+---
+
+## Early win in OC 'whistleblower' case over COVID-19 testing sites
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+An Orange County judge ruled against the company’s motion to force the case into arbitration — and behind closed doors. 
+
+<br> 
+
+<https://laist.com/news/politics/oc-whistleblower-case-covid-19-era-testing-sites>
+
+---
+
+## AI cameras led to nearly 10,000 more citations for cars parked in LA bus lanes
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+Each citation in the city of L.A. comes with a $293 penalty. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-metro-bus-ai-cameras-transportation>
+
+---
+
+## Anaheim's scandal-ridden Chamber of Commerce poised to close
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+The city has not contracted with the Chamber of Commerce since 2022, when a corruption scandal made headlines. 
+
+<br> 
+
+<https://laist.com/news/politics/anaheim-chamber-of-commerce-poised-to-close>
+
+---
+
+## LA Mayor Karen Bass’ proposed budget would ax a landmark climate action office
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+L.A.’s proposed budget cuts include eliminating the Climate Emergency Mobilization Office and staff tasked with monitoring pollution from oil wells. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-mayor-karen-bass-proposed-budget-landmark-climate-action-office>
+
+---
+
+## After Trump’s crackdown on DEI in schools, judge rules he can’t cut off funding
+
+date: 2025-04-24, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24150229/080923-school-attendance-sn-cm-22-874805-qu49nvyg-123492-LL50cn5p.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California receives $2.4 billion in federal Title I money for low-income schools, about $1.3 billion for special education and $250 million for after-school programs, among other grants.</p>
+<p>The post <a href="https://lbpost.com/news/education/after-trumps-crackdown-on-dei-in-schools-judge-rules-he-cant-cut-off-funding">After Trump’s crackdown on DEI in schools, judge rules he can’t cut off funding</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/after-trumps-crackdown-on-dei-in-schools-judge-rules-he-cant-cut-off-funding>
+
+---
+
+## Your non-politician’s guide to LA’s incoming city budget
+
+date: 2025-04-24, updated: 2025-04-24, from: The LAist
+
+Here's an explanation of what the documents are, how to use them to find what you’re interested in and more. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-city-budget-2025-mayor-karen-bass>
+
+---
+
+## Man trying to cross 7th Street dies after being hit by 2 vehicles, LBPD says
+
+date: 2025-04-24, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the first car pulled over, but the second car that hit him drove off without stopping.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-trying-to-cross-7th-street-dies-after-being-hit-by-2-vehicles-lbpd-says">Man trying to cross 7th Street dies after being hit by 2 vehicles, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-trying-to-cross-7th-street-dies-after-being-hit-by-2-vehicles-lbpd-says>
 
 ---
 
@@ -183,7 +345,7 @@ The wait continues for 2,000 people accepted into the Metro Mobility Wallet prog
 
 date: 2025-04-23, from: Longbeach Post
 
-<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="554" src="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-554x300.jpg 554w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1110x600.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1536x831.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-2048x1108.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/10/15120316/10115-Smog-5-1320x714.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Our region was found to have the worst ozone, or smog, pollution in the country, according to the annual ranking.</p>
 <p>The post <a href="https://lbpost.com/news/smog-long-beach-region-lung-association">Long Beach-Los Angeles region tops list of nation’s smoggiest areas, Lung Association says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -198,7 +360,7 @@ date: 2025-04-23, from: Longbeach Post
 
 date: 2025-04-23, from: Longbeach Post
 
-<figure><img width="1024" height="500" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-300x147.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-768x375.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-400x195.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="500" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-1024x500.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-300x147.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-768x375.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0-400x195.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18134440/screenshot-2025-04-18-at-11600-pm-111001-pell1hb6-632540-N8OjwNf0.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The continued presence of sex work and trafficking along the northern part of Long Beach Boulevard has plagued schools, businesses and residents.</p>
 <p>The post <a href="https://lbpost.com/news/city/prostitution-human-trafficking-north-long-beach-boulevard">City Council wants a new plan to fight persistent prostitution in North Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

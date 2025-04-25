@@ -1,11 +1,155 @@
 ---
 title: going electric
-updated: 2025-04-24 14:07:47
+updated: 2025-04-25 06:09:00
 ---
 
 # going electric
 
-(date: 2025-04-24 14:07:47)
+(date: 2025-04-25 06:09:00)
+
+---
+
+## Volvo EX30 Begins Very Timely Production In Europe
+
+date: 2025-04-25, from: Inside EVs News
+
+Until now, EX30s were only made at the Geely Group’s plant in China and faced big tariffs. 
+
+<br> 
+
+<https://insideevs.com/news/757730/volvo-ex30-production-begins-in-europe/>
+
+---
+
+## Wheel-E Podcast: Tenways cargo e-bike, Lime mopeds, EUCs, more
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes a new cargo e-bike launch from Tenways, Lime bringing its new e-bike and e-moped to its larger fleets, testing a 100 mile e-bike, California’s e-bike vouchers are set to open again in another lottery round, a new electric unicycle from InMotion, and more.</p>
+
+
+
+<p><strong>Today’s episode is brought to you by retrospec—makers of sleek, powerful e-bikes and outdoor gear built for everyday adventure.</strong> <strong>Electrek listeners can get 10% off</strong> their next ride until May 8th with the exclusive code <strong>ELECTREK10</strong> only at<a href="https://bit.ly/4jq5cK1" target="_blank" rel="noreferrer noopener"> retrospec.com</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="412759" href="https://electrek.co/2025/04/25/wheel-e-podcast-tenways-cargo-e-bike-lime-mopeds-eucs-more/#more-412759" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/wheel-e-podcast-tenways-cargo-e-bike-lime-mopeds-eucs-more/>
+
+---
+
+## Redditor: my Polestar 2 window stopped a bullet from hitting me [pictures]
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/POLESTAR_2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This one’s pretty simple, kids – it’s exactly what it says on the tin: a Polestar 2 owner took to the Polestar subreddit this week claiming that the window glass in his new EV actually stopped a bullet from hitting him. Plus, he says he’s got the pictures to prove it. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,reddit" data-layer-viewtype="unknown" data-post-id="412720" href="https://electrek.co/2025/04/24/redditor-my-polestar-2-window-stopped-a-bullet-from-hitting-me-pictures/#more-412720" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/redditor-my-polestar-2-window-stopped-a-bullet-from-hitting-me-pictures/>
+
+---
+
+## Slate's Affordable EV Truck Has No Screen, Uses Your Phone For Updates
+
+date: 2025-04-25, from: Inside EVs News
+
+The EV startup's first model is one of the most analog cars you can buy. Here's how it still gets software updates.  
+
+<br> 
+
+<https://insideevs.com/news/757681/slate-ev-screen-software-updates/>
+
+---
+
+## Here's How Slate’s Truck Transforms Into An SUV
+
+date: 2025-04-25, from: Inside EVs News
+
+The two-seat pickup truck becomes a five-seat SUV with a few hours of work, boosting range in the process.  
+
+<br> 
+
+<https://insideevs.com/news/757661/slate-suv-kit-range-impressions/>
+
+---
+
+## Slate Emerges From Stealth With A Low-Cost, Transforming EV Pickup
+
+date: 2025-04-25, from: Inside EVs News
+
+Slate says its pickup will cost less than $20,000 after federal incentives. Here's everything you need to know.  
+
+<br> 
+
+<https://insideevs.com/news/757649/slate-auto-truck-suv-revealed/>
+
+---
+
+## Slate emerges with customizable EV pickup available for under $20k [Video]
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Slack-EV-driving-night.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After about a month of speculation and subtle hints from industry insiders, American EV startup <a href="https://electrek.co/guides/slate-ev/">Slate</a> has emerged from stealth to share its flagship model with the world. This simplified all-electric pickup arrives with over 100 accessories, a five-seat SUV configuration kit, and get this… crank windows. Even better, this no-nonsense pedigree of EV is priced refreshingly low, starting below $20,000 after US tax incentives.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="slate,slate-ev" data-layer-viewtype="unknown" data-post-id="412580" href="https://electrek.co/2025/04/24/slate-emerges-modular-2-seat-ev-pickup-available-under-20k-video/#more-412580" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/slate-emerges-modular-2-seat-ev-pickup-available-under-20k-video/>
+
+---
+
+## Port of Long Beach shows off electric service fleet for Earth Week
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/longbeach_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Earth Week may be winding to a close, but with electric vehicles being de rigueur at the busy west coast Port of Long Beach, it should come as no surprise that they’ve got put their EV fleet front and center at municipal events all week long.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,long-beach" data-layer-viewtype="unknown" data-post-id="412691" href="https://electrek.co/2025/04/24/port-of-long-beach-shows-off-electric-service-fleet-for-earth-week/#more-412691" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/port-of-long-beach-shows-off-electric-service-fleet-for-earth-week/>
+
+---
+
+## Jeff Bezos' Slate EV Truck Debuts Today: See The Livestream
+
+date: 2025-04-25, from: Inside EVs News
+
+We will be there and you can watch it happen with us live. The debut is scheduled for 10:20 pm Eastern / 7:20 Pacific. 
+
+<br> 
+
+<https://insideevs.com/news/757678/slate-electric-truck-debut-livestream/>
+
+---
+
+## Tesla is starting to have Model Y inventory in the US again, ramps up incentives in China/Europe
+
+date: 2025-04-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-24-at-4.18.24 PM.jpg?quality=82&#038;strip=all&#038;w=1109" /></div><p>Tesla is starting to replenish its Model Y inventory in the US after the design changeover, and it is ramping up incentives in China and Europe, suggesting that demand issues persist despite the new Model Y’s introduction.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412681" href="https://electrek.co/2025/04/24/tesla-model-y-inventory-us-again-ramps-up-incentives-china-europe/#more-412681" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/24/tesla-model-y-inventory-us-again-ramps-up-incentives-china-europe/>
 
 ---
 

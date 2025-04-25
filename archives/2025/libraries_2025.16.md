@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-24 14:07:45
+updated: 2025-04-25 06:08:58
 ---
 
 # libraries
 
-(date: 2025-04-24 14:07:45)
+(date: 2025-04-25 06:08:58)
+
+---
+
+## Cephalopod Update: First Video Footage of A Colossal Squid Recorded
+
+date: 2025-04-25, from: Scholarly Kitchen
+
+<p>Finally some good news, at least for afficionados of very large invertebrates.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/25/cephalopod-update-first-video-footage-of-a-colossal-squid-recorded/">Cephalopod Update: First Video Footage of A Colossal Squid Recorded</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/25/cephalopod-update-first-video-footage-of-a-colossal-squid-recorded/>
 
 ---
 
@@ -54,7 +68,7 @@ date: 2025-04-23, from: SciELO in Perspective
 
 date: 2025-04-23, from: Association of Research Libraries News
 
-<p>Last Updated on April 23, 2025, 2:10 pm ET     John Pollitz’s journey into librarianship was anything but conventional. Initially pursuing academia as a photography student, he later completed...</p>
+<p>Last Updated on April 24, 2025, 7:11 pm ET     John Pollitz’s journey into librarianship was anything but conventional. Initially pursuing academia as a photography student, he later completed...</p>
 <p>The post <a href="https://www.arl.org/blog/the-john-pollitz-story-turning-pages-changing-lives/">The John Pollitz Story: Turning Pages &#038; Changing Lives</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

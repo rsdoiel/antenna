@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-04-24 14:07:42
+updated: 2025-04-25 06:08:55
 ---
 
 # science and technology
 
-(date: 2025-04-24 14:07:42)
+(date: 2025-04-25 06:08:55)
+
+---
+
+## Virgin Atlantic is piloting an OpenAI agent in to help with the 'customer journey'
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Hello, operator? Book me to Memphis, Tennessee</h4> <p><strong>Interview</strong>  For all the talk of the &#34;agentic era&#34; from AI vendors like OpenAI, Google, Anthropic, Microsoft, and just about everyone else in the space, corporate use of the technology is still tentative. Virgin Atlantic has been conducting flight tests of its website with an AI agent called Operator, and early results are promising, pointing the way toward how agents might actually be used to help customers book flights.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/virgin_agentic_airline_tests_ai/>
+
+---
+
+## Air Force Pilot, SkillBridge Fellow Helps NASA Research Soar
+
+date: 2025-04-25, from: NASA breaking news
+
+Jeremy Johnson laces his black, steel-toed boots and zips up his dark blue flight suit. Having just finished a pre-flight mission briefing with his team, the only thing on his mind is heading to the aircraft hangar and getting a plane in the air. As he eases a small white-and-blue propeller aircraft down the hangar’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/air-force-pilot-skillbridge-fellow-helps-nasa-research-soar/>
+
+---
+
+## Europe fires up beefier booster for Ariane 6 and Vega-C
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Successful qualification run for P160C solid-fuel motor in South American spaceport</h4> <p>A qualification version of the P160C solid-fuel motor was successfully tested at the European Spaceport in French Guiana on April 24, paving the way for heftier payloads on the Ariane 6 and Vega rockets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/beefier_booster_for_ariane_6/>
+
+---
+
+## £136M government grant saves troubled Post Office from suboptimal IT
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Taxpayers foot bill to get to new platform as Fujitsu package balloons to £2.44 billion</h4> <p>The UK&#39;s Post Office would have to cope with suboptimal IT, increased risks and costs, and reduced reporting accuracy if it didn&#39;t receive £136 million ($180 million) in government aid to keep its disastrous Horizon system running and replace it with a more modern platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/136_million_government_grant_saves/>
+
+---
+
+## Claims assistance firm fined for cold-calling people who put themselves on opt-out list
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Third-party data supplier also in hot water with Brit regulator over consent issues</h4> <p>Britain&#39;s data privacy watchdog has slapped a fine of £90k ($120k) on a business that targeted people with intrusive marketing phone calls, despite them being registered with the official &#34;Do Not Call&#34; opt-out service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/claims_assistance_firm_hit_with/>
+
+---
+
+## Techie diagnosed hardware fault by checking customer's coffee
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Volts make jolts</h4> <p><strong>On Call</strong>  By the time Friday morning rolls around, starting the day with a stimulating beverage feels like a fine idea. And so does delivering a freshly brewed installment of On Call, <i>The Register</i>&#39;s reader-contributed column in which you share tales of tech support triumph and torture.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/on_call/>
+
+---
+
+## Darcula adds AI to its DIY phishing kits to help would-be vampires bleed victims dry
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Because coding phishing sites from scratch is a real pain in the neck</h4> <p>Darcula, a cybercrime outfit that offers a phishing-as-a-service kit to other criminals, this week added AI capabilities to its kit that help would-be vampires spin up phishing sites in multiple languages more efficiently.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/darcula_ai/>
+
+---
+
+## New Intel boss is all about ‘de-laborating’ the x86 giant – aka job cuts
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Thousands face ax, more given RTO orders in quest to suck less</h4> <p>Intel&#39;s new CEO Lip-Bu Tan is swinging the ax again, with another round of layoffs incoming as Chipzilla tries to reboot its core.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/intel_jobs_cuts/>
+
+---
+
+## Oddly, in defense of Google keeping Chrome
+
+date: 2025-04-24, from: OS News
+
+As much as I&#8217;m a fan of breaking up Google, I&#8217;m not entirely sure carving Chrome out of Google without a further plan for what happens to the browser is a great idea. I mean, Google is bad, but but things could be so, so much worse. OpenAI would be interested in buying Google&#8217;s Chrome if antitrust enforcers are successful in forcing the Alphabet unit to sell the popular web browser as part of a bid to restore competition in search, an OpenAI executive testified on Tuesday at Google&#8217;s antitrust trial in Washington. ↫ Jody Godoy at Reuters OpenAI is not the only &#8220;AI&#8221; vulture circling the skies. Perplexity Chief Business Officer Dmitry Shevelenko said he didn’t want to testify in a trial about how to resolve Google’s search monopoly because he feared retribution from Google. But after being subpoenaed to appear in court, he seized the moment to pitch a business opportunity for his AI company: buying Chrome. ↫ Lauren Feiner at the Verge Or, you know, what about, I don&#8217;t know, fucking Yahoo!? Legacy search brand Yahoo has been working on its own web browser prototype, and says it would like to buy Google’s Chrome if the company is forced by a court to sell it. ↫ Lauren Feiner at the Verge If the courts really want Google to divest Chrome, the least-worst position it could possibly end up is in some sort of open source foundation or similar legal construction, where no one company has total control over the world&#8217;s most popular browser. Of course, such a construction isn&#8217;t exactly ideal either &#8211; it will become a battleground of corporate interests soaked with the blood of ordinary users &#8211; but anything, anything is better than cud peddlers like OpenAI or whatever the hell Yahoo! even is these days. As users, we really should not want Google to be forced to divest Chrome at this point in time. No matter the outcome, users are going to be screwed even harder than if it were to stay with Google. I hate to say this, but I don&#8217;t see an option that&#8217;s better than having Chrome remain part of Google. The big problem here is that there is no coherent strategy to deal with the big technology companies in the United States. We&#8217;re looking at individual lawsuits where judges and medieval nonsense like juries try to deal with individual companies, which, even if, say, Google gets broken up, would do nothing but strengthen the other big technology companies. If, I don&#8217;t know, Android suddenly had to make it on its own as a company, it&#8217;s not users who would benefit, but Apple. Is that the goal of antitrust? What you really need to deal with the inordinate power of the big technology companies is legislation that deals with the sector as a whole, instead of letting random courts and people forced to do jury duty decide what to do with Google or Amazon or whatever. The European Union is doing this to great success so far, getting all the major players to make sweeping changes to the benefit of users in the EU. If the United States is serious about dealing with the abusive behaviour of the big technology companies, it&#8217;s going to need to draft and pass legislation similar to the European Union&#8217;s DMA and DSA. Of course, that&#8217;s not going to happen. The United States Congress is broken beyond repair, the US president and his gaggle of incompetents are too busy destroying the US economy and infecting children with measles, and the big tech companies themselves are just bribing US politicians in broad daylight. The odds of the US being able to draft and pass effective big tech antitrust regulations is lower than zero. OpenAI Chrome. You feeling better yet about the open web? 
+
+<br> 
+
+<https://www.osnews.com/story/142199/oddly-in-defense-of-google-keeping-chrome/>
+
+---
+
+## Steam to highlight accessibility support for games on store pages
+
+date: 2025-04-24, from: OS News
+
+The Steam store and desktop client will soon be able to help players find games that feature accessibility support. If your game has accessibility features, you can now enter that information in the Steamworks &#8216;edit store&#8217; section for your app. ↫ Steam announcements page I have a lot of criticism for the Steam client application &#8211; it&#8217;s a overly complex, unattractive, buggy, slow, top-heavy Chrome engine wrapped in an ugly user interface &#8211; but this is a great change and very welcome addition to Steam. Basically, with this, game developers can indicate which accessibility features their game has, allowing users to specifically search for those features, create filters, make sure they can play the game before buying, and so on. The client-side part of the feature is not yet available &#8211; it seems Valve is giving developers some time to fill in the necessary information &#8211; but once it is, you&#8217;ll be able to tell at a glance what accessibility a game has. Such information on the store page of games tends to be a great marketing tool, with reviews quickly pointing out if certain expected features are not present. Any game that lacks support for the Steam Deck or Proton, for instance, will often have a few reviews at the top mentioning as such, and games with invasive DRM can&#8217;t get away with that either without reviews on Steam pointing it out. I wouldn&#8217;t be surprised if these accessibility feature listings well quickly become another thing users will simply expect to be there. Regardless, this is great news for people who rely on such features, but even if you don&#8217;t specifically &#8211; accessibility features are often just useful features, period. 
+
+<br> 
+
+<https://www.osnews.com/story/142191/steam-to-highlight-accessibility-support-for-games-on-store-pages/>
+
+---
+
+## NASA Tracks Snowmelt to Improve Water Management
+
+date: 2025-04-24, from: NASA breaking news
+
+As part of a science mission tracking one of Earth’s most precious resources – water – NASA’s C-20A aircraft conducted a series of seven research flights in March that can help researchers track the process and timeline as snow melts and transforms into a freshwater resource. The agency’s Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tracks-snowmelt-to-improve-water-management/>
+
+---
+
+## NASA Marshall Fires Up Hybrid Rocket Motor to Prep for Moon Landings
+
+date: 2025-04-24, from: NASA breaking news
+
+NASA’s Artemis campaign will use human landing systems, provided by SpaceX and Blue Origin, to safely transport crew to and from the surface of the Moon, in preparation for future crewed missions to Mars. As the landers touch down and lift off from the Moon, rocket exhaust plumes will affect the top layer of lunar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-fires-up-hybrid-rocket-motor-to-prep-for-moon-landings/>
+
+---
+
+## Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks
+
+date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+
+<h4>Cursor, Codium makers lose access as add-on goes exclusive</h4> <p>Microsoft&#39;s C/C++ extension for Visual Studio Code (VS Code) no longer works with derivative products such as VS Codium and Cursor – and some developers are crying foul.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/>
 
 ---
 
@@ -30,6 +186,18 @@ date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/04/24/yale_new_haven_health_breach/>
+
+---
+
+## New York Stock Exchange Welcomes NASA’s SPHEREx Team
+
+date: 2025-04-24, from: NASA breaking news
+
+Members of NASA’s recently launched SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission team participated in the New York Stock Exchange’s closing bell ceremony in New York City on April 22. Michael Thelen, SPHEREx flight system manager at NASA’s Jet Propulsion Laboratory in Southern California, is seen here […] 
+
+<br> 
+
+<https://science.nasa.gov/image-article/new-york-stock-exchange-welcomes-nasas-spherex-team/>
 
 ---
 
@@ -107,9 +275,9 @@ date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
 
 ## AI training license will allow LLM builders to pay for content they consume
 
-date: 2025-04-24, updated: 2025-04-24, from: The Register (UK I.T. News)
+date: 2025-04-24, updated: 2025-04-25, from: The Register (UK I.T. News)
 
-<h4>UK org backing it promises &#39;legal certainty&#39; for devs, money for creators... but is it too late?</h4> <p>A UK non-profit is planning to introduce a new licensing model which will allow developers of large language models to use copyrighted training data while paying the publishers it represents.…</p> 
+<h4>UK org backing it promises &#39;legal certainty&#39; for devs, money for creators... but is it too late?</h4> <p><strong>Updated</strong>  A UK non-profit is planning to introduce a new licensing model which will allow developers of large language models to use copyrighted training data while paying the publishers it represents.…</p> 
 
 <br> 
 

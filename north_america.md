@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-04-24 14:07:40
+updated: 2025-04-25 06:08:53
 ---
 
 # north america
 
-(date: 2025-04-24 14:07:40)
+(date: 2025-04-25 06:08:53)
+
+---
+
+## Four Undaunted Individuals
+
+date: 2025-04-25, from: The Contrarian
+
+Heroes propel the virtuous cycle of resistance 
+
+<br> 
+
+<https://contrarian.substack.com/p/four-undaunted-individuals>
+
+---
+
+##  How Art Laffer Created The Cult Of Reaganomics 
+
+date: 2025-04-25, from: The Lever News
+
+ Economist Art Laffer was the intellectual backbone of every Republican tax cuts, including Trump’s. Laffer’s advice: Don’t bother fighting the rich anymore, they’ve already won.  
+
+<br> 
+
+<https://www.levernews.com/how-art-laffer-created-the-cult-of-reaganomics/>
+
+---
+
+##  TAX REVOLT, Part Two:  Supply Side Santa Claus 
+
+date: 2025-04-25, from: The Lever News
+
+ How a small group of economists shaped Reagan’s tax policy and the future of the Republican party.  
+
+<br> 
+
+<https://www.levernews.com/tax-revolt-part-two-supply-side-santa-claus/>
+
+---
+
+## Evening Roundup, April 24
+
+date: 2025-04-24, from: The Contrarian
+
+Norm & Jen's Substack Live about today's breaking legal news; Marvin Kalb; Tim Mak; Shalise Manza Young; Michael Franklin; Azza Cohen; Mary Anne Franks; Nick Anderson; and Tammy Kupperman Thorp 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-24>
+
+---
+
+## Are the courts fed up? Dr. Mary Anne Franks on the legitimacy of the judiciary
+
+date: 2025-04-24, from: The Contrarian
+
+"The point of this executive is to intimidate people. It's to harass people. It's to create a climate of fear" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162050700/cc53d25308f7adce2ecf7f0360805db9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162050700/cc53d25308f7adce2ecf7f0360805db9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/are-the-courts-fed-up-dr-mary-anne>
 
 ---
 
@@ -16,8 +78,8 @@ date: 2025-04-24, from: The Contrarian
 Norm and Jen went live to discuss the flood of legal wins today 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162076476/d0f491565671ddf22edca870f678d934.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/162076476/d0f491565671ddf22edca870f678d934.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162076476/646c41bfb688ccdfd4aac6f0d14e67a7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162076476/646c41bfb688ccdfd4aac6f0d14e67a7.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/breaking-major-legal-wins>
 
@@ -71,7 +133,7 @@ date: 2025-04-24, from: The Lever News
 
 ---
 
-## Where in the World is Tim Mak? Peace talks in Ukraine & Steve Witkoff's ties to Russian Oligarchs 
+## Where in the World is Tim Mak? Peace talks in Ukraine & Steve Witkoff's ties to sanctioned Ukrainian businessman 
 
 date: 2025-04-24, from: The Contrarian
 
