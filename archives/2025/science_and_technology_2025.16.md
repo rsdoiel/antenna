@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-04-26 06:07:08
+updated: 2025-04-26 14:07:39
 ---
 
 # science and technology
 
-(date: 2025-04-26 06:07:08)
+(date: 2025-04-26 14:07:39)
 
 ---
 
@@ -21,7 +21,7 @@ date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
 
 ---
 
-## Lunar Space Station for NASA’s Artemis Campaign to Begin Final Outfitting
+## Lunar Space Station Module for NASA’s Artemis Campaign to Begin Final Outfitting
 
 date: 2025-04-25, from: NASA breaking news
 

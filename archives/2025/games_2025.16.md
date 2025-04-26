@@ -1,11 +1,11 @@
 ---
 title: games
-updated: 2025-04-26 06:07:10
+updated: 2025-04-26 14:07:41
 ---
 
 # games
 
-(date: 2025-04-26 06:07:10)
+(date: 2025-04-26 14:07:41)
 
 ---
 
@@ -35,7 +35,7 @@ The very same day Sunrise on the Reaping, Suzanne Collins’ fifth Hunger Games 
 
 ## How to persuade in Oblivion Remastered
 
-date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+date: 2025-04-25, updated: 2025-04-26, from: Polygon Website
 
 There is a persuasion system in The Elder Scrolls 4: Oblivion Remastered that allows you to charm NPCs into giving you certain bonuses. If you successfully persuade an NPC, they can give you valuable information or discounts while bartering. It’s an important part of the game if you want to get intel and lower the [&#8230;] 
 
