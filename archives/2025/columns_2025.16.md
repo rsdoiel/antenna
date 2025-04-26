@@ -1,11 +1,107 @@
 ---
 title: columns
-updated: 2025-04-25 14:07:35
+updated: 2025-04-26 06:07:09
 ---
 
 # columns
 
-(date: 2025-04-25 14:07:35)
+(date: 2025-04-26 06:07:09)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-25, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/wordlandSupport/issues/76">WordLand v0.5.6</a>: You can customize the menu that pops up when you select text. and we now handle sites with large category lists, the previous limit was 100. 
+
+<br> 
+
+<http://scripting.com/2025/04/25.html#a235638>
+
+---
+
+## Rumor Suggests iPadOS 19 to Get Some Mac-Like Tweaks, Like a Menu Bar
+
+date: 2025-04-25, updated: 2025-04-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://majinbuofficial.com/ipados-19-and-ios-19-new-features/>
+
+---
+
+## Wayne Ma Reports That Political Tensions Are Making It Difficult for Apple to Shift More iPhone Production From China to India
+
+date: 2025-04-25, updated: 2025-04-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/apples-india-manufacturing-push-faces-spoilers-including-china?rc=jfy0lk>
+
+---
+
+## Financial Times Reports That Apple Wants to Produce All U.S. Phones in India by the End of Next Year
+
+date: 2025-04-25, updated: 2025-04-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/c2be45b8-cfad-4cbb-9a1a-bfd0626be372>
+
+---
+
+##  The Courage to Be Decent. &#8220;What matters is that acts we once... 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046717-the-courage-to-be-decent>
+
+---
+
+##  The $20,000 American-made electric pickup with no paint, no stereo, and no... 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046715-the-20000-american-made-e>
+
+---
+
+##  &#8220;If the Trump administration can get away with violating the Constitution because... 
+
+date: 2025-04-25, updated: 2025-04-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046716-if-the-trump-administrati>
+
+---
+
+## Friday Squid Blogging: Squid Facts on Your Phone
+
+date: 2025-04-25, updated: 2025-04-17, from: Bruce Schneier blog
+
+<p>Text &#8220;SQUID&#8221; to 1-833-SCI-TEXT for <a href="https://squidfacts.bigcartel.com/product/girl-talk-squid-preorder">daily squid facts</a>. The website has merch.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-squid-facts-on-your-phone.html>
 
 ---
 
@@ -2256,4 +2352,98 @@ Buddy and I are home together for the first time in a month.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/april-19-2025>
+
+---
+
+## April 18, 2025
+
+date: 2025-04-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161700047/41adbc6e5b511a65761fe4aeb880117f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161700047/41adbc6e5b511a65761fe4aeb880117f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-18-2025-d06>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-19, from: Dave Winer's Scripting News)
+
+I keep coming back to this -- ChatGPT is a vast library that comes with its own librarian. And the librarian has read and digested all of it, and can give you useful and usually exactly right summaries (despite what the critics say) in an instant. I've been using libraries my whole life, going back to when I was a child. I worked with card catalogs and non-virtual book collections. Archives of news on film. View ChatGPT on that timeline and you'll see its significance. You didn't write it, I didn't. Each of us may have contributed a little, and isn't that what we want? To help build the base of human knowledge? It gives our lives meaning. Sometimes I wonder how much value people place on themselves and so little on progress. I think we all want our lives to have meaning. Well here you go, it doesn't get more meaningful than this. 
+
+<br> 
+
+<http://scripting.com/2025/04/19.html#a154848>
+
+---
+
+## N-Up PDF Printing for Prison Mail
+
+date: 2025-04-19, updated: 2025-04-19, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/04/19/prision-mail-part-2-pdfxup/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/08/19/mailman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I got a US Mail notice to answer a Census form, so being a good American I did. It was a <a href="https://respond.census.gov/acs">.gov address</a>, and looked like a government form. The initial questions were standard census questions, then they started getting into personal things that I didn't like answering. Then they <a href="https://imgs.scripting.com/2025/04/19/censusFormPage.png">asked</a> if I was born in the US. That's a really shitty question <a href="https://apnews.com/article/supreme-court-birthright-citizenship-trump-6f0cb929c4604ec1d9bf9fea99765b61"> to ask now</a>. I was glad to see that I could just click Next without answering any question, and they got worse, more invasive, esp considering who the president is, and who he brought with him, so I just closed the page and wrote this post. I would, if I had it to do over again, not answered any of their questions, or maybe stopped at the standard Census questions from years past. 
+
+<br> 
+
+<http://scripting.com/2025/04/19.html#a133649>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-19, from: Dave Winer's Scripting News)
+
+One reason I want to bring blogging and social media together is so I don't have to think about where I will post stuff. This is really important. I want my blog to be a complete record of everything I write publicly. The way our online writing world has been siloized, basically no one has that. We're going to try to fix that, and not with just my software, but by setting some new standards for interop, extensions to RSS, so that there's no exclusivity to making software for writers or publishers. That's what I mean when I say something is "on the web." If your system is not 100% replaceable, today, they you are not on the web and should not claim it. If you're thinking about freedom, btw -- this should be part of your big picture. So many smart people don't want to know how our networks work, and that makes you a victim. And it's not that hard to understand, no matter what people have led you to believe. 
+
+<br> 
+
+<http://scripting.com/2025/04/19.html#a132828>
+
+---
+
+## Humpty Trumpty Sat on a Wall: The Coffee Klatch for Saturday, April 19, 2025
+
+date: 2025-04-19, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161638806/69e98e54867f6ecb01858ae3d99966c6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161638806/69e98e54867f6ecb01858ae3d99966c6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/humpty-trumpty-sat-on-a-wall-the>
+
+---
+
+## April 18, 2025
+
+date: 2025-04-19, from: Heather Cox Richardson blog
+
+Tonight I had the extraordinary privilege of speaking at the anniversary of the lighting of the lanterns in Boston&#8217;s Old North Church, which happened 250 years ago tonight. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-18-2025>
+
+---
+
+## Weeknotes: April 12-18, 2025
+
+date: 2025-04-19, from: Tracy Durnell Blog
+
+Win of the week: finally baked these snickerdoodle blondies 👍 Looking forward to: reading a book this weekend Stuff I did: 9 hours consulting 4.25 hours writing made pancakes for a slow Sunday morning before a big house cleanup 🥞 repotted one of my two surviving indoor plants in a bigger pot because it was looking sad [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/18/weeknotes-april-12-18-2025/>
 

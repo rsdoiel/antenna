@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-04-25 14:07:36
+updated: 2025-04-26 06:07:10
 ---
 
 # games
 
-(date: 2025-04-25 14:07:36)
+(date: 2025-04-26 06:07:10)
+
+---
+
+## Babygirl, No Other Land, Netflix’s Havoc, and every movie new to streaming this weekend
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Havoc, the long-awaited new film from The Raid director Gareth Evans and starring Tom Hardy, bursts its way onto Netflix. There are tons of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/561862/new-movies-watch-streaming-babygirl-no-other-land-havoc-netflix>
+
+---
+
+## Sunrise on the Reaping proves it: The Hunger Games movies perfected the casting formula
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+The very same day Sunrise on the Reaping, Suzanne Collins’ fifth Hunger Games book, was announced, so was a movie adaptation. Lionsgate had previously jumped on announcing the movie version of Collins’ other Hunger Games prequel, The Ballad of Songbirds and Snakes, but the sheer speed on this announcement was even quicker. The movie is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/565534/hunger-games-casting-sunrise-reaping-haymitch>
+
+---
+
+## How to persuade in Oblivion Remastered
+
+date: 2025-04-25, updated: 2025-04-25, from: Polygon Website
+
+There is a persuasion system in The Elder Scrolls 4: Oblivion Remastered that allows you to charm NPCs into giving you certain bonuses. If you successfully persuade an NPC, they can give you valuable information or discounts while bartering. It’s an important part of the game if you want to get intel and lower the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565046/persuade-how-to-persuasion>
 
 ---
 
@@ -942,4 +978,64 @@ Marvel Rivals is doomed to forever be compared to Overwatch. It’s a team-based
 <br> 
 
 <https://www.polygon.com/gaming/557881/marvel-rivals-data-mining-overwatch-code>
+
+---
+
+## This lesser-known Twilight Zone episode was a major inspiration on Ryan Coogler’s Sinners
+
+date: 2025-04-19, updated: 2025-04-19, from: Polygon Website
+
+Ryan Coogler, the Academy Award-nominated director of Creed and Black Panther, hasn’t been shy at all about citing the various inspirations behind his new horror thriller Sinners. In the weeks leading up to the film’s premiere, Coogler has been making the rounds along the press circuit, drumming up excitement and talking at length about the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/561594/sinners-twilight-zone-inspiration-last-rites-of-jeff-myrtlebank>
+
+---
+
+## An animated episode of Doctor Who was a dream come true for its creators
+
+date: 2025-04-19, updated: 2025-04-18, from: Polygon Website
+
+When Polygon had a chance to video-chat with Doctor Who stars Ncuti Gatwa and Varada Sethu in advance of the new season, there was an experience that leapt out as their favorite: filming the animated sequences for this Saturday’s episode. Not recording — filming.&#160; “Shooting the animation was very fun,” Gatwa said, “because it was [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/561655/doctor-who-animated-episode-sequence-how-mr-ring-a-ding>
+
+---
+
+## Remembering the good old days, when game box art lied to us
+
+date: 2025-04-19, updated: 2025-04-18, from: Polygon Website
+
+Go back 30 or 40 years, and video game cover art had some clear issues. It didn’t always follow precise style guides. It was frequently made in a vacuum by someone who had no idea what the game looked like. It relied on limited concept art, data, and technology. And it often sold a fantasy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/558797/video-game-box-art-book-interview>
+
+---
+
+## The best sci-fi movies to watch on Netflix this April
+
+date: 2025-04-19, updated: 2025-04-18, from: Polygon Website
+
+There’s a lot of exciting new releases hitting theaters within the next month. Aside from Sinners, the new horror thriller from Black Panther director Ryan Coogler and starring Michael B. Jordan, we’ve got The Legend of Ochi, David Cronenberg’s The Shrouds, Thunderbolts*, and more. But if you’re looking for some great sci-fi to watch from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/561061/best-sci-fi-movies-watch-netflix-april-2025>
+
+---
+
+## Star Wars Zero Company, a turn-based game at the end of the Clone Wars, gets full reveal
+
+date: 2025-04-19, updated: 2025-04-19, from: Polygon Website
+
+Star Wars Zero Company, which one might colloquially refer to as “the XCOM Star Wars game,” got a full reveal today at a panel at Star Wars Celebration Japan. As for why one might refer to the game in that way, it’s because Greg Foertsch — the CEO and Creative Director of Bit Reactor, which [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/560074/star-wars-zero-company-xcom-game-reveal>
 

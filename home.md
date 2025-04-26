@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-04-25 14:07:38
+updated: 2025-04-26 06:07:12
 ---
 
 # home
 
-(date: 2025-04-25 14:07:38)
+(date: 2025-04-26 06:07:12)
 
 ---
 
@@ -113,6 +113,18 @@ In an increasingly extreme climate reality, man-made environments that simulate 
 
 ---
 
+## It’s Peak Strawberry Season—Here’s How to Make the Most of It
+
+date: 2025-04-25, from: Sunset Magazine - Living in the West
+
+While you can get strawberries year-round, the best time to enjoy the fruit is spring and summer. Try these strawberry recipes this season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/strawberry-recipes>
+
+---
+
 ## Homepage 2025
 
 date: 2025-04-25, from: Sunset Magazine - Living in the West
@@ -158,18 +170,6 @@ Parachute is beloved for its high-quality, luxe bedding and linens. Now, the bra
 <br> 
 
 <https://www.sunset.com/home-garden/design/parachute-target-collection>
-
----
-
-## It’s Peak Strawberry Season—Here’s How to Make the Most of It
-
-date: 2025-04-25, from: Sunset Magazine - Living in the West
-
-While you can get strawberries year-round, the best time to enjoy the fruit is spring and summer. Try these strawberry recipes this season. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/strawberry-recipes>
 
 ---
 
@@ -1202,4 +1202,73 @@ date: 2025-04-20, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/60-animals-that-start-with-n-with-pictures-and-names/>
+
+---
+
+## 21 Veggie-Forward Lunches You’ll Actually Look Forward to Eating Every Day
+
+date: 2025-04-19, from: Sunset Magazine - Living in the West
+
+Lunches don't have to be boring. Make these hearty and filling vegetarian lunches for workday lunches and beyond. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/vegetarian-lunches>
+
+---
+
+## 7 Reasons Why Impatiens Fail to Bloom
+
+date: 2025-04-19, from: The Gardener's Path
+
+<p>Impatiens are appreciated for their ability to add reliable color to shady areas in the garden. But when they fail to bloom, it can be disappointing. There are a variety of reasons why this might happen. Learn about 7 common reasons why impatiens may fail to bloom and what you can do about it in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/impatiens-not-blooming/">7 Reasons Why Impatiens Fail to Bloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/impatiens-not-blooming/>
+
+---
+
+## Smart planting of avocado trees where soil is heavy and rainfall is high
+
+date: 2025-04-19, from: Greg Alder's blog, Yard Post
+
+<p>You can get lucky and plant an avocado tree in your yard and find success on your first try. But for many people, myself included, it takes killing a few trees to learn how to grow an avocado successfully in a particular situation. One situation that many people find themselves in is a yard with [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/smart-planting-of-avocado-trees-where-soil-is-heavy-and-rainfall-is-high/">Smart planting of avocado trees where soil is heavy and rainfall is high</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/smart-planting-of-avocado-trees-where-soil-is-heavy-and-rainfall-is-high/>
+
+---
+
+## 70 Common Types of Sharks (With Pictures and Names)
+
+date: 2025-04-19, from: Yard Life blog
+
+<p>Sharks are some of the most fascinating and diverse creatures in the ocean, with over 500 species identified worldwide. Among ... </p>
+<p class="read-more-container"><a title="70 Common Types of Sharks (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/#more-27270" aria-label="Read more about 70 Common Types of Sharks (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/">70 Common Types of Sharks (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/>
+
+---
+
+## Avocado tree clones itself
+
+date: 2025-04-19, from: Greg Alder's blog, Yard Post
+
+<p>Unlike many other fruit trees, avocados are hard to root. Rooting is where you cut a branch off a tree and stick it partly in the ground or a container so that the cut branch will form roots where it is buried. It&#8217;s a way of copying, or cloning, a tree. Try this with a [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/avocado-tree-clones-itself/">Avocado tree clones itself</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/avocado-tree-clones-itself/>
 

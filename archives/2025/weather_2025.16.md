@@ -1,23 +1,11 @@
 ---
 title: weather
-updated: 2025-04-25 14:07:35
+updated: 2025-04-26 06:07:09
 ---
 
 # weather
 
-(date: 2025-04-25 14:07:35)
-
----
-
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
-
-date: 2025-04-25, from: Eastern Pacific Basin GIS Data
-
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/>
+(date: 2025-04-26 06:07:09)
 
 ---
 
@@ -830,179 +818,6 @@ stronger storms for a few hours this afternoon.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Apr 25, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-04-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0730 AM CDT Fri Apr 25 2025
-
-Valid 251300Z - 261200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
-FAR EASTERN NM...THE TX PANHANDLE...WEST TEXAS AND SOUTHWEST OK...
-
-...SUMMARY...
-A concentrated area of severe thunderstorms is forecast over the
-Texas South Plains and vicinity during the late afternoon and
-evening. Large hail and localized wind damage appears likely.
-
-...Synopsis...
-Recent satellite imagery shows a cyclone west off the central West
-Coast, with a shortwave trough progressing through its base into
-southern CA. Upper ridging exists downstream from the southern
-Plains through the northern Rockies while a low-amplitude shortwave
-trough moves into the Lower OH Valley. A convectively enhanced
-shortwave trough is also moving through the Lower MS Valley.
-
-The southern CA shortwave is forecast to continue rotating around
-the cyclone off the West Coast, moving through the Great Basin this
-afternoon. The downstream ridging will shift eastward and build into
-the Plains in response, while both the Lower OH Valley and Lower MS
-Valley shortwaves progress eastward. Thunderstorm development is
-anticipated across much of the OH and TN Valley as well as the Lower
-MS Valley and Southeast ahead of these waves.
-
-Early morning surface analysis places a low over in the TX/OK/NM
-border intersection vicinity, with a dryline extending
-west-southwestward across far southeast NM and far west TX. A cold
-front also extends northeastward from this low to another low near
-the MO/IL/IA border intersection. Strong to severe thunderstorms are
-anticipated along the dryline across the TX Panhandle and West TX
-this afternoon and evening.
-
-...Far Eastern NM...TX Panhandle...West TX...
-Recent surface observations already show dewpoints in the 60s across
-much of far eastern NM, West TX and the TX Panhandle. Strong heating
-is anticipated within this corridor today, to the south of a
-slow-moving cold front and to the west of outflow from Thursday
-night's thunderstorms. Upper ridging is expected to build across the
-region, negating any large-scale ascent and placing the primary
-impetus for convective initiation along the cold front, dryline, and
-outflow boundary. Even so, convergence along this boundaries,
-particularly the dryline and outflow should be enough for convective
-initiation within the uncapped airmass. 
-
-Mid-level flow may be a bit weaker than yesterday, but low-level
-southeasterlies veering to southwesterly aloft should still result
-in enough shear for updraft organization and supercells. Large to
-very large hail will be the primary risk, but some localized tornado
-threat could develop, particularly if a coherent outflow boundary
-remains in place. Storm motion will be slow while storms are
-discrete, but one or more forward-progressing clusters may evolve
-over time, bringing the potential for strong gusts into northwest TX
-and southwest OK.
-
-...Lower MS Valley/Southeast into TN and OH Valley...
-Widespread thunderstorm development is anticipated this afternoon as
-the pair of shortwave troughs mentioned in the synopsis interact
-with the moist and modestly buoyant airmass over the region.
-Vertical shear will be weak, and a predominantly multicellular storm
-mode is expected. This should limit the overall severe potential,
-but a few damaging gusts are still possible.
-
-..Mosier/Broyles.. 04/25/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No watches are valid as of Fri Apr 25 12:35:01 UTC 2025
-
-date: 2025-04-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Apr 25 12:35:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Apr 25 12:35:01 UTC 2025
-
-date: 2025-04-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Apr 25 12:35:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Apr 25, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-04-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0354 AM CDT Fri Apr 25 2025
-
-Valid 281200Z - 031200Z
-
-...DISCUSSION...
-...Day 4/Mon - Southern Plains to Upper Midwest...
-A strong mid-level jet streak will move rapidly northeastward from
-the Southwest to the Upper Midwest on Monday. As this occurs, a
-surface low will deepen and move from the northern Plains to the
-northern Great Lakes. Strong southwesterly lower tropospheric flow
-will advect high theta-e air northward across the Midwest and into
-parts of the Upper Midwest. Broken to scattered cloudcover will
-support surface heating and strong destabilization across the warm
-sector from southeast Minnesota and western Wisconsin to the
-southern Plains. Isolated to scattered supercells are likely along
-the dryline which will extend from the southern Plains and into
-Kansas. 
-
-The greatest focus for severe weather on Monday will be from eastern
-Kansas into northern Missouri, much of Iowa and into southern
-Minnesota and western Wisconsin. Moderate to strong instability,
-strong shear, and increasing forcing for ascent supports the
-potential for numerous rounds of severe thunderstorms. The wind
-profile supports supercells capable of all severe weather hazards
-including the potential for strong tornadoes. 
-
-...Day 5/Tue - Southern Plains to parts of the Northeast...
-The surface low associated with the Day 4 threat will continue
-northeast and bring its associated cold front eastward across the
-Midwest and Great Lakes through the day Tuesday. Moderate to strong
-instability is forecast south of this front from northern New York
-to the Ohio Valley. Much of the frontal zone should have sufficient
-shear to support multiple storm clusters and the potential for a few
-supercells. 
-
-Day 6/Wed-Day8/Fri - Portions of the Mid-Mississippi Valley into the
-Southeast...
-A weaker mid-level shortwave trough is consistently depicted by
-extended range guidance by the middle of next week across the
-southern Plains. However, significant uncertainty remains about the
-strength of this trough and location of any frontal zones. In
-addition, convection across the southern Plains each day of the
-extended range forecast could significantly impact destabilization
-by Day 6-8. Therefore, confidence is not high enough to add
-probabilities at this time, but they may eventually be needed
-somewhere across the Southeast/Mid Mississippi Valley.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -2403,4 +2218,156 @@ storm motion vector 23040.
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ww0154.html>
+
+---
+
+## SPC MD 484
+
+date: 2025-04-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0484.html"><img src="https://www.spc.noaa.gov/products/md/mcd0484.png" border="1" alt="MD 0484 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0484
+NWS Storm Prediction Center Norman OK
+0225 PM CDT Sat Apr 19 2025
+
+Areas affected...parts of southern Indiana...northern Kentucky...and
+southwestern Ohio
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 191925Z - 192130Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...A few stronger storms -- capable producing strong wind
+gusts and small hail -- will be possible this afternoon.  WW
+issuance is not anticipated at this time.
+
+DISCUSSION...Latest satellite imagery shows that filtered sunshine
+-- and associated afternoon heating -- has occurred over the last
+couple of hours, but with an increase in cu/cb at this time --
+particularly over southern Indiana.  On the western fringe of the
+cumuliform cloudiness, radar indicates increasing deep convection
+(over far southwestern Indiana) near the cold front, with some
+lightning now indicated.
+
+RAP-based objective analysis shows -- aided by the aforementioned
+heating -- that mixed-layer CAPE has increased to near/just above
+500 J/kg, and with a bit of additional heating destabilization
+possible, some increase in convective intensity is expected over the
+next couple of hours.
+
+With low-level flow weakly veering, and increasing to 50 kt between
+2km and 3km AGL, and in excess of 70 kt at mid levels, shear is
+plenty sufficient to aid in convective organization, and associated
+potential for strong wind gusts locally.  Though coverage of any
+severe-weather reports would likely remain sparse, thus negating any
+current consideration for WW issuance, we will continue to monitor
+environmental evolution across the area.
+
+..Goss/Mosier.. 04/19/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...JKL...ILN...LMK...IND...PAH...
+
+LAT...LON   37898660 37938741 38488714 39268587 39918382 39418305
+            38518373 38328457 37898660 
+
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...UP TO 1.25 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0484.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0484.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 147 Status Reports
+
+date: 2025-04-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0147.html"><img src="https://www.spc.noaa.gov/products/watch/ww0147_radar.gif" border="1" alt="WW 0147 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0147 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0147.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0147.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 147
+
+date: 2025-04-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0147.html"><img src="https://www.spc.noaa.gov/products/watch/ww0147_radar.gif" border="1" alt="WW 0147 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 147
+NWS Storm Prediction Center Norman OK
+220 PM CDT Sat Apr 19 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Northwest and Southwest Texas
+
+* Effective this Saturday afternoon and evening from 220 PM until
+  1000 PM CDT.
+
+* Primary threats include...
+  Scattered large hail and isolated very large hail events to 3
+    inches in diameter likely
+  Scattered damaging wind gusts to 70 mph likely
+  A tornado or two possible
+
+SUMMARY...Thunderstorm coverage is expected to increase in the
+vicinity of stationary boundary extended across the region.
+Environmental conditions support discrete supercells capable of all
+severe hazards, including very large hail up to 3 to 3.5". Several
+strong gusts are possible as well. Any supercells that persist
+within the warm sector could produce a tornado or two, but the
+overall tornado potential is expected to remain low through the
+afternoon.
+
+The severe thunderstorm watch area is approximately along and 80
+statute miles east and west of a line from 65 miles east of Dryden
+TX to 85 miles north northwest of Mineral Wells TX. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+3 inches. Extreme turbulence and surface wind gusts to 60 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+24035.
+
+...Mosier
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0147.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0147.html>
 

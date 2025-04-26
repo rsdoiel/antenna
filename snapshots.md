@@ -1,11 +1,48 @@
 ---
 title: snapshots
-updated: 2025-04-25 14:07:42
+updated: 2025-04-26 06:07:15
 ---
 
 # snapshots
 
-(date: 2025-04-25 14:07:42)
+(date: 2025-04-26 06:07:15)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-25, from: Feed for Alt USDS)
+
+Crisis fatigue is real. I'm taking the weekend off for some self care. 
+
+But don't worry, my buddy @alt-doge.bsky.social is ready to fill in. Fresh off some close encounters of the DOGE kind, they got you!
+
+And don't forget the #altgov #altfam too! 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnogca36ik2u>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-04-25, from: Tomosino's Mastodon feed)
+
+<p><a href="https://a.co/d/hPQ7ooJ" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">a.co/d/hPQ7ooJ</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114401138117394133>
+
+---
+
+## Charisse Iglesias: Community Engagement Beyond Academia
+
+date: 2025-04-25, from: Digital Humanities Quarterly News
+
+This is the second post of our Let’s Talk Academia, Industry, and Career Transitions. In this special edition of the DRC Talk Series, we chat with professionals in Rhetoric and Composition or Technical and Professional Communication who have successfully transitioned beyond academia. Our goal is to learn from their experiences and gather practical advice and [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/04/25/charisse-iglesias-community-engagement-beyond-academia/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/04/25/charisse-iglesias-community-engagement-beyond-academia/>
 
 ---
 
@@ -2979,4 +3016,432 @@ Last month I had the chance to travel to two places I previously lived. In early
 <br> 
 
 <https://kwon.nyc/notes/past-selves/>
+
+---
+
+## Maybe Meta's Llama claims to be open source because of the EU AI act
+
+date: 2025-04-19, updated: 2025-04-19, from: Simon Willison’s Weblog
+
+<p>I encountered a theory a while ago that one of the reasons Meta insist on using the term “open source” for their Llama models despite the Llama license <a href="https://opensource.org/blog/metas-llama-license-is-still-not-open-source">not actually conforming</a> to the terms of the <a href="https://opensource.org/osd">Open Source Definition</a> is that the EU’s AI act includes special rules for open source models without requiring OSI compliance.</p>
+<p>Since the EU AI act (12 July 2024) is <a href="https://artificialintelligenceact.eu/the-act/">available online</a> I decided to take a look for myself.</p>
+<p>Here’s <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689">one giant HTML page</a> containing the full text of the act in English. I checked the token count with <a href="https://github.com/simonw/ttok">ttok</a> (which uses the OpenAI tokenizer, but it’s close enough to work as a good estimate for other models):</p>
+<div class="highlight highlight-source-shell"><pre>curl <span class="pl-s"><span class="pl-pds">'</span>https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689<span class="pl-pds">'</span></span> <span class="pl-k">|</span> ttok</pre></div>
+<p>241,722 tokens. That should fit nicely into <a href="https://simonwillison.net/2025/Apr/17/start-building-with-gemini-25-flash/">Gemini 2.5 Flash</a> (or GPT-4.1 or Gemini 2.5 Pro).</p>
+<p>My Gemini API key was playing up so I ran it via <a href="https://openrouter.ai/">OpenRouter</a> (and <a href="https://github.com/simonw/llm-openrouter">llm-openrouter</a>) instead:</p>
+<div class="highlight highlight-source-shell"><pre>llm -f <span class="pl-s"><span class="pl-pds">'</span>https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689<span class="pl-pds">'</span></span> \
+  -m openrouter/google/gemini-2.5-flash-preview:thinking \
+  -s <span class="pl-s"><span class="pl-pds">'</span>Summary of mentions of open source here, including what the document defines open source to mean<span class="pl-pds">'</span></span></pre></div>
+<p>Here's <a href="https://gist.github.com/simonw/f2e341a2e8ea9ca75c6426fa85bc2dfc">the full answer</a>. Relevant extract:</p>
+<blockquote>
+<ul>
+<li>Recital (89) states that third parties making accessible "tools, services, processes, or AI components other than general-purpose AI models" under a <strong>free and open-source licence</strong> should not be mandated to comply with upstream provider responsibilities towards those who integrate them. It also encourages developers of such resources to implement documentation practices like model cards and data sheets to promote trustworthy AI.</li>
+<li>Recital (102) acknowledges that software and data, including models, released under a <strong>free and open-source licence</strong> can contribute to research and innovation and provide growth opportunities.</li>
+</ul>
+</blockquote>
+<p>I tracked down <a href="https://artificialintelligenceact.eu/recital/89/">Recital 89</a> and <a href="https://artificialintelligenceact.eu/recital/102/">Recital 102</a> to check. Sure enough, 89 says:</p>
+<blockquote>
+<p>Third parties making accessible to the public tools, services, processes, or AI components other than general-purpose AI models, should not be mandated to comply with requirements targeting the responsibilities along the AI value chain</p>
+</blockquote>
+<p>And in 102:</p>
+<blockquote>
+<p>General-purpose AI models released under free and open-source licences should be considered to ensure high levels of transparency and openness if their parameters, including the weights, the information on the model architecture, and the information on model usage are made publicly available. The licence should be considered to be free and open-source also when it allows users to run, copy, distribute, study, change and improve software and data, including models under the condition that the original provider of the model is credited, the identical or comparable terms of distribution are respected.</p>
+</blockquote>
+<p>Gemini 2.5 Flash also pointed me to <a href="https://artificialintelligenceact.eu/article/2/">Article 2(12)</a>, which reads:</p>
+<blockquote>
+<p>12. This Regulation does not apply to AI systems released under free and open-source licences, unless they are placed on the market or put into service as high-risk AI systems or as an AI system that falls under <a href="https://artificialintelligenceact.eu/article/5">Article 5</a> or <a href="https://artificialintelligenceact.eu/article/50/">50</a>.</p>
+</blockquote>
+<p>I asked a follow-up question:</p>
+<div class="highlight highlight-source-shell"><pre>llm -c <span class="pl-s"><span class="pl-pds">'</span>so it says specific licenses but does it clarify which specific licenses count?<span class="pl-pds">'</span></span></pre></div>
+<p>And got <a href="https://gist.github.com/simonw/f2e341a2e8ea9ca75c6426fa85bc2dfc#response-1">back this response</a>:</p>
+<blockquote>
+<p>No, the document <strong>does not list specific names of licenses</strong> that qualify as "free and open-source".</p>
+<p>Instead of listing names (like GPL, MIT, Apache, etc.), the Regulation defines what kind of terms a license must grant for it to be considered "free and open-source" for the purposes of the Regulation.</p>
+<p>According to Recital (102), such a license must essentially allow software and data, including models, to be:</p>
+<ul>
+<li><strong>Openly shared.</strong></li>
+<li>Where users can <strong>freely access, use, modify and redistribute</strong> them or modified versions thereof.</li>
+</ul>
+<p>The Recital further clarifies that a license can still be considered free and open-source even if it includes standard conditions like requiring <strong>attribution (crediting the original provider)</strong> or respecting <strong>identical or comparable terms of distribution</strong>.</p>
+</blockquote>
+<p>I am very obviously not a lawyer, but based on the above I do find the theory credible that Meta are using "open source" in their marketing around Llama partly because the EU AI act has special exemptions for "open source" models that have nothing to do with the OSI definition of that term.</p>
+<p>Total cost to use Gemini 2.5 Flash for this? 5.1 cents for my first question and 4.3 cents for the follow-up. That second question was cheaper even though it built on the first because output tokens are more expensive than input tokens and the second answer was shorter than the first - using the "thinking" model output is charged at $3.50/million tokens, input is just $0.15/million.</p>
+<p>Using an LLM as a lawyer is obviously a terrible idea, but using one to crunch through a giant legal document and form a very rough layman's understanding of what it says feels perfectly cromulent to me.</p>
+
+<p><strong>Update:</strong> Steve O'Grady <a href="https://bsky.app/profile/sogrady.org/post/3ln7ipdbaek2s">points out</a> that Meta/Facebook have been abusing the term "open source" for a lot longer than the EU AI act has been around - they were pulling shenanigans with a custom license for React <a href="https://redmonk.com/sogrady/2017/09/26/facebooks-bsd-patents/">back in 2017</a>.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/#atom-everything>
+
+---
+
+## Claude Code: Best practices for agentic coding
+
+date: 2025-04-19, updated: 2025-04-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/engineering/claude-code-best-practices">Claude Code: Best practices for agentic coding</a></strong></p>
+Extensive new documentation from Anthropic on how to get the best results out of their <a href="https://github.com/anthropics/claude-code">Claude Code</a> CLI coding agent tool, which includes this fascinating tip:</p>
+<blockquote>
+<p>We recommend using the word "think" to trigger extended thinking mode, which gives Claude additional computation time to evaluate alternatives more thoroughly. These specific phrases are mapped directly to increasing levels of thinking budget in the system: "think" &lt; "think hard" &lt; "think harder" &lt; "ultrathink." Each level allocates progressively more thinking budget for Claude to use.</p>
+</blockquote>
+<p>Apparently <strong>ultrathink</strong> is a magic word!</p>
+<p>I was curious if this was a feature of the Claude model itself or Claude Code in particular. Claude Code isn't open source but you can view the obfuscated JavaScript for it, and make it a tiny bit less obfuscated by running it through <a href="https://prettier.io/">Prettier</a>. With <a href="https://claude.ai/share/77c398ec-6a8b-4390-91d3-6e9f0403916e">Claude's help</a> I used this recipe:</p>
+<pre><code>mkdir -p /tmp/claude-code-examine
+cd /tmp/claude-code-examine
+npm init -y
+npm install @anthropic-ai/claude-code
+cd node_modules/@anthropic-ai/claude-code
+npx prettier --write cli.js
+</code></pre>
+<p>Then used <a href="https://github.com/BurntSushi/ripgrep">ripgrep</a> to search for "ultrathink":</p>
+<pre><code>rg ultrathink -C 30
+</code></pre>
+<p>And found this chunk of code:</p>
+<pre><span class="pl-k">let</span> <span class="pl-v">B</span> <span class="pl-c1">=</span> <span class="pl-v">W</span><span class="pl-kos">.</span><span class="pl-c1">message</span><span class="pl-kos">.</span><span class="pl-c1">content</span><span class="pl-kos">.</span><span class="pl-en">toLowerCase</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-k">if</span> <span class="pl-kos">(</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think harder"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think intensely"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think longer"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think really hard"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think super hard"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think very hard"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"ultrathink"</span><span class="pl-kos">)</span>
+<span class="pl-kos">)</span>
+  <span class="pl-k">return</span> <span class="pl-kos">(</span>
+    <span class="pl-en">l1</span><span class="pl-kos">(</span><span class="pl-s">"tengu_thinking"</span><span class="pl-kos">,</span> <span class="pl-kos">{</span> <span class="pl-c1">tokenCount</span>: <span class="pl-c1">31999</span><span class="pl-kos">,</span> <span class="pl-c1">messageId</span>: <span class="pl-v">Z</span><span class="pl-kos">,</span> <span class="pl-c1">provider</span>: <span class="pl-v">G</span> <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">,</span>
+    <span class="pl-c1">31999</span>
+  <span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-k">if</span> <span class="pl-kos">(</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think about it"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think a lot"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think deeply"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think hard"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think more"</span><span class="pl-kos">)</span> <span class="pl-c1">||</span>
+  <span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"megathink"</span><span class="pl-kos">)</span>
+<span class="pl-kos">)</span>
+  <span class="pl-k">return</span> <span class="pl-kos">(</span>
+    <span class="pl-en">l1</span><span class="pl-kos">(</span><span class="pl-s">"tengu_thinking"</span><span class="pl-kos">,</span> <span class="pl-kos">{</span> <span class="pl-c1">tokenCount</span>: <span class="pl-c1">1e4</span><span class="pl-kos">,</span> <span class="pl-c1">messageId</span>: <span class="pl-v">Z</span><span class="pl-kos">,</span> <span class="pl-c1">provider</span>: <span class="pl-v">G</span> <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">,</span> <span class="pl-c1">1e4</span>
+  <span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-k">if</span> <span class="pl-kos">(</span><span class="pl-v">B</span><span class="pl-kos">.</span><span class="pl-en">includes</span><span class="pl-kos">(</span><span class="pl-s">"think"</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+  <span class="pl-k">return</span> <span class="pl-kos">(</span>
+    <span class="pl-en">l1</span><span class="pl-kos">(</span><span class="pl-s">"tengu_thinking"</span><span class="pl-kos">,</span> <span class="pl-kos">{</span> <span class="pl-c1">tokenCount</span>: <span class="pl-c1">4000</span><span class="pl-kos">,</span> <span class="pl-c1">messageId</span>: <span class="pl-v">Z</span><span class="pl-kos">,</span> <span class="pl-c1">provider</span>: <span class="pl-v">G</span> <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">,</span>
+    <span class="pl-c1">4000</span>
+  <span class="pl-kos">)</span><span class="pl-kos">;</span></pre>
+
+<p>So yeah, it looks like "ultrathink" is a Claude Code feature - presumably that 31999 is a number that affects the token <a href="https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking#implementing-extended-thinking">thinking budget</a>, especially since "megathink" maps to 1e4 tokens (10,000) and just plain "think" maps to 4,000.
+
+    <p><small></small>Via <a href="https://twitter.com/HamelHusain/status/1913702157108592719">@HamelHusain</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/19/claude-code-best-practices/#atom-everything>
+
+---
+
+## The wonderful world of Linux package managers
+
+date: 2025-04-19, from: Libre News
+
+One of the strongest points of Linux is the package management. In 2025, the world of Linux package management is very varied, with several options available, each with their advantages and trade-offs over the others. 
+
+<br> 
+
+<https://thelibre.news/the-wonderful-world-of-linux-package-managers/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+Three former U.S. presidents denounce Trump in a two-week stretch. 
+
+<br> 
+
+<https://www.washingtonpost.com/politics/2025/04/19/trump-presidency-obama-biden-clinton/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+DOGE Is Building a Master Database to Surveil and Track (everyone, not just) Immigrants. 
+
+<br> 
+
+<https://www.wired.com/story/doge-collecting-immigrant-data-surveil-track/>
+
+---
+
+## Gemma 3 QAT Models
+
+date: 2025-04-19, updated: 2025-04-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/">Gemma 3 QAT Models</a></strong></p>
+Interesting release from Google, as a follow-up <a href="https://simonwillison.net/2025/Mar/12/gemma-3/">to Gemma 3</a> from last month:</p>
+<blockquote>
+<p>To make Gemma 3 even more accessible, we are announcing new versions optimized with Quantization-Aware Training (QAT) that dramatically reduces memory requirements while maintaining high quality. This enables you to run powerful models like Gemma 3 27B locally on consumer-grade GPUs like the NVIDIA RTX 3090.</p>
+</blockquote>
+<p>I wasn't previously aware of Quantization-Aware Training but it turns out to be quite an established pattern now, supported in both <a href="https://www.tensorflow.org/model_optimization/guide/quantization/training">Tensorflow</a> and <a href="https://pytorch.org/blog/quantization-aware-training/">PyTorch</a>.</p>
+<p>Google report model size drops from BF16 to int4 for the following models:</p>
+<ul>
+<li>Gemma 3 27B: 54GB to 14.1GB</li>
+<li>Gemma 3 12B: 24GB to 6.6GB</li>
+<li>Gemma 3 4B: 8GB to 2.6GB</li>
+<li>Gemma 3 1B: 2GB to 0.5GB</li>
+</ul>
+<p>They partnered with Ollama, LM Studio, MLX (here's <a href="https://huggingface.co/collections/mlx-community/gemma-3-qat-68002674cd5afc6f9022a0ae">their collection</a>) and llama.cpp for this release - I'd love to see more AI labs following their example.</p>
+<p>The Ollama model version picker currently hides them behind "View all" option, so here are the direct links:</p>
+<ul>
+<li><a href="https://ollama.com/library/gemma3:1b-it-qat">gemma3:1b-it-qat</a> - 1GB</li>
+<li><a href="https://ollama.com/library/gemma3:4b-it-qat">gemma3:4b-it-qat</a> - 4GB</li>
+<li><a href="https://ollama.com/library/gemma3:12b-it-qat">gemma3:12b-it-qat</a> - 8.9GB</li>
+<li><a href="https://ollama.com/library/gemma3:27b-it-qat">gemma3:27b-it-qat</a> - 18GB</li>
+</ul>
+<p>I fetched that largest model with:</p>
+<pre><code>ollama pull gemma3:27b-it-qat
+</code></pre>
+<p>And now I'm trying it out with <a href="https://github.com/taketwo/llm-ollama">llm-ollama</a>:</p>
+<pre><code>llm -m gemma3:27b-it-qat "impress me with some physics"
+</code></pre>
+<p>I got <a href="https://gist.github.com/simonw/5b699ba6b7c05e2d071910e238823ff4">a pretty great response</a>!</p>
+<p><strong>Update</strong>: Having spent a while putting it through its paces via <a href="https://simonwillison.net/2024/Dec/27/open-webui/">Open WebUI</a> and <a href="https://tailscale.com/">Tailscale</a> to access my laptop from my phone I think this may be my new favorite general-purpose local model. Ollama appears to use 22GB of RAM while the model is running, which leaves plenty on my 64GB machine for other applications.</p>
+<p>I've also tried it via <a href="https://github.com/simonw/llm-mlx">llm-mlx</a> like this (downloading 16GB):</p>
+<pre><code>llm install llm-mlx
+llm mlx download-model mlx-community/gemma-3-27b-it-qat-4bit
+llm chat -m mlx-community/gemma-3-27b-it-qat-4bit
+</code></pre>
+<p>It feels a little faster with MLX and uses 15GB of memory according to Activity Monitor.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/tailscale">tailscale</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/19/gemma-3-qat-models/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+&#39;The Speed Project&#39;: A race that runs from rules. 
+
+<br> 
+
+<https://wapo.st/3Ev0JGI>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+The Next Terrorist Attack by Timothy Snyder. 
+
+<br> 
+
+<https://snyder.substack.com/p/the-next-terrorist-attack?publication_id=310897&post_id=161024440&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## ICE Plans Central Database of Health, Labor, Housing Agency Data to Find Targets
+
+date: 2025-04-19, from: 404 Media Group
+
+A document viewed by 404 Media describes ICE's plans to incorporate data from the Department of Labor (DOL), Health and Human Services (HHS), and the Department of Housing and Urban Development (HUD) into a tool called ATrac. 
+
+<br> 
+
+<https://www.404media.co/ice-plans-central-database-of-health-labor-housing-agency-data-to-find-targets/>
+
+---
+
+## N-Up PDF Printing for Prison Mail
+
+date: 2025-04-19, updated: 2025-04-19, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/04/19/prision-mail-part-2-pdfxup/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+Mazda EZ-60 interior revealed ahead of launch. It looks like a Tesla. 
+
+<br> 
+
+<https://electrek.co/2025/04/19/this-is-it-mazda-ez-60-crossover-interior-revealed-ahead-of-global-launch-video/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+Supreme Court keeps hold on Trump’s restrictions on birthright citizenship but sets May arguments. 
+
+<br> 
+
+<https://apnews.com/article/supreme-court-birthright-citizenship-trump-6f0cb929c4604ec1d9bf9fea99765b61>
+
+---
+
+## Behold, a Genuinely Promising Sign of Alien Life
+
+date: 2025-04-19, from: 404 Media Group
+
+One of the most compelling cases for extraterrestrial life has been found on K2-18b, a planet 124 light years from Earth. 
+
+<br> 
+
+<https://www.404media.co/behold-a-genuinely-promising-sign-of-alien-life/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+ChatGPT is the best research tool ever invented by our species. But you&#39;ll never read about that in a journalist&#39;s report on the technology. Instead, they&#39;re obsessed with how kids can use it to cheat on their homework. Not much creativity in evidence there, ironically. 
+
+<br> 
+
+<https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+US philanthropists warn against capitulating to Trump: ‘We need to step up.’ 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/apr/19/philanthropy-foundations-trump-resistance>
+
+---
+
+## Nathan Tankus, Part II
+
+date: 2025-04-19, from: Paul Krugman
+
+Liquidity, volatility and market craziness 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/nathan-tankus-part-ii>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+The New America: Federal (ICE) Agents Boarding Trains. 
+
+<br> 
+
+<https://weknowwhatsup.blogspot.com/2025/04/the-new-america-federal-ice-agents.html?m=1>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+NBA playoffs 2025 predictions: the winner, key players and dark horses. 
+
+<br> 
+
+<https://sports.yahoo.com/article/nba-playoffs-2025-predictions-winner-073032808.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+Supreme Court temporarily blocks deportations of Venezuelans held in northern Texas. 
+
+<br> 
+
+<https://apnews.com/article/aclu-trump-deport-venezuelans-supreme-court-5d85ffec44fca7c267315b34cec9ddb2>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+Trump Officials Blame Mistake for Setting Off Confrontation With Harvard. (Must read.) 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/18/business/trump-harvard-letter-mistake.html?unlocked_article_code=1.A08.boHh.sjMVwQDudoqM&smid=url-share>
+
+---
+
+## Killer Klown Khaos
+
+date: 2025-04-19, from: Paul Krugman
+
+More adventures in policymaking 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/killer-klown-khaos>
+
+---
+
+## Science Notes / Reptends and Reciprocals
+
+date: 2025-04-19, from: Greg Egan's feed
+
+The page "Science Notes / Reptends and Reciprocals" has been updated 
+
+<br> 
+
+<https://www.gregegan.net/SCIENCE/Reptends/Reptends.html>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-19, from: Feed for Alt USDS)
+
+Maybe you saw that the US is now saying covid was a lab leak. Check out this great fact check by our friends at @altcdc.altgov.info
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ln527emp6c2n>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-19, from: Feed for Alt USDS)
+
+Today's newsletter is live. Check it out:
+
+🔗 https://open.substack.com/pub/altusds/p/be-a-greg-not-a-dudek?r=5fies6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+#BeABuilder #AltGov #AltUSDS #AltDOGE 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ln4vtsmquc23>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-19, from: Dave Winer's linkblog)
+
+If the students can’t come to Harvard, perhaps Harvard can go to them. Open pop up campuses around the world, until Trump is gone. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/04/noem-trump-harvard-international-students-ban/>
+
+---
+
+## Inner Loop Agents
+
+date: 2025-04-19, updated: 2025-04-19, from: Tom Kellog blog
+
+What if an LLM could use tools directly? In this post I discuss a potentially
+divergent view of agents, where agents are less like systems and more like LLMs
+specially trained to solve problems with a specific set of tools. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/04/19/inner-loops>
 

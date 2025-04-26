@@ -1,11 +1,51 @@
 ---
 title: food
-updated: 2025-04-25 14:07:40
+updated: 2025-04-26 06:07:13
 ---
 
 # food
 
-(date: 2025-04-25 14:07:40)
+(date: 2025-04-26 06:07:13)
+
+---
+
+## Strata Pan Review: It Combines Two of Our Favorite Pieces of Cookware
+
+date: 2025-04-25, from: Bon Appetet
+
+And it might just be better than a carbon steel pan or a clad stainless steel skillet. 
+
+<br> 
+
+<https://www.bonappetit.com/story/strata-pan-review>
+
+---
+
+## This Is the Only Way to Make Sure Restaurant Servers Actually Get Your Tips
+
+date: 2025-04-25, from: Taste of Home
+
+<p>Behind every great meal is a team making it happen. Tipping well isn't just kind—it's essential. Here's how to do it right.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/best-way-to-tip-servers/">This Is the Only Way to Make Sure Restaurant Servers Actually Get Your Tips</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/best-way-to-tip-servers/>
+
+---
+
+## This Dessert Is So Good, It Made Julia Child Shed a Tear
+
+date: 2025-04-25, from: Taste of Home
+
+<p>We’ve all tasted something so good, we thought we could cry. It really happened to Julia Child on one of her beloved PBS shows, Baking with Julia. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/this-dessert-is-so-good-it-made-julia-child-shed-a-tear/">This Dessert Is So Good, It Made Julia Child Shed a Tear</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/this-dessert-is-so-good-it-made-julia-child-shed-a-tear/>
 
 ---
 
@@ -1214,4 +1254,18 @@ date: 2025-04-20, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/easter-leftovers-recipes/>
+
+---
+
+## What Are the Stringy Things in Avocados?
+
+date: 2025-04-19, from: Taste of Home
+
+<p>Cut into a beautiful green avocado only to find strings laced through it? Here's what they are and whether they're safe to eat.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stringy-avocados/">What Are the Stringy Things in Avocados?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stringy-avocados/>
 

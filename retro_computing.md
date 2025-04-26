@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-04-25 14:07:39
+updated: 2025-04-26 06:07:12
 ---
 
 # retro computing
 
-(date: 2025-04-25 14:07:39)
+(date: 2025-04-26 06:07:12)
 
 ---
 
@@ -713,4 +713,40 @@ In the meantime, if you want to try this on other operating systems, the system-
 <br> 
 
 <https://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html>
+
+---
+
+## HX DOS extender 2.22
+
+date: 2025-04-19, from: FreeDOS News
+
+<div class="markdown_content"><p>HX DOS-Extender is a free DOS extender with built-in Win32 PE file format support. Its Win32 API emulation layer allows many Win32 console applications to run in DOS. It also has limited window support, which allows "simple" Win32 GUI apps to run in DOS as well. Andreas recently shared a new update to HX DOS extender. Version 2.22 fixes several bugs. You can find it at <a class="" href="https://github.com/Baron-von-Riedesel/HX/releases/tag/v2.22" rel="nofollow">HX DOS-Extender on GitHub</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/04/hx-dos-extender-222-456/>
+
+---
+
+## System Speed Test now under the GNU GPL
+
+date: 2025-04-19, from: FreeDOS News
+
+<div class="markdown_content"><p>Robert Riebisch recently announced that 'System Speed Test' aka SPEEDSYS has been released under GNU GPL. Robert reached out to Vladimir Afanasiev to ask if the source code to SPEEDSYS could be released under an open source license, and Vladimir agreed! SPEEDSYS is now available under the GNU General Public License version 2, although not all of the source files have been updated to reflect the new license yet. You can find it at <a class="" href="https://github.com/bttrx/speedsys/tree/main" rel="nofollow">SPEEDSYS on GitHub</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/04/system-speed-test-now-under-the-gnu-gpl/>
+
+---
+
+## MTU Micro Technology Unlimited pages updated
+
+date: 2025-04-19, from: Hans Otten's Retro blog
+
+The MTU pages have been updated. &#8211; New are 8 documents on the MT-130 page, like DISKEX (file exchange with e.g. CP/M), Wordpic, Forth 79, later version of the Full Screen editor. &#8211; The K-1013 Dual density floppy controller has its own page now, with new information &#8211; The MT-130 is emulated on Mame &#8211; [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/mtu-micro-technology-unlimited-pages-updated/>
 

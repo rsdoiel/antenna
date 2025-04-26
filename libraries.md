@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-25 14:07:38
+updated: 2025-04-26 06:07:11
 ---
 
 # libraries
 
-(date: 2025-04-25 14:07:38)
+(date: 2025-04-26 06:07:11)
 
 ---
 
@@ -89,6 +89,18 @@ Perich, Robert; Schnyder, Stefan; Rageth, Ladina; Golub, Noah
 
 ---
 
+## Next-Generation Navigation: Evaluating the Impact of Augmented Reality on Situation Awareness in General Aviation Cockpits
+
+date: 2025-04-25, from: ETH Zurich, recently added
+
+Sarbach, Adrian; Weber, Thierry Robin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732788>
+
+---
+
 ## Rubber Ducking For Research Communication: Why Explaining to Nobody Helps You Explain to Anybody
 
 date: 2025-04-24, from: Scholarly Kitchen
@@ -134,7 +146,7 @@ date: 2025-04-23, from: SciELO in Perspective
 
 date: 2025-04-23, from: Association of Research Libraries News
 
-<p>Last Updated on April 25, 2025, 4:51 pm ET John Pollitz’s journey into librarianship was anything but conventional. Initially pursuing academia as a photography student, he later completed a master’s...</p>
+<p>Last Updated on April 25, 2025, 5:03 pm ET John Pollitz’s journey into librarianship was anything but conventional. Initially pursuing academia as a photography student, he later completed a master’s...</p>
 <p>The post <a href="https://www.arl.org/blog/the-john-pollitz-story-turning-pages-changing-lives/">The John Pollitz Story: Turning Pages &#038; Changing Lives</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

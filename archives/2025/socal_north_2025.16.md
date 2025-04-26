@@ -1,11 +1,89 @@
 ---
 title: socal north
-updated: 2025-04-25 14:07:32
+updated: 2025-04-26 06:07:06
 ---
 
 # socal north
 
-(date: 2025-04-25 14:07:32)
+(date: 2025-04-26 06:07:06)
+
+---
+
+## LA mayor issues three executive actions on fire rebuilding. Here's what they mean for you
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Mayor Karen Bass' executive actions are intended to streamline the rebuilding process and ease financial pressures for residents after the deadly and destructive Palisades Fire. 
+
+<br> 
+
+<https://laist.com/news/politics/la-mayor-issues-three-executive-actions-on-fire-rebuilding-heres-what-they-mean-for-you>
+
+---
+
+## Long Beach Pride is back on May 17 and 18. Here’s what to expect
+
+date: 2025-04-25, from: Longbeach Post
+
+<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-1024x578.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-1024x578.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-768x433.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-400x226.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The parade and festival draw tens of thousands of people annually. “It’s going to be a very musical, very dance-worthy, happy, party time,” Pride’s interim president said. </p>
+<p>The post <a href="https://lbpost.com/news/lgbtq/long-beach-pride-2025-schedule-dates-parate-details">Long Beach Pride is back on May 17 and 18. Here&#8217;s what to expect</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/lgbtq/long-beach-pride-2025-schedule-dates-parate-details>
+
+---
+
+## Some new, more-secure trash cans will soon be installed in Downtown Long Beach
+
+date: 2025-04-25, from: Longbeach Post
+
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25152426/25apr25-trash-1-143095-bfewt3fr-429702-hzdQsCiy-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25152426/25apr25-trash-1-143095-bfewt3fr-429702-hzdQsCiy-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25152426/25apr25-trash-1-143095-bfewt3fr-429702-hzdQsCiy-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25152426/25apr25-trash-1-143095-bfewt3fr-429702-hzdQsCiy-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25152426/25apr25-trash-1-143095-bfewt3fr-429702-hzdQsCiy-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25152426/25apr25-trash-1-143095-bfewt3fr-429702-hzdQsCiy-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25152426/25apr25-trash-1-143095-bfewt3fr-429702-hzdQsCiy.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Eight new bins — designed so that people can't easily pick through them or pull out trash — are being installed in the next few weeks.</p>
+<p>The post <a href="https://lbpost.com/news/more-secure-trash-cans-downtown-long-beach">Some new, more-secure trash cans will soon be installed in Downtown Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/more-secure-trash-cans-downtown-long-beach>
+
+---
+
+## Trump administration reverses international student visas terminations
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+More than 1,500 international students nationwide who had their visas revoked by the Trump administration will have them restored. But the relief may be temporary. 
+
+<br> 
+
+<https://laist.com/news/education/trump-administration-reverses-international-student-visas-terminations>
+
+---
+
+## Wisconsin judge charged with obstruction and accused of helping man avoid ICE
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+Judge Hannah Dugan was arrested at the Milwaukee County Courthouse on Friday morning. 
+
+<br> 
+
+<https://laist.com/news/politics/wisconsin-judge-charged-with-obstruction-and-accused-of-helping-man-avoid-ice>
+
+---
+
+## ACLU fights Trump in court to preserve legal aid for border-separated families
+
+date: 2025-04-25, updated: 2025-04-25, from: The LAist
+
+The DOJ told a legal services provider it would not renew its contract at the end of April. The decision could leave families separated at the U.S.-Mexico border during Trump's first term without the support they were promised under a federal settlement agreement. 
+
+<br> 
+
+<https://laist.com/news/politics/aclu-fights-trump-in-court-to-preserve-legal-aid-for-border-separated-families>
 
 ---
 
@@ -125,7 +203,7 @@ Crews are beginning emergency stabilization work. Travelers will be bused betwee
 
 date: 2025-04-25, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/25094856/091422-train-lv-007-551000-ar8zkpzl-806853-jBhlUhR2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Unions are pushing for shorter freight trains to make railways safer, but that could raise the cost of goods and delay passenger rail service. It also may not be legal.</p>
 <p>The post <a href="https://lbpost.com/news/business/trade-transportation/california-railroads-unions-push-to-shorten-trains-but-companies-warn-of-higher-costs">California railroads: Unions push to shorten trains, but companies warn of higher costs</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -152,7 +230,7 @@ Gov. Gavin Newsom reset his relationship with President Donald Trump after the L
 
 date: 2025-04-25, from: Longbeach Post
 
-<figure><img width="1024" height="659" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz.jpg 1060w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="659" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-1024x659.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-300x193.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-768x494.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-168x108.jpg 168w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz-400x257.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133613/image-of-rescued-dog-1-327514-oxlbplji-731096-EyBpiJaz.jpg 1060w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The young pup, a German shepherd mix named Inara, has some injuries but is "energetic, bright and responsive," according to Long Beach Animal Care Services.</p>
 <p>The post <a href="https://lbpost.com/news/crime/dog-abuse-video-long-beach-charges-ok">Man charged with felony animal cruelty for allegedly slamming dog into ground; rescuers say she&#8217;s recovering well</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -247,9 +325,9 @@ An Orange County judge ruled against the company’s motion to force the case in
 
 ---
 
-## AI cameras led to nearly 10,000 more citations for cars parked in LA bus lanes
+## Another big ticket increase: Nearly 10K more AI-assisted citations for parking in LA bus lanes
 
-date: 2025-04-24, updated: 2025-04-24, from: The LAist
+date: 2025-04-24, updated: 2025-04-25, from: The LAist
 
 Each citation in the city of L.A. comes with a $293 penalty. 
 
@@ -1233,4 +1311,90 @@ Here’s a look at ways the documents could come to light.
 <br> 
 
 <https://laist.com/news/housing-homelessness/la-homelessness-lahsa-whistleblower-payouts-next>
+
+---
+
+## Santa Clarita Voices: Letting the Conversations Flow
+
+date: 2025-04-19, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin There’s something uniquely powerful about sitting down face to face, sharing a conversation and simply listening to one and another. In those moments, we don’t just exchange stories—we build understanding, deepen relationships and strengthen the culture that makes our community so special. That’s been the goal of the Santa Clarita [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/19/santa-clarita-voices-letting-the-conversations-flow/">Santa Clarita Voices: Letting the Conversations Flow</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/19/santa-clarita-voices-letting-the-conversations-flow/>
+
+---
+
+## The tiny coffee spot at 5,700 feet above LA is open for the season
+
+date: 2025-04-19, updated: 2025-04-20, from: The LAist
+
+The seasonal Cosmic Cafe at Mt. Wilson Observatory serves coffee, wraps and snacks with a singular view of the city. It makes for a great setting — and a bit of a haul. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/cosmic-cafe-mount-wilson-la-open-season>
+
+---
+
+## As DOGE cuts hit SoCal cultural spaces and libraries, Little Tokyo museum fights to keep programs alive
+
+date: 2025-04-19, updated: 2025-04-19, from: The LAist
+
+Supporters of the Japanese American National Museum have stepped up with donations. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/doge-cuts-arts-humanities-little-tokyo-japanese-american-museum>
+
+---
+
+## You can make reservations for LA Times Festival of Books panels starting Sunday
+
+date: 2025-04-19, updated: 2025-04-19, from: The LAist
+
+At the Los Angeles Times Festival of Books, admission to panels with popular authors goes fast, so make a plan for the reservations you most want to secure at the 2025 event on the USC campus. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-times-festival-of-books-panels-open-sunday>
+
+---
+
+## Coachella began as a typo. Here's what happened next
+
+date: 2025-04-19, updated: 2025-04-19, from: The LAist
+
+When you think of Coachella, you probably picture the music festival. But there's much more to know about the place it calls home. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/coachella-began-as-a-typo-heres-what-happened-next>
+
+---
+
+## Go Fact Yourself quiz for April 19
+
+date: 2025-04-19, updated: 2025-04-19, from: The LAist
+
+Our celebrity panelists Tim Russ and Amber Nelson go head to head this week on their knowledge of World War II and the TV show 'The Twilight Zone.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-april-19>
+
+---
+
+## UCLA faculty say top leaders need to do more to defend immigrant students
+
+date: 2025-04-19, updated: 2025-04-19, from: The LAist
+
+The faculty association responded after a UCLA grad student was detained by federal agents at Mexico border. 
+
+<br> 
+
+<https://laist.com/news/education/ucla-faculty-leaders-immigrant-students-trump-visa>
 

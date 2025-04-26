@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2025-04-25 14:07:40
+updated: 2025-04-26 06:07:13
 ---
 
 # craft
 
-(date: 2025-04-25 14:07:40)
+(date: 2025-04-26 06:07:13)
 
 ---
 
@@ -102,4 +102,16 @@ The following is excerpted from Nancy R. Hiller’s “Making Things Work: Tales
 <br> 
 
 <https://blog.lostartpress.com/2025/04/22/i-used-to-do-what-you-do/>
+
+---
+
+## LAP Open Wire, April 19, 2025
+
+date: 2025-04-19, from: Lost Arg Press blog
+
+Comments are now closed. We&#8217;ll get to any unanswered questions&#8230;soonish! It&#8217;s time for our bi-montly Open Wire, where you can pose your woodworking questions in the comments section below and we&#8217;ll do our best to answer them. Comments will close at around 5 p.m. Note that there may be a lag between your asking and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/19/lap-open-wire-april-19-2025/>
 

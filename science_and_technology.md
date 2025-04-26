@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-04-25 14:07:34
+updated: 2025-04-26 06:07:08
 ---
 
 # science and technology
 
-(date: 2025-04-25 14:07:34)
+(date: 2025-04-26 06:07:08)
+
+---
+
+## Signalgate lessons learned: If creating a culture of security is the goal, America is screwed
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>Infosec is a team sport … unless you&#39;re in the White House</h4> <p><strong>Opinion</strong>  Just when it seems they couldn&#39;t be that careless, US officials tasked with defending the nation go and do something else that puts American critical infrastructure, national security, and troops&#39; lives in danger.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/signalgate_lessons_learned_if_creating/>
+
+---
+
+## Lunar Space Station for NASA’s Artemis Campaign to Begin Final Outfitting
+
+date: 2025-04-25, from: NASA breaking news
+
+NASA continues to mark progress on plans to work with commercial and international partners as part of the Gateway program. The primary structure of HALO (Habitation and Logistics Outpost) arrived at Northrop Grumman’s facility in Gilbert, Arizona, where it will undergo final outfitting and verification testing. HALO will provide Artemis astronauts with space to live, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/lunar-space-station-for-nasas-artemis-campaign-to-begin-final-testing/>
+
+---
+
+## The VTech Socratic method
+
+date: 2025-04-25, from: OS News
+
+We’ve had a lot of fun with VTech’s computers in the past on this blog. Usually, they’re relatively spartan computers with limited functionality, but they did make something very interesting in the late 80s. The Socrates is their hybrid video game console/computer design from 1988, and today we’ll start tearing into it. ↫ Leaded Solder web log Now we&#8217;re in for the good stuff. A weird educational computer/game console/toy thing from the late &#8217;80s, by VTech. I have a massive soft spot for these toy-like devices, because they&#8217;re always kind of a surprise &#8211; will it be a stupidly simple hardcoded device with zero input/output, or a weirdly capable computer with tons of hidden I/O and a full BASIC ROM? You won&#8217;t know until you crack it open and take a peek! VTech still makes things like this, and I still find them ever as fascinating. 
+
+<br> 
+
+<https://www.osnews.com/story/142208/the-vtech-socratic-method/>
+
+---
+
+## Amid CVE funding fumble, 'we were mushrooms, kept in the dark,' says board member
+
+date: 2025-04-25, updated: 2025-04-25, from: The Register (UK I.T. News)
+
+<h4>What next for US-bankrolled vulnerability tracker? It&#39;s edging closer to a more independent, global future</h4> <p>Kent Landfield, a founding member of the Common Vulnerabilities and Exposures (CVE) program and member of the board, learned through social media that the system he helped create was just hours away from losing funding.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/25/cve_board_funding/>
+
+---
+
+## Torvalds states the obvious: file systems should be case-sensitive
+
+date: 2025-04-25, from: OS News
+
+Apparently, the Bcachefs people are having problems with case-folding, and Linus Torvalds himself is not happy about it. Torvalds holds the only right opinion in this matter, which is that filesystems should obviously be case-sensitive. Case-insensitive names are horribly wrong, and you shouldn&#8217;t have done them at all. The problem wasn&#8217;t the lack of testing, the problem was implementing it in the first place.  Dammit. Case sensitivity is a BUG. The fact that filesystem people still think it&#8217;s a feature, I cannot understand. It&#8217;s like they revere the old FAT filesystem so much that they have to recreate it &#8211; badly. ↫ Linus Torvalds on the LKML It boggles my mind that a modern operating system like macOS still defaults to being case-insensitive (but case-preserving), and opting to install macOS the correct way, i.e. with case-sensitivity, can still lead to issues and bugs because macOS isn&#8217;t used to it. In 2025. Windows&#8217; NTFS is at least case-sensitive, but apparently Win32 applications get all weird about it; if you have several files with identical names save for the case used, Win32 applications will only allow you to open one of them. I&#8217;m not sure how up to date that information is, though. Regardless, the notion that Readme.txt is considered the same as readme.txt is absolutely insane, and should be one of those weird relics we got rid of back in the &#8217;90s. 
+
+<br> 
+
+<https://www.osnews.com/story/142205/torvalds-states-the-obvious-file-systems-should-be-case-sensitive/>
+
+---
+
+## Searching for the Dark in the Light
+
+date: 2025-04-25, from: NASA breaking news
+
+Written by Eleanor Moreland, Ph.D. Student Collaborator at Rice University  Perseverance has been busy exploring lower “Witch Hazel Hill,” an outcrop exposed on the edge of the Jezero crater rim. The outcrop is composed of alternating light and dark layers, and naturally, the team has been trying to understand the makeup of and relationships between […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/searching-for-the-dark-in-the-light/>
 
 ---
 
@@ -1746,4 +1818,64 @@ NASA astronaut Don Pettit returned to Earth Saturday, accompanied by Roscosmos c
 <br> 
 
 <https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/>
+
+---
+
+## HP settles fake discount lawsuit for just $4M. Don’t expect much of a payout
+
+date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
+
+<h4>When it comes to sales and rebates, PC giant takes &#39;Keep Reinventing&#39; seriously</h4> <p>HP Inc has agreed to pay $4 million to settle a class-action lawsuit in the US that alleged it used deceptive pricing tactics on its website, including fake discounts and misleading limited-time offers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/19/hp_deceptive_pricing_lawsuit/>
+
+---
+
+## Blue95 Topanga released with Paint and Plus! clones
+
+date: 2025-04-19, from: OS News
+
+Only a few weeks ago we talked about Blue95, a Fedora-based distribution focused on bringing the Windows 95 look to the Linux world by integrating a set of existing Windows 95 Xfce themes. Since Fedora 42 has just been released, the Blue95 project also pushed out a new release, called Blue95 Topanga. It brings with it all the improvements from Fedora 42, but also goes a step further be integrating new applications to further add to the Windows 95 vibe. First, there&#8217;s Winblues Paint, a faithful recreation of Windows 95&#8217;s Paint, using jspaint.app. Second, they&#8217;ve recreated the classic Plus! experience with Chicago95 Plus!, a tool that allows you to take any existing Windows 95/98/ME/XP theme and apply it as-is on Xfce. Topanga also further improves the theming experience with custom Windows 95 icons for LibreOffice as well as custom themes for Audacious and Flatpost, a desktop-agnostic Flatpak client. I adore that this project aims to be more than just a vessel for the existing Chicago95 theme, and in fact goes so far as to create its own applications. I hope this continues from here on out and doesn&#8217;t fizzle out. 
+
+<br> 
+
+<https://www.osnews.com/story/142161/blue95-topanga-released-with-paint-and-plus-clones/>
+
+---
+
+## LXQt 2.2.0 released
+
+date: 2025-04-19, from: OS News
+
+LXQt, the Qt-based alternative to KDE as Xfce is the GTK-based alternative to GNOME, has released version 2.2.0. LXQt is in the middle of its transition to Wayland, and as such, this release brings a number of fixes and improvements for Wayland, like improved multi-display support and updated compatibility with Wayland compositors. Beyond all the Wayland work, LXQt Power Management now supports power profiles, text rendering in QTerminal and QTermWidget has been improved, the file manager PCManFM-Qt has received a whole slew of new features, and there&#8217;s the usual smaller bug fixes and changes. 
+
+<br> 
+
+<https://www.osnews.com/story/142158/lxqt-2-2-0-released/>
+
+---
+
+## Hacking US crosswalks to talk like Zuck is as easy as 1234
+
+date: 2025-04-19, updated: 2025-04-21, from: The Register (UK I.T. News)
+
+<h4>AI-spoofed Mark joins fellow billionaires as the voice of the street – here&#39;s how it was probably done</h4> <p><strong>Video</strong>  Crosswalk buttons in various US cities were hijacked over the past week or so to – rather than robotically tell people it&#39;s safe to walk or wait – instead emit the AI-spoofed voices of Jeff Bezos, Elon Musk, and Mark Zuckerberg.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/19/us_crosswalk_button_hacking/>
+
+---
+
+## What to do once your Surface Hub v1 becomes an 84-inch, $22K paperweight
+
+date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
+
+<h4>Oh. You expected serious suggestions?</h4> <p>It isn&#39;t just devices unable to upgrade to Windows 11 that are headed to digital landfill this year. The first version of Microsoft&#39;s Surface Hub is also destined for the tech trashcan as Windows 10 support ends. So, what do you do with a big black wall ornament?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/19/microsoft_surface_hub_v1/>
 

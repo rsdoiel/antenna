@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-04-25 14:07:37
+updated: 2025-04-26 06:07:10
 ---
 
 # journalism
 
-(date: 2025-04-25 14:07:37)
+(date: 2025-04-26 06:07:10)
+
+---
+
+## Break-in at Telefund prompts ongoing investigation by LAPD
+
+date: 2025-04-25, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>According to an email from Campus Safety, a break-in occurred at Telefund, Occidental’s student fundraising program, at 3:20 a.m. April 23. CCTV footage shared with the campus community shows a masked and capped individual dressed in light-colored clothing leaving Telefund through the staircases in the Tiger Den at Thorne Hall. In the email, Campus Safety urged [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/04/25/break-in-at-telefund-prompts-ongoing-investigation-by-lapd/2915162">Break-in at Telefund prompts ongoing investigation by LAPD</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/04/25/break-in-at-telefund-prompts-ongoing-investigation-by-lapd/2915162>
 
 ---
 
@@ -620,7 +634,7 @@ The Shigemi Matsumoto Recital Hall slowly filled with people waiting to see “T
 
 date: 2025-04-24, from: The Occidental News (Occidental College Student Newspaper)
 
-<p>Tom Nichols, author of &#8220;The Death of Expertise&#8220;, gave a talk in Choi Auditorium April 8 as the 2025 Jack Kemp &#8217;57 Distinguished Lecturer, where he outlined his book and argued that the U.S. population’s deep resentment of expert knowledge is helping erode democratic institutions. “I think that the general lack of trust in experts [&#8230;]</p>
+<p>Tom Nichols, author of &#8220;The Death of Expertise,&#8220; gave a talk in Choi Auditorium April 8 as the 2025 Jack Kemp &#8217;57 Distinguished Lecturer, where he outlined his book and argued that the U.S. population’s deep resentment of expert knowledge is helping erode democratic institutions. “I think that the general lack of trust in experts goes [&#8230;]</p>
 <p>The post <a href="https://theoccidentalnews.com/news/2025/04/23/kemp-lecturer-tom-nichols-outlines-the-death-of-expertise-and-how-to-fix-it/2915156">Kemp Lecturer Tom Nichols outlines the death of expertise and how to fix it</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
@@ -1374,4 +1388,69 @@ From classical music to K-pop to the finest of ‘90s punk, Saturday performance
 <br> 
 
 <https://dailybruin.com/2025/04/20/coachella-2025-review-saturdays-sets-featured-artists-new-and-old-from-charli-xcx-to-green-day/>
+
+---
+
+## Coachella 2025 review: Lady Gaga’s headlining set electrifies with fierce energy, jubilance, artistry
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 20 at 10:15 p.m.</em>
+Never before has the gleeful mayhem of a performance been so phenomenal.
+Lady Gaga’s headlining set on the main Coachella Stage on Friday night represented the glory and splendor of an ambitious, maximalist, unforgettable live music extravaganza immediately tailored for the pop culture history books. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/19/coachella-2025-lady-gagas-headlining-set-electrifies-with-fierce-energy-jubilance-artistry/>
+
+---
+
+## Coachella 2025: Friday sets from The Marías to Missy Elliott deliver eclectic music for attendees
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 20 at 10:01 p.m.</em>
+The first day of Coachella’s second weekend blew away audience expectations amid blustery desert winds.
+Even with dust stirred up from the previous weekend tearing through the air, the kickoff to the second half of the 2025 Coachella Valley Music and Arts Festival in Indio, California, featured a variety of large-scale pop performances that ignited festivalgoers’ energy for the weekend ahead. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/19/coachella-2025-friday-sets-from-the-maras-to-missy-elliott-deliver-eclectic-music-for-attendees/>
+
+---
+
+## UCLA community leads protest following detainment of student at US-Mexico border
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/ucla-community-leads-protest-following-detainment-of-student-at-us-mexico-border-2/>
+
+---
+
+## UCLA School of Medicine hosts 13th Annual Healthcare Ethics Symposium
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 21 at 12:37 a.m.</em>
+The Professionalism Council at the David Geffen School of Medicine hosted its Annual Healthcare Ethics Symposium on April 3 . 
+
+<br> 
+
+<https://dailybruin.com/2025/04/18/ucla-school-of-medicine-hosts-13th-annual-healthcare-ethics-symposium/>
+
+---
+
+## Coachella 2025
+
+date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/tag/coachella-2025>
 

@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-04-25 14:07:40
+updated: 2025-04-26 06:07:13
 ---
 
 # going electric
 
-(date: 2025-04-25 14:07:40)
+(date: 2025-04-26 06:07:13)
+
+---
+
+## Global energy giant RWE halts US offshore wind because of Trump
+
+date: 2025-04-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/RWE-wind-turbine.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global renewable developer and energy giant <a href="https://www.rwe.com/en/">RWE</a> has halted its US offshore wind operations “for the time being” because of the “political environment” the Trump administration has created.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,offshore-wind-power,wind-power" data-layer-viewtype="unknown" data-post-id="412930" href="https://electrek.co/2025/04/25/global-energy-giant-rwe-halts-us-offshore-wind-because-of-trump/#more-412930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/25/global-energy-giant-rwe-halts-us-offshore-wind-because-of-trump/>
 
 ---
 
@@ -37,6 +53,10 @@ date: 2025-04-25, from: Electrek Feed
 
 
 
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Electrek_382.mp3"></audio></figure>
+
+
+
  <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="412918" href="https://electrek.co/2025/04/25/podcast-electrek-shanghai-auto-show-tesla-earnings-slate-cheap-ev-pickup-unveiled/#more-412918" class="more-link">more…</a> 
 
 <br> 
@@ -45,7 +65,7 @@ date: 2025-04-25, from: Electrek Feed
 
 ---
 
-## The Slate Online Configurator Is Up. Build Your Perfect Cheap Truck
+## The Slate Truck Online Configurator Is Up. Build Your Perfect Cheap EV
 
 date: 2025-04-25, from: Inside EVs News
 
@@ -241,7 +261,7 @@ date: 2025-04-25, from: Electrek Feed
 
 ---
 
-## Slate's Affordable EV Truck Has No Screen, Uses Your Phone For Updates
+## The Cheap Slate Truck EV Has No Screen, Uses Your Phone For Updates
 
 date: 2025-04-25, from: Inside EVs News
 
@@ -265,7 +285,7 @@ The two-seat pickup truck becomes a five-seat SUV with a few hours of work, boos
 
 ---
 
-## Slate Emerges From Stealth With A Low-Cost, Transforming EV Pickup
+## Slate Truck: A Low-Cost, Transforming EV Pickup
 
 date: 2025-04-25, from: Inside EVs News
 
@@ -309,7 +329,7 @@ date: 2025-04-25, from: Electrek Feed
 
 ---
 
-## Jeff Bezos' Slate EV Truck Debuts Today: See The Livestream
+## Jeff Bezos' Slate Truck EV Debuts Today: See The Livestream
 
 date: 2025-04-25, from: Inside EVs News
 
@@ -1514,4 +1534,112 @@ date: 2025-04-20, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/04/20/can-an-electric-bike-really-do-100-miles-on-a-single-charge/>
+
+---
+
+## What’s happening with Tesla’s solar roof?
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/Tesla-Solar-roof-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Solar Roof tiles are still alive, but the product is on the back burner at Tesla as it failed to achieve its promises.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412011" href="https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/#more-412011" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/whats-happening-with-tesla-solar-roof/>
+
+---
+
+## How A 217,500-Mile Tesla Model 3 Battery Compares To One With 3,000 Miles
+
+date: 2025-04-19, from: Inside EVs News
+
+Both Teslas are three years old, so this is a good look at how mileage affects battery degradation. 
+
+<br> 
+
+<https://insideevs.com/news/757119/tesla-model-3-battery-degradation-after-200k/>
+
+---
+
+## Retrospec Valen Rev+: A fat tire e-bike with the spirit of an all-terrain scrambler [Video]
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/DSC08478.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>For the <a href="https://bit.ly/3GgKbmn" target="_blank" rel="noreferrer noopener sponsored nofollow">Valen Rev+</a>, Retrospec managed to get the best out of that iconic moto-style scrambler spirit and put it into a comfortably handling fat tire e-bike while also keeping the performance bits that make it fun, and the best part is it comes at a reasonable price of just under $1,800</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-bikes,retrospec,sponsored-post" data-layer-viewtype="unknown" data-post-id="410468" href="https://electrek.co/2025/04/19/retrospec-valen-rev-fat-tire-e-bike-with-the-spirit-of-an-all-terrain-scrambler/#more-410468" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/retrospec-valen-rev-fat-tire-e-bike-with-the-spirit-of-an-all-terrain-scrambler/>
+
+---
+
+## Subaru Trailseeker EV First Look: An Electric Outback With Good Vibes
+
+date: 2025-04-19, from: Inside EVs News
+
+The automaker surprised with an all electric off-roader at the New York Auto Show. Here’s a closer walk around. 
+
+<br> 
+
+<https://insideevs.com/news/757118/subaru-trailseeker-ev-good-vibes/>
+
+---
+
+## This is it: Mazda EZ-60 crossover interior revealed ahead of global launch [video]
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-19-at-6.35.22 AM.png?w=1600" /></div><p>We got our first look at the new-for-2026 Mazda EZ-60 electric crossover just last week, but Mazda played coy with the interior, leading many in the media (<a href="https://electrek.co/2025/04/10/mazda-launch-real-electric-suv-first-look/">including us</a>) <a href="https://electrek.co/2024/09/29/mazda-ez-6-ev-goes-on-sale-with-a-starting-price-under-25000/">to believe that the interior would be pretty similar to the EZ-6 sedan</a>‘s. <strong>We were wrong</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,mazda" data-layer-viewtype="unknown" data-post-id="411986" href="https://electrek.co/2025/04/19/this-is-it-mazda-ez-60-crossover-interior-revealed-ahead-of-global-launch-video/#more-411986" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/this-is-it-mazda-ez-60-crossover-interior-revealed-ahead-of-global-launch-video/>
+
+---
+
+## New 2026 Volvo S90 looks great – but if you can read this, you probably can’t have one
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/2026-Volvo-S90-plug-in-hybrid-MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volvo Cars took the wraps off new-for-2026 S90 plug-in hybrid, calling the big sedan the most elegant and comfortable 90 yet, promising nearly 50 miles (80 km) of all-electric range and a comprehensive suite of high-end technology and design updates … but if you’re reading this in English, you probably can’t have one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="phev,tariffs,volvo-cars" data-layer-viewtype="unknown" data-post-id="411959" href="https://electrek.co/2025/04/19/new-2026-volvo-s90-looks-great-but-if-you-can-read-this-you-cant-have-one/#more-411959" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/19/new-2026-volvo-s90-looks-great-but-if-you-can-read-this-you-cant-have-one/>
+
+---
+
+## The messy middle, hybrid semis, and century old tech comes to trucking
+
+date: 2025-04-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/hybrid-semis-cover.png?w=1600" /></div><p>On today’s fleet-focused episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we talk about a hot topic in today’s trucking industry called, “the messy middle,” explore some of the ways legacy truck brands are working to reduce fuel consumption and increase freight efficiency. PLUS: we’ve got ReVolt Motors’ CEO and founder Gus Gardner on-hand to tell us why he thinks his solution is better.</p>
+
+
+
+<p>You know, for <em>some</em> people.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,erev,quick-charge" data-layer-viewtype="unknown" data-post-id="411942" href="https://electrek.co/2025/04/18/the-messy-middle-hybrid-semis-and-century-old-tech-comes-to-trucking/#more-411942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/18/the-messy-middle-hybrid-semis-and-century-old-tech-comes-to-trucking/>
 

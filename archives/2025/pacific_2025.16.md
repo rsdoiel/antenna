@@ -1,11 +1,49 @@
 ---
 title: pacific
-updated: 2025-04-25 14:07:33
+updated: 2025-04-26 06:07:07
 ---
 
 # pacific
 
-(date: 2025-04-25 14:07:33)
+(date: 2025-04-26 06:07:07)
+
+---
+
+## Wahiawā food innovation hub marks one year of empowering entrepreneurs
+
+date: 2025-04-25, from: University of Hawaiʻi News
+
+<p>The Wahiaw&#257; Value-Added Product Development Center helps entrepreneurs turn delicious ideas into marketable products.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/25/wahiaw-food-innovation-hub/">Wahiawā food innovation hub marks one year of empowering entrepreneurs</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/25/wahiaw-food-innovation-hub/>
+
+---
+
+## UH Hilo alum new Miss Aloha Hula
+
+date: 2025-04-25, from: University of Hawaiʻi News
+
+<p>Members of the <abbr>UH</abbr> community are once again taking the spotlight on the stage and at the judges’ table at the 62nd Merrie Monarch Festival.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/25/tradition-thrives-uh-at-merrie-monarch/"><abbr>UH</abbr> Hilo alum new Miss Aloha Hula</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/25/tradition-thrives-uh-at-merrie-monarch/>
+
+---
+
+## Governor seeks to abort AG’s sleep shelter program for Guam's homeless
+
+date: 2025-04-25, from: Pacific Island Times
+
+Adelup challenges 'Dougnity Project' in court By Pacific Island Times News Staff The Office of the Attorney General’s plan to open a... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/governor-seeks-to-abort-ag-s-sleep-shelter-program-for-guam-s-homeless>
 
 ---
 
@@ -299,6 +337,34 @@ date: 2025-04-25, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/25/hawaii-news/registered-nurse-from-kauai-crowned-miss-aloha-hula/>
+
+---
+
+## Police: 75-year-old man critically hurt in pickup rollover
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating an early morning pickup truck rollover in North Kona, north of Puuanahulu, that left the driver, a 75-year-old Kailua-Kona man, in critical condition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/hawaii-news/police-75-year-old-man-critically-hurt-in-pickup-rollover/>
+
+---
+
+## Police: Woman reports she strangled a man to death in Puna
+
+date: 2025-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Police have initiated a murder investigation following an alleged domestic dispute Thursday night in Puna.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/25/hawaii-news/police-woman-reports-strangling-man-to-death-in-puna/>
 
 ---
 
@@ -2626,4 +2692,144 @@ date: 2025-04-20, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/20/features/how-to-build-a-beach-pohoiki-growth-over-the-years/>
+
+---
+
+## Risk of financial panic tempers Trump on firing Powell
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump this week revived a long-standing threat against Jerome Powell when he accused the Federal Reserve chair of &#8220;playing politics&#8221; and moving too slowly to lower interest rates. But privately, according to people close to Trump, the president has for months been aware that trying to oust Powell could inject more volatility into jittery financial markets.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/risk-of-financial-panic-tempers-trump-on-firing-powell/>
+
+---
+
+## School vouchers won in Texas. Next up, the nation.
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>With a big win for school vouchers in Texas in the early hours of Thursday morning, the private-school choice movement conquered the last major Republican-led state.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/school-vouchers-won-in-texas-next-up-the-nation/>
+
+---
+
+## UH loses $30M in federal funds; 36 research programs to be cut
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii announced Thursday it has lost $30 million in federal funding for research, just as the school sees the number of revoked student visas &#8220;literally (change) by the hour,&#8221; according to a Thursday announcement made by UH President Wendy Hensel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/hawaii-news/uh-loses-30m-in-federal-funds-36-research-programs-to-be-cut/>
+
+---
+
+## Latest tourism agency allegations draw varied responses
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>It is unclear how the Hawai&#8216;i Tourism Authority board will deal with concerns over late payments to contractors and state probes to determine whether the agency committed procurement or ethics violations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/hawaii-news/latest-tourism-agency-allegations-draw-varied-responses/>
+
+---
+
+## US strikes on Yemeni port kill dozens, Houthis say
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The latest round of U.S. airstrikes against the Iran-backed Houthi militia in Yemen has killed dozens of people in bombardments targeting a port in the country&#8217;s northwest, the Houthis said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/us-strikes-on-yemeni-port-kill-dozens-houthis-say/>
+
+---
+
+## Chinatown merchants in the US are feeling the bite of tariffs
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Last week, a pack of rice crackers at Sun Vin Grocery store on Mulberry Street in New York City&#8217;s Chinatown cost $4.99.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/chinatown-merchants-in-the-us-are-feeling-the-bite-of-tariffs/>
+
+---
+
+## Merger of Capital One and Discover, two credit card giants, wins approval
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Two of the country&#8217;s largest credit card companies are poised to merge after key banking regulators approved the deal Friday, despite concern among some advocacy groups and lawmakers that it could lead to higher fees and less choice for consumers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/merger-of-capital-one-and-discover-two-credit-card-giants-wins-approval/>
+
+---
+
+## Lawyers urge courts to halt imminent deportation of migrants under wartime law
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Lawyers for the American Civil Liberties Union pressed on multiple fronts late Friday to stop the Trump administration from deporting another group of Venezuelan migrants accused of being gang members under the expansive powers of a rarely invoked wartime law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/lawyers-urge-courts-to-halt-imminent-deportation-of-migrants-under-wartime-law/>
+
+---
+
+## Maryland deportee told senator he had been in isolation in El Salvador prison
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Sen. Chris Van Hollen said Friday that Kilmar Abrego Garcia, the Maryland man mistakenly deported by the Trump administration, reported having been traumatized inside a maximum-security prison in El Salvador before being transferred to another detention facility, where he remains in isolation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/maryland-deportee-told-senator-he-had-been-in-isolation-in-el-salvador-prison/>
+
+---
+
+## Tropical Gardening: Celebrate Easter with a gift of life
+
+date: 2025-04-19, from: Hawaii Tribune Harold
+
+
+				<p>Easter reminds us that life is a cycle of what appears to be death and rebirth. In cooler climates, it is what we learn by observing plants that go dormant in the winter only to sprout anew in the spring. Bulbs like crocus and daffodils are examples.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/19/features/tropical-gardening-celebrate-easter-with-a-gift-of-life-2/>
 

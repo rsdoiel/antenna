@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-04-25 14:07:36
+updated: 2025-04-26 06:07:10
 ---
 
 # writing
 
-(date: 2025-04-25 14:07:36)
+(date: 2025-04-26 06:07:10)
 
 ---
 
@@ -531,4 +531,29 @@ month
 <br> 
 
 <https://locusmag.com/2025/04/locus-bestsellers-april-5/>
+
+---
+
+## Peynado Wins PKD Award
+
+date: 2025-04-19, from: Locus Magazine
+
+<p>The 2025 Philip K. Dick Award winner has been announced: <b>Time’s Agent </b>by Brenda Peynado, with special citation for <strong>Alien Clay </strong>by Adrian Tchaikovsky. The award is presented annually to a distinguished work of science fiction originally published in paperback form in the United States. The award is sponsored by the Philip K. Dick Trust and the Philadelphia Science Fiction Society, and the ceremony is sponsored by the Northwest Science  <a href="https://locusmag.com/2025/04/peynado-wins-pkd/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/peynado-wins-pkd/>
+
+---
+
+## Greenteeth by Molly O’Neill: Review by Colleen Mondor
+
+date: 2025-04-19, from: Locus Magazine
+
+<p><strong>Greenteeth</strong>, Molly O’Neill (Orbit 978-0-316-58424-1, $18.99, 320pp, tp) February 2025.</p>
+<p>As author Molly O’Neill explains in the open­ing pages of her debut novel <strong>Greenteeth</strong>, Jenny Greenteeth has enjoyed a relatively quiet existence living in her private lake near the village of Chipping Appleby. Jenny is not human, but that doesn’t mean she isn’t a conscientious lake-dweller. ‘‘Good lake maintenance is impor­tant for fish stocks and water quality,’’ she  <a href="https://locusmag.com/2025/04/greenteeth-by-molly-oneill-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/greenteeth-by-molly-oneill-review-by-colleen-mondor/>
 

@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-04-25 14:07:39
+updated: 2025-04-26 06:07:12
 ---
 
 # motorcycles
 
-(date: 2025-04-25 14:07:39)
+(date: 2025-04-26 06:07:12)
 
 ---
 
@@ -482,4 +482,29 @@ It’ll cater to growing demand for small scooters and commuters in Europe.
 <br> 
 
 <https://www.rideapart.com/news/757032/peugeot-kisbee-spinoff-scooter-brand-launched/>
+
+---
+
+## The DAB 1α X Is a Badass Electric Dual Sport Motorcycle That’s Way Too Expensive
+
+date: 2025-04-19, from: Ride Apart, Electric Motorcycle News
+
+It’s a hard sell starting at $16K. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757033/dab-1ax-electric-scrambler-badass-too-expensive/>
+
+---
+
+## 2025 ARCA West at Tucson: Team Reactions and Analysis
+
+date: 2025-04-19, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The third race of the 2025 season, the ARCA Menards Series 150 presented by the West Coast Stock Car Motorsports Hall of Fame, took place&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2025-arca-west-at-tucson-team-reactions-and-analysis/>
 
