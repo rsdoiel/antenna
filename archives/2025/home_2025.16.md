@@ -1,11 +1,25 @@
 ---
 title: home
-updated: 2025-04-27 06:08:01
+updated: 2025-04-27 14:07:21
 ---
 
 # home
 
-(date: 2025-04-27 06:08:01)
+(date: 2025-04-27 14:07:21)
+
+---
+
+## 13 Common Causes of Dogwood Leaf Drop
+
+date: 2025-04-27, from: The Gardener's Path
+
+<p>If the leaves are dropping off your dogwood tree or shrub, it's a sure sign something is wrong. If it's not the typical autumn fall foliage change, the problem may be caused by something more sinister. Learn about 13 common reasons why dogwoods drop their leaves and what to do about it in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/dogwood-leaf-drop/">13 Common Causes of Dogwood Leaf Drop</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/dogwood-leaf-drop/>
 
 ---
 

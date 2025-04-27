@@ -1,11 +1,71 @@
 ---
 title: science and technology
-updated: 2025-04-27 06:07:57
+updated: 2025-04-27 14:07:18
 ---
 
 # science and technology
 
-(date: 2025-04-27 06:07:57)
+(date: 2025-04-27 14:07:18)
+
+---
+
+## OpenBSD 7.7 released
+
+date: 2025-04-27, from: OS News
+
+Another six months have passed, so it&#8217;s time for a new OpenBSD release: OpenBSD 7.7 to be exact. Browsing through the long, detailed list of changes, a few important bits jump out. First, OpenBSD 7.7 adds support for Ryzen AI 300 (Strix Point, Strix Halo, Krackan Point), Radeon RX 9070 (Navi 48), and Intel&#8217;s Arrow Lake, adding support for the latest x86 processors to OpenBSD. There seems to be quite a few entries in the list related to power management, from work on hibernation and suspend, to more fine-grained control over performance profiles when on battery or plugged in. There&#8217;s also the usual long list of driver improvements, new drivers, and tons and tons of other fixes and changes. OpenBSD 7.7 also ships with the latest GNOME and KDE releases, and contains fixes and improvements for a whole slew of obscure and outdated architectures. 
+
+<br> 
+
+<https://www.osnews.com/story/142229/openbsd-7-7-released/>
+
+---
+
+## Crucial Wii homebrew library contains code stolen from Nintendo, RTEMS
+
+date: 2025-04-27, from: OS News
+
+The Wii homebrew community has been dealt a pretty serious blow, as developers of The Homebrew Channel for the Wii have discovered that not only does an important library most Wii homebrew software rely on use code stolen straight from Nintendo, that same library also uses code taken from an open source real-time operating system without giving proper attribution. Most Wii homebrew software is built atop a library called libogc. This library apparently contains code stolen from Nintendo&#8217;s SDK as well as from games using this SDK, decompiled and cleaned. This has been known for a while, but it was believed that large, important parts of libogc were at least original, but that, too, turns out to be untrue. Recently it has been discovered that libogc&#8217;s threading/OS implementation has been stolen from RTEMS, an open source real-time operating system. The developers of libogc have indicated that they do not care, intend to do nothing about it, and deleted any issues reporting the stolen code. What&#8217;s wild about the code stolen from RTEMS is that it&#8217;s an open source operating system with a nice, permissive license; there was no need to steal the code at all, and all it would take to address it is proper attribution. As such, the fail0verflow group, which develops The Homebrew Channel for the Wii, has ceased all development on The Homebrew Channel, and archived the code repository. The Wii homebrew community was all built on top of a pile of lies and copyright infringement, and it&#8217;s all thanks to shagkur (who did the stealing) and the rest of the team (who enabled it and did nothing when it was discovered). Together, the developers deceived everyone into believing their work was original. Please demand that the leaders and major contributors to console or other proprietary device SDKs and toolkits that you use and work with do things legally, and do not tolerate this kind of behavior. ↫ The Homebrew Channel GitHub page Considering Nintendo is on a crusade to shutdown emulators, stuff like this is really not helping anyone trying to argue that consoles should be open devices, that emulators play an important role in preservation, and that people have a right to play the games they own on a device other than the console it&#8217;s intended for. I&#8217;m sure this isn&#8217;t the last we&#8217;ll hear about this development. 
+
+<br> 
+
+<https://www.osnews.com/story/142227/crucial-wii-homebrew-library-contains-code-stolen-from-nintendo-rtems/>
+
+---
+
+## DARPA to 'radically' rev up mathematics research. And yes, with AI
+
+date: 2025-04-27, updated: 2025-04-27, from: The Register (UK I.T. News)
+
+<h4>Now that&#39;s a sum of all fears</h4> <p>The US Defense Advanced Research Projects Agency, aka DARPA, believes mathematics isn&#39;t advancing fast enough.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/27/darpa_expmath_ai/>
+
+---
+
+## 9front “CLAUSE 15 COMMON ELEMENTS OF MAUS AND STAR TYPE” released
+
+date: 2025-04-27, from: OS News
+
+Few things in life make me happier than a new 9front release. This new release, 9front “CLAUSE 15 COMMON ELEMENTS OF MAUS AND STAR TYPE”, comes with a variety of fixes and new features, such as temperature sensor support for Ryzen processors, a new Intel i225 2.5 GbE driver, a number of low-level kernel improvements, and so, so many more small fixes and changes. If you use 9front, you already know all of this, and you&#8217;re too cool to read OSNews anyway. If you&#8217;re new to 9front and want to join the cool people club, you can download images for PC, Raspberry Pi, MNT Reform, and QEMU. 
+
+<br> 
+
+<https://www.osnews.com/story/142223/9front-clause-15-common-elements-of-maus-and-star-type-released/>
+
+---
+
+## RetrOS-32: a 32bit hobby operating system with graphics, multitasking, and more
+
+date: 2025-04-27, from: OS News
+
+RetrOS-32 is a 32bit operating system written from scratch, with graphics, multitasking and networking capabilities. The kernel is written in C and assembly, while the userspace applications are written in C++, using Make for compilation, all licensed under the MIT license. It runs on Qemu, of course, but a variety of real hardware is also supported, which is pretty cool and relatively unique for a small hobby project like this. The UI is delightfully retro &#8211; as the name obviously implies &#8211; and it comes with a set of basic applications, as well as games like Wolfenstein 3D. 
+
+<br> 
+
+<https://www.osnews.com/story/142221/retros-32-a-32bit-hobby-operating-system-with-graphics-multitasking-and-more/>
 
 ---
 

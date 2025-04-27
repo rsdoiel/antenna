@@ -1,11 +1,82 @@
 ---
 title: columns
-updated: 2025-04-27 06:07:58
+updated: 2025-04-27 14:07:19
 ---
 
 # columns
 
-(date: 2025-04-27 06:07:58)
+(date: 2025-04-27 14:07:19)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-27, from: Dave Winer's Scripting News)
+
+If you're <a href="http://scripting.com/2025/04/27/130611.html">getting this via email</a>, things might look different. 
+
+<br> 
+
+<http://scripting.com/2025/04/27.html#a200313>
+
+---
+
+## 2025-04-27 Structural navigation
+
+date: 2025-04-27, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-27-structural-navigation">2025-04-27 Structural navigation</h1>
+
+<p>Sometimes my mind goes back to text editing and text editors. I have a love/hate relationship with ed(1). I kind of like the deliberate mindset I need to bring. But I also don’t like to think in terms of lines. Maybe if each sentence is a line, that’s better. But I often think about better semantic addressing.</p>
+
+<p>Example: <code>p</code> prints a range of line(s) is the standard. What I would also like is &ldquo;print a range of paragraph&rdquo;, &ldquo;print a range of sentences&rdquo;, &ldquo;print a range of words&rdquo;. There&rsquo;s a hierarchy, here. So once there&rsquo;s a &ldquo;current&rdquo; paragraph, you can list its sentences or its words. My hope is that this is more useful than working on lines.</p>
+
+<p>I’m still struggling to invent a command language, however. “Print paragraph. Next. Next. Number sentences. Third sentence. Replace this with that. Print paragraph.” I think this how I would work? “Last paragraph. Insert paragraph. Start typing.” Would that be <code>p p n 3s /this/that/ p</code> and <code>par $ i …</code> Effectively, <code>p</code> switches to paragraphs and prints them, and moves to the next one if used without a range. <code>n</code> numbers the items one level down. In this case, with a paragraph selected, <code>n</code> numbers the sentences. <code>s</code> switches to sentences and prints them. I&rsquo;m not sure about the search &amp; replace command. Is that also <code>s</code>?</p>
+
+<p>Should the data be kept in a tree? Should reading the text involve a real parser that delivers a sort of abstract syntax tree and names the nodes which automatically turn into commands?</p>
+
+<p>And then: should this be written in Perl? 😍</p>
+
+<p><a class="account" href="https://mastodon.acm.org/@CerstinMahlow" title="@CerstinMahlow@mastodon.acm.org">@CerstinMahlow</a> wrote a position paper: <a href="https://doi.org/10.48550/arXiv.2303.17894">Writing Tools: Looking Back to Look Ahead</a> where she argues that «new writing tools should be inspired by &ldquo;failed&rdquo; projects from the 1970s and 1980s».</p>
+
+<p><a class="account" href="https://mastodon.acm.org/@mxp" title="@mxp@mastodon.acm.org">@mxp</a> said he had written «an Emacs interface to a syntactic parser», but I&rsquo;m not sure this is what I&rsquo;m looking for. I like the idea! But is it how I&rsquo;d work? He then pointed me at Engelbart&rsquo;s <a href="https://doi.org/10.1145/1476589.1476645">A research center for augmenting human intellect</a>. There, we find <a href="https://communitywiki.org/wiki/PurpleNumbers">purple numbers</a> again:</p>
+
+<blockquote>
+<p>The principal manifestation of this hierarchical structure is the breaking up of text into arbitrary segments called &ldquo;statements,&rdquo; each of which bears a number showing its serial location in the text and its &ldquo;level&rdquo; in an &ldquo;outline&rdquo; of the text.</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Editors">#Editors</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-27-structural-navigation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-27, from: Dave Winer's Scripting News)
+
+Lots of news reports about Trump's polls. But it isn't surprising that in the transition from a democracy to autocracy the people would become increasingly unhappy with the change, until we basically give up, and the polls from some pollsters are always this way, but the polls from others tell a different story. Fox News still runs polls the old way, as does the NYT and others. But that will change, as the lawyers have, and the Washington Post and NY Times have, in their editorial functions. And they just arrested a judge in Wisconsin. Makes you think maybe it doesn't matter if the polls say what they say, if there isn't something behind them. 
+
+<br> 
+
+<http://scripting.com/2025/04/27.html#a155941>
+
+---
+
+## Nightly email switchover
+
+date: 2025-04-27, from: Dave Winer's Scripting News
+
+<p>If all goes as planned, if you're subscribed to the <a href="http://scripting.com/email/">nightly email</a>, you should get two copies of the posts for April 27, one sent by the old software, and one sent by the new. The new version might look better in your mail reader app. That was the point of this transition. </p>
+<p>Here's a <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBkVybd_vaWT4oen5uNAEKxK8ztFUvAStcCq0Y8m-0VSsTNQ/viewform?usp=header">Google form</a> where you can let me know how it went. Did it work? How many emails did you get? Does the v2 email look better than the old version? In general do you want to comment?</p>
+<p><b>The story</b></p>
+<p>I had to do a rewrite because when I originally wrote it, I misunderstood how CSS styling works in some/most email clients and it required a very deep rewrite of the software, it was actually harder to do the conversion than it was to write the software in the first place. And the app was running on an old version of PagePark and depended on Dropbox, and had broken in many ways over the years. But I never had the time to zero in on this. </p>
+<p>Now was the time to do it, because I want to do an <i>excellent</i> email sender for <a href="https://wordland.social/">WordLand</a>. And in order for that to have even a small chance of working, I needed to do this transition, to get fully up to date on the best practices for HTML email in 2025. </p>
+<p>And yet another plug for ChatGPT. It's like having a library of medical journals for a general practitioner. I'm sure they have this, if a GP has a question about which specialist to send a patient to. And then they probably have good reference materials for the specialist too, to be sure they're using the latest proven techniques for treating disease. Believe it or not we have nothing like this in software development. Which means we don't interop, and don't use prior art and are constantly reinventing each others' work because there's no way to find out about it. No conferences, no journals, nothing but hearsay and O'Reilly books and I hear they aren't very good these days. Enter ChatGPT, and all of a sudden if you have a question it has the freaking answer. It's as if medicine went from the pre-internet days to now, in just a couple of years. Only more so because medicine was considered a discipline, where developing software never has been. Now at least us practitioners have the tools if not the respect. </p>
+<p>PS: The <a href="http://scripting.com/email/">signup page</a> moved to <a href="https://subscribe.scripting.com/">subscribe.scripting.com</a>. It's the same software now running on my latest server software, and served via HTTPS.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/27/130611.html?title=nightlyEmailSwitchover>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: pacific
-updated: 2025-04-27 06:07:56
+updated: 2025-04-27 14:07:17
 ---
 
 # pacific
 
-(date: 2025-04-27 06:07:56)
+(date: 2025-04-27 14:07:17)
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Finance’s financial service division office under renovation
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+THE financial services division office of the Department of Finance is undergoing renovation, Finance Secretary Tracy B. Norita said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/finance-s-financial-service-division-office-under-renovation/article_abbe4998-a351-468c-b5c5-f5c532b1f597.html>
+
+---
+
+## Poetry
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_24d9c67e-76f0-4e81-a760-637f07aee2e3.html>
+
+---
+
+## Wanted for burglary and theft
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+THE Department of Public Safety is seeking the community's assistance in locating 42-year-old Jerome Deleon Guerrero, also known as William Taitingfong. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/wanted-for-burglary-and-theft/article_97970929-dc69-4c21-bda3-696bbd6562c4.html>
+
+---
+
+## Conflicting US-China talks statements add to global trade confusion
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+(Reuters) — President Donald Trump asserted in an interview published on Friday that tariff negotiations were under way with China, but Beijing denied any talks were taking place, the latest in a series of conflicting signals over what progress was being made to de-escalate a trade war threatening to sap global growth. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/conflicting-us-china-talks-statements-add-to-global-trade-confusion/article_e7634d04-fa52-4edc-823d-494db84a2f57.html>
+
+---
+
+## Court finds probable cause to charge man with sexual abuse of minor
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+SUPERIOR Court Judge Lillian A. Tenorio found probable cause to charge Kyle Cepeda, 34, with two counts of sexual abuse of a minor in the first degree, sexual abuse of a minor in the second degree, and disturbing the peace. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-finds-probable-cause-to-charge-man-with-sexual-abuse-of-minor/article_f43399a8-2e16-4fc4-89a0-af4beb83bc29.html>
+
+---
+
+## UOG variety trial finds two banana types ideal for commercial production in Guam
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+MANGILAO (UOG) — A variety trial conducted over the past year by University of Guam Cooperative Extension &amp; Outreach tested five varieties of banana — “Fiji,” “Blue Java,” “Macao,” “Manila,” and “Saba” — from planting to harvest to see which have ideal characteristics for being grown commercially in Guam. The study found that “Fiji” and “Saba” would be ideal for expanded production in Guam due to their highly marketable qualities, favorable yields, and ability to be sustainably produced in Guam’s conditions without the use of pesticides. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/uog-variety-trial-finds-two-banana-types-ideal-for-commercial-production-in-guam/article_ee63c4fe-f799-4b21-b028-5594de1412fc.html>
+
+---
+
+## NMI mayors come together at pinning rites for 2025 Liberation Queen candidates
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+ROTA Mayor Aubry Hocog and Tinian Mayor Edwin P. Aldan joined Saipan Mayor Ramon Blas "RB" Camacho on Saturday in the pinning-of-the-sash ceremony for the 2025 Liberation Queen candidates at the Saipan Mayor's Office. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmi-mayors-come-together-at-pinning-rites-for-2025-liberation-queen-candidates/article_bcfc9477-cce0-4733-93c2-a8ed8f4d4d07.html>
+
+---
+
+## Introducing College Lane
+
+date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
+
+The Department of Public Works and Northern Marianas College on Friday, April 25, held a small ribbon-cutting ceremony for the road project that lines the west side of the NMC campus in Saipan. The project relocates the thoroughfare that was once located on NMC property to the designated right of way. For many years, the public road came through the College, so the new road alleviates traffic cutting through the college to help ensure student safety on campus. The project includes CUC’s upgrade of the sewer pipeline in this area. The project also sets the stage for NMC’s new masterplan which includes multiple new buildings, a campus quad, and other facilities. Formerly known as Finasisu Lane, College Lane is a collaboration among Northern Marianas College, the Saipan and Northern Islands Legislative Delegation, Commonwealth Economic Development Authority, Department of Public Works, Commonwealth Utilities Corp. and Yantze Corp. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/introducing-college-lane/article_54e9554d-e012-48c2-9aa9-816519de24de.html>
 
 ---
 
@@ -1565,18 +1673,6 @@ FORMER Reps. Sheila Babauta and Juan I. Tenorio on Tuesday expressed opposition 
 <br> 
 
 <https://www.mvariety.com/news/local/2-former-lawmakers-oppose-bid-to-lease-former-mariana-resort/article_363e7d31-b85d-457d-860e-1327ba62849c.html>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-04-23, updated: 2025-04-23, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: going electric
-updated: 2025-04-27 06:08:03
+updated: 2025-04-27 14:07:23
 ---
 
 # going electric
 
-(date: 2025-04-27 06:08:03)
+(date: 2025-04-27 14:07:23)
+
+---
+
+## Mercedes-AMG Teases Its Porsche Taycan Rival
+
+date: 2025-04-27, from: Inside EVs News
+
+It's AMG's first dedicated EV and it will be revealed in June. 
+
+<br> 
+
+<https://insideevs.com/news/757844/mercedes-amg-fastback-teased-reveal/>
+
+---
+
+## Tesla Might Be Tanking, But Its Cars Are Still Fast
+
+date: 2025-04-27, from: Inside EVs News
+
+This drag racing video from Las Vegas reminds us that you don't need Plaid speed to win. 
+
+<br> 
+
+<https://insideevs.com/news/757804/tesla-tanking-cars-fast/>
 
 ---
 

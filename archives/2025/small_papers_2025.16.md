@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-04-27 06:08:04
+updated: 2025-04-27 14:07:24
 ---
 
 # small papers
 
-(date: 2025-04-27 06:08:04)
+(date: 2025-04-27 14:07:24)
+
+---
+
+## How Gavin Newsom is balancing the fight against Trump with Los Angeles fire relief
+
+date: 2025-04-27, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/27111156/042425-newsom-calfire-lb-cm-72-567676-8s8b3azv-811935-TU1FnnyG.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Gov. Gavin Newsom reset his relationship with President Donald Trump after the Los Angeles fires, but he has yet to secure the disaster aid he wants. Now new political pressures are pushing California’s governor back into confrontation with Trump.</p>
+<p>The post <a href="https://lbpost.com/news/politics/how-gavin-newsom-is-balancing-the-fight-against-trump-with-los-angeles-fire-relief">How Gavin Newsom is balancing the fight against Trump with Los Angeles fire relief</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/how-gavin-newsom-is-balancing-the-fight-against-trump-with-los-angeles-fire-relief>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-04-27 06:08:04
 
 date: 2025-04-25, from: Long Beach Post
 
-<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-1024x578.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-1024x578.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-768x433.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-400x226.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-1024x578.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-1024x578.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-768x433.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx-400x226.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/05/19144518/19may24-pride-3-057285-q8tkqrgy-961446-3x385uBx.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The parade and festival draw tens of thousands of people annually. “It’s going to be a very musical, very dance-worthy, happy, party time,” Pride’s interim president said. </p>
 <p>The post <a href="https://lbpost.com/news/lgbtq/long-beach-pride-2025-schedule-dates-parate-details">Long Beach Pride is back on May 17 and 18. Here&#8217;s what to expect</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

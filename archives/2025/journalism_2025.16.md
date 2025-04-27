@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-04-27 06:07:59
+updated: 2025-04-27 14:07:20
 ---
 
 # journalism
 
-(date: 2025-04-27 06:07:59)
+(date: 2025-04-27 14:07:20)
+
+---
+
+## Santa Clarita Aquatic Center  hosts Splash N Dash event
+
+date: 2025-04-27, from: The Canyon News (COC Student Newspaper)
+
+<p>The Santa Clarita Aquatic Center is no stranger to hosting community events,&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/santa-clarita-aquatic-center-hosts-splash-n-dash-event/">Santa Clarita Aquatic Center  hosts Splash N Dash event</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/santa-clarita-aquatic-center-hosts-splash-n-dash-event/>
 
 ---
 

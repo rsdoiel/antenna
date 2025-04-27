@@ -1,11 +1,85 @@
 ---
 title: snapshots
-updated: 2025-04-27 06:08:05
+updated: 2025-04-27 14:07:25
 ---
 
 # snapshots
 
-(date: 2025-04-27 06:08:05)
+(date: 2025-04-27 14:07:25)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-27, from: Dave Winer's linkblog)
+
+Democrats seize on a new issue to use against the GOP: Social Security. 
+
+<br> 
+
+<https://wapo.st/3EFoFra>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-27, from: Dave Winer's linkblog)
+
+Trump’s power is centered in fear. Of  course approval is falling. But I don’t think it means what it used to. 
+
+<br> 
+
+<http://scripting.com/2025/04/27.html#a155941>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-27, from: Feed for Alt USDS)
+
+@corybooker.com back out there causing good trouble. We need 4 Republicans in the House, or 4 in the Senate to stop these cuts from happening. 
+
+MAKE SOME NOISE. Find contact info for your members of Congress here and flood the phone lines: www.congress.gov/contact-us
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnspdnv7os2w>
+
+---
+
+## Muse Pi Pro crams a SpacemiT M1 RISC-V processor, M.2 and mPCIe sockets into a Raspberry Pi-sized computer
+
+date: 2025-04-27, from: Liliputing
+
+<p>The Muse Pi Pro is a credit card-sized computer with a RISC-V processor, an AI accelerator, support for up to 16GB of LPDDR5x-2400 RAM, and up to 128GB of eMMC 5.1 onboard storage. But that&#8217;s just the tip of the iceberg. While the little computer is the same size as a Raspberry Pi Model B, it [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/muse-pi-pro-crams-a-spacemit-m1-risc-v-processor-m-2-and-mpcie-sockets-into-a-raspberry-pi-sized-computer/">Muse Pi Pro crams a SpacemiT M1 RISC-V processor, M.2 and mPCIe sockets into a Raspberry Pi-sized computer</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/muse-pi-pro-crams-a-spacemit-m1-risc-v-processor-m-2-and-mpcie-sockets-into-a-raspberry-pi-sized-computer/>
+
+---
+
+## MINISFORUM MS-A2 goes on sale for $839 and up (mini PC with Ryzen 9 9955HX and 10 Gigabit networking)
+
+date: 2025-04-27, from: Liliputing
+
+<p>The MINISFORUM MS-A2 is a compact desktop computer with a 55-watt, 16-core, 32-thread AMD Ryzen 9 9955HX &#8220;Fire Range&#8221; processor, and plenty of expansion options including support for up to 96GB of DDR5-5600 memory, support for up to 3 PCIe 4.0 NVMe SSDs, and a PCIe 4.0 x8 slots for graphics or network cards. The computer [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minisforum-ms-a2-goes-on-sale-for-839-and-up-mini-pc-with-ryzen-9-9955hx-and-10-gigabit-networking/">MINISFORUM MS-A2 goes on sale for $839 and up (mini PC with Ryzen 9 9955HX and 10 Gigabit networking)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minisforum-ms-a2-goes-on-sale-for-839-and-up-mini-pc-with-ryzen-9-9955hx-and-10-gigabit-networking/>
+
+---
+
+## About shoes, discipline, comfort zone, and maintenance
+
+date: 2025-04-27, updated: 2025-04-27, from: Peter Molnar blog
+
+I bought a surprising amount of shoes in the past 2 years, but this journey of the feet highlighted important observations in maintaining ourselves. 
+
+<br> 
+
+<https://petermolnar.net/journal/comfort-zone-needs-effort/>
 
 ---
 
@@ -98,6 +172,21 @@ Here’s why DOGE will fail — and why it matters.
 <br> 
 
 <https://bsky.app/profile/altusds.bsky.social/post/3lnr3e3m4vp2o>
+
+---
+
+## MCP is Unnecessary
+
+date: 2025-04-27, updated: 2025-04-27, from: Tom Kellog blog
+
+I can’t think of any strong technological reasons for MCP to exist. There’s a lot
+of weak technological reasons, and there’s strong sociological reasons. I still strongly
+feel that, ironically, it is necessary. I’m writing this post to force myself to clarify
+my own thoughts, and to get opinions from everyone else. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/04/27/mcp-is-unnecessary>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-04-27 06:07:54
+updated: 2025-04-27 14:07:16
 ---
 
 # north america
 
-(date: 2025-04-27 06:07:54)
+(date: 2025-04-27 14:07:16)
+
+---
+
+## 100 days of losses for Trump, 100 days of wins for The Contrarian
+
+date: 2025-04-27, from: The Contrarian
+
+Publisher's Roundup, 15 
+
+<br> 
+
+<https://contrarian.substack.com/p/100-days-of-losses-for-trump-100>
+
+---
+
+##  LEVER WEEKLY: The Pentagon’s New Powder Room 
+
+date: 2025-04-27, from: The Lever News
+
+ The government’s adding a makeup studio to the war room, the antitax movement shows some cracks, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-the-pentagons-new-powder-room/>
 
 ---
 

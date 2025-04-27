@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-04-27 06:07:59
+updated: 2025-04-27 14:07:20
 ---
 
 # games
 
-(date: 2025-04-27 06:07:59)
+(date: 2025-04-27 14:07:20)
+
+---
+
+## What time does Diablo 4 season 8 release in your time zone?
+
+date: 2025-04-27, updated: 2025-04-25, from: Polygon Website
+
+Season 8 of Diablo 4, Belial’s Return, out this week, sees the… uh… return of an old foe from Diablo 3: Belial, Lord of Lies. In addition to fighting the large, eye-obsessed boss, you’ll be able to wield powers inspired by some of the series’ biggest and baddest bosses. In this Diablo 4 guide, we’ll [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/563156/season-8-release-time-date-edt-pdt-bst>
+
+---
+
+## What time does Infinity Nikki 1.5 and the Steam version release?
+
+date: 2025-04-27, updated: 2025-04-27, from: Polygon Website
+
+Infinity Nikki is getting its version 1.5 update on April 28. The update brings new features, like a Steam client launch and multiplayer. Below, we explain when Infinity Nikki goes down for maintenance ahead of version 1.5 and when it’ll come back up with the new version using a variety of time zones to help [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/565253/version-1-5-steam-release-times-maintenance-end>
+
+---
+
+## Watch the all-time action classics that inspired Netflix’s Havoc
+
+date: 2025-04-27, updated: 2025-04-25, from: Polygon Website
+
+The day action fans have been waiting over four years for has finally arrived: The Raid franchise mastermind Gareth Evans’ new action movie, Havoc, has finally dropped. The Netflix original — made under Evans’ deal with the streamer, which also resulted in the Dan Stevens-starring horror-mystery Apostle — stars Tom Hardy and is already, in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/565220/havoc-movie-netflix-action-influences-watch-streaming>
 
 ---
 

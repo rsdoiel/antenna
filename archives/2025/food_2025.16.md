@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-04-27 06:08:03
+updated: 2025-04-27 14:07:23
 ---
 
 # food
 
-(date: 2025-04-27 06:08:03)
+(date: 2025-04-27 14:07:23)
+
+---
+
+## Scenes from the 2025 Specialty Coffee Expo in Houston
+
+date: 2025-04-27, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg" class="attachment-large size-large wp-post-image" alt="expo2025-hb-3" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The first two days of the 2025 Specialty Coffee Expo in Houston provided thousands of coffee professionals with a Texas-sized platform for sensory exploration, equipment demos, endless hand-shaking, innovation and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/27/scenes-from-the-2025-specialty-coffee-expo-in-houston/>
 
 ---
 
@@ -18,6 +30,22 @@ date: 2025-04-27, from: The Sprudge
 <br> 
 
 <https://sprudge.com/its-a-coffee-party-who-could-ask-for-more-322155.html>
+
+---
+
+## Cinco de Mayo Recipes
+
+date: 2025-04-27, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/05/Cinco-de-Mayo-Recipes.jpg"/></div>
+<p>The definitive collection of the best Mexican style recipes to to celebrate Cinco de Mayo! Quick and easy Mexican recipes from appetizers to meals, breakfasts, desserts and everything in between, that can be made at home! Cinco de Mayo is right around the corner! Cinco de Mayo is a day celebrated in both the US...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/">Cinco de Mayo Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/>
 
 ---
 
@@ -235,7 +263,7 @@ date: 2025-04-25, from: Taste of Home
 
 date: 2025-04-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee cupping" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The U.S.- and Europe-based Specialty Coffee Association (SCA) announced it is taking over management of the Q Grader program beginning Oct. 1, 2025. The Q program has been the flagship... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee cupping" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-cupping.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The U.S.- and Europe-based Specialty Coffee Association (SCA) announced it is taking over management of the Q Grader program beginning Oct. 1, 2025. The Q program has been the flagship... 
 
 <br> 
 
@@ -423,7 +451,7 @@ date: 2025-04-24, from: The Fresh Cup
 
 date: 2025-04-24, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ceado Rev Series grinders 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-1536x1024.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1.jpg 1860w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian grinder maker Ceado just introduced a flagship line of commercial espresso grinders under the series name Rev (styled &#8220;REV&#8221; by the company).&#160; The new machines — called Rev Steel,... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Ceado Rev Series grinders 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1-1536x1024.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ceado-Rev-Series-grinders-1.jpg 1860w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Italian grinder maker Ceado just introduced a flagship line of commercial espresso grinders under the series name Rev (styled &#8220;REV&#8221; by the company).&#160; The new machines — called Rev Steel,... 
 
 <br> 
 
