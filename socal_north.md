@@ -1,11 +1,205 @@
 ---
 title: socal north
-updated: 2025-04-26 14:07:37
+updated: 2025-04-27 06:07:55
 ---
 
 # socal north
 
-(date: 2025-04-26 14:07:37)
+(date: 2025-04-27 06:07:55)
+
+---
+
+## Train riders can soon get one step closer to LAX — but not quite there yet
+
+date: 2025-04-27, updated: 2025-04-27, from: The LAist
+
+The new LAX/Metro Transit Center station will open in June. But a direct connection with the airport won’t be ready until next year. 
+
+<br> 
+
+<https://laist.com/news/transportation/lax-new-metro-station-opening-people-mover>
+
+---
+
+## Love succulents? Join one of Southern California’s many clubs
+
+date: 2025-04-27, updated: 2025-04-27, from: The LAist
+
+Succulents are popular, and clubs devoted to the plant are thriving. We look at one club in L.A. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/succulents-cacti-clubs-southern-california-history-los-angeles-cactus-succulent-society>
+
+---
+
+## Meet the man who made six figures selling anti-Elon Musk Tesla stickers
+
+date: 2025-04-27, updated: 2025-04-27, from: The LAist
+
+Matthew Hiller started making anti-Elon Musk stickers for Teslas after Musk's X takeover. He's made six figures selling them. 
+
+<br> 
+
+<https://laist.com/news/politics/meet-the-man-who-made-six-figures-selling-anti-elon-musk-tesla-stickers>
+
+---
+
+## LA artist El Compa Negro plays regional Mexican music, straight outta Compton
+
+date: 2025-04-27, updated: 2025-04-27, from: The LAist
+
+This African American musician from Los Angeles is a rising star in Southern California’s regional Mexican music scene. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-artist-el-compa-negro-plays-regional-mexican-music-straight-outta-compton>
+
+---
+
+## Safe, affordable hangout spots are rare. In East LA, gamers turn to BYO Games
+
+date: 2025-04-27, updated: 2025-04-27, from: The LAist
+
+For many gamers, this Eastside space is more than a place to play— it’s where connection, competition and community come together. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/bring-your-own-games-byo-games-east-la-los-angeles>
+
+---
+
+## City Attorney won't file charges against most Gaza protesters arrested at UCLA and USC
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Due to "insufficient evidence" says Los Angeles City Attorney 
+
+<br> 
+
+<https://laist.com/news/most-people-arrested-in-ucla-and-uscs-encampment-protests-avoid-criminal-charges>
+
+---
+
+## Building Community Through Parks and Capital Improvement Projects
+
+date: 2025-04-26, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin In Santa Clarita, we are proud of our thousands of acres of open spaces, miles of scenic trails and beautiful green parks that bring our community together. Parks aren’t just places to play – they’re spaces to connect, celebrate and create memories. Over the next few months, we’re excited to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/26/building-community-through-parks-and-capital-improvement-projects/">Building Community Through Parks and Capital Improvement Projects</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/26/building-community-through-parks-and-capital-improvement-projects/>
+
+---
+
+## Here are the best new albums out this week
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+NPR Music's Stephen Thompson welcomes Ayana Contreras of Denver public radio stations KUVO Jazz and The Drop to discuss today's top new releases. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/here-are-the-best-new-albums-out-this-week>
+
+---
+
+## Five people arrested for allegedly defrauding FEMA after the LA fires
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+If convicted, arrestees could face up to 30 years in prison. 
+
+<br> 
+
+<https://laist.com/news/arrests-fema-claims-frauds>
+
+---
+
+## With communities like Boyle Heights left in the dark, California moves to crack down on copper wire dealers and sellers
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Proposed by Assemblymember Mark Gonzalez, AB 476 also seeks to revise penalties for offenders to better reflect the true cost to the public. 
+
+<br> 
+
+<https://laist.com/news/politics/with-communities-like-boyle-heights-left-in-the-dark-california-moves-to-crack-down-on-copper-wire-dealers-and-sellers>
+
+---
+
+## What the Festival of Books means to its authors, as told by Pulitzer winner Héctor Tobar
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Author and professor Héctor Tobar reflects on nearly three decades of work. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-times-festival-of-books-hector-tobar-percival-everett>
+
+---
+
+## California is running out of license plate numbers. Here’s what comes next
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Say goodbye to the 9ZZZ999 format. Sometime next year, California drivers will start receiving license plates with a reversed configuration. 
+
+<br> 
+
+<https://laist.com/news/transportation/california-dmv-department-motor-vehicles-license-plate-numbers-running-out>
+
+---
+
+## Behind the West Coast’s most widely used early earthquake alert system
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+This is the story of ShakeAlert and how it works. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/behind-the-west-coasts-most-widely-used-early-earthquake-alert-system>
+
+---
+
+## Go Fact Yourself quiz for April 26
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Our celebrity panelists Josefina López and Bruce Vilanch go head to head this week on their knowledge of the musical 'Miss Saigon' and the SS Andrea Doria. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-april-26>
+
+---
+
+## Health officials confirm another measles case in LA
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+It’s the tenth California case this year and comes amid a widening U.S. outbreak. 
+
+<br> 
+
+<https://laist.com/news/health/measles-los-angeles-infections-texas-cdc-vaccine>
+
+---
+
+## Angelenos vent outrage over mayor's budget, proposed staff and service cuts
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Facing a nearly $1 billion dollar shortfall, Mayor Karen Bass has proposed 1,647 layoffs across departments, or about 5% of the city workforce. 
+
+<br> 
+
+<https://laist.com/news/politics/angelenos-vent-outrage-over-mayors-budget-proposed-staff-and-service-cuts>
 
 ---
 
@@ -732,18 +926,6 @@ date: 2025-04-23, from: Longbeach Post
 
 ---
 
-## ‘Unprecedented’ toxic algae bloom continues to kill Southern California whales and other wildlife
-
-date: 2025-04-23, updated: 2025-04-23, from: The LAist
-
-Rescuers have received thousands of calls about dolphins, sea lions, birds and other animals who need help. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/unprecedented-toxic-algae-bloom-killing-southern-california-wildlife>
-
----
-
 ## These yellow flowers cover the 110 Freeway walls. How they got there
 
 date: 2025-04-23, updated: 2025-04-23, from: The LAist
@@ -753,6 +935,18 @@ This sunny vine thrives in an unforgiving urban environment — could that becom
 <br> 
 
 <https://laist.com/news/los-angeles-activities/los-angeles-110-freeway-yellow-flowers-sound-wall-cats-claw>
+
+---
+
+## ‘Unprecedented’ toxic algae bloom continues to kill Southern California whales and other wildlife
+
+date: 2025-04-23, updated: 2025-04-23, from: The LAist
+
+Rescuers have received thousands of calls about dolphins, sea lions, birds and other animals who need help. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/unprecedented-toxic-algae-bloom-killing-southern-california-wildlife>
 
 ---
 
@@ -1311,90 +1505,4 @@ Here’s a look at ways the documents could come to light.
 <br> 
 
 <https://laist.com/news/housing-homelessness/la-homelessness-lahsa-whistleblower-payouts-next>
-
----
-
-## Santa Clarita Voices: Letting the Conversations Flow
-
-date: 2025-04-19, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin There’s something uniquely powerful about sitting down face to face, sharing a conversation and simply listening to one and another. In those moments, we don’t just exchange stories—we build understanding, deepen relationships and strengthen the culture that makes our community so special. That’s been the goal of the Santa Clarita [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/04/19/santa-clarita-voices-letting-the-conversations-flow/">Santa Clarita Voices: Letting the Conversations Flow</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/04/19/santa-clarita-voices-letting-the-conversations-flow/>
-
----
-
-## The tiny coffee spot at 5,700 feet above LA is open for the season
-
-date: 2025-04-19, updated: 2025-04-20, from: The LAist
-
-The seasonal Cosmic Cafe at Mt. Wilson Observatory serves coffee, wraps and snacks with a singular view of the city. It makes for a great setting — and a bit of a haul. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/cosmic-cafe-mount-wilson-la-open-season>
-
----
-
-## As DOGE cuts hit SoCal cultural spaces and libraries, Little Tokyo museum fights to keep programs alive
-
-date: 2025-04-19, updated: 2025-04-19, from: The LAist
-
-Supporters of the Japanese American National Museum have stepped up with donations. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/doge-cuts-arts-humanities-little-tokyo-japanese-american-museum>
-
----
-
-## You can make reservations for LA Times Festival of Books panels starting Sunday
-
-date: 2025-04-19, updated: 2025-04-19, from: The LAist
-
-At the Los Angeles Times Festival of Books, admission to panels with popular authors goes fast, so make a plan for the reservations you most want to secure at the 2025 event on the USC campus. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/la-times-festival-of-books-panels-open-sunday>
-
----
-
-## Coachella began as a typo. Here's what happened next
-
-date: 2025-04-19, updated: 2025-04-19, from: The LAist
-
-When you think of Coachella, you probably picture the music festival. But there's much more to know about the place it calls home. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/coachella-began-as-a-typo-heres-what-happened-next>
-
----
-
-## Go Fact Yourself quiz for April 19
-
-date: 2025-04-19, updated: 2025-04-19, from: The LAist
-
-Our celebrity panelists Tim Russ and Amber Nelson go head to head this week on their knowledge of World War II and the TV show 'The Twilight Zone.' Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-april-19>
-
----
-
-## UCLA faculty say top leaders need to do more to defend immigrant students
-
-date: 2025-04-19, updated: 2025-04-19, from: The LAist
-
-The faculty association responded after a UCLA grad student was detained by federal agents at Mexico border. 
-
-<br> 
-
-<https://laist.com/news/education/ucla-faculty-leaders-immigrant-students-trump-visa>
 

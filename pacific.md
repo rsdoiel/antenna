@@ -1,11 +1,341 @@
 ---
 title: pacific
-updated: 2025-04-26 14:07:38
+updated: 2025-04-27 06:07:56
 ---
 
 # pacific
 
-(date: 2025-04-26 14:07:38)
+(date: 2025-04-27 06:07:56)
+
+---
+
+## Oahu halau wins Merrie Monarch hula competition
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>The top two finishers in the 62nd Annual Merrie Monarch Festival hula competition were wahine groups.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/hawaii-news/oahu-halau-wins-merrie-monarch-hula-competition/>
+
+---
+
+## Hawaii lawmakers scurry to advance flurry of bills past key deadline
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii lawmakers made many compromises to position bills for potential passage this week while other measures fell to the wayside at the state Capitol on Friday, a pivotal deadline for over 150 pieces of legislation this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/hawaii-news/hawaii-lawmakers-scurry-to-advance-flurry-of-bills-past-key-deadline/>
+
+---
+
+## Volcano resident helped guide the first Earth Day
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>Fifty-five years ago, on April 22, 1970, the world took note of its burning rivers and acrid air. An overdue shift in perception about the environment had arrived, and Earth Day was born.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/hawaii-news/volcano-resident-helped-guide-the-first-earth-day/>
+
+---
+
+## Man faces numerous charges after allegedly holding ex-girlfriend hostage
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>A 31-year-old Hawaiian Beaches man faces 18 charges &#8212; 16 of them firearms-related felonies &#8212; after his ex-girlfriend reported to police that he held her hostage for 10 days after she went to his home to retrieve her belongings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/hawaii-news/man-faces-numerous-charges-after-allegedly-holding-ex-girlfriend-hostage/>
+
+---
+
+## Volcano Watch: Remembering Mauna Loa’s 2022 eruption onset
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>As people from around the world are captivated by episodic lava fountaining during the ongoing Kilauea eruption in Halema&#8216;uma&#8216;u, let&#8217;s use the current pause and transition our attention back to the details of another recent eruption&#8212;Mauna Loa in 2022.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/features/volcano-watch-remembering-mauna-loas-2022-eruption-onset/>
+
+---
+
+## International students worry even as Trump temporarily restores some legal statuses
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>When Karl Molden, a sophomore at Harvard University from Vienna, learned that the Trump administration had abruptly restored thousands of international students&#8217; ability to legally study in the United States, he said he did not feel reassured.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/nation-world-news/international-students-worry-even-as-trump-temporarily-restores-some-legal-statuses/>
+
+---
+
+## Pope Francis, who sought a more pastoral church, laid to rest in a majestic ceremony
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; In a solemn and majestic funeral on the steps of St. Peter&#8217;s Basilica, the Roman Catholic Church on Saturday laid to rest Pope Francis, the first South American pope, whose simple style, pastoral vision and outsize footprint on the world stage reinvigorated and divided the institution that he led for a dozen years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/nation-world-news/pope-francis-who-sought-a-more-pastoral-church-laid-to-rest-in-a-majestic-ceremony/>
+
+---
+
+## ‘They see things no one should see’: Book by UH Hilo professor being used to help first responders
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>First responders are learning about the surprising causes and unique therapies for challenges prevalent among their community thanks to workshops in Hilo and Kona that derive treatment strategies from a new book.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/hawaii-news/they-see-things-no-one-should-see-book-by-uh-hilo-professor-being-used-to-help-first-responders/>
+
+---
+
+## Steves: Feeling Barcelona’s creative pulse
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>If you&#8217;re in the mood to surrender to a city&#8217;s charms, let it be in Barcelona. Life bubbles in its narrow old town alleys, grand boulevards, and elegant modern district. While Barcelona has an illustrious past &#8212; from Roman colony to 14th-century maritime power &#8212; it&#8217;s enjoyable to throw out the history books and just drift through the city.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/features/steves-feeling-barcelonas-creative-pulse/>
+
+---
+
+## Trump meets with Zelenskyy in Vatican City, White House says
+
+date: 2025-04-27, from: Hawaii Tribune Harold
+
+
+				<p>ROME &#8212; President Donald Trump met privately with President Volodymyr Zelenskyy of Ukraine on Saturday in Vatican City, the White House said, the first time the two leaders have met since their televised argument in late February in the Oval Office exacerbated the deep breach between the two countries.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/27/nation-world-news/trump-meets-with-zelenskyy-in-vatican-city-white-house-says/>
+
+---
+
+## Trump budget to take ax to ‘radical’ safety net programs
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (NYT) &#8212; The Trump administration, which has made clear that it aims to slash government spending, is preparing to unveil a budget proposal as soon as next week that includes draconian cuts that would entirely eliminate some federal programs and fray the nation&#8217;s social safety net.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/trump-budget-to-take-ax-to-radical-safety-net-programs/>
+
+---
+
+## Hegseth’s personal phone use created vulnerabilities, analysts say
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Defense Secretary Pete Hegseth&#8217;s personal phone number, the one used in a recent Signal chat, was easily accessible on the internet and public apps as recently as March, potentially exposing national security secrets to foreign adversaries.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/hegseths-personal-phone-use-created-vulnerabilities-analysts-say/>
+
+---
+
+## Wisconsin judge arrested, accused of shielding immigrant from federal agents
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>FBI agents arrested a Milwaukee County judge on Friday on charges of obstructing immigration agents, saying she steered an immigrant through a side door in her courtroom while the agents waited to arrest him in a public hallway.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/wisconsin-judge-arrested-accused-of-shielding-immigrant-from-federal-agents/>
+
+---
+
+## Sports wagering dead this legislative session
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>Sports wagering will not become legal in Hawaii this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/hawaii-news/sports-wagering-dead-this-legislative-session/>
+
+---
+
+## A faithful throng pays last respects to Pope Francis
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; The doors opened to St. Peter&#8217;s Basilica at 5:40 a.m. Friday, and people immediately began to trickle in to pay their respects to Pope Francis, whose body lay beneath the vast dome designed by Michelangelo. A couple hours later, the trickle was a river, as thousands moved through the basilica on the last day they could say goodbye to the pontiff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/a-faithful-throng-pays-last-respects-to-pope-francis/>
+
+---
+
+## Senior Russian officer killed in car explosion near Moscow
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>A senior Russian military commander was killed Friday in a car explosion in a Moscow suburb, investigators said, the latest in a series of apparent assassinations targeting Ukraine&#8217;s opponents inside Russia that have come as ceasefire talks show few signs of progress.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/senior-russian-officer-killed-in-car-explosion-near-moscow/>
+
+---
+
+## 19 states sue the Trump administration over its DEI demand in schools
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>A coalition of 19 states sued the Trump administration Friday over its threat to withhold federal funding from states and districts with certain diversity programs in their public schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/19-states-sue-the-trump-administration-over-its-dei-demand-in-schools/>
+
+---
+
+## Disgraced Santos is given a 7-year prison sentence to cap his fall
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>CENTRAL ISLIP, NY. &#8212; Former Rep. George Santos, R-N.Y., whose outlandish fabrications and criminal schemes fueled an unforeseen rise and spectacular fall, was sentenced to more than seven years in federal prison Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/disgraced-santos-is-given-a-7-year-prison-sentence-to-cap-his-fall/>
+
+---
+
+## Mangione pleads not guilty as US seeks death penalty
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The judge overseeing the federal prosecution of Luigi Mangione, the man accused of killing a health insurance executive in Manhattan, on Friday warned the U.S. attorney general to keep quiet about him to ensure a fair trial</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/mangione-pleads-not-guilty-as-us-seeks-death-penalty/>
+
+---
+
+## Puna murder suspect charged, victim ID’d
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>Police on Saturday charged a 42-year-old Pahoa woman with murder after a reported domestic dispute late Thursday night in Nanawale Estates resulted in the death of a 45-year-old man.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/hawaii-news/puna-murder-suspect-charged-victim-idd/>
+
+---
+
+## UOG study: two banana types ideal for commercial production in Guam 
+
+date: 2025-04-26, from: Pacific Island Times
+
+The study found that Fiji and Saba have highly marketable qualities, favorable yields and can be sustainably produced in Guam’s conditions without the use of pesticides. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/uog-study-two-banana-types-ideal-for-commercial-production-in-guam>
+
+---
+
+## Kapiʻolani CC culinary graduates serve inspiration at women’s correctional center
+
+date: 2025-04-26, from: University of Hawaiʻi News
+
+<p><span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> grads help incarcerated moms and kids bond through food and shared hope.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/25/kapiolani-cc-culinary-wccc-kids-day/">Kapiʻolani <abbr>CC</abbr> culinary graduates serve inspiration at women’s correctional center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/25/kapiolani-cc-culinary-wccc-kids-day/>
+
+---
+
+## UH alumni businesses, more, shine at Merrie Monarch Festival
+
+date: 2025-04-26, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> grads turn passion into thriving businesses at Merrie Monarch’s celebration of culture and creativity.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/25/uh-alumni-shine-at-merrie-monarch/"><abbr>UH</abbr> alumni businesses, more, shine at Merrie Monarch Festival</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/25/uh-alumni-shine-at-merrie-monarch/>
+
+---
+
+## Eggs and graves 
+
+date: 2025-04-26, from: The Husk
+
+Weekender #55 
+
+<br> 
+
+<https://thehusk.substack.com/p/eggs-and-graves>
 
 ---
 
@@ -616,6 +946,18 @@ Garrett Fong, director of the U.S. Indo-Pacific Joint Posture Management Office,
 
 ---
 
+## 5 POOL TRENDS MAKING WAVES IN 2025
+
+date: 2025-04-25, updated: 2025-04-25, from: Marianas Variety
+
+(NewsUSA) - Backyards are getting a serious glow-up—and pools are leading the charge. From modern designs with resort-worthy features to automation that practically runs the show, today’s pools are all about style and simplicity. The best part? They're easier than ever to own with less upkeep and more “ahhh.” 
+
+<br> 
+
+<https://www.mvariety.com/online_features/home_decorating/5-pool-trends-making-waves-in-2025/article_b1ac5d1e-2dcb-534e-90c6-ca1be5568f6b.html>
+
+---
+
 ## UH Mānoa swimmer earns academic honors
 
 date: 2025-04-25, from: University of Hawaiʻi News
@@ -719,6 +1061,54 @@ date: 2025-04-24, from: INSIGHTS ON PBS HAWAIʻI
 <br> 
 
 <https://www.pbshawaii.org/ag-crime/>
+
+---
+
+## Red flag at 1 Tinian site
+
+date: 2025-04-24, updated: 2025-04-27, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Tinian's recreational beaches and storm drainages this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flag-at-1-tinian-site/article_21f87565-9cef-42a9-a1f2-9a2cbe3405fb.html>
+
+---
+
+## Trump’s cabinet ready to reassert power as Musk steps back
+
+date: 2025-04-24, updated: 2025-04-27, from: Marianas Variety
+
+WASHINGTON (Reuters) — Members of President Donald Trump's cabinet will likely move to limit the influence of Department of Government Efficiency employees and reassert control over budgets and staffing once Elon Musk steps back from DOGE, two government sources with direct knowledge of the matter said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-s-cabinet-ready-to-reassert-power-as-musk-steps-back/article_2e85e9bd-c9e3-484a-ac35-f12fc8380a3f.html>
+
+---
+
+## Guam Chamber of Commerce says government spending threat to stability, urges tax rollback
+
+date: 2025-04-24, updated: 2025-04-27, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The local business community continues to struggle, according to the Guam Chamber of Commerce, which is once again seeking a rollback of the business privilege tax or BPT to help provide some much-needed relief. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-chamber-of-commerce-says-government-spending-threat-to-stability-urges-tax-rollback/article_a1f402f6-a0b9-48a9-bf73-e2dcdf4d7476.html>
+
+---
+
+## Palau abstains from UN resolution citing Russian aggression
+
+date: 2025-04-24, updated: 2025-04-27, from: Marianas Variety
+
+KOROR/NEW YORK (Island Times/Pacnews) — Palau abstained from a United Nations General Assembly vote on April 16 on a resolution that referenced Russian aggression against Ukraine and Georgia. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-abstains-from-un-resolution-citing-russian-aggression/article_224ce8ca-9076-4dc3-8108-6aac24c78b41.html>
 
 ---
 
@@ -2692,144 +3082,4 @@ date: 2025-04-20, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/20/features/how-to-build-a-beach-pohoiki-growth-over-the-years/>
-
----
-
-## Risk of financial panic tempers Trump on firing Powell
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump this week revived a long-standing threat against Jerome Powell when he accused the Federal Reserve chair of &#8220;playing politics&#8221; and moving too slowly to lower interest rates. But privately, according to people close to Trump, the president has for months been aware that trying to oust Powell could inject more volatility into jittery financial markets.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/risk-of-financial-panic-tempers-trump-on-firing-powell/>
-
----
-
-## School vouchers won in Texas. Next up, the nation.
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>With a big win for school vouchers in Texas in the early hours of Thursday morning, the private-school choice movement conquered the last major Republican-led state.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/school-vouchers-won-in-texas-next-up-the-nation/>
-
----
-
-## UH loses $30M in federal funds; 36 research programs to be cut
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>The University of Hawaii announced Thursday it has lost $30 million in federal funding for research, just as the school sees the number of revoked student visas &#8220;literally (change) by the hour,&#8221; according to a Thursday announcement made by UH President Wendy Hensel.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/hawaii-news/uh-loses-30m-in-federal-funds-36-research-programs-to-be-cut/>
-
----
-
-## Latest tourism agency allegations draw varied responses
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>It is unclear how the Hawai&#8216;i Tourism Authority board will deal with concerns over late payments to contractors and state probes to determine whether the agency committed procurement or ethics violations.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/hawaii-news/latest-tourism-agency-allegations-draw-varied-responses/>
-
----
-
-## US strikes on Yemeni port kill dozens, Houthis say
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>JERUSALEM &#8212; The latest round of U.S. airstrikes against the Iran-backed Houthi militia in Yemen has killed dozens of people in bombardments targeting a port in the country&#8217;s northwest, the Houthis said Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/us-strikes-on-yemeni-port-kill-dozens-houthis-say/>
-
----
-
-## Chinatown merchants in the US are feeling the bite of tariffs
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>Last week, a pack of rice crackers at Sun Vin Grocery store on Mulberry Street in New York City&#8217;s Chinatown cost $4.99.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/chinatown-merchants-in-the-us-are-feeling-the-bite-of-tariffs/>
-
----
-
-## Merger of Capital One and Discover, two credit card giants, wins approval
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>Two of the country&#8217;s largest credit card companies are poised to merge after key banking regulators approved the deal Friday, despite concern among some advocacy groups and lawmakers that it could lead to higher fees and less choice for consumers.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/merger-of-capital-one-and-discover-two-credit-card-giants-wins-approval/>
-
----
-
-## Lawyers urge courts to halt imminent deportation of migrants under wartime law
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>Lawyers for the American Civil Liberties Union pressed on multiple fronts late Friday to stop the Trump administration from deporting another group of Venezuelan migrants accused of being gang members under the expansive powers of a rarely invoked wartime law.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/lawyers-urge-courts-to-halt-imminent-deportation-of-migrants-under-wartime-law/>
-
----
-
-## Maryland deportee told senator he had been in isolation in El Salvador prison
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Sen. Chris Van Hollen said Friday that Kilmar Abrego Garcia, the Maryland man mistakenly deported by the Trump administration, reported having been traumatized inside a maximum-security prison in El Salvador before being transferred to another detention facility, where he remains in isolation.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/nation-world-news/maryland-deportee-told-senator-he-had-been-in-isolation-in-el-salvador-prison/>
-
----
-
-## Tropical Gardening: Celebrate Easter with a gift of life
-
-date: 2025-04-19, from: Hawaii Tribune Harold
-
-
-				<p>Easter reminds us that life is a cycle of what appears to be death and rebirth. In cooler climates, it is what we learn by observing plants that go dormant in the winter only to sprout anew in the spring. Bulbs like crocus and daffodils are examples.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/19/features/tropical-gardening-celebrate-easter-with-a-gift-of-life-2/>
 

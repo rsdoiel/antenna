@@ -1,11 +1,71 @@
 ---
 title: science and technology
-updated: 2025-04-26 14:07:39
+updated: 2025-04-27 06:07:57
 ---
 
 # science and technology
 
-(date: 2025-04-26 14:07:39)
+(date: 2025-04-27 06:07:57)
+
+---
+
+## Trump’s 145% tariffs could KO tabletop game makers, other small biz, lawsuit claims
+
+date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
+
+<h4>One eight-person publisher says it&#39;ll be forced to pay $1.5M</h4> <p><strong>WORLD WAR FEE</strong>  The Trump administration&#39;s tariffs are famously raising the prices of high-ticket products with lots of chips, like iPhones and cars, but they&#39;re also hurting small businesses like game makers. In this case, we&#39;re not talking video games, but the old-fashioned kind you play at your kitchen table.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/game_makers_small_businesses_sue_tariffs/>
+
+---
+
+## Build your own antisocial writing rig with DOS and a $2 USB key
+
+date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
+
+<h4>Reg hack pines for simpler times, then tries to recapture them</h4> <p>Sometimes, the size and complexity of modern OSes – even the FOSS ones – is enough to make us miss the days when an entire bootable OS could fit in three files, when configuring a PC for production meant editing two plain-text files, which contained maybe a dozen lines each. DOS couldn&#39;t do very much, but the little it did was enough. From the early 1980s for a decade or two, much of the world ran on DOS. Then Windows 3 came along, which is arguably the point where the rot set in.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/dos_distraction_free_writing/>
+
+---
+
+## UK bans game controller exports to Russia in bid to ground drone attacks
+
+date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
+
+<h4>Moscow likely to respawn elsewhere</h4> <p>The British government is banning the export of video game controllers to Russia, claiming these can be repurposed for piloting drones on the frontline in Ukraine.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/uk_russia_controller_drone_attack/>
+
+---
+
+## AI-powered 20 foot robots coming for construction workers' jobs
+
+date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
+
+<h4>Er, are we sure we want to outsource the welding?</h4> <p><strong>Rise of the machines</strong>  Construction workers could soon find themselves laboring alongside 20-foot (6 meter) tall AI-powered autonomous robots capable of welding, carpentry, and 3D printing buildings. What could possibly go wrong?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/aipowered_robots_construction/>
+
+---
+
+## Earth Science Showcase – Kids Art Collection
+
+date: 2025-04-26, from: NASA breaking news
+
+On April 16, 2025, the Earth Science Division at NASA&#8217;s Ames Research Center in Silicon Valley held an Earth Science Showcase to share its work with the center and their families. As part of this event, kids were invited to share something they like about the Earth. These are their masterpieces. Sora U. Age 9. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/art-showcase/>
 
 ---
 
@@ -1818,64 +1878,4 @@ NASA astronaut Don Pettit returned to Earth Saturday, accompanied by Roscosmos c
 <br> 
 
 <https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/>
-
----
-
-## HP settles fake discount lawsuit for just $4M. Don’t expect much of a payout
-
-date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
-
-<h4>When it comes to sales and rebates, PC giant takes &#39;Keep Reinventing&#39; seriously</h4> <p>HP Inc has agreed to pay $4 million to settle a class-action lawsuit in the US that alleged it used deceptive pricing tactics on its website, including fake discounts and misleading limited-time offers.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/19/hp_deceptive_pricing_lawsuit/>
-
----
-
-## Blue95 Topanga released with Paint and Plus! clones
-
-date: 2025-04-19, from: OS News
-
-Only a few weeks ago we talked about Blue95, a Fedora-based distribution focused on bringing the Windows 95 look to the Linux world by integrating a set of existing Windows 95 Xfce themes. Since Fedora 42 has just been released, the Blue95 project also pushed out a new release, called Blue95 Topanga. It brings with it all the improvements from Fedora 42, but also goes a step further be integrating new applications to further add to the Windows 95 vibe. First, there&#8217;s Winblues Paint, a faithful recreation of Windows 95&#8217;s Paint, using jspaint.app. Second, they&#8217;ve recreated the classic Plus! experience with Chicago95 Plus!, a tool that allows you to take any existing Windows 95/98/ME/XP theme and apply it as-is on Xfce. Topanga also further improves the theming experience with custom Windows 95 icons for LibreOffice as well as custom themes for Audacious and Flatpost, a desktop-agnostic Flatpak client. I adore that this project aims to be more than just a vessel for the existing Chicago95 theme, and in fact goes so far as to create its own applications. I hope this continues from here on out and doesn&#8217;t fizzle out. 
-
-<br> 
-
-<https://www.osnews.com/story/142161/blue95-topanga-released-with-paint-and-plus-clones/>
-
----
-
-## LXQt 2.2.0 released
-
-date: 2025-04-19, from: OS News
-
-LXQt, the Qt-based alternative to KDE as Xfce is the GTK-based alternative to GNOME, has released version 2.2.0. LXQt is in the middle of its transition to Wayland, and as such, this release brings a number of fixes and improvements for Wayland, like improved multi-display support and updated compatibility with Wayland compositors. Beyond all the Wayland work, LXQt Power Management now supports power profiles, text rendering in QTerminal and QTermWidget has been improved, the file manager PCManFM-Qt has received a whole slew of new features, and there&#8217;s the usual smaller bug fixes and changes. 
-
-<br> 
-
-<https://www.osnews.com/story/142158/lxqt-2-2-0-released/>
-
----
-
-## Hacking US crosswalks to talk like Zuck is as easy as 1234
-
-date: 2025-04-19, updated: 2025-04-21, from: The Register (UK I.T. News)
-
-<h4>AI-spoofed Mark joins fellow billionaires as the voice of the street – here&#39;s how it was probably done</h4> <p><strong>Video</strong>  Crosswalk buttons in various US cities were hijacked over the past week or so to – rather than robotically tell people it&#39;s safe to walk or wait – instead emit the AI-spoofed voices of Jeff Bezos, Elon Musk, and Mark Zuckerberg.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/19/us_crosswalk_button_hacking/>
-
----
-
-## What to do once your Surface Hub v1 becomes an 84-inch, $22K paperweight
-
-date: 2025-04-19, updated: 2025-04-19, from: The Register (UK I.T. News)
-
-<h4>Oh. You expected serious suggestions?</h4> <p>It isn&#39;t just devices unable to upgrade to Windows 11 that are headed to digital landfill this year. The first version of Microsoft&#39;s Surface Hub is also destined for the tech trashcan as Windows 10 support ends. So, what do you do with a big black wall ornament?…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/19/microsoft_surface_hub_v1/>
 

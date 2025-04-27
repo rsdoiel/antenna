@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-04-26 14:07:41
+updated: 2025-04-27 06:07:59
 ---
 
 # games
 
-(date: 2025-04-26 14:07:41)
+(date: 2025-04-27 06:07:59)
+
+---
+
+## The last Blue Prince secret? Sharp political commentary
+
+date: 2025-04-27, updated: 2025-04-25, from: Polygon Website
+
+In Blue Prince, you never see another person. There are no weapons, per se. You interact with the world only through your note-taking ability and your wits. It is, quintessentially, a puzzle game.&#160; And playing Blue Prince like it is just a puzzle game will get you to the credits. But that’s not the whole [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/565377/blue-prince-political-commentary-fascism>
+
+---
+
+## Pokémon Go Vanillite Community Day guide
+
+date: 2025-04-27, updated: 2025-04-25, from: Polygon Website
+
+Pokémon Go is having a Vanillite Community Day event on April 27 from 2-5 p.m. in your local time. As expected with a Community Day event, Vanillite will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. How [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/564859/vanillite-community-day-shiny-vanilluxe-moveset>
+
+---
+
+## ‘Paranoia’ walkthrough and all choice outcomes in Oblivion Remastered
+
+date: 2025-04-26, updated: 2025-04-26, from: Polygon Website
+
+“Paranoia” is a side quest in The Elder Scrolls 4: Oblivion Remastered about a Wood Elf who’s paranoid about a series of maybe-maybe-not stalkers. There are multiple ways this quest can play out, and the reward is a variable amount of gold You can actually completed “Paranoia” almost as soon as it starts, but if [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565714/paranoia-quest-walkthrough-choices-outcomes-all>
+
+---
+
+## All factions in Oblivion Remastered
+
+date: 2025-04-26, updated: 2025-04-26, from: Polygon Website
+
+Factions are as deep as the main story in The Elder Scrolls 4: Oblivion Remastered, if not more. Joining one of these groups throws your headlong into the daily lives of Tamriel’s people — the good, the bad, and the normal — gives you some exclusive quests, and, depending on the guild, rewards you with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565698/factions-list-all-join>
+
+---
+
+## Until Dawn’s best sequence pays homage to one of the game’s standout mechanics
+
+date: 2025-04-26, updated: 2025-04-25, from: Polygon Website
+
+The horror movie Until Dawn doesn’t exactly follow the video game it’s based on. In fact, it has an entirely new cast of characters and a totally different story. But that doesn’t mean the filmmakers abandoned their source material entirely. In fact, the movie’s scariest scene feels like it was pulled directly out of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/564733/until-dawn-best-scene-interview-wendigo>
+
+---
+
+## 7 tips from puzzle game developers on how to beat puzzle games
+
+date: 2025-04-26, updated: 2025-04-25, from: Polygon Website
+
+The puzzles of Blue Prince feel less like the gridlike blueprints you draft in the game and more like an intricate web. Even seasoned puzzle lovers might feel tested by its mysteries. In Blue Prince, you explore and construct a sprawling mansion estate room by room from a series of randomized blueprints. Each day (or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/562843/puzzle-game-dev-tips-how-to-solve-puzzles>
+
+---
+
+## How the Legend of Ochi director found his perfect throat-whistler
+
+date: 2025-04-26, updated: 2025-04-25, from: Polygon Website
+
+In A24’s new fantasy adventure movie The Legend of Ochi, the titular apelike creatures communicate via strange chirps and whistles. Their unique vocals become a pivotal plot point, especially after lonely 12-year-old Yuri (Helena Zengel) runs off to return a baby ochi to its colony deep in the forest. For the most part, people like Yuri’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/563844/legend-of-ochi-throat-whistler-vocals>
+
+---
+
+## Documenting Japan’s classic arcades before it’s too late
+
+date: 2025-04-26, updated: 2025-04-25, from: Polygon Website
+
+Depending who you ask, arcades have been dead or dying or on their last legs for… almost 40 years now. The reality is more complex, with new business models, barcades, bigger complexes like Dave &#38; Busters, and VR/immersive/experimental options taking their place.&#160; But the classic arcade, where you could drop a couple quarters to play [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/565005/japan-arcade-photography-book>
+
+---
+
+## The best horror movies to watch on Netflix this April
+
+date: 2025-04-26, updated: 2025-04-25, from: Polygon Website
+
+Spring is here, and for some that means it’s time to get outside and start enjoying the fresh air. If that doesn’t sound like you, then Netflix has quite a few great horror movies to fill your time with instead. This month, we handpicked a few of the best horror movies on Netflix that fit [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/564680/best-horror-movies-netflix-watch-april-2025>
 
 ---
 
@@ -978,64 +1086,4 @@ Marvel Rivals is doomed to forever be compared to Overwatch. It’s a team-based
 <br> 
 
 <https://www.polygon.com/gaming/557881/marvel-rivals-data-mining-overwatch-code>
-
----
-
-## This lesser-known Twilight Zone episode was a major inspiration on Ryan Coogler’s Sinners
-
-date: 2025-04-19, updated: 2025-04-19, from: Polygon Website
-
-Ryan Coogler, the Academy Award-nominated director of Creed and Black Panther, hasn’t been shy at all about citing the various inspirations behind his new horror thriller Sinners. In the weeks leading up to the film’s premiere, Coogler has been making the rounds along the press circuit, drumming up excitement and talking at length about the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/561594/sinners-twilight-zone-inspiration-last-rites-of-jeff-myrtlebank>
-
----
-
-## An animated episode of Doctor Who was a dream come true for its creators
-
-date: 2025-04-19, updated: 2025-04-18, from: Polygon Website
-
-When Polygon had a chance to video-chat with Doctor Who stars Ncuti Gatwa and Varada Sethu in advance of the new season, there was an experience that leapt out as their favorite: filming the animated sequences for this Saturday’s episode. Not recording — filming.&#160; “Shooting the animation was very fun,” Gatwa said, “because it was [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/tv/561655/doctor-who-animated-episode-sequence-how-mr-ring-a-ding>
-
----
-
-## Remembering the good old days, when game box art lied to us
-
-date: 2025-04-19, updated: 2025-04-18, from: Polygon Website
-
-Go back 30 or 40 years, and video game cover art had some clear issues. It didn’t always follow precise style guides. It was frequently made in a vacuum by someone who had no idea what the game looked like. It relied on limited concept art, data, and technology. And it often sold a fantasy [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/558797/video-game-box-art-book-interview>
-
----
-
-## The best sci-fi movies to watch on Netflix this April
-
-date: 2025-04-19, updated: 2025-04-18, from: Polygon Website
-
-There’s a lot of exciting new releases hitting theaters within the next month. Aside from Sinners, the new horror thriller from Black Panther director Ryan Coogler and starring Michael B. Jordan, we’ve got The Legend of Ochi, David Cronenberg’s The Shrouds, Thunderbolts*, and more. But if you’re looking for some great sci-fi to watch from [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/561061/best-sci-fi-movies-watch-netflix-april-2025>
-
----
-
-## Star Wars Zero Company, a turn-based game at the end of the Clone Wars, gets full reveal
-
-date: 2025-04-19, updated: 2025-04-19, from: Polygon Website
-
-Star Wars Zero Company, which one might colloquially refer to as “the XCOM Star Wars game,” got a full reveal today at a panel at Star Wars Celebration Japan. As for why one might refer to the game in that way, it’s because Greg Foertsch — the CEO and Creative Director of Bit Reactor, which [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/star-wars/560074/star-wars-zero-company-xcom-game-reveal>
 

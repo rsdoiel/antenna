@@ -1,11 +1,107 @@
 ---
 title: libraries
-updated: 2025-04-26 14:07:42
+updated: 2025-04-27 06:08:01
 ---
 
 # libraries
 
-(date: 2025-04-26 14:07:42)
+(date: 2025-04-27 06:08:01)
+
+---
+
+## Evaluating methods to estimate the water equivalent of new snow from daily snow depth recordings
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Magnusson J.; Cluzet B.; Quéno L.; Mott R.; Oberrauch M.; Mazzotti G.; Marty C.; Jonas T. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/723732>
+
+---
+
+## Air Demand and Flow Patterns of Low-Level Outlets: Accounting for Wall Roughness
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Pagliara, Simone; Felder, Stefan; Hohermuth, Benjamin; Boes, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/725243>
+
+---
+
+## Ice core dating with the ³⁶Cl/¹⁰Be ratio
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Kappelt, Niklas; Muscheler, Raimund; Baroni, Mélanie; Beer, Juerg; Christl, Marcus; Vockenhuber, Christof; Bard, Edouard; ASTER Team; Wolff, Eric 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/725641>
+
+---
+
+## 3 MV accelerator mass spectrometry measurements of <sup>36</sup>Cl using the Isobar Separator for Anions
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Flannigan E.L.; Kieser W.E.; Crann C.A.; Vockenhuber C.; Francisco B.B.A. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/729254>
+
+---
+
+## Diffusion Based Robust LiDAR Place Recognition
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Krummenacher, Benjamin; Frey, Jonas; Tuna, Turcan; Vysotska, Olga; Hutter, Marco 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/731758>
+
+---
+
+## Exploring the biomechanical link between wheelchair propulsion, shoulder injury and shoulder pain: A scoping review
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Salzmann I.P.; Rietveld T.; Togni R.; Briley S.J.; Goosey-Tolfrey V.L.; de Vries W.H.K.; Vegter R.J.K. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/731984>
+
+---
+
+## Whole-Body End-Effector Pose Tracking
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Portela, Tifanny 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732767>
+
+---
+
+## How Prostate Cancer Growth Patterns Impact Detection and Interreader Agreement on Multiparametric MRI
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M.; Gampp C.; Hefermehl L.; Kubik-Huch R.A.; Singer G.; Burger I.A. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732786>
 
 ---
 

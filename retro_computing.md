@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-04-26 14:07:44
+updated: 2025-04-27 06:08:02
 ---
 
 # retro computing
 
-(date: 2025-04-26 14:07:44)
+(date: 2025-04-27 06:08:02)
+
+---
+
+## Rabbit Software's Death Star
+
+date: 2025-04-26, from: Computer ads from the Past
+
+Attila the Hun. Ivan the Terrible. Count Dracula. The Daleks. More evil then all of them put together. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/rabbit-softwares-death-star>
+
+---
+
+## b.log 2025/04/26 - The Pope's funeral, Washing machine, Rinse and repeat, Mowing, Crisps, Crisis averted!, Giving up personal information 'because children', Bait and switch, Chip weight, Maths fail.
+
+date: 2025-04-26, from: Richard Murray's blog
+
+The Pope's funeral, Washing machine, Rinse and repeat, Mowing, Crisps, Crisis averted!, Giving up personal information 'because children', Bait and switch, Chip weight, Maths fail. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250426>
+
+---
+
+## Talking TWimp with MUG – 29th April
+
+date: 2025-04-26, from: RiscOS Story
+
+If you aren&#8217;t aware, there&#8217;s a new development tool in town, called TWimp, which makes writing multitasking applications for much easier than ever before. The software, from Graeme Shrimpton, takes care of most of the work involved in handling windows and icons by allowing all of that to be defined separately in a text file. This means the programmer doesn&#8217;t have to devote so much time (and code) to dealing with all that, and can instead concentrate on writing their core application. John Rickman of the Midlands User Group (MUG)&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/talking-twimp-with-mug-29th-april/>
 
 ---
 
@@ -713,40 +749,4 @@ In the meantime, if you want to try this on other operating systems, the system-
 <br> 
 
 <https://oldvcr.blogspot.com/2025/04/lets-give-provenix-barely-adequate-pre.html>
-
----
-
-## HX DOS extender 2.22
-
-date: 2025-04-19, from: FreeDOS News
-
-<div class="markdown_content"><p>HX DOS-Extender is a free DOS extender with built-in Win32 PE file format support. Its Win32 API emulation layer allows many Win32 console applications to run in DOS. It also has limited window support, which allows "simple" Win32 GUI apps to run in DOS as well. Andreas recently shared a new update to HX DOS extender. Version 2.22 fixes several bugs. You can find it at <a class="" href="https://github.com/Baron-von-Riedesel/HX/releases/tag/v2.22" rel="nofollow">HX DOS-Extender on GitHub</a>.</p></div> 
-
-<br> 
-
-<https://sourceforge.net/p/freedos/news/2025/04/hx-dos-extender-222-456/>
-
----
-
-## System Speed Test now under the GNU GPL
-
-date: 2025-04-19, from: FreeDOS News
-
-<div class="markdown_content"><p>Robert Riebisch recently announced that 'System Speed Test' aka SPEEDSYS has been released under GNU GPL. Robert reached out to Vladimir Afanasiev to ask if the source code to SPEEDSYS could be released under an open source license, and Vladimir agreed! SPEEDSYS is now available under the GNU General Public License version 2, although not all of the source files have been updated to reflect the new license yet. You can find it at <a class="" href="https://github.com/bttrx/speedsys/tree/main" rel="nofollow">SPEEDSYS on GitHub</a>.</p></div> 
-
-<br> 
-
-<https://sourceforge.net/p/freedos/news/2025/04/system-speed-test-now-under-the-gnu-gpl/>
-
----
-
-## MTU Micro Technology Unlimited pages updated
-
-date: 2025-04-19, from: Hans Otten's Retro blog
-
-The MTU pages have been updated. &#8211; New are 8 documents on the MT-130 page, like DISKEX (file exchange with e.g. CP/M), Wordpic, Forth 79, later version of the Full Screen editor. &#8211; The K-1013 Dual density floppy controller has its own page now, with new information &#8211; The MT-130 is emulated on Mame &#8211; [&#8230;] 
-
-<br> 
-
-<http://retro.hansotten.nl/mtu-micro-technology-unlimited-pages-updated/>
 

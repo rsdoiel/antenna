@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-04-26 14:07:45
+updated: 2025-04-27 06:08:03
 ---
 
 # food
 
-(date: 2025-04-26 14:07:45)
+(date: 2025-04-27 06:08:03)
+
+---
+
+## It’s A Coffee Party, Who Could Ask For More?
+
+date: 2025-04-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/its-a-coffee-party-who-could-ask-for-more-322155.html>
+
+---
+
+## 37 Summer Cocktails for Maximum Chill
+
+date: 2025-04-26, from: Bon Appetet
+
+Crushed raspberries and beer, vermouth sangria, a hot pink watermelon punch, and more cooling sips for summertime. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/summer-cocktails-recipes-ideas>
 
 ---
 
@@ -1254,18 +1278,4 @@ date: 2025-04-20, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/easter-leftovers-recipes/>
-
----
-
-## What Are the Stringy Things in Avocados?
-
-date: 2025-04-19, from: Taste of Home
-
-<p>Cut into a beautiful green avocado only to find strings laced through it? Here's what they are and whether they're safe to eat.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/stringy-avocados/">What Are the Stringy Things in Avocados?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/article/stringy-avocados/>
 

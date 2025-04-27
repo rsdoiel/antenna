@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-04-26 14:07:43
+updated: 2025-04-27 06:08:02
 ---
 
 # motorcycles
 
-(date: 2025-04-26 14:07:43)
+(date: 2025-04-27 06:08:02)
+
+---
+
+## Harley Board Nominates Board Member to Replace Dude Who Resigned in Protest
+
+date: 2025-04-27, from: Ride Apart, Electric Motorcycle News
+
+H Partners Management is still fighting its proxy war, however.  
+
+<br> 
+
+<https://www.rideapart.com/news/757774/harley-davidson-nominates-board-member-lori-flees-jared-dourdeville/>
+
+---
+
+## Jeb Burton Frustrated Following Photo-Finish Call at Talladega
+
+date: 2025-04-26, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Jeb Burton had family, friends and team to console after losing Saturday&#8217;s Xfinity race under caution. The result came after minutes of NASCAR reviewing the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jeb-burton-frustrated-following-photo-finish-call-at-talladega/>
+
+---
+
+## Tighter Relationship with RCR Causing Kaulig Racing Gains, Says Allmendinger
+
+date: 2025-04-26, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Kaulig Racing saw a complete driver shake-up for 2025. Out was Daniel Hemric, in was AJ Allmendinger and Ty Dillon. For the first time since&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/tighter-relationship-with-rcr-causing-kaulig-racing-gains-says-allmendinger/>
+
+---
+
+## Cleetus McFarland Sees Potential in Driver Vlogs: ‘The Audience is Begging For It’
+
+date: 2025-04-26, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer The 2025 NASCAR season has seen the entrance of arguably the most influential driver from the social media realm turn laps on a racetrack in&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/cleetus-mcfarland-sees-potential-in-driver-vlogs-the-audience-is-begging-for-it/>
+
+---
+
+## KTM’s Factory Racing Tour Is Somehow Still Happening, Despite it Closing the Factory
+
+date: 2025-04-26, from: Ride Apart, Electric Motorcycle News
+
+The first one is already sold out, but there’s a second one slated for July, and I’d say go for it while you still can. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757686/ktm-factory-racing-tour-2025-announcement/>
 
 ---
 
@@ -482,29 +543,4 @@ It’ll cater to growing demand for small scooters and commuters in Europe.
 <br> 
 
 <https://www.rideapart.com/news/757032/peugeot-kisbee-spinoff-scooter-brand-launched/>
-
----
-
-## The DAB 1α X Is a Badass Electric Dual Sport Motorcycle That’s Way Too Expensive
-
-date: 2025-04-19, from: Ride Apart, Electric Motorcycle News
-
-It’s a hard sell starting at $16K. 
- 
-
-<br> 
-
-<https://www.rideapart.com/news/757033/dab-1ax-electric-scrambler-badass-too-expensive/>
-
----
-
-## 2025 ARCA West at Tucson: Team Reactions and Analysis
-
-date: 2025-04-19, from: Kickin the Tires blog
-
-By Vincent Delforge, Staff Writer The third race of the 2025 season, the ARCA Menards Series 150 presented by the West Coast Stock Car Motorsports Hall of Fame, took place&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/2025-arca-west-at-tucson-team-reactions-and-analysis/>
 

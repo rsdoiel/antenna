@@ -1,11 +1,157 @@
 ---
 title: journalism
-updated: 2025-04-26 14:07:42
+updated: 2025-04-27 06:07:59
 ---
 
 # journalism
 
-(date: 2025-04-26 14:07:42)
+(date: 2025-04-27 06:07:59)
+
+---
+
+## Deep dive with student singer-songwriter Michele Lu
+
+date: 2025-04-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Rhythm and News assistant editor Alison Mitchell speaks to popular music major and singer-songwriter Michele Lu about her musical inspirations, live performances and more.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/26/deep-dive-with-student-singer-songwriter-michele-lu/">Deep dive with student singer-songwriter Michele Lu</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/26/deep-dive-with-student-singer-songwriter-michele-lu/>
+
+---
+
+## Daily Bruin Spotlight: Episode 2
+
+date: 2025-04-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Hosts Reid Sperisen, Adam Kakuk and Aisosa Onaghise cover new student film projects, standout TV premieres, Coachella highlights and fresh additions to the Los Angeles restaurant scene. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/26/daily-bruin-spotlight-episode-2/>
+
+---
+
+## Gallery: Coachella weekend 2 showcases variety of performances, excites festival goers
+
+date: 2025-04-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Coachella Valley Music and Arts Festival highlighted a wide variety of performances including JENNIE, The Marias, ENHYPEN and Junior H. Stage sets featured colorful lights and vibrant designs. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/26/gallery-coachella-weekend-2-showcases-variety-of-performances-excites-festival-goers/>
+
+---
+
+## Santa Clarita hosts an electronic waste disposal event
+
+date: 2025-04-27, from: The Canyon News (COC Student Newspaper)
+
+<p>Over 35 million tons of hazardous waste are improperly disposed of each&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/electronic-waste/">Santa Clarita hosts an electronic waste disposal event</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/electronic-waste/>
+
+---
+
+## Theater review: ‘Furlough’s Paradise’ embrace of intimacy through script, set design moves viewers
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead.
+&#8220;Furlough&#8217;s Paradise&#8221; reminds viewers &#8211; through the intimacy of the stage &#8211; to hold loved ones as tight as possible.
+After its world premiere at Atlanta&#8217;s Alliance Theatre in 2024, &#8220;Furlough&#8217;s Paradise&#8221; has found its newest home at Geffen Playhouse&#8217;s Gil Cates Theater, where it will run until May 18. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/26/theater-review-furloughs-paradise-embrace-of-intimacy-through-script-set-design-moves-viewers/>
+
+---
+
+## Local residents roll up their sleeves to make a difference on Earth Day
+
+date: 2025-04-26, from: The Canyon News (COC Student Newspaper)
+
+<p>This Earth Day, Santa Clarita residents are getting their hands dirty by&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/earth-day/">Local residents roll up their sleeves to make a difference on Earth Day</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/earth-day/>
+
+---
+
+## Former UCLA child care teacher convicted on 9 counts of child sexual abuse
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor’s note: This article includes descriptions of child sexual abuse.
+A jury convicted a former UCLA Early Care and Education center teacher Friday of nine counts of child sexual abuse. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/former-ucla-child-care-teacher-convicted-on-9-counts-of-child-sexual-abuse/>
+
+---
+
+## LA City Attorney declines to file criminal charges on most arrests at encampment
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Attorney declined to file criminal charges on most arrests made in April and May 2024 during pro-Palestine protests.&#160;
+LA City Attorney Hydee Feldstein Soto announced in a Friday press release that UCPD referred 245 arrests to her office relating to May campus protests, all of which were declined due to insufficient evidence. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/la-city-attorney-declines-to-file-criminal-charges-on-most-arrests-at-encampment/>
+
+---
+
+## LA City Attorney declines to file charges against most  encampment protesters
+
+date: 2025-04-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two cases were referred to a City Attorney hearing.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/no-arrested-encampment-protesters-from-usc-had-charges-filed-against-them-l-a-city-attorney-says/">LA City Attorney declines to file charges against most  encampment protesters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/no-arrested-encampment-protesters-from-usc-had-charges-filed-against-them-l-a-city-attorney-says/>
+
+---
+
+## Nightly Bruin: Inside UCLA’s Parapsychology Lab
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Before ghost-hunting shows and viral psychic videos, UCLA ran a real parapsychology lab, hidden in the old Neuropsychiatric Institute. In this episode of Nightly Bruin, Jina Bae, Audrey Turner, Olivia Miller and Srinidhi Naragajan uncover the strange history of the lab &#8211; from psychic experiments and telepathy tests to celebrity visits and chilling premonitions that turned tragically real. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/nightly-bruin-inside-uclas-parapsychology-lab/>
+
+---
+
+## Snake Season’s Here: A program offers training to keep pets safe on the trails
+
+date: 2025-04-26, from: The Canyon News (COC Student Newspaper)
+
+<p>As the weather warms up, more hikers are heading out on the&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/snake-season/">Snake Season’s Here: A program offers training to keep pets safe on the trails</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/snake-season/>
 
 ---
 
@@ -1388,69 +1534,4 @@ From classical music to K-pop to the finest of ‘90s punk, Saturday performance
 <br> 
 
 <https://dailybruin.com/2025/04/20/coachella-2025-review-saturdays-sets-featured-artists-new-and-old-from-charli-xcx-to-green-day/>
-
----
-
-## Coachella 2025 review: Lady Gaga’s headlining set electrifies with fierce energy, jubilance, artistry
-
-date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated April 20 at 10:15 p.m.</em>
-Never before has the gleeful mayhem of a performance been so phenomenal.
-Lady Gaga’s headlining set on the main Coachella Stage on Friday night represented the glory and splendor of an ambitious, maximalist, unforgettable live music extravaganza immediately tailored for the pop culture history books. 
-
-<br> 
-
-<https://dailybruin.com/2025/04/19/coachella-2025-lady-gagas-headlining-set-electrifies-with-fierce-energy-jubilance-artistry/>
-
----
-
-## Coachella 2025: Friday sets from The Marías to Missy Elliott deliver eclectic music for attendees
-
-date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated April 20 at 10:01 p.m.</em>
-The first day of Coachella’s second weekend blew away audience expectations amid blustery desert winds.
-Even with dust stirred up from the previous weekend tearing through the air, the kickoff to the second half of the 2025 Coachella Valley Music and Arts Festival in Indio, California, featured a variety of large-scale pop performances that ignited festivalgoers’ energy for the weekend ahead. 
-
-<br> 
-
-<https://dailybruin.com/2025/04/19/coachella-2025-friday-sets-from-the-maras-to-missy-elliott-deliver-eclectic-music-for-attendees/>
-
----
-
-## UCLA community leads protest following detainment of student at US-Mexico border
-
-date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<br> 
-
-<https://dailybruin.com/2025/04/18/ucla-community-leads-protest-following-detainment-of-student-at-us-mexico-border-2/>
-
----
-
-## UCLA School of Medicine hosts 13th Annual Healthcare Ethics Symposium
-
-date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated April 21 at 12:37 a.m.</em>
-The Professionalism Council at the David Geffen School of Medicine hosted its Annual Healthcare Ethics Symposium on April 3 . 
-
-<br> 
-
-<https://dailybruin.com/2025/04/18/ucla-school-of-medicine-hosts-13th-annual-healthcare-ethics-symposium/>
-
----
-
-## Coachella 2025
-
-date: 2025-04-19, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<br> 
-
-<https://dailybruin.com/tag/coachella-2025>
 

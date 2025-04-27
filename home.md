@@ -1,11 +1,151 @@
 ---
 title: home
-updated: 2025-04-26 14:07:43
+updated: 2025-04-27 06:08:01
 ---
 
 # home
 
-(date: 2025-04-26 14:07:43)
+(date: 2025-04-27 06:08:01)
+
+---
+
+## How to Dry and Store Fresh Garden Herbs
+
+date: 2025-04-27, from: The Gardener's Path
+
+<p>Humans have been drying herbs for as long as we've been cultivating plants, and for good reason. It’s a classic choice for preserving all that flavorful goodness, retaining flavor while preventing rot so you can enjoy the harvest for months to come. Learn more about this simple process, with several options to choose.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/dry-herbs/">How to Dry and Store Fresh Garden Herbs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/dry-herbs/>
+
+---
+
+## How to Grow and Care for White Heath Aster Flowers
+
+date: 2025-04-27, from: The Gardener's Path
+
+<p>The heath aster is native to the United States where it typically grows among prairie grasses and in the disrupted soil of roadbeds and clearings. Ranging in height from one to three feet at maturity, it readily naturalizes via rhizomes and self-sowing and produces masses of tiny blossoms from late summer into autumn.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-heath-asters/">How to Grow and Care for White Heath Aster Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-heath-asters/>
+
+---
+
+## How and When to Fertilize Zucchini Plants
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Delicious and incredibly versatile, zucchini is an easy-to-grow favorite among foodies and gardeners. This guide will walk you through the steps required to give your plants the nutrients they need to flourish! Read on to get the scoop on how and when to feed your zucchini for healthier plants and increased yield.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/fertilize-zucchini/">How and When to Fertilize Zucchini Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/fertilize-zucchini/>
+
+---
+
+## 9 of the Best Larch Varieties for Your Landscape
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Unlike other conifers, the needles of larch trees (Larix spp.) turn yellow or gold in the fall and drop from the branches, leaving behind cones and colorful shoots. They are available in a variety of sizes and shapes, from ground covers to 200-foot-tall behemoths. Learn about 9 of the best types of larch in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/best-larch-varieties/">9 of the Best Larch Varieties for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/best-larch-varieties/>
+
+---
+
+## Why Isn’t My Passionflower Vine Producing Fruit?
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Passionflowers, also known as passion fruit, are usually simple to grow. They’re low-maintenance and fairly tough. But if your passionflowers aren't producing fruit, something isn’t right with their growing conditions. Whether it’s sun exposure, fertilizer, or pollination issues, a little change can help a lot.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vines/passionflower-not-fruiting/">Why Isn’t My Passionflower Vine Producing Fruit?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vines/passionflower-not-fruiting/>
+
+---
+
+## How to Grow and Care for Shrub Roses
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Shrub roses are ideal for beginners because they’re easy to care for without forcing you to sacrifice an elegant floral display. They’re disease-resistant, most are self-cleaning, and they bloom all season long. Plus, they come in a range of colors, growth habits, and sizes. Read more to learn how to grow shrub roses.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-shrub-roses/">How to Grow and Care for Shrub Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-shrub-roses/>
+
+---
+
+## Primocane vs. Floricane: How to Distinguish Between Berry Canes
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Are you confused by the tags on cane berry plants at the nursery, like raspberries and blackberries? You’re not alone. “Primocane-bearing” and “floricane-fruiting” are handier terms for making purchase and management decisions when you know what they mean. All is explained, including why it matters, in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/primocane-vs-floricane/">Primocane vs. Floricane: How to Distinguish Between Berry Canes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/primocane-vs-floricane/>
+
+---
+
+## How to Identify and Control Mealybugs
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Mealybugs are notorious pests of indoor flora, including your precious houseplants. They suck the sugary juices from the leaves and stems, excrete honeydew and can even vector diseases. Learn all you need to know about these insects, their biology, identification, and available control options in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-mealybugs/">How to Identify and Control Mealybugs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/control-mealybugs/>
+
+---
+
+## How to Grow Chamomile in Pots and Containers
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Chamomile is boisterous in the garden, self-seeding where you least expect it. Planting it in a pot can keep this herb under control. There are just a few things you need to succeed, including the right container, soil, and location. Read more now to learn everything you need to know to grow chamomile in a container. </p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-chamomile-containers/">How to Grow Chamomile in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-chamomile-containers/>
+
+---
+
+## Drip irrigation versus micro-sprinklers for fruit trees
+
+date: 2025-04-26, from: Greg Alder's blog, Yard Post
+
+<p>My experience is that, while both drip irrigation and micro-sprinklers work well to deliver water to fruit trees in Southern California, they come with advantages and disadvantages. And one method is not best for all situations. Because of this, even in my own single yard, I use drip on some of my fruit trees but [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/drip-irrigation-versus-micro-sprinklers-for-fruit-trees/">Drip irrigation versus micro-sprinklers for fruit trees</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/drip-irrigation-versus-micro-sprinklers-for-fruit-trees/>
 
 ---
 
@@ -1202,73 +1342,4 @@ date: 2025-04-20, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/60-animals-that-start-with-n-with-pictures-and-names/>
-
----
-
-## 21 Veggie-Forward Lunches You’ll Actually Look Forward to Eating Every Day
-
-date: 2025-04-19, from: Sunset Magazine - Living in the West
-
-Lunches don't have to be boring. Make these hearty and filling vegetarian lunches for workday lunches and beyond. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/vegetarian-lunches>
-
----
-
-## 7 Reasons Why Impatiens Fail to Bloom
-
-date: 2025-04-19, from: The Gardener's Path
-
-<p>Impatiens are appreciated for their ability to add reliable color to shady areas in the garden. But when they fail to bloom, it can be disappointing. There are a variety of reasons why this might happen. Learn about 7 common reasons why impatiens may fail to bloom and what you can do about it in this guide. Read more.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/impatiens-not-blooming/">7 Reasons Why Impatiens Fail to Bloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/impatiens-not-blooming/>
-
----
-
-## Smart planting of avocado trees where soil is heavy and rainfall is high
-
-date: 2025-04-19, from: Greg Alder's blog, Yard Post
-
-<p>You can get lucky and plant an avocado tree in your yard and find success on your first try. But for many people, myself included, it takes killing a few trees to learn how to grow an avocado successfully in a particular situation. One situation that many people find themselves in is a yard with [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/smart-planting-of-avocado-trees-where-soil-is-heavy-and-rainfall-is-high/">Smart planting of avocado trees where soil is heavy and rainfall is high</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/smart-planting-of-avocado-trees-where-soil-is-heavy-and-rainfall-is-high/>
-
----
-
-## 70 Common Types of Sharks (With Pictures and Names)
-
-date: 2025-04-19, from: Yard Life blog
-
-<p>Sharks are some of the most fascinating and diverse creatures in the ocean, with over 500 species identified worldwide. Among ... </p>
-<p class="read-more-container"><a title="70 Common Types of Sharks (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/#more-27270" aria-label="Read more about 70 Common Types of Sharks (With Pictures and Names)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/">70 Common Types of Sharks (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/70-common-types-of-sharks-with-pictures-and-names/>
-
----
-
-## Avocado tree clones itself
-
-date: 2025-04-19, from: Greg Alder's blog, Yard Post
-
-<p>Unlike many other fruit trees, avocados are hard to root. Rooting is where you cut a branch off a tree and stick it partly in the ground or a container so that the cut branch will form roots where it is buried. It&#8217;s a way of copying, or cloning, a tree. Try this with a [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/avocado-tree-clones-itself/">Avocado tree clones itself</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/avocado-tree-clones-itself/>
 
