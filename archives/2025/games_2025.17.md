@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-28 06:08:46
+updated: 2025-04-28 14:08:15
 ---
 
 # games
 
-(date: 2025-04-28 06:08:46)
+(date: 2025-04-28 14:08:15)
+
+---
+
+## All ‘Pilgrimage’ wayshrine locations in Oblivion Remastered
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+“Pilgrimage” is a side quest in The Elder Scrolls 4: Oblivion Remastered that requires you to look for nine shrines across the map to pray at. Praying at these shrines will help determine if you’re worthy of becoming a knight. While this quest doesn’t have any rewards, it opens up several other future ones, including [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566132/pilgrimage-wayshrines-locations-all-where-to-find-walkthrough>
+
+---
+
+## Here’s what Donkey Kong Bananza might have looked like with DK’s old design
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+With all the hubbub about Donkey Kong’s new look in Donkey Kong Bananza, one artist took it upon themselves to reimagine what the King of Swing might have looked like in the upcoming Switch 2 game if Nintendo had stuck with previous design. “I don’t like how they portray DK in Bananza, so I edited [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/566016/donkey-kong-bananza-old-design-edit>
+
+---
+
+## Jackson’s residents were right to vote against Ellie
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+There’s a lot of injustice in The Last of Us. The Cordyceps outbreak doesn’t play favorites (outside of Ellie’s immunity, of course), so people are constantly ripped away from their loved ones; the fight between human factions for the few remaining supplies tears families apart right and left, and the survivors are always left to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/last-of-us/566008/tlou-ellie-episode-3-leaving-choice-jackson>
+
+---
+
+## Righteous Gemstones series finale, Walking Dead: Dead City season 2, and more new TV this week
+
+date: 2025-04-28, updated: 2025-04-25, from: Polygon Website
+
+This week we’re talking emotions. I know what you’re thinking: Isn’t that the lifeblood of so much of TV and movies? Sure! But the throughline between the new premieres and finales is Big Stakes and Big Feelings. Whether it’s the end of the world (The Eternaut, The Walking Dead: Dead City) or it just feels [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/562637/new-netflix-righteous-gemstones-dead-city>
+
+---
+
+## Hitman prototype reveals unused NPC smuggling mechanic, character select screen in 2016 game
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+An early build of 2016’s soft Hitman reboot — now bundled with its two sequels as the Hitman: World of Assassination trilogy — was shared online by preservationist community Obscure Gamers on April 19, providing us with a look at how the game was shaping up a little more than a year out from launch. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/565833/hitman-2016-prototype-early-build-stash-character-select>
+
+---
+
+## Every Murderbot book is up to 45% off ahead of the Apple TV Plus show
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+Every novel in Martha Wells’ hit sci-fi series The Murderbot Diaries is currently on sale through Amazon. You can pick up hardcover copies of each book for anywhere between 40% and 45% off, with prices ranging from $11.69 to $15.99 per book. A box set of the first three books is also on sale for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/565807/murderbot-book-deals>
+
+---
+
+## Wholesome Direct returns in June, packing ‘about 60’ cozy games
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+Wholesome Direct, the annual showcase of indie games with uplifting vibes, is returning to the Summer Game Fest slate this year, publisher Wholesome Games announced Monday. The 2025 edition of Wholesome Direct will kick off at noon EDT/9 a.m. PDT on Saturday, June 7, and will stream on Wholesome Games’ YouTube and Twitch channels. Last [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/565869/wholesome-direct-2025-date-time-cozy-games>
+
+---
+
+## Overwatch heroes are mechs in the new Gundam Wing crossover
+
+date: 2025-04-28, updated: 2025-04-25, from: Polygon Website
+
+For the 30th anniversary of Mobile Suit Gundam Wing, Blizzard is turning Overwatch heroes into mechs. Mercy, Reaper, Soldier: 76, and Ramattra will all have skins based on the ‘90s anime starting April 29. The lineup looks like this: Mercy as Wing Zero, Reaper as Deathscythe, Soldier: 76 as Tailgeese, and Ramattra as Epyon. With [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/565419/overwatch-gundam-wing-skins-collab>
+
+---
+
+## Where is Tophat Gudetama this week in Hello Kitty Island Adventure?
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+Tophat Gudetama hides in a different spot in Hello Kitty Island Adventure every week, with new weeks beginning on Monday. Pochacco will task you with finding this dapper Gudetama specifically as part of a quest per week for the first two weeks (“The Laziest Egg” and “The Laziest Eggs”), though after you finish these, there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find>
+
+---
+
+## What time does Infinity Nikki 1.5 and the Steam version release?
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+Infinity Nikki is getting its version 1.5 update on April 28. The update brings new features, like a Steam client launch and multiplayer. Below, we explain when Infinity Nikki goes down for maintenance ahead of version 1.5 and when it’ll come back up with the new version using a variety of time zones to help [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/565253/version-1-5-steam-release-times-maintenance-end>
 
 ---
 
@@ -30,18 +150,6 @@ Season 8 of Diablo 4, Belial’s Return, out this week, sees the… uh… return
 <br> 
 
 <https://www.polygon.com/diablo-4-guides/563156/season-8-release-time-date-edt-pdt-bst>
-
----
-
-## What time does Infinity Nikki 1.5 and the Steam version release?
-
-date: 2025-04-27, updated: 2025-04-27, from: Polygon Website
-
-Infinity Nikki is getting its version 1.5 update on April 28. The update brings new features, like a Steam client launch and multiplayer. Below, we explain when Infinity Nikki goes down for maintenance ahead of version 1.5 and when it’ll come back up with the new version using a variety of time zones to help [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/infinity-nikki-guides/565253/version-1-5-steam-release-times-maintenance-end>
 
 ---
 

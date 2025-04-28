@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-28 06:08:48
+updated: 2025-04-28 14:08:18
 ---
 
 # retro computing
 
-(date: 2025-04-28 06:08:48)
+(date: 2025-04-28 14:08:18)
+
+---
+
+## Microwriter
+
+date: 2025-04-28, from: Computer ads from the Past
+
+"I'll show you how to take on word processing single handed." 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/microwriter>
 
 ---
 

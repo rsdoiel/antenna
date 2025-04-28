@@ -1,11 +1,316 @@
 ---
 title: columns
-updated: 2025-04-28 06:08:45
+updated: 2025-04-28 14:08:14
 ---
 
 # columns
 
-(date: 2025-04-28 06:08:45)
+(date: 2025-04-28 14:08:14)
+
+---
+
+##  Hundreds of Free Images From Studio Ghibli Films 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/hundreds-of-free-images-from-studio-ghibli-films>
+
+---
+
+##  I Just Got Into Harvard. My MAGA Grandparents&#8217; 6-Word Reaction To My... 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046725-i-just-got-into-harvard>
+
+---
+
+## The most obvious case for universal healthcare
+
+date: 2025-04-28, from: Matt Haughey blog
+
+<p>I&apos;ve been a lifelong fan of universal healthcare, albeit in a distant, envious way as I&apos;ve never gotten to truly experience it myself. There are times where I had double healthcare coverage that came very close, and I&apos;ve even gotten surgeries where all the</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/the-most-obvious-case-for-universal-healthcare/>
+
+---
+
+## Meta Laid Off Over 100 Employees in Reality Labs
+
+date: 2025-04-28, updated: 2025-04-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/meta/655835/meta-layoffs-reality-labs-vr-supernatural>
+
+---
+
+##  The Snowy Owls of Logan Airport 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-snowy-owls-of-logan-airport>
+
+---
+
+## April 27, 2025
+
+date: 2025-04-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162351827/10448a0724b709658f3105915ff0be69.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162351827/10448a0724b709658f3105915ff0be69.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-27-2025-fc7>
+
+---
+
+## Windscribe Acquitted on Charges of Not Collecting Users’ Data
+
+date: 2025-04-28, updated: 2025-04-28, from: Bruce Schneier blog
+
+<p>The company doesn&#8217;t keep logs, so couldn&#8217;t <a href="https://hackread.com/court-dismisses-criminal-charges-against-vpn-executive-no-log-policy/">turn over data</a>:</p>
+<blockquote><p>Windscribe, a globally used privacy-first VPN service, announced today that its founder, Yegor Sak, has been fully acquitted by a court in Athens, Greece, following a two-year legal battle in which Sak was personally charged in connection with an alleged internet offence by an unknown user of the service.</p>
+<p>The case centred around a Windscribe-owned server in Finland that was allegedly used to breach a system in Greece. Greek authorities, in cooperation with INTERPOL, traced the IP address to Windscribe&#8217;s infrastructure and, unlike standard international procedures, proceeded to initiate criminal proceedings against Sak himself, rather than pursuing information through standard corporate channels...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/windscribe-acquitted-on-charges-of-not-collecting-users-data.html>
+
+---
+
+## ★ Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search
+
+date: 2025-04-28, updated: 2025-04-28, from: Daring Fireball
+
+Paying for Kagi today feels a *lot* like paying for HBO back in the cable TV heyday. 
+
+<br> 
+
+<https://daringfireball.net/2025/04/try_switching_to_kagi>
+
+---
+
+##  A new game from the creator of One Million Checkboxes: One Million... 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046726-a-new-game-from-the>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-28, from: Dave Winer's Scripting News)
+
+Cory Doctorow coined a lovely word -- <a href="https://en.wikipedia.org/wiki/Enshittification">enshitified</a>. In that spirit, I'd love to see some elites <a href="https://www.google.com/search?q=explain+stodgy">destodgified</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/28.html#a170135>
+
+---
+
+##  &#8220;There are other meat-eating caterpillars that &#8216;do lots of crazy things, but... 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046719-there-are-other-meat-eati>
+
+---
+
+## From PlayStation to routers, you've probably been using FreeBSD without knowing it
+
+date: 2025-04-28, updated: 2025-04-28, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Interview</span> The OS came first, the foundation later – so what does it do?</h4>
+      <p>Many FOSS projects are backed by nonprofit foundations. One such example is the FreeBSD Foundation, started by Meta software engineer Justin T Gibbs. He spoke with The Register about the project&#39;s copyright philosophy, what the foundation does, and why it matters.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/28/freebsd_foundation_25/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/05/29/truthAdjustment.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If Harvard could become more American and less elite, that could change things. Make a simple direct unmistakable contribution directly to the well-being of Americans. Be the source of reliable information to the people that's missing because the major corporations who own the media are playing it safe. Harvard is no longer in a position where playing it safe is an option. The Trumps will continue to cast doubt on the truth, but in a contest between Trump and Harvard, I bet a lot of people, even most, would trust Harvard first.
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/28.html#a162143>
+
+---
+
+##  Silenced Science Stories 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/silenced-science-stories>
+
+---
+
+## What's 1.21 Gigawatts in Watts?
+
+date: 2025-04-28, from: mrusme blog
+
+Introducing `whats`, a lightweight command-line tool for getting answers to
+everyday questions like `whats 2 meters in feet` or more importantly `whats
+1.21 gigawatts in watts`. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/whats-1-21-gigawatts-in-watts/>
+
+---
+
+## 60 Minutes on Executive Producer Bill Owens’s Resignation and Paramount’s Editorial Interference
+
+date: 2025-04-28, updated: 2025-04-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cbsnews.com/video/bill-owens-60-minutes-video-2025-04-27/>
+
+---
+
+##  Scientists have invented (or discovered?) a new color called &#8220;olo&#8221;. &#8220;Verifying that... 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046722-scientists-have-invented->
+
+---
+
+##  Website For MAGA-Friendly Businesses Backfires As People Use It For Boycotts. &#8220;Social... 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046721-website-for-maga-friendly>
+
+---
+
+## Don't let your voice be flattened by the über theme
+
+date: 2025-04-28, from: Dave Rupert blog
+
+<p>I want you to have a blog. Despite this being nearly my entire online ethos, one situation I struggle with are design systems and UX blogs on Medium. A lot of them exist. Yet. I have difficulty understanding UX and design professionals in this space who yield their UX and design decisions over to the “everyone looks the same” content silo.</p>
+<p>To be fair, I get why you or an organization would want to use a service like Medium:</p>
+<ul>
+<li>People are busy and maintaining a blog is work.</li>
+<li>It’s hard for the design team to get dev resources for a custom site.</li>
+<li>There’s “free” community engagement there.</li>
+<li>There’s even monetization paths.</li>
+<li>Self-publishing obsessed dorks aren’t the target market.</li>
+</ul>
+<p>Don’t get me wrong– I’d rather have more blogs than no blogs so if that’s your situation don’t mind me and my niche beef. But consider for a moment that I can’t tell you the last Medium post I’ve read because they’re all the same to me. I follow a lot of UX and design systems blogs… but I can’t tell you a single person who writes on Medium. Those posts and authors have all blended together into a monolithic groupthinkpiece where individual voices and personality are flattened by the über theme.</p>
+<p>If everyone is wearing the same uniform, you all look the same. You are interchangeable. Your voice exists in a crowded space of vanilla platitudes. A recent WIRED article suggested over <a href="https://www.wired.com/story/ai-generated-medium-posts-content-moderation/">40% of the content on Medium is AI generated</a> slop. I think the question for you –and for me– is how do you stand out in this <em>fancy copy-pasted</em> new world? My personal belief is that the answer starts with your own personal website that looks like you, talks like you, smells like you, and has quirks like you. I want that for you.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/04/ubertheme/>
+
+---
+
+## Of possible interest
+
+date: 2025-04-28, from: Doc Searls (at Harvard), New Old Blog
+
+Arendt called it terror. Steven Weber on radical uncertainty, in Barron&#39;s. Hmm. Signs of enshittification. SiriusXM&#39;s app sucks. It used to have Favorites, which were like buttons on an old car radio: a collection of channels you liked, and said so (I think with a little heart). Now it has Based on your morning listening and Channels for [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/04/28/of-possible-interest/>
+
+---
+
+##  A year of hate: what I learned when I went undercover with... 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046720-a-year-of-hate-what>
+
+---
+
+## Dems get on the air!
+
+date: 2025-04-28, from: Dave Winer's Scripting News
+
+<p>I’m sick of saying this <a href="https://bsky.app/profile/scripting.com/post/3lnunfkdru22h">over and over</a>, the Dems need a regular snark-filled irreverent presence on social media to condemn every freaking fascist thing the Trumps do. They had it with the Kamala accounts, but they shut them down on Election Day. </p>
+<p>It’s so freaking simple. Not having a raging presence on social media in the future will be seen as like a successful company not being listed on the NYSE, or a country not having a rep at the United Nations. Aside from the cost of keeping a staff online 24x7, it's free, and serves as its own money-raising channel.</p>
+<p>The Repubs figured this out in 2016. </p>
+<p>Maybe what the Dems need is some entrepreneurs and comedians at the top to actually get through to voters that say "Hey we're the Dems, we're here and we love America and we love you, Americans!" And actually make a stink when they try to kill Social Security.</p>
+<p>Another purpose -- tell people when the next pandemic is here. You know the Trumps aren't going to do that.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/28/135055.html?title=demsGetOnTheAir>
+
+---
+
+## 0x32
+
+date: 2025-04-28, from: Chris Heilmann's blog
+
+Last Saturday was my 50th birthday and it&#8217;s as good a time as any to reminisce a bit. The 80s were shit First of all: don&#8217;t believe the Stranger Things image of the 1980s. They were not a time of leg warmers and neon colours. They were a time of social unrest, existential anxiety and [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/04/28/0x32/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-28, from: Dave Winer's Scripting News)
+
+I mentioned this in <a href="https://shownotes.scripting.com/scripting/2025/04/27/chatgptDeservesOurRespectAtLeast.html">yesterday's podcast</a> -- new problems popped up with websockets in WordLand. I worked through the whole tree of possibilities with ChatGPT and it came to the conclusion that the source was an out of date package, and it was confident if I replaced it with the one "everyone else" is using, the problems will go away. Now this is the moment when human judgement prevails. I'm going to experiment in a very small app first, to make sure I have the approach right, then I will cautiously make the change on my test WordLand server, and if it works there, then I will figure out how to install it on the main site. It couldn't break all that much because for some reason the WS code stopped working, completely, with no code changes anywhere. 
+
+<br> 
+
+<http://scripting.com/2025/04/28.html#a122629>
 
 ---
 

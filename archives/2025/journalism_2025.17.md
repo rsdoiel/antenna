@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-04-28 06:08:46
+updated: 2025-04-28 14:08:16
 ---
 
 # journalism
 
-(date: 2025-04-28 06:08:46)
+(date: 2025-04-28 14:08:16)
+
+---
+
+## Going Global, Staying Grounded: Diana Thomas on How Local Firms Benefit from International Networks
+
+date: 2025-04-28, from: The Sundail (CSUN Student Newspaper)
+
+Clients often expect more than just technical expertise—they expect their service providers to be connected, forward-thinking, and responsive to global standards. While large metropolitan firms may seem obvious candidates for... 
+
+<br> 
+
+<https://sundial.csun.edu/193163/sundialbrandstudio/sundial-marketplace/going-global-staying-grounded-diana-thomas-on-how-local-firms-benefit-from-international-networks/>
+
+---
+
+## 4 Tips for Planning Your First Group Trip Abroad
+
+date: 2025-04-28, from: The Sundail (CSUN Student Newspaper)
+
+Planning your first group trip abroad is exciting, but it’s also a challenge. Balancing personalities, expectations, and budgets takes effort. The right approach makes all the difference. With that in... 
+
+<br> 
+
+<https://sundial.csun.edu/193160/sundialbrandstudio/sundial-marketplace/4-tips-for-planning-first-group-trip-abroad/>
 
 ---
 

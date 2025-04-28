@@ -1,11 +1,218 @@
 ---
 title: home
-updated: 2025-04-28 06:08:48
+updated: 2025-04-28 14:08:17
 ---
 
 # home
 
-(date: 2025-04-28 06:08:48)
+(date: 2025-04-28 14:08:17)
+
+---
+
+## 12 Common Household Items That Will Ruin Your Septic Tank
+
+date: 2025-04-28, from: Family Handyman Blog
+
+<p>Your septic tank can create huge problems when it gets sick. Keep it healthy by never introducing these items into your drains or toilets.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/septic-tank-no-flush-list/">12 Common Household Items That Will Ruin Your Septic Tank</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/septic-tank-no-flush-list/>
+
+---
+
+## Hairy Bittercress: How to Identify and Get Rid of It
+
+date: 2025-04-28, from: Family Handyman Blog
+
+<p>Hairy bittercress is a fast-growing, cool-season weed. Learn how to remove it and prevent it from spreading with these expert-approved tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hairy-bittercress/">Hairy Bittercress: How to Identify and Get Rid of It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hairy-bittercress/>
+
+---
+
+## Here’s How Much Water Your Grass Really Needs
+
+date: 2025-04-28, from: Family Handyman Blog
+
+<p>The experts explain the factors affecting how much to water a lawn, and why overwatering can be as problematic as underwatering.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-much-to-water-lawn/">Here&#8217;s How Much Water Your Grass Really Needs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-much-to-water-lawn/>
+
+---
+
+## Invasive Plant Pest and Disease Awareness Month — Japanese Beetle infestations a major threat
+
+date: 2025-04-28, from: Calfifornia Dept. Aggriculture blog
+
+April is Invasive Plant Pest and Disease Awareness Month in the US, and CDFA is aligning by spotlighting its efforts to eradicate Japanese Beetle infestations in California. 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28933>
+
+---
+
+## This Australian Home Is Wrapped Entirely in Zinc
+
+date: 2025-04-28, from: Dwell
+
+The monochromatic finish is broken up only when wall-size sliders are opened to let breezes flow through the hilltop residence. 
+
+<br> 
+
+<https://www.dwell.com/article/mapleton-house-atelier-chen-hung-zinc-clad-home-75bef50b>
+
+---
+
+## Before & After: In Spain, an Architect Restores an Iconic Home Built by His Grandparents
+
+date: 2025-04-28, from: Dwell
+
+Set in Cadaqués, the ’60s residence has a traditional stone facade and a surprising, hexagonal plan—with no right angles in sight. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-casa-rumeu-gr-os-architects-correa-mila-arquitectes-cadaques-7640cbf9>
+
+---
+
+## This $1.4M Wisconsin Cabin Has a Next-Level Conversation Pit
+
+date: 2025-04-28, from: Dwell
+
+The midcentury getaway features a cozy, recessed seating area flanked by a massive wall of windows and a double-height fireplace. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-cabin-conversation-pit-john-bruni-middleton-wisconsin-real-estate-52ccdf83>
+
+---
+
+## That Little Groove on your Iron Actually Has a Big Job
+
+date: 2025-04-28, from: Family Handyman Blog
+
+<p>You’ve been using your iron wrong this whole time — find out the surprising reason for that mysterious groove and other hidden features you never noticed.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/groove-on-iron/">That Little Groove on your Iron Actually Has a Big Job</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/groove-on-iron/>
+
+---
+
+## 37 of the Best Cold Hardy Clematis Varieties
+
+date: 2025-04-28, from: The Gardener's Path
+
+<p>Looking for a tough, reliable vine to survive your cold winters? One that puts on a gorgeous display of flowers in spring and summer, and that can handle the rigors of sub-zero temperatures and drying, frigid winds? Discover 37 of the best cold hardy clematis varieties for Zones 3 and 4 in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/cold-hardy-clematis/">37 of the Best Cold Hardy Clematis Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/cold-hardy-clematis/>
+
+---
+
+## States Where Fireworks Are Legal (And Where They’re Not)
+
+date: 2025-04-28, from: Family Handyman Blog
+
+<p>If you don't have the list of states where fireworks are legal memorized, you may find yourself in hot water this summer. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/are-fireworks-legal-in-my-state/">States Where Fireworks Are Legal (And Where They’re Not)</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/are-fireworks-legal-in-my-state/>
+
+---
+
+## 44 Common Types of Falcons (With Pictures and Identification)
+
+date: 2025-04-28, from: Yard Life blog
+
+<p>Falcons are among the most fascinating and diverse birds of prey, known for their speed, agility, and impressive hunting skills. ... </p>
+<p class="read-more-container"><a title="44 Common Types of Falcons (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/44-common-types-of-falcons-with-pictures-and-identification/#more-27719" aria-label="Read more about 44 Common Types of Falcons (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/44-common-types-of-falcons-with-pictures-and-identification/">44 Common Types of Falcons (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/44-common-types-of-falcons-with-pictures-and-identification/>
+
+---
+
+## Despite Tariffs, California Continues Trade Engagement
+
+date: 2025-04-28, from: Calfifornia Dept. Aggriculture blog
+
+CDFA hosted more than 20 buyers from the Middle East, Southeast Asia, South Korea and Taiwan last week to meet with California businesses and expand market opportunities for CA GROWN products. “With approximately 24 percent, on average, of California’s farm &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28928">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28928>
+
+---
+
+## 10 Ideas for Building the Perfect Charcuterie Board
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+Pro tips for selecting the best meats and accompaniments for a company-worthy charcuterie board. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/charcuterie-board>
+
+---
+
+## It’s Peak Strawberry Season—Here’s How to Make the Most of It
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+While you can get strawberries year-round, the best time to enjoy the fruit is spring and summer. Try these strawberry recipes this season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/strawberry-recipes>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This Northern California Town Is Going Through a Cultural Renaissance Right Now
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+See for yourself how California’s capital has stepped out of its sepia-toned past and into a fashionable, foodie present. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-sacramento>
 
 ---
 

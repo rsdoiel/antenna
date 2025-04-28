@@ -1,11 +1,132 @@
 ---
 title: pacific
-updated: 2025-04-28 06:08:43
+updated: 2025-04-28 14:08:13
 ---
 
 # pacific
 
-(date: 2025-04-28 06:08:43)
+(date: 2025-04-28 14:08:13)
+
+---
+
+## UH appoints new associate vice president for research and innovation
+
+date: 2025-04-28, from: University of Hawaiʻi News
+
+<p>Walton will direct major systemwide research programs and initiatives to align with <abbr>UH</abbr>'s strategic direction and metrics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/28/walton-ovpri-associate-vp/"><abbr>UH</abbr> appoints new associate vice president for research and innovation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/28/walton-ovpri-associate-vp/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Poetry
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_24d9c67e-76f0-4e81-a760-637f07aee2e3.html>
+
+---
+
+## MTEC, MVA visit Tanapag Middle School
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+(MVA) —  The Marianas Tourism Education Council and Marianas Visitors Authority visited Tanapag Middle School on April 21, 2025, for another round of educational outreach about The Marianas tourism industry. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mtec-mva-visit-tanapag-middle-school/article_d5ec9bab-277f-4145-a498-647dbfe348e2.html>
+
+---
+
+## Saipan Chamber of Commerce announces professional development training on human resources, legal compliance
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is thrilled to announce its upcoming 2nd Quarter Professional Development Training, hosted by NMC’s Community Development Institute and led by Polly Masga, MPA. The training is scheduled to take place this Friday, May 2, 2025, offering two sessions to accommodate participants' availability. The training will be held at Northern Marianas College, in classroom V-217. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-announces-professional-development-training-on-human-resources-legal-compliance/article_1473bd63-e7c7-4db9-b00c-b521df1ef44e.html>
+
+---
+
+## PSS hosts professional development workshop for vice principals
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+(PSS) — On Friday, April 25, the Public School System hosted a professional development workshop specifically tailored for vice principals from its elementary, middle, and high schools on Saipan, Tinian, and Rota. This is part of the school district’s continuous learning and strengthening leadership initiative. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/pss-hosts-professional-development-workshop-for-vice-principals/article_302f5aec-7089-47ca-9c4b-056b9f8295fe.html>
+
+---
+
+## ‘The Accountant 2,’ with Ben Affleck, isn’t quite a write-off
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+(AP) — Hordes of horror films line up for Halloween and a sleigh full of Christmas movies arrive annually in December, but there is slightly less competition around the paper-pushing rite of Tax Day. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/the-accountant-2-with-ben-affleck-isn-t-quite-a-write-off/article_cd34f5d5-2457-4e73-9f2f-056c1996b8d4.html>
+
+---
+
+## Wellness in action, one pickleball at a time
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+AS we celebrate this year’s Mental Health Awareness Month or MHAM under the theme “Wellness in Action,” I can’t help but reflect on how wellness looks different for each of us — and how often, it’s the small things that keep us grounded. For me, wellness found a surprising home on the pickleball court. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/wellness-in-action-one-pickleball-at-a-time/article_44a4bce0-2bf3-4513-99a1-304274638803.html>
+
+---
+
+## Trump urges Russia to stop attacks; Rubio says US might walk away from peace efforts
+
+date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+
+MORRISTOWN, New Jersey (Reuters) — President Donald Trump urged Russia on Sunday to stop its attacks in Ukraine while his top diplomat said the United States might walk away from peace efforts if it does not see progress. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-urges-russia-to-stop-attacks-rubio-says-us-might-walk-away-from-peace-efforts/article_3b8d6462-630a-4d40-9ab9-54328b207fb4.html>
+
+---
+
+## Another Poem About Your Beauty
+
+date: 2025-04-28, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Joshua Coben Each time you catch me writing in bed and ask if it’s another poem about your beauty, I smile because yours is the beauty undergirding all I have that’s beautiful: stone arches loping across a river that &#8230; <a href="https://hawaiipacificreview.org/2025/04/28/another-poem-about-your-beauty/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/04/28/another-poem-about-your-beauty/>
 
 ---
 
@@ -359,18 +480,6 @@ The post <a href="https://www.hawaii.edu/news/2025/04/27/rainbow-warriors-big-we
 
 ---
 
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
 ## Finance’s financial service division office under renovation
 
 date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
@@ -380,18 +489,6 @@ THE financial services division office of the Department of Finance is undergoin
 <br> 
 
 <https://www.mvariety.com/news/local/finance-s-financial-service-division-office-under-renovation/article_abbe4998-a351-468c-b5c5-f5c532b1f597.html>
-
----
-
-## Poetry
-
-date: 2025-04-27, updated: 2025-04-27, from: Marianas Variety
-
- 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/poetry/article_24d9c67e-76f0-4e81-a760-637f07aee2e3.html>
 
 ---
 

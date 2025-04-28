@@ -1,11 +1,117 @@
 ---
 title: writing
-updated: 2025-04-28 06:08:46
+updated: 2025-04-28 14:08:15
 ---
 
 # writing
 
-(date: 2025-04-28 06:08:46)
+(date: 2025-04-28 14:08:15)
+
+---
+
+## The Bookseller Launches New Adult Book Prize
+
+date: 2025-04-28, from: Locus Magazine
+
+<p>The Bookseller has announced the launch of the New Adult Book Prize, an award to celebrate &#8220;one of the fastest growing areas of fiction publishing that is powered by one of the most enthusiastic cohort of readers&#8221;.</p>
+<p>The award will accept any English language new adult fiction published in print in the UK or Ireland between March 1, 2024 and February 28, 2025. Submissions will open for five weeks starting  <a href="https://locusmag.com/2025/04/the-bookseller-launches-new-adult-book-prize/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-bookseller-launches-new-adult-book-prize/>
+
+---
+
+## Weekly Bestsellers, 28 April 2025
+
+date: 2025-04-28, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Tahereh Mafi&#8217;s <b>Watch Me</b> (Storytide), first book in a spin-off series to the author&#8216;s earlier Shatter Me series, debuts on three lists, ranking #1 on New York Times&#8216; Young Adult Hardcover list, and #4 on the overall USA Today list.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+05.04
+LAT
+04.27
+USAT 
+04.20
+PW 
+04.28
+Amz 
+(04.28)
+UK:
+Amz UK 
+(04.28)
+Canada:
+Amz.ca 
+(04.28)
+
+
+Items on list -x- number of <a href="https://locusmag.com/2025/04/weekly-bestsellers-28-april-2025/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/weekly-bestsellers-28-april-2025/>
+
+---
+
+## 2025 Theakston Awards Longlist
+
+date: 2025-04-28, from: Locus Magazine
+
+<p></p>
+<p>The 18-book longlist for the 2025 Theakston Old Peculier Crime Novel of the Year has been announced. Works and authors of genre interest include:</p>
+<div class="nobullets">
+<ul>
+<li><strong>The Cracked Mirror</strong>, Chris Brookmyre (Sphere)</li>
+<li><strong>The Mercy Chair</strong>, M.W. Craven (Constable)</li>
+<li><strong>The Last Word</strong>, Elly Griffiths (Quercus)</li>
+<li><strong>The Kill List</strong>, Nadine Matheson (HQ)</li>
+<li><strong>Blood Like Mine</strong>, Stuart Neville (Simon &#38; Schuster UK)</li>
+<li><strong>Deadly Animals</strong>, Marie Tierney (Henry Holt and </li></ul></div> <a href="https://locusmag.com/2025/04/2025-theakston-awards-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-theakston-awards-longlist/>
+
+---
+
+## 2024 LA Times Book Prize Winners
+
+date: 2025-04-28, from: Locus Magazine
+
+<p>The Los Angeles Times has announced the winners of their 45th annual Book Prizes. </p>
+<p>Works of genre interest include <strong>The Book of Love</strong> by Kelly Link (Random House) in the Science Fiction, Fantasy &#38; Speculative Fiction category, <strong>The Puzzle Box</strong> by Danielle Trussoni (Random House) in the Mystery/Thriller category, <strong>Orwell&#8217;s Ghosts</strong> by Laura Beers (Norton) in the Biography category, and <strong>James</strong> by Percival Everett, narrated by Dominic Hoffman (Penguin Random  <a href="https://locusmag.com/2025/04/2024-la-times-book-prize-winners/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2024-la-times-book-prize-winners/>
+
+---
+
+## The Staircase in the Woods by Chuck Wendig: Review by Ian Mond
+
+date: 2025-04-28, from: Locus Magazine
+
+<p><strong>The Staircase in the Woods</strong>, Chuck Wendig (Del Rey 978-0-59315-656-8, $30.00, 400pp, hc) April 2025.</p>
+<p>Chuck Wendig’s latest novel, <strong>The Staircase in the Woods</strong>, begins with two pieces of foreshadowing – one plot-related –</p>
+<p>On Friday, June 5th, 1998, five teenagers went into the woods surrounding Highchair Rocks in Bucks County, Pennsylvania. Only four of them came out.</p>
+<p>– the other thematic:</p>
+<p>Friendship, like a house, can go  <a href="https://locusmag.com/2025/04/the-staircase-in-the-woods-by-chuck-wendig-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-staircase-in-the-woods-by-chuck-wendig-review-by-ian-mond/>
 
 ---
 

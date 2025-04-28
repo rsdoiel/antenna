@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-04-28 06:08:48
+updated: 2025-04-28 14:08:18
 ---
 
 # motorcycles
 
-(date: 2025-04-28 06:08:48)
+(date: 2025-04-28 14:08:18)
+
+---
+
+## This Military Sea-Drone Concept Takes Stealth Seriously, Has 325 HP
+
+date: 2025-04-28, from: Ride Apart, Electric Motorcycle News
+
+And it's by the grandson of Can-Am, Ski-Doo, and Sea-Doo's founder.  
+
+<br> 
+
+<https://www.rideapart.com/news/757789/sea-drone-bombardier-heir-stealth-military/>
 
 ---
 
