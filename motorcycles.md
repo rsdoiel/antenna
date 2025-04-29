@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-04-28 14:08:18
+updated: 2025-04-29 06:12:39
 ---
 
 # motorcycles
 
-(date: 2025-04-28 14:08:18)
+(date: 2025-04-29 06:12:39)
+
+---
+
+## Is This BMW Sportbike Copy What Happens When You Let AI Design Bikes?
+
+date: 2025-04-29, from: Ride Apart, Electric Motorcycle News
+
+If imitation is the sincerest form of flattery, what even is this? 
+
+<br> 
+
+<https://www.rideapart.com/news/757979/sukuli-s1000rr-design-jacking-motorcycle/>
+
+---
+
+## Hard Enduro World Championship Is Back On, Overcoming KTM's Foolery
+
+date: 2025-04-29, from: Ride Apart, Electric Motorcycle News
+
+It doesn't look the same as before, but we just need to be grateful right now. 
+
+<br> 
+
+<https://www.rideapart.com/news/757806/hard-enduro-world-championship-alive-2025/>
+
+---
+
+## Kawasaki’s Hydrogen Motorcycle Could Show Us the Future Of Internal Combustion
+
+date: 2025-04-29, from: Ride Apart, Electric Motorcycle News
+
+It drew attention at no less than the 2025 24 Hours of Le Mans Motos
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757868/kawasaki-hyse-hydrogen-motorcycle-2025-lemans/>
 
 ---
 

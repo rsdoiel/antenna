@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-04-28 14:08:11
+updated: 2025-04-29 06:12:33
 ---
 
 # north america
 
-(date: 2025-04-28 14:08:11)
+(date: 2025-04-29 06:12:33)
+
+---
+
+## Words & Phrases We Could Do Without
+
+date: 2025-04-29, from: The Contrarian
+
+The "Golden Age"?! More like Fool&#8217;s Gold 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-b6a>
+
+---
+
+##  The Tech Companies Fighting To Sell Your Data 
+
+date: 2025-04-29, from: The Lever News
+
+ Companies accused of exposing consumers to fraud and trickery want Trump to let them freely buy and sell your personal information.  
+
+<br> 
+
+<https://www.levernews.com/the-tech-companies-fighting-to-sell-your-data/>
+
+---
+
+## A Majority of Californians Support Affordable Health Care for Undocumented Immigrants, Polls Show
+
+date: 2025-04-28, from: Capital and Main
+
+<p>These findings run contrary to the national political narrative and are fueling advocates’ efforts to safeguard expanded Medicaid benefits in the state.</p>
+<p>The post <a href="https://capitalandmain.com/a-majority-of-californians-support-affordable-health-care-for-undocumented-immigrants-polls-show">A Majority of Californians Support Affordable Health Care for Undocumented Immigrants, Polls Show</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/a-majority-of-californians-support-affordable-health-care-for-undocumented-immigrants-polls-show>
+
+---
+
+## Evening Roundup, April 28 
+
+date: 2025-04-28, from: The Contrarian
+
+Featuring Jen Rubin & Mitch Landrieu; Max Stier; James F. McHugh; Jared Bernstein & Ryan Cummings; Jeff Nesbit; Pablo Torre & Jen; Judge (ret.) Nancy Gertner; and Maria Peralta & Jen Rubin 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-28>
+
+---
+
+## Cruelty and Intimidation are the Goals
+
+date: 2025-04-28, from: The Contrarian
+
+The prosecution of Judge Hannah Dugan had nothing to do with ICE enforcement and everything to do with intimidation 
+
+<br> 
+
+<https://contrarian.substack.com/p/cruelty-and-intimidation-are-the>
+
+---
+
+## May Day Strong! Maria Peralta on the May 1 Day of Action
+
+date: 2025-04-28, from: The Contrarian
+
+"We're not going to put up with the tearing down of labor laws of our collective bargaining rights" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162159382/a74a4c37228525d81efa666160dc4cf7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162159382/a74a4c37228525d81efa666160dc4cf7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/may-day-strong-maria-peralta-on-the>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-28 14:08:17
+updated: 2025-04-29 06:12:38
 ---
 
 # libraries
 
-(date: 2025-04-28 14:08:17)
+(date: 2025-04-29 06:12:38)
 
 ---
 
@@ -102,6 +102,32 @@ Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M
 <br> 
 
 <http://hdl.handle.net/20.500.11850/732786>
+
+---
+
+## AI Strategy, Governance, and Monetization in Scholarly Publishing: Lessons from Industry Front-Runners
+
+date: 2025-04-29, from: Scholarly Kitchen
+
+<p>At the 3rd Generative AI Summit in London, global leaders and companies shared how they're embedding generative AI into strategies, workflows, and products for commercial success, operational efficiency, and competitive advantage. Here, we’d like to share key takeaways and insights from multiple perspectives and explore what they mean for publishers.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/29/ai-strategy-governance-and-monetization-in-scholarly-publishing-lessons-from-industry-front-runners/">AI Strategy, Governance, and Monetization in Scholarly Publishing: Lessons from Industry Front-Runners</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/29/ai-strategy-governance-and-monetization-in-scholarly-publishing-lessons-from-industry-front-runners/>
+
+---
+
+## What’s Wrong with the World, by G. K. Chesterton
+
+date: 2025-04-29, from: Standard Ebooks, new releaases
+
+Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world>
 
 ---
 

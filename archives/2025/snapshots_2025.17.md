@@ -1,11 +1,304 @@
 ---
 title: snapshots
-updated: 2025-04-28 14:08:21
+updated: 2025-04-29 06:12:42
 ---
 
 # snapshots
 
-(date: 2025-04-28 14:08:21)
+(date: 2025-04-29 06:12:42)
+
+---
+
+## This Is Palantir’s Justification for Building ICE’s Master Database
+
+date: 2025-04-29, from: 404 Media Group
+
+404 Media is now publishing the full internal wiki page in which Palantir explains its work with ICE building a system for finding the location of people to deport. 
+
+<br> 
+
+<https://www.404media.co/this-is-palantirs-justification-for-building-ices-master-database/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Bluesky is having an up and down Tuesday morning. (Note that this rarely happens on the open web or on decentralized social networks. For example, RSS in over twenty-five years has never gone down.) 
+
+<br> 
+
+<https://www.theverge.com/news/657705/bluesky-down-outages-loading-issues>
+
+---
+
+## AI Licensing, Open Access and Scholarly Publishing: An Interview with Charles Watkinson, Director of the University of Michigan Press
+
+date: 2025-04-29, from: Authors Union blogs
+
+Below is an interview with Charles Watkinson, Director of the University of Michigan Press and Associate University Librarian for Publishing [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/04/29/ai-licensing-open-access-and-scholarly-publishing-an-interview-with-charles-watkinson-director-of-the-university-of-michigan-press/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Michelle Goldberg Can’t Believe Anyone Thinks Trump Actually Cares About Antisemitism. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/28/opinion/trump-antisemitism-jews-israel.html?unlocked_article_code=1.DU8.pubN.6IAHpfo0hs0U&smid=url-share>
+
+---
+
+## Sustainable solutions with Raspberry Pi: how intrusive reflow soldering boosted our efficiency and cut our carbon footprint
+
+date: 2025-04-29, from: Raspberry Pi News (.com)
+
+<p>We’ve halved product returns, cut manufacturing time, and reduced emissions by changing how we solder connectors onto our computers.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-how-intrusive-reflow-soldering-boosted-our-efficiency-and-cut-our-carbon-footprint/">Sustainable solutions with Raspberry Pi: how intrusive reflow soldering boosted our efficiency and cut our carbon footprint</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/sustainable-solutions-with-raspberry-pi-how-intrusive-reflow-soldering-boosted-our-efficiency-and-cut-our-carbon-footprint/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+How Trump is using government power to target his enemies. 
+
+<br> 
+
+<https://www.npr.org/2025/04/29/nx-s1-5327518/donald-trump-100-days-retribution-threats>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Is ChatGPT “excessively agreeable?” #yes! 
+
+<br> 
+
+<https://www.smays.com/2025/04/excessively-agreeable/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Trump administration probes Harvard Law Review for alleged race-based discrimination. 
+
+<br> 
+
+<https://www.politico.com/news/2025/04/28/trump-administration-probes-harvard-law-review-for-alleged-race-based-discrimination-00314418>
+
+---
+
+## Context Serialization
+
+date: 2025-04-29, from: O'Reilly Radar
+
+In a recent edition of The Sequence Engineering newsletter, “Why Did MCP Win?,” the authors point to context serialization and exchange as a reason—perhaps the most important reason—why everyone’s talking about the Model Context Protocol. I was puzzled by this—I’ve read a lot of technical and semitechnical posts about MCP and haven’t seen context serialization [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/context-serialization/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-29, from: Feed for Alt USDS)
+
+We have a new landing page for you. We shipped the first version of the site in 5 days in February and our (lack of) design showed.
+
+Thanks to our fantastic product designer, we made the leap into "thoughtfully designed."
+
+Take a look ➡️ wethebuilders.org 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnwcm5ngak25>
+
+---
+
+## A comparison of ChatGPT/GPT-4o's previous and current system prompts
+
+date: 2025-04-29, updated: 2025-04-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://gist.github.com/simonw/51c4f98644cf62d7e0388d984d40f099/revisions">A comparison of ChatGPT/GPT-4o&#x27;s previous and current system prompts</a></strong></p>
+GPT-4o's recent update caused it to be <a href="https://simonwillison.net/2025/Apr/28/sam-altman/">way too sycophantic</a> and disingenuously praise anything the user said. OpenAI's <a href="https://twitter.com/aidan_mclau/status/1916908772188119166">Aidan McLaughlin</a>:</p>
+<blockquote>
+<p>last night we rolled out our first fix to remedy 4o's glazing/sycophancy</p>
+<p>we originally launched with a system message that had unintended behavior effects but found an antidote</p>
+</blockquote>
+<p>I <a href="https://twitter.com/simonw/status/1916944643897626896">asked</a> if anyone had managed to snag the before and after system prompts (using one of the various prompt leak attacks) and it turned out legendary jailbreaker <a href="https://twitter.com/bmiselis/status/1916946562955030659">@elder_plinius had</a>. I pasted them into a Gist to get <a href="https://gist.github.com/simonw/51c4f98644cf62d7e0388d984d40f099/revisions">this diff</a>.</p>
+<p>The system prompt that caused the sycophancy included this:</p>
+<blockquote>
+<p><code>Over the course of the conversation, you adapt to the user’s tone and preference. Try to match the user’s vibe, tone, and generally how they are speaking. You want the conversation to feel natural. You engage in authentic conversation by responding to the information provided and showing genuine curiosity.</code></p>
+</blockquote>
+<p>"Try to match the user’s vibe" - more proof that somehow everything in AI always comes down to vibes!</p>
+<p>The replacement prompt now uses this:</p>
+<blockquote>
+<p><code>Engage warmly yet honestly with the user. Be direct; avoid ungrounded or sycophantic flattery. Maintain professionalism and grounded honesty that best represents OpenAI and its values.</code></p>
+</blockquote>
+<p>I wish OpenAI would <a href="https://simonwillison.net/2024/Aug/26/anthropic-system-prompts/">emulate Anthropic</a> and publish their system prompts so tricks like this weren't necessary.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/29/a-comparison-of-chatgptgpt-4os-previous-and-current-system-promp/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-29, from: Feed for Alt USDS)
+
+When tariffs change, it’s not just a line on a spreadsheet. It’s a massive shift for public servants, ports, businesses, and you.
+
+We break down what a real, careful implementation would look like — and why reckless change is so dangerous.
+
+Read it here: 🔗  https://bit.ly/tariffs-tech-and-trust 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lnw6c4eqoa2t>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Harvard is no longer in a position where playing it safe is an option. 
+
+<br> 
+
+<http://scripting.com/2025/04/28.html#a162143>
+
+---
+
+## Qwen 3 offers a case study in how to effectively release a model
+
+date: 2025-04-29, updated: 2025-04-29, from: Simon Willison’s Weblog
+
+<p>Alibaba's Qwen team released the hotly anticipated <a href="https://qwenlm.github.io/blog/qwen3/">Qwen 3 model family</a> today. The Qwen models are already some of the best open weight models - Apache 2.0 licensed and with a variety of different capabilities (including vision and audio input/output).</p>
+<p>Qwen 3 is text input/output only for the moment and comes in an exciting range of different shapes and sizes: 32B, 14B, 8B, 4B, 1.7B, and 0.6B models. The 4B and up models all have 131,072 token context windows (extended from 32k using YaRN) - 0.6B, and 1.7B are 32,768.</p>
+<p>This covers the full spectrum of sizes that I generally care about: 0.6B and 1.7B should run fine on an iPhone, and 32B will fit on my 64GB Mac with room to spare for other applications.</p>
+<p>Qwen also released two Mixture of Experts models - Qwen3-30B-A3B and Qwen3-235B-A22B. The A stands for "active parameters" - Qwen3-30B-A3B is a 30 billion parameter model that keeps 3 billion active at once, which speeds up inference (I previously said it reduces the memory needed to run the models, but <a href="https://bsky.app/profile/pekka.bsky.social/post/3lnw2knbkls2e">that's incorrect</a>).</p>
+<p>All eight of these models are released under the Apache 2.0 license.</p>
+<p>Qwen describe these as "hybrid thinking" models - every one of them is capable of the "reason step by step" trick before they deliver their final answer. In my experiments so far this presents itself as a <code>&lt;think&gt;...&lt;/think&gt;</code> block at the start of the response.</p>
+<p>That thinking mode can be turned on and off by including special <code>/think</code> and <code>/no_think</code> tokens in the prompt. It's on by default.</p>
+<ul>
+<li><a href="https://simonwillison.net/2025/Apr/29/qwen-3/#trying-out-qwen-3-via-ollama">Trying out Qwen 3 via Ollama</a></li>
+<li><a href="https://simonwillison.net/2025/Apr/29/qwen-3/#a-really-well-coordinated-release">A really well coordinated release</a></li>
+<li><a href="https://simonwillison.net/2025/Apr/29/qwen-3/#the-continuing-trend-of-better-models-that-run-on-the-same-hardware">The continuing trend of better models that run on the same hardware</a></li>
+</ul>
+
+<h4 id="trying-out-qwen-3-via-ollama">Trying out Qwen 3 via Ollama</h4>
+<p>Let's see that in action. I started out with Qwen 32B from <a href="https://www.ollama.com/">Ollama</a> - a 20GB download:</p>
+<div class="highlight highlight-source-shell"><pre>ollama pull qwen3:32b</pre></div>
+<p>Then I ran a prompt against it using <a href="https://llm.datasette.io/">LLM</a> and the <a href="https://github.com/taketwo/llm-ollama">llm-ollama plugin</a>:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m qwen3:32b <span class="pl-s"><span class="pl-pds">'</span>Generate an SVG of a pelican riding a bicycle<span class="pl-pds">'</span></span></pre></div>
+<p>Here's the truncated output I got back (you can see the full response <a href="https://gist.github.com/simonw/2cd679d2cfa41fffb37ebc4a2c5c3e4b">in this Gist</a>).</p>
+<blockquote>
+<p><code>&lt;think&gt;</code><br />
+Okay, the user wants an SVG of a pelican riding a bicycle. Let me start by breaking down the components needed. First, I need to create the pelican. Pelicans have a distinctive beak and pouch, so I'll need to draw that. Maybe start with an ellipse for the body, then add the beak as a triangle. The wings could be curved shapes on either side.</p>
+<p>Next, the bicycle. I'll need two wheels, a frame, handlebars, and pedals. The wheels can be circles with some lines for spokes. The frame connects the wheels, with a seat and handlebars at the front. The pedals are small circles with lines for the crank.</p>
+<p>[...]</p>
+<p>I think that's a plan. Now, translate this into SVG code step by step, making sure coordinates and shapes are correctly placed.<br />
+<code>&lt;/think&gt;</code></p>
+<p>Here's an SVG of a pelican riding a bicycle, created using simple shapes and paths:</p>
+<div class="highlight highlight-text-xml"><pre>&lt;<span class="pl-ent">svg</span> <span class="pl-e">viewBox</span>=<span class="pl-s"><span class="pl-pds">"</span>0 0 200 200<span class="pl-pds">"</span></span> <span class="pl-e">xmlns</span>=<span class="pl-s"><span class="pl-pds">"</span>http://www.w3.org/2000/svg<span class="pl-pds">"</span></span>&gt;
+  <span class="pl-c"><span class="pl-c">&lt;!--</span> Bicycle Frame <span class="pl-c">--&gt;</span></span>
+  &lt;<span class="pl-ent">line</span> <span class="pl-e">x1</span>=<span class="pl-s"><span class="pl-pds">"</span>40<span class="pl-pds">"</span></span> <span class="pl-e">y1</span>=<span class="pl-s"><span class="pl-pds">"</span>100<span class="pl-pds">"</span></span> <span class="pl-e">x2</span>=<span class="pl-s"><span class="pl-pds">"</span>120<span class="pl-pds">"</span></span> <span class="pl-e">y2</span>=<span class="pl-s"><span class="pl-pds">"</span>100<span class="pl-pds">"</span></span> <span class="pl-e">stroke</span>=<span class="pl-s"><span class="pl-pds">"</span>black<span class="pl-pds">"</span></span> <span class="pl-e">stroke-width</span>=<span class="pl-s"><span class="pl-pds">"</span>4<span class="pl-pds">"</span></span>/&gt;
+  &lt;<span class="pl-ent">line</span> <span class="pl-e">x1</span>=<span class="pl-s"><span class="pl-pds">"</span>120<span class="pl-pds">"</span></span> <span class="pl-e">y1</span>=<span class="pl-s"><span class="pl-pds">"</span>100<span class="pl-pds">"</span></span> <span class="pl-e">x2</span>=<span class="pl-s"><span class="pl-pds">"</span>140<span class="pl-pds">"</span></span> <span class="pl-e">y2</span>=<span class="pl-s"><span class="pl-pds">"</span>80<span class="pl-pds">"</span></span> <span class="pl-e">stroke</span>=<span class="pl-s"><span class="pl-pds">"</span>black<span class="pl-pds">"</span></span> <span class="pl-e">stroke-width</span>=<span class="pl-s"><span class="pl-pds">"</span>4<span class="pl-pds">"</span></span>/&gt;
+  [...]
+  <span class="pl-c"><span class="pl-c">&lt;!--</span> Bicycle Handlebars <span class="pl-c">--&gt;</span></span>
+  &lt;<span class="pl-ent">rect</span> <span class="pl-e">x</span>=<span class="pl-s"><span class="pl-pds">"</span>30<span class="pl-pds">"</span></span> <span class="pl-e">y</span>=<span class="pl-s"><span class="pl-pds">"</span>80<span class="pl-pds">"</span></span> <span class="pl-e">width</span>=<span class="pl-s"><span class="pl-pds">"</span>20<span class="pl-pds">"</span></span> <span class="pl-e">height</span>=<span class="pl-s"><span class="pl-pds">"</span>5<span class="pl-pds">"</span></span> <span class="pl-e">fill</span>=<span class="pl-s"><span class="pl-pds">"</span>#8B4513<span class="pl-pds">"</span></span>/&gt;
+&lt;/<span class="pl-ent">svg</span>&gt;</pre></div>
+<p>This SVG features:</p>
+<ol>
+<li>A basic bicycle frame with two wheels, spokes, and a seat</li>
+<li>A blue pelican with:
+<ul>
+<li>A rounded body and head</li>
+<li>A distinctive yellow beak and orange pouch</li>
+<li>Two wings extending from the body</li>
+<li>Webbed feet wrapped around the bicycle frame</li>
+</ul>
+</li>
+<li>Simple handlebars at the front of the bicycle</li>
+</ol>
+<p>The pelican is positioned sitting on the bicycle seat with wings slightly spread for balance. You can copy this code into an HTML file or SVG editor to view the illustration. The colors use traditional bicycle brown (#8B4513) and a classic blue for the pelican (#4169E1) with gold accents for the beak (#FFD700).</p>
+</blockquote>
+<p>As is often the case with "reasoning" models, reading the reasoning chain is more interesting than the finished result. Here's what the SVG looks like when you render it:</p>
+<p><img src="https://static.simonwillison.net/static/2025/qwen3-32b-pelican.jpg" alt="The bicycle looks more like a shopping cart. The pelican is a bunch of overlapping blue shapes and the yellow bill is misconfigured. It's not a great effort to be honest." style="max-width: 100%;" /></p>
+<p>Not the best pelican on a bicycle, but <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">I've seen worse</a>!</p>
+<h4 id="a-really-well-coordinated-release">A really well coordinated release</h4>
+<p>The thing that stands out most to me about the Qwen 3 release is how well coordinated it was across the LLM ecosystem.</p>
+<p>Qwen worked directly with almost all of the popular LLM serving frameworks to ensure that support for the new models was available on day one.</p>
+<p>The Qwen 3 README <a href="https://github.com/QwenLM/Qwen3/blob/main/README.md#run-qwen3">mentions the following projects</a>:</p>
+<ul>
+<li>The <a href="https://huggingface.co/docs/transformers/en/index">Transformers</a> Python library</li>
+<li>
+<a href="https://www.modelscope.cn/">ModelScope</a> (effectively the Chinese equivalent of Hugging Face for model distribution)</li>
+<li>
+<a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a>, which added support for the Qwen 3 architecture <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b5092">three weeks ago</a> in version <code>b5092</code>.</li>
+<li>
+<a href="https://www.ollama.com/">Ollama</a>, with <a href="https://ollama.com/library/qwen3">qwen3</a> out on release day</li>
+<li><a href="https://lmstudio.ai/">LMStudio</a></li>
+<li>
+<a href="https://github.com/ml-explore/mlx-lm">mlx-lm</a> for Apple Silicon - the first commit for Qwen 3 support in MLX showed up in a PR <a href="https://github.com/ml-explore/mlx-lm/pull/41">over a month ago</a>.</li>
+<li>The <a href="https://github.com/sgl-project/sglang">SGLang</a> serving framework</li>
+<li>The popular <a href="https://github.com/vllm-project/vllm">vLLM</a> engine</li>
+<li>
+<a href="https://www.hiascend.com/en/software/mindie">MindIE</a>, which I haven't heard of before but looks to be a serving framework for Huawei's Ascend chips (competitive with NVIDIA's GPUs)</li>
+</ul>
+<p>This is an extraordinary level of coordination for a model release! I haven't seen any other model providers make this level of effort - the usual pattern is to dump a bunch of models on Hugging Face for a single architecture (usually NVIDIA) and then wait for the community to catch up with quantizations and conversions for everything else.</p>
+<p>It's also great to see smaller models that can run on consumer hardware on day one. I think one of the reasons <a href="https://simonwillison.net/2025/Apr/5/llama-4-notes/">the Llama 4 release</a> a few weeks ago was a little muted is that very few people had access to hardware that was capable of running the models.</p>
+<p>The one thing that's missing here is hosted API partnerships - something Meta did a good job of with Llama 4, which was available (albeit with some bugs) on Groq, Fireworks and Together on the day of release.</p>
+<h4 id="the-continuing-trend-of-better-models-that-run-on-the-same-hardware">The continuing trend of better models that run on the same hardware</h4>
+<p>I don't have a great feeling for the general "vibes" of Qwen 3 yet - it's only been available for a few hours and I've not really run it through its paces yet. The general buzz so far seems pretty positive and the initial benchmarks are promising, but these things always take a little while to shake out.</p>
+<p>Assuming those benchmarks hold up, I think this is a very strong model. My favourite detail from the release announcement is this (highlight mine):</p>
+<blockquote>
+<p>Due to advancements in model architecture, increase in training data, and more effective training methods, the overall performance of Qwen3 dense base models matches that of Qwen2.5 base models with more parameters. For instance, <strong>Qwen3-1.7B/4B/8B/14B/32B-Base performs as well as Qwen2.5-3B/7B/14B/32B/72B-Base, respectively</strong>. Notably, in areas like STEM, coding, and reasoning, Qwen3 dense base models even outperform larger Qwen2.5 models.</p>
+</blockquote>
+<p>I'm always keen to see this trend continue: better models that can run on the same hardware as their predecessors.</p>
+<p>We've seen the same trend with other models - Llama 3.3 70B <a href="https://simonwillison.net/2024/Dec/9/llama-33-70b/">claimed to deliver</a> "similar performance to Llama 3.1 405B", and Mistral Small 3 24B <a href="https://simonwillison.net/2025/Jan/30/mistral-small-3/">said that</a> it was "on par with Llama 3.3 70B instruct, while being more than 3x faster on the same hardware."</p>
+<p>At some point this trend will have to stop, but for the moment it's exciting to continue to see new optimizations emerge that allow us to run even better smaller models.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/29/qwen-3/#atom-everything>
+
+---
+
+## How Trump Outplays the Elite, Where the Truth Tellers Are… and Hunter S. Thompson’s Hysterical Letter Bomb 
+
+date: 2025-04-28, from: Tina Brown
+
+The most interesting takeaway from Monday&#8217;s Atlantic interview with President Trump is the way he muses wonderingly about elite targets caving under pressure. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/how-trump-outplays-the-elite-where>
+
+---
+
+## PELADN YO1 is another AMD Ryzen AI Max+ 395 mini PC
+
+date: 2025-04-28, from: Liliputing
+
+<p>AMD&#8217;s Ryzen AI Max+ 395 is nominally a mobile processor that combines discrete-level integrated graphics, an NPU that delivers up to 50 TOPS of AI performance, and a unified memory architecture that allows up to 96GB of RAM to be allocated to the GPU (in a system with 128GB of memory). But at this point [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/peladn-yo1-is-another-amd-ryzen-ai-max-395-mini-pc/">PELADN YO1 is another AMD Ryzen AI Max+ 395 mini PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/peladn-yo1-is-another-amd-ryzen-ai-max-395-mini-pc/>
 
 ---
 

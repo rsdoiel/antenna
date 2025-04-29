@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-04-28 14:08:15
+updated: 2025-04-29 06:12:37
 ---
 
 # games
 
-(date: 2025-04-28 14:08:15)
+(date: 2025-04-29 06:12:37)
+
+---
+
+## Broadway’s Stranger Things: The First Shadow made me like Stranger Things again
+
+date: 2025-04-29, updated: 2025-04-28, from: Polygon Website
+
+I have a love-hate relationship with Stranger Things. Like many of my friends, I was fully charmed by the first season, but each subsequent season has filled me with growing frustration. The series touches on so many elements that cater to me specifically, like coming-of-age narratives threaded in with supernatural hijinks. But as Stranger Things’ [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/stranger-things/566139/first-shadow-review-broadway-play>
+
+---
+
+## Can Abra be shiny in Pokémon Go?
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+Abra, the psi Pokémon from Kanto, can be found in the wild in Pokémon Go. Yes, Abra can be shiny in Pokémon Go! If you already have a shiny Abra (or its evolutions), you may have participated in Abra Community Day in April 2020. The first few evolutions have only a slight difference when shiny, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24155512/can-abra-be-shiny-kadabra-alakazam-mega>
+
+---
+
+## Where to buy lockpicks in Oblivion Remastered
+
+date: 2025-04-28, updated: 2025-04-28, from: Polygon Website
+
+Lockpicks are an item that allow you to open locked doors and chests to get loot in The Elder Scrolls 4: Oblivion Remastered. A lockpick gives you a chance to open a lock on a chest or door via successful completion of an instance of the lockpicking minigame. The lockpicking system can be tricky; if [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565791/lockpicks-where-to-buy>
 
 ---
 

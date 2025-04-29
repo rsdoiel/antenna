@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-04-28 14:08:15
+updated: 2025-04-29 06:12:37
 ---
 
 # writing
 
-(date: 2025-04-28 14:08:15)
+(date: 2025-04-29 06:12:37)
+
+---
+
+## AI Licensing, Open Access and Scholarly Publishing: An Interview with Charles Watkinson, Director of the University of Michigan Press
+
+date: 2025-04-29, from: Author's Union blog
+
+Below is an interview with Charles Watkinson, Director of the University of Michigan Press and Associate University Librarian for Publishing [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/04/29/ai-licensing-open-access-and-scholarly-publishing-an-interview-with-charles-watkinson-director-of-the-university-of-michigan-press/>
 
 ---
 

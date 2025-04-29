@@ -1,11 +1,293 @@
 ---
 title: journalism
-updated: 2025-04-28 14:08:16
+updated: 2025-04-29 06:12:38
 ---
 
 # journalism
 
-(date: 2025-04-28 14:08:16)
+(date: 2025-04-29 06:12:38)
+
+---
+
+## The battle between industry and artistry
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>SDA alumni provide insights on their postgraduate years.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/the-battle-between-industry-and-artistry/">The battle between industry and artistry</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/the-battle-between-industry-and-artistry/>
+
+---
+
+## Teen dreams and art-grad screams
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Four fine arts seniors explain their thesis exhibitions and career plans.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/teen-dreams-and-art-grad-screams/">Teen dreams and art-grad screams</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/teen-dreams-and-art-grad-screams/>
+
+---
+
+## How I spent my college summers
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC seniors reflect on their college summers and share what they learned along the way. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/how-i-spent-my-college-summers/">How I spent my college summers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/how-i-spent-my-college-summers/>
+
+---
+
+## Is Hollywood still bright enough to compete?
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Young creatives are reimagining the film industry in the face of rising costs and shifting landscapes.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/is-hollywood-still-bright-enough-to-compete/">Is Hollywood still bright enough to compete?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/is-hollywood-still-bright-enough-to-compete/>
+
+---
+
+## Shakespeare offers us a path to self-actualization
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We still might have something to learn from centuries-old crossdressers.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/shakespeare-offers-us-a-path-to-self-actualization/">Shakespeare offers us a path to self-actualization</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/shakespeare-offers-us-a-path-to-self-actualization/>
+
+---
+
+## Graduates
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Four friends recently embarked on a USC tradition, taking graduation pictures across the University Park Campus with Daily Trojan photographer Jake Berg.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/graduates/">Graduates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/graduates/>
+
+---
+
+## From the editors
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Spring 2025 Daily Trojan Magazine editors welcome readers to the first-ever “Graduation Issue.”</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/from-the-editors-3/">From the editors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/from-the-editors-3/>
+
+---
+
+## Eight schools announce commencement speakers
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Speakers include choreographers, judges and entrepreneurs. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/eight-schools-announce-commencement-speakers/">Eight schools announce commencement speakers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/eight-schools-announce-commencement-speakers/>
+
+---
+
+## Viterbi researchers develop tumor-killing immune cells
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The final product is envisioned as being intravenously administered into the bloodstream.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/viterbi-researchers-develop-tumor-killing-immune-cells/">Viterbi researchers develop tumor-killing immune cells</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/viterbi-researchers-develop-tumor-killing-immune-cells/>
+
+---
+
+## FIA’s annual fashion show modifies LA style
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The show called to attention how people are inspired by the power of fashion.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/fias-annual-fashion-show-modifies-la-style/">FIA&#8217;s annual fashion show modifies LA style</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/fias-annual-fashion-show-modifies-la-style/>
+
+---
+
+## Parting Words: Answers
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/29/parting-words-answers/">Parting Words: Answers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/parting-words-answers/>
+
+---
+
+## Music is my life
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>All of my happiest memories are connected to music.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/music-is-my-life/">Music is my life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/music-is-my-life/>
+
+---
+
+## True crime stories take center stage at Festival of Books
+
+date: 2025-04-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The two-day event included panels on local and global sensational crimes.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/29/true-crime-stories-take-center-stage-at-festival-of-books/">True crime stories take center stage at Festival of Books</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/29/true-crime-stories-take-center-stage-at-festival-of-books/>
+
+---
+
+## Concert review: Rauw Alejandro stuns with retro style, theatrical performance at Intuit Dome
+
+date: 2025-04-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+When it comes to putting on a performance, Rauw Alejandro is committed to giving his fans nothing but the best.
+The Puerto Rican singer-songwriter lit up the Intuit Dome on Sunday night for the second of three shows on his “Cosa Nuestra World Tour.” With a recommended dress code for fans that included 1960s-inspired evening gowns and suits, the concert superseded expectations as Alejandro instead put on what he called “A Musical Theatre Experience.” Equipped with a host, a digital program, elaborate choreography and incredible stage sets, Alejandro’s four-act performance told the story of the dangers of love. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/28/concert-review-rauw-alejandro-stuns-with-retro-style-theatrical-performance-at-intuit-dome/>
+
+---
+
+## On The Steps Episode 10: UCLA community protests student’s detention
+
+date: 2025-04-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+April 17,  students held a protest outside of Murphy Hall urging the administration to take action to resolve the detention of an UCLA international graduate student at the southern border. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/28/on-the-steps-episode-10-ucla-community-protests-students-detention/>
+
+---
+
+## UPTE-CWA 9119, AFSCME Local 3299 strike April 1 for 3rd time in academic year
+
+date: 2025-04-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two unions have called on nearly 60,000 of their members to strike across the UC on April 1, marking the second such strike in two months. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/28/upte-cwa-9119-afscme-local-3299-strike-april-1-for-3rd-time-in-academic-year/>
+
+---
+
+## UCLA women’s basketball recap with Ira Gorawara
+
+date: 2025-04-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Special guest Ira Gorawara appears on the show to recap UCLA&#8217;s women&#8217;s basketball. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/28/ucla-womens-basketball-recap-with-ira-gorawara/>
+
+---
+
+## Astrophysicist James Bullock to be next Dornsife dean
+
+date: 2025-04-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Bullock currently serves as dean of UC Irvine’s School of Physical Sciences.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/28/astrophysicist-james-bullock-to-be-next-dornsife-dean/">Astrophysicist James Bullock to be next Dornsife dean</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/28/astrophysicist-james-bullock-to-be-next-dornsife-dean/>
+
+---
+
+## UCLA alumnus brings science background to debut novel ‘The Beauty of the End’
+
+date: 2025-04-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lauren Stienstra is entering the world of novel writing with her expertise in public health emergency management.
+The UCLA alumnus, who graduated in 2007 with a degree in physiological science, published her debut novel &#8220;The Beauty of the End&#8221; on April 1. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/28/ucla-alumnus-brings-science-background-to-debut-novel-the-beauty-of-the-end/>
+
+---
+
+## UCLA Through March Madness
+
+date: 2025-04-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/28/ucla-through-march-madness/>
+
+---
+
+## Storied LA Times Festival of Books commences 30th year of celebrating literature
+
+date: 2025-04-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+This weekend, bibliophiles are trading pages for panels.
+On Saturday at the University of Southern California, the Los Angeles Times Festival of Books kicked off its 30th year of delighting all types of readers, with this year&#8217;s schedule catering to everyone from nonfiction aficionados to BookTok enthusiasts. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/28/storied-la-times-festival-of-books-commences-30th-year-of-celebrating-literature/>
 
 ---
 
@@ -72,6 +354,20 @@ The event was held at the UCLA Meyer and Renee Luskin Conference Center.
 
 ---
 
+## USC finishes strong, wins inaugural sperm race
+
+date: 2025-04-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The founder said the goal of the event was to turn health into a fun, entertaining competition. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/28/usc-finishes-strong-wins-inaugural-sperm-race/">USC finishes strong, wins inaugural sperm race</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/28/usc-finishes-strong-wins-inaugural-sperm-race/>
+
+---
+
 ## ‘Great Big Beautiful Life’ is comfortable, yet unexpected
 
 date: 2025-04-28, from: The Daily Trojan (USC Student Newspaper)
@@ -111,20 +407,6 @@ date: 2025-04-28, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/04/28/researchers-find-link-between-gut-and-autism/>
-
----
-
-## USC finishes strong, wins inaugural sperm race
-
-date: 2025-04-28, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The founder said the goal of the event was to turn health into a fun, entertaining competition. </p>
-<p>The post <a href="https://dailytrojan.com/2025/04/28/usc-finishes-strong-wins-inaugural-sperm-race/">USC finishes strong, wins inaugural sperm race</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/04/28/usc-finishes-strong-wins-inaugural-sperm-race/>
 
 ---
 

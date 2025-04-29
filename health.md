@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2025-04-28 14:08:18
+updated: 2025-04-29 06:12:40
 ---
 
 # health
 
-(date: 2025-04-28 14:08:18)
+(date: 2025-04-29 06:12:40)
+
+---
+
+## Egg-driven immunosuppression and granuloma zonation in Peyer’s patches of mice with Schistosoma japonicum infection
+
+date: 2025-04-29, from: Frontiers in Cellular and Infection Microbiology
+
+Egg granulomas caused by Schistosoma japonicum (S. japonicum) are important causes of morbidity and mortality in schistosomiasis. The intestine plays a crucial role in the complete life cycle of S. japonicum; eggs are transported through the intestine and excreted with feces. During this process, the interaction between the eggs and the intestine can trigger a strong intestinal immune system response and cause inflammation. Eggs in the intestine preferentially accumulate in Peyer’s patches (PPs). However, the cellular composition of intestinal granulomas and the impacts of egg deposition on the immune function of PPs remain poorly understood. Using a mouse model of S. japonicum infection, we revealed that the deposition of eggs disrupted the structure of PPs, resulting in immunosuppression. We further characterized the cellular composition of intestinal granulomas, revealing a layered distribution of neutrophils, macrophages, T cells, and B cells, with marked neutrophil accumulation. Single-cell RNA sequencing revealed that egg deposition drives B-cell apoptosis, T-cell exhaustion, and activation of fibrotic pathways in myeloid cells, collectively impairing PP function. In conclusion, the layered cellular architecture of intestinal granulomas in PPs suggests a unique immune microenvironment of egg-driven immunosuppression and fibrotic remodeling, and the identification of fibrotic pathways in myeloid cells provides a potential therapeutic target to alleviate fibrosis in patients with S. japonicum infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1587166>
+
+---
+
+## Editorial: Interaction of microbiota and metabolomic disorders
+
+date: 2025-04-29, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1597214>
+
+---
+
+## Screening of neurotransmitter receptor modulators reveals novel inhibitors of influenza virus replication
+
+date: 2025-04-29, from: Frontiers in Cellular and Infection Microbiology
+
+Influenza presents a significant public health threat, as severe cases can lead to excessive inflammation and complications such as pneumonia or acute respiratory distress syndrome. Current antiviral agents targeting viral proteins may lead to the development of resistance, highlighting the need for new agents targeting host factors. Neurotransmitter receptors are vital for cellular signaling and cell cycle modulation, making them promising antiviral therapeutic targets. Recent research has demonstrated that screening libraries of compounds aimed at these receptors can help identify inhibitors that prevent the replication of various viruses, including filoviruses and SARS-CoV-2. We screened a neurotransmitter receptor modulator library in influenza-infected U937 cells and found that many adrenergic, histamine, dopamine, and serotonin receptor agonists and antagonists exhibit antiviral activity. We identified 20 candidate compounds with IC50 values below 20 μM, suggesting a critical role for these receptors in influenza replication. Three representative compounds (isoxsuprine, ciproxifan, and rotigotine) inhibited H1N1 replication in a dose-dependent manner in multiple cell lines, and were effective against H1N1, oseltamivir-resistant H1N1, H3N2, and influenza B strains. Mechanistic studies indicated that these compounds affect virus internalization during the early infection stages. In a mouse model of lethal influenza, isoxsuprine significantly decreased lung viral titers, mitigated pulmonary inflammation, and enhanced survival rates. These findings highlight neurotransmitter receptors as potential targets for developing novel anti-influenza agents, providing a foundation for further optimization of the identified compounds as potential therapeutic agents. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1562650>
+
+---
+
+## Escherichia coli aggravates inflammatory response in mice oral mucositis through regulating Th17/Treg imbalance
+
+date: 2025-04-29, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionMicrobial dysbiosis links to mucosal immune dysregulation, but the specific bacterial contributions to oral mucosal inflammation remain unclear. Escherichia coli (E. coli), a pathogen well-characterized in mucosal immunity and immune regulation studies, has been observed to be enriched in chronic oral inflammatory lesions and was reported to modulate T helper 17 cells (Th17)/T regulatory cells (Treg) homeostasis. Here, we developed an oral mucositis mouse model via tongue scratch and E. coli topical application to investigate its role in Th17/Treg imbalance.MethodsThe inflammatory infiltration was evaluated by macroscopic photography and HE staining. The expression of inflammatory factors in tongue tissue and peripheral blood of mice were detected by immunohistochemical staining and enzyme-linked immunosorbent assay. The number of Th17 and Treg in mice spleen lymphocytes were evaluated with flow cytometry. Differential gene expression analysis, functional enrichment analysis and immune infiltration analysis were performed using RNA-seq data from oral lichen planus (OLP).ResultsE. coli stimulation aggravated inflammatory responses induced by scratching in lingual mucosa of mice, including increased local and systemic expression of interleukin 6 (IL6), interleukin 17 (IL17), chemokine receptor 6 (CCR6) and chemokine C-C motif ligand 20 (CCL20), increased proportions of Th17 cells and increased Th17/Treg ratio in spleen lymphocytes. Analysis of RNA-seq data from OLP revealed alterations in antimicrobial responses and inflammatory factors associated with upregulation of Th17/Treg balance.ConclusionThis study supports the role of E. coli in promoting oral mucosal inflammation and provides an experimental basis for in vivo study of OLP from the perspective of microorganisms. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1585020>
+
+---
+
+## Clinicopathological characteristics and diagnostic performance of metagenomic pathogen detection technology in mycobacterial infections among HIV patients
+
+date: 2025-04-29, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundMycobacterial infections represent a major cause of morbidity and mortality in HIV-infected individuals. This study evaluated diagnostic techniques for mycobacterial identification and compared clinicopathological features between HIV-positive and HIV-negative patients.MethodsWe analyzed 88 tissue samples (with 41 matched blood and 28 sputum samples) using histopathology (HE and acid-fast staining), bacterial culture, MTB-PCR (sputum/biopsy), PCR-reverse dot blot hybridization (RDBH), and metagenomic pathogen detection technology (MetaPath™). Logistic regression analyses were performed to identify factors affecting detection rates.ResultsMycobacterial infection was detected in 95.5% (84/88) of patients. Among HIV-positive patients (n=63), 46% (29/63) had Mycobacterium tuberculosis (MTB) infections, and 44% (28/63) had non-tuberculous mycobacteria (NTM) infections, significantly higher than the 20% (5/25) NTM rate in HIV-negative patients. Univariate analysis identified HIV-positive status (p=0.009), lymph node involvement (p=0.020), and positive MetaPath™ results (p=0.002) as significant predictors of detection, while multivariate analysis confirmed these as independent factors (p=0.036; p=0.042; p=0.006). Lymph nodes were the most common infection site in HIV-positive patients (42.9%, 27/63), while lung tissue predominated in HIV-negative patients (48%, 12/25). MetaPath™ demonstrated superior sensitivity and specificity for detecting both MTB and NTM. Biopsy samples provided higher diagnostic accuracy than sputum or blood for lung and lymph node infections, but not for brain. In HIV-positive patients, NTM infections showed significantly more granuloma formation (p=0.032) and foam cells (p=0.005), but less necrosis (p=0.0005) compared to MTB infections. No significant differences were observed in HIV-negative patients.ConclusionsMetaPath™ is a highly effective diagnostic tool for mycobacterial infections, particularly in tissue biopsies. HIV-positive status, lymph node involvement, and MetaPath™ positivity independently predict mycobacterial detection. HIV-positive patients exhibit distinct clinicopathological features, emphasizing the need for tailored diagnostic and therapeutic approaches based on immune status. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1584189>
 
 ---
 

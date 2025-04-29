@@ -1,11 +1,129 @@
 ---
 title: food
-updated: 2025-04-28 14:08:19
+updated: 2025-04-29 06:12:41
 ---
 
 # food
 
-(date: 2025-04-28 14:08:19)
+(date: 2025-04-29 06:12:41)
+
+---
+
+## Need a Coffee Substitute to Ease Your Jitters? Start With These
+
+date: 2025-04-29, from: Bon Appetet
+
+From frothy matcha lattes to roasted barley blends, you’ve got options. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-coffee-alternatives>
+
+---
+
+## Coffee Is Now Officially Healthy
+
+date: 2025-04-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Coffee can now be labelled as healthy, according to the FDA. 
+
+<br> 
+
+<https://sprudge.com/coffee-is-now-officially-healthy-324704.html>
+
+---
+
+## Coffee Techs Launch Cooperative to Boost Standards for Equipment Maintenance
+
+date: 2025-04-29, from: The Fresh Cup
+
+<p>A group of U.S.-based techs have joined together to create the Service Layer Cooperative (SLC), a nationwide network of independent coffee equipment technicians.</p>
+<p>The post <a href="https://freshcup.com/coffee-techs-launch-cooperative-to-boost-standards-for-equipment-maintenance/">Coffee Techs Launch Cooperative to Boost Standards for Equipment Maintenance</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-techs-launch-cooperative-to-boost-standards-for-equipment-maintenance/>
+
+---
+
+## Happy 18th Birthday Closet Cooking!
+
+date: 2025-04-29, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/04/Happy-18th-Birthday-Closet-Cooking.jpg"/></div>
+<p>Closet Cooking celebrates 18 years of sharing tasty food and recipes! I can&#8217;t believe that it’s been another year! It was a tasty year filled with plenty of new and fun recipes! As I look back over the recipes shared in the last year I see a wonderful variety of: mains, sides, appetizers, desserts, breakfasts,...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/happy-18th-birthday-closet-cooking/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/happy-18th-birthday-closet-cooking/">Happy 18th Birthday Closet Cooking!</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/happy-18th-birthday-closet-cooking/>
+
+---
+
+## Small Roasters Were a Big Draw at the 2025 SCA Expo
+
+date: 2025-04-28, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee roasters 2025" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Small roasters drew some of the largest crowds at the 2025 SCA Expo in Houston over the weekend. (Read all of DCN&#8217;s 2025 Expo coverage.) Two relatively compact machines, one... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/28/small-roasters-were-a-big-draw-at-the-2025-sca-expo/>
+
+---
+
+## Elise Jesse’s Pasta Salad
+
+date: 2025-04-28, from: Taste of Home
+
+Summer was made for pasta salad, and this creamy, colorful dish is my go-to. My mom whipped it up in the '90s when every pasta salad was smothered with Italian dressing. That version wasn’t my mom’s speed, so she took a risk and switched it up with mayo. She nervously brought it to a pool party, and to her surprise, it was an instant hit. Soon, it became a highly requested dish. Now my own kids ask for it too. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-pasta-salad/>
+
+---
+
+## Prince William’s Favorite Dessert Is Oddly Specific
+
+date: 2025-04-28, from: Taste of Home
+
+<p>Will's go-to dessert is a traditional recipe with a surprisingly tropical twist.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/prince-william-favorite-dessert/">Prince William’s Favorite Dessert Is Oddly Specific</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/prince-william-favorite-dessert/>
+
+---
+
+## Burger King Just Released a New Strawberry Frozen Drink, and It Tastes Like Nostalgia
+
+date: 2025-04-28, from: Taste of Home
+
+<p>Never underestimate the power of Nerds.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/burger-king-strawberry-frozen-drink/">Burger King Just Released a New Strawberry Frozen Drink, and It Tastes Like Nostalgia</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/burger-king-strawberry-frozen-drink/>
+
+---
+
+## Some Colombian Coffee Growers Switching to Cacao as Temperatures Rise
+
+date: 2025-04-28, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="DSCF8986-scaled" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-1536x1152.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 620px) 100vw, 620px" /></div>Due to rising temperatures and climate change, small-scale coffee farmers in Colombia are increasingly planting cacao. Cacao faces fewer immediate challenges compared to coffee, which is prone to pests and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/28/some-colombian-coffee-growers-switching-to-cacao-as-temperatures-rise/>
 
 ---
 
@@ -177,7 +295,7 @@ date: 2025-04-28, from: Chili Pepper Madness
 
 date: 2025-04-27, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg" class="attachment-large size-large wp-post-image" alt="expo2025-hb-3" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The first two days of the 2025 Specialty Coffee Expo in Houston provided thousands of coffee professionals with a Texas-sized platform for sensory exploration, equipment demos, endless hand-shaking, innovation and... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg" class="attachment-large size-large wp-post-image" alt="expo2025-hb-3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The first two days of the 2025 Specialty Coffee Expo in Houston provided thousands of coffee professionals with a Texas-sized platform for sensory exploration, equipment demos, endless hand-shaking, innovation and... 
 
 <br> 
 

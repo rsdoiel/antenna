@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-28 14:08:13
+updated: 2025-04-29 06:12:35
 ---
 
 # science and technology
 
-(date: 2025-04-28 14:08:13)
+(date: 2025-04-29 06:12:35)
+
+---
+
+## The State of Open Source in 2025? Honestly, it's a mess but you knew that already
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>The good news: everyone&#39;s using it. The bad news: have you seen how they&#39;re using it?</h4> <p>OpenLogic&#39;s 2025 State of Open Source Report offers a slightly different perspective on modern corporate adoption of FOSS – and it&#39;s not a reassuring one.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/state_of_open_source/>
+
+---
+
+## China is using AI to sharpen every link in its attack chain, FBI warns
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Artificial intelligence is helping Beijing&#39;s goons break in faster and stay longer</h4> <p><strong>RSAC</strong>  The biggest threat to US critical infrastructure, according to FBI Deputy Assistant Director Cynthia Kaiser, can be summed up in one word: &#34;China.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/fbi_china_ai/>
+
+---
+
+## 808 lines of BBC BASIC and a dream: Arm architecture turns 40
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>&#39;We thought it was a really obvious way to build a processor and everybody would be doing it&#39;</h4> <p>It is 40 years since the first Arm processor was powered up, and the UK&#39;s Centre for Computing History (CCH) celebrated in style, with speakers to mark the event, hardware on show, and a countdown to the anniversary.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/arm_40/>
+
+---
+
+## In the Starlight: Jason Phillips’ Unexpected Path to Johnson Procurement
+
+date: 2025-04-29, from: NASA breaking news
+
+Sometimes an unexpected turn in a carefully planned career path leads to surprising opportunities for growth and exciting new experiences. For Jason Phillips, that turn steered toward NASA’s Johnson Space Center in Houston. Phillips joined the U.S. Air Force in 1994 and planned to serve for at least 20 years, but in 2010—while preparing for [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-jason-phillips-unexpected-path-to-johnson-procurement/>
+
+---
+
+## The one interview question that will protect you from North Korean fake workers
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>FBI and others list how to spot NK infiltrators, but AI will make it harder</h4> <p><strong>RSAC</strong>  Concerned a new recruit might be a North Korean stooge out to steal intellectual property and then hit an org with malware? There is an answer, for the moment at least.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/north_korea_worker_interview_questions/>
+
+---
+
+## After leaving citizens on hold for 798 years, UK tax authority has £1B for CRM upgrade
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>HMRC kicks off procurement to modernize customer service after scathing reports</h4> <p>The UK&#39;s tax collector plans to appoint a new CRM vendor to manage its vast interactions with citizens over their tax affairs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/hmrc_crm/>
+
+---
+
+## Generative AI is not replacing jobs or hurting wages at all, say economists
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>&#39;When we look at the economic outcomes, it really has not moved the needle&#39;</h4> <p>Instead of depressing wages or taking jobs, generative AI chatbots like ChatGPT, Claude, and Gemini have had almost no wage or labor impact so far – a finding that calls into question the huge capital expenditures required to create and run AI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/>
+
+---
+
+## Swiss boffins admit to secretly posting AI-penned posts to Reddit in the name of science
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>They’re sorry/not sorry for testing if bots can change minds by pretending to be a trauma counselor or a victim of sexual abuse</h4> <p>Researchers from the University of Zurich have admitted to secretly posting AI-generated material to popular Subreddit r/changemyview in the name of science.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/swiss_boffins_admit_to_secretly/>
+
+---
+
+## Amazon’s first 27 Kuiper broadband sats make it into orbit on an Atlas V
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>One launch down, 80-plus to go, for a pittance compared to planned AWS spending</h4> <p>Amazon’s first attempt to hoist production versions of its Project Kuiper broadband-beaming satellites appears to have succeeded.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/amazon_kuiper_first_launch/>
+
+---
+
+## Open source text editor poisoned with malware to target Uyghur users
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Who could possibly be behind this attack on an ethnic minority China despises?</h4> <p>Researchers at Canada’s Citizen Lab have spotted a phishing campaign and supply chain attack directed at Uyghur people living outside China, and suggest it’s an example of Beijing’s attempts to target the ethnic minority group.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/citizen_lab_uyghur_phishing_malware/>
+
+---
+
+## Ex-Disney employee gets 3 years in the clink for goofy attacks on mousey menus
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Florida man altered allergen info, DoSed former colleagues</h4> <p>Former Disney employee Michael Scheuer was sentenced to 36 months in prison and fined almost $688,000 for screwing up a software application the entertainment giant used to cook up its restaurant menus.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/former_disney_employee_jailed/>
+
+---
+
+## Cybersecurity CEO accused of running malware on hospital PC blabs about it on LinkedIn
+
+date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+
+<h4>Sometimes, silence is the best option</h4> <p>An Oklahoma City cybersecurity professional accused of installing spyware on a hospital PC confirmed on LinkedIn key details of the drama.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/28/infosec_ceo_accused_of_installing_malware/>
+
+---
+
+## How to survive as a CISO aka 'chief scapegoat officer'
+
+date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+
+<h4>Whistleblowing, email is evidential mail, HR is not your friend, and more discussed by CxO panel</h4> <p><strong>RSAC</strong>  Chief security officers should negotiate personal liability insurance and a golden parachute when they start a new job – in case things go sideways and management tries to scapegoat them for a network breach.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/28/ciso_rsa_whistleblowing/>
+
+---
+
+## Admission impossible: NSA, CISA brass absent from RSA Conf
+
+date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+
+<h4>Homeland Security boss Noem added as last-minute keynote, mind you</h4> <p><strong>RSAC</strong>  There&#39;s a notable absence from this year&#39;s RSA Conference that kicked off today in San Francisco: The NSA&#39;s State of the Hack panel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/28/nsa_cisa_bosses_notably_absent/>
 
 ---
 
@@ -155,7 +323,7 @@ date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
 
 ## EU Chips Act heading for failure, time for Chips Act 2.0
 
-date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+date: 2025-04-28, updated: 2025-04-29, from: The Register (UK I.T. News)
 
 <h4>Damning report says it set a moving target that was way too ambitious</h4> <p>The European Chips Act is unlikely to meet its target of hitting a 20 percent share of the global semiconductor market by 2030.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -169,7 +337,7 @@ date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
 
 date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
 
-<h4>Cyberattack? Bad software update? International oopsie? The cause is unclear, but Iberia is dark</h4> <p>A massive power outage has left Spain, Portugal and parts of southern France without electricity, and the cause has yet to be identified.…</p> 
+<h4>Cyberattack? Bad software update? International oopsie? The cause is unclear, but Iberia is dark</h4> <p><strong>Updated</strong>  A massive power outage has left Spain, Portugal and parts of southern France without electricity, and the cause has yet to be identified.…</p> 
 
 <br> 
 

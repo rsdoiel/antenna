@@ -1,11 +1,67 @@
 ---
 title: home
-updated: 2025-04-28 14:08:17
+updated: 2025-04-29 06:12:39
 ---
 
 # home
 
-(date: 2025-04-28 14:08:17)
+(date: 2025-04-29 06:12:39)
+
+---
+
+## 5 Ways to Propagate Your Own Forsythia
+
+date: 2025-04-29, from: The Gardener's Path
+
+<p>Forsythia is a deciduous shrub for USDA Hardiness Zones 5-8, best known for its yellow blossoms and for being one of the earliest spring bloomers. These grow best in locations with full sun and well-draining soil. Read on to learn how to propagate more from the ones you have, and fill your yard with springtime cheer.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/propagate-forsythia/">5 Ways to Propagate Your Own Forsythia</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/propagate-forsythia/>
+
+---
+
+## How to Identify and Control Septoria Leaf Spot on Tomatoes
+
+date: 2025-04-29, from: The Gardener's Path
+
+<p>If you live in a climate that tends to be hot and humid, Septoria leaf spot can be a devastating disease of tomatoes. This fungal infection can be very persistent, so you may need to use fungicides to keep it under control. Read on to learn how to prevent, identify, and control this disease in the garden.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/septoria-leaf-spot-tomatoes/">How to Identify and Control Septoria Leaf Spot on Tomatoes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/septoria-leaf-spot-tomatoes/>
+
+---
+
+## How to Propagate Bay Laurel From Cuttings
+
+date: 2025-04-29, from: The Gardener's Path
+
+<p>If you’ve ever shopped for bay trees at the nursery, you know they can be pricey. No need to shell out the green – if you’re up for a challenge, why not propagate one at home via cuttings? This comprehensive guide will walk you through taking and growing bay tree cuttings the right way for the best chance of success.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/bay-laurel-cuttings/">How to Propagate Bay Laurel From Cuttings</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/bay-laurel-cuttings/>
+
+---
+
+## How to Lift, Divide, and Transplant Iris Plants
+
+date: 2025-04-29, from: The Gardener's Path
+
+<p>A garden favorite, irises add elegant beauty and fragrance wherever they’re planted. Upright and clump forming, they look terrific in beds, borders, and containers. But to keep plants vibrantly flowering, they benefit from regular division every three or four years. Learn how to divide and transplant irises now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/divide-iris/">How to Lift, Divide, and Transplant Iris Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/divide-iris/>
 
 ---
 
@@ -75,6 +131,18 @@ The monochromatic finish is broken up only when wall-size sliders are opened to 
 
 ---
 
+## When Should You Book Your Flight? A Travel Pros Shares Game-Changing Advice
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+Timing is everything when buying airfare. A travel expert shares the best time to book a flight to get a great deal for your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-time-to-book-flight>
+
+---
+
 ## Before & After: In Spain, an Architect Restores an Iconic Home Built by His Grandparents
 
 date: 2025-04-28, from: Dwell
@@ -96,6 +164,18 @@ The midcentury getaway features a cozy, recessed seating area flanked by a massi
 <br> 
 
 <https://www.dwell.com/article/midcentury-cabin-conversation-pit-john-bruni-middleton-wisconsin-real-estate-52ccdf83>
+
+---
+
+## 22 Recipes Where Fresh and Vibrant Spring Vegetables Are the Star
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+It’s time to take advantage of the fresh spring produce that abounds this time of year. Try these spring vegetable recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/spring-vegetable-recipes>
 
 ---
 
@@ -124,6 +204,42 @@ date: 2025-04-28, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/cold-hardy-clematis/>
+
+---
+
+## This Northern California Town Is Going Through a Cultural Renaissance Right Now
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+See for yourself how California’s capital has stepped out of its sepia-toned past and into a fashionable, foodie present. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-sacramento>
+
+---
+
+## The Coolest Wine Region in the West Is Actually in Mexico
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+A celebrated architect shares his favorite things to doin Valle de Guadalupe, the West's coolest wine region. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-valle-de-guadalupe>
+
+---
+
+## This Kitchen Makeover Leans into Its Spanish-Revival Architecture
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+This kitchen was lacking seating and storage. Designer Evgenia Merson updated it to match the home's Spanish-Revival architecture. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/piedmont-kitchen-makeover>
 
 ---
 
@@ -201,18 +317,6 @@ date: 2025-04-28, from: Sunset Magazine - Living in the West
 <br> 
 
 <https://www.sunset.com/>
-
----
-
-## This Northern California Town Is Going Through a Cultural Renaissance Right Now
-
-date: 2025-04-28, from: Sunset Magazine - Living in the West
-
-See for yourself how California’s capital has stepped out of its sepia-toned past and into a fashionable, foodie present. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/things-to-do-sacramento>
 
 ---
 

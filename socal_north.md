@@ -1,11 +1,164 @@
 ---
 title: socal north
-updated: 2025-04-28 14:08:12
+updated: 2025-04-29 06:12:34
 ---
 
 # socal north
 
-(date: 2025-04-28 14:08:12)
+(date: 2025-04-29 06:12:34)
+
+---
+
+## LA County firefighter training program welcomes first all-female cadet cohort
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+The program trains formerly incarcerated Angelenos for firefighting jobs. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-firefighter-training-program-welcomes-first-all-female-cadet-cohort>
+
+---
+
+## Labor union leaders push back on LA mayor's proposed budget cuts
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+LA Mayor Karen Bass has proposed more than 1,600 layoffs to deal with a nearly $1 billion budget shortfall. 
+
+<br> 
+
+<https://laist.com/news/politics/labor-union-leaders-push-back-on-la-mayors-proposed>
+
+---
+
+## Tustin wants help deciding what should happen to a hulking, historic blimp hangar
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Tustin is asking residents to weigh in on future plans for the undeveloped parts of a former military base — including the historic World War II blimp hangar. 
+
+<br> 
+
+<https://laist.com/news/politics/tustin-world-war-ii-military-hangar-community-input>
+
+---
+
+## After losing a performance venue to the fires, Angeles Chorale finds a temporary home
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Since the January wildfires, people and organizations that serve musicians and other artists have stepped up to help. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/angeles-chorale-finds-temporary-home-dorothy-chandler-pavilion-downtown-los-angeles>
+
+---
+
+## Sunny and warm day ahead for SoCal. It's been a while
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+SoCal temperatures will range from the mid-60s at the beaches to low 80s in the valleys. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sunny-and-warm-day-ahead-for-socal>
+
+---
+
+## George’s Greek Cafe evicted from longtime Pine Avenue storefront
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="1024" height="731" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-1024x731.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-1024x731.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-151x108.jpg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-400x286.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The family that founded the iconic local restaurant chain sold the Downtown location in 2023, and the new owner racked up tens of thousands in debt, court records show.</p>
+<p>The post <a href="https://lbpost.com/news/georges-greek-cafe-pine-avenue-closed-evicted-loizides">George’s Greek Cafe evicted from longtime Pine Avenue storefront</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/georges-greek-cafe-pine-avenue-closed-evicted-loizides>
+
+---
+
+## The White House threatens sanctuary cities in another EO, but courts are skeptical
+
+date: 2025-04-28, updated: 2025-04-28, from: The LAist
+
+President Donald Trump signed an executive order aimed at identifying sanctuary cities, part of a broader effort to target jurisdictions that limit cooperation with ICE. 
+
+<br> 
+
+<https://laist.com/news/politics/the-white-house-threatens-sanctuary-cities-in-another-eo-but-courts-are-skeptical>
+
+---
+
+## How the state sent Californians’ personal health data to LinkedIn
+
+date: 2025-04-28, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28154748/042425-covered-ca-bug-gh-cm-635339-3ywem1mf-701499-FdAwBeKX-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28154748/042425-covered-ca-bug-gh-cm-635339-3ywem1mf-701499-FdAwBeKX-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28154748/042425-covered-ca-bug-gh-cm-635339-3ywem1mf-701499-FdAwBeKX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28154748/042425-covered-ca-bug-gh-cm-635339-3ywem1mf-701499-FdAwBeKX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28154748/042425-covered-ca-bug-gh-cm-635339-3ywem1mf-701499-FdAwBeKX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28154748/042425-covered-ca-bug-gh-cm-635339-3ywem1mf-701499-FdAwBeKX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28154748/042425-covered-ca-bug-gh-cm-635339-3ywem1mf-701499-FdAwBeKX.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The state’s health insurance exchange transmitted pregnancy and domestic abuse data during a marketing campaign. It is reviewing its website practices.</p>
+<p>The post <a href="https://lbpost.com/news/how-the-state-sent-californians-personal-health-data-to-linkedin">How the state sent Californians’ personal health data to LinkedIn</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/how-the-state-sent-californians-personal-health-data-to-linkedin>
+
+---
+
+## Long Beach man arrested on suspicion of defrauding FEMA for Eaton Fire relief money
+
+date: 2025-04-28, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He was able to get $28,286 in disaster relief before officials discovered he hadn’t actually rented a property in Altadena that was destroyed, authorities allege.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-fema-fraud-eaton-fire-rent">Long Beach man arrested on suspicion of defrauding FEMA for Eaton Fire relief money</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-fema-fraud-eaton-fire-rent>
+
+---
+
+## Tens of thousands of LA County union workers are now on strike
+
+date: 2025-04-28, updated: 2025-04-29, from: The LAist
+
+The county and its largest union are in the midst of contract negotiations. The strike is expected to disrupt some services through Wednesday evening. 
+
+<br> 
+
+<https://laist.com/news/politics/la-county-union-workers-seiu-721-strike>
+
+---
+
+## Rock & Roll Hall of Fame class of 2025 includes OutKast, Soundgarden and Cyndi Lauper
+
+date: 2025-04-28, updated: 2025-04-28, from: The LAist
+
+The seven acts voted into the Rock Hall this year include Southern rap and Midwest garage rock duos, pillars of the grunge and English blues rock eras and the 1980s' most unusual pop star. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/rock-roll-hall-of-fame-class-of-2025-includes-outkast-soundgarden-and-cyndi-lauper>
+
+---
+
+## Some Los Angeles fires victims are rebuilding their homes without gas appliances
+
+date: 2025-04-28, updated: 2025-04-28, from: The LAist
+
+As Los Angeles rebuilds from the Eaton and Palisades fires, climate activists want to retire the gas utility pipelines and and hope to persuade people to rebuild homes as all-electric. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/some-los-angeles-fires-victims-rebuilding-their-homes-without-gas-appliances>
 
 ---
 
@@ -25,7 +178,7 @@ Non-Real ID compliant driver’s licenses or IDs will no longer be accepted on d
 
 date: 2025-04-28, from: Longbeach Post
 
-<figure><img width="1024" height="584" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-1024x584.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-1024x584.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="584" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-1024x584.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-1024x584.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28103340/28apr25-village-3-174875-uiewo8sf-438644-uH5QX8Ia.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The decaying tourist attraction will be replaced by parking and event space as the city prepares for an entertainment-focused vision along its shoreline.</p>
 <p>The post <a href="https://lbpost.com/news/city/old-english-village-queen-mary-demoltion-long-beach">Long Beach tears down Old English Village at the Queen Mary, saying it will pave way for the future</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

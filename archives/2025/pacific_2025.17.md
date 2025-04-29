@@ -1,11 +1,504 @@
 ---
 title: pacific
-updated: 2025-04-28 14:08:13
+updated: 2025-04-29 06:12:34
 ---
 
 # pacific
 
-(date: 2025-04-28 14:08:13)
+(date: 2025-04-29 06:12:34)
+
+---
+
+## Two East Hawaii men face separate sex assault charges
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>Two East Hawaii men were recently arrested in different, unrelated cases charging them with sex assault.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/hawaii-news/two-east-hawaii-men-face-separate-sex-assault-charges/>
+
+---
+
+## Portions of Ali‘i Drive to become one-way Thursday
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>The county will add free parking on Ali&#8216;i Drive in Kailua-Kona on Thursday by turning a portion of the road into a one-way street.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/hawaii-news/portions-of-alii-drive-to-become-one-way-thursday/>
+
+---
+
+## Documents: Woman strangled boyfriend with seatbelt
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>A 42-year-old Pahoa woman accused of killing her significant other during a domestic dispute late Thursday night strangled him with the driver&#8217;s side seatbelt of a 2013 Honda Fit, according to court documents filed by police.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/hawaii-news/documents-woman-strangled-boyfriend-with-seatbelt/>
+
+---
+
+## Waikoloa park’s sports fields improved
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>Kamakoa Nui Park in Waikoloa will be reopening its newly improved sports fields on Sunday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/hawaii-news/waikoloa-parks-sports-fields-improved/>
+
+---
+
+## Consumers in Hawaii prepare for tariffs’ impact
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>Fish sauce, a Chinese cooking staple and Hawaii favorite ingredient, is always on Sabrina Stephen&#8217;s shopping list.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/hawaii-news/consumers-in-hawaii-prepare-for-tariffs-impact/>
+
+---
+
+## US dismisses all authors of National Climate Assessment, email says
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s administration has dismissed all contributors to the U.S. government&#8217;s signature study that informs federal and local governments on how to prepare for climate change impacts, according to an email sent to them on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/us-dismisses-all-authors-of-national-climate-assessment-email-says/>
+
+---
+
+## Power begins to return after huge outage hits Spain and Portugal
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>MADRID/LISBON &#8212; Power started returning to parts of the Iberian peninsula late on Monday after a huge outage brought most of Spain and Portugal to a standstill, grounding planes, halting public transport, and forcing hospitals to suspend routine operations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/power-begins-to-return-after-huge-outage-hits-spain-and-portugal/>
+
+---
+
+## Suspected US airstrike hits Yemen migrant centre, Houthi TV says 68 killed
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>DUBAI, United Arab Emirates &#8212; Dozens of people were killed Monday in an attack that hit a migrant facility in an area of northern Yemen controlled by the Houthi militia, according to the group and aid officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/suspected-us-airstrike-hits-yemen-migrant-centre-houthi-tv-says-68-killed/>
+
+---
+
+## Amazon launches first Kuiper internet satellites, taking on Starlink
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The first 27 satellites for Amazon&#8217;s Kuiper broadband internet constellation were launched into space from Florida on Monday, kicking off the long-delayed deployment of an internet-from-space network that will rival SpaceX&#8217;s Starlink.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/amazon-launches-first-kuiper-internet-satellites-taking-on-starlink/>
+
+---
+
+## Filipino ‘caring culture’ hit hard by Canada truck-ramming that killed 11
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>VANCOUVER &#8212; The election eve truck-ramming that killed 11 people and injured dozens more in Vancouver sent waves of grief across Canada&#8217;s Filipino community, integral to Canada in part through many members&#8217; roles as caregivers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/filipino-caring-culture-hit-hard-by-canada-truck-ramming-that-killed-11/>
+
+---
+
+## News in brief for April 29
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>Conclave to choose new pope &#0010;will start May 7, Vatican says</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/news-in-brief-for-april-29/>
+
+---
+
+## Putin orders 3-day truce in Ukraine next month, Kremlin says
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>President Vladimir Putin of Russia ordered a three-day unilateral ceasefire in Ukraine next week, the Kremlin said Monday, soon after President Donald Trump reiterated his frustration with Russia&#8217;s refusal to stop the war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/putin-orders-3-day-truce-in-ukraine-next-month-kremlin-says/>
+
+---
+
+## Hispanics helped Trump retake the White House. Now their support is waning
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Love of country is so important to Navy veteran Antonio Gonzales Jr. that he keeps an American flag lit up 24/7 outside his home in Porterville, California.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/hispanics-helped-trump-retake-the-white-house-now-their-support-is-waning/>
+
+---
+
+## Canada votes on new leader in tumultuous moment
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>The first polls have closed in Canada in a deeply consequential election that will decide the country&#8217;s next leader, its response to President Donald Trump&#8217;s threats and the shape of its economic future at a time of global turmoil. More polls will close across the country over the coming hours, with results expected late Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/canada-votes-on-new-leader-in-tumultuous-moment/>
+
+---
+
+## Trump touts immigration crackdown despite concerns about due process
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s administration touted the early results of his immigration crackdown on Monday despite concerns over due process, displaying photos of alleged criminal offenders on the White House lawn and preparing to target cities and states that limit cooperation with federal immigration enforcement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/nation-world-news/trump-touts-immigration-crackdown-despite-concerns-about-due-process/>
+
+---
+
+## Let’s Talk Food: Japanese cucumbers
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>I am so thrilled that the Japanese cucumber plants that I bought from Neil at the Kinoole Farmers Market a couple of weeks ago have already produced two beautiful cucumbers that we have enjoyed and added to salads already. It gives me great confidence that I am actually able to grow my own food! If you have checked the prices at the market lately, one small Japanese cucumber can cost about $2.50 and a large one, up to $5.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/features/lets-talk-food-japanese-cucumbers/>
+
+---
+
+## Want a fast but fancy dinner? Try pan-frying fish
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>When it comes to fixing a fast dinner, I go with trout fillets. A rich, fatty fish, trout is as flavorful as salmon but the thinner fillets cook off in a jiff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/features/want-a-fast-but-fancy-dinner-try-pan-frying-fish/>
+
+---
+
+## Koror, Rull formalize Land Grant to deepen Cultural Bonds
+
+date: 2025-04-29, from: Island Times
+
+<figure><img width="1024" height="790" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1024%2C790&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=1024%2C790&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=768%2C593&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=1200%2C926&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=780%2C602&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=400%2C309&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=706%2C545&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1024%2C790&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77115" data-permalink="https://islandtimes.org/koror-rull-formalize-land-grant-to-deepen-cultural-bonds/attachment/1000008172/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1249%2C964&amp;ssl=1" data-orig-size="1249,964" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1745838349&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000008172" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=300%2C232&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=780%2C602&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Koror State and Rull Municipality of Yap State in the Federated States of Micronesia strengthened their longstanding cultural ties this week with the granting of land use rights for a submerged lot in Koror. At a signing ceremony Monday, Governor Eyos Rudimch said the agreement fulfills the wishes of the late Ibedul [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-rull-formalize-land-grant-to-deepen-cultural-bonds/">Koror, Rull formalize Land Grant to deepen Cultural Bonds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/koror-rull-formalize-land-grant-to-deepen-cultural-bonds/>
+
+---
+
+## Man found dead after night fishing trip near Aimeliik Reef
+
+date: 2025-04-29, from: Island Times
+
+<p>A man who went missing after a night fishing trip was found dead Saturday, April 27, near the Aimeliik northern reef, authorities said. Ngiralulk Tewid had gone fishing around 5 p.m. Friday and told those close to him that he expected to return by 8 p.m. When he failed to come home and did not [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/man-found-dead-after-night-fishing-trip-near-aimeliik-reef/">Man found dead after night fishing trip near Aimeliik Reef</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/man-found-dead-after-night-fishing-trip-near-aimeliik-reef/>
+
+---
+
+## Koror becomes first in Palau to require Same-Day Absentee Ballot Counts
+
+date: 2025-04-29, from: Island Times
+
+<p>KOROR, Palau — Koror State has passed a new law requiring absentee ballots to be counted on the same day as elections, aiming to deliver faster results and boost voter confidence. Koror State Public Law No. K12-365-2024 mandates that absentee ballots in any state election — primary, runoff, special, or general — must be counted [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-becomes-first-in-palau-to-require-same-day-absentee-ballot-counts/">Koror becomes first in Palau to require Same-Day Absentee Ballot Counts</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/koror-becomes-first-in-palau-to-require-same-day-absentee-ballot-counts/>
+
+---
+
+## Palau working to reduce debts- Whipps
+
+date: 2025-04-29, from: Island Times
+
+<figure><img width="1024" height="521" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=1024%2C521&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=1024%2C521&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=1024%2C521&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69858" data-permalink="https://islandtimes.org/president-whipps-to-deliver-4th-state-of-the-republic-address/surangel-whipps-jr/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=605%2C732&amp;ssl=1" data-orig-size="605,732" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel-Whipps-Jr" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=248%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=780%2C397&amp;ssl=1" /></figure>
+<p>President Surangel Whipps Jr. announced that his government is working to reduce debt and has laid out plans to pay it down.&#160; During his State of the Republic Address, Whipps highlighted that Palau inherited over $164 million in debt when he took office.&#160; “Debt was a significant challenge at the start of our administration, a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-working-to-reduce-debts-whipps/">Palau working to reduce debts- Whipps </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-working-to-reduce-debts-whipps/>
+
+---
+
+## From Palau to Saipan
+
+date: 2025-04-29, from: Island Times
+
+<p>International Drug Trafficker Faces 25-Year Sentence A Chinese national convicted of manslaughter in Palau and accused of leading a major drug trafficking operation in the Pacific has been extradited to Saipan under an agreement between the United States and Palau. According to Marianas Variety, federal prosecutors are seeking a 25-year prison sentence for Ye Fang, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/from-palau-to-saipan/">From Palau to Saipan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/from-palau-to-saipan/>
+
+---
+
+## Bilung Protests Senate’s Exclusion of Ibedul at State of the Republic Address
+
+date: 2025-04-29, from: Island Times
+
+<p>MELEKEOK, Palau — Bilung Gloria Salii, the highest-ranking female titleholder of the Idid Clan of Koror, protested the Senate&#8217;s decision to withhold a seat from James Littler, her Ibedul appointee, during the State of the Republic Address on Thursday, April 24, 2025. In a letter to Senate President Hokkons Baules, Bilung criticized the move as [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bilung-protests-senates-exclusion-of-ibedul-at-state-of-the-republic-address/">Bilung Protests Senate&#8217;s Exclusion of Ibedul at State of the Republic Address</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bilung-protests-senates-exclusion-of-ibedul-at-state-of-the-republic-address/>
+
+---
+
+## Palau Celebrates National Day at Expo 2025 in Osaka
+
+date: 2025-04-29, from: Island Times
+
+<figure><img width="1024" height="762" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?fit=1024%2C762&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=1024%2C762&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=768%2C571&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=1200%2C893&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=780%2C580&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=400%2C298&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?resize=706%2C525&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?fit=1024%2C762&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77087" data-permalink="https://islandtimes.org/palau-celebrates-national-day-at-expo-2025-in-osaka/img_1705/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?fit=1249%2C929&amp;ssl=1" data-orig-size="1249,929" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_1705" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?fit=300%2C223&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/IMG_1705.jpeg?fit=780%2C580&amp;ssl=1" /></figure>
+<p>OSAKA, Japan (April 28, 2025) — The Republic of Palau celebrated its National Day at Expo 2025 in Osaka, Kansai, Japan, on Monday, highlighting its rich cultural traditions and long-standing ties with Japan. The day opened with a ceremony featuring remarks by Palau President Surangel Whipps Jr., who emphasized the special relationship between the two [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-celebrates-national-day-at-expo-2025-in-osaka/">Palau Celebrates National Day at Expo 2025 in Osaka</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-celebrates-national-day-at-expo-2025-in-osaka/>
+
+---
+
+## Domestic Violence
+
+date: 2025-04-29, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>We don&#8217;t walk away to teach a lesson. We walk away because we finally learned a lesson. I still remember the day I walked away from an emotional and alcoholic abusive home.&#160; I also w alked away from a religiously abusive organization. I blocked those bullies in internet.&#160; I haven&#8217;t looked back. Nearly 80% of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/domestic-violence/">Domestic Violence</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/domestic-violence/>
+
+---
+
+## Trump order to loosen fishing regulations poses major risks, experts warn
+
+date: 2025-04-29, from: Island Times
+
+<p>CANBERRA (THE GUARDIAN) &#8212; Environmental conservation groups are expressing major concerns over Donald Trump’s recent proclamation to reverse fishing regulations across the Pacific Islands Heritage Marine national monument, a federally protected area in the central Pacific Ocean spanning nearly 500,000 sq miles. As one of the most pristine tropical marine environments in the world, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trump-order-to-loosen-fishing-regulations-poses-major-risks-experts-warn/">Trump order to loosen fishing regulations poses major risks, experts warn</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trump-order-to-loosen-fishing-regulations-poses-major-risks-experts-warn/>
+
+---
+
+## Lights out at CNMI’s only theatre amid economic struggles
+
+date: 2025-04-29, from: Island Times
+
+<p>SAIPAN (RNZ PACIFIC) &#8212; Movie goers in the Commonwealth of Northern Mariana Islands are lamenting the closure of the territoy&#8217;s only cinema. Regal Cinemas in Saipan is set to roll its final credits at the end of this month. Local residents, who spoke to RNZ Pacific, expressed their disappointment at the prospect of no longer [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lights-out-at-cnmis-only-theatre-amid-economic-struggles/">Lights out at CNMI&#8217;s only theatre amid economic struggles</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/lights-out-at-cnmis-only-theatre-amid-economic-struggles/>
+
+---
+
+## Cocaine haul at Wotho Atoll in Marshall Islands
+
+date: 2025-04-29, from: Island Times
+
+<p>MAJURO (RNZ PACIFIC) &#8212; The discovery of 18 blocks of wrapped cocaine with an approximate total weight of 45 pounds was made on the oceanside of Kabin Island, Wotho Atoll, in mid-March by 11 local residents hunting coconut crab, according to a statement from the Office of National Security (ONS). News of the discovery circulated [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cocaine-haul-at-wotho-atoll-in-marshall-islands/">Cocaine haul at Wotho Atoll in Marshall Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/cocaine-haul-at-wotho-atoll-in-marshall-islands/>
+
+---
+
+## Pacific editor welcomes U.S Court ruling in favour of Radio Free Asia
+
+date: 2025-04-29, from: Island Times
+
+<p>WELLINGTON (RNZ PACIFIC) &#8212; The former head of BenarNews&#8217; Pacific Bureau says a United States court ruling this week ordering the U.S Agency for Global Media (USAGM) to release congressionally approved funding to Radio Free Asia and its subsidiaries &#8220;makes us very happy&#8221;. However, Stefan Armbruster, who has played a key role in expanding the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-editor-welcomes-u-s-court-ruling-in-favour-of-radio-free-asia/">Pacific editor welcomes U.S Court ruling in favour of Radio Free Asia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-editor-welcomes-u-s-court-ruling-in-favour-of-radio-free-asia/>
+
+---
+
+## Dutton names China as biggest threat to security as leaders faced off in fiery final debate
+
+date: 2025-04-29, from: Island Times
+
+<p>CANBERRA &#160;(ABC NEWS) &#8212; Australian Coalition leader Peter Dutton singled out China as the biggest threat to national security and pressed Prime Minister Anthony Albanese on whether Welcome to Country ceremonies were overdone in a fiery final leaders&#8217; debate. The leaders were also quizzed about the economy, housing, Donald Trump and the cost of eggs [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dutton-names-china-as-biggest-threat-to-security-as-leaders-faced-off-in-fiery-final-debate/">Dutton names China as biggest threat to security as leaders faced off in fiery final debate</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dutton-names-china-as-biggest-threat-to-security-as-leaders-faced-off-in-fiery-final-debate/>
+
+---
+
+## U.S President Trump signs executive order boosting deep-sea mining industry
+
+date: 2025-04-29, from: Island Times
+
+<p>WASHINGTON (REUTERS/OCEAN CONSERVANCY) &#8212; U.S President Donald Trump on Thursday signed an executive order aimed at boosting the deep-sea mining industry, the latest attempt to boost U.S production of nickel, copper and other critical minerals used widely across the economy. The broad order avoids a direct confrontation with the United Nations-backed International Seabed Authority(ISA) and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-president-trump-signs-executive-order-boosting-deep-sea-mining-industry/">U.S President Trump signs executive order boosting deep-sea mining industry</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-president-trump-signs-executive-order-boosting-deep-sea-mining-industry/>
+
+---
+
+## Governor Rudimch launches campaign for second term in Koror
+
+date: 2025-04-29, from: Island Times
+
+<figure><img width="600" height="799" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?fit=600%2C799&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?fit=600%2C799&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77119" data-permalink="https://islandtimes.org/governor-rudimch-launches-campaign-for-second-term-in-koror/rudimch/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?fit=600%2C799&amp;ssl=1" data-orig-size="600,799" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="RUDIMCH" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/RUDIMCH.jpg?fit=600%2C799&amp;ssl=1" /></figure>
+<p>By: L.N. Reklai KOROR, Palau — Koror Governor Eyos Rudimch formally announced his bid for a second term during a gathering with family and supporters on April 28 at Siangel, M-Dock. Rudimch said he is seeking re-election because many important initiatives remain unfinished. He noted that 1,200 days — roughly 40 months — in office [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/governor-rudimch-launches-campaign-for-second-term-in-koror/">Governor Rudimch launches campaign for second term in Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/governor-rudimch-launches-campaign-for-second-term-in-koror/>
+
+---
+
+## Japan’s Ambassador Highlights Youth and Community Roles in Ocean Protection at Pacific Ocean Conference
+
+date: 2025-04-29, from: University of the South Pacific (Fiji)
+
+<p>One of the standout moments from the three-day Pacific Ocean Conference held recently at The...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/japans-ambassador-highlights-youth-and-community-roles-in-ocean-protection-at-pacific-ocean-conference/">Japan’s Ambassador Highlights Youth and Community Roles in Ocean Protection at Pacific Ocean Conference</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/japans-ambassador-highlights-youth-and-community-roles-in-ocean-protection-at-pacific-ocean-conference/>
+
+---
+
+## UH Mānoa PhD student advocates for STEM research in nation’s capital
+
+date: 2025-04-28, from: University of Hawaiʻi News
+
+<p>The program equips <abbr>STEM</abbr> students with the skills to effectively communicate the importance of their research to policymakers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/28/glickman-ams-fellow/"><abbr>UH</abbr> Mānoa <abbr>PhD</abbr> student advocates for <abbr>STEM</abbr> research in nation’s capital</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/28/glickman-ams-fellow/>
+
+---
+
+## From incarceration to inspiration: Hawaiʻi CC Pālamanui transformed Drew Camacho
+
+date: 2025-04-28, from: University of Hawaiʻi News
+
+<p>After prison, Drew Camacho found healing and hope through higher education.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/28/hawaii-cc-palamanui-transformed-drew-camacho/">From incarceration to inspiration: Hawaiʻi <abbr>CC</abbr> Pālamanui transformed Drew Camacho</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/28/hawaii-cc-palamanui-transformed-drew-camacho/>
 
 ---
 
@@ -24,7 +517,7 @@ The post <a href="https://www.hawaii.edu/news/2025/04/28/walton-ovpri-associate-
 
 ## Variety editor’s 4th book available at Joeten Susupe
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
 MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
 
@@ -36,7 +529,7 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 
 ## Poetry
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
  
 
@@ -48,7 +541,7 @@ date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
 
 ## MTEC, MVA visit Tanapag Middle School
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
 (MVA) —  The Marianas Tourism Education Council and Marianas Visitors Authority visited Tanapag Middle School on April 21, 2025, for another round of educational outreach about The Marianas tourism industry. 
 
@@ -60,7 +553,7 @@ date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
 
 ## Saipan Chamber of Commerce announces professional development training on human resources, legal compliance
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
 (SCC) — The Saipan Chamber of Commerce is thrilled to announce its upcoming 2nd Quarter Professional Development Training, hosted by NMC’s Community Development Institute and led by Polly Masga, MPA. The training is scheduled to take place this Friday, May 2, 2025, offering two sessions to accommodate participants' availability. The training will be held at Northern Marianas College, in classroom V-217. 
 
@@ -72,7 +565,7 @@ date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
 
 ## PSS hosts professional development workshop for vice principals
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
 (PSS) — On Friday, April 25, the Public School System hosted a professional development workshop specifically tailored for vice principals from its elementary, middle, and high schools on Saipan, Tinian, and Rota. This is part of the school district’s continuous learning and strengthening leadership initiative. 
 
@@ -84,7 +577,7 @@ date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
 
 ## ‘The Accountant 2,’ with Ben Affleck, isn’t quite a write-off
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
 (AP) — Hordes of horror films line up for Halloween and a sleigh full of Christmas movies arrive annually in December, but there is slightly less competition around the paper-pushing rite of Tax Day. 
 
@@ -96,7 +589,7 @@ date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
 
 ## Wellness in action, one pickleball at a time
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
 AS we celebrate this year’s Mental Health Awareness Month or MHAM under the theme “Wellness in Action,” I can’t help but reflect on how wellness looks different for each of us — and how often, it’s the small things that keep us grounded. For me, wellness found a surprising home on the pickleball court. 
 
@@ -108,7 +601,7 @@ AS we celebrate this year’s Mental Health Awareness Month or MHAM under the th
 
 ## Trump urges Russia to stop attacks; Rubio says US might walk away from peace efforts
 
-date: 2025-04-28, updated: 2025-04-28, from: Marianas Variety
+date: 2025-04-28, updated: 2025-04-29, from: Marianas Variety
 
 MORRISTOWN, New Jersey (Reuters) — President Donald Trump urged Russia on Sunday to stop its attacks in Ukraine while his top diplomat said the United States might walk away from peace efforts if it does not see progress. 
 
@@ -430,11 +923,11 @@ In Saipan, the groundwork for establishing higher education began with the contr
 
 ---
 
-## Guam court halts attorney general's sleep shelter project
+## Court halts Guam's sleep shelter project; AG Moylan vows to fight on
 
 date: 2025-04-28, from: Pacific Island Times
 
-By Pacific Island Times News Staff   Superior Court Judge John Terlaje today issued a temporary restraining order on the Office of the... 
+Eight months in the making, Dignity Project was modeled after Depression-era soup kitchens—modest, direct responses to widespread suffering.  
 
 <br> 
 

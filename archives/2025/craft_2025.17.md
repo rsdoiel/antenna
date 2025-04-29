@@ -1,11 +1,25 @@
 ---
 title: craft
-updated: 2025-04-28 14:08:19
+updated: 2025-04-29 06:12:41
 ---
 
 # craft
 
-(date: 2025-04-28 14:08:19)
+(date: 2025-04-29 06:12:41)
+
+---
+
+## Maderas Barber Introduces MB Dry: Decades of Natural Drying for Superior Tonewoods
+
+date: 2025-04-29, from: Discover the world of Luthiers
+
+<p>Maderas Barber Introduces MB Dry: Decades of Natural Drying for Superior Tonewoods &#160; In the world of lutherie, the quality and characteristics of the wood play a fundamental role in the manufacture of remarkable musical instruments. Maderas Barber, a renowned supplier in the industry, has introduced the MB Dry collection, featuring woods that have dried [&#8230;]</p>
+<p>The post <a href="https://luthiers.com/maderas-barber-introduces-mb-dry-decades-of-natural-drying-for-superior-tonewoods/">Maderas Barber Introduces MB Dry: Decades of Natural Drying for Superior Tonewoods</a> appeared first on <a href="https://luthiers.com">Luthiers</a>.</p>
+ 
+
+<br> 
+
+<https://luthiers.com/maderas-barber-introduces-mb-dry-decades-of-natural-drying-for-superior-tonewoods/?utm_source=rss&utm_medium=rss&utm_campaign=maderas-barber-introduces-mb-dry-decades-of-natural-drying-for-superior-tonewoods>
 
 ---
 

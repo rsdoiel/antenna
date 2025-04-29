@@ -1,11 +1,264 @@
 ---
 title: columns
-updated: 2025-04-28 14:08:14
+updated: 2025-04-29 06:12:36
 ---
 
 # columns
 
-(date: 2025-04-28 14:08:14)
+(date: 2025-04-29 06:12:36)
+
+---
+
+## Applying Security Engineering to Prompt Injection Security
+
+date: 2025-04-29, updated: 2025-04-29, from: Bruce Schneier blog
+
+<p>This seems like an <a href="https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/">important advance</a> in LLM security against prompt injection:</p>
+<blockquote><p>Google DeepMind has <a href="https://arxiv.org/abs/2503.18813">unveiled CaMeL</a> (CApabilities for MachinE Learning), a new approach to stopping prompt-injection attacks that abandons the failed strategy of having AI models police themselves. Instead, CaMeL treats language models as fundamentally untrusted components within a secure software framework, creating clear boundaries between user commands and potentially malicious content.</p>
+<p>[&#8230;]</p>
+<p>To understand CaMeL, you need to understand that prompt injections happen when AI systems can&#8217;t distinguish between legitimate user commands and malicious instructions hidden in content they&#8217;re processing...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/applying-security-engineering-to-prompt-injection-security.html>
+
+---
+
+## How you may find yourself on the front line of Trump's crackdown on immigration
+
+date: 2025-04-29, from: Robert Reich's blog
+
+Are you willing to hold the line? 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-you-may-find-yourself-on-the>
+
+---
+
+## April 28, 2025 
+
+date: 2025-04-29, from: Heather Cox Richardson blog
+
+There has been a change afoot in the Democratic Party for a while now as its leaders shift from trying to find common ground with Republicans to standing firmly against MAGAs and articulating their own vision for the United States. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-28-2025>
+
+---
+
+## Browsing as thinking
+
+date: 2025-04-29, from: Tracy Durnell Blog
+
+How often, when searching, do you know precisely what you seek? How often are you looking for an answer versus looking in a direction or trying to evaluate qualitative or reputational information? (This post is prompted by the discussion of online search in the introduction of The Ordinal Society by Marion Fourcade and Kieran Healy.) [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/28/browsing-as-thinking/>
+
+---
+
+## One Hundred Days In: The People Who Have Put These Days to Good Use
+
+date: 2025-04-29, from: James Fallows, Substack
+
+Stories that offer guidance for the days ahead. 
+
+<br> 
+
+<https://fallows.substack.com/p/one-hundred-days-in-the-people-who>
+
+---
+
+## Gore on Trump
+
+date: 2025-04-29, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/gore-on-trump>
+
+---
+
+## lynx --nocolor
+
+date: 2025-04-29, from: Jirka's blog
+
+I really dislike how the Lynx WWW browser looks on some modern systems. On my  SGI it  was OK -  it simply respected  IRIS terminal  colors. On modern systems in seems to be full of colors with gray background. Text colors are quite  nice but I have disliked the  gray background. I have wished to have or black one  or transparent one (it a terminal emulator supports transparency). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_lynx_nocolor>
+
+---
+
+## iMac G5 keyboard
+
+date: 2025-04-29, from: Jirka's blog
+
+Today  my  wife  requested  new  keyboard. I  thought  that  the  Apple white-transparent keyboard is too inferior  to her IBM laptop keyboard. Well, it is. So I have replaced it by spare HP one. A HP keyboard which was a part of the PA-RISC Visualize workstation (the workstation itself does not work, unfortunately). And she is happy with it. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_iMac_G5_keyboard>
+
+---
+
+## Working from home
+
+date: 2025-04-29, from: Jirka's blog
+
+And this is my main tool: 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_Working_from_home>
+
+---
+
+## Workflow: Changes and additions
+
+date: 2025-04-29, from: Jirka's blog
+
+Things are continuously  developing or at least  changing. For example, my  gVim on  my GPD  Pocket (Ubuntu  MATE 18.04)  has issues  with text encoding.  If  I  create a  new  file  then  I  everything is  OK.  But when  I  save  it  and  re-open it  then  it  en-codes  local  language characters incorrectly.  It is  strange because I  have been  using the same  .vimrc/.gvimrc for  ages on  several Linux  machines and  I never encountered such behaviour. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_Workflow_Changes_and_additions>
+
+---
+
+## Tungsten W + PalmPix
+
+date: 2025-04-29, from: Jirka's blog
+
+As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx  devices. So I have almost modern  smarphone (jsut 17 years old!) with the (detachable camera). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_Tungsten_W_PalmPix>
+
+---
+
+## Tired
+
+date: 2025-04-29, from: Jirka's blog
+
+As the quarantine  is now not so  strict here and as a  results of some deadlines at  work people became  much more active.  As a result  I the amount of incoming mails and phone calls (and amount of work related to them) have increased too much. And I have became tired. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_Tired>
+
+---
+
+## They won :-(
+
+date: 2025-04-29, from: Jirka's blog
+
+At  our university  we  always resisted  to the  plan  of the  security department to track  our movement between buildings. It  was refused by rector office and deans for decades. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_They_won>
+
+---
+
+## TRGpro tuning (2)
+
+date: 2025-04-29, from: Jirka's blog
+
+Just a tiny  update this time. I only replaced  the broken battery door by unused one (which I have borrowed them from my Palm IIIe). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250429-0445_TRGpro_tuning_2>
+
+---
+
+## Hats Off To Trump
+
+date: 2025-04-29, from: Dan Rather's Steady
+
+He&#8217;s celebrating 100 days in office, but polls show a majority aren&#8217;t joining in 
+
+<br> 
+
+<https://steady.substack.com/p/hats-off-to-trump>
+
+---
+
+## [Sponsor] ListenLater.net
+
+date: 2025-04-28, updated: 2025-04-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.listenlater.net/?referrer=df>
+
+---
+
+## ★ Is Chrome Even a Sellable Asset?
+
+date: 2025-04-28, updated: 2025-04-29, from: Daring Fireball
+
+It’s hard to come up with a buyer who could afford to pay a high price for Chrome and who would pass regulatory muster as its new owner. And if Chrome is not worth a high price, or simply isn’t sellable at one, then why is the DOJ trying to force Google to sell it? They might as well try to force Google to sell the two o’s from its name. 
+
+<br> 
+
+<https://daringfireball.net/2025/04/is_chrome_even_a_sellable_asset>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-28, from: Miguel de Icaza Mastondon feed)
+
+<p>It got picked up yesterday, and once again I am in limbo.</p><p>I would call Tim Apple, but he might be a tad busy.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114418092714439578>
+
+---
+
+## The Actual Reason Facebook Renamed Itself
+
+date: 2025-04-28, updated: 2025-04-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.om.co/2025/04/28/no-gruber-this-is-why-facebook-renamed-itself/>
+
+---
+
+## What ChatGPT Saw in My Handwriting
+
+date: 2025-04-28, from: Om Malik blog
+
+“A good fountain pen makes you want to write,” some pen enthusiasts say, but a “great one makes you need to.” As a fountain pen lover and someone who has written with them since my childhood, I subscribe to that view. However, I would argue that a great fountain pen is one that seems to &#8230; 
+
+<br> 
+
+<https://om.co/2025/04/28/what-chatgpt-saw-in-my-handwriting/>
+
+---
+
+##  My friend Jodi wrote a pretty thorough crash course on how Canadian... 
+
+date: 2025-04-28, updated: 2025-04-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046728-my-friend-jodi-wrote-a>
 
 ---
 
@@ -255,7 +508,7 @@ date: 2025-04-28, from: Dave Rupert blog
 
 date: 2025-04-28, from: Doc Searls (at Harvard), New Old Blog
 
-Arendt called it terror. Steven Weber on radical uncertainty, in Barron&#39;s. Hmm. Signs of enshittification. SiriusXM&#39;s app sucks. It used to have Favorites, which were like buttons on an old car radio: a collection of channels you liked, and said so (I think with a little heart). Now it has Based on your morning listening and Channels for [&#8230;] 
+In reply to the question &#34;Which blog post took the most work?&#34; the answer is From Hollywood Park Racetrack to SoFi Stadium, which spanned 2005 to 2024 and involved taking many dozens of aerial photographs on approach to LAX, doing research, and writing about it, hoping it helps historians along the way. Two angles on one story. Noozhawk [&#8230;] 
 
 <br> 
 

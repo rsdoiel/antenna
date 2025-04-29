@@ -1,11 +1,111 @@
 ---
 title: going electric
-updated: 2025-04-28 14:08:19
+updated: 2025-04-29 06:12:40
 ---
 
 # going electric
 
-(date: 2025-04-28 14:08:19)
+(date: 2025-04-29 06:12:40)
+
+---
+
+## Here are the cheapest EVs we could find for lease at under $300/month right now [Updated]
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Cheapest-EVs-lease-April.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said electric vehicles are expensive? Right now, several EVs are available to lease for under $300 a month. Here are the cheapest EVs we could find this April.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/04/29/cheapest-evs-lease-april-under-300-month-updated/#more-404778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/cheapest-evs-lease-april-under-300-month-updated/>
+
+---
+
+## Trump To Reduce Automotive Tariffs Days Before Hike
+
+date: 2025-04-29, from: Inside EVs News
+
+Plus, Slate's EV will be built at the anti-Gigafactory and Tesla is going on a hiring spree to launch the Semi. 
+
+<br> 
+
+<https://insideevs.com/news/757982/trump-tariffs-may-3-hike/>
+
+---
+
+## Volvo Goes Into Cost-Cutting Mode
+
+date: 2025-04-29, from: Inside EVs News
+
+Despite posting record profits last year, Volvo’s financial situation is becoming increasingly grim this year. So it’s cutting deep. 
+
+<br> 
+
+<https://insideevs.com/news/758025/volvo-cars-cost-cuts-profits/>
+
+---
+
+## The first giant 15 MW turbine is up at Germany’s largest offshore wind farm
+
+date: 2025-04-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/10-enbw_hedreiht_firstturbine_17455723020091.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Germany’s largest offshore wind farm under construction, EnBW’s He Dreiht, just hit a big milestone: The first enormous turbine is now up in the North Sea.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,germany,solar,offshore-wind-power,vestas" data-layer-viewtype="unknown" data-post-id="413308" href="https://electrek.co/2025/04/28/the-first-giant-15-mw-turbine-is-up-at-germanys-largest-offshore-wind-farm/#more-413308" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/28/the-first-giant-15-mw-turbine-is-up-at-germanys-largest-offshore-wind-farm/>
+
+---
+
+## The Telo MT1 May Be Tiny, But It's Still Built For Hard Work
+
+date: 2025-04-28, from: Inside EVs News
+
+Plus it's got 350 miles of range, so it should handle your road trip, too. 
+
+<br> 
+
+<https://insideevs.com/news/757997/telo-mt1-350-miles-japan-kei-trucks/>
+
+---
+
+## Tesla gives update on Tesla Semi factory, says on track for volume production in 2026
+
+date: 2025-04-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Semi-factory-hero.png?w=1600" /></div><p>Tesla has released a quick update about its Tesla Semi factory in Nevada. It says that it is on track for volume production of the electric semi truck in 2026.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="413300" href="https://electrek.co/2025/04/28/tesla-gives-update-semi-factory-on-track-volume-production-2026/#more-413300" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/28/tesla-gives-update-semi-factory-on-track-volume-production-2026/>
+
+---
+
+## Vietnamese solar giant Boviet opens first US factory in North Carolina
+
+date: 2025-04-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-21-at-9.11.26 PM-e1745288026263.png?w=881" /></div><p>Vietnamese solar panel maker Boviet Solar just opened the doors to its first US factory — a huge new PV module plant in Greenville, North Carolina.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,north-carolina,solar-power,vietnam" data-layer-viewtype="unknown" data-post-id="413289" href="https://electrek.co/2025/04/28/vietnamese-solar-giant-boviet-opens-first-us-factory-in-north-carolina/#more-413289" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/28/vietnamese-solar-giant-boviet-opens-first-us-factory-in-north-carolina/>
 
 ---
 

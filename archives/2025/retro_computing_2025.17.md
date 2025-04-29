@@ -1,11 +1,24 @@
 ---
 title: retro computing
-updated: 2025-04-28 14:08:18
+updated: 2025-04-29 06:12:39
 ---
 
 # retro computing
 
-(date: 2025-04-28 14:08:18)
+(date: 2025-04-29 06:12:39)
+
+---
+
+## FreeDOS in the news
+
+date: 2025-04-28, from: FreeDOS News
+
+<div class="markdown_content"><p>Several news websites have run stories about FreeDOS 1.4 since we released the new distribution a few weeks ago, on April 5. The latest is <a class="" href="https://allthingsopen.org/articles/freedos-1-4-retrocomputing-system" rel="nofollow">FreeDOS 1.4 is the retrocomputing system you’ve been waiting for</a> at All Things Open. Also check out <a class="" href="https://arstechnica.com/gadgets/2025/04/fire-up-your-compaq-deskpro-freedos-1-4-is-the-first-stable-update-since-2022/" rel="nofollow">FreeDOS 1.4 brings new fixes and features to modern and vintage DOS-based PCs</a> at Ars Technica, <a class="" href="https://liliputing.com/freedos-1-4-released-keeping-the-dream-of-an-open-source-dos-alternative-alive/" rel="nofollow">FreeDOS 1.4 brings improvements to this open source DOS alternative</a> at Liliputing, <a class="" href="https://www.root.cz/zpravicky/vysel-freedos-1-4/" rel="nofollow">FreeDOS 1.4 released</a> at root.cz, <a class="" href="https://linuxiac.com/freedos-1-4-now-available/" rel="nofollow">FreeDOS 1.4 Now Available - A Major Update for the Beloved DOS Revival</a> at Linuxiac, <a class="" href="https://www.tomshardware.com/software/operating-systems/freedos-1-4-released-with-updated-freecom-install-program-and-html-help" rel="nofollow">FreeDOS 1.4 released with updated FreeCOM, Install program, and HTML Help</a> at Tom's Hardware, <a class="" href="https://hackaday.com/2025/04/08/freedos-1-4-released/" rel="nofollow">FreeDOS 1.4 released</a> at Hackaday, <a class="" href="https://tech.slashdot.org/story/25/04/13/0215254/freedos-celebrates-more-than-30-years-of-command-prompts-with-new-release" rel="nofollow">FreeDOS Celebrates More Than 30 Years of Command Prompts With New Release</a> at Slashdot, and <a class="" href="https://www.theregister.com/AMP/2025/04/09/freedos_14/" rel="nofollow">FreeDOS 1.4: Still DOS, still FOSS, more modern than ever</a> at The Register.</p>
+<p>For more FreeDOS news, also read <a class="" href="https://www.heise.de/news/FreeDOS-1-4-ist-da-10345336.html" rel="nofollow">FreeDOS 1.4 is here</a> at Heise Online, <a class="" href="https://www.office-partner.de/neuigkeiten/freedos-freie-wahl-beim-betriebssystem/" rel="nofollow">What operating system should it be? With FreeDOS you have the choice</a> at Office Partner, <a class="" href="https://www.golem.de/news/ms-dos-alternative-freedos-bekommt-neues-grosses-1-4-update-2504-195191.html" rel="nofollow">FreeDOS gets new big 1.4 update</a> at Golem, and <a class="" href="https://winfuture.de/news,150196.html" rel="nofollow">FreeDOS 1.4 is here</a> at WinFuture. (<em>Achtung bitte:</em> These articles are in German.)</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/04/freedos-in-the-news/>
 
 ---
 
