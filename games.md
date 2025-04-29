@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-29 06:12:37
+updated: 2025-04-29 14:08:32
 ---
 
 # games
 
-(date: 2025-04-29 06:12:37)
+(date: 2025-04-29 14:08:32)
+
+---
+
+## Flappy Bird returns on Android, now without the weird crypto stuff
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+More than 10 years after Flappy Bird’s viral explosion (and subsequent deletion), the game is back on Android devices, thanks to the mobile Epic Games Store. The re-release, courtesy of Flappy Bird Publishing, is an Epic Games Store for Android exclusive, and doesn’t feature any of the weird cryptocurrency stink that was hinted at last [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/566791/flappy-bird-android-epic-games-store-web3-crypto>
+
+---
+
+## How to get a free First Order Stormtrooper outfit in Fortnite
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+Chapter 6 Season 3 of Fortnite will be be Star Wars-themed — and ahead of its release on Friday, May 2, you can get a free First Order Stormtrooper outfit. Star Wars characters have appeared in Fortnite before, but Epic Games described this update as the “first-ever” Star Wars Season. You’ll be able to watch the first [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/565982/free-first-order-stormtrooper-outfit-how-to-get>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+Learning the raid and dungeon rotation in Destiny 2 is great for farming loot you don’t have yet, and for increasing your Power in Destiny 2. As of the Episode: Revenant update in October 2024, Bungie showcases which activity is featured (via an icon on the map), and there are now two featured raids and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
+
+---
+
+## Mamoru Hosoda’s newest film gets a first teaser and December release date
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+Legendary anime director Mamoru Hosoda is back at it again — and his latest project, Scarlet, features a pink-haired warrior princess battling enemies through a wasteland. According to the YouTube description, she’s the titular Princess Scarlet and she wakes up in a mysterious “Land of the Dead” and must avenge her father’s death, or be [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/566786/mamoru-hosada-scarlet-new-movie-trailer-release-date>
+
+---
+
+## All Reliquary battle pass items in Diablo 4 season
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+The Reliquary is an updated version of Diablo 4’s battle pass, debuting with the launch of season 8. Instead of a single track for you to progress over the course of the season, you’re instead able to choose the kind of rewards you want and spend in-game currency to unlock them. In this Diablo 4 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/565876/reliquary-battle-pass-explained-rewards>
+
+---
+
+## An indie game dev revives a long-lost genre: the heavy-metal-band video game
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+The biggest rock bands of the ’80s and ’90s — including Journey, Queen, Mötley Crüe, Aerosmith, and Metallica — achieved a specific cultural significance beyond their music, their videos, and their tours. Some of those arena rockers built video games around themselves, often to mixed results, in a way that doesn’t really happen anymore. Now, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/566724/voivod-nuclear-warrior-video-game-kickstarter>
+
+---
+
+## How to unlock Frostcrag Sprire in Oblivion Remastered
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+Frostcrag Spire is a The Elder Scrolls 4: Oblivion Remastered mountain fortress and the best house in the game for your character (because it’s free). Frostcrag Spire has every amenity you could hope for in a house and it has teleportation portals to all of the mage guild halls around Cyrodiil. Frostcrag Spire was originally [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566404/frostcrag-sprire-location-upgrades-map>
+
+---
+
+## How to get Ethereal Stars in Infinity Nikki
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+As part of the 1.5 update for Infinity Nikki, players can collect Ethereal Stars in the Sea of Stars to make the iconic miracle outfit that goes by the same name. You’ll need at least 22 Ethereal Stars to unlock the nodes in the Heart of Infinity skill tree to make the Sea of Stars [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/566637/ethereal-stars-how-to-get>
+
+---
+
+## Show off your great manga taste with Uniqlo’s Ai Yazawa collection
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+To celebrate the 40th anniversary of manga artist Ai Yazawa’s debut, Uniqlo has a brand new collection featuring some of her iconic work. The collection includes designs from four of her works: Neighborhood Story, which is about a young girl who dreams of becoming a fashion designer; Paradise Kiss, which follows a student turned model, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/566698/uniqlo-nana-ai-yazawa-shirts-when-buy>
+
+---
+
+## How to get the Skeleton Key in Oblivion Remastered
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+The Skeleton Key is an extremely useful tool in The Elder Scrolls 4: Oblivion Remastered — it’s an unbreakable and reusable lockpick. Getting the Skeleton Key is no easy task as you’ll need to complete a quest to receive it, and, not only that, you’ll need to be level 10 to begin the quest, which [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566382/skeleton-key-location-how-to-get-nocturnal-quest-walkthrough>
 
 ---
 

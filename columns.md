@@ -1,11 +1,243 @@
 ---
 title: columns
-updated: 2025-04-29 06:12:36
+updated: 2025-04-29 14:08:31
 ---
 
 # columns
 
-(date: 2025-04-29 06:12:36)
+(date: 2025-04-29 14:08:31)
+
+---
+
+##  On working for Andy Warhol. &#8220;The year I worked at the Factory... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046736-on-working-for-andy-warho>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
+
+Fact-checking is a ChatGPT use-case for reporters. Feed a draft of your story into ChatGPT and ask if it spots any factual errors. There may be some false positives, so you can ask another AI chatbot, or investigate yourself elsewhere. And it may miss some. But it couldn't hurt and it might save your ass. 
+
+<br> 
+
+<http://scripting.com/2025/04/29.html#a194604>
+
+---
+
+##  IL governor J.B. Pritzker urges resistance. &#8220;If it sounds like I&#8217;m becoming... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046735-il-governor-jb-pritzker-u>
+
+---
+
+## April 28, 2025
+
+date: 2025-04-29, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162480545/afb74192039cf253a208e7fb17123c20.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162480545/afb74192039cf253a208e7fb17123c20.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-28-2025-5a2>
+
+---
+
+##  Trump&#8217;s Already Lost. &#8220;You simply cannot impose an autocracy if a clear... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046734-trumps-already-lost-you-s>
+
+---
+
+## Flyings
+
+date: 2025-04-29, from: Doc Searls (at Harvard), New Old Blog
+
+Neither here nor there, yet. At BWI, about to board an SWA flight to IND. There are thunderstorms between the airports and more on the way, but no delay so far. Meanwhile, this gives me  chance to talk weather apps. My current fave is Windy, which visualizes winds at all altitudes, real time lightning (with visuals [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/04/29/flyings/>
+
+---
+
+##  The 35th Anniversary of the Hubble Space Telescope 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-35th-anniversary-of-the-hubble-space-telescope>
+
+---
+
+##  This is fun: Jacob Collier Improvises the National Symphony Orchestra. &#8220;I was... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046733-this-is-fun-jacob-collier>
+
+---
+
+## The Slate EV truck
+
+date: 2025-04-29, from: Matt Haughey blog
+
+<p>A bunch of friends sent me the announcement of <a href="https://www.slate.auto/en?ref=a.wholelottanothing.org" rel="noreferrer">the new Slate EV truck</a>, asking what I thought. I was already looking forward to <a href="https://www.telotrucks.com/?ref=a.wholelottanothing.org" rel="noreferrer">the Telo Truck</a>, but the Slate is even better and frankly, frighteningly close to my dream EV platform.</p><h2 id="what-would-an-ideal-new-ev-product-look-like">What would an ideal new EV product look</h2> 
+
+<br> 
+
+<https://a.wholelottanothing.org/the-slate-ev-truck/>
+
+---
+
+## The most important lesson of Trump's first hundred days
+
+date: 2025-04-29, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-most-important-lesson-of-trumps>
+
+---
+
+##  One Hour of Mon Mothma Dancing 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/one-hour-of-mon-mothma-dancing>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
+
+New podcast: <a href="https://shownotes.scripting.com/scripting/2025/04/29/buildingABillionairesNetwork.html">Building a billionaire's network</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/29.html#a152025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-29, from: Miguel de Icaza Mastondon feed)
+
+<p>Me as I reach 108 hours of my app being under review (60+48)</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114421829148118331>
+
+---
+
+##  The federal minimum wage is officially a poverty wage in 2025. &#8220;The... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046731-the-federal-minimum-wage->
+
+---
+
+##  Vystery is a game where you click/tap to enhance sections of an... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046729-vystery-is-a-game-where>
+
+---
+
+## OpenBSD 7.7 released with updated hardware support, 9Front ships second update of 2025
+
+date: 2025-04-29, updated: 2025-04-29, from: Liam Proven's articles at the Register
+
+<h4>The OS refresh brings Ryzen AI and Arrow Lake compatibility</h4>
+      <p>Fresh from their respective bunkers, OpenBSD 7.7 and a new version of Plan 9 fork 9Front have dropped, bringing hardened security, obscure charm, and, oddly enough, artwork from the same designer.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/29/openbsd_77_is_out/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
+
+New howto: <a href="https://this.how/feedland/editingSubscriptions.opml">Editing subscription lists</a>. I'm doing a project with a friend who hasn't used <a href="https://feedland.com/">FeedLand</a>. I want him to maintain a subscription list which will then be the source for a Bluesky account. Any time the OPML changes, of course, the channel adjusts, so they have full power to add and remove feeds. "Just enough FeedLand." 
+
+<br> 
+
+<http://scripting.com/2025/04/29.html#a135553>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
+
+<a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> defines a network of services and readers. Each one can go down, but the whole network stays up. That's all that Bluesky has promised, and that's why a layer of RSS on top of Bluesky would deliver a huge portion of the stability it would need to survive a disaster. It could be done in a matter of weeks, if they decided to do it. I would help. 
+
+<br> 
+
+<http://scripting.com/2025/04/29.html#a133548>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/05/16/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lnxcy2wodj2y">Bluesky was down this morning</a>. Usually I don't criticize a service when it's down, because I can relate. We like to help each other when there are outages. But Bluesky is special, because they claim to be decentralized. If it were, it wouldn't go down unless the internet itself had. And since the internet, amazingly, <i>is</i> decentralized, that's not likely to happen. It was designed that way when it was <a href="https://en.wikipedia.org/wiki/ARPANET">Arpanet</a>, a project of the US Department of Defense. It was designed to survive a <a href="https://en.wikipedia.org/wiki/ARPANET#Inspiration">nuclear strike</a>. Bluesky is nice, but it's fragile, and their hype says otherwise. That's why they're special. They should straighten this out so we can properly get decentralization into our networks. Bluesky could easily add a layer of <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> on top of what they have, so that news flow could survive a disaster.  In 2025 this is a realistic concern, as it was in 1966. Also it would be nice if other network experts would support this, esp if they're on Bluesky. This is not personal, if they wanted to get the RSS layer built, I would help them do it. We should all pitch in because then it would really be our network, and not owned by anyone. Live up to the promise, now. 
+
+<br> 
+
+<http://scripting.com/2025/04/29.html#a131257>
+
+---
+
+## The State of Open Source in 2025? Honestly, it's a mess but you knew that already
+
+date: 2025-04-29, updated: 2025-04-29, from: Liam Proven's articles at the Register
+
+<h4>The good news: everyone&#39;s using it. The bad news: have you seen how they&#39;re using it?</h4>
+      <p>OpenLogic&#39;s 2025 State of Open Source Report offers a slightly different perspective on modern corporate adoption of FOSS – and it&#39;s not a reassuring one.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/29/state_of_open_source/>
 
 ---
 
@@ -24,7 +256,7 @@ date: 2025-04-29, updated: 2025-04-29, from: Bruce Schneier blog
 
 ---
 
-## How you may find yourself on the front line of Trump's crackdown on immigration
+## How you may find yourself on the front line of Trump’s immigration crackdown
 
 date: 2025-04-29, from: Robert Reich's blog
 
@@ -411,8 +643,7 @@ date: 2025-04-28, updated: 2025-04-28, from: Liam Proven's articles at the Regis
 
 **@Dave Winer's Scripting News** (date: 2025-04-28, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2019/05/29/truthAdjustment.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If Harvard could become more American and less elite, that could change things. Make a simple direct unmistakable contribution directly to the well-being of Americans. Be the source of reliable information to the people that's missing because the major corporations who own the media are playing it safe. Harvard is no longer in a position where playing it safe is an option. The Trumps will continue to cast doubt on the truth, but in a contest between Trump and Harvard, I bet a lot of people, even most, would trust Harvard first.
- 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/05/29/truthAdjustment.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If Harvard could become more American and less elite, that could change things. Make a simple direct unmistakable contribution directly to the well-being of Americans. Be the source of reliable information to the people that's missing because the major corporations who own the media are playing it safe. Harvard is no longer in a position where playing it safe is an option. The Trumps will continue to cast doubt on the truth, but in a contest between Trump and Harvard, I bet a lot of people, even most, would trust Harvard first. 
 
 <br> 
 

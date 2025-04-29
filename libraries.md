@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-29 06:12:38
+updated: 2025-04-29 14:08:33
 ---
 
 # libraries
 
-(date: 2025-04-29 06:12:38)
+(date: 2025-04-29 14:08:33)
 
 ---
 
@@ -105,6 +105,32 @@ Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M
 
 ---
 
+## The Private Papers of Henry Ryecroft, by George Gissing
+
+date: 2025-04-29, from: Standard Ebooks, new releaases
+
+A retired Englishman muses on life and literature in his private diary. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/george-gissing/the-private-papers-of-henry-ryecroft>
+
+---
+
+## Why Wouldn’t You Want This Job? You Can Change People’s Lives: Judy Russell Reflects on Her Career and the Profession
+
+date: 2025-04-29, from: Association of Research Libraries News
+
+<p>Last Updated on April 29, 2025, 10:12 am ET Dean Judy Russell will step down from her position in July 2025 after leading the University of Florida (UF) George A....</p>
+<p>The post <a href="https://www.arl.org/blog/why-wouldnt-you-want-this-job-you-can-change-peoples-lives-judy-russell-reflects-on-her-career-and-the-profession/">Why Wouldn’t You Want This Job? You Can Change People’s Lives: Judy Russell Reflects on Her Career and the Profession</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/why-wouldnt-you-want-this-job-you-can-change-peoples-lives-judy-russell-reflects-on-her-career-and-the-profession/>
+
+---
+
 ## AI Strategy, Governance, and Monetization in Scholarly Publishing: Lessons from Industry Front-Runners
 
 date: 2025-04-29, from: Scholarly Kitchen
@@ -131,11 +157,23 @@ Philosopher G. K. Chesterton comments on various social issues of his day, inclu
 
 ---
 
+## Alena Buyx (2024) Leben und Sterben – Die großen Fragen ethisch entscheiden
+
+date: 2025-04-29, from: ETH Zurich, recently added
+
+Daniel Lucas 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733167>
+
+---
+
 ## Day in Review (April 28–May 1)
 
 date: 2025-04-28, from: Association of Research Libraries News
 
-<p>Last Updated on April 28, 2025, 3:18 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 29 &#124; Wednesday, April 30 &#124; Thursday, May 1 Monday, April 28...</p>
+<p>Last Updated on April 29, 2025, 3:24 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 29 &#124; Wednesday, April 30 &#124; Thursday, May 1 Monday, April 28...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-28-may-1/">Day in Review (April 28–May 1)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -282,4 +320,16 @@ date: 2025-04-28, from: Crossref Blog
 <br> 
 
 <https://www.crossref.org/blog/enhancing-doi-accessibility-for-all-users/>
+
+---
+
+## Unity app for integrating sound into landscape design and evaluation
+
+date: 2025-04-28, from: ETH Zurich, recently added
+
+Gutscher, Fabian; Goncalves Borges, Daniel; Schütz, Nadine; Wissen Hayek, Ulrike 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733161>
 

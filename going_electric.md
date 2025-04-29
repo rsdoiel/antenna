@@ -1,11 +1,207 @@
 ---
 title: going electric
-updated: 2025-04-29 06:12:40
+updated: 2025-04-29 14:08:36
 ---
 
 # going electric
 
-(date: 2025-04-29 06:12:40)
+(date: 2025-04-29 14:08:36)
+
+---
+
+## GM’s Orion EV Manufacturing Dream Is Stalling: Report
+
+date: 2025-04-29, from: Inside EVs News
+
+The Orion plant was supposed to be an EV manufacturing hub, but now the plan has reportedly changed. 
+
+<br> 
+
+<https://insideevs.com/news/758106/gm-orion-changes-ev-plans/>
+
+---
+
+## Range Rover’s first EV spotted in Sweden as launch nears
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Range-Rovers-first-EV-Sweden.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first <a href="https://electrek.co/guides/range-rover/">electric Range Rover</a> is expected to hit showrooms in the next few months. With its official debut just around the corner, Range Rover’s first EV was spotted testing in Sweden. Here’s a sneak peek of the luxury electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="range-rover,range-rover-electric" data-layer-viewtype="unknown" data-post-id="413429" href="https://electrek.co/2025/04/29/range-rovers-first-ev-spotted-sweden-as-launch-nears/#more-413429" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/range-rovers-first-ev-spotted-sweden-as-launch-nears/>
+
+---
+
+## Here’s how Volvo plans to overcome Trump’s tariffs with new EVs arriving
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Volvos-EX30-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo is launching a nearly $2 billion (SEK 18 billion) restructuring plan to drive growth and mitigate the impact of Trump’s tariffs. With the new EX30 and ES90 EVs rolling out, <a href="https://electrek.co/guides/volvo/">Volvo</a> is taking drastic action to drive growth.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="413417" href="https://electrek.co/2025/04/29/how-volvo-plans-to-overcome-trumps-tariffs-with-new-evs-arriving/#more-413417" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/how-volvo-plans-to-overcome-trumps-tariffs-with-new-evs-arriving/>
+
+---
+
+## Anker SOLIX power stations up to 55% off, EcoFlow WAVE 3 AC and GLACIER coolers from $807, Greenworks, EGO batteries, more
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Anker-SOLIX-Mothers-Day-Sale-FI.png?w=1600" /></div><p>Today’s Green Deals is jam-packed with amazing deals, starting with <a href="https://9to5toys.com/2025/04/28/anker-solix-mothers-day-sale-starting-from-70/">Anker’s SOLIX Mother’s Day Sale</a> that is taking up to 55% off another massive lineup of power station offers, complete with limited flash sales and some free gear on select purchases – all <a href="https://9to5toys.com/2025/04/28/anker-solix-mothers-day-sale-starting-from-70/">starting from $70</a>. We’re also looking back in on <a href="https://9to5toys.com/2025/04/28/ecoflow-spring-to-summer-sale-from-209/">EcoFlow’s Spring-to-Summer Sale</a> to spotlight the launch deals we’re seeing on the brand’s new <a href="https://9to5toys.com/2025/04/28/ecoflow-wave-3-and-glacier-from-807/">WAVE 3 Portable AC/Heater</a> and the multiple sizes of <a href="https://9to5toys.com/2025/04/28/ecoflow-wave-3-and-glacier-from-807/">GLACIER Classic Electric Coolers</a> that are getting bonus savings and start from <a href="https://9to5toys.com/2025/04/28/ecoflow-wave-3-and-glacier-from-807/">$807</a>. We also spotted three of Greenworks’ cordless electric riding mowers (<a href="https://9to5toys.com/2025/04/29/greenworks-60v-crossoverz-3800-more/">CrossoverT, CrossoverZ, and MaximusZ</a>) getting up to $1,000 taken off their tags, as well as <a href="https://9to5toys.com/2025/04/29/ego-2-5ah-and-5-0ah-batteries-from-110/">EGO’s 56V 2.5Ah and 5.0Ah batteries</a> starting from <a href="https://9to5toys.com/2025/04/29/ego-2-5ah-and-5-0ah-batteries-from-110/">$110</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s latest <a href="https://9to5toys.com/2025/04/28/ecoflow-spring-to-summer-sale-from-209/">EcoFlow sale offers</a>, the new low prices on <a href="https://9to5toys.com/2025/04/28/lectric-cuts-prices-xp-3-0-e-bikes-to-new-lows/">Lectric’s XP 3.0 e-bikes</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="413401" href="https://electrek.co/2025/04/29/anker-mothers-day-sale-ecoflow-greenworks-ego-more/#more-413401" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/anker-mothers-day-sale-ecoflow-greenworks-ego-more/>
+
+---
+
+## How Lucid Made America's Fastest-Charging EV
+
+date: 2025-04-29, from: Inside EVs News
+
+I spoke with Emad Dlala, the EV startup’s head of powertrain, about the Gravity, Tesla Superchargers and BYD’s charging breakthrough.  
+
+<br> 
+
+<https://insideevs.com/news/757998/lucid-gravity-fast-charging-interview/>
+
+---
+
+## BYD just broke a record for premium EV deliveries in this booming market
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/BYD-record-premium-EV-deliveries-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD secured a new record for the most premium EV deliveries in a single day in India. After launching its new midsize electric SUV, the Sealion 7, <a href="https://electrek.co/guides/byd/">BYD</a> has officially entered the India Book of Records.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="413389" href="https://electrek.co/2025/04/29/byd-broke-record-for-premium-ev-deliveries-in-this-market/#more-413389" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/byd-broke-record-for-premium-ev-deliveries-in-this-market/>
+
+---
+
+## I Bought A 'Unicorn' Volvo V90 PHEV. Here's How It's Going
+
+date: 2025-04-29, from: Inside EVs News
+
+It’s a 455-horsepower wagon with a plug. What’s not to love? 
+
+<br> 
+
+<https://insideevs.com/news/757059/volvo-v90-t8-recharge-used-ownership-experience/>
+
+---
+
+## Tesla (TSLA) chair sells most of her stocks – her time is done?
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-robyn-denholm-chairperson.webp?w=1600" /></div><p>Tesla’s Chairwoman, Robyn Denholm, has filed to sell another $30 million in Tesla stock. She appears to be completely liquidating her stake in the company she chairs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="413381" href="https://electrek.co/2025/04/29/tesla-tsla-chair-sells-most-of-her-stocks-her-time-is-done/#more-413381" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/tesla-tsla-chair-sells-most-of-her-stocks-her-time-is-done/>
+
+---
+
+## Toyota has already delivered over 10,000 bZ3X electric SUVs as orders pile up
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Toyota-bZ3X-EV-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The bZ3X is Toyota’s cheapest EV, and it’s already a hot seller. After launching last month, <a href="https://electrek.co/guides/toyota/">Toyota</a> has now delivered over 10,000 bZ3X electric SUVs in China as orders continue to pile up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="413350" href="https://electrek.co/2025/04/29/toyota-has-already-delivered-over-10000-bz3x-electric-suvs/#more-413350" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/toyota-has-already-delivered-over-10000-bz3x-electric-suvs/>
+
+---
+
+## China's EV Brands Shine At The Shanghai Auto Show—While Tesla Stays Home
+
+date: 2025-04-29, from: Inside EVs News
+
+The world's EV brands brought their A-game to China's massive automotive expo. It almost didn't matter that Tesla was MIA. 
+
+<br> 
+
+<https://insideevs.com/news/757912/tesla-shanghai-no-show-2025/>
+
+---
+
+## Isuzu’s first electric pickup is here and it’s a beast: Meet the new D-MAX EV
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Japanese-EV-pickup.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A fully electric <a href="https://electrek.co/guides/isuzu/">Isuzu</a> pickup truck? That’s right. The D-MAX EV is Isuzu’s first electric pickup, and it will be rolling in the next few months. After kicking off mass production, Isuzu said the new EV pickup will “match the performance of existing diesel models,” boasting high towing capacity and payload.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="isuzu" data-layer-viewtype="unknown" data-post-id="413330" href="https://electrek.co/2025/04/29/isuzus-first-electric-pickup-is-here-its-a-beast-meet-d-max-ev/#more-413330" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/isuzus-first-electric-pickup-is-here-its-a-beast-meet-d-max-ev/>
+
+---
+
+## Your Future Deliveries Could Come From This Range-Extended Electric Truck
+
+date: 2025-04-29, from: Inside EVs News
+
+Harbinger's medium-duty EREV chassis has an 800-volt battery pack and can go 500 miles with help from a small gas engine. 
+
+<br> 
+
+<https://insideevs.com/news/758072/harbinger-erev-medium-duty-truck-chassis/>
+
+---
+
+## Tesla insider buys stock for the first time in years and it’s hilarious
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/joe-gebbia-tesla-director.jpg?quality=82&#038;strip=all&#038;w=1582" /></div><p>For the first time in five years, a Tesla insider required to report Tesla stock transactions bought stocks rather than selling them. </p>
+
+
+
+<p>But the transaction is so small that it makes the whole situation hilarious.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="413336" href="https://electrek.co/2025/04/29/tesla-insider-buys-stock-for-the-first-time-in-years-and-its-hilarious/#more-413336" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/tesla-insider-buys-stock-for-the-first-time-in-years-and-its-hilarious/>
 
 ---
 
@@ -41,7 +237,7 @@ Plus, Slate's EV will be built at the anti-Gigafactory and Tesla is going on a h
 
 date: 2025-04-29, from: Inside EVs News
 
-Despite posting record profits last year, Volvo’s financial situation is becoming increasingly grim this year. So it’s cutting deep. 
+Despite posting record profits in 2024, Volvo’s financial situation is becoming increasingly grim this year. 
 
 <br> 
 

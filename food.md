@@ -1,11 +1,169 @@
 ---
 title: food
-updated: 2025-04-29 06:12:41
+updated: 2025-04-29 14:08:36
 ---
 
 # food
 
-(date: 2025-04-29 06:12:41)
+(date: 2025-04-29 14:08:36)
+
+---
+
+## The Best Chocolate Gifts (2025)
+
+date: 2025-04-29, from: Bon Appetet
+
+Whether you’re looking for classic truffles, artisanal bonbons, or the gooiest chocolate chip cookies—we’ve got you covered. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-chocolate-gifts-2024>
+
+---
+
+## Emotions and Details Emerge as SCA Plans Takeover of “The Q”
+
+date: 2025-04-29, from: Daily Coffee News
+
+<div><img width="620" height="453" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-620x453.jpg" class="attachment-large size-large wp-post-image" alt="The Q is Evolving" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-620x453.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-768x561.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>On Thursday, April 23, the Specialty Coffee Association (SCA) announced it is taking over what&#8217;s known as &#8220;the Q,&#8221;&#160;the flagship education and certification platform of the nonprofit Coffee Quality Institute.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/29/emotions-and-details-emerge-as-sca-plans-takeover-of-the-q/>
+
+---
+
+## The Best Pepper Grinders, According to Our Testers (2025)
+
+date: 2025-04-29, from: Bon Appetet
+
+Twist. Crank. Repeat. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-pepper-grinder>
+
+---
+
+## There’s Something From Everyone at the EveryPerson Café in Ottawa
+
+date: 2025-04-29, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-620x465.jpg" class="attachment-large size-large wp-post-image" alt="EveryPerson Cafe Ottawa 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Six weeks prior to opening his first coffee shop, the owner of the new EveryPerson Café in downtown Ottawa turned to the one place on the internet where honesty and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/29/theres-something-from-everyone-at-the-everyperson-cafe-in-ottawa/>
+
+---
+
+## We Tried a Nordic Ware Bundt Pan Keeper Set—And It’s the Only Way To Bring Cake to a Potluck
+
+date: 2025-04-29, from: Taste of Home
+
+<p>You can't have your cake and eat it, too. But with the Nordic Ware Bundt Pan Keeper Set, you can bake it and take it anywhere. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/nordic-ware-bundt-pan-review/">We Tried a Nordic Ware Bundt Pan Keeper Set—And It’s the Only Way To Bring Cake to a Potluck</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/nordic-ware-bundt-pan-review/>
+
+---
+
+## Tyler Smith’s Ice Cream French Toast
+
+date: 2025-04-29, from: Taste of Home
+
+Weekends are busy, so give yourself a break from time-consuming brunch recipes and make this three-ingredient french toast. It's so good, I even make it on special days. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-ice-cream-french-toast/>
+
+---
+
+## Grounds For Health Launches Matching Campaign To Expand Lifesaving HPV Testing In Coffee Communities
+
+date: 2025-04-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. They have partnered with Tony’s Coffee, Swiss Water, Royal, and Royal NY. 
+
+<br> 
+
+<https://sprudge.com/grounds-for-health-launches-matching-campaign-to-expand-lifesaving-hpv-testing-in-coffee-communities-324989.html>
+
+---
+
+## Our Most Popular Recipes of April 2025
+
+date: 2025-04-29, from: Bon Appetet
+
+Like an Easter salad, scallion rice, and gooey shortbread. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/most-popular-recipes-april-2025>
+
+---
+
+## Dense Bean Salad
+
+date: 2025-04-29, from: Taste of Home
+
+TikTok's famous dense bean salad is the healthy grab-and-go lunch recipe you've been looking for. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dense-bean-salad/>
+
+---
+
+## Dubai Chocolate Cheesecake Bars
+
+date: 2025-04-29, from: Taste of Home
+
+These Dubai chocolate cheesecake bars pair all the flavor of the on-trend Dubai chocolate bar with creamy cheesecake for the ultimate layered treat. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dubai-chocolate-cheesecake-bars/>
+
+---
+
+## Where to Eat in Marfa, Texas
+
+date: 2025-04-29, from: Bon Appetet
+
+This small West Texas town is big on art and flavor. Well-seasoned locals share their favorite pit stops for a memorable weekend trip. 
+
+<br> 
+
+<https://www.bonappetit.com/story/where-to-eat-marfa>
+
+---
+
+## The 9 Best New Teahouses Across America
+
+date: 2025-04-29, from: Bon Appetet
+
+Across the country, contemporary tea shops appeal to those seeking alternatives to bars and nightlife. 
+
+<br> 
+
+<https://www.bonappetit.com/story/why-gen-z-is-flocking-to-tea-houses-instead-of-bars>
+
+---
+
+## 9 Pieces Of Coffee Gear We Loved At The 2025 SCA Expo
+
+date: 2025-04-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Nine eye-catching pieces of coffee equipment from the 2025 SCA Expo. 
+
+<br> 
+
+<https://sprudge.com/9-pieces-of-coffee-gear-we-loved-at-the-2025-sca-expo-323987.html>
 
 ---
 
@@ -63,11 +221,23 @@ date: 2025-04-29, from: Closet Cooking
 
 ---
 
+## The Design Firm Behind Today’s ‘It’ Restaurants
+
+date: 2025-04-29, from: Bon Appetet
+
+Post Company’s meticulous approach to design creates one-of-a-kind dining experiences 
+
+<br> 
+
+<https://www.bonappetit.com/story/post-company-it-restaurant>
+
+---
+
 ## Small Roasters Were a Big Draw at the 2025 SCA Expo
 
 date: 2025-04-28, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee roasters 2025" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Small roasters drew some of the largest crowds at the 2025 SCA Expo in Houston over the weekend. (Read all of DCN&#8217;s 2025 Expo coverage.) Two relatively compact machines, one... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee roasters 2025" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Small roasters drew some of the largest crowds at the 2025 SCA Expo in Houston over the weekend. (Read all of DCN&#8217;s 2025 Expo coverage.) Two relatively compact machines, one... 
 
 <br> 
 
@@ -119,7 +289,7 @@ date: 2025-04-28, from: Taste of Home
 
 date: 2025-04-28, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="DSCF8986-scaled" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-1536x1152.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 620px) 100vw, 620px" /></div>Due to rising temperatures and climate change, small-scale coffee farmers in Colombia are increasingly planting cacao. Cacao faces fewer immediate challenges compared to coffee, which is prone to pests and... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="DSCF8986-scaled" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-1536x1152.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DSCF8986-scaled-1-2048x1536.jpg 2048w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Due to rising temperatures and climate change, small-scale coffee farmers in Colombia are increasingly planting cacao. Cacao faces fewer immediate challenges compared to coffee, which is prone to pests and... 
 
 <br> 
 
@@ -295,7 +465,7 @@ date: 2025-04-28, from: Chili Pepper Madness
 
 date: 2025-04-27, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg" class="attachment-large size-large wp-post-image" alt="expo2025-hb-3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The first two days of the 2025 Specialty Coffee Expo in Houston provided thousands of coffee professionals with a Texas-sized platform for sensory exploration, equipment demos, endless hand-shaking, innovation and... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg" class="attachment-large size-large wp-post-image" alt="expo2025-hb-3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/expo2025-hb-3.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The first two days of the 2025 Specialty Coffee Expo in Houston provided thousands of coffee professionals with a Texas-sized platform for sensory exploration, equipment demos, endless hand-shaking, innovation and... 
 
 <br> 
 

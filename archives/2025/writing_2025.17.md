@@ -1,11 +1,108 @@
 ---
 title: writing
-updated: 2025-04-29 06:12:37
+updated: 2025-04-29 14:08:32
 ---
 
 # writing
 
-(date: 2025-04-29 06:12:37)
+(date: 2025-04-29 14:08:32)
+
+---
+
+## 2025 Dagger Awards Longlists
+
+date: 2025-04-29, from: Locus Magazine
+
+<p>The Crime Writers&#8217; Association (CWA) has announced the longlists for the 2025 Dagger Awards. Titles and authors of genre interest include:</p>
+<div class="nobullets">
+<p><strong>Gold Dagger
+</strong></p>
+<ul>
+<li><strong>Book of Secrets</strong>, Anna Mazzola (Orion)</li>
+<li><strong>Deadly Animals</strong>, Marie Tierney (Bonnier Books Ltd)</li>
+</ul>
+<p><strong>Ian Fleming Steel Dagger</strong></p>
+<ul>
+<li><strong>The Cracked Mirror</strong>, Chris Brookmyre (Sphere)</li>
+<li><strong>Nobody&#8217;s Hero</strong>, M.W. Craven (Constable)</li>
+<li><strong>Run</strong>, Blake Crouch (Macmillan)</li>
+<li><strong>Sanctuary</strong>, Garry Disher (Viper)</li>
+<li><strong>What Happened to Nina?</strong>, </li></ul></div> <a href="https://locusmag.com/2025/04/2025-dagger-awards-longlists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-dagger-awards-longlists/>
+
+---
+
+## The Storytellers: Uchechukwu Nwaka Reads Cuffs, Padlocks, and a Splattering of Nail Polish
+
+date: 2025-04-29, from: Locus Magazine
+
+<p>We are so happy to release our eighth episode of The Storytellers, our series of Zoom-recorded author readings! Previously, we had Catherynne M. Valente reading &#8220;Color, Heat, and the Wreck of the Argo&#8221;, and today we are happy to show Uchechukwu Nwaka reading his story &#8220;Cuffs, Padlocks, and a Splattering of Nail Polish&#8220;. The story originally appeared in the 2021 Winter issue of Mythaxis. </p>
+<p></p>
+<p>Nwaka&#8217;s short story &#8220;The Rainbow Bank&#8221;  <a href="https://locusmag.com/2025/04/the-storytellers-uchechukwu-nwaka-reads-cuffs-padlocks-and-a-splattering-of-nail-polish/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-storytellers-uchechukwu-nwaka-reads-cuffs-padlocks-and-a-splattering-of-nail-polish/>
+
+---
+
+## 2025 TAFF Winner
+
+date: 2025-04-29, from: Locus Magazine
+
+<p>Mikołaj Kowalewski has won the Trans-Atlantic Fan Fund (TAFF) to travel from Europe to North America to attend Worldcon 2025: Building Yesterday’s Future–For Everyone, defeating Zi Graves in the second round of voting.</p>
+<p>There were 138 votes in the first round, 8 of which were submitted with no preference, and 128 votes in the second round. The fund is currently administered by Sarah Gulde in North America and Sandra Bond  <a href="https://locusmag.com/2025/04/2025-taff-winner/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-taff-winner/>
+
+---
+
+## 2025 Tolkien Society Awards
+
+date: 2025-04-29, from: Locus Magazine
+
+<p>Winners of the Tolkien Society Awards 2025 were announced on April 27, 2025. The awards &#8220;recognize excellence in the fields of Tolkien scholarship and fandom, highlight­ing our long-standing charitable objective to &#8216;seek to educate the public in, and promote research into, the life and works of'&#8221; J.R.R. Tolkien. The society&#8217;s trustees choose the shortlist, with winners chosen by the membership.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Book</strong></p>
+<ul>
+<li>WINNER: <strong>The Collected Poems of J.R.R. Tolkien</strong>, </li></ul></div> <a href="https://locusmag.com/2025/04/2025-tolkien-society-awards/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-tolkien-society-awards/>
+
+---
+
+## Landing a Series with Eric Kripke
+
+date: 2025-04-29, from: John August blog
+
+John welcomes writer and showrunner Eric Kripke (The Boys, Supernatural) to look at planning out a multi-season series. They chart Eric’s early career from shorts to showrunner, how he developed Supernatural, his process for structuring seasons of The Boys, and how great TV shows stick the landing. We also answer listener questions on lone character [&#8230;]
+The post <a href="https://johnaugust.com/2025/landing-a-series-with-eric-kripke">Landing a Series with Eric Kripke</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/684standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/684standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/landing-a-series-with-eric-kripke>
+
+---
+
+## The Incandescent by Emily Tesh: Review by Liz Bourke
+
+date: 2025-04-29, from: Locus Magazine
+
+<p><strong>The Incandescent</strong>, Emily Tesh (Tor 978-1-250-83501-7, $28.99, 432pp, hc.) May 2025. Cover by Jess Kiley.</p>
+<p>I have never been a teacher. And I have never gone to school in England. But the extent to which Emily Tesh’s portrayal of a centuries-old boarding school on the public-school model of Rugby or Winchester in <strong>The Incandescent </strong>is both instantly recognisable from my own school experience and eerily alien – less in  <a href="https://locusmag.com/2025/04/the-incandescent-by-emily-tesh-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-incandescent-by-emily-tesh-review-by-liz-bourke/>
 
 ---
 
@@ -95,6 +192,30 @@ date: 2025-04-28, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/04/2025-theakston-awards-longlist/>
+
+---
+
+## 2025 Future Worlds Prize Shortlist
+
+date: 2025-04-28, from: Locus Magazine
+
+<p>The Future Worlds Prize for Fantasy and Science Fiction Writers of Colour has announced its eight-title shortlist for short fiction:</p>
+<div class="nobullets">
+<ul>
+<li dir="ltr" role="presentation">&#8220;All Storms a Labyrinth&#8221;, Phoebe Yemi Ara</li>
+<li>&#8220;Hantu&#8221;, Kat Bador</li>
+<li>&#8220;Silted Hearts&#8221;, Jade Cuttle</li>
+<li dir="ltr" role="presentation">&#8220;Blood in the Water&#8221;, Amber Houlders</li>
+<li dir="ltr" role="presentation">&#8220;Dream Scion&#8221;, Thomas Gough</li>
+<li dir="ltr" role="presentation">&#8220;Earth S.O.S.&#8221;, Harmony Knight</li>
+<li>&#8220;The Princess of Small Things&#8221;, C. M. Leung</li>
+<li dir="ltr" role="presentation">&#8220;Pit&#8221;, Ayanna Van Der Maten</li>
+</ul>
+<p>The judges are Saara El-Arifi, Mahmud El Sayed, Rogba </p></div> <a href="https://locusmag.com/2025/04/2025-future-worlds-prize-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-future-worlds-prize-shortlist/>
 
 ---
 

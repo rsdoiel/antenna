@@ -1,11 +1,387 @@
 ---
 title: snapshots
-updated: 2025-04-29 06:12:42
+updated: 2025-04-29 14:08:37
 ---
 
 # snapshots
 
-(date: 2025-04-29 06:12:42)
+(date: 2025-04-29 14:08:37)
+
+---
+
+## Privacy on Trial: Meta’s DOJ Battle vs. Purism’s User-Centric Philosophy
+
+date: 2025-04-29, from: Purism News and Events
+
+<p>The Department of Justice's (DOJ) current lawsuit against Meta spotlights a crucial discourse in the tech world, highlighting the fundamental right to privacy in the digital age.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/privacy-on-trial-metas-doj-battle-vs-purisms-user-centric-philosophy/">Privacy on Trial: Meta’s DOJ Battle vs. Purism’s User-Centric Philosophy</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/privacy-on-trial-metas-doj-battle-vs-purisms-user-centric-philosophy/>
+
+---
+
+## Dell 14 Plus laptops now start at $800 with new AMD Ryzen AI “Krackan Point” processor options
+
+date: 2025-04-29, from: Liliputing
+
+<p>The Dell 14 Plus is a relatively compact notebook with a relatively compact design, support for up to a 14 inch, 2.5K touchscreen display, and a choice of clamshell or 2-in-1 convertible designs with 360 degree hinges, and a choice of Intel or AMD processors. When Dell first introduced the new Dell 14 Plus and Dell 14 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dell-14-plus-laptops-now-start-at-800-with-new-amd-ryzen-ai-krackan-point-processor-options/">Dell 14 Plus laptops now start at $800 with new AMD Ryzen AI &#8220;Krackan Point&#8221; processor options</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dell-14-plus-laptops-now-start-at-800-with-new-amd-ryzen-ai-krackan-point-processor-options/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Paul Frazee is speaking virtually at Harvard about their idea of an open social network on May 7. 
+
+<br> 
+
+<https://cyber.harvard.edu/events/bluesky-open-social-media-tech>
+
+---
+
+## SwiftUI macOS Toolbar Examples
+
+date: 2025-04-29, from: Michael Tsai
+
+Sam Rowlands (tweet): There&#8217;s several ways to create a toolbar and a bunch of options for it also.[&#8230;]Adding a search field to the toolbar is easier than you think, simply add the .searchable(text:) modifier to a view within your content view. There are options for the placement and prompt, but nothing on the documentation page [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/29/swiftui-macos-toolbar-examples/>
+
+---
+
+## Failing to Finish Updating macOS on an External Disk
+
+date: 2025-04-29, from: Michael Tsai
+
+Juli Clover: Apple today seeded the fourth beta of an upcoming macOS Sequoia 15.5 update to developers for testing purposes, with the software coming a week after Apple released the third macOS Sequoia 15.5 beta. My update/installer/storage issues continue. I tried updating my external drive several times, but each time when Software Update restarted the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/29/failing-to-finish-updating-macos-on-an-external-disk/>
+
+---
+
+## CrashPlan Consumer Is Back
+
+date: 2025-04-29, from: Michael Tsai
+
+Adam Engst: I really need to look into CrashPlan again, since the company has been sold and split out a few times since it canceled CrashPlan for Home in 2017, and there is once again a user-level service. I came across this a few months ago and found the offerings a little confusing. I guess [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/29/crashplan-consumer-is-back/>
+
+---
+
+## Backblaze Business Issues
+
+date: 2025-04-29, from: Michael Tsai
+
+Morpheus Research (via Juan B&#225;ez, Hacker News): Since its November 2021 IPO, Backblaze has reported losses every quarter, its outstanding share count has grown by 80%, and its share price has declined by 71%.In October 2024, two former senior employees filed suit against Backblaze, alleging accounting fraud, inflated projections, and whistleblower retaliation.[&#8230;]4 months into selling [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/29/backblaze-business-issues/>
+
+---
+
+## Google Ends Support for Early Nest Thermostats
+
+date: 2025-04-29, from: Michael Tsai
+
+Ryan Whitwam (Hacker News): Google&#8217;s oldest smart thermostats have an expiration date. The company has announced that the first and second generation Nest Learning Thermostats will lose support in October 2025, disabling most of the connected features. Google is offering some compensation for anyone still using these devices, but there&#8217;s no Google upgrade for European [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/29/google-ends-support-for-early-nest-thermostats/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Amazon denies it planned to disclose cost of US tariffs on its website. 
+
+<br> 
+
+<https://www.reuters.com/business/retail-consumer/white-house-amazon-tariff-price-announcement-is-hostile-2025-04-29/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Amazon Denies Report on Tariff Cost Labels After WH Fury. 
+
+<br> 
+
+<https://www.mediaite.com/politics/amazon-denies-it-was-ever-going-to-highlight-trump-driven-price-hikes-after-white-house-lashes-out/>
+
+---
+
+## Sidephone is a distraction-free phone with a 2.8 inch display and swappable keypads
+
+date: 2025-04-29, from: Liliputing
+
+<p>The Sidephone is an upcoming cellphone that looks like a blast from the past thanks to its candy bar-style design with a small screen positioned above a keypad. The $249 phone is kind of a throwback to a style of handset that was designed primarily for making phone calls, and not much else. But it&#8217;s [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/sidephone-is-a-distraction-free-phone-with-a-2-8-inch-display-and-swappable-keypads/">Sidephone is a distraction-free phone with a 2.8 inch display and swappable keypads</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/sidephone-is-a-distraction-free-phone-with-a-2-8-inch-display-and-swappable-keypads/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Lead Kremlin Negotiator Kirill Dmitriev’s Sister Traveled to Ukraine on US Passport. 
+
+<br> 
+
+<https://www.kyivpost.com/post/51708>
+
+---
+
+## Optimize Your Recycling Habits
+
+date: 2025-04-29, from: Guy Kawasaki blog
+
+Alex Jordan, Associate Professor of Plastics Engineering, University of Wisconsin-Stout. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/optimize-your-recycling-habits>
+
+---
+
+## A cheat sheet for why using ChatGPT is not bad for the environment
+
+date: 2025-04-29, updated: 2025-04-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about">A cheat sheet for why using ChatGPT is not bad for the environment</a></strong></p>
+The idea that personal LLM use is environmentally irresponsible shows up <em>a lot</em> in many of the online spaces I frequent. I've <a href="https://simonwillison.net/2024/Dec/31/llms-in-2024/#the-environmental-impact-got-better">touched on my doubts around this</a> in the past but I've never felt confident enough in my own understanding of environmental issues to invest more effort pushing back.</p>
+<p>Andy Masley has pulled together by far the most convincing rebuttal of this idea that I've seen anywhere.</p>
+<blockquote>
+<p>You can use ChatGPT as much as you like without worrying that you’re doing any harm to the planet. Worrying about your personal use of ChatGPT is wasted time that you could spend on the serious problems of climate change instead. [...]</p>
+<p>If you want to prompt ChatGPT 40 times, you can just stop your shower 1 second early. [...]</p>
+<p>If I choose not to take a flight to Europe, I save 3,500,000 ChatGPT searches. this is like stopping more than 7 people from searching ChatGPT for their entire lives.</p>
+</blockquote>
+<p>Notably, Andy's calculations here are all based on the widely circulated higher-end estimate that each ChatGPT prompt uses 3 Wh of energy. That estimate is <a href="https://www.sciencedirect.com/science/article/pii/S2542435123003653?dgcid=author">from a 2023 GPT-3 era paper</a>. A <a href="https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use">more recent estimate from February 2025</a> drops that to 0.3 Wh, which would make the hypothetical scenarios described by Andy 10x less costly again.</p>
+<p>At this point, one could argue that trying to shame people into avoiding ChatGPT on environmental grounds is itself an unethical act. There are much more credible things to warn people about with respect to careless LLM usage, and plenty of environmental measures that deserve their attention a whole lot more.</p>
+<p>(Some people will inevitably argue that LLMs are so harmful that it's morally OK to mislead people about their environmental impact in service of the greater goal of discouraging their use.)</p>
+<blockquote>
+<p>Preventing ChatGPT searches is a hopelessly useless lever for the climate movement to try to pull. We have so many tools at our disposal to make the climate better. Why make everyone feel guilt over something that won’t have any impact? [...]</p>
+<p>When was the last time you heard a climate scientist say we should avoid using Google for the environment? This would sound strange. It would sound strange if I said “Ugh, my friend did over 100 Google searches today. She clearly doesn’t care about the climate.”</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-energy-usage">ai-energy-usage</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+2016: I&#39;d like to see the Democrats do is have a daily comedy chat, online, with video, with a rotating group of the best American comedians. Some of it serious, but they&#39;re totally allowed to be abusive and demeaning of Trump, in the same ways he&#39;s going after HRC. 
+
+<br> 
+
+<http://friends.farm/users/davewiner/2016/04/28/1224.html>
+
+---
+
+## High-Scale Data Processing: Over Thousands of Devices With Azure Cosmos DB and Expanso
+
+date: 2025-04-29, from: Bacalhau Blog
+
+If you're dealing with data generated across thousands of devices or locations, you know the pain. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/high-scale-data-processing-cosmosdb-bacalhau>
+
+---
+
+## Étoile: una coreografía entre París y Nueva York
+
+date: 2025-04-29, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Disponible en: Prime Video. Creadores: Amy Sherman-Palladino, Daniel Palladino. Elenco: Luke Kirby, Charlotte Gainsbourg, Lou de Laâge, Gideon Glick, David Alvarez, Ivan du Pontavice, Taïs Vinolo, David Haig, LaMay Zhang, Yanic Truesdale, Simon Callow, País: Estados Unidos. Duración: ocho episodios de 60 minutos cada uno. Más información de la serie: https://www.imdb.com/title/tt27613329/ Amy Sherman-Palladino es una [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-etoile/">Étoile: una coreografía entre París y Nueva York</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-etoile/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-etoile>
+
+---
+
+## Trump Demands Amazon Deny the Reality of What His Tariffs Are Doing to Prices
+
+date: 2025-04-29, from: 404 Media Group
+
+This morning the White House Press Secretary accused Amazon of conducting a 'hostile political action.' 
+
+<br> 
+
+<https://www.404media.co/trump-demands-amazon-deny-the-reality-of-what-his-tariffs-are-doing-to-prices/>
+
+---
+
+## Instagram Is Blocking Minors from Accessing Chatbot Platform AI Studio
+
+date: 2025-04-29, from: 404 Media Group
+
+Following Wall Street Journal investigations into the user-generated chatbots, AI Studio is inaccessible for users under 18 years old. 
+
+<br> 
+
+<https://www.404media.co/instagram-is-blocking-minors-from-accessing-chatbot-platform-ai-studio/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-29, from: Robert's feed at BlueSky)
+
+As we said in my youth, "wicked cool" 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lnxjxsjn6224>
+
+---
+
+## Dasung Paperlike 13K is a 13.3 inch E Ink color monitor
+
+date: 2025-04-29, from: Liliputing
+
+<p>The Dasung Paperlike 13K is a monitor with a 13.3 inch, 3200 x 2400 pixel E Ink color display that can show grayscale content at 300 pixels per inch with screen refresh rates as high as 37 Hz, although those numbers will drop if you want to view color content or emphasize image quality. Dasung first [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/">Dasung Paperlike 13K is a 13.3 inch E Ink color monitor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/>
+
+---
+
+## Instagram's AI Chatbots Lie About Being Licensed Therapists
+
+date: 2025-04-29, from: 404 Media Group
+
+When pushed for credentials, Instagram's user-made AI Studio bots will make up license numbers, practices, and education to try to convince you it's qualified to help with your mental health.  
+
+<br> 
+
+<https://www.404media.co/instagram-ai-studio-therapy-chatbots-lie-about-being-licensed-therapists/>
+
+---
+
+## Trump is the Godfather in Reverse
+
+date: 2025-04-29, from: Paul Krugman
+
+He&#8217;s making offers countries can&#8217;t accept 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-is-the-godfather-in-reverse>
+
+---
+
+**@Chris Coyier blog** (date: 2025-04-29, from: Chris Coyier blog)
+
+It&#8217;s interesting to hear directly from Mozilla&#8217;s CEO Laura Chambers on the U.S. search engine monopoly case Google lost: Some of the remedies proposed in the case risk the future of our Firefox browser and Gecko browser engine—the last remaining non-Big Tech browser engine. Read: &#8220;If one of the remedies is Google is no longer [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/04/29/12284/>
+
+---
+
+## Direct Color
+
+date: 2025-04-29, updated: 2025-04-29, from: Tedium site
+
+It’s not unheard of to discover a new color, but we’re coming up with new ways to do so—including with frickin’ laser beams. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17018518/new-color-discovery-history>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-29, from: Dave Winer's linkblog)
+
+Amazon to display tariff costs for consumers. This is the best way to fight back. Tell the truth. Remember what Harry Truman said -- I tell the truth and they think it&#39;s hell. He came from a red state, btw. 
+
+<br> 
+
+<https://www.memeorandum.com/250429/p18#a250429p18>
+
+---
+
+## Today, in Urinal Science
+
+date: 2025-04-29, updated: 2025-04-29, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/29/today-in-urinal-science/>
+
+---
+
+## Reddit Issuing 'Formal Legal Demands' Against Researchers Who Conducted Secret AI Experiment on Users
+
+date: 2025-04-29, from: 404 Media Group
+
+Reddit called it an "improper and highly unethical experiment" and said it did not know it was happening. 
+
+<br> 
+
+<https://www.404media.co/reddit-issuing-formal-legal-demands-against-researchers-who-conducted-secret-ai-experiment-on-users/>
+
+---
+
+## Quoting Mikhail Parakhin
+
+date: 2025-04-29, updated: 2025-04-29, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/mparakhin/status/1916496987731513781"><p>When we were first shipping Memory, the initial thought was: “Let’s let users see and edit their profiles”. Quickly learned that people are ridiculously sensitive: “Has narcissistic tendencies” - “No I do not!”, had to hide it.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/mparakhin/status/1916496987731513781">Mikhail Parakhin</a>, talking about Bing</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/bing">bing</a>, <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/29/mikhail-parakhin/#atom-everything>
+
+---
+
+## Fosstodon's drama reveals a much deeper Mastodon problem
+
+date: 2025-04-29, from: Libre News
+
+We should be a bit more careful in how we structure the federated internet. 
+
+<br> 
+
+<https://thelibre.news/fosstodons-drama-reveals-a-much-deeper-mastodon-problem/>
 
 ---
 
@@ -74,6 +450,18 @@ How Trump is using government power to target his enemies.
 <br> 
 
 <https://www.npr.org/2025/04/29/nx-s1-5327518/donald-trump-100-days-retribution-threats>
+
+---
+
+## “Death by 1,000 Pilots”
+
+date: 2025-04-29, from: O'Reilly Radar
+
+Most companies find that the biggest challenge to AI is taking a promising experiment, demo, or proof-of-concept and bringing it to market. McKinsey Digital Analyst Rodney Zemmel sums this up: It’s “so easy to fire up a pilot that you can get stuck in this ‘death by 1,000 pilots’ approach.” It’s easy to see AI’s [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/death-by-1000-pilots/>
 
 ---
 
@@ -151,6 +539,38 @@ GPT-4o's recent update caused it to be <a href="https://simonwillison.net/2025/A
 <br> 
 
 <https://simonwillison.net/2025/Apr/29/a-comparison-of-chatgptgpt-4os-previous-and-current-system-promp/#atom-everything>
+
+---
+
+## A comparison of ChatGPT/GPT-4o's previous and current system prompts
+
+date: 2025-04-29, updated: 2025-04-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://gist.github.com/simonw/51c4f98644cf62d7e0388d984d40f099/revisions">A comparison of ChatGPT/GPT-4o&#x27;s previous and current system prompts</a></strong></p>
+GPT-4o's recent update caused it to be <a href="https://simonwillison.net/2025/Apr/28/sam-altman/">way too sycophantic</a> and disingenuously praise anything the user said. OpenAI's <a href="https://twitter.com/aidan_mclau/status/1916908772188119166">Aidan McLaughlin</a>:</p>
+<blockquote>
+<p>last night we rolled out our first fix to remedy 4o's glazing/sycophancy</p>
+<p>we originally launched with a system message that had unintended behavior effects but found an antidote</p>
+</blockquote>
+<p>I <a href="https://twitter.com/simonw/status/1916944643897626896">asked</a> if anyone had managed to snag the before and after system prompts (using one of the various prompt leak attacks) and it turned out legendary jailbreaker <a href="https://twitter.com/bmiselis/status/1916946562955030659">@elder_plinius had</a>. I pasted them into a Gist to get <a href="https://gist.github.com/simonw/51c4f98644cf62d7e0388d984d40f099/revisions">this diff</a>.</p>
+<p>The system prompt that caused the sycophancy included this:</p>
+<blockquote>
+<p><code>Over the course of the conversation, you adapt to the user’s tone and preference. Try to match the user’s vibe, tone, and generally how they are speaking. You want the conversation to feel natural. You engage in authentic conversation by responding to the information provided and showing genuine curiosity.</code></p>
+</blockquote>
+<p>"Try to match the user’s vibe" - more proof that somehow everything in AI always comes down to vibes!</p>
+<p>The replacement prompt now uses this:</p>
+<blockquote>
+<p><code>Engage warmly yet honestly with the user. Be direct; avoid ungrounded or sycophantic flattery. Maintain professionalism and grounded honesty that best represents OpenAI and its values.</code></p>
+</blockquote>
+<p>I wish OpenAI would <a href="https://simonwillison.net/2024/Aug/26/anthropic-system-prompts/">emulate Anthropic</a> and publish their system prompts so tricks like this weren't necessary.</p>
+<p><img alt="Visual diff showing the changes between the two prompts" src="https://static.simonwillison.net/static/2025/sycophantic.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/29/chatgpt-sycophancy-prompt/#atom-everything>
 
 ---
 
@@ -796,7 +1216,7 @@ date: 2025-04-28, updated: 2025-04-28, from: Simon Willison’s Weblog
 <blockquote cite="https://twitter.com/sama/status/1916625892123742290"><p>the last couple of GPT-4o updates have made the personality too sycophant-y and annoying (even though there are some very good parts of it), and we are working on fixes asap, some today and some this week.</p></blockquote>
 <p class="cite">&mdash; <a href="https://twitter.com/sama/status/1916625892123742290">Sam Altman</a></p>
 
-    <p>Tags: <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a></p> 
 
 <br> 
 

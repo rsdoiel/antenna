@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-29 06:12:39
+updated: 2025-04-29 14:08:35
 ---
 
 # retro computing
 
-(date: 2025-04-29 06:12:39)
+(date: 2025-04-29 14:08:35)
+
+---
+
+## b.log 2025/04/29 - Am I a joke to you?
+
+date: 2025-04-29, from: Richard Murray's blog
+
+Am I a joke to you? 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250429>
 
 ---
 
@@ -74,7 +86,7 @@ date: 2025-04-27, from: FreeDOS News
 
 date: 2025-04-27, from: FreeDOS News
 
-<div class="markdown_content"><p>Thanks to SuperIlu for updating DOStodon, a client for the Mastodon federated social media network, running on DOS. SuperIlu shares these changes: "- Updated #curl to 8.13.0 - Updated #mbedTLS to 3.6.3 - Fixed #win32 version (works on #WinXP or newer), DLLs were missing." DOStodon is implemented in Javascript and relies on DOjS to run (included). Get the source code at <span>[DOStodon on GitHub]</span>(https://github.com/SuperIlu/DOStodon].</p></div> 
+<div class="markdown_content"><p>Thanks to SuperIlu for updating DOStodon, a client for the Mastodon federated social media network, running on DOS. SuperIlu shares these changes: "- Updated #curl to 8.13.0 - Updated #mbedTLS to 3.6.3 - Fixed #win32 version (works on #WinXP or newer), DLLs were missing." DOStodon is implemented in Javascript and relies on DOjS to run (included). Get the source code at <a class="" href="https://github.com/SuperIlu/DOStodon" rel="nofollow">DOStodon on GitHub</a>.</p></div> 
 
 <br> 
 

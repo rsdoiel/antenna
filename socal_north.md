@@ -1,11 +1,215 @@
 ---
 title: socal north
-updated: 2025-04-29 06:12:34
+updated: 2025-04-29 14:08:28
 ---
 
 # socal north
 
-(date: 2025-04-29 06:12:34)
+(date: 2025-04-29 14:08:28)
+
+---
+
+## How an Altadena yoga studio became a lifeline for Eaton Fire survivors
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Three months after the LA fires, local businesses are asking for the community to continue to show support. 
+
+<br> 
+
+<https://laist.com/news/how-an-altadena-yoga-studio-became-a-lifeline-for-eaton-fire-survivors>
+
+---
+
+## Corporation for Public Broadcasting sues Trump in fight for control
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Hours after President Donald Trump tried to remove three board members, the Corporation for Public Broadcasting responded with a lawsuit arguing he does not have that authority. 
+
+<br> 
+
+<https://laist.com/news/corporation-for-public-broadcasting-sues-trump-in-fight-for-control>
+
+---
+
+## California is leading the country in public pre-K expansion, report finds
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Enrollment in public preschool and transitional kindergarten increased by more than 35,000 children in the 2023-2024 school year. But potential elimination of Head Start threatens those gains 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-leads-nation-in-pre-kindergarten-expansion>
+
+---
+
+## LA County pushes holdouts to clear fire debris from properties
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+L.A. County Supervisors send message to all property owners to clear fire debris from remaining properties. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-property-owners-fire-debris-clean-up-urgency>
+
+---
+
+## LA County Supervisors approve unprecedented $4 billion sexual abuse settlement
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The payout is expected to have implications on the county budget “for years to come,” county officials said. </p>
+<p>The post <a href="https://lbpost.com/news/la-county-supervisors-approve-unprecedented-4-billion-sexual-abuse-settlement">LA County Supervisors approve unprecedented $4 billion sexual abuse settlement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/la-county-supervisors-approve-unprecedented-4-billion-sexual-abuse-settlement>
+
+---
+
+## Anaheim’s scandal-ridden Chamber of Commerce pulls a surprise U-turn
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+For the first time, millennials are now leading the Anaheim Chamber of Commerce: They plan to distance the organization from politics and focus on promoting local business. 
+
+<br> 
+
+<https://laist.com/news/politics/anaheim-chamber-of-commerce-stays-open>
+
+---
+
+## 10 key numbers that sum up Trump's first 100 days
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+While the 100-day mark of a presidency is a made-up milestone, it's still worthwhile to take stock of a new administration. Here's where Trump stands on 10 key benchmarks. 
+
+<br> 
+
+<https://laist.com/news/politics/10-key-numbers-that-sum-up-trumps-first-100-days>
+
+---
+
+## Trump administration considers immigration detention on Bay Area military base, records show
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Rep. John Garamendi said he has “serious opposition” to using Travis Air Force base to lock up immigrants for deportation, a move he says would compromise military readiness and national security. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-considers-immigration-detention-on-bay-area-military-base-records-show>
+
+---
+
+## Top OC leaders discuss making victim impact statement in federal case against Andrew Do
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+The Board of Supervisors are holding a special meeting on Tuesday to decide on making a victim impact statement in the federal case against their former colleague. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-supervisors-victim-impact-andrew-do>
+
+---
+
+## Visas restored for five of six CSULB students, college says
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="1024" height="526" src="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-1024x526.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-768x394.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-400x205.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-470x241.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-970x497.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Visas for the six international students had previously been revoked without warning or explanation.</p>
+<p>The post <a href="https://lbpost.com/news/education/visas-restored-for-five-of-six-csulb-students-college-says">Visas restored for five of six CSULB students, college says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/visas-restored-for-five-of-six-csulb-students-college-says>
+
+---
+
+## An autopsy confirms Gene Hackman died from heart disease
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Hackman was also in the advanced stages of Alzheimer's disease and likely had not eaten for a long time, according to the new report. The actor, 95, had been in poor health for some time. 
+
+<br> 
+
+<https://laist.com/news/an-autopsy-confirms-gene-hackman-died-from-heart-disease>
+
+---
+
+## 55,000 LA County workers start 48-hour strike; thousands rally in downtown LA
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-1024x683.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-1536x1025.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-1200x800.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-1568x1046.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD-400x267.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29104955/gprlsktayaafvxe-376006-dj9ylpfl-199426-UDNx0LtD.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Union members have decried what they say was a 0% cost-of-living increase offered by the county. County officials say they’re staring down a precarious budget season, including a “potentially catastrophic loss of hundreds of millions or more in federal funding.”</p>
+<p>The post <a href="https://lbpost.com/news/la-county-strike-impacts-long-beach">55,000 LA County workers start 48-hour strike; thousands rally in downtown LA</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/la-county-strike-impacts-long-beach>
+
+---
+
+## Long Beach is hosting the Congressional Cup sailing championship through Sunday — and celebrating its 60th year
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="1024" height="637" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-1024x637.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-300x187.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-768x478.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd-400x249.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29110940/dsc-8-851180-bnddpwvj-987025-eZfqBTVd.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It’s the longest-running race of its kind, with world-class skippers and crews competing for the prized crimson blazer.</p>
+<p>The post <a href="https://lbpost.com/news/place/60th-congressional-cup-sailing-long-beach-coast">Long Beach is hosting the Congressional Cup sailing championship through Sunday — and celebrating its 60th year</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/60th-congressional-cup-sailing-long-beach-coast>
+
+---
+
+## Why Trump is talking about bringing Columbus Day 'back from the ashes'
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Columbus Day is still a federal holiday — though some no longer want to celebrate the Italian explorer, and many jurisdictions also mark Indigenous Peoples Day. 
+
+<br> 
+
+<https://laist.com/news/politics/columbus-day-indigenous-peoples-day-trump>
+
+---
+
+## After losing a performance venue to the fires, Angeles Chorale finds a temporary home
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Since the January wildfires, people and organizations that serve musicians and other artists have stepped up to help. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/angeles-chorale-finds-temporary-home-dorothy-chandler-pavilion-downtown-los-angeles>
+
+---
+
+## Hearings on LA department budgets underway as labor leaders push back on mayor's proposed cuts
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+As L.A. Mayor Karen Bass proposes more than 1,600 layoffs to deal with a nearly $1 billion budget shortfall, departments will make their case on needs. We have details on the agendas and how to participate. 
+
+<br> 
+
+<https://laist.com/news/politics/labor-union-leaders-push-back-on-la-mayors-proposed>
 
 ---
 
@@ -21,18 +225,6 @@ The program trains formerly incarcerated Angelenos for firefighting jobs.
 
 ---
 
-## Labor union leaders push back on LA mayor's proposed budget cuts
-
-date: 2025-04-29, updated: 2025-04-29, from: The LAist
-
-LA Mayor Karen Bass has proposed more than 1,600 layoffs to deal with a nearly $1 billion budget shortfall. 
-
-<br> 
-
-<https://laist.com/news/politics/labor-union-leaders-push-back-on-la-mayors-proposed>
-
----
-
 ## Tustin wants help deciding what should happen to a hulking, historic blimp hangar
 
 date: 2025-04-29, updated: 2025-04-29, from: The LAist
@@ -42,18 +234,6 @@ Tustin is asking residents to weigh in on future plans for the undeveloped parts
 <br> 
 
 <https://laist.com/news/politics/tustin-world-war-ii-military-hangar-community-input>
-
----
-
-## After losing a performance venue to the fires, Angeles Chorale finds a temporary home
-
-date: 2025-04-29, updated: 2025-04-29, from: The LAist
-
-Since the January wildfires, people and organizations that serve musicians and other artists have stepped up to help. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/angeles-chorale-finds-temporary-home-dorothy-chandler-pavilion-downtown-los-angeles>
 
 ---
 
@@ -73,7 +253,7 @@ SoCal temperatures will range from the mid-60s at the beaches to low 80s in the 
 
 date: 2025-04-29, from: Longbeach Post
 
-<figure><img width="1024" height="731" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-1024x731.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-1024x731.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-151x108.jpg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-400x286.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="731" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-1024x731.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-1024x731.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-151x108.jpg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP-400x286.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/28141008/img-2-723281-ynscwmt0-499329-1sbIKmmP.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The family that founded the iconic local restaurant chain sold the Downtown location in 2023, and the new owner racked up tens of thousands in debt, court records show.</p>
 <p>The post <a href="https://lbpost.com/news/georges-greek-cafe-pine-avenue-closed-evicted-loizides">George’s Greek Cafe evicted from longtime Pine Avenue storefront</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

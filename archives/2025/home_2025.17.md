@@ -1,11 +1,165 @@
 ---
 title: home
-updated: 2025-04-29 06:12:39
+updated: 2025-04-29 14:08:34
 ---
 
 # home
 
-(date: 2025-04-29 06:12:39)
+(date: 2025-04-29 14:08:34)
+
+---
+
+## Which Car Jack Do You Need? A Breakdown of The Most Common Types
+
+date: 2025-04-29, from: Family Handyman Blog
+
+<p>Using the correct car jack will keep you safe and save headaches. From basic scissor jacks to pro-grade hydraulics, here's what to know.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/types-of-car-jacks/">Which Car Jack Do You Need? A Breakdown of The Most Common Types</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/types-of-car-jacks/>
+
+---
+
+## 12 Home Projects That Will Cost More Due to Tariffs
+
+date: 2025-04-29, from: Family Handyman Blog
+
+<p>Dog houses, DIY furniture and kitchen remodels are just a few of the home projects that will cost you more. Here's what to expect with 2025 tariffs.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/home-projects-cost-increase-tariffs/">12 Home Projects That Will Cost More Due to Tariffs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/home-projects-cost-increase-tariffs/>
+
+---
+
+## Your Next Bathroom Upgrade Will Cost Way More—Here’s Why
+
+date: 2025-04-29, from: Family Handyman Blog
+
+<p>Tariffs on steel are raising home plumbing costs; the price of basic items will increase significantly.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bathroom-structure-price-hikes-tariffs/">Your Next Bathroom Upgrade Will Cost Way More—Here’s Why</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bathroom-structure-price-hikes-tariffs/>
+
+---
+
+## In Portland, a Dusty-Blue Midcentury With a Spruced-Up Interior Seeks $1.7M
+
+date: 2025-04-29, from: Dwell
+
+The Pacific Northwest home still has its original fireplace, clerestory windows, and post-and-beam ceiling—plus a slate-gray kitchen, a sunny studio, and a sauna. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-renovation-portland-oregon-real-estate-3a163090>
+
+---
+
+## How to Plant and Grow Navy (Boston) Beans
+
+date: 2025-04-29, from: The Gardener's Path
+
+<p>Navy beans, aka haricot or Boston beans, are small white shelling beans that originated in Peru and can be grown as annuals in Zones 3 to 12. Ready to harvest after 85 to 100 days, navy beans are perfect for soups, chilis, and classic Boston baked beans. Learn how to grow navy beans in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-navy-beans/">How to Plant and Grow Navy (Boston) Beans</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-navy-beans/>
+
+---
+
+## This Tiny Scottish Cottage Emphasizes Two Simple Materials
+
+date: 2025-04-29, from: Dwell
+
+The 409-square-foot Highlands retreat combines clay with locally felled Douglas fir, which was used for everything from structural elements down to kitchen cabinets. 
+
+<br> 
+
+<https://www.dwell.com/article/lorram-cottage-baillie-baillie-architects-sustainable-design-timber-framing-e388ecee>
+
+---
+
+## When and How to Trim Pumpkin Vines
+
+date: 2025-04-29, from: The Gardener's Path
+
+<p>If you’re wondering how and when to prune your pumpkin vines to keep them healthy and productive, you might feel confused. By trimming your pumpkin plants, you’ll grow an abundant harvest of gourds, and minimize pest and disease issues. In this guide, you’ll discover which vines to trim, and how and when to do it.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/trim-pumpkin-vines/">When and How to Trim Pumpkin Vines</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/trim-pumpkin-vines/>
+
+---
+
+## If Your Monochromic Room Feels Flat, Here’s How to Fix It
+
+date: 2025-04-29, from: Dwell
+
+One-color interiors are all the rage right now, but mastering the look takes more than just a can of paint. 
+
+<br> 
+
+<https://www.dwell.com/article/if-your-monochromic-room-feels-flat-heres-how-to-fix-it-7119b17a>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-29, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## A Bay Area Kitchen Gets a Preppy East Coast Makeover
+
+date: 2025-04-29, from: Sunset Magazine - Living in the West
+
+A Bay Area kitchen gets a classic, preppy makeover thanks to its owners' love of classic, traditional design. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/bay-area-preppy-kitchen-makeover>
+
+---
+
+## This Is What You Need to Take with You When Checking out Spring’s Super Blooms
+
+date: 2025-04-29, from: Sunset Magazine - Living in the West
+
+Don’t let allergies get in your way—here's everything you need to hike through spring’s super blooms. Check out our gear recommendations. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/super-bloom-hiking-gear>
+
+---
+
+## This Is the Best Way to Maximize Your Credit Card Points for Your Next Trip
+
+date: 2025-04-29, from: Sunset Magazine - Living in the West
+
+You've racked up points, so now what? An expert shares how to maximize those credit card points for travel. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-maximize-credit-card-points-for-travel>
 
 ---
 
@@ -308,18 +462,6 @@ While you can get strawberries year-round, the best time to enjoy the fruit is s
 
 ---
 
-## Homepage 2025
-
-date: 2025-04-28, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## How to Transplant Blueberry Bushes
 
 date: 2025-04-28, from: The Gardener's Path
@@ -427,18 +569,6 @@ During the annual Amazon Book Sale, you can get major deals on eBooks, audiobook
 <br> 
 
 <https://www.sunset.com/lifestyle/amazon-book-sale-2025>
-
----
-
-## A Bay Area Kitchen Gets a Preppy East Coast Makeover
-
-date: 2025-04-27, from: Sunset Magazine - Living in the West
-
-A Bay Area kitchen gets a classic, preppy makeover thanks to its owners' love of classic, traditional design. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/bay-area-preppy-kitchen-makeover>
 
 ---
 

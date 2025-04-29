@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-04-29 06:12:35
+updated: 2025-04-29 14:08:30
 ---
 
 # science and technology
 
-(date: 2025-04-29 06:12:35)
+(date: 2025-04-29 14:08:30)
+
+---
+
+## TAKE IT DOWN Act? Yes, take the act down before it's too late for online speech
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Good intentions, terrible wording – and Trump can&#39;t wait to use it because &#39;nobody gets treated worse than I do&#39;</h4> <p>Federal legislation that would protect people from having explicit images of themselves posted and shared online without their consent is set to become law in the USA after passing the House on Monday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/take_it_down_act_passes/>
+
+---
+
+## Robots, Rovers, and Regolith: NASA Brings Exploration to FIRST Robotics 2025
+
+date: 2025-04-29, from: NASA breaking news
+
+What does the future of space exploration look like? At the 2025 FIRST Robotics World Championship in Houston, NASA gave student robotics teams and industry leaders a first-hand look—complete with lunar rovers, robotic arms, and real conversations about shaping the next era of discovery.&#160; NASA engaged directly with the Artemis Generation, connecting with more than [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/robots-rovers-and-regolith-nasa-brings-exploration-to-first-robotics-2025/>
+
+---
+
+## Watch out for any Linux malware sneakily evading syscall-watching antivirus
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Google dumped io_uring after $1M in bug bounties</h4> <p>A proof-of-concept program has been released to demonstrate a so-called monitoring &#34;blind spot&#34; in how some Linux antivirus and other endpoint protection tools use the kernel&#39;s io_uring interface.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/linux_io_uring_security_flaw/>
+
+---
+
+## Duolingo jumps aboard the 'AI-first' train, will phase out contractors
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Luis von Ahn says small quality hits are a price worth paying to ride the wave</h4> <p>Duolingo has become the latest tech outfit to attempt to declare itself &#39;AI-first,&#39; with CEO Luis von Ahn telling staff the biz hopes to gradually phase out contractors for work neural networks can take over.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/duolingo_ceo_ai_first_shift/>
+
+---
+
+## NASA Advances Precision Landing Technology with Field Test at Kennedy
+
+date: 2025-04-29, from: NASA breaking news
+
+Landing on the Moon is not easy, particularly when a crew or spacecraft must meet exacting requirements. For Artemis missions to the lunar surface, those requirements include an ability to land within an area about as wide as a football field in any lighting condition amid tough terrain. NASA’s official lunar landing requirement is to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/>
+
+---
+
+## Enterprise tech dominates zero-day exploits with no signs of slowdown
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>As Big Tech gets used to the pain, smaller vendors urged to up their game</h4> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/enterprise_tech_zeroday_google/>
+
+---
+
+## Hubble Spots a Squid in the Whale
+
+date: 2025-04-29, from: NASA breaking news
+
+Today’s rather aquatic-themed NASA/ESA&#160;Hubble Space Telescope&#160;image features the spiral galaxy&#160;Messier 77, also known as the Squid Galaxy, which sits 45 million light-years away in the constellation Cetus (The Whale). The designation Messier 77 comes from the galaxy’s place in the famous catalog compiled by the French astronomer&#160;Charles Messier. Another French astronomer, Pierre Méchain, discovered the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/>
+
+---
+
+## Backblaze denies 'sham accounting' claims as short sellers circle
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Cloud storage biz says &#39;baseless allegations&#39; are attempts by analysts to profit</h4> <p>Cloud storage and backup provider Backblaze has denied accusations made by financial analysts of &#34;sham accounting&#34; and &#34;insider dumping,&#34; as well as claims it inflated cash flow forecasts to hide its real performance.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/backblaze_sham_accounting_claims/>
+
+---
+
+## NASA’s Juno Mission Gets Under Jupiter’s and Io’s Surface
+
+date: 2025-04-29, from: NASA breaking news
+
+New data from the agency’s Jovian orbiter sheds light on the fierce winds and cyclones of the gas giant’s northern reaches and volcanic action on its fiery moon. NASA’s Juno mission has gathered new findings after peering below Jupiter’s cloud-covered atmosphere and the surface of its fiery moon, Io. Not only has the data helped [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/juno/nasas-juno-mission-gets-under-jupiters-and-ios-surface/>
+
+---
+
+## NASA’s Lunar Drill Technology Passes Tests on the Moon
+
+date: 2025-04-29, from: NASA breaking news
+
+Editor’s note: This article was updated on April 29, 2025, to correct the amount of data collected during Intuitive Machines’ IM-2 mission. NASA&#8217;s PRIME-1 (Polar Resources Ice Mining Experiment 1) mission was designed to demonstrate technologies to help scientists better understand lunar resources ahead of crewed Artemis missions to the Moon. During the short-lived mission [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/nasas-lunar-drill-technology-passes-tests-on-the-moon/>
+
+---
+
+## NASA Gathers Experts to Discuss Emerging Technologies in Astrophysics
+
+date: 2025-04-29, from: NASA breaking news
+
+The future of astrophysics research could unlock the secrets of the universe, and emerging technologies like artificial intelligence, quantum sensing, and advanced materials may hold the key to faster, more efficient discovery. Advancements and implementations of new technologies are imperative for observational astrophysics to achieve the next level of detection. NASA’s Emerging Technologies for Astrophysics [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-gathers-experts-to-discuss-emerging-technologies-in-astrophysics/>
+
+---
+
+## NASA Technology Enables Leaps in Artificial Intelligence
+
+date: 2025-04-29, from: NASA breaking news
+
+Artificial intelligence lets machines communicate autonomously 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technology-enables-leaps-in-artificial-intelligence/>
+
+---
+
+## China now America's number one cyber threat – US must get up to speed
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Former Rear Admiral calls for National Guard online deployment and corporates to be held accountable</h4> <p><strong>RSAC</strong>  Russia used to be considered America&#39;s biggest adversary online, but over the past couple of years China has taken the role, and is proving highly effective at it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/china_us_cyber_threat/>
+
+---
+
+## NASA Soars to New Heights in First 100 Days of Trump Administration
+
+date: 2025-04-29, from: NASA breaking news
+
+Today is the 100th day of the Trump-Vance Administration after being inaugurated on Jan. 20. In his inaugural address, President Trump laid out a bold and ambitious vision for NASA’s future throughout his second term, saying, “We will pursue our manifest destiny into the stars, launching American astronauts to plant the Stars and Stripes on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-soars-to-new-heights-in-first-100-days-of-trump-administration/>
+
+---
+
+## NASA Invites Media to Agency’s 25th Annual Student Launch Challenge
+
+date: 2025-04-29, from: NASA breaking news
+
+NASA’s annual&#160;Student Launch&#160;challenge will bring middle school, high school, and college students from around the country together to launch high-powered rockets and payloads. On Saturday, May 3, from 8:30 a.m.-2:30 p.m. CDT (or until the last rocket launches), student teams will convene for the agency’s 25th annual challenge at Bragg Farms in Toney, Alabama, near [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-agencys-25th-annual-student-launch-challenge/>
+
+---
+
+## OpenBSD 7.7 released with updated hardware support, 9Front ships second update of 2025
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>The OS refresh brings Ryzen AI and Arrow Lake compatibility</h4> <p>Fresh from their respective bunkers, OpenBSD 7.7 and a new version of Plan 9 fork 9Front have dropped, bringing hardened security, obscure charm, and, oddly enough, artwork from the same designer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/openbsd_77_is_out/>
+
+---
+
+## Help Classify Galaxies Seen by NASA’s James Webb Space Telescope!
+
+date: 2025-04-29, from: NASA breaking news
+
+NASA needs your help identifying the shapes of thousands of galaxies in images taken by our James Webb Space Telescope with the Galaxy Zoo project. These classifications will help scientists answer questions about how the shapes of galaxies have changed over time, what caused these changes, and why. Thanks to the light collecting power of […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/astrophysics-division/help-classify-galaxies-seen-by-nasas-james-webb-space-telescope/>
+
+---
+
+## Infosec pros tell Trump to quit bullying Chris Krebs – it's undermining security
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Top voices warn that political retaliation puts democracy and national defense at risk</h4> <p>The Electronic Frontier Foundation (EFF) and numerous infosec leaders are lobbying US President Donald Trump to drop his enduring investigation into Chris Krebs, claiming that targeting the former CISA boss amounts to bullying.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/infosec_trump_krebs_letter/>
 
 ---
 
@@ -81,11 +297,11 @@ date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
 
 ---
 
-## Generative AI is not replacing jobs or hurting wages at all, say economists
+## Generative AI is not replacing jobs or hurting wages at all, economists claim
 
 date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
 
-<h4>&#39;When we look at the economic outcomes, it really has not moved the needle&#39;</h4> <p>Instead of depressing wages or taking jobs, generative AI chatbots like ChatGPT, Claude, and Gemini have had almost no wage or labor impact so far – a finding that calls into question the huge capital expenditures required to create and run AI models.…</p> 
+<h4>&#39;When we look at the outcomes, it really has not moved the needle&#39;</h4> <p>Instead of depressing wages or taking jobs, generative AI chatbots like ChatGPT, Claude, and Gemini have had almost no significant wage or labor impact so far – a finding that calls into question the huge capital expenditures required to create and run AI models.…</p> 
 
 <br> 
 
@@ -143,9 +359,9 @@ date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
 
 ## Cybersecurity CEO accused of running malware on hospital PC blabs about it on LinkedIn
 
-date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+date: 2025-04-28, updated: 2025-04-29, from: The Register (UK I.T. News)
 
-<h4>Sometimes, silence is the best option</h4> <p>An Oklahoma City cybersecurity professional accused of installing spyware on a hospital PC confirmed on LinkedIn key details of the drama.…</p> 
+<h4>Sometimes, silence is the best option</h4> <p><strong>Updated</strong>  An Oklahoma City cybersecurity professional accused of installing spyware on a hospital PC confirmed on LinkedIn key details of the drama.…</p> 
 
 <br> 
 
@@ -311,7 +527,7 @@ date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
 
 ## From PlayStation to routers, you've probably been using FreeBSD without knowing it
 
-date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+date: 2025-04-28, updated: 2025-04-29, from: The Register (UK I.T. News)
 
 <h4>The OS came first, the foundation later – so what does it do?</h4> <p><strong>Interview</strong>  Many FOSS projects are backed by nonprofit foundations. One such example is the FreeBSD Foundation, started by Meta software engineer Justin T Gibbs. He spoke with <em>The Register</em> about the project&#39;s copyright philosophy, what the foundation does, and why it matters.…</p> 
 

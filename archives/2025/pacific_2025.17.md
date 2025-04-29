@@ -1,11 +1,74 @@
 ---
 title: pacific
-updated: 2025-04-29 06:12:34
+updated: 2025-04-29 14:08:29
 ---
 
 # pacific
 
-(date: 2025-04-29 06:12:34)
+(date: 2025-04-29 14:08:29)
+
+---
+
+## UH spring 2025 commencement schedule
+
+date: 2025-04-29, from: University of Hawaiʻi News
+
+<p>Graduates will be celebrated throughout the University of <span aria-label="Hawaii">Hawai&#699;i</span> 10-campus system this spring starting on May 10 and ending on May 17. 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/uh-spring-2025-commencement-schedule/"><abbr>UH</abbr> spring 2025 commencement schedule</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/uh-spring-2025-commencement-schedule/>
+
+---
+
+## New tsunami video gives insights, answers on how to prepare
+
+date: 2025-04-29, from: University of Hawaiʻi News
+
+<p>A new 2025 tsunami preparedness video from <span aria-label="Hawaii">Hawai&#699;i</span> Sea Grant provides essential, science-based guidance to help families stay safe before, during and after a tsunami.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/tsunami-preparedness-video/">New tsunami video gives insights, answers on how to prepare</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/tsunami-preparedness-video/>
+
+---
+
+## Waiʻanae Moku grad turns pain into purpose, future in social work
+
+date: 2025-04-29, from: University of Hawaiʻi News
+
+<p>From struggle to strength, a mother of six finds healing and purpose through higher education.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/waianae-moku-grad-turns-pain-into-purpose/">Waiʻanae Moku grad turns pain into purpose, future in social work</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/waianae-moku-grad-turns-pain-into-purpose/>
+
+---
+
+## Manta Ray cadets top US drill meet
+
+date: 2025-04-29, updated: 2025-04-29, from: Marianas Variety
+
+IT was a “California gold rush” for Saipan Southern High School’s Manta Ray Battalion cadets, who returned as the overall champions of the Army JROTC Golden Bear West Coast National Drill Meet. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/manta-ray-cadets-top-us-drill-meet/article_a3ac4eda-8c18-4bbb-a336-269467878fcc.html>
+
+---
+
+## MVA launches ‘The Marianas Experience’ video challenge
+
+date: 2025-04-29, updated: 2025-04-29, from: Marianas Variety
+
+LIGHTS, camera, paradise! The Marianas Visitors Authority is calling on all adventurers, storytellers, and content creators to capture the magic of Saipan, Tinian, and Rota in its new contest, “The Marianas Experience.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mva-launches-the-marianas-experience-video-challenge/article_fda6d9a7-ff1b-4438-9725-6cf50482f3da.html>
 
 ---
 

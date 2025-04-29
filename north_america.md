@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-04-29 06:12:33
+updated: 2025-04-29 14:08:28
 ---
 
 # north america
 
-(date: 2025-04-29 06:12:33)
+(date: 2025-04-29 14:08:28)
+
+---
+
+## Bill Russell's Hall of Fame no-show
+
+date: 2025-04-29, from: The Contrarian
+
+50 years ago, he skipped enshrinement as first Black NBA player in Hall of Fame. 
+
+<br> 
+
+<https://contrarian.substack.com/p/bill-russells-hall-of-fame-no-show>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-29, from: The Contrarian
+
+Tuesday: A protest on the Capitol steps, getting ready for May Day, an impressive setup in California, protesting in Illinois, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+##  From Harvard To The Humane Society: How Trump Could Weaponize The IRS Against Tax-Exempt Groups 
+
+date: 2025-04-29, from: The Lever News
+
+ The president is eyeing rescinding the tax-exempt status of nonprofit groups he disagrees with.  
+
+<br> 
+
+<https://www.levernews.com/from-harvard-to-the-humane-society-how-trump-could-weaponize-the-irs-against-tax-exempt-groups/>
+
+---
+
+## Trump Promised to Fight for Workers — Instead, He’s Undermined Them
+
+date: 2025-04-29, from: Capital and Main
+
+<p>100 days in, the self-styled champion of the working class has delivered layoffs, trade wars and an erosion of worker protections.</p>
+<p>The post <a href="https://capitalandmain.com/trump-promised-to-fight-for-workers-instead-hes-undermined-them">Trump Promised to Fight for Workers — Instead, He’s Undermined Them</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-promised-to-fight-for-workers-instead-hes-undermined-them>
+
+---
+
+## Remembering Paul Volcker amid today’s destruction of government
+
+date: 2025-04-29, from: The Contrarian
+
+Monetary policy is important, but it cannot sustain global leadership. 
+
+<br> 
+
+<https://contrarian.substack.com/p/remembering-paul-volcker-amid-todays>
 
 ---
 
@@ -208,18 +270,6 @@ A recording from Coffee with The Contrarians LIVE 04/28
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-the-contrarians-0428>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-28, from: The Contrarian
-
-Monday: Protests in support of Judge Hannah Dugan in Milwaukee, Wis., a governor urges patriotic Americans to resist, Tesla takedowns continue, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

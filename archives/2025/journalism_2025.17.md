@@ -1,11 +1,36 @@
 ---
 title: journalism
-updated: 2025-04-29 06:12:38
+updated: 2025-04-29 14:08:32
 ---
 
 # journalism
 
-(date: 2025-04-29 06:12:38)
+(date: 2025-04-29 14:08:32)
+
+---
+
+## Breaking: Vehicle fire in CSUN G3 parking
+
+date: 2025-04-29, from: The Sundail (CSUN Student Newspaper)
+
+Students were notified through a CSUN Alert on Tuesday morning that a fire had broken out on the second level of the G3 parking garage on CSUN’s campus. Campus police... 
+
+<br> 
+
+<https://sundial.csun.edu/193178/news/breaking-vehicle-fire-in-csun-g3-parking/>
+
+---
+
+## UCLA Housing changes spark concern, causing students to seek private alternatives
+
+date: 2025-04-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Andrew Loustalot&#8217;s first home at UCLA was the university apartments.
+Loustalot, a third-year anthropology student, lives in a four-bedroom, eight-person unit in Palo Verde, a university apartment. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/29/ucla-housing-changes-spark-concern-causing-students-to-seek-private-alternatives/>
 
 ---
 

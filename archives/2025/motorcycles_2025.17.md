@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-04-29 06:12:39
+updated: 2025-04-29 14:08:34
 ---
 
 # motorcycles
 
-(date: 2025-04-29 06:12:39)
+(date: 2025-04-29 14:08:34)
+
+---
+
+## Triumph Originals Custom Contest Will Bring Eight Unique Motorcycle Builds
+
+date: 2025-04-29, from: Ride Apart, Electric Motorcycle News
+
+Eight teams from eight countries will compete to create the most beautiful Triumph Bonneville yet. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/757872/triumph-originals-custom-contest-2025/>
+
+---
+
+## Recreational Trails Program Update Has No Hope of Passing, Unless You Call Your Reps
+
+date: 2025-04-29, from: Ride Apart, Electric Motorcycle News
+
+Congress doesn't like that you have public lands, so they won't care about this unless you make them.  
+
+<br> 
+
+<https://www.rideapart.com/news/757971/recreational-trails-program-introduced-s811/>
 
 ---
 
