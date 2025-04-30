@@ -1,11 +1,247 @@
 ---
 title: home
-updated: 2025-04-30 06:08:09
+updated: 2025-04-30 14:09:00
 ---
 
 # home
 
-(date: 2025-04-30 06:08:09)
+(date: 2025-04-30 14:09:00)
+
+---
+
+## How To Start Seeds Indoors in 8 Simple Steps
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>Learn the essential tips, materials, and techniques for how to start seeds indoors for your most successful vegetable garden yet.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-start-seeds-indoors/">How To Start Seeds Indoors in 8 Simple Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-start-seeds-indoors/>
+
+---
+
+## Major Power Tool Brand Announces Price Hikes Amid Trump’s Trade War
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>Tariffs are making things way more expensive for DIYers. Now, a major manufacturer of tools is raising prices to handle the tax increase. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/trumps-tariffs-power-tool-prices/">Major Power Tool Brand Announces Price Hikes Amid Trump&#8217;s Trade War</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/trumps-tariffs-power-tool-prices/>
+
+---
+
+## California Milk and Dairy Products: Safety You Can Rely On, Thanks to CDFA
+
+date: 2025-04-30, from: Calfifornia Dept. Aggriculture blog
+
+Milk and dairy products form a vital part of the daily diet for many Californians. Ensuring these products are safe and wholesome is a top priority, and the California Department of Food and Agriculture plays a central role in upholding &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28939">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28939>
+
+---
+
+## The Best Way to Freeze Lemon Juice + How to Store and Use It
+
+date: 2025-04-30, from: Homestead and Chil
+
+<p>Got lemons? Come learn how to preserve and freeze lemon juice in ice cube trays, to use later for cooking, beverages, and more! This simple guide will also cover ways to use frozen lemon juice cubes, and tips for storage to prevent freezer burn.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-freeze-lemon-juice-ice-cube-trays/">The Best Way to Freeze Lemon Juice + How to Store and Use It</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-freeze-lemon-juice-ice-cube-trays/>
+
+---
+
+## Budget Breakdown: An Aussie Architect Builds a Beach House With Million-Dollar Views for $270K
+
+date: 2025-04-30, from: Dwell
+
+After spending about $247K on land, Matt Goodman saved on square footage and splurged on glazing to build a minimalist getaway on stilts that feels like it’s floating. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-olive-street-cabin-matt-goodman-architecture-office-beach-house-38f288b7>
+
+---
+
+## Two Ecologists Designed This $2.4M L.A. Midcentury to Be at One With Nature
+
+date: 2025-04-30, from: Dwell
+
+Drawing inspiration from Sea Ranch and their passion for the natural world, Leona and Rudolph Mattoni crafted a Beverly Hills home with soaring windows, plentiful patios, and overflowing gardens. 
+
+<br> 
+
+<https://www.dwell.com/article/leona-and-rudolph-mattoni-house-beverly-hills-real-estate-f14efbf8>
+
+---
+
+## A Framework of Orange and Green Steel Reorganizes a Madrid Home for a Family of Four
+
+date: 2025-04-30, from: Dwell
+
+The metal is fixed with translucent panels that make the 860-square-foot plan feel more open. 
+
+<br> 
+
+<https://www.dwell.com/article/happy-home-conjuntos-empaticos-renovated-social-housing-family-home-d2ef562c>
+
+---
+
+## In Issue #11: Spring 2025 – Rebirth
+
+date: 2025-04-30, from: Edible San Fernando Valley
+
+<p>Sprouts showed up in my garden this spring like magic. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/explore/in-issue-11-spring-2025-rebirth/">In Issue #11: Spring 2025 &#8211; Rebirth</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/explore/in-issue-11-spring-2025-rebirth/?utm_source=rss&utm_medium=rss&utm_campaign=in-issue-11-spring-2025-rebirth>
+
+---
+
+## 10 Water-Saving Tips for Your Garden and Yard
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>Implement these water-saving tips to cut down on your utility bill, reduce waste and keep your lawn and garden healthy year-round.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/save-water-lawn-tips/">10 Water-Saving Tips for Your Garden and Yard</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/save-water-lawn-tips/>
+
+---
+
+## How a Former NFL Player Made This Beloved ’60s Shelving System Even More Modular
+
+date: 2025-04-30, from: Dwell
+
+Post-gridiron, Kevin Jones took an internship with USM. Now he’s given the company’s famous Haller pieces what might be their most radical update yet. 
+
+<br> 
+
+<https://www.dwell.com/article/kevin-jones-joba-studio-usm-soft-panel-shelving-system-55abc82a>
+
+---
+
+## 10 Weeds With Purple Flowers
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>Discover ten weeds with purple flowers that can support pollinators and add color to your yard.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/weeds-with-purple-flowers/">10 Weeds With Purple Flowers</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/weeds-with-purple-flowers/>
+
+---
+
+## How to Grow and Care for ‘Purple Emperor’ Sedum (Stonecrop)
+
+date: 2025-04-30, from: The Gardener's Path
+
+<p>Sedum ‘Purple Emperor’ is a stonecrop with violet leaves and pinkish-red flowers that thrives in challenging conditions. Perfect for rock gardens, containers, or borders, this drought-tolerant beauty requires little maintenance and creates striking visual contrast. Learn how to grow ‘Purple Emperor’ in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-purple-emperor-sedum/">How to Grow and Care for ‘Purple Emperor’ Sedum (Stonecrop)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-purple-emperor-sedum/>
+
+---
+
+## Here Are All the Countries Where Your Car Is Actually Made
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>While the U.S. is home to some of the best design studios in the world, a car's manufacturing journey starts with parts and components manufactured...</p>
+<p>The post <a href="https://www.familyhandyman.com/list/countries-where-your-car-is-made/">Here Are All the Countries Where Your Car Is Actually Made</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/countries-where-your-car-is-made/>
+
+---
+
+## If You See Green Porch Lights, Here’s What It Means
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>While most homes have regular white porch lights, some homes have colorful ones. What do green porch lights mean?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/green-porch-lights/">If You See Green Porch Lights, Here’s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/green-porch-lights/>
+
+---
+
+## GM Recalls 600,000 Vehicles Over Defective Engines
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>Nearly 600,000 GM vehicles are at risk of engine failure. Find out if you own one of the impacted cars and what to do about it. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/gm-engine-recall/">GM Recalls 600,000 Vehicles Over Defective Engines</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gm-engine-recall/>
+
+---
+
+## How They Pulled It Off: A Built-in Tiled Bench That Honors the View
+
+date: 2025-04-30, from: Dwell
+
+In Oakland, design studio Kalos Eidos creates structure in a tight living room with a custom seating solution. 
+
+<br> 
+
+<https://www.dwell.com/article/kalos-eidos-oakland-tiled-bench-e656cece>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-30, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## These Are the Best Mother’s Day Gifts to Give This Year
+
+date: 2025-04-30, from: Sunset Magazine - Living in the West
+
+Mother's Day is around the corner, so what are you gettting the mom, grandma, or mother figure in your life? This list can help. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/mothers-day-gifts>
 
 ---
 
@@ -191,18 +427,6 @@ One-color interiors are all the rage right now, but mastering the look takes mor
 <br> 
 
 <https://www.dwell.com/article/if-your-monochromic-room-feels-flat-heres-how-to-fix-it-7119b17a>
-
----
-
-## Homepage 2025
-
-date: 2025-04-29, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

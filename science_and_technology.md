@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2025-04-30 06:08:04
+updated: 2025-04-30 14:08:55
 ---
 
 # science and technology
 
-(date: 2025-04-30 06:08:04)
+(date: 2025-04-30 14:08:55)
+
+---
+
+## Why did Windows 7, for a few months, log on slower if you have a solid color background?
+
+date: 2025-04-30, from: OS News
+
+Time for another story from Raymond Chen, about why, in Windows 7, logging in took 30 seconds if you had set a solid colour as your background. Windows 7&#8217;s logon system needs to wait for a number of tasks to be completed, like creating the taskbar, populating the desktop with icons, and setting the background. If all of those tasks are completed or 30 seconds have passed, the welcome screen goes away. As you can guess by the initial report mentioning having to wait for 30 seconds, one of the tasks that need to be completed isn&#8217;t reporting in, so the welcome screen is displayed for the full 30 seconds. In the case of this bug, that task is obviously setting the background. The code to report that the wallpaper is ready was inside the wallpaper bitmap code, which means that if you don’t have a wallpaper bitmap, the report is never made, and the logon system waits in vain for a report that will never arrive. ↫ Raymond Chen It turns out that people who enabled the setting the hide desktop icons were experiencing the same delay, and that, too, was caused by the lack of a report from, in this case, the desktop icons. Interestingly, it seems especially settings changed through group policies can cause issues like this. Group policies are susceptible to this problem because they tend to be bolted on after the main code is written. When you have to add a group policy, you find the code that does the thing, and you put a giant “if policy allows” around it.  Oops, the scope of the “if” block extended past the report call, so if the policy is enabled, the icons are never reported as ready, and the logon system stays on the Welcome screen for the full 30 seconds. ↫ Raymond Chen These issues were fixed very quickly after the release of Windows 7, and they disappear from the radar within a few months after the release of everyone&#8217;s favourite Windows version. 
+
+<br> 
+
+<https://www.osnews.com/story/142250/why-did-windows-7-for-a-few-months-log-on-slower-if-you-have-a-solid-color-background/>
+
+---
+
+## Brewhaha: Turns out machines can't replace people, Starbucks finds
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Caffeine addicts evidently not thrilled to see cafes become walk-in vending machines</h4> <p>Starbucks, smarting from disappointing second-quarter earnings, says that trying to replace staff with machines was a mistake.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/starbucks_finds_machines_cant_replace/>
+
+---
+
+## Google is working on a big UI overhaul for Android
+
+date: 2025-04-30, from: OS News
+
+When Google released the fourth beta of Android 16 this month, many users were disappointed by the lack of major UI changes. As Beta 4 is the final beta, it’s likely the stable Android 16 release won’t look much different than last year’s release. However, that might not hold true for subsequent updates. Google recently confirmed it will unveil a new version of its Material Design theme at its upcoming developer conference, and we’ve already caught glimpses of these design changes in Android—including a notable increase in background blur effects. Ahead of I/O next month, here’s an early look at Google’s upcoming Android redesign. ↫ Mishaal Rahman at Android Authority With Android, it&#8217;s hard to really care about changes like these because it will take forever and a day for the Android ecosystem to catch up, and in general in mobile computing, most people use applications that have zero respect for platform integration anyway, preferring their own shit branding and UI &#8220;design&#8221; over that of the platform they&#8217;re running on. In other words, most people will never really encounter many of these changes, unless they&#8217;re Pixel users. That being said, these changes seem to basically replace a lot of &#8220;window&#8221; backgrounds with a blur, which makes everything feel more airy and brighter &#8211; so much so that in screenshots purporting to show dark mode, it looks like light mode. This doesn&#8217;t really seem like the &#8220;big UI overhaul&#8221; the linked article claims it to be, but there might be more changes on the way we haven&#8217;t seen yet. Instead of UI changes, I&#8217;m much more concerned about how much worse Google will be making Android by shoving Clippy into every corner of the operating system. 
+
+<br> 
+
+<https://www.osnews.com/story/142246/google-is-working-on-a-big-ui-overhaul-for-android/>
+
+---
+
+## NASA, International Astronauts to Connect with Students in Texas
+
+date: 2025-04-30, from: NASA breaking news
+
+NASA astronaut Nichole Ayers and JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi will answer prerecorded questions about science, technology, engineering, and mathematics from students in Mansfield, Texas, while aboard the International Space Station. The 20-minute space-to-Earth call will take place at 10:40 a.m. EDT on Monday, May 5, and can be watched on the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-international-astronauts-to-connect-with-students-in-texas/>
+
+---
+
+## PATH isn’t real on Linux
+
+date: 2025-04-30, from: OS News
+
+I have no idea how much relevance this short but informative rundown of how PATH works in Linux has in the real world, but I found it incredibly interesting and enlightening. The basic gist &#8211; and I might be wrong, there&#8217;s code involved and I&#8217;m not very smart &#8211; is that Linux itself needs absolute paths to binaries, while shells and programming languages do not. In other words, the Linux kernel does not know about PATH, and any lookup you&#8217;re doing comes from either the shell or the programming language you&#8217;re using. In practice this doesn&#8217;t matter, but it&#8217;s still interesting to know. 
+
+<br> 
+
+<https://www.osnews.com/story/142244/path-isnt-real-on-linux/>
+
+---
+
+## “I use zip bombs to protect my server”
+
+date: 2025-04-30, from: OS News
+
+The majority of the traffic on the web is from bots. For the most part, these bots are used to discover new content. These are RSS Feed readers, search engines crawling your content, or nowadays AI bots crawling content to power LLMs. But then there are the malicious bots. These are from spammers, content scrapers or hackers. At my old employer, a bot discovered a wordpress vulnerability and inserted a malicious script into our server. It then turned the machine into a botnet used for DDOS. One of my first websites was yanked off of Google search entirely due to bots generating spam. At some point, I had to find a way to protect myself from these bots. That&#8217;s when I started using zip bombs. ↫ Ibrahim Diallo I mean, when malicious bots harm your website, isn&#8217;t combating them with something like zip bombs simply just self-defense? 
+
+<br> 
+
+<https://www.osnews.com/story/142242/i-use-zip-bombs-to-protect-my-server/>
+
+---
+
+## ¿Qué es una caminata espacial? (Grados 5.o a 8.o)
+
+date: 2025-04-30, from: NASA breaking news
+
+Este artículo es&#160;para estudiantes de 5.o a 8.o&#160;grado. Cada vez que un astronauta sale de un vehículo espacial, se dice que hace una actividad extravehicular (EVA, por sus siglas en inglés). A esto también se le llama caminata espacial. El astronauta ruso Alexei Leonov hizo la primera caminata espacial el 18 de marzo de 1965. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/for-kids-and-students/que-es-una-caminata-espacial-grados-5-a-8/>
+
+---
+
+## Ex-CISA chief decries cuts as Trump demands loyalty above all else
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Cybersecurity is national security, says Jen Easterly</h4> <p><strong>RSAC</strong>  America&#39;s top cyber-defense agency is &#34;being undermined&#34; by personnel and budget cuts under the Trump administration, some of which are being driven by an expectation of perfect loyalty to the President rather than the nation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/excisa_boss_agency_cuts/>
+
+---
+
+## NASA Completes Kuiper Deconstruction, Plans for Display
+
+date: 2025-04-30, from: NASA breaking news
+
+The planned deconstruction, disposal, and preservation of historic parts of NASA’s decommissioned Kuiper Airborne Observatory is complete. Part of the airborne astronomy legacy of NASA’s Ames Research Center in California’s Silicon Valley, Kuiper conducted more than two decades of astronomical observations from 1975 to 1995. Later this year, the Kuiper cockpit will go on display [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-completes-kuiper-deconstruction-plans-for-display/>
+
+---
+
+## Maryland man pleads guilty to outsourcing US govt work to North Korean dev in China
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Feds say $970K scheme defrauded 13+ companies</h4> <p>A Maryland man has pleaded guilty to fraud after landing a job with a contractor working on US government software, and then outsourcing the work to a self-described North Korean developer in China.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/maryland_man_farming_web_dev/>
+
+---
+
+## Your graphics card's so fat, it's got its own gravity alert
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Asus implements droop detector for PCIe slots as GPUs now so heavy they risk toppling out</h4> <p>Graphics cards are now getting so bulky and heavy that device maker Asus has decided customers need a way to detect any sagging or movement of the GPU in its PCIe slot.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/gpu_pcie_droop/>
+
+---
+
+## Thunderbird joins Firefox on the monthly treadmill
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>We&#39;ll see if messaging client can keep up with sibling browser</h4> <p>Mozilla has lobbed out Firefox 138, and subsidiary MZLA&#39;s Thunderbird 138 isn&#39;t far behind. The venerable messaging client is picking up the pace and finally syncing its stride with the browser that spawned it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/firefox_thunderbird_138/>
+
+---
+
+## FBI steps in amid rash of politically charged swattings
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>No specific law against it yet, but that&#39;s set to change</h4> <p>A spate of high-profile swatting incidents in the US recently forced the FBI into action with its latest awareness campaign about the occasionally deadly practice.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/fbi_crackdown_on_swatting_not/>
+
+---
+
+## 'I guess NASA doesn't need or care about my work anymore'
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Former Space Shuttle boss&#39;s blog booted from Trump-era agency website</h4> <p>NASA has excised former Space Shuttle manager Wayne Hale&#39;s blog from its website in a reminder that nothing is forever.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/space_shuttle_bosss_blog_booted/>
+
+---
+
+## Science, Promise and Peril in the Age of AI
+
+date: 2025-04-30, from: Quanta Magazine
+
+An exploration of how artificial intelligence is changing what it means to do science and math, and what it means to be a scientist.            <p>The post <a href="https://www.quantamagazine.org/ai-changes-science-and-math-forever-20250430/" target="_blank">Science, Promise and Peril in the Age of AI</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/ai-changes-science-and-math-forever-20250430/>
+
+---
+
+## NASA Kicks Off Biological Research Aboard Space Station
+
+date: 2025-04-30, from: NASA breaking news
+
+Crew members are kicking off operations for several biological experiments that recently launched to the International Space Station aboard NASA’s 32nd SpaceX commercial resupply services mission. These include examining how microgravity affects production of protein by microalgae, testing a microscope to capture microbial activity, and studying genetic activity in biofilms. Microalgae in microgravity This ice [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-kicks-off-biological-research-aboard-space-station/>
+
+---
+
+## Where Do Scientists Think This Is All Going?
+
+date: 2025-04-30, from: Quanta Magazine
+
+We asked some of the world’s foremost experts an impossible question. Amazingly, they answered.            <p>The post <a href="https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/" target="_blank">Where Do Scientists Think This Is All Going?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/>
+
+---
+
+## What Happens When AI Starts To Ask the Questions?
+
+date: 2025-04-30, from: Quanta Magazine
+
+Technology has forever served as science’s toolbox. But now that AI is being used to develop questions and methods as well, some scientists wonder what their role is going to become.            <p>The post <a href="https://www.quantamagazine.org/what-happens-when-ai-starts-to-ask-the-questions-20250430/" target="_blank">What Happens When AI Starts To Ask the Questions?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/what-happens-when-ai-starts-to-ask-the-questions-20250430/>
+
+---
+
+## Mathematical Beauty, Truth and Proof in the Age of AI
+
+date: 2025-04-30, from: Quanta Magazine
+
+Mathematicians have started to prepare for a profound shift in what it means to do math.            <p>The post <a href="https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/" target="_blank">Mathematical Beauty, Truth and Proof in the Age of AI</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/>
+
+---
+
+## Why Language Models Are So Hard To Understand
+
+date: 2025-04-30, from: Quanta Magazine
+
+AI researchers are using techniques inspired by neuroscience to study how language models work — and to reveal how perplexing they can be.            <p>The post <a href="https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/" target="_blank">Why Language Models Are So Hard To Understand</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/>
+
+---
+
+## Microsoft gets twitchy over talk of Europe's tech independence
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Brad Smith commits org to facing off with US govt in court to protect them</h4> <p>Microsoft is responding to mounting &#34;geopolitical and trade volatility&#34; between the US administration and governments in Europe by pledging privacy safeguards for customers worried about using American hyperscalers, and vowing to fight the US government in court to protect Euro customers&#39; data if needed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/microsoft_getting_nervous_about_europes/>
 
 ---
 
@@ -85,7 +337,7 @@ date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
 
 date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
 
-<h4>Satya Nadella reveals attempts to merge Word, PowerPoint and Excel – which may now succeed thanks to AI</h4> <p>Microsoft CEO Satya Nadella has revealed about thirty percent of code in the company’s repositories was written by an AI.…</p> 
+<h4>Satya Nadella reveals attempts to merge Word, PowerPoint, Excel, which may now happen with LLMs</h4> <p>Microsoft CEO Satya Nadella has claimed thirty percent of code in the Windows titan&#39;s repositories was written by an AI.…</p> 
 
 <br> 
 
@@ -707,7 +959,7 @@ The Cygnus Loop, also known as the Veil Nebula, is a supernova remnant – the r
 
 ## Artist formerly known as Indian Business Machines pledges $150B for US ops, R&amp;D
 
-date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+date: 2025-04-28, updated: 2025-04-30, from: The Register (UK I.T. News)
 
 <h4>Did we says offshore? We meant, er, hardcore. Amirite, DOGE bros?</h4> <p><strong>Comment</strong>  IBM – a company understood to employ at least one-third of its global workforce in India and Bangladesh – is pledging to spend $150 billion over the next half decade on making America great again.…</p> 
 

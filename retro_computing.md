@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-30 06:08:10
+updated: 2025-04-30 14:09:01
 ---
 
 # retro computing
 
-(date: 2025-04-30 06:08:10)
+(date: 2025-04-30 14:09:01)
+
+---
+
+## Whither Help Scout?
+
+date: 2025-04-30, from: Bitsplitting Blog
+
+Three years ago, when I abandoned FogBugz after having used it for nearly 20 years, I landed on Help Scout, a fantastic support system offered by a company that seems to have a positive spirit and, cherry on top, is based locally to me in Boston. There are few companies I’ve been as happy to [&#8230;] 
+
+<br> 
+
+<https://bitsplitting.org/2025/04/30/whither-help-scout/>
+
+---
+
+## System76 Releases COSMIC Alpha 7
+
+date: 2025-04-30, from: Linux Magazine
+
+<p>With scores of bug fixes and a really cool workspaces feature, COSMIC is looking to soon migrate from alpha to beta.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/System76-Releases-COSMIC-Alpha-7>
 
 ---
 

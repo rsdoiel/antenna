@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-04-30 06:08:11
+updated: 2025-04-30 14:09:02
 ---
 
 # craft
 
-(date: 2025-04-30 06:08:11)
+(date: 2025-04-30 14:09:02)
+
+---
+
+## Making A Plane
+
+date: 2025-04-30, from: Lost Arg Press blog
+
+This is an excerpt from &#8220;Making and Mastering Wood Planes&#8221; by David Fink. Chapter 1 contains information on resawing the plane blank into the two cheeks and the midsection. It also shows how to determine which would become the front, back, top, and bottom of the blank, and how to mark these parts out with... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/30/making-a-plane/>
 
 ---
 

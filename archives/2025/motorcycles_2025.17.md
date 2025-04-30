@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-04-30 06:08:09
+updated: 2025-04-30 14:09:00
 ---
 
 # motorcycles
 
-(date: 2025-04-30 06:08:09)
+(date: 2025-04-30 14:09:00)
+
+---
+
+## NASCAR Power Rankings: Kyle Larson overcomes another superspeedway hurdle, surpasses Hamlin for top spot
+
+date: 2025-04-30, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer For the longest time, the biggest weakness for Kyle Larson was superspeedway racing. A more than well-rounded driver otherwise, there was something about him and&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-power-rankings-kyle-larson-overcomes-another-superspeedway-hurdle-surpasses-hamlin-for-top-spot/>
+
+---
+
+## Drunk Florida Man Leads Cops On 30-Mile ATV Pursuit
+
+date: 2025-04-30, from: Ride Apart, Electric Motorcycle News
+
+Alcohol, weapons, and an ATV are the perfect recipe for disaster. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758011/drunk-florida-man-30-mile-atv-pursuit/>
 
 ---
 

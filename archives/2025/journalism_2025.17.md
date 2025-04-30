@@ -1,11 +1,36 @@
 ---
 title: journalism
-updated: 2025-04-30 06:08:07
+updated: 2025-04-30 14:08:58
 ---
 
 # journalism
 
-(date: 2025-04-30 06:08:07)
+(date: 2025-04-30 14:08:58)
+
+---
+
+## Second Take: Despite subpar sustenance, sanitation, Coachella 2025 boasted superb setlist, site
+
+date: 2025-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The dust on Coachella 2025 is finally starting to settle &#8211; or at least clear &#8211; from festival-goers&#8217; lungs.
+Now that the 2025 Coachella Valley Music and Arts Festival has come and gone &#8211; as well as the Stagecoach Festival that follows the weekend after &#8211; the memories of the West Coast&#8217;s premier music festival still linger. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/second-take-despite-subpar-sustenance-sanitation-coachella-2025-boasted-superb-setlist-site/>
+
+---
+
+## BREAKING: CSUN Confirms SEVIS Status Reinstated for International Students
+
+date: 2025-04-30, from: The Sundail (CSUN Student Newspaper)
+
+International Exchange Student Center (IESC) confirmed on Tuesday that all terminated SEVIS records for international students at the university have been reinstated. This follows a sudden halt by Immigration and... 
+
+<br> 
+
+<https://sundial.csun.edu/193241/news/breaking-csun-confirms-sevis-status-reinstated-for-international-students/>
 
 ---
 

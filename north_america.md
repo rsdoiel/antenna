@@ -1,11 +1,255 @@
 ---
 title: north america
-updated: 2025-04-30 06:08:02
+updated: 2025-04-30 14:08:53
 ---
 
 # north america
 
-(date: 2025-04-30 06:08:02)
+(date: 2025-04-30 14:08:53)
+
+---
+
+## The media is failing to fight for democracy
+
+date: 2025-04-30, from: The Contrarian
+
+In a long interview with a Russian official, a major news network did not mention the D word. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-media-is-failing-to-fight-for>
+
+---
+
+## President Bone Spurs
+
+date: 2025-04-30, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/president-bone-spurs>
+
+---
+
+## Senator Tim Kaine on Trump's disastrous economic policies and the ongoing constitutional crisis 
+
+date: 2025-04-30, from: The Contrarian
+
+"This is the constitutional crisis, the beginning of it. A president not willing to follow the rule of law as laid down by the Supreme Court" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162552004/55025a69f69e207f04cd88cc2a8b30fe.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162552004/55025a69f69e207f04cd88cc2a8b30fe.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/senator-tim-kaine-on-trumps-disastrous>
+
+---
+
+## How a willfully inaccurate play about Mary Todd Lincoln became a cultural sensation 
+
+date: 2025-04-30, from: The Contrarian
+
+Director Sam Pinkleton discusses the surprise Broadway smash Oh, Mary! 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-a-willfully-inaccurate-play-about>
+
+---
+
+## D.C. U.S. Attorney nominee Ed Martin’s history demands a hearing 
+
+date: 2025-04-30, from: The Contrarian
+
+Senate Judiciary Republicans will forever be responsible for any abuses to come. 
+
+<br> 
+
+<https://contrarian.substack.com/p/dc-us-attorney-nominee-ed-martins>
+
+---
+
+##  Workers Fried and Died Under Trump’s Workplace Safety Nominee 
+
+date: 2025-04-30, from: The Lever News
+
+ As David Keeling led companies’ safety operations, workers fell ill and died amid extreme temperatures. Now he could dismantle federal heat protections.  
+
+<br> 
+
+<https://www.levernews.com/workers-fried-and-died-under-trumps-workplace-safety-nominee/>
+
+---
+
+## Trump Wants a Baby Boom
+
+date: 2025-04-30, from: The Contrarian
+
+The administration's pronatalist obsession is borne of all the worst impulses&#8212;though there may be a silver lining for healthcare 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-wants-a-baby-boom>
+
+---
+
+##  How Shareholder Payouts Fuel Corporate Profiteering 
+
+date: 2025-04-30, from: The Lever News
+
+ A new Federal Reserve study says record corporate profit increases are &quot;driven by an increase in the dividends rewarding shareholders.”  
+
+<br> 
+
+<https://www.levernews.com/how-shareholder-payouts-fuel-corporate-profiteering/>
+
+---
+
+## May Day, May Day!
+
+date: 2025-04-30, from: The Contrarian
+
+Mobilizations Planned in Over 800 Cities in all 50 States as Workers Demand Justice 
+
+<br> 
+
+<https://contrarian.substack.com/p/may-day-may-day>
+
+---
+
+##  Project 2025 Is 28 Percent Complete, Thanks To Trump 
+
+date: 2025-04-30, from: The Lever News
+
+ The president said he had nothing to do with the right-wing plan to dismantle the federal bureaucracy. Now, Project 2025’s authors are celebrating just how much of their agenda Trump has achieved.  
+
+<br> 
+
+<https://www.levernews.com/project-2025-is-28-percent-complete-thanks-to-trump/>
+
+---
+
+## International Tribunal Condemns U.S. Border Officials for Torturing, Killing Immigrant
+
+date: 2025-04-30, from: Capital and Main
+
+<p>Case calls for sweeping reforms to police use-of-force, could set precedent for reexamining high-profile deaths.</p>
+<p>The post <a href="https://capitalandmain.com/international-tribunal-condemns-u-s-border-officials-for-torturing-killing-migrant">International Tribunal Condemns U.S. Border Officials for Torturing, Killing Immigrant</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/international-tribunal-condemns-u-s-border-officials-for-torturing-killing-migrant>
+
+---
+
+## Fracking-Powered Crypto Mine in Pennsylvania Shuts Down Without Word to Regulators
+
+date: 2025-04-30, from: Capital and Main
+
+<p>State inspectors find site abandoned, raising concerns about pollution from unplugged wells across Appalachia. </p>
+<p>The post <a href="https://capitalandmain.com/fracking-powered-crypto-mine-in-pennsylvania-shuts-down-without-word-to-regulators">Fracking-Powered Crypto Mine in Pennsylvania Shuts Down Without Word to Regulators</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/fracking-powered-crypto-mine-in-pennsylvania-shuts-down-without-word-to-regulators>
+
+---
+
+## Sherrilyn Ifill Delivers Closing Remarks for 100 Days Conference
+
+date: 2025-04-30, from: The Contrarian
+
+"The problem we have is that we have a Congress that has decided to lay down and to turn over their power to the executive. That's the constitutional crisis" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162505519/27f4dcf1d61dc339ffa431f2d19b1373.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162505519/27f4dcf1d61dc339ffa431f2d19b1373.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/sherrilyn-ifill-delivers-closing>
+
+---
+
+## Coffee with the Contrarians 04/30
+
+date: 2025-04-30, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/30 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0430>
+
+---
+
+## Rushab Sanghvi and Jen on May Day and Union Solidarity
+
+date: 2025-04-30, from: The Contrarian
+
+"Labor unions are becoming central to the fight against authoritarianism&#8212;in courtrooms, on Capitol Hill, and in communities across the country." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162409382/3da2d3e262b833eb6a03e158d40cc24c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162409382/3da2d3e262b833eb6a03e158d40cc24c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rushab-sanghvi-and-jen-on-may-day>
+
+---
+
+## Maya Wiley and Maria Teresa Kumar on Protecting Fair Elections and Pluralism
+
+date: 2025-04-30, from: The Contrarian
+
+"Instead of modernizing and moving forward, we're going back to an era where people are going to be considered almost three-fifths of a person" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162505360/9168e74dee47dd950b562bedc038362d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162505360/9168e74dee47dd950b562bedc038362d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/maya-wiley-and-maria-teresa-kumar>
+
+---
+
+## Trump’s Vietnam commemoration debacle: amateur hour
+
+date: 2025-04-30, from: The Contrarian
+
+Diplomats were told not to attend ceremonies marking the 50th anniversary of the end of the Vietnam War. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-vietnam-commemoration-debacle>
+
+---
+
+## Asha Rangappa and Vanita Gupta on Fighting Corruption and Protecting Civil Society
+
+date: 2025-04-30, from: The Contrarian
+
+"There's only so many guardrails that you can create, but you have to put people in these positions who actually feel an obligation to the greater good" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162505546/c410451ed5a478705cc362d6de27c4ef.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162505546/c410451ed5a478705cc362d6de27c4ef.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/asha-rangappa-and-vanita-gupta-on>
+
+---
+
+## Brian Tyler Cohen, Katie Phang, and Jim Acosta on Media’s Role in Protecting Our Democracy
+
+date: 2025-04-30, from: The Contrarian
+
+"What's really at stake is the absence of critical thinking" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162501204/ab1e31631d6b5b2ba44b50c9daa66d6a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162501204/ab1e31631d6b5b2ba44b50c9daa66d6a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/brian-tyler-cohen-katie-phang-and>
 
 ---
 

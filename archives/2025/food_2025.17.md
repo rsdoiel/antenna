@@ -1,11 +1,177 @@
 ---
 title: food
-updated: 2025-04-30 06:08:11
+updated: 2025-04-30 14:09:02
 ---
 
 # food
 
-(date: 2025-04-30 06:08:11)
+(date: 2025-04-30 14:09:02)
+
+---
+
+## I Tried Khloud Protein Popcorn, Khloe Kardashian’s Latest Creation
+
+date: 2025-04-30, from: Taste of Home
+
+<p>Orville Redenbacher works hard, but Kris Jenner works harder.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/khloe-kardashian-khloud-protein-popcorn/">I Tried Khloud Protein Popcorn, Khloe Kardashian&#8217;s Latest Creation</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/khloe-kardashian-khloud-protein-popcorn/>
+
+---
+
+## What Should I Bring to a Summer Potluck?
+
+date: 2025-04-30, from: Taste of Home
+
+<p>Backyard barbecues are one of the highlights of summer, but it can be tough to decide which dish to contribute to the spread. Our quiz will help you narrow down the possibilities.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-should-i-bring-summer-potluck/">What Should I Bring to a Summer Potluck?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-should-i-bring-summer-potluck/>
+
+---
+
+## How to Keep Your Backyard Barbecue Bug-Free This Summer
+
+date: 2025-04-30, from: Taste of Home
+
+<p>Tired of having pesky insects crash your backyard barbecues? We've got tips on how to keep bugs away—no chemicals required.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/how-to-keep-bugs-away-from-patio/">How to Keep Your Backyard Barbecue Bug-Free This Summer</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/how-to-keep-bugs-away-from-patio/>
+
+---
+
+## 29 New and Traditional Caprese Salad Recipes
+
+date: 2025-04-30, from: Taste of Home
+
+<p>Basil + mozzarella + ripe tomatoes = the ultimate combination. If you love caprese salad, then you will love these recipes!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/recipes-for-anyone-who-loves-caprese-salad/">29 New and Traditional Caprese Salad Recipes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/recipes-for-anyone-who-loves-caprese-salad/>
+
+---
+
+## Thai Iced Tea
+
+date: 2025-04-30, from: Taste of Home
+
+Thai iced tea is the perfect balancing act for your favorite spicy or sweet Thai foods. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/thai-iced-tea-recipe/>
+
+---
+
+## Royal Coffee Opens Office and Cupping Lab in Addis Ababa, Ethiopia
+
+date: 2025-04-30, from: Daily Coffee News
+
+<div><img width="620" height="458" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg" class="attachment-large size-large wp-post-image" alt="Haile Andualem, Chris Kornman, Beti Asefa, and Segenet Gashaw welcome you to Royal Coffee Addis Ababa" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-768x567.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Oakland, California-based Royal Coffee recently opened a new office in Addis Ababa, Ethiopia, with a stated goal to become &#8220;the leading American importer of Ethiopian coffee.&#8221; The genetic birthplace of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/30/royal-coffee-opens-office-and-cupping-lab-in-addis-ababa-ethiopia/>
+
+---
+
+## SCA Advances its Coffee Value Assessment through Colombia FNC Partnership
+
+date: 2025-04-30, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA FNC CVA" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>During its flagship North American trade show, executive leaders of the Specialty Coffee Association (SCA) and the Colombian Coffee Growers Federation (FNC) signed a memorandum of understanding surrounding widespread implementation... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/30/sca-advances-its-coffee-value-assessment-through-colombia-fnc-partnership/>
+
+---
+
+## How to Set Up an Outdoor Drink Station
+
+date: 2025-04-30, from: Taste of Home
+
+<p>When you're hosting a backyard barbecue, setting up an outdoor drink station allows you to focus on enjoying the company of your guests instead of playing bartender all day.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/outdoor-drink-station/">How to Set Up an Outdoor Drink Station</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/outdoor-drink-station/>
+
+---
+
+## Study of 6,001 Adults Reaffirms Coffee’s Protective Effects Against Dementia
+
+date: 2025-04-30, from: Daily Coffee News
+
+<div><img width="620" height="474" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-620x474.jpg" class="attachment-large size-large wp-post-image" alt="roasted coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-620x474.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-300x229.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-768x587.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Research recently presented in the journal of the nonprofit Alzheimer&#8217;s Association provides fresh evidence that drinking coffee leads to a reduced risk of dementia.&#160; Led by a team at Zhejiang... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/30/study-of-6001-adults-reaffirms-coffees-protective-effects-against-dementia/>
+
+---
+
+## Best Stockpots (2025) for Long Simmers and Perfect Soups
+
+date: 2025-04-30, from: Bon Appetet
+
+These are big pots for big jobs. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-stockpots>
+
+---
+
+## How This Nashville Couple Is Reinventing the Coffee Shop Formula
+
+date: 2025-04-30, from: Bon Appetet
+
+At Now and Then, Demi Chacon and Davy Ball look to omakase and wine bar experiences to shape their coffee shop. 
+
+<br> 
+
+<https://www.bonappetit.com/story/now-and-then-nashville-reinventing-the-coffee-shop>
+
+---
+
+## How Food Color Shapes Taste and Cravings
+
+date: 2025-04-30, from: Bon Appetet
+
+Our world is awash in color, but certain hues affect our appetites in intriguing ways. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-food-colors-determines-taste-and-cravings>
+
+---
+
+## WPM Launches Tech-Forward Primus Espresso Machine
+
+date: 2025-04-30, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/WPM-Primus-620x414.jpg" class="attachment-large size-large wp-post-image" alt="WPM Primus" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/WPM-Primus-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/WPM-Primus-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/WPM-Primus-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/WPM-Primus-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/WPM-Primus.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Chinese coffee equipment maker WPM is introducing a single-group espresso machine called Primus that blurs the line between its home and professional use while bringing extraction parameters into sharp digital... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/30/wpm-launches-tech-forward-primus-espresso-machine/>
 
 ---
 
@@ -49,6 +215,18 @@ date: 2025-04-30, from: Chili Pepper Madness
 
 ---
 
+## How Chef’s Table Creator David Gelb Revolutionized Food TV
+
+date: 2025-04-30, from: Bon Appetet
+
+In an interview with Bon Appétit, Gelb reflects on the show’s impressive run, including how the first episode nearly fell apart. 
+
+<br> 
+
+<https://www.bonappetit.com/story/chefs-table-david-gelb>
+
+---
+
 ## You Should Never Store This Kitchen Item Next to the Stove
 
 date: 2025-04-29, from: Taste of Home
@@ -79,7 +257,7 @@ Whether you’re looking for classic truffles, artisanal bonbons, or the gooiest
 
 date: 2025-04-29, from: Daily Coffee News
 
-<div><img width="620" height="453" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-620x453.jpg" class="attachment-large size-large wp-post-image" alt="The Q is Evolving" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-620x453.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-768x561.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>On Thursday, April 23, the Specialty Coffee Association (SCA) announced it is taking over what&#8217;s known as &#8220;the Q,&#8221;&#160;the flagship education and certification platform of the nonprofit Coffee Quality Institute.... 
+<div><img width="620" height="453" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-620x453.jpg" class="attachment-large size-large wp-post-image" alt="The Q is Evolving" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-620x453.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1-768x561.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/The-Q-is-Evolving-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>On Thursday, April 23, the Specialty Coffee Association (SCA) announced it is taking over what&#8217;s known as &#8220;the Q,&#8221;&#160;the flagship education and certification platform of the nonprofit Coffee Quality Institute.... 
 
 <br> 
 
@@ -103,7 +281,7 @@ Twist. Crank. Repeat.
 
 date: 2025-04-29, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-620x465.jpg" class="attachment-large size-large wp-post-image" alt="EveryPerson Cafe Ottawa 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Six weeks prior to opening his first coffee shop, the owner of the new EveryPerson Café in downtown Ottawa turned to the one place on the internet where honesty and... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-620x465.jpg" class="attachment-large size-large wp-post-image" alt="EveryPerson Cafe Ottawa 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/EveryPerson-Cafe-Ottawa-3.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Six weeks prior to opening his first coffee shop, the owner of the new EveryPerson Café in downtown Ottawa turned to the one place on the internet where honesty and... 
 
 <br> 
 
@@ -291,7 +469,7 @@ Post Company’s meticulous approach to design creates one-of-a-kind dining expe
 
 date: 2025-04-28, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee roasters 2025" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Small roasters drew some of the largest crowds at the 2025 SCA Expo in Houston over the weekend. (Read all of DCN&#8217;s 2025 Expo coverage.) Two relatively compact machines, one... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="New coffee roasters 2025" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-coffee-roasters-2025.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Small roasters drew some of the largest crowds at the 2025 SCA Expo in Houston over the weekend. (Read all of DCN&#8217;s 2025 Expo coverage.) Two relatively compact machines, one... 
 
 <br> 
 

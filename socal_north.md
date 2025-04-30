@@ -1,11 +1,113 @@
 ---
 title: socal north
-updated: 2025-04-30 06:08:03
+updated: 2025-04-30 14:08:54
 ---
 
 # socal north
 
-(date: 2025-04-30 06:08:03)
+(date: 2025-04-30 14:08:54)
+
+---
+
+## The ‘science of reading’ won’t be required in California schools, at least for now
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+Some teachers and advocates objected to a plan to require phonics instruction in K-12 schools. The latest deal makes it optional. 
+
+<br> 
+
+<https://laist.com/news/education/the-science-of-reading-wont-be-required-in-california-schools-at-least-for-now>
+
+---
+
+## Long Beach Rep. Robert Garcia joins bipartisan fight to abolish the penny
+
+date: 2025-04-30, from: Longbeach Post
+
+<figure><img width="1024" height="635" src="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-484x300.jpg 484w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1110x688.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-768x476.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1536x952.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-2048x1269.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1320x818.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He’s part of a coalition in Congress seeking to eliminate the coin that costs more to produce than it’s worth — something President Donald Trump has also tried to achieve.</p>
+<p>The post <a href="https://lbpost.com/news/politics/eliminate-penny-bill-robert-garcia">Long Beach Rep. Robert Garcia joins bipartisan fight to abolish the penny</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/eliminate-penny-bill-robert-garcia>
+
+---
+
+## The US economy shrinks as Trump's tariffs spark recession fears
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+Trump promised a new "golden age" for the U.S. But his first 100 days in office have left the economy looking tarnished, with data showing the economy contracted in the first three months of the year. 
+
+<br> 
+
+<https://laist.com/news/the-us-economy-shrinks-as-trumps-tariffs-spark-recession-fears>
+
+---
+
+## Republicans plan to overhaul the federal student loan system. Here's what to know
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+The Republican proposal would eliminate Grad PLUS loans, set strict limits on Parent PLUS loans and create a system in which colleges would be on the hook if their students don't repay their loans. 
+
+<br> 
+
+<https://laist.com/news/education/republicans-plan-to-overhaul-the-federal-student-loan-system-heres-what-to-know>
+
+---
+
+## Trump aims to 'unleash' local police, but cautions against standing in the way of ICE
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+One executive order President Donald Trump signed this week aims to expand legal protections for police accused of misconduct, seeking to establish pro bono legal assistance from private sector attorneys. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-aims-to-unleash-local-police-but-cautions-against-standing-in-the-way-of-ice>
+
+---
+
+## When trees in downtown LA were chopped down, the crime cut deep
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+For days, police say, Samuel Patrick Groft cruised through the streets of Los Angeles on his bicycle, single-handedly chopping down about a dozen city trees with an electric chainsaw in three different neighborhoods. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/when-trees-in-downtown-la-were-chopped-down-the-crime-cut-deep-in-the-struggling-neighborhood>
+
+---
+
+## Judge restricts Border Patrol in California: ‘You just can’t walk up to people with brown skin’
+
+date: 2025-04-30, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC.jpg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>‘You just can’t walk up to people with brown skin and say give me your papers,’ a federal judge told Border Patrol attorneys at a hearing challenging recent immigration sweeps.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/judge-restricts-border-patrol-in-california-you-just-cant-walk-up-to-people-with-brown-skin">Judge restricts Border Patrol in California: ‘You just can’t walk up to people with brown skin’</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/judge-restricts-border-patrol-in-california-you-just-cant-walk-up-to-people-with-brown-skin>
+
+---
+
+## More give Trump an F than any other grade for first 100 days, poll finds
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+Nearly half of Americans give President Donald Trump a failing grade for his presidency so far, with near record low approval ratings at this point in the job, as he hits the milestone 100 days in office. 
+
+<br> 
+
+<https://laist.com/news/politics/more-give-trump-an-f-than-any-other-grade-for-first-100-days-poll-finds>
 
 ---
 
@@ -73,7 +175,7 @@ Spicy, saucy, and unapologetically fusion, Indian pizza is the crossover hit we 
 
 date: 2025-04-30, from: Longbeach Post
 
-<figure><img width="1024" height="993" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-300x291.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-768x745.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-111x108.jpg 111w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-400x388.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="993" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-300x291.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-768x745.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-111x108.jpg 111w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-400x388.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>You must scan a QR code or send a text message to get inside, and the doors automatically open if someone stays there too long.</p>
 <p>The post <a href="https://lbpost.com/news/city/throne-restrooms-long-beach-public-bathroom-high-tech">Long Beach is testing new public toilets with 10-minute time limits and cell-phone entry</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -164,7 +266,7 @@ date: 2025-04-29, from: CalVolunteers
 
 ## In largest settlement in its history, LA County approves $4 billion in massive child abuse case
 
-date: 2025-04-29, updated: 2025-04-29, from: The LAist
+date: 2025-04-29, updated: 2025-04-30, from: The LAist
 
 Payouts are expected to be shared among nearly 7,000 people who said they were victimized by employees at juvenile halls, other county facilities. 
 

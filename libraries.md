@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-30 06:08:08
+updated: 2025-04-30 14:08:59
 ---
 
 # libraries
 
-(date: 2025-04-30 06:08:08)
+(date: 2025-04-30 14:08:59)
 
 ---
 
@@ -105,6 +105,19 @@ Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M
 
 ---
 
+## AI chatbots and the simulation of dialog: what does Bakhtinian theory have to say?
+
+date: 2025-04-30, from: SciELO in Perspective
+
+<p>Proposal of a model for the discursive analysis of interactions with AI chatbots in the light of Bakhtinian concepts in which a controlled polyphony is observed, where all voices are reconciled in a “simulated dialog” that can impoverish critical thinking. We advocate the urgency of AI literacy development considering its ideological, political, and educational implications. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/04/30/ai-chatbots-and-the-simulation-of-dialog-what-does-bakhtinian-theory-have-to-say/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/04/30/ai-chatbots-and-the-simulation-of-dialog-what-does-bakhtinian-theory-have-to-say/">AI chatbots and the simulation of dialog: what does Bakhtinian theory have to say?</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/04/30/ai-chatbots-and-the-simulation-of-dialog-what-does-bakhtinian-theory-have-to-say/>
+
+---
+
 ## Trump v. Research: How We Could Turn the Threats into Opportunities
 
 date: 2025-04-30, from: Scholarly Kitchen
@@ -199,7 +212,7 @@ Daniel Lucas
 
 date: 2025-04-28, from: Association of Research Libraries News
 
-<p>Last Updated on April 29, 2025, 3:24 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 29 &#124; Wednesday, April 30 &#124; Thursday, May 1 Monday, April 28...</p>
+<p>Last Updated on April 30, 2025, 3:43 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 29 &#124; Wednesday, April 30 &#124; Thursday, May 1 Monday, April 28...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-28-may-1/">Day in Review (April 28–May 1)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

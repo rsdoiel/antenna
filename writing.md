@@ -1,11 +1,48 @@
 ---
 title: writing
-updated: 2025-04-30 06:08:06
+updated: 2025-04-30 14:08:57
 ---
 
 # writing
 
-(date: 2025-04-30 06:08:06)
+(date: 2025-04-30 14:08:57)
+
+---
+
+## 2025 Splatterpunk Awards Nominees
+
+date: 2025-04-30, from: Locus Magazine
+
+<p>Nominees have been announced for the 2025 Splatterpunk Awards, honoring &#8220;superior achievement in the literary sub-genres of Splatterpunk and Extreme Horror fiction&#8221; in 2024.</p>
+<div class="nobullets">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>Benjamin</strong>, Aron Beauregard &#38; Shane McKenzie (Bad Dream)</li>
+<li><strong>This Wretched Valley</strong>, Jenny Kiefer (Quirk)</li>
+<li><strong>American Rapture</strong>, CJ Leede (Tor Nightfire)</li>
+<li><strong>The Home</strong>, Judith Sonnet (Madness Heart)</li>
+<li><strong>The Old Lady</strong>, Kristopher Triana (Bad Dream)</li>
+</ul>
+<p><strong>Best Novella</strong></p>
+<ul>
+<li><strong>A Life of Crime</strong></li></ul></div> <a href="https://locusmag.com/2025/04/2025-splatterpunk-awards-nominees/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-splatterpunk-awards-nominees/>
+
+---
+
+## Sour Cherry by Natalia Theodoridou: Review by Gary K. Wolfe
+
+date: 2025-04-30, from: Locus Magazine
+
+<p><strong>Sour Cherry</strong>, Natalia Theodoridou (Tin House 978-1963108194, 312pp, $17.95, tp) April 2025.</p>
+<p>Everyone wants to take a whack at Blue­beard, it seems. While many of those old Charles Perrault fairy tales have given rise to endless variations over the centuries, this one seems particularly fascinating to modern writers, including Kurt Vonnegut, Donald Barthelme, and Angela Carter. More recently, we’ve seen variations from Margaret Atwood, Gregory Frost, T. Kingfisher, Catherynne  <a href="https://locusmag.com/2025/04/sour-cherry-by-natalia-theodoridou-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/sour-cherry-by-natalia-theodoridou-review-by-gary-k-wolfe/>
 
 ---
 

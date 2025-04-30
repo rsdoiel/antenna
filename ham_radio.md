@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-04-30 06:08:04
+updated: 2025-04-30 14:08:55
 ---
 
 # ham radio
 
-(date: 2025-04-30 06:08:04)
+(date: 2025-04-30 14:08:55)
+
+---
+
+## Power Tips #140: Designing a data center power architecture with supply and processor rail-monitoring solutions
+
+date: 2025-04-30, from: EDN Blog
+
+<img width="1431" height="688" src="https://www.edn.com/wp-content/uploads/Figure-1-25.png?fit=1431%2C688" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1-25.png?w=1431 1431w, https://www.edn.com/wp-content/uploads/Figure-1-25.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-1-25.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-1-25.png?w=1024 1024w" sizes="(max-width: 1431px) 100vw, 1431px" /><p>Exploring supply and processor rail-monitoring solutions that support the entire data center power architecture.</p>
+<p>The post <a href="https://www.edn.com/power-tips-140-designing-a-data-center-power-architecture-with-supply-and-processor-rail-monitoring-solutions/">Power Tips #140: Designing a data center power architecture with supply and processor rail-monitoring solutions</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/power-tips-140-designing-a-data-center-power-architecture-with-supply-and-processor-rail-monitoring-solutions/>
+
+---
+
+## Clearing out the data clutter
+
+date: 2025-04-30, from: EDN Blog
+
+<img width="809" height="555" src="https://www.edn.com/wp-content/uploads/Confusing-graphs_Figure-5.png?fit=809%2C555" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Confusing-graphs_Figure-5.png?w=809 809w, https://www.edn.com/wp-content/uploads/Confusing-graphs_Figure-5.png?w=300 300w, https://www.edn.com/wp-content/uploads/Confusing-graphs_Figure-5.png?w=768 768w" sizes="auto, (max-width: 809px) 100vw, 809px" /><p>Frequent Design Idea (DI) contributor, Christopher Paul, runs into a data visualization problem when working on a new personal DI project.</p>
+<p>The post <a href="https://www.edn.com/clearing-out-the-data-clutter/">Clearing out the data clutter</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/clearing-out-the-data-clutter/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-04-30 06:08:04
 
 date: 2025-04-30, from: EDN Blog
 
-<img width="1280" height="569" src="https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?fit=1280%2C569" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Here is a look at root cause analysis (RCA) challenges in firmware development and their AI-powered solutions.</p>
+<img width="1280" height="569" src="https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?fit=1280%2C569" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=1024 1024w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /><p>Here is a look at root cause analysis (RCA) challenges in firmware development and their AI-powered solutions.</p>
 <p>The post <a href="https://www.edn.com/firmware-development-redefining-root-cause-analysis-with-ai/">Firmware development: Redefining root cause analysis with AI</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -39,7 +67,7 @@ date: 2025-04-29, from: Amateur Radio Relay League News
 
 date: 2025-04-29, from: EDN Blog
 
-<img width="2048" height="1365" src="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?fit=2048%2C1365" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1900 1900w" sizes="(max-width: 2048px) 100vw, 2048px" /><p>The new AI assistant will allow LabVIEW and TestStand users to analyze code, get suggestions, and ask questions.</p>
+<img width="2048" height="1365" src="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?fit=2048%2C1365" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1900 1900w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /><p>The new AI assistant will allow LabVIEW and TestStand users to analyze code, get suggestions, and ask questions.</p>
 <p>The post <a href="https://www.edn.com/labview-gets-an-ai-makeover-with-nigels-launch/">LabVIEW gets an AI makeover with Nigel’s launch</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

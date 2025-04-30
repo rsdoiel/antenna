@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-04-30 06:08:11
+updated: 2025-04-30 14:09:02
 ---
 
 # small papers
 
-(date: 2025-04-30 06:08:11)
+(date: 2025-04-30 14:09:02)
+
+---
+
+## Long Beach Rep. Robert Garcia joins bipartisan fight to abolish the penny
+
+date: 2025-04-30, from: Long Beach Post
+
+<figure><img width="1024" height="635" src="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-484x300.jpg 484w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1110x688.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-768x476.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1536x952.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-2048x1269.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1320x818.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He’s part of a coalition in Congress seeking to eliminate the coin that costs more to produce than it’s worth — something President Donald Trump has also tried to achieve.</p>
+<p>The post <a href="https://lbpost.com/news/politics/eliminate-penny-bill-robert-garcia">Long Beach Rep. Robert Garcia joins bipartisan fight to abolish the penny</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/eliminate-penny-bill-robert-garcia>
+
+---
+
+## Judge restricts Border Patrol in California: ‘You just can’t walk up to people with brown skin’
+
+date: 2025-04-30, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC.jpg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>‘You just can’t walk up to people with brown skin and say give me your papers,’ a federal judge told Border Patrol attorneys at a hearing challenging recent immigration sweeps.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/judge-restricts-border-patrol-in-california-you-just-cant-walk-up-to-people-with-brown-skin">Judge restricts Border Patrol in California: ‘You just can’t walk up to people with brown skin’</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/judge-restricts-border-patrol-in-california-you-just-cant-walk-up-to-people-with-brown-skin>
 
 ---
 
@@ -13,7 +43,7 @@ updated: 2025-04-30 06:08:11
 
 date: 2025-04-30, from: Long Beach Post
 
-<figure><img width="1024" height="993" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-300x291.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-768x745.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-111x108.jpg 111w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-400x388.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="993" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-300x291.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-768x745.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-111x108.jpg 111w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-400x388.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>You must scan a QR code or send a text message to get inside, and the doors automatically open if someone stays there too long.</p>
 <p>The post <a href="https://lbpost.com/news/city/throne-restrooms-long-beach-public-bathroom-high-tech">Long Beach is testing new public toilets with 10-minute time limits and cell-phone entry</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,184 @@
 ---
 title: pacific
-updated: 2025-04-30 06:08:03
+updated: 2025-04-30 14:08:54
 ---
 
 # pacific
 
-(date: 2025-04-30 06:08:03)
+(date: 2025-04-30 14:08:54)
+
+---
+
+## President Hensel: International student update
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>&#8220;<abbr>UH</abbr> is committed to supporting our international students through these uncertain times.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/30/president-hensel-international-student-update/">President Hensel: International student update</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/30/president-hensel-international-student-update/>
+
+---
+
+## Low turnout for referendum
+
+date: 2025-04-30, from: Marshal Islands Journal
+
+<p>WILMER JOEL The national referendum and the special election for Namdrik Mayor were held simultaneously last Friday — with the main feature being a low turnout of voters at polling stations around Majuro. There were more voters in the afternoon than in the morning, according to some electoral officials at MIHS and RES who spoke [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/low-turnout-for-referendum/">Low turnout for referendum</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/low-turnout-for-referendum/>
+
+---
+
+## UH marine ecologist earns national fellowship
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>McManus is recognized for notable efforts to investigate how climate change impacts coral reef ecosystems.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/30/mcmanus-esa-early-career-fellow/"><abbr>UH</abbr> marine ecologist earns national fellowship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/30/mcmanus-esa-early-career-fellow/>
+
+---
+
+## Image of the Week: 2025 UH Manoa Awards Ceremony
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>This week’s <em><abbr>UH</abbr> News</em> Image of the Week is from the 2025 <abbr>UH</abbr> Mānoa Awards Ceremony, held on April 28.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/30/image-of-the-week-2025-manoa-awards/">Image of the Week: 2025 <abbr>UH</abbr> Manoa Awards Ceremony</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/30/image-of-the-week-2025-manoa-awards/>
+
+---
+
+## BMV closed on May 2 for REAL ID training
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+THE Department of Public Safety’s Bureau of Motor Vehicles will be closed on May 2 for REAL ID training. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/bmv-closed-on-may-2-for-real-id-training/article_e46af5ea-5286-4c44-9b7d-a91a71257fdd.html>
+
+---
+
+## Federal court approves sale of IPI assets to Team King
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+FOLLOWING a stipulation from the parties that resolved the objection of the CNMI government and Joshua Gray, District Court for the NMI Bankruptcy Judge Robert J. Faris approved the sale of Imperial Pacific International’s assets to the successful bidder, Team King Investment, on Tuesday, April 29. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/federal-court-approves-sale-of-ipi-assets-to-team-king/article_a26209a0-fd20-49fd-a187-8bfa6ed2d839.html>
+
+---
+
+## Enter the My Mom's Story contest to win a great prize package for your mom
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+THE May 4 deadline to participate in Marianas Variety’s My Mom’s Story contest is fast approaching. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/enter-the-my-moms-story-contest-to-win-a-great-prize-package-for-your-mom/article_8bd68f6b-2814-4b0b-85dc-2858fe32407f.html>
+
+---
+
+## Trump eases auto tariffs burden as Lutnick touts first foreign trade deal
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+WASHINGTON/DETROIT (Reuters) — President Donald Trump signed a pair of orders to soften the blow of his auto tariffs on Tuesday with a mix of credits and relief from other levies on materials, and his trade team touted its first deal with a foreign trading partner. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/trump-eases-auto-tariffs-burden-as-lutnick-touts-first-foreign-trade-deal/article_54a85808-5849-423e-8f5d-e0508b2971af.html>
+
+---
+
+## Joint panel OKs bill to take away CUC’s share of driver’s license fee
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+THE House and Senate Public Utilities, Transportation and Communications committees on Wednesday agreed to include on the House’s next session calendar House Bill 24-3, which proposes to redistribute to the Department of Public Works and the Bureau of Motor Vehicles the 10% of driver’s license fee collections allocated for the Commonwealth Utilities Corp. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/joint-panel-oks-bill-to-take-away-cuc-s-share-of-driver-s-license-fee/article_d1ebc5f4-f1a2-4521-a16c-6cdd2c8e8db4.html>
+
+---
+
+## Kensington cuts jobs
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+DUE to “unprecedented business losses,” Kensington Hotel Saipan will implement a reduction-in-force effective May 21, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/kensington-cuts-jobs/article_fe0d12c1-2c60-44b3-8cea-c3b01e271236.html>
+
+---
+
+## Trump touts economy at Michigan 100-day rally, as Americans grow wary
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+WARREN, Michigan (Reuters) — President Donald Trump touted what he called a series of major economic wins and forcefully attacked Democrats during a rally in Michigan on Tuesday, as polling showed Americans growing more skeptical of his hardline approaches on trade and immigration. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-touts-economy-at-michigan-100-day-rally-as-americans-grow-wary/article_9ba38514-31a6-49c9-abdd-db3e567dbe0c.html>
+
+---
+
+## Mellon Foundation announces $15M emergency funding for humanities councils, including up to $250,000 for NMI
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+ON April 29, 2025, the Mellon Foundation announced a $15 million emergency funding commitment to the Federation of State Humanities Councils in response to federal funding cuts that have devastated state humanities councils. This emergency funding will help provide support to all 56 state and jurisdictional humanities councils across the United States, including up to $250,000 for the Northern Marianas Humanities Council. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mellon-foundation-announces-15m-emergency-funding-for-humanities-councils-including-up-to-250-000-for/article_482ba8ac-73cb-4e7d-8138-da7266243536.html>
+
+---
+
+## Red flag on Managaha
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha's recreational beaches this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flag-on-managaha/article_453a2324-589b-456c-a8d9-172660d1ea71.html>
+
+---
+
+## Guam delegate urges restoration of SBA office
+
+date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Delegate James Moylan is urging Kelly Loeffler, the administrator of the U.S. Small Business Administration, to quickly work to restore operations at the Guam SBA office. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-delegate-urges-restoration-of-sba-office/article_73f001cf-d02b-476a-86a3-b586883d2ead.html>
 
 ---
 

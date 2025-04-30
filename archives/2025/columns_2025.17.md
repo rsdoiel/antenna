@@ -1,11 +1,249 @@
 ---
 title: columns
-updated: 2025-04-30 06:08:05
+updated: 2025-04-30 14:08:56
 ---
 
 # columns
 
-(date: 2025-04-30 06:08:05)
+(date: 2025-04-30 14:08:56)
+
+---
+
+##  &#8220;This Is What a University Looks Like&#8221; 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/this-is-what-a-university-looks-like>
+
+---
+
+## The Talk Show: ‘The Ratchet of Flippancy’
+
+date: 2025-04-30, updated: 2025-04-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/04/30/ep-421>
+
+---
+
+##  From Kirkus, a list of the Best Books of the 21st Century... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046738-from-kirkus-a-list-of>
+
+---
+
+## The Botched Kerning on Pope Francis’s Tomb
+
+date: 2025-04-30, updated: 2025-04-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.fastcompany.com/91324550/kerning-on-pope-francis-tomb-is-a-travesty>
+
+---
+
+##  Smallpox: Defeating a Virus That Killed Half a Billion People 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/smallpox-defeating-a-virus-that-killed-half-a-billion-people>
+
+---
+
+##  Our Freedom is Fragile: Lessons From the Jewish Children Who Fled Nazi... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046742-our-freedom-is-fragile-le>
+
+---
+
+## April 29, 2025
+
+date: 2025-04-30, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162559741/4a1d8ee8177b984501c0721f596daba9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162559741/4a1d8ee8177b984501c0721f596daba9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-29-2025-5a4>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-30, from: Dave Winer's Scripting News)
+
+Here's a <a href="http://scripting.com/code/testing/baselineplayground/index.html">prototype</a> of what a story page might look like on our baseline site for WordLand. I did this off on the side as input for the WordPress theme. I find it easier to work on style in a standalone page without much tech that can get in the way of fast iteration. 
+
+<br> 
+
+<http://scripting.com/2025/04/30.html#a175531>
+
+---
+
+##  How Photography From the Vietnam War Changed America. &#8220;The images changed how... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046748-how-photography-from-the->
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-04-30, from: Ryan Gantz Bluesky feed)
+
+Collegues: I have deduced that, while most humans will be fed to the orphan crushing machine, we ourselves should be excluded. Moreover, our specialized work deserves increased comforts and adulation, for only we commune directly with the gods, and also operating the machine is like super duper hard
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lo2cp4e47c2o>
+
+---
+
+##  100 days in, the Trump regime is failing. &#8220;We should thank [our]... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046741-100-days-in-the-trump>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-30, from: Miguel de Icaza Mastondon feed)
+
+<p>That does not include the wait time.</p><p>With that it has been nine days</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114427957176312173>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-30, from: Miguel de Icaza Mastondon feed)
+
+<p>At 133 hours waiting on my Apple review (60 hours first submission, 73 hours second).</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114427933546966987>
+
+---
+
+##  They fucked up the kerning on Pope Francis&#8217;s tomb. FR A NCISC... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046747-they-fucked-up-the-kernin>
+
+---
+
+## Thunderbird joins Firefox on the monthly treadmill
+
+date: 2025-04-30, updated: 2025-04-30, from: Liam Proven's articles at the Register
+
+<h4>We&#39;ll see if messaging client can keep up with sibling browser</h4>
+      <p>Mozilla has lobbed out Firefox 138, and subsidiary MZLA&#39;s Thunderbird 138 isn&#39;t far behind. The venerable messaging client is picking up the pace and finally syncing its stride with the browser that spawned it.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/30/firefox_thunderbird_138/>
+
+---
+
+## Grifting away
+
+date: 2025-04-30, from: Doc Searls (at Harvard), New Old Blog
+
+According to Joseph Cox at 404, the U.S. government registered the domains thetrilliondollardinner.gov, dinnerforamerica.gov, and thetrillion.gov. All of these (correct me if I&#8217;m wrong) are about enriching the U.S. president, his family, and favored friends through a memecoin scheme by which anyone (say, Putin) can buy influence. There is nothing conservative about this. Nothing republican. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/04/30/grifting-away/>
+
+---
+
+##  Two weeks ago, ICE detained Mohsen Mahdawi when he showed up for... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046745-two-weeks-ago-ice-detaine>
+
+---
+
+##  The Tide Is Turning. &#8220;After 100 days of chaos, I think we... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046740-the-tide-is-turning-after>
+
+---
+
+## How blogs show their site title
+
+date: 2025-04-30, from: Dave Winer's Scripting News
+
+<p>We're working on the "baseline" theme for WordLand, the default -- the one that shows the user's writing in a WordPress context. I did a survey of news sites and blogs to see how they show their titles:</p>
+<ul>
+<li><a href="https://gothamist.com/news/gov-hochul-says-ny-budget-will-create-50m-rental-aid-program-championed-by-tenant-groups">Gothamist</a> puts the name in the upper left corner, leaving room for some buttons and a menu in the right corner.</li>
+<li><a href="https://arstechnica.com/tech-policy/2025/04/redditor-accidentally-reinvents-discarded-90s-tool-to-escape-todays-age-gates/">Ars Technica</a> does something similar, name of site in upper left corner, with an array of buttons flush right.</li>
+<li><a href="https://www.emptywheel.net/2025/04/30/three-coequal-timelines-of-government/">Empty Wheel</a> does the same thing. (I sense a pattern here.)</li>
+<li><a href="https://missouriindependent.com/2025/04/30/missouri-lawmakers-should-reject-fake-chaplains-in-schools-bill/">Missouri Independent</a> centers the title in much bigger type than the previous examples, the buttons are arrayed above it (more buttons).</li>
+<li><a href="https://evgrieve.com/2025/04/east-village-mainstay-cafe-mogador.html">EV Grieve</a> puts the name in the upper left corner without much fanfare. Proves that it doesn't have to be eye-catching, it's the attitude and the content I love. One of my longtime favorites. It's an East Village neighborhood blog, running in Blogger for ages.</li>
+<li><a href="https://seths.blog/2025/04/uncomfortable-ideas/">Seth's Blog</a> is a WordPress site, managed by Automattic. The left sidebar includes the title of the blog, and has a list of things he wants you to read, and how to get on his mail list, etc. So effectively the title is in the upper left corner, and the equiv of the buttons are arrayed vertically in a column. The functionality of his blog is probably closest to what I have in mind for WordLand, but into spartan beginnings. It's easy to add stuff, impossible to take away.</li>
+<li><a href="https://simonwillison.net/2025/Apr/30/sycophancy-in-gpt-4o/#atom-everything">Simon Willison's Weblog</a>, another great example of the kind of writing I want people to do with WordLand. He puts the title in the upper left corner, with a single button flush right. He deals with the recent articles thing by putting a list of three posts, linkblog style, at the bottom. I like this placement, btw. Positioned as an afterthought. If you're lingering here, you might like this? I pretty much always ignore this kind of stuff.</li>
+<li><a href="https://www.manton.org/2025/04/29/model-train-at-the-casey.html">Manton Reece</a> does the same thing everyone else is doing. Title at the top left, an array of buttons flush-right at the same level. What's uncommon about his style is that the name of his blog is tiny, 13px. But it also is very visible.</li>
+<li><a href="https://kottke.org/25/04/0046739-trump-is-a-hallucinating-">Kottke</a> does not include the title of his blog on a story page. This is remarkable. But he does have the author name very prominently placed, it's the very topmost text on the page, impossible to miss. So amazingly the title is visible, even though it isn't there.</li>
+<li><a href="https://pluralistic.net/2025/04/29/cheaters-and-liars/https://pluralistic.net/2025/04/29/cheaters-and-liars/https://pluralistic.net/2025/04/29/cheaters-and-liars/https://pluralistic.net/2025/04/29/cheaters-and-liars/">Pluralistic</a> puts the title in big type flush left, with a subtitle, and the buttons are below the title, before the headline of the post (lots of white space separating).</li>
+</ul>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/30/132040.html?title=howBlogsShowTheirSiteTitle>
 
 ---
 
@@ -678,7 +916,7 @@ It’s hard to come up with a buyer who could afford to pay a high price for Chr
 
 ## The Actual Reason Facebook Renamed Itself
 
-date: 2025-04-28, updated: 2025-04-28, from: Daring Fireball
+date: 2025-04-28, updated: 2025-04-30, from: Daring Fireball
 
  
 

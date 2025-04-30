@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-30 06:08:06
+updated: 2025-04-30 14:08:58
 ---
 
 # games
 
-(date: 2025-04-30 06:08:06)
+(date: 2025-04-30 14:08:58)
+
+---
+
+## Heavy Play is an elegant alternative to card sleeving’s established dogma
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+Drop into just about any card shop here in the United States and you’ll find the same set of resources for protecting your cards lined up behind the counter. Brands like Dragon Shield, Upper Deck, and Gamegenic are the most common in my experience, but by and large they offer very similar solutions — especially [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/567441/heavy-play-card-sleeve-review-deck-box-playmat>
+
+---
+
+## All ‘Rayquaza ex Drop Event’ cards and best decks in Pokémon TCG Pocket
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+The “Rayquaza ex Drop Event” in&#160;Pokémon TCG Pocket&#160;allows you to battle against computers for a chance to get a Rayquaza ex card and a handful of other promo cards. The event — which started on Wednesday, April 30, and will run through Tuesday, May 13 — offers a chance to get promo cards like Rayquaza [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/567236/rayquaza-ex-drop-event-best-decks-cards>
+
+---
+
+## How to get a free full-art Rayquaza ex in Pokémon TCG Pocket
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+Pokémon TCG Pocket is currently featuring an event where players can get a stunning free full-art Rayquaza ex card. Released on Wednesday, the new Celestial Guardians update adds more than 200 new cards to the virtual card-collecting game and in-game events. A new special event celebrating the six-month anniversary of the game will allow you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/567182/full-art-rayquaza-ex-how-to-get>
+
+---
+
+## Borderlands 4 release date moved up out of ‘confidence in the game,’ not GTA 6’s ‘theoretical launch date’
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+Borderlands 4’s release date has been pushed up to Sept. 12 from the previously announced date of Sept. 23. One theory says it’s because of Grand Theft Auto 6 — specifically, to give more gamers more time to potentially play Borderlands 4 before they get sucked into GTA 6. That absolutely isn’t the case, says [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/567403/borderlands-4-new-release-date-gta-6-speculation>
+
+---
+
+## 8BitDo no longer shipping to US from China due to Trump tariffs
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+Gaming controller and peripheral company 8BitDo is suspending shipments from its Chinese warehouse to United States-based customers, per a notice on its website. The temporary pause on shipments to the U.S. is due to the Trump administration’s new 145% tariffs on imports from China, as well as its decision to end de minimis exemptions for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/566642/8bitdo-pauses-us-shipments-trump-tariffs>
+
+---
+
+## How to solve the chess puzzle in Destiny 2
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+The chess puzzle in Destiny 2 is just the first piece in an all-consuming puzzle the Destiny community is rapidly trying to solve ahead of the The Edge of Fate expansion reveal for Destiny 2 on May 6.&#160; If you don’t complete this chess puzzle, released in the twilight of the “Heresy” episode, you can’t [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/567044/chess-puzzle-solution-how-to-solve>
+
+---
+
+## Here’s how Akira, District 9, and British police hats inspired the look of this apocalyptic extraction shooter
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+The Forever Winter is far and away one of my favorite games I&#8217;ve played in 2025. Since publishing my review in March, Fun Dog Studios has continued to roll out several quality of life improvements and content additions. A recent update includes several new character animations, map variants, and a new unlockable questline designed around [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/567242/the-forever-winter-character-design-breakdown-riloe-april-update-skins>
+
+---
+
+## How to do the item duplication cheat in Oblivion Remastered
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+There’s an item duplication cheat in The Elder Scrolls 4: Oblivion Remastered. This is obviously a bug or a glitch and is, technically, a way to cheat. With all those items, though, you can sell them for infinite money. Our Oblivion Remastered guide will tell how to do the item duplication cheat for infinite money. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/566555/item-duplication-infinite-money-cheat>
+
+---
+
+## How to cure disease in Oblivion Remastered
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+There are a lot of diseases in The Elder Scrolls 4: Oblivion Remastered. You’ll pick up diseases from things like enemy attacks or even just fighting certain enemies. Each disease affects your character differently. Mostly, diseases drain attributes or skills, making your character worse at whatever it drains, so it’s always a good idea to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/567181/cure-disease-how-to-potion-spell>
+
+---
+
+## Want more Belle Époque after Clair Obscur: Expedition 33? Check out Lies of P
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+French studio Sandfall Interactive is enjoying a well-deserved victory lap as Clair Obscur: Expedition 33, the company’s first game since its founding in 2020, sells like hotcakes — though maybe crepes would be the more appropriate baked good — and garners positive reviews and word of mouth. A lot of this success revolves around its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/566468/lies-of-p-clair-obscur-expedition-33-belle-epoque-france>
 
 ---
 
