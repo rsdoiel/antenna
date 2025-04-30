@@ -1,11 +1,380 @@
 ---
 title: pacific
-updated: 2025-04-29 14:08:29
+updated: 2025-04-30 06:08:03
 ---
 
 # pacific
 
-(date: 2025-04-29 14:08:29)
+(date: 2025-04-30 06:08:03)
+
+---
+
+## Community invited to ag resource workshop
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>Are you interested in conservation for your farm or land? Join us 3 p.m. to 5 p.m. on Friday at the Kohala Farmer&#8217;s, Rancher&#8217;s &#38;Forester&#8217;s Resource Workshop at the Old Kohala Courthouse, 54-3900 &#8216;Akoni Pule Highway in Kapa&#8216;au.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/community/community-invited-to-ag-resource-workshop/>
+
+---
+
+## Police, ‘Aina Keepers team up for graffiti clean-up project
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>On Thursday, April 17, members of Hawaii Police Department&#8217;s Hilo Community Policing Section teamed up with Goodwill&#8217;s &#8216;Aina Keepers for a graffiti clean-up project in downtown Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/community/police-aina-keepers-team-up-for-graffiti-clean-up-project/>
+
+---
+
+## ‘Labor of Love’ project improves Pahoa school
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii State AFL-CIO&#8217;s Labor Community Services Program announces the completion of the 2025 Labor of Love: Union Workforce Development project at Pahoa High and Intermediate School.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/community/labor-of-love-project-improves-pahoa-school/>
+
+---
+
+## ‘Hala’ exhibit kicks off May 10 at Wailoa Art Center
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>The Wailoa Art Center in Hilo is proud will present &#8220;Hala,&#8221; an exhibition celebrating the cultural significance and ecological importance of the hala plant (<em>Pandanus</em> <em>tectorius</em>) in Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/community/hala-exhibit-kicks-off-may-10-at-wailoa-art-center/>
+
+---
+
+## 4 killed when a car crashes through Illinois after-school center
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>Four people, all of them children or teenagers, were killed and several others were injured Monday when a car crashed through an after-school center in Chatham, Illinois, a village just south of Springfield, Illinois State Police said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/4-killed-when-a-car-crashes-through-illinois-after-school-center/>
+
+---
+
+## US states sue to block Trump from dismantling AmeriCorps
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>Democratic-led states filed a lawsuit on Tuesday alleging the Trump administration had effectively dismantled AmeriCorps by abruptly canceling grants and cutting 85% of the workforce of the federal agency for national service and volunteering.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/us-states-sue-to-block-trump-from-dismantling-americorps/>
+
+---
+
+## White House-Amazon spat culminates in Trump calling Bezos ‘very nice’
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s 100th day in office started with what seemed to be a fresh, fast-escalating spat between the White House and Amazon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/white-house-amazon-spat-culminates-in-trump-calling-bezos-very-nice/>
+
+---
+
+## UPS to cut 20,000 jobs on reduced Amazon deliveries, as US tariffs weigh
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>United Parcel Service said on Tuesday it would slash 20,000 jobs and shut 73 facilities as part of a planned reduction in deliveries for Amazon.com, and amid U.S. President Donald Trump&#8217;s tariffs that are roiling global trade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/ups-to-cut-20000-jobs-on-reduced-amazon-deliveries-as-us-tariffs-weigh/>
+
+---
+
+## News in Brief for April 30
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>Kennedy advises parents to &#8216;do your own research&#8217; on vaccines</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/news-in-brief-for-april-30-2/>
+
+---
+
+## Canada’s Liberals ride Trump backlash to comeback election win
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>Canadian Prime Minister Mark Carney&#8217;s Liberals staged a major political comeback to retain power in parliamentary elections, fuelled by a backlash against U.S. President Donald Trump&#8217;s tariffs and comments on making Canada the 51st U.S. state. With almost all votes counted in Monday&#8217;s election, the Canadian Broadcasting Corporation forecast the Liberals would form a strong minority government, falling just short of the 172 electoral districts they needed for a majority.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/canadas-liberals-ride-trump-backlash-to-comeback-election-win/>
+
+---
+
+## Short of supplies, Gaza’s vital community kitchens may soon shut, halt free meals
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GENEVA/GAZA &#8212; It took five hours of queuing at a community kitchen in Gaza&#8217;s Nuseirat district for displaced grandmother Um Mohammad Al-Talalqa to get one meal to feed her hungry children and grandchildren.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/short-of-supplies-gazas-vital-community-kitchens-may-soon-shut-halt-free-meals/>
+
+---
+
+## Pentagon chief scraps program from first Trump term to boost women in security
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Defense Secretary Pete Hegseth on Tuesday canceled a program that sought to increase the role of women in national security sectors that was first signed into law by President Donald Trump in 2017.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/pentagon-chief-scraps-program-from-first-trump-term-to-boost-women-in-security/>
+
+---
+
+## More than 50,000 workers go on strike as budget woes disrupt LA County
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>Public hospitals diverted ambulances. Beach crews cleared wildfire debris without heavy equipment. Libraries closed. Thousands of nurses stayed home.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/more-than-50000-workers-go-on-strike-as-budget-woes-disrupt-la-county/>
+
+---
+
+## Trump touts economy at Michigan 100-day rally, as Americans grow wary
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>WARREN, Michigan &#8212; President Donald Trump touted what he called a series of major economic wins and forcefully attacked Democrats during a rally in Michigan on Tuesday, as polling showed Americans growing more skeptical of his hardline approaches on trade and immigration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/trump-touts-economy-at-michigan-100-day-rally-as-americans-grow-wary/>
+
+---
+
+## Keeping kupuna safe: Agencies say community help imperative during emergencies
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>The state Legislature passed a resolution two weeks ago calling for increased emergency preparedness to protect Hawaii&#8217;s kupuna, and both emergency-response organizations and elder-support groups seem to agree the path to that elevated protection lies within communities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/hawaii-news/keeping-kupuna-safe-agencies-say-community-help-imperative-during-emergencies/>
+
+---
+
+## Volcano man indicted third time for alleged sex assault
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>A 50-year-old Volcano man has been indicted for the third time in connection with the alleged sexual assault of a Volcano woman in her front yard a little more than four years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/hawaii-news/volcano-man-indicted-third-time-for-alleged-sex-assault/>
+
+---
+
+## Trump eases auto tariffs burden as Lutnick touts first foreign trade deal
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/DETROIT &#8212; U.S. President Donald Trump signed a pair of orders to soften the blow of his auto tariffs on Tuesday with a mix of credits and relief from other levies on materials, and his trade team touted its first deal with a foreign trading partner.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/trump-eases-auto-tariffs-burden-as-lutnick-touts-first-foreign-trade-deal/>
+
+---
+
+## USP hosts landmark conference on climate resilience, water security, sanitation and hygiene
+
+date: 2025-04-30, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) officially welcomed guests and participants of the Climate...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-hosts-landmark-conference-on-climate-resilience-water-security-sanitation-and-hygiene/">USP hosts landmark conference on climate resilience, water security, sanitation and hygiene</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-hosts-landmark-conference-on-climate-resilience-water-security-sanitation-and-hygiene/>
+
+---
+
+## Softball Cinzori named Big West Field Player of the Week
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>Ellyana Cinzori led <abbr>UH</abbr> with a .455 batting average on the road in games against <abbr>CSUN</abbr>, UC Santa Barbara and Cal Poly.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/cinzori-bw-player-week/">Softball Cinzori named Big West Field Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/cinzori-bw-player-week/>
+
+---
+
+## UH Hilo men’s golf earns 3rd PacWest Championship
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>Dylan Bercan’s clutch par on the 18th hole helped secure the title, while Katsuhiro Yamashita and Jacob Torres played pivotal roles in the final round comeback.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/uh-hilo-mens-golf-pacwest-championship/"><abbr>UH</abbr> Hilo men’s golf earns 3rd PacWest Championship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/uh-hilo-mens-golf-pacwest-championship/>
+
+---
+
+## Takamura endowment honors staff excellence
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>A new endowment honoring Jean Takamura celebrates the contributions of <abbr>UH</abbr> Mānoa’s support staff through the inaugural staff excellence award.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/takamura-staff-excellence-award/">Takamura endowment honors staff excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/takamura-staff-excellence-award/>
+
+---
+
+## Q&A: UH expert on tariff hikes, U.S.-China trade
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa Asian Studies Professor Eric Harwit is an expert in Chinese technology and trade.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/eric-harwit-q-and-a-tariff-hikes/">Q&A: <abbr>UH</abbr> expert on tariff hikes, U.S.-China trade</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/eric-harwit-q-and-a-tariff-hikes/>
+
+---
+
+## Le Marchand receives national award for cancer research excellence
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>Loïc Le Marchand wins national award for groundbreaking cancer research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/le-marchand-aacr-award/">Le Marchand receives national award for cancer research excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/le-marchand-aacr-award/>
+
+---
+
+## Miyamoto recognized for decades of LGBTQ+ advocacy, impact
+
+date: 2025-04-30, from: University of Hawaiʻi News
+
+<p>Camaron Miyamoto was honored at the <span aria-label="Hawaii">Hawai&#699;i</span> <abbr>LGBT</abbr> Legacy Foundation’s Vision Without Limits gala on April 3.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/miyamoto-lgbtq-legacy-award/">Miyamoto recognized for decades of <abbr>LGBTQ+</abbr> advocacy, impact</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/miyamoto-lgbtq-legacy-award/>
+
+---
+
+## Splash! Teachers dive into ocean science at waves and reefs workshop
+
+date: 2025-04-29, from: University of Hawaiʻi News
+
+<p>Through a series of demonstrations and expert talks, teachers learned how ocean waves are generated and how energy is transferred by waves.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/waves-reefs-resilience-workshop/">Splash! Teachers dive into ocean science at waves and reefs workshop</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/waves-reefs-resilience-workshop/>
+
+---
+
+## Charlie Wade earns Big West Coach of the Year
+
+date: 2025-04-29, from: University of Hawaiʻi News
+
+<p>Charlie Wade was named 2025 Big West Coach of the Year for the third time in four seasons</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/wade-big-west-coach/">Charlie Wade earns Big West Coach of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/wade-big-west-coach/>
+
+---
+
+## Hawaiian Word of the Week: Kalaiwa
+
+date: 2025-04-29, from: University of Hawaiʻi News
+
+<p>Kalaiwa&#8212;Drive.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/29/hawaiian-word-of-the-week-kalaiwa/">Hawaiian Word of the Week: Kalaiwa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/29/hawaiian-word-of-the-week-kalaiwa/>
 
 ---
 
@@ -50,7 +419,7 @@ The post <a href="https://www.hawaii.edu/news/2025/04/29/waianae-moku-grad-turns
 
 ## Manta Ray cadets top US drill meet
 
-date: 2025-04-29, updated: 2025-04-29, from: Marianas Variety
+date: 2025-04-29, updated: 2025-04-30, from: Marianas Variety
 
 IT was a “California gold rush” for Saipan Southern High School’s Manta Ray Battalion cadets, who returned as the overall champions of the Army JROTC Golden Bear West Coast National Drill Meet. 
 
@@ -307,6 +676,20 @@ date: 2025-04-29, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/29/features/want-a-fast-but-fancy-dinner-try-pan-frying-fish/>
+
+---
+
+## Hawaii borrowers in default are among millions nationwide affected by end of payment pause
+
+date: 2025-04-29, from: Hawaii Tribune Harold
+
+
+				<p>A pandemic-era pause for federal loan borrowers in default is set to end Monday, and millions of former and current students nationwide are bracing for renewed loan collections.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/29/hawaii-news/hawaii-borrowers-in-default-are-among-millions-nationwide-affected-by-end-of-payment-pause/>
 
 ---
 

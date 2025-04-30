@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-04-29 14:08:34
+updated: 2025-04-30 06:08:09
 ---
 
 # motorcycles
 
-(date: 2025-04-29 14:08:34)
+(date: 2025-04-30 06:08:09)
+
+---
+
+## onX Off-Road Partners With Toyota to Conserve Public Land Trails
+
+date: 2025-04-30, from: Ride Apart, Electric Motorcycle News
+
+More and more companies are looking how they can save off-roading. 
+
+<br> 
+
+<https://www.rideapart.com/news/758101/onx-off-road-toyota-public-lands/>
+
+---
+
+## Yamaha of Hawaii Is Recalling Several Motorcycles For a Sensor Issue
+
+date: 2025-04-30, from: Ride Apart, Electric Motorcycle News
+
+Heads up if you're in Hawaii and you have a late model MT-09, MT-10, XSR900, or Tracer 9 GT+. 
+
+<br> 
+
+<https://www.rideapart.com/news/757999/yamaha-hawaii-cp3-tps-recall/>
+
+---
+
+## Harley-Davidson Investors Want EVs Axed, Don't Have a Grasp on Industry Realities
+
+date: 2025-04-30, from: Ride Apart, Electric Motorcycle News
+
+The battle for control at the Motor Co. continues. 
+
+<br> 
+
+<https://www.rideapart.com/news/758112/harley-davidson-h-partners-management-purple-chip-investment/>
+
+---
+
+## Ducati and Dainese Team Up To Create Iconic Global Motorcycle Adventures
+
+date: 2025-04-30, from: Ride Apart, Electric Motorcycle News
+
+Possibly the most diverse selection of international routes from any tour company. 
+
+<br> 
+
+<https://www.rideapart.com/news/758002/expedition-masters-ducati-dainese-adventures/>
+
+---
+
+## UTVs Will Soon Be Legal For Road Use In Kentucky, But It Depends On the County
+
+date: 2025-04-30, from: Ride Apart, Electric Motorcycle News
+
+It’s a step in the right direction toward more diverse mobility options, and a win for us powersports enthusiasts, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758024/utv-street-legal-kentucky-soon/>
 
 ---
 

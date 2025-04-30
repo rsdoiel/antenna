@@ -1,11 +1,71 @@
 ---
 title: small papers
-updated: 2025-04-29 14:08:36
+updated: 2025-04-30 06:08:11
 ---
 
 # small papers
 
-(date: 2025-04-29 14:08:36)
+(date: 2025-04-30 06:08:11)
+
+---
+
+## Long Beach is testing new public toilets with 10-minute time limits and cell-phone entry
+
+date: 2025-04-30, from: Long Beach Post
+
+<figure><img width="1024" height="993" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-300x291.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-768x745.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-111x108.jpg 111w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-400x388.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>You must scan a QR code or send a text message to get inside, and the doors automatically open if someone stays there too long.</p>
+<p>The post <a href="https://lbpost.com/news/city/throne-restrooms-long-beach-public-bathroom-high-tech">Long Beach is testing new public toilets with 10-minute time limits and cell-phone entry</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/throne-restrooms-long-beach-public-bathroom-high-tech>
+
+---
+
+## Suspect arrested in deadly North Long Beach shooting
+
+date: 2025-04-29, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police say they arrested a 24-year-old from Compton on suspicion of fatally shooting a 52-year-old man last month, but a motive for the killing remains unclear.</p>
+<p>The post <a href="https://lbpost.com/news/crime/suspect-arrested-in-deadly-north-long-beach-shooting">Suspect arrested in deadly North Long Beach shooting</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/suspect-arrested-in-deadly-north-long-beach-shooting>
+
+---
+
+## California sent investigators to ICE facilities. They found more detainees, and health care gaps
+
+date: 2025-04-29, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A California law empowers state investigators to check on conditions at ICE detention centers. A new report raises concerns about health care inside them.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/ice-detention-facilities-conditions-california">California sent investigators to ICE facilities. They found more detainees, and health care gaps</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/ice-detention-facilities-conditions-california>
+
+---
+
+## Man charged in viral animal cruelty case pleads not guilty
+
+date: 2025-04-29, from: Long Beach Post
+
+<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1024x580.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1024x580.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-300x170.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-768x435.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1536x870.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1200x680.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-400x227.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA.png 1564w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The puppy is being placed in a foster home while it recovers, according to Long Beach animal care workers.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-charged-in-viral-animal-cruelty-case-pleads-not-guilty">Man charged in viral animal cruelty case pleads not guilty</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-charged-in-viral-animal-cruelty-case-pleads-not-guilty>
 
 ---
 
@@ -13,7 +73,7 @@ updated: 2025-04-29 14:08:36
 
 date: 2025-04-29, from: Long Beach Post
 
-<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The payout is expected to have implications on the county budget “for years to come,” county officials said. </p>
 <p>The post <a href="https://lbpost.com/news/la-county-supervisors-approve-unprecedented-4-billion-sexual-abuse-settlement">LA County Supervisors approve unprecedented $4 billion sexual abuse settlement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +88,7 @@ date: 2025-04-29, from: Long Beach Post
 
 date: 2025-04-29, from: Long Beach Post
 
-<figure><img width="1024" height="526" src="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-1024x526.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-768x394.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-400x205.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-470x241.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-970x497.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="526" src="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-1024x526.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-768x394.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-400x205.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-470x241.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-970x497.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Visas for the six international students had previously been revoked without warning or explanation.</p>
 <p>The post <a href="https://lbpost.com/news/education/visas-restored-for-five-of-six-csulb-students-college-says">Visas restored for five of six CSULB students, college says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

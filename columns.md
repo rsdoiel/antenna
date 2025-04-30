@@ -1,11 +1,229 @@
 ---
 title: columns
-updated: 2025-04-29 14:08:31
+updated: 2025-04-30 06:08:05
 ---
 
 # columns
 
-(date: 2025-04-29 14:08:31)
+(date: 2025-04-30 06:08:05)
+
+---
+
+## BTW Windows Subsystem for Linux officially uses Arch now
+
+date: 2025-04-30, updated: 2025-04-30, from: Liam Proven's articles at the Register
+
+<h4>The tryhard&#39;s favorite distro wins an approved home in Microsoft&#39;s OS</h4>
+      <p>There have been unofficial versions for years, but Arch Linux is now officially on the menu for people using Windows Subsystem for Linux (WSL).</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/30/official_arch_on_wsl2/>
+
+---
+
+## WhatsApp Case Against NSO Group Progressing
+
+date: 2025-04-30, updated: 2025-04-29, from: Bruce Schneier blog
+
+<p>Meta is suing NSO Group, <a href="https://cyberscoop.com/whatsapp-nso-group-trial-judge-limits-evidence-2025/">basically claiming</a> that the latter hacks WhatsApp and not just WhatsApp users. We have a procedural ruling:</p>
+<blockquote><p>Under <a href="https://www.courtlistener.com/docket/16395340/686/whatsapp-inc-v-nso-group-technologies-limited/">the order</a>, NSO Group is prohibited from presenting evidence about its customers&#8217; identities, implying  the targeted WhatsApp users are suspected or actual criminals, or alleging that WhatsApp had insufficient security protections.</p>
+<p>[&#8230;]</p>
+<p>In making her ruling, Northern District of California Judge Phyllis Hamilton said NSO Group undercut its arguments to use evidence about its customers with contradictory statements...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/whatsapp-case-against-nso-group-progressing.html>
+
+---
+
+## Office Hours: Honestly, how are you doing after the monster’s first hundred days? 
+
+date: 2025-04-30, from: Robert Reich's blog
+
+A personal assessment 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-honestly-how-are-you>
+
+---
+
+## April 29, 2025 
+
+date: 2025-04-30, from: Heather Cox Richardson blog
+
+President Franklin Delano Roosevelt popularized the idea that the first 100 days of a presidency established an administration&#8217;s direction. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-29-2025>
+
+---
+
+## lynx --nocolor
+
+date: 2025-04-30, from: Jirka's blog
+
+I really dislike how the Lynx WWW browser looks on some modern systems. On my  SGI it  was OK -  it simply respected  IRIS terminal  colors. On modern systems in seems to be full of colors with gray background. Text colors are quite  nice but I have disliked the  gray background. I have wished to have or black one  or transparent one (it a terminal emulator supports transparency). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_lynx_nocolor>
+
+---
+
+## iMac G5 keyboard
+
+date: 2025-04-30, from: Jirka's blog
+
+Today  my  wife  requested  new  keyboard. I  thought  that  the  Apple white-transparent keyboard is too inferior  to her IBM laptop keyboard. Well, it is. So I have replaced it by spare HP one. A HP keyboard which was a part of the PA-RISC Visualize workstation (the workstation itself does not work, unfortunately). And she is happy with it. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_iMac_G5_keyboard>
+
+---
+
+## Working from home
+
+date: 2025-04-30, from: Jirka's blog
+
+And this is my main tool: 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_Working_from_home>
+
+---
+
+## Workflow: Changes and additions
+
+date: 2025-04-30, from: Jirka's blog
+
+Things are continuously  developing or at least  changing. For example, my  gVim on  my GPD  Pocket (Ubuntu  MATE 18.04)  has issues  with text encoding.  If  I  create a  new  file  then  I  everything is  OK.  But when  I  save  it  and  re-open it  then  it  en-codes  local  language characters incorrectly.  It is  strange because I  have been  using the same  .vimrc/.gvimrc for  ages on  several Linux  machines and  I never encountered such behaviour. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_Workflow_Changes_and_additions>
+
+---
+
+## UBports OTA-12 update
+
+date: 2025-04-30, from: Jirka's blog
+
+I am writing this  on my BQ Aquaris M10 tablet (one  of the few devices shipped  with the  Ubuntu  Touch  pre-installed). The  community-driven Ubuntu Touch  effort  {sup}1{/sup} is  still a thing  and the recent  update (the OTA-12) is quite interesting. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_UBports_OTA_12_update>
+
+---
+
+## Tungsten W + PalmPix
+
+date: 2025-04-30, from: Jirka's blog
+
+As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx  devices. So I have almost modern  smarphone (jsut 17 years old!) with the (detachable camera). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_Tungsten_W_PalmPix>
+
+---
+
+## TouchPad progress
+
+date: 2025-04-30, from: Jirka's blog
+
+I have decided to  update the Touchpad a bit. I think that  it can be a nice  portable  / secondary  machine  for  some situations.  Especially because I have a good (original) keyboard for it. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_TouchPad_progress>
+
+---
+
+## Tired
+
+date: 2025-04-30, from: Jirka's blog
+
+As the quarantine  is now not so  strict here and as a  results of some deadlines at  work people became  much more active.  As a result  I the amount of incoming mails and phone calls (and amount of work related to them) have increased too much. And I have became tired. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250430-0445_Tired>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-30, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/29/libertyInJailCountingDays.png"></center>New Yorker cover.</div> 
+
+<br> 
+
+<http://scripting.com/2025/04/29.html#a024130>
+
+---
+
+## This week's Neville Chamberlain Award goes to
+
+date: 2025-04-30, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/this-weeks-neville-chamberlain-award>
+
+---
+
+## Wednesday 30 April, 2025
+
+date: 2025-04-29, from: John Naughton's online diary
+
+Vatican Roulette Terrific photograph, taken, I think, by Zelensky’s photographer. It made a brilliant front page for the Observer in its latest incarnation. Quote of the Day ”Writers have a rare power not given to anyone else: we can bore &#8230; <a href="https://memex.naughtons.org/wednesday-30-april-2025/40735/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-30-april-2025/40735/>
+
+---
+
+## Meta’s ‘Digital Companions’, Using the Licensed Voices of Celebrity Actors, Will Talk Dirty With Anyone
+
+date: 2025-04-29, updated: 2025-04-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf?st=6jzH4S&reflink=desktopwebshare_permalink>
+
+---
+
+##  Trump is a hallucinating LLM. &#8220;He answers questions in a manner quite... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046739-trump-is-a-hallucinating->
+
+---
+
+##  &#8220;Authoritarian followers share three tendencies: they obey authority figures from their in-group... 
+
+date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046737-authoritarian-followers-s>
 
 ---
 
@@ -23,7 +241,7 @@ date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
 
-Fact-checking is a ChatGPT use-case for reporters. Feed a draft of your story into ChatGPT and ask if it spots any factual errors. There may be some false positives, so you can ask another AI chatbot, or investigate yourself elsewhere. And it may miss some. But it couldn't hurt and it might save your ass. 
+ChatGPT use-case for reporters -- fact-checking. Feed a draft of your story into ChatGPT and ask if it spots any factual errors. There may be some false positives, so you can ask another AI chatbot, or investigate yourself elsewhere. It may miss some. But it couldn't hurt and it might help. 
 
 <br> 
 
@@ -109,7 +327,7 @@ date: 2025-04-29, updated: 2025-04-29, from: Jason Kittke's blog
 
 date: 2025-04-29, from: Matt Haughey blog
 
-<p>A bunch of friends sent me the announcement of <a href="https://www.slate.auto/en?ref=a.wholelottanothing.org" rel="noreferrer">the new Slate EV truck</a>, asking what I thought. I was already looking forward to <a href="https://www.telotrucks.com/?ref=a.wholelottanothing.org" rel="noreferrer">the Telo Truck</a>, but the Slate is even better and frankly, frighteningly close to my dream EV platform.</p><h2 id="what-would-an-ideal-new-ev-product-look-like">What would an ideal new EV product look</h2> 
+<p>A bunch of friends sent me the announcement of <a href="https://www.slate.auto/en?ref=a.wholelottanothing.org" rel="noreferrer">the new Slate EV truck</a> yesterday, asking what I thought. I was already looking forward to <a href="https://www.telotrucks.com/?ref=a.wholelottanothing.org" rel="noreferrer">the Telo Truck</a>, but the Slate looks even better and frankly, it&apos;s frighteningly close to my dream EV platform.</p><h2 id="what-would-an-ideal-new-ev-product-look-like">What would an ideal</h2> 
 
 <br> 
 
@@ -117,7 +335,7 @@ date: 2025-04-29, from: Matt Haughey blog
 
 ---
 
-## The most important lesson of Trump's first hundred days
+## The most important lesson of Trump’s first hundred days
 
 date: 2025-04-29, from: Robert Reich's blog
 
@@ -210,7 +428,7 @@ New howto: <a href="https://this.how/feedland/editingSubscriptions.opml">Editing
 
 **@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
 
-<a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> defines a network of services and readers. Each one can go down, but the whole network stays up. That's all that Bluesky has promised, and that's why a layer of RSS on top of Bluesky would deliver a huge portion of the stability it would need to survive a disaster. It could be done in a matter of weeks, if they decided to do it. I would help. 
+<a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> defines a network of services and readers. Each one can go down, but the whole network stays up. That's all that Bluesky has promised, and that's why a layer of RSS on top of Bluesky would deliver a huge portion of the stability they've promised and would need to survive a disaster. It could be done in a matter of weeks, if they decided to do it. I would help. 
 
 <br> 
 
@@ -220,7 +438,7 @@ New howto: <a href="https://this.how/feedland/editingSubscriptions.opml">Editing
 
 **@Dave Winer's Scripting News** (date: 2025-04-29, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2019/05/16/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lnxcy2wodj2y">Bluesky was down this morning</a>. Usually I don't criticize a service when it's down, because I can relate. We like to help each other when there are outages. But Bluesky is special, because they claim to be decentralized. If it were, it wouldn't go down unless the internet itself had. And since the internet, amazingly, <i>is</i> decentralized, that's not likely to happen. It was designed that way when it was <a href="https://en.wikipedia.org/wiki/ARPANET">Arpanet</a>, a project of the US Department of Defense. It was designed to survive a <a href="https://en.wikipedia.org/wiki/ARPANET#Inspiration">nuclear strike</a>. Bluesky is nice, but it's fragile, and their hype says otherwise. That's why they're special. They should straighten this out so we can properly get decentralization into our networks. Bluesky could easily add a layer of <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> on top of what they have, so that news flow could survive a disaster.  In 2025 this is a realistic concern, as it was in 1966. Also it would be nice if other network experts would support this, esp if they're on Bluesky. This is not personal, if they wanted to get the RSS layer built, I would help them do it. We should all pitch in because then it would really be our network, and not owned by anyone. Live up to the promise, now. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/05/16/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lnxcy2wodj2y">Bluesky was down this morning</a>. Usually I don't criticize a service when it's down, because I can relate. We like to help each other when there are outages. But Bluesky is special, because they claim to be decentralized. If it were, it wouldn't go down unless the internet itself had. And since the internet, amazingly, <i>is</i> decentralized, that's not likely to happen. It was designed that way when it was developed at <a href="https://en.wikipedia.org/wiki/ARPANET">Arpanet</a>, a project of the US Department of Defense. It was designed to survive a <a href="https://en.wikipedia.org/wiki/ARPANET#Inspiration">nuclear strike</a>. Bluesky is nice, but it's fragile, and their hype says otherwise. That's why they're special. They should straighten this out so we can properly get decentralization into <i>our</i> networks. Bluesky could easily add a layer of <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> on top of what they have, so that news flow could survive a disaster.  In 2025 this is a realistic concern, as it was in the 1960s. Also it would be nice if other network experts would support this, esp if they're on Bluesky. This is not personal, if they wanted to get the RSS layer built, I would help them do it. We should all pitch in because then it would really be our network, and not owned by anyone. Live up to the promise, now. 
 
 <br> 
 

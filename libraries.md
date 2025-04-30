@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-29 14:08:33
+updated: 2025-04-30 06:08:08
 ---
 
 # libraries
 
-(date: 2025-04-29 14:08:33)
+(date: 2025-04-30 06:08:08)
 
 ---
 
@@ -102,6 +102,32 @@ Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M
 <br> 
 
 <http://hdl.handle.net/20.500.11850/732786>
+
+---
+
+## Trump v. Research: How We Could Turn the Threats into Opportunities
+
+date: 2025-04-30, from: Scholarly Kitchen
+
+<p>Alice Meadows and guest chef Suze Kundu look at how, by acting collectively across all stakeholder groups, we could turn the Trump administration's threats against research into opportunities</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/30/trump-v-research-how-we-could-turn-the-threats-into-opportunities/">Trump v. Research: How We Could Turn the Threats into Opportunities</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/30/trump-v-research-how-we-could-turn-the-threats-into-opportunities/>
+
+---
+
+## Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits
+
+date: 2025-04-30, from: ETH Zurich, recently added
+
+Lacroix, Nathan 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733296>
 
 ---
 

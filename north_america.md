@@ -1,11 +1,89 @@
 ---
 title: north america
-updated: 2025-04-29 14:08:28
+updated: 2025-04-30 06:08:02
 ---
 
 # north america
 
-(date: 2025-04-29 14:08:28)
+(date: 2025-04-30 06:08:02)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-30, from: The Contrarian
+
+Wednesday: A protest in Michigan, Mike Lawler gets an earful, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Trump Refuses to Fold a Losing Hand
+
+date: 2025-04-30, from: The Contrarian
+
+Doubling down with a pair of deuces is not a winning strategy 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-refuses-to-fold-a-losing-hand>
+
+---
+
+## Evening Roundup, April 29
+
+date: 2025-04-30, from: The Contrarian
+
+Featuring Norm Ornstein sharing Paul Volcker's Afterword; Frederic Fromer on Bill Russell; The Democracy Movement; and a teaser to today's awe-inspiring 100 Days Conference 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-29>
+
+---
+
+## Jared Bernstein and Neera Tanden on Why Democracy Delivers
+
+date: 2025-04-29, from: The Contrarian
+
+&#8220;Crony capitalism is in play" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162497796/6ea6e5937fa24794e475ad8dec0f5153.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162497796/6ea6e5937fa24794e475ad8dec0f5153.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jared-bernstein-and-neera-tanden>
+
+---
+
+## J. Michael Luttig and Mary McCord on Defending the Rule of Law
+
+date: 2025-04-29, from: The Contrarian
+
+&#8220;During his first 100 days in office, Donald Trump has done anything but faithfully execute the laws.&#8221; 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162496103/703606388a4b7c902b80dc15a7890f5d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162496103/703606388a4b7c902b80dc15a7890f5d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/j-michael-luttig-and-mary-mccord>
+
+---
+
+## The 100 Days Conference: Liz Shuler Delivers Opening Remarks
+
+date: 2025-04-29, from: The Contrarian
+
+&#8220;Let&#8217;s use this conference, this 100-day milestone, as the moment to come together, to strategize, to organize, and really start creating the kind of society that we all want to live in.&#8221; 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162492281/19804711b07db965b8ce7135ca7d99d0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162492281/19804711b07db965b8ce7135ca7d99d0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-100-days-conference-liz-shuler>
 
 ---
 
@@ -18,18 +96,6 @@ date: 2025-04-29, from: The Contrarian
 <br> 
 
 <https://contrarian.substack.com/p/bill-russells-hall-of-fame-no-show>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-29, from: The Contrarian
-
-Tuesday: A protest on the Capitol steps, getting ready for May Day, an impressive setup in California, protesting in Illinois, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

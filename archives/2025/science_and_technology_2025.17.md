@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-04-29 14:08:30
+updated: 2025-04-30 06:08:04
 ---
 
 # science and technology
 
-(date: 2025-04-29 14:08:30)
+(date: 2025-04-30 06:08:04)
+
+---
+
+## BTW Windows Subsystem for Linux officially uses Arch now
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>The tryhard&#39;s favorite distro wins an approved home in Microsoft&#39;s OS</h4> <p>There have been unofficial versions for years, but Arch Linux is now officially on the menu for people using Windows Subsystem for Linux (WSL).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/official_arch_on_wsl2/>
+
+---
+
+## OpenAI pulls plug on ChatGPT smarmbot that praised user for ditching psychiatric meds
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Sycophantic update to GPT-4o rolled back after AI gets over-enthusiastic with the &#39;glaze&#39;</h4> <p>OpenAI has hurriedly rolled back the latest ChatGPT model days after it was released because it was deemed to be too &#34;sycophant-y and annoying.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/openai_pulls_plug_on_chatgpt/>
+
+---
+
+## Alt-browser Flow breezes through web tests, but still far from a daily driver
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Snappy surfer eyes Apple&#39;s EU engine requirements</h4> <p>Alternative browser Flow now passes 90 percent of web-platform-tests.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/flow_browser_web_tests/>
+
+---
+
+## Ghost in the shell script: Boffins reckon they can catch bugs before programs run
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Go ahead, please do Bash static analysis</h4> <p>Shell scripting may finally get a proper bug-checker. A group of academics has proposed static analysis techniques aimed at improving the correctness and reliability of Unix shell programs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/shell_script_code_correctness/>
+
+---
+
+## Does UK's Online Safety Act cover misinformation? Well, that depends
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Minister, platform providers disagree on whether law would have helped avoid last summer&#39;s riots</h4> <p>MPs heard a range of interpretations of UK law when it comes to the spread of misinformation online, a critical factor in the riots across England and Northern Ireland sparked by inaccurate social media posts about the fatal stabbings at a children&#39;s dance class on 29 July last year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/does_online_safety_act_cover/>
+
+---
+
+## AWS creates EC2 instance types tailored for demanding on-prem workloads
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>What? Why? It’s an update to its Outposts racks hybrid cloud rigs aimed at bankers and telcos</h4> <p>Amazon Web services has created new elastic compute cloud instance types for its on-prem Outposts racks, the second generation of which was announced on Tuesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/aws_outposts_racks_onprem_upgrade/>
+
+---
+
+## 30 percent of some Microsoft code now written by AI - especially the new stuff
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Satya Nadella reveals attempts to merge Word, PowerPoint and Excel – which may now succeed thanks to AI</h4> <p>Microsoft CEO Satya Nadella has revealed about thirty percent of code in the company’s repositories was written by an AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/microsoft_meta_autocoding/>
+
+---
+
+## Chinese carmaker Chery using DeepSeek-driven humanoid robots as showroom sales staff
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>And of course – sigh – they look like women with long blonde hair</h4> <p>Chinese carmaker Chery has started using its own humanoid robots as sales staff in its showrooms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/chery_aimoga_robotic_salespeople/>
+
+---
+
+## Supermicro warns of massive revenue miss as buyers pause purchasing plans
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Yet more strife for server-maker sees its share price slump by 15 percent</h4> <p>Supermicro shares slumped 15 percent in after-hours trading as the company warned next week’s quarterly results will see it miss forecast revenue by up to $1.5 billion.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/supermicro_q3_revenue_miss/>
+
+---
+
+## Homeland Security boss says CISA has gone off the rails, vows to set it right
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Kirsty Noem argues cyber-agency&#39;s job is defending America, not becoming &#39;Ministry of Truth&#39;</h4> <p><strong>RSAC</strong>  Uncle Sam&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, has gone off the rails by trying to dispel disinformation, according to US Homeland Security Secretary Kristi Noem.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/noem_put_cisa_on_mission/>
+
+---
+
+## Intel tweaks its 18A process with variants tailored to mass-market chips, big AI brains
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>If Lip Bu Tan can&#39;t sell you his LLM accelerator, he&#39;s more than willing to build yours</h4> <p><strong>Direct Connect</strong>  Intel has revealed a pair of variants of its long-awaited 18A process node to make it better suited for, one, manufacturing mass-market processors and, two, complex multi-die semiconductors for – of course – AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/intel_foundry_update/>
+
+---
+
+## Sols 4522-4524: Up on the Roof
+
+date: 2025-04-30, from: NASA breaking news
+
+Written by Deborah Padgett, OPGS Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, April 25, 2025 On Sols 4520 and 4521, Curiosity was supposed to study layered rocks in its workspace, then drive on. Unfortunately, a communications pass didn’t go as expected, preventing this plan from being transmitted. Our rover is fine, […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4522-4524-up-on-the-roof/>
+
+---
+
+## Trump admin freaks out over mere suggestion Amazon was going to show tariff impact on prices
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Revealing import taxes would be &#39;hostile and political&#39; to Dear Leader</h4> <p><strong>World War Fee</strong>  On Tuesday, White House Press Secretary Karoline Leavitt denounced Amazon after it was reported the tech giant intended to show how much President Trump&#39;s import tariffs would inflate the price of stuff sold through its internet souk.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/trump_outreach_to_bezos_shows/>
+
+---
+
+## RSA cofounder: The world would've been better without cryptocurrencies
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Cryptographers&#39; panel a bit gloomy this year</h4> <p><strong>RSAC</strong>  It was a somewhat gloomy Cryptographers&#39; Panel at the <a target="_blank" href="https://www.theregister.com/special_features/spotlight_on_rsac/">RSA Conference</a> in San Francisco on Tuesday, with two of the industry&#39;s sages in a pretty grim mood.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/crypto_pioneers/>
+
+---
+
+## Meta bets you want a sprinkle of social in your chatbot
+
+date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+
+<h4>Sharing is caring when your entire business is built on it</h4> <p>Meta is scrambling to grab some of that ChatGPT and Grok buzz with the launch of its own standalone AI app. Built on its Llama 4 LLM, the assistant touts personalization and smoother voice chats, but the most visible feature is a Discover feed showing off how other users interact with it, and even that feels more like a gimmick than a game-changer.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/29/metas_standalone_ai_app/>
+
+---
+
+## How to Contribute to Citizen Science with NASA
+
+date: 2025-04-29, from: NASA breaking news
+
+A cell phone, a computer—and your curiosity—is all you need to become a NASA citizen scientist and contribute to projects about Earth, the solar system, and beyond. Science is built from small grains of sand, and you can contribute yours from any corner of the world. All you need is a cell phone or a […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/how-to-contribute-to-citizen-science-with-nasa/>
 
 ---
 
@@ -73,7 +265,7 @@ Landing on the Moon is not easy, particularly when a crew or spacecraft must mee
 
 date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
 
-<h4>As Big Tech gets used to the pain, smaller vendors urged to up their game</h4> 
+<h4>As Big Tech gets used to the pain, smaller vendors urged to up their game</h4> <p>Google says that despite a small dip in the number of exploited zero-day vulnerabilities in 2024, the number of attacks using these novel bugs continues on an upward trend overall.…</p> 
 
 <br> 
 
@@ -191,7 +383,7 @@ NASA’s annual&#160;Student Launch&#160;challenge will bring middle school, hig
 
 ## OpenBSD 7.7 released with updated hardware support, 9Front ships second update of 2025
 
-date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+date: 2025-04-29, updated: 2025-04-30, from: The Register (UK I.T. News)
 
 <h4>The OS refresh brings Ryzen AI and Arrow Lake compatibility</h4> <p>Fresh from their respective bunkers, OpenBSD 7.7 and a new version of Plan 9 fork 9Front have dropped, bringing hardened security, obscure charm, and, oddly enough, artwork from the same designer.…</p> 
 
@@ -371,7 +563,7 @@ date: 2025-04-28, updated: 2025-04-29, from: The Register (UK I.T. News)
 
 ## How to survive as a CISO aka 'chief scapegoat officer'
 
-date: 2025-04-28, updated: 2025-04-28, from: The Register (UK I.T. News)
+date: 2025-04-28, updated: 2025-04-30, from: The Register (UK I.T. News)
 
 <h4>Whistleblowing, email is evidential mail, HR is not your friend, and more discussed by CxO panel</h4> <p><strong>RSAC</strong>  Chief security officers should negotiate personal liability insurance and a golden parachute when they start a new job – in case things go sideways and management tries to scapegoat them for a network breach.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

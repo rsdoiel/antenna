@@ -1,11 +1,191 @@
 ---
 title: socal north
-updated: 2025-04-29 14:08:28
+updated: 2025-04-30 06:08:03
 ---
 
 # socal north
 
-(date: 2025-04-29 14:08:28)
+(date: 2025-04-30 06:08:03)
+
+---
+
+## How to choose a school in Los Angeles
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+In Los Angeles Unified alone, there are more than 400 elementary schools, plus hundreds of specialized programs and dozens of charter schools run by separate nonprofits. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-school-choice-public-school-charter-magnet-school>
+
+---
+
+## For SoCal’s Vietnamese community, Black April tethers generations to the fall of Saigon
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+“ I wouldn't be here if it weren't for my family, who suffered through months in refugee camps.” 
+
+<br> 
+
+<https://laist.com/news/la-history/for-socals-vietnamese-community-black-april-tethers-generations-to-the-fall-of-saigon>
+
+---
+
+## Cooler weather pattern returns to SoCal
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+SoCal temperatures have dropped slightly to mid 60s at the beaches and mid 70s for inland areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cool-weather-socal-pattern>
+
+---
+
+## 100 Days, 2 Americas: Assessing the Impact of President Trump’s Policies on California and Texas
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+In an hour long special, The California Newsroom and the Texas Standard team up to examine how the Trump administration is changing life in two of the nation’s largest states. 
+
+<br> 
+
+<https://laist.com/news/politics/100-days-2-americas-assessing-the-impact-of-president-trumps-policies-on-california-and-texas>
+
+---
+
+## Indian pizza is LA’s latest foodie flex
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+Spicy, saucy, and unapologetically fusion, Indian pizza is the crossover hit we didn’t know we needed. 
+
+<br> 
+
+<https://laist.com/news/food/indian-pizza-is-las-latest-foodie-flex>
+
+---
+
+## Long Beach is testing new public toilets with 10-minute time limits and cell-phone entry
+
+date: 2025-04-30, from: Longbeach Post
+
+<figure><img width="1024" height="993" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-1024x993.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-300x291.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-768x745.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-111x108.jpg 111w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH-400x388.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/24112038/23apr25-restroom-5-892862-y2gu6o5g-821778-fwWlttSH.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>You must scan a QR code or send a text message to get inside, and the doors automatically open if someone stays there too long.</p>
+<p>The post <a href="https://lbpost.com/news/city/throne-restrooms-long-beach-public-bathroom-high-tech">Long Beach is testing new public toilets with 10-minute time limits and cell-phone entry</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/throne-restrooms-long-beach-public-bathroom-high-tech>
+
+---
+
+## Trump called Bezos after a report that Amazon would post products' import charges
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+After a news report earlier Tuesday, Amazon spokesperson Tim Doyle said a team only considered listing import charges on items in its ultra-low-cost store. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-called-bezos-after-a-report-that-amazon-would-post-products-import-charges>
+
+---
+
+## LA County union worker strike causes delays and closures
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+County service disruptions are expected to continue at least through Wednesday evening, officials said. 
+
+<br> 
+
+<https://laist.com/news/politics/la-county-union-worker-strike-delays-closures>
+
+---
+
+## New lawsuit argues Trump and DOGE's government overhaul is unconstitutional
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+A coalition of unions, nonprofits and local governments has sued President Donald Trump, Elon Musk and the heads of nearly two dozen agencies in an effort to block mass layoffs in the federal government. 
+
+<br> 
+
+<https://laist.com/news/politics/new-lawsuit-argues-trump-and-doges-government-overhaul-is-unconstitutional>
+
+---
+
+## Suspect arrested in deadly North Long Beach shooting
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police say they arrested a 24-year-old from Compton on suspicion of fatally shooting a 52-year-old man last month, but a motive for the killing remains unclear.</p>
+<p>The post <a href="https://lbpost.com/news/crime/suspect-arrested-in-deadly-north-long-beach-shooting">Suspect arrested in deadly North Long Beach shooting</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/suspect-arrested-in-deadly-north-long-beach-shooting>
+
+---
+
+## California sent investigators to ICE facilities. They found more detainees, and health care gaps
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/29134051/030925-ice-detention-center-lv-10-111261-p1joong5-331946-VTW2wx40.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A California law empowers state investigators to check on conditions at ICE detention centers. A new report raises concerns about health care inside them.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/ice-detention-facilities-conditions-california">California sent investigators to ICE facilities. They found more detainees, and health care gaps</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/ice-detention-facilities-conditions-california>
+
+---
+
+## Despite Attempts to Dismantle AmeriCorps, California Continues to Recruit Service Members
+
+date: 2025-04-29, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/despite-attempts-to-dismantle-americorps-california-continues-to-recruit-service-members/>
+
+---
+
+## In largest settlement in its history, LA County approves $4 billion in massive child abuse case
+
+date: 2025-04-29, updated: 2025-04-29, from: The LAist
+
+Payouts are expected to be shared among nearly 7,000 people who said they were victimized by employees at juvenile halls, other county facilities. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-4-billion-settlement-child-sex-abuse-case>
+
+---
+
+## Man charged in viral animal cruelty case pleads not guilty
+
+date: 2025-04-29, from: Longbeach Post
+
+<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1024x580.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1024x580.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-300x170.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-768x435.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1536x870.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-1200x680.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA-400x227.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/23133035/screenshot-2025-04-23-at-12905pm-112773-yygip34g-111056-LMx0RlTA.png 1564w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The puppy is being placed in a foster home while it recovers, according to Long Beach animal care workers.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-charged-in-viral-animal-cruelty-case-pleads-not-guilty">Man charged in viral animal cruelty case pleads not guilty</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-charged-in-viral-animal-cruelty-case-pleads-not-guilty>
 
 ---
 
@@ -21,7 +201,7 @@ Three months after the LA fires, local businesses are asking for the community t
 
 ---
 
-## Corporation for Public Broadcasting sues Trump in fight for control
+## Corporation for Public Broadcasting sues Trump after he tries to fire board members
 
 date: 2025-04-29, updated: 2025-04-29, from: The LAist
 
@@ -61,7 +241,7 @@ L.A. County Supervisors send message to all property owners to clear fire debris
 
 date: 2025-04-29, from: Longbeach Post
 
-<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The payout is expected to have implications on the county budget “for years to come,” county officials said. </p>
 <p>The post <a href="https://lbpost.com/news/la-county-supervisors-approve-unprecedented-4-billion-sexual-abuse-settlement">LA County Supervisors approve unprecedented $4 billion sexual abuse settlement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -124,7 +304,7 @@ The Board of Supervisors are holding a special meeting on Tuesday to decide on m
 
 date: 2025-04-29, from: Longbeach Post
 
-<figure><img width="1024" height="526" src="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-1024x526.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-768x394.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-400x205.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-470x241.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-970x497.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="526" src="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-1024x526.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-768x394.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-400x205.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-470x241.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/08/10145036/0807-CSULB-07-970x497.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Visas for the six international students had previously been revoked without warning or explanation.</p>
 <p>The post <a href="https://lbpost.com/news/education/visas-restored-for-five-of-six-csulb-students-college-says">Visas restored for five of six CSULB students, college says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -186,6 +366,18 @@ Columbus Day is still a federal holiday — though some no longer want to celebr
 <br> 
 
 <https://laist.com/news/politics/columbus-day-indigenous-peoples-day-trump>
+
+---
+
+## A pesar de los intentos de desmantelar AmeriCorps, California continúa reclutando miembros del servicio
+
+date: 2025-04-29, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/a-pesar-de-los-intentos-de-desmantelar-americorps-california-continua-reclutando-miembros-del-servicio/>
 
 ---
 

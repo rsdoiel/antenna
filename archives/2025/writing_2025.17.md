@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-04-29 14:08:32
+updated: 2025-04-30 06:08:06
 ---
 
 # writing
 
-(date: 2025-04-29 14:08:32)
+(date: 2025-04-30 06:08:06)
+
+---
+
+## How to Freewrite with Scrivener to Unearth Ideas from Your Subconscious
+
+date: 2025-04-30, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-freewrite-with-scrivener-to-unearth-ideas-from-your-subconscious>
 
 ---
 

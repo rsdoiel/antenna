@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-04-29 14:08:32
+updated: 2025-04-30 06:08:06
 ---
 
 # games
 
-(date: 2025-04-29 14:08:32)
+(date: 2025-04-30 06:08:06)
+
+---
+
+## Creepy Redneck Dinosaur Mansion 3 is as delightful as the name implies
+
+date: 2025-04-30, updated: 2025-04-29, from: Polygon Website
+
+Creepy Redneck Dinosaur Mansion 3 is the latest game from Strange Scaffold, the studio behind El Paso, Elsewhere, Clickolding, and I Am Your Beast. With so many different titles in the developer’s library, I never quite know what to expect from one of its games, and Creepy Redneck Dinosaur Mansion 3 is one of its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/566596/creepy-redneck-dinosaur-mansion-match-3-review>
+
+---
+
+## Mobile Suit Gundam GQuuuuuuX’s director on the ‘sense of the Cold War’ he wanted for the series
+
+date: 2025-04-30, updated: 2025-04-29, from: Polygon Website
+
+When Mobile Suit Gundam GQuuuuuuX (pronounced “G-kwuuks”), the latest entry in the long-running military sci-fi anime franchise, was first announced in December 2024, the majority of focus was on the fact that none other than Neon Genesis Evangelion creator Hideaki Anno would be working on the series.  While Anno is indeed integral to GQuuuuuuX, he’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/565804/mobile-suit-gundam-gquuuuuux-director-interview-msg-flcl>
+
+---
+
+## What is the Fortnite Crew Pack skin for May 2025?
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+Fortnite Crew is a monthly subscription service for Fortnite. Members who subscribe to Fortnite Crew receive access to the current Battle Pass, a top up of V-Bucks to their account, and perhaps most importantly, exclusive cosmetics through the Fortnite Crew Pack. As an additional incentive to keep subscribing, you also receive bonus Legacy Styles for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin>
+
+---
+
+## The big Switch update with Virtual Game Cards, Switch 2 features is here
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+Nintendo has pushed out a major system update for the Switch that enables its new Virtual Game Card ownership system for digital games, as well as several Switch 2-related features, including GameShare. Using Virtual Game Cards, now you can easily swap digital games between multiple Switch consoles, as well as lend them to family members. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/566962/switch-update-20-0-0-virtual-game-cards-gameshare-switch-2-transfer>
+
+---
+
+## What time does Fortnite Chapter 6 Season 3 release?
+
+date: 2025-04-30, updated: 2025-04-29, from: Polygon Website
+
+Fortnite is joining the galactic battle as Chapter 6 Season 3 becomes Star Wars-themed on Friday, May 2. Star Wars is returning to Fortnite, but rather than a one-time event, the entire season — including its battle pass — will be Star Wars-themed. The Chapter 6 Season 3 map has been updated to feature four [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/565773/chapter-6-season-3-star-wars-release-time-c6s3>
+
+---
+
+## Saw Gerrera is Star Wars at its very best
+
+date: 2025-04-30, updated: 2025-04-29, from: Polygon Website
+
+There aren’t many characters in any universe like Saw Gerrera. That’s been true since the moment he wheezed his way onto the scene in Rogue One, and since he went toe to toe with Luthen Rael in Andor season 1, but it wasn’t until this latest batch of Andor episodes that we really got to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/566318/saw-gerrera-andor-season-2>
+
+---
+
+## All lost gestrals and rewards in Clair Obscur: Expedition 33
+
+date: 2025-04-30, updated: 2025-04-30, from: Polygon Website
+
+Lost gestrals are missing gestrals in Clair Obscur: Expedition 33. They’re “collectibles” of sorts — insofar as a little-explained little guys can be collectibles — and finding them all give you rewards. Here’s where to find all lost gestrals in Clair Obscur: Expedition 33, plus details about what rewards you’ll get for doing so. [Ed. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/566911/lost-gestrals-locations-all-where-to-find>
+
+---
+
+## Best gifts for every character in Hello Kitty Island Adventure
+
+date: 2025-04-29, updated: 2025-04-29, from: Polygon Website
+
+To progress in Hello Kitty Island Adventure, you’ll need to rank up your friendship levels with every character inhabiting the island by giving them gifts. Doing so will unlock tons of things — like upgrades to crafting stations, recipes for certain items, and even other characters — so make sure to gift characters every day. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/566414/best-gifts-list-all-characters-friendship-hearts>
 
 ---
 

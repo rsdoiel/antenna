@@ -1,15 +1,123 @@
 ---
 title: going electric
-updated: 2025-04-29 14:08:36
+updated: 2025-04-30 06:08:10
 ---
 
 # going electric
 
-(date: 2025-04-29 14:08:36)
+(date: 2025-04-30 06:08:10)
 
 ---
 
-## GM’s Orion EV Manufacturing Dream Is Stalling: Report
+## Rad Power Bikes launches 3 new RadRunner e-bike models with new features like radar
+
+date: 2025-04-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/rad-power-bikes-radrunner-max-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rad Power Bikes, one of the most well-known electric bike brands in the US, has just announced the launch of <a href="https://radpowerbikes.pxf.io/JKB2Or">three new RadRunner models</a>. The updates bring new hardware and software to the popular line of compact utility e-bikes and introduce a brand new RadRunner trim known as the RadRunner Max.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413500" href="https://electrek.co/2025/04/30/rad-power-bikes-launches-3-new-radrunner-e-bike-models-with-new-features-like-radar/#more-413500" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/30/rad-power-bikes-launches-3-new-radrunner-e-bike-models-with-new-features-like-radar/>
+
+---
+
+## Volvo Wants To Build A Plug-In Hybrid In The U.S.
+
+date: 2025-04-30, from: Inside EVs News
+
+The automaker’s plant in South Carolina builds just one Volvo model. That will soon change. 
+
+<br> 
+
+<https://insideevs.com/news/758205/volvo-phev-us-factory/>
+
+---
+
+## California’s e-bike voucher program stumbles again as ‘technical issue’ forces indefinite delay
+
+date: 2025-04-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Aventon-pace-4-header-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>California’s rollercoaster of an electric bicycle voucher program, designed to make the highly effective transportation alternative affordable for more California residents, has hit yet another bumpy section of track. This time, a “technical issue” is being blamed for the second tranche of vouchers being delayed indefinitely, causing yet another headache for the beleaguered California E-Bike Incentive Program.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,ebikes,tax-credit" data-layer-viewtype="unknown" data-post-id="413509" href="https://electrek.co/2025/04/30/californias-e-bike-voucher-program-stumbles-again-as-technical-issue-forces-indefinite-delay/#more-413509" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/30/californias-e-bike-voucher-program-stumbles-again-as-technical-issue-forces-indefinite-delay/>
+
+---
+
+## Toyota And Google's Waymo May Build An Autonomous Car Platform Together
+
+date: 2025-04-29, from: Inside EVs News
+
+Waymo needs hardware for its "generalizable driver" system, and now it's turning to Toyota for help.  
+
+<br> 
+
+<https://insideevs.com/news/758143/toyota-waymo-autonomous-collaboration/>
+
+---
+
+## Facing pressure, Trump scales back tariffs for US automakers
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Fire-GMs-EV-plant-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Donald Trump <a href="https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-incentivizes-domestic-automobile-production/" target="_blank" rel="noreferrer noopener">signed two executive orders</a> today that walked back parts of tariffs he previously imposed on US automakers ahead of a rally in Michigan to mark his first 100 days in office.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,ford,gm,hyundai,stellantis,tariffs,toyota,volkswagen" data-layer-viewtype="unknown" data-post-id="413485" href="https://electrek.co/2025/04/29/trump-scales-back-tariffs-us-automakers/#more-413485" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/trump-scales-back-tariffs-us-automakers/>
+
+---
+
+## Tesla Powerwall 3 is disrupting the solar inverter market
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla_Powerwall_Hero_UK.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>New data suggests that the Tesla Powerwall 3 is significantly disrupting the US solar inverter market. </p>
+
+
+
+<p>The home battery pack’s integrated inverter is changing the game.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="413355" href="https://electrek.co/2025/04/29/tesla-powerwall-3-is-disrupting-the-solar-inverter-market/#more-413355" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/tesla-powerwall-3-is-disrupting-the-solar-inverter-market/>
+
+---
+
+## Is this the ultra-luxury Genesis GV90 Magma EV? [Video]
+
+date: 2025-04-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Genesis-GV90-spotted-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Genesis is preparing to launch its most luxurious electric SUV yet. The GV90 will mark a new era for the luxury brand as its flagship full-size SUV. The <a href="https://electrek.co/guides/genesis/">Genesis</a> GV90 was recently spotted with Magma design elements, suggesting that an even more upscale EV variant is in development. Check it out in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="413448" href="https://electrek.co/2025/04/29/is-this-ultra-luxury-genesis-gv90-magma-ev-video/#more-413448" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/29/is-this-ultra-luxury-genesis-gv90-magma-ev-video/>
+
+---
+
+## GM’s Orion Plant Was Supposed To Be All-EV. Now, Maybe Not
 
 date: 2025-04-29, from: Inside EVs News
 
@@ -73,7 +181,7 @@ date: 2025-04-29, from: Electrek Feed
 
 ---
 
-## How Lucid Made America's Fastest-Charging EV
+## How The Lucid Gravity Became A Fast-Charging Monster
 
 date: 2025-04-29, from: Inside EVs News
 
@@ -145,7 +253,7 @@ date: 2025-04-29, from: Electrek Feed
 
 ---
 
-## China's EV Brands Shine At The Shanghai Auto Show—While Tesla Stays Home
+## Tesla Ditches China's Biggest Auto Show While EV Rivals Shine Instead
 
 date: 2025-04-29, from: Inside EVs News
 

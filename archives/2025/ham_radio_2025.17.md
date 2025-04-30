@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-04-29 14:08:29
+updated: 2025-04-30 06:08:04
 ---
 
 # ham radio
 
-(date: 2025-04-29 14:08:29)
+(date: 2025-04-30 06:08:04)
+
+---
+
+## Firmware development: Redefining root cause analysis with AI
+
+date: 2025-04-30, from: EDN Blog
+
+<img width="1280" height="569" src="https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?fit=1280%2C569" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-RCA.jpg?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Here is a look at root cause analysis (RCA) challenges in firmware development and their AI-powered solutions.</p>
+<p>The post <a href="https://www.edn.com/firmware-development-redefining-root-cause-analysis-with-ai/">Firmware development: Redefining root cause analysis with AI</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/firmware-development-redefining-root-cause-analysis-with-ai/>
 
 ---
 
@@ -25,7 +39,7 @@ date: 2025-04-29, from: Amateur Radio Relay League News
 
 date: 2025-04-29, from: EDN Blog
 
-<img width="2048" height="1365" src="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?fit=2048%2C1365" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1900 1900w" sizes="(max-width: 2048px) 100vw, 2048px" /><p>The new AI assistant will allow LabVIEW and TestStand users to analyze code, get suggestions, and ask questions.</p>
+<img width="2048" height="1365" src="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?fit=2048%2C1365" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-NI-Connect-2025.jpg?w=1900 1900w" sizes="(max-width: 2048px) 100vw, 2048px" /><p>The new AI assistant will allow LabVIEW and TestStand users to analyze code, get suggestions, and ask questions.</p>
 <p>The post <a href="https://www.edn.com/labview-gets-an-ai-makeover-with-nigels-launch/">LabVIEW gets an AI makeover with Nigel’s launch</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
