@@ -1,11 +1,395 @@
 ---
 title: snapshots
-updated: 2025-05-01 06:07:44
+updated: 2025-05-01 14:07:44
 ---
 
 # snapshots
 
-(date: 2025-05-01 06:07:44)
+(date: 2025-05-01 14:07:44)
+
+---
+
+## Army Will Seek Right to Repair Clauses in All Its Contracts
+
+date: 2025-05-01, from: 404 Media Group
+
+ A recent memo detailed a future where soldiers can repair their own equipment. 
+
+<br> 
+
+<https://www.404media.co/army-will-seek-right-to-repair-clauses-in-all-its-contracts/>
+
+---
+
+## Epic Games Store moves to attract app developers with 0% developer share on the first $1 million in revenue
+
+date: 2025-05-01, from: Liliputing
+
+<p>Last year Apple responded to a ruling in an antitrust case that required the company to allow app developers to collect payments from users without going through App Store by allowing developers to provide links to alternate payment methods in their apps. But the system that Apple rolled out was pretty onerous. Users who followed those links [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/epic-games-store-moves-to-attract-app-developers-with-0-developer-share-on-the-first-1-million-in-revenue/">Epic Games Store moves to attract app developers with 0% developer share on the first $1 million in revenue</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/epic-games-store-moves-to-attract-app-developers-with-0-developer-share-on-the-first-1-million-in-revenue/>
+
+---
+
+## Swift Proposal: weak let
+
+date: 2025-05-01, from: Michael Tsai
+
+SE 0481: Currently, Swift classes with weak stored properties cannot be Sendable, because weak properties have to be mutable, and mutable properties are not allowed in Sendable classes[&#8230;][&#8230;]In fact, wrapping weak references in a single-property struct is a viable workaround to the var restriction in both properties and captures[&#8230;] The existence of this simple workaround [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/01/swift-proposal-weak-let/>
+
+---
+
+## Court Orders Apple to Comply With Anti-Steering Injunction
+
+date: 2025-05-01, from: Michael Tsai
+
+Juli Clover (Hacker News, Jay Peters, Zac Hall): In a victory for Epic Games, Apple was today found to be in violation of a 2021 injunction that required it to allow developers to direct customers to third-party purchase options on the web using in-app links. Yvonne Gonzalez Rogers: Apple&#8217;s response to the Injunction strains credulity. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/01/court-orders-apply-to-comply-with-anti-steering-injunction/>
+
+---
+
+## I’m an Apple Fan in 2025
+
+date: 2025-05-01, from: Michael Tsai
+
+Dan Moren (Mastodon): Stay Foolish debuted ten years ago, almost to the day, but I&#8217;ve been writing regularly for Macworld for nearly twenty years. When I first started out, we were all excited about what the latest in technology&#8212;Intel-powered Macs&#8212;would mean for Apple&#8217;s long-term prospects for survival. Two decades later, nobody ever even whispers that [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/01/im-an-apple-fan-in-2025/>
+
+---
+
+## Apple v. Optis Cellular Technology
+
+date: 2025-05-01, from: Michael Tsai
+
+Reuters (via Ric Ford): Apple must pay a U.S. patent holder $502 million for the use of 4G patents in devices including iPhones and iPads, London&#8217;s Court of Appeal ruled on Thursday, in the latest stage of a long-running legal battle.Texas-based Optis Cellular Technology LLC sued Apple in London in 2019 over its use of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/01/apple-v-optis-cellular-technology/>
+
+---
+
+## Polygon Acquired by Porn Mogul Who Co-Founded Brazzers
+
+date: 2025-05-01, from: 404 Media Group
+
+Before he founded Valnet, Hassan Youssef started one of the biggest porn sites on the internet. 
+
+<br> 
+
+<https://www.404media.co/polygon-acquired-by-porn-mogul-who-co-founded-brazzers/>
+
+---
+
+## Thelma: una nonagenaria reclama su dignidad
+
+date: 2025-05-01, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Josh Margolin. Guion: Josh Margolin. Elenco: June Squibb, Fred Hechinger, Richard Roundtree, Parker Posey, Clark Gregg, Malcolm McDowell, Nicole Byer. Más información de la película: https://www.imdb.com/title/tt23778968/ Usualmente se tienen dos perspectivas sobre la vejez: o se idealiza bajo la noción de que los ancianos deberían ser sabios e intachables, o se trata como un [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-thelma/">Thelma: una nonagenaria reclama su dignidad</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-thelma/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-thelma>
+
+---
+
+## jQuery Reunion
+
+date: 2025-05-01, from: Chris Coyier blog
+
+Looks like they are getting the gang back together for a 20-year reunion. I&#8217;m going to try to attend, but no promises just yet. Mr. Richard Worth is throwing it in Dallas, TX. Who&#8217;s he gonna get?? The yayQuery gang? Yehuda? Jörn? González? Resig? No names just yet. 
+
+<br> 
+
+<https://chriscoyier.net/2025/05/01/jquery-reunion/>
+
+---
+
+## FEVM FA-EX9 mini PC with AMD Strix Halo coming soon
+
+date: 2025-05-01, from: Liliputing
+
+<p>Chinese mini PC maker FEVM has a habit of cramming high-performance hardware into compact designs. Last year the company introduced a Mac Studio clone with up to an Intel Core i9-14900KF processor and NVIDIA RTX 4090M graphics. And now FEVM is preparing to launch a mini PC with an AMD Ryzen AI Max+ 395 Strix [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/fevm-fa-ex9-mini-pc-with-amd-strix-halo-coming-soon/">FEVM FA-EX9 mini PC with AMD Strix Halo coming soon</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/fevm-fa-ex9-mini-pc-with-amd-strix-halo-coming-soon/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-01, from: Dave Winer's linkblog)
+
+Trump’s Legacy Will Be the Countless People Killed by His Policies. 
+
+<br> 
+
+<https://www.thenation.com/article/politics/trump-100-days-public-health-deaths/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-01, from: Dave Winer's linkblog)
+
+Bernie Sanders on the Phil Donahue Show in 1981. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=_K0S0mSnCHQ>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-05-01, from: IIIF Mastodon feed)
+
+<p>On May 14, the team from Artemis (Advanced Research Tools for Environmental Studies for historical maps of the Scheldt Valley), will present their work, which leverages <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a>  Allmaps, Madoc, and Linked Open Data to enable historical and ecological research.</p><p>Zoom link: iiif.io/community</p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114433748387710595>
+
+---
+
+## Returning to the Scene of the Rescue
+
+date: 2025-05-01, updated: 2025-05-01, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/01/returning-to-the-scene-of-the-rescue/>
+
+---
+
+## Redis is open source again
+
+date: 2025-05-01, updated: 2025-05-01, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://antirez.com/news/151">Redis is open source again</a></strong></p>
+Salvatore Sanfilippo:</p>
+<blockquote>
+<p>Five months ago, I rejoined Redis and quickly started to talk with my colleagues about a possible switch to the AGPL license, only to discover that there was already an ongoing discussion, a very old one, too. [...]</p>
+<p>I’ll be honest: I truly wanted the code I wrote for the new Vector Sets data type to be released under an open source license. [...]</p>
+<p>So, honestly, while I can’t take credit for the license switch, I hope I contributed a little bit to it, because today I’m happy. I’m happy that Redis is open source software again, under the terms of the AGPLv3 license.</p>
+</blockquote>
+<p>I'm absolutely <em>thrilled</em> to hear this. Redis 8.0 is <a href="https://redis.io/blog/redis-8-ga/">out today under the new license</a>, including a beta release of <a href="https://redis.io/docs/latest/develop/data-types/vector-sets/">Vector Sets</a>. I've been watching Salvatore's work on those with <a href="https://antirez.com/news/149">fascination</a>, while sad that I probably wouldn't use it often due to the janky license. That concern is now gone. I'm looking forward to putting them through their paces!</p>
+<p>See also <a href="https://redis.io/blog/agplv3/">Redis is now available under the AGPLv3 open source license</a> on the Redis blog. An interesting note from that is that they are also:</p>
+<blockquote>
+<p>Integrating Redis Stack technologies, including JSON, Time Series, probabilistic data types, Redis Query Engine and more into core Redis 8 under AGPL</p>
+</blockquote>
+<p>That's a whole bunch of new things that weren't previously part of Redis core.</p>
+<p>I hadn't encountered <a href="https://redis.io/docs/latest/develop/interact/search-and-query/">Redis Query Engine</a> before - it looks like that's a whole set of features that turn Redis into more of an Elasticsearch-style document database complete with full-text, vector search operations and geospatial operations and aggregations. It supports search syntax that looks a bit like this:</p>
+<p><code>FT.SEARCH places "museum @city:(san francisco|oakland) @shape:[CONTAINS $poly]" PARAMS 2 poly 'POLYGON((-122.5 37.7, -122.5 37.8, -122.4 37.8, -122.4 37.7, -122.5 37.7))' DIALECT 3</code>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43859446">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/salvatore-sanfilippo">salvatore-sanfilippo</a>, <a href="https://simonwillison.net/tags/redis">redis</a>, <a href="https://simonwillison.net/tags/vector-search">vector-search</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/1/redis-is-open-source-again/#atom-everything>
+
+---
+
+## Plus Post: Computerwise TransTerm 3
+
+date: 2025-05-01, from: Computer ads from the Past
+
+Introducing the TransTerm 3 Battery Powered Terminal 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-computerwise-transterm>
+
+---
+
+## Book Review: "More Everything Forever" 
+
+date: 2025-05-01, from: Dave Karpf's blog
+
+A book that takes Silicon Valley's unserious ideas seriously, and then delightfully tears them apart. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/book-review-more-everything-forever>
+
+---
+
+## De rockstar a asesino: el caso Cantat – la muerte cuestionada de una víctima de maltrato
+
+date: 2025-05-01, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Disponible en: Netflix. Dirección y guion: Zoé de Bussierre, Karine Dusfour, Anne-Sophie Jahn, Nicolas Lartigue. País: Francia. Duración: 3 episodios de una hora cada uno. Más información de la serie: https://www.imdb.com/title/tt36241713 De rockstar a asesino: el caso Cantat, documental de Netflix, aborda el feminicidio de Marie Trintignant a manos de Bertrand Cantat, líder de la [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-de-rockstar-a-asesino-el-caso-cantat/">De rockstar a asesino: el caso Cantat – la muerte cuestionada de una víctima de maltrato</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-de-rockstar-a-asesino-el-caso-cantat/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-de-rockstar-a-asesino-el-caso-cantat>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-01, from: Feed for Alt USDS)
+
+🚨It's happening, people!🚨
+
+We built the tools, they broke the tools. You’ve got questions, we’ve got receipts (and some solid sarcasm). Join us for our our first AMA tonight at 8pm Eastern.
+
+Non-bsky friends can submit Qs to submissions@wethebuilders.org and we'll do our best to answer those too! 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lo4okk5zse25>
+
+---
+
+## Mark Zuckerberg Thinks You Don't Have Enough Friends and His Chatbots Are the Answer
+
+date: 2025-05-01, from: 404 Media Group
+
+The CEO of Meta says "the average American has fewer than three friends, fewer than three people they would consider friends. And the average person has demand for meaningfully more.” 
+
+<br> 
+
+<https://www.404media.co/mark-zuckerberg-ai-chatbot-friends-interview-podcast/>
+
+---
+
+## Spotting Inflection Points
+
+date: 2025-05-01, from: Guy Kawasaki blog
+
+Rita McGrath on staying ahead of disruption. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/spotting-inflection-points>
+
+---
+
+## Stop Paying for Data Noise: Optimize Your Pipeline with Compute-Over-Data
+
+date: 2025-05-01, from: Bacalhau Blog
+
+Why a great part of your data should never hit the cloud. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/stop-paying-for-data-noise-optimize>
+
+---
+
+## Cerebro clusterboard supports up to four Raspberry Pi, NVIDIA Jetson, or Radxa CM5 compute modules (crowdfunding)
+
+date: 2025-05-01, from: Liliputing
+
+<p>What&#8217;s better than a Raspberry Pi Compute Module? If you&#8217;re working on projects that support parallel processing, the answer might be two Raspberry Pi Compute Modules&#8230; or maybe four of them. The Cerebro clusterboard is designed to let you attach up to four compute modules to a single baseboard. It supports Raspberry Pi CM4 and CM5 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/cerebro-clusterboard-supports-up-to-four-raspberry-pi-nvidia-jetson-or-radxa-cm5-compute-modules-crowdfunding/">Cerebro clusterboard supports up to four Raspberry Pi, NVIDIA Jetson, or Radxa CM5 compute modules (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/cerebro-clusterboard-supports-up-to-four-raspberry-pi-nvidia-jetson-or-radxa-cm5-compute-modules-crowdfunding/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-01, from: Dave Winer's linkblog)
+
+Republicans Want A New $250 Tax On Electric Vehicles. 
+
+<br> 
+
+<https://cleantechnica.com/2025/05/01/republicans-want-a-new-250-tax-on-electric-vehicles/>
+
+---
+
+## Recession Indicator: Bookings for the German Tour Bus in Los Angeles Are Down 30%
+
+date: 2025-05-01, from: 404 Media Group
+
+Donald Trump: "Tourism is way up." 
+
+<br> 
+
+<https://www.404media.co/recession-indicator-bookings-for-the-german-tour-bus-in-my-neighborhood-are-down-30/>
+
+---
+
+## Two publishers and three authors fail to understand what "vibe coding" means
+
+date: 2025-05-01, updated: 2025-05-01, from: Simon Willison’s Weblog
+
+<p><strong>Vibe coding</strong> does not mean "using AI tools to help write code". It means "generating code with AI without caring about the code that is produced". See <strong><a href="https://simonwillison.net/2025/Mar/19/vibe-coding/">Not all AI-assisted programming is vibe coding</a></strong> for my previous writing on this subject. This is a hill I am willing to die on. I fear it will be the death of me.</p>
+<p>I just learned about not one but <em>two</em> forthcoming books that use vibe coding in the title and abuse that very clear definition!</p>
+<p><strong>Vibe Coding</strong> by Gene Kim and Steve Yegge (published by IT Revolution) carries the subtitle "Building Production-Grade Software With GenAI, Chat, Agents, and Beyond" - exactly what vibe coding is not.</p>
+<p><strong>Vibe Coding: The Future of Programming</strong> by Addie Osmani (published by O'Reilly Media) likewise talks about how professional engineers can integrate AI-assisted coding tools into their workflow.</p>
+<p>I fear it may be too late for these authors and publishers to fix their embarrassing mistakes: they've already designed the cover art!</p>
+<p><img src="https://static.simonwillison.net/static/2025/vibe-coding-books.jpg" alt="Side-by-side comparison of two programming books: Left - &quot;VIBE CODING: BUILDING PRODUCTION-GRADE SOFTWARE WITH GENAI, CHAT, AGENTS, AND BEYOND&quot; by GENE KIM &amp; STEVE YEGGE with a rainbow digital background; Right - O'REILLY &quot;Vibe Coding: The Future of Programming - Leverage Your Experience in the Age of AI&quot; by Addy Osmani with &quot;Early Release RAW &amp; UNEDITED&quot; badge and bird illustrations." style="max-width: 100%;" /></p>
+<p>I wonder if this a new record for the time from a term being coined to the first published books that use that term entirely incorrectly.</p>
+<p>Vibe coding was only coined by Andrej Karpathy on February 6th, 84 days ago. I will once again quote <a href="https://twitter.com/karpathy/status/1886192184808149383">Andrej's tweet</a>, with my own highlights for emphasis:</p>
+<blockquote>
+<p>There’s a new kind of coding I call “vibe coding”, where you fully give in to the vibes, embrace exponentials, and <strong>forget that the code even exists</strong>. It’s possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even touch the keyboard.</p>
+<p>I ask for the dumbest things like “decrease the padding on the sidebar by half” because I’m too lazy to find it. I “Accept All” always, I don’t read the diffs anymore. When I get error messages I just copy paste them in with no comment, usually that fixes it. The code grows beyond my usual comprehension, I’d have to really read through it for a while. Sometimes the LLMs can’t fix a bug so I just work around it or ask for random changes until it goes away.</p>
+<p><strong>It’s not too bad for throwaway weekend projects, but still quite amusing</strong>. I’m building a project or webapp, but it’s not really coding—I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works.</p>
+</blockquote>
+<p>Andrej could not have stated this more clearly: vibe coding is when you <strong>forget that the code even exists</strong>, as a fun way to build <strong>throwaway projects</strong>. It's not the same thing as using LLM tools as part of your process for responsibly building production code.</p>
+<p>I know it's harder now that tweets are longer than 480 characters, but it's vitally important you <strong>read to the end of the tweet</strong> before publishing a book about something!</p>
+<h4 id="now-what-do-we-call-books-on-about-real-vibe-coding-">Now what do we call books on about real vibe coding?</h4>
+<p>This is the aspect of this whole thing that most disappoints me.</p>
+<p>I think there is a real need for a book on <em>actual</em> vibe coding: helping people who are <em>not</em> software developers - and who don't want to become developers - learn how to use vibe coding techniques <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/#when-is-it-ok-to-vibe-code-">safely, effectively and responsibly</a> to solve their problems.</p>
+<p>This is a rich, deep topic! Most of the population of the world are never going to learn to code, but thanks to vibe coding tools those people now have a path to building custom software.</p>
+<p>Everyone deserves the right to automate tedious things in their lives with a computer. They shouldn't have to learn programming in order to do that. <strong>That</strong> is who vibe coding is for. It's not for people who are software engineers already!</p>
+<p>There are so many questions to be answered here. What kind of projects can be built in this way? How can you avoid the traps around security, privacy, reliability and a <a href="https://twitter.com/leojr94_/status/1901560276488511759">risk of over-spending</a>? How can you navigate the jagged frontier of things that can be achieved in this way versus things that are completely impossible?</p>
+<p>A book for people like that could be a genuine bestseller! But because three authors and the staff of two publishers didn't read to the end of the tweet we now need to find a new buzzy term for that, despite having the <em>perfect</em> term for it already.</p>
+<p>I'm fully aware that I've lost at this point - <a href="https://simonwillison.net/2025/Mar/23/semantic-diffusion/">Semantic Diffusion</a> is an unstoppable force. What next? A book about prompt injection that's <a href="https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/">actually about jailbreaking</a>?</p>
+<p>I'd like the publishers and authors responsible to at least understand how much potential value - in terms of both helping out more people and making more money - they have left on the table because they didn't read all the way to the end of the tweet.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/books">books</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/semantic-diffusion">semantic-diffusion</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/1/not-vibe-coding/#atom-everything>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-05-01, from: IIIF Mastodon feed)
+
+<p>Discover a new <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> image from the State Library of Victoria&#39;s collection each time you open a browser tab with the ManIIIFestor extension: <a href="https://lab.slv.vic.gov.au/experiments/maniiifestor-browser-extension" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">lab.slv.vic.gov.au/experiments</span><span class="invisible">/maniiifestor-browser-extension</span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114432986263272844>
+
+---
+
+## Lower prices for 4GB and 8GB Compute Module 4
+
+date: 2025-05-01, from: Raspberry Pi News (.com)
+
+<p>A price drop for several Raspberry Pi Compute Module 4 variants, so you can make more cool stuff for less.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/lower-prices-for-4gb-and-8gb-compute-module-4/">Lower prices for 4GB and 8GB Compute Module 4</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/lower-prices-for-4gb-and-8gb-compute-module-4/>
 
 ---
 
@@ -114,6 +498,18 @@ Like many&#8230; shall we say&#8230; classically-trained computer scientists (i.
 <br> 
 
 <https://statusq.org/archives/2025/05/01/13121/>
+
+---
+
+## Deno 2.3: Improved deno compile, local npm packages, and more
+
+date: 2025-05-01, updated: 2025-05-01, from: Deno blog
+
+Deno 2.3 adds new features for deno compile and deno fmt, support for using local npm packages, several performance improvements, and more. Here are the biggest highlights. 
+
+<br> 
+
+<https://deno.com/blog/v2.3>
 
 ---
 
@@ -719,11 +1115,11 @@ date: 2025-04-30, from: Hundred Rabbits blog
 
 <p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of April.</p>
 
-<img src="https://100r.co/site/media/content/videos/april_2025.jpg" alt="little ninj, a plus ninja, is cleaning up the boat, wielding a mop " loading="lazy" width="1200" height="679">
+<img src="https://100r.co/media/content/videos/april_2025.jpg" alt="little ninj, a plus ninja, is cleaning up the boat, wielding a mop " loading="lazy" width="1200" height="679">
 
 <ul>
-  <li><b>100r.co</b>, updated a href="https://100r.co/site/water.html">water</a>, a href="https://100r.co/site/ditch_bag.html">ditch bag</a>, <a href="https://100r.co/site/woodstove_installation.html#apr2025">woodstove installation</a>, and added new photos and information on <a href="https://100r.co/site/first_aid_kit.html">first-aid kit</a>.</li>
-  <li><b>a href="https://100r.co/site/rabbit_waves.html">Rabbit Waves</a></b>, updated <a href="https://rabbitwaves.ca/site/triangular_bandage.html" target="_blank">Triangular Bandages</a> with animated gifs, and <a href="https://rabbitwaves.ca/site/first_aid_kit.html" target="_blank">First-Aid kit</a> with new med suggestions (also appended a .txt list of meds and their intended use).</li>
+  <li><b>100r.co</b>, updated <a href="https://100r.co/site/water.html">water</a>, <a href="https://100r.co/site/ditch_bag.html">ditch bag</a>, <a href="https://100r.co/site/woodstove_installation.html#apr2025">woodstove installation</a>, and added new photos and information on <a href="https://100r.co/site/first_aid_kit.html">first-aid kit</a>.</li>
+  <li><b><a href="https://100r.co/site/rabbit_waves.html">Rabbit Waves</a></b>, updated <a href="https://rabbitwaves.ca/site/triangular_bandage.html" target="_blank">Triangular Bandages</a> with animated gifs, and <a href="https://rabbitwaves.ca/site/first_aid_kit.html" target="_blank">First-Aid kit</a> with new med suggestions (also appended a .txt list of meds and their intended use).</li>
   <li><b><a href="https://kokorobot.ca/site/hakum.html" target="_blank">Hakum</a></b>, began a new comic sequence named <a href="https://kokorobot.ca/site/sabotage_study.html" target="_blank">Sabotage Study</a>(not yet completed).</li>
   <li><b><a href="https://100r.co/site/orca.html">Orca</a></b>, modified the behavior of the lowercase-j operator to allow for jumpers to grow.</li>
   <li><b><a href="https://wiki.xxiivv.com/site/solresol.html" target="_blank">Solresol</a></b>, improved the documentation.</li>
@@ -732,7 +1128,7 @@ date: 2025-04-30, from: Hundred Rabbits blog
 
 <p>The weather is getting warmer, which is perfect for airing out Pino's lockers, and drying off moldy clothes and tools. Anything stored in the v-berth lockers, below the waterline, suffer from extreme wetness. It is a very, very annoying fact of boat life, but there is really no way to bring good air flow in those spaces. We scrubbed the lockers clean, parted with items we no longer needed, and sent two laptops to the recycler.</p>
 
-<p>In last month's update, we mentioned Flickjam, a game jam based on Increpare's <a href="https://www.flickgame.org/index.html" target="_blank">Flickgame</a>. We received a total of <a href="https://itch.io/jam/flickjam-2025/entries" target="_blank">27 entries</a>! They're really fun, and all playable in the browser. <a href="https://itch.io/jam/flickjam-2025/rate/3445250" target="_blank">Devine's jam entry</a> is about a very adorable rabbit learning to play the word "rabbit" on a xylophone in <a href="https://wiki.xxiivv.com/site/solresol.html" target="_blank">Solresol</a>.</p>
+<p>In last month's update, we mentioned Flickjam, a game jam based on Increpare's <a href="https://www.flickgame.org/index.html" target="_blank">Flickgame</a>. We received a total of <a href="https://itch.io/jam/flickjam-2025/entries" target="_blank">27 entries</a>! They're really fun, and all playable in the browser. <a href="https://hundredrabbits.itch.io/rabbit-learns-rabbit" target="_blank">Devine's jam entry</a> is about a very adorable rabbit learning to play the word "rabbit" on a xylophone in <a href="https://wiki.xxiivv.com/site/solresol.html" target="_blank">Solresol</a>.</p>
 
 <p>Devine spent some time off the computer, <a href="https://wiki.xxiivv.com/site/skates.html" target="_blank">skating</a> and <a href="https://wiki.xxiivv.com/site/paper_logic.html" target="_blank">folding paper</a>. The <a href="https://wiki.xxiivv.com/site/paper_computer.html" target="_blank">paper computer</a> pages have been updated to cover some new ways in which computer emulators can be operated on paper. While on that subject, we highly recommend Tadashi Tokieda's excellent talk named <a href="https://www.youtube.com/watch?v=8p02DtmyQhU" target="_blank">A world from a sheet of paper</a>.</p>
 
@@ -1525,6 +1921,9 @@ date: 2025-04-29, updated: 2025-04-29, from: Simon Willison’s Weblog
 <p>All eight of these models are released under the Apache 2.0 license.</p>
 <p>Qwen describe these as "hybrid thinking" models - every one of them is capable of the "reason step by step" trick before they deliver their final answer. In my experiments so far this presents itself as a <code>&lt;think&gt;...&lt;/think&gt;</code> block at the start of the response.</p>
 <p>That thinking mode can be turned on and off by including special <code>/think</code> and <code>/no_think</code> tokens in the prompt. It's on by default.</p>
+<p>One last interesting snippet from the announcement:</p>
+<blockquote><p>We have optimized the Qwen3 models for coding and agentic capabilities, and also we have strengthened the support of MCP as well.</p></blockquote>
+<p>This is the first time I've seen a model specifically trained for the <a href="https://www.anthropic.com/news/model-context-protocol">Model Context Protocol</a>, which was first announced by Anthropic last November.</p>
 <ul>
 <li><a href="https://simonwillison.net/2025/Apr/29/qwen-3/#trying-out-qwen-3-via-ollama">Trying out Qwen 3 via Ollama</a></li>
 <li><a href="https://simonwillison.net/2025/Apr/29/qwen-3/#a-really-well-coordinated-release">A really well coordinated release</a></li>
@@ -1604,7 +2003,7 @@ Okay, the user wants an SVG of a pelican riding a bicycle. Let me start by break
 <p>We've seen the same trend with other models - Llama 3.3 70B <a href="https://simonwillison.net/2024/Dec/9/llama-33-70b/">claimed to deliver</a> "similar performance to Llama 3.1 405B", and Mistral Small 3 24B <a href="https://simonwillison.net/2025/Jan/30/mistral-small-3/">said that</a> it was "on par with Llama 3.3 70B instruct, while being more than 3x faster on the same hardware."</p>
 <p>At some point this trend will have to stop, but for the moment it's exciting to continue to see new optimizations emerge that allow us to run even better smaller models.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a></p> 
 
 <br> 
 

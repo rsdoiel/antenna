@@ -1,11 +1,101 @@
 ---
 title: writing
-updated: 2025-05-01 06:07:37
+updated: 2025-05-01 14:07:38
 ---
 
 # writing
 
-(date: 2025-05-01 06:07:37)
+(date: 2025-05-01 14:07:38)
+
+---
+
+## 5 Ways To Become a TV Writer
+
+date: 2025-05-01, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-ways-to-become-a-tv-writer" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20approximately%2030%20retro%20TVs%20from%20different%20decades.png" alt="Image of approximately 30 retro TVs from different decades over a vibrant blue background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Have you ever wondered ‘How do I become a TV writer?’<br><br>Maybe you’re a fan of certain TV shows and have an idea for your own. Or maybe you’d love to be part of a <span style="font-weight: bold;">writing staff</span> for your favorite type of series. Being a staff writer— working in “a writer’s room” with the showrunner and plotting the episodes of a TV series — is a highly sought-after job in the entertainment industry and to many writers, it’s “living the dream.”<br><br>But is it an impossible dream for you to achieve?<br><br>It’s not impossible, and there are many things you can do to achieve this goal.&nbsp;<br><br>Below are <span style="font-weight: bold;">5 Ways To Become a TV Writer</span>:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-ways-to-become-a-tv-writer>
+
+---
+
+## New Books YouTube Video for 04/29/2025!
+
+date: 2025-05-01, from: Locus Magazine
+
+<p>Welcome back for another weekly video on the top new releases in the SF, Fantasy, Horror, and YA fields! If you&#8217;d like to support what we do, and keep up-to-date on future releases, come by our YouTube channel and subscribe! We hope to see you next week at the same time!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/05/new-books-youtube-video-for-04-29-2025/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/new-books-youtube-video-for-04-29-2025/>
+
+---
+
+## 2024 Danuta Gleed Literary Award Shortlist
+
+date: 2025-05-01, from: Locus Magazine
+
+<p>The Writers’ Union of Canada (TWUC) has announced the nominees for the 28th Danuta Gleed Literary Award. The award recognizes &#8220;the best first collection of short fiction by a Canadian author published in 2024 in the English language.&#8221; Nominees of genre interest include <strong>Perfect Little Angels</strong> by Vincent Anioke (Arsenal Pulp) and <strong>Code Noir</strong> by Canisia Lubrin (Knopf).</p>
+<p>The winners of the $10,000 first prize and two $1,000 additional prizes  <a href="https://locusmag.com/2025/05/2024-danuta-gleed-literary-award-shortlist/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2024-danuta-gleed-literary-award-shortlist/>
+
+---
+
+## 2024 Australasian Shadows Awards
+
+date: 2025-05-01, from: Locus Magazine
+
+<p>The 2024 Australasian Shadows Awards (previously known as the Australia Shadows Awards) shortlist has been announced. The award is given by the Australasian Horror Writers Association (AHWA) for “the finest in horror and dark fiction published by an Australasian within the calendar year.”</p>
+<div class="nobullets">
+<p><strong>Novel</strong></p>
+<ul>
+<li><strong>The Dead Spot</strong>, Caroline Angel (Red Cape)</li>
+<li><strong>Remedy</strong>, J.S. Breukelaar (PS)</li>
+<li><strong>Jasper Cliff</strong>, Josh Kemp (Fremantle)</li>
+<li><strong>The Briar Book of the Dead</strong>, </li></ul></div> <a href="https://locusmag.com/2025/05/2024-australasian-shadows-awards/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2024-australasian-shadows-awards/>
+
+---
+
+## SFWA News
+
+date: 2025-05-01, from: Locus Magazine
+
+<p> The Science Fiction and Fan­tasy Writers Association (SFWA) has announced Erin Roberts as Toastmaster for the 2025 SFWA Nebula Conference and Awards, to be held June 5-9, 2025 at the Kansas City Marriott Downtown in Kansas City MO.</p>
+<p>SFWA also posted an update on the election results for the 2025 SFWA Board of Directors. Ryka Aoki joins as new Director-at-Large along with returning Director-at-Large Curtis C. Chen and continuing Director-at-Large  <a href="https://locusmag.com/2025/05/sfwa-news/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/sfwa-news/>
+
+---
+
+## Escape Pod, Cast of Wonders, and Strange Horizons: Reviews by Charles Payseur
+
+date: 2025-05-01, from: Locus Magazine
+
+<p>Escape Pod 12/19/24
+Cast of Wonders 12/22/24
+Strange Horizons 1/20/25</p>
+<p>Reaching back briefly to last year, Escape Pod rang in the holidays with <strong>Craig Church</strong>’s ‘‘<strong>The Bargain of Death and Saint Nicho­las</strong>’’, a seasonal treat of a story that unfolds in a grim future where the well-off of humanity live in domes and those less fortunate, like Penny and her father, live outside, struggling to survive. Despite  <a href="https://locusmag.com/2025/05/escape-pod-cast-of-wonders-and-strange-horizons-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/escape-pod-cast-of-wonders-and-strange-horizons-reviews-by-charles-payseur/>
 
 ---
 

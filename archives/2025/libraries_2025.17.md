@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-05-01 06:07:39
+updated: 2025-05-01 14:07:40
 ---
 
 # libraries
 
-(date: 2025-05-01 06:07:39)
+(date: 2025-05-01 14:07:40)
+
+---
+
+## Case Study: How ROR in OA.Report Helps HHMI Monitor Open Access Policy Compliance
+
+date: 2025-05-01, from: ROR Research ID Blog
+
+In this dual case study, we learn why the Howard Hughes Medical Institute (HHMI) relies on OA.Report and why OA. 
+
+<br> 
+
+<https://ror.org/blog/2025-05-01-oareport/>
 
 ---
 
@@ -135,7 +147,7 @@ Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M
 
 date: 2025-04-30, from: Standard Ebooks, new releaases
 
-Lawyer and political philosopher Spooner presents his case for the invalidity of the United States Constitution. 
+Lawyer and political philosopher Lysander Spooner presents his case for the invalidity of the United States Constitution. 
 
 <br> 
 
@@ -296,7 +308,7 @@ alt="Photo: Crossref staff and ambassadors with member Amy Asimah from Regional 
 
 date: 2025-04-28, from: Association of Research Libraries News
 
-<p>Last Updated on April 30, 2025, 3:43 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 29 &#124; Wednesday, April 30 &#124; Thursday, May 1 Monday, April 28...</p>
+<p>Last Updated on May 1, 2025, 2:39 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 29 &#124; Wednesday, April 30 &#124; Thursday, May 1 Monday, April 28...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-28-may-1/">Day in Review (April 28–May 1)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -318,12 +330,12 @@ Two British men become the first humans to reach the Moon.
 
 ---
 
-## Libraries Bring People and Information Together to Change the World: Steve Mandeville-Gamble on His Career and the Profession
+## Libraries Bring People and Information Together to Change the World: Steve Mandeville-Gamble on His Career and the Profession—an Oral History Interview
 
 date: 2025-04-28, from: Association of Research Libraries News
 
-<p>Last Updated on April 28, 2025, 1:42 pm ET University Librarian Steve Mandeville-Gamble will retire at the end of the academic year, after leading the University of California (UC) Riverside...</p>
-<p>The post <a href="https://www.arl.org/blog/libraries-bring-people-and-information-together-to-change-the-world-steve-mandeville-gamble-on-his-career-and-the-profession/">Libraries Bring People and Information Together to Change the World: Steve Mandeville-Gamble on His Career and the Profession</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on May 1, 2025, 12:53 pm ET University Librarian Steve Mandeville-Gamble will retire at the end of the academic year, after leading the University of California (UC) Riverside...</p>
+<p>The post <a href="https://www.arl.org/blog/libraries-bring-people-and-information-together-to-change-the-world-steve-mandeville-gamble-on-his-career-and-the-profession/">Libraries Bring People and Information Together to Change the World: Steve Mandeville-Gamble on His Career and the Profession—an Oral History Interview</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <br> 

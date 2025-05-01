@@ -1,11 +1,305 @@
 ---
 title: columns
-updated: 2025-05-01 06:07:37
+updated: 2025-05-01 14:07:37
 ---
 
 # columns
 
-(date: 2025-05-01 06:07:37)
+(date: 2025-05-01 14:07:37)
+
+---
+
+## 2025-05-01 Running the Alps
+
+date: 2025-05-01, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-01-running-the-alps">2025-05-01 Running the Alps</h1>
+
+<p>That is, running the Alps with a heart for plants! We arrived in the Vallais today and as soon as we had emptied our luggage we decided to go for a jogging-hike to the Cave du Sex (yeah, that’s the name!) and we took some pictures on the way.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-1.jpg" alt="2025-05-01-run-the-alps-1.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-2.jpg" alt="2025-05-01-run-the-alps-2.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-3.jpg" alt="2025-05-01-run-the-alps-3.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-4.jpg" alt="2025-05-01-run-the-alps-4.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-5.jpg" alt="2025-05-01-run-the-alps-5.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-6.jpg" alt="2025-05-01-run-the-alps-6.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-7.jpg" alt="2025-05-01-run-the-alps-7.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-8.jpg" alt="2025-05-01-run-the-alps-8.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-9.jpg" alt="2025-05-01-run-the-alps-9.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-10.jpg" alt="2025-05-01-run-the-alps-10.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-11.jpg" alt="2025-05-01-run-the-alps-11.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-12.jpg" alt="2025-05-01-run-the-alps-12.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-13.jpg" alt="2025-05-01-run-the-alps-13.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-14.jpg" alt="2025-05-01-run-the-alps-14.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-15.jpg" alt="2025-05-01-run-the-alps-15.jpg" />
+<img loading="lazy" src="2025-05-01-run-the-alps-16.jpg" alt="2025-05-01-run-the-alps-16.jpg" /></p>
+
+<p>Alex and Claudia</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-17.jpg" alt="2025-05-01-run-the-alps-17.jpg" /></p>
+
+<p>Claudia</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-18.jpg" alt="2025-05-01-run-the-alps-18.jpg" /></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-01-run-the-alps>
+
+---
+
+##  Retro USAID t-shirts featuring a classic logo from the 50s. &#8220;50% of... 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046755-retro-usaid-t-shirts-feat>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-05-01, from: Ryan Gantz Bluesky feed)
+
+heartbroken
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lo542vzjbk2x>
+
+---
+
+## April 30, 2025
+
+date: 2025-05-01, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162639157/88492e07537fc91a161eaec7d6e5327f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162639157/88492e07537fc91a161eaec7d6e5327f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-30-2025-788>
+
+---
+
+##  Scope of Work&#8217;s Spencer Wright on imports, tariffs, and maturity. &#8220;I buy... 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046760-scope-of-works-spencer-wr>
+
+---
+
+##  Ooh, I like this question: &#8220;What is the best album released by... 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046762-ooh-i-like-this-question>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-01, from: Dave Winer's Scripting News)
+
+One consistent bit of <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBkVybd_vaWT4oen5uNAEKxK8ztFUvAStcCq0Y8m-0VSsTNQ/viewform">feedback</a> on the new email format, which appears to be working for just about everyone, is that the text is too small. And while it is a rewrite, for a lot of people it looks exactly the same. That's because of differences in how email clients deal with HTML. 
+
+<br> 
+
+<http://scripting.com/2025/05/01.html#a180809>
+
+---
+
+##  What Is Fascism? 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/what-is-fascism>
+
+---
+
+##  Pirouette Abecedarium at MoMA: &#8220;Twenty-six designers, scholars, DJs, photographers, and entrepreneurs will... 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046757-pirouette-abecedarium-at->
+
+---
+
+##  Scientists on the Trump regime&#8217;s war on science in the US. &#8220;However... 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046756-scientists-on-the-trump-r>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Ok, I added some quick categories, and also going to fetch the documentation and show it, because none of these made any sense to me.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114433423141866507>
+
+---
+
+## US as a Surveillance State
+
+date: 2025-05-01, updated: 2025-05-01, from: Bruce Schneier blog
+
+<p>Two essays were <a href="https://www.theatlantic.com/technology/archive/2025/04/american-panopticon/682616/">just</a> <a href="https://www.nytimes.com/2025/04/30/opinion/musk-doge-data-ai.html">published</a> on DOGE&#8217;s data collection and aggregation, and how it ends with a modern surveillance state.</p>
+<p>It&#8217;s good to see this finally being talked about.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/us-as-a-surveillance-state.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Xogot now has been in review for 156 hours (60+96) with no words from Apple.</p><p>According to some site I found, the average review time is one hour, with the maximum recorded for April of 3 days or 9 days in March.</p><p>On this retried review I am at day 4.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114433346599597870>
+
+---
+
+##  Why Lawrence of Arabia Still Looks Like a Billion Bucks 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/why-lawrence-of-arabia-still-looks-like-a-billion-bucks>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-05-01, from: Ryan Gantz Bluesky feed)
+
+huh maybe we've reached the point where instead of adding software solutions we should start addressing some underlying conditions
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lo4l4pmb2k2l>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Not quite sure what to do about this Godot &quot;Add Effect&quot; feature to the AudioBus.</p><p>It seems like this could use some categories</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114433155150737984>
+
+---
+
+##  &#8220;The Adventures of Tintin officially entered the public domain in 2025. We... 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046744-the-adventures-of-tintin->
+
+---
+
+## Welcome to yet another month
+
+date: 2025-05-01, from: Dave Winer's Scripting News
+
+<p>Good morning and welcome to May 2025. </p>
+<p>It's nice to start with a simple <a href="https://imgs.scripting.com/2025/05/01/almostEmptyOutline.png">almost-empty</a> outline. </p>
+<p>Archived the OPML for April in the <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/04.opml">usual place</a>.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/01/143113.html?title=welcomeToYetAnotherMonth>
+
+---
+
+## Apple Lost But That Doesn’t Mean Epic Won Anything
+
+date: 2025-05-01, updated: 2025-05-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/659271/fortnite-ios-apple-app-store-us-return>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/magazineCover.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Phil Donahue <a href="https://www.today.com/video/flashback-watch-bernie-sanders-today-interview-from-1981-1448099395517">interview with Bernie Sanders</a> from 1981, then-mayor of Burlington, Vermont. He was a novelty then, an American politician who was a socialist. He was asked if capitalism was the normal way for humans to relate, he said no. I wonder if he still agrees, because I think that's the goal, and the reason we're in so much trouble is there really isn't an impulse to work with each other. What I've seen mostly is that when there's work to do, it's hard to find help, but once something has taken off, there isn't much help available either, the people who could make the greatest contribution just want to take over. And they often feel they have, but usually it doesn't work out, it would have been better if we all collaborated. At this point, the hurdle the human race has to get over <i>is</i> working together. We will never get out of the climate crisis without it, or avoid the next pandemic without millions of unnecessarily lost lives. The cynics are winning, basically -- and there isn't net-net much of a will for our species to survive. It's only getting worse. 
+
+<br> 
+
+<http://scripting.com/2025/05/01.html#a142013>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-01, from: Dave Winer's Scripting News)
+
+I turned yesterday's <a href="http://scripting.com/code/baselineplayground/">Baseline Playground</a> into a <a href="https://github.com/scripting/baselinePlayground">GitHub repo</a>. I never made one of these before and thought it was worth sharing, or just writing about. I'm struggling to find the most readable font, size, line-height. I'm looking at the screen where I do most of my online writing, and I find this very readable, it just fades into the background, to the base of the spine, so intrinsic it occupies none of my conscious mind. Anyway the purpose of the baseline is to give WordLand a target to work out all the glitches in, so the writing experience goes fully end-to-end. I didn't find any WordPress themes that I felt worked really well for this, so we set out to create one. Thanks to <a href="https://github.com/scotthansonde">Scott Hansen</a> who is using my work to build out a <a href="https://github.com/scotthansonde/wordlandBaseline">WordPress theme</a> and thanks to <a href="https://github.com/jeherve">Jeremy Herve</a> for helping us work with WordPress, which is more than a CMS, it's a network OS. There's a lot of value in the WordPress platform that has been widely overlooked, imho. 
+
+<br> 
+
+<http://scripting.com/2025/05/01.html#a141652>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>And this is how you draw with tiles now, compared to the version currently on TestFlight that was very janky:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114432969219727534>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Another big rewrite of high-traffic Godot elements into SwiftUI has been completed, and we are very happy with the performance of it.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114432742791639411>
 
 ---
 

@@ -1,11 +1,161 @@
 ---
 title: pacific
-updated: 2025-05-01 06:07:34
+updated: 2025-05-01 14:07:35
 ---
 
 # pacific
 
-(date: 2025-05-01 06:07:34)
+(date: 2025-05-01 14:07:35)
+
+---
+
+## Lañinbwil’s Gift debut
+
+date: 2025-05-01, from: Marshal Islands Journal
+
+<p>Journal 4/30/1982 P1 DeBrum: No radiation agreement unless affected agreeForeign Secretary Tony deBrum said April 24 at the Majuro Compact talks on subsidiary agreement Section 177 — US responsibility for the consequences of nuclear testing — that the governments are not here to settle private claims by private parties. Nevertheless, in the next sentence of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/laninbwils-gift-debut/">Lañinbwil&#8217;s Gift debut</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/laninbwils-gift-debut/>
+
+---
+
+## 120-million-year-old ‘super-eruption’ source offers new insights into Earth’s history
+
+date: 2025-05-01, from: University of Hawaiʻi News
+
+<p>The team revealed that the same underwater hotspot created both a chain of underwater volcanoes in the southern Pacific and the massive Ontong-Java Plateau.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/super-eruption-source/">120-million-year-old ‘super-eruption’ source offers new insights into Earth’s history</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/super-eruption-source/>
+
+---
+
+## May 2025 anniversaries
+
+date: 2025-05-01, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates May 2025 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/may-2025-anniversaries/">May 2025 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/may-2025-anniversaries/>
+
+---
+
+## Commerce and SBDC Network present export workshop
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+THE CNMI Department of Commerce, in collaboration with the CNMI Small Business Development Center Network at Northern Marianas College, is proud to present a special workshop titled "What to Expect When You're Exporting" on Friday, May 2, 2025, from 11 a.m. to 4:30 p.m. in the Azucena Room, Crowne Plaza Resort Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/commerce-and-sbdc-network-present-export-workshop/article_a485f6a3-4850-4de1-ad73-203c9e4a7d93.html>
+
+---
+
+## May Marianas Tourism Month celebration set
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+(MVA) — To celebrate Marianas Tourism Month, the Marianas Visitors Authority has organized a series of community events in May 2025 to celebrate The Marianas tourism industry. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/may-marianas-tourism-month-celebration-set/article_9b98a26d-908a-4e7d-8c19-91e178d5752e.html>
+
+---
+
+## CNMI Labor launches ‘rapid response to support displaced workers and strengthen economic resilience’
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+(CNMI DOL) — In response to recent business closures impacting our workforce, the CNMI Department of Labor has activated Rapid Response under the Workforce Innovation and Opportunity Act. This initiative aims to provide immediate assistance to affected workers and reinforce the Commonwealth's economic stability. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-labor-launches-rapid-response-to-support-displaced-workers-and-strengthen-economic-resilience/article_a78971d3-364c-4796-a940-c7b0d09fb3ca.html>
+
+---
+
+## Green flag on Tinian
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzed water samples collected from Tinian’s recreational beaches and storm water drainages this week as part of the regularly scheduled sampling.  None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards.  Therefore, BECQ assigns all of the sampled beach sites a green flag.  Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-tinian/article_5a16a470-e30f-4de3-be4e-06e55fac9a01.html>
+
+---
+
+## Trump struggles to explain weak economic data as he reaches 100-day mark
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump on Wednesday counseled patience, cast blame and claimed victory in the face of a first-quarter U.S. economic contraction and tariffs that have taken a bite out of his popularity, saying a resurgence was around the corner. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-struggles-to-explain-weak-economic-data-as-he-reaches-100-day-mark/article_ed9afd90-3430-4902-9d7a-8d48e32ae08b.html>
+
+---
+
+## Ukraine, US sign minerals deal sought by Trump
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+KYIV/WASHINGTON (Reuters) — Ukraine and the U.S. on Wednesday signed a deal heavily promoted by President Donald Trump that will give the United States preferential access to new Ukrainian minerals deals and fund investment in Ukraine's reconstruction. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/ukraine-us-sign-minerals-deal-sought-by-trump/article_bb31a2b8-cedc-4e74-89d5-b070d397e920.html>
+
+---
+
+## Measure further defines ‘perpetrators’ amid high rate of child sexual assaults on Guam
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Guam has the second-highest number of rapes per capita, according to statistics made available to the University of Guam's Violence Against Women Prevention Program. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/measure-further-defines-perpetrators-amid-high-rate-of-child-sexual-assaults-on-guam/article_4dfbc983-ebcc-4564-9d2d-dd566751006f.html>
+
+---
+
+## I Hate Everybody
+
+date: 2025-05-01, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Alice Kinerk Chase was standing by the whiteboard in his fourth-grade classroom, banging his math book against the tray at the bottom, where his teacher kept Expo markers. He’d discovered if he wailed hard enough, if he spread his &#8230; <a href="https://hawaiipacificreview.org/2025/05/01/i-hate-everybody/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/05/01/i-hate-everybody/>
+
+---
+
+## ANZAC Day marked in Majuro
+
+date: 2025-05-01, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW The words “Lest We Forget” were spoken in ceremonies all around the globe on April 25, with some of the first being heard in the Marshall Islands due to its international clock status. The phrase is a cornerstone of the hundreds of ANZAC Day dawn services held to commemorate all Australians and New [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/anzac-day-marked-in-majuro/">ANZAC Day marked in Majuro</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/anzac-day-marked-in-majuro/>
 
 ---
 

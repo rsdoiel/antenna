@@ -1,11 +1,23 @@
 ---
 title: parks
-updated: 2025-05-01 06:07:40
+updated: 2025-05-01 14:07:41
 ---
 
 # parks
 
-(date: 2025-05-01 06:07:40)
+(date: 2025-05-01 14:07:41)
+
+---
+
+## Celebrate Asian American and Pacific Islander Heritage Month at These State Parks
+
+date: 2025-05-01, from: California State Parks blog
+
+The contributions of Asian Americans and Pacific Islanders who lived and worked in California helped shape the state’s economy, society, culture and food. They also left their marks on many of California’s state parks. As we celebrate Asian American and Pacific Islander Heritage Month, we highlight some state parks that have special significance for AAPI [&#8230;] 
+
+<br> 
+
+<https://castateparks.wordpress.com/2025/05/01/celebrate-asian-american-and-pacific-islander-heritage-month-at-these-state-parks/>
 
 ---
 

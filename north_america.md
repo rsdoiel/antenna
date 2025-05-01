@@ -1,11 +1,165 @@
 ---
 title: north america
-updated: 2025-05-01 06:07:33
+updated: 2025-05-01 14:07:33
 ---
 
 # north america
 
-(date: 2025-05-01 06:07:33)
+(date: 2025-05-01 14:07:33)
+
+---
+
+## You can’t “deport” American citizens
+
+date: 2025-05-01, from: The Contrarian
+
+Earlier this week, ICE forcefully exiled three U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162637960/a62ec047e423e11d01274869744dea8c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162637960/a62ec047e423e11d01274869744dea8c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/you-cant-deport-american-citizens>
+
+---
+
+## Autocracy vs. Democracy in America: Tom Joscelyn on his 100 Days Report
+
+date: 2025-05-01, from: The Contrarian
+
+This Thursday, State Democracy Defenders Action released a new report outlining the destruction of the first 100 days of the Trump-Musk chaos regime. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162621313/47d79eaaecc9d31d2dd08f1301115766.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162621313/47d79eaaecc9d31d2dd08f1301115766.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/autocracy-vs-democracy-in-america>
+
+---
+
+## Dehumanizing the outsider: Evgenia Kara-Murza on political prisoners
+
+date: 2025-05-01, from: The Contrarian
+
+"There is this demonstrative cruelty with regard to these people" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162559554/0d2330ca839ba2e459496a65feb513f9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162559554/0d2330ca839ba2e459496a65feb513f9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/dehumanizing-the-outsider-evgenia>
+
+---
+
+##  There Goes Your Neighborhood Babbling Brook 
+
+date: 2025-05-01, from: The Lever News
+
+ In a bid to gut environmental law protecting the nation’s wetlands, Trump’s EPA is relying on a new definition of water.  
+
+<br> 
+
+<https://www.levernews.com/there-goes-your-neighborhood-babbling-brook/>
+
+---
+
+## The Department of Justice has abandoned civil rights
+
+date: 2025-05-01, from: The Contrarian
+
+Two events this week do no less than turn upside down the enforcement of laws that protect the civil rights of all Americans. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-department-of-justice-has-abandoned>
+
+---
+
+## International Students Get an Education in Fear
+
+date: 2025-05-01, from: Capital and Main
+
+<p>How Trump’s treatment of foreign students risks budgetary crises for schools and a national brain drain.</p>
+<p>The post <a href="https://capitalandmain.com/international-students-get-an-education-in-fear">International Students Get an Education in Fear</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/international-students-get-an-education-in-fear>
+
+---
+
+## The Trump Regime’s War on Working People
+
+date: 2025-05-01, from: The Contrarian
+
+How Unions are Resisting Authoritarian Attacks on Workers&#8217; Rights&#8212;and Why It Matters for Everyone 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-trump-regimes-war-on-working>
+
+---
+
+## Coffee with the Contrarians 05/1
+
+date: 2025-05-01, from: The Contrarian
+
+A recording from Coffee with The Contrarians 05/1 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-051>
+
+---
+
+## Julie Chávez Rodríguez on the power of the people
+
+date: 2025-05-01, from: The Contrarian
+
+"Momentum breeds momentum breeds momentum" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162570542/5b845da32e0b19158d834af897dd95e6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162570542/5b845da32e0b19158d834af897dd95e6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/julie-chavez-rodriguez-on-the-power>
+
+---
+
+## May Day and the intersection of civil rights and workers' rights
+
+date: 2025-05-01, from: The Contrarian
+
+It took a bit, but labor eventually got on board with protecting everyone's rights. 
+
+<br> 
+
+<https://contrarian.substack.com/p/may-day-and-the-intersection-of-civil>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-01, from: The Contrarian
+
+Thursday: May Day protests are happening around the world today. Plus: Sen. Chris Murphy lays out the corruption and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Public sentiment is Everything
+
+date: 2025-05-01, from: The Contrarian
+
+It was a week in which Trump&#8217;s power-mongering again achieved little but left the country and world in far worse shape. 
+
+<br> 
+
+<https://contrarian.substack.com/p/public-sentiment-is-everything>
 
 ---
 
@@ -104,6 +258,18 @@ date: 2025-04-30, from: The Lever News
 <br> 
 
 <https://www.levernews.com/workers-fried-and-died-under-trumps-workplace-safety-nominee/>
+
+---
+
+##  Workers Overheated and Died Under Trump’s Workplace Safety Nominee 
+
+date: 2025-04-30, from: The Lever News
+
+ As David Keeling led companies’ safety operations, workers fell ill and died amid extreme temperatures. Now he could dismantle federal heat protections.  
+
+<br> 
+
+<https://www.levernews.com/workers-overheated-and-died-under-trumps-workplace-safety-nominee/>
 
 ---
 
@@ -274,18 +440,6 @@ date: 2025-04-30, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/162501204/ab1e31631d6b5b2ba44b50c9daa66d6a.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/brian-tyler-cohen-katie-phang-and>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-30, from: The Contrarian
-
-Wednesday: A protest in Michigan, Mike Lawler gets an earful, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

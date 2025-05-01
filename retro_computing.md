@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-05-01 06:07:41
+updated: 2025-05-01 14:07:41
 ---
 
 # retro computing
 
-(date: 2025-05-01 06:07:41)
+(date: 2025-05-01 14:07:41)
+
+---
+
+## b.log 2025/05/01 - Thank you!, Toilet repair, Battery differences, This is SO sad, Beltane, Recalibrating a Silvercrest (Lidl) weighing spoon.
+
+date: 2025-05-01, from: Richard Murray's blog
+
+Thank you!, Toilet repair, Battery differences, This is SO sad, Beltane, Recalibrating a Silvercrest (Lidl) weighing spoon. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250501>
+
+---
+
+## Plus Post: Computerwise TransTerm 3
+
+date: 2025-05-01, from: Computer ads from the Past
+
+Introducing the TransTerm 3 Battery Powered Terminal 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-computerwise-transterm>
 
 ---
 

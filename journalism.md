@@ -1,11 +1,59 @@
 ---
 title: journalism
-updated: 2025-05-01 06:07:38
+updated: 2025-05-01 14:07:39
 ---
 
 # journalism
 
-(date: 2025-05-01 06:07:38)
+(date: 2025-05-01 14:07:39)
+
+---
+
+## Editorial Cartoon: “RFK Jr. vs. SSRIs”
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/editorial-cartoon-rfk-jr-vs-ssris/>
+
+---
+
+## CSUN VOVE
+
+date: 2025-05-01, from: The Sundail (CSUN Student Newspaper)
+
+Los Angeles is the capital of American entertainment. Whether it’s cinema, video games, art or music, Los Angeles is the premier location where artists go to take their careers to... 
+
+<br> 
+
+<https://sundial.csun.edu/193259/multimedia/videos/vove-documentary-film/>
+
+---
+
+## Are Online Video Games a Realistic Avenue for Digital-Tax Revenue in California?
+
+date: 2025-05-01, from: The Sundail (CSUN Student Newspaper)
+
+When people picture California, they usually think of beach sunsets and movie studios—but the state is also home to one of the world’s largest video-game ecosystems. More than 900 game... 
+
+<br> 
+
+<https://sundial.csun.edu/193255/sundialbrandstudio/sundial-marketplace/are-online-video-games-a-realistic-avenue-for-digital-tax-revenue-in-california/>
+
+---
+
+## Why Does Intensive Outpatient Treatment Work So Well for Addiction Treatment?
+
+date: 2025-05-01, from: The Sundail (CSUN Student Newspaper)
+
+You&#8217;ve likely heard of intensive outpatient programs (IOPs) for addiction treatment, but do you understand what makes them so effective? These programs offer a unique combination of clinical support and... 
+
+<br> 
+
+<https://sundial.csun.edu/193251/sundialbrandstudio/sundial-marketplace/why-does-intensive-outpatient-treatment-work-so-well-for-addiction-treatment/>
 
 ---
 
@@ -159,6 +207,7 @@ Instead, Kitaen, a first-year Chinese and global studies student who grew up in 
 
 date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 1 at 1:58 p.m.</em>
 In Wednesday’s Undergraduate Students Association Council election debate, candidates weighed in on whether the council’s internal vice president should focus on connecting students to campus administrators or council processes.&#160;&#160;
 The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
 
@@ -261,8 +310,8 @@ date: 2025-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-The dust on Coachella 2025 is finally starting to settle &#8211; or at least clear &#8211; from festival-goers&#8217; lungs.
-Now that the 2025 Coachella Valley Music and Arts Festival has come and gone &#8211; as well as the Stagecoach Festival that follows the weekend after &#8211; the memories of the West Coast&#8217;s premier music festival still linger. 
+The dust on Coachella 2025 is finally starting to settle – or at least clear – from festival-goers’ lungs.
+Now that the 2025 Coachella Valley Music and Arts Festival has come and gone – as well as the Stagecoach Festival that follows the weekend after – the memories of the West Coast’s premier music festival still linger. 
 
 <br> 
 

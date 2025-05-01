@@ -1,19 +1,179 @@
 ---
 title: going electric
-updated: 2025-05-01 06:07:42
+updated: 2025-05-01 14:07:42
 ---
 
 # going electric
 
-(date: 2025-05-01 06:07:42)
+(date: 2025-05-01 14:07:42)
 
 ---
 
-## Congress impotently declares end to CA EV rule it can’t actually end
+## Tesla loses manager behind its Cortex supercomputer to OpenAI
 
 date: 2025-05-01, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>Republicans in Congress have voted to use its authority under the Congressional Review Act to roll back California’s states’ right to protect its own residents’ lungs and pocketbooks with better emissions rules.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-cortex-supercomputer.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has lost the technical program manager behind its Cortex supercomputer in Texas to OpenAI.</p>
+
+
+
+<p>The latest example of a massive talent exodus at Tesla over the last year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="413785" href="https://electrek.co/2025/05/01/tesla-loses-manager-cortex-supercomputer-to-openai/#more-413785" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/tesla-loses-manager-cortex-supercomputer-to-openai/>
+
+---
+
+## The US’s largest virtual power plant now runs on 75,000 home batteries
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/sunrun-tesla-battery-storage1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.sunrun.com/" target="_blank" rel="noreferrer noopener">Sunrun</a> just turned thousands of homes into the US’s largest virtual power plant to help keep the lights on in California this summer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="413800" href="https://electrek.co/2025/05/01/us-largest-virtual-power-plant-now-runs-on-75000-home-batteries/#more-413800" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/us-largest-virtual-power-plant-now-runs-on-75000-home-batteries/>
+
+---
+
+## Jeep’s new Compass EV just leaked: Is this the affordable electric SUV we’ve waited for?
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Jeeps-new-Compass-EV-8.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jeep is set to reveal the new Compass any day now. Ahead of its official debut, <a href="https://electrek.co/guides/jeep/">Jeep’s</a> new Compass leaked online, showing several different variants, including an EV. Is this the affordable electric SUV we’ve been waiting for?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="413781" href="https://electrek.co/2025/05/01/jeeps-new-compass-ev-leaks-as-an-affordable-electric-suv/#more-413781" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/jeeps-new-compass-ev-leaks-as-an-affordable-electric-suv/>
+
+---
+
+## We got a rare opportunity to drive on public roads in China and tested out a bunch of ZEEKR EVs [Video]
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ZEEKR-China-007-GT-starting-line.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Seth and I recently traveled to China to attend the Shanghai Auto Show and used the opportunity to travel to Hangzhou with ZEEKR and test drive most of the automaker’s EVs. Even better, <a href="https://electrek.co/guides/zeekr/">ZEEKR</a> helped us acquire temporary driver’s permits in China, enabling us to test EVs like the new 007 GT on public roads. Read on and check out my full video below</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,first-drive,lynk-co,zeekr,zeekr-001,zeekr-007-gt,zeekr-7x" data-layer-viewtype="unknown" data-post-id="413155" href="https://electrek.co/2025/05/01/rare-opportunity-drive-public-roads-china-tested-zeekr-evs-video/#more-413155" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/rare-opportunity-drive-public-roads-china-tested-zeekr-evs-video/>
+
+---
+
+## The New Jeep Compass EV Looks Rugged, But It's A Peugeot Underneath
+
+date: 2025-05-01, from: Inside EVs News
+
+Even though it looks boxy and distinctly Jeep-like, the new Compass rides on the same platform as the Peugeot 3008 and 5008. 
+
+<br> 
+
+<https://insideevs.com/news/758334/new-jeep-compass-leaked-photos/>
+
+---
+
+## Velotric sale takes $400 off e-bikes with extra accessory savings, EcoFlow DELTA Pro Ultra flash bundle $2,072 off, EGO mower, more
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Velotric-Discover-1-Plus-e-bike-e1746118888953.png?w=1200" /></div><p>Today’s Green Deals are being led by <a href="https://9to5toys.com/2025/05/01/velotric-mothers-day-sale-from-999/">Velotric’s Mother’s Day Sale</a>, which is offering up to $400 off e-bikes, along with some select 30% accessory discounts and free gear, like the <a href="https://9to5toys.com/2025/05/01/velotric-mothers-day-sale-from-999/">Discover 1 Plus Commuter e-bike for $1,299</a> that you can also bundle with a bunch of <a href="https://9to5toys.com/2025/05/01/velotric-mothers-day-sale-from-999/">add-on gear at $487 off</a>, among others. There’s also EcoFlow’s latest flash sale through the rest of the day that is taking up to 43% off a <a href="https://9to5toys.com/2025/05/01/ecoflow-delta-pro-ultra-rapid-power-banks-from-76/">DELTA Pro Ultra Solar Generator</a> bundle and a <a href="https://9to5toys.com/2025/05/01/ecoflow-delta-pro-ultra-rapid-power-banks-from-76/">dual-RAPID 5,000mAh Magnetic Power Bank</a> bundle from <a href="https://9to5toys.com/2025/05/01/ecoflow-delta-pro-ultra-rapid-power-banks-from-76/">$76</a>. We also have two solid tool deals for you, with <a href="https://9to5toys.com/2025/05/01/ego-56v-21-inch-mower-449/">EGO’s 56V 21-inch Cordless Electric Self-Propelled Lawn Mower</a> coming with dual-toggle handles and a 6.0Ah battery at <a href="https://9to5toys.com/2025/05/01/ego-56v-21-inch-mower-449/">$449</a>, as well as <a href="https://9to5toys.com/2025/05/01/craftsman-1900-psi-or-2100-psi-pressure-washers-from-149/">CRAFTSMAN’s 1,900 and 2,100 PSI</a> Electric Pressure Washers starting from <a href="https://9to5toys.com/2025/05/01/craftsman-1900-psi-or-2100-psi-pressure-washers-from-149/">$149</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/04/30/anker-solix-f3800-plus-from-3199/">Anker SOLIX F3800 Plus</a> Mother’s Day savings, <a href="https://9to5toys.com/2025/04/29/jackery-explorer-2000-v2-bundle-1499-more/">Jackery’s latest sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="413749" href="https://electrek.co/2025/05/01/velotric-mothers-day-sale-ecoflow-flash-offers-ego-more/#more-413749" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/velotric-mothers-day-sale-ecoflow-flash-offers-ego-more/>
+
+---
+
+## Waymo says its robotaxis are up to 25x safer for pedestrians and cyclists
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Image1.png.webp?w=1600" /></div><p>Waymo has released new research saying that its driverless robotaxis reduce pedestrian- and cyclist-involved collisions by 82%-92%, and crashes that involve an injury by 96%, when compared to the average driver.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="pedestrian,waymo" data-layer-viewtype="unknown" data-post-id="413745" href="https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/#more-413745" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/>
+
+---
+
+## Hyundai has an advanced new electric SUV for China: Meet ELEXIO
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-electric-SUV-ELEXIO-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s not the IONIQ 4, but <a href="https://electrek.co/guides/hyundai/">Hyundai</a> promises it will be a game changer. After unveiling its new electric SUV, ELEXIO, Hyundai said it’s about to “write a new chapter” in the world’s largest EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="413738" href="https://electrek.co/2025/05/01/hyundai-unveils-next-gen-electric-suv-for-china-meet-elexio/#more-413738" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/hyundai-unveils-next-gen-electric-suv-for-china-meet-elexio/>
+
+---
+
+## Rivian launches ‘Real Rivian Adventures’ ad campaign, inspired by owner stories
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/DSCF4955-Edit-Edit-e1746074238222.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rivian is launching its first ad campaign, with digital ads showcasing stories from Rivian owners about how they’ve used their electric truck’s unique capabilities in interesting ways.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413309" href="https://electrek.co/2025/05/01/rivian-launches-real-rivian-adventures-ad-campaign-inspired-by-owner-stories/#more-413309" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/rivian-launches-real-rivian-adventures-ad-campaign-inspired-by-owner-stories/>
+
+---
+
+## Ionna's EV Charging Network Doubled In Size Last Month
+
+date: 2025-05-01, from: Inside EVs News
+
+The consortium is building charging stations where you might actually want to hang out. And it’s expanding rapidly. 
+
+<br> 
+
+<https://insideevs.com/news/758341/ionna-ev-charging-network-doubled-in-size-last-month/>
+
+---
+
+## Congress impotently declares end to CA EV rules it can’t actually end
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/Congress.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Republicans in Congress have voted to use its authority under the Congressional Review Act to roll back California’s states’ right to protect its own residents’ lungs and pocketbooks with better emissions rules.</p>
 
 
 
@@ -26,6 +186,130 @@ date: 2025-05-01, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/05/01/congress-impotently-declares-end-to-ca-ev-rule-it-cant-actually-end/>
+
+---
+
+## Ford’s EV sales fell by 40% in April and now it’s killing off another major project
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Ford-Mach-E-lease-Camry.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With significant discounts, including employee pricing, Ford had a record US sales month in April. Despite higher truck and SUV sales, electric vehicle sales dropped by nearly 40%. Now, Ford is ending another significant EV project that was expected to help it cut costs and compete with leaders like Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="413718" href="https://electrek.co/2025/05/01/fords-ev-sales-fell-40-april-now-its-killing-off-another-project/#more-413718" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/fords-ev-sales-fell-40-april-now-its-killing-off-another-project/>
+
+---
+
+## Tesla (TSLA) sales continue to crash in Europe despite new Model Y
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/new-model-y.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s sales in several key European markets continue to decline sharply in Q2 2025, despite the new Model Y, which was blamed for disappointing sales in the first quarter, now being available.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="413688" href="https://electrek.co/2025/05/01/tesla-tsla-sales-continue-crash-europe-despite-new-model-y/#more-413688" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/tesla-tsla-sales-continue-crash-europe-despite-new-model-y/>
+
+---
+
+## Tesla In 'Panic Mode' After Report Of New CEO Search
+
+date: 2025-05-01, from: Inside EVs News
+
+Plus, Ford axes next-gen SDV project and automakers can't even give a financial forecast anymore. 
+
+<br> 
+
+<https://insideevs.com/news/758261/tesla-board-search-replace-musk/>
+
+---
+
+## General Motors Won't Raise EV Prices Due To Tariffs
+
+date: 2025-05-01, from: Inside EVs News
+
+Several EVs, including the $35,000 Equinox EV, are built in Mexico. But General Motors is keeping sticker prices steady for now. 
+
+<br> 
+
+<https://insideevs.com/news/758323/gm-chevy-equinox-ev-blazer-ev-prices/>
+
+---
+
+## BYD had a blowout sales month in April with more EVs sold than hybrids, and that’s not all
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-EVs-April.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is on a hot streak. The Chinese EV powerhouse sold over 380,000 electric and hybrid vehicles in April alone. For the first time in over a year, fully electric vehicles (EVs) outsold hybrids. And with record overseas sales for the fifth consecutive month, <a href="https://electrek.co/guides/byd/">BYD</a> is poised for even more growth in 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="413690" href="https://electrek.co/2025/05/01/byd-hits-blowout-april-sales-more-evs-sold-than-hybrids/#more-413690" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/byd-hits-blowout-april-sales-more-evs-sold-than-hybrids/>
+
+---
+
+## The crazy, untold story of Lectric Ebikes’ secret deal to save Juiced Bikes
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/juiced-scorpion-X2-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Juiced Bikes spent 15 years as a beloved e-bike brand building some of the most iconic and highest-performance electric bicycles in the US market. But financial troubles put the brand into a tailspin last year, ultimately culminating in bankruptcy and closure. The brand appeared to be a goner until two young e-bike entrepreneurs stepped up to try and salvage Juiced’s legacy in a deal whose details have never been revealed – until now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413055" href="https://electrek.co/2025/05/01/the-crazy-untold-story-of-lectric-ebikes-secret-deal-to-save-juiced-bikes/#more-413055" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/the-crazy-untold-story-of-lectric-ebikes-secret-deal-to-save-juiced-bikes/>
+
+---
+
+## Aurora becomes first company to deploy Class 8 self-driving trucks on US public roads [Video]
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Aurora-self-driving-trucks-logo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Autonomous commercial technology developer <a href="https://electrek.co/guides/aurora/">Aurora Innovation, Inc.</a>, has successfully launched full-fledged freight services using self-driving trucks in the US. With the commencement of commercial trucking services, Aurora has become the first company to operate driverless services on public roads in the US. Check out Aurora’s self-driving truck navigating highways in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aurora,aurora-driver,aurora-innovation,autonomous-truck" data-layer-viewtype="unknown" data-post-id="413694" href="https://electrek.co/2025/05/01/aurora-first-company-deploy-class-8-self-driving-trucks-us-public-roads-video/#more-413694" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/aurora-first-company-deploy-class-8-self-driving-trucks-us-public-roads-video/>
+
+---
+
+## Tesla board denies having done the only right thing it has been reported to do in years
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Robyn-Denholm-being-dumb-1.png?w=1600" /></div><p>Tesla’s Chairwoman of the Board, Robyn Denholm, has denied that a report claiming the board has searched for a new CEO to replace Elon Musk, the only positive move it would have made in years.</p>
+
+
+
+<p>Musk also commented on the report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="413689" href="https://electrek.co/2025/05/01/tesla-board-denies-having-done-the-only-right-thing-it-has-been-reported-to-do/#more-413689" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/tesla-board-denies-having-done-the-only-right-thing-it-has-been-reported-to-do/>
 
 ---
 
@@ -70,6 +354,10 @@ The startup started stockpiling LFP batteries from Asia last year.
 date: 2025-05-01, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/elon-godfather.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>According to a new report from The Wall Street Journal, Tesla’s board has taken steps toward potentially seeking a new CEO to replace Elon Musk.</p>
+
+
+
+<p><strong>Update</strong>:<a href="https://electrek.co/2025/05/01/tesla-board-denies-having-done-the-only-right-thing-it-has-been-reported-to-do/" target="_blank" rel="noreferrer noopener"> Tesla’s board is denying the WSJ report</a>.</p>
 
 
 

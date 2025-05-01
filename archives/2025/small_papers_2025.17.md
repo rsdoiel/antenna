@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-05-01 06:07:43
+updated: 2025-05-01 14:07:43
 ---
 
 # small papers
 
-(date: 2025-05-01 06:07:43)
+(date: 2025-05-01 14:07:43)
+
+---
+
+## Grants for LA clean trucks frozen in Trump effort to defund green energy
+
+date: 2025-05-01, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The $250 million, which would fund about 500 electric trucks serving the ports of LA and Long Beach, remains frozen as a legal dispute plays out between the EPA, a bank and a green energy group.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/grants-for-la-clean-trucks-frozen-in-trump-effort-to-defund-green-energy">Grants for LA clean trucks frozen in Trump effort to defund green energy</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/grants-for-la-clean-trucks-frozen-in-trump-effort-to-defund-green-energy>
 
 ---
 
@@ -160,7 +175,7 @@ date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-30, from: Long Beach Post
 
-<figure><img width="1024" height="635" src="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-484x300.jpg 484w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1110x688.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-768x476.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1536x952.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-2048x1269.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1320x818.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="635" src="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-484x300.jpg 484w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1110x688.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-768x476.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1536x952.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-2048x1269.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/02/07155317/IMG_5-1320x818.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>He’s part of a coalition in Congress seeking to eliminate the coin that costs more to produce than it’s worth — something President Donald Trump has also tried to achieve.</p>
 <p>The post <a href="https://lbpost.com/news/politics/eliminate-penny-bill-robert-garcia">Long Beach Rep. Robert Garcia joins bipartisan fight to abolish the penny</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

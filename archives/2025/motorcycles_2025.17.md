@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-05-01 06:07:40
+updated: 2025-05-01 14:07:41
 ---
 
 # motorcycles
 
-(date: 2025-05-01 06:07:40)
+(date: 2025-05-01 14:07:41)
+
+---
+
+## Legendary Helmet Maker Launches 40th Anniversary in Honor of Jerez Circuit
+
+date: 2025-05-01, from: Ride Apart, Electric Motorcycle News
+
+Nolan partnered with the perfect ex-MotoGP star to celebrate the iconic track. 
+
+<br> 
+
+<https://www.rideapart.com/news/758145/nolan-helmet-jerez-circuit-40-anniversary/>
+
+---
+
+## Looking For Free Motorcycle Training In Virginia?  The DMV Has You Covered
+
+date: 2025-05-01, from: Ride Apart, Electric Motorcycle News
+
+Who doesn't like free motorcycle training? 
+
+<br> 
+
+<https://www.rideapart.com/news/758282/virginia-free-motorcycle-safety-training/>
 
 ---
 

@@ -1,11 +1,195 @@
 ---
 title: food
-updated: 2025-05-01 06:07:42
+updated: 2025-05-01 14:07:43
 ---
 
 # food
 
-(date: 2025-05-01 06:07:42)
+(date: 2025-05-01 14:07:43)
+
+---
+
+## The Coffee Coalition For Racial Equity Presents The First Sip! 2025: Honoring Leadership, Building Community
+
+date: 2025-05-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Event Honors Excellence, Emerging Voices, and Local Heroes in the Coffee Industry. 
+
+<br> 
+
+<https://sprudge.com/the-coffee-coalition-for-racial-equity-presents-the-first-sip-2025-honoring-leadership-building-community-325440.html>
+
+---
+
+## 19 Best Mother’s Day Kitchen Gifts for Moms Who Love to Cook (2025)
+
+date: 2025-05-01, from: Bon Appetet
+
+Give her a Le Creuset kettle, custom stationery for her recipes, or some upgraded spices. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-mothers-day-gifts-2025>
+
+---
+
+## Final Standings from the 2025 World Coffee Roasting Championship
+
+date: 2025-05-01, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-620x413.jpg" class="attachment-large size-large wp-post-image" alt="World Coffee Championships 2025" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Mikaël Portannier, representing France, is the 2025 World Coffee Roasting Champion. Portannier accepted the trophy last Sunday following four days of profiling, trier-pulling, sniffing, seconds-counting and slurping at the 2025... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/01/final-standings-from-the-2025-world-coffee-roasting-championship/>
+
+---
+
+## This Iconic Fast-Food Chain Has Banana Pudding Shakes on the Menu for Summer
+
+date: 2025-05-01, from: Taste of Home
+
+<p>Shake Shack promises real banana flavor in this shake. Sign me up!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/shake-shack-banana-pudding-shake/">This Iconic Fast-Food Chain Has Banana Pudding Shakes on the Menu for Summer</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/shake-shack-banana-pudding-shake/>
+
+---
+
+## How to Host Afternoon Tea at Home
+
+date: 2025-05-01, from: Bon Appetet
+
+Flaky pastries, cute sandwiches, spilling tea with friends. What could be better? 
+
+<br> 
+
+<https://www.bonappetit.com/story/afternoon-tea-at-home>
+
+---
+
+## 17 Tea Sandwiches to Snack While You Sip
+
+date: 2025-05-01, from: Bon Appetet
+
+Cream cheese and olive, Swedish shrimp salad, cucumber-chutney, and more sophisticated takes on these dainty bites. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/tea-sandwiches-recipes-ideas>
+
+---
+
+## One Village Coffee Launches Nationally In Sprouts Farmers Market’s Innovation Set
+
+date: 2025-05-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Four Signature Organic Coffees Now Available in 447 Stores Nationwide from May through July. 
+
+<br> 
+
+<https://sprudge.com/one-village-coffee-launches-nationally-in-sprouts-farmers-markets-innovation-set-325372.html>
+
+---
+
+## How I Turn Any Salad Into a Satisfying Meal
+
+date: 2025-05-01, from: Bon Appetet
+
+May’s Feel-Good Food Plan is packed with produce and never leaves me hungry. 
+
+<br> 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-may-2025>
+
+---
+
+## 29 Main Dish Salads That Won’t Leave You Hungry
+
+date: 2025-05-01, from: Bon Appetet
+
+Roasted cauliflower with feta and dates, creamy tahini chicken salad, a clean-out-the-fridge kale number, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/main-dish-salads-recipes>
+
+---
+
+## Crispy Rice Salad With Spicy Tahini Dressing
+
+date: 2025-05-01, from: Bon Appetet
+
+With crunchy cabbage, sweet mango, and ripe avocado, this salad will keep you full. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/crispy-rice-salad-spicy-tahini-dressing>
+
+---
+
+## New Coffee Grinders at the 2025 Specialty Coffee Expo
+
+date: 2025-05-01, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-grinders-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2025 new coffee grinders" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-grinders-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-grinders-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-grinders-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-grinders-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-grinders.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As last week&#8217;s Specialty Coffee Expo in Houston gave thousands of coffee professionals a break from their daily grind, dozens of Expo floor booths were devoted to daily grinding.&#160;&#160; (Read&#160;all... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/01/new-coffee-grinders-at-the-2025-specialty-coffee-expo/>
+
+---
+
+## Nominations Are Now Open For The Sprudge Twenty Class Of 2025
+
+date: 2025-05-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Nominate your coffee heroes! 
+
+<br> 
+
+<https://sprudge.com/nominations-are-now-open-for-the-sprudge-twenty-class-of-2025-321441.html>
+
+---
+
+## The Scone Recipe We Tested Over a Dozen Times
+
+date: 2025-05-01, from: Bon Appetet
+
+Cinnamon swirl, crumb topping, exquisite with your caffeine of choice. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Coffee Cake Scones
+
+date: 2025-05-01, from: Bon Appetet
+
+Sour cream scones get treated to a cinnamon-sugar swirl and crunchy streusel crown. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/coffee-cake-scones>
+
+---
+
+## Does Buttercream Frosting Need to Be Refrigerated?
+
+date: 2025-05-01, from: Taste of Home
+
+<p>So you've made a delicious homemade cake, complete with swirls of frosting. But does buttercream need to be refrigerated? Here's how to store your cake to avoid spoilage.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/does-buttercream-frosting-need-to-be-refrigerated/">Does Buttercream Frosting Need to Be Refrigerated?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/does-buttercream-frosting-need-to-be-refrigerated/>
 
 ---
 
@@ -37,7 +221,19 @@ date: 2025-05-01, from: Closet Cooking
 
 ---
 
-## The Best Cordless Vacuum (2025) is the Only Floor Cleaning Device You Need
+## Peaches and Cream Margarita
+
+date: 2025-05-01, from: Taste of Home
+
+Making this peaches and cream margarita is a delicious way to celebrate peach season. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peaches-and-cream-margarita/>
+
+---
+
+## The Best Cordless Vacuum (2025) Is the Only Floor Cleaning Device You Need
 
 date: 2025-05-01, from: Bon Appetet
 
@@ -199,7 +395,7 @@ Thai iced tea is the perfect balancing act for your favorite spicy or sweet Thai
 
 date: 2025-04-30, from: Daily Coffee News
 
-<div><img width="620" height="458" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg" class="attachment-large size-large wp-post-image" alt="Haile Andualem, Chris Kornman, Beti Asefa, and Segenet Gashaw welcome you to Royal Coffee Addis Ababa" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-768x567.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Oakland, California-based Royal Coffee recently opened a new office in Addis Ababa, Ethiopia, with a stated goal to become &#8220;the leading American importer of Ethiopian coffee.&#8221; The genetic birthplace of... 
+<div><img width="620" height="458" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg" class="attachment-large size-large wp-post-image" alt="Haile Andualem, Chris Kornman, Beti Asefa, and Segenet Gashaw welcome you to Royal Coffee Addis Ababa" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-768x567.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Oakland, California-based Royal Coffee recently opened a new office in Addis Ababa, Ethiopia, with a stated goal to become &#8220;the leading American importer of Ethiopian coffee.&#8221; The genetic birthplace of... 
 
 <br> 
 
@@ -211,7 +407,7 @@ date: 2025-04-30, from: Daily Coffee News
 
 date: 2025-04-30, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA FNC CVA" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>During its flagship North American trade show, executive leaders of the Specialty Coffee Association (SCA) and the Colombian Coffee Growers Federation (FNC) signed a memorandum of understanding surrounding widespread implementation... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA FNC CVA" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-FNC-CVA.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>During its flagship North American trade show, executive leaders of the Specialty Coffee Association (SCA) and the Colombian Coffee Growers Federation (FNC) signed a memorandum of understanding surrounding widespread implementation... 
 
 <br> 
 
@@ -237,7 +433,7 @@ date: 2025-04-30, from: Taste of Home
 
 date: 2025-04-30, from: Daily Coffee News
 
-<div><img width="620" height="474" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-620x474.jpg" class="attachment-large size-large wp-post-image" alt="roasted coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-620x474.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-300x229.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-768x587.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Research recently presented in the journal of the nonprofit Alzheimer&#8217;s Association provides fresh evidence that drinking coffee leads to a reduced risk of dementia.&#160; Led by a team at Zhejiang... 
+<div><img width="620" height="474" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-620x474.jpg" class="attachment-large size-large wp-post-image" alt="roasted coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-620x474.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-300x229.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1-768x587.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Research recently presented in the journal of the nonprofit Alzheimer&#8217;s Association provides fresh evidence that drinking coffee leads to a reduced risk of dementia.&#160; Led by a team at Zhejiang... 
 
 <br> 
 

@@ -1,11 +1,145 @@
 ---
 title: home
-updated: 2025-05-01 06:07:40
+updated: 2025-05-01 14:07:40
 ---
 
 # home
 
-(date: 2025-05-01 06:07:40)
+(date: 2025-05-01 14:07:40)
+
+---
+
+## The Other Stars of Calabasas
+
+date: 2025-05-01, from: Edible San Fernando Valley
+
+<p>Explore the city’s nature and noshes</p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/the-other-stars-of-calabasas/">The Other Stars of Calabasas</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/eat/the-other-stars-of-calabasas/?utm_source=rss&utm_medium=rss&utm_campaign=the-other-stars-of-calabasas>
+
+---
+
+## You Can Add a Shower With a Glass Ceiling to These New Tiny Homes
+
+date: 2025-05-01, from: Dwell
+
+The Cȃpsula collection by Netherlands studio i29 features three black cabins with radically indoor/outdoor options. 
+
+<br> 
+
+<https://www.dwell.com/article/i29-capsula-tiny-homes-black-prefab-cabins-58dac5a9>
+
+---
+
+## Seeds of Change: Watch Altadena rebloom with community support
+
+date: 2025-05-01, from: Edible San Fernando Valley
+
+<p>Recovering from the Eaton Fire is a long road </p>
+<p>The post <a href="https://www.ediblesfvalley.com/grow/seeds-of-change-watch-altadena-rebloom-with-community-support/">Seeds of Change: Watch Altadena rebloom with community support</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/grow/seeds-of-change-watch-altadena-rebloom-with-community-support/?utm_source=rss&utm_medium=rss&utm_campaign=seeds-of-change-watch-altadena-rebloom-with-community-support>
+
+---
+
+## An Off-Grid Villa on the Coast of Nicaragua Just Surfaced for $850K
+
+date: 2025-05-01, from: Dwell
+
+The sprawling retreat is perched high on a ridge overlooking the Pacific Ocean, and it comes with a guesthouse and an infinity pool. 
+
+<br> 
+
+<https://www.dwell.com/article/big-sky-ranch-contemporary-home-escamequita-nicaragua-real-estate-6f2799bf>
+
+---
+
+## For $14 Million You Can Rock n’ Roll All Night in Gene Simmons Beverly Hills Mansion
+
+date: 2025-05-01, from: Family Handyman Blog
+
+<p>Kiss's Gene Simmons is selling his mansion; find out what makes it so special and whether or not you'd make it through his selection process. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/gene-simmons-selling-mansion/">For $14 Million You Can Rock n&#8217; Roll All Night in Gene Simmons Beverly Hills Mansion</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gene-simmons-selling-mansion/>
+
+---
+
+## Your Guide to The Home Depot’s Decor Days—Including 13 Top Buys
+
+date: 2025-05-01, from: Family Handyman Blog
+
+<p>The Home Depot Decor Days event is going on now! Find deep discounts on bedding, lighting, home accents and outdoor accessories.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-depot-decor-days-2025/">Your Guide to The Home Depot’s Decor Days—Including 13 Top Buys</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-depot-decor-days-2025/>
+
+---
+
+## 19 of the Best Cold-Hardy Pear Varieties
+
+date: 2025-05-01, from: The Gardener's Path
+
+<p>Several pear tree varieties are adapted to withstand the harsh conditions of Zones 4, 3, and even colder. These cold-hardy cultivars can endure extreme winter temperatures while still producing an abundance of fruit. Learn about 19 of the best cold-hardy pear varieties to grow at home in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit-trees/cold-hardy-pears/">19 of the Best Cold-Hardy Pear Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit-trees/cold-hardy-pears/>
+
+---
+
+## How to Grow and Care for Candle Anemones
+
+date: 2025-05-01, from: The Gardener's Path
+
+<p>Candle anemone, aka long-fruited thimbleweed, is a perennial wildflower that blooms in bright shades of green and white. Anemone cylindrica is easy to grow and care for, and the pretty flowers attract a variety of pollinators to the garden. Learn how to plant and grow candle anemones in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-candle-anemone/">How to Grow and Care for Candle Anemones</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-candle-anemone/>
+
+---
+
+## From the Archive: The Singular Vision of Outlaw Architect Mark Mills
+
+date: 2025-05-01, from: Dwell
+
+How coastal fog, Taliesin West, and burgeoning beat culture helped the experimental Frank Lloyd Wright apprentice pioneer his own school of anthropomorphic regionalism. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-outlaw-architect-mark-mills-9b6db78b>
+
+---
+
+## Learn How to Grow Spinach in Containers
+
+date: 2025-05-01, from: The Gardener's Path
+
+<p>Spinach is nutritious and delicious, perfect for a wide range of recipes. If you want to save space in the garden or only have room on your balcony or patio, why not grow it in containers instead? This leafy green is easy to grow in pots and planters and this guide will walk you through the process. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-spinach-containers/">Learn How to Grow Spinach in Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-spinach-containers/>
 
 ---
 
@@ -24,6 +158,18 @@ date: 2025-05-01, from: Yard Life blog
 
 ---
 
+## Secret Garden Gems of the West to Visit This Spring
+
+date: 2025-05-01, from: Sunset Magazine - Living in the West
+
+Discover secluded oases, unique landscapes, and vibrant blooms in these secret gardens of the West. Put them on your spring travel list. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/secret-gardens-of-the-west>
+
+---
+
 ## 12 Common Types of Rose Plants (With Pictures and Names)
 
 date: 2025-05-01, from: Yard Life blog
@@ -36,6 +182,18 @@ date: 2025-05-01, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/12-common-types-of-rose-plants-with-pictures-and-names/>
+
+---
+
+## Celebrate National Arbor Day by Admiring These Absolutely Iconic Trees of the West
+
+date: 2025-05-01, from: Sunset Magazine - Living in the West
+
+From the redwoods of California to the koa trees of Hawaii, National Arbor Day is the perfect time to celebrate the trees of the West. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/trees-of-the-west>
 
 ---
 
@@ -493,18 +651,6 @@ date: 2025-04-29, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/bathroom-structure-price-hikes-tariffs/>
-
----
-
-## 12 Secret Garden Gems of the West to Visit This Spring
-
-date: 2025-04-29, from: Sunset Magazine - Living in the West
-
-Discover secluded oases, unique landscapes, and vibrant blooms in these secret gardens of the West. Put them on your spring travel list. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/secret-gardens-of-the-west>
 
 ---
 

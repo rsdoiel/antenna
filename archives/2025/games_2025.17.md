@@ -1,17 +1,101 @@
 ---
 title: games
-updated: 2025-05-01 06:07:38
+updated: 2025-05-01 14:07:38
 ---
 
 # games
 
-(date: 2025-05-01 06:07:38)
+(date: 2025-05-01 14:07:38)
+
+---
+
+## How Blizzard went about bringing its ‘Berserk x Diablo’ collaboration to life
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Last week, Blizzard Entertainment announced the full details behind its upcoming limited-time crossover event between Diablo 4 and Diablo Immortal and Berserk, the long-running dark fantasy manga created by the late Kentaro Miura. Beginning on May 1 for Diablo Immortal and May 6 for Diablo 4, players will be able to collect cosmetics themed after [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/567454/blizzard-diablo-4-immortal-berserk-crossover-interview-lead-artists>
+
+---
+
+## The best cozy games to play right now
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+“Cozy games” are a huge phenomenon right now, because at the end of the day, who doesn’t like being cozy? While some games focus on visceral combat or thrilling narratives, cozy games often focus on creating a comfortable or fulfilling place for players to hang out. Instead of swinging a sword or slaying foes, players [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/24151983/best-cozy-games-play-nintendo-switch-steam-playstation-xbox-pc>
+
+---
+
+## The new Grave of the Fireflies Steelbook is now available for pre-order
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Studio Ghibli’s most harrowing and devastating movie will soon be available in a Steelbook Blu-ray. The Grave of the Fireflies Steelbook costs $22.96 (or $26.98 on Amazon) and releases July 8. Pre-orders are available now. Grave of the Fireflies is based on a semi autobiographical short story of the same name, which follows two orphaned [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/581325/grave-fireflies-studio-ghibli-steelbook-blu-ray-pre-order>
+
+---
+
+## Someone already beat Breath of the Wild on Switch 2
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+A Japanese player has already crossed beating The Legend of Zelda: Breath of the Wild on Nintendo Switch 2 off the list. YouTuber and speedrunner Ikaboze managed that feat this past weekend at Nintendo Switch 2 Experience: Tokyo, where attendees had a chance to go hands on with Nintendo’s next-gen console. Like other attendees, Ikaboze [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/582474/zelda-breath-of-the-wild-switch-2-speedrun>
+
+---
+
+## Fortnite will return to the US iOS App Store next week, Epic Games says
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Apple can no longer charge a fee for purchases made outside of an iOS app, Epic Games vs. Apple judge Yvonne Gonzalez Rogers ruled Wednesday night. The judge had issued a permanent injunction in 2021 forbidding Apple from blocking third-party payment options — and the court found that Apple was in “willful violation” of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/576255/fortnite-ios-app-store-return-court-ruling>
+
+---
+
+## Andor season 2 makes Cassian just one of the many — and that’s a great thing
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+In the latest batch of Andor episodes, we get to see Cassian (Diego Luna) do something he’s never done before: dress up.&#160; He’s been in disguise before, and certainly incognito as the (immaculately named) Keef Girgo. But Cassian’s spy work so rarely takes him to upscale establishments; even around the rarefied air of Coruscant, he’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/567314/andor-season-2-episode-review-ghorman-heist>
+
+---
+
+## Microsoft just raised prices for Xbox consoles and games
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Microsoft has increased the cost of the Xbox Series X by $100, a 20% price increase on the video game console that launched in 2020. And that’s not the only price hike announced on Thursday. Games as well as controllers and other peripherals are going up in price, too, as is the Xbox Series S. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/581992/xbox-price-increase-us>
 
 ---
 
 ## The untimely demise and belated resurrection of the notorious Captain Blood
 
-date: 2025-05-01, updated: 2025-04-30, from: Polygon Website
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
 
 Preservation is top of mind for many developers and professionals in the games industry nowadays. In the wake of the abrupt sunsetting of Concord last September and the news this past March that Sony has begun backing up its PS5 game builds as part of its larger ongoing preservation efforts, the simultaneous ephemerality and invaluable [&#8230;] 
 
