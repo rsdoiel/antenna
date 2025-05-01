@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-30 14:08:58
+updated: 2025-05-01 06:07:38
 ---
 
 # games
 
-(date: 2025-04-30 14:08:58)
+(date: 2025-05-01 06:07:38)
+
+---
+
+## The untimely demise and belated resurrection of the notorious Captain Blood
+
+date: 2025-05-01, updated: 2025-04-30, from: Polygon Website
+
+Preservation is top of mind for many developers and professionals in the games industry nowadays. In the wake of the abrupt sunsetting of Concord last September and the news this past March that Sony has begun backing up its PS5 game builds as part of its larger ongoing preservation efforts, the simultaneous ephemerality and invaluable [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/567330/captain-blood-interview-sneg-publisher-lost-media-pc-consoles>
+
+---
+
+## 11 new games we can’t wait to play in May
+
+date: 2025-05-01, updated: 2025-04-30, from: Polygon Website
+
+The new game releases in May are some of the experiences we’ve been waiting to have for too long. Not only is Elden Ring Nightreign coming out, but so is Doom: The Dark Ages. Of course, there are plenty of smaller games too, like to a T from the creator of Katamari Damacy and — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/564148/best-new-game-releases-may-2025>
+
+---
+
+## Every movie and show coming to Netflix in May
+
+date: 2025-05-01, updated: 2025-04-30, from: Polygon Website
+
+Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. We’re here to help. This month has some exciting back catalogue picks, like the whole Twilight saga, the Ocean’s Eleven movies, horror [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/567032/new-on-netflix-may-2025-movies-tv>
+
+---
+
+## FragPunk codes for May 2025
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+FragPunk codes grant you free bonus rewards like gold and original pop cans, which function as gacha currency. FragPunk is a 5v5 tactical hero shooter that changes every round with the addition of cards. The card system ensures that every game is slightly different by providing you and your teammates with different abilities or hindering [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/535817/fragpunk-codes-list-redeem-all>
+
+---
+
+## Jujutsu Infinite codes for May 2025
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Jujutsu Infinite allows you to see how you would fare in the world of Jujutsu Kaisen in Roblox. Jujutsu Infinite is an open-world RPG where you take on cursed spirits using innate techniques, curse skills and cursed tools. However, to get some of the best innate techniques, you’ll need to go through a gacha system [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/roblox-guides/549432/jujutsu-infinite-codes-list-rewards>
+
+---
+
+## Fisch codes for May 2025
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Fisch is a relaxing fishing adventure made in Roblox with a vast world and an ocean full of a fish. On your Fisch-ing adventure, you’ll trek the seas with your customizable gear from rod to bait to bobber, and catch a variety of unique fish. To help you get started, you can take advantage of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/roblox-guides/549430/fisch-codes-list-rewards>
+
+---
+
+## Blox Fruits codes for May 2025
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Blox Fruits is a Roblox game inspired by the hit anime and manga series One Piece. In this world, you can play as either a pirate or a marine and assemble your own crew of scallywags or do-gooders. Gain strength by gathering the strongest katanas, cutlass, and guns, or take on the world by storm [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/roblox-guides/549431/blox-fruits-codes-list-rewards>
+
+---
+
+## Arise Crossover codes for May 2025
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Arise Crossover is a Roblox game inspired by Solo Leveling, a Korean fantasy series with a focus on raising the dead to do your bidding. In Arise Crossover, you’ll do just that — defeat enemies and force them to join your shadow army. As you defeat stronger enemies, your legion will become even more powerful [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/roblox-guides/544200/arise-crossover-codes-list-rewards>
+
+---
+
+## FFXIV housing lottery schedule for May 2025
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+If you’re trying to get a house in Final Fantasy 14, you’ll need to play the lottery system. The FFXIV lottery system consists of five “entry period” days, followed by four “results period” days. You’ll need to place your bid during the entry period days and if you win, finalize your purchase during the results [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period>
+
+---
+
+## Pokémon Go raid schedule for May 2025’s Legendary and Mega Pokémon
+
+date: 2025-05-01, updated: 2025-05-01, from: Polygon Website
+
+Using a raid schedule helps you work out which creatures to save your raid passes (remote or otherwise) for in Pokémon Go. The raid targets swap out every 10 days approximately, so you’ll definitely want to keep track on who is coming next. If you’re unfamiliar with raids, they spawn in gyms from 10 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star>
 
 ---
 

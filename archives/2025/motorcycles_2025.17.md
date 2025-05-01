@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-04-30 14:09:00
+updated: 2025-05-01 06:07:40
 ---
 
 # motorcycles
 
-(date: 2025-04-30 14:09:00)
+(date: 2025-05-01 06:07:40)
+
+---
+
+## Want to Learn to Ride In New York State? Now You Can Again
+
+date: 2025-05-01, from: Ride Apart, Electric Motorcycle News
+
+If you've heard about NY motorcycle training issues, they're fixed now. 
+
+<br> 
+
+<https://www.rideapart.com/news/758276/new-york-msf-contract-signed/>
+
+---
+
+## This New Scooter Looks Stylish and Practical, But Has a Very Weird Name
+
+date: 2025-05-01, from: Ride Apart, Electric Motorcycle News
+
+The CLBCU is supposedly inspired by the agility of a hummingbird.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758165/sym-clbcu-scooter-launch-specs-features/>
+
+---
+
+## Don’t Need a 250cc Boxer-Engined Motorcycle? Here’s One Anyway
+
+date: 2025-05-01, from: Ride Apart, Electric Motorcycle News
+
+Leave it to none other than Chinese manufacturer Benda to come up with something weird and totally different. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758162/benda-250cc-boxer-motorcycle-coming-soon-why/>
+
+---
+
+## This MotoGP Rider’s Sneaky Tactic Helped Him Secure a Podium, It Was Cool As Hell
+
+date: 2025-05-01, from: Ride Apart, Electric Motorcycle News
+
+And I couldn't be happier that he did it. 
+
+<br> 
+
+<https://www.rideapart.com/news/758142/yamaha-motogp-spanish-gp-tactic/>
 
 ---
 

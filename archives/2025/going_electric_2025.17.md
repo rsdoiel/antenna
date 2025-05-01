@@ -1,11 +1,115 @@
 ---
 title: going electric
-updated: 2025-04-30 14:09:01
+updated: 2025-05-01 06:07:42
 ---
 
 # going electric
 
-(date: 2025-04-30 14:09:01)
+(date: 2025-05-01 06:07:42)
+
+---
+
+## Congress impotently declares end to CA EV rule it can’t actually end
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>Republicans in Congress have voted to use its authority under the Congressional Review Act to roll back California’s states’ right to protect its own residents’ lungs and pocketbooks with better emissions rules.</p>
+
+
+
+<p>But here’s the thing: Congress doesn’t <em>have</em> that authority, and the republican party is once again just farting in the wind with the sole purpose of letting everyone know that it wants to poison Americans and raise their fuel costs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413298" href="https://electrek.co/2025/05/01/congress-impotently-declares-end-to-ca-ev-rule-it-cant-actually-end/#more-413298" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/01/congress-impotently-declares-end-to-ca-ev-rule-it-cant-actually-end/>
+
+---
+
+## ZF's New EV Range Extender Also Powers The Wheels, But Not Like You Think
+
+date: 2025-05-01, from: Inside EVs News
+
+A small gas engine turns a generator to charge the batteries. But that generator can also be another electric motor. 
+
+<br> 
+
+<https://insideevs.com/news/758296/zf-range-extender-drive-unit/>
+
+---
+
+## GM Claims No. 2 EV-Maker Status As It Warns Of $4-$5 Billion Tariff Hit
+
+date: 2025-05-01, from: Inside EVs News
+
+There's good news and bad news in General Motors' Q1 2025 results, CEO Mary Barra said in a letter to shareholders.  
+
+<br> 
+
+<https://insideevs.com/news/758307/gm-q1-2025-barra-trump/>
+
+---
+
+## Rivian Built A Secret Stash Of Batteries To Skirt Trump Tariffs: Report
+
+date: 2025-05-01, from: Inside EVs News
+
+The startup started stockpiling LFP batteries from Asia last year. 
+
+<br> 
+
+<https://insideevs.com/news/758291/rivian-battery-stockpile-asia-trump-tariffs/>
+
+---
+
+## Tesla board is reportedly floating replacing Elon Musk as CEO
+
+date: 2025-05-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/elon-godfather.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>According to a new report from The Wall Street Journal, Tesla’s board has taken steps toward potentially seeking a new CEO to replace Elon Musk.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="413666" href="https://electrek.co/2025/04/30/tesla-board-is-reportedly-floating-replacing-elon-musk-as-ceo/#more-413666" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/30/tesla-board-is-reportedly-floating-replacing-elon-musk-as-ceo/>
+
+---
+
+## China’s 3-row 872hp SUV would destroy the EU/US market: $40K Lynk & Co 900 PHEV
+
+date: 2025-04-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/image_1c343e.png?w=967" /></div><p>On our trip to Shanghai auto show facilitated by Zeekr, my <a href="https://electrek.co/2025/04/25/coolest-sleekest-furriest-ev-tech-2025-shanghai-auto-show/">colleague Scooter and I got to see an unbelievable amount of EVs from 20+ makers</a>, many of which we’d never heard of. Each maker offered an incredible array of models but one in particular stood out to me: the Lynk &amp; Co 900.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413329" href="https://electrek.co/2025/04/30/chinas-3-row-872hp-suv-would-destroy-the-eu-us-market-40k-lynk-co-900-phev/#more-413329" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/30/chinas-3-row-872hp-suv-would-destroy-the-eu-us-market-40k-lynk-co-900-phev/>
+
+---
+
+## Home solar prices just hit record lows – and storage is even cheaper
+
+date: 2025-04-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/sunrun-solar_panels_1500x900_v1.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>If you’ve been holding off on going solar, now might be the time to revisit that quote. According to EnergySage’s new Solar &amp; Storage Marketplace Report, prices for both home solar and solar + storage reached record lows in the second half of 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,solar-power,tesla-powerwall-3" data-layer-viewtype="unknown" data-post-id="413634" href="https://electrek.co/2025/04/30/home-solar-prices-just-hit-record-lows-and-storage-is-even-cheaper/#more-413634" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/30/home-solar-prices-just-hit-record-lows-and-storage-is-even-cheaper/>
 
 ---
 

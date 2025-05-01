@@ -1,11 +1,109 @@
 ---
 title: socal north
-updated: 2025-04-30 14:08:54
+updated: 2025-05-01 06:07:34
 ---
 
 # socal north
 
-(date: 2025-04-30 14:08:54)
+(date: 2025-05-01 06:07:34)
+
+---
+
+## What is May Day? A brief history of LA’s labor rallies
+
+date: 2025-05-01, updated: 2025-05-01, from: The LAist
+
+International Workers' Day, also known as May Day, has grown to have an immigrant and workers' rights focus in Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/la-history/los-angeles-may-day-history-international-workers-day>
+
+---
+
+## Cloudy weather brings chance of rain again to SoCal this weekend
+
+date: 2025-05-01, updated: 2025-05-01, from: The LAist
+
+Another round of rain coming to SoCal this weekend. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cloudy-weather-socal-weekend>
+
+---
+
+## Violinist Esther Abrami uncovers 'hidden treasure' of music by women
+
+date: 2025-05-01, updated: 2025-05-01, from: The LAist
+
+French violinist and social media influencer Esther Abrami releases her new album, Women, featuring music by female composers in a bid to redress historic biases. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/violinist-esther-abrami-uncovers-hidden-treasure-of-music-by-women>
+
+---
+
+## LAPD chief: Proposed cuts to non-police staff could hurt department and public safety
+
+date: 2025-05-01, updated: 2025-05-01, from: The LAist
+
+LAPD Chief Jim McDonnell said criminologists, forensic scientists and crime scene photographers could be laid off. 
+
+<br> 
+
+<https://laist.com/news/politics/lapd-chief-proposed-cuts-to-non-police-staff-could-hurt-department-and-public-safety>
+
+---
+
+## Judge restricts Border Patrol in California: ‘You just can’t walk up to people with brown skin’
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+A federal judge addressed Border Patrol attorneys at a hearing challenging recent immigration sweeps. 
+
+<br> 
+
+<https://laist.com/news/judge-restricts-border-patrol-in-california-you-just-cant-walk-up-to-people-with-brown-skin>
+
+---
+
+## These are the planned May Day demonstrations in LA and OC
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+Many of the demonstrations for workers’ rights are expected to also be an indictment of President Donald Trump’s stance on immigration. 
+
+<br> 
+
+<https://laist.com/news/may-day-demonstrations-la-oc-details>
+
+---
+
+## Welcome to the first fire-resistant neighborhood. Now what about the rest of California?
+
+date: 2025-04-30, updated: 2025-04-30, from: The LAist
+
+For years, wildfire-resilient home and neighborhood design has been a niche consideration for many California homeowners. January’s Los Angeles firestorms have made it feel more like an urgent necessity. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/welcome-to-the-first-fire-resistant-neighborhood-now-what-about-the-rest-of-california>
+
+---
+
+## Celebrate Our Special Needs Community at FestAbility!
+
+date: 2025-04-30, from: City of Santa Clarita
+
+<p>An Inclusive Day of Arts, Sports, Performances and Fun for All Ages at West Creek Park The City of Santa Clarita invites the community to FestAbility, presented by UCLA Health, on Sunday, May 4, from 12:00 to 3:00 p.m. at West Creek Park (24247 Village Circle Drive). FestAbility (formerly known as Free to be Me) [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/30/celebrate-our-special-needs-community-at-festability/">Celebrate Our Special Needs Community at FestAbility!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/30/celebrate-our-special-needs-community-at-festability/>
 
 ---
 
@@ -52,7 +150,7 @@ Trump promised a new "golden age" for the U.S. But his first 100 days in office 
 
 date: 2025-04-30, updated: 2025-04-30, from: The LAist
 
-The Republican proposal would eliminate Grad PLUS loans, set strict limits on Parent PLUS loans and create a system in which colleges would be on the hook if their students don't repay their loans. 
+The Republican proposal would eliminate grad PLUS loans, set strict limits on parent PLUS loans and create a system in which colleges would be on the hook if their students don't repay their loans. 
 
 <br> 
 
@@ -101,7 +199,7 @@ date: 2025-04-30, from: Longbeach Post
 
 ## More give Trump an F than any other grade for first 100 days, poll finds
 
-date: 2025-04-30, updated: 2025-04-30, from: The LAist
+date: 2025-04-30, updated: 2025-05-01, from: The LAist
 
 Nearly half of Americans give President Donald Trump a failing grade for his presidency so far, with near record low approval ratings at this point in the job, as he hits the milestone 100 days in office. 
 
@@ -113,7 +211,7 @@ Nearly half of Americans give President Donald Trump a failing grade for his pre
 
 ## How to choose a school in Los Angeles
 
-date: 2025-04-30, updated: 2025-04-30, from: The LAist
+date: 2025-04-30, updated: 2025-05-01, from: The LAist
 
 In Los Angeles Unified alone, there are more than 400 elementary schools, plus hundreds of specialized programs and dozens of charter schools run by separate nonprofits. 
 

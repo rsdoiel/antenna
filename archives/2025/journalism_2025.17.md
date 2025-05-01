@@ -1,11 +1,259 @@
 ---
 title: journalism
-updated: 2025-04-30 14:08:58
+updated: 2025-05-01 06:07:38
 ---
 
 # journalism
 
-(date: 2025-04-30 14:08:58)
+(date: 2025-05-01 06:07:38)
+
+---
+
+## Two pro-Palestine protesters detained during encampment attack anniversary rally
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD detained two pro-Palestine protesters during a series of demonstrations Wednesday night.&#160;
+Around 200 protesters began rallying at Wilson Plaza at 7:30 p.m. to watch “The Encampments,” a 2024 film about pro-Palestine protests at several university campuses, and later marched across Bruin Walk to De Neve Plaza. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/two-pro-palestine-protesters-detained-during-encampment-attack-anniversary-rally/>
+
+---
+
+## Male manipulator movies to ‘analyze’ this summer
+
+date: 2025-05-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Add these films to your list of pretentious Letterboxd reviews.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/01/male-manipulator-movies-to-analyze-this-summer/">Male manipulator movies to ‘analyze’ this summer</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/01/male-manipulator-movies-to-analyze-this-summer/>
+
+---
+
+## Students are advised to prioritize sleep during finals season
+
+date: 2025-05-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student Health reported no whooping cough cases in April.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/01/students-are-advised-to-prioritize-sleep-during-finals-season/">Students are advised to prioritize sleep during finals season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/01/students-are-advised-to-prioritize-sleep-during-finals-season/>
+
+---
+
+## Alum creates Hollywood-themed horror film
+
+date: 2025-05-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Lilia Doytchinova finds the horror in Los Angeles in her feature debut “The Haunting of Hollywood.”</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/01/new-hollywood-themed-horror-film-created-by-usc-alum/">Alum creates Hollywood-themed horror film</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/01/new-hollywood-themed-horror-film-created-by-usc-alum/>
+
+---
+
+## Trojan Fencing Club strikes gold at national championship
+
+date: 2025-05-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The women’s team was crowned the No. 1 club in the country.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/01/trojan-fencing-club-strikes-gold-at-national-championship/">Trojan Fencing Club strikes gold at national championship</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/01/trojan-fencing-club-strikes-gold-at-national-championship/>
+
+---
+
+## Hear me out — the new The Weeknd movie could actually be good
+
+date: 2025-05-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With his upcoming “Hurry Up Tomorrow” film, the Canadian megastar seeks to break the trend of disastrous artist-directed films.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/01/hear-me-out-the-new-the-weeknd-movie-could-actually-be-good/">Hear me out — the new The Weeknd movie could actually be good</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/01/hear-me-out-the-new-the-weeknd-movie-could-actually-be-good/>
+
+---
+
+## California Attorney General Rob Bonta talks efforts to oppose Trump administration
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+California Attorney General Rob Bonta said he is doing everything within his power to protect people without legal status at a Friday UCLA School of Law event. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/california-attorney-general-rob-bonta-talks-efforts-to-oppose-trump-administration/>
+
+---
+
+## USAC 2025-2026 candidate debates: General representative
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Eight candidates for the Undergraduate Students Association Council general representative attended a debate Wednesday.
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/usac-2025-2026-candidate-debates-general-representative/>
+
+---
+
+## USAC 2025-2026 candidate debates: International student representative
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Candidates running to be the Undergraduate Students Association Council’s international student representative emphasized the importance of legal services and fighting feelings of isolation at a debate Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/usac-2025-2026-candidate-debates-international-student-representative/>
+
+---
+
+## ASUCLA Earth Day event promotes sustainability, raises awareness for climate
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bruins gathered on Kerckhoff patio April 22 to show support for preserving the planet. 
+ASUCLA hosted &#8220;Planet &#38; People: A Sustainability Celebration&#8221; to commemorate Earth Day. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/asucla-earth-day-event-promotes-sustainability-raises-awareness-for-climate/>
+
+---
+
+## Leo Kitaen bridges cultures, inspires language-learning through Mandarin TikToks
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+While most students share gossip in their native tongue and with their dearest friends, Leo Kitaen has a different approach.
+Instead, Kitaen, a first-year Chinese and global studies student who grew up in an English-speaking household in Orange County, shares the drama in his life in Mandarin to his 166,000 TikTok followers. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/leo-kitaen-bridges-cultures-inspires-language-learning-through-mandarin-tiktoks/>
+
+---
+
+## USAC 2025-2026 candidate debates: Internal vice president
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+In Wednesday’s Undergraduate Students Association Council election debate, candidates weighed in on whether the council’s internal vice president should focus on connecting students to campus administrators or council processes.&#160;&#160;
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/usac-2025-2026-candidate-debates-internal-vice-president/>
+
+---
+
+## USAC 2025-2026 candidate debates: Community Service commissioner
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The sole candidate for the Undergraduate Students Association Council Community Service commissioner pledged to continue empowering student service Wednesday.&#160;
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/usac-2025-2026-candidate-debates-community-service-commissioner/>
+
+---
+
+## USAC 2025-2026 candidate debates: Student Wellness commissioner
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Both candidates for the Undergraduate Students Association Council Student Wellness commissioner highlighted their advocacy experience at a debate Wednesday.
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/usac-2025-2026-candidate-debates-student-wellness-commissioner/>
+
+---
+
+## USAC 2025-2026 candidate debates: Campus Events commissioner
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The sole candidate for the Undergraduate Students Association Council Campus Events commissioner pledged to improve student access to experiencing Los Angeles during a debate Wednesday.
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/usac-2025-2026-candidate-debates-campus-events-commissioner/>
+
+---
+
+## USAC 2025 Debates: Night one
+
+date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/live-usac-2025-debates-night-one/>
+
+---
+
+## The Dare headlines Spring Fest with support from Coco and Clair Clair
+
+date: 2025-04-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/30/the-dare-headlines-spring-fest-with-support-from-coco-and-clair-clair/2915179">The Dare headlines Spring Fest with support from Coco and Clair Clair</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/30/the-dare-headlines-spring-fest-with-support-from-coco-and-clair-clair/2915179>
+
+---
+
+## UCPD arrests individual outside Royce Hall, temporarily closes Dickson Plaza
+
+date: 2025-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD announced the closure of Dickson Plaza on Wednesday and arrested a person wearing a keffiyeh.&#160;
+Private security guards from CSC security and APEX Security Group began placing metal barricades surrounding all entrances to Dickson Plaza around 2:30 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/ucpd-arrests-individual-outside-royce-hall-temporarily-closes-dickson-plaza/>
+
+---
+
+## Basic Needs for Bruins
+
+date: 2025-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/30/basic-needs-for-bruins/>
 
 ---
 

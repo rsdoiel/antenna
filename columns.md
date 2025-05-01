@@ -1,11 +1,190 @@
 ---
 title: columns
-updated: 2025-04-30 14:08:56
+updated: 2025-05-01 06:07:37
 ---
 
 # columns
 
-(date: 2025-04-30 14:08:56)
+(date: 2025-05-01 06:07:37)
+
+---
+
+## Mayday! And May Day
+
+date: 2025-05-01, from: Robert Reich's blog
+
+We are inching ever closer to the end 
+
+<br> 
+
+<https://robertreich.substack.com/p/mayday-may-day>
+
+---
+
+## KDE 3 lives to fight another day as Trinity Desktop 14.1.4 hits the shelves
+
+date: 2025-05-01, updated: 2025-05-01, from: Liam Proven's articles at the Register
+
+<h4>Good news, everyone: 15 years on, TDE still pushes pixels</h4>
+      <p>The long-running fork of KDE 3 has dropped its latest update: Trinity Desktop Environment R14.1.4, now with better distro support and a fresh coat of code. Not bad for a project still chugging along 15 years after KDE itself moved on.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/01/trinity_desktop_14_1_4/>
+
+---
+
+## April 30, 2025 
+
+date: 2025-05-01, from: Heather Cox Richardson blog
+
+This morning the Bureau of Economic Analysis released a report showing an abrupt reversal in the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-30-2025>
+
+---
+
+## ★ Judge Yvonne Gonzalez Rogers Rules, in Excoriating Decision, That Apple Violated Her 2021 Court Order Regarding App Store Anti-Steering Provisions
+
+date: 2025-05-01, updated: 2025-05-01, from: Daring Fireball
+
+Are the results of this disastrous for Apple’s App Store business? I don’t think so at all. Gonzales Rogers is demanding that Apple ... do what Phil Schiller recommended they do all along. But are the results of this disastrous for Apple’s reputation and credibility? It sure seems like it. 
+
+<br> 
+
+<https://daringfireball.net/2025/04/gonzales_rogers_apple_app_store_ruling>
+
+---
+
+## m68k->PPC->x86->ARM?
+
+date: 2025-05-01, from: Jirka's blog
+
+Please  note that  I'm trying  to make  fun. Don't  take this  post too seriously. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_m68k_PPC_x86_ARM>
+
+---
+
+## lynx --nocolor
+
+date: 2025-05-01, from: Jirka's blog
+
+I really dislike how the Lynx WWW browser looks on some modern systems. On my  SGI it  was OK -  it simply respected  IRIS terminal  colors. On modern systems in seems to be full of colors with gray background. Text colors are quite  nice but I have disliked the  gray background. I have wished to have or black one  or transparent one (it a terminal emulator supports transparency). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_lynx_nocolor>
+
+---
+
+## iMac G5 keyboard
+
+date: 2025-05-01, from: Jirka's blog
+
+Today  my  wife  requested  new  keyboard. I  thought  that  the  Apple white-transparent keyboard is too inferior  to her IBM laptop keyboard. Well, it is. So I have replaced it by spare HP one. A HP keyboard which was a part of the PA-RISC Visualize workstation (the workstation itself does not work, unfortunately). And she is happy with it. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_iMac_G5_keyboard>
+
+---
+
+## Z88 screen and keyboard protector
+
+date: 2025-05-01, from: Jirka's blog
+
+I have got this thing (among  other goodies). It's just a balck plastic sheet with the Z88 logo which fits the  Z88 face well (it was a part of an original Z88 package). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_Z88_screen_keyboard_protector>
+
+---
+
+## Working from home
+
+date: 2025-05-01, from: Jirka's blog
+
+And this is my main tool: 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_Working_from_home>
+
+---
+
+## Workflow: Changes and additions
+
+date: 2025-05-01, from: Jirka's blog
+
+Things are continuously  developing or at least  changing. For example, my  gVim on  my GPD  Pocket (Ubuntu  MATE 18.04)  has issues  with text encoding.  If  I  create a  new  file  then  I  everything is  OK.  But when  I  save  it  and  re-open it  then  it  en-codes  local  language characters incorrectly.  It is  strange because I  have been  using the same  .vimrc/.gvimrc for  ages on  several Linux  machines and  I never encountered such behaviour. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_Workflow_Changes_and_additions>
+
+---
+
+## Universal solution
+
+date: 2025-05-01, from: Jirka's blog
+
+I sometimes  use the Pluma   {sup}1{/sup} text editor (a  Gedit clone which  is a part of the MATE  {sup}2{/sup} desktop). It is a nice and simple editor which has several useful functions like syntax highlighting and spell checking. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_Universal_solution>
+
+---
+
+## UT Progress
+
+date: 2025-05-01, from: Jirka's blog
+
+I  might  noted  here  in  some   of  previous  posts  that  during  an unsuccessful update I  lost the OpenStore  {sup}1{/sup} application  on my Ubuntu Touch  {sup}2{/sup}. It was a problem because there is no CLI tool to install (or remove) packages on  the Ubuntu Touch (that's an another  reason for me to dislike this table computing at all). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250501-0445_UT_Progress>
+
+---
+
+## Why Today April 30th Should Be a National Holiday
+
+date: 2025-05-01, from: Michael Moore's blog
+
+Fifty years ago today, on April 30, 1975, Vietnam defeated the United States of America. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/why-today-april-30th-should-be-a>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-30, from: Dave Winer's Scripting News)
+
+We could follow the clues in the TrumpLand with more gusto. They know their numbers are bad and likely to get worse, they did the things that made it the numbers bad. And at the same time they don't seem to care? If this were a mystery show, like Dallas or Succession or Severance, Lost perhaps, what would you think? 
+
+<br> 
+
+<http://scripting.com/2025/04/30.html#a215530>
+
+---
+
+##  This is cool: Maria Popova & indie bookstore chain McNally Jackson are... 
+
+date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046750-this-is-cool-maria-popova>
 
 ---
 
@@ -23,7 +202,7 @@ date: 2025-04-30, updated: 2025-04-30, from: Jason Kittke's blog
 
 ## The Talk Show: ‘The Ratchet of Flippancy’
 
-date: 2025-04-30, updated: 2025-04-30, from: Daring Fireball
+date: 2025-04-30, updated: 2025-05-01, from: Daring Fireball
 
  
 

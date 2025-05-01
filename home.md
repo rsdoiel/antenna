@@ -1,11 +1,109 @@
 ---
 title: home
-updated: 2025-04-30 14:09:00
+updated: 2025-05-01 06:07:40
 ---
 
 # home
 
-(date: 2025-04-30 14:09:00)
+(date: 2025-05-01 06:07:40)
+
+---
+
+## 45 Types of Evergreen Trees​ (With Pictures and Identification)
+
+date: 2025-05-01, from: Yard Life blog
+
+<p>Evergreen trees are a staple in many landscapes, providing year-round beauty and structure to gardens, parks, and forests. With their ... </p>
+<p class="read-more-container"><a title="45 Types of Evergreen Trees​ (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-types-of-evergreen-trees-with-pictures-and-identification/#more-27846" aria-label="Read more about 45 Types of Evergreen Trees​ (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-types-of-evergreen-trees-with-pictures-and-identification/">45 Types of Evergreen Trees​ (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-types-of-evergreen-trees-with-pictures-and-identification/>
+
+---
+
+## 12 Common Types of Rose Plants (With Pictures and Names)
+
+date: 2025-05-01, from: Yard Life blog
+
+<p>Roses are one of the most beloved flowers around the world, known for their beauty, fragrance, and wide variety. For ... </p>
+<p class="read-more-container"><a title="12 Common Types of Rose Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/12-common-types-of-rose-plants-with-pictures-and-names/#more-27828" aria-label="Read more about 12 Common Types of Rose Plants (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-common-types-of-rose-plants-with-pictures-and-names/">12 Common Types of Rose Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-common-types-of-rose-plants-with-pictures-and-names/>
+
+---
+
+## 7 Reasons Why Your Hydrangea May Not Bloom
+
+date: 2025-05-01, from: The Gardener's Path
+
+<p>Is there anything more disappointing than when it’s well into summer and your hydrangeas still aren’t blooming? In this guide, we’ll help you figure out what on earth went wrong, whether it’s a pruning issue or you have a light problem, and what you can do to fix it so you can enjoy those magnificent blossoms again.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/hydrangea-not-blooming/">7 Reasons Why Your Hydrangea May Not Bloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/hydrangea-not-blooming/>
+
+---
+
+## How to Grow and Care for Common Thyme
+
+date: 2025-05-01, from: The Gardener's Path
+
+<p>Thyme is best known for its culinary uses, but the easy-to-grow herb is also medicinal and a valuable ornamental plant. It adds a subtle charm to front borders, attracts beneficial insects, and makes a perfect companion plant for many other landscape favorites. Learn how to grow thyme in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-thyme/">How to Grow and Care for Common Thyme</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-thyme/>
+
+---
+
+## When and How to Harvest Swiss Chard
+
+date: 2025-05-01, from: The Gardener's Path
+
+<p>With exceptional nutritional value, Swiss chard is an easily grown super green that features heat and cold tolerance, glossy savoyed leaves, and bright, colorful stalks. And it offers an extra-long growing season when the leaves are harvested correctly. Join us right now to learn the best ways to harvest Swiss chard.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/harvest-swiss-chard/">When and How to Harvest Swiss Chard</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/harvest-swiss-chard/>
+
+---
+
+## Inside a Floating Home Created by the Same People Who Designed the ‘Sleepless in Seattle’ Houseboat
+
+date: 2025-04-30, from: Sunset Magazine - Living in the West
+
+The people who designed the houseboat from Sleepless in Seattle took on another houseboat project, this time for a family of four. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/seattle-houseboat>
+
+---
+
+## Here’s Why Only One Side of Bubble Wrap Is Poppable
+
+date: 2025-04-30, from: Family Handyman Blog
+
+<p>We tapped a moving expert to learn about how to properly use bubble wrap. We even asked about why is only one side of bubble wrap bubbly for protection</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bubble-wrap/">Here&#8217;s Why Only One Side of Bubble Wrap Is Poppable</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bubble-wrap/>
 
 ---
 
@@ -23,12 +121,12 @@ date: 2025-04-30, from: Family Handyman Blog
 
 ---
 
-## Major Power Tool Brand Announces Price Hikes Amid Trump’s Trade War
+## Trump Tariffs Are Making Power Tools More Expensive
 
 date: 2025-04-30, from: Family Handyman Blog
 
 <p>Tariffs are making things way more expensive for DIYers. Now, a major manufacturer of tools is raising prices to handle the tax increase. </p>
-<p>The post <a href="https://www.familyhandyman.com/article/trumps-tariffs-power-tool-prices/">Major Power Tool Brand Announces Price Hikes Amid Trump&#8217;s Trade War</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/trumps-tariffs-power-tool-prices/">Trump Tariffs Are Making Power Tools More Expensive</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <br> 
@@ -49,6 +147,20 @@ Milk and dairy products form a vital part of the daily diet for many Californian
 
 ---
 
+## Tiny House vs. Mobile Home: Which Is Right For You?
+
+date: 2025-04-30, from: The Tiny Life blog
+
+<p>The search for alternative housing often ends in a choice between tiny houses and mobile homes, and at first glance, they may seem similar. Both offer smaller price tags than conventional homes and a unique take on downsizing. But that’s pretty much where the similarities end.</p>
+<p>The post <a href="https://thetinylife.com/tiny-house-vs-mobile-home/">Tiny House vs. Mobile Home: Which Is Right For You?</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/tiny-house-vs-mobile-home/>
+
+---
+
 ## The Best Way to Freeze Lemon Juice + How to Store and Use It
 
 date: 2025-04-30, from: Homestead and Chil
@@ -60,6 +172,18 @@ date: 2025-04-30, from: Homestead and Chil
 <br> 
 
 <https://homesteadandchill.com/how-to-freeze-lemon-juice-ice-cube-trays/>
+
+---
+
+## These New and Buzzy Books by AAPI Authors Should Be on Your Reading List
+
+date: 2025-04-30, from: Sunset Magazine - Living in the West
+
+It's time to celebrate AAPI Heritage Month! And one of the best way to do so is through books. Take a look at these popular novels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/books-by-aapi-authors>
 
 ---
 
@@ -110,6 +234,20 @@ date: 2025-04-30, from: Edible San Fernando Valley
 <br> 
 
 <https://www.ediblesfvalley.com/explore/in-issue-11-spring-2025-rebirth/?utm_source=rss&utm_medium=rss&utm_campaign=in-issue-11-spring-2025-rebirth>
+
+---
+
+## 19 of the Best Gardening Gift Ideas for Mother’s Day
+
+date: 2025-04-30, from: The Gardener's Path
+
+<p>Forget the stress and feel the love when you give a Mother's Day gift perfect for mom gardeners. We've done the legwork, so you have plenty of practical, fanciful, huge, or modest options to choose from. Only the best for mom! All our best gift picks will warm a gardener's heart, the same way her great kids do.</p>
+<p>The post <a href="https://gardenerspath.com/gear/tools-and-supplies/gardening-gifts-mothers-day/">19 of the Best Gardening Gift Ideas for Mother&#8217;s Day</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/gear/tools-and-supplies/gardening-gifts-mothers-day/>
 
 ---
 
@@ -221,6 +359,20 @@ In Oakland, design studio Kalos Eidos creates structure in a tight living room w
 
 ---
 
+## Accessible Tiny Houses: Inclusive Housing On A Small Scale
+
+date: 2025-04-30, from: The Tiny Life blog
+
+<p>Tiny houses are often celebrated for their simplicity and charm, but they also present an opportunity to rethink how we view accessibility.</p>
+<p>The post <a href="https://thetinylife.com/accessible-tiny-houses/">Accessible Tiny Houses: Inclusive Housing On A Small Scale</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/accessible-tiny-houses/>
+
+---
+
 ## Homepage 2025
 
 date: 2025-04-30, from: Sunset Magazine - Living in the West
@@ -230,6 +382,20 @@ date: 2025-04-30, from: Sunset Magazine - Living in the West
 <br> 
 
 <https://www.sunset.com/>
+
+---
+
+## 11 Move-in Ready Prefab Tiny Homes You Can Buy Now
+
+date: 2025-04-30, from: The Tiny Life blog
+
+<p>Prefab tiny houses have come a long way in recent years. While there are countless options available, not every model is built the same. The best tiny homes on the market have one thing in common: they’ve been custom designed for efficiency.</p>
+<p>The post <a href="https://thetinylife.com/prefab-tiny-homes/">11 Move-in Ready Prefab Tiny Homes You Can Buy Now</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/prefab-tiny-homes/>
 
 ---
 
@@ -327,6 +493,18 @@ date: 2025-04-29, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/bathroom-structure-price-hikes-tariffs/>
+
+---
+
+## 12 Secret Garden Gems of the West to Visit This Spring
+
+date: 2025-04-29, from: Sunset Magazine - Living in the West
+
+Discover secluded oases, unique landscapes, and vibrant blooms in these secret gardens of the West. Put them on your spring travel list. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/secret-gardens-of-the-west>
 
 ---
 
@@ -621,6 +799,18 @@ Set in Cadaqués, the ’60s residence has a traditional stone facade and a surp
 <br> 
 
 <https://www.dwell.com/article/before-and-after-casa-rumeu-gr-os-architects-correa-mila-arquitectes-cadaques-7640cbf9>
+
+---
+
+## These Are the Recipes to Cook This May, from New Grilling Ideas to Easy Weeknight Meals
+
+date: 2025-04-28, from: Sunset Magazine - Living in the West
+
+May means celebrations like Mother's Day and Memorial Day, and better weather. Here's what to make this month. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/may-recipe-ideas-2025>
 
 ---
 

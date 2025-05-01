@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-04-30 14:08:53
+updated: 2025-05-01 06:07:33
 ---
 
 # north america
 
-(date: 2025-04-30 14:08:53)
+(date: 2025-05-01 06:07:33)
+
+---
+
+## Trump is Terrified of Tariff Blowback
+
+date: 2025-05-01, from: The Contrarian
+
+MAGA oligarchs&#8217; policies threaten to ruin Christmas 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-is-terrified-of-tariff-blowback>
+
+---
+
+## Evening Roundup, April 30
+
+date: 2025-04-30, from: The Contrarian
+
+Featuring Sen. Tim Kaine with Jen Rubin; Maria Peralta; John F. Terzano; Mimi Rocah; Meredith Blake; Josh Levs; Jennifer Weiss-Wolf; Rushab Sanghvi with Jen; and Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-30>
 
 ---
 
@@ -111,7 +135,7 @@ date: 2025-04-30, from: The Lever News
 
 date: 2025-04-30, from: The Contrarian
 
-Mobilizations Planned in Over 800 Cities in all 50 States as Workers Demand Justice 
+Mobilizations Planned in Over 1,000 events in all 50 States as Workers Demand Justice 
 
 <br> 
 

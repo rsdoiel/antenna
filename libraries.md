@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-04-30 14:08:59
+updated: 2025-05-01 06:07:39
 ---
 
 # libraries
 
-(date: 2025-04-30 14:08:59)
+(date: 2025-05-01 06:07:39)
+
+---
+
+## Guest Post — How Libraries and Scholarly Publishers Can Work Together Toward Born-accessible Publishing
+
+date: 2025-05-01, from: Scholarly Kitchen
+
+<p>Libraries and publishers can work together to improve the availability of accessible published content for people with disabilities. Here we present recommendations to support the cross-sector collaboration necessary to improve the accessibility of content in our communities.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/01/guest-post-how-libraries-and-scholarly-publishers-can-work-together-toward-born-accessible-publishing/">Guest Post &#8212; How Libraries and Scholarly Publishers Can Work Together Toward Born-accessible Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/01/guest-post-how-libraries-and-scholarly-publishers-can-work-together-toward-born-accessible-publishing/>
+
+---
+
+## Jewish American Heritage Month – Jewish American Identity, Heritage and Culture Through Popular Fiction
+
+date: 2025-05-01, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Jewish American Heritage Month 2025: Jewish American Identity, Heritage and Culture Through Popular Fiction   Post, Theme, and Recommended Reading Titles Curated by Lynn Lampert,&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/05/01/jewish-american-heritage-month-identity-heritage-and-culture-through-popular-fiction/>
 
 ---
 
@@ -102,6 +128,18 @@ Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M
 <br> 
 
 <http://hdl.handle.net/20.500.11850/732786>
+
+---
+
+## No Treason, by Lysander Spooner
+
+date: 2025-04-30, from: Standard Ebooks, new releaases
+
+Lawyer and political philosopher Spooner presents his case for the invalidity of the United States Constitution. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/lysander-spooner/no-treason>
 
 ---
 
@@ -205,6 +243,52 @@ Daniel Lucas
 <br> 
 
 <http://hdl.handle.net/20.500.11850/733167>
+
+---
+
+## Reflections from Crossref Accra 2025 - Strengthening open science and partnerships in Ghana
+
+date: 2025-04-29, from: Crossref Blog
+
+<p>Crossref is a membership organisation, and it’s the global community of members that creates the <a href="https://www.crossref.org/documentation/research-nexus/">Research Nexus</a> together. Meeting our community locally is a highlight and an important learning experience. This year, we started by connecting with a growing community in Accra, Ghana - our first in-person event in the country included in <a href="https://www.crossref.org/gem/">our GEM program</a>. From 14 members in 2023 to 31 in 2025, our community in Ghana is blooming.</p>
+<p>At its core, Crossref Accra 2025 was about showing up for the community in Ghana - listening, learning, and building together. On the 20th of March, we welcomed 66 participants: journal editors, university staff, librarians, and researchers. People who are doing the real work of making scholarly publishing happen in the region.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/group-photo-crossref-accra.jpeg"
+alt="Photo: Participants from across Ghana’s research and publishing landscape." width="100%"><figcaption>
+<p>Photo: Participants from across Ghana’s research and publishing landscape.</p>
+</figcaption>
+</figure>
+</div>
+<p>We started the day with a <a href="https://www.crossref.org/services/">walkthrough of Crossref’s services</a>, then shifted into more tailored conversations - talking metadata quality, improving discoverability, and making Crossref tools work for the local context. The panel featuring <a href="https://www.ajol.info/index.php/ajol" target="_blank">AJOL</a>, <a href="https://wacren.net/en/" target="_blank">WACREN</a>, and <a href="https://www.carligh.org/" target="_blank">CARLIGH</a> was a key moment. We heard honest reflections about journal sustainability, the barriers to indexing, and how Open Access can grow if local infrastructure is supported. Each organisation shared how they’re working to strengthen research communities and where they see Crossref fitting into that bigger picture.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/panel-session-crossref-accra.jpeg"
+alt="Photo: Crossref Ambassador Richard Lamptey moderates a panel with WACREN’s Effah Amponsah, CARLIGH’s Mac Anthony Cobblah, and AJOL’s Kylie van Zyl on sustaining journals and advancing Open Access in the region." width="70%"><figcaption>
+<p>Photo: Crossref Ambassador Richard Lamptey moderates a panel with WACREN’s Effah Amponsah, CARLIGH’s Mac Anthony Cobblah, and AJOL’s Kylie van Zyl on sustaining journals and advancing Open Access in the region.</p>
+</figcaption>
+</figure>
+</div>
+<p>During the dedicated listening session, participants spoke candidly about the cost burden of APCs, the over-reliance on foreign journals for recognition, and the uphill battle local journals face, from limited resources to slow workflows. There was a clear push for stronger local publishing platforms and more training around <a href="https://www.crossref.org/documentation/register-maintain-records/ojs-plugin/">tools like OJS</a>. People want technical clarity: How does Crossref fit into their workflows? What’s involved in registering metadata and DOIs? What’s the actual value? Many also voiced interest in strengthening relationships with indexing services, and connecting university presses more directly with Crossref. The afternoon breakout sessions were hands-on. One group explored how to use the <a href="https://www.crossref.org/documentation/reports/participation-reports/">Participation Reports</a> to check metadata completeness, while the other dove into using <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/">the Crossref API</a>. People started swapping tips, asking questions, and brainstorming ways to improve how their institutions handle metadata. Several wanted to know how to automate more of their workflows through OJS, boost reference linking, and pull better reports from the Crossref system.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/snapshots-crossref-accra.jpeg"
+alt="Photo: A collage of snapshots capturing activities at the Crossref Accra event." width="50%"><figcaption>
+<p>Photo: A collage of snapshots capturing activities at the Crossref Accra event.</p>
+</figcaption>
+</figure>
+</div>
+<p>Outside the main event, we also visited some of our members and stopped by the <a href="https://aau.org/" target="_blank">Association of African Universities</a>. These visits gave us more time for deeper conversations about publishing workflows, ORCID uptake, metadata visibility, and the bigger picture of Open Access in Ghana. We heard a lot about the potential for more equitable partnerships and stronger local ownership of publishing infrastructure.</p>
+<p>Post-event feedback made one thing clear: people want more opportunities to learn - more practical workshops, more guidance on using Crossref tools, and more support navigating the technical side of things. There’s growing interest in forming a local user group, a space to keep sharing, troubleshooting, and moving forward together. And the desire to improve indexing and visibility was a recurring theme. People see registering identifiers for content as an essential step on that journey. There’s also a broader concern about long-term sustainability and ethical publishing practices. Many journals are doing their best in tough conditions, and there’s a real appetite for honest conversations about quality, trust, and resilience.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/staff-ambassadors-crossref-accra.jpg"
+alt="Photo: Crossref staff and ambassadors with member Amy Asimah from Regional Maritime University. Pictured: Johanssen Obanda, Oumy Ndiaye, Evans Atoni, Patience Mbum, Audrey Kenni Nganmeni, Ginny Hendricks, and Richard Lamptey." width="75%"><figcaption>
+<p>Photo: Crossref staff and ambassadors with member Amy Asimah from Regional Maritime University. Pictured: Johanssen Obanda, Oumy Ndiaye, Evans Atoni, Patience Mbum, Audrey Kenni Nganmeni, Ginny Hendricks, and Richard Lamptey.</p>
+</figcaption>
+</figure>
+</div>
+<p>Crossref Accra 2025 reminded us how valuable these local gatherings are - not just for sharing tools and workflows, but for building lasting connections. We’re grateful to <a href="https://www.crossref.org/community/ambassadors/">our Ambassadors</a> and team who helped make it happen, and we’re committed to deepening our support across the region. There’s so much potential in Ghana’s scholarly community, and in West Africa more broadly, as we’ve seen again at WACREN in Senegal a couple of weeks later. We’re committed to working with local partners to help it grow.</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/reflections-from-crossref-accra-2025-strengthening-open-science-and-partnerships-in-ghana/>
 
 ---
 

@@ -1,11 +1,364 @@
 ---
 title: snapshots
-updated: 2025-04-30 14:09:04
+updated: 2025-05-01 06:07:44
 ---
 
 # snapshots
 
-(date: 2025-04-30 14:09:04)
+(date: 2025-05-01 06:07:44)
+
+---
+
+## Researchers Say the Most Popular Tool for Grading AIs Unfairly Favors Meta, Google, OpenAI
+
+date: 2025-05-01, from: 404 Media Group
+
+Chatbot Arena is the most popular AI benchmarking tool, but new research says its scores are misleading and benefit a handful of the biggest companies. 
+
+<br> 
+
+<https://www.404media.co/chatbot-arena-illusion-paper-meta-openai/>
+
+---
+
+## It’s Trump’s Economy Now
+
+date: 2025-05-01, from: Paul Krugman
+
+Don&#8217;t let him shift the blame 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/its-trumps-economy-now>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-01, from: Dave Winer's linkblog)
+
+New restaurant, wine bar replacing Mud Club in Woodstock. 
+
+<br> 
+
+<https://hudsonvalleyone.com/2025/04/30/eatery-by-day-wine-bar-at-night/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-01, from: Feed for Alt USDS)
+
+As usual, @altcdc.altgov.info has timely info. Here are ways to get involved
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lo47t33u4s2l>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-01, from: Dave Winer's linkblog)
+
+Fight Like Our Democracy Depends on It. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/01/opinion/trump-100-days-opposition.html?unlocked_article_code=1.D08.E7sb.hLSSzPM97s7G&smid=url-share>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-01, from: Feed for Alt USDS)
+
+Disasters aren't going away just because federal money is. This is important reading
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lo47lti4ds2l>
+
+---
+
+## Tag, you’re it
+
+date: 2025-05-01, from: Kilian Valkhof's blog
+
+<p>I got tagged by Hidde to blog some answers to questions about blogging, and since I definitely don&#8217;t use this blog enough, I&#8217;m taking him up on it &#8230;roughly a month later. Why did you start blogging in the first place? # This is what I wrote back in December of 2006 (19 years 💀) [&#8230;]</p>
+The post <a href="https://kilianvalkhof.com/2025/life/tag-youre-it/">Tag, you’re it</a> first appeared on <a href="https://kilianvalkhof.com">Kilian Valkhof</a>. 
+
+<br> 
+
+<https://kilianvalkhof.com/2025/life/tag-youre-it/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-01, from: Feed for Alt USDS)
+
+Want to know what it's like working under DOGE? Our colleagues share their story here. Key takeaways:
+❌ complete lack of care for humans
+❌ complete lack of understanding of how to manage people
+❌ complete lack of anything we'd ever want anywhere near federal government.
+
+ https://bit.ly/3YYnIkq 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lo3znmiz4l2m>
+
+---
+
+## Can Quentin get Quantum?
+
+date: 2025-05-01, from: Status-Q blog
+
+Like many&#8230; shall we say&#8230; classically-trained computer scientists (i.e. old ones), I have only the vaguest notion of how quantum computing actually works.  My understanding of the various topics can be best pictured as a cloud-like set of probability distributions which doesn&#8217;t exhibit any very high peaks! So I was quite taken with Grant Sanderson&#8217;s <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/05/01/13121/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/05/01/13121/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-01, from: Robert's feed at BlueSky)
+
+Weirdly fun🥸
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lo3lsf7ods2n>
+
+---
+
+## Personality and Persuasion
+
+date: 2025-05-01, from: One Useful Thing
+
+Learning from Sycophants 
+
+<br> 
+
+<https://www.oneusefulthing.org/p/personality-and-persuasion>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-01, from: Feed for Alt USDS)
+
+We didn’t walk away when DOGE replaced USDS. We organized. We documented. We got to work.
+
+🛠️ We the Builders is featured in Nextgov/FCW— and we’ve got more coming.
+
+cc: @almsnatalie.bsky.social 
+
+https://www.nextgov.com/people/2025/04/meet-former-feds-organizing-against-apparent-doge-destroyers/404964/ 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lo3drs3i422s>
+
+---
+
+## Why Today April 30th Should Be a National Holiday
+
+date: 2025-05-01, from: Michael Moore's blog
+
+Fifty years ago today, on April 30, 1975, Vietnam defeated the United States of America. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/why-today-april-30th-should-be-a>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-01, from: Feed for Alt USDS)
+
+Trump’s 100-day report card:
+🚫 Executive Orders blocked
+ 📉 Approval ratings tanked
+ ⚖️ Courts siding with workers, not chaos
+ 
+We’re tracking the losses and why they matter: https://bit.ly/100-days-of-losing
+
+ #100DaysOfLosing #WeTheBuilders 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lo3aikk4um2r>
+
+---
+
+## Quoting Mark Zuckerberg
+
+date: 2025-05-01, updated: 2025-05-01, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.dwarkesh.com/p/mark-zuckerberg-2"><p>You also mentioned the whole Chatbot Arena thing, which I think is interesting and points to the challenge around how you do benchmarking. How do you know what models are good for which things?</p>
+<p>One of the things we've generally tried to do over the last year is anchor more of our models in our Meta AI product north star use cases. The issue with open source benchmarks, and any given thing like the LM Arena stuff, is that they’re often skewed toward a very specific set of uses cases, which are often not actually  what any normal person does in your product. [...]</p>
+<p>So we're trying to anchor our north star on the product value that people report to us, what they say that they want, and what their revealed preferences are, and using the experiences that we have. Sometimes these benchmarks just don't quite line up. I think a lot of them are quite easily gameable.</p>
+<p>On the Arena you'll see stuff like <a href="https://www.anthropic.com/claude/sonnet">Sonnet 3.7</a>, which is a great model, and it's not near the top. It was relatively easy for our team to tune a version of Llama 4 Maverick that could be way at the top. But the version we released, the pure model, actually has no tuning for that at all, so it's further down. So you just need to be careful with some of these benchmarks. We're going to index primarily on the products.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.dwarkesh.com/p/mark-zuckerberg-2">Mark Zuckerberg</a>, on Dwarkesh Patel's podcast</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/mark-zuckerberg">mark-zuckerberg</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/chatbot-arena">chatbot-arena</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/1/mark-zuckerberg/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-30, from: Dave Winer's linkblog)
+
+Almost Zion: Remembering a short-lived Jewish state in New York. 
+
+<br> 
+
+<https://theconversation.com/almost-zion-remembering-a-short-lived-jewish-state-in-new-york-253534>
+
+---
+
+## 561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)
+
+date: 2025-04-30, from: This is history podcast
+
+<p>In the vibrant but vicious golden age of Imperial Japan, how did women use writing as a way to secure their status, and express their deepest desires? Who was Sei Shōnagon, the witty courtier whose account of life around the Japanese Empress during the iconic Heian period, provides a scintillating insight into this colourful world? [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2/">561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2/>
+
+---
+
+## Understanding the recent criticism of the Chatbot Arena
+
+date: 2025-04-30, updated: 2025-04-30, from: Simon Willison’s Weblog
+
+<p>The <a href="https://lmarena.ai/">Chatbot Arena</a> has become the go-to place for <a href="https://simonwillison.net/2024/Jun/27/ai-worlds-fair/#slide.013.jpeg">vibes-based evaluation</a> of LLMs over the past two years. The project, originating at UC Berkeley, is home to a large community of model enthusiasts who submit prompts to two randomly selected anonymous models and pick their favorite response. This produces an <a href="https://en.wikipedia.org/wiki/Elo_rating_system">Elo score</a> leaderboard of the "best" models, similar to how chess rankings work.</p>
+<p>It's become one of the most influential leaderboards in the LLM world, which means that billions of dollars of investment are now being evaluated based on those scores.</p>
+<h4 id="the-leaderboard-illusion">The Leaderboard Illusion</h4>
+<p>A new paper, <strong><a href="https://arxiv.org/abs/2504.20879">The Leaderboard Illusion</a></strong>, by authors from Cohere Labs, AI2, and Princeton, Stanford, Waterloo, and Washington universities spends 68 pages dissecting and criticizing how the arena works.</p>
+<p><img src="https://static.simonwillison.net/static/2025/leaderboard-illusion.jpg" alt="Title page of academic paper &quot;The Leaderboard Illusion&quot; with authors Shivalika Singh, Yiyang Nan, Alex Wang, Daniel D'souza, Sayash Kapoor, Ahmet Üstün, Sanmi Koyejo, Yuntian Deng, Shayne Longpre, Noah Smith, Beyza Ermis, Marzieh Fadaee, and Sara Hooker from various institutions including Cohere Labs, Cohere, Princeton University, Stanford University, University of Waterloo, Massachusetts Institute of Technology, Allen Institute for Artificial Intelligence, and University of Washington. Corresponding authors: {shivalikasingh, marzieh, sarahooker}@cohere.com" style="max-width: 100%" /></p>
+<p>Even prior to this paper there have been rumbles of dissatisfaction with the arena for a while, based on intuitions that the best models were not necessarily bubbling to the top. I've personally been suspicious of the fact that my preferred daily driver, Claude 3.7 Sonnet, rarely breaks the top 10 (it's sat at 20th right now).</p>
+<p>This all came to a head a few weeks ago when the <a href="https://simonwillison.net/2025/Apr/5/llama-4-notes/">Llama 4 launch</a> was mired by a leaderboard scandal: it turned out that their model which topped the leaderboard <a href="https://simonwillison.net/2025/Apr/5/llama-4-notes/#lmarena">wasn't the same model</a> that they released to the public! The arena released <a href="https://simonwillison.net/2025/Apr/8/lmaren/">a pseudo-apology</a> for letting that happen.</p>
+<p>This helped bring focus to <a href="https://blog.lmarena.ai/blog/2024/policy/#our-policy">the arena's policy</a> of allowing model providers to anonymously preview their models there, in order to earn a ranking prior to their official launch date. This is popular with their community, who enjoy trying out models before anyone else, but the scale of the preview testing revealed in this new paper surprised me.</p>
+<p>From the new paper's abstract (highlights mine):</p>
+<blockquote>
+<p>We find that undisclosed private testing practices benefit a handful of providers who are able to test multiple variants before public release and retract scores if desired. We establish that the ability of these providers to choose the best score leads to biased Arena scores due to selective disclosure of performance results. <strong>At an extreme, we identify 27 private LLM variants tested by Meta in the lead-up to the Llama-4 release</strong>.</p>
+</blockquote>
+<p>If proprietary model vendors can submit dozens of test models, and then selectively pick the ones that score highest it is not surprising that they end up hogging the top of the charts!</p>
+<p>This feels like a classic example of gaming a leaderboard. There are model characteristics that resonate with evaluators there that may not directly relate to the quality of the underlying model. For example, bulleted lists and answers of a very specific length tend to do better.</p>
+<p>It is worth noting that this is quite a salty paper (highlights mine):</p>
+<blockquote>
+<p>It is important to acknowledge that <strong>a subset of the authors of this paper have submitted several open-weight models to Chatbot Arena</strong>: command-r (Cohere, 2024), command-r-plus
+(Cohere, 2024) in March 2024, aya-expanse (Dang et al., 2024b) in October 2024, aya-vision
+(Cohere, 2025) in March 2025, command-a (Cohere et al., 2025) in March 2025. We started this extensive study driven by this submission experience with the leaderboard.</p>
+<p>While submitting Aya Expanse (Dang et al., 2024b) for testing, <strong>we observed that our open-weight model appeared to be notably under-sampled compared to proprietary models</strong> — a discrepancy that is further reflected in Figures 3, 4, and 5. In response, <strong>we contacted the Chatbot Arena organizers to inquire about these differences</strong> in November 2024. <strong>In the course of our discussions, we learned that some providers were testing multiple variants privately, a practice that appeared to be selectively disclosed and limited to only a few model providers</strong>. We believe that our initial inquiries partly prompted Chatbot Arena to release <a href="">a public blog</a> in December 2024 detailing their benchmarking policy which committed to a consistent sampling rate across models. However, subsequent anecdotal observations of continued sampling disparities and the presence of numerous models with private aliases motivated us to undertake a more systematic analysis.</p>
+</blockquote>
+<p>To summarize the other key complaints from the paper:</p>
+<ul>
+<li>
+<strong>Unfair sampling rates</strong>: a small number of proprietary vendors (most notably Google and OpenAI) have their models randomly selected in a much higher number of contests.</li>
+<li>
+<strong>Transparency</strong> concerning the scale of proprietary model testing that's going on.</li>
+<li>
+<strong>Unfair removal rates</strong>: "We find deprecation disproportionately impacts open-weight and open-source models, creating large asymmetries in data access over" - also "out of 243 public models, 205 have been silently deprecated." The longer a model stays in the arena the more chance it has to win competitions and bubble to the top.</li>
+</ul>
+<p>The Arena responded to the paper <a href="https://twitter.com/lmarena_ai/status/1917492084359192890">in a tweet</a>. They emphasized:</p>
+<blockquote>
+<p>We designed our policy to prevent model providers from just reporting the highest score they received during testing. We only publish the score for the model they release publicly.</p>
+</blockquote>
+<p>I'm dissapointed by this response, because it skips over the point from the paper that I find most interesting. If commercial vendors are able to submit dozens of models to the arena and then cherry-pick for publication just the model that gets the highest score, quietly retracting the others with their scores unpublished, that means the arena is very actively incentivizing models to game the system. It's also obscuring a valuable signal to help the community understand how well those vendors are doing at building useful models.</p>
+<p>Here's <a href="https://twitter.com/lmarena_ai/status/1917668731481907527">a second tweet</a> where they take issue with "factual errors and misleading statements" in the paper, but still fail to address that core point. I'm hoping they'll respond to <a href="https://x.com/simonw/status/1917672048031404107">my follow-up question</a> asking for clarification around the cherry-picking loophole described by the paper.</p>
+
+<h4 id="transparency">I want more transparency</h4>
+
+<p>The thing I most want here is transparency.</p>
+
+<p>If a model sits in top place, I'd like a footnote that resolves to additional information about how that vendor tested that model. I'm particularly interested in knowing how many variants of that model the vendor tested. If they ran 21 different models over a 2 month period before selecting the "winning" model, I'd like to know that - and know what the scores were for all of those others that they didn't ship.</p>
+
+<p>This knowledge will help me personally evaluate how credible I find their score. Were they mainly gaming the benchmark or did they produce a new model family that universally scores highly even as they tweaked it to best fit the taste of the voters in the arena?</p>
+
+<h4 id="openrouter">OpenRouter as an alternative?</h4>
+
+<p>If the arena isn't giving us a good enough impression of who is winning the race for best LLM at the moment, what else can we look to?</p>
+
+<p>Andrej Karpathy <a href="https://x.com/karpathy/status/1917546757929722115">discussed the new paper</a> on Twitter this morning and proposed an alternative source of rankings instead:</p>
+
+<blockquote>
+<p>It's quite likely that LM Arena (and LLM providers) can continue to iterate and improve within this paradigm, but in addition I also have a new candidate in mind to potentially join the ranks of "top tier eval". It is the <strong><a href="https://openrouter.ai/rankings">OpenRouterAI LLM rankings</a></strong>.</p>
+<p>Basically, OpenRouter allows people/companies to quickly switch APIs between LLM providers. All of them have real use cases (not toy problems or puzzles), they have their own private evals, and all of them have an incentive to get their choices right, so by choosing one LLM over another they are directly voting for some combo of capability+cost.</p>
+<p>I don't think OpenRouter is there just yet in both the quantity and diversity of use, but something of this kind I think has great potential to grow into a very nice, very difficult to game eval.</p>
+</blockquote>
+<p>I only recently learned about <a href="https://openrouter.ai/rankings?view=trending">these rankings</a> but I agree with Andrej: they reveal some interesting patterns that look to match my own intuitions about which models are the most useful (and economical) on which to build software. Here's a snapshot of their current "Top this month" table:</p>
+<p><img src="https://static.simonwillison.net/static/2025/openrouter-top-month.jpg" alt="Screenshot of a trending AI models list with navigation tabs &quot;Top today&quot;, &quot;Top this week&quot;, &quot;Top this month&quot; (selected), and &quot;Trending&quot;. The list shows ranked models: 1. Anthropic: Claude 3.7 Sonnet (1.21T tokens, ↑14%), 2. Google: Gemini 2.0 Flash (1.04T tokens, ↓17%), 3. OpenAI: GPT-4o-mini (503B tokens, ↑191%), 5. DeepSeek: DeepSeek V3 0324 (free) (441B tokens, ↑434%), 6. Quasar Alpha (296B tokens, new), 7. Meta: Llama 3.3 70B Instruct (261B tokens, ↓4%), 8. Google: Gemini 2.5 Pro Preview (228B tokens, new), 9. DeepSeek: R1 (free) (211B tokens, ↓29%), 10. Anthropic: Claude 3.7 Sonnet (thinking) (207B tokens, ↓15%), 11. DeepSeek: DeepSeek V3 0324 (200B tokens, ↑711%), 12. Google: Gemini 1.5 Flash 8B (165B tokens, ↑10%)." style="max-width: 100%;" /></p>
+<p>The one big weakness of this ranking system is that a single, high volume OpenRouter customer could have an outsized effect on the rankings should they decide to switch models. It will be interesting to see if OpenRouter can design their own statistical mechanisms to help reduce that effect.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/chatbot-arena">chatbot-arena</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/#atom-everything>
+
+---
+
+## Coalition for a Competitive Mobile Experience
+
+date: 2025-04-30, from: Michael Tsai
+
+Hartley Charlton: The &#8220;Coalition for a Competitive Mobile Experience&#8221; is a coordinated effort by [Meta, Spotify, Match Group, and Garmin] to influence federal and state legislation amid mounting pressure to implement digital safeguards for minors. The coalition intends to lobby lawmakers, engage with federal regulators, and support ongoing antitrust enforcement actions against Apple and Google.The [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/30/coalition-for-a-competitive-mobile-experience/>
+
+---
+
+## Whither Help Scout?
+
+date: 2025-04-30, from: Michael Tsai
+
+Daniel Jalkut (Mastodon): Over the past few weeks, many Help Scout customers have received notice that our plans will change to a new pricing model. Customers who haven&#8217;t received notice yet probably will soon. The new system is based on a rolling average of customer interactions. As they cleverly frame it: &#8220;the number of contacts [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/30/whither-help-scout/>
+
+---
+
+## Why Some Apps Sometimes Launch Extremely Slowly
+
+date: 2025-04-30, from: Michael Tsai
+
+Howard Oakley: I can now try to explain why some apps may launch extremely slowly, occasionally taking more than 30 seconds, and on some Macs several minutes. [&#8230;] Log entries don&#8217;t provide any information as to what SecTrustEvaluateIfNecessary is likely to perform on these frameworks that can take anything from 0.03-9.96 seconds for each framework. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/30/why-some-apps-sometimes-launch-extremely-slowly/>
+
+---
+
+## Jettison 1.9.2
+
+date: 2025-04-30, from: Michael Tsai
+
+St. Clair Software (tweet): The second big thing in this release is a change to accommodate macOS Sequoia 15.4&#8217;s increased security around ejecting disks when your login account doesn&#8217;t have administrator privileges. I&#8217;m not sure why Apple made this change, but errors saying &#8220;Higher privileges required by Jettison&#8221; began occurring in 15.4. So Jettison now [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/30/jettison-1-9-2/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-30, from: Feed for Alt USDS)
+
+From @reuters.com - “The Richmond, Virginia-based 4th U.S. Circuit Court of Appeals on a 9-6 vote declined to put on hold an injunction issued by a judge in Maryland who concluded the agency likely violated a federal privacy law by providing DOGE unlimited access to records.”
+
+@altssa.altgov.info 🙌🏼
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lo2qvptchk2q>
 
 ---
 
@@ -43,7 +396,7 @@ Marc Andreessen Says One Job Is Mostly Safe From AI: Venture Capitalist.
 
 date: 2025-04-30, from: The Markup blog
 
-With input from a Stanford lab, Common Sense Media concludes the AI systems can exacerbate problems like addition and self harm. 
+With input from a Stanford lab, Common Sense Media concludes the AI systems can exacerbate problems like addiction and self harm. 
 
 <br> 
 
@@ -357,6 +710,45 @@ I liked this funny and perceptive 5-minute film about AI, by Ari Frenkel. The mo
 <br> 
 
 <https://statusq.org/archives/2025/04/30/13116/>
+
+---
+
+## Summary of changes for April 2025
+
+date: 2025-04-30, from: Hundred Rabbits blog
+
+<p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of April.</p>
+
+<img src="https://100r.co/site/media/content/videos/april_2025.jpg" alt="little ninj, a plus ninja, is cleaning up the boat, wielding a mop " loading="lazy" width="1200" height="679">
+
+<ul>
+  <li><b>100r.co</b>, updated a href="https://100r.co/site/water.html">water</a>, a href="https://100r.co/site/ditch_bag.html">ditch bag</a>, <a href="https://100r.co/site/woodstove_installation.html#apr2025">woodstove installation</a>, and added new photos and information on <a href="https://100r.co/site/first_aid_kit.html">first-aid kit</a>.</li>
+  <li><b>a href="https://100r.co/site/rabbit_waves.html">Rabbit Waves</a></b>, updated <a href="https://rabbitwaves.ca/site/triangular_bandage.html" target="_blank">Triangular Bandages</a> with animated gifs, and <a href="https://rabbitwaves.ca/site/first_aid_kit.html" target="_blank">First-Aid kit</a> with new med suggestions (also appended a .txt list of meds and their intended use).</li>
+  <li><b><a href="https://kokorobot.ca/site/hakum.html" target="_blank">Hakum</a></b>, began a new comic sequence named <a href="https://kokorobot.ca/site/sabotage_study.html" target="_blank">Sabotage Study</a>(not yet completed).</li>
+  <li><b><a href="https://100r.co/site/orca.html">Orca</a></b>, modified the behavior of the lowercase-j operator to allow for jumpers to grow.</li>
+  <li><b><a href="https://wiki.xxiivv.com/site/solresol.html" target="_blank">Solresol</a></b>, improved the documentation.</li>
+  <li><b><a href="https://wiki.xxiivv.com/site/uxntal.html" target="_blank">Uxntal</a></b>, improved the documentation.</li>
+</ul>
+
+<p>The weather is getting warmer, which is perfect for airing out Pino's lockers, and drying off moldy clothes and tools. Anything stored in the v-berth lockers, below the waterline, suffer from extreme wetness. It is a very, very annoying fact of boat life, but there is really no way to bring good air flow in those spaces. We scrubbed the lockers clean, parted with items we no longer needed, and sent two laptops to the recycler.</p>
+
+<p>In last month's update, we mentioned Flickjam, a game jam based on Increpare's <a href="https://www.flickgame.org/index.html" target="_blank">Flickgame</a>. We received a total of <a href="https://itch.io/jam/flickjam-2025/entries" target="_blank">27 entries</a>! They're really fun, and all playable in the browser. <a href="https://itch.io/jam/flickjam-2025/rate/3445250" target="_blank">Devine's jam entry</a> is about a very adorable rabbit learning to play the word "rabbit" on a xylophone in <a href="https://wiki.xxiivv.com/site/solresol.html" target="_blank">Solresol</a>.</p>
+
+<p>Devine spent some time off the computer, <a href="https://wiki.xxiivv.com/site/skates.html" target="_blank">skating</a> and <a href="https://wiki.xxiivv.com/site/paper_logic.html" target="_blank">folding paper</a>. The <a href="https://wiki.xxiivv.com/site/paper_computer.html" target="_blank">paper computer</a> pages have been updated to cover some new ways in which computer emulators can be operated on paper. While on that subject, we highly recommend Tadashi Tokieda's excellent talk named <a href="https://www.youtube.com/watch?v=8p02DtmyQhU" target="_blank">A world from a sheet of paper</a>.</p>
+
+<p>Another item on Devine's list was to gradually phase out <a href="https://wiki.xxiivv.com/etc/uxnasm.c.txt" target="_blank">Uxnasm.c</a> in favor of the <a href="https://wiki.xxiivv.com/site/drifblim.html" target="_blank">self-hosted</a> assembler. We're not 100% pleased yet, but it is getting closer to retirement.</p>
+
+<p>Starting on May 20th 2025(1000 PST/PDT) the <a href="https://play.date/games/" target="_blank">Playdate Catalogue</a> will include {Oquonie}. The game is also available on our <a href="https://hundredrabbits.itch.io/" target="_blank">itch.io store</a>.</p>
+
+<p>The video for Devine's November 2024 talk <a href="https://100r.co/site/shining_sand.html">A Shining Place Built Upon The Sand</a> is now on <a href="https://youtu.be/EACF2VEpO3Q" target="_blank">YouTube</a>.</p>
+
+<p><b>Book Club:</b> This month we are reading <i>Banvard's Folly</i> by Paul Collins, <i>Einstein's Dreams</i> by Alan Lightman, and we are still making progress on the <i>The Goldfinch</i> by Donna Tartt.</p>
+
+<p><a href='https://100r.co/site/log.html#apr2025' target='_blank'>Continue Reading</a></p> 
+
+<br> 
+
+<https://100r.co/site/log.html#apr2025>
 
 ---
 

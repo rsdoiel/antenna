@@ -1,11 +1,329 @@
 ---
 title: pacific
-updated: 2025-04-30 14:08:54
+updated: 2025-05-01 06:07:34
 ---
 
 # pacific
 
-(date: 2025-04-30 14:08:54)
+(date: 2025-05-01 06:07:34)
+
+---
+
+## New warning sirens installed in Waikoloa Village
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>The monthly all-hazard warning siren test will include two sirens in Waikoloa Village for the first time this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/hawaii-news/new-warning-sirens-installed-in-waikoloa-village/>
+
+---
+
+## Vector control scheduled at Gilbert Kahele Recreation Area
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>The County of Hawaii Department of Parks &#038; Recreation announces that the Gilbert Kahele Recreation Area will be closed from 4 a.m. to noon on Tuesday, May 6 for vector control operations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/hawaii-news/vector-control-scheduled-at-gilbert-kahele-recreation-area/>
+
+---
+
+## Ex-FAA worker from Kona charged in child porn case
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>A 55-year-old former Federal Aviation Administration employee pleaded not guilty Monday to allegations that he received and possessed child pornography involving kids under the age of 12, according to federal court records.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/hawaii-news/ex-faa-worker-from-kona-charged-in-child-porn-case/>
+
+---
+
+## At Vietnam War Memorial, familiar names, old grief and a kind of peace
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; They began to arrive when the late-morning sun had risen above the trees, just as the black paving stones at the Vietnam Veterans Memorial had started to get hot. They were teenagers on school trips, and tourists out for a stroll, and veterans of several U.S. wars dressed in matching red T-shirts and red vests to identify them as members of a tour group from California.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/at-vietnam-war-memorial-familiar-names-old-grief-and-a-kind-of-peace/>
+
+---
+
+## Probable cause to try woman accused of strangling boyfriend, judge rules
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Three Hawaii Police Department officers and one civilian testified Wednesday during a preliminary hearing for 42-year-old Pahoa woman accused of fatally strangling her significant other with his car&#8217;s driver-side seatbelt.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/hawaii-news/probable-cause-to-try-woman-accused-of-strangling-boyfriend-judge-rules/>
+
+---
+
+## US economy shrank in first quarter, in reading clouded by messy trade data
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>The chaotic start to President Donald Trump&#8217;s second term roiled the economy at the beginning of the year, as consumers and businesses scrambled to react to a constant stream of tariff announcements and policy shifts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/us-economy-shrank-in-first-quarter-in-reading-clouded-by-messy-trade-data/>
+
+---
+
+## Where rhinestones meet the rodeo
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>THERMAL, Calif. &#8212; For many, the world of rodeo is steeped in tradition, with deep roots in American history. But for others, it can seem disconnected from contemporary cultural trends.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/where-rhinestones-meet-the-rodeo/>
+
+---
+
+## US Supreme Court conservatives signal support for milestone religious charter school
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Conservative U.S. Supreme Court justices signaled sympathy on Wednesday toward a bid led by two Catholic dioceses to establish in Oklahoma the nation&#8217;s first taxpayer-funded religious charter school in a major test of religious rights and the separation of church and state in American education.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/us-supreme-court-conservatives-signal-support-for-milestone-religious-charter-school/>
+
+---
+
+## News in brief for May 1
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>US signs deal with Ukraine &#0010;on access to mineral reserves</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/news-in-brief-for-may-1/>
+
+---
+
+## 11 high school lacrosse players face charges in hazing of teammates
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Eleven high school lacrosse players in Syracuse, New York, turned themselves in to authorities Wednesday in a hazing incident involving younger teammates that the district attorney said included a gun and a knife.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/11-high-school-lacrosse-players-face-charges-in-hazing-of-teammates/>
+
+---
+
+## Israel strikes in Syria, intervening in sectarian violence
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; Israel launched airstrikes on Syria on Wednesday and threatened to strike government forces there if clashes persisted between pro-government fighters and militiamen from the Druze minority.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/israel-strikes-in-syria-intervening-in-sectarian-violence/>
+
+---
+
+## Columbia student who was arrested at citizenship interview is freed
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Mohsen Mahdawi, an organizer of the pro-Palestinian movement at Columbia University, was freed from federal custody Wednesday as immigration officials seek to rescind his green card as part of a widening crackdown against student protesters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/columbia-student-who-was-arrested-at-citizenship-interview-is-freed/>
+
+---
+
+## Pakistan says intelligence suggests Indian military action likely soon
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>ISLAMABAD/SRINAGAR &#8212; Pakistan said on Wednesday it has &#8220;credible intelligence&#8221; that India intends to launch military action soon, as tensions between the nuclear-armed neighbours escalate following a deadly attack on tourists in Indian Kashmir.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/pakistan-says-intelligence-suggests-indian-military-action-likely-soon/>
+
+---
+
+## At least 4 die in Pennsylvania as storm leaves 400,000 without power
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>At least four people were killed in Pennsylvania on Tuesday and hundreds of thousands of customers were without power after severe weather that had torn across the High Plains and Upper Midwest this week pushed into the Northeast and Canada.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/at-least-4-die-in-pennsylvania-as-storm-leaves-400000-without-power/>
+
+---
+
+## US appeals court will not allow DOGE to access Social Security data
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>A divided federal appeals court rejected the Trump administration&#8217;s bid to lift an order blocking the U.S. Social Security Administration from giving the Elon Musk-spearheaded Department of Government Efficiency unfettered access to the data of millions of Americans. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/us-appeals-court-will-not-allow-doge-to-access-social-security-data/>
+
+---
+
+## Chinese factories slow in early sign of trade war’s toll
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s tariffs are already taking a toll on China&#8217;s factories.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/chinese-factories-slow-in-early-sign-of-trade-wars-toll/>
+
+---
+
+## US Senate rejects bill to rein in Trump tariffs as economy contracts
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; An evenly split U.S. Senate rejected the latest bipartisan bid to block President Donald Trump&#8217;s tariffs on Wednesday, hours after the federal government reported that the nation&#8217;s economy contracted for the first time in three years amid the chaos of the president&#8217;s tariff policies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/nation-world-news/us-senate-rejects-bill-to-rein-in-trump-tariffs-as-economy-contracts/>
+
+---
+
+## CMI celebrates 32 years
+
+date: 2025-05-01, from: Marshal Islands Journal
+
+<p>CMI marked its 32nd Foundation Day this week Monday at its Arrak Campus, which is soon to see expansion of its facilities. Among the activities were biit dancing and a cake cutting, which involved CMI student government President Wilmer Joel, CMI President Dr. David Newnham, President Hilda Heine, and Board of Regents Chairperson Meitaka Kendall [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/cmi-celebrates-32-years/">CMI celebrates 32 years</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/cmi-celebrates-32-years/>
+
+---
+
+## Guam: United's unique hub in the Pacific
+
+date: 2025-05-01, from: Pacific Island Times
+
+United previously operated its own flights to and from Guam in the 1990s, though now the airline would take on the bigger and more successful operation on the island. While based in Chicago on the U.S. mainland, United is considered the main airline of Guam and the neighboring islands. Several local residents are members of United's frequent flier program, and the Guam airport even has its own United Club. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-united-s-unique-hub-in-the-pacific>
+
+---
+
+## Dialysis opens in Majuro
+
+date: 2025-05-01, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Marshallese on dialysis treatment abroad now have the opportunity to return or visit home following the opening of the Majuro hospital Hemodialysis Center that took place Wednesday this week. For decades, Marshallese on referral treatment for kidney complications could not travel home because dialysis is required several times per week. “With the treatment [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/dialysis-opens-in-majuro/">Dialysis opens in Majuro</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/dialysis-opens-in-majuro/>
+
+---
+
+## Earn while you learn: Paid IT apprenticeships for UH Community College students
+
+date: 2025-05-01, from: University of Hawaiʻi News
+
+<p>Launch your <abbr>IT</abbr> career with hands-on training, certifications and a paycheck.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/30/paid-it-apprenticeships-for-uh-community-college-students/">Earn while you learn: Paid <abbr>IT</abbr> apprenticeships for <abbr>UH</abbr> Community College students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/30/paid-it-apprenticeships-for-uh-community-college-students/>
+
+---
+
+## Turtle tagging: Hands-on research for Hawaiʻi CC Marine Option Program students
+
+date: 2025-05-01, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr> students in Marine Option Program tag endangered sea turtles.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/30/hawaii-cc-mop-students-turtle-tagging/">Turtle tagging: Hands-on research for Hawaiʻi <abbr>CC</abbr> Marine Option Program students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/30/hawaii-cc-mop-students-turtle-tagging/>
+
+---
+
+## Book launch celebrates roots of Pacific Literature
+
+date: 2025-04-30, from: University of the South Pacific (Fiji)
+
+<p>A book documenting the emergence of Pacific writing at USP in the 1970s and 1980s...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/book-launch-celebrates-roots-of-pacific-literature/">Book launch celebrates roots of Pacific Literature</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/book-launch-celebrates-roots-of-pacific-literature/>
 
 ---
 
@@ -62,33 +380,9 @@ The post <a href="https://www.hawaii.edu/news/2025/04/30/image-of-the-week-2025-
 
 ---
 
-## BMV closed on May 2 for REAL ID training
-
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
-
-THE Department of Public Safety’s Bureau of Motor Vehicles will be closed on May 2 for REAL ID training. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/bmv-closed-on-may-2-for-real-id-training/article_e46af5ea-5286-4c44-9b7d-a91a71257fdd.html>
-
----
-
-## Federal court approves sale of IPI assets to Team King
-
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
-
-FOLLOWING a stipulation from the parties that resolved the objection of the CNMI government and Joshua Gray, District Court for the NMI Bankruptcy Judge Robert J. Faris approved the sale of Imperial Pacific International’s assets to the successful bidder, Team King Investment, on Tuesday, April 29. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/federal-court-approves-sale-of-ipi-assets-to-team-king/article_a26209a0-fd20-49fd-a187-8bfa6ed2d839.html>
-
----
-
 ## Enter the My Mom's Story contest to win a great prize package for your mom
 
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
 
 THE May 4 deadline to participate in Marianas Variety’s My Mom’s Story contest is fast approaching. 
 
@@ -100,7 +394,7 @@ THE May 4 deadline to participate in Marianas Variety’s My Mom’s Story conte
 
 ## Trump eases auto tariffs burden as Lutnick touts first foreign trade deal
 
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
 
 WASHINGTON/DETROIT (Reuters) — President Donald Trump signed a pair of orders to soften the blow of his auto tariffs on Tuesday with a mix of credits and relief from other levies on materials, and his trade team touted its first deal with a foreign trading partner. 
 
@@ -112,13 +406,97 @@ WASHINGTON/DETROIT (Reuters) — President Donald Trump signed a pair of orders 
 
 ## Joint panel OKs bill to take away CUC’s share of driver’s license fee
 
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
 
 THE House and Senate Public Utilities, Transportation and Communications committees on Wednesday agreed to include on the House’s next session calendar House Bill 24-3, which proposes to redistribute to the Department of Public Works and the Bureau of Motor Vehicles the 10% of driver’s license fee collections allocated for the Commonwealth Utilities Corp. 
 
 <br> 
 
 <https://www.mvariety.com/news/local/joint-panel-oks-bill-to-take-away-cuc-s-share-of-driver-s-license-fee/article_d1ebc5f4-f1a2-4521-a16c-6cdd2c8e8db4.html>
+
+---
+
+## Trump touts economy at Michigan 100-day rally, as Americans grow wary
+
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
+
+WARREN, Michigan (Reuters) — President Donald Trump touted what he called a series of major economic wins and forcefully attacked Democrats during a rally in Michigan on Tuesday, as polling showed Americans growing more skeptical of his hardline approaches on trade and immigration. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-touts-economy-at-michigan-100-day-rally-as-americans-grow-wary/article_9ba38514-31a6-49c9-abdd-db3e567dbe0c.html>
+
+---
+
+## Mellon Foundation announces $15M emergency funding for humanities councils, including up to $250,000 for NMI
+
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
+
+ON April 29, 2025, the Mellon Foundation announced a $15 million emergency funding commitment to the Federation of State Humanities Councils in response to federal funding cuts that have devastated state humanities councils. This emergency funding will help provide support to all 56 state and jurisdictional humanities councils across the United States, including up to $250,000 for the Northern Marianas Humanities Council. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mellon-foundation-announces-15m-emergency-funding-for-humanities-councils-including-up-to-250-000-for/article_482ba8ac-73cb-4e7d-8138-da7266243536.html>
+
+---
+
+## Red flag on Managaha
+
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha's recreational beaches this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flag-on-managaha/article_453a2324-589b-456c-a8d9-172660d1ea71.html>
+
+---
+
+## Guam delegate urges restoration of SBA office
+
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Delegate James Moylan is urging Kelly Loeffler, the administrator of the U.S. Small Business Administration, to quickly work to restore operations at the Guam SBA office. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-delegate-urges-restoration-of-sba-office/article_73f001cf-d02b-476a-86a3-b586883d2ead.html>
+
+---
+
+## AG Manibusan urges US Congress to keep in place critical legal services
+
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
+
+(Office of the Attorney General) — Attorney General Edward Manibusan, joined by a bipartisan group of 39 other attorneys general across the country, is urging Congress to keep in place critical funding for the Legal Services Corporation or LSC. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ag-manibusan-urges-us-congress-to-keep-in-place-critical-legal-services/article_08a10462-c3b5-45db-9a0d-56cf2b36a393.html>
+
+---
+
+## BMV closed on May 2 for REAL ID training
+
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
+
+THE Department of Public Safety’s Bureau of Motor Vehicles will be closed on May 2 for REAL ID training. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/bmv-closed-on-may-2-for-real-id-training/article_e46af5ea-5286-4c44-9b7d-a91a71257fdd.html>
+
+---
+
+## Federal court approves sale of IPI assets to Team King
+
+date: 2025-04-30, updated: 2025-05-01, from: Marianas Variety
+
+FOLLOWING a stipulation from the parties that resolved the objection of the CNMI government and Joshua Gray, District Court for the NMI Bankruptcy Judge Robert J. Faris approved the sale of Imperial Pacific International’s assets to the successful bidder, Team King Investment, on Tuesday, April 29. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/federal-court-approves-sale-of-ipi-assets-to-team-king/article_a26209a0-fd20-49fd-a187-8bfa6ed2d839.html>
 
 ---
 
@@ -131,54 +509,6 @@ DUE to “unprecedented business losses,” Kensington Hotel Saipan will impleme
 <br> 
 
 <https://www.mvariety.com/news/local/kensington-cuts-jobs/article_fe0d12c1-2c60-44b3-8cea-c3b01e271236.html>
-
----
-
-## Trump touts economy at Michigan 100-day rally, as Americans grow wary
-
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
-
-WARREN, Michigan (Reuters) — President Donald Trump touted what he called a series of major economic wins and forcefully attacked Democrats during a rally in Michigan on Tuesday, as polling showed Americans growing more skeptical of his hardline approaches on trade and immigration. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/trump-touts-economy-at-michigan-100-day-rally-as-americans-grow-wary/article_9ba38514-31a6-49c9-abdd-db3e567dbe0c.html>
-
----
-
-## Mellon Foundation announces $15M emergency funding for humanities councils, including up to $250,000 for NMI
-
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
-
-ON April 29, 2025, the Mellon Foundation announced a $15 million emergency funding commitment to the Federation of State Humanities Councils in response to federal funding cuts that have devastated state humanities councils. This emergency funding will help provide support to all 56 state and jurisdictional humanities councils across the United States, including up to $250,000 for the Northern Marianas Humanities Council. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/mellon-foundation-announces-15m-emergency-funding-for-humanities-councils-including-up-to-250-000-for/article_482ba8ac-73cb-4e7d-8138-da7266243536.html>
-
----
-
-## Red flag on Managaha
-
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
-
-THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha's recreational beaches this week. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/red-flag-on-managaha/article_453a2324-589b-456c-a8d9-172660d1ea71.html>
-
----
-
-## Guam delegate urges restoration of SBA office
-
-date: 2025-04-30, updated: 2025-04-30, from: Marianas Variety
-
-HAGÅTÑA (The Guam Daily Post) — Delegate James Moylan is urging Kelly Loeffler, the administrator of the U.S. Small Business Administration, to quickly work to restore operations at the Guam SBA office. 
-
-<br> 
-
-<https://www.mvariety.com/news/regional_world/guam-delegate-urges-restoration-of-sba-office/article_73f001cf-d02b-476a-86a3-b586883d2ead.html>
 
 ---
 
@@ -417,6 +747,20 @@ date: 2025-04-30, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/30/nation-world-news/trump-eases-auto-tariffs-burden-as-lutnick-touts-first-foreign-trade-deal/>
+
+---
+
+## Input sought on State Wildlife Action Plan
+
+date: 2025-04-30, from: Hawaii Tribune Harold
+
+
+				<p>The agencies charged with protecting Hawaii&#8217;s ecosystems are seeking public input through the month of May on the 2025 State Wildlife Action Plan, an in-depth document detailing the state&#8217;s most vulnerable native species. The plan will be used to guide conservation efforts and funding access.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/30/hawaii-news/input-sought-on-state-wildlife-action-plan/>
 
 ---
 

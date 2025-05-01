@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2025-04-30 14:08:57
+updated: 2025-05-01 06:07:37
 ---
 
 # writing
 
-(date: 2025-04-30 14:08:57)
+(date: 2025-05-01 06:07:37)
+
+---
+
+## Issue 772 Table of Contents, May 2025
+
+date: 2025-05-01, from: Locus Magazine
+
+<p>The May 2025 issue of Locus has interviews with Guy Gavriel Kay and Rita Woods and a spotlight on agent Lee O’Brien. News includes the 2025 Hugo Awards Ballot, Nicola Griffith&#8217;s induction as a SFWA Grand Master, Samantha Mills&#8217;s Compton Crook Award win, the BSFA Awards shortlist, the HWA Lifetime Achievement recipients, and more. Photo reports cover the International Conference on the Fantastic in the Arts, the Writers &#38; Illustrators  <a href="https://locusmag.com/2025/05/issue-772-table-of-contents-may-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/issue-772-table-of-contents-may-2025/>
+
+---
+
+## Lessons from the 9 Films of Charlie Kaufman
+
+date: 2025-04-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/lessons-from-the-9-films-of-charlie-kaufman" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Being%20John%20Malkovich.jpg" alt="Lessons from the 9 Films of Charlie Kaufman" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>If you were to survey the new voices of American cinema across smaller, auteur-driven outfits like A24 and Neon, there’s one pervading influence that seems to crop up more than any other, that of writer/director Charlie Kaufman. The New York-born filmmaker made his name writing scripts that used absurdist, comic premises to grapple with the personal anxieties and neuroses he experienced in mundane everyday life, oftentimes exploring the blurry line between performance and reality. The earliest of these films were lent a whimsical visual style by such inventive music video directors as Spike Jonze and Michel Gondry, before Kaufman eventually took the directorial reins himself, resulting in a darker, rawer expression.&nbsp;<br><br>A quarter century on from Kaufman’s debut feature film, <a href="https://www.imdb.com/title/tt0120601/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_being%2520john%2520malkovich"><em>Being John Malkovich</em></a>, his style still echoes prevalently in contemporary works as diverse as The Daniels’ Oscar-winning <span style="font-style: italic;">Everything Everywhere All At Once</span>, Boots Riley’s <span style="font-style: italic;">Sorry To Bother You</span>, Ari Aster’s <span style="font-style: italic;">Beau Is Afraid</span>, Kristofer Borgli’s <span style="font-style: italic;">Dream Scenario</span>, Aaron Schimberg’s Oscar-nominated <span style="font-style: italic;">A Different Man</span>, and the dark comic works of Yorgos Lanthimos. Even Apple TV’s <span style="font-style: italic;">Severance</span> and sci-fi romances like <span style="font-style: italic;">Palm Springs</span> and Jonze’s own screenplay for <span style="font-style: italic;">Her</span>, owe a debt to Kaufman’s unique voice.&nbsp;<br><br>In studying his career, one can trace how Kaufman developed and fought hard to stay true to his weird, distinct sensibility in a system increasingly averse to originality, from struggling sitcom writer, to inventive screenwriter-for-hire, and finally, to a singular filmmaker who would influence a generation. &nbsp;<a href="https://www.imdb.com/title/tt0120601/?ref_=nv_sr_srsg_0_tt_6_nm_0_in_0_q_being%2520john%2520malkovich" style="font-style: italic;"></a></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/lessons-from-the-9-films-of-charlie-kaufman>
 
 ---
 

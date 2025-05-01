@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-04-30 14:08:55
+updated: 2025-05-01 06:07:35
 ---
 
 # science and technology
 
-(date: 2025-04-30 14:08:55)
+(date: 2025-05-01 06:07:35)
+
+---
+
+## NASA probes propulsion problem in Psyche's thrusters
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>Mission to a metal asteroid lacks xenon pressure</h4> <p>NASA is looking into propulsion problems experienced by a probe on its way to orbit the asteroid Psyche.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/nasa_psyche_suffers_propulsion_problem/>
+
+---
+
+## Google details plans for 1 MW IT racks exploiting electric vehicle supply chain
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>Switching voltage allows search giant to switch up power delivery system</h4> <p>Google is planning for datacenter racks supporting 1 MW of IT hardware loads, plus the cooling infrastructure to cope, as AI processing continues to grow ever more energy intensive.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/google_details_plans_for_1/>
+
+---
+
+## Linux in Excel? Sure, why not ruin both
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>The spreadsheet from Hell</h4> <p>From the department of &#34;but… why?&#34; comes news of Linux running in Microsoft Excel, although all might not be as it seems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/linux_in_microsoft_excel/>
+
+---
+
+## Data watchdog will leave British Library alone – further probes 'not worth our time'
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>No MFA? No problem – as long as you show you’ve learned your lesson</h4> <p>The UK&#39;s data protection overlord is not going to pursue any further investigation into the British Library&#39;s 2023 ransomware attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/ico_brit_library/>
+
+---
+
+## May’s Night Sky Notes: How Do We Find Exoplanets?
+
+date: 2025-05-01, from: NASA breaking news
+
+Astronomers have been trying to discover evidence that worlds exist around stars other than our Sun since the 19th century. By the mid-1990s, technology finally caught up with the desire for discovery and led to the first discovery of a planet orbiting another sun-like star, Pegasi 51b. Why did it take so long to discover these […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/may2025-night-sky-notes/>
+
+---
+
+## AI software development: Productivity revolution or fraught with risk?
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>We look at the state of AI software development – it&#39;s not going away, but risks abound</h4> <p><strong>Analysis</strong>  AI in software development has evolved rapidly since GitHub Copilot caught the world&#39;s attention with its June 2021 preview – and shows no sign of slowing down.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/ai_software_development_productivity_revolution/>
+
+---
+
+## HMRC's Making Tax Digital scheme also made tax more expensive – by £300M
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>Watchdog says transformation effort added costs instead of savings for most businesses</h4> <p>The UK tax authority&#39;s push to digitize services has backfired, saddling taxpayers with hundreds of millions in extra costs, according to a report by Parliament&#39;s public spending watchdog.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/hmrc_making_tax_digital/>
+
+---
+
+## Microsoft tries to kill the 'pausing datacenter builds must be bad news for AI' trope
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>Sees economic strife as chance to sell even more stuff than its $70bn Q3 haul</h4> <p>Microsoft’s capital expenditure was slightly lower than forecast, in part due to “normal variability from the timing of delivery of data center leases” that the company was at pains to argue are not in any way bad news.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/microsoft_q3_2025/>
+
+---
+
+## KDE 3 lives to fight another day as Trinity Desktop 14.1.4 hits the shelves
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>Good news, everyone: 15 years on, TDE still pushes pixels</h4> <p>The long-running fork of KDE 3 has dropped its latest update: Trinity Desktop Environment R14.1.4, now with better distro support and a fresh coat of code. Not bad for a project still chugging along 15 years after KDE itself moved on.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/trinity_desktop_14_1_4/>
+
+---
+
+## Samsung customers buying now to avoid future tariffs – and may slow purchases once they arrive
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>Datacenter build slowdown hurt storage sales but Korean giant sees bit barn rebound</h4> <p>Samsung yesterday posted results a little better than it forecast, and attributed some of its record revenue and strong profit to customers rushing to buy kit before the USA raises tariffs on imports.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/samsunug_q1_2025/>
+
+---
+
+## Cook'd: Judge says Apple lied to court in Epic case, asks Feds to mull criminal charges
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>CEO, senior execs ‘at every turn chose the most anti-competitive option’</h4> <p>A federal judge has said Apple execs deliberately ignored an injunction and told lies in court – and so has asked US prosecutors to consider criminal charges against the iPhone titan.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/apple_epic_lies_possible_crime/>
+
+---
+
+## Sols 4525-4526: The Day After Groundhog Day (Between Ghost Mountain and Texoli, Headed South)
+
+date: 2025-05-01, from: NASA breaking news
+
+Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Monday, April 28, 2025 Curiosity is back on the road! For sols 4525 and 4526, we have an isolated nominal plan in which the communication pass timing works out in such a way that the rover can fit in fully […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4525-4526-the-day-after-groundhog-day-between-ghost-mountain-and-texoli-headed-south/>
+
+---
+
+## Anthropic calls for tougher GPU export controls as Nvidia's CEO implores Trump to spread the AI love
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>This couldn&#39;t possibly be about Chinese model builders taking some of the shine off US rivals, could it?</h4> <p><strong>+Comment</strong>  Anthropic has urged the White House to further tighten so-called AI diffusion rules – which are already set to hurt Nvidia and co by limiting or blocking the sale of higher-end GPUs and accelerators outside the US and a select few allies from mid-May.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/anthropic_limit_gpus/>
+
+---
+
+## Ex-NSA cyber-boss: AI will soon be a great exploit coder
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>For now it&#39;s a potential bug-finder and friend to defenders</h4> <p><strong>RSAC</strong>  Former NSA cyber-boss Rob Joyce thinks today&#39;s artificial intelligence is dangerously close to becoming a top-tier vulnerability exploit developer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/exnsa_cyber_boss_ai_expoit_dev/>
+
+---
+
+## NASA STEM Programs Ignite Curiosity Beyond the Classroom
+
+date: 2025-04-30, from: NASA breaking news
+
+When curiosity takes flight, learning knows no bounds. The impact of supporting STEM education extends far beyond the classroom, shaping the future of innovation and exploration. NASA Engages is the agency’s outreach website that connects NASA experts and resources with communities, educators, and students across the country. Led by NASA’s Office of STEM Engagement, the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-stem-programs-ignite-curiosity-beyond-the-classroom/>
+
+---
+
+## Sculpt OS 25.04 released
+
+date: 2025-04-30, from: OS News
+
+Sculpt OS 25.04 has been released, and with it come a number of very welcome and important improvements. What most users will care about the most is the updated version of the Falkon web browser, built atop Qt 6.2.2 and its accompanying qtwebengine release, which in turn is using version 112 of the Chromium engine. Aside from this major improvement, there&#8217;s two other things that stand out: Usability-wise, the new version comes with two highly anticipated features. First, building upon the multi-monitor support added with the previous release, the new version takes multi-monitor awareness to the window management level, allowing for the flexible assignment of virtual desktops to physical displays, adding new window-manipulation conveniences, and supporting rotated displays. Second, a new directory browser allows the user to interactively assign arbitrary directories as file systems to components, vastly easing the fine-grained sandboxing of subsystems. ↫ Sculpt OS 25.04 release announcement Sculpt OS 25.04 also inherits the improvements of recent Genode Framework releases, such as support for Intel&#8217;s Meteor-Lake hardware. Sculpt OS is available for PC, the PinePhone, and the MNT Reform laptop. 
+
+<br> 
+
+<https://www.osnews.com/story/142252/sculpt-os-25-04-released/>
+
+---
+
+## Musk’s DOGE probed by top watchdog after poking around Uncle Sam's systems
+
+date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+
+<h4>Oligarch&#39;s crew makes audits harder, US comptroller general tells Congress</h4> <p>The US Government Accountability Office has confirmed it launched audits of Elon Musk&#39;s Trump-blessed cost-trimming DOGE unit amid concerns that its access to agency systems may be complicating oversight and involving sensitive data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/30/doge_goa_probe/>
+
+---
+
+## Saxophone in Space
+
+date: 2025-04-30, from: NASA breaking news
+
+In this photo taken on Feb. 8, 1984, NASA astronaut Ronald E. McNair plays his saxophone while off-duty during the STS-41B mission. He and fellow crew members Vance D. Brand, Robert L. Gibson, Robert L. Stewart, and Bruce McCandless II launched on the space shuttle Challenger from NASA’s Kennedy Space Center in Florida on Feb. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/saxophone-in-space/>
 
 ---
 
@@ -18,6 +234,18 @@ Time for another story from Raymond Chen, about why, in Windows 7, logging in to
 <br> 
 
 <https://www.osnews.com/story/142250/why-did-windows-7-for-a-few-months-log-on-slower-if-you-have-a-solid-color-background/>
+
+---
+
+## The Universe’s Brightest Lights Have Some Dark Origins
+
+date: 2025-04-30, from: NASA breaking news
+
+Did you know some of the brightest sources of light in the sky come from the regions around black holes in the centers of galaxies? It sounds a little contradictory, but it’s true! They may not look bright to our eyes, but satellites have spotted oodles of them across the universe.  One of those satellites […] 
+
+<br> 
+
+<https://science.nasa.gov/universe/the-universes-brightest-lights-have-some-dark-origins/>
 
 ---
 
@@ -251,7 +479,7 @@ AI researchers are using techniques inspired by neuroscience to study how langua
 
 ## Microsoft gets twitchy over talk of Europe's tech independence
 
-date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+date: 2025-04-30, updated: 2025-05-01, from: The Register (UK I.T. News)
 
 <h4>Brad Smith commits org to facing off with US govt in court to protect them</h4> <p>Microsoft is responding to mounting &#34;geopolitical and trade volatility&#34; between the US administration and governments in Europe by pledging privacy safeguards for customers worried about using American hyperscalers, and vowing to fight the US government in court to protect Euro customers&#39; data if needed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -695,7 +923,7 @@ date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
 
 ## 808 lines of BBC BASIC and a dream: Arm architecture turns 40
 
-date: 2025-04-29, updated: 2025-04-29, from: The Register (UK I.T. News)
+date: 2025-04-29, updated: 2025-05-01, from: The Register (UK I.T. News)
 
 <h4>&#39;We thought it was a really obvious way to build a processor and everybody would be doing it&#39;</h4> <p>It is 40 years since the first Arm processor was powered up, and the UK&#39;s Centre for Computing History (CCH) celebrated in style, with speakers to mark the event, hardware on show, and a countdown to the anniversary.…</p> 
 

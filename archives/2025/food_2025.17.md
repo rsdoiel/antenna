@@ -1,11 +1,129 @@
 ---
 title: food
-updated: 2025-04-30 14:09:02
+updated: 2025-05-01 06:07:42
 ---
 
 # food
 
-(date: 2025-04-30 14:09:02)
+(date: 2025-05-01 06:07:42)
+
+---
+
+## Keep Your Calendar Full With The Sprudge Coffee Events Calendar
+
+date: 2025-05-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Keep the party rolling. 
+
+<br> 
+
+<https://sprudge.com/keep-your-calendar-full-with-the-sprudge-coffee-events-calendar-325214.html>
+
+---
+
+## Taco Chopped Cheese Sandwich
+
+date: 2025-05-01, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/04/Taco-Chopped-Cheese-Sandwich-1200-7682.jpg"/></div>
+<p>Taco themed chopped cheese sandwiches! A tasty twist on a classic! Chopped cheese sandwiches (link) are a classic where ground beef is pressed onto the grill, seasoned, let to caramelize before flipping, and chopping, before topping with cheese and sliding it into a bun with lettuce, tomato and mayo. This is a slightly different, taco...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/taco-chopped-cheese-sandwich/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/taco-chopped-cheese-sandwich/">Taco Chopped Cheese Sandwich</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/taco-chopped-cheese-sandwich/>
+
+---
+
+## The Best Cordless Vacuum (2025) is the Only Floor Cleaning Device You Need
+
+date: 2025-05-01, from: Bon Appetet
+
+After four years of testing, we’ve found a versatile, space-saving device that does it all. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cordless-vacuum-cleaners>
+
+---
+
+## The Best Granola Brands, According to Bon Appétit Editors (2025)
+
+date: 2025-04-30, from: Bon Appetet
+
+Nutty, grain-free, sweet, or savory—we’ve got a granola pick for you. 
+
+<br> 
+
+<https://www.bonappetit.com/story/editors-best-granola-brands>
+
+---
+
+## Lucy Wang’s Zongzi
+
+date: 2025-04-30, from: Taste of Home
+
+This traditional Chinese dish ties back to a true story of a beloved poet named Qu Yuan who was wrongfully accused of treason. People commemorate him each year on the fifth day of the fifth month on the Lunar calendar (usually toward the end of May or June), with dragon boat festivities and these bamboo leaves stuffed with sticky rice and pork belly. Cook a ton of these in advance and keep them in a zip-top bag in the freezer. Thaw them in the fridge overnight and microwave for two minutes in the leaves, or boil them for 10 to 15 minutes directly from the freezer. You can get the leaves on Amazon. Everything else can be found at a local Asian market like HMart. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-zongzi/>
+
+---
+
+## This Is What Vogue Editor-in-Chief Anna Wintour Eats for Lunch Every Day
+
+date: 2025-04-30, from: Taste of Home
+
+<p>The Vogue chief takes a famously regimented approach to her life, and her lunch order is no exception.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/anna-wintour-lunch-order/">This Is What Vogue Editor-in-Chief Anna Wintour Eats for Lunch Every Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/anna-wintour-lunch-order/>
+
+---
+
+## If You Get a Costco Scam Email, You Need to Do This Immediately
+
+date: 2025-04-30, from: Taste of Home
+
+<p>Did you open a fishy-looking email from Costco? You're not alone.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-scam-email/">If You Get a Costco Scam Email, You Need to Do This Immediately</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-scam-email/>
+
+---
+
+## PrimeVent LLC Formation: A New Era In Coffee Degassing Technology
+
+date: 2025-04-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. PrimeVent is a stand-alone company dedicated to advancing coffee degassing technology. 
+
+<br> 
+
+<https://sprudge.com/primevent-llc-formation-a-new-era-in-coffee-degassing-technology-325242.html>
+
+---
+
+## KFC’s Chicken and Waffles Are Back—Here’s Our Honest Review
+
+date: 2025-04-30, from: Taste of Home
+
+<p>The chain brought this legendary menu item back after a five-year break.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kfc-chicken-and-waffles/">KFC’s Chicken and Waffles Are Back—Here’s Our Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kfc-chicken-and-waffles/>
 
 ---
 
@@ -307,7 +425,7 @@ date: 2025-04-29, from: Taste of Home
 
 date: 2025-04-29, from: Taste of Home
 
-Weekends are busy, so give yourself a break from time-consuming brunch recipes and make this three-ingredient french toast. It's so good, I even make it on special days. —Tyler Smith, Virginia Beach, Virginia 
+Weekends are busy, so give yourself a break from time-consuming brunch recipes and make this three-ingredient French toast. It's so good, I even make it on special days. —Tyler Smith, Virginia Beach, Virginia 
 
 <br> 
 

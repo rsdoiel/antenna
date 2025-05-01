@@ -1,11 +1,158 @@
 ---
 title: small papers
-updated: 2025-04-30 14:09:02
+updated: 2025-05-01 06:07:43
 ---
 
 # small papers
 
-(date: 2025-04-30 14:09:02)
+(date: 2025-05-01 06:07:43)
+
+---
+
+## Jóvenes Latinos de Fabricación de Piedra en el Noreste del Valle Están Luchando Contra la Silicosis
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250425_Daniel-Aguilar-Morales_SN_09-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta es la parte 4 de una serie sobre la silicosis. Durante 22 años, Daniel Aguilar Morales cortó encimeras de piedra cinco o seis días a la semana en B [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/jovenes-latinos-de-fabricacion-de-piedra-en-el-noreste-del-valle-estan-luchando-contra-la-silicosis/">Jóvenes Latinos de Fabricación de Piedra en el Noreste del Valle Están Luchando Contra la Silicosis</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/jovenes-latinos-de-fabricacion-de-piedra-en-el-noreste-del-valle-estan-luchando-contra-la-silicosis/>
+
+---
+
+## ¿Está Amenazada la Ley STOP del la Senadora Menjívar?
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250407_Fabrication-Shops_SN_08-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El Proyecto de Ley Senatorial (SB) 20, la Ley de Capacitación, Divulgación y Prevención de la Silicosis (STOP, por sus siglas en inglés), introducida por la Senadora Estatal Caroline Menjivar [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/esta-amenazada-la-ley-stop-del-la-senadora-menjivar/">¿Está Amenazada la Ley STOP del la Senadora Menjívar?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/esta-amenazada-la-ley-stop-del-la-senadora-menjivar/>
+
+---
+
+## Horóscopo
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Los picos y valles de la experiencia revelan nuestro carácter: nuestra gracia cuando estamos volando, nuestra determinación cuando [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/horoscopo-212/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/horoscopo-212/>
+
+---
+
+## Los Primeros 100 Días de Donald Trump en el Cargo Son ‘Desastrosos’
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p> Por el Senador de los Estados Unidos Alex Padilla Donald Trump ha supervisado los peores primeros 100 días de cualquier presidente en la historia moderna. En solo 100 días, Trump [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/los-primeros-100-dias-de-donald-trump-en-el-cargo-son-desastrosos/">Los Primeros 100 Días de Donald Trump en el Cargo Son ‘Desastrosos’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/los-primeros-100-dias-de-donald-trump-en-el-cargo-son-desastrosos/>
+
+---
+
+## Estas son las Cifras que han Definido los Primeros 100 Días del Segundo Mandato de Trump
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Josh BoakAssociated Press WASHINGTON (AP) — El presidente estadounidense Donald Trump ha dedicado los primeros 100 días de su regreso a la Casa Blanca a realizar un trabajo de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/estas-son-las-cifras-que-han-definido-los-primeros-100-dias-del-segundo-mandato-de-trump/">Estas son las Cifras que han Definido los Primeros 100 Días del Segundo Mandato de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/estas-son-las-cifras-que-han-definido-los-primeros-100-dias-del-segundo-mandato-de-trump/>
+
+---
+
+## Angelinos Protestan los Despidos que se Esperan Tras el Presupuesto Propuesto por la Alcaldesa Bass
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250425_200554527-scaled-e1746077793390.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250425_200554527-scaled-e1746077793390.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250425_200554527-scaled-e1746077793390.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250425_200554527-scaled-e1746077793390.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250425_200554527-scaled-e1746077793390.jpg?fit=1024%2C771&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En su discurso sobre el estado de la ciudad del 21 de abril, la alcaldesa de Los Ángeles, Karen Bass, anunció que propondría despidos en su propuesta presupuestaria ante un [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/angelinos-protestan-los-despidos-que-se-esperan-tras-el-presupuesto-propuesto-por-la-alcaldesa-bass/">Angelinos Protestan los Despidos que se Esperan Tras el Presupuesto Propuesto por la Alcaldesa Bass</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/angelinos-protestan-los-despidos-que-se-esperan-tras-el-presupuesto-propuesto-por-la-alcaldesa-bass/>
+
+---
+
+## La Congresista Luz Rivas Celebra Reunión en el Ayuntamiento
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/003-1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Una multitud vocal de electores se reunió en East Valley High School en North Hollywood el fin de semana pasado para el primer evento del Ayuntamiento de la congresista Luz [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/la-congresista-luz-rivas-celebra-reunion-en-el-ayuntamiento/">La Congresista Luz Rivas Celebra Reunión en el Ayuntamiento</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/la-congresista-luz-rivas-celebra-reunion-en-el-ayuntamiento/>
+
+---
+
+## El Área Metropolitana de Los Ángeles Amplía el Programa Piloto de Detección de Armas al Centro de Los Ángeles y Norwalk
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/2G3A6882-scaled-e1746077542331.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/2G3A6882-scaled-e1746077542331.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/2G3A6882-scaled-e1746077542331.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/2G3A6882-scaled-e1746077542331.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/2G3A6882-scaled-e1746077542331.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para reducir los delitos violentos en el sistema ferroviario de Metro de Los Ángeles, un programa piloto con tecnología de detección de armas se amplió esta semana a dos ubicaciones [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/el-area-metropolitana-de-los-angeles-amplia-el-programa-piloto-de-deteccion-de-armas-al-centro-de-los-angeles-y-norwalk/">El Área Metropolitana de Los Ángeles Amplía el Programa Piloto de Detección de Armas al Centro de Los Ángeles y Norwalk</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/el-area-metropolitana-de-los-angeles-amplia-el-programa-piloto-de-deteccion-de-armas-al-centro-de-los-angeles-y-norwalk/>
+
+---
+
+## La Inauguración de un Mural Celebra la Historia de las Colinas de Granada por su Próximo 100 Aniversario
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="684" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?w=1616&amp;ssl=1 1616w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=1536%2C1027&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=1200%2C802&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=780%2C521&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?resize=706%2C472&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/IMG_20250428_115903.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En 1881, uno de los fundadores de la ciudad de San Fernando, George Porter, adquirió tierras en el norte del Valle de San Fernando que se utilizarían principalmente para la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/la-inauguracion-de-un-mural-celebra-la-historia-de-las-colinas-de-granada-por-su-proximo-100-aniversario/">La Inauguración de un Mural Celebra la Historia de las Colinas de Granada por su Próximo 100 Aniversario</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/la-inauguracion-de-un-mural-celebra-la-historia-de-las-colinas-de-granada-por-su-proximo-100-aniversario/>
+
+---
+
+## Trump Marks his First 100 Days in Office in Campaign Mode, Focused on Grudges and Grievances
+
+date: 2025-05-01, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25119803552291-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Will Weissert, Joey Cappelletti and Seung Min Kim Associated Press WARREN, Mich. (AP) — President Donald Trump on Tuesday celebrated the 100th day of his second term — yet spent [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/30/trump-marks-his-first-100-days-in-office-in-campaign-mode-focused-on-grudges-and-grievances/">Trump Marks his First 100 Days in Office in Campaign Mode, Focused on Grudges and Grievances</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/30/trump-marks-his-first-100-days-in-office-in-campaign-mode-focused-on-grudges-and-grievances/>
 
 ---
 

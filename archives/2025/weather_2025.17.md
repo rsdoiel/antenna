@@ -1,23 +1,94 @@
 ---
 title: weather
-updated: 2025-04-30 14:08:57
+updated: 2025-05-01 06:07:37
 ---
 
 # weather
 
-(date: 2025-04-30 14:08:57)
+(date: 2025-05-01 06:07:37)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2025-04-30, from: Eastern Pacific Basin GIS Data
+date: 2025-05-01, from: Central Pacific Basin Tropical Cyclones
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Thu May  1 12:18:02 UTC 2025
+
+date: 2025-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu May  1 12:18:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu May  1 12:18:02 UTC 2025
+
+date: 2025-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu May  1 12:18:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC May 1, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0355 AM CDT Thu May 01 2025
+
+Valid 041200Z - 091200Z
+
+...DISCUSSION...
+High pressure will dominate much of the eastern CONUS at the start
+of the extended period. This will shift most moisture into the
+Atlantic/Gulf of America. The only exception will be across Texas
+where east-southeasterly flow will advect richer low-level moisture
+into the southern High Plains. This will be the focus for any
+potential severe storms on Day 4/Sun and Day 5/Mon. However,
+specific during this period, and particularly beyond, are quite
+nebulous. The ECMWF cuts off an upper low across the Ohio Valley
+vicinity on Saturday Night while the GFS waits to cut off the
+upper-low across the Southeast US on Monday/Tuesday.
+
+Farther west there is more consistency in the upper pattern with a
+cutoff low in the Southwest vicinity. Enhanced southwesterly flow
+could result in several days of severe weather in the southern
+Plains. However, moisture remains uncertain due to aforementioned
+timing/location differences for the mid-level trough in the East.
+The GFS solution results in a more progressive cold front which
+clears out most of the greater moisture from the Gulf. However, the
+ECMWF stalls the front across the central Gulf which leaves a
+reservoir of rich theta-e which can be advected across Texas and
+vicinity during the early-mid part of next week. Therefore,
+predictability remains too low for probabilities at this time, but
+once the upper-level pattern becomes more clear, probabilities may
+be necessary.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -926,18 +997,6 @@ cells.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Apr 30 12:41:05 UTC 2025
-
-date: 2025-04-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Apr 30 12:41:05 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
 ## SPC Apr 30, 2025 1300 UTC Day 1 Convective Outlook
 
 date: 2025-04-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1224,46 +1283,6 @@ TAYLOR               TERRY               THROCKMORTON
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ws0195.html>
-
----
-
-## SPC Apr 30, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-04-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0303 AM CDT Wed Apr 30 2025
-
-Valid 031200Z - 081200Z
-
-...DISCUSSION...
-A cold front will shift southward across the southern US at the
-start of the extended period, scouring out much of the moisture
-across the CONUS. An upper level ridge is expected to strengthen
-across the central US while weak troughing continues in the
-northeast. This pattern will limit severe potential across the CONUS
-through the weekend.
-
-As a surface high across the Plains strengthens and shifts eastward
-into the Midwest, return flow from the Gulf will bring moisture back
-in across the central and southern Plains starting D6/Monday. A
-trough will strengthen across the western US D5/Sunday before
-ejecting into the Plains sometime D7/Tuesday into D8/Wednesday. This
-would likely bring a return to chances for severe storms across some
-portion of the southern and central Plains. There is uncertainty in
-how far northward moisture return will reach and where exactly
-surface features will be during this time period. This precludes the
-need to include areas at this time.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -2627,18 +2646,6 @@ YELLOW MEDICINE
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ws0180.html>
-
----
-
-## SPC - No watches are valid as of Mon Apr 28 12:42:01 UTC 2025
-
-date: 2025-04-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Apr 28 12:42:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
