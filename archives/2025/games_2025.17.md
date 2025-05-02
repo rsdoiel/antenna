@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-05-02 06:07:45
+updated: 2025-05-02 14:07:55
 ---
 
 # games
 
-(date: 2025-05-02 06:07:45)
+(date: 2025-05-02 14:07:55)
+
+---
+
+## What are the new map and weapon loot pool changes in Fortnite Chapter 6 Season 3?
+
+date: 2025-05-02, updated: 2025-05-02, from: Polygon Website
+
+Fortnite&#160;Chapter 6 Season 3, officially titled “Galactic Battle,” is here with new POIs, weapons, mechanics, and more! With a Star Wars theme, Chapter 6 Season 3 introduces lightsabers and Force powers, among a whole bunch of other weapons that should’ve been in the game a long time ago (and come from a galaxy far, far [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/595804/chapter-6-season-2-new-map-weapons-loot-poi-c6s3>
+
+---
+
+## Game of the Year 2025 predictions: The front-runners and challengers to come
+
+date: 2025-05-02, updated: 2025-05-02, from: Polygon Website
+
+The 11th Game Awards, scheduled for Dec. 11, are suddenly wide open. Grand Theft Auto 6, which was previously expected to dominate the Awards this year, has been delayed into 2026. That will make for a much less predictable Game of the Year competition at the leading awards ceremony for the game industry — the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners>
+
+---
+
+## I&#8217;ve never used a more versatile handheld than the Retroid Flip 2
+
+date: 2025-05-02, updated: 2025-05-01, from: Polygon Website
+
+When it comes to handheld gaming, you could drown in the number of options to choose from. The best way to narrow things down is to consider what you’re looking for out of a handheld. Do you want something palm-sized that can easily slip into a front pocket? Or are you cool with something larger [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hardware/566693/ive-never-used-a-more-versatile-handheld-than-the-retroid-flip-2>
+
+---
+
+## What Thunderbolts* means for the future of MCU team-ups
+
+date: 2025-05-02, updated: 2025-05-02, from: Polygon Website
+
+You can either choose to be intrigued by the playful asterisk at the end of Thunderbolts*, or you can be annoyed by it. Whichever side of that aisle you come down on, though, it’s clear that Marvel hoped it would raise some questions. Thunderbolts* answers those questions in the form of a surprisingly fun updated [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/567532/thunderbolts-new-avengers-dark-lineup-confusing>
+
+---
+
+## Apple probably grumbling over Epic Games Store’s $1 million offer to developers
+
+date: 2025-05-02, updated: 2025-05-02, from: Polygon Website
+
+In the wake of the goliath-vs.-goliath battle between Epic and Apple, which resulted in a court order mandating that Apple can’t collect fees on purchases made outside of apps, Epic is back with even more incentives to lure people into its own storefront ecosystem. Epic announced on Thursday that, beginning in June, for any payments [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/597588/epic-games-store-rev-share-1-million-incentive>
+
+---
+
+## Lost Records: Bloom &#038; Rage recaptures the spirit of OG Life Is Strange
+
+date: 2025-05-02, updated: 2025-05-02, from: Polygon Website
+
+Witnessing the trajectory of Life Is Strange has been nothing short of remarkable. From its humble beginnings in 2015 to the rich tapestry of sequels, spinoffs, and spiritual successors, DontNod Entertainment carved out a distinctive niche in the realm of character-driven games. Each installment — whether crafted by DontNod or Deck Nine — brings a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/567360/lost-records-bloom-and-rage-part-1-2-review>
 
 ---
 

@@ -1,11 +1,214 @@
 ---
 title: columns
-updated: 2025-05-02 06:07:43
+updated: 2025-05-02 14:07:53
 ---
 
 # columns
 
-(date: 2025-05-02 06:07:43)
+(date: 2025-05-02 14:07:53)
+
+---
+
+##  Swirling Green Aurora Captured From the ISS 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/swirling-green-aurora-captured-from-the-iss>
+
+---
+
+## May 1, 2025
+
+date: 2025-05-02, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162719329/56fff97f57bdb01e7c412c165ea0dbfa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162719329/56fff97f57bdb01e7c412c165ea0dbfa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-1-2025-892>
+
+---
+
+##  60-year-old cosmonaut Oleg Kononenko has spent a little over three full years... 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046767-60-year-old-cosmonaut-ole>
+
+---
+
+##  What?! 108-Gigapixel Scan of Vermeer&#8217;s Girl with a Pearl Earring. 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/what-108-gigapixel-scan-of-vermeers-girl-with-a-pearl-earring>
+
+---
+
+## Oregon State University's Open Source Lab is running on fumes
+
+date: 2025-05-02, updated: 2025-05-02, from: Liam Proven's articles at the Register
+
+<h4>FOSS incubator is short a quarter of a million bucks</h4>
+      <p>Higher education across the USA is facing federal funding cutbacks – and now the Oregon State University (OSU) Open Source Lab (OSL) is in trouble.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/02/osl_short_of_money/>
+
+---
+
+##  Tag and release works with tardigrades now — scientists are using nanotechnology... 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046765-tag-and-release-works-wit>
+
+---
+
+## Privacy for Agentic AI
+
+date: 2025-05-02, updated: 2025-05-02, from: Bruce Schneier blog
+
+<p>Sooner or later, it&#8217;s going to happen. AI systems will start acting as agents, doing things on our behalf with some degree of autonomy. I think it&#8217;s worth thinking about the security of that now, while its still a nascent idea.</p>
+<p>In 2019, I <a href="https://www.schneier.com/blog/archives/2020/02/inrupt_tim_bern.html">joined</a> Inrupt, a company that is commercializing Tim Berners-Lee&#8217;s open protocol for distributed data ownership. We are working on a <a href="https://www.schneier.com/blog/archives/2024/07/data-wallets-using-the-solid-protocol.html">digital wallet</a> that can make use of AI in this way. (We used to call it an &#8220;active wallet.&#8221; Now we&#8217;re calling it an &#8220;agentic wallet.&#8221;)</p>
+<p>I talked <a href="https://www.instagram.com/rsaconference/p/DGv4Yf5SCsw/">about</a> <a href="https://www.rsaconference.com/library/video/2025-keynote-preview-bruce-schneier">this</a> a bit at the <a href="https://www.rsaconference.com/">RSA Conference...</a></p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/privacy-for-agentic-ai.html>
+
+---
+
+## TGI-Fi
+
+date: 2025-05-02, from: Doc Searls (at Harvard), New Old Blog
+
+Whole Lotta Badshit Going On. The latest 404 has a weekend worth of it. Surprised this one didn&#39;t come sooner. Want the feds to stop funding public broadcasting? Fine. There&#39;s an argument for that. (I made one, way back in 2008.) But bias, which is everywhere (because the voice from nowhere is insincere and boring), [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/02/tgi-fi/>
+
+---
+
+##  The World&#8217;s Largest Data Center Rises in Texas 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/the-worlds-largest-data-center-rises-in-texas>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Maybe I need to add a third-party purchase option to my app to get the reviewer juices flowing</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114439027462233782>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Now at 180 hours of Xogot being under review (60+120), five days in the last batch, plus a friend at Apple requesting an expedited review 12 hours ago.</p><p>Was it my joke about undocumented Apis?</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114438973707324214>
+
+---
+
+##  3D-printed Starbucks? Sure, why not. &#8220;3D-printed construction is really taking off throughout... 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046761-3d-printed-starbucks-sure>
+
+---
+
+##  Is This the Best Cover of Radiohead&#8217;s Creep? 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/is-this-the-best-cover-of-radioheads-creep>
+
+---
+
+## Apple Updates U.S. App Review Guidelines Following Injunction
+
+date: 2025-05-02, updated: 2025-05-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/05/01/apple-updates-u-s-app-review-guidelines-epic/>
+
+---
+
+##  Some rules for a private dinner party for &#8220;Fucked Up Individuals&#8221;, including... 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046752-some-rules-for-a-private>
+
+---
+
+## Jason Snell on Apple’s Q2 FY 2025 and Frustrating Analyst Call
+
+date: 2025-05-02, updated: 2025-05-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/05/beware-the-tariffs-inside-apples-latest-financial-results/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Update</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114438459470759801>
 
 ---
 
@@ -23,7 +226,7 @@ date: 2025-05-02, updated: 2025-05-01, from: Bruce Schneier blog
 
 ---
 
-## The Great Pushback?
+## The Great Pushback
 
 date: 2025-05-02, from: Robert Reich's blog
 

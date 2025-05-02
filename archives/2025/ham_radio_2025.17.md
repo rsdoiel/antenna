@@ -1,11 +1,75 @@
 ---
 title: ham radio
-updated: 2025-05-02 06:07:42
+updated: 2025-05-02 14:07:52
 ---
 
 # ham radio
 
-(date: 2025-05-02 06:07:42)
+(date: 2025-05-02 14:07:52)
+
+---
+
+## Heritage CQ Amateur Radio Hall of Fame Inductees Named
+
+date: 2025-05-02, from: Amateur Radio Relay League News
+
+<p>The Heritage <i>CQ</i> Amateur Radio Hall of Fame, created by longtime amateur radio publisher Richard Ross, K2MGA (SK), will continue to honor amateur radio operators on a new section of the Hamgallery.com website.</p><p><i>CQ </i>magazine ceased publication in October 2023. Ross died on April 27, 2024, and the change was made with the permission of his widow, Cathy. </p><p></p><p>The Heritage<i> CQ</i> Amateur Radio Hall of Fame hono...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/heritage-cq-amateur-radio-hall-of-fame-inductees-named>
+
+---
+
+## Clock is Ticking Down to 2025 Dayton Hamvention
+
+date: 2025-05-02, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/clock-is-ticking-down-to-2025-dayton-hamvention>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-05-02, from: Amateur Radio Relay League News
+
+<p>On May 2, Spaceweather.com reported: "Astronomers are monitoring a<br />very large sunspot now turning toward Earth. Sunspot AR4079<br />stretches more than 140,000 km from end to end and has two dark<br />cores each large enough to swallow Earth. Moreover, it is surrounded<br />by a ring of Ellerman Bombs.<br /><br />"Ellerman bombs are a sign of magnetic complexity in a sunspot.<br />Opposite polarities bump together, reconnect, and-...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-12>
+
+---
+
+## Single sideband generation, Part 2
+
+date: 2025-05-02, from: EDN Blog
+
+<img width="1098" height="921" src="https://www.edn.com/wp-content/uploads/featured-image_SSB-generation.png?fit=1098%2C921" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/featured-image_SSB-generation.png?w=1098 1098w, https://www.edn.com/wp-content/uploads/featured-image_SSB-generation.png?w=300 300w, https://www.edn.com/wp-content/uploads/featured-image_SSB-generation.png?w=768 768w, https://www.edn.com/wp-content/uploads/featured-image_SSB-generation.png?w=1024 1024w" sizes="(max-width: 1098px) 100vw, 1098px" /><p>Dunn recalls the history of SSB within ham radio from the 1950s when most voice communication was done through amplitude modulation.</p>
+<p>The post <a href="https://www.edn.com/single-sideband-generation-part-2/">Single sideband generation, Part 2</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/single-sideband-generation-part-2/>
+
+---
+
+## Gate driver enables flexible EV inverter design
+
+date: 2025-05-02, from: EDN Blog
+
+<img width="800" height="451" src="https://www.edn.com/wp-content/uploads/STMicro-STGAP4S.jpg?fit=800%2C451" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/STMicro-STGAP4S.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-STGAP4S.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-STGAP4S.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The STGAP4S isolated automotive gate driver from ST connects to an external MOSFET-based push-pull buffer to scale gate current capability.</p>
+<p>The post <a href="https://www.edn.com/gate-driver-enables-flexible-ev-inverter-design/">Gate driver enables flexible EV inverter design</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gate-driver-enables-flexible-ev-inverter-design/>
 
 ---
 
@@ -13,7 +77,7 @@ updated: 2025-05-02 06:07:42
 
 date: 2025-05-02, from: EDN Blog
 
-<img width="1600" height="1200" src="https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?fit=1600%2C1200" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1536 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><p>Here is a closer look at why old transistors and op-amps are still up and running after decades of their launch.</p>
+<img width="1600" height="1200" src="https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?fit=1600%2C1200" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1536 1536w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /><p>Here is a closer look at why old transistors and op-amps are still up and running after decades of their launch.</p>
 <p>The post <a href="https://www.edn.com/why-is-the-2n3904-transistor-still-up-after-60-years/">Why is the 2N3904 transistor still up after 60 years?</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
@@ -39,7 +103,7 @@ date: 2025-05-01, from: Amateur Radio Relay League News
 
 date: 2025-05-01, from: EDN Blog
 
-<img width="700" height="443" src="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?fit=700%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Sixteen planar Schottky diodes for automotive and industrial use are now available from Nexperia in compact CFP2-HP packages.</p>
+<img width="700" height="443" src="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?fit=700%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Sixteen planar Schottky diodes for automotive and industrial use are now available from Nexperia in compact CFP2-HP packages.</p>
 <p>The post <a href="https://www.edn.com/nexperia-shrinks-schottky-footprint-with-cfp2-hp/">Nexperia shrinks Schottky footprint with CFP2-HP</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

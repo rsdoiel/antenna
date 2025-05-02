@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-02 06:07:46
+updated: 2025-05-02 14:07:56
 ---
 
 # libraries
 
-(date: 2025-05-02 06:07:46)
+(date: 2025-05-02 14:07:56)
 
 ---
 
@@ -227,6 +227,19 @@ Lacroix, Nathan
 
 ---
 
+## Kundenumfrage 2024 der ETH-Bibliothek
+
+date: 2025-04-30, from: ETH Zurich, recently added
+
+Ackermann, Tobias
+ETH-Bibliothek 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732616>
+
+---
+
 ## The Private Papers of Henry Ryecroft, by George Gissing
 
 date: 2025-04-29, from: Standard Ebooks, new releaases
@@ -367,7 +380,7 @@ Two British men become the first humans to reach the Moon.
 
 date: 2025-04-28, from: Association of Research Libraries News
 
-<p>Last Updated on May 1, 2025, 12:53 pm ET University Librarian Steve Mandeville-Gamble will retire at the end of the academic year, after leading the University of California (UC) Riverside...</p>
+<p>Last Updated on May 2, 2025, 12:37 pm ET University Librarian Steve Mandeville-Gamble will retire at the end of the academic year, after leading the University of California (UC) Riverside...</p>
 <p>The post <a href="https://www.arl.org/blog/libraries-bring-people-and-information-together-to-change-the-world-steve-mandeville-gamble-on-his-career-and-the-profession/">Libraries Bring People and Information Together to Change the World: Steve Mandeville-Gamble on His Career and the Profession—an Oral History Interview</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

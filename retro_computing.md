@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-02 06:07:48
+updated: 2025-05-02 14:07:57
 ---
 
 # retro computing
 
-(date: 2025-05-02 06:07:48)
+(date: 2025-05-02 14:07:57)
+
+---
+
+## The End of Sierra as We Knew It, Part 3: The Dog Days of Oakhurst
+
+date: 2025-05-02, from: Digital Antiquarian
+
+If you take the time to dig beneath the surface of any human community, no matter how humble, you&#8217;ll be rewarded with a welter of fascinating tales and characters. Certainly this is true of Oakhurst, California. The little town nestled in central California&#8217;s Yosemite Valley near the western end of the Sierra Nevada Mountains has [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-3-the-dog-days-of-oakhurst/>
 
 ---
 

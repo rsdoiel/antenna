@@ -1,11 +1,153 @@
 ---
 title: food
-updated: 2025-05-02 06:07:49
+updated: 2025-05-02 14:07:58
 ---
 
 # food
 
-(date: 2025-05-02 06:07:49)
+(date: 2025-05-02 14:07:58)
+
+---
+
+## Best Mediterranean Cookbooks Fresh, Vibrant Dining (2025)
+
+date: 2025-05-02, from: Bon Appetet
+
+BA staffers and cookbook authors name their must-reads. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-mediterranean-cookbooks>
+
+---
+
+## The Best Can Openers for Easy, Pain-Free Prep (2025)
+
+date: 2025-05-02, from: Bon Appetet
+
+No hand cramps here. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-can-opener>
+
+---
+
+## Ryan Gosling’s Favorite Dessert Is One of His Mother-in-Law’s Recipes
+
+date: 2025-05-02, from: Taste of Home
+
+<p>He is a man of taste!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ryan-gosling-favorite-dessert/">Ryan Gosling’s Favorite Dessert Is One of His Mother-in-Law&#8217;s Recipes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ryan-gosling-favorite-dessert/>
+
+---
+
+## This Is What Beyoncé’s Mom Makes for Mother’s Day
+
+date: 2025-05-02, from: Taste of Home
+
+<p>The mother of music royalty's "most wanted" main for special occasions is a Louisiana crowd-pleaser.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tina-knowles-gumbo-recipe/">This Is What Beyoncé&#8217;s Mom Makes for Mother&#8217;s Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tina-knowles-gumbo-recipe/>
+
+---
+
+## This Is My Secret for Making the Most Flavorful Potato Salad
+
+date: 2025-05-02, from: Taste of Home
+
+<p>If you want to be known as the family member with the best potato salad, then you need to read this.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/secret-for-making-flavorful-potato-salad/">This Is My Secret for Making the Most Flavorful Potato Salad</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/secret-for-making-flavorful-potato-salad/>
+
+---
+
+## This Bizarre ‘Dinosaur Eating’ Trend Has the Internet Completely Divided
+
+date: 2025-05-02, from: Taste of Home
+
+<p>What is "dinosaur time," and why is TikTok all over this food trend?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dinosaur-eating-tik-tok/">This Bizarre &#8216;Dinosaur Eating&#8217; Trend Has the Internet Completely Divided</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dinosaur-eating-tik-tok/>
+
+---
+
+## Coffee Shop DJ Sets Are So Hot Right Now
+
+date: 2025-05-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. “10am in the new 10pm.” 
+
+<br> 
+
+<https://sprudge.com/coffee-shop-dj-sets-are-so-hot-right-now-325416.html>
+
+---
+
+## Hetal Vasavada’s Earl Grey and Lemon Economy Cake
+
+date: 2025-05-02, from: Taste of Home
+
+This easy cake is inspired by my absolute favorite vintage cookbook, <i title="" data-original-title="">The Settlement Cookbook</i>. The original Economy Cake recipe was designed to be budget-friendly, using just one egg and a few pantry staples. I've given it my own spin with Earl Grey tea and fresh lemon zest. There's something magical about how Earl Grey adds a gentle floral-citrus flavor (almost like Froot Loops!) that transforms it into something I could serve at a party. You could make the cake even <i title="" data-original-title="">more</i> economical by swapping the egg for 1/4 cup of mayo or sour cream. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-earl-grey-and-lemon-economy-cake/>
+
+---
+
+## Lucy Wang’s Ice Cream Cake Pops
+
+date: 2025-05-02, from: Taste of Home
+
+Are you still bringing store-bought cupcakes to birthdays and baby showers? Try this recipe instead, because I guarantee you it’s so much cuter. Yes, it’s a cake pop, but it looks like an ice cream cone. You can do tons of variations, like Oreo cake with chocolate coating, confetti with strawberry, or red velvet with white chocolate. You can also do half-and-half color combos for a snow cone look. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wangs-ice-cream-cake-pops/>
+
+---
+
+## We Tested a Homemade Baking ‘Spray.’ Here’s How It Went
+
+date: 2025-05-02, from: Taste of Home
+
+<p>This easy homemade baking spray may convince you never to buy a can from the store again.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/homemade-baking-spray/">We Tested a Homemade Baking &#8216;Spray.&#8217; Here&#8217;s How It Went</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/homemade-baking-spray/>
+
+---
+
+## Weekly Coffee News: A Coffee Equipment Auction + New Stumptown Bags
+
+date: 2025-05-02, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-plant-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plant" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-plant-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-plant-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-plant-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-plant-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-plant.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Grounds for Health Launches Matching Fundraiser for May Vermont-based... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/02/weekly-coffee-news-a-coffee-equipment-auction-new-stumptown-bags/>
 
 ---
 
@@ -129,7 +271,7 @@ Give her a Le Creuset kettle, custom stationery for her recipes, or some upgrade
 
 date: 2025-05-01, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-620x413.jpg" class="attachment-large size-large wp-post-image" alt="World Coffee Championships 2025" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Mikaël Portannier, representing France, is the 2025 World Coffee Roasting Champion. Portannier accepted the trophy last Sunday following four days of profiling, trier-pulling, sniffing, seconds-counting and slurping at the 2025... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-620x413.jpg" class="attachment-large size-large wp-post-image" alt="World Coffee Championships 2025" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Coffee-Championships-2025.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Mikaël Portannier, representing France, is the 2025 World Coffee Roasting Champion. Portannier accepted the trophy last Sunday following four days of profiling, trier-pulling, sniffing, seconds-counting and slurping at the 2025... 
 
 <br> 
 
@@ -184,6 +326,18 @@ date: 2025-05-01, from: The Sprudge
 <br> 
 
 <https://sprudge.com/one-village-coffee-launches-nationally-in-sprouts-farmers-markets-innovation-set-325372.html>
+
+---
+
+## Croque-Monsieur
+
+date: 2025-05-01, from: Taste of Home
+
+Made with ham, cheese, sharp mustard and soft, sweet bread, the classic French croque-monsieur sandwich elevates brunches and lunches. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/croque-monsieur/>
 
 ---
 
@@ -487,7 +641,7 @@ Thai iced tea is the perfect balancing act for your favorite spicy or sweet Thai
 
 date: 2025-04-30, from: Daily Coffee News
 
-<div><img width="620" height="458" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg" class="attachment-large size-large wp-post-image" alt="Haile Andualem, Chris Kornman, Beti Asefa, and Segenet Gashaw welcome you to Royal Coffee Addis Ababa" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-768x567.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Oakland, California-based Royal Coffee recently opened a new office in Addis Ababa, Ethiopia, with a stated goal to become &#8220;the leading American importer of Ethiopian coffee.&#8221; The genetic birthplace of... 
+<div><img width="620" height="458" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg" class="attachment-large size-large wp-post-image" alt="Haile Andualem, Chris Kornman, Beti Asefa, and Segenet Gashaw welcome you to Royal Coffee Addis Ababa" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-620x458.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa-768x567.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Haile-Andualem-Chris-Kornman-Beti-Asefa-and-Segenet-Gashaw-welcome-you-to-Royal-Coffee-Addis-Ababa.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Oakland, California-based Royal Coffee recently opened a new office in Addis Ababa, Ethiopia, with a stated goal to become &#8220;the leading American importer of Ethiopian coffee.&#8221; The genetic birthplace of... 
 
 <br> 
 

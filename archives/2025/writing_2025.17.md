@@ -1,11 +1,87 @@
 ---
 title: writing
-updated: 2025-05-02 06:07:44
+updated: 2025-05-02 14:07:54
 ---
 
 # writing
 
-(date: 2025-05-02 06:07:44)
+(date: 2025-05-02 14:07:54)
+
+---
+
+## 2025 Locus Awards Top Ten Finalists
+
+date: 2025-05-02, from: Locus Magazine
+
+<p>&#160;</p>
+<p><strong>Congratulations to all of the Locus Awards top ten finalists!</strong></p>
+<p>The Locus Awards winners will be announced June 21, 2025, during the in-person Locus Awards Ceremony, held in the historic Nile Hall at Preservation Park in downtown Oakland, California. Join MC Gail Carriger and special guests Tochi Onyebuchi and Sarah Gailey, plus featured local author Kemi Ashing-Giwa and artist Stephanie Law, for an entertaining presentation of the awards, plus  <a href="https://locusmag.com/2025/05/2025-locus-awards-top-ten-finalists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-locus-awards-top-ten-finalists/>
+
+---
+
+## Rainforest Writers Village Retreats 2025
+
+date: 2025-05-02, from: Locus Magazine
+
+<p>Four sessions of the Rainforest Writers Village retreat were held over four weeks, from February 19 through March 17, 2025 in Quinault WA.</p>
+<p>&#160;</p>
+
+<p><strong>Photographer: Patrick Swenson
+</strong></p>
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine and site going, and would like to keep the site paywall free, but <strong>WE NEED YOUR FINANCIAL </strong> <a href="https://locusmag.com/2025/05/rainforest-writers-village-retreats-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/rainforest-writers-village-retreats-2025/>
+
+---
+
+## Gail Carriger to be Master of Ceremonies of the 2025 Locus Awards!
+
+date: 2025-05-02, from: Locus Magazine
+
+<p>The fantastic New York Times bestselling author and ex-archaeologist Gail Carriger will be joining us at the Locus Awards Weekend on June 21, 2025, in Oakland, California as our Master of Ceremonies! We’re ecstatic to welcome Carriger to the stage for an evening of magic and laughs. Carriger will be joining special guests like Tochi Onyebuchi, Sarah Gailey,  Kemi Ashing-Giwa, and Stephanie Law.</p>
+<p></p>
+<p>From her website: Gail Carriger writes books  <a href="https://locusmag.com/2025/05/gail-carriger-to-be-master-of-ceremonies-of-the-2025-locus-awards/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/gail-carriger-to-be-master-of-ceremonies-of-the-2025-locus-awards/>
+
+---
+
+## 2025 Philip K. Dick Award Judges
+
+date: 2025-05-02, from: Locus Magazine
+
+<p>The five judges for the Philip K. Dick Award for works of science fiction published as paperback originals in the US during the year 2025 have been announced:</p>
+<div class="nobullets">
+<ul>
+<li>Jim Aikin, 1308 Hillcrest Avebue, Livermore CA 94550-4925; epub files to midiguru23@sbcglobal.net</li>
+<li>Kim Antieau, 945 N Javalina Place, Tucson AZ 85748-2084; print copies only</li>
+<li>J.D. Goff, 11697 Allendale Drive, Falcon CO 80831-6812; epub or pdf files to jongoff@sommerstone.com</li>
+<li>Abbey Mei Otis, 5046 </li></ul></div> <a href="https://locusmag.com/2025/05/2025-philip-k-dick-award-judges/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-philip-k-dick-award-judges/>
+
+---
+
+## Immortal by Sue Lynn Tan: Review by Archita Mittra
+
+date: 2025-05-02, from: Locus Magazine
+
+<p><strong>Immortal</strong>, Sue Lynn Tan (Harper Voyager 978-0-06344-577-2, $32.00, 464pp, hc) January 2025.</p>
+<p><strong>Immortal </strong>unfolds in the same universe as Sue Lynn Tan’s other Celestial Kingdom novels, loosely inspired by Chinese traditions. It follows Liyen, tasked with ruling the mortal kingdom of Tianxia, caught up in the nefarious power politics between a race of immortals and other magical beings. Much like Naomi Novik’s <strong>Uprooted</strong>, which blends a ‘‘Beauty and  <a href="https://locusmag.com/2025/05/immortal-by-sue-lynn-tan-review-by-archita-mittra/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/immortal-by-sue-lynn-tan-review-by-archita-mittra/>
 
 ---
 

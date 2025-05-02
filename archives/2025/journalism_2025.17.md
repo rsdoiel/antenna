@@ -1,11 +1,59 @@
 ---
 title: journalism
-updated: 2025-05-02 06:07:45
+updated: 2025-05-02 14:07:55
 ---
 
 # journalism
 
-(date: 2025-05-02 06:07:45)
+(date: 2025-05-02 14:07:55)
+
+---
+
+## CSUN seeks new diversity leader as equity efforts continue
+
+date: 2025-05-02, from: The Sundail (CSUN Student Newspaper)
+
+In the wake of uncertainty surrounding equity programs, CSUN remains committed to such programs as it searches for a new Vice President for Equity and Inclusion and Chief Diversity Officer... 
+
+<br> 
+
+<https://sundial.csun.edu/193402/news/csun-seeks-new-diversity-leader-as-equity-efforts-continue/>
+
+---
+
+## Matadors Giddy Up For Matachella
+
+date: 2025-05-02, from: The Sundail (CSUN Student Newspaper)
+
+CSUN student housing residents gathered on April 24 for a fun night at an exclusive western-themed event held at the student housing sports lawn. Matachella is an annual event that’s... 
+
+<br> 
+
+<https://sundial.csun.edu/193387/news/matadors-giddy-up-for-matachella/>
+
+---
+
+## The Sundial’s hands-on the Switch 2: Metroid Prime 4, Cyberpunk 2077 and everything in between
+
+date: 2025-05-02, from: The Sundail (CSUN Student Newspaper)
+
+The Nintendo Switch 2 Experience was held in Los Angeles from April 11-13. Culture Editor Jesse Illanes and Senior Reporter Nyan Gavino were selected through a lottery system and experienced... 
+
+<br> 
+
+<https://sundial.csun.edu/193393/arts-entertainment/the-sundials-hands-on-the-switch-2-metroid-prime-4-cyberpunk-2077-and-everything-in-between/>
+
+---
+
+## The Sundial’s hands-on the Switch 2: Exciting new hardware and premier titles
+
+date: 2025-05-02, from: The Sundail (CSUN Student Newspaper)
+
+Nintendo hosted their “Nintendo Switch 2 Experience” in Los Angeles, where a select number of fans got an early taste of what the Switch 2 offers. Guests were able to... 
+
+<br> 
+
+<https://sundial.csun.edu/193379/arts-entertainment/the-sundials-hands-on-the-switch-2-exciting-new-hardware-and-premier-titles/>
 
 ---
 

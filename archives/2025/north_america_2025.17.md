@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-05-02 06:07:40
+updated: 2025-05-02 14:07:50
 ---
 
 # north america
 
-(date: 2025-05-02 06:07:40)
+(date: 2025-05-02 14:07:50)
+
+---
+
+## The Democracy Index
+
+date: 2025-05-02, from: The Contrarian
+
+May 2, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-c14>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-05-02, from: The Contrarian
+
+Meet Pancake! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-49d>
+
+---
+
+## May Day Protests Demand Change
+
+date: 2025-05-02, from: The Contrarian
+
+Power to the people! 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162713287/adcf4036f3f4b294a6a00ce4671eb5ec.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162713287/adcf4036f3f4b294a6a00ce4671eb5ec.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/may-day-protests-demand-change>
+
+---
+
+## Strawberry Lemonade Cookie Bars
+
+date: 2025-05-02, from: The Contrarian
+
+When you need a serotonin boost, try funny videos or something sweet with a cakey, buttery base and real fruit. 
+
+<br> 
+
+<https://contrarian.substack.com/p/strawberry-lemonade-cookie-bars>
+
+---
+
+## Inside the Plan to Use Trans Student-Athletes to Push Voters to the Right
+
+date: 2025-05-02, from: Capital and Main
+
+<p>National conservative groups such as the Council for National Policy champion anti-trans ideology as a means to flip blue states and districts.</p>
+<p>The post <a href="https://capitalandmain.com/inside-the-plan-to-use-trans-student-athletes-to-push-voters-to-the-right">Inside the Plan to Use Trans Student-Athletes to Push Voters to the Right</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/inside-the-plan-to-use-trans-student-athletes-to-push-voters-to-the-right>
+
+---
+
+## The Golden State Warriors offer comfort in chaos
+
+date: 2025-05-02, from: The Contrarian
+
+We&#8217;re not ready to say &#8220;night night&#8221; to the core of the Warriors&#8217; dynastic run, which has symbolized more societally than four championship rings. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-golden-state-warriors-offer-comfort>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-02, from: The Contrarian
+
+Friday: Contrarians celebrated May Day accross the country, and the world. Here, a selection of Contrarians' photos from Vermont, Massachusetts, Pennsylvania, France, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Michael Waltz's removal isn’t just a scandal. It’s a national security alarm.
+
+date: 2025-05-02, from: The Contrarian
+
+The national security adviser makes sense of chaos and competing claims. Now, it's just a loyalty post. 
+
+<br> 
+
+<https://contrarian.substack.com/p/michael-waltzs-removal-isnt-just>
+
+---
+
+## Breaking News on Multiple Legal Fronts
+
+date: 2025-05-02, from: The Contrarian
+
+A recording from Jennifer Rubin's live video with Adam Klasfeld. 
+
+<br> 
+
+<https://contrarian.substack.com/p/breaking-news-on-multiple-legal-fronts>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-05-02, from: The Contrarian
+
+Q-Nuts: "All Hail the Great Pumpkin, Charlie Brown" 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-968>
 
 ---
 
@@ -212,18 +336,6 @@ It took a bit, but labor eventually got on board with protecting everyone's righ
 <br> 
 
 <https://contrarian.substack.com/p/may-day-and-the-intersection-of-civil>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-01, from: The Contrarian
-
-Thursday: May Day protests are happening around the world today. Plus: Sen. Chris Murphy lays out the corruption and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

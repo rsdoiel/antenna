@@ -1,23 +1,232 @@
 ---
 title: socal north
-updated: 2025-05-02 06:07:40
+updated: 2025-05-02 14:07:51
 ---
 
 # socal north
 
-(date: 2025-05-02 06:07:40)
+(date: 2025-05-02 14:07:51)
 
 ---
 
-## Trump orders end to federal funding for NPR and PBS
+## What to do if your loved one is homeless
 
 date: 2025-05-02, updated: 2025-05-02, from: The LAist
 
-In an executive order, President Trump directs the Corporation for Public Broadcasting to stop funding NPR and PBS, the nation's primary public broadcasters. LAist gets about 4% of its annual funding from CPB. 
+Finding a homeless loved one can be difficult. So can helping them once you’ve found them. Here are some tips from people who’ve been there. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/what-to-do-if-your-loved-one-is-homeless>
+
+---
+
+## LA County's jail population is rising. Prop 36 is partly to blame
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+County officials say they're watching the jail population growth closely as it could make it harder to meet the needs of all incarcerated people, particularly those with mental health issues. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-jail-population-rising-prop-36>
+
+---
+
+## Eclipse Theatre L.A. to Present “The Show Must Go On!” at The MAIN
+
+date: 2025-05-02, from: City of Santa Clarita
+
+<p>Broadway is in Trouble, and so is Gloria! Eclipse Theatre L.A. is proud to present its latest production, The Show Must Go On!, an original comedy by Nancy Lantis, performing at The MAIN (24266 Main Street) from Friday, May 9 through Sunday, May 18. In The Show Must Go On!, legendary stage diva, Gloria Grant, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/02/eclipse-theatre-l-a-to-present-the-show-must-go-on-at-the-main/">Eclipse Theatre L.A. to Present &#8220;The Show Must Go On!&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/02/eclipse-theatre-l-a-to-present-the-show-must-go-on-at-the-main/>
+
+---
+
+## Months after the fire, many Altadena residents still don't have internet
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+Both primary broadband providers in the area say service hasn’t fully been restored yet. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-fire-internet-eaton-palisades>
+
+---
+
+## After Long Beach repealed a tax exemption, SoCal Edison wants to pass the cost along to local ratepayers
+
+date: 2025-05-02, from: Longbeach Post
+
+<figure><img width="1024" height="532" src="https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-577x300.jpg 577w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1110x577.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-768x399.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1536x798.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-2048x1064.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1320x686.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An increase in your electrical bill is coming, but how big the price tag is will depend on who pays it: just long beach customers or everyone in the region.</p>
+<p>The post <a href="https://lbpost.com/news/after-long-beach-repealed-a-tax-exemption-socal-edison-wants-to-pass-the-cost-along-to-local-ratepayers">After Long Beach repealed a tax exemption, SoCal Edison wants to pass the cost along to local ratepayers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/after-long-beach-repealed-a-tax-exemption-socal-edison-wants-to-pass-the-cost-along-to-local-ratepayers>
+
+---
+
+## “Angel Art” by Krishna Thangavelu at The MAIN
+
+date: 2025-05-02, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is proud to announce its latest art exhibition, “Angel Art,” by Krishna Thangavelu, on view at The MAIN (24266 Main Street) now through Monday, July 21. This powerful collection features bright, expressive paintings that survived the Palisades Fire that now stand as testaments to resilience, renewal and the enduring power [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/02/angel-art-by-krishna-thangavelu-at-the-main/">“Angel Art&#8221; by Krishna Thangavelu at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/02/angel-art-by-krishna-thangavelu-at-the-main/>
+
+---
+
+## California lawmakers kill bid to force HOAs to follow open meeting laws
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+A California Republican fed up with HOA "harassment" tried to push for a transparency bill — but politics may have killed his plan. 
+
+<br> 
+
+<https://laist.com/news/politics/california-lawmakers-kill-bid-to-force-hoas-to-follow-open-meeting-laws>
+
+---
+
+## Over three years after on-set tragedy, 'Rust' is in theaters and available to rent
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+A fatal on-set shooting killed cinematographer Halyna Hutchins in 2021. Hutchins' husband became a producer as part of a settlement. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/over-three-years-after-on-set-tragedy-rust-is-in-theaters-and-available-to-rent>
+
+---
+
+## How the harmonica queens from K-town took over the NHL
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+Does that star-spangled banner yet wave? You bet it does, when a group of K-town retirees perform the national anthem before a Kings game. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/national-hockey-league-nhl-ktown-korean-harmonica-players>
+
+---
+
+## Concerts in the Park Turns 35 with the Biggest Lineup Yet!
+
+date: 2025-05-02, from: City of Santa Clarita
+
+<p>&#160;Central Park is Ready to Rock this Summer The City of Santa Clarita’s hometown-favorite Concerts in the Park series, presented by Logix Federal Credit Union, makes its highly anticipated return to Central Park (27150 Bouquet Canyon Road) for its 35th summer of live music. Gather under the evening sky and enjoy free, live musical performances [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/02/concerts-in-the-park-turns-35-with-the-biggest-lineup-yet/">Concerts in the Park Turns 35 with the Biggest Lineup Yet!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/02/concerts-in-the-park-turns-35-with-the-biggest-lineup-yet/>
+
+---
+
+## RFK Jr. to require placebo-controlled studies for new vaccines
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+The Department of Health and Human Services says it will require new vaccines to be tested against a placebo, which could complicate and delay Food and Drug Administration approval of many vaccines. 
+
+<br> 
+
+<https://laist.com/news/health/rfk-jr-to-require-placebo-controlled-studies-for-new-vaccines>
+
+---
+
+## Showers and cold weather in store for SoCal this weekend
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+Rain is coming to SoCal this weekend. Here's what you need to know. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/showers-cold-weather-forecast-socal>
+
+---
+
+## California lawmakers kill bid to force HOAs to follow open meeting laws
+
+date: 2025-05-02, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Republican bill to require more transparency from California’s 50,000 homeowners associations failed to advance out of committee despite bipartisan support.</p>
+<p>The post <a href="https://lbpost.com/news/politics/california-lawmakers-kill-bid-to-force-hoas-to-follow-open-meeting-laws">California lawmakers kill bid to force HOAs to follow open meeting laws</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/california-lawmakers-kill-bid-to-force-hoas-to-follow-open-meeting-laws>
+
+---
+
+## Unprecedented vote shows Dems fractured over housing policy
+
+date: 2025-05-02, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02081707/040925-sb363-fg-cm-29-428449-xetuff1r-088089-5qStu3yG.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Two consecutive committee chairs getting overruled by their committee members signifies a growing rift among California Democrats about how to address the housing crisis.</p>
+<p>The post <a href="https://lbpost.com/news/politics/unprecedented-vote-shows-dems-fractured-over-housing-policy">Unprecedented vote shows Dems fractured over housing policy</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/unprecedented-vote-shows-dems-fractured-over-housing-policy>
+
+---
+
+## Notice of Intent – Mitigated Negative Declaration Port of Hueneme Squid Offloading Relocation Project
+
+date: 2025-05-02, from: Port Hueneme
+
+<p>This serves as the Oxnard Harbor District’s Notice of Intent to adopt a Mitigated Negative Declaration for the Port of Hueneme Squid Offloading relocation Project, prepared in accordance with the&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/notice-of-intent-mitigated-negative-declaration-port-of-hueneme-squid-offloading-relocation-project/">Notice of Intent – Mitigated Negative Declaration Port of Hueneme Squid Offloading Relocation Project</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/notice-of-intent-mitigated-negative-declaration-port-of-hueneme-squid-offloading-relocation-project/>
+
+---
+
+## Trump says he's ending federal funding for NPR and PBS. They say he can't
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+In an executive order, President Donald Trump directs the Corporation for Public Broadcasting to stop funding NPR and PBS, the nation's primary public broadcasters. LAist gets about 4% of its annual funding from CPB. 
 
 <br> 
 
 <https://laist.com/news/trump-orders-end-to-federal-funding-for-npr-and-pbs>
+
+---
+
+## The ultimate way to reheat pizza? We got tips from LA’s top pizza makers
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+Everyone loves pizza — but how do you bring a cold slice back to life the next day? And no, throwing it in the microwave doesn't count. 
+
+<br> 
+
+<https://laist.com/news/food/the-ultimate-way-to-reheat-pizza>
 
 ---
 
@@ -57,18 +266,6 @@ The city promised a "smooth" transition to non-city providers, but some families
 
 ---
 
-## The ultimate way to reheat pizza? We talked to LA’s top pizza makers
-
-date: 2025-05-02, updated: 2025-05-02, from: The LAist
-
-Everyone loves pizza — but how do you bring a cold slice back to life the next day? And no, throwing it in the microwave doesn't count. 
-
-<br> 
-
-<https://laist.com/news/food/the-ultimate-way-to-reheat-pizza>
-
----
-
 ## Officials and advocates warn of more dangerous roads under LA mayor's proposed cuts
 
 date: 2025-05-02, updated: 2025-05-02, from: The LAist
@@ -99,7 +296,7 @@ date: 2025-05-01, from: City of Santa Clarita
 
 date: 2025-05-01, from: Longbeach Post
 
-<figure><img width="1024" height="473" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-1024x473.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-1024x473.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-300x139.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-768x355.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-192x89.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-400x185.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="473" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-1024x473.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-1024x473.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-300x139.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-768x355.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-192x89.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr-400x185.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01152504/30apr25-wings-0-305311-uwdg1oqs-751795-exwT0jqr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>City Center hotel was also featured in the recent Netflix show Griselda, which was set in Miami with Sofia Vergara playing the lead role.</p>
 <p>The post <a href="https://lbpost.com/news/city/apple-tv-show-filming-at-city-center-hotel-in-long-beach-this-week">Apple TV+ show filming at City Center hotel in Long Beach this week </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -246,7 +443,7 @@ Derby Day parties, Brewery Art Walk, Museums of the Arroyo Day, the Jane Austen 
 
 date: 2025-05-01, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/01064053/021225-port-of-la-jaj-cm-07-471299-nqnudtz9-467298-UcVzWGQC.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The $250 million, which would fund about 500 electric trucks serving the ports of LA and Long Beach, remains frozen as a legal dispute plays out between the EPA, a bank and a green energy group.</p>
 <p>The post <a href="https://lbpost.com/news/business/trade-transportation/grants-for-la-clean-trucks-frozen-in-trump-effort-to-defund-green-energy">Grants for LA clean trucks frozen in Trump effort to defund green energy</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

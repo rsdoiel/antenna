@@ -1,11 +1,282 @@
 ---
 title: home
-updated: 2025-05-02 06:07:47
+updated: 2025-05-02 14:07:56
 ---
 
 # home
 
-(date: 2025-05-02 06:07:47)
+(date: 2025-05-02 14:07:56)
+
+---
+
+## Wall Repair 101: How To Fix a Hole in Drywall in 6 Easy Steps
+
+date: 2025-05-02, from: Family Handyman Blog
+
+<p>Learn the crucial DIY skill of how to fix a hole in drywall with this beginner-friendly tutorial that delivers professional-looking results.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-fix-a-hole-in-drywall/">Wall Repair 101: How To Fix a Hole in Drywall in 6 Easy Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-fix-a-hole-in-drywall/>
+
+---
+
+## Preserved Lemons Recipe (How to Make Salt Pickled Lemons)
+
+date: 2025-05-02, from: Homestead and Chil
+
+<p>Come learn how to make simple salt-preserved lemons. They're incredibly easy to make, only require two ingredients, and add a burst of bright tangy flavor to a wide variety of meals.</p>
+<p>The post <a href="https://homesteadandchill.com/salt-preserved-lemons-recipe/">Preserved Lemons Recipe (How to Make Salt Pickled Lemons)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/salt-preserved-lemons-recipe/>
+
+---
+
+## DIY Hypertufa Planters With This Step-by-Step Guide
+
+date: 2025-05-02, from: Family Handyman Blog
+
+<p>Craft these weather-resistant, personalized hypertufa planters that provide the perfect growing environment to grow your favorite plants.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/hypertufa/">DIY Hypertufa Planters With This Step-by-Step Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/hypertufa/>
+
+---
+
+## Digital Edition: Spring 2025
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/digital-edition/digital-edition-spring-2025/">Digital Edition: Spring 2025</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/digital-edition/digital-edition-spring-2025/?utm_source=rss&utm_medium=rss&utm_campaign=digital-edition-spring-2025>
+
+---
+
+## Edible for Kids: Radishes
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>Can you find three beets and 12 tiny rabbits?</p>
+<p>The post <a href="https://www.ediblesfvalley.com/experience/edible-for-kids-radishes/">Edible for Kids: Radishes</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/experience/edible-for-kids-radishes/?utm_source=rss&utm_medium=rss&utm_campaign=edible-for-kids-radishes>
+
+---
+
+## Breathing is the Only Option: 10 Foods that Support Respiratory Health
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>Smoke follows fires. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/think/breathing-is-the-only-option-10-foods-that-support-respiratory-health/">Breathing is the Only Option: 10 Foods that Support Respiratory Health</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/think/breathing-is-the-only-option-10-foods-that-support-respiratory-health/?utm_source=rss&utm_medium=rss&utm_campaign=breathing-is-the-only-option-10-foods-that-support-respiratory-health>
+
+---
+
+## We Love LA & Beer: Breweries Pour Out Support for Wildfire Relief
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>Beer will change the world</p>
+<p>The post <a href="https://www.ediblesfvalley.com/drink/we-love-la-beer-breweries-pour-out-support-for-wildfire-relief/">We Love LA &#038; Beer: Breweries Pour Out Support for Wildfire Relief</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/drink/we-love-la-beer-breweries-pour-out-support-for-wildfire-relief/?utm_source=rss&utm_medium=rss&utm_campaign=we-love-la-beer-breweries-pour-out-support-for-wildfire-relief>
+
+---
+
+## What Writing a Novel Taught Me About Designing a Home
+
+date: 2025-05-02, from: Dwell
+
+In shaping my debut book’s complex characters, I found that what truly makes a house is about much more than picking the right wall color. 
+
+<br> 
+
+<https://www.dwell.com/article/tarisai-ngangura-writing-novel-home-design-90d5d6bb>
+
+---
+
+## A World of Help: How World Central Kitchen and Locals Stepped Up During the Fires
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>As the fires ravaged our community on January 7, World Central Kitchen (WCK) appeared, serving hope and hot meals to a shell-shocked community.</p>
+<p>The post <a href="https://www.ediblesfvalley.com/stories/a-world-of-help-how-world-central-kitchen-and-locals-stepped-up-during-the-fires/">A World of Help: How World Central Kitchen and Locals Stepped Up During the Fires</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/stories/a-world-of-help-how-world-central-kitchen-and-locals-stepped-up-during-the-fires/?utm_source=rss&utm_medium=rss&utm_campaign=a-world-of-help-how-world-central-kitchen-and-locals-stepped-up-during-the-fires>
+
+---
+
+## This $1.3M Oregon Midcentury Survived a Fallen Tree—and It’s All the Better for It
+
+date: 2025-05-02, from: Dwell
+
+The well-preserved 1959 home still has many of its original features—plus a few new ones, like skylights in spots where a storm damaged the roof. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-delou-john-lauren-reynolds-eugene-oregon-real-estate-90e5e117>
+
+---
+
+## How to Identify and Control Dogwood Anthracnose
+
+date: 2025-05-02, from: The Gardener's Path
+
+<p>Dogwood anthracnose is a deadly disease that can kill flowering and Pacific dogwoods and harm other Cornus species. It's a recent arrival in North America that has wreaked havoc on native species. It's difficult to control, so prevention and early detection are essential. Learn more about dogwood anthracnose in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/dogwood-anthracnose/">How to Identify and Control Dogwood Anthracnose</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/dogwood-anthracnose/>
+
+---
+
+## Before & After: How an Ugly Den Became an Enviable Sunken Living Room in a Family’s Texas Midcentury
+
+date: 2025-05-02, from: Dwell
+
+The ’70s add-on was a blight against the O’Neil Ford–designed residence. Now it’s a glowing gathering space that melds with the refinished home. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-oneil-ford-lake-flato-architects-office-of-tangible-space-midcentury-renovation-e70def3d>
+
+---
+
+## Hawaii’s New Leave-No-Trace Tourist Tax—and Everything Else You Need to Know About This Week
+
+date: 2025-05-02, from: Dwell
+
+Parts of Europe scramble to recover from a blackout, Uber’s plans for self-driving Volkswagen vans in the U.S., an ex-NFL player revamps famous midcentury shelving, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-hawaii-hotel-tax-spain-blackout-uber-self-driving-cars-77af3eaa>
+
+---
+
+## Asparagus Tips
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>If you’re interested in growing asparagus in your garden, you’ll be rewarded with 15 years of annual harvests.</p>
+<p>The post <a href="https://www.ediblesfvalley.com/grow/asparagus-tips/">Asparagus Tips</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/grow/asparagus-tips/?utm_source=rss&utm_medium=rss&utm_campaign=asparagus-tips>
+
+---
+
+## Clean Your Popcorn Ceiling in 5 Easy Steps
+
+date: 2025-05-02, from: Family Handyman Blog
+
+<p>Restore your textured ceiling's luster with this detailed project on how to clean a popcorn ceiling safely and effectively.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-clean-popcorn-ceiling/">Clean Your Popcorn Ceiling in 5 Easy Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-clean-popcorn-ceiling/>
+
+---
+
+## Creamy Asparagus Soup
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>This healthful, vegan soup gets its creaminess from cannellini beans instead of cream. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/recipes/creamy-asparagus-soup/">Creamy Asparagus Soup</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/recipes/creamy-asparagus-soup/?utm_source=rss&utm_medium=rss&utm_campaign=creamy-asparagus-soup>
+
+---
+
+## Roasted Asparagus with Ojai Pixies, Fennel and Mint
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>This vegan recipe requires a little less attention when ingredients are roasted in an oven, but it’s also divine when done on the grill </p>
+<p>The post <a href="https://www.ediblesfvalley.com/spring-2025/roasted-asparagus-with-ojai-pixies-fennel-and-mint/">Roasted Asparagus with Ojai Pixies, Fennel and Mint</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/spring-2025/roasted-asparagus-with-ojai-pixies-fennel-and-mint/?utm_source=rss&utm_medium=rss&utm_campaign=roasted-asparagus-with-ojai-pixies-fennel-and-mint>
+
+---
+
+## Asparagus, Spring Herbs and Manchego Salad
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>This salad can be enjoyed all by itself, or perched atop whole or chopped greens</p>
+<p>The post <a href="https://www.ediblesfvalley.com/recipes/asparagus-spring-herbs-and-manchego-salad/">Asparagus, Spring Herbs and Manchego Salad</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/recipes/asparagus-spring-herbs-and-manchego-salad/?utm_source=rss&utm_medium=rss&utm_campaign=asparagus-spring-herbs-and-manchego-salad>
+
+---
+
+## Dining Al Fresco
+
+date: 2025-05-02, from: Edible San Fernando Valley
+
+<p>PB&#038;J sandwiches, chips and juice box would not do.</p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/dining-al-fresco/">Dining Al Fresco</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/eat/dining-al-fresco/?utm_source=rss&utm_medium=rss&utm_campaign=dining-al-fresco>
+
+---
+
+## Make Chrome Sockets More Visible In Minutes With This Easy Hack
+
+date: 2025-05-02, from: Family Handyman Blog
+
+<p>Stop squinting at tiny engravings and learn how to make chrome sockets more visible with this clever marking technique.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-make-chrome-sockets-more-visible/">Make Chrome Sockets More Visible In Minutes With This Easy Hack</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-make-chrome-sockets-more-visible/>
 
 ---
 
@@ -20,6 +291,30 @@ date: 2025-05-02, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-french-marigolds/>
+
+---
+
+## Home & Garden
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## These New and Buzzy Books by AAPI Authors Should Be on Your Reading List
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+It's time to celebrate AAPI Heritage Month! And one of the best way to do so is through books. Take a look at these popular novels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/books-by-aapi-authors>
 
 ---
 
@@ -49,18 +344,6 @@ date: 2025-05-02, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/37-types-of-fir-trees-with-pictures-and-identification/>
-
----
-
-## These New and Buzzy Books by AAPI Authors Should Be on Your Reading List
-
-date: 2025-05-02, from: Sunset Magazine - Living in the West
-
-It's time to celebrate AAPI Heritage Month! And one of the best way to do so is through books. Take a look at these popular novels. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/culture/books-by-aapi-authors>
 
 ---
 

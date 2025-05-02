@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2025-05-02 06:07:48
+updated: 2025-05-02 14:07:56
 ---
 
 # motorcycles
 
-(date: 2025-05-02 06:07:48)
+(date: 2025-05-02 14:07:56)
+
+---
+
+## NASCAR Chicago Street Race to Feature Carbliss as the Official Ready-to-Drink Canned Cocktail
+
+date: 2025-05-02, from: Kickin the Tires blog
+
+CHICAGO (Apr. 29, 2025) – The NASCAR Chicago Street Race announced that it will feature Plymouth, Wisc.-based Carbliss Hand Crafted Premium Cocktails as their official ready-to-drink canned cocktail. Carbliss will&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-chicago-street-race-to-feature-carbliss-as-the-official-ready-to-drink-canned-cocktail/>
+
+---
+
+## Chevrolet Corvette ZR1 To Pace 109th Indianapolis 500 presented by Gainbridge
+
+date: 2025-05-02, from: Kickin the Tires blog
+
+INDIANAPOLIS (Tuesday, April 29, 2025) – The 2025 Chevrolet Corvette ZR1 – capable of 233 mph, the highest top speed of any car ever made in America by an auto&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/chevrolet-corvette-zr1-to-pace-109th-indianapolis-500-presented-by-gainbridge/>
+
+---
+
+## JEGS & NHRA Announce Long-Term Extension of JEGS Allstars, with 2025 Return Set For Texas Motorplex
+
+date: 2025-05-02, from: Kickin the Tires blog
+
+ENNIS, Texas (April 29, 2025) – Following a thrilling celebration of 40 years of the popular JEGS Allstars in 2024, NHRA and JEGS announced an exciting multi-year extension of the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/jegs-nhra-announce-long-term-extension-of-jegs-allstars-with-2025-return-set-for-texas-motorplex/>
+
+---
+
+## Polaris Axes This Year's Financial Guidance Amid Uncertain Times, Read Tariffs
+
+date: 2025-05-02, from: Ride Apart, Electric Motorcycle News
+
+The question is, how far does "withdrawing financial guidance" actually go? 
+
+<br> 
+
+<https://www.rideapart.com/news/758286/polaris-withdraws-financial-guidance-tariff-uncertainty/>
+
+---
+
+## KTM's Parent Company Lost Nearly 1.2 Billion Euros Last Year
+
+date: 2025-05-02, from: Ride Apart, Electric Motorcycle News
+
+Also, it's getting out of the e-bike business altogether. 
+
+<br> 
+
+<https://www.rideapart.com/news/758356/ktm-pierer-mobility-2024-loss/>
 
 ---
 
@@ -45,7 +105,7 @@ Going public probably wasn't the best idea.
 
 ---
 
-## Not Even MotogGP's Golden Boy Can Escape Arm Injuries, Undergoes Surgery
+## Not Even MotoGP's Golden Boy Can Escape Arm Injuries, Undergoes Surgery
 
 date: 2025-05-02, from: Ride Apart, Electric Motorcycle News
 

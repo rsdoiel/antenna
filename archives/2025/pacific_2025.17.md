@@ -1,11 +1,76 @@
 ---
 title: pacific
-updated: 2025-05-02 06:07:41
+updated: 2025-05-02 14:07:52
 ---
 
 # pacific
 
-(date: 2025-05-02 06:07:41)
+(date: 2025-05-02 14:07:52)
+
+---
+
+## Cybersecurity team prepares for final DEF CON battle
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p>The team is preparing for the <abbr>DEF</abbr> <abbr>CON</abbr> finals in August, where the top eight teams will face off in a live, head-to-head showdown in Las Vegas.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/def-con-ctf/">Cybersecurity team prepares for final <abbr>DEF</abbr> <abbr>CON</abbr> battle</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/def-con-ctf/>
+
+---
+
+## 4 Rainbow Wahine earn All-Big West honors
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p>Ana Vilcek, Nikola Homolkova, Peppi Ramstedt and Sheena Masuda earned All-Big West honors.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/4-rainbow-wahine-earn-all-big-west-honors/">4 Rainbow Wahine earn All-Big West honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/4-rainbow-wahine-earn-all-big-west-honors/>
+
+---
+
+## Snyder, Visaya earn All-Big West honors
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p>Rainbow Warriors Quinn Snyder and Azuma Visaya were voted to the All-Big West Conference first team in doubles and second team honors in singles.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/snyder-visaya-earn-all-big-west-honors/">Snyder, Visaya earn All-Big West honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/snyder-visaya-earn-all-big-west-honors/>
+
+---
+
+## 5 BeachBows gain All-Big West nods
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa BeachBows Alana Embry, Sarah Burton, Caprice Lorenzo, Julia Lawrenz and Jasmine Wandeler receive All-Big West honors.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/5-beachbows-gain-all-big-west-nods/">5 BeachBows gain All-Big West nods</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/5-beachbows-gain-all-big-west-nods/>
+
+---
+
+## JABSOM launches Kauaʻi family medicine residency
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p><abbr>JABSOM</abbr> and Wilcox Health partner on Kauaʻi’s first family medicine residency.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/family-medicine-residency-kauai/"><abbr>JABSOM</abbr> launches Kauaʻi family medicine residency</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/family-medicine-residency-kauai/>
 
 ---
 

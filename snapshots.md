@@ -1,11 +1,328 @@
 ---
 title: snapshots
-updated: 2025-05-02 06:07:51
+updated: 2025-05-02 14:08:00
 ---
 
 # snapshots
 
-(date: 2025-05-02 06:07:51)
+(date: 2025-05-02 14:08:00)
+
+---
+
+## The Finance Team Lost One
+
+date: 2025-05-02, updated: 2025-05-02, from: Tedium site
+
+For years, many of Apple’s most consumer-unfriendly decisions have felt like an extension of a revenue-optimization strategy at constant risk of backfiring. Thanks to a bracing legal decision, now it has. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17020940/apple-app-store-decision-reaction>
+
+---
+
+## U.S. Denies Picking Bombing Targets From Random Twitter Accounts
+
+date: 2025-05-02, from: 404 Media Group
+
+An anonymous OSINT sleuth mis-identified a quarry as an underground Houthi base. Days later, the Pentagon allegedly struck the site and killed eight people. 
+
+<br> 
+
+<https://www.404media.co/u-s-denies-picking-bombing-targets-from-random-twitter-accounts/>
+
+---
+
+## Lilbits: Tariffs on Chinese shipments take effect, Apple opens up the App Store (a bit), and first look at Google’s Pixel Desktop mode
+
+date: 2025-05-02, from: Liliputing
+
+<p>Now that a US District Court judge has ordered Apple to loosen its restrictions on apps that direct users to pay for goods and subscriptions using non App Store billing, a growing number of developers are starting to update their apps to let users find other ways to pay. Patreon, and Proton are among those [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-tariffs-on-chinese-shipments-take-effect-apple-opens-up-the-app-store-a-bit-and-first-look-at-googles-pixel-desktop-mode/">Lilbits: Tariffs on Chinese shipments take effect, Apple opens up the App Store (a bit), and first look at Google&#8217;s Pixel Desktop mode</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-tariffs-on-chinese-shipments-take-effect-apple-opens-up-the-app-store-a-bit-and-first-look-at-googles-pixel-desktop-mode/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-02, from: Dave Winer's linkblog)
+
+Why did Tommy Tuberville vote in Florida if he lived in Alabama? 
+
+<br> 
+
+<https://www.al.com/news/2025/05/why-did-tommy-tuberville-vote-in-florida-if-he-lived-in-alabama.html>
+
+---
+
+## Daily Deals (5-02-2025)
+
+date: 2025-05-02, from: Liliputing
+
+<p>Star Wars Day is just around the corner (May the 4th be with you), and Amazon is giving away a few classic Star Wars games to Prime members, while Steam is running a sale on a whole bunch of titles. Meanwhile Google&#8217;s Pixel 9 series phones are on sale for $200 off, and some older [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-5-02-2025/">Daily Deals (5-02-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-5-02-2025/>
+
+---
+
+## Claude feature drop
+
+date: 2025-05-02, updated: 2025-05-02, from: Simon Willison’s Weblog
+
+<p>It's not in their <a href="https://docs.anthropic.com/en/release-notes/claude-apps">release notes</a> yet but Anthropic pushed some big new features today. <a href="https://twitter.com/alexalbert__/status/1918349277962879218">Alex Albert</a>:</p>
+<blockquote>
+<p>We've improved web search and rolled it out worldwide to all paid plans. Web search now combines light Research functionality, allowing Claude to automatically adjust search depth based on your question.</p>
+</blockquote>
+<p>Anthropic announced <a href="https://www.anthropic.com/news/research">Claude Research</a> a few weeks ago as a product that can combine web search with search against your private Google Workspace - I'm not clear on how much of that product we get in this "light Research" functionality.</p>
+<p>I'm most excited about <a href="https://twitter.com/AnthropicAI/status/1918346819169374470">this detail</a>:</p>
+<blockquote>
+<p>You can also drop a web link in any chat and Claude will fetch the content for you.</p>
+</blockquote>
+<p>In my experiments so far the user-agent it uses is <code>Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +Claude-User@anthropic.com)</code>. It also <code>robots.txt</code>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/alex-albert">alex-albert</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/deep-research">deep-research</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/2/claude-search/#atom-everything>
+
+---
+
+## App Review Guidelines Updated for Epic Anti-Steering
+
+date: 2025-05-02, from: Michael Tsai
+
+Apple (e-mail, Hacker News): The App Review Guidelines have been updated for compliance with a United States court decision regarding buttons, external links, and other calls to action in apps. These changes affect apps distributed on the United States storefront of the App Store, and are as follows: 3.1.1: Apps on the United States storefront [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/02/app-review-guidelines-updated-for-epic-anti-steering/>
+
+---
+
+## Apple’s Q2 2025 Results
+
+date: 2025-05-02, from: Michael Tsai
+
+Apple (transcript, MacRumors): The Company posted quarterly revenue of $95.4 billion, up 5 percent year over year, and quarterly diluted earnings per share of $1.65, up 8 percent year over year. [&#8230;] The board of directors has also authorized an additional program to repurchase up to $100 billion of the Company&#8217;s common stock. Jason Snell: [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/02/apples-q2-2025-results/>
+
+---
+
+## MacUpdater for Sale
+
+date: 2025-05-02, from: Michael Tsai
+
+CoreCode (via Jeff Johnson): CoreCode Ltd., the developer behind the award-winning MacUpdater software, today announced that it will be discontinuing active development of MacUpdater after January 1, 2026. With the core technical challenges of the macOS app-updating space fully solved, CoreCode is now inviting interested parties to either license the underlying technology or acquire the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/02/macupdater-for-sale/>
+
+---
+
+## YouTube at 20
+
+date: 2025-05-02, from: Michael Tsai
+
+Alex Weprin: Twenty years ago today, YouTube co-founder Jawed Karim uploaded a 19 second video titled &#8220;Me at the zoo&#8221; to the platform. As anyone who follows YouTube knows, it was the first video hosted by the platform. On its 20th anniversary, YouTube now says that since Karim&#8217;s video was posted, more than 20 billion [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/02/youtube-at-20/>
+
+---
+
+## Your Children’s Children Will Die in Our Factories
+
+date: 2025-05-02, from: 404 Media Group
+
+The small, pathetic technofeudalist dystopian vision of Howard Lutnick and the Trump administration. 
+
+<br> 
+
+<https://www.404media.co/your-childrens-children-will-die-in-our-factories/>
+
+---
+
+## Expanding on what we missed with sycophancy
+
+date: 2025-05-02, updated: 2025-05-02, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://openai.com/index/expanding-on-sycophancy/">Expanding on what we missed with sycophancy</a></strong></p>
+I criticized OpenAI's <a href="https://openai.com/index/sycophancy-in-gpt-4o/">initial post</a> about their recent ChatGPT sycophancy rollback as being "<a href="https://simonwillison.net/2025/Apr/30/sycophancy-in-gpt-4o/">relatively thin</a>" so I'm delighted that they have followed it with a much more in-depth explanation of what went wrong. This is worth spending time with - it includes a detailed description of how they create and test model updates.</p>
+<p>This feels reminiscent to me of a good outage <a href="https://simonwillison.net/tags/postmortem/">postmortem</a>, except here the incident in question was an AI personality bug!</p>
+<p>The custom GPT-4o model used by ChatGPT has had five major updates since it was first launched. OpenAI start by providing some clear insights into how the model updates work:</p>
+<blockquote>
+<p>To post-train models, we take a pre-trained base model, do supervised fine-tuning on a broad set of ideal responses written by humans or existing models, and then run reinforcement learning with reward signals from a variety of sources.</p>
+<p>During reinforcement learning, we present the language model with a prompt and ask it to write responses. We then rate its response according to the reward signals, and update the language model to make it more likely to produce higher-rated responses and less likely to produce lower-rated responses.</p>
+</blockquote>
+<p>Here's yet more evidence that the entire AI industry runs on "vibes":</p>
+<blockquote>
+<p>In addition to formal evaluations, internal experts spend significant time interacting with each new model before launch. We informally call these “vibe checks”—a kind of human sanity check to catch issues that automated evals or A/B tests might miss. </p>
+</blockquote>
+<p>So what went wrong? Highlights mine:</p>
+<blockquote>
+<p>In the April 25th model update, we had candidate improvements to better incorporate user feedback, memory, and fresher data, among others. <strong>Our early assessment is that each of these changes, which had looked beneficial individually, may have played a part in tipping the scales on sycophancy when combined</strong>. For example, the update introduced <strong>an additional reward signal based on user feedback—thumbs-up and thumbs-down data from ChatGPT</strong>. This signal is often useful; a thumbs-down usually means something went wrong.</p>
+<p>But we believe in aggregate, <strong>these changes weakened the influence of our primary reward signal, which had been holding sycophancy in check</strong>. User feedback in particular can sometimes favor more agreeable responses, likely amplifying the shift we saw.</p>
+</blockquote>
+<p>I'm surprised that this appears to be first time the thumbs up and thumbs down data has been used to influence the model - they've been collecting that data for a couple of years now.</p>
+<p>I've been very suspicious of the new "memory" feature, where ChatGPT can use context of previous conversations to influence the next response. It looks like that may be part of this too, though not definitively the cause of the sycophancy bug:</p>
+<blockquote>
+<p>We have also seen that in some cases, user memory contributes to exacerbating the effects of sycophancy, although we don’t have evidence that it broadly increases it.</p>
+</blockquote>
+<p>The biggest miss here appears to be that they let their automated evals and A/B tests overrule those vibe checks!</p>
+<blockquote>
+<p>One of the key problems with this launch was that our offline evaluations—especially those testing behavior—generally looked good. Similarly, the A/B tests seemed to indicate that the small number of users who tried the model liked it. [...] Nevertheless, some expert testers had indicated that the model behavior “felt” slightly off.</p>
+</blockquote>
+<p>The <a href="https://simonwillison.net/2025/Apr/29/chatgpt-sycophancy-prompt/">system prompt change</a> I wrote about the other day was a temporary fix while they were rolling out the new model:</p>
+<blockquote>
+<p>We took immediate action by pushing updates to the system prompt late Sunday night to mitigate much of the negative impact quickly, and initiated a full rollback to the previous GPT‑4o version on Monday</p>
+</blockquote>
+<p>They list a set of sensible new precautions they are introducing to avoid behavioral bugs like this making it to production in the future. Most significantly, it looks we are finally going to get release notes!</p>
+<blockquote>
+<p>We also made communication errors. Because we expected this to be a fairly subtle update, we didn't proactively announce it. Also, our release notes didn’t have enough information about the changes we'd made. Going forward, we’ll proactively communicate about the updates we’re making to the models in ChatGPT, whether “subtle” or not.</p>
+</blockquote>
+<p>And model behavioral problems will now be treated as seriously as other safety issues.</p>
+<blockquote>
+<p><strong>We need to treat model behavior issues as launch-blocking like we do other safety risks</strong>. [...] We now understand that personality and other behavioral issues should be launch blocking, and we’re modifying our processes to reflect that.</p>
+</blockquote>
+<p>This final note acknowledges how much more responsibility these systems need to take on two years into our weird consumer-facing LLM revolution:</p>
+<blockquote>
+<p>One of the biggest lessons is fully recognizing how people have started to use ChatGPT for deeply personal advice—something we didn’t see as much even a year ago. At the time, this wasn’t a primary focus, but as AI and society have co-evolved, it’s become clear that we need to treat this use case with great care.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/2/what-we-missed-with-sycophancy/#atom-everything>
+
+---
+
+## Higher Education's Hidden Billions
+
+date: 2025-05-02, from: Guy Kawasaki blog
+
+Todd L. Ely, Associate Professor of Public Administration; Director, Center for Local Government, University of Colorado Denver. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/higher-educations-hidden-billions>
+
+---
+
+## Mark Zuckerberg's Phantom-Friend-Future
+
+date: 2025-05-02, from: Dave Karpf's blog
+
+Champagne for my real friends; real pain for my sham friends (amirite?) 
+
+<br> 
+
+<https://davekarpf.substack.com/p/mark-zuckerbergs-phantom-friend-future>
+
+---
+
+## Andor (recapitulación 2.04, 2.05 y 2.06): Ever Been to Ghorman?, I Have Friends Everywhere, What a Festive Evening
+
+date: 2025-05-02, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Disponible en: Disney+. Creador: Tony Gilroy. Dirección: Ariel Kleiman. Guion:  Beau Willimon. Elenco: Diego Luna, Stellan Skarsgård, Genevieve O&#8217;Reilly, Denise Gough, Kyle Soller, Adria Arjona, Faye Marsay, Muhannad Bhaier, Elizabeth Dulau. Más información de la serie: https://www.imdb.com/title/tt9253284/ Episodios previos &#124; Esta recapitulación contiene spoilers acumulados de Andor y Rogue One (Star Wars). Veredicto: Sin tener [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/andor-recapitulacion-2-04-2-05-y-2-06/">Andor (recapitulación 2.04, 2.05 y 2.06): Ever Been to Ghorman?, I Have Friends Everywhere, What a Festive Evening</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/andor-recapitulacion-2-04-2-05-y-2-06/?utm_source=rss&utm_medium=rss&utm_campaign=andor-recapitulacion-2-04-2-05-y-2-06>
+
+---
+
+## Behind the Blog: The News Hits Different
+
+date: 2025-05-02, from: 404 Media Group
+
+This week, we discuss eyebrow-raising apps, more media mess, and lovingly gazing at AI slop. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-the-news-hits-different/>
+
+---
+
+## MAGA’s War on Science
+
+date: 2025-05-02, from: Paul Krugman
+
+Why do these people believe that ignorance is strength? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/magas-war-on-science>
+
+---
+
+## The Great Rotation
+
+date: 2025-05-02, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>“Stay in your lane” is a person’s way of saying they disagree with you, but they’re too lazy to counter your point(s) with any evidence or argument. I get this a lot when I talk about politics. Separating business from politics is akin to believing that fish swim independent of the water’s current. America’s toxic [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/the-great-rotation/">The Great Rotation</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/the-great-rotation/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-02, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lo74rzbqkk2y>
+
+---
+
+## How Plaid migrated 100 services to a new database platform 5x faster with Deno
+
+date: 2025-05-02, updated: 2025-05-02, from: Deno blog
+
+Learn how Plaid used Deno to minimize downtime and improve cutover speed during a critical infrastructure migration. 
+
+<br> 
+
+<https://deno.com/blog/how-plaid-migrated-critical-services-with-deno>
+
+---
+
+## Aura Triple Boost 14″ Pro gives you laptop THREE extra displays
+
+date: 2025-05-02, from: Liliputing
+
+<p>Want to give your laptop a little extra screen space when you&#8217;re on the go? There hundreds of portable monitors available that can double your screen space with typical prices ranging from $50 to $200. And if you want to take things to the next level, several companies have launched slightly higher-priced dual-screen portable displays [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aura-triple-boost-14-pro-gives-you-laptop-three-extra-displays/">Aura Triple Boost 14&#8243; Pro gives you laptop THREE extra displays</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://us.aura-displays.com/cdn/shop/videos/c/vp/bd4ef5924e0d419c85633e3e7ecdbfe1/bd4ef5924e0d419c85633e3e7ecdbfe1.HD-1080p-2.5Mbps-46074779.mp4"></source>
+</video> <a href="https://us.aura-displays.com/cdn/shop/videos/c/vp/bd4ef5924e0d419c85633e3e7ecdbfe1/bd4ef5924e0d419c85633e3e7ecdbfe1.HD-1080p-2.5Mbps-46074779.mp4" target="_blank">download video/mp4</a> 
+
+<https://liliputing.com/aura-triple-boost-14-pro-gives-you-laptop-three-extra-displays/>
 
 ---
 

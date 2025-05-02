@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-05-02 06:07:42
+updated: 2025-05-02 14:07:53
 ---
 
 # science and technology
 
-(date: 2025-05-02 06:07:42)
+(date: 2025-05-02 14:07:53)
+
+---
+
+## Meta blames Trump tariffs for ballooning AI infra bills
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Capex could jump by $7B to $72B, Zuckercorp says</h4> <p><strong>World War Fee</strong>  Meta&#39;s AI ambitions are going to cost more than expected thanks to increased competition and — who could have seen this coming? — the Trump administration&#39;s obsession with tariffs, which is driving up the price tag of key components.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/meta_trump_tariffs_ai/>
+
+---
+
+## Oregon State University's Open Source Lab is running on fumes
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>FOSS incubator is short a quarter of a million bucks</h4> <p>Higher education across the USA is facing federal funding cutbacks – and now the Oregon State University (OSU) Open Source Lab (OSL) is in trouble.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/osl_short_of_money/>
+
+---
+
+## Back to Earth
+
+date: 2025-05-02, from: NASA breaking news
+
+The Soyuz MS-26 spacecraft is pictured backing away from the International Space Station shortly after undocking on April 19, 2025. Three hours later, the spacecraft landed in Kazakhstan, returning astronaut Don Pettit and cosmonauts Alexey Ovchinin and Ivan Vagner to Earth. While aboard the International Space Station, Pettit conducted hundreds of hours of scientific investigations, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/back-to-earth/>
+
+---
+
+## NATS custody battle ends with CNCF and Synadia sharing nicely
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Trademark, domain name, GitHub repos stay under control of open source foundation – no word on any forking off for now</h4> <p>The Cloud Native Computing Foundation (CNCF) has reached an agreement with Synadia, the company behind open source messaging system NATS, which will see it control the trademark, domain name, and GitHub repositories.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/cncf_synadia_nats/>
+
+---
+
+## Raspberry Pi slices Compute Module 4 prices
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Grab more headroom with the 4 and 8 GB variants</h4> <p>Raspberry Pi has bucked tech industry trends and cut prices for the 4 GB and 8 GB variants of its Compute Module 4.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/raspberry_pi_cm4_cuts/>
+
+---
+
+## Disney Slack attack wasn't Russian protesters, just a Cali dude with malware
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>25-year-old fella pleads guilty to stealing, dumping 1.1TB of data from the House of Mouse</h4> <p>When someone stole more than a terabyte of data from Disney last year, it was believed to be the work of Russian hacktivists protesting for artist rights. We now know it was actually a 25-year-old California resident.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/disney_slack_hacker_revealed_to/>
+
+---
+
+## President Trump’s FY26 Budget Revitalizes Human Space Exploration
+
+date: 2025-05-02, from: NASA breaking news
+
+The Trump-Vance Administration released toplines of the President’s budget for Fiscal Year 2026 on Friday. The budget accelerates human space exploration of the Moon and Mars with a fiscally responsible portfolio of missions. “This proposal includes investments to simultaneously pursue exploration of the Moon and Mars while still prioritizing critical science and technology research,” said [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/president-trumps-fy26-budget-revitalizes-human-space-exploration/>
+
+---
+
+## Generative AI makes fraud fluent – from phishing lures to fake lovers
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Real-time video deepfakes? Not convincing yet</h4> <p><strong>RSAC</strong>  Spam messages predate the web itself, and generative AI has given it a fluency upgrade, churning out slick, localized scams and letting crooks hit regions and dialects they used to ignore.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/gen_ai_spam/>
+
+---
+
+## OSle: a tiny boot sector operating system
+
+date: 2025-05-02, from: OS News
+
+OSle is an incredibly small operating system, coming in at only 510 bytes, so it fits entirely into a boot sector. It runs in real-mode, and is written in assembly. Despite the small size, it has a shell, a read and write file system, process management, and more. It even has its own tiny SDK and some pre-built programs. The code&#8217;s available under the MIT license. 
+
+<br> 
+
+<https://www.osnews.com/story/142273/osle-a-tiny-boot-sector-operating-system/>
+
+---
+
+## NASA Stennis Employee Contributes to Innovative Work
+
+date: 2025-05-02, from: NASA breaking news
+
+Living up to, and maintaining, the standard of excellence associated with NASA is what drives Robert Williams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. A native of Gulfport, Mississippi, Williams said he has had the opportunity to work with and be mentored by “some truly exceptional” engineers, some with careers reaching back [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/stennis-employee-robert-williams-contributes-to-innovative-work/>
+
+---
+
+## EU fines TikTok token amount of €530 million for gross privacy violations
+
+date: 2025-05-02, from: OS News
+
+A European Union privacy watchdog fined TikTok 530 million euros ($600 million) on Friday after a four-year investigation found that the video sharing app’s data transfers to China put users at risk of spying, in breach of strict EU data privacy rules. Ireland’s Data Protection Commission also sanctioned TikTok for not being transparent with users about where their personal data was being sent and ordered the company to comply with the rules within six months. ↫ Kelvin Chan for AP News In case you&#8217;re wondering what Ireland&#8217;s specific role in this case is, TikTok&#8217;s European headquarters are located in Ireland, which means that any EU-wide privacy violations by TikTok are handled by Ireland&#8217;s privacy watchdog. Anyway, sounds like a big fine, right? Let&#8217;s do some math. TikTok&#8217;s global revenue last year is estimated at €20 billion. This means that a €530 million fine is 2.65% of TikTok&#8217;s global yearly revenue. Now let&#8217;s make this more relatable for us normal people. The yearly median income in Sweden is €34365 (pre-taxes), which means that if the median income Swede had to pay a fine with the same impact as the TikTok fine, they&#8217;d have to pay €910. That&#8217;s how utterly bullshit this fine is. €910 isn&#8217;t nothing if you make €34000 per year, but would you call this a true punishment for TikTok? Any time you read about any of these coporate fines, you should do math like this to get an idea of what the true impact of the fine really amounts to. You&#8217;ll be surprised to learn to just how utterly toothless they are. 
+
+<br> 
+
+<https://www.osnews.com/story/142271/eu-fines-tiktok-token-amount-of-e530-million-for-gross-privacy-violations/>
+
+---
+
+## 20% discount offer on Windows 365 expires around same time as Windows 10 support
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Can&#39;t run Windows 11? Microsoft suggests renting it instead</h4> <p>Microsoft has announced a price cut for Windows 365 alongside a not-so-subtle suggestion that Windows 10 users might consider taking advantage of the offer to keep security updates flowing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/windows_365_discount/>
+
+---
+
+## Three Brits charged over 'active shooter threats' swattings in US, Canada
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>UK starts prosecution days after FBI vowed to clamp down on the crime</h4> <p>Three young Brits are accused of stateside swatting offences and will appear in a UK court today to face their charges after a joint investigation by the FBI and Merseyside cops.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/three_brits_charged_over_us_swattings/>
 
 ---
 
@@ -117,7 +273,7 @@ date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
 
 ---
 
-## Siri? Will tariffs hurt Apple? Tim Cook says brace for a $900 million whack, for starters
+## Siri? Will tariffs hurt Apple? Tim Cook says brace for a $900M whack, for starters
 
 date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
 
@@ -455,9 +611,9 @@ date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
 
 ## Google details plans for 1 MW IT racks exploiting electric vehicle supply chain
 
-date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+date: 2025-05-01, updated: 2025-05-02, from: The Register (UK I.T. News)
 
-<h4>Switching voltage allows search giant to switch up power delivery system</h4> <p>Google is planning for datacenter racks supporting 1 MW of IT hardware loads, plus the cooling infrastructure to cope, as AI processing continues to grow ever more energy intensive.…</p> 
+<h4>Switching voltage allows search giant to swap out power delivery system</h4> <p>Google is planning for datacenter racks supporting 1 MW of IT hardware loads, plus the cooling infrastructure to cope, as AI processing continues to grow ever more energy intensive.…</p> 
 
 <br> 
 
@@ -563,7 +719,7 @@ date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
 
 ## Cook'd: Judge says Apple lied to court in Epic case, asks Feds to mull criminal charges
 
-date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+date: 2025-05-01, updated: 2025-05-02, from: The Register (UK I.T. News)
 
 <h4>CEO, senior execs ‘at every turn chose the most anti-competitive option’</h4> <p>A federal judge has said Apple execs deliberately ignored an injunction and told lies in court – and so has asked US prosecutors to consider criminal charges against the iPhone titan.…</p> 
 
