@@ -1,23 +1,142 @@
 ---
 title: weather
-updated: 2025-05-01 14:07:37
+updated: 2025-05-02 06:07:44
 ---
 
 # weather
 
-(date: 2025-05-01 14:07:37)
+(date: 2025-05-02 06:07:44)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-05-01, from: Eastern Pacific Basin GIS Data
+date: 2025-05-02, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Fri May  2 12:32:02 UTC 2025
+
+date: 2025-05-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri May  2 12:32:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri May  2 12:32:02 UTC 2025
+
+date: 2025-05-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri May  2 12:32:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC May 2, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-05-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0344 AM CDT Fri May 02 2025
+
+Valid 051200Z - 101200Z
+
+...DISCUSSION...
+...Day 4/Monday - Southern High Plains...
+Lee cyclogenesis will strengthen on Monday in the southern High
+Plains as a mid-level trough advects eastward. As this occurs, rich
+low-level moisture will advect into West Texas which will result in
+strong instability as temperatures continue to cool aloft. Expect
+scattered thunderstorm development along the dryline during the
+afternoon/evening. However, more widespread storm development is
+likely after 00Z as the low-level jet strengthens across West Texas.
+Initial supercells will have a threat for all severe weather hazards
+before eventual upscale growth into a MCS likely results in a
+greater severe wind threat. 
+
+...Day 5/Tuesday - Central/East Texas into Louisiana...
+Day 4 thunderstorms will likely be ongoing at the beginning of the
+period along a frontal zone across central/East Texas and persist
+eastward through the day. Destabilization remains questionable as
+strong high pressure and the low-latitude nature of the mid-level
+trough may limit northward movement of the warm front. The potential
+for this front to be stationary, in addition to widespread
+convection/cloud cover concerns along the front, preclude severe
+weather probabilities at this time. However, there will likely be a
+corridor along the frontal zone with some greater severe weather
+threat which may become more clear as the event draws closer.
+
+Additional severe storms will be possible Day 6 and 7 along the
+frontal zone/composite outflow in Texas, but the location of this
+feature and degree of destabilization along it will be highly
+dependent on prior days convective activity. For these reasons, no
+probabilities have been added at this time.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-05-02, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0140 AM CDT Fri May 02 2025
+
+Valid 031200Z - 041200Z
+
+...Synopsis...
+Fire weather concerns will continue to be focused across the
+Southwest as isolated to scattered thunderstorms develop through
+late Saturday afternoon. Upper ridging is expected to spread across
+the High Plains through the day as an upper wave begins to approach
+the West Coast. Southerly low/mid-level flow ahead of the upper wave
+will help maintain a modestly moist air mass (characterized by 0.4
+to 0.6 inch PWAT values) across the Southwest into the Great Basin.
+Increasing broad scale ascent, coupled with antecedent steep
+mid-level lapse rates, will promote isolated thunderstorms from
+central NM to central NV by late afternoon. Limited moisture
+throughout the column combined with deep boundary layers will act to
+limit precipitation amounts and support dry lightning strikes. While
+this potential is noted across a broad swath of the region, the fire
+weather threat will be greatest across eastern AZ into NM where fuel
+conditions are currently the driest per recent fuel and drought
+guidance.
+
+..Moore.. 05/02/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -310,54 +429,6 @@ BELMONT              CARROLL             COLUMBIANA
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/ws0203.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0248 PM CDT Thu May 01 2025
-
-Valid 021200Z - 031200Z
-
-An approaching mid-level trough interacting with an elevated
-moisture plume draped along the Southwest from southern California
-to New Mexico is expected to bring another round of afternoon
-convection, concentrated in the higher terrain northwestern Arizona
-into western New Mexico. Isolated dry thunderstorms are expected
-where boundary layer moisture remains limited and fuels remain
-receptive (90th percentile or higher ERC values), primarily across
-eastern Arizona and western New Mexico. Therefore, Isolated Dry
-Thunderstorm highlights were added to communicate this fire weather
-threat.
-
-..Williams.. 05/01/2025
-
-.PREV DISCUSSION... /ISSUED 1228 AM CDT Thu May 01 2025/
-
-...Synopsis...
-A low-amplitude midlevel trough will move eastward across northern
-Mexico and the Southwest. As large-scale ascent accompanying this
-feature overspreads a midlevel moisture plume across the Southwest,
-widely scattered dry thunderstorms will develop along the higher
-terrain. However, the overlap of these high-based thunderstorms and
-dry/receptive fuels appears too limited for Dry Thunderstorm
-highlights at this time. Elsewhere across the CONUS, a minimal
-overlap of dry/breezy conditions will limit fire-weather concerns.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -709,77 +780,6 @@ risk of large hail.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC - No watches are valid as of Thu May  1 12:18:02 UTC 2025
-
-date: 2025-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu May  1 12:18:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Thu May  1 12:18:02 UTC 2025
-
-date: 2025-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu May  1 12:18:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC May 1, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0355 AM CDT Thu May 01 2025
-
-Valid 041200Z - 091200Z
-
-...DISCUSSION...
-High pressure will dominate much of the eastern CONUS at the start
-of the extended period. This will shift most moisture into the
-Atlantic/Gulf of America. The only exception will be across Texas
-where east-southeasterly flow will advect richer low-level moisture
-into the southern High Plains. This will be the focus for any
-potential severe storms on Day 4/Sun and Day 5/Mon. However,
-specific during this period, and particularly beyond, are quite
-nebulous. The ECMWF cuts off an upper low across the Ohio Valley
-vicinity on Saturday Night while the GFS waits to cut off the
-upper-low across the Southeast US on Monday/Tuesday.
-
-Farther west there is more consistency in the upper pattern with a
-cutoff low in the Southwest vicinity. Enhanced southwesterly flow
-could result in several days of severe weather in the southern
-Plains. However, moisture remains uncertain due to aforementioned
-timing/location differences for the mid-level trough in the East.
-The GFS solution results in a more progressive cold front which
-clears out most of the greater moisture from the Gulf. However, the
-ECMWF stalls the front across the central Gulf which leaves a
-reservoir of rich theta-e which can be advected across Texas and
-vicinity during the early-mid part of next week. Therefore,
-predictability remains too low for probabilities at this time, but
-once the upper-level pattern becomes more clear, probabilities may
-be necessary.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

@@ -1,11 +1,103 @@
 ---
 title: food
-updated: 2025-05-01 14:07:43
+updated: 2025-05-02 06:07:49
 ---
 
 # food
 
-(date: 2025-05-01 14:07:43)
+(date: 2025-05-02 06:07:49)
+
+---
+
+## Gochujang Pasta Recipe
+
+date: 2025-05-02, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/" title="Gochujang Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Zesty Gochujang Pasta in a bowl with grated Parmesan cheese on top" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Gochujang-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spicy, creamy gochujang pasta blends Korean chili paste with parmesan cheese and more for pasta with a Korean twist, easy to make and ready in minutes!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/gochujang-pasta/">Gochujang Pasta Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/gochujang-pasta/>
+
+---
+
+## We Talked to A Zillion People At the 2025 Specialty Coffee Expo—Here Are Eight Critical Takeaways
+
+date: 2025-05-02, from: The Fresh Cup
+
+<p>From tariff tensions to automation acceptance, a firsthand look at how the coffee industry is evolving according to the people we talked to on the Specialty Coffee Expo floor.</p>
+<p>The post <a href="https://freshcup.com/2025-expo-takeaways/">We Talked to A Zillion People At the 2025 Specialty Coffee Expo—Here Are Eight Critical Takeaways</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/2025-expo-takeaways/>
+
+---
+
+## The Best Cheap Blenders at Every Price Point. Seriously
+
+date: 2025-05-02, from: Bon Appetet
+
+Read this before you add that Ninja blender to your cart. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cheap-blenders>
+
+---
+
+## Crispy Crepes and More Recipes We Made This Week
+
+date: 2025-05-02, from: Bon Appetet
+
+Like a chicken-asparagus stir-fry and a mushroom-leek frittata. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-may-2025>
+
+---
+
+## Saoirse Ronan Took a Cooking Class to Learn How to Make This Dessert
+
+date: 2025-05-02, from: Taste of Home
+
+<p>Imagine taking a class with an Oscar nominee!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/saoirse-ronan-sticky-ginger-cake/">Saoirse Ronan Took a Cooking Class to Learn How to Make This Dessert</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/saoirse-ronan-sticky-ginger-cake/>
+
+---
+
+## What Is ‘Mom’s Slice’ and Why Do You Need One for Your Mother’s Day Cake?
+
+date: 2025-05-02, from: Taste of Home
+
+<p>This social media trend could be the perfect addition to your Mother's Day dessert.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/moms-slice-mothers-day-cake/">What Is &#8216;Mom&#8217;s Slice&#8217; and Why Do You Need One for Your Mother&#8217;s Day Cake?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/moms-slice-mothers-day-cake/>
+
+---
+
+## Simplest Plum Tarts
+
+date: 2025-05-01, from: Bon Appetet
+
+Transform puff pastry, ripe fruit, and a slick of jam into a patisserie-chic dessert. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/easy-plum-tarts>
 
 ---
 
@@ -519,7 +611,7 @@ date: 2025-04-30, from: The Fresh Cup
 
 date: 2025-04-30, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/aguachile/" title="Aguachile Recipe (Mexican Shrimp Ceviche)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of aguachile features shrimp, cucumber slices, red onions, and cilantro in a vibrant green sauce. Lime slices and tortilla chips accompany this delicious aguachile recipe on a light surface with a green cloth." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Aguachile is an essential Mexican ceviche from Sinaloa with shrimp marinated in a mix of lime juice, chili, and herbs with lots of fresh garnish, so good! Great with scallops, too!</p>
+<a href="https://www.chilipeppermadness.com/recipes/aguachile/" title="Aguachile Recipe (Mexican Shrimp Ceviche)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of aguachile features shrimp, cucumber slices, red onions, and cilantro in a vibrant green sauce. Lime slices and tortilla chips accompany this delicious aguachile recipe on a light surface with a green cloth." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Aguachile-Recipe-1-2025.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Aguachile is an essential Mexican ceviche from Sinaloa with shrimp marinated in a mix of lime juice, chili, and herbs with lots of fresh garnish, so good! Great with scallops, too!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/aguachile/">Aguachile Recipe (Mexican Shrimp Ceviche)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

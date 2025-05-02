@@ -1,11 +1,223 @@
 ---
 title: columns
-updated: 2025-05-01 14:07:37
+updated: 2025-05-02 06:07:43
 ---
 
 # columns
 
-(date: 2025-05-01 14:07:37)
+(date: 2025-05-02 06:07:43)
+
+---
+
+## NCSC Guidance on “Advanced Cryptography”
+
+date: 2025-05-02, updated: 2025-05-01, from: Bruce Schneier blog
+
+<p>The UK&#8217;s National Cyber Security Centre just released its <a href="https://www.ncsc.gov.uk/whitepaper/advanced-cryptography">white paper</a> on &#8220;Advanced Cryptography,&#8221; which it defines as &#8220;cryptographic techniques for processing encrypted data, providing enhanced functionality over and above that provided by traditional cryptography.&#8221; It includes things like homomorphic encryption, attribute-based encryption, zero-knowledge proofs, and secure multiparty computation.</p>
+<p>It&#8217;s full of good advice. I especially appreciate this warning:</p>
+<blockquote><p>When deciding whether to use Advanced Cryptography, start with a clear articulation of the problem, and use that to guide the development of an appropriate solution. That is, you should not start with an Advanced Cryptography technique, and then attempt to fit the functionality it provides to the problem. ...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/ncsc-guidance-on-advanced-cryptography.html>
+
+---
+
+## The Great Pushback?
+
+date: 2025-05-02, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-great-pushback>
+
+---
+
+## May 1, 2025 
+
+date: 2025-05-02, from: Heather Cox Richardson blog
+
+President Donald Trump waited until the 101st day of his administration to fire national security advisor Mike Waltz, the official responsible for including the editor-in-chief of The Atlantic on an unsecure Signal chat in which leaders shared classified information about a military strike on the Houthis in Yemen. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-1-2025>
+
+---
+
+## Tungsten W + PalmPix
+
+date: 2025-05-02, from: Jirka's blog
+
+As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx  devices. So I have almost modern  smarphone (jsut 17 years old!) with the (detachable camera). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_Tungsten_W_PalmPix>
+
+---
+
+## TRG Pro: first impressions
+
+date: 2025-05-02, from: Jirka's blog
+
+The title is  all wrong because I  extensively used the TRG  Pro in the past. But the last time when I synced  the TRG was in 2/2016 and then I have been using the original Palm III devices (IIIx + IIIxe) instead of the TRG. I have not wanted to damage  or lost my only TRG Pro (which is pretty rare as you  may know). Now I have two TRGs so  I can use one of them on daily basis, I think. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_TRG_Pro_first_impressions>
+
+---
+
+## Standing desk attempt
+
+date: 2025-05-02, from: Jirka's blog
+
+I'm trying to set  up a standing desk in my office. I  found a (less or more) space, two  older LCDs (the ViewSonic vp171s),  then prepared the keyboard and mouse. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_Standing_desk_attempt>
+
+---
+
+## Standing desk (5)
+
+date: 2025-05-02, from: Jirka's blog
+
+I tried  to add a  Raspberry Pi model  B. It seems  to work (I  have to figure  how to  set  up the  EDUROAM  WiFi on  the  Raspbian) and  it's relatively slow. I need network connection  here only for some tasks so slow connection and even slower WWW browser may be OK. I should test it LaTeX works (I think that I even didn't tried to install it). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_Standing_desk_5>
+
+---
+
+## Standing desk (4)
+
+date: 2025-05-02, from: Jirka's blog
+
+I tried  to use second  LCD (also VP171s but  a newer one)  and another DVI-HDMI adapter (this one I have used at home for years). The image is still terribly green and on the second LCD it is also unstable. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_Standing_desk_4>
+
+---
+
+## Standing desk (3)
+
+date: 2025-05-02, from: Jirka's blog
+
+Another partial  victory. I  re-connected my ODROID,  added a  USB WiFi (the TP-Link  TK-WN725N) so now  there is  working NTP, git  and system updates (www/gopher/e-mail, too). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_Standing_desk_3>
+
+---
+
+## Standing desk (2)
+
+date: 2025-05-02, from: Jirka's blog
+
+I decided to abandon the ODROID for  the standing desk. I have found my old Intel Compute Stick with Ubuntu  and connected it into the DVI port of the vp171s. After some repairs is booted and it even works. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_Standing_desk_2>
+
+---
+
+## Serial-USB
+
+date: 2025-05-02, from: Jirka's blog
+
+I have bought two Serial-USB adapters. That is, the adapters which allow to connect serial devices (like Palm Pilot cradles) to modern computers which have USB ports but no serial ones. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250502-0446_Serial_USB>
+
+---
+
+## Mayday on May Day
+
+date: 2025-05-02, from: Dan Rather's Steady
+
+All Republicans can do is applaud their captain 
+
+<br> 
+
+<https://steady.substack.com/p/mayday-on-may-day>
+
+---
+
+## Friday 2 May, 2025
+
+date: 2025-05-01, from: John Naughton's online diary
+
+En vacance… In France, in the days of The International Herald Tribune (of blessed memory). Quote of the Day ”At the end of the day, real wealth isn’t about flashing cash. It’s about moving through the world with an invisible &#8230; <a href="https://memex.naughtons.org/friday-2-may-2025/40755/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-2-may-2025/40755/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Seemed more legally defensible.  Up until that last toot.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114435021101840262>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Sometimes when I say “I drew inspiration from” I mean “I did a pixel-perfect copy”.</p><p>The colors are sometimes a struggle, as I don’t master the art of the translucent materials yet.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114434987229607072>
+
+---
+
+## The Alien Enemies Act does NOT give Trump authority to abduct and deport
+
+date: 2025-05-01, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-alien-enemies-act-does-not-give>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Once again, I turned to LogicPro for inspiration, this time the Audio Bus:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114434933704224833>
+
+---
+
+##  A recent survey &#8220;shows a steep decline in the number of parents... 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046759-a-recent-survey-shows-a>
 
 ---
 
@@ -17,22 +229,87 @@ date: 2025-05-01, from: Alex Schroeder's Blog
 
 <p>That is, running the Alps with a heart for plants! We arrived in the Vallais today and as soon as we had emptied our luggage we decided to go for a jogging-hike to the Cave du Sex (yeah, that’s the name!) and we took some pictures on the way.</p>
 
-<p><img loading="lazy" src="2025-05-01-run-the-alps-1.jpg" alt="2025-05-01-run-the-alps-1.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-2.jpg" alt="2025-05-01-run-the-alps-2.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-3.jpg" alt="2025-05-01-run-the-alps-3.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-4.jpg" alt="2025-05-01-run-the-alps-4.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-5.jpg" alt="2025-05-01-run-the-alps-5.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-6.jpg" alt="2025-05-01-run-the-alps-6.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-7.jpg" alt="2025-05-01-run-the-alps-7.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-8.jpg" alt="2025-05-01-run-the-alps-8.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-9.jpg" alt="2025-05-01-run-the-alps-9.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-10.jpg" alt="2025-05-01-run-the-alps-10.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-11.jpg" alt="2025-05-01-run-the-alps-11.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-12.jpg" alt="2025-05-01-run-the-alps-12.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-13.jpg" alt="2025-05-01-run-the-alps-13.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-14.jpg" alt="2025-05-01-run-the-alps-14.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-15.jpg" alt="2025-05-01-run-the-alps-15.jpg" />
-<img loading="lazy" src="2025-05-01-run-the-alps-16.jpg" alt="2025-05-01-run-the-alps-16.jpg" /></p>
+<p>Buchsblättriges Kreuzblümchen<br>
+Polygaloides chamaebuxus</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-1.jpg" alt="2025-05-01-run-the-alps-1.jpg" /></p>
+
+<p>Gewöhnliche Kugelblume<br>
+Globularia bisnagarica</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-2.jpg" alt="2025-05-01-run-the-alps-2.jpg" /></p>
+
+<p>Frühlings-Fingerkraut (Artengruppe)<br>
+Ptentilla verna agg.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-3.jpg" alt="2025-05-01-run-the-alps-3.jpg" /></p>
+
+<p>Leberblümchen<br>
+Hepatica nobilis</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-4.jpg" alt="2025-05-01-run-the-alps-4.jpg" /></p>
+
+<p>The ascent was soon too steep to run but beautiful as the sun began to set.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-5.jpg" alt="2025-05-01-run-the-alps-5.jpg" /></p>
+
+<p>Frühlings-Krokus<br>
+Crocus vernus</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-6.jpg" alt="2025-05-01-run-the-alps-6.jpg" /></p>
+
+<p>We are on the southern flanks of the mountains, so the mountains to the south still sunny while our side is being engulfed in shadows.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-7.jpg" alt="2025-05-01-run-the-alps-7.jpg" /></p>
+
+<p>Gefingerter Lerchensporn<br>
+Corydalis solida</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-8.jpg" alt="2025-05-01-run-the-alps-8.jpg" /></p>
+
+<p>Sump-Dotterblume<br>
+Caltha palustris</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-9.jpg" alt="2025-05-01-run-the-alps-9.jpg" /></p>
+
+<p>Südalpen-Lungenkraut<br>
+Pulmonaria australis</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-10.jpg" alt="2025-05-01-run-the-alps-10.jpg" /></p>
+
+<p>From the Cave du Sex we were running along the Bisse du Tsittoret towards Colombire.
+This an old waterway along the mountainside to transport water from one alp to the next.
+It has been restored for the tourists and it&rsquo;s super nice.
+Pretty nice for running, since it follows the gentle slope along the waster.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-11.jpg" alt="2025-05-01-run-the-alps-11.jpg" /></p>
+
+<p>Röhriger-Goldstern<br>
+Gagea fragifera</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-12.jpg" alt="2025-05-01-run-the-alps-12.jpg" /></p>
+
+<p>Gewöhnliche Pestwurz<br>
+Petasites hybridus</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-13.jpg" alt="2025-05-01-run-the-alps-13.jpg" /></p>
+
+<p>Zypressen-Wolfsmilch<br>
+Euphorbia cyparissias</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-14.jpg" alt="2025-05-01-run-the-alps-14.jpg" /></p>
+
+<p>Echte Bärentraube<br>
+Arctostaphylos uva ursi</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-15.jpg" alt="2025-05-01-run-the-alps-15.jpg" /></p>
+
+<p>Some sort of mushroom husks full of spores.</p>
+
+<p>Birnen-Stäubling<br>
+Apioperdon pyriforme</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-16.jpg" alt="2025-05-01-run-the-alps-16.jpg" /></p>
 
 <p>Alex and Claudia</p>
 
@@ -40,11 +317,47 @@ date: 2025-05-01, from: Alex Schroeder's Blog
 
 <p>Claudia</p>
 
-<p><img loading="lazy" src="2025-05-01-run-the-alps-18.jpg" alt="2025-05-01-run-the-alps-18.jpg" /></p> 
+<p><img loading="lazy" src="2025-05-01-run-the-alps-18.jpg" alt="2025-05-01-run-the-alps-18.jpg" /></p>
+
+<p>As always, flower identification with the help of Flora Incognita. The mushroom was identified by Seek (iNaturalist).</p>
+
+<p><a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-05-01-run-the-alps>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-01, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/wpIdentity/issues/4">Rewrite</a> of WebSockets functionality in the server side of <a href="https://wordland.social/">WordLand</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/01.html#a210921>
+
+---
+
+##  Theoretical Gravastars Are Even Weirder Than Black Holes 
+
+date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/theoretical-gravastars-are-even-weirder-than-black-holes>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-01, from: Dave Winer's Scripting News)
+
+Has anyone thought to give ChatGPT a Turing test? 
+
+<br> 
+
+<http://scripting.com/2025/05/01.html#a203338>
 
 ---
 
@@ -265,7 +578,7 @@ date: 2025-05-01, updated: 2025-05-01, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2025-05-01, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/magazineCover.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Phil Donahue <a href="https://www.today.com/video/flashback-watch-bernie-sanders-today-interview-from-1981-1448099395517">interview with Bernie Sanders</a> from 1981, then-mayor of Burlington, Vermont. He was a novelty then, an American politician who was a socialist. He was asked if capitalism was the normal way for humans to relate, he said no. I wonder if he still agrees, because I think that's the goal, and the reason we're in so much trouble is there really isn't an impulse to work with each other. What I've seen mostly is that when there's work to do, it's hard to find help, but once something has taken off, there isn't much help available either, the people who could make the greatest contribution just want to take over. And they often feel they have, but usually it doesn't work out, it would have been better if we all collaborated. At this point, the hurdle the human race has to get over <i>is</i> working together. We will never get out of the climate crisis without it, or avoid the next pandemic without millions of unnecessarily lost lives. The cynics are winning, basically -- and there isn't net-net much of a will for our species to survive. It's only getting worse. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/magazineCover.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Phil Donahue <a href="https://www.today.com/video/flashback-watch-bernie-sanders-today-interview-from-1981-1448099395517">interview with Bernie Sanders</a> from 1981, then-mayor of Burlington, VT. He was a novelty then, an American politician who was a socialist. He was asked if capitalism was the normal way for humans to relate, he said no. I wonder if he still agrees, because I think that's the goal, and the reason we're in so much trouble is there really isn't an impulse to work with each other. What I've seen mostly is that when there's work to do, it's hard to find help, but once something has taken off, there isn't much help available either, the people who could make the greatest contribution just want to take over. And they often feel they have, but usually it doesn't work out, it would have been better if we all collaborated. At this point, the hurdle the human race has to get over <i>is</i> working together. We will never get out of the climate crisis without it, or avoid the next pandemic without millions of unnecessarily lost lives. The cynics are winning, basically -- and there isn't net-net much of a will for our species to survive. It's only getting worse. 
 
 <br> 
 
@@ -342,7 +655,7 @@ This morning the Bureau of Economic Analysis released a report showing an abrupt
 
 ## ★ Judge Yvonne Gonzalez Rogers Rules, in Excoriating Decision, That Apple Violated Her 2021 Court Order Regarding App Store Anti-Steering Provisions
 
-date: 2025-05-01, updated: 2025-05-01, from: Daring Fireball
+date: 2025-05-01, updated: 2025-05-02, from: Daring Fireball
 
 Are the results of this disastrous for Apple’s App Store business? I don’t think so at all. Gonzales Rogers is demanding that Apple ... do what Phil Schiller recommended they do all along. But are the results of this disastrous for Apple’s reputation and credibility? It sure seems like it. 
 
@@ -457,6 +770,18 @@ Fifty years ago today, on April 30, 1975, Vietnam defeated the United States of 
 <br> 
 
 <https://www.michaelmoore.com/p/why-today-april-30th-should-be-a>
+
+---
+
+## What Would “Good” AI Look Like?
+
+date: 2025-05-01, updated: 2025-05-01, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/05/01/what-would-good-ai-look-like/>
 
 ---
 

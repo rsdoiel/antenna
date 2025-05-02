@@ -1,11 +1,80 @@
 ---
 title: home
-updated: 2025-05-01 14:07:40
+updated: 2025-05-02 06:07:47
 ---
 
 # home
 
-(date: 2025-05-01 14:07:40)
+(date: 2025-05-02 06:07:47)
+
+---
+
+## How to Grow and Care for French Marigolds
+
+date: 2025-05-02, from: The Gardener's Path
+
+<p>Don’t be fooled by the haters, French marigolds are magical. They are sometimes dismissed as cheap and common, but they’re pretty fantastic. They deter pests and attract beneficial insects while adding color to the garden. You can also eat them or use them as a dye. Learn how to make the most of French marigolds now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-french-marigolds/">How to Grow and Care for French Marigolds</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-french-marigolds/>
+
+---
+
+## Cucumber Hollow Heart Causes and Solutions
+
+date: 2025-05-02, from: The Gardener's Path
+
+<p>When the cucumber you grew in your garden reveals an empty cavity, you’re dealing with a condition called hollow heart. It could result from a soil deficiency or poor growing conditions, but bugs and disease are not factors. Our guide covers the most likely causes, and provides solutions and preventive measures.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/cucumber-hollow-heart/">Cucumber Hollow Heart Causes and Solutions</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/cucumber-hollow-heart/>
+
+---
+
+## 37 Types of Fir Trees (With Pictures and Identification)
+
+date: 2025-05-02, from: Yard Life blog
+
+<p>Fir trees are some of the most majestic and versatile conifers found in forests around the world. Known for their ... </p>
+<p class="read-more-container"><a title="37 Types of Fir Trees (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/37-types-of-fir-trees-with-pictures-and-identification/#more-27896" aria-label="Read more about 37 Types of Fir Trees (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/37-types-of-fir-trees-with-pictures-and-identification/">37 Types of Fir Trees (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/37-types-of-fir-trees-with-pictures-and-identification/>
+
+---
+
+## These New and Buzzy Books by AAPI Authors Should Be on Your Reading List
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+It's time to celebrate AAPI Heritage Month! And one of the best way to do so is through books. Take a look at these popular novels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/books-by-aapi-authors>
+
+---
+
+## How to Protect Blueberries from Birds
+
+date: 2025-05-02, from: The Gardener's Path
+
+<p>You've waited all season, your blueberry plants are finally bursting with ripening berries, and your mouth is already watering. Don't turn your back for too long, because birds love those ripe, sweet blueberries too. Read more now to learn all the different ways you can protect your blueberries from birds.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/protect-blueberries-birds/">How to Protect Blueberries from Birds</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/protect-blueberries-birds/>
 
 ---
 
@@ -35,6 +104,18 @@ The Cȃpsula collection by Netherlands studio i29 features three black cabins wi
 
 ---
 
+## 2025 is Officially the Year of the Summer Staycation. Here Are the Hottest Spots to Do It.
+
+date: 2025-05-01, from: Sunset Magazine - Living in the West
+
+Staying closer to home by taking a staycation is the trend of the season. Here are the most popular places to do it. 
+
+<br> 
+
+<https://www.sunset.com/travel/airbnb-2025-summer-trends-staycations>
+
+---
+
 ## Seeds of Change: Watch Altadena rebloom with community support
 
 date: 2025-05-01, from: Edible San Fernando Valley
@@ -46,6 +127,18 @@ date: 2025-05-01, from: Edible San Fernando Valley
 <br> 
 
 <https://www.ediblesfvalley.com/grow/seeds-of-change-watch-altadena-rebloom-with-community-support/?utm_source=rss&utm_medium=rss&utm_campaign=seeds-of-change-watch-altadena-rebloom-with-community-support>
+
+---
+
+## Robert Downey Jr.’s Malibu House is a Marvel of Disaster-Ready Design
+
+date: 2025-05-01, from: Sunset Magazine - Living in the West
+
+Architect Nicolò Bini designed Robert Downey Jr.’s Malibu house. He proposes a sustainable, disaster-ready model for the California home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/robert-downey-jr-malibu-house>
 
 ---
 
@@ -72,6 +165,20 @@ date: 2025-05-01, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/gene-simmons-selling-mansion/>
+
+---
+
+## 15 of the Best Nasturtium Varieties
+
+date: 2025-05-01, from: The Gardener's Path
+
+<p>What better way is there to add color to the veggie garden or jazz up a boring salad than with beautiful nasturtiums? Edible, elegant, and easy to grow, this is the ideal companion plant to brighten up your backyard, with many striking varieties to choose from. Check out our handy roundup of top picks now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-nasturtium-varieties/">15 of the Best Nasturtium Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-nasturtium-varieties/>
 
 ---
 
@@ -330,18 +437,6 @@ date: 2025-04-30, from: Homestead and Chil
 <br> 
 
 <https://homesteadandchill.com/how-to-freeze-lemon-juice-ice-cube-trays/>
-
----
-
-## These New and Buzzy Books by AAPI Authors Should Be on Your Reading List
-
-date: 2025-04-30, from: Sunset Magazine - Living in the West
-
-It's time to celebrate AAPI Heritage Month! And one of the best way to do so is through books. Take a look at these popular novels. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/culture/books-by-aapi-authors>
 
 ---
 

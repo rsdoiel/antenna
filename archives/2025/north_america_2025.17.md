@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-05-01 14:07:33
+updated: 2025-05-02 06:07:40
 ---
 
 # north america
 
-(date: 2025-05-01 14:07:33)
+(date: 2025-05-02 06:07:40)
+
+---
+
+## Undaunted
+
+date: 2025-05-02, from: The Contrarian
+
+Democrats Channel the Power of Faith, Welcoming All to Join 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-57a>
+
+---
+
+##  TAX REVOLT, Part Three: The Broken Promise That Changed America 
+
+date: 2025-05-02, from: The Lever News
+
+ A president took a stand on taxes. It radicalized the Republican Party.  
+
+<br> 
+
+<https://www.levernews.com/tax-revolt-part-three-the-broken-promise-that-changed-america/>
+
+---
+
+## May 1, 2025
+
+date: 2025-05-01, from: The Contrarian
+
+Happy May Day! Featuring April Ryan; Julie Ch&#225;vez Rodr&#237;guez & Jen; Michael Podhorzer; Eliza Orlins; Ellen Blaine; Tom Joscelyn & Jen; Shalise Manza Young; Evgenia Kara-Murza & Jen 
+
+<br> 
+
+<https://contrarian.substack.com/p/may-1-2025>
+
+---
+
+## Lia Ernst on the release of Columbia Student Mohsen Mahdawi
+
+date: 2025-05-01, from: The Contrarian
+
+On April 14, Columbia student Mohsen Mahdawi was arrested while attending his final citizenship interview at an immigration office in Vermont. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162636593/b301651614883bc4690cbf41eb0553d0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162636593/b301651614883bc4690cbf41eb0553d0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lia-ernst-on-the-release-of-columbia>
+
+---
+
+## No, Saquon, you can't have it both ways
+
+date: 2025-05-01, from: The Contrarian
+
+You can respect the office of the president, but you don't have to hang out with the current one. 
+
+<br> 
+
+<https://contrarian.substack.com/p/no-saquon-you-cant-have-it-both-ways>
+
+---
+
+## Tribunal Internacional Condena a Funcionarios Fronterizos de EE.UU. por Torturar y Matar a Inmigrante
+
+date: 2025-05-01, from: Capital and Main
+
+<p>La solicitud de reformas en el uso de la fuerza policial en el caso podría sentar precedentes para reexaminar otras muertes calificadas de alto perfil.</p>
+<p>The post <a href="https://capitalandmain.com/tribunal-internacional-condena-a-funcionarios-fronterizos-de-ee-uu-por-torturar-y-matar-a-inmigrante">Tribunal Internacional Condena a Funcionarios Fronterizos de EE.UU. por Torturar y Matar a Inmigrante</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/tribunal-internacional-condena-a-funcionarios-fronterizos-de-ee-uu-por-torturar-y-matar-a-inmigrante>
 
 ---
 

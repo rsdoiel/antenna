@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-05-01 14:07:38
+updated: 2025-05-02 06:07:45
 ---
 
 # games
 
-(date: 2025-05-01 14:07:38)
+(date: 2025-05-02 06:07:45)
+
+---
+
+## GTA 6 delayed to May 2026
+
+date: 2025-05-02, updated: 2025-05-02, from: Polygon Website
+
+Rockstar Games has delayed Grand Theft Auto 6, previously expected in the fall of 2025, to next year. The hugely anticipated game at least has a firm release date now: It will be released on May 26, 2026. “We are very sorry that this is later than you expected,” Rockstar said in a statement. “The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/597569/gta-6-delay-release-date>
 
 ---
 

@@ -1,11 +1,44 @@
 ---
 title: libraries
-updated: 2025-05-01 14:07:40
+updated: 2025-05-02 06:07:46
 ---
 
 # libraries
 
-(date: 2025-05-01 14:07:40)
+(date: 2025-05-02 06:07:46)
+
+---
+
+## The Scholarly Kitchen Hires a Sous Chef
+
+date: 2025-05-02, from: Scholarly Kitchen
+
+<p>Join us in welcoming Lettie Conrad as the new Deputy Editor at The Scholarly Kitchen.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/02/the-scholarly-kitchen-hires-a-sous-chef/">The Scholarly Kitchen Hires a Sous Chef</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/02/the-scholarly-kitchen-hires-a-sous-chef/>
+
+---
+
+## Metadata Advisory Group call for applications
+
+date: 2025-05-02, from: Crossref Blog
+
+<p>We’ve been accelerating our metadata development efforts and recently released <a href="https://www.crossref.org/blog/version-5.4.0-metadata-schema-update-now-available/">version 5.4</a> of our metadata schema, and are planning to release version 5.5 (including support for multiple contributor roles and the <a href="https://credit.niso.org/" target="_blank">CRediT</a> taxonomy) this summer. We will also extend our grants schema based on the Funders Advisory Group work, and make progress on other changes as set out on our new <a href="https://roadmap.productboard.com/e86bfb0f-1a13-49bc-b72d-f8e893041fb4" target="_blank">metadata development roadmap</a>.</p>
+<p>As we work towards the vision of the rich and reusable open network of relationships connecting research organizations, people, things, and actions, dubbed the Research Nexus, our schemas need to change to accommodate the evolving landscape of research processes and communications.</p>
+<p>In the past we convened the Metadata Interest Group that helped shape the current set of updates we’re now working through, including changes to names, expansion of support for abstracts, dates, and multilingual metadata. As we’ll soon move into new territory (support for subjects, keywords, and other metadata essential to developing a robust research nexus), we want to further enlist the support of our community to help shape the metadata we collect and the metadata best practices we promote.</p>
+<p>We are inviting Crossref members, metadata users, and others with an interest in shaping metadata development at Crossref to apply to join our new Metadata Advisory Group.</p>
+<p>The purpose of the group is to contribute your advice and insight to help shape our metadata development as we broaden the metadata we collect and outputs we support to better align with the Research Nexus. Group participants will help shape metadata development at Crossref, and will discuss potential new metadata to adopt, best practices, and the overall needs of metadata providers and users.</p>
+<p>We’re looking for participants with experience with XML, JSON, and other metadata formats. We’ll cover a range of topics but we would particularly like to engage with those of you with an interest in emerging content types.</p>
+<p>The Metadata Advisory Group will meet quarterly and we’ll accommodate multiple time zones as needed as we want participation to reflect the regional diversity of our membership.</p>
+<p>If you’re interested, please <a href="https://forms.gle/D9xYn7Y72hzXnDa18" target="_blank">submit an application</a>!</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/metadata-advisory-group-call-for-applications/>
 
 ---
 

@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-05-01 14:07:41
+updated: 2025-05-02 06:07:48
 ---
 
 # motorcycles
 
-(date: 2025-05-01 14:07:41)
+(date: 2025-05-02 06:07:48)
+
+---
+
+## Do You Think This Is a Golf Cart? Here's Why Kawasaki Says It Isn't
+
+date: 2025-05-02, from: Ride Apart, Electric Motorcycle News
+
+Sure, you could golf with it, but that's far from the only thing it's good for. 
+
+<br> 
+
+<https://www.rideapart.com/news/758348/kawasaki-nav-4e-first-drive-video-review/>
+
+---
+
+## Triumph’s New Trident 660 Triple Tribute Goes Retro-Sporty, and Oh So Sexy
+
+date: 2025-05-02, from: Ride Apart, Electric Motorcycle News
+
+We’re digging the retro-inspired livery, plus the techie upgrades, too.  
+
+<br> 
+
+<https://www.rideapart.com/news/758289/2026-triumph-trident-660-triple-tribute-specs-features-price/>
+
+---
+
+## Damon Motorcycles Is Probably Getting Removed From Nasdaq, As It's Lost All Value
+
+date: 2025-05-02, from: Ride Apart, Electric Motorcycle News
+
+Going public probably wasn't the best idea.  
+
+<br> 
+
+<https://www.rideapart.com/news/758339/damon-motorcycles-nasdaq-shares-dillution-shareholder-value/>
+
+---
+
+## Not Even MotogGP's Golden Boy Can Escape Arm Injuries, Undergoes Surgery
+
+date: 2025-05-02, from: Ride Apart, Electric Motorcycle News
+
+This has been suspected since his very first premiere class race. 
+
+<br> 
+
+<https://www.rideapart.com/news/758287/pedro-acosta-arm-pump-surgery/>
 
 ---
 

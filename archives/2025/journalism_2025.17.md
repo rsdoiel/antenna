@@ -1,11 +1,342 @@
 ---
 title: journalism
-updated: 2025-05-01 14:07:39
+updated: 2025-05-02 06:07:45
 ---
 
 # journalism
 
-(date: 2025-05-01 14:07:39)
+(date: 2025-05-02 06:07:45)
+
+---
+
+## DEI staff survey shows drops in diversity
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The survey showed shifts in representation and equity efforts in the Daily Trojan.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/dei-staff-survey-shows-drops-in-diversity/">DEI staff survey shows drops in diversity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/dei-staff-survey-shows-drops-in-diversity/>
+
+---
+
+## Classifieds – May 2, 2025
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/classifieds-may-2-2025/">Classifieds &#8211; May 2, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/classifieds-may-2-2025/>
+
+---
+
+## Rossier-founded charter high school prepares students for college
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC Hybrid High College Prep is independent from USC but receives outreach.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/rossier-founded-charter-high-school-prepares-students-for-college/">Rossier-founded charter high school prepares students for college</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/rossier-founded-charter-high-school-prepares-students-for-college/>
+
+---
+
+## Spring 2025 Daily Trojan Photos of the Semester
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/05/02/spring-2025-daily-trojan-photos-of-the-semester/">Spring 2025 Daily Trojan Photos of the Semester</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/spring-2025-daily-trojan-photos-of-the-semester/>
+
+---
+
+## Senior bikes for disabled children, raises $5,000
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Justin Li is preparing to bike 1,000 miles to promote more awareness about disabilities. </p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/senior-bikes-for-disabled-children-raises-5000/">Senior bikes for disabled children, raises $5,000</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/senior-bikes-for-disabled-children-raises-5000/>
+
+---
+
+## SCA students live every cinephile’s dream at Cannes Film Festival
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Cannes Classics sends film students to the prestigious festival as journalists. </p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/sca-students-live-every-cinephiles-dream-at-cannes-film-festival/">SCA students live every cinephile&#8217;s dream at Cannes Film Festival</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/sca-students-live-every-cinephiles-dream-at-cannes-film-festival/>
+
+---
+
+## Weekly Frame III: Celebration
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/05/02/weekly-frame-iii-celebration/">Weekly Frame III: Celebration</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/weekly-frame-iii-celebration/>
+
+---
+
+## The ‘Thunderbolts*’ campaign was bold, and it needs to work
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ahead of Marvel's latest movie, let's determine if the studio's fresh approach will result in a box-office bonanza. </p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/the-thunderbolts-campaign-was-bold-and-it-needs-to-work/">The &#8216;Thunderbolts*&#8217; campaign was bold, and it needs to work</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/the-thunderbolts-campaign-was-bold-and-it-needs-to-work/>
+
+---
+
+## Black Kaufman students say the school has fostered a ‘rich culture of racism’
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students at the school organized an open forum after a freshman called another student the N-word in class.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/black-kaufman-students-say-the-school-has-fostered-a-rich-culture-of-racism/">Black Kaufman students say the school has fostered a ‘rich culture of racism’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/black-kaufman-students-say-the-school-has-fostered-a-rich-culture-of-racism/>
+
+---
+
+## Kai’s ‘Little Tea Party’ is a toast to sweet things
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The student artist celebrates edible earthly delights at her debut solo exhibit. </p>
+<p>The post <a href="https://dailytrojan.com/2025/05/02/kais-little-tea-party-is-a-toast-to-sweet-things/">Kai&#8217;s &#8216;Little Tea Party&#8217; is a toast to sweet things</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/02/kais-little-tea-party-is-a-toast-to-sweet-things/>
+
+---
+
+## UCLA brief encourages use of unconditional cash transfers to help new parents
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+A policy brief published by the UCLA Center on Reproductive Health, Law and Policy found that unconditional cash transfer programs could benefit pregnant people and new parents. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/ucla-brief-encourages-use-of-unconditional-cash-transfers-to-help-new-parents/>
+
+---
+
+## UCPD to release phones confiscated during last spring’s pro-Palestine protests
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD will be releasing cell phones it has held for nearly a year, which were confiscated after arrests made during last spring&#8217;s pro-Palestine protests.
+Police officers confiscated around 40 phones from people arrested at pro-Palestine protests in spring 2024 to be used as evidence in investigations for potential charges, said Cynthia Anderson-Barker, a civil rights attorney who advocated for phones to be returned to students. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/ucpd-to-release-phones-confiscated-during-last-springs-pro-palestine-protests/>
+
+---
+
+## USAC 2025-2026 candidate debates: President
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Five candidates running for Undergraduate Students Association Council president debated their approaches to advocacy and inclusivity Thursday.
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/usac-2025-2026-candidate-debates-president/>
+
+---
+
+## USAC 2025-2026 debates: Referenda
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Campaign representatives presented three referendums during an Undergraduate Students Association Council elections debate Thursday.&#160;
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/usac-2025-2026-debates-referenda/>
+
+---
+
+## USAC 2025-2026 candidate debates: Academic Affairs commissioner
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The incumbent Undergraduate Students Association Council Academic Affairs commissioner said he achieved success in the role this year during a debate Thursday.
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election Wednesday and Thursday. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/usac-2025-2026-candidate-debates-academic-affairs-commissioner/>
+
+---
+
+## Susan Gerski, longest-serving School of Dentistry employee, dies at 76
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Susan Gerski, the longest-serving employee at the UCLA School of Dentistry, died Jan. 5. She was 76.
+The UCLA School of Dentistry hired Gerski in 1968 &#8211; less than four years into its six-decade existence. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/susan-gerski-longest-serving-school-of-dentistry-employee-dies-at-76/>
+
+---
+
+## USAC 2025-2026 candidate debates: Cultural Affairs commissioner
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Both candidates to be the Undergraduate Students Association Council’s Cultural Affairs commissioner said they would promote diversity and inclusion for multiple student groups Thursday.&#160;
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election Wednesday and Thursday. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/usac-2025-2026-candidate-debates-cultural-affairs-commissioner/>
+
+---
+
+## USAC 2025-2026 candidate debates: Transfer student representative
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The sole candidate running for Undergraduate Students Association Council transfer student representative said she hopes to implement more inclusive policies for transfer students, students with disabilities and students with dependents during a Thursday debate. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/usac-2025-2026-candidate-debates-transfer-student-representative/>
+
+---
+
+## USAC 2025-2026 candidate debates: External vice president
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The sole candidate for the Undergraduate Students Association Council external vice president pledged to allocate advocacy funding to students and protect retention programs during a Thursday debate.&#160;
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/usac-2025-2026-candidate-debates-external-vice-president/>
+
+---
+
+## Gallery: Attendees enjoy camping, artistic installations at final weekend of Coachella
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Festivalgoers shared their experiences camping during the final week of the Coachella Valley Music and Arts Festival, and installations inspired by the Coachella Valley brought color and creativity to the desert. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/gallery-attendees-enjoy-camping-artistic-installations-at-final-weekend-of-coachella/>
+
+---
+
+## Have the Trump administration’s actions put the US into a constitutional crisis?
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Debates on the extent of government authority and the power of the United States Constitution have become commonplace in recent months.
+The term &#8220;constitutional crisis&#8221; is used to describe a situation in which the fundamental principles of governance &#8211; primarily the Constitution in the U.S. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/have-the-trump-administrations-actions-put-the-us-into-a-constitutional-crisis/>
+
+---
+
+## Interview with USC athlete and DT columnist Sloane Morra
+
+date: 2025-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/05/01/interview-with-usc-athlete-and-dt-columnist-sloane-morra/">Interview with USC athlete and DT columnist Sloane Morra</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/01/interview-with-usc-athlete-and-dt-columnist-sloane-morra/>
+
+---
+
+## USAC 2025 debates: Night 2
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/live-usac-2025-debates-night-2/>
+
+---
+
+## Celebrating diversity on Multicultural Day
+
+date: 2025-05-02, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce’s diversity committee hosted Multicultural Day on Wednesday, April 23, at the Great Hall to showcase the cultural, gender and social diversity of the campus</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/01/celebrating-diversity-on-multicultural-day/">Celebrating diversity on Multicultural Day</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/01/celebrating-diversity-on-multicultural-day/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-diversity-on-multicultural-day>
+
+---
+
+## Waverly Wang channels emotional bonds, musicality in animated short ‘Party Boy’
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 1 at 8:39 p.m.</em>
+Waverly Wang throws herself into every eight count of her animated short film.
+Wang, a graduate student with a master of fine arts degree in animation, is preparing to take center stage at the Los Angeles International Children&#8217;s Film Festival on May 10 with her animated short, “Party Boy.” Centered on a performance of the Christmas ballet, “The Nutcracker,” the story follows a young boy who, in the throes of anxiety, uses familial love to gather his courage and step into the spotlight. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/01/waverly-wang-channels-emotional-bonds-musicality-in-animated-short-party-boy/>
 
 ---
 
@@ -57,12 +388,12 @@ You&#8217;ve likely heard of intensive outpatient programs (IOPs) for addiction 
 
 ---
 
-## Two pro-Palestine protesters detained during encampment attack anniversary rally
+## Three pro-Palestine protesters arrested during encampment attack anniversary rally
 
 date: 2025-05-01, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCPD detained two pro-Palestine protesters during a series of demonstrations Wednesday night.&#160;
-Around 200 protesters began rallying at Wilson Plaza at 7:30 p.m. to watch “The Encampments,” a 2024 film about pro-Palestine protests at several university campuses, and later marched across Bruin Walk to De Neve Plaza. 
+<em>This post was updated May 1 at 10:38 p.m.</em>
+UCPD arrested and issued stay-away orders to three pro-Palestine protesters during a series of demonstrations Wednesday night. 
 
 <br> 
 

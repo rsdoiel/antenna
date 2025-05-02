@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-05-01 14:07:41
+updated: 2025-05-02 06:07:48
 ---
 
 # retro computing
 
-(date: 2025-05-01 14:07:41)
+(date: 2025-05-02 06:07:48)
+
+---
+
+## Arch Linux Available for Windows Subsystem for Linux
+
+date: 2025-05-01, from: Linux Magazine
+
+<p>If you've ever wanted to use a rolling release distribution with WSL, now's your chance.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Arch-Linux-Available-for-Windows-Subsystem-for-Linux>
+
+---
+
+## New Opportunities to Support Computer Ads from the Past
+
+date: 2025-05-01, from: Computer ads from the Past
+
+and get more articles 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/new-opportunities-to-support-computer>
 
 ---
 

@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-01 14:07:35
+updated: 2025-05-02 06:07:42
 ---
 
 # ham radio
 
-(date: 2025-05-01 14:07:35)
+(date: 2025-05-02 06:07:42)
+
+---
+
+## Why is the 2N3904 transistor still up after 60 years?
+
+date: 2025-05-02, from: EDN Blog
+
+<img width="1600" height="1200" src="https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?fit=1600%2C1200" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-2N3904.jpg?w=1536 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><p>Here is a closer look at why old transistors and op-amps are still up and running after decades of their launch.</p>
+<p>The post <a href="https://www.edn.com/why-is-the-2n3904-transistor-still-up-after-60-years/">Why is the 2N3904 transistor still up after 60 years?</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/why-is-the-2n3904-transistor-still-up-after-60-years/>
 
 ---
 
@@ -25,7 +39,7 @@ date: 2025-05-01, from: Amateur Radio Relay League News
 
 date: 2025-05-01, from: EDN Blog
 
-<img width="700" height="443" src="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?fit=700%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Sixteen planar Schottky diodes for automotive and industrial use are now available from Nexperia in compact CFP2-HP packages.</p>
+<img width="700" height="443" src="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?fit=700%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nexperia-CFP2.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Sixteen planar Schottky diodes for automotive and industrial use are now available from Nexperia in compact CFP2-HP packages.</p>
 <p>The post <a href="https://www.edn.com/nexperia-shrinks-schottky-footprint-with-cfp2-hp/">Nexperia shrinks Schottky footprint with CFP2-HP</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

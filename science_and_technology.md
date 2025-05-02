@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-05-01 14:07:36
+updated: 2025-05-02 06:07:42
 ---
 
 # science and technology
 
-(date: 2025-05-01 14:07:36)
+(date: 2025-05-02 06:07:42)
+
+---
+
+## TikTok fined €530M after EU user data ends up on servers in China
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Ireland privacy watchdog says transfers violated GDPR, as Chinese app confirms €1B datacenter in Finland</h4> <p>Ireland&#39;s Data Protection Commission (DPC) has confirmed a fine of €530 million ($600 million) against social media biz TikTok for transferring European user data to China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/tiktok_gdpr_fine/>
+
+---
+
+## UK's smaller broadband operators face tough road ahead, consolidation possible
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Report into alternative networks says competition with BT and co making life harder than ever</h4> <p>Alternative network providers (altnets) are facing tough competition from the big players in the UK broadband market, with consolidation likely in the face of slowing growth in fiber internet uptake.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/uk_small_broadband_operators/>
+
+---
+
+## Hubble Images a Peculiar Spiral
+
+date: 2025-05-02, from: NASA breaking news
+
+A beautiful but skewed spiral galaxy dazzles in this NASA/ESA Hubble Space Telescope image. The galaxy, called Arp 184 or NGC 1961, sits about 190 million light-years away from Earth in the constellation Camelopardalis (The Giraffe). The name Arp 184 comes from the Atlas of Peculiar Galaxies compiled by astronomer Halton Arp in 1966. It […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-images-a-peculiar-spiral/>
+
+---
+
+## British govt agents step in as Harrods becomes third mega retailer under cyberattack
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Experts suggest the obvious: There is an ongoing coordinated attack on UK retail sector</h4> <p>Harrods, a globally recognized purveyor of all things luxury, is the third major UK retailer to confirm an attempted cyberattack on its systems in under two weeks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/ncsc_steps_in_as_harrods/>
+
+---
+
+## The Telegraph jumps the gun on World War III
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Trigger-happy Taiwan headline sparks instant apocalypse vibes</h4> <p>World War III might have begun this week, according to British broadsheet The Telegraph.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/china_taiwan_telegraph_blunder/>
+
+---
+
+## Open source AI hiring bots favor men, leave women hanging by the phone
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Easy fix: Telling LLMs to cosplay Lenin makes &#39;em more gender blind</h4> <p>Open source AI models are more likely to recommend men than women for jobs, particularly the high-paying ones, a new study has found.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/open_source_ai_models_gender_bias/>
+
+---
+
+## Techie solved supposed software problem by waving his arms in the air
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Used his loaf and found sweet solution for bakery borkage</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <em>The Register</em>&#39;s reader-contributed column that each Friday serves up your stories of biting into half-baked tech support problems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/on_call/>
+
+---
+
+## Trio arrested in £3M UK bribery probe over Microsoft datacenter build in Netherlands
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Blu-3 accused of paying off former Mace Group associates</h4> <p>UK authorities on Wednesday arrested three individuals in connection with a multi-million-pound bribery probe tied to the construction of a Microsoft datacenter in the Netherlands.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/uk_bribery_microsoft/>
+
+---
+
+## China turns on ‘minors mode’ that ensures kids only see wholesome socialist content online
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Content players and smartphone makers made it happen six months after regulator floated the idea</h4> <p>China has flicked the switch on ‘Minor’s mode’, a subset of its internet in which under-18s will only see wholesome content.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/china_minors_mode_enabled/>
+
+---
+
+## Siri? Will tariffs hurt Apple? Tim Cook says brace for a $900 million whack, for starters
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>iGiant shifted production to India and Vietnam but has no idea if that will help after tariff pause ends</h4> <p>Apple believes the USA’s new tariffs policy will impact its finances by at least $900 million in its next quarter, has re-organized its supply chains to protect itself from whatever comes next, but can’t predict the impact on its business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/apple_q2_2025/>
+
+---
+
+## Liz Warren, Trump admin agree on something: Army should have right to repair
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>As military memo makes it official policy</h4> <p>The US Army intends to secure the right to repair its own equipment, a right that hasn&#39;t always been available under past procurement contracts - and one of the very few things that Democrats in Congress and the Trump administration broadly agree upon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/us_secretary_of_the_army/>
+
+---
+
+## Microsoft brings back Office application preloading from the ’90s
+
+date: 2025-05-01, from: OS News
+
+Back in the late &#8217;90s and early 2000s, if you installed a comprehensive office suite on Windows, such as Microsoft&#8217;s own Office or something like WordPerfect Office or IBM Lotus SmartSuite, it would often come with a little icon in the system tray or a floating toolbar to ensure the applications were preloaded upon logging into Windows. The idea was that this preloading would ensure that the applications would start faster. It&#8217;s 2025, and Microsoft is bring it back. In a message in the Microsoft 365 Message Center Archive, which is a real thing I didn&#8217;t make up, the company announced a new Startup Boost task that will preload Office applications on Windows to reduce loading times for the individual Office applications. We are introducing a new Startup Boost task from the Microsoft Office installer to optimize performance and load-time of experiences within Office applications. After the system performs the task, the app remains in a paused state until the app launches and the sequence resumes, or the system removes the app from memory to reclaim resources. The system can perform this task for an app after a device reboot and periodically as system conditions allow. ↫ MC1041470 &#8211; New Startup Boost task from Microsoft Office installer for Office applications This new task will automatically be added to the Task Scheduler, but only on PCs with 8GB of RAM or more and at least 5GB of available disk space. The task will run 10 minutes after logging into Windows, will be disabled if the Energy Saves feature is enabled, and will be removed if you haven&#8217;t used Office in a while. The initial rollout of this task will take place in May, and will cover Word only for now. The task can be disabled manually through Task Scheduler or in Word&#8217;s settings. Since this is Microsoft, every time Office is updated, the task will be re-enabled, which means that users who disable the feature will have to disable it again after each update. This particular behaviour can be disabled using Group Policy. Yes, the sound you&#8217;re hearing are all the &#8220;AI&#8221; text generators whirring into motion as they barf SEO spam onto the web about how to disable this feature to speed up your computer. I&#8217;m honestly rather curious who this is for. I have never found the current crop of Office applications to start up particularly slowly, but perhaps corporate PCs are so full of corpo-junkware they become slow again? 
+
+<br> 
+
+<https://www.osnews.com/story/142265/microsoft-brings-back-office-application-preloading-from-the-90s/>
+
+---
+
+## Dems look to close the barn door after top DOGE dog has bolted
+
+date: 2025-05-01, updated: 2025-05-01, from: The Register (UK I.T. News)
+
+<h4>House Oversight probes missing Musk disclosures, background checks, data mess at NLRB</h4> <p>Elon Musk is backing away from his Trump-blessed government gig, but now House Democrats want to see the permission slip that got him in the door.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/01/dems_ask_for_musks_financial/>
+
+---
+
+## DragonFlyBSD 6.4.1 released
+
+date: 2025-05-01, from: OS News
+
+It has been well over two years since the last release of DragonFlyBSD, version 6.4.0, and today the project pushed out a small update, DragonFlyBSD 6.4.1. It fixes a few small, longstanding issues, but as the version number suggests, don&#8217;t expect any groundbreaking changes here. The legacy IDE/NATA driver had a memory leak fixed, the ca_root_nss package has been updated to support newer Let&#8217;s Encrypt certificates, the package update command will no longer delete an important configuration file that rendered the command unusable, and more small fixes like that. Existing users can update the usual way. 
+
+<br> 
+
+<https://www.osnews.com/story/142263/dragonflybsd-6-4-1-released/>
+
+---
+
+## Zhaoxin’s KX-7000 x86-64 processor
+
+date: 2025-05-01, from: OS News
+
+Chips and Cheese takes a very detailed look at the latest processor design from Zhaoxin, the Chinese company that inherited VIA&#8217;s x86 license and has been making new x86 chips ever since. Their latest design, 世纪大道 (Century Avenue), tries to take yet another step closer to current designs chips form Intel and AMD, and while falling way short, that&#8217;s not really the point here. Ultimately performance is what matters to an end-user. In that respect, the KX-7000 sometimes falls behind Bulldozer in multithreaded workloads. It’s disappointing from the perspective that Bulldozer is a 2011-era design, with pairs of hardware thread sharing a frontend and floating point unit. Single-threaded performance is similarly unimpressive. It roughly matches Bulldozer there, but the FX-8150’s single-threaded performance was one of its greatest weaknesses even back in 2011. But of course, the KX-7000 isn’t trying to impress western consumers. It’s trying to provide a usable experience without relying on foreign companies. In that respect, Bulldozer-level single-threaded performance is plenty. And while Century Avenue lacks the balance and sophistication that a modern AMD, Arm, or Intel core is likely to display, it’s a good step in Zhaoxin’s effort to break into higher performance targets. ↫ Chester Lam at Chips and Cheese I find Chinese processors, like the x86-based ones from Zhaoxin or the recent LoongArch processors (which you can buy on AliExpress), incredibly fascinating, and would absolutely love to get my hands on one. A board with two of the most recent LoongArch processors &#8211; the 3c6000 &#8211; goes for about €4000 at the moment, and I&#8217;m keeping my eye on that price to see if there&#8217;s ever going to be a sharp drop. This is prime OSNews material, after all. No, they&#8217;re not competitive with the latest offerings from Intel, AMD, or ARM, but I don&#8217;t really care &#8211; they interest me as a computer enthusiast, and since it&#8217;s highly unlikely we&#8217;re going to see anyone seriously threaten Intel, AMD, and ARM here in the west, you&#8217;re going to have to look at China if you&#8217;re interested in weird architectures and unique processors. 
+
+<br> 
+
+<https://www.osnews.com/story/142261/zhaoxins-kx-7000-x86-64-processor/>
+
+---
+
+## NASA’s SPHEREx Space Telescope Begins Capturing Entire Sky
+
+date: 2025-05-01, from: NASA breaking news
+
+After weeks of preparation, the space observatory has begun its science mission, taking about 3,600 unique images per day to create a map of the cosmos like no other. Launched on March 11, NASA’s SPHEREx space observatory has spent the last six weeks undergoing checkouts, calibrations, and other activities to ensure it is working as [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/spherex/nasas-spherex-space-telescope-begins-capturing-entire-sky/>
 
 ---
 
@@ -803,9 +995,9 @@ date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
 
 ## 30 percent of some Microsoft code now written by AI - especially the new stuff
 
-date: 2025-04-30, updated: 2025-04-30, from: The Register (UK I.T. News)
+date: 2025-04-30, updated: 2025-05-01, from: The Register (UK I.T. News)
 
-<h4>Satya Nadella reveals attempts to merge Word, PowerPoint, Excel, which may now happen with LLMs</h4> <p>Microsoft CEO Satya Nadella has claimed thirty percent of code in the Windows titan&#39;s repositories was written by an AI.…</p> 
+<h4>Satya Nadella reveals attempts to merge Word, PowerPoint, Excel, which may now happen with LLMs</h4> <p>Microsoft CEO Satya Nadella has claimed about thirty percent of code in at least some of the Windows titan&#39;s repositories was written by an AI.…</p> 
 
 <br> 
 

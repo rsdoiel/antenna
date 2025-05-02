@@ -1,11 +1,702 @@
 ---
 title: pacific
-updated: 2025-05-01 14:07:35
+updated: 2025-05-02 06:07:41
 ---
 
 # pacific
 
-(date: 2025-05-01 14:07:35)
+(date: 2025-05-02 06:07:41)
+
+---
+
+## Trump says buying Iranian oil must stop, threatens secondary sanctions on purchasers
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>U.S. President Donald Trump said all purchases of Iranian oil or petrochemical products must stop and any country or person buying any from the country would be immediately subject to secondary sanctions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/trump-says-buying-iranian-oil-must-stop-threatens-secondary-sanctions-on-purchasers/>
+
+---
+
+## May Day protesters across US decry Trump policies, call for rule of law
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>Lawyers, teachers and politicians marched among thousands of demonstrators across the U.S. on Thursday to protest President Donald Trump&#8217;s policies on immigration, the targeting of lawyers and judges, and the power of wealthy decision-makers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/may-day-protesters-across-us-decry-trump-policies-call-for-rule-of-law/>
+
+---
+
+## Former Waiakea basketball coach to appear for change of plea
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>It appears a plea deal is in the works for Hawaii basketball figure Alika Smith.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/hawaii-news/former-waiakea-basketball-coach-to-appear-for-change-of-plea/>
+
+---
+
+## Trump ousts White House national security adviser Waltz, replaces him with Rubio
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump ousted his national security adviser Mike Waltz on Thursday and named Secretary of State Marco Rubio as his interim replacement in the first major shakeup of Trump&#8217;s inner circle since he took office in January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/trump-ousts-white-house-national-security-adviser-waltz-replaces-him-with-rubio/>
+
+---
+
+## Annual AstroDay returns Saturday with displays, contests and hands-on activities
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>AstroDay 2025 is returning to this weekend for another fun-filled day of activities exploring the wonders of space and technology.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/hawaii-news/annual-astroday-returns-saturday-with-displays-contests-and-hands-on-activities/>
+
+---
+
+## Hawaii lawmakers OK about 250 bills
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>The state Legislature gave final approval to about 250 bills Wednesday during several hours of voting that included a surprise defeat of a gun-control measure.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/hawaii-news/hawaii-lawmakers-ok-about-250-bills/>
+
+---
+
+## Trump administration sues Hawaii, 3 other states to block climate lawsuits, laws
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s administration said Thursday it is suing four Democratic-led states to prevent them from enforcing &#8220;burdensome and ideologically motivated&#8221; laws and pursuing lawsuits against the fossil fuel industry over the harms caused by climate change.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/hawaii-news/trump-administration-sues-hawaii-3-other-states-to-block-climate-lawsuits-laws/>
+
+---
+
+## Hale Halawai O Puna opens Saturday with makeke, evening town party
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>A new chapter in lower Puna&#8217;s story begins Saturday with the grand opening of Hale Halawai O Puna cultural makeke and hub &#8212; a free, family-friendly celebration of Hawaiian culture, community, and resilience at the former Akebono Theater lot in downtown Pahoa. The event runs from 10 a.m.-2 p.m. and features more than two dozen hands-on cultural demonstrations and experiences, live music and hula.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/community/hale-halawai-o-puna-opens-saturday-with-makeke-evening-town-party/>
+
+---
+
+## Blessing held for interim fire station in Hilo
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County held a blessing Wednesday, April 23, for an interim fire station that will relocate personnel and equipment from the Central Fire Station as repairs are made to the aging downtown Hilo facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/community/blessing-held-for-interim-fire-station-in-hilo/>
+
+---
+
+## Scouting America’s Aloha Council presents Makahiki 2025
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited to the Hawaii Island Makahiki 2025 &#8212; &#8220;Adventure Elevated&#8221; &#8212; from 9:30 a.m. to 1:30 p.m. Saturday at Edith Kanaka&#8216;ole Multi-Purpose Stadium in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/community/scouting-americas-aloha-council-presents-makahiki-2025/>
+
+---
+
+## Mushroom workshop returns to VAC
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>Instructor Zach Mermel returns to teach the basics of mushroom cultivation in the &#8220;Food from Wood: Growing Edible and Medicinal Mushrooms on Logs, Stumps, and Wood Chips&#8221; from 9 a.m.- 2 p.m. Saturday at Volcano Art Center&#8217;s Niaulani Campus in Volcano Village.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/community/mushroom-workshop-returns-to-vac/>
+
+---
+
+## 6-day ICE operation in Florida resulted in more than 1,000 arrests
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A six-day immigration sweep in Florida in April resulted in the arrests of more than 1,100 people, the Trump administration said Thursday as it increasingly relies on local law enforcement to help speed deportations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/6-day-ice-operation-in-florida-resulted-in-more-than-1000-arrests/>
+
+---
+
+## Trump turns to US Supreme Court in bid to strip protected status from Venezuelan migrants
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s administration asked the U.S. Supreme Court on Thursday to intervene in its bid to strip temporary protected status for more than 300,000 Venezuelan migrants, a move that would clear the way for their deportation from the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/trump-turns-to-us-supreme-court-in-bid-to-strip-protected-status-from-venezuelan-migrants/>
+
+---
+
+## Trump’s use of wartime law for Venezuela deportations is unlawful, judge rules
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A U.S. judge on Thursday blocked President Donald Trump&#8217;s administration from using an 18th-century wartime law to deport some Venezuelan migrants, in the most sweeping ruling thus far against a key part of the Republican president&#8217;s aggressive immigration crackdown.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/trumps-use-of-wartime-law-for-venezuela-deportations-is-unlawful-judge-rules/>
+
+---
+
+## Retailers fear toy shortages at Christmas as tariffs freeze supply chain
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; President Donald Trump&#8217;s China tariffs are threatening Christmas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/retailers-fear-toy-shortages-at-christmas-as-tariffs-freeze-supply-chain/>
+
+---
+
+## Fatal storm rips through Oklahoma and Texas, flooding roads
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>A slow-moving storm brought deadly flooding to Oklahoma on Wednesday, shutting down roadways and sweeping away cars.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/fatal-storm-rips-through-oklahoma-and-texas-flooding-roads/>
+
+---
+
+## UN eyes major overhaul amid funding crisis, internal memo shows
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA/UNITED NATIONS &#8212; The United Nations is considering a massive overhaul that would merge major departments and shift resources across the globe, according to an internal memo prepared by senior officials tasked with reforming the world body.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/un-eyes-major-overhaul-amid-funding-crisis-internal-memo-shows/>
+
+---
+
+## US EPA research in limbo as scientists brace for massive job cuts
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As forecasters predict another devastating year of wildfires, a tool developed by Environmental Protection Agency scientists to study the health effects of hazardous smoke has effectively been grounded by a looming Trump administration reorganization, three people familiar with the impact of the planned cuts say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/us-epa-research-in-limbo-as-scientists-brace-for-massive-job-cuts/>
+
+---
+
+## US says minerals deal will strengthen Trump in talks with Russia
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>KYIV/WASHINGTON &#8212; Kyiv and Washington on Thursday hailed a deal giving the United States preferential access to new Ukrainian minerals as a milestone that a top U.S. official said would strengthen President Donald Trump&#8217;s negotiating position with Russia.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/us-says-minerals-deal-will-strengthen-trump-in-talks-with-russia/>
+
+---
+
+## News in brief for May 2
+
+date: 2025-05-02, from: Hawaii Tribune Harold
+
+
+				<p>US creating a second military &#0010;zone along the southern border</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/02/nation-world-news/news-in-brief-for-may-2/>
+
+---
+
+## Lynk Global cleared to provide direct-to-device service to Guam, CNMI
+
+date: 2025-05-02, from: Pacific Island Times
+
+D2D is a new technology that enables standard mobile phones and other devices to directly connect to space satellites, bypassing traditional land-based cell towers and facilitating connectivity in dead zones. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/lynk-global-cleared-to-provide-direct-to-device-service-to-guam-cnmi>
+
+---
+
+##  Why traditional journalism remains relevant in the Pacific in the digital age
+
+date: 2025-05-02, from: Pacific Island Times
+
+Media freedom in both Palau and the Marshall Islands is in a good place. There are independent media platforms—particularly in print, radio and streaming—and together, they contribute to a strong media environment in both countries. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/why-traditional-journalism-remains-relevant-in-the-pacific-in-the-digital-age>
+
+---
+
+## Ngarchelong lawmakers join staff in voluntary Drug Testing to Address Public concerns
+
+date: 2025-05-02, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77189" data-permalink="https://islandtimes.org/ngarchelong-lawmakers-join-staff-in-voluntary-drug-testing-to-address-public-concerns/ngarchelong-lawmakers-and-staff/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?fit=2048%2C1536&amp;ssl=1" data-orig-size="2048,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ngarchelong lawmakers and staff" data-image-description="" data-image-caption="&lt;p&gt;Left to right: Chief Ngiraurreked Jack Renguul, Ngeiungel Legislator&lt;br /&gt;
+Dorothy Ueda, Chief Riungel Temong Kinto, Speaker Abraham Osima,&lt;br /&gt;
+Chief Uong er Etei Mathias Erbai, Assembly Page Lukas Rimirch, Vice-&lt;br /&gt;
+Speaker Yohei Merur, Ngebei Legislator Daniel Aguon, Ngermetong Legislator&lt;br /&gt;
+Brynn Demei, Assembly Clerk Ariel Shiro, Floor Leader Dwight&lt;br /&gt;
+Ngirchemat, Chief Tet Singich Sato. Not Pictured: Chief Obak ra Iebukel&lt;br /&gt;
+Lorenzo Ngiramollau, Iebukel Legislator Johnny Sambal, Chief Iechad ra&lt;br /&gt;
+Butelbai Frank Malsol, Chief Rimirch Hayes Ngiratregd, Sergeant-at-Arms&lt;br /&gt;
+Hadley Renguul. Photo caption: Photo credit: Supplied&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngarchelong-lawmakers-and-staff.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>NGARCHELONG — Legislators and staff of Ngarchelong State voluntarily submitted to drug testing at Belau Medical Clinic on Tuesday and Wednesday, April 29–30, following rising community concerns about drug use. “Ngarchelong State has a law mandating drug testing of state employees, but we, Ngarchelong State legislators, decided to take the test with our staff because [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngarchelong-lawmakers-join-staff-in-voluntary-drug-testing-to-address-public-concerns/">Ngarchelong lawmakers join staff in voluntary Drug Testing to Address Public concerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngarchelong-lawmakers-join-staff-in-voluntary-drug-testing-to-address-public-concerns/>
+
+---
+
+## True Blue Project offers Palauans a creative  way to protect Oceans, earn income
+
+date: 2025-05-02, from: Island Times
+
+<figure><img width="840" height="334" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?fit=840%2C334&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?w=840&amp;ssl=1 840w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?resize=300%2C119&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?resize=768%2C305&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?resize=780%2C310&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?resize=400%2C159&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?resize=706%2C281&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?fit=840%2C334&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77185" data-permalink="https://islandtimes.org/true-blue-project-offers-palauans-a-creative-way-to-protect-oceans-earn-income/may02issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?fit=840%2C334&amp;ssl=1" data-orig-size="840,334" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;May02issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="May02issue.indd" data-image-description="" data-image-caption="&lt;p&gt;True Blue Project founder Takahashi and CEO Megumi conducting workshop with Aimeliik Elementary School&lt;br /&gt;
+students and teachers on how to make accessories with marine plastic debris. (photo credit: supplied)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?fit=300%2C119&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/bc.jpg?fit=780%2C310&amp;ssl=1" /></figure>
+<p>KOROR, Palau — A Japan-based initiative that transforms ocean plastic into fashion and art is offering Palauans a creative way to protect the environment while generating income. On Wednesday, Ayumu Takahashi, founder of the True Blue Project, and CEO Tamamura Megumi led workshops at Aimeliik Elementary School and Palau Mission Academy, demonstrating how to upcycle [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/true-blue-project-offers-palauans-a-creative-way-to-protect-oceans-earn-income/">True Blue Project offers Palauans a creative  way to protect Oceans, earn income</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/true-blue-project-offers-palauans-a-creative-way-to-protect-oceans-earn-income/>
+
+---
+
+## Palau begins shift to Digital Passports with help from Japan
+
+date: 2025-05-02, from: Island Times
+
+<p>KOROR, Palau — Palau has begun early steps to replace traditional paper passports with more secure electronic passports, or e-passports, according to Minister of State Gustav Aitaro. Aitaro said the first phase of the project is underway, including the formation of a steering committee made up of representatives from the Office of the Attorney General, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-begins-shift-to-digital-passports-with-help-from-japan/">Palau begins shift to Digital Passports with help from Japan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-begins-shift-to-digital-passports-with-help-from-japan/>
+
+---
+
+## President Surangel Whipps Jr. promotes Fight against illegal Drugs and Organized Crime
+
+date: 2025-05-02, from: Island Times
+
+<p>By: Bernadette Carreon President Surangel Whipps announced that his administration is intensifying efforts to combat the influx of illegal drugs in the country by enhancing cooperation among various agencies. He has also called on Congress to pass stricter legislation regarding drug offenses.&#160; “Last year, I urged the Olbiil Era Kelulau (OEK) to enact a bill [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-surangel-whipps-jr-promotes-fight-against-illegal-drugs-and-organized-crime/">President Surangel Whipps Jr. promotes Fight against illegal Drugs and Organized Crime</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/president-surangel-whipps-jr-promotes-fight-against-illegal-drugs-and-organized-crime/>
+
+---
+
+## Senate confirms Four Presidential Nominees to National Boards and Commissions
+
+date: 2025-05-02, from: Island Times
+
+<p>Ngerulmud, Palau — The Senate of the 12th Olbiil Era Kelulau (OEK), in its 24th day of the 2nd Regular Session held on Thursday, May 1, 2025, voted to confirm four individuals appointed by the President to serve in key national positions. These appointments reflect a continued effort by the executive branch to fill vital [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-confirms-four-presidential-nominees-to-national-boards-and-commissions/">Senate confirms Four Presidential Nominees to National Boards and Commissions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-confirms-four-presidential-nominees-to-national-boards-and-commissions/>
+
+---
+
+## Palau to host SPOGOMI Trash-Picking Competition for a Shot at World Cup in Japan
+
+date: 2025-05-02, from: Island Times
+
+<p>KOROR, Palau — Residents will have the chance to clean up the environment, compete in a new sport, and win a fully funded trip to Japan as the SPOGOMI trash-picking competition comes to Palau on Sunday, May 18, 2025. The event, set to take place at Ernguul Park in Koror, is part of an international [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-to-host-spogomi-trash-picking-competition-for-a-shot-at-world-cup-in-japan/">Palau to host SPOGOMI Trash-Picking Competition for a Shot at World Cup in Japan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-to-host-spogomi-trash-picking-competition-for-a-shot-at-world-cup-in-japan/>
+
+---
+
+## RMI to transition to 100 percent renewable energy by 2045
+
+date: 2025-05-02, from: Island Times
+
+<p>The Republic of the Marshall Islands has committed to full renewable energy the University of Guam release announced.&#160; RMI joined the Green Growth movement and committed to full renewable energy during the 16th UOG Conference on Island Sustainability, April 11.&#160; Marshall Islands President Hilda Heine, PhD, who was the keynote speaker at the conference, signed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rmi-to-transition-to-100-percent-renewable-energy-by-2045-2/">RMI to transition to 100 percent renewable energy by 2045 </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/rmi-to-transition-to-100-percent-renewable-energy-by-2045-2/>
+
+---
+
+## RMI to transition to 100 percent renewable energy by 2045
+
+date: 2025-05-02, from: Island Times
+
+<p>The&#160; Republic of the Marshall Islands has committed to full renewable energy the University of Guam release announced .&#160; RMI joined the Green Growth movement and committed to full renewable energy during the 16th UOG Conference on Island Sustainability, April 11.&#160; Marshall Islands President Hilda Heine, PhD, who was the keynote speaker at the conference, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rmi-to-transition-to-100-percent-renewable-energy-by-2045/">RMI to transition to 100 percent renewable energy by 2045 </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/rmi-to-transition-to-100-percent-renewable-energy-by-2045/>
+
+---
+
+## Tamamura & Takahashi of True Blue Project, Lead Upcycling Workshops at Palauan schools to promote Ocean Conservation
+
+date: 2025-05-02, from: Island Times
+
+<figure><img width="1024" height="708" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?fit=1024%2C708&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?resize=1024%2C708&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?resize=768%2C531&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?resize=1200%2C830&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?resize=780%2C540&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?resize=400%2C277&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?resize=706%2C488&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?fit=1024%2C708&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77156" data-permalink="https://islandtimes.org/tamamura-takahashi-of-true-blue-project-lead-upcycling-workshops-at-palauan-schools-to-promote-ocean-conservation/20250430_students-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?fit=1249%2C864&amp;ssl=1" data-orig-size="1249,864" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1746118680&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250430_Students 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?fit=300%2C208&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250430_Students-2.jpg?fit=780%2C539&amp;ssl=1" /></figure>
+<p>On April 30th, 2025, Ms. Tamamura Megumi and Mr. Takahashi Ayumu of the True Blue Project visited Aimeliik Elementary School and Palau Mission Academy to lead workshops on upcycling marine debris, with a focus on plastic waste. The event began with remarks from Deputy Chief of Mission, Mr. ONO Shunsuke. He expressed his hope that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tamamura-takahashi-of-true-blue-project-lead-upcycling-workshops-at-palauan-schools-to-promote-ocean-conservation/">Tamamura &amp; Takahashi of True Blue Project, Lead Upcycling Workshops at Palauan schools to promote Ocean Conservation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tamamura-takahashi-of-true-blue-project-lead-upcycling-workshops-at-palauan-schools-to-promote-ocean-conservation/>
+
+---
+
+## PCS unveils Bold 2025 Vision:
+
+date: 2025-05-02, from: Island Times
+
+<figure><img width="1024" height="724" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?fit=1024%2C724&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?resize=1024%2C724&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?resize=768%2C543&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?resize=1200%2C848&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?resize=780%2C551&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?resize=400%2C283&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?resize=706%2C499&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?fit=1024%2C724&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77148" data-permalink="https://islandtimes.org/pcs-unveils-bold-2025-vision/world-ocean-day-flyer-landscape-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?fit=1249%2C883&amp;ssl=1" data-orig-size="1249,883" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;BriTukerhill23&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;World Ocean day (Flyer (Landscape)) - 2&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="World Ocean day (Flyer (Landscape)) &#8211; 2" data-image-description="" data-image-caption="&lt;p&gt;Standing Left-Right: Member Dr. Sinton Soalablai, VC King Sam, Member Gov. Jersey Iyar, Chairman TJ Imrur Remengesau, Secretary Jennifer S. Olegeriil &#038; Member Olkeriil Kazuo.  Sitting Left-Right: Member/Founder Maddam Sandra S. Pierantozzi, Member/Founder Faustina R. Marugg, Treasurer/Exec. Director Elbuchel Sadang &#038; Member Mario Katosang  &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?fit=300%2C212&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PCS-Board-PressRelease2025.jpg?fit=780%2C551&amp;ssl=1" /></figure>
+<p>Join the Movement to Safeguard Our Islands’ Future Koror, Palau – May 1, 2025&#160;– The Palau Conservation Society (PCS), a nonprofit dedicated to protecting Palau’s environment, is inviting all residents to join its ambitious 2025 mission to preserve the islands’ natural wonders. At a pivotal meeting led by Board Chairman T.J. Imrur Remengesau, the organization [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pcs-unveils-bold-2025-vision/">PCS unveils Bold 2025 Vision:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pcs-unveils-bold-2025-vision/>
+
+---
+
+## Advancing health equity and promoting a healthier Taiwan on the 30th anniversary of Taiwan’s National Health Insurance system
+
+date: 2025-05-02, from: Island Times
+
+<figure><img width="600" height="562" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?fit=600%2C562&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?resize=300%2C281&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?resize=400%2C375&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?fit=600%2C562&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77162" data-permalink="https://islandtimes.org/advancing-health-equity-and-promoting-a-healthier-taiwan-on-the-30th-anniversary-of-taiwans-national-health-insurance-system/r3-logo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?fit=600%2C562&amp;ssl=1" data-orig-size="600,562" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="R3 Logo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?fit=300%2C281&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/R3-Logo.jpg?fit=600%2C562&amp;ssl=1" /></figure>
+<p>Dr. Chiu Tai-yuan Minister of Health and Welfare ROC (Taiwan) Health is a fundamental human right and a universal value. Improved health results in greater well-being for the people and has ramifications for the survival and development of a country and even the world. At the 77th World Health Assembly, members adopted the World Health [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/advancing-health-equity-and-promoting-a-healthier-taiwan-on-the-30th-anniversary-of-taiwans-national-health-insurance-system/">Advancing health equity and promoting a healthier Taiwan on the 30th anniversary of Taiwan’s National Health Insurance system</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/advancing-health-equity-and-promoting-a-healthier-taiwan-on-the-30th-anniversary-of-taiwans-national-health-insurance-system/>
+
+---
+
+## Palau establishes steering committee to Guide Passport Digitalization
+
+date: 2025-05-02, from: Island Times
+
+<figure><img width="1024" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?fit=1024%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?resize=1024%2C522&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?resize=768%2C392&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?resize=1200%2C612&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?resize=780%2C398&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?resize=400%2C204&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?resize=706%2C360&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?fit=1024%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77152" data-permalink="https://islandtimes.org/palau-establishes-steering-committee-to-guide-passport-digitalization/group-photo-8/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?fit=1249%2C637&amp;ssl=1" data-orig-size="1249,637" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Group photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Group-photo.jpg?fit=780%2C398&amp;ssl=1" /></figure>
+<p>Ngerekebesang, Palau – April 18, 2025 – The Government of Palau, in partnership with the International Organization for Migration (IOM) and with financial support from the Government of Japan, officially launched the “Enhancing Border Management Capacity through the Introduction of an E-Passport for the Republic of Palau” Project during a meeting held at the Embassy [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-establishes-steering-committee-to-guide-passport-digitalization/">Palau establishes steering committee to Guide Passport Digitalization</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-establishes-steering-committee-to-guide-passport-digitalization/>
+
+---
+
+## Tkel orientation at JICA Chugoku Center
+
+date: 2025-05-02, from: Island Times
+
+<figure><img width="1024" height="544" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?fit=1024%2C544&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?resize=1024%2C544&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?resize=768%2C408&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?resize=1200%2C637&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?resize=780%2C414&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?resize=400%2C212&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?resize=706%2C375&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?fit=1024%2C544&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77144" data-permalink="https://islandtimes.org/tkel-orientation-at-jica-chugoku-center/image-3-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?fit=1249%2C663&amp;ssl=1" data-orig-size="1249,663" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image (3)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?fit=300%2C159&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/image-3.png?fit=780%2C414&amp;ssl=1" /></figure>
+<p>Sharing images of Lt. Francis Tkel during his orientation at JICA Chugoku Center in Hiroshima.  Tkel is a participant of JICA’s Knowledge Co-Creation Program (KCCP), in particular, Maritime Safety and Security Policy Program (Master’s Program).  This is a one-year course where Tkel will acquire advanced practical application management and problem-solving skills, analytical capability, and ability [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tkel-orientation-at-jica-chugoku-center/">Tkel orientation at JICA Chugoku Center</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tkel-orientation-at-jica-chugoku-center/>
+
+---
+
+## Inside the U.S battle with China over an island paradise deep in the Pacific
+
+date: 2025-05-02, from: Island Times
+
+<p>Once the site of ferocious World War Two battles, Palau is again at the epicentre of a geostrategic tussle. By Pete McKenzie, Hollie Adams KOROR (REUTERS)&#8212;- The brilliant blue waters, thick foliage and bucolic atmosphere on this seemingly idyllic archipelago deep in the Pacific Ocean belie the key role it now plays in a titanic [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/inside-the-u-s-battle-with-china-over-an-island-paradise-deep-in-the-pacific/">Inside the U.S battle with China over an island paradise deep in the Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/inside-the-u-s-battle-with-china-over-an-island-paradise-deep-in-the-pacific/>
+
+---
+
+## Pacific pushes for digital sovereignty and unity at ICT dialogue
+
+date: 2025-05-02, from: Island Times
+
+<p>HONIARA (PACNEWS)&#8212; Pacific Island nations are uniting behind a shared digital vision to strengthen sovereignty, boost connectivity, and build resilience across the region, Papua New Guinea’s Minister for ICT Timothy Masiu told delegates at the Pacific Islands Telecommunications Association (PITA) Annual General Meeting in Honiara this week. “The theme chosen for this year—‘Digital Nations and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-pushes-for-digital-sovereignty-and-unity-at-ict-dialogue/">Pacific pushes for digital sovereignty and unity at ICT dialogue</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-pushes-for-digital-sovereignty-and-unity-at-ict-dialogue/>
+
+---
+
+## Pacific Island growth takes a hit as global trade tensions rise: IMF
+
+date: 2025-05-02, from: Island Times
+
+<p>By Pita Ligaiula SUVA/WASHINGTON (PACNEWS)&#8212;Rising U.S tariffs and growing global trade tensions are expected to indirectly drag down economic growth in Pacific Island countries, the International Monetary Fund(IMF) warns, as ripple effects from larger economies impact tourism, remittances, and investment flows. “For most Pacific Island countries, the direct effects of the tariffs are likely to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-island-growth-takes-a-hit-as-global-trade-tensions-rise-imf/">Pacific Island growth takes a hit as global trade tensions rise: IMF</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-island-growth-takes-a-hit-as-global-trade-tensions-rise-imf/>
+
+---
+
+## Donald Trump says he understands interest rates more than Federal Reserve chair
+
+date: 2025-05-02, from: Island Times
+
+<p>In short: (ABC-Australia) US President Donald Trump has appeared to suggest he knows more about interest rates than the head of the country&#8217;s Federal Reserve, Jerome Powell. Mr Trump declared Mr Powell should slash rates hours after a government report showed that the US economy had contracted for the first time in three years. What&#8217;s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/donald-trump-says-he-understands-interest-rates-more-than-federal-reserve-chair/">Donald Trump says he understands interest rates more than Federal Reserve chair</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/donald-trump-says-he-understands-interest-rates-more-than-federal-reserve-chair/>
+
+---
+
+## UH alumna credited with filming Bretman Rock, launching Levi’s TikTok
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p>From campus newsroom to viral content queen—Agatha Danglapin broke into the big leagues.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/uh-alumna-agatha-danglapin/"><abbr>UH</abbr> alumna credited with filming Bretman Rock, launching Levi’s TikTok</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/uh-alumna-agatha-danglapin/>
+
+---
+
+## Manele under threat: the political crisis in Solomon Islands
+
+date: 2025-05-02, from: Pacific Island Times
+
+The resignation of Finance Minister Manasseh Sogavare—a former Prime Minister and key political operator in Solomon Islands politics—carries particular symbolic and strategic weight.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/manele-under-threat-the-political-crisis-in-solomon-islands>
+
+---
+
+## CTAHR students sprout Earth Day fun and awareness
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p><abbr>CTAHR</abbr> students organized a hands-on family friendly event in honor of Earth Day in April.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/ctahr-students-sprout-earth-day-fun/"><abbr>CTAHR</abbr> students sprout Earth Day fun and awareness</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/ctahr-students-sprout-earth-day-fun/>
+
+---
+
+## President Whipps’ optimism meets rising Senate resistance as second term takes shape
+
+date: 2025-05-02, from: Pacific Island Times
+
+ Unlike Whipps' first term, when legislative cooperation was more consistent, the new political dynamic suggests that major initiatives will now face heightened scrutiny, longer delays and possibly outright rejection. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/president-whipps-optimism-meets-rising-senate-resistance-as-second-term-takes-shape>
+
+---
+
+## From grief to growth: Leeward  CC helped Keshawn Wright to thrive
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p>Juggling four jobs and college, Keshawn Wright found purpose, healing and a future in education.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/leeward-cc-helped-keshawn-wright-thrive/">From grief to growth: Leeward <abbr> CC</abbr> helped Keshawn Wright to thrive</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/leeward-cc-helped-keshawn-wright-thrive/>
+
+---
+
+## New textbook by UH professor highlights quality control in construction
+
+date: 2025-05-01, from: University of Hawaiʻi News
+
+<p>Singh’s latest work addresses the importance of quality in ensuring the safety, longevity and functionality of built infrastructure.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/quality-control-in-construction-textbook/">New textbook by <abbr>UH</abbr> professor highlights quality control in construction</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/quality-control-in-construction-textbook/>
+
+---
+
+## Impact of Leeward CC’s Wahiawā Value-Added Product Development Center showcased
+
+date: 2025-05-01, from: University of Hawaiʻi News
+
+<p><span aria-label="Aina">&#699;&#256;ina</span> to M&#257;keke event marks <abbr>WVAPDC</abbr>’s first anniversary</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/wahiawa-value-added-product-development-center/">Impact of Leeward <abbr>CC</abbr>’s Wahiawā Value-Added Product Development Center showcased</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/wahiawa-value-added-product-development-center/>
+
+---
+
+## USP hosts Vanuatu graduation ceremony
+
+date: 2025-05-01, from: University of the South Pacific (Fiji)
+
+<p>Family, friends and supporters in attendance will witness 267 students graduating from The University of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-to-host-vanuatu-graduation-ceremony/">USP hosts Vanuatu graduation ceremony</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-to-host-vanuatu-graduation-ceremony/>
+
+---
+
+## Police investigate possible Kona drowning
+
+date: 2025-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a possible drowning that occurred in Kona Wednesday night.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/01/hawaii-news/police-investigate-possible-kona-drowning/>
+
+---
+
+## UH Mānoa alum, former Ka Leo editor, named Hawaii Business Magazine editor-in-chief
+
+date: 2025-05-01, from: University of Hawaiʻi News
+
+<p>Jennifer Ablan returns to <span aria-label="Hawaii">Hawai&#699;i</span> with 28 years of experience in business journalism to the role.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/01/ablan-named-hawaii-business-magazine-editor-in-chief/"><abbr>UH</abbr> Mānoa alum, former Ka Leo editor, named Hawaii Business Magazine editor-in-chief</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/01/ablan-named-hawaii-business-magazine-editor-in-chief/>
 
 ---
 
@@ -1364,7 +2055,7 @@ date: 2025-04-29, from: Hawaii Tribune Harold
 
 date: 2025-04-29, from: Island Times
 
-<figure><img width="1024" height="790" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1024%2C790&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=1024%2C790&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=768%2C593&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=1200%2C926&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=780%2C602&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=400%2C309&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=706%2C545&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1024%2C790&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77115" data-permalink="https://islandtimes.org/koror-rull-formalize-land-grant-to-deepen-cultural-bonds/attachment/1000008172/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1249%2C964&amp;ssl=1" data-orig-size="1249,964" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1745838349&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000008172" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=300%2C232&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=780%2C602&amp;ssl=1" /></figure>
+<figure><img width="1024" height="790" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1024%2C790&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=1024%2C790&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=768%2C593&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=1200%2C926&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=780%2C602&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=400%2C309&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?resize=706%2C545&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1024%2C790&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77115" data-permalink="https://islandtimes.org/koror-rull-formalize-land-grant-to-deepen-cultural-bonds/attachment/1000008172/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=1249%2C964&amp;ssl=1" data-orig-size="1249,964" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1745838349&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000008172" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=300%2C232&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000008172.jpg?fit=780%2C602&amp;ssl=1" /></figure>
 <p>KOROR, Palau — Koror State and Rull Municipality of Yap State in the Federated States of Micronesia strengthened their longstanding cultural ties this week with the granting of land use rights for a submerged lot in Koror. At a signing ceremony Monday, Governor Eyos Rudimch said the agreement fulfills the wishes of the late Ibedul [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/koror-rull-formalize-land-grant-to-deepen-cultural-bonds/">Koror, Rull formalize Land Grant to deepen Cultural Bonds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
