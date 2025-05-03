@@ -28,7 +28,7 @@
 Items collected from feeds in <a href="snapshots.txt">snapshots.txt</a>
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-05-03 06:07:36)</p>
+<p>(date: 2025-05-03 14:07:49)</p>
 <hr />
 <h2 id="csf_02-entropy-is-your-friend-in-security">CSF_02: Entropy Is
 Your Friend In Security</h2>
@@ -64,6 +64,13 @@ This pulls 4.3GB of data and saves it to
 I assigned it a default alias:
 </p>
 <pre><code>llm aliases set q3 mlx-community/Qwen3-8B-4bit
+</code></pre>
+<p>
+I also added a default option for that model - this saves me from adding
+<code>-o unlimited 1</code> to every prompt which disables the default
+output token limit:
+</p>
+<pre><code>llm models options set q3 unlimited 1
 </code></pre>
 <p>
 And now I can run prompts:
@@ -403,8 +410,8 @@ favor more agreeable responses, likely amplifying the shift we saw.
 </blockquote>
 <p>
 I’m surprised that this appears to be first time the thumbs up and
-thumbs down data has been used to influence the model - they’ve been
-collecting that data for a couple of years now.
+thumbs down data has been used to influence the model in this way -
+they’ve been collecting that data for a couple of years now.
 </p>
 <p>
 I’ve been very suspicious of the new “memory” feature, where ChatGPT can

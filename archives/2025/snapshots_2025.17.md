@@ -1,11 +1,11 @@
 ---
 title: snapshots
-updated: 2025-05-03 06:07:36
+updated: 2025-05-03 14:07:49
 ---
 
 # snapshots
 
-(date: 2025-05-03 06:07:36)
+(date: 2025-05-03 14:07:49)
 
 ---
 
@@ -33,6 +33,9 @@ llm mlx download-model mlx-community/Qwen3-8B-4bit
 <p>This pulls 4.3GB of data and saves it to <code>~/.cache/huggingface/hub/models--mlx-community--Qwen3-8B-4bit</code>.</p>
 <p>I assigned it a default alias:</p>
 <pre><code>llm aliases set q3 mlx-community/Qwen3-8B-4bit
+</code></pre>
+<p>I also added a default option for that model - this saves me from adding <code>-o unlimited 1</code> to every prompt which disables the default output token limit:</p>
+<pre><code>llm models options set q3 unlimited 1
 </code></pre>
 <p>And now I can run prompts:</p>
 <pre><code>llm -m q3 'brainstorm questions I can ask my friend who I think is secretly from Atlantis that will not tip her off to my suspicions'
@@ -262,7 +265,7 @@ I criticized OpenAI's <a href="https://openai.com/index/sycophancy-in-gpt-4o/">i
 <p>In the April 25th model update, we had candidate improvements to better incorporate user feedback, memory, and fresher data, among others. <strong>Our early assessment is that each of these changes, which had looked beneficial individually, may have played a part in tipping the scales on sycophancy when combined</strong>. For example, the update introduced <strong>an additional reward signal based on user feedback—thumbs-up and thumbs-down data from ChatGPT</strong>. This signal is often useful; a thumbs-down usually means something went wrong.</p>
 <p>But we believe in aggregate, <strong>these changes weakened the influence of our primary reward signal, which had been holding sycophancy in check</strong>. User feedback in particular can sometimes favor more agreeable responses, likely amplifying the shift we saw.</p>
 </blockquote>
-<p>I'm surprised that this appears to be first time the thumbs up and thumbs down data has been used to influence the model - they've been collecting that data for a couple of years now.</p>
+<p>I'm surprised that this appears to be first time the thumbs up and thumbs down data has been used to influence the model in this way - they've been collecting that data for a couple of years now.</p>
 <p>I've been very suspicious of the new "memory" feature, where ChatGPT can use context of previous conversations to influence the next response. It looks like that may be part of this too, though not definitively the cause of the sycophancy bug:</p>
 <blockquote>
 <p>We have also seen that in some cases, user memory contributes to exacerbating the effects of sycophancy, although we don’t have evidence that it broadly increases it.</p>

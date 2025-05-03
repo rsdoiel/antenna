@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-05-03 06:07:26
+updated: 2025-05-03 14:07:41
 ---
 
 # pacific
 
-(date: 2025-05-03 06:07:26)
+(date: 2025-05-03 14:07:41)
 
 ---
 
@@ -73,6 +73,18 @@ The post <a href="https://www.hawaii.edu/news/2025/05/02/president-hensel-federa
 
 ---
 
+## I’m a Trauma Surgeon — Here’s What I Want Everyone to Know About Bleeding Emergencies
+
+date: 2025-05-02, updated: 2025-05-02, from: Marianas Variety
+
+(BPT) - By David S. Shapiro, MD, MHCM, FACS 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/i-m-a-trauma-surgeon-here-s-what-i-want-everyone-to-know-about-bleeding/article_3a668e5b-0126-5f69-9022-7a3a1542ce9c.html>
+
+---
+
 ## Cybersecurity team prepares for final DEF CON battle
 
 date: 2025-05-02, from: University of Hawaiʻi News
@@ -135,6 +147,42 @@ The post <a href="https://www.hawaii.edu/news/2025/05/02/family-medicine-residen
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/02/family-medicine-residency-kauai/>
+
+---
+
+## Is your home's electrical system safe? Here's what you need to know
+
+date: 2025-05-02, updated: 2025-05-02, from: Marianas Variety
+
+(BPT) - Did you know electrical hazards cause over 50,000 home fires annually? According to the Electrical Safety Foundation International, home electrical fires account for around 51,000 U.S. fires each year — plus nearly 500 deaths, over 1,400 injuries and $1.3 billion in property damage. Heading into warmer months, electrical systems can be overtaxed by air conditioning and threatened by stormy weather. Whether you live in an older home or just want to prevent future problems, now's the perfect time to prioritize electrical safety. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/is-your-homes-electrical-system-safe-heres-what-you-need-to-know/article_cb9c2b29-3173-5af0-9631-fc8fdf6c7e25.html>
+
+---
+
+## Feel the love: Help your local heroes receive much-needed relief
+
+date: 2025-05-02, updated: 2025-05-02, from: Marianas Variety
+
+(BPT) - Local heroes do so much for their communities. Teachers, nurses, first responders, veterans and so many more community heroes put everyone else's needs before their own. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/feel-the-love-help-your-local-heroes-receive-much-needed-relief/article_9693cdb7-0762-5782-9060-2101ca01404c.html>
+
+---
+
+## Embellezca su espacio: Remodele con el minisplit adecuado
+
+date: 2025-05-02, updated: 2025-05-02, from: Marianas Variety
+
+(BPT) - La pandemia de COVID-19 provocó un aumento en las renovaciones de casas a medida que las personas pasaban más tiempo en sus casas. Muchos realizaron los proyectos ellos mismos, como convertir garajes o construir casas pequeñas, para satisfacer las nuevas necesidades y crear espacios habitables ideales. Después de la pandemia, el enfoque ha cambiado a proyectos más pequeños y asequibles. Sin embargo, algunos propietarios de viviendas encuentran sus nuevos espacios incómodos debido a las grandes diferencias de temperatura con el resto de la casa. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/embellezca-su-espacio-remodele-con-el-minisplit-adecuado/article_4a4125e5-e1c3-5585-a3af-df791db267b0.html>
 
 ---
 
@@ -883,7 +931,7 @@ The post <a href="https://www.hawaii.edu/news/2025/05/01/may-2025-anniversaries/
 
 ## Why natural light in classrooms is important for student learning, well-being
 
-date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+date: 2025-05-01, updated: 2025-05-03, from: Marianas Variety
 
 (BPT) - Imagine spending your entire work day, every day, in a windowless room, with only artificial light to illuminate your space. It's not an inspiring, motivating or pleasant place to spend hundreds of hours every month, yet for some American children — particularly those attending schools built in the 1960s and 1970s — this is an unfortunate reality. Windows were once seen as posing a distraction to children, and as such, were purposely eliminated from building designs. 
 
@@ -895,7 +943,7 @@ date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
 
 ## 3 expert ways to safely reduce allergens inside your home this allergy season
 
-date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+date: 2025-05-01, updated: 2025-05-03, from: Marianas Variety
 
 (BPT) - Spring has officially sprung, but just as April showers bring May flowers, these warmer months also herald the start of peak allergy season. If you are someone who has asthma or suffers from allergies, you know firsthand how important it is to keep your home dust- and pollen-free. However, if you aren't selective enough with your cleaning products, your good intentions of regular home cleanings may unintentionally introduce allergens and chemicals back into your space, potentially making asthma and allergy symptoms worse. 
 
@@ -907,7 +955,7 @@ date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
 
 ## 5 hosting tips to make your Cinco De Mayo celebrations more festive
 
-date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+date: 2025-05-01, updated: 2025-05-03, from: Marianas Variety
 
 (BPT) - Cinco de Mayo, observed on the fifth of May, is a joyful celebration of Mexican culture, history and resilience — and a perfect opportunity to gather with loved ones. This year, draw inspiration from acclaimed Mexican Chef Pati Jinich and bring the spirit of Mexico into your home with vibrant, creative and delicious ideas that honor tradition while keeping things fun and family-friendly. 
 

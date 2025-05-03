@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-05-03 06:07:28
+updated: 2025-05-03 14:07:43
 ---
 
 # columns
 
-(date: 2025-05-03 06:07:28)
+(date: 2025-05-03 14:07:43)
 
 ---
 
@@ -2312,50 +2312,6 @@ Last night a new club opened in the wealthy Georgetown neighborhood in Washingto
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/april-27-2025>
-
----
-
-## 2025-04-27 Structural navigation
-
-date: 2025-04-28, from: Alex Schroeder's Blog
-
-<h1 id="2025-04-27-structural-navigation">2025-04-27 Structural navigation</h1>
-
-<p>Sometimes my mind goes back to text editing and text editors. I have a love/hate relationship with ed(1). I kind of like the deliberate mindset I need to bring. But I also don’t like to think in terms of lines. Maybe if each sentence is a line, that’s better. But I often think about better semantic addressing.</p>
-
-<p>Example: <code>p</code> prints a range of line(s) is the standard. What I would also like is &ldquo;print a range of paragraph&rdquo;, &ldquo;print a range of sentences&rdquo;, &ldquo;print a range of words&rdquo;. There&rsquo;s a hierarchy, here. So once there&rsquo;s a &ldquo;current&rdquo; paragraph, you can list its sentences or its words. My hope is that this is more useful than working on lines.</p>
-
-<p>I’m still struggling to invent a command language, however. “Print paragraph. Next. Next. Number sentences. Third sentence. Replace this with that. Print paragraph.” I think this how I would work? “Last paragraph. Insert paragraph. Start typing.” Would that be <code>p p n 3s /this/that/ p</code> and <code>par $ i …</code> Effectively, <code>p</code> switches to paragraphs and prints them, and moves to the next one if used without a range. <code>n</code> numbers the items one level down. In this case, with a paragraph selected, <code>n</code> numbers the sentences. <code>s</code> switches to sentences and prints them. I&rsquo;m not sure about the search &amp; replace command. Is that also <code>s</code>?</p>
-
-<p>Should the data be kept in a tree? Should reading the text involve a real parser that delivers a sort of abstract syntax tree and names the nodes which automatically turn into commands?</p>
-
-<p>And then: should this be written in Perl? 😍</p>
-
-<p><a class="account" href="https://mastodon.acm.org/@mxp" title="@mxp@mastodon.acm.org">@mxp</a> said he had written «an Emacs interface to a syntactic parser», but I&rsquo;m not sure this is what I&rsquo;m looking for. A natural language parser (NLP) is maybe not what I&rsquo;m looking for. I suspect it would help avoid grammar mistakes, which makes sense to me. But is it what need as I write?</p>
-
-<p>He then pointed me at Engelbart&rsquo;s <a href="https://doi.org/10.1145/1476589.1476645">A research center for augmenting human intellect</a>. There, we find <a href="https://communitywiki.org/wiki/PurpleNumbers">purple numbers</a>:</p>
-
-<blockquote>
-<p>The principal manifestation of this hierarchical structure is the breaking up of text into arbitrary segments called &ldquo;statements,&rdquo; each of which bears a number showing its serial location in the text and its &ldquo;level&rdquo; in an &ldquo;outline&rdquo; of the text.</p>
-</blockquote>
-
-<p>I&rsquo;m not sure about the use of an outline. Many people seem to like outlines, but for me an outline as a writing tool is weird. I never start with an outline, except for cases where I know I need to follow a structure and even then the structure is usually trivial: Introduction, Materials and Methods, Results, Discussion, References, or something along these lines. A bunch of headings is all I need. Do I need an outline view? I agree that showing all the headings is important to navigate any non-trivial text document when you&rsquo;re reading and working with it. But if I focus on writing, the outline doesn&rsquo;t seem too important. It&rsquo;s too far &ldquo;up&rdquo; in the structure, for me.</p>
-
-<p><a class="account" href="https://mastodon.acm.org/@CerstinMahlow" title="@CerstinMahlow@mastodon.acm.org">@CerstinMahlow</a> wrote a position paper: <a href="https://doi.org/10.48550/arXiv.2303.17894">Writing Tools: Looking Back to Look Ahead</a> where she argues that «new writing tools should be inspired by &ldquo;failed&rdquo; projects from the 1970s and 1980s» and discusses the current state of affairs:</p>
-
-<blockquote>
-<p>One type of functionality that Mahlow and Piotrowski suggest are information functions that use NLP techniques to highlight certain aspects of the evolving text, commonly referred to as “syntax highlighting.” Since 2013, iA Writer has offered such a feature in a commercial product to specifically highlight nouns, verbs, adjectives, etc., advertising it as “using parts of speech to improve your writing” and explicitly stating that writers deserve the same professional support as programmers.</p>
-</blockquote>
-
-<p>This goes in a different direction, &ldquo;down&rdquo; to the grammar roles of words. Nouns, verbs, adjectives, adverbs. The problem is that when I write, I hardly ever worry about a particular verb. I never want to navigate to the accusative object of this sentence or focus on the subject. This is a very detailed view that I don&rsquo;t care about.</p>
-
-<p>The question is: What do I care about? Moving sentences around. Starting sentences between some other sentences and then realizing that I started at the wrong place and moving that fragments around. I think what I need is a prototype editor that I can start using and where I can easily add and remove functionality. And I&rsquo;m not sure that Emacs is the correct environment because there is so damn much to distract me.</p>
-
-<p><a class="tag" href="/search/?q=%23Editors">#Editors</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-04-27-structural-navigation>
 
 ---
 

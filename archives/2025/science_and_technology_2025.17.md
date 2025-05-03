@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-05-03 06:07:27
+updated: 2025-05-03 14:07:42
 ---
 
 # science and technology
 
-(date: 2025-05-03 06:07:27)
+(date: 2025-05-03 14:07:42)
 
 ---
 
@@ -57,9 +57,9 @@ The Soyuz MS-26 spacecraft is pictured backing away from the International Space
 
 ---
 
-## NATS custody battle ends with CNCF and Synadia sharing nicely
+## NATS custody battle ends with CNCF, Synadia sharing nicely
 
-date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+date: 2025-05-02, updated: 2025-05-03, from: The Register (UK I.T. News)
 
 <h4>Trademark, domain name, GitHub repos stay under control of open source foundation – no word on any forking off for now</h4> <p>The Cloud Native Computing Foundation (CNCF) has reached an agreement with Synadia, the company behind open source messaging system NATS, which will see it control the trademark, domain name, and GitHub repositories.…</p> 
 

@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-05-03 06:07:35
+updated: 2025-05-03 14:07:48
 ---
 
 # small papers
 
-(date: 2025-05-03 06:07:35)
+(date: 2025-05-03 14:07:48)
 
 ---
 
@@ -28,7 +28,7 @@ date: 2025-05-02, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-05-02, from: Long Beach Post
 
-<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-768x439.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-400x229.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-768x439.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-400x229.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The old City Place Shopping Center is being knocked down as part of a major plan to redevelop entire blocks of Downtown Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/business/development/demolition-begins-on-defunct-shopping-center-to-make-way-for-8-story-building-with-272-apartments">Demolition begins on defunct shopping center to make way for 8-story building with 272 apartments</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
