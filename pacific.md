@@ -1,11 +1,75 @@
 ---
 title: pacific
-updated: 2025-05-02 14:07:52
+updated: 2025-05-03 06:07:26
 ---
 
 # pacific
 
-(date: 2025-05-02 14:07:52)
+(date: 2025-05-03 06:07:26)
+
+---
+
+## Port Authority of Guam, Black Construction ink $10.5M lease deal for Hotel Wharf site
+
+date: 2025-05-02, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The Port Authority of Guam has signed a $10.5 million lease agreement with Black Construction Corp.,... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/port-authority-of-guam-black-construction-ink-10-5m-lease-deal-for-hotel-wharf-site>
+
+---
+
+## From homelessness to HPD: Honolulu CC student pivots from adversity to service
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p>For William Aana, Honolulu Community College wasn’t just a school&#8212;it was a turning point.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/honolulu-cc-student-pivots-from-adversity-to-service/">From homelessness to <abbr>HPD</abbr>: Honolulu <abbr>CC</abbr> student pivots from adversity to service</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/honolulu-cc-student-pivots-from-adversity-to-service/>
+
+---
+
+## Chinese drug trafficker gets 25 years in federal prison 
+
+date: 2025-05-02, from: Pacific Island Times
+
+Ye arrived in the CNMI from China in 2016 under a tourist visa waiver program.  After his waiver term elapsed, he remained on Saipan, where he ran a birth tourism business for three years.   
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/chinese-drug-trafficker-gets-25-years-in-federal-prison>
+
+---
+
+## HIKI NŌ on PBS Hawaiʻi 2025 Spring Challenge
+
+date: 2025-05-02, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>On this episode of HIKI NŌ on PBS Hawaiʻi, our hosts reveal the winning entries of HIKI NŌ’s 2025 Spring Challenge competition. For the 2025 HIKI NŌ on PBS Hawai‘i Spring Challenge, the call was for videos based on the prompt “New Beginnings.” Usually students have weeks to work on projects for HIKI NŌ, and [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/2025-spring-challenge-hiki-no-on-pbs-hawaii/">HIKI NŌ on PBS Hawaiʻi 2025 Spring Challenge</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/2025-spring-challenge-hiki-no-on-pbs-hawaii/>
+
+---
+
+## President Hensel: Federal update, NSF cap, proposed budget cuts
+
+date: 2025-05-02, from: University of Hawaiʻi News
+
+<p>&#8220;<abbr>UH</abbr> will continue to stand for accessible education, academic freedom and the pursuit of knowledge in service to <span aria-label="Hawaii">Hawai&#699;i</span> and the world.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/president-hensel-federal-update-nsf-cap-proposed-budget-cuts/">President Hensel: Federal update, <abbr>NSF</abbr> cap, proposed budget cuts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/president-hensel-federal-update-nsf-cap-proposed-budget-cuts/>
 
 ---
 
@@ -635,6 +699,18 @@ date: 2025-05-02, from: Island Times
 
 ---
 
+## Docomo Pacific becomes first to deliver up to 1 Gigabit speeds islandwide across Guam and CNMI
+
+date: 2025-05-02, updated: 2025-05-02, from: Marianas Variety
+
+TAMUNING, Guam (Special Advertising Feature) — Docomo Pacific proudly announces significant upgrades to its Fixed broadband Internet plans. These plans deliver faster speeds and superior reliability to homes and businesses across Guam and the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/docomo-pacific-becomes-first-to-deliver-up-to-1-gigabit-speeds-islandwide-across-guam-and/article_82ce14b3-6735-472a-89c2-ca611ae47397.html>
+
+---
+
 ## UH alumna credited with filming Bretman Rock, launching Levi’s TikTok
 
 date: 2025-05-02, from: University of Hawaiʻi News
@@ -673,7 +749,7 @@ The post <a href="https://www.hawaii.edu/news/2025/05/01/ctahr-students-sprout-e
 
 ---
 
-## President Whipps’ optimism meets rising Senate resistance as second term takes shape
+## Palau President Whipps’ optimism meets rising Senate resistance as second term takes shape
 
 date: 2025-05-02, from: Pacific Island Times
 
@@ -802,6 +878,42 @@ The post <a href="https://www.hawaii.edu/news/2025/05/01/may-2025-anniversaries/
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/01/may-2025-anniversaries/>
+
+---
+
+## Why natural light in classrooms is important for student learning, well-being
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+(BPT) - Imagine spending your entire work day, every day, in a windowless room, with only artificial light to illuminate your space. It's not an inspiring, motivating or pleasant place to spend hundreds of hours every month, yet for some American children — particularly those attending schools built in the 1960s and 1970s — this is an unfortunate reality. Windows were once seen as posing a distraction to children, and as such, were purposely eliminated from building designs. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/why-natural-light-in-classrooms-is-important-for-student-learning-well-being/article_9809c4a9-2259-5573-9899-701999814000.html>
+
+---
+
+## 3 expert ways to safely reduce allergens inside your home this allergy season
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+(BPT) - Spring has officially sprung, but just as April showers bring May flowers, these warmer months also herald the start of peak allergy season. If you are someone who has asthma or suffers from allergies, you know firsthand how important it is to keep your home dust- and pollen-free. However, if you aren't selective enough with your cleaning products, your good intentions of regular home cleanings may unintentionally introduce allergens and chemicals back into your space, potentially making asthma and allergy symptoms worse. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/home_improvement/3-expert-ways-to-safely-reduce-allergens-inside-your-home-this-allergy-season/article_2dbbb321-e3a1-5f61-aef8-b8a46ea22b18.html>
+
+---
+
+## 5 hosting tips to make your Cinco De Mayo celebrations more festive
+
+date: 2025-05-01, updated: 2025-05-01, from: Marianas Variety
+
+(BPT) - Cinco de Mayo, observed on the fifth of May, is a joyful celebration of Mexican culture, history and resilience — and a perfect opportunity to gather with loved ones. This year, draw inspiration from acclaimed Mexican Chef Pati Jinich and bring the spirit of Mexico into your home with vibrant, creative and delicious ideas that honor tradition while keeping things fun and family-friendly. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/5-hosting-tips-to-make-your-cinco-de-mayo-celebrations-more-festive/article_976925dd-3689-5341-b087-cdb2ca7e238d.html>
 
 ---
 
@@ -3063,4 +3175,194 @@ date: 2025-04-27, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/27/nation-world-news/trump-meets-with-zelenskyy-in-vatican-city-white-house-says/>
+
+---
+
+## Trump budget to take ax to ‘radical’ safety net programs
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (NYT) &#8212; The Trump administration, which has made clear that it aims to slash government spending, is preparing to unveil a budget proposal as soon as next week that includes draconian cuts that would entirely eliminate some federal programs and fray the nation&#8217;s social safety net.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/trump-budget-to-take-ax-to-radical-safety-net-programs/>
+
+---
+
+## Hegseth’s personal phone use created vulnerabilities, analysts say
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Defense Secretary Pete Hegseth&#8217;s personal phone number, the one used in a recent Signal chat, was easily accessible on the internet and public apps as recently as March, potentially exposing national security secrets to foreign adversaries.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/hegseths-personal-phone-use-created-vulnerabilities-analysts-say/>
+
+---
+
+## Wisconsin judge arrested, accused of shielding immigrant from federal agents
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>FBI agents arrested a Milwaukee County judge on Friday on charges of obstructing immigration agents, saying she steered an immigrant through a side door in her courtroom while the agents waited to arrest him in a public hallway.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/wisconsin-judge-arrested-accused-of-shielding-immigrant-from-federal-agents/>
+
+---
+
+## Sports wagering dead this legislative session
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>Sports wagering will not become legal in Hawaii this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/hawaii-news/sports-wagering-dead-this-legislative-session/>
+
+---
+
+## A faithful throng pays last respects to Pope Francis
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; The doors opened to St. Peter&#8217;s Basilica at 5:40 a.m. Friday, and people immediately began to trickle in to pay their respects to Pope Francis, whose body lay beneath the vast dome designed by Michelangelo. A couple hours later, the trickle was a river, as thousands moved through the basilica on the last day they could say goodbye to the pontiff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/a-faithful-throng-pays-last-respects-to-pope-francis/>
+
+---
+
+## Senior Russian officer killed in car explosion near Moscow
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>A senior Russian military commander was killed Friday in a car explosion in a Moscow suburb, investigators said, the latest in a series of apparent assassinations targeting Ukraine&#8217;s opponents inside Russia that have come as ceasefire talks show few signs of progress.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/senior-russian-officer-killed-in-car-explosion-near-moscow/>
+
+---
+
+## 19 states sue the Trump administration over its DEI demand in schools
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>A coalition of 19 states sued the Trump administration Friday over its threat to withhold federal funding from states and districts with certain diversity programs in their public schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/19-states-sue-the-trump-administration-over-its-dei-demand-in-schools/>
+
+---
+
+## Disgraced Santos is given a 7-year prison sentence to cap his fall
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>CENTRAL ISLIP, NY. &#8212; Former Rep. George Santos, R-N.Y., whose outlandish fabrications and criminal schemes fueled an unforeseen rise and spectacular fall, was sentenced to more than seven years in federal prison Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/disgraced-santos-is-given-a-7-year-prison-sentence-to-cap-his-fall/>
+
+---
+
+## Mangione pleads not guilty as US seeks death penalty
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The judge overseeing the federal prosecution of Luigi Mangione, the man accused of killing a health insurance executive in Manhattan, on Friday warned the U.S. attorney general to keep quiet about him to ensure a fair trial</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/mangione-pleads-not-guilty-as-us-seeks-death-penalty/>
+
+---
+
+## Puna murder suspect charged, victim ID’d
+
+date: 2025-04-26, from: Hawaii Tribune Harold
+
+
+				<p>Police on Saturday charged a 42-year-old Pahoa woman with murder after a reported domestic dispute late Thursday night in Nanawale Estates resulted in the death of a 45-year-old man.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/26/hawaii-news/puna-murder-suspect-charged-victim-idd/>
+
+---
+
+## UOG study: two banana types ideal for commercial production in Guam 
+
+date: 2025-04-26, from: Pacific Island Times
+
+The study found that Fiji and Saba have highly marketable qualities, favorable yields and can be sustainably produced in Guam’s conditions without the use of pesticides. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/uog-study-two-banana-types-ideal-for-commercial-production-in-guam>
+
+---
+
+## Kapiʻolani CC culinary graduates serve inspiration at women’s correctional center
+
+date: 2025-04-26, from: University of Hawaiʻi News
+
+<p><span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> grads help incarcerated moms and kids bond through food and shared hope.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/25/kapiolani-cc-culinary-wccc-kids-day/">Kapiʻolani <abbr>CC</abbr> culinary graduates serve inspiration at women’s correctional center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/25/kapiolani-cc-culinary-wccc-kids-day/>
+
+---
+
+## UH alumni businesses, more, shine at Merrie Monarch Festival
+
+date: 2025-04-26, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> grads turn passion into thriving businesses at Merrie Monarch’s celebration of culture and creativity.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/25/uh-alumni-shine-at-merrie-monarch/"><abbr>UH</abbr> alumni businesses, more, shine at Merrie Monarch Festival</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/25/uh-alumni-shine-at-merrie-monarch/>
+
+---
+
+## Eggs and graves 
+
+date: 2025-04-26, from: The Husk
+
+Weekender #55 
+
+<br> 
+
+<https://thehusk.substack.com/p/eggs-and-graves>
 

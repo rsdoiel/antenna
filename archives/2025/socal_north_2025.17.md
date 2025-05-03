@@ -1,11 +1,50 @@
 ---
 title: socal north
-updated: 2025-05-02 14:07:51
+updated: 2025-05-03 06:07:25
 ---
 
 # socal north
 
-(date: 2025-05-02 14:07:51)
+(date: 2025-05-03 06:07:25)
+
+---
+
+## LitFest in the Dena brings bookworms to Pasadena for readings, tea and camaraderie
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+LitFest in the Dena arrives this weekend with a focus on the effects from the January fires. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/missed-the-la-times-fob-check-out-litfest-in-the-dena-this-weekend>
+
+---
+
+## Demolition begins on defunct shopping center to make way for 8-story building with 272 apartments
+
+date: 2025-05-02, from: Longbeach Post
+
+<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-300x172.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-768x439.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW-400x229.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02124624/img-6-210768-r93h3idp-166053-ZgZATarW.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The old City Place Shopping Center is being knocked down as part of a major plan to redevelop entire blocks of Downtown Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/business/development/demolition-begins-on-defunct-shopping-center-to-make-way-for-8-story-building-with-272-apartments">Demolition begins on defunct shopping center to make way for 8-story building with 272 apartments</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/development/demolition-begins-on-defunct-shopping-center-to-make-way-for-8-story-building-with-272-apartments>
+
+---
+
+## Covered California pushes for better health care as federal spending cuts loom
+
+date: 2025-05-02, updated: 2025-05-02, from: The LAist
+
+Monica Soni, Covered California’s chief medical officer, oversees an effort to hold health plans financially accountable for the quality of care they provide, including childhood vaccination rates, which have fallen in California and nationwide. 
+
+<br> 
+
+<https://laist.com/news/health/covered-california-pushes-for-better-health-care-as-federal-spending-cuts-loom>
 
 ---
 
@@ -63,8 +102,8 @@ Both primary broadband providers in the area say service hasn’t fully been res
 
 date: 2025-05-02, from: Longbeach Post
 
-<figure><img width="1024" height="532" src="https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-577x300.jpg 577w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1110x577.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-768x399.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1536x798.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-2048x1064.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1320x686.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>An increase in your electrical bill is coming, but how big the price tag is will depend on who pays it: just long beach customers or everyone in the region.</p>
+<figure><img width="1024" height="532" src="https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-577x300.jpg 577w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1110x577.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-768x399.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1536x798.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-2048x1064.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/01/14101650/1231-SNOWCAPS07-1320x686.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An increase in your electrical bill is coming, but how big the price tag is will depend on who pays it: just Long Beach customers or everyone in the region.</p>
 <p>The post <a href="https://lbpost.com/news/after-long-beach-repealed-a-tax-exemption-socal-edison-wants-to-pass-the-cost-along-to-local-ratepayers">After Long Beach repealed a tax exemption, SoCal Edison wants to pass the cost along to local ratepayers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
@@ -166,7 +205,7 @@ Rain is coming to SoCal this weekend. Here's what you need to know.
 
 date: 2025-05-02, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/02085611/120522-assembly-republicans-presser-rl-cm-11-971935-klqidm84-567925-ItQiAbuN.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A Republican bill to require more transparency from California’s 50,000 homeowners associations failed to advance out of committee despite bipartisan support.</p>
 <p>The post <a href="https://lbpost.com/news/politics/california-lawmakers-kill-bid-to-force-hoas-to-follow-open-meeting-laws">California lawmakers kill bid to force HOAs to follow open meeting laws</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -1401,4 +1440,138 @@ For many gamers, this Eastside space is more than a place to play— it’s wher
 <br> 
 
 <https://laist.com/news/los-angeles-activities/bring-your-own-games-byo-games-east-la-los-angeles>
+
+---
+
+## City attorney won't file charges against most Gaza protesters arrested at UCLA and USC
+
+date: 2025-04-26, updated: 2025-04-28, from: The LAist
+
+Only two people, among hundreds arrested, are facing misdemeanor charges after protests over the war in Gaza on Southern California college campuses. 
+
+<br> 
+
+<https://laist.com/news/most-people-arrested-in-ucla-and-uscs-encampment-protests-avoid-criminal-charges>
+
+---
+
+## Building Community Through Parks and Capital Improvement Projects
+
+date: 2025-04-26, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin In Santa Clarita, we are proud of our thousands of acres of open spaces, miles of scenic trails and beautiful green parks that bring our community together. Parks aren’t just places to play – they’re spaces to connect, celebrate and create memories. Over the next few months, we’re excited to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/26/building-community-through-parks-and-capital-improvement-projects/">Building Community Through Parks and Capital Improvement Projects</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/26/building-community-through-parks-and-capital-improvement-projects/>
+
+---
+
+## Here are the best new albums out this week
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+NPR Music's Stephen Thompson welcomes Ayana Contreras of Denver public radio stations KUVO Jazz and The Drop to discuss today's top new releases. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/here-are-the-best-new-albums-out-this-week>
+
+---
+
+## Five people arrested for allegedly defrauding FEMA after the LA fires
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+If convicted, arrestees could face up to 30 years in prison. 
+
+<br> 
+
+<https://laist.com/news/arrests-fema-claims-frauds>
+
+---
+
+## With communities like Boyle Heights left in the dark, California moves to crack down on copper wire dealers and sellers
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Proposed by Assemblymember Mark Gonzalez, AB 476 also seeks to revise penalties for offenders to better reflect the true cost to the public. 
+
+<br> 
+
+<https://laist.com/news/politics/with-communities-like-boyle-heights-left-in-the-dark-california-moves-to-crack-down-on-copper-wire-dealers-and-sellers>
+
+---
+
+## What the Festival of Books means to its authors, as told by Pulitzer winner Héctor Tobar
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Author and professor Héctor Tobar reflects on nearly three decades of work. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-times-festival-of-books-hector-tobar-percival-everett>
+
+---
+
+## California is running out of license plate numbers. Here’s what comes next
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Say goodbye to the 9ZZZ999 format. Sometime next year, California drivers will start receiving license plates with a reversed configuration. 
+
+<br> 
+
+<https://laist.com/news/transportation/california-dmv-department-motor-vehicles-license-plate-numbers-running-out>
+
+---
+
+## Behind the West Coast’s most widely used early earthquake alert system
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+This is the story of ShakeAlert and how it works. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/behind-the-west-coasts-most-widely-used-early-earthquake-alert-system>
+
+---
+
+## Go Fact Yourself quiz for April 26
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Our celebrity panelists Josefina López and Bruce Vilanch go head to head this week on their knowledge of the musical 'Miss Saigon' and the SS Andrea Doria. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-april-26>
+
+---
+
+## Health officials confirm another measles case in LA
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+It’s the tenth California case this year and comes amid a widening U.S. outbreak. 
+
+<br> 
+
+<https://laist.com/news/health/measles-los-angeles-infections-texas-cdc-vaccine>
+
+---
+
+## Angelenos vent outrage over mayor's budget, proposed staff and service cuts
+
+date: 2025-04-26, updated: 2025-04-26, from: The LAist
+
+Facing a nearly $1 billion dollar shortfall, Mayor Karen Bass has proposed 1,647 layoffs across departments, or about 5% of the city workforce. 
+
+<br> 
+
+<https://laist.com/news/politics/angelenos-vent-outrage-over-mayors-budget-proposed-staff-and-service-cuts>
 

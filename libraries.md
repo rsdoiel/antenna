@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-02 14:07:56
+updated: 2025-05-03 06:07:31
 ---
 
 # libraries
 
-(date: 2025-05-02 14:07:56)
+(date: 2025-05-03 06:07:31)
 
 ---
 
@@ -173,6 +173,42 @@ Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M
 <br> 
 
 <http://hdl.handle.net/20.500.11850/732786>
+
+---
+
+## Peer2PIR: Private Queries for IPFS
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Mazmudar, Miti; Veitch, Shannon; Akhavan Mahdavi, Rasoul 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733500>
+
+---
+
+## Congestion-aware optimization of urban road space allocation for cars and bicycle
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Ni, Ying-Chuan; Mohapatra, Adyasha; Makridis, Michail; Kouvelas, Anastasios 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733499>
+
+---
+
+## Should I stay or should I go: transmission trade-offs in phages and plasmids
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Huisman J.S.; Bernhard A.; Igler C. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733497>
 
 ---
 

@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2025-05-02 14:07:58
+updated: 2025-05-03 06:07:34
 ---
 
 # food
 
-(date: 2025-05-02 14:07:58)
+(date: 2025-05-03 06:07:34)
+
+---
+
+## The Best Lemon Pepper Wings in Atlanta
+
+date: 2025-05-02, from: Bon Appetet
+
+Served everywhere from strip clubs to Bangladeshi and Filipino restaurants, lemon pepper wings are a staple of Atlanta food culture. These are a local expert’s top picks. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-lemon-pepper-wings-restaurants-atlanta>
+
+---
+
+## I Made the Internet-Famous ‘Golden Diner Pancakes’—Do They Live Up to the Hype?
+
+date: 2025-05-02, from: Taste of Home
+
+<p>The wait time for real-deal fluffy Golden Diner pancakes is up to three hours. That tells me this recipe should be extraordinary.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/golden-diner-pancake-recipe/">I Made the Internet-Famous &#8216;Golden Diner Pancakes&#8217;—Do They Live Up to the Hype?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/golden-diner-pancake-recipe/>
 
 ---
 
@@ -1290,4 +1316,16 @@ date: 2025-04-27, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/>
+
+---
+
+## 37 Summer Cocktails for Maximum Chill
+
+date: 2025-04-26, from: Bon Appetet
+
+Crushed raspberries and beer, vermouth sangria, a hot pink watermelon punch, and more cooling sips for summertime. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/summer-cocktails-recipes-ideas>
 

@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-05-02 14:07:53
+updated: 2025-05-03 06:07:27
 ---
 
 # science and technology
 
-(date: 2025-05-02 14:07:53)
+(date: 2025-05-03 06:07:27)
+
+---
+
+## Trump wants to fire quarter of NASA budget into black hole – and not in a good way
+
+date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+
+<h4>Proposed cuts would mean: No Lunar Gateway, Artemis hardware to retire, ISS toast in 2030</h4> <p>The White House has proposed slashing NASA&#39;s budget by 24 percent, dropping it from $24.8 billion to $18.8 billion. If approved, it would mark one of the agency&#39;s deepest single-year cuts in federal support, and crash its inflation-adjusted funding to levels not seen in decades.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/02/nasa_funding_slashed/>
 
 ---
 
@@ -23,9 +35,9 @@ date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
 
 ## Oregon State University's Open Source Lab is running on fumes
 
-date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+date: 2025-05-02, updated: 2025-05-03, from: The Register (UK I.T. News)
 
-<h4>FOSS incubator is short a quarter of a million bucks</h4> <p>Higher education across the USA is facing federal funding cutbacks – and now the Oregon State University (OSU) Open Source Lab (OSL) is in trouble.…</p> 
+<h4>Shakeup in US higher education funding means FOSS incubator is short a quarter of a million bucks</h4> <p>Higher education across the USA is facing federal funding cutbacks – and now the Oregon State University (OSU) Open Source Lab (OSL) is in trouble.…</p> 
 
 <br> 
 
@@ -2034,4 +2046,64 @@ RetrOS-32 is a 32bit operating system written from scratch, with graphics, multi
 <br> 
 
 <https://www.osnews.com/story/142221/retros-32-a-32bit-hobby-operating-system-with-graphics-multitasking-and-more/>
+
+---
+
+## Trump’s 145% tariffs could KO tabletop game makers, other small biz, lawsuit claims
+
+date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
+
+<h4>One eight-person publisher says it&#39;ll be forced to pay $1.5M</h4> <p><strong>WORLD WAR FEE</strong>  The Trump administration&#39;s tariffs are famously raising the prices of high-ticket products with lots of chips, like iPhones and cars, but they&#39;re also hurting small businesses like game makers. In this case, we&#39;re not talking video games, but the old-fashioned kind you play at your kitchen table.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/game_makers_small_businesses_sue_tariffs/>
+
+---
+
+## Build your own antisocial writing rig with DOS and a $2 USB key
+
+date: 2025-04-26, updated: 2025-04-28, from: The Register (UK I.T. News)
+
+<h4>Reg hack pines for simpler times, then tries to recapture them</h4> <p>Sometimes, the size and complexity of modern OSes – even the FOSS ones – is enough to make us miss the days when an entire bootable OS could fit in three files, when configuring a PC for production meant editing two plain-text files, which contained maybe a dozen lines each. DOS couldn&#39;t do very much, but the little it did was enough. From the early 1980s for a decade or two, much of the world ran on DOS. Then Windows 3 came along, which is arguably the point where the rot set in.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/dos_distraction_free_writing/>
+
+---
+
+## UK bans game controller exports to Russia in bid to ground drone attacks
+
+date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
+
+<h4>Moscow likely to respawn elsewhere</h4> <p>The British government is banning the export of video game controllers to Russia, claiming these can be repurposed for piloting drones on the frontline in Ukraine.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/uk_russia_controller_drone_attack/>
+
+---
+
+## AI-driven 20-ft robots coming for construction workers' jobs
+
+date: 2025-04-26, updated: 2025-04-28, from: The Register (UK I.T. News)
+
+<h4>Er, are we sure we want to outsource the welding?</h4> <p><strong>Rise of the machines</strong>  Construction workers could soon find themselves laboring alongside 20-foot (6 meter) tall AI-powered autonomous robots capable of welding, carpentry, and 3D printing buildings. What could possibly go wrong?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/26/aipowered_robots_construction/>
+
+---
+
+## Earth Science Showcase – Kids Art Collection
+
+date: 2025-04-26, from: NASA breaking news
+
+On April 16, 2025, the Earth Science Division at NASA&#8217;s Ames Research Center in Silicon Valley held an Earth Science Showcase to share its work with the center and their families. As part of this event, kids were invited to draw something they like about the Earth. These are their masterpieces. Sora U. Age 9. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/art-showcase/>
 

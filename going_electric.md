@@ -1,11 +1,71 @@
 ---
 title: going electric
-updated: 2025-05-02 14:07:58
+updated: 2025-05-03 06:07:34
 ---
 
 # going electric
 
-(date: 2025-05-02 14:07:58)
+(date: 2025-05-03 06:07:34)
+
+---
+
+## ID. Buzz recall: VW’s third-row bench is too big for its own good
+
+date: 2025-05-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/LIPMAN_JL91507.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Volkswagen of America is recalling nearly 5,700 2025 VW ID. Buzz vans because the NHTSA says the third-row bench seat is too spacious. (For real.)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="recall,volkswagen,volkswagen-id-buzz,vw-id-buzz" data-layer-viewtype="unknown" data-post-id="414099" href="https://electrek.co/2025/05/02/id-buzz-recall-vw-third-row-bench-is-too-big-for-its-own-good/#more-414099" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/02/id-buzz-recall-vw-third-row-bench-is-too-big-for-its-own-good/>
+
+---
+
+## Zenobē arrives in North America with a 500 unit EV deal in Canada [part 4]
+
+date: 2025-05-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/7Gen-Zenobe-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric vehicle charging and <a href="https://electrek.co/2025/03/25/zenobe-completes-220-million-raise-for-scottish-bess-project/">battery storage specialists</a> Zenobē have inked a deal with Canadian leasing company 7Gen to fund more than 500 commercial EVs and their associated charging infrastructure.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,financing,zenobe" data-layer-viewtype="unknown" data-post-id="414095" href="https://electrek.co/2025/05/02/zenobe-arrives-in-north-america-with-a-500-unit-ev-deal-in-canada-part-4/#more-414095" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/02/zenobe-arrives-in-north-america-with-a-500-unit-ev-deal-in-canada-part-4/>
+
+---
+
+## Here's Why There Are So Few EVs For Sale In America Right Now
+
+date: 2025-05-02, from: Inside EVs News
+
+As the cloud of tariff-related price hikes looms over the auto industry, there’s some calm to be enjoyed before the storm hits. 
+
+<br> 
+
+<https://insideevs.com/news/758470/why-us-ev-sales-dropped-in-april/>
+
+---
+
+## BYD’s $10,000 Seagull EV was its top seller last month and now it’s headed overseas
+
+date: 2025-05-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/BYDs-new-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s ultra-affordable Seagull was its top-selling EV last month, with over 55,000 units sold. With prices starting at under $10,000 in China, it’s the cheapest EV in <a href="https://electrek.co/guides/byd/">BYD’s</a> lineup. And with plans to launch it in new overseas markets soon, the Seagull is expected to see even more demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="414071" href="https://electrek.co/2025/05/02/byds-10000-ev-top-seller-april-going-overseas/#more-414071" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/02/byds-10000-ev-top-seller-april-going-overseas/>
 
 ---
 
@@ -62,6 +122,10 @@ date: 2025-05-02, from: Electrek Feed
 
 
 <p><strong>Today’s episode is brought to you by retrospec—makers of sleek, powerful e-bikes and outdoor gear built for everyday adventure.</strong> <strong>Electrek listeners can get 10% off</strong> their next ride until May 8th with the exclusive code <strong>ELECTREK10</strong> only at<a href="https://bit.ly/4jq5cK1" target="_blank" rel="noreferrer noopener"> retrospec.com</a>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Electrek_383.mp3"></audio></figure>
 
 
 
@@ -1818,4 +1882,128 @@ It's all about making the truck qualify for the $7,500 federal EV rebate, Slate'
 <br> 
 
 <https://insideevs.com/news/757802/slate-ev-battery-chemistry-lfp/>
+
+---
+
+## ABB brought its new, 1.2 MW electric semi truck charger to ACT Expo [update]
+
+date: 2025-04-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/abb_new-main.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Capable of delivering up to 1,200 kW of power to get electric commercial trucks back on the road in minutes, the new <a href="https://electrek.co/2024/01/15/abb-man-announce-megawatt-charging-joint-rd-plan/">ABB MCS1200 Megawatt Charging System</a> is part of an ecosystem of electric vehicle supply equipment (EVSE) that ABB’s bringing to this year’s ACT Expo.</p>
+
+
+
+<p><strong>UPDATE</strong>: ABB reads <em>Electrek</em> (above).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,commercial-evs,electric-semi-truck,ev-charging" data-layer-viewtype="unknown" data-post-id="413022" href="https://electrek.co/2025/04/26/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/#more-413022" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/26/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/>
+
+---
+
+## Whisper Aero ultralight aircraft scores $500K for “UltraQuiet” electric jet motor tests
+
+date: 2025-04-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/whisper_aero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Along with Tennessee Tech, Tennessee-based ultralight aircraft company Whisper Aero has secured a $500,000 grant to help advance the company’s innovative electric jet motor concept off the drawing board and onto the testing phase.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,electric-airplanes" data-layer-viewtype="unknown" data-post-id="412984" href="https://electrek.co/2025/04/26/whisper-aero-ultralight-aircraft-scores-500k-for-ultraquiet-electric-jet-motor-tests/#more-412984" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/26/whisper-aero-ultralight-aircraft-scores-500k-for-ultraquiet-electric-jet-motor-tests/>
+
+---
+
+## Tesla Cybertruck owner gets stuck after believing Elon Musk’s ‘river crossing’ claim
+
+date: 2025-04-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Cybertruck-stuck-water-hero.png?w=1600" /></div><p>A Tesla Cybertruck owner believed Elon Musk’s claims that the Cybertruck would be able to “act as a boat” and “cross rivers”, and he got his $100,000 stuck because of it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412983" href="https://electrek.co/2025/04/26/tesla-cybertruck-owner-stuck-beliving-elon-musks-river-crossing-claim/#more-412983" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/26/tesla-cybertruck-owner-stuck-beliving-elon-musks-river-crossing-claim/>
+
+---
+
+## Nissan's EV Sedan, Frontier PHEV Make Me Wish For A Different Reality
+
+date: 2025-04-26, from: Inside EVs News
+
+A pair of electrified Nissans drew big crowds at the Shanghai Auto Show this week. The same could easily happen in America. 
+
+<br> 
+
+<https://insideevs.com/news/757810/nissan-shanghai-phev-frontier-n7/>
+
+---
+
+## Bang for the buck: Omoda 9 arrives in Europe, nothing cheaper has more power
+
+date: 2025-04-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/omoda_9_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The latest Chinese EREV to arrive in the west, the Omoda 9 SHS crossover hopes to shake things up in the hyper-competitive class with a top-shelf tech package, more horsepower than a Porsche 911 GT3, and a €39,900 price tag.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chery-automotive,china,erev" data-layer-viewtype="unknown" data-post-id="412949" href="https://electrek.co/2025/04/26/bang-for-the-buck-omoda-9-arrives-in-europe-nothing-cheaper-has-more-power/#more-412949" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/26/bang-for-the-buck-omoda-9-arrives-in-europe-nothing-cheaper-has-more-power/>
+
+---
+
+## Tesla hikes prices on its EVs in Canada amid tariffs, expect demand collapse
+
+date: 2025-04-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Canada-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has increased prices across its entire electric vehicle lineup in Canada amid increase tariffs due to President Trump’s trade war.</p>
+
+
+
+<p>The American automaker was already struggling to sell cars in Canada this year, but with these prices, we should expect a total demand collapse.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412960" href="https://electrek.co/2025/04/26/tesla-hikes-prices-evs-canada-amid-tariffs-expect-demand-collapse/#more-412960" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/26/tesla-hikes-prices-evs-canada-amid-tariffs-expect-demand-collapse/>
+
+---
+
+## Ford Develops Breakthrough Battery Chemistry After ‘Intense Research’
+
+date: 2025-04-26, from: Inside EVs News
+
+It's a lithium manganese rich (LMR) cell chemistry designed for lower-cost and longer-range EVs. 
+
+<br> 
+
+<https://insideevs.com/news/757794/ford-breakthrough-lmr-ev-battery-chemistry/>
+
+---
+
+## Truck Buyers Are Definitely Interested In PHEV Pickups
+
+date: 2025-04-26, from: Inside EVs News
+
+Studies show that buyers are open to electrified pickups, especially if they've got a Nissan badge on them.  
+
+<br> 
+
+<https://insideevs.com/news/757740/nissan-frontier-slate-truck-market/>
 

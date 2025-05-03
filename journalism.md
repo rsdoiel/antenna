@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-05-02 14:07:55
+updated: 2025-05-03 06:07:30
 ---
 
 # journalism
 
-(date: 2025-05-02 14:07:55)
+(date: 2025-05-03 06:07:30)
+
+---
+
+## James Milliken appointed by UC Board of Regents as next University president
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 2 at 4:32 p.m.</em>
+The UC Board of Regents appointed James Milliken to be the University’s next president Friday.
+Milliken, the current chancellor of the University of Texas system, will assume the role Aug. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/02/james-milliken-appointed-by-uc-board-of-regents-as-next-university-president/>
+
+---
+
+## Editorial Cartoon: “Alpha at the Crosswalks”
+
+date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/02/editorial-cartoon-alpha-at-the-crosswalks/>
 
 ---
 
@@ -237,6 +263,7 @@ The USA Elections Board and the Daily Bruin co-hosted a series of debates betwee
 
 date: 2025-05-02, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 2 at 2:48 p.m.</em>
 Campaign representatives presented three referendums during an Undergraduate Students Association Council elections debate Thursday.&#160;
 The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
 
@@ -1481,4 +1508,98 @@ date: 2025-04-27, from: The Canyon News (COC Student Newspaper)
 <br> 
 
 <https://canyonsnews.com/electronic-waste/>
+
+---
+
+## Theater review: ‘Furlough’s Paradise’ embrace of intimacy through script, set design moves viewers
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead.
+&#8220;Furlough&#8217;s Paradise&#8221; reminds viewers &#8211; through the intimacy of the stage &#8211; to hold loved ones as tight as possible.
+After its world premiere at Atlanta&#8217;s Alliance Theatre in 2024, &#8220;Furlough&#8217;s Paradise&#8221; has found its newest home at Geffen Playhouse&#8217;s Gil Cates Theater, where it will run until May 18. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/26/theater-review-furloughs-paradise-embrace-of-intimacy-through-script-set-design-moves-viewers/>
+
+---
+
+## Local residents roll up their sleeves to make a difference on Earth Day
+
+date: 2025-04-26, from: The Canyon News (COC Student Newspaper)
+
+<p>This Earth Day, Santa Clarita residents are getting their hands dirty by&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/earth-day/">Local residents roll up their sleeves to make a difference on Earth Day</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/earth-day/>
+
+---
+
+## Former UCLA child care teacher convicted on 9 counts of child sexual abuse
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor’s note: This article includes descriptions of child sexual abuse.
+A jury convicted a former UCLA Early Care and Education center teacher Friday of nine counts of child sexual abuse. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/former-ucla-child-care-teacher-convicted-on-9-counts-of-child-sexual-abuse/>
+
+---
+
+## LA City Attorney declines to file criminal charges on most arrests at encampment
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Attorney declined to file criminal charges on most arrests made in April and May 2024 during pro-Palestine protests.&#160;
+LA City Attorney Hydee Feldstein Soto announced in a Friday press release that UCPD referred 245 arrests to her office relating to May campus protests, all of which were declined due to insufficient evidence. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/la-city-attorney-declines-to-file-criminal-charges-on-most-arrests-at-encampment/>
+
+---
+
+## LA City Attorney declines to file charges against most  encampment protesters
+
+date: 2025-04-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two cases were referred to a City Attorney hearing.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/25/no-arrested-encampment-protesters-from-usc-had-charges-filed-against-them-l-a-city-attorney-says/">LA City Attorney declines to file charges against most  encampment protesters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/25/no-arrested-encampment-protesters-from-usc-had-charges-filed-against-them-l-a-city-attorney-says/>
+
+---
+
+## Nightly Bruin: Inside UCLA’s Parapsychology Lab
+
+date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Before ghost-hunting shows and viral psychic videos, UCLA ran a real parapsychology lab, hidden in the old Neuropsychiatric Institute. In this episode of Nightly Bruin, Jina Bae, Audrey Turner, Olivia Miller and Srinidhi Naragajan uncover the strange history of the lab &#8211; from psychic experiments and telepathy tests to celebrity visits and chilling premonitions that turned tragically real. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/25/nightly-bruin-inside-uclas-parapsychology-lab/>
+
+---
+
+## Snake Season’s Here: A program offers training to keep pets safe on the trails
+
+date: 2025-04-26, from: The Canyon News (COC Student Newspaper)
+
+<p>As the weather warms up, more hikers are heading out on the&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/snake-season/">Snake Season’s Here: A program offers training to keep pets safe on the trails</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/snake-season/>
 

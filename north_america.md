@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-05-02 14:07:50
+updated: 2025-05-03 06:07:24
 ---
 
 # north america
 
-(date: 2025-05-02 14:07:50)
+(date: 2025-05-03 06:07:24)
+
+---
+
+## Evening Roundup, May 2
+
+date: 2025-05-02, from: The Contrarian
+
+Featuring Meredith Blake and The Contrarian Protest Playlist; Megan Armstrong; Brian O'Neill; The Democracy Index; a May Day Protest video; Marissa Rothkopf; Ruben Bolling; and our Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-2>
+
+---
+
+##  The Corporate Crusade Of Trump’s Top Retirement Cop 
+
+date: 2025-05-02, from: The Lever News
+
+ Potential pension chief Daniel Aronowitz wants to give retirement fund managers a free pass for price-gouging workers and bungling their savings — and his company stands to profit from it.  
+
+<br> 
+
+<https://www.levernews.com/the-corporate-crusade-of-trumps-top-retirement-cop/>
+
+---
+
+## Where is the great anti-Trump protest song?
+
+date: 2025-05-02, from: The Contrarian
+
+Once a staple of pop music, protest songs are harder to find these days. But political statements aren&#8217;t 
+
+<br> 
+
+<https://contrarian.substack.com/p/where-is-the-great-anti-trump-protest>
 
 ---
 
@@ -982,4 +1018,28 @@ date: 2025-04-27, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-the-pentagons-new-powder-room/>
+
+---
+
+##  YOU LOVE TO SEE IT: Rewriting The Prescription Playbook 
+
+date: 2025-04-26, from: The Lever News
+
+ States are cutting out the medicine middleman, an Ivy League college fixes its math, questionable opioid prescriptions are set right, and vacations just got simpler.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-rewriting-the-prescription-playbook/>
+
+---
+
+##  Supercharging Musk’s Space Monopoly 
+
+date: 2025-04-26, from: The Lever News
+
+ Trump regulators could boost the power and number of SpaceX satellites, buttressing a space armada that’s suppressing competition, blinding telescopes, and endangering spaceflight.  
+
+<br> 
+
+<https://www.levernews.com/supercharging-musks-space-monopoly/>
 

@@ -1,11 +1,37 @@
 ---
 title: home
-updated: 2025-05-02 14:07:56
+updated: 2025-05-03 06:07:32
 ---
 
 # home
 
-(date: 2025-05-02 14:07:56)
+(date: 2025-05-03 06:07:32)
+
+---
+
+## These New and Buzzy Books by AAPI Authors Should Be on Your Reading List
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+It's time to celebrate AAPI Heritage Month! And one of the best ways to do so is through books. Take a look at these popular novels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/books-by-aapi-authors>
+
+---
+
+## In the Field: Wetland & Riparian Monitoring around the Modoc Plateau
+
+date: 2025-05-02, from: California Native Plants Society
+
+<p>The CNPS Vegetation team has spent three years monitoring wetlands and riparian areas across California. Their work is helping inform land stewardship decisions to protect these vital ecosystems.</p>
+<p>The post <a href="https://www.cnps.org/in-the-field/in-the-field-wetland-riparian-monitoring-around-the-modoc-plateau-43491">In the Field: Wetland &#038; Riparian Monitoring around the Modoc Plateau</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/in-the-field/in-the-field-wetland-riparian-monitoring-around-the-modoc-plateau-43491>
 
 ---
 
@@ -23,6 +49,222 @@ date: 2025-05-02, from: Family Handyman Blog
 
 ---
 
+## Hotels, Inns, and More
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Camping
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Your ultimate guide to camping, with the best ideas for campgrounds, gear, cooking, and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping>
+
+---
+
+## Road Trips
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Outdoor Adventure
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Wine Country
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+The West is home to the country's best wine regions. Explore them all and taste their best offerings, from the cult cabs of Napa to the Pinots of Willamette Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country>
+
+---
+
+## WildLands
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+The adventures and reporting of J.D. Simkins as he roams the remaining "wild lands" of the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/wildlands>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
+## Travel the West
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Wellness
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Landscaping
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## Flowers & Plants
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## DIY Projects
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
 ## Preserved Lemons Recipe (How to Make Salt Pickled Lemons)
 
 date: 2025-05-02, from: Homestead and Chil
@@ -34,6 +276,18 @@ date: 2025-05-02, from: Homestead and Chil
 <br> 
 
 <https://homesteadandchill.com/salt-preserved-lemons-recipe/>
+
+---
+
+## Home Tours
+
+date: 2025-05-02, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
 
 ---
 
@@ -303,18 +557,6 @@ Great home and garden design ideas, from decorating and DIY projects to landscap
 <br> 
 
 <https://www.sunset.com/home-garden>
-
----
-
-## These New and Buzzy Books by AAPI Authors Should Be on Your Reading List
-
-date: 2025-05-02, from: Sunset Magazine - Living in the West
-
-It's time to celebrate AAPI Heritage Month! And one of the best way to do so is through books. Take a look at these popular novels. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/culture/books-by-aapi-authors>
 
 ---
 
@@ -1640,4 +1882,116 @@ date: 2025-04-27, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-heath-asters/>
+
+---
+
+## How and When to Fertilize Zucchini Plants
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Delicious and incredibly versatile, zucchini is an easy-to-grow favorite among foodies and gardeners. This guide will walk you through the steps required to give your plants the nutrients they need to flourish! Read on to get the scoop on how and when to feed your zucchini for healthier plants and increased yield.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/fertilize-zucchini/">How and When to Fertilize Zucchini Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/fertilize-zucchini/>
+
+---
+
+## 9 of the Best Larch Varieties for Your Landscape
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Unlike other conifers, the needles of larch trees (Larix spp.) turn yellow or gold in the fall and drop from the branches, leaving behind cones and colorful shoots. They are available in a variety of sizes and shapes, from ground covers to 200-foot-tall behemoths. Learn about 9 of the best types of larch in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/best-larch-varieties/">9 of the Best Larch Varieties for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/best-larch-varieties/>
+
+---
+
+## Why Isn’t My Passionflower Vine Producing Fruit?
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Passionflowers, also known as passion fruit, are usually simple to grow. They’re low-maintenance and fairly tough. But if your passionflowers aren't producing fruit, something isn’t right with their growing conditions. Whether it’s sun exposure, fertilizer, or pollination issues, a little change can help a lot.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vines/passionflower-not-fruiting/">Why Isn’t My Passionflower Vine Producing Fruit?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vines/passionflower-not-fruiting/>
+
+---
+
+## How to Grow and Care for Shrub Roses
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Shrub roses are ideal for beginners because they’re easy to care for without forcing you to sacrifice an elegant floral display. They’re disease-resistant, most are self-cleaning, and they bloom all season long. Plus, they come in a range of colors, growth habits, and sizes. Read more to learn how to grow shrub roses.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-shrub-roses/">How to Grow and Care for Shrub Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-shrub-roses/>
+
+---
+
+## Primocane vs. Floricane: How to Distinguish Between Berry Canes
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Are you confused by the tags on cane berry plants at the nursery, like raspberries and blackberries? You’re not alone. “Primocane-bearing” and “floricane-fruiting” are handier terms for making purchase and management decisions when you know what they mean. All is explained, including why it matters, in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/primocane-vs-floricane/">Primocane vs. Floricane: How to Distinguish Between Berry Canes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/primocane-vs-floricane/>
+
+---
+
+## How to Identify and Control Mealybugs
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Mealybugs are notorious pests of indoor flora, including your precious houseplants. They suck the sugary juices from the leaves and stems, excrete honeydew and can even vector diseases. Learn all you need to know about these insects, their biology, identification, and available control options in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-mealybugs/">How to Identify and Control Mealybugs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/control-mealybugs/>
+
+---
+
+## How to Grow Chamomile in Pots and Containers
+
+date: 2025-04-26, from: The Gardener's Path
+
+<p>Chamomile is boisterous in the garden, self-seeding where you least expect it. Planting it in a pot can keep this herb under control. There are just a few things you need to succeed, including the right container, soil, and location. Read more now to learn everything you need to know to grow chamomile in a container. </p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-chamomile-containers/">How to Grow Chamomile in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-chamomile-containers/>
+
+---
+
+## Drip irrigation versus micro-sprinklers for fruit trees
+
+date: 2025-04-26, from: Greg Alder's blog, Yard Post
+
+<p>My experience is that, while both drip irrigation and micro-sprinklers work well to deliver water to fruit trees in Southern California, they come with advantages and disadvantages. And one method is not best for all situations. Because of this, even in my own single yard, I use drip on some of my fruit trees but [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/drip-irrigation-versus-micro-sprinklers-for-fruit-trees/">Drip irrigation versus micro-sprinklers for fruit trees</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/drip-irrigation-versus-micro-sprinklers-for-fruit-trees/>
 

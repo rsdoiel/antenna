@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-05-02 14:07:54
+updated: 2025-05-03 06:07:29
 ---
 
 # writing
 
-(date: 2025-05-02 14:07:54)
+(date: 2025-05-03 06:07:29)
+
+---
+
+## ‘Off the Record’ Writer/Director Kirsten Foe Talks Bravery in Screenwriting
+
+date: 2025-05-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/writer-director-kirsten-foe-talks-bravery-in-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Ryan%20Hansen%20and%20Rainey%20Qualley%20standing%20in%20the%20middle%20of%20the%20desert%20in%20front%20of%20a%20rustic%20wooden%20porch%20with%20Sea%20the%20Devestation%20written%20across%20it%20in%20Off%20the%20Record.png" alt="Ryan Hansen and Rainey Qualley standing in the middle of the desert in front of a rustic wooden porch with 'Sea the Devestation' written across it in Off the Record" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Screenwriters come from every background, but Kirsten Foe’s path stands out.&nbsp;<br><br>Before she was developing her own material, she was leaping from motorcycles, tumbling down stairs, and throwing punches as a seasoned stunt performer.<br><br>After a decade as an in-demand stunt performer on shows like <em>Twin Peaks</em>, <em>The Affair</em>, and <em>Grimm </em>(doubling for stars like Cobie Smulders, Ruth Wilson, and Heidi Klum), Foe transitioned to writer/director with her work in TV, short films, and now her debut feature, <em>Off the Record</em>.&nbsp;<br><br><a href="https://www.imdb.com/title/tt23793436/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_off%2520the%2520record"><em>Off the Record </em></a>follows Astor Grey (<a href="https://www.imdb.com/name/nm3958585/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_rainey%2520quall">Rainey Qualley</a>), a young singer-songwriter whose life takes a dark turn when she enters a turbulent romance with older rock star Brandyn Verge (<a href="https://www.imdb.com/name/nm1218621/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_ryan%2520hansen">Ryan Hansen</a>).&nbsp;<br><br>Foe’s background in photography and her time working with numerous directors in stunts have given her a unique perspective. On this film, partnering with a team that included female, queer, and BIPOC department heads, Foe focused on moving beyond victim narratives. It’s the story she wanted to tell when she was performing as “underwritten, undeveloped female characters” who “get victimized and don’t have any voice,” as she told us.<br><br>We chatted with Foe to learn about her creative process, her transition from stunts to directing, and what screenwriters can learn from her unconventional career path.<br><br><span style="font-style: italic;">Editor’s note: The following conversation has been edited for clarity.</span><br><br></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/writer-director-kirsten-foe-talks-bravery-in-screenwriting>
 
 ---
 
@@ -513,4 +528,78 @@ date: 2025-04-27, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/04/the-voyage-of-the-heisenberg-by-tom-easton-review-by-paul-di-filippo/>
+
+---
+
+## Magazines Received – April
+
+date: 2025-04-26, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Alien Dimensions</p>
+<ul>
+<li>Neil A. Hogan, ed.</li>
+<li>#27, March 2025, $14.99 print/$7.99 digital, annual, 270pp, 15 x 23 cm.</li>
+<li>SF </li></ul></div></div> <a href="https://locusmag.com/2025/04/magazines-received-april-5/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/magazines-received-april-5/>
+
+---
+
+## Dark Diamond by Neal Asher: Review by Paul Di Filippo
+
+date: 2025-04-26, from: Locus Magazine
+
+<p><strong>Dark Diamond</strong>, Neal Asher (Pyr 978-1645060895, trade paperback, 668pp, $28.95) April 2025.</p>
+<p>By my count, <b>Dark Diamond</b> is the twenty-third volume in Neal Asher’s <b>Polity</b> series, and this milestone constitutes a significant fact. While I have not read all of them—maybe half—I have discerned several things about the series. Each one is written at full balls-to-the-walls levels of exuberance and inventiveness; no filler or placeholders. While all the entries  <a href="https://locusmag.com/2025/04/dark-diamond-by-neal-asher-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/dark-diamond-by-neal-asher-review-by-paul-di-filippo/>
+
+---
+
+## A Thousand Blues by Cheon Seon-ran: Review by Niall Harrison
+
+date: 2025-04-26, from: Locus Magazine
+
+<p><strong>A Thousand Blues</strong>, Cheon Seon-ran (Doubleday UK 978-1-52993-802-9, £16.99, hc) June 2025.</p>
+<p>About two-thirds of the way through Cheon Seon-ran’s <strong>A Thousand Blues</strong>, two slightly drunk secondary characters have a brief discus­sion about Ted Chiang’s 2010 novella “The Life Cycle of Software Objects”. The character who brings up the story, Bokhui, is a vet at a racehorse stables in Seoul, and she has just been lobbied by the  <a href="https://locusmag.com/2025/04/a-thousand-blues-by-cheon-seon-ran-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/a-thousand-blues-by-cheon-seon-ran-review-by-niall-harrison/>
+
+---
+
+## Kemi Ashing-Giwa Joins Locus Awards as Featured Local Author
+
+date: 2025-04-26, from: Locus Magazine
+
+<p>We are pleased to announce that award-winning and bestselling author Kemi Ashing-Giwa will be joining us as a Featured Local Author at the  Locus Awards Weekend on June 21, 2025, in Oakland, California. Ashing-Giwa will join fellow local artist Stephanie Law and a lineup of amazing guests for an unforgettable celebration!</p>
+<p></p>
+<p>From her website: Kemi Ashing-Giwa is an author and scientist-in-training based in Palo Alto. Her work includes the USA  <a href="https://locusmag.com/2025/04/kemi-ashing-giwa-joins-locus-awards-as-featured-local-author/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/kemi-ashing-giwa-joins-locus-awards-as-featured-local-author/>
+
+---
+
+## Stephanie Law Joins Locus Awards as Featured Local Artist
+
+date: 2025-04-26, from: Locus Magazine
+
+<p>Prolific artist and creator Stephanie Law will be joining us as a Featured Local Artist at the Locus Awards Weekend on June 21, 2025, in Oakland, California. We’re absolutely thrilled to welcome her and her stunning art to the events! Law joins fellow local Kemi Ashing-Giwa and a lineup of amazing guests for an unforgettable celebration.</p>
+<p></p>
+<p>From her website: Stephanie Law&#8217;s images trace the boundary between dream and reality. She  <a href="https://locusmag.com/2025/04/stephanie-law-joins-locus-awards-as-featured-local-artist/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/stephanie-law-joins-locus-awards-as-featured-local-artist/>
 

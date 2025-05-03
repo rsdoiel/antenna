@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-02 14:07:57
+updated: 2025-05-03 06:07:32
 ---
 
 # retro computing
 
-(date: 2025-05-02 14:07:57)
+(date: 2025-05-03 06:07:32)
 
 ---
 
@@ -187,4 +187,40 @@ date: 2025-04-27, from: FreeDOS News
 <br> 
 
 <https://sourceforge.net/p/freedos/news/2025/04/llama2-llm-on-freedos/>
+
+---
+
+## Rabbit Software's Death Star
+
+date: 2025-04-26, from: Computer ads from the Past
+
+Attila the Hun. Ivan the Terrible. Count Dracula. The Daleks. More evil then all of them put together. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/rabbit-softwares-death-star>
+
+---
+
+## b.log 2025/04/26 - The Pope's funeral, Washing machine, Rinse and repeat, Mowing, Crisps, Crisis averted!, Giving up personal information 'because children', Bait and switch, Chip weight, Maths fail.
+
+date: 2025-04-26, from: Richard Murray's blog
+
+The Pope's funeral, Washing machine, Rinse and repeat, Mowing, Crisps, Crisis averted!, Giving up personal information 'because children', Bait and switch, Chip weight, Maths fail. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250426>
+
+---
+
+## Talking TWimp with MUG – 29th April
+
+date: 2025-04-26, from: RiscOS Story
+
+If you aren&#8217;t aware, there&#8217;s a new development tool in town, called TWimp, which makes writing multitasking applications for much easier than ever before. The software, from Graeme Shrimpton, takes care of most of the work involved in handling windows and icons by allowing all of that to be defined separately in a text file. This means the programmer doesn&#8217;t have to devote so much time (and code) to dealing with all that, and can instead concentrate on writing their core application. John Rickman of the Midlands User Group (MUG)&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/talking-twimp-with-mug-29th-april/>
 

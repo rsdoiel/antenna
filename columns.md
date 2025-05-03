@@ -1,11 +1,37 @@
 ---
 title: columns
-updated: 2025-05-02 14:07:53
+updated: 2025-05-03 06:07:28
 ---
 
 # columns
 
-(date: 2025-05-02 14:07:53)
+(date: 2025-05-03 06:07:28)
+
+---
+
+##  A series of info visualizations that show how true &#8220;based on a... 
+
+date: 2025-05-02, updated: 2025-05-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046769-a-series-of-info-visualiz>
+
+---
+
+## Friday Squid Blogging: Pyjama Squid
+
+date: 2025-05-02, updated: 2025-04-17, from: Bruce Schneier blog
+
+<p>The small <a href="https://www.discoverwildlife.com/animal-facts/marine-animals/theres-an-adorable-animal-in-australia-that-looks-like-its-wearing-striped-pyjamas-but-its-cuteness-conceals-a-toxic-weapon">pyjama squid</a> (<i>Sepioloidea lineolata</i>) produces toxic slime, &#8220;a rare example of a poisonous predatory mollusc.&#8221;</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pyjama-squid.html>
 
 ---
 
@@ -2701,4 +2727,311 @@ I am writing this  on my BQ Aquaris M10 tablet (one  of the few devices shipped 
 <br> 
 
 <http://jirka.1-2-8.net/20250427-0445_UBports_OTA_12_update>
+
+---
+
+## Non-Prepper emergency preparedness
+
+date: 2025-04-26, from: Tracy Durnell Blog
+
+So much crazy survival stuff out there, it&#8217;s hard to find good resources for &#8220;prepare for a three day power outage&#8221; which was a real situation we had last year, versus &#8220;be ready for the collapse of society!!!1! (and buy this meal ration bar I sell!)&#8221; r/TwoXPreppers &#8211; women focused preparedness (LGBTQIA friendly) Get Yourself [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/26/non-prepper-emergency-preparedness/>
+
+---
+
+## Alexis Herman, 1947-2025
+
+date: 2025-04-26, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/alexis-herman-1947-2025>
+
+---
+
+## Email to King County re: advertising on its website
+
+date: 2025-04-26, from: Tracy Durnell Blog
+
+Hello, I was unpleasantly surprised and disappointed to see advertisements on the King County Assessor’s eReal Property website and wanted to provide feedback on your pilot program, as requested. We are all constantly bombarded with advertising out in the world, on our media, and online; must we truly suffer advertising while accessing government services too? [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/26/email-to-king-county-re-advertising-on-its-website/>
+
+---
+
+## Country folk in Harvard Square
+
+date: 2025-04-26, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT for an "imaginary image of Harvard Square with middle-class people from red states visiting in their trucks and country mannerisms."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/26/countryFolkInHarvardSquare.png"></center>Red state country folk in Harvard Square.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/26/212536.html?title=countryFolkInHarvardSquare>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I have been too busy with Xogot to devote attention to my library to embed Godot into your SwiftUI apps.</p><p>This past week, I worked to clean up the various branches, the CI and the packaging to fix this.</p><p>I have been promising this work for months, but I had been too busy on Xogot.</p><p>We now have a clean slate:</p><p><a href="https://github.com/migueldeicaza/SwiftGodot/discussions/699" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Godot/discussions/699</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114406035193681119>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-26, from: Dave Winer's Scripting News)
+
+What if, before we transfer human awareness into computers, we discover proof of reincarnation. What then? 
+
+<br> 
+
+<http://scripting.com/2025/04/26.html#a192139>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-26, from: Miguel de Icaza Mastondon feed)
+
+<p>After 60 hours I rejected, and submitted a new build with a couple of extra crash fixes as this seems to happen from time to time.</p><p>My submission went in at 5pm yesterday, I imagine it won’t get picked up until Monday.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114404807377613568>
+
+---
+
+##  This Five-Hundred-Word Bumper Sticker on My Tesla Explains Why I&#8217;m Not a... 
+
+date: 2025-04-26, updated: 2025-04-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046718-this-five-hundred-word-bu>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-26, from: Dave Winer's Scripting News)
+
+If <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lnojmezh5k2p">Bluesky</a> really wanted to decentralize and do it quickly, they could build a layer out of RSS and OPML on top of what they have and not only would they be able interop with other Bluesky-like services but they could also interop with Mastodon and it could all be done in a matter of weeks. 
+
+<br> 
+
+<http://scripting.com/2025/04/26.html#a141600>
+
+---
+
+## Why is AWS breaking Node devs?
+
+date: 2025-04-26, from: Dave Winer's Scripting News
+
+<p>I have been getting warnings on all my Node.js code that uses AWS api's that come September they're all going to break. </p>
+<p>I'm working on my mail list stuff this week, trying to get the HTML to work for a lot more people than it was working for, and it's a very depressing process, but I did the work, but I don't plan on looking at this again for another five years, if then. </p>
+<p>But lurking in the background is the threat by AWS, and I consider a threat, that if I don't rewrite my code in a non-insignificant way, before September, it's all going to just stop working. I took the time the other day to actually look at what's involved, and I see that they changed/broke their API to use <a href="https://www.w3schools.com/js/js_promise.asp">promises</a>. Great. Another stupid exercise in fealty. </p>
+<p>I think they're going to regret doing this, because I don't have the time to go so deep in the bowels of pretty much my entire codebase, and potentially break everything, and then have to debug it, when I have so many other things to do, and I'm getting older, and I just don't have the energy to devote to make-work for Amazon. The arrogance of it, and how diseconomic it is. </p>
+<p>They never promised they <i>wouldn't</i> break all their developers, but geez who would've thought they <i>wanted</i> to? </p>
+<p>I don't think they're actually going to be able to flip the switch. </p>
+<p>I'd love to hear <a href="https://github.com/scripting/s3/issues/1">what other developers think</a>.</p>
+<p>PS: Amazon APIs are the worst, so over-complicated, you have to understand everything before you can do anything. But once they work, they keep working. That's the only reason people put up with it. I've switched almost everything but S3 and SES to Digital Ocean because their docs and example code are great and they seem about the same price as Amazon, but my time is all I have, and Amazon doesn't use it well and ultimately that's going to hurt their business, and it seems September is when the shit is going to hit the fan for many, definitely for me.</p>
+<p>PPS: This is different from the breakage that came in the Twitter API when Musk took over. No one was paying anything for this. But I pay a lot for AWS, more every month, as my storage costs go up. I think someone in AWS in a position to make big decisions has no clear idea where the costs are for their customers or they wouldn't do this. Imagine a company of gas stations deciding to change the shape of all the nozzles on their gas pumps in September. "We gave you plenty of times to adapt!" they might say. Yes, but -- as long as we have to change why not change to your competitor's service? The strangeness of their APIs is their lockin. I don't think they have factored that into their plans.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/26/135335.html?title=whyIsAwsBreakingNodeDevs>
+
+---
+
+## No, and...
+
+date: 2025-04-26, from: Dave Winer's Scripting News
+
+<p>If I was president of Harvard, I'd be thinking about what's next after the Trump government has tried to destroy the university and we said no. If we have to do without the government money, that's okay because we wouldn't be Harvard if we allowed the government to run the university. That goes for any government, but especially for this one.  </p>
+<p>It goes beyond saying No. </p>
+<p>It's no and..</p>
+<p>No and we're going to get by with less money and in the process do better work, provide more of a service to our students, community and our country. </p>
+<p>We're going to bring the country into Harvard and bring Harvard into the country. How did we get so far apart? </p>
+<p>Let's get by with less money, and in the process do better work.</p>
+<p>It seems that Harvard, along with all the universities in the US, has been tasked with re-establishing the First Amendment, and what it means to all of us. Let's trust that the people of our country know why the First Amendment is so important, regardless of who we voted for. Some of it leaked out when they interviewed random people in real time at the Trump assassination rally last summer. They all sounded like people who could be neighbors of mine, and they largely said what I would have said. It's okay if you don't agree with someone, but for crying out loud, don't shoot them for it. Yeah. That was a real eye-opener for me, when TV didn't have a chance to choose only the most extreme ugly Trump supporters, we found out that they are Americans, like us. A lot of the news <i>is</i> fake, designed to make us angry and depressed, because that's what gets us to come back every night. </p>
+<p>So Harvard, the ultimate elite institution, if it can connect with that, maybe the everyday non-elite American will listen now that the Trumps have done such an outlandish thing in trying to destroy Harvard, maybe we can change the role that Harvard and its peers play in the American politics and culture, and we can get a bit more science into our world, with the approval of the people. </p>
+<p>Maybe this was the way Harvard contributed to the problem, by feeling above the average person. This is very real and inescapable. But many of us came from middle-class or even refugee families (like my own) and we haven't forgotten where we came from. If there's a disconnect, it's not fair to blame one or the other. Each has the power to reconnect. Let's take this chance to get together and help each other, across all the divides.</p>
+<p>The Trump focus on Harvard may be the greatest gift, if Harvard chooses to view it that way.</p>
+<p>PS: I was a research fellow at Harvard for two years in the early 00s. I found the university was very receptive and supportive of these ideas then, esp in regard to the web, where we pioneered many of the things people take for granted now. </p>
+<p>PPS: This is a bit like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a>. Let the Trumps pick their fights more carefully.</p>
+<p>PPPS: Think about where Apple was in 1997, the bottom had dropped out. Ten years later they shipped the iPhone. That kind of transition could happen for Harvard and the intellect of America, which seems to (hopefully) be at a bottom.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/26/131141.html?title=noAnd>
+
+---
+
+## Build your own antisocial writing rig with DOS and a $2 USB key
+
+date: 2025-04-26, updated: 2025-04-26, from: Liam Proven's articles at the Register
+
+<h4>Reg hack pines for simpler times, then tries to recapture them</h4>
+      <p>Sometimes, the size and complexity of modern OSes – even the FOSS ones – is enough to make us miss the days when an entire bootable OS could fit in three files, when configuring a PC for production meant editing two plain-text files, which contained maybe a dozen lines each. DOS couldn&#39;t do very much, but the little it did was enough. From the early 1980s for a decade or two, much of the world ran on DOS. Then Windows 3 came along, which is arguably the point where the rot set in.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/26/dos_distraction_free_writing/>
+
+---
+
+## Trump's First 100-Day Sh*tstorm | The Coffee Klatch for April 26, 2025
+
+date: 2025-04-26, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162163651/14d0cee54aa33b7a724eeeac17116e2c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162163651/14d0cee54aa33b7a724eeeac17116e2c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-first-100-day-shtstorm-the-coffee>
+
+---
+
+## April 25, 2025 
+
+date: 2025-04-26, from: Heather Cox Richardson blog
+
+Today&#8217;s major stories must be seen in the context of President Donald Trump&#8217;s dramatic losses in court and his plummeting poll numbers. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-25-2025>
+
+---
+
+## Online Sneaker Shops
+
+date: 2025-04-26, from: Tracy Durnell Blog
+
+I&#8217;m looking for an alternative to AllBirds for a daily wear comfy slip-on sneaker &#8212; apparently the company moved their manufacturing and redesigned their original shoe so I can&#8217;t get a replacement for my old favs (tried buying the current version and it sucked). Rounded up some suggestions from Reddit: SeaVees &#8212; Womens Acorn Trainer [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/25/online-sneaker-shops/>
+
+---
+
+## Weeknotes: April 19-25, 2025
+
+date: 2025-04-26, from: Tracy Durnell Blog
+
+Win of the week: 😀 I got drawn in a statewide ebike rebate! Err, guess I need to decide if I actually want to shell out for an ebike now&#8230; I test-rode a couple ebikes before the pandemic and didn&#8217;t love starting from a stop with the throttle, but I&#8217;d probably get used to it [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/25/weeknotes-april-19-25-2025/>
+
+---
+
+## lynx --nocolor
+
+date: 2025-04-26, from: Jirka's blog
+
+I really dislike how the Lynx WWW browser looks on some modern systems. On my  SGI it  was OK -  it simply respected  IRIS terminal  colors. On modern systems in seems to be full of colors with gray background. Text colors are quite  nice but I have disliked the  gray background. I have wished to have or black one  or transparent one (it a terminal emulator supports transparency). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_lynx_nocolor>
+
+---
+
+## iMac G5 keyboard
+
+date: 2025-04-26, from: Jirka's blog
+
+Today  my  wife  requested  new  keyboard. I  thought  that  the  Apple white-transparent keyboard is too inferior  to her IBM laptop keyboard. Well, it is. So I have replaced it by spare HP one. A HP keyboard which was a part of the PA-RISC Visualize workstation (the workstation itself does not work, unfortunately). And she is happy with it. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_iMac_G5_keyboard>
+
+---
+
+## Working from home
+
+date: 2025-04-26, from: Jirka's blog
+
+And this is my main tool: 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_Working_from_home>
+
+---
+
+## Workflow: Changes and additions
+
+date: 2025-04-26, from: Jirka's blog
+
+Things are continuously  developing or at least  changing. For example, my  gVim on  my GPD  Pocket (Ubuntu  MATE 18.04)  has issues  with text encoding.  If  I  create a  new  file  then  I  everything is  OK.  But when  I  save  it  and  re-open it  then  it  en-codes  local  language characters incorrectly.  It is  strange because I  have been  using the same  .vimrc/.gvimrc for  ages on  several Linux  machines and  I never encountered such behaviour. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_Workflow_Changes_and_additions>
+
+---
+
+## UT Progress
+
+date: 2025-04-26, from: Jirka's blog
+
+I  might  noted  here  in  some   of  previous  posts  that  during  an unsuccessful update I  lost the OpenStore  {sup}1{/sup} application  on my Ubuntu Touch  {sup}2{/sup}. It was a problem because there is no CLI tool to install (or remove) packages on  the Ubuntu Touch (that's an another  reason for me to dislike this table computing at all). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_UT_Progress>
+
+---
+
+## UBports OTA-12 update
+
+date: 2025-04-26, from: Jirka's blog
+
+I am writing this  on my BQ Aquaris M10 tablet (one  of the few devices shipped  with the  Ubuntu  Touch  pre-installed). The  community-driven Ubuntu Touch  effort  {sup}1{/sup} is  still a thing  and the recent  update (the OTA-12) is quite interesting. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_UBports_OTA_12_update>
+
+---
+
+## Tungsten W + PalmPix
+
+date: 2025-04-26, from: Jirka's blog
+
+As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx  devices. So I have almost modern  smarphone (jsut 17 years old!) with the (detachable camera). 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_Tungsten_W_PalmPix>
+
+---
+
+## TouchPad progress
+
+date: 2025-04-26, from: Jirka's blog
+
+I have decided to  update the Touchpad a bit. I think that  it can be a nice  portable  / secondary  machine  for  some situations.  Especially because I have a good (original) keyboard for it. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250426-0445_TouchPad_progress>
 
