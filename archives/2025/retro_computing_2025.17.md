@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-04 06:07:43
+updated: 2025-05-04 14:08:02
 ---
 
 # retro computing
 
-(date: 2025-05-04 06:07:43)
+(date: 2025-05-04 14:08:02)
 
 ---
 
@@ -93,7 +93,7 @@ Interestingly, the D-Link DWA-hub has a sticker on the back warning you about in
 
 As CW-USB is effectively a network, there are MACs and PHYs, and so the HWA and any DWAs have MAC addresses.
 
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAusbzw9dDjQk-bqg1l6caFWuMy0xQHgKBstZmAd7acT_lr_J1I04JHUPCLFzmuqOEFlDUkQlyxWZYMZIBnA9l-HakSuH991yCtspAWrwkUOhyphenhyphen7DxEnyipZHq77AhOZ-Xi0ztv96hNo0s1JwILA8Fw5kOn__ZQZ5Hf_OZtydwqpgyUshkGoCOYceWBMMI/s4080/PXL_20250419_001514595~3.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAusbzw9dDjQk-bqg1l6caFWuMy0xQHgKBstZmAd7acT_lr_J1I04JHUPCLFzmuqOEFlDUkQlyxWZYMZIBnA9l-HakSuH991yCtspAWrwkUOhyphenhyphen7DxEnyipZHq77AhOZ-Xi0ztv96hNo0s1JwILA8Fw5kOn__ZQZ5Hf_OZtydwqpgyUshkGoCOYceWBMMI/s320/PXL_20250419_001514595~3.jpg"/></a></div>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Cyhg8Ekl1fX0OJ390lkuVW-YcOUMUfn92t-mWV-goikGSKwBkDI7DGvuVj3Ij60UwW0BmEg3nE51jKFdpeHe1AixvC3SECb4BWDo4jkB4OiZlqc_J9fDPL5RrsmaRRlJ6EtDRLLl5knJCn2Tlchz40J6JCsPWXh-bY2vm8e7X8kRLtNDwao3B8M3BWU/s4080/PXL_20250419_001514595~4.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Cyhg8Ekl1fX0OJ390lkuVW-YcOUMUfn92t-mWV-goikGSKwBkDI7DGvuVj3Ij60UwW0BmEg3nE51jKFdpeHe1AixvC3SECb4BWDo4jkB4OiZlqc_J9fDPL5RrsmaRRlJ6EtDRLLl5knJCn2Tlchz40J6JCsPWXh-bY2vm8e7X8kRLtNDwao3B8M3BWU/s320/PXL_20250419_001514595~4.jpg"/></a></div>
 
 You'll also note that D-Link's DWA-hub has a PIN. This is part of the CW-USB <i>association</i> process, which is necessary because obviously you don't want malicious USB devices trying to talk to you, and you don't want your next-door neighbour possibly being able to use your printer or read tax returns on your thumb drive. (I didn't know that was deductable!) The process of association generates a new AES-128 session key and records both 128-bit host and device IDs for future recognition. This shared 384-bit association context remains in effect until explicitly disabled: the associated device now won't interact with HWAs it doesn't know, other than to potentially associate with them also, and the HWA will only talk to devices with which it has been associated. It is possible, and absolutely supported, for a device to be associated with multiple HWAs.
 <p>
@@ -373,7 +373,7 @@ Here I've simply mirrored the MacBook to my wife's Samsung secondary monitor. Th
 
 The Samsung doesn't support exactly the native resolution of the MacBook which is why it looks squashed, but you can see it correctly detected the model. How well does it perform? A good stress test is high-resolution video, which the manual warns you against because it would be choppy. We don't let manuals tell us what to do in this house. Manuals are suggestions. Manuals can sometimes be wrong. Let's play the <a href="http://www.macyourself.com/2008/11/13/grab-the-source-files-for-that-snazzy-leopard-welcome-video/">Snow Leopard welcome video</a> and prove it wrong. (The Snow Leopard welcome video has audio in a separate file, so this comparison movie has no sound.)
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz_QUfB6Bk5LZhVA86YtAPLRKkhjhtvevRQEQ7bcEAnYeEauOnVDoAs6S7q9hKATTXXJmkVY6iuY8EbhSomGA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy9Mz5ITncGT_vTzuXGYov2lP6SFaIIeRhFLk0q5Shore2bFA6ZNr5lfmdOx02KLOsfUJ2VwlkOCSLtKn0ypA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 And, well, the manual wasn't wrong. There is a slight but noticeable lag and there are many dropped frames of video on the mirrored side; the best that could be said is it's watchable. Think "playing YouTube videos over Microsoft Teams screen share" and that would be about right.
 

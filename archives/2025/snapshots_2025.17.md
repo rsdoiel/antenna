@@ -1,11 +1,82 @@
 ---
 title: snapshots
-updated: 2025-05-04 06:07:47
+updated: 2025-05-04 14:08:05
 ---
 
 # snapshots
 
-(date: 2025-05-04 06:07:47)
+(date: 2025-05-04 14:08:05)
+
+---
+
+## Lilbits: Cheaper Microsoft Surface Laptop and Surface Pro coming soon
+
+date: 2025-05-04, from: Liliputing
+
+<p>The latest Microsoft Surface Laptop and Surface Pro tablet are both powered by Qualcomm Snapdragon X series processors and both sell for about $800 and up. But it looks like Microsoft could have some cheaper models on the way. The Microsoft Surface Team has scheduled an event for May 6th when the company is promising [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-cheaper-microsoft-surface-laptop-and-surface-pro-coming-soon/">Lilbits: Cheaper Microsoft Surface Laptop and Surface Pro coming soon</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-cheaper-microsoft-surface-laptop-and-surface-pro-coming-soon/>
+
+---
+
+## Breakwater Barbecue in the El Granada station for the Ocean Shore Railroad
+
+date: 2025-05-04, updated: 2025-05-04, from: Simon Willison’s Weblog
+
+<p>Our local BBQ spot here in El Granada - <a href="https://www.breakwaterbbq.com/">Breakwater Barbecue</a> - had a soft opening this weekend in their <a href="https://maps.app.goo.gl/f9JSpUWaFH8Hevj3A">new location</a>.</p>
+<p>Here's the new building. They're still working on replacing the sign from the previous restaurant occupant:</p>
+<p><img alt="Exterior photo of a restaurant with a faded sign reading &quot;MONSTER CHEF Fine Japanese Restaurant&quot; the building is cream-colored with red tile roofs and large windows. It has a little bit of a railway station vibe to it if you squint at it just the right way." src="https://static.simonwillison.net/static/2025/breakwater-today.jpg" /></p>
+<p>It's actually our old railway station! From 1905 to 1920 the <a href="https://en.wikipedia.org/wiki/Ocean_Shore_Railroad">Ocean Shore Railroad</a> ran steam trains from San Francisco down through Half Moon Bay most of the way to Santa Cruz, though they never quite connected the two cities.</p>
+<p>The restaurant has some photos on the wall of the old railroad. Here's what that same building looked like &gt;100 years ago.</p>
+<p><img alt="Historical black and white photograph showing a train station with a steam train on the left and a Spanish-style station building with arched entrances on the right. It's clearly the same building, though the modern one has had a bunch of extra extensions added to it and doesn't look nearly as much like a train station." src="https://static.simonwillison.net/static/2025/breakwater-train.jpg" /></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/half-moon-bay">half-moon-bay</a>, <a href="https://simonwillison.net/tags/photos">photos</a>, <a href="https://simonwillison.net/tags/history">history</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/4/breakwater/#atom-everything>
+
+---
+
+## Creativity and Courage to Save Democracy
+
+date: 2025-05-04, from: Our Future.org
+
+Those in power have made clear there is no democratic norm they are unwilling to break. We live in a time of chaos, and this is not by accident. Over the last 100 days, the Trump administration has sought to divide and confuse us in every way, so no one knows what’s coming next. They [&#8230;]
+<p><a href="https://ourfuture.org/20250504/creativity-and-courage-to-save-democracy" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250504/creativity-and-courage-to-save-democracy>
+
+---
+
+## Valentia y creatividad para salvar la democracia
+
+date: 2025-05-04, from: Our Future.org
+
+Los poderosos dejan en claro que no existe ninguna norma democrática que no estén dispuestos a romper. Vivimos en tiempos de caos, y esto no es por accidente. Durante los últimos 100 días, la administración Trump ha buscado dividirnos y confundirnos por todos lados, para que nadie sepa qué hacer con lo que venga. Están [&#8230;]
+<p><a href="https://ourfuture.org/20250504/valentia-y-creatividad" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250504/valentia-y-creatividad>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-04, from: Feed for Alt USDS)
+
+#Resistance
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3loe3begrok2d>
 
 ---
 
@@ -3909,7 +3980,7 @@ date: 2025-04-27, from: Liliputing
 
 ## About shoes, discipline, comfort zone, and maintenance
 
-date: 2025-04-27, updated: 2025-04-27, from: Peter Molnar blog
+date: 2025-04-27, updated: 2025-05-04, from: Peter Molnar blog
 
 I bought a surprising amount of shoes in the past 2 years, but this journey of the feet highlighted important observations in maintaining ourselves. 
 

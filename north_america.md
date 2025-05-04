@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-05-04 06:07:35
+updated: 2025-05-04 14:07:53
 ---
 
 # north america
 
-(date: 2025-05-04 06:07:35)
+(date: 2025-05-04 14:07:53)
+
+---
+
+##  105 Days, But Who’s Counting? 
+
+date: 2025-05-04, from: The Lever News
+
+ Trump’s workplace safety pick turned up the heat on workers, tech companies want to sell your data to fraudsters, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-105-days-but-whos-counting/>
 
 ---
 

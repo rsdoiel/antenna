@@ -1,23 +1,83 @@
 ---
 title: socal north
-updated: 2025-05-04 06:07:36
+updated: 2025-05-04 14:07:54
 ---
 
 # socal north
 
-(date: 2025-05-04 06:07:36)
+(date: 2025-05-04 14:07:54)
 
 ---
 
-## Long Beach port expects big drop in cargo volume, as 'pause' in China orders sinks in
+## Sweeping cuts hit NEA after Trump administration calls to eliminate the agency
 
 date: 2025-05-04, updated: 2025-05-04, from: The LAist
 
-"Less containers, less jobs on the docks, less jobs in the trucking sector," Mario Cordero, CEO of Port of Long Beach, told us. 
+Hours after the Trump administration proposed eliminating the National Endowment for the Arts from next year's federal budget, hundreds of arts groups in the U.S., including in Los Angeles, were told their grants were canceled. 
 
 <br> 
 
-<https://laist.com/news/port-of-long-beach-tariffs-cargo-volume-jobs>
+<https://laist.com/news/arts-and-entertainment/sweeping-cuts-hit-nea-after-trump-administration-calls-to-eliminate-the-agency>
+
+---
+
+## Catholic leaders criticize Trump for posting apparent AI photo of himself as the pope
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+When asked about the image, Cardinal Timothy Dolan, the archbishop of New York who is friendly with Trump, said "it wasn't good" and that he hoped Trump had nothing to do with it. 
+
+<br> 
+
+<https://laist.com/news/catholic-leaders-criticize-trump-for-posting-apparent-ai-photo-of-himself-as-the-pope>
+
+---
+
+## Does a president need to uphold the Constitution? Trump says 'I don't know'
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+The president says a third term is "not something I'm looking to do," and the US.. economy is in a "transition period." 
+
+<br> 
+
+<https://laist.com/news/politics/does-a-president-need-to-uphold-the-constitution-trump-says-i-dont-know>
+
+---
+
+## 4,000 gallon sewage spill shuts down portions of OC beaches
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+The spill was caused by a sewer line in Costa Mesa blocked by "roots and grease." 
+
+<br> 
+
+<https://laist.com/news/climate-environment/4-000-gallon-sewage-spill-shuts-down-causes-portions-of-beaches>
+
+---
+
+## A telescope's powerful new tool may offer a better way to predict solar storms
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+The Daniel K. Inouye telescope snapped a clear image of sunspots. 
+
+<br> 
+
+<https://laist.com/news/a-telescopes-powerful-new-tool-may-offer-a-better-way-to-predict-solar-storms>
+
+---
+
+## It's a protest! It's a Star Wars hang! On May 4, it's both
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+May 4 is known to the fandom as "Star Wars Day." This Sunday, a protest in Irvine is asking participants to cosplay the classic sci-fi franchise, while exercising their 1st Amendment right. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/star-wars-protest-may-4>
 
 ---
 
@@ -33,15 +93,15 @@ Residents have teamed up with a public works veteran to rid the public right of 
 
 ---
 
-## It's a protest. It's a Star Wars hang. On May 4, it's both
+## Long Beach port expects big drop in cargo volume, as 'pause' in China orders sinks in
 
 date: 2025-05-04, updated: 2025-05-04, from: The LAist
 
-May 4 is known to the fandom as "Star Wars Day." This Sunday, a protest in Irvine is asking participants to cosplay the classic sci-fi franchise, while exercising their 1st Amendment right. 
+"Less containers, less jobs on the docks, less jobs in the trucking sector," Mario Cordero, CEO of Port of Long Beach, told us. 
 
 <br> 
 
-<https://laist.com/news/los-angeles-activities/star-wars-protest-may-4>
+<https://laist.com/news/port-of-long-beach-tariffs-cargo-volume-jobs>
 
 ---
 

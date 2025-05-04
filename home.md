@@ -1,11 +1,68 @@
 ---
 title: home
-updated: 2025-05-04 06:07:42
+updated: 2025-05-04 14:08:01
 ---
 
 # home
 
-(date: 2025-05-04 06:07:42)
+(date: 2025-05-04 14:08:01)
+
+---
+
+## 7 Reasons for Drooping Calla Lilies
+
+date: 2025-05-04, from: The Gardener's Path
+
+<p>Calla lilies are known for their vivid tropical colors and glossy green or variegated leaves. At home in bright sunshine with organically rich, well-draining soil, these summer delights sometimes suffer from drooping stems. Read on to learn what causes calla lily stems to bend and how to address the underlying causes.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/drooping-calla-lilies/">7 Reasons for Drooping Calla Lilies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/drooping-calla-lilies/>
+
+---
+
+## How to Identify and Control Armyworms
+
+date: 2025-05-04, from: The Gardener's Path
+
+<p>Armyworms descend on your lawn or garden like an invading army. The hungry caterpillars march across your property devouring plants and ruining your vegetables and ornamentals as they go. And cold weather in the winter won't stop them. Learn how to identify and control armyworms in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/armyworms/">How to Identify and Control Armyworms</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/armyworms/>
+
+---
+
+## 23 Shrubs with Red Flowers (Pictures and Identification)
+
+date: 2025-05-04, from: Yard Life blog
+
+<p>Shrubs with red flowers bring vibrant energy and bold color to every landscape. These eye-catching plants create dramatic focal points, ... </p>
+<p class="read-more-container"><a title="23 Shrubs with Red Flowers (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/23-shrubs-with-red-flowers-pictures-and-identification/#more-28034" aria-label="Read more about 23 Shrubs with Red Flowers (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/23-shrubs-with-red-flowers-pictures-and-identification/">23 Shrubs with Red Flowers (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/23-shrubs-with-red-flowers-pictures-and-identification/>
+
+---
+
+## Bone Meal: When and How To Use It as a Soil Supplement
+
+date: 2025-05-04, from: The Gardener's Path
+
+<p>Have you heard of adding bone meal to the soil when planting flowers and vegetables? This organic fertilizer is rich in phosphorus and calcium, nutrients essential for healthy roots, foliage, flowers, and produce. Is it the right amendment for your garden? Learn how to be sure, right here on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/composting/bone-meal-friend-foe/">Bone Meal: When and How To Use It as a Soil Supplement</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/composting/bone-meal-friend-foe/>
 
 ---
 

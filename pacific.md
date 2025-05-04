@@ -1,11 +1,36 @@
 ---
 title: pacific
-updated: 2025-05-04 06:07:37
+updated: 2025-05-04 14:07:55
 ---
 
 # pacific
 
-(date: 2025-05-04 06:07:37)
+(date: 2025-05-04 14:07:55)
+
+---
+
+## The old order is fading and so is American leadership
+
+date: 2025-05-04, from: Pacific Island Times
+
+For much of that time, we were just platform islands from which American power could be projected to real battlefields. For most of Micronesia, just denying potential adversaries—as in, “strategic denial”—was sufficient. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-old-order-is-fading-and-so-is-american-leadership>
+
+---
+
+## UH Mānoa launches new graduate programs in AI, data science
+
+date: 2025-05-04, from: University of Hawaiʻi News
+
+<p>Both programs offer flexible formats to meet the needs of working professionals and students across the <abbr>UH</abbr> System.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/04/grad-programs-ai-data-science/"><abbr>UH</abbr> Mānoa launches new graduate programs in <abbr>AI</abbr>, data science</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/04/grad-programs-ai-data-science/>
 
 ---
 

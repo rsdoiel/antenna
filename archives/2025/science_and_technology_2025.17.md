@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-05-04 06:07:38
+updated: 2025-05-04 14:07:56
 ---
 
 # science and technology
 
-(date: 2025-05-04 06:07:38)
+(date: 2025-05-04 14:07:56)
+
+---
+
+## RSAC wrap: AI and China on everything, everywhere, all at once
+
+date: 2025-05-04, updated: 2025-05-04, from: The Register (UK I.T. News)
+
+<h4>With North Korean IT workers storming the gates, too</h4> <p><strong>RSAC</strong>  Another RSAC has come and gone, with almost 44,000 attendees this year spread across San Francisco&#39;s Moscone Center and the surrounding facilities, according to conference organizers. Hopefully, all of us made it home safely, didn&#39;t get deported to a Venezuelan prison, and didn&#39;t end up bringing home a virus - computer or corona.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/04/rsac_wrap_ai_china/>
 
 ---
 

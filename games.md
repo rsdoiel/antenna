@@ -1,11 +1,11 @@
 ---
 title: games
-updated: 2025-05-04 06:07:40
+updated: 2025-05-04 14:07:59
 ---
 
 # games
 
-(date: 2025-05-04 06:07:40)
+(date: 2025-05-04 14:07:59)
 
 ---
 
@@ -18,6 +18,18 @@ It can sometimes feel like Florence Pugh emerged into the world a full-formed mo
 <br> 
 
 <https://www.polygon.com/what-to-watch/567071/florence-pugh-horror-movie-malevolent-netflix>
+
+---
+
+## 10 fun misfit superhero team-up movies to watch after Thunderbolts*
+
+date: 2025-05-03, updated: 2025-05-04, from: Polygon Website
+
+The latest Marvel Cinematic Universe offering, Thunderbolts*, takes a different path than the rest of the franchise, assembling a misfit team of villains and former villains from the MCU’s roster to fight against overwhelming odds to save the world. That may seem reminiscent of Suicide Squad (because it is), but superhero movies boast a long [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/563793/movies-like-thunderbolts-superhero-team-ups-villains-misfits>
 
 ---
 

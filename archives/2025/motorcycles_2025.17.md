@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-04 06:07:43
+updated: 2025-05-04 14:08:02
 ---
 
 # motorcycles
 
-(date: 2025-05-04 06:07:43)
+(date: 2025-05-04 14:08:02)
+
+---
+
+## Buy This Adorable JDM Honda Grom Factory Racer Before I Do
+
+date: 2025-05-04, from: Ride Apart, Electric Motorcycle News
+
+Grom spec series is a go! 
+
+<br> 
+
+<https://www.rideapart.com/news/758435/japanese-direct-market-honda-grom-factory-race-motorcycle-auction/>
 
 ---
 
