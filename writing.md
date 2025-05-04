@@ -1,11 +1,51 @@
 ---
 title: writing
-updated: 2025-05-03 14:07:44
+updated: 2025-05-04 06:07:40
 ---
 
 # writing
 
-(date: 2025-05-03 14:07:44)
+(date: 2025-05-04 06:07:40)
+
+---
+
+## The Deep Forest by Sofía Rhei: Review by Gary K. Wolfe
+
+date: 2025-05-03, from: Locus Magazine
+
+<p><strong>The Deep Forest</strong>, Sofía Rhei (Aqueduct 978-1-61976-274-9, $16.00, 190pp, tp) April 2025.</p>
+<p>The past few years have given us quite a few nov­els and stories reimagining and repurposing classic fairy tales (I was going to say it’s a resurgence, but was there ever a lull?), and for the most part these have involved expanding or embroidering the originals in some way, as if to make them more amenable to  <a href="https://locusmag.com/2025/05/the-deep-forest-by-sofia-rhei-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/the-deep-forest-by-sofia-rhei-review-by-gary-k-wolfe/>
+
+---
+
+## Where the Axe Is Buried by Ray Naylor: Review by Paul Di Filippo
+
+date: 2025-05-03, from: Locus Magazine
+
+<p><strong>Where the Axe Is Buried</strong>, Ray Nayler (MCD 978-0374615369, hardcover, 336pp, $28.00) April 2025.</p>
+<p>What do you get when you blend a humanist ethos with realpolitik savvy with hardcore physics speculations with deeply-plumbed characters with elegant prose with tons of gravitas? I think the answer is obvious: Ursula Le Guin’s <b>The Dispossessed</b>.</p>
+<p>Oh, wait a minute! I’m stuck fifty years in the past. From the perch of 2025,  <a href="https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-naylor-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-naylor-review-by-paul-di-filippo/>
+
+---
+
+## Scriptnotes, Episode 683: Our Take on Long Takes, Transcript
+
+date: 2025-05-03, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: Aww, my name is Craig Mazin. John: You’re listening to episode 683 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, what if we [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-683-our-take-on-long-takes-transcript">Scriptnotes, Episode 683: Our Take on Long Takes, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-683-our-take-on-long-takes-transcript>
 
 ---
 
@@ -528,78 +568,4 @@ date: 2025-04-27, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/04/the-voyage-of-the-heisenberg-by-tom-easton-review-by-paul-di-filippo/>
-
----
-
-## Magazines Received – April
-
-date: 2025-04-26, from: Locus Magazine
-
-<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
-<div>
-<div class="mynomorebulletlist">
-
-<p>Alien Dimensions</p>
-<ul>
-<li>Neil A. Hogan, ed.</li>
-<li>#27, March 2025, $14.99 print/$7.99 digital, annual, 270pp, 15 x 23 cm.</li>
-<li>SF </li></ul></div></div> <a href="https://locusmag.com/2025/04/magazines-received-april-5/" class="read-more">...Read More </a> 
-
-<br> 
-
-<https://locusmag.com/2025/04/magazines-received-april-5/>
-
----
-
-## Dark Diamond by Neal Asher: Review by Paul Di Filippo
-
-date: 2025-04-26, from: Locus Magazine
-
-<p><strong>Dark Diamond</strong>, Neal Asher (Pyr 978-1645060895, trade paperback, 668pp, $28.95) April 2025.</p>
-<p>By my count, <b>Dark Diamond</b> is the twenty-third volume in Neal Asher’s <b>Polity</b> series, and this milestone constitutes a significant fact. While I have not read all of them—maybe half—I have discerned several things about the series. Each one is written at full balls-to-the-walls levels of exuberance and inventiveness; no filler or placeholders. While all the entries  <a href="https://locusmag.com/2025/04/dark-diamond-by-neal-asher-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/04/dark-diamond-by-neal-asher-review-by-paul-di-filippo/>
-
----
-
-## A Thousand Blues by Cheon Seon-ran: Review by Niall Harrison
-
-date: 2025-04-26, from: Locus Magazine
-
-<p><strong>A Thousand Blues</strong>, Cheon Seon-ran (Doubleday UK 978-1-52993-802-9, £16.99, hc) June 2025.</p>
-<p>About two-thirds of the way through Cheon Seon-ran’s <strong>A Thousand Blues</strong>, two slightly drunk secondary characters have a brief discus­sion about Ted Chiang’s 2010 novella “The Life Cycle of Software Objects”. The character who brings up the story, Bokhui, is a vet at a racehorse stables in Seoul, and she has just been lobbied by the  <a href="https://locusmag.com/2025/04/a-thousand-blues-by-cheon-seon-ran-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/04/a-thousand-blues-by-cheon-seon-ran-review-by-niall-harrison/>
-
----
-
-## Kemi Ashing-Giwa Joins Locus Awards as Featured Local Author
-
-date: 2025-04-26, from: Locus Magazine
-
-<p>We are pleased to announce that award-winning and bestselling author Kemi Ashing-Giwa will be joining us as a Featured Local Author at the  Locus Awards Weekend on June 21, 2025, in Oakland, California. Ashing-Giwa will join fellow local artist Stephanie Law and a lineup of amazing guests for an unforgettable celebration!</p>
-<p></p>
-<p>From her website: Kemi Ashing-Giwa is an author and scientist-in-training based in Palo Alto. Her work includes the USA  <a href="https://locusmag.com/2025/04/kemi-ashing-giwa-joins-locus-awards-as-featured-local-author/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/04/kemi-ashing-giwa-joins-locus-awards-as-featured-local-author/>
-
----
-
-## Stephanie Law Joins Locus Awards as Featured Local Artist
-
-date: 2025-04-26, from: Locus Magazine
-
-<p>Prolific artist and creator Stephanie Law will be joining us as a Featured Local Artist at the Locus Awards Weekend on June 21, 2025, in Oakland, California. We’re absolutely thrilled to welcome her and her stunning art to the events! Law joins fellow local Kemi Ashing-Giwa and a lineup of amazing guests for an unforgettable celebration.</p>
-<p></p>
-<p>From her website: Stephanie Law&#8217;s images trace the boundary between dream and reality. She  <a href="https://locusmag.com/2025/04/stephanie-law-joins-locus-awards-as-featured-local-artist/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/04/stephanie-law-joins-locus-awards-as-featured-local-artist/>
 

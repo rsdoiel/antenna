@@ -1,11 +1,151 @@
 ---
 title: going electric
-updated: 2025-05-03 14:07:47
+updated: 2025-05-04 06:07:44
 ---
 
 # going electric
 
-(date: 2025-05-03 14:07:47)
+(date: 2025-05-04 06:07:44)
+
+---
+
+## It’s back: Hyundai IONIQ 5 qualifies for $7,500 tax credit – again!
+
+date: 2025-05-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/57271-2025IONIQ5N.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Hyundai IONIQ 5 got a raft of upgrades and sporty, <a href="https://electrek.co/2025/02/19/we-kicked-up-some-socal-sand-off-roading-new-hyundai-ioniq-5-xrt/">rally-focused XRT trim level for 2025</a> – but the biggest upgrade for the Made in America Hyundai might be this: the 5 has regained eligibility for the full $7,500 federal EV tax credit!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,ev-rebate,hyundai" data-layer-viewtype="unknown" data-post-id="414230" href="https://electrek.co/2025/05/04/its-back-hyundai-ioniq-5-qualifies-for-7500-tax-credit-again/#more-414230" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/04/its-back-hyundai-ioniq-5-qualifies-for-7500-tax-credit-again/>
+
+---
+
+## E-quipment highlight: Kenworth T880E vocational electric semi truck
+
+date: 2025-05-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/t880e-secondary.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With the launch of the first-ever Class 8 vocational EV in the North American market, PACCAR Kenworth is raising the battery-electric bar and underscoring just how far the market has come since the Tesla Semi made its debut nearly a decade ago.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,kenworth" data-layer-viewtype="unknown" data-post-id="414202" href="https://electrek.co/2025/05/03/e-quipment-highlight-kenworth-t880e-vocational-electric-semi-truck/#more-414202" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/e-quipment-highlight-kenworth-t880e-vocational-electric-semi-truck/>
+
+---
+
+## Xiaomi SU7 Ultra gets its groove back with all 1,548 hp available NOW
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/xiaomi-su7-ultra-m-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The tire-blistering SU7 Ultra has been the Xiaomi brand’s flagship super sedan since its launch, but a controversial software setting has limited the car to “just” 900 hp in regular driving – resulting in an outcry from owners who ponied up for the big boy numbers. With its latest software update, <strong>that missing 648 hp is back on tap</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,software-update,xiaomi" data-layer-viewtype="unknown" data-post-id="414178" href="https://electrek.co/2025/05/03/xiaomi-su7-ultra-gets-its-groove-back-with-all-1548-hp-available-now/#more-414178" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/xiaomi-su7-ultra-gets-its-groove-back-with-all-1548-hp-available-now/>
+
+---
+
+## Watch A Chevy Blazer EV SS Crush A Mountain-Climbing Range Test
+
+date: 2025-05-03, from: Inside EVs News
+
+The route included a 7,000-foot hill climb, which should decimate range. But it doesn't. 
+
+<br> 
+
+<https://insideevs.com/news/758467/chevy-blazer-ev-ss-mountain-range/>
+
+---
+
+## Tesla (TSLA) discounts new Model Y in the US, pointing to demand issues
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Model-Y-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has started offering reduced interest rates on the new Model Y in the US — this equates to a direct discount on the brand new vehicle that was supposed to spark Tesla’s demand back.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="414174" href="https://electrek.co/2025/05/03/tesla-tsla-discounts-new-model-y-us-demand-issues/#more-414174" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/tesla-tsla-discounts-new-model-y-us-demand-issues/>
+
+---
+
+## Major US electric bike brand announces response to tariffs
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/aventon-level-3-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>One of the largest electric bike brands in the US, Aventon, has recently shared several details about the company’s response to<a href="https://electrek.co/2025/04/10/trumps-massive-tariffs-and-sudden-backtrack-bring-chaos-to-e-bike-prices/"> US tariffs on imported goods</a>. The details reveal insight into how large e-bike makers are coping with the major disruption caused by the trade war launched by the Trump administration.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413905" href="https://electrek.co/2025/05/03/major-us-electric-bike-brand-announces-response-to-tariffs/#more-413905" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/major-us-electric-bike-brand-announces-response-to-tariffs/>
+
+---
+
+## ABB brought its new, 1.2 MW electric semi truck charger to ACT Expo [update]
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/abb_new-main.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Capable of delivering up to 1,200 kW of power to get electric commercial trucks back on the road in minutes, the new <a href="https://electrek.co/2024/01/15/abb-man-announce-megawatt-charging-joint-rd-plan/">ABB MCS1200 Megawatt Charging System</a> is part of an ecosystem of electric vehicle supply equipment (EVSE) that ABB’s bringing to this year’s <a href="https://electrek.co/2025/05/01/act-expo-2025-one-step-forward-two-steps-back-for-clean-trucking-part-1/">ACT Expo</a>.</p>
+
+
+
+<p><strong>UPDATE 03MAY2025</strong>: ABB reads <em>Electrek</em> (see above).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,commercial-evs,electric-semi-truck,ev-charging" data-layer-viewtype="unknown" data-post-id="413022" href="https://electrek.co/2025/05/03/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/#more-413022" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/>
+
+---
+
+## The Hyundai Ioniq 5 Is Eligible For The $7,500 Federal Tax Credit Again
+
+date: 2025-05-03, from: Inside EVs News
+
+Customers of the American-made EV won't have to go down the leasing route anymore to get the incentive. 
+
+<br> 
+
+<https://insideevs.com/news/758478/2025-hyundai-ioniq-5-tax-credit/>
+
+---
+
+## Honda really wants to sell you a hydrogen fuel cell, today [part 5]
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/honda-fuel-cell.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Honda came to <a href="https://electrek.co/2025/05/01/act-expo-2025-one-step-forward-two-steps-back-for-clean-trucking-part-1/">this year’s ACT Expo</a> in Anaheim, California with the perfect follow-up to <a href="https://electrek.co/2024/12/24/hydrogen-had-a-wild-ride-in-2024-but-honda-has-more-to-come-in-2025/">the jaw-dropping hydrogen fuel cell-powered semi truck they showed off last year</a>. This year, the company’s fuel cell is in series production – and available now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,honda,hydrogen,hydrogen-fuel-cell" data-layer-viewtype="unknown" data-post-id="414116" href="https://electrek.co/2025/05/02/honda-really-wants-to-sell-you-a-hydrogen-fuel-cell-today-part-5/#more-414116" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/02/honda-really-wants-to-sell-you-a-hydrogen-fuel-cell-today-part-5/>
 
 ---
 
@@ -1882,128 +2022,4 @@ It's all about making the truck qualify for the $7,500 federal EV rebate, Slate'
 <br> 
 
 <https://insideevs.com/news/757802/slate-ev-battery-chemistry-lfp/>
-
----
-
-## ABB brought its new, 1.2 MW electric semi truck charger to ACT Expo [update]
-
-date: 2025-04-26, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/abb_new-main.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Capable of delivering up to 1,200 kW of power to get electric commercial trucks back on the road in minutes, the new <a href="https://electrek.co/2024/01/15/abb-man-announce-megawatt-charging-joint-rd-plan/">ABB MCS1200 Megawatt Charging System</a> is part of an ecosystem of electric vehicle supply equipment (EVSE) that ABB’s bringing to this year’s ACT Expo.</p>
-
-
-
-<p><strong>UPDATE</strong>: ABB reads <em>Electrek</em> (above).</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="act-expo,commercial-evs,electric-semi-truck,ev-charging" data-layer-viewtype="unknown" data-post-id="413022" href="https://electrek.co/2025/04/26/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/#more-413022" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/26/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/>
-
----
-
-## Whisper Aero ultralight aircraft scores $500K for “UltraQuiet” electric jet motor tests
-
-date: 2025-04-26, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/whisper_aero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Along with Tennessee Tech, Tennessee-based ultralight aircraft company Whisper Aero has secured a $500,000 grant to help advance the company’s innovative electric jet motor concept off the drawing board and onto the testing phase.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="aviation,electric-airplanes" data-layer-viewtype="unknown" data-post-id="412984" href="https://electrek.co/2025/04/26/whisper-aero-ultralight-aircraft-scores-500k-for-ultraquiet-electric-jet-motor-tests/#more-412984" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/26/whisper-aero-ultralight-aircraft-scores-500k-for-ultraquiet-electric-jet-motor-tests/>
-
----
-
-## Tesla Cybertruck owner gets stuck after believing Elon Musk’s ‘river crossing’ claim
-
-date: 2025-04-26, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Cybertruck-stuck-water-hero.png?w=1600" /></div><p>A Tesla Cybertruck owner believed Elon Musk’s claims that the Cybertruck would be able to “act as a boat” and “cross rivers”, and he got his $100,000 stuck because of it.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="412983" href="https://electrek.co/2025/04/26/tesla-cybertruck-owner-stuck-beliving-elon-musks-river-crossing-claim/#more-412983" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/26/tesla-cybertruck-owner-stuck-beliving-elon-musks-river-crossing-claim/>
-
----
-
-## Nissan's EV Sedan, Frontier PHEV Make Me Wish For A Different Reality
-
-date: 2025-04-26, from: Inside EVs News
-
-A pair of electrified Nissans drew big crowds at the Shanghai Auto Show this week. The same could easily happen in America. 
-
-<br> 
-
-<https://insideevs.com/news/757810/nissan-shanghai-phev-frontier-n7/>
-
----
-
-## Bang for the buck: Omoda 9 arrives in Europe, nothing cheaper has more power
-
-date: 2025-04-26, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/omoda_9_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The latest Chinese EREV to arrive in the west, the Omoda 9 SHS crossover hopes to shake things up in the hyper-competitive class with a top-shelf tech package, more horsepower than a Porsche 911 GT3, and a €39,900 price tag.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="chery-automotive,china,erev" data-layer-viewtype="unknown" data-post-id="412949" href="https://electrek.co/2025/04/26/bang-for-the-buck-omoda-9-arrives-in-europe-nothing-cheaper-has-more-power/#more-412949" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/26/bang-for-the-buck-omoda-9-arrives-in-europe-nothing-cheaper-has-more-power/>
-
----
-
-## Tesla hikes prices on its EVs in Canada amid tariffs, expect demand collapse
-
-date: 2025-04-26, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Canada-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has increased prices across its entire electric vehicle lineup in Canada amid increase tariffs due to President Trump’s trade war.</p>
-
-
-
-<p>The American automaker was already struggling to sell cars in Canada this year, but with these prices, we should expect a total demand collapse.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="412960" href="https://electrek.co/2025/04/26/tesla-hikes-prices-evs-canada-amid-tariffs-expect-demand-collapse/#more-412960" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/04/26/tesla-hikes-prices-evs-canada-amid-tariffs-expect-demand-collapse/>
-
----
-
-## Ford Develops Breakthrough Battery Chemistry After ‘Intense Research’
-
-date: 2025-04-26, from: Inside EVs News
-
-It's a lithium manganese rich (LMR) cell chemistry designed for lower-cost and longer-range EVs. 
-
-<br> 
-
-<https://insideevs.com/news/757794/ford-breakthrough-lmr-ev-battery-chemistry/>
-
----
-
-## Truck Buyers Are Definitely Interested In PHEV Pickups
-
-date: 2025-04-26, from: Inside EVs News
-
-Studies show that buyers are open to electrified pickups, especially if they've got a Nissan badge on them.  
-
-<br> 
-
-<https://insideevs.com/news/757740/nissan-frontier-slate-truck-market/>
 

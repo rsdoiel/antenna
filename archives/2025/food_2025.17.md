@@ -1,11 +1,63 @@
 ---
 title: food
-updated: 2025-05-03 14:07:48
+updated: 2025-05-04 06:07:45
 ---
 
 # food
 
-(date: 2025-05-03 14:07:48)
+(date: 2025-05-04 06:07:45)
+
+---
+
+## May The Fourth Cup Of Coffee Be With You
+
+date: 2025-05-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village 
+
+<br> 
+
+<https://sprudge.com/may-the-fourth-cup-of-coffee-be-with-you-325678.html>
+
+---
+
+## These Easy Tofu Meatballs Can Do No Wrong
+
+date: 2025-05-04, from: Bon Appetet
+
+Here's how I turn them into countless dinners. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-love-these-tofu-meatballs>
+
+---
+
+## Amazing Avocado Recipes
+
+date: 2025-05-04, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/08/Amazing-Avocado-Recipes.jpg"/></div>
+<p>A collection of the best avocado recipes from easy dinners, to desserts, snacks, appetizers, salads, tacos, burritos, sandwiches, sauces , pastas, and everything in between! Avocados are one of my absolute favourite foods and since I was thinking about them the other day I thought that I would roundup a few of my favourite recipes!...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/amazing-avocado-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/amazing-avocado-recipes/">Amazing Avocado Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/amazing-avocado-recipes/>
+
+---
+
+## 13 Veggie Burger Ideas You’ll Flip For
+
+date: 2025-05-03, from: Bon Appetet
+
+Black-bean smash burgers, grilled bulgogi tofu on a bun, mushroom-barley patties, and more great vegetarian recipes. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/veggie-burgers-recipes-ideas>
 
 ---
 
@@ -1316,16 +1368,4 @@ date: 2025-04-27, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/41-recipes-for-cinco-de-mayo/>
-
----
-
-## 37 Summer Cocktails for Maximum Chill
-
-date: 2025-04-26, from: Bon Appetet
-
-Crushed raspberries and beer, vermouth sangria, a hot pink watermelon punch, and more cooling sips for summertime. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/summer-cocktails-recipes-ideas>
 

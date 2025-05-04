@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-05-03 14:07:46
+updated: 2025-05-04 06:07:43
 ---
 
 # motorcycles
 
-(date: 2025-05-03 14:07:46)
+(date: 2025-05-04 06:07:43)
+
+---
+
+## Taylor Gray records career-best Xfinity finish at Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Taylor Gray's runner-up finish Saturday at Texas Motor Speedway was a career-best effort, while Sam Mayer and Justin Allgaier also fell short after sniffing victory in the 
+Xfinity Series. 
+
+<br> 
+
+<https://kickinthetires.net/nascar/taylor-gray-records-career-best-xfinity-finish-at-texas-motor-speedway/>
+
+---
+
+## GALLERY: NASCAR Xfinity Series Action At Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Photos by Jerry Jordan and Eric Hattey/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascar-xfinity-series-action-at-texas-motor-speedway/>
+
+---
+
+## GALLERY: A Look At The SpeedyCash.com 250 At Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Photos by Eric Hattey/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-a-look-at-the-speedycash-com-250-at-texas-motor-speedway/>
+
+---
+
+## IN THE NICK OF HEIM: Corey Heim Survives To Win Craftsman Truck Series Race At Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Press Release FORT WORTH, Texas (MAY 2, 2025) – TRICON Garage driver Corey Heim had to survive double overtime after a dominant performance to secure his series-leading third NASCAR CRAFTSMAN Truck&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/in-the-nick-of-heim-corey-heim-survives-to-win-craftsman-truck-series-race-at-texas-motor-speedway/>
+
+---
+
+## You Could Be Rolling At Vespa World Days Right Now, If You Hurry
+
+date: 2025-05-03, from: Ride Apart, Electric Motorcycle News
+
+Hop a flight, scoot all night! 
+
+<br> 
+
+<https://www.rideapart.com/news/758469/vespa-world-days-2025-spain/>
 
 ---
 
@@ -446,53 +507,4 @@ H Partners Management is still fighting its proxy war, however.
 <br> 
 
 <https://www.rideapart.com/news/757774/harley-davidson-nominates-board-member-lori-flees-jared-dourdeville/>
-
----
-
-## Jeb Burton Frustrated Following Photo-Finish Call at Talladega
-
-date: 2025-04-26, from: Kickin the Tires blog
-
-By: Zach Catanzareti, Staff Writer Jeb Burton had family, friends and team to console after losing Saturday&#8217;s Xfinity race under caution. The result came after minutes of NASCAR reviewing the&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/jeb-burton-frustrated-following-photo-finish-call-at-talladega/>
-
----
-
-## Tighter Relationship with RCR Causing Kaulig Racing Gains, Says Allmendinger
-
-date: 2025-04-26, from: Kickin the Tires blog
-
-By: Zach Catanzareti, Staff Writer Kaulig Racing saw a complete driver shake-up for 2025. Out was Daniel Hemric, in was AJ Allmendinger and Ty Dillon. For the first time since&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/tighter-relationship-with-rcr-causing-kaulig-racing-gains-says-allmendinger/>
-
----
-
-## Cleetus McFarland Sees Potential in Driver Vlogs: ‘The Audience is Begging For It’
-
-date: 2025-04-26, from: Kickin the Tires blog
-
-By: Zach Catanzareti, Staff Writer The 2025 NASCAR season has seen the entrance of arguably the most influential driver from the social media realm turn laps on a racetrack in&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/cleetus-mcfarland-sees-potential-in-driver-vlogs-the-audience-is-begging-for-it/>
-
----
-
-## KTM’s Factory Racing Tour Is Somehow Still Happening, Despite it Closing the Factory
-
-date: 2025-04-26, from: Ride Apart, Electric Motorcycle News
-
-The first one is already sold out, but there’s a second one slated for July, and I’d say go for it while you still can. 
- 
-
-<br> 
-
-<https://www.rideapart.com/news/757686/ktm-factory-racing-tour-2025-announcement/>
 

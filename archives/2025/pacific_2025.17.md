@@ -1,11 +1,407 @@
 ---
 title: pacific
-updated: 2025-05-03 14:07:41
+updated: 2025-05-04 06:07:37
 ---
 
 # pacific
 
-(date: 2025-05-03 14:07:41)
+(date: 2025-05-04 06:07:37)
+
+---
+
+## Prince Kuhio comes to life in Hilo play
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>A small but mighty cast is presenting a show in Hilo for three weeks about how the historic life of Prince Kuhio shaped Hawaii in many ways.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/hawaii-news/prince-kuhio-comes-to-life-in-hilo-play/>
+
+---
+
+## Hawaii Legislature ends 2025 session on sour note
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>The last day of the legislative session ended Friday just like it did in 2023: with House Republicans snapping at one another on the House floor shortly after senators walked across the state Capitol, held hands with House members and sang &#8220;Hawai&#8216;i Aloha.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/hawaii-news/hawaii-legislature-ends-2025-session-on-sour-note/>
+
+---
+
+## For Trump supporters, an ‘exciting’ first 100 days
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; For those tens of millions of Americans who regard President Donald Trump&#8217;s bull-in-a-china-shop decade of political life as a waking nightmare, what may be hardest to fathom is that tens of millions of their fellow citizens have viewed the very same spectacle and have said, in effect, &#8220;We are fine with it.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/nation-world-news/for-trump-supporters-an-exciting-first-100-days/>
+
+---
+
+## Board seeks comment on proposed island name change
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>What&#8217;s in a name? That question remains a powerful one, more than four centuries after William Shakespeare posed it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/hawaii-news/board-seeks-comment-on-proposed-island-name-change/>
+
+---
+
+## ID in Hilo pedestrian fatality
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified a pedestrian who died following a Hilo traffic collision on Thursday in the area of the Waianuenue Avenue and Rainbow Drive intersection.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/hawaii-news/id-in-hilo-pedestrian-fatality/>
+
+---
+
+## Warren Buffett says he plans to step down as head of Berkshire
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>Warren E. Buffett has been at the forefront of American capitalism for decades as the CEO of Berkshire Hathaway, the conglomerate he built into a $1.1 trillion colossus.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/nation-world-news/warren-buffett-says-he-plans-to-step-down-as-head-of-berkshire/>
+
+---
+
+## Voters approve incorporation of SpaceX hub as Starbase, Texas
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>Members of a South Texas community that has served as the hub of Elon Musk&#8217;s rocket launch company, SpaceX, voted Saturday to formally establish a new city called Starbase, fulfilling one of Musk&#8217;s long-held dreams.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/nation-world-news/voters-approve-incorporation-of-spacex-hub-as-starbase-texas/>
+
+---
+
+## Trump’s space budget reflects influence of Elon Musk and SpaceX
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk and SpaceX are big winners in President Donald Trump&#8217;s 2026 spending plan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/nation-world-news/trumps-space-budget-reflects-influence-of-elon-musk-and-spacex/>
+
+---
+
+## Australia’s prime minister clinches second term in remarkable comeback
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>SYDNEY &#8212; Prime Minister Anthony Albanese of Australia has won a second term, completing a stunning turnaround for his governing center-left Labor Party that trailed in the polls for months as a festering cost-of-living crisis weighed on voters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/nation-world-news/australias-prime-minister-clinches-second-term-in-remarkable-comeback/>
+
+---
+
+## Poised to expand Gaza offensive, Israel calls up thousands of reserve soldiers
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israel will mobilize thousands of reserve soldiers to bolster its campaign against Hamas in the Gaza Strip, the military announced Saturday night, as the country appeared poised to expand its offensive in the Palestinian enclave.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/nation-world-news/poised-to-expand-gaza-offensive-israel-calls-up-thousands-of-reserve-soldiers/>
+
+---
+
+## Steves: A crossroads of civilizations in Istanbul
+
+date: 2025-05-04, from: Hawaii Tribune Harold
+
+
+				<p>Some of my most vivid memories from my first visit to Istanbul in the 1970s are of the colorful locals. Scruffy kids sold cherry juice, and old men would grab huge cucumbers from wheeled carts, then peel, quarter, and salt them, and sell them for pennies. While the Old World magic in many parts of the city has been plowed under by modern affluence, today&#8217;s Istanbul is every bit as rich and rewarding as it was back then.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/04/features/steves-a-crossroads-of-civilizations-in-istanbul/>
+
+---
+
+## Samsung's 'Live Translate' breaks language barriers 
+
+date: 2025-05-04, from: Pacific Island Times
+
+GTA representatives noted that many of Samsung’s free AI features have been available on devices for more than a year but they are often left unused wither because users are either unaware of them or intimidated by AI. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/samsung-s-live-translate-breaks-language-barriers>
+
+---
+
+## 'In this brave new world, brave journalists are required'
+
+date: 2025-05-03, from: Pacific Island Times
+
+The findings are clear: self-censorship is a real and pressing challenge, especially as intentional disinformation and misinformation campaigns create fractures and divide our communities. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/in-this-brave-new-world-brave-journalists-are-required>
+
+---
+
+## Trump proposes $163 billion in cuts across government in new budget
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Friday proposed slashing $163 billion in federal spending next fiscal year, a drastic retrenchment in the role and reach of government that, if enacted, would eliminate a vast set of climate, education, health and housing programs, including some that benefit the poor. Issuing his first budget proposal since returning to office, Trump sketched out a dim view of Washington. His blueprint depicted many core government functions as woke, weaponized, wasteful or radical, as the president looked to justify his request that Congress chop domestic spending to its lowest level in the modern era.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/trump-proposes-163-billion-in-cuts-across-government-in-new-budget/>
+
+---
+
+## Trump ends Chinese tariff loophole, raising the cost of online goods
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration on Friday officially eliminated a loophole that had allowed American shoppers to buy cheap goods from China without paying tariffs. The move will help U.S. manufacturers that have struggled to compete with a wave of low-cost Chinese products, but it has already resulted in higher prices for Americans who shop online.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/trump-ends-chinese-tariff-loophole-raising-the-cost-of-online-goods/>
+
+---
+
+## Companies are serving notice: We’re raising prices because of tariffs
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; More companies are starting to warn that they will have to pass on higher costs to American consumers, raising prices for products like strollers, mattresses, power tools and cast-iron cookware as President Donald Trump&#8217;s tariffs take hold.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/companies-are-serving-notice-were-raising-prices-because-of-tariffs/>
+
+---
+
+## Veterans’ groups object to Trump’s proposal to rename Veterans Day
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s announcement that he planned to change the name of Veterans Day, on Nov. 11, to &#8220;Victory Day for World War I&#8221; prompted a backlash from some veterans&#8217; groups, which complained that the move would champion conquest over sacrifice and ignore the sacrifices of most living veterans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/veterans-groups-object-to-trumps-proposal-to-rename-veterans-day/>
+
+---
+
+## Kennedy orders search for new measles treatments instead of urging vaccination
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>With the United States facing its largest single measles outbreak in 25 years, Health and Human Services Secretary Robert F. Kennedy Jr. will direct federal health agencies to explore potential new treatments for the disease, including vitamins, according to an HHS spokesperson. The decision is the latest in a series of actions by the nation&#8217;s top health official that experts fear will undermine public confidence in vaccines as an essential public health tool.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/kennedy-orders-search-for-new-measles-treatments-instead-of-urging-vaccination/>
+
+---
+
+## Explosions cripple ship carrying aid to Gaza in the Mediterranean Sea
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>A ship carrying 16 people and humanitarian aid to the Gaza Strip was rocked by explosions early Friday off the coast of Malta, setting the vessel on fire and putting it at risk of sinking, according to the human rights group operating the ship.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/explosions-cripple-ship-carrying-aid-to-gaza-in-the-mediterranean-sea/>
+
+---
+
+## TikTok fined $600 million for sending European user data to China
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; TikTok was fined 530 million euros ($600 million) on Friday for violating a European Union data privacy law after regulators found the company had improperly transferred users&#8217; personal data to China.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/tiktok-fined-600-million-for-sending-european-user-data-to-china/>
+
+---
+
+## Illinois man sentenced to 53 years in killing of Palestinian American boy
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>JOLIET, Ill. &#8212; An Illinois judge sentenced a man to 53 years in prison on Friday for the fatal stabbing of a 6-year-old boy in 2023 and the nonfatal stabbing of the boy&#8217;s mother, an attack that jurors found to have been motivated by anti-Muslim hate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/illinois-man-sentenced-to-53-years-in-killing-of-palestinian-american-boy/>
+
+---
+
+## NPR and PBS vow to fight Trump’s order to cut funding
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s executive order to defund NPR and PBS was met with fiery pushback on Friday, as the organizations challenged the legality of the move and said it could jeopardize access to vital information.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/npr-and-pbs-vow-to-fight-trumps-order-to-cut-funding/>
+
+---
+
+## Former weather service leaders warn staffing cuts could lead to ‘loss of life’
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>Five former National Weather Service directors have taken the unusual step of signing onto an open letter warning that cuts to the organization by the Trump administration may soon endanger lives.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/former-weather-service-leaders-warn-staffing-cuts-could-lead-to-loss-of-life/>
+
+---
+
+## Tropical Gardening: Fragrance adds another spring pleasure to Hawaiian gardens
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>May Day, also know as Lei Day, has passed however, Hawaiian gardeners keep it going all year long. On the mainland spring is short lived, but in Hawaii, spring is all year. Here, there is a noticeable spring fever effect when it comes to local gardeners because many flowers start heavy blooming at this time. Since Mother&#8217;s Day is May 11, it is not too early to find gifts of plants for your favorite lady or ladies as the case may be!</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/features/tropical-gardening-fragrance-adds-another-spring-pleasure-to-hawaiian-gardens/>
+
+---
+
+## Wahinekapu, Wedderburn, Schager named 2025 Bonham Award winners
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>The Jack Bonham Award was presented to Lily Wahinekapu (women’s basketball), Jordan Wedderburn (women’s water polo) and Brayden Schager (football).</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/2025-bonham-award/">Wahinekapu, Wedderburn, Schager named 2025 Bonham Award winners</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/2025-bonham-award/>
+
+---
+
+## Santa Barbara Catholic School brings magic and might to ‘Matilda Jr.’
+
+date: 2025-05-03, from: Pacific Island Times
+
+Santa Barbara Catholic School’s April production of “Matilda Jr.” became more than just a school musical.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/santa-barbara-catholic-school-brings-magic-and-might-to-matilda-jr>
+
+---
+
+## UH professor produces and directs an Indian dance showcase
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>Kah&#257;n&#299;, led by <abbr>UH</abbr> Mānoa’s Sai Bhatawadekar, brought Indian stories to life through dance and music at the Doris Duke Theater.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/kahani-indian-dance-showcase/"><abbr>UH</abbr> professor produces and directs an Indian dance showcase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/kahani-indian-dance-showcase/>
+
+---
+
+## Judiciary AI chatbot launches with support from UH Mānoa
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>The chatbot uses natural language processing to engage users in real-time conversations.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/">Judiciary <abbr>AI</abbr> chatbot launches with support from <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/>
+
+---
+
+## Honolulu CC’s Hoʻolauleʻa engages 300+ in culture, sustainability
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>Hands-on Hawaiian traditions, music, food, more, connect Honolulu <abbr>CC</abbr> community.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/honolulu-cc-hoolaulea/">Honolulu <abbr>CC</abbr>’s Hoʻolauleʻa engages 300+ in culture, sustainability</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/honolulu-cc-hoolaulea/>
 
 ---
 
@@ -3223,194 +3619,4 @@ date: 2025-04-27, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/27/nation-world-news/trump-meets-with-zelenskyy-in-vatican-city-white-house-says/>
-
----
-
-## Trump budget to take ax to ‘radical’ safety net programs
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON (NYT) &#8212; The Trump administration, which has made clear that it aims to slash government spending, is preparing to unveil a budget proposal as soon as next week that includes draconian cuts that would entirely eliminate some federal programs and fray the nation&#8217;s social safety net.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/trump-budget-to-take-ax-to-radical-safety-net-programs/>
-
----
-
-## Hegseth’s personal phone use created vulnerabilities, analysts say
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Defense Secretary Pete Hegseth&#8217;s personal phone number, the one used in a recent Signal chat, was easily accessible on the internet and public apps as recently as March, potentially exposing national security secrets to foreign adversaries.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/hegseths-personal-phone-use-created-vulnerabilities-analysts-say/>
-
----
-
-## Wisconsin judge arrested, accused of shielding immigrant from federal agents
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>FBI agents arrested a Milwaukee County judge on Friday on charges of obstructing immigration agents, saying she steered an immigrant through a side door in her courtroom while the agents waited to arrest him in a public hallway.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/wisconsin-judge-arrested-accused-of-shielding-immigrant-from-federal-agents/>
-
----
-
-## Sports wagering dead this legislative session
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>Sports wagering will not become legal in Hawaii this year.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/hawaii-news/sports-wagering-dead-this-legislative-session/>
-
----
-
-## A faithful throng pays last respects to Pope Francis
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>VATICAN CITY &#8212; The doors opened to St. Peter&#8217;s Basilica at 5:40 a.m. Friday, and people immediately began to trickle in to pay their respects to Pope Francis, whose body lay beneath the vast dome designed by Michelangelo. A couple hours later, the trickle was a river, as thousands moved through the basilica on the last day they could say goodbye to the pontiff.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/a-faithful-throng-pays-last-respects-to-pope-francis/>
-
----
-
-## Senior Russian officer killed in car explosion near Moscow
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>A senior Russian military commander was killed Friday in a car explosion in a Moscow suburb, investigators said, the latest in a series of apparent assassinations targeting Ukraine&#8217;s opponents inside Russia that have come as ceasefire talks show few signs of progress.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/senior-russian-officer-killed-in-car-explosion-near-moscow/>
-
----
-
-## 19 states sue the Trump administration over its DEI demand in schools
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>A coalition of 19 states sued the Trump administration Friday over its threat to withhold federal funding from states and districts with certain diversity programs in their public schools.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/19-states-sue-the-trump-administration-over-its-dei-demand-in-schools/>
-
----
-
-## Disgraced Santos is given a 7-year prison sentence to cap his fall
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>CENTRAL ISLIP, NY. &#8212; Former Rep. George Santos, R-N.Y., whose outlandish fabrications and criminal schemes fueled an unforeseen rise and spectacular fall, was sentenced to more than seven years in federal prison Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/disgraced-santos-is-given-a-7-year-prison-sentence-to-cap-his-fall/>
-
----
-
-## Mangione pleads not guilty as US seeks death penalty
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; The judge overseeing the federal prosecution of Luigi Mangione, the man accused of killing a health insurance executive in Manhattan, on Friday warned the U.S. attorney general to keep quiet about him to ensure a fair trial</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/nation-world-news/mangione-pleads-not-guilty-as-us-seeks-death-penalty/>
-
----
-
-## Puna murder suspect charged, victim ID’d
-
-date: 2025-04-26, from: Hawaii Tribune Harold
-
-
-				<p>Police on Saturday charged a 42-year-old Pahoa woman with murder after a reported domestic dispute late Thursday night in Nanawale Estates resulted in the death of a 45-year-old man.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/04/26/hawaii-news/puna-murder-suspect-charged-victim-idd/>
-
----
-
-## UOG study: two banana types ideal for commercial production in Guam 
-
-date: 2025-04-26, from: Pacific Island Times
-
-The study found that Fiji and Saba have highly marketable qualities, favorable yields and can be sustainably produced in Guam’s conditions without the use of pesticides. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/uog-study-two-banana-types-ideal-for-commercial-production-in-guam>
-
----
-
-## Kapiʻolani CC culinary graduates serve inspiration at women’s correctional center
-
-date: 2025-04-26, from: University of Hawaiʻi News
-
-<p><span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> grads help incarcerated moms and kids bond through food and shared hope.</p>
-The post <a href="https://www.hawaii.edu/news/2025/04/25/kapiolani-cc-culinary-wccc-kids-day/">Kapiʻolani <abbr>CC</abbr> culinary graduates serve inspiration at women’s correctional center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/04/25/kapiolani-cc-culinary-wccc-kids-day/>
-
----
-
-## UH alumni businesses, more, shine at Merrie Monarch Festival
-
-date: 2025-04-26, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> grads turn passion into thriving businesses at Merrie Monarch’s celebration of culture and creativity.</p>
-The post <a href="https://www.hawaii.edu/news/2025/04/25/uh-alumni-shine-at-merrie-monarch/"><abbr>UH</abbr> alumni businesses, more, shine at Merrie Monarch Festival</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/04/25/uh-alumni-shine-at-merrie-monarch/>
-
----
-
-## Eggs and graves 
-
-date: 2025-04-26, from: The Husk
-
-Weekender #55 
-
-<br> 
-
-<https://thehusk.substack.com/p/eggs-and-graves>
 

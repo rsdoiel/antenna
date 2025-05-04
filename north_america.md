@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-05-03 14:07:39
+updated: 2025-05-04 06:07:35
 ---
 
 # north america
 
-(date: 2025-05-03 14:07:39)
+(date: 2025-05-04 06:07:35)
+
+---
+
+## 100 Days of…Resistance!
+
+date: 2025-05-03, from: The Contrarian
+
+Publisher's RoundUp, 16 
+
+<br> 
+
+<https://contrarian.substack.com/p/100-days-ofresistance>
+
+---
+
+##  YOU LOVE TO SEE IT: Watt You Use Is Watt You Owe 
+
+date: 2025-05-03, from: The Lever News
+
+ A power player pays up, a city goes all in against sports betting, a soot-free train ride, and student visas get restored.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-watt-you-use-is-watt-you-owe/>
+
+---
+
+## The 100 Days Conference
+
+date: 2025-05-03, from: The Contrarian
+
+A recording from The Contrarian's live video 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-100-days-conference>
+
+---
+
+## Dan Toomey and Chuck Work on Trump's pick for US attorney for DC
+
+date: 2025-05-03, from: The Contrarian
+
+Trump&#8217;s controversial pick for U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162643384/aadfde621e34a9a1e7f256dfb4de1f38.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162643384/aadfde621e34a9a1e7f256dfb4de1f38.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/dan-toomey-and-chuck-work-on-trumps>
 
 ---
 
@@ -1018,28 +1068,4 @@ date: 2025-04-27, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-the-pentagons-new-powder-room/>
-
----
-
-##  YOU LOVE TO SEE IT: Rewriting The Prescription Playbook 
-
-date: 2025-04-26, from: The Lever News
-
- States are cutting out the medicine middleman, an Ivy League college fixes its math, questionable opioid prescriptions are set right, and vacations just got simpler.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-rewriting-the-prescription-playbook/>
-
----
-
-##  Supercharging Musk’s Space Monopoly 
-
-date: 2025-04-26, from: The Lever News
-
- Trump regulators could boost the power and number of SpaceX satellites, buttressing a space armada that’s suppressing competition, blinding telescopes, and endangering spaceflight.  
-
-<br> 
-
-<https://www.levernews.com/supercharging-musks-space-monopoly/>
 

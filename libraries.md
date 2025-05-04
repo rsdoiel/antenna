@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-05-03 14:07:45
+updated: 2025-05-04 06:07:42
 ---
 
 # libraries
 
-(date: 2025-05-03 14:07:45)
+(date: 2025-05-04 06:07:42)
+
+---
+
+## Carbonate metasomatism at mantle wedge conditions, evidence from trace element and stable isotope (Fe, Zn) signatures of orogenic peridotites
+
+date: 2025-05-05, from: ETH Zurich, recently added
+
+Debret B.; Sossi P.A.; Malaspina N.; Gautier A.; Mattielli N.; O'Neill H.; Villalobos-Orchard J.; Moynier F. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/726172>
 
 ---
 
@@ -549,4 +561,16 @@ Gutscher, Fabian; Goncalves Borges, Daniel; Schütz, Nadine; Wissen Hayek, Ulrik
 <br> 
 
 <http://hdl.handle.net/20.500.11850/733161>
+
+---
+
+## The cosmochemistry of planetary systems
+
+date: 2025-04-28, from: ETH Zurich, recently added
+
+Bizzarro, Martin; Johansen, Anders; Dorn, Caroline 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733514>
 

@@ -1,11 +1,231 @@
 ---
 title: home
-updated: 2025-05-03 14:07:46
+updated: 2025-05-04 06:07:42
 ---
 
 # home
 
-(date: 2025-05-03 14:07:46)
+(date: 2025-05-04 06:07:42)
+
+---
+
+## How to Grow Azaleas in Pots and Containers
+
+date: 2025-05-04, from: The Gardener's Path
+
+<p>If you love the bright, elegant flowers of azaleas but don't have room in your garden, why not try growing them in containers instead? You can also liven up your porch, deck, or patio with the luxurious bursts of color. Learn how to grow azaleas in pots and discover our top container-friendly cultivars in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-azalea-containers/">How to Grow Azaleas in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-azalea-containers/>
+
+---
+
+## Top 10 Blueberry Varieties to Grow at Home
+
+date: 2025-05-04, from: The Gardener's Path
+
+<p>Nothing says summer like fresh seasonal fruit, perfect for snacking, canning, and baking. Want to grow your own blueberries at home? If you have an area of acidic, well-draining soil with full sun, then this top 10 list is for you. Check out our favorite blueberry varieties for the home grower now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/best-blueberry-varieties/">Top 10 Blueberry Varieties to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/best-blueberry-varieties/>
+
+---
+
+## How to Grow and Care for Weeping Forsythia Shrubs
+
+date: 2025-05-04, from: The Gardener's Path
+
+<p>Weeping forsythia is a late winter to early spring sensation with its gracefully arching branches covered in little yellow flowers. It’s easy to grow in full sun and well-draining soil in USDA Hardiness Zones 5 to 8. Read on for pro tips to guide you in cultivating healthy, show-stopping shrubs in your landscape.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-weeping-forsythia/">How to Grow and Care for Weeping Forsythia Shrubs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-weeping-forsythia/>
+
+---
+
+## These Are the Recipes to Cook This May, from New Grilling Ideas to Easy Weeknight Meals
+
+date: 2025-05-03, from: Sunset Magazine - Living in the West
+
+May means celebrations like Mother's Day and Memorial Day, and better weather. Here's what to make this month. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/may-recipe-ideas-2025>
+
+---
+
+## 2025 is Officially the Year of the Summer Staycation. Here Are the Hottest Spots to Do It.
+
+date: 2025-05-03, from: Sunset Magazine - Living in the West
+
+Staying closer to home by taking a staycation is the trend of the season. Here are the most popular places to do it. 
+
+<br> 
+
+<https://www.sunset.com/travel/airbnb-2025-summer-trends-staycations>
+
+---
+
+## This Is What You Need to Know About Pairing Wine with Seafood
+
+date: 2025-05-03, from: Sunset Magazine - Living in the West
+
+Before you grab a bottle of wine to enjoy with your seafood dish, consider these seafood and wine pairing tips. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/how-to-pair-wine-seafood>
+
+---
+
+## How Long Does Kohlrabi Keep? Tips for Proper Storage
+
+date: 2025-05-03, from: The Gardener's Path
+
+<p>Kohlrabi is a cool-season Brassica with a bulbous stem that can be eaten raw or cooked. After harvest, you may be wondering how long they'll keep and how best to store these vegetables. Learn how to prepare and store kohlrabi in the fridge and at room temperature to maximize freshness in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/store-kohlrabi/">How Long Does Kohlrabi Keep? Tips for Proper Storage</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/store-kohlrabi/>
+
+---
+
+## 35 Shrubs with Yellow Flowers (Pictures and Identification)
+
+date: 2025-05-03, from: Yard Life blog
+
+<p>When it comes to brightening up your garden, shrubs with yellow flowers offer a vibrant and cheerful touch. These plants ... </p>
+<p class="read-more-container"><a title="35 Shrubs with Yellow Flowers (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-shrubs-with-yellow-flowers-pictures-and-identification/#more-28000" aria-label="Read more about 35 Shrubs with Yellow Flowers (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-shrubs-with-yellow-flowers-pictures-and-identification/">35 Shrubs with Yellow Flowers (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-shrubs-with-yellow-flowers-pictures-and-identification/>
+
+---
+
+## How to Plant and Grow Beefsteak Tomatoes
+
+date: 2025-05-03, from: The Gardener's Path
+
+<p>The beefsteak tomato is a large mutant fruit that caught the eye of early Mesoamericans and has been beloved ever since. Growing the big brother of America's favorite vegetable isn't unlike cultivating other tomatoes, but there are a few things you should know. Learn how to care for this hefty tomato in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-beefsteak-tomatoes/">How to Plant and Grow Beefsteak Tomatoes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-beefsteak-tomatoes/>
+
+---
+
+## Snapdragon Types: Understanding Flower Shapes & Classifications
+
+date: 2025-05-03, from: The Gardener's Path
+
+<p>It’s no surprise if you've ever been confused by all the different snapdragon groups, series, and flower types. There’s a broad range of colors, growth habits, heights, ideal growing seasons, and patterns available. Knowing the difference and discovering the best options will help you decide which suits your space.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/snapdragon-types/">Snapdragon Types: Understanding Flower Shapes &amp; Classifications</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/snapdragon-types/>
+
+---
+
+## When and How to Divide Lily of the Valley
+
+date: 2025-05-03, from: The Gardener's Path
+
+<p>Fragrant lily of the valley is a charming spring flower with bell-shaped blossoms. Despite its demure appearance, this ground-covering perennial is a vigorous grower that can become invasive. Read on and learn to divide lily of the valley to keep it in check and enjoy it in beds, borders, and drifts for years to come.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/divide-lily-valley/">When and How to Divide Lily of the Valley</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/divide-lily-valley/>
+
+---
+
+## 50 Types of Bonsai Trees (With Pictures and Names)
+
+date: 2025-05-03, from: Yard Life blog
+
+<p>Bonsai trees are more than just miniature plants; they are living works of art that embody patience, skill, and a ... </p>
+<p class="read-more-container"><a title="50 Types of Bonsai Trees (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/50-types-of-bonsai-trees-with-pictures-and-names/#more-27940" aria-label="Read more about 50 Types of Bonsai Trees (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-types-of-bonsai-trees-with-pictures-and-names/">50 Types of Bonsai Trees (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-types-of-bonsai-trees-with-pictures-and-names/>
+
+---
+
+## 25 of the Best Radish Varieties to Grow at Home
+
+date: 2025-05-03, from: The Gardener's Path
+
+<p>Selecting the best radishes to grow in your garden is as fun as eating them, whether fresh, roasted, or pickled. The choices include red, round heirlooms, daikon types, and a few in rainbow colors and unusual shapes. Certain hybrids can even beat the heat. Discover 25 of the top radish varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-radish-varieties/">25 of the Best Radish Varieties to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-radish-varieties/>
+
+---
+
+## How to Plant, Grow, and Care for the Classic Perennial Peony
+
+date: 2025-05-03, from: The Gardener's Path
+
+<p>For vibrant color from late spring to early summer, fill your garden beds and borders with the luscious blossoms of perennial peony. Available in shades of pink, purple, red, white, and yellow, these gorgeous flowers are an ornamental highlight. Learn how to plant and grow peonies in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/perennial/peony/">How to Plant, Grow, and Care for the Classic Perennial Peony</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/perennial/peony/>
+
+---
+
+## How to Control Aphids on Roses
+
+date: 2025-05-03, from: The Gardener's Path
+
+<p>If you seem to spot aphid congregations every time you look at your rose bushes, you’re probably feeling frustrated. How do you keep them under control? Can you do this without harming beneficial insects? And can beneficial insects help get rid of a bad aphid infestation? Find out in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-aphids-roses/">How to Control Aphids on Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/control-aphids-roses/>
+
+---
+
+## African gardens put ours into perspective
+
+date: 2025-05-03, from: Greg Alder's blog, Yard Post
+
+<p>In March I traveled throughout South Africa and Lesotho, where I visited a number of farms, nurseries, and home gardens. On my return flight, I recalled the G.K. Chesterton quote, “The whole object of travel is not to set foot on foreign land; it is at last to set foot on one’s own country as [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/african-gardens-put-ours-into-perspective/">African gardens put ours into perspective</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/african-gardens-put-ours-into-perspective/>
 
 ---
 
@@ -626,18 +846,6 @@ The Cȃpsula collection by Netherlands studio i29 features three black cabins wi
 <br> 
 
 <https://www.dwell.com/article/i29-capsula-tiny-homes-black-prefab-cabins-58dac5a9>
-
----
-
-## 2025 is Officially the Year of the Summer Staycation. Here Are the Hottest Spots to Do It.
-
-date: 2025-05-01, from: Sunset Magazine - Living in the West
-
-Staying closer to home by taking a staycation is the trend of the season. Here are the most popular places to do it. 
-
-<br> 
-
-<https://www.sunset.com/travel/airbnb-2025-summer-trends-staycations>
 
 ---
 
@@ -1520,18 +1728,6 @@ April is Invasive Plant Pest and Disease Awareness Month in the US, and CDFA is 
 
 ---
 
-## This Is What You Need to Know About Pairing Wine with Seafood
-
-date: 2025-04-28, from: Sunset Magazine - Living in the West
-
-Before you grab a bottle of wine to enjoy with your seafood dish, consider these seafood and wine pairing tips. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/how-to-pair-wine-seafood>
-
----
-
 ## This Australian Home Is Wrapped Entirely in Zinc
 
 date: 2025-04-28, from: Dwell
@@ -1565,18 +1761,6 @@ Set in Cadaqués, the ’60s residence has a traditional stone facade and a surp
 <br> 
 
 <https://www.dwell.com/article/before-and-after-casa-rumeu-gr-os-architects-correa-mila-arquitectes-cadaques-7640cbf9>
-
----
-
-## These Are the Recipes to Cook This May, from New Grilling Ideas to Easy Weeknight Meals
-
-date: 2025-04-28, from: Sunset Magazine - Living in the West
-
-May means celebrations like Mother's Day and Memorial Day, and better weather. Here's what to make this month. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/may-recipe-ideas-2025>
 
 ---
 
@@ -1882,116 +2066,4 @@ date: 2025-04-27, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-heath-asters/>
-
----
-
-## How and When to Fertilize Zucchini Plants
-
-date: 2025-04-26, from: The Gardener's Path
-
-<p>Delicious and incredibly versatile, zucchini is an easy-to-grow favorite among foodies and gardeners. This guide will walk you through the steps required to give your plants the nutrients they need to flourish! Read on to get the scoop on how and when to feed your zucchini for healthier plants and increased yield.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vegetables/fertilize-zucchini/">How and When to Fertilize Zucchini Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vegetables/fertilize-zucchini/>
-
----
-
-## 9 of the Best Larch Varieties for Your Landscape
-
-date: 2025-04-26, from: The Gardener's Path
-
-<p>Unlike other conifers, the needles of larch trees (Larix spp.) turn yellow or gold in the fall and drop from the branches, leaving behind cones and colorful shoots. They are available in a variety of sizes and shapes, from ground covers to 200-foot-tall behemoths. Learn about 9 of the best types of larch in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/best-larch-varieties/">9 of the Best Larch Varieties for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/landscape-trees/best-larch-varieties/>
-
----
-
-## Why Isn’t My Passionflower Vine Producing Fruit?
-
-date: 2025-04-26, from: The Gardener's Path
-
-<p>Passionflowers, also known as passion fruit, are usually simple to grow. They’re low-maintenance and fairly tough. But if your passionflowers aren't producing fruit, something isn’t right with their growing conditions. Whether it’s sun exposure, fertilizer, or pollination issues, a little change can help a lot.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vines/passionflower-not-fruiting/">Why Isn’t My Passionflower Vine Producing Fruit?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vines/passionflower-not-fruiting/>
-
----
-
-## How to Grow and Care for Shrub Roses
-
-date: 2025-04-26, from: The Gardener's Path
-
-<p>Shrub roses are ideal for beginners because they’re easy to care for without forcing you to sacrifice an elegant floral display. They’re disease-resistant, most are self-cleaning, and they bloom all season long. Plus, they come in a range of colors, growth habits, and sizes. Read more to learn how to grow shrub roses.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-shrub-roses/">How to Grow and Care for Shrub Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/grow-shrub-roses/>
-
----
-
-## Primocane vs. Floricane: How to Distinguish Between Berry Canes
-
-date: 2025-04-26, from: The Gardener's Path
-
-<p>Are you confused by the tags on cane berry plants at the nursery, like raspberries and blackberries? You’re not alone. “Primocane-bearing” and “floricane-fruiting” are handier terms for making purchase and management decisions when you know what they mean. All is explained, including why it matters, in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/fruit/primocane-vs-floricane/">Primocane vs. Floricane: How to Distinguish Between Berry Canes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/fruit/primocane-vs-floricane/>
-
----
-
-## How to Identify and Control Mealybugs
-
-date: 2025-04-26, from: The Gardener's Path
-
-<p>Mealybugs are notorious pests of indoor flora, including your precious houseplants. They suck the sugary juices from the leaves and stems, excrete honeydew and can even vector diseases. Learn all you need to know about these insects, their biology, identification, and available control options in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-mealybugs/">How to Identify and Control Mealybugs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/how-to/disease-and-pests/control-mealybugs/>
-
----
-
-## How to Grow Chamomile in Pots and Containers
-
-date: 2025-04-26, from: The Gardener's Path
-
-<p>Chamomile is boisterous in the garden, self-seeding where you least expect it. Planting it in a pot can keep this herb under control. There are just a few things you need to succeed, including the right container, soil, and location. Read more now to learn everything you need to know to grow chamomile in a container. </p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-chamomile-containers/">How to Grow Chamomile in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/grow-chamomile-containers/>
-
----
-
-## Drip irrigation versus micro-sprinklers for fruit trees
-
-date: 2025-04-26, from: Greg Alder's blog, Yard Post
-
-<p>My experience is that, while both drip irrigation and micro-sprinklers work well to deliver water to fruit trees in Southern California, they come with advantages and disadvantages. And one method is not best for all situations. Because of this, even in my own single yard, I use drip on some of my fruit trees but [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/drip-irrigation-versus-micro-sprinklers-for-fruit-trees/">Drip irrigation versus micro-sprinklers for fruit trees</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/drip-irrigation-versus-micro-sprinklers-for-fruit-trees/>
 

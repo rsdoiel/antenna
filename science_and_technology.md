@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-05-03 14:07:42
+updated: 2025-05-04 06:07:38
 ---
 
 # science and technology
 
-(date: 2025-05-03 14:07:42)
+(date: 2025-05-04 06:07:38)
+
+---
+
+## Altman's eyeball-scanning biometric blockchain orbs officially come to America
+
+date: 2025-05-04, updated: 2025-05-04, from: The Register (UK I.T. News)
+
+<h4>El Reg checks out shop in SF</h4> <p>On Thursday, six stores across America opened their doors with a curious proposition: Come on in, let a metal orb scan your irises, and walk out with a new online profile that promises you&#39;re an individual human – and a few bucks in crypto for your troubles.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/04/sam_altman_startup_world/>
+
+---
+
+## Soviet probe from 1972 set to return to Earth ... in May 2025
+
+date: 2025-05-03, updated: 2025-05-03, from: The Register (UK I.T. News)
+
+<h4>Not, it&#39;s not the plot of a sci-fi disaster movie</h4> <p>A Soviet probe launched more than half a century ago is due to return to Earth in the next week or two, and there&#39;s every chance that the vehicle will make it all the way to our planet&#39;s surface.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/03/soviet_probe_from_1972_set/>
+
+---
+
+## Open Document Format turns 20, but Microsoft Office still reigns supreme
+
+date: 2025-05-03, updated: 2025-05-03, from: The Register (UK I.T. News)
+
+<h4>A look back at two decades of ODF, from open source hopes to patchy real-world adoption</h4> <p>It&#39;s been 20 years since the Open Document Format (ODF) became a standard, marking a milestone in the push for open, vendor-neutral file formats — and the beginning of a long but largely unsuccessful attempt to loosen Microsoft Office&#39;s grip on the desktop.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/03/20_years_open_document_format/>
 
 ---
 
@@ -239,7 +275,7 @@ date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
 
 ## Open source AI hiring bots favor men, leave women hanging by the phone
 
-date: 2025-05-02, updated: 2025-05-02, from: The Register (UK I.T. News)
+date: 2025-05-02, updated: 2025-05-04, from: The Register (UK I.T. News)
 
 <h4>Easy fix: Telling LLMs to cosplay Lenin makes &#39;em more gender blind</h4> <p>Open source AI models are more likely to recommend men than women for jobs, particularly the high-paying ones, a new study has found.…</p> 
 
@@ -2046,64 +2082,4 @@ RetrOS-32 is a 32bit operating system written from scratch, with graphics, multi
 <br> 
 
 <https://www.osnews.com/story/142221/retros-32-a-32bit-hobby-operating-system-with-graphics-multitasking-and-more/>
-
----
-
-## Trump’s 145% tariffs could KO tabletop game makers, other small biz, lawsuit claims
-
-date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
-
-<h4>One eight-person publisher says it&#39;ll be forced to pay $1.5M</h4> <p><strong>WORLD WAR FEE</strong>  The Trump administration&#39;s tariffs are famously raising the prices of high-ticket products with lots of chips, like iPhones and cars, but they&#39;re also hurting small businesses like game makers. In this case, we&#39;re not talking video games, but the old-fashioned kind you play at your kitchen table.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/26/game_makers_small_businesses_sue_tariffs/>
-
----
-
-## Build your own antisocial writing rig with DOS and a $2 USB key
-
-date: 2025-04-26, updated: 2025-04-28, from: The Register (UK I.T. News)
-
-<h4>Reg hack pines for simpler times, then tries to recapture them</h4> <p>Sometimes, the size and complexity of modern OSes – even the FOSS ones – is enough to make us miss the days when an entire bootable OS could fit in three files, when configuring a PC for production meant editing two plain-text files, which contained maybe a dozen lines each. DOS couldn&#39;t do very much, but the little it did was enough. From the early 1980s for a decade or two, much of the world ran on DOS. Then Windows 3 came along, which is arguably the point where the rot set in.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/26/dos_distraction_free_writing/>
-
----
-
-## UK bans game controller exports to Russia in bid to ground drone attacks
-
-date: 2025-04-26, updated: 2025-04-26, from: The Register (UK I.T. News)
-
-<h4>Moscow likely to respawn elsewhere</h4> <p>The British government is banning the export of video game controllers to Russia, claiming these can be repurposed for piloting drones on the frontline in Ukraine.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/26/uk_russia_controller_drone_attack/>
-
----
-
-## AI-driven 20-ft robots coming for construction workers' jobs
-
-date: 2025-04-26, updated: 2025-04-28, from: The Register (UK I.T. News)
-
-<h4>Er, are we sure we want to outsource the welding?</h4> <p><strong>Rise of the machines</strong>  Construction workers could soon find themselves laboring alongside 20-foot (6 meter) tall AI-powered autonomous robots capable of welding, carpentry, and 3D printing buildings. What could possibly go wrong?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/04/26/aipowered_robots_construction/>
-
----
-
-## Earth Science Showcase – Kids Art Collection
-
-date: 2025-04-26, from: NASA breaking news
-
-On April 16, 2025, the Earth Science Division at NASA&#8217;s Ames Research Center in Silicon Valley held an Earth Science Showcase to share its work with the center and their families. As part of this event, kids were invited to draw something they like about the Earth. These are their masterpieces. Sora U. Age 9. [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/science-research/earth-science/art-showcase/>
 

@@ -1,11 +1,491 @@
 ---
 title: columns
-updated: 2025-05-03 14:07:43
+updated: 2025-05-04 06:07:39
 ---
 
 # columns
 
-(date: 2025-05-03 14:07:43)
+(date: 2025-05-04 06:07:39)
+
+---
+
+## Happy World Press Freedom Day
+
+date: 2025-05-04, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/happy-world-press-freedom-day>
+
+---
+
+## Sunday thought
+
+date: 2025-05-04, from: Robert Reich's blog
+
+President as abusive parent 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-e9c>
+
+---
+
+## May 3, 2025
+
+date: 2025-05-04, from: Heather Cox Richardson blog
+
+I had thought to post a picture tonight and then realized that today was the 151st running of the Kentucky Derby. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-3-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I needed butter reinforcements</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446566440217614>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Making myself a low carb snack</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446547139513084>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I collect discord servers like I collect bookmarks.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446370704122238>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Swift Concurrency has been a bumpy business</p><p>But yesterday, there I was, minding my own thread and wrote some code backed by my 30 years of experience and Swift was having none of it</p><p>Took me a moment to realize that the compiler was right, fixed the flaw and moved on with life</p><p>Nice progression: from wasting weeks tracking an obscure race condition that rarely ever happens, to fighting the compiler for half an hour, to accepting my role as a meat-based LLM that writes thread safe code</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446205671894351>
+
+---
+
+## 2025-05-01 Running the Alps
+
+date: 2025-05-03, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-01-running-the-alps">2025-05-01 Running the Alps</h1>
+
+<p>That is, running the Alps with a heart for plants! We arrived in the Vallais today and as soon as we had emptied our luggage we decided to go for a jogging-hike to the Cave du Sex (yeah, that’s the name! Or Cave du Scex. 😅) and we took some pictures on the way.</p>
+
+<p>Buchsblättriges Kreuzblümchen<br>
+Polygaloides chamaebuxus</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-1.jpg" alt="2025-05-01-run-the-alps-1.jpg" /></p>
+
+<p>Gewöhnliche Kugelblume<br>
+Globularia bisnagarica</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-2.jpg" alt="2025-05-01-run-the-alps-2.jpg" /></p>
+
+<p>Frühlings-Fingerkraut (Artengruppe)<br>
+Ptentilla verna agg.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-3.jpg" alt="2025-05-01-run-the-alps-3.jpg" /></p>
+
+<p>Leberblümchen<br>
+Hepatica nobilis</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-4.jpg" alt="2025-05-01-run-the-alps-4.jpg" /></p>
+
+<p>The ascent was soon too steep to run but beautiful as the sun began to set.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-5.jpg" alt="2025-05-01-run-the-alps-5.jpg" /></p>
+
+<p>Frühlings-Krokus<br>
+Crocus vernus</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-6.jpg" alt="2025-05-01-run-the-alps-6.jpg" /></p>
+
+<p>We are on the southern flanks of the mountains, so the mountains to the south still sunny while our side is being engulfed in shadows.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-7.jpg" alt="2025-05-01-run-the-alps-7.jpg" /></p>
+
+<p>Gefingerter Lerchensporn<br>
+Corydalis solida</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-8.jpg" alt="2025-05-01-run-the-alps-8.jpg" /></p>
+
+<p>Sump-Dotterblume<br>
+Caltha palustris</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-9.jpg" alt="2025-05-01-run-the-alps-9.jpg" /></p>
+
+<p>Südalpen-Lungenkraut<br>
+Pulmonaria australis</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-10.jpg" alt="2025-05-01-run-the-alps-10.jpg" /></p>
+
+<p>From the Cave du Sex we were running along the Bisse du Tsittoret towards Colombire.
+This an old waterway along the mountainside to transport water from one alp to the next.
+It has been restored for the tourists and it&rsquo;s super nice.
+Pretty nice for running, since it follows the gentle slope along the waster.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-11.jpg" alt="2025-05-01-run-the-alps-11.jpg" /></p>
+
+<p>Röhriger-Goldstern<br>
+Gagea fragifera</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-12.jpg" alt="2025-05-01-run-the-alps-12.jpg" /></p>
+
+<p>Gewöhnliche Pestwurz<br>
+Petasites hybridus</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-13.jpg" alt="2025-05-01-run-the-alps-13.jpg" /></p>
+
+<p>Zypressen-Wolfsmilch<br>
+Euphorbia cyparissias</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-14.jpg" alt="2025-05-01-run-the-alps-14.jpg" /></p>
+
+<p>Echte Bärentraube<br>
+Arctostaphylos uva ursi</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-15.jpg" alt="2025-05-01-run-the-alps-15.jpg" /></p>
+
+<p>Some sort of mushroom husks full of spores.</p>
+
+<p>Birnen-Stäubling<br>
+Apioperdon pyriforme</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-16.jpg" alt="2025-05-01-run-the-alps-16.jpg" /></p>
+
+<p>Alex and Claudia</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-17.jpg" alt="2025-05-01-run-the-alps-17.jpg" /></p>
+
+<p>Claudia</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-18.jpg" alt="2025-05-01-run-the-alps-18.jpg" /></p>
+
+<p>As always, flower identification with the help of Flora Incognita. The mushroom was identified by Seek (iNaturalist).</p>
+
+<p>And the next day, a hike further along Bisse Tsittoret.</p>
+
+<p>Frühlings-Enzian<br>
+Gentiana verna</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-19.jpg" alt="2025-05-01-run-the-alps-19.jpg" /></p>
+
+<p>Berg-Hahnenfuss (Artengruppe)<br>
+Ranunculus montanus agg.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-20.jpg" alt="2025-05-01-run-the-alps-20.jpg" /></p>
+
+<p>The bisse was beautiful. So nice to be hiking along a murmuring water. And always slightly downhill.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-21.jpg" alt="2025-05-01-run-the-alps-21.jpg" /></p>
+
+<p>The communities invested in nice wooden benches. I like it!</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-22.jpg" alt="2025-05-01-run-the-alps-22.jpg" /></p>
+
+<p>The bisse empties into a wild mountain river. A few meters downhill there&rsquo;s a new beginning but the sluice gate was closed. As it turns out, the bisse got replenished quickly from new rivulets joining from the mountain.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-23.jpg" alt="2025-05-01-run-the-alps-23.jpg" /></p>
+
+<p>This is La Signèse, according to Open Street Map (OSM). I also saw it called Boverèche. OSM claims that&rsquo;s the name of the road. Oh well. There&rsquo;s a nice view point, there.</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-24.jpg" alt="2025-05-01-run-the-alps-24.jpg" /></p>
+
+<p>Alpen-Gänsekresse (Artengruppe)<br>
+Arabis alpina agg.</p>
+
+<p>(plus bumblebee 😍)</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-25.jpg" alt="2025-05-01-run-the-alps-25.jpg" /></p>
+
+<p>Roter Holunder<br>
+Sambucus racemosa</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-26.jpg" alt="2025-05-01-run-the-alps-26.jpg" /></p>
+
+<p>Pfeilkresse<br>
+Lepidium draba</p>
+
+<p><img loading="lazy" src="2025-05-01-run-the-alps-27.jpg" alt="2025-05-01-run-the-alps-27.jpg" /></p>
+
+<p>Plant identification mostly done by Flora Incognita (<a class="account" href="https://wisskomm.social/@FloraIncognita_DE" title="@FloraIncognita_DE@wisskomm.social">@FloraIncognita_DE</a>) but for the mushroom I fell back to Seek by iNaturalist. What I love about Flora Incognita is that I can follow links to all sorts of reference works, including Wikipedia. Seek, on the other, has nothing. No longer explanation, no link to Wikipedia. Truly, a lost opportunity.</p>
+
+<p><a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-01-run-the-alps>
+
+---
+
+## 2025-04-27 Structural navigation
+
+date: 2025-05-03, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-27-structural-navigation">2025-04-27 Structural navigation</h1>
+
+<p>Sometimes my mind goes back to text editing and text editors. I have a love/hate relationship with ed(1). I kind of like the deliberate mindset I need to bring. But I also don’t like to think in terms of lines. Maybe if each sentence is a line, that’s better. But I often think about better semantic addressing.</p>
+
+<p>Example: <code>p</code> prints a range of line(s) is the standard. What I would also like is &ldquo;print a range of paragraph&rdquo;, &ldquo;print a range of sentences&rdquo;, &ldquo;print a range of words&rdquo;. There&rsquo;s a hierarchy, here. So once there&rsquo;s a &ldquo;current&rdquo; paragraph, you can list its sentences or its words. My hope is that this is more useful than working on lines.</p>
+
+<p>I’m still struggling to invent a command language, however. “Print paragraph. Next. Next. Number sentences. Third sentence. Replace this with that. Print paragraph.” I think this how I would work? “Last paragraph. Insert paragraph. Start typing.” Would that be <code>p p n 3s /this/that/ p</code> and <code>par $ i …</code> Effectively, <code>p</code> switches to paragraphs and prints them, and moves to the next one if used without a range. <code>n</code> numbers the items one level down. In this case, with a paragraph selected, <code>n</code> numbers the sentences. <code>s</code> switches to sentences and prints them. I&rsquo;m not sure about the search &amp; replace command. Is that also <code>s</code>?</p>
+
+<p>Should the data be kept in a tree? Should reading the text involve a real parser that delivers a sort of abstract syntax tree and names the nodes which automatically turn into commands?</p>
+
+<p>And then: should this be written in Perl? 😍</p>
+
+<p><a class="account" href="https://mastodon.acm.org/@mxp" title="@mxp@mastodon.acm.org">@mxp</a> said he had written «an Emacs interface to a syntactic parser», but I&rsquo;m not sure this is what I&rsquo;m looking for. A natural language parser (NLP) is maybe not what I&rsquo;m looking for. I suspect it would help avoid grammar mistakes, which makes sense to me. But is it what need as I write?</p>
+
+<p>He then pointed me at Engelbart&rsquo;s <a href="https://doi.org/10.1145/1476589.1476645">A research center for augmenting human intellect</a>. There, we find <a href="https://communitywiki.org/wiki/PurpleNumbers">purple numbers</a>:</p>
+
+<blockquote>
+<p>The principal manifestation of this hierarchical structure is the breaking up of text into arbitrary segments called &ldquo;statements,&rdquo; each of which bears a number showing its serial location in the text and its &ldquo;level&rdquo; in an &ldquo;outline&rdquo; of the text.</p>
+</blockquote>
+
+<p>I&rsquo;m not sure about the use of an outline. Many people seem to like outlines, but for me an outline as a writing tool is weird. I never start with an outline, except for cases where I know I need to follow a structure and even then the structure is usually trivial: Introduction, Materials and Methods, Results, Discussion, References, or something along these lines. A bunch of headings is all I need. Do I need an outline view? I agree that showing all the headings is important to navigate any non-trivial text document when you&rsquo;re reading and working with it. But if I focus on writing, the outline doesn&rsquo;t seem too important. It&rsquo;s too far &ldquo;up&rdquo; in the structure, for me.</p>
+
+<p><a class="account" href="https://mastodon.acm.org/@CerstinMahlow" title="@CerstinMahlow@mastodon.acm.org">@CerstinMahlow</a> wrote a position paper: <a href="https://doi.org/10.48550/arXiv.2303.17894">Writing Tools: Looking Back to Look Ahead</a> where she argues that «new writing tools should be inspired by &ldquo;failed&rdquo; projects from the 1970s and 1980s» and discusses the current state of affairs:</p>
+
+<blockquote>
+<p>One type of functionality that Mahlow and Piotrowski suggest are information functions that use NLP techniques to highlight certain aspects of the evolving text, commonly referred to as “syntax highlighting.” Since 2013, iA Writer has offered such a feature in a commercial product to specifically highlight nouns, verbs, adjectives, etc., advertising it as “using parts of speech to improve your writing” and explicitly stating that writers deserve the same professional support as programmers.</p>
+</blockquote>
+
+<p>This goes in a different direction, &ldquo;down&rdquo; to the grammar roles of words. Nouns, verbs, adjectives, adverbs. The problem is that when I write, I hardly ever worry about a particular verb. I never want to navigate to the accusative object of this sentence or focus on the subject. This is a very detailed view that I don&rsquo;t care about.</p>
+
+<p>The question is: What do I care about? Moving sentences around. Starting sentences between some other sentences and then realizing that I started at the wrong place and moving that fragments around. I think what I need is a prototype editor that I can start using and where I can easily add and remove functionality. And I&rsquo;m not sure that Emacs is the correct environment because there is so damn much to distract me.</p>
+
+<p><a class="tag" href="/search/?q=%23Editors">#Editors</a></p>
+
+<p><strong>2025-05-03</strong>. I wrote a little Perl script called <code>scr</code> that opens a bunch of files and allows me to navigate using p for paragraph, s for sentence and w for word. Typing the letter with an optional range:</p>
+
+<ul>
+<li>p prints the current paragraph, one sentence per line</li>
+<li>s prints the current sentence</li>
+<li>w prints the current word</li>
+</ul>
+
+<p>Use an address prefix like ed:</p>
+
+<ul>
+<li>a number prints the element with that number (currently zero indexed because I was lazy)</li>
+<li>$ prints the last element (the first one is 0 but the last one requires counting)</li>
+<li>plus and a number or minus and a number prints the element relative the current one (so +1p prints the next paragraph)</li>
+</ul>
+
+<p>Use address prefixes like ed:</p>
+
+<ul>
+<li>two such numbers separated by a comma prints the range (so 0,2s prints the first three sentences)</li>
+<li>if you use a comma but just one number the other number is replaced by the current address (so ,+2w prints the current word and the next two)</li>
+<li>if you use just the comma, this prints all the elements (so ,p is the same as 0,$p and prints the whole file)</li>
+</ul>
+
+<p>Currently whitespace is not significant:</p>
+
+<ul>
+<li>multiple whitespace characters collapse</li>
+<li>leading and trailing whitespace disappears</li>
+</ul>
+
+<p>Example, based on <a href="Warfare">Warfare</a>:</p>
+
+<pre style="white-space: pre-wrap">
+alex@subterraneobombus ~> scr Documents/Homepage/Warfare.md
+Read Documents/Homepage/Warfare.md
+
+<u>0 :</u> p
+# Warfare
+
+<u>0 0:</u> 1p
+Im Telepolis Artikel _Der Krieg wird zum Terroranschlag_ [¹](http://www.heise.de/tp/deutsch/special/irak/15069/1.html) steht, was mich auch schon im Fall von [Israel](Israel) graust: Auf blossen Verdacht hin werden Leute erschossen.
+Kein Gericht.
+Keine Verteidigung.
+Ein Geheimdiensturteil, und schon wird ein Auto beschossen, um irgendeinen Anführer zu töten.
+Dabei sterben Leibwächtern, Unbeteiligte, und wohlmöglich noch eine Frau oder ein Kind.
+Sowas kennt man aus Israel.
+Im Iraq ist man nun eine Stufe weiter.
+Man bombardiert Luxuslimousinen (die sicher irgendeinem Schuft gehören – aber haben er und _alle_ Insassen wirklich die Todesstrafe verdient?
+Gehört die nicht vielmehr abgeschafft?) – und nachher ist nicht mal klar, wenn man überhaupt _versucht_ hat zu töten.
+Unfassbar.
+
+<u>0 1:</u> 2s
+Keine Verteidigung.
+
+<u>0 1 2:</u> 0w
+Keine
+
+<u>0 1 2 0:</u> q
+</pre>
+
+<p>The prompt current prints file number, paragraph number, sentence number, word number.</p>
+
+<p>The example also shows problems handling parentheticals (or quote).</p>
+
+<p>I think before I can move on to insert or append operations, I need to further investigate navigation and selection. I&rsquo;d like to remember context, so 1p p should print paragraph number one and then the next one without me having to type +1p. Perhaps we can use a period for the current one. So .p prints the current paragraph again.</p>
+
+<p>I also think that a paragraph print should forget the sentence and word position. That currently doesn&rsquo;t happen.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-27-structural-navigation>
+
+---
+
+## May 2, 2025
+
+date: 2025-05-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162774545/9c868ebe07d3937652513c2260364df2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162774545/9c868ebe07d3937652513c2260364df2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-2-2025-bbd>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I enjoyed this piece I found on hacker news:</p><p><a href="https://250bpm.substack.com/p/accountability-sinks" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">250bpm.substack.com/p/accounta</span><span class="invisible">bility-sinks</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114445222466711302>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+The <a href="https://en.wikipedia.org/wiki/Detroit_Pistons">Detroit Psssstons</a> were truly great in the first round of the playoffs. And I was really gratified, ecstatic even, to see the Timberwolves give the Lakers a complete <a href="https://www.npr.org/2010/11/04/131075640/how-shellacking-came-to-mean-defeat">shellacking</a>. I am so fed up with LeBron James. I can't imagine another team would want him. I can't imagine why he wants to win <i>another</i> freaking title. And I was really pissed off when people started saying they were contenders this year. Bull. Shit. And the reason I'm glad it was the Timberwolves is because <a href="https://en.wikipedia.org/wiki/Julius_Randle">Julius Randle</a> is on that team now, and I hear he gets a fair amount of credit for their victory. The Knicks traded him for <a href="https://en.wikipedia.org/wiki/Karl-Anthony_Towns">KAT</a> last summer. They're a solid team. And while <a href="https://en.wikipedia.org/wiki/Donte_DiVincenzo">Donte DiVincenzo</a> isn't playing very well, we really need him back in NY, so maybe the Knicks can figure out a deal that makes sense. And why aren't the Knicks playing <a href="https://en.wikipedia.org/wiki/Precious_Achiuwa">Precious Achiuwa</a>. He did great last year when <a href="https://en.wikipedia.org/wiki/OG_Anunoby">OG</a> was injured. The Knicks have a good bench imho, they just don't get to play enough to be warmed up properly. So sad the way <a href="https://en.wikipedia.org/wiki/Miles_McBride">Doooooce</a> performed in the Detroit series. Anyway it was exhausting. I would have been okay with the DP's winning, seriously -- I'm ready for baseball. And I don't imagine the next series, with the Celtics will be any kind of a walk in the park. 
+
+<br> 
+
+<http://scripting.com/2025/05/03.html#a172021>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+Sometimes I think the Trumps are competing to kill the most humans. 
+
+<br> 
+
+<http://scripting.com/2025/05/03.html#a171739>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/03/rabbit.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today I spent (or wasted) hours trying to get my WebSockets code working properly with <a href="https://daytona.scripting.com/search?q=Caddy">Caddy</a>. Hours with ChatGPT, realizing it has a long way to go before it can manage code like I can. It gets fixated on an approach and never takes a step back to think maybe we're going about this the wrong way. It's extremely annoying all the times it tries to take you off track, and it works, it does take you down <a href="https://en.wikipedia.org/wiki/Down_the_rabbit_hole">rabbit holes</a> and then you realize it's only getting worse. The key is to not let it do that, but it's hard not to <a href="https://en.wikipedia.org/wiki/Anthropomorphism">anthropomorphize</a> so you don't want to hurt its feelings. In order to not be murdered as a small child you have to learn manners. And the bots push that too far. Really do take advantage. Still it knows far more than I do about everything, so if I could only get it to just shut the f up already and let me think! For something so capable it really doesn't spend enough time thinking, it's fully preoccupied with <i>doing.</i> 
+
+<br> 
+
+<http://scripting.com/2025/05/03.html#a171110>
+
+---
+
+## Ural Notes Part 7: This is Ural Life...
+
+date: 2025-05-03, updated: 2025-05-03, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/05/03/ural-notes-part-7-this-is-ural-life/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>One week in the second run, six days in review.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114444274889620287>
+
+---
+
+## On becoming living history
+
+date: 2025-05-03, from: Liam on Linux
+
+<p>It is one of the oddest things in computing that stuff to me, as a  big kid of heading for 60 years old but who still feels quite young and  enjoys learning and exploring, that the early history of Linux &ndash; a  development that came along mid-career for me &ndash; and indeed Unix, which  was taking shape when I was a child, is mysterious lost ancient history  now to those working in the field.</p> <p>It&rsquo;s not that long ago. It&rsquo;s well within living memory for lots of us <em>who are still working with it in full time employment.</em> Want to know why this command has that weird switch? Then go look up who wrote it and <em>ask him</em>. (And sadly yes there&rsquo;s a good chance it&rsquo;s a &ldquo;him&rdquo;.)</p> <p>Want to know why Windows command switches are one symbol and Unix  ones another? Go look at the OSes the guys who wrote them ran before.  They are a 2min Google away and emulators are FOSS. Just try them and  you can see what they learned from.</p> <p>This stuff isn&rsquo;t hieroglyphics. It&rsquo;s not carved on the walls of tombs deep underground.</p> <p>The reason that we have Snap and Flatpak and AppImage and macOS <code>.app</code> is all stuff that happened since I started my first job. I was there. So were thousands of others. I watched it take shape.</p> <p>But now, I write about how and why and I get shouted at by people who weren&rsquo;t even born yet. It&rsquo;s very odd.</p> <p>To me it looks like a lot of people spend thousands of  developer-hours flailing away trying to rewrite stuff that I deployed in  production in my 30s and they have no idea how it&rsquo;s supposed to work or  what they&rsquo;re trying to do. They&rsquo;re failing to copy a bad copy of a poor  imitation.</p> <p>Want to know how KDE 6 should have been? Run Windows 95 in VirtualBox  and see how the original worked! But no, instead, the team flops and  flails adding 86 more wheels to a bicycle and then they wonder why  people choose a poor-quality knock-off of a 2007 iPhone designed by  people who don&rsquo;t know why the iPhone works like that.</p> I am, for clarity, talking about GNOME &gt;3. And the iPhone runs a  cut down version of Mac OS X Tiger&rsquo;s &ldquo;Dashboard&rdquo; as its main UI.&nbsp;<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=95105" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/95105.html>
+
+---
+
+## Where will we go from here? | The Coffee Klatch for May 3, 2025
+
+date: 2025-05-03, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162728573/ed6f9479118eb9044bbf9ceeed82ecfb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162728573/ed6f9479118eb9044bbf9ceeed82ecfb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/where-will-we-go-from-here-the-coffee>
+
+---
+
+## May 2, 2025 
+
+date: 2025-05-03, from: Heather Cox Richardson blog
+
+Yesterday I identified incorrectly the messaging app newly fired national security advisor Michael Waltz was using at a Cabinet meeting on Wednesday as the unsecure Signal app. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-2-2025>
+
+---
+
+## Weeknotes: April 26 – May 2, 2025
+
+date: 2025-05-03, from: Tracy Durnell Blog
+
+Highlight of the week: took a stroll around the block on a sunny afternoon and the whole neighborhood smelled of flowers Looking forward to: finding out how many of our apple blossoms got pollinated 😃 (Heard the ice cream truck for the first time of the year 🍦 &#8212; a cute tiny vintage jeep &#8212; though we [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/02/weeknotes-april-26-may-2-2025/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+Spent the day in NYC, had an idea and it was a gorgeous day, and I decided to be impulsive. See you back here tomorrow, Murphy-willing. 
+
+<br> 
+
+<http://scripting.com/2025/05/02.html#a011110>
 
 ---
 
@@ -447,114 +927,6 @@ date: 2025-05-01, updated: 2025-05-01, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/05/0046759-a-recent-survey-shows-a>
-
----
-
-## 2025-05-01 Running the Alps
-
-date: 2025-05-01, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-01-running-the-alps">2025-05-01 Running the Alps</h1>
-
-<p>That is, running the Alps with a heart for plants! We arrived in the Vallais today and as soon as we had emptied our luggage we decided to go for a jogging-hike to the Cave du Sex (yeah, that’s the name!) and we took some pictures on the way.</p>
-
-<p>Buchsblättriges Kreuzblümchen<br>
-Polygaloides chamaebuxus</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-1.jpg" alt="2025-05-01-run-the-alps-1.jpg" /></p>
-
-<p>Gewöhnliche Kugelblume<br>
-Globularia bisnagarica</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-2.jpg" alt="2025-05-01-run-the-alps-2.jpg" /></p>
-
-<p>Frühlings-Fingerkraut (Artengruppe)<br>
-Ptentilla verna agg.</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-3.jpg" alt="2025-05-01-run-the-alps-3.jpg" /></p>
-
-<p>Leberblümchen<br>
-Hepatica nobilis</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-4.jpg" alt="2025-05-01-run-the-alps-4.jpg" /></p>
-
-<p>The ascent was soon too steep to run but beautiful as the sun began to set.</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-5.jpg" alt="2025-05-01-run-the-alps-5.jpg" /></p>
-
-<p>Frühlings-Krokus<br>
-Crocus vernus</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-6.jpg" alt="2025-05-01-run-the-alps-6.jpg" /></p>
-
-<p>We are on the southern flanks of the mountains, so the mountains to the south still sunny while our side is being engulfed in shadows.</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-7.jpg" alt="2025-05-01-run-the-alps-7.jpg" /></p>
-
-<p>Gefingerter Lerchensporn<br>
-Corydalis solida</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-8.jpg" alt="2025-05-01-run-the-alps-8.jpg" /></p>
-
-<p>Sump-Dotterblume<br>
-Caltha palustris</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-9.jpg" alt="2025-05-01-run-the-alps-9.jpg" /></p>
-
-<p>Südalpen-Lungenkraut<br>
-Pulmonaria australis</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-10.jpg" alt="2025-05-01-run-the-alps-10.jpg" /></p>
-
-<p>From the Cave du Sex we were running along the Bisse du Tsittoret towards Colombire.
-This an old waterway along the mountainside to transport water from one alp to the next.
-It has been restored for the tourists and it&rsquo;s super nice.
-Pretty nice for running, since it follows the gentle slope along the waster.</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-11.jpg" alt="2025-05-01-run-the-alps-11.jpg" /></p>
-
-<p>Röhriger-Goldstern<br>
-Gagea fragifera</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-12.jpg" alt="2025-05-01-run-the-alps-12.jpg" /></p>
-
-<p>Gewöhnliche Pestwurz<br>
-Petasites hybridus</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-13.jpg" alt="2025-05-01-run-the-alps-13.jpg" /></p>
-
-<p>Zypressen-Wolfsmilch<br>
-Euphorbia cyparissias</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-14.jpg" alt="2025-05-01-run-the-alps-14.jpg" /></p>
-
-<p>Echte Bärentraube<br>
-Arctostaphylos uva ursi</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-15.jpg" alt="2025-05-01-run-the-alps-15.jpg" /></p>
-
-<p>Some sort of mushroom husks full of spores.</p>
-
-<p>Birnen-Stäubling<br>
-Apioperdon pyriforme</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-16.jpg" alt="2025-05-01-run-the-alps-16.jpg" /></p>
-
-<p>Alex and Claudia</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-17.jpg" alt="2025-05-01-run-the-alps-17.jpg" /></p>
-
-<p>Claudia</p>
-
-<p><img loading="lazy" src="2025-05-01-run-the-alps-18.jpg" alt="2025-05-01-run-the-alps-18.jpg" /></p>
-
-<p>As always, flower identification with the help of Flora Incognita. The mushroom was identified by Seek (iNaturalist).</p>
-
-<p><a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-01-run-the-alps>
 
 ---
 
@@ -2683,311 +3055,4 @@ I am writing this  on my BQ Aquaris M10 tablet (one  of the few devices shipped 
 <br> 
 
 <http://jirka.1-2-8.net/20250427-0445_UBports_OTA_12_update>
-
----
-
-## Non-Prepper emergency preparedness
-
-date: 2025-04-26, from: Tracy Durnell Blog
-
-So much crazy survival stuff out there, it&#8217;s hard to find good resources for &#8220;prepare for a three day power outage&#8221; which was a real situation we had last year, versus &#8220;be ready for the collapse of society!!!1! (and buy this meal ration bar I sell!)&#8221; r/TwoXPreppers &#8211; women focused preparedness (LGBTQIA friendly) Get Yourself [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/04/26/non-prepper-emergency-preparedness/>
-
----
-
-## Alexis Herman, 1947-2025
-
-date: 2025-04-26, from: Robert Reich's blog
-
-Friends, 
-
-<br> 
-
-<https://robertreich.substack.com/p/alexis-herman-1947-2025>
-
----
-
-## Email to King County re: advertising on its website
-
-date: 2025-04-26, from: Tracy Durnell Blog
-
-Hello, I was unpleasantly surprised and disappointed to see advertisements on the King County Assessor’s eReal Property website and wanted to provide feedback on your pilot program, as requested. We are all constantly bombarded with advertising out in the world, on our media, and online; must we truly suffer advertising while accessing government services too? [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/04/26/email-to-king-county-re-advertising-on-its-website/>
-
----
-
-## Country folk in Harvard Square
-
-date: 2025-04-26, from: Dave Winer's Scripting News
-
-<p>I asked ChatGPT for an "imaginary image of Harvard Square with middle-class people from red states visiting in their trucks and country mannerisms."</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/26/countryFolkInHarvardSquare.png"></center>Red state country folk in Harvard Square.</div></p>
- 
-
-<br> 
-
-<http://scripting.com/2025/04/26/212536.html?title=countryFolkInHarvardSquare>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-04-26, from: Miguel de Icaza Mastondon feed)
-
-<p>I have been too busy with Xogot to devote attention to my library to embed Godot into your SwiftUI apps.</p><p>This past week, I worked to clean up the various branches, the CI and the packaging to fix this.</p><p>I have been promising this work for months, but I had been too busy on Xogot.</p><p>We now have a clean slate:</p><p><a href="https://github.com/migueldeicaza/SwiftGodot/discussions/699" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Godot/discussions/699</span></a></p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114406035193681119>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-04-26, from: Dave Winer's Scripting News)
-
-What if, before we transfer human awareness into computers, we discover proof of reincarnation. What then? 
-
-<br> 
-
-<http://scripting.com/2025/04/26.html#a192139>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-04-26, from: Miguel de Icaza Mastondon feed)
-
-<p>After 60 hours I rejected, and submitted a new build with a couple of extra crash fixes as this seems to happen from time to time.</p><p>My submission went in at 5pm yesterday, I imagine it won’t get picked up until Monday.</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114404807377613568>
-
----
-
-##  This Five-Hundred-Word Bumper Sticker on My Tesla Explains Why I&#8217;m Not a... 
-
-date: 2025-04-26, updated: 2025-04-26, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/04/0046718-this-five-hundred-word-bu>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-04-26, from: Dave Winer's Scripting News)
-
-If <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lnojmezh5k2p">Bluesky</a> really wanted to decentralize and do it quickly, they could build a layer out of RSS and OPML on top of what they have and not only would they be able interop with other Bluesky-like services but they could also interop with Mastodon and it could all be done in a matter of weeks. 
-
-<br> 
-
-<http://scripting.com/2025/04/26.html#a141600>
-
----
-
-## Why is AWS breaking Node devs?
-
-date: 2025-04-26, from: Dave Winer's Scripting News
-
-<p>I have been getting warnings on all my Node.js code that uses AWS api's that come September they're all going to break. </p>
-<p>I'm working on my mail list stuff this week, trying to get the HTML to work for a lot more people than it was working for, and it's a very depressing process, but I did the work, but I don't plan on looking at this again for another five years, if then. </p>
-<p>But lurking in the background is the threat by AWS, and I consider a threat, that if I don't rewrite my code in a non-insignificant way, before September, it's all going to just stop working. I took the time the other day to actually look at what's involved, and I see that they changed/broke their API to use <a href="https://www.w3schools.com/js/js_promise.asp">promises</a>. Great. Another stupid exercise in fealty. </p>
-<p>I think they're going to regret doing this, because I don't have the time to go so deep in the bowels of pretty much my entire codebase, and potentially break everything, and then have to debug it, when I have so many other things to do, and I'm getting older, and I just don't have the energy to devote to make-work for Amazon. The arrogance of it, and how diseconomic it is. </p>
-<p>They never promised they <i>wouldn't</i> break all their developers, but geez who would've thought they <i>wanted</i> to? </p>
-<p>I don't think they're actually going to be able to flip the switch. </p>
-<p>I'd love to hear <a href="https://github.com/scripting/s3/issues/1">what other developers think</a>.</p>
-<p>PS: Amazon APIs are the worst, so over-complicated, you have to understand everything before you can do anything. But once they work, they keep working. That's the only reason people put up with it. I've switched almost everything but S3 and SES to Digital Ocean because their docs and example code are great and they seem about the same price as Amazon, but my time is all I have, and Amazon doesn't use it well and ultimately that's going to hurt their business, and it seems September is when the shit is going to hit the fan for many, definitely for me.</p>
-<p>PPS: This is different from the breakage that came in the Twitter API when Musk took over. No one was paying anything for this. But I pay a lot for AWS, more every month, as my storage costs go up. I think someone in AWS in a position to make big decisions has no clear idea where the costs are for their customers or they wouldn't do this. Imagine a company of gas stations deciding to change the shape of all the nozzles on their gas pumps in September. "We gave you plenty of times to adapt!" they might say. Yes, but -- as long as we have to change why not change to your competitor's service? The strangeness of their APIs is their lockin. I don't think they have factored that into their plans.</p>
- 
-
-<br> 
-
-<http://scripting.com/2025/04/26/135335.html?title=whyIsAwsBreakingNodeDevs>
-
----
-
-## No, and...
-
-date: 2025-04-26, from: Dave Winer's Scripting News
-
-<p>If I was president of Harvard, I'd be thinking about what's next after the Trump government has tried to destroy the university and we said no. If we have to do without the government money, that's okay because we wouldn't be Harvard if we allowed the government to run the university. That goes for any government, but especially for this one.  </p>
-<p>It goes beyond saying No. </p>
-<p>It's no and..</p>
-<p>No and we're going to get by with less money and in the process do better work, provide more of a service to our students, community and our country. </p>
-<p>We're going to bring the country into Harvard and bring Harvard into the country. How did we get so far apart? </p>
-<p>Let's get by with less money, and in the process do better work.</p>
-<p>It seems that Harvard, along with all the universities in the US, has been tasked with re-establishing the First Amendment, and what it means to all of us. Let's trust that the people of our country know why the First Amendment is so important, regardless of who we voted for. Some of it leaked out when they interviewed random people in real time at the Trump assassination rally last summer. They all sounded like people who could be neighbors of mine, and they largely said what I would have said. It's okay if you don't agree with someone, but for crying out loud, don't shoot them for it. Yeah. That was a real eye-opener for me, when TV didn't have a chance to choose only the most extreme ugly Trump supporters, we found out that they are Americans, like us. A lot of the news <i>is</i> fake, designed to make us angry and depressed, because that's what gets us to come back every night. </p>
-<p>So Harvard, the ultimate elite institution, if it can connect with that, maybe the everyday non-elite American will listen now that the Trumps have done such an outlandish thing in trying to destroy Harvard, maybe we can change the role that Harvard and its peers play in the American politics and culture, and we can get a bit more science into our world, with the approval of the people. </p>
-<p>Maybe this was the way Harvard contributed to the problem, by feeling above the average person. This is very real and inescapable. But many of us came from middle-class or even refugee families (like my own) and we haven't forgotten where we came from. If there's a disconnect, it's not fair to blame one or the other. Each has the power to reconnect. Let's take this chance to get together and help each other, across all the divides.</p>
-<p>The Trump focus on Harvard may be the greatest gift, if Harvard chooses to view it that way.</p>
-<p>PS: I was a research fellow at Harvard for two years in the early 00s. I found the university was very receptive and supportive of these ideas then, esp in regard to the web, where we pioneered many of the things people take for granted now. </p>
-<p>PPS: This is a bit like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a>. Let the Trumps pick their fights more carefully.</p>
-<p>PPPS: Think about where Apple was in 1997, the bottom had dropped out. Ten years later they shipped the iPhone. That kind of transition could happen for Harvard and the intellect of America, which seems to (hopefully) be at a bottom.</p>
- 
-
-<br> 
-
-<http://scripting.com/2025/04/26/131141.html?title=noAnd>
-
----
-
-## Build your own antisocial writing rig with DOS and a $2 USB key
-
-date: 2025-04-26, updated: 2025-04-26, from: Liam Proven's articles at the Register
-
-<h4>Reg hack pines for simpler times, then tries to recapture them</h4>
-      <p>Sometimes, the size and complexity of modern OSes – even the FOSS ones – is enough to make us miss the days when an entire bootable OS could fit in three files, when configuring a PC for production meant editing two plain-text files, which contained maybe a dozen lines each. DOS couldn&#39;t do very much, but the little it did was enough. From the early 1980s for a decade or two, much of the world ran on DOS. Then Windows 3 came along, which is arguably the point where the rot set in.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/26/dos_distraction_free_writing/>
-
----
-
-## Trump's First 100-Day Sh*tstorm | The Coffee Klatch for April 26, 2025
-
-date: 2025-04-26, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162163651/14d0cee54aa33b7a724eeeac17116e2c.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/162163651/14d0cee54aa33b7a724eeeac17116e2c.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-first-100-day-shtstorm-the-coffee>
-
----
-
-## April 25, 2025 
-
-date: 2025-04-26, from: Heather Cox Richardson blog
-
-Today&#8217;s major stories must be seen in the context of President Donald Trump&#8217;s dramatic losses in court and his plummeting poll numbers. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/april-25-2025>
-
----
-
-## Online Sneaker Shops
-
-date: 2025-04-26, from: Tracy Durnell Blog
-
-I&#8217;m looking for an alternative to AllBirds for a daily wear comfy slip-on sneaker &#8212; apparently the company moved their manufacturing and redesigned their original shoe so I can&#8217;t get a replacement for my old favs (tried buying the current version and it sucked). Rounded up some suggestions from Reddit: SeaVees &#8212; Womens Acorn Trainer [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/04/25/online-sneaker-shops/>
-
----
-
-## Weeknotes: April 19-25, 2025
-
-date: 2025-04-26, from: Tracy Durnell Blog
-
-Win of the week: 😀 I got drawn in a statewide ebike rebate! Err, guess I need to decide if I actually want to shell out for an ebike now&#8230; I test-rode a couple ebikes before the pandemic and didn&#8217;t love starting from a stop with the throttle, but I&#8217;d probably get used to it [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/04/25/weeknotes-april-19-25-2025/>
-
----
-
-## lynx --nocolor
-
-date: 2025-04-26, from: Jirka's blog
-
-I really dislike how the Lynx WWW browser looks on some modern systems. On my  SGI it  was OK -  it simply respected  IRIS terminal  colors. On modern systems in seems to be full of colors with gray background. Text colors are quite  nice but I have disliked the  gray background. I have wished to have or black one  or transparent one (it a terminal emulator supports transparency). 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_lynx_nocolor>
-
----
-
-## iMac G5 keyboard
-
-date: 2025-04-26, from: Jirka's blog
-
-Today  my  wife  requested  new  keyboard. I  thought  that  the  Apple white-transparent keyboard is too inferior  to her IBM laptop keyboard. Well, it is. So I have replaced it by spare HP one. A HP keyboard which was a part of the PA-RISC Visualize workstation (the workstation itself does not work, unfortunately). And she is happy with it. 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_iMac_G5_keyboard>
-
----
-
-## Working from home
-
-date: 2025-04-26, from: Jirka's blog
-
-And this is my main tool: 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_Working_from_home>
-
----
-
-## Workflow: Changes and additions
-
-date: 2025-04-26, from: Jirka's blog
-
-Things are continuously  developing or at least  changing. For example, my  gVim on  my GPD  Pocket (Ubuntu  MATE 18.04)  has issues  with text encoding.  If  I  create a  new  file  then  I  everything is  OK.  But when  I  save  it  and  re-open it  then  it  en-codes  local  language characters incorrectly.  It is  strange because I  have been  using the same  .vimrc/.gvimrc for  ages on  several Linux  machines and  I never encountered such behaviour. 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_Workflow_Changes_and_additions>
-
----
-
-## UT Progress
-
-date: 2025-04-26, from: Jirka's blog
-
-I  might  noted  here  in  some   of  previous  posts  that  during  an unsuccessful update I  lost the OpenStore  {sup}1{/sup} application  on my Ubuntu Touch  {sup}2{/sup}. It was a problem because there is no CLI tool to install (or remove) packages on  the Ubuntu Touch (that's an another  reason for me to dislike this table computing at all). 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_UT_Progress>
-
----
-
-## UBports OTA-12 update
-
-date: 2025-04-26, from: Jirka's blog
-
-I am writing this  on my BQ Aquaris M10 tablet (one  of the few devices shipped  with the  Ubuntu  Touch  pre-installed). The  community-driven Ubuntu Touch  effort  {sup}1{/sup} is  still a thing  and the recent  update (the OTA-12) is quite interesting. 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_UBports_OTA_12_update>
-
----
-
-## Tungsten W + PalmPix
-
-date: 2025-04-26, from: Jirka's blog
-
-As you may know I do have a Palm Tungsten W. And I als othave the KODAK PalmPix for m5xx  devices. So I have almost modern  smarphone (jsut 17 years old!) with the (detachable camera). 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_Tungsten_W_PalmPix>
-
----
-
-## TouchPad progress
-
-date: 2025-04-26, from: Jirka's blog
-
-I have decided to  update the Touchpad a bit. I think that  it can be a nice  portable  / secondary  machine  for  some situations.  Especially because I have a good (original) keyboard for it. 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250426-0445_TouchPad_progress>
 

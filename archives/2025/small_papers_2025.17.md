@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-05-03 14:07:48
+updated: 2025-05-04 06:07:45
 ---
 
 # small papers
 
-(date: 2025-05-03 14:07:48)
+(date: 2025-05-04 06:07:45)
+
+---
+
+## Sex abuse convictions upheld against ex-LBUSD teacher who preyed on students
+
+date: 2025-05-03, from: Long Beach Post
+
+<figure><img width="1024" height="815" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-300x239.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-768x611.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-136x108.jpg 136w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1536x1222.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1200x955.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1568x1247.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-400x318.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mark Anthony Santo, who taught at Lindbergh Middle School and Jordan High School, was seeking to overturn his prison sentence of 80 years to life.</p>
+<p>The post <a href="https://lbpost.com/news/crime/conviction-upheld-mark-santo-lbusd-teacher-appeal">Sex abuse convictions upheld against ex-LBUSD teacher who preyed on students</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/conviction-upheld-mark-santo-lbusd-teacher-appeal>
 
 ---
 

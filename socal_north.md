@@ -1,11 +1,196 @@
 ---
 title: socal north
-updated: 2025-05-03 14:07:40
+updated: 2025-05-04 06:07:36
 ---
 
 # socal north
 
-(date: 2025-05-03 14:07:40)
+(date: 2025-05-04 06:07:36)
+
+---
+
+## Long Beach port expects big drop in cargo volume, as 'pause' in China orders sinks in
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+"Less containers, less jobs on the docks, less jobs in the trucking sector," Mario Cordero, CEO of Port of Long Beach, told us. 
+
+<br> 
+
+<https://laist.com/news/port-of-long-beach-tariffs-cargo-volume-jobs>
+
+---
+
+## Meet Constantino, the county worker keeping Altadena free from ad 'blight'
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+Residents have teamed up with a public works veteran to rid the public right of way of signs after the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/eaton-fire-signs-solicitations-rebuild-advertising-altadena>
+
+---
+
+## It's a protest. It's a Star Wars hang. On May 4, it's both
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+May 4 is known to the fandom as "Star Wars Day." This Sunday, a protest in Irvine is asking participants to cosplay the classic sci-fi franchise, while exercising their 1st Amendment right. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/star-wars-protest-may-4>
+
+---
+
+## Sovereignty beats out favorite Journalism to win the Kentucky Derby
+
+date: 2025-05-04, updated: 2025-05-04, from: The LAist
+
+The victory hands Venezuelan jockey Junior Alvarado his first career win in the Kentucky Derby. Sovereignty's trainer, Bill Mott, has won the Kentucky Derby once before. 
+
+<br> 
+
+<https://laist.com/news/sovereignty-beats-out-favorite-journalism-to-win-the-kentucky-derby>
+
+---
+
+## The most exciting two minutes in sports is a show of 'Latino excellence'
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+Latinos, many from outside the U.S. mainland, have risen in prominence in horseracing, from the grooms to some of the winningest jockeys. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/the-most-exciting-two-minutes-in-sports-is-a-show-of-latino-excellence>
+
+---
+
+## Celebrating All Abilities at FestAbility
+
+date: 2025-05-03, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin The City of Santa Clarita is a strong community, where everyone is seen, heard and celebrated, and among the many groups that help make our City incredible is our special needs community. These residents, and their families, teach us what it means to be resilient, joyful and full of life. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/03/celebrating-all-abilities-at-festability/">Celebrating All Abilities at FestAbility</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/03/celebrating-all-abilities-at-festability/>
+
+---
+
+## Sex abuse convictions upheld against ex-LBUSD teacher who preyed on students
+
+date: 2025-05-03, from: Longbeach Post
+
+<figure><img width="1024" height="815" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-300x239.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-768x611.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-136x108.jpg 136w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1536x1222.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1200x955.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1568x1247.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-400x318.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mark Anthony Santo, who taught at Lindbergh Middle School and Jordan High School, was seeking to overturn his prison sentence of 80 years to life.</p>
+<p>The post <a href="https://lbpost.com/news/crime/conviction-upheld-mark-santo-lbusd-teacher-appeal">Sex abuse convictions upheld against ex-LBUSD teacher who preyed on students</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/conviction-upheld-mark-santo-lbusd-teacher-appeal>
+
+---
+
+## Trump budget would slash rental aid by 40% — and let states fill the gap if they want
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+The proposal would cut off rental subsidies after two years for able-bodied adults. Advocates warn if enacted, the White House plan would tip many low-income renters over the edge into homelessness. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/trump-budget-would-slash-rental-aid-by-40-and-let-states-fill-the-gap-if-they-want>
+
+---
+
+## The Trump administration says it will cut EPA staffing to Reagan-era levels
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+EPA announced plans to reorganize the agency, moving science-focused staff into different roles and reducing the overall number of employees. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/the-trump-administration-says-it-will-cut-epa-staffing-to-reagan-era-levels>
+
+---
+
+## Beyoncé fans are going all out for their 'Cowboy Carter' tour outfits
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+Beyonce's Cowboy Carter tour has officially kicked off. Some fans are going all out to capture the tour's Western fashion aesthetic. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/beyonce-fans-are-going-all-out-for-their-cowboy-carter-tour-outfits>
+
+---
+
+## Driverless trucks may be coming to California roads. Here's how to weigh in
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+State will allow companies to test heavy duty autonomous vehicles. 
+
+<br> 
+
+<https://laist.com/news/transportation/driverless-trucks-california-roads-dmv-rulemaking-autonomous>
+
+---
+
+## First free surgery center in the US opens in Orange County
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+The clinic will offer low-risk surgical care to low-income patients. 
+
+<br> 
+
+<https://laist.com/news/health/free-surgery-center-orange-county-first-clinic-insurance>
+
+---
+
+## Two farmhouse stars are skipping the LA County Fair this year
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+Neither cows nor chickens are allowed at fairs this year because of bird flu concerns. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/cows-chickens-banned-la-county-fair-2025>
+
+---
+
+## Go Fact Yourself quiz for May 3
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+Our celebrity panelists Alec Mapa and Amy Hill go head to head this week on their knowledge of the musical 'Gypsy' and the TV show 'The Real Housewives of Beverly Hills.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-may-3>
+
+---
+
+## LA County reveals plan to move youths out of troubled Los Padrinos Juvenile Hall
+
+date: 2025-05-03, updated: 2025-05-03, from: The LAist
+
+The filing meets a deadline set by a Superior Court Judge who called the situation at the Downey facility “untenable.” 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-probation-plan-los-padrinos-juvenile-hall>
 
 ---
 
@@ -1440,138 +1625,4 @@ For many gamers, this Eastside space is more than a place to play— it’s wher
 <br> 
 
 <https://laist.com/news/los-angeles-activities/bring-your-own-games-byo-games-east-la-los-angeles>
-
----
-
-## City attorney won't file charges against most Gaza protesters arrested at UCLA and USC
-
-date: 2025-04-26, updated: 2025-04-28, from: The LAist
-
-Only two people, among hundreds arrested, are facing misdemeanor charges after protests over the war in Gaza on Southern California college campuses. 
-
-<br> 
-
-<https://laist.com/news/most-people-arrested-in-ucla-and-uscs-encampment-protests-avoid-criminal-charges>
-
----
-
-## Building Community Through Parks and Capital Improvement Projects
-
-date: 2025-04-26, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin In Santa Clarita, we are proud of our thousands of acres of open spaces, miles of scenic trails and beautiful green parks that bring our community together. Parks aren’t just places to play – they’re spaces to connect, celebrate and create memories. Over the next few months, we’re excited to [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/04/26/building-community-through-parks-and-capital-improvement-projects/">Building Community Through Parks and Capital Improvement Projects</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/04/26/building-community-through-parks-and-capital-improvement-projects/>
-
----
-
-## Here are the best new albums out this week
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-NPR Music's Stephen Thompson welcomes Ayana Contreras of Denver public radio stations KUVO Jazz and The Drop to discuss today's top new releases. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/here-are-the-best-new-albums-out-this-week>
-
----
-
-## Five people arrested for allegedly defrauding FEMA after the LA fires
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-If convicted, arrestees could face up to 30 years in prison. 
-
-<br> 
-
-<https://laist.com/news/arrests-fema-claims-frauds>
-
----
-
-## With communities like Boyle Heights left in the dark, California moves to crack down on copper wire dealers and sellers
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-Proposed by Assemblymember Mark Gonzalez, AB 476 also seeks to revise penalties for offenders to better reflect the true cost to the public. 
-
-<br> 
-
-<https://laist.com/news/politics/with-communities-like-boyle-heights-left-in-the-dark-california-moves-to-crack-down-on-copper-wire-dealers-and-sellers>
-
----
-
-## What the Festival of Books means to its authors, as told by Pulitzer winner Héctor Tobar
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-Author and professor Héctor Tobar reflects on nearly three decades of work. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/la-times-festival-of-books-hector-tobar-percival-everett>
-
----
-
-## California is running out of license plate numbers. Here’s what comes next
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-Say goodbye to the 9ZZZ999 format. Sometime next year, California drivers will start receiving license plates with a reversed configuration. 
-
-<br> 
-
-<https://laist.com/news/transportation/california-dmv-department-motor-vehicles-license-plate-numbers-running-out>
-
----
-
-## Behind the West Coast’s most widely used early earthquake alert system
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-This is the story of ShakeAlert and how it works. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/behind-the-west-coasts-most-widely-used-early-earthquake-alert-system>
-
----
-
-## Go Fact Yourself quiz for April 26
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-Our celebrity panelists Josefina López and Bruce Vilanch go head to head this week on their knowledge of the musical 'Miss Saigon' and the SS Andrea Doria. Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-april-26>
-
----
-
-## Health officials confirm another measles case in LA
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-It’s the tenth California case this year and comes amid a widening U.S. outbreak. 
-
-<br> 
-
-<https://laist.com/news/health/measles-los-angeles-infections-texas-cdc-vaccine>
-
----
-
-## Angelenos vent outrage over mayor's budget, proposed staff and service cuts
-
-date: 2025-04-26, updated: 2025-04-26, from: The LAist
-
-Facing a nearly $1 billion dollar shortfall, Mayor Karen Bass has proposed 1,647 layoffs across departments, or about 5% of the city workforce. 
-
-<br> 
-
-<https://laist.com/news/politics/angelenos-vent-outrage-over-mayors-budget-proposed-staff-and-service-cuts>
 

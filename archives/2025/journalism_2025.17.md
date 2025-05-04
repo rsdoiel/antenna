@@ -1,11 +1,62 @@
 ---
 title: journalism
-updated: 2025-05-03 14:07:45
+updated: 2025-05-04 06:07:41
 ---
 
 # journalism
 
-(date: 2025-05-03 14:07:45)
+(date: 2025-05-04 06:07:41)
+
+---
+
+## UPTE-CWA 9119, AFSCME Local 3299 strike in response to UC system hiring freezes
+
+date: 2025-05-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two major UC unions struck on campus Thursday, limiting access to dining halls and cleaning services.
+The University Professional and Technical Employees-Communications Workers of America 9119 &#8211; which represents researchers and technical workers &#8211; and the American Federation of State, County and Municipal Employees Local 3299 &#8211; which represents service, patient care and skilled craft workers &#8211; called for the strike in response to the UC&#8217;s systemwide hiring freeze. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/03/upte-cwa-9119-afscme-local-3299-strike-in-response-to-uc-system-hiring-freezes/>
+
+---
+
+## UCLA dermatologist leads initiative to address disparities in LA health care
+
+date: 2025-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA dermatologist called for urgent reforms to the Los Angeles health care system at a presentation April 23.
+Dr. Reza Babapour, a dermatologist and clinical faculty member at the Harbor-UCLA Medical Center, spoke at the event, which was co-hosted by pre-health student organizations, including Community Medicine in LA, Iranian Medical Society, LA Health Volunteers and Bruins Public Health. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/03/ucla-dermatologist-leads-initiative-to-address-disparities-in-la-health-care/>
+
+---
+
+## Sheng Chang weaves authenticity, vulnerability into capstone EP ‘Feel It All’
+
+date: 2025-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sheng Chang is turning in her passion for music with her capstone project.
+A fourth-year music industry student, Chang will soon release a three-song EP titled &#8220;Feel It All.&#8221; Chang said she has been passionate about music since she was a child and added that the release of &#8220;Feel It All&#8221; represents a new stage in her artistic evolution. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/03/sheng-chang-weaves-authenticity-vulnerability-into-capstone-ep-feel-it-all/>
+
+---
+
+## Zodiac Astrology
+
+date: 2025-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/03/zodiac-astrology/>
 
 ---
 
@@ -1508,98 +1559,4 @@ date: 2025-04-27, from: The Canyon News (COC Student Newspaper)
 <br> 
 
 <https://canyonsnews.com/electronic-waste/>
-
----
-
-## Theater review: ‘Furlough’s Paradise’ embrace of intimacy through script, set design moves viewers
-
-date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
-
-Warning: spoilers ahead.
-&#8220;Furlough&#8217;s Paradise&#8221; reminds viewers &#8211; through the intimacy of the stage &#8211; to hold loved ones as tight as possible.
-After its world premiere at Atlanta&#8217;s Alliance Theatre in 2024, &#8220;Furlough&#8217;s Paradise&#8221; has found its newest home at Geffen Playhouse&#8217;s Gil Cates Theater, where it will run until May 18. 
-
-<br> 
-
-<https://dailybruin.com/2025/04/26/theater-review-furloughs-paradise-embrace-of-intimacy-through-script-set-design-moves-viewers/>
-
----
-
-## Local residents roll up their sleeves to make a difference on Earth Day
-
-date: 2025-04-26, from: The Canyon News (COC Student Newspaper)
-
-<p>This Earth Day, Santa Clarita residents are getting their hands dirty by&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/earth-day/">Local residents roll up their sleeves to make a difference on Earth Day</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/earth-day/>
-
----
-
-## Former UCLA child care teacher convicted on 9 counts of child sexual abuse
-
-date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
-
-Editor’s note: This article includes descriptions of child sexual abuse.
-A jury convicted a former UCLA Early Care and Education center teacher Friday of nine counts of child sexual abuse. 
-
-<br> 
-
-<https://dailybruin.com/2025/04/25/former-ucla-child-care-teacher-convicted-on-9-counts-of-child-sexual-abuse/>
-
----
-
-## LA City Attorney declines to file criminal charges on most arrests at encampment
-
-date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Los Angeles City Attorney declined to file criminal charges on most arrests made in April and May 2024 during pro-Palestine protests.&#160;
-LA City Attorney Hydee Feldstein Soto announced in a Friday press release that UCPD referred 245 arrests to her office relating to May campus protests, all of which were declined due to insufficient evidence. 
-
-<br> 
-
-<https://dailybruin.com/2025/04/25/la-city-attorney-declines-to-file-criminal-charges-on-most-arrests-at-encampment/>
-
----
-
-## LA City Attorney declines to file charges against most  encampment protesters
-
-date: 2025-04-26, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Two cases were referred to a City Attorney hearing.</p>
-<p>The post <a href="https://dailytrojan.com/2025/04/25/no-arrested-encampment-protesters-from-usc-had-charges-filed-against-them-l-a-city-attorney-says/">LA City Attorney declines to file charges against most  encampment protesters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/04/25/no-arrested-encampment-protesters-from-usc-had-charges-filed-against-them-l-a-city-attorney-says/>
-
----
-
-## Nightly Bruin: Inside UCLA’s Parapsychology Lab
-
-date: 2025-04-26, from: The Daily Bruin (UCLA Student Newspaper)
-
-Before ghost-hunting shows and viral psychic videos, UCLA ran a real parapsychology lab, hidden in the old Neuropsychiatric Institute. In this episode of Nightly Bruin, Jina Bae, Audrey Turner, Olivia Miller and Srinidhi Naragajan uncover the strange history of the lab &#8211; from psychic experiments and telepathy tests to celebrity visits and chilling premonitions that turned tragically real. 
-
-<br> 
-
-<https://dailybruin.com/2025/04/25/nightly-bruin-inside-uclas-parapsychology-lab/>
-
----
-
-## Snake Season’s Here: A program offers training to keep pets safe on the trails
-
-date: 2025-04-26, from: The Canyon News (COC Student Newspaper)
-
-<p>As the weather warms up, more hikers are heading out on the&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/snake-season/">Snake Season’s Here: A program offers training to keep pets safe on the trails</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/snake-season/>
 
