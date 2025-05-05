@@ -1,11 +1,450 @@
 ---
 title: snapshots
-updated: 2025-05-05 06:08:27
+updated: 2025-05-05 14:09:49
 ---
 
 # snapshots
 
-(date: 2025-05-05 06:08:27)
+(date: 2025-05-05 14:09:49)
+
+---
+
+## A quick note on sponsorships...
+
+date: 2025-05-05, from: Fix the News
+
+Have you ever considered placing an advertisement in our newsletter? 
+
+<br> 
+
+<https://fixthenews.com/note-on-sponsorships/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-05-05, from: Tomosino's Mastodon feed)
+
+<p>Imagine a really good hot dog</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114457153414996752>
+
+---
+
+## Man Who Hacked Disney With Malicious AI Tool Pleads Guilty
+
+date: 2025-05-05, from: 404 Media Group
+
+ A hacker who tricked people into downloading malware using AI image generation tools plead guilty to two felony counts.
+ 
+
+<br> 
+
+<https://www.404media.co/man-who-hacked-disney-with-malicious-ai-tool-pleads-guilty/>
+
+---
+
+## MailMaven Public Beta
+
+date: 2025-05-05, from: Michael Tsai
+
+Scott Morrison: For a number of years we have been working on MailMaven: A new macOS email client that picks up where we left off after Apple killed Mail Plugins. Today we are opening access to a wider audience than our small group of private beta testers. Apple made it impossible for MailTags (and SmallCubed&#8217;s [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/05/mailmaven-public-beta/>
+
+---
+
+## Hyperspace 1.3
+
+date: 2025-05-05, from: Michael Tsai
+
+John Siracusa: The first release of Hyperspace mitigated these risks, in part, by entirely avoiding certain files and file system locations. I knew lifting these limitations would be a common request from potential customers. My plan was to launch 1.0 with the safest possible feature set, then slowly expand the app&#8217;s capabilities until all these [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/05/hyperspace-1-3/>
+
+---
+
+## Folder Preview 1.6
+
+date: 2025-05-05, from: Michael Tsai
+
+Anybox: Quick look extension for folders. [&#8230;] USD$1.99 to get the app and all of it. [&#8230;] Preview ZIP files as folders. It does what it says on the tin. This is a new-style Quick Look extension, so it uses a real outline view and a real path bar, rather than trying to make HTML [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/05/folder-preview-1-6/>
+
+---
+
+## Xcode + Claude
+
+date: 2025-05-05, from: Michael Tsai
+
+Juli Clover: Apple is working with Anthropic on an updated version of Xcode that will support AI code writing, editing, and testing, reports Bloomberg. Anthropic is best known for its &#8220;Claude&#8221; large language model and chatbot that competes with OpenAI&#8217;s ChatGPT. Claude is well-known for its coding capabilities, beating out other LLMs on programming tasks.The [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/05/xcode-claude/>
+
+---
+
+## Request for more articles on prompting techniques
+
+date: 2025-05-05, updated: 2025-05-05, from: Simon Willison’s Weblog
+
+<p>I'm disappointed at how little good writing there is out there about effective prompting.</p>
+<p>Here's an example: what's the best prompt to use to summarize an article?</p>
+<p>That feels like such an obvious thing, and yet I haven't even seen <em>that</em> being well explored!</p>
+<p>It's actually a surprisingly deep topic. I like using tricks like "directly quote the sentences that best illustrate the overall themes" and "identify the most surprising ideas", but I'd love to see a thorough breakdown of all the tricks I haven't seen yet.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/5/prompting/#atom-everything>
+
+---
+
+## Quoting Max Woolf
+
+date: 2025-05-05, updated: 2025-05-05, from: Simon Willison’s Weblog
+
+<blockquote cite="https://minimaxir.com/2025/05/llm-use/"><p>Two things can be true simultaneously: (a) LLM provider cost economics are too negative to return positive ROI to investors, and (b) LLMs are useful for solving problems that are meaningful and high impact, albeit not to the AGI hype that would justify point (a). This particular combination creates a frustrating gray area that requires a nuance that an ideologically split social media can no longer support gracefully. [...]</p>
+<p>OpenAI collapsing would not cause the end of LLMs, because LLMs are useful <em>today</em> and there will always be a nonzero market demand for them: it’s a bell that can’t be unrung.</p></blockquote>
+<p class="cite">&mdash; <a href="https://minimaxir.com/2025/05/llm-use/">Max Woolf</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/max-woolf">max-woolf</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/5/max-woolf/#atom-everything>
+
+---
+
+## COSMIC Alpha 7: Never Been Beta
+
+date: 2025-05-05, from: System76 Blog
+
+Wrapping up COSMIC’s main features before the first beta release. 
+
+<br> 
+
+<https://blog.system76.com/post/cosmic-alpha-7-never-been-beta>
+
+---
+
+## GlobalX, Airline for Trump’s Deportations, Hacked
+
+date: 2025-05-05, from: 404 Media Group
+
+Hackers say they have obtained what they say are passenger lists for GlobalX flights from January to this month. The data appears to include people who have been deported. 
+
+<br> 
+
+<https://www.404media.co/globalx-airline-for-trumps-deportations-hacked/>
+
+---
+
+## Feed a video to a vision LLM as a sequence of JPEG frames on the CLI (also LLM 0.25)
+
+date: 2025-05-05, updated: 2025-05-05, from: Simon Willison’s Weblog
+
+<p>The new <strong><a href="https://github.com/simonw/llm-video-frames">llm-video-frames</a></strong> plugin can turn a video file into a sequence of JPEG frames and feed them directly into a long context vision LLM such as GPT-4.1, even when that LLM doesn't directly support video input. It depends on a plugin feature I added to <a href="https://llm.datasette.io/en/stable/changelog.html#v0-25">LLM 0.25</a>, which I released last night.</p>
+<p>Here's how to try it out:</p>
+<div class="highlight highlight-source-shell"><pre>brew install ffmpeg <span class="pl-c"><span class="pl-c">#</span> or apt-get or your package manager of choice</span>
+uv tool install llm <span class="pl-c"><span class="pl-c">#</span> or pipx install llm or pip install llm</span>
+llm install llm-video-frames
+llm keys <span class="pl-c1">set</span> openai
+<span class="pl-c"><span class="pl-c">#</span> Paste your OpenAI API key here</span>
+
+llm -f video-frames:video.mp4 \
+  <span class="pl-s"><span class="pl-pds">'</span>describe the key scenes in this video<span class="pl-pds">'</span></span> \
+  -m gpt-4.1-mini</pre></div>
+<p>The <code>video-frames:filepath.mp4</code> syntax is provided by the new plugin. It takes that video, converts it to a JPEG for every second of the video and then turns those into <a href="https://llm.datasette.io/en/stable/usage.html#attachments">attachments</a> that can be passed to the LLM.</p>
+<p>Here's a demo, against <a href="https://static.simonwillison.net/static/2025/cleo.mp4">this video</a> of Cleo:</p>
+
+<div style="max-width: 100%; margin-bottom: 0.4em">
+    <video controls="controls" preload="none" aria-label="Cleo " poster="https://static.simonwillison.net/static/2025/cleo-still.jpg" loop="loop" style="width: 100%; height: auto;" muted="muted">
+        <source src="https://static.simonwillison.net/static/2025/cleo.mp4" type="video/mp4" />
+    </video>
+</div>
+
+<div class="highlight highlight-source-shell"><pre>llm -f video-frames:cleo.mp4 <span class="pl-s"><span class="pl-pds">'</span>describe key moments<span class="pl-pds">'</span></span> -m gpt-4.1-mini</pre></div>
+<p>And the output from the model (<a href="https://gist.github.com/simonw/a4e26166a524f9c07b4cf32b2f8da6c9">transcript here</a>):</p>
+<blockquote>
+<p>The sequence of images captures the key moments of a dog being offered and then enjoying a small treat:</p>
+<ol>
+<li>In the first image, a hand is holding a small cupcake with purple frosting close to a black dog's face. The dog looks eager and is focused intently on the treat.</li>
+<li>The second image shows the dog beginning to take a bite of the cupcake from the person's fingers. The dog's mouth is open, gently nibbling on the treat.</li>
+<li>In the third image, the dog has finished or is almost done with the treat and looks content, with a slight smile and a relaxed posture. The treat is no longer in the person's hand, indicating that the dog has consumed it.</li>
+</ol>
+<p>This progression highlights the dog's anticipation, enjoyment, and satisfaction with the treat.</p>
+</blockquote>
+<p>Total cost: 7,072 input tokens, 156 output tokens - for GPT-4.1 mini that's 0.3078 cents (less than a third of a cent).</p>
+<p>In this case the plugin converted the video into three images: <a href="https://static.simonwillison.net/static/2025/frame_00001.jpg">frame_00001.jpg</a>, <a href="https://static.simonwillison.net/static/2025/frame_00002.jpg">frame_00002.jpg</a> and <a href="https://static.simonwillison.net/static/2025/frame_00003.jpg">frame_00003.jpg</a>.</p>
+<p>The plugin accepts additional arguments. You can increase the frames-per-second using <code>?fps=2</code> - for example:</p>
+<div class="highlight highlight-source-shell"><pre>llm -f <span class="pl-s"><span class="pl-pds">'</span>video-frames:video.mp4?fps=2<span class="pl-pds">'</span></span> <span class="pl-s"><span class="pl-pds">'</span>summarize this video<span class="pl-pds">'</span></span></pre></div>
+<p>Or you can add <code>?timestamps=1</code> to cause <code>ffmpeg</code> to overlay a timestamp in the bottom right corner of each frame. This gives the model a chance to return timestamps in its output.</p>
+<p>Let's try that with the Cleo video:</p>
+<div class="highlight highlight-source-shell"><pre>llm -f <span class="pl-s"><span class="pl-pds">'</span>video-frames:cleo.mp4?timestamps=1&amp;fps=5<span class="pl-pds">'</span></span> \
+  <span class="pl-s"><span class="pl-pds">'</span>key moments, include timestamps<span class="pl-pds">'</span></span> -m gpt-4.1-mini</pre></div>
+<p>Here's the output (<a href="https://gist.github.com/simonw/371719849a7d2260f1eb0f422ea63187">transcript here</a>):</p>
+<blockquote>
+<p>Here are the key moments from the video "cleo.mp4" with timestamps:</p>
+<ul>
+<li>00:00:00.000 - A dog on leash looks at a small cupcake with purple frosting being held by a person.</li>
+<li>00:00:00.800 - The dog closely sniffs the cupcake.</li>
+<li>00:00:01.400 - The person puts a small amount of the cupcake frosting on their finger.</li>
+<li>00:00:01.600 - The dog starts licking the frosting from the person's finger.</li>
+<li>00:00:02.600 - The dog continues licking enthusiastically.</li>
+</ul>
+<p>Let me know if you need more details or a description of any specific part.</p>
+</blockquote>
+<p>That one sent 14 images to the API, at a total cost of 32,968 input, 141 output = 1.3413 cents.</p>
+<p>It sent 5.9MB of image data to OpenAI's API, encoded as base64 in the JSON API call.</p>
+<p>The GPT-4.1 model family accepts up to 1,047,576 tokens. Aside from a 20MB size limit per image I haven't seen any documentation of limits on the number of images. You can fit a whole lot of JPEG frames in a million tokens!</p>
+<p>Here's what one of those frames looks like with the timestamp overlaid in the corner:</p>
+<p><img src="https://static.simonwillison.net/static/2025/cleo-finger.jpg" alt="Cleo taking a treat from my fingers, in the bottom right corner is an overlay t hat says cleo.mp4 00:00:01.600" style="max-width: 100%;" /></p>
+<h4 id="how-i-built-the-plugin-with-o4-mini">How I built the plugin with o4-mini</h4>
+<p>This is a great example of how rapid prototyping with an LLM can help demonstrate the value of a feature.</p>
+<p>I was considering whether it would make sense for fragment plugins to return images in <a href="https://github.com/simonw/llm/issues/972#issuecomment-2849342103">issue 972</a> when I had the idea to use <code>ffmpeg</code> to split a video into frames.</p>
+<p>I know <a href="https://simonwillison.net/2025/Apr/23/llm-fragment-symbex/">from past experience</a> that a good model can write an entire plugin for LLM if you feed it the right example, so I started with this (reformatted here for readability):</p>
+<div class="highlight highlight-source-shell"><pre>llm -m o4-mini -f github:simonw/llm-hacker-news -s <span class="pl-s"><span class="pl-pds">'</span>write a new plugin called llm_video_frames.py which takes video:path-to-video.mp4 and creates a temporary directory which it then populates with one frame per second of that video using ffmpeg - then it returns a list of [llm.Attachment(path="path-to-frame1.jpg"), ...] - it should also support passing video:video.mp4?fps=2 to increase to two frames per second, and if you pass ?timestamps=1 or &amp;timestamps=1 then it should add a text timestamp to the bottom right conner of each image with the mm:ss timestamp of that frame (or hh:mm:ss if more than one hour in) and the filename of the video without the path as well.<span class="pl-pds">'</span></span> -o reasoning_effort high</pre></div>
+<p>Here's <a href="https://gist.github.com/simonw/4f545ecb347884d1d923dbc49550b8b0#response">the transcript</a>.</p>
+<p>The new attachment mechanism went from vague idea to "I should build that" as a direct result of having an LLM-built proof-of-concept that demonstrated the feasibility of the new feature.</p>
+<p>The code it produced was about 90% of the code I shipped in the finished plugin. Total cost 5,018 input, 2,208 output = 1.5235 cents.</p>
+<h4 id="annotated-release-notes-for-everything-else-in-llm-0-25">Annotated release notes for everything else in LLM 0.25</h4>
+<p>Here are the annotated release notes for everything else:</p>
+<blockquote>
+<ul>
+<li>New plugin feature: <a href="https://llm.datasette.io/en/stable/plugins/plugin-hooks.html#plugin-hooks-register-fragment-loaders">register_fragment_loaders(register)</a> plugins can now return a mixture of fragments and attachments. The <a href="https://github.com/simonw/llm-video-frames">llm-video-frames</a> plugin is the first to take advantage of this mechanism. <a href="https://github.com/simonw/llm/issues/972">#972</a>
+</li>
+</ul>
+</blockquote>
+<p>As decsribed above. The inspiration for this feature came from the <a href="https://github.com/agustif/llm-arxiv">llm-arxiv</a> plugin by <a href="https://github.com/agustif">agustif</a>.</p>
+<blockquote>
+<ul>
+<li>New OpenAI models: <code>gpt-4.1</code>, <code>gpt-4.1-mini</code>, <code>gpt-41-nano</code>, <code>o3</code>, <code>o4-mini</code>. <a href="https://github.com/simonw/llm/issues/945">#945</a>, <a href="https://github.com/simonw/llm/issues/965">#965</a>, <a href="https://github.com/simonw/llm/issues/976">#976</a>.</li>
+</ul>
+</blockquote>
+<p>My original plan was to leave these models exclusively to the new <a href="https://github.com/simonw/llm-openai-plugin">llm-openai</a> plugin, since that allows me to add support for new models without a full LLM release. I'm going to punt on that until I'm ready to entirely remove the OpenAI models from LLM core.</p>
+<blockquote>
+<ul>
+<li>New environment variables: <code>LLM_MODEL</code> and <code>LLM_EMBEDDING_MODEL</code> for setting the model to use without needing to specify <code>-m model_id</code> every time. <a href="https://github.com/simonw/llm/issues/932">#932</a>
+</li>
+</ul>
+</blockquote>
+<p>A convenience feature for if you want to set the default model for a terminal session with LLM without using the global <a href="https://llm.datasette.io/en/stable/setup.html#setting-a-custom-default-model">default model" mechanism</a>.</p>
+<blockquote>
+<ul>
+<li>New command: <code>llm fragments loaders</code>, to list all currently available fragment loader prefixes provided by plugins. <a href="https://github.com/simonw/llm/issues/941">#941</a>
+</li>
+</ul>
+</blockquote>
+<p>Mainly for consistence with the existing <a href="https://llm.datasette.io/en/stable/help.html#llm-templates-loaders-help">llm templates loaders</a> command. Here's the output when I run <code>llm fragments loaders</code> on my machine:</p>
+<pre><code>docs:
+  Fetch the latest documentation for the specified package from
+  https://github.com/simonw/docs-for-llms
+
+  Use '-f docs:' for the documentation of your current version of LLM.
+
+docs-preview:
+  Similar to docs: but fetches the latest docs including alpha/beta releases.
+
+symbex:
+  Walk the given directory, parse every .py file, and for every
+  top-level function or class-method produce its signature and
+  docstring plus an import line.
+
+github:
+  Load files from a GitHub repository as fragments
+
+  Argument is a GitHub repository URL or username/repository
+
+issue:
+  Fetch GitHub issue/pull and comments as Markdown
+
+  Argument is either "owner/repo/NUMBER" or URL to an issue
+
+pr:
+  Fetch GitHub pull request with comments and diff as Markdown
+
+  Argument is either "owner/repo/NUMBER" or URL to a pull request
+
+hn:
+  Given a Hacker News article ID returns the full nested conversation.
+
+  For example: -f hn:43875136
+
+video-frames:
+  Fragment loader "video-frames:&lt;path&gt;?fps=N&amp;timestamps=1"
+  - extracts frames at `fps` per second (default 1)
+  - if `timestamps=1`, overlays "filename hh:mm:ss" at bottom-right
+</code></pre>
+<p>That's from <a href="https://github.com/simonw/llm-docs">llm-docs</a>, <a href="https://github.com/simonw/llm-fragments-github">llm-fragments-symbex</a>, <a href="https://github.com/simonw/llm-fragments-github">llm-fragments-github</a>, <a href="https://github.com/simonw/llm-hacker-news">llm-hacker-news</a> and <a href="https://github.com/simonw/llm-video-frames">llm-video-frames</a>.</p>
+<blockquote>
+<ul>
+<li>
+<code>llm fragments</code> command now shows fragments ordered by the date they were first used. <a href="https://github.com/simonw/llm/issues/973">#973</a>
+</li>
+</ul>
+</blockquote>
+<p>This makes it easier to quickly debug a new fragment plugin - you can run <code>llm fragments</code> and glance at the bottom few entries.</p>
+<p>I've also been using the new <a href="https://github.com/simonw/llm-echo">llm-echo</a> debugging plugin for this - it adds a new fake model called "echo" which simply outputs whatever the prompt, system prompt, fragments and attachments are that were passed to the model:</p>
+<div class="highlight highlight-source-shell"><pre>llm -f docs:sqlite-utils -m <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>Show me the context<span class="pl-pds">'</span></span></pre></div>
+<p><a href="https://gist.github.com/simonw/cb3249856887379759515022c76d0d9e">Output here</a>.</p>
+<blockquote>
+<ul>
+<li>
+<code>llm chat</code> now includes a <code>!edit</code> command for editing a prompt using your default terminal text editor. Thanks, <a href="https://github.com/Hopiu">Benedikt Willi</a>. <a href="https://github.com/simonw/llm/pull/969">#969</a>
+</li>
+</ul>
+</blockquote>
+<p>This is a really nice enhancement to <code>llm chat</code>, making it much more convenient to edit longe prompts.</p>
+<p>And the rest:</p>
+<blockquote>
+<ul>
+<li>Allow <code>-t</code> and <code>--system</code> to be used at the same time. <a href="https://github.com/simonw/llm/issues/916">#916</a>
+</li>
+<li>Fixed a bug where accessing a model via its alias would fail to respect any default options set for that model. <a href="https://github.com/simonw/llm/issues/968">#968</a>
+</li>
+<li>Improved documentation for <a href="https://llm.datasette.io/en/stable/other-models.html#openai-compatible-models">extra-openai-models.yaml</a>. Thanks, <a href="https://github.com/rahimnathwani">Rahim Nathwani</a> and <a href="https://github.com/dguido">Dan Guido</a>. <a href="https://github.com/simonw/llm/pull/950">#950</a>, <a href="https://github.com/simonw/llm/pull/957">#957</a>
+</li>
+<li>
+<code>llm -c/--continue</code> now works correctly with the <code>-d/--database</code> option. <code>llm chat</code> now accepts that <code>-d/--database</code> option. Thanks, <a href="https://github.com/sukhbinder">Sukhbinder Singh</a>. <a href="https://github.com/simonw/llm/issues/933">#933</a>
+</li>
+</ul>
+</blockquote>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ffmpeg">ffmpeg</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/5/llm-video-frames/#atom-everything>
+
+---
+
+## Why DO large language models hallucinate?
+
+date: 2025-05-05, from: Gary Marcus blog
+
+The Henrietta Chronicles continue, guest starring Harry Shearer 
+
+<br> 
+
+<https://garymarcus.substack.com/p/why-do-large-language-models-hallucinate>
+
+---
+
+## OneChipBook-12-A is a $215 mini laptop with an FPGA for retro computing
+
+date: 2025-05-05, from: Liliputing
+
+<p>The OneChipBook-12-A is a modern mini laptop design for retro computing. It&#8217;s the latest in a line of systems from 8086YES! that are designed to let you run classic code from decades past on hardware that&#8217;s more portable than anything that would have been available at the time. In fact, the newest laptop looks nearly identical [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/onechipbook-12-a-is-a-215-mini-laptop-with-an-fpga-for-retro-computing/">OneChipBook-12-A is a $215 mini laptop with an FPGA for retro computing</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/onechipbook-12-a-is-a-215-mini-laptop-with-an-fpga-for-retro-computing/>
+
+---
+
+## christopher.org for the next 100 years
+
+date: 2025-05-05, from: Chris Coyier blog
+
+I&#8217;m trying to do right by my old buddy Christopher Schmitt and his digital footprint. You might remember we made a thank-you site for him where people shared memories. That&#8217;s hosted on a provided Netlify account, and the code is on a public GitHub repo. Notably the site doesn&#8217;t use a custom domain name, which [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/05/05/christopher-org-for-the-next-100-years/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-05, from: Feed for Alt USDS)
+
+We the Builders' Kate and Milo joined Andy and Helen from @cybershow.uk to talk about what's happening to us here, share ideas across the Atlantic, and talk about what it means to stop the destruction and begin to rebuild.
+
+https://cybershow.uk/episodes.php?id=46 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3logt5xvhoc2d>
+
+---
+
+## Mom: The Ultimate Hero
+
+date: 2025-05-05, from: Guy Kawasaki blog
+
+Scott T. Allison, Professor of Psychology, University of Richmond. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/mom-the-ultimate-hero>
+
+---
+
+## Quoting Arvind Narayanan
+
+date: 2025-05-05, updated: 2025-05-05, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/random_walker/status/1919359709062033850"><p>[On using generative AI for work despite the risk of errors:]</p>
+<ul>
+<li>AI is helpful despite being error-prone if it is faster to verify the output than it is to do the work yourself. For example, if you're using it to find a product that matches a given set of specifications, verification may be a lot faster than search.</li>
+<li>There are many uses where errors don't matter, like using it to enhance creativity by suggesting or critiquing ideas.</li>
+<li>At a meta level, if you use AI without a plan and simply turn to AI tools when you feel like it, then you're unlikely to be able to think through risks and mitigations. It is better to identify concrete ways to integrate AI into your workflows, with known benefits and risks, that you can employ repeatedly.</li>
+</ul></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/random_walker/status/1919359709062033850">Arvind Narayanan</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/arvind-narayanan">arvind-narayanan</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/5/arvind-narayanan/#atom-everything>
+
+---
+
+## Enterre Seus Mortos (43FCIU): la remasterización del pasajero oscuro
+
+date: 2025-05-05, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Marco Dutra. Guion: Macro Dutra, basado en la novela homónima de Ana Paula Maia. Elenco: Selton Mello, Marjorie Estiano, Danilo Grangheia, Betty Faria, Maria Manoella. País: Brasil. Más información de la película: https://www.imdb.com//title/tt15738252/ ¿Qué hay después de la muerte? Es una pregunta que, aunque de apariencia retórica, abre un mar de dudas entre los [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-enterre-seus-mortos-43fciu/">Enterre Seus Mortos (43FCIU): la remasterización del pasajero oscuro</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-enterre-seus-mortos-43fciu/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-enterre-seus-mortos-43fciu>
+
+---
+
+## HARVARD: BARBARIANS AT THE GATES, IGNORAMUSES ON THE LAWN
+
+date: 2025-05-05, from: Howard Jacobson blog
+
+Streetwalking with Howard Jacobson is a reader-supported publication. 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/harvard-barbarians-at-the-gates-ignoramuses>
+
+---
+
+## Trust AI Less
+
+date: 2025-05-05, updated: 2025-05-05, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/05/trust-ai-less/>
 
 ---
 

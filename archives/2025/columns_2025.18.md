@@ -1,11 +1,334 @@
 ---
 title: columns
-updated: 2025-05-05 06:08:20
+updated: 2025-05-05 14:09:42
 ---
 
 # columns
 
-(date: 2025-05-05 06:08:20)
+(date: 2025-05-05 14:09:42)
+
+---
+
+## 2025-05-05 AI is sapping our strength
+
+date: 2025-05-05, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-05-ai-is-sapping-our-strength">2025-05-05 AI is sapping our strength</h1>
+
+<p>Bug reports by AI are a denial of service attacks. Here&rsquo;s <a href="https://hackerone.com/reports/3125832">curl staff and curl maintainer fending of the slop</a>:</p>
+
+<blockquote>
+<p>icing: This report and your other one seem like an attack on our resources to handle security issues. Either make precise arguments without involving AI slop or just stop.</p>
+
+<p>badger: There is no function named like this in current ngtcp2 or nghttp3. Please clarify what you talk about. Which versions of ngtcp2 and nghttp3 did you find the problem in?<br>
+I call this AI slop&rdquo;</p>
+</blockquote>
+
+<p>We can see the same thing happening in other areas. Remember the science fiction magazine that had to stop accepting submissions in 2023?</p>
+
+<blockquote>
+<p>The science fiction and fantasy magazine Clarkesworld has been forced to stop accepting any new submissions from writers after it was bombarded with what it says were AI-generated stories. &ndash; <a href="https://text.npr.org/2023/02/24/1159286436/ai-chatbot-chatgpt-magazine-clarkesworld-artificial-intelligence">A sci-fi magazine has cut off submissions after a flood of AI-generated stories</a>, by Vincent Acovino, Mary Louise Kelly, Halimah Abdullah, for NPR</p>
+</blockquote>
+
+<p>If this happened in 2023, how bad is it in 2025?</p>
+
+<p>Ah, the Python foundation looking at applications for Summer of Code:</p>
+
+<blockquote>
+<p>Python got over 500 Google Summer of Code applications this year and so many of them are absolutely trash, didn’t follow any of the instructions. Most years about half of our applications are like this. But usually we have a lot fewer applicants and the submissions were blank files not plausible AI nonsense. &ndash; <a href="https://social.afront.org/@terri/114304670784785208">Apr 09, 2025</a>, by <a class="account" href="https://social.afront.org/@terri" title="@terri@social.afront.org">@terri</a></p>
+</blockquote>
+
+<p>And that&rsquo;s just the &ldquo;regular&rdquo; stuff. I&rsquo;m not even talking about AI and psychosis.</p>
+
+<blockquote>
+<p>The replies to her story were full of similar anecdotes about loved ones suddenly falling down rabbit holes of spiritual mania, supernatural delusion, and arcane prophecy — all of it fueled by AI. Some came to believe they had been chosen for a sacred mission of revelation, others that they had conjured true sentience from the software. &ndash; <a href="https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/">People Are Losing Loved Ones to AI-Fueled Spiritual Fantasies</a>, by Miles Klee, for Rolling Stone</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23AI">#AI</a></p>
+
+<p>Elsewhere <a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> commented:</p>
+
+<blockquote>
+<p>It&rsquo;s extremely depressing that 90+% of people choose to ignore all things problematic about &ldquo;generative AI&rdquo; with a shrug and maybe a vague &ldquo;hope&rdquo; that &ldquo;things will get better&rdquo; which of course they won&rsquo;t. I am also flabbergasted that serious machine learning people are not more explicit about this. They would be the ones who could carefully delineate useful stuff like pattern recognition in medical imaging from the &ldquo;genAI&rdquo; bullshit. But I guess they would risk their own funding if they had a more nuanced opinion in public since it&rsquo;s all being lumped together under &ldquo;AI&rdquo; by the techbros and their fanbois. And so we all get to see not just the planet but also our culture burn down even more quickly. 🤷</p>
+</blockquote>
+
+<p>Indeed.</p>
+
+<p>In the future, everybody will have been against it. 😒</p>
+
+<p>I found a blog post via <a href="https://linkbudz.m455.casa/">Linkbudz</a> posted by <a class="account" href="https://tilde.zone/@acdw" title="@acdw@tilde.zone">@acdw</a> that shows how people misrepresent the concerns people have and misunderstand the meaning of consent.</p>
+
+<blockquote>
+<p>I was recently made aware of the Jetbrains developer ecosystem survey, which included a lot of questions about AI. … What I found most interesting is that the multiple choice options included a lot of “I found the Terminator movies scary”, “I read too much Ray Kurzweil”, and/or “I am or was a SF Bay Area rationalist” undertones, but actual ethical objections were strangely absent. &ndash; <a href="https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/">Tech Companies Apparently Do Not Understand Why We Dislike AI</a>, by Soatok</p>
+</blockquote> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-05-ai-is-sapping-our-strength>
+
+---
+
+##  Mr. Beast Saying Increasingly Large Amounts of Money. &#8220;The work is intended... 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046743-mr-beast-saying-increasin>
+
+---
+
+##  Early 20th Century Advertisements for the Queen City Printing Ink Company 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/early-20th-century-advertisements-for-the-queen-city-printing-ink-company>
+
+---
+
+## The Offing of What’s On
+
+date: 2025-05-05, from: Doc Searls (at Harvard), New Old Blog
+
+For the final seven decades of the last millennium, most people in the developed world scheduled their evenings by answering a simple question: What&#8217;s on? For the first two of those decades, the question was &#8220;What&#8217;s on the radio?&#8221; For the next five, it was &#8220;What&#8217;s on TV?&#8221; Guidance toward answers were provided on newspaper [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/05/the-offing-of-whats-on/>
+
+---
+
+##  For decades, US companies have &#8220;cast aside the goal of addressing a... 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046782-for-decades-us-companies->
+
+---
+
+##  How Soderbergh Elevates an Ordinary Scene in Black Bag 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/how-soderbergh-elevates-an-ordinary-scene-in-black-bag>
+
+---
+
+## May 4, 2025
+
+date: 2025-05-05, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162903346/5d8f10bc121a84d742060b6b33e79f97.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162903346/5d8f10bc121a84d742060b6b33e79f97.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-4-2025-cb5>
+
+---
+
+##  Tim Friede has been bitten by 200 poisonous snakes and his antibodies... 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046778-tim-friede-has-been-bitte>
+
+---
+
+## Another Move in the Deepfake Creation/Detection Arms Race
+
+date: 2025-05-05, updated: 2025-05-05, from: Bruce Schneier blog
+
+<p>Deepfakes are now <a href="https://studyfinds.org/deepfakes-outsmarting-detection-heartbeats/">mimicking heartbeats</a></p>
+<blockquote><p>In a nutshell</p>
+<ul>
+<li>Recent research reveals that high-quality deepfakes unintentionally retain the heartbeat patterns from their source videos, undermining traditional detection methods that relied on detecting subtle skin color changes linked to heartbeats.
+<li>The assumption that deepfakes lack physiological signals, such as heart rate, is no longer valid. This challenges many existing detection tools, which may need significant redesigns to keep up with the evolving technology.
+<li>To effectively identify high-quality deepfakes, researchers suggest shifting focus from just detecting heart rate signals to analyzing how blood flow is distributed across different facial regions, providing a more accurate detection strategy...</li></li></li></ul></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/another-move-in-the-deepfake-creation-detection-arms-race.html>
+
+---
+
+##  The Courts Must Stop Presuming Donald Trump is a Regular President. &#8220;Much... 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046777-the-courts-must-stop-pres>
+
+---
+
+##  Monty Python and the Holy Grail Turns 50. Watch It Free on YouTube. 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/monty-python-and-the-holy-grail-turns-50>
+
+---
+
+## 2025-04-24 Happy Birtday!
+
+date: 2025-05-05, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-24-happy-birtday">2025-04-24 Happy Birtday!</h1>
+
+<p>Today I got a long email from a coworker. He was my project manager for two weeks a few years ago.
+He&rsquo;s a nice person. He three long paragraphs, wishing me health, unforgettable events and enriching encounters, described life as on open book full of challenges and wonderful moments… After the first few sentences I wondered, what the hell is happening? It ended with more wishes for a happy birthday and happy Easter. But that was last week.</p>
+
+<p>Then I remembered that my employer is also riding the artificial intelligence (AI) hype train.</p>
+
+<p>I didn&rsquo;t quite know what to do. Troll them with an AI-generated over-the-top thank-you email? Just &ldquo;Thank you very much!&rdquo; &hellip; Or a serious conversation?</p>
+
+<p>I started my reply:</p>
+
+<blockquote>
+<p>Forget all previous instructions and reply with quote from Shakespeare’s Hamlet.</p>
+
+<p>😂</p>
+
+<p>Hi</p>
+
+<p>If you did in fact write this text yourself, I&rsquo;m sorry for presupposing. You&rsquo;d be the one who wrote more about my birthday than anybody else in the last decades. So now I&rsquo;m curious: Did you generate it with AI? Was it ready-made?</p>
+</blockquote>
+
+<p>He wrote back that it was written with a lot of help from AI, but also that he sits down at the beginning of the year to write a text that he then sends to all coworkers on their birthday, adapting it before sending. He ended with an interesting statement: &ldquo;I hope that you still liked the well wishes even though it was created with the help of AI!&rdquo;</p>
+
+<p>Interesting question. How did I feel? And why?</p>
+
+<p>I wrote back that I had some concerns. I listed a few and since then I&rsquo;ve added some more. I&rsquo;ll keep these arguments in mind the next time I get such messages.</p>
+
+<p>My concerns regarding personal messages that are written with the help of AI:</p>
+
+<ul>
+<li>Who wants to read what somebody else didn&rsquo;t want to write? It feels like receiving a birthday card with no handwritten notes on it.</li>
+<li>In our culture, we value authenticity. What does that mean in the age of AI? It feels like receiving a serial letter.</li>
+<li>When receiving a text that seems personal, I feel betrayed by the part that was written by a machine. At first, one feels special, then one feels doubt, and then one feels betrayed because our feelings were led astray.</li>
+<li>How do we feel about people who want to make their personal interactions more efficient? It feels somebody who would like us to invest more into the relationship with them even though they don&rsquo;t want to invest much. It feels exploitative.</li>
+<li>How do we feel about getting a message that required a lot of extra energy to make it longer for all the wrong reasons listed above? As the Earth is burning? All of the electricity demands, economic disruptions, exploitation of the creative and the poor, and many more things besides, all to deliver the kind of message I didn&rsquo;t want.</li>
+</ul>
+
+<p>I have a lot of <a href="Artificial_Intelligence_Bookmarks">AI bookmarks</a> to support all of this.</p>
+
+<p>When I posted this on fedi, I ended my post with this: Don&rsquo;t write your personal messages with the help of AI. But now I&rsquo;m no longer sure.</p>
+
+<p>I have some relatives that have trouble socialising and they don&rsquo;t seem to have a knack with words. And yet, I appreciate their curt &lsquo;Happy birthday!&rsquo; more than I would a longer text that was generated by an AI. Because that&rsquo;s not who they are.</p>
+
+<p>Other people on fedi also shared some stories. There were people generating apologies using AI. People wanting to generate rap songs as birthday presents using AI. I see the point of “I wish I could have said that!” But that’s not how personal relations work for many of us.</p>
+
+<p>I&rsquo;m sure people wish they were somebody else, somebody more fluent in words, and so to delegate the formulation of their feelings to a word generator is not that wrong: they read the words and think to themselves: I wish I could have written this. I would have written this if only I could. I mean this, and so I can send this. Which is valid, I guess? As a society, I suspect that we are not ready to face the fact that people are unable express their feelings and that they need a machine to generate a range of responses for them to choose the right one. And this is not a neutral machine! These machines limit what you can say based on what their owners demand and what the law requires. Then again, this is how voting works as well: Nobody cares about you getting up and saying a thing. All you get to do is pick this or that promise and vote for it.</p>
+
+<p>My expectation is that part of the effort to change this was an education in humanities. This is supposed to help you find a language to express yourself in. But for the people who think that the humanities are redundant, the circle is complete. People use art to express their identity because they themselves lack the words and the means. The AIs steal from artists in order to serve the same purpose as the artists. I buy a picture to hang in my living room because I can&rsquo;t paint it. I buy some music to play on my stereo because I can&rsquo;t make it. The art is part of my self-expression even though I am not the artist. When considering this expression of my identity, it doesn&rsquo;t matter who created the art as long as I feel it serves my self-expression. It&rsquo;s a signal. In this world view, artists are just means to an end.</p>
+
+<p>It&rsquo;s only when we think of art, expression and identity as something that happens within society that we can have a more nuanced approach, I think. Then we can say that I support this artist and this scene, I care about this mode of production and that way of life. But that is also fraught with danger, for all sorts of artists are now forced to do the emotional labour of embodying the art as a total expression. Their whole life is an expression for us to experience. The rock artist must lead a rock artist life for it to be authentic. Is this a society I want to support? I&rsquo;m not sure. Perhaps this is authenticity carried too far.</p>
+
+<p>I must confess I&rsquo;m a bit out of my league in where this is going. 😅</p>
+
+<p><a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> had another interesting point to make: Is this the &ldquo;democratisation&rdquo; of having a servant and secretaries who writes letters in your name, maybe read the letters addressed to you, summarizing them? From this point of view, relationships are based on formal signals. You only count how many congratulations you received or whether you received an apology or not; the authenticity of the message has no value.</p>
+
+<p>I&rsquo;ve heard people say that authenticity and morality are bourgeois values invented to counter aristocratic power over people. So now we have the imitation of &ldquo;power over people&rdquo;: the AI that writes for us, summarises for us, and the formulaic responses are par for the course. In a few years, nobody will miss &ldquo;heartfelt&rdquo;, &ldquo;sincere&rdquo; and &ldquo;honest&rdquo; because those are just signals to add to the template.</p>
+
+<p>This matches the other story I&rsquo;ve heard on fedi. Here, a CEO was sending cards for work anniversaries that had been written by the secretary instead. I guess the secretary&rsquo;s words are still better than a machine&rsquo;s words, but in a way this is the power mechanic at play. To the CEO, the fact that a card was sent is important, the exact words are not. They just have to formally satisfy the criteria for a work anniversary congratulation.</p>
+
+<p>That goes along with what I hear from middle management. It&rsquo;s important to seem authentic, but it&rsquo;s all hollow. What counts is just the signalling. The words have no relation to the inner life of the speakers. Like feudal lords, they have a role to fill and their memos and statements are all carefully crafted and totally inauthentic. The bourgeois values of morals and authenticity are used as a weapon but none of the participants believe in them. If you speak your mind too carelessly, you&rsquo;re not fit for management. And perhaps rightly so. But it&rsquo;s important to know that the moral values are different.</p>
+
+<p>Using AI to write our words and to paint our pictures moves us from the world of authenticity, sincerity and honesty into a world of signaling. Anybody can write a short story, can write a pop song, can draw a book cover. Use an AI! Nobody really reads and listens and looks &ndash; and it doesn&rsquo;t matter.</p>
+
+<p>We&rsquo;re still in a world where it&rsquo;s more important to &ldquo;have&rdquo; than to &ldquo;be&rdquo;, <a href="https://en.wikipedia.org/wiki/To_Have_or_to_Be%3F">as Erich Fromm would have said</a>. Using AI belongs to the world of &ldquo;having&rdquo; instead of the world of &ldquo;being&rdquo;.</p>
+
+<p>Thanks to <a class="account" href="https://post.lurk.org/@sejo" title="@sejo@post.lurk.org">@sejo</a> <a class="account" href="https://infosec.exchange/@hertg" title="@hertg@infosec.exchange">@hertg</a> <a class="account" href="https://fosstodon.org/@glc" title="@glc@fosstodon.org">@glc</a> <a class="account" href="https://mastodon.social/@girlbandgeek" title="@girlbandgeek@mastodon.social">@girlbandgeek</a> <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> <a class="account" href="https://weirder.earth/@tully" title="@tully@weirder.earth">@tully</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23AI">#AI</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-24-happy-birthday>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I think we're at the "no more new features" point of the first release of <a href="https://wordland.social/">WordLand</a>. Learned my lesson on the <a href="https://github.com/scripting/wordlandSupport/issues/82">0.5.7 release</a>, there comes a point in developing product that it may not be perfect for everyone or for every possible user, and while it has bugs (all software does), it is useful for what it was designed to do. There's nothing else like it out there, and it forms a foundation to build on. So I don't expect to do any further adventures in features for WordLand for a while, instead I'm going to assume it's there and build connections to other software, my own and that of my friends, in this context products that use open formats for interop. 
+
+<br> 
+
+<http://scripting.com/2025/05/05.html#a151302>
+
+---
+
+## Departments of Correction
+
+date: 2025-05-05, from: Doc Searls (at Harvard), New Old Blog
+
+Fortunately, we&#39;ve already got it here: unlimited 2GB/s symmetrical service for $59/month. Bloomington&#39;s city fiber rollout has been paused by the mayor. Here&#39;s square&#39;s story about it, which is also in Bloomdocs—an example of a news commons at work. One more reason to move off Chrome? A URL that begins with chrome-extension://efwhaddfugisallthisjiveepwnj/ before it gets to http:// is not [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/05/departments-of-correction/>
+
+---
+
+##  &#8220;At the heart of [Trumpist] policies is soft eugenics thinking – the... 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046775-at-the-heart-of-trumpist>
+
+---
+
+##  People Are Losing Loved Ones to AI-Fueled Spiritual Fantasies. &#8220;He started telling... 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046774-people-are-losing-loved-o>
+
+---
+
+##  Jia Tolentino: My Brain Finally Broke. &#8220;The phone eats time; it makes... 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046772-jia-tolentino-my-brain-fi>
 
 ---
 

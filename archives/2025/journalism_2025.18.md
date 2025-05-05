@@ -1,11 +1,51 @@
 ---
 title: journalism
-updated: 2025-05-05 06:08:21
+updated: 2025-05-05 14:09:44
 ---
 
 # journalism
 
-(date: 2025-05-05 06:08:21)
+(date: 2025-05-05 14:09:44)
+
+---
+
+## Editorial Cartoon: “Bruin Welcome Wagon”
+
+date: 2025-05-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/editorial-cartoon-bruin-welcome-wagon/>
+
+---
+
+## Film review: Despite flaws, ‘Thunderbolts*’ serves as spark to fading MCU universe
+
+date: 2025-05-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article contains mentions of suicidal ideation.
+Warning: spoilers ahead.
+With its latest outing, Marvel brings a new spark into the fading Marvel Cinematic Universe. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/film-review-despite-flaws-thunderbolts-serves-as-spark-to-fading-mcu-universe/>
+
+---
+
+## USC’s first student commencement speaker talks speech, community
+
+date: 2025-05-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Meghan Anand will be the first student to speak at the main commencement ceremony since Asna Tabassum was barred.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/05/uscs-first-student-commencement-speaker-talks-speech-community/">USC’s first student commencement speaker talks speech, community</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/05/uscs-first-student-commencement-speaker-talks-speech-community/>
 
 ---
 

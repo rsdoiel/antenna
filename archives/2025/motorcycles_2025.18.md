@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-05-05 06:08:23
+updated: 2025-05-05 14:09:46
 ---
 
 # motorcycles
 
-(date: 2025-05-05 06:08:23)
+(date: 2025-05-05 14:09:46)
+
+---
+
+## This Retro-Styled Electric Motorcycle Looks Like a Fun and Practical Daily Ride
+
+date: 2025-05-05, from: Ride Apart, Electric Motorcycle News
+
+Retro styling will always find a way to live on. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758393/beachman-64-retro-inspired-electric-motorcycle/>
+
+---
+
+## Suzuki Really Wants You To Test Ride the New DR-Z4S, Launches Demo Tour
+
+date: 2025-05-05, from: Ride Apart, Electric Motorcycle News
+
+Stay tuned—the DR-Z4S demo tour might be headed to a dealer near you.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758392/suzuki-drz4s-demo-tour-usa-announcement/>
+
+---
+
+## Peep This Vintage '90s Kawasaki Jet Ski, Still In Its Crate and It's For Sale
+
+date: 2025-05-05, from: Ride Apart, Electric Motorcycle News
+
+There's only one question here: Recommission and ride, or keep it in a time capsule forever? 
+
+<br> 
+
+<https://www.rideapart.com/news/758465/vintage-kawasaki-jetski-for-sale/>
 
 ---
 

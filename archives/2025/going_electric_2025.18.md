@@ -1,11 +1,267 @@
 ---
 title: going electric
-updated: 2025-05-05 06:08:25
+updated: 2025-05-05 14:09:47
 ---
 
 # going electric
 
-(date: 2025-05-05 06:08:25)
+(date: 2025-05-05 14:09:47)
+
+---
+
+## Looking for an affordable EV? These 4 May lease deals deliver
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Honda-US-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you’re considering going electric, May will be a great time to score a deal on an EV lease. Automakers are slashing <a href="https://electrek.co/guides/ev-lease/" target="_blank" rel="noreferrer noopener">lease prices</a> on some of the most popular EVs to move inventory – here are four standouts. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura-zdx,ev-lease,honda-prologue,nissan-ariya,tesla-model-3" data-layer-viewtype="unknown" data-post-id="414463" href="https://electrek.co/2025/05/05/4-best-ev-lease-deals-may/#more-414463" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/4-best-ev-lease-deals-may/>
+
+---
+
+## Ford warns Trump’s tariffs will cost $2.5 billion, withdraws 2025 guidance
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> (F) reported its first-quarter earnings, beating Wall Street’s revenue and EPS expectations. However, with Trump’s auto tariffs, Ford is suspending full-year guidance. Here’s a breakdown of Ford’s Q1 2025 earnings</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="414471" href="https://electrek.co/2025/05/05/ford-warns-trump-tariffs-will-cost-2-5-billion-withdraws-guidance/#more-414471" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/ford-warns-trump-tariffs-will-cost-2-5-billion-withdraws-guidance/>
+
+---
+
+## Commercial EVs in your neighborhood
+
+date: 2025-05-05, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/commercial-evs-in-your-neighborhood/>
+
+---
+
+## We finally got a ride in the Tesla Semi at ACT Expo
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Screenshot-2025-05-05-at-1.25.18PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Nearly 8 years after we first saw the Tesla Semi unveiled, we finally got a chance to ride in one at ACT Expo.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="414466" href="https://electrek.co/2025/05/05/we-finally-got-a-ride-in-the-tesla-semi-at-act-expo/#more-414466" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/we-finally-got-a-ride-in-the-tesla-semi-at-act-expo/>
+
+---
+
+## Kia’s low-cost EVs are taking the auto industry by storm, now the EV4 is arriving
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kias-low-cost-EVs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s new EV3 and EV5 are already climbing the sales charts in several key markets. With more low-cost EVs arriving this year, including the EV4, its first electric sedan (and hatch), this could be just the start to <a href="https://electrek.co/guides/kia/">Kia’s</a> global sales run. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="414417" href="https://electrek.co/2025/05/05/kias-low-cost-evs-taking-over-now-comes-first-ev-sedan/#more-414417" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/kias-low-cost-evs-taking-over-now-comes-first-ev-sedan/>
+
+---
+
+## Blue Bird diversifies from schoolbuses, enters electric medium duty truck market
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/IMG_1082-e1746466999509.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Blue Bird, the iconic American school bus manufacturer and one of the largest electric school bus makers, has announced an all-electric medium duty Class 5-6 truck chassis.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,blue-bird" data-layer-viewtype="unknown" data-post-id="413686" href="https://electrek.co/2025/05/05/blue-bird-diversifies-from-schoolbuses-enters-electric-medium-duty-truck-market/#more-413686" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/blue-bird-diversifies-from-schoolbuses-enters-electric-medium-duty-truck-market/>
+
+---
+
+## Chery is deploying an army of blonde humanoid robots called Mornine to sell its cars [Video]
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Chery-robot-Mornine-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you thought Tesla or XPeng’s bipedal humanoid robots were a creepy glimpse into the future, wait until you see what Chinese automaker Chery Automotive is deploying. Alongside business partner AiMOGA, <a href="https://electrek.co/guides/chery-automotive/">Chery</a> is encouraging its dealers to purchase a Mornine robot to help sell vehicles to customers. Mornine definitely won’t scare anyone away, right?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aimoga,chery-automotive,robots" data-layer-viewtype="unknown" data-post-id="414424" href="https://electrek.co/2025/05/05/chery-deploying-blonde-humanoid-robots-called-mornine-to-sell-cars-video/#more-414424" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/chery-deploying-blonde-humanoid-robots-called-mornine-to-sell-cars-video/>
+
+---
+
+## Anker SOLIX EverFrost 2 coolers + bundles $200 off, G-Force’s new DE-S cargo e-bike $1,399, EcoFlow DELTA 2 bundle flash sale, more
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Anker-SOLIX-EverFrost-2-40L-Electric-Cooler-lifestyle-1-e1746466579979.png?w=1600" /></div><p>We’re starting off this week’s Green Deals with a spotlight on <a href="https://9to5toys.com/2025/05/05/anker-solix-everfrost-2-from-700/">Anker’s SOLIX EverFrost 2 Electric Cooler</a> discounts that are running as part of the brand’s ongoing <a href="https://9to5toys.com/2025/04/28/anker-solix-mothers-day-sale-starting-from-70/">Mother’s Day Sale</a>, which <a href="https://9to5toys.com/2025/05/05/anker-solix-everfrost-2-from-700/">start from $700</a>. Next, we have G-Force’s extended e-bike savings, including its newest <a href="https://9to5toys.com/2025/05/05/g-force-de-s-e-bike-1399-more/">DE-S Premium All-Terrain Fat Tire Wide Cargo e-bike</a> that is down at <a href="https://9to5toys.com/2025/05/05/g-force-de-s-e-bike-1399-more/">$1,399</a>. Lastly, there’s <a href="https://9to5toys.com/2025/05/05/ecoflow-flash-delta-2-bundle-849-more/">EcoFlow’s latest flash sale</a> that is offering a <a href="https://9to5toys.com/2025/05/05/ecoflow-flash-delta-2-bundle-849-more/">DELTA 2 bundle</a> with an expansion battery and bag for <a href="https://9to5toys.com/2025/05/05/ecoflow-flash-delta-2-bundle-849-more/">$849</a>, as well as an additional solar panel bundle offer. Plus, all the other hangover Green Deals from last week are in the links at the bottom of the page, rounded together in our <a href="https://9to5toys.com/2025/05/03/electrified-weekly-rad-powers-three-new-radrunner-e-bikes-with-a-free-extra-battery-preorder-promo-more/">Electrified Weekly coverage</a>, including the free extra battery preorder deal on <a href="https://9to5toys.com/2025/05/02/preorder-radrunner-max-free-extra-battery-2299/">Rad Power’s new RadRunner Max Cargo Utility e-bike</a> and Lectric’s teasing of its <a href="https://9to5toys.com/2025/05/05/lectric-teases-xp-4-e-bike/">upcoming XP 4 e-bike</a> that will be revealed tomorrow, May 6, 2025.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="414422" href="https://electrek.co/2025/05/05/anker-solix-everfrost-2-electric-coolers-g-force-ecoflow-more/#more-414422" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/anker-solix-everfrost-2-electric-coolers-g-force-ecoflow-more/>
+
+---
+
+## This Affordable EV From Skoda Is A Rising Star Already
+
+date: 2025-05-05, from: Inside EVs News
+
+This compact electric crossover has sold over 45,000 over the last six months, and sales are gaining momentum. 
+
+<br> 
+
+<https://insideevs.com/news/758606/skoda-elroq-rising-ev-star/>
+
+---
+
+## Rivian CEO posts image of the new Maximus drive unit that will power the upcoming R2 EVs
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-R2-Maximus-CU.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> founder and CEO RJ Scaringe just posted a fresh image of a Maximus drive unit—a vital component teased for some time now that will be a key piece in Rivian’s goal to reduce the cost per drive unit in its R2 EV builds.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="414411" href="https://electrek.co/2025/05/05/rivian-ceo-posts-image-maximus-drive-unit-power-upcoming-r2-ev/#more-414411" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/rivian-ceo-posts-image-maximus-drive-unit-power-upcoming-r2-ev/>
+
+---
+
+## Rivian (RIVN) gets $16 million for a new supplier park: A ‘key enabler’ to ramp EV production
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-costs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) is charging ahead with another major project. The EV maker is building a new 1.2 million-square-foot supplier park near its Normal, Illinois, manufacturing plant as part of a nearly $120 million investment. With a $16 million incentive package from the state, Rivian expects it to be “a key enabler” as it ramps up EV production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="414362" href="https://electrek.co/2025/05/05/rivian-rivn-gets-16-million-for-new-supplier-park-key-enabler/#more-414362" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/rivian-rivn-gets-16-million-for-new-supplier-park-key-enabler/>
+
+---
+
+## Waymo Robotaxis Are Better Than Human Drivers. But Not Everywhere
+
+date: 2025-05-05, from: Inside EVs News
+
+One report claims they're way safer than human drivers, but there's a big asterisk covering the whole snow belt. 
+
+<br> 
+
+<https://insideevs.com/news/758604/waymo-robotaxis-better-than-human-drivers/>
+
+---
+
+## Waymo plans to more than double its self-driving I-PACE fleet within the next year
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/waymo-jaguar-ipace-self-driving-1.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Waymo announced plans to more than double its fleet of self-driving I-PACE electric vehicles by the end of next year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="waymo" data-layer-viewtype="unknown" data-post-id="414357" href="https://electrek.co/2025/05/05/waymo-plans-to-more-than-double-its-self-driving-i-pace-fleet-within-the-next-year/#more-414357" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/waymo-plans-to-more-than-double-its-self-driving-i-pace-fleet-within-the-next-year/>
+
+---
+
+## As Tesla Semi Struggles, Volvo Just Sold Its 5,000th Electric Truck
+
+date: 2025-05-05, from: Inside EVs News
+
+Volvos are chugging down the highway while Tesla is still trying to figure out how to mass-produce the Semi. 
+
+<br> 
+
+<https://insideevs.com/news/758587/volvo-trucks-sales-tesla-semi/>
+
+---
+
+## Popular high-power electric bike brand announces shutdown
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/07/super-monarch-crown-ebike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://ecells.com/">E-Cells</a>, an e-bike brand in the US known for its all-wheel-drive fat tire e-bikes with extremely high performance, has announced that it is terminating operations and closing its doors.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="414352" href="https://electrek.co/2025/05/05/popular-high-power-electric-bike-brand-announces-shutdown/#more-414352" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/popular-high-power-electric-bike-brand-announces-shutdown/>
+
+---
+
+## Toyota issues urgent warning: Falling behind China goes far beyond just EVs
+
+date: 2025-05-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Toyota-bz7-EV-5.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>It’s not just electric vehicles. <a href="https://electrek.co/guides/toyota/">Toyota</a> is warning, “We don’t have much time left,” with China poised to take the lead in another emerging technology following EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="414337" href="https://electrek.co/2025/05/05/toyota-issues-urgent-warning-chinas-lead-isnt-just-evs/#more-414337" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/05/toyota-issues-urgent-warning-chinas-lead-isnt-just-evs/>
+
+---
+
+## Why Audi Has A Unique Set Of Headaches These Days
+
+date: 2025-05-05, from: Inside EVs News
+
+Volkswagen's luxury brand seemingly can't catch a break. Plus: tariffs are expected to hit car parts hard, and BYD wins again in April. 
+
+<br> 
+
+<https://insideevs.com/news/758578/audi-headaches-tariffs-cm/>
 
 ---
 

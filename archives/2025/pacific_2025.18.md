@@ -1,11 +1,195 @@
 ---
 title: pacific
-updated: 2025-05-05 06:08:18
+updated: 2025-05-05 14:09:40
 ---
 
 # pacific
 
-(date: 2025-05-05 06:08:18)
+(date: 2025-05-05 14:09:40)
+
+---
+
+## ADHD linked to longer concussion recovery in high school athletes
+
+date: 2025-05-05, from: University of Hawaiʻi News
+
+<p>The research used data collected by certified athletic trainers from 60 <span aria-label="Hawaii">Hawai&#699;i</span> high schools, as part of a statewide concussion monitoring program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/adhd-linked-to-longer-concussion-recovery/"><abbr>ADHD</abbr> linked to longer concussion recovery in high school athletes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/adhd-linked-to-longer-concussion-recovery/>
+
+---
+
+## How Trump’s tariff policy becomes ideal for Guam
+
+date: 2025-05-05, from: Pacific Island Times
+
+He added that U.S. tariffs are collected for imports into the United States. Since Guam is outside of the U.S. Customs systems, tariffs will not have direct impact on Guam. “U.S. tariffs apply to the U.S. territory of Puerto Rico but not to the U.S. Virgin Islands or Guam,” Hiles noted. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/how-trump-s-tariff-policy-becomes-ideal-for-guam>
+
+---
+
+## HIKI NŌ on PBS Hawaiʻi Spring 2025 Compilation
+
+date: 2025-05-05, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>On this episode of HIKI NŌ on PBS Hawaiʻi, watch a special collection of stories from Hawai‘i’s New Wave of Storytellers’ third and final spring round of shows this season with host Edward Wirtz, a senior at Kaʻū High and Pāhala Elementary School on Hawaiʻi island. The show includes a HIKI NŌ Student Reflection from [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-spring-2025-compilation/">HIKI NŌ on PBS Hawaiʻi Spring 2025 Compilation</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-spring-2025-compilation/>
+
+---
+
+## Lānaʻi Education Center launched UH Mānoa grad toward her dreams
+
+date: 2025-05-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa grad will circle back to <span aria-label="Lanai">L&#257;na&#699;i</span> Education Center roots.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/lanai-ed-center-launched-agliam-toward-dreams/">Lānaʻi Education Center launched <abbr>UH</abbr> Mānoa grad toward her dreams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/lanai-ed-center-launched-agliam-toward-dreams/>
+
+---
+
+## Gutting the social safety network?
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+WE don’t want to believe that America is going to phase out all the important public and community services that help our most vulnerable and destitute American citizens. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/gutting-the-social-safety-network/article_27e296fc-7553-4dd0-9810-56296e5ba222.html>
+
+---
+
+## CHCC completes and connects Solar PV Phase 2
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+ON April 28, 2025, the Commonwealth Healthcare Corporation proudly announces the successful completion, connection, and commissioning of Solar Photovoltaic Phase II, in collaboration with the Commonwealth Utilities Corporation. The newly operational system adds 176 kW of renewable energy to CHCC’s growing solar capacity, further solidifying the corporation’s commitment to sustainable healthcare delivery in the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/chcc-completes-and-connects-solar-pv-phase-2/article_8064afe4-8da7-485c-84fd-778e876f616f.html>
+
+---
+
+## ‘We have restored trust in Corrections’
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+“WE have restored trust in our CNMI Department of Corrections,” Commissioner Anthony Torres said in his remarks during the CNMI Correctional Officers and Employees Week proclamation signing ceremony on Monday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/we-have-restored-trust-in-corrections/article_e36ae0a4-b801-4474-ab4a-6dd1b267a383.html>
+
+---
+
+## 18 new US citizens sworn in
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+EIGHTEEN new U.S. citizens were sworn in during a naturalization ceremony at the District Court for the NMI on April 22, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/18-new-us-citizens-sworn-in/article_1a703177-5b06-4a3c-9c4c-a631f887cd21.html>
+
+---
+
+## SBDC hosts Industry Day on Saipan
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+THE CNMI Small Business Development Center hosted the 2025 Industry Day on Friday, May 2 at the Crowne Plaza Resort Saipan to inform small businesses about the regulations they need to follow if they intend to obtain contracts from the Department of Defense. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/sbdc-hosts-industry-day-on-saipan/article_c154af69-39d2-4128-b62d-fa0a69f0e7ae.html>
+
+---
+
+## King-Hinds urges feds to resolve ETA issues as NMI economy struggles
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds has explained to key members of the U.S. House of Representatives how the delay in the processing of electronic travel authorizations or ETA’s for Chinese tourists under the Economic Vitality &amp; Security Travel Authorization Program or EVS-TAP is affecting the CNMI’s “already crumbling economy.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-urges-feds-to-resolve-eta-issues-as-nmi-economy-struggles/article_0bef8c6b-b0a6-4d3f-ac4e-e37c79ef9698.html>
+
+---
+
+## Palacios says he prioritizes PSS, but falls short of 25% mandate
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios told the Board of Education on Friday that education is on top of his priorities. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/palacios-says-he-prioritizes-pss-but-falls-short-of-25-mandate/article_ae9007a1-1c40-4283-be5c-0efbdd324236.html>
+
+---
+
+## Woman to plead guilty to marriage fraud
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+THE federal court has granted the request of Assistant U.S. Attorney Garth Backe to schedule a change of plea hearing for Jaimelynn Nebres Morales, also known as Jaimelynn Bucio Nebres, who is charged with one count of marriage fraud. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/woman-to-plead-guilty-to-marriage-fraud/article_620a968f-cfa3-4731-ac93-4ed89c4d0ad8.html>
+
+---
+
+## Gerber Soothe N Chew Teething Sticks recalled
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+THE CHCC Environmental Health Disease and Prevention program, with guidance from the U.S. Food and Drug Administration has inspected stores on Saipan for variety of Gerber Soothe N Chew Teething Sticks, which have been voluntarily recalled by Gerber Products Company based on an ongoing FDA investigation. The Gerber product in question is a potential choking hazard for babies and young children. CHCC-EHDP has done an assessment on Saipan and did not find any of the affected products in stock or on shelves. Assessments on Rota and Tinian are currently ongoing. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/gerber-soothe-n-chew-teething-sticks-recalled/article_01687fdb-1d66-436c-b28d-a63848449ea8.html>
+
+---
+
+## Register now for Saipan Chamber of Commerce May general membership meeting
+
+date: 2025-05-05, updated: 2025-05-05, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce cordially invites its members, the business community, government leaders, and the general public to attend the upcoming May General Membership Meeting happening on Wednesday, May 7, 2025 at Chamber member establishment, Hibiscus Hall, Crowne Plaza Resort Saipan. Doors open at 11:30 a.m. and the GMM begins promptly at 12 noon. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/register-now-for-saipan-chamber-of-commerce-may-general-membership-meeting/article_471d2d15-7de9-455c-b4b7-55cdb93400d3.html>
+
+---
+
+## The Feline Scale
+
+date: 2025-05-05, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Lisa P. Sutton I’m hiding in my car thinking about Demi Moore again. I’m supposed to be on a date. For an hour now, I’ve been parked right outside his condo but I can’t make myself go inside. I &#8230; <a href="https://hawaiipacificreview.org/2025/05/05/the-feline-scale/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/05/05/the-feline-scale/>
 
 ---
 

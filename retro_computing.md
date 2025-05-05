@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-05 06:08:24
+updated: 2025-05-05 14:09:46
 ---
 
 # retro computing
 
-(date: 2025-05-05 06:08:24)
+(date: 2025-05-05 14:09:46)
+
+---
+
+## TWimp at WROCC – 7th May
+
+date: 2025-05-05, from: RiscOS Story
+
+Graeme Shrimpton will be talking about TWimp to the Wakefield RISC OS Computer Club (WROCC) at their next meeting, which will take place on Wednesday, 7th May. TWimp is a module that makes it much easier developing applications that run in the RISC OS desktop. Most of the window, icon, and menu handling is defined in a text file, with a lot less needed in the main program, which means programmers can devote more time to making their programs do perform their main tasks. Graeme will be demonstrating the ease&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/twimp-at-wrocc-7th-may/>
 
 ---
 
@@ -83,7 +95,7 @@ Another vendor was D-Link, who produced both dongles and hubs along with a start
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMsUBRHFEkB4L_ilh42imPKc7PR2fEsQmrDtZH4cmnDnCxm_xnGrIRtXu5PG052eev6a9q8ECPThQy3qZHYChCpG3y2PZReljo826E-UXva2b9tTsGKkR37ArvCOcLF2e2pNR1e_p7WdVyzIpmq5VB_oXYpywz9ZL-v9xg4umKsIfRDJoXY0OAKZ1nhw/s4080/PXL_20250418_234457216.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMsUBRHFEkB4L_ilh42imPKc7PR2fEsQmrDtZH4cmnDnCxm_xnGrIRtXu5PG052eev6a9q8ECPThQy3qZHYChCpG3y2PZReljo826E-UXva2b9tTsGKkR37ArvCOcLF2e2pNR1e_p7WdVyzIpmq5VB_oXYpywz9ZL-v9xg4umKsIfRDJoXY0OAKZ1nhw/s320/PXL_20250418_234457216.jpg"/></a></div>
 
-In CW-USB parlance for "legacy" wired devices, the computer side is called an HWA (Host Wireless Adapter) and the device side, which could be a hub or an actual device, is called a DWA (Device Wireless Adapter), both of which could be built-in to compliant hardware. What's notable about these packages is that <em>all</em> of them come with an HWA, even though only one of them actually has a DWA <em>hub</em>: the D-Link starter kit (model DUB-9240), consisting of a DUB-2240 4-port DWA USB 2.0 hub and a DUB-1210 HWA. The TRULink #29596 Wireless USB to VGA and Audio Kit has two downstream devices with on-board DWAs, one for a VGA monitor (up to 1600x1200 or 1680x1050) and one for analogue audio, plus its own HWA; the Atlona AT-PCLink Wireless USB DisplayDock offers DVI video, 3.5mm (1/8") audio and two USB ports, officially for your mouse and keyboard. The dock base, interestingly enough, is <em>not</em> a CW-USB device itself: you have to plug a DWA into it (included) which can go in one of two ports depending on physical configuration. In the package Atlona also includes <em>another</em> HWA.
+In CW-USB parlance for "legacy" wired devices, the computer side is called an HWA (Host Wireless Adapter) and the device side, which could be a hub or an actual device, is called a DWA (Device Wireless Adapter), both of which could be built-in to compliant hardware. What's notable about these packages is that <em>all</em> of them come with an HWA, even though only one of them actually (or at least officially) has a DWA <em>hub</em>: the D-Link starter kit (model DUB-9240), consisting of a DUB-2240 4-port DWA USB 2.0 hub and a DUB-1210 HWA. The TRULink #29596 Wireless USB to VGA and Audio Kit has two downstream devices with on-board DWAs, one for a VGA monitor (up to 1600x1200 or 1680x1050) and one for analogue audio, plus its own HWA; the Atlona AT-PCLink Wireless USB DisplayDock offers DVI video, 3.5mm (1/8") audio and two USB ports, advertised for your mouse and keyboard (but really a lurking hub also). The dock base, interestingly enough, is <em>not</em> a CW-USB device itself: you have to plug a DWA into it (included) which can go in one of two ports depending on physical configuration. In the package Atlona also includes <em>another</em> HWA.
 <p>
 However, since they're all allegedly CW-USB 1.0 compliant, you should be able to use any HWA you want. (Theoretically. That's called "foreshadowing.") The D-Link and TRULink HWAs only support Windows XP SP3 and Vista &mdash; there was a short-lived Linux implementation that Intel themselves wrote, but it was very incomplete and eventually removed &mdash; and the Atlona HWA does too, but it also claims support for Windows 7 and even Mac OS X (Leopard and Snow Leopard). So our test system will be ...
 
@@ -385,7 +397,7 @@ Here I've simply mirrored the MacBook to my wife's Samsung secondary monitor. Th
 
 The Samsung doesn't support exactly the native resolution of the MacBook which is why it looks squashed, but you can see it correctly detected the model. How well does it perform? A good stress test is high-resolution video, which the manual warns you against because it would be choppy. We don't let manuals tell us what to do in this house. Manuals are suggestions. Manuals can sometimes be wrong. Let's play the <a href="http://www.macyourself.com/2008/11/13/grab-the-source-files-for-that-snazzy-leopard-welcome-video/">Snow Leopard welcome video</a> and prove it wrong. (The Snow Leopard welcome video has audio in a separate file, so this comparison movie has no sound.)
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxAVN9cuksv99VKOFq8mzoQlXMHMvR-XYoK-puRlHascxpJWchdJommn-FKVL4PyDJdFxu-sSMZZR1iMdySSQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzwbOGZ_Oj3NFCeR6gynLBfDEASpRnS7-QfOUU3FbdX71JnlEnrVGXPxkfx6kUe4EACfP522aPZOJmvpzB3ng' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 And, well, the manual wasn't wrong. There is a slight but noticeable lag and there are many dropped frames of video on the mirrored side; the best that could be said is it's watchable. Think "playing YouTube videos over Microsoft Teams screen share" and that would be about right.
 
@@ -443,7 +455,7 @@ When the receiver and sender are in range of each other, they will automatically
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK_B1j9n6zO92i9ZC4PTJNQ427pUC73SegmRk7s0_qKxxr7l4IX-1AwCjC_AIO32IBOT0lnXt6zRYint3Iqd47MwvufhEILjwcon_17adZPI0ZgQ01QYgDkwtPqQO8kndO-II3mmqJdocY5wbLnMtO83QKJ4N1281I0NAWJW8UxjTcKESOVduAw9izgC4/s1024/Picture%2024.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK_B1j9n6zO92i9ZC4PTJNQ427pUC73SegmRk7s0_qKxxr7l4IX-1AwCjC_AIO32IBOT0lnXt6zRYint3Iqd47MwvufhEILjwcon_17adZPI0ZgQ01QYgDkwtPqQO8kndO-II3mmqJdocY5wbLnMtO83QKJ4N1281I0NAWJW8UxjTcKESOVduAw9izgC4/s320/Picture%2024.png"/></a></div>
 
-At that point, a new hub appears, like any other USB hub. That's all there is to it.
+At that point, a new hub appears, like any other USB hub. That's all there is to it. Importantly, this is not a new <em>bus</em> like CW-USB.
 <p>
 I wanted to do some performance tests with it, but strangely macOS Sequoia will not recognize the sender when connected to my M1 MacBook Air, even though it worked fine connected to the Raptor POWER9 in Fedora 41 and was seen as a hub there too. So we'll do the tests on the MacBook as well, which also had no problem seeing and using the pair. Again, we'll just copy that same 1.09GB combo installer and see how long it takes.
 

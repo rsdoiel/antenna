@@ -1,11 +1,137 @@
 ---
 title: food
-updated: 2025-05-05 06:08:25
+updated: 2025-05-05 14:09:47
 ---
 
 # food
 
-(date: 2025-05-05 06:08:25)
+(date: 2025-05-05 14:09:47)
+
+---
+
+## 17 Delicious Arugula Salad Recipes
+
+date: 2025-05-05, from: Bon Appetet
+
+Toss the peppery greens with Italian plums and Parmesan, roasted Meyer lemons and avocado, grilled broccoli and herbs, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/arugula-salad-recipes-ideas>
+
+---
+
+## I Tried the New McDonald’s McCrispy Strips—Here’s My Honest Review
+
+date: 2025-05-05, from: Taste of Home
+
+<p>Will McCrispy Strips dethrone Chicken McNuggets? I had to find out.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mccrispy-strips-review/">I Tried the New McDonald&#8217;s McCrispy Strips—Here&#8217;s My Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mccrispy-strips-review/>
+
+---
+
+## Klatch Coffee Introduces Ready-To-Go Cold Brew
+
+date: 2025-05-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Premium iced coffee concentrate makes 4 gallons of cold brew from a compact, 32 fl oz bottle. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-introduces-ready-to-go-cold-brew-330673.html>
+
+---
+
+## THE SPANISH INFLUENCE ON IRISH FOOD: WINE, TAPAS, AND TRADE – HOW THE SPANISH ARMADA LEFT ITS MARK
+
+date: 2025-05-05, from: Irish Food Hub
+
+<p>Storms, Survivors, and Seeds of Influence – The Arrival of the Spanish Armada In the summer of 1588, the Spanish Armada—Philip II’s great naval fleet—met disaster off the coasts of Ireland. After suffering defeat by the English navy, many of the remaining ships were battered by storms as they attempted to sail home by circling the British Isles. Rough seas forced several ships onto the rocky western and northern coasts of Ireland, especially along counties Sligo, Mayo, and Donegal. Over twenty ships were wrecked, and an estimated 1,000 Spanish sailors either drowned or came ashore. While many who survived the landings were captured or killed by English forces, some found refuge among the Irish. Hidden in remote glens, caves, and sympathetic households, a few Spaniards integrated—at least temporarily—into local communities. These accidental visitors brought with them not only stories of empire and war but also exotic goods, culinary habits, and cultural connections that subtly infused Irish life. From this unlikely and tragic episode, legends blossomed—of Spanish blood in Irish veins, of olive-skinned children born in coastal villages, and of a shared Catholic bond that deepened a mutual sense of resistance to English rule. These connections laid a foundation for centuries of intermittent trade and cultural exchange between Spain and Ireland. Though the Spanish Armada’s immediate legacy was one of death and devastation, its shipwrecks served as vessels of cultural transmission. Wines, preserved meats, olive oil, and new culinary ideas trickled into Irish life.  Sherry and Claret – Spanish Wines on Irish Tables Long before the rise of Irish whiskey as a national symbol, there was sherry in the goblet and claret in the jug. The arrival of Spanish wines in Ireland predates the Armada disaster, but the events of 1588 intensified the relationship. As Catholic allies with a shared adversary in England, Ireland and Spain developed clandestine trading links that continued well into the 17th and 18th centuries. Spanish merchants—especially from Andalusia and the Basque Country—found eager buyers in Ireland. Sherry (known as sack), red wines from Rioja, and later French claret (which came through Spanish-linked routes) were shipped into Irish ports such as Galway, Kinsale, and Waterford. Though often subject to English embargoes or pirate raids, these shipments persisted thanks to smugglers, sympathetic local lords, and the famous “wine geese”—Irish families who settled in Spain and France to engage in the wine trade. Spanish wine became especially prized among Irish nobility, clergy, and wealthy merchants. It was served at feasts, used in religious rites, and gifted as tokens of favor. Galway earned the nickname “the wine capital of Ireland” due to its active Spanish connections and vibrant merchant class. Even poorer households would reuse barrels or casks from wine shipments, sometimes infusing local brews with a touch of foreign flavor. This rich tradition of wine appreciation left its mark not only on taste but also on trade networks and social rituals. Spanish wine was more than a drink—it was a symbol of alliance, sophistication, and quiet resistance to English cultural dominance. Tapas and Table Talk – Echoes of Spanish Dining in Irish Food Culture While tapas as we know them are firmly rooted in Spanish tradition, there is compelling evidence that the spirit of shared, small-plate dining found subtle resonance in Ireland—especially in coastal regions where Spanish contact was most frequent. In the wake of the Armada and ongoing Iberian trade, certain elements of Spanish food culture began to seep into Irish households and hospitality practices. Spanish sailors and traders brought with them not only goods like cured meats, cheeses, and olives, but also a social style of eating that emphasized leisurely gatherings, communal dishes, and small bites paired with wine or ale. Irish hospitality, already strong in tradition, began to absorb this approach—particularly among wealthier or merchant households who had more frequent access to foreign ingredients. In areas like Galway and Waterford, where Spanish merchants and their Irish hosts mingled over long evenings, mealtime evolved from simple sustenance into more social affairs. Local cheeses, dried fish, and cured meats—long part of Irish fare—were presented in a more relaxed, shared format, often accompanied by bread, butter, and wine. Though not called “tapas,” these spreads reflected similar values: variety, conversation, and connection. Some scholars also suggest that the Irish custom of “the collation”—a light evening meal featuring bread, cheese, and drink—bears resemblance to Spanish late-evening eating habits. Over time, especially in urban areas with greater foreign contact, this style helped diversify Irish mealtime structure beyond the traditional midday dinner and heavier evening supper. In essence, while tapas themselves didn’t take root wholesale, the idea of dining as a shared, convivial experience—and the layering of small, flavorful components—added a rich thread to the Irish culinary tapestry. While tapas as we know them are firmly rooted in Spanish tradition, there is compelling evidence that the spirit of shared, small-plate dining found subtle resonance in Ireland—especially in coastal regions where Spanish contact was most frequent. Salt, Smoke, and Spices – Spanish Trade and Irish Preservation Traditions Ireland has a long history of food preservation, honed by necessity in a cool, damp climate where fresh produce was seasonal and meat had to be stored for leaner times. Salting, smoking, and air-drying were traditional techniques, and Spain—through centuries of maritime trade—helped expand and refine these practices with new ingredients and methods. After the Spanish Armada’s unintended landings and the gradual development of Spanish-Irish trade routes, Iberian goods became more common in Irish ports—particularly salt, olive oil, dried fruits, and spices like paprika and saffron. While Ireland lacked its own salt mines, Spanish sea salt—especially from Cadiz and the Bay of Biscay—was prized for its purity and abundance. It became essential in the curing of pork and fish, leading to regional specialties like salted ling, corned beef, and bacon rashers that remain iconic today. Fish, a staple in both countries’ Catholic diets, was an area of notable overlap. Spanish merchants introduced better techniques for drying and preserving fish like cod and hake, which Irish fishers</p>
+<p>The post <a href="https://irishfoodhub.com/the-spanish-influence-on-irish-food-wine-tapas-and-trade-how-the-spanish-armada-left-its-mark/">THE SPANISH INFLUENCE ON IRISH FOOD: WINE, TAPAS, AND TRADE – HOW THE SPANISH ARMADA LEFT ITS MARK</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/the-spanish-influence-on-irish-food-wine-tapas-and-trade-how-the-spanish-armada-left-its-mark/>
+
+---
+
+## IRISH HOT DOG
+
+date: 2025-05-05, from: Irish Food Hub
+
+<p>Description: A hearty, Irish-inspired take on the classic hot dog, featuring juicy sausages, Guinness onions, and a zingy mustard-mayo sauce. Preparation Time: 10 minutesCooking Time: 20 minutesServing Size: Serves 4 Ingredients: 4 Irish pork sausages (or good-quality bangers) 4 sturdy hot dog buns (brioche or crusty rolls work well) 1 large onion, thinly sliced 1 tbsp butter 60ml (¼ cup) Guinness (or other stout) 1 tbsp brown sugar 2 tbsp wholegrain mustard 2 tbsp mayonnaise 1 tsp horseradish (optional for a kick) Chopped chives or scallions (to garnish) Optional toppings: shredded cabbage, crispy rashers (bacon), or fried egg Instructions: Cook the sausages:Grill or pan-fry the sausages over medium heat until browned and cooked through, about 12–15 minutes. Turn regularly. Make Guinness onions:In a skillet, melt butter and add sliced onions. Cook on low until softened (5–6 minutes), then stir in brown sugar and Guinness. Let simmer until caramelised and reduced, about 10 minutes. Mix the sauce:In a small bowl, combine wholegrain mustard, mayonnaise, and horseradish if using. Assemble the dogs:Toast or warm the buns. Spread a little sauce on each side, place in the sausage, and top with the Guinness onions. Garnish:Sprinkle with chopped chives or scallions and any extra toppings you fancy. Serving Suggestion Serve with chunky chips, a side of coleslaw, and a chilled Irish cider or craft beer.</p>
+<p>The post <a href="https://irishfoodhub.com/irish-hot-dog/">IRISH HOT DOG</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/irish-hot-dog/>
+
+---
+
+## The Sprudge Guide To Coffee In Bangkok
+
+date: 2025-05-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Bangkok, Thailand. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-bangkok-309675.html>
+
+---
+
+## Three Questions with Sergio Hernandez of Gratitude Specialty Coffee in La Paz, Mexico
+
+date: 2025-05-05, from: Daily Coffee News
+
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Gratitude Coffee La Paz Sergio" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1.jpg 681w" sizes="(max-width: 620px) 100vw, 620px" /></div>Not all coffee stories begin with a traveling circus, but that&#8217;s precisely how the married owners of Gratitude Specialty Coffee Roasters (Instagram) in La Paz, Mexico, first met. Gloria Olivera... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/05/three-questions-with-sergio-hernandez-of-gratitude-specialty-coffee-in-la-paz-mexico/>
+
+---
+
+## Not Just Another Fund: Coffee Futures Launches To Empower Coffee Shop Owners
+
+date: 2025-05-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Applications Now Open for Summer 2025 Cohort Following SCA Expo 2025 Debut 
+
+<br> 
+
+<https://sprudge.com/not-just-another-fund-coffee-futures-launches-to-empower-coffee-shop-owners-330560.html>
+
+---
+
+## Shiny New Espresso Machines at the 2025 SCA Expo in Houston
+
+date: 2025-05-05, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="new espresso machines 2025" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Espresso flowed like lava from a volcano of shiny new things at the 2025 SCA Expo in Houston last week. While we didn&#8217;t encounter much earth-shattering newness from many of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/05/shiny-new-espresso-machines-at-the-2025-sca-expo-in-houston/>
+
+---
+
+## Coffee Coalition for Racial Equity Honors BLK & Bold, Keith Hawkins and Martell Mason
+
+date: 2025-05-05, from: Daily Coffee News
+
+<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-620x407.png" class="attachment-large size-large wp-post-image" alt="CCREGroup" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-620x407.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-300x197.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-150x98.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-768x504.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup.png 1169w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Coffee Coalition for Racial Equity recently celebrated the work of BLK &#38; Bold, Keith Hawkins and Martell Mason for their leadership, creativity and service in moving the coffee industry... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/05/coffee-coalition-for-racial-equity-honors-blk-bold-keith-hawkins-and-martell-mason/>
 
 ---
 
@@ -105,6 +231,18 @@ Cocktails at 🔶🟥🔵 embody functional minimalism, radical simplicity, and 
 
 ---
 
+## Maple Apple Pie
+
+date: 2025-05-04, from: Taste of Home
+
+Tiny, rural Vermont is famous for its apples, for dairy cows and for producing more maple syrup than any other state. This delicious maple apple pie, with sharp cheddar cheese melted on each slice, combines the state's finest ingredients. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/maple-apple-pie/>
+
+---
+
 ## May The Fourth Cup Of Coffee Be With You
 
 date: 2025-05-04, from: The Sprudge
@@ -121,7 +259,7 @@ date: 2025-05-04, from: The Sprudge
 
 date: 2025-05-04, from: Bon Appetet
 
-Here's how I turn them into countless dinners. 
+Here’s how I turn them into countless dinners. 
 
 <br> 
 

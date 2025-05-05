@@ -1,11 +1,149 @@
 ---
 title: north america
-updated: 2025-05-05 06:08:16
+updated: 2025-05-05 14:09:39
 ---
 
 # north america
 
-(date: 2025-05-05 06:08:16)
+(date: 2025-05-05 14:09:39)
+
+---
+
+## Senator Mark Warner on National Security and Absurd Proposed Cuts to Federal Spending 
+
+date: 2025-05-05, from: The Contrarian
+
+"It's got to be pretty hard to piss off Canada, and we've managed to do that in 105 days" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162889033/80f2adccdaad2f9879bb5fd8b9dce98c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162889033/80f2adccdaad2f9879bb5fd8b9dce98c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/senator-mark-warner-on-national-security>
+
+---
+
+## Jen and Pablo Torre take off the gloves! A disappeared goalie, legendary coaches & more
+
+date: 2025-05-05, from: The Contrarian
+
+"The Trump Administration has put America into the role of a dictatorship, enabling other dictatorships" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162888919/00e571e7b7b3a6e07150bdcfabf14385.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162888919/00e571e7b7b3a6e07150bdcfabf14385.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-and-pablo-torre-take-off-the>
+
+---
+
+## Do Republicans want more mothers to die?
+
+date: 2025-05-05, from: The Contrarian
+
+Proposed cuts to Medicaid suggest yes. 
+
+<br> 
+
+<https://contrarian.substack.com/p/do-republicans-want-more-mothers>
+
+---
+
+## Trump’s tariffs won’t cure wrongs of past trade deals
+
+date: 2025-05-05, from: The Contrarian
+
+We constructed trade policy to make it as easy as possible to bring in manufactured goods from China and other developing countries with low-cost labor. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-tariffs-wont-cure-wrongs-of>
+
+---
+
+##  Big Tobacco&#x27;s Trump Whisperer 
+
+date: 2025-05-05, from: The Lever News
+
+ A tobacco brand and other former clients of White House Chief of Staff Susie Wiles are lining up to lobby the Trump administration for favors.  
+
+<br> 
+
+<https://www.levernews.com/big-tobaccos-trump-whisperer/>
+
+---
+
+## Incursion Reversion
+
+date: 2025-05-05, from: The Contrarian
+
+It's our monthly Contrarian episode of Talking Feds Substack, and it comes at a natural pivot point entering the second 100 days of Trump 2.0. 
+
+<br> 
+
+<https://contrarian.substack.com/p/incursion-reversion>
+
+---
+
+## The weakest link
+
+date: 2025-05-05, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-weakest-link>
+
+---
+
+## How Did Farmers Respond When the Trump Administration Suddenly Stopped Paying Them to Help Feed Needy Californians?
+
+date: 2025-05-05, from: Capital and Main
+
+<p>When the U.S. government chopped $1 billion from USDA programs nationally, a group of farmers in the Central Valley fought back. </p>
+<p>The post <a href="https://capitalandmain.com/how-did-farmers-respond-when-the-trump-administration-suddenly-stopped-paying-them-to-help-feed-needy-californians">How Did Farmers Respond When the Trump Administration Suddenly Stopped Paying Them to Help Feed Needy Californians?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-did-farmers-respond-when-the-trump-administration-suddenly-stopped-paying-them-to-help-feed-needy-californians>
+
+---
+
+## And Then They Came for AmeriCorps …
+
+date: 2025-05-05, from: The Contrarian
+
+Axing the community service program undercuts our democracy by weakening the connective tissue it needs to survive. 
+
+<br> 
+
+<https://contrarian.substack.com/p/and-then-they-came-for-americorps>
+
+---
+
+## Coffee with The Contrarians 05/05
+
+date: 2025-05-05, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/05 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0505>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-05, from: The Contrarian
+
+Monday: Protests in Montana, Ohio, Arizona, and Colorado, an important message from George Takei, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

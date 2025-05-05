@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-05 06:08:26
+updated: 2025-05-05 14:09:48
 ---
 
 # craft
 
-(date: 2025-05-05 06:08:26)
+(date: 2025-05-05 14:09:48)
+
+---
+
+## Check Out Finished.: The Art and Science of Wooden Surfaces
+
+date: 2025-05-05, from: Lost Arg Press blog
+
+Shane Orion Wiechnik, a furniture restorer and conservator based in Sydney, Australia, along with Liz Duck-Chong, a carpenter, freelance filmmaker and teacher, recently launched a new YouTube channel called Finished., an educational series on wood finishes. Shane has spent the last 10 years developing a better knowledge of finishes. Deep diving into history, solvents, chemistry... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/05/check-out-finished-the-art-and-science-of-wooden-surfaces/>
 
 ---
 

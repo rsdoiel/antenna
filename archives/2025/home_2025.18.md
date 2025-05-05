@@ -1,11 +1,147 @@
 ---
 title: home
-updated: 2025-05-05 06:08:23
+updated: 2025-05-05 14:09:45
 ---
 
 # home
 
-(date: 2025-05-05 06:08:23)
+(date: 2025-05-05 14:09:45)
+
+---
+
+## Before & After: She Pivoted a "Corporate" Apartment Into a Cozy, Wood-Wrapped Home
+
+date: 2025-05-05, from: Dwell
+
+Rintala Eggertsson Architects restructures a top-floor Oslo residence with a new staircase, fresh timber, and vibrant orange curtains. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-oslo-loft-renovation-rintala-eggertsson-arkitekter-1ec58cab>
+
+---
+
+## Thinking About Hiring an ADU Builder? Read This First
+
+date: 2025-05-05, from: Dwell
+
+Housing nonprofit Casita Coalition shares a checklist for what you can do to avoid scams and ensure a successful build. 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-hire-an-adu-builder-casita-coalition-checklist-9af614db>
+
+---
+
+## Buying a Prefab ADU Was Supposed to Be Easier Than This
+
+date: 2025-05-05, from: Dwell
+
+Several builders are making promises they can’t keep—or never intended to—leaving buyers in the lurch and thousands of dollars poorer. 
+
+<br> 
+
+<https://www.dwell.com/article/prefab-home-building-industry-challenges-backyard-adu-potential-e8f476e5>
+
+---
+
+## For $2.7M, You Can Scoop Up a Curvaceous L.A. Home by Eric Owen Moss
+
+date: 2025-05-05, from: Dwell
+
+Set a stone’s throw from the beach, the property comes with lots of outdoor space and three separate units spread across four floors. 
+
+<br> 
+
+<https://www.dwell.com/article/curved-beach-house-eric-owen-moss-los-angeles-real-estate-f97a07f7>
+
+---
+
+## 19 of the Best Agastache Varieties to Grow at Home
+
+date: 2025-05-05, from: The Gardener's Path
+
+<p>Agastache is colorful, fragrant, and blooms for months with spikes of showy blossoms. If you're looking for a good variety for your garden, there are a number of different types, including tasty Korean mint, colorful ‘Peachy Keen,’ and adaptable Kudos ‘Silver Blue.’ Learn about 19 of the best agastache varieties now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-agastache-varieties/">19 of the Best Agastache Varieties to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-agastache-varieties/>
+
+---
+
+## Secretary Ross in the Central Valley — a new dairy processing plant; honoring a long-time colleague; and a vital discussion on immigration
+
+date: 2025-05-05, from: Calfifornia Dept. Aggriculture blog
+
+By CDFA Secretary Karen Ross I was pleased to visit the Central Valley for two days last week and honored to be asked to attend a ribbon cutting for a new milk processing plant, appear at a farewell for a &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28957">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28957>
+
+---
+
+## A Couple in Their 70s Made Downsizing Easy by Building Right Next Door
+
+date: 2025-05-05, from: Dwell
+
+The Portland, Oregon, septuagenarians went from a three-level Craftsman to a home with no stairs, low-maintenance finishes, and space for live-in help, if or when they need it. 
+
+<br> 
+
+<https://www.dwell.com/article/alberta-arts-house-lever-architecture-aging-in-place-home-1cf43772>
+
+---
+
+## Buyer Pays $225M for Luxury Florida Estate—Despite Extreme Flood Risk
+
+date: 2025-05-05, from: Family Handyman Blog
+
+<p>Despite rising sea levels and extreme flood warnings, a record-breaking $225 million sale in Naples shows luxury buyers aren’t backing away from the coast.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/florida-most-expensive-home/">Buyer Pays $225M for Luxury Florida Estate—Despite Extreme Flood Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/florida-most-expensive-home/>
+
+---
+
+## When Should You Book Your Flight? A Travel Pro Shares Game-Changing Advice
+
+date: 2025-05-05, from: Sunset Magazine - Living in the West
+
+Timing is everything when buying airfare. A travel expert shares the best time to book a flight to get a great deal for your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-time-to-book-flight>
+
+---
+
+## 7 Small Hacks That Will Save You Money on Your Next Remodel
+
+date: 2025-05-05, from: Sunset Magazine - Living in the West
+
+Costs can quickly add up during a remodel. Experts share small ways you can save money on your next renovation. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/how-to-save-money-on-remodel>
+
+---
+
+## Secret Garden Gems of the West to Visit This Spring
+
+date: 2025-05-05, from: Sunset Magazine - Living in the West
+
+Discover secluded oases, unique landscapes, and vibrant blooms in these secret gardens of the West. Put them on your spring travel list. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/secret-gardens-of-the-west>
 
 ---
 

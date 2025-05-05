@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-05-05 06:08:22
+updated: 2025-05-05 14:09:45
 ---
 
 # libraries
 
-(date: 2025-05-05 06:08:22)
+(date: 2025-05-05 14:09:45)
+
+---
+
+## Day in Review (May 5–8)
+
+date: 2025-05-05, from: Association of Research Libraries News
+
+<p>Last Updated on May 5, 2025, 4:42 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 6 &#124; Wednesday, May 7 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-5-8/">Day in Review (May 5–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-may-5-8/>
+
+---
+
+## The Splendid Fairing, by Constance Holme
+
+date: 2025-05-05, from: Standard Ebooks, new releaases
+
+An elderly couple tries to deal with an unfavorable financial situation, deteriorating health, and the absence of their son while living in a tight-knit community that doesn’t hold them in high esteem. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/constance-holme/the-splendid-fairing>
 
 ---
 
@@ -56,4 +82,40 @@ Debret B.; Sossi P.A.; Malaspina N.; Gautier A.; Mattielli N.; O'Neill H.; Villa
 <br> 
 
 <http://hdl.handle.net/20.500.11850/726172>
+
+---
+
+## Data on the adoption of integrated pest management (IPM) practices in maize production in Denmark
+
+date: 2025-05-05, from: ETH Zurich, recently added
+
+Akter, Sharmin; Kreft, Cordelia; McCallum, Chloe; Möhring, Niklas; Erik Jensen, Jens; Louise Appel, Sophie; Finger, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733823>
+
+---
+
+## Data on the adoption of integrated pest management (IPM) practices in wheat production in Denmark
+
+date: 2025-05-05, from: ETH Zurich, recently added
+
+Akter, Sharmin; Kreft, Cordelia; McCallum, Chloe; Möhring, Niklas; Erik Jensen, Jens; Louise Appel, Sophie; Finger, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733822>
+
+---
+
+## Data on the adoption of integrated pest management (IPM) practices in potato production in Denmark
+
+date: 2025-05-05, from: ETH Zurich, recently added
+
+Akter, Sharmin; Kreft, Cordelia; McCallum, Chloe; Möhring, Niklas; Erik Jensen, Jens; Louise Appel, Sophie; Finger, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733821>
 

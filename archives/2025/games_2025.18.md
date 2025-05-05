@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-05-05 06:08:21
+updated: 2025-05-05 14:09:43
 ---
 
 # games
 
-(date: 2025-05-05 06:08:21)
+(date: 2025-05-05 14:09:43)
+
+---
+
+## Every tease Marvel still needs to pay off, in theory
+
+date: 2025-05-05, updated: 2025-05-05, from: Polygon Website
+
+Over the past 17 years, Marvel Studios has focused as much on the continuity of its ongoing mega-story as it’s focused on the content of any given superhero film. The 23-film Infinity Saga was never just about individual movie narratives — it was about the buildup to Avengers: Infinity War and Avengers: Endgame, the two-part [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors>
+
+---
+
+## The Unpacking team packed Tempopo full of puzzles and bops
+
+date: 2025-05-05, updated: 2025-05-05, from: Polygon Website
+
+Are you stressed? I am a little stressed. Woo… things are a little stressful.&#160; But when life serves me a week where I feel like I’m on The Pitt, the last thing I personally want to do is vibe. Which means I rarely turn to cozy games for cozy comfort; in times of chaos, I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/597760/tempopo-cozy-puzzle-game-review>
+
+---
+
+## Citizen Sleeper is also a solo board game now — and it’s free
+
+date: 2025-05-05, updated: 2025-05-05, from: Polygon Website
+
+Citizen Sleeper and Citizen Sleeper 2 already have the feel of a tabletop role-playing game, or maybe just a really good book with some choose-your-own-adventure elements. Now, series maker Jump Over the Age has made it official: Citizen Sleeper has a solo board game version, downloadable for free on itch.io. Called Citizen Sleeper: Spindlejack, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/597744/citizen-sleeper-spindlejack-solo-board-game>
+
+---
+
+## Gears of War coming to PS5 with 4K remaster
+
+date: 2025-05-05, updated: 2025-05-05, from: Polygon Website
+
+Step aside, Oblivion, there’s a new 20-year-old game getting the 4K-remastered treatment. The original Gears of War, first released in 2006, will be re-released as Gears of War: Reloaded on August 26 for PlayStation 5, Windows PC, and Xbox Series X. Yes, you read that right: Gears of War is coming to PlayStation. Over the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/597723/gears-war-remaster-reloaded-release-date>
+
+---
+
+## Switch 2 accessory maker responds to Nintendo lawsuit
+
+date: 2025-05-05, updated: 2025-05-05, from: Polygon Website
+
+Back in January of this year, a third-party accessory manufacturer was showing off a bunch of accessories for the forthcoming Switch 2 at CES 2025. The problem? No one had officially seen a Switch 2 in the wild. Despite plenty of leaks, Nintendo wouldn’t unveil the console until about a week after CES. Genki would [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/597720/genki-nintendo-leak-lawsuit>
+
+---
+
+## Marvel posts the big Avengers-related spoiler for Thunderbolts* after decent box office weekend
+
+date: 2025-05-05, updated: 2025-05-05, from: Polygon Website
+
+Just like theatrical release windows have condensed from months to mere weeks, so too has the spoiler timeline. Only a few short years ago, a giant like Marvel studio was begging for fans to keep quiet on a post-release Monday about reveals in a movie like Avengers: Endgame. Now, for Thunderbolts*, it’s part of week [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/597699/thunderbolts-box-office-new-avengers>
 
 ---
 
