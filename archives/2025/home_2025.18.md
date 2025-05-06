@@ -1,11 +1,207 @@
 ---
 title: home
-updated: 2025-05-06 06:10:26
+updated: 2025-05-06 14:11:07
 ---
 
 # home
 
-(date: 2025-05-06 06:10:26)
+(date: 2025-05-06 14:11:07)
+
+---
+
+## How to Build a Fold-Up DIY Grill Table
+
+date: 2025-05-06, from: Family Handyman Blog
+
+</p>
+<p>The post <a href="https://www.familyhandyman.com/project/fold-up-grill-table/">How to Build a Fold-Up DIY Grill Table</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/fold-up-grill-table/>
+
+---
+
+## How To Make Custom Brown Paint for Every Project
+
+date: 2025-05-06, from: Family Handyman Blog
+
+<p>From earthy tones to rich chocolates, this step-by-step guide explains how to make brown paint in any shade you desire</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-make-brown-paint/">How To Make Custom Brown Paint for Every Project</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-make-brown-paint/>
+
+---
+
+## How to Navigate Renovation Costs in the Age of Tariffs
+
+date: 2025-05-06, from: Dwell
+
+Stop panic-hoarding building materials and get familiar with one word: contracts. 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-navigate-renovation-costs-in-the-age-of-tariffs-528f63ea>
+
+---
+
+## Replace Your Toilet Fill Valve in 12 Simple Steps
+
+date: 2025-05-06, from: Family Handyman Blog
+
+<p>This simple DIY project shows how to replace a toilet fill valve when your toilet won't stop running or takes forever to refill.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-replace-a-toilet-fill-valve/">Replace Your Toilet Fill Valve in 12 Simple Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-replace-a-toilet-fill-valve/>
+
+---
+
+## An Icon of Midcentury Glass Architecture Pops Up on the Market in Briarcliff Manor for $2.9M
+
+date: 2025-05-06, from: Dwell
+
+The Roy O. Allen residence glitters inside and out. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-roy-o-allen-house-briarcliff-manor-real-estate-51c3f1f5>
+
+---
+
+## Mulch Glue Explained: What It Is and How It Works
+
+date: 2025-05-06, from: Family Handyman Blog
+
+<p>Discover how mulch glue works and whether it's the right solution to keep your landscaped areas tidy.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/mulch-glue-explained-what-it-is-and-how-it-works/">Mulch Glue Explained: What It Is and How It Works</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/mulch-glue-explained-what-it-is-and-how-it-works/>
+
+---
+
+## Warning: This Native Vine Can Harm Your Dogs and Cats
+
+date: 2025-05-06, from: Family Handyman Blog
+
+<p>This lovely native plant is highly toxic to pets, but there are ways to live in harmony with it.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/carolina-jessamine-harms-your-pets/">Warning: This Native Vine Can Harm Your Dogs and Cats</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/carolina-jessamine-harms-your-pets/>
+
+---
+
+## Ron Thom’s Carmichael House Just Hit the Market Near Vancouver for $2.7M
+
+date: 2025-05-06, from: Dwell
+
+The midcentury home has an unusual geometric plan, a suite of built-in furniture, and a monolithic concrete fireplace. 
+
+<br> 
+
+<https://www.dwell.com/article/carmichael-house-ron-thom-vancouver-real-estate-a633fe7d>
+
+---
+
+## 5 Reasons for Japanese Maple Not Leafing Out
+
+date: 2025-05-06, from: The Gardener's Path
+
+<p>Japanese maples (Acer palmatum) are gorgeous deciduous trees and shrubs with striking foliage, so it's very disappointing when your plants fails to leaf out. There are a variety of reasons why this might happen. Learn about 5 common reasons why Japanese maples fail to leaf out and how to fix them in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/japanese-maple-not-leafing-out/">5 Reasons for Japanese Maple Not Leafing Out</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/japanese-maple-not-leafing-out/>
+
+---
+
+## An Aspen Valley Home Sets the Stage for Its Stunning Landscape—and a Better Approach to Building
+
+date: 2025-05-06, from: Dwell
+
+The thoughtfully designed mountain home celebrates its surroundings, blends form with function, and pushes the boundaries of prefabricated construction. 
+
+<br> 
+
+<https://www.dwell.com/article/aspen-valley-home-prefab-turkel-design-3b7cea97>
+
+---
+
+## Even the Underside of This Swedish Home Is Finished in Wood
+
+date: 2025-05-06, from: Dwell
+
+Perched on pillars, the hovering coastal retreat is wrapped in larch. 
+
+<br> 
+
+<https://www.dwell.com/article/yngsjo-holiday-house-johan-sundberg-arkitektur-modernist-style-wood-home-ad8ead33>
+
+---
+
+## 30 Weeds with White Flowers (Pictures and Identification)
+
+date: 2025-05-06, from: Yard Life blog
+
+<p>Weeds with white flowers are a common sight in gardens, fields, and along roadsides. While some may see them as ... </p>
+<p class="read-more-container"><a title="30 Weeds with White Flowers (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-weeds-with-white-flowers-pictures-and-identification/#more-28149" aria-label="Read more about 30 Weeds with White Flowers (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-weeds-with-white-flowers-pictures-and-identification/">30 Weeds with White Flowers (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-weeds-with-white-flowers-pictures-and-identification/>
+
+---
+
+## How They Pulled It Off: A Bench Seat 
+That Conceals a Surprise Bathtub
+
+date: 2025-05-06, from: Dwell
+
+For Claire and Dom French, a tub in the bedroom was always part of the plan—and with a little creative thinking, Curtaz Studio made it happen. 
+
+<br> 
+
+<https://www.dwell.com/article/curtaz-studio-french-and-tye-bathtub-bench-84ba1ad8>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-06, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Food and Drink
+
+date: 2025-05-06, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
 
 ---
 

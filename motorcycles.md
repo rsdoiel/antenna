@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-06 06:10:26
+updated: 2025-05-06 14:11:08
 ---
 
 # motorcycles
 
-(date: 2025-05-06 06:10:26)
+(date: 2025-05-06 14:11:08)
+
+---
+
+## This Prototype Motorcycle Racing Helmet Has Insane Aerodynamics, Looks Stupid
+
+date: 2025-05-06, from: Ride Apart, Electric Motorcycle News
+
+Cool for the track, but not for the street. 
+
+<br> 
+
+<https://www.rideapart.com/news/758471/luca-marini-new-agv-aero/>
 
 ---
 

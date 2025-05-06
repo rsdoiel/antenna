@@ -1,11 +1,47 @@
 ---
 title: food
-updated: 2025-05-06 06:10:28
+updated: 2025-05-06 14:11:09
 ---
 
 # food
 
-(date: 2025-05-06 06:10:28)
+(date: 2025-05-06 14:11:09)
+
+---
+
+## 24 Best Mother’s Day Kitchen Gifts for Moms Who Love to Cook (2025)
+
+date: 2025-05-06, from: Bon Appetet
+
+Give her a Le Creuset kettle, custom stationery for her recipes, or some upgraded spices. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-mothers-day-gifts-2025>
+
+---
+
+## Always-Tender London Broil
+
+date: 2025-05-06, from: Bon Appetet
+
+Achieve a perfectly juicy marinated London broil thanks to one secret ingredient you likely already have in your pantry. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/london-broil-recipe>
+
+---
+
+## The World Badly Needs A Global Coffee Seed Vault
+
+date: 2025-05-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. In the face of coffee's uncertain future, a global seed vault may be a necessary failsafe. 
+
+<br> 
+
+<https://sprudge.com/the-world-badly-needs-a-global-coffee-seed-vault-321445.html>
 
 ---
 

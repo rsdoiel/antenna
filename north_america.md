@@ -1,11 +1,137 @@
 ---
 title: north america
-updated: 2025-05-06 06:10:19
+updated: 2025-05-06 14:11:00
 ---
 
 # north america
 
-(date: 2025-05-06 06:10:19)
+(date: 2025-05-06 14:11:00)
+
+---
+
+## Seriously, what is going on with the economy? Justin Wolfers on inflation, the Fed, and budget cuts
+
+date: 2025-05-06, from: The Contrarian
+
+"Trump is more effective than the Covid virus at creating chaos" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162971132/eceed99625137310f35af3c40c791b8e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162971132/eceed99625137310f35af3c40c791b8e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/seriously-what-is-going-on-with-the>
+
+---
+
+##  Trump Taps Refugee Fund To Welcome White South Africans Within Days 
+
+date: 2025-05-06, from: The Lever News
+
+ Amid a near-total asylum ban, government sources say Trump officials are planning to use funds for at-risk refugees to facilitate imminent Afrikaner resettlement.  
+
+<br> 
+
+<https://www.levernews.com/trump-taps-refugee-fund-to-welcome-white-south-africans-within-days/>
+
+---
+
+## The United States of Measles
+
+date: 2025-05-06, from: The Contrarian
+
+Donald Trump & RFK Jr. help usher in a golden age for the deadly measles virus 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-united-states-of-measles>
+
+---
+
+##  Billionaires Are Getting Their Tax Cut, With Or Without Congress 
+
+date: 2025-05-06, from: The Lever News
+
+ The country’s wealthiest earners stand to benefit the most as Trump slashes the IRS’ workforce and auditing power.  
+
+<br> 
+
+<https://www.levernews.com/billionaires-are-getting-their-tax-cut-with-or-without-congress/>
+
+---
+
+## The Emasculation of Scientific Research
+
+date: 2025-05-06, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-emasculation-of-scientific-research>
+
+---
+
+## June 14 is No Kings Day! Ezra Levin on the power of peaceful protest
+
+date: 2025-05-06, from: The Contrarian
+
+"What we are building here is a broad based cross-ideological movement" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162971061/cdba5d8ad6d2c93519d631c3412921d0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162971061/cdba5d8ad6d2c93519d631c3412921d0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/june-14-is-no-kings-day-ezra-levin>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-06, from: The Contrarian
+
+Tuesday: Preparing for the June 14 No Kings Day, protests in California, Kansas, and Delaware, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## And Then They Came for the Judges
+
+date: 2025-05-06, from: Capital and Main
+
+<p>The Trump administration’s targeting of a Wisconsin judge offers Democrats a choice: Stand up or stand down.</p>
+<p>The post <a href="https://capitalandmain.com/and-then-they-came-for-the-judges">And Then They Came for the Judges</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/and-then-they-came-for-the-judges>
+
+---
+
+## Bright ideas
+
+date: 2025-05-06, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/bright-ideas>
+
+---
+
+## The Trump propaganda machine hits overdrive
+
+date: 2025-05-06, from: The Contrarian
+
+The White House curates news that makes the president look good. Sound familiar? 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-trump-propaganda-machine-hits>
 
 ---
 
@@ -182,18 +308,6 @@ A recording from Coffee with The Contrarians LIVE 05/05
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-the-contrarians-0505>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-05, from: The Contrarian
-
-Monday: Protests in Montana, Ohio, Arizona, and Colorado, an important message from George Takei, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-05-06 06:10:24
+updated: 2025-05-06 14:11:05
 ---
 
 # games
 
-(date: 2025-05-06 06:10:24)
+(date: 2025-05-06 14:11:05)
+
+---
+
+## Destiny 2 is going from kinda Star Wars to literally Star Wars in new expansion
+
+date: 2025-05-06, updated: 2025-05-06, from: Polygon Website
+
+The Destiny games, with their laser swords, hover bikes, and space wizards, have always been Kind of Star Wars. But Destiny 2 will go Full Unadulterated Star Wars later this year with a new, Lucasfilm-authorized expansion called Renegades. It literally has lightsabers and Darth Vader in it. Destiny developer Bungie revealed the Renegades expansion, which [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/597887/destiny-2-star-wars-dlc-renegades>
+
+---
+
+## Is this South Beach institution actually in GTA 6?
+
+date: 2025-05-06, updated: 2025-05-06, from: Polygon Website
+
+Rockstar Games dropped the second trailer for Grand Theft Auto 6 today, shedding more light about the game’s characters and story. As fans tried to determine which actors could be voicing which characters, I was hung up on an entirely different but otherwise completely inconsequential detail: Is that the Clevelander?! GTA 6 takes place in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gta-grand-theft-auto/597843/gta-6-clevelander-hotel-miami-vice-city>
+
+---
+
+## All GTA 6 characters confirmed so far
+
+date: 2025-05-06, updated: 2025-05-06, from: Polygon Website
+
+A wide range of GTA 6 characters were detailed in the second GTA 6 trailer, released May 6. It’s the first detailed look at who we’ll encounter in Vice City an entire year before the game’s May 26, 2026 release date. You’ll play as both Jason Duval and Lucia Caminos, two romantic partners looking for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gta-6-guides/597820/characters-all-list>
+
+---
+
+## Doom: The Dark Ages headlines Xbox Game Pass in May
+
+date: 2025-05-06, updated: 2025-05-06, from: Polygon Website
+
+Xbox Game Pass continues its consistent 2025 with a mix of high-profile new games and beloved older ones. Doom: The Dark Ages is the obvious headliner — the third entry in a series of Doom reboots that revitalized the shooter series back in 2016. But don’t sleep on Revenge of the Savage Planet later this [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/597801/xbox-game-pass-may-2025-doom-dark-ages>
+
+---
+
+## New GTA 6 trailer drops with a year left to go before release
+
+date: 2025-05-06, updated: 2025-05-06, from: Polygon Website
+
+Rockstar Games revealed a new look at Grand Theft Auto 6 on Tuesday with the highly anticipated game’s second trailer. It’s our first new look at GTA 6 in nearly a year and a half, and it reaffirms Rockstar’s commitment to launching its grand, open-world crime adventure … eventually, in 2026. Grand Theft Auto 6 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/481519/gta-6-trailer-2-rockstar-games>
 
 ---
 

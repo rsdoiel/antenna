@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-05-06 06:10:24
+updated: 2025-05-06 14:11:06
 ---
 
 # journalism
 
-(date: 2025-05-06 06:10:24)
+(date: 2025-05-06 14:11:06)
+
+---
+
+## Gallery: Just Culture x CALL Festival celebrates marginalized communities through activism
+
+date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Presented at the UCLA School of Law and Dickson Plaza South, the Just Culture x Connecting Art and Law for Liberation Festival took place April 19. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/06/gallery-just-culture-x-call-festival-celebrates-marginalized-communities-through-activism/>
 
 ---
 
@@ -13,6 +25,7 @@ updated: 2025-05-06 06:10:24
 
 date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 6 at 1:58 p.m.</em>
 Sgt. 1st Class Kate Cole, a senior military science instructor at UCLA Army ROTC, is among 32 plaintiffs suing President Donald Trump&#8217;s administration for its ban on transgender people serving in the military. 
 
 <br> 
@@ -123,12 +136,12 @@ date: 2025-05-05, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## How the Undergraduate Student Association Council oversees budget, student life
+## How the Undergraduate Students Association Council oversees budget, student life
 
 date: 2025-05-05, from: The Daily Bruin (UCLA Student Newspaper)
 
-Bruins will vote for next year’s Undergraduate Students Association Council during a weeklong voting period starting Friday.
-Twenty-nine candidates, six of whom are current officers, are running for the 15 available positions, which include executive, representative and commissioner roles. 
+<em>This post was updated May 6 at 12:05 p.m.</em>
+Bruins will vote for next year’s Undergraduate Students Association Council during a weeklong voting period starting Friday. 
 
 <br> 
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-06 06:10:25
+updated: 2025-05-06 14:11:07
 ---
 
 # libraries
 
-(date: 2025-05-06 06:10:25)
+(date: 2025-05-06 14:11:07)
 
 ---
 
@@ -27,13 +27,25 @@ date: 2025-05-06, from: Scholarly Kitchen
 
 date: 2025-05-05, from: Association of Research Libraries News
 
-<p>Last Updated on May 5, 2025, 4:42 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 6 &#124; Wednesday, May 7 &#124; Thursday,...</p>
+<p>Last Updated on May 6, 2025, 4:44 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 6 &#124; Wednesday, May 7 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-5-8/">Day in Review (May 5–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <br> 
 
 <https://www.arl.org/day-in-review/day-in-review-may-5-8/>
+
+---
+
+## BBC News: Can the Internet Archive Save Our Digital History?
+
+date: 2025-05-05, from: Internet Archive Blog
+
+“A Time Machine for the Web” — the BBC just released a must-watch video on the Internet Archive and why our mission matters more than ever. Watch here: https://www.youtube.com/watch?v=jh98N46DM5k Inside [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/05/05/bbc-news-can-the-internet-archive-save-our-digital-history/>
 
 ---
 

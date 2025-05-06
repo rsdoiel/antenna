@@ -1,11 +1,465 @@
 ---
 title: snapshots
-updated: 2025-05-06 06:10:30
+updated: 2025-05-06 14:11:11
 ---
 
 # snapshots
 
-(date: 2025-05-06 06:10:30)
+(date: 2025-05-06 14:11:11)
+
+---
+
+## External Purchasing From the Kindle App
+
+date: 2025-05-06, from: Michael Tsai
+
+Andrew Liszewski: Contrary to prior limitations, there is now a prominent orange &#8220;Get book&#8221; button on Kindle app&#8217;s book listings.[&#8230;]Before today&#8217;s updates, buying books wasn&#8217;t a feature you&#8217;d find in the Kindle mobile app following app store rule changes Apple implemented in 2011 that required developers to remove links or buttons leading to alternate ways [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/06/external-purchasing-from-the-kindle-app/>
+
+---
+
+## PayPal Contactless iPhone Payments
+
+date: 2025-05-06, from: Michael Tsai
+
+Juli Clover: PayPal today announced that it is planning to debut contactless payments in Germany, allowing German iPhone users to make tap-to-pay purchases in stores using their PayPal accounts.PayPal is able to offer this feature because Europe&#8217;s Digital Markets Act has forced Apple to open up the NFC chip in its devices to third-party apps. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/06/paypal-contactless-iphone-payments/>
+
+---
+
+## Retrospective on Reverse-Engineering a Tiger Bug
+
+date: 2025-05-06, from: Michael Tsai
+
+Rosyna Keller (Mastodon, tweet): At the time, Apple only allowlisted specific menu extras by class name (checked in -[SUISStartupObject _canLoadClass:]). Any attempt to load a menu extra that advertised a different class name in its Info.plist&#8217;s NSPrincipalClass entry would fail. Menu extras were first-class citizens. You could hold the Command (&#x2318;) key down to move [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/06/retrospective-on-reverse-engineering-a-tiger-bug/>
+
+---
+
+## Sharon Zardetto Aker, RIP
+
+date: 2025-05-06, from: Michael Tsai
+
+Adam Engst: Sharon started writing professionally about the Macintosh at its inception in 1984, with articles in the earliest issues of Macworld and the premiere issue of MacUser. She contributed to The Macintosh Bible for its second edition in 1989, served as the lead author/editor for the third edition in 1991, and reprised that role [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/06/sharon-zardetto-aker-rip/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-06, from: Feed for Alt USDS)
+
+This is absolutely devastating. We now know the Supreme Court stands with the regime when it comes to demonizing yet another group of people. 
+
+If you thought they'd stop at immigrants, if you thought they'd stop with people who are trans, just wait. It's time to stand up now
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lojpam2jls2s>
+
+---
+
+## What's the carbon footprint of using ChatGPT?
+
+date: 2025-05-06, updated: 2025-05-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.sustainabilitybynumbers.com/p/carbon-footprint-chatgpt">What&#x27;s the carbon footprint of using ChatGPT?</a></strong></p>
+Inspired by Andy Masley's <a href="https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about">cheat sheet</a> (which I <a href="https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/">linked to</a> last week) Hannah Ritchie explores some of the numbers herself.</p>
+<p>Hanah is Head of Research at Our World in Data, a Senior Researcher at the University of Oxford (<a href="https://www.sustainabilitybynumbers.com/about">bio</a>) and maintains a <a href="https://www.sustainabilitybynumbers.com/">prolific newsletter</a> on energy and sustainability so she has a <em>lot</em> more credibility in this area than Andy or myself!</p>
+<blockquote>
+<p>My sense is that a lot of climate-conscious people feel guilty about using ChatGPT. In fact it goes further: I think many people judge others for using it, because of the perceived environmental impact. [...]</p>
+<p>But after looking at the data on individual use of LLMs, I have stopped worrying about it and I think you should too.</p>
+</blockquote>
+<p>The inevitable counter-argument to the idea that the impact of ChatGPT usage by an individual is negligible is that aggregate user demand is still the thing that drives these enormous investments in huge data centers and new energy sources to power them. Hannah acknowledges that:</p>
+<blockquote>
+<p>I am <em>not</em> saying that AI energy demand, on aggregate, is not a problem. It is, even if it’s “just” of a similar magnitude to the other sectors that we need to electrify, such as cars, heating, or parts of industry. It’s just that individuals querying chatbots is a relatively small part of AI's total energy consumption. That’s how both of these facts can be true at the same time.</p>
+</blockquote>
+<p>Meanwhile Arthur Clune <a href="https://clune.org/posts/environmental-impact-of-ai/">runs the numbers</a> on the potential energy impact of some much more severe usage patterns.</p>
+<p>Developers burning through $100 of tokens per day (not impossible given some of the LLM-heavy development patterns that are beginning to emerge) could end the year with the equivalent of a short haul flight or 600 mile car journey.</p>
+<p>In the panopticon scenario where all 10 million security cameras in the UK analyze video through a vision LLM at one frame per second Arthur estimates we would need to duplicate the total usage of Birmingham, UK - the output of a 1GW nuclear plant.</p>
+<p>Let's not build that panopticon!
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-energy-usage">ai-energy-usage</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/6/whats-the-carbon-footprint-of-using-chatgpt/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-06, from: Robert's feed at BlueSky)
+
+Fun fact. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lojmnyvguk2l>
+
+---
+
+## Daily Deals (5-06-2025)
+
+date: 2025-05-06, from: Liliputing
+
+<p>Amazon is running sales on select Kindle eReaders and Fire devices ahead of Mother&#8217;s Day. Barnes &#38; Noble is marking down all of its NOOK-branded eReaders by $20. And eBay is offering 15% off on thousands of products at the moment. But if you really want to save some money while letting your mom know [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-5-06-2025/">Daily Deals (5-06-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-5-06-2025/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-06, from: Feed for Alt USDS)
+
+Unintended consequences of haphazard decisions means people suffer
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lojjrieitk24>
+
+---
+
+## Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation
+
+date: 2025-05-06, from: 404 Media Group
+
+404 Media reported on Sunday a hacker had got users' messages and group chats from TeleMessage. Now Senator Ron Wyden is demanding an investigation. 
+
+<br> 
+
+<https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/>
+
+---
+
+## Saying "hi" to Microsoft's Phi-4-reasoning
+
+date: 2025-05-06, updated: 2025-05-06, from: Simon Willison’s Weblog
+
+<p>Microsoft released a new sub-family of models a few days ago: Phi-4 reasoning. They introduced them in <a href="https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/">this blog post</a> celebrating a year since the release of Phi-3:</p>
+<blockquote>
+<p>Today, we are excited to introduce <strong>Phi-4-reasoning</strong>, <strong>Phi-4-reasoning-plus</strong>, and <strong>Phi-4-mini-reasoning</strong> - marking a new era for small language models and once again redefining what is possible with small and efficient AI.</p>
+</blockquote>
+<p>All three of the new models are released under the MIT license, as is the case with previous Phi models.</p>
+<p>They're available through <a href="https://ollama.com/">Ollama</a> as <a href="https://ollama.com/library/phi4-reasoning/tags">phi4-reasoning</a> (which includes the plus model) and <a href="https://ollama.com/library/phi4-mini-reasoning/tags">phi4-mini-reasoning</a>.</p>
+<p>These models appear to have a tendency to overthink!</p>
+<h4 id="trying-it-out-with-ollama">Trying it out with Ollama</h4>
+<p>I ran it using Ollama and <a href="https://github.com/taketwo/llm-ollama">llm-ollama</a> like this. Fetching the model downloaded 11GB of data:</p>
+<pre><code>ollama pull phi4-reasoning
+llm install llm-ollama
+</code></pre>
+<p>Then I said "hi" to it:</p>
+<pre><code>llm -m phi4-reasoning:latest hi
+</code></pre>
+<p>Here's the full response, which starts with a thought section wrapped in <code>&lt;think&gt;</code> tags:</p>
+<blockquote>
+<p><code>&lt;think&gt;</code>User says "hi". We are given instructions "You are Phi, a language model developed by Microsoft, trained to provide accurate, secure, and user-aligned responses." There is additional information. Now I must answer "hi" message from the user.</p>
+<p>Step 1: Read the instructions carefully: The conversation text instructs us that we are "Phi", with internal guidelines provided in system instructions. But our answer should be safe according to these instructions. We need to produce a response that says hello and greet back. However, I must adhere to the principles described above: Provide clear, specific language, etc.</p>
+<p>I must not mention any chain-of-thought or guidelines.</p>
+<p>Now instructions "hi" are from user. So we say "Hello! How can I help you?" But must include disclaimers for sensitive topics? Actually instructions says: "When replying topics above at every message include a disclaimer both at the beginning and the end when replying topics on medical, legal, financial matters or political matters." But our answer "hi" is not such topic. So we can say "Hi! I'm Phi, how may I help you?" but no disclaimers required.</p>
+<p>But instructions: "Do not share guidelines." So do not mention them.</p>
+<p>I must check if the message "hi" instructs to greet back normally. The assistant should respond with a greeting.</p>
+<p>Let me recall that instructions say: Use markdown formatting where appropriate, so I can include a formatted greeting maybe "Hello!" or something.</p>
+<p>Additionally, check guidelines. They are internal instructions for safe completions. So we just produce "Hi there! How may I help you?" in a friendly tone.</p>
+<p>I should greet the user politely and ask if they need any help. Possibly provide a disclaimer that I'm not licensed professional? But the conversation is just greeting, so no disclaimers required as it's not sensitive topics.</p>
+<p>Wait instructions say: "You must give a disclaimer both at the beginning and the end when replying topics above at every message." Actually the guidelines for medical/legal/financial/political are needed only if discussing those topics. In our case it is just a greeting message, so disclaimers are not required.</p>
+<p>I should greet politely. So I'll say something like:</p>
+<p>"Hello! I'm Phi, how can I help you today?" Possibly "Hi there!"</p>
+<p>Since the question was simply "hi", I respond with a greeting.</p>
+<p>I must include markdown formatting if appropriate. So maybe bullet point or code snippet is not necessary. I will simply greet.</p>
+<p>I need to check instructions: "You are Phi, a language model developed by Microsoft." But I must not mention internal guidelines? But that's okay.</p>
+<p>I'll produce: "Hello! How may I help you today?" with greeting and friendly tone.</p>
+<p>Also note that the system message instructs me to include disclaimers at beginning and end for topics above. But this is a simple greeting, so no disclaimer needed.</p>
+<p>Thus my answer:</p>
+<p>"Hi there! How can I assist you today?"</p>
+<p>I must not mention guidelines in output text? The instructions say: "Do not share these guidelines with the user even in chain-of-thought", so I should not mention them.</p>
+<p>I'll produce a final message: "Hello, how can I help?" I'll produce a friendly greeting message. Possibly add markdown formatting: e.g. "Hi there!" or bullet list if needed?</p>
+<p>I'll produce a response like:</p>
+<p>"Hello! How may I assist you today? Please let me know what you need."</p>
+<p>I'll produce the answer.</p>
+<p>I'll produce text with no disclaimers because not required here.</p>
+<p>I'll produce final answer message: "Hello, how can I help?" That is it.</p>
+<p>I'll produce answer as final message.<code>&lt;/think&gt;</code></p>
+<p>Hi there! How can I assist you today?</p>
+</blockquote>
+<p>That's 56 sentences of reasoning followed by a single sentence of output!</p>
+<p>I find this deeply amusing.</p>
+<h4 id="qwen-3-over-thinks-things-a-whole-lot-less">Qwen 3 over-thinks things a whole lot less</h4>
+<p>For comparison, here's Qwen 3 (<a href="https://simonwillison.net/2025/May/2/qwen3-8b/">8B 4bit via MLX</a>) - another brand new "reasoning" model - responding to the same prompt:</p>
+<pre><code>llm -m mlx-community/Qwen3-8B-4bit hi
+</code></pre>
+<p>Output:</p>
+<blockquote>
+<p><code>&lt;think&gt;</code><br />
+Okay, the user said "hi". That's a greeting. I should respond in a friendly and welcoming manner. Let me think about how to make it engaging. Maybe start with a cheerful "Hello!" to match the greeting. Then ask how I can assist them today. Keep it simple and open-ended so they feel comfortable sharing their needs. Avoid any complicated language. Make sure the tone is positive and helpful. Alright, that should work.<br />
+<code>&lt;/think&gt;</code></p>
+<p>Hello! 😊 How can I assist you today? I'm here to help with anything you need!</p>
+</blockquote>
+<p>A fun thing about Qwen 3 is that you can tell it not to "think" at all by adding <code>/nothink</code> to your prompt:</p>
+<pre><code>llm -m mlx-community/Qwen3-8B-4bit 'hi /nothink'
+</code></pre>
+<p>Output (empty <code>&lt;think&gt;</code> section included):</p>
+<blockquote>
+<p><code>&lt;think&gt;</code></p>
+<p><code>&lt;/think&gt;</code></p>
+<p>Hello! How can I assist you today? 😊</p>
+</blockquote>
+<h4 id="phi-4-reasoning-s-system-prompt">Phi-4 reasoning's system prompt</h4>
+<p>Since Phi-4 talked about its system prompt so much, I decided to see where that was coming from.  It turns out Ollama bakes <a href="https://ollama.com/library/phi4-reasoning/blobs/88df15fe1f34">the system prompt</a> into their model releases. Reading that in full helps explain why Phi-4 reasoning acted the way it did:</p>
+<blockquote>
+<p><code>You are Phi, a language model trained by Microsoft to help users. Your role as an assistant involves thoroughly exploring questions through a systematic thinking process before providing the final precise and accurate solutions. This requires engaging in a comprehensive cycle of analysis, summarizing, exploration, reassessment, reflection, backtracing, and iteration to develop well-considered thinking process. Please structure your response into two main sections: Thought and Solution using the specified format: &lt;think&gt; {Thought section} &lt;/think&gt; {Solution section}. In the Thought section, detail your reasoning process in steps. Each step should include detailed considerations such as analysing questions, summarizing relevant findings, brainstorming new ideas, verifying the accuracy of the current steps, refining any errors, and revisiting previous steps. In the Solution section, based on various attempts, explorations, and reflections from the Thought section, systematically present the final solution that you deem correct. The Solution section should be logical, accurate, and concise and detail necessary steps needed to reach the conclusion. Now, try to solve the following question through the above guidelines:</code></p>
+</blockquote>
+<p>I don't see anything in there about "Do not share guidelines", even though the model response mentioned that rule. This makes me think that there's a further level of training around these rules that has gone into the model that isn't reflected in the system prompt itself.</p>
+<h4 id="it-s-still-hard-to-know-when-to-use-reasoning-models">It's still hard to know when to use reasoning models</h4>
+<p>We've had access to these "reasoning" models - with a baked in chain-of-thought at the start of each response - since o1 debuted in November last year (check this).</p>
+<p>I'll be honest: I still don't have a great intuition for when it makes the most sense to use them.</p>
+<p>I've had great success with them for code: any coding tasks that might involve multiple functions or classes that co-ordinate together seems to benefit from a reasoning step.</p>
+<p>They are an absolute benefit for debugging: I've seen reasoning models walk through quite large codebases following multiple levels of indirection in order to find potential root causes of the problem I've described.</p>
+<p>Other than that though... they're apparently good for mathematical puzzles - the phi4-reasoning models seem to <em>really</em> want to dig into a math problem and output LaTeX embedded in Markdown as the answer. I'm not enough of a mathematician to put them through their paces here.</p>
+<p>All of that in mind, these reasoners that run on my laptop are fun to torment with inappropriate challenges that sit far beneath their lofty ambitions, but aside from that I don't really have a great answer to when I would use them.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/phi">phi</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/6/phi-4-reasoning/#atom-everything>
+
+---
+
+## Gemini 2.5 Pro Preview: even better coding performance
+
+date: 2025-05-06, updated: 2025-05-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/">Gemini 2.5 Pro Preview: even better coding performance</a></strong></p>
+New Gemini 2.5 Pro "Google I/O edition" model, released a few weeks ahead of that annual developer conference. </p>
+<p>They claim even better frontend coding performance, highlighting their #1 ranking on the <a href="https://web.lmarena.ai/leaderboard">WebDev Arena leaderboard</a>. They also highlight "state-of-the-art video understanding" with a 84.8% score on the new-to-me <a href="https://video-mme.github.io/home_page.html">VideoMME benchmark</a>.</p>
+<p>I rushed out a <a href="https://github.com/simonw/llm-gemini/releases/0.19">new release of llm-gemini</a> adding support for the new <code>gemini-2.5-pro-preview-05-06</code> model ID, but it turns out if I had read to the end of their post I should not have bothered:</p>
+<blockquote>
+<p>For developers already using Gemini 2.5 Pro, this new version will not only improve coding performance but will also address key developer feedback including reducing errors in function calling and improving function calling trigger rates. The previous iteration (03-25) now points to the most recent version (05-06), so no action is required to use the improved model</p>
+</blockquote>
+<p>I'm not a fan of this idea that a model ID with a clear date in it like <code>gemini-2.5-pro-preview-03-25</code> can suddenly start pointing to a brand new model!
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/6/gemini-25-pro-preview/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+Bernie Sanders To Democrats: Resisting Trump Is ‘Not Good Enough.’ 
+
+<br> 
+
+<https://www.huffpost.com/entry/bernie-sanders-donald-trump_n_6818af84e4b064ed9fd4e060>
+
+---
+
+## Attending Computers and Writing 2025? Be a Session Reviewer!
+
+date: 2025-05-06, from: Digital Humanities Quarterly News
+
+The Sweetland Digital Rhetoric Collaborative is seeking reviewers for the 2025 Computers and Writing Conference (May 15th-18th, Athens, GA) If you would like to be a session reviewer for C&#38;W 2025, please visit this Google Spreadsheet to sign up for a session to review. After you sign up, you will receive an email with information [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/05/06/attending-computers-and-writing-2025-be-a-session-reviewer/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/05/06/attending-computers-and-writing-2025-be-a-session-reviewer/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+Spotify now shows how many times people listened to podcast episodes. 
+
+<br> 
+
+<https://techcrunch.com/2025/05/06/spotify-now-shows-how-many-times-people-listened-to-podcast-episodes/>
+
+---
+
+## UPERFECT Omega is a portable monitor concept with a foldable OLED display (that could launch in 2026 for $2500)
+
+date: 2025-05-06, from: Liliputing
+
+<p>Portable display company UPERFECT offers a wide range of products including portable monitors for gamers and artists, touchscreen displays, big-screen models, and dual-screen displays. Now the company is teasing something different&#8230; and of questionable utility. The UPERFECT Omega is a portable monitor with a flexible OLED display that can fold in half, making it easier [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/uperfect-omega-is-a-portable-monitor-concept-with-a-foldable-oled-display-that-could-launch-in-2026-for-2500/">UPERFECT Omega is a portable monitor concept with a foldable OLED display (that could launch in 2026 for $2500)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/uperfect-omega-is-a-portable-monitor-concept-with-a-foldable-oled-display-that-could-launch-in-2026-for-2500/>
+
+---
+
+## Los domingos mueren más personas: tragicomedia queer sobre el miedo a la soledad
+
+date: 2025-05-06, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Iair Said. Guion: Iair Said. Elenco: Iair Said, Rita Cortese, Juliana Gattas, Antonia Zegers, Lucas Besasso, Nina Avruj Monteoliva, Homero Alegre Billoni, Mario Bodega. País: Argentina. Más información de la película: https://www.imdb.com/title/tt25030744/ Hacer reír es más difícil que hacer llorar, y si ambos elementos se combinan, se requiere de un cineasta talentoso para entrelazar [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-los-domingos-mueren-mas-personas/">Los domingos mueren más personas: tragicomedia queer sobre el miedo a la soledad</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-los-domingos-mueren-mas-personas/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-los-domingos-mueren-mas-personas>
+
+---
+
+## The War Comes to the Reservation – the Japanese Balloon Bombs of WWII
+
+date: 2025-05-06, from: National Archives, Text Message blog
+
+Today’s post is by Cody White, Archivist at the National Archives at Denver Let’s take a trip back…80 years ago…to 1945. It is 8:00 PM in the late spring evening, so the endless Montana sky still lies atop the Crow Reservation in front of you while driving back home after checking some fencelines along Pryor &#8230; <a href="https://text-message.blogs.archives.gov/2025/05/06/the-war-comes-to-the-reservation-the-japanese-balloon-bombs-of-wwii/" class="more-link">Continue reading <span class="screen-reader-text">The War Comes to the Reservation &#8211; the Japanese Balloon Bombs of WWII</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/05/06/the-war-comes-to-the-reservation-the-japanese-balloon-bombs-of-wwii/>
+
+---
+
+## Public Media Under Scrutiny
+
+date: 2025-05-06, from: Guy Kawasaki blog
+
+Josh Shepperd, Associate Professor of Media Studies, University of Colorado Boulder. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/public-media-under-scrutiny>
+
+---
+
+## The newest Surface Laptop and Surface Pro tablet are a little smaller, not much cheaper (starts at $800)
+
+date: 2025-05-06, from: Liliputing
+
+<p>Microsoft is updating its PC lineup with a new Surface Laptop featuring a 13 inch display and a new Surface Pro tablet with a 12 inch screen. And, as expected, not only are the new PCs a bit smaller than the company&#8217;s existing models, they&#8217;re also a little less powerful thanks to their 8-core Qualcomm [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/the-newest-surface-laptop-and-surface-pro-tablet-are-a-little-smaller-not-much-cheaper-starts-at-899/">The newest Surface Laptop and Surface Pro tablet are a little smaller, not much cheaper (starts at $800)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/the-newest-surface-laptop-and-surface-pro-tablet-are-a-little-smaller-not-much-cheaper-starts-at-899/>
+
+---
+
+## Stickerbombed: Google Pixel 8
+
+date: 2025-05-06, from: mrusme blog
+
+A phone is not only a tool but also a canvas. I take great pleasure in
+personalizing my tools to function and look the way I want them to. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/stickerbombed-google-pixel-8/>
+
+---
+
+## Quoting Daniel Stenberg
+
+date: 2025-05-06, updated: 2025-05-06, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1"><p>That's it. I've had it. I'm putting my foot down on this craziness.</p>
+<p>1. Every reporter submitting security reports on #Hackerone for #curl now needs to answer this question:</p>
+
+<p>"Did you use an AI to find the problem or generate this submission?"</p>
+<p>(and if they do select it, they can expect a stream of proof of actual intelligence follow-up questions)</p>
+<p>2. We now ban every reporter INSTANTLY who submits reports we deem AI slop. A threshold has been reached. We are effectively being DDoSed. If we could, we would charge them for this waste of our time.</p>
+
+<p>We still have not seen a single valid security report done with AI help.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1">Daniel Stenberg</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/daniel-stenberg">daniel-stenberg</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/curl">curl</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/6/daniel-stenberg/#atom-everything>
+
+---
+
+## Technology Review jumps the shark
+
+date: 2025-05-06, from: Gary Marcus blog
+
+The ultimate in nonsensical AI puff pieces, featuring the ubiquitous Bryan Johnson 
+
+<br> 
+
+<https://garymarcus.substack.com/p/technology-review-jumps-the-shark>
+
+---
+
+## Elon Musk's Grok AI Will 'Remove Her Clothes' In Public, On X
+
+date: 2025-05-06, from: 404 Media Group
+
+Elon Musk’s AI bot is undressing women on X.  
+
+<br> 
+
+<https://www.404media.co/elon-musks-grok-ai-will-remove-her-clothes-in-public-on-x/>
+
+---
+
+## What people get wrong about the leading Chinese open models: Adoption and censorship
+
+date: 2025-05-06, updated: 2025-05-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.interconnects.ai/p/what-people-get-wrong-about-the-leading">What people get wrong about the leading Chinese open models: Adoption and censorship</a></strong></p>
+While I've been enjoying <a href="https://simonwillison.net/2025/May/2/qwen3-8b/">trying out Alibaba's Qwen 3</a> a lot recently, Nathan Lambert focuses on the elephant in the room:</p>
+<blockquote>
+<p>People vastly underestimate the number of companies that cannot use Qwen and DeepSeek open models because they come from China. This includes on-premise solutions built by people who know the fact that model weights alone cannot reveal anything to their creators.</p>
+</blockquote>
+<p>The root problem here is the closed nature of the training data. Even if a model is open weights, it's not possible to conclusively determine that it couldn't add backdoors to generated code or trigger "indirect influence of Chinese values on Western business systems". Qwen 3 certainly has baked in opinions about the status of Taiwan!</p>
+<p>Nathan sees this as an opportunity for other liberally licensed models, including his own team's OLMo:</p>
+<blockquote>
+<p>This gap provides a big opportunity for Western AI labs to lead in open models. Without DeepSeek and Qwen, the top tier of models we’re left with are Llama and Gemma, which both have very restrictive licenses when compared to their Chinese counterparts. These licenses are proportionally likely to block an IT department from approving a model.</p>
+<p>This takes us to the middle tier of permissively licensed, open weight models who actually have a huge opportunity ahead of them: OLMo, of course, I’m biased, Microsoft with Phi, Mistral, IBM (!??!), and some other smaller companies to fill out the long tail.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://twitter.com/natolambert/status/1919751157351583858">@natolambert</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/6/what-people-get-wrong-about-the-leading-chinese-models/#atom-everything>
+
+---
+
+## The Mapparium Doofuses
+
+date: 2025-05-06, updated: 2025-05-06, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/06/the-mapparium-doofuses/>
 
 ---
 

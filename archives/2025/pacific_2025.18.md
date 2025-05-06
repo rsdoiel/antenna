@@ -1,11 +1,135 @@
 ---
 title: pacific
-updated: 2025-05-06 06:10:21
+updated: 2025-05-06 14:11:02
 ---
 
 # pacific
 
-(date: 2025-05-06 06:10:21)
+(date: 2025-05-06 14:11:02)
+
+---
+
+## American Samoa poised to lead US push for ocean mineral extraction
+
+date: 2025-05-06, from: Pacific Island Times
+
+By Ron Rocky Coloma Off the coast of American Samoa, a remote U.S. territory known for its tuna canneries and oceanic biodiversity, plans... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/american-samoa-poised-to-lead-us-push-for-ocean-mineral-extraction>
+
+---
+
+## UH Mānoa Athletics honors top athletes, teams at 12th Annual H Awards
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa Athletics Department recognized its top athletes and teams at the 12th annual H Awards.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/manoa-athletics-honors-h-awards/"><abbr>UH</abbr> Mānoa Athletics honors top athletes, teams at 12th Annual H Awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/manoa-athletics-honors-h-awards/>
+
+---
+
+## Engineering meets finance: UH Mānoa grad blends tech, business for the future
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p>Gonzalez sees his combined degrees as the perfect foundation for a future that blends technical expertise with business acumen.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/engineering-meets-finance-jonavan-gonzalez/">Engineering meets finance: <abbr>UH</abbr> Mānoa grad blends tech, business for the future</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/engineering-meets-finance-jonavan-gonzalez/>
+
+---
+
+## Maunakea telescope tunes into music of nearby star, unveils surprising discovery
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p><abbr>IfA</abbr> astronomers used a Maunakea telescope to detect vibrations in the star—bringing new insight into stellar aging and evolution.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/maunakea-telescope-tunes-into-music-of-nearby-star/">Maunakea telescope tunes into music of nearby star, unveils surprising discovery</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/maunakea-telescope-tunes-into-music-of-nearby-star/>
+
+---
+
+## Bullseye in cybersecurity: Student speaker journeyed from archer to analyst
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p>From campus tours to cybersecurity, <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> student reflects on growth and grit.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/bullseye-in-cybersecurity-student-speaker/">Bullseye in cybersecurity: Student speaker journeyed from archer to analyst</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/bullseye-in-cybersecurity-student-speaker/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-05-06, updated: 2025-05-06, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## ‘Asian crisis in reverse’ as currencies soar on the dollar
+
+date: 2025-05-06, updated: 2025-05-06, from: Marianas Variety
+
+SINGAPORE/SHANGHAI (Reuters) — A wave of dollar selling in Asia is an ominous sign for the greenback as the world’s export powerhouse starts to question a decades-long trend of investing its big trade surpluses in U.S. assets. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/asian-crisis-in-reverse-as-currencies-soar-on-the-dollar/article_62e42434-c591-42bf-84af-72f36e7c8f30.html>
+
+---
+
+## Saipan Pacific Winds Concert Band holds spring concert
+
+date: 2025-05-06, updated: 2025-05-06, from: Marianas Variety
+
+DID you know that the Northern Marianas has its very own concert band?  The 30-some member Saipan Pacific Winds Concert Band held its spring concert last April 13 at the Ballroom of the Marianas Beach Resort (formerly the Hyatt) in Garapan. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-pacific-winds-concert-band-holds-spring-concert/article_c2d2e510-15b1-493e-a137-30c26e1cac97.html>
+
+---
+
+## Poetry
+
+date: 2025-05-06, updated: 2025-05-06, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_1d91d75f-e7e8-4832-908d-af7184b957c9.html>
+
+---
+
+## US appeals court rejects Trump bid to revoke thousands of migrants’ status
+
+date: 2025-05-06, updated: 2025-05-06, from: Marianas Variety
+
+BOSTON (Reuters) — A federal appeals court rejected on Monday a request by President Donald Trump's administration to allow it to revoke the temporary legal status of hundreds of thousands of Cubans, Haitians, Nicaraguans and Venezuelans living in the United States. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-appeals-court-rejects-trump-bid-to-revoke-thousands-of-migrants-status/article_72f9b81f-3a9f-4ac8-93d1-57a1e059bbf3.html>
 
 ---
 

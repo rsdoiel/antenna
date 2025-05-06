@@ -1,11 +1,37 @@
 ---
 title: ham radio
-updated: 2025-05-06 06:10:21
+updated: 2025-05-06 14:11:02
 ---
 
 # ham radio
 
-(date: 2025-05-06 06:10:21)
+(date: 2025-05-06 14:11:02)
+
+---
+
+## Plan Your Hamvention With ARRL App
+
+date: 2025-05-06, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/plan-your-hamvention-with-arrl-app>
+
+---
+
+## Revealing the infrasonic underworld cheaply, Part 2
+
+date: 2025-05-06, from: EDN Blog
+
+<img width="730" height="314" src="https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?fit=730%2C314" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?w=730 730w, https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?w=300 300w" sizes="(max-width: 730px) 100vw, 730px" /><p>A standard electret microphone can detect sub-audio "sounds" when some simple equalization circuitry is added.</p>
+<p>The post <a href="https://www.edn.com/revealing-the-infrasonic-underworld-cheaply-part-2/">Revealing the infrasonic underworld cheaply, Part 2</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/revealing-the-infrasonic-underworld-cheaply-part-2/>
 
 ---
 
@@ -13,7 +39,7 @@ updated: 2025-05-06 06:10:21
 
 date: 2025-05-06, from: EDN Blog
 
-<img width="2496" height="666" src="https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?fit=2496%2C666" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=2496 2496w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=1900 1900w" sizes="(max-width: 2496px) 100vw, 2496px" /><p>The ultimate value that the EDA industry delivers to the global semiconductor industry is almost incalculable.</p>
+<img width="2496" height="666" src="https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?fit=2496%2C666" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=2496 2496w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-2-EDA-tools.png?w=1900 1900w" sizes="auto, (max-width: 2496px) 100vw, 2496px" /><p>The ultimate value that the EDA industry delivers to the global semiconductor industry is almost incalculable.</p>
 <p>The post <a href="https://www.edn.com/a-short-primer-on-edas-value-in-ic-design/">A short primer on EDA’s role in IC design</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

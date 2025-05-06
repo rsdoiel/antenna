@@ -1,11 +1,99 @@
 ---
 title: writing
-updated: 2025-05-06 06:10:23
+updated: 2025-05-06 14:11:05
 ---
 
 # writing
 
-(date: 2025-05-06 06:10:23)
+(date: 2025-05-06 14:11:05)
+
+---
+
+## 2024 Otherwise Award Winners
+
+date: 2025-05-06, from: Locus Magazine
+
+<p><strong>Rakesfall </strong>by Vajra Chandrasekera (Tordotcom); <strong>Walking Practice </strong>by Dolki Min, translated by Victoria Caudle (HarperVia); <strong>In Universes </strong>by Emet North (Harper; Hutchinson Heinemann UK); and “Kiss of Life” by P.C. Verrone (Fiyah Winter &#8217;24) are the winners of the 2024 Otherwise Award (formerly the James Tiptree, Jr. Award), given annually to works of science fiction or fantasy that &#8220;expand and explore our understanding of gender.&#8221;</p>
+<p>The authors of the winning  <a href="https://locusmag.com/2025/05/2024-otherwise-award-winners/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2024-otherwise-award-winners/>
+
+---
+
+## New Books: 5/06/2025
+
+date: 2025-05-06, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of May 6, 2025. </strong></p>
+<p>&#160;</p>
+<p>Alexis, André: <b> Other Worlds</b> (Macmillan/FSG Originals 978-0374611408, $18.00, 288pp, formats: paperback, ebook, 05/06/2025)</p>
+<p>Collection of stories of the uncanny, set across various times and worlds, and incorporating speculative elements from gothic to isekai. A Trinidadian obeah is reborn  <a href="https://locusmag.com/2025/05/new-books-5-06-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/new-books-5-06-2025/>
+
+---
+
+## Page and Stage with Leslye Headland
+
+date: 2025-05-06, from: John August blog
+
+John welcomes writer, director and playwright Leslye Headland (The Acolyte, Russian Doll) to ask, why are stage plays so challenging for screenwriters? Using her recent Broadway play Cult of Love, they look at different approaches to scene description, heightened and simultaneous dialogue, and strategies for adapting stage plays to film. We also chart Leslye’s career [&#8230;]
+The post <a href="https://johnaugust.com/2025/page-and-stage-with-leslye-headland">Page and Stage with Leslye Headland</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/685standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/685standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/page-and-stage-with-leslye-headland>
+
+---
+
+## 2025 Edgar Awards Winners
+
+date: 2025-05-06, from: Locus Magazine
+
+<p>Several authors and works of genre interest are among the Mystery Writers of America (MWA) 2025 Edgar Awards winners.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Young Adult</strong></p>
+<ul>
+<li><strong>49 Miles Alone</strong>, Natalie D. Richards (Sourcebooks Fire)</li>
+</ul>
+<p><strong>Best Juvenile</strong></p>
+<ul>
+<li><strong>The Stolen Key</strong>, Margaret Peterson Haddix (Quill Tree)</li>
+</ul>
+<p><strong>Robert L. Fish Memorial Award</strong></p>
+<ul>
+<li>“The Jews on Elm Street”, Anna Stolley Persky (Ellery Queen&#8217;s Mystery Magazine 9-10/24)</li>
+</ul>
+<p><strong>The Simon &#38; Schuster Mary Higgins Clark Award</strong></p>
+<ul>
+<li><strong>The Mystery </strong></li></ul></div> <a href="https://locusmag.com/2025/05/2025-edgar-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-edgar-awards-winners/>
+
+---
+
+## Hugo Team Resignations
+
+date: 2025-05-06, from: Locus Magazine
+
+<p>Hugo Awards Administrator Nicholas Whyte released the following statement on May 5, 2025:</p>
+<p>Effective immediately, Cassidy (WSFS DH), Nicholas Whyte (Hugo Administrator) and Esther MacCallum-Stewart (Deputy Hugo Administrator) resign from their respective roles from the Seattle 2025 Worldcon. We do not see a path forward that enables us to make further contributions at this stage.</p>
+<p>We want to reaffirm that no LLMs or generative AI have been used in the  <a href="https://locusmag.com/2025/05/hugo-team-resignations/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/hugo-team-resignations/>
 
 ---
 

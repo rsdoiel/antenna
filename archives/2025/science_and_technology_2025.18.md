@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2025-05-06 06:10:22
+updated: 2025-05-06 14:11:03
 ---
 
 # science and technology
 
-(date: 2025-05-06 06:10:22)
+(date: 2025-05-06 14:11:03)
+
+---
+
+## Redox gets services management, completes userspace process manager
+
+date: 2025-05-06, from: OS News
+
+Can someone please stop these months from coming and going, because I&#8217;m getting dizzy with yet another monthly report of all the progress made by Redox. Aside from the usual swath of improvements to the kernel, relibc, drivers, and so on, this month saw the completion of the userspace process manager. In monolithic kernels this management is done in the kernel, resulting in necessary ambient authority, and possibly constrained interfaces if a stable ABI is to be guaranteed. With this userspace implementation, it will be easier to manage access rights using capabilities, reduce kernel bugs by keeping it simpler, and make changes where both sides of the interface can be updated simultaneously. ↫ Ribbon and Ron Williams Students at Georgia Tech have been hard at work this winter on Redox as well, building a system health monitoring and recovery daemon and user interface. The Redox team has also done a lot of work to improve the build infrastructure, fixing a number of related issues along the way. The sudo daemon has now replaced the setuid bit for improved user authentication security, and a ton of existing ports have been fixed and updated where needed. Redox&#8217; monthly progress is kind of stunning, and it&#8217;s clear there&#8217;s a lot of interesting in the Rust-based operating system from outside the project itself as well. I wonder at what point Redox becomes usable for at least some daily, end-user tasks. I think it&#8217;s not quite there yet, especially when it comes to hardware support, but I feel like it&#8217;s getting there faster than anyone anticipated. 
+
+<br> 
+
+<https://www.osnews.com/story/142291/redox-gets-services-management-completes-userspace-process-manager/>
+
+---
+
+## Computacenter IT guy let girlfriend into Deutsche Bank server rooms, says fired whistleblower
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>What was the plan, showing her his big iron?</h4> <p>A now-former manager at Computacenter claims he was unfairly fired after alerting management that a colleague was repeatedly giving his girlfriend unauthorized access to Deutsche Bank&#39;s server rooms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/computacenter_deutsche_bank_whistleblower/>
+
+---
+
+## Google accidentally reveals Android’s Material 3 Expressive interface ahead of I/O
+
+date: 2025-05-06, from: OS News
+
+Google&#8217;s accelerated Android release cycle will soon deliver a new version of the software, and it might look quite different from what you&#8217;d expect. Amid rumors of a major UI overhaul, Google seems to have accidentally published a blog post detailing &#8220;Material 3 Expressive,&#8221; which we expect to see revealed at I/O later this month. Google quickly removed the post from its design site, but not before the Internet Archive saved it. ↫ Ryan Whitwam at Ars Technica Google seems to be very keen on letting us know this new redesign is based on a lot of user research and metrics, which always sets off alarm bells in my mind when it comes to user interfaces. Every single person uses their smartphone and its applications a little differently, and using tons of metrics and data to average all of this out can make it so that anyone who strays to far from that average is going to have a bad time. This is compounded by the fact that each and every one of us is going to stray form the average in at least a few places. Google also seems to be throwing consistency entirely out of the window with this redesign, which chills me to the bone. One of the reasons I like the current iteration of Material Design so much is that it does a great job of visually (and to a less extent, behaviourally) unifying the operating system and the applications you use, which I personally find incredibly valuable. I very much prefer consistency over disparate branding, and the screenshots and wording I&#8217;m seeing here seem to indicate Google considers that a problem that needs fixing. As with everything UI, screenshots don&#8217;t tell the whole story, so maybe it won&#8217;t be so bad. I mean, it&#8217;s not like I&#8217;ve got anywhere else to go in case Google messes this up. Monopolies (or duopolies) are fun. 
+
+<br> 
+
+<https://www.osnews.com/story/142289/google-accidentally-reveals-androids-material-3-expressive-interface-ahead-of-i-o/>
+
+---
+
+## NASA’s IXPE Reveals X-ray-Generating Particles in Black Hole Jets
+
+date: 2025-05-06, from: NASA breaking news
+
+The blazar BL Lacertae, a supermassive black hole surrounded by a bright disk and jets oriented toward Earth, provided scientists with a unique opportunity to answer a longstanding question: How are X-rays generated in extreme environments like this? NASA’s IXPE (Imaging X-ray Polarimetry Explorer) collaborated with radio and optical telescopes to find answers. The results [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/>
+
+---
+
+## IBM unveils the LinuxONE Emperor 5
+
+date: 2025-05-06, from: OS News
+
+Following the recent release of the IBM z17 mainframe, IBM today unveiled the LinuxONE Emperor 5, which packs much of the same hardware as the z17, but focused on Linux use. Today we&#8217;re announcing IBM LinuxONE 5, performant Linux computing platform for data, applications and your trusted AI, powered by the IBM Telum II processor with built-in AI acceleration. This launch comes at a pivotal time, as technology leaders focus on three critical imperatives: enabling security, improving cost-efficiency, and integrating AI into enterprise systems. ↫ Marcel Mitran and Tina Tarquinio Yes, much like the z17, the LinuxONE 5 is a huge &#8220;AI&#8221; buzzword bonanza, but that&#8217;s to be expected in this day and age. The LinuxONE 5, which, again, few of us will ever get to work with, officially supports Red Hat, OpenSUSE, and Ubuntu, but a variety of other Linux distributions offers support for IBM&#8217;s Z hardware, as well. 
+
+<br> 
+
+<https://www.osnews.com/story/142287/ibm-unveils-the-linuxone-emperor-5/>
+
+---
+
+## FYI: Most AI spending driven by FOMO, not ROI, CEOs tell IBM, LOL
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Just 1 in 4 bets paying off so far</h4> <p>Only a quarter of AI initiatives have delivered the expected return on investment, according to an IBM survey of 2,000 CEOs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/ibm_ai_investments/>
+
+---
+
+## Microsoft burnishes green cred by paying Swedes to burn biomass and bury CO<sub>2</sub>
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Schemes like this are just a license to pollute for tech giants, or so critics say</h4> <p>Microsoft has expanded its deal with Stockholm Exergi to buy 500,000 tonnes of permanent carbon removal annually over ten years. Critics argue such deals give polluters cover rather than drive real climate action.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/microsoft_extends_carbon_removal_agreement/>
+
+---
+
+## NASA Progresses Toward Crewed Moon Mission with Spacecraft, Rocket Milestones
+
+date: 2025-05-06, from: NASA breaking news
+
+Engineers, technicians, mission planners, and the four astronauts set to fly around the Moon next year on Artemis II, NASA’s first crewed Artemis mission, are rapidly progressing toward launch. At the agency’s Kennedy Space Center in Florida, teams are working around the clock to move into integration and final testing of all SLS (Space Launch [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-progresses-toward-crewed-moon-mission-with-spacecraft-rocket-milestones/>
+
+---
+
+## SPHEREx Starts Scanning Entire Sky
+
+date: 2025-05-06, from: NASA breaking news
+
+A soot-like cloud is revealed in a section of the sky in this May 1, 2025, image from NASA’S SPHEREx space observatory. On May 1, SPHEREx began regular science operations, which consist of taking about 3,600 images per day for the next two years to provide new insights about the origins of the universe, galaxies, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/spherex-starts-scanning-entire-sky/>
+
+---
+
+## Pentagon declares war on 'outdated' software buying, opens fire on open source
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>(If only that would keep folks off unsanctioned chat app side quests)</h4> <p>The US Department of Defense (DoD) is overhauling its &#34;outdated&#34; software procurement systems, and insists it&#39;s putting security at the forefront of decision-making processes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/us_dod_software_procurement/>
+
+---
+
+## From Russia with doubt: Go library's Kremlin ties stoke fear
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Easyjson library&#39;s presence in numerous open source projects alarms security biz</h4> <p>Easyjson, a software library for serializing data in Golang applications, is maintained by developers affiliated with Russia&#39;s VK Group.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/from_russia_with_doubt_go/>
+
+---
+
+## EU tells US scientists to dump Trump for a lab in Europe
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Brussels rolls out €500M plan to lure boffins with grants and actual respect for research</h4> <p>The European Commission (EC) is looking to make Europe the home of science by tempting researchers and scientists to relocate to the continent amid a more hostile stance toward academic freedom in the US.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/eu_us_science_scheme/>
+
+---
+
+## NASA’s NICER Maps Debris From Recurring Cosmic Crashes
+
+date: 2025-05-06, from: NASA breaking news
+
+Lee esta nota de prensa en español aquí. For the first time, astronomers have probed the physical environment of repeating X-ray outbursts near monster black holes thanks to data from NASA’s NICER (Neutron star Interior Composition Explorer) and other missions. Scientists have only recently encountered this class of X-ray flares, called QPEs, or quasi-periodic eruptions. […] 
+
+<br> 
+
+<https://science.nasa.gov/universe/nasas-nicer-maps-debris-from-recurring-cosmic-crashes/>
+
+---
+
+## Palantir loves the smell of DOGE budget cuts in the morning
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Data giant backs federal austerity push, saying it&#39;s &#39;the right thing&#39; for US</h4> <p>Palantir, the controversial US surveillance and analytics firm, says it welcomes scrutiny of government spending by the Department of Government Efficiency (DOGE), the controversial cost-cutting agency led by Elon Musk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/palantir_loves_doge/>
+
+---
+
+## Spot the Station Frequently Asked Questions
+
+date: 2025-05-06, from: NASA breaking news
+
+1. Why is the International Space Station up there? The International Space Station is a convergence of science, technology, and human innovation that enables research not possible on Earth for the benefit of humanity. For more than 25 years, NASA has supported a continuous U.S. human presence aboard the station, through which astronauts have learned [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/>
+
+---
+
+## NASA Enables SPHEREx Data Return Through Commercial Partnership
+
+date: 2025-05-06, from: NASA breaking news
+
+NASA is partnering with commercial industry to expand our knowledge of Earth, our solar system, and beyond. Recently, NASA collaborated with Kongsberg Satellite Services (KSAT) to support data transfer for the agency’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission to explore the origins of the universe.&#160; “Not [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/space-comms/nasa-expands-spherex-science-return-through-commercial-partnership/>
+
+---
+
+## Cerebras CEO actually finds common ground with Nvidia as startup notches IBM win
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Feldman calls US&#39;s AI Diffusion rules ‘bad policy’</h4> <p>Cerebras Systems&#39; dinner-plate-sized chips currently power the latest AI inference offerings from Meta and, soon, those of IBM, but US trade policy weighs heavy on its prospects worldwide.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/cerebras_ceo_blasts_us_trade/>
+
+---
+
+## Quantum Sensing via Matter-Wave Interferometry Aboard the International Space Station
+
+date: 2025-05-06, from: NASA breaking news
+
+Future space missions could use quantum technologies to help us understand the physical laws that govern the universe, explore the composition of other planets and their moons, gain insights into unexplained cosmological phenomena, or monitor ice sheet thickness and the amount of water in underground aquafers on Earth. NASA’s Cold Atom Lab (CAL), a first-of-its-kind […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/quantum-sensing-via-matter-wave-interferometry-aboard-the-international-space-station/>
+
+---
+
+## Windows 11 24H2 now 'broadly available' ... complete with yet another 'known issue'
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Azure Virtual Desktop App attach users might want to sit this one out for a bit longer</h4> <p>Microsoft is celebrating the milestone of Windows 11 24H2 reaching broad availability with… yet another &#34;known issue.&#34; This time, it is related to Azure Virtual Desktop applications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/windows_11_24h2_is_now/>
 
 ---
 
@@ -25,7 +253,7 @@ date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
 
 date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
 
-<h4>Too much hot air brings down Manchester Uni based neural network project</h4> <p><strong>Exclusive</strong>  The brain-inspired SpiNNaker machine at Manchester University suffered an overheating incident over the Easter weekend that will send a chill down the spines of datacenter administrators.…</p> 
+<h4>Too much hot air brings down Manchester Uni based neural network project</h4> <p><strong>Exclusive</strong>  The brain-inspired SpiNNaker machine at Manchester University in England suffered an overheating incident over the Easter weekend that will send a chill down the spines of datacenter administrators.…</p> 
 
 <br> 
 
