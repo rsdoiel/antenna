@@ -1,11 +1,66 @@
 ---
 title: home
-updated: 2025-05-05 14:09:45
+updated: 2025-05-06 06:10:26
 ---
 
 # home
 
-(date: 2025-05-05 14:09:45)
+(date: 2025-05-06 06:10:26)
+
+---
+
+## 43 Small Evergreen Shrubs (With Pictures and Names)
+
+date: 2025-05-06, from: Yard Life blog
+
+<p>When it comes to landscaping, small evergreen shrubs are an excellent choice for adding structure, texture, and year-round greenery to ... </p>
+<p class="read-more-container"><a title="43 Small Evergreen Shrubs (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/43-small-evergreen-shrubs-with-pictures-and-names/#more-28101" aria-label="Read more about 43 Small Evergreen Shrubs (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-small-evergreen-shrubs-with-pictures-and-names/">43 Small Evergreen Shrubs (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-small-evergreen-shrubs-with-pictures-and-names/>
+
+---
+
+## How to Grow and Maintain Beautiful Climbing Roses
+
+date: 2025-05-06, from: The Gardener's Path
+
+<p>Climbing roses give you the beauty of a climbing vine without the risk of damage to your property. Because they don’t have suckers or tendrils, they can’t grip onto things on their own. Plus, the canes aren’t aggressively strong like the stems of ivy or wisteria can be. Embrace this classic cottage garden beauty.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-climbing-roses/">How to Grow and Maintain Beautiful Climbing Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-climbing-roses/>
+
+---
+
+## Are Phone Cases Still Worth It in 2025?
+
+date: 2025-05-05, from: Family Handyman Blog
+
+<p>You're buying a new cell phone, and you're on a budget, so you're thinking about skipping the protective case. Our experts say "Don't."</p>
+<p>The post <a href="https://www.familyhandyman.com/article/do-you-need-a-phone-case/">Are Phone Cases Still Worth It in 2025?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/do-you-need-a-phone-case/>
+
+---
+
+## The Plants You Want in Your Garden During a Heatwave
+
+date: 2025-05-05, from: Sunset Magazine - Living in the West
+
+It's time to prep your garden for summer. These heat-tolerant and drought-tolerant plants will thrive on the hottest days. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/heat-and-drought-tolerant-plants>
 
 ---
 
@@ -95,6 +150,18 @@ The Portland, Oregon, septuagenarians went from a three-level Craftsman to a hom
 
 ---
 
+## Secret Garden Gems of the West to Visit This Spring
+
+date: 2025-05-05, from: Sunset Magazine - Living in the West
+
+Discover secluded oases, unique landscapes, and vibrant blooms in these secret gardens of the West. Put them on your spring travel list. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/secret-gardens-of-the-west>
+
+---
+
 ## Buyer Pays $225M for Luxury Florida Estate—Despite Extreme Flood Risk
 
 date: 2025-05-05, from: Family Handyman Blog
@@ -130,18 +197,6 @@ Costs can quickly add up during a remodel. Experts share small ways you can save
 <br> 
 
 <https://www.sunset.com/home-garden/diy-projects/how-to-save-money-on-remodel>
-
----
-
-## Secret Garden Gems of the West to Visit This Spring
-
-date: 2025-05-05, from: Sunset Magazine - Living in the West
-
-Discover secluded oases, unique landscapes, and vibrant blooms in these secret gardens of the West. Put them on your spring travel list. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/secret-gardens-of-the-west>
 
 ---
 
@@ -199,6 +254,18 @@ date: 2025-05-05, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/32-shrubs-with-white-flowers-pictures-and-identification/>
+
+---
+
+## The Ultimate Vancouver Itinerary, According to a Local
+
+date: 2025-05-04, from: Sunset Magazine - Living in the West
+
+A local shares the places to eat, drink, and stay in Western's Canada's biggest city. Read on for the best things to do in Vancouver. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-vancouver>
 
 ---
 

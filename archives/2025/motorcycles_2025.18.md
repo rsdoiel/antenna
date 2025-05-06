@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2025-05-05 14:09:46
+updated: 2025-05-06 06:10:26
 ---
 
 # motorcycles
 
-(date: 2025-05-05 14:09:46)
+(date: 2025-05-06 06:10:26)
+
+---
+
+## Kawasaki is Building a Supercharged 250 Horsepower UTV, But It Might Have More Power
+
+date: 2025-05-06, from: Ride Apart, Electric Motorcycle News
+
+Are you ready for that H2 supercharger whine in the dunes? 
+
+<br> 
+
+<https://www.rideapart.com/news/758620/kawasaki-h2-utv-side-by-side-250-horsepower-supercharged/>
+
+---
+
+## Cardo’s New Shoei Adapter Isn’t a Want, It’s a Need
+
+date: 2025-05-06, from: Ride Apart, Electric Motorcycle News
+
+Because nobody has time for a poorly fitting comms system.  
+
+<br> 
+
+<https://www.rideapart.com/news/758515/cardo-shoei-adaptor-gen-3-helmets/>
+
+---
+
+## There's a Rumor Can-Am Owner Wants to Buy KTM, But Only At Firesale Price
+
+date: 2025-05-06, from: Ride Apart, Electric Motorcycle News
+
+That'd be a helluva team-up.  
+
+<br> 
+
+<https://www.rideapart.com/news/758610/brp-can-am-ktm-buy-price-is-right/>
+
+---
+
+## This Limited-Edition Motorcycle Helmet Celebrates the Gnarliest Race on the Planet
+
+date: 2025-05-06, from: Ride Apart, Electric Motorcycle News
+
+Dearest Arai, please never stop making these. 
+
+<br> 
+
+<https://www.rideapart.com/news/758473/arai-2025-iomtt-limited-edition-helmet/>
+
+---
+
+## This Motorcycle Trail Stand Will Come In Handy When You Breakdown Off-Road
+
+date: 2025-05-06, from: Ride Apart, Electric Motorcycle News
+
+It's basically a sturdy telescopic rod, but it just might get you out of a sticky situation.  
+
+<br> 
+
+<https://www.rideapart.com/news/758514/trailtech-trail-stand-specs-features-price/>
 
 ---
 

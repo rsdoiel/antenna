@@ -1,11 +1,552 @@
 ---
 title: pacific
-updated: 2025-05-05 14:09:40
+updated: 2025-05-06 06:10:21
 ---
 
 # pacific
 
-(date: 2025-05-05 14:09:40)
+(date: 2025-05-06 06:10:21)
+
+---
+
+## Trump offers to pay $1000 to immigrants who self-deport
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration is offering a cash stipend and travel home to immigrants in the country illegally who willingly leave the United States, officials said Monday, its latest effort to increase deportations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/trump-offers-to-pay-1000-to-immigrants-who-self-deport/>
+
+---
+
+## Charred remains found in S. Kona trailer fire
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a mobile home fire Sunday night in Captain Cook in which charred human remains were found. Four Hawaii Fire Department units responded to the 9:52 p.m. alarm with the first unit arriving on-scene at the Lani Kona Road location 22 minutes later.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/hawaii-news/charred-remains-found-in-s-kona-trailer-fire-2/>
+
+---
+
+## Trump tariff order on movies leaves film industry flummoxed
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES/WASHINGTON &#8212; The entertainment industry reacted with alarm and bafflement on Monday after President Donald Trump said he would impose a 100% tariff on all movies produced outside the U.S., but issued few details on just how such a levy would work.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/trump-tariff-order-on-movies-leaves-film-industry-flummoxed/>
+
+---
+
+## Hawaii Legislature pumps up nonprofit grant funding
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii nonprofits stand to receive a lot more grant funding from the Legislature this year due to expectations of federal aid cuts by President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/hawaii-news/hawaii-legislature-pumps-up-nonprofit-grant-funding/>
+
+---
+
+## Naalehu man accused of possessing child pornography
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>A 43-year-old Naalehu man accused of possessing pornographic images involving children has been freed on supervised release &#8212; a form of cashless bail &#8212; following his initial court appearance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/hawaii-news/naalehu-man-accused-of-possessing-child-pornography/>
+
+---
+
+## Alcatraz as a prison? Tourists say Trump is on his own island.
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; Boatloads of tourists traipsed around Alcatraz Island on Monday morning and peered into tiny prison cells, learning about the most notorious inmates who stayed there &#8212; and the ones who tried to escape.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/alcatraz-as-a-prison-tourists-say-trump-is-on-his-own-island/>
+
+---
+
+## Israel may seize all Gaza in expanded operation, officials say
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israeli Prime Minister Benjamin Netanyahu said on Monday an expanded offensive against Palestinian militant group Hamas would be &#8220;intensive&#8221; after his security cabinet approved plans that may include seizing the Gaza Strip and controlling aid.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/israel-may-seize-all-gaza-in-expanded-operation-officials-say/>
+
+---
+
+## Potential Medicaid cuts would be ‘devastating’ for Hawaii
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>When Amy Feeley-Austin of Kona was going through a tough time, Medicaid was a lifesaver that provided health care for her two young children.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/hawaii-news/potential-medicaid-cuts-would-be-devastating-for-hawaii/>
+
+---
+
+## News in brief for May 6
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>Controllers lost contact with &#0010;Newark airplanes for 30 seconds</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/news-in-brief-for-may-6/>
+
+---
+
+## US Defense Secretary Hegseth to slash senior-most ranks of military
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Defense Secretary Pete Hegseth on Monday ordered a 20% reduction in the number of four-star officers, deepening cuts at the Pentagon that have shaken the Department of Defense at the start of President Donald Trump&#8217;s second term in office.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/us-defense-secretary-hegseth-to-slash-senior-most-ranks-of-military/>
+
+---
+
+## Signal clone used by Waltz suspends service after ‘security incident’
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>The application that the Trump White House has been using to collect and securely store messages sent on popular commercial encrypted apps has temporarily suspended service in the wake of a security breach, the application&#8217;s owner said Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/signal-clone-used-by-waltz-suspends-service-after-security-incident/>
+
+---
+
+## Pakistan tests missile, India orders drills amid Kashmir standoff
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>ISLAMABAD/BELA NOOR SHAH, Pakistan &#8212; Pakistan carried out a second missile test in three days on Monday and India said it ordered several states to conduct security drills, as fears mounted the neighbours could be heading to a confrontation over a deadly attack in Kashmir.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/pakistan-tests-missile-india-orders-drills-amid-kashmir-standoff/>
+
+---
+
+## Democratic-led states sue to block Trump’s halting of wind projects
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; A coalition of Democratic state attorneys general sued on Monday in a bid to block President Donald Trump&#8217;s move to suspend leasing and permitting of new wind projects, saying it threatens to cripple the wind industry and a key source of clean energy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/democratic-led-states-sue-to-block-trumps-halting-of-wind-projects/>
+
+---
+
+## Europe pledges half a billion euros to lure scientists as Trump battles universities
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; The European Union and France on Monday announced half a billion euros worth of incentives to lure scientists to the continent, seeking to profit from U.S. President Donald Trump &#8217;s federal funding cuts and clashes with top U.S. universities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/europe-pledges-half-a-billion-euros-to-lure-scientists-as-trump-battles-universities/>
+
+---
+
+## Trump administration freezes future grants to Harvard
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Department of Education informed Harvard University on Monday that it was freezing billions of dollars in future research grants and other aid until the nation&#8217;s oldest and wealthiest college concedes to a number of demands from the Trump administration, a senior department official said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/trump-administration-freezes-future-grants-to-harvard/>
+
+---
+
+## All cardinals who will elect new pope arrive in Rome ahead of conclave
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; All of the 133 cardinals expected to take part in the secret conclave to elect a new pope have arrived in Rome, the Vatican said on Monday, with the race to succeed Pope Francis seen as wide open. The conclave will start behind the closed, wooden doors of the Sistine Chapel on Wednesday afternoon, with all cardinals aged under 80 entitled to take part to choose a successor to Francis, who died last month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/nation-world-news/all-cardinals-who-will-elect-new-pope-arrive-in-rome-ahead-of-conclave/>
+
+---
+
+## Spicy beef tostadas reinvigorate the Taco Tuesday tradition
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>When you need to throw something together for a fast and easy weeknight meal, tacos are often a busy cook&#8217;s first choice.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/features/spicy-beef-tostadas-reinvigorate-the-taco-tuesday-tradition/>
+
+---
+
+## Let’s Talk Food: Green mangoes
+
+date: 2025-05-06, from: Hawaii Tribune Harold
+
+
+				<p>When Tom and Bryson give you green mangoes, what do you do with them? First I get excited, then I made mango chutney and pickled mango with them!</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/06/community/lets-talk-food-green-mangoes/>
+
+---
+
+## Dmakeuikl Seniors Celebrate Together
+
+date: 2025-05-06, from: Island Times
+
+<figure><img width="1024" height="560" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?fit=1024%2C560&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?resize=300%2C164&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?resize=1024%2C560&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?resize=768%2C420&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?resize=1200%2C656&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?resize=780%2C427&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?resize=400%2C219&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?resize=706%2C386&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?fit=1024%2C560&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77235" data-permalink="https://islandtimes.org/dmakeuikl-seniors-celebrate-together/20250505_100533/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?fit=1249%2C683&amp;ssl=1" data-orig-size="1249,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1746439533&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;12&quot;,&quot;shutter_speed&quot;:&quot;0.0019&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250505_100533" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?fit=300%2C164&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250505_100533.jpg?fit=780%2C427&amp;ssl=1" /></figure>
+<p>Over 200 senior citizens from the four western states of Babeldaob—Aimeliik, Ngatpang, Ngeremlengui, and Ngardmau—gathered at Koksai in Ngatpang to celebrate Senior Citizens Day, marking the first time the event was jointly held by these states. “We want this to continue—celebrating together strengthens our bonds and brings our communities closer,” shared women from Ngeremlengui, echoing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dmakeuikl-seniors-celebrate-together/">Dmakeuikl Seniors Celebrate Together</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dmakeuikl-seniors-celebrate-together/>
+
+---
+
+## Palau Election Commission rejects recall Petition against Ngatpang Governor
+
+date: 2025-05-06, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60466" data-permalink="https://islandtimes.org/palau-election-certifies-results-of-december-elections/pec-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pec" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" /></figure>
+<p>Ngatpang, Palau — The Palau Election Commission has rejected a petition submitted by the Ngatpang State Legislature to recall Governor Jersey Iyar and hold a new gubernatorial election, citing constitutional inconsistencies and procedural errors. The commission outlined three key reasons for rejecting the petition: “I give credit to those who chose to initiate this petition [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-election-commission-rejects-recall-petition-against-ngatpang-governor/">Palau Election Commission rejects recall Petition against Ngatpang Governor</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-election-commission-rejects-recall-petition-against-ngatpang-governor/>
+
+---
+
+## Big Reels, Bigger Feels
+
+date: 2025-05-06, from: Island Times
+
+<figure><img width="600" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77228" data-permalink="https://islandtimes.org/big-reels-bigger-feels/etpison/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" data-orig-size="600,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="etpison" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" /></figure>
+<p>No Grand Prize Hooked at 32nd PSFA Derby, but the Thrill Was Real KOROR, Palau— The ocean had her own plans this weekend as the 32nd Annual Palau Sportfishing Association (PSFA) Derby cast off on May 3–4 at Drop Off, with rods high, spirits higher, and plenty of fish tales waiting to be told. Although [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/big-reels-bigger-feels/">Big Reels, Bigger Feels</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/big-reels-bigger-feels/>
+
+---
+
+## Senator Pedro flags Presidential Museum appointments for Skipping required procedure
+
+date: 2025-05-06, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang NGERULMUD, Palau — Senator Ann Pedro announced during a Senate session last Thursday that she intends to recall recent presidential appointments to the Belau National Museum Board of Trustees, citing violations of the legal process required for such nominations. In a letter sent six days prior to the session, Pedro, who [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senator-pedro-flags-presidential-museum-appointments-for-skipping-required-procedure/">Senator Pedro flags Presidential Museum appointments for Skipping required procedure</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senator-pedro-flags-presidential-museum-appointments-for-skipping-required-procedure/>
+
+---
+
+## Palau Media Council joins Global celebration of World Press Freedom Day
+
+date: 2025-05-06, from: Island Times
+
+<figure><img width="938" height="223" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?w=938&amp;ssl=1 938w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=300%2C71&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=768%2C183&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=400%2C95&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="53561" data-permalink="https://islandtimes.org/palau-media-councils-world-press-freedom-day-statement/pmc-new-logo2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1" data-orig-size="938,223" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PMC New Logo2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=300%2C71&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=780%2C185&amp;ssl=1" /></figure>
+<p>By: Bernadette Carreon Palau media has joined the rest of the Pacific region in celebrating World Press Freedom Day, emphasizing the challenges it faces regarding the impact of artificial intelligence (AI) on press freedom and media. Despite obstacles such as legal battles and limited resources, the media continues to underscore the importance of press freedom. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-media-council-joins-global-celebration-of-world-press-freedom-day/">Palau Media Council joins Global celebration of World Press Freedom Day</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-media-council-joins-global-celebration-of-world-press-freedom-day/>
+
+---
+
+## Senate rejects role in Koror title dispute, responding to Bilung
+
+date: 2025-05-06, from: Island Times
+
+<p>NGERULMUD, Palau — The Senate of the 12th Olbiil Era Kelulau has rejected any role in resolving traditional title disputes, stating it has no constitutional mandate to intervene, in response to a letter from Bilung Gloria Salii objecting to the Senate’s handling of the Ibedul seat during the State of the Republic Address. Bilung’s letter, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-rejects-role-in-koror-title-dispute-responding-to-bilung/">Senate rejects role in Koror title dispute, responding to Bilung</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-rejects-role-in-koror-title-dispute-responding-to-bilung/>
+
+---
+
+## Memories and Illnesses of the Body
+
+date: 2025-05-06, from: Island Times
+
+<p>The brain is sitting at the top of the body. Hurtful things like annoying water from&#160; leaky faucet drips to our body.&#160; We may forget emotional abuses from our childhood but the body remembers everything. Results: diabetes, cancer, Chronic diseases and mental disorders and illnesses. In (2024) 53 domestic violence were reported here in Koror.&#160; [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/memories-and-illnesses-of-the-body/">Memories and Illnesses of the Body</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/memories-and-illnesses-of-the-body/>
+
+---
+
+## Palau President Whipps’ optimism meets rising Senate resistance as second term takes shape
+
+date: 2025-05-06, from: Island Times
+
+<p>KOROR (PACIFIC ISLAND TIMES)&#8212;Palau President Surangel Whipps Jr’s 2025 State of the Republic Address struck a notably optimistic tone as he laid out a record of economic recovery, education reforms and ambitious development initiatives. Yet behind the hopeful message was a clear acknowledgment of the increasingly difficult political reality he faces: a Senate emboldened to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-president-whipps-optimism-meets-rising-senate-resistance-as-second-term-takes-shape/">Palau President Whipps’ optimism meets rising Senate resistance as second term takes shape</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-president-whipps-optimism-meets-rising-senate-resistance-as-second-term-takes-shape/>
+
+---
+
+## New report finds positive Impact of Ngeruangel Reserve on commercially Important Fish Species
+
+date: 2025-05-06, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77202" data-permalink="https://islandtimes.org/new-report-finds-positive-impact-of-ngeruangel-reserve-on-commercially-important-fish-species/photo_ngeruangel-reserve-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon PowerShot G7 X Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;315532809&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;8.8&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Ngeruangel Reserve 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Researchers at the Palau International Coral Reef Center (PICRC) have published a report on the most recent survey of Ngeruangel Reserve, a Marine Protected Area (MPA) within the Palau Protected Areas Network (PAN), located in Kayangel State. The report, titled “Latest assessment of Ngeruangel Reserve indicates positive effects on commercially important fish in the fore [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-report-finds-positive-impact-of-ngeruangel-reserve-on-commercially-important-fish-species/">New report finds positive Impact of Ngeruangel Reserve on commercially Important Fish Species</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-report-finds-positive-impact-of-ngeruangel-reserve-on-commercially-important-fish-species/>
+
+---
+
+## Poverty persists across PNG and Pacific despite economic growth – World Bank
+
+date: 2025-05-06, from: Island Times
+
+<p>WELLINGTON/WASHINGTON/ SUVA (RNZ PACIFIC) &#8212;About half of Papua New Guinea&#8217;s population lives on less than US$3.65 a day, and there has been little change in monetary well being since a 2010 survey, according to the World Bank. The report said the country has some of the poorest nutrition outcomes in the world, with almost half [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/poverty-persists-across-png-and-pacific-despite-economic-growth-world-bank/">Poverty persists across PNG and Pacific despite economic growth &#8211; World Bank</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/poverty-persists-across-png-and-pacific-despite-economic-growth-world-bank/>
+
+---
+
+## People’s Action Party wins yet another election by landslide in Singapore
+
+date: 2025-05-06, from: Island Times
+
+<p>By&#160;Max Walden&#160;and Rex Siu In short: (ABC-Australia) The ruling People&#8217;s Action Party won 87 out of 97 seats in Singapore&#8217;s parliament. Fears of economic downturn caused by the Trump administration appear to have helped the government boost its share of the popular vote. What&#8217;s next? The soaring cost of housing and daily essentials remains front [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/peoples-action-party-wins-yet-another-election-by-landslide-in-singapore/">People&#8217;s Action Party wins yet another election by landslide in Singapore</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/peoples-action-party-wins-yet-another-election-by-landslide-in-singapore/>
+
+---
+
+## Grant termination threatens Lyon Arboretum’s seed digitization project
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p>The digitization effort made the collection accessible to scientists and seed banks around the world.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/grant-termination-seed-digitization-project/">Grant termination threatens Lyon Arboretum’s seed digitization project</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/grant-termination-seed-digitization-project/>
+
+---
+
+## Legal tech innovation earns UH student national law honor
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> law student Benjamin Leider was named one of The National Jurist’s 2025 Law Students of the Year.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/leider-national-law-honor/">Legal tech innovation earns <abbr>UH</abbr> student national law honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/leider-national-law-honor/>
+
+---
+
+## Mahalo Provost Bruno, nationwide search for successor
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p>&#8220;I’m grateful that at my request, Michael has agreed to provide continuing leadership on key strategic initiatives&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/mahalo-provost-bruno/">Mahalo Provost Bruno, nationwide search for successor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/mahalo-provost-bruno/>
+
+---
+
+## Provost Bruno: My next chapter at UH Mānoa
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p>&#8220;Though I will be leaving the Provost’s office, I will continue to serve <abbr>UH</abbr> Mānoa in new ways.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/provost-bruno-my-next-chapter/">Provost Bruno: My next chapter at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/provost-bruno-my-next-chapter/>
+
+---
+
+## UH Mānoa Provost Bruno to step down, nationwide search for successor planned
+
+date: 2025-05-06, from: University of Hawaiʻi News
+
+<p>Bruno will return to the faculty as a Professor of Ocean Engineering in the School of Ocean and Earth Science and Technology</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/uh-manoa-provost-bruno-to-step-down/"><abbr>UH</abbr> Mānoa Provost Bruno to step down, nationwide search for successor planned</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/uh-manoa-provost-bruno-to-step-down/>
+
+---
+
+## UH Hilo student earns NASA honors, heads to Italy
+
+date: 2025-05-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo senior Jeffrey Kromer earned a <abbr>NASA</abbr> grant to present his Mars dune research in Italy.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/uh-hilo-student-earns-nasa-honors/"><abbr>UH</abbr> Hilo student earns <abbr>NASA</abbr> honors, heads to Italy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/uh-hilo-student-earns-nasa-honors/>
+
+---
+
+## Student visions come to life at Windward CC’s Annual Art Exhibition
+
+date: 2025-05-05, from: University of Hawaiʻi News
+
+<p>Bold, original works from emerging Windward <abbr>CC</abbr> artists across ceramics, painting, photography and more.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/windward-cc-annual-student-art-exhibition/">Student visions come to life at Windward <abbr>CC</abbr>’s Annual Art Exhibition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/windward-cc-annual-student-art-exhibition/>
+
+---
+
+## UH architecture students explore LA design scene
+
+date: 2025-05-05, from: University of Hawaiʻi News
+
+<p>​​Students toured top Los Angeles firms and landmarks to gain firsthand insight into contemporary design practices.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/arch-students-explore-la-firms/"><abbr>UH</abbr> architecture students explore <abbr>LA</abbr> design scene</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/arch-students-explore-la-firms/>
+
+---
+
+## Civic engagement leaders win top regional award
+
+date: 2025-05-05, from: University of Hawaiʻi News
+
+<p>Atina Pascua and Ulla Hasager were honored for their decades of service to civic engagement.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/civic-engagement-top-regional-award/">Civic engagement leaders win top regional award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/civic-engagement-top-regional-award/>
+
+---
+
+## From lost to lifted: Kapiʻolani CC’s Lunalilo Scholars Program changed grad’s life
+
+date: 2025-05-05, from: University of Hawaiʻi News
+
+<p>Jamilyn Moriguchi found support, success and self at <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/05/kapiolani-cc-lunalilo-scholars-program-changed-grads-life/">From lost to lifted: Kapiʻolani <abbr>CC</abbr>’s Lunalilo Scholars Program changed grad’s life</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/05/kapiolani-cc-lunalilo-scholars-program-changed-grads-life/>
 
 ---
 
@@ -330,6 +871,20 @@ date: 2025-05-05, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/05/nation-world-news/more-us-air-defense-is-on-the-way-to-help-ukraine/>
+
+---
+
+## Charred remains found in S. Kona trailer fire
+
+date: 2025-05-05, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a mobile home fire Sunday night in Captain Cook in which charred human remains were found. Four Hawaii Fire Department units responded to the 9:52 p.m. alarm with the first unit arriving on-scene at the Lani Kona Road location 22 minutes later.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/05/hawaii-news/charred-remains-found-in-s-kona-trailer-fire/>
 
 ---
 

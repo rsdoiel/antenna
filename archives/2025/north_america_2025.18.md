@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-05-05 14:09:39
+updated: 2025-05-06 06:10:19
 ---
 
 # north america
 
-(date: 2025-05-05 14:09:39)
+(date: 2025-05-06 06:10:19)
+
+---
+
+## Words & Phrases We Can Do Without
+
+date: 2025-05-06, from: The Contrarian
+
+The plummeting value of being 'concerned' 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-can-do-without-f5c>
+
+---
+
+## Kaiser and Mental Health Care Workers Reach Tentative Agreement
+
+date: 2025-05-06, from: Capital and Main
+
+<p>A long, grueling strike approaches settlement. Its underlying causes remain unaddressed.</p>
+<p>The post <a href="https://capitalandmain.com/kaiser-and-mental-health-care-workers-reach-tentative-agreement">Kaiser and Mental Health Care Workers Reach Tentative Agreement</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/kaiser-and-mental-health-care-workers-reach-tentative-agreement>
+
+---
+
+## Jen, Norm and Katie Phang on 3 important legal news items
+
+date: 2025-05-06, from: The Contrarian
+
+A recording from Norman Eisen and Jennifer Rubin's live video with special guest Katie Phang 
+
+<br> 
+
+<https://contrarian.substack.com/p/jen-norm-and-katie-phang-on-3-important>
+
+---
+
+## Evening Roundup, May 5
+
+date: 2025-05-06, from: The Contrarian
+
+Featuring The Democracy Movement; Sen. Mark Warner & Jen; Phyllis N. Segal; Pablo Torre & Jen; Theresa Brown; Dean Baker; Michael de Adder; and our monthly Contrarian's episode of "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-5>
 
 ---
 

@@ -1,11 +1,110 @@
 ---
 title: socal north
-updated: 2025-05-05 14:09:39
+updated: 2025-05-06 06:10:19
 ---
 
 # socal north
 
-(date: 2025-05-05 14:09:39)
+(date: 2025-05-06 06:10:19)
+
+---
+
+## I have federal student debt. What Trump administration changes affect me?
+
+date: 2025-05-06, updated: 2025-05-06, from: The LAist
+
+College affordability experts weigh in on how to protect yourself from mismanagement and stay on track toward cancellation. 
+
+<br> 
+
+<https://laist.com/news/education/federal-student-debt-borrowers-california-trump-administration>
+
+---
+
+## Overcast and windy in parts of SoCal
+
+date: 2025-05-06, updated: 2025-05-06, from: The LAist
+
+But we're looking at a dry weather pattern developing for the rest of the week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/overcast-and-windy-in-parts-of-socal>
+
+---
+
+## Trump restricts funding for 'gain-of-function' research — calling it dangerous
+
+date: 2025-05-06, updated: 2025-05-06, from: The LAist
+
+President Trump issued an executive order Monday banning federal funding for any research abroad that involves a field of scientific study known as "gain-of-function" research. Here's what it means. 
+
+<br> 
+
+<https://laist.com/news/trump-restricts-funding-for-gain-of-function-research-calling-it-dangerous>
+
+---
+
+## Trump's plan for movie tariffs leads to global confusion
+
+date: 2025-05-06, updated: 2025-05-06, from: The LAist
+
+Production in Hollywood has been suffering. But it's unclear how a 100% tariff on movies produced outside the United States would work — or who it would help. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/trumps-plan-for-movie-tariffs-leads-to-global-confusion>
+
+---
+
+## LA County declares hepatitis A outbreak
+
+date: 2025-05-05, updated: 2025-05-05, from: The LAist
+
+Cases of the liver infection have more than tripled since 2023. The reason is not entirely clear. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-hepatitis-a-outbreak>
+
+---
+
+## Police investigate death of 73-year-old man found stabbed Monday morning
+
+date: 2025-05-05, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police have not, at this point, labeled his death a homicide, calling it an “undetermined death.”</p>
+<p>The post <a href="https://lbpost.com/news/crime/police-investigate-death-of-73-year-old-man-found-stabbed-monday-morning">Police investigate death of 73-year-old man found stabbed Monday morning</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/police-investigate-death-of-73-year-old-man-found-stabbed-monday-morning>
+
+---
+
+## 100% tariffs may be coming for Hollywood's biggest releases
+
+date: 2025-05-05, updated: 2025-05-05, from: The LAist
+
+President Trump authorized 100% tariffs on films made in "foreign lands." We talk to an entertainment business reporter and an economist about what this may mean for Hollywood's film industry. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/100-tariffs-may-be-coming-for-hollywoods-biggest-releases>
+
+---
+
+## ‘Millions out on the street virtually overnight’: How Trump’s budget proposal could affect California
+
+date: 2025-05-05, updated: 2025-05-05, from: The LAist
+
+President Donald Trump’s budget proposal in its present form would have huge effects on housing and homelessness in California. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/millions-out-on-the-street-virtually-overnight-how-trumps-budget-proposal-could-affect-california>
 
 ---
 
@@ -85,7 +184,7 @@ California regulator investigates State Farm over L.A. fire survivors’ complai
 
 date: 2025-05-05, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/05092806/020525-homeless-encampment-sweep-fresno-lv-cm-13-058022-soher2ba-504005-6CBesmlJ.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>President Donald Trump’s budget proposal in its present form would have huge effects on housing and homelessness in California.</p>
 <p>The post <a href="https://lbpost.com/news/politics/millions-out-on-the-street-virtually-overnight-how-trumps-budget-proposal-could-affect-california">‘Millions out on the street virtually overnight’: How Trump’s budget proposal could affect California</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -120,6 +219,18 @@ Cinco de Mayo specials, Cercle Odyssey, Paul McCartney photos and more of the be
 
 ---
 
+## How safe are federal student loans right now?
+
+date: 2025-05-05, updated: 2025-05-05, from: The LAist
+
+The Trump administration and Congress have taken a series of actions that could greatly affect federal student loan borrowers. 
+
+<br> 
+
+<https://laist.com/news/education/federal-student-loan-debt-trump-administration-policy>
+
+---
+
 ## Growing fruits and veggies this spring? Lookout for pesky, invasive flies
 
 date: 2025-05-05, updated: 2025-05-05, from: The LAist
@@ -129,18 +240,6 @@ Officials are asking home gardeners and local farms to stay vigilant this spring
 <br> 
 
 <https://laist.com/news/climate-environment/gardening-fruits-veggies-fruit-flies>
-
----
-
-## Should I take out a federal student loan right now?
-
-date: 2025-05-05, updated: 2025-05-05, from: The LAist
-
-The Trump administration and Congress have taken a series of actions that could greatly affect federal student loan borrowers. 
-
-<br> 
-
-<https://laist.com/news/education/federal-student-loan-debt-trump-administration-policy>
 
 ---
 

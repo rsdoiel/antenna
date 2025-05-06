@@ -1,11 +1,145 @@
 ---
 title: snapshots
-updated: 2025-05-05 14:09:49
+updated: 2025-05-06 06:10:30
 ---
 
 # snapshots
 
-(date: 2025-05-05 14:09:49)
+(date: 2025-05-06 06:10:30)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+Tesla sales plunge again in April, down stunning 75 pct over year before. 
+
+<br> 
+
+<https://thedriven.io/2025/05/05/tesla-sales-plunge-again-in-april-down-stunning-75-pct-over-year-before/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+Order by Hegseth to cancel Ukraine weapons caught White House off guard. 
+
+<br> 
+
+<https://www.reuters.com/world/us/order-by-hegseth-cancel-ukraine-weapons-caught-white-house-off-guard-2025-05-06/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-06, from: Feed for Alt USDS)
+
+Want to get involved? Here's a way
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3loitagohsk2u>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+Why is Everybody Hating on Richie Rich? 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/05/richie-rich-harvey-comics-good-billionaires-wealth-fantasy-elon-musk-donald-trump-comparisons-inequality/>
+
+---
+
+## Radar Trends to Watch: May 2025
+
+date: 2025-05-06, from: O'Reilly Radar
+
+Anthropic’s Model Context Protocol (MCP) has received a lot of attention for standardizing the way models communicate with tools, making it much easier to build intelligent agents. Google’s Agent2Agent (A2A) now adds features that were left out of the original MCP specification: security, agent cards for describing agent capabilities, and more. Is A2A competitive or [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/radar-trends-to-watch-may-2025/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+New York Knicks stun Boston Celtics with overtime win. 
+
+<br> 
+
+<https://www.bbc.com/sport/basketball/articles/cd9l144zn9lo>
+
+---
+
+## What's the carbon footprint of using ChatGPT?
+
+date: 2025-05-06, from: Hannah Richie at Substack
+
+Very small compared to most of the other stuff you do. 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/carbon-footprint-chatgpt>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-06, from: Feed for Alt USDS)
+
+We updated our timeline for the month of April. Learn about DOGE's insider threats, what government employees are and are not allowed to do politically, and much more!
+
+ https://bit.ly/4iQ7rVZ 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lohxcoj7zq25>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-06, from: Feed for Alt USDS)
+
+What happens when AI replaces experience? DOGE-backed projects want to "free up" 70k government workers, but real efficiency comes from human-centered design.
+
+Read our latest 👉 https://bit.ly/Illusion-of-Efficiency 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lohv75uoxf25>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-05, from: Dave Winer's linkblog)
+
+Il presidente di El Salvador fa shopping a Firenze. 
+
+<br> 
+
+<https://www.lanazione.it/firenze/cronaca/presidente-salvador-giacca-m7zgvjvq>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-05, from: Dave Winer's linkblog)
+
+Tesla Cybertruck Review After 15,000 Miles. 
+
+<br> 
+
+<https://cleantechnica.com/2025/05/05/tesla-cybertruck-review-after-15000-miles/>
+
+---
+
+## Game Bub is an open source, FPGA-based handheld with support for Game Boy, GBC, and GBA games (crowdfunding)
+
+date: 2025-05-05, from: Liliputing
+
+<p>The Game Bub is an upcoming handheld game console designed to play Game Boy, Game Boy Color, and Game Boy Advance games. Like most modern handhelds it can handle ROM files. But you can also use cartridges, making this a modern device that functions a lot like the original hardware. In fact, it even supports link [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/game-bub-is-an-open-source-fpga-based-handheld-with-support-for-game-boy-gbc-and-gba-games-crowdfunding/">Game Bub is an open source, FPGA-based handheld with support for Game Boy, GBC, and GBA games (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/game-bub-is-an-open-source-fpga-based-handheld-with-support-for-game-boy-gbc-and-gba-games-crowdfunding/>
 
 ---
 

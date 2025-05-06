@@ -1,11 +1,152 @@
 ---
 title: columns
-updated: 2025-05-05 14:09:42
+updated: 2025-05-06 06:10:23
 ---
 
 # columns
 
-(date: 2025-05-05 14:09:42)
+(date: 2025-05-06 06:10:23)
+
+---
+
+## Notes for WordLand users
+
+date: 2025-05-06, from: Dave Winer's Scripting News
+
+<p>Three questions came up in overnight posts re <a href="https://wordland.social/">WordLand</a>.</p>
+<ol>
+<li>Where did the Bookmarks menu go? It's mentioned in the docs under <a href="https://this.how/wordland/#1732286073000">Feature List</a>, but the feature doesn't appear to be in the product. It is there, you just have to go to the <a href="https://imgs.scripting.com/2025/05/06/settings.png">Settings</a> page to turn it on. It's in the System menu at the right edge of the screen. I'm doing some work on it, simplifying it, and finding and fixing a bug. It's going to be in the final 1.0 release of WordLand. </li>
+<li>How do I know when an post has been published? It was suggested we post a dialog that confirms that a post is published. People found it confusing since it appears as if it works like a social media post editor, as in Twitter or Mastodon, it behaves like a blog post editor. This is a good and valid point and something that had not occurred to me! I've been advertising it as inspired by the tiny little textbox editors, but it doesn't behave like one, because you can edit a post after it has been published and it is expected that the user knows this, and they don't always get it. I will work on this. </li>
+<li>The user might not have a WordPress site. They may have created an account to just log onto WordLand, but didn't know they needed to also create a site to work with. The software does not behave well in this circumstance. Again, something that did not occur to me, because I think of the WordPress world as huge, and that my new, tiny and humble product couldn't be creating new users for them, but it does. So there will have to at least be docs for how to do this. Not sure if there's an API for creating a new site, I imagine that there is not such a thing, but will look into it.  </li>
+</ol>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/06/125003.html?title=notesForWordlandUsers>
+
+---
+
+## Overhearings
+
+date: 2025-05-06, from: Doc Searls (at Harvard), New Old Blog
+
+Not too oldie but still goodie.I was just reminded that I guested on Joseph Jaffe&#39;s podcast three years ago yesterday.  Starts about eleven minutes in at that link. 
+
+<br> 
+
+<https://doc.searls.com/2025/05/06/overhearings/>
+
+---
+
+## Fake Student Fraud in Community Colleges
+
+date: 2025-05-06, updated: 2025-05-05, from: Bruce Schneier blog
+
+<p>Reporting on the rise of <a href="https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/">fake students</a> enrolling in community college courses:</p>
+<blockquote><p>The bots&#8217; goal is to bilk state and federal financial aid money by enrolling in classes, and remaining enrolled in them, long enough for aid disbursements to go out. They often accomplish this by submitting AI-generated work. And because community colleges accept all applicants, they&#8217;ve been almost exclusively impacted by the fraud.</p></blockquote>
+<p>The article talks about the rise of this type of fraud, the difficulty of detecting it, and how it upends quite a bit of the class structure and learning community...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/fake-student-fraud-in-community-colleges.html>
+
+---
+
+## Commodore OS 3 is the loudest Linux yet
+
+date: 2025-05-06, updated: 2025-05-06, from: Liam Proven's articles at the Register
+
+<h4>One distro has to be the most extra – and here it is</h4>
+      <p>A Commodore-themed talking Linux desktop, complete with hundreds of games, makes for the biggest distro we&#39;ve seen yet.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/06/commodore_os_3/>
+
+---
+
+## Keep demonstrating against Trump — but also for a better future. 
+
+date: 2025-05-06, from: Robert Reich's blog
+
+The importance of progressive populism 
+
+<br> 
+
+<https://robertreich.substack.com/p/its-clear-what-were-demonstrating>
+
+---
+
+## curl up 2025 is over
+
+date: 2025-05-06, from: Daniel Stenberg Blog
+
+James Fuller was our man on the ground in Prague. He found the venue, organized most of the event and made it another curl up success. Thank you! The curl up series started in 2017 and is our annual curl developers meetup, but since it was converted to online only for a few years through &#8230; <a href="https://daniel.haxx.se/blog/2025/05/06/curl-up-2025-is-over/" class="more-link">Continue reading <span class="screen-reader-text">curl up 2025 is over</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/05/06/curl-up-2025-is-over/>
+
+---
+
+## May 5, 2025 
+
+date: 2025-05-06, from: Heather Cox Richardson blog
+
+On his social media feed yesterday evening, President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-5-2025>
+
+---
+
+## Ebike options
+
+date: 2025-05-06, from: Tracy Durnell Blog
+
+I got drawn for a $300 rebate for an ebike from the state, and I have through June 11 to buy a bike or I forfeit it. I&#8217;ve considered getting an ebike for a long time, though I wasn&#8217;t actively looking. The rebate isn&#8217;t big enough that I feel like I *have* to use it [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/05/ebike-options/>
+
+---
+
+##  New Language for Slavery and the Civil War 
+
+date: 2025-05-05, updated: 2025-05-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/new-language-for-slavery-and-the-civil-war-1>
+
+---
+
+## Welcome to America — Now Leave
+
+date: 2025-05-05, from: Dan Rather's Steady
+
+Cruelty is the point 
+
+<br> 
+
+<https://steady.substack.com/p/welcome-to-america-now-leave>
+
+---
+
+## Watergate and Trump: The role of citizens
+
+date: 2025-05-05, from: Robert Reich's blog
+
+Wise words from Fred Wertheimer 
+
+<br> 
+
+<https://robertreich.substack.com/p/watergate-and-trump-the-role-of-citizens>
 
 ---
 
@@ -276,7 +417,7 @@ He&rsquo;s a nice person. He three long paragraphs, wishing me health, unforgett
 
 **@Dave Winer's Scripting News** (date: 2025-05-05, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I think we're at the "no more new features" point of the first release of <a href="https://wordland.social/">WordLand</a>. Learned my lesson on the <a href="https://github.com/scripting/wordlandSupport/issues/82">0.5.7 release</a>, there comes a point in developing product that it may not be perfect for everyone or for every possible user, and while it has bugs (all software does), it is useful for what it was designed to do. There's nothing else like it out there, and it forms a foundation to build on. So I don't expect to do any further adventures in features for WordLand for a while, instead I'm going to assume it's there and build connections to other software, my own and that of my friends, in this context products that use open formats for interop. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I think we're at the "no more new features" point of the first release of <a href="https://wordland.social/">WordLand</a>. Learned my lesson on the <a href="https://github.com/scripting/wordlandSupport/issues/82">0.5.7 release</a>. There comes a point in a developing product that it may not be perfect for every possible user, and while it has bugs (all software does), it is useful for what it was designed to do. In the case of WordLand, there's nothing else like it out there, and it forms a foundation to build on, not just for itself but for other types of editors, all pumping people's writing out through WordPress. The <a href="https://daytona.scripting.com/search?q=%22writer%27s%20web%22">writer's web</a> with a sweet new UI. Thousands of developers work in WordPress. Maybe tens of thousands. That's what I get excited about. WordLand is the equivalent of the twitter-like <a href="https://daytona.scripting.com/search?q=%22tiny%20little%20textbox%22">tiny little textbox</a>, but it grows big as your writing does, and it has the features Twitter removed. Anyway I don't expect to do any further adventures in features for WordLand for a while, instead I'm going to assume it's there and build connections to other software, my own and that of friends, in this context products that use open formats like <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> and <a href="http://opml.org/">OPML</a> for interop. I like <a href="https://en.wikipedia.org/wiki/WebSocket">WebSockets</a> too. 
 
 <br> 
 

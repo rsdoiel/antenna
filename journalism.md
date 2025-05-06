@@ -1,11 +1,85 @@
 ---
 title: journalism
-updated: 2025-05-05 14:09:44
+updated: 2025-05-06 06:10:24
 ---
 
 # journalism
 
-(date: 2025-05-05 14:09:44)
+(date: 2025-05-06 06:10:24)
+
+---
+
+## UCLA ROTC instructor among 32 suing over ban on transgender people in military
+
+date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sgt. 1st Class Kate Cole, a senior military science instructor at UCLA Army ROTC, is among 32 plaintiffs suing President Donald Trump&#8217;s administration for its ban on transgender people serving in the military. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/ucla-rotc-instructor-among-32-suing-over-ban-on-transgender-people-in-military/>
+
+---
+
+## 826LA’s journaling workshop educates on mental health, empowers youth creativity
+
+date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Children participated in a journaling workshop promoting mental health hosted at the Hammer Museum on Sunday. 
+At the event presented with 826LA, a nonprofit that aims to teach children ages six to 18 creative writing skills, students played a game to learn coping strategies, drew their dream gardens and wrote about their safe and happy places through guided prompts. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/826las-journaling-workshop-educates-on-mental-health-empowers-youth-creativity/>
+
+---
+
+## Guide to UCLA Tennis Courts
+
+date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/guide-to-ucla-tennis-courts/>
+
+---
+
+## Paris Spies-Gans uncovers overlooked contributions of women artists in history
+
+date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Paris Spies-Gans is rewriting the history of artistic representation.
+The Getty Center hosted a free lecture at the Harold M. Williams Auditorium on Sunday featuring Spies-Gans&#8217; commentary about her current work on the politics of artistic expression in 18th and 19th century European art. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/paris-spies-gans-uncovers-overlooked-contributions-of-women-artists-in-history/>
+
+---
+
+## UCLA baseball takes on the University of San Diego
+
+date: 2025-05-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA baseball played against the University of San Diego on April 5, 2025. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/ucla-baseball-takes-on-the-university-of-san-diego/>
+
+---
+
+## UCLA Students observe the Muslim sacred month of Ramadan
+
+date: 2025-05-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students observe the Muslim sacred month of Ramadan and attend a breaking of the fast. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/05/ucla-students-observe-the-muslim-sacred-month-of-ramadan/>
 
 ---
 

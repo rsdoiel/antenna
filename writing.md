@@ -1,11 +1,41 @@
 ---
 title: writing
-updated: 2025-05-05 14:09:43
+updated: 2025-05-06 06:10:23
 ---
 
 # writing
 
-(date: 2025-05-05 14:09:43)
+(date: 2025-05-06 06:10:23)
+
+---
+
+## Everett Wins Pulitzer Prize
+
+date: 2025-05-05, from: Locus Magazine
+
+<p> </p>
+<p><strong>James </strong>by Percival Everett (Knopf) won the 2025 Pulitzer Prize in the Fiction category.</p>
+<p><strong>Headshot</strong> by Rita Bullwinkel (Viking), <strong>Mice 1961</strong> by Stacey Levine (Verse Chorus), and <strong>The Unicorn Woman</strong> by Gayl Jones (Beacon) were finalists.</p>
+<p>The Pulitzer jury said of <strong>James</strong>: &#8220;An accomplished reconsideration of ‘Huckleberry Finn’ that gives agency to Jim to illustrate the absurdity of racial supremacy and provide a new take on the search for  <a href="https://locusmag.com/2025/05/everett-wins-pulitzer-prize/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/everett-wins-pulitzer-prize/>
+
+---
+
+## Carole Kirschner, Entertainment Career Coach, on staying motivated
+
+date: 2025-05-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/carole-kirschner-entertainment-career-coach-on-staying-motivated" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Carole%20Kirschner-2.png" alt="Headshot of Entertainment Career Coach Carole Kirschner" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>We’re in a time of change in the entertainment industry. It might feel slow and challenging right now, but things are opening up. Projects are being sold. Rooms are being filled. So what can writers do to grab onto that momentum?&nbsp;<br><br>Remember these three words, “Why not you?” It’s empowering advice from <a href="https://www.carolekirschner.com/">Carole Kirschner</a>, Director of the WGA Showrunner Training Program, creator of the Paramount Writers Mentoring Program and author of <span style="font-style: italic;">Hollywood Game Plan</span>, a strategy-filled guide to starting out in Hollywood. Carole is also an integral part of the <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Final Draft Big Break Screenwriting Contest</a>, and has been mentoring Big Break winners for years to help them create a personalized game plan for leveraging their contest win.&nbsp;<br><br>Having worked with writers from those just getting started to seasoned pros, Kirschner shared her tips for what works to keep motivated and encouraged as a creative.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/carole-kirschner-entertainment-career-coach-on-staying-motivated>
 
 ---
 

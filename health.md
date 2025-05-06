@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2025-05-05 14:09:47
+updated: 2025-05-06 06:10:27
 ---
 
 # health
 
-(date: 2025-05-05 14:09:47)
+(date: 2025-05-06 06:10:27)
+
+---
+
+## Characterization of Naegleria fowleri from two human cases: insights into its excretion/secretion products
+
+date: 2025-05-06, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionNaegleria fowleri is the etiologic agent of primary acute meningoencephalitis (PAM). Although this amoeba is commonly found in water and soil, reports of infections are rare; problems with diagnosis probably contribute to underestimation. Moreover, information regarding the pathogenicity of this species is still lacking. Costa Rica reported the first three cases of PAM during 2020; from these, two N. fowleri isolates were recovered. The aim of this study was to characterize and compare these isolates, focusing in excretion/secretion products.MethodsAnalyses of protein profiles by silver staining and protease activity assays were performed to characterize whole protein extracts and conditioned media from isolates. Proteomic analyses of excretion/secretion products, including extracellular vesicles (EVs), were performed, and cytopathic effect and drug susceptibility tests were also compared between isolates.ResultsResults obtained were similar for both isolates. Patterns of multiple bands were observed in each isolate after silver staining. Proteomics analyses revealed a total of 88 and 62 non-redundant proteins as part of the cargo of EVs secreted by trophozoites of N. fowleri Guanacaste and N. fowleri Limón, while conditioned media results revealed 34 and 17 non-redundant proteins, respectively;  hydrolase activity and actin filament binding were part of the most represented gene ontology terms in EVs and conditioned media. Regarding drug susceptibility assays, no statistically significant differences were identified. On the other hand, although protease activity resulted very similar with substrate buffer at pH 8.5, only N. fowleri Limón showed activity between 40 and 70 kDa at pH 5.0; in contrast, a more rapid cytopathic effect was observed when incubating Vero cells with N. fowleri Guanacaste.DiscussionComparative analyses of different N. fowleri isolates, supported by their remarkable genomic heterogeneity that could be reflected in different metabolic repertoires, are key to understanding virulence and pathogenicity of this amoeba, and could help to explain whether different isolates differ in the severity or course of PAM. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1585448>
+
+---
+
+## Impaired K48-polyubiquitination downmodulates mouse norovirus propagation
+
+date: 2025-05-06, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionNoroviruses are small non-enveloped, single stranded positive-sense RNA viruses that belong to the family Caliciviridae. They are highly contagious and resistant to multiple detergents and are the infectious agents in the majority of viral gastroenteritis in adults. Due to a lack of approved preventive or curative therapy options, intensive research effort is ongoing to better understand the pathogenesis mechanisms of noroviruses.MethodsIn this study, using the persistent murine norovirus S99 strain (MNoV_S99), we have investigated the role in the regulation of anti-noroviral responses of ubiquitination, a post-translational modification that covalently adds one or multiple ubiquitin molecules onto lysine residues of target proteins. To that end, we have first generated RAW264.7 cells overexpressing YFP-Ubiquitin_WT, _K29R, _K48R or_K63R constructs. All non-WT constructs encode a ubiquitin fusion protein with one lysine mutated into an arginine residue, thus preventing the formation of the K29-, K48- or K63-dependent polyubiquitin chains respectively.ResultsUpon infection of these cells with MNoV_S99, we unexpectedly observed that only cells expressing the YFP-Ubiquitin_K48R protein showed a significantly impaired expression of several viral markers: NS5, NS7, VP1 and the replication intermediate dsRNA. Consequently, the number of viral genome copies or viral titers were also significantly decreased in the YFP-Ubiquitin_K48R cells compared to the YFP-Ubiquitin_WT cells. This negative regulation cannot be explained by perturbed viral entry, but rather a constitutive hypersecretion of the pro-inflammatory cytokine TNF and downstream upregulation of IκBα phosphorylation and the subsequent NF-κB nuclear translocation.ConclusionOverall, these consequences combined impose a non-permissive environment for MNoV_S99 replication and propagation. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1530166>
+
+---
+
+## Machine learning-based text mining for cutaneous myiasis and potential value of an accidental maggot therapy for complicated skin and soft tissue infection with sepsis
+
+date: 2025-05-06, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundCutaneous myiasis, one of the most frequently diagnosed myiasis types, is defined as skin or soft tissue on a living host infested by dipterous larvae (maggots). However, bibliometric analysis of this disease remains sparse. Machine learning techniques and updated publications provide an opportunity for such an investigation.Materials and methodsAll the studies were retrieved from PubMed and were processed using R software in the bibliometric analysis and latent Dirichlet allocation (LDA) topic modeling. Furthermore, the clinical management of two diabetes patients with serious soft tissue infection-associated sepsis was analyzed.ResultsA total of 211 results were retrieved and 50 topics relevant to cutaneous myiasis were determined by the LDA algorithm. The topics of uncommon fly species, nasal infestation, and physician discussion of cutaneous myiasis were consistently common over the last 20 years. Case report remains one of the key features in myiasis. Four major clusters were identified, i.e., case report related, disease type and development, travel in the tropics, and skin disease. To further delve into clinical practice, the clinical features of two patients with soft tissue infection-related sepsis were demonstrated, and a distinct beneficial role of myiasis was found. The levels of white blood cell, blood glucose, and C-reactive protein in the case with cutaneous myiasis were more stable than the other case without cutaneous myiasis but with sepsis shock.ConclusionMaggot debridement therapy may be a promising treatment and beneficial for soft tissue infection-related sepsis. The model analysis of maggot therapy and its clinical advantages shows increasing research value and possible application in future clinical practice. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1568563>
+
+---
+
+## Hepatitis E virus infection and renal injury in non-immunocompromised host: clinical investigation and rabbit model study
+
+date: 2025-05-06, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundHepatitis E virus (HEV)-associated renal injury is mainly reported in immunocompromised patients. Here we investigated HEV-associated renal injury in non-immunocompromised acute hepatitis E (AHE) patients and rabbits.MethodsA total of 35 non-immunocompromised AHE patients were tested for kidney function parameters and HEV markers. HEV3- and HEV4-infected rabbits were tested for alanine aminotransferase, creatinine (Cr), and HEV markers. HEV-associated renal injury and renal HEV replication were analyzed by histopathology and RT-qPCR.ResultsThe non-immunocompromised AHE patients all showed normal serum Cr, blood urea nitrogen (BUN), and urine acid (UA). However, 25% of non-immunocompromised AHE patients showed proteinuria. In the rabbit model, HEV replication was observed in kidney tissues. The HEV-infected rabbits showed a transient elevated Cr level. Renal injury, including focal lymphocytic infiltration and tubular protein casts, was observed in rabbits across acute, recovery, and chronic phases of HEV infection.ConclusionsProteinuria is not uncommon in non-immunocompromised AHE patients, indicating that HEV infection affects the kidney. We further proved that HEV can cause renal injury in a rabbit model. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1583006>
+
+---
+
+## The relationship between gut microbiome and human diseases: mechanisms, predisposing factors and potential intervention
+
+date: 2025-05-06, from: Frontiers in Cellular and Infection Microbiology
+
+The complex interrelation of gut microbiota with human health underlines the profound influence this microbial ecosystem has on mechanisms of disease and wellness. The gut microbiome profoundly impacts various human diseases, encompassing gastrointestinal disorders, metabolic disorders, neurological disorders, and immune-related diseases. Gastrointestinal disorders are closely linked to microbial imbalances in the gut. Metabolic disorders, including obesity and type 2 diabetes, are influenced by the gut microbiota’s role in energy regulation and glucose metabolism. Furthermore, the gut-brain axis highlights the correlation between gut microbiota and neurological conditions such as Alzheimer’s and Parkinson’s. Moreover, the gut microbiome assumes a pivotal function in regulating the immune system, whereby dysbiosis is implicated in developing immunological-related ailments, including allergies and autoimmune disorders. Predisposing factors, including diet, medicines, lifestyle, and environmental influences, are described as having an important role in the composition of the gut microbiome. By understanding these factors, we can get valuable insights into how to intervene to reduce the chances of a disease. Current interventions, including probiotics, prebiotics, fecal microbiota transplants, and lifestyle modification, show promise, but there are still challenges and unanswered questions in this evolving field that may lead to improvements. This review interrelates the complicated gut microbiome with various human diseases, mechanisms, predisposing factors, and potential interventions. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1516010>
 
 ---
 

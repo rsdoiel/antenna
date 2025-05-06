@@ -1,11 +1,26 @@
 ---
 title: retro computing
-updated: 2025-05-05 14:09:46
+updated: 2025-05-06 06:10:27
 ---
 
 # retro computing
 
-(date: 2025-05-05 14:09:46)
+(date: 2025-05-06 06:10:27)
+
+---
+
+## Set sail for the RISC OS eXperience
+
+date: 2025-05-06, from: RiscOS Open
+
+<p>Why not pop along to the Big Ben Club&#8217;s annual day in the Netherlands?</p>
+<p>The show is on the 10th May 2025 from 10am to 4pm and is located in Koog aan de Zann. It&#8217;s <a href="https://www.bigbenclub.nl/rox/info/">easy to reach</a> being only a short distance north of Amsterdam by car, public transport, or even by bicycle.</p>
+<p><img src="/images/risc_os_open/shows/rox2025banner.png" title="Banner logo" alt="Banner logo" /></p>
+<p><span class="caps">RISC</span> OS Open will be travelling to the Netherlands, equivalent to 0.106% of the <a href="/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os">distance to the moon</a>, and expanding on 2022&#8217;s <a href="https://youtu.be/nbtVklhO_Pk?si=A21IEa2uB5dWaq7a&amp;t=1642">theatre topic</a> of the path to 64 bit.</p> 
+
+<br> 
+
+<https://www.riscosopen.org/news/articles/2025/05/06/set-sail-for-the-risc-os-experience>
 
 ---
 
@@ -397,7 +412,7 @@ Here I've simply mirrored the MacBook to my wife's Samsung secondary monitor. Th
 
 The Samsung doesn't support exactly the native resolution of the MacBook which is why it looks squashed, but you can see it correctly detected the model. How well does it perform? A good stress test is high-resolution video, which the manual warns you against because it would be choppy. We don't let manuals tell us what to do in this house. Manuals are suggestions. Manuals can sometimes be wrong. Let's play the <a href="http://www.macyourself.com/2008/11/13/grab-the-source-files-for-that-snazzy-leopard-welcome-video/">Snow Leopard welcome video</a> and prove it wrong. (The Snow Leopard welcome video has audio in a separate file, so this comparison movie has no sound.)
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzwbOGZ_Oj3NFCeR6gynLBfDEASpRnS7-QfOUU3FbdX71JnlEnrVGXPxkfx6kUe4EACfP522aPZOJmvpzB3ng' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwv7RDbK7021CzmLMxla5svtP72h0l4Imiy_4JIDUXOteq_pgtEy_xvRdC4upVf6G5cwHaQwHO-hfPhdYH_iQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 And, well, the manual wasn't wrong. There is a slight but noticeable lag and there are many dropped frames of video on the mirrored side; the best that could be said is it's watchable. Think "playing YouTube videos over Microsoft Teams screen share" and that would be about right.
 

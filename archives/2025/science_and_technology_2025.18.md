@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-05-05 14:09:41
+updated: 2025-05-06 06:10:22
 ---
 
 # science and technology
 
-(date: 2025-05-05 14:09:41)
+(date: 2025-05-06 06:10:22)
+
+---
+
+## 30 years of MySQL, the database that changed the world
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>From ubiquitous go-to system for early Noughties startups to a legacy like no other</h4> <p>Before Donald Trump became US president and the UK left the EU – both arguably the result of a new kind of online politics – a rather nervous-looking Mark Zuckerberg shuffled out onto a Harvard University lecture hall floor to offer some insight into the inner workings of a website he had created less than two years earlier.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/30_years_mysql/>
+
+---
+
+## Brain-inspired neuromorphic computer SpiNNaker overheated when coolers lost their chill
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Too much hot air brings down Manchester Uni based neural network project</h4> <p><strong>Exclusive</strong>  The brain-inspired SpiNNaker machine at Manchester University suffered an overheating incident over the Easter weekend that will send a chill down the spines of datacenter administrators.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/spinnaker_overheat/>
+
+---
+
+## Culture comes first in cybersecurity. That puts cybersecurity on the front line in the culture wars
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>&#39;Trust us, we&#39;re from Trumpland&#39; may not help Microsoft as much as it hopes</h4> <p><strong>Opinion</strong>  It is a nation&#39;s first duty to protect its citizens from harm. A fine maxim, and one we can all agree on, even in these disagreeable times. Sadly, that&#39;s as far as it goes. What the harm is and how to protect against it is where light turns to heat.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/opinion_column/>
+
+---
+
+## Nilufar Ramji: Shaping Johnson’s Giant Leaps Forward
+
+date: 2025-05-06, from: NASA breaking news
+
+A first-generation college graduate, Nilufar Ramji was blazing trails long before arriving at NASA. With her multifaceted expertise, she is helping shape the messaging behind humanity’s return to the Moon, Mars, and beyond.&#160; Ramji is currently on detail as the co-executive producer for NASA’s live broadcasts, ensuring the agency’s missions and discoveries are clearly and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nilufar-ramji-shaping-johnsons-giant-leaps-forward/>
+
+---
+
+## Commodore OS 3 is the loudest Linux yet
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>One distro has to be the most extra – and here it is</h4> <p>A Commodore-themed talking Linux desktop, complete with hundreds of games, makes for the biggest distro we&#39;ve seen yet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/commodore_os_3/>
+
+---
+
+## Infosec guru Schneier worries corp AI will manipulate us
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Can we turn to govt, academic models instead?</h4> <p><strong>RSAC</strong>  Corporate AI models are already skewed to serve their makers&#39; interests, and unless governments and academia step up to build transparent alternatives, the tech risks becoming just another tool for commercial manipulation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/schneier_ai_models/>
+
+---
+
+## Microsoft will let partners get creative with pay-when-you-want SaaS plans
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>A few million here, a few million there, pretty soon you&#39;re talking real money</h4> <p>Microsoft partners can now tailor private offers that allow buyers to vary the amount and timing of payments for some SaaS products and services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/microsoft_private_offers_saas_licenses/>
+
+---
+
+## Sols 4529-4531: Honeycombs and Waffles… on Mars!
+
+date: 2025-05-06, from: NASA breaking news
+
+Written by Catherine O’Connell-Cooper, Planetary Geologist at University of New Brunswick Earth planning date: Friday, May 2, 2025 From our Wednesday stopping spot, the drive direction ahead (looking along the path we would follow in the Wednesday drive) appeared to be full of rough, gnarly material, which can be tricky targets for contact science instruments […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4529-4531-honeycombs-and-waffles-on-mars/>
+
+---
+
+## Omnissa, VMware’s old end-user outfit, moves to manage servers and … Apple Watches?
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>And declares hypervisor independence after being tied to vSphere</h4> <p>Omnissa, the company that acquired VMware’s end-user compute portfolio, is moving beyond its traditional territory of managing endpoint devices and into server management.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/omnissa_server_management_hypervisor_independence/>
+
+---
+
+## China's Loongson gets OpenStack boost from Inspur on its MIPS-y silicon
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>State-backed chip slinger inches closer to cloud-scale relevance</h4> <p>Chinese chip designer Loongson claims more than 100 products now run on its homegrown LoongArch architecture, including an OpenStack-based cloud stack from domestic hyperscale heavyweight Inspur.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/loongson_inspur_cloudos/>
+
+---
+
+## CISA slammed for role in 'censorship industrial complex' as budget faces possible $500M cut
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Because who needs cybersecurity when there’s culture wars to win</h4> <p>President Trump&#39;s dream 2026 budget would gut the US govt&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, by $491 million - about 17 percent – and accuses the organization of abandoning its core mission in favor of policing online speech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/cisa_budget_cuts/>
+
+---
+
+## IT pros are caught between an AI rock and an economic hard place
+
+date: 2025-05-05, updated: 2025-05-05, from: The Register (UK I.T. News)
+
+<h4>Tech gigs slide, or so this analysis of US jobs data claims</h4> <p>The US jobs market grew faster than expected in April, but most IT pros aren’t among the beneficiaries.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/05/between_the_ai_rock_and/>
+
+---
+
+## Searching for Spherules to Sample
+
+date: 2025-05-05, from: NASA breaking news
+
+Written by Denise Buckner, Postdoctoral Fellow at NASA’s Goddard Space Flight Center  Over the past few weeks, Perseverance has been investigating some curious spherules peppered across the “Witch Hazel Hill” region along the rim of Jezero crater. A striking cluster of the small bubble-shaped stones were first spotted by the Mastcam-Z instrument on Sol 1442 […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/searching-for-spherules-to-sample/>
 
 ---
 
@@ -54,6 +210,18 @@ This week&#8217;s This Week in GNOME mentions that Blueprint will become part of
 <br> 
 
 <https://www.osnews.com/story/142280/gtk-markup-language-blueprint-becomes-part-of-gnome/>
+
+---
+
+## NASA Data Helps Map Tiny Plankton That Feed Giant Right Whales
+
+date: 2025-05-05, from: NASA breaking news
+
+In the waters off New England, one of Earth’s rarest mammals swims slowly, mouth agape. The North Atlantic right whale filters clouds of tiny reddish zooplankton — called Calanus finmarchicus — from the sea. These zooplankton, no bigger than grains of rice, are the whale’s lifeline. Only about 370 of these massive creatures remain. For […] 
+
+<br> 
+
+<https://science.nasa.gov/earth/nasa-data-helps-map-tiny-plankton-that-feed-giant-right-whales/>
 
 ---
 
@@ -167,9 +335,9 @@ date: 2025-05-05, updated: 2025-05-05, from: The Register (UK I.T. News)
 
 ## Microsoft tries to knife passwords once and for all - at least for consumers
 
-date: 2025-05-04, updated: 2025-05-04, from: The Register (UK I.T. News)
+date: 2025-05-04, updated: 2025-05-05, from: The Register (UK I.T. News)
 
-<h4>PLUS: AirPlay exploits; Six-year old backdoor opens; Raytheon settles federal charges; and more!</h4> <p><strong>Infosec In Brief</strong>  Microsoft has decided to push its consumer customers to dump password in favor of passkeys.…</p> 
+<h4>PLUS: AirPlay exploits; Six-year old backdoor opens; Raytheon settles federal charges; and more!</h4> <p><strong>Infosec In Brief</strong>  Microsoft has decided to push its consumer customers to dump passwords in favor of passkeys.…</p> 
 
 <br> 
 

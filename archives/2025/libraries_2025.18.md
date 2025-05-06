@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-05 14:09:45
+updated: 2025-05-06 06:10:25
 ---
 
 # libraries
 
-(date: 2025-05-05 14:09:45)
+(date: 2025-05-06 06:10:25)
+
+---
+
+## Is The Climate Change-Academia Relationship Changing Too Fast?
+
+date: 2025-05-06, from: Scholarly Kitchen
+
+<p>While our understanding of climate change is shaped by academia, the climate crisis also shapes academia’s research and teaching in numerous ways. In this article, I explore the current climate change-academia relationship and touch upon some envisaged changes.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/06/is-the-climate-change-academia-relationship-changing-too-fast/">Is The Climate Change-Academia Relationship Changing Too Fast?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/06/is-the-climate-change-academia-relationship-changing-too-fast/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-05-05 14:09:43
+updated: 2025-05-06 06:10:24
 ---
 
 # games
 
-(date: 2025-05-05 14:09:43)
+(date: 2025-05-06 06:10:24)
+
+---
+
+## John Wick’s director breaks down how he got to design action on Lazarus, ‘the funnest job’ he’s ever done
+
+date: 2025-05-06, updated: 2025-05-05, from: Polygon Website
+
+When two artists who admire each other’s work unexpectedly get to collaborate, it’s a wonderful thing. That’s exactly what happened when anime legend Shinichirō Watanabe and his team reached out to John Wick franchise director Chad Stahelski and his team. Watanabe was hoping someone at Stahelski’s boutique Hollywood action studio 87eleven would be able to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/552380/chad-stahelski-lazarus-how-watanabe-collaboration-anime>
+
+---
+
+## Ecco the Dolphin is getting two remasters and one new title from its original creators
+
+date: 2025-05-05, updated: 2025-05-05, from: Polygon Website
+
+I will take good news where I can get it and today that good news comes from Ecco the Dolphin creator Ed Annunziata. In an interview with Xbox Wire, Annunziata said remasters of the original Ecco game and its sequel are coming — plus something new. He pointed folks to the Ecco the Dolphin website, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/597773/ecco-the-dolphin-remaster-tides-of-time-remaster-new-ecco-game>
 
 ---
 
