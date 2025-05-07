@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-05-06 14:11:08
+updated: 2025-05-07 06:09:28
 ---
 
 # motorcycles
 
-(date: 2025-05-06 14:11:08)
+(date: 2025-05-07 06:09:28)
+
+---
+
+## KTM May Transfer MotoGP Team To Itself, But Series Has Serious Offers For Its Spot
+
+date: 2025-05-07, from: Ride Apart, Electric Motorcycle News
+
+As the team is likely leaving in 2026, its grid spots are rumored up for sale. 
+
+<br> 
+
+<https://www.rideapart.com/news/758746/ktm-dorna-motogp-grand-prix-slots-for-sale-rumor/>
+
+---
+
+## The French Navy Just Built An Unmanned Kamikaze PWC, Because Of Course They Did
+
+date: 2025-05-07, from: Ride Apart, Electric Motorcycle News
+
+Leave it to humans to turn something designed for fun and recreation into a weapon of mass destruction. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758657/french-navy-unmanned-kamikaze-pwc-testing/>
+
+---
+
+## Ducati’s Milking Its New V2 Engine, Will Likely Stuff It Into Monster and DesertX
+
+date: 2025-05-07, from: Ride Apart, Electric Motorcycle News
+
+Because if you’ve got a good engine, you’d better get the most out of it. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758659/ducati-v2-engine-monster-desertx-coming-soon/>
+
+---
+
+## Two Motorcycle Riders Die in Devastating 11-Bike Race Crash
+
+date: 2025-05-07, from: Ride Apart, Electric Motorcycle News
+
+The 11-bike chain reaction crash left more riders seriously injured. 
+
+<br> 
+
+<https://www.rideapart.com/news/758652/two-riders-die-british-supersport-championship-crash/>
 
 ---
 

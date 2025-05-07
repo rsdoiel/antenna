@@ -1,11 +1,183 @@
 ---
 title: columns
-updated: 2025-05-06 14:11:04
+updated: 2025-05-07 06:09:24
 ---
 
 # columns
 
-(date: 2025-05-06 14:11:04)
+(date: 2025-05-07 06:09:24)
+
+---
+
+## Chinese AI Submersible
+
+date: 2025-05-07, updated: 2025-05-05, from: Bruce Schneier blog
+
+<p>A Chinese company has <a href="https://www.scmp.com/news/china/politics/article/3308410/china-launches-blue-whale-worlds-first-high-speed-typhoon-proof-uncrewed-submersible">developed</a> an AI-piloted submersible that can reach speeds &#8220;similar to a destroyer or a US Navy torpedo,&#8221; dive &#8220;up to 60 metres underwater,&#8221; and &#8220;remain static for more than a month, like the stealth capabilities of a nuclear submarine.&#8221; In case you&#8217;re worried about the military applications of this, you can relax because the company says that the submersible is &#8220;designated for civilian use&#8221; and can &#8220;launch research rockets.&#8221;</p>
+<p>&#8220;Research rockets.&#8221; Sure.</p>
+... 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/chinese-ai-submersible.html>
+
+---
+
+## Linux kernel to drop 486 and early 586 support
+
+date: 2025-05-07, updated: 2025-05-07, from: Liam Proven's articles at the Register
+
+<h4>Get in the bin: For the first time since 2012, some older CPU generations are being chopped</h4>
+      <p>Kernel 6.15 is taking shape and it looks like it will eliminate support for Intel&#39;s 486 chip and its contemporaries.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/07/linux_kernel_drops_486/>
+
+---
+
+## Office Hours: Musk’s most dangerous power grab
+
+date: 2025-05-07, from: Robert Reich's blog
+
+The richest man in the world keeps moving toward authoritarianism. The dangers he poses to democracy are growing, and he must be restrained. 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-musks-most-dangerous>
+
+---
+
+## Satellites, Fixed Wireless Reshape Global Broadband Landscape”
+
+date: 2025-05-07, from: Om Malik blog
+
+A new report by research firm Point Topic says there were more than 1.5 billion global broadband subscribers at the end of the fourth quarter of 2024. The real story, however, is the astonishing rise of two technologies gaining traction for connectivity: satellite broadband and fixed wireless. I say “astonishing” because in three decades of &#8230; 
+
+<br> 
+
+<https://om.co/2025/05/07/satellites-fixed-wireless-reshape-global-broadband-landscape/>
+
+---
+
+## Re-watched V for Vendetta
+
+date: 2025-05-07, from: Tracy Durnell Blog
+
+Somehow I forgot the Wachowskis wrote this script. Great adaptation of the comic IMO, paying homage to quintessential scenes while shaving away the indulgences and dated elements. There are several quotes and moments from this I still reference&#8230; &#8220;for three years I had roses and apologized to no one&#8221; for some reason lives rent-free in [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/06/re-watched-v-for-vendetta/>
+
+---
+
+## May 6, 2025
+
+date: 2025-05-07, from: Heather Cox Richardson blog
+
+In a follow-up story to last night&#8217;s information about the Trump family&#8217;s cryptocurrency corruption, MacKenzie Sigalos of CNBC reported today that 58 crypto wallets have made more than $10 million each on Trump&#8217;s meme coin, gathering a total of $1.1 billion in profits. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-6-2025>
+
+---
+
+## Week Links №2: April 2025
+
+date: 2025-05-07, from: Dave Rupert blog
+
+<p>Last year <a href="https://daverupert.com/2024/02/week-links-1/">I attempted to do some newsletter-style link aggregation</a>… that good intention imploded spectacularly. But I switched to Obsidian this month and now I have a better system for aggregating links (post on that coming later). Inside this issue you’ll find some games, some homelab server hardware, some AI discourse™, some musical instruments, and more.</p>
+<hr />
+<ul>
+<li><a href="https://368chickens.com/">368 Chickens</a>: So many chickens</li>
+<li><a href="https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php">AI Search Has A Citation Problem</a>: Eight AI search engines, all bad at citing news.</li>
+<li><a href="https://susanahgrace.itch.io/chvlr">CHVLR</a>: Gundam inspired solo RPG</li>
+<li><a href="https://computeblade.com/">Compute Blade</a>: Rack-mountable, PoE-powered carrier board for Raspberry Pi</li>
+<li><a href="https://www.degrowus.org/degrow-your-community">Degrow Your Community</a>: A list of actions you can do to encourage degrowth</li>
+<li><a href="https://newsletter.squishy.computer/p/dont-fork-the-ecosystem?triedRedirect=true">Don’t fork the ecosystem</a>: It’s hard to get people to change patterns with software, bolt-ons are almost always preferred</li>
+<li><a href="https://danielben.itch.io/dragonsweeper">Dragonsweeper</a>: A dungeon crawling minesweeper adventure</li>
+<li><a href="https://fizzx.netlify.app/">fizzx.js</a>: A tiny physics based animation lib from Adam Argyle</li>
+<li><a href="https://www.godsvg.com/">GodSVG</a>: A free, open-source, low-level vector graphics editor based on the Godot game engine</li>
+<li><a href="https://hichord.shop/">HiChord Synth</a>: Neat D-pad + five key pocket synth.</li>
+<li><a href="https://claytonwramsey.com/blog/prompt/">I’d rather read the prompt</a>: A lament from an instructor.</li>
+<li><a href="https://linear-easing-generator.netlify.app/">linear() easing generator</a>: Generate linear() easings from JavaScript and SVG</li>
+<li><a href="https://leanrada.com/notes/css-only-lqip/">Minimal CSS-only blurry image placeholders</a>: Blurry images with a nanoid.</li>
+<li><a href="https://www.bloodinthemachine.com/p/openais-studio-ghibli-meme-factory">OpenAI’s Studio Ghibli meme factory is an insult to art itself</a>: Appropriating the work of one of the greatest living animators—who is “disgusted” by AI to sell your new image generation model.</li>
+<li><a href="https://telepathicinstruments.com/">Orchid</a>: A micro-piano with a single octave of keys, pads to select chords, arpeggiators, and a looper. Beautiful website too.</li>
+<li><a href="https://futurism.com/altman-please-thanks-chatgpt">Sam Altman Admits That Saying “Please” and “Thank You” to ChatGPT Is Wasting Millions of Dollars in Computing Power</a>: Tens of millions of dollars processing chatbot queries made with proper etiquette.</li>
+<li><a href="https://www.smallweb.run/">Smallweb</a>: A self-hostable personal cloud inspired by serverless platforms and cgi-bin.</li>
+<li><a href="https://objetdiscret.itch.io/tai-fab-museum">Taiyaki Fabulous Museum of Fish</a>: A Pokémon but with Picross Exploration Adventure</li>
+<li><a href="https://mikeindustries.com/blog/archive/2025/03/the-future-favors-the-curious">The Future Favors the Curious</a>: As the design industry shifts, it’s easy to feel behind.</li>
+<li><a href="https://www.niemanlab.org/2025/04/the-unreality-of-reality-tv-how-competition-shows-influence-u-s-politics-and-shape-views-about-economic-inequality/">The unreality of reality TV: How competition shows influence U.S. politics and shape views about economic inequality</a>: People who watch reality TV are more likely to believe in the American rags to riches mythos.</li>
+<li><a href="https://www.reddit.com/r/iems/comments/1hd2hd1/top_5_iems_in_every_price_range_chosen_by_you/">Top 5 IEMs in every price range</a>: A list of in-ear-monitors broken down by price range</li>
+<li><a href="https://huggingface.co/docs/transformers.js/en/index">Transformers.js</a>: Run Transformers (NLP, Vision Classifiers, Audio) directly in your browser, with no need for a server!</li>
+<li><a href="https://ryelle.codes/2025/04/typography-troubles-balancing-in-japanese-korean/">Typography troubles Balancing lines in Japanese &amp; Korean</a>: Text wrapping works differently across languages. Here’s a look at how text-wrap: balance affects Japanese and Korean text—and what to do about it.</li>
+<li><a href="https://www.zimaspace.com/products/single-board2-server?utm_source=head&amp;utm_medium=menu">ZimaBoard 2</a>: A hackable single board server</li>
+</ul> 
+
+<br> 
+
+<https://daverupert.com/2025/05/week-links-2/>
+
+---
+
+## Amazon, Finally, Now Has a ‘Get Book’ Button in Its iOS Kindle App
+
+date: 2025-05-07, updated: 2025-05-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books>
+
+---
+
+## Florida Republican Congresswoman Kat Cammack Introduces ‘App Store Freedom Act’ to Mandate Third-Party App Stores on iOS and Android
+
+date: 2025-05-06, updated: 2025-05-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/662180/app-store-freedom-act-apple-third-party-app-stores>
+
+---
+
+## Wednesday 7 May, 2025
+
+date: 2025-05-06, from: John Naughton's online diary
+
+Legal niceties This is (or was when I photographed it in January 2011) the brass plate of an august Dutch law firm in The Hague. It brought to mind Private Eye’s cod London law firm, Messrs Sue, Grabbit &#38; Run, &#8230; <a href="https://memex.naughtons.org/wednesday-7-may-2025/40774/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-7-may-2025/40774/>
+
+---
+
+##  Altair at 50: Remembering the First Personal Computer. &#8220;The Altair didn’t survive... 
+
+date: 2025-05-06, updated: 2025-05-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046790-altair-at-50-remembering->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-06, from: Dave Winer's Scripting News)
+
+When I did the <a href="http://scripting.com/2025/04/27/130611.html">rewrite</a> of the nightly mail app, I didn't convert the app that builds the <a href="http://scripting.com/rssNightly.xml">nightly RSS feed</a> of the mail page. Wasn't sure if anyone was using it. I heard from a reader who missed it, so I got it running, knock wood, Murphy-willing. 
+
+<br> 
+
+<http://scripting.com/2025/05/06.html#a212333>
 
 ---
 

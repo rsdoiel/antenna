@@ -1,11 +1,73 @@
 ---
 title: journalism
-updated: 2025-05-06 14:11:06
+updated: 2025-05-07 06:09:26
 ---
 
 # journalism
 
-(date: 2025-05-06 14:11:06)
+(date: 2025-05-07 06:09:26)
+
+---
+
+## 22-year-old UCLA alumnus Zuriel Oduwole nominated for Nobel Peace Prize
+
+date: 2025-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Zuriel Oduwole never imagined her work would lead to a Nobel Peace Prize nomination.
+The 22-year-old filmmaker and 2022 cognitive science alumnus is also a social development advocate and presidential advisor who has traveled the world to converse with 36 world leaders about social development issues. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/06/22-year-old-ucla-alumnus-zuriel-oduwole-nominated-for-nobel-peace-prize/>
+
+---
+
+## Students, community members sue CHP, LAPD over alleged force in encampment sweep
+
+date: 2025-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and community members filed a lawsuit against California Highway Patrol and Los Angeles Police  on Thursday for their alleged use of excessive force against protesters during the police sweep of the first Palestine solidarity encampment last May. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/06/students-community-members-sue-chp-lapd-over-alleged-force-in-encampment-sweep/>
+
+---
+
+## Crimewatch: April 2025
+
+date: 2025-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD recorded 644 unique entries in its April daily crime log.
+University police received 160 crime reports from April 1 to 30 that resulted in active police cases. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/06/crimewatch-april-2025/>
+
+---
+
+## A powerful performance: Matilda the Musical takes the stage
+
+date: 2025-05-07, from: The Sundail (CSUN Student Newspaper)
+
+“Matilda the Musical” wrapped its final performance with multiple sold-out shows and buzzworthy momentum from positive reviews. Directed by Garry Lennon, the production was based on Roald Dahl’s novel “Matilda.”... 
+
+<br> 
+
+<https://sundial.csun.edu/193482/arts-entertainment/a-powerful-performance-matilda-the-musical-takes-the-stage/>
+
+---
+
+## Residents express concern and anger at Brad Sherman’s town hall
+
+date: 2025-05-07, from: The Sundail (CSUN Student Newspaper)
+
+Hundreds of Angelenos attended Rep. Brad Sherman’s town hall on April 26 on the CSUN campus. The two-hour event featured a speech from the congressman, live audience polling and a... 
+
+<br> 
+
+<https://sundial.csun.edu/193470/news/residents-express-concern-and-anger-at-brad-shermans-town-hall/>
 
 ---
 
@@ -25,7 +87,7 @@ Presented at the UCLA School of Law and Dickson Plaza South, the Just Culture x 
 
 date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 6 at 1:58 p.m.</em>
+This post was updated May 6 at 10:49 p.m.
 Sgt. 1st Class Kate Cole, a senior military science instructor at UCLA Army ROTC, is among 32 plaintiffs suing President Donald Trump&#8217;s administration for its ban on transgender people serving in the military. 
 
 <br> 
@@ -38,8 +100,9 @@ Sgt. 1st Class Kate Cole, a senior military science instructor at UCLA Army ROTC
 
 date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-Children participated in a journaling workshop promoting mental health hosted at the Hammer Museum on Sunday. 
-At the event presented with 826LA, a nonprofit that aims to teach children ages six to 18 creative writing skills, students played a game to learn coping strategies, drew their dream gardens and wrote about their safe and happy places through guided prompts. 
+This post was updated May 6 at 9:14 p.m.
+Children participated in a journaling workshop promoting mental health hosted at the Hammer Museum on Sunday.
+At the event presented by 826LA, a nonprofit that aims to teach children ages six to 18 creative writing skills, students played a game to learn coping strategies, drew their dream gardens and wrote about their safe and happy places through guided prompts. 
 
 <br> 
 
@@ -63,8 +126,9 @@ date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-05-06, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 6 at 9:21 p.m.</em>
 Paris Spies-Gans is rewriting the history of artistic representation.
-The Getty Center hosted a free lecture at the Harold M. Williams Auditorium on Sunday featuring Spies-Gans&#8217; commentary about her current work on the politics of artistic expression in 18th and 19th century European art. 
+The Getty Center hosted a free lecture at the Harold M. 
 
 <br> 
 
@@ -112,6 +176,7 @@ date: 2025-05-05, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-05-05, from: The Daily Bruin (UCLA Student Newspaper)
 
+This post was updated May 6 at 9:30 p.m.
 Editor&#8217;s note: This article contains mentions of suicidal ideation.
 Warning: spoilers ahead.
 With its latest outing, Marvel brings a new spark into the fading Marvel Cinematic Universe. 

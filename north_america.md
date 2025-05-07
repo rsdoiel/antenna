@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-05-06 14:11:00
+updated: 2025-05-07 06:09:21
 ---
 
 # north america
 
-(date: 2025-05-06 14:11:00)
+(date: 2025-05-07 06:09:21)
+
+---
+
+## Even Trump-appointed judges are resisting authoritarian ploys
+
+date: 2025-05-07, from: The Contrarian
+
+Judges have refused to buckle under or bow down 
+
+<br> 
+
+<https://contrarian.substack.com/p/even-trump-appointed-judges-are-resisting>
+
+---
+
+## Evening Roundup, May 6 
+
+date: 2025-05-06, from: The Contrarian
+
+Featuring Justin Wolfers with Jen Rubin; Jennifer Schulze; Marvin Kalb; Indivisible's Ezra Levin with Jen; Jeff Nesbit; and Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-6>
+
+---
+
+##  They Inflated Your Gas Prices — Now Trump Wants To Let Them Off The Hook 
+
+date: 2025-05-06, from: The Lever News
+
+ Awash in industry donations, Trump is poised to exonerate fossil fuel executives accused of colluding to increase oil prices.  
+
+<br> 
+
+<https://www.levernews.com/they-inflated-your-gas-prices-now-trump-wants-to-let-them-off-the-hook/>
 
 ---
 

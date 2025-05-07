@@ -1,11 +1,125 @@
 ---
 title: socal north
-updated: 2025-05-06 14:11:01
+updated: 2025-05-07 06:09:21
 ---
 
 # socal north
 
-(date: 2025-05-06 14:11:01)
+(date: 2025-05-07 06:09:21)
+
+---
+
+## Conclave starts today. Why this moment matters for Southern California’s Filipino Catholics
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+Los Angeles is home to more than half a million Filipinos, and some have their eye on one cardinal contender. 
+
+<br> 
+
+<https://laist.com/news/conclave-starts-today-why-this-moment-matters-for-southern-californias-filipino-catholics>
+
+---
+
+## A shush-free space at LA library’s new sensory room
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+The Harbor City-Harbor Gateway branch of the Los Angeles Public Library opened a new space designed with neurodiverse families in mind. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-library-sensory-room-resources-neurodiverse-families>
+
+---
+
+## Price gouging exploded after LA fires. Community rent hike investigators ask: Where are the charges?
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+More than 1,300 Zillow listings appeared to illegally raise rents in the early days after the fires. Four months later, few criminal cases have been filed. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-fires-price-gouging-rent-brigade-imperfect-paradise-podcast>
+
+---
+
+## As toxic algae harms more marine life, LA County looks to develop a long-term plan
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+Supervisors pass a motion to address the worsening crisis of toxic ocean algae blooms. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/toxic-algae-la-county-marine-life-long-term-plan>
+
+---
+
+## President of LA's firefighter union suspended over financial audit findings
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+United Firefighters of Los Angeles City President Freddy Escobar, a prominent figure in the city's union politics, has been suspended, according to the Associated Press. 
+
+<br> 
+
+<https://laist.com/news/politics/fire-union-suspensions-escobar-uflac-conservatorship>
+
+---
+
+## Whistleblowers say LA’s top homeless official hired unqualified friends, tried to destroy public records
+
+date: 2025-05-06, updated: 2025-05-07, from: The LAist
+
+LAHSA officials had refused to disclose the documents, but reversed themselves after weeks of questions by LAist and criticism from attorneys who said the agency was violating public records laws. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/whistleblowers-homeless-official-misconduct>
+
+---
+
+## LAist cuts staff by 5%, citing ongoing budget strain and federal funding loss
+
+date: 2025-05-06, updated: 2025-05-06, from: The LAist
+
+It’s the third round of staff reductions in three years at Los Angeles’s largest NPR member station and amounts to a 5% staff reduction. 
+
+<br> 
+
+<https://laist.com/news/laist-cuts-staff-by-5-percent>
+
+---
+
+## Authorities hope DNA testing will help identify human bones found on beach
+
+date: 2025-05-06, from: Longbeach Post
+
+<figure><img width="1024" height="640" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-300x188.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-768x480.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1200x750.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-400x250.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd.jpg 1467w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The bones belong to a person who appeared to be over 40 years old, but other than that, there’s little firm info, according to investigators.</p>
+<p>The post <a href="https://lbpost.com/news/bones-beach-id-dna-junipero-police-update">Authorities hope DNA testing will help identify human bones found on beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/bones-beach-id-dna-junipero-police-update>
+
+---
+
+## Police arrest 15-year-old suspect in deadly shooting outside Long Beach Grand Prix
+
+date: 2025-05-06, from: Longbeach Post
+
+<figure><img width="1024" height="665" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-300x195.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-768x498.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-166x108.jpeg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1536x997.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1200x779.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1568x1018.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-400x260.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318.jpeg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the Long Beach teenager was taken into custody on suspicion of murder.</p>
+<p>The post <a href="https://lbpost.com/news/grand-prix-shooting-arrest-15-year-old-long-beach">Police arrest 15-year-old suspect in deadly shooting outside Long Beach Grand Prix</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/grand-prix-shooting-arrest-15-year-old-long-beach>
 
 ---
 
@@ -25,7 +139,7 @@ The Posse Comitatus Act restricts using federal troops in civilian law enforceme
 
 date: 2025-05-06, from: Longbeach Post
 
-<figure><img width="656" height="439" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg.png 656w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg-300x201.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg-161x108.png 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg-400x268.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="656" height="439" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg.png 656w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg-300x201.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg-161x108.png 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06130417/screenshot-2025-05-06-at-125925pm-527805-0kearf2j-872213-WVHjjupg-400x268.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The sheriff’s department said the suspected killer frequents the Compton and Long Beach areas, and he should be considered armed and dangerous.</p>
 <p>The post <a href="https://lbpost.com/news/la-county-offers-reward-for-information-in-drive-by-killing-of-mother-and-daughter">LA County offers reward for information in drive-by killing of mother and daughter</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -40,7 +154,7 @@ date: 2025-05-06, from: Longbeach Post
 
 date: 2025-05-06, from: Longbeach Post
 
-<figure><img width="771" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt.png 771w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-300x197.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-768x504.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-165x108.png 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-400x263.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="771" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt.png 771w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-300x197.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-768x504.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-165x108.png 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06121651/rite-aide-closing-147315-d0ieeseo-523651-VZtuzdFt-400x263.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Rite Aid at Anaheim Street and Redondo Avenue will close June 2, and the chain's other stores will eventually be sold or shut down.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-rite-aid-closing-bankruptcy-again">Long Beach Rite Aid closing as company starts bankruptcy process again</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -67,7 +181,7 @@ Kaiser therapists, psychologists and social workers have been picketing in Calif
 
 date: 2025-05-06, updated: 2025-05-06, from: The LAist
 
-As more than a billion Catholics around the world await the election of a new pope, all eyes will be on the Sistine Chapel, where 133 cardinals will begin the secretive process known as a conclave. 
+As more than a billion Catholics around the world await the election of a new pope, all eyes are on the Sistine Chapel, where 133 cardinals will begin the secretive process known as a conclave. 
 
 <br> 
 

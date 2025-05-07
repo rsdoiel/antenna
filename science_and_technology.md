@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-05-06 14:11:03
+updated: 2025-05-07 06:09:23
 ---
 
 # science and technology
 
-(date: 2025-05-06 14:11:03)
+(date: 2025-05-07 06:09:23)
+
+---
+
+## Microsoft updates the Windows 11 Start Menu
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Plus it is solving the &#39;I can&#39;t find the settings&#39; problem with AI. That&#39;s what you wanted, right?</h4> <p>Microsoft has confirmed what some Windows Insiders are already noticing – the Windows 11 Start Menu is getting a revamp and a panel for Phone Link.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/microsoft_updates_the_windows_11/>
+
+---
+
+## NASA jettisons Neo4j database for Memgraph citing costs
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not rocket science, it&#39;s budgeting</h4> <p>NASA&#39;s people analytics group has swapped its Neo4j graph database for Memgraph due to costs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/nasa_people_memgraph/>
+
+---
+
+## Curl project founder snaps over deluge of time-sucking AI slop bug reports
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Lead dev likens flood to &#39;effectively being DDoSed&#39;</h4> <p>Curl project founder Daniel Stenberg is fed up with of the deluge of AI-generated &#34;slop&#34; bug reports and recently introduced a checkbox to screen low-effort submissions that are draining maintainers&#39; time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/curl_ai_bug_reports/>
+
+---
+
+## Microsoft moved the goalposts once. Will Windows 12 bring another shift?
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Windows 11&#39;s hardware requirements: Sales ploy or security play?</h4> <p><strong>Comment</strong>  Retired Microsoft engineer Dave Plummer has weighed in on the increasingly heated discussion regarding the impending end of Windows 10. Are Windows 11&#39;s hardware requirements all about security or just a sales ploy in disguise?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/microsoft_hardware_gates/>
+
+---
+
+## Linux kernel to drop 486 and early 586 support
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Get in the bin: For the first time since 2012, some older CPU generations are being chopped</h4> <p>Kernel 6.15 is taking shape and it looks like it will eliminate support for Intel&#39;s 486 chip and its contemporaries.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/linux_kernel_drops_486/>
+
+---
+
+## TDE’s Qt 3 fork drops the 3
+
+date: 2025-05-07, from: OS News
+
+The Trinity Desktop Environment, the continuation of the final KDE 3.x release updated and maintained for modern times, consists of more than just the KDE bits you may think of. The project also maintains a fork of Qt 3 called TQt3, which it obviously needs to be able to work on and improve TDE itself, which is based on it. In the beginning, this fork consisted mainly of renaming things, but in recent years, more substantial changes meant that the code diverged considerably from the original Qt 3. As such, a small name change is in order. TQt3 was born as a fork of Qt3 and for many years it was little more than a mere renaming effort. Over the past few years, many changes were made and the code has significantly diverged from the original Qt3, although still sharing the same roots. With more changes planned ahead and with the intention of better highlighting such difference, the TDE team has decided to drop the &#8216;3&#8217; from the repository name, which is now simply called &#8216;TQt&#8216;. ↫ TDE on Mastodon The effect this has on users is rather minimal &#8211; users of the current 14.1.x release branch will still see 3s around in file paths and package names, but in future 14.2.x releases, all of these will have been removed, completing the transition. This seems like a small change, and that&#8217;s because it is, but it&#8217;s interesting simply because it highlights that a project that seems relatively straightforward on the outside &#8211; maintain and carefully modernise the final KDE 3.x release &#8211; encompasses a lot more than that. Maintaining an entire Qt 3 fork certainly isn&#8217;t a small feat, but it&#8217;s kind of required to keep a project like TDE going. 
+
+<br> 
+
+<https://www.osnews.com/story/142297/tdes-qt-3-fork-drops-the-3/>
+
+---
+
+## Top sci-fi convention gets an earful from authors after using AI to screen panelists
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Leave it to the Borg? Scribe David D. Levine slams &#39;use of planet-destroying plagiarism machines&#39;</h4> <p>Fans and writers of science fiction are not necessarily enthusiastic about artificial intelligence - especially when it&#39;s used to vet panelists for a major sci-fi conference.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/worldcon_uses_ai/>
+
+---
+
+## Citrix finds new use for virtualization: Avoiding PC price hikes caused by tariffs
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Seeing as the company’s CEO is big at DOGE, this is delicious</h4> <p><strong>World War Fee</strong>  Citrix has found a new use for virtualization: Avoiding tariffs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/citrix_virtualisation_avoids_tariffs/>
+
+---
+
+## New Zealand kind-of moves to ban social media for under-16s, require age checks for new accounts
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Prime Minister bemoans bullying, addiction, and inappropriate content – but isn’t planning a rapid vote</h4> <p>New Zealand’s government has signaled its support for a bill to ban social media for children under 16, but without explicitly making it a government initiative.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/new_zealand_kids_social_ban/>
+
+---
+
+## Trump's trade war with China to cost AMD $1.5B in lost rev
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>But a multi-billion dollar contract with Oracle for a pile of Instincts and Epycs should take the edge off</h4> <p>AMD expects the Trump administration&#39;s newly implemented export controls on GPUs and AI accelerator sales to China to take a $1.5 billion byte out its 2025 revenues, executives revealed on a Tuesday earnings call with Wall Street.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/us_export_controls_on_instinct/>
+
+---
+
+## Trump's wind farm funding freeze is so much hot air, say states as they blow sueball to Washington
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>We&#39;d be shocked, just shocked, if Big Tech&#39;s renewable energy ambitions aren&#39;t known in the White House</h4> <p>The Attorneys General of 17 states and Washington, DC have sued the Trump administration over an executive order halting all federal approvals for wind energy projects.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/ags_sue_trump_wind_energy_freeze/>
+
+---
+
+## Super spyware maker NSO must pay Meta $168M in WhatsApp court battle
+
+date: 2025-05-06, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t f&amp;#k with Zuck</h4> <p>A California jury has awarded Meta more than $167 million in damages from Israeli surveillanceware slinger NSO Group, after the latter exploited a flaw in WhatsApp to allow its government customers to spy on supposedly secure communications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/nso_group_meta_verdict/>
+
+---
+
+## VectorVFS: your filesystem as a vector database
+
+date: 2025-05-06, from: OS News
+
+VectorVFS is a lightweight Python package that transforms your Linux filesystem into a vector database by leveraging the native VFS (Virtual File System) extended attributes. Rather than maintaining a separate index or external database, VectorVFS stores vector embeddings directly alongside each file—turning your existing directory structure into an efficient and semantically searchable embedding store. VectorVFS supports Meta’s Perception Encoders (PE)  which includes image/video encoders for vision language understanding, it outperforms InternVL3, Qwen2.5VL and SigLIP2 for zero-shot image tasks. We support both CPU and GPU but if you have a large collection of images it might take a while in the first time to embed all items if you are not using a GPU. ↫ Christian S. Perone It won&#8217;t surprise many of you that this goes a bit above my paygrade, but according to my limited understanding, VectorVFS stores information about files inside the xattr part of inodes. The information being stored is converted into vectors first, and this is the part that breaks my brain a bit, because vectors in this context are far too complex for me to understand. I vaguely understand the end result here &#8211; making files searchable using vector magic without using a dedicated database or separate files by using extended attributes in inodes &#8211; but the process is far more complicated to understand. It still seems like a very interesting approach, though, and I&#8217;d love for people smarter than me to take VectorVFS apart and explain it in easier terms for those of us who don&#8217;t fully grasp it. 
+
+<br> 
+
+<https://www.osnews.com/story/142293/vectorvfs-your-filesystem-as-a-vector-database/>
+
+---
+
+## Developer sues Apple to claw back commission payments
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Just days after judge held Cupertino in contempt over Epic antitrust injunction</h4> <p>A developer of mobile sports apps has filed a proposed class-action lawsuit against Apple, seeking to recover commissions iBiz allegedly collected in violation of a federal injunction intended to allow developers to use alternative payment systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/developer_sues_apple_commission_payment/>
+
+---
+
+## Feeling dumb? Let Google's latest AI invention simplify that wordy writing for you
+
+date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+
+<h4>Zog brain hurt. Zog want Google help make read easier</h4> <p>Exasperated by the prolix verbiage and gratuitously convoluted phraseology that so often permeates technical treatises, philosophical discourses, or the meandering expositions of journalists afflicted by a lack of rhetorical economy? Then Google has a new AI feature for you - provided you use iOS, that is. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/06/google_releases_simplify/>
+
+---
+
+## NASA Live Coverage, Original Content Now Streaming on Prime Video
+
+date: 2025-05-06, from: NASA breaking news
+
+NASA’s on-demand streaming service, NASA+, launched a FAST (Free Ad-Supported Television) channel on Prime Video Tuesday, giving viewers another way to watch the agency’s aeronautics, human spaceflight, science, and technology missions unfold on screen. As the agency continues to improve life on Earth and inspire new generations through innovation, exploration, and discovery, NASA+ is dedicated [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-live-coverage-original-content-now-streaming-on-prime-video/>
 
 ---
 
@@ -83,9 +275,9 @@ date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
 
 ## Microsoft burnishes green cred by paying Swedes to burn biomass and bury CO<sub>2</sub>
 
-date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+date: 2025-05-06, updated: 2025-05-07, from: The Register (UK I.T. News)
 
-<h4>Schemes like this are just a license to pollute for tech giants, or so critics say</h4> <p>Microsoft has expanded its deal with Stockholm Exergi to buy 500,000 tonnes of permanent carbon removal annually over ten years. Critics argue such deals give polluters cover rather than drive real climate action.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Schemes like this are just a license to pollute for tech giants, or so critics say</h4> <p><strong>Updated</strong>  Microsoft has expanded its deal with Stockholm Exergi to buy 500,000 tonnes of permanent carbon removal annually over ten years. Critics argue such deals give polluters cover rather than drive real climate action.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -337,7 +529,7 @@ Written by Catherine O’Connell-Cooper, Planetary Geologist at University of Ne
 
 date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
 
-<h4>And declares hypervisor independence after being tied to vSphere</h4> <p>Omnissa, the company that acquired VMware’s end-user compute portfolio, is moving beyond its traditional territory of managing endpoint devices and into server management.…</p> 
+<h4>And declares hypervisor independence after being tied to vSphere</h4> <p>Omnissa, the former VMware end-user compute business spun out last year as an independent company, is moving beyond its traditional territory of managing endpoint devices and into server management.…</p> 
 
 <br> 
 

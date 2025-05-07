@@ -1,11 +1,131 @@
 ---
 title: going electric
-updated: 2025-05-06 14:11:09
+updated: 2025-05-07 06:09:29
 ---
 
 # going electric
 
-(date: 2025-05-06 14:11:09)
+(date: 2025-05-07 06:09:29)
+
+---
+
+## Rivian Cut Production Costs By Over $20,000 This Year
+
+date: 2025-05-07, from: Inside EVs News
+
+Add the cost slashing from last year’s final quarter, and Rivian managed to cut production costs by over $50,000. 
+
+<br> 
+
+<https://insideevs.com/news/758843/rivian-production-cost-cut-2025/>
+
+---
+
+## Mitsubishi’s New EV Is Coming To The U.S. Next Summer
+
+date: 2025-05-07, from: Inside EVs News
+
+After a long hiatus following the discontinuation of the i-Miev in 2017, Mitsubishi is back in the EV game—with Nissan's help. 
+
+<br> 
+
+<https://insideevs.com/news/758816/mitsubishi-ev-crossover-usa-2025/>
+
+---
+
+## The Volvo XC70 Returns As A Long-Range Plug-In Hybrid
+
+date: 2025-05-07, from: Inside EVs News
+
+Volvo’s first long-range PHEV promises 124 miles of pure electric driving, albeit based on the optimistic Chinese test cycle. 
+
+<br> 
+
+<https://insideevs.com/news/758815/volvo-xc70-returns-phev-range/>
+
+---
+
+## The Cheapest New Tesla Model Y In The U.S. Is Now Under $40,000
+
+date: 2025-05-07, from: Inside EVs News
+
+It also has over 350 miles of range on a full charge. 
+
+<br> 
+
+<https://insideevs.com/news/758798/tesla-model-y-rear-wheel-drive-long-range-price-range-specs/>
+
+---
+
+## Tesla launches cheaper Model Y RWD in the US
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Model-Y-RWD-US-price-hero.png?w=1600" /></div><p>Tesla has opened orders for the Model Y Long Range RWD for $45,000 in the US. It’s the new entry-level Model Y following the design refresh earlier this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="414800" href="https://electrek.co/2025/05/06/tesla-launches-cheaper-model-y-rwd-us/#more-414800" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/06/tesla-launches-cheaper-model-y-rwd-us/>
+
+---
+
+## Big Mack, hydrogen Honda, and a ride in the Tesla Semi at ACT Expo 2025 [part 6]
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/act-2025.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a>On today’s thrilling episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ve got some of the highlights of <a href="https://electrek.co/2025/05/01/act-expo-2025-one-step-forward-two-steps-back-for-clean-trucking-part-1/">the 2025 ACT Expo</a>, including the all-electric Windrose and Mack Pioneer Class 8s trucks, a hydrogen fuel sell [sic] from Honda, a fun charging surprise, and – after an eight year wait – we finally get a ride in the all-new (in 2017) Tesla Semi!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,electric-trucks,mack-trucks,quick-charge" data-layer-viewtype="unknown" data-post-id="414789" href="https://electrek.co/2025/05/06/big-mack-hydrogen-honda-and-a-ride-in-the-tesla-semi-at-act-expo-2025-part-6/#more-414789" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/06/big-mack-hydrogen-honda-and-a-ride-in-the-tesla-semi-at-act-expo-2025-part-6/>
+
+---
+
+## Thousands of Texas homes are about to form a huge virtual power plant
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/11/sonnen.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>Abundance Energy, sonnen, and Energywell are teaming up to bring smarter, more resilient energy to Texas homes through a huge new virtual power plant (VPP) initiative.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,home-battery,solar-power,sonnen,tesla-virtual-power-plant,texas" data-layer-viewtype="unknown" data-post-id="414779" href="https://electrek.co/2025/05/06/texas-homes-virtual-power-plant/#more-414779" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/06/texas-homes-virtual-power-plant/>
+
+---
+
+## Rivian R2's $45,000 Starting Price Won't Change, Despite Tariffs
+
+date: 2025-05-06, from: Inside EVs News
+
+Rivian CEO R.J. Scaringe said the $45,000 price point for its upcoming electric crossover is "important for us." 
+
+<br> 
+
+<https://insideevs.com/news/758783/rivian-r2-price-tariffs/>
+
+---
+
+## Rivian Just Unlocked Another $1 Billion From Volkswagen
+
+date: 2025-05-06, from: Inside EVs News
+
+Rivian's nearly $6 billion deal with the Volkswagen Group gives it the capital it needs to launch the R2 and R3 crossovers. 
+
+<br> 
+
+<https://insideevs.com/news/758774/rivian-volkswagen-deal-gross-profit/>
 
 ---
 

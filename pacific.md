@@ -1,11 +1,377 @@
 ---
 title: pacific
-updated: 2025-05-06 14:11:02
+updated: 2025-05-07 06:09:22
 ---
 
 # pacific
 
-(date: 2025-05-06 14:11:02)
+(date: 2025-05-07 06:09:22)
+
+---
+
+## India strikes Pakistan two weeks after terrorist attack
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>ISLAMABAD &#8212; India said early Wednesday that it had conducted strikes on Pakistan, two weeks after more than two dozen civilians were killed in a terrorist attack in Indian-administered Kashmir.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/india-strikes-pakistan-two-weeks-after-terrorist-attack/>
+
+---
+
+## Bills to increase food security go to governor
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>With statistics showing the state of Hawaii imports about 90% of the food its residents consume, a pair of bills with the goal of improving food security has made it through the Legislature and to Gov. Josh Green.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/hawaii-news/bills-to-increase-food-security-go-to-governor/>
+
+---
+
+## Matson cargo business from China is broadsided by Trump trade tariffs
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>The U.S.-led trade war with China has delivered a hard initial blow to one of Hawaii&#8217;s largest companies, ocean cargo transportation firm Matson Inc.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/hawaii-news/matson-cargo-business-from-china-is-broadsided-by-trump-trade-tariffs/>
+
+---
+
+## Carney to Trump: Canada not for sale
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Canadian Prime Minister Mark Carney visited the White House on Tuesday for his first talks with Donald Trump and bluntly told the U.S. president that Canada would never be for sale.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/carney-to-trump-canada-not-for-sale/>
+
+---
+
+## Native history exempt; DOE letter clarifies government’s position on DEI
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Education said Native Hawaiian, American Indian and Alaska Native history will not be categorized as &#8220;diversity, equity and inclusion&#8221; or &#8220;critical race theory&#8221; under the federal government&#8217;s new directive for the nation&#8217;s schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/hawaii-news/native-history-exempt-doe-letter-clarifies-governments-position-on-dei/>
+
+---
+
+## Israel bombs Yemen’s main airport in retaliation for Houthi strike
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israeli fighter jets bombed the main international airport in Yemen on Tuesday in retaliation for a missile attack by the Houthi militia that struck near Israel&#8217;s main airport last weekend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/israel-bombs-yemens-main-airport-in-retaliation-for-houthi-strike/>
+
+---
+
+## Trump plans to end Energy Star home appliance program amid EPA reorganization
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Environmental Protection Agency plans to end Energy Star, a program whose iconic blue labels have certified the energy efficiency of home appliances for more than three decades, as part of its broader reorganization, two sources briefed on the reorganization told Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/trump-plans-to-end-energy-star-home-appliance-program-amid-epa-reorganization/>
+
+---
+
+## News in brief for May 7
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>Barbie maker Mattel plans to raise prices because of Trump&#8217;s tariffs</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/news-in-brief-for-may-7-2/>
+
+---
+
+## Supreme Court lets trump enforce transgender troop ban as cases proceed
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court ruled Tuesday that the Trump administration may start enforcing a ban on transgender troops serving in the military that had been blocked by lower courts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/supreme-court-lets-trump-enforce-transgender-troop-ban-as-cases-proceed/>
+
+---
+
+## Search at sea halted for 7 lost in suspected migrant crossing off California
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A search for seven people lost from a small boat that capsized off California near San Diego has been called off with no sign of survivors, the U.S. Coast Guard said on Tuesday, bringing to 10 the likely death toll in a suspected migrant smuggling bid gone awry.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/search-at-sea-halted-for-7-lost-in-suspected-migrant-crossing-off-california/>
+
+---
+
+## Rush to beat tariffs boosts US trade deficit to record high in March
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. trade deficit widened to a record high in March as businesses boosted imports of goods ahead of President Donald Trump&#8217;s sweeping tariffs, which dragged gross domestic product into negative territory in the first quarter for the first time in three years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/rush-to-beat-tariffs-boosts-us-trade-deficit-to-record-high-in-march/>
+
+---
+
+## Tense standoff at new ICE detention center as mayor joins protest
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>The mayor of Newark, New Jersey, led a predawn protest outside an immigrant detention facility Tuesday, trying to keep the jailhouse from becoming a critical part of the Trump administration&#8217;s ability to enact mass deportations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/tense-standoff-at-new-ice-detention-center-as-mayor-joins-protest/>
+
+---
+
+## Trump’s return to power elevates ever fringier conspiracy theories
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>People who question whether the Earth is round &#8212; a fact understood by the ancient Greeks and taught to American children in elementary school &#8212; might have been political pariahs a decade ago. Now, they&#8217;re running local Republican parties in Georgia and Minnesota and seeking public office in Alabama.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/trumps-return-to-power-elevates-ever-fringier-conspiracy-theories/>
+
+---
+
+## Department of Education eliminates grant for PBS children’s shows
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>The White House effort to cut funding for NPR and PBS is beginning to take effect. The Corporation for Public Broadcasting, which backs NPR and PBS, said in a statement Tuesday that the Department of Education had terminated a federal grant program that funded shows for children.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/department-of-education-eliminates-grant-for-pbs-childrens-shows/>
+
+---
+
+## US says it has busted major fentanyl trafficking network
+
+date: 2025-05-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. law enforcement officials said on Tuesday that they had taken down one of the largest fentanyl trafficking operations in the country&#8217;s history, making 16 arrests and seizing millions of fentanyl pills.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/07/nation-world-news/us-says-it-has-busted-major-fentanyl-trafficking-network/>
+
+---
+
+## School of Journalism marks World Press Freedom Day
+
+date: 2025-05-07, from: University of the South Pacific (Fiji)
+
+<p>It was a momentous occasion as The University of the South Pacific’s (USP), School of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/school-of-journalism-marks-world-press-freedom-day/">School of Journalism marks World Press Freedom Day</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/school-of-journalism-marks-world-press-freedom-day/>
+
+---
+
+## Inflatable architecture rises to the challenge of emergency design
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa architecture students showcase large-scale, air-powered structures for temporary crisis spaces.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/inflatable-arch-emergency-spaces/">Inflatable architecture rises to the challenge of emergency design</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/inflatable-arch-emergency-spaces/>
+
+---
+
+## Campus tour uncovers UH Mānoa hidden histories
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Remapping <abbr>UH</abbr> Mānoa: A Campus <span aria-label="Huakai">Huaka&#699;i</span> brings to light stories of &#699;ili &#699;āina that make up the valley of Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/campus-tour-hidden-histories/">Campus tour uncovers <abbr>UH</abbr> Mānoa hidden histories</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/campus-tour-hidden-histories/>
+
+---
+
+## Rainbow Warrior golfer earns conference honors, leads team in scoring average
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Josh Hayashida is the only Rainbow Warrior among the conference honorees.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/josh-hayashida-earns-conference-honors/">Rainbow Warrior golfer earns conference honors, leads team in scoring average</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/josh-hayashida-earns-conference-honors/>
+
+---
+
+## Rainbow Wahine track and field senior earns Big West honors
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Lilian Turban was named Big West Field Athlete of the Week.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/lilian-turban-earns-big-west-honors/">Rainbow Wahine track and field senior earns Big West honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/lilian-turban-earns-big-west-honors/>
+
+---
+
+## 6 Rainbow Wahine softball players named All-Big West
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Six <abbr>UH</abbr> Mānoa softball players received All-Big West honors, including a Big West Defensive Player of the Year award for Izabella Martinez.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/rainbow-wahine-softball-players-all-big-west/">6 Rainbow Wahine softball players named All-Big West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/rainbow-wahine-softball-players-all-big-west/>
+
+---
+
+## 4 Vulcan softball players named to All-PacWest Team
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Four <abbr>UH</abbr> Hilo softball players received All-PacWest honors</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/vulcan-softball-players-all-pacwest-team/">4 Vulcan softball players named to All-PacWest Team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/vulcan-softball-players-all-pacwest-team/>
+
+---
+
+## 5 Rainbow Warriors earn AVCA All-America honors
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> men’s volleyball team placed five players on the <abbr>AVCA</abbr> All-America team, including two on the first team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/mens-volleyball-avca-all-america-honors/">5 Rainbow Warriors earn <abbr>AVCA</abbr> All-America honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/mens-volleyball-avca-all-america-honors/>
+
+---
+
+## UH Hackathon tackles languages with AI
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>The 2025 Flagship Hackathon challenged students to create an <abbr>AI</abbr> -powered experience that helps people learn a language outside the classroom.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/uh-hackathon-tackles-languages-with-ai/"><abbr>UH</abbr> Hackathon tackles languages with <abbr>AI</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/uh-hackathon-tackles-languages-with-ai/>
+
+---
+
+## 23rd AstroDay inspires keiki through science and stars
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>The 23rd annual AstroDay shared the wonders of science with keiki and their families through hands-on activities, displays and demonstrations.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/23rd-astroday-inspires-keiki/">23rd AstroDay inspires keiki through science and stars</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/23rd-astroday-inspires-keiki/>
+
+---
+
+## Architecture students get creative, Island Style, at 42nd sandcastle competition
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> architecture students shaped sand into creative expressions of island life at the 42nd Sandcastle Esquisse.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/06/42nd-annual-sandcastle-esquisse/">Architecture students get creative, Island Style, at 42nd sandcastle competition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/06/42nd-annual-sandcastle-esquisse/>
+
+---
+
+## New kid, big moves: Guam's biz-tech charter school earns accreditation in year one 
+
+date: 2025-05-06, from: Pacific Island Times
+
+By Myracle S. Mugol At a time when charter schools in Guam often contend with growing pains and sluggish oversight, the Business &#38;... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/new-kid-big-moves-guam-s-business-tech-charter-school-earns-accreditation-on-year-one>
 
 ---
 

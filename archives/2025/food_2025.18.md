@@ -1,15 +1,145 @@
 ---
 title: food
-updated: 2025-05-06 14:11:09
+updated: 2025-05-07 06:09:30
 ---
 
 # food
 
-(date: 2025-05-06 14:11:09)
+(date: 2025-05-07 06:09:30)
 
 ---
 
-## 24 Best Mother’s Day Kitchen Gifts for Moms Who Love to Cook (2025)
+## I Need A Seriously Impressive Dessert Recipe
+
+date: 2025-05-07, from: Bon Appetet
+
+On this episode of Dinner SOS, the BA Bake Club is back with Jesse’s amazing Millionaire’s Shortbread recipe. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-a-seriously-impressive-dessert-recipe>
+
+---
+
+## Behind the Headlines: The Threat of Tariffs has Rocked the Coffee Industry. But What About Tea?
+
+date: 2025-05-07, from: The Fresh Cup
+
+<p>Tariffs could shake up the global tea industry, raising costs, hurting small growers, and reshaping what ends up in your cup.</p>
+<p>The post <a href="https://freshcup.com/behind-the-headlines-the-threat-of-tariffs-has-rocked-the-coffee-industry-but-what-about-tea/">Behind the Headlines: The Threat of Tariffs has Rocked the Coffee Industry. But What About Tea?</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/behind-the-headlines-the-threat-of-tariffs-has-rocked-the-coffee-industry-but-what-about-tea/>
+
+---
+
+## Bajan Hot Sauce Recipe
+
+date: 2025-05-07, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/bajan-hot-sauce/" title="Bajan Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bottle of spicy, vibrant yellow Bajan Hot Sauce on a table with a bowl of hot sauce beside it" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bring the bold, fiery flavors of Barbados to your table with this easy Bajan hot sauce, a must for spicy food lovers.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/bajan-hot-sauce/">Bajan Hot Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/bajan-hot-sauce/>
+
+---
+
+## Sweet and Sour Pork Recipe
+
+date: 2025-05-07, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/sweet-and-sour-pork/" title="Sweet and Sour Pork Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Sweet and Sour Pork in a wok, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Sweet-and-Sour-Pork-2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This sweet and sour pork recipe is quick and easy to make with tender pork lightly fried then tossed with stir fried peppers and juicy pineapple, so good!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/sweet-and-sour-pork/">Sweet and Sour Pork Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/sweet-and-sour-pork/>
+
+---
+
+## Aldi Just Brought Back the Frozen Meal That Makes Me Feel Like I Have My Life Together
+
+date: 2025-05-07, from: Taste of Home
+
+<p>I love this cod most ardently.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/aldi-fish-and-chips-may-2025/">Aldi Just Brought Back the Frozen Meal That Makes Me Feel Like I Have My Life Together</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/aldi-fish-and-chips-may-2025/>
+
+---
+
+## The Best Juicers Prove That “Fresh-Squeezed” Doesn’t Have to be a Hassle (2025)
+
+date: 2025-05-06, from: Bon Appetet
+
+It’s time to invest in a machine you’ll actually want to use—and won’t hate to clean. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-juicers>
+
+---
+
+## Onyx Coffee Lab Introduces Barista Provisions: Craft-Quality Beverage Powders For Any Setting
+
+date: 2025-05-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. From chai to sipping chocolate, this line brings barista-level excellence to every cup and creation. 
+
+<br> 
+
+<https://sprudge.com/onyx-coffee-lab-introduces-barista-provisions-craft-quality-beverage-powders-for-any-setting-332463.html>
+
+---
+
+## Tyler Smith’s Street Taco Marinade
+
+date: 2025-05-06, from: Taste of Home
+
+This versatile street taco marinade works wonders on any protein! Why choose just one type of meat? Marinate a few. This recipe makes enough marinade for about 3 to 4 pounds of meat. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-street-taco-marinade/>
+
+---
+
+## Elise Jesse’s Citrus Margarita Popsicles
+
+date: 2025-05-06, from: Taste of Home
+
+If you want to create a buzz at your next party, save this recipe because it's easy, refreshing, and doubles as an instant conversation starter. We are skipping the blender and making my favorite Margarita Poptail! This cocktail on a stick is a make-ahead option and is easily customizable with whatever kind of juice you prefer. Plus, it’s just boozy enough to keep the conversations going. — Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-citrus-margarita-popsicles/>
+
+---
+
+## How to Host a Stress-Free Backyard Barbecue
+
+date: 2025-05-06, from: Taste of Home
+
+<p>Our guide to hosting a stress-free backyard barbecue includes planning tips, food and drink ideas, and how to keep the bugs at bay.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-host-backyard-barbecue/">How to Host a Stress-Free Backyard Barbecue</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-to-host-backyard-barbecue/>
+
+---
+
+## 24 Best Mother's Day Kitchen Gifts for Moms Who Love to Cook (2025)
 
 date: 2025-05-06, from: Bon Appetet
 
@@ -18,6 +148,18 @@ Give her a Le Creuset kettle, custom stationery for her recipes, or some upgrade
 <br> 
 
 <https://www.bonappetit.com/story/best-mothers-day-gifts-2025>
+
+---
+
+## As of April 28, Standard Black Coffee Can Be Labeled ‘Healthy’ in the U.S.
+
+date: 2025-05-06, from: Daily Coffee News
+
+<div><img width="620" height="435" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-620x435.jpg" class="attachment-large size-large wp-post-image" alt="cup of coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-620x435.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As of April 28, 2025, most standard cups of black coffee or espresso shots can be labeled as &#8220;healthy&#8221; in the United States. The U.S. Food and Drug Administration (FDA)... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/06/as-of-april-28-standard-black-coffee-can-be-labeled-healthy-in-the-u-s/>
 
 ---
 
@@ -33,6 +175,18 @@ Achieve a perfectly juicy marinated London broil thanks to one secret ingredient
 
 ---
 
+## Study: Coffee Grounds with Fungal Stuff Could Replace Packing Foam
+
+date: 2025-05-06, from: Daily Coffee News
+
+<div><img width="620" height="363" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-620x363.jpg" class="attachment-large size-large wp-post-image" alt="images_3dp.2023.0342_figure10" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-620x363.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-300x175.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-150x88.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-768x449.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A research team at the University of Washington recently developed a 3D printing method that could transform post-consumer coffee waste into useful, yet compostable, materials similar to custom-shaped polystyrene foam.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/06/study-coffee-grounds-with-fungal-stuff-could-replace-packing-foam/>
+
+---
+
 ## The World Badly Needs A Global Coffee Seed Vault
 
 date: 2025-05-06, from: The Sprudge
@@ -42,6 +196,18 @@ date: 2025-05-06, from: The Sprudge
 <br> 
 
 <https://sprudge.com/the-world-badly-needs-a-global-coffee-seed-vault-321445.html>
+
+---
+
+## 12 New Coffee Tools from the 2025 SCA Expo
+
+date: 2025-05-06, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2025 new coffee equipment" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Beyond the roasters, grinders and brewing devices to which &#8220;making coffee&#8221; is generally credited, there&#8217;s a whole world of tools and accessories that can affect the end product.&#160;&#160; The show... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/06/12-new-coffee-tools-from-the-2025-sca-expo/>
 
 ---
 
@@ -193,7 +359,7 @@ date: 2025-05-05, from: The Sprudge
 
 date: 2025-05-05, from: Daily Coffee News
 
-<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Gratitude Coffee La Paz Sergio" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1.jpg 681w" sizes="(max-width: 620px) 100vw, 620px" /></div>Not all coffee stories begin with a traveling circus, but that&#8217;s precisely how the married owners of Gratitude Specialty Coffee Roasters (Instagram) in La Paz, Mexico, first met. Gloria Olivera... 
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Gratitude Coffee La Paz Sergio" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-300x193.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Gratitude-Coffee-La-Paz-Sergio-1.jpg 681w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Not all coffee stories begin with a traveling circus, but that&#8217;s precisely how the married owners of Gratitude Specialty Coffee Roasters (Instagram) in La Paz, Mexico, first met. Gloria Olivera... 
 
 <br> 
 
@@ -217,7 +383,7 @@ date: 2025-05-05, from: The Sprudge
 
 date: 2025-05-05, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="new espresso machines 2025" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Espresso flowed like lava from a volcano of shiny new things at the 2025 SCA Expo in Houston last week. While we didn&#8217;t encounter much earth-shattering newness from many of... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="new espresso machines 2025" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/new-espresso-machines-2025.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Espresso flowed like lava from a volcano of shiny new things at the 2025 SCA Expo in Houston last week. While we didn&#8217;t encounter much earth-shattering newness from many of... 
 
 <br> 
 
@@ -229,7 +395,7 @@ date: 2025-05-05, from: Daily Coffee News
 
 date: 2025-05-05, from: Daily Coffee News
 
-<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-620x407.png" class="attachment-large size-large wp-post-image" alt="CCREGroup" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-620x407.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-300x197.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-150x98.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-768x504.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup.png 1169w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Coffee Coalition for Racial Equity recently celebrated the work of BLK &#38; Bold, Keith Hawkins and Martell Mason for their leadership, creativity and service in moving the coffee industry... 
+<div><img width="620" height="407" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-620x407.png" class="attachment-large size-large wp-post-image" alt="CCREGroup" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-620x407.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-300x197.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-150x98.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup-768x504.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/CCREGroup.png 1169w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Coffee Coalition for Racial Equity recently celebrated the work of BLK &#38; Bold, Keith Hawkins and Martell Mason for their leadership, creativity and service in moving the coffee industry... 
 
 <br> 
 
@@ -253,7 +419,7 @@ date: 2025-05-05, from: The Sprudge
 
 date: 2025-05-05, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/halal-white-sauce/" title="Halal White Sauce Recipe (NYC Cart-Style)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike taking a scoop of Halal White Sauce from the bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make classic halal cart-style white sauce at home with this easy recipe! Creamy, tangy, perfect for topping chicken, rice, gyros, and more, so good!</p>
+<a href="https://www.chilipeppermadness.com/recipes/halal-white-sauce/" title="Halal White Sauce Recipe (NYC Cart-Style)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike taking a scoop of Halal White Sauce from the bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-White-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make classic halal cart-style white sauce at home with this easy recipe! Creamy, tangy, perfect for topping chicken, rice, gyros, and more, so good!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/halal-white-sauce/">Halal White Sauce Recipe (NYC Cart-Style)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-05-06 14:11:05
+updated: 2025-05-07 06:09:25
 ---
 
 # writing
 
-(date: 2025-05-06 14:11:05)
+(date: 2025-05-07 06:09:25)
+
+---
+
+## Write Now with Scrivener, Episode no. 50: Michael Jamin, TV and Comedy Writer
+
+date: 2025-05-07, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-50-michael-jamin-tv-and-comedy-writer>
 
 ---
 

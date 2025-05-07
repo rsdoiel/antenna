@@ -1,11 +1,136 @@
 ---
 title: home
-updated: 2025-05-06 14:11:07
+updated: 2025-05-07 06:09:27
 ---
 
 # home
 
-(date: 2025-05-06 14:11:07)
+(date: 2025-05-07 06:09:27)
+
+---
+
+## Purple Produce: Should You Eat More Purple Fruits and Veggies?
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>Purple fruits and vegetables get a lot of praise for offering powerful health benefits. Here we explore what makes foods purple and dive into the nutrition facts. We also cover ideas to grow and eat more purple produce at home. Embrace the power of purple! Read more now to learn what makes purple produce so special.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/healthy-purple-produce/">Purple Produce: Should You Eat More Purple Fruits and Veggies?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/healthy-purple-produce/>
+
+---
+
+## 7 Tips for Growing Formal and Informal Forsythia Hedges
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>Forsythia is an ornamental shrub best known for having bright yellow flowers in early spring. Its serrated leaves are green in summer, turning bronze in fall. Grow it as an informal hedge with natural contours, or manicure it with regular pruning, for a more formal shape. Read our 7 top tips to grow forsythia as a hedge.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/forsythia-hedges/">7 Tips for Growing Formal and Informal Forsythia Hedges</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/forsythia-hedges/>
+
+---
+
+## How to Grow Lily of the Valley: Your Planting and Care Guide
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>Finding the right flowering plants for your shade garden can be problematic, and early blooming and fragrant varieties can be few and far between. Luckily, there’s lily of the valley, a happy-to-spread and pleasantly scented addition that fits in those neglected corners of your flowerbeds. Read more on Gardener's Path.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/how-grow-lily-valley/">How to Grow Lily of the Valley: Your Planting and Care Guide</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/how-grow-lily-valley/>
+
+---
+
+## How to Identify and Control Lace Bugs
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>Lace bugs, with their intricately designed wings, feed on trees, shrubs, and grasses, and are mainly a cosmetic concern. But when it comes to ornamentals, their damage can be ugly. This guide covers everything you'll need to know about these strange looking pests, including the strategies you can use to control them.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-lace-bugs/">How to Identify and Control Lace Bugs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/control-lace-bugs/>
+
+---
+
+## Learn How to Grow Blueberries in Pots and Containers
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>You don’t need lots of space, or a garden even, to grow and enjoy your own homegrown blueberries. You can grow these bushes in containers and keep them on your patio or balcony where they provide ornamental interest as well as delicious fruit. Learn how to grow your own blueberries in pots in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/grow-blueberries-containers/">Learn How to Grow Blueberries in Pots and Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/grow-blueberries-containers/>
+
+---
+
+## 40 Weeds with Yellow Flowers (Pictures and Identification)
+
+date: 2025-05-07, from: Yard Life blog
+
+<p>As a gardener, I’ve come to realize that weeds with yellow flowers can be both beautiful and troublesome. These vibrant ... </p>
+<p class="read-more-container"><a title="40 Weeds with Yellow Flowers (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/40-weeds-with-yellow-flowers-pictures-and-identification/#more-28180" aria-label="Read more about 40 Weeds with Yellow Flowers (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-weeds-with-yellow-flowers-pictures-and-identification/">40 Weeds with Yellow Flowers (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-weeds-with-yellow-flowers-pictures-and-identification/>
+
+---
+
+## 25 Thoughtful Grad Gift Ideas That Won’t Disappoint
+
+date: 2025-05-07, from: Sunset Magazine - Living in the West
+
+Celebrate commencement with these thoughtful graduation gifts for the high school, college, and graduate school grad. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/graduation-gift-ideas>
+
+---
+
+## Are Artichokes Good For You?
+
+date: 2025-05-07, from: California Grown
+
+<p>Eating a whole artichoke is a sublimely fun, relaxing activity. You can mindfully pull off petals one by one, dip them into your favorite aioli, and use your teeth to gently strip the soft flesh off the petals. The goal is to make it to the center, leaving a large pile of petals but none [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/are-artichokes-good-for-you/" data-wpel-link="internal" target="_self">Are Artichokes Good For You?</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/are-artichokes-good-for-you/>
+
+---
+
+## How to Grow and Care for Snapdragon Flowers
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>Snapdragon is the perfect addition to cutting gardens. Spiky heads loaded with blossoms add height and structure to flower beds and floral arrangements. Did you know it blooms from the bottom up, for long vase life? Learn all about this old-time favorite and its modern color palette in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/annuals/antirrhinum-majus/">How to Grow and Care for Snapdragon Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/annuals/antirrhinum-majus/>
 
 ---
 
@@ -63,6 +188,18 @@ date: 2025-05-06, from: Family Handyman Blog
 
 ---
 
+## Judith Chafee’s Famed Ramada House Asks $2.9M
+
+date: 2025-05-06, from: Dwell
+
+Built in 1975, the Tucson home is now part of the National Register of Historic Places. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-ramada-house-tucson-real-estate-1e6841f8>
+
+---
+
 ## An Icon of Midcentury Glass Architecture Pops Up on the Market in Briarcliff Manor for $2.9M
 
 date: 2025-05-06, from: Dwell
@@ -86,6 +223,18 @@ date: 2025-05-06, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/mulch-glue-explained-what-it-is-and-how-it-works/>
+
+---
+
+## Craft Your Own Home Decor at These Pottery Studios Across the West
+
+date: 2025-05-06, from: Sunset Magazine - Living in the West
+
+Make your own home decor at these best pottery studios in the West that will let you throw, shape, and fire ceramic creations. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/best-pottery-studios-in-the-west>
 
 ---
 

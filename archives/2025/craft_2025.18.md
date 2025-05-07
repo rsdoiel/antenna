@@ -1,11 +1,47 @@
 ---
 title: craft
-updated: 2025-05-06 14:11:10
+updated: 2025-05-07 06:09:30
 ---
 
 # craft
 
-(date: 2025-05-06 14:11:10)
+(date: 2025-05-07 06:09:30)
+
+---
+
+## Mind Upon Mind: Leveling Legs
+
+date: 2025-05-07, from: Lost Arg Press blog
+
+Editor’s note: Last month we launched our Mind Upon Mind series, a nod to a 1937 Chips from the Chisel column (also featured in “Honest Labour: The Charles H. Hayward Years”), in which Hayward wrote, “The influence of mind upon mind is extraordinary.” The idea being there’s often room for improvement. (You can read the... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/07/mind-upon-mind-leveling-legs/>
+
+---
+
+## Now Shipping ‘Build a Chair from Bulls%$t’
+
+date: 2025-05-06, from: Lost Arg Press blog
+
+Signed by the author, Christopher Schwarz. The first 500 customers get a free merit badge. The latest book from Lost Art Press shows you how to build a comfortable and sturdy chair using only materials and tools from the home center. No jigs. No specialty tools. Literally anyone can do it. If that’s all you... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/06/now-shipping-build-a-chair-from-bullst/>
+
+---
+
+## The Caretakers of The Tool Cabinet and Workbench of Henry O. Studley.
+
+date: 2025-05-06, from: Lost Arg Press blog
+
+The following is excerpted from “Virtuoso: The Tool Cabinet and Workbench of Henry O. Studley,” by Donald C. Williams, with photographs by Narayan Nayar. In a space of just 10” x 39” x 19-1/2”, H.O. Studley managed to arrange – with perfection – more than 250 of his tools into a dovetailed mahogany cabinet that... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/06/the-caretakers-of-the-tool-cabinet-and-workbench-of-henry-o-studley/>
 
 ---
 

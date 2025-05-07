@@ -1,11 +1,132 @@
 ---
 title: snapshots
-updated: 2025-05-06 14:11:11
+updated: 2025-05-07 06:09:31
 ---
 
 # snapshots
 
-(date: 2025-05-06 14:11:11)
+(date: 2025-05-07 06:09:31)
+
+---
+
+## Podcast: The Trump Admin's Signal Clone Was Hacked
+
+date: 2025-05-07, from: 404 Media Group
+
+Our massive story about the TeleMessage hack; hackers targeted an airline used by ICE too; and the closure of Mr. Deepfakes. 
+
+<br> 
+
+<https://www.404media.co/podcast-the-trump-admins-signal-clone-was-hacked/>
+
+---
+
+## A new Raspberry Pi OS release
+
+date: 2025-05-07, from: Raspberry Pi News (.com)
+
+<p>Bringing improvements to screen locking, auto login, printer handling, and touchscreen handling, along with other tweaks and enhancements.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/a-new-raspberry-pi-os-release/">A new Raspberry Pi OS release</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/a-new-raspberry-pi-os-release/>
+
+---
+
+## Tariffs and Poverty Around the World
+
+date: 2025-05-07, from: Paul Krugman
+
+Why you should care about Bangladesh 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/tariffs-and-poverty-around-the-world>
+
+---
+
+## Software Engineering Daily podcast
+
+date: 2025-05-07, from: Kilian Valkhof's blog
+
+<p>Recently, wholesome human from the internet Josh Goldberg interviewed me for the Software Engineering Daily podcast. We talked about Polypane, the web development landscape, and how I got into web development. Listen to the Podcast: Visit Software Engineering Daily for the show notes and transcript. Thanks Joel for asking me to be on the podcast, [&#8230;]</p>
+The post <a href="https://kilianvalkhof.com/2025/css-html/software-engineering-daily-podcast/">Software Engineering Daily podcast</a> first appeared on <a href="https://kilianvalkhof.com">Kilian Valkhof</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://traffic.megaphone.fm/SED4120945539.mp3"></source>
+</audio> <a href="https://traffic.megaphone.fm/SED4120945539.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://kilianvalkhof.com/2025/css-html/software-engineering-daily-podcast/>
+
+---
+
+## No Sprouts
+
+date: 2025-05-07, updated: 2025-05-07, from: Tedium site
+
+Why the fast-casual sandwich shop Jimmy John’s struggled with selling sprouts for so long, despite their obvious health risks. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17023422/jimmy-johns-sprouts-outbreak-history>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-07, from: Dave Winer's linkblog)
+
+Trump sounds like Chance Gardener from Being There. 
+
+<br> 
+
+<https://en.m.wikipedia.org/wiki/Being_There>
+
+---
+
+## Working From Home: How To Set Boundaries With Yourself
+
+date: 2025-05-07, from: Accidentally in Code
+
+I was recently interviewed for an article about remote work, you can read the full thing here. Some of my suggestions: 
+
+<br> 
+
+<https://cate.blog/2025/05/06/working-from-home-how-to-set-boundaries-with-yourself/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+Amazon’s Zoox issued a robotaxi software recall after a crash in Las Vegas. 
+
+<br> 
+
+<https://www.theverge.com/news/662321/amazon-zoox-recall-robotaxi-las-vegas-crash-software-fix>
+
+---
+
+## Lilbits: Goodbye Skype, hello Fedora in Windows (and new Copilot+ features)
+
+date: 2025-05-06, from: Liliputing
+
+<p>Two decades after first showing that it&#8217;s possible to use computers for real-time voice and video communication using peer-to-peer networking, Skype shut down for good this week. Microsoft bought the service in 2011 and maintained it for a while, eventually moving it from a hybrid P2P service to one that was powered by the company&#8217;s [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-goodbye-skype-hello-fedora-in-windows-and-new-copilot-features/">Lilbits: Goodbye Skype, hello Fedora in Windows (and new Copilot+ features)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-goodbye-skype-hello-fedora-in-windows-and-new-copilot-features/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-06, from: Dave Winer's linkblog)
+
+Rivian earnings: EV maker cuts delivery guidance because of Trump&#39;s tariffs and trade wars. 
+
+<br> 
+
+<https://techcrunch.com/2025/05/06/rivian-earnings-ev-maker-cuts-delivery-guidance-because-of-trumps-tariffs-and-trade-wars/>
 
 ---
 
@@ -227,9 +348,12 @@ Okay, the user said "hi". That's a greeting. I should respond in a friendly and 
 <blockquote>
 <p><code>You are Phi, a language model trained by Microsoft to help users. Your role as an assistant involves thoroughly exploring questions through a systematic thinking process before providing the final precise and accurate solutions. This requires engaging in a comprehensive cycle of analysis, summarizing, exploration, reassessment, reflection, backtracing, and iteration to develop well-considered thinking process. Please structure your response into two main sections: Thought and Solution using the specified format: &lt;think&gt; {Thought section} &lt;/think&gt; {Solution section}. In the Thought section, detail your reasoning process in steps. Each step should include detailed considerations such as analysing questions, summarizing relevant findings, brainstorming new ideas, verifying the accuracy of the current steps, refining any errors, and revisiting previous steps. In the Solution section, based on various attempts, explorations, and reflections from the Thought section, systematically present the final solution that you deem correct. The Solution section should be logical, accurate, and concise and detail necessary steps needed to reach the conclusion. Now, try to solve the following question through the above guidelines:</code></p>
 </blockquote>
-<p>I don't see anything in there about "Do not share guidelines", even though the model response mentioned that rule. This makes me think that there's a further level of training around these rules that has gone into the model that isn't reflected in the system prompt itself.</p>
+<p>I don't see anything in there about "Do not share guidelines", even though the model response mentioned that rule.</p>
+<p>My guess is that the model has been trained to "not talk about the system prompt" through RLHF or similar. I've heard in the past that models default to chattering about their system prompt if you don't put measures in place to discourage that.</p>
+
+<p>The lengthy response from Phi-4-reasoning shown above may well be caused by the system prompt containing significantly more tokens than the single token "hi" sent by the user.</p>
 <h4 id="it-s-still-hard-to-know-when-to-use-reasoning-models">It's still hard to know when to use reasoning models</h4>
-<p>We've had access to these "reasoning" models - with a baked in chain-of-thought at the start of each response - since o1 debuted in November last year (check this).</p>
+<p>We've had access to these "reasoning" models - with a baked in chain-of-thought at the start of each response - since o1 debuted <a href="https://simonwillison.net/2024/Sep/12/openai-o1/">in September last year</a>.</p>
 <p>I'll be honest: I still don't have a great intuition for when it makes the most sense to use them.</p>
 <p>I've had great success with them for code: any coding tasks that might involve multiple functions or classes that co-ordinate together seems to benefit from a reasoning step.</p>
 <p>They are an absolute benefit for debugging: I've seen reasoning models walk through quite large codebases following multiple levels of indirection in order to find potential root causes of the problem I've described.</p>
@@ -250,12 +374,17 @@ date: 2025-05-06, updated: 2025-05-06, from: Simon Willison’s Weblog
 
 <p><strong><a href="https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/">Gemini 2.5 Pro Preview: even better coding performance</a></strong></p>
 New Gemini 2.5 Pro "Google I/O edition" model, released a few weeks ahead of that annual developer conference. </p>
-<p>They claim even better frontend coding performance, highlighting their #1 ranking on the <a href="https://web.lmarena.ai/leaderboard">WebDev Arena leaderboard</a>. They also highlight "state-of-the-art video understanding" with a 84.8% score on the new-to-me <a href="https://video-mme.github.io/home_page.html">VideoMME benchmark</a>.</p>
+<p>They claim even better frontend coding performance, highlighting their #1 ranking on the <a href="https://web.lmarena.ai/leaderboard">WebDev Arena leaderboard</a>, notable because it knocked Claude 3.7 Sonnet from that top spot. They also highlight "state-of-the-art video understanding" with a 84.8% score on the new-to-me <a href="https://video-mme.github.io/home_page.html">VideoMME benchmark</a>.</p>
 <p>I rushed out a <a href="https://github.com/simonw/llm-gemini/releases/0.19">new release of llm-gemini</a> adding support for the new <code>gemini-2.5-pro-preview-05-06</code> model ID, but it turns out if I had read to the end of their post I should not have bothered:</p>
 <blockquote>
 <p>For developers already using Gemini 2.5 Pro, this new version will not only improve coding performance but will also address key developer feedback including reducing errors in function calling and improving function calling trigger rates. The previous iteration (03-25) now points to the most recent version (05-06), so no action is required to use the improved model</p>
 </blockquote>
-<p>I'm not a fan of this idea that a model ID with a clear date in it like <code>gemini-2.5-pro-preview-03-25</code> can suddenly start pointing to a brand new model!
+<p>I'm not a fan of this idea that a model ID with a clear date in it like <code>gemini-2.5-pro-preview-03-25</code> can suddenly start pointing to a brand new model!</p>
+<p>I used the new Gemini 2.5 Pro to summarize the conversation about itself on Hacker News using the latest version of <a href="https://til.simonwillison.net/llms/claude-hacker-news-themes#user-content-porting-it-to-llm-hacker-news">my hn-summary.sh script</a>:</p>
+<pre><code>hn-summary.sh 43906018 -m gemini-2.5-pro-preview-05-06
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/7ef3d77c8aeeaf1bfe9cc6fd68760b96">what I got back</a> - 30,408 input tokens and 8,535 output for a total cost of 12.336 cents.</p>
+<p>8,535 output tokens is <em>a lot</em>. My system prompt includes the instruction to "Go long" - this is the first time I've seen a model really take that to heart. For comparison, here's <a href="https://gist.github.com/simonw/3efa62d917370c5038b7acc24b7c786e">the result</a> of a similar experiment against the previous version of Gemini 2.5 Pro two months ago.
 
 
     <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a></p> 
@@ -560,6 +689,18 @@ Read our latest 👉 https://bit.ly/Illusion-of-Efficiency
 <br> 
 
 <https://bsky.app/profile/altusds.altgov.info/post/3lohv75uoxf25>
+
+---
+
+## The total derivative of a metric tree
+
+date: 2025-05-06, from: Max Halford Blog
+
+<p><em>A metric tree is a visual way to organize a complex metric. Count gives a good introduction <a href="https://count.co/blog/intro-to-metric-trees">here</a>. <a href="https://www.linkedin.com/in/abhi-sivasailam/">Abhi Sivasailam</a> gave a popular <a href="https://www.youtube.com/watch?v=Dbr8jmtfZ7Q&amp;ab_channel=DataCouncil">talk</a> at Data Council 2023 if watching videos is your thing. <a href="https://www.linkedin.com/in/ergestx/">Ergest Xheblati</a> is someone to follow if you want to go deeper. There&rsquo;s also a <a href="https://www.lightdash.com/blogpost/metric-trees-how-top-data-teams-impact-growth">recent article</a> from Lightdash. Finally, there&rsquo;s <a href="https://timodechau.com/metric-trees-for-digital-analysts/">this article</a> by Timo Dechau, but it&rsquo;s behind a paywall. The concept has a <a href="https://en.wikipedia.org/wiki/Metric_tree">homonym</a>, so beware when you browse for it.</em></p> 
+
+<br> 
+
+<https://maxhalford.github.io/blog/metric-tree-total-derivative/>
 
 ---
 

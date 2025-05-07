@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-05-06 14:11:05
+updated: 2025-05-07 06:09:25
 ---
 
 # games
 
-(date: 2025-05-06 14:11:05)
+(date: 2025-05-07 06:09:25)
+
+---
+
+## The best games on Apple Arcade right now
+
+date: 2025-05-07, updated: 2025-05-06, from: Polygon Website
+
+For $7 per month, Apple’s game subscription service provides full access to a couple hundred titles for iPhone, iPad, and Mac computers — and its catalog has been a bit of a roller coaster for the last few years, making it tough for Apple users to determine whether it’s a good deal or not. Unfortunately, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/563117/best-apple-arcade-games>
 
 ---
 
