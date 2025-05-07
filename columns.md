@@ -1,11 +1,206 @@
 ---
 title: columns
-updated: 2025-05-07 06:09:24
+updated: 2025-05-07 14:10:36
 ---
 
 # columns
 
-(date: 2025-05-07 06:09:24)
+(date: 2025-05-07 14:10:36)
+
+---
+
+## Prices and unemployment are heading up. Everything else is going down 
+
+date: 2025-05-07, from: Robert Reich's blog
+
+The economy is heading into very bad weather. Brace yourselves. 
+
+<br> 
+
+<https://robertreich.substack.com/p/prices-up>
+
+---
+
+##  4th Grader to RFK Jr: &#8220;I Have Autism and I&#8217;m Not Broken&#8221; 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/4th-grader-to-rfk-jr-i-have-autism-and-im-not-broken>
+
+---
+
+##  Defector&#8217;s Sabrina Imbler is interviewing civil servants who have been fired/purged from... 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046796-defectors-sabrina-imbler->
+
+---
+
+## Face with Tears of Joy on 99% Invisible
+
+date: 2025-05-07, from: Shady Characters blog
+
+<p>I’ve always really enjoyed <a href="https://99percentinvisible.org/"><cite>99% Invisible</cite></a>, Roman Mars’ long-running podcast about design, which makes it all the more special to have appeared on three different episode in the past — on the <a href="https://99percentinvisible.org/episode/octothorpe">octothorpe (#)</a>, the <a href="https://99percentinvisible.org/episode/interrobang/">interrobang (‽)</a>, and <a href="https://99percentinvisible.org/episode/empire-of-the-sum/">pocket calculators</a> respectively. Now, to mark the publication of <a href="https://shadycharacters.co.uk/books/face-with-tears-of-joy"><cite>Face with Tears of Joy</cite></a>, I’m pleased to say that I’m on it again!</p><a class="more-link" href="https://shadycharacters.co.uk/2025/05/face-with-tears-of-joy-on-99-invisible/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/05/face-with-tears-of-joy-on-99-invisible/>
+
+---
+
+##  WWII Vet Crushes a Tesla With a Sherman Tank 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/wwii-vet-crushes-a-tesla-with-a-sherman-tank>
+
+---
+
+##  A Popeless Situation: The election of Gregory X in 1271 took 1006... 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046802-a-popeless-situation-the->
+
+---
+
+## May 6, 2025
+
+date: 2025-05-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163072767/83f5ba29e7ad8a27797df793330d0e52.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163072767/83f5ba29e7ad8a27797df793330d0e52.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-6-2025-459>
+
+---
+
+## Aftermath
+
+date: 2025-05-07, updated: 2025-05-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://aftermath.site/about-us-contact-us-aftermath>
+
+---
+
+##  Gears and Other Mechanical Things 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/gears-and-other-mechanical-things-1>
+
+---
+
+## Polygon Gutted by Large-Scale Layoffs After Sale to Sweatshop Aggregator Valnet
+
+date: 2025-05-07, updated: 2025-05-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/gaming/2025/05/gaming-news-site-polygon-gutted-by-massive-layoffs-amid-sale-to-valnet/>
+
+---
+
+## Fedora 42 now an official Windows Subsystem for Linux 2 distro
+
+date: 2025-05-07, updated: 2025-05-07, from: Liam Proven's articles at the Register
+
+<h4>Modern Linux, vintage kernel</h4>
+      <p>Good news for those fond of crimson headwear – Fedora 42 is now an official distro on Windows Subsystem for Linux 2 (WSL2).</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/07/fedora_42_wsl2_official/>
+
+---
+
+##  Some of the cardinals tasked with choosing a replacement for Pope Francis... 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046798-some-of-the-cardinals-tas>
+
+---
+
+##  McMansion Hell on Trump&#8217;s gaudy &#8220;dictator chic&#8221;. &#8220;This ruling class nostalgia for... 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046797-mcmansion-hell-on-trumps->
+
+---
+
+##  Graphic Novel Biography of Eadweard Muybridge 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/graphic-novel-biography-of-eadweard-muybridge>
+
+---
+
+##  Phew, for a Minute There, I Thought the Arts Were Going to... 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046795-phew-for-a-minute-there>
+
+---
+
+##  A guide to staying safe during civil unrest. &#8220;Know who you can... 
+
+date: 2025-05-07, updated: 2025-05-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046794-a-guide-to-staying-safe>
 
 ---
 

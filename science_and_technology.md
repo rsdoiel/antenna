@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-05-07 06:09:23
+updated: 2025-05-07 14:10:35
 ---
 
 # science and technology
 
-(date: 2025-05-07 06:09:23)
+(date: 2025-05-07 14:10:35)
+
+---
+
+## Apple exec sends Google shares plunging as he calls AI the new search
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Eddy Cue tells DC court Safari will incorporate Anthropic, OpenAI and co</h4> <p>An Apple executive&#39;s backhanded endorsement of AI as a replacement for traditional internet searches has sent Google stock tumbling. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/google_apple_cue/>
+
+---
+
+## Google tries to greenwash massive AI energy consumption with another vague nuclear deal
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Chocolate Factory promises early-stage capital to atomic upstart Elementl</h4> <p>Google has signed a strategic agreement with nuclear project developer Elementl Power to support the early development of three potential fission reactor sites in the US.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/google_signs_another_nuclear_deal/>
+
+---
+
+## Delta Air Lines class action cleared for takeoff over CrowdStrike chaos
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Judge allows aspects of passenger lawsuit to proceed</h4> <p>A federal judge has cleared the runway for a class action from disgruntled passengers against Delta Air Lines as turbulence from last year&#39;s CrowdStrike debacle continues to buffet the carrier.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/delta_crowdstrike_class_action/>
+
+---
+
+## Key Portion of NASA’s Roman Space Telescope Clears Thermal Vacuum Test
+
+date: 2025-05-07, from: NASA breaking news
+
+One half of NASA’s nearly complete Nancy Grace Roman Space Telescope just passed a lengthy test to ensure it will function properly in the space environment. “This milestone tees us up to attach the flight solar array sun shield to the outer barrel assembly, and deployable aperture cover, which we’ll begin this month,” said Jack [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/roman-space-telescope/key-portion-of-nasas-roman-space-telescope-clears-thermal-vacuum-test/>
+
+---
+
+## A Glimpse of a Meatball
+
+date: 2025-05-07, from: NASA breaking news
+
+The NASA “meatball” logo, mounted on the Flight Research Building at NASA’s Glenn Research Center in Cleveland, peeks through tree leaves in this June 10, 2016, photo. Built in the 1940s, the Flight Research Building, also known as the NASA Glenn Hangar, is a facility large enough to hold numerous aircraft of various sizes. It [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-glimpse-of-a-meatball/>
+
+---
+
+## New Visualization From NASA’s Webb Telescope Explores Cosmic Cliffs
+
+date: 2025-05-07, from: NASA breaking news
+
+In July 2022, NASA’s James Webb Space Telescope made its public debut with a series of breathtaking images. Among them was an ethereal landscape nicknamed the Cosmic Cliffs. This glittering realm of star birth is the subject of a new 3D visualization derived from the Webb data. The visualization, created by NASA’s Universe of Learning […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/new-visualization-from-nasas-webb-telescope-explores-cosmic-cliffs/>
+
+---
+
+## openSUSE removes Deepin from its repositories after long string of security issues and unauthorised security bypass
+
+date: 2025-05-07, from: OS News
+
+The openSUSE team has decided to remove the Deepin Desktop Environment from openSUSE, after the project&#8217;s packager for openSUSE was found to have added workaround specifically to bypass various security requirements openSUSE has in place for RPM packages. Recently we noticed a policy violation in the packaging of the Deepin desktop environment in openSUSE. To get around security review requirements, our Deepin community packager implemented a workaround which bypasses the regular RPM packaging mechanisms to install restricted assets. As a result of this violation, and in the light of the difficult history we have with Deepin code reviews, we will be removing the Deepin Desktop packages from openSUSE distributions for the time being. ↫ Matthias Gerstner Matthias Gerstner goes into great detail to lay out every single time the openSUSE team found massive, glaring security issues in Deepin, and the complete lack of adequate responses from the Deepin upstream team over the past 8 or so years. It&#8217;s absolutely shocking to see how utterly lax the Deepin developers have been regarding the security of their desktop environment and its dependencies, and the openSUSE team could really only come to one harsh conclusion: Deepin has no security culture whatsoever, and it&#8217;s extremely likely that every corner of the Deepin code is riddled with very serious security issues. As such, despite the relatively large number of Deepin users on openSUSE, the team has decided to remove Deepin from openSUSE entirely, instead pointing users to a third-party repository if they desire to keep using Deepin. I think this is the best possible option in this situation, but it&#8217;s not exactly ideal. After reading this entire saga, however, I don&#8217;t think anyone who cares about security should be using Deepin. Of course, I doubt this will be the end of the story. What about all the other Linux distributions out there? The security issues in Deepin itself are most likely also present in Debian, Fedora, and other distributions who have the Deepin Desktop Environment in their repositories, but what about the workaround to bypass packaging security practices? Does that exist elsewhere as well? I think we&#8217;re about to find out. 
+
+<br> 
+
+<https://www.osnews.com/story/142312/opensuse-removes-deepin-from-its-repositories-after-long-string-of-security-issues-and-unauthorised-security-bypass/>
+
+---
+
+## You'll never guess which mobile browser is the worst for data collection
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>We were shocked – SHOCKED – by the answer</h4> <p>Mirror, mirror on the wall, who is the slurpiest mobile browser of them all? The answer, according to VPN vendor Surfshark, is Chrome.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/mobile_browser_data_collection/>
+
+---
+
+## NASA Statement on Appointment of  New JPL Director
+
+date: 2025-05-07, from: NASA breaking news
+
+The following is a statement from acting NASA Administrator Janet Petro on the appointment of David Gallagher as director of the agency’s Jet Propulsion Laboratory (JPL) in Southern California. NASA JPL announced Wednesday Laurie Leshin would step down effective Sunday, June 1. “Laurie Leshin’s leadership at JPL has been nothing short of extraordinary. She brought [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-statement-on-appointment-of-new-jpl-director/>
+
+---
+
+## Dave Gallagher Named 11th Director of JPL as Laurie Leshin Steps Down
+
+date: 2025-05-07, from: NASA breaking news
+
+Laurie Leshin has decided to step down as director of NASA’s Jet Propulsion Laboratory on Sunday, June 1. David Gallagher, who has been serving as the Lab’s associate director for Strategic Integration, has been selected by Caltech to lead the federally funded research and development center. Caltech manages JPL for NASA. A distinguished geochemist, Leshin [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/dave-gallagher-named-11th-director-of-jpl-as-laurie-leshin-steps-down/>
+
+---
+
+## Fedora 42 now an official Windows Subsystem for Linux 2 distro
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Modern Linux, vintage kernel</h4> <p>Good news for those fond of crimson headwear – Fedora 42 is now an official distro on Windows Subsystem for Linux 2 (WSL2).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/fedora_42_wsl2_official/>
+
+---
+
+## NASA Expands Youth Engagement With New Scouting America Agreement
+
+date: 2025-05-07, from: NASA breaking news
+
+NASA and the Sam Houston Area Council (SHAC) of Scouting America signed a collaborative Space Act Agreement on December 17, 2024, expanding youth access to programs and opportunities with the Johnson Space Center’s Office of STEM Engagement (OSTEM) in Houston. The agreement forges the first formal partnership between NASA OSTEM and Scouting America. It will [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-expands-youth-engagement-with-new-scouting-america-agreement/>
+
+---
+
+## 90-second Newark blackout exposes parlous state of US air traffic control
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>United Airlines canceling flights as chaos mounts</h4> <p>Air traffic controllers for Newark Liberty International Airport in New Jersey were horrified when all radar and radio equipment, including backup systems, failed last week, cutting communication with aircraft for 90 seconds.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/newark_airport_outage/>
+
+---
+
+## Nutanix stops being so opinionated about where data must dwell
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Shifts data services to containers and goes back to the future with Pure Storage tie-in</h4> <p><strong>Next</strong>  Nutanix is moving beyond its hyperconverged roots by creating containerized versions of its data services and more external storage options, in ways that make it a better target for those migrating away from VMware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/nutanix_next_cloud_native_shift/>
+
+---
+
+## The Molecular Bond That Helps Secure Your Memories
+
+date: 2025-05-07, from: Quanta Magazine
+
+How do memories last a lifetime when the molecules that form them turn over within days, weeks or months? An interaction between two proteins points to a molecular basis for memory.            <p>The post <a href="https://www.quantamagazine.org/the-molecular-bond-that-helps-secure-your-memories-20250507/" target="_blank">The Molecular Bond That Helps Secure Your Memories</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-molecular-bond-that-helps-secure-your-memories-20250507/>
+
+---
+
+## What Is a Black Hole? (Grades 5-8)
+
+date: 2025-05-07, from: NASA breaking news
+
+This article is for students grades 5-8 A black hole is a region in space where the pulling force of gravity is so strong that light is not able to escape. The strong gravity occurs because matter has been pressed into a tiny space. This compression can take place at the end of a star’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-a-black-hole-grades-5-8/>
+
+---
+
+## Human error and power glitches to blame for most outages
+
+date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+
+<h4>Blackouts less frequent in 2024, still a PITA when the datacenter downtime demons visit</h4> <p>Datacenter outages are less frequent and severe, but human error remains one of the most persistent challenges, with between two-thirds and four-fifths of major wobbles involving some element of meatbag-related cause.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/human_error_a_factor_in/>
+
+---
+
+## curl bans “AI” security reports as Zuckerberg claims we’ll all have more “AI” friends than real ones
+
+date: 2025-05-07, from: OS News
+
+Daniel Stenberg, creator and maintainer of curl, has had enough of the neverending torrent of &#8220;AI&#8221;-generated security reports the curl project has to deal with. That&#8217;s it. I&#8217;ve had it. I&#8217;m putting my foot down on this craziness. 1. Every reporter submitting security reports on Hackerone for curl now needs to answer this question: &#8220;Did you use an AI to find the problem or generate this submission?&#8221; (and if they do select it, they can expect a stream of proof of actual intelligence follow-up questions) 2. We now ban every reporter INSTANTLY who submits reports we deem AI slop. A threshold has been reached. We are effectively being DDoSed. If we could, we would charge them for this waste of our time. We still have not seen a single valid security report done with AI help. ↫ Daniel Stenberg This is the real impact of &#8220;AI&#8221;: streams of digital trash real humans have to clean up. While proponents of &#8220;AI&#8221; keep claiming it will increase productivity, actual studies show this not to be the case. Instead, what &#8220;AI&#8221; is really doing is create more work for others to deal with by barfing useless garbage into other people&#8217;s backyards. It&#8217;s like the digital version of the western world sending its trash to third-world countries to deal with. The best possible sign that &#8220;AI&#8221; is a toxic trash heap you wouldn&#8217;t want to have anything to do with are the people fighting for team &#8220;AI&#8221;. In Zuckerberg’s vision for a new digital future, artificial-intelligence friends outnumber human companions and chatbot experiences supplant therapists, ad agencies and coders. AI will play a central role in the human experience, the Facebook co-founder and CEO of Meta Platforms has said in a series of recent podcasts, interviews and public appearances. ↫ Meghan Bobrowsky at the WSJ Mark Zuckerberg, who built his empire by using people&#8217;s photos without permission so he could rank who was hotter, who used Facebook logins to break into journalists&#8217; email accounts because they were about to publish a negative story about him, who called Facebook users &#8220;dumb fucks&#8221; for entrusting their personal information to him, is on the forefront fighting for &#8220;AI&#8221;. If that isn&#8217;t the ultimate proof there&#8217;s something deeply wrong and ethically unsound about &#8220;AI&#8221;, I don&#8217;t know what is. 
+
+<br> 
+
+<https://www.osnews.com/story/142300/curl-bans-ai-security-reports-as-zuckberg-claims-well-all-have-more-ai-friends-than-real-ones/>
 
 ---
 
@@ -215,7 +431,7 @@ Can someone please stop these months from coming and going, because I&#8217;m ge
 
 ## Computacenter IT guy let girlfriend into Deutsche Bank server rooms, says fired whistleblower
 
-date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+date: 2025-05-06, updated: 2025-05-07, from: The Register (UK I.T. News)
 
 <h4>What was the plan, showing her his big iron?</h4> <p>A now-former manager at Computacenter claims he was unfairly fired after alerting management that a colleague was repeatedly giving his girlfriend unauthorized access to Deutsche Bank&#39;s server rooms.…</p> 
 
@@ -246,6 +462,18 @@ The blazar BL Lacertae, a supermassive black hole surrounded by a bright disk an
 <br> 
 
 <https://www.nasa.gov/centers-and-facilities/marshall/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/>
+
+---
+
+## NASA’s IXPE Reveals X-ray-Generating Particles in Black Hole Jets
+
+date: 2025-05-06, from: NASA breaking news
+
+The blazar BL Lacertae, a supermassive black hole surrounded by a bright disk and jets oriented toward Earth, provided scientists with a unique opportunity to answer a longstanding question: How are X-rays generated in extreme environments like this? NASA’s IXPE (Imaging X-ray Polarimetry Explorer) collaborated with radio and optical telescopes to find answers. The results [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/>
 
 ---
 
@@ -395,7 +623,7 @@ NASA is partnering with commercial industry to expand our knowledge of Earth, ou
 
 ## Cerebras CEO actually finds common ground with Nvidia as startup notches IBM win
 
-date: 2025-05-06, updated: 2025-05-06, from: The Register (UK I.T. News)
+date: 2025-05-06, updated: 2025-05-07, from: The Register (UK I.T. News)
 
 <h4>Feldman calls US&#39;s AI Diffusion rules ‘bad policy’</h4> <p>Cerebras Systems&#39; dinner-plate-sized chips currently power the latest AI inference offerings from Meta and, soon, those of IBM, but US trade policy weighs heavy on its prospects worldwide.…</p> 
 

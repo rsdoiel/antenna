@@ -1,11 +1,193 @@
 ---
 title: home
-updated: 2025-05-07 06:09:27
+updated: 2025-05-07 14:10:39
 ---
 
 # home
 
-(date: 2025-05-07 06:09:27)
+(date: 2025-05-07 14:10:39)
+
+---
+
+## Monstera Health Check: Signs Your Plant Is Sick
+
+date: 2025-05-07, from: Family Handyman Blog
+
+<p>Monstera plants are hardy houseplants that grow quickly and last for years. Here's how to tell if it's sick and how to help it thrive.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/monstera-plant-care/">Monstera Health Check: Signs Your Plant Is Sick</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/monstera-plant-care/>
+
+---
+
+## Agreement to Safeguard the Biodiversity of Mount Tamalpais
+
+date: 2025-05-07, from: California Native Plants Society
+
+<p>Plaintiffs including CNPS have a reached a settlement with Marin Municipal Water District over e-bike access that will help safeguard the biodiversity of Mt. Tamalpais.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/agreement-to-safeguard-the-biodiversity-of-mount-tamalpais-43560">Agreement to Safeguard the Biodiversity of Mount Tamalpais</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/agreement-to-safeguard-the-biodiversity-of-mount-tamalpais-43560>
+
+---
+
+## Slim Jims vs. New Car Locks: Do They Still Work?
+
+date: 2025-05-07, from: Family Handyman Blog
+
+<p>No, not the beef jerky stick promoted by wrestler Macho Man Randy Savage. This is about the tool that opens a car door if you've misplaced your keys.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/slim-jims-vs-new-car-locks-do-they-still-work/">Slim Jims vs. New Car Locks: Do They Still Work?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/slim-jims-vs-new-car-locks-do-they-still-work/>
+
+---
+
+## This $1.1M "Floating" Houston Home Was Inspired by a Nearby Freeway
+
+date: 2025-05-07, from: Dwell
+
+Set on a massive cantilevered slab supported by concrete pillars, the residence has serene interiors and a roof deck with skyline views. 
+
+<br> 
+
+<https://www.dwell.com/article/saint-emanuel-house-ronnie-self-houston-real-estate-5c242389>
+
+---
+
+## Deadbolt vs. Door Knob Lock: Do You Really Need Both?
+
+date: 2025-05-07, from: Family Handyman Blog
+
+<p>If the door knob on your front door locks, do you really need the extra expense of a deadbolt? Our panel of experts weighs in.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/deadbolt-door-knob-lock-security/">Deadbolt vs. Door Knob Lock: Do You Really Need Both?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/deadbolt-door-knob-lock-security/>
+
+---
+
+## How to Identify and Control Powdery Mildew in Beets
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>Powdery mildew is a fungal infection that affects a vast number of garden crops, including beets. The pathogen thrives in warm, dry weather and can rapidly reduce your beet harvest as well as making the leaves inedible. Learn how to identify and effectively treat this common disease in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/powdery-mildew-beets/">How to Identify and Control Powdery Mildew in Beets</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/powdery-mildew-beets/>
+
+---
+
+## A Backyard in Norway Gets a Ship-Shaped Addition
+
+date: 2025-05-07, from: Dwell
+
+Its boat-like outline is formed by a log facade with two opposing structures: one is a tree house–esque hideaway, and the other holds a kitchen, dining area, and bathroom. 
+
+<br> 
+
+<https://www.dwell.com/article/folly-at-fair-hill-rever-and-drage-boat-shaped-backyard-addition-8f7f3c58>
+
+---
+
+## The True Meaning Behind the “Made in USA” Label
+
+date: 2025-05-07, from: Family Handyman Blog
+
+<p>Figuring out what made in America means is important to making smart purchasing decisions now and in the future.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/made-in-usa-label/">The True Meaning Behind the &#8220;Made in USA&#8221; Label</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/made-in-usa-label/>
+
+---
+
+## Sofa Sagas: It Took Three Moves in Three Years to Find the Right Couch For Me
+
+date: 2025-05-07, from: Dwell
+
+After a lot of trial and error, I learned a very important lesson about furniture: if it makes you happy, that’s all that matters. 
+
+<br> 
+
+<https://www.dwell.com/article/sofa-saga-lovesac-floyd-32115b6b>
+
+---
+
+## How to Plant and Grow Stinging Nettle in Your Garden
+
+date: 2025-05-07, from: The Gardener's Path
+
+<p>Though often overlooked as an undesirable weed, stinging nettle is an astonishing plant with an abundance of uses, many dating back for thousands of years. Learn to appreciate this forager's favorite and discover tips for growing, harvesting, and using nettle greens Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-stinging-nettle/">How to Plant and Grow Stinging Nettle in Your Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-stinging-nettle/>
+
+---
+
+## Budget Breakdown: An Architect Couple Revamp a "Horror Show" for $191K
+
+date: 2025-05-07, from: Dwell
+
+It looked like a haunted house, but Jean Wang and Alex Warnock-Smith weren’t afraid to live in a fixer-upper as they renovated it throughout the pandemic. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-wang-warnock-smith-terrace-house-renovation-urban-projects-bureau-83c8240f>
+
+---
+
+## Yep, Getting Naked in Nature Is Still Trending. Here’s How to Do It (and Not Get Arrested)
+
+date: 2025-05-07, from: Sunset Magazine - Living in the West
+
+Non-sexualized nudity in nature is still a thing. And it's liberating. Here's where to try the naturist camping trend in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping/naturist-nudist-camping-trend>
+
+---
+
+## Here’s Where You Need to Travel, Based on Your Zodiac Sign
+
+date: 2025-05-07, from: Sunset Magazine - Living in the West
+
+Why not consider lining up your travels with your astrological sign? We're sharing our picks for the best destinations in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/where-to-travel-based-on-zodiac-sign>
+
+---
+
+## 9 Travel Trends You Have to Pay Attention to in 2025
+
+date: 2025-05-07, from: Sunset Magazine - Living in the West
+
+Here are the biggest travel trends to keep an eye out for in 2025, from longevity tourism to psychedelic journeys. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-trends-2025>
 
 ---
 
@@ -51,6 +233,18 @@ date: 2025-05-07, from: The Gardener's Path
 
 ---
 
+## 25 Thoughtful Grad Gift Ideas That Won’t Disappoint
+
+date: 2025-05-07, from: Sunset Magazine - Living in the West
+
+Celebrate commencement with these thoughtful graduation gifts for the high school, college, and graduate school grad. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/graduation-gift-ideas>
+
+---
+
 ## How to Identify and Control Lace Bugs
 
 date: 2025-05-07, from: The Gardener's Path
@@ -91,18 +285,6 @@ date: 2025-05-07, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/40-weeds-with-yellow-flowers-pictures-and-identification/>
-
----
-
-## 25 Thoughtful Grad Gift Ideas That Won’t Disappoint
-
-date: 2025-05-07, from: Sunset Magazine - Living in the West
-
-Celebrate commencement with these thoughtful graduation gifts for the high school, college, and graduate school grad. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/graduation-gift-ideas>
 
 ---
 
@@ -197,6 +379,18 @@ Built in 1975, the Tucson home is now part of the National Register of Historic 
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-ramada-house-tucson-real-estate-1e6841f8>
+
+---
+
+## A Lake Arrowhead Getaway Just Hours From Los Angeles  Lists for $3.4M
+
+date: 2025-05-06, from: Dwell
+
+Natural materials and sparkling lake views abound. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-mountain-retreat-lake-arrowhead-real-estate-b2945462>
 
 ---
 

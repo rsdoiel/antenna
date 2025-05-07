@@ -1,15 +1,151 @@
 ---
 title: food
-updated: 2025-05-07 06:09:30
+updated: 2025-05-07 14:10:41
 ---
 
 # food
 
-(date: 2025-05-07 06:09:30)
+(date: 2025-05-07 14:10:41)
 
 ---
 
-## I Need A Seriously Impressive Dessert Recipe
+## Big Flavors, Bold Innovations: Campbell’s Foodservice Showcases Culinary Reserve, Cape Cod & Kettle Brand Chips, Goldfish, & Barista Series At NRA 2025
+
+date: 2025-05-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Campbell’s Foodservice Returns to the NRA Show with New Menu Inspiration, Standout Products, and Interactive Tastings. 
+
+<br> 
+
+<https://sprudge.com/big-flavors-bold-innovations-campbells-foodservice-showcases-culinary-reserve-cape-cod-kettle-brand-chips-goldfish-barista-series-at-nra-2025-332642.html>
+
+---
+
+## The Crown Announces Second Annual “Development Stage,” A Multi-day Coffee Symposium
+
+date: 2025-05-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Green Coffee Importer Royal Coffee, Inc. will host an event for coffee professionals and enthusiasts at their Oakland, California lab and tasting room, The Crown, on September 12-13, 2025. 
+
+<br> 
+
+<https://sprudge.com/the-crown-announces-second-annual-development-stage-a-multi-day-coffee-symposium-332635.html>
+
+---
+
+## Made In Just Released a Portable Grill—And It’s the Perfect Tool for Tailgaters
+
+date: 2025-05-07, from: Taste of Home
+
+<p>The new, USA-assembled Made In Grill uses a variety of fuel sources and flat top inserts for fully customizable outdoor cooking.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/made-in-grill/">Made In Just Released a Portable Grill—And It&#8217;s the Perfect Tool for Tailgaters</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/made-in-grill/>
+
+---
+
+## Kansas City Barbecue Sauce
+
+date: 2025-05-07, from: Taste of Home
+
+Kick off grilling season with Kansas City barbecue sauce. It satiates everything you’re looking for in a typical barbecue sauce and opens the door to all the other regional varieties. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/kansas-city-barbecue-sauce-2/>
+
+---
+
+## Which Canned Baked Beans Are Best?
+
+date: 2025-05-07, from: Bon Appetet
+
+We tried 9 top-rated brands, including Bush’s, Amy’s, and Heinz to find the best beans for your backyard barbecue. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-canned-baked-beans-taste-test>
+
+---
+
+## Baked Beans Recall: 4,515 Cases of Popular Baked Beans Recalled in 23 States
+
+date: 2025-05-07, from: Taste of Home
+
+<p>Walmart, Meijer, Hy-Vee and other grocery stores sold the beans.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/baked-beans-recall-may-2025/">Baked Beans Recall: 4,515 Cases of Popular Baked Beans Recalled in 23 States</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/baked-beans-recall-may-2025/>
+
+---
+
+## Delta Antoni Faucet Review: How I Upgraded My Apartment
+
+date: 2025-05-07, from: Bon Appetet
+
+I just don’t think, at this age, I’m meant to live an uncomfortable life—that includes a cramped sink with cheap fixtures. 
+
+<br> 
+
+<https://www.bonappetit.com/story/delta-antoni-faucet-review>
+
+---
+
+## The Crowka Pot Is A Moka Pot That’s Shaped Like A Crow
+
+date: 2025-05-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Crowka Pot is live on Kickstarter now. 
+
+<br> 
+
+<https://sprudge.com/the-crowka-pot-is-a-moka-pot-thats-shaped-like-a-crow-332421.html>
+
+---
+
+## Fairtrade Launches ‘LIRP on Demand’ to Streamline Living Income Price Discovery
+
+date: 2025-05-07, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1536x1025.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants.jpg 1814w" sizes="(max-width: 620px) 100vw, 620px" /></div>Global nonprofit Fairtrade International is now offering &#8220;LIRP on Demand,&#8221; a tailored service designed to help coffee companies identify living income reference prices (LIRPs) for farmers in their supply chains.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/07/fairtrade-launches-lirp-on-demand-to-streamline-living-income-price-discovery/>
+
+---
+
+## Column: The True Cost of Brazilian Coffee Goes Far Beyond the Commodity Market
+
+date: 2025-05-07, from: Daily Coffee News
+
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-620x439.jpg" class="attachment-large size-large wp-post-image" alt="Brazil Coffee Production" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Note:&#160;This is Part 3 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence on... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/07/column-the-true-cost-of-brazilian-coffee-goes-far-beyond-the-commodity-market/>
+
+---
+
+## Turkey Club Sandwich
+
+date: 2025-05-07, from: Taste of Home
+
+Learn how to make a turkey club sandwich at home. With six everyday ingredients, it’s perfect as lunch or dinner. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/turkey-club-sandwich/>
+
+---
+
+## I Need a Seriously Impressive Dessert Recipe
 
 date: 2025-05-07, from: Bon Appetet
 
@@ -18,6 +154,18 @@ On this episode of Dinner SOS, the BA Bake Club is back with Jesse’s amazing M
 <br> 
 
 <https://www.bonappetit.com/story/i-need-a-seriously-impressive-dessert-recipe>
+
+---
+
+## Baratza Expands Best-Selling Encore Line with ESP Pro Grinder
+
+date: 2025-05-07, from: Daily Coffee News
+
+<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-620x434.jpg" class="attachment-large size-large wp-post-image" alt="encore-ESP-pro-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-768x537.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee grinder maker Baratza just raised the roof on its entry-level Encore line of home coffee grinders, introducing the Encore ESP Pro. Revealed in conjunction with the Seattle-based company&#8217;s appearance... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/07/baratza-expands-best-selling-encore-line-with-esp-pro-grinder/>
 
 ---
 
@@ -77,7 +225,19 @@ date: 2025-05-07, from: Taste of Home
 
 ---
 
-## The Best Juicers Prove That “Fresh-Squeezed” Doesn’t Have to be a Hassle (2025)
+## Chef Niko Romito Reinvents Italy's Roadside Dining
+
+date: 2025-05-07, from: Bon Appetet
+
+ALT started as a passion project for chef Niko Romito. Today, it's a nationwide movement for better roadside dining on Italian motorways. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-fried-chicken-in-italy-niko-romito-alt-roadside-restaurant>
+
+---
+
+## The Best Juicers Prove That "Fresh-Squeezed" Doesn't Have to be a Hassle (2025)
 
 date: 2025-05-06, from: Bon Appetet
 
@@ -110,6 +270,18 @@ This versatile street taco marinade works wonders on any protein! Why choose jus
 <br> 
 
 <https://www.tasteofhome.com/recipes/tyler-smith-street-taco-marinade/>
+
+---
+
+## Tyler Smith’s Taco Marinade
+
+date: 2025-05-06, from: Taste of Home
+
+This versatile taco marinade works wonders on any protein! Why choose just one type of meat? Marinate a few. This recipe makes enough marinade for about 3 to 4 pounds of meat. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-taco-marinade/>
 
 ---
 
@@ -155,7 +327,7 @@ Give her a Le Creuset kettle, custom stationery for her recipes, or some upgrade
 
 date: 2025-05-06, from: Daily Coffee News
 
-<div><img width="620" height="435" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-620x435.jpg" class="attachment-large size-large wp-post-image" alt="cup of coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-620x435.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As of April 28, 2025, most standard cups of black coffee or espresso shots can be labeled as &#8220;healthy&#8221; in the United States. The U.S. Food and Drug Administration (FDA)... 
+<div><img width="620" height="435" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-620x435.jpg" class="attachment-large size-large wp-post-image" alt="cup of coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-620x435.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/cup-of-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>As of April 28, 2025, most standard cups of black coffee or espresso shots can be labeled as &#8220;healthy&#8221; in the United States. The U.S. Food and Drug Administration (FDA)... 
 
 <br> 
 
@@ -179,7 +351,7 @@ Achieve a perfectly juicy marinated London broil thanks to one secret ingredient
 
 date: 2025-05-06, from: Daily Coffee News
 
-<div><img width="620" height="363" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-620x363.jpg" class="attachment-large size-large wp-post-image" alt="images_3dp.2023.0342_figure10" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-620x363.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-300x175.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-150x88.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-768x449.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A research team at the University of Washington recently developed a 3D printing method that could transform post-consumer coffee waste into useful, yet compostable, materials similar to custom-shaped polystyrene foam.... 
+<div><img width="620" height="363" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-620x363.jpg" class="attachment-large size-large wp-post-image" alt="images_3dp.2023.0342_figure10" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-620x363.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-300x175.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-150x88.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10-768x449.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/images_3dp.2023.0342_figure10.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A research team at the University of Washington recently developed a 3D printing method that could transform post-consumer coffee waste into useful, yet compostable, materials similar to custom-shaped polystyrene foam.... 
 
 <br> 
 
@@ -203,7 +375,7 @@ date: 2025-05-06, from: The Sprudge
 
 date: 2025-05-06, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2025 new coffee equipment" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Beyond the roasters, grinders and brewing devices to which &#8220;making coffee&#8221; is generally credited, there&#8217;s a whole world of tools and accessories that can affect the end product.&#160;&#160; The show... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="2025 new coffee equipment" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/2025-new-coffee-equipment.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Beyond the roasters, grinders and brewing devices to which &#8220;making coffee&#8221; is generally credited, there&#8217;s a whole world of tools and accessories that can affect the end product.&#160;&#160; The show... 
 
 <br> 
 

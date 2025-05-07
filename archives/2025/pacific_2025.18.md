@@ -1,11 +1,62 @@
 ---
 title: pacific
-updated: 2025-05-07 06:09:22
+updated: 2025-05-07 14:10:34
 ---
 
 # pacific
 
-(date: 2025-05-07 06:09:22)
+(date: 2025-05-07 14:10:34)
+
+---
+
+## Pacific civil society hits US executive order and TMC’s deep-sea mining plans
+
+date: 2025-05-07, from: Pacific Island Times
+
+The Pacific Blue Line Collective, which includes groups such as Development Alternatives with Women for a New Era (DAWN), Pacific Network on Globalization (PANG) and the World Wide Fund for Nature Pacific, described the move as illegal and dangerous.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-civil-society-hits-us-executive-order-and-tmc-s-deep-sea-mining-plans>
+
+---
+
+## Cast your vote: choose the 2025 HI Pride T-Shirt winner!
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Voting closes May 18, 2025 at noon&#8212;don’t miss out!</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/vote-2025-hi-pride-t-shirt/">Cast your vote: choose the 2025 HI Pride T-Shirt winner!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/vote-2025-hi-pride-t-shirt/>
+
+---
+
+## Image of the week: Fashion show
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa and Honolulu <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/image-of-the-week-fashion-show/">Image of the week: Fashion show</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/image-of-the-week-fashion-show/>
+
+---
+
+## Real-time weather dashboard launched by UH
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hawaii">Hawai&#699;i</span> Mesonet’s data has the potential to inform planning and decision-making in emergency management, agriculture, water resource, conservation and many other sectors.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/hawaii-mesonet-dashboard-launch/">Real-time weather dashboard launched by <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/hawaii-mesonet-dashboard-launch/>
 
 ---
 

@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-05-07 06:09:26
+updated: 2025-05-07 14:10:38
 ---
 
 # journalism
 
-(date: 2025-05-07 06:09:26)
+(date: 2025-05-07 14:10:38)
+
+---
+
+## USC names vice president for new behavioral health department
+
+date: 2025-05-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Dr. Steven Siegel will coordinate mental health and wellness programs in a new office of University Behavioral Health.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/07/usc-names-vice-president-for-new-behavioral-health-department/">USC names vice president for new behavioral health department</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/07/usc-names-vice-president-for-new-behavioral-health-department/>
+
+---
+
+## Mexican-American Film & Television Festival highlights important Latino stories and filmmakers
+
+date: 2025-05-07, from: The Sundail (CSUN Student Newspaper)
+
+As attendees were led onto the Harmony Gold theater from the red carpet, the shine of the Mexican-American Film &#38; Television Festival (MAFTF)&#8217;s “Illustrious Awards” statuettes glimmered. The statuettes celebrated... 
+
+<br> 
+
+<https://sundial.csun.edu/193497/arts-entertainment/culture-illanes-mexican-american-film-television-festival/>
+
+---
+
+## Associated Students formally condemns executive orders targeting higher education
+
+date: 2025-05-07, from: The Sundail (CSUN Student Newspaper)
+
+The Board of Directors for CSUN’s Associated Students (AS) voted to pass a resolution on May 5 titled “Condemning Federal Actions from President Donald Trump and the Executive Branch. &#8221;... 
+
+<br> 
+
+<https://sundial.csun.edu/193492/news/associated-students-formally-condemns-executive-orders-targeting-higher-education/>
 
 ---
 

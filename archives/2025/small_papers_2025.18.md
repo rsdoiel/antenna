@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-05-07 06:09:30
+updated: 2025-05-07 14:10:42
 ---
 
 # small papers
 
-(date: 2025-05-07 06:09:30)
+(date: 2025-05-07 14:10:42)
+
+---
+
+## Tariffs begin to batter Long Beach Port; expect ripple effects across the U.S. soon, officials say
+
+date: 2025-05-07, from: Long Beach Post
+
+<figure><img width="1000" height="514" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg 1000w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There’s a steep drop in ships docking. That means fewer jobs for longshoremen and — soon — shortages in stores, Port of Long Beach leaders say.</p>
+<p>The post <a href="https://lbpost.com/news/ports/tariffs-port-of-long-beach-effects-longshore-workers-shortages">Tariffs begin to batter Long Beach Port; expect ripple effects across the U.S. soon, officials say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/ports/tariffs-port-of-long-beach-effects-longshore-workers-shortages>
+
+---
+
+## LA County Declares Hepatitis A Outbreak, Urges Vaccination
+
+date: 2025-05-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="353" height="206" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Hepatitis-A.jpg?fit=353%2C206&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="photo shows illustration of the Hepatitis A" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Hepatitis-A.jpg?w=353&amp;ssl=1 353w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Hepatitis-A.jpg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Hepatitis-A.jpg?fit=353%2C206&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Hepatitis-A.jpg?fit=353%2C206&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; The Los Angeles County Department of Public Health declared Monday, May 5, a community-wide outbreak of hepatitis A, citing a sustained rise in cases and elevated [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/05/07/la-county-declares-hepatitis-a-outbreak-urges-vaccination/">LA County Declares Hepatitis A Outbreak, Urges Vaccination</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/05/07/la-county-declares-hepatitis-a-outbreak-urges-vaccination/>
+
+---
+
+## 2 men dead in wrong-way crash on 7th Street, Long Beach police say
+
+date: 2025-05-07, from: Long Beach Post
+
+<figure><img width="1024" height="608" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-1024x608.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-1024x608.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-300x178.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-768x456.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-182x108.jpg 182w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-1200x713.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-400x238.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ.jpg 1409w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The wreck happened at about 6:20 this morning just east of Recreation Park.</p>
+<p>The post <a href="https://lbpost.com/news/crime/7th-street-crash-long-beach-wrong-way-fatal">2 men dead in wrong-way crash on 7th Street, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/7th-street-crash-long-beach-wrong-way-fatal>
 
 ---
 
@@ -13,7 +58,7 @@ updated: 2025-05-07 06:09:30
 
 date: 2025-05-06, from: Long Beach Post
 
-<figure><img width="1024" height="640" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-300x188.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-768x480.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1200x750.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-400x250.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd.jpg 1467w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="640" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-300x188.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-768x480.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1200x750.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-400x250.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd.jpg 1467w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The bones belong to a person who appeared to be over 40 years old, but other than that, there’s little firm info, according to investigators.</p>
 <p>The post <a href="https://lbpost.com/news/bones-beach-id-dna-junipero-police-update">Authorities hope DNA testing will help identify human bones found on beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +73,7 @@ date: 2025-05-06, from: Long Beach Post
 
 date: 2025-05-06, from: Long Beach Post
 
-<figure><img width="1024" height="665" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-300x195.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-768x498.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-166x108.jpeg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1536x997.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1200x779.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1568x1018.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-400x260.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318.jpeg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="665" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-300x195.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-768x498.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-166x108.jpeg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1536x997.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1200x779.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1568x1018.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-400x260.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318.jpeg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the Long Beach teenager was taken into custody on suspicion of murder.</p>
 <p>The post <a href="https://lbpost.com/news/grand-prix-shooting-arrest-15-year-old-long-beach">Police arrest 15-year-old suspect in deadly shooting outside Long Beach Grand Prix</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

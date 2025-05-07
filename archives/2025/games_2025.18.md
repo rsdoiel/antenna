@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-05-07 06:09:25
+updated: 2025-05-07 14:10:37
 ---
 
 # games
 
-(date: 2025-05-07 06:09:25)
+(date: 2025-05-07 14:10:37)
+
+---
+
+## Netflix will release Poop Cruise this summer
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+Netflix’s docu-series output is rarely a point of concern for those of us at Polygon, but when I get an email that says “Poop Cruise” is coming this summer to the streamer, I feel compelled to issue a warning. Consider yourself warned. Poop Cruise, from director James Ross, is one chapter of Trainwreck, a new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598050/poop-cruise-netflix-good-lord>
+
+---
+
+## Here’s when you can buy the Mace Windu skin in Fortnite
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+Fortnite is in the midst of a month-long Star Wars celebration, complete with a free stormtrooper skin, a new battle pass and more. While a huge chunk of new Star Wars cosmetics dropped right at the start of the new season, there are still a few already-revealed skins that haven’t been released yet. Darth Jar [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite/598017/mace-windu-lightsaber-fortnite-leak>
+
+---
+
+## Every MCU movie, ranked
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+The latest installment in the Marvel Cinematic Universe, Thunderbolts*, closes out the franchise’s messy, delayed, heavily revised Phase 5, and points toward a cleaner direction for Phase 6 —&#160;one where every story might still be based in more than 15 years of MCU history, but where the creators know how important it is to keep [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst>
+
+---
+
+## All the new video games launching in 2025
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+After a brutal year for the video game industry, 2025 is looking brighter and much busier&#160;— Nintendo promises to deliver the Switch 2 this summer with a bunch of new games to launch with it. While Grand Theft Auto 6 won’t make its previously announced 2025 release date, video game fans can count on big [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming>
+
+---
+
+## Holy crap, Stephen King’s Long Walk movie is finally real, and the footage looks terrific
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+For longtime Stephen King fans, “The movie version of The Long Walk is on its way” may sound like a cruel tease — and a familiar one, at that. King’s 1979 novel (written under his Richard Bachman pseudonym) has been heading toward theoretical film production since at least 1988, when Night of the Living Dead director [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/597917/stephen-king-long-walk-movie-first-trailer>
+
+---
+
+## PlayStation has a new internal studio spun out from Bungie
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+The PlayStation Studios ranks are growing with the addition of TeamLFG, a development studio born out of Destiny 2 and Marathon developer Bungie, Sony Interactive Entertainment CEO Hermen Hulst announced Wednesday. teamLFG was built as an incubation project at Bungie, Hulst said, and is “now fully formed and ready to be introduced to the world.” [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/597955/playstation-studios-bungie-spinoff-team-lfg-new-game>
+
+---
+
+## Images of Xbox-branded PC handheld leak
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+The previously reported Xbox-branded PC handheld seems to have appeared in leaked images linked to a Federal Communications Commission filing. Spoilers: It’s a black Asus ROG Ally 2, with a little Xbox button on it. The photos were surfaced by Videocardz and Indonesian site 91mobiles from an Indonesian certification filing, itself linked to a listing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/xbox/597941/xbox-pc-handheld-images-leak>
+
+---
+
+## Genshin Impact introduces age-gating as part of loot box crackdown
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+Genshin Impact will require all its players in the U.S. to verify their age by July, in order to comply with a settlement between developer HoYoverse and the Federal Trade Commission over the game’s gacha mechanics. As part of the $20 million settlement, HoYoverse is forbidden from selling loot boxes to children under 16 without [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact/597934/genshin-impact-age-verification>
 
 ---
 

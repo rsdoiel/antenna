@@ -28,7 +28,479 @@
 Items collected from feeds in <a href="snapshots.txt">snapshots.txt</a>
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-05-07 06:09:31)</p>
+<p>(date: 2025-05-07 14:10:43)</p>
+<hr />
+<h2
+id="lilbits-raspberry-pi-os-and-nvidia-shield-tv-updates-googles-tiny-taskbar-for-android-phones-and-dynabooks-arrow-lake-laptops">Lilbits:
+Raspberry Pi OS and NVIDIA Shield TV updates, Google’s “tiny taskbar”
+for Android phones, and Dynabook’s Arrow Lake laptops</h2>
+<p>date: 2025-05-07, from: Liliputing</p>
+<p>
+Multitasking on a phone has never been a great experience. While modern
+mobile operating systems offers tools for quickly switching between apps
+or even viewing multiple apps in a split-screen mode, the relatively
+small displays on phones make it hard to offer a true desktop-like
+experience with floating windows that can be moved and resized. […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lilbits-raspberry-pi-os-and-nvidia-shield-tv-updates-googles-tiny-taskbar-for-android-phones-and-dynabooks-arrow-lake-laptops/">Lilbits:
+Raspberry Pi OS and NVIDIA Shield TV updates, Google’s “tiny taskbar”
+for Android phones, and Dynabook’s Arrow Lake laptops</a> appeared first
+on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lilbits-raspberry-pi-os-and-nvidia-shield-tv-updates-googles-tiny-taskbar-for-android-phones-and-dynabooks-arrow-lake-laptops/"
+class="uri">https://liliputing.com/lilbits-raspberry-pi-os-and-nvidia-shield-tv-updates-googles-tiny-taskbar-for-android-phones-and-dynabooks-arrow-lake-laptops/</a></p>
+<hr />
+<h2 id="llm-prices.com">llm-prices.com</h2>
+<p>date: 2025-05-07, updated: 2025-05-07, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://www.llm-prices.com/">llm-prices.com</a></strong>
+</p>
+I’ve been maintaining a simple LLM pricing calculator since
+<a href="https://github.com/simonw/tools/commits/main/llm-prices.html">October
+last year</a>. I finally decided to split it out to its own domain name
+(previously it was hosted at
+<code>tools.simonwillison.net/llm-prices</code>), running on Cloudflare
+Pages.
+</p>
+<p>
+<img alt="Screenshot of the llm-prices.com site - on the left is a calculator interface for entering number of input tokens, output tokens and price per million of each. On the right is a table of models and their prices, sorted cheapest first." src="https://static.simonwillison.net/static/2025/llm-prices.jpg" />
+</p>
+<p>
+The site runs out of my
+<a href="https://github.com/simonw/llm-prices">simonw/llm-prices</a>
+GitHub repository. I ported
+<a href="https://github.com/simonw/llm-prices/commits/b45e8f9c718c4ad3ab50b906a2c3882cbcffcb5b/index.html">the
+history</a> of the old <code>llm-prices.html</code> file using a
+vibe-coded bash script that I forgot to save anywhere.
+</p>
+<p>
+I rarely use AI-generated imagery in my own projects, but for this one I
+found an excellent reason to use GPT-4o image outputs… to generate the
+favicon! I dropped a screenshot of the site into ChatGPT (o4-mini-high
+in this case) and asked for the following:
+</p>
+<blockquote>
+<p>
+design a bunch of options for favicons for this site in a single image,
+white background
+</p>
+</blockquote>
+<p>
+<img alt="A 3x3 grid of simple icon concepts: green coins/circles, a green price tag with dollar sign, a calculator with dollar sign, a calculator with plus sign, a blue chat bubble with three dots, a green brain icon, the letters &quot;AI&quot; in dark gray, a document with finger pointing at it, and green horizontal bars of decreasing size." src="https://static.simonwillison.net/static/2025/favicon-options.jpg" />
+</p>
+<p>
+I liked the top right one, so I cropped it into Pixelmator and made a
+32x32 version. Here’s what it looks like in my browser:
+</p>
+<p>
+<img alt="A cropped web browser showing the chosen favicon - it's a calculator with a dollar sign overlapping some of the keys." src="https://static.simonwillison.net/static/2025/favicon-live.png" />
+</p>
+<p>
+I added a new feature just now: the state of the calculator is now
+reflected in the <code>#fragment-hash</code> URL of the page, which
+means you can link to your previous calculations.
+</p>
+<p>
+I implemented that feature using
+<a href="https://simonwillison.net/2025/May/6/gemini-25-pro-preview/">the
+new gemini-2.5-pro-preview-05-06</a>, since that model boasts improved
+front-end coding abilities. It did a pretty great job - here’s how I
+prompted it:
+</p>
+<pre><code>llm -m gemini-2.5-pro-preview-05-06 -f https://www.llm-prices.com/ -s 'modify this code so that the state of the page is reflected in the fragmenth hash URL - I want to capture the values filling out the form fields and also the current sort order of the table. These should be respected when the page first loads too. Update them using replaceHistory, no need to enable the back button.'
+</code></pre>
+<p>
+<p>Here’s
+<a href="https://gist.github.com/simonw/9d4e15b58ccfaca9e08747225cb69fa2">the
+transcript</a> and
+<a href="https://github.com/simonw/llm-prices/commit/c9eee704d070d119e6c342d9a7ab6c41d09550dd">the
+commit updating the tool</a>, plus
+<a href="https://www.llm-prices.com/#it=5883&amp;ot=7758&amp;ic=1.25&amp;oc=10&amp;sb=input&amp;sd=descending">an
+example link</a> showing the new feature in action (and calculating the
+cost for that Gemini 2.5 Pro prompt at 8.4934 cents.)</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/vibe-coding&quot;&gt;vibe-coding&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/projects&quot;&gt;projects&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-pricing&quot;&gt;llm-pricing&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/favicons&quot;&gt;favicons&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/cloudflare&quot;&gt;cloudflare&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/text-to-image&quot;&gt;text-to-image&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/gemini&quot;&gt;gemini&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/May/7/llm-prices/#atom-everything"
+class="uri">https://simonwillison.net/2025/May/7/llm-prices/#atom-everything</a></p>
+<hr />
+<h2
+id="i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident">‘I
+Loved That AI:’ Judge Moved by AI-Generated Avatar of Man Killed in Road
+Rage Incident</h2>
+<p>date: 2025-05-07, from: 404 Media Group</p>
+<p>How the sister of Christopher Pelkey made an avatar of him to testify
+in court.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/"
+class="uri">https://www.404media.co/i-loved-that-ai-judge-moved-by-ai-generated-avatar-of-man-killed-in-road-rage-incident/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-05-07, from: Robert’s feed at
+BlueSky)</p>
+<p>👇</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lom52ftuic2w"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3lom52ftuic2w</a></p>
+<hr />
+<h2 id="astral-shty">astral-sh/ty</h2>
+<p>date: 2025-05-07, updated: 2025-05-07, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://github.com/astral-sh/ty">astral-sh/ty</a></strong>
+</p>
+Astral have been working on this “extremely fast Python type checker and
+language server, written in Rust”
+<a href="https://simonwillison.net/2025/Jan/29/charlie-marsh/">quietly
+but in-the-open</a> for a while now. Here’s the first alpha public
+release - albeit
+<a href="https://news.ycombinator.com/item?id=43918484#43919354">not yet
+announced</a> - as <a href="https://pypi.org/project/ty/">ty</a> on PyPI
+(nice
+<a href="https://news.ycombinator.com/item?id=43918484#43920112">donated</a>
+two-letter name!)
+</p>
+<p>
+You can try it out via
+<a href="https://docs.astral.sh/uv/guides/tools/#running-tools">uvx</a>
+like this - run the command in a folder full of Python code and see what
+comes back:
+</p>
+<pre><code>uvx ty check
+</code></pre>
+<p>
+I got zero errors for my recent, simple
+<a href="https://github.com/simonw/condense-json">condense-json</a>
+library and a <em>ton</em> of errors for my more mature
+<a href="https://sqlite-utils.datasette.io/">sqlite-utils</a> library -
+<a href="https://gist.github.com/simonw/a13e1720b03e23783ae668eca7f6f12a">output
+here</a>.
+</p>
+<p>
+It really is <em>fast</em>:
+</p>
+<pre><code>cd /tmp
+git clone https://github.com/simonw/sqlite-utils
+cd sqlite-utils
+time uvx ty check
+</code></pre>
+<p>
+Reports it running in around a tenth of a second (0.109 total wall time)
+using multiple CPU cores:
+</p>
+<pre><code>uvx ty check  0.18s user 0.07s system 228% cpu 0.109 total
+</code></pre>
+<p>
+Running <code>time uvx mypy .</code> in the same folder (both after
+first ensuring the underlying tools had been cached) took around 7x
+longer:
+</p>
+<pre><code>uvx mypy .  0.46s user 0.09s system 74% cpu 0.740 total
+</code></pre>
+<p>
+<p>This isn’t a fair comparison yet as ty still isn’t feature complete
+in comparison to mypy.</p>
+<pre><code>&lt;p&gt;&lt;small&gt;&lt;/small&gt;Via &lt;a href=&quot;https://news.ycombinator.com/item?id=43918484&quot;&gt;Hacker News&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/uv&quot;&gt;uv&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/astral&quot;&gt;astral&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/rust&quot;&gt;rust&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/python&quot;&gt;python&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/pypi&quot;&gt;pypi&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/mypy&quot;&gt;mypy&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a href="https://simonwillison.net/2025/May/7/ty/#atom-everything"
+class="uri">https://simonwillison.net/2025/May/7/ty/#atom-everything</a></p>
+<hr />
+<h2 id="it-seems-like-the-sucker-was-there-all-along">It Seems Like the
+Sucker Was There All Along</h2>
+<p>date: 2025-05-07, updated: 2025-05-07, from: One Foot Tsunami</p>
+<p><br></p>
+<p><a
+href="https://onefoottsunami.com/2025/05/07/it-seems-like-the-sucker-was-there-all-along/"
+class="uri">https://onefoottsunami.com/2025/05/07/it-seems-like-the-sucker-was-there-all-along/</a></p>
+<hr />
+<h2 id="free-with-in-app-purchase-is-a-sham">Free With In-App Purchase
+Is a Sham</h2>
+<p>date: 2025-05-07, from: Michael Tsai</p>
+<p>Jeff Johnson: The problem is that what Apple means here by “free” as
+opposed to “paid” is simply that you don’t have to pay before
+downloading the app, but Apple’s counterintuitive definition tends to
+obscure what is most important to consumers: how much you have to pay to
+use the app. The range of allowed […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/05/07/free-with-in-app-purchase-is-a-sham/"
+class="uri">https://mjtsai.com/blog/2025/05/07/free-with-in-app-purchase-is-a-sham/</a></p>
+<hr />
+<h2 id="external-payments-from-the-patreon-app">External Payments From
+the Patreon App</h2>
+<p>date: 2025-05-07, from: Michael Tsai</p>
+<p>Sarah Perez: Creator platform Patreon has rolled out an updated
+version of its app that now allows users to make purchases via the web,
+in the wake of the Apple-Epic court ruling that forced Apple to allow
+app developers to include links to alternative forms of payment without
+being subject to Apple’s commission.Previously, on version […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/05/07/external-payments-from-the-patreon-app/"
+class="uri">https://mjtsai.com/blog/2025/05/07/external-payments-from-the-patreon-app/</a></p>
+<hr />
+<h2 id="fortnite-coming-back-to-the-app-store">Fortnite Coming Back to
+the App Store?</h2>
+<p>date: 2025-05-07, from: Michael Tsai</p>
+<p>Juli Clover: Epic Games CEO Tim Sweeney said over the weekend (via
+The Verge) that Epic will use its Epic Games Sweden account to submit
+Fortnite to the App Store in the U.S. Apparently, Sweeney has spoken to
+Apple about the issue, and based on his wording, it sounds like Apple
+could allow the plan, […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/05/07/fortnite-coming-back-to-the-app-store/"
+class="uri">https://mjtsai.com/blog/2025/05/07/fortnite-coming-back-to-the-app-store/</a></p>
+<hr />
+<h2 id="ios-19-more-like-macos">iOS 19 More Like macOS?</h2>
+<p>date: 2025-05-07, from: Michael Tsai</p>
+<p>Joe Rossignol: Bloomberg’s Mark Gurman today said that iPadOS 19 will
+be “more like macOS.”Gurman said that iPadOS 19 will be “more like a
+Mac” in three ways:Improved productivityImproved multitaskingImproved
+app window management Previous discussion of the rumored redesign had
+focused on fears of macOS becoming more like iOS or iOS becoming more
+like visionOS, […]</p>
+<p><br></p>
+<p><a href="https://mjtsai.com/blog/2025/05/07/ios-19-more-like-macos/"
+class="uri">https://mjtsai.com/blog/2025/05/07/ios-19-more-like-macos/</a></p>
+<hr />
+<h2
+id="interrupt-is-a-handheld-linux-pc-and-wireless-hacking-tool-crowdfunding-a-raspberry-pi-powered-flipper-zero-alternative-with-a-qwerty-keyboard">Interrupt
+is a handheld Linux PC and wireless hacking tool (Crowdfunding a
+Raspberry Pi-powered Flipper Zero alternative with a QWERTY
+keyboard)</h2>
+<p>date: 2025-05-07, from: Liliputing</p>
+<p>
+The Interrupt is a handheld computer with a QWERTY keyboard for thumb
+typing, a 3.5 inch IPS LCD color display, and a Kali Linux-based
+operating system. But while you can use it as a general purpose device,
+it’s really designed as a sort of Flipper Zero-like system for tinkering
+with nearby wireless devices. In addition to WiFi […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/interrupt-is-a-handheld-linux-pc-and-wireless-hacking-tool-crowdfunding-a-raspberry-pi-powered-flipper-zero-alternative-with-a-qwerty-keyboard/">Interrupt
+is a handheld Linux PC and wireless hacking tool (Crowdfunding a
+Raspberry Pi-powered Flipper Zero alternative with a QWERTY
+keyboard)</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://v2.kickstarter.com/1746637933-Jua61X1iyN3adASC%2B0ALcVnxMkwYSyTpfJYc18Rqde0%3D/projects/5051809/video-1358000-h264_high.mp4"></source>
+</video>
+<a href="https://v2.kickstarter.com/1746637933-Jua61X1iyN3adASC%2B0ALcVnxMkwYSyTpfJYc18Rqde0%3D/projects/5051809/video-1358000-h264_high.mp4" target="_blank">download
+video/mp4</a></p>
+<p><a
+href="https://liliputing.com/interrupt-is-a-handheld-linux-pc-and-wireless-hacking-tool-crowdfunding-a-raspberry-pi-powered-flipper-zero-alternative-with-a-qwerty-keyboard/"
+class="uri">https://liliputing.com/interrupt-is-a-handheld-linux-pc-and-wireless-hacking-tool-crowdfunding-a-raspberry-pi-powered-flipper-zero-alternative-with-a-qwerty-keyboard/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-05-07, from: Feed for Alt USDS)</p>
+<p>#altCitizen all day long</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.altgov.info/post/3lolxnowh2k2b"
+class="uri">https://bsky.app/profile/altusds.altgov.info/post/3lolxnowh2k2b</a></p>
+<hr />
+<h2
+id="running-for-re-election-in-the-2025-w3c-advisory-board-ab-election"><default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14">Running
+For Re-election in the 2025 W3C Advisory Board (AB)
+Election</default:div></h2>
+<p>date: 2025-05-07, updated: 2025-05-07, from: Tantek Çelik’s blog</p>
+<p><br></p>
+<p><a
+href="https://tantek.com/2025/127/b1/running-for-w3c-advisory-board-ab-election"
+class="uri">https://tantek.com/2025/127/b1/running-for-w3c-advisory-board-ab-election</a></p>
+<hr />
+<h2 id="the-curious-about-everything-newsletter-50">The Curious About
+Everything Newsletter #50</h2>
+<p>date: 2025-05-07, from: Curious about everything blog</p>
+<p>The many interesting things I read in April 2025</p>
+<p><br></p>
+<p><a href="https://jodiettenberg.substack.com/p/fifty"
+class="uri">https://jodiettenberg.substack.com/p/fifty</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-07, from: Dave Winer’s linkblog)</p>
+<p>Bernie Sanders pleads with Shari Redstone not to settle Trump
+lawsuit.</p>
+<p><br></p>
+<p><a href="https://wapo.st/3EXE6uM"
+class="uri">https://wapo.st/3EXE6uM</a></p>
+<hr />
+<h2
+id="signal-clone-telemessage-deleted-video-about-how-it-worksheres-what-it-said">Signal
+Clone TeleMessage Deleted Video About How It Works—Here’s What It
+Said</h2>
+<p>date: 2025-05-07, from: 404 Media Group</p>
+<p>A hacker compromised TeleMessage, a company that provides Signal chat
+archiving services to the Trump administration. TeleMessage has now
+hidden a video on YouTube that explained its Signal service.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/signal-clone-telemessage-deleted-video-about-how-it-works-heres-what-it-said/"
+class="uri">https://www.404media.co/signal-clone-telemessage-deleted-video-about-how-it-works-heres-what-it-said/</a></p>
+<hr />
+<h2
+id="beelink-gtr9-pro-is-an-amd-strix-halo-mini-pc-that-looks-like-a-mac-studio">Beelink
+GTR9 Pro is an AMD Strix Halo mini PC (that looks like a Mac
+Studio)</h2>
+<p>date: 2025-05-07, from: Liliputing</p>
+<p>
+AMD’s Ryzen AI Max “Strix Halo” processors are high-performance mobile
+chips with integrated graphics that can rival a discrete GPU, an NPU
+capable of delivering up to 50 TOPS of hardware-accelerated AI
+performance, and up to 16 Zen 5 series CPU cores. While they’re designed
+for gaming laptops (and tablets), mobile workstation-class notebooks,
+and mini […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/beelink-gtr9-pro-is-an-amd-strix-halo-mini-pc-that-looks-like-a-mac-studio/">Beelink
+GTR9 Pro is an AMD Strix Halo mini PC (that looks like a Mac Studio)</a>
+appeared first on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/beelink-gtr9-pro-is-an-amd-strix-halo-mini-pc-that-looks-like-a-mac-studio/"
+class="uri">https://liliputing.com/beelink-gtr9-pro-is-an-amd-strix-halo-mini-pc-that-looks-like-a-mac-studio/</a></p>
+<hr />
+<h2 id="monster-los-ángulos-de-la-verdad-y-la-felicidad">Monster: los
+ángulos de la verdad y la felicidad</h2>
+<p>date: 2025-05-07, from: Iván Paredes Reséndiz blog, Mexico’s
+cinema</p>
+<p>
+Disponible en: MUBI. Dirección: Hirokazu Kore-eda. Guion: Yuji Sakamoto.
+País: Japón. Elenco: Soya Kurokawa, Hinata Hiiragi, Sakura Ando, Eita
+Nagayama, Yuko Tanaka, Mitsuki Takahata, Akihiro Kakuta, Shido Nakamura.
+Más información de la película: https://www.imdb.com/title/tt23736044/
+Por allá en 1950, Akira Kurosawa, uno de los directores más importantes
+de la historia, estrenó Rashomon, una película que dejaría […]
+</p>
+<p>
+La entrada
+<a href="https://www.palomitademaiz.net/resenas-monster/">Monster: los
+ángulos de la verdad y la felicidad</a> se publicó primero en
+<a href="https://www.palomitademaiz.net">Palomita de maíz</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://www.palomitademaiz.net/resenas-monster/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resenas-monster"
+class="uri">https://www.palomitademaiz.net/resenas-monster/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resenas-monster</a></p>
+<hr />
+<h2
+id="two-models-of-the-asus-rog-ally-2-handheld-gaming-pc-leaked-by-regulatory-sites">Two
+models of the Asus ROG Ally 2 handheld gaming PC leaked by regulatory
+sites</h2>
+<p>date: 2025-05-07, from: Liliputing</p>
+<p>
+The next-gen Asus ROG Ally handheld gaming PC may come in at least two
+different versions, based on leaked pictures and specs spotted at
+wireless regulatory agency websites. One model is the Asus ROG Ally 2
+(RC73X1) with a black body and a dedicated Xbox button, suggesting that
+this could be the first Xbox-branded (or […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/two-models-of-the-asus-rog-ally-2-handheld-gaming-pc-leaked-by-regulatory-sites/">Two
+models of the Asus ROG Ally 2 handheld gaming PC leaked by regulatory
+sites</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/two-models-of-the-asus-rog-ally-2-handheld-gaming-pc-leaked-by-regulatory-sites/"
+class="uri">https://liliputing.com/two-models-of-the-asus-rog-ally-2-handheld-gaming-pc-leaked-by-regulatory-sites/</a></p>
+<hr />
+<h2
+id="what-is-pureos-a-beginners-guide-for-ios-android-and-windows-users">What
+Is PureOS? A Beginner’s Guide for iOS, Android, and Windows Users</h2>
+<p>date: 2025-05-07, from: Purism News and Events</p>
+<p>
+In today’s world, privacy and control over your digital life have become
+rare luxuries. Every tap, swipe, and click on most smartphones and PCs
+is tracked, analyzed, and monetized—usually without your explicit
+consent. That’s where PureOS comes in. So What Is PureOS? PureOS is a
+privacy-focused, secure, and open-source operating system developed by
+Purism. It’s […]
+</p>
+<p>
+The post
+<a rel="nofollow" href="https://puri.sm/posts/what-is-pureos-a-beginners-guide-for-ios-android-and-windows-users/">What
+Is PureOS? A Beginner’s Guide for iOS, Android, and Windows Users</a>
+appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://puri.sm/posts/what-is-pureos-a-beginners-guide-for-ios-android-and-windows-users/"
+class="uri">https://puri.sm/posts/what-is-pureos-a-beginners-guide-for-ios-android-and-windows-users/</a></p>
+<hr />
+<h2
+id="dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration">Dora
+the Explorer Teaches About ‘Sigma,’ an Extremely Toxic Male
+Aspiration</h2>
+<p>date: 2025-05-07, from: 404 Media Group</p>
+<p>Nickelodeon’s cartoon character tells kids why it’s cool to be a kind
+of toxic male that comes from the darkest corners of the manosphere.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration/"
+class="uri">https://www.404media.co/dora-the-explorer-teaches-about-sigma-an-extremely-toxic-male-aspiration/</a></p>
+<hr />
+<h2 id="how-to-build-a-company-without-losing-your-soul">How to Build a
+Company Without Losing Your Soul</h2>
+<p>date: 2025-05-07, from: Guy Kawasaki blog</p>
+<p>Building a successful startup without losing your soul is like
+surfing a massive wave—you need balance, focus, and a deep respect for
+the forces at play.</p>
+<p><br></p>
+<p><a
+href="https://guykawasaki.substack.com/p/how-to-build-a-company-without-losing"
+class="uri">https://guykawasaki.substack.com/p/how-to-build-a-company-without-losing</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-07, from: Dave Winer’s linkblog)</p>
+<p>Biden BBC interview: Trump appeasing Putin with pressure on
+Ukraine.</p>
+<p><br></p>
+<p><a href="https://www.bbc.com/news/articles/c0m9mvemxrwo"
+class="uri">https://www.bbc.com/news/articles/c0m9mvemxrwo</a></p>
+<hr />
+<h2 id="all-your-data-belong-to-us">All your data belong to us</h2>
+<p>date: 2025-05-07, from: Gary Marcus blog</p>
+<p>Surveillance shit is about to get real</p>
+<p><br></p>
+<p><a
+href="https://garymarcus.substack.com/p/all-your-data-belong-to-us"
+class="uri">https://garymarcus.substack.com/p/all-your-data-belong-to-us</a></p>
+<hr />
+<h2
+id="section"><default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/></h2>
+<p>date: 2025-05-07, updated: 2025-05-07, from: Tantek Çelik’s blog</p>
+<p><br></p>
+<p><a
+href="https://tantek.com/2025/127/t1/cybersecurity-three-more-key-steps"
+class="uri">https://tantek.com/2025/127/t1/cybersecurity-three-more-key-steps</a></p>
+<hr />
+<h2 id="the-ai-slop-presidency">The AI Slop Presidency</h2>
+<p>date: 2025-05-07, from: 404 Media Group</p>
+<p>AI-generated outrage bait is the perfect artistic medium for a
+president who rules by trying to overwhelm the system.</p>
+<p><br></p>
+<p><a href="https://www.404media.co/the-ai-slop-presidency/"
+class="uri">https://www.404media.co/the-ai-slop-presidency/</a></p>
 <hr />
 <h2 id="podcast-the-trump-admins-signal-clone-was-hacked">Podcast: The
 Trump Admin’s Signal Clone Was Hacked</h2>
@@ -730,13 +1202,56 @@ I got back</a> - 30,408 input tokens and 8,535 output for a total cost
 of 12.336 cents.
 </p>
 <p>
-<p>8,535 output tokens is <em>a lot</em>. My system prompt includes the
+8,535 output tokens is <em>a lot</em>. My system prompt includes the
 instruction to “Go long” - this is the first time I’ve seen a model
 really take that to heart. For comparison, here’s
 <a href="https://gist.github.com/simonw/3efa62d917370c5038b7acc24b7c786e">the
 result</a> of a similar experiment against the previous version of
-Gemini 2.5 Pro two months ago.</p>
-<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/llm-release&quot;&gt;llm-release&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/gemini&quot;&gt;gemini&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/vision-llms&quot;&gt;vision-llms&lt;/a&gt;&lt;/p&gt; </code></pre>
+Gemini 2.5 Pro two months ago.
+</p>
+<p id="gemini-pelican">
+<strong>Update</strong>: The <em>one time</em> I forget to run my
+“Generate an SVG of a pelican riding a bicycle” test is the time that
+the model turns out to produce one of the best results I’ve seen yet!
+</p>
+<p>
+<img alt="See description below" src="https://static.simonwillison.net/static/2025/gemini-latest-pelican.jpg" />
+</p>
+<p>
+Here’s
+<a href="https://gist.github.com/simonw/fcd6a51d08a16912417a8f123951930d">the
+transcript</a> - 11 input tokens and 3,281 output tokens = 3.2824 cents.
+</p>
+<p>
+I asked Gemini to describe that image:
+</p>
+<pre><code>llm -m gemini-2.5-pro-preview-05-06 \
+  -a https://static.simonwillison.net/static/2025/gemini-latest-pelican.jpg \
+  'describe image for alt text'
+</code></pre>
+<p>
+Here’s
+<a href="https://gist.github.com/simonw/87a59e7f5c12274d65e2ac053b0eacdb">what
+I got back</a>. Gemini thought it had drawn a duck:
+</p>
+<blockquote>
+<p>
+<strong>A cartoon illustration of a white duck with an orange beak
+riding a blue bicycle.</strong>
+</p>
+<p>
+The duck has a large, oval white body and a smaller round head with a
+black dot eye. Its thin black wings act as arms, gripping the blue
+handlebars. One yellow-orange leg is visible, bent and pushing a grey
+pedal.
+</p>
+<p>
+The bicycle has a blue frame with a distinctive cross-brace, a brown
+oval seat, and dark grey wheels with silver spokes. The entire image is
+set against a plain white background.
+</p>
+</blockquote>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/llm-release&quot;&gt;llm-release&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/gemini&quot;&gt;gemini&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/vision-llms&quot;&gt;vision-llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/pelican-riding-a-bicycle&quot;&gt;pelican-riding-a-bicycle&lt;/a&gt;&lt;/p&gt; </code></pre>
 <p><br></p>
 <p><a
 href="https://simonwillison.net/2025/May/6/gemini-25-pro-preview/#atom-everything"
@@ -1906,7 +2421,7 @@ href="https://paulkrugman.substack.com/p/a-note-from-the-netherlands"
 class="uri">https://paulkrugman.substack.com/p/a-note-from-the-netherlands</a></p>
 <hr />
 <h2
-id="section"><default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/></h2>
+id="section-1"><default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/></h2>
 <p>date: 2025-05-05, updated: 2025-05-05, from: Tantek Çelik’s blog</p>
 <p><br></p>
 <p><a href="https://tantek.com/2025/124/t1/may-the-fourth-be-with-you"

@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-05-07 06:09:28
+updated: 2025-05-07 14:10:40
 ---
 
 # motorcycles
 
-(date: 2025-05-07 06:09:28)
+(date: 2025-05-07 14:10:40)
+
+---
+
+## This Aprilia Motorcycle Is the Only Production Bike With This MotoGP Race Technology
+
+date: 2025-05-07, from: Ride Apart, Electric Motorcycle News
+
+This level of technology on a bike that can't even legally race is wild.  
+
+<br> 
+
+<https://www.rideapart.com/news/758786/aprilia-rsv4-factory-1100-motogp-technology/>
+
+---
+
+## Some Crazy Person Stuck a Honda Fit Body Onto a Polaris RZR Frame
+
+date: 2025-05-07, from: Ride Apart, Electric Motorcycle News
+
+Practical insanity? 
+
+<br> 
+
+<https://www.rideapart.com/news/758771/honda-fit-polaris-rzr-utv-hatchback-mashup/>
 
 ---
 

@@ -1,11 +1,155 @@
 ---
 title: writing
-updated: 2025-05-07 06:09:25
+updated: 2025-05-07 14:10:37
 ---
 
 # writing
 
-(date: 2025-05-07 06:09:25)
+(date: 2025-05-07 14:10:37)
+
+---
+
+## 2025 Prix Imaginales Finalists
+
+date: 2025-05-07, from: Locus Magazine
+
+<p>Finalists have been announced for the 2025 Prix Imaginales, honoring the best works of fantasy published in France.</p>
+<div class="mynomorebulletlist">
+<p><strong>French Novel</strong></p>
+<ul>
+<li><strong>Roman de ronce et d’épine</strong>, Lucie Baratte (Typhon)
+</li>
+<li><strong>Kosigan, un printemps de sang</strong>, Fabien Cerutti (Mnémos)
+</li>
+<li><strong>Une valse pour les grotesques</strong>, Guillaume Chamanadjian (Aux Forges de Vulcain)</li>
+<li><strong>La Boutique des choses inavouables</strong>, Céline Chevet (du Chat Noir)</li>
+<li><strong>Le Cycle de syffe, tome 4 : La maison </strong></li></ul></div> <a href="https://locusmag.com/2025/05/2025-prix-imaginales-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-prix-imaginales-finalists/>
+
+---
+
+## 'Rosario' screenwriter Alan Trezza talks writing claustrophobic horror
+
+date: 2025-05-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/rosario-screenwriter-alan-trezza-talks-writing-claustrophobic-horror" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/A%20man%20and%20a%20woman%20lie%20injured%20on%20the%20ground%20next%20to%20a%20barbed%20wire%20fence.%20Snow%20falling%20around%20them.png" alt="A man and a woman lie injured on the ground next to a barbed wire fence. Snow falling around them" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Screenwriter <a href="https://www.imdb.com/name/nm1151425/?ref_=ttfc_fcr_wr_1">Alan Trezza</a> discovered the concept for his new horror film <span style="font-style: italic;">Rosario</span> during the pandemic. The project went from concept to completed script in just four weeks in a creative sprint fueled by 5 a.m. wake-ups and late-night writing sessions.<br><br>It all started when he wondered what it would be like to have to spend a night with a loved one’s body. This idea evolved further when Trezza, the son of an immigrant, began examining cultural assimilation in America.<br><br>These themes coalesced for <span style="font-style: italic;">Rosario</span>, a claustrophobic horror film starring <a href="https://www.imdb.com/name/nm3014089/?ref_=ttfc_fcr_cst_1">Emeraude Toubia</a> as a Wall Street stockbroker who returns to her deceased grandmother’s apartment during a snowstorm. While waiting for EMTs to collect the body, she uncovers a hidden chamber filled with occult artifacts tied to dark rituals. It becomes a race against the sunrise for her to break an ancestral curse.<br><br>We spoke with Trezza about how he finished the screenplay so quickly, keeping the second act interesting, the importance of plant-and-payoff for horror, and more. Explore his process with us.<br><br><span style="font-style: italic;">Editor’s note: The following conversation has been edited for length and clarity.</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/rosario-screenwriter-alan-trezza-talks-writing-claustrophobic-horror>
+
+---
+
+## Énard and Oyeyemi Selected for Residency Program
+
+date: 2025-05-07, from: Locus Magazine
+
+<p>The Prado Museum has announced Mathias Énard and Helen Oyeyemi as the writers selected to participate in the &#8220;Writing the Prado&#8221; residency program. The program is a joint initiative by the Prado and the Loewe Foundation that &#8220;invites internationally renowned writers to engage with the museum’s collections and rich history as a source of inspiration for literary works that will be published by the museum and literary magazine Granta&#8220;.</p>
+<p>The  <a href="https://locusmag.com/2025/05/enard-and-oyeyemi-selected-for-residency-program/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/enard-and-oyeyemi-selected-for-residency-program/>
+
+---
+
+## Seattle Worldcon 2025 Controversy
+
+date: 2025-05-07, from: Locus Magazine
+
+<p>This post is updated from an earlier story.</p>
+<p>Seattle Worldcon 2025 has been rocked by controversy in recent days.</p>
+<p>Hugo Awards Administrator Nicholas Whyte released the following statement on May 5, 2025:</p>
+<p>Effective immediately, Cassidy (WSFS DH), Nicholas Whyte (Hugo Administrator) and Esther MacCallum-Stewart (Deputy Hugo Administrator) resign from their respective roles from the Seattle 2025 Worldcon. We do not see a path forward that enables us to make further  <a href="https://locusmag.com/2025/05/seattle-worldcon-2025-controversy/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/seattle-worldcon-2025-controversy/>
+
+---
+
+## Write On: 'Good American Family' Creator & Co-Showrunner Katie Robbins and Co-Showrunner Sarah Sutherland
+
+date: 2025-05-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-good-american-family-co-showrunners-katie-robbins-and-sarah-sutherland" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Good%20American%20Family%20Co-showrunners%20Katie%20Robbins%20and%20Sarah%20Sutherland%20%281%29.png" alt="Write On logo of a cell phone with headphones around it featuring the poster of the show Good American Family" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“One of the things we talked a lot about in the room is that very rarely do people set about their day saying, ‘Okay, I’m going to go do some evil.’ But for most people, we’re all sort of the leads in our own stories and we’re all crafting the narrative of who we want the world to see us as. And we do start to believe that. You tell yourself these stories about yourself that you want to be true and you move through the world and you make decisions based on that narrative. And I think that one of the things that as writers, we really try to do is get into the shoes and the heads of the characters that we’re writing and really try to break down why they’re doing what they’re doing and make it feel as real and true as possible. The things that these characters believe – or convince themselves that they believe – have to feel really real and grounded to us,” says Katie Robbins, creator and co-showrunner of<em> Good American Family</em>, on writing flawed characters who prefer to live in fantasy, not reality.&nbsp;<br><br>On today’s episode of Write On, we speak to Katie Robbins (creator) and Sarah Sutherland, co-showrunners on the explosive limited series, <em>Good American Family</em>. The show tells the story of a midwestern couple who adopts what they believe is little girl with dwarfism. Soon they are in the midst of a battle fought in the tabloids, the courtroom and ultimately their marriage. The show is based on the real-life story of Natalia Grace that made many headlines.<br><br>Robbins and Sutherland talk about the unusual yet brilliant structure of telling various episodes from different characters’ points of view, and how the tone changed when they got to the episodes told from Natalia’s perspective. They also talked about the messiness of writing a dysfunctional family while still keeping the story grounded.&nbsp;<br>&nbsp;<br>“We all know family is this wonderful, beautiful thing, but it’s so complex. And I think that it’s really hard to talk about the complexities of family because we’re afraid to undermine the sacredness of it. It’s my view that if we are actually more open about what is hard about coexisting as a unit who loves each other, but also what’s not perfect, it would make us all better. And I think that that’s true both for family but also even for our enemies. We’re not writing autobiographies, but I think that we take those very real emotional experiences that we all have and then put them into a story that is cinematic, that is more interesting than our lives, but that is deeply steeped in those real moments of heartache and joy and confusion,” says Sutherland.&nbsp;<br><br>To learn more, listen to the podcast but be aware there are SPOILERS ahead.&nbsp;<br><br></p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-good-american-family-co-showrunners-katie-robbins-and-sarah-sutherland>
+
+---
+
+## Herbert Wins Infinity Award
+
+date: 2025-05-07, from: Locus Magazine
+
+<p>Frank Herbert (1920-1986) has been named the recipient of the third Infinity Award.</p>
+<p>The award was created by the Science Fiction and Fantasy Writers Association (SFWA) to &#8220;posthumously honor acclaimed creators who passed away before they could be considered for a Damon Knight Memorial Grand Master Award. This new award aims to recognize that even though those celebrated worldbuilders, storytellers, and weavers of words are no longer with us, their  <a href="https://locusmag.com/2025/05/herbert-wins-infinity-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/herbert-wins-infinity-award/>
+
+---
+
+## 2025 Derringer Award Winners
+
+date: 2025-05-07, from: Locus Magazine
+
+<p>The Short Mystery Fiction Society has announced the winners of the 2025 Derringer Awards. Winners of genre interest include Mike McHone for &#8220;Kargin the Necromancer&#8221; (Mystery Tribune 12/15/24) in the Flash Fiction category, Josh Pachter for &#8220;The Wind Phone&#8221; (Ellery Queen&#8217;s Mystery Magazine 9-10/24) in the Short Story category, and Michael Bracken and Barb Goffman for <strong>Murder, Neat: A SleuthSayers Anthology</strong> (Level Best) in the Anthology category. In addition, O.  <a href="https://locusmag.com/2025/05/2025-derringer-award-winners/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-derringer-award-winners/>
+
+---
+
+## ‘Thunderbolts*’: How Marvel created something fresh for its 36th movie
+
+date: 2025-05-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/thunderbolts-how-marvel-created-something-fresh" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Wyatt%20Russell%2c%20David%20Harbour%2c%20Hannah%20John-Kamen%2c%20and%20Florence%20Pugh%20in%20Thunderbolts.png" alt="Wyatt Russell, David Harbour, Hannah John-Kamen, and Florence Pugh tied up in Thunderbolts" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Thirty years ago, comic book movies were hardly popular. Batman seemed to be the only reliable franchise character igniting the 1995 summer with <em>Batman Forever</em>. <em>Spider-Man</em> in 2002 launched the real possibility of superhero and comic book movies before the genre hit the gas in 2008 with <em>Iron Man</em>. Studios and producers then dug deep into the comic book world turning the obscure <em>Guardians of the Galaxy</em> into a major piece of the Marvel Cinematic Universe, and also creating acclaimed television shows like <em>The Boys</em> and <em>The Penguin</em>.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/thunderbolts-how-marvel-created-something-fresh>
+
+---
+
+## One Message Remains by Premee Mohamed: Review by Alex Brown
+
+date: 2025-05-07, from: Locus Magazine
+
+<p><strong>One Message Remains</strong>, Premee Mohamed (Psy­chopomp 979-8-89116-010-1, $19.99, 200pp, tp) February 2025. Cover by John G. Reinhart &#38; Christine M. Scott.</p>
+<p>If you were lucky enough to read The Dead­lands back in 2021, then you already have an introduction to the world Premee Mohamed explores in <strong>One Message Remains</strong>. The Dead­lands, for those who are unfamiliar, is a quar­terly speculative fiction magazine that publishes “short stories, poems, and  <a href="https://locusmag.com/2025/05/one-message-remains-by-premee-mohamed-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/one-message-remains-by-premee-mohamed-review-by-alex-brown/>
 
 ---
 

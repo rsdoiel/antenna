@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-07 06:09:23
+updated: 2025-05-07 14:10:34
 ---
 
 # ham radio
 
-(date: 2025-05-07 06:09:23)
+(date: 2025-05-07 14:10:34)
+
+---
+
+## UPS resurrection: Thriftiness strikes again
+
+date: 2025-05-07, from: EDN Blog
+
+<img width="1400" height="1161" src="https://www.edn.com/wp-content/uploads/overview_open-5.jpg?fit=1400%2C1161" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Curiosity plus a cost-savings fixation equals a resuscitated power source. With a bonus: no electric shocks, flames or other calamities. </p>
+<p>The post <a href="https://www.edn.com/ups-resurrection-thriftiness-strikes-again/">UPS resurrection: Thriftiness strikes again</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ups-resurrection-thriftiness-strikes-again/>
 
 ---
 
@@ -25,7 +39,7 @@ date: 2025-05-06, from: Amateur Radio Relay League News
 
 date: 2025-05-06, from: EDN Blog
 
-<img width="730" height="314" src="https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?fit=730%2C314" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?w=730 730w, https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?w=300 300w" sizes="(max-width: 730px) 100vw, 730px" /><p>A standard electret microphone can detect sub-audio "sounds" when some simple equalization circuitry is added.</p>
+<img width="730" height="314" src="https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?fit=730%2C314" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?w=730 730w, https://www.edn.com/wp-content/uploads/Infrasonics_part2_fig1_v1.png?w=300 300w" sizes="auto, (max-width: 730px) 100vw, 730px" /><p>A standard electret microphone can detect sub-audio "sounds" when some simple equalization circuitry is added.</p>
 <p>The post <a href="https://www.edn.com/revealing-the-infrasonic-underworld-cheaply-part-2/">Revealing the infrasonic underworld cheaply, Part 2</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

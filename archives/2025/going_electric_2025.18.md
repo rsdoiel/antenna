@@ -1,11 +1,275 @@
 ---
 title: going electric
-updated: 2025-05-07 06:09:29
+updated: 2025-05-07 14:10:41
 ---
 
 # going electric
 
-(date: 2025-05-07 06:09:29)
+(date: 2025-05-07 14:10:41)
+
+---
+
+## BYD’s new mini EV is ‘a huge threat’ to Japanese automakers and it’s coming soon
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-mini-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> is already known for its smaller, low-cost electric cars like the Seagull, which you can snag for under $10,000 in China. Now, China’s EV leader is looking to go even smaller. BYD plans to launch a new mini EV, or kei car, that could pose “a huge threat” to Japanese automakers as a cheaper alternative.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,japan" data-layer-viewtype="unknown" data-post-id="414903" href="https://electrek.co/2025/05/07/byds-new-mini-ev-huge-threat-japanese-automakers/#more-414903" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/byds-new-mini-ev-huge-threat-japanese-automakers/>
+
+---
+
+## The Xiaomi SU7 Lost 600 HP In A Software Update. Then Owners Revolted
+
+date: 2025-05-07, from: Inside EVs News
+
+Xiaomi un-nerfed the SU7 Ultra after owners complained that the automaker took away horsepower they had paid for. 
+
+<br> 
+
+<https://insideevs.com/news/758894/xiaomi-su7-ultra-nerfed-restored/>
+
+---
+
+## Lectron’s Vortex NACS to CCS adapter is a simple tool to access Tesla’s Supercharger network [Video]
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-CCS-adapter-Lectron-Supercharger.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>I recently had the opportunity to test out the new Vortex plug adapter <a href="https://shareasale.com/r.cfm?b=2540907&amp;u=2783701&amp;m=96492&amp;urllink=&amp;afftrack=">from Lectron</a>, which enabled me and my CCS-equipped Rivian to access the Tesla Supercharger network. In my opinion, a NACS to CCS adapter is a vital tool for any BEV owner, and this one from Lectron is simple and effective to utilize. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lectron,review,tesla-adapter,tesla-ccs-adapter,tesla-supercharger,tesla-supercharging" data-layer-viewtype="unknown" data-post-id="414890" href="https://electrek.co/2025/05/07/lectron-vortex-nacs-ccs-adapter-access-tesla-supercharger-network-video/#more-414890" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/lectron-vortex-nacs-ccs-adapter-access-tesla-supercharger-network-video/>
+
+---
+
+## Here are the cheapest EVs we could find for lease at under $300/month right now [Updated]
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Cheapest-EVs-lease-April.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said you had to break the bank to drive an EV? Right now, there are a few EV deals for under $300 a month that are hard to pass up. However, the savings may not last long. Here are the cheapest EVs you can get your hands on this May.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/05/07/cheapest-evs-lease-may-under-300-month-updated/#more-404778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/cheapest-evs-lease-may-under-300-month-updated/>
+
+---
+
+## Exclusive $800 savings on new Jackery Explorer 3000 v2 power station + Mother’s Day Sale offers, EcoFlow RIVER 3 Plus $227, more
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Jackery-Explorer-3000-v2-Portable-Power-Station-e1746637917534.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Today’s Green Deals is all about backup power support, led by the exclusive deal we’ve secured on the new <a href="https://9to5toys.com/2025/05/07/exclusive-jackery-explorer-3000-v2-1699/">Jackery Explorer 3000 v2 LiFePO4 Power Station for $1,699</a>, which is followed by the brand’s newly launched <a href="https://9to5toys.com/2025/05/07/jackery-mothers-day-sale-from-299/">Mother’s Day Sale</a> with up to $3,300 being taken off power stations and accessories <a href="https://9to5toys.com/2025/05/07/jackery-mothers-day-sale-from-299/">starting from $299</a>. We also spotted <a href="https://9to5toys.com/2025/05/06/ecoflow-river-3-plus-227/">EcoFlow’s newer RIVER 3 Plus</a> Portable Power Station dropping down to <a href="https://9to5toys.com/2025/05/06/ecoflow-river-3-plus-227/">$227</a>, and be sure to also check out the brand’s final day of <a href="https://9to5toys.com/2025/04/28/ecoflow-spring-to-summer-sale-from-209/">Spring-to-Summer Sale</a> offers too. Following the big reveal yesterday, we’ve also got <a href="https://9to5toys.com/2025/05/06/preorder-lectric-xp4-e-bikes-from-999/">Lectric’s ongoing XP4 e-bike preorder deals</a> with up to $365 in free gear. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/05/06/bluetti-mothers-day-sale/">Bluetti Mother’s Day Sale</a>, Anker’s <a href="https://9to5toys.com/2025/05/05/anker-powercore-reserve-90-2/">PowerCore Reserve deal</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="414870" href="https://electrek.co/2025/05/07/jackery-explorer-3000-v2-mothers-day-sale-ecoflow-more/#more-414870" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/jackery-explorer-3000-v2-mothers-day-sale-ecoflow-more/>
+
+---
+
+## Lucid’s (LCID) next batch of Gravity electric SUVs is ready to roll out for Saudi Arabia
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Lucid-Gravity-EV-Saudi-Arabia.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid’s</a> (LCID) first electric SUV is going global. With output ramping up, Lucid is gearing up for more growth in 2025. The second batch of Lucid Gravity models is now ready to ship out to Saudi Arabia as it expands its overseas footprint.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="414858" href="https://electrek.co/2025/05/07/lucids-next-batch-gravity-suvs-ship-saudi-arabia/#more-414858" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/lucids-next-batch-gravity-suvs-ship-saudi-arabia/>
+
+---
+
+## Not Every Chinese EV Brand Will Survive. These Died In The Past Year
+
+date: 2025-05-07, from: Inside EVs News
+
+China's automotive sector is incredibly powerful, but not invincible. Consolidation and collapse is already happening. 
+
+<br> 
+
+<https://insideevs.com/news/758776/chinese-brand-die-ev-2025/>
+
+---
+
+## Arc is developing a 26-foot dual motor electric tugboat for the Port of Los Angeles
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Electric-tugboat-Arc-crane.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric boat developer Arc is venturing into the commercial sector by building an electric tugboat that will serve the Port of Los Angeles later this year. The retrofitted 26-foot ship will feature <a href="https://electrek.co/guides/arc-boats/">Arc Boats</a>‘ electric powertrain and software technology.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arc-boats,electric-boat,electric-boats,electric-tugboat" data-layer-viewtype="unknown" data-post-id="414856" href="https://electrek.co/2025/05/07/arc-developing-a-26-foot-dual-motor-electric-tugboat-port-of-los-angeles/#more-414856" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/arc-developing-a-26-foot-dual-motor-electric-tugboat-port-of-los-angeles/>
+
+---
+
+## Tesla bait-and-switch: Cybertruck owners won’t get Autosteer feature they paid for
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Cybertruck-interior.png?w=1600" /></div><p>Tesla has confirmed its latest bait-and-switch: Cybertruck owners will not get the Autosteer feature they paid for.</p>
+
+
+
+<p>Instead, they will get a year of ‘Supervised Full Self-Driving’.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="414851" href="https://electrek.co/2025/05/07/tesla-bait-and-switch-cybertruck-owners-wont-get-autosteer-feature/#more-414851" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/tesla-bait-and-switch-cybertruck-owners-wont-get-autosteer-feature/>
+
+---
+
+## How Trump’s tariffs are killing ‘Made in America’ mopeds
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/spark-cycleworks-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s taken a while, but most Americans have finally come to realize that the new tariffs imposed on imported goods are in fact paid by US companies, not the countries where they are manufactured. What many still don’t realize, though, is how those same tariffs are actually crushing the American manufacturing they were ostensibly designed to promote.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413899" href="https://electrek.co/2025/05/07/how-trumps-tariffs-are-killing-made-in-america-mopeds/#more-413899" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/how-trumps-tariffs-are-killing-made-in-america-mopeds/>
+
+---
+
+## Tesla (TSLA) deliveries slide in China as it emphazies that its EVs are ‘made in China’
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-china-sales.png?w=1600" /></div><p>Tesla’s deliveries are sliding in China amid a perfect storm of factors dragging demand down, including Chinese buyers preferring Chinese brands amid the trade war with the US.</p>
+
+
+
+<p> The American automaker is trying to counter the anti-American sentiment by emphasizing that its electric vehicles are ‘made in China’.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="414828" href="https://electrek.co/2025/05/07/tesla-tsla-deliveries-slide-china/#more-414828" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/tesla-tsla-deliveries-slide-china/>
+
+---
+
+## BYD's 5-Minute EV Fast Charging: We Tried It. It's A Game-Changer
+
+date: 2025-05-07, from: Inside EVs News
+
+BYD's new Megawatt charging proves that 5-minute charging stops are possible. And China will get there first. 
+
+<br> 
+
+<https://insideevs.com/news/758625/byd-megawatt-charging-demo-china/>
+
+---
+
+## Majority owner Geely proposes delisting ZEEKR (ZK) in the US and taking it private
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Shanghai-Auto-Show-ZEEKR.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Just one year after ZEEKR went public on the US stock market, its majority shareholder, <a href="https://electrek.co/guides/geely">Geely</a>, is offering the Chinese EV automaker an opportunity to go private once again.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="geely,nasdaq,zeekr" data-layer-viewtype="unknown" data-post-id="414833" href="https://electrek.co/2025/05/07/majority-owner-geely-proposes-delisting-zeekr-zk-in-the-us-and-taking-it-private/#more-414833" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/majority-owner-geely-proposes-delisting-zeekr-zk-in-the-us-and-taking-it-private/>
+
+---
+
+## The Mercedes-Benz CLA EV Can’t Use Most Fast Chargers In The U.S.
+
+date: 2025-05-07, from: Inside EVs News
+
+It’s official: the CLA's 800V system doesn't work with 400V chargers.  
+
+<br> 
+
+<https://insideevs.com/news/758859/mercedes-cla-ev-400v-charging-impossible/>
+
+---
+
+## Mitsubishi is launching a new EV based on the Nissan LEAF: Here’s what to expect
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Mitsubishi-EV-Nissan-LEAF-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Finally, <a href="https://electrek.co/guides/mitsubishi/">Mitsubishi</a> is bringing a new EV to the US. Mitsubishi confirmed plans to launch a new EV in North America that will be based on the next-gen Nissan LEAF. Here’s what we know so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mitsubishi,nissan-leaf" data-layer-viewtype="unknown" data-post-id="414812" href="https://electrek.co/2025/05/07/mitsubishi-launching-new-ev-based-on-the-nissan-leaf/#more-414812" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/mitsubishi-launching-new-ev-based-on-the-nissan-leaf/>
+
+---
+
+## RJ Scaringe posted fresh images of Rivian’s R2 validation builds
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-R2-images-validation.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another day, another exciting post from Rivian founder and CEO RJ Scaringe sharing images of the upcoming R2 EV. This is the third R2 update from <a href="https://electrek.co/guides/rivian/">Rivian</a> in as many days, as the American automaker’s second flagship model configuration inches closer to full-fledged production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="414817" href="https://electrek.co/2025/05/07/rj-scaringe-posted-fresh-images-of-rivians-r2-validation-builds/#more-414817" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/rj-scaringe-posted-fresh-images-of-rivians-r2-validation-builds/>
+
+---
+
+## The New Model Y Isn't Saving Tesla
+
+date: 2025-05-07, from: Inside EVs News
+
+Tesla isn't lifted by its updates to the world's best-selling car. Plus, Rivian weighs a tariff impact, and battery swapping rises. 
+
+<br> 
+
+<https://insideevs.com/news/758841/tesla-sales-model-y-q1-cm/>
 
 ---
 

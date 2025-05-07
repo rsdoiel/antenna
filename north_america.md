@@ -1,11 +1,119 @@
 ---
 title: north america
-updated: 2025-05-07 06:09:21
+updated: 2025-05-07 14:10:32
 ---
 
 # north america
 
-(date: 2025-05-07 06:09:21)
+(date: 2025-05-07 14:10:32)
+
+---
+
+## A breather, not a breakthrough
+
+date: 2025-05-07, from: The Contrarian
+
+Canada, Australia, and Germany have handed liberal democracy a few wins&#8212;but don't pop the champagne yet. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-breather-not-a-breakthrough>
+
+---
+
+## Why states must focus on women's health
+
+date: 2025-05-07, from: The Contrarian
+
+The federal government is no longer a reliable partner in improving and advancing the health of menopausal women. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-states-must-focus-on-womens-health>
+
+---
+
+## Bullfight
+
+date: 2025-05-07, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/bullfight>
+
+---
+
+## Sanity has been restored in North Carolina
+
+date: 2025-05-07, from: The Contrarian
+
+A ruling in favor of the law and a concession mean a November election is finally over. 
+
+<br> 
+
+<https://contrarian.substack.com/p/sanity-has-been-restored-in-north>
+
+---
+
+##  Republicans Want To Upcharge The Poor To Pay For Their Tax Cuts 
+
+date: 2025-05-07, from: The Lever News
+
+ The GOP’s new budget proposes raising premiums and co-pays for Medicaid beneficiaries, including those at the poverty line, to pay for sweeping tax cuts for the wealthy.  
+
+<br> 
+
+<https://www.levernews.com/republicans-want-to-upcharge-the-poor-to-pay-for-their-tax-cuts/>
+
+---
+
+## The media keeps fueling the myth of a fiscally responsible GOP
+
+date: 2025-05-07, from: The Contrarian
+
+When Republicans are allowed to lie freely in interviews, it&#8217;s no wonder so many Americans don&#8217;t know important facts. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-media-keeps-fueling-the-myth>
+
+---
+
+## This year’s Met Gala could have been a mess. Instead, it was an inspiration.
+
+date: 2025-05-07, from: The Contrarian
+
+The celebration of Black dandyism was a (mostly) cringe-free triumph that sent a powerful message 
+
+<br> 
+
+<https://contrarian.substack.com/p/this-years-met-gala-could-have-been>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-07, from: The Contrarian
+
+Wednesday: Tesla Takedowns in Oregon, Virginia, Washington, and Massachusetts, an epic congressional questioning, planning for No Kings Day, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with The Contrarians 05/07
+
+date: 2025-05-07, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/24 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0507>
 
 ---
 
@@ -118,18 +226,6 @@ date: 2025-05-06, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/162971061/cdba5d8ad6d2c93519d631c3412921d0.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/june-14-is-no-kings-day-ezra-levin>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-06, from: The Contrarian
-
-Tuesday: Preparing for the June 14 No Kings Day, protests in California, Kansas, and Delaware, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

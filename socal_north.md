@@ -1,23 +1,113 @@
 ---
 title: socal north
-updated: 2025-05-07 06:09:21
+updated: 2025-05-07 14:10:33
 ---
 
 # socal north
 
-(date: 2025-05-07 06:09:21)
+(date: 2025-05-07 14:10:33)
 
 ---
 
-## Conclave starts today. Why this moment matters for Southern California’s Filipino Catholics
+## Orange County’s first light rail streetcar is here with seven more on the way
 
 date: 2025-05-07, updated: 2025-05-07, from: The LAist
 
-Los Angeles is home to more than half a million Filipinos, and some have their eye on one cardinal contender. 
+The light rail project, which had been planned for 2021, could see its first riders early next year. 
 
 <br> 
 
-<https://laist.com/news/conclave-starts-today-why-this-moment-matters-for-southern-californias-filipino-catholics>
+<https://laist.com/news/transportation/orange-countys-first-light-rail-ocstreetcar-debut>
+
+---
+
+## Many Californians can’t get mental health help. Is it too hard to become a therapist?
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+Despite efforts to increase the number of mental health providers, many students say the training requirements are onerous and costly. 
+
+<br> 
+
+<https://laist.com/news/health/many-californians-cant-get-mental-health-help-is-it-too-hard-to-become-a-therapist>
+
+---
+
+## Tariffs begin to batter Long Beach Port; expect ripple effects across the U.S. soon, officials say
+
+date: 2025-05-07, from: Longbeach Post
+
+<figure><img width="1000" height="514" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg 1000w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There’s a steep drop in ships docking. That means fewer jobs for longshoremen and — soon — shortages in stores, Port of Long Beach leaders say.</p>
+<p>The post <a href="https://lbpost.com/news/ports/tariffs-port-of-long-beach-effects-longshore-workers-shortages">Tariffs begin to batter Long Beach Port; expect ripple effects across the U.S. soon, officials say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/ports/tariffs-port-of-long-beach-effects-longshore-workers-shortages>
+
+---
+
+## Rancho Palos Verdes landslide has slowed with below average rainfall, but costs continue to mount
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+The city is poised to spend as much as it does on its entire operating budget to counter the slow-moving disaster. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-has-slowed-with-below-average-rainfall-but-costs-continue-to-mount>
+
+---
+
+## California regulator weakens AI rules, giving Big Tech more leeway to track you
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+Pressure from the governor preceded the AI regulation retreat. Big tech gets more leeway to help make decisions or target ads. 
+
+<br> 
+
+<https://laist.com/news/california-regulator-weakens-ai-rules-giving-big-tech-more-leeway-to-track-you>
+
+---
+
+## What to do if you don't have a REAL ID yet, and which documents still work
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+REAL ID enforcement at airports starts on May 7. Clint Henderson, travel editor at The Points Guy, has these three tips for travelers. 
+
+<br> 
+
+<https://laist.com/news/what-to-do-if-you-dont-have-a-real-id-yet-and-which-documents-still-work>
+
+---
+
+## 2 men dead in wrong-way crash on 7th Street, Long Beach police say
+
+date: 2025-05-07, from: Longbeach Post
+
+<figure><img width="1024" height="608" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-1024x608.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-1024x608.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-300x178.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-768x456.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-182x108.jpg 182w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-1200x713.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ-400x238.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07092320/9621fa9c-d75f-4281-8b57-d17d25be5cf7-982834-ejyin4lo-534777-t0ln9WiJ.jpg 1409w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The wreck happened at about 6:20 this morning just east of Recreation Park.</p>
+<p>The post <a href="https://lbpost.com/news/crime/7th-street-crash-long-beach-wrong-way-fatal">2 men dead in wrong-way crash on 7th Street, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/7th-street-crash-long-beach-wrong-way-fatal>
+
+---
+
+## SoCal to see warm up and sunny days ahead
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+A significant warm up will come to the region starting Wednesday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-warmup-sunny-days>
 
 ---
 
@@ -30,6 +120,18 @@ The Harbor City-Harbor Gateway branch of the Los Angeles Public Library opened a
 <br> 
 
 <https://laist.com/news/education/los-angeles-library-sensory-room-resources-neurodiverse-families>
+
+---
+
+## Conclave starts today. Why this moment matters for Southern California’s Filipino Catholics
+
+date: 2025-05-07, updated: 2025-05-07, from: The LAist
+
+Los Angeles is home to more than half a million Filipinos, and some have their eye on one cardinal contender. 
+
+<br> 
+
+<https://laist.com/news/conclave-starts-today-why-this-moment-matters-for-southern-californias-filipino-catholics>
 
 ---
 
@@ -97,7 +199,7 @@ It’s the third round of staff reductions in three years at Los Angeles’s lar
 
 date: 2025-05-06, from: Longbeach Post
 
-<figure><img width="1024" height="640" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-300x188.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-768x480.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1200x750.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-400x250.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd.jpg 1467w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="640" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1024x640.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-300x188.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-768x480.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-1200x750.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd-400x250.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/18141956/9993cc35-1dcf-468c-86f8-c62b9b972550-472037-wf020lbt-914817-YgWpQmhd.jpg 1467w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The bones belong to a person who appeared to be over 40 years old, but other than that, there’s little firm info, according to investigators.</p>
 <p>The post <a href="https://lbpost.com/news/bones-beach-id-dna-junipero-police-update">Authorities hope DNA testing will help identify human bones found on beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -112,7 +214,7 @@ date: 2025-05-06, from: Longbeach Post
 
 date: 2025-05-06, from: Longbeach Post
 
-<figure><img width="1024" height="665" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-300x195.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-768x498.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-166x108.jpeg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1536x997.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1200x779.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1568x1018.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-400x260.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318.jpeg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="665" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1024x665.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-300x195.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-768x498.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-166x108.jpeg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1536x997.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1200x779.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-1568x1018.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318-400x260.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/06144112/img-0832jpeg-986890-fuckebli-522061-GbbmeQzH-scaled-e1746567956318.jpeg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the Long Beach teenager was taken into custody on suspicion of murder.</p>
 <p>The post <a href="https://lbpost.com/news/grand-prix-shooting-arrest-15-year-old-long-beach">Police arrest 15-year-old suspect in deadly shooting outside Long Beach Grand Prix</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -125,7 +227,7 @@ date: 2025-05-06, from: Longbeach Post
 
 ## Trump expands military use at the southern border. Are there legal limits?
 
-date: 2025-05-06, updated: 2025-05-06, from: The LAist
+date: 2025-05-06, updated: 2025-05-07, from: The LAist
 
 The Posse Comitatus Act restricts using federal troops in civilian law enforcement. Exceptions exist, but Trump's crackdown on immigration is shaping up to be a major test for the law. 
 
