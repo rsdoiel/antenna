@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-05-08 10:54:15
+updated: 2025-05-08 12:42:06
 ---
 
 # writing
 
-(date: 2025-05-08 10:54:15)
+(date: 2025-05-08 12:42:06)
+
+---
+
+## New Books Video for 5/6/25 is Live!
+
+date: 2025-05-08, from: Locus Magazine
+
+<p>Welcome back for another New Books video to kick off the month of May! We&#8217;re going over the top new SF, Fantasy, Horror, and YA releases hitting shelves this week! We release a new video weekly, so subscribe to the YouTube channel to keep up-to-date on new releases and support what we do!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/05/new-books-video-for-5-6-25-is-live/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/new-books-video-for-5-6-25-is-live/>
 
 ---
 

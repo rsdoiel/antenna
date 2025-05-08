@@ -1,11 +1,35 @@
 ---
 title: socal north
-updated: 2025-05-08 10:54:11
+updated: 2025-05-08 12:42:02
 ---
 
 # socal north
 
-(date: 2025-05-08 10:54:11)
+(date: 2025-05-08 12:42:02)
+
+---
+
+## DOGE Is Costing Californians Money
+
+date: 2025-05-08, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/doge-is-costing-californians-money/>
+
+---
+
+## Head Start gets a reprieve from Trump budget cuts, but the fight isn’t over
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+After President Donald Trump’s early budget eliminated the Head Start program, advocates led a nationwide lobbying effort to save it. 
+
+<br> 
+
+<https://laist.com/news/education/head-start-gets-a-reprieve-from-trump-budget-cuts-but-the-fight-isnt-over>
 
 ---
 
@@ -48,11 +72,11 @@ Temperatures to jump to high 80s for valleys and inland areas in SoCal.
 
 ---
 
-## Robert Francis Prevost elected as first American pope
+## Cardinal Robert Prevost becomes the first American pope, choosing the name Leo XIV
 
 date: 2025-05-08, updated: 2025-05-08, from: The LAist
 
-The 133 cardinals inside the Sistine Chapel made their selections on Thursday. He will be known as Pope Leo XIV. 
+The 133 cardinals inside the Sistine Chapel made their selection Thursday. The 69-year-old new pope appeared at the balcony at St. Peter's Basilica and said, "Peace be with all of you!" 
 
 <br> 
 

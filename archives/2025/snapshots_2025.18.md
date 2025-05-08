@@ -1,11 +1,116 @@
 ---
 title: snapshots
-updated: 2025-05-08 10:54:21
+updated: 2025-05-08 12:42:12
 ---
 
 # snapshots
 
-(date: 2025-05-08 10:54:21)
+(date: 2025-05-08 12:42:12)
+
+---
+
+## Quoting Oleg Pustovit
+
+date: 2025-05-08, updated: 2025-05-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://nexo.sh/posts/microservices-for-startups/"><p>Microservices only pay off when you have real scaling bottlenecks, large teams, or independently evolving domains. Before that? You’re paying the price without getting the benefit: duplicated infra, fragile local setups, and slow iteration.</p></blockquote>
+<p class="cite">&mdash; <a href="https://nexo.sh/posts/microservices-for-startups/">Oleg Pustovit</a>, Microservices Are a Tax Your Startup Probably Can’t Afford</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/software-architecture">software-architecture</a>, <a href="https://simonwillison.net/tags/startups">startups</a>, <a href="https://simonwillison.net/tags/microservices">microservices</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/8/oleg-pustovit/#atom-everything>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-05-08, from: Tomosino's Mastodon feed)
+
+<p>Never in a million years expected that pick</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114473825891552963>
+
+---
+
+## Watch an AI-Generated Recruiter Make a Job Interview Even Worse
+
+date: 2025-05-08, from: 404 Media Group
+
+“Vertical bar pilates." 
+
+<br> 
+
+<https://www.404media.co/ai-recruiter-apriora-tiktok/>
+
+---
+
+## Optional Values in SwiftData Predicates
+
+date: 2025-05-08, from: Michael Tsai
+
+Fatbobman: In the process of creating predicates for Core Data, the predicate expressions do not have a direct link to the type code. The properties used in these expressions correspond to those defined within the model editor (data model), and their &#8220;optional&#8221; characteristic does not align with the concept of optional types in Swift, but [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/08/optional-values-in-swiftdata-predicates/>
+
+---
+
+## curl Takes Action Against AI Bug Reports
+
+date: 2025-05-08, from: Michael Tsai
+
+Connor Jones: Stenberg said the amount of time it takes project maintainers to triage each AI-assisted vulnerability report made via HackerOne, only for them to be deemed invalid, is tantamount to a DDoS attack on the project.Citing a specific recent report that &#8220;pushed [him] over the limit,&#8221; Stenberg said via LinkedIn: &#8220;That&#8217;s it. I&#8217;ve had [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/08/curl-takes-action-against-ai-bug-reports/>
+
+---
+
+## AltStore PAL 2.2
+
+date: 2025-05-08, from: Michael Tsai
+
+Riley Testut: Guess what &#8212; you can now self-publish your apps on AltStore PAL completely FREE! Just connect your Apple Developer account with PAL and make an AltStore source. Then you can distribute notarized apps by simply uploading them to your web server like the good ol&#8217; days &#x1F44C; AltStore: The only major difference is [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/08/altstore-pal-2-2/>
+
+---
+
+## Pure Sweat Basketball v. Apple
+
+date: 2025-05-08, from: Michael Tsai
+
+Thomas Claburn: A developer of mobile sports apps has filed a proposed class-action lawsuit against Apple, seeking to recover commissions iBiz allegedly collected in violation of a federal injunction intended to allow developers to use alternative payment systems.The complaint [PDF], filed on May 2 in California Northern District Court by law firm Hagens Berman on [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/08/pure-sweat-basketball-v-apple/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-08, from: Dave Winer's linkblog)
+
+This top-selling Chinese EV pickup is going global and it&#39;s a beast. 
+
+<br> 
+
+<https://electrek.co/2025/05/08/top-selling-chinese-ev-pickup-going-global-beast/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-08, from: Dave Winer's linkblog)
+
+Who Broke the Internet, a podcast hosted by Cory Doctorow. 
+
+<br> 
+
+<https://www.cbc.ca/listen/cbc-podcasts/1353-the-naked-emperor/episode/16144078-dont-be-evil>
 
 ---
 

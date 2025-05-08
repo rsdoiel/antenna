@@ -1,11 +1,35 @@
 ---
 title: science and technology
-updated: 2025-05-08 10:54:13
+updated: 2025-05-08 12:42:04
 ---
 
 # science and technology
 
-(date: 2025-05-08 10:54:13)
+(date: 2025-05-08 12:42:04)
+
+---
+
+## OpenAI drafts Instacart boss as CEO of Apps to lure in the normies
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>A B2B, API move this ain&#39;t, in our view</h4> <p>Instacart CEO Fidji Simo is leaving to become CEO of Applications at OpenAI, reporting directly to Sam Altman, the AI heavyweight announced on Thursday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/openai_apps_chif_instacart/>
+
+---
+
+## The final bookworm-based Raspberry Pi OS update arrives
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Last big release until trixie shows up</h4> <p>Debian bookworm is getting what could be its last hurrah as the basis for Raspberry Pi&#39;s operating system, with what&#39;s likely to be its final appearance on a release for the diminutive computers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/the_final_bookwormbased_raspberry_pi/>
 
 ---
 
@@ -249,7 +273,7 @@ date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 
 ---
 
-## PowerSchool paid thieves to delete stolen student, teacher data. Crooks may have lied
+## PowerSchool paid thieves to delete stolen student, teacher data. Looks like crooks lied
 
 date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 

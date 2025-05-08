@@ -5,6 +5,7 @@
 
 #
 # United Nations
+# Feeds listed at https://news.un.org/en/rss-feeds
 #
 https://news.un.org/feed/subscribe/en/news/all/rss.xml "~United Nations, Top Stories"
 https://news.un.org/feed/subscribe/en/news/topic/un-affairs/feed/rss.xml "~United Nations, UN Affairs"
@@ -15,8 +16,10 @@ https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.
 
 #
 # Canadian Broadcasting Corporation
+# Feeds listed at  https://www.cbc.ca/rss/ 
 #
-https://www.cbc.ca/rss/ "~Canadian Broadcasting Corporation"
+https://www.cbc.ca/webfeed/rss/rss-world "~CBC, World News"
+https://www.cbc.ca/webfeed/rss/rss-Indigenous "~CBC, Indigenious News"
 
 #
 # RTÉ, Raidió Teilifís Éireann (the Irish public broadcasting organization)

@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2025-05-08 10:54:20
+updated: 2025-05-08 12:42:11
 ---
 
 # food
 
-(date: 2025-05-08 10:54:20)
+(date: 2025-05-08 12:42:11)
+
+---
+
+## Submissions Are Now Open For The 2025 Build-Outs Of Coffee
+
+date: 2025-05-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Submit your cafe now! 
+
+<br> 
+
+<https://sprudge.com/submissions-are-now-open-for-the-2025-build-outs-of-coffee-333270.html>
 
 ---
 
@@ -42,6 +54,18 @@ date: 2025-05-08, from: Daily Coffee News
 <br> 
 
 <https://dailycoffeenews.com/2025/05/08/ikawa-launches-small-but-mighty-pro50x-sample-roaster/>
+
+---
+
+## Luckin Coffee Is Opening A New York City Location
+
+date: 2025-05-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Chinese brand is coming to the East Village. 
+
+<br> 
+
+<https://sprudge.com/luckin-coffee-is-opening-a-new-york-city-location-332649.html>
 
 ---
 

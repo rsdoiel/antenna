@@ -1,11 +1,59 @@
 ---
 title: journalism
-updated: 2025-05-08 10:54:16
+updated: 2025-05-08 12:42:07
 ---
 
 # journalism
 
-(date: 2025-05-08 10:54:16)
+(date: 2025-05-08 12:42:07)
+
+---
+
+## Market Capitalization Explained: What it Means for Cryptocurrencies?
+
+date: 2025-05-08, from: The Sundail (CSUN Student Newspaper)
+
+As we see more progress in technology in the financial world, the cryptocurrency market cap is ever-increasing. In fact, in the last few years, cryptocurrencies like Bitcoin, Ethereum, Tether, etc.,... 
+
+<br> 
+
+<https://sundial.csun.edu/193531/sundialbrandstudio/sundial-marketplace/market-capitalization-explained-what-it-means-for-cryptocurrencies/>
+
+---
+
+## DIY Educational Crafts for Kids: Learning Through Creativity
+
+date: 2025-05-08, from: The Sundail (CSUN Student Newspaper)
+
+Did you know that engaging in DIY crafts can greatly enhance a child&#8217;s cognitive development? When you provide your kids with creative projects, you&#8217;re not just keeping them occupied; you&#8217;re... 
+
+<br> 
+
+<https://sundial.csun.edu/193526/uncategorized/diy-educational-crafts-for-kids-learning-through-creativity/>
+
+---
+
+## What Does Transparent Payment Technology Mean for Student Security?
+
+date: 2025-05-08, from: The Sundail (CSUN Student Newspaper)
+
+Transparent payment technology brings big changes to student life. From tuition payments to managing expenses, these advancements offer more than just convenience. Here’s an overview of what benefits and impacts... 
+
+<br> 
+
+<https://sundial.csun.edu/193523/sundialbrandstudio/sundial-marketplace/what-does-transparent-payment-technology-mean-for-student-security/>
+
+---
+
+## The Effects of Low Emotional Intelligence on Your Life
+
+date: 2025-05-08, from: The Sundail (CSUN Student Newspaper)
+
+If a person conflicts with other people and has difficulty understanding their feelings, it may be a matter of low EQ. Let&#8217;s consider what emotional intelligence is, how to recognize... 
+
+<br> 
+
+<https://sundial.csun.edu/193519/sundialbrandstudio/sundial-marketplace/the-effects-of-low-emotional-intelligence-on-your-life/>
 
 ---
 

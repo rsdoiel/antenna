@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-05-08 10:54:12
+updated: 2025-05-08 12:42:03
 ---
 
 # pacific
 
-(date: 2025-05-08 10:54:12)
+(date: 2025-05-08 12:42:03)
+
+---
+
+## Building green futures: UH students connect with sustainability leaders
+
+date: 2025-05-08, from: University of Hawaiʻi News
+
+<p>Students gain sustainability career insights, mentorship and connections at a networking event.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/08/building-green-futures/">Building green futures: <abbr>UH</abbr> students connect with sustainability leaders</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/08/building-green-futures/>
 
 ---
 
@@ -126,6 +139,20 @@ date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/news/local/scheduled-water-service-interruption-for-as-teo-on-may-12/article_4bf99dc5-d43c-4704-b0eb-37403ee8dea1.html>
+
+---
+
+## Oz band delights students
+
+date: 2025-05-08, from: Marshal Islands Journal
+
+<p>The Australian Andrew Gurruwiwi Band visited multiple Majuro schools in addition to public performances when it was in Majuro last month. The “very successful” visit included performances at the College of the Marshall Islands, Laura Elementary/High School, Majuro Cooperative School, Delap Elementary School, Life Skills Academy and Majuro Middle School, said Kallan Phillips, the second [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/oz-band-delights-students/">Oz band delights students</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/oz-band-delights-students/>
 
 ---
 

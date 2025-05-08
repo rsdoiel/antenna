@@ -1,11 +1,71 @@
 ---
 title: columns
-updated: 2025-05-08 10:54:14
+updated: 2025-05-08 12:42:05
 ---
 
 # columns
 
-(date: 2025-05-08 10:54:14)
+(date: 2025-05-08 12:42:05)
+
+---
+
+##  A review of the last 25 years of food & dining in... 
+
+date: 2025-05-08, updated: 2025-05-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046815-a-review-of-the-last>
+
+---
+
+## Email newsletters are undercounted and underrated for marketing
+
+date: 2025-05-08, from: Matt Haughey blog
+
+<p>The other day I was reading my <a href="https://japanesegarden.org/newsletters/?ref=a.wholelottanothing.org" rel="noreferrer">weekly update email from The Portland Japanese Garden</a> and I know I&apos;ve mentioned them a few times here in the past couple years, but damn, I have to admit they really treat members well. </p><p>There&apos;s a monthly magazine and</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/email-newsletters-are-undercounted-and-underrated-for-marketing/>
+
+---
+
+##  The Catholic Church has selected Robert Prevost as their new leader, Pope... 
+
+date: 2025-05-08, updated: 2025-05-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046817-the-catholic-church-has-s>
+
+---
+
+## Is Starbase the future of America?
+
+date: 2025-05-08, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/is-starbase-the-future-of-america>
+
+---
+
+##  A new Lord of the Rings movie will premiere in theaters on... 
+
+date: 2025-05-08, updated: 2025-05-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046811-a-new-lord-of-the>
 
 ---
 
@@ -38,7 +98,7 @@ date: 2025-05-08, updated: 2025-05-08, from: Liam Proven's articles at the Regis
 
 date: 2025-05-08, from: Dave Winer's Scripting News
 
-<p>I asked ChatGPT to "Dress me like guilded age captain of industry in front of his mansion on the Hudson River."</p>
+<p>I asked ChatGPT to "Dress me like <a href="https://en.wikipedia.org/wiki/Gilded_Age">Gilded Age</a> captain of industry in front of his mansion on the Hudson River."</p>
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/08/gildedAgeDave.png"></center>Gilded Age Dave.</div></p>
  
 

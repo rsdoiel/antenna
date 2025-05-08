@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-05-08 10:54:11
+updated: 2025-05-08 12:42:01
 ---
 
 # north america
 
-(date: 2025-05-08 10:54:11)
+(date: 2025-05-08 12:42:01)
+
+---
+
+## Split Screen: Alexandria Ocasio-Cortez reclaims the frame
+
+date: 2025-05-08, from: The Contrarian
+
+The New York congresswoman doesn't let others define her. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-alexandria-ocasio-cortez>
+
+---
+
+## The Black Men who Took Part in Tyre Nichols’ Death were Acquitted because They were Cops
+
+date: 2025-05-08, from: The Contrarian
+
+Your race doesn&#8217;t matter. If you have a badge, there&#8217;s a good chance you can get away with killing Black people 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-black-men-who-took-part-in-tyre>
+
+---
+
+## Solar Grants Held Hostage in Pennsylvania Legislature — as Demand Soars
+
+date: 2025-05-08, from: Capital and Main
+
+<p>While Solar for All funds languish, the state continues to lag behind most of the nation when it comes to renewable energy.</p>
+<p>The post <a href="https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars">Solar Grants Held Hostage in Pennsylvania Legislature — as Demand Soars</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars>
+
+---
+
+## The Contrarian and the World Welcomes Our New Pope!
+
+date: 2025-05-08, from: The Contrarian
+
+Pope Leo XIV is the name chosen by Cardinal Robert Prevost, the 267th pope of the Roman Catholic Church and the first American-born pope in history 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-and-the-world-welcomes>
 
 ---
 
