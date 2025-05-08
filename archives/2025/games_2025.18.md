@@ -1,17 +1,77 @@
 ---
 title: games
-updated: 2025-05-08 06:11:26
+updated: 2025-05-08 10:54:16
 ---
 
 # games
 
-(date: 2025-05-08 06:11:26)
+(date: 2025-05-08 10:54:16)
+
+---
+
+## That new Lord of the Rings Gollum movie is coming in 2027
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+The next live-action Lord of the Rings movie, The Lord of the Rings: The Hunt for Gollum, is coming to theaters on Dec. 17, 2027, Warner Bros. announced Thursday. The film was previously slated for a 2026 release. The Lord of the Rings: The Hunt for Gollum will be directed by Andy Serkis, known for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/598144/lotr-gollum-movie-release-date-2027>
+
+---
+
+## Mafia: The Old Country promises a return to the old ways — and less open-world bloat
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+2K Games and developer Hangar 13 revealed a longer look at gameplay from Mafia: The Old Country on Thursday, showing how the origin story for the Mafia franchise stands apart from the open-world, organized crime competition. In fact, Hangar 13 is hinting strongly that it has no intentions to make Mafia: The Old Country your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598031/mafia-old-country-gameplay-trailer-release-date>
+
+---
+
+## Helldivers 2’s new warbond turns the Super Earth flag into a melee weapon
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+The next Warbond coming to Helldivers 2 will let you get up close and personal — or up closer and even more personal — with Super Earth’s enemies. Coming May 15 to PlayStation 5 and Windows PC, the Masters of Ceremony Premium Warbond will unlock a vintage sword, a new marksman rifle with a sharp [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598109/helldivers-2-warbond-masters-of-ceremony>
+
+---
+
+## Thunderbolts*’ big depression metaphor hit me hard, mostly for the wrong reasons
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+The latest Marvel Cinematic Universe movie, Thunderbolts*, is baldly and emphatically about dealing with depression. It opens with state-assassin-turned-mercenary-assassin Yelena​​ Belova (Florence Pugh) in voiceover, musing about the “emptiness” that characterizes her life, how she can’t enjoy or connect to things the way she used to. The story repeatedly touches on different ways people self-medicate [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/598020/thunderbolts-depression-explained-mental-health-representation>
+
+---
+
+## Nintendo low-balls its Switch 2 sales estimates, but they’re still huge
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+Nintendo is predicting that it will sell 15 million Switch 2 consoles in its current financial year — a figure that most analysts agree is too low, but that would still put it among the fastest-selling game consoles of all time. Nintendo made the forecast in a report to investors covering its previous financial year, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/598100/nintendo-switch-2-sales-forecast>
 
 ---
 
 ## Drop Duchy looks like Tetris, feels like Dicey Dungeons, and pulls you in like Balatro
 
-date: 2025-05-08, updated: 2025-05-07, from: Polygon Website
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
 
 Drop Duchy looks a bit like Tetris at first glance — an L-shaped forest tile drops into the bottom left corner while a straight tile of mountains sits horizontally next to it. When the line fills up, trumpets resound and resources drop into your reserves. That’s when the game starts to feel more like a [&#8230;] 
 

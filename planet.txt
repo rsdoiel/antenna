@@ -3,6 +3,29 @@
 #
 
 
+#
+# United Nations
+#
+https://news.un.org/en/rss-feeds "~United Nations News"
+
+#
+# Canadian Broadcasting Corporation
+#
+https://www.cbc.ca/rss/ "~Canadian Broadcasting Corporation"
+
+#
+# RTÉ, Raidió Teilifís Éireann (the Irish public broadcasting organization)
+#
+https://www.rte.ie/feeds/rss/?index=/news/ "~RTÉ News"
+
+#
+# PBS (U.S. public broadcasting service)
+#
+https://www.pbs.org/newshour/feeds/rss/podcasts/world "~PBS World Podcast"
+
+#
+# British Broadcasting Corporation
+#
 
 #
 # Vatican

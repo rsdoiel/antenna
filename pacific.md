@@ -1,11 +1,131 @@
 ---
 title: pacific
-updated: 2025-05-08 06:11:23
+updated: 2025-05-08 10:54:12
 ---
 
 # pacific
 
-(date: 2025-05-08 06:11:23)
+(date: 2025-05-08 10:54:12)
+
+---
+
+## Britain set to strike first deal to cut Trump tariffs
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+LONDON (Reuters) — The United States and Britain will announce a deal to lower tariffs on some goods on Thursday, the first such agreement since President Donald Trump sparked a global trade war with universal levies. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/britain-set-to-strike-first-deal-to-cut-trump-tariffs/article_9e071cdb-45c1-4e94-9711-985463e0f195.html>
+
+---
+
+## Public hearing on Tinian for latest draft of solid waste management plan set for May 21
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+(OPD) — The CNMI Office of Planning and Development on behalf of the Inter-Island Solid Waste Management Task Force invites you to a public hearing on May 21, 2025 from 6 p.m. to 7:30 p.m. at the Tinian Public Library to share your thoughts, voice your concerns, and learn more about the CNMI Comprehensive Integrated Solid Waste Management Plan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/public-hearing-on-tinian-for-latest-draft-of-solid-waste-management-plan-set-for-may/article_0cb6a9de-f63b-4b11-9aea-b70db58a6de6.html>
+
+---
+
+## Ocean Breeze
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+SPENDING time with my mom is one of the best ways to create memories. But the best memories are when she does story time with me and my siblings. One of our favorite stories would be how she came to name our brother Tasi. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/ocean-breeze/article_2e644d49-b56c-4e98-b0d2-f8f695805947.html>
+
+---
+
+## Inas’ Kitchen Int’l Food Challenge at ‘Taste’ on May 10
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+(MVA) — Three international teams take to the main stage this Saturday, May 10, in the Inas’ Kitchen International Food Challenge at the 26th Annual Taste of The Marianas International Food Festival in Garapan, Saipan. Starting at 7 p.m., two-person teams from South Korea, Japan, and The Marianas will face off against a collective 18 lbs. of burger and six pounds of fries in a race to finish first. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/inas-kitchen-int-l-food-challenge-at-taste-on-may-10/article_69271665-a854-4aa6-8152-c17ad53710ab.html>
+
+---
+
+## Karidat cares for community for 45 years
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+EARLIER this week on May 5, Karidat, the Saipan-based Catholic nonprofit organization, celebrated 45 years of “service, advocacy, and convening” in the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/karidat-cares-for-community-for-45-years/article_ea51ce16-cb92-47e1-9c0f-c148ed12749c.html>
+
+---
+
+## Kitchen Magic
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+MY mom makes my family happy with the magic of her cooking. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/kitchen-magic/article_daaba386-053a-4817-b1a5-0616df5e3aad.html>
+
+---
+
+## Height is Inheritance
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+GROWING up, my mother was never tall. I mean, obviously, as a 7 or 12-year-old, you wouldn’t expect her to be the tallest, but even as she grew older, her height stayed stagnant. And no, I’m not talking about physical height—like being five-foot-two—but in a metaphorical sense, where she could never quite reach her destined height. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/height-is-inheritance/article_4969e1fd-f18f-4018-a992-08aaa22cd76b.html>
+
+---
+
+## Former CNMI lawmaker takes on key role in US insular policy
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+AS the new deputy assistant secretary for insular and international affairs of the U.S. Department of the Interior, former Rep. Angel A. Demapan said he is committed to working closely with CNMI leaders and stakeholders to support economic recovery efforts. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/former-cnmi-lawmaker-takes-on-key-role-in-us-insular-policy/article_f547c404-0aca-475c-8102-99631e4e33cc.html>
+
+---
+
+## Karidat at 45: A lifeline in peril as federal aid vanishes
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+<div class="jso-cursor-trail-wrapper" style="position: fixed; left: 0px; top: 0px; width: 100vw; height: 100vh; overflow: hidden; pointer-events: none; z-index: 9999;"> </div> 
+
+<br> 
+
+<https://www.mvariety.com/news/local/karidat-at-45-a-lifeline-in-peril-as-federal-aid-vanishes/article_cac29467-cc5a-45ab-bb9f-df33096d8bd6.html>
+
+---
+
+## Scheduled water service interruption for As Teo on May 12
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be a scheduled water service interruption on Monday, May 12, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-water-service-interruption-for-as-teo-on-may-12/article_4bf99dc5-d43c-4704-b0eb-37403ee8dea1.html>
 
 ---
 

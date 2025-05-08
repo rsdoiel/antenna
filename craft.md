@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-08 06:11:31
+updated: 2025-05-08 10:54:20
 ---
 
 # craft
 
-(date: 2025-05-08 06:11:31)
+(date: 2025-05-08 10:54:20)
+
+---
+
+## A John Brown Harpsichord for Sale
+
+date: 2025-05-08, from: Lost Arg Press blog
+
+Most of the readers on this blog know John Brown as a chairmaker and writer. But as I have gotten to know his family and friends, I&#8217;ve learned he was much more. I knew JB was a boatbuilder, and his cuttyhunks still fetch good money. He was also a jet pilot, a fine art painter... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/08/a-john-brown-harpsichord-for-sale/>
 
 ---
 

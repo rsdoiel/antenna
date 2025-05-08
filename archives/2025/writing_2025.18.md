@@ -1,11 +1,94 @@
 ---
 title: writing
-updated: 2025-05-08 06:11:26
+updated: 2025-05-08 10:54:15
 ---
 
 # writing
 
-(date: 2025-05-08 06:11:26)
+(date: 2025-05-08 10:54:15)
+
+---
+
+## Audiofile’s Top New SF Picks from May 2025
+
+date: 2025-05-08, from: Locus Magazine
+
+<p>From our friends at AudioFile Magazine, we have the top new science fiction audiobooks from May 2025.</p>
+<p>The best science fiction is a mirror to aspects of our real lives, and these audiobooks are no exception, featuring AI, authoritarian governments, colonizing Mars, and more. If that sounds bleak, don’t worry—there’s also an audiobook about the moon turning into actual cheese. Skilled narrators strike just the right tone for each story,  <a href="https://locusmag.com/2025/05/audiofiles-top-new-sf-picks-from-may-2025/" class="read-more">...Read More </a></p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/05/Cold-Eternity_Locus.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/05/The-Martian-Contingency.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/05/Where-the-Ax-is-Buried_Locus.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/05/Two-Truths-and-a-Lie_Locus.mp3"></source>
+	<source type="audio/mpeg" src="https://locusmag.com/wp-content/uploads/2025/05/When-the-Moon-Hits-Your-Eye_Locus.mp3"></source>
+</audio> <a href="https://locusmag.com/wp-content/uploads/2025/05/Cold-Eternity_Locus.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://locusmag.com/2025/05/audiofiles-top-new-sf-picks-from-may-2025/>
+
+---
+
+## Write On: 2024 Big Break Short Film Winner Brandon Osterman and Seed&Spark
+
+date: 2025-05-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-2024-big-break-short-film-winner-brandon-osterman-and-seedspark" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Big%20Break%20Short%20Category%20Winner%20%26%20Seed%26Spark%20Marketing%20Manager%20%281%29.png" alt="Write On logo of a cell phone with headphones around it. Inside the cell phone is a poster of 'The Naughty List' from Big Break Short Category Winner Brandon Osterman" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>On today’s episode, we speak to writer Brandon Osterman, whose short script <em>The Naughty List</em>&nbsp;won last year’s Final Draft Big Break Short Screenplay Category. As part of his prize package, he received a consultation with Sav Rodgers, Marketing Manager for Seed&amp;Spark, the film industry’s most popular crowdfunding platform. Sav joins the conversation to tell us exactly what crowdfunding is and help all writers understand that funding for their project is possible to achieve.&nbsp;<br><br>“Who is your audience? At Seed&amp;Spark, we always say that great crowdfunding is audience building first and fundraising second. While there is definitely a fundraising need, finding your audience is invaluable… Something that I always tell prospective crowdfunders is you already have the tools you need to do this. You know how to tell a story. You’re here because you’re a storyteller. You know how to invite people in. You already know how to talk about yourself persuasively,” says Sav Rodgers.&nbsp;<br><br>Osterman also shares his journey creating his award-winning short script and gives advice to writers who are thinking of creating their own short film project.<br><br>“I don’t think there’s been a better time to be making short format content than right now. The demand for it seems to be expanding every time I turn around. I think if that’s something that you’re interested in, go after it. You know, I think there are more opportunities to distribute that form of content than there have ever been. I think we’ve got a generation now that’s grown up with TikTok and social media and much shorter, digestible content that, whether it’s conditioning or just sort of lowering of attention spans, I think more people are more tuned into short form content than they have ever been before. It’s a really, really exciting time to be making shorts,” says Osterman.&nbsp;<br><br>To hear more about the short filmmaking process and crowdfunding, listen to the podcast.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-2024-big-break-short-film-winner-brandon-osterman-and-seedspark>
+
+---
+
+## Ghibli, Ghiblification, Copyright and Style
+
+date: 2025-05-08, from: Author's Union blog
+
+In late March, OpenAI made it possible to “Ghiblify” yourself — using its newest version of ChatGPT, with updated image [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/08/ghibli-ghiblification-copyright-and-style/>
+
+---
+
+## Sleeper Beach by Nick Harkaway: Review by Ian Mond
+
+date: 2025-05-08, from: Locus Magazine
+
+<p><strong>Sleeper Beach</strong>, Nick Harkaway (Corsair 978-1-47215-889-5, £20.00, 256pp, hc) April 2025.</p>
+<p>Having dabbled in his father’s literary universe with <strong>Karla’s Choice</strong>, the first Smiley book since John le Carré’s pass­ing, Nick Harkaway returns to a reality of his own making with <strong>Sleeper Beach</strong>, a sequel to 2023’s <strong>Titanium Noir</strong>. If you’ll recall, <strong>Titanium Noir </strong>is set in a divergent history where Stefan Tonfamecasca’s discovery of a  <a href="https://locusmag.com/2025/05/sleeper-beach-by-nick-harkaway-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/sleeper-beach-by-nick-harkaway-review-by-ian-mond/>
+
+---
+
+## Agency News
+
+date: 2025-05-08, from: Locus Magazine
+
+<p>Agent Eric Smith, for­merly of P.S. Literary, has launched a new agency, Neighborhood Literary. Rebecca Podos joins as senior agent, coming from Rees Liter­ary, and Donovan Levin joins as associate agent. “We’re a boutique literary agency headquartered in Philadelphia that focuses on adult fiction and non-fiction, as well as books for children.” For more, see the website.</p>
+<p>Agent Kelly Sonnack has purchased Andrea Brown Literary Agency, and is now president.  <a href="https://locusmag.com/2025/05/agency-news-3/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/agency-news-3/>
 
 ---
 

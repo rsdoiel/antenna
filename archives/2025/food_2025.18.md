@@ -1,11 +1,47 @@
 ---
 title: food
-updated: 2025-05-08 06:11:30
+updated: 2025-05-08 10:54:20
 ---
 
 # food
 
-(date: 2025-05-08 06:11:30)
+(date: 2025-05-08 10:54:20)
+
+---
+
+## Passenger Coffee Releases Their Third Annual Transparence Report With Proceeds Benefitting World Coffee Research
+
+date: 2025-05-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. All proceeds will be donated to World Coffee Research. 
+
+<br> 
+
+<https://sprudge.com/passenger-coffee-releases-their-third-annual-transparence-report-with-proceeds-benefitting-world-coffee-research-332562.html>
+
+---
+
+## Feta Bruschetta
+
+date: 2025-05-08, from: Taste of Home
+
+Fun to say and tasty to eat, feta bruschetta is an easy, flavor-packed appetizer with herbs, spices and tangy cheese in every toasted bite. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/feta-bruschetta/>
+
+---
+
+## Ikawa Launches Small but Mighty Pro50X Sample Roaster
+
+date: 2025-05-08, from: Daily Coffee News
+
+<div><img width="620" height="446" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg" class="attachment-large size-large wp-post-image" alt="ikawa-pro50x-1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-300x216.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-768x552.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Among numerous small roasters drawing long lines at last month&#8217;s SCA Expo in Houston was the Ikawa Pro50X, a small-scale, feature-rich sample roaster. The latest in the UK company&#8217;s Pro... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/08/ikawa-launches-small-but-mighty-pro50x-sample-roaster/>
 
 ---
 
@@ -155,7 +191,7 @@ date: 2025-05-07, from: The Sprudge
 
 date: 2025-05-07, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1536x1025.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants.jpg 1814w" sizes="(max-width: 620px) 100vw, 620px" /></div>Global nonprofit Fairtrade International is now offering &#8220;LIRP on Demand,&#8221; a tailored service designed to help coffee companies identify living income reference prices (LIRPs) for farmers in their supply chains.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1536x1025.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants.jpg 1814w" sizes="(max-width: 620px) 100vw, 620px" /></div>Global nonprofit Fairtrade International is now offering &#8220;LIRP on Demand,&#8221; a tailored service designed to help coffee companies identify living income reference prices (LIRPs) for farmers in their supply chains.... 
 
 <br> 
 
@@ -203,7 +239,7 @@ On this episode of Dinner SOS, the BA Bake Club is back with Jesse’s amazing M
 
 date: 2025-05-07, from: Daily Coffee News
 
-<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-620x434.jpg" class="attachment-large size-large wp-post-image" alt="encore-ESP-pro-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-768x537.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee grinder maker Baratza just raised the roof on its entry-level Encore line of home coffee grinders, introducing the Encore ESP Pro. Revealed in conjunction with the Seattle-based company&#8217;s appearance... 
+<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-620x434.jpg" class="attachment-large size-large wp-post-image" alt="encore-ESP-pro-1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1-768x537.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/encore-ESP-pro-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Coffee grinder maker Baratza just raised the roof on its entry-level Encore line of home coffee grinders, introducing the Encore ESP Pro. Revealed in conjunction with the Seattle-based company&#8217;s appearance... 
 
 <br> 
 
@@ -353,7 +389,7 @@ date: 2025-05-06, from: Taste of Home
 
 ---
 
-## 24 Best Mother's Day Kitchen Gifts for Moms Who Love to Cook (2025)
+## 25 Best Mother's Day Kitchen Gifts for Moms Who Love to Cook (2025)
 
 date: 2025-05-06, from: Bon Appetet
 

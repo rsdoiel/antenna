@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-05-08 06:11:24
+updated: 2025-05-08 10:54:13
 ---
 
 # science and technology
 
-(date: 2025-05-08 06:11:24)
+(date: 2025-05-08 10:54:13)
+
+---
+
+## The IRS plans to replace fired enforcement workers with AI
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Another mask-off moment, although fresh research says RoI for the tech is still lacking</h4> <p>Following considerable cuts to its enforcement workforce, the US&#39;s Internal Revenue Service (IRS) plans to use AI to supplement its ability to collect taxes from US citizens. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/the_irs_plans_to_replace/>
+
+---
+
+## NASA Earns Two Emmy Nominations for 2024 Total Solar Eclipse Coverage
+
+date: 2025-05-08, from: NASA breaking news
+
+NASA’s coverage of the April 8, 2024, total solar eclipse has earned two nominations for the 46th Annual News &#38; Documentary Emmy Awards. The Academy of Television Arts &#38; Sciences announced the nominations on May 1, recognizing NASA’s outstanding work in sharing this rare celestial event with audiences around the world. The winners are set [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-earns-two-emmy-nominations-for-2024-total-solar-eclipse-coverage/>
+
+---
+
+## GNOME Foundation's new executive director is Canadian, a techie, and a GNOME user
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Steven Deobald certainly talks the talk</h4> <p>The GNOME Foundation has hired a new executive director to lead the organization, acting as GNOME&#39;s public face and leading the non-profit&#39;s fundraising efforts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/new_gnome_director/>
+
+---
+
+## NASA Telescopes Tune Into a Black Hole Prelude, Fugue
+
+date: 2025-05-08, from: NASA breaking news
+
+NASA released three new pieces of cosmic sound Thursday that are associated with the densest and darkest members of our universe: black holes. These scientific productions are sonifications — or translations into sound — of data collected by NASA telescopes in space including the Chandra X-ray Observatory, James Webb Space Telescope, and Imaging X-ray Polarimetry [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/>
+
+---
+
+## Arm says it isn’t worried by tariffs, but won't give guidance for FY'26
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>No direct impact on royalty, licensing biz but device end demand in firing line</h4> <p><strong>World War Fee</strong>  Arm shares took a tumble after it declined to issue guidance for the year ahead in light of the current economic uncertainty, despite the chip designer claiming record revenue for the quarter just ended.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/arm_no_fy26_guidance/>
+
+---
+
+## Sols 4532-4533: Polygon Heaven
+
+date: 2025-05-08, from: NASA breaking news
+
+Written by Catherine O’Connell-Cooper, Planetary Geologist at University of New Brunswick Earth planning date: Monday, May 5, 2025 Our 29-meter weekend drive (about 95 feet) was successful, and we are still in the band of polygon-rich bedrock. The origin of these cracks is not clear — could they have formed as desiccation cracks as Mars […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4532-4533-polygon-heaven/>
+
+---
+
+## Users find RISE with SAP service levels below industry standard
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Gartner also says customers say ERP vendor&#39;s internal processes cause delays</h4> <p>Users who signed up for the RISE with SAP deal are finding that the costs are higher than expected, and the service levels are worse, research from Gartner indicates.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/gartner_research_rise_with_sap/>
+
+---
+
+## NASA’s Hubble Pinpoints Roaming Massive Black Hole
+
+date: 2025-05-08, from: NASA breaking news
+
+Like a scene out of a sci-fi movie, astronomers using NASA telescopes have found “Space Jaws.” Lurking 600 million light-years away, within the inky black depths between stars, there is an invisible monster gulping down any wayward star that plummets toward it. The sneaky black hole betrayed its presence in a newly identified tidal disruption […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-pinpoints-roaming-massive-black-hole/>
+
+---
+
+## NASA Stennis Tool Enables Unified Collection of Test Data
+
+date: 2025-05-08, from: NASA breaking news
+
+Editor’s Note: The following is one of three related articles about the NASA Data Acquisition System and related efforts. Please visit Stennis News &#8211; NASA to access accompanying articles. Just as a steady heartbeat is critical to staying alive, propulsion test data is vital to ensure engines and systems perform flawlessly. The accuracy of the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/stennis-tool-enables-unified-collection-of-test-data/>
+
+---
+
+## NASA Stennis Software is Built for Future Growth
+
+date: 2025-05-08, from: NASA breaking news
+
+Editor’s Note: The following is one of three related articles about the NASA Data Acquisition System and related efforts. Please visit Stennis News &#8211; NASA to access accompanying articles. A data-focused software tool created at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, continues to expand its capabilities and use across the agency. Much [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/stennis-software-built-for-future-growth/>
+
+---
+
+## NASA Stennis Releases First Open-Source Software
+
+date: 2025-05-08, from: NASA breaking news
+
+Editor’s Note: The following is one of three related articles about the NASA Data Acquisition System and related efforts. Please visit Stennis News &#8211; NASA to access accompanying articles. NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has released its first-ever open-source software, a peer review tool to facilitate more efficient and collaborative creation [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/>
+
+---
+
+## Arista cats purr over $2B quarter while tariff time bomb ticks
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Networking biz cashes in on AI hysteria, warns trade tensions could disrupt supply and margins</h4> <p><strong>World War Fee</strong>  Arista Networks is warning investors of the fear, uncertainty and doubt caused by the Trump administration&#39;s shifting trade policies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/arista_q1_2025/>
 
 ---
 

@@ -1,11 +1,139 @@
 ---
 title: going electric
-updated: 2025-05-08 06:11:30
+updated: 2025-05-08 10:54:19
 ---
 
 # going electric
 
-(date: 2025-05-08 06:11:30)
+(date: 2025-05-08 10:54:19)
+
+---
+
+## This Tesla Model S Is 11 Years Old. Here’s How Much Range Is Left
+
+date: 2025-05-08, from: Inside EVs News
+
+It still has its original battery pack with over 100,000 miles of use. 
+
+<br> 
+
+<https://insideevs.com/news/758980/2014-tesla-model-s-range-test-degradation/>
+
+---
+
+## Kia EV5 spotted with a few upgrades for the first time ahead of its global launch
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kia-EV5-global.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s about the size of the Tesla Model Y. The EV5 is already a hit in China. Now, <a href="https://electrek.co/guides/kia/">Kia</a> is about to launch the global model. With its official debut coming up, Kia’s electric SUV was spotted for the first time with a few noticeable upgrades.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="415029" href="https://electrek.co/2025/05/08/kia-ev5-global-model-spotted-first-time-with-upgrades/#more-415029" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/kia-ev5-global-model-spotted-first-time-with-upgrades/>
+
+---
+
+## Why Geely's Zeekr May Go Private Again
+
+date: 2025-05-08, from: Inside EVs News
+
+Zeekr went public on the NYSE in 2025, but Geely wants it private again to fend off increasing competition.  
+
+<br> 
+
+<https://insideevs.com/news/759009/geely-zeekr-private-talks-2025/>
+
+---
+
+## Tesla loses head of India just as it is rumored to finally enter the market
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Tesla-Model-Y-Hero-2023.jpg?quality=82&#038;strip=all&#038;w=929" /></div><p>Tesla (TSLA) has lost its head of the Indian market just as the automaker is rumored to finally enter India after several false starts.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="415035" href="https://electrek.co/2025/05/08/tesla-loses-head-of-india-just-as-it-is-rumored-to-finally-enter-the-market/#more-415035" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/tesla-loses-head-of-india-just-as-it-is-rumored-to-finally-enter-the-market/>
+
+---
+
+## CATL unveils 9 MWh TENER Stack energy storage system that can charge 150 EVs
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/CATL-TENER-Stack-debut.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/catl/">CATL</a>, the world’s leading battery manufacturer, continues proving why it’s the best with the biz. Today, the company unveiled a 20-foot-tall energy storage system (ESS) called the TENER Stack, which, according to CATL, offers breakthroughs in storage capacity, deployment flexibility, safety, and transportation efficiency. It  also has the energy storage capabilities to charge 150 EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="415027" href="https://electrek.co/2025/05/08/catl-unveils-9-mwh-tener-stack-energy-storage-system-charge-150-evs/#more-415027" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/catl-unveils-9-mwh-tener-stack-energy-storage-system-charge-150-evs/>
+
+---
+
+## A Key Tesla Cybertruck Feature Just Went Subscription-Only
+
+date: 2025-05-08, from: Inside EVs News
+
+Plus, used car values on the rise and Ford raises prices over tariffs. 
+
+<br> 
+
+<https://insideevs.com/news/758898/tesla-fsd-autopilot-autosteer-absent/>
+
+---
+
+## Range Rover is giving the Velar EV a radical new style and a bunch of other upgrades
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Range-Rovers-mid-size-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Range Rover will finally launch its first electric SUV later this year. In the meantime, the luxury brand has several new EV models in the pipeline, including a smaller (likely more affordable) Velar. The <a href="https://electrek.co/guides/range-rover/">Range Rover Velar EV </a>is coming soon with an upgraded design and much more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jaguar-land-rover,range-rover,range-rover-electric" data-layer-viewtype="unknown" data-post-id="415004" href="https://electrek.co/2025/05/08/range-rover-giving-velar-ev-radical-new-style-more/#more-415004" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/range-rover-giving-velar-ev-radical-new-style-more/>
+
+---
+
+## Gravity to open 8 locations with 500 kW, 5-minute EV charging across Los Angeles this year
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/five-minute-ev-charging-gravity-LA.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV fast-charging startup <a href="https://electrek.co/guides/gravity/">Gravity</a> is taking its talents to the West Coast. This morning, the company announced a massive US expansion that will bring 500 kW piles capable of 5-minute EV fast charging to eight locations around the Los Angeles metropolitan area.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-charging,ev-charging-stations,gravity,gravity-inc" data-layer-viewtype="unknown" data-post-id="415005" href="https://electrek.co/2025/05/08/gravity-8-locations-500-kw-5-minute-ev-charging-los-angeles/#more-415005" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/gravity-8-locations-500-kw-5-minute-ev-charging-los-angeles/>
+
+---
+
+## Solar-Powered Hoverboard Go-Kart Looks Like Sketchy Fun
+
+date: 2025-05-08, from: Inside EVs News
+
+It’s not exactly a road-tripping machine, but it is free transportation. 
+
+<br> 
+
+<https://insideevs.com/news/758956/diy-solar-go-kart-broken-hoverboard/>
 
 ---
 
@@ -25,7 +153,7 @@ date: 2025-05-08, from: Electrek Feed
 
 ---
 
-## Tesla Cybertruck Range Extender Is Officially Dead
+## Another Tesla Cybertruck Promise Goes Bust
 
 date: 2025-05-08, from: Inside EVs News
 

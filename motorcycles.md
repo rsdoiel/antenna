@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-05-08 06:11:29
+updated: 2025-05-08 10:54:18
 ---
 
 # motorcycles
 
-(date: 2025-05-08 06:11:29)
+(date: 2025-05-08 10:54:18)
+
+---
+
+## Ruroc Adds Five New Mental Designs to It’s Most Popular Motorcycle Helmets
+
+date: 2025-05-08, from: Ride Apart, Electric Motorcycle News
+
+If you want to fly under the radar, these designs aren't for you. 
+
+<br> 
+
+<https://www.rideapart.com/news/758912/ruroc-new-at40-designs-2025/>
+
+---
+
+## A Public Lands Sell-Off Just Got Snuck Into a House Budget Proposal
+
+date: 2025-05-08, from: Ride Apart, Electric Motorcycle News
+
+Sneaky, shady politicians remain sneaky and shady.  
+
+<br> 
+
+<https://www.rideapart.com/news/758900/public-lands-sell-off-house-natural-resources-committee-budget/>
+
+---
+
+## This Yamaha Scooter Bagged a Red Dot Award For Product Design
+
+date: 2025-05-08, from: Ride Apart, Electric Motorcycle News
+
+Not all too surprising, really, as the NMAX has amassed quite the following in Asia and Europe. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758803/yamaha-nmax-red-dot-design-award-2025/>
 
 ---
 

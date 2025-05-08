@@ -1,11 +1,127 @@
 ---
 title: home
-updated: 2025-05-08 06:11:28
+updated: 2025-05-08 10:54:18
 ---
 
 # home
 
-(date: 2025-05-08 06:11:28)
+(date: 2025-05-08 10:54:18)
+
+---
+
+## This $3.9M Midcentury on the San Francisco Bay Comes With a Boat Dock
+
+date: 2025-05-08, from: Dwell
+
+Designed by Jack Finnegan, the waterfront home has a brand-new kitchen, restored floors and ceilings, and Japanese-inspired gardens. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-renovation-jack-finnegan-suprstructur-tiburon-bay-area-real-estate-73bcb348>
+
+---
+
+## How Did My Pandemic-Era DIY Bathroom Renovation Hold Up?
+
+date: 2025-05-08, from: Dwell
+
+I joined thousands of Americans stuck at home and in need of something to do—and gained a passion that has stuck. 
+
+<br> 
+
+<https://www.dwell.com/article/pandemic-diy-bathroom-reno-four-years-later-da726392>
+
+---
+
+## A Renowned Artist’s L.A. Renovation Added a Distinct Facade—and Kicked Off a Much Bigger Project
+
+date: 2025-05-08, from: Dwell
+
+The perforated metal screens that cover Charles Gaines and Roxana Landaverde’s house pay homage to the grids found in Charles’s best-known work. 
+
+<br> 
+
+<https://www.dwell.com/article/gaines-landaverde-residence-tolo-architecture-los-angeles-945ab42d>
+
+---
+
+## How to Grow and Care for Norway Spruce Trees
+
+date: 2025-05-08, from: The Gardener's Path
+
+<p>Norway spruce (Picea abies) is a hardy evergreen conifer with dense, dark green needles and a classic pyramidal shape. It’s often used as a windbreak, privacy screen, or specimen tree. Cultivars offer various sizes and forms, from ground covers to weeping types. Learn how to grow Norway spruce in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-norway-spruce/">How to Grow and Care for Norway Spruce Trees</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-norway-spruce/>
+
+---
+
+## Winning the Unlucky Lottery? Ford Recalls Exactly 3 Cars Over Battery Defect
+
+date: 2025-05-08, from: Family Handyman Blog
+
+<p>Ford is recalling a select few vehicles due a battery issue. Find out if yours is one of the affected vehicles. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-rare-battery-issue-recall/">Winning the Unlucky Lottery? Ford Recalls Exactly 3 Cars Over Battery Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-rare-battery-issue-recall/>
+
+---
+
+## CDFA congratulates staff for completing coaching program — an important step in developing leadership skills
+
+date: 2025-05-08, from: Calfifornia Dept. Aggriculture blog
+
+Ten CDFA staff members graduated last week from the agency&#8217;s Coaching for Personal and Professional Effectiveness Program, a course that provides improved communication skills for work and life and prepares employees to take on leadership positions. With 24 percent of &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28970">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28970>
+
+---
+
+## Seatbelt Shortage Sparks Recall of 6,000 Volkswagens
+
+date: 2025-05-08, from: Family Handyman Blog
+
+<p>Volkswagen is recalling certain vehicles due to an issue with their seat size. Find out if yours is one of the impacted cars. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/volkswagen-back-seat-belt-shortage-recall/">Seatbelt Shortage Sparks Recall of 6,000 Volkswagens</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/volkswagen-back-seat-belt-shortage-recall/>
+
+---
+
+## 15 of the Best Zinnia Varieties to Grow in the Garden
+
+date: 2025-05-08, from: The Gardener's Path
+
+<p>Ready to grow your own zinnias but you’re not sure which ones to pick? A huge variety of cultivars are available today, heirlooms as well as hybrids of several different species. You’ll find single and double blooms, bicolors, patterned petals, and solid colors. We’ll help you choose – read our roundup now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-zinnia-varieties/">15 of the Best Zinnia Varieties to Grow in the Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-zinnia-varieties/>
+
+---
+
+## From the Archive: When It Comes to Renovating an Eichler, How Much Change Is Too Much?
+
+date: 2025-05-08, from: Dwell
+
+More than two decades ago, we wrote about what it means to restore an architectural classic, using superfans of the legendary midcentury tract houses as a case study. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-when-it-comes-to-renovating-an-eichler-how-much-change-is-too-much-8d820700>
 
 ---
 
@@ -20,6 +136,18 @@ date: 2025-05-08, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/grow-sweeter-tomatoes/>
+
+---
+
+## This West Hollywood Restaurant Will Transport You to the South of France
+
+date: 2025-05-08, from: Sunset Magazine - Living in the West
+
+Taking inspiration from the south of France and balmy Southern California weather, Chez Mia in L.A. is a dreamy indoor-outdoor restaurant. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/chez-mia-los-angeles-recipes>
 
 ---
 
@@ -48,18 +176,6 @@ date: 2025-05-08, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/pumpkin-no-fruit/>
-
----
-
-## This West Hollywood Restaurant Will Transport You to the South of France
-
-date: 2025-05-07, from: Sunset Magazine - Living in the West
-
-Taking inspiration from the south of France and balmy Southern California weather, Chez Mia in L.A. is a dreamy indoor-outdoor restaurant. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/restaurants/chez-mia-los-angeles-recipes>
 
 ---
 

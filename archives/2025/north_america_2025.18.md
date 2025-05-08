@@ -1,11 +1,85 @@
 ---
 title: north america
-updated: 2025-05-08 06:11:21
+updated: 2025-05-08 10:54:11
 ---
 
 # north america
 
-(date: 2025-05-08 06:11:21)
+(date: 2025-05-08 10:54:11)
+
+---
+
+##  The Texas-Sized Plan To Shut You Up 
+
+date: 2025-05-08, from: The Lever News
+
+ A corporate-led attack on free speech in Texas is making odd bedfellows and tearing the state’s GOP apart.  
+
+<br> 
+
+<https://www.levernews.com/the-texas-sized-plan-to-shut-you-up/>
+
+---
+
+##  The Private Equity Time Bomb Is About To Blow 
+
+date: 2025-05-08, from: The Lever News
+
+ Private equity firms spent the last two decades plundering beloved American brands for parts — now, they threaten to send the economy further into a tailspin with record-high bankruptcies.  
+
+<br> 
+
+<https://www.levernews.com/the-private-equity-time-bomb-is-about-to-blow/>
+
+---
+
+## The Unkindest Cut: Slashing Medicaid Threatens the Medically Vulnerable
+
+date: 2025-05-08, from: Capital and Main
+
+<p>Are California’s in-home caregivers on Republicans’ chopping block?</p>
+<p>The post <a href="https://capitalandmain.com/the-unkindest-cut-slashing-medicaid-threatens-the-medically-vulnerable">The Unkindest Cut: Slashing Medicaid Threatens the Medically Vulnerable</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-unkindest-cut-slashing-medicaid-threatens-the-medically-vulnerable>
+
+---
+
+## CBO: The GOP’s Medicaid cuts will drop millions of people
+
+date: 2025-05-08, from: The Contrarian
+
+It was never about 'waste, fraud, and abuse.' 
+
+<br> 
+
+<https://contrarian.substack.com/p/cbo-the-gops-medicaid-cuts-will-drop>
+
+---
+
+## Coffee with the Contrarians 05/08
+
+date: 2025-05-08, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/08 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0508>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-08, from: The Contrarian
+
+Thursday: Preparing for a Mother's Day protest, weekly protests in California, and No Kings Day on June 14, plus protests in Turkey and Georgia continue, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -114,18 +188,6 @@ The celebration of Black dandyism was a (mostly) cringe-free triumph that sent a
 <br> 
 
 <https://contrarian.substack.com/p/this-years-met-gala-could-have-been>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-07, from: The Contrarian
-
-Wednesday: Tesla Takedowns in Oregon, Virginia, Washington, and Massachusetts, an epic congressional questioning, planning for No Kings Day, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

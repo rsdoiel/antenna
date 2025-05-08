@@ -1,11 +1,133 @@
 ---
 title: snapshots
-updated: 2025-05-08 06:11:32
+updated: 2025-05-08 10:54:21
 ---
 
 # snapshots
 
-(date: 2025-05-08 06:11:32)
+(date: 2025-05-08 10:54:21)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-08, from: Dave Winer's linkblog)
+
+Pope Leo XIV. 
+
+<br> 
+
+<https://en.m.wikipedia.org/wiki/Pope_Leo_XIV>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-08, from: Dave Winer's linkblog)
+
+AI isn’t replacing student writing – but it is reshaping it. 
+
+<br> 
+
+<https://theconversation.com/ai-isnt-replacing-student-writing-but-it-is-reshaping-it-254878>
+
+---
+
+## Ghibli, Ghiblification, Copyright and Style
+
+date: 2025-05-08, from: Authors Union blogs
+
+In late March, OpenAI made it possible to “Ghiblify” yourself — using its newest version of ChatGPT, with updated image [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/08/ghibli-ghiblification-copyright-and-style/>
+
+---
+
+## Silicon Valley's Empty Promises and Billion-Dollar Blunders
+
+date: 2025-05-08, from: Guy Kawasaki blog
+
+&#8220;Could the entire AI revolution be nothing more than an expensive con?&#8221; 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/silicon-valleys-empty-promises-and>
+
+---
+
+## Lenovo’s new gaming tablet combines Snapdragon 8 Elite, a 165Hz display and an optional game controller
+
+date: 2025-05-08, from: Liliputing
+
+<p>Lenovo has been selling a line of gaming tablets with 8.8 inch displays and high-end processors for the past few years. Now the company has revealed a 4th-gen model with the fastest processor, the highest-resolution display, and an optional game controller that transforms the tablet into a handheld game console. The Lenovo Legion Tab Y700 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovos-new-gaming-tablet-combines-snapdragon-8-elite-a-165hz-display-and-an-optional-game-controller/">Lenovo&#8217;s new gaming tablet combines Snapdragon 8 Elite, a 165Hz display and an optional game controller</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovos-new-gaming-tablet-combines-snapdragon-8-elite-a-165hz-display-and-an-optional-game-controller/>
+
+---
+
+## Ficunam 15: todo lo que debes saber
+
+date: 2025-05-08, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Ficunam, el Festival internacional de cine de la Universidad Nacional Autónoma de México, se llevará a cabo del 29 de mayo al 6 de junio en diversas sedes de la Ciudad de México y contará con la proyección de 117 títulos entre largometrajes, cortos, documentales e instalaciones audiovisuales de autores de alrededor del mundo. Desde [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/ficunam-15-todo-lo-que-debes-saber/">Ficunam 15: todo lo que debes saber</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/ficunam-15-todo-lo-que-debes-saber/?utm_source=rss&utm_medium=rss&utm_campaign=ficunam-15-todo-lo-que-debes-saber>
+
+---
+
+## Unconditional Surrender: Commemorating 80 Years Since the End of World War II in the European Theater of Operations
+
+date: 2025-05-08, from: National Archives, Text Message blog
+
+Today’s post is by Rachael Salyer, Subject Matter Expert for Modern Military Records at the National Archives in College Park, MD. In the early morning of May 7, 1945, representatives from the four Allied Powers met with General Alfred Jodl, Chief of Staff of the German Army, and two additional German officers at the Supreme &#8230; <a href="https://text-message.blogs.archives.gov/2025/05/08/unconditional-surrender-commemorating-80-years-since-the-end-of-world-war-ii-in-the-european-theater-of-operations/" class="more-link">Continue reading <span class="screen-reader-text">Unconditional Surrender: Commemorating 80 Years Since the End of World War II in the European Theater of Operations</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/05/08/unconditional-surrender-commemorating-80-years-since-the-end-of-world-war-ii-in-the-european-theater-of-operations/>
+
+---
+
+## Getting Started with Machine Learning on Bacalhau
+
+date: 2025-05-08, from: Bacalhau Blog
+
+Distributed Machine Learning needn't be compex with the help of Bacalhau 
+
+<br> 
+
+<https://blog.bacalhau.org/p/getting-started-with-machine-learning>
+
+---
+
+## DC-ROMA launches a $349 RISC-V mainboard with an 8-core CPU and 50 TOPS of AI performance and Ubuntu 24.04 LTS support
+
+date: 2025-05-08, from: Liliputing
+
+<p>Deep Computing&#8217;s new DC-ROMA RISC-V AI PC is a single-board computer with an ESWIN 7702X octa-core processor featuring SiFive P5550 RISC-V RV64GC CPU cores with support for frequencies up to 2GHz, a GPU with support for hardware-accelerated 3D graphics, and an NPU that delivers up to 40 TOPS of AI performance. According to Deep Computing, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dc-roma-launches-a-349-risc-v-mainboard-with-an-8-core-cpu-and-50-tops-of-ai-performance-and-ubuntu-24-04-lts-support/">DC-ROMA launches a $349 RISC-V mainboard with an 8-core CPU and 50 TOPS of AI performance and Ubuntu 24.04 LTS support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dc-roma-launches-a-349-risc-v-mainboard-with-an-8-core-cpu-and-50-tops-of-ai-performance-and-ubuntu-24-04-lts-support/>
+
+---
+
+## The Latest on Rümeysa Öztürk (May 8, 2025)
+
+date: 2025-05-08, updated: 2025-05-08, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/08/the-latest-on-rumeysa-ozturk-may-8-2025/>
 
 ---
 
@@ -272,6 +394,7 @@ date: 2025-05-07, updated: 2025-05-07, from: Simon Willison’s Weblog
 
 <p><strong><a href="https://mistral.ai/news/mistral-medium-3">Medium is the new large</a></strong></p>
 New model release from Mistral - this time closed source/proprietary. Mistral Medium claims strong benchmark scores similar to GPT-4o and Claude 3.7 Sonnet, but is priced at $0.40/million input and $2/million output - about the same price as GPT 4.1 Mini. <a href="https://www.llm-prices.com/">For comparison</a>, GPT-4o is $2.50/$10 and Claude 3.7 Sonnet is $3/$15.</p>
+<p>The model is a vision LLM, accepting both images and text.</p>
 <p>More interesting than the price is the deployment model. Mistral Medium may not be open weights but it is very much available for self-hosting:</p>
 <blockquote>
 <p>Mistral Medium 3 can also be deployed on any cloud, including self-hosted environments of four GPUs and above.</p>
@@ -284,7 +407,7 @@ New model release from Mistral - this time closed source/proprietary. Mistral Me
 <p>I released <a href="https://github.com/simonw/llm-mistral/releases/tag/0.12">llm-mistral 0.12</a> adding support for the new model.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a></p> 
 
 <br> 
 

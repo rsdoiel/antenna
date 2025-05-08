@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-05-08 06:11:26
+updated: 2025-05-08 10:54:16
 ---
 
 # journalism
 
-(date: 2025-05-08 06:11:26)
+(date: 2025-05-08 10:54:16)
+
+---
+
+## Suspect Apprehended for Vandalism at College of the Canyons
+
+date: 2025-05-08, from: The Canyon News (COC Student Newspaper)
+
+<p>About a couple of weeks ago, graffiti was discovered at the College&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/suspect-apprehended-for-vandalism-at-college-of-the-canyons/">Suspect Apprehended for Vandalism at College of the Canyons</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/suspect-apprehended-for-vandalism-at-college-of-the-canyons/>
 
 ---
 

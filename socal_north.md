@@ -1,11 +1,74 @@
 ---
 title: socal north
-updated: 2025-05-08 06:11:22
+updated: 2025-05-08 10:54:11
 ---
 
 # socal north
 
-(date: 2025-05-08 06:11:22)
+(date: 2025-05-08 10:54:11)
+
+---
+
+## Nate Holden, former LA councilmember and state senator, dies
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+The longtime politician who represented South L.A. was 95. 
+
+<br> 
+
+<https://laist.com/news/nate-holden-former-councilmember-state-senator>
+
+---
+
+## Long Beach man on trial for murder in crash that killed 12-year-old in Orange County
+
+date: 2025-05-08, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The boy’s father testified he watched in horror as the man blew through a stop sign and hit his son, who was crossing the street on his bike.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-on-trial-for-murder-in-crash-that-killed-12-year-old-in-orange-county">Long Beach man on trial for murder in crash that killed 12-year-old in Orange County</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-on-trial-for-murder-in-crash-that-killed-12-year-old-in-orange-county>
+
+---
+
+## SoCal temperatures rise before hottest days of the week
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+Temperatures to jump to high 80s for valleys and inland areas in SoCal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-temps-hottest-days-week>
+
+---
+
+## Robert Francis Prevost elected as first American pope
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+The 133 cardinals inside the Sistine Chapel made their selections on Thursday. He will be known as Pope Leo XIV. 
+
+<br> 
+
+<https://laist.com/news/white-smoke-we-have-a-new-pope>
+
+---
+
+## Best things to do Mother's Day weekend: May 9 - 11
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+Benjamin Millepied at L.A. Dance Project, an L.A. River performance event, Dylanfest, Mother’s Day brunches and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-mothers-day-los-angeles-southern-california-may-9-11>
 
 ---
 
@@ -49,7 +112,7 @@ A new UC Berkeley report finds that rebuilding all-electric could save homeowner
 
 date: 2025-05-07, from: Longbeach Post
 
-<figure><img width="828" height="722" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg 828w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-300x262.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-768x670.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-124x108.jpg 124w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-400x349.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="828" height="722" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg 828w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-300x262.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-768x670.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-124x108.jpg 124w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-400x349.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Here’s the inside story on how he was filmed, caught and convicted for an act of animal abuse that went viral.</p>
 <p>The post <a href="https://lbpost.com/news/crime/dog-abuse-viral-video-sentence-long-beach-convicted">Man gets 3 years in prison for slamming puppy into the ground in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

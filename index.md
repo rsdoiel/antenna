@@ -10,6 +10,7 @@ Collection                                          Description of Posts        
 [SoCal North](socal_north.html)                     Northern end of Southern California                                [socal_north.txt](socal_north.txt)
 [Pacific](pacific.html)                             Micronesia, Hawaii and the Pacific                                 [pacific.txt](pacific.txt)
 [North America](north_america.html)                 North America                                                      [north_america.txt](north_america.txt)
+[Planet](planet.html)                               Planet News                                                        [planet.txt](planet.txt)
 [Science & Technology](science_and_technology.html) Science and Technology                                             [science_and_technology.txt](science_and_technology.txt)
 [Columns](columns.html)                             Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov) links, selected forecast pages
