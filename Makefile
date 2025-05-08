@@ -37,8 +37,6 @@ build: harvest markdown html archives index.html forcecasts.html about.html READ
 
 world: build
 
-california: harvest markdown html archives index.html forecasts.html about.html README.html CITATION.cff dump
-
 website: markdown html archives index.html forecasts.html about.html README.html 
 
 harvest: $(section_names)

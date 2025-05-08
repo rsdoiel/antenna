@@ -6,7 +6,11 @@
 #
 # United Nations
 #
-https://news.un.org/en/rss-feeds "~United Nations News"
+https://news.un.org/feed/subscribe/en/news/all/rss.xml "~United Nations, Top Stories"
+https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml "~United Nations, Africa"
+https://news.un.org/feed/subscribe/en/news/region/americas/feed/rss.xml "~United Nations, Americas"
+https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml "~United Nations, Asia-Pacific"
+
 
 #
 # Canadian Broadcasting Corporation
