@@ -7,9 +7,10 @@
 # United Nations
 #
 https://news.un.org/feed/subscribe/en/news/all/rss.xml "~United Nations, Top Stories"
-https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml "~United Nations, Africa"
-https://news.un.org/feed/subscribe/en/news/region/americas/feed/rss.xml "~United Nations, Americas"
-https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml "~United Nations, Asia-Pacific"
+https://news.un.org/feed/subscribe/en/news/topic/un-affairs/feed/rss.xml "~United Nations, UN Affairs"
+https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml "~United Nations, Climate Change"
+https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml "~United Nations, Economic Development"
+https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml "~United Nations, Culture and Education"
 
 
 #
