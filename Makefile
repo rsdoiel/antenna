@@ -27,7 +27,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft small_papers snapshots
+section_names = planet north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft small_papers snapshots
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -56,6 +56,9 @@ food: .FORCE
 
 snapshots: .FORCE
 	-skimmer snapshots.txt
+
+planet: .FORCE
+	-skimmer planet.txt
 
 north_america: .FORCE
 	-skimmer north_america.txt
