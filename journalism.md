@@ -1,11 +1,76 @@
 ---
 title: journalism
-updated: 2025-05-07 14:10:38
+updated: 2025-05-08 06:11:26
 ---
 
 # journalism
 
-(date: 2025-05-07 14:10:38)
+(date: 2025-05-08 06:11:26)
+
+---
+
+## Academic Senate endorses statement of shared values on higher education amid Trump administration actions
+
+date: 2025-05-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Faculty leaders at Big Ten schools wrote the resolution which has been passed by 11 other faculty-led advisory bodies.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/07/academic-senate-endorses-statement-of-shared-values-on-higher-education-amid-trump-administration-actions/">Academic Senate endorses statement of shared values on higher education amid Trump administration actions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/07/academic-senate-endorses-statement-of-shared-values-on-higher-education-amid-trump-administration-actions/>
+
+---
+
+## Rat infestation leads to relocation of Feast at Rieber
+
+date: 2025-05-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Feast at Rieber has relocated to De Neve Plaza due to a rat infestation – and may remain closed for the rest of the academic year. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/07/rat-infestation-leads-to-relocation-of-feast-at-rieber/>
+
+---
+
+## Sanders rallies in downtown with record crowd
+
+date: 2025-05-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Senator Bernie Sanders and U.S. Representative from New York Alexandria Ocasio-Cortez held a rally in downtown Los Angeles on Saturday, April 12. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/07/sanders-rallies-in-downtown-with-record-crowd/>
+
+---
+
+## USA Elections Board disqualifies 3 USAC candidates for failure to submit documents
+
+date: 2025-05-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 7 at 10:23 p.m.</em>
+The USA Elections Board disqualified three candidates from the upcoming Undergraduate Students Association Council elections Wednesday.&#160;
+The candidates, Maya Wertheim, Mitchell Stevens II and Johanna Vu, were disqualified for failing to submit required documents to the elections board by Tuesday night, according to notices of disqualification issued by the board.&#160;
+Wertheim, a former Daily Bruin Opinion intern who is running for general representative, was disqualified for failing to submit an expense account form, while Stevens – who is running for Cultural Affairs commissioner – and Vu – who is running for Student Wellness commissioner – failed to submit the expenses form and sources of funding forms, according to the notices. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/07/usa-elections-board-disqualifies-3-usac-candidates-for-failure-to-submit-documents/>
+
+---
+
+## Horrors of UCLA: Enrollment Fright
+
+date: 2025-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/07/horrors-of-ucla-enrollment-fright-2/>
 
 ---
 

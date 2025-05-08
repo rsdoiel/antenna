@@ -1,15 +1,201 @@
 ---
 title: columns
-updated: 2025-05-07 14:10:36
+updated: 2025-05-08 06:11:25
 ---
 
 # columns
 
-(date: 2025-05-07 14:10:36)
+(date: 2025-05-08 06:11:25)
 
 ---
 
-## Prices and unemployment are heading up. Everything else is going down 
+## 2025-05-08 I am not interested in clerics
+
+date: 2025-05-08, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-08-i-am-not-interested-in-clerics">2025-05-08 I am not interested in clerics</h1>
+
+<p>I noticed a bunch of posts on the topic of clerics.
+I got them via the fedibot that reposts the blogs from the OSR Discord server (<a class="account" href="https://social.alexschroeder.ch/@osr" title="@osr@social.alexschroeder.ch">@osr</a>, <a href="https://campaignwiki.org/files/osr-discord.xml">feed</a> <img loading="lazy" src="/pics/rss.svg" alt="RSS" />).
+They all linked back to <a href="https://prismaticweekly.substack.com/p/emergency-bandwagon-conclave-edition">Emergency Bandwagon: Conclave Edition</a>:</p>
+
+<blockquote>
+<p><strong>The Pope has died.</strong> A new Pope, his hour come round at last, slouches towards the Chair of Saint Peter to be ensconced. In the meantime, WE BLOGGING.</p>
+
+<p>A new challenge for bloggers: write something in anyway related to clerics (perhaps particularly their hierarchy and rituals?) and post it between when the conclave begins on May 7 and when the smoke emanates from the chimney indicating that a new Pope has been selected.</p>
+</blockquote>
+
+<p>That made me laugh.</p>
+
+<p>Clerics really seem to stir people up!</p>
+
+<blockquote>
+<p>I really don&rsquo;t like the cleric class. – <a href="https://lootlootlore.blogspot.com/2025/05/splitting-cleric-into-holy-trinity.html">Splitting the cleric into the Holy Trinity</a></p>
+
+<p>I don’t like clerics and never really have. – <a href="https://www.prismaticwasteland.com/blog/divine-magic-works-in-mysterious-ways">Divine Magic Works in Mysterious Ways</a></p>
+
+<p>Of all the classes, the cleric strikes me as the dullest—so let&rsquo;s fix that. – <a href="https://elmc.at/kill-clerics-become-warlocks/">Kill Clerics, Become Warlocks</a></p>
+</blockquote>
+
+<p>In my own house rules, there have been <a href="2016-01-29_No_Clerics">no clerics</a> since 2016.
+Back in 2019 I reported that I had <a href="2019-02-08_Still_No_Clerics">still no clerics</a>.
+And I still don&rsquo;t.
+I also never went back to using &ldquo;paladin&rdquo; abilities as mentioned in that &ldquo;no clerics&rdquo; post
+and I never went back to using <a href="2015-10-31_Reputation%2C_again">reputation</a> for &ldquo;divine favour&rdquo;.</p>
+
+<p>As <a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> of <a href="https://nilisnotnull.blogspot.com/">((nil) is (not(null)))</a> also uses these house rules to run Barrowmaze and I&rsquo;m an occasional player, I get to use the rules from the player side, too. And it works! It works even if the whole dungeon is filled with undead. It&rsquo;s just harder.</p>
+
+<p>I encourage you to give it a try. An adventure that requires a specific class to be in the party is a dull adventure. Therefore, all adventures can be played without clerics. It might be a bit harder, or it may feel different, but it can be done.</p>
+
+<p>And I&rsquo;m by no means a fanatic. I&rsquo;ve played clerics. In my <a href="https://ardenvul.com/">Arden Vul</a> game, we use AD&amp;D 1st edition rules. And there are clerics, of course.
+It&rsquo;s OK. I don&rsquo;t mind.
+The undead turning doesn&rsquo;t really make much of a difference.
+And the highest level cleric just recently started multi-classing as a magic-user.</p>
+
+<p>In a way that seems to validate my idea: There are no clerics. Cleric spells are regular spells and magic-users can learn them, if they want. If you want to cast spells and wear armour and wield weapons, play an elf.</p>
+
+<p>That brings me to another idea: I am thinking that we maybe don&rsquo;t need all these classes. We just need fighters and wizards and a multi-class options. If experience always double for the next level, then a fighter-wizard – what used to be an elf – is a level below their peers. Which is exactly the effect of double experience point requirements for elves in B/X or how OD&amp;D elves work where you need to pick fighting elf or spell-casting elf at the beginning of the adventure. That leaves the question of whether comparison: One extra level of wizard is powerful, for sure. Is an extra level of fighter powerful? Probably not so much. A fighter with no wizard levels is simply easier to play. But that&rsquo;s a thought for another day – and no excuse to bring clerics back.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Halberds_and_Helmets">#Halberds and Helmets</a> <a class="tag" href="/search/?q=%23Clerics">#Clerics</a></p>
+
+<p><strong>2025-05-08</strong>. Best quote by <a class="account" href="https://appdot.net/@mdhughes" title="@mdhughes@appdot.net">@mdhughes</a>:</p>
+
+<blockquote>
+<p>The only reason they were ever in the game was Gary had an annoying vampire PC, and rather than do anything OOC (unaware that Rousseau had published The Social Contract in 1762), he made a grudge class for someone else. – <a href="https://mdhughes.tech/2022/05/24/dungeoning-dragoning-my-new-rules-no-clerics-allowed/">Dungeoning &amp; Dragoning and My New Rules, No Clerics Allowed</a></p>
+</blockquote> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-08-tired-of-clerics>
+
+---
+
+## A Mother’s Day truth about the “Fertilization President”
+
+date: 2025-05-08, from: Robert Reich's blog
+
+The White House&#8217;s avowed concern about the nation&#8217;s declining birth rate is a pretext for something else. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-terrible-truth-about-the-fertilization>
+
+---
+
+## 2025-05-08 Not doing the thing
+
+date: 2025-05-08, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-08-not-doing-the-thing">2025-05-08 Not doing the thing</h1>
+
+<p>I was reading stuff on fedi, as one does, wrote a reply, deleted it, moved on, read some more, wrote a reply, deleted it. In both cases I wanted say that the thing people were talking about seemed to me to be that pattern in capitalism where &ldquo;not doing a thing&rdquo; gives you less power over time, so people always end up doing something.</p>
+
+<p>Like &ldquo;buy this to save money&rdquo; instead of &ldquo;don&rsquo;t buy this to save money&rdquo; or &ldquo;buy this keyboard to fight the pain in your wrists&rdquo; instead of &ldquo;work less to fight the pain in your wrists&rdquo;.</p>
+
+<p>If you advocate for not doing a thing, there&rsquo;s no money changing hands and therefore no ads to buy, no voice to gain, no political decisions going your way. Which is a slightly different explanation than greed and greenwashing for the failure of degrowth to take hold: If you sell flights and buy carbon offsets you&rsquo;ll always be growing unlike the competition that sells less flights to lower emissions. Even if the employees of the second company are feeling no need to grow, in the general population, their message will tend to get lost, their percentage of the market, even if enough for them, will continue to shrink, and eventually people will not have heard about them.</p>
+
+<p>I don&rsquo;t know how to change that except by laws against doing all the things I think we need to stop doing. Because the entire market, the public speech, the commercial activity, it is all dominated by people who do the thing. Sure, it&rsquo;s greed, in a way, but it&rsquo;s also a ratchet, unstoppable, step by step, a selection process that is ongoing.</p>
+
+<p>Do right and stop doing the thing and you leave that public sphere. Like Voltaire says, tend to your own garden. You&rsquo;ll be happy but the political storms raging around you will seem more and more alien. Because the people that didn&rsquo;t drop out will no longer hear you or see you. The next generation will not learn from you.</p>
+
+<p>So one needs to stay in politics? Fight for the thing even though all the money goes to towards doing the things that we shouldn&rsquo;t be doing?</p>
+
+<p>I don&rsquo;t know what to do.</p>
+
+<p>The entire thing reminds me of <a href="2022-02-14_How_to_Do_Nothing">How to Do Nothing</a>.</p>
+
+<p><a class="account" href="https://toot.cat/@dredmorbius" title="@dredmorbius@toot.cat">@dredmorbius</a> answered with &ldquo;Don&rsquo;t just do something, stand there!&rdquo; What a great reversal of &ldquo;Don&rsquo;t just stand there, do something!&rdquo; (<a href="https://quoteinvestigator.com/2014/03/22/stand-there/">Quote Investigator</a>).</p>
+
+<p><a class="account" href="https://c.im/@smlckz" title="@smlckz@c.im">@smlckz</a> reminded me of <a href="https://en.m.wikipedia.org/wiki/Tang_ping">tang ping</a>, Chinese for &ldquo;lying flat&rdquo; (instead of working hard). In a world of efficiency and productivity, lying flat is resistance.
+Or is checking out a way to avoid responsibility? Or the admission of powerlessness? I feel it all.</p>
+
+<p><a class="account" href="https://photog.social/@ewen" title="@ewen@photog.social">@ewen</a> noted a similar problem in medicine where &ldquo;the three biggest factors in long term health are getting more sleep, drinking more water and getting a little exercise.&rdquo; Which can&rsquo;t be monetised, of course. So somebody else must be talking about this. This reminds me of the reversal at the Chinese imperial court I heard of at one point. No idea if it is true, but the idea seems interesting: there&rsquo;s a physician and they get paid if the patients is healthy. We could get there in part with healthcare paid 100% by taxes, maybe? After all, the state usually pays for campaigns of public health, for the ads, the education, the measures, all of it.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-08-doing-nothing>
+
+---
+
+## May 7, 2025 
+
+date: 2025-05-08, from: Heather Cox Richardson blog
+
+Alarm appears to be rising about how the &#8220;Department of Government Efficiency&#8221; (DOGE) is consolidating data about Americans. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-7-2025>
+
+---
+
+## The Musk Massacre
+
+date: 2025-05-08, from: Jonudell blog
+
+The great adventure of my birth family was the fifteen months we lived in New Delhi, from June of 1961, on a USAID-sponsored educational mission. So the destruction of USAID feels personal. I&#8217;m only now realizing that we were there at the very beginning of USAID, during what Jackie Kennedy later mythologized as the Camelot &#8230; <a href="https://blog.jonudell.net/2025/05/07/the-musk-massacre/" class="more-link">Continue reading <span class="screen-reader-text">The Musk Massacre</span></a> 
+
+<br> 
+
+<https://blog.jonudell.net/2025/05/07/the-musk-massacre/>
+
+---
+
+## Pay Attention to What Happened in Newark.
+
+date: 2025-05-08, from: James Fallows, Substack
+
+Should you worry about getting on an airline flight tomorrow? No. Should you worry that the Golden Age of phenomenally safe flying may be nearing its end? Yes. 
+
+<br> 
+
+<https://fallows.substack.com/p/pay-attention-to-what-happened-in>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-08, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/05/30/spikeLeeKnicksFan.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Knicks are <a href="https://www.northjersey.com/story/sports/nba/knicks/2025/05/07/ny-knicks-celtics-game-2-score-mikal-bridges-jalen-brunson/83491430007/">unbelievable</a>. It feels like 2015, when the Mets would be down 9-0 in the seventh, and you'd tune in to see how they would win. At the very end of the Knicks game tonight, when the Celtics were up by 1, I thought how would this feel if the Knicks came back so far and didn't win. I should've known better. All those insufferable years when we wore <a href="http://scripting.com/images/2023/04/27/knicksFansWithBagsOverHeads.png">paper bags to hide our faces</a>, even if this is as far as the Knicks get this year, it will have been worth it. Sports teaches you to believe, if you wait long enough your team teaches you that. I've learned it from the Mets so many times, and the Knicks now. I just wish <a href="https://en.wikipedia.org/wiki/Walt_Frazier">Clyde</a> were doing the color with Mike Breen doing the play by play. But who cares, this was great sports. Watching <a href="https://en.wikipedia.org/wiki/Monica_McNutt">Monica McNutt</a> on MSG in a daze. It's like homecoming. I might just splurge for a ticket to Saturday night's game. It's a pretty easy drive. 
+
+<br> 
+
+<http://scripting.com/2025/05/07.html#a020407>
+
+---
+
+## Eddy Cue, on the Stand in U.S. v. Google Trial, Says Apple Is Eying a Move to AI in Safari
+
+date: 2025-05-08, updated: 2025-05-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-05-07/apple-working-to-move-to-ai-search-in-browser-amid-google-fallout>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-07, from: Dave Winer's Scripting News)
+
+I want the <a href="https://electrek.co/2025/05/07/hyundai-unveils-new-elexio-electric-suv-with-435-miles-range/">EV's they're getting in China</a>. Because we've got these stupid trade barriers we can't get the latest tech. Imagine in say 1984 you were a developer outside the US and you couldn't get a Mac. Then, perhaps Trump's tariff might have a slight chance of working. Now we're on the outside looking in. 
+
+<br> 
+
+<http://scripting.com/2025/05/07.html#a215256>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-07, from: Dave Winer's Scripting News)
+
+There's a <a href="https://this.how/wordland/dialogForPublish.opml">new dialog</a> in WordLand that confirms the first time you publish a post, and offers to open it in the web browser. 
+
+<br> 
+
+<http://scripting.com/2025/05/07.html#a213926>
+
+---
+
+## Prices and unemployment are heading up. Everything else is going down.
 
 date: 2025-05-07, from: Robert Reich's blog
 
@@ -711,7 +897,7 @@ date: 2025-05-06, from: Dave Winer's Scripting News
 
 <p>Three questions came up in overnight posts re <a href="https://wordland.social/">WordLand</a>.</p>
 <ol>
-<li>Where did the Bookmarks menu go? It's mentioned in the docs under <a href="https://this.how/wordland/#1732286073000">Feature List</a>, but the feature doesn't appear to be in the product. It is there, you just have to go to the <a href="https://imgs.scripting.com/2025/05/06/settings.png">Settings</a> page to turn it on. It's in the menu at the right edge of the screen. I'm doing some work on it, simplifying it, and finding and fixing a bug. It's going to be in the final 1.0 release of WordLand. </li>
+<li>Where did the <a href="https://github.com/scripting/wordlandSupport/issues/83">Bookmarks menu</a> go? It's mentioned in the docs under <a href="https://this.how/wordland/#1732286073000">Feature List</a>, but the feature doesn't appear to be in the product. It is there, you just have to go to the <a href="https://imgs.scripting.com/2025/05/06/settings.png">Settings</a> page to turn it on. It's in the menu at the right edge of the screen. I'm doing some work on it, simplifying it, and finding and fixing a bug. It's going to be in the final 1.0 release of WordLand. </li>
 <li>How do I know when an post has been published? It was <a href="https://github.com/scripting/wordlandSupport/issues/57#issuecomment-2853465283">suggested</a> we post a dialog that confirms that a post is published. People found it confusing since it appears as if it works like a social media post editor, as in Twitter or Mastodon, it behaves like a blog post editor. This is a good and valid point and something that had not occurred to me! I've been advertising it as inspired by the tiny little textbox editors, but it doesn't behave like one, because you can edit a post after it has been published and it is expected that the user knows this, and they don't always get it. I will work on this. </li>
 <li>The user might not have a WordPress site. They may have created an account to just log onto WordLand, but didn't know they needed to also create a site to work with. The software does not behave well in this circumstance. Again, something that did not occur to me, because I think of the WordPress world as huge, and that my new, tiny and humble product couldn't be creating new users for them, but it does. So there will have to at least be docs for how to do this. Not sure if there's an API for creating a new site, I imagine that there is not such a thing, but will look into it.  </li>
 </ol>

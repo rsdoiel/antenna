@@ -1,11 +1,53 @@
 ---
 title: food
-updated: 2025-05-07 14:10:41
+updated: 2025-05-08 06:11:30
 ---
 
 # food
 
-(date: 2025-05-07 14:10:41)
+(date: 2025-05-08 06:11:30)
+
+---
+
+## Gochujang Pasta Alfredo
+
+date: 2025-05-08, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/05/Gochujang-Pasta-Alfredo-1200-9585.jpg"/></div>
+<p>A creamy alfredo sauce seasoned with spicy gochujang, a Korean chili pepper paste! Pasta alfredo, pasta in a creamy parmesan sauce, is a favourite and this is a simple twist which adds gochujang, a Korean style chili pepper paste, for some spicy heat! This recipe is as simple as the original with green onions, garlic,...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/gochujang-pasta-alfredo/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/gochujang-pasta-alfredo/">Gochujang Pasta Alfredo</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/gochujang-pasta-alfredo/>
+
+---
+
+## How to Prevent Soggy Pie Crust
+
+date: 2025-05-08, from: Taste of Home
+
+<p>Ready to bake the perfect pie? These tips on how to prevent soggy pie crust will have you serving up evenly-baked, golden-brown pies.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/how-to-keep-pie-crust-from-getting-soggy/">How to Prevent Soggy Pie Crust</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/how-to-keep-pie-crust-from-getting-soggy/>
+
+---
+
+## The Best Garlic Press for Crushed Cloves Without the Mess (2025)
+
+date: 2025-05-08, from: Bon Appetet
+
+Crushed cloves without the mess. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-garlic-press>
 
 ---
 

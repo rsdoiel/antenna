@@ -1,11 +1,294 @@
 ---
 title: snapshots
-updated: 2025-05-07 14:10:43
+updated: 2025-05-08 06:11:32
 ---
 
 # snapshots
 
-(date: 2025-05-07 14:10:43)
+(date: 2025-05-08 06:11:32)
+
+---
+
+## Quoting Ashley Willis
+
+date: 2025-05-08, updated: 2025-05-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://ashley.dev/posts/what-even-is-vibe-coding/"><p>But I’ve also had my own quiet concerns about what [vibe coding] means for early-career developers. So much of how I learned came from chasing bugs in broken tutorials and seeing how all the pieces connected, or didn’t. There was value in that. And maybe I’ve been a little protective of it.</p>
+<p>A mentor challenged that. He pointed out that debugging AI generated code is a lot like onboarding into a legacy codebase, making sense of decisions you didn’t make, finding where things break, and learning to trust (or rewrite) what’s already there. That’s the kind of work a lot of developers end up doing anyway.</p></blockquote>
+<p class="cite">&mdash; <a href="https://ashley.dev/posts/what-even-is-vibe-coding/">Ashley Willis</a>, What Even Is Vibe Coding?</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/8/ashley-willis/#atom-everything>
+
+---
+
+## Vote for the May 2025 + Post Topic
+
+date: 2025-05-08, from: Computer ads from the Past
+
+Make your vote count. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-may-2025-post-topic>
+
+---
+
+## Will Trump Pretend to Fix What He Broke?
+
+date: 2025-05-08, from: Paul Krugman
+
+Why you shouldn&#8217;t get excited about his &#8220;deals&#8221; 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/will-trump-pretend-to-fix-what-he>
+
+---
+
+## The Second Continental Congress Convenes
+
+date: 2025-05-08, from: National Archives, Pieces of History blog
+
+In celebration of the upcoming 250th anniversary of the United States, we’re focusing on key events in the history of independence. Today’s post looks at the early months of the Second Continental Congress.  Before the First Continental Congress adjourned in October 1774, its members agreed to reconvene in Philadelphia on May 10, 1775. By the &#8230; <a href="https://prologue.blogs.archives.gov/2025/05/08/the-second-continental-congress-convenes/" class="more-link">Continue reading <span class="screen-reader-text">The Second Continental Congress Convenes </span></a> 
+
+<br> 
+
+<https://prologue.blogs.archives.gov/2025/05/08/the-second-continental-congress-convenes/>
+
+---
+
+## 295: Thanatogenic Anthrosoil
+
+date: 2025-05-08, from: Fix the News
+
+New metal band name unlocked. Plus, our latest charity partner, Tanzania's incredible electrification drive, oil majors abandon the playing field, the first Southeast Asian country to ban corporal punishment, and did someone just say LAZERS? 
+
+<br> 
+
+<https://fixthenews.com/295-thanatogenic-anthrosoil/>
+
+---
+
+## llm-gemini 0.19.1
+
+date: 2025-05-08, updated: 2025-05-08, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-gemini/releases/tag/0.19.1">llm-gemini 0.19.1</a></strong></p>
+Bugfix release for my <a href="https://github.com/simonw/llm-gemini">llm-gemini</a> plugin, which was recording the number of output tokens (needed to calculate the price of a response) incorrectly for the Gemini "thinking" models. Those models turn out to return <code>candidatesTokenCount</code> and <code>thoughtsTokenCount</code> as two separate values which need to be added together to get the total billed output token count. Full details in <a href="https://github.com/simonw/llm-gemini/issues/75">this issue</a>.</p>
+<p>I spotted this potential bug in <a href="https://gist.github.com/simonw/87a59e7f5c12274d65e2ac053b0eacdb#token-usage">this response log</a> this morning, and my concerns were confirmed when Paul Gauthier wrote about a similar fix in Aider in <a href="https://aider.chat/2025/05/07/gemini-cost.html">Gemini 2.5 Pro Preview 03-25 benchmark cost</a>, where he noted that the $6.32 cost recorded to benchmark Gemini 2.5 Pro Preview 03-25 was incorrect. Since that model is no longer available (despite <a href="https://simonwillison.net/2025/May/6/gemini-25-pro-preview/">the date-based model alias persisting</a>) Paul is not able to accurately calculate the new cost, but it's likely a lot more since the Gemini 2.5 Pro Preview 05-06 benchmark cost $37.</p>
+<p>I've gone through my <a href="">gemini tag</a> and attempted to update my previous posts with new calculations - this mostly involved increases in the order of 12.336 cents to 16.316 cents (<a href="https://simonwillison.net/2025/May/6/gemini-25-pro-preview/">as seen here</a>).
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/paul-gauthier">paul-gauthier</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/aider">aider</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/8/llm-gemini-0191/#atom-everything>
+
+---
+
+## Why the Chinese Government Taught AI to Lie
+
+date: 2025-05-08, from: Peter Warden
+
+I love the country of China, I made some good friends while collaborating with engineers based in Beijing, but the Chinese government is a repressive regime relying on censorship to control its own population. I&#8217;m old enough to remember feeling a rush of hope when the Tiananmen Square protests were started by people not much [&#8230;] 
+
+<br> 
+
+<https://petewarden.com/2025/05/08/why-the-chinese-government-taught-ai-to-lie/>
+
+---
+
+## Comics from 1983/12 Issue of Videogaming and Computer Gaming Illustrated
+
+date: 2025-05-08, from: Computer ads from the Past
+
+Time for some oldie levity. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198312-issue-of-videogaming>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-08, from: Dave Winer's linkblog)
+
+Leaked Memo Reveals Details About Trump’s War on Science at the NIH. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/05/nih-hhs-leaked-memo-funding-cuts-trump-war-on-science-vaccines-rfk-climate-change-covid-china/>
+
+---
+
+## ”Everyone is cheating their way through college” with GenAI. Who should bear the costs?
+
+date: 2025-05-08, from: Gary Marcus blog
+
+Society is once again left holding the bag 
+
+<br> 
+
+<https://garymarcus.substack.com/p/everyone-is-cheating-their-way-through>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-08, from: Feed for Alt USDS)
+
+Elon Musk is out, but DOGE is still inside the federal government. We’re already planning how to rebuild.
+
+Read more in today’s Built to Serve newsletter
+ 🛠️ https://bit.ly/4d8DK1c
+
+ #WeTheBuilders #BuiltToServe #DOGE 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lommhttpye2x>
+
+---
+
+## Introducing web search on the Anthropic API
+
+date: 2025-05-07, updated: 2025-05-07, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/news/web-search-api">Introducing web search on the Anthropic API</a></strong></p>
+Anthropic's <a href="https://simonwillison.net/2025/Mar/20/claude-can-now-search-the-web/">web search</a> (presumably still <a href="https://simonwillison.net/2025/Mar/21/anthropic-use-brave/">powered by Brave</a>) is now also available through their API, in the shape of a new <a href="https://docs.anthropic.com/en/docs/build-with-claude/tool-use/web-search-tool">web search tool</a> called <code>web_search_20250305</code>.</p>
+<p>You can specify a maximum number of uses per prompt and you can also pass a list of disallowed or allowed domains, plus hints as to the user's current location.</p>
+<p>Search results are returned in a format that looks similar to the <a href="https://simonwillison.net/2025/Jan/24/anthropics-new-citations-api/">Anthropic Citations API</a>.</p>
+<p>It's charged at $10 per 1,000 searches, which is a little more expensive than what the <a href="https://brave.com/search/api/">Brave Search API</a> charges ($3 or $5 or $9 per thousand depending on how you're using them).</p>
+<p>I couldn't find any details of additional rules surrounding storage or display of search results, which surprised me because both <a href="https://ai.google.dev/gemini-api/docs/grounding/search-suggestions#requirements">Google Gemini</a> and <a href="https://platform.openai.com/docs/guides/tools-web-search?api-mode=chat#output-and-citations">OpenAI</a> have these for their own API search results.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43920188">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/search">search</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/7/anthropic-api-search/#atom-everything>
+
+---
+
+## 563. Peter the Great: Bloodbath in the Kremlin (Part 2)
+
+date: 2025-05-07, from: This is history podcast
+
+<p>What abominable mischief and hedonism did the seventeen year old Peter the Great revel in during his strange and remarkable travels through Europe, before truly stepping into the role of Tsar of all the Russias? Did it serve a secret political purpose? What was the outcome of the first war he chose to wage against [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/563-peter-the-great-bloodbath-in-the-kremlin-part-2/">563. Peter the Great: Bloodbath in the Kremlin (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/563-peter-the-great-bloodbath-in-the-kremlin-part-2/>
+
+---
+
+## Create and edit images with Gemini 2.0 in preview
+
+date: 2025-05-07, updated: 2025-05-07, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/">Create and edit images with Gemini 2.0 in preview</a></strong></p>
+Gemini 2.0 Flash has had image generation capabilities for a while now, and they're now available via the paid Gemini API - at 3.9 cents per generated image.</p>
+<p>According to <a href="https://ai.google.dev/gemini-api/docs/image-generation">the API documentation</a> you need to use the new <code>gemini-2.0-flash-preview-image-generation</code> model ID and specify <code>{"responseModalities":["TEXT","IMAGE"]}</code> as part of your request.</p>
+<p>Here's an example that calls the API using <code>curl</code> (and fetches a Gemini key from the <code>llm keys get</code> store):</p>
+<pre>curl -s -X POST \
+  <span class="pl-s"><span class="pl-pds">"</span>https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-preview-image-generation:generateContent?key=<span class="pl-s"><span class="pl-pds">$(</span>llm keys get gemini<span class="pl-pds">)</span></span><span class="pl-pds">"</span></span> \
+  -H <span class="pl-s"><span class="pl-pds">"</span>Content-Type: application/json<span class="pl-pds">"</span></span> \
+  -d <span class="pl-s"><span class="pl-pds">'</span>{</span>
+<span class="pl-s">    "contents": [{</span>
+<span class="pl-s">      "parts": [</span>
+<span class="pl-s">        {"text": "Photo of a raccoon in a trash can with a paw-written sign that says I love trash"}</span>
+<span class="pl-s">      ]</span>
+<span class="pl-s">    }],</span>
+<span class="pl-s">    "generationConfig":{"responseModalities":["TEXT","IMAGE"]}</span>
+<span class="pl-s">  }<span class="pl-pds">'</span></span> <span class="pl-k">&gt;</span> /tmp/raccoon.json</pre>
+<p>Here's <a href="https://gist.github.com/simonw/d96f4adb9cd0933e17fb5771b43d681a">the response</a>. I got Gemini 2.5 Pro <a href="https://gist.github.com/simonw/6363ace77bbac08c6ad05857b3bd9ad2">to vibe-code me</a> a new <a href="https://tools.simonwillison.net/gemini-image-json">debug tool</a> for visualizing that JSON. If you visit that tool and click the "Load an example" link you'll see the result of the raccoon image visualized:</p>
+<p><img alt="Render JSON from Gemini Image Generation tool. Paste Gemini JSON here: a bunch of JSON with a base64 encoded PNG. Then buttons to Load an example, or a really big (40MB) example or Render JSON. The Rendered Content shows a photograph of a raccoon in an open top bin holding a sign that says I heart trash." src="https://static.simonwillison.net/static/2025/gemini-image-tool.jpg" /></p>
+<p>The other prompt I tried was this one:</p>
+<blockquote>
+<p>Provide a vegetarian recipe for butter chicken but with chickpeas not chicken and include many inline illustrations along the way</p>
+</blockquote>
+<p>The result of that one was a <a href="https://gist.github.com/simonw/55894032b2c60b35f320b6a166ded493">41MB JSON file</a>(!) containing 28 images - which presumably cost over a dollar since images are 3.9 cents each.</p>
+<p>Some of the illustrations it chose for that one were somewhat unexpected:</p>
+<p><img alt="Text reads: &quot;* ½ teaspoon Kashmiri chili powder (or paprika for milder flavor)&quot; followed by a group photo of people in formal attire with black suits and light blue ties standing in rows outdoors, then &quot;* ½ cup heavy cream (or coconut cream for vegan option)&quot; followed by a close-up image of dried cumin seeds or similar brown spice." src="https://static.simonwillison.net/static/2025/weird-illustrations.jpg" /></p>
+<p>If you want to see that one you can click the "Load a really big example" link in <a href="https://tools.simonwillison.net/gemini-image-json">the debug tool</a>, then wait for your browser to fetch and render the full 41MB JSON file.</p>
+<p>The most interesting feature of Gemini (as with GPT-4o images) is the ability to accept images as inputs. I tried that out with <a href="https://static.simonwillison.net/static/2025/pelican-no-hat.jpg">this pelican photo</a> like this:</p>
+<pre>cat <span class="pl-k">&gt;</span> /tmp/request.json <span class="pl-s"><span class="pl-k">&lt;&lt;</span> <span class="pl-k">EOF</span></span>
+<span class="pl-s">{</span>
+<span class="pl-s">  "contents": [{</span>
+<span class="pl-s">    "parts":[</span>
+<span class="pl-s">      {"text": "Modify this photo to add an inappropriate hat"},</span>
+<span class="pl-s">      {</span>
+<span class="pl-s">        "inline_data": {</span>
+<span class="pl-s">          "mime_type":"image/jpeg",</span>
+<span class="pl-s">          "data": "<span class="pl-s"><span class="pl-pds">$(</span>base64 -i pelican.jpg<span class="pl-pds">)</span></span>"</span>
+<span class="pl-s">        }</span>
+<span class="pl-s">      }</span>
+<span class="pl-s">    ]</span>
+<span class="pl-s">  }],</span>
+<span class="pl-s">  "generationConfig": {"responseModalities": ["TEXT", "IMAGE"]}</span>
+<span class="pl-s">}</span>
+<span class="pl-s"><span class="pl-k">EOF</span></span>
+
+<span class="pl-c"><span class="pl-c">#</span> Execute the curl command with the JSON file</span>
+curl -X POST \
+  <span class="pl-s"><span class="pl-pds">'</span>https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-preview-image-generation:generateContent?key=<span class="pl-pds">'</span></span><span class="pl-s"><span class="pl-pds">$(</span>llm keys get gemini<span class="pl-pds">)</span></span> \
+  -H <span class="pl-s"><span class="pl-pds">'</span>Content-Type: application/json<span class="pl-pds">'</span></span> \
+  -d @/tmp/request.json \
+  <span class="pl-k">&gt;</span> /tmp/out.json</pre>
+
+<p>And now the pelican is wearing a hat:</p>
+<p><img alt="A pelican with its wings outstretched wearing an inappropriate pink bowler hat. The hat looks a little bit pasted on. " src="https://static.simonwillison.net/static/2025/pelican-hat.jpg" />
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43917461">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/tools">tools</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/7/gemini-images-preview/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-07, from: Dave Winer's linkblog)
+
+There&#39;s no doubt, China is making the EV&#39;s we want and will never have in the US. If Trumpsters only knew how much fun these freaking cars are, they&#39;d tell Trump to cut the bullshit, and welcome them in. We want what they&#39;re making. 
+
+<br> 
+
+<https://electrek.co/2025/05/07/hyundai-unveils-new-elexio-electric-suv-with-435-miles-range/>
+
+---
+
+## Medium is the new large
+
+date: 2025-05-07, updated: 2025-05-07, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mistral.ai/news/mistral-medium-3">Medium is the new large</a></strong></p>
+New model release from Mistral - this time closed source/proprietary. Mistral Medium claims strong benchmark scores similar to GPT-4o and Claude 3.7 Sonnet, but is priced at $0.40/million input and $2/million output - about the same price as GPT 4.1 Mini. <a href="https://www.llm-prices.com/">For comparison</a>, GPT-4o is $2.50/$10 and Claude 3.7 Sonnet is $3/$15.</p>
+<p>More interesting than the price is the deployment model. Mistral Medium may not be open weights but it is very much available for self-hosting:</p>
+<blockquote>
+<p>Mistral Medium 3 can also be deployed on any cloud, including self-hosted environments of four GPUs and above.</p>
+</blockquote>
+<p>Mistral's other announcement today is <a href="https://mistral.ai/news/le-chat-enterprise">Le Chat Enterprise</a>. This is a suite of tools that can integrate with your company's internal data and provide "agents" (these look similar to Claude Projects or OpenAI GPTs), again with the option to self-host.</p>
+<p>Is there a new open weights model coming soon? This note tucked away at the bottom of the Mistral Medium 3 announcement seems to hint at that:</p>
+<blockquote>
+<p>With the launches of <a href="https://mistral.ai/news/mistral-small-3-1">Mistral Small</a> in March and Mistral Medium today, it's no secret that we're working on something 'large' over the next few weeks. With even our medium-sized model being resoundingly better than flagship open source models such as Llama 4 Maverick, we're excited to 'open' up what's to come :)</p>
+</blockquote>
+<p>I released <a href="https://github.com/simonw/llm-mistral/releases/tag/0.12">llm-mistral 0.12</a> adding support for the new model.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/7/medium-is-the-new-large/#atom-everything>
 
 ---
 
@@ -42,7 +325,7 @@ I've been maintaining a simple LLM pricing calculator since <a href="https://git
 <p>I implemented that feature using <a href="https://simonwillison.net/2025/May/6/gemini-25-pro-preview/">the new gemini-2.5-pro-preview-05-06</a>, since that model boasts improved front-end coding abilities. It did a pretty great job - here's how I prompted it:</p>
 <pre><code>llm -m gemini-2.5-pro-preview-05-06 -f https://www.llm-prices.com/ -s 'modify this code so that the state of the page is reflected in the fragmenth hash URL - I want to capture the values filling out the form fields and also the current sort order of the table. These should be respected when the page first loads too. Update them using replaceHistory, no need to enable the back button.'
 </code></pre>
-<p>Here's <a href="https://gist.github.com/simonw/9d4e15b58ccfaca9e08747225cb69fa2">the transcript</a> and <a href="https://github.com/simonw/llm-prices/commit/c9eee704d070d119e6c342d9a7ab6c41d09550dd">the commit updating the tool</a>, plus <a href="https://www.llm-prices.com/#it=5883&amp;ot=7758&amp;ic=1.25&amp;oc=10&amp;sb=input&amp;sd=descending">an example link</a> showing the new feature in action (and calculating the cost for that Gemini 2.5 Pro prompt at 8.4934 cents.)
+<p>Here's <a href="https://gist.github.com/simonw/9d4e15b58ccfaca9e08747225cb69fa2">the transcript</a> and <a href="https://github.com/simonw/llm-prices/commit/c9eee704d070d119e6c342d9a7ab6c41d09550dd">the commit updating the tool</a>, plus <a href="https://www.llm-prices.com/#it=5883&amp;ot=16087&amp;ic=1.25&amp;oc=10&amp;sb=input&amp;sd=descending">an example link</a> showing the new feature in action (and calculating the cost for that Gemini 2.5 Pro prompt at 16.8224 cents, after <a href="https://simonwillison.net/2025/May/8/llm-gemini-0191/">fixing the calculation</a>.)
 
 
     <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/favicons">favicons</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a></p> 
@@ -172,12 +455,12 @@ Joe Rossignol: Bloomberg&#8217;s Mark Gurman today said that iPadOS 19 will be &
 
 ---
 
-## Interrupt is a handheld Linux PC and wireless hacking tool (Crowdfunding a Raspberry Pi-powered Flipper Zero alternative with a QWERTY keyboard)
+## This handheld Linux PC is made for wireless hacking (Crowdfunding a Raspberry Pi-powered Flipper Zero alternative with a QWERTY keyboard)
 
 date: 2025-05-07, from: Liliputing
 
 <p>The Interrupt is a handheld computer with a QWERTY keyboard for thumb typing, a 3.5 inch IPS LCD color display, and a Kali Linux-based operating system. But while you can use it as a general purpose device, it&#8217;s really designed as a sort of Flipper Zero-like system for tinkering with nearby wireless devices. In addition to WiFi [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/interrupt-is-a-handheld-linux-pc-and-wireless-hacking-tool-crowdfunding-a-raspberry-pi-powered-flipper-zero-alternative-with-a-qwerty-keyboard/">Interrupt is a handheld Linux PC and wireless hacking tool (Crowdfunding a Raspberry Pi-powered Flipper Zero alternative with a QWERTY keyboard)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/interrupt-is-a-handheld-linux-pc-and-wireless-hacking-tool-crowdfunding-a-raspberry-pi-powered-flipper-zero-alternative-with-a-qwerty-keyboard/">This handheld Linux PC is made for wireless hacking (Crowdfunding a Raspberry Pi-powered Flipper Zero alternative with a QWERTY keyboard)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br><video crossorigin="anonymous" controls="controls" width="250">
@@ -292,7 +575,7 @@ date: 2025-05-07, from: Liliputing
 
 date: 2025-05-07, from: Purism News and Events
 
-<p>In today’s world, privacy and control over your digital life have become rare luxuries. Every tap, swipe, and click on most smartphones and PCs is tracked, analyzed, and monetized—usually without your explicit consent. That’s where PureOS comes in. So What Is PureOS? PureOS is a privacy-focused, secure, and open-source operating system developed by Purism. It’s [&#8230;]</p>
+<p>&#160; In today’s world, privacy and control over your digital life have become rare luxuries. Every tap, swipe, and click on most smartphones and PCs is tracked, analyzed, and monetized—usually without your explicit consent. That’s where PureOS comes in. So What Is PureOS? PureOS is a privacy-focused, secure, and open-source operating system developed by Purism. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://puri.sm/posts/what-is-pureos-a-beginners-guide-for-ios-android-and-windows-users/">What Is PureOS? A Beginner’s Guide for iOS, Android, and Windows Users</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
  
 
@@ -747,12 +1030,12 @@ New Gemini 2.5 Pro "Google I/O edition" model, released a few weeks ahead of tha
 <p>I used the new Gemini 2.5 Pro to summarize the conversation about itself on Hacker News using the latest version of <a href="https://til.simonwillison.net/llms/claude-hacker-news-themes#user-content-porting-it-to-llm-hacker-news">my hn-summary.sh script</a>:</p>
 <pre><code>hn-summary.sh 43906018 -m gemini-2.5-pro-preview-05-06
 </code></pre>
-<p>Here's <a href="https://gist.github.com/simonw/7ef3d77c8aeeaf1bfe9cc6fd68760b96">what I got back</a> - 30,408 input tokens and 8,535 output for a total cost of 12.336 cents.</p>
+<p>Here's <a href="https://gist.github.com/simonw/7ef3d77c8aeeaf1bfe9cc6fd68760b96">what I got back</a> - 30,408 input tokens, 8,535 output tokens and 3,980 thinknig tokens for a total cost of 16.316 cents.</p>
 <p>8,535 output tokens is <em>a lot</em>. My system prompt includes the instruction to "Go long" - this is the first time I've seen a model really take that to heart. For comparison, here's <a href="https://gist.github.com/simonw/3efa62d917370c5038b7acc24b7c786e">the result</a> of a similar experiment against the previous version of Gemini 2.5 Pro two months ago.</p>
 <p id="gemini-pelican"><strong>Update</strong>: The <em>one time</em> I forget to run my "Generate an SVG of a pelican riding a bicycle" test is the time that the model turns out to produce one of the best results I've seen yet!</p>
 
 <p><img alt="See description below" src="https://static.simonwillison.net/static/2025/gemini-latest-pelican.jpg" /></p>
-<p>Here's <a href="https://gist.github.com/simonw/fcd6a51d08a16912417a8f123951930d">the transcript</a> - 11 input tokens and 3,281 output tokens =  3.2824 cents.</p>
+<p>Here's <a href="https://gist.github.com/simonw/fcd6a51d08a16912417a8f123951930d">the transcript</a> - 11 input tokens and 3,281 output tokens and 1,558 thinking tokens =  4.8404 cents.</p>
 <p>I asked Gemini to describe that image:</p>
 <pre><code>llm -m gemini-2.5-pro-preview-05-06 \
   -a https://static.simonwillison.net/static/2025/gemini-latest-pelican.jpg \

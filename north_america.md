@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-05-07 14:10:32
+updated: 2025-05-08 06:11:21
 ---
 
 # north america
 
-(date: 2025-05-07 14:10:32)
+(date: 2025-05-08 06:11:21)
+
+---
+
+## Trump’s scattered brain creates havoc
+
+date: 2025-05-08, from: The Contrarian
+
+The economy is at the mercy of the least informed president in history 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-scattered-brain-creates-havoc>
+
+---
+
+## Evening Roundup, May 7
+
+date: 2025-05-07, from: The Contrarian
+
+Featuring Meredith Blake, Josh Levs, Stephen Richer, Jennifer Weiss-Wolf, Brian O'Neill, The Democracy Movement, Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-7>
 
 ---
 

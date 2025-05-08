@@ -1,23 +1,179 @@
 ---
 title: science and technology
-updated: 2025-05-07 14:10:35
+updated: 2025-05-08 06:11:24
 ---
 
 # science and technology
 
-(date: 2025-05-07 14:10:35)
+(date: 2025-05-08 06:11:24)
+
+---
+
+## Nvidia boss gets 45% pay bump, but is the billionaire happy?
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Jenson Huang&#39;s compensation package swells to $49.8M, firm reveals younger Huangs on the payroll too</h4> <p>The gods of executive pay smiled on Nvidia&#39;s chief executive in the last full financial year, awarding him a 45 percent bump in total compensation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/big_bucks_huang_gets_fiscal_payday/>
+
+---
+
+## The 12 KB that Windows just can't seem to quit
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Icons from a more civilized time</h4> <p>Windows deposits a huge number of files onto a user&#39;s PC, some of which are essential for the operating system, and others that are a reminder of gentler times. Microsoft veteran Raymond Chen this week took another trip down memory lane to the pixel-tastic world of <code>moricons.dll</code> on his Old New Thing blog.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/moricons_dll_raymond_chen/>
+
+---
+
+## NASA JPL boss bails for 'personal reasons' as budget cuts bite
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Laurie Leshin to leave in June</h4> <p>Laurie Leshin, director of NASA&#39;s Jet Propulsion Laboratory (JPL), is stepping down in June and will be replaced by JPL veteran David Gallagher.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/nasa_jpl_director_quits/>
+
+---
+
+## Amazon touts Vulcan – its first robot with a sense of 'touch'
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Claims human warehouse workers will still live long and prosper</h4> <p>Internet souk Amazon has unveiled a new robot for its warehouses and claims the machine uses a sense of &#34;touch&#34; to shift around 75 percent of the types of packages handled.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/amazon_vulcan_robot/>
+
+---
+
+## ESA feeling weightless and unwanted amid proposed NASA cuts
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Euro space agency insists it&#39;s reliable and desirable in face of &#39;abusive spouse&#39;</h4> <p>NASA&#39;s &#34;skinny&#34; budget has rattled its allies. After years of close cooperation, the European Space Agency (ESA) is looking jilted, while others describe the US space scene as adrift in gloom and doubt.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/nasa_budget_reaction/>
+
+---
+
+## 'I see you're running a local LLM. Would you like some help with that?'
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Dev creates official Clippy &#39;love letter&#39; to query AI models on your box</h4> <p>Clippy is back - and this time, its arrival on your desktop as a front-end for locally run LLMs has nothing to do with Microsoft. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/clippy_returns_to_your_desktop/>
+
+---
+
+## Sudo-rs make me a sandwich, hold the buffer overflows
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Ubuntu 25.10 fitted with Rust-written admin tool by default for memory safety&#39;s sake</h4> <p>Canonical&#39;s Ubuntu 25.10 is set to make sudo-rs, a Rust-based rework of the classic sudo utility, the default – part of a push to cut memory-related security bugs and lock down core system components.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/ubuntu_2510_makes_rusk_sudo_default/>
+
+---
+
+## Elon Musk’s xAI to pull about half of its smog-belching turbines powering Colossus
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Newly completed substation will help bear the load</h4> <p>Elon Musk&#39;s xAI is removing about half of the temporary gas-turbine generators powering its Colossus AI datacenter over the next two months, according to the Memphis Chamber of Commerce, not due to environmental concerns, but because a new nearby substation now supplies the needed power.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/xai_turbines_colossus/>
+
+---
+
+## PowerSchool paid thieves to delete stolen student, teacher data. Crooks may have lied
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Now individual school districts extorted by fiends</h4> <p>An education tech provider that paid a ransom to prevent the leak of stolen student and teacher data is now watching its school district customers get individually extorted by either the same ransomware crew that hit it – or someone connected to the crooks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/powerschool_data_extortionist/>
+
+---
+
+## After that 2024 Windows fiasco, CrowdStrike has a plan – jobs cuts, leaning on AI
+
+date: 2025-05-07, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>CEO: Neural net tech &#39;flattens our hiring curve, helps us innovate&#39;</h4> <p>CrowdStrike – the Texas antivirus slinger famous for crashing millions of Windows machines last year – plans to cut five percent of its staff, or about 500 workers, in pursuit of &#34;greater efficiencies,&#34; according to CEO and co-founder George Kurtz.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/crowdstrike_trims_workforce_ai/>
+
+---
+
+## India ready to greenlight Starlink – as long as it lets New Delhi censor, snoop
+
+date: 2025-05-07, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Officials demand device registration, location locking, logs of user activity</h4> <p>India’s telecom regulator has signaled it’s ready to let Starlink and other satellite-broadband providers operate – but only if they agree to strict conditions, including setting up “special monitoring zones” within 50km of land borders where law enforcement and security agencies are permitted to monitor users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/07/india_satellite_internet_regs_starlink/>
+
+---
+
+## Microsoft changes pre-production driver signing, ends the device metadata service
+
+date: 2025-05-07, from: OS News
+
+As the headline suggests, we&#8217;re going to be talking about some very dry Windows stuff that only affects a relatively small number of people, but for those people this is a big deal they need to address. If you&#8217;re working on pre-production drivers that need to be signed, this is important to you. The Windows Hardware Program supports partners signing drivers for use in pre-production environments. The CA that is used to sign the binaries for use in pre-production environments on the Windows Hardware Program is set to expire in July 2025, following which a new CA will be used to sign the preproduction content starting June 9, 2025. ↫ Hardware Dev Center Alongside the new CA come a bunch of changes to the rules. First and foremost, expiry of signed drivers will no longer be tied to the expiry of the underlying CA, so any driver signed with the new CA will not expire, regardless of what happens to the CA. In addition, on April 22, May 13, and June 10, 2025, Windows servicing releases (4D/5B/6B) will be shipped to Windows versions (down to Windows Server 2008) to replace the old CAs with the new ones. As such, if you&#8217;re working on pre-production drivers, you need to install those Latest Cumulative updates. On a very much related note, Microsoft has announced it&#8217;s retiring device metadata and the Windows Metadata and Internet Services (WMIS). This is what allowed OEMs and device makers to include things like device names, custom device icons, and other information in the form of an XML file. While OEMs can no longer create new device metadata this way, existing metadata already installed on Windows clients will remain functional. As a replacement for this functionality, Microsoft points to the driver&#8217;s INF files, where such information and icons can also be included. Riveting stuff. 
+
+<br> 
+
+<https://www.osnews.com/story/142315/microsoft-changes-pre-production-driver-signing-ends-the-device-metadata-service/>
 
 ---
 
 ## Apple exec sends Google shares plunging as he calls AI the new search
 
-date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+date: 2025-05-07, updated: 2025-05-08, from: The Register (UK I.T. News)
 
-<h4>Eddy Cue tells DC court Safari will incorporate Anthropic, OpenAI and co</h4> <p>An Apple executive&#39;s backhanded endorsement of AI as a replacement for traditional internet searches has sent Google stock tumbling. …</p> 
+<h4>Eddy Cue tells DC court Safari to rope in Anthropic, OpenAI and co</h4> <p><strong>Updated</strong>  An Apple executive&#39;s backhanded endorsement of AI as a replacement for traditional internet searches has sent Google stock tumbling. …</p> 
 
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/07/google_apple_cue/>
+
+---
+
+## NASA Statement on Nomination of Matt Anderson for Deputy Administrator
+
+date: 2025-05-07, from: NASA breaking news
+
+Acting NASA Administrator Janet Petro issued the following statement regarding the nomination by President Donald Trump of Matt Anderson Wednesday to serve as the agency’s deputy administrator: “As a retired United States Air Force colonel and executive of the Space Force Association, Matt Anderson brings extensive knowledge of space operations, aeronautics expertise, and industry experience. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-matt-anderson-for-deputy-administrator/>
 
 ---
 
@@ -35,7 +191,7 @@ date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
 
 ## Delta Air Lines class action cleared for takeoff over CrowdStrike chaos
 
-date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+date: 2025-05-07, updated: 2025-05-08, from: The Register (UK I.T. News)
 
 <h4>Judge allows aspects of passenger lawsuit to proceed</h4> <p>A federal judge has cleared the runway for a class action from disgruntled passengers against Delta Air Lines as turbulence from last year&#39;s CrowdStrike debacle continues to buffet the carrier.…</p> 
 
@@ -275,7 +431,7 @@ date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
 
 ## Linux kernel to drop 486 and early 586 support
 
-date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
+date: 2025-05-07, updated: 2025-05-08, from: The Register (UK I.T. News)
 
 <h4>Get in the bin: For the first time since 2012, some older CPU generations are being chopped</h4> <p>Kernel 6.15 is taking shape and it looks like it will eliminate support for Intel&#39;s 486 chip and its contemporaries.…</p> 
 
@@ -313,7 +469,7 @@ date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
 
 date: 2025-05-07, updated: 2025-05-07, from: The Register (UK I.T. News)
 
-<h4>Seeing as the company’s CEO is big at DOGE, this is delicious</h4> <p><strong>World War Fee</strong>  Citrix has found a new use for virtualization: Avoiding tariffs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Seeing as IT giant&#39;s CEO is big at DOGE, this is delicious</h4> <p><strong>World War Fee</strong>  Citrix has found a new use for virtualization: Avoiding tariffs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

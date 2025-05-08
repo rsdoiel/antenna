@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-05-07 14:10:36
+updated: 2025-05-08 06:11:25
 ---
 
 # weather
 
-(date: 2025-05-07 14:10:36)
+(date: 2025-05-08 06:11:25)
 
 ---
 
-## The Central North Pacific hurricane season runs from June 1st through November 30th.
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-05-07, from: Central Pacific Basin Tropical Cyclones
+date: 2025-05-08, from: Eastern Pacific Basin GIS Data
 
-The Central North Pacific hurricane season runs from June 1st through November 30th. 
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 

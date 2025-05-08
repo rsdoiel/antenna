@@ -1,11 +1,96 @@
 ---
 title: motorcycles
-updated: 2025-05-07 14:10:40
+updated: 2025-05-08 06:11:29
 ---
 
 # motorcycles
 
-(date: 2025-05-07 14:10:40)
+(date: 2025-05-08 06:11:29)
+
+---
+
+## Harley's Boardroom Fight is Heating Up, Will Come to a Head Next Week
+
+date: 2025-05-08, from: Ride Apart, Electric Motorcycle News
+
+Folks are choosing sides rapidly. 
+
+<br> 
+
+<https://www.rideapart.com/news/758885/harley-davidson-board-fight-h-partners-management-dealer-association/>
+
+---
+
+## Let Me Ride This Prototype Speederbike and Live Out My Star Wars Fantasies
+
+date: 2025-05-08, from: Ride Apart, Electric Motorcycle News
+
+Come on, lemme pretend I'm flying across Endor or the sands of Tatooine.  
+
+<br> 
+
+<https://www.rideapart.com/news/758880/volonaut-jet-powered-superbike-hoverbike/>
+
+---
+
+## There's a New Z1100 Is On Its Way, Kawasaki Fans Rejoice
+
+date: 2025-05-08, from: Ride Apart, Electric Motorcycle News
+
+Hopefully it channels some of that Z1000 Sugomi attitude. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758804/kawasaki-z1100-under-development-coming-soon/>
+
+---
+
+## This Motorcycle Armor Maker is Finally Building a Helmet, Aims To Disrupt Market
+
+date: 2025-05-08, from: Ride Apart, Electric Motorcycle News
+
+It will draw on data from the US military and helmets used in high-impact sports. 
+
+<br> 
+
+<https://www.rideapart.com/news/758782/d30-motorbike-helmet-liner-2027/>
+
+---
+
+## Ty Dillon Throws Ceremonial 1st Pitch at Braves-Reds Game to Promote NASCAR & Bristol’s Upcoming MLB Speedway Classic Game
+
+date: 2025-05-08, from: Kickin the Tires blog
+
+ATLANTA (May 7, 2025) – Lifelong Atlanta Braves fan Ty Dillon checked a major item off his bucket-list when he threw out the ceremonial first pitch before the May 7th&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ty-dillon-throws-ceremonial-1st-pitch-at-braves-reds-game-to-promote-nascar-bristols-upcoming-mlb-speedway-classic-game/>
+
+---
+
+## Sonsio Grand Prix Fast Facts
+
+date: 2025-05-08, from: Kickin the Tires blog
+
+Race weekend: Friday, May 9-Saturday, May 10 Track: Indianapolis Motor Speedway, a 2.439-mile, 14-turn road course (clockwise) Race distance: NTT INDYCAR SERIES: 85 laps / 207.3 miles &#124; INDY NXT&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/sonsio-grand-prix-fast-facts/>
+
+---
+
+## ERIK JONES, AMS SUPPORT READING INITIATIVES IN HENRY COUNTY
+
+date: 2025-05-08, from: Kickin the Tires blog
+
+HAMPTON, Ga. (May 7, 2025) – Atlanta Motor Speedway and the Henry County Library system are teaming up to incentivize kids to read and reward bookworms with tickets to the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/erik-jones-ams-support-reading-initiatives-in-henry-county/>
 
 ---
 

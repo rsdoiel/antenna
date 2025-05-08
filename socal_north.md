@@ -1,17 +1,80 @@
 ---
 title: socal north
-updated: 2025-05-07 14:10:33
+updated: 2025-05-08 06:11:22
 ---
 
 # socal north
 
-(date: 2025-05-07 14:10:33)
+(date: 2025-05-08 06:11:22)
+
+---
+
+## More Caltrans homes along failed 710 Freeway extension going up for sale
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+The properties are in Pasadena, South Pasadena and El Sereno. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/more-caltrans-homes-along-failed-710-freeway-extension-going-up-for-sale>
+
+---
+
+## The best 6 TV performances I've seen so far this year
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+NPR TV critic Eric Deggans picks his favorite performances of 2025 thus far, including Noah Wyle in The Pitt, Catherine O'Hara in The Last of Us and The Studio, and Carrie Coon in The White Lotus. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/the-best-6-tv-performances-ive-seen-so-far-this-year>
+
+---
+
+## After the fires, can it be cheaper to rebuild without gas?
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+A new UC Berkeley report finds that rebuilding all-electric could save homeowners time and money. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/after-the-fires-can-it-be-cheaper-to-rebuild-without-gas>
+
+---
+
+## Man gets 3 years in prison for slamming puppy into the ground in Long Beach
+
+date: 2025-05-07, from: Longbeach Post
+
+<figure><img width="828" height="722" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg 828w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-300x262.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-768x670.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-124x108.jpg 124w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-400x349.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Here’s the inside story on how he was filmed, caught and convicted for an act of animal abuse that went viral.</p>
+<p>The post <a href="https://lbpost.com/news/crime/dog-abuse-viral-video-sentence-long-beach-convicted">Man gets 3 years in prison for slamming puppy into the ground in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/dog-abuse-viral-video-sentence-long-beach-convicted>
+
+---
+
+## Metro hires San Francisco police chief Bill Scott to lead its public safety overhaul
+
+date: 2025-05-07, updated: 2025-05-08, from: The LAist
+
+In an exclusive interview with LAist, Metro CEO Stephanie Wiggins said she chose Scott for his ties to L.A. and pursuit of police reform in San Francisco. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-metro-bill-scott-san-francisco-chief-public-safety>
 
 ---
 
 ## Orange County’s first light rail streetcar is here with seven more on the way
 
-date: 2025-05-07, updated: 2025-05-07, from: The LAist
+date: 2025-05-07, updated: 2025-05-08, from: The LAist
 
 The light rail project, which had been planned for 2021, could see its first riders early next year. 
 
@@ -37,7 +100,7 @@ Despite efforts to increase the number of mental health providers, many students
 
 date: 2025-05-07, from: Longbeach Post
 
-<figure><img width="1000" height="514" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg 1000w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1000" height="514" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg.jpg 1000w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-300x154.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-768x395.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-192x99.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07113217/0810-oil-300-1-e1599002107885-836741-ges44whg-105309-8OpHHIkg-400x206.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>There’s a steep drop in ships docking. That means fewer jobs for longshoremen and — soon — shortages in stores, Port of Long Beach leaders say.</p>
 <p>The post <a href="https://lbpost.com/news/ports/tariffs-port-of-long-beach-effects-longshore-workers-shortages">Tariffs begin to batter Long Beach Port; expect ripple effects across the U.S. soon, officials say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -113,7 +176,7 @@ A significant warm up will come to the region starting Wednesday.
 
 ## A shush-free space at LA library’s new sensory room
 
-date: 2025-05-07, updated: 2025-05-07, from: The LAist
+date: 2025-05-07, updated: 2025-05-08, from: The LAist
 
 The Harbor City-Harbor Gateway branch of the Los Angeles Public Library opened a new space designed with neurodiverse families in mind. 
 
@@ -123,9 +186,9 @@ The Harbor City-Harbor Gateway branch of the Los Angeles Public Library opened a
 
 ---
 
-## Conclave starts today. Why this moment matters for Southern California’s Filipino Catholics
+## The conclave starts. Why this moment matters for Southern California’s Filipino Catholics
 
-date: 2025-05-07, updated: 2025-05-07, from: The LAist
+date: 2025-05-07, updated: 2025-05-08, from: The LAist
 
 Los Angeles is home to more than half a million Filipinos, and some have their eye on one cardinal contender. 
 
@@ -173,7 +236,7 @@ United Firefighters of Los Angeles City President Freddy Escobar, a prominent fi
 
 ## Whistleblowers say LA’s top homeless official hired unqualified friends, tried to destroy public records
 
-date: 2025-05-06, updated: 2025-05-07, from: The LAist
+date: 2025-05-06, updated: 2025-05-08, from: The LAist
 
 LAHSA officials had refused to disclose the documents, but reversed themselves after weeks of questions by LAist and criticism from attorneys who said the agency was violating public records laws. 
 

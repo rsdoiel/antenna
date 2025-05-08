@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-05-07 14:10:40
+updated: 2025-05-08 06:11:29
 ---
 
 # retro computing
 
-(date: 2025-05-07 14:10:40)
+(date: 2025-05-08 06:11:29)
+
+---
+
+## Vote for the May 2025 + Post Topic
+
+date: 2025-05-08, from: Computer ads from the Past
+
+Make your vote count. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-may-2025-post-topic>
+
+---
+
+## Another KIM-5 located!
+
+date: 2025-05-08, from: Hans Otten's Retro blog
+
+I have found a second KIM-5, also in Germany of the KIM-5. Photos of a KIM-5 board with the Resident Assembler/Editor 6540 ROMs in a KIM-4 motherboard. Photos from the TECMUMAS, dem Technikmuseum (Matthias Schmitt) More about the KIM-5 here. See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/another-kim-5-located/>
+
+---
+
+## Siemens Personal Computer PC 100 Bedienungsanleitung,  Ausgabe 1981/1982
+
+date: 2025-05-08, from: Hans Otten's Retro blog
+
+A contribution by Michael Steil of the scan of &#8216;Siemens Personal Computer PC 100 Bedienungsanleitung, Ausgabe 1981/1982&#8217; The Siemens PC 100 was a version of the 6502-based “AIM-65” SBC in a case and with slightly modified ROMs. Siemens offered a set of German-language manuals, which included translated Assembler (MOS Resident Assembler) and BASIC (Microsoft BASIC) [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/siemens-personal-computer-pc-100-bedienungsanleitung-ausgabe-1981-1982/>
+
+---
+
+## Comics from 1983/12 Issue of Videogaming and Computer Gaming Illustrated
+
+date: 2025-05-08, from: Computer ads from the Past
+
+Time for some oldie levity. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198312-issue-of-videogaming>
 
 ---
 
@@ -436,7 +484,7 @@ Here I've simply mirrored the MacBook to my wife's Samsung secondary monitor. Th
 
 The Samsung doesn't support exactly the native resolution of the MacBook which is why it looks squashed, but you can see it correctly detected the model. How well does it perform? A good stress test is high-resolution video, which the manual warns you against because it would be choppy. We don't let manuals tell us what to do in this house. Manuals are suggestions. Manuals can sometimes be wrong. Let's play the <a href="http://www.macyourself.com/2008/11/13/grab-the-source-files-for-that-snazzy-leopard-welcome-video/">Snow Leopard welcome video</a> and prove it wrong. (The Snow Leopard welcome video has audio in a separate file, so this comparison movie has no sound.)
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dydDZSjDY-DVKkyYinuBRSWJyLfHs6kLDDDe0JYJsmtANZwXGeTp39pB8lfoo8p1DV8Mwuxy0hsuI8_mbKuoQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dylMB7U_PxQ-iq2Kb2dGYq3uEYZBQtKEEXW9YSw6gv1-_PbR8vjDGcPJOxvzsZq4O8TMpM3eXJPJuuHRile5w' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 And, well, the manual wasn't wrong. There is a slight but noticeable lag and there are many dropped frames of video on the mirrored side; the best that could be said is it's watchable. Think "playing YouTube videos over Microsoft Teams screen share" and that would be about right.
 

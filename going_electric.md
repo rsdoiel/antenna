@@ -1,11 +1,183 @@
 ---
 title: going electric
-updated: 2025-05-07 14:10:41
+updated: 2025-05-08 06:11:30
 ---
 
 # going electric
 
-(date: 2025-05-07 14:10:41)
+(date: 2025-05-08 06:11:30)
+
+---
+
+## Sources state BYD is targeting half its vehicle sales to come from outside China by 2030
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-sales-logo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We’ve said it before and will say it again: Build Your Dreams <a href="https://electrek.co/guides/byd/">(BYD)</a> is coming. The Chinese automaker continues to gain momentum in global NEV sales and does not expect to hit the brakes anytime soon. According to multiple sources, BYD aims to have half of its vehicle sales come from other markets outside China within the next five years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="415000" href="https://electrek.co/2025/05/08/sources-state-byd-is-targeting-half-its-vehicle-sales-to-come-from-outside-china-by-2030/#more-415000" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/sources-state-byd-is-targeting-half-its-vehicle-sales-to-come-from-outside-china-by-2030/>
+
+---
+
+## Tesla Cybertruck Range Extender Is Officially Dead
+
+date: 2025-05-08, from: Inside EVs News
+
+Tesla quietly killed off the Tesla Cybertruck's $16,000 Range Extender and refunded reservations. 
+
+<br> 
+
+<https://insideevs.com/news/758916/tesla-range-extender-cancelled-officially/>
+
+---
+
+## NYC could soon kick electric bikes out of Central Park
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/central-park-path-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After going car-free on Central Park’s main drives in 2018, the NYC Department of Parks and Recreation has been preparing to wrap up a study on electric bike usage in Central Park. The results will help decide whether those electric bicycles will still be permitted inside the park.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="414994" href="https://electrek.co/2025/05/08/nyc-could-soon-kick-electric-bikes-out-of-central-park/#more-414994" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/nyc-could-soon-kick-electric-bikes-out-of-central-park/>
+
+---
+
+## Tesla confirms it has given up on its Cybertruck range extender to achieve promised range
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Screenshot-2024-07-27-at-4.40.41 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has confirmed it has given up on plans to make a Cybertruck range extender to achieve the range it originally promised on the electric pickup truck.</p>
+
+
+
+<p>It started refunding deposits for the $16,000 extra battery pack.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="414974" href="https://electrek.co/2025/05/07/tesla-never-make-cybertruck-range-extender-achieve-promised-range/#more-414974" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/tesla-never-make-cybertruck-range-extender-achieve-promised-range/>
+
+---
+
+## USTPO shuts down Tesla’s attempt to trademark ‘Robotaxi’ term
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Cybercab-and-robovan.webp?w=1500" /></div><p>The U.S. Patent and Trademark Office (USTPO) has denied Tesla’s attempt to trademark the term “Robotaxi”. which it has been using to refer to its long-promised self-driving vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="414966" href="https://electrek.co/2025/05/07/ustpo-shuts-down-tesla-trademark-robotaxi-term/#more-414966" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/ustpo-shuts-down-tesla-trademark-robotaxi-term/>
+
+---
+
+## CA and 16 states sue feds for $5B ‘gift to China’ withholding EV charger funds
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/happy-texas-NEVI-fast-charging-station.jpg?quality=82&#038;strip=all&#038;w=1424" /></div><p>California and 16 other states have sued the government for illegally withholding $5 billion in funds that Congress earmarked for EV charging, calling the action “another trump gift to China.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,nevi" data-layer-viewtype="unknown" data-post-id="414969" href="https://electrek.co/2025/05/07/ca-and-16-states-sue-feds-for-5b-gift-to-china-withholding-ev-charger-funds/#more-414969" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/ca-and-16-states-sue-feds-for-5b-gift-to-china-withholding-ev-charger-funds/>
+
+---
+
+## 'A Trump Gift To China': 17 States Sue Over EV Charger Funding Freeze
+
+date: 2025-05-07, from: Inside EVs News
+
+Trump's Department of Transportation paused new EV charger funding in February. Now, states are hitting back hard. 
+
+<br> 
+
+<https://insideevs.com/news/758913/states-sue-trump-nevi-charger/>
+
+---
+
+## This Port of LA terminal just ditched all propane forklifts for electric
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/SSA-Marine-electric-forklifts-Port-of-LA.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>SSA Marine just pulled off a major clean energy win at the Port of Los Angeles. The global terminal operator has officially transitioned its entire fleet of forklifts at Berth 55 from propane to electric, making it the company’s first terminal to run 100% zero-emissions cargo handling equipment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,cargo,forklifts,los-angeles" data-layer-viewtype="unknown" data-post-id="414956" href="https://electrek.co/2025/05/07/port-of-la-terminal-just-ditched-all-propane-forklifts-for-electric/#more-414956" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/port-of-la-terminal-just-ditched-all-propane-forklifts-for-electric/>
+
+---
+
+## Ford is raising prices on the Mustang Mach-E and a few other vehicles: Here’s why
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Ford-Mach-E-lease-Camry.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>And so it begins. Ford is raising prices on several vehicles built in Mexico, including the Mustang Mach-E. <span style="margin: 0px; padding: 0px;">Like</span> most of the auto industry, <a href="https://electrek.co/guides/ford/">Ford</a> is bracing for the impacts of Trump’s tariffs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="414834" href="https://electrek.co/2025/05/07/ford-raising-prices-mach-e-other-vehicles-heres-why/#more-414834" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/ford-raising-prices-mach-e-other-vehicles-heres-why/>
+
+---
+
+## SolarEdge’s new EV charger cuts fleet charging costs by 70% with solar smarts
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/SolarEdge-EV-charger.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>SolarEdge just dropped a new 22kW charger at Intersolar Europe 2025, and it’s aiming to make electric fleet charging a whole lot cleaner and cheaper. The smart energy tech company’s solar-powered EV charger plugs into its commercial solar and battery storage system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-car-fleet,ev-chargers,solar,solar-power,solaredge" data-layer-viewtype="unknown" data-post-id="414924" href="https://electrek.co/2025/05/07/solaredges-new-ev-charger-cuts-fleet-charging-costs-by-70-with-solar-smarts/#more-414924" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/solaredges-new-ev-charger-cuts-fleet-charging-costs-by-70-with-solar-smarts/>
+
+---
+
+## Hyundai unveils the new ELEXIO electric SUV for China with 435 miles range
+
+date: 2025-05-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-electric-SUV-ELEXIO-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s not the IONIQ 4, but <a href="https://electrek.co/guides/hyundai/">Hyundai</a> promises it will be a game changer. After unveiling its new electric SUV, ELEXIO, Hyundai said it’s about to “write a new chapter” in the world’s largest EV market. With a sleek design and up to 435 miles (700 km) driving range, this could be Hyundai’s next big hit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="413738" href="https://electrek.co/2025/05/07/hyundai-unveils-new-elexio-electric-suv-with-435-miles-range/#more-413738" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/07/hyundai-unveils-new-elexio-electric-suv-with-435-miles-range/>
 
 ---
 

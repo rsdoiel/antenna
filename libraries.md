@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-05-07 14:10:39
+updated: 2025-05-08 06:11:27
 ---
 
 # libraries
 
-(date: 2025-05-07 14:10:39)
+(date: 2025-05-08 06:11:27)
+
+---
+
+## Guest Post:  Eight Hypotheses Why Librarians Don’t Like Retrieval Augmented Generation (RAG)
+
+date: 2025-05-08, from: Scholarly Kitchen
+
+<p>AI-assisted search is here, and librarians need to have an honest discussion about how to integrate this new technology into library services. This post explores the parallels to the introduction of discovery layers and how to overcome some of the discomfort librarians might have with retrieval-augmented generation. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/08/guest-post-eight-hypotheses-why-librarians-dont-like-retrieval-augmented-generation-rag/">Guest Post:  Eight Hypotheses Why Librarians Don’t Like Retrieval Augmented Generation (RAG)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/08/guest-post-eight-hypotheses-why-librarians-dont-like-retrieval-augmented-generation-rag/>
+
+---
+
+## Public Interest Groups to FTC: Make Digital Ownership Real
+
+date: 2025-05-07, from: Internet Archive Blog
+
+Today, the Internet Archive, alongside a coalition of public interest organizations, library groups, and consumer advocates, supports Senator Ron Wyden’s call for the Federal Trade Commission (FTC) to protect consumers [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/05/07/public-interest-groups-to-ftc-make-digital-ownership-real/>
 
 ---
 
@@ -19,6 +45,18 @@ date: 2025-05-07, from: SciELO in Perspective
 <br> 
 
 <https://blog.scielo.org/en/2025/05/07/research-integrity-and-human-agency-in-research-gen-ai/>
+
+---
+
+## Vanishing Culture: Recovering Lost Software
+
+date: 2025-05-07, from: Internet Archive Blog
+
+The following guest post from journalist and computer historian Josh Renaud&#160;is part of our&#160;Vanishing Culture&#160;series, highlighting the power and importance of preservation in our digital age.&#160;Read more essays online&#160;or&#160;download the [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/>
 
 ---
 
@@ -119,7 +157,7 @@ date: 2025-05-06, from: Scholarly Kitchen
 
 date: 2025-05-05, from: Association of Research Libraries News
 
-<p>Last Updated on May 6, 2025, 4:44 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 6 &#124; Wednesday, May 7 &#124; Thursday,...</p>
+<p>Last Updated on May 7, 2025, 6:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 6 &#124; Wednesday, May 7 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-5-8/">Day in Review (May 5–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

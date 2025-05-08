@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-07 14:10:34
+updated: 2025-05-08 06:11:23
 ---
 
 # ham radio
 
-(date: 2025-05-07 14:10:34)
+(date: 2025-05-08 06:11:23)
+
+---
+
+## NOR flash memory certified for ASIL-D functional safety
+
+date: 2025-05-08, from: EDN Blog
+
+<img width="4157" height="2147" src="https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?fit=4157%2C2147" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=4157 4157w, https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Hero-image-SEMPER-NOR-flash-BGA-Infineon.jpg?w=2850 2850w" sizes="(max-width: 4157px) 100vw, 4157px" /><p>SGS-TÜV has validated SEMPER NOR flash for automotive applications' most stringent safety performance.</p>
+<p>The post <a href="https://www.edn.com/nor-flash-memory-certified-for-asil-d-functional-safety/">NOR flash memory certified for ASIL-D functional safety</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/nor-flash-memory-certified-for-asil-d-functional-safety/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-07 14:10:34
 
 date: 2025-05-07, from: EDN Blog
 
-<img width="1400" height="1161" src="https://www.edn.com/wp-content/uploads/overview_open-5.jpg?fit=1400%2C1161" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Curiosity plus a cost-savings fixation equals a resuscitated power source. With a bonus: no electric shocks, flames or other calamities. </p>
+<img width="1400" height="1161" src="https://www.edn.com/wp-content/uploads/overview_open-5.jpg?fit=1400%2C1161" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_open-5.jpg?w=1024 1024w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>Curiosity plus a cost-savings fixation equals a resuscitated power source. With a bonus: no electric shocks, flames or other calamities. </p>
 <p>The post <a href="https://www.edn.com/ups-resurrection-thriftiness-strikes-again/">UPS resurrection: Thriftiness strikes again</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

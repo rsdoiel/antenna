@@ -1,11 +1,460 @@
 ---
 title: pacific
-updated: 2025-05-07 14:10:34
+updated: 2025-05-08 06:11:23
 ---
 
 # pacific
 
-(date: 2025-05-07 14:10:34)
+(date: 2025-05-08 06:11:23)
+
+---
+
+## Trump withdraws surgeon general nomination and announces new choice
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump announced Wednesday he planned to nominate Dr. Casey Means to serve as his surgeon general after he withdrew the nomination of his previous choice, Dr. Janette Nesheiwat.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/trump-withdraws-surgeon-general-nomination-and-announces-new-choice/>
+
+---
+
+## Federal judge casts doubt on Trump arguments in Venezuelan migrants case
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge expressed skepticism Wednesday night about the Trump administration&#8217;s reasons to avoid seeking the return of scores of Venezuelan immigrants who had been expelled to El Salvador in March, saying he was inclined to order officials to provide more information on the arrangement between the U.S. and Salvadoran governments.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/federal-judge-casts-doubt-on-trump-arguments-in-venezuelan-migrants-case/>
+
+---
+
+## Judge says Trump plan to send migrants to Libya would violate court order
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge said Wednesday that the deportation of immigrants by the Trump administration to Libya would be in violation of a court order he issued in March, creating a legal impediment to what would be a sharp escalation of President Donald Trump&#8217;s immigration crackdown.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/judge-says-trump-plan-to-send-migrants-to-libya-would-violate-court-order/>
+
+---
+
+## Hawaii businesses pessimistic about tariffs, economy
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>Some 37% of Hawaii businesses said tariffs make them &#8220;very concerned,&#8221; while another 40% are &#8220;somewhat concerned,&#8221; adding up to a whopping 77% of businesses feeling tariff anxiety, according to a new survey by ProService Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/hawaii-news/hawaii-businesses-pessimistic-about-tariffs-economy/>
+
+---
+
+## Trump signals China initiated planned trade meeting
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; U.S. President Donald Trump on Wednesday suggested China initiated upcoming senior-level trade talks between the two countries and said he was not willing to cut U.S. tariffs on Chinese goods to get Beijing to the negotiating table.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/trump-signals-china-initiated-planned-trade-meeting/>
+
+---
+
+## Johnson rules out aggressive Medicaid cuts as GOP moderates waver
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Speaker Mike Johnson has dropped one of the most aggressive options the GOP was considering to cut Medicaid costs to help pay for President Donald Trump&#8217;s domestic agenda, bowing to pressure from politically vulnerable Republicans and underscoring the deep party divisions imperiling the plan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/johnson-rules-out-aggressive-medicaid-cuts-as-gop-moderates-waver/>
+
+---
+
+## News in brief for May 8
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>Powell holds rates, says next step is &#8216;not at all clear&#8217;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/news-in-brief-for-may-8/>
+
+---
+
+## Trump administration is said to target park service grants
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration has earmarked dozens of National Park Service grants for elimination, including several that aim to protect public lands from the effects of climate change, according to an internal agency document detailing the plans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/trump-administration-is-said-to-target-park-service-grants/>
+
+---
+
+## US Homeland Security Chief says travelers without REAL ID will be allowed to fly
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Homeland Security Secretary Kristi Noem said air travelers starting Wednesday of this week who do not have enhanced ID cards may face enhanced security procedures but will not be denied access to flights.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/us-homeland-security-chief-says-travelers-without-real-id-will-be-allowed-to-fly/>
+
+---
+
+## Salt Lake City and Boise adopt official pride flags in response to state laws
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>The capitals of Utah and Idaho adopted new official city flags Tuesday in response to state laws barring the display of any nonofficial flags at schools and government buildings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/salt-lake-city-and-boise-adopt-official-pride-flags-in-response-to-state-laws/>
+
+---
+
+## A half-ton spacecraft lost by the Soviets in 1972 is coming home
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>A robotic Soviet spacecraft has been adrift in space for 53 years. It will return to Earth later this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/a-half-ton-spacecraft-lost-by-the-soviets-in-1972-is-coming-home/>
+
+---
+
+## Pro-Palestinian protest erupts at Columbia University library, some turned over to police
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Dozens of protesters stood on tables, beat drums and unfurled pro-Palestinian banners in the reading room of Columbia University&#8217;s main library on Wednesday in one of the biggest campus demonstrations since last year&#8217;s student protest movement against Israel&#8217;s war in Gaza.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/pro-palestinian-protest-erupts-at-columbia-university-library-some-turned-over-to-police/>
+
+---
+
+## More explosions rock Port Sudan, army says it intercepted drones
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>DUBAI &#8212; Sudan&#8217;s army said its anti-aircraft systems intercepted drones on Wednesday targeting a naval base in the wartime capital Port Sudan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/more-explosions-rock-port-sudan-army-says-it-intercepted-drones/>
+
+---
+
+## Palestinians in Gaza despair after Israel announces more displacement
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>HAIFA, Israel &#8212; Israel&#8217;s latest plan to displace people in the northern Gaza Strip has prompted a new wave of despair among Palestinian civilians in the territory, many of whom have already been displaced several times since the war began.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/nation-world-news/palestinians-in-gaza-despair-after-israel-announces-more-displacement/>
+
+---
+
+## DOH urges parents of seventh-grade students to schedule ‘well-child visits’
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health is encouraging parents of students who will be entering seventh grade this coming school year to schedule a &#8220;well-child visit&#8221; as soon as possible.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/community/doh-urges-parents-of-seventh-grade-students-to-schedule-well-child-visits/>
+
+---
+
+## UH Hilo student earns NASA honors
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>Jeffrey &#8220;Raven&#8221; Kromer, a senior at the University of Hawaii at Hilo, is reaching for the stars &#8212; literally.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/community/uh-hilo-student-earns-nasa-honors/>
+
+---
+
+## ‘Remarkable People’ event to honor Cabral, Tulang
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>YWCA of Hawaii Island will celebrate two extraordinary women, Nancy Cabral and Julie Tulang, at the 14th annual Remarkable People luncheon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/community/remarkable-people-event-to-honor-cabral-tulang/>
+
+---
+
+## Kona Choral Society & Orchestra offers Mother’s Day concert
+
+date: 2025-05-08, from: Hawaii Tribune Harold
+
+
+				<p>The Kona Choral Society &#038; Orchestra, under the direction of Artistic Director Susan McCreary Duprey, on Sunday will present its annual &#8220;Spring Concert: A Mother&#8217;s Day Celebration.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/08/entertainment/kona-choral-society-orchestra-offers-mothers-day-concert/>
+
+---
+
+## Wellness team focused on health
+
+date: 2025-05-08, from: Marshal Islands Journal
+
+<p>The non-communicable disease situation in Marshall Islands was declared a “crisis” based on a 2018 hybrid survey which revealed many alarming statistics. The survey showed high numbers of people with high blood pressure, heart disease, certain cancers and diabetes was at an all-time high.&#160; Another unsettling statistic included evidence that obesity in young children was [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/wellness-team-focused-on-health/">Wellness team focused on health</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/wellness-team-focused-on-health/>
+
+---
+
+## US Army seeks to beef up Indo-Pacific alliance through land power 
+
+date: 2025-05-08, from: Pacific Island Times
+
+Gen. Ronald Clark/Photo courtesy of U.S. Army By Ron Rocky Coloma Just a week before 32 delegations are set to gather in Hawaii, the U.S.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-army-seeks-to-beef-up-indo-pacific-alliance-through-land-power>
+
+---
+
+## Norway Ambassador Attends N-POC Research Facilitation Workshop Closing Ceremony
+
+date: 2025-05-08, from: University of the South Pacific (Fiji)
+
+<p>The Norway-Pacific Ocean-Climate Scholarships Programme (N-POC) had the distinct honour of hosting the Ambassador of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/norway-ambassador-attends-n-poc-research-facilitation-workshop-closing-ceremony/">Norway Ambassador Attends N-POC Research Facilitation Workshop Closing Ceremony</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/norway-ambassador-attends-n-poc-research-facilitation-workshop-closing-ceremony/>
+
+---
+
+## Greenpeace honored in RMI
+
+date: 2025-05-08, from: Marshal Islands Journal
+
+<p>Greenpeace was recognized prior to departing the RMI by President Hilda Heine and the National Nuclear Commission. Representatives of Greenpeace joined the President and her Cabinet ministers for a meeting last week before Greenpeace’s vessel Rainbow Warrior set sail Sunday from Majuro lagoon. The Rainbow Warrior spent six weeks touring atolls in the RMI in [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/greenpeace-honored-in-rmi/">Greenpeace honored in RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/greenpeace-honored-in-rmi/>
+
+---
+
+## 902 consultations to continue as Trump names representative
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Thursday announced that President Donald Trump has responded to his request to continue the consultations pursuant to Section 902 of the Covenant between the CNMI and the federal government. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/902-consultations-to-continue-as-trump-names-representative/article_ec980103-15db-45e5-a8b4-56a995ad8e86.html>
+
+---
+
+## Strength, service, Samoan pride: Tanya Pio’s journey to commencement
+
+date: 2025-05-08, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> commencement speaker honors her beloved departed with her message.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/strength-service-samoan-pride-tanya-pio/">Strength, service, Samoan pride: Tanya Pio’s journey to commencement</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/strength-service-samoan-pride-tanya-pio/>
+
+---
+
+## Emerging student artists explore expression in Kapiʻolani CC exhibit
+
+date: 2025-05-08, from: University of Hawaiʻi News
+
+<p><span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> student artworks reveal personal stories, daring techniques and creative perspectives.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/koa-gallery-crafting-voices-exhibition/">Emerging student artists explore expression in Kapiʻolani <abbr>CC</abbr> exhibit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/koa-gallery-crafting-voices-exhibition/>
+
+---
+
+## King-Hinds celebrates appointment of Angel Demapan as deputy assistant secretary for insular and international affairs
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the CNMI Congressional Delegate) — U.S. Congresswoman Kimberlyn King-Hinds on Thursday welcomed the appointment of Angel Demapan as the new deputy assistant secretary for insular and international affairs within the U.S. Department of the Interior, praising his deep knowledge of regional issues and long-standing public service in the Commonwealth of the Northern Mariana Islands. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-celebrates-appointment-of-angel-demapan-as-deputy-assistant-secretary-for-insular-and-international/article_791dc31e-2f03-47df-a4e9-f812c6e076ed.html>
+
+---
+
+## Algae noodles? Foodlab gives slurpy grinds a twist
+
+date: 2025-05-08, from: University of Hawaiʻi News
+
+<p>Aunty Hapa’s Hawaiian Foodlab is a collaboration between <abbr>CTAHR</abbr>, local farmers and food entrepreneurs.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/foodlab-gives-slurpy-grinds-a-twist/">Algae noodles? Foodlab gives slurpy grinds a twist</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/foodlab-gives-slurpy-grinds-a-twist/>
+
+---
+
+## The Pacific economy in the tariff era
+
+date: 2025-05-07, from: Pacific Island Times
+
+
+
+In the Pacific, economic growth is predicted to dip slightly from 3.9 percent to 3.6 percent, whereas inflation will inch up to 3.7 percent from 3.4 percent.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-pacific-economy-in-the-tariff-era>
+
+---
+
+## Sen. Hirono earns CTAHR’s top honor
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>U.S. Sen. Mazie Hirono received the Ka Lei Hano award, the highest honor from <abbr>CTAHR</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/ka-lei-hano-award-2025/">Sen. Hirono earns <abbr>CTAHR</abbr>’s top honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/ka-lei-hano-award-2025/>
+
+---
+
+## Keeping Chamorro language alive at UH Mānoa
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Missing home led Brant Songsong to revive and teach the Chamorro language at <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/chamorro-language-uh-manoa/">Keeping Chamorro language alive at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/chamorro-language-uh-manoa/>
+
+---
+
+## UH Mānoa plays key role in fostering Hawaiʻi’s next generation of chemists
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>The top 10 performers advanced to the national exam, which was hosted in the chemistry department’s teaching labs in April.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/chemistry-olympiad-local-round/"><abbr>UH</abbr> Mānoa plays key role in fostering Hawaiʻi’s next generation of chemists</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/chemistry-olympiad-local-round/>
+
+---
+
+## Earth science student unveils treasure trove of Pacific Island climate stories
+
+date: 2025-05-07, from: University of Hawaiʻi News
+
+<p>Tungpalan is preserving Pacific Island climate stories and championing environmental resilience through research and advocacy shaped by his immigrant journey from the Philippines.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/07/earth-science-student-pacific-island-stories/">Earth science student unveils treasure trove of Pacific Island climate stories</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/07/earth-science-student-pacific-island-stories/>
+
+---
+
+## Hilda: Migration trends concerning
+
+date: 2025-05-07, from: Marshal Islands Journal
+
+<p>In her Constitution Day speech last Thursday, President Hilda Heine put her finger on a point that goes to the heart of the nation as it marked 46 years of constitutional government. After outlining many positive developments in recent times, she commented on the heavy outflow of Marshallese to the United States. “The critical question [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hilda-migration-trends-concerning/">Hilda: Migration trends concerning</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/hilda-migration-trends-concerning/>
 
 ---
 
@@ -57,6 +506,42 @@ The post <a href="https://www.hawaii.edu/news/2025/05/07/hawaii-mesonet-dashboar
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/07/hawaii-mesonet-dashboard-launch/>
+
+---
+
+## Man arrested after ramming car into front gate of Jennifer Aniston’s Los Angeles home
+
+date: 2025-05-07, updated: 2025-05-08, from: Marianas Variety
+
+LOS ANGELES (AP) — A man was arrested after crashing a car into the front gate at Jennifer Aniston’s home in Los Angeles, authorities said Tuesday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/man-arrested-after-ramming-car-into-front-gate-of-jennifer-aniston-s-los-angeles-home/article_7436bcd1-28cc-47aa-a315-8b8c315135d1.html>
+
+---
+
+## Poetry
+
+date: 2025-05-07, updated: 2025-05-08, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_17d030e4-0e00-49a1-b1cc-4f9d47b62bdd.html>
+
+---
+
+## Smokey Robinson accused by former housekeepers of sexual assault and rape
+
+date: 2025-05-07, updated: 2025-05-08, from: Marianas Variety
+
+LOS ANGELES (AP) — Four former housekeepers of Smokey Robinson allege in a lawsuit filed Tuesday that the Motown music luminary repeatedly sexually assaulted and raped them while they worked for him. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/smokey-robinson-accused-by-former-housekeepers-of-sexual-assault-and-rape/article_00b335f5-862a-487e-93de-6fd46e763a2b.html>
 
 ---
 
@@ -821,7 +1306,7 @@ date: 2025-05-06, from: Island Times
 
 date: 2025-05-06, from: Island Times
 
-<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60466" data-permalink="https://islandtimes.org/palau-election-certifies-results-of-december-elections/pec-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pec" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" /></figure>
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60466" data-permalink="https://islandtimes.org/palau-election-certifies-results-of-december-elections/pec-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pec" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" /></figure>
 <p>Ngatpang, Palau — The Palau Election Commission has rejected a petition submitted by the Ngatpang State Legislature to recall Governor Jersey Iyar and hold a new gubernatorial election, citing constitutional inconsistencies and procedural errors. The commission outlined three key reasons for rejecting the petition: “I give credit to those who chose to initiate this petition [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-election-commission-rejects-recall-petition-against-ngatpang-governor/">Palau Election Commission rejects recall Petition against Ngatpang Governor</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -836,7 +1321,7 @@ date: 2025-05-06, from: Island Times
 
 date: 2025-05-06, from: Island Times
 
-<figure><img width="600" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77228" data-permalink="https://islandtimes.org/big-reels-bigger-feels/etpison/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" data-orig-size="600,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="etpison" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" /></figure>
+<figure><img width="600" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77228" data-permalink="https://islandtimes.org/big-reels-bigger-feels/etpison/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" data-orig-size="600,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="etpison" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/etpison.jpg?fit=600%2C900&amp;ssl=1" /></figure>
 <p>No Grand Prize Hooked at 32nd PSFA Derby, but the Thrill Was Real KOROR, Palau— The ocean had her own plans this weekend as the 32nd Annual Palau Sportfishing Association (PSFA) Derby cast off on May 3–4 at Drop Off, with rods high, spirits higher, and plenty of fish tales waiting to be told. Although [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/big-reels-bigger-feels/">Big Reels, Bigger Feels</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -865,7 +1350,7 @@ date: 2025-05-06, from: Island Times
 
 date: 2025-05-06, from: Island Times
 
-<figure><img width="938" height="223" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?w=938&amp;ssl=1 938w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=300%2C71&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=768%2C183&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=400%2C95&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="53561" data-permalink="https://islandtimes.org/palau-media-councils-world-press-freedom-day-statement/pmc-new-logo2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1" data-orig-size="938,223" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PMC New Logo2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=300%2C71&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=780%2C185&amp;ssl=1" /></figure>
+<figure><img width="938" height="223" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?w=938&amp;ssl=1 938w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=300%2C71&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=768%2C183&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?resize=400%2C95&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="53561" data-permalink="https://islandtimes.org/palau-media-councils-world-press-freedom-day-statement/pmc-new-logo2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=938%2C223&amp;ssl=1" data-orig-size="938,223" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PMC New Logo2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=300%2C71&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/05/PMC-New-Logo2.jpg?fit=780%2C185&amp;ssl=1" /></figure>
 <p>By: Bernadette Carreon Palau media has joined the rest of the Pacific region in celebrating World Press Freedom Day, emphasizing the challenges it faces regarding the impact of artificial intelligence (AI) on press freedom and media. Despite obstacles such as legal battles and limited resources, the media continues to underscore the importance of press freedom. [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-media-council-joins-global-celebration-of-world-press-freedom-day/">Palau Media Council joins Global celebration of World Press Freedom Day</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -922,7 +1407,7 @@ date: 2025-05-06, from: Island Times
 
 date: 2025-05-06, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77202" data-permalink="https://islandtimes.org/new-report-finds-positive-impact-of-ngeruangel-reserve-on-commercially-important-fish-species/photo_ngeruangel-reserve-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon PowerShot G7 X Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;315532809&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;8.8&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Ngeruangel Reserve 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77202" data-permalink="https://islandtimes.org/new-report-finds-positive-impact-of-ngeruangel-reserve-on-commercially-important-fish-species/photo_ngeruangel-reserve-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon PowerShot G7 X Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;315532809&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;8.8&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Ngeruangel Reserve 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Photo_Ngeruangel-Reserve-2.jpg?fit=780%2C585&amp;ssl=1" /></figure>
 <p>Researchers at the Palau International Coral Reef Center (PICRC) have published a report on the most recent survey of Ngeruangel Reserve, a Marine Protected Area (MPA) within the Palau Protected Areas Network (PAN), located in Kayangel State. The report, titled “Latest assessment of Ngeruangel Reserve indicates positive effects on commercially important fish in the fore [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/new-report-finds-positive-impact-of-ngeruangel-reserve-on-commercially-important-fish-species/">New report finds positive Impact of Ngeruangel Reserve on commercially Important Fish Species</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

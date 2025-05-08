@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-05-07 14:10:37
+updated: 2025-05-08 06:11:26
 ---
 
 # games
 
-(date: 2025-05-07 14:10:37)
+(date: 2025-05-08 06:11:26)
+
+---
+
+## Drop Duchy looks like Tetris, feels like Dicey Dungeons, and pulls you in like Balatro
+
+date: 2025-05-08, updated: 2025-05-07, from: Polygon Website
+
+Drop Duchy looks a bit like Tetris at first glance — an L-shaped forest tile drops into the bottom left corner while a straight tile of mountains sits horizontally next to it. When the line fills up, trumpets resound and resources drop into your reserves. That’s when the game starts to feel more like a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/597979/drop-duchy-impressions>
+
+---
+
+## Palworld devs blame Nintendo Pokémon lawsuit for ‘disappointing’ game changes
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+Palworld developer Pocketpair has admitted it has had to make changes to its game in response to the patent-infringement lawsuit brought against it by Nintendo and The Pokémon Company — and indicated there are more of these changes coming. In a blog post titled “Regarding the lawsuit, changes to Palworld and the future” on Thursday, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598094/palworld-changes-nintendo-pokemon-lawsuit-disappointing>
+
+---
+
+## GTA 6: Everything we know about Rockstar’s next game
+
+date: 2025-05-07, updated: 2025-05-07, from: Polygon Website
+
+After more than a decade, Rockstar Games will finally deliver a sequel to Grand Theft Auto 5, the open-world crime spree epic that has sold more than 200 million copies across multiple console generations. In 2023, GTA fans got their first official look at Grand Theft Auto 6 in the form of a teaser trailer. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer>
 
 ---
 
