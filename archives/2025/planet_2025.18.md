@@ -1,19 +1,655 @@
 ---
 title: planet
-updated: 2025-05-08 12:42:00
+updated: 2025-05-09 08:45:59
 ---
 
 # planet
 
-(date: 2025-05-08 12:42:00)
+(date: 2025-05-09 08:45:59)
 
 ---
 
-## New Pope has best wishes of all Irish people - Taoiseach
+## Armagh man jailed for 'catfishing' sex offences
+
+date: 2025-05-09, from: RTÉ News
+
+A 21-year-old man who manipulated, coerced and blackmailed more than a dozen victims into sending him explicit images of themselves has today been handed sentences amounting to five years and two months. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0509/1512032-courts-catfish/>
+
+---
+
+## ⓜ Full Moon-th Meetup with Bob Trembley – May 12, 2025
+
+date: 2025-05-09, from: Vatican Obervatory
+
+Join us on Mon. May 12h for a chat with Bob Trembley - Factotum for the Vatican Observatory Foundation. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/%e2%93%9c-full-moon-th-meetup-with-bob-trembley-may-12-2025/>
+
+---
+
+## Legal dispute over permits delays Sceilg Mhichíl opening
+
+date: 2025-05-09, from: RTÉ News
+
+Sceilg Mhichíl, the UNESCO World Heritage Site managed by the OPW off the coast of Kerry, will not open as scheduled this weekend because of a legal challenge by three boat operators whose permits were not renewed. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1512014-sceilg-mhichil-permits/>
+
+---
+
+## Christian leaders across the world welcome Pope Leo XIV
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>Following the election of Pope Leo XIV Christian leaders across the ecumenical spectrum send messages and statements highlighting a shared commitment to unity, peace, and collaborative witness in the spirit of dialogue. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/christian-leaders-welcome-pope-leo-xiv-ecumenism.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/christian-leaders-welcome-pope-leo-xiv-ecumenism.html>
+
+---
+
+## What are the next steps for Pope Leo XIV?
+
+date: 2025-05-09, from: RTÉ News
+
+The Catholic world is closely watching the first words and actions of Pope Leo XIV, the first US Pope. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1512000-pope-leo-xiv/>
+
+---
+
+## Man has three fingers cut off in attack linked to feud
+
+date: 2025-05-09, from: RTÉ News
+
+A man has been taken to hospital with serious injuries following a machete attack in west Dublin today. It's understood he sustained facial injuries from a caustic substance and three of his fingers were cut off. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1512003-man-has-three-fingers-cut-off-in-dublin-machete-attack/>
+
+---
+
+## Israel won't be involved in new Gaza aid plan - US envoy
+
+date: 2025-05-09, from: RTÉ News
+
+A US-backed mechanism for distributing aid into Gaza should take effect soon, Washington's ambassador to Israel said ahead of President Donald Trump's visit to the Middle East, but he gave few details. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1511990-middle-east/>
+
+---
+
+## Central Bank awarded with 'Trusted Flagger' Status
+
+date: 2025-05-09, from: RTÉ News
+
+As concerns continue to grow about the proliferation of financial scams, fraud and illegal content on online platforms, a new step was taken today to protect consumers. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0509/1511995-central-bank-awarded-trusted-flagger-status/>
+
+---
+
+## BBC programme lacked 'responsible journalism', court told
+
+date: 2025-05-09, from: RTÉ News
+
+The High Court has heard that the BBC "did not meet the editorial thresholds of responsible journalism" in broadcasting the 2016 Spotlight programme at the centre of the defamation proceedings being taken by former Sinn Féin leader Gerry Adams. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511979-gerry-adams-case/>
+
+---
+
+## Courts not place to decide planning applications - Martin
+
+date: 2025-05-09, from: RTÉ News
+
+The courts are not the place for planning applications to be decided once the planning process has gone through, Taoiseach Micheál Martin has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0509/1511972-uisce-eireann/>
+
+---
+
+## Pope Leo XIV has mixed record on abuse, says campaigners
+
+date: 2025-05-09, from: RTÉ News
+
+One of the most pressing issues facing Pope Leo XIV is tackling sexual abuse by clergy in the Catholic Church - and campaigners say he has a mixed record. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1511975-pope-leo-campaigners/>
+
+---
+
+## Applications open for Garda Commissioner job
+
+date: 2025-05-09, from: RTÉ News
+
+The search for a new Garda Commissioner to replace Drew Harris has begun with the position now advertised on the public jobs website. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511969-new-garda-commissioner/>
+
+---
+
+## Ulster final like 'Christmas week' for Clones
+
+date: 2025-05-09, from: RTÉ News
+
+Despite having a population of just 1,885, Clones, Co Monaghan is considered by many to be the home of Ulster football and will welcome more than 30,000 people when Donegal and Armagh face off in both the men's and women's Ulster SFC finals tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0509/1511966-ulster-final-clones-monaghan/>
+
+---
+
+## Trump says 80% tariff on Chinese goods 'seems right'
+
+date: 2025-05-09, from: RTÉ News
+
+US President Donald Trump said today that 80% tariffs on Chinese goods "seems right" as representatives prepared for weekend talks to contain a trade war between the world's two largest economies. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0509/1511971-trump-says-80-tariff-on-chinese-goods-seems-right/>
+
+---
+
+## Inaugural Mass of Pope Leo XIV to be held on May 18
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>The Holy See announces the upcoming schedule for the newly elected Pontiff, including the Mass to begin his pontificate.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/inaugural-mass-of-pope-leo-xiv-to-be-held-on-may-18.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/inaugural-mass-of-pope-leo-xiv-to-be-held-on-may-18.html>
+
+---
+
+## Satchwell told gardaí wife had threatened to leave him
+
+date: 2025-05-09, from: RTÉ News
+
+Richard Satchwell told gardaí after his arrest on suspicion of murdering his wife that his wife's personality changed after her brother's suicide in 2012. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511964-satchwell-court/>
+
+---
+
+## To move aside so that Christ may remain
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>The first words of Pope Leo XIV offer a precious insight for the life of the Church.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/to-move-aside-so-that-christ-may-remain.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/to-move-aside-so-that-christ-may-remain.html>
+
+---
+
+## Work to begin on large-scale data centre in Arklow
+
+date: 2025-05-09, from: RTÉ News
+
+Work is to begin later this year on the first of two large-scale data centres in Arklow, Co Wicklow, which will create 715 permanent jobs as well as 2,600 roles during construction. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0509/1511958-data-centre/>
+
+---
+
+## Gaza: UN agencies reject Israeli plan to use aid as ‘bait’
+
+date: 2025-05-09, from: United Nations, Top Stories
+
+Israel’s plan to take control of relief assistance in Gaza would put civilian lives in danger and cause mass displacement while using aid as “bait”, UN humanitarians said on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163071>
+
+---
+
+## Southern African Bishops welcomes Pope Leo XIV with gratitude and prayer
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>The Southern African Catholic Bishops’ Conference (SACBC) has congratulated Pope Leo XIV on his election as the 267th Supreme Pontiff of the Roman Catholic Church. </p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/southern-africa-sacbc-welcomes-pope-leo-xiv-with-gratitude-and.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/southern-africa-sacbc-welcomes-pope-leo-xiv-with-gratitude-and.html>
+
+---
+
+## Customers can trust PTSB's IT systems, CEO says
+
+date: 2025-05-09, from: RTÉ News
+
+The chief executive of PTSB, Eamonn Crowley, has insisted that customers can trust the bank's IT systems following two major outages in recent months. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0509/1511954-ptsb-agm-comments/>
+
+---
+
+## Classic Clobber: Why second-hand clothes are on trend
+
+date: 2025-05-09, from: RTÉ News
+
+Second-hand clothes had a bit of a bad reputation for a long time - but now they're one of the fastest growing segments of the fashion market, writes Adam Maguire. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0509/1511948-vintage-charity-clothing/>
+
+---
+
+## Two men found guilty of felling sycamore gap tree in UK
+
+date: 2025-05-09, from: RTÉ News
+
+Two former friends have been found guilty of cutting down Britain's Sycamore Gap tree in an act of "deliberate and mindless criminal damage". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511938-sycamore-gap-tree/>
+
+---
+
+## GPA calls on Minister as Munster discuss final switch
+
+date: 2025-05-09, from: RTÉ News
+
+The Gaelic Players Association is seeking Government support to ensure the Munster Senior Camogie final between Cork and Waterford goes ahead as scheduled tomorrow afternoon. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0509/1511932-gpa-calls-on-minister-as-munster-discuss-final-switch/>
+
+---
+
+## Trump says hopes to meet 'fantastic' von der Leyen
+
+date: 2025-05-09, from: RTÉ News
+
+US President Donald Trump has said he hoped to meet "fantastic" EU chief Ursula von der Leyen, as a trade deal with Britain boosted hopes for other countries' tariff negotiations. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0509/1511937-trump-eu/>
+
+---
+
+## Over 50,000 jobs could be affected by tariffs - Donohoe
+
+date: 2025-05-09, from: RTÉ News
+
+Minister for Finance Pascal Donohoe has said that a "worst case scenario" would see 50 to 75,000 Irish affected by tariffs in the medium term. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511924-us-ireland-tariffs/>
+
+---
+
+## Cistercian College in Roscrea to welcome girls in 2026
+
+date: 2025-05-09, from: RTÉ News
+
+A Tipperary boarding school that has only educated boys for the past 120 years will become co-educational next year. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0509/1511918-roscrea-school/>
+
+---
+
+## Pope Leo XIV to Cardinals: 'We are to bear witness to our joyful faith in Christ' 
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>The morning after being elected the 267th Pope, Pope Leo XIV celebrates Mass with the Cardinal electors in the Sistine Chapel, reminding them that "we are to bear witness to our joyful faith in Christ" while warning that where faith is lacking, life loses meaning.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-homily-faith-college-cardinals-sistine-chapel.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-homily-faith-college-cardinals-sistine-chapel.html>
+
+---
+
+## Ireland should consider u16 social media ban - Tánaiste
+
+date: 2025-05-09, from: RTÉ News
+
+Serious consideration should be given to banning under-16s from using social media, similar to a law passed last year in Australia, according to Tánaiste Simon Harris. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0509/1511928-social-media/>
+
+---
+
+## More than 90,000 applications for Storm Éowyn scheme
+
+date: 2025-05-09, from: RTÉ News
+
+There have been more than 90,000 applications for compensation made following Storm Éowyn, which brought record-breaking gusts in January, according to figures obtained by TG4's 7LÁ programme. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0509/1511916-storm-eowyn/>
+
+---
+
+## Pope used to 'play priest' as a child, says brother
+
+date: 2025-05-09, from: RTÉ News
+
+Pope Leo XIV used to "play priest" when he was a child, according to his brother, who said that he could not be prouder of the new pontiff. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0509/1511904-pope-brother/>
+
+---
+
+## Putin marks World War II victory with Xi at his side
+
+date: 2025-05-09, from: RTÉ News
+
+Russia has marked the 80th anniversary of the Soviet Union's victory over Nazi Germany in World War II with a major military parade that went off without any reports of Ukrainian attacks despite three years of devastating war. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1511900-russia-military-parade/>
+
+---
+
+## Aer Lingus CEO says no drop-off in passengers to US
+
+date: 2025-05-09, from: RTÉ News
+
+Aer Lingus chief executive Lynne Embleton has said the airline is not seeing a drop-off in passengers travelling from Ireland to the US, despite recent figures showing a reduction in Irish residents visiting the US. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0509/1511902-aer-lingus-quarterly-results/>
+
+---
+
+## As it happened: Pope celebrates first Mass as pontiff
+
+date: 2025-05-09, from: RTÉ News
+
+A look back on Pope Leo XIV's first day as the new pontiff. The new Pope celebrated his first Mass at the Sistine Chapel. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511894-pope-leo/>
+
+---
+
+## Tourists flee as India, Pakistan trade attack accusations
+
+date: 2025-05-09, from: RTÉ News
+
+India and Pakistan have accused each other of launching drone and artillery attacks overnight into this morning, as tourists and villagers fled the third day of the worst fighting between the nuclear-armed neighbours in nearly three decades. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1511892-pakistan-india-strikes/>
+
+---
+
+## Campaign seeking to increase diversity in fire service
+
+date: 2025-05-09, from: RTÉ News
+
+Dublin Fire Brigade has launched a new recruitment campaign to try and attract a greater diversity of people to the service. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0509/1511859-dublin-fire-brigade-new-recruitment/>
+
+---
+
+## Mushroom murder trial told poisoned guests rarely invited
+
+date: 2025-05-09, from: RTÉ News
+
+An Australian woman accused of triple murder with a toxic mushroom-laced beef Wellington had rarely invited her four guests to eat at her home before, a court heard this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1511890-mushroom-murder-trial/>
+
+---
+
+## How will the 267th Pope deal with the 47th US President?
+
+date: 2025-05-09, from: RTÉ News
+
+People used to say that only Richard Nixon could go to China, so maybe only an American Pope can act as a moral check on the US President and his MAGA movement's most extreme positions, writes Sean Whelan. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0509/1511882-sean-whelan-pope/>
+
+---
+
+## Ukraine set to host 'coalition of the willing' talks
+
+date: 2025-05-09, from: RTÉ News
+
+Leaders of the so-called "coalition of the willing" are set to travel to Ukraine for further talks, Volodymyr Zelensky has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1511886-ukraine-russia-war/>
+
+---
+
+## What do we know about Pope Leo?
+
+date: 2025-05-09, from: RTÉ News
+
+The announcement that US Cardinal Robert Prevost had been elected Pope came as a surprise to many, writes Social Affairs and Religion Correspondent Ailbhe Conneely from Rome. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0509/1511879-what-do-we-know-about-pope-leo/>
+
+---
+
+## Pope Leo hopes to bring light to 'dark nights of world'
+
+date: 2025-05-09, from: RTÉ News
+
+Pope Leo XIV has said he hopes that his election can help the Catholic Church bring light to the "dark nights of this world" as he delivered his first Mass since being elected. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1511885-pope-leo/>
+
+---
+
+## TUI urges members to support Leaving Certificate reform
+
+date: 2025-05-09, from: RTÉ News
+
+Talks over Leaving Certificate subject reforms between the teacher unions and the Department of Education have concluded, with a package of supports offered for implementation of Senior Cycle Redevelopment from September. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511883-tui-urges-members-to-support-leaving-certificate-reform/>
+
+---
+
+## Shotgun, drugs and motorcycles seized in Finglas
 
 date: 2025-05-08, from: RTÉ News
 
-The new Pope Leo XIV has the best wishes of all Irish people, Taoiseach Micheál Martin has said. 
+A shotgun, ammunition and four motorcycles have been seized by gardaí investigating organised crime and feuding criminal gangs in Finglas. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1511877-shotgun-drugs-and-motorcycles-seized-in-finglas/>
+
+---
+
+## Senior civil servants to highlight concerns over AI
+
+date: 2025-05-08, from: RTÉ News
+
+Senior civil servants are to highlight concerns over the use of artificial intelligence in the public service at the annual conference of the Association of Higher Civil and Public Servants. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0509/1511853-public-servants-ai/>
+
+---
+
+## Trump calls for 30-day Russia-Ukraine ceasefire
+
+date: 2025-05-08, from: RTÉ News
+
+US President Donald Trump yesterday pressed Russia to accept a 30-day unconditional ceasefire with Ukraine, with any breaches punishable by sanctions. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0508/1511867-trump-russia-ukraine/>
+
+---
+
+## UK-US deal shows limited room for manoeuvre
+
+date: 2025-05-08, from: RTÉ News
+
+Sitting at his desk in the Oval Office with the UK Prime Minister listening via a speaker-phone beside him, the US President Donald Trump hailed a "historic" deal on trade. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0508/1511855-uk-us-deal/>
+
+---
+
+## Augustinian Prior General: Pope Leo XIV is ‘truly close to everyone'
+
+date: 2025-05-08, from: Vatican News
+
+
+                    <p>Fr. Alejandro Moral, Prior General of the Augustinians and a long-time friend of the newly elected Pope Leo XIV, tells Vatican News that the new Pope "immediately spoke of justice and peace and of bridges between all, of synodality."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/augustinian-prior-general-leo-xiv-truly-close-to-everyone.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/augustinian-prior-general-leo-xiv-truly-close-to-everyone.html>
+
+---
+
+## Archbishop Broglio welcomes Pope Leo XIV: 'A shepherd for a troubled world'
+
+date: 2025-05-08, from: Vatican News
+
+
+                    <p>Archbishop Timothy Broglio, President of the United States Conference of Catholic Bishops, expresses joy and gratitude following the election of Pope Leo XIV.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/archbishop-broglio-interview-pope-leo-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/archbishop-broglio-interview-pope-leo-xiv.html>
+
+---
+
+## The election of Pope Leo XIV 
+
+date: 2025-05-08, from: Vatican News
+
+
+                    <p>Watch special moments leading up to the election of Pope Leo XIV.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/pope-leo-xiv-video-election-step-by-step.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/pope-leo-xiv-video-election-step-by-step.html>
+
+---
+
+## Matteo Bruni: Pope Leo XIV's name choice highlights the Church's mission
+
+date: 2025-05-08, from: Vatican News
+
+
+                    <p>The Director of the Holy See Press Office, Matteo Bruni, describes Pope Leo XIV’s first message to the world as a call to peace and dialogue. He also highlights the significance of his name as a clear reference to the Church’s social teaching in the modern age.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/matteo-bruni-holy-see-press-office-conference-leo-xiv-pope-elect.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/matteo-bruni-holy-see-press-office-conference-leo-xiv-pope-elect.html>
+
+---
+
+## President leads congratulations to new Pope Leo XIV
+
+date: 2025-05-08, from: RTÉ News
+
+President Michael D Higgins has led congratulations in Ireland following the election of the new Pope Leo XIV. 
 
 <br> 
 
@@ -21,11 +657,11 @@ The new Pope Leo XIV has the best wishes of all Irish people, Taoiseach Micheál
 
 ---
 
-## In pictures: Day of significance as new Pope is elected
+## In Pictures: A day of emotion and joy in Rome
 
 date: 2025-05-08, from: RTÉ News
 
-Cardinal Robert Prevost has been elected in a surprise choice to be the new leader of the Catholic Church, taking the name Leo XIV, becoming the first US pontiff. 
+Cardinal Robert Prevost, a surprise choice, is the new leader of the Catholic Church. Leo XIV is the first US pontiff. 
 
 <br> 
 
@@ -33,12 +669,24 @@ Cardinal Robert Prevost has been elected in a surprise choice to be the new lead
 
 ---
 
-## Biography of Robert Francis Prevost, Pope Leo XIV
+## Former City of Surrey finance clerk suspected of defrauding city of $2.5 million
+
+date: 2025-05-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.4379341.1739207718!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/person-typing-on-keyboard.jpg' alt='Fingers are shown on a black keyboard.' width='620' height='349' title='A picture taken on October 17, 2016 shows an employee typing on a computer keyboard at the headquarters of Internet security giant Kaspersky in Moscow. / AFP / Kirill KUDRYAVTSEV / TO GO WITH AFP STORY BY Thibault MARCHAND        (Photo credit should read KIRILL KUDRYAVTSEV/AFP/Getty Images)'/><p>Surrey police and RCMP financial crimes officers are investigating allegations that a former City of Surrey finance clerk defrauded the city of more than $2.5 million by cutting hundreds of cheques to accounts associated with herself and her boutique cake baking business.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/surrey-finnce-fraud-deposits-millions-1.7529915?cmp=rss>
+
+---
+
+## Biography of Pope Leo XIV, born Robert Francis Prevost
 
 date: 2025-05-08, from: Vatican News
 
 
-                    <p>Prior to his election as Pope Leo XIV, Robert Francis, Cardinal Prevost, was Prefect of the Dicastery for the Bishops. Here you can find the biography of the 267th Bishop of Rome. </p>
+                    <p>Prior to his election as Pope Leo XIV, Cardinal Robert Francis Prevost was Prefect of the Dicastery for Bishops. Here is the biography of the 267th Bishop of Rome.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/biography-of-robert-francis-prevost-pope-leo-xiv.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -89,7 +737,7 @@ Ireland has taken part in the world's largest 'live-fire' cyber defence exercise
 
 ---
 
-## Leo XIV: Soft spoken pope with history of missionary work
+## Leo XIV: Soft-spoken pope with history of missionary work
 
 date: 2025-05-08, from: RTÉ News
 
@@ -197,6 +845,18 @@ A garda, who claimed his back and legs had been injured in a traffic accident, o
 
 ---
 
+## 'Horrifying': ex-model tells jury that Harvey Weinstein sexually assaulted her when she was 16
+
+date: 2025-05-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7530205.1746731417!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexual-misconduct-harvey-weinstein.jpg' alt='A man is shown close up, sitting down, visible from the shoulders up. He is wearing rectangular glasses and a suit. ' width='620' height='349' title='Harvey Weinstein appears in state court in Manhattan for his retrial on Thursday, May 8, 2025 in New York.  '/><p>A former model tearfully testified Thursday that Harvey Weinstein sexually assaulted her when she was 16 years old, calling it the most "horrifying thing I ever experienced" to that point. Her allegations have not been heard in court before, as she was not part of the 2020 trial of the former studio boss.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/harvey-weinstein-trial-1.7530157?cmp=rss>
+
+---
+
 ## What's in a name for a newly elected pope?
 
 date: 2025-05-08, from: RTÉ News
@@ -218,18 +878,6 @@ date: 2025-05-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/bill-gates-foundation-1.7530127?cmp=rss>
-
----
-
-## As Russia rallies the troops to mark Victory Day, it's using the past to try to justify its war on Ukraine
-
-date: 2025-05-08, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7529872.1746720585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ww2-anniversary-russia-china.JPG' alt='Russian President Vladimir Putin shows the way to Chinese President Xi Jinping during a meeting at the Kremlin in Moscow, Russia, May 8, 2025. ' width='620' height='349' title='Russian President Vladimir Putin shows the way to Chinese President Xi Jinping during a meeting at the Kremlin in Moscow, Russia, May 8, 2025. '/><p>Russia is marking the 80th anniversary of Victory Day as a few dozen leaders fly in to watch and meet with Putin. Victory day has become an opportunity for Russia to try to frame the Ukraine war in the same light as the second world war.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/victory-day-putin-ukraine-1.7529857?cmp=rss>
 
 ---
 
@@ -317,6 +965,18 @@ Ireland has signed an associate membership agreement to join the European Organi
 
 ---
 
+## World leaders have performed a diplomatic dance in Trump's Oval Office. Has it paid off?
+
+date: 2025-05-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7529461.1746721285!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-france.jpg' alt='President Donald Trump speaks during a meeting with France&apos;s President Emmanuel Macron in the Oval Office of the White House in Washington, Monday, Feb. 24, 2025. (Ludovic Marin/Pool via AP)' width='620' height='349' title='President Donald Trump speaks during a meeting with France&apos;s President Emmanuel Macron in the Oval Office of the White House in Washington, Monday, Feb. 24, 2025. (Ludovic Marin/Pool via AP)'/><p>Mark Carney became the most recent world leader to meet U.S. President Donald Trump in the Oval Office, an event that has taken on an unusual significance for political observers. Here's a look at their varying approaches to dealing with the president and what kind of results they've achieved.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-world-leaders-oval-office-meetings-1.7528485?cmp=rss>
+
+---
+
 ## Two men held after €10m worth of cannabis seized in Clare
 
 date: 2025-05-08, from: RTÉ News
@@ -377,6 +1037,54 @@ Amid reports that renewed drone strikes on a key Sudanese aid hub were thwarted 
 
 ---
 
+## ‘She cries in her sleep’: Deeper crisis looms beneath devastation from Myanmar quake
+
+date: 2025-05-08, from: United Nations, Top Stories
+
+An&nbsp;estimated 3,800 people have died as a result of the devastating earthquakes that struck Myanmar on 28 March. Six weeks on, the situation in Myanmar remains dire, with whole communities still traumatised and vulnerable. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163046>
+
+---
+
+## UN Security Council extends South Sudan mission amid rising instability
+
+date: 2025-05-08, from: United Nations, Top Stories
+
+The Security Council has extended the mandate of the UN Mission in South Sudan (UNMISS) for another year, as the world’s youngest nation teeters on the brink of renewed conflict. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163061>
+
+---
+
+## World News in Brief: South Sudan urged to avoid slide to war, Türk calls on EU not to weaken landmark law, Ukraine and Mali updates
+
+date: 2025-05-08, from: United Nations, Top Stories
+
+The UN peacekeeping mission in South Sudan (UNMISS) together with the African Union mission there, and other key bodies collectively known as the Quartet, have raised the alarm over rising violence and political instability in South Sudan. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163056>
+
+---
+
+## Guterres welcomes election of Pope Leo ‘at a time of great global challenges’
+
+date: 2025-05-08, from: United Nations, UN Affairs
+
+UN Secretary-General António Guterres welcomed the announcement of a new Pope on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163051>
+
+---
+
 ## Satchwell trial hears of online ad placed for freezer
 
 date: 2025-05-08, from: RTÉ News
@@ -401,11 +1109,11 @@ Former Sinn Féin president Gerry Adams has told the High Court he was not the a
 
 ---
 
-## Trump agrees to cut tariffs on U.K. autos, steel and aluminum in planned trade deal
+## Trump keeps 10% tariffs on U.K., cuts taxes on British autos, steel and aluminum in trade deal
 
 date: 2025-05-08, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7529703.1746714002!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-britain.JPG' alt='U.S. President Donald Trump and British Prime Minister Keir Starmer hold a news conference.' width='620' height='349' title='U.S. President Donald Trump and British Prime Minister Keir Starmer attend a press conference at the White House in Washington, D.C., U.S., February 27, 2025. REUTERS/Kevin Lamarque'/><p>U.S. President Donald Trump has agreed to cut tariffs on U.K. autos, steel and aluminum in a planned trade deal with Britain, which would buy more American beef and streamline its customs process for goods from the United States.</p> 
+<img src='https://i.cbc.ca/1.7529703.1746714002!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-britain.JPG' alt='U.S. President Donald Trump and British Prime Minister Keir Starmer hold a news conference.' width='620' height='349' title='U.S. President Donald Trump and British Prime Minister Keir Starmer attend a press conference at the White House in Washington, D.C., U.S., February 27, 2025. REUTERS/Kevin Lamarque'/><p>President Donald Trump agreed on Thursday to cut tariffs on U.K. autos, steel and aluminum in a planned trade deal but played down the possibility of other nations getting similarly favorable terms on his import taxes, which are roiling the global economy.</p> 
 
 <br> 
 
@@ -613,7 +1321,7 @@ date: 2025-05-08, from: CBC, World News
 
 ---
 
-## Robert Francis Prevost of US becomes new Pope
+## As it happened: US cardinal becomes new Pope
 
 date: 2025-05-08, from: RTÉ News
 
@@ -658,6 +1366,18 @@ date: 2025-05-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/india-pakistan-kashmir-explainer-1.7529335?cmp=rss>
+
+---
+
+## India suspends Premier League cricket play as deadly exchanges with Pakistan continue
+
+date: 2025-05-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/a05de439-71d9-4d8f-8c3d-161ecb68d509,1746719110109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Soldiers in camouflage gear and helmets stand alert with rifles in an urban setting. Text overlay reads &quot;Battle over Kashmir,&quot; conveying tension.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-pakistan-latest-may9-1.7530796?cmp=rss>
 
 ---
 
@@ -733,11 +1453,11 @@ More information on a herd's risk category, mandatory blood testing in larger he
 
 ---
 
-## Pope appeals for peace to 'all peoples' in first address
+## Prevost surprises as first US pope, takes name Leo XIV
 
 date: 2025-05-07, from: RTÉ News
 
-US Cardinal Robert Prevost has been elected in a surprise choice to be the new leader of the Catholic Church, taking the name Leo XIV, becoming the first American pontiff. 
+Cardinal Robert Prevost, a little known missionary from Chicago, was elected as a surprise choice to be the new leader of the Catholic Church, becoming the first US pope and taking the name Leo XIV. 
 
 <br> 
 
@@ -761,7 +1481,7 @@ Ukraine has said Russia has been attacking across the front line, calling Russia
 
 date: 2025-05-07, from: RTÉ News
 
-The European Union has confirmed it is proposing to introduce tariffs on a "broad range of industrial and agricultural products" imported from the US which would be worth €95 billion. 
+The European Union has confirmed it is proposing to introduce tariffs on a "broad range of industrial and agricultural products" imported from the US which would be worth €95bn. 
 
 <br> 
 
@@ -1443,7 +2163,7 @@ Where you're born could be the difference between living over three decades long
 
 ## ‘Alarming’ slowdown in human development - could AI provide answers?
 
-date: 2025-05-06, from: United Nations, Economic Development
+date: 2025-05-06, from: United Nations, Top Stories
 
 The progress of human development – as measured by people’s freedoms and well-being – has remained sluggish since the major shock of the COVID-19 pandemic. A UN study released on Tuesday finds that used in the right way, artificial intelligence could be a powerful tool to improve millions of lives.&nbsp; 
 

@@ -1,23 +1,113 @@
 ---
 title: weather
-updated: 2025-05-08 12:42:06
+updated: 2025-05-09 08:46:04
 ---
 
 # weather
 
-(date: 2025-05-08 12:42:06)
+(date: 2025-05-09 08:46:04)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-05-08, from: Eastern Pacific Basin GIS Data
+date: 2025-05-09, from: Eastern Pacific Basin Tropical Cyclones
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Fri May  9 14:03:01 UTC 2025
+
+date: 2025-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri May  9 14:03:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri May  9 14:03:01 UTC 2025
+
+date: 2025-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri May  9 14:03:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC May 9, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0741 AM CDT Fri May 09 2025
+
+Valid 091300Z - 101200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE FL PENINSULA AND FAR SOUTHEAST VA/NORTHEAST NC...
+
+...SUMMARY...
+Thunderstorms capable of producing large hail and severe wind gusts
+are possible across parts of the Southeast, but especially areas
+such as the northern Florida Peninsula and eastern North
+Carolina/far southeast Virginia.
+
+...Florida/coastal Southeast...
+Weak height falls and strengthening southwesterly winds aloft will
+occur later today into tonight preceding the upper trough along the
+middle Gulf Coast and lower Mississippi River Valley, with an MCS
+over the west-central/north-central Gulf also a factor. The
+relatively greatest destabilization is expected today across the
+northern/central Florida Peninsula and nearby Georgia, where
+guidance is in generally good agreement that MLCAPE will peak in the
+2000-3000 J/kg range this afternoon. As instability increases during
+the day, thunderstorms are expected to develop with sea breeze
+influences, with isolated large hail and damaging winds possible.
+Elsewhere, influences from the aforementioned MCS over the Gulf
+should limited severe potential farther west along the middle Gulf
+Coast, although some measure of recovery and weak cyclogenesis could
+occur later tonight toward far southeast Louisiana to Florida
+Panhandle vicinity.
+
+...Carolinas/southeast Virginia/southern Maryland...
+The closed upper low will shift generally eastward over the
+central/northern Appalachians and northern Mid-Atlantic region
+today, with a cyclonically curved belt of strong westerlies in its
+base and attendant mid-level cold pocket (-18C to -24C at 500 mb).
+Some showers/possibly a thunderstorm will exit the region and move
+into the Atlantic today, with modest air mass
+recovery/destabilization in its wake preceding a surface
+low/reinforcing front. While the magnitude of the severe risk is not
+entirely clear, the main opportunity for later-day strong/locally
+severe storm development would appear to be across far southeast
+Virginia and far northeast North Carolina. Strong wind profiles
+would support organized storms pending sufficient destabilization,
+with potential for severe hail and damaging winds, at least on an
+isolated basis, primarily from mid-afternoon through sunset or early
+evening.
+
+..Guyer/Dean.. 05/09/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -919,83 +1009,6 @@ updrafts.
 
 ---
 
-## SPC May 8, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-05-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0759 AM CDT Thu May 08 2025
-
-Valid 081300Z - 091200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
-TENNESSEE VALLEY...SOUTHERN APPALACHIANS...SOUTHEAST AND THE RIO
-GRANDE VALLEY OF TEXAS...
-
-...SUMMARY...
-Scattered thunderstorms with severe wind gusts and large hail are
-expected today over parts of the Tennessee Valley, and southern
-Appalachians, with hailstones greater than 2 inches in diameter
-possible. Severe wind gusts and large hail will also be possible in
-other parts of the Southeast, as well as West/South Texas including
-the Rio Grande Valley.
-
-...Tennessee Valley/Southern Appalachians to Southeast...
-A positively-tilted mid-level trough, with an upper low centered
-over the Ozarks this morning, will move through the Ohio and mid
-Mississippi Valleys today, and toward the Appalachians tonight.
-Surface dewpoints to the south of an advancing cold front will range
-from the mid 50s to the mid 60s F. As surface temperatures warm
-during the day, moderate instability is expected to develop with
-minimal convective inhibition beneath relatively cool mid-level
-temperatures via the proximity of the upper cold pocket. 
-
-Storms will steadily increase into the afternoon with some
-supercells and organizing clusters from western and central Kentucky
-into middle Tennessee, eastward into the southern Appalachians.
-These storms will develop south-southeastward into northern Alabama,
-northern Georgia and the western Carolinas by late afternoon. Large
-hail can be expected, with hail greater than 2 inches in diameter
-possible especially with the more discrete and intense supercells.
-Damaging wind gusts can also be expected regionally.
-
-Another relatively favorable area for severe storms may focus across
-southeast Georgia and nearby far southern South Carolina and/or far
-north Florida this afternoon through early evening. This will be
-coincident with somewhat stronger mid-level flow as compared to
-areas farther south across the northern/central Florida Peninsula,
-where isolated severe storms are still expected. Regarding northern
-Florida this morning, see Mesoscale Discussion 738.
-
-...West/South Texas including Rio Grande Valley...
-A low-latitude shortwave trough will progress east-southeastward
-across far northern Mexico and along the Rio Grande Valley today and
-tonight. A corridor of moderate to strong instability will be in
-place across the Rio Grande Valley. As surface temperatures warm
-today, scattered thunderstorms are expected to develop in the higher
-terrain of northern Mexico, with convection spreading eastward into
-and across the Rio Grande Valley, potentially with multiple
-rounds/corridors of severe weather possible across South Texas.
-Regarding short-term severe potential across South Texas, see
-Mesoscale Discussion 739. Strong deep-layer shear will contribute to
-supercells capable of large to very large hail and damaging wind
-gusts, especially if storms cluster/organize across the Rio Grande
-Valley later this afternoon into evening.
-
-..Guyer/Dean.. 05/08/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## SPC Day 3-8 Fire Weather Outlook
 
 date: 2025-05-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1039,30 +1052,6 @@ confidence in including areas.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC - No watches are valid as of Wed May  7 20:36:02 UTC 2025
-
-date: 2025-05-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed May  7 20:36:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Wed May  7 20:36:02 UTC 2025
-
-date: 2025-05-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed May  7 20:36:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

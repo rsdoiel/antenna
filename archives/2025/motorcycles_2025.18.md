@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-05-08 12:42:09
+updated: 2025-05-09 08:46:08
 ---
 
 # motorcycles
 
-(date: 2025-05-08 12:42:09)
+(date: 2025-05-09 08:46:08)
+
+---
+
+## MV Agusta is Moving Its Design Studio After KTM Sells It Back to Owners
+
+date: 2025-05-09, from: Ride Apart, Electric Motorcycle News
+
+Is this a good sign or bad omen? 
+
+<br> 
+
+<https://www.rideapart.com/news/759034/mv-agusta-design-centro-ricerche-castiglioni-move/>
+
+---
+
+## CFMoto’s New Baby Cruiser Motorcycle Could Be the Perfect Beginner Bike
+
+date: 2025-05-09, from: Ride Apart, Electric Motorcycle News
+
+Small cruisers are all the rage, and CFMoto’s cashing in with its CL-C platform. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758929/new-cfmoto-250clc-launch-specs-details/>
+
+---
+
+## Boxes of Vintage Harley Parts Get Soothingly ID'd in This Awesome Video
+
+date: 2025-05-09, from: Ride Apart, Electric Motorcycle News
+
+1919 bike-in-a-box, plus stacks of bonus original parts. 
+
+<br> 
+
+<https://www.rideapart.com/news/759028/harley-expert-vintage-parts-identification/>
+
+---
+
+## Yamaha’s New E-Bike Service Platform Aims To Keep E-Bikes On the Road For Longer
+
+date: 2025-05-09, from: Ride Apart, Electric Motorcycle News
+
+It’s designed to make the lives of e-bike owners much easier. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/758927/yamaha-ebike-service-platform-europe/>
 
 ---
 

@@ -1,11 +1,306 @@
 ---
 title: columns
-updated: 2025-05-08 12:42:05
+updated: 2025-05-09 08:46:04
 ---
 
 # columns
 
-(date: 2025-05-08 12:42:05)
+(date: 2025-05-09 08:46:04)
+
+---
+
+## Future Tabs
+
+date: 2025-05-09, from: Doc Searls (at Harvard), New Old Blog
+
+Too many? Probably. I&#39;m losing count of how many links I&#39;d like to share lead to paywalls or teasewalls (walls teasing a subscription that show up part way through a full read). 
+
+<br> 
+
+<https://doc.searls.com/2025/05/09/future-tabs/>
+
+---
+
+##  I saw Sinners last night (fantastic!) and loved reading Karen Attiah&#8217;s piece,... 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046820-i-saw-sinners-last-night>
+
+---
+
+##  Is This Autocracy? &#8220;Without a distinction between truth and falsehood, we have... 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046814-is-this-autocracy-without>
+
+---
+
+## Radxa Orion O6 brings Arm to the midrange PC
+
+date: 2025-05-09, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Radxa Orion O6 brings Arm to the midrange PC</span>
+
+            <p></p>
+
+<p>...with caveats.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">May 9, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc>
+
+---
+
+## openSUSE deep sixes Deepin desktop over security stink
+
+date: 2025-05-09, updated: 2025-05-09, from: Liam Proven's articles at the Register
+
+<h4>Linux giant finds Chinese environment to be perilous beneath pretty exterior</h4>
+      <p>SUSE has kicked the Deepin Desktop Environment (DDE) out of its community-driven Linux distro, openSUSE, and the reasons it gives for doing so are revealing.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/09/opensuse_ditches_deepin/>
+
+---
+
+## Why I post so damn often
+
+date: 2025-05-09, from: Robert Reich's blog
+
+And a humble apology 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-i-post-so-damn-often>
+
+---
+
+## May 8, 2025 
+
+date: 2025-05-09, from: Heather Cox Richardson blog
+
+Today, on the second day of the papal conclave, the cardinal electors&#8212;133 members of the College of Cardinals who were under the age of 80 when Pope Francis died on April 21&#8212;elected a new pope. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-8-2025>
+
+---
+
+## Madrid, Spain
+
+date: 2025-05-09, from: mrusme blog
+
+"The Community of Madrid is one of the seventeen autonomous communities of
+Spain. It is located in the centre of the Iberian Peninsula, and of the
+Central Plateau (Meseta Central). Its capital and largest municipality is the
+City of Madrid, which is also the capital of the country." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/spain/madrid-2025/>
+
+---
+
+## Yours Truly on ‘Primary Technology’
+
+date: 2025-05-09, updated: 2025-05-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://primarytech.fm/74>
+
+---
+
+## Patrick Collison Interviews Former Apple Designer Jony Ive at Stripe Sessions
+
+date: 2025-05-08, updated: 2025-05-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/patrickc/status/1920590121537052881>
+
+---
+
+## Friday 9 May, 2025
+
+date: 2025-05-08, from: John Naughton's online diary
+
+Kubrick in Venice I took this photo to mark the moment I realised that Kubrick had been a serious photographer before he went into movies. Quote of the Day “Money doesn’t talk, it swears/ Obscenity, who really cares.” Bob Dylan &#8230; <a href="https://memex.naughtons.org/friday-9-may-2025/40790/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-9-may-2025/40790/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-08, from: Miguel de Icaza Mastondon feed)
+
+<p>I am starting to think that publishing Xogot on Vision without a full rethinking of the UI might be ok.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114474768133288439>
+
+---
+
+## A Tale of Two Billionaires
+
+date: 2025-05-08, from: Dan Rather's Steady
+
+The profiteer and the philanthropist 
+
+<br> 
+
+<https://steady.substack.com/p/a-tale-of-two-billionaires>
+
+---
+
+##  Bertrand Russell on How Fascism Starts 
+
+date: 2025-05-08, updated: 2025-05-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/bertrand-russell-on-how-fascism-starts>
+
+---
+
+##  From Kyla Scanlon, a &#8220;brief comprehensive guide&#8221; about tariffs. &#8220;We call a... 
+
+date: 2025-05-08, updated: 2025-05-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046813-from-kyla-scanlon-a-brief>
+
+---
+
+## 2025-05-08 Not doing the thing
+
+date: 2025-05-08, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-08-not-doing-the-thing">2025-05-08 Not doing the thing</h1>
+
+<p>I was reading stuff on fedi, as one does, wrote a reply, deleted it, moved on, read some more, wrote a reply, deleted it. In both cases I wanted say that the thing people were talking about seemed to me to be that pattern in capitalism where &ldquo;not doing a thing&rdquo; gives you less power over time, so people always end up doing something.</p>
+
+<p>Like &ldquo;buy this to save money&rdquo; instead of &ldquo;don&rsquo;t buy this to save money&rdquo; or &ldquo;buy this keyboard to fight the pain in your wrists&rdquo; instead of &ldquo;work less to fight the pain in your wrists&rdquo;.</p>
+
+<p>If you advocate for not doing a thing, there&rsquo;s no money changing hands and therefore no ads to buy, no voice to gain, no political decisions going your way. Which is a slightly different explanation than greed and greenwashing for the failure of degrowth to take hold: If you sell flights and buy carbon offsets you&rsquo;ll always be growing unlike the competition that sells less flights to lower emissions. Even if the employees of the second company are feeling no need to grow, in the general population, their message will tend to get lost, their percentage of the market, even if enough for them, will continue to shrink, and eventually people will not have heard about them.</p>
+
+<p>I don&rsquo;t know how to change that except by laws against doing all the things I think we need to stop doing. Because the entire market, the public speech, the commercial activity, it is all dominated by people who do the thing. Sure, it&rsquo;s greed, in a way, but it&rsquo;s also a ratchet, unstoppable, step by step, a selection process that is ongoing.</p>
+
+<p>Do right and stop doing the thing and you leave that public sphere. Like Voltaire says, tend to your own garden. You&rsquo;ll be happy but the political storms raging around you will seem more and more alien. Because the people that didn&rsquo;t drop out will no longer hear you or see you. The next generation will not learn from you.</p>
+
+<p>So one needs to stay in politics? Fight for the thing even though all the money goes to towards doing the things that we shouldn&rsquo;t be doing?</p>
+
+<p>I don&rsquo;t know what to do.</p>
+
+<p>The entire thing reminds me of <a href="2022-02-14_How_to_Do_Nothing">How to Do Nothing</a>.</p>
+
+<p><a class="account" href="https://toot.cat/@dredmorbius" title="@dredmorbius@toot.cat">@dredmorbius</a> answered with &ldquo;Don&rsquo;t just do something, stand there!&rdquo; What a great reversal of &ldquo;Don&rsquo;t just stand there, do something!&rdquo; (<a href="https://quoteinvestigator.com/2014/03/22/stand-there/">Quote Investigator</a>).</p>
+
+<p><a class="account" href="https://c.im/@smlckz" title="@smlckz@c.im">@smlckz</a> reminded me of <a href="https://en.m.wikipedia.org/wiki/Tang_ping">tǎng píng</a>, Chinese for &ldquo;lying flat&rdquo; (instead of working hard). In a world of efficiency and productivity, lying flat is resistance.
+Or is checking out a way to avoid responsibility? Or the admission of powerlessness? I feel it all.</p>
+
+<p><a class="account" href="https://photog.social/@ewen" title="@ewen@photog.social">@ewen</a> noted a similar problem in medicine where &ldquo;the three biggest factors in long term health are getting more sleep, drinking more water and getting a little exercise.&rdquo; Which can&rsquo;t be monetised, of course. So somebody else must be talking about this. This reminds me of the reversal at the Chinese imperial court I heard of at one point. No idea if it is true, but the idea seems interesting: there&rsquo;s a physician and they get paid if the patients is healthy. We could get there in part with healthcare paid 100% by taxes, maybe? After all, the state usually pays for campaigns of public health, for the ads, the education, the measures, all of it.</p>
+
+<p><a class="account" href="https://snac.d34d.net/pkw" title="@pkw@snac.d34d.net">@pkw</a> said: &ldquo;This is a massive problem
+with our society. We have no conception or appreciation for the absence of
+things so they never get attention.&rdquo; Two examples were provided: regulations and browser features.</p>
+
+<p>And I agree, it’s difficult to take things away. As far as the two examples go, I’m not sure.</p>
+
+<p>Perhaps most additions to legislation (speaking from a Swiss perspective) serve a purpose – we just don&rsquo;t know about it. When I listened to the discussion of The Power Broker on the 99% Invisible podcast, there discussion at end included comments about all the regulations that we introduced so that people can no longer be treated as harshly as they were treated by Robert Moses. These days, of course, people who&rsquo;d like to move quickly and don&rsquo;t mind breaking things would support complaining about the regulations holding them back. But like all calamities, the longer we remember them and the lessons learned at the time, the longer we can avoid repeating the mistakes.</p>
+
+<p>The decisions regarding browsers aren&rsquo;t clear to me, either. It’s possible to reject HTML and serve Gopher or Gemini like I do, but without modern browsers we also drop online applications. Gopher and Gemini have reduced accessibility except for basic text reading, so I feel torn: which part of the browser should we drop? They dropped RSS feeds! Oh no!! They kept VRML? Oh no!! It’s confusing and apparently not as easy to decide what to keep and what to drop because our needs are diverse. I appreciate all the browser features but I don’t appreciate the surveillance. I appreciate all the browser features but I don’t appreciate bloater Electron apps. I guess I still have a hard time deciding. Or worse: why not both and now we have Gopher, Gemini and the modern web. Good? Bad? I don’t know.</p>
+
+<p>I still don&rsquo;t know.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-08-doing-nothing>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-08, from: Dave Winer's Scripting News)
+
+Also, I applied the new Baseline theme to my daveverse site, the one I use to test stuff in WordLand, and occasionally write something with a bit of lasting value. As a result it got a new domain, <a href="https://daveverse.org/">daveverse.org</a>. We're going to offer the <i>Baseline</i> theme for others to use after a bit more testing and refining. But it's getting close. It seems like it's the last big thing on the agenda, but something else will probably pop up. Praise Murphy. 
+
+<br> 
+
+<http://scripting.com/2025/05/08.html#a202054>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-08, from: Dave Winer's Scripting News)
+
+<a href="https://daveverse.org/2025/05/08/changes-to-bookmarks/">Changes coming to Bookmarks</a> in next <a href="https://wordland.social/">WordLand</a> release. I cut it back to work exactly like bookmarks in <a href="http://drummer.land/">Drummer</a>. I have to do a bit more work before it's ready to release, probably tomorrow. 
+
+<br> 
+
+<http://scripting.com/2025/05/08.html#a201858>
+
+---
+
+##  Ye Olde Funny Headlines 
+
+date: 2025-05-08, updated: 2025-05-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/ye-olde-funny-headlines>
+
+---
+
+## May 7, 2025
+
+date: 2025-05-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163160203/87fa5542f96ce6ec9df71f4c4e2f666a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163160203/87fa5542f96ce6ec9df71f4c4e2f666a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-7-2025-517>
+
+---
+
+## David Cope: Composer, computer scientist, and pioneer of computer generated music
+
+date: 2025-05-08, from: Melanie Mitchell, AI Guide for Human Thinking
+
+Today I learned that the composer David Cope died on May 4, at the age of 83. 
+
+<br> 
+
+<https://aiguide.substack.com/p/david-cope-composer-computer-scientist>
 
 ---
 
@@ -359,41 +654,6 @@ The White House&#8217;s avowed concern about the nation&#8217;s declining birth 
 <br> 
 
 <https://robertreich.substack.com/p/the-terrible-truth-about-the-fertilization>
-
----
-
-## 2025-05-08 Not doing the thing
-
-date: 2025-05-08, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-08-not-doing-the-thing">2025-05-08 Not doing the thing</h1>
-
-<p>I was reading stuff on fedi, as one does, wrote a reply, deleted it, moved on, read some more, wrote a reply, deleted it. In both cases I wanted say that the thing people were talking about seemed to me to be that pattern in capitalism where &ldquo;not doing a thing&rdquo; gives you less power over time, so people always end up doing something.</p>
-
-<p>Like &ldquo;buy this to save money&rdquo; instead of &ldquo;don&rsquo;t buy this to save money&rdquo; or &ldquo;buy this keyboard to fight the pain in your wrists&rdquo; instead of &ldquo;work less to fight the pain in your wrists&rdquo;.</p>
-
-<p>If you advocate for not doing a thing, there&rsquo;s no money changing hands and therefore no ads to buy, no voice to gain, no political decisions going your way. Which is a slightly different explanation than greed and greenwashing for the failure of degrowth to take hold: If you sell flights and buy carbon offsets you&rsquo;ll always be growing unlike the competition that sells less flights to lower emissions. Even if the employees of the second company are feeling no need to grow, in the general population, their message will tend to get lost, their percentage of the market, even if enough for them, will continue to shrink, and eventually people will not have heard about them.</p>
-
-<p>I don&rsquo;t know how to change that except by laws against doing all the things I think we need to stop doing. Because the entire market, the public speech, the commercial activity, it is all dominated by people who do the thing. Sure, it&rsquo;s greed, in a way, but it&rsquo;s also a ratchet, unstoppable, step by step, a selection process that is ongoing.</p>
-
-<p>Do right and stop doing the thing and you leave that public sphere. Like Voltaire says, tend to your own garden. You&rsquo;ll be happy but the political storms raging around you will seem more and more alien. Because the people that didn&rsquo;t drop out will no longer hear you or see you. The next generation will not learn from you.</p>
-
-<p>So one needs to stay in politics? Fight for the thing even though all the money goes to towards doing the things that we shouldn&rsquo;t be doing?</p>
-
-<p>I don&rsquo;t know what to do.</p>
-
-<p>The entire thing reminds me of <a href="2022-02-14_How_to_Do_Nothing">How to Do Nothing</a>.</p>
-
-<p><a class="account" href="https://toot.cat/@dredmorbius" title="@dredmorbius@toot.cat">@dredmorbius</a> answered with &ldquo;Don&rsquo;t just do something, stand there!&rdquo; What a great reversal of &ldquo;Don&rsquo;t just stand there, do something!&rdquo; (<a href="https://quoteinvestigator.com/2014/03/22/stand-there/">Quote Investigator</a>).</p>
-
-<p><a class="account" href="https://c.im/@smlckz" title="@smlckz@c.im">@smlckz</a> reminded me of <a href="https://en.m.wikipedia.org/wiki/Tang_ping">tang ping</a>, Chinese for &ldquo;lying flat&rdquo; (instead of working hard). In a world of efficiency and productivity, lying flat is resistance.
-Or is checking out a way to avoid responsibility? Or the admission of powerlessness? I feel it all.</p>
-
-<p><a class="account" href="https://photog.social/@ewen" title="@ewen@photog.social">@ewen</a> noted a similar problem in medicine where &ldquo;the three biggest factors in long term health are getting more sleep, drinking more water and getting a little exercise.&rdquo; Which can&rsquo;t be monetised, of course. So somebody else must be talking about this. This reminds me of the reversal at the Chinese imperial court I heard of at one point. No idea if it is true, but the idea seems interesting: there&rsquo;s a physician and they get paid if the patients is healthy. We could get there in part with healthcare paid 100% by taxes, maybe? After all, the state usually pays for campaigns of public health, for the ads, the education, the measures, all of it.</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-08-doing-nothing>
 
 ---
 
@@ -786,7 +1046,7 @@ date: 2025-05-07, from: Dave Rupert blog
 
 ## Amazon, Finally, Now Has a ‘Get Book’ Button in Its iOS Kindle App
 
-date: 2025-05-07, updated: 2025-05-07, from: Daring Fireball
+date: 2025-05-07, updated: 2025-05-08, from: Daring Fireball
 
  
 

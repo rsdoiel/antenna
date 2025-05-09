@@ -1,11 +1,311 @@
 ---
 title: snapshots
-updated: 2025-05-08 12:42:12
+updated: 2025-05-09 08:46:11
 ---
 
 # snapshots
 
-(date: 2025-05-08 12:42:12)
+(date: 2025-05-09 08:46:11)
+
+---
+
+## Brain Drain
+
+date: 2025-05-09, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>The Manhattan Project, the top-secret U.S. government initiative to build an atomic bomb before Nazi Germany did, relied on hundreds of brilliant scientists from leading universities. Many of them had fled fascist regimes in Europe and found refuge on American campuses, including Berkeley, Columbia, MIT, Princeton, Purdue, and the University of Minnesota. In the end, [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/brain-drain/">Brain Drain</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/brain-drain/>
+
+---
+
+## Man ‘Disappeared’ by ICE Was on El Salvador Flight Manifest, Hacked Data Shows
+
+date: 2025-05-09, from: 404 Media Group
+
+Ricardo Prada Vásquez was not on a government list of people sent to a mega prison in El Salvador. But hacked data shows he was booked on a flight to the country. 
+
+<br> 
+
+<https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/>
+
+---
+
+## An AI Reincarnation of a Murder Victim Speaks
+
+date: 2025-05-09, updated: 2025-05-09, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/09/an-ai-reincarnation-of-a-murder-victim/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-09, from: Dave Winer's linkblog)
+
+Who are the Jews in Trump’s inner circle? 
+
+<br> 
+
+<https://www.jpost.com/american-politics/article-829720>
+
+---
+
+## Well, Well, Well: Meta to Add Facial Recognition To Glasses After All
+
+date: 2025-05-09, from: 404 Media Group
+
+Meta previously lost its shit at 404 Media when we reported that someone had paired facial recognition tech with the company's smart glasses. Now Meta is building the invasive technology itself. 
+
+<br> 
+
+<https://www.404media.co/well-well-well-meta-to-add-facial-recognition-to-glasses-after-all/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-09, from: Dave Winer's linkblog)
+
+Road rage victim &#39;speaks&#39; via AI at his killer&#39;s sentencing. 
+
+<br> 
+
+<https://www.nbcnews.com/news/us-news/road-rage-victim-speaks-killers-sentencing-rcna205454>
+
+---
+
+## Crypto Is Still for Criming
+
+date: 2025-05-09, from: Paul Krugman
+
+Democrats shouldn&#8217;t give this scam cover, but probably will 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/crypto-is-still-for-criming>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-09, from: Dave Winer's linkblog)
+
+Former CDC staff warn of &#39;a five-alarm fire.&#39; 
+
+<br> 
+
+<https://www.npr.org/sections/shots-health-news/2025/05/08/nx-s1-5391534/former-cdc-staff-warn-of-a-five-alarm-fire>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-09, from: Feed for Alt USDS)
+
+Happy Friday? I get Thursday Scaries now waiting for whatever fresh hell the regime has in store this week. 
+
+To counter, we're here ready to share our hot takes. If you want fun @altstategov.altgov.info is hosting a marathon #AMA on this #federalFuckeryFriday
+https://media.tenor.com/LIYCMUYcToAAAAAC/snsd-soshi.gif?hh=295&ww=498 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3loqctulyis22>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-09, from: Dave Winer's linkblog)
+
+Stephen Miller&#39;s War on Cancer Cures. 
+
+<br> 
+
+<https://www.emptywheel.net/2025/05/09/stephen-millers-war-on-cancer-cures/>
+
+---
+
+## Raspberry Pi Connect is out of beta: simple remote access, now even better
+
+date: 2025-05-09, from: Raspberry Pi News (.com)
+
+<p>Raspberry Pi Connect is out of beta, and our remote access solution has some data-efficient upgrades. Here's how to update.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-connect-is-out-of-beta-simple-remote-access-now-even-better/">Raspberry Pi Connect is out of beta: simple remote access, now even better</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/raspberry-pi-connect-is-out-of-beta-simple-remote-access-now-even-better/>
+
+---
+
+## sqlite-utils 4.0a0
+
+date: 2025-05-09, updated: 2025-05-09, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/sqlite-utils/releases/tag/4.0a0">sqlite-utils 4.0a0</a></strong></p>
+New alpha release of <a href="https://sqlite-utils.datasette.io/">sqlite-utils</a>, my Python library and CLI tool for manipulating SQLite databases.</p>
+<p>It's the first 4.0 alpha because there's a (minor) backwards-incompatible change: I've upgraded the <code>.upsert()</code> and <code>.upsert_all()</code> methods to use SQLIte's <a href="https://www.sqlite.org/lang_upsert.html">UPSERT</a> mechanism, <code>INSERT INTO ... ON CONFLICT DO UPDATE</code>. Details in <a href="https://github.com/simonw/sqlite-utils/issues/652">this issue</a>.</p>
+<p>That feature was added to SQLite in version 3.24.0, released 2018-06-04. I'm pretty cautious about my SQLite version support since the underlying library can be difficult to upgrade, depending on your platform and operating system.</p>
+<p>I'm going to leave the new alpha to bake for a little while before pushing a stable release. Since this is a major version bump I'm going to take the opportunity to see if there are any other minor API warts that I can clean up at the same time.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/sqlite-utils">sqlite-utils</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/9/sqlite-utils-40a0/#atom-everything>
+
+---
+
+## Gemini 2.5 Models now support implicit caching
+
+date: 2025-05-09, updated: 2025-05-09, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/gemini-2-5-models-now-support-implicit-caching/">Gemini 2.5 Models now support implicit caching</a></strong></p>
+I just spotted a <code>cacheTokensDetails</code> key in the token usage JSON while running a <a href="https://gist.github.com/simonw/1383565aac316d68cc29f289e33b2e51">long chain of prompts</a> against Gemini 2.5 Flash - despite not configuring caching myself:</p>
+<p><code>{"cachedContentTokenCount": 200658, "promptTokensDetails": [{"modality": "TEXT", "tokenCount": 204082}], "cacheTokensDetails": [{"modality": "TEXT", "tokenCount": 200658}], "thoughtsTokenCount": 2326}</code></p>
+<p>I went searching and it turns out Gemini had a massive upgrade to their prompt caching earlier today:</p>
+<blockquote>
+<p>Implicit caching directly passes cache cost savings to developers without the need to create an explicit cache. Now, when you send a request to one of the Gemini 2.5 models, if the request shares a common prefix as one of previous requests, then it’s eligible for a cache hit. We will dynamically pass cost savings back to you, providing the same 75% token discount. [...]</p>
+<p>To make more requests eligible for cache hits, we reduced the minimum request size for 2.5 Flash to 1024 tokens and 2.5 Pro to 2048 tokens.</p>
+</blockquote>
+<p>Previously you needed to both explicitly configure the cache <em>and</em> pay a per-hour charge to keep that cache warm.</p>
+<p>This new mechanism is so much more convenient! It imitates how both <a href="https://simonwillison.net/2024/Aug/14/deepseek-context-caching/">DeepSeek</a> and <a href="https://simonwillison.net/2024/Oct/2/not-digital-god/#prompt-caching-aka-the-big-price-drop">OpenAI</a> implement prompt caching, leaving Anthropic as the remaining large provider who require you to <a href="https://simonwillison.net/2024/Aug/14/prompt-caching-with-claude/">manually configure prompt caching</a> to get it to work.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-caching">prompt-caching</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/9/gemini-implicit-caching/#atom-everything>
+
+---
+
+## Madrid, Spain
+
+date: 2025-05-09, from: mrusme blog
+
+"The Community of Madrid is one of the seventeen autonomous communities of
+Spain. It is located in the centre of the Iberian Peninsula, and of the
+Central Plateau (Meseta Central). Its capital and largest municipality is the
+City of Madrid, which is also the capital of the country." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/spain/madrid-2025/>
+
+---
+
+## “I’d rather read the prompt”
+
+date: 2025-05-09, from: Chris Coyier blog
+
+Clayton Ramsey grades student assignments and gets papers that are just obviously ChatGPT output. I think any of us can spot it by now: awkward repetitive prose, heavy on bullet points with bold intro words, wordy, etc. There is nothing to be done about it. As an instructor, I am always saddened to read this. [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/05/08/id-rather-read-the-prompt/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-08, from: Feed for Alt USDS)
+
+Does this look fishy to you? It sure does to us
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lop47eh4g22l>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-08, from: Dave Winer's linkblog)
+
+Bill Gates Accuses Elon Musk of ‘Killing Children’ by Cutting Foreign Aid. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/08/us/bill-gates-elon-musk-killing-children.html?unlocked_article_code=1.Fk8.z5Hj.CYdAYadiwRhJ&smid=url-share>
+
+---
+
+## SQLite CREATE TABLE: The DEFAULT clause
+
+date: 2025-05-08, updated: 2025-05-08, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.sqlite.org/lang_createtable.html#the_default_clause">SQLite CREATE TABLE: The DEFAULT clause</a></strong></p>
+If your SQLite create table statement includes a line like this:</p>
+<pre><code>CREATE TABLE alerts (
+    -- ...
+    alert_created_at text default current_timestamp
+)
+</code></pre>
+<p><code>current_timestamp</code> will be replaced with a UTC timestamp in the format <code>2025-05-08 22:19:33</code>. You can also use <code>current_time</code> for <code>HH:MM:SS</code> and <code>current_date</code> for <code>YYYY-MM-DD</code>, again using UTC.</p>
+<p>Posting this here because I hadn't previously noticed that this defaults to UTC, which is a useful detail. It's also a strong vote in favor of <code>YYYY-MM-DD HH:MM:SS</code> as a string format for use with SQLite, which <a href="https://www.sqlite.org/lang_datefunc.html">doesn't otherwise provide</a> a formal datetime type.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sql">sql</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/datetime">datetime</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/8/sqlite-create-table-default-timestamp/#atom-everything>
+
+---
+
+## Quoting Claude's system prompt
+
+date: 2025-05-08, updated: 2025-05-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.dbreunig.com/2025/05/07/claude-s-system-prompt-chatbots-are-more-than-just-models.html"><p><code>If Claude is asked to count words, letters, and characters, it thinks step by step before answering the person. It explicitly counts the words, letters, or characters by assigning a number to each. It only answers the person once it has performed this explicit counting step. [...]</code></p>
+<p><code>If Claude is shown a classic puzzle, before proceeding, it quotes every constraint or premise from the person’s message word for word before inside quotation marks to confirm it’s not dealing with a new variant. [...]</code></p>
+<p><code>If asked to write poetry, Claude avoids using hackneyed imagery or metaphors or predictable rhyming schemes.</code></p></blockquote>
+<p class="cite">&mdash; <a href="https://www.dbreunig.com/2025/05/07/claude-s-system-prompt-chatbots-are-more-than-just-models.html">Claude&#x27;s system prompt</a>, via Drew Breunig</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/drew-breunig">drew-breunig</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/8/claudes-system-prompt/#atom-everything>
+
+---
+
+## Reservoir Sampling
+
+date: 2025-05-08, updated: 2025-05-08, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://samwho.dev/reservoir-sampling/">Reservoir Sampling</a></strong></p>
+Yet another outstanding interactive essay by Sam Rose (<a href="https://simonwillison.net/tags/sam-rose/">previously</a>), this time explaining how reservoir sampling can be used to select a "fair" random sample when you don't know how many options there are and don't want to accumulate them before making a selection.</p>
+<blockquote>
+<p>Reservoir sampling is one of my favourite algorithms, and I've been wanting to write about it for years now. It allows you to solve a problem that at first seems impossible, in a way that is both elegant and efficient.</p>
+</blockquote>
+<p>I appreciate that Sam starts the article with "No math notation, I promise." Lots of delightful widgets to interact with here, all of which help build an intuitive understanding of the underlying algorithm.</p>
+<p><img alt="Animated demo. As a slider moves from left to right the probability of cards drawn from a deck is simulated. Text at the bottom reads Anything older than 15 cards ago is has a less than 0.01% chance of being held when I stop." src="https://static.simonwillison.net/static/2025/sam-rose-cards.gif" /></p>
+<p>Sam shows how this algorithm can be applied to the real-world problem of sampling log files when incoming logs threaten to overwhelm a log aggregator.</p>
+<p>The dog illustration is <a href="https://samwho.dev/dogs/">commissioned art</a> and the MIT-licensed code is <a href="https://github.com/samwho/visualisations/tree/main/reservoir-sampling">available on GitHub</a>.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43928315">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/explorables">explorables</a>, <a href="https://simonwillison.net/tags/sam-rose">sam-rose</a>, <a href="https://simonwillison.net/tags/algorithms">algorithms</a>, <a href="https://simonwillison.net/tags/rate-limiting">rate-limiting</a>, <a href="https://simonwillison.net/tags/logging">logging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/8/reservoir-sampling/#atom-everything>
+
+---
+
+## Zettlab AI NAS stores, transcribes, and makes all your data searchable (crowdfunding)
+
+date: 2025-05-08, from: Liliputing
+
+<p>A startup called Zettlab is running a Kickstarter crowdfunding campaign for a new line of network-attached storage devices that not only store your data and make it available across all your gadgets, but can also leverage on-device AI capabilities to classify your data and make it searchable using natural language. The Zettlab AI NAS systems feature support [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zettlab-ai-nas-stores-transcribes-and-makes-all-your-data-searchable-crowdfunding/">Zettlab AI NAS stores, transcribes, and makes all your data searchable (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zettlab-ai-nas-stores-transcribes-and-makes-all-your-data-searchable-crowdfunding/>
 
 ---
 
@@ -393,7 +693,7 @@ Anthropic's <a href="https://simonwillison.net/2025/Mar/20/claude-can-now-search
     <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43920188">Hacker News</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/search">search</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/search">search</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p> 
 
 <br> 
 
@@ -1234,6 +1534,15 @@ Okay, the user said "hi". That's a greeting. I should respond in a friendly and 
 <p>They are an absolute benefit for debugging: I've seen reasoning models walk through quite large codebases following multiple levels of indirection in order to find potential root causes of the problem I've described.</p>
 <p>Other than that though... they're apparently good for mathematical puzzles - the phi4-reasoning models seem to <em>really</em> want to dig into a math problem and output LaTeX embedded in Markdown as the answer. I'm not enough of a mathematician to put them through their paces here.</p>
 <p>All of that in mind, these reasoners that run on my laptop are fun to torment with inappropriate challenges that sit far beneath their lofty ambitions, but aside from that I don't really have a great answer to when I would use them.</p>
+
+<p><strong>Update 8th May 2025</strong>:
+    I said "hi" to NVIDIA's new 
+    <a href="https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B" target="_blank">OpenCodeReasoning-Nemotron-32B</a> 
+    model (run using Ollama and 
+    <a href="https://huggingface.co/lmstudio-community/OpenCodeReasoning-Nemotron-32B-GGUF" target="_blank">this GGUF file</a>) 
+    and got 
+    <a href="https://gist.github.com/simonw/67bb10723f8b09a82560ee53c9c9f5e8" target="_blank">a similar result</a>.
+</p>
     
         <p>Tags: <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/phi">phi</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
 

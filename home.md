@@ -1,11 +1,135 @@
 ---
 title: home
-updated: 2025-05-08 12:42:08
+updated: 2025-05-09 08:46:07
 ---
 
 # home
 
-(date: 2025-05-08 12:42:08)
+(date: 2025-05-09 08:46:07)
+
+---
+
+## How to Grow and Care for Chinese Lantern
+
+date: 2025-05-09, from: The Gardener's Path
+
+<p>Chinese lantern is a charming ornamental that will bring a touch of whimsy to your garden. The papery, red-orange husks of this perennial come into their full splendor in autumn, providing bright fall color, and can be used in bouquets or dried arrangements. Keep reading to learn more about growing Chinese lantern.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-chinese-lantern/">How to Grow and Care for Chinese Lantern</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-chinese-lantern/>
+
+---
+
+## How to Propagate Thyme from Cuttings, Layering, and Divisions
+
+date: 2025-05-09, from: The Gardener's Path
+
+<p>Learn how to propagate thyme effortlessly! Whether you're using cuttings, layering, or divisions, this guide breaks down each method step-by-step for thriving plants. Perfect for gardeners of all levels, discover tips and tricks to expand your herb garden and keep thyme growing fresh year-round. Learn more now!</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/how-to-propagate-thyme/">How to Propagate Thyme from Cuttings, Layering, and Divisions</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/how-to-propagate-thyme/>
+
+---
+
+## The Complete Guide to Dividing Perennials
+
+date: 2025-05-09, from: The Gardener's Path
+
+<p>Perennials provide long-lasting garden beauty. To get the best performance and value from these landscape stalwarts, the simple task of plant division serves many purposes. Learn more about the plant health, garden design, and budget-boosting benefits of dividing perennials – read more now on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/propagation/divide-perennials/">The Complete Guide to Dividing Perennials</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/propagation/divide-perennials/>
+
+---
+
+## 5 Reasons Your Eggplant Blossoms Are Falling Off
+
+date: 2025-05-09, from: The Gardener's Path
+
+<p>Few things are more rewarding than growing your own eggplant. But what if your plants keep dropping flowers? How will they ever produce fruit? In this guide, you’ll learn the most common reasons that blossoms drop or fail to develop in the first place. A healthy crop of aubergines can still be yours! Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/eggplant-blossom-drop/">5 Reasons Your Eggplant Blossoms Are Falling Off</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/eggplant-blossom-drop/>
+
+---
+
+## Here’s What Really Happens During a Home Appraisal
+
+date: 2025-05-08, from: Family Handyman Blog
+
+<p>Real estate appraisers share information about the house appraisal process, how house appraisals work, and what you can do with the final report.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-house-appraisals-work/">Here&#8217;s What Really Happens During a Home Appraisal</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-house-appraisals-work/>
+
+---
+
+## This Home in the Czech Republic Feels Holy (and Is Literally Hole-y)
+
+date: 2025-05-08, from: Dwell
+
+Hundreds of perforations in the facade create a mesmerizing display of light across the all-white interiors. 
+
+<br> 
+
+<https://www.dwell.com/article/the-house-oskar-jan-zaloudek-architekt-6e14a18d>
+
+---
+
+## Why Some Homes Have Washing Machines In Their Kitchens
+
+date: 2025-05-08, from: Family Handyman Blog
+
+<p>Curious why British homes have washing machines in the kitchen? Learn how space, history, and environmental habits across Europe influence this common UK design choice.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/washing-machines-in-kitchens/">Why Some Homes Have Washing Machines In Their Kitchens</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/washing-machines-in-kitchens/>
+
+---
+
+## Master the Miter Saw in Days with These 13 Tips
+
+date: 2025-05-08, from: Family Handyman Blog
+
+<p>The might miter saw is a workshop workhorse that every DIYer should have. These 13 miter saw tips will help you master this incredible power tool. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/miter-saw-tips-diy/">Master the Miter Saw in Days with These 13 Tips</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/miter-saw-tips-diy/>
+
+---
+
+## Is KN a New Car Brand? The Viral Misunderstanding Behind This Car Logo
+
+date: 2025-05-08, from: Family Handyman Blog
+
+<p>Think you spotted a new brand called KN? It’s actually Kia’s redesigned logo.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-is-kn-car/">Is KN a New Car Brand? The Viral Misunderstanding Behind This Car Logo</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-is-kn-car/>
 
 ---
 
@@ -34,6 +158,18 @@ date: 2025-05-08, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/clean-car-habits/>
+
+---
+
+## Your Guide to the Ultimate Palm Springs Bachelorette Party
+
+date: 2025-05-08, from: Sunset Magazine - Living in the West
+
+Palm Springs is an ideal destination for a last hurrah pre-wedding. We've got ideas for the ultimate Palm Springs bachelorette itinerary. 
+
+<br> 
+
+<https://www.sunset.com/travel/palm-springs-bachelorette-itinerary>
 
 ---
 
@@ -164,6 +300,18 @@ date: 2025-05-08, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/grow-sweeter-tomatoes/>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-08, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -706,6 +854,18 @@ date: 2025-05-06, from: Family Handyman Blog
 
 ---
 
+## 5 Essential Packing Tips Every Traveler Needs to Know
+
+date: 2025-05-06, from: Sunset Magazine - Living in the West
+
+Don't pay for overweight bags again. Experts share their best packing tips for travel so you can be prepared for your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/packing-tips-for-travel>
+
+---
+
 ## Ron Thom’s Carmichael House Just Hit the Market Near Vancouver for $2.7M
 
 date: 2025-05-06, from: Dwell
@@ -781,18 +941,6 @@ For Claire and Dom French, a tub in the bedroom was always part of the plan—an
 <br> 
 
 <https://www.dwell.com/article/curtaz-studio-french-and-tye-bathtub-bench-84ba1ad8>
-
----
-
-## Homepage 2025
-
-date: 2025-05-06, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,195 @@
 ---
 title: food
-updated: 2025-05-08 12:42:11
+updated: 2025-05-09 08:46:09
 ---
 
 # food
 
-(date: 2025-05-08 12:42:11)
+(date: 2025-05-09 08:46:09)
+
+---
+
+## Best Pasta Makers for Restaurant-Worthy Noodles at Home (2025)
+
+date: 2025-05-09, from: Bon Appetet
+
+Elevated spaghetti and meatballs coming right up. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-pasta-makers>
+
+---
+
+## Giesen Coffee Roasters is Now Giesen Roasting Solutions
+
+date: 2025-05-09, from: Daily Coffee News
+
+<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-620x387.jpg" class="attachment-large size-large wp-post-image" alt="Giesen Roasting Solutions 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-768x479.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch coffee roasting equipment maker Giesen just introduced a comprehensive rebranding, led by a name change from Giesen Coffee Roasters to Giesen Roasting Solutions.&#160; The Ulft, Netherlands-based company said the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/09/giesen-coffee-roasters-is-now-giesen-roasting-solutions/>
+
+---
+
+## I Tried a Pizza-Style Version of the Viral Onion Ring Chips, and It’s So Dang Tasty
+
+date: 2025-05-09, from: Taste of Home
+
+<p>Pepperoni makes everything more delicious, especially when it's baked into an onion ring pizza.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/onion-ring-pizza/">I Tried a Pizza-Style Version of the Viral Onion Ring Chips, and It&#8217;s So Dang Tasty</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/onion-ring-pizza/>
+
+---
+
+## Weekly Coffee News: Immigration Agents in Hawaii + New Green Coffee Loans
+
+date: 2025-05-09, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Coffee-Hawaii-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Coffee Hawaii" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Coffee-Hawaii-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Coffee-Hawaii-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Coffee-Hawaii-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Coffee-Hawaii-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Coffee-Hawaii.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Report: US Immigration Crackdown Hits Coffee Workers and Families... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/09/weekly-coffee-news-immigration-agents-in-hawaii-new-green-coffee-loans/>
+
+---
+
+## How World Barista Champ Pete Licata Is Transforming Our Understanding of Caffeine
+
+date: 2025-05-09, from: The Fresh Cup
+
+<p>Decaf or regular? For decades, coffee with or without caffeine was a binary question. But today’s coffee professionals—including 2013 World Barista Champ Pete Licata—are looking to provide a wider spectrum of caffeine options. </p>
+<p>The post <a href="https://freshcup.com/how-world-barista-champ-pete-licata-is-transforming-our-understanding-of-caffeine/">How World Barista Champ Pete Licata Is Transforming Our Understanding of Caffeine</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-world-barista-champ-pete-licata-is-transforming-our-understanding-of-caffeine/>
+
+---
+
+## The Best Banana Bread and More Recipes We Made This Week
+
+date: 2025-05-09, from: Bon Appetet
+
+Like a garlic scape stir-fry and crunchy cabbage salad. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-may-2025>
+
+---
+
+## Molly Baz Wants to Make Sure Your Next Sourdough Loaf Isn’t ‘Flat as a Pancake’
+
+date: 2025-05-09, from: Taste of Home
+
+<p>Expert tips from an expert chef.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/molly-baz-sourdough-bread/">Molly Baz Wants to Make Sure Your Next Sourdough Loaf Isn&#8217;t &#8216;Flat as a Pancake&#8217;</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/molly-baz-sourdough-bread/>
+
+---
+
+## Quinta Brunson’s Go-To Comfort Food Costs Less Than $2
+
+date: 2025-05-09, from: Taste of Home
+
+<p>A relatable queen!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/quinta-brunson-comfort-food/">Quinta Brunson’s Go-To Comfort Food Costs Less Than $2</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/quinta-brunson-comfort-food/>
+
+---
+
+## Tom Yum Soup Recipe (Thai Hot and Sour Soup)
+
+date: 2025-05-09, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/tom-yum-soup/" title="Tom Yum Soup Recipe (Thai Hot and Sour Soup)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large bowl of spicy Tom Yum Soup loaded up with shrimp and mushrooms, garnished with spicy red chilies, cilantro, and lime" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Tom-Yum-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Tom Yum Soup is a popular hot and sour soup from Thailand that is loaded with herbs and spices and lots of shrimp simmered in a flavorful broth. Make it at home with this recipe. So easy to make!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/tom-yum-soup/">Tom Yum Soup Recipe (Thai Hot and Sour Soup)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/tom-yum-soup/>
+
+---
+
+## 4 Best Meat Thermometers (2025): Accurate & Lightning Fast
+
+date: 2025-05-08, from: Bon Appetet
+
+Once you have a great meat thermometer, you won’t be able to remember how you lived without it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-meat-thermometers>
+
+---
+
+## The One Dish Scarlett Johansson Orders at Every Single Restaurant
+
+date: 2025-05-08, from: Taste of Home
+
+<p>ScarJo relies on this go-to order to size up new restaurants.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/scarlett-johansson-chicken-wings/">The One Dish Scarlett Johansson Orders at Every Single Restaurant</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/scarlett-johansson-chicken-wings/>
+
+---
+
+## 99-Year-Old Sir David Attenborough No Longer Eats This One Thing
+
+date: 2025-05-08, from: Taste of Home
+
+<p>The legendary biologist made a major change to his diet.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-does-sir-david-attenborough-eat/">99-Year-Old Sir David Attenborough No Longer Eats This One Thing</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-does-sir-david-attenborough-eat/>
+
+---
+
+## These Are the Best Kinds of Tinned Fish to Fill Your Pantry With
+
+date: 2025-05-08, from: Taste of Home
+
+<p>From humble tuna sandwiches to more elaborate seafood pastas, there are so many ways to enjoy trendy tinned fish.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/tinned-fish/">These Are the Best Kinds of Tinned Fish to Fill Your Pantry With</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/tinned-fish/>
+
+---
+
+## Easy, Fluffy Pancakes
+
+date: 2025-05-08, from: Bon Appetet
+
+Our best pancakes are easy to make on a moment’s notice with ingredients you have on hand. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/easy-fluffy-pancakes>
 
 ---
 
@@ -49,7 +233,7 @@ Fun to say and tasty to eat, feta bruschetta is an easy, flavor-packed appetizer
 
 date: 2025-05-08, from: Daily Coffee News
 
-<div><img width="620" height="446" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg" class="attachment-large size-large wp-post-image" alt="ikawa-pro50x-1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-300x216.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-768x552.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Among numerous small roasters drawing long lines at last month&#8217;s SCA Expo in Houston was the Ikawa Pro50X, a small-scale, feature-rich sample roaster. The latest in the UK company&#8217;s Pro... 
+<div><img width="620" height="446" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg" class="attachment-large size-large wp-post-image" alt="ikawa-pro50x-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-300x216.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-768x552.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Among numerous small roasters drawing long lines at last month&#8217;s SCA Expo in Houston was the Ikawa Pro50X, a small-scale, feature-rich sample roaster. The latest in the UK company&#8217;s Pro... 
 
 <br> 
 
@@ -215,7 +399,7 @@ date: 2025-05-07, from: The Sprudge
 
 date: 2025-05-07, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1536x1025.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants.jpg 1814w" sizes="(max-width: 620px) 100vw, 620px" /></div>Global nonprofit Fairtrade International is now offering &#8220;LIRP on Demand,&#8221; a tailored service designed to help coffee companies identify living income reference prices (LIRPs) for farmers in their supply chains.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1536x1025.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants.jpg 1814w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Global nonprofit Fairtrade International is now offering &#8220;LIRP on Demand,&#8221; a tailored service designed to help coffee companies identify living income reference prices (LIRPs) for farmers in their supply chains.... 
 
 <br> 
 
@@ -227,7 +411,7 @@ date: 2025-05-07, from: Daily Coffee News
 
 date: 2025-05-07, from: Daily Coffee News
 
-<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-620x439.jpg" class="attachment-large size-large wp-post-image" alt="Brazil Coffee Production" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Note:&#160;This is Part 3 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence on... 
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-620x439.jpg" class="attachment-large size-large wp-post-image" alt="Brazil Coffee Production" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Brazil-Coffee-Production-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>[Note:&#160;This is Part 3 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence on... 
 
 <br> 
 
@@ -289,7 +473,7 @@ date: 2025-05-07, from: The Fresh Cup
 
 date: 2025-05-07, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/bajan-hot-sauce/" title="Bajan Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bottle of spicy, vibrant yellow Bajan Hot Sauce on a table with a bowl of hot sauce beside it" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bring the bold, fiery flavors of Barbados to your table with this easy Bajan hot sauce, a must for spicy food lovers.</p>
+<a href="https://www.chilipeppermadness.com/recipes/bajan-hot-sauce/" title="Bajan Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bottle of spicy, vibrant yellow Bajan Hot Sauce on a table with a bowl of hot sauce beside it" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Bajan-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Bring the bold, fiery flavors of Barbados to your table with this easy Bajan hot sauce, a must for spicy food lovers.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/bajan-hot-sauce/">Bajan Hot Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -310,6 +494,22 @@ date: 2025-05-07, from: Chili Pepper Madness
 <br> 
 
 <https://www.chilipeppermadness.com/recipes/sweet-and-sour-pork/>
+
+---
+
+## Mother’s Day Recipes
+
+date: 2025-05-07, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/05/Mothers-Day-Recipes.jpg"/></div>
+<p>A collection of quick and easy recipes for the perfect Mother&#8217;s Day celebration! Mother&#8217;s Day is coming and a great way to show her how much you care is with some home cooking! Start the day off right for mom with breakfast in bed or a special brunch and then keep things going with some...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/21-mothers-day-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/21-mothers-day-recipes/">Mother&#8217;s Day Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/21-mothers-day-recipes/>
 
 ---
 

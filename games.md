@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-05-08 12:42:06
+updated: 2025-05-09 08:46:05
 ---
 
 # games
 
-(date: 2025-05-08 12:42:06)
+(date: 2025-05-09 08:46:05)
+
+---
+
+## The Yellow Ranger gets her due in a new Power Rangers book steeped in Chinese mythology
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+In April, Power Rangers was back in the news for all the wrong reasons. Appearing in a new documentary focused on the sentai series, former head writer Tony Oliver admitted that maybe it wasn’t so great that they had made their only Black actor the Black Ranger and their only Asian character the Yellow Ranger. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/598298/yellow-power-rangers-book-force-of-chaos>
+
+---
+
+## Tony Hawk pulls off new trick: getting Bam back in Pro Skater 3 and 4
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+The upcoming remaster of Tony Hawk’s Pro Skater 3 and 4 will welcome skater Bam Margera back into the fold, Activision announced Thursday. Margera appeared as a skater in the original versions of Tony Hawk’s Pro Skater 3 and 4, but was not previously confirmed to appear in the remasters. The skater and longtime pal of Tony Hawk [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598275/tony-hawk-pro-skate-3-4-remaster-bam-margera>
+
+---
+
+## The melee-heavy Doom: The Dark Ages is extremely my thing — but it might not be yours
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Doom: The Dark Ages is going to be a love-it-or-hate-it entry in the shooter series. I’ve only been playing the game for a few hours so far, but I already love it. That said, it’s very different from Doom Eternal — and unless you can adjust to a game that feels very different to play, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/598214/doom-the-dark-ages-early-review-impressions>
+
+---
+
+## Overwatch 2’s Street Fighter collab is going to sell a lot of Juri-Kiriko skins
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Eight World Warriors from Street Fighter 6 are coming to Overwatch 2 in May, Blizzard Entertainment announced Friday (as Evo Japan 2025 kicks off in Tokyo). And like past Overwatch 2 collabs, the choices are inspired: Zenyatta will cosplay as Dhalsim, and Sigma will cosplay as M. Bison as part of the Street Fighter crossover. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598251/overwatch-2-street-fighter-6-collab-skins>
+
+---
+
+## Netflix is reportedly removing Black Mirror: Bandersnatch next week
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Just a few weeks after releasing “Plaything,” a sequel to Black Mirror: Bandersnatch, Netflix will remove the award-winning interactive special from the platform. Bandersnatch and Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend will both be delisted from the Netflix platform on Monday, May 12, according to a report on What’s on Netflix, which concludes a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598247/netflix-removing-black-mirror-bandersnatch>
+
+---
+
+## Marvel’s X-Men movie may have found its director*
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+While Marvel Studios doesn’t officially have an X-Men movie on its slate yet, it’s definitely happening at some point. Probably very soon. And Thunderbolts* director Jake Schreier may be the one to helm it, both The Hollywood Reporter and Deadline reported. Schreier is said to be in early talks to bring the X-Men into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598198/mcu-xmen-movie-director-marvel-studios>
+
+---
+
+## The voice of Gengar is our new Superman
+
+date: 2025-05-08, updated: 2025-05-09, from: Polygon Website
+
+It’s a bird… it’s a plane… no, it’s a feisty Ghost-Poison Pokémon with a giant tongue! On Thursday, DC Comics announced a brand new adaptation of the beloved comic All-Star Superman, but with a twist: It’s a fully cast audiobook retelling, led by prolific voiceover artist Marc Thompson as the Man of Steel. Thompson has [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598205/all-star-superman-audio-podcast-drama-release-date>
+
+---
+
+## Quake, GoldenEye, and Tamagotchi inducted into World Video Game Hall of Fame
+
+date: 2025-05-08, updated: 2025-05-08, from: Polygon Website
+
+Four more video games have been inducted into the World Video Game Hall of Fame, the Strong National Museum of Play&#160;announced Thursday: Williams Electronics’ Defender, Rare’s GoldenEye 007, id Software’s Quake, and Bandai’s Tamagotchi. The quartet of classic games emerged from a list of 2025 World Video Game Hall of Fame nominees that also included [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598175/video-game-hall-of-fame-2025-inductees-new>
 
 ---
 

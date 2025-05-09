@@ -1,11 +1,67 @@
 ---
 title: writing
-updated: 2025-05-08 12:42:06
+updated: 2025-05-09 08:46:05
 ---
 
 # writing
 
-(date: 2025-05-08 12:42:06)
+(date: 2025-05-09 08:46:05)
+
+---
+
+## Write On: 'Shadow Force' Director/Co-Writer Joe Carnahan and Co-Writer Leon Chills
+
+date: 2025-05-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-shadow-force-director-and-co-writers" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Shadow%20Force%20Director%20and%20Co-writer%20Joe%20Carnahan%20and%20Co-writer%20Leon%20Chills%20%281%29.png" alt="Write On logo featuring a cell phone with headphones wrapped around it. In the center is the poster for Shadow Force" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“For me, I don’t know how you could not make [a script] personal. I think drama allows you to hide how personal it is. I think that’s kind of what I like about writing in the genre space. On the outside looking in, it just looks like a big action movie. It doesn’t look like a personal story. But there are personal elements like my mom was a working mom as well. And so that’s why you have Kyra in the movie who has to come back to her son because she’s been working to protect him. That’s a very personal thing… but you would never assume that it’s a personal story because it’s wrapped up in the action,” says Leon Chills, co-writer of the new film <em>Shadow Force</em>, about writing action from a very personal point of view.&nbsp;<br><br>On today’s episode, we talk with director/co-writer Joe Carnahan and co-writer Leon Chills about the new action flick <em>Shadow Force</em> that puts a family at the center of the action. With a bounty on their heads, Kyra (Kerry Washington) and Isaac (Omar Sy) must go on the run with their young son (Jahleel Kamara) to avoid their former employer, a unit of shadow ops that has been sent to kill them.<br><br>Carnahan and Chills talk about the challenges of writing action set pieces and the power of giving the story emotional weight. We also discuss trying to push the boundaries of the action genre to invent set pieces that are fresh and inventive, and writing action scenes on the page that are compact and concise.&nbsp;<br><br>“As an older writer and doing it as long as I have, I’ll tell screenwriters, if I see four or five lines of scene description, I’m telling you, do it in two. Do it in one. Let people spend 40 minutes reading your script. No more. You know what I mean? Get through it with that kind of economy. If you’ve ever read M. Night Shyamalan’s <em>Sixth Sense</em> script – it’s an absolute masterclass in how to do that. Just so sparse and beautiful and pitch perfect the way that things are written,” says Carnahan.&nbsp;<br><br>To learn more about action writing and hear more advice, listen to the podcast.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-shadow-force-director-and-co-writers>
+
+---
+
+## Lessons in Breaking Convention from the Writer of ‘Friendship’
+
+date: 2025-05-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/lessons-in-breaking-convention-from-the-writer-of-friendship" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Paul%20Rudd%20and%20Tim%20Robinson%20standing%20in%20a%20winter%20meadow.%20Tim%20Robinson%20holds%20a%20giant%20soft%20drink%20and%20stares%20at%20the%20large%20mushroom%20Paul%20Rudd%20is%20holding%20in%20Friendship%20%281%29.png" alt="Paul Rudd and Tim Robinson standing in a winter meadow. Tim Robinson holds a giant soft drink and stares at the large mushroom Paul Rudd is holding in Friendship" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>Friendship</em> writer/director <a href="https://www.imdb.com/name/nm2440581/?ref_=tt_ov_dr_1">Andrew DeYoung</a> has built one of the most impressive comedy resumes in today’s film and TV world.&nbsp;<br><br>The Emmy-nominated creator recently had his feature debut with <span style="font-style: italic;">Friendship</span> at the 2024 Toronto International Film Festival, followed by successful screenings at this year’s <a href="https://blog.finaldraft.com/lessons-for-screenwriters-from-sxsw">SXSW</a>. His previous directing credits include cult favorites like <span style="font-style: italic;">Pen15, Our Flag Means Death, Shrill</span>, and <span style="font-style: italic;">The Other Two</span>.<br><br>DeYoung’s path began at Cal State Northridge’s screenwriting program, before he found himself amid the expanding alternative comedy scene of the mid-2000s.&nbsp;<br><br>Between overnight editing shifts, he created music videos and short films that gained attention online, with six becoming eventual Vimeo Staff Picks. His digital series 555, co-created with Kate Berlant and John Early, earned a Gotham Award nomination, establishing him as a filmmaker who could flit between traditional and experimental approaches to story.<br><br>In <span style="font-style: italic;">Friendship</span>, <a href="https://www.imdb.com/name/nm4200503/?ref_=tt_cst_t_1">Tim Robinson</a> plays Craig, a desperately lonely guy whose life is turned upside down when he meets Austin (<a href="https://www.imdb.com/name/nm0748620/?ref_=tt_cst_t_2">Paul Rudd</a>), an effortlessly cool meteorologist who just moved in next door. Craig, mimicking Austin as best he can, somehow manages to push everyone in his life away even further—including his new friend. His attempts to recover the relationship end up in unpredictable disaster.&nbsp;<br><br>It is a weird and uncomfortable but at once deeply relatable story, and Final Draft was excited to jump on Zoom to chat with DeYoung about how he wrote the screenplay.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/lessons-in-breaking-convention-from-the-writer-of-friendship>
+
+---
+
+## ‘Clown in a Cornfield’ filmmaker tells how to write a movie that will get made
+
+date: 2025-05-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/clown-in-a-cornfield-filmmaker-tells-how-to-write-a-movie-that-will-get-made" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/3%20women%20screaming%2c%20one%20of%20which%20has%20blood%20trickling%20down%20her%20face%20in%20Clown%20in%20a%20Cornfield.png" alt="Verity Marks, Cassandra Potenza, and Katie Douglas in Eli Craig’s CLOWN IN A CORNFIELD. Courtesy of RLJE Films &amp; Shudder. An RLJE Films &amp; Shudder Release." class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>There’s nothing like a filmmaker who refuses to fit neatly into Hollywood’s boxes.&nbsp;<br><br>Writer/director <a href="https://www.imdb.com/name/nm0185848/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_eli%2520craig">Eli Craig</a> has made a career of blending horror and humor in ways that studios often struggle to categorize, creating memorable films that dance between bloody scares and surprising comedy.<br><br>Known for his breakout cult hit <a href="https://www.imdb.com/title/tt1465522/?ref_=nm_knf_c_1"><span style="font-style: italic;">Tucker and Dale vs. Evil</span></a>, Craig told us he approaches each project with clear thematic guardrails while leaving room for spontaneity. His latest, <span style="font-style: italic;">Clown in a Cornfield</span>, adapts Adam Cesare’s novel with Craig’s unique sensibility, keeping the horror deadly serious while finding humor in the characters. The film was a hit at SXSW this year and is set to terrify audiences with its new clown slasher, Friendo.<br><br>During our conversation ahead of the film’s wide release, Craig shared insights into his creative approach, from establishing clear themes to handling studio notes, and offered advice for aspiring filmmakers trying to break through.<br><br><span style="font-style: italic;">Editor’s note: The following conversation has been edited for length and clarity.</span><br><br><span style="font-weight: bold;">Final Draft: In your director statement for the film, you mentioned needing a clear theme, a backbone to hang the writing on. So I’m interested in how that manifests in your approach.&nbsp;</span><br><br><span style="font-weight: bold;">Eli Craig</span>: Well, ultimately, in writing this one, I didn’t start with a blank page, but when you’re starting with “fade in,” for me, I’m looking for guardrails. What’s going to focus the story? Where are the limitations and what are the rules for this story? Because sometimes it can feel overwhelming.&nbsp;<br><br>I’m very spontaneous and kind of capricious and creative, so I’ll always be throwing stuff out and trying something else. But if there’s no clear guideline or rule or guardrail for me, I can go off the rails. So my process is like, what is the skeleton? What are the character arcs and what is the theme? And once I really have honed in on what the theme is, and probably definitely where’s this character going and where are they going to end up? Then I could start honing it in.&nbsp;<br><br>Over time there’s maybe a joke that’s like, okay, this is kind of funny, but it doesn’t relate to the theme. How can I bring this funny moment back and make it more a part of the theme and a part of the story? And so it’s a constant revision of just trying to clarify what I’m trying to say.<br><br><span style="font-weight: bold;">Final Draft: I imagine that’s a challenge for a lot of writers who are aware of that fact, but don’t know how to do it without making it feel really ham-fisted.</span><br><br><span style="font-weight: bold;">Eli Craig</span>: I think that it can be ham-fisted, and sometimes something lives on the page for too long and you know you have to get rid of it, especially as you’re shooting, and you’re like, “God, okay, I have to take some time and rework this scene.”&nbsp;<br><br>And there were days, because this was a rush—I didn’t know the film was going to get made. We got independent financing, and once it was time to go, we had to go because the corn was going to be gone. It was moving toward harvest season. So we had very little time. There were times I would wake up. We were often on a night shoot schedule. So I would wake up at 3:00 p.m. for two hours, rework the scene, and then send it to everybody on set, and then show up on set at 6:00 p.m. and start filming.&nbsp;<br><br>But yeah, you can leave something awkward in there, but just know you have to get back to it. Hopefully not the day of production. I wouldn’t advise that, but know you have to get back to it and rework it and be constantly reworking.<br><br><span style="font-weight: bold;">Final Draft: So was a lot of that on the day then, or were you reworking ahead of time with [co-writer] Carter Blanchard, or what did that process like?</span><br><br><span style="font-weight: bold;">Eli Craig</span>: Carter and I wrote separately. So Carter, he did a first draft of the script based on Adam Cesare’s book, and there was a lot of really fun stuff in it. And I love Carter’s brevity as a writer, and he’s quite good at writing action, which is really fun for me to read, a script that just moves.&nbsp;<br><br>So I was reading the action and some of the horror beats all there, and I thought, “Well, the thing I could really bring to this is a tonal balance of humor, adding a little bit of absurd humor to this.” It’s called <span style="font-style: italic;">Clown in a Cornfield</span>. I don’t think we’re writing <span style="font-style: italic;">Citizen Kane</span> here. We’re trying to do something fun and a little bit cheeky, but I thought I wanted to clarify the theme, bring a little more humor and bring really kind of cinematic, fun kills because that I learned from <span style="font-style: italic;">Tucker and Dale vs. Evil</span>. Let’s make the kills part of the real fun of the movie.&nbsp;<br><br>Yeah, I would say that as far as rewriting on the day, that’s sort of a last chance thing, but that’s more in director mode where you’re like, “How is the scene going to work? What’s the blocking?” And you’re changing it all the way through blocking the rehearsal into even shooting. “What if you say this line instead?”&nbsp;<br><br>That’s why I don’t even know how you direct something without being a writer/director, because you have to own the material and hear it in your head and be revising it just all the time.<br></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/clown-in-a-cornfield-filmmaker-tells-how-to-write-a-movie-that-will-get-made>
 
 ---
 

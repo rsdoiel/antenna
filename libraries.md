@@ -1,11 +1,49 @@
 ---
 title: libraries
-updated: 2025-05-08 12:42:08
+updated: 2025-05-09 08:46:07
 ---
 
 # libraries
 
-(date: 2025-05-08 12:42:08)
+(date: 2025-05-09 08:46:07)
+
+---
+
+## SSP’s Early Career Development Podcast Episode 22: A Primer on Research Integrity & Publishing Ethics
+
+date: 2025-05-09, from: Scholarly Kitchen
+
+<p>In this episode of SSP’s Early Career Development Podcast, hosts Meredith Adinolfi (Cell Press) and Sara Grimme (Digital Science) chat with Rafal Marszalek, the Chief Editor at Nature’s largest journal, Scientific Reports about publication ethics and research integrity.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/09/ssps-early-career-development-podcast-episode-22-a-primer-on-research-integrity-publishing-ethics/">SSP&#8217;s Early Career Development Podcast Episode 22: A Primer on Research Integrity &#038; Publishing Ethics</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/09/ssps-early-career-development-podcast-episode-22-a-primer-on-research-integrity-publishing-ethics/>
+
+---
+
+## The Mystery of Cabin Island, by Franklin W. Dixon
+
+date: 2025-05-08, from: Standard Ebooks, new releaases
+
+A group of amateur detectives unravel the mystery of a missing stamps collection. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/franklin-w-dixon/the-mystery-of-cabin-island>
+
+---
+
+## Yashka, by Maria Bochkareva
+
+date: 2025-05-08, from: Standard Ebooks, new releaases
+
+A Russian peasant leaves exile in Siberia to fight for her country in World War I. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/maria-bochkareva/yashka>
 
 ---
 
@@ -20,6 +58,18 @@ date: 2025-05-08, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/05/08/guest-post-eight-hypotheses-why-librarians-dont-like-retrieval-augmented-generation-rag/>
+
+---
+
+## ROR in the US Department of Transportation's Research Repository
+
+date: 2025-05-08, from: ROR Research ID Blog
+
+The ROSA P digital repository, operated by the US National Transportation Library &ndash; part of the US Department of Transportation &ndash; is one of the top ten providers of ROR IDs for publisher identification and ROR IDs for funder identification in DataCite DOI metadata. 
+
+<br> 
+
+<https://ror.org/blog/2025-05-08-usdot-repository/>
 
 ---
 

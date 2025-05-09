@@ -1,11 +1,226 @@
 ---
 title: socal north
-updated: 2025-05-08 12:42:02
+updated: 2025-05-09 08:46:01
 ---
 
 # socal north
 
-(date: 2025-05-08 12:42:02)
+(date: 2025-05-09 08:46:01)
+
+---
+
+## Glittering blue creatures are washing up on California beaches. Here's why
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+Hundreds of thousands of Velella velella, more commonly known as by-the-wind-sailors, are drifting onto the coastline. Beachcombers say they look like "blue diamonds strewn across the beach." 
+
+<br> 
+
+<https://laist.com/news/climate-environment/glittering-blue-creatures-are-washing-up-on-california-beaches>
+
+---
+
+## One killed in 4-vehicle crash on 405 Freeway, CHP says
+
+date: 2025-05-09, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A semi, a box truck and two sedans were significantly damaged in the crash Thursday night, they said.</p>
+<p>The post <a href="https://lbpost.com/news/one-killed-in-4-vehicle-crash-on-405-freeway-chp-says">One killed in 4-vehicle crash on 405 Freeway, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/one-killed-in-4-vehicle-crash-on-405-freeway-chp-says>
+
+---
+
+## SoCal under heat advisory as temps soar
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+A heat advisory kicks in at 10 a.m. today until 9 p.m. Saturday for most of Southern California. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-temps-hottest-days-weekend>
+
+---
+
+## Addiction is no joke. Margaret Cho wants to show that people in recovery should laugh anyway
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+The comedian who has been open about her addiction and recovery is headlining a fundraiser for Phoenix House, which offers treatment and prevention services. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/addiction-is-no-joke-margaret-cho-wants-to-show-that-people-in-recovery-should-laugh-anyway>
+
+---
+
+## Vibe check: This new Pasadena bakery is blowing up on TikTok
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+BadAsh Bakes Bakery and Cafe is a big hit online. Patrons are saying the cookies, pastries and banana pudding are living up to the hype. 
+
+<br> 
+
+<https://laist.com/news/food/badash-bakes-new-pasadena-bakery-blowing-up-on-tiktok>
+
+---
+
+## Topanga Canyon needs your business after Palisades Fire. A $1 bus ride can help you help them
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+The Topanga Beach Bus route goes between Santa Monica and the San Fernando Valley. Here's how to ride. 
+
+<br> 
+
+<https://laist.com/news/transportation/topanga-canyon-needs-your-business-after-palisades-fire-a-1-bus-ride-can-help-you-help-them>
+
+---
+
+## Sloooow dough and why it’s making delicious bread in LA
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+Two days for bread dough to rise? More for pizza dough? Devoted bakers and pizza chefs are patiently waiting for the magic to happen. 
+
+<br> 
+
+<https://laist.com/news/food/slow-dough-delicious-bread-in-la>
+
+---
+
+## Yes, eating is my job: LAist food editor gives his top tips for dining out
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+How to eat out multiple times a week without busting your pants. 
+
+<br> 
+
+<https://laist.com/news/food/laist-food-editor-gives-tips-for-dining-out>
+
+---
+
+## Economists warn Trump's research cuts could have dire consequences for GDP
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+President Donald Trump has proposed slashing federal scientific funding. Economists say the long-term consequences could be dire. 
+
+<br> 
+
+<https://laist.com/news/economists-warn-trumps-research-cuts-could-have-dire-consequences-for-gdp>
+
+---
+
+## Higher ed financing is in flux. What’s California doing to make college more affordable?
+
+date: 2025-05-08, updated: 2025-05-09, from: The LAist
+
+Advocates want to improve access to grants, loans, scholarships and work study opportunities. 
+
+<br> 
+
+<https://laist.com/news/education/csac-california-college-affordability-fafsa-cadaa-legislation>
+
+---
+
+## LA fruit season is here, but should you eat produce from the burn zones?
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+Loquats are one of the many ripe fruits that Angelenos may find now around the Palisades and Eaton fire areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-fire-fruit-safety-health>
+
+---
+
+## Kaiser mental health workers vote to ratify new contract, ending monthslong strike
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+Workers won better pay and benefits, but did not get all they were asking for. 
+
+<br> 
+
+<https://laist.com/news/health/kaiser-mental-health-workers-vote-to-ratify-new-contract-ending-monthslong-strike>
+
+---
+
+## Long Beach is getting 156 acres of new wetlands; work begins to convert oil field into public space
+
+date: 2025-05-08, from: Longbeach Post
+
+<figure><img width="1024" height="482" src="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-470x221.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-768x362.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-970x456.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The land owned by Synergy Gas &#038; Oil has been used for decades as an active oil drilling site. Now it will be restored to natural coastal habitat.</p>
+<p>The post <a href="https://lbpost.com/news/place/wetlands-oil-restauration-east-long-beach-second-street">Long Beach is getting 156 acres of new wetlands; work begins to convert oil field into public space</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/wetlands-oil-restauration-east-long-beach-second-street>
+
+---
+
+## Explore Five Countries at Celebrate!
+
+date: 2025-05-08, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs Ready to embark on a global journey without leaving Santa Clarita? The City’s Celebrate event series is back with new countries to explore, featuring an immersive and exciting cultural celebration that brings the traditions, flavors and artistry of the world to the Canyon Country Community Center (18410 Sierra Highway). Celebrate is [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/08/explore-five-countries-at-celebrate/">Explore Five Countries at Celebrate!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/08/explore-five-countries-at-celebrate/>
+
+---
+
+## Apple TV+ scheduled to film car chase scene in Downtown Long Beach this weekend
+
+date: 2025-05-08, from: Longbeach Post
+
+<figure><img width="1024" height="569" src="https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4-539x300.jpg 539w, https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4-1110x617.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4-768x427.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4-1536x854.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4-2048x1138.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/10/27112714/1027-Filming-4-1320x734.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A notice sent to neighbors said they should expect a "choreographed vehicle collision" on Saturday.</p>
+<p>The post <a href="https://lbpost.com/news/apple-tv-filming-car-chase-downtown-long-beach">Apple TV+ scheduled to film car chase scene in Downtown Long Beach this weekend</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/apple-tv-filming-car-chase-downtown-long-beach>
+
+---
+
+## California promised to boost mental health in schools. Why one key program is behind schedule
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+Only 14 school districts and county offices of education have begun billing for behavioral health services under the Children and Youth Behavioral Health Initiative Fee Schedule Program, according to state health officials. 
+
+<br> 
+
+<https://laist.com/news/health/california-promised-to-boost-mental-health-in-schools-why-one-key-program-is-behind-schedule>
+
+---
+
+## Angelenos react to election of first pope from the US: 'It is shocking'
+
+date: 2025-05-08, updated: 2025-05-08, from: The LAist
+
+"When I heard the name, I said there's no way we have an American pope," a local priest says. But it's true: Robert Prevost, born in Chicago, has become Pope Leo XIV. 
+
+<br> 
+
+<https://laist.com/news/angelenos-react-to-election-of-first-pope-from-the-us>
 
 ---
 
@@ -49,7 +264,7 @@ The longtime politician who represented South L.A. was 95.
 
 date: 2025-05-08, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The boy’s father testified he watched in horror as the man blew through a stop sign and hit his son, who was crossing the street on his bike.</p>
 <p>The post <a href="https://lbpost.com/news/crime/long-beach-man-on-trial-for-murder-in-crash-that-killed-12-year-old-in-orange-county">Long Beach man on trial for murder in crash that killed 12-year-old in Orange County</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -136,7 +351,7 @@ A new UC Berkeley report finds that rebuilding all-electric could save homeowner
 
 date: 2025-05-07, from: Longbeach Post
 
-<figure><img width="828" height="722" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg 828w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-300x262.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-768x670.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-124x108.jpg 124w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-400x349.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="828" height="722" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg 828w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-300x262.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-768x670.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-124x108.jpg 124w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-400x349.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Here’s the inside story on how he was filmed, caught and convicted for an act of animal abuse that went viral.</p>
 <p>The post <a href="https://lbpost.com/news/crime/dog-abuse-viral-video-sentence-long-beach-convicted">Man gets 3 years in prison for slamming puppy into the ground in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

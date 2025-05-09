@@ -1,11 +1,178 @@
 ---
 title: journalism
-updated: 2025-05-08 12:42:07
+updated: 2025-05-09 08:46:06
 ---
 
 # journalism
 
-(date: 2025-05-08 12:42:07)
+(date: 2025-05-09 08:46:06)
+
+---
+
+## Live Sperm Racing ‘Comes’ to Los Angeles
+
+date: 2025-05-09, from: The Sundail (CSUN Student Newspaper)
+
+The first-ever sperm race was held in front of a live audience of over 1,000 people in Los Angeles on Friday, April 25, 2025. Tristan Mykel Wilcher, a sophomore at... 
+
+<br> 
+
+<https://sundial.csun.edu/193607/news/live-sperm-racing-comes-to-los-angeles/>
+
+---
+
+## Hollywood No More? Why film studios are leaving the heart of cinema behind
+
+date: 2025-05-09, from: The Canyon News (COC Student Newspaper)
+
+<p>Hollywood has long been considered the heart of the film industry —&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/studios-leaving/">Hollywood No More? Why film studios are leaving the heart of cinema behind</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/studios-leaving/>
+
+---
+
+## ‘Young Alumni Building Green Futures’ panel features 4 alumni discussing careers
+
+date: 2025-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alumni from UCLA Luskin School of Public Affairs discussed how they built  their careers in environmentalism across public and private sectors during the &#8220;Young Alumni Building Green Futures&#8221; panel May 1. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/08/young-alumni-building-green-futures-panel-features-4-alumni-discussing-careers/>
+
+---
+
+## Cell-Cell Symposium sparks scientific collaboration with over 200 attendees
+
+date: 2025-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Over 200 researchers and students attended a two-day symposium to discuss new advancements in single-cell analysis and spatial biology at the California NanoSystems Institute at UCLA on April 16 and 17. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/08/cell-cell-symposium-sparks-scientific-collaboration-with-over-200-attendees/>
+
+---
+
+## UCLA study finds CalFresh program underused by college students
+
+date: 2025-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+CalFresh, a federally funded food assistance program, is a largely untapped resource for California college students, a recent UCLA study found. 
+Researchers at the UCLA Center for Health Policy Research and California State University, Fullerton, published a report measuring the impact CalFresh has had on food-insecure students at schools across California. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/08/ucla-study-finds-calfresh-program-underused-by-college-students/>
+
+---
+
+## MataFurs debuts as CSUN’s first Furry Club
+
+date: 2025-05-09, from: The Sundail (CSUN Student Newspaper)
+
+When Cinema &#38; Television Arts major Jae Hoon Hwang transferred to CSUN from the Bay Area, he set out to do something that hadn’t been done before: co-founding the first... 
+
+<br> 
+
+<https://sundial.csun.edu/193599/arts-entertainment/matafurs-debuts-as-csuns-first-furry-club/>
+
+---
+
+## Alumnus Viva Rose to debut stand-up show on prolonged success, mental health
+
+date: 2025-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Spinning together vulnerability and punchlines, Viva Rose is standing up for more than just laughs this summer.
+Carving out her own comedy niche, the theater alumnus is bringing her debut one-woman stand-up show to the Zephyr Theatre this June. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/08/alumnus-viva-rose-to-debut-stand-up-show-on-prolonged-success-mental-health/>
+
+---
+
+## ‘Screams Before Silence’ screening sparks dialogue regarding Oct. 7
+
+date: 2025-05-09, from: The Sundail (CSUN Student Newspaper)
+
+To conclude Sexual Assault Awareness Month, the Women’s Research and Resource Center (WRRC) hosted a screening of “Screams Before Silence,” a documentary film about the sexual violence committed on Oct.... 
+
+<br> 
+
+<https://sundial.csun.edu/193592/news/screams-before-silence-screening-sparks-dialogue-regarding-oct-7/>
+
+---
+
+## A proposed project in Old Town Newhall is dividing the community
+
+date: 2025-05-09, from: The Canyon News (COC Student Newspaper)
+
+<p>“I stand before you right now to beg you to reject this&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/newhall-development/">A proposed project in Old Town Newhall is dividing the community</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/newhall-development/>
+
+---
+
+## ‘Spectrum of Strength’ highlights LGBTQ+ and disability resources
+
+date: 2025-05-09, from: The Sundail (CSUN Student Newspaper)
+
+The Pride Center hosted Spectrum of Strength at the Grand Salon in the USU on April 22. Queer and disabled students had the opportunity to learn about resources on and... 
+
+<br> 
+
+<https://sundial.csun.edu/193546/news/spectrum-of-strength-highlights-lgbtq-and-disability-resources/>
+
+---
+
+## USAC recap – April 29
+
+date: 2025-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its fifth meeting of spring quarter April 29.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/08/usac-recap-april-29-2/>
+
+---
+
+## Refine LA to hold Fowler Museum show to promote environmentally-conscious fashion
+
+date: 2025-05-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 8 at 7:49 p.m.</em>
+Refine LA is bringing old clothes back to life in its upcoming “Decomposition” fashion show.
+This sustainable fashion club will light up the Fowler Museum amphitheater at 8 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/08/refine-la-to-hold-fowler-museum-show-to-promote-environmentally-conscious-fashion/>
+
+---
+
+## Oxy SJP protest and confrontation with security at Stritikus’s inauguration expose strong divides across campus communities
+
+date: 2025-05-08, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>A crowd of roughly 30 Occidental Students for Justice in Palestine (Oxy SJP) protesters attempted to force their way through Campus Safety and Code Four private security guards into President Tom Stritikus’s inauguration April 25, leading to a confrontation on the steps to the Remsen Bird Hillside Theater. The protest began about an hour into the ceremony around 4 [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/05/08/oxy-sjp-protest-and-confrontation-with-security-at-stritikuss-inauguration-expose-strong-divides-across-campus-communities/2915191">Oxy SJP protest and confrontation with security at Stritikus’s inauguration expose strong divides across campus communities</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/05/08/oxy-sjp-protest-and-confrontation-with-security-at-stritikuss-inauguration-expose-strong-divides-across-campus-communities/2915191>
 
 ---
 
@@ -89,6 +256,7 @@ date: 2025-05-08, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-05-08, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 8 at 10:53 p.m.</em>
 Feast at Rieber has relocated to De Neve Plaza due to a rat infestation – and may remain closed for the rest of the academic year. 
 
 <br> 
@@ -113,7 +281,7 @@ Senator Bernie Sanders and U.S. Representative from New York Alexandria Ocasio-C
 
 date: 2025-05-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 7 at 10:23 p.m.</em>
+<em>This post was updated May 8 at 10:58 p.m.</em>
 The USA Elections Board disqualified three candidates from the upcoming Undergraduate Students Association Council elections Wednesday.&#160;
 The candidates, Maya Wertheim, Mitchell Stevens II and Johanna Vu, were disqualified for failing to submit required documents to the elections board by Tuesday night, according to notices of disqualification issued by the board.&#160;
 Wertheim, a former Daily Bruin Opinion intern who is running for general representative, was disqualified for failing to submit an expense account form, while Stevens – who is running for Cultural Affairs commissioner – and Vu – who is running for Student Wellness commissioner – failed to submit the expenses form and sources of funding forms, according to the notices. 

@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2025-05-08 12:42:04
+updated: 2025-05-09 08:46:03
 ---
 
 # science and technology
 
-(date: 2025-05-08 12:42:04)
+(date: 2025-05-09 08:46:03)
+
+---
+
+## Tech titans: Wanna secure US AI leadership? Stop giving the world excuses to buy Chinese
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>Execs from AMD, Microsoft, and OpenAI tear into profit busting AI diffusion rules</h4> <p>Execs from several top US tech companies, including Microsoft, AMD, and OpenAI, slammed the Biden administration&#39;s export rules for AI chips and said that winning the AI race against China hinges on making it easier, not harder, to use American technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/tech_titans_wanna_secure_us/>
+
+---
+
+## Finding Beauty and Truth in Mundane Occurrences
+
+date: 2025-05-09, from: Quanta Magazine
+
+The physicist Sidney Nagel delights in solving mysteries of the universe that are hiding in plain sight.            <p>The post <a href="https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/" target="_blank">Finding Beauty and Truth in Mundane Occurrences</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/>
+
+---
+
+## Users advised to review Oracle Java use as Big Red's year end approaches
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>International Java sales operation and the prospects of audits per-employee license model make the move to open source irresistible</h4> <p>Experts are warning of an increase in Oracle Java audits - as the tech giant nears its year end - following a switch to a per-employee license model that could see costs grow by up to five times.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/users_advised_to_review_oracle_java_use/>
+
+---
+
+## openSUSE deep sixes Deepin desktop over security stink
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>Linux giant finds Chinese environment to be perilous beneath pretty exterior</h4> <p>SUSE has kicked the Deepin Desktop Environment (DDE) out of its community-driven Linux distro, openSUSE, and the reasons it gives for doing so are revealing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/opensuse_ditches_deepin/>
+
+---
+
+## Using Our Facilities
+
+date: 2025-05-09, from: NASA breaking news
+
+If you are considering testing in one of our facilities or would like further information about a specific facility or capability, please let us know. 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/using-our-facilities/>
+
+---
+
+## Microsoft wants us to believe AI will crack practical fusion power, driving future AI
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>This BS ends at some point, right?</h4> <p>Microsoft believes AI can hasten development of nuclear fusion as a practical energy source, which could in turn accelerate answers to the question of how to power AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/microsoft_ai_fusion/>
+
+---
+
+## Hubble Comes Face-to-Face with Spiral’s Arms
+
+date: 2025-05-09, from: NASA breaking news
+
+The spiral galaxy NGC 3596 is on display in this NASA/ESA Hubble Space Telescope image that incorporates six different wavelengths of light. NGC 3596 is situated 90 million light-years from Earth in the constellation Leo, the Lion. British astronomer Sir William Herschel first documented the galaxy in 1784. NGC 3596 appears almost perfectly face-on when […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-comes-face-to-face-with-spirals-arms/>
+
+---
+
+## As US scientists flee Trump, MP urges Britain to do more to nab them
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>One concrete suggestion: Looser visa requirements</h4> <p>The EU and nation states have already heralded schemes to attract top scientific talent seeking to escape the Republic of Trump. So where&#39;s Britain in the mix?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/uk_draws_us_scientists/>
+
+---
+
+## If Google is forced to give up Chrome, what happens next?
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>It&#39;s going to be very, very interesting in a &#39;May you live in interesting times&#39; way</h4> <p><strong>Opinion</strong>  When Donald Trump entered the White House, I expect Google thought its worries were over. A million-dollar &#34;donation&#34; for the inaugural ball, some face time between Sundar Pichai and Trump, and President Joe Biden&#39;s pesky Department of Justice (DoJ) demanding Google divest itself of its Chrome web browser would all be forgotten.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/opinion_column_google_chrome_potential_divestiture/>
+
+---
+
+## People find amazing ways to break computers. Cats are even more creative
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>PC repair chap turned pet detective to diagnose the defective</h4> <p><strong>On Call</strong>  The unconditional love of a pet is often a solace, and perhaps never more so than at the end of a busy working week. Which is when <em>The Register</em> competes with the animal kingdom for your affection by delivering a new edition of On Call, our Friday column in which we share your stories of scratching out a living delivering tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/on_call/>
+
+---
+
+## 37signals is completing its on-prem move, deleting its AWS account to save millions
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>Industry ‘pulled a fast one convincing everyone cloud is the only way’ says CTO David Heinemeier Hansson</h4> <p>Web software biz 37signals has started to migrate its data out of the cloud and onto on-prem storage – and expects to save a further $1.3 million (£980,000) a year after completing its high-profile cloud repatriation project and getting off AWS once and for all.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/37signals_cloud_repatriation_storage_savings/>
+
+---
+
+## Stop Pakistani content at the border, India tells media, tech biz
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Songs, social network vids threaten national security, apparently</h4> <p>India’s Ministry of Information and Broadcasting has issued an advisory calling for media companies and online platforms to block all content originating in Pakistan.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/india_pakistan_content_block_advice/>
+
+---
+
+## Google requires Android applications on Google Play to support 16 KB page sizes
+
+date: 2025-05-08, from: OS News
+
+About a year ago, we talked about the fact that Android 15 became page size-agnostic, supporting both 4 KB and 16 KB page sizes. Google was already pushing developers to get their applications ready for 16 KB page sizes, which means recompiling for 16 KB alignment and testing on a 16 KB version of an Android device or simulator. Google is taking the next step now, requiring that every application targeting Android 15 or higher submitted to Google Play after 1 November 2025 must support a page size of 16 KB. This is a key technical requirement to ensure your users can benefit from the performance enhancements on newer devices and prepares your apps for the platform&#8217;s future direction of improved performance on newer hardware. Without recompiling to support 16 KB pages, your app might not function correctly on these devices when they become more widely available in future Android releases. ↫ Dan Brown on the Android Developers Blog This is mostly only relevant for developers instead of users, but in the extremely unlikely scenario that one of your favourite applications cannot be made to work with 16 KB page sizes for some weird reason, or the developer refuses to support it or some even weirder reason, you might have to say goodbye to that applications if you use Android 15 or higher. This is absurdly unlikely, but I wouldn&#8217;t be surprised if it happens to at least one application. If that happens, I want to know which application that is, and ask the developer for their story. 
+
+<br> 
+
+<https://www.osnews.com/story/142321/google-requires-android-applications-on-google-play-to-support-16-kb-page-sizes/>
+
+---
+
+## Update turns Google Gemini into a prude, breaking apps for trauma survivors
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>&#39;I&#39;m sorry, I can&#39;t help with that&#39;</h4> <p>Google&#39;s latest update to its Gemini family of large language models appears to have broken the controls for configuring safety settings, breaking applications that require lowered guardrails, such as apps providing solace for sexual assault victims.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/>
+
+---
+
+## Workday handed no-bid deal to fix staffing meltdown at Uncle Sam's uber-HR agency
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>Sole-source award raises eyebrows in rush to meet Trump’s hiring mandates</h4> <p>The US Office of Personnel Management (OPM) awarded Workday a sole-source contract to overhaul its human resources systems - bypassing any formal competition - citing critical failures in its aging, fragmented HR infrastructure and binding deadlines from President Trump&#39;s executive orders on workforce restructuring.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/opm_chooses_workday_no_bid/>
+
+---
+
+## Introducing Mac Themes Garden
+
+date: 2025-05-08, from: OS News
+
+I&#8217;ve &#8220;launched&#8221; the Mac Themes Garden! It is a website showcasing more than 3,000 (and counting) Kaleidoscope from the Classic Mac era, ready to be seen, downloaded and explored! Check it out! Oh, and there also is an RSS feed you can subscribe to see themes as they are added/updated! ↫ Damien Erambert If you&#8217;ve spent any time on retrocomputing-related social media channels, you&#8217;ve definitely seen the old classic Mac OS themes in your timeline. They are exquisitely beautiful artifacts of a bygone era, and the work Damien Erambert has been doing to make these easily available and shareable, entirely in his free time, is awesome and a massive service to the retrocomputing community. The process to get these themes loaded up onto the website is actually a lot more involved than you might imagine. It involves a classic Mac OS virtual machine, applying themes, taking screenshots, collecting creator information, and adding everything to a database. This process is mostly manual, and Erambart estimates he&#8217;s about halfway done. If you have classic Mac OS running somewhere, on real hardware or in a virtual machine, you can now easily theme it at your heart&#8217;s content. 
+
+<br> 
+
+<https://www.osnews.com/story/142319/introducing-mac-themes-garden/>
+
+---
+
+## Reverse-engineering Fujitsu M7MU RELC hardware compression
+
+date: 2025-05-08, from: OS News
+
+This is a follow-up to the Samsung NX mini (M7MU) firmware reverse-engineering series. This part is about the proprietary LZSS compression used for the code sections in the firmware of Samsung NX mini, NX3000/NX3300 and Galaxy K Zoom. The post is documenting the step-by-step discovery process, in order to show how an unknown compression algorithm can be analyzed. The discovery process was supported by Igor Skochinsky and Tedd Sterr, and by writing the ideas out on encode.su. ↫ Georg Lukas It&#8217;s not weekend quite yet, but here&#8217;s some light reading ahead of time. 
+
+<br> 
+
+<https://www.osnews.com/story/142317/reverse-engineering-fujitsu-m7mu-relc-hardware-compression/>
+
+---
+
+## NASA Astronaut Anne McClain Works on Space Station
+
+date: 2025-05-08, from: NASA breaking news
+
+In this May 1, 2025, photo taken by fellow NASA astronaut Nichole Ayers, Anne McClain works near one of the International Space Station&#8217;s main solar arrays during a spacewalk. During the May 1 spacewalk – McClain’s third and Ayers’ first – the astronaut pair relocated a space station communications antenna and completed the initial mounting [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-astronaut-anne-mcclain-works-on-space-station/>
+
+---
+
+## ‘Infuriated’, ‘disappointed' ... Ex-VMware customers explain why they migrated to Nutanix
+
+date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+
+<h4>As Broadcom flings legal nastygrams at its own punters</h4> <p><strong>Next</strong>  Dominic Johnston is fed up with VMware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/08/vmware_migrations_why_nutanix/>
 
 ---
 
@@ -33,7 +261,7 @@ date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 
 ---
 
-## The IRS plans to replace fired enforcement workers with AI
+## IRS hopes to replace fired enforcement workers with AI
 
 date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 
@@ -203,9 +431,9 @@ date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 
 ## NASA JPL boss bails for 'personal reasons' as budget cuts bite
 
-date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
+date: 2025-05-08, updated: 2025-05-09, from: The Register (UK I.T. News)
 
-<h4>Laurie Leshin to leave in June</h4> <p>Laurie Leshin, director of NASA&#39;s Jet Propulsion Laboratory (JPL), is stepping down in June and will be replaced by JPL veteran David Gallagher.…</p> 
+<h4>Laurie Leshin to leave in June</h4> <p><strong>Updated</strong>  Laurie Leshin, director of NASA&#39;s Jet Propulsion Laboratory (JPL), is stepping down in June and will be replaced by JPL veteran David Gallagher.…</p> 
 
 <br> 
 
@@ -265,7 +493,7 @@ date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 
 date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 
-<h4>Newly completed substation will help bear the load</h4> <p>Elon Musk&#39;s xAI is removing about half of the temporary gas-turbine generators powering its Colossus AI datacenter over the next two months, according to the Memphis Chamber of Commerce, not due to environmental concerns, but because a new nearby substation now supplies the needed power.…</p> 
+<h4>Newly completed substation will help bear the load</h4> <p><strong>Updated</strong>  Elon Musk&#39;s xAI is removing about half of the temporary gas-turbine generators powering its Colossus AI datacenter over the next two months, according to the Memphis Chamber of Commerce, not due to environmental concerns, but because a new nearby substation now supplies the needed power.…</p> 
 
 <br> 
 
@@ -285,9 +513,9 @@ date: 2025-05-08, updated: 2025-05-08, from: The Register (UK I.T. News)
 
 ---
 
-## After that 2024 Windows fiasco, CrowdStrike has a plan – jobs cuts, leaning on AI
+## After that 2024 Windows fiasco, CrowdStrike has a plan – job cuts, leaning on AI
 
-date: 2025-05-07, updated: 2025-05-08, from: The Register (UK I.T. News)
+date: 2025-05-07, updated: 2025-05-09, from: The Register (UK I.T. News)
 
 <h4>CEO: Neural net tech &#39;flattens our hiring curve, helps us innovate&#39;</h4> <p>CrowdStrike – the Texas antivirus slinger famous for crashing millions of Windows machines last year – plans to cut five percent of its staff, or about 500 workers, in pursuit of &#34;greater efficiencies,&#34; according to CEO and co-founder George Kurtz.…</p> 
 

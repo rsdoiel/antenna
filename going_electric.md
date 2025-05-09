@@ -1,11 +1,227 @@
 ---
 title: going electric
-updated: 2025-05-08 12:42:10
+updated: 2025-05-09 08:46:09
 ---
 
 # going electric
 
-(date: 2025-05-08 12:42:10)
+(date: 2025-05-09 08:46:09)
+
+---
+
+## Georgia’s EV Boom Is ‘At Risk,’ Senators Warn
+
+date: 2025-05-09, from: Inside EVs News
+
+We also discuss Slate Auto’s financial backers and Europe’s softer CO2 emissions targets. 
+
+<br> 
+
+<https://insideevs.com/news/759137/georgia-ev-boom-at-risk-senators-warn/>
+
+---
+
+## Nissan pulls the plug on its +$1 billion EV battery plant as the alarm bells go off
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Nissans-new-N7-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As it scrambles to turn things around, <a href="https://electrek.co/guides/nissan/">Nissan</a> is scrapping plans to build a new LFP battery plant in Japan. The facility was expected to be key to reducing EV battery costs to keep up with leaders like BYD.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="415199" href="https://electrek.co/2025/05/09/nissan-scraps-1-billion-ev-battery-plant-as-alarm-bells-go-off/#more-415199" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/nissan-scraps-1-billion-ev-battery-plant-as-alarm-bells-go-off/>
+
+---
+
+## Tesla’s NACS connector will be used by Mazda’s EVs in Japan
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/NACS-charging-SAE-compare.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mazda has announced that it will use the North American Charging Standard (NACS), also known as Tesla’s charge connector, on its upcoming electric vehicles in Japan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda,tesla" data-layer-viewtype="unknown" data-post-id="415209" href="https://electrek.co/2025/05/09/tesla-nacs-connector-used-mazda-evs-japan/#more-415209" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/tesla-nacs-connector-used-mazda-evs-japan/>
+
+---
+
+## This Ex-Uber Tesla Model 3 With 180,000 Miles Will Surprise You
+
+date: 2025-05-09, from: Inside EVs News
+
+“I have genuinely been pretty blown away by how good this car is for the mileage.” 
+
+<br> 
+
+<https://insideevs.com/news/759066/used-tesla-model-3-high-mileage-battery-costs/>
+
+---
+
+## XPeng AeroHT’s ‘Land Aircraft Carrier’ hits latest certification milestone en route to mass production
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/AeroHT-production-flying-car.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>AeroHT, the eVTOL and “flying car” business arm of XPeng, announced it is one step closer to bringing its “Land Aircraft Carrier” to customers in China. The powers that be accepted the unique NEV/eVTOL combo vehicle’s production certificate application, moving <a href="https://electrek.co/guides/aeroht/">AeroHT</a> toward its next step before mass production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aeroht,evtol,xpeng" data-layer-viewtype="unknown" data-post-id="415195" href="https://electrek.co/2025/05/09/xpeng-aerohts-land-aircraft-carrier-hits-latest-certification-milestone-en-route-to-mass-production/#more-415195" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/xpeng-aerohts-land-aircraft-carrier-hits-latest-certification-milestone-en-route-to-mass-production/>
+
+---
+
+## Rivian R2 Program Gets Promising Update From CEO R.J. Scaringe
+
+date: 2025-05-09, from: Inside EVs News
+
+"When we look at the R2 program, this is well underway," Scaringe said on Tuesday's earnings call. 
+
+<br> 
+
+<https://insideevs.com/news/759043/rivian-r2-development-update-factory/>
+
+---
+
+## Xiaomi becomes long-term partner of Nürburgring and will have its own curve on the Grand Prix Circuit
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Xiaomi-Nurburgring.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Xiaomi Automobile, the young EV business spun out of the Chinese smartphone giant, has earned the respect of Nürburgring, one of the world’s longest and most renowned permanent race tracks. After catching the public’s attention during a lap at Nürburgring last year, <a href="https://electrek.co/guides/xiaomi/">Xiaomi</a> has signed on as a long-term premium partner to the track, which includes naming rights on the Grand Prix Circuit and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nurburgring,xiaomi,xiaomi-automobile,xiaomi-su7" data-layer-viewtype="unknown" data-post-id="415187" href="https://electrek.co/2025/05/09/xiaomi-long-term-partner-nurburgring-own-curve-grand-prix-circuit/#more-415187" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/xiaomi-long-term-partner-nurburgring-own-curve-grand-prix-circuit/>
+
+---
+
+## Wheel-E Podcast: Lectric XP4, new RadRunners, Tariff troubles, more
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes the launch of the Lectric XP4 e-bike, a new set of RadRunners from Rad Power Bikes, California’s e-bike voucher program hits more hurdles, the effect of Trump tariffs on several e-bike and e-moto companies, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="415157" href="https://electrek.co/2025/05/09/wheel-e-podcast-lectric-xp4-new-radrunners-tariff-troubles-more/#more-415157" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/wheel-e-podcast-lectric-xp4-new-radrunners-tariff-troubles-more/>
+
+---
+
+## AUSA adds new, rough terrain electric forklift to its line of construction EVs
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/electric-forklift_AUSA.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Last month’s <a href="https://electrek.co/2025/04/15/groundbreaking-heavy-equipment-evs-ha-steals-the-show-at-bauma/">bauma</a> event in Germany was so big that the industry hive mind is still trying to digest everything it saw – and that includes these new, rough terrain electric material handlers from Spanish equipment brand AUSA!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="415159" href="https://electrek.co/2025/05/09/ausa-adds-new-rough-terrain-electric-forklift-to-its-line-of-construction-evs/#more-415159" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/ausa-adds-new-rough-terrain-electric-forklift-to-its-line-of-construction-evs/>
+
+---
+
+## One of the world’s largest wind farms just got axed – here’s why
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Hornsea-Four-Orsted.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Danish energy giant Ørsted has canceled plans for the Hornsea 4 offshore wind farm, dealing a major blow to the UK’s renewable energy ambitions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,offshore-wind-power,uk" data-layer-viewtype="unknown" data-post-id="415145" href="https://electrek.co/2025/05/08/one-of-the-worlds-largest-wind-farms-just-got-axed-heres-why/#more-415145" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/one-of-the-worlds-largest-wind-farms-just-got-axed-heres-why/>
+
+---
+
+## Is the Tesla Roadster ever going to be made?
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Guide-Gen.-2-Roadster-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Roadster appears to be quietly disappearing after years of delay. is it ever going to be made?</p>
+
+
+
+<p>I may have jinxed it with Betteridge’s Law of Headlines, which suggests any headline ending in a question mark can be answered with “no.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-roadster" data-layer-viewtype="unknown" data-post-id="415121" href="https://electrek.co/2025/05/08/tesla-roadster-ever-going-happen/#more-415121" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/tesla-roadster-ever-going-happen/>
+
+---
+
+## Lucid is offering over $20,000 in discounts on the Air EV this month
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Lucid-Q2-record-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 Lucid Air isn’t just any luxury sedan. It’s the world’s most efficient car with over 400 miles of range. After introducing new discounts this month, <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> is offering over $20,000 in savings on select 2025 Air models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-air" data-layer-viewtype="unknown" data-post-id="415124" href="https://electrek.co/2025/05/08/lucid-offering-over-20000-discounts-air-ev-this-month/#more-415124" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/lucid-offering-over-20000-discounts-air-ev-this-month/>
+
+---
+
+## Surprise: 4 of the top 5 clean energy states are red states
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/texas-solar-nova.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>In 2024, the US produced more than three times as much solar, wind, and geothermal power as it did in 2015. That’s according to a <a href="https://environmentamerica.org/center/resources/the-state-of-renewable-energy-dashboard/" target="_blank" rel="noreferrer noopener">new interactive dashboard</a> just released by Environment America Research &amp; Policy Center and Frontier Group. The tool, called The State of Renewable Energy 2025, tracks the growth of clean energy and EVs in all 50 states — and it shows that progress has happened everywhere.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,egeb,energy-brief,geothermal,solar,iowa,kansas,oklahoma,solar-power,texas,wind-power" data-layer-viewtype="unknown" data-post-id="415113" href="https://electrek.co/2025/05/08/4-of-the-top-5-ev-clean-energy-ev-states/#more-415113" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/4-of-the-top-5-ev-clean-energy-ev-states/>
+
+---
+
+## Toyota is ‘reviewing’ its plans to sell 1.5 million EVs next year — Again
+
+date: 2025-05-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Toyota-new-EVs-2027.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota is preparing for its profits to take a big hit this year <span style="margin: 0px; padding: 0px;">as Trump’s tariffs take effect. With uncertainty rising in the auto industry, <a href="https://electrek.co/guides/toyota/" target="_blank">Toyota</a> said it’s “reviewing” its </span>plans to sell 1.5 million EVs by 2026.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="415098" href="https://electrek.co/2025/05/08/toyota-reviewing-plans-to-sell-1-5-million-evs-next-year/#more-415098" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/08/toyota-reviewing-plans-to-sell-1-5-million-evs-next-year/>
 
 ---
 

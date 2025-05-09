@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-05-08 12:42:01
+updated: 2025-05-09 08:46:00
 ---
 
 # north america
 
-(date: 2025-05-08 12:42:01)
+(date: 2025-05-09 08:46:00)
+
+---
+
+## The 'Not Me' Trump administration's blame-shifting
+
+date: 2025-05-09, from: The Contrarian
+
+Real leaders take responsibility. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-not-me-trump-administrations>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-05-09, from: The Contrarian
+
+Donald Trump Dress-Up Dolls 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-fa9>
+
+---
+
+## Welcome Pope Leo XIV! Joseph Tomás McKellar on staying faithful in a paradoxical world 
+
+date: 2025-05-09, from: The Contrarian
+
+"The church should be engaged, and in the middle of shaping systems towards mercy and compassion and the dignity of all life" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163171849/4e464ed5fd83429092a33b6ec7612adc.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163171849/4e464ed5fd83429092a33b6ec7612adc.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/welcome-pope-leo-xiv-joseph-tomas>
+
+---
+
+## Undaunted officials smack down bullies
+
+date: 2025-05-09, from: The Contrarian
+
+Wisconsin governor punctures autocrats&#8217; aura of omnipotence; similar support for the rule of law was delivered by bipartisan judges 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-officials-smack-down-bullies>
+
+---
+
+##  TAX REVOLT, Part Four: The Pledgemaster 
+
+date: 2025-05-09, from: The Lever News
+
+ Grover Norquist made a name for himself by cancelling politicians who dared to raise taxes. Is his reign ending?  
+
+<br> 
+
+<https://www.levernews.com/tax-revolt-part-four-the-pledgemaster/>
+
+---
+
+## Evening Roundup, May 8
+
+date: 2025-05-08, from: The Contrarian
+
+Featuring Jen Rubin's welcome to Pope Leo XIV; Adam Kinzinger & Jen Rubin; Jeff Nesbit; Carron J. Phillips; Azza Cohen; Culture Corner's Recommendations of the week; and the Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-8>
+
+---
+
+## Culture Corner Recommendations: A doc about the 'painter of light ' plus 10 great shows on PBS
+
+date: 2025-05-08, from: The Contrarian
+
+Art for Everybody considers the legacy of painter Thomas Kinkade 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-corner-recommendations-a>
+
+---
+
+##  RFK Jr.’s Vow Of Silence 
+
+date: 2025-05-08, from: The Lever News
+
+ Health and Human Services Secretary Robert F. Kennedy Jr. is ushering in a new era of secrecy at the FDA.  
+
+<br> 
+
+<https://www.levernews.com/rfk-jr-s-vow-of-silence/>
+
+---
+
+## Trump wants a military themed birthday party: Adam Kinzinger on the waste and corruption of the Trump Administration
+
+date: 2025-05-08, from: The Contrarian
+
+"Donald Trump is not interested in being president. He's interested in being worshipped, and he's interested in entertaining" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163141747/b624616711f8408c9f5cea401e80d6b0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163141747/b624616711f8408c9f5cea401e80d6b0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trump-wants-a-military-themed-birthday>
+
+---
+
+##  Airlines Are Collecting Your Data And Selling It To ICE 
+
+date: 2025-05-08, from: The Lever News
+
+ An aviation industry clearinghouse is collecting passenger information from billions of past and future flights and selling it to Trump’s immigration enforcers.  
+
+<br> 
+
+<https://www.levernews.com/airlines-are-collecting-your-data-and-selling-it-to-ice/>
 
 ---
 
