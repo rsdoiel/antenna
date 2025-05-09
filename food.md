@@ -1,11 +1,127 @@
 ---
 title: food
-updated: 2025-05-09 08:46:09
+updated: 2025-05-09 14:08:04
 ---
 
 # food
 
-(date: 2025-05-09 08:46:09)
+(date: 2025-05-09 14:08:04)
+
+---
+
+## This 3-Ingredient Americano Is the Only Drink You Need This Summer
+
+date: 2025-05-09, from: Taste of Home
+
+<p>This Italian Americano cocktail will have you living "la dolce vita" in no time.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/americano-cocktail-summer-drink/">This 3-Ingredient Americano Is the Only Drink You Need This Summer</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/americano-cocktail-summer-drink/>
+
+---
+
+## Klatch Coffee Announces Upcoming Education And Learning Schedule
+
+date: 2025-05-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Classes in espresso, brewing, and latte art conducted by industry professionals for baristas and home enthusiasts. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-announces-upcoming-education-and-learning-schedule-333697.html>
+
+---
+
+## The Best Meal Delivery Services 2025 for Hassle-Free Home Cooking (2025)
+
+date: 2025-05-09, from: Bon Appetet
+
+Meal kit and delivery options for every kind of cook (and those who don’t want to cook at all). 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-meal-delivery-services>
+
+---
+
+## Our Favorite Air Fryer Toaster Oven Now Comes in a Smaller Size (And It’s Cheaper, Too!)
+
+date: 2025-05-09, from: Taste of Home
+
+<p>No counter space? No problem. The Breville Smart Oven Air Fryer Compact offers more versatility than the average air fryer, at half the size.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/breville-smart-oven-air-fryer-compact/">Our Favorite Air Fryer Toaster Oven Now Comes in a Smaller Size (And It&#8217;s Cheaper, Too!)</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/breville-smart-oven-air-fryer-compact/>
+
+---
+
+## What Is ‘Cheerwine,’ and Why Do Southern People Love This Soda?
+
+date: 2025-05-09, from: Taste of Home
+
+<p>Cheerwine, y'all: It's a sip of southern charm. Despite its name, the bubbly drink is all soda—no alcohol.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-cheerwine/">What Is &#8216;Cheerwine,&#8217; and Why Do Southern People Love This Soda?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-cheerwine/>
+
+---
+
+## SCA Continues Global Advance of CVA through Brazil Specialty Coffee Association Deal
+
+date: 2025-05-09, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/BSCA-and-SCA-MOU-620x465.jpg" class="attachment-large size-large wp-post-image" alt="BSCA and SCA MOU" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/BSCA-and-SCA-MOU-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/BSCA-and-SCA-MOU-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/BSCA-and-SCA-MOU-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/BSCA-and-SCA-MOU-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/BSCA-and-SCA-MOU.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association is continuing to march forward its new professional coffee cupping system — known as the CVA — through a new deal with the Brazil Specialty Coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/09/sca-continues-global-advance-of-cva-through-brazil-specialty-coffee-association-deal/>
+
+---
+
+## Sprudgie Awards, Sprudge Twenty, And Build-Outs On The Coffee Sprudgecast
+
+date: 2025-05-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. 16th Annual Sprudgie Award winners on this week's Coffee Sprudgecast. 
+
+<br> 
+
+<https://sprudge.com/sprudgie-awards-sprudge-twenty-and-build-outs-on-the-coffee-sprudgecast-333681.html>
+
+---
+
+## Seven Boston Blank Street Coffee Locations Vote In Favor Of Unionzing
+
+date: 2025-05-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. They are the first Blank Street cafes to unionize. 
+
+<br> 
+
+<https://sprudge.com/seven-boston-blank-street-coffee-locations-vote-in-favor-of-unionzing-333315.html>
+
+---
+
+## I Tried This Viral Trick for Perfect Mimosas, and I’ll Never Make Them Another Way Again
+
+date: 2025-05-09, from: Taste of Home
+
+<p>This viral mimosa hack is guaranteed to impress.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mimosa-ice-cubes/">I Tried This Viral Trick for Perfect Mimosas, and I&#8217;ll Never Make Them Another Way Again</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mimosa-ice-cubes/>
 
 ---
 
@@ -25,7 +141,7 @@ Elevated spaghetti and meatballs coming right up.
 
 date: 2025-05-09, from: Daily Coffee News
 
-<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-620x387.jpg" class="attachment-large size-large wp-post-image" alt="Giesen Roasting Solutions 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-768x479.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch coffee roasting equipment maker Giesen just introduced a comprehensive rebranding, led by a name change from Giesen Coffee Roasters to Giesen Roasting Solutions.&#160; The Ulft, Netherlands-based company said the... 
+<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-620x387.jpg" class="attachment-large size-large wp-post-image" alt="Giesen Roasting Solutions 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions-768x479.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Giesen-Roasting-Solutions.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dutch coffee roasting equipment maker Giesen just introduced a comprehensive rebranding, led by a name change from Giesen Coffee Roasters to Giesen Roasting Solutions.&#160; The Ulft, Netherlands-based company said the... 
 
 <br> 
 
@@ -233,7 +349,7 @@ Fun to say and tasty to eat, feta bruschetta is an easy, flavor-packed appetizer
 
 date: 2025-05-08, from: Daily Coffee News
 
-<div><img width="620" height="446" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg" class="attachment-large size-large wp-post-image" alt="ikawa-pro50x-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-300x216.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-768x552.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Among numerous small roasters drawing long lines at last month&#8217;s SCA Expo in Houston was the Ikawa Pro50X, a small-scale, feature-rich sample roaster. The latest in the UK company&#8217;s Pro... 
+<div><img width="620" height="446" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg" class="attachment-large size-large wp-post-image" alt="ikawa-pro50x-1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-620x446.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-300x216.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1-768x552.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/ikawa-pro50x-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Among numerous small roasters drawing long lines at last month&#8217;s SCA Expo in Houston was the Ikawa Pro50X, a small-scale, feature-rich sample roaster. The latest in the UK company&#8217;s Pro... 
 
 <br> 
 

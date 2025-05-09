@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-05-09 08:46:05
+updated: 2025-05-09 14:08:01
 ---
 
 # games
 
-(date: 2025-05-09 08:46:05)
+(date: 2025-05-09 14:08:01)
+
+---
+
+## Dragon Ball Z: Kakarot is getting the first half of Daima in its next DLC
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Bandai Namco dropped a trailer Friday for (deep breath) new Dragon Ball Z: Kakarot downloadable content, Daima &#8211; Adventure Through The Demon Realm Part 1 arriving July 17. More importantly, it revealed what players can expect from their adventure to the Demon Realm. The trailer isn’t even a minute long, but it included enough hints [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598383/dragon-ball-z-kakarot-is-getting-the-first-half-of-daima-in-its-next-dlc>
+
+---
+
+## Sega’s finally got some Virtua Fighter (6?) news coming
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Well, well, well… it appears Sega has finally decided to bless us with new Virtua Fighter information. On Friday, the company announced that a new Virtua Fighter Direct presentation is scheduled for Sunday, May 11 (the final day of Evo Japan), and will be broadcast on Sega’s official Virtua Fighter YouTube channels. Sega said it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598348/virtua-fighter-6-vf-direct-evo-japan-sega>
+
+---
+
+## Pope Leo confirmed as casual gamer
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Pope Leo XIV, also known as Robert Francis Prevost, has had a busy week. He got confirmed as the newest pope of the Catholic Church, for instance. But we’ve also learned that the Chicago native is a confirmed White Sox fan and a lover of America’s favorite word game: Wordle. The 69-year-old appointee’s brother John [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598349/pope-leo-confirmed-casual-gamer-wordle>
+
+---
+
+## Peacemaker season 2 has a big Superman connection and… a second Peacemaker
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Peacemaker season 2 is coming to Max on Aug. 21, DC Studios announced Friday, and a new trailer for the best live-action DC superhero show ever made is hinting at big things to come. That includes appearances from Nathan Fillion’s Guy Gardner, Isabell Merced’s Hawkgirl, and Sean Gunn’s Maxwell Lord. Those three will be a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/598341/peacemaker-season-2-release-date-trailer>
+
+---
+
+## Clair Obscur: Expedition 33’s first patch nerfs Maelle
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Sandfall Interactive announced Thursday that Clair Obscur: Expedition 33’s multi-billion-damage Maelle builds are ending. The 1.2.3 patch notes are filled with other bug fixes and scaling adjustments, but the Stendhal ability’s whopping 40% damage nerf is stealing the show. In a post on X (formerly Twitter), Sandfall explained the reasoning for the change, with replies [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598287/clair-obscur-expedition-33-nerfs-maelle-stendhal-patch>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-09 08:46:08
+updated: 2025-05-09 14:08:02
 ---
 
 # motorcycles
 
-(date: 2025-05-09 08:46:08)
+(date: 2025-05-09 14:08:02)
+
+---
+
+## Honda's CB125F Gets an Update and a Facelift, Key Rider Upgrades
+
+date: 2025-05-09, from: Ride Apart, Electric Motorcycle News
+
+Team Red heard you like commuting, so it made this little workhorse even stronger. 
+
+<br> 
+
+<https://www.rideapart.com/news/759022/honda-cb125f-2026-updates-europe/>
 
 ---
 

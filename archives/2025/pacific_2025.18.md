@@ -1,11 +1,62 @@
 ---
 title: pacific
-updated: 2025-05-09 08:46:02
+updated: 2025-05-09 14:07:59
 ---
 
 # pacific
 
-(date: 2025-05-09 08:46:02)
+(date: 2025-05-09 14:07:59)
+
+---
+
+## Todd named chair of House Finance Committee
+
+date: 2025-05-09, from: Hawaii Tribune Harold
+
+
+				<p>House Finance Chair Kyle Yamashita, who led the powerful House money committee for the last three Hawaii legislative sessions, has been replaced by Majority Caucus Leader Chris Todd of Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/09/hawaii-news/todd-named-chair-of-house-finance-committee/>
+
+---
+
+## 2025 legislative session recap and UH budget outcomes
+
+date: 2025-05-09, from: University of Hawaiʻi News
+
+<p>Kalbert Young, <abbr>UH</abbr> vice president for budget and finance and chief financial officer, shares his analysis of the concluded 2025 Legislative session.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/09/2025-legislative-session-recap-uh-budget/">2025 legislative session recap and <abbr>UH</abbr> budget outcomes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/09/2025-legislative-session-recap-uh-budget/>
+
+---
+
+## Trump names representative to 902 talks with CNMI
+
+date: 2025-05-09, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saipan -- President Donald Trump has named his representative to the Covenant consultation with the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/trump-names-representative-to-902-talks-with-cnmi>
+
+---
+
+## Huffman's tour of duty on Guam ends next week
+
+date: 2025-05-09, from: Pacific Island Times
+
+Officially launched in March 2024, Joint Task Force Micronesia serves as the nucleus of defense operations in the surrounding islands in Micronesia. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/huffman-s-tour-of-duty-on-guam-ends-next-week>
 
 ---
 

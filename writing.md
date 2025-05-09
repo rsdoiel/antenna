@@ -1,11 +1,49 @@
 ---
 title: writing
-updated: 2025-05-09 08:46:05
+updated: 2025-05-09 14:08:01
 ---
 
 # writing
 
-(date: 2025-05-09 08:46:05)
+(date: 2025-05-09 14:08:01)
+
+---
+
+## Carla Hayden removed as Librarian of Congress and what this could mean for authors
+
+date: 2025-05-09, from: Author's Union blog
+
+Last night a number of news outlets reported that President Trump had fired the Librarian of Congress, Carla Hayden. This [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/09/carla-hayden-removed-as-librarian-of-congress-and-what-this-could-mean-for-authors/>
+
+---
+
+## Upon a Starlit Tide by Kell Woods: Review by Paula Guran
+
+date: 2025-05-09, from: Locus Magazine
+
+<p><strong>Upon a Starlit Tide</strong>, Kell Woods (Tor 978-1-25085-251-9, $28.99, 432pp, hc) February 2025. Cover by Lindsey Carr.</p>
+<p>Lucinde ‘‘Luce’’ Léon, the adopted daughter of a wealthy ship owner and corsair, loves the sea. Her mother and two sisters are tra­ditionally oriented to social niceties and the goal of good marriages, but Luce yearns for a seafaring life of adventure – a desire that is impossible for a woman. Luce’s  <a href="https://locusmag.com/2025/05/upon-a-starlit-tide-by-kell-woods-review-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/upon-a-starlit-tide-by-kell-woods-review-by-paula-guran/>
+
+---
+
+## 2025 International Conference on the Fantastic in the Arts
+
+date: 2025-05-09, from: Locus Magazine
+
+<p></p>
+<p>The 46th International Conference on the Fantastic in the Arts (ICFA) took place March 19-22, 2025 at the Marriott Orlando Airport Hotel Lakeside, with the theme of ‘‘Night Terrors.’’ Academics, writers, publishers, editors, artists, students, independent scholars, and more participated in a weekend of conversation, papers, and events on the topic, with 363 guests attending (up from about 330 last year) and 160 people at the awards banquet. Silvia Moreno-Garcia  <a href="https://locusmag.com/2025/05/2025-international-conference-on-the-fantastic-in-the-arts/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-international-conference-on-the-fantastic-in-the-arts/>
 
 ---
 

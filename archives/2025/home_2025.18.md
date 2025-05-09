@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2025-05-09 08:46:07
+updated: 2025-05-09 14:08:02
 ---
 
 # home
 
-(date: 2025-05-09 08:46:07)
+(date: 2025-05-09 14:08:02)
+
+---
+
+## One Night in an Earth Dome Eco-Retreat on a Typhoon Superhighway
+
+date: 2025-05-09, from: Dwell
+
+As a journalist who reports on the environment, when I heard about Kapusod—a southern Philippines getaway built to prove that natural materials can be comfortable and provide climate disaster resilience—I had to visit. 
+
+<br> 
+
+<https://www.dwell.com/article/one-night-in-an-earth-dome-eco-retreat-on-a-typhoon-superhighway-dd7d4d11>
+
+---
+
+## Choosing the Right Drywall Anchor: A Complete Guide
+
+date: 2025-05-09, from: Family Handyman Blog
+
+<p>Learn the key differences between drywall anchors, so you can choose the strongest, safest option for your next project.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/types-of-drywall-anchors/">Choosing the Right Drywall Anchor: A Complete Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/types-of-drywall-anchors/>
+
+---
+
+## This Wild $1.3M North Carolina Home Is Buried Beneath the Earth
+
+date: 2025-05-09, from: Dwell
+
+The bunker-like dwelling has reinforced concrete walls—tempered with midcentury-inspired interiors and a grassy rooftop with a massive skylight. 
+
+<br> 
+
+<https://www.dwell.com/article/underground-earth-home-richard-webster-asheville-north-carolina-real-estate-1bab9a9a>
+
+---
+
+## There’s No Front Door at This Family Home Outside Barcelona
+
+date: 2025-05-09, from: Dwell
+
+The brick residence has several entries placed around the perimeter, and is heated only via a woodburning stove and the sun. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-gj-alventosa-morell-arquitectes-f6287528>
+
+---
+
+## Understanding Pear Tree Chill Hours
+
+date: 2025-05-09, from: The Gardener's Path
+
+<p>Pear trees evolved in regions with cold winters and need a period of cold weather to break dormancy and produce fruit. This requirement is known as "chill hours" and it varies from 150 to 1,000 hours below 45°F depending on the variety. Learn about pear tree chilling requirements in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit-trees/pear-chill-hours/">Understanding Pear Tree Chill Hours</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit-trees/pear-chill-hours/>
+
+---
+
+## Frank Lloyd Wright’s Hollyhock House May Close—and Everything Else You Need to Know About This Week
+
+date: 2025-05-09, from: Dwell
+
+Home builders are desperate to attract buyers, how creating more courtyards could keep families in cities, condo owners on billionaires’ row sue developers for $165 million, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-hollyhock-house-closure-billionaires-row-lawsuit-prefab-adu-e7e271e5>
+
+---
+
+## Why Carrots Crack: Tips for Preventing Split Roots
+
+date: 2025-05-09, from: The Gardener's Path
+
+<p>Whether you’re a home gardener or you hope to sell your harvest, growing “pretty produce” is hard. Many root vegetables may crack. But split carrots, while edible and usually delicious, are some of the worst offenders. Thankfully, this is easy to prevent through better moisture management and by making other changes.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/prevent-cracking-carrots/">Why Carrots Crack: Tips for Preventing Split Roots</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/prevent-cracking-carrots/>
 
 ---
 
@@ -20,6 +110,30 @@ date: 2025-05-09, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-chinese-lantern/>
+
+---
+
+## Craft Your Own Home Decor at These Pottery Studios Across the West
+
+date: 2025-05-09, from: Sunset Magazine - Living in the West
+
+Make your own home decor at these best pottery studios in the West that will let you throw, shape, and fire ceramic creations. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/best-pottery-studios-in-the-west>
+
+---
+
+## The Plants You Want in Your Garden During a Heatwave
+
+date: 2025-05-09, from: Sunset Magazine - Living in the West
+
+It's time to prep your garden for summer. These heat-tolerant and drought-tolerant plants will thrive on the hottest days. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/heat-and-drought-tolerant-plants>
 
 ---
 
@@ -828,18 +942,6 @@ date: 2025-05-06, from: Family Handyman Blog
 
 ---
 
-## Craft Your Own Home Decor at These Pottery Studios Across the West
-
-date: 2025-05-06, from: Sunset Magazine - Living in the West
-
-Make your own home decor at these best pottery studios in the West that will let you throw, shape, and fire ceramic creations. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/diy-projects/best-pottery-studios-in-the-west>
-
----
-
 ## Warning: This Native Vine Can Harm Your Dogs and Cats
 
 date: 2025-05-06, from: Family Handyman Blog
@@ -875,6 +977,18 @@ The midcentury home has an unusual geometric plan, a suite of built-in furniture
 <br> 
 
 <https://www.dwell.com/article/carmichael-house-ron-thom-vancouver-real-estate-a633fe7d>
+
+---
+
+## How They Pulled It Off: A Mother-Daughter Duo Take on an Adobe Renovation Headfirst
+
+date: 2025-05-06, from: Dwell
+
+It took a village to modernize the former home of Frank Lloyd Wright collaborator Marshall Erdman, all while preserving its unique character and expansive views. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-arizona-adobe-renovation-marvin-39148de7>
 
 ---
 
@@ -996,18 +1110,6 @@ date: 2025-05-05, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/do-you-need-a-phone-case/>
-
----
-
-## The Plants You Want in Your Garden During a Heatwave
-
-date: 2025-05-05, from: Sunset Magazine - Living in the West
-
-It's time to prep your garden for summer. These heat-tolerant and drought-tolerant plants will thrive on the hottest days. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/heat-and-drought-tolerant-plants>
 
 ---
 

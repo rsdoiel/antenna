@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-05-09 08:46:06
+updated: 2025-05-09 14:08:01
 ---
 
 # journalism
 
-(date: 2025-05-09 08:46:06)
+(date: 2025-05-09 14:08:01)
+
+---
+
+## Navigating Korea: K-Drama Filming Locations
+
+date: 2025-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/09/navigating-korea-k-drama-filming-locations/>
 
 ---
 

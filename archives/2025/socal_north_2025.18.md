@@ -1,11 +1,139 @@
 ---
 title: socal north
-updated: 2025-05-09 08:46:01
+updated: 2025-05-09 14:07:58
 ---
 
 # socal north
 
-(date: 2025-05-09 08:46:01)
+(date: 2025-05-09 14:07:58)
+
+---
+
+## Electric scooter rider killed when driver runs red light, Long Beach police say
+
+date: 2025-05-09, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The scooter rider was in a crosswalk at Atlantic Avenue and Artesia Boulevard, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/electric-scooter-rider-killed-when-driver-runs-red-light-long-beach-police-say">Electric scooter rider killed when driver runs red light, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/electric-scooter-rider-killed-when-driver-runs-red-light-long-beach-police-say>
+
+---
+
+## Measles math: What to know about 1,001 measles cases across the country
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+The CDC updated the numbers of measles cases in the country on Friday. Here's what they say and what it means for public health in the U.S. 
+
+<br> 
+
+<https://laist.com/news/health/measles-math-what-to-know-about-1-001-measles-cases-across-the-country>
+
+---
+
+## Former Supreme Court Justice David Souter dies at 85
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+Souter was appointed to the Supreme Court by President George H.W. Bush in 1990. He retired in 2009. 
+
+<br> 
+
+<https://laist.com/news/former-supreme-court-justice-david-souter-dies-at-85>
+
+---
+
+## Testing finds high lead levels in Eaton and Palisades fire burn zones
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+The most concerning levels are in Altadena, according to the company L.A. County hired to conduct the testing after the federal government opted not to test. However, it's unclear if the higher levels existed before the fires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/testing-finds-high-lead-levels-in-eaton-and-palisades-fire-burn-zones>
+
+---
+
+## LA homelessness agency to discuss appointing new leader
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+The current CEO announced her resignation on April 4, just days after L.A. County withdrew its funding. 
+
+<br> 
+
+<https://laist.com/news/lahsa-to-discuss-appointing-new-leader>
+
+---
+
+## Floods exposed weaknesses in California prisons’ emergency plans. They still aren’t ready
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+Earthquakes, wildfires and floods all could cause problems for California prisons. A new audit says they aren't ready to quickly evacuate prisoners. 
+
+<br> 
+
+<https://laist.com/news/politics/floods-exposed-weaknesses-in-california-prisons-emergency-plans>
+
+---
+
+## Rancho Palos Verdes has so many noisy peacocks that it's sending dozens to other parts of the state
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+The city has been managing the peafowl population for years in response to complaints about noise and property damage. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-relocating-peacocks>
+
+---
+
+## More, but not enough, Californians are accessing free money for college, career development
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+CalKIDS, the state program that deposits at least $500 into savings accounts for eligible students, has overcome some of the challenges affecting its awareness and access. 
+
+<br> 
+
+<https://laist.com/news/education/not-enough-californians-accessing-free-money-for-college-career>
+
+---
+
+## Students are triggering smoke alarms and evacuations with ‘Chromebook challenge’ spreading on TikTok, LBUSD says
+
+date: 2025-05-09, from: Longbeach Post
+
+<figure><img width="820" height="577" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT.jpg 820w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-300x211.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-768x540.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-153x108.jpg 153w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-400x281.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The prank involves jamming pins, paperclips or other items into laptop charging ports to spark a fire or send smoke wafting through the classroom.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-chromebook-challenge-tiktok-laptop-fire-smoke">Students are triggering smoke alarms and evacuations with ‘Chromebook challenge’ spreading on TikTok, LBUSD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-chromebook-challenge-tiktok-laptop-fire-smoke>
+
+---
+
+## Remaining Fun and Festive Themes for SENSES Block Party Revealed
+
+date: 2025-05-09, from: City of Santa Clarita
+
+<p>Ignite Your Senses and Experience the Energy with Live Music, Dancing and More Through September! The City of Santa Clarita is excited to announce the remaining SENSES Block Party themes through September! Join the fun on Main Street in Old Town Newhall from 7:00 to 10:00 p.m. on the third Thursday of each month for [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/09/remaining-fun-and-festive-themes-for-senses-block-party-revealed/">Remaining Fun and Festive Themes for SENSES Block Party Revealed</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/09/remaining-fun-and-festive-themes-for-senses-block-party-revealed/>
 
 ---
 
@@ -25,7 +153,7 @@ Hundreds of thousands of Velella velella, more commonly known as by-the-wind-sai
 
 date: 2025-05-09, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A semi, a box truck and two sedans were significantly damaged in the crash Thursday night, they said.</p>
 <p>The post <a href="https://lbpost.com/news/one-killed-in-4-vehicle-crash-on-405-freeway-chp-says">One killed in 4-vehicle crash on 405 Freeway, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -48,18 +176,6 @@ A heat advisory kicks in at 10 a.m. today until 9 p.m. Saturday for most of Sout
 
 ---
 
-## Addiction is no joke. Margaret Cho wants to show that people in recovery should laugh anyway
-
-date: 2025-05-09, updated: 2025-05-09, from: The LAist
-
-The comedian who has been open about her addiction and recovery is headlining a fundraiser for Phoenix House, which offers treatment and prevention services. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/addiction-is-no-joke-margaret-cho-wants-to-show-that-people-in-recovery-should-laugh-anyway>
-
----
-
 ## Vibe check: This new Pasadena bakery is blowing up on TikTok
 
 date: 2025-05-09, updated: 2025-05-09, from: The LAist
@@ -69,6 +185,18 @@ BadAsh Bakes Bakery and Cafe is a big hit online. Patrons are saying the cookies
 <br> 
 
 <https://laist.com/news/food/badash-bakes-new-pasadena-bakery-blowing-up-on-tiktok>
+
+---
+
+## Addiction is no joke. Margaret Cho wants to show that people in recovery should laugh anyway
+
+date: 2025-05-09, updated: 2025-05-09, from: The LAist
+
+The comedian who has been open about her addiction and recovery is headlining a fundraiser for Phoenix House, which offers treatment and prevention services. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/addiction-is-no-joke-margaret-cho-wants-to-show-that-people-in-recovery-should-laugh-anyway>
 
 ---
 
@@ -160,7 +288,7 @@ Workers won better pay and benefits, but did not get all they were asking for.
 
 date: 2025-05-08, from: Longbeach Post
 
-<figure><img width="1024" height="482" src="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-470x221.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-768x362.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-970x456.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="482" src="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-470x221.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-768x362.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-970x456.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The land owned by Synergy Gas &#038; Oil has been used for decades as an active oil drilling site. Now it will be restored to natural coastal habitat.</p>
 <p>The post <a href="https://lbpost.com/news/place/wetlands-oil-restauration-east-long-beach-second-street">Long Beach is getting 156 acres of new wetlands; work begins to convert oil field into public space</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

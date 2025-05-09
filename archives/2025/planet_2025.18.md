@@ -1,11 +1,175 @@
 ---
 title: planet
-updated: 2025-05-09 08:45:59
+updated: 2025-05-09 14:07:57
 ---
 
 # planet
 
-(date: 2025-05-09 08:45:59)
+(date: 2025-05-09 14:07:57)
+
+---
+
+## Mexico suing Google over 'Gulf of America' name - leader
+
+date: 2025-05-09, from: RTÉ News
+
+Mexico has sued Google for changing the Gulf of Mexico's name to 'Gulf of America' for Google Maps users in the United States, President Claudia Sheinbaum has said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0509/1512071-mexico-google-gulf/>
+
+---
+
+## Munster Camogie defers Cork v Waterford over skortsgate
+
+date: 2025-05-09, from: RTÉ News
+
+The Munster senior camogie final between Cork and Waterford has been deferred, with Munster Camogie taking the action after both panels confirmed that they would wear shorts in the tie, in contravention of existing rules. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0509/1512072-munster-camogie-defers-cork-v-waterford-over-skortsgate/>
+
+---
+
+## Tributes paid as legal journalist O'Faolain dies aged 50
+
+date: 2025-05-09, from: RTÉ News
+
+Tributes have been paid to legal journalist Aodhan O'Faolain, who reported on High Court, Appeal Court and Supreme Court cases for almost all national news organisations, and who has died at the age of 50. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0509/1512069-tributes-paid-as-legal-journalist-ofaolain-dies-aged-50/>
+
+---
+
+## Behind the Story: The good, the bad, and the AI
+
+date: 2025-05-09, from: RTÉ News
+
+This week the Government published new AI guidelines for the public sector, which got David, Katie, and Fran thinking about the tech's rapid growth. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1512041-behind-the-story-ai/>
+
+---
+
+## US judge orders release of detained Turkish student
+
+date: 2025-05-09, from: RTÉ News
+
+A US judge has ordered the release of a Turkish student detained by federal agents as part of President Donald Trump's crackdown on pro-Palestinian campus activism. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0509/1512066-us-rumeysa-ozturk/>
+
+---
+
+## Father faked photos of hurt baby, grandmother tells court
+
+date: 2025-05-09, from: RTÉ News
+
+The grandmother of a five-month-old girl who was hospitalised with serious injuries has told a court that the father of the child faked photographs which he alleges show that the infant sustained bruises while being minded by her. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0509/1512060-baby-injuries-court/>
+
+---
+
+## URC recap: Munster 38-20 Ulster
+
+date: 2025-05-09, from: RTÉ News
+
+Relive all the action from Thomond Park as Munster hosted Ulster in a crucial BKT URC derby. 
+
+<br> 
+
+<https://www.rte.ie/sport/united-rugby-championship/2025/0509/1511957-urc-munster-v-ulster-updates/>
+
+---
+
+## 'Commitment' from EBU for talks on Israel in Eurovision
+
+date: 2025-05-09, from: RTÉ News
+
+RTÉ has said that there is a "commitment" from the European Broadcasting Union to have a "wider discussion" amongst the union's members on Israel's inclusion in this year's Eurovision Song Contest. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0509/1512054-commitment-from-ebu-for-talks-on-israel-in-eurovision/>
+
+---
+
+## Tánaiste meets with TikTok CEO
+
+date: 2025-05-09, from: RTÉ News
+
+Tánaiste Simon Harris has held a meeting with the CEO of video-sharing platform TikTok Shou Zi Chew. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0509/1512051-tanaiste-meets-with-tiktok-ceo/>
+
+---
+
+## Ugandan Catholics celebrate first thanksgiving Mass for Pope Leo XIV
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>Catholics in Kampala Archdiocese, Uganda, joined the global Church in celebrating the election of Pope Leo XIV with a special thanksgiving Mass held at Lugaba Cathedral.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/ugandan-catholics-celebrate-first-thanksgiving-mass-for-pope-leo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/ugandan-catholics-celebrate-first-thanksgiving-mass-for-pope-leo.html>
+
+---
+
+## Metropolitan Gudziak:  Pope Leo XIV is a shepherd who speaks to us all
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>Welcoming Pope Leo XIV's election, fellow American and leader of the Ukrainian Catholic Archeparchy of Philadelphia recalls that the newly elected Pope once studied theology at Villanova University in Pennsylvania and expresses his view that he is a pastor and a theologian. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/borys-gudziak-welcomes-pope-leo-xiv-ukrainian-catholic-archeparc.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/borys-gudziak-welcomes-pope-leo-xiv-ukrainian-catholic-archeparc.html>
+
+---
+
+## Man jailed for driving at ex-partner's new boyfriend
+
+date: 2025-05-09, from: RTÉ News
+
+A man has been jailed for three years for driving at his ex-partner's new boyfriend, causing him to be thrown into the air. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0509/1512038-jason-buckley-court/>
+
+---
+
+## Judge orders release of Tufts student detained by U.S. immigration for op-ed on Gaza
+
+date: 2025-05-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531304.1746813165!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tufts.JPG' alt='A woman smiles at the camera' width='620' height='349' title='Rumeysa Ozturk, a Turkish doctoral student at Tufts University in Somerville, Massachusetts, poses in an undated photograph provided by her family and obtained by Reuters on March 29, 2025. '/><p>A federal judge ordered the Trump administration on Friday to release a Tufts University student from Turkey who has been held for over six weeks in a Louisiana immigration detention facility after she co-wrote an opinion piece criticizing her school's response to Israel's war in Gaza.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tufts-student-immigration-1.7531299?cmp=rss>
 
 ---
 
@@ -21,6 +185,22 @@ A 21-year-old man who manipulated, coerced and blackmailed more than a dozen vic
 
 ---
 
+## Catholic leaders react to election of Pope Leo XIV
+
+date: 2025-05-09, from: Vatican News
+
+
+                    <p>Church leaders and Catholic organisations worldwide have welcomed Pope Leo XIV’s election with joy, highlighting his commitment to peace, humility, and care for the vulnerable.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/reactions-pour-in-following-the-election-of-pope-leo-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/reactions-pour-in-following-the-election-of-pope-leo-xiv.html>
+
+---
+
 ## ⓜ Full Moon-th Meetup with Bob Trembley – May 12, 2025
 
 date: 2025-05-09, from: Vatican Obervatory
@@ -33,7 +213,19 @@ Join us on Mon. May 12h for a chat with Bob Trembley - Factotum for the Vatican 
 
 ---
 
-## Legal dispute over permits delays Sceilg Mhichíl opening
+## Newark air traffic controllers briefly lose radar for 2nd time in 2 weeks
+
+date: 2025-05-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531333.1746813887!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-airlines-new-jersey.JPG' alt='Planes seen on a tarmac.' width='620' height='349' title='United Airlines planes are seen at the tarmac at Newark International Airport in Newark, New Jersey, U.S., May 7, 2025. REUTERS/Eduardo Munoz'/><p>The air traffic controllers directing planes into the airport in Newark, N.J., lost their radar Friday morning for the second time in two weeks.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/newark-radar-lost-1.7531300?cmp=rss>
+
+---
+
+## Sceilg Mhichíl not open at weekend amid permits dispute
 
 date: 2025-05-09, from: RTÉ News
 
@@ -85,6 +277,18 @@ A man has been taken to hospital with serious injuries following a machete attac
 
 ---
 
+## Man has three fingers cut off in attack linked to feud
+
+date: 2025-05-09, from: RTÉ News
+
+A man has been taken to hospital with serious injuries following a machete attack in west Dublin today. 
+
+<br> 
+
+<https://www.rte.ie/news/crime/2025/0509/1512003-man-has-three-fingers-cut-off-in-dublin-machete-attack/>
+
+---
+
 ## Israel won't be involved in new Gaza aid plan - US envoy
 
 date: 2025-05-09, from: RTÉ News
@@ -94,6 +298,18 @@ A US-backed mechanism for distributing aid into Gaza should take effect soon, Wa
 <br> 
 
 <https://www.rte.ie/news/world/2025/0509/1511990-middle-east/>
+
+---
+
+## 3 First Nations chiefs warn Ontario's premier Treaty 9 lands are 'not for sale'
+
+date: 2025-05-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.4896178.1690478329!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/donny-morris.png' alt='A man seated at his desk.' width='620' height='349' title='Donny Morris is the chief of Kitchenuhmaykoosib Inninuwug.'/><p>Three Treaty 9 First Nations chiefs say they will challenge a proposed Ontario law to implement "special economic zones" to speed up development, if passed.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/bill-5-treaty-9-ontario-1.7528814?cmp=rss>
 
 ---
 
@@ -109,11 +325,11 @@ As concerns continue to grow about the proliferation of financial scams, fraud a
 
 ---
 
-## BBC programme lacked 'responsible journalism', court told
+## Sources corroborated Adams claim in BBC programme - court
 
 date: 2025-05-09, from: RTÉ News
 
-The High Court has heard that the BBC "did not meet the editorial thresholds of responsible journalism" in broadcasting the 2016 Spotlight programme at the centre of the defamation proceedings being taken by former Sinn Féin leader Gerry Adams. 
+The High Court has heard that five other sources corroborated allegations about Gerry Adams that were made by an anonymous contributor in the BBC programme at the centre of his defamation case. 
 
 <br> 
 
@@ -142,6 +358,18 @@ One of the most pressing issues facing Pope Leo XIV is tackling sexual abuse by 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0509/1511975-pope-leo-campaigners/>
+
+---
+
+## U.S. says Israel won't be involved in Gaza aid distribution
+
+date: 2025-05-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7530946.1746798009!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A girl reacts as Palestinians wait to receive food cooked by a charity kitchen.' width='620' height='349' title='A girl reacts, as Palestinians wait to receive food cooked by a charity kitchen, in Beit Lahia, northern Gaza Strip, May 8, 2025. REUTERS/Mahmoud Issa'/><p>A U.S.-backed mechanism for distributing aid into Gaza should take effect soon, Washington's ambassador to Israel said on Friday ahead of President Donald Trump's visit to the Middle East, but he gave few details.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/aid-distribution-gaza-israel-united-states-1.7530859?cmp=rss>
 
 ---
 
@@ -197,11 +425,11 @@ date: 2025-05-09, from: Vatican News
 
 ---
 
-## Satchwell told gardaí wife had threatened to leave him
+## Search dog found Satchwell remains under stairs - court
 
 date: 2025-05-09, from: RTÉ News
 
-Richard Satchwell told gardaí after his arrest on suspicion of murdering his wife that his wife's personality changed after her brother's suicide in 2012. 
+The trial of Richard Satchwell, who has denied murdering his wife Tina in Cork almost eight years ago, has heard her remains were discovered under the stairs in the couple's living room by a trained victim recovery search dog. 
 
 <br> 
 
@@ -246,6 +474,78 @@ Israel’s plan to take control of relief assistance in Gaza would put civilian 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163071>
+
+---
+
+## UN warns copper shortage risks slowing global energy and technology shift
+
+date: 2025-05-09, from: United Nations, Economic Development
+
+A looming global copper shortage could stall the world’s transition to clean energy and digital technologies unless smarter trade and investment strategies are adopted, the UN’s trade and development body, UNCTAD, has warned. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163111>
+
+---
+
+## World News in Brief: ‘Massive’ needs in Sudan, DR Congo aid shortfall, support for Congolese refugees and Angola cholera relief
+
+date: 2025-05-09, from: United Nations, Top Stories
+
+UN humanitarian teams have completed a mission to the Sudanese town of Tawila to provide life-saving assistance for civilians recently displaced by intensifying violence in North Darfur state. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163106>
+
+---
+
+## UNFPA calls on US to reconsider ban on future funding
+
+date: 2025-05-09, from: United Nations, Top Stories
+
+The United States’ decision to halt future funding to the UN sexual and reproductive health agency, UNFPA, will slash critical health services for women and girls worldwide, the agency warned on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163091>
+
+---
+
+## More than 50 million in West and Central Africa at risk of hunger
+
+date: 2025-05-09, from: United Nations, Top Stories
+
+The UN World Food Programme (WFP) has warned that millions of people in West and Central Africa are facing record hunger as conflict, displacement, economic hardship and repeated extreme weather push the region towards a major crisis.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163086>
+
+---
+
+## Costa Rica’s refugee lifeline at breaking point amid funding crisis
+
+date: 2025-05-09, from: United Nations, Top Stories
+
+Costa Rica’s long-standing commitment to protecting refugees is under threat as severe funding cuts cripple support for surging numbers of Nicaraguan asylum seekers, the UN refugee agency (UNHCR) warned on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163081>
+
+---
+
+## Haiti: Displaced families grapple with death ‘from the inside’ and out
+
+date: 2025-05-09, from: United Nations, Top Stories
+
+Shattered by her husband’s death during the rising tide of gang violence in Haiti last year, Christiana and her six children fled 223 kilometres from their hometown to the city of Mirebalais, where her six-year-old daughter, Leineda, began treatment for malnutrition. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163076>
 
 ---
 
@@ -437,11 +737,11 @@ A look back on Pope Leo XIV's first day as the new pontiff. The new Pope celebra
 
 ---
 
-## Tourists flee as India, Pakistan trade attack accusations
+## Blasts in Indian Kashmir, Amritsar as conflict escalates
 
 date: 2025-05-09, from: RTÉ News
 
-India and Pakistan have accused each other of launching drone and artillery attacks overnight into this morning, as tourists and villagers fled the third day of the worst fighting between the nuclear-armed neighbours in nearly three decades. 
+Blasts have rung out across Indian Kashmir and the Sikh holy city of Amritsar in neighbouring Punjab state, with the Indian military saying they were shooting down drones in the worst fighting with Pakistan in nearly three decades. 
 
 <br> 
 
@@ -470,6 +770,18 @@ An Australian woman accused of triple murder with a toxic mushroom-laced beef We
 <br> 
 
 <https://www.rte.ie/news/world/2025/0509/1511890-mushroom-murder-trial/>
+
+---
+
+## 'We need it here,' elder says after Peguis First Nation trust built daycare in Winnipeg suburb
+
+date: 2025-05-09, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7529199.1746651778!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aerial-view-of-peguis-daycare.jpg' alt='A drone image of a building surrounded by muddy undeveloped land.' width='620' height='349' title='An aerial view of the new Peguis First Nation daycare built in East St. Paul, two hours south by car from Peguis.'/><p>A daycare owned by an organization created to benefit Peguis First Nation promises dozens of new daycare spots for families when it opens its doors – but not for the First Nation in Manitoba's Interlake region, which is in dire need of child care.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/peguis-trust-daycare-east-st-paul-1.7529057?cmp=rss>
 
 ---
 
@@ -854,6 +1166,18 @@ date: 2025-05-08, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/entertainment/harvey-weinstein-trial-1.7530157?cmp=rss>
+
+---
+
+## 'We made it for Inuit': North of North creators thrilled to start work on new season
+
+date: 2025-05-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7412713.1746728767!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/north-of-north.JPG' alt='Five women pose for a photo on a red carpet ' width='620' height='349' title='From left to right: Stacey Aglok MacDonald, Maika Harper, Zorga Qaunaq, Anna Lambe and Alethea Arnaquq-Baril at the premiere of North of North in Iqaluit on Monday, Jan. 6, 2025.'/><p>Over eight episodes, the fictional hamlet of Ice Cove, Nunavut, brought audiences humour, culture and community — and there's more on the way, as Arctic comedy North of North is renewed for a second season. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/north-of-north-season-2-1.7529860?cmp=rss>
 
 ---
 
@@ -1369,7 +1693,7 @@ date: 2025-05-08, from: CBC, World News
 
 ---
 
-## India suspends Premier League cricket play as deadly exchanges with Pakistan continue
+## Blasts rock Indian Kashmir, Amritsar as Pakistan conflict escalates
 
 date: 2025-05-08, from: CBC, World News
 
@@ -2163,7 +2487,7 @@ Where you're born could be the difference between living over three decades long
 
 ## ‘Alarming’ slowdown in human development - could AI provide answers?
 
-date: 2025-05-06, from: United Nations, Top Stories
+date: 2025-05-06, from: United Nations, Economic Development
 
 The progress of human development – as measured by people’s freedoms and well-being – has remained sluggish since the major shock of the COVID-19 pandemic. A UN study released on Tuesday finds that used in the right way, artificial intelligence could be a powerful tool to improve millions of lives.&nbsp; 
 

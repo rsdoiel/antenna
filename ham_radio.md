@@ -1,11 +1,47 @@
 ---
 title: ham radio
-updated: 2025-05-09 08:46:02
+updated: 2025-05-09 14:07:59
 ---
 
 # ham radio
 
-(date: 2025-05-09 08:46:02)
+(date: 2025-05-09 14:07:59)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-05-09, from: Amateur Radio Relay League News
+
+<p>The Solar Geophysical Activity Report and Forecast from the<br />USAF/NOAA indicates that solar activity has been at low levels for<br />the past 24 hours.<br /><br />There are currently four numbered sunspot regions on the solar disk.<br />Solar activity is expected to be low with a chance for M-class<br />flares on May 10 and 11.<br /><br />A simultaneous filament eruption produced a narrow Coronal Mass<br />Ejection (CME) signature that was fir...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-13>
+
+---
+
+## Promote Your Club’s 2025 ARRL Field Day With Posters
+
+date: 2025-05-09, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/promote-your-club-s-2025-arrl-field-day-with-posters>
+
+---
+
+## Johns Hopkins University to Hold ARRL Teachers Institute
+
+date: 2025-05-09, from: Amateur Radio Relay League News
+
+<p>A session of the ARRL Teachers Institute on Wireless Technology (TI) is being hosted this summer by the Johns Hopkins University Applied Physics Lab in Laurel, Maryland. This marks the first time a major research university has hosted the ARRL program.</p><p>The TI program is expanding significantly in 2025. Already, an institute was held on Staten Island, New York, to mark the first regional session....</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/johns-hopkins-university-to-hold-arrl-teachers-institute>
 
 ---
 

@@ -1,11 +1,229 @@
 ---
 title: columns
-updated: 2025-05-09 08:46:04
+updated: 2025-05-09 14:08:00
 ---
 
 # columns
 
-(date: 2025-05-09 08:46:04)
+(date: 2025-05-09 14:08:00)
+
+---
+
+## My programmer friend
+
+date: 2025-05-09, from: Dave Winer's Scripting News
+
+<p>I have been writing the colorful saga of my sad depressed programmer friend on Facebook, and it was getting some interest from friends until I <a href="https://www.facebook.com/groups/1610208569758308">moved it into a group</a> and now no one reads it, which makes me sad and depressed too because the story of my programmer friend took an interesting turn after he maxed out on space, got a call from the NBA commisioner asking if he would mind officiating the Knicks two playoff games in Boston this last week. My friend, was of course quite sad and depressed, but he was also exhausted and bored, so he said yes. Here he is before the first of two games, which partially thanks to his officiating were near-blowouts for the Celtics, and thus the Knicks are up 2-0 heading into tomorrow's game in New York.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/09/sadFriendInBostonKnicksWinHaha.png"></center>Friend sadly officiating at the TD Garden in Boston.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/09/202442.html?title=myProgrammerFriend>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-09, from: Dave Winer's Scripting News)
+
+A big <a href="https://this.how/wordland/bookmarks.opml">update</a> for Bookmarks in the latest release of <a href="https://wordland.social/">WordLand</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/09.html#a201042>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-09, from: Dave Winer's Scripting News)
+
+I think the shape of the intellectual world will be vastly different after AI, and that its impact will overshadow the web as the web made card catalogs irrelevant. I'm pretty sure whatever comes next won't look very much like what we're using now, but it will probably evolve from what we have, although it's impossible to know. 
+
+<br> 
+
+<http://scripting.com/2025/05/09.html#a200309>
+
+---
+
+##  The help desk at Auburn University is still answering questions from the... 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046812-the-help-desk-at-auburn>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-09, from: Dave Winer's Scripting News)
+
+<a href="https://fightclubfor.tech/2025/05/09/hello-fight-club/">Fight Club for Tech</a> was a pet idea until I screwed something up and seemed to have lost control of it, but I just found it in the list of my WordPress sites, so I guess I can post to it again? 
+
+<br> 
+
+<http://scripting.com/2025/05/09.html#a195943>
+
+---
+
+##  I&#8217;d never seen this before: a thief does some stretches in the... 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046810-id-never-seen-this-before>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-09, from: Dave Winer's Scripting News)
+
+<a href="https://www.goodreads.com/quotes/21810-it-is-difficult-to-get-a-man-to-understand-something">Upton Sinclair</a>: “It is difficult to get a man to understand something, when his salary depends on his not understanding it.” 
+
+<br> 
+
+<http://scripting.com/2025/05/09.html#a191124>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/02/25/realMuffin.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We had the world conned into taking our “dollars” and giving us cars, food, nice vacations, drugs, a huge military, all kinds of manufactured stuff for nothing, and we thought they were ripping us off! So we blew it up. The would-be “Art Of The Con” mastermind undid the biggest con in history. 
+
+<br> 
+
+<http://scripting.com/2025/05/09.html#a185817>
+
+---
+
+## A new Lazarus arises – for the fourth time – for Pascal programming fans
+
+date: 2025-05-09, updated: 2025-05-09, from: Liam Proven's articles at the Register
+
+<h4>And if it&#39;s your first time around, there&#39;s a whole new free book on FreePascal</h4>
+      <p>Lazarus 4 is the latest version of the all-FOSS but Delphi-compatible IDE for the FreePascal compiler.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/09/new_lazarus_4/>
+
+---
+
+## Letter to Governor re: Right to Repair Bills
+
+date: 2025-05-09, from: Tracy Durnell Blog
+
+I saw EFF had a call to action for two Right to Repair bills that are on the Washington governor&#8217;s desk. They had a prewritten letter to sign onto, but since I have experience in the industry I decided to write my own through the direct contact form. I haven&#8217;t followed these particular bills but [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/09/letter-to-governor-re-right-to-repair-bills/>
+
+---
+
+##  A Visual Celebration of Miyazaki&#8217;s Weird Little Guys 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/a-visual-celebration-of-miyazakis-weird-little-guys>
+
+---
+
+## How Many Apps Used the Link-Out Policy That Apple Claims Complied With Judge Gonzales Rogers’s Original Anti-Steering Injunction?
+
+date: 2025-05-09, updated: 2025-05-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://appleinsider.com/articles/25/05/01/epic-vs-apple-what-apple-is-being-forced-to-do-to-the-app-store>
+
+---
+
+##  Bess Kalb: Hooray for Pills. &#8220;I hope you shut out the simplistic,... 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046805-bess-kalb-hooray-for-pill>
+
+---
+
+## Apple Files Emergency Motion to Pause ‘Extraordinary’ App Store Ruling on Anti-Steering Injunction
+
+date: 2025-05-09, updated: 2025-05-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/05/08/apple-appeals-app-store-ruling-epic-games/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-09, from: Dave Winer's Scripting News)
+
+The great thing about sports is that a lowly software developer can be richer than a fantastically rich team owner, if the developer's team is the Knicks.
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/09.html#a163956>
+
+---
+
+##  How to Be a Grown Up: The 14 Essential Skills You Didn’t... 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046816-how-to-be-a-grown>
+
+---
+
+## The latest Baseline theme
+
+date: 2025-05-09, from: Dave Winer's Scripting News
+
+<p>I have to say the latest <i>Baseline</i> theme looks great!</p>
+<p>Here's a <a href="https://daveverse.org/2025/05/09/an-invitation-from-wordland/">blog post</a> I just wrote, in the WordLand editor, and the writing experience was excellent. It took a long time and a lot of work to get it there, but it is there now. </p>
+<p>But as the post says, it's not just a blog post, it's also a tweet. And it's not a miracle, it's just endless iteration over both sides, the reading and writing, until it felt right. So far all that's visible is the writing side. But I know something about reading too, having written a number of feed readers over the years, including the first one. <span class="spOldSchoolEmoji">😄</span></p>
+<p>With Scott Hanson on one side of this effort and me on the other, him the developer, me the user (ie writer of blog posts and tweets) -- we wrestled with WordPress themes. I wanted a minimal design, a place to start -- which is why the theme is called Baseline. It's a Christmas Tree without any ornaments. None. A fresh start. </p>
+<p>There will be a release of this theme in a short while. I just wanted to boast a bit about what it can do.</p>
+<ul>
+<li><a href="https://imgs.scripting.com/2025/05/09/baselineExample.png">Screen shot</a> of the post rendered in Baseline theme.</li>
+<li>The <a href="https://daveverse.org/2025/05/09/an-invitation-from-wordland/">blog post</a> <a href="https://daveverse.org/2025/05/09/an-invitation-from-wordland/">viewed in the web</a>. </li>
+<li><a href="https://imgs.scripting.com/2025/05/09/wordlandEditor.png">Screen shot</a> of the post being edited in WordLand.</li>
+</ul>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/09/160323.html?title=theLatestBaselineTheme>
+
+---
+
+##  16-bit Intel 8088 Chip by Charles Bukowski 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/16-bit-intel-8088-chip-by-charles-bukowski>
 
 ---
 
@@ -13,7 +231,7 @@ updated: 2025-05-09 08:46:04
 
 date: 2025-05-09, from: Doc Searls (at Harvard), New Old Blog
 
-Too many? Probably. I&#39;m losing count of how many links I&#39;d like to share lead to paywalls or teasewalls (walls teasing a subscription that show up part way through a full read). 
+Stay Calm and Check it out. Pure libertarians are neither right nor left, nor where the extremes of both meet. Mostly they come from a sensibility outside both redstream and mainstream: one that PJ O&#39;Roarke put perfectly in Parliament of Whores: &#34;The Democrats are the party that says government will make you smarter, taller, richer, [&#8230;] 
 
 <br> 
 

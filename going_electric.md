@@ -1,11 +1,167 @@
 ---
 title: going electric
-updated: 2025-05-09 08:46:09
+updated: 2025-05-09 14:08:03
 ---
 
 # going electric
 
-(date: 2025-05-09 08:46:09)
+(date: 2025-05-09 14:08:03)
+
+---
+
+## Kia EV4 test drive reveals the good, the bad, and the ugly
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kia-EV4-low-cost-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can Kia’s first electric sedan live up to the hype? After launching the <a href="https://electrek.co/guides/kia-ev4/">EV4</a> in Korea, we are finally seeing it in action. A new test drive of the EV4 gives us a closer look at what to expect as Kia prepares to take it global. Here’s how it went down.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="415282" href="https://electrek.co/2025/05/09/kia-ev4-test-drive-reveals-good-bad-and-ugly/#more-415282" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/kia-ev4-test-drive-reveals-good-bad-and-ugly/>
+
+---
+
+## Podcast: Tesla Model Y RWD, Cybertruck bait-and-switch, Rivian earnings, and more
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla Model Y RWD in the US, Cybertruck bait-and-switch, Rivian earnings, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="415281" href="https://electrek.co/2025/05/09/podcast-tesla-model-y-rwd-cybertruck-bait-and-switch-rivian-earnings/#more-415281" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/podcast-tesla-model-y-rwd-cybertruck-bait-and-switch-rivian-earnings/>
+
+---
+
+## Hyundai’s 2026 IONIQ 9 EV lease and incentives just dropped – here’s what you’ll pay
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-IONIQ-9-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s <a href="https://electrek.co/guides/hyundai-ioniq-9/" target="_blank" rel="noreferrer noopener">2026 IONIQ 9 EV</a> is launching with a lease deal, affordable rates, and a big rebate, making the automaker’s largest EV a competitive choice.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="415257" href="https://electrek.co/2025/05/09/hyundai-2026-ioniq-9-ev-lease-incentives/#more-415257" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/hyundai-2026-ioniq-9-ev-lease-incentives/>
+
+---
+
+## Greenworks 80V STEALTH mini-bike at new $1,349 low, Exclusive $780 off refurbished Anker SOLIX F3800 station, ECOVACS, more
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Greenworks-80V-STEALTH-Electric-Mini-Bike.webp?w=1600" /></div><p>Closing out this week’s Green Deals, we have a bunch of new low prices, starting with the <a href="https://9to5toys.com/2025/05/09/greenworks-80v-mini-bike-new-1349-low/">Greenworks 80V STEALTH Electric Mini-Bike</a> that offers more expansive features than its e-bike counterparts and has dropped down to <a href="https://9to5toys.com/2025/05/09/greenworks-80v-mini-bike-new-1349-low/">$1,349</a>. Next, we have secured an exclusive $780 in savings on the <a href="https://9to5toys.com/2025/05/09/exclusive-refurbished-anker-solix-f3800-1899/">refurbished Anker SOLIX F3800</a> Portable Power Station in like-new condition for <a href="https://9to5toys.com/2025/05/09/exclusive-refurbished-anker-solix-f3800-1899/">$1,899</a>. From there, we spotted <a href="https://9to5toys.com/2025/05/09/ecovacs-goat-o1000-rtk-robot-new-850-low/">ECOVACS’ new Goat O1000</a> RTK Robot Lawn Mower falling to <a href="https://9to5toys.com/2025/05/09/ecovacs-goat-o1000-rtk-robot-new-850-low/">$850</a>, with some alternative manual e-mower options too. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/05/08/rad-powers-mothers-day-sale/">Rad Power Mother’s Day Sale</a> e-bike offers, the second phase of <a href="https://9to5toys.com/2025/05/08/ecoflow-delta-pro-3-2659-low-more/">EcoFlow’s Spring-to-Summer Sale</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="415266" href="https://electrek.co/2025/05/09/greenworks-stealth-mini-bike-exclusive-anker-solix-ecovacs-more/#more-415266" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/greenworks-stealth-mini-bike-exclusive-anker-solix-ecovacs-more/>
+
+---
+
+## Hyundai wants you to know: The 3-row IONIQ 9 is seriously spacious
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-IONIQ-9-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s first three-row electric SUV is finally here, and it’s even better than we expected. The <a href="https://electrek.co/guides/hyundai-ioniq-9/">IONIQ 9</a> arrives with “class-leading” interior space, up to 335 miles of range, and much more. Hyundai is showing off just how spacious the IONIQ 9 really is.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="415243" href="https://electrek.co/2025/05/09/hyundai-ioniq-9-seriously-spacious/#more-415243" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/hyundai-ioniq-9-seriously-spacious/>
+
+---
+
+## Why Western Automakers Desperately Need Help From China
+
+date: 2025-05-09, from: Inside EVs News
+
+China's technology moved so fast that one-time senior partners like GM and Volkswagen need help. What does it mean for the rest of us? 
+
+<br> 
+
+<https://insideevs.com/news/759103/china-shanghai-partnerships-audi-evs/>
+
+---
+
+## Here’s every used EV that qualifies for a $4,000 tax credit as of May 2025
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Used-EV-tax-credit.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ev-federal-tax-credit/">Federal tax credits</a> are starting to waver under the current administration, but as of May 2025, you can still take advantage of up to $4,000 off the purchase of a used EV. If you’d rather not listed to me talk, you can skip right to all the BEVs and PHEVs that currently qualify by <a href="https://electrek.co/2025/05/09/heres-every-used-ev-that-qualifies-for-a-4000-tax-credit-as-of-may-2025/#:~:text=These%20used%20EVs%20qualify%20for%20credits%20as%20of%20May%202025">clicking here</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-federal-tax-credit,tax-credit,used-ev-tax-credit" data-layer-viewtype="unknown" data-post-id="415109" href="https://electrek.co/2025/05/09/heres-every-used-ev-that-qualifies-for-a-4000-tax-credit-as-of-may-2025/#more-415109" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/heres-every-used-ev-that-qualifies-for-a-4000-tax-credit-as-of-may-2025/>
+
+---
+
+## Tesla (TSLA) shareholders get excited for ‘Tesla prototype’ that turn out to be a competitor’s
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-faraday-prototype.png?w=1600" /></div><p>Tesla (TSLA) shareholders were getting excited on social media about a “Tesla prototype” that turned out to be a competitor’s prototype vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="faraday-future,tesla" data-layer-viewtype="unknown" data-post-id="415147" href="https://electrek.co/2025/05/09/tesla-tsla-shareholders-excited-for-tesla-prototype-turn-competitors/#more-415147" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/tesla-tsla-shareholders-excited-for-tesla-prototype-turn-competitors/>
+
+---
+
+## Toyota’s sleek new C-HR+ electric SUV arrives in Norway with over 370 miles range
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Toyotas-new-electric-SUV-Norway-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The C-HR+ is <a href="https://electrek.co/guides/toyota/">Toyota’s</a> latest electric SUV to launch in Norway, where nearly all cars sold today are EVs. Toyota calls it “the perfect electric SUV for Norwegian roads,” with a spacious interior and up to 373 miles (600 km) driving range.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="415220" href="https://electrek.co/2025/05/09/toyotas-new-electric-suv-arrives-norway-with-370-miles-range/#more-415220" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/toyotas-new-electric-suv-arrives-norway-with-370-miles-range/>
+
+---
+
+## Lucid Air Gets Big Discounts For May, But Not Everyone Will Qualify
+
+date: 2025-05-09, from: Inside EVs News
+
+The American startup is serious about selling you a luxury electric sedan. 
+
+<br> 
+
+<https://insideevs.com/news/759126/lucid-air-ev-huge-discounts/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-09 08:46:08
+updated: 2025-05-09 14:08:03
 ---
 
 # retro computing
 
-(date: 2025-05-09 08:46:08)
+(date: 2025-05-09 14:08:03)
 
 ---
 
@@ -32,6 +32,18 @@ date: 2025-05-08, from: Computer History: Stores
 <br> 
 
 <https://computerhistory.org/stories/explorers-of-the-lost-computers/>
+
+---
+
+## Big Ben Club eXperience this weekend
+
+date: 2025-05-08, from: Icon Bar, RISC OS News
+
+The Big Ben club is running its regular show this weekend 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2201.html>
 
 ---
 
@@ -80,6 +92,18 @@ Time for some oldie levity.
 <br> 
 
 <https://computeradsfromthepast.substack.com/p/comics-from-198312-issue-of-videogaming>
+
+---
+
+## MouSTer and OpCoders Store
+
+date: 2025-05-08, from: C64 OS Blog
+
+ <img src='https://s3.amazonaws.com/com.c64os.resources/weblog/mouster/icon-mouster.jpg'> This is my first blog post of 2025. It's been a while, but I assure you, lots of stuff has been happening! The "Whats New!" page has been around since C64 OS v1.04 was released in June of 2023. The Whats New! page has taken the place of blog posts for stuff that's just news. What I'm doing right now, talking to you like I'm a human being, is a tone reserved for the blog. What's New! gives you updates on the latest software releases and other news in a succinct format but with a marketing or promotional tone. The welcome page also got some nice updates with a bold new header section that rotates through the top new things. As of this writing, it's rotating through announcements about: The release of C64 OS v1.07 The release of the new Image Search App, and The availability of mouSTer from OpCoders. And that last one is a main topic for this blog post. OpCoders Store C64OS.com has evolved over the years. In 2017, when I first created this site, it was all on one page. It eventually evolv. . .  
+
+<br> 
+
+<https://www.c64os.com/post/mouster>
 
 ---
 
@@ -510,7 +534,7 @@ Here I've simply mirrored the MacBook to my wife's Samsung secondary monitor. Th
 
 The Samsung doesn't support exactly the native resolution of the MacBook which is why it looks squashed, but you can see it correctly detected the model. How well does it perform? A good stress test is high-resolution video, which the manual warns you against because it would be choppy. We don't let manuals tell us what to do in this house. Manuals are suggestions. Manuals can sometimes be wrong. Let's play the <a href="http://www.macyourself.com/2008/11/13/grab-the-source-files-for-that-snazzy-leopard-welcome-video/">Snow Leopard welcome video</a> and prove it wrong. (The Snow Leopard welcome video has audio in a separate file, so this comparison movie has no sound.)
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz7RNypihCfk1sA9ITCTTx9TZ9OdEG0mfRAWMRvxEBZ0N3LPlRsU2daH1fT5qoJP36txc08EkAGBO4vfCbTBg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzVg2lW5Zpbs5MjdXKHNn-5BLLaYPfLqcXiXAwGrNyusvrvXg6gj6KhozfA7PN-Jyv0GzVOaBL7t63U-xBgjA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 And, well, the manual wasn't wrong. There is a slight but noticeable lag and there are many dropped frames of video on the mirrored side; the best that could be said is it's watchable. Think "playing YouTube videos over Microsoft Teams screen share" and that would be about right.
 

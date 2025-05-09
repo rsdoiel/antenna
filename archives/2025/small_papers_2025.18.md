@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-05-09 08:46:10
+updated: 2025-05-09 14:08:04
 ---
 
 # small papers
 
-(date: 2025-05-09 08:46:10)
+(date: 2025-05-09 14:08:04)
+
+---
+
+## Electric scooter rider killed when driver runs red light, Long Beach police say
+
+date: 2025-05-09, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The scooter rider was in a crosswalk at Atlantic Avenue and Artesia Boulevard, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/electric-scooter-rider-killed-when-driver-runs-red-light-long-beach-police-say">Electric scooter rider killed when driver runs red light, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/electric-scooter-rider-killed-when-driver-runs-red-light-long-beach-police-say>
+
+---
+
+## Students are triggering smoke alarms and evacuations with ‘Chromebook challenge’ spreading on TikTok, LBUSD says
+
+date: 2025-05-09, from: Long Beach Post
+
+<figure><img width="820" height="577" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT.jpg 820w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-300x211.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-768x540.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-153x108.jpg 153w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09093619/0409-internet-2-1107x1024-205804-ii161jfw-218730-E7N7XRkT-400x281.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The prank involves jamming pins, paperclips or other items into laptop charging ports to spark a fire or send smoke wafting through the classroom.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-chromebook-challenge-tiktok-laptop-fire-smoke">Students are triggering smoke alarms and evacuations with ‘Chromebook challenge’ spreading on TikTok, LBUSD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-chromebook-challenge-tiktok-laptop-fire-smoke>
 
 ---
 
@@ -13,7 +43,7 @@ updated: 2025-05-09 08:46:10
 
 date: 2025-05-09, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A semi, a box truck and two sedans were significantly damaged in the crash Thursday night, they said.</p>
 <p>The post <a href="https://lbpost.com/news/one-killed-in-4-vehicle-crash-on-405-freeway-chp-says">One killed in 4-vehicle crash on 405 Freeway, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +58,7 @@ date: 2025-05-09, from: Long Beach Post
 
 date: 2025-05-08, from: Long Beach Post
 
-<figure><img width="1024" height="482" src="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-470x221.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-768x362.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-970x456.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="482" src="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-470x221.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-768x362.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/12/10142622/1207-OilFields-65-970x456.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The land owned by Synergy Gas &#038; Oil has been used for decades as an active oil drilling site. Now it will be restored to natural coastal habitat.</p>
 <p>The post <a href="https://lbpost.com/news/place/wetlands-oil-restauration-east-long-beach-second-street">Long Beach is getting 156 acres of new wetlands; work begins to convert oil field into public space</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

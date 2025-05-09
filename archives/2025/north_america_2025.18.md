@@ -1,11 +1,99 @@
 ---
 title: north america
-updated: 2025-05-09 08:46:00
+updated: 2025-05-09 14:07:58
 ---
 
 # north america
 
-(date: 2025-05-09 08:46:00)
+(date: 2025-05-09 14:07:58)
+
+---
+
+## Everyday (Fabulous) French Bread
+
+date: 2025-05-09, from: The Contrarian
+
+Give us this day... 
+
+<br> 
+
+<https://contrarian.substack.com/p/everyday-fabulous-french-bread>
+
+---
+
+## The Democracy Index 
+
+date: 2025-05-09, from: The Contrarian
+
+May 9, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-563>
+
+---
+
+## The tariff bouquet
+
+date: 2025-05-09, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-tariff-bouquet>
+
+---
+
+## Trump's policies hurt rural America: Jess Piper explains 
+
+date: 2025-05-09, from: The Contrarian
+
+"Nobody was talking to the really rural spaces. And so that's why I did it." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163135515/b15c424ff88a6724ef3011a0d1a9407e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163135515/b15c424ff88a6724ef3011a0d1a9407e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trumps-policies-hurt-rural-america>
+
+---
+
+## The Ravens and 'football decisions': It's time to be clear
+
+date: 2025-05-09, from: The Contrarian
+
+The NFL has a long history of turning a blind eye to allegations of sexual misconduct. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-ravens-and-football-decisions>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-09, from: The Contrarian
+
+Friday: The kids speak out, Kristi Noem meets resistance in Illinois, a New Zealand protest for fair pay, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## ‘We Are in a Moment of Unparalleled Peril’: An Interview With Naomi Klein
+
+date: 2025-05-09, from: Capital and Main
+
+<p>The author and academic spoke with Capital &#038; Main about an apocalyptic future and strategies for survival.</p>
+<p>The post <a href="https://capitalandmain.com/we-are-in-a-moment-of-unparalleled-peril-an-interview-with-naomi-klein">‘We Are in a Moment of Unparalleled Peril’: An Interview With Naomi Klein</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/we-are-in-a-moment-of-unparalleled-peril-an-interview-with-naomi-klein>
 
 ---
 
@@ -242,18 +330,6 @@ A recording from Coffee with The Contrarians LIVE 05/08
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-the-contrarians-0508>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-08, from: The Contrarian
-
-Thursday: Preparing for a Mother's Day protest, weekly protests in California, and No Kings Day on June 14, plus protests in Turkey and Georgia continue, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

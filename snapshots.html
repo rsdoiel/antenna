@@ -28,7 +28,257 @@
 Items collected from feeds in <a href="snapshots.txt">snapshots.txt</a>
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-05-09 08:46:11)</p>
+<p>(date: 2025-05-09 14:08:05)</p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-09, from: Dave Winer’s linkblog)</p>
+<p>This 2011 piece about apps vs the web just came up in a thread on
+Mastodon. Quite a throwback. Apps did win, I was wrong. I wish I had
+been right though. ;-)</p>
+<p><br></p>
+<p><a
+href="https://www.technologyreview.com/2011/12/15/257042/detente-in-war-between-apps-and-web/"
+class="uri">https://www.technologyreview.com/2011/12/15/257042/detente-in-war-between-apps-and-web/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-09, from: Dave Winer’s linkblog)</p>
+<p>Tesla shareholders get excited for 'Tesla prototype' that turn out to
+be a competitor's.</p>
+<p><br></p>
+<p><a
+href="https://electrek.co/2025/05/09/tesla-tsla-shareholders-excited-for-tesla-prototype-turn-competitors/"
+class="uri">https://electrek.co/2025/05/09/tesla-tsla-shareholders-excited-for-tesla-prototype-turn-competitors/</a></p>
+<hr />
+<h2 id="llm--f-issue--m-echo-no-log">llm -f issue:… -m echo –no-log</h2>
+<p>date: 2025-05-09, updated: 2025-05-09, from: Simon Willison’s
+Weblog</p>
+<p>
+I had some notes in a GitHub issue thread in a private repository that I
+wanted to export as Markdown. I realized that I could get them using a
+combination of several recent projects.
+</p>
+<p>
+Here’s what I ran:
+</p>
+<pre><code>export GITHUB_TOKEN="$(llm keys get github)"                                             
+llm -f issue:https://github.com/simonw/todos/issues/170 \
+  -m echo --no-log | jq .prompt -r &gt; notes.md
+</code></pre>
+<p>
+I have a GitHub personal access token stored in my LLM keys, for use
+with Anthony Shaw’s
+<a href="https://github.com/tonybaloney/llm-github-models">llm-github-models</a>
+plugin.
+</p>
+<p>
+My own
+<a href="https://github.com/simonw/llm-fragments-github">llm-fragments-github</a>
+plugin expects an optional <code>GITHUB_TOKEN</code> environment
+variable, so I set that first - here’s
+<a href="https://github.com/simonw/llm-fragments-github/issues/11">an
+issue</a> to have it use the <code>github</code> key instead.
+</p>
+<p>
+With that set, the <code>issue:</code> fragment loader can take a URL to
+a private GitHub issue thread and load it via the API using the token,
+then concatenate the comments together as Markdown. Here’s
+<a href="https://github.com/simonw/llm-fragments-github/blob/87555488805ffc973b5fb45aa51eac83be2c839f/llm_fragments_github.py#L92-L126">the
+code for that</a>.
+</p>
+<p>
+Fragments are meant to be used as input to LLMs. I built a
+<a href="https://github.com/simonw/llm-echo">llm-echo</a> plugin
+recently which adds a fake LLM called “echo” which simply echos its
+input back out again.
+</p>
+<p>
+Adding <code>–no-log</code> prevents that junk data from being stored in
+my <a href="https://llm.datasette.io/en/stable/logging.html">LLM log
+database</a>.
+</p>
+<p>
+The output is JSON with a <code>“prompt”</code> key for the original
+prompt. I use <code>jq .prompt</code> to extract that out, then
+<code>-r</code> to get it as raw text (not a <code>“JSON
+string”</code>).
+</p>
+<p>
+… and I write the result to <code>notes.md</code>.
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/projects&quot;&gt;projects&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/plugins&quot;&gt;plugins&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/jq&quot;&gt;jq&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/github&quot;&gt;github&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/May/9/private-issues/#atom-everything"
+class="uri">https://simonwillison.net/2025/May/9/private-issues/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-05-09, from: Feed for Alt USDS)</p>
+<p>Have questions about vaccines and how they are tested? Look no
+further:</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.altgov.info/post/3lor3s3iigc2h"
+class="uri">https://bsky.app/profile/altusds.altgov.info/post/3lor3s3iigc2h</a></p>
+<hr />
+<h2
+id="carla-hayden-removed-as-librarian-of-congress-and-what-this-could-mean-for-authors">Carla
+Hayden removed as Librarian of Congress and what this could mean for
+authors</h2>
+<p>date: 2025-05-09, from: Authors Union blogs</p>
+<p>Last night a number of news outlets reported that President Trump had
+fired the Librarian of Congress, Carla Hayden. This […]</p>
+<p><br></p>
+<p><a
+href="https://www.authorsalliance.org/2025/05/09/carla-hayden-removed-as-librarian-of-congress-and-what-this-could-mean-for-authors/"
+class="uri">https://www.authorsalliance.org/2025/05/09/carla-hayden-removed-as-librarian-of-congress-and-what-this-could-mean-for-authors/</a></p>
+<hr />
+<h2
+id="pironman-5-max-turns-a-raspberry-pi-5-into-a-mini-tower-with-a-transparent-case-rgb-lighting-and-dual-nvme-ssd-support">Pironman
+5-MAX turns a Raspberry Pi 5 into a mini tower with a transparent case,
+RGB lighting, and dual NVMe SSD support</h2>
+<p>date: 2025-05-09, from: Liliputing</p>
+<p>
+The Pironman 5 case for the Raspberry Pi makes the single-board computer
+look like a tiny gaming PC, complete with a clear acrylic case, RGB
+lighting, and more. But As Ian discovered when he tested the case, it’s
+functional as well as funny looking: the case adds a layer of
+protection, enhanced cooling, and optional support for […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/pironman-5-max-turns-a-raspberry-pi-5-into-a-mini-tower-with-a-transparent-case-rgb-lighting-and-dual-nvme-ssd-support/">Pironman
+5-MAX turns a Raspberry Pi 5 into a mini tower with a transparent case,
+RGB lighting, and dual NVMe SSD support</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/pironman-5-max-turns-a-raspberry-pi-5-into-a-mini-tower-with-a-transparent-case-rgb-lighting-and-dual-nvme-ssd-support/"
+class="uri">https://liliputing.com/pironman-5-max-turns-a-raspberry-pi-5-into-a-mini-tower-with-a-transparent-case-rgb-lighting-and-dual-nvme-ssd-support/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-09, from: Dave Winer’s linkblog)</p>
+<p>When a government is out of control it’s time to say so.</p>
+<p><br></p>
+<p><a
+href="https://politicsusa46.substack.com/p/when-a-government-is-out-of-control?triedRedirect=true"
+class="uri">https://politicsusa46.substack.com/p/when-a-government-is-out-of-control?triedRedirect=true</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-09, from: Dave Winer’s linkblog)</p>
+<p>US will stop tracking the costs of extreme weather fueled by climate
+change.</p>
+<p><br></p>
+<p><a
+href="https://abcnews.go.com/US/wireStory/us-stop-tracking-costs-extreme-weather-fueled-climate-121612257"
+class="uri">https://abcnews.go.com/US/wireStory/us-stop-tracking-costs-extreme-weather-fueled-climate-121612257</a></p>
+<hr />
+<h2 id="allies-enable-whistleblowers">Allies Enable Whistleblowers</h2>
+<p>date: 2025-05-09, from: Guy Kawasaki blog</p>
+<p>Kate Kenny, Professor of Business and Society, University of
+Galway.</p>
+<p><br></p>
+<p><a
+href="https://guykawasaki.substack.com/p/allies-enable-whistleblowers"
+class="uri">https://guykawasaki.substack.com/p/allies-enable-whistleblowers</a></p>
+<hr />
+<h2
+id="huawei-introduces-its-first-laptop-running-harmonyos-rather-than-windows">Huawei
+introduces its first laptop running HarmonyOS rather than Windows</h2>
+<p>date: 2025-05-09, from: Liliputing</p>
+<p>
+Chinese consumer electronics company has been shipping smartphones and
+smart TVs powered by the company’s homegrown HarmonyOS software for the
+past few years. Now Huawei has introduced its first laptop that will
+ship with HarmonyOS rather than Windows. The move to develop its own
+operating system wasn’t entirely Huawei’s idea – the company has been
+[…]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/huawei-introduces-its-first-laptop-running-harmonyos-rather-than-windows/">Huawei
+introduces its first laptop running HarmonyOS rather than Windows</a>
+appeared first on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/huawei-introduces-its-first-laptop-running-harmonyos-rather-than-windows/"
+class="uri">https://liliputing.com/huawei-introduces-its-first-laptop-running-harmonyos-rather-than-windows/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-09, from: Dave Winer’s linkblog)</p>
+<p>"If it does end up being the Thunder and Knicks in the Finals, as
+great as the Knicks' story would be at that point, it would likely be a
+decisive Thunder victory in that series."</p>
+<p><br></p>
+<p><a
+href="https://www.foxsports.com/stories/nba/nba-finals-prediction-best-bet-thunder-knicks"
+class="uri">https://www.foxsports.com/stories/nba/nba-finals-prediction-best-bet-thunder-knicks</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-09, from: Dave Winer’s linkblog)</p>
+<p>It's a floor wax <em>and</em> a dessert topping.</p>
+<p><br></p>
+<p><a href="https://www.youtube.com/shorts/zOlhHakrKeE"
+class="uri">https://www.youtube.com/shorts/zOlhHakrKeE</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-05-09, from: Robert’s feed at
+BlueSky)</p>
+<p>👇well said.</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3loqsgfy7722i"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3loqsgfy7722i</a></p>
+<hr />
+<h2
+id="andor-recapitulación-2.07-2.08-y-2.09-messenger-who-are-you-welcome-to-the-rebellion">Andor
+(recapitulación 2.07, 2.08 y 2.09): Messenger, Who Are You?, Welcome to
+the Rebellion</h2>
+<p>date: 2025-05-09, from: Iván Paredes Reséndiz blog, Mexico’s
+cinema</p>
+<p>
+Disponible en: Disney+. Creador: Tony Gilroy. Dirección: Janus Metz.
+Guion: Dan Gilroy. Elenco: Diego Luna, Stellan Skarsgård, Genevieve
+O’Reilly, Denise Gough, Kyle Soller, Adria Arjona, Faye Marsay, Muhannad
+Bhaier, Elizabeth Dulau. Más información de la serie:
+https://www.imdb.com/title/tt9253284/ Episodios previos | Esta
+recapitulación contiene spoilers acumulados de Andor y Rogue One (Star
+Wars) Veredicto: Es difícil […]
+</p>
+<p>
+La entrada
+<a href="https://www.palomitademaiz.net/andor-recapitulacion-2-07-2-08-y-2-09n/">Andor
+(recapitulación 2.07, 2.08 y 2.09): Messenger, Who Are You?, Welcome to
+the Rebellion</a> se publicó primero en
+<a href="https://www.palomitademaiz.net">Palomita de maíz</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://www.palomitademaiz.net/andor-recapitulacion-2-07-2-08-y-2-09n/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=andor-recapitulacion-2-07-2-08-y-2-09n"
+class="uri">https://www.palomitademaiz.net/andor-recapitulacion-2-07-2-08-y-2-09n/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=andor-recapitulacion-2-07-2-08-y-2-09n</a></p>
+<hr />
+<h2 id="behind-the-blog-brainrot-and-brain-power-hours">Behind the Blog:
+Brainrot and Brain Power Hours</h2>
+<p>date: 2025-05-09, from: 404 Media Group</p>
+<p>This week, we discuss the death of Mr. Deepfakes, introducing kids to
+the Manosphere, and working on big, difficult, high-brain-power
+scoops.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/behind-the-blog-brainrot-and-brain-power-hours/"
+class="uri">https://www.404media.co/behind-the-blog-brainrot-and-brain-power-hours/</a></p>
+<hr />
+<h2 id="soup-to-nuts">Soup To Nuts</h2>
+<p>date: 2025-05-09, updated: 2025-05-09, from: Tedium site</p>
+<p>If we’re headed for a less-globalized technology industry, the
+desktop version of Huawei’s HarmonyOS offers an interesting preview.</p>
+<p><br></p>
+<p><a
+href="https://feed.tedium.co/link/15204/17026921/huawei-harmonyos-next-new-operating-system"
+class="uri">https://feed.tedium.co/link/15204/17026921/huawei-harmonyos-next-new-operating-system</a></p>
 <hr />
 <h2 id="brain-drain">Brain Drain</h2>
 <p>date: 2025-05-09, from: Prof. Scott Galloway, No Mercy/No Malace
@@ -236,14 +486,31 @@ Previously you needed to both explicitly configure the cache
 <em>and</em> pay a per-hour charge to keep that cache warm.
 </p>
 <p>
-<p>This new mechanism is so much more convenient! It imitates how both
+This new mechanism is so much more convenient! It imitates how both
 <a href="https://simonwillison.net/2024/Aug/14/deepseek-context-caching/">DeepSeek</a>
 and
 <a href="https://simonwillison.net/2024/Oct/2/not-digital-god/#prompt-caching-aka-the-big-price-drop">OpenAI</a>
 implement prompt caching, leaving Anthropic as the remaining large
 provider who require you to
 <a href="https://simonwillison.net/2024/Aug/14/prompt-caching-with-claude/">manually
-configure prompt caching</a> to get it to work.</p>
+configure prompt caching</a> to get it to work.
+</p>
+<p>
+Gemini’s explicit caching mechanism is still available.
+<a href="https://ai.google.dev/gemini-api/docs/caching">The
+documentation</a> says:
+</p>
+<blockquote>
+<p>
+Explicit caching is useful in cases where you want to guarantee cost
+savings, but with some added developer work.
+</p>
+</blockquote>
+<p>
+<p>With implicit caching the cost savings aren’t possible to predict in
+advance, especially since the cache timeout within which a prefix will
+be discounted isn’t described and presumably varies based on load and
+other circumstances outside of the developer’s control.</p>
 <pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/prompt-caching&quot;&gt;prompt-caching&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/gemini&quot;&gt;gemini&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/prompt-engineering&quot;&gt;prompt-engineering&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-pricing&quot;&gt;llm-pricing&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;&lt;/p&gt; </code></pre>
 <p><br></p>
 <p><a
