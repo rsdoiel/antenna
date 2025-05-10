@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-05-09 14:07:58
+updated: 2025-05-10 06:07:48
 ---
 
 # north america
 
-(date: 2025-05-09 14:07:58)
+(date: 2025-05-10 06:07:48)
+
+---
+
+## Evening Roundup, May 9
+
+date: 2025-05-09, from: The Contrarian
+
+Featuring Joseph Tom&#225;s McKellar & Jen; Shalise Manza Young; Andrew Weissmann & Jen; Allison Rice; Jess Piper & Jen; Democracy Index; Jamie Schler; Ruben Bolling; and our Contrarian Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-9>
+
+---
+
+## Judge Rules that Detained Tufts Student Must Be Released: Andrew Weissmann explains
+
+date: 2025-05-09, from: The Contrarian
+
+"There's a presumption of innocence, and you don't put people in jail unless there's a good reason that's proved by a certain level of proof" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163234194/c84bfd848c15659ba3c4cd6e2abfd3cc.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163234194/c84bfd848c15659ba3c4cd6e2abfd3cc.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/judge-rules-that-detained-tufts-student>
+
+---
+
+## Contrarian Pet of the Week 
+
+date: 2025-05-09, from: The Contrarian
+
+Meet Tulip! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-f9e>
 
 ---
 
@@ -800,4 +838,54 @@ date: 2025-05-04, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-105-days-but-whos-counting/>
+
+---
+
+## 100 Days of…Resistance!
+
+date: 2025-05-03, from: The Contrarian
+
+Publisher's RoundUp, 16 
+
+<br> 
+
+<https://contrarian.substack.com/p/100-days-ofresistance>
+
+---
+
+##  YOU LOVE TO SEE IT: Watt You Use Is Watt You Owe 
+
+date: 2025-05-03, from: The Lever News
+
+ A power player pays up, a city goes all in against sports betting, a soot-free train ride, and student visas get restored.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-watt-you-use-is-watt-you-owe/>
+
+---
+
+## The 100 Days Conference
+
+date: 2025-05-03, from: The Contrarian
+
+A recording from The Contrarian's live video 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-100-days-conference>
+
+---
+
+## Dan Toomey and Chuck Work on Trump's pick for US attorney for DC
+
+date: 2025-05-03, from: The Contrarian
+
+Trump&#8217;s controversial pick for U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162643384/aadfde621e34a9a1e7f256dfb4de1f38.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162643384/aadfde621e34a9a1e7f256dfb4de1f38.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/dan-toomey-and-chuck-work-on-trumps>
 

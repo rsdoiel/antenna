@@ -1,11 +1,85 @@
 ---
 title: columns
-updated: 2025-05-09 14:08:00
+updated: 2025-05-10 06:07:51
 ---
 
 # columns
 
-(date: 2025-05-09 14:08:00)
+(date: 2025-05-10 06:07:51)
+
+---
+
+## Catching up…
+
+date: 2025-05-09, from: John Naughton's online diary
+
+Apologies for intruding on your Saturday morning. Thank you for the messages wondering why my Observer columns had suddenly disappeared from this newsletter — and indeed apparently also from the Web. Some wondered darkly if it might have had something &#8230; <a href="https://memex.naughtons.org/catching-up-2/40804/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/catching-up-2/40804/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-09, from: Miguel de Icaza Mastondon feed)
+
+<p>I for one, welcome our new Chinese operating system overlords:  <a href="https://en.m.wikipedia.org/wiki/OpenHarmony" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">en.m.wikipedia.org/wiki/OpenHa</span><span class="invisible">rmony</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114480433480361598>
+
+---
+
+##  A streaming music translator: I Don&#8217;t Have Spotify. Paste a share link... 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046791-a-streaming-music-transla>
+
+---
+
+## May 8, 2025
+
+date: 2025-05-09, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163240607/d82b421e6b773cca8f609a988c6950b2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163240607/d82b421e6b773cca8f609a988c6950b2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-8-2025-75f>
+
+---
+
+## Friday Squid Blogging: Japanese Divers Video Giant Squid
+
+date: 2025-05-09, updated: 2025-04-17, from: Bruce Schneier blog
+
+<p>The <a href="https://www.youtube.com/watch?v=gZxGGQc_hRI">video</a> is <a href="https://a-z-animals.com/video/see-the-incredibly-rare-footage-of-a-live-giant-squid-swimming-on-the-ocean-surface/">really amazing</a>.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-japanese-divers-video-giant-squid.html>
+
+---
+
+##  A Real Life Version of Wallace & Gromit&#8217;s Breakfast Machine 
+
+date: 2025-05-09, updated: 2025-05-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/a-real-life-version-of-wallace-gromits-breakfast-machine>
 
 ---
 
@@ -1401,7 +1475,7 @@ date: 2025-05-06, from: Heather Cox Richardson blog
 
 ## Tim Sweeney Talks to Peter Kafka, Still Thinks Fortnite Is Coming Back to iOS This Week
 
-date: 2025-05-06, updated: 2025-05-06, from: Daring Fireball
+date: 2025-05-06, updated: 2025-05-09, from: Daring Fireball
 
  
 
@@ -2555,4 +2629,293 @@ I had thought to post a picture tonight and then realized that today was the 151
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/may-3-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I needed butter reinforcements</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446566440217614>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Making myself a low carb snack</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446547139513084>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I collect discord servers like I collect bookmarks.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446370704122238>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Swift Concurrency has been a bumpy business</p><p>But yesterday, there I was, minding my own thread and wrote some code backed by my 30 years of experience and Swift was having none of it</p><p>Took me a moment to realize that the compiler was right, fixed the flaw and moved on with life</p><p>Nice progression: from wasting weeks tracking an obscure race condition that rarely ever happens, to fighting the compiler for half an hour, to accepting my role as a meat-based LLM that writes thread safe code</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114446205671894351>
+
+---
+
+## 2025-04-27 Structural navigation
+
+date: 2025-05-03, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-27-structural-navigation">2025-04-27 Structural navigation</h1>
+
+<p>Sometimes my mind goes back to text editing and text editors. I have a love/hate relationship with ed(1). I kind of like the deliberate mindset I need to bring. But I also don’t like to think in terms of lines. Maybe if each sentence is a line, that’s better. But I often think about better semantic addressing.</p>
+
+<p>Example: <code>p</code> prints a range of line(s) is the standard. What I would also like is &ldquo;print a range of paragraph&rdquo;, &ldquo;print a range of sentences&rdquo;, &ldquo;print a range of words&rdquo;. There&rsquo;s a hierarchy, here. So once there&rsquo;s a &ldquo;current&rdquo; paragraph, you can list its sentences or its words. My hope is that this is more useful than working on lines.</p>
+
+<p>I’m still struggling to invent a command language, however. “Print paragraph. Next. Next. Number sentences. Third sentence. Replace this with that. Print paragraph.” I think this how I would work? “Last paragraph. Insert paragraph. Start typing.” Would that be <code>p p n 3s /this/that/ p</code> and <code>par $ i …</code> Effectively, <code>p</code> switches to paragraphs and prints them, and moves to the next one if used without a range. <code>n</code> numbers the items one level down. In this case, with a paragraph selected, <code>n</code> numbers the sentences. <code>s</code> switches to sentences and prints them. I&rsquo;m not sure about the search &amp; replace command. Is that also <code>s</code>?</p>
+
+<p>Should the data be kept in a tree? Should reading the text involve a real parser that delivers a sort of abstract syntax tree and names the nodes which automatically turn into commands?</p>
+
+<p>And then: should this be written in Perl? 😍</p>
+
+<p><a class="account" href="https://mastodon.acm.org/@mxp" title="@mxp@mastodon.acm.org">@mxp</a> said he had written «an Emacs interface to a syntactic parser», but I&rsquo;m not sure this is what I&rsquo;m looking for. A natural language parser (NLP) is maybe not what I&rsquo;m looking for. I suspect it would help avoid grammar mistakes, which makes sense to me. But is it what need as I write?</p>
+
+<p>He then pointed me at Engelbart&rsquo;s <a href="https://doi.org/10.1145/1476589.1476645">A research center for augmenting human intellect</a>. There, we find <a href="https://communitywiki.org/wiki/PurpleNumbers">purple numbers</a>:</p>
+
+<blockquote>
+<p>The principal manifestation of this hierarchical structure is the breaking up of text into arbitrary segments called &ldquo;statements,&rdquo; each of which bears a number showing its serial location in the text and its &ldquo;level&rdquo; in an &ldquo;outline&rdquo; of the text.</p>
+</blockquote>
+
+<p>I&rsquo;m not sure about the use of an outline. Many people seem to like outlines, but for me an outline as a writing tool is weird. I never start with an outline, except for cases where I know I need to follow a structure and even then the structure is usually trivial: Introduction, Materials and Methods, Results, Discussion, References, or something along these lines. A bunch of headings is all I need. Do I need an outline view? I agree that showing all the headings is important to navigate any non-trivial text document when you&rsquo;re reading and working with it. But if I focus on writing, the outline doesn&rsquo;t seem too important. It&rsquo;s too far &ldquo;up&rdquo; in the structure, for me.</p>
+
+<p><a class="account" href="https://mastodon.acm.org/@CerstinMahlow" title="@CerstinMahlow@mastodon.acm.org">@CerstinMahlow</a> wrote a position paper: <a href="https://doi.org/10.48550/arXiv.2303.17894">Writing Tools: Looking Back to Look Ahead</a> where she argues that «new writing tools should be inspired by &ldquo;failed&rdquo; projects from the 1970s and 1980s» and discusses the current state of affairs:</p>
+
+<blockquote>
+<p>One type of functionality that Mahlow and Piotrowski suggest are information functions that use NLP techniques to highlight certain aspects of the evolving text, commonly referred to as “syntax highlighting.” Since 2013, iA Writer has offered such a feature in a commercial product to specifically highlight nouns, verbs, adjectives, etc., advertising it as “using parts of speech to improve your writing” and explicitly stating that writers deserve the same professional support as programmers.</p>
+</blockquote>
+
+<p>This goes in a different direction, &ldquo;down&rdquo; to the grammar roles of words. Nouns, verbs, adjectives, adverbs. The problem is that when I write, I hardly ever worry about a particular verb. I never want to navigate to the accusative object of this sentence or focus on the subject. This is a very detailed view that I don&rsquo;t care about.</p>
+
+<p>The question is: What do I care about? Moving sentences around. Starting sentences between some other sentences and then realizing that I started at the wrong place and moving that fragments around. I think what I need is a prototype editor that I can start using and where I can easily add and remove functionality. And I&rsquo;m not sure that Emacs is the correct environment because there is so damn much to distract me.</p>
+
+<p><a class="tag" href="/search/?q=%23Editors">#Editors</a></p>
+
+<p><strong>2025-05-03</strong>. I wrote a little Perl script called <code>scr</code> that opens a bunch of files and allows me to navigate using p for paragraph, s for sentence and w for word. Typing the letter with an optional range:</p>
+
+<ul>
+<li>p prints the current paragraph, one sentence per line</li>
+<li>s prints the current sentence</li>
+<li>w prints the current word</li>
+</ul>
+
+<p>Use an address prefix like ed:</p>
+
+<ul>
+<li>a number prints the element with that number (currently zero indexed because I was lazy)</li>
+<li>$ prints the last element (the first one is 0 but the last one requires counting)</li>
+<li>plus and a number or minus and a number prints the element relative the current one (so +1p prints the next paragraph)</li>
+</ul>
+
+<p>Use address prefixes like ed:</p>
+
+<ul>
+<li>two such numbers separated by a comma prints the range (so 0,2s prints the first three sentences)</li>
+<li>if you use a comma but just one number the other number is replaced by the current address (so ,+2w prints the current word and the next two)</li>
+<li>if you use just the comma, this prints all the elements (so ,p is the same as 0,$p and prints the whole file)</li>
+</ul>
+
+<p>Currently whitespace is not significant:</p>
+
+<ul>
+<li>multiple whitespace characters collapse</li>
+<li>leading and trailing whitespace disappears</li>
+</ul>
+
+<p>Example, based on <a href="Warfare">Warfare</a>:</p>
+
+<pre style="white-space: pre-wrap">
+alex@subterraneobombus ~> scr Documents/Homepage/Warfare.md
+Read Documents/Homepage/Warfare.md
+
+<u>0 :</u> p
+# Warfare
+
+<u>0 0:</u> 1p
+Im Telepolis Artikel _Der Krieg wird zum Terroranschlag_ [¹](http://www.heise.de/tp/deutsch/special/irak/15069/1.html) steht, was mich auch schon im Fall von [Israel](Israel) graust: Auf blossen Verdacht hin werden Leute erschossen.
+Kein Gericht.
+Keine Verteidigung.
+Ein Geheimdiensturteil, und schon wird ein Auto beschossen, um irgendeinen Anführer zu töten.
+Dabei sterben Leibwächtern, Unbeteiligte, und wohlmöglich noch eine Frau oder ein Kind.
+Sowas kennt man aus Israel.
+Im Iraq ist man nun eine Stufe weiter.
+Man bombardiert Luxuslimousinen (die sicher irgendeinem Schuft gehören – aber haben er und _alle_ Insassen wirklich die Todesstrafe verdient?
+Gehört die nicht vielmehr abgeschafft?) – und nachher ist nicht mal klar, wenn man überhaupt _versucht_ hat zu töten.
+Unfassbar.
+
+<u>0 1:</u> 2s
+Keine Verteidigung.
+
+<u>0 1 2:</u> 0w
+Keine
+
+<u>0 1 2 0:</u> q
+</pre>
+
+<p>The prompt current prints file number, paragraph number, sentence number, word number.</p>
+
+<p>The example also shows problems handling parentheticals (or quote).</p>
+
+<p>I think before I can move on to insert or append operations, I need to further investigate navigation and selection. I&rsquo;d like to remember context, so 1p p should print paragraph number one and then the next one without me having to type +1p. Perhaps we can use a period for the current one. So .p prints the current paragraph again.</p>
+
+<p>I also think that a paragraph print should forget the sentence and word position. That currently doesn&rsquo;t happen.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-27-structural-navigation>
+
+---
+
+## May 2, 2025
+
+date: 2025-05-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162774545/9c868ebe07d3937652513c2260364df2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162774545/9c868ebe07d3937652513c2260364df2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-2-2025-bbd>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I enjoyed this piece I found on hacker news:</p><p><a href="https://250bpm.substack.com/p/accountability-sinks" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">250bpm.substack.com/p/accounta</span><span class="invisible">bility-sinks</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114445222466711302>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+The <a href="https://en.wikipedia.org/wiki/Detroit_Pistons">Detroit Psssstons</a> were truly great in the first round of the playoffs. And I was really gratified, ecstatic even, to see the Timberwolves give the Lakers a complete <a href="https://www.npr.org/2010/11/04/131075640/how-shellacking-came-to-mean-defeat">shellacking</a>. I am so fed up with LeBron James. I can't imagine another team would want him. I can't imagine why he wants to win <i>another</i> freaking title. And I was really pissed off when people started saying they were contenders this year. Bull. Shit. And the reason I'm glad it was the Timberwolves is because <a href="https://en.wikipedia.org/wiki/Julius_Randle">Julius Randle</a> is on that team now, and I hear he gets a fair amount of credit for their victory. The Knicks traded him for <a href="https://en.wikipedia.org/wiki/Karl-Anthony_Towns">KAT</a> last summer. They're a solid team. And while <a href="https://en.wikipedia.org/wiki/Donte_DiVincenzo">Donte DiVincenzo</a> isn't playing very well, we really need him back in NY, so maybe the Knicks can figure out a deal that makes sense. And why aren't the Knicks playing <a href="https://en.wikipedia.org/wiki/Precious_Achiuwa">Precious Achiuwa</a>. He did great last year when <a href="https://en.wikipedia.org/wiki/OG_Anunoby">OG</a> was injured. The Knicks have a good bench imho, they just don't get to play enough to be warmed up properly. So sad the way <a href="https://en.wikipedia.org/wiki/Miles_McBride">Doooooce</a> performed in the Detroit series. Anyway it was exhausting. I would have been okay with the DP's winning, seriously -- I'm ready for baseball. And I don't imagine the next series, with the Celtics will be any kind of a walk in the park. 
+
+<br> 
+
+<http://scripting.com/2025/05/03.html#a172021>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+Sometimes I think the Trumps are competing to kill the most humans. 
+
+<br> 
+
+<http://scripting.com/2025/05/03.html#a171739>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/03/rabbit.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today I spent (or wasted) hours trying to get my WebSockets code working properly with <a href="https://daytona.scripting.com/search?q=Caddy">Caddy</a>. Hours with ChatGPT, realizing it has a long way to go before it can manage code like I can. It gets fixated on an approach and never takes a step back to think maybe we're going about this the wrong way. It's extremely annoying all the times it tries to take you off track, and it works, it does take you down <a href="https://en.wikipedia.org/wiki/Down_the_rabbit_hole">rabbit holes</a> and then you realize it's only getting worse. The key is to not let it do that, but it's hard not to <a href="https://en.wikipedia.org/wiki/Anthropomorphism">anthropomorphize</a> so you don't want to hurt its feelings. In order to not be murdered as a small child you have to learn manners. And the bots push that too far. Really do take advantage. Still it knows far more than I do about everything, so if I could only get it to just shut the f up already and let me think! For something so capable it really doesn't spend enough time thinking, it's fully preoccupied with <i>doing.</i> 
+
+<br> 
+
+<http://scripting.com/2025/05/03.html#a171110>
+
+---
+
+## Ural Notes Part 7: This is Ural Life...
+
+date: 2025-05-03, updated: 2025-05-03, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/05/03/ural-notes-part-7-this-is-ural-life/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>One week in the second run, six days in review.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114444274889620287>
+
+---
+
+## On becoming living history
+
+date: 2025-05-03, from: Liam on Linux
+
+<p>It is one of the oddest things in computing that stuff to me, as a  big kid of heading for 60 years old but who still feels quite young and  enjoys learning and exploring, that the early history of Linux &ndash; a  development that came along mid-career for me &ndash; and indeed Unix, which  was taking shape when I was a child, is mysterious lost ancient history  now to those working in the field.</p> <p>It&rsquo;s not that long ago. It&rsquo;s well within living memory for lots of us <em>who are still working with it in full time employment.</em> Want to know why this command has that weird switch? Then go look up who wrote it and <em>ask him</em>. (And sadly yes there&rsquo;s a good chance it&rsquo;s a &ldquo;him&rdquo;.)</p> <p>Want to know why Windows command switches are one symbol and Unix  ones another? Go look at the OSes the guys who wrote them ran before.  They are a 2min Google away and emulators are FOSS. Just try them and  you can see what they learned from.</p> <p>This stuff isn&rsquo;t hieroglyphics. It&rsquo;s not carved on the walls of tombs deep underground.</p> <p>The reason that we have Snap and Flatpak and AppImage and macOS <code>.app</code> is all stuff that happened since I started my first job. I was there. So were thousands of others. I watched it take shape.</p> <p>But now, I write about how and why and I get shouted at by people who weren&rsquo;t even born yet. It&rsquo;s very odd.</p> <p>To me it looks like a lot of people spend thousands of  developer-hours flailing away trying to rewrite stuff that I deployed in  production in my 30s and they have no idea how it&rsquo;s supposed to work or  what they&rsquo;re trying to do. They&rsquo;re failing to copy a bad copy of a poor  imitation.</p> <p>Want to know how KDE 6 should have been? Run Windows 95 in VirtualBox  and see how the original worked! But no, instead, the team flops and  flails adding 86 more wheels to a bicycle and then they wonder why  people choose a poor-quality knock-off of a 2007 iPhone designed by  people who don&rsquo;t know why the iPhone works like that.</p> I am, for clarity, talking about GNOME &gt;3. And the iPhone runs a  cut down version of Mac OS X Tiger&rsquo;s &ldquo;Dashboard&rdquo; as its main UI.&nbsp;<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=95105" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/95105.html>
+
+---
+
+## Where will we go from here? | The Coffee Klatch for May 3, 2025
+
+date: 2025-05-03, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162728573/ed6f9479118eb9044bbf9ceeed82ecfb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/162728573/ed6f9479118eb9044bbf9ceeed82ecfb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/where-will-we-go-from-here-the-coffee>
+
+---
+
+## May 2, 2025 
+
+date: 2025-05-03, from: Heather Cox Richardson blog
+
+Yesterday I identified incorrectly the messaging app newly fired national security advisor Michael Waltz was using at a Cabinet meeting on Wednesday as the unsecure Signal app. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-2-2025>
+
+---
+
+## Weeknotes: April 26 – May 2, 2025
+
+date: 2025-05-03, from: Tracy Durnell Blog
+
+Highlight of the week: took a stroll around the block on a sunny afternoon and the whole neighborhood smelled of flowers Looking forward to: finding out how many of our apple blossoms got pollinated 😃 (Heard the ice cream truck for the first time of the year 🍦 &#8212; a cute tiny vintage jeep &#8212; though we [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/02/weeknotes-april-26-may-2-2025/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
+
+Spent the day in NYC, had an idea and it was a gorgeous day, and I decided to be impulsive. See you back here tomorrow, Murphy-willing. 
+
+<br> 
+
+<http://scripting.com/2025/05/02.html#a011110>
 

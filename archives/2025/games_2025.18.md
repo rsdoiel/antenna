@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-05-09 14:08:01
+updated: 2025-05-10 06:07:52
 ---
 
 # games
 
-(date: 2025-05-09 14:08:01)
+(date: 2025-05-10 06:07:52)
+
+---
+
+## Nintendo adds anti-arbitration clause to its EULA
+
+date: 2025-05-09, updated: 2025-05-09, from: Polygon Website
+
+Nintendo is making it harder for consumers to sue in its latest EULA update, which adds a class action waiver in section 16 that prohibits users from filing class action lawsuits against the company. Initially spotted on the Nintendo subreddit and later published by GamesRadar+, the new section of the agreement states: “This arbitration provision [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/598413/nintendo-switch-eula-lawsuit-class-action>
 
 ---
 
@@ -558,4 +570,28 @@ It can sometimes feel like Florence Pugh emerged into the world a full-formed mo
 <br> 
 
 <https://www.polygon.com/what-to-watch/567071/florence-pugh-horror-movie-malevolent-netflix>
+
+---
+
+## 10 fun misfit superhero team-up movies to watch after Thunderbolts*
+
+date: 2025-05-03, updated: 2025-05-04, from: Polygon Website
+
+The latest Marvel Cinematic Universe offering, Thunderbolts*, takes a different path than the rest of the franchise, assembling a misfit team of villains and former villains from the MCU’s roster to fight against overwhelming odds to save the world. That may seem reminiscent of Suicide Squad (because it is), but superhero movies boast a long [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/563793/movies-like-thunderbolts-superhero-team-ups-villains-misfits>
+
+---
+
+## Switch 2&#8217;s built-in storage can only fit four AAA games
+
+date: 2025-05-03, updated: 2025-05-03, from: Polygon Website
+
+Nintendo recently started taking pre-orders for Switch 2 games through its online store, coinciding with the opening of Switch 2 console pre-orders. Out of habit, I immediately scrolled to the “Game file size” section on each page to see how much storage each game will require. Some Switch 2 game file sizes are bigger than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/583421/switch-2-game-install-sizes-gb-storage-microsd-express>
 

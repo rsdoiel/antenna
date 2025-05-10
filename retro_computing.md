@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-09 14:08:03
+updated: 2025-05-10 06:07:55
 ---
 
 # retro computing
 
-(date: 2025-05-09 14:08:03)
+(date: 2025-05-10 06:07:55)
 
 ---
 
@@ -534,7 +534,7 @@ Here I've simply mirrored the MacBook to my wife's Samsung secondary monitor. Th
 
 The Samsung doesn't support exactly the native resolution of the MacBook which is why it looks squashed, but you can see it correctly detected the model. How well does it perform? A good stress test is high-resolution video, which the manual warns you against because it would be choppy. We don't let manuals tell us what to do in this house. Manuals are suggestions. Manuals can sometimes be wrong. Let's play the <a href="http://www.macyourself.com/2008/11/13/grab-the-source-files-for-that-snazzy-leopard-welcome-video/">Snow Leopard welcome video</a> and prove it wrong. (The Snow Leopard welcome video has audio in a separate file, so this comparison movie has no sound.)
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzVg2lW5Zpbs5MjdXKHNn-5BLLaYPfLqcXiXAwGrNyusvrvXg6gj6KhozfA7PN-Jyv0GzVOaBL7t63U-xBgjA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyHlE5PPEYsTkLZvgeDXpYpBCMzObgAz6KzgY-dbydzCY9utS_bqX80v-IPueQ5JSnTKS9pDzWQWIkWUqbxXA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 And, well, the manual wasn't wrong. There is a slight but noticeable lag and there are many dropped frames of video on the mirrored side; the best that could be said is it's watchable. Think "playing YouTube videos over Microsoft Teams screen share" and that would be about right.
 
@@ -637,4 +637,16 @@ Maybe <em>that's</em> the moral.
 <br> 
 
 <https://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html>
+
+---
+
+## b.log 2025/05/03 - Profit while you can, Car service, We need to talk about something.
+
+date: 2025-05-03, from: Richard Murray's blog
+
+Profit while you can, Car service, We need to talk about something. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250503>
 

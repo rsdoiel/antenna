@@ -1,11 +1,55 @@
 ---
 title: going electric
-updated: 2025-05-09 14:08:03
+updated: 2025-05-10 06:07:56
 ---
 
 # going electric
 
-(date: 2025-05-09 14:08:03)
+(date: 2025-05-10 06:07:56)
+
+---
+
+## Smart charging, real cash: Ava wants to pay EV drivers to plug in
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/ava-smarthome-charging-program.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Ava Community Energy just rolled out a new program in California that pays EV and plug-in hybrid drivers for charging their cars when electricity on the grid is cleaner and cheaper.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,egeb,energy-brief,ev-chargers,ev-charging,solar" data-layer-viewtype="unknown" data-post-id="415320" href="https://electrek.co/2025/05/09/ava-ev-drivers-smarthome-charging/#more-415320" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/ava-ev-drivers-smarthome-charging/>
+
+---
+
+## Even Tesla's Insurance Arm Is Getting Wrecked Right Now
+
+date: 2025-05-09, from: Inside EVs News
+
+Tesla is taking a bath on its insurance product. 
+
+<br> 
+
+<https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/>
+
+---
+
+## Jeep is teasing the new Grand Cherokee, but where’s the EV version of its best-selling SUV?
+
+date: 2025-05-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Jeep-Grand-Cherokee-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Grand Cherokee is due for a refresh, and we just got our first look at it. <a href="https://electrek.co/guides/jeep/">Jeep</a> claimed “the next chapter in the story of America’s best-selling full-size SUV begins” after releasing the first official images of the updated model. When will we see the Jeep Grand Cherokee as an EV?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="415307" href="https://electrek.co/2025/05/09/jeep-teases-new-grand-cherokee-ev/#more-415307" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/09/jeep-teases-new-grand-cherokee-ev/>
 
 ---
 
@@ -270,6 +314,10 @@ date: 2025-05-09, from: Electrek Feed
 date: 2025-05-09, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes the launch of the Lectric XP4 e-bike, a new set of RadRunners from Rad Power Bikes, California’s e-bike voucher program hits more hurdles, the effect of Trump tariffs on several e-bike and e-moto companies, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Wheel-E_89.mp3"></audio></figure>
 
 
 
@@ -1922,4 +1970,112 @@ date: 2025-05-04, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/05/03/e-quipment-highlight-kenworth-t880e-vocational-electric-semi-truck/>
+
+---
+
+## Xiaomi SU7 Ultra gets its groove back with all 1,548 hp available NOW
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/xiaomi-su7-ultra-m-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The tire-blistering SU7 Ultra has been the Xiaomi brand’s flagship super sedan since its launch, but a controversial software setting has limited the car to “just” 900 hp in regular driving – resulting in an outcry from owners who ponied up for the big boy numbers. With its latest software update, <strong>that missing 648 hp is back on tap</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,software-update,xiaomi" data-layer-viewtype="unknown" data-post-id="414178" href="https://electrek.co/2025/05/03/xiaomi-su7-ultra-gets-its-groove-back-with-all-1548-hp-available-now/#more-414178" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/xiaomi-su7-ultra-gets-its-groove-back-with-all-1548-hp-available-now/>
+
+---
+
+## Watch A Chevy Blazer EV SS Crush A Mountain-Climbing Range Test
+
+date: 2025-05-03, from: Inside EVs News
+
+The route included a 7,000-foot hill climb, which should decimate range. But it doesn't. 
+
+<br> 
+
+<https://insideevs.com/news/758467/chevy-blazer-ev-ss-mountain-range/>
+
+---
+
+## Tesla (TSLA) discounts new Model Y in the US, pointing to demand issues
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Model-Y-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has started offering reduced interest rates on the new Model Y in the US — this equates to a direct discount on the brand new vehicle that was supposed to spark Tesla’s demand back.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="414174" href="https://electrek.co/2025/05/03/tesla-tsla-discounts-new-model-y-us-demand-issues/#more-414174" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/tesla-tsla-discounts-new-model-y-us-demand-issues/>
+
+---
+
+## Major US electric bike brand announces response to tariffs
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/aventon-level-3-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>One of the largest electric bike brands in the US, Aventon, has recently shared several details about the company’s response to<a href="https://electrek.co/2025/04/10/trumps-massive-tariffs-and-sudden-backtrack-bring-chaos-to-e-bike-prices/"> US tariffs on imported goods</a>. The details reveal insight into how large e-bike makers are coping with the major disruption caused by the trade war launched by the Trump administration.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="413905" href="https://electrek.co/2025/05/03/major-us-electric-bike-brand-announces-response-to-tariffs/#more-413905" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/major-us-electric-bike-brand-announces-response-to-tariffs/>
+
+---
+
+## ABB brought its new, 1.2 MW electric semi truck charger to ACT Expo [update]
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/abb_new-main.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Capable of delivering up to 1,200 kW of power to get electric commercial trucks back on the road in minutes, the new <a href="https://electrek.co/2024/01/15/abb-man-announce-megawatt-charging-joint-rd-plan/">ABB MCS1200 Megawatt Charging System</a> is part of an ecosystem of electric vehicle supply equipment (EVSE) that ABB’s bringing to this year’s <a href="https://electrek.co/2025/05/01/act-expo-2025-one-step-forward-two-steps-back-for-clean-trucking-part-1/">ACT Expo</a>.</p>
+
+
+
+<p><strong>UPDATE 03MAY2025</strong>: ABB reads <em>Electrek</em> (see above).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,commercial-evs,electric-semi-truck,ev-charging" data-layer-viewtype="unknown" data-post-id="413022" href="https://electrek.co/2025/05/03/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/#more-413022" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/03/abb-is-bringing-its-new-1-2-mw-modular-truck-chargers-to-act-expo/>
+
+---
+
+## The Hyundai Ioniq 5 Is Eligible For The $7,500 Federal Tax Credit Again
+
+date: 2025-05-03, from: Inside EVs News
+
+Customers of the American-made EV won't have to go down the leasing route anymore to get the incentive. 
+
+<br> 
+
+<https://insideevs.com/news/758478/2025-hyundai-ioniq-5-tax-credit/>
+
+---
+
+## Honda really wants to sell you a hydrogen fuel cell, today [part 5]
+
+date: 2025-05-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/honda-fuel-cell.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Honda came to <a href="https://electrek.co/2025/05/01/act-expo-2025-one-step-forward-two-steps-back-for-clean-trucking-part-1/">this year’s ACT Expo</a> in Anaheim, California with the perfect follow-up to <a href="https://electrek.co/2024/12/24/hydrogen-had-a-wild-ride-in-2024-but-honda-has-more-to-come-in-2025/">the jaw-dropping hydrogen fuel cell-powered semi truck they showed off last year</a>. This year, the company’s fuel cell is in series production – and available now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="act-expo,honda,hydrogen,hydrogen-fuel-cell" data-layer-viewtype="unknown" data-post-id="414116" href="https://electrek.co/2025/05/02/honda-really-wants-to-sell-you-a-hydrogen-fuel-cell-today-part-5/#more-414116" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/02/honda-really-wants-to-sell-you-a-hydrogen-fuel-cell-today-part-5/>
 

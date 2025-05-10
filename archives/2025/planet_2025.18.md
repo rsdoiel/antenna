@@ -1,11 +1,47 @@
 ---
 title: planet
-updated: 2025-05-09 14:07:57
+updated: 2025-05-10 06:07:47
 ---
 
 # planet
 
-(date: 2025-05-09 14:07:57)
+(date: 2025-05-10 06:07:47)
+
+---
+
+## Eurovision's EMMY: 'I just want to make Ireland proud'
+
+date: 2025-05-09, from: RTÉ News
+
+It's all about "silver, space and a rocket" for Ireland's Eurovision entry EMMY as she prepares for take-off in Basel, Switzerland, later this week for the second song contest semi-final. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0510/1511268-eurovisions-emmy-i-just-want-to-make-ireland-proud/>
+
+---
+
+## Clones - Ulster's capital for one day of the year
+
+date: 2025-05-09, from: RTÉ News
+
+Clones. Full house. Sun shining. Ulster Championship. This is literally what my childhood memories are made of. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0509/1512085-clones-ulsters-capital-for-one-day-of-the-year/>
+
+---
+
+## Joe Duffy reflects on life, loss and leaving Liveline
+
+date: 2025-05-09, from: RTÉ News
+
+Joe Duffy reflected on his decades at RTÉ and his decision to leave Liveline during an emotional Late Late Show interview. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0509/1512080-joe-duffy-reflects-on-life-loss-and-leaving-liveline/>
 
 ---
 
@@ -93,15 +129,39 @@ Relive all the action from Thomond Park as Munster hosted Ulster in a crucial BK
 
 ---
 
+## James Foley, director of Glengarry Glen Ross, dead at 71
+
+date: 2025-05-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531581.1746822617!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/obit-james-foley.jpg' alt='A man with white hair and a goatee is shown from the shoulders up, wearing a suit and apparently posing in front of a backdrop. ' width='620' height='349' title='FILE - Director James Foley poses during a photocall for the world premiere of &quot;Fifty Shades Freed&quot; in Paris on Feb. 6, 2018. '/><p>James Foley, an American journeyman director best known for Glengarry Glen Ross but with a range of other films as well as music videos and TV episodes among his credits, has died. He was 71.   </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/james-foley-obit-1.7531549?cmp=rss>
+
+---
+
 ## 'Commitment' from EBU for talks on Israel in Eurovision
 
 date: 2025-05-09, from: RTÉ News
 
-RTÉ has said that there is a "commitment" from the European Broadcasting Union to have a "wider discussion" amongst the union's members on Israel's inclusion in this year's Eurovision Song Contest. 
+RTÉ has said that there is a "commitment" from the European Broadcasting Union to have a "wider discussion" amongst the union's members on Israel's inclusion in the Eurovision Song Contest "in due course". 
 
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0509/1512054-commitment-from-ebu-for-talks-on-israel-in-eurovision/>
+
+---
+
+## Trade talks in two acts: Canada-U.S. poised to negotiate in stages
+
+date: 2025-05-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531740.1746828833!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='Two men, sitting in separate ornate chairs, shake hands.' width='620' height='349' title='President Donald Trump meets Canadian Prime Minister Mark Carney in the Oval Office of the White House, Tuesday, May 6, 2025, in Washington. '/><p>The process is still taking shape. But the two-step idea is emerging in comments following this week's meeting between Prime Minister Mark Carney and U.S. President Donald Trump.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/two-phase-canada-us-talks-1.7531494?cmp=rss>
 
 ---
 
@@ -161,11 +221,11 @@ A man has been jailed for three years for driving at his ex-partner's new boyfri
 
 ---
 
-## Judge orders release of Tufts student detained by U.S. immigration for op-ed on Gaza
+## Tufts student detained by U.S. immigration for op-ed on Gaza is released
 
 date: 2025-05-09, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7531304.1746813165!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tufts.JPG' alt='A woman smiles at the camera' width='620' height='349' title='Rumeysa Ozturk, a Turkish doctoral student at Tufts University in Somerville, Massachusetts, poses in an undated photograph provided by her family and obtained by Reuters on March 29, 2025. '/><p>A federal judge ordered the Trump administration on Friday to release a Tufts University student from Turkey who has been held for over six weeks in a Louisiana immigration detention facility after she co-wrote an opinion piece criticizing her school's response to Israel's war in Gaza.</p> 
+<img src='https://i.cbc.ca/1.7531304.1746838656!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tufts.JPG' alt='A woman smiles at the camera' width='620' height='349' title='Rumeysa Ozturk, a Turkish doctoral student at Tufts University in Somerville, Massachusetts, poses in an undated photograph provided by her family and obtained by Reuters on March 29, 2025. '/><p>Rumeysa Ozturk, a Tufts University student from Turkey who was held for over six weeks in an immigration detention centre in Louisiana after co-writing an opinion piece criticizing her school's response to Israel's war in Gaza, was released from custody on Friday after a federal judge granted her bail.</p> 
 
 <br> 
 
@@ -217,7 +277,7 @@ Join us on Mon. May 12h for a chat with Bob Trembley - Factotum for the Vatican 
 
 date: 2025-05-09, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7531333.1746813887!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-airlines-new-jersey.JPG' alt='Planes seen on a tarmac.' width='620' height='349' title='United Airlines planes are seen at the tarmac at Newark International Airport in Newark, New Jersey, U.S., May 7, 2025. REUTERS/Eduardo Munoz'/><p>The air traffic controllers directing planes into the airport in Newark, N.J., lost their radar Friday morning for the second time in two weeks.</p> 
+<img src='https://i.cbc.ca/1.7531815.1746832537!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-aviation-newark.JPG' alt='People stand in front of a U.S. flag.' width='620' height='349' title='A group of people wait with their luggage beside a U.S. flag at Newark Liberty International Airport in Newark, New Jersey, U.S., May 9, 2025. REUTERS/David &apos;Dee&apos; Delgado'/><p>Aviation experts say ongoing problems at New Jersey's Newark International Airport are a sign of an antiquated U.S. system and could become more widespread – but Canadian airports aren't facing the same systemic issues.</p> 
 
 <br> 
 
@@ -409,12 +469,12 @@ US President Donald Trump said today that 80% tariffs on Chinese goods "seems ri
 
 ---
 
-## Inaugural Mass of Pope Leo XIV to be held on May 18
+## Inauguration Mass of Pope Leo XIV to be held on May 18
 
 date: 2025-05-09, from: Vatican News
 
 
-                    <p>The Holy See announces the upcoming schedule for the newly elected Pontiff, including the Mass to begin his pontificate.</p>
+                    <p>The Holy See announces the upcoming schedule for the newly elected Pope Leo XIV, including the Mass of Inauguration to officially begin his pontificate.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/inaugural-mass-of-pope-leo-xiv-to-be-held-on-may-18.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -479,7 +539,7 @@ Israel’s plan to take control of relief assistance in Gaza would put civilian 
 
 ## UN warns copper shortage risks slowing global energy and technology shift
 
-date: 2025-05-09, from: United Nations, Economic Development
+date: 2025-05-09, from: United Nations, Top Stories
 
 A looming global copper shortage could stall the world’s transition to clean energy and digital technologies unless smarter trade and investment strategies are adopted, the UN’s trade and development body, UNCTAD, has warned. 
 
@@ -1705,6 +1765,18 @@ date: 2025-05-08, from: CBC, World News
 
 ---
 
+## Pakistan, India agree to immediate ceasefire following deadly clashes
+
+date: 2025-05-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531977.1746869047!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/india-pakistan.JPG' alt='A man walks amidst debris on the roof of a damaged house.' width='620' height='349' title='A man walks amidst debris on the roof of a damaged house, following Pakistan&apos;s military operation against India, in Rehari, Jammu, May 10, 2025. REUTERS/Adnan Abidi     TPX IMAGES OF THE DAY'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/pakistan-india-ceasefire-foreign-minister-1.7531975?cmp=rss>
+
+---
+
 ## These authors were sold a romantasy convention. Instead, they got the Fyre Festival of the book world
 
 date: 2025-05-08, from: CBC, World News
@@ -2487,7 +2559,7 @@ Where you're born could be the difference between living over three decades long
 
 ## ‘Alarming’ slowdown in human development - could AI provide answers?
 
-date: 2025-05-06, from: United Nations, Economic Development
+date: 2025-05-06, from: United Nations, Top Stories
 
 The progress of human development – as measured by people’s freedoms and well-being – has remained sluggish since the major shock of the COVID-19 pandemic. A UN study released on Tuesday finds that used in the right way, artificial intelligence could be a powerful tool to improve millions of lives.&nbsp; 
 
@@ -3027,4 +3099,105 @@ date: 2025-05-04, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/radio/unreserved/friendship-centres-urban-indigenous-community-1.7520540?cmp=rss>
+
+---
+
+## Sede Vacante and Jubilee: historical parallels with the Jubilee of 1700
+
+date: 2025-05-03, from: Vatican News
+
+
+                    <p>The Sede Vacante during the 2025 Holy Year evokes historical parallels with the Jubilee of year 1700 which was also marked by the death of a Pope, Innocent XII, who died before the end of the Holy Year he had proclaimed.  The Numismatics Department of the Vatican Library preserves a commemorative coin of that Sede Vacante in its medal collection. Its  Director Eleonora Giampiccolo speaks to Vatican News about that year and the similiarities between Pope Francis and Innocent XII.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/sede-vacante-and-jubilee-historical-parallels-with-the-jubilee.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/sede-vacante-and-jubilee-historical-parallels-with-the-jubilee.html>
+
+---
+
+## Cardinals discuss need for hope this Jubilee at ninth General Congregation
+
+date: 2025-05-03, from: Vatican News
+
+
+                    <p>The 177 Cardinals present in Rome hold their ninth General Congregation in the Vatican on Saturday morning, and discuss the Church's need for hope during the ongoing Jubilee.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinals-discuss-various-issues-at-ninth-general-congregation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinals-discuss-various-issues-at-ninth-general-congregation.html>
+
+---
+
+## Science and Painful Truth
+
+date: 2025-05-03, from: Vatican Obervatory
+
+In science we should be getting at the truth, but sometimes the truth might be too painful, even for a book called The Painful Truth that talks about science. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/science-and-painful-truth/>
+
+---
+
+## Lord's Day Reflection: Recognising the Risen Lord requires eyes of faith
+
+date: 2025-05-03, from: Vatican News
+
+
+                    <p>As the Church celebrates the Third Sunday of Easter, Fr Edmund Power, OSB, reflects on the Risen Lord's encounter with the disciples on the shore of the Sea of Tiberias, and the need for "eyes of faith" to recognise the Lord.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-recognising-the-risen-lord-requires-faith.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-recognising-the-risen-lord-requires-faith.html>
+
+---
+
+## Sistine Chapel prepared to host Cardinals for conclave on May 7
+
+date: 2025-05-03, from: Vatican News
+
+
+                    <p>The Vatican's Sistine Chapel has been set up to host 133 Cardinal electors for the upcoming conclave to elect the 267th Pope.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/conclave-new-pope-election-cardinals-sistine-chapel-preparation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/conclave-new-pope-election-cardinals-sistine-chapel-preparation.html>
+
+---
+
+## Cree radio network creates puppet show for kids to learn Cree
+
+date: 2025-05-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7524973.1746213364!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/john-and-friends-show.jpg' alt='Puppets of a Cree man and a moose.' width='620' height='349' title='The show&apos;s two main characters are John, a Cree elder, and Morley, a moose who is learning to speak Cree. '/><p>The James Bay Cree Communications Society (JBCCS) launches a puppet show to encourage young and older audiences to hear and speak Cree language.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/jbccs-john-and-friends-cree-puppet-show-1.7524944?cmp=rss>
+
+---
+
+## Should the Yukon River be considered a 'person' with rights? Some say it's an idea whose time has come
+
+date: 2025-05-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7523396.1746220255!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/yukon-river.jpg' alt='An assortment of flowers are pictured in the foreground of the Yukon River, which runs from deep blue to azure. White clouds hang in the sky.' width='620' height='349' title='The Yukon River near Marsh Lake. Interest is growing among Yukon First Nations and Alaska Native people to grant the river legal personhood.'/><p>It's an idea that already has the support of the Council of Yukon First Nations and Alaska Native people, whose cultures are also intertwined with the river.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/should-yukon-river-considered-person-with-rights-1.7524562?cmp=rss>
 

@@ -1,11 +1,155 @@
 ---
 title: snapshots
-updated: 2025-05-09 14:08:05
+updated: 2025-05-10 06:07:58
 ---
 
 # snapshots
 
-(date: 2025-05-09 14:08:05)
+(date: 2025-05-10 06:07:58)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-09, from: Feed for Alt USDS)
+
+@jesscraven101.bsky.social with a quick how-to guide on the easiest way for you to fight back against what happened in Newark today. 
+
+Save the number for the Congressional switchboard in your phone and use it to make some noise: 202-224-3121
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lorjes5vss2y>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-09, from: Feed for Alt USDS)
+
+Finally some good news!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lorj2opa522y>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-09, from: Dave Winer's linkblog)
+
+Trump’s deportation lies are nothing new: Remember Bush, WMD and Iraq? 
+
+<br> 
+
+<https://www.salon.com/2025/05/09/trumps-deportation-lies-are-nothing-new-remember-bush-wmd-and-iraq/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-09, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lorhqx4nek2f>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-09, from: Dave Winer's linkblog)
+
+New Jersey mayor arrested at ICE detention center where he was protesting, prosecutor says. 
+
+<br> 
+
+<https://www.cnn.com/2025/05/09/us/new-jersey-mayor-arrested-at-ice-detention-center>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-09, from: Feed for Alt USDS)
+
+They're failing so fast, they don't even start.
+
+Workday chairman David Duffield and his wife gave $1.2 million to the Trump Victory fund.
+
+ https://www.forbes.com/sites/michelatindera/2020/10/16/at-least-23-billionaires-made-six-figure-donations-to-committees-supporting-donald-trump-since-july/
+
+1/4 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lorgxdeins2b>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-09, from: Dave Winer's linkblog)
+
+Trump administration mulling end to habeas corpus, legal right to challenge one’s detention. 
+
+<br> 
+
+<https://www.theguardian.com/law/2025/may/09/end-habeas-corpus-detention-trump-stephen-miller>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-09, from: Robert's feed at BlueSky)
+
+This is disturbing 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lorg4ckp522f>
+
+---
+
+## Apple Acquires Mayday Labs
+
+date: 2025-05-09, from: Michael Tsai
+
+Joe Rossignol: Apple acquired Canadian startup Mayday Labs in April 2024, according to a European Commission listing, spotted by French blog MacGeneration.[&#8230;]Mayday Labs founder Jeremy Bell confirmed that his company had been acquired in a since-deleted April 2024 blog post, but he did not mention Apple at that time.[&#8230;]Mayday Labs had developed an AI-powered calendar, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/09/apple-acquires-mayday-labs/>
+
+---
+
+## The Macintosh Repository
+
+date: 2025-05-09, from: Michael Tsai
+
+Davo: The Macintosh Repository is a community driven effort to preserve old software from the classic Mac OS era.It has ~18k entries of software images from floppys &#38; cds, scans, fonts, icons and everything in between. The Macintosh Repository: If you&#8217;re planning on running the treasures of the past you&#8217;ll find here on real old [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/09/the-macintosh-repository/>
+
+---
+
+## Mac Themes Garden
+
+date: 2025-05-09, from: Michael Tsai
+
+Damien Erambert (via Hacker News): Mac Themes Garden is dedicated to showcasing schemes made for Kaleidoscope and celebrating the customization and expressiveness it enabled on Classic Mac OS.[&#8230;]What I call &#8220;recording&#8221; here involves taking &#8220;live&#8221; screenshots of the themes being used on a Mac OS 9.2 installation running in UTM and combing through each archive [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/09/mac-themes-garden/>
+
+---
+
+## NSCache and LRUCache
+
+date: 2025-05-09, from: Michael Tsai
+
+Christian Tietze: Is NSCache still a thing we like to use? I&#8217;ve discussed this several times, but I don&#8217;t think I ever blogged about it. The problem I have with NSCache is that its eviction strategy is not defined, and it&#8217;s definitely not LRU. When I tried to use NSCache, it would destroy the performance [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/09/nscache-and-lrucache/>
 
 ---
 
@@ -346,7 +490,7 @@ date: 2025-05-09, updated: 2025-05-09, from: Simon Willison’s Weblog
 New alpha release of <a href="https://sqlite-utils.datasette.io/">sqlite-utils</a>, my Python library and CLI tool for manipulating SQLite databases.</p>
 <p>It's the first 4.0 alpha because there's a (minor) backwards-incompatible change: I've upgraded the <code>.upsert()</code> and <code>.upsert_all()</code> methods to use SQLIte's <a href="https://www.sqlite.org/lang_upsert.html">UPSERT</a> mechanism, <code>INSERT INTO ... ON CONFLICT DO UPDATE</code>. Details in <a href="https://github.com/simonw/sqlite-utils/issues/652">this issue</a>.</p>
 <p>That feature was added to SQLite in version 3.24.0, released 2018-06-04. I'm pretty cautious about my SQLite version support since the underlying library can be difficult to upgrade, depending on your platform and operating system.</p>
-<p>I'm going to leave the new alpha to bake for a little while before pushing a stable release. Since this is a major version bump I'm going to take the opportunity to see if there are any other minor API warts that I can clean up at the same time.
+<p>I'm going to leave the new alpha to bake for a little while before pushing a stable release. Since this is a major version bump I'm going to <a href="https://github.com/simonw/sqlite-utils/issues/656">take the opportunity</a> to see if there are any other minor API warts that I can clean up at the same time.
 
 
     <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/sqlite-utils">sqlite-utils</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a></p> 
@@ -375,7 +519,11 @@ I just spotted a <code>cacheTokensDetails</code> key in the token usage JSON whi
 <blockquote>
 <p>Explicit caching is useful in cases where you want to guarantee cost savings, but with some added developer work.</p>
 </blockquote>
-<p>With implicit caching the cost savings aren't possible to predict in advance, especially since the cache timeout within which a prefix will be discounted isn't described and presumably varies based on load and other circumstances outside of the developer's control.
+<p>With implicit caching the cost savings aren't possible to predict in advance, especially since the cache timeout within which a prefix will be discounted isn't described and presumably varies based on load and other circumstances outside of the developer's control.</p>
+<p><strong>Update</strong>: DeepMind's <a href="https://twitter.com/_philschmid/status/1920772470543397281">Philipp Schmid</a>:</p>
+<blockquote>
+<p>There is no fixed time, but it's should be a few minutes.</p>
+</blockquote>
 
 
     <p>Tags: <a href="https://simonwillison.net/tags/prompt-caching">prompt-caching</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
@@ -2652,6 +2800,40 @@ The biggest site for nonconsensual deepfake porn on the internet says it’s shu
 
 ---
 
+## Radio City
+
+date: 2025-05-05, from: The Sephist blog
+
+<p>One of the beautiful privileges of living in a city like New York is that you can just go for a stroll around town and encounter pieces of art that could plausibly belong in museums. My favorite such area of the city is the Rockefeller Plaza.</p>
+<p>Imagine yourself as John D. Rockefeller in 1930, one of the most capitalist capitalists to ever have been capitalized. The economy is tumbling into a recession and then a depression, jeopardizing your plan for a new metropolitan opera house — how European of Rockefeller, an American success story! — by throwing the Met Opera&rsquo;s own economics into disarray.</p>
+<p>Millions deep into the financing of the project, Rockefeller digs his heels into the ground and pivots the plans for the opera into a home for new, rapidly rising American media industries like radio and broadcast TV — RCA, NBC, Associated Press, and others, many of which are corporate tenants to this day.</p>
+<p>Commemorating this shift is the namesake of the reframed megaproject: not an opera house, but &ldquo;<strong>Radio City</strong>&rdquo;.</p>
+<p>There are so many cultural and historical undertones in even the blurriest retelling of this story that I always struggle to find a place to begin. For one, the narrative poetry of pivoting from a retrospective story of preservation and continuation of the Met Opera to a <em>progressive</em> story about the increasingly entwined fates of technology and media! For another, the marriage of the rewards of unbridled capitalism, the circumstances of economic ruin, a sense of legacy and civic duty, an affinity for the arts and media. The choice to commemorate prominent corners of the plaza with veritable <a href="https://en.wikipedia.org/wiki/Atlas_(statue)">works of art</a> rather than nameless corporate sculptures or fountains.</p>
+<p>Woven into all of these stories is the reason I turn to Radio City so often these days — it&rsquo;s emblematic of a strikingly optimistic, progressive, humanist perspective on technology and its collision with culture. A perspective that&rsquo;s increasingly difficult for me to find in modern-day San Francisco.</p>
+<p><img src="https://thesephist.com/img/radio-city-art-deco.jpg" alt="A gold Art Deco relief sculpture depicting a stylized figure of Mercury, messenger of the gods, holding a caduceus, on the façade of a building at Rockefeller Plaza."></p>
+<p>Radio City&rsquo;s construction, murals, and sculptures commonly draw on the Art Deco period style, which you can identify by a blend of &ldquo;old civilization&rdquo; motifs like &ldquo;2D&rdquo; geometric character silhouettes, mixed with &ldquo;jet age&rdquo; elements like streamlined rays, smooth curves, and contemporary industrial elements like steel and aluminum. The resulting visuals often create the impression that you&rsquo;re walking among ancient temples built in an alternate world where the Egyptians or Babylonians were also flying powered aircraft and transmitting stories over the radio.</p>
+<p>This combination of ancient and industrial motifs also means that technology figures prominently in all the artwork, but always in relation to humans. You can see this really clearly in &ldquo;News&rdquo; in the Associated Press building by Isamu Noguchi:</p>
+<p><img src="https://thesephist.com/img/radio-city-news.jpg" alt="A metallic Art Deco sculpture titled &lsquo;News&rsquo; by Isamu Noguchi at the Associated Press Building in Rockefeller Plaza, depicting stylized human figures dynamically using communication tools such as a telephone, typewriter, and camera."></p>
+<p>A telephone, a typewriter, a camera. But the subject of the sculpture isn&rsquo;t any of these individual products or technologies. It&rsquo;s the employment of these technologies by humans to create new things, to report and distribute stories about the world. The story is a story about technology, but here, technology is fundamentally a human endeavor. It is humans who give technology meaning and direction, and humans&rsquo; directed <em>use</em> of technology which Radio City celebrates. This humanist perspective on technology is simultaneously irreverent, principled, and agency-asserting.</p>
+<p>We find the same humanist-industrial motif throughout the plaza buildings. For example in the mural <a href="https://www.rockefellercenter.com/magazine/arts-culture/jose-maria-sert-muralist-rockefeller-center-art/">&ldquo;American Progress&rdquo;</a> welcoming visitors to 30 Rockefeller from over the grand lobby, technological and industrial progress figures as a kind of intrinsic good, a virtue to be celebrated in the cathedral that is the monumental skyscraper standing at the heart of New York City.</p>
+<p><img src="https://thesephist.com/img/radio-city-wisdom.jpg" alt="An Art Deco relief sculpture titled &lsquo;Wisdom&rsquo; at the entrance of 30 Rockefeller Plaza, depicting a stylized Zeus-like figure rendered with geometric precision and bold lines characteristic of the Art Deco period. The figure holds angular lightning bolts, set against layered, dramatic clouds accented with metallic gold and muted earth tones, accompanied by the inscription &lsquo;Wisdom and Knowledge shall be the stability of thy times&rsquo; in a bold, streamlined typeface typical of 1930s design."></p>
+<p>My favorite work among the complex, though, is a bit more proverbial. A relief of Zeus-like lightning-wielding entity mounted over the entryway of 30 Rock, the work titled &ldquo;Wisdom&rdquo; borrows a Biblical passage:</p>
+<blockquote>
+<p>Wisdom and knowledge shall be the stability of thy times.</p></blockquote>
+<p>In the original context, the phrase then continues in an appeal to divine judgment:</p>
+<blockquote>
+<p>&hellip; and strength of salvation: the fear of the Lord is his treasure.</p></blockquote>
+<p>The relief at Rockefeller, taking only the first part as its own, shows a Promethean &ldquo;Wisdom&rdquo; reclaiming wisdom and knowledge — arguably even technology and progress, in context of the Plaza — as human pursuits. At a time of economic strife, it&rsquo;s a secular prayer to human capacity for reason, knowledge, and technology to lift society out of its struggles.</p>
+<p>Once again, technology does not march along by itself, leaving lowly humans to be merely dragged along as it reshapes society generation over generation. Technology writ large is a tool for humans to wield in pursuit of flourishing and prosperity. It is not technology that subjugates Wisdom, but rather Wisdom himself that dominates over the plaza, wielding knowledge and technology as his instruments of agency.</p>
+<p>I yearn to see this more irreverent and humanist relationship to technology imagined more often today, when both technology and the industry backing its progress feel increasingly detached from culture and media and the humanities. I dream of a humanist revival with computing systems at the center, grasped firmly in the hands of Wisdom.</p>
+<p>A modern Radio City.</p> 
+
+<br> 
+
+<https://thesephist.com/posts/radio-city/>
+
+---
+
 **@Dave Winer's linkblog** (date: 2025-05-05, from: Dave Winer's linkblog)
 
 Trump says he will reopen Alcatraz prison. 
@@ -2939,4 +3121,169 @@ Clippers vs Nuggets: Steve Ballmer flies 125 L.A. fans to Game 7 at Ball Arena.
 <br> 
 
 <https://www.denverpost.com/2025/05/03/the-wall-clippers-nuggets-game-7-clippers-steve-ballmer/>
+
+---
+
+## The latest AI scaling graph - and why it hardly makes sense
+
+date: 2025-05-03, from: Gary Marcus blog
+
+Just a because a graph is intriguing doesn&#8217;t mean that it means very much 
+
+<br> 
+
+<https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-03, from: Feed for Alt USDS)
+
+You don't say.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lobwg7ldqs2w>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-03, from: Dave Winer's linkblog)
+
+You know summer is soon when this song feels like the right song to sing. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=fuz5TKzaJoE>
+
+---
+
+## Ural Notes Part 7: This is Ural Life...
+
+date: 2025-05-03, updated: 2025-05-03, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/05/03/ural-notes-part-7-this-is-ural-life/>
+
+---
+
+## These Tardigrades Have Tiny Tattoos
+
+date: 2025-05-03, from: 404 Media Group
+
+Tardigrades, tiny microscopic animals, woke up from suspended animation with body art.   
+
+<br> 
+
+<https://www.404media.co/these-tardigrades-have-tiny-tattoos-2/>
+
+---
+
+## An Interview With Bobby Kogan
+
+date: 2025-05-03, from: Paul Krugman
+
+Tariffs, shmariffs: The GOP budget is really extreme 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/an-interview-with-bobby-kogan>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-03, from: Feed for Alt USDS)
+
+@maddow.msnbc.com & @juliaangwin.com Thank you for covering this topic so masterfully. We joined government  to deliver human-centered programs and services while protecting the privacy of everyone in our country.
+
+The DOGE data grab is extremely concerning.
+https://youtu.be/-vtJRpu4XUw?si=meSR7-NpvBfEKf05 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3loaiqlog2s22>
+
+---
+
+## thursday, may 1, 2025
+
+date: 2025-05-03, updated: 2025-05-03, from: p1k3.com community feed
+
+ 
+
+<br> 
+
+<https://p1k3.com/2025/5/1>
+
+---
+
+## GHC 9.10.2 is now available
+
+date: 2025-05-03, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.10.2 is now available</h1>
+<h4 class="text-muted">Zubin Duggal - 2025-05-03</h4>
+
+<p>The GHC developers are very pleased to announce the availability
+of the final release for GHC 9.10.2. Binary distributions, source
+distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.10.2">downloads.haskell.org</a> and
+via <a href="https://www.haskell.org/ghcup/">GHCup</a>.</p>
+<p>GHC 9.10.2 is a bug-fix release fixing over 50 issues of a variety of
+severities and scopes, including:</p>
+<ul>
+<li>Significantly improved performance when dynamically loading Haskell symbols (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23415">#23415</a>).</li>
+<li>Fixing a bug where the simplifier sometimes destroyed join points during float out, which could impact performance (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24768">#24768</a>).</li>
+<li>Reduced memory fragmentation in the non-moving GC’s segment allocator, improving resident set size by up to 26% for some applications (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24150">#24150</a>).</li>
+<li>Added new flags to control speculative evaluation (-fspec-eval and -fspec-eval-dictfun) to work around performance regressions (<a href="https://gitlab.haskell.org/ghc/ghc/issues/25606">#25606</a>).</li>
+<li>Fixed several platform-specific issues, including segfaults with FFI on PowerPC (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23034">#23034</a>) and improved code
+generation for AArch64 with multiway branches now using jump tables (<a href="https://gitlab.haskell.org/ghc/ghc/issues/19912">#19912</a>)</li>
+<li>And many more!</li>
+</ul>
+<p>A full accounting of these fixes can be found in the <a href="https://downloads.haskell.org/~ghc/9.10.2/docs/users_guide/9.10.2-notes.html">release notes</a>. As
+always, GHC’s release status, including planned future releases, can be found on
+the GHC Wiki <a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.</p>
+<p>We would like to thank Well-Typed, Tweag I/O, Juspay, QBayLogic, Channable,
+Serokell, SimSpace, the Haskell Foundation, and other anonymous contributors
+whose on-going financial and in-kind support has facilitated GHC maintenance
+and release management over the years. Finally, this release would not have
+been possible without the hundreds of open-source contributors whose work
+comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+ 
+
+<br> 
+
+<http://haskell.org/ghc/blog/20250503-ghc-9.10.2-released.html>
+
+---
+
+## Perfect Random Floating-Point Numbers
+
+date: 2025-05-03, from: Specbranch blog
+
+<p>When I recently looked at the state of the art in floating point random number generation,
+I was surprised to see a common procedure in many programming languages and libraries that
+is not really a floating-point algorithm:</p>
+<ol>
+<li>Generate a random integer with bits chosen based on the precision of the format.</li>
+<li>Convert to floating point.</li>
+<li>Divide to produce an output between 0 and 1.</li>
+</ol>
+<p>In code, this looks like:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="ln">1</span><span class="cl"><span class="kd">func</span> <span class="p">(</span><span class="nx">r</span> <span class="o">*</span><span class="nx">Rand</span><span class="p">)</span> <span class="nf">Float64</span><span class="p">()</span> <span class="kt">float64</span> <span class="p">{</span>
+</span></span><span class="line"><span class="ln">2</span><span class="cl">    <span class="kt">int64</span> <span class="nx">rand_int</span> <span class="p">=</span> <span class="nx">r</span><span class="p">.</span><span class="nf">Int63n</span><span class="p">(</span><span class="mi">1</span><span class="o">&lt;&lt;</span><span class="mi">53</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">3</span><span class="cl">    <span class="k">return</span> <span class="nb">float64</span><span class="p">(</span><span class="nx">rand_int</span><span class="p">)</span> <span class="o">/</span> <span class="p">(</span><span class="mi">1</span><span class="o">&lt;&lt;</span><span class="mi">53</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">4</span><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><p>This function is supposed to produce floating-point numbers drawn from a uniform distribution
+in the interval $[0, 1)$. Zero is a possible output, but one is not, and the distribution is
+uniform. The number &quot;53&quot; in the algorithm above is chosen in a way that is floating-point aware:
+the double-precision floating-point numbers have 53 bits of precision, so this algorithm only
+creates bits equal to the precision of the number system. It seems to fit the bill.</p> 
+
+<br> 
+
+<https://specbranch.com/posts/fp-rand/>
 

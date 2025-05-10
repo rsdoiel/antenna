@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-05-09 14:08:02
+updated: 2025-05-10 06:07:54
 ---
 
 # motorcycles
 
-(date: 2025-05-09 14:08:02)
+(date: 2025-05-10 06:07:54)
 
 ---
 
@@ -459,4 +459,65 @@ Grom spec series is a go!
 <br> 
 
 <https://www.rideapart.com/news/758435/japanese-direct-market-honda-grom-factory-race-motorcycle-auction/>
+
+---
+
+## Taylor Gray records career-best Xfinity finish at Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Taylor Gray's runner-up finish Saturday at Texas Motor Speedway was a career-best effort, while Sam Mayer and Justin Allgaier also fell short after sniffing victory in the 
+Xfinity Series. 
+
+<br> 
+
+<https://kickinthetires.net/nascar/taylor-gray-records-career-best-xfinity-finish-at-texas-motor-speedway/>
+
+---
+
+## GALLERY: NASCAR Xfinity Series Action At Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Photos by Jerry Jordan and Eric Hattey/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascar-xfinity-series-action-at-texas-motor-speedway/>
+
+---
+
+## GALLERY: A Look At The SpeedyCash.com 250 At Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Photos by Eric Hattey/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-a-look-at-the-speedycash-com-250-at-texas-motor-speedway/>
+
+---
+
+## IN THE NICK OF HEIM: Corey Heim Survives To Win Craftsman Truck Series Race At Texas Motor Speedway
+
+date: 2025-05-03, from: Kickin the Tires blog
+
+Press Release FORT WORTH, Texas (MAY 2, 2025) – TRICON Garage driver Corey Heim had to survive double overtime after a dominant performance to secure his series-leading third NASCAR CRAFTSMAN Truck&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/in-the-nick-of-heim-corey-heim-survives-to-win-craftsman-truck-series-race-at-texas-motor-speedway/>
+
+---
+
+## You Could Be Rolling At Vespa World Days Right Now, If You Hurry
+
+date: 2025-05-03, from: Ride Apart, Electric Motorcycle News
+
+Hop a flight, scoot all night! 
+
+<br> 
+
+<https://www.rideapart.com/news/758469/vespa-world-days-2025-spain/>
 

@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-05-09 14:08:00
+updated: 2025-05-10 06:07:50
 ---
 
 # science and technology
 
-(date: 2025-05-09 14:08:00)
+(date: 2025-05-10 06:07:50)
+
+---
+
+## A formal analysis of Apple’s iMessage PQ3 protocol
+
+date: 2025-05-09, from: OS News
+
+We present the formal verification of Apple’s iMessage PQ3, a highly performant, device-to-device messaging protocol offering strong security guarantees even against an adversary with quantum computing capabilities. PQ3 leverages Apple’s identity services together with a custom, post-quantum secure initialization phase and afterwards it employs a double ratchet construction in the style of Signal, extended to provide post-quantum, post-compromise security. We present a detailed formal model of PQ3, a precise specification of its fine-grained security properties, and machine-checked security proofs using the TAMARIN prover. Particularly novel is the integration of post-quantum secure key encapsulation into the relevant protocol phases and the detailed security claims along with their complete formal analysis. Our analysis covers both key ratchets, including unbounded loops, which was believed by some to be out of scope of symbolic provers like TAMARIN (it is not!). ↫ Felix Linker and Ralf Sasse Weekend, light reading, you know how this works by now. Light some candles, make some tea, get comfy. 
+
+<br> 
+
+<https://www.osnews.com/story/142328/a-formal-analysis-of-apples-imessage-pq3-protocol/>
+
+---
+
+## Nip chip smugglers by building trackers into GPUs, US Senator suggests
+
+date: 2025-05-09, updated: 2025-05-09, from: The Register (UK I.T. News)
+
+<h4>AI phone home</h4> <p>Despite stiff export controls on the legitimate sale of AI accelerators to China, stemming the flow of gray market GPUs streaming into the Middle Kingdom remains a point of concern for American lawmakers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/09/senator_fights_chip_smuggling/>
+
+---
+
+## 25 Years of NASA Student Launch
+
+date: 2025-05-09, from: NASA breaking news
+
+Students from the University of Massachusetts Amherst team carry their high-powered rocket toward the launch pad at NASA’s 2025 Student Launch launch day competition in Toney, Alabama, on April 4, 2025. More than 980 middle school, high school, and college students from across the nation launched more than 40 high-powered amateur rockets just north of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/25-years-of-nasa-student-launch/>
 
 ---
 
@@ -1746,4 +1782,28 @@ date: 2025-05-04, updated: 2025-05-04, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/04/sam_altman_startup_world/>
+
+---
+
+## Soviet probe from 1972 set to return to Earth ... in May 2025
+
+date: 2025-05-03, updated: 2025-05-03, from: The Register (UK I.T. News)
+
+<h4>Not, it&#39;s not the plot of a sci-fi disaster movie</h4> <p>A Soviet probe launched more than half a century ago is due to return to Earth in the next week or two, and there&#39;s every chance that the vehicle will make it all the way to our planet&#39;s surface.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/03/soviet_probe_from_1972_set/>
+
+---
+
+## Open Document Format turns 20, but Microsoft Office still reigns supreme
+
+date: 2025-05-03, updated: 2025-05-03, from: The Register (UK I.T. News)
+
+<h4>A look back at two decades of ODF, from open source hopes to patchy real-world adoption</h4> <p>It&#39;s been 20 years since the Open Document Format (ODF) became a standard, marking a milestone in the push for open, vendor-neutral file formats — and the beginning of a long but largely unsuccessful attempt to loosen Microsoft Office&#39;s grip on the desktop.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/03/20_years_open_document_format/>
 

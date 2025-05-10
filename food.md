@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-05-09 14:08:04
+updated: 2025-05-10 06:07:56
 ---
 
 # food
 
-(date: 2025-05-09 14:08:04)
+(date: 2025-05-10 06:07:56)
+
+---
+
+## The Starbucks ‘Teddy Grahams Shaken Espresso’ Is Like the Adult Version of the Snack
+
+date: 2025-05-09, from: Taste of Home
+
+<p>This version of Teddy Grahams is not for the kids.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-teddy-grahams-shaken-espresso/">The Starbucks &#8216;Teddy Grahams Shaken Espresso&#8217; Is Like the Adult Version of the Snack</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-teddy-grahams-shaken-espresso/>
+
+---
+
+## I Just Discovered That McDonald’s Plans to Drop Something Brand-New This Year
+
+date: 2025-05-09, from: Taste of Home
+
+<p>I'm honestly shocked by this development.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/new-mcdonalds-drinks-2025/">I Just Discovered That McDonald&#8217;s Plans to Drop Something Brand-New This Year</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/new-mcdonalds-drinks-2025/>
 
 ---
 
@@ -647,7 +675,7 @@ date: 2025-05-07, from: Taste of Home
 
 date: 2025-05-07, from: Bon Appetet
 
-ALT started as a passion project for chef Niko Romito. Today, it's a nationwide movement for better roadside dining on Italian motorways. 
+ALT started as a passion project for chef Niko Romito. Today, it’s a nationwide movement for better roadside dining on Italian motorways. 
 
 <br> 
 
@@ -1138,4 +1166,16 @@ date: 2025-05-04, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/amazing-avocado-recipes/>
+
+---
+
+## 13 Veggie Burger Recipes You’ll Flip For
+
+date: 2025-05-03, from: Bon Appetet
+
+Black bean smash burgers, grilled bulgogi tofu on a bun, mushroom-barley patties, and more great vegetarian recipes. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/veggie-burgers-recipes-ideas>
 

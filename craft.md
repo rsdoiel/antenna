@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2025-05-09 14:08:04
+updated: 2025-05-10 06:07:57
 ---
 
 # craft
 
-(date: 2025-05-09 14:08:04)
+(date: 2025-05-10 06:07:57)
 
 ---
 
@@ -90,4 +90,16 @@ Editor’s Note: Philippe Lafargue, along with Michele Pietryka-Pagán&#160;and 
 <br> 
 
 <https://blog.lostartpress.com/2025/05/04/meet-the-author-philippe-lafargue/>
+
+---
+
+## For Sale: Elm Comb-back Stick Chair Built by My Assistant
+
+date: 2025-05-03, from: Lost Arg Press blog
+
+One of the gratifying things about teaching others to build stick chairs are the woodworkers who embrace the craft and grow to work at the same level (or even higher) than the teacher. One of those woodworkers is Claire Butler, who lives outside Seattle, Wash. Claire has assisted me in teaching two chair classes during... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/03/for-sale-elm-comb-back-stick-chair-built-by-my-assistant/>
 

@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-05-09 14:08:01
+updated: 2025-05-10 06:07:52
 ---
 
 # journalism
 
-(date: 2025-05-09 14:08:01)
+(date: 2025-05-10 06:07:52)
 
 ---
 
@@ -621,4 +621,42 @@ The University Professional and Technical Employees-Communications Workers of Am
 <br> 
 
 <https://dailybruin.com/2025/05/03/upte-cwa-9119-afscme-local-3299-strike-in-response-to-uc-system-hiring-freezes/>
+
+---
+
+## UCLA dermatologist leads initiative to address disparities in LA health care
+
+date: 2025-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA dermatologist called for urgent reforms to the Los Angeles health care system at a presentation April 23.
+Dr. Reza Babapour, a dermatologist and clinical faculty member at the Harbor-UCLA Medical Center, spoke at the event, which was co-hosted by pre-health student organizations, including Community Medicine in LA, Iranian Medical Society, LA Health Volunteers and Bruins Public Health. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/03/ucla-dermatologist-leads-initiative-to-address-disparities-in-la-health-care/>
+
+---
+
+## Sheng Chang weaves authenticity, vulnerability into capstone EP ‘Feel It All’
+
+date: 2025-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sheng Chang is turning in her passion for music with her capstone project.
+A fourth-year music industry student, Chang will soon release a three-song EP titled &#8220;Feel It All.&#8221; Chang said she has been passionate about music since she was a child and added that the release of &#8220;Feel It All&#8221; represents a new stage in her artistic evolution. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/03/sheng-chang-weaves-authenticity-vulnerability-into-capstone-ep-feel-it-all/>
+
+---
+
+## Zodiac Astrology
+
+date: 2025-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/03/zodiac-astrology/>
 

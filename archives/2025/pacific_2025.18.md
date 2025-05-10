@@ -1,11 +1,38 @@
 ---
 title: pacific
-updated: 2025-05-09 14:07:59
+updated: 2025-05-10 06:07:49
 ---
 
 # pacific
 
-(date: 2025-05-09 14:07:59)
+(date: 2025-05-10 06:07:49)
+
+---
+
+## Nurses plan picket at North Hawaii Community Hospital
+
+date: 2025-05-09, from: Hawaii Tribune Harold
+
+
+				<p>Nearly 100 unionized nurses at Queen&#8217;s North Hawaii Community Hospital in Waimea have given notice of plans to hold an informational picket next Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/09/hawaii-news/nurses-plan-picket-at-north-hawaii-community-hospital/>
+
+---
+
+## Nearly $100K awarded to students at Shidler Business Night
+
+date: 2025-05-09, from: University of Hawaiʻi News
+
+<p>52 sponsored awards totaling $98,500 were presented to outstanding undergraduate and graduate students.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/09/shidler-business-night-2025/">Nearly $100<abbr>K</abbr> awarded to students at Shidler Business Night</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/09/shidler-business-night-2025/>
 
 ---
 
@@ -295,6 +322,34 @@ date: 2025-05-09, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/09/nation-world-news/gates-accuses-musk-of-killing-children-by-cutting-foreign-aid/>
+
+---
+
+## Coast Guard rescues fishing boat captain off Hilo
+
+date: 2025-05-09, from: Hawaii Tribune Harold
+
+
+				<p>The Coast Guard medivaced the captain of a commercial fishing vessel 80 miles offshore Hilo to Hilo Benioff Medical Center on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/09/hawaii-news/coast-guard-rescues-fishing-boat-captain-off-hilo/>
+
+---
+
+## BLNR rejects Army EIS on Pohakuloa Training Area
+
+date: 2025-05-09, from: Hawaii Tribune Harold
+
+
+				<p>After hearing hours of passionate testimony from community members, the Board of Land and Natural Resources (BLNR) voted today to not accept the U.S. Army&#8217;s Final Environmental Impact Statement (FEIS) for the proposed retention of state-owned lands at Pohakuloa Training Area (PTA) on Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/09/hawaii-news/blnr-rejects-army-eis-on-pohakuloa-training-area/>
 
 ---
 
@@ -2960,4 +3015,234 @@ GTA representatives noted that many of Samsung’s free AI features have been av
 <br> 
 
 <https://www.pacificislandtimes.com/post/samsung-s-live-translate-breaks-language-barriers>
+
+---
+
+## 'In this brave new world, brave journalists are required'
+
+date: 2025-05-03, from: Pacific Island Times
+
+The findings are clear: self-censorship is a real and pressing challenge, especially as intentional disinformation and misinformation campaigns create fractures and divide our communities. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/in-this-brave-new-world-brave-journalists-are-required>
+
+---
+
+## Trump proposes $163 billion in cuts across government in new budget
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Friday proposed slashing $163 billion in federal spending next fiscal year, a drastic retrenchment in the role and reach of government that, if enacted, would eliminate a vast set of climate, education, health and housing programs, including some that benefit the poor. Issuing his first budget proposal since returning to office, Trump sketched out a dim view of Washington. His blueprint depicted many core government functions as woke, weaponized, wasteful or radical, as the president looked to justify his request that Congress chop domestic spending to its lowest level in the modern era.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/trump-proposes-163-billion-in-cuts-across-government-in-new-budget/>
+
+---
+
+## Trump ends Chinese tariff loophole, raising the cost of online goods
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration on Friday officially eliminated a loophole that had allowed American shoppers to buy cheap goods from China without paying tariffs. The move will help U.S. manufacturers that have struggled to compete with a wave of low-cost Chinese products, but it has already resulted in higher prices for Americans who shop online.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/trump-ends-chinese-tariff-loophole-raising-the-cost-of-online-goods/>
+
+---
+
+## Companies are serving notice: We’re raising prices because of tariffs
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; More companies are starting to warn that they will have to pass on higher costs to American consumers, raising prices for products like strollers, mattresses, power tools and cast-iron cookware as President Donald Trump&#8217;s tariffs take hold.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/companies-are-serving-notice-were-raising-prices-because-of-tariffs/>
+
+---
+
+## Veterans’ groups object to Trump’s proposal to rename Veterans Day
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s announcement that he planned to change the name of Veterans Day, on Nov. 11, to &#8220;Victory Day for World War I&#8221; prompted a backlash from some veterans&#8217; groups, which complained that the move would champion conquest over sacrifice and ignore the sacrifices of most living veterans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/veterans-groups-object-to-trumps-proposal-to-rename-veterans-day/>
+
+---
+
+## Kennedy orders search for new measles treatments instead of urging vaccination
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>With the United States facing its largest single measles outbreak in 25 years, Health and Human Services Secretary Robert F. Kennedy Jr. will direct federal health agencies to explore potential new treatments for the disease, including vitamins, according to an HHS spokesperson. The decision is the latest in a series of actions by the nation&#8217;s top health official that experts fear will undermine public confidence in vaccines as an essential public health tool.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/kennedy-orders-search-for-new-measles-treatments-instead-of-urging-vaccination/>
+
+---
+
+## Explosions cripple ship carrying aid to Gaza in the Mediterranean Sea
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>A ship carrying 16 people and humanitarian aid to the Gaza Strip was rocked by explosions early Friday off the coast of Malta, setting the vessel on fire and putting it at risk of sinking, according to the human rights group operating the ship.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/explosions-cripple-ship-carrying-aid-to-gaza-in-the-mediterranean-sea/>
+
+---
+
+## TikTok fined $600 million for sending European user data to China
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; TikTok was fined 530 million euros ($600 million) on Friday for violating a European Union data privacy law after regulators found the company had improperly transferred users&#8217; personal data to China.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/tiktok-fined-600-million-for-sending-european-user-data-to-china/>
+
+---
+
+## Illinois man sentenced to 53 years in killing of Palestinian American boy
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>JOLIET, Ill. &#8212; An Illinois judge sentenced a man to 53 years in prison on Friday for the fatal stabbing of a 6-year-old boy in 2023 and the nonfatal stabbing of the boy&#8217;s mother, an attack that jurors found to have been motivated by anti-Muslim hate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/illinois-man-sentenced-to-53-years-in-killing-of-palestinian-american-boy/>
+
+---
+
+## NPR and PBS vow to fight Trump’s order to cut funding
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s executive order to defund NPR and PBS was met with fiery pushback on Friday, as the organizations challenged the legality of the move and said it could jeopardize access to vital information.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/npr-and-pbs-vow-to-fight-trumps-order-to-cut-funding/>
+
+---
+
+## Former weather service leaders warn staffing cuts could lead to ‘loss of life’
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>Five former National Weather Service directors have taken the unusual step of signing onto an open letter warning that cuts to the organization by the Trump administration may soon endanger lives.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/former-weather-service-leaders-warn-staffing-cuts-could-lead-to-loss-of-life/>
+
+---
+
+## Tropical Gardening: Fragrance adds another spring pleasure to Hawaiian gardens
+
+date: 2025-05-03, from: Hawaii Tribune Harold
+
+
+				<p>May Day, also know as Lei Day, has passed however, Hawaiian gardeners keep it going all year long. On the mainland spring is short lived, but in Hawaii, spring is all year. Here, there is a noticeable spring fever effect when it comes to local gardeners because many flowers start heavy blooming at this time. Since Mother&#8217;s Day is May 11, it is not too early to find gifts of plants for your favorite lady or ladies as the case may be!</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/03/features/tropical-gardening-fragrance-adds-another-spring-pleasure-to-hawaiian-gardens/>
+
+---
+
+## Wahinekapu, Wedderburn, Schager named 2025 Bonham Award winners
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>The Jack Bonham Award was presented to Lily Wahinekapu (women’s basketball), Jordan Wedderburn (women’s water polo) and Brayden Schager (football).</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/2025-bonham-award/">Wahinekapu, Wedderburn, Schager named 2025 Bonham Award winners</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/2025-bonham-award/>
+
+---
+
+## Santa Barbara Catholic School brings magic and might to ‘Matilda Jr.’
+
+date: 2025-05-03, from: Pacific Island Times
+
+Santa Barbara Catholic School’s April production of “Matilda Jr.” became more than just a school musical.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/santa-barbara-catholic-school-brings-magic-and-might-to-matilda-jr>
+
+---
+
+## UH professor produces and directs an Indian dance showcase
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>Kah&#257;n&#299;, led by <abbr>UH</abbr> Mānoa’s Sai Bhatawadekar, brought Indian stories to life through dance and music at the Doris Duke Theater.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/kahani-indian-dance-showcase/"><abbr>UH</abbr> professor produces and directs an Indian dance showcase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/kahani-indian-dance-showcase/>
+
+---
+
+## Judiciary AI chatbot launches with support from UH Mānoa
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>The chatbot uses natural language processing to engage users in real-time conversations.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/">Judiciary <abbr>AI</abbr> chatbot launches with support from <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/>
+
+---
+
+## Honolulu CC’s Hoʻolauleʻa engages 300+ in culture, sustainability
+
+date: 2025-05-03, from: University of Hawaiʻi News
+
+<p>Hands-on Hawaiian traditions, music, food, more, connect Honolulu <abbr>CC</abbr> community.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/02/honolulu-cc-hoolaulea/">Honolulu <abbr>CC</abbr>’s Hoʻolauleʻa engages 300+ in culture, sustainability</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/02/honolulu-cc-hoolaulea/>
 
