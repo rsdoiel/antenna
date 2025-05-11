@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-11 12:15:39
+updated: 2025-05-11 14:08:00
 ---
 
 # retro computing
 
-(date: 2025-05-11 12:15:39)
+(date: 2025-05-11 14:08:00)
 
 ---
 
@@ -558,7 +558,7 @@ Here I've simply mirrored the MacBook to my wife's Samsung secondary monitor. Th
 
 The Samsung doesn't support exactly the native resolution of the MacBook which is why it looks squashed, but you can see it correctly detected the model. How well does it perform? A good stress test is high-resolution video, which the manual warns you against because it would be choppy. We don't let manuals tell us what to do in this house. Manuals are suggestions. Manuals can sometimes be wrong. Let's play the <a href="http://www.macyourself.com/2008/11/13/grab-the-source-files-for-that-snazzy-leopard-welcome-video/">Snow Leopard welcome video</a> and prove it wrong. (The Snow Leopard welcome video has audio in a separate file, so this comparison movie has no sound.)
 <p>
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzTF8vw8T6ZYUm6iMEXF6B6M4-ch0-OkUkvD1nUynDh2tXy2rpydyVDduY1YVE5oyAwTtsEGVddMrTGjV1QEg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dySu7T1lKV9kNq_wtcTdVaU9a8fhfBhu9xr-U7pgnZ6b0pJaTXFL-KVMKNXp-sgNSD-GcKDnAfye2RP1VyiIA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
 <p>
 And, well, the manual wasn't wrong. There is a slight but noticeable lag and there are many dropped frames of video on the mirrored side; the best that could be said is it's watchable. Think "playing YouTube videos over Microsoft Teams screen share" and that would be about right.
 

@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-05-11 12:15:36
+updated: 2025-05-11 14:07:56
 ---
 
 # science and technology
 
-(date: 2025-05-11 12:15:36)
+(date: 2025-05-11 14:07:56)
+
+---
+
+## You think ransomware is bad now? Wait until it infects CPUs
+
+date: 2025-05-11, updated: 2025-05-11, from: The Register (UK I.T. News)
+
+<h4>Rapid7 threat hunter told The Reg wrote a PoC. No he&#39;s not releasing it</h4> <p><strong>RSAC</strong>  If Rapid7&#39;s Christiaan Beek decided to change careers and become a ransomware criminal, he knows exactly how he&#39;d innovate: CPU ransomware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/11/cpu_ransomware_rapid7/>
 
 ---
 

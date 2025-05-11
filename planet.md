@@ -1,19 +1,19 @@
 ---
 title: planet
-updated: 2025-05-11 12:15:34
+updated: 2025-05-11 14:07:54
 ---
 
 # planet
 
-(date: 2025-05-11 12:15:34)
+(date: 2025-05-11 14:07:54)
 
 ---
 
-## Hamas officials say group held direct Gaza talks with US
+## Hamas to release US-Israeli hostage to help reach truce
 
 date: 2025-05-11, from: RTÉ News
 
-Hamas and US representatives have held direct talks in Doha in recent days, two officials from the Palestinian militant group said, with one saying there had been "progress" towards a truce in Gaza. 
+Hamas will release the Israeli-American hostage Edan Alexander held in Gaza as a part of efforts to reach a ceasefire agreement and allow humanitarian aid to enter the besieged enclave, a senior Hamas official told Reuters. 
 
 <br> 
 
@@ -30,6 +30,18 @@ Captain Sam Mulroy and All-Star Craig Lennon struck the crucial late scores as L
 <br> 
 
 <https://www.rte.ie/sport/football/2025/0511/1512235-louth-land-leinster-crown-to-end-68-year-famine/>
+
+---
+
+## Hamas announces it will release last living Israeli American hostage
+
+date: 2025-05-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532392.1746993161!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians-hostage-family.jpg' alt='A person wears a shirt featuring a person&apos;s portrait and the words, &apos;Bring Edan home now.&apos;' width='620' height='349' title='Varda Ben Baruch, whose grandson Edan Alexander is held hostage in the Gaza Strip by Hamas militants, wears tape marking the days since his capture, at home in Tel Aviv, Israel, Thursday, Nov. 14, 2024. (AP Photo/Maya Alleruzzo)'/><p>Hamas says Edan Alexander, the last living American hostage in Gaza, will be released as part of efforts to establish a ceasefire, reopen crossings into the Israeli-blockaded territory and resume the delivery of aid.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hamas-release-hostage-gaza-israel-american-1.7532390?cmp=rss>
 
 ---
 
@@ -418,11 +430,11 @@ date: 2025-05-11, from: CBC, Indigenious News
 
 ---
 
-## US 'optimistic' as trade talks with China continue
+## US, China to establish 'consultation mechanism' on trade
 
 date: 2025-05-11, from: RTÉ News
 
-The United States expressed optimism as talks with top Chinese officials continued for a second day in a bid to de-escalate trade tensions sparked by President Donald Trump's aggressive tariff rollout. 
+Chinese Vice Premier He Lifeng said that Beijing and Washington had agreed during weekend talks in Geneva to create a "consultation mechanism", as they strive to de-escalate trade tensions. 
 
 <br> 
 
@@ -712,7 +724,7 @@ Following pronouncements of an end to hostilities between India and Pakistan, ne
 
 ## ‘We can do better’ for pedestrian and cyclist safety worldwide
 
-date: 2025-05-10, from: United Nations, Top Stories
+date: 2025-05-10, from: United Nations, Climate Change
 
 A cycling network expanded from 70 kilometres to over 400 kilometres in Fortaleza, Brazil. A project to create a bike lane in every street of Paris. And the longest pedestrian and cycle tunnel in the world, in the Norwegian coastal city of Bergen.&nbsp; 
 
@@ -1604,7 +1616,7 @@ Israel’s plan to take control of relief assistance in Gaza would put civilian 
 
 ## UN warns copper shortage risks slowing global energy and technology shift
 
-date: 2025-05-09, from: United Nations, Top Stories
+date: 2025-05-09, from: United Nations, Economic Development
 
 A looming global copper shortage could stall the world’s transition to clean energy and digital technologies unless smarter trade and investment strategies are adopted, the UN’s trade and development body, UNCTAD, has warned. 
 
@@ -3648,7 +3660,7 @@ Where you're born could be the difference between living over three decades long
 
 ## ‘Alarming’ slowdown in human development - could AI provide answers?
 
-date: 2025-05-06, from: United Nations, Top Stories
+date: 2025-05-06, from: United Nations, Economic Development
 
 The progress of human development – as measured by people’s freedoms and well-being – has remained sluggish since the major shock of the COVID-19 pandemic. A UN study released on Tuesday finds that used in the right way, artificial intelligence could be a powerful tool to improve millions of lives.&nbsp; 
 

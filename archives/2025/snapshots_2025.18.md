@@ -1,11 +1,52 @@
 ---
 title: snapshots
-updated: 2025-05-11 12:15:41
+updated: 2025-05-11 14:08:03
 ---
 
 # snapshots
 
-(date: 2025-05-11 12:15:41)
+(date: 2025-05-11 14:08:03)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+Texas Police Are Slowly Joining What Could Be a ‘Giant ICE Army.’ 
+
+<br> 
+
+<https://www.texasobserver.org/texas-police-287g-ice-army/>
+
+---
+
+## Cursor: Security
+
+date: 2025-05-11, updated: 2025-05-11, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.cursor.com/en/security">Cursor: Security</a></strong></p>
+Cursor's security documentation page includes a surprising amount of detail about how the Cursor text editor's backend systems work.</p>
+<p>I've recently learned that checking an organization's list of documented subprocessors is a great way to get a feel for how everything works under the hood - it's a loose "view source" for their infrastructure! That was how I confirmed that Anthropic's search features <a href="https://simonwillison.net/2025/Mar/21/">used Brave search</a> back in March.</p>
+<p>Cursor's list includes AWS, Azure and GCP (AWS for primary infrastructure, Azure and GCP for "some secondary infrastructure"). They host their own custom models on <a href="https://fireworks.ai/">Fireworks</a> and make API calls out to OpenAI, Anthropic, Gemini and xAI depending on user preferences. They're using <a href="https://turbopuffer.com/">turbopuffer</a> as a hosted vector store.</p>
+<p>The most interesting section is about <a href="https://www.cursor.com/en/security#codebase-indexing">codebase indexing</a>:</p>
+<blockquote>
+<p>Cursor allows you to semantically index your codebase, which allows it to answer questions with the context of all of your code as well as write better code by referencing existing implementations. […]</p>
+<p>At our server, we chunk and embed the files, and store the embeddings in Turbopuffer. To allow filtering vector search results by file path, we store with every vector an obfuscated relative file path, as well as the line range the chunk corresponds to. We also store the embedding in a cache in AWS, indexed by the hash of the chunk, to ensure that indexing the same codebase a second time is much faster (which is particularly useful for teams).</p>
+<p>At inference time, we compute an embedding, let Turbopuffer do the nearest neighbor search, send back the obfuscated file path and line range to the client, and read those file chunks on the client locally. We then send those chunks back up to the server to answer the user’s question.</p>
+</blockquote>
+<p>When operating in <a href="https://www.cursor.com/security#privacy-mode-guarantee">privacy mode</a> - which they say is enabled by 50% of their users - they are careful not to store any raw code on their servers for longer than the duration of a single request. This is why they store the embeddings and obfuscated file paths but not the code itself.</p>
+<p>Reading this made me instantly think of the paper <a href="https://simonwillison.net/2024/Jan/8/text-embeddings-reveal-almost-as-much-as-text/">Text Embeddings Reveal (Almost) As Much As Text</a> about how vector embeddings can be reversed. The security documentation touches on that in the notes:</p>
+<blockquote>
+<p>Embedding reversal: academic work has shown that reversing embeddings is possible in some cases. Current attacks rely on having access to the model and embedding short strings into big vectors, which makes us believe that the attack would be somewhat difficult to do here. That said, it is definitely possible for an adversary who breaks into our vector database to learn things about the indexed codebases.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://lobste.rs/s/myrlhi/how_cursor_indexes_codebases_fast">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/embeddings">embeddings</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/11/cursor-security/#atom-everything>
 
 ---
 

@@ -1,104 +1,59 @@
 ---
 title: columns
-updated: 2025-05-11 12:15:36
+updated: 2025-05-11 14:07:57
 ---
 
 # columns
 
-(date: 2025-05-11 12:15:36)
+(date: 2025-05-11 14:07:57)
 
 ---
 
-**@Dave Winer's Scripting News** (date: 2025-05-11, from: Dave Winer's Scripting News)
+## 2025-05-11 Novigrad, Rovinj, Poreč
 
-So far Gemini has done the best job of emulating my coding style. Here's an <a href="https://g.co/gemini/share/96dad470052e">example</a>. I didn't have to instruct it in how to do it, it figured it out. Impressive. I've spent a lot of time trying and failing to get Claude and ChatGPT to work the way I work. It makes a big difference, because if I want to try out something they've offered, I have to spend time doing grunt work to get it so I can read it and understand what they're doing. 
+date: 2025-05-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-11-novigrad-rovinj-poreč">2025-05-11 Novigrad, Rovinj, Poreč</h1>
+
+<p>We’re spending a few days in Croatia. We took the plane to Zagreb, got a rental car and drove west to Istria. Our first station is Novigrad. The reputation for fabulous sunsets is well deserved.</p>
+
+<p><img loading="lazy" src="2025-05-11-novigrad-1.jpg" alt="a propeller on an airplane" /></p>
+
+<p>First stop on the autobahn.</p>
+
+<p><img loading="lazy" src="2025-05-11-novigrad-2.jpg" alt="Strudel, baklava, coffee and sparkling water" /></p>
+
+<p>Many hours later we finally arrived.
+Claudia does all the driving.
+I’m happy to see she’s still smiling.</p>
+
+<p><img loading="lazy" src="2025-05-11-novigrad-3.jpg" alt="Alex" />
+<img loading="lazy" src="2025-05-11-novigrad-4.jpg" alt="Claudia" /></p>
+
+<p>In May, everything is still offseason.
+The sunset is wonderful.</p>
+
+<p><img loading="lazy" src="2025-05-11-novigrad-5.jpg" alt="Sunset" /></p>
+
+<p><img loading="lazy" src="2025-05-11-novigrad-6.jpg" alt="2025-05-11-novigrad-6.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-7.jpg" alt="2025-05-11-novigrad-7.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-8.jpg" alt="2025-05-11-novigrad-8.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-9.jpg" alt="2025-05-11-novigrad-9.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-10.jpg" alt="2025-05-11-novigrad-10.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-11.jpg" alt="2025-05-11-novigrad-11.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-12.jpg" alt="2025-05-11-novigrad-12.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-13.jpg" alt="2025-05-11-novigrad-13.jpg" />
+<img loading="lazy" src="2025-05-11-novigrad-14.jpg" alt="2025-05-11-novigrad-14.jpg" /></p> 
 
 <br> 
 
-<http://scripting.com/2025/05/11.html#a152134>
-
----
-
-## Motherings
-
-date: 2025-05-11, from: Doc Searls (at Harvard), New Old Blog
-
-Trump will be flying Qatar One instead of (or as) Air Force One: Aaaand,,,, Call your mother, if she&#8217;s still around. If she&#8217;s not, remember her anyway. I did that here. I&#8217;m pointing to A look at broadcast history happening because it came up in a conversation about archives. Also because that history (especially concerning [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/05/11/tbds/>
-
----
-
-## What do I really own?
-
-date: 2025-05-11, from: Dave Winer's Scripting News
-
-<p>I once owned a few acres of land that had some old trees on it. I sat under one of the trees on a lovely afternoon, and thought of the tree "I own you." The tree formed a thought that somehow I could tune into. "I was here long before you were born and I will be here long after you die." I didn't see it exactly as a response to my claim of ownership. But it sure did put things in perspective!</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/11/ownership.png"></center>I thought of the tree, "I own you."</div></p>
-<p>PS: I wrote that paragraph in <a href="http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html#p9324">2011</a>. </p>
- 
-
-<br> 
-
-<http://scripting.com/2025/05/11/120442.html?title=whatDoIReallyOwn>
-
----
-
-## ‘Let It Be’ 
-
-date: 2025-05-11, from: Dan Rather's Steady
-
-A Reason To Smile 
-
-<br> 
-
-<https://steady.substack.com/p/let-it-be>
-
----
-
-## May 10, 2025
-
-date: 2025-05-11, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163323894/a72a6eb9bf0af408eec65e24d5860485.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163323894/a72a6eb9bf0af408eec65e24d5860485.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/may-10-2025-2e5>
-
----
-
-## Sunday thought
-
-date: 2025-05-11, from: Robert Reich's blog
-
-Moral clarity in a time of monsters 
-
-<br> 
-
-<https://robertreich.substack.com/p/sunday-thought-68f>
-
----
-
-## May 10, 2025 
-
-date: 2025-05-11, from: Heather Cox Richardson blog
-
-Those of us who are truly lucky have more than one mother. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/may-10-2025>
+<https://alexschroeder.ch/view/2025-05-11-novigrad>
 
 ---
 
 ## 2025-05-10 The beginning of May
 
-date: 2025-05-10, from: Alex Schroeder's Blog
+date: 2025-05-11, from: Alex Schroeder's Blog
 
 <h1 id="2025-05-10-the-beginning-of-may">2025-05-10 The beginning of May</h1>
 
@@ -189,9 +144,7 @@ Onobrychis viciifolia agg.</p>
 
 <p><img loading="lazy" src="2025-05-09-flowers-16.jpg" alt="2025-05-09-flowers-16.jpg" /></p>
 
-<p>Apparently not Taubenkropf (Cucubalus baccifer), says the app. I&rsquo;m confused.</p>
-
-<p>Gewöhnliches Leimkraut<br>
+<p>Gewöhnliches Leimkraut aka Taubenkropf-Leimkraut<br>
 Silene vulgaris</p>
 
 <p><img loading="lazy" src="2025-05-09-flowers-17.jpg" alt="2025-05-09-flowers-17.jpg" /></p>
@@ -249,6 +202,103 @@ Hippocrepis comosa</p>
 <br> 
 
 <https://alexschroeder.ch/view/2025-05-09-flowers>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Rewriting the Godot rotation control, so I can make it more touch friendly and also animate tapping into the small axis balls to snap into that axis:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114490194585291520>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-11, from: Dave Winer's Scripting News)
+
+So far Gemini has done the best job of emulating my coding style. Here's an <a href="https://g.co/gemini/share/96dad470052e">example</a>. I didn't have to instruct it in how to do it, it figured it out. Impressive. I've spent a lot of time trying and failing to get Claude and ChatGPT to work the way I work. It makes a big difference, because if I want to try out something they've offered, I have to spend time doing grunt work to get it so I can read it and understand what they're doing. 
+
+<br> 
+
+<http://scripting.com/2025/05/11.html#a152134>
+
+---
+
+## Motherings
+
+date: 2025-05-11, from: Doc Searls (at Harvard), New Old Blog
+
+Trump will be flying Qatar One instead of (or as) Air Force One: Aaaand,,,, Call your mother, if she&#8217;s still around. If she&#8217;s not, remember her anyway. I did that here. I&#8217;m pointing to A look at broadcast history happening because it came up in a conversation about archives. Also because that history (especially concerning [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/11/tbds/>
+
+---
+
+## What do I really own?
+
+date: 2025-05-11, from: Dave Winer's Scripting News
+
+<p>I once owned a few acres of land that had some old trees on it. I sat under one of the trees on a lovely afternoon, and thought of the tree "I own you." The tree formed a thought that somehow I could tune into. "I was here long before you were born and I will be here long after you die." I didn't see it exactly as a response to my claim of ownership. But it sure did put things in perspective!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/11/ownership.png"></center>I thought of the tree, "I own you."</div></p>
+<p>PS: I wrote that paragraph in <a href="http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html#p9324">2011</a>. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/11/120442.html?title=whatDoIReallyOwn>
+
+---
+
+## ‘Let It Be’ 
+
+date: 2025-05-11, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/let-it-be>
+
+---
+
+## May 10, 2025
+
+date: 2025-05-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163323894/a72a6eb9bf0af408eec65e24d5860485.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163323894/a72a6eb9bf0af408eec65e24d5860485.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-10-2025-2e5>
+
+---
+
+## Sunday thought
+
+date: 2025-05-11, from: Robert Reich's blog
+
+Moral clarity in a time of monsters 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-68f>
+
+---
+
+## May 10, 2025 
+
+date: 2025-05-11, from: Heather Cox Richardson blog
+
+Those of us who are truly lucky have more than one mother. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-10-2025>
 
 ---
 

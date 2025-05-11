@@ -1,11 +1,49 @@
 ---
 title: pacific
-updated: 2025-05-11 12:15:35
+updated: 2025-05-11 14:07:56
 ---
 
 # pacific
 
-(date: 2025-05-11 12:15:35)
+(date: 2025-05-11 14:07:56)
+
+---
+
+## Math is to politics what rain is to a parade
+
+date: 2025-05-11, from: Pacific Island Times
+
+Here in the Commonwealth of the Northern Mariana Islands, the contrast between the state of public education, public health, infrastructure, and living standards before and after the local economic boom of the late 1980s and early 1990s is astounding. The two are at opposite ends of the spectrum. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/math-is-to-politics-what-rain-is-to-a-parade>
+
+---
+
+## The uncertain future of Guam education 
+
+date: 2025-05-11, from: Pacific Island Times
+
+The idea is to decentralize education and allow each state and territory to handle its individual needs. They may set their own education agenda and localize their policies without being tied to federal guidelines. But the picture remains abstract. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-uncertain-future-of-guam-education>
+
+---
+
+## What Guam can do amid the tariff chaos
+
+date: 2025-05-11, from: Pacific Island Times
+
+The tariff hullabaloo presented a rare, serendipitous occasion when we found consolation in the isolated perks of Guam’s status as an unincorporated territory—an arrangement that is generally far from ideal.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/what-guam-can-do-amid-the-tariff-chaos>
 
 ---
 

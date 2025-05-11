@@ -1,11 +1,25 @@
 ---
 title: food
-updated: 2025-05-11 12:15:40
+updated: 2025-05-11 14:08:02
 ---
 
 # food
 
-(date: 2025-05-11 12:15:40)
+(date: 2025-05-11 14:08:02)
+
+---
+
+## I Made Lasagna with Potatoes, and I’ll Never Go Back to Noodles
+
+date: 2025-05-11, from: Taste of Home
+
+<p>Hear me out: lasagna with potatoes instead of noodles. It's downright delicious.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lasagna-with-potatoes/">I Made Lasagna with Potatoes, and I&#8217;ll Never Go Back to Noodles</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lasagna-with-potatoes/>
 
 ---
 

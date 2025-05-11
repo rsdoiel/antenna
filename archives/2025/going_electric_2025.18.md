@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-05-11 12:15:40
+updated: 2025-05-11 14:08:01
 ---
 
 # going electric
 
-(date: 2025-05-11 12:15:40)
+(date: 2025-05-11 14:08:01)
 
 ---
 
