@@ -1,11 +1,310 @@
 ---
 title: pacific
-updated: 2025-05-10 06:07:49
+updated: 2025-05-11 06:08:47
 ---
 
 # pacific
 
-(date: 2025-05-10 06:07:49)
+(date: 2025-05-11 06:08:47)
+
+---
+
+##  Palau monoliths: stories in stones
+
+date: 2025-05-11, from: Pacific Island Times
+
+Some of the stone statues are accessible and easy to find, while others are hidden away, presumably tucked in private properties or spots known only to locals or others in the know. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/palau-monoliths-stories-in-stones>
+
+---
+
+## The 'Art' of statistics: How my hate of numbers has turned to love
+
+date: 2025-05-11, from: Pacific Island Times
+
+Lessons from Everyday Life By Theodore Lewis Bridgman, MI —Throughout my school years, I hated the study of numbers. Statistics, Algebra... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-art-of-statistics-how-my-hate-of-numbers-has-turned-to-love>
+
+---
+
+## Micronesian basket: Now becoming a relic of the past
+
+date: 2025-05-11, from: Pacific Island Times
+
+ Only a handful still traditionally use these native bags. In Yap and Chuuk, people walk around with baskets of various sizes and shapes, filled with betel nuts. In other parts of Chuuk, the basket is used for carrying machetes, food and “rong” (medicine and magic). In Pohnpei, the basket is a symbol of forgiveness. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/micronesian-basket-now-becoming-a-relic-of-the-past>
+
+---
+
+## Inalåhan's muse: Judy Flores paints the soul of southern Guam
+
+date: 2025-05-11, from: Pacific Island Times
+
+Judy Flores By Ron Rocky Coloma  The Rocky Mountains and the village of Inalåhan couldn't be more different. One is a vast, rugged... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/inal%C3%A5han-s-muse-judy-flores-paints-the-soul-of-southern-guam>
+
+---
+
+## Land board rejects final EIS for Pohakuloa Training Area
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>Testifiers Friday at the Board of Land and Natural Resources meeting in Honolulu turned a vote on the U.S. Army&#8217;s Final Environmental Impact Statement for the proposed retention of state-owned lands at Pohakuloa Training Area into a referendum on lease renewal, the U.S. military in Hawaii and Hawaiian sovereignty.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/hawaii-news/land-board-rejects-final-eis-for-pohakuloa-training-area/>
+
+---
+
+## US and China meet for high-stakes economic talks
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Top economic officials from the United States and China concluded their first day of meetings in Geneva on Saturday evening, setting up a second day of high-stakes negotiations today that could determine the fate of a global economy that has been jolted by President Donald Trump&#8217;s trade war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/nation-world-news/us-and-china-meet-for-high-stakes-economic-talks/>
+
+---
+
+## Hawaii to receive $700M in drug settlement over blood thinner
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii will receive $700 million in a landmark settlement from pharmaceutical giants Bristol Myers Squibb and Sanofi following more than a decade of litigation over the blood thinner Plavix and its lack of efficacy in Asian American, Pacific Islander and Native Hawaiian populations, Gov. Josh Green announced Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/hawaii-news/hawaii-to-receive-700m-in-drug-settlement-over-blood-thinner/>
+
+---
+
+## Steves: York is a time-travel experience into old England
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>We may have New York, but England has old York, one of the country&#8217;s top tourist destinations outside of London. The town offers a captivating tour of historic sights mixed with an easygoing pedestrian ambience &#8212; all lassoed within its formidable medieval wall.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/features/steves-york-is-a-time-travel-experience-into-old-england/>
+
+---
+
+## India and Pakistan announce ceasefire but clashes persist
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>NEW DELHI &#8212; India and Pakistan abruptly declared a ceasefire Saturday, after four days of rapidly escalating drone volleys, shelling and airstrikes that appeared to bring the old enemies to the brink of outright war. Hours later, each country accused the other of violating the deal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/nation-world-news/india-and-pakistan-announce-ceasefire-but-clashes-persist/>
+
+---
+
+## 3 lawmakers involved in Newark protest could be arrested, DHS says
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>A spokesperson for the Department of Homeland Security suggested Saturday that three Democratic members of Congress might face assault charges after a confrontation outside an immigration detention facility in Newark, New Jersey, during the arrest of the city&#8217;s mayor, even as new details emerged that appeared to contradict the Trump administration&#8217;s account of the surrounding events.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/nation-world-news/3-lawmakers-involved-in-newark-protest-could-be-arrested-dhs-says/>
+
+---
+
+## What’s the cost to society of pollution? Trump says zero.
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>The White House has ordered federal agencies to stop considering the economic damage caused by climate change when writing regulations, except in cases where it is &#8220;plainly required&#8221; by law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/nation-world-news/whats-the-cost-to-society-of-pollution-trump-says-zero/>
+
+---
+
+## Volcano Watch: 20 episodes and counting; lava fountains continue in Kaluapele
+
+date: 2025-05-11, from: Hawaii Tribune Harold
+
+
+				<p>On Dec. 23, 2024, eruptive activity at Kilauea&#8217;s summit began again with the first in what has become 20 discrete lava fountaining episodes. Many episodes have had dual fountains &#8212; two erupting at the same time &#8212; a rare occurrence at Kilauea and worldwide. The most recent episode 20 concluded at 9:28 p.m. on May 6, 2025.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/11/features/volcano-watch-20-episodes-and-counting-lava-fountains-continue-in-kaluapele/>
+
+---
+
+## What has happened to the American dream?
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>The American dream &#8212; often idealized by the house and white picket fence &#8212; has been debated, pondered and relentlessly pursued by those who have lived in the United States for generations, as well as more recent immigrants.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/what-has-happened-to-the-american-dream/>
+
+---
+
+## Mild recession forecast for Hawaii economy
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>University of Hawaii economists expect the state economy to begin gradually contracting later this year due to federal policy impacts hurting tourism, employment and personal income.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/hawaii-news/mild-recession-forecast-for-hawaii-economy/>
+
+---
+
+## ICE arrests 50 in raids across 3 Hawaiian islands
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>Federal agents arrested 50 people this week on Oahu, Maui and Hawaii island for violating immigration laws due to convictions for crimes including murder, domestic violence and drug possession.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/hawaii-news/ice-arrests-50-in-raids-across-3-hawaiian-islands/>
+
+---
+
+## Trump suggests openness to slashing China tariffs before trade talks
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump suggested Friday that he was open to sharply reducing the tariffs the United States had imposed on China, as American and Chinese negotiators prepare to meet in Switzerland this weekend for high-stakes trade talks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/trump-suggests-openness-to-slashing-china-tariffs-before-trade-talks/>
+
+---
+
+## Newark’s mayor arrested at protest outside ICE detention center
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>Federal officials arrested Ras J. Baraka, the mayor of Newark, New Jersey, on Friday after a confrontation that also involved three members of Congress at a new immigration detention facility that is expected to play a central role in President Donald Trump&#8217;s mass deportation effort.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/newarks-mayor-arrested-at-protest-outside-ice-detention-center/>
+
+---
+
+## First white South Africans to arrive under US refugee plan as soon as next week
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s administration is aiming to bring the first group of white South Africans to the United States via its refugee program as soon as next week, three people familiar with the matter said, a divisive effort given that Trump has been blocking refugee admissions from the rest of the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/first-white-south-africans-to-arrive-under-us-refugee-plan-as-soon-as-next-week/>
+
+---
+
+## Trump officials mull proposing COFA status to Greenland
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. officials are discussing a plan to pull Greenland into America&#8217;s sphere of influence using a type of agreement that the United States has used to keep close ties with several Pacific Island nations, according to two U.S. officials and another person familiar with the discussions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/trump-officials-mull-proposing-cofa-status-to-greenland/>
+
+---
+
+## Tufts student released from US immigration custody after judge’s order
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>A Tufts University student from Turkey who was held for over six weeks in an immigration detention center in Louisiana after co-writing an opinion piece criticizing her school&#8217;s response to Israel&#8217;s war in Gaza was released from custody on Friday after a federal judge granted her bail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/tufts-student-released-from-us-immigration-custody-after-judges-order/>
+
+---
+
+## Newark airport has another radar outage
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>An air traffic control facility that guides planes at Newark Liberty International Airport in New Jersey had a brief radar outage Friday morning, the latest technological disruption at one of the nation&#8217;s busiest airports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/newark-airport-has-another-radar-outage/>
+
+---
+
+## UH alumni 15 of PBN Women Who Mean Business honorees
+
+date: 2025-05-10, from: University of Hawaiʻi News
+
+<p>Fifteen trailblazing <abbr>UH</abbr> grads honored for leadership and impact.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/09/uh-alumni-pbn-women-who-mean-business/"><abbr>UH</abbr> alumni 15 of <abbr>PBN</abbr> Women Who Mean Business honorees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/09/uh-alumni-pbn-women-who-mean-business/>
 
 ---
 
@@ -84,6 +383,18 @@ Officially launched in March 2024, Joint Task Force Micronesia serves as the nuc
 <br> 
 
 <https://www.pacificislandtimes.com/post/huffman-s-tour-of-duty-on-guam-ends-next-week>
+
+---
+
+## Mercury Offers Auto Accessories Under $50 That Make Perfect Mother’s Day Gifts
+
+date: 2025-05-09, updated: 2025-05-09, from: Marianas Variety
+
+(BPT) - Mother's Day is this Sunday, May 11, and if you're still hunting for the perfect last-minute gift, consider something practical that shows you care. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/automotive/mercury-offers-auto-accessories-under-50-that-make-perfect-mother-s-day-gifts/article_2f14b2f5-ce59-5fc5-af63-278017c3167d.html>
 
 ---
 
@@ -620,6 +931,30 @@ date: 2025-05-09, from: Island Times
 
 ---
 
+## Do You Have What it Takes to Win This College Scholarship?
+
+date: 2025-05-09, updated: 2025-05-09, from: Marianas Variety
+
+(StatePoint) For 25 years, one scholarship contest has challenged high school students across the United States and Canada to reimagine prom fashion. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/fashion_beauty_fitness/do-you-have-what-it-takes-to-win-this-college-scholarship/article_66c226b4-7ff4-5a2e-9918-608a40da385c.html>
+
+---
+
+## Four Ways You Can Support Young Men’s Mental Health
+
+date: 2025-05-09, updated: 2025-05-09, from: Marianas Variety
+
+(StatePoint) There is an epidemic of loneliness affecting boys and young men in America. The fascination with recent shows like Netflix’s “Adolescence,” Jonathan Haidt’s “The Anxious Generation,” and the return of the online “Ice Bucket Challenge” spotlight this youth mental health crisis in important ways that have reached millions. It is no secret how the mental health crisis has impacted boys and young men, and with May marking Mental Health Awareness Month, the conversation is more important than ever. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/four-ways-you-can-support-young-men-s-mental-health/article_5fb2f556-a27b-5ef0-8e00-b6ad1d61fe0c.html>
+
+---
+
 ## Post-election chaos in Chuuk went under the radar
 
 date: 2025-05-09, from: Pacific Island Times
@@ -629,6 +964,18 @@ What does the Chuuk election mean for Asia-Pacific? While political federations 
 <br> 
 
 <https://www.pacificislandtimes.com/post/post-election-chaos-in-chuuk-went-under-the-radar>
+
+---
+
+## Tips, tricks and color recommendations for new homeowners and first-time painters
+
+date: 2025-05-09, updated: 2025-05-09, from: Marianas Variety
+
+(BPT) - Whether you've just bought your first home or are looking for a spring refresh, tackling your first paint project is the first step to making a space your own. But with so many options to choose from, where to begin? 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/tips-tricks-and-color-recommendations-for-new-homeowners-and-first-time-painters/article_e403c322-63cc-5185-98ec-7eae2028c37f.html>
 
 ---
 
@@ -696,6 +1043,18 @@ date: 2025-05-08, from: Pacific Island Times
 
 ---
 
+## Healthy body, healthy brain: Tips to optimize your brain health
+
+date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+
+(BPT) - By 2030, more than 20% of the U.S. population — about 71 million Americans — will be over the age of 65. With age, many of us may notice changes in cognition — things like misplacing our keys or forgetting a neighbor's name. While we expect our bodies to change with age and aren't alarmed when they do, many people assume the worst when their memory or cognition changes. It's important to understand that our brains age just like our bodies. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/healthy-body-healthy-brain-tips-to-optimize-your-brain-health/article_7e520e32-c424-51ec-a02f-dea0cd7b980e.html>
+
+---
+
 ## Kenneth to the rescue
 
 date: 2025-05-08, from: Marshal Islands Journal
@@ -725,7 +1084,7 @@ The post <a href="https://www.hawaii.edu/news/2025/05/08/leeward-cc-shines-caree
 
 ## Prevost surprises as first US pope, takes name Leo XIV
 
-date: 2025-05-08, updated: 2025-05-09, from: Marianas Variety
+date: 2025-05-08, updated: 2025-05-11, from: Marianas Variety
 
 VATICAN CITY (Reuters) — Cardinal Robert Prevost, a little known missionary from Chicago, was elected as a surprise choice to be the new leader of the Catholic Church on Thursday, becoming the first U.S. pope and taking the name Leo XIV. 
 
@@ -750,7 +1109,7 @@ The post <a href="https://www.hawaii.edu/news/2025/05/08/building-green-futures/
 
 ## Britain set to strike first deal to cut Trump tariffs
 
-date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+date: 2025-05-08, updated: 2025-05-11, from: Marianas Variety
 
 LONDON (Reuters) — The United States and Britain will announce a deal to lower tariffs on some goods on Thursday, the first such agreement since President Donald Trump sparked a global trade war with universal levies. 
 
@@ -762,7 +1121,7 @@ LONDON (Reuters) — The United States and Britain will announce a deal to lower
 
 ## Public hearing on Tinian for latest draft of solid waste management plan set for May 21
 
-date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+date: 2025-05-08, updated: 2025-05-11, from: Marianas Variety
 
 (OPD) — The CNMI Office of Planning and Development on behalf of the Inter-Island Solid Waste Management Task Force invites you to a public hearing on May 21, 2025 from 6 p.m. to 7:30 p.m. at the Tinian Public Library to share your thoughts, voice your concerns, and learn more about the CNMI Comprehensive Integrated Solid Waste Management Plan. 
 
@@ -774,7 +1133,7 @@ date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
 
 ## Ocean Breeze
 
-date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+date: 2025-05-08, updated: 2025-05-11, from: Marianas Variety
 
 SPENDING time with my mom is one of the best ways to create memories. But the best memories are when she does story time with me and my siblings. One of our favorite stories would be how she came to name our brother Tasi. 
 
@@ -786,7 +1145,7 @@ SPENDING time with my mom is one of the best ways to create memories. But the be
 
 ## Inas’ Kitchen Int’l Food Challenge at ‘Taste’ on May 10
 
-date: 2025-05-08, updated: 2025-05-08, from: Marianas Variety
+date: 2025-05-08, updated: 2025-05-11, from: Marianas Variety
 
 (MVA) — Three international teams take to the main stage this Saturday, May 10, in the Inas’ Kitchen International Food Challenge at the 26th Annual Taste of The Marianas International Food Festival in Garapan, Saipan. Starting at 7 p.m., two-person teams from South Korea, Japan, and The Marianas will face off against a collective 18 lbs. of burger and six pounds of fries in a race to finish first. 
 
@@ -3015,234 +3374,4 @@ GTA representatives noted that many of Samsung’s free AI features have been av
 <br> 
 
 <https://www.pacificislandtimes.com/post/samsung-s-live-translate-breaks-language-barriers>
-
----
-
-## 'In this brave new world, brave journalists are required'
-
-date: 2025-05-03, from: Pacific Island Times
-
-The findings are clear: self-censorship is a real and pressing challenge, especially as intentional disinformation and misinformation campaigns create fractures and divide our communities. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/in-this-brave-new-world-brave-journalists-are-required>
-
----
-
-## Trump proposes $163 billion in cuts across government in new budget
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump on Friday proposed slashing $163 billion in federal spending next fiscal year, a drastic retrenchment in the role and reach of government that, if enacted, would eliminate a vast set of climate, education, health and housing programs, including some that benefit the poor. Issuing his first budget proposal since returning to office, Trump sketched out a dim view of Washington. His blueprint depicted many core government functions as woke, weaponized, wasteful or radical, as the president looked to justify his request that Congress chop domestic spending to its lowest level in the modern era.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/trump-proposes-163-billion-in-cuts-across-government-in-new-budget/>
-
----
-
-## Trump ends Chinese tariff loophole, raising the cost of online goods
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>The Trump administration on Friday officially eliminated a loophole that had allowed American shoppers to buy cheap goods from China without paying tariffs. The move will help U.S. manufacturers that have struggled to compete with a wave of low-cost Chinese products, but it has already resulted in higher prices for Americans who shop online.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/trump-ends-chinese-tariff-loophole-raising-the-cost-of-online-goods/>
-
----
-
-## Companies are serving notice: We’re raising prices because of tariffs
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; More companies are starting to warn that they will have to pass on higher costs to American consumers, raising prices for products like strollers, mattresses, power tools and cast-iron cookware as President Donald Trump&#8217;s tariffs take hold.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/companies-are-serving-notice-were-raising-prices-because-of-tariffs/>
-
----
-
-## Veterans’ groups object to Trump’s proposal to rename Veterans Day
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump&#8217;s announcement that he planned to change the name of Veterans Day, on Nov. 11, to &#8220;Victory Day for World War I&#8221; prompted a backlash from some veterans&#8217; groups, which complained that the move would champion conquest over sacrifice and ignore the sacrifices of most living veterans.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/veterans-groups-object-to-trumps-proposal-to-rename-veterans-day/>
-
----
-
-## Kennedy orders search for new measles treatments instead of urging vaccination
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>With the United States facing its largest single measles outbreak in 25 years, Health and Human Services Secretary Robert F. Kennedy Jr. will direct federal health agencies to explore potential new treatments for the disease, including vitamins, according to an HHS spokesperson. The decision is the latest in a series of actions by the nation&#8217;s top health official that experts fear will undermine public confidence in vaccines as an essential public health tool.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/kennedy-orders-search-for-new-measles-treatments-instead-of-urging-vaccination/>
-
----
-
-## Explosions cripple ship carrying aid to Gaza in the Mediterranean Sea
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>A ship carrying 16 people and humanitarian aid to the Gaza Strip was rocked by explosions early Friday off the coast of Malta, setting the vessel on fire and putting it at risk of sinking, according to the human rights group operating the ship.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/explosions-cripple-ship-carrying-aid-to-gaza-in-the-mediterranean-sea/>
-
----
-
-## TikTok fined $600 million for sending European user data to China
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>LONDON &#8212; TikTok was fined 530 million euros ($600 million) on Friday for violating a European Union data privacy law after regulators found the company had improperly transferred users&#8217; personal data to China.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/tiktok-fined-600-million-for-sending-european-user-data-to-china/>
-
----
-
-## Illinois man sentenced to 53 years in killing of Palestinian American boy
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>JOLIET, Ill. &#8212; An Illinois judge sentenced a man to 53 years in prison on Friday for the fatal stabbing of a 6-year-old boy in 2023 and the nonfatal stabbing of the boy&#8217;s mother, an attack that jurors found to have been motivated by anti-Muslim hate.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/illinois-man-sentenced-to-53-years-in-killing-of-palestinian-american-boy/>
-
----
-
-## NPR and PBS vow to fight Trump’s order to cut funding
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump&#8217;s executive order to defund NPR and PBS was met with fiery pushback on Friday, as the organizations challenged the legality of the move and said it could jeopardize access to vital information.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/npr-and-pbs-vow-to-fight-trumps-order-to-cut-funding/>
-
----
-
-## Former weather service leaders warn staffing cuts could lead to ‘loss of life’
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>Five former National Weather Service directors have taken the unusual step of signing onto an open letter warning that cuts to the organization by the Trump administration may soon endanger lives.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/nation-world-news/former-weather-service-leaders-warn-staffing-cuts-could-lead-to-loss-of-life/>
-
----
-
-## Tropical Gardening: Fragrance adds another spring pleasure to Hawaiian gardens
-
-date: 2025-05-03, from: Hawaii Tribune Harold
-
-
-				<p>May Day, also know as Lei Day, has passed however, Hawaiian gardeners keep it going all year long. On the mainland spring is short lived, but in Hawaii, spring is all year. Here, there is a noticeable spring fever effect when it comes to local gardeners because many flowers start heavy blooming at this time. Since Mother&#8217;s Day is May 11, it is not too early to find gifts of plants for your favorite lady or ladies as the case may be!</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/03/features/tropical-gardening-fragrance-adds-another-spring-pleasure-to-hawaiian-gardens/>
-
----
-
-## Wahinekapu, Wedderburn, Schager named 2025 Bonham Award winners
-
-date: 2025-05-03, from: University of Hawaiʻi News
-
-<p>The Jack Bonham Award was presented to Lily Wahinekapu (women’s basketball), Jordan Wedderburn (women’s water polo) and Brayden Schager (football).</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/02/2025-bonham-award/">Wahinekapu, Wedderburn, Schager named 2025 Bonham Award winners</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/02/2025-bonham-award/>
-
----
-
-## Santa Barbara Catholic School brings magic and might to ‘Matilda Jr.’
-
-date: 2025-05-03, from: Pacific Island Times
-
-Santa Barbara Catholic School’s April production of “Matilda Jr.” became more than just a school musical.  
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/santa-barbara-catholic-school-brings-magic-and-might-to-matilda-jr>
-
----
-
-## UH professor produces and directs an Indian dance showcase
-
-date: 2025-05-03, from: University of Hawaiʻi News
-
-<p>Kah&#257;n&#299;, led by <abbr>UH</abbr> Mānoa’s Sai Bhatawadekar, brought Indian stories to life through dance and music at the Doris Duke Theater.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/02/kahani-indian-dance-showcase/"><abbr>UH</abbr> professor produces and directs an Indian dance showcase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/02/kahani-indian-dance-showcase/>
-
----
-
-## Judiciary AI chatbot launches with support from UH Mānoa
-
-date: 2025-05-03, from: University of Hawaiʻi News
-
-<p>The chatbot uses natural language processing to engage users in real-time conversations.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/">Judiciary <abbr>AI</abbr> chatbot launches with support from <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/>
-
----
-
-## Honolulu CC’s Hoʻolauleʻa engages 300+ in culture, sustainability
-
-date: 2025-05-03, from: University of Hawaiʻi News
-
-<p>Hands-on Hawaiian traditions, music, food, more, connect Honolulu <abbr>CC</abbr> community.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/02/honolulu-cc-hoolaulea/">Honolulu <abbr>CC</abbr>’s Hoʻolauleʻa engages 300+ in culture, sustainability</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/02/honolulu-cc-hoolaulea/>
 

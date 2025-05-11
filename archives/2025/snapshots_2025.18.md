@@ -1,11 +1,492 @@
 ---
 title: snapshots
-updated: 2025-05-10 06:07:58
+updated: 2025-05-11 06:08:56
 ---
 
 # snapshots
 
-(date: 2025-05-10 06:07:58)
+(date: 2025-05-11 06:08:56)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+Trump administration poised to accept &#39;palace in the sky&#39; as a gift for Trump from Qatar. 
+
+<br> 
+
+<https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+My personal feed reader is open to the public, no charge. It gets as much traffic as the home page of my blog. 
+
+<br> 
+
+<https://news.scripting.com/?tab=all>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+Judges Say Pizza Deliveries Are Meant to Intimidate. 
+
+<br> 
+
+<https://politicalwire.com/2025/05/11/judges-say-pizza-deliveries-are-meant-to-intimidate/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+FEMA cuts emergency training under Trump as hurricane season looms. 
+
+<br> 
+
+<https://www.reuters.com/business/environment/fema-cuts-emergency-training-hurricane-season-looms-2025-05-11/?link_source=ta_bluesky_link&taid=68207c31925fde0001bcd945>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+Boston-area climate activists report visits from the FBI. 
+
+<br> 
+
+<https://www.wbur.org/news/2025/05/08/boston-environmental-activists-fbi-visits>
+
+---
+
+## Causes, Benefits and Costs of International Trade
+
+date: 2025-05-11, from: Paul Krugman
+
+A primer on the basics 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/causes-benefits-and-costs-of-international>
+
+---
+
+## Community college tap dancer
+
+date: 2025-05-11, updated: 2025-05-11, from: Simon Willison’s Weblog
+
+<p>Achievement unlocked: tap danced in the local community college dance recital.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/dance">dance</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/11/tap-dancer/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-11, from: Robert's feed at BlueSky)
+
+Not so fast. When did he become a citizen of Peru? (Changes end taxation by U.S. at some point). He is now the head of a country.  The Vatican is a nation state. I don't see the IRS sending out agents.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lougomxxcs2e>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-11, from: Feed for Alt USDS)
+
+DOGE is turning into that one annoying co-worker who takes credit for a project that YOU completed.They're bragging about fixing paper-based retirement systems, but guess what? Most of the progress came from Biden-era work.
+
+Learn more: https://bit.ly/4jQzaas 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3loudxjdhx523>
+
+---
+
+## The Pope gets it
+
+date: 2025-05-10, from: Gary Marcus blog
+
+In age when few political leaders are engaging with AI, Pope Leo XIV gets it. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/the-pope-gets-it>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Former Supreme Court Justice David Souter dies at 85. 
+
+<br> 
+
+<https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Trump is a TV character. 
+
+<br> 
+
+<https://www.thedailybeast.com/is-trump-out-of-touch-senile-nuts-or-something-worse/>
+
+---
+
+## Poker Face season two on FanFare
+
+date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
+
+<p>Poker Face season two just started on Peacock (the US streaming service). It's my favorite thing on TV right now. I've started threads on MetaFilter FanFare for episodes <a href="https://fanfare.metafilter.com/26073/Poker-Face-The-Game-Is-a-Foot">one</a>, <a href="https://fanfare.metafilter.com/26075/Poker-Face-Last-Looks">two</a> and <a href="https://fanfare.metafilter.com/26077/Poker-Face-Whack-a-Mole">three</a>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/tv">tv</a>, <a href="https://simonwillison.net/tags/metafilter">metafilter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/10/poker-face/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+Does it matter more that the guy doesn't know anything or that he knows and lies constantly?
+
+This is a Washington Post Aaron Blake piece about how often Trump says he doesn't know about events.
+
+archive.is/B4pBL
+https://archive.is/B4pBL 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lotvgh72rk2z>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Zero ships from China are bound for California’s top ports. Officials haven’t seen that since the pandemic. 
+
+<br> 
+
+<https://www.cnn.com/2025/05/10/business/zero-ships-china-trade-ports-pandemic>
+
+---
+
+## Beelink ME mini is now available for $329 (NAS with Intel N150 and up to 6 NVMe SSDs)
+
+date: 2025-05-10, from: Liliputing
+
+<p>The Beelink ME mini is a compact network-attached storage device that&#8217;s basically a cube-shaped mini PC with a 6-watt Intel N150 quad-core processor based on &#8220;Twin Lake&#8221; architecture and six M.2 slots for up to 24TB of total PCIe NVMe storage. First unveiled earlier this year, the Beelink ME mini is now available for pre-order. You [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-me-mini-is-now-available-for-329-nas-with-intel-n150-and-up-to-6-nvme-ssds/">Beelink ME mini is now available for $329 (NAS with Intel N150 and up to 6 NVMe SSDs)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-me-mini-is-now-available-for-329-nas-with-intel-n150-and-up-to-6-nvme-ssds/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+Happy Birthday, Mother Fletcher!
+Thank you for inspiring the world to pursue truth and justice no matter how long it takes, or how heavy the burden. 💛
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lotpkbi4ik2b>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+The American Dream is to have a dream. 
+
+<br> 
+
+<http://scripting.com/2025/05/10/125322.html>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-05-10, from: Tomosino's Mastodon feed)
+
+<p>If you got elected Pope, what would your Pope name be?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114485127047314377>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+The video of Paul Frazee of Bluesky&#39;s talk at Berkman last Wednesday. I haven&#39;t watched it yet, but I plan to. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=xDhBVm3iTCQ>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-10, from: Robert's feed at BlueSky)
+
+I found this both meaningful and inspiring on many levels. https://www.cjr.org/analysis/politifact-cspan-republicans-fact-check.php 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lotfvntzw22p>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-10, from: Robert's feed at BlueSky)
+
+So F-ing true 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lotelt24j22m>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+ICYMI: "DOGE is an insider threat. Name what's happening then act on it. That's how you de-weaponize it." Kate and Milo recently spoke with about what DOGE *really* is.
+
+ https://bit.ly/4jPHffi 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lotcoas6hl2t>
+
+---
+
+## The Am Dash
+
+date: 2025-05-10, from: Chris Coyier blog
+
+The Am Dash is a clever idea. It&#8217;s a little typographic dash you can slip into text that sorta &#8220;proves&#8221; it&#8217;s human written, while looking kinda cool. This &#8220;proves&#8221; it&#8217;s human written because there is barely any text in the world that uses this so LLMs will (never?) generate text that has &#8220;am-&#8221; in it [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/05/10/the-am-dash/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+UVA Tried To Shut Down Its Historical Tours Discussing Slavery. These Students Resisted. 
+
+<br> 
+
+<https://www.teenvogue.com/story/uva-historical-tours-slavery-students>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+America as a platform. 
+
+<br> 
+
+<http://scripting.com/2025/05/10/125322.html?title=americaAsAPlatform>
+
+---
+
+## The secret to AGI, in 4 pages
+
+date: 2025-05-10, from: Gary Marcus blog
+
+A couple days ago I learned on X that getting to AGI was much easier than I had long thought. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/the-secret-to-agi-in-4-pages>
+
+---
+
+## Ancient Poems Record the Decline of a Special Porpoise
+
+date: 2025-05-10, from: 404 Media Group
+
+The Yangtze finless porpoise is near extinction in the wild, but glimpses of its heyday can be found in centuries of Chinese poetry. 
+
+<br> 
+
+<https://www.404media.co/ancient-poems-record-the-decline-of-a-special-porpoise/>
+
+---
+
+## 50 Years of Portuguese Democracy
+
+date: 2025-05-10, from: Paul Krugman
+
+My talk in Lisbon 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/50-years-of-portuguese-democracy>
+
+---
+
+## Trying out llama.cpp's new vision support
+
+date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
+
+<p>This <a href="https://github.com/ggml-org/llama.cpp/pull/12898">llama.cpp server vision support via libmtmd</a> pull request - via <a href="https://news.ycombinator.com/item?id=43943047">Hacker News</a> - was merged earlier today. The PR finally adds full support for vision models to the excellent <a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a> project. It's documented <a href="https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md">on this page</a>, but the more detailed technical details are <a href="https://github.com/ggml-org/llama.cpp/tree/master/tools/mtmd#multimodal-support-in-llamacpp">covered here</a>. Here are my notes on getting it working on a Mac.</p>
+<p><code>llama.cpp</code> models are usually distributed as <code>.gguf</code> files. This project introduces a new variant of those called <code>mmproj</code>, for multimodal projector. <code>libmtmd</code> is the new library for handling these.</p>
+<p>You can try it out by compiling <code>llama.cpp</code> from source, but I found another option that works: you can download pre-compiled binaries from the <a href="https://github.com/ggml-org/llama.cpp/releases">GitHub releases</a>.</p>
+<p>On macOS there's an extra step to jump through to get these working, which I'll describe below.</p>
+
+<p><strong>Update</strong>: it turns out the <a href="https://formulae.brew.sh/formula/llama.cpp">Homebrew package</a> for <code>llama.cpp</code> turns things around <em>extremely</em> quickly. You can run <code>brew install llama.cpp</code> or <code>brew upgrade llama.cpp</code> and start running the below tools without any extra steps.</p>
+
+<p>I downloaded the <code>llama-b5332-bin-macos-arm64.zip</code> file from <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b5332">this GitHub release</a> and unzipped it, which created a <code>build/bin</code> directory.</p>
+<p>That directory contains a bunch of binary executables and a whole lot of <code>.dylib</code> files. macOS wouldn't let me execute these files because they were quarantined. Running this command fixed that for the <code>llama-mtmd-cli</code> and <code>llama-server</code> executables and the <code>.dylib</code> files they needed:</p>
+<pre><code>sudo xattr -rd com.apple.quarantine llama-server llama-mtmd-cli *.dylib
+</code></pre>
+<p>Now I can run an interactive terminal LLM session using this command:</p>
+<pre><code>./llama-mtmd-cli -hf unsloth/gemma-3-4b-it-GGUF:Q4_K_XL</code></pre>
+<p>The first time this runs it fetches four files from <a href="https://huggingface.co/unsloth/gemma-3-4b-it-GGUF">unsloth/gemma-3-4b-it-GGUF</a> - a quantized copy of Google DeepMind's <a href="https://huggingface.co/google/gemma-3-4b-pt">Gemma 3 4B</a> - and stores them in <code>~/Library/Caches/llama.cpp</code>:</p>
+<pre><code>2.4G unsloth_gemma-3-4b-it-GGUF_gemma-3-4b-it-UD-Q4_K_XL.gguf
+217B unsloth_gemma-3-4b-it-GGUF_gemma-3-4b-it-UD-Q4_K_XL.gguf.json
+812M unsloth_gemma-3-4b-it-GGUF_mmproj-F16.gguf
+203B unsloth_gemma-3-4b-it-GGUF_mmproj-F16.gguf.json
+</code></pre>
+<p>Once they've downloaded an interactive session starts. You can chat directly with the model or use the <code>/image path-to-image.jpg</code> command to load an image into the context.</p>
+<p>I loaded in <a href="https://static.simonwillison.net/static/2025/pelican-no-hat.jpg">a pelican photo</a> and prompted "describe it" and got back this:</p>
+<blockquote>
+<p>It’s a striking photograph of a brown pelican standing in shallow water on a sandy beach. Here's a breakdown of what I see:</p>
+<ul>
+<li>
+<p><strong>Subject:</strong> The main focus is a large brown pelican. It’s standing with its wings fully extended, creating a dramatic pose.</p>
+</li>
+<li>
+<p><strong>Pose:</strong> The pelican is in a slightly awkward, almost comical stance, with its legs planted firmly in the wet sand and its wings spread wide. It looks like it might be preparing to take off or is simply enjoying the water.</p>
+</li>
+<li>
+<p><strong>Color &amp; Texture:</strong> The pelican is a rich, dark brown with lighter markings on its wings and head. The sand is a muted beige color, and the water reflects the sunlight, creating a shimmering effect. You can see the texture of the
+sand and the ripples in the water.</p>
+</li>
+<li>
+<p><strong>Lighting:</strong> The lighting appears to be bright and sunny, casting shadows and highlighting the details of the pelican's feathers.</p>
+</li>
+<li>
+<p><strong>Background:</strong> The background is blurred, suggesting a shallow depth of field, which keeps the focus on the pelican. It appears to be a beach scene.</p>
+</li>
+<li>
+<p><strong>Overall Impression:</strong> The image has a dynamic feel due to the pelican’s pose and the movement implied by the water. It’s a well-composed shot that captures a moment of wildlife in its natural habitat.</p>
+</li>
+</ul>
+<p>Do you want me to zoom in on a particular detail, or perhaps tell you more about pelicans?</p>
+</blockquote>
+<p>Not bad for a 3.2GB model running on my laptop!</p>
+<p><img src="https://static.simonwillison.net/static/2025/llama-vision.jpg" alt="Screenshot of the terminal session showing the response quoted above." style="max-width: 100%;" /></p>
+<h4 id="running-llama-server">Running llama-server</h4>
+<p>Even more fun is the <a href="https://github.com/ggml-org/llama.cpp/tree/master/tools/server#llamacpp-http-server"><code>llama-server</code> command</a>. This starts a localhost web server running on port 8080 to serve the model, with both a web UI and an OpenAI-compatible API endpoint.</p>
+<p>The command to run it is the same:</p>
+<pre><code>./llama-server -hf unsloth/gemma-3-4b-it-GGUF:Q4_K_XL</code></pre>
+<p>Now visit <code>http://localhost:8080</code> in your browser to start interacting with the model:</p>
+<p><img src="https://static.simonwillison.net/static/2025/llama-server-vision.jpg" alt="screenshot of llama.cpp web UI - I've added a photo of some pelicans and the prompt decsribe these creatures, it came back with the following: Okay, let's describe these beautiful birds!  These are Brown Pelicans (Pelecanus occidentalis).  Here's a breakdown of their key features, based on the image:      Appearance: They are large, brown birds with distinctive long, pointed bills. Their plumage is a rich, chocolate brown, with lighter underparts. They have large, webbed feet.     Posture: As you can see, they're standing together on a concrete embankment, likely near the water's edge. They're in a somewhat huddled or attentive stance.     Size: They are quite large birds – adults can have a wingspan of up to 6.5 feet (2 meters).     Behavior: Pelicans are known for their unique feeding technique, where they plunge-dive into the water to scoop up fish with their pouches.  In the image, you can see:      A group of 6-7 Brown Pelicans.     A single bird in the foreground, slightly out of focus, showing a more detailed view of their feathers and feet.  Where they are: The presence of these birds suggests they are likely in a coastal or wetland environment – perhaps a bay, estuary, or near a large body of water.  Do you want me to delve deeper into any specific aspect of these birds, such as their habitat, diet, or conservation status? On the right is a Conversations sidebar with three other conversations listed." style="max-width: 100%;" /></p>
+<p>It miscounted the pelicans in <a href="https://static.simonwillison.net/static/2025/pelican-group.jpg">the group photo</a>, but again, this is a <em>tiny</em> 3.2GB model.</p>
+<p>With the server running on port 8080 you can also access the OpenAI-compatible API endpoint. Here's how to do that using <code>curl</code>:</p>
+<div class="highlight highlight-source-shell"><pre>curl -X POST http://localhost:8080/v1/chat/completions \
+  -H <span class="pl-s"><span class="pl-pds">"</span>Content-Type: application/json<span class="pl-pds">"</span></span> \
+  -d <span class="pl-s"><span class="pl-pds">'</span>{</span>
+<span class="pl-s">    "messages": [</span>
+<span class="pl-s">      {"role": "user", "content": "Describe a pelicans ideal corporate retreat"}</span>
+<span class="pl-s">    ]</span>
+<span class="pl-s">  }<span class="pl-pds">'</span></span> <span class="pl-k">|</span> jq</pre></div>
+<p>I built a new plugin for LLM just now called <a href="https://github.com/simonw/llm-llama-server">llm-llama-server</a> to make interacting with this API more convenient. You can use that like this:</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-llama-server
+llm -m llama-server <span class="pl-s"><span class="pl-pds">'</span>invent a theme park ride for a pelican<span class="pl-pds">'</span></span></pre></div>
+<p>Or for vision models use <code>llama-server-vision</code>:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m llama-server-vision <span class="pl-s"><span class="pl-pds">'</span>describe this image<span class="pl-pds">'</span></span> -a https://static.simonwillison.net/static/2025/pelican-group.jpg</pre></div>
+<p>The LLM plugin uses the streaming API, so responses will stream back to you as they are being generated.</p>
+<p><img src="https://static.simonwillison.net/static/2025/theme-park.gif" alt="Animated terminal session. $ llm -m llama-server 'invent a theme park ride for a pelican' Okay, this is a fun challenge! Let's design a theme park ride specifically for a pelican – a majestic, diving bird. Here’s my concept:  Ride Name: “Pelican’s Plunge”   Theme: Coastal Exploration &amp; Underwater Discovery  Target Audience: Families with children (8+ recommended), animal lovers, and those who enjoy a mix of thrills and gentle exploration.  Ride Type: A partially submerged, rotating “pod” experience with a focus on simulated dives and underwater views.  Ride Mechanics:  1. The Pod: Guests ride in a large, semi-circular pod shaped like a stylized, open-mouthed pelican’s beak.  It’s made of reinforced, transparent acrylic and has comfortable seating inside. The pod can hold around 8-10 people.  2. The Launch: Guests board the pod and are positioned facing forward. The ride begins with a slow, gentle rise up a ramp, mimicking the pelican’s ascent from the water.   3. The &quot;Dive&quot; Sequence: This is the core of the ride.  The pod enters a large, darkened chamber that simulates the ocean floor.     * Rotating Simulation: The pod begins to rotate slowly, mimicking a pelican diving into the water.     * Water Effects:  The chamber is filled with realistic, moving water – created by a sophisticated system of pumps, jets, and screens. This creates the illusion of being surrounded by the ocean.    * Projection Mapping:  Powerful projection mapping is used on the walls and floor to create stunning underwater visuals: schools of fish, coral reefs, kelp forests, and even glimpses of marine life like sharks (safely projected, of course!).    * “Dive” Trigger:  At specific points in the rotation, the pod will perform a short, controlled “dive” – a sudden drop that creates a feeling of speed and the sensation of plunging into the water.  Sensors detect the speed of the rotation and trigger these dives.  4. Underwater Exploration: After the initial dive, the pod continues its rotation, offering increasingly detailed views of the projected underwater scenes.      * Interactive Elements (Optional):  Small, strategically placed screens could display sonar-like visuals, allowing guests to “scan” the environment and reveal hidden creatures or details.  5. The Ascent &amp; Return: The ride gradually slows, bringing the pod back to the surface. As it rises, the projections shift to show a sunny coastline and seabirds flying overhead. The pod returns to the loading area.   Theming &amp; Atmosphere:  * Sound Design: Immersive sound effects – waves crashing, seabirds calling, underwater ambience – are crucial. * Lighting: Dynamic lighting that shifts with the projections and the &quot;dive&quot; sequences. * Pelican Props:  Realistic pelican statues and props are integrated throughout the queue and surrounding area. * Educational Element: Small informational panels explain pelican behavior, conservation efforts, and the importance of marine ecosystems.  Why this works for a pelican:  * Mimics Natural Behavior: The ride accurately reflects a pelican’s primary activity – diving for fish. * Visually Engaging: The combination of water effects, projection mapping, and rotation creates a captivating and immersive experience. * Family-Friendly Thrill: The “dive” sequences provide a moderate thrill without being overly intense. * Educational Value: It promotes awareness and appreciation for these amazing birds and the marine environment.    ---  Further Development Ideas:  * Different &quot;Dive Routes&quot;: Create multiple routes through the underwater environment, each with a different theme (e.g., a coral reef route, a deep-sea route, a pelican’s feeding ground route). * Animatronic Pelican: A large animatronic pelican could “greet” guests as they board the pod. * Smell Integration: Subtle scents of saltwater and seaweed could enhance the immersion.    Would you like me to brainstorm a specific element of the ride further, such as:  *   The projection mapping details? *   The technical aspects of the water effects? *   A unique interactive element? " style="max-width: 100%;" /></p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llama-cpp">llama-cpp</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/homebrew">homebrew</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/10/llama-cpp-vision/#atom-everything>
+
+---
+
+## TIL: SQLite triggers
+
+date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://til.simonwillison.net/sqlite/sqlite-triggers">TIL: SQLite triggers</a></strong></p>
+I've been doing some work with SQLite triggers recently while working on <a href="https://github.com/simonw/sqlite-chronicle">sqlite-chronicle</a>, and I decided I needed a single reference to exactly which triggers are executed for which SQLite actions and what data is available within those triggers.</p>
+<p>I wrote this <a href="https://github.com/simonw/til/blob/main/sqlite/triggers.py">triggers.py</a> script to output as much information about triggers as possible, then wired it into a TIL article using <a href="https://cog.readthedocs.io/">Cog</a>. The Cog-powered source code for the TIL article <a href="https://github.com/simonw/til/blob/main/sqlite/sqlite-triggers.md?plain=1">can be seen here</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/til">til</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/sql">sql</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/10/til-sqlite-triggers/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Tesla Reportedly Has $800 Million Worth of Cybertrucks That Nobody Wants. 
+
+<br> 
+
+<https://www.vice.com/en/article/tesla-reportedly-has-800-million-worth-of-cybertrucks-that-nobody-wants/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+The RNC says they’re interviewing the “smartest people” in every state to join DOGE, so we took the quiz. Spoiler: it’s not going well. 
+
+🧵 Read the full breakdown and laugh (so you don’t cry): https://bit.ly/3SubBbb
+
+#WeTheBuilders #BuiltToServe #FederalGov #DOGE 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lorrvmccpd2r>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+And we also have zombie contracts too: revived after being canceled by DOGE. Is this what happens when we let grifters and children run the show?
+
+https://www.nytimes.com/2025/05/09/us/politics/doge-musk-contracts-agencies.html 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lorocc2ifk2b>
+
+---
+
+## I was wrong: AI Won't Overtake Software Engineering
+
+date: 2025-05-10, updated: 2025-05-10, from: Tom Kellog blog
+
+In January I wrote that software engineers would be replaced by people closer to the problem. I was
+wrong.
+
+Most people aren't the type of people that will push through problems to make software work. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/05/10/ai-code-updated>
 
 ---
 
@@ -3121,169 +3602,4 @@ Clippers vs Nuggets: Steve Ballmer flies 125 L.A. fans to Game 7 at Ball Arena.
 <br> 
 
 <https://www.denverpost.com/2025/05/03/the-wall-clippers-nuggets-game-7-clippers-steve-ballmer/>
-
----
-
-## The latest AI scaling graph - and why it hardly makes sense
-
-date: 2025-05-03, from: Gary Marcus blog
-
-Just a because a graph is intriguing doesn&#8217;t mean that it means very much 
-
-<br> 
-
-<https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why>
-
----
-
-**@Feed for Alt USDS** (date: 2025-05-03, from: Feed for Alt USDS)
-
-You don't say.
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lobwg7ldqs2w>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-03, from: Dave Winer's linkblog)
-
-You know summer is soon when this song feels like the right song to sing. 
-
-<br> 
-
-<https://www.youtube.com/watch?v=fuz5TKzaJoE>
-
----
-
-## Ural Notes Part 7: This is Ural Life...
-
-date: 2025-05-03, updated: 2025-05-03, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2025/05/03/ural-notes-part-7-this-is-ural-life/>
-
----
-
-## These Tardigrades Have Tiny Tattoos
-
-date: 2025-05-03, from: 404 Media Group
-
-Tardigrades, tiny microscopic animals, woke up from suspended animation with body art.   
-
-<br> 
-
-<https://www.404media.co/these-tardigrades-have-tiny-tattoos-2/>
-
----
-
-## An Interview With Bobby Kogan
-
-date: 2025-05-03, from: Paul Krugman
-
-Tariffs, shmariffs: The GOP budget is really extreme 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/an-interview-with-bobby-kogan>
-
----
-
-**@Feed for Alt USDS** (date: 2025-05-03, from: Feed for Alt USDS)
-
-@maddow.msnbc.com & @juliaangwin.com Thank you for covering this topic so masterfully. We joined government  to deliver human-centered programs and services while protecting the privacy of everyone in our country.
-
-The DOGE data grab is extremely concerning.
-https://youtu.be/-vtJRpu4XUw?si=meSR7-NpvBfEKf05 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3loaiqlog2s22>
-
----
-
-## thursday, may 1, 2025
-
-date: 2025-05-03, updated: 2025-05-03, from: p1k3.com community feed
-
- 
-
-<br> 
-
-<https://p1k3.com/2025/5/1>
-
----
-
-## GHC 9.10.2 is now available
-
-date: 2025-05-03, from: Glasgow Haskell Compiler
-
-<h1>GHC 9.10.2 is now available</h1>
-<h4 class="text-muted">Zubin Duggal - 2025-05-03</h4>
-
-<p>The GHC developers are very pleased to announce the availability
-of the final release for GHC 9.10.2. Binary distributions, source
-distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.10.2">downloads.haskell.org</a> and
-via <a href="https://www.haskell.org/ghcup/">GHCup</a>.</p>
-<p>GHC 9.10.2 is a bug-fix release fixing over 50 issues of a variety of
-severities and scopes, including:</p>
-<ul>
-<li>Significantly improved performance when dynamically loading Haskell symbols (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23415">#23415</a>).</li>
-<li>Fixing a bug where the simplifier sometimes destroyed join points during float out, which could impact performance (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24768">#24768</a>).</li>
-<li>Reduced memory fragmentation in the non-moving GC’s segment allocator, improving resident set size by up to 26% for some applications (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24150">#24150</a>).</li>
-<li>Added new flags to control speculative evaluation (-fspec-eval and -fspec-eval-dictfun) to work around performance regressions (<a href="https://gitlab.haskell.org/ghc/ghc/issues/25606">#25606</a>).</li>
-<li>Fixed several platform-specific issues, including segfaults with FFI on PowerPC (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23034">#23034</a>) and improved code
-generation for AArch64 with multiway branches now using jump tables (<a href="https://gitlab.haskell.org/ghc/ghc/issues/19912">#19912</a>)</li>
-<li>And many more!</li>
-</ul>
-<p>A full accounting of these fixes can be found in the <a href="https://downloads.haskell.org/~ghc/9.10.2/docs/users_guide/9.10.2-notes.html">release notes</a>. As
-always, GHC’s release status, including planned future releases, can be found on
-the GHC Wiki <a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.</p>
-<p>We would like to thank Well-Typed, Tweag I/O, Juspay, QBayLogic, Channable,
-Serokell, SimSpace, the Haskell Foundation, and other anonymous contributors
-whose on-going financial and in-kind support has facilitated GHC maintenance
-and release management over the years. Finally, this release would not have
-been possible without the hundreds of open-source contributors whose work
-comprise this release.</p>
-<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
-anything amiss.</p>
- 
-
-<br> 
-
-<http://haskell.org/ghc/blog/20250503-ghc-9.10.2-released.html>
-
----
-
-## Perfect Random Floating-Point Numbers
-
-date: 2025-05-03, from: Specbranch blog
-
-<p>When I recently looked at the state of the art in floating point random number generation,
-I was surprised to see a common procedure in many programming languages and libraries that
-is not really a floating-point algorithm:</p>
-<ol>
-<li>Generate a random integer with bits chosen based on the precision of the format.</li>
-<li>Convert to floating point.</li>
-<li>Divide to produce an output between 0 and 1.</li>
-</ol>
-<p>In code, this looks like:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="ln">1</span><span class="cl"><span class="kd">func</span> <span class="p">(</span><span class="nx">r</span> <span class="o">*</span><span class="nx">Rand</span><span class="p">)</span> <span class="nf">Float64</span><span class="p">()</span> <span class="kt">float64</span> <span class="p">{</span>
-</span></span><span class="line"><span class="ln">2</span><span class="cl">    <span class="kt">int64</span> <span class="nx">rand_int</span> <span class="p">=</span> <span class="nx">r</span><span class="p">.</span><span class="nf">Int63n</span><span class="p">(</span><span class="mi">1</span><span class="o">&lt;&lt;</span><span class="mi">53</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">3</span><span class="cl">    <span class="k">return</span> <span class="nb">float64</span><span class="p">(</span><span class="nx">rand_int</span><span class="p">)</span> <span class="o">/</span> <span class="p">(</span><span class="mi">1</span><span class="o">&lt;&lt;</span><span class="mi">53</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">4</span><span class="cl"><span class="p">}</span>
-</span></span></code></pre></div><p>This function is supposed to produce floating-point numbers drawn from a uniform distribution
-in the interval $[0, 1)$. Zero is a possible output, but one is not, and the distribution is
-uniform. The number &quot;53&quot; in the algorithm above is chosen in a way that is floating-point aware:
-the double-precision floating-point numbers have 53 bits of precision, so this algorithm only
-creates bits equal to the precision of the number system. It seems to fit the bill.</p> 
-
-<br> 
-
-<https://specbranch.com/posts/fp-rand/>
 

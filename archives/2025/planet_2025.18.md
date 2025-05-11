@@ -1,11 +1,919 @@
 ---
 title: planet
-updated: 2025-05-10 06:07:47
+updated: 2025-05-11 06:08:44
 ---
 
 # planet
 
-(date: 2025-05-10 06:07:47)
+(date: 2025-05-11 06:08:44)
+
+---
+
+## CHI accused of using off-label treatment without consent
+
+date: 2025-05-11, from: RTÉ News
+
+Advocacy groups have accused Children's Health Ireland of treating children with an off-label application of a medical device without the informed consent of their parents. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0511/1512267-bladder/>
+
+---
+
+## Ellerman Bomb
+
+date: 2025-05-11, from: Vatican Obervatory
+
+ I marked its position by drawing a circle in pencil. I had indeed seen an Ellerman bomb, observing in my garden 150 million km away 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/ellerman-bomb/>
+
+---
+
+## Israel intends to ethnically cleanse Gaza, O'Gorman says
+
+date: 2025-05-11, from: RTÉ News
+
+Green Party leader Roderic O'Gorman has said Israel has put the world on notice that it intends to ethnically cleanse Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0511/1512261-ireland-gaza/>
+
+---
+
+## Teens who drowned had entered water to retrieve football
+
+date: 2025-05-11, from: RTÉ News
+
+Two teenagers who died after getting into difficulty in the water off the coast of Co Donegal had entered the water to retrieve a football, a local councillor has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0511/1512264-donegal-reax/>
+
+---
+
+## Field of Dreams: Football Breathes Life into Yemen’s Camps
+
+date: 2025-05-11, from: United Nations, Top Stories
+
+Every summer in Ma’rib, Yemen, a place marked by loss and uncertainty, a football tournament offers a rare kind of hope. For hundreds of displaced youth living across more than a dozen sites, it’s a chance to unite, to belong, and to dream. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163121>
+
+---
+
+## Ireland women relay team impress to qualify for Worlds
+
+date: 2025-05-11, from: RTÉ News
+
+The Ireland women's relay quartet joined the mixed relay unit in qualifying for the 2025 World Athletics Championships in Tokyo later this year. 
+
+<br> 
+
+<https://www.rte.ie/sport/athletics/2025/0511/1512263-ireland-women-relay-team-impress-to-qualify-for-worlds/>
+
+---
+
+## Pope Leo XIV at Regina Coeli: Never again war!
+
+date: 2025-05-11, from: Vatican News
+
+
+                    <p>Following his first Regina Coeli, Pope Leo XIV issues an appeal for an end to the conflicts in Ukraine, Gaza, and on the India/Pakistan border.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-at-regina-coeli-never-again-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-at-regina-coeli-never-again-war.html>
+
+---
+
+## Pope Leo XIV at Regina Caeli: May we pray for vocations, serving one another
+
+date: 2025-05-11, from: Vatican News
+
+
+                    <p>Before leading the recitation of the Regina Caeli on Good Shepherd Sunday, Pope Leo XIV calls for prayers for vocations to the priesthood and consecrated life, while also "living in service to one another" so we can "walk in love and truth" on our life journey.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-on-good-shepherd-sunday-may-we-pray-for-vocations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-on-good-shepherd-sunday-may-we-pray-for-vocations.html>
+
+---
+
+## Pope Leo calls for 'no more war' in prayers at Vatican
+
+date: 2025-05-11, from: RTÉ News
+
+Pope Leo XIV has called for a ceasefire in Gaza and the release of all Israeli hostages, as well as "no more war", as he lead a prayer to the Virgin Mary from the balcony of St Peter's Basilica. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0511/1512249-pope-leo/>
+
+---
+
+## Week 2: Jury shown footage of Satchwell home in Cork
+
+date: 2025-05-11, from: RTÉ News
+
+The trial of Richard Satchwell, who is accused of the murder of his wife Tina in March 2017, continued for a second week at the Central Criminal Court in Dublin. Correspondent Órla O'Donnell looks back at the latest evidence in the case. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0511/1512230-satchwell-trial-week2/>
+
+---
+
+## Pope at Mass: Listen without judging
+
+date: 2025-05-11, from: Vatican News
+
+
+                    <p>Pope Leo XIV celebrates Mass at the tomb of Saint Peter and prays by the niche of the Pallia. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-celebrates-mass-at-the-tomb-of-saint-peter.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-celebrates-mass-at-the-tomb-of-saint-peter.html>
+
+---
+
+## Russian overtures welcome but ceasefire must come before peace talks, says Zelenskyy
+
+date: 2025-05-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532184.1746966856!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A man stands at a podium with a Ukrainian flag on it.' width='620' height='349' title='Ukrainian President Volodymyr Zelenskyy speaks during press conference at the Mariinsky Palace in Kyiv, Ukraine, Saturday, May 10, 2025. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ceasefire-before-peace-talks-zelenskyy-1.7532183?cmp=rss>
+
+---
+
+## Where now for the Occupied Territories Bill?
+
+date: 2025-05-11, from: RTÉ News
+
+Tánaiste Simon Harris is due to meet Senator Frances Black to present a timeline to enact the Government's version of the Occupied Territories Bill. Where now for the bill, seven years after its introduction? 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0511/1512213-occupied-territories-bill/>
+
+---
+
+## Second teenager dies after Donegal swimming incident
+
+date: 2025-05-11, from: RTÉ News
+
+Two teenagers have died after getting into difficulty while swimming off the coast of Buncrana, Co Donegal yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0511/1512221-donegal/>
+
+---
+
+## Daughter of late Indian City founder Vince Fontaine finishes song he started writing for his mom
+
+date: 2025-05-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5592362.1746902270!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vince-fontaine-on-guitar.jpg' alt='A man wearing a hat, is playing a guitar from a stage.' width='620' height='349' title='Vince Fontaine, co-founder of Eagle &amp; Hawk, performs with the band for an Assembly of Manitoba Chiefs event at Winnipeg&apos;s RBC Convention Centre in December 2019.'/><p>Before his death, musician Vince Fontaine began working on a song in tribute to his mother, Nora, but it was left unfinished when he died in 2022. His daughter, Gabrielle Fontaine, has now finished it and released it as a single, just in time for Mother's Day.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/gabrielle-fontaine-mother-song-1.7532052?cmp=rss>
+
+---
+
+## Nicola Coughlan leads Irish hopes at BAFTA TV awards
+
+date: 2025-05-11, from: RTÉ News
+
+Bridgerton and Derry Girls star Nicola Coughlan leads the Irish charge at tonight's TV BAFTAs in London. We look at the runners and riders at UK television's big night 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0511/1512062-nicola-coughlan-leads-irish-hopes-at-bafta-tv-awards/>
+
+---
+
+## Bunker Mentality: The billionaires prepping for doomsday
+
+date: 2025-05-11, from: RTÉ News
+
+Doomsday prepping used to be seen as the preserve of conspiracy theorists and those at the fringes of society - but now it's big business, writes Adam Maguire 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0511/1512086-doomsday-prepping-rich/>
+
+---
+
+## Fanning flames: How a Donegal fire was used to stoke hate online
+
+date: 2025-05-11, from: RTÉ News
+
+How a false claim about a Donegal church fire went viral - and the network of anonymous accounts using outrage, disinformation, and profit-driven tactics to target Ireland online 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0511/1511993-fanning-flames-how-a-donegal-fire-was-used-to-stoke-hate-online/>
+
+---
+
+## Dublin Dance Festival celebrates 21st year
+
+date: 2025-05-11, from: RTÉ News
+
+The 21st Dublin Dance Festival kicks off on Tuesday and as part of the celebrations, a new national all-island dance company will take to the stage for the first time. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0511/1512192-dublin-dance-festival/>
+
+---
+
+## Irish films to feature at 2025 Cannes Film Festival
+
+date: 2025-05-11, from: RTÉ News
+
+Irish cinema will have a notable presence at this year's Cannes Film Festival, with Element Pictures returning with Pillion and My Father's Shadow, while Galway-shot Learning to Breathe Under Water will feature in the Great 8 showcase for emerging talent. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0511/1512074-irish-films-to-feature-at-2025-cannes-film-festival/>
+
+---
+
+## Iran, US to resume nuclear talks amid enrichment concerns
+
+date: 2025-05-11, from: RTÉ News
+
+Iran and the United States have begun a fourth round of talks over Iran's nuclear programme, as US officials have voiced increasing opposition to Iranian enrichment. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0511/1512216-us-iran/>
+
+---
+
+## Kehewin Cree Nation brings traditional birthing back to community
+
+date: 2025-05-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7523203.1746047690!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/maelan-simaganis-tsatoke-holding-baby.jpg' alt='Woman holding baby in moss bag. ' width='620' height='349' title='Maelan Simaganis-Tsatoke holding Kasokikapowit Gadwa, who is the first baby born in Kehewin Cree Nation in over 70 years.'/><p>For the first time in over 60 years, a baby was born on Kehewin Cree Nation last month thanks to a midwifery program that is the first of its kind in a First Nation in Alberta. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/kehewin-birthing-midwifery-program-1.7523188?cmp=rss>
+
+---
+
+## US-China trade talks resume as Trump hails 'total reset'
+
+date: 2025-05-11, from: RTÉ News
+
+Talks between top US and Chinese officials have resumed for a second day, after US President Donald Trump voiced optimism over the negotiations aimed at de-escalating trade tensions sparked by his aggressive tariff rollout. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0511/1512215-us-china-trade/>
+
+---
+
+## Russia must commit to ceasefire before meeting - Zelensky
+
+date: 2025-05-10, from: RTÉ News
+
+Ukrainian President Volodymyr Zelensky has said that Kyiv would meet with Moscow for talks in Istanbul on 15 May but said that Russia must first commit to a 30-day ceasefire starting tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0511/1512211-russia-ukraine/>
+
+---
+
+## India, Pakistan trade claims of ceasefire violations
+
+date: 2025-05-10, from: RTÉ News
+
+India and Pakistan traded accusations of ceasefire violations, hours after US President Donald Trump announced that the nuclear-armed neighbours had stepped back from an escalation in tensions. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0511/1512209-india-pakistan/>
+
+---
+
+## How does the Eurovision voting system work?
+
+date: 2025-05-10, from: RTÉ News
+
+The Eurovision Song Contest has a complex voting system, here's how the winner of the 2025 competition will be chosen. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0511/1511846-how-does-the-eurovision-voting-system-work/>
+
+---
+
+## US, China talks to continue in Geneva amid trade war
+
+date: 2025-05-10, from: RTÉ News
+
+Senior US and Chinese officials have concluded the first of two days of talks aimed at resolving the trade war sparked by President Donald Trump's sweeping tariffs, with Chinese state media calling the negotiations an "important step". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0510/1512199-china-us-trade-talks/>
+
+---
+
+## Dublin's St Vincent's claim Irish water polo cup double
+
+date: 2025-05-10, from: RTÉ News
+
+The Irish ladies senior water polo cup final turned into a nail-biter which had to be won and lost in the cruellest way this evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0510/1512191-water-polo-cup-final/>
+
+---
+
+## Pope Leo XIV prays at tomb of late Pope Francis at St. Mary Major
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>During his first visit outside the Vatican, Pope Leo XIV makes a stop at the Basilica of St. Mary Major to pray to the icon of Mary Salus Populi Romani and at the tomb of the late Pope Francis.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-prays-mary-and-before-francis-santa-maria-maggiore.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-prays-mary-and-before-francis-santa-maria-maggiore.html>
+
+---
+
+## Pope visits Marian sanctuary outside Rome
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>Pope Leo XIV pays a visit to the Shrine of the Mother of Good Counsel in Genazzano, just outside Rome, saying he "wanted so much to come here in these first days of the new Ministry ... that the Church has entrusted to me.’</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-visits-marian-sanctuary-outside-rome-genazzano.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-visits-marian-sanctuary-outside-rome-genazzano.html>
+
+---
+
+## Body found after search for teenager missing off Donegal
+
+date: 2025-05-10, from: RTÉ News
+
+The body of a teenager has been recovered from waters off the coast of Co Donegal after three teenagers got into difficulty while swimming in Lough Swilly yesterday afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0510/1512182-donegal-teenagers-water/>
+
+---
+
+## Former pilot charged over €10m cannabis seizure
+
+date: 2025-05-10, from: RTÉ News
+
+A 62-year-old former Ryanair pilot has appeared in court charged in connection with the seizure of over €10 million worth of cannabis herb. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0510/1512160-clare-drugs/>
+
+---
+
+## Girl injured in Dublin attack returns to school full-time
+
+date: 2025-05-10, from: RTÉ News
+
+The young girl who was seriously injured in a knife attack on Parnell Square in Dublin is now attending school full-time for the first time since the incident in 2023, her family has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0510/1512179-parnell-square-attack-girl/>
+
+---
+
+## McDonald predicts push back against Triple Lock proposals
+
+date: 2025-05-10, from: RTÉ News
+
+There will be major push back against any attempts to alter the Triple Lock, the Sinn Féin leader has predicted. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0510/1512170-triple-lock/>
+
+---
+
+## 'Layer upon layer of war crimes' in Gaza daily - Collins
+
+date: 2025-05-10, from: RTÉ News
+
+Minister of State Niall Collins has said that the EU-Israel trade agreement has to be reviewed as "layer upon layer of war crimes" are being witnessed in Gaza every day. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0510/1512171-politics-gaza-israel/>
+
+---
+
+## Lord's Day Reflection: Belonging before belief
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>As the Church celebrates the Fourth Sunday of Easter, Abbot Marion Nguyen reflects on the theme, "Belonging before belief"</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-belonging-before-belief.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-belonging-before-belief.html>
+
+---
+
+## Cork and Waterford feel 'let down' by final deferral
+
+date: 2025-05-10, from: RTÉ News
+
+Cork and Waterford Camogie have issued a joint statement via the GPA on the decision by Munster Camogie to defer today's final. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0510/1512162-cork-and-waterford-feel-let-down-by-final-deferral/>
+
+---
+
+## US to monitor Ukraine ceasefire, says Macron
+
+date: 2025-05-10, from: RTÉ News
+
+Catch up on developments after Ukraine and European leaders agreed to an unconditional 30-day ceasefire with the backing of US President Donald Trump. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0510/1512157-ukraine-russia-war/>
+
+---
+
+## Regina to host 2026 National Aboriginal Hockey Championships
+
+date: 2025-05-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5125534.1746897089!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/national-aboriginal-hockey-championships.jpg' alt='Hockey players skate on a rink.' width='620' height='349' title='Players with Team North warm up at the Takhini Arena in Whitehorse.'/><p>Regina will host the 2026 National Aboriginal Hockey Championships, bringing elite young Indigenous hockey players to the Co-operators Centre from May 2 to 9.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/regina-national-aboriginal-hockey-championships-2026-1.7532046?cmp=rss>
+
+---
+
+## Pope Leo XIV's motto and coat of arms
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>Pope Leo XIV reveals his coat of arms and motto, which clearly reflect his Augustinian roots.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-s-motto-and-coat-of-arms.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-s-motto-and-coat-of-arms.html>
+
+---
+
+## Pope Leo identifies AI as a main challenge for humanity
+
+date: 2025-05-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532032.1746894041!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vatican-pope.jpg' alt='Man waves hand' width='620' height='349' title='Pope Leo XIV meets the College of Cardinals in the New Synod Hall at the Vatican, Saturday, May 10, 2025. (Vatican Media via AP)'/><p>In his first formal audience in the Vatican, Pope Leo XIV on Saturday laid out his vision for his papacy, identifying artificial intelligence as one of the most critical matters facing humanity.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/pope-leo-artificial-intelligence-1.7532028?cmp=rss>
+
+---
+
+## Louth-Meath rivalry: Bright future, simmering past
+
+date: 2025-05-10, from: RTÉ News
+
+A sorry tick-box exercise for the guts of a decade and a half, Leinster football final is once more coursing with colour and intrigue and uncertainty as the combatants of 2010 collide again 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0510/1511337-louth-meath-rivalry-bright-future-simmering-past/>
+
+---
+
+## Pope Leo visits Pope Francis' tomb on first official trip
+
+date: 2025-05-10, from: RTÉ News
+
+Pope Leo XIV made an unannounced visit to Rome's Basilica of St Mary Major, where he could pay respects to the late Pope Francis, who is buried at the church. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0510/1512149-pope-leo-cardinals/>
+
+---
+
+## Guterres welcomes India-Pakistan ceasefire
+
+date: 2025-05-10, from: United Nations, Top Stories
+
+Following pronouncements of an end to hostilities between India and Pakistan, neighbouring nuclear powers, the UN Secretary-General, António Guterres, said that the organisation stands ready to support efforts aimed at promoting peace and stability in the region. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163116>
+
+---
+
+## ‘We can do better’ for pedestrian and cyclist safety worldwide
+
+date: 2025-05-10, from: United Nations, Climate Change
+
+A cycling network expanded from 70 kilometres to over 400 kilometres in Fortaleza, Brazil. A project to create a bike lane in every street of Paris. And the longest pedestrian and cycle tunnel in the world, in the Norwegian coastal city of Bergen.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163101>
+
+---
+
+## Ireland mixed relay team power into World Championships
+
+date: 2025-05-10, from: RTÉ News
+
+Ireland powered through to the final of the 4x400m mixed relay at the World Athletics Relays in Guangzhou, China. 
+
+<br> 
+
+<https://www.rte.ie/sport/athletics/2025/0510/1512148-ireland-mixed-relay-power-into-world-championships/>
+
+---
+
+## Pope Leo XIV's pectoral cross holds relics of Saints Augustine and Monica 
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>On the day of his election, Pope Leo XIV wore a pectoral cross containing relics of saints linked to the Augustinian order: those of Saint Augustine and the saint's mother, Saint Monica.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/relics-of-saint-augustine-and-mother-monica-in-crucifix-pope-leo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/relics-of-saint-augustine-and-mother-monica-in-crucifix-pope-leo.html>
+
+---
+
+## Pharmacists not confident over uptake for free HRT scheme
+
+date: 2025-05-10, from: RTÉ News
+
+The President of the Irish Pharmacy Union has said he is not confident the free hormone replacement therapy drugs scheme, due to begin on 1 June, will have enough of a sign-up among pharmacists for it to be delivered to all women who need it. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0510/1512140-pharmacists-drugs/>
+
+---
+
+## Brothers share lifelong bond after kidney donation
+
+date: 2025-05-10, from: RTÉ News
+
+In 1975 Séamus Fitzpatrick donated a kidney to his brother Seán in what was the seventh successful kidney transplant in Ireland. 50 years on, the brothers continue to share a close bond. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0510/1512132-organ-donation/>
+
+---
+
+## Pair arrested over Clondalkin assault
+
+date: 2025-05-10, from: RTÉ News
+
+A man in his 20s and a teenager have been arrested in connection with an assault at a property in Clondalkin in west Dublin yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0510/1512128-clondalkin-arrests/>
+
+---
+
+## AI and the Vatican Observatory: Looking GOOD!
+
+date: 2025-05-10, from: Vatican Obervatory
+
+AI-generated Vatican scientists and instruments are rather more “Hollywood” than the real thing. But at least the basic history is right. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/ai-and-the-vatican-observatory-looking-good/>
+
+---
+
+## Trump looking at suspending right to challenge detention
+
+date: 2025-05-10, from: RTÉ News
+
+A senior White House official has said US President Donald Trump, as part of his sweeping immigration crackdown, is looking at suspending habeas corpus, which is the right of a person to challenge their detention in court. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0510/1512124-habeas-corpus/>
+
+---
+
+## Pilgrims from 90 countries gather for Jubilee of Bands and Popular Entertainment
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>From 10 to 11 May Rome will be filled with music of all kinds. On Saturday 10 May participants in the Jubilee event will make a pilgrimage to the Holy Door at Saint Peter’s Basilica and then perform in 31 squares across the city. On Sunday 11 May Mass will be celebrated in Rome's Piazza Cavour by Archbishop Rino Fisichella. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/pilgrims-from-90-countries-gather-for-jubilee-of-bands.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/pilgrims-from-90-countries-gather-for-jubilee-of-bands.html>
+
+---
+
+## Councils to be asked to find more land for housing
+
+date: 2025-05-10, from: RTÉ News
+
+Local authorities will be asked next week to begin work on finding more land that can be zoned for housing. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0510/1512119-local-authorities-land-housing/>
+
+---
+
+## Pope Leo XIV to Cardinals: Church must respond to digital revolution
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>In his first address to the College of Cardinals, Pope Leo XIV invokes the legacy of both Pope Francis and Pope Leo XIII, saying that he wants the Church to "respond to a new industrial revolution and to the development of artificial intelligence."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-addresses-cardinals-10-may-2025-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-addresses-cardinals-10-may-2025-vatican.html>
+
+---
+
+## From one Pope to another - what changes will be made?
+
+date: 2025-05-10, from: RTÉ News
+
+As one pontificate ends and another begins, what is the next chapter for the Catholic Church? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0510/1512089-pope-changes-church/>
+
+---
+
+## Thousands confined indoors in Spain due to chlorine cloud
+
+date: 2025-05-10, from: RTÉ News
+
+Spanish authorities have told more than 160,000 people near Barcelona to stay indoors after a fire at an industrial property released a toxic cloud of chlorine over a wide area. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0510/1512103-chlorine-cloud-spain/>
+
+---
+
+## Eastern Church leaders welcome election of Pope Leo XIV
+
+date: 2025-05-10, from: Vatican News
+
+
+                    <p>Leaders of Eastern-rite Catholic Churches and Orthodox Churches have welcomed the election of Cardinal Robert Prevost as Pope Leo XIV.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/eastern-church-leaders-welcome-election-pope-leo-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/eastern-church-leaders-welcome-election-pope-leo-xiv.html>
+
+---
+
+## Ukraine and allies call for 30-day ceasefire from Monday
+
+date: 2025-05-10, from: RTÉ News
+
+Ukraine and European leaders have agreed to an unconditional 30-day ceasefire from Monday with the backing of US President Donald Trump, threatening Russian President Vladimir Putin with new "massive" sanctions if he failed to comply. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0510/1512098-european-leaders-kyiv/>
+
+---
+
+## How Russia's Victory Day reflects a divided world order
+
+date: 2025-05-10, from: RTÉ News
+
+Russia's Victory Day commemorations yesterday marked 80 years since the Soviet Union's defeat of Nazi Germany. More than 20 foreign leaders attended the military parade in Moscow, reflecting a group of countries loosely aligned with Russia and China, and at odds with the West. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0510/1512073-russia-victory-day-allies/>
+
+---
+
+## As Manitoba wildfires spread, Pimicikamak Cree Nation braces for the worst
+
+date: 2025-05-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7531402.1746820318!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ray-mckay-walking-jpg.JPG' alt='A man in a high visibility jacket walks through burned trees and ground. ' width='620' height='349' title='Pimicikamak Cree Nation fire Chief Ray McKay walks through a wooded area that was burned by a fire on the weekend of May 3-4, 2025.'/><p>As wildfires continue to intensify across the province, residents in Pimicikamak Cree Nation are focusing on fire prevention and are preparing for the worst.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/wildfires-pimicikamak-cree-nation-1.7531360?cmp=rss>
+
+---
+
+## Pakistan, India agree to 'full and immediate ceasefire'
+
+date: 2025-05-10, from: RTÉ News
+
+India and Pakistan have agreed to a "full and immediate ceasefire", according to US President Donald Trump. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0510/1512094-india-pakistan/>
+
+---
+
+## What is causing delayed access to new cancer medicines?
+
+date: 2025-05-10, from: RTÉ News
+
+Few areas of healthcare are as sensitive as cancer treatment. Each year, around 44,000 cancer tumours are diagnosed here. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0510/1512043-health-cancer-medicine/>
+
+---
+
+## What is in the Govt's AI guidelines for public service?
+
+date: 2025-05-10, from: RTÉ News
+
+On Thursday, the Government launched guidelines for the responsible use of artificial intelligence in the public sector. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0510/1512056-ai-comment-and-analysis/>
+
+---
+
+## Superpowers eye own interests in India-Pakistan conflict
+
+date: 2025-05-10, from: RTÉ News
+
+In recent years, India has grown closer to the United States and Pakistan to China, putting the two traditional south Asian foes at the heart of global superpower competition, writes Yvonne Murray. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0510/1512028-india-pakistan-analysis/>
+
+---
+
+## Political tensions keep rising ahead of Eurovision 2025
+
+date: 2025-05-10, from: RTÉ News
+
+This day next week, the 69th Eurovision song contest final will take place in Basel, Switzerland, one year after their winner Nemo stole the hearts of the viewing and voting public at last year's competition in Malmö, Sweden. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0510/1512053-eurovison/>
+
+---
+
+## Trump's drastic cuts to federal agencies temporarily halted by U.S. judge
+
+date: 2025-05-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531974.1746864310!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/house-probationary-employees.jpg' alt='A person holds a sign reading &apos;Save the Civil Service.&apos;' width='620' height='349' title='A fired federal probationary worker holds a sign reading &quot;Save the Civil Service&quot; at a news conference about the Protect Our Probationary Employees Act on Capitol Hill, Tuesday, March 11, 2025, in Washington. (AP Photo/Mark Schiefelbein)'/><p>U.S. President Donald Trump's administration must temporarily halt its sweeping government overhaul because Congress did not authorize it to carry out large-scale staffing cuts and the restructuring of agencies, a federal judge says.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-trump-federal-workers-judge-halts-overhaul-1.7531972?cmp=rss>
+
+---
+
+## An Irish director gets the best out of Nicolas Cage
+
+date: 2025-05-10, from: RTÉ News
+
+Irish director Lorcan Finnegan and Oscar winner Nicolas Cage prove to be a formidable team in the ego-under-the-Sun psychodrama The Surfer, a movie that ranks with Cage's best work of recent years. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0510/1511737-how-an-irish-director-got-the-best-out-of-nicolas-cage/>
+
+---
+
+## Stitching tradition: Yukon teen honours her Kaska Dena culture with traditional clothing designs
+
+date: 2025-05-10, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7530418.1746738473!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jael-johnnie.jpg' alt='A young woman in a colourful parka.' width='620' height='349' title='Jael Johnnie, 13, of Ross River, Yukon, cozy in her handmade parka, trimmed with a fox fur collar.'/><p>From ribbon skirts to beaded vests, 13-year-old Jael Johnnie of Ross River, Yukon, has created dozens of pieces — bringing joy, pride and inspiration to her Yukon community.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/stitching-tradition-yukon-teen-honours-her-kaska-dena-culture-with-traditional-clothing-designs-1.7530320?cmp=rss>
+
+---
+
+## Foreigners have flocked to 'welcoming' Portugal. Why is it expelling migrants now?
+
+date: 2025-05-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7527724.1746549074!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/portugal-immigration.jpg' alt='People walk on a  cobble-stone street' width='620' height='349' title='People walk along Bem Formoso street, in Lisbon&apos;s Mouraria neighbourhood on February 14, 2024. Bem Formoso street in Mouraria neighborhood is known for being Lisbon&apos;s most multi cultural area where most of immigrants live and have their businesses. '/><p>With its warm climate, comparatively affordable living and rich culture, Portugal has long appealed to visitors, whether it's for a vacation or a more permanent move. So the government's plans to expel some 18,000 foreigners living in the country without authorization may seem like a sudden shift.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/portugal-immigration-1.7527596?cmp=rss>
+
+---
+
+## Upstate N.Y. tourism operators offering discounts to win back Canadians
+
+date: 2025-05-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531266.1746811946!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/saranac-lake-region-ny-paddling.jpg' alt='Two people paddling a canoe through mist at sunrise' width='620' height='349' title='Canoeing is a popular activity for visitors to the Saranac Lake Region, New York. '/><p>More than retaliatory counter tariffs, an informal Canadian visitor boycott is hurting American border communities whose economies rely in part on Canadian visitors and cross-border supply chains. Tourism operators in Upstate New York are hoping special discounts can win them back.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/ottawa/upstate-n-y-tourism-operators-offering-discounts-to-win-back-canadians-1.7527622?cmp=rss>
+
+---
+
+## Thousands take part in Darkness Into Light events
+
+date: 2025-05-10, from: RTÉ News
+
+Close to 100,000 people have taken part in the annual Darkness Into Light fundraiser with people running, walking and wheeling from start lines at sports clubs, churches and schools around the country as well as internationally. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0510/1512092-darkness-into-light-walk/>
 
 ---
 
@@ -102,6 +1010,18 @@ A US judge has ordered the release of a Turkish student detained by federal agen
 <br> 
 
 <https://www.rte.ie/news/world/2025/0509/1512066-us-rumeysa-ozturk/>
+
+---
+
+## Journalist Ekaterina Barabash describes her harrowing escape from Russia
+
+date: 2025-05-09, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7531460.1746825772!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine.jpg' alt='A woman with grey hair and multicoloured glasses speaks into a microphone. She&apos;s wearing a ribbon on her lapel in the blue and yellow colours of the Ukrainian flag, affixed with a red poppy.' width='620' height='349' title='Russia&apos;s Ekaterina Barabash, who has Ukrainian heritage and is an outspoken critic of Russia&apos;s invasion of Ukraine, speaks during a press conference at Reporters Without Borders (RSF) headquarters, Monday, May 5, 2025 in Paris. (AP Photo/Michel Euler)'/><p>Barabash was on house arrest and facing imprisonment for speaking out against Russia's invasion of Ukraine. Now, she is safe in Paris after a tumultuous and clandestine escape, orchestrated with the help of Reporters Without Borders.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/ekaterina-barabash-escape-1.7531459?cmp=rss>
 
 ---
 
@@ -539,7 +1459,7 @@ Israel’s plan to take control of relief assistance in Gaza would put civilian 
 
 ## UN warns copper shortage risks slowing global energy and technology shift
 
-date: 2025-05-09, from: United Nations, Top Stories
+date: 2025-05-09, from: United Nations, Economic Development
 
 A looming global copper shortage could stall the world’s transition to clean energy and digital technologies unless smarter trade and investment strategies are adopted, the UN’s trade and development body, UNCTAD, has warned. 
 
@@ -1777,6 +2697,18 @@ date: 2025-05-08, from: CBC, World News
 
 ---
 
+## India, Pakistan ceasefire shaken by border fighting in disputed Kashmir region
+
+date: 2025-05-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532186.1746965557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-pakistan.jpg' alt='A soldier holds a gun in an Indian city.' width='620' height='349' title='An Indian soldier patrols as he guard near a clock tower day after the ceasefire between Indian and Pakistan in Srinagar, in Indian controlled Kashmir, Sunday, May 11, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-pakistan-overnight-fighting-1.7532185?cmp=rss>
+
+---
+
 ## These authors were sold a romantasy convention. Instead, they got the Fyre Festival of the book world
 
 date: 2025-05-08, from: CBC, World News
@@ -2559,7 +3491,7 @@ Where you're born could be the difference between living over three decades long
 
 ## ‘Alarming’ slowdown in human development - could AI provide answers?
 
-date: 2025-05-06, from: United Nations, Top Stories
+date: 2025-05-06, from: United Nations, Economic Development
 
 The progress of human development – as measured by people’s freedoms and well-being – has remained sluggish since the major shock of the COVID-19 pandemic. A UN study released on Tuesday finds that used in the right way, artificial intelligence could be a powerful tool to improve millions of lives.&nbsp; 
 
@@ -3099,105 +4031,4 @@ date: 2025-05-04, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/radio/unreserved/friendship-centres-urban-indigenous-community-1.7520540?cmp=rss>
-
----
-
-## Sede Vacante and Jubilee: historical parallels with the Jubilee of 1700
-
-date: 2025-05-03, from: Vatican News
-
-
-                    <p>The Sede Vacante during the 2025 Holy Year evokes historical parallels with the Jubilee of year 1700 which was also marked by the death of a Pope, Innocent XII, who died before the end of the Holy Year he had proclaimed.  The Numismatics Department of the Vatican Library preserves a commemorative coin of that Sede Vacante in its medal collection. Its  Director Eleonora Giampiccolo speaks to Vatican News about that year and the similiarities between Pope Francis and Innocent XII.</p>
-                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/sede-vacante-and-jubilee-historical-parallels-with-the-jubilee.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/vatican-city/news/2025-05/sede-vacante-and-jubilee-historical-parallels-with-the-jubilee.html>
-
----
-
-## Cardinals discuss need for hope this Jubilee at ninth General Congregation
-
-date: 2025-05-03, from: Vatican News
-
-
-                    <p>The 177 Cardinals present in Rome hold their ninth General Congregation in the Vatican on Saturday morning, and discuss the Church's need for hope during the ongoing Jubilee.
-</p>
-                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinals-discuss-various-issues-at-ninth-general-congregation.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinals-discuss-various-issues-at-ninth-general-congregation.html>
-
----
-
-## Science and Painful Truth
-
-date: 2025-05-03, from: Vatican Obervatory
-
-In science we should be getting at the truth, but sometimes the truth might be too painful, even for a book called The Painful Truth that talks about science. 
-
-<br> 
-
-<https://www.vaticanobservatory.org/sacred-space-astronomy/science-and-painful-truth/>
-
----
-
-## Lord's Day Reflection: Recognising the Risen Lord requires eyes of faith
-
-date: 2025-05-03, from: Vatican News
-
-
-                    <p>As the Church celebrates the Third Sunday of Easter, Fr Edmund Power, OSB, reflects on the Risen Lord's encounter with the disciples on the shore of the Sea of Tiberias, and the need for "eyes of faith" to recognise the Lord.</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-recognising-the-risen-lord-requires-faith.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-recognising-the-risen-lord-requires-faith.html>
-
----
-
-## Sistine Chapel prepared to host Cardinals for conclave on May 7
-
-date: 2025-05-03, from: Vatican News
-
-
-                    <p>The Vatican's Sistine Chapel has been set up to host 133 Cardinal electors for the upcoming conclave to elect the 267th Pope.</p>
-                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/conclave-new-pope-election-cardinals-sistine-chapel-preparation.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/vatican-city/news/2025-05/conclave-new-pope-election-cardinals-sistine-chapel-preparation.html>
-
----
-
-## Cree radio network creates puppet show for kids to learn Cree
-
-date: 2025-05-03, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7524973.1746213364!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/john-and-friends-show.jpg' alt='Puppets of a Cree man and a moose.' width='620' height='349' title='The show&apos;s two main characters are John, a Cree elder, and Morley, a moose who is learning to speak Cree. '/><p>The James Bay Cree Communications Society (JBCCS) launches a puppet show to encourage young and older audiences to hear and speak Cree language.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/north/jbccs-john-and-friends-cree-puppet-show-1.7524944?cmp=rss>
-
----
-
-## Should the Yukon River be considered a 'person' with rights? Some say it's an idea whose time has come
-
-date: 2025-05-03, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7523396.1746220255!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/yukon-river.jpg' alt='An assortment of flowers are pictured in the foreground of the Yukon River, which runs from deep blue to azure. White clouds hang in the sky.' width='620' height='349' title='The Yukon River near Marsh Lake. Interest is growing among Yukon First Nations and Alaska Native people to grant the river legal personhood.'/><p>It's an idea that already has the support of the Council of Yukon First Nations and Alaska Native people, whose cultures are also intertwined with the river.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/north/should-yukon-river-considered-person-with-rights-1.7524562?cmp=rss>
 

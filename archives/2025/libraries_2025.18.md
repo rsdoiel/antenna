@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-05-10 06:07:53
+updated: 2025-05-11 06:08:52
 ---
 
 # libraries
 
-(date: 2025-05-10 06:07:53)
+(date: 2025-05-11 06:08:52)
+
+---
+
+## GreenGraph: A Novel Tool for Graph-Based Life-Cycle Assessment
+
+date: 2025-05-13, from: ETH Zurich, recently added
+
+Weinold, Michael; Ghosh, Tapajyoti; Majeau-Bettez, Guillaume 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733985>
 
 ---
 

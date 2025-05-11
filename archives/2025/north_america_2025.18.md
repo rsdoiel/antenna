@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-05-10 06:07:48
+updated: 2025-05-11 06:08:46
 ---
 
 # north america
 
-(date: 2025-05-10 06:07:48)
+(date: 2025-05-11 06:08:46)
+
+---
+
+## Trump’s Crypto Conflicts Catch Fire
+
+date: 2025-05-10, from: The Contrarian
+
+Publisher's Roundup, 17 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-crypto-conflicts-catch-fire>
+
+---
+
+##  YOU LOVE TO SEE IT: Log Off, Kids 
+
+date: 2025-05-10, from: The Lever News
+
+ Offline is the new cool, offshore accounts are caught red-handed, a crypto kingpin is behind bars, and the Pentagon does its own repairs.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-log-off-kids/>
 
 ---
 
@@ -838,54 +862,4 @@ date: 2025-05-04, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-105-days-but-whos-counting/>
-
----
-
-## 100 Days of…Resistance!
-
-date: 2025-05-03, from: The Contrarian
-
-Publisher's RoundUp, 16 
-
-<br> 
-
-<https://contrarian.substack.com/p/100-days-ofresistance>
-
----
-
-##  YOU LOVE TO SEE IT: Watt You Use Is Watt You Owe 
-
-date: 2025-05-03, from: The Lever News
-
- A power player pays up, a city goes all in against sports betting, a soot-free train ride, and student visas get restored.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-watt-you-use-is-watt-you-owe/>
-
----
-
-## The 100 Days Conference
-
-date: 2025-05-03, from: The Contrarian
-
-A recording from The Contrarian's live video 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-100-days-conference>
-
----
-
-## Dan Toomey and Chuck Work on Trump's pick for US attorney for DC
-
-date: 2025-05-03, from: The Contrarian
-
-Trump&#8217;s controversial pick for U.S. 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162643384/aadfde621e34a9a1e7f256dfb4de1f38.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/162643384/aadfde621e34a9a1e7f256dfb4de1f38.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://contrarian.substack.com/p/dan-toomey-and-chuck-work-on-trumps>
 

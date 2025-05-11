@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-05-10 06:07:51
+updated: 2025-05-11 06:08:50
 ---
 
 # writing
 
-(date: 2025-05-10 06:07:51)
+(date: 2025-05-11 06:08:50)
+
+---
+
+## Where the Axe Is Buried by Ray Nayler: Review by Niall Harrison
+
+date: 2025-05-10, from: Locus Magazine
+
+<p><strong>Where the Axe Is Buried</strong>, Ray Nayler (MCD 978-0-374-61536-9, $28.00, 336pp, hc) April 2025.</p>
+<p>I came to Ray Nayler’s <strong>Where the Axe Is Bur­ied </strong>on a fool’s errand. I am not American, but I have loved America, in spite of its sins, the imperfect ideals of it, the casually confident literature of it, the soul-shaping landscapes of it, all filtered through my own partial personal experiences of it in  <a href="https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-niall-harrison/>
 
 ---
 
@@ -635,58 +648,4 @@ date: 2025-05-04, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/05/analog-short-fiction-reviews-by-a-c-wise-4/>
-
----
-
-## The Deep Forest by Sofía Rhei: Review by Gary K. Wolfe
-
-date: 2025-05-03, from: Locus Magazine
-
-<p><strong>The Deep Forest</strong>, Sofía Rhei (Aqueduct 978-1-61976-274-9, $16.00, 190pp, tp) April 2025.</p>
-<p>The past few years have given us quite a few nov­els and stories reimagining and repurposing classic fairy tales (I was going to say it’s a resurgence, but was there ever a lull?), and for the most part these have involved expanding or embroidering the originals in some way, as if to make them more amenable to  <a href="https://locusmag.com/2025/05/the-deep-forest-by-sofia-rhei-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/05/the-deep-forest-by-sofia-rhei-review-by-gary-k-wolfe/>
-
----
-
-## Where the Axe Is Buried by Ray Naylor: Review by Paul Di Filippo
-
-date: 2025-05-03, from: Locus Magazine
-
-<p><strong>Where the Axe Is Buried</strong>, Ray Nayler (MCD 978-0374615369, hardcover, 336pp, $28.00) April 2025.</p>
-<p>What do you get when you blend a humanist ethos with realpolitik savvy with hardcore physics speculations with deeply-plumbed characters with elegant prose with tons of gravitas? I think the answer is obvious: Ursula Le Guin’s <b>The Dispossessed</b>.</p>
-<p>Oh, wait a minute! I’m stuck fifty years in the past. From the perch of 2025,  <a href="https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-naylor-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-naylor-review-by-paul-di-filippo/>
-
----
-
-## Where the Axe Is Buried by Ray Nayler: Review by Paul Di Filippo
-
-date: 2025-05-03, from: Locus Magazine
-
-<p><strong>Where the Axe Is Buried</strong>, Ray Nayler (MCD 978-0374615369, hardcover, 336pp, $28.00) April 2025.</p>
-<p>What do you get when you blend a humanist ethos with realpolitik savvy with hardcore physics speculations with deeply-plumbed characters with elegant prose with tons of gravitas? I think the answer is obvious: Ursula Le Guin’s <b>The Dispossessed</b>.</p>
-<p>Oh, wait a minute! I’m stuck fifty years in the past. From the perch of 2025,  <a href="https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-paul-di-filippo/>
-
----
-
-## Scriptnotes, Episode 683: Our Take on Long Takes, Transcript
-
-date: 2025-05-03, from: John August blog
-
-The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: Aww, my name is Craig Mazin. John: You’re listening to episode 683 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, what if we [&#8230;]
-The post <a href="https://johnaugust.com/2025/scriptnotes-episode-683-our-take-on-long-takes-transcript">Scriptnotes, Episode 683: Our Take on Long Takes, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
-
-<br> 
-
-<https://johnaugust.com/2025/scriptnotes-episode-683-our-take-on-long-takes-transcript>
 

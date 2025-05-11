@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-05-10 06:07:54
+updated: 2025-05-11 06:08:53
 ---
 
 # motorcycles
 
-(date: 2025-05-10 06:07:54)
+(date: 2025-05-11 06:08:53)
+
+---
+
+## Arctic Cat's New Owners Are Hiring Back Over 300 Employees, Win for Workers
+
+date: 2025-05-11, from: Ride Apart, Electric Motorcycle News
+
+Good news, everyone! 
+
+<br> 
+
+<https://www.rideapart.com/news/759173/arctic-cat-employee-jobs-restored/>
+
+---
+
+## Alex Palou and the “Perfect 10’s” win third IMS road course race in-a-row
+
+date: 2025-05-11, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer Alex Palou continues to do what Alex Palou does best: Win races.&#160; Palou piloted the No.10 DHL Honda to his fourth win on the season,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/alex-palou-and-the-perfect-10s-win-third-ims-road-course-race-in-a-row/>
+
+---
+
+## Harley Investors Allege Backroom Deals, Say CEO and Directors Are Promising to Leave
+
+date: 2025-05-10, from: Ride Apart, Electric Motorcycle News
+
+H Partners Management alleges the directors are holding backroom meetings with shareholders.  
+
+<br> 
+
+<https://www.rideapart.com/news/759147/harley-davidson-h-partners-management-ceo-board-directors-leaving/>
+
+---
+
+## Palou wins Sonsio GP Pole; looks to get fourth win of the season
+
+date: 2025-05-10, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer The Month of May is finally here which means the NTT IndyCar Series will spend the next three weeks at the Indianapolis Motor Speedway. Instead&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/palou-wins-sonsio-gp-pole-looks-to-get-fourth-win-of-the-season/>
 
 ---
 
@@ -459,65 +507,4 @@ Grom spec series is a go!
 <br> 
 
 <https://www.rideapart.com/news/758435/japanese-direct-market-honda-grom-factory-race-motorcycle-auction/>
-
----
-
-## Taylor Gray records career-best Xfinity finish at Texas Motor Speedway
-
-date: 2025-05-03, from: Kickin the Tires blog
-
-Taylor Gray's runner-up finish Saturday at Texas Motor Speedway was a career-best effort, while Sam Mayer and Justin Allgaier also fell short after sniffing victory in the 
-Xfinity Series. 
-
-<br> 
-
-<https://kickinthetires.net/nascar/taylor-gray-records-career-best-xfinity-finish-at-texas-motor-speedway/>
-
----
-
-## GALLERY: NASCAR Xfinity Series Action At Texas Motor Speedway
-
-date: 2025-05-03, from: Kickin the Tires blog
-
-Photos by Jerry Jordan and Eric Hattey/Kickin&#8217; the Tires 
-
-<br> 
-
-<https://kickinthetires.net/nascar/gallery-nascar-xfinity-series-action-at-texas-motor-speedway/>
-
----
-
-## GALLERY: A Look At The SpeedyCash.com 250 At Texas Motor Speedway
-
-date: 2025-05-03, from: Kickin the Tires blog
-
-Photos by Eric Hattey/Kickin&#8217; the Tires 
-
-<br> 
-
-<https://kickinthetires.net/nascar/gallery-a-look-at-the-speedycash-com-250-at-texas-motor-speedway/>
-
----
-
-## IN THE NICK OF HEIM: Corey Heim Survives To Win Craftsman Truck Series Race At Texas Motor Speedway
-
-date: 2025-05-03, from: Kickin the Tires blog
-
-Press Release FORT WORTH, Texas (MAY 2, 2025) – TRICON Garage driver Corey Heim had to survive double overtime after a dominant performance to secure his series-leading third NASCAR CRAFTSMAN Truck&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/in-the-nick-of-heim-corey-heim-survives-to-win-craftsman-truck-series-race-at-texas-motor-speedway/>
-
----
-
-## You Could Be Rolling At Vespa World Days Right Now, If You Hurry
-
-date: 2025-05-03, from: Ride Apart, Electric Motorcycle News
-
-Hop a flight, scoot all night! 
-
-<br> 
-
-<https://www.rideapart.com/news/758469/vespa-world-days-2025-spain/>
 

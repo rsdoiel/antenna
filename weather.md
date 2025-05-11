@@ -1,11 +1,226 @@
 ---
 title: weather
-updated: 2025-05-10 06:07:51
+updated: 2025-05-11 06:08:50
 ---
 
 # weather
 
-(date: 2025-05-10 06:07:51)
+(date: 2025-05-11 06:08:50)
+
+---
+
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+
+date: 2025-05-11, from: Eastern Pacific Basin GIS Data
+
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Sun May 11 12:31:02 UTC 2025
+
+date: 2025-05-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun May 11 12:31:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Sun May 11 12:31:02 UTC 2025
+
+date: 2025-05-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Sun May 11 12:31:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC May 11, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-05-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0400 AM CDT Sun May 11 2025
+
+Valid 141200Z - 191200Z
+
+...DISCUSSION...
+Latest medium-range output remains generally similar to prior runs
+concerning the pattern evolution Wednesday into Thursday.  A
+significant short wave trough emerging from the Intermountain West
+is forecast to support modest cyclogenesis across the central and
+northern Great Plains through the mid/upper Mississippi Valley
+vicinity.  It appears that this probably will be accompanied by
+increasing potential for strong to severe thunderstorm development,
+with severe probabilities maximizing across parts of the Midwest
+late Thursday into Thursday night, as the stronger large-scale
+forcing for ascent becomes better coupled with substantive
+boundary-layer moistening and destabilization.  Aided by steep
+lower/mid-tropospheric lapse rates associated with elevated
+mixed-layer air, and moderate to strong low-level and deep-layer
+shear, it appears that the environment will become conducive to the
+evolution of an upscale growing and organizing convective system. 
+But initial convection may include supercells posing a risk for
+large hail and a couple of tornadoes, before damaging wind gusts
+become the predominate severe hazard.
+
+Based on the subsequent pattern evolution, it appears that this
+convection could persist into, or re-intensify, Friday across parts
+of the mid/upper Ohio Valley, with additional upscale growing
+convection evolving along a stalling trailing cold front near the
+southern edge of the stronger westerlies.  Into next weekend,
+renewed cyclogenesis appears possible along the trailing flank of
+the front across the south central Great Plains, where additional
+strong to severe thunderstorm development may focus along  a
+developing warm front, and a developing dryline southward through
+the plains, as the warm sector destabilizes with increasing Gulf
+moisture return.
+
+However, by late Thursday into Friday, and beyond, these
+developments remain much more unclear, as spread among and within
+the various medium-range models begins to increase.  Substantive
+differences begin to develop concerning the progressiveness of the
+lead trough, and a trailing short wave trough emerging from the
+mid-latitude Pacific.  The uncertain impacts of potentially multiple
+evolving large convective clusters on succeeding days adds to low
+predictability.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
+## SPC MD 756
+
+date: 2025-05-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0756.html"><img src="https://www.spc.noaa.gov/products/md/mcd0756.png" border="1" alt="MD 0756 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0756
+NWS Storm Prediction Center Norman OK
+0708 AM CDT Sat May 10 2025
+
+Areas affected...Parts of the FL Panhandle into far southeast AL
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 101208Z - 101415Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...A localized tornado and wind-damage threat may spread
+eastward this morning.
+
+DISCUSSION...A persistent storm cluster with embedded supercells is
+moving eastward this morning across the FL Panhandle, to the east of
+a surface low near Mobile Bay. Occasional upticks in rotation have
+been noted over the last hour as cells interact with a frontal zone
+that is very gradually moving northward across the area. Some
+additional northward progression of the front is possible through
+the morning, aided by the onset of modest diurnal heating downstream
+of ongoing convection. This would increase the area across the
+peninsula where an organized severe threat could evolve over the
+next 2-3 hours. A supercell currently south of Fort Walton Beach
+could pose a threat if it moves onshore, and additional cell
+development is possible within developing convection west of Panama
+City. 
+
+Near and south of the front, favorable low-level moisture and
+veering wind profiles (with effective SRH increasing above 100
+m2/s2) will continue to support localized tornado and wind-damage
+potential with any sustained supercells.
+
+..Dean/Guyer.. 05/10/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...TAE...MOB...
+
+LAT...LON   30988675 31098553 30998502 30578490 30018483 29938486
+            29758499 29538529 29608559 29758590 29898630 29988670
+            30198700 30988675 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...85-115 MPH
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0756.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0756.html>
+
+---
+
+## SPC MD 757
+
+date: 2025-05-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0757.html"><img src="https://www.spc.noaa.gov/products/md/mcd0757.png" border="1" alt="MD 0757 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0757
+NWS Storm Prediction Center Norman OK
+0758 AM CDT Sat May 10 2025
+
+Areas affected...North FL into far southeast GA
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 101258Z - 101430Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...Strong to locally severe storms are possible this morning.
+
+DISCUSSION...A long-lived MCS has moved inland across the FL Big
+Bend region this morning. This system has generally been subsevere
+thus far since moving inland and has shown signs of weakening, but
+filtered downstream heating of a moist airmass will result in MLCAPE
+approaching 1000 J/kg with time this morning. This could allow some
+intensification as the remnant storm cluster approaches northeast
+FL, with an attendant threat of locally damaging winds. Storms
+developing ahead of this cluster could also approach severe limits
+through the morning.
+
+..Dean/Guyer.. 05/10/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...TBW...JAX...TAE...
+
+LAT...LON   29698296 30588205 31028161 31008129 30318123 30018120
+            29718114 29528125 29448161 29368196 29318228 29278265
+            29698296 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...UP TO 95 MPH
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...UP TO 1.25 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0757.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0757.html>
 
 ---
 
@@ -75,18 +290,6 @@ driest fuels should prevent more widespread concerns for Saturday.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No MDs are in effect as of Fri May  9 20:03:01 UTC 2025
-
-date: 2025-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri May  9 20:03:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -2901,273 +3104,4 @@ MOST PROBABLE PEAK WIND GUST...UP TO 60 MPH
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md0677.html>
-
----
-
-## SPC MD 670
-
-date: 2025-05-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/md/md0670.html"><img src="https://www.spc.noaa.gov/products/md/mcd0670.png" border="1" alt="MD 0670 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
-
-Mesoscale Discussion 0670
-NWS Storm Prediction Center Norman OK
-0306 PM CDT Sat May 03 2025
-
-Areas affected...the Trans-Pecos in southwest Texas
-
-Concerning...Severe potential...Watch unlikely 
-
-Valid 032006Z - 032230Z
-
-Probability of Watch Issuance...5 percent
-
-SUMMARY...An isolated supercell or two, capable of large hail, may
-develop this afternoon. If storms form and intensify, the severe
-threat should still be isolated, so a WW issuance is not expected.
-
-DISCUSSION...Convection continues to deepen across the Trans-Pecos
-region in southwest TX as warming surface temperatures beneath 7
-C/km mid-level lapse rates contributes to 500+ J/kg MLCAPE. Despite
-mid-level ridging, the overspreading of a 60-80 kt 300 mb jet stream
-is resulting in 40+ kts of 0-6 km speed shear (per latest RAP
-forecast soundings and mesoanalysis). This vertical shear profile,
-along with the aforementioned buoyancy, is adequate in supporting
-supercell storm modes capable of producing large hail with any
-updrafts that can mature and sustain themselves. Given modest
-instability and ascent, storm development should remain quite
-isolated, along with any severe threat that manages to materialize.
-Given the anticipated isolated severe threat, a WW issuance is
-unlikely.
-
-..Squitieri/Gleason.. 05/03/2025
-
-...Please see www.spc.noaa.gov for graphic product...
-
-ATTN...WFO...EWX...MAF...EPZ...
-
-LAT...LON   31010569 31230513 31170422 31050308 30670203 30090164
-            29750173 29710228 29650256 29350275 28990303 28940329
-            29110392 29490440 29750463 30140483 30460500 30600517
-            31010569 
-
-MOST PROBABLE PEAK HAIL SIZE...1.00-1.75 IN
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/md/md0670.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/md0670.html>
-
----
-
-## SPC Severe Thunderstorm Watch 219 Status Reports
-
-date: 2025-05-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/watch/ws0219.html"><img src="https://www.spc.noaa.gov/products/watch/ww0219_radar.gif" border="1" alt="WW 0219 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
-
-STATUS FOR WATCH 0219 HAS NOT BEEN ISSUED YET
-</pre>
-<a href="https://www.spc.noaa.gov/products/watch/ws0219.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/ws0219.html>
-
----
-
-## SPC Severe Thunderstorm Watch 219
-
-date: 2025-05-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/watch/ww0219.html"><img src="https://www.spc.noaa.gov/products/watch/ww0219_radar.gif" border="1" alt="WW 0219 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
-
-URGENT - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Watch Number 219
-NWS Storm Prediction Center Norman OK
-435 PM EDT Sat May 3 2025
-
-The NWS Storm Prediction Center has issued a
-
-* Severe Thunderstorm Watch for portions of 
-  District Of Columbia
-  Central into Northeast Maryland
-  Southeast Pennsylvania
-  Northern Virginia
-  The Far Eastern West Virginia Panhandle
-  Coastal Waters
-
-* Effective this Saturday afternoon and evening from 435 PM until
-  1000 PM EDT.
-
-* Primary threats include...
-  Scattered damaging wind gusts to 70 mph possible
-  Scattered large hail events to 1.5 inches in diameter possible
-  A tornado or two possible
-
-SUMMARY...Isolated to widely scattered supercells should pose some
-threat for severe hail around 1-1.5 inches in diameter and damaging
-winds late this afternoon into the evening. A tornado or two may
-also occur.
-
-The severe thunderstorm watch area is approximately along and 35
-statute miles east and west of a line from 65 miles north of
-Baltimore MD to 65 miles southwest of Washington DC. For a complete
-depiction of the watch see the associated watch outline update
-(WOUS64 KWNS WOU9).
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-REMEMBER...A Severe Thunderstorm Watch means conditions are
-favorable for severe thunderstorms in and close to the watch area.
-Persons in these areas should be on the lookout for threatening
-weather conditions and listen for later statements and possible
-warnings. Severe thunderstorms can and occasionally do produce
-tornadoes.
-
-&&
-
-OTHER WATCH INFORMATION...CONTINUE...WW 218...
-
-AVIATION...A few severe thunderstorms with hail surface and aloft to
-1.5 inches. Extreme turbulence and surface wind gusts to 60 knots. A
-few cumulonimbi with maximum tops to 450. Mean storm motion vector
-24035.
-
-...Gleason
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/watch/ww0219.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/ww0219.html>
-
----
-
-## SPC Severe Thunderstorm Watch 218 Status Reports
-
-date: 2025-05-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/watch/ws0218.html"><img src="https://www.spc.noaa.gov/products/watch/ww0218_radar.gif" border="1" alt="WW 0218 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
-
-STATUS REPORT ON WW 218
-
-SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 25 SW BDL TO
-20 NNE BAF TO 15 WNW PSM.
-
-FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0668.
-
-..GRAMS..05/03/25
-
-ATTN...WFO...BOX...ALY...GYX...OKX...
-
-
-STATUS REPORT FOR WS 218 
-
-SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
-
-CTC003-013-032140-
-
-CT 
-.    CONNECTICUT COUNTIES INCLUDED ARE
-
-HARTFORD             TOLLAND             
-
-
-MAC011-013-015-017-027-032140-
-
-MA 
-.    MASSACHUSETTS COUNTIES INCLUDED ARE
-
-FRANKLIN             HAMPDEN             HAMPSHIRE           
-MIDDLESEX            WORCESTER           
-
-
-NHC011-015-032140-
-
-NH 
-.    NEW HAMPSHIRE COUNTIES INCLUDED ARE
-
-HILLSBOROUGH         ROCKINGHAM          
-</pre>
-<a href="https://www.spc.noaa.gov/products/watch/ws0218.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/ws0218.html>
-
----
-
-## SPC Severe Thunderstorm Watch 218
-
-date: 2025-05-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/watch/ww0218.html"><img src="https://www.spc.noaa.gov/products/watch/ww0218_radar.gif" border="1" alt="WW 0218 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
-
-URGENT - IMMEDIATE BROADCAST REQUESTED
-Severe Thunderstorm Watch Number 218
-NWS Storm Prediction Center Norman OK
-110 PM EDT Sat May 3 2025
-
-The NWS Storm Prediction Center has issued a
-
-* Severe Thunderstorm Watch for portions of 
-  Northern Connecticut
-  Massachusetts
-  Far Southern Maine
-  Southern New Hampshire
-  Southern New York
-  Southern Vermont
-
-* Effective this Saturday afternoon and evening from 110 PM until
-  800 PM EDT.
-
-* Primary threats include...
-  Scattered damaging wind gusts to 70 mph possible
-  Scattered large hail events to 1.5 inches in diameter possible
-  A tornado or two possible
-
-SUMMARY...Thunderstorms should continue to increase in coverage and
-intensity in a narrow southwest-to-northeast corridor this
-afternoon. Scattered damaging winds and occasional severe hail
-should be the main threats with this activity.
-
-The severe thunderstorm watch area is approximately along and 40
-statute miles north and south of a line from 30 miles west of
-Poughkeepsie NY to 25 miles east southeast of Concord NH. For a
-complete depiction of the watch see the associated watch outline
-update (WOUS64 KWNS WOU8).
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-REMEMBER...A Severe Thunderstorm Watch means conditions are
-favorable for severe thunderstorms in and close to the watch area.
-Persons in these areas should be on the lookout for threatening
-weather conditions and listen for later statements and possible
-warnings. Severe thunderstorms can and occasionally do produce
-tornadoes.
-
-&&
-
-AVIATION...A few severe thunderstorms with hail surface and aloft to
-1.5 inches. Extreme turbulence and surface wind gusts to 60 knots. A
-few cumulonimbi with maximum tops to 450. Mean storm motion vector
-25035.
-
-...Gleason
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/watch/ww0218.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/ww0218.html>
 

@@ -1,11 +1,418 @@
 ---
 title: columns
-updated: 2025-05-10 06:07:51
+updated: 2025-05-11 06:08:49
 ---
 
 # columns
 
-(date: 2025-05-10 06:07:51)
+(date: 2025-05-11 06:08:49)
+
+---
+
+## What do I really own?
+
+date: 2025-05-11, from: Dave Winer's Scripting News
+
+<p>I once owned a few acres of land that had some old trees on it. I sat under one of the trees on a lovely afternoon, and thought of the tree "I own you." The tree formed a thought that somehow I could tune into. "I was here long before you were born and I will be here long after you die." I didn't see it exactly as a response to my claim of ownership. But it sure did put things in perspective!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/11/ownership.png"></center>I thought of the tree, "I own you."</div></p>
+<p>PS: I wrote that paragraph in <a href="http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html#p9324">2011</a>. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/11/120442.html?title=whatDoIReallyOwn>
+
+---
+
+## ‘Let It Be’ 
+
+date: 2025-05-11, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/let-it-be>
+
+---
+
+## May 10, 2025
+
+date: 2025-05-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163323894/a72a6eb9bf0af408eec65e24d5860485.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163323894/a72a6eb9bf0af408eec65e24d5860485.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-10-2025-2e5>
+
+---
+
+## Sunday thought
+
+date: 2025-05-11, from: Robert Reich's blog
+
+Moral clarity in a time of monsters 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-68f>
+
+---
+
+## May 10, 2025 
+
+date: 2025-05-11, from: Heather Cox Richardson blog
+
+Those of us who are truly lucky have more than one mother. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-10-2025>
+
+---
+
+## 2025-05-10 The beginning of May
+
+date: 2025-05-10, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-10-the-beginning-of-may">2025-05-10 The beginning of May</h1>
+
+<p>I’ve been walking through the neighbourhood again, looking at flowers. Aargauerstrasse is particularly beautiful with the tram rails.</p>
+
+<p>Teppich-Zwergmispel<br>
+Cotoneaster dammeri</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-1.jpg" alt="2025-05-09-flowers-1.jpg" /></p>
+
+<p>Gewöhnlicher Natternkopf<br>
+Echium vulgare</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-2.jpg" alt="2025-05-09-flowers-2.jpg" /></p>
+
+<p>It&rsquo;s not a dandelion, for sure. Guessing Wiesen-Piepau, i.e. Crepis biennis.</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-3.jpg" alt="2025-05-09-flowers-3.jpg" /></p>
+
+<p>Kartoffel-Rose<br>
+Rosa rugosa</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-4.jpg" alt="2025-05-09-flowers-4.jpg" /></p>
+
+<p>Wisteria, but which one: Japanese or Chinese?</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-5.jpg" alt="2025-05-09-flowers-5.jpg" /></p>
+
+<p>Gewöhnliche Nachtviole<br>
+Hesperis matronalis agg.</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-6.jpg" alt="2025-05-09-flowers-6.jpg" /></p>
+
+<p>A iris, but which one? Or most likely some commercial variant.</p>
+
+<p>Ostsibirische Schwertlilie<br>
+Iris sanguina</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-7.jpg" alt="2025-05-09-flowers-7.jpg" /></p>
+
+<p>Gewöhnliche Akelei (Artengruppe)<br>
+Aquilegia vulgaris agg.</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-8.jpg" alt="2025-05-09-flowers-8.jpg" /></p>
+
+<p>So beautiful. Including a little aphid. Oh no!</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-9.jpg" alt="2025-05-09-flowers-9.jpg" /></p>
+
+<p>Aargauerstrasse has tram tracks running over some rocky grounds and in recent years, the city gardening department has let it grow in the most wonderful wild flowers.</p>
+
+<p>Scharfer Mauerpfeffer<br>
+Sedum acre</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-10.jpg" alt="2025-05-09-flowers-10.jpg" /></p>
+
+<p>Nickendes Leimkraut<br>
+Silene nutans</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-11.jpg" alt="2025-05-09-flowers-11.jpg" /></p>
+
+<p>Rotes Seifenkraut<br>
+Saponaria ocymoides</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-12.jpg" alt="2025-05-09-flowers-12.jpg" /></p>
+
+<p>To think that clover seemed so utterly mundane when I was a child.</p>
+
+<p>Rot-Klee<br>
+Trifolium pratense</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-13.jpg" alt="2025-05-09-flowers-13.jpg" /></p>
+
+<p>Wiesen-Salbei<br>
+Salvia pratensis</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-14.jpg" alt="2025-05-09-flowers-14.jpg" /></p>
+
+<p>Schwarzrandige Margerite<br>
+Leucanthemum aratrum agg.</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-15.jpg" alt="2025-05-09-flowers-15.jpg" /></p>
+
+<p>My favourite one! 😍</p>
+
+<p>Saat-Esparsetten (Artengruppe)<br>
+Onobrychis viciifolia agg.</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-16.jpg" alt="2025-05-09-flowers-16.jpg" /></p>
+
+<p>Apparently not Taubenkropf (Cucubalus baccifer), says the app. I&rsquo;m confused.</p>
+
+<p>Gewöhnliches Leimkraut<br>
+Silene vulgaris</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-17.jpg" alt="2025-05-09-flowers-17.jpg" /></p>
+
+<p>These trees are amazing in bloom.</p>
+
+<p>Gewöhnliche Rosskastanie<br>
+Aesculus hippocastanum</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-18.jpg" alt="2025-05-09-flowers-18.jpg" /></p>
+
+<p>Nelke</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-19.jpg" alt="2025-05-09-flowers-19.jpg" /></p>
+
+<p>Habichtskraut</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-20.jpg" alt="2025-05-09-flowers-20.jpg" /></p>
+
+<p>Flockenblume<br>
+Centaurea</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-21.jpg" alt="2025-05-09-flowers-21.jpg" /></p>
+
+<p>Luzerne<br>
+Medicago sativa</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-22.jpg" alt="2025-05-09-flowers-22.jpg" /></p>
+
+<p>I thought it was going to be Ackerwittwenblume but I guess a lot of Acker- was changed to Wiesen- in recent decades.</p>
+
+<p>Wiesen-Wittwenblume (Artengruppe)<br>
+Knautia arvensis agg.</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-23.jpg" alt="2025-05-09-flowers-23.jpg" /></p>
+
+<p>Gewöhnliches Sonnenröschen<br>
+Helianthemum nummularium</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-24.jpg" alt="2025-05-09-flowers-24.jpg" /></p>
+
+<p>Nelke</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-25.jpg" alt="2025-05-09-flowers-25.jpg" /></p>
+
+<p>Hufeisenklee<br>
+Hippocrepis comosa</p>
+
+<p><img loading="lazy" src="2025-05-09-flowers-26.jpg" alt="2025-05-09-flowers-26.jpg" /></p>
+
+<p>I use Flora Incognita for plant id.</p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flower">#Flower</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-09-flowers>
+
+---
+
+## How to Make Customers Hate You
+
+date: 2025-05-10, from: Doc Searls (at Harvard), New Old Blog
+
+Exhibit A: Soak &#8217;em when they don&#8217;t know they&#8217;re being soaked. Wecome to negative option billing at work. Other labels include &#8220;sludge,&#8221; &#8220;dark patterns,&#8221; &#8220;gotcha pricing,&#8221; &#8220;subscription trapping,&#8221; and &#8220;bait-and-default.&#8221; Works like this: offer a service a discount that jumps up to a high &#8220;regular&#8221; price after the discount runs out, and count on the [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/10/how-to-make-customers-hate-you-2/>
+
+---
+
+## May 9, 2025
+
+date: 2025-05-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163285322/cca1de68cd89ed2b62a105ea2c6d41aa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163285322/cca1de68cd89ed2b62a105ea2c6d41aa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-9-2025-f6f>
+
+---
+
+**@John's World Wide Wall Display** (date: 2025-05-10, from: John's World Wide Wall Display)
+
+While there have always been gullible adults, as a parent and educator, the real issue here is with young people. I had never considered people would use AI as a therapist, prophet or guru! 
+
+<br> 
+
+<https://johnjohnston.info/blog/like-chatgpt-prime/>
+
+---
+
+## Developers as Suppliers
+
+date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.threads.com/@benedictevans/post/DJVCqaZuN63>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-10, from: Miguel de Icaza Mastondon feed)
+
+<p>We are at PAX this weekend:  <a href="https://blog.la-terminal.net/xogot-at-pax-east/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-at-</span><span class="invisible">pax-east/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114484083013696714>
+
+---
+
+## Software isn't a thing
+
+date: 2025-05-10, from: Dave Winer's Scripting News
+
+<p>When a friend discovers a new product of mine and says the world owes Dave for being such a great guy, I wish they'd skip that part, and follow what we're doing. Get in the loop. </p>
+<p>Software isn't a thing, it isn't finished, it's a process as it gets invented by the users. It's a performing art. WordLand today is like a musician performing in a small club, working out the playlist, and hoping to be playing at theaters then arenas, and finally someday, if we're very good, stadiums. But we need help. </p>
+<p>If you love WordLand, subscribe. Use the software. Learn what it can do, hit its limits, make requests. </p>
+<p>I remember very well being handed a list of feature requests by Apple's lead evangelist from a new exec they just hired at Apple. I looked at the list, and handed it back and said I'd like to meet him. On the paper was the top ten list of <i>every</i> MORE user at the time. We knew what they wanted because we listened, studied, and learned. I knew his new boss was a real user, and thus I knew we could do stuff together. It worked out exactly that way. </p>
+<p>So if you love it, use it, <i>become part of it. </i></p>
+<p>PS: I've written about this over the years with the motto <a href="https://www.google.com/search?q=site%3Ascripting.com+shitty+software">we make shitty software</a>. If you use it and share what you learn, it will get better. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/10/141952.html?title=softwareIsntAThing>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-10, from: Dave Winer's Scripting News)
+
+It's about time WordLand had a <a href="https://bsky.app/profile/wordland.social">Bluesky account</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/10.html#a135838>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-10, from: Dave Winer's Scripting News)
+
+Someday I'll be able to point ChatGPT at the <a href="https://this.how/wordland/">home page</a> for writing about WordLand, and tell it to read every page that's linked to it, and from that put together a well-organized book about WordLand. Maybe sometime next year perhaps??  I used that as a prompt, to see what <a href="https://imgs.scripting.com/2025/05/10/writeABookForWordland.png">ChatGPT</a> would say. 
+
+<br> 
+
+<http://scripting.com/2025/05/10.html#a125701>
+
+---
+
+## America as a platform
+
+date: 2025-05-10, from: Dave Winer's Scripting News
+
+<p>We lived for the first years of my life in <a href="https://en.wikipedia.org/wiki/Jackson_Heights">Jackson Heights</a>, which is probably, today, the most culturally diverse place in the world. In the 1960s it was a white neighborhood that was adjacent to a black neighborhood, <a href="https://en.wikipedia.org/wiki/Corona,_Queens">Corona</a>. They paired our elementary schools when I was in third or fourth grade. My little brother went to the school in Corona, and I stayed in the school in Jackson Heights. </p>
+<p>There's a <a href="http://scripting.com/images/2025/05/10/eveWinerPeterWinerWalkToSchool.png">famous picture</a>, in our family at least, of my mother walking my brother to school. It was on the front page of the NYT one day. That was a big deal then.  </p>
+<p>When I was in fifth grade we moved to <a href="https://en.wikipedia.org/wiki/Flushing,_Queens">Flushing</a>. It was a sleepy little place (for NYC), nice houses, mostly Irish and Italian families with a few Jews. Now it's a Far East culture, from China and Korea, and still just as nice as it ever was. </p>
+<p>We have a system in this country, it takes people from everywhere and gives them a platform to create whatever they want. In Flushing it's the best Chinese food in the city, which is saying a lot.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/10/125322.html?title=americaAsAPlatform>
+
+---
+
+## The Biggest Presidential Con in History | The Coffee Klatch for May 10, 2025
+
+date: 2025-05-10, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163243226/60c87159c2b247cd582a0ab386f835a4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163243226/60c87159c2b247cd582a0ab386f835a4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-biggest-presidential-con-in-history>
+
+---
+
+## May 9, 2025
+
+date: 2025-05-10, from: Heather Cox Richardson blog
+
+Yesterday afternoon, President Donald Trump withdrew his nomination for interim U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-9-2025>
+
+---
+
+## No, Science is Not Just Another Religion
+
+date: 2025-05-10, updated: 2025-05-10, from: Ron Garret
+
+I want to debunk once and for all this idea that "science is just another religion".&nbsp; It isn't, for one simple reason: all religions are based on some kind of metaphysical assumptions.&nbsp; Those assumptions are generally something like the authority of some source of revealed knowledge, typically a holy text.&nbsp; But it doesn't have to be that.&nbsp; It can be as simple as assuming that 
+
+<br> 
+
+<https://blog.rongarret.info/2025/05/no-science-is-not-just-another-religion.html>
+
+---
+
+## Weeknotes: May 3-9, 2025
+
+date: 2025-05-10, from: Tracy Durnell Blog
+
+Highlight of the week: we had a great day out on Whidbey Island with some internet friends (where I repeatedly failed to guess what mountain we were looking at then finally landed on Kulshan which I did not realize was an indigenous name for Mt. Baker) Looking forward to: resting this weekend, busy week! Stuff I [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/09/weeknotes-may-3-9-2025/>
+
+---
+
+## Trump Administration ‘Actively Looking’ at Suspending Habeas Corpus
+
+date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cbsnews.com/news/stephen-miller-says-trump-administration-actively-looking-at-suspending-habeas-corpus-to-deport-migrants/>
+
+---
+
+## Epic Submits Fortnite to App Store Through Swedish Subsidiary
+
+date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/05/09/fortnite-apple-app-store-epic-games.html>
 
 ---
 
@@ -520,7 +927,7 @@ Or is checking out a way to avoid responsibility? Or the admission of powerlessn
 
 <p><a class="account" href="https://photog.social/@ewen" title="@ewen@photog.social">@ewen</a> noted a similar problem in medicine where &ldquo;the three biggest factors in long term health are getting more sleep, drinking more water and getting a little exercise.&rdquo; Which can&rsquo;t be monetised, of course. So somebody else must be talking about this. This reminds me of the reversal at the Chinese imperial court I heard of at one point. No idea if it is true, but the idea seems interesting: there&rsquo;s a physician and they get paid if the patients is healthy. We could get there in part with healthcare paid 100% by taxes, maybe? After all, the state usually pays for campaigns of public health, for the ads, the education, the measures, all of it.</p>
 
-<p><a class="account" href="https://snac.d34d.net/pkw" title="@pkw@snac.d34d.net">@pkw</a> said: &ldquo;This is a massive problem
+<p><a class="account" href="https://snac.d34d.net/users/pkw" title="@pkw@snac.d34d.net">@pkw</a> said: &ldquo;This is a massive problem
 with our society. We have no conception or appreciation for the absence of
 things so they never get attention.&rdquo; Two examples were provided: regulations and browser features.</p>
 
@@ -2629,293 +3036,4 @@ I had thought to post a picture tonight and then realized that today was the 151
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/may-3-2025>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
-
-<p>I needed butter reinforcements</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114446566440217614>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
-
-<p>Making myself a low carb snack</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114446547139513084>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
-
-<p>I collect discord servers like I collect bookmarks.</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114446370704122238>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
-
-<p>Swift Concurrency has been a bumpy business</p><p>But yesterday, there I was, minding my own thread and wrote some code backed by my 30 years of experience and Swift was having none of it</p><p>Took me a moment to realize that the compiler was right, fixed the flaw and moved on with life</p><p>Nice progression: from wasting weeks tracking an obscure race condition that rarely ever happens, to fighting the compiler for half an hour, to accepting my role as a meat-based LLM that writes thread safe code</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114446205671894351>
-
----
-
-## 2025-04-27 Structural navigation
-
-date: 2025-05-03, from: Alex Schroeder's Blog
-
-<h1 id="2025-04-27-structural-navigation">2025-04-27 Structural navigation</h1>
-
-<p>Sometimes my mind goes back to text editing and text editors. I have a love/hate relationship with ed(1). I kind of like the deliberate mindset I need to bring. But I also don’t like to think in terms of lines. Maybe if each sentence is a line, that’s better. But I often think about better semantic addressing.</p>
-
-<p>Example: <code>p</code> prints a range of line(s) is the standard. What I would also like is &ldquo;print a range of paragraph&rdquo;, &ldquo;print a range of sentences&rdquo;, &ldquo;print a range of words&rdquo;. There&rsquo;s a hierarchy, here. So once there&rsquo;s a &ldquo;current&rdquo; paragraph, you can list its sentences or its words. My hope is that this is more useful than working on lines.</p>
-
-<p>I’m still struggling to invent a command language, however. “Print paragraph. Next. Next. Number sentences. Third sentence. Replace this with that. Print paragraph.” I think this how I would work? “Last paragraph. Insert paragraph. Start typing.” Would that be <code>p p n 3s /this/that/ p</code> and <code>par $ i …</code> Effectively, <code>p</code> switches to paragraphs and prints them, and moves to the next one if used without a range. <code>n</code> numbers the items one level down. In this case, with a paragraph selected, <code>n</code> numbers the sentences. <code>s</code> switches to sentences and prints them. I&rsquo;m not sure about the search &amp; replace command. Is that also <code>s</code>?</p>
-
-<p>Should the data be kept in a tree? Should reading the text involve a real parser that delivers a sort of abstract syntax tree and names the nodes which automatically turn into commands?</p>
-
-<p>And then: should this be written in Perl? 😍</p>
-
-<p><a class="account" href="https://mastodon.acm.org/@mxp" title="@mxp@mastodon.acm.org">@mxp</a> said he had written «an Emacs interface to a syntactic parser», but I&rsquo;m not sure this is what I&rsquo;m looking for. A natural language parser (NLP) is maybe not what I&rsquo;m looking for. I suspect it would help avoid grammar mistakes, which makes sense to me. But is it what need as I write?</p>
-
-<p>He then pointed me at Engelbart&rsquo;s <a href="https://doi.org/10.1145/1476589.1476645">A research center for augmenting human intellect</a>. There, we find <a href="https://communitywiki.org/wiki/PurpleNumbers">purple numbers</a>:</p>
-
-<blockquote>
-<p>The principal manifestation of this hierarchical structure is the breaking up of text into arbitrary segments called &ldquo;statements,&rdquo; each of which bears a number showing its serial location in the text and its &ldquo;level&rdquo; in an &ldquo;outline&rdquo; of the text.</p>
-</blockquote>
-
-<p>I&rsquo;m not sure about the use of an outline. Many people seem to like outlines, but for me an outline as a writing tool is weird. I never start with an outline, except for cases where I know I need to follow a structure and even then the structure is usually trivial: Introduction, Materials and Methods, Results, Discussion, References, or something along these lines. A bunch of headings is all I need. Do I need an outline view? I agree that showing all the headings is important to navigate any non-trivial text document when you&rsquo;re reading and working with it. But if I focus on writing, the outline doesn&rsquo;t seem too important. It&rsquo;s too far &ldquo;up&rdquo; in the structure, for me.</p>
-
-<p><a class="account" href="https://mastodon.acm.org/@CerstinMahlow" title="@CerstinMahlow@mastodon.acm.org">@CerstinMahlow</a> wrote a position paper: <a href="https://doi.org/10.48550/arXiv.2303.17894">Writing Tools: Looking Back to Look Ahead</a> where she argues that «new writing tools should be inspired by &ldquo;failed&rdquo; projects from the 1970s and 1980s» and discusses the current state of affairs:</p>
-
-<blockquote>
-<p>One type of functionality that Mahlow and Piotrowski suggest are information functions that use NLP techniques to highlight certain aspects of the evolving text, commonly referred to as “syntax highlighting.” Since 2013, iA Writer has offered such a feature in a commercial product to specifically highlight nouns, verbs, adjectives, etc., advertising it as “using parts of speech to improve your writing” and explicitly stating that writers deserve the same professional support as programmers.</p>
-</blockquote>
-
-<p>This goes in a different direction, &ldquo;down&rdquo; to the grammar roles of words. Nouns, verbs, adjectives, adverbs. The problem is that when I write, I hardly ever worry about a particular verb. I never want to navigate to the accusative object of this sentence or focus on the subject. This is a very detailed view that I don&rsquo;t care about.</p>
-
-<p>The question is: What do I care about? Moving sentences around. Starting sentences between some other sentences and then realizing that I started at the wrong place and moving that fragments around. I think what I need is a prototype editor that I can start using and where I can easily add and remove functionality. And I&rsquo;m not sure that Emacs is the correct environment because there is so damn much to distract me.</p>
-
-<p><a class="tag" href="/search/?q=%23Editors">#Editors</a></p>
-
-<p><strong>2025-05-03</strong>. I wrote a little Perl script called <code>scr</code> that opens a bunch of files and allows me to navigate using p for paragraph, s for sentence and w for word. Typing the letter with an optional range:</p>
-
-<ul>
-<li>p prints the current paragraph, one sentence per line</li>
-<li>s prints the current sentence</li>
-<li>w prints the current word</li>
-</ul>
-
-<p>Use an address prefix like ed:</p>
-
-<ul>
-<li>a number prints the element with that number (currently zero indexed because I was lazy)</li>
-<li>$ prints the last element (the first one is 0 but the last one requires counting)</li>
-<li>plus and a number or minus and a number prints the element relative the current one (so +1p prints the next paragraph)</li>
-</ul>
-
-<p>Use address prefixes like ed:</p>
-
-<ul>
-<li>two such numbers separated by a comma prints the range (so 0,2s prints the first three sentences)</li>
-<li>if you use a comma but just one number the other number is replaced by the current address (so ,+2w prints the current word and the next two)</li>
-<li>if you use just the comma, this prints all the elements (so ,p is the same as 0,$p and prints the whole file)</li>
-</ul>
-
-<p>Currently whitespace is not significant:</p>
-
-<ul>
-<li>multiple whitespace characters collapse</li>
-<li>leading and trailing whitespace disappears</li>
-</ul>
-
-<p>Example, based on <a href="Warfare">Warfare</a>:</p>
-
-<pre style="white-space: pre-wrap">
-alex@subterraneobombus ~> scr Documents/Homepage/Warfare.md
-Read Documents/Homepage/Warfare.md
-
-<u>0 :</u> p
-# Warfare
-
-<u>0 0:</u> 1p
-Im Telepolis Artikel _Der Krieg wird zum Terroranschlag_ [¹](http://www.heise.de/tp/deutsch/special/irak/15069/1.html) steht, was mich auch schon im Fall von [Israel](Israel) graust: Auf blossen Verdacht hin werden Leute erschossen.
-Kein Gericht.
-Keine Verteidigung.
-Ein Geheimdiensturteil, und schon wird ein Auto beschossen, um irgendeinen Anführer zu töten.
-Dabei sterben Leibwächtern, Unbeteiligte, und wohlmöglich noch eine Frau oder ein Kind.
-Sowas kennt man aus Israel.
-Im Iraq ist man nun eine Stufe weiter.
-Man bombardiert Luxuslimousinen (die sicher irgendeinem Schuft gehören – aber haben er und _alle_ Insassen wirklich die Todesstrafe verdient?
-Gehört die nicht vielmehr abgeschafft?) – und nachher ist nicht mal klar, wenn man überhaupt _versucht_ hat zu töten.
-Unfassbar.
-
-<u>0 1:</u> 2s
-Keine Verteidigung.
-
-<u>0 1 2:</u> 0w
-Keine
-
-<u>0 1 2 0:</u> q
-</pre>
-
-<p>The prompt current prints file number, paragraph number, sentence number, word number.</p>
-
-<p>The example also shows problems handling parentheticals (or quote).</p>
-
-<p>I think before I can move on to insert or append operations, I need to further investigate navigation and selection. I&rsquo;d like to remember context, so 1p p should print paragraph number one and then the next one without me having to type +1p. Perhaps we can use a period for the current one. So .p prints the current paragraph again.</p>
-
-<p>I also think that a paragraph print should forget the sentence and word position. That currently doesn&rsquo;t happen.</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-04-27-structural-navigation>
-
----
-
-## May 2, 2025
-
-date: 2025-05-03, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162774545/9c868ebe07d3937652513c2260364df2.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/162774545/9c868ebe07d3937652513c2260364df2.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/may-2-2025-bbd>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
-
-<p>I enjoyed this piece I found on hacker news:</p><p><a href="https://250bpm.substack.com/p/accountability-sinks" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">250bpm.substack.com/p/accounta</span><span class="invisible">bility-sinks</span></a></p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114445222466711302>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
-
-The <a href="https://en.wikipedia.org/wiki/Detroit_Pistons">Detroit Psssstons</a> were truly great in the first round of the playoffs. And I was really gratified, ecstatic even, to see the Timberwolves give the Lakers a complete <a href="https://www.npr.org/2010/11/04/131075640/how-shellacking-came-to-mean-defeat">shellacking</a>. I am so fed up with LeBron James. I can't imagine another team would want him. I can't imagine why he wants to win <i>another</i> freaking title. And I was really pissed off when people started saying they were contenders this year. Bull. Shit. And the reason I'm glad it was the Timberwolves is because <a href="https://en.wikipedia.org/wiki/Julius_Randle">Julius Randle</a> is on that team now, and I hear he gets a fair amount of credit for their victory. The Knicks traded him for <a href="https://en.wikipedia.org/wiki/Karl-Anthony_Towns">KAT</a> last summer. They're a solid team. And while <a href="https://en.wikipedia.org/wiki/Donte_DiVincenzo">Donte DiVincenzo</a> isn't playing very well, we really need him back in NY, so maybe the Knicks can figure out a deal that makes sense. And why aren't the Knicks playing <a href="https://en.wikipedia.org/wiki/Precious_Achiuwa">Precious Achiuwa</a>. He did great last year when <a href="https://en.wikipedia.org/wiki/OG_Anunoby">OG</a> was injured. The Knicks have a good bench imho, they just don't get to play enough to be warmed up properly. So sad the way <a href="https://en.wikipedia.org/wiki/Miles_McBride">Doooooce</a> performed in the Detroit series. Anyway it was exhausting. I would have been okay with the DP's winning, seriously -- I'm ready for baseball. And I don't imagine the next series, with the Celtics will be any kind of a walk in the park. 
-
-<br> 
-
-<http://scripting.com/2025/05/03.html#a172021>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
-
-Sometimes I think the Trumps are competing to kill the most humans. 
-
-<br> 
-
-<http://scripting.com/2025/05/03.html#a171739>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/03/rabbit.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today I spent (or wasted) hours trying to get my WebSockets code working properly with <a href="https://daytona.scripting.com/search?q=Caddy">Caddy</a>. Hours with ChatGPT, realizing it has a long way to go before it can manage code like I can. It gets fixated on an approach and never takes a step back to think maybe we're going about this the wrong way. It's extremely annoying all the times it tries to take you off track, and it works, it does take you down <a href="https://en.wikipedia.org/wiki/Down_the_rabbit_hole">rabbit holes</a> and then you realize it's only getting worse. The key is to not let it do that, but it's hard not to <a href="https://en.wikipedia.org/wiki/Anthropomorphism">anthropomorphize</a> so you don't want to hurt its feelings. In order to not be murdered as a small child you have to learn manners. And the bots push that too far. Really do take advantage. Still it knows far more than I do about everything, so if I could only get it to just shut the f up already and let me think! For something so capable it really doesn't spend enough time thinking, it's fully preoccupied with <i>doing.</i> 
-
-<br> 
-
-<http://scripting.com/2025/05/03.html#a171110>
-
----
-
-## Ural Notes Part 7: This is Ural Life...
-
-date: 2025-05-03, updated: 2025-05-03, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2025/05/03/ural-notes-part-7-this-is-ural-life/>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-03, from: Miguel de Icaza Mastondon feed)
-
-<p>One week in the second run, six days in review.</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114444274889620287>
-
----
-
-## On becoming living history
-
-date: 2025-05-03, from: Liam on Linux
-
-<p>It is one of the oddest things in computing that stuff to me, as a  big kid of heading for 60 years old but who still feels quite young and  enjoys learning and exploring, that the early history of Linux &ndash; a  development that came along mid-career for me &ndash; and indeed Unix, which  was taking shape when I was a child, is mysterious lost ancient history  now to those working in the field.</p> <p>It&rsquo;s not that long ago. It&rsquo;s well within living memory for lots of us <em>who are still working with it in full time employment.</em> Want to know why this command has that weird switch? Then go look up who wrote it and <em>ask him</em>. (And sadly yes there&rsquo;s a good chance it&rsquo;s a &ldquo;him&rdquo;.)</p> <p>Want to know why Windows command switches are one symbol and Unix  ones another? Go look at the OSes the guys who wrote them ran before.  They are a 2min Google away and emulators are FOSS. Just try them and  you can see what they learned from.</p> <p>This stuff isn&rsquo;t hieroglyphics. It&rsquo;s not carved on the walls of tombs deep underground.</p> <p>The reason that we have Snap and Flatpak and AppImage and macOS <code>.app</code> is all stuff that happened since I started my first job. I was there. So were thousands of others. I watched it take shape.</p> <p>But now, I write about how and why and I get shouted at by people who weren&rsquo;t even born yet. It&rsquo;s very odd.</p> <p>To me it looks like a lot of people spend thousands of  developer-hours flailing away trying to rewrite stuff that I deployed in  production in my 30s and they have no idea how it&rsquo;s supposed to work or  what they&rsquo;re trying to do. They&rsquo;re failing to copy a bad copy of a poor  imitation.</p> <p>Want to know how KDE 6 should have been? Run Windows 95 in VirtualBox  and see how the original worked! But no, instead, the team flops and  flails adding 86 more wheels to a bicycle and then they wonder why  people choose a poor-quality knock-off of a 2007 iPhone designed by  people who don&rsquo;t know why the iPhone works like that.</p> I am, for clarity, talking about GNOME &gt;3. And the iPhone runs a  cut down version of Mac OS X Tiger&rsquo;s &ldquo;Dashboard&rdquo; as its main UI.&nbsp;<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=95105" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
-
-<br> 
-
-<https://liam-on-linux.dreamwidth.org/95105.html>
-
----
-
-## Where will we go from here? | The Coffee Klatch for May 3, 2025
-
-date: 2025-05-03, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/162728573/ed6f9479118eb9044bbf9ceeed82ecfb.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/162728573/ed6f9479118eb9044bbf9ceeed82ecfb.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/where-will-we-go-from-here-the-coffee>
-
----
-
-## May 2, 2025 
-
-date: 2025-05-03, from: Heather Cox Richardson blog
-
-Yesterday I identified incorrectly the messaging app newly fired national security advisor Michael Waltz was using at a Cabinet meeting on Wednesday as the unsecure Signal app. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/may-2-2025>
-
----
-
-## Weeknotes: April 26 – May 2, 2025
-
-date: 2025-05-03, from: Tracy Durnell Blog
-
-Highlight of the week: took a stroll around the block on a sunny afternoon and the whole neighborhood smelled of flowers Looking forward to: finding out how many of our apple blossoms got pollinated 😃 (Heard the ice cream truck for the first time of the year 🍦 &#8212; a cute tiny vintage jeep &#8212; though we [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/05/02/weeknotes-april-26-may-2-2025/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-03, from: Dave Winer's Scripting News)
-
-Spent the day in NYC, had an idea and it was a gorgeous day, and I decided to be impulsive. See you back here tomorrow, Murphy-willing. 
-
-<br> 
-
-<http://scripting.com/2025/05/02.html#a011110>
 

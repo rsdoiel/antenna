@@ -1,11 +1,151 @@
 ---
 title: home
-updated: 2025-05-10 06:07:54
+updated: 2025-05-11 06:08:53
 ---
 
 # home
 
-(date: 2025-05-10 06:07:54)
+(date: 2025-05-11 06:08:53)
+
+---
+
+## Why Are My Hosta Leaves Turning Yellow? 9 Causes and Solutions
+
+date: 2025-05-11, from: The Gardener's Path
+
+<p>Pests, diseases, and various environmental issues can all cause hosta leaves to turn yellow, and the symptoms can look fairly similar. From overwatering to foliar nematodes, there are lots of things that can go wrong. The trick is to figure out which is causing your plants problems so you can determine how to fix it.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/yellow-hosta-leaves/">Why Are My Hosta Leaves Turning Yellow? 9 Causes and Solutions</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/yellow-hosta-leaves/>
+
+---
+
+## How to Train Clematis to Grow Vertically Up Poles or Trees
+
+date: 2025-05-11, from: The Gardener's Path
+
+<p>Clematis vines are loved for their spectacular floral displays and give the most impressive show when trained to grow up pergolas, poles, or trees. But they can’t grow upright without a supportive trellis, and it needs to be the right size for the leaf stems to grasp onto. Learn how to train clematis to grow vertically.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vines/train-clematis-vertically/">How to Train Clematis to Grow Vertically Up Poles or Trees</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vines/train-clematis-vertically/>
+
+---
+
+## How to Grow and Care for Japanese White Pines
+
+date: 2025-05-10, from: The Gardener's Path
+
+<p>Japanese white pines (Pinus parviflora) are like living works of evergreen art with their twisting colorful needles, elegant branches, and crooked trunks. Plus, these trees are extremely tough, requiring almost zero maintenance to keep them healthy. Learn how to grow Japanese white pine in the home garden in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-japanese-white-pine/">How to Grow and Care for Japanese White Pines</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-japanese-white-pine/>
+
+---
+
+## Learn How and When to Deadhead Daisies
+
+date: 2025-05-10, from: The Gardener's Path
+
+<p>Daisies of various types offer masses of cheerful blossoms that open randomly instead of all at once on the laziest, haziest summer days. With an easy gardening technique called deadheading, you can keep your flower patch looking its best at all times. Read on to learn how easy it is to deadhead throughout the season.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/deadhead-daisies/">Learn How and When to Deadhead Daisies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/deadhead-daisies/>
+
+---
+
+## How to Use Straw Mulch in the Vegetable Garden
+
+date: 2025-05-10, from: The Gardener's Path
+
+<p>Straw is a byproduct of growing grain crops that happens to be a highly beneficial material for mulching vegetable gardens. It is light and easy to work with, fairly inexpensive, and can drastically reduce time spent weeding and watering. Learn more about using straw as mulch for vegetables in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/straw-mulch-vegetable-garden/">How to Use Straw Mulch in the Vegetable Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/straw-mulch-vegetable-garden/>
+
+---
+
+## How to Plant, Grow, and Care for Impatiens Flowers
+
+date: 2025-05-10, from: The Gardener's Path
+
+<p>Impatiens are ready for their comeback. The once incredibly popular shade-lover has fallen out of favor over the past decade since downy mildew began wiping it out across the UK and US. But growers have found new techniques to help prevent this disease, and resistant cultivars are popping up on the market. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-impatiens/">How to Plant, Grow, and Care for Impatiens Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-impatiens/>
+
+---
+
+## Are Marigold Flowers Edible? Yes, and Here’s How to Use Them
+
+date: 2025-05-10, from: The Gardener's Path
+
+<p>Are marigolds part of your culinary repertoire? They should be! These flowers make a nice addition to a variety of savory dishes, and desserts too. Use them in tomato or cucumber salad, egg or chicken dishes, or a sandwich. Amp up homemade biscotti or a trifle. Learn how to make the most of edible marigolds now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/edible-marigolds/">Are Marigold Flowers Edible? Yes, and Here&#8217;s How to Use Them</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/edible-marigolds/>
+
+---
+
+## How to Grow and Care for Hollyhock Flowers
+
+date: 2025-05-10, from: The Gardener's Path
+
+<p>Growing hollyhocks is rewarding for people and pollinators. They offer a beautiful spectrum of picturesque petals, making them a must-have for any floral garden! And you only need to plant them once to see them return for years to come, via self-sowing or seed saving. Learn how to grow and care for your own hollyhocks.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-hollyhocks/">How to Grow and Care for Hollyhock Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-hollyhocks/>
+
+---
+
+## How I compost, today
+
+date: 2025-05-10, from: Greg Alder's blog, Yard Post
+
+<p>This is how I make compost, today. Each morning, I take the “chicken bucket” from the kitchen down to the chickens. The chicken bucket is what we use to hold kitchen scraps: banana peels, bits of onion, coffee grounds, ribs of kale leaves, egg shells, even detritus such as sweepings from the floor and fingernail [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/how-i-compost-today/">How I compost, today</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/how-i-compost-today/>
+
+---
+
+## Learn About Brambles: the Marvelous Plants of the Rubus Genus
+
+date: 2025-05-10, from: The Gardener's Path
+
+<p>Brambles can be a marvelous addition to your yard or a hideous curse, depending on what you’re dealing with. Whether you’re thinking about planting something in the Rubus genus in your garden or you’re trying to manage some unwelcome canes, it helps to understand these plants. Learn all you need to know in our guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/brambles/">Learn About Brambles: the Marvelous Plants of the Rubus Genus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/brambles/>
 
 ---
 
@@ -1500,182 +1640,4 @@ date: 2025-05-04, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/ornamentals/grow-weeping-forsythia/>
-
----
-
-## These Are the Recipes to Cook This May, from New Grilling Ideas to Easy Weeknight Meals
-
-date: 2025-05-03, from: Sunset Magazine - Living in the West
-
-May means celebrations like Mother's Day and Memorial Day, and better weather. Here's what to make this month. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/may-recipe-ideas-2025>
-
----
-
-## 2025 is Officially the Year of the Summer Staycation. Here Are the Hottest Spots to Do It.
-
-date: 2025-05-03, from: Sunset Magazine - Living in the West
-
-Staying closer to home by taking a staycation is the trend of the season. Here are the most popular places to do it. 
-
-<br> 
-
-<https://www.sunset.com/travel/airbnb-2025-summer-trends-staycations>
-
----
-
-## This Is What You Need to Know About Pairing Wine with Seafood
-
-date: 2025-05-03, from: Sunset Magazine - Living in the West
-
-Before you grab a bottle of wine to enjoy with your seafood dish, consider these seafood and wine pairing tips. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/how-to-pair-wine-seafood>
-
----
-
-## How Long Does Kohlrabi Keep? Tips for Proper Storage
-
-date: 2025-05-03, from: The Gardener's Path
-
-<p>Kohlrabi is a cool-season Brassica with a bulbous stem that can be eaten raw or cooked. After harvest, you may be wondering how long they'll keep and how best to store these vegetables. Learn how to prepare and store kohlrabi in the fridge and at room temperature to maximize freshness in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vegetables/store-kohlrabi/">How Long Does Kohlrabi Keep? Tips for Proper Storage</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vegetables/store-kohlrabi/>
-
----
-
-## 35 Shrubs with Yellow Flowers (Pictures and Identification)
-
-date: 2025-05-03, from: Yard Life blog
-
-<p>When it comes to brightening up your garden, shrubs with yellow flowers offer a vibrant and cheerful touch. These plants ... </p>
-<p class="read-more-container"><a title="35 Shrubs with Yellow Flowers (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-shrubs-with-yellow-flowers-pictures-and-identification/#more-28000" aria-label="Read more about 35 Shrubs with Yellow Flowers (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/35-shrubs-with-yellow-flowers-pictures-and-identification/">35 Shrubs with Yellow Flowers (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/35-shrubs-with-yellow-flowers-pictures-and-identification/>
-
----
-
-## How to Plant and Grow Beefsteak Tomatoes
-
-date: 2025-05-03, from: The Gardener's Path
-
-<p>The beefsteak tomato is a large mutant fruit that caught the eye of early Mesoamericans and has been beloved ever since. Growing the big brother of America's favorite vegetable isn't unlike cultivating other tomatoes, but there are a few things you should know. Learn how to care for this hefty tomato in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-beefsteak-tomatoes/">How to Plant and Grow Beefsteak Tomatoes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vegetables/grow-beefsteak-tomatoes/>
-
----
-
-## Snapdragon Types: Understanding Flower Shapes & Classifications
-
-date: 2025-05-03, from: The Gardener's Path
-
-<p>It’s no surprise if you've ever been confused by all the different snapdragon groups, series, and flower types. There’s a broad range of colors, growth habits, heights, ideal growing seasons, and patterns available. Knowing the difference and discovering the best options will help you decide which suits your space.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/snapdragon-types/">Snapdragon Types: Understanding Flower Shapes &amp; Classifications</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/snapdragon-types/>
-
----
-
-## When and How to Divide Lily of the Valley
-
-date: 2025-05-03, from: The Gardener's Path
-
-<p>Fragrant lily of the valley is a charming spring flower with bell-shaped blossoms. Despite its demure appearance, this ground-covering perennial is a vigorous grower that can become invasive. Read on and learn to divide lily of the valley to keep it in check and enjoy it in beds, borders, and drifts for years to come.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/divide-lily-valley/">When and How to Divide Lily of the Valley</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/divide-lily-valley/>
-
----
-
-## 50 Types of Bonsai Trees (With Pictures and Names)
-
-date: 2025-05-03, from: Yard Life blog
-
-<p>Bonsai trees are more than just miniature plants; they are living works of art that embody patience, skill, and a ... </p>
-<p class="read-more-container"><a title="50 Types of Bonsai Trees (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/50-types-of-bonsai-trees-with-pictures-and-names/#more-27940" aria-label="Read more about 50 Types of Bonsai Trees (With Pictures and Names)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/50-types-of-bonsai-trees-with-pictures-and-names/">50 Types of Bonsai Trees (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/50-types-of-bonsai-trees-with-pictures-and-names/>
-
----
-
-## 25 of the Best Radish Varieties to Grow at Home
-
-date: 2025-05-03, from: The Gardener's Path
-
-<p>Selecting the best radishes to grow in your garden is as fun as eating them, whether fresh, roasted, or pickled. The choices include red, round heirlooms, daikon types, and a few in rainbow colors and unusual shapes. Certain hybrids can even beat the heat. Discover 25 of the top radish varieties in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-radish-varieties/">25 of the Best Radish Varieties to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vegetables/best-radish-varieties/>
-
----
-
-## How to Plant, Grow, and Care for the Classic Perennial Peony
-
-date: 2025-05-03, from: The Gardener's Path
-
-<p>For vibrant color from late spring to early summer, fill your garden beds and borders with the luscious blossoms of perennial peony. Available in shades of pink, purple, red, white, and yellow, these gorgeous flowers are an ornamental highlight. Learn how to plant and grow peonies in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/perennial/peony/">How to Plant, Grow, and Care for the Classic Perennial Peony</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/perennial/peony/>
-
----
-
-## How to Control Aphids on Roses
-
-date: 2025-05-03, from: The Gardener's Path
-
-<p>If you seem to spot aphid congregations every time you look at your rose bushes, you’re probably feeling frustrated. How do you keep them under control? Can you do this without harming beneficial insects? And can beneficial insects help get rid of a bad aphid infestation? Find out in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-aphids-roses/">How to Control Aphids on Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/how-to/disease-and-pests/control-aphids-roses/>
-
----
-
-## African gardens put ours into perspective
-
-date: 2025-05-03, from: Greg Alder's blog, Yard Post
-
-<p>In March I traveled throughout South Africa and Lesotho, where I visited a number of farms, nurseries, and home gardens. On my return flight, I recalled the G.K. Chesterton quote, “The whole object of travel is not to set foot on foreign land; it is at last to set foot on one’s own country as [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/african-gardens-put-ours-into-perspective/">African gardens put ours into perspective</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/african-gardens-put-ours-into-perspective/>
 

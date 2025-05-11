@@ -1,11 +1,140 @@
 ---
 title: socal north
-updated: 2025-05-10 06:07:48
+updated: 2025-05-11 06:08:47
 ---
 
 # socal north
 
-(date: 2025-05-10 06:07:48)
+(date: 2025-05-11 06:08:47)
+
+---
+
+## Long Beach nurses to strike May 22 in protest of pay, working conditions
+
+date: 2025-05-11, from: Longbeach Post
+
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-470x232.jpg 470w, https://img.lbpost.com/wp-content/uploads/2018/06/10162602/0620_NWS_-Memorial-07-TRC-970x479.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As many as 2,000 nurses from MemorialCare’s Long Beach Medical Center and Miller Children’s &#038; Women’s Hospital are expected to participate.</p>
+<p>The post <a href="https://lbpost.com/news/health/memorialcare-strike-long-beach-medical-center-nurses-miller-childrens-hospital-memorial">Long Beach nurses to strike May 22 in protest of pay, working conditions </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/memorialcare-strike-long-beach-medical-center-nurses-miller-childrens-hospital-memorial>
+
+---
+
+## The FDA approves first US at-home tool as a Pap-smear alternative
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+Women can use a wand to collect a vaginal sample, then mail it to a lab that will screen for cervical cancer. The device will be available by prescription through a telehealth service. 
+
+<br> 
+
+<https://laist.com/news/health/the-fda-approves-first-us-at-home-tool-as-a-pap-smear-alternative>
+
+---
+
+## 15-year-old girl goes missing in Lakewood
+
+date: 2025-05-10, from: Longbeach Post
+
+<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-768x434.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1536x868.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-2048x1157.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1200x678.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1568x886.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-400x226.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Mikee's family is concerned for her well-being and is asking for the public’s help," the LASD said.</p>
+<p>The post <a href="https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood">15-year-old girl goes missing in Lakewood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood>
+
+---
+
+## Elizabeth Holmes' partner raises millions for new biotech testing startup
+
+date: 2025-05-10, updated: 2025-05-11, from: The LAist
+
+The incarcerated former Silicon Valley star is advising her partner on a new health tech startup. Holmes was convicted of defrauding investors in her blood-testing company Theranos. 
+
+<br> 
+
+<https://laist.com/news/elizabeth-holmes-partner-raises-millions-for-new-biotech-testing-startup>
+
+---
+
+## Hot. Cold. Hot. Cold. Today is hot. But tomorrow is cold. No, really
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+We've been experiencing some whiplash weather, alternating between hot and cold and hot and cold. 
+
+<br> 
+
+<https://laist.com/news/heat-wave-peaks-saturday-but-a-swing-in-temperatures-is-expected-early-next-week>
+
+---
+
+## A piece of LA history is on the 2025 list of most endangered historic places in the US
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+This year, the annual list from the National Trust for Historic Preservation includes a mysterious castle, flooded communities in Florida and North Carolina, historic hotels and a gigantic turtle. 
+
+<br> 
+
+<https://laist.com/news/la-history/piece-of-la-history-2025-list-of-most-endangered-historic-places-us>
+
+---
+
+## Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency
+
+date: 2025-05-10, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The money was funding 79 positions across the city for young workers seeking experience in health care, education, shelters and other social services.</p>
+<p>The post <a href="https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding">Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding>
+
+---
+
+## Why the SoCal studio where iconic murals were created remains carefully preserved today
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+In its past life, the office of Claremont Eye Associates was the Millard Sheets studio, where giant, breathtaking mosaic murals were made for more than a hundred buildings that dot the region. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/millard-sheets-studio-mosaic-mural-claremont-eye-associates>
+
+---
+
+## Stay local this Mother’s Day: 9 Boyle Heights places to brunch with mama
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+From old-school favorites to newer hotspots, we’ve got your Día de las Madres brunch plans covered. 
+
+<br> 
+
+<https://laist.com/news/food/mothers-day-9-boyle-heights-places-to-brunch>
+
+---
+
+## Trump signs executive order for more veteran housing at West LA VA campus
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+The president's order calls for a plan to house 6,000 veterans in less than three years. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/trump-signs-executive-order-for-more-veteran-housing-at-west-la-va-campus>
 
 ---
 
@@ -25,7 +154,7 @@ The Department of Agriculture is demanding sensitive data from states about more
 
 date: 2025-05-09, from: Longbeach Post
 
-<figure><img width="1024" height="668" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-1024x668.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-768x501.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-400x261.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="668" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-1024x668.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-768x501.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/04051853/07.03-BigBangontheBay-04-400x261.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Staff at the Coastal Commission said Long Beach’s annual July 3 fireworks show should end immediately. Instead, commissioners voted to give organizer John Morris one more year — and only one more year — of pyrotechnics.</p>
 <p>The post <a href="https://lbpost.com/news/big-bang-fireworks-escapes-cancelation-drones-coastal-commission">Big Bang fireworks show escapes cancellation; next year, it must be drones, Coastal Commission says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -325,9 +454,9 @@ President Donald Trump has proposed slashing federal scientific funding. Economi
 
 ---
 
-## Higher ed financing is in flux. What’s California doing to make college more affordable?
+## What’s California doing to make college more affordable?
 
-date: 2025-05-08, updated: 2025-05-09, from: The LAist
+date: 2025-05-08, updated: 2025-05-10, from: The LAist
 
 Advocates want to improve access to grants, loans, scholarships and work study opportunities. 
 
@@ -1248,141 +1377,4 @@ The victory hands Venezuelan jockey Junior Alvarado his first career win in the 
 <br> 
 
 <https://laist.com/news/sovereignty-beats-out-favorite-journalism-to-win-the-kentucky-derby>
-
----
-
-## The most exciting two minutes in sports is a show of 'Latino excellence'
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-Latinos, many from outside the U.S. mainland, have risen in prominence in horseracing, from the grooms to some of the winningest jockeys. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/the-most-exciting-two-minutes-in-sports-is-a-show-of-latino-excellence>
-
----
-
-## Celebrating All Abilities at FestAbility
-
-date: 2025-05-03, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin The City of Santa Clarita is a strong community, where everyone is seen, heard and celebrated, and among the many groups that help make our City incredible is our special needs community. These residents, and their families, teach us what it means to be resilient, joyful and full of life. [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/05/03/celebrating-all-abilities-at-festability/">Celebrating All Abilities at FestAbility</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/05/03/celebrating-all-abilities-at-festability/>
-
----
-
-## Sex abuse convictions upheld against ex-LBUSD teacher who preyed on students
-
-date: 2025-05-03, from: Longbeach Post
-
-<figure><img width="1024" height="815" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1024x815.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-300x239.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-768x611.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-136x108.jpg 136w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1536x1222.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1200x955.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-1568x1247.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097-400x318.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/10/17165705/DSC02097.jpg 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Mark Anthony Santo, who taught at Lindbergh Middle School and Jordan High School, was seeking to overturn his prison sentence of 80 years to life.</p>
-<p>The post <a href="https://lbpost.com/news/crime/conviction-upheld-mark-santo-lbusd-teacher-appeal">Sex abuse convictions upheld against ex-LBUSD teacher who preyed on students</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/conviction-upheld-mark-santo-lbusd-teacher-appeal>
-
----
-
-## Trump budget would slash rental aid by 40% — and let states fill the gap if they want
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-The proposal would cut off rental subsidies after two years for able-bodied adults. Advocates warn if enacted, the White House plan would tip many low-income renters over the edge into homelessness. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/trump-budget-would-slash-rental-aid-by-40-and-let-states-fill-the-gap-if-they-want>
-
----
-
-## The Trump administration says it will cut EPA staffing to Reagan-era levels
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-EPA announced plans to reorganize the agency, moving science-focused staff into different roles and reducing the overall number of employees. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/the-trump-administration-says-it-will-cut-epa-staffing-to-reagan-era-levels>
-
----
-
-## Beyoncé fans are going all out for their 'Cowboy Carter' tour outfits
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-Beyonce's Cowboy Carter tour has officially kicked off. Some fans are going all out to capture the tour's Western fashion aesthetic. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/beyonce-fans-are-going-all-out-for-their-cowboy-carter-tour-outfits>
-
----
-
-## Driverless trucks may be coming to California roads. Here's how to weigh in
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-State will allow companies to test heavy duty autonomous vehicles. 
-
-<br> 
-
-<https://laist.com/news/transportation/driverless-trucks-california-roads-dmv-rulemaking-autonomous>
-
----
-
-## First free surgery center in the US opens in Orange County
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-The clinic will offer low-risk surgical care to low-income patients. 
-
-<br> 
-
-<https://laist.com/news/health/free-surgery-center-orange-county-first-clinic-insurance>
-
----
-
-## Two farmhouse stars are skipping the LA County Fair this year
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-Neither cows nor chickens are allowed at fairs this year because of bird flu concerns. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/cows-chickens-banned-la-county-fair-2025>
-
----
-
-## Go Fact Yourself quiz for May 3
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-Our celebrity panelists Alec Mapa and Amy Hill go head to head this week on their knowledge of the musical 'Gypsy' and the TV show 'The Real Housewives of Beverly Hills.' Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-may-3>
-
----
-
-## LA County reveals plan to move youths out of troubled Los Padrinos Juvenile Hall
-
-date: 2025-05-03, updated: 2025-05-03, from: The LAist
-
-The filing meets a deadline set by a Superior Court Judge who called the situation at the Downey facility “untenable.” 
-
-<br> 
-
-<https://laist.com/news/criminal-justice/la-county-probation-plan-los-padrinos-juvenile-hall>
 
