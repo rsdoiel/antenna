@@ -1,11 +1,33 @@
 ---
 title: columns
-updated: 2025-05-11 06:08:49
+updated: 2025-05-11 12:15:36
 ---
 
 # columns
 
-(date: 2025-05-11 06:08:49)
+(date: 2025-05-11 12:15:36)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-11, from: Dave Winer's Scripting News)
+
+So far Gemini has done the best job of emulating my coding style. Here's an <a href="https://g.co/gemini/share/96dad470052e">example</a>. I didn't have to instruct it in how to do it, it figured it out. Impressive. I've spent a lot of time trying and failing to get Claude and ChatGPT to work the way I work. It makes a big difference, because if I want to try out something they've offered, I have to spend time doing grunt work to get it so I can read it and understand what they're doing. 
+
+<br> 
+
+<http://scripting.com/2025/05/11.html#a152134>
+
+---
+
+## Motherings
+
+date: 2025-05-11, from: Doc Searls (at Harvard), New Old Blog
+
+Trump will be flying Qatar One instead of (or as) Air Force One: Aaaand,,,, Call your mother, if she&#8217;s still around. If she&#8217;s not, remember her anyway. I did that here. I&#8217;m pointing to A look at broadcast history happening because it came up in a conversation about archives. Also because that history (especially concerning [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/11/tbds/>
 
 ---
 
@@ -653,8 +675,7 @@ date: 2025-05-09, updated: 2025-05-09, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2025-05-09, from: Dave Winer's Scripting News)
 
-The great thing about sports is that a lowly software developer can be richer than a fantastically rich team owner, if the developer's team is the Knicks.
- 
+The great thing about sports is that a lowly software developer can be richer than a fantastically rich team owner, if the developer's team is the Knicks. 
 
 <br> 
 

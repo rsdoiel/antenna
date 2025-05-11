@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-05-11 06:08:46
+updated: 2025-05-11 12:15:34
 ---
 
 # north america
 
-(date: 2025-05-11 06:08:46)
+(date: 2025-05-11 12:15:34)
+
+---
+
+##  LEVER WEEKLY:  Welcome To America! (No, Not You) 
+
+date: 2025-05-11, from: The Lever News
+
+ Trump offers selective sanctuary, airlines sell your data to immigration enforcers, RFK institutes radical opacity, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-welcome-to-america-no-not-you/>
 
 ---
 

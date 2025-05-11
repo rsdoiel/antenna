@@ -1,11 +1,31 @@
 ---
 title: going electric
-updated: 2025-05-11 06:08:54
+updated: 2025-05-11 12:15:40
 ---
 
 # going electric
 
-(date: 2025-05-11 06:08:54)
+(date: 2025-05-11 12:15:40)
+
+---
+
+## Tesla employees ask Elon Musk to resign, confirm massive demand problem, get fired for it
+
+date: 2025-05-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/Tesla-Cybertruck-pilot-production-line-hero.jpg?quality=82&#038;strip=all&#038;w=1112" /></div><p>Some Tesla employees officially asked for Elon Musk to resign as they confirmed the automaker is facing a massive demand problem, which they attribute to the CEO.</p>
+
+
+
+<p>One employee got fired for it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="415438" href="https://electrek.co/2025/05/11/tesla-employees-ask-elon-musk-resign-confirm-massive-demand-problem-get-fired/#more-415438" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/11/tesla-employees-ask-elon-musk-resign-confirm-massive-demand-problem-get-fired/>
 
 ---
 

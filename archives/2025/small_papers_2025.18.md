@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-05-11 06:08:55
+updated: 2025-05-11 12:15:40
 ---
 
 # small papers
 
-(date: 2025-05-11 06:08:55)
+(date: 2025-05-11 12:15:40)
 
 ---
 

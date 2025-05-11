@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-05-11 06:08:51
+updated: 2025-05-11 12:15:38
 ---
 
 # journalism
 
-(date: 2025-05-11 06:08:51)
+(date: 2025-05-11 12:15:38)
+
+---
+
+## Katie Louise hits all the right notes with dueling pianos to keep Santa Clarita singing
+
+date: 2025-05-11, from: The Canyon News (COC Student Newspaper)
+
+<p>Down on Main Street in Newhall, you’ll find El Trocadero, a Mexican&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/dueling-pianos/">Katie Louise hits all the right notes with dueling pianos to keep Santa Clarita singing</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/dueling-pianos/>
 
 ---
 

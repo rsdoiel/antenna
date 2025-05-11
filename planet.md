@@ -1,11 +1,116 @@
 ---
 title: planet
-updated: 2025-05-11 06:08:44
+updated: 2025-05-11 12:15:34
 ---
 
 # planet
 
-(date: 2025-05-11 06:08:44)
+(date: 2025-05-11 12:15:34)
+
+---
+
+## Hamas officials say group held direct Gaza talks with US
+
+date: 2025-05-11, from: RTÉ News
+
+Hamas and US representatives have held direct talks in Doha in recent days, two officials from the Palestinian militant group said, with one saying there had been "progress" towards a truce in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0511/1512296-israel-gaza/>
+
+---
+
+## Louth land Leinster crown to end 68-year famine
+
+date: 2025-05-11, from: RTÉ News
+
+Captain Sam Mulroy and All-Star Craig Lennon struck the crucial late scores as Louth made history at Croke Park, claiming their first Leinster SFC title since 1957. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0511/1512235-louth-land-leinster-crown-to-end-68-year-famine/>
+
+---
+
+## Taoiseach 'very shocked' by death of garda at checkpoint
+
+date: 2025-05-11, from: RTÉ News
+
+The Taoiseach has said he is "very shocked and deeply saddened" after a member of the Roads Policing Unit was killed in the line of duty this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0511/1512286-garda-reax/>
+
+---
+
+## Garda killed at speed checkpoint in north county Dublin
+
+date: 2025-05-11, from: RTÉ News
+
+A garda has been killed in the line of duty while carrying out a speeding checkpoint in north county Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0511/1512274-dublin-garda/>
+
+---
+
+## Camogie president supports choice in skorts debate
+
+date: 2025-05-11, from: RTÉ News
+
+As the debate and fallout over the Camogie Association's rules on skorts escalates, the under-fire organisation's president Brian Molloy has indicated a personal preference to afford the players the option of wearing shorts, without being in a position to unilaterally alter the existing rules. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0511/1512275-molloy-supports-choice-in-skorts-debate/>
+
+---
+
+## Leinster football final recap: Louth are champions
+
+date: 2025-05-11, from: RTÉ News
+
+Louth end 68 years of hurt to land the Delaney Cup by beating Meath - relive the action here. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0511/1512271-leinster-football-final-louth-v-meath-updates/>
+
+---
+
+##  European leaders in Kyiv remember the fallen, call for peace
+
+date: 2025-05-11, from: Vatican News
+
+
+                    <p>European leaders visited Kyiv on Saturday to discuss the road toward peace between Ukraine and Russia, and to remember the fallen soldiers.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/european-leaders-in-kyiv-remembering-fallen-calling-for-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/european-leaders-in-kyiv-remembering-fallen-calling-for-peace.html>
+
+---
+
+## UN Agencies Warn of Worsening Humanitarian Crisis in Gaza
+
+date: 2025-05-11, from: Vatican News
+
+
+                    <p>UN agencies still working in Gaza have repeated concerns about the Israeli plan to take control of the aid operation in the war-torn enclave.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/un-agencies-warn-of-worsening-humanitarian-crisis-in-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/un-agencies-warn-of-worsening-humanitarian-crisis-in-gaza.html>
 
 ---
 
@@ -33,6 +138,22 @@ date: 2025-05-11, from: Vatican Obervatory
 
 ---
 
+## Seals removed from the papal apartment of the Apostolic Palace
+
+date: 2025-05-11, from: Vatican News
+
+
+                    <p>The reopening of the papal apartment took place following the Regina Caeli in the presence of the Camerlengo, Cardinal Farrell; the Secretary of State, Cardinal Parolin; the Substitute, Archbishop Peña Parra; the Secretary for Relations with States, Archbishop Gallagher; and the Regent of the Papal Household, Archbishop Sapienza.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/seals-removed-from-papal-apartment-of-apostolic-palace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/seals-removed-from-papal-apartment-of-apostolic-palace.html>
+
+---
+
 ## Israel intends to ethnically cleanse Gaza, O'Gorman says
 
 date: 2025-05-11, from: RTÉ News
@@ -45,11 +166,11 @@ Green Party leader Roderic O'Gorman has said Israel has put the world on notice 
 
 ---
 
-## Teens who drowned had entered water to retrieve football
+## Donegal schools pay tribute to 'respected' students
 
 date: 2025-05-11, from: RTÉ News
 
-Two teenagers who died after getting into difficulty in the water off the coast of Co Donegal had entered the water to retrieve a football, a local councillor has said. 
+The two teenagers who died after getting into difficulty in the sea off the coast of Buncrana, Co Donegal were "deeply respected" and "valued" students, their school principals have said. 
 
 <br> 
 
@@ -73,11 +194,23 @@ Every summer in Ma’rib, Yemen, a place marked by loss and uncertainty, a footb
 
 date: 2025-05-11, from: RTÉ News
 
-The Ireland women's relay quartet joined the mixed relay unit in qualifying for the 2025 World Athletics Championships in Tokyo later this year. 
+The Ireland women's 4x400m relay team have joined the 4x400m mixed relay quartet in qualifying for the 2025 World Athletics Championships in Tokyo later this year. 
 
 <br> 
 
 <https://www.rte.ie/sport/athletics/2025/0511/1512263-ireland-women-relay-team-impress-to-qualify-for-worlds/>
+
+---
+
+## Trump touts 'great progress' as U.S. and China begin 2nd day of tariff talks
+
+date: 2025-05-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532232.1746971877!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/switzerland-china.jpg' alt='Two men shake hands in a carpeted room with flags. ' width='620' height='349' title='Switzerland&apos;s Economy Minister Federal Councillor Guy Parmelin, left, shakes hands with Chinese Vice Premier He Lifeng, right, next to Switzerland&apos;s President Karin Keller-Sutter, center, during a bilateral meeting between Switzerland and China, in Geneva, Switzerland, on Friday, May 9, 2025. (Martial Trezzini/Keystone via AP, Pool)'/><p>The U.S. and China on Sunday resumed crucial tariff talks that have put the global economy on edge, but presented differing views on where the negotiations presently stand. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-china-tariff-talks-1.7532228?cmp=rss>
 
 ---
 
@@ -97,7 +230,7 @@ date: 2025-05-11, from: Vatican News
 
 ---
 
-## Pope Leo XIV at Regina Caeli: May we pray for vocations, serving one another
+## Pope Leo XIV at Regina Caeli: May we pray for vocations, live a life of service
 
 date: 2025-05-11, from: Vatican News
 
@@ -117,7 +250,7 @@ date: 2025-05-11, from: Vatican News
 
 date: 2025-05-11, from: RTÉ News
 
-Pope Leo XIV has called for a ceasefire in Gaza and the release of all Israeli hostages, as well as "no more war", as he lead a prayer to the Virgin Mary from the balcony of St Peter's Basilica. 
+Pope Leo XIV has called for a ceasefire in Gaza and the release of all hostages, as well as "no more war", as he led a prayer to the Virgin Mary from the balcony of St Peter's Basilica. 
 
 <br> 
 
@@ -153,11 +286,11 @@ date: 2025-05-11, from: Vatican News
 
 ---
 
-## Russian overtures welcome but ceasefire must come before peace talks, says Zelenskyy
+## Zelenskyy calls on Putin to cease attacks, meet him in Turkey for peace talks
 
 date: 2025-05-11, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7532184.1746966856!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A man stands at a podium with a Ukrainian flag on it.' width='620' height='349' title='Ukrainian President Volodymyr Zelenskyy speaks during press conference at the Mariinsky Palace in Kyiv, Ukraine, Saturday, May 10, 2025. '/><p></p> 
+<img src='https://i.cbc.ca/1.7514361.1746984100!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/zelenskyy-putin-composite.jpg' alt='This composite image shows two people talking.' width='620' height='349' title='Ukraine&apos;s President Volodymyr Zelensky gestures as he speaks during a press conference in Kyiv on April 17, 2025, amid the Russian invasion of Ukraine. (Photo by Tetiana DZHAFAROVA / AFP) (Photo by TETIANA DZHAFAROVA/AFP via Getty Images) In this pool photograph distributed by the Russian state agency Sputnik, President Vladimir Putin meets with Chief of the General Staff of the Russian Armed Forces in Moscow on April 19, 2025. Putin announced an Easter truce in the conflict in Ukraine starting this evening and lasting till midnight on April 20, 2025. (Photo by Vyacheslav PROKOFYEV / POOL / AFP) (Photo by VYACHESLAV PROKOFYEV/POOL/AFP via Getty Images) '/><p></p> 
 
 <br> 
 
@@ -261,11 +394,11 @@ Irish cinema will have a notable presence at this year's Cannes Film Festival, w
 
 ---
 
-## Iran, US to resume nuclear talks amid enrichment concerns
+## Iran-US nuclear talks end with next round to be announced
 
 date: 2025-05-11, from: RTÉ News
 
-Iran and the United States have begun a fourth round of talks over Iran's nuclear programme, as US officials have voiced increasing opposition to Iranian enrichment. 
+Fresh talks between Iranian and US negotiators to resolve disputes over Iran's nuclear programme have ended in Oman with further negotiations planned, officials have said, as Ian insisted in public on continuing uranium enrichment. 
 
 <br> 
 
@@ -285,11 +418,11 @@ date: 2025-05-11, from: CBC, Indigenious News
 
 ---
 
-## US-China trade talks resume as Trump hails 'total reset'
+## US 'optimistic' as trade talks with China continue
 
 date: 2025-05-11, from: RTÉ News
 
-Talks between top US and Chinese officials have resumed for a second day, after US President Donald Trump voiced optimism over the negotiations aimed at de-escalating trade tensions sparked by his aggressive tariff rollout. 
+The United States expressed optimism as talks with top Chinese officials continued for a second day in a bid to de-escalate trade tensions sparked by President Donald Trump's aggressive tariff rollout. 
 
 <br> 
 
@@ -297,11 +430,11 @@ Talks between top US and Chinese officials have resumed for a second day, after 
 
 ---
 
-## Russia must commit to ceasefire before meeting - Zelensky
+## Zelensky ready to meet Putin in Turkey on Thursday
 
 date: 2025-05-10, from: RTÉ News
 
-Ukrainian President Volodymyr Zelensky has said that Kyiv would meet with Moscow for talks in Istanbul on 15 May but said that Russia must first commit to a 30-day ceasefire starting tomorrow. 
+Ukrainian President Volodymyr Zelensky said he would be ready to meet Vladimir Putin for talks in Istanbul on Thursday after US President Donald Trump told him to agree to an offer of talks with Russia immediately. 
 
 <br> 
 
@@ -354,6 +487,18 @@ The Irish ladies senior water polo cup final turned into a nail-biter which had 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0510/1512191-water-polo-cup-final/>
+
+---
+
+## As Trump heads to the Middle East, fixing explosive crises takes a back seat to deal-making
+
+date: 2025-05-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532082.1746900960!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/saudi-mbs-interview.JPG' alt='Saudi Arabia&apos;s Crown Prince, Mohammed bin Salman speaks with FOX News Channel, in an interview aired September 21, 2023, Neom, Saudi Arabia, Saudi Press ' width='620' height='349' title='Saudi Arabia&apos;s Crown Prince, Mohammed bin Salman speaks with FOX News Channel, in an interview aired September 21, 2023, Neom, Saudi Arabia, Saudi Press '/><p>U.S. President Donald Trump will start his Middle East trip Tuesday by visiting Saudi Arabia. The country has opened up and relaxed its strict social code in recent years as it looks for partners to help it transition away from an oil economy. But the war in Gaza — and the famine created by Israel’s blockade of two million people — seems certain to haunt the president’s trip. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-middle-east-trip-1.7532075?cmp=rss>
 
 ---
 
@@ -567,7 +712,7 @@ Following pronouncements of an end to hostilities between India and Pakistan, ne
 
 ## ‘We can do better’ for pedestrian and cyclist safety worldwide
 
-date: 2025-05-10, from: United Nations, Climate Change
+date: 2025-05-10, from: United Nations, Top Stories
 
 A cycling network expanded from 70 kilometres to over 400 kilometres in Fortaleza, Brazil. A project to create a bike lane in every street of Paris. And the longest pedestrian and cycle tunnel in the world, in the Norwegian coastal city of Bergen.&nbsp; 
 
@@ -1459,7 +1604,7 @@ Israel’s plan to take control of relief assistance in Gaza would put civilian 
 
 ## UN warns copper shortage risks slowing global energy and technology shift
 
-date: 2025-05-09, from: United Nations, Economic Development
+date: 2025-05-09, from: United Nations, Top Stories
 
 A looming global copper shortage could stall the world’s transition to clean energy and digital technologies unless smarter trade and investment strategies are adopted, the UN’s trade and development body, UNCTAD, has warned. 
 
@@ -2709,6 +2854,18 @@ date: 2025-05-08, from: CBC, World News
 
 ---
 
+## India and Pakistan's fragile ceasefire only the first step to tackling deep, acrimonious conflict
+
+date: 2025-05-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532289.1746978199!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pakistan-india.jpg' alt='A man stands amid ruins and debris.' width='620' height='349' title='A local resident clears a room of his home damaged by Indian shelling, a day after the ceasefire between India and Pakistan was announced, near Jura, on the Line of Control, in Neelum Valley, a district of Pakistan&apos;s administered Kashmir, Sunday, May 11, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-pakistan-fragile-ceasefire-1.7532274?cmp=rss>
+
+---
+
 ## These authors were sold a romantasy convention. Instead, they got the Fyre Festival of the book world
 
 date: 2025-05-08, from: CBC, World News
@@ -3491,7 +3648,7 @@ Where you're born could be the difference between living over three decades long
 
 ## ‘Alarming’ slowdown in human development - could AI provide answers?
 
-date: 2025-05-06, from: United Nations, Economic Development
+date: 2025-05-06, from: United Nations, Top Stories
 
 The progress of human development – as measured by people’s freedoms and well-being – has remained sluggish since the major shock of the COVID-19 pandemic. A UN study released on Tuesday finds that used in the right way, artificial intelligence could be a powerful tool to improve millions of lives.&nbsp; 
 

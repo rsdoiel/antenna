@@ -1,11 +1,31 @@
 ---
 title: snapshots
-updated: 2025-05-11 06:08:56
+updated: 2025-05-11 12:15:41
 ---
 
 # snapshots
 
-(date: 2025-05-11 06:08:56)
+(date: 2025-05-11 12:15:41)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+Teaching Kids Kindness Prepares Them for Success. 
+
+<br> 
+
+<https://www.theatlantic.com/magazine/archive/2019/12/stop-trying-to-raise-successful-kids/600751/?gift=f35zZN0v_gDFE8xNwlQAHbuBu4OsP4XvPnNmQNO7xyQ&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-11, from: Dave Winer's linkblog)
+
+People who write the history of podcasting should start with the sources, and if they disagree, should work it out. Some of the people who write about this stuff hallucinate much worse than the chatbots. 
+
+<br> 
+
+<https://cyber.harvard.edu/rss/rssVersionHistory.html>
 
 ---
 

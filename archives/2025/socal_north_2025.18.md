@@ -1,11 +1,95 @@
 ---
 title: socal north
-updated: 2025-05-11 06:08:47
+updated: 2025-05-11 12:15:35
 ---
 
 # socal north
 
-(date: 2025-05-11 06:08:47)
+(date: 2025-05-11 12:15:35)
+
+---
+
+## 1 dead, multiple people injured in tour bus crash on 60 Freeway in Hacienda Heights
+
+date: 2025-05-11, updated: 2025-05-11, from: The LAist
+
+The incident was reported at 5:01 a.m. Sunday morning. 
+
+<br> 
+
+<https://laist.com/news/one-dead-multiple-people-injured-from-tour-bus-crash-on-60-freeway-in-hacienda-heights>
+
+---
+
+## Today's hot, but not as hot as Saturday's record-breaking heat
+
+date: 2025-05-11, updated: 2025-05-11, from: The LAist
+
+Another hot day today, but not as bad as yesterday. Relief is in sight as soon as Monday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/todays-hot-but-not-as-hot-as-saturdays-record-breaking-heat>
+
+---
+
+## Vibe check: A new pope-inspired sandwich has dropped. We try 'The Leo'
+
+date: 2025-05-11, updated: 2025-05-11, from: The LAist
+
+The Leo is Portillo's entry in the pop culture space capitalizing on the surprise choice of the first U.S.-born pope. We asked a Chicago expert to take a bite — our editor in chief, Megan Garvey. 
+
+<br> 
+
+<https://laist.com/news/food/italian-beef-pope-leo-chicago-memes>
+
+---
+
+## Pope Leo's stance on key issues, from climate change to LGBTQ+ rights to US politics
+
+date: 2025-05-11, updated: 2025-05-11, from: The LAist
+
+Pope Leo XIV is seen as a centrist who shares his predecessor's progressive views on certain social issues. Here's what we know so far. 
+
+<br> 
+
+<https://laist.com/news/pope-leos-stance-on-key-issues-from-climate-change-to-lgbtq-rights-to-us-politics>
+
+---
+
+## This California man won citizenship for all. Now that right is being challenged in court
+
+date: 2025-05-11, updated: 2025-05-11, from: The LAist
+
+How the 130-year-old case of Wong Kim Ark could affect the Supreme Court's hearing on birthright citizenship on May 15. 
+
+<br> 
+
+<https://laist.com/news/politics/california-man-won-birthright-citizenship-for-all-wong-kim-ark>
+
+---
+
+## Griffith Observatory celebrates 90th birthday
+
+date: 2025-05-11, updated: 2025-05-11, from: The LAist
+
+Join the free celebration of the observatory with the iconic views this Wednesday. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/griffith-observatory-turns-90>
+
+---
+
+## Moms tell us their most memorable Mother's Day gifts
+
+date: 2025-05-11, updated: 2025-05-11, from: The LAist
+
+Mother's Day is here. If you haven't figured out what to give to the mothers in your life, we've got you covered. 
+
+<br> 
+
+<https://laist.com/news/moms-tell-us-their-most-memorable-mothers-day-gifts>
 
 ---
 
@@ -162,6 +246,18 @@ date: 2025-05-09, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/big-bang-fireworks-escapes-cancelation-drones-coastal-commission>
+
+---
+
+## Altadena's Good Neighbor Bar was there in a time of need. Now it needs support
+
+date: 2025-05-09, updated: 2025-05-11, from: The LAist
+
+Good Neighbor Bar opened six months before the Eaton fire. It survived and now it needs community support. 
+
+<br> 
+
+<https://laist.com/news/altadena-good-neighbor-bar-support-eaton-fire>
 
 ---
 

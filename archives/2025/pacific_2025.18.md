@@ -1,11 +1,71 @@
 ---
 title: pacific
-updated: 2025-05-11 06:08:47
+updated: 2025-05-11 12:15:35
 ---
 
 # pacific
 
-(date: 2025-05-11 06:08:47)
+(date: 2025-05-11 12:15:35)
+
+---
+
+## CNMI advances broadband goals amid program funding update from federal partners
+
+date: 2025-05-11, updated: 2025-05-11, from: Marianas Variety
+
+(BPD) — The Commonwealth of the Northern Mariana Islands Broadband Policy and Development Office acknowledges the recent notiﬁcation from the National Telecommunications and Information Administration regarding the termination of the Digital Equity Capacity Grant award totaling $2.1 million. This decision follows a determination by President Donald Trump and Commerce Secretary Howard Lutnick that the Digital Equity Capacity Program, under which the grant was issued, is unconstitutional due to concerns about impermissible racial preferences in grant administration. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-advances-broadband-goals-amid-program-funding-update-from-federal-partners/article_a2bd2745-6f44-4cbf-926d-ff677b02676d.html>
+
+---
+
+## GOP meeting
+
+date: 2025-05-11, updated: 2025-05-11, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/local/gop-meeting/article_8e52d2e2-3a6a-482f-9bc2-19f4c9db3448.html>
+
+---
+
+## Scheduled power service interruption for Tinian on May 13
+
+date: 2025-05-11, updated: 2025-05-11, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be a scheduled power service interruption on Tuesday, May 13, 2025 from 7 a.m. to 12 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruption-for-tinian-on-may-13/article_998f6834-10af-4402-a2bb-4f820159cc14.html>
+
+---
+
+## Understanding the journey: Guam Bar Association to launch new book on foster care
+
+date: 2025-05-11, from: Pacific Island Times
+
+“Mames yan Matias” follows the emotional journey of two children separated from their parents, guiding readers of all ages through the complexities of foster care.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/understanding-the-journey-guam-bar-association-to-launch-new-book-on-foster-care>
+
+---
+
+## Philippines faces uncertainty and hope as Filipinos head to polls
+
+date: 2025-05-11, from: Pacific Island Times
+
+“For voters who choose these candidates, their decisions that ran counter to the surveys that list the usual names would be called protest or revolutionary voters,” said one observer. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/philippines-faces-uncertainty-and-hope-as-filipinos-head-to-polls>
 
 ---
 
