@@ -7,6 +7,7 @@ title: Antenna Archives
 
 ## SoCal North
 
+* [socal north 2025.19](socal_north_2025.19.md)
 * [socal north 2025.18](socal_north_2025.18.md)
 * [socal north 2025.17](socal_north_2025.17.md)
 * [socal north 2025.16](socal_north_2025.16.md)
@@ -29,6 +30,7 @@ title: Antenna Archives
 
 ## Pacific
 
+* [pacific 2025.19](pacific_2025.19.md)
 * [pacific 2025.18](pacific_2025.18.md)
 * [pacific 2025.17](pacific_2025.17.md)
 * [pacific 2025.16](pacific_2025.16.md)
@@ -51,6 +53,7 @@ title: Antenna Archives
 
 ## North America
 
+* [north america 2025.19](north_america_2025.19.md)
 * [north america 2025.18](north_america_2025.18.md)
 * [north america 2025.17](north_america_2025.17.md)
 * [north america 2025.16](north_america_2025.16.md)
@@ -73,6 +76,7 @@ title: Antenna Archives
 
 ## Science & Technology
 
+* [science and technology 2025.19](science_and_technology_2025.19.md)
 * [science and technology 2025.18](science_and_technology_2025.18.md)
 * [science and technology 2025.17](science_and_technology_2025.17.md)
 * [science and technology 2025.16](science_and_technology_2025.16.md)
@@ -95,6 +99,7 @@ title: Antenna Archives
 
 ## Columns
 
+* [columns 2025.19](columns_2025.19.md)
 * [columns 2025.18](columns_2025.18.md)
 * [columns 2025.17](columns_2025.17.md)
 * [columns 2025.16](columns_2025.16.md)
@@ -117,6 +122,7 @@ title: Antenna Archives
 
 ## Snapshots
 
+* [snapshots 2025.19](snapshots_2025.19.md)
 * [snapshots 2025.18](snapshots_2025.18.md)
 * [snapshots 2025.17](snapshots_2025.17.md)
 * [snapshots 2025.16](snapshots_2025.16.md)
@@ -133,6 +139,7 @@ title: Antenna Archives
 
 ## Home, Garden & Urban Farm
 
+* [home 2025.19](home_2025.19.md)
 * [home 2025.18](home_2025.18.md)
 * [home 2025.17](home_2025.17.md)
 * [home 2025.16](home_2025.16.md)
@@ -155,6 +162,7 @@ title: Antenna Archives
 
 ## Good Eats, Healthy Eats
 
+* [food 2025.19](food_2025.19.md)
 * [food 2025.18](food_2025.18.md)
 * [food 2025.17](food_2025.17.md)
 * [food 2025.16](food_2025.16.md)
@@ -177,6 +185,7 @@ title: Antenna Archives
 
 ## Going Electric
 
+* [going electric 2025.19](going_electric_2025.19.md)
 * [going electric 2025.18](going_electric_2025.18.md)
 * [going electric 2025.17](going_electric_2025.17.md)
 * [going electric 2025.16](going_electric_2025.16.md)
@@ -199,6 +208,7 @@ title: Antenna Archives
 
 ## Retro Computing
 
+* [retro computing 2025.19](retro_computing_2025.19.md)
 * [retro computing 2025.18](retro_computing_2025.18.md)
 * [retro computing 2025.17](retro_computing_2025.17.md)
 * [retro computing 2025.16](retro_computing_2025.16.md)
@@ -221,6 +231,7 @@ title: Antenna Archives
 
 ## Libaries
 
+* [libraries 2025.19](libraries_2025.19.md)
 * [libraries 2025.18](libraries_2025.18.md)
 * [libraries 2025.17](libraries_2025.17.md)
 * [libraries 2025.16](libraries_2025.16.md)
@@ -243,6 +254,7 @@ title: Antenna Archives
 
 ## State Parks
 
+* [parks 2025.19](parks_2025.19.md)
 * [parks 2025.18](parks_2025.18.md)
 * [parks 2025.17](parks_2025.17.md)
 * [parks 2025.16](parks_2025.16.md)
@@ -265,6 +277,7 @@ title: Antenna Archives
 
 ## Student Journalism
 
+* [journalism 2025.19](journalism_2025.19.md)
 * [journalism 2025.18](journalism_2025.18.md)
 * [journalism 2025.17](journalism_2025.17.md)
 * [journalism 2025.16](journalism_2025.16.md)
@@ -287,6 +300,7 @@ title: Antenna Archives
 
 ## Motocycles
 
+* [motorcycles 2025.19](motorcycles_2025.19.md)
 * [motorcycles 2025.18](motorcycles_2025.18.md)
 * [motorcycles 2025.17](motorcycles_2025.17.md)
 * [motorcycles 2025.16](motorcycles_2025.16.md)
@@ -309,6 +323,7 @@ title: Antenna Archives
 
 ## Craft
 
+* [craft 2025.19](craft_2025.19.md)
 * [craft 2025.18](craft_2025.18.md)
 * [craft 2025.17](craft_2025.17.md)
 * [craft 2025.16](craft_2025.16.md)
@@ -331,6 +346,7 @@ title: Antenna Archives
 
 ## Writing
 
+* [writing 2025.19](writing_2025.19.md)
 * [writing 2025.18](writing_2025.18.md)
 * [writing 2025.17](writing_2025.17.md)
 * [writing 2025.16](writing_2025.16.md)
@@ -353,6 +369,7 @@ title: Antenna Archives
 
 ## Weather
 
+* [weather 2025.19](weather_2025.19.md)
 * [weather 2025.18](weather_2025.18.md)
 * [weather 2025.17](weather_2025.17.md)
 * [weather 2025.16](weather_2025.16.md)
