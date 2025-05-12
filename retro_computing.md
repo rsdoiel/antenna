@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-05-12 06:08:35
+updated: 2025-05-12 14:08:44
 ---
 
 # retro computing
 
-(date: 2025-05-12 06:08:35)
+(date: 2025-05-12 14:08:44)
+
+---
+
+## Dr. Dobb's Journal Interviews Jef Raskin (1986)
+
+date: 2025-05-12, from: Computer ads from the Past
+
+They discuss interface design and Raskin's hatred of the mouse. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin>
+
+---
+
+## IBM Announces Powerhouse Linux Server
+
+date: 2025-05-12, from: Linux Magazine
+
+<p>IBM has unleashed a seriously powerful Linux server with the LinuxONE Emperor 5.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/IBM-Announces-Powerhouse-Linux-Server>
 
 ---
 

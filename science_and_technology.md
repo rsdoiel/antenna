@@ -1,19 +1,187 @@
 ---
 title: science and technology
-updated: 2025-05-12 06:08:31
+updated: 2025-05-12 14:08:40
 ---
 
 # science and technology
 
-(date: 2025-05-12 06:08:31)
+(date: 2025-05-12 14:08:40)
 
 ---
 
-## Paul McCartney, Elton John and other creatives demand AI comes clean on scraping
+## A brief history of the numeric keypad
+
+date: 2025-05-12, from: OS News
+
+The title is a lie. This isn&#8217;t brief at all. Picture the keypad of a telephone and calculator side by side. Can you see the subtle difference between the two without resorting to your smartphone? Don’t worry if you can’t recall the design. Most of us are so used to accepting the common interfaces that we tend to overlook the calculator’s inverted key sequence. A calculator has the 7–8–9 buttons at the top whereas a phone uses the 1–2–3 format. Subtle, but puzzling since they serve the same functional goal — input numbers. There’s no logical reason for the inversion if a user operates the interface in the same way. Common sense suggests the reason should be technological constraints. Maybe it’s due to a patent battle between the inventors. Some people may theorize it’s ergonomics. With no clear explanation, I knew history and the evolution of these devices would provide the answer. Which device was invented first? Which keypad influenced the other? Most importantly, who invented the keypad in the first place? ↫ Francesco Bertelli and Manoel do Amara Sometimes, you come across articles that are one-of-a-kind, and this is one of them. Very few people would go to this length to document such a particular thing most people find utterly insignificant, but luckily for us, Francesco Bertelli and Manoel do Amara went all the way with this one. If you want to know anything about the history of the numerical pad and its possibly layouts, this is the place to go. What I&#8217;ve always found fascinating about numerical pads is how effortless the brain can switch between the two most common layouts without really batting an eye. Both layouts seem to ingrained in my brain that it feels like there&#8217;s barely any context-switching involved, and my fingers just effortlessly flow to the correct numbers. Considering numbers tend to confuse me, I wouldn&#8217;t have been at all surprised to find myself having issues switching between the two layouts. What makes this even more interesting is when I consider the number row on the keyboard &#8211; you know 1 through 0 &#8211; because there I do tend to have a lot of issues finding the right numbers. I don&#8217;t mean it takes seconds or anything like that, but I definitely experience more hiccups working with the number row than with a numerical keypad of either layout. 
+
+<br> 
+
+<https://www.osnews.com/story/142341/a-brief-history-of-the-numeric-keypad/>
+
+---
+
+## Jupiter’s Turbulent Atmosphere
+
+date: 2025-05-12, from: NASA breaking news
+
+JunoCam, the visible light imager aboard NASA&#8217;s Juno spacecraft, captured this view of Jupiter&#8217;s northern high latitudes during the spacecraft&#8217;s 69th flyby of the giant planet on Jan. 28, 2025. Jupiter&#8217;s belts and zones stand out in this enhanced color rendition, along with the turbulence along their edges caused by winds going in different directions. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/jupiters-turbulent-atmosphere/>
+
+---
+
+## CISA mutes own website, shifts routine cyber alerts to Musk’s X, RSS, email
 
 date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
 
-<h4>Musicians, artists, writers, and actors urge government to protect copyright</h4> <p>More than 400 of the UK&#39;s leading media and arts professionals have written to the prime minister to back an amendment to the Data (Use and Access) Bill, which promises to offer the nation&#39;s creative industries transparency over copyrighted works ingested by AI models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Cripes, we were only joking when we called Elon&#39;s social network the new state media</h4> <p>The US government&#39;s Cybersecurity and Infrastructure Security Agency (CISA) announced Monday that going forward, only urgent alerts tied to emerging threats or major cyber activity will appear on its website. Routine updates, guidance, and other notifications will instead be shared via email, RSS, and X.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/cisa_vulnerabilities_updates_x/>
+
+---
+
+## FreeBSD fans rally round zVault upstart
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>Community fork picks up where TrueNAS CORE left off</h4> <p>TrueNAS is alive and well, but iXsystems has shifted its focus to the Linux-based SCALE edition. For the FreeBSD faithful left clinging to CORE, a new contender is limbering up: zVault.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/second_preview_zvault/>
+
+---
+
+## A brief history of the BSD Fast FileSystem
+
+date: 2025-05-12, from: OS News
+
+We&#8217;re looking at an article from 2007 here, but I still think it&#8217;s valuable and interesting, especially from a historical perspective. I first started working on the UNIX file system with Bill Joy in the late 1970s. I wrote the Fast File System, now called UFS, in the early 1980s. In this article, I have written a survey of the work that I and others have done to improve the BSD file systems. Much of this research has been incorporated into other file systems. ↫ Marshall Kirk McKusic Variants of UFS are still the default file system in at least NetBSD and OpenBSD, and it&#8217;s one of the two default options in FreeBSD (alongside ZFS). In other words, this article, and the work described therein, is still relevant to this very day. 
+
+<br> 
+
+<https://www.osnews.com/story/142339/a-brief-history-of-the-bsd-fast-filesystem/>
+
+---
+
+## NASA Goes Live on Twitch: Design Artemis II Moon Mascot
+
+date: 2025-05-12, from: NASA breaking news
+
+NASA will host a live Twitch event to highlight the ongoing Moon Mascot Challenge, which invites the public to design a zero gravity indicator for the agency’s Artemis II crewed test flight around the Moon. Viewers will have the opportunity to provide real-time input to an artist who will create an example of a zero [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-goes-live-on-twitch-design-artemis-ii-moon-mascot/>
+
+---
+
+## NASA’s Europa Clipper Captures Mars in Infrared
+
+date: 2025-05-12, from: NASA breaking news
+
+Headed for Jupiter’s moon Europa, the spacecraft did some sightseeing, using a flyby of Mars to calibrate its infrared imaging instrument. On its recent swing by Mars, NASA’s Europa Clipper took the opportunity to capture infrared images of the Red Planet. The data will help mission scientists calibrate the spacecraft’s thermal imaging instrument so they [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/>
+
+---
+
+## Attackers pwn charter airline helping Trump's deportation campaign
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>Intruders claim they stole GlobalX&#39;s flight records and manifests</h4> <p>GlobalX, a charter airline used for deportations by the US government, has admitted someone broke into its network infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/globalx_security_incident/>
+
+---
+
+## CERN boffins turn lead into gold for about a microsecond at unimaginable cost
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>So alchemists had the right idea – they just lacked a 27 km particle accelerator</h4> <p>The dream of every medieval alchemist – turning lead into gold – has finally come true thanks to some impractical physics at CERN&#39;s Large Hadron Collider.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/cern_lead_into_gold/>
+
+---
+
+## NASA Ames Stars of the Month: May 2025
+
+date: 2025-05-12, from: NASA breaking news
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Dennis Leveson-Gower and Laura Iraci. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Dennis Leveson-Gower Dennis Leveson-Gower, Assistant Branch Chief of Bioengineering, has contributed to numerous [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-ames-stars-of-the-month-may-2025/>
+
+---
+
+## 5 Tips to Craft a Standout NASA Internship Application
+
+date: 2025-05-12, from: NASA breaking news
+
+A NASA internship provides a stellar opportunity to launch your future as part of America’s aerospace workforce. NASA interns take on meaningful work and contribute to exciting agency projects with the guidance of a supportive mentor. The internship program regularly ranks as the nation’s most prestigious and competition is steep: in fiscal year 2024, NASA&#8217;s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/tips-to-craft-standout-internship-application/>
+
+---
+
+## The Fastest Way Yet to Color Graphs
+
+date: 2025-05-12, from: Quanta Magazine
+
+Researchers have devised a scheme for painting the edges of a graph that’s almost as speedy as possible.            <p>The post <a href="https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/" target="_blank">The Fastest Way Yet to Color Graphs</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/>
+
+---
+
+## US, China agree to roll back tariffs – but only for 90 days
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>IT projects may remain in limbo due to deal being far from final, but markets are up, so Trump&#39;ll declare a win</h4> <p><strong>world war fee</strong>  The impending disaster of trade-freezing tariffs on Chinese imports to the US has been averted, but like a Chinese cargo ship anchored off the coast of California, it&#39;s not gone entirely.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/us_china_import_tariff_pause/>
+
+---
+
+## OS-busting bug so bad that Microsoft blocks Windows Insider release
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>Canary fans told it hurts functionality to the point that it makes &#39;using your PC to do even basic things difficult&#39;</h4> <p>The Windows team has come up with a bug so bad that Microsoft has had to postpone some Insider builds until the issue is dealt with.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/windows_insider_release_blocked/>
+
+---
+
+## Paul McCartney, Elton John, other creatives demand AI comes clean on scraping
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>Musicians, artists, writers, actors urge government to protect copyright</h4> <p>More than 400 of the UK&#39;s leading media and arts professionals have written to the prime minister to back an amendment to the Data (Use and Access) Bill, which promises to offer the nation&#39;s creative industries transparency over copyrighted works ingested by AI models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

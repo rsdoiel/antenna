@@ -1,11 +1,368 @@
 ---
 title: planet
-updated: 2025-05-12 06:08:28
+updated: 2025-05-12 14:08:36
 ---
 
 # planet
 
-(date: 2025-05-12 06:08:28)
+(date: 2025-05-12 14:08:36)
+
+---
+
+## First white South Africans arrive in US for resettlement
+
+date: 2025-05-12, from: RTÉ News
+
+A group of around 50 white South Africans have arrived for resettlement in the United States after President Donald Trump granted them refugee status as victims of what he called a "genocide". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512505-south-africans-us/>
+
+---
+
+## Judicial review sought on proposed LNG plant in Kerry
+
+date: 2025-05-12, from: RTÉ News
+
+Friends of the Irish Environment say they have been given leave to seek a Judicial Review of a proposed Liquefied Natural Gas (LNG) power plant in Co Kerry. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512503-lng-kerry/>
+
+---
+
+## From the Backyard: Pope Leo XIV, Leo XIII, Rerum Norarum and AI
+
+date: 2025-05-12, from: Vatican Obervatory
+
+So anything new in the Catholic world these days? Well&#8230; let&#8217;s see&#8230; its Easter&#8230; spring usually means you&#8217;ve been invited to a... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/general/from-the-backyard-pope-leo-xiv-leo-xiii-rerum-norarum-and-ai/>
+
+---
+
+## Skorts vs shorts - the controversy is not over yet
+
+date: 2025-05-12, from: RTÉ News
+
+On Thursday week, 22 May, in Croke Park, with a throw-in time of 7.30pm, the Camogie Association will hold its Special Congress where the biggest crisis it has faced in its long and proud history may be put to bed.... or will it? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0512/1512462-skorts-shorts-camogie/>
+
+---
+
+## Man pleads not guilty to assaulting six-month old child
+
+date: 2025-05-12, from: RTÉ News
+
+A 31-year-old man accused of seriously assaulting his six-month-old baby daughter told Gardaí he had dropped her twice but never shook her, his trial at Cork Circuit Criminal Court heard today. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512493-cork-assault/>
+
+---
+
+## Man dies in Lisburn following two-vehicle collision
+
+date: 2025-05-12, from: RTÉ News
+
+A man has died following a road traffic collision which occurred last week in Lisburn, the Police Service of Northern Ireland has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512491-lisburn-rta/>
+
+---
+
+## Minister to invite US scholars to Ireland for 'stability'
+
+date: 2025-05-12, from: RTÉ News
+
+Ireland has a unique opportunity to capitalise on attacks by the Trump administration on US universities by becoming "a welcoming host for the best and the brightest" fleeing the US university system, Minister for Further and Higher Education James Lawless has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0512/1512488-ireland-us-education/>
+
+---
+
+## Podcast: Crypto schemes, deals and Qatar's wooden horse
+
+date: 2025-05-12, from: RTÉ News
+
+In the latest episode of RTÉ's Behind the Story podcast, Fran McNulty and David McCullagh discuss whether Qatar's plan to gift Donald Trump a shiny new Air Force One jet will take off. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512474-podcast-crypto-schemes-deals-and-qatars-wooden-horse/>
+
+---
+
+## What we know so far about the Diddy sex trafficking trial
+
+date: 2025-05-12, from: RTÉ News
+
+Sean "Diddy" Combs, the US rapper and music mogul who discovered world-famous artists and helped bring the genre into the mainstream, went on trial in New York on charges that he ran a two-decade racketeering and sex trafficking conspiracy. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0512/1512484-us-combs-explainer/>
+
+---
+
+## Dublin scholar triumphs in University Challenge final
+
+date: 2025-05-12, from: RTÉ News
+
+A Dublin student has led a Cambridge team to victory in one of the UK's most prestigious and fiercely contested quiz competitions. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0512/1512473-dublin-scholar-in-tonights-university-challenge-final/>
+
+---
+
+## UK police investigating fire at Starmer's house
+
+date: 2025-05-12, from: RTÉ News
+
+British police are investigating an overnight fire at a house belonging to Prime Minister Keir Starmer in north London in which nobody was hurt. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0512/1512479-starmer-house/>
+
+---
+
+## Ireland's grid: Do we need to rethink our energy resilience?
+
+date: 2025-05-12, from: RTÉ News
+
+Tonight's Upfront with Katie Hannon explores the risks to Ireland's energy supply — and the measures being considered to strengthen it. 
+
+<br> 
+
+<https://www.rte.ie/news/upfront/2025/0512/1512469-irelands-grid-do-we-need-to-rethink-our-energy-resilience/>
+
+---
+
+## AFN chief says talks of Alberta separation 'irresponsible,' points to treaties
+
+date: 2025-05-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7519645.1745700516!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cindy-woodhouse-nepinak.jpg' alt='A woman with a feathered headwear and a blue blazer looks at the camera.' width='620' height='349' title='Cindy Woodhouse Nepinak, the national chief of the Assembly of First Nations, attended  the funeral of Pope Francis in Rom on April 26, 2025.'/><p>The national chief of the Assembly of First Nations says talk of Alberta separatism is 'irresponsible' and it's "not smart" for politicians to make statements about it without consulting with First Nations first.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/edmonton/alta-separation-afn-1.7532997?cmp=rss>
+
+---
+
+## Blackmore announces retirement after glittering career
+
+date: 2025-05-12, from: RTÉ News
+
+Jockey Rachael Blackmore has announced her retirement after a 16-year career in the saddle. 
+
+<br> 
+
+<https://www.rte.ie/sport/racing/2025/0512/1512465-blackmore-announces-retirement-after-glittering-career/>
+
+---
+
+## Man to face trial over alleged threat to wife of TD
+
+date: 2025-05-12, from: RTÉ News
+
+A trial date has been set for a man accused of threatening to "slit" People Before Profit TD Paul Murphy's wife's throat. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512466-td-wife-threat/>
+
+---
+
+## Podcast tips see further searches in Jón Jónsson case
+
+date: 2025-05-12, from: RTÉ News
+
+The family of missing Icelandic man Jón Jónsson have said that the gardaí have conducted further searches into the poker player's disappearance. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512455-jon-jonsson-investigation-podcast/>
+
+---
+
+## Rome hosts Jubilee of Eastern Churches
+
+date: 2025-05-12, from: Vatican News
+
+
+                    <p>From May 12 to 14, the Vatican is hosting the Jubilee of the Eastern Catholic Churches, which features a series of Divine Liturgies in various Eastern rites.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/rome-hosts-jubilee-of-eastern-churches-may.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/rome-hosts-jubilee-of-eastern-churches-may.html>
+
+---
+
+## Galway Harbour extension decision to come by end of year
+
+date: 2025-05-12, from: RTÉ News
+
+Galway City Council has been told a decision on a proposal to extend the city's Harbour is anticipated by the end of the year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512453-galway-harbour-expansion/>
+
+---
+
+## Father Ted co-creator denies harassment charges
+
+date: 2025-05-12, from: RTÉ News
+
+Father Ted co-creator Graham Linehan has pleaded not guilty to charges of harassment and criminal damage following an alleged incident involving a transgender woman. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0512/1512444-father-ted-co-creator-denies-harassment-charges/>
+
+---
+
+## Changes needed to meet housing targets - Uisce Éireann
+
+date: 2025-05-12, from: RTÉ News
+
+The Government's target of building 50,000 homes a year is possible, but would require some change, not only in terms of financing but also regarding "key enablers", according to Uisce Éireann. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512440-ue-water-infrastructure/>
+
+---
+
+## Orbán criticises Taoiseach after 'abuse of vetoes' quote
+
+date: 2025-05-12, from: RTÉ News
+
+The Hungarian Prime Minister Viktor Orbán has criticised the Taoiseach Micheál Martin for saying Brussels should crack down on what he termed Hungary's "abuse of vetoes" at EU Council meetings. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512446-orban-taoiseach/>
+
+---
+
+## Vatican sends well wishes for Buddhist festival of Vesak
+
+date: 2025-05-12, from: Vatican News
+
+
+                    <p>The Dicastery for Interreligious Dialogue sends a message to Buddhists for the feast of Vesak, stressing that dialogue must not be limited to words but must become “concrete actions for peace, justice  and dignity for all.”</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/dicastery-sends-well-wishes-for-buddist-festival-of-vesak.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/dicastery-sends-well-wishes-for-buddist-festival-of-vesak.html>
+
+---
+
+## First Nations leaders want drinking water bill within 100 days of Parliament's return
+
+date: 2025-05-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5850043.1702346736!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marcus-moonias.jpg' alt='Problems persist at Neskantaga First Nation&apos;s upgraded drinking water plant.' width='620' height='349' title='Marcus Moonias is one of three local water operators from Neskantaga First Nation, who will be trained to take over operations of the community water treatment plant once work on a $16.5 million upgrade is complete.'/><p>First Nations leaders are urging Prime Minister Mark Carney to tackle a number key priorities in the first 100 days of Canada’s new Parliament.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/indigenous-leaders-priorities-100-days-1.7532748?cmp=rss>
+
+---
+
+## PKK announces dissolution, ending decades-long conflict
+
+date: 2025-05-12, from: Vatican News
+
+
+                    <p>The banned Kurdish group, the PKK, which has waged a 40-year insurgency against Türkiye, is disbanding.
+ </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/pkk-announces-dissolution-ending-decades-long-conflict.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/pkk-announces-dissolution-ending-decades-long-conflict.html>
+
+---
+
+## Former Kwanlin Dün chief Doris Bill seeks Yukon Liberal leadership
+
+date: 2025-05-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7532923.1747074946!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/doris-bill.JPG' alt='A portrait of a woman standing on a sidewalk.' width='620' height='349' title='Former Kwanlin Dun First Nation chief Doris Bill announced her bid for the Yukon Liberal leadership on May 12, 2025.'/><p>The former chief of the Kwanlin Dün First Nation has announced she is running to be the next leader of the Yukon Liberal Party.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/former-kwanlin-d%C3%BCn-chief-doris-bill-seeks-yukon-liberal-leadership-1.7532792?cmp=rss>
+
+---
+
+## Marion Ironquil Meadmore, one of the 1st Indigenous women lawyers in Canada, left 'remarkable' legacy
+
+date: 2025-05-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7532111.1747068857!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/marion-ironquil-meadmore.jpg' alt='A woman in graduation garb poses for a photo.' width='620' height='349' title='Marion Ironquil Meadmore received her law degree from the University of Manitoba in 1977 and was called to the Manitoba bar in 1978.'/><p>Marion Ironquil Meadmore, one of the first Indigenous woman to become a lawyer in Canada, died in Winnipeg on Feb. 19 at age 89. She's being remembered for her ambitious work and enduring legacy that continue to benefit First Nations people in Winnipeg today.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/marion-ironquil-meadmore-obituary-1.7532103?cmp=rss>
+
+---
+
+## Hamas to release last living American hostage 
+
+date: 2025-05-12, from: Vatican News
+
+
+                    <p>21-year-old Edan Alexander is set to be released after 583 days as a hostage, a move Hamas says is a step towards a ceasefire.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/hamas-to-release-last-living-american-hostage.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/hamas-to-release-last-living-american-hostage.html>
+
+---
+
+## Vatican releases Pope Leo XIV's liturgical celebrations for May
+
+date: 2025-05-12, from: Vatican News
+
+
+                    <p>The Holy See Press Office releases Pope Leo XIV's upcoming liturgical celebrations for the month of May, which include the Mass of Inauguration of his Petrine Ministry on Sunday, 18 May, in St. Peter's Square.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-s-liturgical-celebrations-this-may.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-s-liturgical-celebrations-this-may.html>
 
 ---
 
@@ -21,11 +378,35 @@ The United States and China have announced a deal to cut tariffs on each other f
 
 ---
 
-## Brown family to meet the Tánaiste on 28th anniversary
+## Hamas releases Edan Alexander, the last living American Israeli hostage in Gaza
+
+date: 2025-05-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532741.1747067166!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians-us.jpg' alt='A cheering crowd holds posters of a man' width='620' height='349' title='People react as they gather to watch a live broadcast of Israeli-American soldier Edan Alexander to be released from Hamas captivity in Gaza, at a plaza known as the hostages square in Tel Aviv, Monday.'/><p>An American Israeli soldier held hostage for more than 19 months in the Gaza Strip was released Monday, Hamas said, in a goodwill gesture toward the Trump administration that could lay the groundwork for a new ceasefire with Israel.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/edan-alexander-release-1.7532523?cmp=rss>
+
+---
+
+## India has only paused military action and will strike if any further terror attack occurs, Modi says
+
+date: 2025-05-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532726.1747065814!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-pakistan.jpg' alt='The back of a man&apos;s ahead against a backdrop of five TVs showing Modi.' width='620' height='349' title='An Indian man watches the live telecast of Indian Prime Minister Narendra Modi&apos;s speech on television screens, in Prayagraj, in the northern Indian state of Uttar Pradesh, India, Monday, May 12, 2025. (AP Photo/Rajesh Kumar Singh)'/><p>The military operations chiefs of India and Pakistan will discuss on Monday the next steps for the nuclear-armed neighbours after a ceasefire returns calm to the border, following their fiercest fighting in nearly three decades.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-pakistan-ceasefire-1.7532500?cmp=rss>
+
+---
+
+## Brown family have 'very positive' meeting with Tánaiste
 
 date: 2025-05-12, from: RTÉ News
 
-The family of murdered GAA chairman Sean Brown is to meet the Tánaiste Simon Harris in Dublin later, marking the 28th anniversary of his death. 
+The family of Sean Brown say they had a "very positive" meeting Tánaiste, Simon Harris, in Government Buildings this evening, and they left him in "no doubt" about their ongoing campaign for a public inquiry into his murder. 
 
 <br> 
 
@@ -33,11 +414,11 @@ The family of murdered GAA chairman Sean Brown is to meet the Tánaiste Simon Ha
 
 ---
 
-## Garda noticed variation in floor colour at Satchwell home
+## Court told of variation of floor colour at Satchwell home
 
 date: 2025-05-12, from: RTÉ News
 
-The Central Criminal Court has heard gardaí began looking for a body under the stairs in Richard and Tina Satchwell's house, after noticing the concrete there was a different colour to the rest of the floor. 
+The search team looking for the remains of Cork woman Tina Satchwell discovered a human hand after a garda noticed an area of floor where new concrete had been poured. 
 
 <br> 
 
@@ -61,11 +442,59 @@ Devastating floods in South Sudan in recent months left thousands of herders wit
 
 date: 2025-05-12, from: United Nations, Top Stories
 
-Gazans remain at “critical risk of famine”, UN-backed&nbsp;food security experts warned on Monday, a full 19 months since war began with Israel and 70 days since deliveries stopped of all aid and commercial supplies. 
+Gazans remain at “critical risk of famine,” UN-backed&nbsp;food security experts warned on Monday, a full 19 months since war began with Israel and 70 days since deliveries stopped of all aid and commercial supplies. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163131>
+
+---
+
+## UN chief calls for major reforms to cut costs and improve efficiency
+
+date: 2025-05-12, from: United Nations, Top Stories
+
+Amid financial strain and growing global challenges, UN Secretary-General António Guterres is pushing for wide-ranging structural reforms to enhance the world body’s effectiveness. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163151>
+
+---
+
+## World News in Brief: Sudan aid update, child migrant deaths at sea, nursing shortages, invasive pest scourge
+
+date: 2025-05-12, from: United Nations, Top Stories
+
+The UN expressed deep concern on Monday over the impact of ongoing drone attacks on civilian infrastructure across Sudan. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163156>
+
+---
+
+## Gaza: Guterres hails hostage release, renews ceasefire call
+
+date: 2025-05-12, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres welcomed the release of a hostage held in in Gaza on Monday and renewed his call for a permanent ceasefire and greater humanitarian access to the war-torn enclave.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163146>
+
+---
+
+## UN migration agency helping migrants in the US return home voluntarily
+
+date: 2025-05-12, from: United Nations, Top Stories
+
+The United States has asked the International Organization for Migration (IOM) to assist undocumented migrants who choose to return to their home countries.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163141>
 
 ---
 
@@ -173,11 +602,11 @@ date: 2025-05-12, from: Vatican News
 
 ---
 
-## Russia hits 'all along' Ukraine frontline amid truce call
+## Putin is serious about Ukraine peace talks, says Kremlin
 
 date: 2025-05-12, from: RTÉ News
 
-Russia has been "completely ignoring" a 30-day unconditional ceasefire proposed by Kyiv and its allies and is attacking "all along" the front line, Ukrainian Foreign Minister Andriy Sybiga has said. 
+The Kremlin has said that Russian President Vladimir Putin was serious about trying to find peace at talks he has proposed in Turkey, but his spokesman said he could say no more about the talks after Ukraine demanded the Kremlin chief attend. 
 
 <br> 
 
@@ -233,7 +662,7 @@ US President Donald Trump has defended plans to receive a new Air Force One as a
 
 ---
 
-## Fort Qu'Appelle craft store helps Cree designer get his creative groove back
+## Fort Qu'Appelle craft store helps Saulteaux designer get his creative groove back
 
 date: 2025-05-12, from: CBC, Indigenious News
 
@@ -245,11 +674,11 @@ date: 2025-05-12, from: CBC, Indigenious News
 
 ---
 
-## Hamas to release hostage as Israel says no ceasefire
+## Israeli-US hostage freed, Israel says no ceasefire
 
 date: 2025-05-12, from: RTÉ News
 
-Hamas will release Israeli-American hostage Edan Alexander from Gaza, the Palestinian militant group said, although Israel's prime minister said there would be no ceasefire and plans for an intensified military campaign would continue. 
+An Israeli-American hostage has crossed into Israel after his release by Hamas as fighting paused in Gaza, the Israeli military said, but there was no deal on a wider truce or hostage release as monitors warned of famine in the devastated enclave. 
 
 <br> 
 
@@ -269,11 +698,11 @@ date: 2025-05-12, from: CBC, World News
 
 ---
 
-## Opening statements due in Sean 'Diddy' Combs trial
+## Jurors shown video of 'Diddy' Combs assaulting partner
 
 date: 2025-05-12, from: RTÉ News
 
-Opening statements are expected today in the federal sex trafficking trial of Sean 'Diddy' Combs, the music mogul accused of committing years of chilling abuse. 
+Jurors in Sean "Diddy" Combs' sex trafficking trial viewed a 2016 video today in which the hip-hop mogul assaults his then-girlfriend, Casandra Ventura, throws her to the ground in the hallway of a Los Angeles area hotel and kicks her as she tries to enter an elevator. 
 
 <br> 
 
@@ -309,7 +738,7 @@ The UK is hosting European ministers today for "critical" talks on "repelling Ru
 
 date: 2025-05-12, from: RTÉ News
 
-The United States and China said they have agreed a deal to slash reciprocal tariffs for now as the world's two biggest economies seek to end a trade war that has disrupted the global outlook and set financial markets on edge. 
+The United States and China said they have agreed a deal to slash reciprocal tariffs for now, as the world's two biggest economies seek to end a trade war that has disrupted the global outlook and set financial markets on edge. 
 
 <br> 
 
@@ -329,11 +758,11 @@ date: 2025-05-11, from: CBC, World News
 
 ---
 
-## Service to be held at Dublin Castle following garda death
+## Service held at Dublin Castle following garda death
 
 date: 2025-05-11, from: RTÉ News
 
-Garda Commissioner Drew Harris is to attend a service at Dublin Castle this evening for serving and retired colleagues of Garda Kevin Flatley. 
+Senior Garda officers and colleagues of Garda Kevin Flatley, serving and retired, attended a prayer service at Dublin Castle this evening to remember and reflect on the life of another garda who lost his life in the line of duty. 
 
 <br> 
 

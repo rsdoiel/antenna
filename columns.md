@@ -1,46 +1,120 @@
 ---
 title: columns
-updated: 2025-05-12 06:08:32
+updated: 2025-05-12 14:08:41
 ---
 
 # columns
 
-(date: 2025-05-12 06:08:32)
+(date: 2025-05-12 14:08:41)
 
 ---
 
-**@Dave Winer's Scripting News** (date: 2025-05-12, from: Dave Winer's Scripting News)
+##  The Trumpist assault on the federal government is a &#8220;civil war by... 
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/12/peakyBlinders.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I worked my way through all six seasons of <a href="https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)">Peaky Blinders</a>. I had tried it a few times before and found it hard to get started, but this time I persevered, got to know the characters, and enjoyed the stories. I knew the series was about to end as we approached the end of the final episode, and thought things were about to wind down, and then it took a little turn, no spoilers, that maybe was the best ending for any series ever. Originally I thought that honor went to <a href="https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)">Six Feet Under</a>, which had a kickass ending too, but when I re-watched the series recently I realized the rest of the show was pretty awful. Ever had that experience when you thought a show was great, and then re-watched it and realized it was junk? That happened with <a href="https://en.wikipedia.org/wiki/Deadwood_(TV_series)">Deadwood</a> too. After a while I just couldn't watch it, it was so insipid. What was I even thinking the first time around? Not sure what's next on the agenda. I know I'm watching the Knicks tonight, with a certain <a href="http://scripting.com/2024/05/17/134201.html?title=theKnicksAndTheEpicFart">dread</a>. 
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
 
-<br> 
-
-<http://scripting.com/2025/05/12.html#a121035>
-
----
-
-## Florida Backdoor Bill Fails
-
-date: 2025-05-12, updated: 2025-05-12, from: Bruce Schneier blog
-
-<p>A Florida bill requiring encryption backdoors <a href="https://techcrunch.com/2025/05/09/florida-bill-requiring-encryption-backdoors-for-social-media-accounts-has-failed/">failed to pass</a>.</p>
  
 
 <br> 
 
-<https://www.schneier.com/blog/archives/2025/05/florida-backdoor-bill-fails.html>
+<https://kottke.org/25/05/0046828-the-trumpist-assault-on-t>
 
 ---
 
-## The Grift That Keeps on Grifting
+##  &#8220;The Trump administration&#8217;s policy ideas to incentivize women to have more kids... 
 
-date: 2025-05-12, from: Robert Reich's blog
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
 
-Trump just can&#8217;t resist bribes 
+ 
 
 <br> 
 
-<https://robertreich.substack.com/p/the-grift-regime>
+<https://kottke.org/25/05/0046827-the-trump-administrations>
+
+---
+
+##  On Male Social Isolation 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/on-male-social-isolation>
+
+---
+
+##  OMG! The universe is going to decay into nothingness 10^1022 times sooner... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046825-omg-the-universe-is-going>
+
+---
+
+##  Enjoying the Lane 8 Spring 2025 Mixtape this afternoon.... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046824-enjoying-the-lane-8-sprin>
+
+---
+
+## FreeBSD fans rally round zVault upstart
+
+date: 2025-05-12, updated: 2025-05-12, from: Liam Proven's articles at the Register
+
+<h4>Community fork picks up where TrueNAS CORE left off</h4>
+      <p>TrueNAS is alive and well, but iXsystems has shifted its focus to the Linux-based SCALE edition. For the FreeBSD faithful left clinging to CORE, a new contender is limbering up: zVault.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/12/second_preview_zvault/>
+
+---
+
+## That Stupid Apple Notes ‘a’
+
+date: 2025-05-12, updated: 2025-05-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.engadget.com/apps/the-only-thing-i-want-from-apples-big-2025-redesign-is-a-120023531.html>
+
+---
+
+##  This is a little bit genius: an analysis of OpenAI based on... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046823-this-is-a-little-bit>
+
+---
+
+##  Here Is Everything That Has Changed Since Congestion Pricing Started in New... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046822-here-is-everything-that-h>
 
 ---
 
@@ -170,11 +244,211 @@ This one seemed to be open.</p>
 
 <p><img loading="lazy" src="2025-05-11-novigrad-27.jpg" alt="Sunset with sailing boat" /></p>
 
-<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a></p> 
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-05-11-novigrad>
+
+---
+
+## 2025-05-12 Novigrad – Dajla
+
+date: 2025-05-12, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-12-novigrad-dajla">2025-05-12 Novigrad – Dajla</h1>
+
+<p>Today was a no-car day. Yay! We got up, had breakfast, went for a walk, came back, and went for a slow 16km jog along the coast, with a stop for water and palačinke (crêpes). So nice!</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-1.jpg" alt="a screenshot of a map with our route" /></p>
+
+<p>A jasmine closeup.
+Or so I thought. The smell was so strong.
+But then again, it didn’t quite look like the jasmin I saw in Thailand. And Flora Incognita says:</p>
+
+<p>Chinesischer Klebsame<br>
+Pittosporum tobira</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-2.jpg" alt="white flowers" /></p>
+
+<p>Looks like cloves I thought. Stand amidst some clover, I thought. But the app says:</p>
+
+<p>Gegliederter Sauerklee<br>
+Oxalis articulata</p>
+
+<p>What? Learning new thin gs every day!</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-3.jpg" alt="pink flowers with leaves consisting of three parts" /></p>
+
+<p>On the run, along some olive trees…</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-4.jpg" alt="olive trees" /></p>
+
+<p>On and on…</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-5.jpg" alt="a dirt road between trees" />
+<img loading="lazy" src="2025-05-12-dajla-6.jpg" alt="a dirt road and the icean visible between the trees" /></p>
+
+<p>Italienischer Aronstab<br>
+Arum italicum</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-7.jpg" alt="a big leaf pointing up, wrapped around a yellow rod" /></p>
+
+<p>Alex and Claudia on the run. Happy!</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-8.jpg" alt="I’m wearing a hat against the sun" /></p>
+
+<p>The beach is always stony, never sandy.</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-9.jpg" alt="bushes separating dirt track from the ocean" />
+<img loading="lazy" src="2025-05-12-dajla-10.jpg" alt="more rocks" />
+<img loading="lazy" src="2025-05-12-dajla-11.jpg" alt="pine trees on the coast" /></p>
+
+<p>The trail took us through camping grounds and endless holiday bungalow settlements, most of them empty. If you ever come here, don’t come between June and September because the infrastructure here is built of a gazillion tourists. May is great, I’d say. But we’ve been very lucky with the weather.</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-12.jpg" alt="holiday homes beneath pine trees" /></p>
+
+<p>Rote Mittagsblume<br>
+Carpobrotus acinaciformis</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-13.jpg" alt="pink-yellow flowers with thick leaves in a triangular cross section" /></p>
+
+<p>More bungalows beneath pine trees.</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-14.jpg" alt="pine trees providing shade to the people below" /></p>
+
+<p>Another one of these pittosporum bushes.</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-15.jpg" alt="a small tree in bloom" /></p>
+
+<p>And a last stretch of the coast.</p>
+
+<p><img loading="lazy" src="2025-05-12-dajla-16.jpg" alt="a stony beach" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-12-dajla>
+
+---
+
+##  Jimmy Carter for The Onion: You People Made Me Give Up My... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046821-jimmy-carter-for-the-onio>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-12, from: Dave Winer's Scripting News)
+
+Google may be forced, for the public good, to sell Chrome, or spin it off as an independent company. Who would you want it not sold to? If it were independent how would it make enough money to maintain the software? What should change? What should not? 
+
+<br> 
+
+<http://scripting.com/2025/05/12.html#a153722>
+
+---
+
+##  4chan Is Dead. Its Toxic Legacy Is Everywhere. &#8220;Twitter became 4chan, then... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046799-4chan-is-dead-its-toxic>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-12, from: Dave Winer's Scripting News)
+
+There must be a group of librarians somewhere exploring ChatGPT-like products as a completely new library experience. 
+
+<br> 
+
+<http://scripting.com/2025/05/12.html#a151318>
+
+---
+
+## How to make a Link Aggregator in Obsidian
+
+date: 2025-05-12, from: Dave Rupert blog
+
+<p>I’m finishing up my move from Notion to Obsidian and one complexity I encountered was all my saved links. In the almost seven years of using Notion, I amassed a ~1.2 GB database of links. This is because of how the Notion Web Clipper creates a backup of the article and its assets. While this is gold to an internet archivist… I really only use this feature to sneak around paywalls. Moving to Obsidian gave me a chance to rethink my link collection process and along the way I figured out how to make an automated Link Aggregator that I could parlay into a newsletter-like blog post.</p>
+<h2>Step 1: Install Obsidian Web Clipper</h2>
+<p>The first step was to capture links. I had looked at <a href="https://medium.com/@_jonas/quick-bookmarks-clippings-in-obsidian-3050d375697a">creating a custom bookmarklet</a>, but as I rolled this out across my iPad, iPhone, personal computer, and work computer, the foundation wasn’t sturdy. If I made a change in how I wanted it to work, I’d have to manually edit half-a-dozen JavaScript bookmarklets. The path of least resistance was to embrace Obsidian Web Clipper, the community standard browser extension for this sort of task instead that is available in all browsers.</p>
+<p><img src="https://cdn.daverupert.com/posts/2025/obsidian-web-clipper-add-item-popup.jpg" alt="The Obsidian Add Item Popup window with fields like title, tags, description, and published date" /></p>
+<p>Obsidian Web Clipper actually solves a long-standing issue I had with Notion Web Clipper, I couldn’t add tags in the “Add Item” workflow, you had to bounce out to the app and manage it there. Obsidian Web Clipper let’s you add tags right there in the “Add Item” window. But it’s not all roses because Obsidian will <em>always</em> bounce you out to the application for saving. Weirdly –because it’s the same as what I didn’t like about Notion– I don’t mind this in Obsidian because it gives me a chance to review the content I’m digitally hoarding.</p>
+<p>Obsidian Web Clipper will also scrape the text, which is handy for retrieval later, but critically it doesn’t save images and hotlinks to the production assets. This might upset archivists, but as someone who doesn’t want a 1.2 GB link database again, I welcome it.</p>
+<p>I know AI is a controversial topic, but this is one place I would welcome an LLM to summarize articles and provide some bullet points for reference later. Perhaps a short list of other publications that have referenced this article as well? I’m spit-balling, but I don’t need scraped text, what I need is something to jog my memory.</p>
+<p>If I had more time, I’d grab some quotes I found interesting and <a href="https://notes.jim-nielsen.com/">do like Jim does</a> and add my own thoughts and notes as a response. Are “reaction blogs” a thing? I guess they are.</p>
+<p><img src="https://cdn.daverupert.com/posts/2025/obsidian-web-clipper-settings.jpg" alt="The Obsidian Web Clipper Settings page where you customize the fields you want to see for your link template" /></p>
+<p>The one change I make to the Default template is to remove some fields and set my default Note Location folder to “Inputs/Links”. This is unique to how I have my vault organized (more on that later), but links are easy to accumulate and I find having a dedicated bucket for them will save you cognitive load later.</p>
+<h2>Step 2: Write a brief summary</h2>
+<p>My link aggregation process has one mandatory process step: Write a brief summary. A short tweet-length description of why I found this link interesting or useful. This is akin to the “WHY?” column in a database that we’ve been discussing on Shop Talk this year. Why was this link cool enough to collect? Why did I find it interesting? What were my thoughts?</p>
+<p>Actual human thoughts are becoming a valuable commodity these days.</p>
+<p>In Obsidian Web Clipper there’s a <code>description</code> field that by default grabs the document description meta tag. This is not useful most of the time, but can give you some text to shape if you’re in a hurry.</p>
+<h2>Step 3: Generate a DataView</h2>
+<p>The last step is to create a New Note called “Link Aggregator” to generate a list of links I can copy over to a Markdown file in my blog. To do that I use the <a href="https://blacksmithgu.github.io/obsidian-dataview/">Dataview</a> plugin, which allows you to use an SQL-like query language to generate a <code>LIST</code> or <code>TABLE</code> of content based on your query.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```dataview
+LIST WITHOUT ID elink(file.frontmatter.source, file.name)+
+                ": "+file.frontmatter.description
+FROM "Inputs/Links"
+WHERE file.ctime &gt;= date(today) - dur(1 week)
+SORT file.name ASC
+```
+</code></pre></div></div>
+<p>There’s a lot to Dataview, but this query will generate a list of external links from my Links folder that I added within the last week. Now I can slurp up those links and put them in a blog post or newsletter.</p>
+<p>Process-wise, I have to copy the Dataview-generated list into a New Note in Obsidian because copying the text from the Link Aggregator page to my blog pastes the Dataview query. Creating a dummy Note isn’t ideal but at least I have a workaround. I’m sure I’m one plugin away from being able to export markdown from a Dataview query.</p>
+<h2>Happy Aggregating!</h2>
+<p>Like other ideas in my life, I’ve tried to make this as low-effort as possible or else I won’t do it. I think I have a system in place that allows me to do what I was already doing (collect links), but a more efficient and effective way to do something I want to do more (share links). If this is useful, feel free to steal this idea and make your own aggregator.</p>
+<p>The Web is a network of content, let’s build the network. Blogs linking to other blogs are the best blogs, let’s not lose that part of blogging. We are in algorithmic content bubbles looking at different Internets, let’s pop those bubbles by sharing what we find in our Internet journeys.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/05/obsidian-link-aggregator/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/12/peakyBlinders.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I worked my way through all six seasons of <a href="https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)">Peaky Blinders</a>. I had tried it a few times before and found it hard to get started, but this time I persevered, got to know the characters, and enjoyed the stories. I knew the series was about to end as we approached the end of the final episode, and thought things were about to wind down, and then it took a little turn, no spoilers, that maybe was the best ending for any series ever. Originally I thought that honor went to <a href="https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)">Six Feet Under</a>, which had a kickass ending too, but when I re-watched the series recently I realized the rest of the show was pretty awful. Ever had that experience when you thought a show was great, and then re-watched it and realized it was junk? That happened with <a href="https://en.wikipedia.org/wiki/Deadwood_(TV_series)">Deadwood</a> too. After a while I just couldn't watch it, it was so insipid. What was I even thinking the first time around? Not sure what's next on the agenda. I know I'm watching the Knicks tonight, with a certain <a href="http://scripting.com/2024/05/17/134201.html?title=theKnicksAndTheEpicFart">dread</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/12.html#a121035>
+
+---
+
+## Florida Backdoor Bill Fails
+
+date: 2025-05-12, updated: 2025-05-12, from: Bruce Schneier blog
+
+<p>A Florida bill requiring encryption backdoors <a href="https://techcrunch.com/2025/05/09/florida-bill-requiring-encryption-backdoors-for-social-media-accounts-has-failed/">failed to pass</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/florida-backdoor-bill-fails.html>
+
+---
+
+## The Grift That Keeps on Grifting
+
+date: 2025-05-12, from: Robert Reich's blog
+
+Trump just can&#8217;t resist bribes 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-grift-regime>
 
 ---
 

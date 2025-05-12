@@ -1,11 +1,291 @@
 ---
 title: snapshots
-updated: 2025-05-12 06:08:38
+updated: 2025-05-12 14:08:47
 ---
 
 # snapshots
 
-(date: 2025-05-12 06:08:38)
+(date: 2025-05-12 14:08:47)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-12, from: Dave Winer's linkblog)
+
+Trump names Todd Blanche Acting Librarian of Congress, his former defense attorney. 
+
+<br> 
+
+<https://www.npr.org/2025/05/12/nx-s1-5395879/trump-todd-blanche-librarian-congress>
+
+---
+
+## ChatGPT Blows Mapmaking 101
+
+date: 2025-05-12, from: Gary Marcus blog
+
+A Comedy of Errors 
+
+<br> 
+
+<https://garymarcus.substack.com/p/chatgpt-blows-mapmaking-101>
+
+---
+
+## The  Copyright Office Report about Fair Use in AI & the Dismissal of the Register of Copyrights: A Drama in Three Parts
+
+date: 2025-05-12, from: Authors Union blogs
+
+The last few days have been quite dramatic for anyone paying attention to copyright law and policy.&#160; The Generative AI [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/12/the-copyright-office-report-about-fair-use-in-ai-the-dismissal-of-the-register-of-copyrights-a-drama-in-three-parts/>
+
+---
+
+## Dr. Dobb's Journal Interviews Jef Raskin (1986)
+
+date: 2025-05-12, from: Computer ads from the Past
+
+They discuss interface design and Raskin's hatred of the mouse. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin>
+
+---
+
+## Milk-V Jupiter NX is now available (NVIDIA Jetson NX-like compute module with a SpacemiT K1 RISC-V processor )
+
+date: 2025-05-12, from: Liliputing
+
+<p>The Milk-V Jupiter NX is a computer-on-a-module that looks like a stick of laptop memory. It&#8217;s compatible with carrier boards designed for the NVIDIA Jetson NX compute module, but while NVIDIA&#8217;s hardware combines an ARM-based processor with NVIDIA graphics and an AI accelerator, the Milk-V module has an 8-core RISC-V processor and a 2 TOPS NPU. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/milk-v-jupiter-nx-is-now-available-nvidia-jetson-nx-like-compute-module-with-a-spacemit-k1-risc-v-processor/">Milk-V Jupiter NX is now available (NVIDIA Jetson NX-like compute module with a SpacemiT K1 RISC-V processor )</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/milk-v-jupiter-nx-is-now-available-nvidia-jetson-nx-like-compute-module-with-a-spacemit-k1-risc-v-processor/>
+
+---
+
+## Las películas más esperadas del Festival de Cannes 2025
+
+date: 2025-05-12, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Mañana inicia la 78ª edición del Festival de Cannes, el certamen cinematográfico más prestigioso del mundo, el cual se extenderá hasta el 24 de mayo en la icónica ciudad costera de Francia. Con más de siete décadas de historia, Cannes sigue siendo el epicentro del cine mundial, un escaparate de narrativas audaces y talentos emergentes [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/las-peliculas-mas-esperadas-del-festival-de-cannes-2025/">Las películas más esperadas del Festival de Cannes 2025</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/las-peliculas-mas-esperadas-del-festival-de-cannes-2025/?utm_source=rss&utm_medium=rss&utm_campaign=las-peliculas-mas-esperadas-del-festival-de-cannes-2025>
+
+---
+
+## o3 o4-mini o1-pro
+
+date: 2025-05-12, updated: 2025-05-12, from: Simon Willison’s Weblog
+
+<p>It's interesting how much my perception of o3 as being the latest, best model released by OpenAI is tarnished by the co-release of o4-mini. I'm also still not entirely sure how to compare o3 to o1-pro, especially given o1-pro is 15x more expensive via the OpenAI API.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/o1">o1</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/12/o3/#atom-everything>
+
+---
+
+## Pasteboard Privacy Preview in macOS 15.4
+
+date: 2025-05-12, from: Michael Tsai
+
+Apple (via Jeff Nadeau): Prepare your app for an upcoming feature in macOS that alerts a person using a device when your app programmatically reads the general pasteboard. The system shows the alert only if the pasteboard access wasn&#8217;t a result of someone&#8217;s input on a UI element that the system considers paste-related. This behavior [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/12/pasteboard-privacy-preview-in-macos-15-4/>
+
+---
+
+## AI and Google Search Volume in Safari
+
+date: 2025-05-12, from: Michael Tsai
+
+Hartley Charlton: Apple is looking at reworking Safari to directly support AI-powered search services, Bloomberg&#8217;s Mark Gurman reports.[&#8230;]Cue said that searches on Safari dipped for the first time in April 2025&#8212;a change which he attributed to users switching to AI services. He added that he believes AI services such as ChatGPT, Perplexity, and Claude will [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/12/ai-and-google-search-volume-in-safari/>
+
+---
+
+## iPhone 16 Bluetooth Issues With Toyota RAV4
+
+date: 2025-05-12, from: Michael Tsai
+
+Adam Engst: Lauri returned her iPhone 16 Plus, replacing it with an iPhone 15 Plus. She was driven to such a seemingly nonsensical move by insurmountable problems getting the iPhone 16 Plus to pair via Bluetooth with her 2019 Toyota RAV4. The iPhone would initially pair with the RAV4 with no problem, but when she [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/12/iphone-16-bluetooth-issues-with-toyota-rav4/>
+
+---
+
+## Apple Appeals Epic Anti-Steering Injunction
+
+date: 2025-05-12, from: Michael Tsai
+
+Under the Radar (David Smith): I maintain a sense of optimism that this situation could ultimately lead to a meaningful reset in the developer relationship. Maybe that is naive optimism but I think it is the best chance we&#8217;ve had in a while. Bruce: This situation could ultimately lead to a meaningful reset. But reading [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/12/apple-appeals-epic-anti-steering-injunction/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-12, from: Dave Winer's linkblog)
+
+Are there any diseases that make your skin yellow? 
+
+<br> 
+
+<https://claude.ai/share/c3b56740-bba8-4725-b749-f2cd28361ff3>
+
+---
+
+## Unofficial mainboard for the Lenovo ThinkPad X200 turns a laptop from 2008 into a modern machine
+
+date: 2025-05-12, from: Liliputing
+
+<p>The Lenovo ThinkPad X200 is a laptop that was released in 2008. But its classic design still appeals to some long-time enthusiasts who appreciate the laptop&#8217;s iconic keyboard with a TrackPoint nub in the center and 12.1 inch display with a 16:10 aspect ratio. The notebook&#8217;s aging specs don&#8217;t really cut it in 2025 though. So developer [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/unofficial-mainboard-for-the-lenovo-thinkpad-x200-turns-a-laptop-from-2008-into-a-modern-machine/">Unofficial mainboard for the Lenovo ThinkPad X200 turns a laptop from 2008 into a modern machine</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/unofficial-mainboard-for-the-lenovo-thinkpad-x200-turns-a-laptop-from-2008-into-a-modern-machine/>
+
+---
+
+## Soap's Cleaning Magic
+
+date: 2025-05-12, from: Guy Kawasaki blog
+
+Paul E. Richardson, Professor of Biochemistry, Coastal Carolina University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/soaps-cleaning-magic>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-12, from: Dave Winer's linkblog)
+
+Harvard Letter Points to ‘Common Ground’ With Trump Administration. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/12/us/harvard-response-trump-letter.html?unlocked_article_code=1.Gk8.QIVL.2xUuq_fclUH8&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-12, from: Dave Winer's linkblog)
+
+MTA opens ‘biker’s paradise’ on RFK. 
+
+<br> 
+
+<https://www.amny.com/nyc-transit/mta-bike-path-rfk-triborough-bridge/>
+
+---
+
+## 900 People Are Collectively Driving an 'Internet Roadtrip' on Google Street View
+
+date: 2025-05-12, from: 404 Media Group
+
+The new site is a cozy and chaotic sucessor to 'Twitch plays Pokémon. 
+
+<br> 
+
+<https://www.404media.co/900-people-are-collectively-driving-an-internet-roadtrip-on-google-street-view/>
+
+---
+
+## US temporarily lowers tariffs on Chinese shipments to 30 percent
+
+date: 2025-05-12, from: Liliputing
+
+<p>US and Chinese officials met over the weekend to talk trade and so far the result is that the US has agreed to temporarily lower tariffs on most items shipped from China to the US, while China has also agreed to lower tariffs and allow shipments of rare earth metals for the time being. For [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/us-temporarily-lowers-tariffs-on-chinese-shipments-to-30-percent/">US temporarily lowers tariffs on Chinese shipments to 30 percent</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/us-temporarily-lowers-tariffs-on-chinese-shipments-to-30-percent/>
+
+---
+
+## New Bill Would Make All Pornography a Federal Crime in the U.S.
+
+date: 2025-05-12, from: 404 Media Group
+
+Republican Senator Mike Lee introduced Interstate Obscenity Definition Act (again) last week, which would criminalize porn at the federal level. 
+
+<br> 
+
+<https://www.404media.co/mike-lee-porn-law-interstate-obscenity-definition-act/>
+
+---
+
+## Republicans Try to Cram Ban on AI Regulation Into Budget Reconciliation Bill
+
+date: 2025-05-12, from: 404 Media Group
+
+Republicans try to use the Budget Reconciliation bill to stop states from regulating AI entirely for 10 years.  
+
+<br> 
+
+<https://www.404media.co/republicans-try-to-cram-ban-on-ai-regulation-into-budget-reconciliation-bill/>
+
+---
+
+## 10 Years of Memories at LinuxFest Northwest
+
+date: 2025-05-12, from: System76 Blog
+
+System76 reminisces on the last 10 years attending LinuxFest Northwest. 
+
+<br> 
+
+<https://blog.system76.com/post/10-years-of-linuxfest-northwest>
+
+---
+
+## Raspberry Pi Pico 2 Snake game console
+
+date: 2025-05-12, from: Raspberry Pi News (.com)
+
+<p>Maker Arnov Sharma recreated the iconic 1990s mobile phone game Snake using a Raspberry Pi Pico 2 and an LED matrix.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-pico-2-snake-game-console/">Raspberry Pi Pico 2 Snake game console</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/raspberry-pi-pico-2-snake-game-console/>
+
+---
+
+## When an Arsonist Poses as a Firefighter
+
+date: 2025-05-12, from: Paul Krugman
+
+Tariffs: What the hell just happened? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/when-an-arsonist-poses-as-a-firefighter>
 
 ---
 

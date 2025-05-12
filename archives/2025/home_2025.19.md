@@ -1,11 +1,129 @@
 ---
 title: home
-updated: 2025-05-12 06:08:34
+updated: 2025-05-12 14:08:44
 ---
 
 # home
 
-(date: 2025-05-12 06:08:34)
+(date: 2025-05-12 14:08:44)
+
+---
+
+## 8 Ways To Use Toothpaste That Go Beyond Brushing Your Teeth
+
+date: 2025-05-12, from: Family Handyman Blog
+
+<p>There are several unconventional uses of toothpaste out there if you're in a bind. We've rounded up a few of them here. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/toothpaste-hacks/">8 Ways To Use Toothpaste That Go Beyond Brushing Your Teeth</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/toothpaste-hacks/>
+
+---
+
+## Does Painting Your House a Dark Color Make It Warmer?
+
+date: 2025-05-12, from: Family Handyman Blog
+
+<p>Depending on your climate, the color of your home can keep you more comfortable, plus save you money.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/painting-your-house-dark-color-warmer/">Does Painting Your House a Dark Color Make It Warmer?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/painting-your-house-dark-color-warmer/>
+
+---
+
+## Budget Breakdown: After a $322K Revamp, an Australian Beach House Fends Off Flooding
+
+date: 2025-05-12, from: Dwell
+
+Nigel Chouri and Crick King bought the tattered ’50s property for $911K and introduced water-resistant features, a Spanish-style plaza, and a dreamy garden ADU. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-cal-somni-blankslate-beach-shack-renovation-australia-eafe94d5>
+
+---
+
+## The Art of Distressing Furniture: Achieve a Beautifully Worn Look
+
+date: 2025-05-12, from: Family Handyman Blog
+
+<p>In this project, you'll learn how to distress furniture with chalk paint and glaze to breathe new life into tired or boring pieces.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-distress-furniture/">The Art of Distressing Furniture: Achieve a Beautifully Worn Look</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-distress-furniture/>
+
+---
+
+## For $1.2M, You Can Nab This Quirky Cabin on Martha’s Vineyard
+
+date: 2025-05-12, from: Dwell
+
+The ’70s home might be clad in traditional wood shingles—but its angular, elevated form is anything but conventional. 
+
+<br> 
+
+<https://www.dwell.com/article/marthas-vineyard-robert-orr-real-estate-8cae23df>
+
+---
+
+## The Adobe Revival Is Here
+
+date: 2025-05-12, from: Dwell
+
+As blazes burn our homes, a smattering of mud evangelists are resurfacing the ancient, fireproof building style as a solution for the future. 
+
+<br> 
+
+<https://www.dwell.com/article/adobe-revival-fireproof-home-building-cornerstones-78b82637>
+
+---
+
+## Understanding Conifer Needle Drop: 7 Common Causes
+
+date: 2025-05-12, from: The Gardener's Path
+
+<p>Needle drop in conifers can be a normal part of their growth cycle or a sign of a problem such as disease, pests, or stress. To determine whether its normal or not will depend on timing and pattern of the shedding foliage. Learn about seven common reasons why conifers lose their needles in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/conifer-needle-drop/">Understanding Conifer Needle Drop: 7 Common Causes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/conifer-needle-drop/>
+
+---
+
+## A Remote Island Retreat’s Hefty Wooden Doorknob Hints at Its Highly Custom Interiors
+
+date: 2025-05-12, from: Dwell
+
+A fieldstone kitchen island rhymes with a hearth in the sunken living room, accessed by a built-in set of walnut stairs framing a sofa. 
+
+<br> 
+
+<https://www.dwell.com/article/pine-island-cottage-bureau-tempo-and-thom-fougere-gren-weis-architect-and-associates-family-retreat-ba7704a3>
+
+---
+
+## How and When to Fertilize Japanese Maple Trees
+
+date: 2025-05-12, from: The Gardener's Path
+
+<p>A Japanese maple looks absolutely glorious – and even more so when you fertilize it properly! In our guide to feeding A. palmatum trees, we cover everything you need to know to provide your Japanese maple with the proper nutrition, including timing, techniques, and why you should bother fertilizing in the first place.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/fertilize-japanese-maple/">How and When to Fertilize Japanese Maple Trees</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/fertilize-japanese-maple/>
 
 ---
 

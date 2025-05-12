@@ -1,11 +1,182 @@
 ---
 title: pacific
-updated: 2025-05-12 06:08:30
+updated: 2025-05-12 14:08:39
 ---
 
 # pacific
 
-(date: 2025-05-12 06:08:30)
+(date: 2025-05-12 14:08:39)
+
+---
+
+## Planetary scientist selected as Artist in Residence at international conference
+
+date: 2025-05-12, from: University of Hawaiʻi News
+
+<p>Burkhard created a space for reflection and conversation, while also emphasizing sustainability by repurposing materials from the conference itself.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/planetary-scientist-artist-in-residence/">Planetary scientist selected as Artist in Residence at international conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/planetary-scientist-artist-in-residence/>
+
+---
+
+## UH joins national call to defend independent higher education governance
+
+date: 2025-05-12, from: University of Hawaiʻi News
+
+<p>The letter affirms that the strength and global reputation of higher education in the U.S. rest on the independent authority of boards to govern in the best interests of their institutions, free from external political or ideological pressures.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/defend-independent-higher-education-governance/"><abbr>UH</abbr> joins national call to defend independent higher education governance</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/defend-independent-higher-education-governance/>
+
+---
+
+## AI adoption grows on Guam while workforce faces new demands
+
+date: 2025-05-12, from: Pacific Island Times
+
+Guam’s path to an AI-enhanced economy differs from that of the mainland. While major markets have embraced remote work and large-scale automation, Guam’s transformation is shaped by local realities—slower internet speeds, a heavy reliance on hospitality jobs and a military presence that alters demand for specialized tech skills. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ai-adoption-grows-on-guam-while-workforce-faces-new-demands>
+
+---
+
+## Communist infiltrators or American Dream seekers? Why Chinese nationals risk their lives at sea to enter Guam
+
+date: 2025-05-12, from: Pacific Island Times
+
+Against the backdrop of geopolitical tensions between the United States and China, some suspect that the Chinese nationals were spies for their communist government.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/communist-infiltrators-or-american-dream-seekers-why-chinese-nationals-risk-their-lives-at-sea-to-e>
+
+---
+
+## Provost Bruno: Congratulations and mahalo!
+
+date: 2025-05-12, from: University of Hawaiʻi News
+
+<p>&#8220;As we close another remarkable academic year, I want to take a moment to congratulate each of you on reaching this milestone.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/provost-bruno-congratulations-and-mahalo/">Provost Bruno: Congratulations and mahalo!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/provost-bruno-congratulations-and-mahalo/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Zoning should be reformed, not removed
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+AS a longtime business owner with experience in both private enterprise and public development here in Saipan, I’ve had a front-row seat to the challenges and opportunities our island faces as it grows. One issue now on the table — zoning — deserves not just heated debate, but honest reflection rooted in our community’s needs. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/zoning-should-be-reformed-not-removed/article_63abd82c-54ff-4a03-ba7b-a11967810963.html>
+
+---
+
+## Recreational facilities are essential
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+SUBJECT: House Local Bill No. 24-3: To appropriate remaining fund balances of the $85,000 under the Saipan Local Law 23-04 for the repair, maintenance, and improvements of recreational facilities in Precinct IV; and for other purposes. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/recreational-facilities-are-essential/article_a8b5f784-c4de-497d-8cb9-b143d564e5a2.html>
+
+---
+
+## Commerce champions export growth through specialized training for local businesses with SBDC support
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center Network at Northern Marianas College proudly supported the CNMI Department of Commerce in delivering the sold-out workshop “What to Expect When You’re Exporting” on Friday, May 2, 2025, at the Crowne Plaza Resort Saipan. The Department of Commerce fully sponsored and facilitated the event, reaffirming its commitment to building capacity among CNMI-based small businesses seeking to enter the global market and federal supply chain. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/commerce-champions-export-growth-through-specialized-training-for-local-businesses-with-sbdc-support/article_12459ceb-92f3-464e-b126-19ebb4bccf97.html>
+
+---
+
+## Get to know the 79th Liberation Day Royal Court candidates
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+AS preparations are underway for the 79th Liberation Day celebrations, a new generation of inspiring young women steps into the spotlight. The 2025 Liberation Day Royal Court candidates represent the unique stories, dreams, and cultures of the Northern Mariana Islands. Hailing from Saipan, Tinian, and Rota, these young women bring pride to their home islands as they step forward not just as representatives, but as advocates for education, culture, leadership, and youth empowerment. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/get-to-know-the-79th-liberation-day-royal-court-candidates/article_c9c57801-9ae5-482d-a2e7-e18c27fcfb12.html>
+
+---
+
+## Poetry
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_5a71a1f1-eb28-4021-a777-44558db54197.html>
+
+---
+
+## ‘Rust’ is a serviceable Western, haunted throughout by its tragic offscreen history
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+(AP) — Surely, bringing an audience to tears with a poignant ending is something every filmmaker dreams of. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/rust-is-a-serviceable-western-haunted-throughout-by-its-tragic-offscreen-history/article_678a4bf3-6178-4463-8a44-df8e251ca7d2.html>
+
+---
+
+## ‘Hamilton’ author Ron Chernow’s new book takes on an icon of American letters, Mark Twain
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+NEW YORK (AP) — Historian Ron Chernow’s latest work may surprise readers who know him best for the book which inspired the musical “Hamilton” and for his biographies of George Washington and Ulysses Grant. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/hamilton-author-ron-chernow-s-new-book-takes-on-an-icon-of-american-letters-mark/article_989987d5-c2bd-4fa7-baa9-506ec0674226.html>
+
+---
+
+## DPW sets new standard with solid waste training program
+
+date: 2025-05-12, updated: 2025-05-12, from: Marianas Variety
+
+NINETEEN employees from the Department of Public Works became the first group to complete solid waste management training with the Northern Marianas Technical Institute on May 1. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpw-sets-new-standard-with-solid-waste-training-program/article_4cee0c5d-9d75-4d61-b35a-f517db5bfbd3.html>
 
 ---
 
