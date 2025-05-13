@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-05-12 14:08:44
+updated: 2025-05-13 06:08:04
 ---
 
 # motorcycles
 
-(date: 2025-05-12 14:08:44)
+(date: 2025-05-13 06:08:04)
+
+---
+
+## This Monster Trike's First Steering Test Doesn't Go to Plan, Snaps in Half
+
+date: 2025-05-13, from: Ride Apart, Electric Motorcycle News
+
+Well, there's your problem.  
+
+<br> 
+
+<https://www.rideapart.com/news/759327/grind-hard-plumbing-co-monster-trike-video/>
+
+---
+
+## Harley-Davidson’s Limited Fat Boy Gray Ghost Screams “Look At Me”
+
+date: 2025-05-13, from: Ride Apart, Electric Motorcycle News
+
+How much chrome is too much chrome?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759238/harley-davidson-fat-boy-gray-ghost-specs-features/>
+
+---
+
+## Is Aprilia's Jorge Martin Retiring From MotoGP?
+
+date: 2025-05-13, from: Ride Apart, Electric Motorcycle News
+
+There aren't any seats left, so where's he going if anywhere? 
+
+<br> 
+
+<https://www.rideapart.com/news/759321/jorge-martin-motogp-aprilia-leaving/>
+
+---
+
+## Holley Launches UTV Performance Packs for Can-Am and Polaris
+
+date: 2025-05-13, from: Ride Apart, Electric Motorcycle News
+
+Get ready to send it.  
+
+<br> 
+
+<https://www.rideapart.com/news/759363/holley-performance-utv-packages-can-am-maverick-polaris-rzr/>
+
+---
+
+## Norton Motorcycles is Rising From the Ashes, Will Enter India This Year
+
+date: 2025-05-13, from: Ride Apart, Electric Motorcycle News
+
+Small-displacement India-specific models are reportedly in the pipeline, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759237/norton-coming-india-end-2025/>
 
 ---
 

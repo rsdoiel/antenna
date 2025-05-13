@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-05-12 14:08:40
+updated: 2025-05-13 06:07:59
 ---
 
 # science and technology
 
-(date: 2025-05-12 14:08:40)
+(date: 2025-05-13 06:07:59)
+
+---
+
+## Boffins warn that AI paper mills are swamping science with garbage studies
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Research flags rise in one-dimensional health research fueled by large language models</h4> <p>A report from a British university warns that scientific knowledge itself is under threat from a flood of low-quality AI-generated research papers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/ai_junk_science_papers/>
+
+---
+
+## After more than half a century, the voyage of Kosmos 482 is over
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>The Soviet Union aimed for Venus, but hit the Indian Ocean instead</h4> <p>The odyssey of the Soviet Union&#39;s failed attempt to reach Venus came to an end over the weekend with the probe either disintegrating during reentry or what remained of it splashing harmlessly into the ocean.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/after_more_than_half_a/>
+
+---
+
+## Marks &amp; Spencer admits cybercrooks made off with customer info
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Market cap down by more than £1B since April 22</h4> <p>Marks &amp; Spencer has confirmed that customer data was stolen as part of its cyberattack, fueling conjecture that ransomware was involved.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/ms_confirms_customer_data_stolen/>
+
+---
+
+## As US vuln-tracking falters, EU enters with its own security bug database
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>EUVD comes into play not a moment too soon</h4> <p>The European Vulnerability Database (EUVD) is now fully operational, offering a streamlined platform to monitor critical and actively exploited security flaws amid the US struggles with budget cuts, delayed disclosures, and confusion around the future of its own tracking systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/eu_security_bug_database/>
+
+---
+
+## Aubrie Henspeter: Leading Commercial Lunar Missions
+
+date: 2025-05-13, from: NASA breaking news
+
+As NASA partners with American industry to deliver science and technology payloads to the Moon, a dedicated team behind the scenes ensures every mission is grounded in strategy, compliance, and innovation. Leading that effort is Aubrie Henspeter, who advises all aspects of procurement for NASA’s Commercial Lunar Payload Services (CLPS) initiative—one of the cornerstone projects [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/aubrie-henspeter-leading-commercial-lunar-missions/>
+
+---
+
+## Tech suppliers asked to support single electronic health record across England
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Labour health secretary’s vision for one record to rule &#39;em all, for each patient, set to come to market</h4> <p>The state health service for England has asked tech suppliers to submit ideas to help it build an online service for a single health record, as promised by the country&#39;s Health Minister last year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/uk_health_department_calls_for/>
+
+---
+
+## Nextcloud cries foul over Google Play Store app rejection
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Claims policy change is really just a way to squeeze out competition</h4> <p><strong>Exclusive</strong>  European software vendor Nextcloud has accused Google of deliberately crippling its Android Files application, which it says has more than 800,000 users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/nextcloud_play_store_complaint/>
+
+---
+
+## Türkiye-linked spy crew exploited a messaging app zero-day to snoop on Kurdish army in Iraq
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>&#39;MarbledDust&#39; gang has honed the skills it uses to assist Ankara</h4> <p>Turkish spies exploited a zero-day bug in a messaging app to collect info on the Kurdish army in Iraq, according to Microsoft, which says the attacks began more than a year ago.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/turkish_spies_messaging_app/>
+
+---
+
+## OpenAI wants to build a subscription for something like an AI OS, with SDKs and APIs and 'surfaces'
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>CEO Sam Altman has no master plan but imagines custom models built on everything you’ve ever said or read</h4> <p>OpenAI CEO Sam Altman says his company doesn’t have a master plan but does hope to develop a product that’s akin to a subscription operating system, but for AI, and models that ingest every experience you have in your life…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/openai_ceo_altman_no_plans/>
+
+---
+
+## Linus Torvalds goes back to a mechanical keyboard after making too many typos
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Linux 6.15 is coming along nicely too, unless autocorrect messes things up</h4> <p>Linux kernel project boss Linus Torvalds has re-joined the ranks of full-size mechanical keyboard aficionados.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/linux_6_15_rc6_keyboards/>
+
+---
+
+## Mars may have vast underground oceans and enough H<sub>2</sub>O to make it a water world
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Chinese and Australian boffins ask what else could be slowing down seismic waves as they pass through the Red Planet?</h4> <p>Mars may still be home to oceanic quantities of liquid water, according to a recent paper published by the National Science Review.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/mars_water_seismic_waves/>
+
+---
+
+## Amazon tested warehouse robots and found they're not ready to replace humans
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Rise of the machines postponed ... for now</h4> <p>Robots in Amazon&#39;s fulfillment warehouse can pick and stow products well enough that the e-tail giant is happy to begin beta testing, but not well enough to leave human workers behind.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/amazon_robots_make_progress_picking/>
+
+---
+
+## Fusion eggheads claim modeling fix for particle escape - at least in stellarators
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>One problem down, <i>x</i> - 1 problems go</h4> <p>There are plenty of reasons why fusion energy has yet to become reality, but according to a group of researchers from the University of Texas at Austin and their collaborators, we may be one modeling breakthrough closer.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/modeling_fix_for_fusion_particle_escape/>
+
+---
+
+## Linux removes support for the 486, and now I’m curious what that means for Vortex86 processors
+
+date: 2025-05-12, from: OS News
+
+I had to dig through our extensive archive &#8211; OSNews was founded in 2007, after all &#8211; to see if we reported on it at the time, but it turns out we didn&#8217;t: in 2006, Intel announced that in 2007, it would cease production of a range of old chips, including the 386 and 486. In Product Change Notification 106013-01, Intel proclaimed these chips dead. Intel Corporation has been manufacturing its MCS 51, MCS 251 and MCS 96 Microcontroller Product Lines for over 25 years now, and the Intel 186 Processor Families, the Intel 386 Processor Families and the Intel 486 Processor Families for over 15 years now. Additionally, we have been manufacturing the i960 32 Bit RISC Processor Families for over 15 years. However, at this time, the forecasted volumes for these product lines are now too low to continue production of these products beyond the year 2007. Therefore, Intel will cease manufacturing silicon wafers for our 6&#8243; based processes in 2007. Affected products include Intel&#8217;s MCS 51, MCS 251, MCS 96, 80X18X, 80X38X, 80X486DXX, the i960 Family of Microcomputers, in addition to the 82371SB, 82439TX and the 82439HX Chipsets. Intel has no choice but to issue a Product Discontinuance Notice (PDN) effective 3/30/06. Last time orders will be accepted till 3/30/07 with last time ship dates of 9/28/07. ↫ Intel Product Change Notification 106013-01 Considering the 386, 486, and i960 families of processors were only used for niche embedded at very low volumes at that point in time, it made sense to call it quits. We&#8217;re 18 years down the line now, and I don&#8217;t think anyone really mourns the end of production for these processors. Windows ended support for these chips well before the 2007 end of production date, with Windows 2000 being the last Windows version that would run on a 486, albeit only barely, since it officially required a Pentium processor. Linux, though, continued to support the 486, but that, too, is now coming to an end. In a patch submitted to the LKML, Ingo Molnár, support for a variety of &#8220;complicated hardware emulation facilities&#8221; for x86-32 will be removed, effectively ending support for 486 and very early 586 processors, by increasing the minimum kernel support features to include TSC and CX8 (CMPXCHG8B) hardware support. Linus Torvalds has expressed interest in removing support for the 486 back in 2022, so this move doesn&#8217;t come as a huge surprise. While most tech news outlets leave it at that, as I was reading this news, I immediately thought of the Vortex86 line of processors and what this would mean for Linux support for those processors. In case you&#8217;re unaware, the Vortex86 is a line of x86-32-compatible processors, originating at SiS, but now developed and produced by DMP Electronics in Taiwain. The last two variants were the Vortex86DX3, a dual-core chip running at 1Ghz, and the Vortex86EX2, a chip with two asymmetrical cores that can run two operating systems at once. Their platform support documents for Windows and Linux are from 2021, so we can&#8217;t rely on those for more information. Digging through some of the documentation from ICOP, who sell industrial PCs based on the latest Vortex86DX3, I think support in modern kernels is very much hit and miss even before this news. All Vortex86 processors are supposedly i586 (with later variants being i686, even), but some of the earlier versions were compatible with the 486SX. On top of that, Linux 4.14 seems to be the last kernel that supports any of these chips out-of-the-box based on the documentation by DMP &#8211; but then, if you go back to ICOP, you&#8217;ll find news items about Linux 5.16 adding better support for Vortex86, so I&#8217;m definitely confused. My uneducated guess is that the DX3 and EX2 will probably work even after these changes to the Linux kernel, but earlier models might have more problems. Even on the LKML I can find messages from the kind of people who know their stuff who don&#8217;t know all the ins and outs of these Vortex86 processors, and which instructions they actually support. It won&#8217;t matter much for people relying on Vortex86 processors in industrial and commercial settings, though, since they tend to use custom stacks built by the vendor, so they&#8217;re going to be just fine. What&#8217;s more interesting is the what I assume is a small enthusiast market using Vortex86 processors who might want to run modern Linux kernels on them. I have a feeling these code removals might lead to some issues on especially the earlier models, meaning you&#8217;ll have to use older kernels. I&#8217;ve always been fascinated by the Vortex86 line of processors, and on numerous occasions I&#8217;ve hovered over the buy button on some industrial PC using the VortexDX3 (or earlier) processor. Let me know if you&#8217;re interested in seeing what this chip can do, and if there&#8217;s enough interest, I can see if I can set a Ko-Fi goal to buy one these and mess around with Windows Embedded/CE, Linux, and god knows what else these things can be made to run. 
+
+<br> 
+
+<https://www.osnews.com/story/142343/linux-removes-support-for-the-486-and-now-im-curious-what-that-means-for-vortex86-processors/>
+
+---
+
+## M365 apps on Windows 10 to get security fixes into 2028
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>Support for the underlying OS is another story</h4> <p>Microsoft has pledged to support and issue security fixes for M365 apps on Windows 10 into late 2028. That&#39;s well past a cut-off point of October 14 this year, when Redmond&#39;s support for Windows 10 officially ends unless you buy an extended support package.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/windows_11_support/>
+
+---
+
+## Las carreras en la NASA despegan con las pasantías
+
+date: 2025-05-12, from: NASA breaking news
+
+Read this story in English here. ¿Sueñas con trabajar para la NASA y contribuir a la exploración y la innovación en beneficio de la humanidad? Los programas de pasantías de la agencia ofrecen a los estudiantes de secundaria y universitarios la oportunidad de avanzar en la misión de la NASA en aeronáutica, ciencia, tecnología y espacio.&#160;&#160; [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/es/las-carreras-en-la-nasa-despegan-con-las-pasantias/>
+
+---
+
+## NASA Careers Take Off with Internships
+
+date: 2025-05-12, from: NASA breaking news
+
+Lee esta historia en español aquí. Do you dream of working for NASA and contributing to exploration and innovation for the benefit of humanity? The agency’s internship programs provide high school and college students opportunities to advance NASA’s mission in aeronautics, science, technology, and space. &#160; Claudia Sales, Kassidy McLaughlin, and Julio Treviño started their careers [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-careers-take-off-with-internships/>
+
+---
+
+## Bosses weren’t being paranoid: Remote workers more likely to start their own biz
+
+date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+
+<h4>All those return to office mandates make a lot more sense now</h4> <p>Companies with higher levels of remote work during the COVID-19 pandemic saw more of their employees launch startups, economists have found. They argue this entrepreneurial spillover is a factor policymakers and firms should weigh when shaping remote work policies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/>
 
 ---
 
@@ -13,7 +229,7 @@ updated: 2025-05-12 14:08:40
 
 date: 2025-05-12, from: OS News
 
-The title is a lie. This isn&#8217;t brief at all. Picture the keypad of a telephone and calculator side by side. Can you see the subtle difference between the two without resorting to your smartphone? Don’t worry if you can’t recall the design. Most of us are so used to accepting the common interfaces that we tend to overlook the calculator’s inverted key sequence. A calculator has the 7–8–9 buttons at the top whereas a phone uses the 1–2–3 format. Subtle, but puzzling since they serve the same functional goal — input numbers. There’s no logical reason for the inversion if a user operates the interface in the same way. Common sense suggests the reason should be technological constraints. Maybe it’s due to a patent battle between the inventors. Some people may theorize it’s ergonomics. With no clear explanation, I knew history and the evolution of these devices would provide the answer. Which device was invented first? Which keypad influenced the other? Most importantly, who invented the keypad in the first place? ↫ Francesco Bertelli and Manoel do Amara Sometimes, you come across articles that are one-of-a-kind, and this is one of them. Very few people would go to this length to document such a particular thing most people find utterly insignificant, but luckily for us, Francesco Bertelli and Manoel do Amara went all the way with this one. If you want to know anything about the history of the numerical pad and its possibly layouts, this is the place to go. What I&#8217;ve always found fascinating about numerical pads is how effortless the brain can switch between the two most common layouts without really batting an eye. Both layouts seem to ingrained in my brain that it feels like there&#8217;s barely any context-switching involved, and my fingers just effortlessly flow to the correct numbers. Considering numbers tend to confuse me, I wouldn&#8217;t have been at all surprised to find myself having issues switching between the two layouts. What makes this even more interesting is when I consider the number row on the keyboard &#8211; you know 1 through 0 &#8211; because there I do tend to have a lot of issues finding the right numbers. I don&#8217;t mean it takes seconds or anything like that, but I definitely experience more hiccups working with the number row than with a numerical keypad of either layout. 
+The title is a lie. This isn&#8217;t brief at all. Picture the keypad of a telephone and calculator side by side. Can you see the subtle difference between the two without resorting to your smartphone? Don’t worry if you can’t recall the design. Most of us are so used to accepting the common interfaces that we tend to overlook the calculator’s inverted key sequence. A calculator has the 7–8–9 buttons at the top whereas a phone uses the 1–2–3 format. Subtle, but puzzling since they serve the same functional goal — input numbers. There’s no logical reason for the inversion if a user operates the interface in the same way. Common sense suggests the reason should be technological constraints. Maybe it’s due to a patent battle between the inventors. Some people may theorize it’s ergonomics. With no clear explanation, I knew history and the evolution of these devices would provide the answer. Which device was invented first? Which keypad influenced the other? Most importantly, who invented the keypad in the first place? ↫ Francesco Bertelli and Manoel do Amara Sometimes, you come across articles that are one-of-a-kind, and this is one of them. Very few people would go to this length to document such a particular thing most people find utterly insignificant, but luckily for us, Francesco Bertelli and Manoel do Amara went all the way with this one. If you want to know anything about the history of the numerical pad and its possibly layouts, this is the place to go. What I&#8217;ve always found fascinating about numerical pads is how effortless the brain can switch between the two most common layouts without really batting an eye. Both layouts seem so ingrained in my brain that it feels like there&#8217;s barely any context-switching involved, and my fingers just effortlessly flow to the correct numbers. Considering numbers tend to confuse me, I wouldn&#8217;t have been at all surprised to find myself having issues switching between the two layouts. What makes this even more interesting is when I consider the number row on the keyboard &#8211; you know, 1 through 0 &#8211; because there I do tend to have a lot of issues finding the right numbers. I don&#8217;t mean it takes seconds or anything like that, but I definitely experience more hiccups working with the number row than with a numerical keypad of either layout. 
 
 <br> 
 

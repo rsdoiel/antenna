@@ -1,11 +1,587 @@
 ---
 title: planet
-updated: 2025-05-12 14:08:36
+updated: 2025-05-13 06:07:55
 ---
 
 # planet
 
-(date: 2025-05-12 14:08:36)
+(date: 2025-05-13 06:07:55)
+
+---
+
+## Allegations against Gerry Adams 'thoroughly investigated'
+
+date: 2025-05-13, from: RTÉ News
+
+The High Court has heard that allegations made in a BBC Spotlight programme about the former Sinn Féin president Gerry Adams were corroborated by as many as five other people. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512611-gerry-adams-court/>
+
+---
+
+## Man in UK prison for 38 years has conviction overturned
+
+date: 2025-05-13, from: RTÉ News
+
+A man who spent 38 years in prison in the UK for the murder of a woman in 1986 has had his conviction quashed at the Court of Appeal. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0513/1512613-man-in-uk-prison-for-38-years-has-conviction-overturned/>
+
+---
+
+## Members of Defence Forces gather for PDFORRA conference
+
+date: 2025-05-13, from: RTÉ News
+
+More than 100 members of the Army, the Naval Service and the Air Corps are gathering in Killarney, Co Kerry, for the annual conference of the Defence Forces' representative association, PDFORRA, which begins later this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512609-pdforra-conference/>
+
+---
+
+## UN aviation council finds Russia responsible for downing of Malaysian Airlines flight
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+A UN body has found that Russia was responsible for the 17 July 2014 downing of Malaysia Airlines flight MH17 over eastern Ukraine that killed all 298 people on board.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163161>
+
+---
+
+## General Secretariat of Synod welcomes election of Pope Leo XIV
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>In a letter addressed to the new Pope, the General Secretariat of the Synod says it “looks with confidence” to the directions Pope Leo XIV will provide to help the Church grow as “a home and family of God open to all.” </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/general-secretariat-of-synod-welcomes-election-of-pope-leo-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/general-secretariat-of-synod-welcomes-election-of-pope-leo-xiv.html>
+
+---
+
+## Ford warning Kuga PHEV owners not to charge their cars
+
+date: 2025-05-13, from: RTÉ News
+
+Ford is warning Ford Kuga plug-in hybrid owners in Ireland not to charge their vehicles until a software update is ready to fix technical issues with the battery in some cars. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0513/1512606-ford-warning-kuga-phev-owners-not-to-charge-their-cars/>
+
+---
+
+## Satchwell told gardaí he couldn't go back on lie - court
+
+date: 2025-05-13, from: RTÉ News
+
+Richard Satchwell told gardaí that once he told a lie about what happened to his wife he could not go back on it, the Central Criminal Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0513/1512603-richard-satchwell-court/>
+
+---
+
+## President congratulates Irish University Challenge winner
+
+date: 2025-05-13, from: RTÉ News
+
+President Michael D Higgins has congratulated Oscar Despard on captaining his team from Christ's College, Cambridge, to victory in the final of University Challenge. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512599-university-challenge/>
+
+---
+
+## Dublin deli among businesses impacted by closure orders
+
+date: 2025-05-13, from: RTÉ News
+
+A food deli in Monkstown, Dublin, was forced to close after inspectors found that mouse droppings were "evident" in a number of locations in the premises. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512595-food-safety-fsai-orders/>
+
+---
+
+## Ireland set to bask in sunshine for at least 10 more days
+
+date: 2025-05-13, from: RTÉ News
+
+Ireland is set to bask in sunshine for the next ten days, with temperatures set to hit 24C in parts of the west, according to Met Éireann. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0513/1512594-ireland-weather/>
+
+---
+
+## First Home Scheme extended to 2027, €30m more funding
+
+date: 2025-05-13, from: RTÉ News
+
+The Government has announced an additional €30m in funding and an extension to 2027 for the First Home Scheme (FHS). 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0513/1512592-more-funding-for-first-home-scheme/>
+
+---
+
+## Zelensky insists on face-to-face talks with Putin
+
+date: 2025-05-13, from: RTÉ News
+
+President Volodymyr Zelensky will only attend talks on Ukraine if Russia's Vladimir Putin is also there, the Ukrainian leader's top aide said, challenging the Kremlin to show it is genuine about seeking peace. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0513/1512586-zelensky-talks-putin/>
+
+---
+
+## Church in Seoul hosts major youth festival as preview to World Youth Day 2027
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>More than 30,000 people took part in the “Hee Hee Hee” Youth Festival in Seoul, South Korea, from May 9 to 11, a large-scale, youth-led celebration organized by the Archdiocese of Seoul and the Local Organizing Committee for World Youth Day (WYD) 2027.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/south-korea-seoul-catholic-church-youth-festival-wyd.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/south-korea-seoul-catholic-church-youth-festival-wyd.html>
+
+---
+
+## De Bromhead: 'She'll be amazing at whatever she does'
+
+date: 2025-05-13, from: RTÉ News
+
+Trainer Henry de Bromhead has revealed the role a conversation in the back of a taxi played in Rachael Blackmore becoming his most trusted ally, with the pair's fortunes rising in tandem to achieve stratospheric levels of success. 
+
+<br> 
+
+<https://www.rte.ie/sport/racing/2025/0513/1512573-de-bromhead-shell-be-amazing-at-whatever-she-does/>
+
+---
+
+## No fracture evidence on Tina Satchwell's body - court
+
+date: 2025-05-13, from: RTÉ News
+
+Follow live reports from the Central Criminal Court in the trial of Richard Satchwell, who is accused of the murder of his wife Tina in March 2017. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512580-richard-satchwell-trial/>
+
+---
+
+## US brain drain 'great opportunity for Ireland' - minister
+
+date: 2025-05-13, from: RTÉ News
+
+Minister for Further and Higher Education James Lawless has said "the flipside" of a possible brain drain from the US is "a great opportunity for Ireland". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0513/1512577-global-talent-initiative/>
+
+---
+
+## HSE chief Gloster to step down from role in March 2026
+
+date: 2025-05-13, from: RTÉ News
+
+HSE Chief Executive Bernard Gloster is to step down from the role next March, he has announced. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0513/1512579-bernard-gloster/>
+
+---
+
+## IPC warns of worsening food crisis in Gaza as famine risk grows
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>A new report warns that essential supplies in Gaza are nearly depleted, with the entire population facing acute food insecurity. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/ipc-warns-of-worsening-food-crisis-in-gaza-as-famine-risk-grows.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/ipc-warns-of-worsening-food-crisis-in-gaza-as-famine-risk-grows.html>
+
+---
+
+## Recruitment drive launched for city and county planners
+
+date: 2025-05-13, from: RTÉ News
+
+A new recruitment drive has been launched to attract graduate planners into Ireland's county and city councils. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0513/1512576-recruitment-drive-launched-for-planners/>
+
+---
+
+## Jubilee of Eastern Churches: Armenian Patriarch Minassian prays for peace
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>On the occasion of the Jubilee of Eastern Churches, Patriarch Raphaël Bedros XXI Minassian, head of the Armenian Catholic Church, presides over the Divine Liturgy in the Armenian Rite at St. Mary Major, and calls for the elimination of hatred in all its forms.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-of-eastern-churches-patriarch-calls-for-eliminating-hate.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-of-eastern-churches-patriarch-calls-for-eliminating-hate.html>
+
+---
+
+## Review into child hip dysplasia surgery not yet completed
+
+date: 2025-05-13, from: RTÉ News
+
+Children who have had developmental dysplasia of the hip surgeries at three hospitals are to be offered "routine follow-up care", according to letters sent to parents recently by Children's Health Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0513/1512575-ireland-health-children/>
+
+---
+
+## Govt 'supports' public inquiry into Sean Brown's death
+
+date: 2025-05-13, from: RTÉ News
+
+The Taoiseach has said that the Government would support a public inquiry into the death of Sean Brown. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0513/1512570-sean-brown-family-taoiseach/>
+
+---
+
+## Depardieu guilty of sexual assault against two women
+
+date: 2025-05-13, from: RTÉ News
+
+A Paris court has found actor Gerard Depardieu guilty of having sexually assaulted two women on a 2021 film set, sentencing him to an 18-month suspended prison sentence. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0513/1512564-gerard-depardieu-court/>
+
+---
+
+## Uganda: Catholic sisters offer trauma care to refugees
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>As South Sudanese refugees struggle with trauma and aid shortfalls in northern Uganda, a Catholic sister from a missionary congregation offers rare, holistic care—combining mental health support, education, and faith.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/sisters-project-127-uganda-trauma-care-refugees.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/sisters-project-127-uganda-trauma-care-refugees.html>
+
+---
+
+## M&S says customer information was taken in cyber attack
+
+date: 2025-05-13, from: RTÉ News
+
+Retailer Marks & Spencer said today that some personal customer information was taken in the cyber attack that has crippled its online operation for more than three weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0513/1512555-m-s-customer-information-taken-in-cyber-attack/>
+
+---
+
+## France says 'cocaine bag' claims spread by 'enemies'
+
+date: 2025-05-13, from: RTÉ News
+
+French President Emmanuel Macron's office has said "enemies" are guilty of spreading fake news by suggesting that he and other European leaders had taken drugs on a train during a visit to Kyiv. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0513/1512548-france/>
+
+---
+
+## All eyes on Basel for first Eurovision semi-final
+
+date: 2025-05-13, from: RTÉ News
+
+The countdown is on in Basel as the first semi-final of the Eurovision Song Contest 2025 gets underway tonight, promising spectacle, surprises and more than a few sequins. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0513/1512545-all-eyes-on-basel-for-first-eurovision-semi-final/>
+
+---
+
+## Jubilee of Eastern Churches: Divine Liturgy in the Coptic Rite
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>His Beatitude Ibrahim Isaac Sedrak, Patriarch of Alexandria of the Catholic Copts and President of the Assembly of Patriarchs and Bishops of Egypt, presides over the Divine Liturgy of the Coptic Rite on the occasion of the Jubilee of Eastern Churches in the Pauline Chapel of St. Mary Major.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-of-eastern-churches-divine-liturgy-in-the-coptic-rite.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-of-eastern-churches-divine-liturgy-in-the-coptic-rite.html>
+
+---
+
+## Raids across Germany after 'Reichsbuerger' group banned
+
+date: 2025-05-13, from: RTÉ News
+
+Police have arrested four members of a radical group seeking to replace the modern German state, the interior minister and prosecutors said, in the latest operation against a far-right movement flagged as a potential threat to democracy. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512547-germany-reichsbuerger/>
+
+---
+
+## Man arrested over arson at properties linked to UK PM
+
+date: 2025-05-13, from: RTÉ News
+
+A 21-year-old man has been arrested over suspected arson attacks on properties linked to UK Prime Minister Keir Starmer. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0513/1512541-arson-starmer-properties/>
+
+---
+
+## Netanyahu says army entering Gaza 'with full force' soon
+
+date: 2025-05-13, from: RTÉ News
+
+Israeli Prime Minister Benjamin Netanyahu has said the military was going to enter Gaza "with full force" in the coming days, a statement from his office said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0513/1512534-israel-gaza/>
+
+---
+
+## Russia responsible for downing MH17 - UN aviation body
+
+date: 2025-05-13, from: RTÉ News
+
+The United Nations aviation agency has blamed Russia for the downing of a Malaysian jetliner over Ukraine in 2014, leading to the deaths of 298 people. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0513/1512531-mh17-un-report/>
+
+---
+
+## 'Stupid' to reject Qatari Air Force One gift, says Trump
+
+date: 2025-05-13, from: RTÉ News
+
+US President Donald Trump has dismissed concerns over his plans to receive a jet from Qatar to be used as Air Force One, saying it would be "stupid" not to accept such a gift. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512532-qatar-air-force-one/>
+
+---
+
+## Applegreen to open Ireland's first Taco Bell this summer
+
+date: 2025-05-13, from: RTÉ News
+
+Applegreen is set to open Ireland's first Taco Bell restaurant this summer, with more to open over the next five years. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0513/1512482-applegreen-ireland-taco-bell/>
+
+---
+
+## French movie icon Gérard Depardieu convicted of sexual assault on film set
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7491496.1742822648!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/france-depardieu-trial.jpg' alt='Actor Gérard Depardieu arrives to face trial for the alleged sexual assaults of two women on a film set in 2021, Monday, March 24, 2025 in Paris. ' width='620' height='349' title='Actor Gérard Depardieu arrives to face trial for the alleged sexual assaults of two women on a film set in 2021, Monday, March 24, 2025 in Paris. '/><p>A court in Paris on Tuesday found French actor Gérard Depardieu guilty of sexually assaulting two women on a film set in 2021 and handed him an 18-month suspended prison sentence.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/gerard-depardieu-convicted-1.7533369?cmp=rss>
+
+---
+
+## Trump kicks off Middle East visit seeking big economic deals
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533366.1747123818!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-gulf-saudi.JPG' alt='Two men sitting in chairs pointed forward lean over the armrests to speak and listen to each other' width='620' height='349' title='U.S. President Donald Trump and Saudi Crown Prince Mohammed Bin Salman meet in Riyadh, Saudi Arabia, May 13, 2025. REUTERS/Brian Snyder'/><p>U.S. President Donald Trump arrived in Saudi Arabia on Tuesday to start a four-day swing through the Gulf region, focusing more on economic deals than security crises ranging from war in Gaza to the threat of escalation over Iran's nuclear program.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-gulf-visit-1.7533365?cmp=rss>
+
+---
+
+## Wheelchair-friendly beach mats bring joy in Mayo
+
+date: 2025-05-13, from: RTÉ News
+
+Wheelchair users in Co Mayo have been enjoying the sunshine on a blue flag beach in Iorras, thanks to recently installed accessible mobility mats. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512478-beach-wheelchair-access/>
+
+---
+
+## Tánaiste concerned by deals that leave tariffs in place
+
+date: 2025-05-13, from: RTÉ News
+
+Tánaiste Simon Harris has said that while he welcomes the "potential cooling" between China and the US after they agreed on a deal to slash reciprocal tariffs for now, he is concerned by deals that still leave tariffs in place. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0513/1512522-ireland-politics/>
+
+---
+
+## Trump starts Gulf visit seeking big economic deals
+
+date: 2025-05-13, from: RTÉ News
+
+US President Donald Trump has arrived in Saudi Arabia on a four-day visit to the Gulf region, focusing more on economic deals than pressing regional security matters ranging from war in Gaza to talks over Iran's nuclear programme. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0513/1512529-trump-middle-east/>
+
+---
+
+## For Palestinians, a day at the beach is an all-too-brief escape from war
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/de35f9e4-e524-4a8f-ad6b-4b3e58549faa,1747097665590/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C325%2C6240%2C3510%29%3BResize%3D%28620%29' alt='Children and their families relax on the beach on a sunny day, some playing in sand and others wading in the water.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-war-beach-day-1.7533267?cmp=rss>
+
+---
+
+## Trump administration ramps up transgender military purge with a bleak ultimatum
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533136.1747084907!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/lt-rae-timberlake.jpeg' alt='A soldier in camo fatigues and white silk gloves salutes to their fellow service members. ' width='620' height='349' title='U.S. Navy Lt. Rae Timberlake is one of 1,000 transgender service members who have identified themselves for what the Republican administration is calling &apos;voluntary separation&apos; from the military.  '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/trump-military-transgender-purge-1.7533117?cmp=rss>
+
+---
+
+## US official sees better chance for Gaza hostage release
+
+date: 2025-05-13, from: RTÉ News
+
+United States special envoy Adam Boehler has said there was a better chance now to secure the release of the remaining 58 hostages held in Gaza following the release of Israeli-American hostage Edan Alexander by Hamas yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0513/1512528-israel-gaza/>
+
+---
+
+## Kardashian thought she 'was going to die', trial told
+
+date: 2025-05-13, from: RTÉ News
+
+Reality TV star Kim Kardashian shed tears and said she had feared she would be raped as she testified in a Paris court about the 2016 heist in which she was robbed at gunpoint in her hotel room by a gang who stole jewels worth millions. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0513/1512527-kim-kardashian-paris/>
+
+---
+
+## US announces new sanctions against Iran as talks proceed
+
+date: 2025-05-13, from: RTÉ News
+
+The United States announced new sanctions today against Iran over its nuclear programme, despite ongoing negotiations between the two countries over the sensitive issue. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0513/1512524-us-iran/>
+
+---
+
+## Jury hears Sean 'Diddy' Combs was 'coercive and criminal'
+
+date: 2025-05-13, from: RTÉ News
+
+Sean 'Diddy' Combs used violence and threats of reputational ruin to control women he abused for years, New York jurors heard during opening statements of the federal sex trafficking trial that was followed by the case's initial graphic testimonies. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0513/1512523-sean-diddy-combs/>
+
+---
+
+## Trump says it'd be 'stupid' to reject plane offered as gift from Qatari royal family
+
+date: 2025-05-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533264.1747095970!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-climbing-the-stairs-up-to-air-force-one.jpg' alt='U.S. President Donald Trump climbing the stairs of Air Force One.' width='620' height='349' title='U.S. President Donald Trump boards Air Force One, Monday, May 12, 2025, at Joint Base Andrews, Md.'/><p>U.S. President Donald Trump dismissed ethical concerns about his plan to accept an airplane as a gift from the Qatari royal family, saying on Monday it would be "stupid" to turn down the generous offer.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-plane-qatar-1.7533262?cmp=rss>
 
 ---
 
@@ -21,6 +597,18 @@ A group of around 50 white South Africans have arrived for resettlement in the U
 
 ---
 
+## First white South Africans arrive in US for resettlement
+
+date: 2025-05-12, from: RTÉ News
+
+A group of around 50 white South Africans arrived for resettlement in the United States after President Donald Trump granted them refugee status as victims of what he called a "genocide". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512505-south-africa-us/>
+
+---
+
 ## Judicial review sought on proposed LNG plant in Kerry
 
 date: 2025-05-12, from: RTÉ News
@@ -33,7 +621,7 @@ Friends of the Irish Environment say they have been given leave to seek a Judici
 
 ---
 
-## From the Backyard: Pope Leo XIV, Leo XIII, Rerum Norarum and AI
+## From the Backyard: Pope Leo XIV, Leo XIII, Rerum Novarum and AI
 
 date: 2025-05-12, from: Vatican Obervatory
 
@@ -105,6 +693,18 @@ In the latest episode of RTÉ's Behind the Story podcast, Fran McNulty and David
 
 ---
 
+## Podcast: Crypto schemes, deals and Qatar's wooden horse
+
+date: 2025-05-12, from: RTÉ News
+
+In the latest episode of RTÉ's Behind the Story podcast, Fran McNulty and David McCullagh discuss whether Qatar's plan to gift Donald Trump a shiny new Air Force One jet will take off. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512474-podcast-behind-the-story/>
+
+---
+
 ## What we know so far about the Diddy sex trafficking trial
 
 date: 2025-05-12, from: RTÉ News
@@ -114,6 +714,34 @@ Sean "Diddy" Combs, the US rapper and music mogul who discovered world-famous ar
 <br> 
 
 <https://www.rte.ie/news/world/2025/0512/1512484-us-combs-explainer/>
+
+---
+
+## Trump is visiting Saudi Arabia. Here’s what to expect
+
+date: 2025-05-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/3f3ac317-ba91-44fa-b09d-5fad406d8e01,1747110588886/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='U.S. President Donald Trump, left, is seen next to an image of the American and Saudi Arabian flags in this combination image' width='620' height='349' title='U.S. President Donald Trump, left, is seen next to an image of the American and Saudi Arabian flags in this combination image'/><p>U.S. President Donald Trump will arrive in Saudi Arabia on Tuesday on the first big international trip of his second term. CBC’s Chris Brown is in Riyadh and breaks down what you need to know about the visit.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6757554?cmp=rss>
+
+---
+
+## Jubilee of Eastern Churches: Divine Liturgy in Ethiopian Rite at St. Peter’s
+
+date: 2025-05-12, from: Vatican News
+
+
+                    <p>Ethiopian Cardinal Berhaneyesus Souraphiel, Archbishop of Addis Ababa, presides over the Divine Liturgy in the Geʽez Rite concelebrated with Eritrean Archbishop Menghesteab Tesfamariam of Asmara.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-eastern-catholic-churches-divine-liturgy-ethiopian-rite.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-eastern-catholic-churches-divine-liturgy-ethiopian-rite.html>
 
 ---
 
@@ -262,6 +890,18 @@ The Hungarian Prime Minister Viktor Orbán has criticised the Taoiseach Micheál
 <br> 
 
 <https://www.rte.ie/news/2025/0512/1512446-orban-taoiseach/>
+
+---
+
+## Orbán criticises Taoiseach after 'abuse of vetoes' quote
+
+date: 2025-05-12, from: RTÉ News
+
+Hungarian Prime Minister Viktor Orbán has criticised Taoiseach Micheál Martin for saying Brussels should crack down on what he termed Hungary's "abuse of vetoes" at EU Council meetings. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0512/1512446-hungary-ireland/>
 
 ---
 
@@ -428,7 +1068,7 @@ The search team looking for the remains of Cork woman Tina Satchwell discovered 
 
 ## Climate change takes increasingly extreme toll on African countries
 
-date: 2025-05-12, from: United Nations, Top Stories
+date: 2025-05-12, from: United Nations, Climate Change
 
 Devastating floods in South Sudan in recent months left thousands of herders without their most precious possessions: goats, cows and cattle. The animals are central to people’s lives and age-old customs including marriage and cultural traditions. All risk being swept away or scorched by the ravages of climate change. 
 
@@ -452,7 +1092,7 @@ Gazans remain at “critical risk of famine,” UN-backed&nbsp;food security exp
 
 ## UN chief calls for major reforms to cut costs and improve efficiency
 
-date: 2025-05-12, from: United Nations, Top Stories
+date: 2025-05-12, from: United Nations, UN Affairs
 
 Amid financial strain and growing global challenges, UN Secretary-General António Guterres is pushing for wide-ranging structural reforms to enhance the world body’s effectiveness. 
 
@@ -478,7 +1118,7 @@ The UN expressed deep concern on Monday over the impact of ongoing drone attacks
 
 date: 2025-05-12, from: United Nations, Top Stories
 
-UN Secretary-General António Guterres welcomed the release of a hostage held in in Gaza on Monday and renewed his call for a permanent ceasefire and greater humanitarian access to the war-torn enclave.&nbsp; 
+UN Secretary-General António Guterres welcomed the release of a hostage held in Gaza on Monday and renewed his call for a permanent ceasefire and greater humanitarian access to the war-torn enclave.&nbsp; 
 
 <br> 
 
@@ -559,6 +1199,18 @@ date: 2025-05-12, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-and-ukraine-s-president-zelensky-speak-by-phone.html>
+
+---
+
+## White South Africans fast-tracked for refugee status arrive in U.S.
+
+date: 2025-05-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532601.1747057506!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/south-africa-trump-white-refugees.jpg' alt='A group of several people are shown at an outdoor administration holding signs and banners. One banner reads, &apos;Thank God for President Trump.&apos;' width='620' height='349' title='FILE - White South Africans demonstrate in support of U.S. President Donald Trump in front of the U.S. embassy in Pretoria, South Africa, Feb. 15, 2025. (AP '/><p>The Trump administration on Monday welcomed a group of 59 white South Africans as refugees, saying they face discrimination and violence at home, which the country's government strongly denies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-south-africa-afrikaners-arrive-1.7532532?cmp=rss>
 
 ---
 
@@ -843,6 +1495,18 @@ Captain Sam Mulroy and All-Star Craig Lennon struck the crucial late scores as L
 <br> 
 
 <https://www.rte.ie/sport/football/2025/0511/1512235-louth-land-leinster-crown-to-end-68-year-famine/>
+
+---
+
+## Blackmore 'broke glass ceilings and painted the sky'
+
+date: 2025-05-11, from: RTÉ News
+
+Jane Mangan and Ruby Walsh have paid tribute to the retiring Rachael Blackmore, the RTÉ Racing analyst calling the Irishwoman "the greatest female jockey the world has ever seen". 
+
+<br> 
+
+<https://www.rte.ie/sport/racing/2025/0511/1512290-blackmore-broke-glass-ceilings-and-painted-the-sky/>
 
 ---
 

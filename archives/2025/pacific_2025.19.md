@@ -1,11 +1,553 @@
 ---
 title: pacific
-updated: 2025-05-12 14:08:39
+updated: 2025-05-13 06:07:58
 ---
 
 # pacific
 
-(date: 2025-05-12 14:08:39)
+(date: 2025-05-13 06:07:58)
+
+---
+
+## United's forthcoming Narita-Koror route to restore Palau's link to other markets, Whipps says
+
+date: 2025-05-13, from: Pacific Island Times
+
+“These twice-weekly flights will restore a vital bridge in the sky, bringing pristine paradise Palau closer to Japan and strengthening connections between our two nations,” Palau President Surangel S. Whipps Jr.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/united-s-forthcoming-narita-koror-route-to-restore-palau-s-link-to-other-destinations-whipps-says>
+
+---
+
+## Hawaii DOT pushing speed cam expansion despite failed bill
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Transportation intends to use existing revenue streams to dramatically scale up an automated camera system to ticket drivers who speed or run red lights &#8212; even though a bill proposed by state lawmakers to expand the system stalled out.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/hawaii-news/hawaii-dot-pushing-speed-cam-expansion-despite-failed-bill/>
+
+---
+
+## US and China agree to temporarily slash tariffs in bid to defuse trade war
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>The United States and China took a step Monday to defuse the trade war between the world&#8217;s two largest economies, agreeing to temporarily reduce the punishing tariffs they have imposed on each other.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/us-and-china-agree-to-temporarily-slash-tariffs-in-bid-to-defuse-trade-war/>
+
+---
+
+## Federal trial begins for men accused of housing credits scam
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>A federal trial is set to start today for two Hilo attorneys accused of receiving Hawaii County affordable housing credits and land conveyances worth at least $10.98 million, with no intention of developing affordable housing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/hawaii-news/federal-trial-begins-for-men-accused-of-housing-credits-scam/>
+
+---
+
+## Maui housing project receives largest wave of wildfire survivors to date
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>The largest wave of displaced Maui fire survivors, who are losing their temporary hotel housing this month, will move into Ka La&#8216;i Ola, a modular housing project mauka of the Lahaina Civic Center designed specifically for survivors who are ineligible for Federal Emergency Management Agency assistance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/hawaii-news/maui-housing-project-receives-largest-wave-of-wildfire-survivors-to-date/>
+
+---
+
+## Nations meet at UN for ‘killer robot’ talks as regulation lags
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; Countries are meeting at the United Nations on Monday to revive efforts to regulate the kinds of AI-controlled autonomous weapons increasingly used in modern warfare, as experts warn time is running out to put guardrails on new lethal technology.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/nations-meet-at-un-for-killer-robot-talks-as-regulation-lags/>
+
+---
+
+## Freed Israeli-American hostage leaves Gaza, Israel says no ceasefire
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212; An Israeli-American hostage was released from 19 months of captivity in Gaza during a brief pause in fighting on Monday and reunited with his family, but Israeli strikes on the battered enclave soon resumed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/freed-israeli-american-hostage-leaves-gaza-israel-says-no-ceasefire/>
+
+---
+
+## Pentagon halting gender-affirming healthcare for transgender troops, memo says
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Pentagon is halting gender-affirming health care for transgender troops as it moves to implement President Donald Trump&#8217;s plan to kick them out of the U.S. military, according to a memo seen by Reuters on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/pentagon-halting-gender-affirming-healthcare-for-transgender-troops-memo-says/>
+
+---
+
+## News in brief for May 13
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>FBI to prioritize immigration, as DOJ scales back white-collar cases</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/news-in-brief-for-may-13/>
+
+---
+
+## California governor urges cities to ‘take back the streets’ from homeless
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>California Governor Gavin Newsom on Monday urged localities to &#8220;take back the streets&#8221; from homeless encampments, proposing language for every city and county to use in a local ban on camping in public.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/california-governor-urges-cities-to-take-back-the-streets-from-homeless/>
+
+---
+
+## Trump says it would be ‘stupid’ not to accept gift of Qatari plane
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump dismissed ethical concerns about his plan to accept an airplane as a gift from the Qatari royal family, saying on Monday it would be &#8220;stupid&#8221; to turn down the generous offer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/trump-says-it-would-be-stupid-not-to-accept-gift-of-qatari-plane/>
+
+---
+
+## Hawley urges republicans not to cut Medicaid as house debates reductions
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Sen. Josh Hawley, R-Mo., on Monday urged his Republican colleagues to reject deep cuts to Medicaid as part of legislation to implement President Donald Trump&#8217;s ambitious domestic agenda, including a plan to cut more than $4 trillion in taxes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/hawley-urges-republicans-not-to-cut-medicaid-as-house-debates-reductions/>
+
+---
+
+## Midwest grapples with wildfires amid record heat and dry conditions
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service placed most of the Upper Midwest and part of the Northern Plains on high alert Monday as temperatures approached 100 degrees and extremely dry conditions created an elevated risk for wildfires in the region.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/midwest-grapples-with-wildfires-amid-record-heat-and-dry-conditions/>
+
+---
+
+## US House targets big climate, clean energy rollbacks in budget proposal
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. House lawmakers laid out plans on Monday to phase out clean energy tax credits, slash spending on electric vehicles and renewable energy, and claw back other climate-related funds as part of the Republicans&#8217; attempt to pass a multi-trillion-dollar budget in line with President Donald Trump&#8217;s agenda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/us-house-targets-big-climate-clean-energy-rollbacks-in-budget-proposal/>
+
+---
+
+## Let’s Talk Food: Ka‘u Coffee Festival
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>The 16th annual Ka&#8216;u Coffee Festival is being held from May 25-31 this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/features/lets-talk-food-kau-coffee-festival-2/>
+
+---
+
+## First white South Africans arrive in US as Trump claims they face discrimination
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/JOHANNESBURG &#8212; The Trump administration welcomed on Monday 59 white South Africans it granted refugee status in the U.S., having deemed them victims of racial discrimination, while drawing criticism from Democrats and stirring confusion in South Africa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/nation-world-news/first-white-south-africans-arrive-in-us-as-trump-claims-they-face-discrimination/>
+
+---
+
+## Quick Fix: Pork Chop Ragu with Salad
+
+date: 2025-05-13, from: Hawaii Tribune Harold
+
+
+				<p>I was craving something simple yet flavorful, and an Italian-style ragu immediately came to mind. In Italy, &#8220;ragu&#8221; refers to a rich, ground meat-based sauce traditionally served over pasta.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/13/features/quick-fix-pork-chop-ragu-with-salad/>
+
+---
+
+## U.S. Military presence boosts Peleliu’s economy, Governor says
+
+date: 2025-05-13, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77397" data-permalink="https://islandtimes.org/u-s-military-presence-boosts-pelelius-economy-governor-says/business-services-offered/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?fit=1249%2C703&amp;ssl=1" data-orig-size="1249,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1746804177&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.00026975991367683&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Business Services Offered" data-image-description="" data-image-caption="&lt;p&gt;Business Services Offered&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Business-Services-Offered.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>PELELIU, Palau — The presence of U.S. Marines in Peleliu since 2022 has significantly boosted the island state&#8217;s economy, helping it recover from the economic toll of the COVID-19 pandemic, Governor Dr. Emais Roberts said during a press briefing on May 9. Tourism, long a vital source of income for Peleliu after its block grant [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-military-presence-boosts-pelelius-economy-governor-says/">U.S. Military presence boosts Peleliu’s economy, Governor says</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-military-presence-boosts-pelelius-economy-governor-says/>
+
+---
+
+## Court lifts TRO, clears way for higher water and sewer rates in Palau
+
+date: 2025-05-13, from: Island Times
+
+<p>KOROR, Palau — The Supreme Court of Palau has dismissed a lawsuit filed by the Olbiil Era Kelulau (OEK) and several customers challenging recent increases in water and wastewater rates, effectively dissolving a temporary restraining order (TRO) that had blocked the Palau Public Utilities Corporation (PPUC) from disconnecting service for nonpayment of the higher rates. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/court-lifts-tro-clears-way-for-higher-water-and-sewer-rates-in-palau/">Court lifts TRO, clears way for higher water and sewer rates in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/court-lifts-tro-clears-way-for-higher-water-and-sewer-rates-in-palau/>
+
+---
+
+## Ngchesar man charged in fatal stabbing of 62-year-old
+
+date: 2025-05-13, from: Island Times
+
+<p>A 58-year-old man from Ngchesar has been charged with second-degree murder after allegedly stabbing and killing another man during a confrontation on the evening of May 10, according to police. The suspect, Edwin Hideo, is accused of fatally stabbing 62-year-old Arius Mereb in Ngchesar State. A witness told police that Hideo picked up a knife [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngchesar-man-charged-in-fatal-stabbing-of-62-year-old/">Ngchesar man charged in fatal stabbing of 62-year-old</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngchesar-man-charged-in-fatal-stabbing-of-62-year-old/>
+
+---
+
+## Contractors push for eased bonding rules amid growth barriers
+
+date: 2025-05-13, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau – Local construction companies are calling for greater flexibility in government bonding requirements, saying current rules hinder their ability to compete for public contracts and limit their growth. During a recent public hearing, contractors voiced concerns over Senate Bill 12-22, which aims to support small and medium-sized construction firms [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/contractors-push-for-eased-bonding-rules-amid-growth-barriers/">Contractors push for eased bonding rules amid growth barriers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/contractors-push-for-eased-bonding-rules-amid-growth-barriers/>
+
+---
+
+## Red Cross says it lost grants due to USAID cuts
+
+date: 2025-05-13, from: Island Times
+
+<figure><img width="200" height="199" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?fit=200%2C199&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?w=200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?fit=200%2C199&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?fit=200%2C199&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77384" data-permalink="https://islandtimes.org/red-cross-says-it-lost-grants-due-to-usaid-cuts/prcs/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?fit=200%2C199&amp;ssl=1" data-orig-size="200,199" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PRCS" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?fit=200%2C199&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PRCS.jpg?fit=200%2C199&amp;ssl=1" /></figure>
+<p>The Palau Red Cross Society said the agency has lost $600,000 in grants due to President Trump’s USAID cuts. In a letter to the Olbiil Era Kelulau, Palau Red Cross expressed support for President Whipps&#8217;s supplemental budget request, which included $75,000 for the Red Cross. “The organization is currently facing challenges due to the effects [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/red-cross-says-it-lost-grants-due-to-usaid-cuts/">Red Cross says it lost grants due to USAID cuts </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/red-cross-says-it-lost-grants-due-to-usaid-cuts/>
+
+---
+
+## Ngerchebal Island officially opens in Aimeliik State
+
+date: 2025-05-13, from: Island Times
+
+<figure><img width="576" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?fit=576%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?resize=169%2C300&amp;ssl=1 169w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?resize=576%2C1024&amp;ssl=1 576w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?resize=400%2C711&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?fit=576%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77379" data-permalink="https://islandtimes.org/ngerchebal-island-officially-opens-in-aimeliik-state/ngerchebal/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?fit=600%2C1067&amp;ssl=1" data-orig-size="600,1067" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ngerchebal" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?fit=169%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/ngerchebal.jpg?fit=576%2C1024&amp;ssl=1" /></figure>
+<p>Aimeliik, Palau — On the morning of Friday, May 9, a ribbon-cutting ceremony marked the official opening of Ngerchebal Island in Aimeliik State. Hosted by Governor Browny Simer and First Lady Mard Simer, the event celebrated the completion of a long-awaited community project that blends environmental stewardship with cultural pride. Ngerchebal became a conservation area [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngerchebal-island-officially-opens-in-aimeliik-state/">Ngerchebal Island officially opens in Aimeliik State</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngerchebal-island-officially-opens-in-aimeliik-state/>
+
+---
+
+## Man charged with terroristic threatening, burglary and theft in Koror
+
+date: 2025-05-13, from: Island Times
+
+<p>KOROR, Palau — The Office of the Attorney General has filed four criminal charges against a man accused of threatening, assaulting, and stealing from a woman in a series of incidents that occurred between May 7 and May 9, 2025, in Koror. According to court documents, Jemmy Isaac faces felony and misdemeanor charges including terroristic [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/man-charged-with-terroristic-threatening-burglary-and-theft-in-koror/">Man charged with terroristic threatening, burglary and theft in Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/man-charged-with-terroristic-threatening-burglary-and-theft-in-koror/>
+
+---
+
+## HOD eyes transition period for ministers upon reflection of incumbent president
+
+date: 2025-05-13, from: Island Times
+
+<figure><img width="400" height="437" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/hod.jpg?fit=400%2C437&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/hod.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/hod.jpg?resize=275%2C300&amp;ssl=1 275w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/hod.jpg?fit=400%2C437&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="50451" data-permalink="https://islandtimes.org/bill-removes-the-requirement-for-govt-employees-to-resign-before-running-for-national-elective-office/hod-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/hod.jpg?fit=400%2C437&amp;ssl=1" data-orig-size="400,437" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="hod" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/hod.jpg?fit=275%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/01/hod.jpg?fit=400%2C437&amp;ssl=1" /></figure>
+<p>A House of Delegates proposed bill to allow ministers, ambassadors, and the Postmaster General to continue serving for a transition period of sixty (60) days upon the reelection of an incumbent President&#160;was approved on third and final reading. House Bill 12-13-IS-HD1 stated that the current law requires all ministers, ambassadors, and the Postmaster General have [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hod-eyes-transition-period-for-ministers-upon-reflection-of-incumbent-president/">HOD eyes transition period for ministers upon reflection of incumbent president </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/hod-eyes-transition-period-for-ministers-upon-reflection-of-incumbent-president/>
+
+---
+
+## Japan and Palau sign and exchange notes for project to improve water supply systems in Koror and Airai
+
+date: 2025-05-13, from: Island Times
+
+<figure><img width="1024" height="726" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?fit=1024%2C726&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?resize=1024%2C726&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?resize=768%2C545&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?resize=1200%2C851&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?resize=780%2C553&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?resize=400%2C284&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?resize=706%2C501&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?fit=1024%2C726&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77369" data-permalink="https://islandtimes.org/japan-and-palau-sign-and-exchange-notes-for-project-to-improve-water-supply-systems-in-koror-and-airai/20250509_signing-photo-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?fit=1249%2C886&amp;ssl=1" data-orig-size="1249,886" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone SE (3rd generation)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1746796895&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250509_Signing Photo 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?fit=300%2C213&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/20250509_Signing-Photo-2.jpg?fit=780%2C553&amp;ssl=1" /></figure>
+<p>On May 9, 2025, the signing ceremony for the “Project for the Improvement of Water Supply System in Koror and Airai States” was held at the Embassy of Japan in Koror. The Government of Japan has granted approximately USD 17 million to support this critical infrastructure project aimed at further enhancing Palau’s water supply systems. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-and-palau-sign-and-exchange-notes-for-project-to-improve-water-supply-systems-in-koror-and-airai/">Japan and Palau sign and exchange notes for project to improve water supply systems in Koror and Airai</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japan-and-palau-sign-and-exchange-notes-for-project-to-improve-water-supply-systems-in-koror-and-airai/>
+
+---
+
+## United Airlines new service between Koror and Tokyo
+
+date: 2025-05-13, from: Island Times
+
+<p>Now Open for Sale New service connecting Palau and Japan commences October 30 Koror, May 9, 2025 – United Airlines has announced that tickets for its new route between Koror and Tokyo Narita are now open for sale.&#160; Tickets can be purchased at united.com, by contacting United Reservations or through travel agents. With the year-round, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/united-airlines-new-service-between-koror-and-tokyo/">United Airlines new service between Koror and Tokyo</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/united-airlines-new-service-between-koror-and-tokyo/>
+
+---
+
+## China accused of foreign interference in Solomon Islands after minister quits international group
+
+date: 2025-05-13, from: Island Times
+
+<p>HONIARA (ABC NEWS) &#8212; China&#8217;s Embassy in Solomon Islands has become embroiled in a foreign interference controversy after allegedly forcing a newly appointed minister in the Pacific Island nation to quit an international group pushing back against Beijing&#8217;s growing global influence. Rural Development Minister Daniel Waneoroa announced Sunday he had left the Inter-Parliamentary Alliance on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-accused-of-foreign-interference-in-solomon-islands-after-minister-quits-international-group/">China accused of foreign interference in Solomon Islands after minister quits international group</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-accused-of-foreign-interference-in-solomon-islands-after-minister-quits-international-group/>
+
+---
+
+## The uncertain future of Guam education
+
+date: 2025-05-13, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; On 21 March, President Donald Trump ordered the abolition of the U.S Department of Education, but its impact on local settings remains largely unknown.  The idea is to decentralise education and allow each state and territory to handle its individual needs. They may set their own education agenda and localise [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-uncertain-future-of-guam-education/">The uncertain future of Guam education</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-uncertain-future-of-guam-education/>
+
+---
+
+## Political parties in Taiwan recall dozens of MPs just one year after election
+
+date: 2025-05-13, from: Island Times
+
+<p>By Ilham Issak &#160;(ABC-Australia) A controversial campaign to prematurely unseat dozens of opposition members of parliament has polarized Taiwan, triggering competing rallies and fierce debate over the future of its democracy. Supporters say it&#8217;s about breaking political deadlock. Opponents say it&#8217;s a dangerous power grab by the ruling Democratic Progressive Party (DPP). Tens of thousands [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/political-parties-in-taiwan-recall-dozens-of-mps-just-one-year-after-election/">Political parties in Taiwan recall dozens of MPs just one year after election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/political-parties-in-taiwan-recall-dozens-of-mps-just-one-year-after-election/>
+
+---
+
+## From Waimea to wiring: Kauaʻi CC sparks a bright future for 1st-gen grad
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p>First-generation <span aria-label="Kauai">Kaua&#699;i</span> student Anson Lazaro powers through work, school and long commutes to a bright future.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/from-waimea-to-wiring-kauai-cc-1st-gen-grad/">From Waimea to wiring: Kauaʻi <abbr>CC</abbr> sparks a bright future for 1st-gen grad</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/from-waimea-to-wiring-kauai-cc-1st-gen-grad/>
+
+---
+
+## Reading the Pacific Future: Celebrating World Book and Copyright Day at The University of the South Pacific Library
+
+date: 2025-05-13, from: University of the South Pacific (Fiji)
+
+<p>On 23 April each year, UNESCO marks World Book and Copyright Day – an international...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/reading-the-pacific-future-celebrating-world-book-and-copyright-day-at-the-university-of-the-south-pacific-library/">Reading the Pacific Future: Celebrating World Book and Copyright Day at The University of the South Pacific Library</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/reading-the-pacific-future-celebrating-world-book-and-copyright-day-at-the-university-of-the-south-pacific-library/>
+
+---
+
+## Student film finalists selected for new UH Mānoa Sustainability Media Competition
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p>The Sustainability Media Competition encourages students to create short films on sustainability.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/sustainability-media-competition/">Student film finalists selected for new <abbr>UH</abbr> Mānoa Sustainability Media Competition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/sustainability-media-competition/>
+
+---
+
+## Indigenous views of elderhood offer lessons on aging
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p>The study finds elderhood in Indigenous communities is earned through wisdom, not age, promoting healthy aging.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/indigenous-elderhood-aging-views/">Indigenous views of elderhood offer lessons on aging</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/indigenous-elderhood-aging-views/>
+
+---
+
+## UH Community Colleges showcase Aloha spirit at an educational leaders conference
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p>Higher ed professionals gather in Kona for a conference rich in culture and connection.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/aloha-spirit-educational-leaders-conference/"><abbr>UH</abbr> Community Colleges showcase Aloha spirit at an educational leaders conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/aloha-spirit-educational-leaders-conference/>
+
+---
+
+## UH event brings dementia resources to Molokaʻi
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p>The event connected residents with vital dementia education and caregiving resources to support aging in rural communities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/dementia-resources-molokai-event/"><abbr>UH</abbr> event brings dementia resources to Molokaʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/dementia-resources-molokai-event/>
+
+---
+
+## UH Hilo agriculture farm hosts Bee-Coming Sustainable, highlights beekeeping program
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p>Bee-coming Sustainable is a partnership between <abbr>UH</abbr> Hilo Professor Lorna Tsutsumi and award-winning Chef Alan Wong.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/uh-hilo-bee-coming-sustainable-highlights-beekeeping-program/"><abbr>UH</abbr> Hilo agriculture farm hosts Bee-Coming Sustainable, highlights beekeeping program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/uh-hilo-bee-coming-sustainable-highlights-beekeeping-program/>
+
+---
+
+## UH med school’s silent teachers honored for their final act of giving
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p><abbr>JABSOM</abbr> medical students paddle out to scatter cremains off Magic Island, honoring anatomical donors and their families.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/willed-body-program-memorial/"><abbr>UH</abbr> med school’s silent teachers honored for their final act of giving</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/willed-body-program-memorial/>
+
+---
+
+## UH Hilo Agriculture Fair, symposium plant big ideas
+
+date: 2025-05-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo’s Ag Fair highlighted student research in farming, food systems and native ecosystems.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/12/uh-hilo-ag-fair-symposium-plant-big-ideas/"><abbr>UH</abbr> Hilo Agriculture Fair, symposium plant big ideas</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/12/uh-hilo-ag-fair-symposium-plant-big-ideas/>
 
 ---
 
@@ -357,6 +899,20 @@ date: 2025-05-12, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/content-analysis-indicates-china-meddling-in-philippine-polls-by-fabricating-pro-duterte-trend>
+
+---
+
+## Samoa Campus students receive Yazaki Kizuna Foundation scholarships
+
+date: 2025-05-12, from: University of the South Pacific (Fiji)
+
+<p>Ten students at The University of the South Pacific’s (USP) Samoa Campus are able to...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/samoa-campus-students-receive-yazaki-kizuna-foundation-scholarships/">Samoa Campus students receive Yazaki Kizuna Foundation scholarships</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/samoa-campus-students-receive-yazaki-kizuna-foundation-scholarships/>
 
 ---
 

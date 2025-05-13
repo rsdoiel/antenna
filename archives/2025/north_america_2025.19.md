@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-05-12 14:08:38
+updated: 2025-05-13 06:07:57
 ---
 
 # north america
 
-(date: 2025-05-12 14:08:38)
+(date: 2025-05-13 06:07:57)
+
+---
+
+## Words & Phrases We Can Do Without
+
+date: 2025-05-13, from: The Contrarian
+
+We've had more than our fill of Trump telling us about our &#8220;needs&#8221; 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-can-do-without-9d6>
+
+---
+
+## Evening Roundup
+
+date: 2025-05-12, from: The Contrarian
+
+Featuring "Offsides" with Pablo Torre & Jen Rubin; David Bernell & Thomas Graham; Meredith Blake; Austin Sarat; Michael de Adder; "Talking Feds;" and The Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-4dc>
+
+---
+
+## Bob from Chicago 
+
+date: 2025-05-12, from: The Contrarian
+
+Would a pope by any other name smell as sweet? 
+
+<br> 
+
+<https://contrarian.substack.com/p/bob-from-chicago>
 
 ---
 

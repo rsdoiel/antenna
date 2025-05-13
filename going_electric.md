@@ -1,11 +1,235 @@
 ---
 title: going electric
-updated: 2025-05-12 14:08:45
+updated: 2025-05-13 06:08:05
 ---
 
 # going electric
 
-(date: 2025-05-12 14:08:45)
+(date: 2025-05-13 06:08:05)
+
+---
+
+## Chinese Cars Will Enter The U.S. Market, Say Auto Execs
+
+date: 2025-05-13, from: Inside EVs News
+
+Plus, China's cash for clunkers was a huge success and a Tesla employee was fired after calling for Musk to resign. 
+
+<br> 
+
+<https://insideevs.com/news/759341/automakers-survey-chinese-cars-us/>
+
+---
+
+## A cop nearly smeared me across the bike lane. Here’s what went wrong [Video]
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/cop-car-cyclist-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As perhaps one of the most prolific electric bike reviewers on the internet, I spend a lot of time riding city streets and have occasionally wondered if this is the way I’ll go out one day. Yesterday, I nearly had the answer to that question as a police cruiser almost smeared me across three lanes of traffic.</p>
+
+
+
+<p>It happened to occur while I was in the middle of filming a review of a Velotric Breeze 1 electric bike. With the rare opportunity of catching a moment like that on camera, it turned into a chance for me to take a second look at what I did right as well as what I might have done wrong to wind up in that situation. </p>
+
+
+
+<p>And why keep that kind of analysis to myself? Come along with me while I Monday morning quarterback myself.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="415507" href="https://electrek.co/2025/05/13/a-cop-nearly-smeared-me-across-the-bike-lane-heres-what-went-wrong-video/#more-415507" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/a-cop-nearly-smeared-me-across-the-bike-lane-heres-what-went-wrong-video/>
+
+---
+
+## Geely Auto to sell EVs in Poland with the help of Jameel Motors
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Geely-Poland-Jameel-Motors.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Global Chinese auto group <a href="https://electrek.co/guides/geely/">Geely Auto</a> has signed an agreement with Jameel Motors to help distribute its New Energy Vehicles (NEVs) to customers around Poland.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="geely,jameel-motors,poland" data-layer-viewtype="unknown" data-post-id="415753" href="https://electrek.co/2025/05/13/geely-auto-to-sell-evs-in-poland-with-the-help-of-jameel-motors/#more-415753" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/geely-auto-to-sell-evs-in-poland-with-the-help-of-jameel-motors/>
+
+---
+
+## The EV tax credit may be going away, but Rivian EVs could still qualify in 2026, including the R2 [Update]
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-tax-credit-R2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>While the current majority in DC shared intentions to likely kill the existing <a href="https://electrek.co/guides/ev-federal-tax-credit/">$7,500 federal EV tax credit,</a> some language in a (very fluid) proposal suggests that not all automakers will be immediately affected. For example, Rivian is an American automaker whose sales are young enough that US consumers might still be able to take advantage of the tax credit, and that could also include the upcoming R2 EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-federal-tax-credit,ev-tax-credit,rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="415525" href="https://electrek.co/2025/05/13/ev-tax-credit-going-away-rivian-evs-could-still-qualify-2026-r2/#more-415525" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/ev-tax-credit-going-away-rivian-evs-could-still-qualify-2026-r2/>
+
+---
+
+## RIC Robotics shows off giant construction robot coming to job sites in 2026
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/zyrex-construction-robot.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>RIC Robotics just teased a 20-foot tall, AI-driven construction robot it calls, “the world’s first Giantroid.” <a href="https://www.youtube.com/watch?v=I84EEw3Hn5M">There’s a few dudes in Japan who may dispute that claim</a>, but there’s no question that this all-terrain robot has the potential to revolutionize the way big jobs get done!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,heavy-equipment,robots" data-layer-viewtype="unknown" data-post-id="415713" href="https://electrek.co/2025/05/13/ric-robotics-shows-off-giant-construction-robot-coming-to-job-sites-in-2026/#more-415713" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/ric-robotics-shows-off-giant-construction-robot-coming-to-job-sites-in-2026/>
+
+---
+
+## 2026 Toyota bZ4x Loses The Dumb Name, Gains A Whole Lot Of Range
+
+date: 2025-05-13, from: Inside EVs News
+
+A simpler name, bigger battery, NACS charging and loads of new features make the 2026 Toyota bZ an EV you'd genuinely want. 
+
+<br> 
+
+<https://insideevs.com/news/759370/2026-toyota-bz-more-range-and-features/>
+
+---
+
+## New Audi E-Tron GT Base Model Trades Power For More Range
+
+date: 2025-05-13, from: Inside EVs News
+
+It has the same battery pack as its more expensive siblings, but it’s the lightest of the bunch. 
+
+<br> 
+
+<https://insideevs.com/news/759400/base-audi-etron-gt-quattro-specs-range-price/>
+
+---
+
+## Tesla Wants To Deploy Robotaxis. Federal Investigators Have Questions
+
+date: 2025-05-13, from: Inside EVs News
+
+Safety investigators are particularly interested in how Tesla’s cars will handle poor weather conditions. 
+
+<br> 
+
+<https://insideevs.com/news/759388/tesla-robotaxi-nhtsa-questions-safety/>
+
+---
+
+## Hackers turn Nissan LEAF into full-scale RC car, record drivers’ conversations [video]
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/nissan-leaf-hacked.png?w=1600" /></div><p>A team of white hat European hackers using their brains, keyboards, and a couple of bits and baubles from eBay managed to take control of a 2020 Nissan LEAF and violate just about every privacy and safety regulation in the process.</p>
+
+
+
+<p>The best part: <strong>they recorded the whole thing</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hacker-computer-security,nissan,video" data-layer-viewtype="unknown" data-post-id="415668" href="https://electrek.co/2025/05/12/hackers-turn-nissan-leaf-into-full-scale-rc-car-record-drivers-conversations-video/#more-415668" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/12/hackers-turn-nissan-leaf-into-full-scale-rc-car-record-drivers-conversations-video/>
+
+---
+
+## Slate Racks Up 100,000 Reservations On Its Uber-Cheap Electric Truck
+
+date: 2025-05-12, from: Inside EVs News
+
+In just two weeks, the uber-cheap pickup went from a blank slate to 100,000 reservations. 
+
+<br> 
+
+<https://insideevs.com/news/759373/slate-100000-reservations-deposit-weeks/>
+
+---
+
+## A vast new UK battery plant just secured £1B to power 100k EVs
+
+date: 2025-05-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/AESC-Sunderland-May-2025.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A major new EV battery factory is being built in Sunderland, bringing 1,000 new jobs with it. AESC, Nissan’s battery partner, is behind the £1 billion ($1.33 billion) plant, which will boost the UK’s EV battery production by six times, enough to power 100,000 electric cars annually. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aesc,ev-batteries,uk,united-kingdom" data-layer-viewtype="unknown" data-post-id="415643" href="https://electrek.co/2025/05/12/uk-1b-ev-battery-plant-power-100k-evs-year/#more-415643" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/12/uk-1b-ev-battery-plant-power-100k-evs-year/>
+
+---
+
+## Ford is facing a worker strike at its EV plant in Germany: Here’s why
+
+date: 2025-05-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Fords-first-all-electric-Explorer-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s about the future of their jobs. <a href="https://electrek.co/guides/ford/">Ford</a> workers at two plants in western Germany are set to go on strike on Wednesday, their works council chief said on Monday.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="415637" href="https://electrek.co/2025/05/12/ford-facing-worker-strike-at-ev-plant-germany/#more-415637" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/12/ford-facing-worker-strike-at-ev-plant-germany/>
+
+---
+
+## Congress Just Took A Step Toward Killing The $7,500 EV Tax Credit
+
+date: 2025-05-12, from: Inside EVs News
+
+We're rapidly approaching the day the EV industry has been dreading. 
+
+<br> 
+
+<https://insideevs.com/news/759369/ev-tax-credit-2025-killed/>
+
+---
+
+## Slate’s $20k electric pickup that can be converted into an SUV has secured 100k reservations
+
+date: 2025-05-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Slack-EV-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Young EV startup <a href="https://electrek.co/guides/slate-ev/">Slate Auto</a> is gaining significant interest from the US consumer market, just weeks after it emerged out of stealth with a bare-bones all-electric pickup. The company just announced its “Blank Slate” EV has already garnered 100,000 reservations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="415639" href="https://electrek.co/2025/05/12/slates-20k-electric-pickup-suv-100k-reservations/#more-415639" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/12/slates-20k-electric-pickup-suv-100k-reservations/>
+
+---
+
+## General Motors Just Hired Tesla's Former Head Of Autopilot
+
+date: 2025-05-12, from: Inside EVs News
+
+Anderson was Tesla's head of Autopilot back in the day, and now joins another former Tesla exec in a high-level position at GM. 
+
+<br> 
+
+<https://insideevs.com/news/759357/gm-tesla-autopilot-head-poached/>
 
 ---
 

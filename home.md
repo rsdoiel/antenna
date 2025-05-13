@@ -1,11 +1,125 @@
 ---
 title: home
-updated: 2025-05-12 14:08:44
+updated: 2025-05-13 06:08:03
 ---
 
 # home
 
-(date: 2025-05-12 14:08:44)
+(date: 2025-05-13 06:08:03)
+
+---
+
+## Designers Are Creating At-Home Pet Spas for Their Dog-Obsessed Clients
+
+date: 2025-05-13, from: Dwell
+
+As the family pet has morphed into the "fur baby," designers are making washing the dog easier—and more beautiful. 
+
+<br> 
+
+<https://www.dwell.com/article/pet-spas-dog-bath-designers-46207042>
+
+---
+
+## In Toronto, an Indigenous Women’s Emergency Shelter Provides a Safe Haven to Recover
+
+date: 2025-05-13, from: Dwell
+
+Anduhyaun’s new transitional housing facility for women and children escaping violence centers the cultural identities of its residents in its design. 
+
+<br> 
+
+<https://www.dwell.com/article/anduhyaun-emergency-womens-shelter-lga-architectural-partners-toronto-b3ef18f7>
+
+---
+
+## A Record Label Cofounder Cues Up a Second Take for a Hollywood Hills Midcentury
+
+date: 2025-05-13, from: Dwell
+
+Local design studio The Curator used earth tones and handmade finishes to compose a wabi-sabi revamp for Sean Famoso and his tiny goldendoodle, Hellcat. 
+
+<br> 
+
+<https://www.dwell.com/article/number-26-casc-design-midcentury-renovation-west-hollywood-california-6773cf86>
+
+---
+
+## An Artist Lets the Wind and Wildlife of Oaxaca Flow Through Her Radically Open Home
+
+date: 2025-05-13, from: Dwell
+
+Without any walls to keep nature out, Deborah Castillo’s thatched roof beach house creates clever ways of living with the world around it. 
+
+<br> 
+
+<https://www.dwell.com/article/palapa-concreta-puerto-escondido-a-frame-lasala-and-lasala-oaxaca-mexico-f2af54f2>
+
+---
+
+## A Designer Builds a Home With a Rooftop Hot Tub on His Parents’ Ranch in Guatemala
+
+date: 2025-05-13, from: Dwell
+
+Dwell 24 alum Manny Rionda fled from the city to his family’s finca during Covid lockdowns and devised a home for himself there where he could live among the trees. 
+
+<br> 
+
+<https://www.dwell.com/article/manny-rionda-casa-zanate-cinco-x-cinco-guatemala-27ce0961>
+
+---
+
+## This Rooftop Greenhouse Is the Ideal Work-From-Home Space for a Plant-Loving Uruguayan Couple
+
+date: 2025-05-13, from: Dwell
+
+Amalia Branaa Donner and Uzi Sabah renovated a midcentury house to embrace nature—with the help of an architect they found in Dwell. 
+
+<br> 
+
+<https://www.dwell.com/article/nativa-house-from-arch-montevideo-uruguay-rooftop-greenhouse-027142a0>
+
+---
+
+## How to Plant, Grow, and Care for Lamb’s Ear
+
+date: 2025-05-13, from: The Gardener's Path
+
+<p>Lamb’s ears is a perennial ground cover that's easy to grow in well-draining soil and in full or partial sun. It features thick, silvery leaves and beautiful purple flowers, making it a good choice for landscaping. And its fuzzy foliage make it a popular addition to children’s and sensory gardens as well. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-lambs-ear/">How to Plant, Grow, and Care for Lamb’s Ear</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-lambs-ear/>
+
+---
+
+## How to Harvest and Use Edible Flowers
+
+date: 2025-05-13, from: The Gardener's Path
+
+<p>Both beautiful in the garden and yummy in the kitchen, edible flowers are a treat for the eyes and mouth. If you grow them, you might as well harvest and use them! How exactly? In this guide, we cover all the details on how and when you can harvest them, plus some intel on storing these pretty palate pleasers. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/harvest-edible-flowers/">How to Harvest and Use Edible Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/harvest-edible-flowers/>
+
+---
+
+## How to Grow Love Lies Bleeding
+
+date: 2025-05-13, from: The Gardener's Path
+
+<p>Whether you plant Amaranthus caudatus for its striking 2-foot-long red flower heads, for its medicinal properties, or to eat it for breakfast, you won’t be disappointed with this large tropical native that’s made itself at home in North America. Learn how to grow and care for love lies bleeding in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/annuals/grow-love-lies-bleeding-amaranthus/">How to Grow Love Lies Bleeding</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/annuals/grow-love-lies-bleeding-amaranthus/>
 
 ---
 
@@ -60,6 +174,30 @@ date: 2025-05-12, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-distress-furniture/>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-12, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Disneyland Just Dropped a Special Ticket Price
+
+date: 2025-05-12, from: Sunset Magazine - Living in the West
+
+To celebrate its 70th anniversary, Disneyland is offering a special ticket deal. Find out how to take advantage of it. 
+
+<br> 
+
+<https://www.sunset.com/travel/disneyland-70th-anniversary-ticket>
 
 ---
 

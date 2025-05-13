@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2025-05-12 14:08:43
+updated: 2025-05-13 06:08:03
 ---
 
 # libraries
 
-(date: 2025-05-12 14:08:43)
+(date: 2025-05-13 06:08:03)
+
+---
+
+## Delete the Drama: Creating A Cyberbully-free Zone in Scholarly Publishing
+
+date: 2025-05-13, from: Scholarly Kitchen
+
+<p>It’s not always easy to recognize a cyberbully, or initially realize you’re being targeted. Here, some practices to help you to grow and protect your professional networks in ways that align with your values and vision.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/13/delete-the-drama-creating-a-cyberbully-free-zone-in-scholarly-publishing/">Delete the Drama: Creating A Cyberbully-free Zone in Scholarly Publishing </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/13/delete-the-drama-creating-a-cyberbully-free-zone-in-scholarly-publishing/>
+
+---
+
+## Welcoming a New Chef in the Kitchen, Randy Townsend
+
+date: 2025-05-13, from: Scholarly Kitchen
+
+<p>Today, Randy Townsend officially joins us as a regular contributor in The Scholarly Kitchen.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/13/welcoming-a-new-chef-in-the-kitchen-randy-townsend/">Welcoming a New Chef in the Kitchen, Randy Townsend</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/13/welcoming-a-new-chef-in-the-kitchen-randy-townsend/>
 
 ---
 

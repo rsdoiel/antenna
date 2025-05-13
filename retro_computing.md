@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-12 14:08:44
+updated: 2025-05-13 06:08:04
 ---
 
 # retro computing
 
-(date: 2025-05-12 14:08:44)
+(date: 2025-05-13 06:08:04)
 
 ---
 

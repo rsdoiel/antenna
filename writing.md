@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-05-12 14:08:42
+updated: 2025-05-13 06:08:01
 ---
 
 # writing
 
-(date: 2025-05-12 14:08:42)
+(date: 2025-05-13 06:08:01)
+
+---
+
+## How To Find the Time To Write Your Screenplay
+
+date: 2025-05-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-find-the-time-to-write-your-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/wooden%20figurine%20stands%20next%20to%20a%20black%20alarm%20clock%2c%20writing%20the%20word%20TIME%20on%20a%20chalkboard.png" alt="wooden figurine stands next to a black alarm clock, writing the word TIME on a chalkboard" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>In a perfect world, we’d all have unlimited time to work on our scripts. Studying for school, working to pay the bills, and family obligations would be taken care of, and there would be plenty of free time consisting of nothing more than you, your laptop, and the worlds and characters you create.&nbsp;<br><br>But it’s not a perfect world, and we have responsibilities to attend to. Even if you become a professional screenwriter, you’ll still need to balance your writing with social engagements, health objectives and family duties. Part of any job is learning to balance that job with this thing we call <em>life</em>. So whether you’re a beginner or professional, it’s essential to learn how to balance your life with your writing.&nbsp;<br><br>Below we’ll discuss various methods and ways of thinking that can help you f<span style="font-weight: bold;">ind the time to write your screenplay</span>.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-find-the-time-to-write-your-screenplay>
 
 ---
 

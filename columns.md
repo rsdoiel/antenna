@@ -1,11 +1,164 @@
 ---
 title: columns
-updated: 2025-05-12 14:08:41
+updated: 2025-05-13 06:08:00
 ---
 
 # columns
 
-(date: 2025-05-12 14:08:41)
+(date: 2025-05-13 06:08:00)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Spring in Massachusetts</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114500372140877942>
+
+---
+
+## Court Rules Against NSO Group
+
+date: 2025-05-13, updated: 2025-05-12, from: Bruce Schneier blog
+
+<p>The case is <a href="https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/">over</a>:</p>
+<blockquote><p>A jury has awarded WhatsApp $167 million in punitive damages in a case the company brought against Israel-based NSO Group for exploiting a software vulnerability that hijacked the phones of thousands of users.</p></blockquote>
+<p>I&#8217;m sure it&#8217;ll be appealed. Everything always is.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/court-rules-against-nso-group.html>
+
+---
+
+## Trump’s Huge Tariff Hoax
+
+date: 2025-05-13, from: Robert Reich's blog
+
+A big lie is at the heart of Trump&#8217;s tariffs 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-tariff-hoax>
+
+---
+
+## 1k-0036 means sad eyeballs on my LG
+
+date: 2025-05-13, from: Daniel Stenberg Blog
+
+For a to me unknown reason IPv6 connectivity has been failing to my home the last few days. When I try to curl curl.se I get to see a lot of IPv6 related failures and instead it connects to and uses one of the IPv4 addresses. IPv6 has been working fine for me non-stop for &#8230; <a href="https://daniel.haxx.se/blog/2025/05/13/1k-0036-means-sad-eyeballs-on-my-lg/" class="more-link">Continue reading <span class="screen-reader-text">1k-0036 means sad eyeballs on my LG</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/05/13/1k-0036-means-sad-eyeballs-on-my-lg/>
+
+---
+
+## May 12, 2025
+
+date: 2025-05-13, from: Heather Cox Richardson blog
+
+The biggest news over the weekend was silence: the silence of Republicans. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-12-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Another write up of GodotCon Boston: <a href="https://russmatney.com/#/posts/techsposure/2025-05-09-boston-godot-con" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">russmatney.com/#/posts/techspo</span><span class="invisible">sure/2025-05-09-boston-godot-con</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114498086384789530>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-13, from: Miguel de Icaza Mastondon feed)
+
+<p>One of the participants at GodotCon Boston has a nice write up of attending the conference and other side events:</p><p><a href="https://itch.io/blog/941196/godotcon-boston-2025" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">itch.io/blog/941196/godotcon-b</span><span class="invisible">oston-2025</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114498073545488109>
+
+---
+
+##  I am cautiously optimistic about F1. (The Brad Pitt movie — there&#8217;s... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046831-i-am-cautiously-optimisti>
+
+---
+
+## Just Plane Corrupt
+
+date: 2025-05-12, from: Dan Rather's Steady
+
+Trump&#8217;s priorities are his company and his cash, not his country 
+
+<br> 
+
+<https://steady.substack.com/p/just-plane-corrupt>
+
+---
+
+## [Sponsor] Bolt: What Do You Want to Build?
+
+date: 2025-05-12, updated: 2025-05-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://srv.buysellads.com/ads/long/x/THREKCSVTTTTTTTZHWQNETTTTTTDCFVJ2TTTTTTTADZJNBTTTTTTTRIV22DW47II2RZULYSCKY7FTBDDQ7QCCYPBG6BT>
+
+---
+
+## How the Corporate Raiders Led to Trump
+
+date: 2025-05-12, from: Robert Reich's blog
+
+Michael Milken &#8212; whose big financial confab last week reflected worries about Trump&#8217;s tariffs &#8212; contributed to the rise of Trump. 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-the-corporate-raiders-caused>
+
+---
+
+##  The Three Types of Specialists Needed for Any Revolution 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/the-three-types-of-specialists-needed-for-any-revolution>
+
+---
+
+##  In Shanghai, &#8220;a new crowd-sourced transit platform allows riders to propose, vote... 
+
+date: 2025-05-12, updated: 2025-05-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046829-in-shanghai-a-new-crowd-s>
 
 ---
 

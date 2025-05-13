@@ -1,11 +1,119 @@
 ---
 title: journalism
-updated: 2025-05-12 14:08:43
+updated: 2025-05-13 06:08:02
 ---
 
 # journalism
 
-(date: 2025-05-12 14:08:43)
+(date: 2025-05-13 06:08:02)
+
+---
+
+## USAC recap – May 6
+
+date: 2025-05-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council allocated over $500,000 in surplus funding at its meeting Tuesday. 
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/12/usac-recap-may-6-3/>
+
+---
+
+## How Girls Who Code is hacking the gender gap
+
+date: 2025-05-13, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The tech industry is rapidly growing and evolving, yet the gender gap remains a pervasive challenge with women still underrepresented in the field. According to</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/12/how-girls-who-code-is-hacking-the-gender-gap/">How Girls Who Code is hacking the gender gap</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/12/how-girls-who-code-is-hacking-the-gender-gap/?utm_source=rss&utm_medium=rss&utm_campaign=how-girls-who-code-is-hacking-the-gender-gap>
+
+---
+
+## All About the Santa Ana Winds
+
+date: 2025-05-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/12/all-about-the-santa-ana-winds/>
+
+---
+
+## From bedside care to the boxing ring
+
+date: 2025-05-13, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; As Juan Juarez faced his opponent, he was nervous. However, he held himself with a confidence that served as a positive force behind his</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/12/from-bedside-care-to-the-boxing-ring/">From bedside care to the boxing ring</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/12/from-bedside-care-to-the-boxing-ring/?utm_source=rss&utm_medium=rss&utm_campaign=from-bedside-care-to-the-boxing-ring>
+
+---
+
+## PCC talks new buildings and old problems
+
+date: 2025-05-12, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Budget discussion and campus construction continue to be top of mind for the Pierce College Council (PCC), which met Thursday, March 27, on Zoom. &#160;</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/12/pcc-talks-new-buildings-and-old-problems/">PCC talks new buildings and old problems</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/12/pcc-talks-new-buildings-and-old-problems/?utm_source=rss&utm_medium=rss&utm_campaign=pcc-talks-new-buildings-and-old-problems>
+
+---
+
+## Ralina Joseph to become UCLA’s inaugural vice provost of inclusive excellence
+
+date: 2025-05-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ralina Joseph will be UCLA&#8217;s inaugural vice provost of inclusive excellence, according to a Monday announcement.
+Executive Vice Chancellor and Provost Darnell Hunt announced the appointment of the University of Washington professor of communication in a Monday campuswide email. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/12/ralina-joseph-to-become-uclas-inaugural-vice-provost-of-inclusive-excellence/>
+
+---
+
+## Budget continues to be discussed at Academic Senate
+
+date: 2025-05-12, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The college’s budget, courses and the role of the Department of Education in funding were topics discussed at the Pierce College Academic Senate meeting on</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/12/budget-continues-to-be-discussed-at-academic-senate/">Budget continues to be discussed at Academic Senate</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/12/budget-continues-to-be-discussed-at-academic-senate/?utm_source=rss&utm_medium=rss&utm_campaign=budget-continues-to-be-discussed-at-academic-senate>
+
+---
+
+## Sexuality and Gender Alliance club fosters resilience
+
+date: 2025-05-12, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Sexuality and Gender Alliance Club (SAGA) members discussed  recent federal hostility toward the LGBTQ+ community during their meeting on Wednesday, March 19, in the Multicultural</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/12/sexuality-and-gender-alliance-club-fosters-resilience/">Sexuality and Gender Alliance club fosters resilience</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/12/sexuality-and-gender-alliance-club-fosters-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=sexuality-and-gender-alliance-club-fosters-resilience>
 
 ---
 

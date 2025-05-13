@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-05-12 14:08:42
+updated: 2025-05-13 06:08:02
 ---
 
 # games
 
-(date: 2025-05-12 14:08:42)
+(date: 2025-05-13 06:08:02)
+
+---
+
+## Palworld’s next big update is a Terraria collab — something Pokémon would never do
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Pocketpair has announced that the next major update for its hit creature-collection game Palworld will be a crossover event with Terraria — which, apropos of nothing, is something Nintendo would never do with the legally distinct (or is it?) creature-collection game Pokémon. The update, titled “Tides of Terraria,” will be released this summer. Pocketpair didn’t [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598779/palworlds-tides-of-terraria-update>
+
+---
+
+## No, Ori developer Moon Studios won’t be shutting down due to Steam reviews
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Moon Studios CEO Thomas Mahler caused a bit of panic over the weekend as comments he left on Discord made the rounds, causing fans and media outlets to worry the Ori and the Blind Forest developer was in danger of shutting down due to the reception to its latest release, No Rest for the Wicked. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598733/ori-moon-studios-not-shutting-down-no-rest-for-wicked-reviews>
+
+---
+
+## Let’s pregame Tony Gilroy and Diego Luna’s May 13 Andor livestream Q&#038;A
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Disney announced on Monday evening that it will be holding a livestream Q&#38;A for season 2 of its Star Wars drama Andor on Tuesday, May 14, at 12 p.m. ET. The stream will be hosted on YouTube, and will center on series creator, writer, and showrunner Tony Gilroy and star Diego Luna, though other guests [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/598764/andor-tony-gilroy-diego-luna-season-2-livestream-where-to-watch>
+
+---
+
+## Can Sandygast be shiny in Pokémon Go?
+
+date: 2025-05-13, updated: 2025-05-12, from: Polygon Website
+
+Sandygast, the sand heap Pokémon from Unova, can be found in the wild in Pokémon Go. Yes, Sandygast can be shiny in Pokémon Go! Neither of these Pokémon are super relevant to the meta, but you can use Palossand in the Ultra League for PvP, if you want. Luckily, that shiny is incredible, making it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/598611/can-sandygast-be-shiny-palossand>
+
+---
+
+## Action RPG Silver Palace looks like if Hoyoverse made Metaphor: ReFantazio
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Anime-inspired action role-playing game Silver Palace, revealed Monday by developer-publisher Elementa, looks heavily inspired by games like Genshin Impact, Honkai Star Rail, and Zenless Zone Zero —&#160;you know, the kind of we’re-putting-everything-in-this-game game, in which well-dressed cartoon cuties unleash blistering ass-whoopings on giant monsters. Silver Palace also looks like it borrows a bit from Atlus’ [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598703/silver-palace-rpg-trailer>
 
 ---
 

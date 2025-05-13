@@ -1,11 +1,51 @@
 ---
 title: food
-updated: 2025-05-12 14:08:45
+updated: 2025-05-13 06:08:05
 ---
 
 # food
 
-(date: 2025-05-12 14:08:45)
+(date: 2025-05-13 06:08:05)
+
+---
+
+## La Marzocco Teams Up With Aimé Leon Dore For A New Take On The Linea Micra
+
+date: 2025-05-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The new espresso machine is made to order at Officine Fratelli Bambi. 
+
+<br> 
+
+<https://sprudge.com/la-marzocco-teams-up-with-aime-leon-dore-for-a-new-take-on-the-linea-micra-334412.html>
+
+---
+
+## Coffee Goods in Limbo as Tariffs Impact Gear Manufacturers
+
+date: 2025-05-13, from: The Fresh Cup
+
+<p>For coffee equipment manufacturers who rely on Chinese imports, the 154% tariff could significantly raise costs and prove financially devastating. </p>
+<p>The post <a href="https://freshcup.com/coffee-goods-in-limbo-as-tariffs-impact-gear-manufacturers/">Coffee Goods in Limbo as Tariffs Impact Gear Manufacturers</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-goods-in-limbo-as-tariffs-impact-gear-manufacturers/>
+
+---
+
+## This Fast-Food Chain Just Dropped a Sandwich Called ‘The Leo,’ and I Feel Blessed
+
+date: 2025-05-12, from: Taste of Home
+
+<p>Catholic or not, this might be the best Italian beef you'll ever encounter.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/portillos-the-leo-review/">This Fast-Food Chain Just Dropped a Sandwich Called &#8216;The Leo,&#8217; and I Feel Blessed</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/portillos-the-leo-review/>
 
 ---
 
@@ -42,6 +82,20 @@ Dependable, reliable, and virtually indestructible.
 <br> 
 
 <https://www.bonappetit.com/story/best-cast-iron-skillet>
+
+---
+
+## Cooler Recall Just Expanded to Include More Than 1.2 Million Dangerous Igloo Coolers
+
+date: 2025-05-12, from: Taste of Home
+
+<p>This cooler recall does not have great timing.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/igloo-cooler-recall-may-2025/">Cooler Recall Just Expanded to Include More Than 1.2 Million Dangerous Igloo Coolers</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/igloo-cooler-recall-may-2025/>
 
 ---
 
