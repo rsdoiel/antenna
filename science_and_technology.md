@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-05-13 06:07:59
+updated: 2025-05-13 14:07:46
 ---
 
 # science and technology
 
-(date: 2025-05-13 06:07:59)
+(date: 2025-05-13 14:07:46)
+
+---
+
+## Qatar’s $400M jet for Trump is a gold-plated security nightmare
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Air Force Dumb</h4> <p>The Trump administration is set to accept a $400 million luxury 747-8 from the royal family of Qatar – a lavish &#34;palace in the sky&#34; meant as a temporary Air Force One. But getting it up to presidential security standards could take years and cost hundreds of millions more.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/presidents_trump_747_qatar/>
+
+---
+
+## NASA’s Artemis III Core Stage Receives Thermal Protection Coating
+
+date: 2025-05-13, from: NASA breaking news
+
+NASA completed another step to ready its SLS (Space Launch System) rocket for the Artemis III mission as crews at the agency’s Michoud Assembly Facility in New Orleans recently applied a thermal protection system to the core stage’s liquid hydrogen tank. Building on the crewed Artemis II flight test, Artemis III will add new capabilities [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasas-artemis-iii-core-stage-receives-thermal-protection-coating/>
+
+---
+
+## NASA Hosts Industry, Government, Academia to Explore Partnerships
+
+date: 2025-05-13, from: NASA breaking news
+
+On April 29, more than 90 representatives from industry, U.S. federal labs, government agencies, and academia gathered at NASA’s Ames Research Center in California’s Silicon Valley to learn about the center’s groundbreaking research and development capabilities. The three-day event provided insight into the many ways to collaborate with NASA, including tapping into the agency’s singular subject matter expertise and gaining access to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-hosts-industry-government-academia-to-explore-partnerships/>
+
+---
+
+## Take a Tour of the Cosmos with New Interactives from NASA’s Universe of Learning
+
+date: 2025-05-13, from: NASA breaking news
+
+Ready for a tour of the cosmos? NASA’s Universe of Learning has released a new, dynamic way for lifelong learners to explore NASA’s breathtaking images of the universe—ViewSpace interactive Image Tours. ViewSpace has an established track record of providing museums, science centers, libraries, and other informal learning environments with free, web-based videos and digital interactives—like […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/take-a-tour-of-the-cosmos-with-new-interactives-from-nasas-universe-of-learning/>
+
+---
+
+## Crosscompiling for OpenBSD arm64
+
+date: 2025-05-13, from: OS News
+
+Following on from OpenBSD/arm64 on QEMU, it’s not always practical to compile userland software or a new kernel on some systems, particularly small SoCs with limited space and memory &#8211; or indeed QEMU, in fear of melting your CPU. There are two scenarios here &#8211; the first, if you are looking for a standard cross-compiler for Aarch64, and the second if you want an OpenBSD-specific environment. ↫ Daniel Nechtan Exactly what it says on the tin. 
+
+<br> 
+
+<https://www.osnews.com/story/142347/crosscompiling-for-openbsd-arm64/>
+
+---
+
+## Microsoft boots 3% of staff in latest cull, middle managers first in line
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Redmond talks up new technologies, capabilities for productivity ... just don’t call it AI</h4> <p>Microsoft is axing 3 percent of its global workforce - its biggest purge since chopping 10,000 jobs in early 2023 - this time to flatten its management structure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/microsoft_layoff/>
+
+---
+
+## Commvault fixes critical Command Center issue after flaw finder alert
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Pay-to-play security on CVSS 10 issue is now fixed</h4> <p>An update that fixed a critical flaw in data protection biz Commvault&#39;s Command Center was initially not available to a significant user subset – those testing out a free trial version of the product. That is, until a security researcher pointed out the problem.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/patch_commvault_cvss_10/>
+
+---
+
+## Judge puts two-week pause on Trump's mass government layoffs
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>But the government may be ignoring it anyway</h4> <p>The Trump administration&#39;s ongoing mass firing of government employees has been put on hold, with a federal judge calling the move &#34;likely illegal&#34; and ordering the government to hand over evidence to prove it didn&#39;t violate the law.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/trump_government_layoffs_frozen/>
+
+---
+
+## Lightning in Southeast Asia
+
+date: 2025-05-13, from: NASA breaking news
+
+A flash of lightning shines brighter than the lights of nearby cities in this Oct. 29, 2024, image taken by astronaut Don Pettit while aboard the International Space Station. At the time of this photograph, little to no moonlight illuminated the scene. This allows astronauts to see and photograph a variety of light sources with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/lightning-in-southeast-asia/>
+
+---
+
+## Introducing The Quanta Podcast
+
+date: 2025-05-13, from: Quanta Magazine
+
+Exploring the distant universe, the insides of cells, the abstractions of math, the complexity of information itself and much more, The Quanta Podcast will be a tour of the frontier between the known and the unknown.             <p>The post <a href="https://www.quantamagazine.org/introducing-the-quanta-podcast-20250513/" target="_blank">Introducing The Quanta Podcast</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/introducing-the-quanta-podcast-20250513/>
+
+---
+
+## What is a Black Hole? We Asked a NASA Expert: Episode 59
+
+date: 2025-05-13, from: NASA breaking news
+
+What is a black hole? Well, the name is actually a little misleading because black holes aren&#8217;t actually holes. They’re regions in space that have a gravitational pull that is so strong that nothing can escape, not even light. Scientists know about two different sizes of black holes — stellar-mass black holes and supermassive black [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/what-is-a-black-hole-we-asked-a-nasa-expert-episode-59/>
+
+---
+
+## NASA Enables Construction Technology for Moon and Mars Exploration
+
+date: 2025-05-13, from: NASA breaking news
+
+One of the keys to a sustainable human presence on distant worlds is using local, or in-situ, resources which includes building materials for infrastructure such as habitats, radiation shielding, roads, and rocket launch and landing pads. NASA’s Space Technology Mission Directorate is leveraging its portfolio of programs and industry opportunities to develop in-situ, resource capabilities [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/nasa-enables-construction-technology-for-moon-and-mars-exploration/>
+
+---
+
+## Microsoft facing multibillion legal claim over how it sells software
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Stop us if you&#39;ve heard this one before</h4> <p>A legal claim has been brought against Microsoft over alleged licensing practices that could result in a multibillion-pound payout for UK customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/microsoft_licensing_lawsuit/>
+
+---
+
+## 'We still have embeds in CISA': CTO of Brit cyber agency talks post-Trump relationship with US counterpart
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>Both agencies seem unbothered despite tech world&#39;s clear concerns for US infoseccers</h4> <p><strong>CYBERUK</strong>  The top brass from the UK&#39;s cyber agency say everything is business as usual when it comes to the GCHQ arm&#39;s relationship with CISA, amid growing unease about the current administration&#39;s treatment of its US equivalent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/cisa_ncsc/>
+
+---
+
+## AMD is Ryzen to the SMB occasion with a bundle of baby Epycs
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>The House of Zen’s low-end enterprise strategy is badge engineering at its best</h4> <p>AMD on Tuesday revealed its latest chips to get a Zen 5 refresh with the launch of its itty bitty Epyc 4005-series CPUs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/amd_epyc_4005/>
 
 ---
 
@@ -169,7 +349,7 @@ date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
 
 date: 2025-05-12, from: OS News
 
-I had to dig through our extensive archive &#8211; OSNews was founded in 2007, after all &#8211; to see if we reported on it at the time, but it turns out we didn&#8217;t: in 2006, Intel announced that in 2007, it would cease production of a range of old chips, including the 386 and 486. In Product Change Notification 106013-01, Intel proclaimed these chips dead. Intel Corporation has been manufacturing its MCS 51, MCS 251 and MCS 96 Microcontroller Product Lines for over 25 years now, and the Intel 186 Processor Families, the Intel 386 Processor Families and the Intel 486 Processor Families for over 15 years now. Additionally, we have been manufacturing the i960 32 Bit RISC Processor Families for over 15 years. However, at this time, the forecasted volumes for these product lines are now too low to continue production of these products beyond the year 2007. Therefore, Intel will cease manufacturing silicon wafers for our 6&#8243; based processes in 2007. Affected products include Intel&#8217;s MCS 51, MCS 251, MCS 96, 80X18X, 80X38X, 80X486DXX, the i960 Family of Microcomputers, in addition to the 82371SB, 82439TX and the 82439HX Chipsets. Intel has no choice but to issue a Product Discontinuance Notice (PDN) effective 3/30/06. Last time orders will be accepted till 3/30/07 with last time ship dates of 9/28/07. ↫ Intel Product Change Notification 106013-01 Considering the 386, 486, and i960 families of processors were only used for niche embedded at very low volumes at that point in time, it made sense to call it quits. We&#8217;re 18 years down the line now, and I don&#8217;t think anyone really mourns the end of production for these processors. Windows ended support for these chips well before the 2007 end of production date, with Windows 2000 being the last Windows version that would run on a 486, albeit only barely, since it officially required a Pentium processor. Linux, though, continued to support the 486, but that, too, is now coming to an end. In a patch submitted to the LKML, Ingo Molnár, support for a variety of &#8220;complicated hardware emulation facilities&#8221; for x86-32 will be removed, effectively ending support for 486 and very early 586 processors, by increasing the minimum kernel support features to include TSC and CX8 (CMPXCHG8B) hardware support. Linus Torvalds has expressed interest in removing support for the 486 back in 2022, so this move doesn&#8217;t come as a huge surprise. While most tech news outlets leave it at that, as I was reading this news, I immediately thought of the Vortex86 line of processors and what this would mean for Linux support for those processors. In case you&#8217;re unaware, the Vortex86 is a line of x86-32-compatible processors, originating at SiS, but now developed and produced by DMP Electronics in Taiwain. The last two variants were the Vortex86DX3, a dual-core chip running at 1Ghz, and the Vortex86EX2, a chip with two asymmetrical cores that can run two operating systems at once. Their platform support documents for Windows and Linux are from 2021, so we can&#8217;t rely on those for more information. Digging through some of the documentation from ICOP, who sell industrial PCs based on the latest Vortex86DX3, I think support in modern kernels is very much hit and miss even before this news. All Vortex86 processors are supposedly i586 (with later variants being i686, even), but some of the earlier versions were compatible with the 486SX. On top of that, Linux 4.14 seems to be the last kernel that supports any of these chips out-of-the-box based on the documentation by DMP &#8211; but then, if you go back to ICOP, you&#8217;ll find news items about Linux 5.16 adding better support for Vortex86, so I&#8217;m definitely confused. My uneducated guess is that the DX3 and EX2 will probably work even after these changes to the Linux kernel, but earlier models might have more problems. Even on the LKML I can find messages from the kind of people who know their stuff who don&#8217;t know all the ins and outs of these Vortex86 processors, and which instructions they actually support. It won&#8217;t matter much for people relying on Vortex86 processors in industrial and commercial settings, though, since they tend to use custom stacks built by the vendor, so they&#8217;re going to be just fine. What&#8217;s more interesting is the what I assume is a small enthusiast market using Vortex86 processors who might want to run modern Linux kernels on them. I have a feeling these code removals might lead to some issues on especially the earlier models, meaning you&#8217;ll have to use older kernels. I&#8217;ve always been fascinated by the Vortex86 line of processors, and on numerous occasions I&#8217;ve hovered over the buy button on some industrial PC using the VortexDX3 (or earlier) processor. Let me know if you&#8217;re interested in seeing what this chip can do, and if there&#8217;s enough interest, I can see if I can set a Ko-Fi goal to buy one these and mess around with Windows Embedded/CE, Linux, and god knows what else these things can be made to run. 
+I had to dig through our extensive archive &#8211; OSNews was founded in 1997, after all &#8211; to see if we reported on it at the time, but it turns out we didn&#8217;t: in 2006, Intel announced that in 2007, it would cease production of a range of old chips, including the 386 and 486. In Product Change Notification 106013-01, Intel proclaimed these chips dead. Intel Corporation has been manufacturing its MCS 51, MCS 251 and MCS 96 Microcontroller Product Lines for over 25 years now, and the Intel 186 Processor Families, the Intel 386 Processor Families and the Intel 486 Processor Families for over 15 years now. Additionally, we have been manufacturing the i960 32 Bit RISC Processor Families for over 15 years. However, at this time, the forecasted volumes for these product lines are now too low to continue production of these products beyond the year 2007. Therefore, Intel will cease manufacturing silicon wafers for our 6&#8243; based processes in 2007. Affected products include Intel&#8217;s MCS 51, MCS 251, MCS 96, 80X18X, 80X38X, 80X486DXX, the i960 Family of Microcomputers, in addition to the 82371SB, 82439TX and the 82439HX Chipsets. Intel has no choice but to issue a Product Discontinuance Notice (PDN) effective 3/30/06. Last time orders will be accepted till 3/30/07 with last time ship dates of 9/28/07. ↫ Intel Product Change Notification 106013-01 Considering the 386, 486, and i960 families of processors were only used for niche embedded at very low volumes at that point in time, it made sense to call it quits. We&#8217;re 18 years down the line now, and I don&#8217;t think anyone really mourns the end of production for these processors. Windows ended support for these chips well before the 2007 end of production date, with Windows 2000 being the last Windows version that would run on a 486, albeit only barely, since it officially required a Pentium processor. Linux, though, continued to support the 486, but that, too, is now coming to an end. In a patch submitted to the LKML, Ingo Molnár, support for a variety of &#8220;complicated hardware emulation facilities&#8221; for x86-32 will be removed, effectively ending support for 486 and very early 586 processors, by increasing the minimum kernel support features to include TSC and CX8 (CMPXCHG8B) hardware support. Linus Torvalds has expressed interest in removing support for the 486 back in 2022, so this move doesn&#8217;t come as a huge surprise. While most tech news outlets leave it at that, as I was reading this news, I immediately thought of the Vortex86 line of processors and what this would mean for Linux support for those processors. In case you&#8217;re unaware, the Vortex86 is a line of x86-32-compatible processors, originating at SiS, but now developed and produced by DMP Electronics in Taiwain. The last two variants were the Vortex86DX3, a dual-core chip running at 1Ghz, and the Vortex86EX2, a chip with two asymmetrical cores that can run two operating systems at once. Their platform support documents for Windows and Linux are from 2021, so we can&#8217;t rely on those for more information. Digging through some of the documentation from ICOP, who sell industrial PCs based on the latest Vortex86DX3, I think support in modern kernels is very much hit and miss even before this news. All Vortex86 processors are supposedly i586 (with later variants being i686, even), but some of the earlier versions were compatible with the 486SX. On top of that, Linux 4.14 seems to be the last kernel that supports any of these chips out-of-the-box based on the documentation by DMP &#8211; but then, if you go back to ICOP, you&#8217;ll find news items about Linux 5.16 adding better support for Vortex86, so I&#8217;m definitely confused. My uneducated guess is that the DX3 and EX2 will probably work even after these changes to the Linux kernel, but earlier models might have more problems. Even on the LKML I can find messages from the kind of people who know their stuff who don&#8217;t know all the ins and outs of these Vortex86 processors, and which instructions they actually support. It won&#8217;t matter much for people relying on Vortex86 processors in industrial and commercial settings, though, since they tend to use custom stacks built by the vendor, so they&#8217;re going to be just fine. What&#8217;s more interesting is the what I assume is a small enthusiast market using Vortex86 processors who might want to run modern Linux kernels on them. I have a feeling these code removals might lead to some issues on especially the earlier models, meaning you&#8217;ll have to use older kernels. I&#8217;ve always been fascinated by the Vortex86 line of processors, and on numerous occasions I&#8217;ve hovered over the buy button on some industrial PC using the VortexDX3 (or earlier) processor. Let me know if you&#8217;re interested in seeing what this chip can do, and if there&#8217;s enough interest, I can see if I can set a Ko-Fi goal to buy one these and mess around with Windows Embedded/CE, Linux, and god knows what else these things can be made to run. 
 
 <br> 
 
@@ -213,9 +393,9 @@ Lee esta historia en español aquí. Do you dream of working for NASA and contr
 
 ---
 
-## Bosses weren’t being paranoid: Remote workers more likely to start their own biz
+## Bosses weren’t being paranoid: Remote workers more likely to start own biz
 
-date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+date: 2025-05-12, updated: 2025-05-13, from: The Register (UK I.T. News)
 
 <h4>All those return to office mandates make a lot more sense now</h4> <p>Companies with higher levels of remote work during the COVID-19 pandemic saw more of their employees launch startups, economists have found. They argue this entrepreneurial spillover is a factor policymakers and firms should weigh when shaping remote work policies.…</p> 
 
@@ -383,7 +563,7 @@ date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
 
 ## OS-busting bug so bad that Microsoft blocks Windows Insider release
 
-date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+date: 2025-05-12, updated: 2025-05-13, from: The Register (UK I.T. News)
 
 <h4>Canary fans told it hurts functionality to the point that it makes &#39;using your PC to do even basic things difficult&#39;</h4> <p>The Windows team has come up with a bug so bad that Microsoft has had to postpone some Insider builds until the issue is dealt with.…</p> 
 

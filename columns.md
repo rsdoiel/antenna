@@ -1,11 +1,273 @@
 ---
 title: columns
-updated: 2025-05-13 06:08:00
+updated: 2025-05-13 14:07:47
 ---
 
 # columns
 
-(date: 2025-05-13 06:08:00)
+(date: 2025-05-13 14:07:47)
+
+---
+
+##  A cute Minecraft-y clicker game. Big plus: finishing it doesn&#8217;t take forever.... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046842-a-cute-minecraft-y-clicke>
+
+---
+
+## 2025-05-13 Opatija, Crikvenica
+
+date: 2025-05-13, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-13-opatija-crikvenica">2025-05-13 Opatija, Crikvenica</h1>
+
+<p>We stopped in Opatija. The settlement along a lake along a steep hill reminded me of Lausanne or Neufchâtel in Switzerland. There were hollow ruins as well as fancy new Grand Hotels, some with an ancient Viennese flair. To me, that’s weird. To chase the colonised past for tourism cash? 🫤 Didn’t the Austrians use Croatian troops to out down Italian revolts and the like? Well, after the Austro-Hungarian empire fell apart, the Italians took over Opatija but then the communists pushed them ought.</p>
+
+<p>Visiting former Yugoslavia is dreadful from a history perspective because when I was a teenager the civil war and the breakup of the country was always there, in the back of my mind. Watching <a href="https://en.m.wikipedia.org/wiki/Warriors_(1999_TV_series)">Warriors</a> many years later was the worst, though.</p>
+
+<p>Hearing so many Austrians on the streets is weird.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-1.jpg" alt="a very traditional hotel by the sea" /></p>
+
+<p>Statue of young women looking at the sea – sounds like a meme.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-2.jpg" alt="statue of a woman on a rock, looking to the sea" /></p>
+
+<p>The natural rocks are supplemented by artificial structures. No sand, though.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-3.jpg" alt="many stoneworks project out into the sea for people to lie on" /></p>
+
+<p>Claudia supporting <a href="https://en.wikipedia.org/wiki/Miroslav_Krle%C5%BEa">Miroslav Krleža</a>, whom we do not know.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-4.jpg" alt="a statue of a bulky man leaning dangerously to the side, apparently supported by Claudia" /></p>
+
+<p>The feeling when you need some water and you imagine ice cold sparkling water. 😍</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-5.jpg" alt="a glass of cold water" /></p>
+
+<p>Claudia also decided to contribute some pictures, seeing how I hadn’t noticed that the lens had gotten smeared with sun lotion.</p>
+
+<p>We had parked the car in the parking lot of a crumbling hotel ruin.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-9.jpg" alt="Alex in front of the sea" />
+<img loading="lazy" src="2025-05-13-opatija-crikvenica-10.jpg" alt="Claudia in front of the hotel" />
+<img loading="lazy" src="2025-05-13-opatija-crikvenica-11.jpg" alt="Abandoned structures leading down to the sea" />
+<img loading="lazy" src="2025-05-13-opatija-crikvenica-12.jpg" alt="The original harbor from 1900 or so, still in use, for a handful of tiny boats" /></p>
+
+<p>Crikvenica is very different, with sand beaches, many cafés, pizzerias and ice-cream parlours. And everything is so green.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-6.jpg" alt="the sea is visible behind the trees" /></p>
+
+<p>Weicher Akanthus.
+Acanthus mollis</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-7.jpg" alt="a flowering plant" /></p>
+
+<p>And another sunset. 😍</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-8.jpg" alt="sunset" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatias">#Croatias</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-13-opatija-crikvenica>
+
+---
+
+## The Soviet Experiment with Empire
+
+date: 2025-05-13, from: Economics from the Top-Down
+
+<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="11187" data-permalink="https://economicsfromthetopdown.com/2025/05/13/the-soviet-experiment-with-empire/soviet_cover2/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?fit=3600%2C2700&amp;ssl=1" data-orig-size="3600,2700" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="soviet_cover2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2025/05/soviet_cover2.png?fit=723%2C542&amp;ssl=1" />I chart the rise and fall of the Soviet Union, as measured by its share of world energy consumption.</p>
+<p>The post <a href="https://economicsfromthetopdown.com/2025/05/13/the-soviet-experiment-with-empire/">The Soviet Experiment with Empire</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://economicsfromthetopdown.com/wp-content/uploads/2025/05/fix_soviet_empire_20250513.mp3"></source>
+</audio> <a href="https://economicsfromthetopdown.com/wp-content/uploads/2025/05/fix_soviet_empire_20250513.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://economicsfromthetopdown.com/2025/05/13/the-soviet-experiment-with-empire/>
+
+---
+
+##  Forget Psychedelics. Everyone&#8217;s Microdosing Ozempic Now. (In Hollywood, at least.) &#8220;They are... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046844-forget-psychedelics-every>
+
+---
+
+## May 12, 2025
+
+date: 2025-05-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163500167/49c2369a907ee12d03803219e7dc5505.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163500167/49c2369a907ee12d03803219e7dc5505.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-12-2025-ae9>
+
+---
+
+##  &#8220;ICE has become Trump&#8217;s private militia. It must be abolished.&#8221; Reminder: ICE... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046848-ice-has-become-trumps-pri>
+
+---
+
+##  Eminem&#8217;s Lose Yourself, Sung by 331 Movies 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/eminems-lose-yourself-sung-by-331-movies>
+
+---
+
+## The single stupidest statement about Trump ever made
+
+date: 2025-05-13, from: Robert Reich's blog
+
+RFK Jr. doesn&#8217;t just kiss Trump&#8217;s derriere. He lies through his teeth. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-single-stupidest-statement-about>
+
+---
+
+##  A Young Readers Edition of Ed Yong&#8217;s award-winning An Immense World is... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046838-a-young-readers-edition-o>
+
+---
+
+##  I somehow missed this: after a federal judge in VT ordered her... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046837-i-somehow-missed-this-aft>
+
+---
+
+##  Scientist Kseniia Petrova came to US to study aging. In Feb, she... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046835-scientist-kseniia-petrova>
+
+---
+
+##  How Trump&#8217;s Anti-Trans Policies Mirror the WWII Persecution of Japanese Americans. &#8220;Of... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046834-how-trumps-anti-trans-pol>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-13, from: Miguel de Icaza Mastondon feed)
+
+<p>When you are an Apple user, every day is Xmas.  </p><p>I-haven’t-aged-as-gracefully-as-i-had-imagined edition:</p><p><a href="https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">apple.com/newsroom/2025/05/app</span><span class="invisible">le-unveils-powerful-accessibility-features-coming-later-this-year/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114501375382302805>
+
+---
+
+##  &#8220;Boredom: the great engine of creativity. I now believe with all my... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046833-boredom-the-great-engine->
+
+---
+
+##  In Poland, We Know All About Fighting Illiberal Regimes. Here Are Our... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046832-in-poland-we-know-all>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Today we are promoting Xogot on ProductHunt, would appreciate an up-vote:</p><p><a href="https://www.producthunt.com/products/xogot-make-games-anywhere" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">producthunt.com/products/xogot</span><span class="invisible">-make-games-anywhere</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114500947110804558>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-13, from: Dave Winer's Scripting News)
+
+New WordLand feature: <a href="https://this.how/wordland/editAllCategories.opml">Edit all categories</a> for a site. 
+
+<br> 
+
+<http://scripting.com/2025/05/13.html#a141253>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-13, from: Dave Winer's Scripting News)
+
+Video demo of the new <a href="https://www.youtube.com/watch?v=0G3nh7Mj8QI">categories editor</a> in WordLand. I wanted to be able to add new categories and edit the descriptions of existing categories without having to leave WordLand. I feel that categories are an important part of writing. It will be in v0.5.12, coming shortly. 
+
+<br> 
+
+<http://scripting.com/2025/05/13.html#a133218>
 
 ---
 
@@ -237,7 +499,7 @@ date: 2025-05-12, updated: 2025-05-12, from: Liam Proven's articles at the Regis
 
 ## That Stupid Apple Notes ‘a’
 
-date: 2025-05-12, updated: 2025-05-12, from: Daring Fireball
+date: 2025-05-12, updated: 2025-05-13, from: Daring Fireball
 
  
 

@@ -1,11 +1,123 @@
 ---
 title: food
-updated: 2025-05-13 06:08:05
+updated: 2025-05-13 14:07:52
 ---
 
 # food
 
-(date: 2025-05-13 06:08:05)
+(date: 2025-05-13 14:07:52)
+
+---
+
+## Which Tequila Is Best? A Taste Test of Patrón, Terremana, Casamigos and more
+
+date: 2025-05-13, from: Bon Appetet
+
+We sipped 16 blanco tequila brands to help you build a better bar. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-tequila-taste-test>
+
+---
+
+## Trader Joe’s Just Stocked a Brand-New Cooler Bag, and I Know It’s Going to Sell Out Immediately
+
+date: 2025-05-13, from: Taste of Home
+
+<p>It would be just peachy to scoop up this new Trader Joe's cooler bag!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/trader-joes-cooler-bag-may-2025/">Trader Joe&#8217;s Just Stocked a Brand-New Cooler Bag, and I Know It&#8217;s Going to Sell Out Immediately</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/trader-joes-cooler-bag-may-2025/>
+
+---
+
+## McDonald’s Just Brought Back This Wildly Popular Happy Meal After a Two-Year Hiatus
+
+date: 2025-05-13, from: Taste of Home
+
+<p>Squishmallows collectors, this Happy Meal is for you.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-squishmallows-happy-meal/">McDonald’s Just Brought Back This Wildly Popular Happy Meal After a Two-Year Hiatus</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-squishmallows-happy-meal/>
+
+---
+
+## Bar Etiquette Advice for Tipping, Dates, and Drinking Alone
+
+date: 2025-05-13, from: Bon Appetet
+
+A pro bartender answers your questions about the unspoken rules of bar etiquette 
+
+<br> 
+
+<https://www.bonappetit.com/story/my-date-is-a-dud-can-the-bartender-save-me>
+
+---
+
+## The Best Gluten-Free Meal Delivery Services Take the Guesswork Out of GF Eating
+
+date: 2025-05-13, from: Bon Appetet
+
+Yes, you can get a kit that’s certified gluten-free. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-gluten-free-meal-kits>
+
+---
+
+## Study: Polyphenol-Rich Foods Like Coffee ‘No Doubt’ Reduce Metabolic Syndrome
+
+date: 2025-05-13, from: Daily Coffee News
+
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-620x439.jpg" class="attachment-large size-large wp-post-image" alt="coffee drinking" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A diet rich in foods containing polyphenols — which coffee has in spades — can dramatically reduce the risk of metabolic syndrome, a cluster of health conditions that is a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/13/study-polyphenol-rich-foods-like-coffee-no-doubt-reduce-metabolic-syndrome/>
+
+---
+
+## TechnoServe Builds a Case for Regenerative Agriculture Investments in Coffee
+
+date: 2025-05-13, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With research supported by two of the world&#8217;s largest coffee companies, the United States-based nonprofit TechnoServe is making a business case for investing in regenerative agriculture in the coffee sector.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/13/technoserve-builds-a-case-for-regenerative-agriculture-investments-in-coffee/>
+
+---
+
+## All The Coolest Coffee Roasting Tech We Saw At SCA Expo 2025
+
+date: 2025-05-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Looking at all the new roasting tech at the 2025 SCA Expo. 
+
+<br> 
+
+<https://sprudge.com/all-the-coolest-coffee-roasting-tech-we-saw-at-sca-expo-2025-334431.html>
+
+---
+
+## Paradeco Coffee Sets Sail with Second Cafe in St. Pete
+
+date: 2025-05-13, from: Daily Coffee News
+
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-620x418.jpg" class="attachment-large size-large wp-post-image" alt="Paradeco Coffee St Pete 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Expanding from its dazzling roastery cafe in downtown St. Petersburg, Florida&#8217;s Paradeco Coffee Roasters recently opened a second ode to Art Deco and specialty coffee at the SkyBeach Resort. Located... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/13/paradeco-coffee-sets-sail-with-second-cafe-in-st-pete/>
 
 ---
 
@@ -169,7 +281,7 @@ date: 2025-05-12, from: Taste of Home
 
 date: 2025-05-12, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks coffee lid" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Starbucks, a global leader in single-use cup waste, just launched a phased rollout of compostable and widely recyclable hot drink cups across Europe. Led by the Starbucks EMEA unit and... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks coffee lid" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Starbucks-coffee-lid.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Starbucks, a global leader in single-use cup waste, just launched a phased rollout of compostable and widely recyclable hot drink cups across Europe. Led by the Starbucks EMEA unit and... 
 
 <br> 
 
@@ -219,7 +331,7 @@ Cheesy, spicy and a little smoky, Kenai dip is Alaska’s best-kept culinary sec
 
 date: 2025-05-12, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Roest L100 Ultra 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Nordic roaster maker Roest just launched a new flagship sample roaster called the L100 Ultra. The company revealed the machine at last month&#8217;s SCA Expo in Houston, where its P3000... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Roest L100 Ultra 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roest-L100-Ultra-1.jpg 1200w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Nordic roaster maker Roest just launched a new flagship sample roaster called the L100 Ultra. The company revealed the machine at last month&#8217;s SCA Expo in Houston, where its P3000... 
 
 <br> 
 

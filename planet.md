@@ -1,11 +1,303 @@
 ---
 title: planet
-updated: 2025-05-13 06:07:55
+updated: 2025-05-13 14:07:44
 ---
 
 # planet
 
-(date: 2025-05-13 06:07:55)
+(date: 2025-05-13 14:07:44)
+
+---
+
+## Scottish assisted dying bill passes first parliament vote
+
+date: 2025-05-13, from: RTÉ News
+
+Scottish politicians have voted in favour of a bill that would legalise assisted dying, the first step of a long process towards legislation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0513/1512705-scotland-assisted-dying/>
+
+---
+
+## Govt failing to invest in housing infrastructure - Dáil
+
+date: 2025-05-13, from: RTÉ News
+
+Opposition parties have said the housing crisis is becoming worse due in part to what they claimed is the failure of the Government to invest in water and electricity infrastructure. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0513/1512699-housing-crisis/>
+
+---
+
+## Heads of bill to change Triple Lock to go to Cabinet
+
+date: 2025-05-13, from: RTÉ News
+
+Tánaiste and Minister for Defence Simon Harris has said he will bring the heads of a bill to Cabinet later this month to change the Triple Lock mechanism for the deployment of Defence Forces personnel overseas. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512694-triple-lock/>
+
+---
+
+## Key hearing in Menendez brothers appeal takes place
+
+date: 2025-05-13, from: RTÉ News
+
+Lyle and Erik Menendez, who are serving life sentences for the murders of their parents in their Beverly Hills home 35 years ago, have appeared in a Los Angeles courtroom via video for a key hearing in their bid to win release from prison. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0513/1512693-menendez-case-latest/>
+
+---
+
+## Eurovision Song Contest 2025: The first semi-final
+
+date: 2025-05-13, from: RTÉ News
+
+The 69th edition of the Eurovision Song Contest will be broadcast live from St. Jakobshalle in Basel, Switzerland this evening. You can follow all of the action and happenings on our live tracker AND on RTÉ2 and RTÉ Player from 8pm. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0513/1512685-eurovision-song-contest-2025-the-first-semi-final/>
+
+---
+
+## Teen had over 20 care placements before death - inquest
+
+date: 2025-05-13, from: RTÉ News
+
+An inquest into the death of a teenager, who was in the care of the State when he was murdered in 2010, has been told of the pressures facing the HSE in finding suitable residential care placements for young people. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512682-daniel-mcanaspie/>
+
+---
+
+## Former solicitor Lynn has appeal over sentence rejected
+
+date: 2025-05-13, from: RTÉ News
+
+Former solicitor Michael Lynn has failed to have his five-and-a-half-year sentence reduced on appeal for stealing more than €18 million from six financial institutions during the Celtic Tiger era. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0513/1512681-michael-lynn/>
+
+---
+
+## Lack of deepfake laws leaving victims 'up against it'
+
+date: 2025-05-13, from: RTÉ News
+
+Scams, fraud and harassment are on the increase, as so called "deepfakes" grow in popularity and sophistication. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512676-deepfake-laws/>
+
+---
+
+## Bill to ban sale of stimulant drinks to children paused
+
+date: 2025-05-13, from: RTÉ News
+
+The Cabinet has decided to pause a piece of legislation that would ban the sale of stimulant drinks to those under the age of 18. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512672-stimulant-drinks/>
+
+---
+
+## Microsoft to cut thousands of jobs globally - report
+
+date: 2025-05-13, from: RTÉ News
+
+Microsoft is to lay off 3% of its employees across all levels, teams and geographies, according to a report by CNBC. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512668-microsoft-jobs/>
+
+---
+
+## Dublin-based social media body to cover Instagram
+
+date: 2025-05-13, from: RTÉ News
+
+The Appeals Centre Europe, a Dublin-based social media appeals body, has announced that it has expanded its scope and is now hearing cases relating to Instagram. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512657-social-media-instagram/>
+
+---
+
+## Taoiseach responds to criticism from Hungarian PM
+
+date: 2025-05-13, from: RTÉ News
+
+Taoiseach Micheál Martin has said that Hungarians and Irish people get on very well as he responded to comments made by Hungarian Prime Minister Viktor Orbán. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512655-martin-orban/>
+
+---
+
+## Man jailed over 'completely unprovoked attack' on student
+
+date: 2025-05-13, from: RTÉ News
+
+A man who set upon a Spanish student in Dublin city centre in an "utterly unprovoked" attack with "homophobic overtones" has been jailed for three years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0513/1512653-criminal-court/>
+
+---
+
+## Pope Leo XIV makes a surprise visit to his Augustinian brothers in Rome
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV celebrates Mass in the community chapel of the General Curia of the Augustinians, before joining the brothers for lunch — just as he used to when he was a Cardinal. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/leone-xiv-to-his-augustinian-brothers-be-close-to-one-another.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/leone-xiv-to-his-augustinian-brothers-be-close-to-one-another.html>
+
+---
+
+## Pope Leo XIV publishes first post on papal social media accounts
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV has published his first post on the papal social media accounts, which were employed to great effect by his predecessors, Pope Francis and Pope Benedict XVI.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-inherits-papal-social-media-accounts.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-inherits-papal-social-media-accounts.html>
+
+---
+
+## Cardinal Fridolin Ambongo on Pope Leo XIV 
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>After participating in the Conclave that elected Pope Leo XIV as the successor of Peter, Cardinal Fridolin Ambongo Besungu describes this election as a choice of the Holy Spirit, made by the Cardinals. The Archbishop of Kinshasa (DRC) and President of the Symposium of Episcopal Conferences of Africa and Madagascar (SCEAM) has since called on the faithful to pray for the new Pope so that he may succeed in his mission.  </p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/cardinal-fridolin-ambongo-on-pope-leo-xiv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/cardinal-fridolin-ambongo-on-pope-leo-xiv.html>
+
+---
+
+## Referendum may be needed for NI to vote for president
+
+date: 2025-05-13, from: RTÉ News
+
+Taoiseach Micheál Martin has said any potential changes to allow Irish citizens in Northern Ireland to be allowed to vote in presidential elections may need a referendum in order to be introduced. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0513/1512641-presidential-election/>
+
+---
+
+## Five charged over holding man down, branding him 'rat'
+
+date: 2025-05-13, from: RTÉ News
+
+Five men have appeared in court charged in connection with holding a man down and branding the word RAT on his face and body earlier this year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512632-court-dublin/>
+
+---
+
+## Healy-Rae backs forestry and gas plans as 'common sense'
+
+date: 2025-05-13, from: RTÉ News
+
+Michael Healy-Rae has defended proposals to plant trees on peatlands and expand Ireland's gas infrastructure, saying both are needed to meet climate targets in a "real world" context. 
+
+<br> 
+
+<https://www.rte.ie/news/upfront/2025/0513/1512618-healy-rae-backs-forestry-and-gas-plans-as-common-sense/>
+
+---
+
+## Murphy and Coppinger defend position on Gript questioning
+
+date: 2025-05-13, from: RTÉ News
+
+People Before Profit-Solidarity TDs Ruth Coppinger and Paul Murphy have defended their decision not to take questions from reporters from the Gript media outlet as they disagree with its political and editorial stance. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512624-pbp-gript-latest/>
+
+---
+
+## Eurovision rehearsal footage leak sparks legal action
+
+date: 2025-05-13, from: RTÉ News
+
+The Eurovision Song Contest has brought in lawyers following the leak of rehearsal footage, after a "potential hack" of an online feed 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0513/1512622-eurovision-rehearsal-footage-leak-sparks-legal-action/>
+
+---
+
+## Funeral mass for Garda Kevin Flatley to be held on Friday
+
+date: 2025-05-13, from: RTÉ News
+
+The funeral details have been announced for Garda Kevin Flatley, who was killed after he was struck by a motorcycle while carrying out a checkpoint on Sunday afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512623-tributes-flatley/>
+
+---
+
+## Caritas DRC calls for environmental care after devastating floods
+
+date: 2025-05-13, from: Vatican News
+
+
+                    <p>The Director of Communications for Caritas Butembo-Beni encourages the country’s authorities to “actively engage in responsible urban planning” to prevent disasters, such as the flood, in the future.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/caritas-calls-for-environmental-care-after-devastating-floods-in.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/caritas-calls-for-environmental-care-after-devastating-floods-in.html>
 
 ---
 
@@ -33,6 +325,18 @@ A man who spent 38 years in prison in the UK for the murder of a woman in 1986 h
 
 ---
 
+## Man 'not angry' after murder conviction overturned in UK
+
+date: 2025-05-13, from: RTÉ News
+
+A 68-year-old man has said he is "not angry" and "not bitter" after the British Court of Appeal quashed his murder conviction, after spending 38 years in prison in the UK. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0513/1512613-peter-sullivan/>
+
+---
+
 ## Members of Defence Forces gather for PDFORRA conference
 
 date: 2025-05-13, from: RTÉ News
@@ -45,7 +349,7 @@ More than 100 members of the Army, the Naval Service and the Air Corps are gathe
 
 ---
 
-## UN aviation council finds Russia responsible for downing of Malaysian Airlines flight
+## UN aviation council finds Russia responsible for downing of Malaysia Airlines flight
 
 date: 2025-05-13, from: United Nations, Top Stories
 
@@ -54,6 +358,78 @@ A UN body has found that Russia was responsible for the 17 July 2014 downing of 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163161>
+
+---
+
+## Half of women’s organizations in crisis zones risk closure within six months
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+Women’s organisations operating in crisis settings are being pushed to the brink by widespread funding cuts. In a report published on Tuesday, UN Women – the UN agency for gender equality – warned that 47 per cent of these groups may be forced to close within the next six months. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163201>
+
+---
+
+## GAZA LIVE: 'Humanity, the law and reason must prevail' in Gaza, UN relief chief tells Security Council
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+The Security Council is meeting in New York to discuss the horror of Gaza, where humanitarians warn of “a critical risk of famine” and aid shipments have been blocked by Israel for over 70 days. UN relief chief Tom Fletcher briefed the Security Council, asking ambassadors if they will act decisively "to prevent genocide" and ensure respect for international law. He also called on Hamas to release all hostages and stop putting civilians at risk. Follow live for key updates from UN Headquarters and reports from the region. App users can follow coverage here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163186>
+
+---
+
+## US deportations raise serious human rights concerns
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+The UN Human Rights High Commissioner Volker Türk has voiced concern over the recent deportation of large numbers of non-nationals from the United States, particularly to third countries.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163181>
+
+---
+
+## Number of internally displaced breaks new record with no let-up in conflicts, disasters
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+A record 83.4 million people have been forced from their homes around the world, fuelled by an increase in disasters and conflict, the UN migration agency, IOM, said on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163176>
+
+---
+
+## As funding cuts bite, UN chief announces new dawn for peacekeeping
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+The future of peacekeeping took centre stage on Tuesday in Berlin as UN chief António Guterres urged Member States to do more to support the global body’s 'blue helmets' and stave off the worst impacts of deep funding cuts. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163171>
+
+---
+
+## Gaza: 57 children reported dead from malnutrition, says WHO
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+In the aid desert of Gaza, malnourished children are dying while survivors can now expect a lifetime of dire health problems, the UN World Health Organization (WHO) said on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163166>
 
 ---
 
@@ -85,11 +461,11 @@ Ford is warning Ford Kuga plug-in hybrid owners in Ireland not to charge their v
 
 ---
 
-## Satchwell told gardaí he couldn't go back on lie - court
+## Satchwell told gardaí he didn't want to leave wife's body
 
 date: 2025-05-13, from: RTÉ News
 
-Richard Satchwell told gardaí that once he told a lie about what happened to his wife he could not go back on it, the Central Criminal Court has heard. 
+Richard Satchwell told gardaí he buried his wife's body under the stairs at their home as he wanted to keep her with him and did not want to leave her alone. 
 
 <br> 
 
@@ -97,11 +473,11 @@ Richard Satchwell told gardaí that once he told a lie about what happened to hi
 
 ---
 
-## President congratulates Irish University Challenge winner
+## Watch: Dublin student on 'dream' University Challenge win
 
 date: 2025-05-13, from: RTÉ News
 
-President Michael D Higgins has congratulated Oscar Despard on captaining his team from Christ's College, Cambridge, to victory in the final of University Challenge. 
+The Dublin student who led Christ's College, Cambridge to victory in the final of University Challenge has described the experience as 'a dream come true'. 
 
 <br> 
 
@@ -113,7 +489,7 @@ President Michael D Higgins has congratulated Oscar Despard on captaining his te
 
 date: 2025-05-13, from: RTÉ News
 
-A food deli in Monkstown, Dublin, was forced to close after inspectors found that mouse droppings were "evident" in a number of locations in the premises. 
+A food deli in Monkstown, Dublin, was forced to close after inspectors found that mouse droppings were "evident" in a number of locations at the premises. 
 
 <br> 
 
@@ -149,7 +525,7 @@ The Government has announced an additional €30m in funding and an extension to
 
 date: 2025-05-13, from: RTÉ News
 
-President Volodymyr Zelensky will only attend talks on Ukraine if Russia's Vladimir Putin is also there, the Ukrainian leader's top aide said, challenging the Kremlin to show it is genuine about seeking peace. 
+Ukrainian President Volodymyr Zelensky has said he would attend talks with Russia on the war in Ukraine this week only if Russia's Vladimir Putin is also there, and goaded him by claiming the Russian president was scared to meet him face-to-face. 
 
 <br> 
 
@@ -185,7 +561,7 @@ Trainer Henry de Bromhead has revealed the role a conversation in the back of a 
 
 ---
 
-## No fracture evidence on Tina Satchwell's body - court
+## As it happened: Court hears Satchwell interview video
 
 date: 2025-05-13, from: RTÉ News
 
@@ -197,11 +573,11 @@ Follow live reports from the Central Criminal Court in the trial of Richard Satc
 
 ---
 
-## US brain drain 'great opportunity for Ireland' - minister
+## Ireland could be home for 'brightest minds' says minister
 
 date: 2025-05-13, from: RTÉ News
 
-Minister for Further and Higher Education James Lawless has said "the flipside" of a possible brain drain from the US is "a great opportunity for Ireland". 
+Minister for Further and Higher Education James Lawless said Ireland would be a good home for the "best and brightest minds" who are considering relocating from the US. 
 
 <br> 
 
@@ -274,6 +650,30 @@ Children who have had developmental dysplasia of the hip surgeries at three hosp
 <br> 
 
 <https://www.rte.ie/news/health/2025/0513/1512575-ireland-health-children/>
+
+---
+
+## McDonald says 'hip surgery scandal' goes back 15 years
+
+date: 2025-05-13, from: RTÉ News
+
+Sinn Féin leader Mary Lou McDonald has said there is now confirmation for the first time that the children's "hip surgery scandal" at two Children's Health Ireland (CHI) hospitals goes back 15 years and not just the two-year period currently under review. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0513/1512575-ireland-health-children-hip/>
+
+---
+
+## 'I was going to die': Kim Kardashian shares fears as she faces Paris robbery suspects in court
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533436.1747140750!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-france-kardashian-robbery-trial.jpg' alt='A woman waves in front of a building' width='620' height='349' title='Kim Kardashian waves as she arrives to testify regarding a robbery of millions of dollars in jewels from her Paris hotel room in 2016, in Paris, Tuesday, May 13, 2025.'/><p>Kim Kardashian said a silent prayer — for her sister, her best friend, her family — as a masked man pulled her toward him in a Paris hotel room in the 2016 jewelry heist that changed her life, she testified on Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/kim-kardashian-paris-trial-1.7533433?cmp=rss>
 
 ---
 
@@ -393,11 +793,11 @@ A 21-year-old man has been arrested over suspected arson attacks on properties l
 
 ---
 
-## Netanyahu says army entering Gaza 'with full force' soon
+## Gaza rescuers say Israeli attacks kill 28 near hospital
 
 date: 2025-05-13, from: RTÉ News
 
-Israeli Prime Minister Benjamin Netanyahu has said the military was going to enter Gaza "with full force" in the coming days, a statement from his office said. 
+Gaza's civil defence agency has said that Israeli strikes killed at least 28 people in the area surrounding the European Hospital in Khan Younis, where the Israeli military claimed it hit a Hamas "command and control centre". 
 
 <br> 
 
@@ -429,6 +829,18 @@ US President Donald Trump has dismissed concerns over his plans to receive a jet
 
 ---
 
+## Democrat to block Trump DoJ nominees over Qatar airplane
+
+date: 2025-05-13, from: RTÉ News
+
+US Senate Democratic Leader Chuck Schumer has vowed to block all of President Donald Trump's nominees to the Justice Department until the agency reports what it knows about Qatar's offer to give the Trump administration a $400 million airplane. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0513/1512532-qatar-plane-trump/>
+
+---
+
 ## Applegreen to open Ireland's first Taco Bell this summer
 
 date: 2025-05-13, from: RTÉ News
@@ -445,7 +857,7 @@ Applegreen is set to open Ireland's first Taco Bell restaurant this summer, with
 
 date: 2025-05-13, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7491496.1742822648!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/france-depardieu-trial.jpg' alt='Actor Gérard Depardieu arrives to face trial for the alleged sexual assaults of two women on a film set in 2021, Monday, March 24, 2025 in Paris. ' width='620' height='349' title='Actor Gérard Depardieu arrives to face trial for the alleged sexual assaults of two women on a film set in 2021, Monday, March 24, 2025 in Paris. '/><p>A court in Paris on Tuesday found French actor Gérard Depardieu guilty of sexually assaulting two women on a film set in 2021 and handed him an 18-month suspended prison sentence.</p> 
+<img src='https://i.cbc.ca/1.7491496.1742822648!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/france-depardieu-trial.jpg' alt='Actor Gérard Depardieu arrives to face trial for the alleged sexual assaults of two women on a film set in 2021, Monday, March 24, 2025 in Paris. ' width='620' height='349' title='Actor Gérard Depardieu arrives to face trial for the alleged sexual assaults of two women on a film set in 2021, Monday, March 24, 2025 in Paris. '/><p>A court in Paris on Tuesday found French actor Gérard Depardieu, one of the most prominent figures in French cinema for decades, guilty of sexually assaulting two women on a film set in 2021. He was handed an 18-month suspended prison sentence.</p> 
 
 <br> 
 
@@ -453,11 +865,11 @@ date: 2025-05-13, from: CBC, World News
 
 ---
 
-## Trump kicks off Middle East visit seeking big economic deals
+## Saudis agree to billions in U.S. investment as Trump begins Gulf states trip
 
 date: 2025-05-13, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7533366.1747123818!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-gulf-saudi.JPG' alt='Two men sitting in chairs pointed forward lean over the armrests to speak and listen to each other' width='620' height='349' title='U.S. President Donald Trump and Saudi Crown Prince Mohammed Bin Salman meet in Riyadh, Saudi Arabia, May 13, 2025. REUTERS/Brian Snyder'/><p>U.S. President Donald Trump arrived in Saudi Arabia on Tuesday to start a four-day swing through the Gulf region, focusing more on economic deals than security crises ranging from war in Gaza to the threat of escalation over Iran's nuclear program.</p> 
+<img src='https://i.cbc.ca/1.7533367.1747123888!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-gulf-saudi.JPG' alt='Two men walk side by side as photographers take their pictures in the background' width='620' height='349' title='U.S. President Donald Trump and Saudi Crown Prince Mohammed Bin Salman walk as he arrives in Riyadh, Saudi Arabia, May 13, 2025. REUTERS/Brian Snyder'/><p>U.S. President Donald Trump arrived in Saudi Arabia on Tuesday to start a four-day swing through the Gulf region, focusing more on economic deals than security crises ranging from war in Gaza to the threat of escalation over Iran's nuclear program.</p> 
 
 <br> 
 
@@ -489,11 +901,11 @@ Tánaiste Simon Harris has said that while he welcomes the "potential cooling" b
 
 ---
 
-## Trump starts Gulf visit seeking big economic deals
+## US signs Saudi Arabia arms deal, lifts sanctions on Syria
 
 date: 2025-05-13, from: RTÉ News
 
-US President Donald Trump has arrived in Saudi Arabia on a four-day visit to the Gulf region, focusing more on economic deals than pressing regional security matters ranging from war in Gaza to talks over Iran's nuclear programme. 
+US President Donald Trump has signed a strategic economic agreement with Saudi Arabia and announced the lifting of sanctions on Syria at the start of a tour of Gulf states aimed at drumming up trillions of dollars in investments. 
 
 <br> 
 
@@ -561,15 +973,27 @@ The United States announced new sanctions today against Iran over its nuclear pr
 
 ---
 
-## Jury hears Sean 'Diddy' Combs was 'coercive and criminal'
+## Combs' ex-girlfriend says 'freak offs' became her job
 
 date: 2025-05-13, from: RTÉ News
 
-Sean 'Diddy' Combs used violence and threats of reputational ruin to control women he abused for years, New York jurors heard during opening statements of the federal sex trafficking trial that was followed by the case's initial graphic testimonies. 
+Sean 'Diddy' Combs' former girlfriend Casandra Ventura, the star prosecution witness at the hip-hop mogul's sex trafficking trial, has testified that her music career began to suffer as she increasingly spent her time participating in days of drug-fuelled sex parties. 
 
 <br> 
 
 <https://www.rte.ie/news/us/2025/0513/1512523-sean-diddy-combs/>
+
+---
+
+## B.C. First Nation blocks construction of bridge replacement project
+
+date: 2025-05-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7533285.1747103133!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/r-w-bruhn-bridge.jpg' alt='People sit in front of dump trucks holding signs of protest.' width='620' height='349' title='Splatsin members sit in front of dump trucks at the R.W. Bruhn Bridge site in Sicamous on May 12, 2025, calling for greater Indigenous participation in the construction project. '/><p>A First Nation in B.C.'s Interior is blocking access to the R.W. Bruhn Bridge construction site along the Trans-Canada Highway in Sicamous, B.C., over the alleged exclusion of its workers and businesses from the government-funded infrastructure project.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/sicamous-first-nation-halts-bridge-construction-1.7533255?cmp=rss>
 
 ---
 
@@ -714,6 +1138,18 @@ Sean "Diddy" Combs, the US rapper and music mogul who discovered world-famous ar
 <br> 
 
 <https://www.rte.ie/news/world/2025/0512/1512484-us-combs-explainer/>
+
+---
+
+## Montreal's Sanaaq community centre opens across from Cabot Square
+
+date: 2025-05-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7533053.1747081373!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/montreal-s-sanaaq-cultural-and-community-centre-opens-across-from-cabot-square-image-1.jpg' alt='Space with several people walking' width='620' height='349' title='The new centre will feature a library, performance hall, media lab, urban agriculture space and community café. '/><p>Inuit communities in the area have expressed the need for more community spaces tailored to their needs. Many other residents in the area have also called for more resources, like schools.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/sanaaq-cultural-and-community-centre-opens-1.7533052?cmp=rss>
 
 ---
 
@@ -930,6 +1366,18 @@ date: 2025-05-12, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/politics/indigenous-leaders-priorities-100-days-1.7532748?cmp=rss>
+
+---
+
+## Hundreds flying back to Ontario's James Bay coast as flooding risk subsides
+
+date: 2025-05-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7532749.1747067746!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fort-albany-families-getting-off-a-plane.jpg' alt='Some parents with small children get off a small aircraft ' width='620' height='349' title='The 1,600 evacuees from Kashechewan First Nation are expected to start going home Wednesday, about a week about their neighbours in Fort Albany also started flying back to the James Bay Coast.'/><p>As the waters in the Albany River recede, evacuees from Kashechewan and the neighouring community of Fort Albany are heading back home.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/kashechewan-fort-albany-flooding-emergency-1.7532727?cmp=rss>
 
 ---
 

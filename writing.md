@@ -1,11 +1,123 @@
 ---
 title: writing
-updated: 2025-05-13 06:08:01
+updated: 2025-05-13 14:07:48
 ---
 
 # writing
 
-(date: 2025-05-13 06:08:01)
+(date: 2025-05-13 14:07:48)
+
+---
+
+## 2025 British Book Awards
+
+date: 2025-05-13, from: Locus Magazine
+
+<p>The Bookseller has announced the winners of the 2025 British Book Awards. Titles and authors of genre interest include:</p>
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<p><strong>Fiction</strong></p>
+</div>
+</div>
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: <strong>James</strong>, Percival Everett (Mantle)</li>
+</ul>
+</div>
+<ul>
+<li><strong>Long Island</strong>, Colm Tóibín (Picador)</li>
+<li><strong>Think Again</strong>, Jacqueline Wilson (Bantam)</li>
+</ul>
+</div>
+<p><strong>Pageturner</strong></p>
+<ul>
+<li>WINNER: <strong>Faebound</strong>, Saara El-Arifi (Harper Voyager)</li>
+</ul>
+<ul>
+<li><strong>Daydream</strong>, Hannah Grace (Simon &#38; Schuster)</li>
+<li><strong>House of Flame and Shadow</strong>, Sarah J. Maas (Bloomsbury)</li>
+</ul>
+</div>
+<div class="mynomorebulletlist">
+<p><strong>Audiobook Fiction
+</strong></p>
+<ul>
+<li>JOINT WINNER: <strong>Bunny vs Monkey</strong></li></ul></div> <a href="https://locusmag.com/2025/05/2025-british-book-awards/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-british-book-awards/>
+
+---
+
+## New Books: May 13, 2025
+
+date: 2025-05-13, from: Locus Magazine
+
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of May 13, 2025. </strong></p>
+<p>Abercrombie, Joe: <b>The Devils</b> (Tor 978-1250880055, $29.99, 560pp, formats: hardcover, ebook, audiobook, 05/13/2025)</p>
+<p>Epic fantasy novel. Brother Diaz must complete a holy assignment. But his new mission requires him to lead a flock full of murderers, dark mages, and  <a href="https://locusmag.com/2025/05/new-books-may-13-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/new-books-may-13-2025/>
+
+---
+
+## Small Wonders, GigaNotoSaurus, and Lightspeed: Reviews by Charles Payseur
+
+date: 2025-05-13, from: Locus Magazine
+
+<p>Small Wonders 2/25
+GigaNotoSaurus 2/25
+Lightspeed 2/25</p>
+<p>The February Small Wonders features “<strong>Echo Syndrome</strong>”, a new story by <strong>Jennifer Hudak</strong>. In it, a mother notices that her daughter has split into several overlapping and slightly ghostly versions of herself. It’s echo syndrome – a newly discov­ered affliction that’s cloaked in mystery. As she digs more into what might be going on with her daughter, though, she’s met  <a href="https://locusmag.com/2025/05/small-wonders-giganotosaurus-and-lightspeed-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/small-wonders-giganotosaurus-and-lightspeed-reviews-by-charles-payseur/>
+
+---
+
+## Problem Solving
+
+date: 2025-05-13, from: John August blog
+
+John and Craig look at how writers and their characters handle the obstacles they encounter. They outline proven techniques for solving problems both in life and on the page, why it’s important to see characters solving problems in a story, and how taking big swings can open up exciting possibilities. We also follow up on [&#8230;]
+The post <a href="https://johnaugust.com/2025/problem-solving">Problem Solving</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/686standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/686standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/problem-solving>
+
+---
+
+## 2025 Grand Prix de l’Imaginaire Winners
+
+date: 2025-05-13, from: Locus Magazine
+
+<p>The winners of the 2025 Grand Prix de l&#8217;Imaginaire, honoring the best SF/F work published in France in 2024, have been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>French Novel</strong></p>
+<ul>
+<li>WINNER: <strong>L’Ost céleste</strong>, Olivier Paquet (L’Atalante)</li>
+</ul>
+<ul>
+<li><strong>Les Nuits sans Kim Sauvage</strong>, Sabrina Calvo (La Volte)</li>
+<li><strong>La Maison des veilleurs</strong>, Patrick K. Dewdney (Au Diable Vauvert)</li>
+<li><strong>Vallée du carnage</strong>, Romain Lucazeau (Verso)</li>
+<li><strong>La Sonde et la taille</strong>, Laurent Mantese (Albin Michel)</li>
+<li><strong>Conque</strong></li></ul></div> <a href="https://locusmag.com/2025/05/2025-grand-prix-de-limaginaire-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-grand-prix-de-limaginaire-winners/>
 
 ---
 

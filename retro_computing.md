@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-13 06:08:04
+updated: 2025-05-13 14:07:50
 ---
 
 # retro computing
 
-(date: 2025-05-13 06:08:04)
+(date: 2025-05-13 14:07:50)
+
+---
+
+## New Version of Flatpak Released
+
+date: 2025-05-13, from: Linux Magazine
+
+<p>Flatpak 1.16.1 is now available as the latest, stable version with various improvements.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/New-Version-of-Flatpak-Released>
 
 ---
 

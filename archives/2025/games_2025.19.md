@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-05-13 06:08:02
+updated: 2025-05-13 14:07:48
 ---
 
 # games
 
-(date: 2025-05-13 06:08:02)
+(date: 2025-05-13 14:07:48)
+
+---
+
+## Happy 20-year anniversary, Leeroy Jenkins!
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Twenty years ago, the name Leeroy Jenkins rang through the halls of Upper Blackrock Spire, and now it echoes through eternity. On May 11, 2005, the famous “Leeroy!!” video was posted to WarcraftMovies, a website dedicated to World of Warcraft machinima. The video came from a guild called Pals for Life. In it, the guild [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/598971/wow-20-year-anniversary-leeroy-jenkins-world-of-warcraft>
+
+---
+
+## Andor creator Tony Gilroy ‘had to fight for’ the series’ most crushing moment
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+A YouTube livestream event on Tuesday, featuring Andor creator/writer/showrunner Tony Gilroy and star Diego Luna, along with various stars of the series, inevitably touched on one of the entire series’ most devastating moments. One of the show’s running villains, civil servant and general catspaw Syril Karn, has a key confrontation in episode 8. Addressing the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/598922/andor-tony-gilroy-syril-karn-death>
+
+---
+
+## Fruit Battlegrounds codes for May 2025
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Fruit Battlegrounds is a One Piece-inspired PVP game in Roblox. Players collect different fruits similar to the devil fruit and equip them to gain incredible abilities in arena combat with other players. Unlocking the best fruit, however, will require a lot of spinning for gems, rebirths, and boss drops. Some fruit can be unlocked through [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/roblox-guides/598916/fruit-battlegrounds-codes>
+
+---
+
+## Former Call of Duty dev wonders if the franchise has &#8216;run out of ideas&#8217;
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+A former Call of Duty developer is wondering the same thing you are: if the franchise — which has released 21 mainline installments since 2003 — has run out of ideas. “It’s almost like The Simpsons — it’s been around so long that it feels like they’ve run out of ideas at times. It kind [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598920/former-call-of-duty-dev-wonders-if-the-franchise-has-run-out-of-ideas>
+
+---
+
+## Nintendo says its low-balled Switch 2 forecast is about price, not tariffs
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Last week, Nintendo predicted it would sell 15 million Switch 2 consoles in its current financial year. This would actually be a fantastic result — equalling Switch, and just about any console you care to mention — but analysts called the figure “conservative” and “on the low side.” That’s just how high the expectations for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/598877/nintendo-switch-2-forecast-price-not-tariffs>
+
+---
+
+## Atlus’ new Persona teaser isn&#8217;t about Persona 6, sorry
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Atlus’ new Persona-related teaser on social media is getting a ton of attention — but it’s not a teaser for Persona 6 (or a Persona 5 remake). Instead, it’s a tease about its Persona 5 mobile game spinoff, Persona 5: The Phantom X. On Monday, Atlus released a teaser on X with an image featuring [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598874/atlus-teaser-persona-5-phantom-x-p6>
+
+---
+
+## Marvel Rivals Season 0 Battle Pass is available for a limited time
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+It’s officially been a year since Marvel Rivals took the PvP hero shooter world by storm with its Closed Alpha Test, and to thank the fans, the devs have announced the return of its Season 0 Battle Pass. NetEase Games, in its recent dev diary entry, said following the May 15 update, they’re dropping a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/598890/marvel-rivals-season-0-battle-pass-is-available-for-a-limited-time>
+
+---
+
+## The final trailer for John Wick movie Ballerina means its long, troubled shoot is finally over
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Lionsgate first announced the John Wick spinoff Ballerina in 2017 and put it on the fast track to production in 2019. That track turned out to be very bumpy. The film was initially scheduled for release in June 2024 but got pushed back to this year. In the interim, John Wick co-director Chad Stahelski assumed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/598882/ballerina-john-wick-movie-trailer-release-date>
+
+---
+
+## Valve&#8217;s SteamOS now has compatibility ratings for devices other than Steam Decks
+
+date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Handheld gaming has evolved through many phases over the years, and Valve, despite having its own hardware, is embracing more and more of it. In a recent news post, Valve announced it is expanding the Steam Deck Verified categorization system with a new SteamOS Compatibility system. This new SteamOS Compatibility system is explicitly for “any [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hardware/598822/valves-steamos-now-has-compatibility-ratings-for-devices-other-than-steam-decks>
 
 ---
 

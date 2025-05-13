@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-05-13 06:08:04
+updated: 2025-05-13 14:07:50
 ---
 
 # motorcycles
 
-(date: 2025-05-13 06:08:04)
+(date: 2025-05-13 14:07:50)
+
+---
+
+## ampm joins Conor Daly for Indianapolis 500 and beyond
+
+date: 2025-05-13, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer One of the local favorites for the 109th Indianapolis 500 will have a new sponsor and new colors.&#160; Announced this morning, Noblesville, IN native Conor&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/ampm-joins-conor-daly-for-indianapolis-500-and-beyond/>
+
+---
+
+## TireRack.com to sponsor Scott McLaughlin at the Detroit Grand Prix
+
+date: 2025-05-13, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer Today, Team Penske announced their continuation with longtime associate sponsor, TireRack.Com.&#160; TireRack, based out of South Bend, IN, will feature as the primary sponsor for&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/tirerack-com-to-sponsor-scott-mclaughlin-at-the-detroit-grand-prix/>
+
+---
+
+## Maeving’s New Blackout Electric Motorcycle Is a Retro-Inspired Urban Commuter
+
+date: 2025-05-13, from: Ride Apart, Electric Motorcycle News
+
+It’s proof that black will never go out of style. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759070/2025-maeving-blackout-edition-electric-motorcycle/>
+
+---
+
+## Harrison Burton To Drive No. 51 Morton Buildings Ford Mustang in NASCAR All-Star Race
+
+date: 2025-05-13, from: Kickin the Tires blog
+
+MOORESVILLE, N.C. (May 12, 2025) – The 41st running of the NASCAR All-Star Race Sunday night at North Wilkesboro (N.C.) Speedway will see a first-time entrant. Rick Ware Racing (RWR),&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/harrison-burton-to-drive-no-51-morton-buildings-ford-mustang-in-nascar-all-star-race/>
+
+---
+
+## 16 Dirt Bikes for $5K, But Can They Be Made to Run In 1 Day?
+
+date: 2025-05-13, from: Ride Apart, Electric Motorcycle News
+
+Ring-a-ding-ding, how many are running? 
+
+<br> 
+
+<https://www.rideapart.com/news/759359/16-dirt-bike-running-video/>
 
 ---
 

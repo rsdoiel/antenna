@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-05-13 06:08:02
+updated: 2025-05-13 14:07:48
 ---
 
 # journalism
 
-(date: 2025-05-13 06:08:02)
+(date: 2025-05-13 14:07:48)
+
+---
+
+## From Marnie to Matador: Trading magic for business management at CSUN
+
+date: 2025-05-13, from: The Sundail (CSUN Student Newspaper)
+
+While filming “Big Bad Wolf,” at the age of 21, Kimberly J. Brown found herself racing from set to the College of the Canyons (COC) for her midterm exam. Brown... 
+
+<br> 
+
+<https://sundial.csun.edu/193661/news/from-marnie-to-matador-trading-magic-for-business-management-at-csun/>
 
 ---
 

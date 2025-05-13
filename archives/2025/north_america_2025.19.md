@@ -1,11 +1,161 @@
 ---
 title: north america
-updated: 2025-05-13 06:07:57
+updated: 2025-05-13 14:07:45
 ---
 
 # north america
 
-(date: 2025-05-13 06:07:57)
+(date: 2025-05-13 14:07:45)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-13, from: The Contrarian
+
+Tuesday: Protests against tariffs, a protest against Rep. Elise Stefanik in New York, Mother's Day protests in Kansas and California, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## We can demand better from the media
+
+date: 2025-05-13, from: The Contrarian
+
+Yes, there is still reason for hope. 
+
+<br> 
+
+<https://contrarian.substack.com/p/we-can-demand-better-from-the-media>
+
+---
+
+## The Diddy Trial Has Begun: Here’s What to Know
+
+date: 2025-05-13, from: The Contrarian
+
+New York City public defender Eliza Orlins discusses the trial of Sean &#8220;Diddy&#8221; Combs taking place in Federal District Court in Lower Manhattan. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163481764/8f76904eeac497160c25bdda3a8d32a3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163481764/8f76904eeac497160c25bdda3a8d32a3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-diddy-trial-has-begun-heres-what>
+
+---
+
+##  Republicans Aim To Enshrine Rental Price-Fixing 
+
+date: 2025-05-13, from: The Lever News
+
+ After a lobbying surge, rent-tech giant RealPage is set to score a nationwide reprieve from crackdowns on how it’s price-gouging renters and fueling the housing crisis.  
+
+<br> 
+
+<https://www.levernews.com/republicans-aim-to-enshrine-rental-price_fixing/>
+
+---
+
+##  A Potential Trump Power Grab, Brought To You By Democrats 
+
+date: 2025-05-13, from: The Lever News
+
+ Big Tech-backed Democrats could hand one of the country’s largest and greenest energy markets to Trump and his fossil fuel acolytes.  
+
+<br> 
+
+<https://www.levernews.com/a-potential-trump-power-grab-brought-to-you-by-democrats/>
+
+---
+
+## Security threat
+
+date: 2025-05-13, from: The Contrarian
+
+A cartoon by Nick Anderson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/security-threat>
+
+---
+
+## Let's Do Lunch w/ Jared Bernstein & Shalanda Young
+
+date: 2025-05-13, from: The Contrarian
+
+Realtime Econ Q&A with Jared Bernstein and Shalanda Young 
+
+<br> 
+
+<https://contrarian.substack.com/p/live-with-jared-bernstein-cea>
+
+---
+
+## What China saw in Geneva
+
+date: 2025-05-13, from: The Contrarian
+
+Trump claimed a reset. Beijing recognized the bluff. 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-china-saw-in-geneva>
+
+---
+
+##  The Secret Plan To Kill Free Tax Filing 
+
+date: 2025-05-13, from: The Lever News
+
+ Republicans&#39; tax-cut bill could eliminate the government&#39;s popular free tax-filing system and pay off the president’s tax-prep industry donors.  
+
+<br> 
+
+<https://www.levernews.com/the-secret-plan-to-kill-free-tax-filing/>
+
+---
+
+## Trump Administration Quietly Moves to Restrict Access to Asylum, Other Protections in Immigration Court
+
+date: 2025-05-13, from: Capital and Main
+
+<p>Even with the threat of torture in a Salvadoran prison hanging over their heads, migrants are more likely to be told "no" when seeking refuge in the U.S. </p>
+<p>The post <a href="https://capitalandmain.com/trump-administration-quietly-moves-to-restrict-access-to-asylum-other-protections-in-immigration-court">Trump Administration Quietly Moves to Restrict Access to Asylum, Other Protections in Immigration Court</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-administration-quietly-moves-to-restrict-access-to-asylum-other-protections-in-immigration-court>
+
+---
+
+## Medicaid works, as do most of the adults it covers
+
+date: 2025-05-13, from: The Contrarian
+
+Work requirements are nothing more than a backdoor way to way to take health care coverage from millions of people. 
+
+<br> 
+
+<https://contrarian.substack.com/p/medicaid-works-as-do-most-of-the>
+
+---
+
+## Republicans want to gut healthcare: Neera Tanden on cuts to Medicaid and more
+
+date: 2025-05-13, from: The Contrarian
+
+"this gutting of Medicaid is taking health care from working class people in this country" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163427622/485e63e7c6f8f3c7d9fccc9de00d441b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163427622/485e63e7c6f8f3c7d9fccc9de00d441b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/republicans-want-to-gut-healthcare>
 
 ---
 
@@ -154,18 +304,6 @@ The president exceeded his authority by effectively nullifying a law passed by C
 <br> 
 
 <https://contrarian.substack.com/p/a-trump-executive-order-takes-a-sledgehammer>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-12, from: The Contrarian
-
-Monday: Protests against Immigration and Customs Enforcement in New Jersey and Massachusetts, Tesla takedowns in Maryland and New York, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

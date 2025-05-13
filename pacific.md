@@ -1,11 +1,110 @@
 ---
 title: pacific
-updated: 2025-05-13 06:07:58
+updated: 2025-05-13 14:07:46
 ---
 
 # pacific
 
-(date: 2025-05-13 06:07:58)
+(date: 2025-05-13 14:07:46)
+
+---
+
+## UH Mānoa math grad credits UH West Oʻahu, UH Mānoa for his success
+
+date: 2025-05-13, from: University of Hawaiʻi News
+
+<p>Johnson is interested in pursuing a lecturer position and eventually supporting other <span aria-label="Hawaii">Hawai&#699;i</span> students on their own educational paths.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/math-grad-credits-west-oahu-manoa/"><abbr>UH</abbr> Mānoa math grad credits <abbr>UH</abbr> West Oʻahu, <abbr>UH</abbr> Mānoa for his success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/math-grad-credits-west-oahu-manoa/>
+
+---
+
+## CNMI Republican Party issues general membership meeting ground rules
+
+date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+
+(NMI GOP) — There will be volunteers present at the General Membership Meeting on May 15, 2025 in order to assist with Membership Registration and election of officers. The General Membership Meeting will be conducted pursuant to the CNMI Republican Party Bylaws, the Robert’s Rules of Order and will follow the Commonwealth Election Commission process as closely as possible as the situation applies. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-republican-party-issues-general-membership-meeting-ground-rules/article_8968e9cf-214a-4004-83a6-961a13d69356.html>
+
+---
+
+## Major tax automated system upgrade for DRT; tax refunds expected by mid-June
+
+date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+
+(DRT) — The Division of Revenue and Taxation is undergoing a major transition of its outdated tax system to a modern automated system — an investment designed to enhance efficiency, transparency, and accuracy in operations. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/major-tax-automated-system-upgrade-for-drt-tax-refunds-expected-by-mid-june/article_c6f71724-bc2d-415a-8553-93caa44cabc8.html>
+
+---
+
+## CNMI Office of Planning and Development releases 'Economic Recovery Roadmap'
+
+date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+
+THE Office of the Governor and the Office of Planning and Development have announced the release of the “CNMI Economic Recovery Study: Marianas Economic Roadmap.” This critical report provides a comprehensive strategy to guide the CNMI toward long-term economic recovery, resilience, and growth. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-office-of-planning-and-development-releases-economic-recovery-roadmap/article_b89fca90-f54e-4247-bc21-f27da04560b1.html>
+
+---
+
+## Falling fuel prices result in decrease of Fuel Adjustment Charge for May 2025
+
+date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+
+THE Commonwealth Utilities Corporation has been informed by Mobil Oil Mariana Islands Inc. of a decrease in the average international fuel oil prices, which may affect the Fuel Adjustment Charge. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/falling-fuel-prices-result-in-decrease-of-fuel-adjustment-charge-for-may-2025/article_52ded22d-20ba-49b7-99dd-0829e9d5ce96.html>
+
+---
+
+## Philippine president shores up support after midterms battle for power
+
+date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+
+MANILA (Reuters) —  Allies of Philippine President Ferdinand Marcos Jr. looked set to win at least half of the available Senate seats in a midterm election on Monday, an unofficial tally showed, in a contest seen as a referendum on his leadership and a fierce proxy battle with his estranged vice president. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/philippine-president-shores-up-support-after-midterms-battle-for-power/article_b57e6deb-09f8-4967-9206-5f86ed1d9c6a.html>
+
+---
+
+## Senate president aims to streamline government services
+
+date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+
+AT the Saipan Chamber of Commerce’s general membership meeting held at the Crowne Plaza on May 7, Senate President Dennis James C. Mendiola said his priority is to streamline government services and continue engaging with stakeholders to drive legislative initiatives. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senate-president-aims-to-streamline-government-services/article_a601ee8d-220e-432d-a3ad-71d9937868d1.html>
+
+---
+
+## Feds urged to authorize Guam to issue passports: 'It's about life and death'
+
+date: 2025-05-13, from: Pacific Island Times
+
+
+
+While Guam residents may file their passport application or renewal online or through the Guam Department of Revenue and Taxation's passport office, the physical passports are issued by the Department of State. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/feds-urged-to-authorize-guam-to-issue-passports-it-s-about-life-and-death>
 
 ---
 

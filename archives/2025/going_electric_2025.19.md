@@ -1,11 +1,351 @@
 ---
 title: going electric
-updated: 2025-05-13 06:08:05
+updated: 2025-05-13 14:07:51
 ---
 
 # going electric
 
-(date: 2025-05-13 06:08:05)
+(date: 2025-05-13 14:07:51)
+
+---
+
+## GOP tax bill helps its biggest donor Musk, but harms his company, Tesla
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-killer.png?w=1600" /></div><p>Republicans announced a new tax plan today and it’s <a href="https://electrek.co/2025/05/13/gop-proposes-sending-us-ev-jobs-to-china-giving-money-to-elites-instead/">just about as bad for America as expected</a>, taking money for healthcare, clean air and energy efficiency from American families and sending it to the ultra-wealthy instead.</p>
+
+
+
+<p>You might think that this helps one of those ultra-wealthy, Elon Musk, who gave <a href="https://electrek.co/2024/07/15/just-after-his-huge-stock-grant-elon-musk-commits-45mil-mo-to-harm-evs/">hundreds of millions of dollars to ani-EV candidates to help make this happen</a>. But the main source of his wealth, Tesla, will be specifically harmed by rescission of EV credits – and its competitors largely won’t be.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="415935" href="https://electrek.co/2025/05/13/gop-tax-bill-helps-its-biggest-donor-musk-but-harms-his-company-tesla/#more-415935" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/gop-tax-bill-helps-its-biggest-donor-musk-but-harms-his-company-tesla/>
+
+---
+
+## BYD just had its best sales week of 2025 in China with nearly 68,000 EV registrations
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-best-sales-week-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s EV giant is on a roll. <a href="https://electrek.co/guides/byd/">BYD</a> is coming off its best sales week in China of 2025, racking up nearly 68,000 registrations. In comparison, Tesla logged just over 3,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="415913" href="https://electrek.co/2025/05/13/byd-best-sales-week-2025-china-nearly-68000/#more-415913" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/byd-best-sales-week-2025-china-nearly-68000/>
+
+---
+
+## Trump’s tariffs stall US battery momentum as China powers ahead
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/ElevenMile-BESS-orsted.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>China has reclaimed the No. 1 spot on BloombergNEF’s annual Global Lithium-Ion Battery Supply Chain Ranking, bumping Canada to second place, as its low electricity prices and strong infrastructure gave it the edge in 2024. </p>
+
+
+
+<p>The report ranks 30 countries based on how well they’re positioned to build a secure and sustainable battery supply chain, and this year’s reshuffling says a lot about where the market’s headed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-supply,canada,china,donald-trump,lithium-ion-battery,united-states" data-layer-viewtype="unknown" data-post-id="415915" href="https://electrek.co/2025/05/13/trumps-tariffs-stall-us-battery-momentum-as-china-powers-ahead/#more-415915" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/trumps-tariffs-stall-us-battery-momentum-as-china-powers-ahead/>
+
+---
+
+## Volkswagen EVs Are About To Get Cheaper, Thanks To New Batteries
+
+date: 2025-05-13, from: Inside EVs News
+
+The company's newest battery tech will launch in 2026 on the ID.2, then spread across the lineup. 
+
+<br> 
+
+<https://insideevs.com/news/759477/vw-lfp-ev-lineup-id2/>
+
+---
+
+## Tesla employees try to oust Elon, a new Volvo, and Micah’s close call
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/sinking-tesla.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, it’s back to your regularly scheduled news programming with reports that Tesla employees are getting fired for asking Elon to step down as the new Model Y flops hard in the global marketplace. We’ve also got a new electrified Volvo XC70 and Micah has a close call with the law!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,quick-charge,tesla,volvo" data-layer-viewtype="unknown" data-post-id="415925" href="https://electrek.co/2025/05/13/tesla-employees-try-to-oust-elon-a-new-volvo-and-micahs-close-call/#more-415925" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/tesla-employees-try-to-oust-elon-a-new-volvo-and-micahs-close-call/>
+
+---
+
+## Tesla shares video of its Optimus robot catching up to competition
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Optimus-vs-Unitree-G1.gif?w=1000" /></div><p>Tesla has shared a video of the progress of its Optimus humanoid robot, but it still looks like it is catching up to the competition.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-optimus" data-layer-viewtype="unknown" data-post-id="415908" href="https://electrek.co/2025/05/13/tesla-shares-video-optimus-robot-catching-up-competition/#more-415908" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/tesla-shares-video-optimus-robot-catching-up-competition/>
+
+---
+
+## Car Companies Once Had Global Ambitions. That Era Is Ending
+
+date: 2025-05-13, from: Inside EVs News
+
+Don't take it from me. Ford CEO Jim Farley admitted that this is becoming a "regional business." 
+
+<br> 
+
+<https://insideevs.com/news/759460/car-industry-is-a-regional-business/>
+
+---
+
+## Nissan pulls the plug on +$1 billion EV battery plant and more as the alarm bells go off
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Nissans-new-N7-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As it scrambles to turn things around, <a href="https://electrek.co/guides/nissan/">Nissan</a> is scrapping plans to build a new LFP battery plant in Japan. The facility was expected to be key to reducing EV battery costs to keep up with leaders like BYD. With alarm bells ringing, Nissan is preparing to cut 20,000 jobs, or about 15% of its global workforce.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="415199" href="https://electrek.co/2025/05/13/nissan-scraps-1-billion-ev-plant-and-more-as-alarm-bells-go-off/#more-415199" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/nissan-scraps-1-billion-ev-plant-and-more-as-alarm-bells-go-off/>
+
+---
+
+## EcoFlow DELTA 2 Max solar bundle at new $1,424 low, Greenworks latest Pro 2,300 PSI pressure washer $280, Hoverfly e-scooters, more
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/EcoFlow-Mothers-Day-Sale-FI.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Headlining today’s Green Deals are four website-exclusive solar generator bundles from <a href="https://9to5toys.com/2025/05/13/ecoflow-exclusive-delta-2-max-bundle-new-1424-low-more/">EcoFlow’s ongoing Mother’s Day Sale</a>, which is running parallel to its <a href="https://9to5toys.com/2025/05/08/ecoflow-delta-pro-3-2659-low-more/">Spring-to-Summer Sale</a>, and feature a new low price on the <a href="https://9to5toys.com/2025/05/13/ecoflow-exclusive-delta-2-max-bundle-new-1424-low-more/">DELTA 2 Max Power Station with two 220W solar panels</a> and a protective bag for <a href="https://9to5toys.com/2025/05/13/ecoflow-exclusive-delta-2-max-bundle-new-1424-low-more/">$1,424</a>. If you would prefer the smaller <a href="https://9to5toys.com/2025/05/12/ecoflow-delta-2-handbag-449/">DELTA 2 Power Station</a>, you can grab it at Amazon with a waterproof handbag for <a href="https://9to5toys.com/2025/05/12/ecoflow-delta-2-handbag-449/">$449</a>, which beats out the brand’s direct pricing. There’s also <a href="https://9to5toys.com/2025/05/13/greenworks-pro-2300-psi-pressure-washer-280-low/">Greenworks’ latest Pro-tier 2,300 PSI Electric Pressure Washer</a> that has returned to its <a href="https://9to5toys.com/2025/05/13/greenworks-pro-2300-psi-pressure-washer-280-low/">$280 low</a>, as well as some other notable discounts from the brand. Lastly, for budget commuters, you can hop aboard the <a href="https://9to5toys.com/2025/05/13/hoverfly-x1-electric-scooter-new-214-low/">Hoverfly X1 Electric Scooter</a> at a new <a href="https://9to5toys.com/2025/05/13/hoverfly-x1-electric-scooter-new-214-low/">$214 low</a> or the <a href="https://9to5toys.com/2025/05/13/hoverfly-x1-electric-scooter-new-214-low/">XR Elite Electric Scooter at $202</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s new low prices on the <a href="https://9to5toys.com/2025/05/12/greenworks-80v-venture-utility-e-bike-new-1425-low/">Greenworks 80V Venture 20-inch Utility e-bike</a>, the <a href="https://9to5toys.com/2025/05/12/ego-dual-port-mower-two-5-0ah-batteries-new-550-low/">EGO dual-port mower combo</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="415866" href="https://electrek.co/2025/05/13/ecoflow-delta-2-max-bundle-greenworks-hoverfly-more/#more-415866" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/ecoflow-delta-2-max-bundle-greenworks-hoverfly-more/>
+
+---
+
+## Kia built an electric van for wheelchair users: Check out the new PV5 WAV
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kia-PV5-WAV-EV-van.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Kia’s first electric van is proving to be even more functional. The new PV5 WAV is specifically designed to be affordable, accessible, and wheelchair-friendly. Meet the new <a href="https://electrek.co/guides/kia/">Kia</a> PV5 WAV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="415836" href="https://electrek.co/2025/05/13/kia-built-new-electric-van-wheelchair-users-pv5-wav/#more-415836" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/kia-built-new-electric-van-wheelchair-users-pv5-wav/>
+
+---
+
+## GOP proposes sending US EV jobs to China, giving money to elites instead
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/Congress.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>US republicans have unveiled their new tax proposal, which kills a slew of tax credits to help working families become more energy efficient, improve US air quality, and boost US manufacturing. The republican proposal instead channels that money to wealthy elites, increasing the deficit by trillions of dollars along the way.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="415839" href="https://electrek.co/2025/05/13/gop-proposes-sending-us-ev-jobs-to-china-giving-money-to-elites-instead/#more-415839" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/gop-proposes-sending-us-ev-jobs-to-china-giving-money-to-elites-instead/>
+
+---
+
+## The House draft budget kills the 30% residential solar tax credit
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/pexels-photo-4254164.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>The House’s “One, Big, Beautiful Bill” (yes, it’s <a href="https://waysandmeans.house.gov/wp-content/uploads/2025/05/SMITMO_017_xml.pdf" target="_blank" rel="noreferrer noopener">really called that</a>) has set an accelerated expiration date of December 31, 2025, for the 30% residential solar tax credit – nearly a decade ahead of its originally planned end date. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,inflation-reduction-act,solar-power" data-layer-viewtype="unknown" data-post-id="415820" href="https://electrek.co/2025/05/13/house-draft-budget-kills-the-30-residential-solar-tax-credit/#more-415820" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/house-draft-budget-kills-the-30-residential-solar-tax-credit/>
+
+---
+
+## Tesla (TSLA) Chinese deliveries dropped to a scary low level
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Model-Y-2-Along-the-Way-Tablet-CN.png-e1736950646574.jpeg?quality=82&#038;strip=all&#038;w=1392" /></div><p>Based on insurance registration, Tesla’s deliveries in China dropped to a scary low level last week despite having ramped up production of the new Model Y.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="415834" href="https://electrek.co/2025/05/13/tesla-tsla-chinese-deliveries-dropped-scary-low-level/#more-415834" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/tesla-tsla-chinese-deliveries-dropped-scary-low-level/>
+
+---
+
+## All the EVs you can buy with 0% interest financing in May 2025 [update]
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/may-2025-0-interest.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2025/05/07/cheapest-evs-lease-may-under-300-month-updated/">Lease deals get all the hype</a>, but most people still want to own the car after they’re done making all those payments on it. If that sounds like you, and you’ve been waiting for the interest rates on auto loans to drop, you’re in luck: there are a bunch of great plug-in cars you can buy with 0% financing in May, 2025!</p>
+
+
+
+<p><strong>UPDATE</strong>: <a href="https://electrek.co/2025/05/11/all-the-evs-you-can-buy-with-0-interest-financing-in-may-2025/#:~:text=Subaru%20Solterra.-,Tesla%20Model%203,-Tesla%20Model%203">Tesla is hoping to boost demand with 0% financing</a>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="0-financing,ev-deals" data-layer-viewtype="unknown" data-post-id="415473" href="https://electrek.co/2025/05/13/all-the-evs-you-can-buy-with-0-interest-financing-in-may-2025/#more-415473" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/all-the-evs-you-can-buy-with-0-interest-financing-in-may-2025/>
+
+---
+
+## China’s XPeng Motors continues globalization with market entry in Italy
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/XPeng-Italy-logo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After recently announcing plans to expand its market presence in Europe, Chinese EV Automaker XPeng Motors has officially opened up shop in Italy, one of the top five markets in the region. The move supports <a href="https://electrek.co/guides/xpeng/">XPeng’s</a> plans to have at least half of its sales come from markets outside of China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="italy,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="415818" href="https://electrek.co/2025/05/13/chinas-xpeng-motors-continues-globalization-with-market-entry-in-italy/#more-415818" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/chinas-xpeng-motors-continues-globalization-with-market-entry-in-italy/>
+
+---
+
+## EPA Vows To 'Fix' This Gas-Saving Feature That 'Everyone Hates'
+
+date: 2025-05-13, from: Inside EVs News
+
+Consumers may hate it, but they also underestimate how much gas this low-tech feature saves. 
+
+<br> 
+
+<https://insideevs.com/news/759442/epa-auto-start-stop-fix/>
+
+---
+
+## GM’s new EV battery cells promise more affordable, long-range electric trucks and SUVs
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Chevys-Silverado-EV-LT-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 Chevy Silverado EV already offers up to 492 miles of range, but GM promises to unlock even more at a lower cost. GM and LG Energy Solution unveiled the “first-ever” lithium manganese-rich (LMR) prismatic EV battery cells. The new battery cells will be used in upcoming <a href="https://electrek.co/guides/gm/">GM</a> EV models, especially trucks and SUVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm,lg-energy-solutions" data-layer-viewtype="unknown" data-post-id="415802" href="https://electrek.co/2025/05/13/gm-unveils-new-battery-cells-for-affordable-ev-trucks-suvs/#more-415802" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/gm-unveils-new-battery-cells-for-affordable-ev-trucks-suvs/>
+
+---
+
+## Honda pauses planned EV factory in Canada amid tariff war
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Honda-Alliston-Ontario-plant.png?w=1600" /></div><p>Honda announced that it is pausing about $15 billion in planned EV investments to build electric vehicle and battery factories in Canada amid uncertainty over trade.</p>
+
+
+
+<p>It’s the latest example of Canada’s backing the US plan backfiring. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="415776" href="https://electrek.co/2025/05/13/honda-pauses-planned-ev-factory-in-canada-amid-tariff-war/#more-415776" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/honda-pauses-planned-ev-factory-in-canada-amid-tariff-war/>
+
+---
+
+## Meet ONOX: The all-electric tractor with swappable battery packs
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/ONOX-electrix-tractor-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new company out of Germany called ONOX is bringing sustainable technology to the <a href="https://electrek.co/guides/electric-tractors/">agriculture industry</a>. After garnering design awards, the ONOX electric tractor prototype is in operation overseas as its makers look to scale and bring its unique modular design, complete with swappable battery packs, to farms everywhere.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-tractor,electric-tractors,onox" data-layer-viewtype="unknown" data-post-id="415777" href="https://electrek.co/2025/05/13/meet-onox-the-all-electric-tractor-with-swappable-battery-packs/#more-415777" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/meet-onox-the-all-electric-tractor-with-swappable-battery-packs/>
+
+---
+
+## Toyota’s bZ electric SUV gets a new name, more range, an NACS port and other upgrades
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/2026-Toyota-bZ-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> upgraded its electric SUV in just about every way possible. The 2026 Toyota bZ is refined from end to end with a fresh new style, more driving range, advanced new tech, and much more. It even has an NACS port, so you can charge at Tesla Superchargers. Here’s our first look at Toyota’s new EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="415760" href="https://electrek.co/2025/05/13/toyotas-ev-gets-new-name-more-range-and-other-big-upgrades/#more-415760" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/toyotas-ev-gets-new-name-more-range-and-other-big-upgrades/>
+
+---
+
+## GM’s Next-Gen EV Truck Battery Promises More Range, Lower Cost
+
+date: 2025-05-13, from: Inside EVs News
+
+LMR battery chemistry will unlock weight savings, more range and lower costs, General Motors claims. 
+
+<br> 
+
+<https://insideevs.com/news/759374/gm-lmr-battery-chemistry-ev-trucks-suvs/>
 
 ---
 

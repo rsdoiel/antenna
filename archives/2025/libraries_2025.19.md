@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-13 06:08:03
+updated: 2025-05-13 14:07:49
 ---
 
 # libraries
 
-(date: 2025-05-13 06:08:03)
+(date: 2025-05-13 14:07:49)
 
 ---
 
@@ -53,7 +53,7 @@ Weinold, Michael; Ghosh, Tapajyoti; Majeau-Bettez, Guillaume
 
 date: 2025-05-12, from: Association of Research Libraries News
 
-<p>Last Updated on May 12, 2025, 4:12 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
+<p>Last Updated on May 13, 2025, 4:24 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-12-15/">Day in Review (May 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

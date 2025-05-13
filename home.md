@@ -1,11 +1,121 @@
 ---
 title: home
-updated: 2025-05-13 06:08:03
+updated: 2025-05-13 14:07:50
 ---
 
 # home
 
-(date: 2025-05-13 06:08:03)
+(date: 2025-05-13 14:07:50)
+
+---
+
+## New Subaru Outbacks Have a Ruler In Their Taillights — Is It Actually Useful?
+
+date: 2025-05-13, from: Family Handyman Blog
+
+<p>With almost 60 years in the automotive industry, I have found Subaru has always been a leader helping blend practicality with innovation for DIYers and...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/subaru-ruler-in-taillights/">New Subaru Outbacks Have a Ruler In Their Taillights — Is It Actually Useful?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/subaru-ruler-in-taillights/>
+
+---
+
+## What to Put in an Outside Dog House for Warmth, and Other FAQs
+
+date: 2025-05-13, from: Family Handyman Blog
+
+<p>Learn what to put in an outside dog house for warmth as well as several other ways to keep your pups warm in the winter. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/how-to-keep-outdoor-dog-house-warm/">What to Put in an Outside Dog House for Warmth, and Other FAQs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/how-to-keep-outdoor-dog-house-warm/>
+
+---
+
+## How To Make Textured Plaster Wall Art Panels
+
+date: 2025-05-13, from: Family Handyman Blog
+
+<p>Learn the surprisingly simple process behind creating textured plaster wall art panels that look professionally made.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/plaster-wall-art/">How To Make Textured Plaster Wall Art Panels</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/plaster-wall-art/>
+
+---
+
+## Simple No Pantry Solutions on a Budget
+
+date: 2025-05-13, from: Family Handyman Blog
+
+<p>Even if you've got no pantry, solutions are at hand. We've rounded up several ideas to help you stay organized in the kitchen. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/no-pantry-ideas/">Simple No Pantry Solutions on a Budget</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/no-pantry-ideas/>
+
+---
+
+## This $5.5M L.A. Midcentury Has Reimagined Interiors and a Brand New Pool
+
+date: 2025-05-13, from: Dwell
+
+Local firm Ome Dezin saved the post-and-beam ceilings and brick fireplace while bringing in ribbed grass, a circular skylight, and a built-in kitchen banquette. 
+
+<br> 
+
+<https://www.dwell.com/article/brentwood-midcentury-home-ome-dezin-los-angeles-real-estate-71f9623a>
+
+---
+
+## 7 Causes of Peeling and Cracking Bark on Dogwoods
+
+date: 2025-05-13, from: The Gardener's Path
+
+<p>When bark peels or cracks on a dogwood, it isn’t always clear what’s going on. Some types naturally shed bark, while others may be under stress from environmental conditions, pests, or pathogens. Learn how to recognize the underlying issue and what, if anything, you can do about it in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/dogwood-bark-peeling/">7 Causes of Peeling and Cracking Bark on Dogwoods</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/dogwood-bark-peeling/>
+
+---
+
+## Why Does the President Want You to Pay Higher Utility Bills?
+
+date: 2025-05-13, from: Family Handyman Blog
+
+<p>President Trump wants to cut the Energy Star program that saves people billions on their utility bills. But we might be able to save it. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/trump-admin-energy-star-cut/">Why Does the President Want You to Pay Higher Utility Bills?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/trump-admin-energy-star-cut/>
+
+---
+
+## Pope Leo XIV’s Childhood Home Is for Sale — Sort Of
+
+date: 2025-05-13, from: Family Handyman Blog
+
+<p>Pope Leo XIV's childhood home was listed for sale recently- but now that he's been announced as pope, the listing is changing. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/popes-boyhood-home/">Pope Leo XIV&#8217;s Childhood Home Is for Sale — Sort Of</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/popes-boyhood-home/>
 
 ---
 
@@ -18,6 +128,18 @@ As the family pet has morphed into the "fur baby," designers are making washing 
 <br> 
 
 <https://www.dwell.com/article/pet-spas-dog-bath-designers-46207042>
+
+---
+
+## My House: This Wildly Colorful Vancouver Home Was Designed Like a Shoe
+
+date: 2025-05-13, from: Dwell
+
+The Fluevog family is famed for making "unique soles for unique souls"—and their quirky home keeps step with the mantra. 
+
+<br> 
+
+<https://www.dwell.com/article/fluevog-residence-mahg-architects-vancouver-british-columbia-028b8dd0>
 
 ---
 
@@ -78,6 +200,138 @@ Amalia Branaa Donner and Uzi Sabah renovated a midcentury house to embrace natur
 <br> 
 
 <https://www.dwell.com/article/nativa-house-from-arch-montevideo-uruguay-rooftop-greenhouse-027142a0>
+
+---
+
+## Open Invitations: The Outdoor Issue
+
+date: 2025-05-13, from: Dwell
+
+Patios, porches, and other perfect places for entertaining. 
+
+<br> 
+
+<https://www.dwell.com/article/the-outdoors-issue-may-june-2025-1270bcc6>
+
+---
+
+## How a Turf-Wrapped Chia Pet Keeps a Landscape Architect Grounded in Her Work
+
+date: 2025-05-13, from: Dwell
+
+Michelle Arab shares how the irreverent objet d’art she got 20 years ago reminds her to find the beauty—and humor—in change. 
+
+<br> 
+
+<https://www.dwell.com/article/landscape-architect-michelle-arab-chia-pet-79f2db4e>
+
+---
+
+## This Mexican Prefab Cabin Avoids Clichés While Framing Nature
+
+date: 2025-05-13, from: Dwell
+
+Knotty pine and A-frames are nowhere to be found in this mountain lodging—just an artful sense of the outdoors. 
+
+<br> 
+
+<https://www.dwell.com/article/o-frame-prefab-wander-cabin-oioioi-mineral-del-chico-mexico-3ab8d2c4>
+
+---
+
+## Outdoor Furniture for Throwing a Party Like a Pro
+
+date: 2025-05-13, from: Dwell
+
+We asked five (over)qualified hospitality experts tips for hosting their ideal outdoor event—and gathered everything you need to pull it off. 
+
+<br> 
+
+<https://www.dwell.com/article/outdoor-entertaining-tips-and-essential-products-a23bf779>
+
+---
+
+## The Rise, Fall, and Return of the American Porch
+
+date: 2025-05-13, from: Dwell
+
+How the quintessential element of U.S. domestic architecture went from social hub to suburban relic—and back again. 
+
+<br> 
+
+<https://www.dwell.com/article/history-of-porches-american-home-design-57e23b83>
+
+---
+
+## Home Design Awards Directory
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/home-design-awards-directory>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Story Behind This Unique and Stunning House Renovation Proves That You Can Go Home Again
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+The homeowners returned to their home in Hillsborough, California, after being away for two years and wanted to give the space some updates. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/hillsborough-house-renovation>
+
+---
+
+## 4 Smart Tips for Buying Top-Tier Seafood from the Grocery Store
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+Finding quality seafood at your supermarket can yield a lot of confusion. Experts share how to buy seafood at the grocery store. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/how-to-buy-seafood-at-grocery-store>
+
+---
+
+## Disneyland Just Dropped a Special Ticket Price
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+To celebrate its 70th anniversary, Disneyland is offering a special ticket deal. Find out how to take advantage of it. 
+
+<br> 
+
+<https://www.sunset.com/travel/disneyland-70th-anniversary-ticket>
+
+---
+
+## How One Woman Is Using Bubbles to Amplify Women
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+Jen Pelka is championing women in wine through her brand, Une Femme, which is a line of sparkling wines. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/jen-pelka-interview>
 
 ---
 
@@ -174,30 +428,6 @@ date: 2025-05-12, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-distress-furniture/>
-
----
-
-## Homepage 2025
-
-date: 2025-05-12, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
-## Disneyland Just Dropped a Special Ticket Price
-
-date: 2025-05-12, from: Sunset Magazine - Living in the West
-
-To celebrate its 70th anniversary, Disneyland is offering a special ticket deal. Find out how to take advantage of it. 
-
-<br> 
-
-<https://www.sunset.com/travel/disneyland-70th-anniversary-ticket>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-13 06:08:06
+updated: 2025-05-13 14:07:52
 ---
 
 # craft
 
-(date: 2025-05-13 06:08:06)
+(date: 2025-05-13 14:07:52)
+
+---
+
+## The Foreword to “Carving the Acanthus Leaf” by Mary May
+
+date: 2025-05-13, from: Lost Arg Press blog
+
+The following is excerpted from Mary May’s “Carving the Acanthus Leaf.” Learning to carve the acanthus leaf is – for carvers – like a pianist learning a Chopin étude, a young oil painter studying the genius of Rembrandt or an aspiring furniture maker learning to cut dovetails by hand.&#160; For carvers, especially those who focus... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/13/the-foreword-to-carving-the-acanthus-leaf-by-mary-may/>
 
 ---
 

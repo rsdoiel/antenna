@@ -1,11 +1,397 @@
 ---
 title: snapshots
-updated: 2025-05-13 06:08:07
+updated: 2025-05-13 14:07:53
 ---
 
 # snapshots
 
-(date: 2025-05-13 06:08:07)
+(date: 2025-05-13 14:07:53)
+
+---
+
+## Microsoft Office and Defender will support Windows 10 through at least 2028 (even though Windows 10 support ends this year)
+
+date: 2025-05-13, from: Liliputing
+
+<p>Microsoft is ending Windows 10 support for most users on October 14, 2025 and the company has been urging users to upgrade to Windows 11. But in what seems to be a tacit acknowledgment that a lot of people aren&#8217;t planning to do that just yet, the company has quietly updated support pages for some of [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/microsoft-office-and-defender-will-support-windows-10-through-at-least-2028-even-though-windows-10-support-ends-this-year/">Microsoft Office and Defender will support Windows 10 through at least 2028 (even though Windows 10 support ends this year)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/microsoft-office-and-defender-will-support-windows-10-through-at-least-2028-even-though-windows-10-support-ends-this-year/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+An Open Letter to Robert F. Kennedy Jr., Who Thinks My Daughter Is a Tragedy. 
+
+<br> 
+
+<https://www.mcsweeneys.net/articles/an-open-letter-to-robert-f-kennedy-jr-who-thinks-my-daughter-is-a-tragedy>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+Why are ICE agents such cowardly wusses? 
+
+<br> 
+
+<https://www.inquirer.com/columnists/attytood/ice-immigration-arrests-trump-pope-leo-xiv-villanova-20250513.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+Tesla Employees Against Elon. 
+
+<br> 
+
+<https://teslaemployeesagainstelon.com/>
+
+---
+
+## Wrong Merger, Wrong Direction
+
+date: 2025-05-13, updated: 2025-05-13, from: Tedium site
+
+How MapQuest, a company innovative enough to kill road atlases in one fell swoop, was turned into an also-ran by a bad merger affected by an even worse one. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17030129/mapquest-maps-history>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-13, from: Robert's feed at BlueSky)
+
+🫢👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lp34y227uc2a>
+
+---
+
+## tvOS 18.5
+
+date: 2025-05-13, from: Michael Tsai
+
+Juli Clover (release notes, security, no developer): Apple today released tvOS 18.5, the latest version of the tvOS operating system. Juli Clover: The tvOS 18.5 update that Apple released yesterday adds support for synchronizing Dolby Atmos playback to speakers over AirPlay or Bluetooth, according to Apple&#8217;s release notes for the update.The feature could help address [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/13/tvos-18-5/>
+
+---
+
+## macOS 15.5
+
+date: 2025-05-13, from: Michael Tsai
+
+Juli Clover (release notes, security, enterprise, no developer, full installer, IPSW): macOS Sequoia 15.5 is light on new features, with Apple listing only a change to Screen Time in its notes. I still haven&#8217;t been able to get this update to install on an external drive. The former workaround of manually setting the Startup Disk [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/13/macos-15-5/>
+
+---
+
+## macOS 14.7.6 and macOS 13.7.6
+
+date: 2025-05-13, from: Michael Tsai
+
+macOS 14.7.6 (full installer, security): This update provides important security fixes and is recommended for all users. macOS 13.7.6 (full installer, security): This update provides important security fixes and is recommended for all users. Previously: macOS 14.7.5 and macOS 13.7.5 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/13/macos-14-7-6-and-macos-13-7-6/>
+
+---
+
+## iOS 18.5 and iPadOS 18.5
+
+date: 2025-05-13, from: Michael Tsai
+
+Juli Clover (iOS/iPadOS release notes, security, enterprise, no developer): iOS 18.5 and iPadOS 18.5 are on the smaller side, featuring a limited number of new features. There&#8217;s an update to Screen Time that lets parents know when a Screen Time passcode is used on a child&#8217;s device, and there is support for carrier-provided satellite features [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/13/ios-18-5-and-ipados-18-5/>
+
+---
+
+## watchOS 11.5
+
+date: 2025-05-13, from: Michael Tsai
+
+Juli Clover (release notes, security, no developer): The watchOS 11.5 update adds a new Pride Harmony watch face and it fixes an issue that could prevent the iPhone from showing a notification when the Apple Watch battery is fully charged. Previously: watchOS 11.4 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/13/watchos-11-5/>
+
+---
+
+## audioOS 18.5
+
+date: 2025-05-13, from: Michael Tsai
+
+Apple: This update includes performance and stability improvements. Previously: audioOS 18.4.1 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/13/audioos-18-5/>
+
+---
+
+## visionOS 2.5
+
+date: 2025-05-13, from: Michael Tsai
+
+Juli Clover (release notes, security, no enterprise, developer): With visionOS 2.5, Apple added a Vision tab to the Apple TV app to make it easier for users to find content created for the Vision Pro. Previously: visionOS 2.4.1 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/13/visionos-2-5/>
+
+---
+
+## FBI Raises Alarm on Encrypted Messaging Apps: A New Front in the Battle for Digital Privacy and National Security
+
+date: 2025-05-13, from: Purism News and Events
+
+<p>As attackers continue breaching U.S. telecom infrastructure, the FBI has issued a stark warning: Americans should move away from insecure SMS messaging and toward encrypted platforms. But the story doesn’t end there. FBI’s Real Message: Encryption Must Be “Responsibly Managed” The FBI encourages users to adopt end-to-end encrypted apps like WhatsApp, Signal, and Messenger—but with [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/fbi-raises-alarm-on-encrypted-messaging-apps-a-new-front-in-the-battle-for-digital-privacy-and-national-security/">FBI Raises Alarm on Encrypted Messaging Apps: A New Front in the Battle for Digital Privacy and National Security</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/fbi-raises-alarm-on-encrypted-messaging-apps-a-new-front-in-the-battle-for-digital-privacy-and-national-security/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+Your Weather Forecasts Are About to Get a Lot Less Accurate. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/05/trump-administration-cuts-noaa-national-weather-service-forecasts-forecasting-less-accurate/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+How Joe Biden Handed the Presidency to Donald Trump. 
+
+<br> 
+
+<https://www.newyorker.com/news/the-political-scene/how-joe-biden-handed-the-presidency-to-donald-trump>
+
+---
+
+## Kanye’s Nazi Song Is All Over Instagram
+
+date: 2025-05-13, from: 404 Media Group
+
+Kanye’s Nazi song has been chased off of most mainstream platforms, but it’s all over Instagram. 
+
+<br> 
+
+<https://www.404media.co/kanyes-nazi-song-is-all-over-instagram/>
+
+---
+
+## Unity Is Threatening to Revoke Licenses From DayZ Developer Dean Hall
+
+date: 2025-05-13, from: 404 Media Group
+
+Game developer RocketWerkz doesn’t understand why Unity is threatening to pull its licenses for its games.  
+
+<br> 
+
+<https://www.404media.co/unity-is-threatening-to-revoke-licenses-from-dayz-developer-dean-hall/>
+
+---
+
+## US lowers tariffs on shipments China and Hong Kong valued under $800 to 54% (or $100 flat fee)
+
+date: 2025-05-13, from: Liliputing
+
+<p>When US and Chinese officials announced this week that they would lower tariffs for 90 days, the announcement indicated that most shipments from China and Hong Kong to the US would be subject to a 30 percent tariff, while China would lower its tariffs on shipments from the US to 10 percent. But there was [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/us-lowers-tariffs-on-shipments-china-and-hong-kong-valued-under-800-to-54-or-100-flat-fee/">US lowers tariffs on shipments China and Hong Kong valued under $800 to 54% (or $100 flat fee)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/us-lowers-tariffs-on-shipments-china-and-hong-kong-valued-under-800-to-54-or-100-flat-fee/>
+
+---
+
+## Encerrado: a veces lo único necesario para torturar son cantos tiroleses y una SUV
+
+date: 2025-05-13, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: David Yarovesky. Guion: Michael Arlen Ross basado en la película 4&#215;4 escrita por Mariano Cohn y Gastón Duprat. Elenco: Bill Skarsgård, Anthony Hopkins. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt26671996/ La moralidad o la falta de esta es uno de los puntos centrales de Encerrado, producción estadounidense basada en la película argentina [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-encerrado/">Encerrado: a veces lo único necesario para torturar son cantos tiroleses y una SUV</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-encerrado/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-encerrado>
+
+---
+
+## Restoring U.S. Citizenship: Tadayasu Abo et al. v Tom Clark et al., Northern District of California (San Francisco), Civil no. 25294
+
+date: 2025-05-13, from: National Archives, Text Message blog
+
+Today&#8217;s blog was written by Ruth Chan, Archivist and Subject Matter Expert for Asian American and Pacific Islander Related Records. A heartfelt thanks to Zoe Lee-DiVito, Caroline Perez, and Rebecca Fong, dedicated interns and volunteers at the National Archives in San Francisco, for their invaluable assistance in digitizing the Abo case. In the final stages &#8230; <a href="https://text-message.blogs.archives.gov/2025/05/13/restoring-u-s-citizenship-tadayasu-abo-et-al-v-tom-clark-et-al-northern-district-of-california-san-francisco-civil-no-25294/" class="more-link">Continue reading <span class="screen-reader-text">Restoring U.S. Citizenship: Tadayasu Abo et al. v Tom Clark et al., Northern District of California (San Francisco), Civil no. 25294</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/05/13/restoring-u-s-citizenship-tadayasu-abo-et-al-v-tom-clark-et-al-northern-district-of-california-san-francisco-civil-no-25294/>
+
+---
+
+## Samsung Galaxy S25 Edge is a thinner flagship (with a smaller battery)
+
+date: 2025-05-13, from: Liliputing
+
+<p>The Samsung Galaxy S25 Edge is a smartphone with flagship-class specs including a 6.7 inch, 120 Hz OLED display, a Qualcomm Snapdragon 8 Elite for Galaxy processor, 12GB of RAM, and up to 512GB of storage. It&#8217;s also one of the thinnest and lightest large-screen phones available, measuring just 5.8mm thick and weighing just 163 grams. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/samsung-galaxy-s25-edge-is-a-thinner-flagship-with-a-smaller-battery/">Samsung Galaxy S25 Edge is a thinner flagship (with a smaller battery)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/samsung-galaxy-s25-edge-is-a-thinner-flagship-with-a-smaller-battery/>
+
+---
+
+## Atlassian: “We’re Not Going to Charge Most Customers Extra for AI Anymore”. The Beginning of the End of the AI Upsell?
+
+date: 2025-05-13, updated: 2025-05-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.saastr.com/atlassian-were-not-going-to-charge-more-customers-extra-for-ai-anymore-the-beginning-of-the-end-of-the-ai-upsell/">Atlassian: “We’re Not Going to Charge Most Customers Extra for AI Anymore”. The Beginning of the End of the AI Upsell?</a></strong></p>
+Jason Lemkin highlighting a potential new trend in the pricing of AI-enhanced SaaS:</p>
+<blockquote>
+<p>Can SaaS and B2B vendors really charge even more for AI … when it’s become core?  And we’re already paying $15-$200 a month for a seat? [...]</p>
+<p>You can try to charge more, but if the competition isn’t — you’re going to likely lose.  And if it’s core to the product itself … can you really charge more ultimately?  Probably … not.</p>
+</blockquote>
+<p>It's impressive how quickly LLM-powered features are going from being part of the top tier premium plans to almost an expected part of most per-seat software.
+
+    <p><small></small>Via <a href="https://twitter.com/jasonlk/status/1922301795180609880">@jasonlk</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/startups">startups</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/saas">saas</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/atlassian">atlassian</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/13/end-of-ai-upsells/#atom-everything>
+
+---
+
+## Power Requires Responsibility!
+
+date: 2025-05-13, from: Guy Kawasaki blog
+
+George Tsakiridis, Senior Lecturer of Philosophy and Religion, South Dakota State University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/power-requires-responsibility>
+
+---
+
+## Vision Language Models (Better, Faster, Stronger)
+
+date: 2025-05-13, updated: 2025-05-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://huggingface.co/blog/vlms-2025">Vision Language Models (Better, Faster, Stronger)</a></strong></p>
+Extremely useful review of the last year in vision and multi-modal LLMs.</p>
+<p>So much has happened! I'm particularly excited about the range of small open weight vision models that are now available. Models like gemma3-4b-it and Qwen2.5-VL-3B-Instruct produce very impressive results and run happily on mid-range consumer hardware.
+
+    <p><small></small>Via <a href="https://twitter.com/andimarafioti/status/1922230588435579090">@andimarafioti</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/hugging-face">hugging-face</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/13/vision-language-models/#atom-everything>
+
+---
+
+## Zotac’s next handheld gaming PC features a Linux-based operating system and a Ryzen AI 9 HX 370 processor
+
+date: 2025-05-13, from: Liliputing
+
+<p>Zotac entered the handheld gaming PC space last summer with the launch of the Zotac Gaming Zone. Now the company is preparing to introduce a new model. After showing off a prototype of the next-gen Zone handheld during CES in January, Zotac says it plans to bring the latest version to Computex in Taiwan later [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zotacs-next-handheld-gaming-pc-features-a-linux-based-operating-system-and-a-ryzen-ai-9-hx-370-processor/">Zotac&#8217;s next handheld gaming PC features a Linux-based operating system and a Ryzen AI 9 HX 370 processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zotacs-next-handheld-gaming-pc-features-a-linux-based-operating-system-and-a-ryzen-ai-9-hx-370-processor/>
+
+---
+
+## The Simulation Says the Orioles Should Be Good
+
+date: 2025-05-13, from: 404 Media Group
+
+AI, simulations, and technology have revolutionized not just how baseball is played and managed, but how we experience it, too. 
+
+<br> 
+
+<https://www.404media.co/the-simulation-says-the-orioles-should-be-good/>
+
+---
+
+## The Markup named Sigma Award finalist
+
+date: 2025-05-13, from: The Markup blog
+
+The global data journalism contest recognized The Markup’s investigation into shadowbanning on Instagram. 
+
+<br> 
+
+<https://themarkup.org/inside-the-markup/2025/05/13/the-markup-named-sigma-award-finalist>
+
+---
+
+## Lloyd’s of London Will Be Responsible for Your Chatbot
+
+date: 2025-05-13, updated: 2025-05-13, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/13/lloyds-of-london-will-be-responsible-for-your-chatbot/>
+
+---
+
+## Quoting Luke Kanies
+
+date: 2025-05-13, updated: 2025-05-13, from: Simon Willison’s Weblog
+
+<blockquote cite="https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/"><p>I did find one area where LLMs absolutely excel, and I’d never want to be without them:</p>
+<p>AIs can find your syntax error 100x faster than you can.</p>
+<p>They’ve been a useful tool in multiple areas, to my surprise. But this is the one space where they’ve been an honestly huge help: I know I’ve made a mistake somewhere and I just can’t track it down. I can spend ten minutes staring at my files and pulling my hair out, or get an answer back in thirty seconds.</p>
+<p>There are whole categories of coding problems that look like this, and LLMs are damn good at nearly all of them. [...]</p></blockquote>
+<p class="cite">&mdash; <a href="https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/">Luke Kanies</a>, AI Is Like a Crappy Consultant</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/13/luke-kanies/#atom-everything>
 
 ---
 
@@ -92,6 +478,20 @@ Rule of law is ‘endangered,’ chief justice says.
 <br> 
 
 <https://www.politico.com/news/2025/05/12/chief-justice-roberts-speech-georgetown-00343406>
+
+---
+
+## PDF to Text, a challenging problem
+
+date: 2025-05-13, from: Marginallia log
+
+The search engine has recently gained the ability to index the PDF file format. The change will deploy over a few months.
+Extracting text information from PDFs is a significantly bigger challenge than it might seem. The crux of the problem is that the file format isn&rsquo;t a text format at all, but a graphical format.
+It doesn&rsquo;t have text in the way you might think of it, but more of a mapping of glyphs to coordinates on &ldquo;paper&rdquo;. 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_119_pdf/>
 
 ---
 
@@ -335,7 +735,7 @@ MTA opens ‘biker’s paradise’ on RFK.
 
 date: 2025-05-12, from: 404 Media Group
 
-The new site is a cozy and chaotic sucessor to 'Twitch plays Pokémon. 
+The new site is a cozy and chaotic successor to 'Twitch plays Pokémon. 
 
 <br> 
 
