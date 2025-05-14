@@ -1,11 +1,445 @@
 ---
 title: pacific
-updated: 2025-05-13 14:07:46
+updated: 2025-05-14 06:07:41
 ---
 
 # pacific
 
-(date: 2025-05-13 14:07:46)
+(date: 2025-05-14 06:07:41)
+
+---
+
+## US lawmakers renew call for increased engagement with Pacific island region 
+
+date: 2025-05-14, from: Pacific Island Times
+
+“Our Pacific Partnership Act responds directly to the reality that our country's and world's future lies in the Indo-Pacific, and that the islands of the Pacific are our indispensable partners in charting that future,” Rep. Ed Case said. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-lawmakers-renew-call-for-increased-engagement-with-pacific-island-region>
+
+---
+
+## Menendez brothers eligible for parole after re-sentencing in 1989 shotgun murders
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES&#8212; Lyle and Erik Menendez, who have served 35 years of a life prison term for the 1989 shotgun murders of their parents in their Beverly Hills home, were ruled eligible for parole by a Los Angeles judge at a re-sentencing hearing on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/menendez-brothers-eligible-for-parole-after-re-sentencing-in-1989-shotgun-murders/>
+
+---
+
+## Police renew request for info about missing Pahoa man
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>Police are again renewing their request for any information about the disappearance of 34-year-old Kelly Gravitt of Pahoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/hawaii-news/police-renew-request-for-info-about-missing-pahoa-man/>
+
+---
+
+## Parts of Hilo to experience water outage late Friday
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>A water outage will affect Hilo International Airport and surrounding areas from 10 p.m. Friday to 4 a.m. Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/hawaii-news/parts-of-hilo-to-experience-water-outage-late-friday/>
+
+---
+
+## Sunday brush fire in Honokaa chars 6 acres
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>A six-acre brush fire Sunday in Honokaa scorched six acres and threatened homes between Lehua and Mamane streets before firefighters extinguished it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/hawaii-news/sunday-brush-fire-in-honokaa-chars-6-acres/>
+
+---
+
+## Outside official will take over deadly Rikers Island jail, judge orders
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A federal judge overseeing New York City&#8217;s jails took Rikers Island out of the city&#8217;s control on Tuesday, ordering that an outside official be appointed to make major decisions regarding the troubled and violent jail complex.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/outside-official-will-take-over-deadly-rikers-island-jail-judge-orders/>
+
+---
+
+## Trump Can Use Alien Enemies Act Against Venezuelan Gang, Judge Rules
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Tuesday opened a path for the Trump administration to move forward with deporting a Venezuelan man under the Alien Enemies Act, a wartime law, but ruled that it must first give him notice in his native language, 21 days to object and an &#8220;opportunity to be heard&#8221; in court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/trump-can-use-alien-enemies-act-against-venezuelan-gang-judge-rules/>
+
+---
+
+## Big Island drought worsens in April
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>Leeward areas of the Big Island already are showing the shift toward the summer wet season, but the windward side, which is entering the dry season, continues to be drier than normal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/hawaii-news/big-island-drought-worsens-in-april/>
+
+---
+
+## Debate turns raucous as house panel weighs Medicaid cuts
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As he called to order a marathon committee session to consider Medicaid cuts and other critical pieces of Republicans&#8217; sweeping domestic policy bill, Rep. Brett Guthrie of Kentucky surveyed a packed hearing room Tuesday afternoon and asked for a respectful debate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/debate-turns-raucous-as-house-panel-weighs-medicaid-cuts/>
+
+---
+
+## News in brief for May 14
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>Kremlin stays mum on whether Putin will meet Zelenskyy</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/news-in-brief-for-may-14/>
+
+---
+
+## Trump says US to lift Syria sanctions, secures $600 billion Saudi deal
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>RIYADH &#8212; President Donald Trump kicked off his trip to the Gulf on Tuesday with a surprise announcement that the United States will lift long-standing sanctions on Syria, and a $600 billion commitment from Saudi Arabia to invest in the U.S.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/trump-says-us-to-lift-syria-sanctions-secures-600-billion-saudi-deal/>
+
+---
+
+## Flooding in Maryland prompts rescues and evacuation
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>Heavy rain in Maryland prompted the evacuation of at least one elementary school and dozens of water rescues Tuesday, as a slow-moving storm system threatened to bring the risk of flash floods to the mid-Atlantic, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/flooding-in-maryland-prompts-rescues-and-evacuation/>
+
+---
+
+## Wisconsin judge indicted on charges that she helped immigrant evade agents
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>The Wisconsin judge arrested last month and accused of helping an immigrant in the country without legal permission evade federal agents was indicted by a federal grand jury Tuesday on charges of concealing a person from arrest and obstruction of proceedings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/wisconsin-judge-indicted-on-charges-that-she-helped-immigrant-evade-agents/>
+
+---
+
+## Boxes of Nazi material are found after decades in basement of Argentina court
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>Workers clearing out the basement of Argentina&#8217;s Supreme Court made a startling discovery recently. They found boxes filled with swastika-stamped notebooks, propaganda material and other Nazi-era documents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/boxes-of-nazi-material-are-found-after-decades-in-basement-of-argentina-court/>
+
+---
+
+## Israel bombards Gaza seeking to kill top Hamas leader, officials say
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; Israeli fighter jets bombed the southern Gaza Strip city of Khan Younis on Tuesday evening in an attempt to kill Muhammad Sinwar, one of Hamas&#8217; remaining top leaders in the enclave, according to three Israeli officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/israel-bombards-gaza-seeking-to-kill-top-hamas-leader-officials-say/>
+
+---
+
+## Trump aims to use more FBI, drug and gun agents to pursue immigrants
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is directing more FBI, drug and gun agents toward immigration enforcement as it ramps up a crackdown across more than two dozen U.S. cities in the coming days, according to five people familiar with the directive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/trump-aims-to-use-more-fbi-drug-and-gun-agents-to-pursue-immigrants/>
+
+---
+
+## Former Combs girlfriend describes a life of sex, drugs and beatings
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Sean Combs&#8217; former girlfriend, the singer known as Cassie, testified on Tuesday that the music mogul beat her, fed her drugs and obsessed over her looks and her whereabouts as she depicted a predatory control freak who forced her to spend sleepless days having sex with prostitutes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/nation-world-news/former-combs-girlfriend-describes-a-life-of-sex-drugs-and-beatings/>
+
+---
+
+## Invasive species removal event set for Kealakekua Bay
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA BAY STATE HISTORICAL PARK &#8212; An invasive species removal event is scheduled for Kealakekua Bay on Sunday, May 18, as part of an ongoing community effort to restore and preserve the bay&#8217;s ecological and cultural integrity.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/community/invasive-species-removal-event-set-for-kealakekua-bay/>
+
+---
+
+## West Hawaii post office renamed in honor of Vietnam War hero
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>CAPTAIN COOK &#8212; The U.S. Postal Service and the office of Rep. Jill Tokuda held a dedication ceremony on Saturday at the Captain Cook Post Office in honor of Army 1st Lt. John Kuulei Kauhaihao, who was killed in action on Sept. 5, 1969, in the Tay Ninh Province of the Republic of Vietnam.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/community/west-hawaii-post-office-renamed-in-honor-of-vietnam-war-hero/>
+
+---
+
+## KTA launches Gift Card Photo Contest
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>KTA Super Stores has launched its 2025 Gift Card Photo Contest, inviting residents across Hawaii Island to showcase their best shots for a chance to win a $300 KTA Gift Card and have their photo featured on a 2025 Limited Edition KTA Gift Card.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/community/kta-launches-gift-card-photo-contest/>
+
+---
+
+## Public invited to disaster readiness event in Pahoa
+
+date: 2025-05-14, from: Hawaii Tribune Harold
+
+
+				<p>Puna residents have another opportunity to learn about disaster readiness on Sunday through Hawaii Animal Kuleana Alliance and the Hawaiian Volcano Education and Resilience Institute.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/14/community/public-invited-to-disaster-readiness-event-in-pahoa/>
+
+---
+
+## Hawaiian Word of the Week: Haʻaheo
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p><span aria-label="Haaheo">Ha&#699;aheo</span>&#8212;Proud or pride which comes from a deep accomplishment from one's own achievements.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/hawaiian-word-of-the-week-haaheo/">Hawaiian Word of the Week: Haʻaheo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/hawaiian-word-of-the-week-haaheo/>
+
+---
+
+## Single mom grew to be student leader at Windward CC
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>From taro fields to student government, a young mom found her path forward.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/single-mom-student-leader-windward-cc/">Single mom grew to be student leader at Windward <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/single-mom-student-leader-windward-cc/>
+
+---
+
+## US Coast Guard combing Saipan waters in search of a missing vessel 
+
+date: 2025-05-14, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saipan —Authorities today intensified the search for the 47-foot vessel Lucky Harvest, carrying two... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-coast-guard-combing-saipan-waters-in-search-of-a-missing-vessel>
+
+---
+
+## Photos: Congratulations spring 2025 UH grads!
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>University of <span aria-label="Hawaii">Hawaiʻi</span> campuses across the state are celebrating its graduates this spring.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/photos-spring-2025-uh-grads/">Photos: Congratulations spring 2025 UH grads!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/photos-spring-2025-uh-grads/>
+
+---
+
+## Hala exhibit in Hilo weaves culture, science, resilience
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>Hala is an art exhibit co-sponsored by <abbr>UH</abbr> that explores the powerful plant’s role in Hawaiian culture and cosmology.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/hala-exhibit-in-hilo/">Hala exhibit in Hilo weaves culture, science, resilience</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/hala-exhibit-in-hilo/>
+
+---
+
+## UH Mānoa softball player earns Big West Championship honors
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>Izabella Martinez was named to the Big West Championships all-tournament team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/martinez-big-west-championship-honors/"><abbr>UH</abbr> Mānoa softball player earns Big West Championship honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/martinez-big-west-championship-honors/>
+
+---
+
+## UH Hilo baseball catcher earns All-PacWest honors
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>Mason Cook was named to the All-PacWest Conference Third Team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/hilo-cook-all-pacwest-honors/"><abbr>UH</abbr> Hilo baseball catcher earns All-PacWest honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/hilo-cook-all-pacwest-honors/>
+
+---
+
+## Record-breaking academic performance set by UH Mānoa student-athletes
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>Rainbow athletics earned its highest score in Academic Performance Rate.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/uh-manoa-record-academic-performance-rate/">Record-breaking academic performance set by <abbr>UH</abbr> Mānoa student-athletes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/uh-manoa-record-academic-performance-rate/>
+
+---
+
+## Pineapple powerhouse: Students’ high-flying farm tech wins international award
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa students won an international award for their <abbr>AI</abbr>-powered pineapple farming system.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/farm-robotics-challenge-2025-winner/">Pineapple powerhouse: Students’ high-flying farm tech wins international award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/farm-robotics-challenge-2025-winner/>
+
+---
+
+## UH Mānoa becomes student’s path to digital, public communications
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>Quentin Shores arrived at <abbr>UH</abbr> M&#257;noa with a passion for storytelling and social media, and transformed into a standout communications leader.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/manoa-path-digital-public-communications/"><abbr>UH</abbr> Mānoa becomes student’s path to digital, public communications</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/manoa-path-digital-public-communications/>
+
+---
+
+## UH Maui College offers free carpentry training
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>The week-long courses will include hands-on experiences to benefit Lahaina</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/13/uh-maui-college-offers-free-carpentry-training/"><abbr>UH</abbr> Maui College offers free carpentry training</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/13/uh-maui-college-offers-free-carpentry-training/>
 
 ---
 
@@ -24,7 +458,7 @@ The post <a href="https://www.hawaii.edu/news/2025/05/13/math-grad-credits-west-
 
 ## CNMI Republican Party issues general membership meeting ground rules
 
-date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+date: 2025-05-13, updated: 2025-05-14, from: Marianas Variety
 
 (NMI GOP) — There will be volunteers present at the General Membership Meeting on May 15, 2025 in order to assist with Membership Registration and election of officers. The General Membership Meeting will be conducted pursuant to the CNMI Republican Party Bylaws, the Robert’s Rules of Order and will follow the Commonwealth Election Commission process as closely as possible as the situation applies. 
 
@@ -36,7 +470,7 @@ date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
 
 ## Major tax automated system upgrade for DRT; tax refunds expected by mid-June
 
-date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+date: 2025-05-13, updated: 2025-05-14, from: Marianas Variety
 
 (DRT) — The Division of Revenue and Taxation is undergoing a major transition of its outdated tax system to a modern automated system — an investment designed to enhance efficiency, transparency, and accuracy in operations. 
 
@@ -48,7 +482,7 @@ date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
 
 ## CNMI Office of Planning and Development releases 'Economic Recovery Roadmap'
 
-date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+date: 2025-05-13, updated: 2025-05-14, from: Marianas Variety
 
 THE Office of the Governor and the Office of Planning and Development have announced the release of the “CNMI Economic Recovery Study: Marianas Economic Roadmap.” This critical report provides a comprehensive strategy to guide the CNMI toward long-term economic recovery, resilience, and growth. 
 
@@ -60,7 +494,7 @@ THE Office of the Governor and the Office of Planning and Development have annou
 
 ## Falling fuel prices result in decrease of Fuel Adjustment Charge for May 2025
 
-date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+date: 2025-05-13, updated: 2025-05-14, from: Marianas Variety
 
 THE Commonwealth Utilities Corporation has been informed by Mobil Oil Mariana Islands Inc. of a decrease in the average international fuel oil prices, which may affect the Fuel Adjustment Charge. 
 
@@ -72,7 +506,7 @@ THE Commonwealth Utilities Corporation has been informed by Mobil Oil Mariana Is
 
 ## Philippine president shores up support after midterms battle for power
 
-date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+date: 2025-05-13, updated: 2025-05-14, from: Marianas Variety
 
 MANILA (Reuters) —  Allies of Philippine President Ferdinand Marcos Jr. looked set to win at least half of the available Senate seats in a midterm election on Monday, an unofficial tally showed, in a contest seen as a referendum on his leadership and a fierce proxy battle with his estranged vice president. 
 
@@ -84,7 +518,7 @@ MANILA (Reuters) —  Allies of Philippine President Ferdinand Marcos Jr. looke
 
 ## Senate president aims to streamline government services
 
-date: 2025-05-13, updated: 2025-05-13, from: Marianas Variety
+date: 2025-05-13, updated: 2025-05-14, from: Marianas Variety
 
 AT the Saipan Chamber of Commerce’s general membership meeting held at the Crowne Plaza on May 7, Senate President Dennis James C. Mendiola said his priority is to streamline government services and continue engaging with stakeholders to drive legislative initiatives. 
 

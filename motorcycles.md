@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-05-13 14:07:50
+updated: 2025-05-14 06:07:47
 ---
 
 # motorcycles
 
-(date: 2025-05-13 14:07:50)
+(date: 2025-05-14 06:07:47)
+
+---
+
+## What Happens When You Stick A Turbo on a Superbike-Swapped Miata?
+
+date: 2025-05-14, from: Ride Apart, Electric Motorcycle News
+
+Only the dyno knows for sure, so check it out. 
+
+<br> 
+
+<https://www.rideapart.com/news/759491/turbo-honda-cbr1000rr-swapped-miata/>
+
+---
+
+## The Yamaha Tracer 7 Is the Dream Sport-Tourer We Can’t Have
+
+date: 2025-05-14, from: Ride Apart, Electric Motorcycle News
+
+It just keeps getting better, but somehow we just can’t get our hands on it. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759376/2025-yamaha-tracer-7-updates-europe/>
+
+---
+
+## Kawasaki’s Ninja 400 And Z400 Live On In Japan, Get New Colors
+
+date: 2025-05-14, from: Ride Apart, Electric Motorcycle News
+
+Kawi’s beginner sportbikes retain their tried and tested formula. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759375/2025-kawasaki-ninja-z400-japan-new-colors/>
+
+---
+
+## What If Your Fat Tire E-Bike Could Be Your Fat Tire E-Moped Instead?
+
+date: 2025-05-14, from: Ride Apart, Electric Motorcycle News
+
+Say no more; Yamaha's answered your question with its new Booster. 
+
+<br> 
+
+<https://www.rideapart.com/news/759485/yamaha-booster-fat-tire-ev/>
+
+---
+
+## Indianapolis 500 Day 1 Practice Report: Will Power tops the charts as Penske looks speedy
+
+date: 2025-05-13, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer After a rain delay pushed back the original start time of 10 am ET, the first day of practice for the 109th Indianapolis 500 wraps&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indianapolis-500-day-1-practice-report-will-power-tops-the-charts-as-penske-shows-speed-early/>
 
 ---
 

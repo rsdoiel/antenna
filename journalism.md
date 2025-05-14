@@ -1,11 +1,124 @@
 ---
 title: journalism
-updated: 2025-05-13 14:07:48
+updated: 2025-05-14 06:07:45
 ---
 
 # journalism
 
-(date: 2025-05-13 14:07:48)
+(date: 2025-05-14 06:07:45)
+
+---
+
+## Local churches voice concern over potential raids following new immigration policy
+
+date: 2025-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inmaculada Garc&#237;a-S&#225;nchez used to conduct research at a Los Angeles church, where the gates were open to all.
+But the church now looks like a fortress, she said. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/13/local-churches-voice-concern-over-potential-raids-following-new-immigration-policy/>
+
+---
+
+## Forbes names Liz Izhikevich in 30 Under 30 list for internet security research
+
+date: 2025-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+An assistant professor in the electrical and computer engineering department at the UCLA Samueli School of Engineering, was selected for the 2025 Forbes 30 Under 30 list. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/13/forbes-names-liz-izhikevich-in-30-under-30-list-for-internet-security-research/>
+
+---
+
+## ASO Executive Board and Student Trustees nominees introduced
+
+date: 2025-05-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College hosted a forum in the Multicultural Center on Monday, April 21, on the upcoming student government elections for the Associated Student Organization and</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/13/aso-executive-board-and-student-trustees-nominees-introduced/">ASO Executive Board and Student Trustees nominees introduced</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/13/aso-executive-board-and-student-trustees-nominees-introduced/?utm_source=rss&utm_medium=rss&utm_campaign=aso-executive-board-and-student-trustees-nominees-introduced>
+
+---
+
+## ‘One timeline after the other was not met’ – UCLA’s $213 million project is failing
+
+date: 2025-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated at 11:16 p.m.</em>
+UCLA has spent at least $213 million on the Ascend Finance Transformation project, and yet, seven years after the project’s launch, it has few concrete accomplishments.&#160;&#160;
+“I can&#8217;t say that I&#8217;ve actually seen a live screen for Ascend,” said Reem Hanna-Harwell, a former member of the project’s steering committee.&#160;
+The initial reported budget for the project was $120 million, but, according to a presentation given during the May 2024 Ascend 2.0 quarterly town hall, the estimated total cost was projected to be roughly $286 million.&#160;
+The university declined to answer exactly how much money has been spent on the project since its official start date in April 2018.&#160;
+The Ascend project involves a transformation of UCLA’s financial system – moving from the current mainframe system to Oracle Cloud, modernizing the chart of accounts and upgrading all business applications which contribute data to the central finance, research and budget systems, according to the 2021 project charter. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/13/one-timeline-after-the-other-was-not-met-uclas-213-million-project-is-failing/>
+
+---
+
+## Tadalafil: The Main Ingredient in Motivated Erectile Dysfunction Medicines Found in Coffee
+
+date: 2025-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tadalafil: The Main Ingredient in Motivated Erectile Dysfunction Medicines Found in Coffee
+&#160;
+
+<strong>Tadalafil is a well-known medicine used for erectile issues. It has recently been found in coffee products from Malaysia.</strong> 
+
+<br> 
+
+<https://dailybruin.com/2025/05/13/tadalafil-the-main-ingredient/>
+
+---
+
+## From starlight to spotlight: UCLA professor Amy Mainzer defends planetary science
+
+date: 2025-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated at 11:23 p.m.</em>
+Amy Mainzer didn’t plan on studying asteroids when she graduated from her doctoral program in 2003.
+But now, Mainzer – who received her doctorate of astronomy from UCLA – is building a telescope that will be sent to space to detect asteroids before they hit Earth’s surface. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/13/from-starlight-to-spotlight-ucla-professor-amy-mainzer-defends-planetary-science/>
+
+---
+
+## The Modern Essentials
+
+date: 2025-05-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+&#160;
+The Modern Essentials: Accessories That Define a Personal Style in 2025
+
+We used to dress for the room. Now we dress for the moment just before someone decides who we are. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/13/the-modern-essentials/>
+
+---
+
+## Editorial Cartoon: “Stay Healthy!”
+
+date: 2025-05-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/13/editorial-cartoon-stay-healthy/>
 
 ---
 
@@ -92,6 +205,7 @@ date: 2025-05-12, from: The Round Up (Pierce College Student Newspaper)
 
 date: 2025-05-12, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 13 at 11:06 p.m.</em>
 Ralina Joseph will be UCLA&#8217;s inaugural vice provost of inclusive excellence, according to a Monday announcement.
 Executive Vice Chancellor and Provost Darnell Hunt announced the appointment of the University of Washington professor of communication in a Monday campuswide email. 
 

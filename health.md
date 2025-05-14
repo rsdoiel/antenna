@@ -1,11 +1,83 @@
 ---
 title: health
-updated: 2025-05-13 14:07:51
+updated: 2025-05-14 06:07:47
 ---
 
 # health
 
-(date: 2025-05-13 14:07:51)
+(date: 2025-05-14 06:07:47)
+
+---
+
+## Virulence factors released by extracellular vesicles from Cryptococcus neoformans
+
+date: 2025-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Cryptococcus neoformans, a prominent opportunistic pathogen, is equipped with unique mechanisms to evade host immune defenses, notably through its capsule and the secretion of extracellular vesicles (EVs). Despite significant understanding of its pathogenesis, the precise role of EVs in virulence and their molecular components remain underexplored. This review synthesizes current research on the virulence factors encapsulated within EVs of Cryptococcus, highlighting their contribution to fungal survival and pathogenicity. By analyzing the biochemical composition of these vesicles, we found the presence of enzymes (e.g., Urease, laccase), toxins (e.g. Melanin), and genes (e.g. Ssa1) associated with pathogenicity factors. Furthermore, we discuss the implications of these findings for developing therapeutic interventions. This work advances the field by providing a comprehensive overview of EV-mediated mechanisms in Cryptococcus, offering new insights into potential targets for antifungal strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1572520>
+
+---
+
+## Analysing the integrated quorum sensing system its potential role in Pseudomonas aeruginosa pathogenesis
+
+date: 2025-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Since its discovery, Quorum Sensing (QS), a form of bacterial communication, has been the focus of numerous studies aimed at unravelling the mechanisms behind this intricate process. Bacterial QS relies on releasing low molecular weight signals known as autoinducers (AIs). When these AIs reach a threshold concentration, they activate coordinated genetic expression of pathogenic and bacterial survival mechanisms. Pseudomonas aeruginosa’s QS has been extensively studied due to its incidence and clinical significance in a wide range of human infections. Several decades ago, three QS systems, named Las, Rhl, and Pqs, were identified and have since then become the focus of numerous research studies and the target of innovative diagnostic and therapeutic strategies. However, a fourth QS-related system was more recently proposed that it has been the subject of debate. Named “integrated quorum sensing” (Iqs), interconnects the previously mentioned systems with the phosphate stress response. The associated AI has been identified as 2-(2-hydroxyphenyl)-thiazole-4-carbaldehyde, also known as IQS. This discovery has sparked a controversial discussion about its biosynthetic origin and whether it truly functions as an intercellular communication system. In this review, we critically discuss the different hypotheses, and its biological relevance while presenting key findings of the Iqs system. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1575421>
+
+---
+
+## A “proto” type galectin expressed in striped bass (Morone saxatilis) tissues is released to epidermal mucus and binds to bacterial and mucus glycans
+
+date: 2025-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Like all aquatic vertebrates and invertebrates, teleost fish are subject to the constant pressure of bacterial, fungal, and parasitic organisms present in the environmental interface that can potentially cause disease. Numerous defense molecules, including galectins, have been isolated from the skin and gut tissues of several marine and freshwater fish species. To provide new insights into the potential role(s) of galectins in the teleost fish innate immune system, we carried out studies on the striped bass (Morone saxatilis), a keystone fish species in Chesapeake Bay. We purified from epidermal skin mucus, and skin and muscle tissue, a 15-kDa galectin that we designated Msgal1-L1 (M. saxatilis galectin1-like protein 1). Both the transcript sequence and gene organization of Msgal1-L1 suggested a close relationship to the zebrafish galectin Drgal1-L2 and other proto type galectins from vertebrates, including the mammalian galectin-1. Glycan microarray analysis of Msgal1-L1 revealed a binding preference for Galβ1,4GlcNAc, and a homology structural model identified the amino acids involved in ligand recognition, both observations consistent with proto type galectins. Immunohistological examination localized Msgal1-L1 to epithelial and macrophage-/fibroblast-like cells in mucosal tissues, including skin and gill. The preliminary localization of Msgal1-L1 in free macrophage-like cells in epidermal mucus was corroborated by immunofluorescence analysis of macrophages isolated from head kidney. Msgal1-L1 binds in a carbohydrate-specific manner to O-glycosylated components of epidermal mucus. Msgal1-L1 agglutinated environmental bacterial species and strains, some of which are recognized fish pathogens, such as Vibrio and Edwardsiella spp. A microbial microarray analysis revealed that it preferentially binds to bacterial exopolysaccharides (e.g., Streptococcus and Shigella spp.) as well as various lipopolysaccharide O-antigen serotypes of Proteus spp. A preliminary solid-phase assay showed that Msgal1-L1 strongly bound Streptococcus sp., but very weakly to Mycobacterium marinum, an endemic pathogen of striped bass in Chesapeake Bay. Taken together, this evidence suggests that Msgal1-L1 may function in defense recognition against environmental bacteria by agglutinating and/or cross-linking them to mucus oligosaccharides to immobilize them within the epidermal mucus film and prevent their access to the fish epithelial cell surface. M. marinum would evade this defense mechanism to reach and infect the fish skin epithelial layer. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1572734>
+
+---
+
+## Deciphering tuberculosis: lysosome-centric insights into pathogenesis and therapies
+
+date: 2025-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Tuberculosis is a widely spread disease caused by Mycobacterium tuberculosis (Mtb). The pathogenicity of the pathogen is closely associated with the immune defense mechanisms of the host cells. As key cellular degradation and metabolic centers, lysosomes critically regulate tuberculosis infection. When Mtb invades the host, it is taken up by macrophages and enters phagosomes. Subsequently, the phagosomes fuse with lysosomes and form phagolysosomes, which eliminate the pathogenic bacteria through the acidic environment and hydrolytic enzymes within lysosomes. However, Mtb can interfere with the normal functions of lysosomes through various strategies. It can secrete specific factors (such as ESAT-6, ppk-1, and AcpM) to inhibit the acidification of lysosomes, enzyme activity, and the fusion of phagosomes and lysosomes, thereby enabling Mtb proliferation within host cells. An in-depth exploration of the mechanism of the interaction between Mtb and lysosomes will both uncover bacterial immune evasion strategies and identify novel anti-tuberculosis therapeutic targets. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1582037>
+
+---
+
+## A critical review on In Vivo and Ex Vivo models for the investigation of Helicobacter pylori infection
+
+date: 2025-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Helicobacter pylori is a stomach-dwelling bacterium with a crude global prevalence of nearly 45% in adults and 35% in children and adolescents. Chronic H. pylori infection and the resulting inflammation are major causes of gastritis, peptic ulcer disease and gastric cancer. Since its discovery in 1982, various animal models have been proposed to recreate the specific pathophysiological interactions between H. pylori and the human host. These infection models have been instrumental in dissecting the key drivers of H. pylori colonization, persistence and mediators of host immune responses. However, a comprehensive understanding of the molecular triggers for malignant transformation of the gastric mucosa is still lacking. Vaccine development in this area has stalled, as promising candidates identified through animal studies have failed in advanced human clinical trials. Currently, H. pylori eradication is heavily reliant on different antimicrobial agents. As with other bacterial pathogens, the growing antimicrobial resistance in H. pylori remains a major challenge, making eradication therapy increasingly complex and prolonged, over time. Recent drug approvals have mostly been for newer combinations of conventional antibiotics and proton pump inhibitors. Thus, the development of novel treatments and innovative models are crucial for advancing the drug development pipeline. This review encompasses the development and recent advances in animal and non-animal models of H. pylori gastric infection and its applications in investigating novel therapeutics and vaccine candidates. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1516237>
+
+---
+
+## Development of a rapid point-of-care dengue virus type 2 infection diagnostic assay using recombinase polymerase amplification and lateral flow device
+
+date: 2025-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionDengue virus (DENV) is the most rapidly spreading arbovirus globally, with over half of the world’s population at risk of infection. Early and rapid detection is crucial to ensure timely patient care, reduce healthcare burden, and prevent severe disease progression. However, conventional nucleic acid amplification techniques are often unsuitable for low-resource settings due to their equipment and procedural demands.MethodsWe evaluated a real-time reverse transcription recombinase polymerase amplification (RT-RPA) assay for the sensitive and specific detection of DENV serotype 2 (DENV2). The assay was tested using both Twista fluorometer and lateral flow detection (LFD) formats. Analytical sensitivity was determined by probit regression, while specificity was assessed against unrelated viruses and other flaviviruses. Clinical validation was performed using serum, cell culture, and FTA® card samples. Assay robustness was evaluated under varying temperatures and after freeze-thaw cycles.ResultsThe RT-RPA assay reliably amplified DENV2 at concentrations as low as 50 copies per reaction, with LOD₉₅ estimated at 38.48 copies (Twista) and 50.37 copies (LFD). No cross-reactivity was observed with respiratory syncytial virus, influenza, rabbit herpes virus, West Nile virus, or other DENV serotypes (DENV1, DENV3, DENV4). The assay successfully detected multiple DENV2 strains and maintained performance across 33°C–40°C and after repeated freeze-thaw cycles. RNA extracted from FTA® cards was successfully amplified. Clinical validation confirmed accurate detection in serum and cell culture samples, while DENV3-positive blood samples tested negative, reinforcing specificity.DiscussionThe RT-RPA/LFD assay offers a rapid, sensitive, and specific tool for DENV2 detection, compatible with low-resource and field-based settings. Its simplicity, robustness, and portability make it a promising approach for point-of-care diagnostics and outbreak surveillance in endemic regions. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1578549>
 
 ---
 

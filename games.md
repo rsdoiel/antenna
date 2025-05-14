@@ -1,17 +1,29 @@
 ---
 title: games
-updated: 2025-05-13 14:07:48
+updated: 2025-05-14 06:07:44
 ---
 
 # games
 
-(date: 2025-05-13 14:07:48)
+(date: 2025-05-14 06:07:44)
 
 ---
 
-## Happy 20-year anniversary, Leeroy Jenkins!
+## Jessica Jones is coming back to the MCU in Daredevil: Born Again
 
 date: 2025-05-13, updated: 2025-05-13, from: Polygon Website
+
+Krysten Ritter will reprise her role as Jessica Jones in season 2 of Daredevil: Born Again, Disney announced Tuesday at its upfronts presentations, according to Variety report from the event. The return of Ritter’s version of Jones will come nearly a decade after her most recent on-screen appearance as the character in Netflix’s The Defenders. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/599010/daredevil-born-again-season-2-jessica-jones-marvel>
+
+---
+
+## Happy 20-year anniversary, Leeroy Jenkins
+
+date: 2025-05-13, updated: 2025-05-14, from: Polygon Website
 
 Twenty years ago, the name Leeroy Jenkins rang through the halls of Upper Blackrock Spire, and now it echoes through eternity. On May 11, 2005, the famous “Leeroy!!” video was posted to WarcraftMovies, a website dedicated to World of Warcraft machinima. The video came from a guild called Pals for Life. In it, the guild [&#8230;] 
 

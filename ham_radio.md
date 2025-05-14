@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-13 14:07:46
+updated: 2025-05-14 06:07:41
 ---
 
 # ham radio
 
-(date: 2025-05-13 14:07:46)
+(date: 2025-05-14 06:07:41)
+
+---
+
+## Add-on features in electronic products: The good part
+
+date: 2025-05-14, from: EDN Blog
+
+<img width="222" height="398" src="https://www.edn.com/wp-content/uploads/Fig-1-basic-DMM-below.png?fit=222%2C398" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-basic-DMM-below.png?w=222 222w, https://www.edn.com/wp-content/uploads/Fig-1-basic-DMM-below.png?w=167 167w" sizes="(max-width: 222px) 100vw, 222px" /><p>Here is a case study showing how additional features can bring tangible value to electronics products.</p>
+<p>The post <a href="https://www.edn.com/add-on-features-in-electronic-products-the-good-part/">Add-on features in electronic products: The good part</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/add-on-features-in-electronic-products-the-good-part/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-13 14:07:46
 
 date: 2025-05-13, from: EDN Blog
 
-<img width="1165" height="763" src="https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?fit=1165%2C763" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=1165 1165w, https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=1024 1024w" sizes="(max-width: 1165px) 100vw, 1165px" /><p>Questa One pushes the IC verification boundaries with AI capabilities and faster functional, fault, and formal engines.</p>
+<img width="1165" height="763" src="https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?fit=1165%2C763" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=1165 1165w, https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Questa-One.jpg?w=1024 1024w" sizes="(max-width: 1165px) 100vw, 1165px" /><p>Questa One pushes the IC verification boundaries with AI capabilities and faster functional, fault, and formal engines.</p>
 <p>The post <a href="https://www.edn.com/ic-verification-tool-addresses-design-complexity-productivity-gap/">IC verification tool addresses design complexity, productivity gap</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

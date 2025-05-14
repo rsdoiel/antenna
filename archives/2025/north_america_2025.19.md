@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-05-13 14:07:45
+updated: 2025-05-14 06:07:39
 ---
 
 # north america
 
-(date: 2025-05-13 14:07:45)
+(date: 2025-05-14 06:07:39)
+
+---
+
+## Too much grift...even for MAGA Republicans? 
+
+date: 2025-05-14, from: The Contrarian
+
+It took a Qatari &#8216;gift&#8217; for Trump's GOP to suggest that accepting anything gilded in gold doesn't look (or smell) great for a president who has placed a cap on pencils 
+
+<br> 
+
+<https://contrarian.substack.com/p/too-much-grifteven-for-maga-republicans>
+
+---
+
+## Evening Roundup, May 13
+
+date: 2025-05-13, from: The Contrarian
+
+Featuring Neera Tanden & Jen Rubin in conversation, Hannah Katch & Jared Bernstein, Shalise Manza Young, Eliza Orlins, Josh Levs, Brian O'Neill, Meredith Blake, and Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-13>
+
+---
+
+## When Philadelphia bombed its own residents
+
+date: 2025-05-13, from: The Contrarian
+
+Forty years ago today, eleven people died in the alarmingly little-known attack on the communal group MOVE 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-philadelphia-bombed-its-own>
+
+---
+
+## How reality TV perpetuates the myth of the American dream
+
+date: 2025-05-13, from: The Contrarian
+
+A new book looks at how shows like Shark Tank convince viewers that upward mobility is possible&#8212;despite a mountain of evidence to the contrary 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-reality-tv-perpetuates-the-myth>
 
 ---
 
@@ -40,8 +88,8 @@ date: 2025-05-13, from: The Contrarian
 New York City public defender Eliza Orlins discusses the trial of Sean &#8220;Diddy&#8221; Combs taking place in Federal District Court in Lower Manhattan. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163481764/8f76904eeac497160c25bdda3a8d32a3.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163481764/8f76904eeac497160c25bdda3a8d32a3.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163481764/6c143746c48aa4fa19bbdda23333c222.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163481764/6c143746c48aa4fa19bbdda23333c222.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/the-diddy-trial-has-begun-heres-what>
 
@@ -152,8 +200,8 @@ date: 2025-05-13, from: The Contrarian
 "this gutting of Medicaid is taking health care from working class people in this country" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163427622/485e63e7c6f8f3c7d9fccc9de00d441b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163427622/485e63e7c6f8f3c7d9fccc9de00d441b.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163427622/4881aaf0cb181cfb6b5075b05649497d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163427622/4881aaf0cb181cfb6b5075b05649497d.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/republicans-want-to-gut-healthcare>
 
@@ -238,8 +286,8 @@ date: 2025-05-12, from: The Contrarian
 "Trust the process" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163401606/4ddab7734a4943ff74d7364745ebb559.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163401606/4ddab7734a4943ff74d7364745ebb559.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163401606/952adfe7387742a72ee558fb0a817bdb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163401606/952adfe7387742a72ee558fb0a817bdb.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/offsides-with-pablo-torre-bill-belichick>
 

@@ -1,11 +1,98 @@
 ---
 title: socal north
-updated: 2025-05-13 14:07:45
+updated: 2025-05-14 06:07:40
 ---
 
 # socal north
 
-(date: 2025-05-13 14:07:45)
+(date: 2025-05-14 06:07:40)
+
+---
+
+## Ruth Beaglehole, early childhood pioneer in LAUSD, dies
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+The advocate for nonviolent parenting and educator to decades of Angelenos was 81. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/ruth-beaglehole-early-childhood-los-angeles-unified-dies>
+
+---
+
+## LAUSD aims to ease childcare and other burdens of employee parents
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+Educators say a major challenge they face is a lack of access to paid family leave, which will require a solution that extends beyond the district. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-parent-employee-support-may-2025-resolution>
+
+---
+
+## Menendez brothers resentenced in 1989 murder of parents, giving them a chance at parole
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+Lyle and Erik Menendez have been serving life in prison without parole in connection with the killings. A state parole board could now determine if and when the brothers are released. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/menendez-brothers-resentenced-chance-at-parole>
+
+---
+
+## Incarcerated firefighters could soon join LA County Fire Department after they're released
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+Previously, a criminal background disqualified them from becoming professional county firefighters. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-county-incarcerated-firefighter-pipeline-program>
+
+---
+
+## 35-year-old father ID’d as man killed by wrong-way driver on 7th Street
+
+date: 2025-05-13, from: Longbeach Post
+
+<figure><img width="1024" height="654" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1024x654.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1024x654.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-300x192.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-768x490.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-169x108.jpg 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1200x766.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-400x255.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9.jpg 1430w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A fundraiser has been set up for Salvador Medina Jr.’s wife and two kids. The 20-year-old driver who lost control and swerved into Medina's lane was also killed.</p>
+<p>The post <a href="https://lbpost.com/news/7th-street-wrong-way-crash-father-id-funraiser-driver">35-year-old father ID’d as man killed by wrong-way driver on 7th Street</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/7th-street-wrong-way-crash-father-id-funraiser-driver>
+
+---
+
+## Why LA County had to repeal its oil drilling phaseout in order to phase out oil drilling
+
+date: 2025-05-13, updated: 2025-05-14, from: The LAist
+
+L.A. County’s 2023 ordinance had been tied up in litigation. Now officials plan to have another phaseout law in place next year. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-oil-drilling-phaseout-timeline>
+
+---
+
+## Gavin Newsom says these middlemen drive up drug prices. He’s got a new plan to fix it
+
+date: 2025-05-13, updated: 2025-05-13, from: The LAist
+
+Gov. Gavin Newsom will seek to regulate pharmaceutical middlemen that he blames for driving up prescription drug costs in California, eight months after vetoing a similar bill. 
+
+<br> 
+
+<https://laist.com/news/health/gavin-newsom-says-these-middlemen-drive-up-drug-prices-hes-got-a-new-plan-to-fix-it>
 
 ---
 
@@ -99,7 +186,7 @@ The decision means State Farm can raise its rates an average 17% for homeowners,
 
 date: 2025-05-13, from: Longbeach Post
 
-<figure><img width="1024" height="699" src="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-440x300.jpg 440w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1110x758.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-768x524.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1536x1048.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-2048x1397.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1320x901.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="699" src="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-440x300.jpg 440w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1110x758.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-768x524.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1536x1048.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-2048x1397.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1320x901.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Gov. Gavin Newsom was elected to office in 2019 on a promise of universal health care. He dramatically expanded coverage, but after six years in office, the Democrat is forced to contemplate deep cuts — including to the nation’s largest health care expansion to immigrants living in the U.S. without legal permission.</p>
 <p>The post <a href="https://lbpost.com/news/health/california-universal-health-care-immigrants-newsom-governor">After promising universal health care, California governor must reconsider immigrant coverage</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -138,7 +225,7 @@ Leaders from both major political parties have been working to bring back manufa
 
 date: 2025-05-13, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Her car caught fire and broke down in the left lane on Monday night, the CHP says.</p>
 <p>The post <a href="https://lbpost.com/news/car-fire-91-freeway-woman-killed">Woman struck and killed after fleeing her flaming car on the 91 Freeway, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

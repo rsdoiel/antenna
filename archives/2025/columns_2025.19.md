@@ -1,29 +1,77 @@
 ---
 title: columns
-updated: 2025-05-13 14:07:47
+updated: 2025-05-14 06:07:43
 ---
 
 # columns
 
-(date: 2025-05-13 14:07:47)
+(date: 2025-05-14 06:07:43)
 
 ---
 
-##  A cute Minecraft-y clicker game. Big plus: finishing it doesn&#8217;t take forever.... 
+## Turn Left
 
-date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+date: 2025-05-14, from: Enlightenment Economics blog
 
+I&#8217;ve been letting these posts about my reading slip recently, for reasons of general busy-ness. The last thing I want to do of an evening or lunchbreak is more sitting at my screen, especially in such lovely sunny weather. Still, &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/05/turn-left/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/05/turn-left/>
+
+---
+
+## About the Baseline theme
+
+date: 2025-05-14, from: Dave Winer's Scripting News
+
+<p>Scott Hanson has been working on the <a href="https://wordland.shanson.de/2025/05/13/how-to-install-baseline/">Baseline theme</a> and it's ready for people to try out. </p>
+<p>An important caveat. This theme was designed to be the beginning theme for WordLand-authored WordPress sites. </p>
+<p>The goal is to get the minimal features for a nice blog-oriented site running in WordPress. </p>
+<p>It's open source, so you can start with Baseline and add all the features you want.</p>
+<p>And Scott has said he'd be happy to work with others to make it so that it would be great for presenting non-WordLand-authored writing. </p>
+<p>As the developer of <a href="https://wordland.social/">WordLand</a>, I wanted to go back to the beginning and take fresh a approach to the way blogs implement various features in 2025. It's been a long time since we took a fresh look, and lots has happened since. The market has grown by orders of magnitude, and new user interfaces have become widely used, especially with social media apps. WordLand itself has been heavily influenced by Facebook and Twitter, for example, even though blogging predates both. So of course the <i>presentation</i> of the blog has opportunities to evolve as well.</p>
+<p>The bottom-line -- if you already have a WordPress theme you're happy with, then stick with it, no need to use Baseline. But if you're starting a fresh site, using WordLand as your editor, and you value simplicity, then I recommend trying it, and if you like it, keep using it.</p>
+<p>BTW, I have it installed on <a href="https://daveverse.org/">daveverse.org</a>, and I'm a happy camper. So we have one endorsement. It's a good start. <span class="spOldSchoolEmoji">😄</span></p>
+<p>PS: If you have comments or questions, here's a <a href="https://github.com/scripting/wordlandSupport/issues/88">good place</a> to post them. </p>
  
 
 <br> 
 
-<https://kottke.org/25/05/0046842-a-cute-minecraft-y-clicke>
+<http://scripting.com/2025/05/14/115252.html?title=aboutTheBaselineTheme>
+
+---
+
+## Europe plots escape hatch from the enshittification of search
+
+date: 2025-05-14, updated: 2025-05-14, from: Liam Proven's articles at the Register
+
+<h4>Plus: How to make Google less unhelpful</h4>
+      <p>As search engines are intentionally made worse, and software grows ever bigger and more complex, a possibly unexpected ally emerges: the European Union.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/14/openwebsearch_eu/>
+
+---
+
+## Google’s Advanced Protection Now on Android
+
+date: 2025-05-14, updated: 2025-05-14, from: Bruce Schneier blog
+
+<p>Google has <a href="https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html">extended</a> its Advanced Protection features to Android devices. It&#8217;s not for everybody, but something to be considered by high-risk users.</p>
+<p>Wired <a href="https://www.wired.com/story/google-advanced-protection-vulnerable-users-lockdown-android-16/">article</a>, behind a paywall.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/googles-advanced-protection-now-on-android.html>
 
 ---
 
 ## 2025-05-13 Opatija, Crikvenica
 
-date: 2025-05-13, from: Alex Schroeder's Blog
+date: 2025-05-14, from: Alex Schroeder's Blog
 
 <h1 id="2025-05-13-opatija-crikvenica">2025-05-13 Opatija, Crikvenica</h1>
 
@@ -64,10 +112,25 @@ date: 2025-05-13, from: Alex Schroeder's Blog
 
 <p><img loading="lazy" src="2025-05-13-opatija-crikvenica-6.jpg" alt="the sea is visible behind the trees" /></p>
 
-<p>Weicher Akanthus.
+<p>Weicher Akanthus<br>
 Acanthus mollis</p>
 
 <p><img loading="lazy" src="2025-05-13-opatija-crikvenica-7.jpg" alt="a flowering plant" /></p>
+
+<p>Strauchiges Brandkraut<br>
+Phlomis fruticosa</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-13.jpg" alt="2025-05-13-opatija-crikvenica-13.jpg" /></p>
+
+<p>Herbst-Salbei<br>
+Salvia greggii</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-14.jpg" alt="2025-05-13-opatija-crikvenica-14.jpg" /></p>
+
+<p>Hardy aloe<br>
+Aloiampelos striatula</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-15.jpg" alt="2025-05-13-opatija-crikvenica-15.jpg" /></p>
 
 <p>And another sunset. 😍</p>
 
@@ -78,6 +141,88 @@ Acanthus mollis</p>
 <br> 
 
 <https://alexschroeder.ch/view/2025-05-13-opatija-crikvenica>
+
+---
+
+## Office Hours: The Silencing
+
+date: 2025-05-14, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-the-silencing>
+
+---
+
+## May 13, 2025
+
+date: 2025-05-14, from: Heather Cox Richardson blog
+
+While President Donald Trump&#8217;s billionaire sidekick Elon Musk has said he is pulling back from his work with the &#8220;Department of Government Efficiency,&#8221; he is with Trump today in Saudi Arabia, along with representatives from leaders from some of the biggest companies in the United States. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-13-2025>
+
+---
+
+## Supported curl versions and end of life
+
+date: 2025-05-14, from: Daniel Stenberg Blog
+
+The other week we shipped the 266th curl release. This counter is perhaps a little inflated since it also includes the versions we did before we renamed it to curl, but still, there are hundreds of them. We keep cranking them out at least once every eight weeks; more often than so when we need &#8230; <a href="https://daniel.haxx.se/blog/2025/05/14/supported-curl-versions-and-end-of-life/" class="more-link">Continue reading <span class="screen-reader-text">Supported curl versions and end of life</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/05/14/supported-curl-versions-and-end-of-life/>
+
+---
+
+##  New Report Finds Vacationing Sources Habla Un Poquito De Español. &#8220;We discovered... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046852-new-report-finds-vacation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-13, from: Dave Winer's Scripting News)
+
+<img src="https://imgs.scripting.com/2025/05/13/knickGameCard.png" style="float: right; border: 1px solid silver; margin-left: 10px;">This is what it says on Google about tomorrow night's Knicks game vs the Celtics in Boston. I've pointed the red arrow at the part that makes me think I must be dreaming. <i>NYK leads 3-1.</i> Yesterday at this time (5:30PM Eastern) I was in a funk, sure that the Knicks were about to be obliterated by the Celtics who had blown out the Knicks on Saturday, and the beginning of last night's game confirmed that suspicion. The Knicks couldn't seem to hit a shot, and the Celtics were hitting 3-pointers over and over and over and over. My body chemistry shifted. I felt the doom members of an ancient tribe of primitive humans must have felt as we were losing a war for existence with a neighboring tribe. It's primitive, but it's real. However! In the second half it turned around. The Knicks came out with a purpose, unlike the previous two wins, this one was not a squeaker at the end. The Knicks were masterful. They won this game, not by luck or perseverence, rather simply by <i>being better</i> than the Celtics. The reigning champion Celtics who must've relaxed just enough to fuel the victory for the hometown boys. So we're up 3-1 now. The Celtics have to win the next three. If they lose one, it's over. No I didn't think we'd be here tonight. Remember that when you feel sure you know that something is going to turn out a certain way. You just never know, it could come out a different way, as unbelievable as that might be. 
+
+<br> 
+
+<http://scripting.com/2025/05/13.html#a213317>
+
+---
+
+##  What I Learned at My First Tree-Climbing Workshop. &#8220;For many, climbing also... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046841-what-i-learned-at-my>
+
+---
+
+##  A cute Minecraft-y clicker game. Big plus: finishing it doesn&#8217;t take forever.... 
+
+date: 2025-05-13, updated: 2025-05-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046842-a-cute-minecraft-y-clicke>
 
 ---
 
@@ -263,7 +408,7 @@ New WordLand feature: <a href="https://this.how/wordland/editAllCategories.opml"
 
 **@Dave Winer's Scripting News** (date: 2025-05-13, from: Dave Winer's Scripting News)
 
-Video demo of the new <a href="https://www.youtube.com/watch?v=0G3nh7Mj8QI">categories editor</a> in WordLand. I wanted to be able to add new categories and edit the descriptions of existing categories without having to leave WordLand. I feel that categories are an important part of writing. It will be in v0.5.12, coming shortly. 
+Video demo of the new <a href="https://www.youtube.com/watch?v=0G3nh7Mj8QI">categories editor</a> in WordLand. I wanted to be able to add new categories and edit the descriptions of existing categories without having to leave WordLand. I feel that categories are an important part of writing. 
 
 <br> 
 

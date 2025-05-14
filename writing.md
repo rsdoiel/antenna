@@ -1,11 +1,47 @@
 ---
 title: writing
-updated: 2025-05-13 14:07:48
+updated: 2025-05-14 06:07:44
 ---
 
 # writing
 
-(date: 2025-05-13 14:07:48)
+(date: 2025-05-14 06:07:44)
+
+---
+
+## Authors Alliance Submits Joint Letter with Katie Fortney Re: Copyright Claims Board
+
+date: 2025-05-14, from: Author's Union blog
+
+Last Friday, Katie Fortney and Authors Alliance jointly submitted a comment in response to the USCO’s notice of inquiry on the CCB. In the comment, we acknowledged the CCB’s efforts to create user-friendly processes and commended its commitment to making the system accessible to non-lawyers.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/14/authors-alliance-submits-joint-letter-with-katie-fortney-re-copyright-claims-board/>
+
+---
+
+## 10 Things You Can Do with Synopses in Your Scrivener Projects
+
+date: 2025-05-14, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/10-things-you-can-do-with-synopses-in-your-scrivener-projects>
+
+---
+
+## IFTF 2024 Transparency report now available
+
+date: 2025-05-14, updated: 2025-05-14, from: (IFTF) Interactive Fiction Technology Foundation
+
+ 
+
+<br> 
+
+<http://blog.iftechfoundation.org/2025-05-14-iftf-2024-transparency-report-now-available.html>
 
 ---
 

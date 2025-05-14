@@ -1,11 +1,103 @@
 ---
 title: home
-updated: 2025-05-13 14:07:50
+updated: 2025-05-14 06:07:46
 ---
 
 # home
 
-(date: 2025-05-13 14:07:50)
+(date: 2025-05-14 06:07:46)
+
+---
+
+## Learn How to Transplant Hostas
+
+date: 2025-05-14, from: The Gardener's Path
+
+<p>Hostas are appreciated for their green, yellow, variegated, or white foliage. These attractive shade-loving perennials thrive in moist, well-draining loam and add beauty to the home landscape for many years. Sometimes you may want to relocate plants. Read on and discover 5 useful tips for transplanting and recovery.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/transplant-hostas/">Learn How to Transplant Hostas</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/transplant-hostas/>
+
+---
+
+## When and How to Prune Zucchini Plants
+
+date: 2025-05-14, from: The Gardener's Path
+
+<p>Zucchini plants may need pruning to get rid of damaged or diseased leaves, or to discourage crowding and shading. Our guide tells how and when to prune zucchini without harming the vines or bush plants. It also shares ways to avoid this garden chore with ample spacing and by choosing compact varieties to grow. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/prune-zucchini/">When and How to Prune Zucchini Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/prune-zucchini/>
+
+---
+
+## How to Plant and Grow Serrano Peppers
+
+date: 2025-05-14, from: The Gardener's Path
+
+<p>Serranos are extremely popular in Mexico and it's easy to see why. They’re moderately spicy without setting your mouth on fire, and the juicy flesh makes them ideal for salsas and other sauces. The plants aren’t challenging to grow – you’ll be harvesting a serrano bounty in just a few months with our tips. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-serrano-peppers/">How to Plant and Grow Serrano Peppers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-serrano-peppers/>
+
+---
+
+## Learn About Training and Tying Climbing Roses
+
+date: 2025-05-14, from: The Gardener's Path
+
+<p>A fence, wall, or arbor covered in the flowers of a climbing rose is an incomparable sight. Training the plant well in the first place is key to success down the road. This guide walks you through training your rose the right way to establish a healthy, beautiful plant that will perform well for years to come.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/train-climbing-roses/">Learn About Training and Tying Climbing Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/train-climbing-roses/>
+
+---
+
+## Flying Has Never Been More Stressful. These Tools Will Help You Combat In-Flight Anxiety.
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+With the uptick in news coverage of tragic plane incidents, flying anxiety is natural. Use these practices to deal with flying anxiety. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-deal-with-flying-anxiety>
+
+---
+
+## 8 Airplane Essentials You Didn’t Know You Needed
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+Check out these goodies that will make your next flight as easy as can be, so you can hit the tarmac running when you arrive.  
+
+<br> 
+
+<https://www.sunset.com/travel/airplane-essentials>
+
+---
+
+## 5 Essential Packing Tips Every Traveler Needs to Know
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+Don't pay for overweight bags again. Experts share their best packing tips for travel so you can be prepared for your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/packing-tips-for-travel>
 
 ---
 
@@ -51,6 +143,18 @@ date: 2025-05-13, from: Family Handyman Blog
 
 ---
 
+## When Should You Book Your Flight? A Travel Pro Shares Game-Changing Advice
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+Timing is everything when buying airfare. A travel expert shares the best time to book a flight to get a great deal for your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-time-to-book-flight>
+
+---
+
 ## Simple No Pantry Solutions on a Budget
 
 date: 2025-05-13, from: Family Handyman Blog
@@ -62,6 +166,18 @@ date: 2025-05-13, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/no-pantry-ideas/>
+
+---
+
+## Rivian’s High-Design Outpost Near Joshua Tree Is the Coolest Charging Station We’ve Ever Seen
+
+date: 2025-05-13, from: Sunset Magazine - Living in the West
+
+Rivian has the coolest charging station just outside of Joshua Tree National Park. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/rivian-electric-car-road-trip-in-joshua-tree>
 
 ---
 

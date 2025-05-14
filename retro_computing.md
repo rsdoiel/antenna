@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-13 14:07:50
+updated: 2025-05-14 06:07:47
 ---
 
 # retro computing
 
-(date: 2025-05-13 14:07:50)
+(date: 2025-05-14 06:07:47)
+
+---
+
+## b.log 2025/05/13 - Eurovision 2025 Semi Final 1.
+
+date: 2025-05-13, from: Richard Murray's blog
+
+Eurovision 2025 Semi Final 1. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250513>
 
 ---
 

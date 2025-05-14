@@ -1,11 +1,245 @@
 ---
 title: snapshots
-updated: 2025-05-13 14:07:53
+updated: 2025-05-14 06:07:50
 ---
 
 # snapshots
 
-(date: 2025-05-13 14:07:53)
+(date: 2025-05-14 06:07:50)
+
+---
+
+## Podcast: AI Avatar of Killed Man Testifies in Court
+
+date: 2025-05-14, from: 404 Media Group
+
+A killed man's AI avatar testifies in court; Meta is developing facial recognition for its smart glasses; and how AI is changing baseball. 
+
+<br> 
+
+<https://www.404media.co/podcast-ai-avatar-of-killed-man-testifies-in-court/>
+
+---
+
+## Turn Left
+
+date: 2025-05-14, from: Enlightenment Economics
+
+I&#8217;ve been letting these posts about my reading slip recently, for reasons of general busy-ness. The last thing I want to do of an evening or lunchbreak is more sitting at my screen, especially in such lovely sunny weather. Still, &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/05/turn-left/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/05/turn-left/>
+
+---
+
+## Authors Alliance Submits Joint Letter with Katie Fortney Re: Copyright Claims Board
+
+date: 2025-05-14, from: Authors Union blogs
+
+Last Friday, Katie Fortney and Authors Alliance jointly submitted a comment in response to the USCO’s notice of inquiry on the CCB. In the comment, we acknowledged the CCB’s efforts to create user-friendly processes and commended its commitment to making the system accessible to non-lawyers.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/14/authors-alliance-submits-joint-letter-with-katie-fortney-re-copyright-claims-board/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-14, from: Dave Winer's linkblog)
+
+The canonical Knicks fan of 2014. There&#39;s still a lot of him in every Knicks fan in 2025. 
+
+<br> 
+
+<https://web.archive.org/web/20140508214304/https://scripting.com/2014/03/03/theCanonicalKnicksFan.html>
+
+---
+
+## Is This the Year We Doom Civilization?
+
+date: 2025-05-14, from: Paul Krugman
+
+We may be losing our last, best chance to limit climate change 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/is-this-the-year-we-doom-civilization>
+
+---
+
+## Quoting James Cowling
+
+date: 2025-05-14, updated: 2025-05-14, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/jamesacowling/status/1922428807136608380"><p>I designed Dropbox's storage system and modeled its durability. Durability numbers (11 9's etc) are meaningless because competent providers don't lose data because of disk failures, they lose data because of bugs and operator error. [...]</p>
+<p>The best thing you can do for your own durability is to choose a competent provider and then ensure you don't accidentally delete or corrupt own data on it:</p>
+<ol>
+<li>Ideally never mutate an object in S3, add a new version instead.</li>
+<li>Never live-delete any data. Mark it for deletion and then use a lifecycle policy to clean it up after a week.</li>
+</ol>
+<p>This way you have time to react to a bug in your own stack.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/jamesacowling/status/1922428807136608380">James Cowling</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/s3">s3</a>, <a href="https://simonwillison.net/tags/ops">ops</a>, <a href="https://simonwillison.net/tags/software-architecture">software-architecture</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/14/james-cowling/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-14, from: Dave Winer's linkblog)
+
+Republicans Slip Nonprofit Killer Bill Into Budget Plan. 
+
+<br> 
+
+<https://newrepublic.com/post/195192/republicans-trump-kill-nonprofits-tax-bill>
+
+---
+
+## LLM 0.26a0 adds support for tools!
+
+date: 2025-05-14, updated: 2025-05-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://llm.datasette.io/en/latest/changelog.html#a0-2025-05-13">LLM 0.26a0 adds support for tools!</a></strong></p>
+It's only an alpha so I'm not going to promote this extensively yet, but my <a href="https://llm.datasette.io/">LLM</a> project just grew a feature I've been working towards for nearly two years now: <a href="https://llm.datasette.io/en/latest/tools.html">tool support</a>!</p>
+<p>I'm presenting a workshop about <a href="https://github.com/simonw/building-with-llms-pycon-2025">Building software on top of Large Language Models</a> at PyCon US tomorrow and this was the one feature I really needed to pull everything else together.</p>
+<p>Tools can be used from the command-line like this (inspired by <a href="https://sqlite-utils.datasette.io/en/stable/cli.html#defining-custom-sql-functions">sqlite-utils --functions</a>):</p>
+<pre>llm --functions <span class="pl-s"><span class="pl-pds">'</span></span>
+<span class="pl-s">def multiply(x: int, y: int) -&gt; int:</span>
+<span class="pl-s">    """Multiply two numbers."""</span>
+<span class="pl-s">    return x * y</span>
+<span class="pl-s"><span class="pl-pds">'</span></span> <span class="pl-s"><span class="pl-pds">'</span>what is 34234 * 213345<span class="pl-pds">'</span></span> -m o4-mini</pre>
+
+<p>You can add <code>--tools-debug</code> (shortcut: <code>--td</code>) to have it show exactly what tools are being executed and what came back. <a href="https://llm.datasette.io/en/latest/usage.html#usage-tools">More documentation here</a>.</p>
+<p>It's also available <a href="https://llm.datasette.io/en/latest/python-api.html#tools">in the Python library</a>:</p>
+<pre><span class="pl-k">import</span> <span class="pl-s1">llm</span>
+
+<span class="pl-k">def</span> <span class="pl-en">multiply</span>(<span class="pl-s1">x</span>: <span class="pl-smi">int</span>, <span class="pl-s1">y</span>: <span class="pl-smi">int</span>) <span class="pl-c1">-&gt;</span> <span class="pl-smi">int</span>:
+    <span class="pl-s">"""Multiply two numbers."""</span>
+    <span class="pl-k">return</span> <span class="pl-s1">x</span> <span class="pl-c1">*</span> <span class="pl-s1">y</span>
+
+<span class="pl-s1">model</span> <span class="pl-c1">=</span> <span class="pl-s1">llm</span>.<span class="pl-c1">get_model</span>(<span class="pl-s">"gpt-4.1-mini"</span>)
+<span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-s1">model</span>.<span class="pl-c1">chain</span>(
+    <span class="pl-s">"What is 34234 * 213345?"</span>,
+    <span class="pl-s1">tools</span><span class="pl-c1">=</span>[<span class="pl-s1">multiply</span>]
+)
+<span class="pl-en">print</span>(<span class="pl-s1">response</span>.<span class="pl-c1">text</span>())</pre>
+
+<p>There's also a <a href="https://llm.datasette.io/en/latest/plugins/plugin-hooks.html#register-tools-register">new plugin hook</a> so plugins can register tools that can then be referenced by name using <code>llm --tool name_of_tool "prompt"</code>.</p>
+<p>There's still <a href="https://github.com/simonw/llm/milestone/12">a bunch I want to do</a> before including this in a stable release, most notably adding support for Python asyncio. It's a pretty exciting start though!</p>
+<p><a href="https://github.com/simonw/llm-anthropic/releases/tag/0.16a0">llm-anthropic 0.16a0</a> and <a href="https://github.com/simonw/llm-gemini/releases/tag/0.20a0">llm-gemini 0.20a0</a> add tool support for Anthropic and Gemini models, depending on the new LLM alpha.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/14/llm-adds-support-for-tools/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-14, from: Dave Winer's linkblog)
+
+Trump administration&#39;s arrest of judge stirs debate over immigration courthouse arrests. 
+
+<br> 
+
+<https://www.reuters.com/world/us/trump-administrations-arrest-judge-stirs-debate-over-immigration-courthouse-2025-05-13/>
+
+---
+
+## Building, launching, and scaling ChatGPT Images
+
+date: 2025-05-13, updated: 2025-05-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://newsletter.pragmaticengineer.com/p/chatgpt-images">Building, launching, and scaling ChatGPT Images</a></strong></p>
+Gergely Orosz landed a fantastic deep dive interview with OpenAI's Sulman Choudhry (head of engineering, ChatGPT) and Srinivas Narayanan (VP of engineering, OpenAI) to talk about the launch back in March of ChatGPT images - their new image generation mode built on top of multi-modal GPT-4o.</p>
+<p>The feature kept on having new viral spikes, including one that added one million new users in a single hour. They signed up 100 million new users in the first week after the feature's launch.</p>
+<blockquote>
+<p>When this vertical growth spike started, most of our engineering teams didn't believe it. They assumed there must be something wrong with the metrics.</p>
+</blockquote>
+<p>Under the hood the infrastructure is mostly Python and <a href="https://github.com/fastapi/fastapi">FastAPI</a>! I hope they're sponsoring those projects (and <a href="https://github.com/encode/starlette">Starlette</a>, which is used by FastAPI under the hood.)</p>
+<p>They're also using some C, and <a href="https://temporal.io/">Temporal</a> as a workflow engine. They addressed the early scaling challenge by adding an asynchronous queue to defer the load for their free users (resulting in longer generation times) at peak demand.</p>
+<p>There are plenty more details tucked away behind the firewall, including an exclusive I've not been able to find anywhere else: OpenAI's core engineering principles.</p>
+<blockquote>
+<ul>
+<li><strong>Ship relentlessly</strong> - move quickly and continuously improve, without waiting for perfect conditions</li>
+<li><strong>Own the outcome</strong> - take full responsibility for products, end-to-end</li>
+<li><strong>Follow through</strong> - finish what is started and ensure the work lands fully</li>
+</ul>
+</blockquote>
+<p>I tried getting o4-mini-high to track down a copy of those principles online and was delighted to see it either leak or hallucinate the URL to OpenAI's internal engineering handbook!</p>
+<p><img alt="Thought for 1m 48s:  Here are the two places where OpenAl's “Ship  relentlessly — Own the outcome — Follow through”  checklist shows up as its core engineering  principles:  1. OpenAl Careers =&gt; Operating Principles  On the Careers page under &quot;Operating Principles,”  OpenAl codifies how every team—and especially  engineering—works together. While the page itself  doesn’t list the bullets verbatim, it's the umbrella  under which these three behavioural norms sit (Ship  relentlessly, Own the outcome, Follow through).  2. OpenAl Internal Engineering Handbook  These three tenets are drawn straight from OpenAl's  internal Engineering Handbook (employee-only), at: https://handbook.openai.com/engineering/principles  (This handbook page isn't publicly crawlable, but it's  the definitive source for how OpenAl's engineers  actually organize their day-to-day work.)" src="https://static.simonwillison.net/static/2025/openai-handbook.jpg" /></p>
+<p>Gergely has a whole series of posts like this called <a href="https://newsletter.pragmaticengineer.com/t/real-world-engineering-challenges">Real World Engineering Challenges</a>, including another one <a href="https://newsletter.pragmaticengineer.com/p/scaling-chatgpt">on ChatGPT a year ago</a>.
+
+    <p><small></small>Via <a href="https://twitter.com/GergelyOrosz/status/1922388794377961692">@GergelyOrosz</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/gergely-orosz">gergely-orosz</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/scaling">scaling</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/13/launching-chatgpt-images/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+Celtics&#39; Jayson Tatum has surgery on ruptured right Achilles. 
+
+<br> 
+
+<https://www.espn.com/nba/story/_/id/45131551/celtics-jayson-tatum-undergoes-surgery-torn-achilles>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+MLB commissioner Rob Manfred on Tuesday removed Pete Rose, &quot;Shoeless&quot; Joe Jackson and other deceased players from Major League Baseball&#39;s permanently ineligible list. 
+
+<br> 
+
+<https://www.espn.com/mlb/story/_/id/45115659/pete-rose-shoeless-joe-jackson-players-reinstated-mlb>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-13, from: Dave Winer's linkblog)
+
+A.G. Sulzberger: A Free People Need a Free Press. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/13/opinion/ag-sulzberger-free-press.html>
+
+---
+
+## Lilbits: 3rd-party SteamOS devices, the new Pebble 2 smartwatch processor, and Sony is still making flagship phones with headphone jacks
+
+date: 2025-05-13, from: Liliputing
+
+<p>Most modern smartphones have big screens, fast processors, and excellent cameras. One thing they don&#8217;t usually have? Headphone jacks. That&#8217;s a feature that&#8217;s still common on budget phones and some mid-range models, but most premium phone makers have gone all-in on wireless audio (or USB-C dongles). Sony&#8217;s latest flagship bucks the trend. Not only does [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-3rd-party-steamos-devices-the-new-pebble-2-smartwatch-processor-and-sony-is-still-making-flagship-phones-with-headphone-jacks/">Lilbits: 3rd-party SteamOS devices, the new Pebble 2 smartwatch processor, and Sony is still making flagship phones with headphone jacks</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-3rd-party-steamos-devices-the-new-pebble-2-smartwatch-processor-and-sony-is-still-making-flagship-phones-with-headphone-jacks/>
+
+---
+
+## Pine64 ALPHA-One is a fanless RISC-V mini PC with up to 20 TOPS of AI performance
+
+date: 2025-05-13, from: Liliputing
+
+<p>Pine64&#8217;s upcoming ALPHA-One is a small, fanless computer that stands out for a few reasons. One is that it&#8217;s made for AIL: the computer has an NPU with support for up to 20 TOPS of AI performance ad ships with a 7b Deepseek/Owen LLM pre-loaded and Pine64 says it supports about 3.5 tokens per second [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pine64-alpha-one-is-a-fanless-risc-v-mini-pc-with-up-to-20-tops-of-ai-performance/">Pine64 ALPHA-One is a fanless RISC-V mini PC with up to 20 TOPS of AI performance</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pine64-alpha-one-is-a-fanless-risc-v-mini-pc-with-up-to-20-tops-of-ai-performance/>
 
 ---
 

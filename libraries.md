@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-13 14:07:49
+updated: 2025-05-14 06:07:46
 ---
 
 # libraries
 
-(date: 2025-05-13 14:07:49)
+(date: 2025-05-14 06:07:46)
+
+---
+
+## Guest Post — Fostering AI Adoption and Literacy Within Your Organization
+
+date: 2025-05-14, from: Scholarly Kitchen
+
+<p>How can organizations facilitate safe and comprehensive engagement with AI? And how can individuals within those organizations engage and advocate for their own AI literacy? </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/14/guest-post-fostering-ai-adoption-and-literacy-within-your-organization/">Guest Post &#8212; Fostering AI Adoption and Literacy Within Your Organization </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/14/guest-post-fostering-ai-adoption-and-literacy-within-your-organization/>
 
 ---
 

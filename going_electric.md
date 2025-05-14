@@ -1,11 +1,111 @@
 ---
 title: going electric
-updated: 2025-05-13 14:07:51
+updated: 2025-05-14 06:07:48
 ---
 
 # going electric
 
-(date: 2025-05-13 14:07:51)
+(date: 2025-05-14 06:07:48)
+
+---
+
+## How one of the only profitable electric motorcycle companies got there with street legal e-dirtbikes
+
+date: 2025-05-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/stark-varg-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric motorcycles may be the future, but most major Western companies still haven’t figured out how to make money from them. Not true for Barcelona-based Stark Future though, one of the only electric motorcycle makers outside of China to have reached profitability. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="415966" href="https://electrek.co/2025/05/14/how-one-of-the-only-profitable-electric-motorcycle-companies-got-there-with-street-legal-e-dirtbikes/#more-415966" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/14/how-one-of-the-only-profitable-electric-motorcycle-companies-got-there-with-street-legal-e-dirtbikes/>
+
+---
+
+## The 2026 Toyota C-HR Wants To Be A Sporty bZ
+
+date: 2025-05-14, from: Inside EVs News
+
+This crossover will have 338 horsepower, standard all-wheel-drive and sprint to 60 in about five seconds.  
+
+<br> 
+
+<https://insideevs.com/news/759492/2026-toyota-bz-release-ev/>
+
+---
+
+## The Mercedes CLA EV Will Work With Tesla Superchargers After All
+
+date: 2025-05-14, from: Inside EVs News
+
+Mercedes-Benz backtracked on its original idea of restricting the CLA to 800V DC fast chargers. 
+
+<br> 
+
+<https://insideevs.com/news/759522/mercedes-cla-ev-400v-charging-supercharger-us/>
+
+---
+
+## 1 in 4 cars sold in 2025 will be EVs, and that’s just the beginning
+
+date: 2025-05-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/BYDs-largest-car-transport-ship-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>More than 1 in 4 cars sold around the world in 2025 are expected to be EVs, according to a new report from the <a href="https://electrek.co/guides/iea/" target="_blank" rel="noreferrer noopener">International Energy Agency</a> (IEA). And if EVs stay on track, they could make up over 40% of global car sales by 2030.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,electric-vehicles,europe,ev-sales,evs,iea,united-states" data-layer-viewtype="unknown" data-post-id="415942" href="https://electrek.co/2025/05/13/1-in-4-cars-sold-in-2025-will-be-evs-and-thats-just-the-beginning/#more-415942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/1-in-4-cars-sold-in-2025-will-be-evs-and-thats-just-the-beginning/>
+
+---
+
+## April’s global EV sales were up 29% compared to a year ago, once again led by China
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Shanghai-Auto-Show-ZEEKR-007-gT.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Global research firm <a href="https://electrek.co/guides/rho-motion/">Rho Motion</a> has shared its monthly global EV sales report for April, which details continued long-term growth. While global EV sales are down compared to March 2025, the year-over-year tally remains strong, despite uncertainty amid the threat of tariffs and trade wars.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-sales,rho-motion" data-layer-viewtype="unknown" data-post-id="415757" href="https://electrek.co/2025/05/13/aprils-global-ev-sales-up-29-compared-year-ago-led-by-china/#more-415757" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/aprils-global-ev-sales-up-29-compared-year-ago-led-by-china/>
+
+---
+
+## Is your state at risk? These 15 states face huge job losses if the IRA is repealed
+
+date: 2025-05-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/15678-VolkswagenstartsU.S.assemblyofall-electricID.4flagshipinChattanoogaTennessee.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>The repeal of the Inflation Reduction Act (IRA) would wipe out thousands of US jobs, especially in the booming EV and battery manufacturing sectors, according to a report from the International Council on Clean Transportation (<a href="https://theicct.org/" target="_blank" rel="noreferrer noopener">ICCT</a>).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="409098" href="https://electrek.co/2025/05/13/15-states-face-huge-job-losses-ira-is-repealed/#more-409098" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/13/15-states-face-huge-job-losses-ira-is-repealed/>
+
+---
+
+## GM Says These EV Batteries Are 'Critical' For Its Future
+
+date: 2025-05-13, from: Inside EVs News
+
+Cylindrical and pouch cells have so far dominated EV batteries. Now prismatic cells are gaining steam.  
+
+<br> 
+
+<https://insideevs.com/news/759479/gm-lmr-prismatic-ev-battery-critical/>
 
 ---
 

@@ -1,15 +1,69 @@
 ---
 title: food
-updated: 2025-05-13 14:07:52
+updated: 2025-05-14 06:07:49
 ---
 
 # food
 
-(date: 2025-05-13 14:07:52)
+(date: 2025-05-14 06:07:49)
 
 ---
 
-## Which Tequila Is Best? A Taste Test of Patrón, Terremana, Casamigos and more
+## Jason Mraz: Not Bad For A Celebrity Coffee Guy
+
+date: 2025-05-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Jason Mraz is helping Oceanside's oldest coffee shop stay in business. 
+
+<br> 
+
+<https://sprudge.com/jason-mraz-not-bad-for-a-celebrity-coffee-guy-334755.html>
+
+---
+
+## Halal Chicken Recipe (Halal Cart Style)
+
+date: 2025-05-14, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/halal-cart-chicken/" title="Halal Chicken Recipe (Halal Cart Style)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="(Halal Cart Style Chicken on a serving plate with yellow rice, simple salad, drizzled with Halal white sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Juicy Halal Chicken Recipe made New York Halal Cart Style, with seasoned chicken, yellow rice, fresh salad, and creamy white sauce, a street food favorite!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/halal-cart-chicken/">Halal Chicken Recipe (Halal Cart Style)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/halal-cart-chicken/>
+
+---
+
+## Convenience Stores Are Upgrading Their Coffee Programs (And Winning New Customers)
+
+date: 2025-05-14, from: The Fresh Cup
+
+<p>Bean-to-cup technology is revolutionizing coffee experiences at convenience stores across the country—and proving that “gas station coffee” doesn’t need to be scalded or stale.</p>
+<p>The post <a href="https://freshcup.com/convenience-stores-are-upgrading-their-coffee-programs-and-winning-new-customers/">Convenience Stores Are Upgrading Their Coffee Programs (And Winning New Customers)</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/convenience-stores-are-upgrading-their-coffee-programs-and-winning-new-customers/>
+
+---
+
+## Pop-Tarts Just Quietly Dropped a Brand-New Product for Summer
+
+date: 2025-05-13, from: Taste of Home
+
+<p>Three Pop-Tarts faves are about to have cool sandwich spin-offs.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pop-tarts-ice-cream-sandwiches/">Pop-Tarts Just Quietly Dropped a Brand-New Product for Summer</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pop-tarts-ice-cream-sandwiches/>
+
+---
+
+## What Is the Best Tequila? A Taste Test of Patrón, Terremana, Casamigos, and More
 
 date: 2025-05-13, from: Bon Appetet
 
@@ -399,7 +453,7 @@ date: 2025-05-12, from: Closet Cooking
 
 date: 2025-05-12, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/dan-dan-noodles/" title="Dan Dan Noodles Recipe (Spicy Sichuan Noodles)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Dan Dan Noodles in a bowl, ready to serve, garnished with roasted peanuts, sesame seeds, chili flakes, and sliced green onion" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This dan dan noodles recipe is made with thin noodles coated in a spicy sauce that is loaded with Sichuan flavors, perfect for spicy noodle lovers.</p>
+<a href="https://www.chilipeppermadness.com/recipes/dan-dan-noodles/" title="Dan Dan Noodles Recipe (Spicy Sichuan Noodles)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Dan Dan Noodles in a bowl, ready to serve, garnished with roasted peanuts, sesame seeds, chili flakes, and sliced green onion" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Dan-Dan-Noodles-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This dan dan noodles recipe is made with thin noodles coated in a spicy sauce that is loaded with Sichuan flavors, perfect for spicy noodle lovers.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/dan-dan-noodles/">Dan Dan Noodles Recipe (Spicy Sichuan Noodles)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

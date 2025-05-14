@@ -1,11 +1,520 @@
 ---
 title: planet
-updated: 2025-05-13 14:07:44
+updated: 2025-05-14 06:07:37
 ---
 
 # planet
 
-(date: 2025-05-13 14:07:44)
+(date: 2025-05-14 06:07:37)
+
+---
+
+## WHO scales back work after funding cuts
+
+date: 2025-05-14, from: RTÉ News
+
+The World Health Organization has reduced its management team by half and will have to scale back operations, its director-general said, four months after the United States announced it was leaving the agency and cutting funding. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512832-world-health-organization/>
+
+---
+
+## Satchwell told gardaí wife's death happened in a flash
+
+date: 2025-05-14, from: RTÉ News
+
+Richard Satchwell told gardaí he could not remember the details of how his wife, Tina, died because it all happened in a flash. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512825-richard-satchwell-court/>
+
+---
+
+## BBC journalist took 'utmost care' over Adams allegation
+
+date: 2025-05-14, from: RTÉ News
+
+A BBC journalist has told the High Court she took the utmost care to corroborate an allegation against Gerry Adams which is at the centre of a defamation case taken by the former Sinn Féin president. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0514/1512830-adams-bbc-high-court/>
+
+---
+
+## Govt expects review of hip surgeries in coming days
+
+date: 2025-05-14, from: RTÉ News
+
+The Taoiseach said the Government hopes to receive the clinical review of hip surgeries on children at two Dublin hospitals by the end of next week. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0514/1512817-hip-surgeries-latest/>
+
+---
+
+## Ghana Bishops’ Conference builds partnerships to confront spill-over terrorism
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>In a bid to strengthen national and regional efforts against violent extremism and instability, the Ghana Catholic Bishops’ Conference (GCBC), through its Directorate of Governance, Justice and Peace, has begun forging new partnerships with key government stakeholders.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/ghana-catholic-bishops-conference-builds-partnerships-to-confro.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/ghana-catholic-bishops-conference-builds-partnerships-to-confro.html>
+
+---
+
+## Pope Leo XIV meets with tennis champion Jannik Sinner
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>As the 2025 Italian Open is underway in Rome, Pope Leo XIV receives professional tennis player Jannik Sinner in the Vatican, along with his family and the president of the Italian Tennis Federation.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-receives-tennis-phenomenon-janik-sinner.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-receives-tennis-phenomenon-janik-sinner.html>
+
+---
+
+## Satchwell advertised freezer he stored wife's body in
+
+date: 2025-05-14, from: RTÉ News
+
+Follow live updates from the Central Criminal Court in the trial of Richard Satchwell, who is accused of the murder of his wife Tina in March 2017. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0514/1512766-richard-satchwell-court/>
+
+---
+
+## Government has instigated 'anti-worker' measures, says TD
+
+date: 2025-05-14, from: RTÉ News
+
+The Government has instigated "anti-worker measure after anti-worker measure", the Dáil has heard.
+People Before Profit-Solidarity TD Paul Murphy was tabling a bill promoting the recognition of trade unions. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512790-trade-union-recognition-bill/>
+
+---
+
+## Syrians hail lifting of US sanctions as start of new era
+
+date: 2025-05-14, from: RTÉ News
+
+The sound of fireworks and applause rang out in Syria's major cities overnight, as Syrians celebrated US President Donald Trump's decision to lift sanctions on the devastated country. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0514/1512796-syria-sanctions-lifted/>
+
+---
+
+## Pope Leo XIV’s coat of arms blends Marian and Augustinian elements
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>The coat of arms of Pope Leo XIV evokes his devotion to the Blessed Virgin Mary and inspiration drawn from St. Augustine, according to the Holy See Press Office.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-official-explanation-coat-arms.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-official-explanation-coat-arms.html>
+
+---
+
+## Finn, Honohan, Keeley, and Phillips in Ireland squad
+
+date: 2025-05-14, from: RTÉ News
+
+The uncapped quartet of Josh Honohan, Josh Keeley, John Patrick Finn and Killian Phillips have been included in the Republic of Ireland's 24-man squad for next month's friendlies against Senegal and Luxembourg. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0514/1512762-honohan-keeley-patrick-and-phillips-in-ireland-squad/>
+
+---
+
+## Germany arrests three Ukrainians suspected of spying
+
+date: 2025-05-14, from: RTÉ News
+
+Three Ukrainians have been arrested for their suspected involvement in the shipment of exploding parcels, German prosecutors said, after a series of fires at European courier depots pointed to suspected Russian sabotage. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512783-germany-ukraine/>
+
+---
+
+## Merz calls for western unity on Ukraine on eve of talks
+
+date: 2025-05-14, from: RTÉ News
+
+German Chancellor Friedrich Merz urged the West not to be divided on Ukraine and said he was working to ensure unity between allies in Europe and the United States on how to end the war. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0514/1512779-ukraine-russia-talks/>
+
+---
+
+## Sentence over debs crash deaths 'not justice' - mother
+
+date: 2025-05-14, from: RTÉ News
+
+A 61-year-old man, who admitted to dangerous driving causing the deaths of two teenagers who were on their way to their debs in Co Monaghan almost two years ago, has been jailed for seven years. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512780-anthony-mcginn-court/>
+
+---
+
+## Heart Foundation 'puzzled' by pause on energy drink ban
+
+date: 2025-05-14, from: RTÉ News
+
+A decision by the Government to delay a ban on the sale of energy drinks to under-18s for a public consultation is puzzling, a spokesperson for the Irish Heart Foundation has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512765-energy-drink-ban/>
+
+---
+
+## CHI letter amid hip surgery review a 'kick in the teeth'
+
+date: 2025-05-14, from: RTÉ News
+
+A mother whose son underwent bilateral hip surgery in Crumlin in 2022 at the age of three has said she sat at her kitchen table and cried her eyes out when she considered the impact of a letter from Children's Health Ireland about a review into hip dysplasia surgery. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512769-hip-dysplasia/>
+
+---
+
+## DRC: South Kivu's capital of Bukavu abandoned to hunger and neglect
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>In the Democratic Republic of Congo, the South Kivu province's capital of Bukavu, is being abandoned to hunger and neglect, amid a humanitarian emergency where violations against children are surging, essential services have collapsed, and the population sees no way out.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/drc-south-kivu-abandoned-to-hunger-and-neglect.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/drc-south-kivu-abandoned-to-hunger-and-neglect.html>
+
+---
+
+## Pope Leo XIV to Eastern Catholics: The Church needs you
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>Pope Leo XIV welcomes Eastern Catholics to the Vatican for the Jubilee of Eastern Churches, and highlights the need to preserve their traditions and pray for true peace, “which is reconciliation, forgiveness, and the courage to turn the page and start anew."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-to-eastern-catholics-the-church-needs-you.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-to-eastern-catholics-the-church-needs-you.html>
+
+---
+
+## GM, LG Energy Solution to make new, lower-cost battery cells for future EVs
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534497.1747223045!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/12838554a.jpg' alt='An EVgo fast charging station for electric vehicles in front of General Motors headquarters in downtown Detroit, Mich. EVgo says its charging stations use 100 per cent renewable energy from wind and solar. ' width='620' height='349' title='An EVgo fast charging station for electric vehicles in front of General Motors headquarters in downtown Detroit, Mich., in March 2022. EVgo says its charging stations use 100 per cent renewable energy from wind and solar. '/><p>The Detroit automaker is trying to lower its battery costs to enable cost parity with its gas-powered products by adding new types of cells and chemistries in those cells.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/gm-lg-low-cost-battery-cells-evs-1.7534487?cmp=rss>
+
+---
+
+## Jubilee of Eastern Churches: Divine Liturgy in the East Syriac Rite
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>On the eve of the Jubilee of Eastern Church's encounter with Pope Leo XIV, a Divine Liturgy in the East Syriac rite is celebrated in St. Peter's Basilica on the occasion of the Jubilee.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-of-eastern-churches-east-syriac-divine-liturgy.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/jubilee-of-eastern-churches-east-syriac-divine-liturgy.html>
+
+---
+
+## Irish teens among least happy in developed world - report
+
+date: 2025-05-14, from: RTÉ News
+
+Irish teenagers are among the least happy in high-income countries, despite leading the world in academic skills, a UN report has indicated. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512752-unicef-irish-teens/>
+
+---
+
+## Trump urges Syrian leader to establish ties with Israel
+
+date: 2025-05-14, from: RTÉ News
+
+US President Donald Trump has met Syria's president in Saudi Arabia and urged him to normalise ties with longtime foe Israel, after a surprise US announcement that it would lift all sanctions on the Islamist-led government. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512753-trump-gulf-visit/>
+
+---
+
+## Trump meets with Syria's president Sharaa at Saudi royal palace
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534469.1747216294!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-syria.jpg' alt='Two men are shown side by side in separate photos. One is cleanshaven, older and blonde haired and the other is dark haired and bearded.' width='620' height='349' title='This combination of photos shows U.S. President Donald Trump, left, in Riyadh, Saudi Arabia, on May 13, and  Syria&apos;s President Ahmad al-Sharaa in Ankara, Turkey, on Feb. 4.'/><p>U.S. President Donald Trump met with Syria's interim President Ahmad al-Sharaa in Saudi Arabia on Wednesday, the first such encounter between the leaders of those two countries in 25 years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/riyadh-trump-sharaa-us-syria-1.7534466?cmp=rss>
+
+---
+
+## Leo XIII’s times and our own
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>History professor Donald Prudlo talks with Vatican News about Pope Leo XIV’s choice of names, focusing on the similarities between the challenges facing Leo XIII in the 19th century and the world we find ourselves in today.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/leo-xiii-s-times-and-our-own.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/leo-xiii-s-times-and-our-own.html>
+
+---
+
+## Israeli military airstrikes kill at least 70 in Gaza
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534473.1747217837!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='People walk amid large pieces of concrete debris near heavily damaged buildings.' width='620' height='349' title='Palestinians inspect the site of an Israeli strike on a house, in Jabalia, in the northern Gaza Strip, May 14, 2025. '/><p>Israeli military strikes killed at least 70 Palestinians across the Gaza Strip on Wednesday, local health authorities said, in an intensification of the bombardment as U.S. President Donald Trump visits the Middle East.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-hamas-gaza-may-14-1.7534472?cmp=rss>
+
+---
+
+## Gardaí issue warning over misinformation on fatal crash
+
+date: 2025-05-14, from: RTÉ News
+
+Gardaí have issued a warning over content on social media regarding a road incident in Dublin at the weekend in which a garda was killed. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512743-dublin-rtc-investigation/>
+
+---
+
+## Champion cyclist avoids jail after Olympian wife's death
+
+date: 2025-05-14, from: RTÉ News
+
+Australian former world champion cyclist Rohan Dennis has avoided jail for driving in a way "likely to cause harm" before his car struck and killed his Olympian wife Melissa Hoskins. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512736-rohan-dennis-australia/>
+
+---
+
+## 'Silent' pro-Palestinian protest planned for Eurovision
+
+date: 2025-05-14, from: RTÉ News
+
+Pro-Palestinian protesters have planned to walk the streets of Basel "silently" to demonstrate against Israel's participation in the Eurovision Song Contest. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0514/1512733-silent-pro-palestinian-protest-planned-for-eurovision/>
+
+---
+
+## EU commission loses court case over Von der Leyen texts
+
+date: 2025-05-14, from: RTÉ News
+
+The European Court of Justice has dismissed the European Commission's rejection of a New York Times' request to access text messages between its President Ursula von der Leyen and Pfizer CEO Albert Bourla on the purchase of billions of euro of Covid-19 vaccines. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512730-ecj-von-der-leyen-texts/>
+
+---
+
+## New drama Leaving Cert course 'something to be embraced'
+
+date: 2025-05-14, from: RTÉ News
+
+A Co Clare school, which is among the first 57 schools to offer Drama, Film and Theatre Studies, is throwing their energy into final preparations for an arts festival they are running. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512688-new-leaving-cert-subjects/>
+
+---
+
+## China, US slash sweeping tariffs in trade war climbdown
+
+date: 2025-05-14, from: RTÉ News
+
+The United States and China have slashed sweeping tariffs on each others' goods for 90 days, after a temporary ceasefire in a trade war that roiled global markets and international supply chains. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512727-us-tariffs/>
+
+---
+
+## Gaza medics say 70 dead as Israel intensifies bombardment
+
+date: 2025-05-14, from: RTÉ News
+
+At least 70 people have been killed in Israeli military strikes across Gaza, the Hamas-run health ministry said, in an intensification of the bombardment as US President Donald Trump visits the Middle East. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512726-middle-east/>
+
+---
+
+## Where in the world is the U.S. trying to deport 3rd-country migrants?
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533489.1747143852!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-migration-venezuela-protest.JPG' alt='Several people, men and women, hold up signs in an outdoor protest, with words in Spanish on the placards.' width='620' height='349' title='Family members of Venezuelan migrants, who were detained at the Terrorism Confinement Center (CECOT) prison in El Salvador after being expelled by the U.S., hold signs and pictures of their loved ones, during a protest in Caracas on April 9.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-deportations-country-agreements-1.7530868?cmp=rss>
+
+---
+
+## Zelenskyy says he is ready to meet Putin in Turkey. But Russia's president may be a no-show
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534172.1747174990!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-zelenskiy.JPG' alt='Ukraine&apos;s President Volodymyr Zelenskyy seen here in Kyiv, Ukraine on May 13, 2025, is headed to Ankara Turkey. ' width='620' height='349' title='Ukraine&apos;s President Volodymyr Zelenskyy seen here in Kyiv, Ukraine on May 13, 2025, is headed to Ankara Turkey. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-peace-talks-putin-zelenskyy-turkey-1.7534143?cmp=rss>
+
+---
+
+## From baby wipes to aluminum panels, Hong Kong businesses are caught in U.S.-China trade scrap
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533663.1747151338!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/itay-sharon.jpg' alt='A man sits at a table.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hong-kong-us-china-trade-war-1.7533424?cmp=rss>
+
+---
+
+## Over 125,000 premises connected under broadband plan
+
+date: 2025-05-14, from: RTÉ News
+
+National Broadband Ireland has announced that over 125,000 premises across Ireland are now connected to its high-speed fibre broadband network. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512696-national-broadband-plan/>
+
+---
+
+## Menendez brothers eligible for parole after resentencing
+
+date: 2025-05-13, from: RTÉ News
+
+Lyle and Erik Menendez, who have spent more than three decades behind bars for the murders of their parents in Los Angeles, could soon walk free after a judge reduced their life sentences. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0514/1512721-lyle-menendez-erik-menendez/>
+
+---
+
+## 56% of septic tanks fail to meet required standard - EPA
+
+date: 2025-05-13, from: RTÉ News
+
+More than half of 1,400 domestic septic tanks inspected by local authorities last year failed to meet the required standard. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512718-septic-tanks/>
+
+---
+
+## Fan favourites qualify for Eurovision Grand Final
+
+date: 2025-05-13, from: RTÉ News
+
+Fan favourites Sweden, Ukraine and the Netherlands are among the ten countries that have qualified for the grand final of the Eurovision Song Contest. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0513/1512712-fan-favourites-qualify-for-eurovision-grand-final/>
+
+---
+
+## Erik and Lyle Menendez move closer to possible freedom as judge reduces their sentence
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534383.1747181748!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/november-1990-photo-of-lyle-and-erik-menendez-appearing-in-court.jpg' alt='A Nov. 26, 1990, file photo of Lyle (left) and Erik Menendez (right), sitting alongside lawyer Leslie Abramson, in a Beverly Hills, Calif., court.' width='620' height='349' title='Lyle, left, and Erik Menendez sit with defense attorney Leslie Abramson, right, in the Municipal Court in the Beverly Hills area of Los Angeles, during a hearing, Nov. 26, 1990.'/><p>Erik and Lyle Menendez will have a new shot at freedom after spending 35 years behind bars for the 1989 murder of their parents, a judge ruled Tuesday when he reduced their sentences from life without parole to 50 years to life.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/lyle-erik-menendez-resentence-judge-1.7534374?cmp=rss>
 
 ---
 
@@ -18,6 +527,18 @@ Scottish politicians have voted in favour of a bill that would legalise assisted
 <br> 
 
 <https://www.rte.ie/news/world/2025/0513/1512705-scotland-assisted-dying/>
+
+---
+
+## Deadly Israeli strikes target 2 separate Khan Younis hospitals in 1 day
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534239.1747182154!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/patients-being-wheeled-out-of-the-hospital-following-strikes.JPG' alt='Two people wheel a gurney carrying a woman out of a hospital. ' width='620' height='349' title='Palestinian patient Rasmiya Al-Saleh, 45, is evacuated from the European Hospital in Khan Younis after it was damaged by Israeli missile strikes on Tuesday, May 13, 2025, according to the Gaza Health Ministry.'/><p>An Israeli missile strike at the European Hospital in Khan Younis Tuesday killed at least 16 people, wounded about 70 others and forced patients and doctors to evacuate the building. It was the second Israeli attack of the day to target hospitals in the Gaza Strip where Israel's military said Hamas terrorists were operating, after a dawn airstrike hit the Nasser Medical Complex, killing two patients, including a well-known journalist.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-israel-hospitals-target-1.7534211?cmp=rss>
 
 ---
 
@@ -45,6 +566,18 @@ Tánaiste and Minister for Defence Simon Harris has said he will bring the heads
 
 ---
 
+## Mandy Gull-Masty becomes 1st Indigenous head of Indigenous Services Canada
+
+date: 2025-05-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7533632.1747177389!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cabinet-shuffle-20250513.jpg' alt='Woman outside' width='620' height='349' title='Mandy Gull-Masty arrives for a cabinet swearing in ceremony at Rideau Hall in Ottawa, on Tuesday, May 13, 2025. THE CANADIAN PRESS/Justin Tang'/><p>An MP from Northern Quebec is the first Indigenous person to hold the portfolio responsible for providing services for First Nations, Inuit and Métis people. Mandy Gull-Masty is one of three Indigenous MPs sworn into cabinet Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/mandy-gull-masty-indigenous-services-minister-1.7533691?cmp=rss>
+
+---
+
 ## Key hearing in Menendez brothers appeal takes place
 
 date: 2025-05-13, from: RTÉ News
@@ -57,11 +590,11 @@ Lyle and Erik Menendez, who are serving life sentences for the murders of their 
 
 ---
 
-## Eurovision Song Contest 2025: The first semi-final
+## As it happened: Eurovision Song Contest first night
 
 date: 2025-05-13, from: RTÉ News
 
-The 69th edition of the Eurovision Song Contest will be broadcast live from St. Jakobshalle in Basel, Switzerland this evening. You can follow all of the action and happenings on our live tracker AND on RTÉ2 and RTÉ Player from 8pm. 
+The 69th edition of the Eurovision Song Contest was broadcast live from St. Jakobshalle in Basel, Switzerland this evening. You can catch up on all the action and happenings on our tracker 
 
 <br> 
 
@@ -78,6 +611,30 @@ An inquest into the death of a teenager, who was in the care of the State when h
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0513/1512682-daniel-mcanaspie/>
+
+---
+
+## Teen had over 20 care placements before death - inquest
+
+date: 2025-05-13, from: RTÉ News
+
+An inquest into the death of a teenager, who was in the care of the State when he was murdered in 2010, has been told of the pressures facing the HSE in finding suitable residential care placements for young people. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0513/1512682-daniel-mcanaspie-inquest/>
+
+---
+
+## U.S. to lift sanctions against Syria, Trump says
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534109.1747168939!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-gulf-saudi.JPG' alt='Two men shake hands. ' width='620' height='349' title='U.S. President Donald Trump and Saudi Crown Prince and Prime Minister Mohammed Bin Salman shake hands during a Memorandum of Understanding (MOU) signing ceremony at the Royal Court in Riyadh, Saudi Arabia on Tuesday.'/><p>President Donald Trump says the U.S. will lift long-standing sanctions on Syria during trip to the Gulf on Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/usa-trump-syria-sanctions-1.7533980?cmp=rss>
 
 ---
 
@@ -117,11 +674,11 @@ The Cabinet has decided to pause a piece of legislation that would ban the sale 
 
 ---
 
-## Microsoft to cut thousands of jobs globally - report
+## Microsoft to cut thousands of jobs around the world
 
 date: 2025-05-13, from: RTÉ News
 
-Microsoft is to lay off 3% of its employees across all levels, teams and geographies, according to a report by CNBC. 
+Microsoft said it was laying off less than 3% of its workforce, or around 6,000 employees, as the technology giant looks to rein in costs while funneling billions of dollars into its ambitious bet on artificial intelligence. 
 
 <br> 
 
@@ -234,6 +791,18 @@ Five men have appeared in court charged in connection with holding a man down an
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0513/1512632-court-dublin/>
+
+---
+
+## IN PHOTOS | At Cannes film festival on Day 1
+
+date: 2025-05-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533852.1747160258!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2214884457.jpg' alt='Female with long brown hair wearing a mirror sequin strapless gown and black train, on the red carpet, with photographers behind her.' width='620' height='349' title='CANNES, FRANCE - MAY 13: Eva Longoria attends the red carpet for the opening ceremony and &quot;Partir Un Jour&quot; (Leave One Day) screening at the 78th annual Cannes Film Festival at Palais des Festivals on May 13, 2025 in Cannes, France. '/><p>The 78th Cannes film festival got underway Tuesday, kicking off two weeks of French Riviera frenzy with filmmakers and stars walking the red carpet for the opening ceremony and the screening of the film Partir un jour.  </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/photos/in-photos-at-cannes-film-festival-on-day-1-1.7533821?cmp=rss>
 
 ---
 
@@ -373,11 +942,11 @@ Women’s organisations operating in crisis settings are being pushed to the bri
 
 ---
 
-## GAZA LIVE: 'Humanity, the law and reason must prevail' in Gaza, UN relief chief tells Security Council
+## GAZA LIVE: ‘Humanity, the law and reason must prevail’ in Gaza, UN relief chief tells Security Council
 
 date: 2025-05-13, from: United Nations, Top Stories
 
-The Security Council is meeting in New York to discuss the horror of Gaza, where humanitarians warn of “a critical risk of famine” and aid shipments have been blocked by Israel for over 70 days. UN relief chief Tom Fletcher briefed the Security Council, asking ambassadors if they will act decisively "to prevent genocide" and ensure respect for international law. He also called on Hamas to release all hostages and stop putting civilians at risk. Follow live for key updates from UN Headquarters and reports from the region. App users can follow coverage here. 
+The Security Council met in New York to discuss the horror unfolding in Gaza, where humanitarians warn of “a critical risk of famine” and aid shipments have been blocked by Israel for over 70 days. UN relief chief Tom Fletcher briefed the Security Council, asking ambassadors if they will finally act decisively "to prevent genocide" and ensure respect for international law. He also called on Hamas to release all hostages and stop putting civilians at risk. App users can follow the coverage here. 
 
 <br> 
 
@@ -430,6 +999,18 @@ In the aid desert of Gaza, malnourished children are dying while survivors can n
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163166>
+
+---
+
+## ‘Stop the 21st century atrocity’ in Gaza, Fletcher urges UN Security Council
+
+date: 2025-05-13, from: United Nations, Top Stories
+
+No aid has entered Gaza for more than 10 weeks and every single one of the 2.1 million people there faces famine conditions, the UN Emergency Relief Coordinator Tom Fletcher said on Tuesday in a briefing to the Security Council in New York. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163206>
 
 ---
 
@@ -521,11 +1102,11 @@ The Government has announced an additional €30m in funding and an extension to
 
 ---
 
-## Zelensky insists on face-to-face talks with Putin
+## Zelensky urges Trump to make Putin meeting happen
 
 date: 2025-05-13, from: RTÉ News
 
-Ukrainian President Volodymyr Zelensky has said he would attend talks with Russia on the war in Ukraine this week only if Russia's Vladimir Putin is also there, and goaded him by claiming the Russian president was scared to meet him face-to-face. 
+Ukraine's President Volodymyr Zelensky has urged US counterpart Donald Trump to help secure a meeting with Vladimir Putin in Turkey on Thursday, while accusing the Russian leader of not seriously wanting to end the war. 
 
 <br> 
 

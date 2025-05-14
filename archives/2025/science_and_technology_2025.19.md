@@ -1,11 +1,299 @@
 ---
 title: science and technology
-updated: 2025-05-13 14:07:46
+updated: 2025-05-14 06:07:42
 ---
 
 # science and technology
 
-(date: 2025-05-13 14:07:46)
+(date: 2025-05-14 06:07:42)
+
+---
+
+## Go ahead and ignore Patch Tuesday – it might improve your security
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>No rush, according to Gartner chap who says: &#39;Nobody has ever out-patched threat actors at scale&#39;</h4> <p>Patch Tuesday has <a target="_blank" rel="nofollow" href="https://www.theregister.com/2025/05/14/patch_tuesday_may/">rolled around again</a>, but if you don&#39;t rush to implement the feast of fixes it delivered, your security won&#39;t be any worse off in the short term – and may improve in the future.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/improve_patching_strategies/>
+
+---
+
+## NASA Glenn Showcases Stirling Engine Technology at Piston Powered Auto-Rama
+
+date: 2025-05-14, from: NASA breaking news
+
+NASA Glenn Research Center’s work in power and propulsion was on full display at the Piston Powered Auto-Rama at the I-X Center in Cleveland, March 28-30. The event is the largest indoor showcase of cars, trucks, motorcycles, tractors, and other engine-powered vehicles.&#160; Center staff introduced guests to NASA’s Stirling engine technology, a free-piston Stirling power [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-showcases-stirling-engine-technology-at-piston-powered-auto-rama/>
+
+---
+
+## NASA Glenn Engineer Highlights Research for Hubble Servicing Missions
+
+date: 2025-05-14, from: NASA breaking news
+
+April 24 marked the 35th anniversary of the launch of NASA&#8217;s Hubble Space Telescope. The iconic space observatory remains a household name —the most well-recognized and scientifically productive telescope in history. Engineers at NASA&#8217;s Glenn Research Center in Cleveland played a significant role in how the telescope functions today.&#160;&#160; NASA Glenn researchers assisted in all [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-engineer-highlights-research-for-hubble-servicing-missions/>
+
+---
+
+## NASA Glenn Hosts Slovenian Delegation and Ohio Governor’s Office
+
+date: 2025-05-14, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland hosted a delegation of Slovenian government officials and representatives from the Ohio Governor’s Office on April 11. NASA Glenn leadership provided the group with an overview of the center’s vital role within the agency. The delegation also visited key space-related and aeronautics facilities, including tours of the Zero Gravity [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-hosts-slovenian-delegation-and-ohio-governors-office/>
+
+---
+
+## Specialty NASA Glenn License Plates Available
+
+date: 2025-05-14, from: NASA breaking news
+
+Ohio residents can now take their vehicle to new heights with a specialty license plate showcasing NASA’s Glenn Research Center in Cleveland.&#160; It is available on the Ohio Bureau of Motor Vehicles (BMV) website under the “Special Interest Plates” section. Click the “Organizational Plates” drop-down tab for details on NASA Glenn’s plate.&#160; The Ohio BMV will collect [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/specialty-nasa-glenn-license-plates-available/>
+
+---
+
+## NASA Glenn Shows Students Temperature-Cooling Technology
+
+date: 2025-05-14, from: NASA breaking news
+
+Water is essential for life, and it is an important engineering tool as well. On March 21, NASA’s Glenn Research Center staff joined Great Lakes Science Center in celebrating World Water Day at the science center, home of the NASA Glenn Visitor Center, in downtown Cleveland. Staff conducted hands-on demonstrations highlighting NASA’s Liquid Cooling and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shows-students-temperature-cooling-technology/>
+
+---
+
+## NASA Glenn Champions FIRST Robotics Competition Buckeye Regional
+
+date: 2025-05-14, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland supported the 26th annual FIRST Robotics Competition Buckeye Regional, April 3-6, at Cleveland State University’s Wolstein Center. This international engineering design challenge combines the excitement of sports with the rigors of STEM.&#160; NASA Glenn Center Director Dr. Jimmy Kenyon helped kick off this year’s event by addressing the student [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-champions-first-robotics-competition-buckeye-regional/>
+
+---
+
+## Webb’s Titan Forecast: Partly Cloudy With Occasional Methane Showers
+
+date: 2025-05-14, from: NASA breaking news
+
+Saturn’s moon Titan is an intriguing world cloaked in a yellowish, smoggy haze. Similar to Earth, the atmosphere is mostly nitrogen and has weather, including clouds and rain. Unlike Earth, whose weather is driven by evaporating and condensing water, frigid Titan has a methane cycle. NASA’s James Webb Space Telescope, supplemented with images from the […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/webbs-titan-forecast-partly-cloudy-with-occasional-methane-showers/>
+
+---
+
+## Europe plots escape hatch from the enshittification of search
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Plus: How to make Google less unhelpful</h4> <p>As search engines are intentionally made worse, and software grows ever bigger and more complex, a possibly unexpected ally emerges: the European Union.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/openwebsearch_eu/>
+
+---
+
+## C-suite at Alphabet make B-A-N-K from 2024 equity awards
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>CEO Pichai slumming it on a measly $10.725M compared to lieutenants</h4> <p>The C-suite at Google&#39;s parent Alphabet collectively scooped up more than $215 million in compensation for 2024, and the CEO was the worst paid among them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/alphabet_exec_pay_2024/>
+
+---
+
+## Everyone's deploying AI, but no one's securing it – what could go wrong?
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Crickets as senior security folk asked about risks at NCSC conference</h4> <p><strong>CYBERUK</strong>  Peter Garraghan – CEO of Mindgard and professor of distributed systems at Lancaster University – asked the CYBERUK audience for a show of hands: how many had banned generative AI in their organizations? Three hands went up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/cyberuk_ai_deployment_risks/>
+
+---
+
+## Post Office finally throttles delayed in-house EPOS project
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Troubled state biz tenders £410M software and DC-to-cloud migration plan, goodbye to Fujitsu on the Horizon</h4> <p>The UK Post Office has confirmed it is ending in-house efforts to replace the troubled Horizon accounting and point of sale system as it launches a £410 million (c $540 million) procurement for alternative suppliers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/post_office_horizon_support/>
+
+---
+
+## EuroHPC lines up AI upgrade for Leonardo supercomputer
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>And it&#39;s Eviden who has no reason to moan over LISA upgrade - though questions over funding remain</h4> <p><strong>Updated</strong>  Italy&#39;s Leonardo supercomputer is to get an AI upgrade to beef up support for the development of Large Language Models (LLMs) and multi-modal generative AI, in addition to the 13 AI factories now being procured around the EU.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/eurohpc_inks_deal_for_ai/>
+
+---
+
+## Ransomware scum have put a target on the no man's land between IT and operations
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Defenses are weaker, and victims are more likely to pay, SANS warns</h4> <p>Criminals who attempt to damage critical infrastructure are increasingly targeting the systems that sit between IT and operational tech.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/ransomware_targets_middle_systems_sans/>
+
+---
+
+## US tech titans rejoice in $600B Saudi shopping spree
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Prince Mohammed bin Bone Saw will take a few hundred thousand GPUs with his missiles and fighter jets</h4> <p>The Saudi government on Tuesday announced a massive $600 billion investment in US defense, transportation, energy, and IT infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/saudi_spending_spree/>
+
+---
+
+## Sols 4539-4540: Back After a Productive Weekend Plan
+
+date: 2025-05-14, from: NASA breaking news
+
+Written by Scott VanBommel, Planetary Scientist at Washington University Earth planning date: Monday, May 12, 2025 Curiosity was back to work Monday, picking up where it left off from Friday’s plan. Tosol’s plan started with an APXS analysis on the target “Jeffrey Pine,” though the DRT was kept on the sidelines this time. Curiosity then […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4539-4540-back-after-a-productive-weekend-plan/>
+
+---
+
+## Sols 4536-4538: Dusty Martian Magnets
+
+date: 2025-05-14, from: NASA breaking news
+
+Written by Remington Free, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, May 9, 2025 I was on downlink today for SA-SPaH, our robotic arm team. We successfully completed a number of fun arm activities, including a DRT brushing and APXS observations of a bedrock target, and also completed a traverse […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4536-4538-dusty-martian-magnets/>
+
+---
+
+## Apple patched one first, but Microsoft’s blasted five exploited flaws this Pa-Tu
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Plus: All the fun and frolic of fixes from Adobe, SAP, Ivanti</h4> <p><strong>Patch Tuesday</strong>  It&#39;s that time of the month again, and Microsoft has made it extra spicy by revealing five flaws it says are under active exploitation – but rates as important rather than critical fixes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/patch_tuesday_may/>
+
+---
+
+## NSF director memo to staff: Don't worry about those job cuts, at least for now
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Court orders halt to layoffs – as folks steering American innovation wonder how long injunction will last</h4> <p>Employees at Uncle Sam&#39;s National Science Foundation (NSF) are relieved that the Trump administration&#39;s plan to downsize the federal government collided with the US court system on Friday – but they&#39;re worried that the relief is only temporary.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/national_science_foundation_memo/>
+
+---
+
+## Trump ends Biden-era dream to cap US AI chip exports
+
+date: 2025-05-13, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Ding dong, diffusion is dead</h4> <p>Biden&#39;s controversial AI Diffusion rules, which were set to restrict the sale of American GPUs and AI accelerators beginning this week, are officially dead.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/trump_ai_exports/>
+
+---
+
+## Hi-Rate Composite Aircraft Manufacturing Project 2025 Spring Review
+
+date: 2025-05-13, from: NASA breaking news
+
+NASA and its partners in the Advanced Composites Consortium gathered at the agency’s Langley Research Center in Hampton, Virginia, on April 29-May 1, 2025. Team members from 22 organizations in the public-private partnership are collaborating to increase the production rate of composite aircraft, reduce costs, and improve performance. The team discussed results from the Technology [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/aavp/hicam/composite-aircraft-2025/>
+
+---
+
+## Microsoft blinks, extends Office support for Windows 10 by three years
+
+date: 2025-05-13, from: OS News
+
+At the start of this year, Microsoft announced that, alongside the end of support for Windows 10, it would also end support for Office 365 (it&#8217;s called Microsoft 365 now but that makes no sense to me) on Windows 10 around the same time. The various Office applications would continue to work on Windows 10, of course, but would no longer receive bug fixes, security plugs, and so on. Well, it seems Microsoft experienced some pushback on this one, because it just extended this end-of-support deadline for Office 365 on Windows 10 by an additional three years. To help maintain security while you transition to Windows 11, Microsoft will continue providing security updates for Microsoft 365 Apps on Windows 10 for three years after Windows 10 reaches end of support. These updates will be delivered through the standard update channels, ending on October 10, 2028. ↫ Microsoft support article The reality is that the vast majority of Windows users are still using Windows 10, and despite countless shady shenanigans and promises of &#8220;AI&#8221; bliss, there&#8217;s relatively little movement in the breakdown between Windows 10 and Windows 11 users. As such, the idea that Microsoft would just stop fixing security issues and bugs in Office on Windows 10 a few months from now seemed preposterous from the outset, and that seems to have penetrated the walls of Microsoft&#8217;s executives, too. The real question now is: will Microsoft extend the same courtesy to Windows 10 itself? The clock is ticking, there&#8217;s only a few months left to go before support for Windows 10 ends, leaving 60-70% of Windows users without security fixes and updates. If they blinked with Office, why wouldn&#8217;t they blink with Windows 10, too? Who dares to place a bet? 
+
+<br> 
+
+<https://www.osnews.com/story/142351/microsoft-blinks-extends-office-support-for-windows-10-by-three-years/>
+
+---
+
+## Cracking the Dave & Buster’s anomaly
+
+date: 2025-05-13, from: OS News
+
+Let&#8217;s dive into a peculiar bug in iOS. And by that I mean, let&#8217;s follow along as Guilherme Rambo dives into a peculiar bug in iOS. The bug is that, if you try to send an audio message using the Messages app to someone who’s also using the Messages app, and that message happens to include the name “Dave and Buster’s”, the message will never be received. ↫ Guilherme Rambo As I read this first description of the bug, I had no idea what could possibly be causing this. However, once Rambo explained that every audio message is transcribed by Apple into a text version, I immediately assumed what was going on: that &#8220;and&#8221; is throwing up problems because the actual name of the brand is stylised with an ampersand, isn&#8217;t it? It&#8217;s always DNS HTML, isn&#8217;t it? Yes. Yes it is. MessagesBlastDoorService uses MBDXMLParserContext (via MBDHTMLToSuperParserContext) to parse XHTML for the audio message. Ampersands have special meaning in XML/HTML and must be escaped, so the correct way to represent the transcription in HTML would have been "Dave &#38;amp;amp; Buster's". Apple&#8217;s transcription system is not doing that, causing the parser to attempt to detect a special code after the ampersand, and since there&#8217;s no valid special code nor semicolon terminating what it thinks is an HTML entity, it detects an error and stops parsing the content. ↫ Guilherme Rambo It must be somewhat of a relief to programmers and developers the world over that even a company as large and filled with talented people as Apple can run into bugs like this. 
+
+<br> 
+
+<https://www.osnews.com/story/142349/cracking-the-dave-busters-anomaly/>
+
+---
+
+## Intel's data-leaking Spectre defenses scared off yet again
+
+date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+
+<h4>ETH Zurich boffins exploit branch prediction race condition to steal info from memory, fixes have mild perf hit</h4> <p>Researchers at ETH Zurich in Switzerland have found a way around Intel&#39;s defenses against Spectre, a family of data-leaking flaws in the x86 giant&#39;s processor designs that simply won&#39;t die.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/13/intel_spectre_race_condition/>
 
 ---
 
@@ -179,7 +467,7 @@ date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
 
 ## AMD is Ryzen to the SMB occasion with a bundle of baby Epycs
 
-date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+date: 2025-05-13, updated: 2025-05-14, from: The Register (UK I.T. News)
 
 <h4>The House of Zen’s low-end enterprise strategy is badge engineering at its best</h4> <p>AMD on Tuesday revealed its latest chips to get a Zen 5 refresh with the launch of its itty bitty Epyc 4005-series CPUs.…</p> 
 
@@ -287,7 +575,7 @@ date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
 
 ## OpenAI wants to build a subscription for something like an AI OS, with SDKs and APIs and 'surfaces'
 
-date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+date: 2025-05-13, updated: 2025-05-14, from: The Register (UK I.T. News)
 
 <h4>CEO Sam Altman has no master plan but imagines custom models built on everything you’ve ever said or read</h4> <p>OpenAI CEO Sam Altman says his company doesn’t have a master plan but does hope to develop a product that’s akin to a subscription operating system, but for AI, and models that ingest every experience you have in your life…</p> 
 
@@ -431,9 +719,9 @@ JunoCam, the visible light imager aboard NASA&#8217;s Juno spacecraft, captured 
 
 ## CISA mutes own website, shifts routine cyber alerts to Musk’s X, RSS, email
 
-date: 2025-05-12, updated: 2025-05-12, from: The Register (UK I.T. News)
+date: 2025-05-12, updated: 2025-05-13, from: The Register (UK I.T. News)
 
-<h4>Cripes, we were only joking when we called Elon&#39;s social network the new state media</h4> <p>The US government&#39;s Cybersecurity and Infrastructure Security Agency (CISA) announced Monday that going forward, only urgent alerts tied to emerging threats or major cyber activity will appear on its website. Routine updates, guidance, and other notifications will instead be shared via email, RSS, and X.…</p> 
+<h4>Cripes, we were only joking when we called Elon&#39;s social network the new state media</h4> <p><strong>Updated</strong>  The US government&#39;s Cybersecurity and Infrastructure Security Agency (CISA) announced Monday that going forward, only urgent alerts tied to emerging threats or major cyber activity will appear on its website. Routine updates, guidance, and other notifications will instead be shared via email, RSS, and X.…</p> 
 
 <br> 
 
