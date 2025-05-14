@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-05-14 06:07:44
+updated: 2025-05-14 14:08:10
 ---
 
 # games
 
-(date: 2025-05-14 06:07:44)
+(date: 2025-05-14 14:08:10)
+
+---
+
+## The Final Reckoning hits Mission: Impossible’s highest highs and lowest lows
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+I never thought I’d see the day when Tom Cruise didn’t stick the landing, but here we are. Mission: Impossible — The Final Reckoning, the second half of the story launched in 2023’s Mission: Impossible —&#160;Dead Reckoning Part One, is a high-wire act gone horribly wrong. The stunts are stunning, as you’d be right to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/599224/mission-impossible-final-reckoning-review>
+
+---
+
+## Play Indiana Jones or Lara Croft in the new TTRPG Outgunned Adventure
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+Last year, Italian games studio Two Little Mice struck a deal to have Swedish tabletop publisher Free League distribute the Ennie-winning game Outgunned, which lets gaming groups play out heist or action movies like Ocean’s Eleven and Mission: Impossible. As part of that deal, Free League just released the first book in Outgunned’s genre line, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/599075/indiana-jones-lara-croft-outgunned-adventure-ttrpg-recommended>
+
+---
+
+## Minecraft finally adds saddles as a crafting item, and it&#8217;s only been 15 years
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+In the Minecraft universe, saddles were essentially an ancient technology whose recipe was lost to time. Nobody knew how to craft them. However, that’s all about to change with craftable saddles added into Minecraft’s upcoming Summer Drop 2025. They can be experienced now in Minecraft’s test realms (Java snapshot and Bedrock’s beta and preview). Just [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/599197/minecraft-craftable-saddles-update>
+
+---
+
+## How to get all endings in Clair Obscur: Expedition 33
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+There are multiple endings in Clair Obscur: Expedition 33, but full stop, before you get too hopeful, there’s no “good” ending. Following dozens of hours of parries, jumps, and gradient counters, you’ll return to Lumiere. This leads to an epic final clash (against someone you can likely predict but who we won’t spoil), after which [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/599159/endings-all-how-to-get-true-ending>
+
+---
+
+## How to evolve Bisharp into Kingambit in Pokémon Go
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+Those looking to evolve their Bisharp into Kingambit in Pokémon Go can finally do so, though you’ll need to complete a bunch of raids first. Originally introduced in Pokémon Scarlet and Violet, Kingambit had a unique evolution method in the mainline game. You typically need to defeat three other Bisharp that are holding the Leader’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/598669/evolve-bisharp-into-kingambit-buddy-pawniard>
+
+---
+
+## The Pokémon Fossil Museum is coming to the US, you’re gonna want to get tickets
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+The Pokémon Fossil Museum, a Japanese exhibition that pairs man-made Pokémon fossils with real-world ancient life forms, will make its international debut at Chicago’s Field Museum in 2026, the museum and The Pokémon Company International announced Wednesday. Younger fans who started their adventure in Paldea and OG Kanto fans alike can view real dinosaurs and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599200/pokemon-fossil-museum-chicago-field-2026>
+
+---
+
+## Pokémon Go ‘Crown Clash Taken Over’ Special Research and event guide
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+The evil part of Pokémon Go’s ongoing “Crown Clash” event has begun. “Crown Clash: Taken Over” brings the stuff that the usual “take over” events do: Team Rocket Leader and Giovanni line-up changes, new Shadow Pokémon, and a new set of research to earn a Super Rocket Radar (and thus take on Giovanni). This part [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/599151/crown-clash-taken-over-team-go-rocket-event>
+
+---
+
+## D&#038;D Beyond is getting Crooked Moon, the biggest ever 5e Kickstarter hit
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+Dungeons &#38; Dragons has been working to integrate some of the biggest third-party publishers of 5E content into its D&#38;D Beyond digital ecosystem, making it easier for Dungeon Masters to keep track of all their books, and allowing players to incorporate unofficial classes, feats, and spells into their virtual character sheets. D&#38;D Beyond incorporated Ruins [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/599070/dnd-beyond-crooked-moon-5e-preorder>
+
+---
+
+## Mortal Kombat 1 Definitive Edition launches today, includes all DLC
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+Get over here because Mortal Kombat 1: Definitive Edition launches today, allowing you to grab everything NetherRealm Studios’ latest fighting game has to offer in one package. For $69.99, Mortal Kombat 1: Definitive Edition includes the base game and all of its DLC. Like previous MKs, Mortal Kombat 1 has received plenty of DLC, whether [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599189/mortal-kombat-1-definitive-edition-launches-today-includes-all-dlc>
+
+---
+
+## How to upgrade health in Doom: The Dark Ages
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+Upgrading your health is arguably the single most important thing for your survival in Doom: The Dark Ages. To make it through all the challenges entailed by fighting demons with minimal suffering, improving your health could mean the difference between life and death. And you can considerably improve your chance of staying alive if you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find>
 
 ---
 
@@ -210,18 +330,6 @@ Pokémon Go is running a royal-themed event, “Crown Clash,” that started May
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/598654/crown-clash-event-collection-challenge-nidoking-nidoqueen>
-
----
-
-## How to evolve Bisharp into Kingambit in Pokémon Go
-
-date: 2025-05-12, updated: 2025-05-12, from: Polygon Website
-
-Those looking to evolve their Bisharp into Kingambit in Pokémon Go can finally do so, though you’ll need to complete a bunch of raids first. Originally introduced in Pokémon Scarlet and Violet, Kingambit had a unique evolution method in the mainline game. You typically need to defeat three other Bisharp that are holding the Leader’s [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/598669/evolve-bisharp-into-kingambit-buddy-pawniard>
 
 ---
 

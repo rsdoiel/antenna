@@ -1,11 +1,307 @@
 ---
 title: planet
-updated: 2025-05-14 06:07:37
+updated: 2025-05-14 14:08:04
 ---
 
 # planet
 
-(date: 2025-05-14 06:07:37)
+(date: 2025-05-14 14:08:04)
+
+---
+
+## Fire at apartment complex in north Dublin
+
+date: 2025-05-14, from: RTÉ News
+
+Firefighters and emergency services are at the scene of a fire in an apartment block in north Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512928-santry-fire/>
+
+---
+
+## Victim recognised sex offender from Late Late Show appeal
+
+date: 2025-05-14, from: RTÉ News
+
+A sex offender who was jailed for two years yesterday for indecently assaulting three boys in Dublin was recognised by one of the victims when he appeared on television, dressed in daffodils, as part of a fundraiser for the Irish Cancer Society. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512927-james-gilleran-court/>
+
+---
+
+## Harris: Up to ten people to be seconded to housing office
+
+date: 2025-05-14, from: RTÉ News
+
+The Tánaiste said he expects up to ten people, from various State agencies, to be seconded to the new Housing Activation Office. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512919-housing-activation-office-staff/>
+
+---
+
+## Solicitor hopes case against Gemma O'Doherty can proceed
+
+date: 2025-05-14, from: RTÉ News
+
+The solicitor representing a bereaved mother who is suing former journalist Gemma O'Doherty has said he hopes the case can now proceed to a full hearing following a recent High Court judgment. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0514/1512908-courts-o-doherty/>
+
+---
+
+## Girl, 2, in Venezuela after US separates her from parents
+
+date: 2025-05-14, from: RTÉ News
+
+A two-year-old girl separated in the US from her Venezuelan parents, who were deported without her, has arrived in Caracas after her separation from her family caused an outcry. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512901-deportation-case-us/>
+
+---
+
+## UNIFIL reports Israeli fire near its peacekeeping post
+
+date: 2025-05-14, from: RTÉ News
+
+The UN Interim Force in Lebanon (UNIFIL) said that direct fire from the Israeli army had hit the perimeter of one of its peacekeeping positions in south Lebanon. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512903-unifil-israel-latest/>
+
+---
+
+## Study: Phone use on toilet increases risk of haemorrhoids
+
+date: 2025-05-14, from: RTÉ News
+
+A new scientific study has found that using smartphones on the toilet increases the risk of haemorrhoids. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0514/1512896-smartphones-health/>
+
+---
+
+## Cardinal Parolin: We hope talks in Istanbul open paths to peace
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>On the sidelines of an event on Ukraine at the Pontifical Gregorian University, Cardinal Secretary of State Pietro Parolin speaks about the direct negotiations starting Thursday in Türkiye, saying, “We hope this is a serious starting point to end the war."</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-parolin-we-hope-talks-in-istanbul-open-paths-to-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-parolin-we-hope-talks-in-istanbul-open-paths-to-peace.html>
+
+---
+
+## Cost-cutting IRFU axes men's Sevens programme
+
+date: 2025-05-14, from: RTÉ News
+
+The IRFU has confirmed that the men's rugby Sevens programme is to cease but that the women's game will continue in its current guise. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0514/1512873-cost-cutting-irfu-axe-mens-sevens-programme/>
+
+---
+
+## Substation pinpointed as ground zero for Spain blackout
+
+date: 2025-05-14, from: RTÉ News
+
+An abrupt loss of power generation at a substation in Granada, followed by failures seconds later in Badajoz and Seville, triggered an unprecedented blackout across Spain and Portugal last month, Spain's energy minister has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512897-spain-portugal-blackouts/>
+
+---
+
+## Prophets & Losses: Ongoing challenges at Vatican Bank
+
+date: 2025-05-14, from: RTÉ News
+
+The Vatican Bank was shrouded in mystery and controversy for decades - and problems remain, even after a decade of reforms under Pope Francis, writes Adam Maguire. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0514/1512888-vatican-bank-reform/>
+
+---
+
+## SIPO to investigate comments by Independent Ireland TD
+
+date: 2025-05-14, from: RTÉ News
+
+The Standards in Public Office Commission is to carry out an investigation into Independent Ireland TD Ken O'Flynn following a complaint about comments he made when he was a Cork City councillor. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0514/1512898-ken-oflynn/>
+
+---
+
+## Woman given suspended sentence for cruelty to daughters
+
+date: 2025-05-14, from: RTÉ News
+
+A 41-year-old woman who pleaded guilty to two counts of cruelty and who stayed with her violent partner even after he grabbed one of her two young daughters by the throat and hit her head on kitchen tiles, has received a two-and-a-half-year suspended sentence. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0514/1512880-woman-cruelty-cork/>
+
+---
+
+## Mother handed wrong newborn settles High Court action
+
+date: 2025-05-14, from: RTÉ News
+
+A woman has settled a High Court legal action against the HSE over being handed the wrong newborn baby at Cork University Hospital four years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0514/1512891-cork-university-hospital/>
+
+---
+
+## Leinster camogie finals to go ahead 'under protest'
+
+date: 2025-05-14, from: RTÉ News
+
+Saturday's Leinster camogie finals are to go ahead as planned, with the players from the four teams involved intending to wear shorts in protest against the ongoing skorts controversy, but also willing to change into skorts if directed to do so by the referee. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0514/1512857-leinster-camogie-final-going-ahead-kilkenny-to-protest/>
+
+---
+
+## Driving test wait times won't exceed 10 weeks - minister
+
+date: 2025-05-14, from: RTÉ News
+
+A Government minister has insisted driving test waiting times will not exceed 10 weeks by this autumn, amid Opposition criticism some people are waiting up to 43 weeks to undergo the tests. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0514/1512879-driving-test-wait-times/>
+
+---
+
+## Israel causing 'humanitarian catastrophe' in Gaza - MSF
+
+date: 2025-05-14, from: RTÉ News
+
+Doctors Without Borders - Médecins Sans Frontières - has criticised Israel for creating a "deliberate humanitarian catastrophe" in Gaza and accused it of trying to make aid conditional on forced displacement of Palestinians. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0514/1512874-msf-gaza-aid/>
+
+---
+
+## Woman escapes botched kidnapping in Paris
+
+date: 2025-05-14, from: RTÉ News
+
+French prosecutors are investigating after a masked gang attempted to kidnap the daughter of a crypto businessman in Paris in what is at least the third violent attack targeting wealthy crypto players and their families in recent months. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512856-paris-attempted-kidnapping/>
+
+---
+
+## Woman accused of setting Dublin bus on fire granted bail
+
+date: 2025-05-14, from: RTÉ News
+
+A woman accused of setting fire to a Dublin Bus, at a cost of almost €500,000, during the November 2023 riots has been granted bail. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0514/1512850-bus-courts/>
+
+---
+
+## CAB puts home of convicted armed robber up for sale
+
+date: 2025-05-14, from: RTÉ News
+
+The Criminal Assets Bureau has put the home of a convicted cash-in-transit armed robber up for sale for an asking price of at least €345,000. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512848-cab-house/>
+
+---
+
+## Blackgrass designated as noxious weed for first time
+
+date: 2025-05-14, from: RTÉ News
+
+Blackgrass, an annual grass that is non-native to Ireland, has been designated as a noxious weed for the first time. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0514/1512844-blackgrass-weed/>
+
+---
+
+## UNRWA makes urgent appeal for immediate end to Gaza siege
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>Juliette Touma, UNRWA's Director of Communications highlights the worsening humanitarian crisis in Gaza and urges the international community to do “everything possible” to reach a ceasefire and ensure the delivery of aid.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/communication-director-unrwa-interview-gaza-peace-14-may.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/communication-director-unrwa-interview-gaza-peace-14-may.html>
+
+---
+
+## No specific cost of living package in budget - Taoiseach
+
+date: 2025-05-14, from: RTÉ News
+
+The Taoiseach has again ruled out a specific cost of living package in the next budget but promised that Government would seek to reduce cost pressures on families. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0514/1512842-cost-of-living-dail/>
+
+---
+
+## Combs' ex-girlfriend says he used videos to blackmail her
+
+date: 2025-05-14, from: RTÉ News
+
+Sean "Diddy" Combs' ex-girlfriend Casandra Ventura has testified that the hip-hop mogul beat her during drug-fueled sex parties known as "freak offs" and threatened to release videos of her taking part. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0514/1512840-sean-combs-latest/>
 
 ---
 
@@ -21,11 +317,27 @@ The World Health Organization has reduced its management team by half and will h
 
 ---
 
-## Satchwell told gardaí wife's death happened in a flash
+## Holy See reaffirms commitment and support to stop child labor
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>In his address during the interactive dialogue entitled “On Childhood With Dignity”, the Permanent Observer of the Holy See to the United Nations, Archbishop Gabriele Caccia, cited Pope Leo XIII’s encyclical "Rerum Novarum" in reaffirming every child’s right to grow through education and opportunities “to thrive and contribute meaningfully to society.”</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/holy-see-reaffirms-commitment-and-support-to-stop-child-labor.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/holy-see-reaffirms-commitment-and-support-to-stop-child-labor.html>
+
+---
+
+## Satchwell told gardaí wife's killing was not premeditated
 
 date: 2025-05-14, from: RTÉ News
 
-Richard Satchwell told gardaí he could not remember the details of how his wife, Tina, died because it all happened in a flash. 
+Richard Satchwell told gardaí the killing of his wife, Tina in 2017, was not calculated or premeditated. 
 
 <br> 
 
@@ -45,15 +357,51 @@ A BBC journalist has told the High Court she took the utmost care to corroborate
 
 ---
 
-## Govt expects review of hip surgeries in coming days
+## Over 2,200 letters sent to parents over hip surgeries
 
 date: 2025-05-14, from: RTÉ News
 
-The Taoiseach said the Government hopes to receive the clinical review of hip surgeries on children at two Dublin hospitals by the end of next week. 
+More than 2,200 letters have been sent to parents of children who had dysplasia of the hip surgery offering routine follow-up appointments. 
 
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0514/1512817-hip-surgeries-latest/>
+
+---
+
+## In Berlin, broad backing for UN peacekeeping as global threats mount
+
+date: 2025-05-14, from: United Nations, UN Affairs
+
+More than 130 countries and international partners threw their weight behind UN peacekeeping at a high-level ministerial summit in Berlin on Wednesday, pledging military, tech and political support. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163246>
+
+---
+
+## US-Houthi ceasefire ‘a welcome opportunity’ to advance peace efforts in Yemen
+
+date: 2025-05-14, from: United Nations, Top Stories
+
+The ceasefire between the United States and Houthi rebels in Yemen provides an opportunity to revitalize the peace process in the Middle Eastern country, the UN Security Council heard on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163231>
+
+---
+
+## World News in Brief: Sudan refugees, aid for Syrian returnees, MERS alert in Saudi Arabia, Venezuela urged to end secret detentions
+
+date: 2025-05-14, from: United Nations, Top Stories
+
+More than 40,000 Sudanese have fled to eastern Chad in the past month to escape intensifying violence in Darfur. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163216>
 
 ---
 
@@ -89,11 +437,11 @@ date: 2025-05-14, from: Vatican News
 
 ---
 
-## Satchwell advertised freezer he stored wife's body in
+## As it happened: Court shown Satchwell garda interviews
 
 date: 2025-05-14, from: RTÉ News
 
-Follow live updates from the Central Criminal Court in the trial of Richard Satchwell, who is accused of the murder of his wife Tina in March 2017. 
+Day 10 at the Central Criminal Court in the trial of Richard Satchwell, who is accused of the murder of his wife Tina in March 2017. 
 
 <br> 
 
@@ -166,11 +514,23 @@ Three Ukrainians have been arrested for their suspected involvement in the shipm
 
 ---
 
-## Merz calls for western unity on Ukraine on eve of talks
+## Head of Russia's only independent election watchdog receives 5-year prison sentence
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534540.1747228126!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/russia-court-golos.JPG' alt='A handcuffed man waves through a window. ' width='620' height='349' title='Grigory Melkonyants, the co-chair of Russia&apos;s election monitoring group Golos, who has been sentenced to five years in a penal colony, reacts inside an enclosure for defendants during a court hearing in Moscow on Wednesday.      '/><p>Russia has sentenced Grigory Melkonyants, co-chair of independent election watchdog Golos, to five years in a penal colony.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-golos-jailed-1.7534531?cmp=rss>
+
+---
+
+## Trump not attending talks as Putin not among delegation
 
 date: 2025-05-14, from: RTÉ News
 
-German Chancellor Friedrich Merz urged the West not to be divided on Ukraine and said he was working to ensure unity between allies in Europe and the United States on how to end the war. 
+US President Donald Trump is not going to Turkey tomorrow to join talks between Russia and Ukraine aimed ending the war, a US official has said. 
 
 <br> 
 
@@ -298,7 +658,7 @@ US President Donald Trump has met Syria's president in Saudi Arabia and urged hi
 
 ---
 
-## Trump meets with Syria's president Sharaa at Saudi royal palace
+## Trump meets with Syrian president Sharaa, who once fought U.S. troops
 
 date: 2025-05-14, from: CBC, World News
 
@@ -338,11 +698,27 @@ date: 2025-05-14, from: CBC, World News
 
 ---
 
-## Gardaí issue warning over misinformation on fatal crash
+## Ten years of Laudato Si’ as 200 universities gather in Rio for COP30
+
+date: 2025-05-14, from: Vatican News
+
+
+                    <p>The goal of the gathering is to promote a synodal proposal that encourages listening, collective discernment, and concrete action in response to the socio-environmental crisis.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/ten-years-of-laudato-si-as-200-universities-gather-in-rio-cop30.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/ten-years-of-laudato-si-as-200-universities-gather-in-rio-cop30.html>
+
+---
+
+## Garda crash misinformation online despite removal request
 
 date: 2025-05-14, from: RTÉ News
 
-Gardaí have issued a warning over content on social media regarding a road incident in Dublin at the weekend in which a garda was killed. 
+Misinformation surrounding the death of Garda Kevin Flatley remains on social media platforms despite attempts to have it removed, gardaí say. 
 
 <br> 
 
@@ -410,11 +786,11 @@ The United States and China have slashed sweeping tariffs on each others' goods 
 
 ---
 
-## Gaza medics say 70 dead as Israel intensifies bombardment
+## Gaza rescuers say 80 killed in Israeli strikes amid talks
 
 date: 2025-05-14, from: RTÉ News
 
-At least 70 people have been killed in Israeli military strikes across Gaza, the Hamas-run health ministry said, in an intensification of the bombardment as US President Donald Trump visits the Middle East. 
+Gaza rescuers said at least 80 people have been killed in Israeli bombardment across the Palestinian territory, as Israeli Prime Minister Benjamin Netanyahu spoke to US envoy Steve Witkoff about the release of hostages. 
 
 <br> 
 
@@ -455,6 +831,18 @@ date: 2025-05-14, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/hong-kong-us-china-trade-war-1.7533424?cmp=rss>
+
+---
+
+## Pikangikum First Nation takes federal government to court over lack of water, wastewater infrastructure
+
+date: 2025-05-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7533810.1747159281!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pikangikum-first-nation.jpg' alt='A wide shot of a street in a remote First Nation.' width='620' height='349' title='Pikangikum First Nation is seen in this June 2023 file photo. About 4,000 people live in the remote Ojibway community and the population is growing.'/><p>Pikangikum First Nation is seeking $2 billion in damages from the federal government over ongoing challenges with its water and wastewater infrastructure. The remote Ojibway community has no running water in people's homes, and low water pressure means there's not enough capacity to effectively put out fires. Here's why community leaders say urgent action is needed.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/pikangikum-first-nation-water-wastewater-1.7533789?cmp=rss>
 
 ---
 
@@ -503,6 +891,30 @@ Fan favourites Sweden, Ukraine and the Netherlands are among the ten countries t
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0513/1512712-fan-favourites-qualify-for-eurovision-grand-final/>
+
+---
+
+## Lodge owner decries killing of caribou on property, but others caution against rush to judgment
+
+date: 2025-05-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7534373.1747182915!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nueltin-lake-lodge-video.jpg' alt='An aerial view of animal parts lying on snow.' width='620' height='349' title='The scattered remains of multiple caribou are seen outside Nueltin Lake Lodge in northern Manitoba on April 11. The lodge owner claims dozens of caribou, including fetuses, were &apos;killed wastefully&apos; at the site.'/><p>The owner of a remote hunting lodge in northern Manitoba says he wants answers after he found a “mass slaughter” of caribou and severe property damage there last month, but police warn that images circulating of the dead animals might not tell the entire story.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/caribou-killed-nueltin-lodge-1.7534371?cmp=rss>
+
+---
+
+## Missing and murdered Indigenous men and boys remembered during Winnipeg march
+
+date: 2025-05-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7534379.1747183686!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/corinne-chief.jpeg' alt='A person wearing a shirt in memory of her brother while holding a sign with his name on it in front of a set of steps.' width='620' height='349' title='Corinne Chief said she had a vision to advocate for missing and murdered Indigenous men and boys after the court case ended for her brother who died following a violent attack in November 2021. She joined others in Winnipeg for a march to honour missing and murdered men and boys on May 13, 2025.'/><p>Corinne Chief, who lost her brother to a violent attack in November 2021, became emotional as she joined more than a hundred people in downtown Winnipeg on a walk to remember missing and murdered Indigenous men and boys.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/manitoba-missing-murdered-march-indigenous-men-boys-1.7534375?cmp=rss>
 
 ---
 
@@ -743,7 +1155,7 @@ date: 2025-05-13, from: Vatican News
 date: 2025-05-13, from: Vatican News
 
 
-                    <p>Pope Leo XIV has published his first post on the papal social media accounts, which were employed to great effect by his predecessors, Pope Francis and Pope Benedict XVI.</p>
+                    <p>Pope Leo XIV has published his first post on Instagram and X, which were employed to great effect by his predecessors, Pope Francis and Pope Benedict XVI.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-inherits-papal-social-media-accounts.html">Read all</a></p>
                     <p>&nbsp;</p>
                      

@@ -1,11 +1,56 @@
 ---
 title: writing
-updated: 2025-05-14 06:07:44
+updated: 2025-05-14 14:08:09
 ---
 
 # writing
 
-(date: 2025-05-14 06:07:44)
+(date: 2025-05-14 14:08:09)
+
+---
+
+## Scriptnotes, Episode 685: Page and Stage with Leslye Headland, Transcript
+
+date: 2025-05-14, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August and you’re listening to episode 685 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, screenplays and stage plays are superficially similar. They both consist of scenes [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-685-page-and-stage-with-leslye-headland-transcript">Scriptnotes, Episode 685: Page and Stage with Leslye Headland, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-685-page-and-stage-with-leslye-headland-transcript>
+
+---
+
+## 2025 Premios Kelvin Finalists
+
+date: 2025-05-14, from: Locus Magazine
+
+<p>Finalists have been announced for the 2025 Premios Kelvin 505 Awards, presented by the Celsius 232 festival and honoring the best science fiction, fantasy, and horror novels published in Spain.</p>
+<div class="nobullets">
+<p><strong>Mejor Novela Original (Best Original Novel)</strong></p>
+<ul>
+<li><strong>Epifanía</strong>, J.V. Gachs (Dolmen)</li>
+<li><strong>La casa de los cien escalones</strong>, David Jasso (Obscura)</li>
+<li><strong>La noche de Venus</strong>, Rubén Sánchez Trigos (Dolmen)</li>
+<li><strong>La península de las casas vacías</strong>, David Uclés (Siruela)</li></ul></div> <a href="https://locusmag.com/2025/05/2025-premios-kelvin-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-premios-kelvin-finalists/>
+
+---
+
+## khōréō: Short Fiction Reviews by A.C. Wise
+
+date: 2025-05-14, from: Locus Magazine
+
+<p>khōréō 4.4</p>
+<p>“<strong>The Trauma Tourist</strong>” by <strong>Christos Callow, Jr. </strong>in khōréō 4.4 explores cultural appropriation as an American actor travels through Greece using VR to experience various historical deaths. “<strong>The Doll’s Boy</strong>” by <strong>Kawai Shen </strong>is full of gorgeous and striking imagery. Told from the point of view of an artificial being originally constructed as a sex doll, used by an artist for an installation, and  <a href="https://locusmag.com/2025/05/khoreo-short-fiction-reviews-by-a-c-wise-4/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/khoreo-short-fiction-reviews-by-a-c-wise-4/>
 
 ---
 

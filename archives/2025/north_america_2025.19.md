@@ -1,11 +1,153 @@
 ---
 title: north america
-updated: 2025-05-14 06:07:39
+updated: 2025-05-14 14:08:05
 ---
 
 # north america
 
-(date: 2025-05-14 06:07:39)
+(date: 2025-05-14 14:08:05)
+
+---
+
+## Is Trump Bad for Nurses?
+
+date: 2025-05-14, from: Capital and Main
+
+<p>In their third walkout, New Orleans nurses face a drawn-out contract fight. Observers say the president's policies aren't helping.</p>
+<p>The post <a href="https://capitalandmain.com/is-trump-bad-for-nurses">Is Trump Bad for Nurses?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/is-trump-bad-for-nurses>
+
+---
+
+## Trump's tariffs come tinged in pink
+
+date: 2025-05-14, from: The Contrarian
+
+Women's products already cost more for no good reason. And considering that women make most purchases, tariffs will hurt women even harder. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-tariffs-come-tinged-in-pink>
+
+---
+
+## Trump’s visit to the Middle East represents a historic choice for Israel
+
+date: 2025-05-14, from: The Contrarian
+
+The U.S.-Israel special relationship is in danger unless Israel changes course. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-visit-to-the-middle-east-represents>
+
+---
+
+## Not their pope
+
+date: 2025-05-14, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/not-their-pope>
+
+---
+
+##  A Tax Cut For Mass Shootings 
+
+date: 2025-05-14, from: The Lever News
+
+ Republicans are planning to gut a tax on gun silencers after the tactical gear was linked to several high-profile massacres.  
+
+<br> 
+
+<https://www.levernews.com/a-tax-cut-for-mass-shootings/>
+
+---
+
+## Carlos Eduardo Espina on Escalating Deportation Fears Among Millions of Texans
+
+date: 2025-05-14, from: The Contrarian
+
+"You know that the Latino American identity is very connected to the American United States identity, and they can coexist and they can thrive together" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163478098/1e909e736b8520ebd0504d79122e29ee.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163478098/1e909e736b8520ebd0504d79122e29ee.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/carlos-eduardo-espina-on-escalating>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-14, from: The Contrarian
+
+Wednesday: Dozens of Americans protested proposed drastic cuts to Medicaid at the very place the cuts were being discussed: Capitol Hill. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Trump Is Defunding Public Safety
+
+date: 2025-05-14, from: The Contrarian
+
+Across-the-board cuts at DOJ are endangering American lives&#8212;and exposing the hypocrisy of an administration that claims to care. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-is-defunding-public-safety>
+
+---
+
+## Donald Trump’s Escape to Alcatraz
+
+date: 2025-05-14, from: Capital and Main
+
+<p>Will the old prison be reborn as America’s Devil’s Island or as a theme park for the carceral state?</p>
+<p>The post <a href="https://capitalandmain.com/donald-trumps-escape-to-alcatraz">Donald Trump’s Escape to Alcatraz</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/donald-trumps-escape-to-alcatraz>
+
+---
+
+## Rep. Haley Stevens on the Damage of Trump's Medicaid Cuts
+
+date: 2025-05-14, from: The Contrarian
+
+&#8220;I am hearing from people around the clock, ringing the alarm bell.&#8221; 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163497782/621b7831a6bd421a0484332c3485788e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163497782/621b7831a6bd421a0484332c3485788e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rep-haley-stevens-on-the-damage-of>
+
+---
+
+## Coffee with The Contrarians 05/14
+
+date: 2025-05-14, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/14 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163551538/a191c7b0809872052602e22f97b492ed.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163551538/a191c7b0809872052602e22f97b492ed.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0514>
 
 ---
 
@@ -57,18 +199,6 @@ A new book looks at how shows like Shark Tank convince viewers that upward mobil
 
 ---
 
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-13, from: The Contrarian
-
-Tuesday: Protests against tariffs, a protest against Rep. Elise Stefanik in New York, Mother's Day protests in Kansas and California, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
-
----
-
 ## We can demand better from the media
 
 date: 2025-05-13, from: The Contrarian
@@ -88,8 +218,8 @@ date: 2025-05-13, from: The Contrarian
 New York City public defender Eliza Orlins discusses the trial of Sean &#8220;Diddy&#8221; Combs taking place in Federal District Court in Lower Manhattan. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163481764/6c143746c48aa4fa19bbdda23333c222.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163481764/6c143746c48aa4fa19bbdda23333c222.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163481764/8f76904eeac497160c25bdda3a8d32a3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163481764/8f76904eeac497160c25bdda3a8d32a3.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/the-diddy-trial-has-begun-heres-what>
 
@@ -200,8 +330,8 @@ date: 2025-05-13, from: The Contrarian
 "this gutting of Medicaid is taking health care from working class people in this country" 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163427622/4881aaf0cb181cfb6b5075b05649497d.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163427622/4881aaf0cb181cfb6b5075b05649497d.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163427622/485e63e7c6f8f3c7d9fccc9de00d441b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163427622/485e63e7c6f8f3c7d9fccc9de00d441b.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/republicans-want-to-gut-healthcare>
 

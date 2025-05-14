@@ -1,11 +1,144 @@
 ---
 title: home
-updated: 2025-05-14 06:07:46
+updated: 2025-05-14 14:08:11
 ---
 
 # home
 
-(date: 2025-05-14 06:07:46)
+(date: 2025-05-14 14:08:11)
+
+---
+
+## Stop the Sell-Off of Public Lands in Congress
+
+date: 2025-05-14, from: California Native Plants Society
+
+<p>Last week, the House Natural Resources Committee passed legislation to sell off public lands to benefit billionaires. Here's how you can fight back now.</p>
+<p>The post <a href="https://www.cnps.org/conservation/stop-the-sell-off-of-public-lands-in-congress-43593">Stop the Sell-Off of Public Lands in Congress</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/conservation/stop-the-sell-off-of-public-lands-in-congress-43593>
+
+---
+
+## Why Can’t You Put Metal in the Microwave?
+
+date: 2025-05-14, from: Family Handyman Blog
+
+<p>Beyond the shock of sparks, here is the basic science behind microwaves, and what should and shouldn't go inside of them.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/metal-in-the-microwave/">Why Can&#8217;t You Put Metal in the Microwave?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/metal-in-the-microwave/>
+
+---
+
+## 8 Innovative IKEA Hacks to Try
+
+date: 2025-05-14, from: Family Handyman Blog
+
+<p>Who doesn't love some good IKEA hacks? We've rounded up several simple ones to give you some inspiration for your space. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/8-innovative-ikea-hacks-to-try/">8 Innovative IKEA Hacks to Try</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/8-innovative-ikea-hacks-to-try/>
+
+---
+
+## Indoor vs. Outdoor Rugs: What’s the Difference, Really?
+
+date: 2025-05-14, from: Family Handyman Blog
+
+<p>Soft and luxurious or durable and easy to clean? Here's how to choose which rug is the right fit for your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/indoor-vs-outdoor-rugs/">Indoor vs. Outdoor Rugs: What’s the Difference, Really?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/indoor-vs-outdoor-rugs/>
+
+---
+
+## Before & After: A Surprising Home Springs Up in a Basic Barcelona Storefront
+
+date: 2025-05-14, from: Dwell
+
+Architect Paula Herrero transformed the run-down space with a pop-out bedroom and a sculptural staircase for a designer who turns fire hoses into furniture. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-fuur-studio-renovation-paula-herrero-arquitectura-barcelona-a8279961>
+
+---
+
+## If You’re Looking for Something Extra, This $2.2M Georgia Home Has a Little Bit of Everything
+
+date: 2025-05-14, from: Dwell
+
+The International Style home is packed to the brim with colorful walls, cottagecore curtains, kitschy lighting, and pink porcelain bath fixtures. 
+
+<br> 
+
+<https://www.dwell.com/article/international-style-midcentury-home-cletus-bergen-savannah-georgia-real-estate-0c2a0893>
+
+---
+
+## Concrete "Legs" Anchor This Home in Spain to Its Incredibly Steep Hillside
+
+date: 2025-05-14, from: Dwell
+
+Raúl Sánchez Architects wanted to preserve the landscape while honoring it—like with a locally sourced slab for the first step of a spiral staircase. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-magarola-raul-sanchez-architects-hillside-home-indoor-outdoor-46868679>
+
+---
+
+## How to Grow and Care for Japanese Black Pines
+
+date: 2025-05-14, from: The Gardener's Path
+
+<p>Japanese black pine (Pinus thunbergii) has a dramatic asymmetrical growth habit, striking dark bark, and is adaptable to harsh conditions. This versatile conifer thrives in coastal environments providing texture and interest to the landscape. Learn how to grow Japanese black pine in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-japanese-black-pine/">How to Grow and Care for Japanese Black Pines</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-japanese-black-pine/>
+
+---
+
+## 45 Types of Doves (With Pictures and Identification)
+
+date: 2025-05-14, from: Yard Life blog
+
+<p>Doves are among the most graceful and widely recognized birds in the world, known for their gentle cooing, peaceful nature, ... </p>
+<p class="read-more-container"><a title="45 Types of Doves (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-types-of-doves-with-pictures-and-identification/#more-28229" aria-label="Read more about 45 Types of Doves (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-types-of-doves-with-pictures-and-identification/">45 Types of Doves (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-types-of-doves-with-pictures-and-identification/>
+
+---
+
+## I Found Some Smart Storage Solutions for Those Allergic to Visual Clutter
+
+date: 2025-05-14, from: Dwell
+
+As someone with a lot of stuff, I need some clever ways to hide it all—without sacrificing style. 
+
+<br> 
+
+<https://www.dwell.com/article/chic-functional-storage-solutions-aa38546b>
 
 ---
 
@@ -37,6 +170,90 @@ date: 2025-05-14, from: The Gardener's Path
 
 ---
 
+## These Are the Winners of the 2025 Sunset Western Home & Design Awards
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+Announcing the winners of the 2025 Sunset Home & Design Awards. These are the best architects, designers, and makers defining the ultimate in Western living. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/2025-sunset-home-design-awards-winners>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 2025 Sunset Western Home & Design Awards: Best Architecture
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+These firms are raising the bar when it comes to designing homes. Check out the Best Architecture winners of the 2025 Sunset Home & Design Awards. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-sunset-home-design-awards-best-architecture>
+
+---
+
+## 2025 Sunset Western Home & Design Awards: Best Interior Design
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+From creating small spaces that really sing to defining livable luxury to dreaming up ultra glamorous homes, these designers and firms elevate interiors in the West. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-sunset-home-design-awards-best-interior-design>
+
+---
+
+## 2025 Sunset Western Home & Design Awards: Best Landscape Design and Architecture
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+The best of landscape design in the West, from minimalists to maximalists to native plant specialists to edible garden enthusiasts. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/2025-sunset-home-design-awards-best-landscape-design>
+
+---
+
+## 2025 Sunset Western Home & Design Awards: Kitchen Design
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+The 2025 Western Home & Design Awards honor the best designers and architects in the West. Here are the winners in the Kitchen Design category. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-sunset-home-design-awards-best-kitchen-design>
+
+---
+
+## 2025 Sunset Western Home & Design Awards: Makers
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+The 2025 Western Home & Design Awards honor the best designers, architects, and artisans in the West. Here are the winners in the Makers category. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-sunset-home-and-design-awards-best-makers>
+
+---
+
 ## How to Plant and Grow Serrano Peppers
 
 date: 2025-05-14, from: The Gardener's Path
@@ -48,6 +265,18 @@ date: 2025-05-14, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/grow-serrano-peppers/>
+
+---
+
+## Rivian’s High-Design Outpost Near Joshua Tree Is the Coolest Charging Station We’ve Ever Seen
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+Rivian has the coolest charging station just outside of Joshua Tree National Park. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/rivian-electric-car-road-trip-in-joshua-tree>
 
 ---
 
@@ -169,19 +398,7 @@ date: 2025-05-13, from: Family Handyman Blog
 
 ---
 
-## Rivian’s High-Design Outpost Near Joshua Tree Is the Coolest Charging Station We’ve Ever Seen
-
-date: 2025-05-13, from: Sunset Magazine - Living in the West
-
-Rivian has the coolest charging station just outside of Joshua Tree National Park. 
-
-<br> 
-
-<https://www.sunset.com/travel/road-trips/rivian-electric-car-road-trip-in-joshua-tree>
-
----
-
-## This $5.5M L.A. Midcentury Has Reimagined Interiors and a Brand New Pool
+## This $5.5M L.A. Midcentury Has Reimagined Interiors and a Brand-New Pool
 
 date: 2025-05-13, from: Dwell
 
@@ -388,18 +605,6 @@ date: 2025-05-13, from: Sunset Magazine - Living in the West
 <br> 
 
 <https://www.sunset.com/home-design-awards-directory>
-
----
-
-## Homepage 2025
-
-date: 2025-05-13, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

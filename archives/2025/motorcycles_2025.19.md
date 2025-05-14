@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-05-14 06:07:47
+updated: 2025-05-14 14:08:12
 ---
 
 # motorcycles
 
-(date: 2025-05-14 06:07:47)
+(date: 2025-05-14 14:08:12)
+
+---
+
+## NEWS: Johnson & Brady to share the ‘Fastest Seat in Sports’; dubbed the ‘G.O.A.T Drive’
+
+date: 2025-05-14, from: Kickin the Tires blog
+
+Legends are made at Indianapolis and a pair of sports legends will take to the track on the morning of the 109th Indianapolis 500.&#160; Seven-time NASCAR Cup Champion, former IndyCar&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/news-johnson-dubbed-the-g-o-a-t-drive/>
+
+---
+
+## Eight Former Winners, Five Series Champs Starting Indy 500 Preparation
+
+date: 2025-05-14, from: Kickin the Tires blog
+
+INDIANAPOLIS (Tuesday, May 13, 2025) – Practice for the 109th Indianapolis 500 presented by Gainbridge starts May 13 with a field consisting of eight former winners of “The Greatest Spectacle&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/eight-former-winners-five-series-champs-starting-indy-500-preparation/>
+
+---
+
+## Stark Future Achieves Record Profitability for All-Electric Motorcycle Manufacturer, and Smashes Tesla Record
+
+date: 2025-05-14, from: Ride Apart, Electric Motorcycle News
+
+This must taste like humble pie to all the haters and extreme doubters.  
+
+<br> 
+
+<https://www.rideapart.com/news/759497/stark-future-achieves-record-profitability/>
 
 ---
 

@@ -1,11 +1,449 @@
 ---
 title: columns
-updated: 2025-05-14 06:07:43
+updated: 2025-05-14 14:08:09
 ---
 
 # columns
 
-(date: 2025-05-14 06:07:43)
+(date: 2025-05-14 14:08:09)
+
+---
+
+##  10,000 Drum Machines is a growing collection of web-based drum machines. I... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046843-10000-drum-machines-is-a>
+
+---
+
+## 2025-05-14 Crikvenica
+
+date: 2025-05-14, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-14-crikvenica">2025-05-14 Crikvenica</h1>
+
+<p>Today was a no-car day and we went for a hike. First we walked along the coast to the neighbouring village of Dramalji, then up the hill and over a pass to Tribalj, then back along the Dubračina back to Crikvenica.</p>
+
+<p>Thanks to OsmAnd for the navigation and Flora Incognita for identifying the plants late at night.</p>
+
+<p>We started along the coast, on that one-way street.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-1.jpg" alt="a street with a one-way sign" /></p>
+
+<p>Across the sea you can see the island of Krk. We did not have the time to visit.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-2.jpg" alt="Alex and Claudia grinning at the camera, both wearing hats and sunglasses" /></p>
+
+<p>When there are no sandy beaches, concrete slabs dot the coast for roasting tourists in summer.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-3.jpg" alt="empty concrete platforms by the sea" /></p>
+
+<p>Then we started the ascent.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-4.jpg" alt="stairs going up" /></p>
+
+<p>We always stop for new flowers along the way!
+This one grew out of a stone wall.</p>
+
+<p>Garten-Löwenmaul<br>
+Antirrhinum majus</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-5.jpg" alt="purple flowers" /></p>
+
+<p>Further up, more flowers grew along the way.</p>
+
+<p>Strahlen-Breitsame<br>
+Orlaya grandiflora</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-6.jpg" alt="white flowers" /></p>
+
+<p>Even further up, we entered a landscape of salvia. This was simply the first one, growing next to the trail.</p>
+
+<p>Echter Salbei<br>
+Salvia officinalis</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-7.jpg" alt="violet flowers" /></p>
+
+<p>Up and up, leaving the town behind.
+Sometimes, stonewalls line the trail.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-8.jpg" alt="dry stone walls to the left and right of the trail" /></p>
+
+<p>Then the walls disappear and the sun bakes us.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-9.jpg" alt="the trail is overgrown with white and yellow flowers" /></p>
+
+<p>The trail is made up of broken white rocks.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-10.jpg" alt="Claudia looking back at me" /></p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-11.jpg" alt="2025-05-14-crikvenica-11.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-12.jpg" alt="2025-05-14-crikvenica-12.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-13.jpg" alt="2025-05-14-crikvenica-13.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-14.jpg" alt="2025-05-14-crikvenica-14.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-15.jpg" alt="2025-05-14-crikvenica-15.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-16.jpg" alt="2025-05-14-crikvenica-16.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-17.jpg" alt="2025-05-14-crikvenica-17.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-18.jpg" alt="2025-05-14-crikvenica-18.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-19.jpg" alt="2025-05-14-crikvenica-19.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-20.jpg" alt="2025-05-14-crikvenica-20.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-21.jpg" alt="2025-05-14-crikvenica-21.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-22.jpg" alt="2025-05-14-crikvenica-22.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-23.jpg" alt="2025-05-14-crikvenica-23.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-24.jpg" alt="2025-05-14-crikvenica-24.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-25.jpg" alt="2025-05-14-crikvenica-25.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-26.jpg" alt="2025-05-14-crikvenica-26.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-27.jpg" alt="2025-05-14-crikvenica-27.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-28.jpg" alt="2025-05-14-crikvenica-28.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-29.jpg" alt="2025-05-14-crikvenica-29.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-30.jpg" alt="2025-05-14-crikvenica-30.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-31.jpg" alt="2025-05-14-crikvenica-31.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-32.jpg" alt="2025-05-14-crikvenica-32.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-33.jpg" alt="2025-05-14-crikvenica-33.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-34.jpg" alt="2025-05-14-crikvenica-34.jpg" />
+<img loading="lazy" src="2025-05-14-crikvenica-35.jpg" alt="2025-05-14-crikvenica-35.jpg" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-14-crikvenica>
+
+---
+
+## 2025-05-13 Opatija, Crikvenica
+
+date: 2025-05-14, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-13-opatija-crikvenica">2025-05-13 Opatija, Crikvenica</h1>
+
+<p>We stopped in Opatija. The settlement along a lake along a steep hill reminded me of Lausanne or Neufchâtel in Switzerland. There were hollow ruins as well as fancy new Grand Hotels, some with an ancient Viennese flair. To me, that’s weird. To chase the colonised past for tourism cash? 🫤 Didn’t the Austrians use Croatian troops to out down Italian revolts and the like? Well, after the Austro-Hungarian empire fell apart, the Italians took over Opatija but then the communists pushed them ought.</p>
+
+<p>Visiting former Yugoslavia is dreadful from a history perspective because when I was a teenager the civil war and the breakup of the country was always there, in the back of my mind. Watching <a href="https://en.m.wikipedia.org/wiki/Warriors_(1999_TV_series)">Warriors</a> many years later was the worst, though.</p>
+
+<p>Hearing so many Austrians on the streets is weird.</p>
+
+<p>I guess I felt a little bit of Austrian empire shame. 😳</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-1.jpg" alt="a very traditional hotel by the sea" /></p>
+
+<p>Statue of young women looking at the sea – sounds like a meme.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-2.jpg" alt="statue of a woman on a rock, looking to the sea" /></p>
+
+<p>The natural rocks are supplemented by artificial structures. No sand, though.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-3.jpg" alt="many stoneworks project out into the sea for people to lie on" /></p>
+
+<p>Claudia supporting <a href="https://en.wikipedia.org/wiki/Miroslav_Krle%C5%BEa">Miroslav Krleža</a>, whom we do not know.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-4.jpg" alt="a statue of a bulky man leaning dangerously to the side, apparently supported by Claudia" /></p>
+
+<p>The feeling when you need some water and you imagine ice cold sparkling water. 😍</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-5.jpg" alt="a glass of cold water" /></p>
+
+<p>Claudia also decided to contribute some pictures, seeing how I hadn’t noticed that the lens had gotten smeared with sun lotion.</p>
+
+<p>We had parked the car in the parking lot of a crumbling hotel ruin.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-9.jpg" alt="Alex in front of the sea" />
+<img loading="lazy" src="2025-05-13-opatija-crikvenica-10.jpg" alt="Claudia in front of the hotel" />
+<img loading="lazy" src="2025-05-13-opatija-crikvenica-11.jpg" alt="Abandoned structures leading down to the sea" />
+<img loading="lazy" src="2025-05-13-opatija-crikvenica-12.jpg" alt="The original harbor from 1900 or so, still in use, for a handful of tiny boats" /></p>
+
+<p>Crikvenica is very different, with sand beaches, many cafés, pizzerias and ice-cream parlours. And everything is so green.</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-6.jpg" alt="the sea is visible behind the trees" /></p>
+
+<p>Weicher Akanthus<br>
+Acanthus mollis</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-7.jpg" alt="a flowering plant" /></p>
+
+<p>Strauchiges Brandkraut<br>
+Phlomis fruticosa</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-13.jpg" alt="2025-05-13-opatija-crikvenica-13.jpg" /></p>
+
+<p>Herbst-Salbei<br>
+Salvia greggii</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-14.jpg" alt="2025-05-13-opatija-crikvenica-14.jpg" /></p>
+
+<p>Hardy aloe<br>
+Aloiampelos striatula</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-15.jpg" alt="2025-05-13-opatija-crikvenica-15.jpg" /></p>
+
+<p>And another sunset. 😍</p>
+
+<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-8.jpg" alt="sunset" /></p>
+
+<p>The hotel room was 27°C or more and we tried to turn on the air conditioning. It was only at 3:00 that our foggy brains thought of opening the window and leeti g the cool sea breeze in. 🙄</p>
+
+<p><a class="tag" href="/search/?q=%23Croatias">#Croatias</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-13-opatija-crikvenica>
+
+---
+
+##  Nine Rules for Evaluating New Technology 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/nine-rules-for-evaluating-new-technology>
+
+---
+
+## May 13, 2025
+
+date: 2025-05-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163579071/29eff78b8b5b75f495aae7b3a261aa56.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163579071/29eff78b8b5b75f495aae7b3a261aa56.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-13-2025-ae8>
+
+---
+
+## RHEL 10 quietly leaks ahead of Red Hat Summit
+
+date: 2025-05-14, updated: 2025-05-14, from: Liam Proven's articles at the Register
+
+<h4>GA date slips out on Japanese site, vanishes from English</h4>
+      <p>Red Hat appears to have quietly made RHEL 10 available to paying customers, days ahead of its expected debut at next week&#39;s Red Hat Summit.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/14/red_hat_enterprise_linux_10/>
+
+---
+
+##  The End of Rule of Law in America. &#8220;After these first three... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046855-the-end-of-rule-of>
+
+---
+
+## Whether Weather
+
+date: 2025-05-14, from: Doc Searls (at Harvard), New Old Blog
+
+NOAA (The National Oceanic and Atmospheric Administration) is the alpha US source for weather forecasting, ocean science, climate research, and much more. So, as a weather geek, it concerns me when Wired says Dismantling NOAA Threatens the World’s Ability to Monitor Carbon Dioxide Levels: The agency maintains the global backbone of measurements of CO2 and [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/14/whether-weather/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-14, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2018/06/07/handbookForTheRecentlyDeceased.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">RSS-based <a href="https://justinjackson.ca/youtube-kill-podcasting">podcasts</a> are built-in and not going anywhere. Here's why. As long as there are lots of good podcasts available for listening to via RSS on phones, every competitive 'caster is going to want to be there, because their competitors are. And as long as I can get a good selection of interesting stuff to listen to on my phone, there's no reason look elsewhere. And as far as I know I can't listen to a YouTube "podcast" in my car or when walking. One more thing, please stop using death metaphors re RSS. Learn how <a href="https://www.theguardian.com/science/head-quarters/2017/jul/20/the-power-of-framing-its-not-what-you-say-its-how-you-say-it">framing</a> works. A few nasty people in the early 00s did a number on RSS and started putting that awful word next to RSS. It was a way of earning points from the people who ran Twitter and tech conferences like SXSW, basically asshole-like people who wanted to close the door on the open web. And now here we are 2.5 decades later and people are <i>still</i> doing it. You should self-censor on that one, those people are long-gone, probably doing stuff with crypto or nuzzling up to oligarchs, and you're keeping their asshole-ness alive. That's pretty fucked up. 
+
+<br> 
+
+<http://scripting.com/2025/05/14.html#a181324>
+
+---
+
+##  Three Fascism Experts on Why They&#8217;re Leaving the US 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/three-fascism-experts-on-why-theyre-leaving-the-us>
+
+---
+
+##  When the world is going to shit, people need music; they need... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046849-when-the-world-is-going>
+
+---
+
+## ★ Single-Story a’s in Very Early Versions of Macintosh System 1
+
+date: 2025-05-14, updated: 2025-05-14, from: Daring Fireball
+
+A single-story “a” in Chicago feels more blasphemous than that AI image Trump tweeted of himself as the new pope. 
+
+<br> 
+
+<https://daringfireball.net/2025/05/single_story_a_classic_mac_system_1>
+
+---
+
+## Wednesday 14 May, 2025
+
+date: 2025-05-14, from: John Naughton's online diary
+
+Floater An experiment in depth-of-field. Quote of the Day ”Never underestimate the confidence of a mediocre man.” Rebecca Solnit Musical alternative to the morning’s radio news Miles Davis &#124; Autumn Leaves Link I know, I know: it’s not Autumn. But &#8230; <a href="https://memex.naughtons.org/wednesday-14-may-2025/40817/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-14-may-2025/40817/>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2025-05-14, updated: 2025-05-08, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m speaking (remotely) at the <a href="https://sektor3-0.pl/en/festival/">Sektor 3.0 Festival</a> in Warsaw, Poland, May 21-22, 2025.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/upcoming-speaking-engagements-46.html>
+
+---
+
+##  How to Sniff Out &#8216;Copaganda&#8217;: When the Police and the Media Manipulate... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046846-how-to-sniff-out-copagand>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Friends, I am going on vacation to Tokyo and I am wondering what are good districts for staying at, want ease of access to transportation and food (I am going with picky eaters).</p><p>If you have district recommendations let me know, as I am a bit overwhelmed.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114506855030229313>
+
+---
+
+## No More Tea Leaf Reading
+
+date: 2025-05-14, from: mrusme blog
+
+From client-side analytics voodoo to simple server-side metrics, or how I
+replaced Plausible Analytics with a lightweight, privacy-respecting solution
+that gives me just the right amount of insight. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/no-more-tea-leaf-reading/>
+
+---
+
+##  Lololol: Max is changing its name back to HBO Max. It&#8217;s a... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046853-lololol-max-is-changing-i>
+
+---
+
+##  It&#8217;s Interesting How the Past Can Make You Think About the Present.... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046839-its-interesting-how-the-p>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-14, from: Dave Winer's Scripting News)
+
+If you <a href="https://subscribe.scripting.com/">get</a> the nightly email, a <a href="https://docs.google.com/forms/d/e/1FAIpQLScVggECe0G_LdycgDZpZGXIlF8hf6pnt_KYR7679H_7UxBKsw/viewform?fbzx=-5217290125036726455">questionnaire</a>. Is the text a good size? Easy to read? Suggestions? 
+
+<br> 
+
+<http://scripting.com/2025/05/14.html#a140137>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-14, from: Dave Winer's Scripting News)
+
+I wanted to design a Google Form, and thought to ask ChatGPT for instructions from a spec I wrote. Then I thought to ask Gemini, which is Google's chatbot, wondering if they would just do the work for me instead of providing instructions. I would have laughed out loud if they did, but alas, <a href="https://g.co/gemini/share/add0560b6b02">just instructions</a>. Eventually they will do that for you. 
+
+<br> 
+
+<http://scripting.com/2025/05/14.html#a134720>
+
+---
+
+## Pete Rose and ‘Shoeless’ Joe Jackson Among Players Reinstated by MLB in Historic Decision
+
+date: 2025-05-14, updated: 2025-05-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnn.com/2025/05/13/sport/pete-rose-shoeless-joe-jackson-mlb-decision-spt>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Another great post on reflections from GodotCon Boston, great feedback on how to improve this (and other) conferences for attendees:</p><p><a href="https://www.essay-games.com/blog/reflecting-on-godotcon/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">essay-games.com/blog/reflectin</span><span class="invisible">g-on-godotcon/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114506382964013863>
+
+---
+
+##  Alchemists rejoice! Scientists have turned lead into gold using the Large Hadron... 
+
+date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046840-alchemists-rejoice-scient>
 
 ---
 
@@ -66,81 +504,6 @@ date: 2025-05-14, updated: 2025-05-14, from: Bruce Schneier blog
 <br> 
 
 <https://www.schneier.com/blog/archives/2025/05/googles-advanced-protection-now-on-android.html>
-
----
-
-## 2025-05-13 Opatija, Crikvenica
-
-date: 2025-05-14, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-13-opatija-crikvenica">2025-05-13 Opatija, Crikvenica</h1>
-
-<p>We stopped in Opatija. The settlement along a lake along a steep hill reminded me of Lausanne or Neufchâtel in Switzerland. There were hollow ruins as well as fancy new Grand Hotels, some with an ancient Viennese flair. To me, that’s weird. To chase the colonised past for tourism cash? 🫤 Didn’t the Austrians use Croatian troops to out down Italian revolts and the like? Well, after the Austro-Hungarian empire fell apart, the Italians took over Opatija but then the communists pushed them ought.</p>
-
-<p>Visiting former Yugoslavia is dreadful from a history perspective because when I was a teenager the civil war and the breakup of the country was always there, in the back of my mind. Watching <a href="https://en.m.wikipedia.org/wiki/Warriors_(1999_TV_series)">Warriors</a> many years later was the worst, though.</p>
-
-<p>Hearing so many Austrians on the streets is weird.</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-1.jpg" alt="a very traditional hotel by the sea" /></p>
-
-<p>Statue of young women looking at the sea – sounds like a meme.</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-2.jpg" alt="statue of a woman on a rock, looking to the sea" /></p>
-
-<p>The natural rocks are supplemented by artificial structures. No sand, though.</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-3.jpg" alt="many stoneworks project out into the sea for people to lie on" /></p>
-
-<p>Claudia supporting <a href="https://en.wikipedia.org/wiki/Miroslav_Krle%C5%BEa">Miroslav Krleža</a>, whom we do not know.</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-4.jpg" alt="a statue of a bulky man leaning dangerously to the side, apparently supported by Claudia" /></p>
-
-<p>The feeling when you need some water and you imagine ice cold sparkling water. 😍</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-5.jpg" alt="a glass of cold water" /></p>
-
-<p>Claudia also decided to contribute some pictures, seeing how I hadn’t noticed that the lens had gotten smeared with sun lotion.</p>
-
-<p>We had parked the car in the parking lot of a crumbling hotel ruin.</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-9.jpg" alt="Alex in front of the sea" />
-<img loading="lazy" src="2025-05-13-opatija-crikvenica-10.jpg" alt="Claudia in front of the hotel" />
-<img loading="lazy" src="2025-05-13-opatija-crikvenica-11.jpg" alt="Abandoned structures leading down to the sea" />
-<img loading="lazy" src="2025-05-13-opatija-crikvenica-12.jpg" alt="The original harbor from 1900 or so, still in use, for a handful of tiny boats" /></p>
-
-<p>Crikvenica is very different, with sand beaches, many cafés, pizzerias and ice-cream parlours. And everything is so green.</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-6.jpg" alt="the sea is visible behind the trees" /></p>
-
-<p>Weicher Akanthus<br>
-Acanthus mollis</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-7.jpg" alt="a flowering plant" /></p>
-
-<p>Strauchiges Brandkraut<br>
-Phlomis fruticosa</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-13.jpg" alt="2025-05-13-opatija-crikvenica-13.jpg" /></p>
-
-<p>Herbst-Salbei<br>
-Salvia greggii</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-14.jpg" alt="2025-05-13-opatija-crikvenica-14.jpg" /></p>
-
-<p>Hardy aloe<br>
-Aloiampelos striatula</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-15.jpg" alt="2025-05-13-opatija-crikvenica-15.jpg" /></p>
-
-<p>And another sunset. 😍</p>
-
-<p><img loading="lazy" src="2025-05-13-opatija-crikvenica-8.jpg" alt="sunset" /></p>
-
-<p><a class="tag" href="/search/?q=%23Croatias">#Croatias</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-13-opatija-crikvenica>
 
 ---
 

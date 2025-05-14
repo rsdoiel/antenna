@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-05-14 06:07:42
+updated: 2025-05-14 14:08:07
 ---
 
 # science and technology
 
-(date: 2025-05-14 06:07:42)
+(date: 2025-05-14 14:08:07)
+
+---
+
+## Metal maker meltdown: Nucor stops production after cyber-intrusion
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Ransomware or critical infra hit? Top US manufacturer maintains steely silence</h4> <p>Nucor, the largest steel manufacturer in the US, shut down production operations after discovering its servers had been penetrated.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/nucor_steel_attack/>
+
+---
+
+## NASA Awards Launch Service Task Order for Aspera’s Galaxy Mission
+
+date: 2025-05-14, from: NASA breaking news
+
+NASA has selected Rocket Lab USA Inc. of Long Beach, California, to launch the agency’s Aspera mission, a SmallSat to study galaxy formation and evolution, providing new insights into how the universe works. The selection is part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract. This contract allows the agency to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-asperas-galaxy-mission/>
+
+---
+
+## Pretty in Pink
+
+date: 2025-05-14, from: NASA breaking news
+
+The spiral galaxy known as Messier 81 (M81) has a rosy tint in this June 1, 2007, composite image that incorporates data from NASA’s Spitzer and Hubble Space Telescopes, and NASA’s Galaxy Evolution Explorer. Discovered by the German astronomer Johann Elert Bode in 1774, M81 is one of the brightest galaxies in the night sky. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/pretty-in-pink/>
+
+---
+
+## E-COM: the $40 million USPS project to send email on paper
+
+date: 2025-05-14, from: OS News
+
+How do you get email to the folks without computers? What if the Post Office printed out email, stamped it, dropped it in folks’ mailboxes along with the rest of their mail, and saved the USPS once and for all? And so in 1982 E-COM was born—and, inadvertently, helped coin the term “e-mail.” ↫ Justin Duke The implementation of E-COM was awesome. You&#8217;d enter the messages on your computer, send it to the post office using a TTY or IBM 2780/3789 terminals, to Sperry Rand Univac 1108 computer systems at one of 25 post offices. Postal staff would print the messages and send them through the regular postal system to their recipients. The USPS actually tried to get a legal monopoly on this concept, but the FCC fought them in court and won out. E-COM wasn&#8217;t the breakout success the USPS had hoped for, but it did catch on in one, unpleasant way: spam. The official-looking E-COM enevelopes from the USPS were very attractive to junk mail companies, and it was estimated that about six companies made up 70% of the total E-COM volume of 15 million messages in its second year of operation. The entire article is definitely recommended reading, as it contains a ton more information about E-COM and some of the other attempts by USPS to ride the coattails of the computer and internet revolution, including the idea to give every US resident an @.us e-mail address. Wild. 
+
+<br> 
+
+<https://www.osnews.com/story/142357/e-com-the-40-million-usps-project-to-send-email-on-paper/>
+
+---
+
+## Intuitive Machines blames dim lighting and dodgy data for second lunar faceplant
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Touchdown with no topple? Company aims for third time lucky</h4> <p>Intuitive Machines has blamed poor lighting, a problematic altimeter, and difficulties spotting craters for the company&#39;s second lunar lander tipping over.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/intuitive_machines_postmortem/>
+
+---
+
+## NASA to Participate in Next Private Astronaut Mission Teleconference
+
+date: 2025-05-14, from: NASA breaking news
+
+NASA will join a media teleconference hosted by Axiom Space at 10:30 a.m. EDT, Tuesday, May 20, to discuss the launch of Axiom Mission 4 (Ax-4), the fourth private astronaut mission to the International Space Station. Briefing participants include: To join the call, media must register with Axiom Space by 12 p.m., Monday, May 19, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-participate-in-next-private-astronaut-mission-teleconference/>
+
+---
+
+## RHEL 10 quietly leaks ahead of Red Hat Summit
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>GA date slips out on Japanese site, vanishes from English</h4> <p>Red Hat appears to have quietly made RHEL 10 available to paying customers, days ahead of its expected debut at next week&#39;s Red Hat Summit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/red_hat_enterprise_linux_10/>
+
+---
+
+## The future of LLMs is open source, Salesforce's Benioff says
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Cheaper, open source AI will commoditize the market at expense of their bloated counterparts</h4> <p>The future of large language models is likely to be open source, according to Marc Benioff, co-founder and longstanding CEO of Salesforce.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/future_of_llms_is_open/>
+
+---
+
+## NASA Observes First Visible-light Auroras at Mars
+
+date: 2025-05-14, from: NASA breaking news
+
+On March 15, 2024, near the peak of the current solar cycle, the Sun produced a solar flare and an accompanying coronal mass ejection (CME), a massive explosion of gas and magnetic energy that carries with it large amounts of solar energetic particles. This solar activity led to stunning auroras across the solar system, including […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/planets/mars/nasa-observes-first-visible-light-auroras-at-mars/>
+
+---
+
+## NASA’s Magellan Mission Reveals Possible Tectonic Activity on Venus
+
+date: 2025-05-14, from: NASA breaking news
+
+Using archival data from the mission, launched in 1989, researchers have uncovered new evidence that tectonic activity may be deforming the planet’s surface. Vast, quasi-circular features on Venus’ surface may reveal that the planet has ongoing tectonics, according to new research based on data gathered more than 30 years ago by NASA’s Magellan mission. On [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/magellan/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/>
+
+---
+
+## Hubble Pinpoints Young Stars in Spiral Galaxy
+
+date: 2025-05-14, from: NASA breaking news
+
+In this image, the NASA/ESA Hubble Space Telescope peers into the spiral galaxy NGC 1317 in the constellation Fornax, located more than 50 million light-years from Earth. Visible in this galaxy image is a bright blue ring that hosts hot, young stars. NGC 1317 is one of a pair, but its rowdy larger neighbor, NGC […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-pinpoints-young-stars-in-spiral-galaxy/>
+
+---
+
+## Uncle Sam pulls $2.4B Leidos deal to support CISA after rival alleges foul play
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Nightwing claims insider intel helped secure lucrative CISA work but US says decision is unrelated</h4> <p>The Department of Homeland Security (DHS) scrapped a highly lucrative cybersecurity contract originally awarded to Leidos following a legal challenge from rival bidder Nightwing, yet insists the pushback had nothing to do with it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/dhs_leidos_contract/>
+
+---
+
+## Intel needs external foundry customers to make 14A process node pay off
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Ailing chip giant targets 2027 break-even as costly EUV tools raise stakes</h4> <p>Intel is wooing external chip customers for its 14A process node to justify the high costs involved, and aims for the foundry division to break even by 2027 - as part of ongoing effort to shake off the struggles of recent years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/intel_14a_customers/>
+
+---
+
+## Ivanti patches two zero-days under active attack as intel agency warns customers
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Vendor says vulns are linked with 2 mystery open source libraries integrated into EPMM product</h4> <p>Australia&#39;s intelligence agency is warning organizations about several new Ivanti zero-days chained for remote code execution (RCE) attacks. The vendor itself has said the vulns are linked to two mystery open source libraries which it declined to name.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/ivanti_patches_two_zerodays_and/>
+
+---
+
+## Meta's still violating GDPR rules with latest plan to train AI on EU user data, says noyb
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>&#39;Legitimate interest&#39; won&#39;t wash, says privacy outfit, as Zuck&#39;s org claims activists want to &#39;delay AI innovation&#39;</h4> <p>There&#39;s a Max Schrems-shaped object standing in the way of Meta&#39;s plans to train its AI on the data of its European users, and he&#39;s come armed with several justifications for why Zuckercorp might be violating EU regulations with its stated plans. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/metas_still_violating_gdpr_rules/>
+
+---
+
+## NASA Studies Reveal Hidden Secrets About Interiors of Moon, Vesta
+
+date: 2025-05-14, from: NASA breaking news
+
+Analyzing gravity data collected by spacecraft orbiting other worlds reveals groundbreaking insights about planetary structures without having to land on the surface. Although the Moon and the asteroid Vesta are very different, two NASA studies use the same technique to reveal new details about the interiors of both. In the lunar study, published May 14 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/solar-system/asteroids/vesta/nasa-studies-reveal-hidden-secrets-about-interiors-of-moon-vesta/>
+
+---
+
+## Another First: NASA Webb Identifies Frozen Water in Young Star System
+
+date: 2025-05-14, from: NASA breaking news
+
+Is frozen water scattered in systems around other stars? Astronomers have long expected it is, partially based on previous detections of its gaseous form, water vapor, and its presence in our own solar system. Now there is definitive evidence: Researchers confirmed the presence of crystalline water ice in a dusty debris disk that orbits a […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/another-first-nasa-webb-identifies-frozen-water-in-young-star-system/>
+
+---
+
+## VPN Secure parent company CEO explains why he had to axe thousands of 'lifetime' deals
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Admits due diligence fell short - furious users cry ‘gaslighting’</h4> <p>Customers are blasting VPN Secure&#39;s new parent company after it abruptly axed thousands of &#34;lifetime&#34; accounts. The reason? The CEO admits in an interview with <em>The Register</em> that his team didn&#39;t dig deep enough before acquiring the virtual private network outfit, and simply can&#39;t afford to honor those legacy deals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/vpn_secure_axe_lifetime_deals/>
+
+---
+
+## How the Universe Differs From Its Mirror Image
+
+date: 2025-05-14, from: Quanta Magazine
+
+From living matter to molecules to elementary particles, the world is made of “chiral” objects that differ from their reflected forms.            <p>The post <a href="https://www.quantamagazine.org/how-the-universe-differs-from-its-mirror-image-20250514/" target="_blank">How the Universe Differs From Its Mirror Image</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-the-universe-differs-from-its-mirror-image-20250514/>
+
+---
+
+## Saudi CubeSat gets golden ticket on doomed SLS rocket
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Trump greenlights slot for Riyadh as NASA&#39;s pricey booster teeters on the brink</h4> <p>NASA will launch a Saudi satellite aboard what could be its penultimate SLS rocket on the Artemis II mission following a deal announced in Riyadh by US President Donald Trump and de facto Saudi ruler Crown Prince Mohammed bin Salman.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/saudi_cubesat_sls/>
 
 ---
 
@@ -299,7 +539,7 @@ date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
 
 ## Qatar’s $400M jet for Trump is a gold-plated security nightmare
 
-date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+date: 2025-05-13, updated: 2025-05-14, from: The Register (UK I.T. News)
 
 <h4>Air Force Dumb</h4> <p>The Trump administration is set to accept a $400 million luxury 747-8 from the royal family of Qatar – a lavish &#34;palace in the sky&#34; meant as a temporary Air Force One. But getting it up to presidential security standards could take years and cost hundreds of millions more.…</p> 
 
@@ -443,9 +683,9 @@ One of the keys to a sustainable human presence on distant worlds is using local
 
 ## Microsoft facing multibillion legal claim over how it sells software
 
-date: 2025-05-13, updated: 2025-05-13, from: The Register (UK I.T. News)
+date: 2025-05-13, updated: 2025-05-14, from: The Register (UK I.T. News)
 
-<h4>Stop us if you&#39;ve heard this one before</h4> <p>A legal claim has been brought against Microsoft over alleged licensing practices that could result in a multibillion-pound payout for UK customers.…</p> 
+<h4>Stop us if you&#39;ve heard this one before</h4> <p><strong>Updated</strong>  A legal claim has been brought against Microsoft over alleged licensing practices that could result in a multibillion-pound payout for UK customers.…</p> 
 
 <br> 
 
@@ -719,7 +959,7 @@ JunoCam, the visible light imager aboard NASA&#8217;s Juno spacecraft, captured 
 
 ## CISA mutes own website, shifts routine cyber alerts to Musk’s X, RSS, email
 
-date: 2025-05-12, updated: 2025-05-13, from: The Register (UK I.T. News)
+date: 2025-05-12, updated: 2025-05-14, from: The Register (UK I.T. News)
 
 <h4>Cripes, we were only joking when we called Elon&#39;s social network the new state media</h4> <p><strong>Updated</strong>  The US government&#39;s Cybersecurity and Infrastructure Security Agency (CISA) announced Monday that going forward, only urgent alerts tied to emerging threats or major cyber activity will appear on its website. Routine updates, guidance, and other notifications will instead be shared via email, RSS, and X.…</p> 
 

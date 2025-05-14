@@ -1,11 +1,152 @@
 ---
 title: socal north
-updated: 2025-05-14 06:07:40
+updated: 2025-05-14 14:08:06
 ---
 
 # socal north
 
-(date: 2025-05-14 06:07:40)
+(date: 2025-05-14 14:08:06)
+
+---
+
+## Luggage packed with contraband cigarettes seized at Long Beach Cruise Terminal, authorities say
+
+date: 2025-05-14, from: Longbeach Post
+
+<figure><img width="1024" height="556" src="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-553x300.jpeg 553w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1110x602.jpeg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-768x417.jpeg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1536x833.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-2048x1111.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>They allege two women arriving on a cruise ship from Ensenada, Mexico, were trying to smuggle in hundreds of cartons of cigarettes.</p>
+<p>The post <a href="https://lbpost.com/news/crime/luggage-packed-with-contraband-cigarettes-seized-at-long-beach-cruise-terminal-authorities-say">Luggage packed with contraband cigarettes seized at Long Beach Cruise Terminal, authorities say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/luggage-packed-with-contraband-cigarettes-seized-at-long-beach-cruise-terminal-authorities-say>
+
+---
+
+## Two former Shen Yun dancers allege forced child labor, brutal conditions in lawsuit
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+Two former dancers allege that they lived under a culture of fear and routinely performed despite injuries. Shen Yun has vehemently denied the claims. 
+
+<br> 
+
+<https://laist.com/news/two-former-shen-yun-dancers-allege-forced-child-labor-brutal-conditions>
+
+---
+
+## A concert hall? Drive-in theater? Residents weigh in how to repurpose Tustin’s remaining blimp hangar
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+What to do with the property has been a top community issue since the north hangar burned in 2023. 
+
+<br> 
+
+<https://laist.com/news/how-to-repurpose-tustin-blimp-hangar>
+
+---
+
+## Trump tariffs and rising health care costs knock California budget back into deficit
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+With tariffs wreaking havoc on California’s economy and health costs rising, the state is facing a deficit that could exceed $10 billion next year. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-tariffs-and-rising-health-care-costs-knock-california-budget-back-into-deficit>
+
+---
+
+## A bit of Vegas is coming to Santa Monica after outdoor drinking is approved for Third Street Promenade
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+The Santa Monica City Council has passed the ordinance allowing for to-go drinks on the pedestrianized shopping destination as early as June. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/santa-monica-third-street-promenade-outdoor-drinking-approved>
+
+---
+
+## Here's what to know about the Menendez brothers case and what could happen next
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+A Los Angeles judge resentenced Lyle and Erik Menendez, who have spent over three decades behind bars for the 1989 killing of their parents. They are now eligible for parole — but it's not guaranteed. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/menendez-brothers-one-step-closer-to-freedom-what-to-know-about-their-case>
+
+---
+
+## Death of man who jumped from shoreline pedestrian bridge is ruled an accident
+
+date: 2025-05-14, from: Longbeach Post
+
+<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C-1024x593.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C-1024x593.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C-300x174.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C-768x445.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C-186x108.png 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C-1200x695.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C-400x232.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/16163457/screenshot-2024-11-16-at-43428pm-708780-dasu6jgw-437288-wX0yBs2C.png 1508w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The man plummeted to his death along a crowded portion of the Long Beach harbor. A newly released medical examiner’s report says he was trying to leap into the water.</p>
+<p>The post <a href="https://lbpost.com/news/man-jumps-death-rainbow-harbor-long-beach-shoreline-accident">Death of man who jumped from shoreline pedestrian bridge is ruled an accident</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/man-jumps-death-rainbow-harbor-long-beach-shoreline-accident>
+
+---
+
+## Slightly warmer conditions with more sunshine for SoCal
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+We're going to feel temperatures rise up a few degrees Wednesday and Thursday in Southern California before it cools down again by the weekend. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/slightly-warmer-sunshine-socal>
+
+---
+
+## Newsom proposes to freeze Medi-Cal enrollment for undocumented immigrants
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+To save more than $5 billion, the California governor wants to shut down new enrollment for adults who lack legal status and charge premiums. The Legislature has resisted such changes. 
+
+<br> 
+
+<https://laist.com/news/health/newsom-proposes-to-freeze-medi-cal-enrollment-for-undocumented-immigrants>
+
+---
+
+## At these vending machines, you get mini art prints, not stale chips
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+Print artist Ana Inciardi sells her art through vending machines at 50 locations. Instead of snacks, Inciardi's three-slot machines produce prints you can collect, for the low price of four quarters. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/vending-machines-sell-mini-art-prints>
+
+---
+
+## Trump tariffs and rising health care costs knock California budget back into deficit
+
+date: 2025-05-14, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As Gov. Gavin Newsom prepares to unveil his revised budget proposal, California is experiencing unexpectedly shaky economic conditions, with a likely deficit of more than $10 billion next year.</p>
+<p>The post <a href="https://lbpost.com/news/politics/trump-tariffs-and-rising-health-care-costs-knock-california-budget-back-into-deficit">Trump tariffs and rising health care costs knock California budget back into deficit</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/trump-tariffs-and-rising-health-care-costs-knock-california-budget-back-into-deficit>
 
 ---
 
@@ -61,7 +202,7 @@ Previously, a criminal background disqualified them from becoming professional c
 
 date: 2025-05-13, from: Longbeach Post
 
-<figure><img width="1024" height="654" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1024x654.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1024x654.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-300x192.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-768x490.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-169x108.jpg 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1200x766.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-400x255.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9.jpg 1430w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="654" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1024x654.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1024x654.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-300x192.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-768x490.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-169x108.jpg 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-1200x766.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9-400x255.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/13162329/9eca0a3e-72f2-4767-a62b-86519ba2903c-619970-h0eszwzw-872688-6rk6ivq9.jpg 1430w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A fundraiser has been set up for Salvador Medina Jr.’s wife and two kids. The 20-year-old driver who lost control and swerved into Medina's lane was also killed.</p>
 <p>The post <a href="https://lbpost.com/news/7th-street-wrong-way-crash-father-id-funraiser-driver">35-year-old father ID’d as man killed by wrong-way driver on 7th Street</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

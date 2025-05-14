@@ -1,11 +1,170 @@
 ---
 title: pacific
-updated: 2025-05-14 06:07:41
+updated: 2025-05-14 14:08:07
 ---
 
 # pacific
 
-(date: 2025-05-14 06:07:41)
+(date: 2025-05-14 14:08:07)
+
+---
+
+## UH research on micro bubbles, endangered trees, pregnancy earn ARCS scholarships
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>Scholars of the Year receive $1,000 awards in addition to the $6,000 grants provided to all 19 Honolulu <abbr>ARCS</abbr> Scholars.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/14/2025-arcs-scholars/"><abbr>UH</abbr> research on micro bubbles, endangered trees, pregnancy earn ARCS scholarships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/14/2025-arcs-scholars/>
+
+---
+
+## Hawaiʻi Housing Factbook 2025: Modest improvements amid ongoing crisis
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>The <em>Factbook</em> is based on a wide range of data sources and offers housing indicators down to the zip code level.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/14/hawaii-housing-factbook-2025/">Hawaiʻi Housing Factbook 2025: Modest improvements amid ongoing crisis</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/14/hawaii-housing-factbook-2025/>
+
+---
+
+## Image of the Week: Dolphin
+
+date: 2025-05-14, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Hannah Parkus.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/14/image-of-the-week-dolphin/">Image of the Week: Dolphin</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/14/image-of-the-week-dolphin/>
+
+---
+
+## Green flag on Managaha
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-managaha/article_af5797f1-4344-4d5b-bd45-e8c580883498.html>
+
+---
+
+## Pope Leo says he will make ‘every effort’ for world peace
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+VATICAN CITY (Reuters) — Pope Leo XIV, the first American to head the global Catholic Church, pledged on Wednesday to make "every effort" for peace and offered the Vatican as a mediator in global conflicts, saying war was "never inevitable." 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/pope-leo-says-he-will-make-every-effort-for-world-peace/article_6ac680f9-ae8b-43aa-94af-b0d81916cb48.html>
+
+---
+
+## The Marianas joins Hiroshima Flower Festival 2025
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+THE Marianas Visitors Authority represented The Marianas at the Hiroshima Flower Festival 2025 on May 3-5, 2025, in Japan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/the-marianas-joins-hiroshima-flower-festival-2025/article_974812ef-80bf-4592-b37e-f277e860af01.html>
+
+---
+
+## Registration is open for free spearfishing dive and rescue training
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+THE CNMI Division of Fish and Wildlife, Aquasmith, and the Wave &amp; Waterpark Safety Academy are collaborating to offer free spearfishing, dive, and rescue training from June 6 to 7. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/registration-is-open-for-free-spearfishing-dive-and-rescue-training/article_ed987913-d068-4237-a460-44eef5470c2b.html>
+
+---
+
+## Banfield Foundation veterinary team to host wellness and sick pet consultations with Saipan Humane Society
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+THE Saipan Humane Society is pleased to welcome Dr. Katie Hayward and Certified Veterinary Technician Emily Lundstrom — visiting from the Banfield Foundation — for a special veterinary clinic running May 14 through 22. SHS offers wellness exams and sick consultations for pet owners across the island. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/banfield-foundation-veterinary-team-to-host-wellness-and-sick-pet-consultations-with-saipan-humane-society/article_b8e13afb-4fe7-4915-a3e0-4b9f7d808537.html>
+
+---
+
+## SHRM meeting to discuss ‘Second Chance Initiative’ with justice system representatives
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+THE Society for Human Resource Management-NMI Chapter will hold its general membership meeting on Wednesday, May 22, 2025, in the Napu Room of the Pacific Islands Club Saipan. Doors open at 8:30 a.m., and the meeting will run from 9 a.m. to 11 :30 a.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/shrm-meeting-to-discuss-second-chance-initiative-with-justice-system-representatives/article_2ab9db70-eaf1-4ec1-b90f-0491a431d6f4.html>
+
+---
+
+## Trump meets Syrian president, urges him to establish ties with Israel
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+RIYADH (Reuters) — President Donald Trump met with Syria's president in Saudi Arabia on Wednesday and urged him to normalize ties with longtime foe Israel, after a surprise U.S. announcement that it would lift all sanctions on the Islamist-led government. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-meets-syrian-president-urges-him-to-establish-ties-with-israel/article_ea3caee8-59c2-4590-973a-3bf4166dd473.html>
+
+---
+
+## Saipan Beacon Lions celebrate manamko’
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+THE Saipan Beacon Lions Club marked Older Americans Month by celebrating the island’s senior citizens with complimentary beauty services, Zumba, lunch, and more at the Manamko’ Center in Garapan on Wednesday, May 14. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-beacon-lions-celebrate-manamko/article_1b019382-09c5-4322-8df5-a6accd49e5a1.html>
+
+---
+
+## Senate backs Taiwan's inclusion in UN organizations
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+THE Senate on Friday unanimously adopted Senate Resolution 24-4, calling for Taiwan’s inclusion in the United Nations’ family of organizations, such as the World Health Organization, the International Civil Aviation Organization, the World Health Assembly, the International Police Criminal Organization and the United Nations Framework Convention on Climate Change. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senate-backs-taiwans-inclusion-in-un-organizations/article_8e92d45c-0ccf-4cec-af27-c94036a8a9ba.html>
+
+---
+
+## Ex-firefighters, ex-Finance secretary reach settlement
+
+date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
+
+DURING a settlement conference last week before Magistrate Judge Heather Kennedy of the District Court for the NMI, nine former firefighters and former Finance Secretary David DLG Atalig said they had tentatively reached a settlement in the lawsuit over premium pay. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ex-firefighters-ex-finance-secretary-reach-settlement/article_de15d1c0-7c9f-4045-944d-8ccd8d83c19a.html>
 
 ---
 

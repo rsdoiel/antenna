@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-14 06:07:47
+updated: 2025-05-14 14:08:12
 ---
 
 # retro computing
 
-(date: 2025-05-14 06:07:47)
+(date: 2025-05-14 14:08:12)
+
+---
+
+## b.log 2025/05/14 - What now, Linux?
+
+date: 2025-05-14, from: Richard Murray's blog
+
+What now, Linux? 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250514>
 
 ---
 

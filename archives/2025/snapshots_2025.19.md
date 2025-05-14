@@ -1,11 +1,259 @@
 ---
 title: snapshots
-updated: 2025-05-14 06:07:50
+updated: 2025-05-14 14:08:15
 ---
 
 # snapshots
 
-(date: 2025-05-14 06:07:50)
+(date: 2025-05-14 14:08:15)
+
+---
+
+## Apple Developer App 10.8
+
+date: 2025-05-14, from: Michael Tsai
+
+Juli Clover: As WWDC 2025 approaches, Apple has updated its Developer app to prepare for the week-long event. The refreshed version of the developer app will host the WWDC 2025 session videos, 1-on-1 labs with Apple engineers, and more. It&#8217;s still unreliable at working offline. I launched the app, and all of the screens were [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/14/apple-developer-app-10-8/>
+
+---
+
+## External Purchase Conversion Metrics
+
+date: 2025-05-14, from: Michael Tsai
+
+Jacob Eiting (Mastodon): Turns out, in-app purchases are good for conversion rates. In fact, at least 30% better. That&#8217;s one of the things we found while running the first large-scale, side-by-side test of in-app vs web purchases in history.[&#8230;]The initial conversion rate for variant B is between 27% and 30%, while the equivalent web flow [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/14/external-purchase-conversion-metrics/>
+
+---
+
+## Critical Warning for External Purchases in App Store
+
+date: 2025-05-14, from: Michael Tsai
+
+Viktor Maric: first time seeing this. Apple will punish the apps with external payment system Swift Dev: Yup it&#8217;s real, you see this warning if the app doesn&#8217;t use IAP. Also it says external purchases next to the &#8220;get&#8221; button It&#8217;s confusing to follow all the changes, but apparently&#8212;unlike in the US&#8212;external purchases in the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/>
+
+---
+
+## Apple’s 2025 Accessibility Feature Preview
+
+date: 2025-05-14, from: Michael Tsai
+
+Apple: Apple today announced new accessibility features coming later this year, including Accessibility Nutrition Labels, which will provide more detailed information for apps and games on the App Store. Users who are blind or have low vision can explore, learn, and interact using the new Magnifier app for Mac; take notes and perform calculations with [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/14/apples-2025-accessibility-feature-preview/>
+
+---
+
+## Daily Deals (5-14-2025)
+
+date: 2025-05-14, from: Liliputing
+
+<p>May 20th is National Streaming Day, a fake holiday that Roku invented more than a decade ago. Ahead of this year&#8217;s &#8220;holiday,&#8221; the Roku Channel is offering deals on 24 premium subscriptions. You can get a month of Apple TV+ for free, or sign up for other channels like Acorn, AMC+, Britbox, MGMG+ and STARZ [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-5-14-2025/">Daily Deals (5-14-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-5-14-2025/>
+
+---
+
+## Tuesday, May 13, 2025 - a very 2025 mid-may yard & garden report
+
+date: 2025-05-14, updated: 2025-05-14, from: p1k3.com community feed
+
+ 
+
+<br> 
+
+<https://p1k3.com/2025/5/13>
+
+---
+
+## MagicX Zero 40 is a $75 handheld with a vertical display for Nintendo DS emulation (and classic arcade games)
+
+date: 2025-05-14, from: Liliputing
+
+<p>The MagicX Zero 40 is an upcoming handheld game console that&#8217;s expected to sell for $75. It has relatively modest specs including a 1/8 GHz quad-core ARM Cortex-A53 processor, Imagination PowerVR GE8300 graphics, 2GB of RAM, and support for WiFi 4 and Bluetooth 4.2. But this handheld has one thing that makes it very different from [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/magicx-zero-40-is-a-75-handheld-with-a-vertical-display-for-nintendo-ds-emulation-and-classic-arcade-games/">MagicX Zero 40 is a $75 handheld with a vertical display for Nintendo DS emulation (and classic arcade games)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/magicx-zero-40-is-a-75-handheld-with-a-vertical-display-for-nintendo-ds-emulation-and-classic-arcade-games/>
+
+---
+
+## ODROID-C5 is a $39 single-board PC with a 2.5 GHz quad-core ARM Cortex-A55 CPU and 4GB of RAM
+
+date: 2025-05-14, from: Liliputing
+
+<p>The ODROID-C5 is a new credit card-sized single-board computer from Hardkernel that looks a lot like the ODROID-C4, which launched in 2020. But the new model has a few important upgrades. First, it has an Amlogic S905X5M processor that should bring a speed boost over older model&#8217;s S905X3 chip. Second, the new model sells for $39, which [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/odroid-c5-is-a-39-single-board-pc-with-a-2-5-ghz-quad-core-arm-cortex-a55-cpu-and-4gb-of-ram/">ODROID-C5 is a $39 single-board PC with a 2.5 GHz quad-core ARM Cortex-A55 CPU and 4GB of RAM</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/odroid-c5-is-a-39-single-board-pc-with-a-2-5-ghz-quad-core-arm-cortex-a55-cpu-and-4gb-of-ram/>
+
+---
+
+## Microsoft App Assure helps Nord Security build for Windows on Arm
+
+date: 2025-05-14, from: Windows Developer Blog
+
+<p>With the recent release of <a href="https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/">Copilot+ PCs</a>, developers are increasingly focused on optimizing their apps for these devices. Copilot+ PCs are the fastest, most intelligent</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/14/microsoft-app-assure-helps-nord-security-build-for-windows-on-arm/">Microsoft App Assure helps Nord Security build for Windows on Arm</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/14/microsoft-app-assure-helps-nord-security-build-for-windows-on-arm/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-14, from: Dave Winer's linkblog)
+
+What Attacks on Wikipedia Reveal about Free Expression. 
+
+<br> 
+
+<https://www.techpolicy.press/what-attacks-on-wikipedia-reveal-about-free-expression/>
+
+---
+
+## When it Comes to AI Policy, Congress Shouldn’t Cut States off at the Knees
+
+date: 2025-05-14, from: Gary Marcus blog
+
+[This essay is coauthored with many representatives from States across the United States, as listed below.] 
+
+<br> 
+
+<https://garymarcus.substack.com/p/when-it-comes-to-ai-policy-congress>
+
+---
+
+## Emmys 2025: ranking de predicciones categorías de comedia – mayo
+
+date: 2025-05-14, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>El resto de los rankings de mayo están disponibles aquí. Serie: The Studio y Only Murders in the Building buscan acabar con Hacks Hacks se posiciona como la gran favorita para llevarse el Emmy a Mejor serie de comedia 2025 tras su sorprendente victoria en 2024 sobre The Bear, consolidando su dominio con una cuarta [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-ranking-de-predicciones-categorias-de-comedia-mayo/">Emmys 2025: ranking de predicciones categorías de comedia – mayo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-ranking-de-predicciones-categorias-de-comedia-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-ranking-de-predicciones-categorias-de-comedia-mayo>
+
+---
+
+## Zotac new 2.65 liter mini PCs come with a choice of Ryzen AI Max or Intel & NVIDIA
+
+date: 2025-05-14, from: Liliputing
+
+<p>AMD&#8217;s Ryzen AI Max &#8220;Strix Halo&#8221; processors are known for having the best integrated graphics currently available on a mobile chip. The top-of-the-line Ryzen AI Max+ 395 with Radeon 8060S integrated graphics, for example, has 40 RDNA 3.5 GPU compute units and delivers discrete-class performance. While the chips haven&#8217;t shown up in many laptops or [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zotac-new-2-65-liter-mini-pcs-come-with-a-choice-of-ryzen-ai-max-or-intel-nvidia/">Zotac new 2.65 liter mini PCs come with a choice of Ryzen AI Max or Intel &#038; NVIDIA</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zotac-new-2-65-liter-mini-pcs-come-with-a-choice-of-ryzen-ai-max-or-intel-nvidia/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-14, from: Dave Winer's linkblog)
+
+New version of ActivityPub for WordPress. 
+
+<br> 
+
+<https://activitypub.blog/2025/05/14/5-9-0-easier-onboarding-for-your-fediverse-experience/>
+
+---
+
+## No More Tea Leaf Reading
+
+date: 2025-05-14, from: mrusme blog
+
+From client-side analytics voodoo to simple server-side metrics, or how I
+replaced Plausible Analytics with a lightweight, privacy-respecting solution
+that gives me just the right amount of insight. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/no-more-tea-leaf-reading/>
+
+---
+
+## Lessons from a Pig Roast
+
+date: 2025-05-14, from: Guy Kawasaki blog
+
+What BBQ can teach us about leadership. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/lessons-from-a-pig-roast>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-14, from: Dave Winer's linkblog)
+
+Poland prepares military for threat of invasion by Russia. 
+
+<br> 
+
+<https://www.npr.org/2025/05/12/1250811327/poland-prepares-for-war>
+
+---
+
+## The Proof of the Safety Is in the Flying
+
+date: 2025-05-14, updated: 2025-05-14, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/14/the-proof-of-the-airport-is-in-the-flying/>
+
+---
+
+## License Plate Reader Company Flock Is Building a Massive People Lookup Tool, Leak Shows
+
+date: 2025-05-14, from: 404 Media Group
+
+Flock, which has license plate readers (LPRs) all around the country, wants police to be able to “jump from LPR to person,” according to leaked audio obtained by 404 Media. 
+
+<br> 
+
+<https://www.404media.co/license-plate-reader-company-flock-is-building-a-massive-people-lookup-tool-leak-shows/>
+
+---
+
+## Star Wars Shows the Future of AI Special Effects and It Sucks
+
+date: 2025-05-14, from: 404 Media Group
+
+Industrial Light & Magic revealed a short film showcasing how it wants to use generative AI for Star Wars and it’s completely embarrassing.  
+
+<br> 
+
+<https://www.404media.co/star-wars-shows-the-future-of-ai-special-effects-and-it-sucks/>
 
 ---
 
@@ -64,6 +312,50 @@ We may be losing our last, best chance to limit climate change
 <br> 
 
 <https://paulkrugman.substack.com/p/is-this-the-year-we-doom-civilization>
+
+---
+
+## Impermanence
+
+date: 2025-05-14, from: Ed Summers blog, Inkdroid
+
+<p>
+From Thich Nhat Hanh in <a
+href="https://www.parallax.org/product/how-to-focus/">How to Focus</a>:
+</p>
+<blockquote>
+<p>
+The contemplation on impermanence can help us live our life with the
+insight of impermanence so we can be free from many afflictions such as
+anger, fear, and delusion. It isn’t the idea or notion of impermanence,
+but the insight of impermanence that can free and save us. Impermanence
+is not a negative note in the song of life. If there were no
+impermanence, life would be impossible. Without impermanence how could
+your little girl grow up and become a young woman? Without impermanence
+how could you hope to transform your suffering? You can hope to
+transform your suffering because you know it is impermanent. So
+impermanence is something positive. We should say, “Long Live
+Impermanence!”
+</p>
+</blockquote>
+<p>
+I think working in digital preservation, and as a memory worker in
+general, it’s easy to see impermanence as a, if not the, enemy. If you
+are thinking about a specific item in isolation, say a computer file, or
+an archival document, it kind of is. But if you focus your attention on
+the information artifact for a little bit you often come to discover
+that it is actually related to other artifacts and entities that may or
+may not still available, and that it is already incomplete, in many
+ways. This incompleteness is what gives the artifact value, and makes it
+worth preserving, and is also why exact preservation of its current
+state isn’t always possible. Forever is mental trap that causes anxiety
+and suffering.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/05/14/impermanence/>
 
 ---
 

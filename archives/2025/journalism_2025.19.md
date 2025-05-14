@@ -1,11 +1,39 @@
 ---
 title: journalism
-updated: 2025-05-14 06:07:45
+updated: 2025-05-14 14:08:10
 ---
 
 # journalism
 
-(date: 2025-05-14 06:07:45)
+(date: 2025-05-14 14:08:10)
+
+---
+
+## Pierce’s ‘Cabaret’ explores ‘not so far away’ struggles
+
+date: 2025-05-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>When the lights dim and the Kit Kat Club comes to life, audiences might expect a dazzling night of high kicks, glitter, and jazz hands.</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/14/pierces-cabaret-explores-not-so-far-away-struggles/">Pierce&#8217;s &#8216;Cabaret&#8217; explores &#8216;not so far away&#8217; struggles</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/14/pierces-cabaret-explores-not-so-far-away-struggles/?utm_source=rss&utm_medium=rss&utm_campaign=pierces-cabaret-explores-not-so-far-away-struggles>
+
+---
+
+## Networking expo: Careers in the fast lane
+
+date: 2025-05-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Engines were not the only thing revving at the Pierce College Automotive Job Fair Career Expo on Tuesday, April, 22.  The event was organized by</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/14/networking-expo-careers-in-the-fast-lane/">Networking expo: Careers in the fast lane</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/14/networking-expo-careers-in-the-fast-lane/?utm_source=rss&utm_medium=rss&utm_campaign=networking-expo-careers-in-the-fast-lane>
 
 ---
 
@@ -138,7 +166,7 @@ While filming “Big Bad Wolf,” at the age of 21, Kimberly J. Brown found hers
 
 date: 2025-05-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Undergraduate Students Association Council allocated over $500,000 in surplus funding at its meeting Tuesday. 
+The Undergraduate Students Association Council allocated over $500,000 in surplus funding at its meeting Tuesday.
 USAC is the official student government representing the undergraduate student body at UCLA. 
 
 <br> 

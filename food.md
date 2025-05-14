@@ -1,11 +1,83 @@
 ---
 title: food
-updated: 2025-05-14 06:07:49
+updated: 2025-05-14 14:08:13
 ---
 
 # food
 
-(date: 2025-05-14 06:07:49)
+(date: 2025-05-14 14:08:13)
+
+---
+
+## The Mikael Jasin Guide To Coffee And More In Jakarta
+
+date: 2025-05-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A food and drink guide to Jakarta, Indonesia by 2024 World Barista Champion Mikael Jasin. 
+
+<br> 
+
+<https://sprudge.com/the-mikael-jasin-guide-to-coffee-and-more-in-jakarta-335054.html>
+
+---
+
+## SCA Launching Tiered Professional Education Pricing Based on Country
+
+date: 2025-05-14, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Education" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States- and UK-based Specialty Coffee Association (SCA) is rolling out a new tiered pricing structure for its professional education program based on geographic location.&#160; According to an announcement... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/14/sca-launching-tiered-professional-education-pricing-based-on-country/>
+
+---
+
+## The Best Groceries Our Editors Bought in May 2025
+
+date: 2025-05-14, from: Bon Appetet
+
+Pistachio butter, curry tofu nuggets, an Olipop flavor worth stocking up on, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-groceries-we-bought-may-2025>
+
+---
+
+## Rowan Coffee is Flowing in West Asheville with New Roastery Cafe
+
+date: 2025-05-14, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Rowan_West_Complete_005" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Asheville, North Carolina-based roasting company Rowan Coffee opened its second location last month, a classy and comfortable cafe that also now houses the roasting operation.&#160; Inside a former automotive garage... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/14/rowan-coffee-is-flowing-in-west-asheville-with-new-roastery-cafe/>
+
+---
+
+## Breville Toaster Oven Guide: Which Is Best for You?
+
+date: 2025-05-14, from: Bon Appetet
+
+Yes, we know they all have the same name. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-breville-ovens>
+
+---
+
+## Tariffs May Come and Go but the Canadiano Seems Here to Stay
+
+date: 2025-05-14, from: Daily Coffee News
+
+<div><img width="620" height="620" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-620x620.png" class="attachment-large size-large wp-post-image" alt="Canadiano drink" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-620x620.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-300x300.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-150x150.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-768x768.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink.png 1024w" sizes="(max-width: 620px) 100vw, 620px" /></div>On Feb. 5, Invermere, British Columbia-based cafe and roastery Kicking Horse Coffee posted a call to action, urging Canadian coffee shops to rename the Americano as the Canadiano. “For 16... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/14/tariffs-may-come-and-go-but-the-canadiano-seems-here-to-stay/>
 
 ---
 
@@ -63,7 +135,7 @@ date: 2025-05-13, from: Taste of Home
 
 ---
 
-## What Is the Best Tequila? A Taste Test of Patrón, Terremana, Casamigos, and More
+## What Is the Best Tequila? A Taste Test of Patrón, Teremana, Casamigos, and More
 
 date: 2025-05-13, from: Bon Appetet
 
@@ -131,7 +203,7 @@ Yes, you can get a kit that’s certified gluten-free.
 
 date: 2025-05-13, from: Daily Coffee News
 
-<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-620x439.jpg" class="attachment-large size-large wp-post-image" alt="coffee drinking" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A diet rich in foods containing polyphenols — which coffee has in spades — can dramatically reduce the risk of metabolic syndrome, a cluster of health conditions that is a... 
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-620x439.jpg" class="attachment-large size-large wp-post-image" alt="coffee drinking" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drinking.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A diet rich in foods containing polyphenols — which coffee has in spades — can dramatically reduce the risk of metabolic syndrome, a cluster of health conditions that is a... 
 
 <br> 
 
@@ -143,7 +215,7 @@ date: 2025-05-13, from: Daily Coffee News
 
 date: 2025-05-13, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With research supported by two of the world&#8217;s largest coffee companies, the United States-based nonprofit TechnoServe is making a business case for investing in regenerative agriculture in the coffee sector.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee plants" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-plants-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>With research supported by two of the world&#8217;s largest coffee companies, the United States-based nonprofit TechnoServe is making a business case for investing in regenerative agriculture in the coffee sector.... 
 
 <br> 
 
@@ -167,7 +239,7 @@ date: 2025-05-13, from: The Sprudge
 
 date: 2025-05-13, from: Daily Coffee News
 
-<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-620x418.jpg" class="attachment-large size-large wp-post-image" alt="Paradeco Coffee St Pete 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Expanding from its dazzling roastery cafe in downtown St. Petersburg, Florida&#8217;s Paradeco Coffee Roasters recently opened a second ode to Art Deco and specialty coffee at the SkyBeach Resort. Located... 
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-620x418.jpg" class="attachment-large size-large wp-post-image" alt="Paradeco Coffee St Pete 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Paradeco-Coffee-St-Pete-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Expanding from its dazzling roastery cafe in downtown St. Petersburg, Florida&#8217;s Paradeco Coffee Roasters recently opened a second ode to Art Deco and specialty coffee at the SkyBeach Resort. Located... 
 
 <br> 
 
