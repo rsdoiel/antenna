@@ -1,11 +1,175 @@
 ---
 title: north america
-updated: 2025-05-15 06:06:43
+updated: 2025-05-15 14:07:41
 ---
 
 # north america
 
-(date: 2025-05-15 06:06:43)
+(date: 2025-05-15 14:07:41)
+
+---
+
+## Andor 'is not written from the headlines,' even if it feels that way
+
+date: 2025-05-15, from: The Contrarian
+
+Creator Tony Gilroy says the Star Wars series depicts the kind of authoritarian regime we've seen many times in history 
+
+<br> 
+
+<https://contrarian.substack.com/p/andor-is-not-written-from-the-headlines>
+
+---
+
+## The New Battleground for 2028 
+
+date: 2025-05-15, from: The Contrarian
+
+As algorithms replace airwaves, the real battle for power is happening online&#8212;and both sides know it. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-new-battleground-for-2028>
+
+---
+
+## Innovative Medi-Cal Expansion Threatened by Budget and Trump Pressures
+
+date: 2025-05-15, from: Capital and Main
+
+<p>Gov. Newsom walks back signature program that provided medical safety net to 1.6 million undocumented immigrants.</p>
+<p>The post <a href="https://capitalandmain.com/innovative-medi-cal-expansion-threatened-by-budget-and-trump-pressures">Innovative Medi-Cal Expansion Threatened by Budget and Trump Pressures</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/innovative-medi-cal-expansion-threatened-by-budget-and-trump-pressures>
+
+---
+
+## The truth about the opioid wars
+
+date: 2025-05-15, from: The Contrarian
+
+Trump talks tough about the danger of fentanyl&#8212;and then kills the successful Biden programs that brought opioid deaths down. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-truth-about-the-opioid-wars>
+
+---
+
+##  Live And Let Dividend 
+
+date: 2025-05-15, from: The Lever News
+
+ Trump’s U.K. ambassador helped negotiate a trade deal that stands to benefit his investments.  
+
+<br> 
+
+<https://www.levernews.com/live-and-let-dividend/>
+
+---
+
+## Trump made the right decision on Syria
+
+date: 2025-05-15, from: The Contrarian
+
+The opening is real. Ignoring it would be a mistake. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-made-the-right-decision-on>
+
+---
+
+## The toxic online community pandering to suffering men: Pasha Dashtgard on the manosphere
+
+date: 2025-05-15, from: The Contrarian
+
+"This is very seductive, for men in particular who feel disempowered, who feel marginalized, who feel ignored" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163055810/94c2c45ae77ce6b5a77ec12b330d2ced.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163055810/94c2c45ae77ce6b5a77ec12b330d2ced.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-toxic-online-community-pandering>
+
+---
+
+##  Pay-To-Pollute, Now Accepting TrumpCoin 
+
+date: 2025-05-15, from: The Lever News
+
+ Lawmakers just added a budget bill provision to let oil and gas firms buy lenient regulatory treatment from the Energy Department — and pay with Trump’s cryptocurrency.  
+
+<br> 
+
+<https://www.levernews.com/pay-to-pollute-now-accepting-trumpcoin/>
+
+---
+
+## Many on Navajo Nation Blindsided by Hydrogen Pipeline Change
+
+date: 2025-05-15, from: Capital and Main
+
+<p>Pipeline company touts helping the nation; letter writing campaign raises questions. Critic says, “Just pipe the natural gas.”</p>
+<p>The post <a href="https://capitalandmain.com/many-on-navajo-nation-blindsided-by-hydrogen-pipeline-change">Many on Navajo Nation Blindsided by Hydrogen Pipeline Change</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/many-on-navajo-nation-blindsided-by-hydrogen-pipeline-change>
+
+---
+
+## A League of Her Own: Transgender Athlete AB Hernandez Faces Down Hecklers
+
+date: 2025-05-15, from: Capital and Main
+
+<p>Dozens of adults attended a track meet to yell at the teenager as she competed.</p>
+<p>The post <a href="https://capitalandmain.com/a-league-of-her-own-transgender-athlete-ab-hernandez-faces-down-hecklers">A League of Her Own: Transgender Athlete AB Hernandez Faces Down Hecklers</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/a-league-of-her-own-transgender-athlete-ab-hernandez-faces-down-hecklers>
+
+---
+
+## With the Republican budget and Trump's tariff games, there's no relief in sight
+
+date: 2025-05-15, from: The Contrarian
+
+We&#8217;d like to think that as traders seek to bring markets back to where President Joe Biden left them, the worst is behind us. It's not. 
+
+<br> 
+
+<https://contrarian.substack.com/p/with-the-republican-budget-and-trumps>
+
+---
+
+## Coffee with The Contrarians 05/15
+
+date: 2025-05-15, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 0/15 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0515>
+
+---
+
+## Unpacking the Sean Combs trial
+
+date: 2025-05-15, from: The Contrarian
+
+What&#8217;s at stake when the defense admits violence and sex? 
+
+<br> 
+
+<https://contrarian.substack.com/p/unpacking-the-sean-combs-trial>
 
 ---
 

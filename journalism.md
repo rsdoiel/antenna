@@ -1,11 +1,93 @@
 ---
 title: journalism
-updated: 2025-05-15 06:06:49
+updated: 2025-05-15 14:07:47
 ---
 
 # journalism
 
-(date: 2025-05-15 06:06:49)
+(date: 2025-05-15 14:07:47)
+
+---
+
+## Building a Volunteer Dream Team: Lessons from James River Church
+
+date: 2025-05-15, from: The Sundail (CSUN Student Newspaper)
+
+Every thriving organization has one thing in common: a group of people who believe in the mission so much they’re willing to pour their time, energy, and hearts into it.... 
+
+<br> 
+
+<https://sundial.csun.edu/193688/sundialbrandstudio/sundial-marketplace/building-a-volunteer-dream-team-lessons-from-james-river-church/>
+
+---
+
+## Four-year festivities: Event held for UCLA, CSUN transfer students
+
+date: 2025-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; Students celebrated with upbeat music, lively games and refreshing ice cream during the UCLA and CSUN Day event on Wednesday, May 7, inside the</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/15/four-year-festivities-event-held-for-ucla-csun-transfer-students/">Four-year festivities: Event held for UCLA, CSUN transfer students</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/15/four-year-festivities-event-held-for-ucla-csun-transfer-students/?utm_source=rss&utm_medium=rss&utm_campaign=four-year-festivities-event-held-for-ucla-csun-transfer-students>
+
+---
+
+## Review: A slow burning tragedy brings Pierce Theatre to life
+
+date: 2025-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; Grab a seat and relax! Oh, and don’t tell your mama you went to see the “Cabaret” at the Los Angeles Pierce College now</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/15/review-a-slow-burning-tragedy-brings-pierce-theatre-to-life/">Review: A slow burning tragedy brings Pierce Theatre to life</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/15/review-a-slow-burning-tragedy-brings-pierce-theatre-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=review-a-slow-burning-tragedy-brings-pierce-theatre-to-life>
+
+---
+
+## Chancellor accepts position at Board of Trustees meeting
+
+date: 2025-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Los Angeles Community College District (LACCD) Board of Trustees Chancellor Alberto J. Roman held his first meeting on Wednesday, May 7 as permanent chancellor,</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/15/chancellor-accepts-position-at-board-of-trustees-meeting/">Chancellor accepts position at Board of Trustees meeting</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/15/chancellor-accepts-position-at-board-of-trustees-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=chancellor-accepts-position-at-board-of-trustees-meeting>
+
+---
+
+## San Fernando Valley celebrates AAPI cultures
+
+date: 2025-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The 4th Annual Asian American and Pacific Islander Festival was held at Parking Lot 7 at Pierce College on Saturday, May 10, where the different</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/15/san-fernando-valley-celebrates-aapi-cultures/">San Fernando Valley celebrates AAPI cultures</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/15/san-fernando-valley-celebrates-aapi-cultures/?utm_source=rss&utm_medium=rss&utm_campaign=san-fernando-valley-celebrates-aapi-cultures>
+
+---
+
+## Raising awareness on Denim Day
+
+date: 2025-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; The Associated Student Organization (ASO) displayed their Denim Day Clothesline Project at Rocky Young Park at Pierce College on Wednesday, April 30, to raise</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/15/raising-awareness-on-denim-day/">Raising awareness on Denim Day</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/15/raising-awareness-on-denim-day/?utm_source=rss&utm_medium=rss&utm_campaign=raising-awareness-on-denim-day>
 
 ---
 

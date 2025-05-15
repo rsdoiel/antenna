@@ -1,11 +1,176 @@
 ---
 title: socal north
-updated: 2025-05-15 06:06:44
+updated: 2025-05-15 14:07:42
 ---
 
 # socal north
 
-(date: 2025-05-15 06:06:44)
+(date: 2025-05-15 14:07:42)
+
+---
+
+## Former La Cañada Flintridge assistant city manager charged with fraud, embezzlement
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+Carl Alameda is accused of stealing $200,000 meant for the city. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/former-la-canada-flintridge-assistant-city-manager-charged-with-fraud-embezzlement>
+
+---
+
+## Paying rent in California? It could now help your credit score
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+In California, AB 2747 now requires landlords to give tenants the option to share on-time rent payments with credit bureaus. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/paying-rent-in-california-could-now-help-credit-score>
+
+---
+
+## Is the secret to housing affordability in California buried in the building code?
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+On the whole, the California building code would be set on cruise control for the better half of a decade. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/is-the-secret-to-housing-affordability-in-california-buried-in-the-building-code>
+
+---
+
+## Geologically rich but economically poor, Salton Sea communities want a say in their lithium future
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+The Salton Sea will soon become a major hub for California’s renewable energy economy, prompting the state legislature to take steps to ensure future investments benefit local communities. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/salton-sea-communities-want-a-say-in-their-lithium-future>
+
+---
+
+## Walmart says higher prices from tariffs coming as soon as this month
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+The world's largest retailer says it won't be able to absorb all the costs from higher tariffs on imported goods, particularly from China. 
+
+<br> 
+
+<https://laist.com/news/walmart-says-higher-prices-from-tariffs-coming-as-soon-as-this-month>
+
+---
+
+## Medi-Cal coverage of weight loss drugs on chopping block under governor’s proposal
+
+date: 2025-05-15, from: Longbeach Post
+
+<figure><img width="1024" height="670" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-1024x670.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-1024x670.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg.jpg 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Weight loss drugs Ozempic and Wegovy would no longer be covered by California’s health insurance for low-income people under the governor’s proposal.</p>
+<p>The post <a href="https://lbpost.com/news/health/medi-cal-coverage-of-weight-loss-drugs-on-chopping-block-under-governors-proposal">Medi-Cal coverage of weight loss drugs on chopping block under governor’s proposal</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/medi-cal-coverage-of-weight-loss-drugs-on-chopping-block-under-governors-proposal>
+
+---
+
+## Man lying in roadway killed in crash outside Long Beach VA, police say
+
+date: 2025-05-15, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The collision happened at about 2:30 a.m. on Seventh Street, near Channel Drive, police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/seventh-street-crash-va-fata-traffic-collision">Man lying in roadway killed in crash outside Long Beach VA, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/seventh-street-crash-va-fata-traffic-collision>
+
+---
+
+## LA city officials told a court they were adding new beds for the unhoused. But auditors couldn’t verify over 1,400 of them
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+The city agreed to pay for the beds in an agreement overseen by a federal judge, but withheld spending summaries from court auditors. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-city-officials-new-beds-for-unhoused-auditors>
+
+---
+
+## East LA can’t afford to become a city, county report finds
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+A long-awaited county study finds incorporation is still financially unviable. Instead, officials propose creating a community-led advisory group to help shape services and policy. 
+
+<br> 
+
+<https://laist.com/news/politics/east-la-cant-afford-to-become-a-city-county-report-finds>
+
+---
+
+## Metro advances idea for Olympic water taxi between Long Beach and San Pedro
+
+date: 2025-05-15, from: Longbeach Post
+
+<figure><img width="1024" height="582" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15084858/0609-aqualink-0-1110x631-1-020483-jw9ijfjg-552371-UzdrJFvT-1024x582.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15084858/0609-aqualink-0-1110x631-1-020483-jw9ijfjg-552371-UzdrJFvT-1024x582.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15084858/0609-aqualink-0-1110x631-1-020483-jw9ijfjg-552371-UzdrJFvT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15084858/0609-aqualink-0-1110x631-1-020483-jw9ijfjg-552371-UzdrJFvT-768x437.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15084858/0609-aqualink-0-1110x631-1-020483-jw9ijfjg-552371-UzdrJFvT-190x108.jpg 190w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15084858/0609-aqualink-0-1110x631-1-020483-jw9ijfjg-552371-UzdrJFvT-400x227.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15084858/0609-aqualink-0-1110x631-1-020483-jw9ijfjg-552371-UzdrJFvT.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach will be a major hub during the 2028 Games, and officials are exploring ways to make sure spectators have easy access.</p>
+<p>The post <a href="https://lbpost.com/news/metro-advances-idea-for-olympic-water-taxi-between-long-beach-and-san-pedro">Metro advances idea for Olympic water taxi between Long Beach and San Pedro </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/metro-advances-idea-for-olympic-water-taxi-between-long-beach-and-san-pedro>
+
+---
+
+## Best things to do this weekend in LA and SoCal
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+The 25th El Tráfico soccer match is on, 'A Man of No Importance'is on stage at A Noise Within, a Japanese food festival takes over the Santa Monica Pier and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-and-southern-california-may-16-18>
+
+---
+
+## Another warm and sunny day in store for SoCal
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+We're going to feel temperatures rise up a few degrees Thursday in Southern California before it cools down again. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warm-sunny-socal-weather-forecast>
+
+---
+
+## This Altadena restaurant's neighborhood is gone after the Eaton Fire. It's reopening anyway
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+The neighborhood’s beloved Thai restaurant, Miya, is again opening its doors, even though there may be few customers. 
+
+<br> 
+
+<https://laist.com/news/food/altadena-restaurant-neighborhood-gone-eaton-fire-reopening>
 
 ---
 
@@ -30,18 +195,6 @@ San Marino voters will decide whether to continue a property tax first approved 
 <br> 
 
 <https://laist.com/news/politics/measure-r-san-marino-unified-school-district-parcel-tax-election-2025>
-
----
-
-## This Altadena restaurant's neighborhood is gone after the Eaton Fire. It's reopening anyway
-
-date: 2025-05-15, updated: 2025-05-15, from: The LAist
-
-The neighborhood’s beloved Thai restaurant, Miya, is again opening its doors, even though there may be few customers. 
-
-<br> 
-
-<https://laist.com/news/food/altadena-restaurant-neighborhood-gone-eaton-fire-reopening>
 
 ---
 
@@ -97,7 +250,7 @@ The hearing comes after an independent audit found significant failures by the c
 
 date: 2025-05-14, from: Longbeach Post
 
-<figure><img width="1024" height="760" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1024x760.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1024x760.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-300x223.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-768x570.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1200x891.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-400x297.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb.jpg 1226w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="760" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1024x760.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1024x760.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-300x223.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-768x570.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1200x891.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-400x297.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb.jpg 1226w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Fremont Elementary’s principal said the money from a local gym’s fundraiser “may not even go to” the school. The gym owner said he’s raised hundreds of thousands for the science program.</p>
 <p>The post <a href="https://lbpost.com/news/education/after-lbusd-casts-suspicion-on-an-online-fundraiser-donor-behind-it-says-he-was-unfairly-maligned">After LBUSD casts suspicion on an online fundraiser, donor behind it says he was unfairly maligned</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -136,7 +289,7 @@ Bad Bunny's DeBÍ TiRAR Más FOToS and Fuerza Regida's 111XPANTIA hold down the 
 
 date: 2025-05-14, from: Longbeach Post
 
-<figure><img width="1024" height="556" src="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-553x300.jpeg 553w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1110x602.jpeg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-768x417.jpeg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1536x833.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-2048x1111.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="556" src="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-553x300.jpeg 553w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1110x602.jpeg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-768x417.jpeg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1536x833.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-2048x1111.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>They allege two women arriving on a cruise ship from Ensenada, Mexico, were trying to smuggle in hundreds of cartons of cigarettes.</p>
 <p>The post <a href="https://lbpost.com/news/crime/luggage-packed-with-contraband-cigarettes-seized-at-long-beach-cruise-terminal-authorities-say">Luggage packed with contraband cigarettes seized at Long Beach Cruise Terminal, authorities say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

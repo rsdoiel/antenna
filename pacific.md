@@ -1,11 +1,65 @@
 ---
 title: pacific
-updated: 2025-05-15 06:06:45
+updated: 2025-05-15 14:07:43
 ---
 
 # pacific
 
-(date: 2025-05-15 06:06:45)
+(date: 2025-05-15 14:07:43)
+
+---
+
+## Stay Scam Smart INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-05-15, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Attila Seress, Cypac Cyber security Al Ogata, Chief Executive Officer &#8211; Cyberhawaii Sgt. Edmund Ho, CrimeStoppers Honolulu Coordinator Jodi Ito, University of Hawaiʻi Chief Information Security Officer</p>
+<p>The post <a href="https://www.pbshawaii.org/stay-scam-smart-insights-on-pbs-hawai%ca%bbi/">Stay Scam Smart &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/stay-scam-smart-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Clarence T.C. Ching Foundation, Hawaii Cubing Community, Kimokeo Foundation Home is Here
+
+date: 2025-05-15, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/clarence-t-c-ching-foundation-hawaii-cubing-community-kimokeo-foundation-home-is-here-2/">Clarence T.C. Ching Foundation, Hawaii Cubing Community, Kimokeo Foundation &lt;br/&gt;Home is Here</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/clarence-t-c-ching-foundation-hawaii-cubing-community-kimokeo-foundation-home-is-here-2/>
+
+---
+
+## Apply now: Free UH summer research program in food, fashion, ʻāina
+
+date: 2025-05-15, from: University of Hawaiʻi News
+
+<p><abbr>CTAHR</abbr>’s Summer Research Institute is designed to spark innovation in agriculture, environmental sustainability, food systems, fashion and family and community resilience.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/15/summer-program-food-fashion-aina/">Apply now: Free <abbr>UH</abbr> summer research program in food, fashion, ʻāina</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/15/summer-program-food-fashion-aina/>
+
+---
+
+## Slipper lost and found
+
+date: 2025-05-15, from: Marshal Islands Journal
+
+<p>An up and coming musician from Chuuk, Rex Hetiback, held a concert at Jittak En club the other week. The night was successful except the artist was missing one of his slippers. So the artist posted a one-liner on social media asking Majuro where his slipper went. Post went viral for a while before it [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/slipper-lost-and-found/">Slipper lost and found</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/slipper-lost-and-found/>
 
 ---
 

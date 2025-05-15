@@ -1,11 +1,551 @@
 ---
 title: columns
-updated: 2025-05-15 06:06:47
+updated: 2025-05-15 14:07:45
 ---
 
 # columns
 
-(date: 2025-05-15 06:06:47)
+(date: 2025-05-15 14:07:45)
+
+---
+
+##  Future Ruins is a one-day music festival featuring film and TV composers... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046866-future-ruins-is-a-one-day>
+
+---
+
+## Apple, Appealing €500M DMA Fine, Contends It Made a Series of Proposals to the European Commission Throughout 2024 but Did Not Receive Feedback
+
+date: 2025-05-15, updated: 2025-05-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.politico.eu/article/apple-to-appeal-e500m-digital-fine-over-eus-silence-in-compliance-talks/>
+
+---
+
+## May 14, 2025
+
+date: 2025-05-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163661670/6b86ff58deea1d065d256b23138f5481.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163661670/6b86ff58deea1d065d256b23138f5481.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-14-2025-511>
+
+---
+
+## Installing an outdoor GPS antenna for more accurate time
+
+date: 2025-05-15, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Installing an outdoor GPS antenna for more accurate time</span>
+
+            <p>I've been deep into time and timing lately (more shenanigans coming tomorrow), but today I posted a video covering the install of a <a href="https://www.pctel.com/antenna-product/timing-antenna-with-integrated-lightning-protection/">PCTEL GPS/GNSS antenna</a> at my studio.</p>
+
+<p></p>
+
+<p>I put up the antenna after realizing how indoor GPS reception is just never that great, due to a variety of factors (like multipath propagation and interference), even if I placed my antennas up in the plenum space right under the roof. Of course, it doesn't help that my studio has a metal roof :)</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">May 15, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/installing-outdoor-gps-antenna-more-accurate-time>
+
+---
+
+## More Old Mac Font Memories
+
+date: 2025-05-15, updated: 2025-05-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://leancrew.com/all-this/2025/05/font-memories-of-old-macs/>
+
+---
+
+## 2025-05-15 Driving to Grabovac
+
+date: 2025-05-15, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-15-driving-to-grabovac">2025-05-15 Driving to Grabovac</h1>
+
+<p>Today not much happened. We ate breakfast, packed our stuff and drove to Grabovac. Claudia does all the driving. The roads were narrow and progress was slow. The 125km took us a long time. And when we arrived, we had a siesta two hours long.</p>
+
+<p>Claudia isn’t feeling too well. At first we thought she had picked up a stomach bug somewhere but then we saw that the bottled water she was drinking (Donat) contained 1000mg of magnesium! She drank one and half litres of it for a few days. And as they say, beyond 250mg/day it starts getting weird and closer to 2500mg/day it gets dangerous.</p>
+
+<p>When stopping for a snack in the autobahn, we like the pistachio croissant which we cannot get in Switzerland.</p>
+
+<p><img loading="lazy" src="2025-05-14-grabovac-1.jpg" alt="croissant with green stuff on it" /></p>
+
+<p>Around dinner the weather starts turning bad. Storm clouds and rain. It will be cold, tomorrow.</p>
+
+<p><img loading="lazy" src="2025-05-14-grabovac-2.jpg" alt="a swimming pool with dark clouds overhead" /></p>
+
+<p>Walking around the property, we saw these huge flowers along with some irises.</p>
+
+<p>Flora Incognita says:</p>
+
+<p>Clematis patens</p>
+
+<p><img loading="lazy" src="2025-05-14-grabovac-3.jpg" alt="big white flowers" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Magnesium">#Magnesium</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-14-grabovac>
+
+---
+
+## 2025-05-14 Crikvenica
+
+date: 2025-05-15, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-14-crikvenica">2025-05-14 Crikvenica</h1>
+
+<p>Today was a no-car day and we went for a hike. First we walked along the coast to the neighbouring village of Dramalji, then up the hill and over a pass to Tribalj, then back along the Dubračina back to Crikvenica.</p>
+
+<p>Thanks to OsmAnd for the navigation and Flora Incognita for identifying the plants late at night.</p>
+
+<p>Pictures by Claudia and me.</p>
+
+<p>We started along the coast, on that one-way street.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-1.jpg" alt="a street with a one-way sign" /></p>
+
+<p>Across the sea you can see the island of Krk. We did not have the time to visit.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-2.jpg" alt="Alex and Claudia grinning at the camera, both wearing hats and sunglasses" /></p>
+
+<p>When there are no sandy beaches, concrete slabs dot the coast for roasting tourists in summer.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-3.jpg" alt="empty concrete platforms by the sea" /></p>
+
+<p>I like the rocks without the construction work but I guess it’s harder to get into the water.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-36.jpg" alt="The rocky coast without construction works" /></p>
+
+<p>Then we started the ascent.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-4.jpg" alt="stairs going up" /></p>
+
+<p>We always stop for new flowers along the way!
+This one grew out of a stone wall.</p>
+
+<p>Garten-Löwenmaul<br>
+Antirrhinum majus</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-5.jpg" alt="purple flowers" /></p>
+
+<p>Further up, more flowers grew along the way.</p>
+
+<p>Strahlen-Breitsame<br>
+Orlaya grandiflora</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-6.jpg" alt="white flowers" /></p>
+
+<p>Even further up, we entered a landscape of salvia. This was simply the first one, growing next to the trail.</p>
+
+<p>Echter Salbei<br>
+Salvia officinalis</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-7.jpg" alt="violet flowers" /></p>
+
+<p>Up and up, leaving the town behind.
+Sometimes, stonewalls line the trail.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-8.jpg" alt="dry stone walls to the left and right of the trail" /></p>
+
+<p>Then the walls disappear and the sun bakes us.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-9.jpg" alt="the trail is overgrown with white and yellow flowers" /></p>
+
+<p>Megascolia maculata</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-37.jpg" alt="looks like a hornet but it is a wasp" /></p>
+
+<p>The trail is made up of broken white rocks.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-10.jpg" alt="Claudia looking back at me" /></p>
+
+<p>Looking back towards the sea and the island of Krk.
+It&rsquo;s still steep going.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-11.jpg" alt="rough gravel trail and the ocean in the distance" /></p>
+
+<p>Crepis neglecta</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-12.jpg" alt="yellow flowers" /></p>
+
+<p>The trail keeps climbing. We started at sea level and the pass is at about 300 and something meters above the sea.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-13.jpg" alt="Pine trees, gravel trail, no shade" /></p>
+
+<p>I don&rsquo;t remember seeing a purple variant.</p>
+
+<p>Gewöhnlicher Wundklee<br>
+Anthyllis vulneraria</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-14.jpg" alt="purple flowers" /></p>
+
+<p>Rapunzel-Glockenblume<br>
+Campanula rapunculus</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-15.jpg" alt="violet flowers" /></p>
+
+<p>This is what it looks like when I’m taking pictures.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-38.jpg" alt="Alex squatting on the ground, pointing the phone at a tiny flower" /></p>
+
+<p>Flora Incognita seems to be very unsure about this one, but we saw it a lot.
+Milchstern or Ornithogalum seems good to me, but which one?</p>
+
+<p>Ornithogalum baeticum</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-16.jpg" alt="White flower" /></p>
+
+<p>iSeek says:</p>
+
+<p>Frühlingsmistkäfer<br>
+Trypocopris vernalis</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-17.jpg" alt="Black beetles" />
+<img loading="lazy" src="2025-05-14-crikvenica-39.jpg" alt="more of these strange beetles" /></p>
+
+<p>Look at the caterpillar I saw when I looked at the beetles!</p>
+
+<p>Glucken<br>
+Lasiocampidae</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-18.jpg" alt="Caterpillar" /></p>
+
+<p>Not too long after that I nearly ran into this fellow, lowering itself from a branch by a silk strand.</p>
+
+<p>Eulenfalter<br>
+Acronicta</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-19.jpg" alt="Another caterpillar in mid air" /></p>
+
+<p>iSeek says:</p>
+
+<p>Schwarzer Bär<br>
+Arctia villica</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-40.jpg" alt="a black butterfly with yellow dots" /></p>
+
+<p>We reached a different biome!</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-20.jpg" alt="brushes, grass, stones" /></p>
+
+<p>We call it tick country. 😰</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-21.jpg" alt="Claudia walking along a narrow trail through higher grass and brushes" /></p>
+
+<p>Endless sage meadows, up here.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-22.jpg" alt="a metallic green beetle on violet flowers" />
+<img loading="lazy" src="2025-05-14-crikvenica-23.jpg" alt="Claudia taking pictures" />
+<img loading="lazy" src="2025-05-14-crikvenica-42.jpg" alt="sage meadow" /></p>
+
+<p>Far behind us, the sea is still visible.
+We keep on walking.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-24.jpg" alt="Brushes, stones" />
+<img loading="lazy" src="2025-05-14-crikvenica-25.jpg" alt="small trees, narrow trail" />
+<img loading="lazy" src="2025-05-14-crikvenica-43.jpg" alt="Alex taking pictures of flowers" />
+<img loading="lazy" src="2025-05-14-crikvenica-26.jpg" alt="more sage with carpenter bee" /></p>
+
+<p>We take too many pictures.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-41.jpg" alt="Alex taking pictures of flowers" /></p>
+
+<p>Gewöhnlicher Perückenstrauch<br>
+Cotinus coggygria</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-27.jpg" alt="yellow-green flowers" /></p>
+
+<p>We finally reached the other side.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-44.jpg" alt="a lake at the bottom of the valley" /></p>
+
+<p>The biome changed again.
+The forest is cooler and the ground is no longer dry.</p>
+
+<p>Pfirsichblättrige Glockenblume<br>
+Campanula persicifolia</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-28.jpg" alt="violet flowers" /></p>
+
+<p>The trail is pretty steep!</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-29.jpg" alt="Claudia on the trail" /></p>
+
+<p>Luckily, there is a lot of shade.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-30.jpg" alt="A forest with slender trees and green canopy" /></p>
+
+<p>Markings are good. We lost our way once, at the top of the pass, ending up at a plaque commemorating the fight against fascism in 1945 and 1956, I guess. I couldn’t actually read anything except the years. We turned back and soon found our way.</p>
+
+<p>Is this the partisan trail?</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-45.jpg" alt="dry stone wall with a hiking trail marker" /></p>
+
+<p>Rapunzel-Glockenblume<br>
+Campanula rapunculus</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-31.jpg" alt="And more violet flowers" /></p>
+
+<p>We finally reached the little river that will take us back!</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-32.jpg" alt="a river, three or four meters wide" />
+<img loading="lazy" src="2025-05-14-crikvenica-33.jpg" alt="the river doesn&rsquo;t carry much water, the trees grow bigger" /></p>
+
+<p>Claudia spotted two snakes!</p>
+
+<p>At this point the river only runs beneath the rocks. For long stretches it disappears completely.</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-34.jpg" alt="here is Claudia trying to take a picture of the snake" />
+<img loading="lazy" src="2025-05-14-crikvenica-47.jpg" alt="a long black snake with its head in the grass" /></p>
+
+<p>Every now and then we see a bunch of yellow irises like the ones we have on our balcony, which we got from Claudia&rsquo;s parents&rsquo; garden pond.</p>
+
+<p>Gelbe Schwertlilie<br>
+Iris pseudacorus</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-35.jpg" alt="Giant yellow flowers" /></p>
+
+<p>And we keep on walking!</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-46.jpg" alt="Alex walking along the river" /></p>
+
+<p>And we’re on the end stretch! 😅</p>
+
+<p><img loading="lazy" src="2025-05-14-crikvenica-48.jpg" alt="a bridge over the dry river" /></p>
+
+<p><strong>Content warning: ticks!</strong></p>
+
+<p>Remember how we joked about being on the tick trail? When we came back, we ate ice-cream, we went for a swim in the ocean, we went to the sauna, to the whirlpool, back to the sauna, back the hotel room, and a tick fell of my stuff as I stepped on the balcony! 😱 And then we examined each other and I found a tick on my wife! 😱 😱 Both ticks were still &ldquo;empty&rdquo; but that really feeds our paranoia. Now we&rsquo;re examining all our clothes from all sides before putting them on and I <em>hate</em> that feeling.</p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-14-crikvenica>
+
+---
+
+##  Color Photography of Paris From 1914 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/color-photography-of-paris-from-1914-1>
+
+---
+
+## Trump Says He Has ‘A Little Problem With Tim Cook’ Regarding Apple’s Plans to Increase iPhone Production in India
+
+date: 2025-05-15, updated: 2025-05-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theguardian.com/technology/2025/may/15/trump-little-problem-tim-cook-apple-india-production-iphones>
+
+---
+
+##  U.S. Military Bans Men With Girl Names From Combat. &#8220;Suppose your special... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046862-us-military-bans-men-with>
+
+---
+
+##  The true story of how a deep-cover KGB spy living in the... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046845-the-true-story-of-how>
+
+---
+
+## CarPlay Ultra, the Next Generation of CarPlay, Is Now Available in New Aston Martins
+
+date: 2025-05-15, updated: 2025-05-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/>
+
+---
+
+## Here There Are Blueberries
+
+date: 2025-05-15, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/en/b/b7/Laramie_Book_cover.jpg" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="372" data-original-width="233" height="200" src="https://upload.wikimedia.org/wikipedia/en/b/b7/Laramie_Book_cover.jpg" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/en/b/b7/Laramie_Book_cover.jpg">Source</a></td></tr></tbody></table>
+On Sunday 4<sup>th</sup> May Vicky & I saw <a href="https://www.berkeleyrep.org/shows/here-there-are-blueberries/">Berkeley Rep's production</a> of a thought-provoking new play by Moisés Kaufman, Amanda Gronich, and Tectonic Theater, the team behind <a href="https://en.wikipedia.org/wiki/The_Laramie_Project"><i>The Laramie Project</i></a>:<br />
+<blockquote>
+about the reaction to the 1998 murder of gay University of Wyoming student Matthew Shepard in Laramie, Wyoming. The murder was denounced as a <a href="https://en.wikipedia.org/wiki/Hate_crime">hate crime</a> and brought attention to the lack of hate crime laws in various states, including <a href="https://en.wikipedia.org/wiki/Wyoming">Wyoming</a>.<br />
+<br />
+An example of <a href="https://en.wikipedia.org/wiki/Documentary_theatre#Verbatim_theatre">verbatim theatre</a>, the play draws on hundreds of interviews conducted by the theatre company with inhabitants of the town, company members' own journal entries, and published news reports.
+</blockquote>
+The new play, <a href="https://www.heretherareblueberries.com/"><i>Here There Are Blueberries</i></a>, is on tour after a 2022 premiere at the La Jolla Playhouse and a 2024 run at the New York Theatre Workshop. Vinson Cunningham reviewed the New York production in <a href="https://www.newyorker.com/magazine/2024/05/27/here-there-are-blueberries-theatre-review"><i>The Chilling Truth Pictured in “Here There Are Blueberries”</i></a>:<br />
+<blockquote>
+There’s something awful about a lost picture. Maybe it’s because of a disparity between your original hope and the result: you made the photograph because you intended to keep it, and now that intention—artistic, memorial, historical—is fugitive, on the run toward ends other than your own. The picture, gone forever, possibly revived by strange eyes, will never again mean quite what you thought it would.
+</blockquote>
+The play dramatizes the process archivists at the US Holocaust Memorial Museum went through to investigate an album of photographs taken at <a href="https://en.wikipedia.org/wiki/Auschwitz_concentration_camp">Auschwitz</a>. Photographs from Auschwitz are extremely rare because the Nazis didn't want evidence of what happened there to survive.<br />
+<br />
+Below the fold I discuss the play and some of the thoughts it provoked that are relevant to digital preservation.<br />
+<span><a name='more'></a></span>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCOeahfYAJReREMPl4uSh4GSytTiJkDaUqeg4QcNRH0fwNqCcZyWIueoE2_ln92_OPyRdeMjsD9p03GP77gtgDqZSUcrNBn9vxSr-TtAC0q9jOfKC9cfn2DQyCP56WSWecyMJQZj3JbqkYR92uws4jX0C1IgL-wQA_LdKR3gr2G5K2iaf-FivTEVEiOMf/s1500/LondonRoad.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1500" data-original-width="1065" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCOeahfYAJReREMPl4uSh4GSytTiJkDaUqeg4QcNRH0fwNqCcZyWIueoE2_ln92_OPyRdeMjsD9p03GP77gtgDqZSUcrNBn9vxSr-TtAC0q9jOfKC9cfn2DQyCP56WSWecyMJQZj3JbqkYR92uws4jX0C1IgL-wQA_LdKR3gr2G5K2iaf-FivTEVEiOMf/w142-h200/LondonRoad.jpg" width="142" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.amazon.com/London-Road-DVD/dp/B013GP6VAS/">Source</a></td></tr></tbody></table>
+I've been interested in verbatim theatre for a long time, Not just the <a href="https://en.wikipedia.org/wiki/The_Laramie_Project"><i>The Laramie Project</i></a> and <a href="https://en.wikipedia.org/wiki/The_Laramie_Project:_Ten_Years_Later"><i>The Laramie Project: Ten Years Later</i></a>, but also the work of <a href="https://en.wikipedia.org/wiki/Anna_Deavere_Smith">Anna Deavere Smith</a>, David Hare's <a href="https://en.wikipedia.org/wiki/The_Permanent_Way"><i>The Permanent Way</i></a>, and the amazing verbatim musical <a href="https://en.wikipedia.org/wiki/London_Road_(musical)"><i>London Road</i></a>.<br />
+<br />
+Developing one of these plays is a painstaking process, The actors conduct extended interviews with the people they will represent, and the playwrights select and organize quotes from the interviews. And, in the case of <i>London Road</i>, set them to music.<br />
+<br />
+In this case most of the participants were archivists at the US Holocaust Memorial Museum who, in 2006, received an offer to donate an album of photographs from Auschwitz. Initially skeptical, archivist Rebecca Erbelding rapidly established that the more than 100 images in the album documented the life of <a href="https://en.wikipedia.org/wiki/Karl-Friedrich_H%C3%B6cker">Karl-Friedrich Höcker</a> during the period from May to December 1944 when he served as the adjutant to <a href="https://en.wikipedia.org/wiki/Richard_Baer_(Nazi)">Richard Baer</a>, the last commandant of Auschwitz. Thus the album became known as the <a href="https://en.wikipedia.org/wiki/H%C3%B6cker_Album">Höcker Album</a>.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/1/11/Photographie_prise_%C3%A0_Solah%C3%BCtte_en_juillet_1944_-_collections_USHMM_-_34585A.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1001" data-original-width="1554" height="129" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Photographie_prise_%C3%A0_Solah%C3%BCtte_en_juillet_1944_-_collections_USHMM_-_34585A.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/1/11/Photographie_prise_%C3%A0_Solah%C3%BCtte_en_juillet_1944_-_collections_USHMM_-_34585A.jpg">Source</a></td></tr></tbody></table>
+The archivists were immediately struck by the lack of any images of camp inmates. Instead, many images showed camp staff relaxing at a resort the inmates constructed for the camp called the <a href="https://en.wikipedia.org/wiki/Solah%C3%BCtte">Solahütte</a>. Time off at the Solahütte was a reward for good performance. Höcker is seen at the Solahütte:<br />
+<blockquote>
+in the company of young women—stenographers and typists, trained at the SS school in <a href="https://en.wikipedia.org/wiki/Obernai">Obernai</a>, who were known generally as <a href="https://en.wikipedia.org/wiki/SS#SS-Frauenkorps"><i>SS Helferinnen</i></a>, the German word for (female) "helpers".
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Richard_Baer%2C_Josef_Mengele%2C_Rudolf_Hoess%2C_Auschwitz._Album_H%C3%B6cker.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1391" data-original-width="2048" height="136" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Richard_Baer%2C_Josef_Mengele%2C_Rudolf_Hoess%2C_Auschwitz._Album_H%C3%B6cker.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><small><a href="https://commons.wikimedia.org/wiki/File:Richard_Baer,_Josef_Mengele,_Rudolf_Hoess,_Auschwitz._Album_H%C3%B6cker.jpg">Richard Baer, Josef Mengele,<br />&amp; Rudolf Höss</a></small></td></tr></tbody></table>
+Many of the images showed Höcker with more senior SS officers including <a href="https://en.wikipedia.org/wiki/Rudolf_H%C3%B6ss">Rudolf Höss</a> and <a href="https://en.wikipedia.org/wiki/Josef_Mengele">Josef Mengele</a>. Some showed Höcker's home and children, including a scene with the children floating in the home's pool in a boat the inmates made for them.<br />
+<br />
+The survival of the album is remarkable. A US Army counter-intelligence officer was assigned to Frankfurt in the aftermath of the war. His story is that, unable to find a official billet, he occupied an abandoned apartment in whose trash he found the album. It wasn't until 2006, six decades later, that he offered it to the US Holocaust Memorial Museum.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://encyclopedia.ushmm.org/images/large/5d7bf851-6cf0-4f51-943b-00f337a23712.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="475" data-original-width="640" height="148" src="https://encyclopedia.ushmm.org/images/large/5d7bf851-6cf0-4f51-943b-00f337a23712.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://encyclopedia.ushmm.org/content/en/article/auschwitz-through-the-lens-of-the-ss-the-album">Source</a></td></tr></tbody></table>
+One image shows a group of about 70 soldiers at the Solahütte celebrating. It was discovered that they were celebrating the conclusion of the operation led by Adolf Eichmann to <a href="https://en.wikipedia.org/wiki/The_Holocaust_in_Hungary">exterminate the Hungarian Jews from Carpathian Ruthenia</a>:<br />
+<blockquote>
+Between 15 May and 9 July 1944, over 434,000 Jews were deported on 147 trains, most of them to Auschwitz, where about 80 percent were gassed on arrival.
+</blockquote> 
+Despite the celebration, the operation was less than completely successful. Before it was stopped by Miklós Horthy, the Regent of Hungary, it had only succeeded in transporting about 434,000 of Hungary's about 825,000 Jews, and killing about 350,000 of them.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://collections.ushmm.org/iiif-b/assets/738026" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1200" data-original-width="1654" height="145" src="https://collections.ushmm.org/iiif-b/assets/738026" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://collections.ushmm.org/search/catalog/pa8528">Source</a></td></tr></tbody></table>
+Strangely, the arrival of one of the trains is documented in the only other known album of photographs from Auschwitz, the <a href="https://en.wikipedia.org/wiki/Auschwitz_Album"><i>Auschwitz Album</i></a>. The images:<br />
+<blockquote>
+document the disembarkation of the Jewish prisoners from the train boxcars, followed by the selection process, performed by doctors of the SS and wardens of the camp, which separated those who were considered fit for work from those who were to be sent to the gas chambers. The photographers followed groups of those selected for work, and those selected for death, to a birch grove just outside the crematoria, where they were made to wait before being killed.
+</blockquote>
+The Auschwitz Album's survival is <a href="https://encyclopedia.ushmm.org/content/en/article/auschwitz-through-the-lens-of-the-ss-a-tale-of-two-albums?series=12">equally remarkable</a>:<br />
+<blockquote>
+The original owner of that album, Lili Jacob (later Zelmanovic Meier), was deported with her family to <a href="https://encyclopedia.ushmm.org/narrative/3673/en">Auschwitz</a> in late May 1944 from Bilke (today: Bil'ki, Ukraine), a small town near Berehovo in Transcarpathian Rus which was then part of Hungary. They arrived on May 26, 1944, the same day that professional SS photographers photographed the arrival of the train and the selection process. Richard Baer and Karl Höcker arrived at Auschwitz mere days before the arrival of this transport. After surviving Auschwitz, forced labor in Morchenstern, a <a href="https://encyclopedia.ushmm.org/narrative/6074/en">Gross-Rosen</a> subcamp, and transfer to <a href="https://encyclopedia.ushmm.org/narrative/4909/en">Dora-Mittelbau</a> where she was liberated, Lili Jacob discovered an album containing these photographs in a drawer of a bedside table in an abandoned SS barracks while she was recovering from typhus.
+</blockquote>
+Because it was taken the day Jacob arrived, <a href="https://encyclopedia.ushmm.org/content/en/article/auschwitz-through-the-lens-of-the-ss-a-tale-of-two-albums?series=12">she</a>:<br />
+<blockquote>
+first found a photograph of her rabbi but then also discovered a photo of herself, many of her neighbors, and relatives, including a famous shot of her two younger brothers Yisrael and Zelig Jacob.
+</blockquote>
+She took the album with her as she immigrated to the United States. In 1983 she donated it to <a href="https://www.yadvashem.org/">Yad Vashem</a>, after which it was published.<br />
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="https://encyclopedia.ushmm.org/images/large/1c97c24c-1026-4384-96bd-4a81ff850c39.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="460" data-original-width="640" height="144" src="https://encyclopedia.ushmm.org/images/large/1c97c24c-1026-4384-96bd-4a81ff850c39.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://encyclopedia.ushmm.org/images/large/1c97c24c-1026-4384-96bd-4a81ff850c39.jpg"><small>Höcker &amp; Helferinnen</small></a></td></tr></tbody></table>
+The title of the play, "Here There Are Blueberries", is the caption of a series of images showing Höcker serving blueberries to a group of Helferinnen at the Solahütte.<br />
+<br />
+Höcker served 18 months in a British POW camp before resuming his pre-war life as a bank cashier. In 1963 he was tried in Frankfurt and <a href="https://en.wikipedia.org/wiki/Karl-Friedrich_H%C3%B6cker#Post-war_trials">sentenced to 7 years</a>:<br />
+<blockquote>
+Höcker denied having participated in the selection of victims at Birkenau or having ever personally executed a prisoner. He further denied any knowledge of the fate of the approximately 400,000 Hungarian Jews who were murdered at Auschwitz during his term of service at the camp. Höcker was shown to have knowledge of the genocidal activities at the camp, but could not be proved to have played a direct part in them. In post-war trials, Höcker denied his involvement in the selection process. While accounts from survivors and other SS officers all but placed him there, prosecutors could locate no conclusive evidence to prove the claim.
+</blockquote>
+In 1989 he was tried again and <a href="https://en.wikipedia.org/wiki/Karl-Friedrich_H%C3%B6cker#Post-war_trials">sentenced to 4 years</a>:<br />
+<blockquote>
+On 3 May 1989 a district court in the German city of Bielefeld sentenced Höcker to four years imprisonment for his involvement in gassing murders of prisoners, primarily Polish Jews, in the Majdanek concentration camp in Poland. Camp records showed that between May 1943 and May 1944 Höcker had acquired at least 3,610 kilograms of Zyklon B poisonous gas for use in Majdanek from the Hamburg firm of Tesch & Stabenow.
+</blockquote>
+Obviously, many of the thoughts provoked by the play are relevant to current events, about how one would have behaved and how bureaucrats can compartmentalize their lives so as to claim ignorance of the activities they administer, as <a href="https://en.wikipedia.org/wiki/Karl-Friedrich_H%C3%B6cker#Post-war_trials">Höcker did in his first trial</a>:<br />
+<blockquote>
+I only learned about the events in Birkenau…in the course of time I was there… and I had nothing to do with that. I had no ability to influence these events in any way…neither did I want them, nor carry them out. I didn’t hurt anybody… and neither did anyone die at Auschwitz because of me.
+</blockquote>
+The other set of thoughts are relevant to digital preservation. Obviously, the negatives of the photographs in the two albums did not survive. Individual prints from the negatives did not survive. The images survive because in both cases a set of prints was selected and bound into an album, which protected them. Once the albums had been discovered, their survival for many decades was well within the capabilities of the officer and the survivor. "Benign neglect" was all that was needed. A few of the prints suffered visible water damage, but this didn't impair their value as historical documents.<br />
+<br />
+Compared to WW2, many more images and videos documenting the events currently under way in Ukraine, Gaza, Myanmar, Syria, and many other places are being captured. But they are captured in digital form, and this makes their survival over enough decades to be used in war crimes trials and as the basis for histories unlikely. They may be collected into "albums" on physical media or in cloud services, but neither provides the protection of a physical album. The survival for many decades of such digital albums is well beyond the capabilities of those who took, or who found them. This fact should allow the perpetrators of today's atrocities to sleep much easier at night.<br />
+<br />
+Before they were delivered to preservation experts the survivor and the officer had custody of their albums for four and six decades respectively. Four decades is way longer than the expected service life of any digital medium in common use; images and video on physical media require the custodian proactively to migrate them to new media at intervals.  "Benign neglect" does not pay the rent for cloud storage, and trusting to the whims of the free cloud storage services is likely to be neglect but hardly benign.<br />
+<br />
+To improve the chances of current-day albums analogous to the <a href="https://en.wikipedia.org/wiki/Auschwitz_Album">Auschwitz Album</a> and the <a href="https://en.wikipedia.org/wiki/H%C3%B6cker_Album">Höcker Album</a> we need a consumer-grade long-lived storage medium that is cheap enough for everyday use. Alas, for the reasons I set out in <a href="https://blog.dshr.org/2025/03/archival-storage.html"><i>Archival Storage</i></a>, we are extremely unlikely to get it.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/05/here-there-are-blueberries.html>
+
+---
+
+##  Power Houses, a photographic look &#8220;inside the living rooms of notable New... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046847-power-houses-a-photograph>
+
+---
+
+## Huge
+
+date: 2025-05-15, from: Doc Searls (at Harvard), New Old Blog
+
+A good sign. Ever hear of TCF, or the Transparency &#38; Consent Framework? The TCF is how sites and services can obey the letter of the GDPR&#39;s law, while screwing its spirt. It does that with those annoying consent notices that interrupt your experience of seemingly every site you visit, recording &#34;your choices&#34; God knows [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/15/huge/>
+
+---
+
+##  A Longevity Expert&#8217;s 5 Tips for Aging Well, e.g. strength training, better... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046850-a-longevity-experts-5-tip>
+
+---
+
+##  &#8220;British researchers have discovered that a &#8216;copy&#8217; of Magna Carta owned by... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046860-british-researchers-have->
 
 ---
 
@@ -103,9 +643,9 @@ date: 2025-05-14, updated: 2025-05-14, from: Daring Fireball
 
 ---
 
-## The App Store Is Showing a Warning for EU Apps That Use External Purchases
+## The App Store Shows a Warning for EU Apps That Use External Purchases
 
-date: 2025-05-14, updated: 2025-05-14, from: Daring Fireball
+date: 2025-05-14, updated: 2025-05-15, from: Daring Fireball
 
  
 
@@ -124,199 +664,6 @@ date: 2025-05-14, updated: 2025-05-14, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/05/astronaut-don-pettits-marvelous-photos-from-space>
-
----
-
-## 2025-05-14 Crikvenica
-
-date: 2025-05-14, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-14-crikvenica">2025-05-14 Crikvenica</h1>
-
-<p>Today was a no-car day and we went for a hike. First we walked along the coast to the neighbouring village of Dramalji, then up the hill and over a pass to Tribalj, then back along the Dubračina back to Crikvenica.</p>
-
-<p>Thanks to OsmAnd for the navigation and Flora Incognita for identifying the plants late at night.</p>
-
-<p>We started along the coast, on that one-way street.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-1.jpg" alt="a street with a one-way sign" /></p>
-
-<p>Across the sea you can see the island of Krk. We did not have the time to visit.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-2.jpg" alt="Alex and Claudia grinning at the camera, both wearing hats and sunglasses" /></p>
-
-<p>When there are no sandy beaches, concrete slabs dot the coast for roasting tourists in summer.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-3.jpg" alt="empty concrete platforms by the sea" /></p>
-
-<p>Then we started the ascent.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-4.jpg" alt="stairs going up" /></p>
-
-<p>We always stop for new flowers along the way!
-This one grew out of a stone wall.</p>
-
-<p>Garten-Löwenmaul<br>
-Antirrhinum majus</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-5.jpg" alt="purple flowers" /></p>
-
-<p>Further up, more flowers grew along the way.</p>
-
-<p>Strahlen-Breitsame<br>
-Orlaya grandiflora</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-6.jpg" alt="white flowers" /></p>
-
-<p>Even further up, we entered a landscape of salvia. This was simply the first one, growing next to the trail.</p>
-
-<p>Echter Salbei<br>
-Salvia officinalis</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-7.jpg" alt="violet flowers" /></p>
-
-<p>Up and up, leaving the town behind.
-Sometimes, stonewalls line the trail.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-8.jpg" alt="dry stone walls to the left and right of the trail" /></p>
-
-<p>Then the walls disappear and the sun bakes us.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-9.jpg" alt="the trail is overgrown with white and yellow flowers" /></p>
-
-<p>The trail is made up of broken white rocks.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-10.jpg" alt="Claudia looking back at me" /></p>
-
-<p>Looking back towards the sea and the island of Krk.
-It&rsquo;s still steep going.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-11.jpg" alt="rough gravel trail and the ocean in the distance" /></p>
-
-<p>Crepis neglecta</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-12.jpg" alt="yellow flowers" /></p>
-
-<p>The trail keeps climbing. We started at sea level and the pass is at about 300 and something meters above the sea.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-13.jpg" alt="Pine trees, gravel trail, no shade" /></p>
-
-<p>I don&rsquo;t remember seeing a purple variant.</p>
-
-<p>Gewöhnlicher Wundklee<br>
-Anthyllis vulneraria</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-14.jpg" alt="purple flowers" /></p>
-
-<p>Rapunzel-Glockenblume<br>
-Campanula rapunculus</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-15.jpg" alt="violet flowers" /></p>
-
-<p>Flora Incognita seems to be very unsure about this one, but we saw it a lot.
-Milchstern or Ornithogalum seems good to me, but which one?</p>
-
-<p>Ornithogalum baeticum</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-16.jpg" alt="White flower" /></p>
-
-<p>iSeek says:</p>
-
-<p>Frühlingsmistkäfer<br>
-Trypocopris vernalis</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-17.jpg" alt="Black beetles" /></p>
-
-<p>Look at the caterpillar I saw when I looked at the beetles!</p>
-
-<p>Glucken<br>
-Lasiocampidae</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-18.jpg" alt="Caterpillar" /></p>
-
-<p>Not too long after that I nearly ran into this fellow, lowering itself from a branch by a silk strand.</p>
-
-<p>Eulenfalter<br>
-Acronicta</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-19.jpg" alt="Another caterpillar in mid air" /></p>
-
-<p>We reached a different biome!</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-20.jpg" alt="brushes, grass, stones" /></p>
-
-<p>We call it tick country. 😰</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-21.jpg" alt="Claudia walking along a narrow trail through higher grass and brushes" /></p>
-
-<p>Endless sage meadows, up here.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-22.jpg" alt="a metallic green beetle on violet flowers" /></p>
-
-<p>We take too many pictures.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-23.jpg" alt="Claudia taking pictures" /></p>
-
-<p>Far behind us, the sea is still visible.
-We keep on walking.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-24.jpg" alt="Brushes, stones" />
-<img loading="lazy" src="2025-05-14-crikvenica-25.jpg" alt="small trees, narrow trail" />
-<img loading="lazy" src="2025-05-14-crikvenica-26.jpg" alt="more sage with carpenter bee" /></p>
-
-<p>Gewöhnlicher Perückenstrauch<br>
-Cotinus coggygria</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-27.jpg" alt="yellow-green flowers" /></p>
-
-<p>We finally reached the other side. The biome changed again.
-The forest is cooler and the ground is no longer dry.</p>
-
-<p>Pfirsichblättrige Glockenblume<br>
-Campanula persicifolia</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-28.jpg" alt="violet flowers" /></p>
-
-<p>The trail is pretty steep!</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-29.jpg" alt="Claudia on the trail" /></p>
-
-<p>Luckily, there is a lot of shade.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-30.jpg" alt="A forest with slender trees and green canopy" /></p>
-
-<p>Rapunzel-Glockenblume<br>
-Campanula rapunculus</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-31.jpg" alt="And more violet flowers" /></p>
-
-<p>We finally reached the little river that will take us back!</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-32.jpg" alt="a river, three or four meters wide" />
-<img loading="lazy" src="2025-05-14-crikvenica-33.jpg" alt="the river doesn&rsquo;t carry much water, the trees grow bigger" /></p>
-
-<p>Claudia spotted two snakes!</p>
-
-<p>At this point the river only runs beneath the rocks. For long stretches it disappears completely.</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-34.jpg" alt="here is Claudia trying to take a picture of the snake" /></p>
-
-<p>Every now and then we see a bunch of yellow irises like the ones we have on our balcony, which we got from Claudia&rsquo;s parents&rsquo; garden pond.</p>
-
-<p>Gelbe Schwertlilie<br>
-Iris pseudacorus</p>
-
-<p><img loading="lazy" src="2025-05-14-crikvenica-35.jpg" alt="Giant yellow flowers" /></p>
-
-<p><strong>Content warning: ticks!</strong></p>
-
-<p>Remember how we joked about being on the tick trail? When we came back, we ate ice-cream, we went for a swim in the ocean, we went to the sauna, to the whirlpool, back to the sauna, back the hotel room, and a tick fell of my stuff as I stepped on the balcony! 😱 And then we examined each other and I found a tick on my wife! 😱 😱 Both ticks were still &ldquo;empty&rdquo; but that really feeds our paranoia. Now we&rsquo;re examining all our clothes from all sides before putting them on and I <em>hate</em> that feeling.</p>
-
-<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-14-crikvenica>
 
 ---
 

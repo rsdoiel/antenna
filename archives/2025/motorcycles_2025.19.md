@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-05-15 06:06:50
+updated: 2025-05-15 14:07:48
 ---
 
 # motorcycles
 
-(date: 2025-05-15 06:06:50)
+(date: 2025-05-15 14:07:48)
+
+---
+
+## INDYCAR Power Rankings: Where the grid stacks up ahead of the Indy 500
+
+date: 2025-05-15, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Since the last edition of these rankings, not much has changed on the INDYCAR circuit. Alex Palou continues his charge towards a fourth championship, having&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indycar-power-rankings-where-the-grid-stacks-up-ahead-of-the-indy-500/>
+
+---
+
+## This New Retro-Inspired Motorcycle Jacket Makes No Compromises On Safety
+
+date: 2025-05-15, from: Ride Apart, Electric Motorcycle News
+
+Spidi’s new Roar jacket delivers equal parts safety and style 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759504/spidi-roar-retro-inspired-jacket/>
+
+---
+
+## Kawasaki Launched an Adorable Frog Collection, and I Want Every Single Piece
+
+date: 2025-05-15, from: Ride Apart, Electric Motorcycle News
+
+Kermit who? 
+
+<br> 
+
+<https://www.rideapart.com/news/759608/kawasaki-pickles-the-frog-collab/>
 
 ---
 
@@ -83,7 +120,7 @@ The second day of Indianapolis 500 practice saw fast speeds and more rain as Ale
 
 ---
 
-## The Harley-Davidson Boardroom Coup Has Uttery Failed
+## The Harley-Davidson Boardroom Coup Has Utterly Failed
 
 date: 2025-05-14, from: Ride Apart, Electric Motorcycle News
 

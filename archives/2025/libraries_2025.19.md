@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-15 06:06:49
+updated: 2025-05-15 14:07:47
 ---
 
 # libraries
 
-(date: 2025-05-15 06:06:49)
+(date: 2025-05-15 14:07:47)
+
+---
+
+## The Importance of the European Accessibility Act to Canada and the United States
+
+date: 2025-05-15, from: Association of Research Libraries News
+
+<p>Last Updated on May 15, 2025, 5:01 pm ET   Recently I was asked to introduce and facilitate a session on web accessibility and repositories for accessible scholarly works. As...</p>
+<p>The post <a href="https://www.arl.org/blog/the-importance-of-the-european-accessibility-act-to-canada-and-the-united-states/">The Importance of the European Accessibility Act to Canada and the United States</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/the-importance-of-the-european-accessibility-act-to-canada-and-the-united-states/>
 
 ---
 
@@ -45,6 +59,18 @@ Maier, Kathrin
 <br> 
 
 <http://hdl.handle.net/20.500.11850/735734>
+
+---
+
+## Data on the adoption of integrated pest management (IPM) practices in apple production in the Netherlands
+
+date: 2025-05-15, from: ETH Zurich, recently added
+
+Akter, Sharmin; Kreft, Cordelia; McCallum, Chloe; Möhring, Niklas; Gattorno, Carolina; van Bruchem, Jaco; Finger, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/735808>
 
 ---
 
@@ -193,7 +219,7 @@ Khan, Dean
 
 date: 2025-05-12, from: Association of Research Libraries News
 
-<p>Last Updated on May 14, 2025, 5:19 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
+<p>Last Updated on May 15, 2025, 4:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-12-15/">Day in Review (May 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

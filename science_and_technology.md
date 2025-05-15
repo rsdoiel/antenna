@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2025-05-15 06:06:46
+updated: 2025-05-15 14:07:43
 ---
 
 # science and technology
 
-(date: 2025-05-15 06:06:46)
+(date: 2025-05-15 14:07:43)
+
+---
+
+## NASA Welcomes Norway as 55th Nation to Sign Artemis Accords
+
+date: 2025-05-15, from: NASA breaking news
+
+Following an international signing ceremony Thursday, NASA congratulated Norway on becoming the latest country to join the Artemis Accords, committing to the peaceful, transparent, and responsible exploration of space. “We’re grateful for the strong and meaningful collaboration we’ve already had with the Norwegian Space Agency,” said acting NASA Administrator Janet Petro. “Now, by signing the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-norway-as-55th-nation-to-sign-artemis-accords/>
+
+---
+
+## Xiaomi joins Google Pixel in making its own smartphone chip
+
+date: 2025-05-15, from: OS News
+
+Following rumors, Xiaomi today announced that it will launch its very own chip for smartphones later this month. The “XRING 01” is a chip that the company has apparently been working on for over 10 years now. Details about the chip are scarce so far, but GizmoChina points to recent leaks that suggest the chip is built on a 4nm process through TSMC. The chip supposedly has a 1+3+4 layout and should lag just a bit behind Snapdragon 8 Elite and Dimensity 9400 in terms of raw horsepower, sounding familiar to Google’s work with Tensor chips. ↫ Ben Schoon at 9To5Google I like this. Having almost every Android device use Qualcomm&#8217;s chips is not good for fostering competition, and weakens Android OEMs&#8217; bargaining position. If we have more successful SoC makers, consumers will not only gain access to a wider variety of chips that may better suit their needs, it will also force Qualcomm to lower its prices, compete better, or both. Everybody wins. Well, except Qualcomm, I guess. 
+
+<br> 
+
+<https://www.osnews.com/story/142371/xiaomi-joins-google-pixel-in-making-its-own-smartphone-chip/>
+
+---
+
+## Plan to keep advanced chips from China with tracking tech gains support in Congress
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Every shipment you make, every FLOP you generate, Uncle Sam will be watching you</h4> <p>Proposed legislation gaining steam in Congress this week would require high-end GPUs and AI chips to include location-tracking safeguards to ensure US-designed components don&#39;t end up in nations against Uncle Sam&#39;s wishes, with exporters on the hook for compliance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/gpu_tracking_house/>
+
+---
+
+## NASA Satellite Images Could Provide Early Volcano Warnings
+
+date: 2025-05-15, from: NASA breaking news
+
+Scientists know that changing tree leaves can indicate when a nearby volcano is becoming more active and might erupt. In a new collaboration between NASA and the Smithsonian Institution, scientists now believe they can detect these changes from space. As volcanic magma ascends through the Earth’s crust, it releases carbon dioxide and other gases which [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-early-volcano-warnings/>
+
+---
+
+## Uncle Sam claims H-1B fraud crackdown is working as registrations drop 25%
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Surely Trump&#39;s anti-immigrant rhetoric has nothing to do with it</h4> <p>US immigration officials say they are winning the war on H-1B fraud – and say they&#39;ve got the numbers to prove it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/h1b_applications_droped/>
+
+---
+
+## Let’s Bake a Cosmic Cake!
+
+date: 2025-05-15, from: NASA breaking news
+
+To celebrate what would have been the 100th birthday of Dr. Nancy Grace Roman — NASA’s first chief astronomer and the namesake for the agency’s nearly complete Nancy Grace Roman Space Telescope — we’re baking a birthday cake! This isn’t your ordinary birthday treat — this cosmic cake represents the contents of our universe and everything […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/roman-space-telescope/lets-bake-a-cosmic-cake/>
+
+---
+
+## NASA Selects Student Teams for Drone Hurricane Response and Cybersecurity Research
+
+date: 2025-05-15, from: NASA breaking news
+
+NASA has selected two more university student teams to help address real-world aviation challenges, through projects aimed at using drones for hurricane relief and improved protection of air traffic systems from cyber threats.&#160; The research awards were made through NASA’s University Student Research Challenge (USRC), which provides student-led teams with opportunities to contribute their novel [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/tacp/ui/usrc/student-teams-selected-0525/>
+
+---
+
+## Deimos Before Dawn
+
+date: 2025-05-15, from: NASA breaking news
+
+NASA&#8217;s Perseverance rover captured this view of Deimos, the smaller of Mars&#8217; two moons, shining in the sky at 4:27 a.m. local time on March 1, 2025, the 1,433rd Martian day, or sol, of the mission. In the dark before dawn, the rover&#8217;s left navigation camera used its maximum long-exposure time of 3.28 seconds for [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/deimos-before-dawn/>
+
+---
+
+## Cyber fiends battering UK retailers now turn to US stores
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>DragonForce-riding ransomware ring also has &#39;shiny object syndrome&#39; so will likely move on to another sector soon</h4> <p><strong>Interview</strong>  The same miscreants behind recent cyberattacks on British retailers are now trying to dig their claws into major American retailers&#39; IT environments – and in some cases even deploying ransomware, according to Google.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/cyber_scum_attacking_uk_retailers/>
+
+---
+
+## NASA, French SWOT Satellite Offers Big View of Small Ocean Features
+
+date: 2025-05-15, from: NASA breaking news
+
+The international mission collects two-dimensional views of smaller waves and currents that are bringing into focus the ocean’s role in supporting life on Earth. Small things matter, at least when it comes to ocean features like waves and eddies. A recent NASA-led analysis using data from the SWOT (Surface Water and Ocean Topography) satellite found [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/swot/nasa-french-swot-satellite-offers-big-view-of-small-ocean-features/>
+
+---
+
+## Space Cloud Watch Needs Your Photos of Night-Shining Clouds
+
+date: 2025-05-15, from: NASA breaking news
+
+Noctilucent or night-shining clouds are rare, high-altitude clouds that glow with a blue silvery hue at dusk or dawn when the sun shines on them from below the horizon. These ice clouds typically occur near the north and south poles but are increasingly being reported at mid- and low latitudes. Observing them helps scientists better […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/space-cloud-watch-needs-your-photos-of-night-shining-clouds/>
+
+---
+
+## Coinbase extorted for $20M. Support staff bribed. Customers scammed. One hell of a SNAFU
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Expert tells us: &#39;It is the most unique breach disclosure I&#39;ve ever seen&#39;</h4> <p>Coinbase says some of its overseas support staff were paid off to steal information on behalf of cybercriminals, and the company is now being extorted for $20 million.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/coinbase_extorted_for_20m_support/>
+
+---
+
+## Socket buys Coana to tell you which security alerts you can ignore
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Sometimes, less information is more</h4> <p>In its latest gambit to reduce the noise of unnecessary security alerts, Socket has <a target="_blank" rel="nofollow" href="https://socket.dev/blog/socket-acquires-coana-press-release">acquired Coana</a>, a startup founded in 2022 by researchers from Aarhus University in Denmark that tells users which vulnerabilities they can safely ignore.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/socket_get_jacked_with_reachability/>
+
+---
+
+## Meet the Space Ops Team: Christine Braden
+
+date: 2025-05-15, from: NASA breaking news
+
+Christine Braden values new experiences that broaden her perspective; a mindset that has guided her 26-year career at NASA’s Johnson Space Center in Houston, where she currently serves as a senior systems engineer in the Commercial Low Earth Orbit Development Program. In her role, Braden works with engineering teams to develop commercial space stations that [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-christine-braden/>
+
+---
+
+## Microsoft set to pull the plug on Bing Search APIs in favor of AI alternative
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Devs told to swap raw results for LLM-generated summaries as August shutdown looms</h4> <p>Microsoft is retiring Bing Search APIs on August 11, directing customers toward AI products as an alternative.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/bing_search_apis_retired/>
+
+---
+
+## How Did Geometry Create Modern Physics?
+
+date: 2025-05-15, from: Quanta Magazine
+
+Geometry may have its origins thousands of years ago in ancient land surveying, but it has also had a surprising impact on modern physics. In the latest episode of The Joy of Why, Yang-Hui He explores geometry’s evolution and its future potential through AI.            <p>The post <a href="https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/" target="_blank">How Did Geometry Create Modern Physics?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-did-geometry-create-modern-physics-20250515/>
+
+---
+
+## Spacewalk Research and Technology
+
+date: 2025-05-15, from: NASA breaking news
+
+Science in Space: May Crew members on the International Space Station periodically conduct spacewalks to perform a variety of tasks such as installing, upgrading, and repairing equipment. During a spacewalk on May 1, astronauts installed hardware to support the planned addition of a seventh roll-out solar array on the exterior of the space station. Each [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/spacewalk-research-and-technology/>
+
+---
+
+## Snowflake CISO on the power of 'shared destiny' and 'yes and'
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Lessons learned from last year&#39;s security snafu</h4> <p><strong>interview</strong>  Being the chief information security officer at Snowflake is never an easy job, but last spring it was especially challenging.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/snowflake_ciso_interview/>
+
+---
+
+## Will the Sun Ever Burn Out? We Asked a NASA Expert: Episode 60
+
+date: 2025-05-15, from: NASA breaking news
+
+Will the Sun ever burn out? Well, the Sun, just like the stars we see at night, is a star. It&#8217;s a giant ball of super hot hydrogen. Gravity squeezes it in and it creates energy, which is what makes the Sun shine. Eventually, it will use up all of that hydrogen. But in the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/smd/will-the-sun-ever-burn-out-we-asked-a-nasa-expert-episode-60/>
 
 ---
 
@@ -21,7 +249,7 @@ date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
 
 ---
 
-## 70-knot winds blamed for yacht disaster that killed Brit tech tycoon Mike Lynch
+## 70-knot winds so far blamed for yacht disaster that killed Brit tech tycoon Mike Lynch
 
 date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
 

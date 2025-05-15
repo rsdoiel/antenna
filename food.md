@@ -1,11 +1,83 @@
 ---
 title: food
-updated: 2025-05-15 06:06:52
+updated: 2025-05-15 14:07:49
 ---
 
 # food
 
-(date: 2025-05-15 06:06:52)
+(date: 2025-05-15 14:07:49)
+
+---
+
+## Spaghetti Carbonara
+
+date: 2025-05-15, from: Bon Appetet
+
+Made with just a few ingredients, this is the ideal fancy-but-easy dinner. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/simple-carbonara>
+
+---
+
+## I Need Recipes For Hearty Greens
+
+date: 2025-05-15, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Kendra help caller Natalie tackle leafy greens! 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-recipes-for-hearty-greens>
+
+---
+
+## May's Cook With Bon Appétit Box Will Get You Ready for Summer Cooking
+
+date: 2025-05-15, from: Bon Appetet
+
+Our juiciest steaks with a caramelized honey-mayo crust, blackened chicken thighs, glazed pork tenderloin, and more recipes perfect for grilling season. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bon-appetit-box-10>
+
+---
+
+## In Birmingham, Whammy Coffee Opens with Big Flavors and Tiny Dinosaurs
+
+date: 2025-05-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Whammy Coffee Birmingham downtown" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Birmingham, Alabama, coffee scene gained a doozy this spring with the grand opening of Whammy Coffee&#8216;s first brick-and-mortar cafe. In the ground floor space of the Denham Building formerly... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/15/in-birmingham-whammy-coffee-opens-with-big-flavors-and-tiny-dinosaurs/>
+
+---
+
+## Portland Coffee Roasters Launches Premium Canned Cold Brew, Locally crafted  In The Pacific Northwest
+
+date: 2025-05-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The new cold brew will be available in original and nitro. 
+
+<br> 
+
+<https://sprudge.com/portland-coffee-roasters-launches-premium-canned-cold-brew-locally-crafted-in-the-pacific-northwest-335230.html>
+
+---
+
+## Roast Summit Returns to Portland in 2025
+
+date: 2025-05-15, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Roast Summit 2024-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roast magazine, the leading technical trade publication for the specialty coffee industry, is proud to announce the return of Roast Summit to its hometown of Portland, Oregon, on Oct. 2–3,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/15/roast-summit-returns-to-portland-in-2025/>
 
 ---
 
@@ -18,6 +90,18 @@ date: 2025-05-15, from: The Sprudge
 <br> 
 
 <https://sprudge.com/track-the-price-of-coffee-with-the-free-web-tool-futures-coffee-335145.html>
+
+---
+
+## Nominations Continue For The Sprudge Twenty Class Of 2025
+
+date: 2025-05-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Nominations continue through June 1st, 2025. 
+
+<br> 
+
+<https://sprudge.com/nominations-continue-for-the-sprudge-twenty-class-of-2025-337435.html>
 
 ---
 
@@ -93,7 +177,7 @@ date: 2025-05-14, from: The Sprudge
 
 date: 2025-05-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Education" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States- and UK-based Specialty Coffee Association (SCA) is rolling out a new tiered pricing structure for its professional education program based on geographic location.&#160; According to an announcement... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Education" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States- and UK-based Specialty Coffee Association (SCA) is rolling out a new tiered pricing structure for its professional education program based on geographic location.&#160; According to an announcement... 
 
 <br> 
 
@@ -117,7 +201,7 @@ Pistachio butter, curry tofu nuggets, an Olipop flavor worth stocking up on, and
 
 date: 2025-05-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Rowan_West_Complete_005" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Asheville, North Carolina-based roasting company Rowan Coffee opened its second location last month, a classy and comfortable cafe that also now houses the roasting operation.&#160; Inside a former automotive garage... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Rowan_West_Complete_005" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Rowan_West_Complete_005.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Asheville, North Carolina-based roasting company Rowan Coffee opened its second location last month, a classy and comfortable cafe that also now houses the roasting operation.&#160; Inside a former automotive garage... 
 
 <br> 
 
@@ -141,7 +225,7 @@ Yes, we know they all have the same name.
 
 date: 2025-05-14, from: Daily Coffee News
 
-<div><img width="620" height="620" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-620x620.png" class="attachment-large size-large wp-post-image" alt="Canadiano drink" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-620x620.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-300x300.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-150x150.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-768x768.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink.png 1024w" sizes="(max-width: 620px) 100vw, 620px" /></div>On Feb. 5, Invermere, British Columbia-based cafe and roastery Kicking Horse Coffee posted a call to action, urging Canadian coffee shops to rename the Americano as the Canadiano. “For 16... 
+<div><img width="620" height="620" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-620x620.png" class="attachment-large size-large wp-post-image" alt="Canadiano drink" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-620x620.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-300x300.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-150x150.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink-768x768.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Canadiano-drink.png 1024w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>On Feb. 5, Invermere, British Columbia-based cafe and roastery Kicking Horse Coffee posted a call to action, urging Canadian coffee shops to rename the Americano as the Canadiano. “For 16... 
 
 <br> 
 

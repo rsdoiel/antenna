@@ -1,11 +1,199 @@
 ---
 title: going electric
-updated: 2025-05-15 06:06:52
+updated: 2025-05-15 14:07:49
 ---
 
 # going electric
 
-(date: 2025-05-15 06:06:52)
+(date: 2025-05-15 14:07:49)
+
+---
+
+## Americans Still Want EVs: Study
+
+date: 2025-05-15, from: Inside EVs News
+
+Most car shoppers are still considering electric vehicles, even though the future of tax credits is uncertain and tariffs threaten to make them pricier. 
+
+<br> 
+
+<https://insideevs.com/news/759739/americans-still-want-evs-consumer-survey/>
+
+---
+
+## Hyundai’s new EVs are surprisingly affordable
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundais-new-EVs-affordable.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is making it a lot more tempting to go electric with some sweet deals on the new three-row IONIQ 9 and upgraded IONIQ 5. With discounts, <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> new EVs are surprisingly affordable.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="416239" href="https://electrek.co/2025/05/15/hyundais-new-evs-are-surprisingly-affordable/#more-416239" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/hyundais-new-evs-are-surprisingly-affordable/>
+
+---
+
+## Apple CarPlay Ultra Completely Dominates Your In-Car Screens
+
+date: 2025-05-15, from: Inside EVs News
+
+It's available now, but you probably can't afford the car it comes on. 
+
+<br> 
+
+<https://insideevs.com/news/759736/carplay-ultra-aston-martin-launch/>
+
+---
+
+## Ram's Two Electric Trucks Just Got Delayed Again
+
+date: 2025-05-15, from: Inside EVs News
+
+The extended-range Ramcharger truck will now launch in early 2026, and the all-electric version won't arrive until 2027. 
+
+<br> 
+
+<https://insideevs.com/news/759727/ram-ramcharger-1500-truck-delayed/>
+
+---
+
+## Save up to $2,000 on Jackery’s new HomePower 3000 solar generator bundles, Segway E2 Plus II preorder, Tenways e-bikes, more
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Jackery-HomePower-3000-Explorer-3000-v2-Solar-Generator.png?w=1600" /></div><p>Today’s Green Deals feature two new releases along with some older favorites, headlined by the launch of <a href="https://9to5toys.com/2025/05/15/jackery-homepower-3000-bundles-from-1999/">Jackery’s new HomePower 3000 (Explorer 3000 v2) Solar Generator</a> with three early-bird bundle offers at up to $2,000 off <a href="https://9to5toys.com/2025/05/15/jackery-homepower-3000-bundles-from-1999/">starting from $1,999</a>. Right behind it is <a href="https://9to5toys.com/2025/05/15/preorder-segway-e2-plus-ii-350/">Segway’s new E2 Plus II eKickScooter</a> that is now available for preorder at <a href="https://9to5toys.com/2025/05/15/preorder-segway-e2-plus-ii-350/">$350</a> through June 3. Next, Tenways is offering up to $807 in savings on its <a href="https://9to5toys.com/2025/05/15/tenways-cgo600-pro-ago-x-e-bikes-from-1599/">CGO600 Pro and AGO X e-bikes</a>, as well as bonus $200 in savings when buying two together, all <a href="https://9to5toys.com/2025/05/15/tenways-cgo600-pro-ago-x-e-bikes-from-1599/">starting from $1,599</a>. Lastly, we have a one-day-only sale on the <a href="https://9to5toys.com/2025/05/15/greenworks-80v-21-inch-smartcut-mower-430-today-only/">Greenworks 80V 21-inch Cordless Self-Propelled SmartCut Lawn Mower for $430</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/05/13/lectric-xpress-750-e-bike-bundle-1299-more/">restocked Lectric e-bike deals</a>, the discount on <a href="https://9to5toys.com/2025/05/14/ankers-521-power-station-170/">Anker’s 521 power station</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="416206" href="https://electrek.co/2025/05/15/jackerys-homepower-3000-segway-e2-plus-ii-tenways-more/#more-416206" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/jackerys-homepower-3000-segway-e2-plus-ii-tenways-more/>
+
+---
+
+## Ram is once again delaying its first electric truck: Here’s when you can expect to see it now
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Rams-first-electric-pickup-overseas.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you’re waiting on <a href="https://electrek.co/guides/ram-electric-pickup/">Ram’s electric pickup</a>, you’ll have to wait a little longer. Ram is yet again delaying its electric pickup truck, the 1500 REV, and the Ramcharger plug-in hybrid (PHEV) version. Here’s when you can expect to see them reach dealerships now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ram-electric-pickup,ram-trucks,stellantis" data-layer-viewtype="unknown" data-post-id="416203" href="https://electrek.co/2025/05/15/ram-delaying-first-electric-truck-again-heres-when-it-will-arrive/#more-416203" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/ram-delaying-first-electric-truck-again-heres-when-it-will-arrive/>
+
+---
+
+## Company returns entire Tesla vehicle fleet because of Elon Musk
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-coroprate-sale-return.png?w=1600" /></div><p>Tscherning, a large Danish construction company, announced that it returned its entire corporate fleet of Tesla vehicles because of Elon Musk.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416202" href="https://electrek.co/2025/05/15/company-returns-entire-tesla-vehicle-fleet-because-of-elon-musk/#more-416202" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/company-returns-entire-tesla-vehicle-fleet-because-of-elon-musk/>
+
+---
+
+## The Electric Dodge Charger Daytona R/T Is Dead: Report
+
+date: 2025-05-15, from: Inside EVs News
+
+Despite having bargain lease deals from the moment it hit dealer lots, demand may not have been enough to save it. 
+
+<br> 
+
+<https://insideevs.com/news/759721/dodge-charger-daytona-rt-dead/>
+
+---
+
+## Nissan N7 EV sets a new record in China, securing over 10,000 orders in 18 days
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Nissan-N7-EV-orders-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The sleek new electric sedan is off to a hot start. <a href="https://electrek.co/guides/nissan/">Nissan</a> announced its new N7 EV set a new record in China on Thursday, with over 10,000 orders in just 18 days.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="416185" href="https://electrek.co/2025/05/15/nissan-n7-ev-sets-record-china-orders-surge-over-10000/#more-416185" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/nissan-n7-ev-sets-record-china-orders-surge-over-10000/>
+
+---
+
+## Tesla loses engineering exec behind energy products
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla_Powerwall_Hero_UK.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has lost its director in charge of mechanical engineering for its energy products:  Supercharger, Powerwall, and Megapack.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416187" href="https://electrek.co/2025/05/15/tesla-loses-engineering-exec-behind-energy-products/#more-416187" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/tesla-loses-engineering-exec-behind-energy-products/>
+
+---
+
+## The 2026 GMC Hummer EV Just Got Even More Outrageous
+
+date: 2025-05-15, from: Inside EVs News
+
+With 1,160 horsepower, the 2026 GMC Hummer EV will race to 60 miles per hour in 2.8 seconds. 
+
+<br> 
+
+<https://insideevs.com/news/759702/2026-gmc-hummer-ev-just-got-more-outrageous/>
+
+---
+
+## Toyota’s new EV is getting an off-road upgrade: Here’s our first look at the bZ Woodland
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Toyota-bZ-Woodland-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s bigger, more powerful, and built for on and off-road adventures. Toyota’s new electric SUV is getting an upgraded Woodland edition with 375 hp, added ground clearance, and a host of other outdoor-ready features. Here’s our first look at the <a href="https://electrek.co/guides/toyota/">Toyota</a> bZ Woodland EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="416163" href="https://electrek.co/2025/05/15/toyota-unveils-bigger-more-powerful-bz-woodland-ev/#more-416163" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/toyota-unveils-bigger-more-powerful-bz-woodland-ev/>
+
+---
+
+## Tesla Board Scrambles To Redo Musk's Multi-Billion Dollar Payday
+
+date: 2025-05-15, from: Inside EVs News
+
+Plus, Subaru is rethinking its electrification plans in favor of hybrids and America's favorite Chinese EV is under fire. 
+
+<br> 
+
+<https://insideevs.com/news/759602/musk-tesla-redo-pay-package/>
 
 ---
 
@@ -38,6 +226,18 @@ date: 2025-05-15, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/05/15/archer-aviation-exclusive-air-taxi-provider-2028-olympic-games-la/>
+
+---
+
+## This Plan Could Break The EV Market
+
+date: 2025-05-15, from: Inside EVs News
+
+House Republicans have proposed deleting the EV tax credit and, critically, closing the “leasing loophole.” 
+
+<br> 
+
+<https://insideevs.com/news/759621/ev-tax-credit-leasing-loopholde/>
 
 ---
 

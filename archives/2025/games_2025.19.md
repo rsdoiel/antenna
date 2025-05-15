@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-05-15 06:06:48
+updated: 2025-05-15 14:07:46
 ---
 
 # games
 
-(date: 2025-05-15 06:06:48)
+(date: 2025-05-15 14:07:46)
+
+---
+
+## Final Destination: Bloodlines directors say IMAX viewers will get a version no one else will ever see
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+It’s been nearly 15 years since Final Destination 5, the most recent installment in the horror-movie franchise where someone responds to a premonition about deadly disaster by saving the victims, who death then jealously pursues in the order they should have died, through a series of ridiculous contrivances. The series revives with Final Destination: Bloodlines, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/599421/final-destination-bloodlines-directors-interview-special-imax-version>
+
+---
+
+## Helldivers 2 dev says it’s starting work on next game, but won’t abandon Helldivers
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+Arrowhead Games Studios CEO Shams Jorjani wants to ensure Helldivers 2 players know that, while the studio has “some really cool concepts” for its next game, it won’t be abandoning Helldivers 2 anytime soon. As spotted by VG247, Jorjani messaged Helldivers 2 players in a Discord server about the game and what the studio has [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599453/helldivers-2-dev-new-game-in-progress>
+
+---
+
+## Nintendo’s redesign of Diddy Kong is so much better
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+Just like Donkey Kong, Diddy Kong is getting a minor makeover as Nintendo moves into the next generation. And like the elder DK, Diddy will look a bit more like his The Super Mario Bros. Movie counterpart, with the addition of… teeth. A poster on the Famiboards forums noticed this week that the Nintendo Switch [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/599426/nintendo-diddy-kong-redesign-switch-2>
+
+---
+
+## Hideo Kojima wishes Death Stranding 2 playtesters found him ‘a bit more controversial’
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+Hideo Kojima, known for his unconventional approach to game design, does not seem to believe in crowd-pleasers. Despite that, Death Stranding 2: On the Beach might become a mainstream hit. VGC reported that in a recent interview with Edge Magazine Kojima said, “I do wish I was a bit more controversial,” reflecting on the positive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599342/hideo-kojima-death-stranding-2-on-the-beach-mainstream>
+
+---
+
+## The best episodes of Love, Death &#038; Robots Volume 4 ranked
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+In 2019, Deadpool and Terminator: Dark Fate director Tim Miller launched Love, Death &#38; Robots, an animated Netflix anthology series serving as a showcase for Miller’s own Blur Studio, along with other animators. The series has won a Primetime Emmy for each of its three seasons, which feature an eclectic mix of six- to 20-minute [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/599303/best-love-death-robots-season-4-episodes-ranked-watch-order>
+
+---
+
+## All weapons in Doom: The Dark Ages and how to get them
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+You can easily kill a few demons in Doom: The Dark Ages with your hands, but as the Doom Slayer, you need all the firepower you can have. That’s where your weapons come in. Doom: The Dark Ages offers a considerable number of weapons to use, from the classic shotgun to a flail that gives [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599352/weapons-list-all-how-to-get-unlock>
+
+---
+
+## A deep dive on Kingdom Hearts 4’s new screenshots
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+After Kingdom Hearts: Missing Link was canceled earlier this week, fans joked that within it was the most information we’ve gotten on the development of Kingdom Hearts 4 since it was revealed in an announcement trailer three years ago. Square Enix said it is “hard at work” on Kingdom Hearts 4, which will continue Sora, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599322/kingdom-hearts-4-new-screenshots-analysis>
+
+---
+
+## Murderbot showrunners say they nailed the books’ tricky tone by ignoring it
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+As a fan of Martha Wells’ award-winning, popular Murderbot Diaries book series, I’ve been dubious about Apple TV Plus’ TV adaptation Murderbot from the beginning. In part, those books are so beloved because they ride such a specific, unusual, entertaining line between straight science fiction and wry but aching comedy — a tone that would [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sci-fi/598759/murderbot-diaries-tv-adaptation-interview-tone-comedy>
+
+---
+
+## Where to find Nightmare weapon skins in Doom: The Dark Age
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+Nightmare skins are a type of weapon skin in Doom: The Dark Ages. By equipping them, you can customize your guns to look as cool as the killing sprees you perform with them — but you do have to find these skins first. Skins can be easily equipped in Doom: The Dark Ages by accessing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find>
 
 ---
 

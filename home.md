@@ -1,11 +1,151 @@
 ---
 title: home
-updated: 2025-05-15 06:06:50
+updated: 2025-05-15 14:07:48
 ---
 
 # home
 
-(date: 2025-05-15 06:06:50)
+(date: 2025-05-15 14:07:48)
+
+---
+
+## Are Doggy Doors Safe?
+
+date: 2025-05-15, from: Family Handyman Blog
+
+<p>They can offer pets more freedom, but are doggy doors safe? We ask the experts about the risks of dog doors and how to reduce them.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/are-doggy-doors-safe/">Are Doggy Doors Safe?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/are-doggy-doors-safe/>
+
+---
+
+## It Doesn’t Get Woodsier Than This $1.2M Log Cabin in Colorado
+
+date: 2025-05-15, from: Dwell
+
+Set on the edge of a national forest near Aspen, the getaway comes with huge windows, a revamped kitchen, and a classic pellet stove. 
+
+<br> 
+
+<https://www.dwell.com/article/log-cabin-wilderness-streams-gunnison-valley-colorado-real-estate-b6e9b2c2>
+
+---
+
+## Don’t Ever Use Semi-Gloss Paint— Here’s Why
+
+date: 2025-05-15, from: Family Handyman Blog
+
+<p>Think semi-gloss paint is a good idea? Think again. Here's why you should skip it for your next home project.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/avoid-semi-gloss-paint/">Don&#8217;t Ever Use Semi-Gloss Paint— Here&#8217;s Why</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/avoid-semi-gloss-paint/>
+
+---
+
+## The Kids Have Free Rein at This Jungle Gym of a Home in Thailand
+
+date: 2025-05-15, from: Dwell
+
+The exceptionally airy two-bed plan doubles as a play structure with raised platforms and beams to hang from. 
+
+<br> 
+
+<https://www.dwell.com/article/kid-cabin-imaginary-objects-indoor-outdoor-home-8cb0432c>
+
+---
+
+## From the Archive: When Frank Lloyd Wright Designs Your Home, You Never Want to Leave
+
+date: 2025-05-15, from: Dwell
+
+Despite being in their 80s and 90s, many of the trailblazing architect’s clients never gave up on the dream. 
+
+<br> 
+
+<https://www.dwell.com/article/frank-lloyd-wright-original-owners-13f0727d>
+
+---
+
+## In Los Angeles, Senior Housing Is Keeping One Neighborhood Alive
+
+date: 2025-05-15, from: Dwell
+
+A $50 million rehabilitation of a development in Little Tokyo centers on its dated community space, now a convivial ryokan-inspired hub for residents. 
+
+<br> 
+
+<https://www.dwell.com/article/little-tokyo-towers-los-angeles-19ef177d>
+
+---
+
+## How to Identify and Control Beet Mosaic Virus
+
+date: 2025-05-15, from: The Gardener's Path
+
+<p>Strange patterns on your beet leaves? It could be beet mosaic virus. This disease affects beets, spinach, and related crops, plus it spreads fast through feeding aphids and infected sap. Learn more about the common symptoms of beet mosaic virus, and how to prevent and control it in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/beet-mosaic-virus/">How to Identify and Control Beet Mosaic Virus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/beet-mosaic-virus/>
+
+---
+
+## CDFA’s Progress for Californians — the vast reach of Farm to School
+
+date: 2025-05-15, from: Calfifornia Dept. Aggriculture blog
+
+CDFA&#8217;s report &#8220;Progress for California&#8221; highlights a variety of ways that agency programs benefit the state. The Farm to School initiative is a great example &#8212; a vital approach to improve the health and well-being of California schoolchildren through food-based &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28996">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28996>
+
+---
+
+## These Are the Winners of the 2025 Sunset Western Home & Design Awards
+
+date: 2025-05-15, from: Sunset Magazine - Living in the West
+
+Announcing the winners of the 2025 Sunset Home & Design Awards. These are the best architects, designers, and makers defining the ultimate in Western living. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/2025-sunset-home-design-awards-winners>
+
+---
+
+## How to Grow Cosmos in Containers
+
+date: 2025-05-15, from: The Gardener's Path
+
+<p>Cosmos are an excellent choice for container growing for many reasons. You can have a pollinator-friendly display of blooms that needs little maintenance, grows quickly, and may return year after year from tubers or seeds. Prepare that pot and start reading to learn all about growing cosmos in containers.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-cosmos-containers/">How to Grow Cosmos in Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-cosmos-containers/>
+
+---
+
+## How They Pulled It Off: A Custom-Built Foyer That Transforms an Uninviting Entryway
+
+date: 2025-05-15, from: Dwell
+
+For a couple returning to the city, Dunham Robinson designed a bespoke built-in that adds depth and dimension to their new apartment. 
+
+<br> 
+
+<https://www.dwell.com/article/dunham-robinson-upper-west-side-foyer-dc078a9a>
 
 ---
 
@@ -20,6 +160,18 @@ date: 2025-05-15, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-pie-pumpkins/>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-15, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -155,6 +307,20 @@ date: 2025-05-14, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/8-innovative-ikea-hacks-to-try/>
+
+---
+
+## 8 Innovative IKEA Hacks to Try
+
+date: 2025-05-14, from: Family Handyman Blog
+
+<p>Who doesn't love some good IKEA hacks? We've rounded up several simple ones to give you some inspiration for your space. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/innovative-ikea-hacks-to-try/">8 Innovative IKEA Hacks to Try</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/innovative-ikea-hacks-to-try/>
 
 ---
 
@@ -298,30 +464,6 @@ From Bottlerock to Hard Summer to Outside Lands, these are best summer music fes
 <br> 
 
 <https://www.sunset.com/travel/best-summer-music-festivals-in-the-west>
-
----
-
-## These Are the Winners of the 2025 Sunset Western Home & Design Awards
-
-date: 2025-05-14, from: Sunset Magazine - Living in the West
-
-Announcing the winners of the 2025 Sunset Home & Design Awards. These are the best architects, designers, and makers defining the ultimate in Western living. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/2025-sunset-home-design-awards-winners>
-
----
-
-## Homepage 2025
-
-date: 2025-05-14, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

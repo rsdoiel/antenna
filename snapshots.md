@@ -1,11 +1,266 @@
 ---
 title: snapshots
-updated: 2025-05-15 06:06:54
+updated: 2025-05-15 14:07:51
 ---
 
 # snapshots
 
-(date: 2025-05-15 06:06:54)
+(date: 2025-05-15 14:07:51)
+
+---
+
+## CBP Seizes Shipment of T-Shirts Featuring Swarm of Bees Attacking a Cop
+
+date: 2025-05-15, from: 404 Media Group
+
+The shirts will be returned to China or will be “destroyed under CBP supervision." 
+
+<br> 
+
+<https://www.404media.co/cbp-seizes-shipment-of-t-shirts-featuring-swarm-of-bees-attacking-cops/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-15, from: Dave Winer's linkblog)
+
+RFK Jr. Is Coming for Abortion Pills. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/05/rfk-jr-is-coming-for-abortion-pills/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-15, from: Dave Winer's linkblog)
+
+Nate Silver: Did the media blow it on Biden? 
+
+<br> 
+
+<https://www.natesilver.net/p/did-the-media-blow-it-on-biden>
+
+---
+
+## HDR in Forthcoming Halide 3
+
+date: 2025-05-15, from: Michael Tsai
+
+Ben Sandofsky (tweet, Hacker News): Then the algorithms combined everything into a single &#8220;photo&#8221; that matches human vision&#8230; a photo that was useless, since computer screens couldn&#8217;t display HDR. So these researchers also came up with algorithms to squeeze HDR values onto an SDR screen, which they called &#8220;Tone Mapping.&#8221;[&#8230;]HDR and Deep Fusion require that [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/15/hdr-in-forthcoming-halide-3/>
+
+---
+
+## Microsoft Layoffs
+
+date: 2025-05-15, from: Michael Tsai
+
+Jordan Novet: Microsoft on Tuesday said that it&#8217;s laying off 3% of employees across all levels, teams and geographies, affecting about 6,000 people.[&#8230;]The company reported better-than-expected results, with $25.8 billion in quarterly net income, and an upbeat forecast in late April.[&#8230;]In total, it&#8217;s likely Microsoft&#8217;s largest round of layoffs since the elimination of 10,000 roles [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/15/microsoft-layoffs/>
+
+---
+
+## 2025 Six Colors Apple in the Enterprise Report Card
+
+date: 2025-05-15, from: Michael Tsai
+
+Jason Snell: Of those expressing a preference, a third said they&#8217;d only be comfortable with allowing on-device running of AI models; nearly half said they&#8217;d be okay with on-device models and those that run in Apple&#8217;s Private Cloud Compute servers. Only 18% said they&#8217;d be comfortable with everything&#8212;on-device, Private Cloud Compute, and third-party AI in [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/15/2025-six-colors-apple-in-the-enterprise-report-card/>
+
+---
+
+## ‘Doom: The Dark Ages’ DRM Is Locking Out Linux Users Who Bought the Game
+
+date: 2025-05-15, from: 404 Media Group
+
+As gaming on Linux becomes more popular, Denuvo’s “activations” limit will become a bigger problem.  
+
+<br> 
+
+<https://www.404media.co/doom-the-dark-ages-drm-is-locking-out-linux-users-who-bought-the-game/>
+
+---
+
+## SQLite Databases in App Group Containers (Don’t)
+
+date: 2025-05-15, from: Michael Tsai
+
+Brent Simmons (2020): The crash logs were not identical, but they had this same thing:Namespace RUNNINGBOARD, Code 0xdead10ccThis meant that the system was killing the app because, after the background task was complete, the app still had references to a SQLite database (or sometimes another file). Apple: 0xdead10cc (3735883980) &#8212; pronounced &#8220;dead lock&#8221;The operating system [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/15/sqlite-databases-in-app-group-containers-dont/>
+
+---
+
+## Has Grok lost its mind and mind-melded with its owner?
+
+date: 2025-05-15, from: Gary Marcus blog
+
+Both certainly seem fixed on white genocide, these days. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/has-grok-lost-its-mind-and-mind-melded>
+
+---
+
+## Apple Moves iPhone Production to India—Purism Has Been Leading the Way for Years
+
+date: 2025-05-15, from: Purism News and Events
+
+<p>Apple is accelerating its shift of iPhone production from China to India, aiming for a complete transition by 2026. Driven by rising U.S.-China trade tensions and tariff pressures, Apple has already begun trial production of the iPhone 17 series in India. Reports suggest the company plans to produce over 60 million iPhones annually in India [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/apple-moves-iphone-production-to-india-purism-has-been-leading-the-way-for-years/">Apple Moves iPhone Production to India—Purism Has Been Leading the Way for Years</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://videos.puri.sm/librem5/us-manufacturing.mp4"></source>
+</video> <a href="https://videos.puri.sm/librem5/us-manufacturing.mp4" target="_blank">download video/mp4</a> 
+
+<https://puri.sm/posts/apple-moves-iphone-production-to-india-purism-has-been-leading-the-way-for-years/>
+
+---
+
+## Divine D. project is developing a Linux phone with a RK3588s processor
+
+date: 2025-05-15, from: Liliputing
+
+<p>The Rockchip RK3588 processor family has been around for a few years now, and it has proven to be a popular option for single-board computers, laptops, and other devices that generally run Android or Linux-based software. More recently we&#8217;ve started to see folks tap this chip for use in Linux smartphones. The first was the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/divine-d-project-is-developing-a-linux-phone-with-a-rk3588s-processor/">Divine D. project is developing a Linux phone with a RK3588s processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/divine-d-project-is-developing-a-linux-phone-with-a-rk3588s-processor/>
+
+---
+
+## Becoming Your Own Guru in the Digital Age
+
+date: 2025-05-15, from: Guy Kawasaki blog
+
+My recent convo with Deepak Chopra! 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/becoming-your-own-guru-in-the-digital>
+
+---
+
+## Emmys 2025: ranking de predicciones categorías de drama – mayo
+
+date: 2025-05-15, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>El resto de los rankings de mayo están disponibles aquí. Serie: cuatro propuestas con serias opciones a ganar Esta moda de sacar una temporada cada dos años o más hace que, salvo Slow Horses, ninguna serie nominada el año pasado tenga chance de repetir nominación, pero eso no significa que no vayamos a contar con [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-ranking-de-predicciones-categorias-de-drama-mayo/">Emmys 2025: ranking de predicciones categorías de drama – mayo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-ranking-de-predicciones-categorias-de-drama-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-ranking-de-predicciones-categorias-de-drama-mayo>
+
+---
+
+## This Chatbot Promises to Help You Get Over That Ex Who Ghosted You
+
+date: 2025-05-15, from: 404 Media Group
+
+"Thinking about your ex 24/7? There's nothing wrong with you. Chat with their AI version—and finally let it go," an ad for Closure says. I tested a bunch of the chatbot startups' personas. 
+
+<br> 
+
+<https://www.404media.co/closure-ink-ai-chatbot-ghosted-ex/>
+
+---
+
+## Why Did Grok Start Talking About ‘White Genocide’?
+
+date: 2025-05-15, from: 404 Media Group
+
+Large language models are reflections of the people who program them. 
+
+<br> 
+
+<https://www.404media.co/why-did-grok-start-talking-about-white-genocide/>
+
+---
+
+## Your Fast Track to Bacalhau: Local Development via Docker-in-Docker
+
+date: 2025-05-15, from: Bacalhau Blog
+
+Docker-in-Docker With Bacalhau For Fast Tests And Low Barrier Entry 
+
+<br> 
+
+<https://blog.bacalhau.org/p/your-fast-track-to-bacalhau-local>
+
+---
+
+## Annotated Presentation Creator
+
+date: 2025-05-15, updated: 2025-05-15, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://tools.simonwillison.net/annotated-presentations">Annotated Presentation Creator</a></strong></p>
+I've released a new version of my tool for creating annotated presentations. I use this to turn slides from my talks into <a href="https://simonwillison.net/2025/May/15/building-on-llms/">posts like this one</a> - here are <a href="https://simonwillison.net/tags/annotated-talks/">a bunch more examples</a>.</p>
+<p>I wrote the first version <a href="https://simonwillison.net/2023/Aug/6/annotated-presentations/">in August 2023</a> making extensive use of ChatGPT and GPT-4. That older version can <a href="https://til.simonwillison.net/tools/annotated-presentations">still be seen here</a>.</p>
+<p>This new edition is a design refresh using Claude 3.7 Sonnet (thinking). I ran this command:</p>
+<pre><code>llm \
+  -f https://til.simonwillison.net/tools/annotated-presentations \
+  -s 'Improve this tool by making it respnonsive for mobile, improving the styling' \
+  -m claude-3.7-sonnet -o thinking 1
+</code></pre>
+<p>That uses <code>-f</code> to fetch the original HTML (which has embedded CSS and JavaScript in a single page, convenient for working with LLMs) as a prompt fragment, then applies the system prompt instructions "Improve this tool by making it respnonsive for mobile, improving the styling" (typo included).</p>
+<p>Here's <a href="https://gist.github.com/simonw/8010fca527eb588f006f70850d7c37a3">the full transcript</a> (generated using <code>llm logs -cue</code>) and <a href="https://gist.github.com/simonw/70e1bdbf71fd53ba89922067d3401a3b/revisions#diff-b6337e5018b8ad3d751d42ddc4bc6c1a0328190c7e7cbfeb88321142aad8f31d">a diff</a> illustrating the changes. Total cost 10.7781 cents.</p>
+<p>There was one visual glitch: the slides were distorted like this:</p>
+<p><img alt="The slide is distorted by being too high for its width" src="https://static.simonwillison.net/static/2025/bug.jpg" /></p>
+<p>I decided to try o4-mini to see if it could spot the problem (after <a href="https://github.com/simonw/llm/issues/1037">fixing this LLM bug</a>):</p>
+<pre><code>llm o4-mini \
+  -a bug.png \
+  -f https://tools.simonwillison.net/annotated-presentations \
+  -s 'Suggest a minimal fix for this distorted image'
+</code></pre>
+<p>It suggested adding <code>align-items: flex-start;</code> to my <code>.bundle</code> class (it quoted the <code>@media (min-width: 768px)</code> bit but the solution was to add it to <code>.bundle</code> at the top level), which fixed the bug.</p>
+<p><img alt="Screenshot of an &quot;Annotated Presentation Creator&quot; web application. The interface shows: &quot;Annotated Presentation Creator&quot; header, &quot;Create beautiful annotated slides for your presentations. See How I make annotated presentations for instructions.&quot; Below is an upload area with buttons &quot;Choose Images&quot;, &quot;Load Images&quot;, &quot;Restore 64 saved items&quot;, and &quot;OCR Missing Alt Text&quot;. The main area displays a presentation slide with &quot;Building software on top of Large Language Models&quot; by &quot;Simon Willison - PyCon US 2025&quot; dated &quot;15th May 2025&quot;, alongside an alt text input field and annotation section containing &quot;The full handout for the workshop parts of this talk can be found at building-with-llms-pycon-2025.readthedocs.io.&quot;" src="https://static.simonwillison.net/static/2025/annotated-updated.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/annotated-talks">annotated-talks</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/css">css</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/15/annotated-presentation-creator/#atom-everything>
+
+---
+
+## American Schools Were Deeply Unprepared for ChatGPT, Public Records Show
+
+date: 2025-05-15, from: 404 Media Group
+
+Thousands of pages of documents show school districts around the country did not understand how much ChatGPT would change their classrooms, and pro-AI consultants filled in some of the gaps. 
+
+<br> 
+
+<https://www.404media.co/american-schools-were-deeply-unprepared-for-chatgpt-public-records-show/>
+
+---
+
+## An Update on Fresh
+
+date: 2025-05-15, updated: 2025-05-15, from: Deno blog
+
+Fresh 2.0 is very much still active. Here’s an update and how to try out the alpha. 
+
+<br> 
+
+<https://deno.com/blog/an-update-on-fresh>
 
 ---
 
@@ -568,6 +823,18 @@ Tesla has yet to start testing its robotaxi service without driver weeks before 
 <br> 
 
 <https://bsky.app/profile/rsdoiel.bsky.social/post/3lp6ag5k6b22d>
+
+---
+
+## [DRAFT] Collaborative Text Editing without CRDTs or OT
+
+date: 2025-05-15, updated: 2025-05-15, from: Matt Weidner blog
+
+This blog post describes an alternative, straightforward approach to collaborative text editing, without Conflict-free Replicated Data Types (CRDTs) or Operational Transformation (OT). By making text editing flexible and easy to DIY, I hope that the approach will let you create rich collaborative apps that are challenging to build on top of a one-size-fits-all CRDT/OT library 
+
+<br> 
+
+<https://mattweidner.com//2025/05/15/text-without-crdts.html>
 
 ---
 

@@ -1,11 +1,341 @@
 ---
 title: planet
-updated: 2025-05-15 06:06:43
+updated: 2025-05-15 14:07:40
 ---
 
 # planet
 
-(date: 2025-05-15 06:06:43)
+(date: 2025-05-15 14:07:40)
+
+---
+
+## Navy celebrates new wave of sailors at Passing Out parade
+
+date: 2025-05-15, from: RTÉ News
+
+The Irish Naval Service celebrated the graduation of its latest crop of Able Rate sailors at a special Passing Out parade at the service's Haulbowline headquarters in Cork harbour. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0515/1513157-irish-navy-new-sailors/>
+
+---
+
+## Opposition parties unite on assessment of need motion
+
+date: 2025-05-15, from: RTÉ News
+
+The combined opposition in the Dáil have joined forces to bring forward a motion demanding that the Government provides children with assessments of need within six months. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0515/1513154-assessment-of-need/>
+
+---
+
+## Man charged over arson at properties linked to UK PM
+
+date: 2025-05-15, from: RTÉ News
+
+Police in London have charged a man, 21, with three counts of arson with intent to endanger life after fires at two properties and a car connected to the British Prime Minister Keir Starmer. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1513151-uk-keir-starmer/>
+
+---
+
+## Israeli Eurovision rehearsal 'disrupted' by protesters
+
+date: 2025-05-15, from: RTÉ News
+
+Protesters have "disrupted" Israeli singer Yuval Raphael's rehearsal for the Eurovision Song Content semi-final, organisers have said. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0515/1513147-israeli-eurovision-rehearsal-disrupted-by-protesters/>
+
+---
+
+## Eurovision: All the action from the second semi-final
+
+date: 2025-05-15, from: RTÉ News
+
+Sixteen acts. Ten spots. One step closer to Eurovision glory. Follow all the action live from the second semi-final in Basel, Switzerland. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0515/1513138-eurovision-all-the-action-from-the-second-semi-final/>
+
+---
+
+## Pope Leo XIV meets with head of Ukrainian Greek Catholic Church
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>The Major Archbishop of Kyiv expresses his gratitude to Pope Leo while meeting with him in a private audience on Thursday morning. The Archbishop gives him a painting entitled “Requiem Prayer” depicting the suffering of the Ukrainian people.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-meets-with-archbishop-shevchuk.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-meets-with-archbishop-shevchuk.html>
+
+---
+
+## 'Can't stay weekends' - Galway rents leading to struggles
+
+date: 2025-05-15, from: RTÉ News
+
+Students and residents in Galway have been outlining their struggles with paying high amounts of rent for accommodation in the city. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1513140-galway-rent/>
+
+---
+
+## 'We feel sick' - parents speak out over children's hip operations
+
+date: 2025-05-15, from: RTÉ News
+
+The parents of twin girls who both underwent surgery to correct a hip condition have spoken of their unease after receiving a pair of letters informing them that a clinical review is under way into the type of operation carried out on their daughters. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0515/1513136-we-feel-sick-parents-speak-out-over-childrens-hip-operations/>
+
+---
+
+## Bunk beds used to tackle prison overcrowding - minister
+
+date: 2025-05-15, from: RTÉ News
+
+Minister for Justice Jim O'Callaghan has revealed that bunk beds are being used to tackle serious overcrowding in prisons. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0515/1513132-prison-overcrowding/>
+
+---
+
+## Desperately ill baby healed with personalized gene therapy, doctors say
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7536168.1747338353!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/personalized-gene-editing.jpg' alt='A baby following an experimental gene editing therapy.' width='620' height='349' title='This photo provided by the Children&apos;s Hospital of Philadelphia shows KJ Muldoon after a follow up dose of an experimental gene editing treatment at the hospital in April 2025.'/><p>A baby born with a rare and dangerous genetic disease is growing and thriving after getting an experimental gene editing treatment made just for him.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/gene-therapy-baby-pennsylvania-1.7536105?cmp=rss>
+
+---
+
+## Combs's ex Cassie faces intense cross-examination
+
+date: 2025-05-15, from: RTÉ News
+
+Attorneys for Sean 'Diddy' Combs have tried to chip away at the credibility of Casandra Ventura, the music mogul's former girlfriend, after two days of her gruelling testimony in his trial on sex trafficking charges. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0515/1513119-sean-diddy-combs/>
+
+---
+
+## Cigarettes worth almost €9 million seized at Dublin Port
+
+date: 2025-05-15, from: RTÉ News
+
+Almost 10 million cigaretts, worth nearly €9 million, have been seized at Dublin Port. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0515/1513121-cigarette-seizure/>
+
+---
+
+## Health workers ready to 'engage' over seven-day services
+
+date: 2025-05-15, from: RTÉ News
+
+Health workers say they are 'ready and waiting' to hear proposals from the HSE and the Department of Health on the provision of health services over a seven-day week. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0515/1513114-forsa-conference/>
+
+---
+
+## Charges over naming Kriegel murderers dismissed
+
+date: 2025-05-15, from: RTÉ News
+
+Dublin Circuit Criminal Court has dismissed charges against two people accused of identifying two teenage boys convicted of the murder of 14-year-old Ana Kriegel. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1513108-ana-kriegel-court/>
+
+---
+
+## Chinese Catholics celebrate the opening of two new churches
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>Chinese Catholics see the inauguration of new churches in the nation's Hubei Province and Shanxi Province as concrete signs of perseverance on the path of faith.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/china-catholics-new-churches-inaugurated.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/china-catholics-new-churches-inaugurated.html>
+
+---
+
+## Shireen Abu Akleh and the quest for justice
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>Anton Abu Akleh speaks to Vatican Media about his sister Shireen, the Palestinian Catholic journalist and “voice of the oppressed people of the Holy Land” who was shot dead three years ago.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/shireen-anton-abu-akleh-the-quest-for-justice.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/shireen-anton-abu-akleh-the-quest-for-justice.html>
+
+---
+
+## Daniel O'Donnell announces extended break from touring
+
+date: 2025-05-15, from: RTÉ News
+
+Daniel O'Donnell has announced he is taking an extended break from his busy entertainment career due to "health challenges". 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0515/1513101-daniel-odonnell-announces-extended-break-from-touring/>
+
+---
+
+## Man in court for offensive communication about AGSI head
+
+date: 2025-05-15, from: RTÉ News
+
+A 38-year-old man has appeared before Mullingar District Court charged with distributing or publishing a grossly offensive communication about the then general secretary of the Association of Garda Sergeants and Inspectors, Antoinette Cunningham. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1513100-mullingar-court/>
+
+---
+
+## Istanbul hosts first direct Ukraine-Russia peace talks
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>Hundreds of journalists gathered in Istanbul on Thursday afternoon as Ukraine and Russia were scheduled to hold their first direct talks there after more than 3 years of war. Russia has confirmed 
+that President Vladimir Putin will not be taking part despite having called for the talks himself.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/putin-zelensky-russia-ukraine-talks-turkey-mediation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/putin-zelensky-russia-ukraine-talks-turkey-mediation.html>
+
+---
+
+## 'Dawn raids' on betting premises over suspected breaches
+
+date: 2025-05-15, from: RTÉ News
+
+Gardaí and the Competition and Consumer Protection Commission have carried out a series of raids on gambling industry premises. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0515/1513078-ccpc-raids/>
+
+---
+
+## Teen's death inquest recommends review of child services
+
+date: 2025-05-15, from: RTÉ News
+
+The jury at an inquest into the death of a teenager, who was in the care of the State when he was murdered over 15 years ago, has recommended the State carry out an urgent review of its approach to child protection and welfare. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0515/1513088-daniel-mcanaspie/>
+
+---
+
+## U.S. Supreme Court grapples with nationwide injunctions stopping presidential directives in citizenship case
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7535740.1747322543!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-court-trump-birthright.JPG' alt='Two women are shown from an angle on the ground looking up, holding signs at an outdoor protest.' width='620' height='349' title='People protest on the day Supreme Court justices hear oral arguments over U.S. President Donald Trump&apos;s bid to broadly enforce his executive order to restrict automatic birthright citizenship, outside the U.S. Supreme Court in Washington, D.C., U.S., May 15, 2025. '/><p>The U.S. Supreme Court began hearing arguments Thursday in Donald Trump's attempt to broadly enforce his executive order to limit birthright citizenship, a move that would affect thousands of babies born each year.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/scotus-birthright-citizenship-injunction-1.7535608?cmp=rss>
+
+---
+
+## Trump wants to accept a Qatari jet for Air Force One. Here are the facts
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534363.1747180277!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-gulf.JPG' alt='A man raises his fist from atop a flight of stairs leading into an airliner.' width='620' height='349' title='U.S. President Donald Trump gestures, while he boards Air Force One, as he departs for Saudi Arabia, Qatar and the United Arab Emirates, at Joint Base Andrews, in Maryland, U.S. May 12, 2025. REUTERS/'/><p>Donald Trump wants to accept a Qatari jet to replace ageing Air Force One planes, but the constitutionality of it is disputed. Here are the facts.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-qatar-air-force-one-replacement-1.7535798?cmp=rss>
+
+---
+
+## Satchwell told gardaí he had to 'get rid of the memories'
+
+date: 2025-05-15, from: RTÉ News
+
+The Central Criminal Court has heard how Richard Satchwell told gardaí that he had to "rediscover himself" and "get rid of the memories" following his wife's death. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0515/1513076-richard-satchwell-trial/>
+
+---
+
+## First Nation chief downstream of proposed rural Ontario dump calls out province
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535793.1747324461!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/leela-thomas.jpg' alt='Leela Thomas is the chief of Walpole Island First Nation.' width='620' height='349' title='Leela Thomas, chief of Walpole Island First Nation, addressed her concerns around the environmental and health concerns surrounding the proposed Dresden landfill in southwestern Ontario.'/><p>Walpole Island First Nation Chief Leela Thomas calls proposed Bill 5 “devastating," as it relates to a southwestern Ontario landfill project.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/first-nations-chief-downstream-dresden-landfill-1.7535768?cmp=rss>
+
+---
+
+## Tourists watch as a massive chunk of ice breaks off Argentinian glacier
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7535773.1747323621!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/argentina-glacier-calving.JPG' alt='A large piece of a glacier splashes down into a lake.' width='620' height='349' title='Ice calves off from the Perito Moreno glacier into the Lago Argentino (Argentine Lake), in the Parque Nacional Los Glaciares, near the city of El Calafate in the Patagonian province of Santa Cruz, Argentina on April 21, 2025, in this screengrab from a video. '/><p>The deep cracking sound bursting from within the ice signals the dramatic fall about to happen. Seconds later, a block of ice some 70 metres tall — the size of a 20-storey building — collapses from the face of the Perito Moreno glacier into the aquamarine water below.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/climate/argentina-glacier-1.7535766?cmp=rss>
 
 ---
 
@@ -21,6 +351,18 @@ A long-awaited report into the Leinster House bike shelter has found there was a
 
 ---
 
+## Cassie reads out 'freak-off' texts during cross-examination in Combs sex trafficking trial
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7535742.1747322571!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sean-diddy-combs-trial-may-15.JPG' alt='A courtroom sketch of a man in a yellow suit sitting at a desk with his back slightly turned. A man in a dark suit stands to the right of him and a woman in a blue suit stands in front of him, with her back turned. ' width='620' height='349' title='Sean (Diddy) Combs takes notes during the morning arguments in his sex trafficking trial in New York City on May 15 in this courtroom sketch.'/><p>R&B singer Cassie faced cross-examination on Thursday in the Sean (Diddy) Combs sex trafficking trial, in which she was forced to read aloud to a jury her explicit messages with former boyfriend Combs.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/diddy-combs-trial-day-four-1.7535692?cmp=rss>
+
+---
+
 ## State dental schemes see cuts of €800m since 2009 - IDA
 
 date: 2025-05-15, from: RTÉ News
@@ -30,6 +372,82 @@ The Irish Dental Association has said State dental schemes have seen effective c
 <br> 
 
 <https://www.rte.ie/news/health/2025/0515/1513034-ida-dental-schemes/>
+
+---
+
+## UN needed ‘more than ever before’ says Germany’s candidate to head General Assembly
+
+date: 2025-05-15, from: United Nations, Top Stories
+
+The former Foreign Minister of Germany outlined her vision for the role of UN General Assembly President, pledging to make the world body more effective, inclusive and focused on results.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163296>
+
+---
+
+## Sudden escalation of trade tensions sends shockwaves through global economy
+
+date: 2025-05-15, from: United Nations, Top Stories
+
+Amid escalating trade tensions and growing policy uncertainties, the global economy stands at a fragile turning point, according to a new report on Thursday from the UN Department of Economic and Social Affairs (UN DESA). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163301>
+
+---
+
+## Over 60 per cent of the Arab world still outside the banking system
+
+date: 2025-05-15, from: United Nations, Top Stories
+
+Between 2016 and 2024, the number of Egyptians with a bank account – which experts say is essential for financial inclusion - tripled, from 17.1 million to over 51 million. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163291>
+
+---
+
+## Bishops of Africa and Europe: 'Africa does not need charity but justice'
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>Before the EU Foreign Ministers meet next week, the two conferences stress the need to shift back to “partnership grounded in mutual respect, environmental stewardship, and the centrality of human dignity.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/bishops-conferences-of-africa-and-europe-africa-does-not-need.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/bishops-conferences-of-africa-and-europe-africa-does-not-need.html>
+
+---
+
+## Libya’s fragile peace tested again as new clashes roil Tripoli
+
+date: 2025-05-15, from: United Nations, Top Stories
+
+A fragile calm has settled over Tripoli after a sudden surge of violence this week left parts of the city in ruins, claimed civilian lives, and heightened concerns about the stability of Libya’s already fragile political and security situation. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163286>
+
+---
+
+## ‘The world is failing its health checkup,’ says WHO
+
+date: 2025-05-15, from: United Nations, Top Stories
+
+In just two years, between 2019 and 2021, life expectancy worldwide fell by 1.8 years – the largest fall in recent history according to the World Health Organization (WHO), in the shadow of the COVID-19 pandemic. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163281>
 
 ---
 
@@ -105,6 +523,22 @@ Bringing vacant property back into use as homes could address the twin crises of
 
 ---
 
+## Christian Syrians joyful, cautious about possible end of sanctions
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>On Tuesday 13 May, US President Donald Trump announced the lifting of economic sanctions against Syria, a measure repeatedly called for by local churches and NGOs, and by the Syrian people. However, Syrian Christians remain cautious and want to continue to ensure that the right of every community 'to live in dignity' is respected, according to Fr Georges Sabé, a Marist priest in Aleppo.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/christian-syrians-cautiously-optimistic-about-end-of-sanctions.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/christian-syrians-cautiously-optimistic-about-end-of-sanctions.html>
+
+---
+
 ## RTB warns of 'concerning trends' of high rents in Galway
 
 date: 2025-05-15, from: RTÉ News
@@ -117,12 +551,36 @@ The Residential Tenancies Board has warned of "concerning trends" of rental infl
 
 ---
 
-## Pope to Lasallian Brothers: Inspire joyful and fruitful paths of holiness
+## New book about hockey team from Pelican Lake Indian Residential School set for Thunder Bay launch
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7534822.1747240182!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/beyond-the-rink.jpg' alt='Beyond the Rink' width='620' height='349' title='Beyond the Rink'/><p>Beyond The Rink: Behind The Images of Residential School Hockey is a new book that tells the story of the championship hockey team from Pelican Lake Indian Residential School, near Sioux Lookout, Ont. It’s set to launch in Thunder Bay on May 21.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/beyond-the-rink-1.7534781?cmp=rss>
+
+---
+
+## Grandmother challenges Ottawa's refusal to apply Jordan's Principle to renovate mouldy home
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535441.1747269956!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/joanne-and-granddaughters.jpg' alt='Joanne Powless, 65 of the Oneida Nation of the Thames is the primary caregiver for her two granddaughters. The family has been fighting Ottawa for three years to fix their mould-contaminated home which has caused the girls, aged eight and 10, to suffer from severe asthma and multiple hospitalizations. ' width='620' height='349' title='Joanne Powless, 65 of the Oneida Nation of the Thames is the primary caregiver for her two granddaughters. The family has been fighting Ottawa for three years to fix their mould-contaminated home which has caused the girls, aged eight and 10, to suffer from severe asthma and multiple hospitalizations. '/><p>A woman from Oneida Nation of the Thames is appealing a decision that denied funding to renovate a mould-contaminated home that she says contributed to severe asthma symptoms in her grandchildren. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/london/grandmother-challenges-ottawa-s-refusal-to-apply-jordan-s-principle-to-renovate-mouldy-home-1.7535056?cmp=rss>
+
+---
+
+## Pope to Christian Brothers: Inspire joyful and fruitful paths of holiness
 
 date: 2025-05-15, from: Vatican News
 
 
-                    <p>Recalling the saying of St. John Baptist de La Salle "Your altar is the classroom," Pope Leo XIV commends the educational efforts of the De La Salle Brothers, and encourages them to continue "inspiring joyful and fruitful paths of holiness."</p>
+                    <p>Recalling the saying of St. John Baptist de La Salle "Your altar is the classroom," Pope Leo XIV commends the educational efforts of the Christian Brothers, and encourages them to continue "inspiring joyful and fruitful paths of holiness."</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-meets-institute-of-the-brothers-of-christian-schools.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -130,6 +588,30 @@ date: 2025-05-15, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-meets-institute-of-the-brothers-of-christian-schools.html>
+
+---
+
+## Alberta amends referendum bill as First Nations fear it will trample treaty rights
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7522153.1745962442!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mickey-amery-and-danielle-smith.jpg' alt='Justice Minister Mickey Amery talks about his new Bill 54 as Premier Danielle Smith stand to the side, listening.' width='620' height='349' title='Justice Minister Mickey Amery talks about his new Bill 54 as Premier Danielle Smith listens. '/><p>Alberta's government has made 11th-hour changes to controversial proposed legislation, declaring that no separation referendum question could threaten First Nations' existing treaty rights.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/edmonton/alta-referendum-1.7535537?cmp=rss>
+
+---
+
+## Enbridge sells stake in Westcoast pipeline to First Nations group
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5225497.1706642543!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/apfn-us-enbridge-pipeline-wisconsin-20190725.jpg' alt='A row of large white storage tanks are seen from across a barbed wire chainlink fence.' width='620' height='349' title=''/><p>Enbridge Inc. has signed a deal to sell a minority stake in its Westcoast natural gas pipeline system to a group of 36 First Nations in B.C.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/calgary/enbridge-sells-stake-in-westcoast-pipeline-to-first-nations-group-1.7535543?cmp=rss>
 
 ---
 
@@ -197,6 +679,18 @@ The University of Galway is receiving €4 million in funding from the National 
 
 ---
 
+## A pin with a cause: The story behind Moose Hide Campaign Day
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.2951757.1747263689!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/moose-hide-campaign.jpg' alt='A photo of a moose hide pin as part of the commitment to raise awareness about violence against Canadian women.' width='620' height='349' title='Men are encouraged to wear a square of moose hide as a commitment to raising awareness about violence against Canadian women.'/><p>Each year on May 15th people across the country take to the streets in a day of ceremony. Marches and events take place to spread awareness about violence against girls and women as part of Moose Hide Campaign Day.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/moose-hide-campaign-day-history-1.7535351?cmp=rss>
+
+---
+
 ## Man arrested after cyclists injured in hit-and-run
 
 date: 2025-05-15, from: RTÉ News
@@ -209,15 +703,27 @@ A man in his 30s was arrested for questioning in connection with a hit-and-run i
 
 ---
 
-## Death toll from latest Israeli strikes on Gaza reaches 82
+## Israeli strikes on Gaza kill over 100, say rescuers
 
 date: 2025-05-15, from: RTÉ News
 
-At least 82 people have been killed in Israeli strikes and shelling on Gaza since dawn, according to the rescuers. 
+Palestinian rescuers reported more than 100 people killed in the latest Israeli strikes on blockaded Gaza, where a US-backed organisation said it intends to begin distributing aid by the end of the month. 
 
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0515/1512977-gaza/>
+
+---
+
+## UCCM Anishnaabe Police move ahead on their own as negotiations on federal funding continue
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535259.1747265005!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/constable-nicholas-beaudry-and-ben.jpg' alt='A police officer dressed in dark green gear looks down at his dog who resembles a german shepherd.' width='620' height='349' title='UCCM Anishnaabe Police Constable Nicholas Beaudry works with his dog Ben, to execute search warrants and track missing people on Manitoulin Island.'/><p>The police chief of a small Indigenous force in northern Ontario says uncertainty about the organization's funding formula isn’t holding him back from making big changes now.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/police-indigenous-human-rights-equitable-funding-1.7535230?cmp=rss>
 
 ---
 
@@ -233,11 +739,11 @@ New research has shown that Ireland's international competitiveness ranking woul
 
 ---
 
-## Ukraine's Zelenskyy arrives in Turkey for talks with Russian delegation sent by no-show Putin
+## Ukraine, Russia appear set to engage in Istanbul-hosted talks without Zelenskyy, Putin
 
 date: 2025-05-15, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7535515.1747308659!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-talks.JPG' alt='Two men, one with a beard in a dark top and the other with a mustache wearing a suit and tie, shake hands in front of the flags for Turkey and Ukraine.' width='620' height='349' title='Ukrainian President Volodymyr Zelenskyy, left, shakes hands with Turkey&apos;s President at the Presidential Palace in Ankara on Thursday.'/><p>Russian President Vladimir Putin sent aides and deputy ministers to hold peace talks with Ukraine in Turkey on Thursday, spurning Kyiv's challenge to go there in person to meet President Volodymyr Zelenskyy.</p> 
+<img src='https://i.cbc.ca/1.7535515.1747308659!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-talks.JPG' alt='Two men, one with a beard in a dark top and the other with a mustache wearing a suit and tie, shake hands in front of the flags for Turkey and Ukraine.' width='620' height='349' title='Ukrainian President Volodymyr Zelenskyy, left, shakes hands with Turkey&apos;s President at the Presidential Palace in Ankara on Thursday.'/><p>Russia's Vladimir Putin spurned a challenge to meet face-to-face with Ukraine's Volodymyr Zelenskyy in Turkey on Thursday, instead sending a second-tier delegation to planned peace talks, while the Ukrainian president said his defence minister would head up Kyiv's team.</p> 
 
 <br> 
 
@@ -245,11 +751,11 @@ date: 2025-05-15, from: CBC, World News
 
 ---
 
-## Russia calls Zelensky 'clown', 'loser' ahead of talks
+## As it happened: Ukraine-Russia peace talks in Turkey
 
 date: 2025-05-15, from: RTÉ News
 
-Follow developments live across the day as Ukrainian and Russian delegations meet face-to-face for peace talks for the first time since Russia's invasion. 
+Developments across the day as US Secretary of State Marco Rubio said he did not have 'high expectations' for talks between Ukraine and Russia about ending the war after President Vladimir Putin snubbed the negotiations in Turkey. 
 
 <br> 
 
@@ -305,7 +811,7 @@ Qatar's offer to donate a luxury plane to the United States is not a personal gi
 
 ---
 
-## Second night of heavy Israeli bombing kills dozens in Gaza
+## 2nd night of heavy Israeli bombing kills dozens in Gaza
 
 date: 2025-05-15, from: CBC, World News
 
@@ -377,11 +883,11 @@ date: 2025-05-15, from: CBC, World News
 
 ---
 
-## Stage set for EMMY to represent Ireland at Eurovision
+## EMMY takes to the stage for Ireland at Eurovision
 
 date: 2025-05-15, from: RTÉ News
 
-Norwegian singer EMMY will represent Ireland at the second semi-final of the 2025 Eurovision Song Contest in Basel this evening, with Israel among the other countries competing. 
+Norwegian singer EMMY has represented Ireland at the second semi-final of the 2025 Eurovision Song Contest in Basel. 
 
 <br> 
 
@@ -389,11 +895,11 @@ Norwegian singer EMMY will represent Ireland at the second semi-final of the 202
 
 ---
 
-## Trump says no move on Ukraine talks until he meets Putin
+## Turkey to hold talks with Russia, Ukraine teams tomorrow
 
 date: 2025-05-14, from: RTÉ News
 
-US President Donald Trump has said there will not be movement on Ukraine peace talks until he and Russian President Vladimir Putin get together. 
+Talks in Istanbul between Turkey's top diplomat and a Russian delegation have ended with the two sides set to meet again tomorrow with the Ukrainians, a foreign ministry source said. 
 
 <br> 
 
@@ -458,6 +964,18 @@ date: 2025-05-14, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/trump-putin-zelenskyy-ukraine-turkey-talks-1.7535227?cmp=rss>
+
+---
+
+## B.C. First Nation ends blockade of Sicamous bridge construction
+
+date: 2025-05-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7533288.1747266872!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/r-w-bruhn-bridge.jpg' alt='A truck on the side of the road. ' width='620' height='349' title='A Splatsin Development Corporation trucks block both ends of the R.W. Bruhn Bridge construction site in Sicamous as part of a protest over the lack of inclusion in the provincial infrastructure project.'/><p>Splatsin First Nation says 'meaningful negotiations' with he contractor have 'reset' the relationship.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/sicamous-first-nation-halts-bridge-construction-1.7535400?cmp=rss>
 
 ---
 
@@ -919,7 +1437,7 @@ More than 40,000 Sudanese have fled to eastern Chad in the past month to escape 
 
 ## 8 million teens in world's wealthiest countries functionally illiterate: UNICEF
 
-date: 2025-05-14, from: United Nations, Culture and Education
+date: 2025-05-14, from: United Nations, Top Stories
 
 Children in many of the world’s wealthiest countries saw marked declines in their academic performance, mental wellbeing, and physical health as a result of the COVID-19 pandemic, according to a new report published by the UN Children’s Fund (UNICEF) on Wednesday. 
 
@@ -929,9 +1447,9 @@ Children in many of the world’s wealthiest countries saw marked declines in th
 
 ---
 
-## A historic course correction: how the world’s shipping sector is setting sail for net zero
+## A historic course correction: How the world’s shipping sector is setting sail for net zero
 
-date: 2025-05-14, from: United Nations, Top Stories
+date: 2025-05-14, from: United Nations, Climate Change
 
 Long overlooked as a major contributor to global greenhouse gas emissions, the shipping industry is now at the forefront of a unique display of international cooperation. The shift signals that even the world’s largest transport sector can be steered toward climate accountability. 
 
@@ -1403,6 +1921,18 @@ date: 2025-05-14, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/hong-kong-us-china-trade-war-1.7533424?cmp=rss>
+
+---
+
+## Tariffs hitting shoppers in Canada and U.S., with some prices set to rise at Loblaw stores, Walmart
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7504575.1744116351!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_620/loblaws-buy-canadian.jpg' alt='A shopper selecting an orange at the fruit section of a Loblaws.' width='620' height='349' title='Loblaws customers shop at a Toronto-area grocery store on March 6, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/tariffs-hitting-prices-loblaws-walmart-1.7535594?cmp=rss>
 
 ---
 
@@ -3081,7 +3611,7 @@ The search team looking for the remains of Cork woman Tina Satchwell discovered 
 
 ## Climate change takes increasingly extreme toll on African countries
 
-date: 2025-05-12, from: United Nations, Top Stories
+date: 2025-05-12, from: United Nations, Climate Change
 
 Devastating floods in South Sudan in recent months left thousands of herders without their most precious possessions: goats, cows and cattle. The animals are central to people’s lives and age-old customs including marriage and cultural traditions. All risk being swept away or scorched by the ravages of climate change. 
 
