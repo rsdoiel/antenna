@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-05-14 14:08:05
+updated: 2025-05-15 06:06:43
 ---
 
 # north america
 
-(date: 2025-05-14 14:08:05)
+(date: 2025-05-15 06:06:43)
+
+---
+
+## Come Along for the Journey!
+
+date: 2025-05-15, from: The Contrarian
+
+Travel &#8216;hacks&#8217; I have learned 
+
+<br> 
+
+<https://contrarian.substack.com/p/come-along-for-the-journey>
+
+---
+
+## Evening Roundup, May 14
+
+date: 2025-05-14, from: The Contrarian
+
+Featuring Carlos Eduardo Espina & Jen Rubin; Jennifer Weiss-Wolf; Rep. Haley Stevens & Jen Rubin; Chiraag Bains; Ilan Goldenberg; Frederic J. Frommer; Norm Eisen & Spencer Klein 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-14>
+
+---
+
+## How Courts Can Get Trump to Obey the Law
+
+date: 2025-05-14, from: The Contrarian
+
+Part II: Criminal Contempt 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-courts-can-get-trump-to-obey-cb5>
+
+---
+
+## MLB made the right call in reinstating Pete Rose, but it should have done so earlier
+
+date: 2025-05-14, from: The Contrarian
+
+He was a deeply flawed man and his baseball sin serious, but he was entitled to grace. 
+
+<br> 
+
+<https://contrarian.substack.com/p/mlb-made-the-right-call-in-reinstating>
 
 ---
 
@@ -229,7 +277,7 @@ New York City public defender Eliza Orlins discusses the trial of Sean &#8220;Di
 
 date: 2025-05-13, from: The Lever News
 
- After a lobbying surge, rent-tech giant RealPage is set to score a nationwide reprieve from crackdowns on how it’s price-gouging renters and fueling the housing crisis.  
+ Accused of price gouging renters, RealPage could now get a legal shield from GOP lawmakers — after a lobbying surge and a flood of campaign cash.  
 
 <br> 
 

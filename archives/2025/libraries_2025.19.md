@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-14 14:08:11
+updated: 2025-05-15 06:06:49
 ---
 
 # libraries
 
-(date: 2025-05-14 14:08:11)
+(date: 2025-05-15 06:06:49)
+
+---
+
+## A Tumultuous Week at the Library of Congress
+
+date: 2025-05-15, from: Scholarly Kitchen
+
+<p>Changes in Library of Congress leadership could have profound impacts on copyright and intellectual freedom.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/15/a-tumultuous-week-at-the-library-of-congress/">A Tumultuous Week at the Library of Congress</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/15/a-tumultuous-week-at-the-library-of-congress/>
 
 ---
 
@@ -19,6 +33,18 @@ Burkhardt, Fabian; Orttung, Robert; Perović, Jeronim; Pleines, Heiko; Schröder
 <br> 
 
 <http://hdl.handle.net/20.500.11850/735562>
+
+---
+
+## Dataset for Quantifying Retrogressive Thaw Slump Mass Wasting and Carbon Mobilisation on the Qinghai-Tibet Plateau Using Multi-Modal Remote Sensing
+
+date: 2025-05-15, from: ETH Zurich, recently added
+
+Maier, Kathrin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/735734>
 
 ---
 
@@ -167,7 +193,7 @@ Khan, Dean
 
 date: 2025-05-12, from: Association of Research Libraries News
 
-<p>Last Updated on May 13, 2025, 4:24 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
+<p>Last Updated on May 14, 2025, 5:19 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-12-15/">Day in Review (May 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

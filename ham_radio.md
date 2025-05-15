@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-14 14:08:07
+updated: 2025-05-15 06:06:45
 ---
 
 # ham radio
 
-(date: 2025-05-14 14:08:07)
+(date: 2025-05-15 06:06:45)
+
+---
+
+## MRAM and ReRAM: The quest for automotive, aerospace niches
+
+date: 2025-05-15, from: EDN Blog
+
+<img width="900" height="327" src="https://www.edn.com/wp-content/uploads/Hero-image-MRAM.png?fit=900%2C327" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-MRAM.png?w=900 900w, https://www.edn.com/wp-content/uploads/Hero-image-MRAM.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-MRAM.png?w=768 768w" sizes="(max-width: 900px) 100vw, 900px" /><p>While these emerging memory technologies promise better endurance and reliability, can they compete on price?</p>
+<p>The post <a href="https://www.edn.com/mram-and-reram-the-quest-for-automotive-aerospace-niches/">MRAM and ReRAM: The quest for automotive, aerospace niches</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mram-and-reram-the-quest-for-automotive-aerospace-niches/>
 
 ---
 
@@ -25,7 +39,7 @@ date: 2025-05-14, from: Amateur Radio Relay League News
 
 date: 2025-05-14, from: EDN Blog
 
-<img width="923" height="560" src="https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?fit=923%2C560" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?w=923 923w, https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?w=768 768w" sizes="(max-width: 923px) 100vw, 923px" /><p>A seven-octave linear-in-pitch VCO that produces a 50 to 6400 Hz, three-level, and somewhat sinewave output.</p>
+<img width="923" height="560" src="https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?fit=923%2C560" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?w=923 923w, https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/7octaveVCO_Figure1.png?w=768 768w" sizes="(max-width: 923px) 100vw, 923px" /><p>A seven-octave linear-in-pitch VCO that produces a 50 to 6400 Hz, three-level, and somewhat sinewave output.</p>
 <p>The post <a href="https://www.edn.com/seven-octave-linear-in-pitch-vco/">Seven-octave linear-in-pitch VCO</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

@@ -1,11 +1,148 @@
 ---
 title: journalism
-updated: 2025-05-14 14:08:10
+updated: 2025-05-15 06:06:49
 ---
 
 # journalism
 
-(date: 2025-05-14 14:08:10)
+(date: 2025-05-15 06:06:49)
+
+---
+
+## The changing landscape of Asian American businesses in the US
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Audri Chang’s curly silver hair and thick black glasses are unmistakable as the 71-year-old restaurant owner shuffles between rustic tables, balancing platters of steaming food and exchanging friendly small talk with customers. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/the-changing-landscape-of-asian-american-businesses-in-the-us/>
+
+---
+
+## UCLA students react to Trump’s attacks on higher education, federal funding cuts
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students said UCLA should fight back against the Trump administration&#8217;s attacks on higher education. 
+The United States Department of Education has withheld funding from Harvard University, Brown University, Columbia University, Cornell University, Northwestern University, Princeton University and the University of Pennsylvania since the beginning of the Trump administration. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/ucla-students-react-to-trumps-attacks-on-higher-education-federal-funding-cuts/>
+
+---
+
+## Bruin Bowl Malatang offers build-your-own concept, fresh ingredient options
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new Westwood Chinese restaurant opened in March following a trend of Westwood restaurant closures in recent years.
+Bruin Bowl Malatang opened on Weyburn Avenue with indoor and outdoor seating and a buffet-style selection of ingredients for customers to customize their bowls with and cook in hot pot broth. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/bruin-bowl-malatang-offers-build-your-own-concept-fresh-ingredient-options/>
+
+---
+
+## Academic Senate discusses revocation of LACCD student visas
+
+date: 2025-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Student visas being revoked across the district and new AI tools were discussed at the Pierce College Academic Senate meeting on Monday, April 21, in</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/14/academic-senate-discusses-revocation-of-laccd-student-visas/">Academic Senate discusses revocation of LACCD student visas</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/14/academic-senate-discusses-revocation-of-laccd-student-visas/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-discusses-revocation-of-laccd-student-visas>
+
+---
+
+## Winner Takes All: Tailored to theme, 2025 Met Gala attendees embrace Black dandyism
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bringing Black fashion to the limelight, the 2025 Met Gala was nothing short of dandy.
+The Metropolitan Museum of Art was tailored for the most extravagant fundraiser in fashion Monday. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/winner-takes-all-tailored-to-theme-2025-met-gala-attendees-embrace-black-dandyism/>
+
+---
+
+## USAC Presidential Candidate interviews: Syed Tamim Ahmad
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Podcasts sat down with some of the candidates running for Undergraduate Students Association Council president in the 2025 USAC election &#8212; Syed Tamim Ahmad, Diego Emilio Bollo, Mafruha Esha and Teesha Sreeram. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/usac-presidential-candidate-interviews-syed-tamim-ahmad/>
+
+---
+
+## USAC Presidential Candidate interviews: Mafruha Esha
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Podcasts sat down with some of the candidates running for Undergraduate Students Association Council president in the 2025 USAC election &#8212; Syed Tamim Ahmad, Diego Emilio Bollo, Mafruha Esha and Teesha Sreeram. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/usac-presidential-candidate-interviews-mafruha-esha/>
+
+---
+
+## USAC Presidential Candidate interviews: Teesha Sreeram
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Podcasts sat down with some of the candidates running for Undergraduate Students Association Council president in the 2025 USAC election &#8212; Syed Tamim Ahmad, Diego Emilio Bollo, Mafruha Esha and Teesha Sreeram. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/usac-presidential-candidate-interviews-teesha-sreeram/>
+
+---
+
+## USAC Presidential Candidate interviews: Diego Emilio Bollo
+
+date: 2025-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Podcasts sat down with some of the candidates running for Undergraduate Students Association Council president in the 2025 USAC election &#8212; Syed Tamim Ahmad, Diego Emilio Bollo, Mafruha Esha and Teesha Sreeram. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/usac-presidential-candidate-interviews-diego-emilio-bollo/>
+
+---
+
+## Storytimes with Mother
+
+date: 2025-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/storytimes-with-mother/>
+
+---
+
+## Benefits of Music
+
+date: 2025-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/14/benefits-of-music/>
 
 ---
 

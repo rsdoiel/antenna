@@ -1,11 +1,183 @@
 ---
 title: going electric
-updated: 2025-05-14 14:08:13
+updated: 2025-05-15 06:06:52
 ---
 
 # going electric
 
-(date: 2025-05-14 14:08:13)
+(date: 2025-05-15 06:06:52)
+
+---
+
+## Arc boats announces new, cheaper Arc Coast center console electric boat
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Arc_Coast_Fishing-e1747245931779.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Arc, the company behind the powerful <a href="https://electrek.co/2022/06/15/arc-one-electric-boat/">Arc One</a> and <a href="https://electrek.co/2024/05/21/we-drove-the-500hp-electric-arc-sport-and-it-literally-knocked-us-off-our-seats/">Arc Sport</a> electric boats, announced its next model today: the Arc Coast, a center console boat with many of the capabilities of its predecessors at a significantly lower price.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="415838" href="https://electrek.co/2025/05/15/arc-boats-announces-new-cheaper-arc-coast-center-console-electric-boat/#more-415838" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/arc-boats-announces-new-cheaper-arc-coast-center-console-electric-boat/>
+
+---
+
+## Archer Aviation becomes the exclusive air taxi provider to the 2028 Olympic Games in LA
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Olympic-air-taxi-Archer-colisseum.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>eVTOL developer Archer Aviation has signed on as the official air taxi partner of the 2028 Olympic Games in Los Angeles. As a partner to the event and Team USA, <a href="https://electrek.co/guides/archer-aviation/">Archer’s</a> Midnight eVTOL aircraft will transport VIPs, fans, and athletes around event venues in the Los Angeles metropolitan area.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,archer-aviation,evtol" data-layer-viewtype="unknown" data-post-id="415599" href="https://electrek.co/2025/05/15/archer-aviation-exclusive-air-taxi-provider-2028-olympic-games-la/#more-415599" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/archer-aviation-exclusive-air-taxi-provider-2028-olympic-games-la/>
+
+---
+
+## Royal Enfield’s Flying Flea electric motorcycles launching early next year
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/royal-enfield-flying-flea-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Royal Enfield’s eagerly anticipated electric motorcycles, <a href="https://electrek.co/2024/11/07/royal-enfield-unveils-new-electric-motorcycle-and-its-the-perfect-type/">unveiled late last year</a> under the Flying Flea brand, are now confirmed to hit the market early next year. Eicher Motors Managing Director B. Govindarajan narrowed down the release window, confirming that the two models currently in testing, the FF-C6 and S6, will debut in the fourth quarter of the fiscal year 2026, corresponding to January through March 2026.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,india" data-layer-viewtype="unknown" data-post-id="416159" href="https://electrek.co/2025/05/15/royal-enfields-flying-flea-electric-motorcycles-launching-early-next-year/#more-416159" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/royal-enfields-flying-flea-electric-motorcycles-launching-early-next-year/>
+
+---
+
+## The 2026 Toyota bZ Already Has An Off-Road Version
+
+date: 2025-05-15, from: Inside EVs News
+
+It’s called the bZ Woodland, and we get serious Subaru Trailseeker EV vibes from it. 
+
+<br> 
+
+<https://insideevs.com/news/759617/2026-toyota-bz-woodland-offroad-ev/>
+
+---
+
+## The New Xpeng P7 Is A Stunning Sedan Meant For The World
+
+date: 2025-05-15, from: Inside EVs News
+
+This range topping coupe will cost around $42,000 when it goes on sale this August.  
+
+<br> 
+
+<https://insideevs.com/news/759605/2026-xpeng-p7-sedan-coupe/>
+
+---
+
+## XPeng just teased its next-generation P7 sedan and it is SLEEK [Video]
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/XPeng-P7-Gen-2-top.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s been less than a month since <a href="https://electrek.co/guides/xpeng/">XPeng Motors</a> began teasing a new camouflage sedan codenamed the E29. This morning (or this evening if you’re in China), XPeng unveiled the mystery sedan as its next-generation P7. This vast redesign of the Chinese automaker’s flagship BEV sedan is a bona fide stunner, and makes me wish I could drive one of my own in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xpeng,xpeng-motors,xpeng-p7" data-layer-viewtype="unknown" data-post-id="416032" href="https://electrek.co/2025/05/15/xpeng-teased-next-generation-p7-sedan-video/#more-416032" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/xpeng-teased-next-generation-p7-sedan-video/>
+
+---
+
+## Tesla has yet to start testing its robotaxi service without driver weeks before launch
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has reportedly yet to start testing its robotaxi service in Austin without a safety driver behind the wheel – just weeks before the planned launch.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416145" href="https://electrek.co/2025/05/14/tesla-yet-start-testing-robotaxi-service-without-driver-weeks-before-launch/#more-416145" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/14/tesla-yet-start-testing-robotaxi-service-without-driver-weeks-before-launch/>
+
+---
+
+## Rivian CEO RJ Scaringe shares more detailed images of the R2’s Maximus drive unit
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-Maximus-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The development of <a href="https://electrek.co/guides/rivian/">Rivian’s</a> R2 validation builds continues to progress. We know so because the American automaker’s founder and CEO, RJ Scaringe, continues to pepper us with welcome updates with plenty of fantastic images. The latest post features the inner workings of Rivian’s Maximus drive unit, which will propel the upcoming R2 EVs when they hit the market next year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="416146" href="https://electrek.co/2025/05/14/rivian-ceo-rj-scaringe-shares-more-detailed-images-of-the-r2s-maximus-drive-unit/#more-416146" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/14/rivian-ceo-rj-scaringe-shares-more-detailed-images-of-the-r2s-maximus-drive-unit/>
+
+---
+
+## EV sales are up, Tesla sales are down, and new electric Toyota goodness
+
+date: 2025-05-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/china-up_tesla-down.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s thrilling episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ve a huge spike in global EV sales and a huge dip in Tesla deliveries. Plus a whole bunch of news from Toyota, including an updated bZ that’s just a bit better than before … but is a bit better going to make a big difference?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-sales,quick-charge,tesla,toyota" data-layer-viewtype="unknown" data-post-id="416147" href="https://electrek.co/2025/05/14/ev-sales-are-up-tesla-sales-are-down-and-new-electric-toyota-goodness/#more-416147" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/14/ev-sales-are-up-tesla-sales-are-down-and-new-electric-toyota-goodness/>
+
+---
+
+## FERC: Solar + wind made up 98% of new US power generating capacity in Q1 2025
+
+date: 2025-05-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/1619px-Solar_farm_in_Gallup_NM.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Solar and wind accounted for almost 98% of new US electrical generating capacity added in Q1 2025, according to new Federal Energy Regulatory Commission (<a href="https://electrek.co/guides/ferc/" target="_blank" rel="noreferrer noopener">FERC</a>) data reviewed by the SUN DAY Campaign.</p>
+
+
+
+<p>Solar and wind also made up an impressive 100% of new capacity in March, and March was the 19th consecutive month in which solar was the largest source of new capacity.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,ferc,fossil-fuels,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="416133" href="https://electrek.co/2025/05/14/ferc-solar-wind-q1-2025/#more-416133" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/14/ferc-solar-wind-q1-2025/>
+
+---
+
+## Lucid (LCID) is ramping up its global expansion in Europe and other markets this year
+
+date: 2025-05-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Lucid-global-EV-expansion-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid (LCID) is gearing up for big growth this year. After launching its first electric SUV, the Gravity, the company plans to double production this year. According to <a href="https://electrek.co/guides/lucid-motors/">Lucid’s</a> interim CEO, Marc Winterhoff, the EV maker will enter new global markets this year, including parts of Europe and the Middle East.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="416108" href="https://electrek.co/2025/05/14/lucid-lcid-ramps-up-global-expansion-europe-other-markets/#more-416108" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/14/lucid-lcid-ramps-up-global-expansion-europe-other-markets/>
 
 ---
 

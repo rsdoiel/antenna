@@ -1,11 +1,79 @@
 ---
 title: food
-updated: 2025-05-14 14:08:13
+updated: 2025-05-15 06:06:52
 ---
 
 # food
 
-(date: 2025-05-14 14:08:13)
+(date: 2025-05-15 06:06:52)
+
+---
+
+## Track The Price Of Coffee With The Free Web Tool Futures.Coffee
+
+date: 2025-05-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Put the price of coffee in context. 
+
+<br> 
+
+<https://sprudge.com/track-the-price-of-coffee-with-the-free-web-tool-futures-coffee-335145.html>
+
+---
+
+## The Rise and Fall of an Instant Espresso Bar With Bailey Manson of Intelligentsia Coffee
+
+date: 2025-05-15, from: The Fresh Cup
+
+<p>On this episode of the Coffee Think Tank podcast, we talk about Intelligentsia’s experimental foray into instant espresso at the Illumination Bar.</p>
+<p>The post <a href="https://freshcup.com/the-rise-and-fall-of-an-instant-espresso-bar-with-bailey-manson-of-intelligentsia-coffee/">The Rise and Fall of an Instant Espresso Bar With Bailey Manson of Intelligentsia Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-rise-and-fall-of-an-instant-espresso-bar-with-bailey-manson-of-intelligentsia-coffee/>
+
+---
+
+## In Venice, You Can Order an Espresso Made from Lagoon Water
+
+date: 2025-05-15, from: The Fresh Cup
+
+<p>At this year’s Architecture Biennale in Venice, Italy, visitors can enjoy espresso literally made with water from the city’s famous lagoon.</p>
+<p>The post <a href="https://freshcup.com/in-venice-you-can-order-an-espresso-made-from-lagoon-water/">In Venice, You Can Order an Espresso Made from Lagoon Water</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/in-venice-you-can-order-an-espresso-made-from-lagoon-water/>
+
+---
+
+## Cilantro Lime Chicken and Rice Soup
+
+date: 2025-05-15, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/05/Cilantro-Lime-Chicken-and-Rice-Soup-1200-5750.jpg"/></div>
+<p>A light and tasty chicken and rice soup with cilantro and lime! Chicken and rice soups are among my favourites and this Tahi themed one with cilantro and lime is tasty! This soup starts out with some vegetables: onions, carrots and bell peppers, followed by garlic, ginger, turmeric and a touch of cayenne. Chicken broth...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/cilantro-lime-chicken-and-rice-soup/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/cilantro-lime-chicken-and-rice-soup/">Cilantro Lime Chicken and Rice Soup</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/cilantro-lime-chicken-and-rice-soup/>
+
+---
+
+## Mazzer ZM Official Grinder Of The 2025 World Brewers Cup Finals In Jakarta
+
+date: 2025-05-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Mazzer ZM will support the world’s top brewers as they showcase their skills and passion for manual coffee brewing. 
+
+<br> 
+
+<https://sprudge.com/mazzer-zm-official-grinder-of-the-2025-world-brewers-cup-finals-in-jakarta-335166.html>
 
 ---
 

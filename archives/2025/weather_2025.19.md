@@ -1,23 +1,222 @@
 ---
 title: weather
-updated: 2025-05-14 14:08:09
+updated: 2025-05-15 06:06:47
 ---
 
 # weather
 
-(date: 2025-05-14 14:08:09)
+(date: 2025-05-15 06:06:47)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## There are no tropical cyclones at this time.
 
-date: 2025-05-14, from: Eastern Pacific Basin GIS Data
+date: 2025-05-16, from: Eastern Pacific Basin GIS Data
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+No tropical cyclones as of Thu, 15 May 2025 13:00:07 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
+
+date: 2025-05-15, from: Central Pacific Basin Tropical Cyclones
+
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Thu May 15 12:32:01 UTC 2025
+
+date: 2025-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu May 15 12:32:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 785
+
+date: 2025-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0785.html"><img src="https://www.spc.noaa.gov/products/md/mcd0785.png" border="1" alt="MD 0785 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0785
+NWS Storm Prediction Center Norman OK
+0723 AM CDT Thu May 15 2025
+
+Areas affected...Southeast SD...southern MN...extreme northeast
+NE/northwest IA
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 151223Z - 151400Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...A threat for strong to isolated severe storms may continue
+through the morning.
+
+DISCUSSION...A long-lived storm cluster is ongoing this morning
+across south-central MN. This system has persisted longer than most
+guidance would suggest, and is likely being aided by persistent
+moisture transport associated with a strong low-level jet. While
+this system remains relatively disorganized with outflow tending to
+outpace the deeper convection, localized strong wind gusts and hail
+will be possible, especially where new updrafts develop and briefly
+intensify behind the outflow. 
+
+To the southwest, renewed storm development is underway across
+southeast SD and far northeast NE, immediately in advance of a
+compact but vigorous midlevel shortwave trough moving across
+north-central NE/south-central SD. Rather strong low-level
+southeasterly flow will maintain moisture transport into the region
+through the morning ahead of a cold front, and development of
+somewhat more organized convection will be possible with time. In
+the short term, convection will tend to be somewhat elevated, but
+could become rooted closer to the surface later this morning,
+especially with southeast extent. Some hail and strong-gust
+potential could evolve if convection is able to deepen and intensify
+within this regime.  
+
+With the threat expected to remain rather isolated over the next 1-2
+hours, short-term watch issuance is considered unlikely. Trends will
+continue to be monitored for intensification with time this morning.
+
+..Dean/Bunting.. 05/15/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...ARX...MPX...DMX...FSD...OAX...ABR...
+
+LAT...LON   43759861 44979732 45289595 45409490 45409384 45129316
+            44599296 44179290 43649334 43539415 43479504 43269575
+            42909627 42609653 42449683 42619714 42779752 42999832
+            43759861 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...UP TO 95 MPH
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.00-1.75 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0785.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0785.html>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2025-05-15, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 AM PDT Thu May 15 2025<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>Tropical cyclone formation is not expected during the next 7 days. <br><br>&&<br>Today marks the first day of the eastern North Pacific hurricane<br>season, which will run until November 30.  Long-term averages for<br>the number of named storms, hurricanes, and major hurricanes are<br>15, 8, and 4, respectively.<br><br>The list of names for 2025 is as follows:<br><br>Name           Pronunciation    Name            Pronunciation<br>-------------------------------------------------------------<br>Alvin          AL-vin           Mario           MAR-ee-o<br>Barbara        BAR-bruh         Narda           NAHR-duh<br>Cosme          COS-may          Octave          AHK-tayv<br>Dalila         dah-LY-lah       Priscilla       prih-SIH-luh<br>Erick          EHR-ik           Raymond         RAY-mund<br>Flossie        FLOSS-ee         Sonia           SOHN-yah<br>Gil            gill             Tico            TEE-koh<br>Henriette      hen-ree-ETT      Velma           VELL-muh<br>Ivo            EE-voh           Wallis          WAHL-lis<br>Juliette       joo-lee-ET       Xina            ZEE-nah<br>Kiko           KEE-ko           York            york<br>Lorena         low-RAY-na       Zelda           ZEL-dah<br><br>A full list of eastern North Pacific basin tropical cyclone names <br>and pronunciations can be found at: <br>https://www.nhc.noaa.gov/pdf/aboutnames_pronounce_epac.pdf<br><br>This product, the Tropical Weather Outlook, briefly describes<br>significant areas of disturbed weather and their potential for<br>tropical cyclone formation during the next seven days.  The issuance<br>times of this product are 5 AM, 11 AM, 5 PM, and 11 PM PDT.  After<br>the change to standard time in November, the issuance times are <br>4 AM, 10 AM, 4 PM, and 10 PM PST.<br><br>A Special Tropical Weather Outlook will be issued to provide <br>updates, as necessary, in between the regularly scheduled issuances <br>of the Tropical Weather Outlook.  Special Tropical Weather Outlooks <br>will be issued under the same WMO and AWIPS headers as the regular <br>Tropical Weather Outlooks.<br><br>A standard package of products, consisting of the tropical cyclone <br>public advisory, the forecast/advisory, the cyclone discussion, and <br>a wind speed probability product, is issued every six hours for all <br>ongoing tropical cyclones.  In addition, a special advisory package <br>may be issued at any time to advise of significant unexpected <br>changes or to modify watches or warnings.<br><br>NHC has the option to issue advisories, watches, and warnings for <br>disturbances that are not yet a tropical cyclone, but which pose <br>the threat of bringing tropical storm or hurricane conditions to <br>land areas within 72 hours.  For these land-threatening "potential <br>tropical cyclones", NHC will issue the full suite of advisory and <br>watch/warning products.  Potential tropical cyclones share the <br>naming conventions currently in place for tropical depressions, <br>being numbered from a single list (e.g., "One-E", "Two-E", <br>"Three-E", etc.).  <br><br>The Tropical Cyclone Update is a brief statement to inform of <br>significant changes in a tropical cyclone, to post or cancel <br>watches or warnings, or to provide hourly position updates between <br>intermediate advisories when the storm center is easily followed by <br>radar.  The Tropical Cyclone Update is also used in lieu of or to <br>precede the issuance of a special advisory package.  Tropical <br>Cyclone Updates, which can be issued at any time, can be found <br>under WMO header WTPZ61-65 KNHC, and under AWIPS header MIATCUEP1-5.<br><br>All NHC text and graphical products are available on the web at <br>https://www.hurricanes.gov.  More information on NHC text and <br>graphical products can be found at <br>https://www.nhc.noaa.gov/pdf/NHC_Product_Description.pdf.  New and <br>updated products for the 2025 season can be found at <br>https://www.nhc.noaa.gov/pdf/NHC_New_Products_Updates_2025.pdf.<br><br>You can also interact with NHC on Facebook at <br>https://www.facebook.com/NWSNHC.  Notifications are available <br>via X when select NHC products are issued.  Information about our <br>east and central Pacific X feed (@NHC_Pacific) is available at <br>https://www.nhc.noaa.gov/socialmedia<br><br>$$<br>Forecaster Cangialosi<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-05-15, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu May 15 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days. <br><br>&&<br>Today, May 15, marks the first day of routine issuance of the <br>Atlantic basin Tropical Weather Outlook in 2025.  This product <br>describes significant areas of disturbed weather and their <br>potential for tropical cyclone formation during the next seven <br>days.  The Tropical Weather Outlook is issued from May 15 through <br>November 30 each year.  The issuance times of this product are 2 AM,<br>8 AM, 2 PM, and 8 PM EDT.  After the change to standard time in <br>November, the issuance times are 1 AM, 7 AM, 1 PM, and 7 PM EST. <br><br>A Special Tropical Weather Outlook will be issued to provide <br>updates, as necessary, in between the regularly scheduled issuances <br>of the Tropical Weather Outlook.  Special Tropical Weather Outlooks <br>will be issued under the same WMO and AWIPS headers as the regular <br>Tropical Weather Outlooks.<br><br>A graphical version of the Tropical Weather Outlook is available on <br>the web at: https://www.hurricanes.gov. <br><br>$$<br>Forecaster Pasch<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-05-15, from: Eastern Pacific Tropical Weather Outlook
+
+000&lt;br /&gt;ABPZ20 KNHC 151147&lt;br /&gt;TWOEP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook &lt;br /&gt;NWS National Hurricane Center Miami FL &lt;br /&gt;500 AM PDT Thu May 15 2025&lt;br /&gt;&lt;br /&gt;For the eastern North Pacific...east of 140 degrees west longitude:&lt;br /&gt;&lt;br /&gt;Tropical cyclone formation is not expected during the next 7 days. &lt;br /&gt;&lt;br /&gt;&amp;&amp;&lt;br /&gt;Today marks the first day of the eastern North Pacific hurricane&lt;br /&gt;season, which will run until November 30.  Long-term averages for&lt;br /&gt;the number of named storms, hurricanes, and major hurricanes are&lt;br /&gt;15, 8, and 4, respectively.&lt;br /&gt;&lt;br /&gt;The list of names for 2025 is as follows:&lt;br /&gt;&lt;br /&gt;Name           Pronunciation    Name            Pronunciation&lt;br /&gt;-------------------------------------------------------------&lt;br /&gt;Alvin          AL-vin           Mario           MAR-ee-o&lt;br /&gt;Barbara        BAR-bruh         Narda           NAHR-duh&lt;br /&gt;Cosme          COS-may          Octave          AHK-tayv&lt;br /&gt;Dalila         dah-LY-lah       Priscilla       prih-SIH-luh&lt;br /&gt;Erick          EHR-ik           Raymond         RAY-mund&lt;br /&gt;Flossie        FLOSS-ee         Sonia           SOHN-yah&lt;br /&gt;Gil            gill             Tico            TEE-koh&lt;br /&gt;Henriette      hen-ree-ETT      Velma           VELL-muh&lt;br /&gt;Ivo            EE-voh           Wallis          WAHL-lis&lt;br /&gt;Juliette       joo-lee-ET       Xina            ZEE-nah&lt;br /&gt;Kiko           KEE-ko           York            york&lt;br /&gt;Lorena         low-RAY-na       Zelda           ZEL-dah&lt;br /&gt;&lt;br /&gt;A full list of eastern North Pacific basin tropical cyclone names &lt;br /&gt;and pronunciations can be found at: &lt;br /&gt;https://www.nhc.noaa.gov/pdf/aboutnames_pronounce_epac.pdf&lt;br /&gt;&lt;br /&gt;This product, the Tropical Weather Outlook, briefly describes&lt;br /&gt;significant areas of disturbed weather and their potential for&lt;br /&gt;tropical cyclone formation during the next seven days.  The issuance&lt;br /&gt;times of this product are 5 AM, 11 AM, 5 PM, and 11 PM PDT.  After&lt;br /&gt;the change to standard time in November, the issuance times are &lt;br /&gt;4 AM, 10 AM, 4 PM, and 10 PM PST.&lt;br /&gt;&lt;br /&gt;A Special Tropical Weather Outlook will be issued to provide &lt;br /&gt;updates, as necessary, in between the regularly scheduled issuances &lt;br /&gt;of the Tropical Weather Outlook.  Special Tropical Weather Outlooks &lt;br /&gt;will be issued under the same WMO and AWIPS headers as the regular &lt;br /&gt;Tropical Weather Outlooks.&lt;br /&gt;&lt;br /&gt;A standard package of products, consisting of the tropical cyclone &lt;br /&gt;public advisory, the forecast/advisory, the cyclone discussion, and &lt;br /&gt;a wind speed probability product, is issued every six hours for all &lt;br /&gt;ongoing tropical cyclones.  In addition, a special advisory package &lt;br /&gt;may be issued at any time to advise of significant unexpected &lt;br /&gt;changes or to modify watches or warnings.&lt;br /&gt;&lt;br /&gt;NHC has the option to issue advisories, watches, and warnings for &lt;br /&gt;disturbances that are not yet a tropical cyclone, but which pose &lt;br /&gt;the threat of bringing tropical storm or hurricane conditions to &lt;br /&gt;land areas within 72 hours.  For these land-threatening &quot;potential &lt;br /&gt;tropical cyclones&quot;, NHC will issue the full suite of advisory and &lt;br /&gt;watch/warning products.  Potential tropical cyclones share the &lt;br /&gt;naming conventions currently in place for tropical depressions, &lt;br /&gt;being numbered from a single list (e.g., &quot;One-E&quot;, &quot;Two-E&quot;, &lt;br /&gt;&quot;Three-E&quot;, etc.).  &lt;br /&gt;&lt;br /&gt;The Tropical Cyclone Update is a brief statement to inform of &lt;br /&gt;significant changes in a tropical cyclone, to post or cancel &lt;br /&gt;watches or warnings, or to provide hourly position updates between &lt;br /&gt;intermediate advisories when the storm center is easily followed by &lt;br /&gt;radar.  The Tropical Cyclone Update is also used in lieu of or to &lt;br /&gt;precede the issuance of a special advisory package.  Tropical &lt;br /&gt;Cyclone Updates, which can be issued at any time, can be found &lt;br /&gt;under WMO header WTPZ61-65 KNHC, and under AWIPS header MIATCUEP1-5.&lt;br /&gt;&lt;br /&gt;All NHC text and graphical products are available on the web at &lt;br /&gt;https://www.hurricanes.gov.  More information on NHC text and &lt;br /&gt;graphical products can be found at &lt;br /&gt;https://www.nhc.noaa.gov/pdf/NHC_Product_Description.pdf.  New and &lt;br /&gt;updated products for the 2025 season can be found at &lt;br /&gt;https://www.nhc.noaa.gov/pdf/NHC_New_Products_Updates_2025.pdf.&lt;br /&gt;&lt;br /&gt;You can also interact with NHC on Facebook at &lt;br /&gt;https://www.facebook.com/NWSNHC.  Notifications are available &lt;br /&gt;via X when select NHC products are issued.  Information about our &lt;br /&gt;east and central Pacific X feed (@NHC_Pacific) is available at &lt;br /&gt;https://www.nhc.noaa.gov/socialmedia&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Cangialosi 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## SPC May 15, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0358 AM CDT Thu May 15 2025
+
+Valid 181200Z - 231200Z
+
+...DISCUSSION...
+Medium-range guidance indicates that the persistent, prominent
+mid/upper ridging across the mid-latitude and subtropical eastern
+Pacific will become suppressed late this coming weekend into early
+next week, before breaking down through the remainder of this
+period.  As it does, amplified downstream troughing is forecast to
+emerge from the Intermountain West.  Sunday, this may commence
+gradually, with one significant lead short wave perturbation
+pivoting north-northeast of the southern Rockies, accompanied by
+cyclogenesis across eastern Colorado, as an upstream perturbation
+continues to dig toward the Four Corners region.  It appears that
+this trailing perturbation will then pivot across the southern
+Rockies through the central/southern Great Plains by late Monday,
+perhaps accompanied by renewed cyclogenesis across the Texas
+Panhandle into central Great Plains.  
+
+Both days, the dryline and warm front may provide focus for
+organized severe convective development, including supercells, in
+the presence of strong deep-layer shear and thermodynamic profiles
+characterized by steep lapse rates and sizable CAPE.  It appears
+that a substantive risk for strong to severe thunderstorms will
+persist into at least Tuesday, within a broadening warm sector as
+the cyclone and associated mid-level troughing shift a bit more
+rapidly eastward across the middle Mississippi Valley.
+
+Convective potential becomes more unclear Wednesday into Thursday as
+the cyclone likely weakens and synoptic developments become more
+uncertain across the East.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -733,18 +932,6 @@ activity.
 
 ---
 
-## SPC - No watches are valid as of Wed May 14 12:54:01 UTC 2025
-
-date: 2025-05-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed May 14 12:54:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
 ## SPC - No MDs are in effect as of Wed May 14 12:54:01 UTC 2025
 
 date: 2025-05-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -821,92 +1008,6 @@ potential for large hail and perhaps isolated damaging wind gusts.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC May 14, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-05-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0353 AM CDT Wed May 14 2025
-
-Valid 171200Z - 221200Z
-
-...DISCUSSION...
-An active period of severe weather remains likely through the
-weekend and into early next week for portions of the central CONUS.
-A weakening upper trough is forecast to migrate across the Northeast
-late this weekend as a second upper wave begins to amplify over the
-western states. This upper regime will favor surface pressure falls
-across the High Plains that will promote south/southeasterly return
-flow into the southern/central Plains through early next week.
-Severe thunderstorm chances will increase as preceding upper
-disturbances and the primary upper wave eject into the Plains over
-the warm sector. While severe weather chances are anticipated most
-days through the extended period, confidence in more focused,
-synoptically-driven corridors is currently greatest on D5/Sunday and
-D6/Monday across the southern Plains.
-
-...D5/Sunday to D6/Monday...
-Increasing southwesterly flow aloft over the southern/central
-Rockies will promote lee cyclogenesis across the central High Plains
-beginning D4/Saturday through D7/Monday. This will foster moisture
-return into northern TX, OK, and southern KS as a warm front lifts
-north. Long-range ensemble guidance suggests dewpoints ranging from
-the mid 60s to low 70s are likely by Sunday afternoon across the
-southern High Plains to the east of a sharpening dryline. Recent
-GFS/GEFS solutions have come into better alignment with ECMWF/EPS
-runs that depict a leading impulse within the subtropical jet
-overspreading the southern High Plains late Sunday afternoon.
-Enhanced westerly low- to mid-level flow coupled with ascent
-associated with the upper feature should promote eastward mixing of
-the dryline with attendant chances for thunderstorm development
-within a buoyant and strongly sheared environment. 
-
-The ejection of the primary trough axis on D6/Monday should result
-in more widespread 50+ knot mid-level flow overspreading much of
-OK/KS. The eastward migration of the surface low and trailing
-dryline through the day should provide adequate forcing for ascent
-for thunderstorm development within a buoyant and strongly sheared
-environment, which should promote an organized, and potentially more
-widespread, severe threat. 
-
-More specific mesoscale details for both days remain unclear at this
-range, but the general alignment of global deterministic/ensemble
-guidance regarding the overall synoptic regime and convective
-environment, combined with a consistent QPF signal on both days,
-suggests predictability is high enough to introduce risk
-probabilities.
-
-...D4/Saturday...
-A residual cold front associated with a weakening surface low over
-the northern CONUS is expected to be draped from the southern
-Appalachians southwestward into the mid-MS Valley/Ozark Plateau
-region. Sufficient buoyancy and strong zonal flow aloft will likely
-support organized convection along the frontal zone. While some
-severe threat is anticipated, mid-level ridging and lingering
-convection at the start of the day limit confidence/predictability
-in where the better mesoscale corridors for severe convection will
-become established. 
-
-...D7/Tuesday...
-Some severe threat is expected to persist into Tuesday as a surface
-low and attendant trough/dryline migrate east towards the Midwest.
-Ensemble guidance hints at strong/severe thunderstorm potential
-across parts of AR, MO, and the lower OH Valley, but spread among
-deterministic solutions and the potential for lingering convection
-from D6/Monday limits confidence at this range.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

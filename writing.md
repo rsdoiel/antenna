@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-05-14 14:08:09
+updated: 2025-05-15 06:06:48
 ---
 
 # writing
 
-(date: 2025-05-14 14:08:09)
+(date: 2025-05-15 06:06:48)
+
+---
+
+## Scriptnotes, Episode 686: Problem Solving, Transcript
+
+date: 2025-05-14, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: This is episode 686 of Script Notes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, how do writers and the [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-686-problem-solving-transcript">Scriptnotes, Episode 686: Problem Solving, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-686-problem-solving-transcript>
 
 ---
 

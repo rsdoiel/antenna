@@ -1,11 +1,353 @@
 ---
 title: pacific
-updated: 2025-05-14 14:08:07
+updated: 2025-05-15 06:06:45
 ---
 
 # pacific
 
-(date: 2025-05-14 14:08:07)
+(date: 2025-05-15 06:06:45)
+
+---
+
+## Precious moments and childhood memories at Guam museum
+
+date: 2025-05-15, from: Pacific Island Times
+
+The gallery exhibit “I Famagu’on-ta: Growing Up on Guam” features 300 photographs depicting different generations of families and installations representing different periods that bring nostalgia.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/childhood-memories-at-guam-museum>
+
+---
+
+## House Republicans push forward with tax and Medicaid cuts
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; House Republicans on Wednesday pushed forward with major legislation to deliver President Donald Trump&#8217;s domestic agenda, moving over the opposition of Democrats to advance significant cuts to taxes and Medicaid after slogging through all-night drafting sessions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/house-republicans-push-forward-with-tax-and-medicaid-cuts/>
+
+---
+
+## Gabbard seeks to consolidate her control of president’s daily brief
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Tulsi Gabbard, the director of national intelligence, is moving the assembly of the president&#8217;s daily intelligence brief from the CIA headquarters to her own complex, according to officials briefed on the move.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/gabbard-seeks-to-consolidate-her-control-of-presidents-daily-brief/>
+
+---
+
+## Case involving Puna house snafu settled
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>A settlement has been reached in the case of a house built on the wrong lot in Hawaiian Paradise Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/hawaii-news/case-involving-puna-house-snafu-settled/>
+
+---
+
+## Budget bill contains funding for Puna Alternate Route Study
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The state&#8217;s biennium budget bill conveyed to Gov. Josh Green includes $2.5 million to fund the Puna Alternate Route Study.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/hawaii-news/budget-bill-contains-funding-for-puna-alternate-route-study/>
+
+---
+
+## Prized Kona coffee fields have become a target for ICE
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>CAPTAIN COOK &#8212; On the mist-wreathed slopes of Mauna Loa, where the earth is rich with volcanic memory and the Pacific glimmers in the distance, a coveted coffee &#8212; Kona &#8212; is coaxed from the soil.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/prized-kona-coffee-fields-have-become-a-target-for-ice/>
+
+---
+
+## News in brief for May 15
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Musk sued over failure to pay $100 to petition signers</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/news-in-brief-for-may-15/>
+
+---
+
+## Students are short-circuiting their Chromebooks for a social media challenge
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Across the country, students are short-circuiting their laptops at school in a new and sometimes dangerous social media trend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/students-are-short-circuiting-their-chromebooks-for-a-social-media-challenge/>
+
+---
+
+## Trump administration scraps Biden-era plan to limit sale of Americans’ personal data
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Consumer Financial Protection Bureau is scrapping a proposal issued under former President Joe Biden that would have sharply limited the sale of Americans&#8217; private information by &#8220;data brokers,&#8221; according to a Federal Register notice issued Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/trump-administration-scraps-biden-era-plan-to-limit-sale-of-americans-personal-data/>
+
+---
+
+## Rogue communication devices found in Chinese solar power inverters
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; U.S. energy officials are reassessing the risk posed by Chinese-made devices that play a critical role in renewable energy infrastructure after unexplained communication equipment was found inside some of them, two people familiar with the matter said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/rogue-communication-devices-found-in-chinese-solar-power-inverters/>
+
+---
+
+## Putin, Trump to skip Ukraine’s peace talks that Russian leader proposed
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/ISTANBUL &#8212; U.S. President Donald Trump and his Russian counterpart Vladimir Putin will not attend what could be the first direct peace talks between Moscow and Kyiv in three years on Thursday, the Kremlin sending instead a group of experienced technocrats.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/putin-trump-to-skip-ukraines-peace-talks-that-russian-leader-proposed/>
+
+---
+
+## US homeland chief says illegal immigration levels could warrant suspending habeas corpus
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Homeland Security Secretary Kristi Noem said on Wednesday that she believes recent levels of illegal immigration could provide a sufficient legal rationale to suspend habeas corpus, the right of someone in the U.S. to challenge their detention.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/us-homeland-chief-says-illegal-immigration-levels-could-warrant-suspending-habeas-corpus/>
+
+---
+
+## Mexican beauty influencer shot to death during TikTok livestream
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>A 23-year-old influencer was shot and killed Tuesday at a beauty salon in Jalisco, Mexico, while she was livestreaming on TikTok, according to the state prosecutor&#8217;s office.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/mexican-beauty-influencer-shot-to-death-during-tiktok-livestream/>
+
+---
+
+## US health chief Kennedy clashes with lawmakers over vaccine comments
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Robert F. Kennedy Jr. came under fire on Wednesday from lawmakers who said he has made false statements over vaccine testing and safety since taking the nation&#8217;s top health job.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/us-health-chief-kennedy-clashes-with-lawmakers-over-vaccine-comments/>
+
+---
+
+## This dinosaur had feathers and probably flew like a chicken
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>In 1861, scientists discovered Archaeopteryx, a dinosaur with feathers, in 150-million-year-old limestones in Solnhofen, Germany. They didn&#8217;t know it at the time, but that fossilized skeleton &#8212; and the several that followed &#8212; provided a key piece of evidence for the theory of evolution, as well as for the fact that birds were actually dinosaurs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/this-dinosaur-had-feathers-and-probably-flew-like-a-chicken/>
+
+---
+
+## Trump, US Army birthday bash plans include 25 Abrams tanks
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Twin celebrations of U.S. President Donald Trump&#8217;s birthday and the Army&#8217;s 250th anniversary will include as many as 25 tanks rolling through Washington in a celebration that will cost $25 million to $45 million, U.S. officials told Reuters on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/trump-us-army-birthday-bash-plans-include-25-abrams-tanks/>
+
+---
+
+## Israel intensifies Gaza bombardment, kills 80 people, as Trump visits gulf
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Israeli military strikes killed at least 80 Palestinians across the Gaza Strip on Wednesday, local health authorities said, in an intensification of the bombardment as U.S. President Donald Trump visits the Middle East.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/israel-intensifies-gaza-bombardment-kills-80-people-as-trump-visits-gulf/>
+
+---
+
+## A ‘canoe’ like no other
+
+date: 2025-05-15, from: Marshal Islands Journal
+
+<p>It’s obviously not unusual for the carrier ship Fong Kuo #818 to have a purse seiner alongside. But after zooming in on the bow of the mother ship and the aft section of its smaller mate it was discovered that the seiner had a name like no other: New Canoe. We’re giving an elephant stamp [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/a-canoe-like-no-other/">A ‘canoe’ like no other</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/a-canoe-like-no-other/>
+
+---
+
+## Joint Task Force Micronesia hosts first Change of Command ceremony; emphasizes regional peace, security
+
+date: 2025-05-15, from: Pacific Island Times
+
+U.S. Army Lt. Gen. Joshua M. Rudd, deputy commander of U.S. Indo-Pacific Command, center, officiates the turnover between U.S. Navy Rear... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/joint-task-force-micronesia-hosts-first-change-of-command-ceremony-emphasizes-regional-peace-secur>
+
+---
+
+## Learn about a high-demand veterinary career: free Windward CC info sessions
+
+date: 2025-05-15, from: University of Hawaiʻi News
+
+<p>Connect with veterinary employers, explore career pathways at Windward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/14/learn-about-high-demand-veterinary-career/">Learn about a high-demand veterinary career: free Windward <abbr>CC</abbr> info sessions</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/14/learn-about-high-demand-veterinary-career/>
+
+---
+
+## Looj tournament a hit
+
+date: 2025-05-15, from: Marshal Islands Journal
+
+<p>The Majuro Looj Club’s goal is to educate children in the traditional methods of trolling for Looj tuna in the lagoon, with a particular focus on the revered and rare fish formally known as the Pacific Bonito and locally as Looj. If the May 3 Looj Tournament is any indication, the Majuro Looj Club is [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/looj-tournament-a-hit/">Looj tournament a hit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/looj-tournament-a-hit/>
+
+---
+
+## From GED to college graduate: Kapiʻolani CC empowers mother of four
+
+date: 2025-05-15, from: University of Hawaiʻi News
+
+<p>Mother of four plans to uplift others with new Community Health Work certificate.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/14/from-ged-to-college-graduate/">From <abbr>GED</abbr> to college graduate: Kapiʻolani <abbr>CC</abbr> empowers mother of four</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/14/from-ged-to-college-graduate/>
+
+---
+
+## UH Mānoa’s Ginoza earns NCAA postgraduate scholarship
+
+date: 2025-05-15, from: University of Hawaiʻi News
+
+<p>Makena Ginoza has been awarded a $10,000 <abbr>NCAA</abbr> scholarship, recognizing his academic excellence, athletic achievements and leadership.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/14/ginoza-ncaa-postgrad-scholar/"><abbr>UH</abbr> Mānoa’s Ginoza earns <abbr>NCAA</abbr> postgraduate scholarship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/14/ginoza-ncaa-postgrad-scholar/>
+
+---
+
+## From graffiti to global brands: UH alum Koa Webster’s creative journey
+
+date: 2025-05-15, from: University of Hawaiʻi News
+
+<p>National brand advertising career came into focus at <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> and <abbr>UH</abbr> Mānoa for alum.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/14/from-graffiti-to-global-brands-uh-alum-koa-webster/">From graffiti to global brands: <abbr>UH</abbr> alum Koa Webster’s creative journey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/14/from-graffiti-to-global-brands-uh-alum-koa-webster/>
+
+---
+
+## Apathy surrounds vote turnout
+
+date: 2025-05-14, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON In an unprecedented referendum result, six of seven constitutional amendments received over the 67 percent needed for approval. In contrast, during multiple past constitutional amendment referenda, only two amendments had been endorsed by a two-thirds majority, with the vast majority failing to gain traction for adoption. The only changes endorsed by voters in [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/apathy-surrounds-vote-turnout/">Apathy surrounds vote turnout</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/apathy-surrounds-vote-turnout/>
 
 ---
 
@@ -48,6 +390,114 @@ The post <a href="https://www.hawaii.edu/news/2025/05/14/image-of-the-week-dolph
 
 ---
 
+## Registration is open for free spearfishing dive and rescue training
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+THE CNMI Division of Fish and Wildlife, Aquasmith, and the Wave &amp; Waterpark Safety Academy are collaborating to offer free spearfishing, dive, and rescue training from June 6 to 7. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/registration-is-open-for-free-spearfishing-dive-and-rescue-training/article_ed987913-d068-4237-a460-44eef5470c2b.html>
+
+---
+
+## Saipan Beacon Lions celebrate manamko’
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+THE Saipan Beacon Lions Club marked Older Americans Month by celebrating the island’s senior citizens with complimentary beauty services, Zumba, lunch, and more at the Manamko’ Center in Garapan on Wednesday, May 14. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-beacon-lions-celebrate-manamko/article_1b019382-09c5-4322-8df5-a6accd49e5a1.html>
+
+---
+
+## Senate backs Taiwan's inclusion in UN organizations
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+THE Senate on Friday unanimously adopted Senate Resolution 24-4, calling for Taiwan’s inclusion in the United Nations’ family of organizations, such as the World Health Organization, the International Civil Aviation Organization, the World Health Assembly, the International Police Criminal Organization and the United Nations Framework Convention on Climate Change. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senate-backs-taiwans-inclusion-in-un-organizations/article_8e92d45c-0ccf-4cec-af27-c94036a8a9ba.html>
+
+---
+
+## Ex-firefighters, ex-Finance secretary reach settlement
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+DURING a settlement conference last week before Magistrate Judge Heather Kennedy of the District Court for the NMI, nine former firefighters and former Finance Secretary David DLG Atalig said they had tentatively reached a settlement in the lawsuit over premium pay. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ex-firefighters-ex-finance-secretary-reach-settlement/article_de15d1c0-7c9f-4045-944d-8ccd8d83c19a.html>
+
+---
+
+## Coast Guard continues search for overdue vessel
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+THE U.S. Coast Guard, in collaboration with the U.S. Navy and the CNMI Department of Public Safety’s Boating Safety Unit, continued its search on Wednesday for the 47-foot vessel Lucky Harvest, which went missing after departing Alamagan on May 12 en route to Saipan. Lucky Harvest was occupied by two mariners. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/coast-guard-continues-search-for-overdue-vessel/article_6fa0fea3-abb3-4951-a964-7cb592ab533b.html>
+
+---
+
+## Governor to deliver SOCA on May 29
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios, who was sworn in over two years ago, will deliver his first State of the Commonwealth Address on Thursday, May 29, at the Governor Pedro P. Tenorio Multi-Purpose Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-to-deliver-soca-on-may-29/article_9cc8af3f-edbc-4a5a-bf6a-2c4bba78dc4b.html>
+
+---
+
+## Senate passes betel nut labeling bill
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+THE Senate on Friday unanimously passed House Bill 24-20, which would require businesses to label betel nut products and containers imported or sold in the CNMI with a health-risk warning. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senate-passes-betel-nut-labeling-bill/article_74af24ae-0f80-4fde-b09e-faacdf6c14b7.html>
+
+---
+
+## MANGO to host community workshop on board of directors training
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+MANGO is pleased to announce an upcoming board of directors training workshop to be held on Wednesday, May 21, 2025, from 9 a.m. to 12 p.m. in the MANGO Resource Room. This event does not require a fee. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mango-to-host-community-workshop-on-board-of-directors-training/article_837381ee-bb41-46a5-9ca7-5dfd6157eb65.html>
+
+---
+
+## Saipan Chamber of Commerce now accepting applications for scholarship program
+
+date: 2025-05-14, updated: 2025-05-15, from: Marianas Variety
+
+THE Saipan Chamber of Commerce is now accepting applications for its annual educational scholarship program. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-chamber-of-commerce-now-accepting-applications-for-scholarship-program/article_948a8544-bf00-4639-9879-d9bc2e26602d.html>
+
+---
+
 ## Green flag on Managaha
 
 date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
@@ -81,18 +531,6 @@ THE Marianas Visitors Authority represented The Marianas at the Hiroshima Flower
 <br> 
 
 <https://www.mvariety.com/news/local/the-marianas-joins-hiroshima-flower-festival-2025/article_974812ef-80bf-4592-b37e-f277e860af01.html>
-
----
-
-## Registration is open for free spearfishing dive and rescue training
-
-date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
-
-THE CNMI Division of Fish and Wildlife, Aquasmith, and the Wave &amp; Waterpark Safety Academy are collaborating to offer free spearfishing, dive, and rescue training from June 6 to 7. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/registration-is-open-for-free-spearfishing-dive-and-rescue-training/article_ed987913-d068-4237-a460-44eef5470c2b.html>
 
 ---
 
@@ -132,43 +570,7 @@ RIYADH (Reuters) — President Donald Trump met with Syria's president in Saudi 
 
 ---
 
-## Saipan Beacon Lions celebrate manamko’
-
-date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
-
-THE Saipan Beacon Lions Club marked Older Americans Month by celebrating the island’s senior citizens with complimentary beauty services, Zumba, lunch, and more at the Manamko’ Center in Garapan on Wednesday, May 14. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/saipan-beacon-lions-celebrate-manamko/article_1b019382-09c5-4322-8df5-a6accd49e5a1.html>
-
----
-
-## Senate backs Taiwan's inclusion in UN organizations
-
-date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
-
-THE Senate on Friday unanimously adopted Senate Resolution 24-4, calling for Taiwan’s inclusion in the United Nations’ family of organizations, such as the World Health Organization, the International Civil Aviation Organization, the World Health Assembly, the International Police Criminal Organization and the United Nations Framework Convention on Climate Change. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/senate-backs-taiwans-inclusion-in-un-organizations/article_8e92d45c-0ccf-4cec-af27-c94036a8a9ba.html>
-
----
-
-## Ex-firefighters, ex-Finance secretary reach settlement
-
-date: 2025-05-14, updated: 2025-05-14, from: Marianas Variety
-
-DURING a settlement conference last week before Magistrate Judge Heather Kennedy of the District Court for the NMI, nine former firefighters and former Finance Secretary David DLG Atalig said they had tentatively reached a settlement in the lawsuit over premium pay. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/ex-firefighters-ex-finance-secretary-reach-settlement/article_de15d1c0-7c9f-4045-944d-8ccd8d83c19a.html>
-
----
-
-## US lawmakers renew call for increased engagement with Pacific island region 
+## US lawmakers renew call for increased engagement with Pacific island region amid Trump's retreat mode
 
 date: 2025-05-14, from: Pacific Island Times
 
@@ -503,7 +905,7 @@ By Pacific Island Times News Staff Saipan —Authorities today intensified the s
 date: 2025-05-14, from: University of Hawaiʻi News
 
 <p>University of <span aria-label="Hawaii">Hawaiʻi</span> campuses across the state are celebrating its graduates this spring.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/13/photos-spring-2025-uh-grads/">Photos: Congratulations spring 2025 UH grads!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/05/13/photos-spring-2025-uh-grads/">Photos: Congratulations spring 2025 <abbr>UH</abbr> grads!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 

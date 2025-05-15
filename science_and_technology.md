@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-05-14 14:08:07
+updated: 2025-05-15 06:06:46
 ---
 
 # science and technology
 
-(date: 2025-05-14 14:08:07)
+(date: 2025-05-15 06:06:46)
+
+---
+
+## Next week's SpaceX Starship test still needs FAA authorization
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Aiming for the stars, but sometimes hitting the Caribbean</h4> <p>SpaceX supremo Elon Musk says the next Starship will launch next week, however, the US Federal Aviation Administration (FAA) hasn&#39;t yet given it the green light.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/next_weeks_spacex_starship_test/>
+
+---
+
+## 70-knot winds blamed for yacht disaster that killed Brit tech tycoon Mike Lynch
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Probe indicates it was all over for Bayesian in just 9 minutes</h4> <p>An interim report by the UK&#39;s Marine Accident Investigation Branch (MAIB) has indicated that extreme wind was to blame for the sinking of the yacht Bayesian, claiming the lives of UK tech tycoon Mike Lynch, his daughter, and five others.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/bayesian_mike_lynch_investigation/>
+
+---
+
+## Royal Navy freshens up ships' electromagnetic warfare defenses
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>MEWSIC to Brit crews&#39; ears will see off anti-ship missiles, among other things</h4> <p>Britain&#39;s Royal Navy is to get updated electromagnetic warfare (EW) capabilities including launchable decoys to help defend its vessels against threats such as modern anti-ship missiles.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/new_ship_defences_are_mewsic/>
+
+---
+
+## The 'End of 10' is nigh, but don't bury your PC just yet
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Linux types mobilize website to help people avoid creating more e-waste</h4> <p>The &#34;End of 10&#34; website is a cooperative effort to let people know that they have other options besides buying a new computer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/end_of_10_campaign/>
+
+---
+
+## A year on, Valkey charts path to v9 after break from Redis
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Fork focuses on stability and inclusion as it preps for more ambitious changes</h4> <p><strong>Interview</strong>  Version 8.1 of Valkey was recently released, marking a year since the creation of the Redis fork. Valkey&#39;s co-maintainer, Madelyn Olson, is looking ahead to version 9 as the project settles down.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/a_year_of_valkey/>
+
+---
+
+## Google DeepMind promises to help you evolve your algos
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>AlphaEvolve may optimize your code in ways you hadn’t thought possible. Or not. Not is possible, too</h4> <p>Google&#39;s AI shop DeepMind has unveiled AlphaEvolve, its &#34;evolutionary coding agent&#34; powered by large language models to discover and optimize algorithms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/google_deepmind_debuts_algorithm_evolving/>
+
+---
+
+## Here's what we know about the DragonForce ransomware that hit Marks &amp; Spencer
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Would you believe it, this RaaS cartel says Russia is off limits</h4> <p>DragonForce, a new-ish ransomware-as-a-service operation, has given organizations another cyber threat to worry about — unless they’re in Russia, which is off limits to the would-be extortionists.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/dragonforce_ransomware_uk_retail_attacks/>
+
+---
+
+## Meet your new colleague – the ML Admin, who tames LLMs so they're ready to rock
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>IT department keeps the infrastructure. Then this new persona takes over and handles the AI stuff</h4> <p>Some organizations have started hiring for a new tech job: The Machine Learning Administrator – aka the “ML admin”.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/new_job_machine_learning_administrator/>
+
+---
+
+## Chip bans? LOL! Chinese web giant Tencent says it has enough GPUs for future AI model training
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Partly because America does AI wrong and it can get more done with less</h4> <p>Chinese web giant Tencent says it has enough high-end GPUs to train new AI models for years, in part because it’s found more efficient ways to do so.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/tencent_q1_25/>
+
+---
+
+## A Tough Drill at Witch Hazel Hill
+
+date: 2025-05-15, from: NASA breaking news
+
+Written by Alex Jones, Ph.D. candidate at Imperial College London  After a busy few months exploring the outer slopes of the Jezero crater rim at an area named “Witch Hazel Hill,” the Perseverance Science Team was eyeing another sample of these truly ancient rocks, which likely predate Jezero crater itself.   The target? A rock containing […] 
+
+<br> 
+
+<https://science.nasa.gov/uncategorized/a-tough-drill-at-witch-hazel-hill/>
+
+---
+
+## AMD’s first crack at Nvidia hampered by half-baked training software, says TensorWave boss
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>Bit barn operator to wedge 8,192 liquid-cooled MI325Xs into AI training cluster</h4> <p><strong>Interview</strong>  After some teething pains, TensorWave CEO Darrick Horton is confident that AMD&#39;s Instinct accelerators are ready to take on large-scale AI training.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/tensorwave_training_mi325x/>
+
+---
+
+## Oracle releases first “enthusiast” Solaris release in three years, promises more regular updates
+
+date: 2025-05-14, from: OS News
+
+You&#8217;d almost forget, but aside from the enterprise-focused variant of Solaris for which Oracle sells support contracts, the company has also nominally maintained and released a version of Solaris aimed at non-production use and enthusiasts. This version, called Solaris CBE or Common Build Environment, has always been free to download and use, but since it was last updated all the way back in early 2022, you&#8217;d be forgiven for having forgotten all about it. Today, though, Oracle has finally released a new version of Solaris CBE, after three years of silence. The Common Build Environment (CBE) release for Oracle Solaris 11.4 SRU 81 is now available via “pkg update” from the release repository or by downloading the install images from the Oracle Solaris Downloads page. As with the first Oracle Solaris 11.4 CBE, this is licensed for free/open source developers and non-production personal use, and this is not the final, supported version of the 11.4.81 SRU, but the pre-release version on which the SRU was built. It contains all of the new features and interfaces, but not all of the final rounds of bug fixes, from the 11.4.81 SRU. The previous version was the CBE for 11.4.42, so there’s more than 3 years worth of changes between these two releases. If you wanted to read about the changes in every intervening SRU, you can find the monthly SRU release announcements for every SRU, and the What&#8217;s New summaries for each quarterly feature release starting with SRU 63, on the Oracle Solaris blog. Some FOSS version updates are also listed in Oracle Solaris 11.4 Bundled Software Updates. You can also find posts about some of the new features from the SRUs on Joerg Moellenkamp’s blog and Marcel Hofstetter’s blog. ↫ Alan Coopersmith and Jan Pechanec With three years of changes, updates, and fixes to talk about, it&#8217;s no surprise there&#8217;s a lot of things this new release covers, and credit to Oracle: the blog post announcing this new release is incredibly detailed, lists a ton of the changes in great detail, and is definitely required reading if you&#8217;re interested in trying this release out for yourself. I&#8217;m definitely tempted, even if it&#8217;s Oracle. Solaris 11.4 SRU 81 CBE comes with much more recent versions of the free and open source tools and frameworks you&#8217;ve come to expect, like updated versions of GCC, LLVM/clang, tons of programming languages like Python, Perl, and Rust, as well as updates to all the related toolchain components. The CTF (Compact C Type Format) utilities (ctfconvert, ctfdump, and ctfmerge), used to build Solaris itself and crucial for tools like DTrace, have also been updated, and now reside in /usr/bin. These updates are joined by a massive number of other, related low-level changes. For desktop users, GNOME has been updated from the veritably ancient GNOME 3.38 to GNOME 45 (current is 48.1), which is a big jump for Solaris desktop users. Firefox and Thunderbird jump from 91 ESR to 128 ESR, which should deliver a much-improved browsing and email experience. All of this graphical desktop use is powered by version 21.1 of the X server, Mesa 21.3.8, and version 470.182 of the NVIDIA driver. Grub has been updated to version 2.12, and thanks to a new secure boot shim, users no longer have to make any changes to secure boot settings, as Solaris will always default to installing the secure boot image. This is just a small selection of all the changes, and it seems Oracle is planning on releasing these CBE versions more often from here on out, as they say this release contains a ton of preparatory work for changes in upcoming releases, &#8220;which should come more often than once every three years going forward&#8221;. Do note that while Solaris CBE releases are free for non-production use, they&#8217;re not open source. 
+
+<br> 
+
+<https://www.osnews.com/story/142363/oracle-releases-first-enthusiast-solaris-release-in-three-years-promises-more-regular-updates/>
+
+---
+
+## GAO finds billions in possible government savings, all without Elon's help
+
+date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+
+<h4>More than $100M in costs could be cut by gutting duplicative IT alone, making DOGE itself look a bit redundant</h4> <p><strong>Comment</strong>  Cost-trimming in the US federal government is all the rage right now – and a new report finds more than $100 million in savings available to the Feds by doing nothing but eliminating redundant and unnecessary IT investments. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/14/billions_in_savings_possible_in/>
+
+---
+
+## Silicon Valley developers need to unionise
+
+date: 2025-05-14, from: OS News
+
+I don&#8217;t know anything about hiring processes in Silicon Valley, or about hiring processes in general since I&#8217;ve always worked for myself (and still do, running OSNews, relying on your generous Patreon and Ko-Fi support), so when I ran into this horror story of applying for a position at a Silicon Valley startup, I was horrified. Apparently it&#8217;s not unheard of &#8211; it might even be common? &#8211; to ask applicants for a coding position to develop a complex application, for free, without much guidance beyond some vague, generic instructions? In this case, the applicant, Jose Vargas, was applying for a position at Kagi, the search startup with the, shall we say, somewhat evangelical fanbase. After applying, he was asked to develop a complete e-mail client, either as a TUI/CLI or a web application that can view and send emails, using a fake or a real backend, which can display at least plaintext e-mails. None of this was going to be paid labour, of course. Vargas started out by sending in a detailed proposal of what he was planning to create, ending with the obvious question what kind of response he&#8217;d get if he actually implemented the detailed proposal. He got a generic response in return, without an answer to that question, but he set out to work regardless. In the end, it took him about a week to complete the project and send it in. He eventually received a canned rejection notice in response, and after asking for clarification the hiring manager told him they wanted something &#8220;simpler and stronger&#8221;, so he didn&#8217;t make the cut. I&#8217;m not interested in debating whether or not Vargas was suited for the position, or if the unpaid work he sent in was any good. What I do want to talk about, though, is the insane amount of unpaid labour applicants are apparently asked to do in Silicon Valley, the utter lack of clear and detailed instructions, and how the hiring manager didn&#8217;t answer the question Vargas sent in alongside his detailed proposal. After all, the hiring manager could&#8217;ve saved everyone a ton of time by letting Vargas know upfront the proposal wasn&#8217;t what Kagi was looking for. Everything about this feels completely asinine to me. As a (former) translator, I&#8217;m no stranger to having to do some work to give a potential client an idea of what my work looks like, but more than half a page of text to translate was incredibly rare. Only on a few rare occasions did a prospective client want me to translate more than that, and in those cases it was always as paid labour, at the normal, regular rate. For context, half a page of text is less than half an hour of work &#8211; a far cry from a week&#8217;s worth of unpaid labour. I&#8217;ve read a ton of online discourse about this particular story, and there&#8217;s no clear consensus on whether or not Vargas&#8217; feelings are justified. Personally, I find the instructions given by Kagi overly broad and vague, the task of creating an email client to be overly demanding, and the canned (&#8220;AI&#8221;?) responses by the hiring manager insulting &#8211; after sending in such a detailed proposal, it should&#8217;ve been easy for a halfway decent hiring manager to realise Vargas might not be a good fit for the role, and tell him so before he started doing any work. Kagi is fully within its right to determine who is and is not a good fit for the company, and who they hire is entirely up to them. If such stringent, demanding hiring practices are par for the course in Silicon Valley, I also can&#8217;t really fault them for toeing the industry line. The hiring manager&#8217;s behaviour seems problematic, but everyone makes mistakes and nobody&#8217;s perfect. In short, I&#8217;m not even really mad at Kagi specifically here. However, if such hiring practices are indeed the norm, can I, as an outsider, just state the obvious? What on earth are you people doing to each other over there in Silicon Valley? Is this really how you want to treat potential applicants, and how you, yourself, want to be treated? Imagine if a someone applies to be a retail clerk at a local supermarket, and the supermarket&#8217;s hiring manager asks the applicant to work an entire week in the store, stocking shelves and helping shoppers, without paying the person any wages, only to deny their application after the week of free labour is over? You all realise how insane that sounds, right? Why not look at a person&#8217;s previous work, hosted on GitHub or any of its alternatives? Why not contact their previous employers and ask about their performance there, as happens in so many other industries? Why, instead of asking someone to craft an entire email client, don&#8217;t you just give them a few interesting bugs to look at that won&#8217;t take an entire week of work? Why not, you know, pay for their labour if you demand a week&#8217;s worth of work? I&#8217;m so utterly baffled by all of this. Y&#8217;all developers need a union. 
+
+<br> 
+
+<https://www.osnews.com/story/142355/silicon-valley-developers-need-to-unionise/>
+
+---
+
+## Eclipses, Auroras, and the Spark of Becoming: NASA Inspires Future Scientists
+
+date: 2025-05-14, from: NASA breaking news
+
+In the heart of Alaska’s winter, where the night sky stretches endlessly and the aurora dances across the sky in a display of ethereal beauty, nine undergraduate students from across the United States were about to embark on a transformative journey. These students had been active ‘NASA Partner Eclipse Ambassadors’ in their home communities, nine […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/eclipses-auroras-and-the-spark-of-becoming-nasa-inspires-future-scientists/>
 
 ---
 
@@ -395,7 +575,7 @@ date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
 
 ## EuroHPC lines up AI upgrade for Leonardo supercomputer
 
-date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+date: 2025-05-14, updated: 2025-05-15, from: The Register (UK I.T. News)
 
 <h4>And it&#39;s Eviden who has no reason to moan over LISA upgrade - though questions over funding remain</h4> <p><strong>Updated</strong>  Italy&#39;s Leonardo supercomputer is to get an AI upgrade to beef up support for the development of Large Language Models (LLMs) and multi-modal generative AI, in addition to the 13 AI factories now being procured around the EU.…</p> 
 

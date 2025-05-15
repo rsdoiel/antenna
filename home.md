@@ -1,11 +1,118 @@
 ---
 title: home
-updated: 2025-05-14 14:08:11
+updated: 2025-05-15 06:06:50
 ---
 
 # home
 
-(date: 2025-05-14 14:08:11)
+(date: 2025-05-15 06:06:50)
+
+---
+
+## 11 of the Best Pumpkins to Grow for Pies, Puree, and Other Treats
+
+date: 2025-05-15, from: The Gardener's Path
+
+<p>If you want to grow pumpkins to make pie, puree, and other delicious treats, which variety should you plant? While you can make pie out of many pumpkin cultivars, some have sweeter flesh than others. Learn about 11 of the best pie pumpkins to grow in your garden now on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-pie-pumpkins/">11 of the Best Pumpkins to Grow for Pies, Puree, and Other Treats</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-pie-pumpkins/>
+
+---
+
+## Learn How to Transplant a Bay Laurel Tree
+
+date: 2025-05-15, from: The Gardener's Path
+
+<p>If you are growing bay laurel in containers indoors or out in the garden and it's getting too big for its current home, it may be time to transplant. If you need to move your bay tree, check out this guide to learn when and how to transplant bay laurel and ensure it thrives in its new location. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/transplant-bay-laurel/">Learn How to Transplant a Bay Laurel Tree</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/transplant-bay-laurel/>
+
+---
+
+## 48 Animals That Start With U (With Pictures and Names)
+
+date: 2025-05-15, from: Yard Life blog
+
+<p>Are you curious about animals that start with U? While the letter U might not be the most common initial ... </p>
+<p class="read-more-container"><a title="48 Animals That Start With U (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/48-animals-that-start-with-u-with-pictures-and-names/#more-28279" aria-label="Read more about 48 Animals That Start With U (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/48-animals-that-start-with-u-with-pictures-and-names/">48 Animals That Start With U (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/48-animals-that-start-with-u-with-pictures-and-names/>
+
+---
+
+## How to Plant Your First Vegetable Garden: A Beginner’s Guide
+
+date: 2025-05-15, from: The Gardener's Path
+
+<p>If you’re new to the world of vegetable gardening, you’re in for a treat! Fresh veggies have a flavor that can’t be beat, and they’re healthy and nutritious. Plus, growing your own is friendly on the budget, and gardening is an excellent way to reduce stress. Learn all about these positive benefits right here on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/beginners/first-vegetable-garden/">How to Plant Your First Vegetable Garden: A Beginner&#8217;s Guide</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/beginners/first-vegetable-garden/>
+
+---
+
+## Stronger Together
+
+date: 2025-05-15, from: California Native Plants Society
+
+<p>Everyone has a role to play in the native plant movement, and successful advocacy relies on a diversity of skills. Join us for a special public webinar on Wednesday, May 28 to kick off the CNPS Advocacy Corps.</p>
+<p>The post <a href="https://www.cnps.org/conservation/stronger-together-43603">Stronger Together</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/conservation/stronger-together-43603>
+
+---
+
+## These Scents Will Make You Smell Like an Endless Summer Vacation
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+You don't need a passport to feel like you're on vacation. One spritz of these perfume scents and you've got an umbrella drink in hand. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-summer-perfumes>
+
+---
+
+## How to Replant a Raised Bed That Just Isn’t Working
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+If your raised bed isn't performing, go from flopped to flourishing with these 7 simple ideas to replant a raised bed. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-replant-a-raised-bed>
+
+---
+
+## The Number One Garden Task You Can’t Skip This Spring (And How to Do It Right)
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+Your soil needs a little love before it can support vibrant plants. We're sharing tips on how to prep your soil for spring planting. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-prep-soil-for-spring>
 
 ---
 
@@ -170,6 +277,30 @@ date: 2025-05-14, from: The Gardener's Path
 
 ---
 
+## From Maritime Decor to ‘Chateaucore’, These Are the Summer’s Biggest Trends
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
+
+---
+
+## Keep an Eye Out for These Summer Music Festivals Across The West
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+From Bottlerock to Hard Summer to Outside Lands, these are best summer music festivals in the West to add to your lineup. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-summer-music-festivals-in-the-west>
+
+---
+
 ## These Are the Winners of the 2025 Sunset Western Home & Design Awards
 
 date: 2025-05-14, from: Sunset Magazine - Living in the West
@@ -277,6 +408,18 @@ Rivian has the coolest charging station just outside of Joshua Tree National Par
 <br> 
 
 <https://www.sunset.com/travel/road-trips/rivian-electric-car-road-trip-in-joshua-tree>
+
+---
+
+## The Wines That Pair Best with Summer
+
+date: 2025-05-14, from: Sunset Magazine - Living in the West
+
+The Sunset Wine Club features the best bottles in the West, perfectly paired with recipes in the magazine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/wine-club-pairings-home-and-design-issue-2025>
 
 ---
 

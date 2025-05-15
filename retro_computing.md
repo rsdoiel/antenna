@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-14 14:08:12
+updated: 2025-05-15 06:06:51
 ---
 
 # retro computing
 
-(date: 2025-05-14 14:08:12)
+(date: 2025-05-15 06:06:51)
+
+---
+
+## openSUSE Joins End of 10
+
+date: 2025-05-14, from: Linux Magazine
+
+<p>openSUSE has decided to not only join the End of 10 movement but it also will no longer support the Deepin Desktop Environment.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/openSUSE-Joins-End-of-10>
 
 ---
 

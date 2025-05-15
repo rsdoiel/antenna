@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-05-14 14:08:10
+updated: 2025-05-15 06:06:48
 ---
 
 # games
 
-(date: 2025-05-14 14:08:10)
+(date: 2025-05-15 06:06:48)
+
+---
+
+## No, Steam wasn’t hacked, and your account details are safe
+
+date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
+
+Valve has dismissed widespread reports of a data breach that supposedly compromised the account details of over 89 million Steam users. In a brief but firm post, Valve said it has examined the leaked data and confirmed that Steam’s systems had not been breached, and users did not need to change their passwords or phone [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/599302/steam-hack-text-message-data>
+
+---
+
+## 6 beginner&#8217;s tips to face enemies in Doom: The Dark Ages
+
+date: 2025-05-15, updated: 2025-05-14, from: Polygon Website
+
+Regardless of how well Doom: The Dark Ages maintains the formula of the series, there are new things for you to learn before diving in. Doom: The Dark Ages is a fast-paced, first-person action game where the golden rule is to shoot, punch, or explode anything that moves. Otherwise, you will probably die. Traversing the infernal [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599028/beginners-tips-tricks-before-starting>
+
+---
+
+## Inside the Nintendo Switch 2 hardware specs
+
+date: 2025-05-14, updated: 2025-05-14, from: Polygon Website
+
+The full reveal of the Nintendo Switch 2 was largely focused on all the new games you can play. The hardware specs weren’t the focus, but Nintendo dropped a detailed list of what’s inside the Switch 2 on its website, and later provided even more detailed tech specs. Most of what we knew from the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size>
 
 ---
 

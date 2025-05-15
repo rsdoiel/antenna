@@ -1,11 +1,134 @@
 ---
 title: socal north
-updated: 2025-05-14 14:08:06
+updated: 2025-05-15 06:06:44
 ---
 
 # socal north
 
-(date: 2025-05-14 14:08:06)
+(date: 2025-05-15 06:06:44)
+
+---
+
+## Daunted by the idea of rebuilding? LA County's new guide helps you make smart (and firewise) decisions
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+We break down the most approachable tips and how to leverage available rebates. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-home-rebuild-fire-resistant-guide>
+
+---
+
+## Voter Guide to Measure R, a San Marino schools parcel tax
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+San Marino voters will decide whether to continue a property tax first approved more than 30 years ago. 
+
+<br> 
+
+<https://laist.com/news/politics/measure-r-san-marino-unified-school-district-parcel-tax-election-2025>
+
+---
+
+## This Altadena restaurant's neighborhood is gone after the Eaton Fire. It's reopening anyway
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+The neighborhood’s beloved Thai restaurant, Miya, is again opening its doors, even though there may be few customers. 
+
+<br> 
+
+<https://laist.com/news/food/altadena-restaurant-neighborhood-gone-eaton-fire-reopening>
+
+---
+
+## Feds accuse two people of trying to thwart immigration agents in South LA
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+Federal prosecutors say two people have been arrested on suspicion of using their car to try to block immigration agents from doing their job in South Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/immigration-arrests-interfere-federal-agents>
+
+---
+
+## Facing teacher shortage, UC Riverside launches new residency program
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+Candidates will get free tuition, a mentor and a stipend. 
+
+<br> 
+
+<https://laist.com/news/education/teacher-shortage-uc-riverside-san-bernardino-city-unified-new-residency-program>
+
+---
+
+## LA’s tourism workers are one step closer to a wage increase by LA28
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+The L.A. City Council voted to raise the city’s minimum wage for hotel and airport workers. 
+
+<br> 
+
+<https://laist.com/news/politics/las-tourism-workers-one-step-closer-to-wage-increase-la28>
+
+---
+
+## Judge to hold new hearing as he considers yanking control of homelessness spending from LA's elected leaders
+
+date: 2025-05-14, updated: 2025-05-15, from: The LAist
+
+The hearing comes after an independent audit found significant failures by the city in tracking billions of homelessness spending. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/judge-to-consider-yanking-control-of-homelessness-spending-from-las-elected-leaders-in-new-court-hearing>
+
+---
+
+## After LBUSD casts suspicion on an online fundraiser, donor behind it says he was unfairly maligned
+
+date: 2025-05-14, from: Longbeach Post
+
+<figure><img width="1024" height="760" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1024x760.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1024x760.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-300x223.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-768x570.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-1200x891.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb-400x297.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14151458/8cf05d4b-8404-4eb3-bdd8-d2a0ab57032b-929954-r6fhzhfr-549601-YAa5kBGb.jpg 1226w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Fremont Elementary’s principal said the money from a local gym’s fundraiser “may not even go to” the school. The gym owner said he’s raised hundreds of thousands for the science program.</p>
+<p>The post <a href="https://lbpost.com/news/education/after-lbusd-casts-suspicion-on-an-online-fundraiser-donor-behind-it-says-he-was-unfairly-maligned">After LBUSD casts suspicion on an online fundraiser, donor behind it says he was unfairly maligned</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/after-lbusd-casts-suspicion-on-an-online-fundraiser-donor-behind-it-says-he-was-unfairly-maligned>
+
+---
+
+## California budget is $12 billion in the red amid Trump tariffs and rising costs
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+California is experiencing unexpectedly shaky economic conditions, as health care costs rise and Trump’s tariffs create ongoing uncertainty. 
+
+<br> 
+
+<https://laist.com/news/politics/california-budget-is-12-billion-in-the-red-amid-trump-tariffs-and-rising-costs>
+
+---
+
+## Two Spanish-language albums top the Billboard chart for the first time ever
+
+date: 2025-05-14, updated: 2025-05-14, from: The LAist
+
+Bad Bunny's DeBÍ TiRAR Más FOToS and Fuerza Regida's 111XPANTIA hold down the No. 1 and No. 2 spots on this week's Billboard 200, making this the first week in history with Spanish-language albums in the chart's top two spots. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/two-spanish-language-albums-top-the-billboard-chart-for-the-first-time-ever>
 
 ---
 
@@ -13,7 +136,7 @@ updated: 2025-05-14 14:08:06
 
 date: 2025-05-14, from: Longbeach Post
 
-<figure><img width="1024" height="556" src="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-553x300.jpeg 553w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1110x602.jpeg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-768x417.jpeg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1536x833.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-2048x1111.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="556" src="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-553x300.jpeg 553w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1110x602.jpeg 1110w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-768x417.jpeg 768w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-1536x833.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/2021/10/18085010/CRUISE-TERMINAL-QUEEN-MARY_7182-scaled-1-2048x1111.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>They allege two women arriving on a cruise ship from Ensenada, Mexico, were trying to smuggle in hundreds of cartons of cigarettes.</p>
 <p>The post <a href="https://lbpost.com/news/crime/luggage-packed-with-contraband-cigarettes-seized-at-long-beach-cruise-terminal-authorities-say">Luggage packed with contraband cigarettes seized at Long Beach Cruise Terminal, authorities say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -135,13 +258,13 @@ Print artist Ana Inciardi sells her art through vending machines at 50 locations
 
 ---
 
-## Trump tariffs and rising health care costs knock California budget back into deficit
+## California budget is $12 billion in the red amid Trump tariffs and rising costs
 
 date: 2025-05-14, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14062514/051024-newsom-budget-fg-cm-14-515777-vlgsjzvu-579783-FuKiniF3.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>As Gov. Gavin Newsom prepares to unveil his revised budget proposal, California is experiencing unexpectedly shaky economic conditions, with a likely deficit of more than $10 billion next year.</p>
-<p>The post <a href="https://lbpost.com/news/politics/trump-tariffs-and-rising-health-care-costs-knock-california-budget-back-into-deficit">Trump tariffs and rising health care costs knock California budget back into deficit</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14150442/051425-newsom-may-budget-fg-cm-03-429870-gsgucsz4-567910-QNm9OEjt-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14150442/051425-newsom-may-budget-fg-cm-03-429870-gsgucsz4-567910-QNm9OEjt-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14150442/051425-newsom-may-budget-fg-cm-03-429870-gsgucsz4-567910-QNm9OEjt-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14150442/051425-newsom-may-budget-fg-cm-03-429870-gsgucsz4-567910-QNm9OEjt-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14150442/051425-newsom-may-budget-fg-cm-03-429870-gsgucsz4-567910-QNm9OEjt-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14150442/051425-newsom-may-budget-fg-cm-03-429870-gsgucsz4-567910-QNm9OEjt-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14150442/051425-newsom-may-budget-fg-cm-03-429870-gsgucsz4-567910-QNm9OEjt.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California is experiencing unexpectedly shaky economic conditions, as health care costs rise and Trump’s tariffs create ongoing uncertainty.</p>
+<p>The post <a href="https://lbpost.com/news/politics/trump-tariffs-and-rising-health-care-costs-knock-california-budget-back-into-deficit">California budget is $12 billion in the red amid Trump tariffs and rising costs</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

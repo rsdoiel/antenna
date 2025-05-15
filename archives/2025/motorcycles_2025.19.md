@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-05-14 14:08:12
+updated: 2025-05-15 06:06:50
 ---
 
 # motorcycles
 
-(date: 2025-05-14 14:08:12)
+(date: 2025-05-15 06:06:50)
+
+---
+
+## After Winning a 4-Year Legal Battle Against Another Helmet Maker, the Company is Rebranding
+
+date: 2025-05-15, from: Ride Apart, Electric Motorcycle News
+
+This brand is dominating Europe, so how long before it does the same in the US? 
+
+<br> 
+
+<https://www.rideapart.com/news/759618/ls2-wins-legal-battle-shark-new-identity/>
+
+---
+
+## This Chinese Sportbike Might Finally Be Worth Your Attention, Has the Pedigree
+
+date: 2025-05-15, from: Ride Apart, Electric Motorcycle News
+
+It was developed with input from Marabese Design and Suter Racing. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759500/mitt775r-sportbike-unveiled-europe-specs-price/>
+
+---
+
+## Get Mad, Congress Wants to Sell 500,000 Acres of Public Land Actually
+
+date: 2025-05-15, from: Ride Apart, Electric Motorcycle News
+
+11,000 acres somehow turned into 500,000 acres overnight.  
+
+<br> 
+
+<https://www.rideapart.com/news/759595/congress-500000-acres-public-land-sell-off/>
+
+---
+
+## Triumph’s New Limited-Edition Motorcycle Is Its Ultimate Track Monster
+
+date: 2025-05-15, from: Ride Apart, Electric Motorcycle News
+
+This is for the true track fiends, but you'll need to act fast. 
+
+<br> 
+
+<https://www.rideapart.com/news/759495/triumph-limited-edition-speed-triple-1200-rx/>
+
+---
+
+## I Wish This Electric Dirt Bike Was Actually Real and Not Just a Concept
+
+date: 2025-05-15, from: Ride Apart, Electric Motorcycle News
+
+It’s exactly the high-tech, high-performance electric dirt bike you’d expect a brand like Canyon to come up with.  
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759502/ro-c-works-canyon-electric-dirtbike-concept/>
+
+---
+
+## Indianapolis 500 Day 2 Practice Report: Palou and Power fastest so far
+
+date: 2025-05-14, from: Kickin the Tires blog
+
+The second day of Indianapolis 500 practice saw fast speeds and more rain as Alex Palou was fastest on the day.&#160; The Indianapolis area saw heavy rain overnight and into&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indianapolis-500-day-2-practice-report-palou-and-power-fastest-so-far/>
+
+---
+
+## The Harley-Davidson Boardroom Coup Has Uttery Failed
+
+date: 2025-05-14, from: Ride Apart, Electric Motorcycle News
+
+H Partners Management's plot didn't work.  
+
+<br> 
+
+<https://www.rideapart.com/news/759626/harley-davidson-board-directors-h-partners-management-election/>
 
 ---
 

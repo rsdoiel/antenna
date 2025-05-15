@@ -1,11 +1,439 @@
 ---
 title: planet
-updated: 2025-05-14 14:08:04
+updated: 2025-05-15 06:06:43
 ---
 
 # planet
 
-(date: 2025-05-14 14:08:04)
+(date: 2025-05-15 06:06:43)
+
+---
+
+## No value assessment conducted ahead of bike shelter works
+
+date: 2025-05-15, from: RTÉ News
+
+A long-awaited report into the Leinster House bike shelter has found there was an "absence of some fundamental good practices", including a value for money assessment, ahead of the project's construction. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0515/1513061-bike-shelter-audit/>
+
+---
+
+## State dental schemes see cuts of €800m since 2009 - IDA
+
+date: 2025-05-15, from: RTÉ News
+
+The Irish Dental Association has said State dental schemes have seen effective cuts of €800m since 2009. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0515/1513034-ida-dental-schemes/>
+
+---
+
+## Parents 'in the dark' on hip surgery audit, Dáil hears
+
+date: 2025-05-15, from: RTÉ News
+
+Parents are still being kept in the dark over the clinical audit of hip surgeries for children, the Dáil has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1513056-hip-surgeries/>
+
+---
+
+## Increase of up to 5% proposed for CIÉ pensioners
+
+date: 2025-05-15, from: RTÉ News
+
+An agreement has been reached between the CIÉ Group and the company's Trade Union Group (TUG) in relation to both of CIÉ's pension schemes. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0515/1513053-cie-pension-increase-proposed/>
+
+---
+
+## Reporter denies 'box ticking' to corroborate Adams claim
+
+date: 2025-05-15, from: RTÉ News
+
+A BBC journalist has rejected a suggestion that she engaged in "a box-ticking exercise" when finding sources to corroborate an allegation against Gerry Adams which is at the centre of a defamation case. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0515/1513047-gerry-adams-case/>
+
+---
+
+## 2FM top for younger listeners as RTÉ Radio 1 holds lead
+
+date: 2025-05-15, from: RTÉ News
+
+RTÉ 2FM remains the most-listened-to radio station in Ireland among 15 - 34-year-olds despite dips in listeners across the schedule, according to the latest Joint National Listenership Research (JNLR) figures released today. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0515/1513008-2fm-top-for-younger-listeners-as-rte-radio-1-holds-lead/>
+
+---
+
+## US PGA Championship - Day 1 updates
+
+date: 2025-05-15, from: RTÉ News
+
+The second major of the year gets underway at Quail Hollow. Can Rory McIlroy back up his US Masters triumph? The Holywood star is one of five Irish golfers in the field. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0515/1512988-us-pga-championship-day-1-updates/>
+
+---
+
+## Vacant property could address housing and climate issues
+
+date: 2025-05-15, from: RTÉ News
+
+Bringing vacant property back into use as homes could address the twin crises of housing and climate in Ireland, a conference has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0515/1513039-housing/>
+
+---
+
+## RTB warns of 'concerning trends' of high rents in Galway
+
+date: 2025-05-15, from: RTÉ News
+
+The Residential Tenancies Board has warned of "concerning trends" of rental inflation in Galway that need further investigation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1513035-rtb-warns-of-concerning-trends-of-high-rents-in-galway/>
+
+---
+
+## Pope to Lasallian Brothers: Inspire joyful and fruitful paths of holiness
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>Recalling the saying of St. John Baptist de La Salle "Your altar is the classroom," Pope Leo XIV commends the educational efforts of the De La Salle Brothers, and encourages them to continue "inspiring joyful and fruitful paths of holiness."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-meets-institute-of-the-brothers-of-christian-schools.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-meets-institute-of-the-brothers-of-christian-schools.html>
+
+---
+
+## Patients flee Gaza hospital after strikes, doctor says
+
+date: 2025-05-15, from: RTÉ News
+
+A plastic surgeon working at the European Hospital in Khan Younis, which was almost entirely evacuated this morning due to Israeli bombardment, has said there has been damage to the hospital's water and power supply. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0515/1513000-gaza-doctor/>
+
+---
+
+## Mexican influencer shot dead during TikTok livestream
+
+date: 2025-05-15, from: RTÉ News
+
+A young Mexican social media influencer, known for her videos about beauty and makeup, was brazenly shot to death during a TikTok livestream, in an incident that sent shockwaves through a country that faces high levels of gender-based violence. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1512992-mexican-influencer-shot-dead-during-tiktok-livestream/>
+
+---
+
+## Closutton seek royal approval on Reaching High's debut
+
+date: 2025-05-15, from: RTÉ News
+
+Patrick Mullins says Reaching High's run at Leopardstown on Friday will be a learning expedition with a view to tackling Royal Ascot in the first staging post of a link-up between his trainer father Willie and Britain's King Charles III and Queen Camilla. 
+
+<br> 
+
+<https://www.rte.ie/sport/racing/2025/0515/1512976-closutton-seek-royal-approval-on-reaching-highs-debut/>
+
+---
+
+## Church in Myanmar appeals for solidarity and aid
+
+date: 2025-05-15, from: Vatican News
+
+
+                    <p>In the wake of the devastating earthquake in March, the Church in Myanmar expresses joy for the election of Pope Leo XIV and makes an appeal to the world for assistance with the dire humanitarian situation.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/myanmar-suffering-population-joyfully-welcomes-pope-leo-help.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/myanmar-suffering-population-joyfully-welcomes-pope-leo-help.html>
+
+---
+
+## €4m donated to university for breast cancer research
+
+date: 2025-05-15, from: RTÉ News
+
+The University of Galway is receiving €4 million in funding from the National Breast Cancer Research Institute to improve research and diagnostics as well as more clinical trials for breast cancer patients. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0515/1512978-cancer-research/>
+
+---
+
+## Man arrested after cyclists injured in hit-and-run
+
+date: 2025-05-15, from: RTÉ News
+
+A man in his 30s was arrested for questioning in connection with a hit-and-run in Midleton, Co Cork in which three cyclists were hit by a car. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0515/1512986-midleton/>
+
+---
+
+## Death toll from latest Israeli strikes on Gaza reaches 82
+
+date: 2025-05-15, from: RTÉ News
+
+At least 82 people have been killed in Israeli strikes and shelling on Gaza since dawn, according to the rescuers. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0515/1512977-gaza/>
+
+---
+
+## New estimate shows improvement in competitiveness ranking
+
+date: 2025-05-15, from: RTÉ News
+
+New research has shown that Ireland's international competitiveness ranking would improve if Modified Gross National Income is used as an economic indicator instead of Gross Domestic Product (GDP). 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1512921-competitiveness-ranking/>
+
+---
+
+## Ukraine's Zelenskyy arrives in Turkey for talks with Russian delegation sent by no-show Putin
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7535515.1747308659!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-talks.JPG' alt='Two men, one with a beard in a dark top and the other with a mustache wearing a suit and tie, shake hands in front of the flags for Turkey and Ukraine.' width='620' height='349' title='Ukrainian President Volodymyr Zelenskyy, left, shakes hands with Turkey&apos;s President at the Presidential Palace in Ankara on Thursday.'/><p>Russian President Vladimir Putin sent aides and deputy ministers to hold peace talks with Ukraine in Turkey on Thursday, spurning Kyiv's challenge to go there in person to meet President Volodymyr Zelenskyy.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-talks-turkey-1.7535503?cmp=rss>
+
+---
+
+## Russia calls Zelensky 'clown', 'loser' ahead of talks
+
+date: 2025-05-15, from: RTÉ News
+
+Follow developments live across the day as Ukrainian and Russian delegations meet face-to-face for peace talks for the first time since Russia's invasion. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0515/1512969-ukraine-russia/>
+
+---
+
+## Estonia attempts to detain one of Russia's 'shadow fleet'
+
+date: 2025-05-15, from: RTÉ News
+
+The Estonian navy has attempted to detain a Russia-bound oil tanker under sanction by the UK, saying that it sailed illegally without a flag. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0515/1512967-estonia-russia-tanker/>
+
+---
+
+## Ukraine-Russia peace talks in Turkey: What we know
+
+date: 2025-05-15, from: RTÉ News
+
+Ukraine and Russia are close to reviving direct peace talks for the first time since the last face-to-face discussions ended three years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0515/1512964-ukraine-russia-peace-talks-in-turkey-what-we-know/>
+
+---
+
+## What are Ukraine and Russia's positions ahead of talks?
+
+date: 2025-05-15, from: RTÉ News
+
+Ukrainian and Russian delegations are set to hold their first direct talks on the possibility of ending the war in Ukraine for more than three years. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0515/1512966-ukraine-russia-talks/>
+
+---
+
+## Qatar dismisses concerns over offer of plane to Trump
+
+date: 2025-05-15, from: RTÉ News
+
+Qatar's offer to donate a luxury plane to the United States is not a personal gift to President Donald Trump but a "government-to-government transaction," the Gulf nation's prime minister has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0515/1512962-qatar-us-jet/>
+
+---
+
+## Second night of heavy Israeli bombing kills dozens in Gaza
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534323.1747180702!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/workers-look-through-the-damage-at-nasser-hospital-following-an-israeli-strike-on-the-complex.JPG' alt='A person in a blue uniform walks through the rubble of a building. ' width='620' height='349' title='A person inspects damage to Nasser Hospital in Khan Younis, which was hit by an Israeli airstrike at dawn on Tuesday, May 13, 2025. '/><p>Israeli military strikes killed at least 60 people in the Gaza Strip on Thursday, Palestinian medics said, as the United States and Arab mediators pushed for a ceasefire deal and U.S. President Donald Trump visited the Middle East.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/khan-younis-airstrikes-1.7535496?cmp=rss>
+
+---
+
+## New Zealand set to suspend Maori politicians over protest
+
+date: 2025-05-15, from: RTÉ News
+
+Indigenous Maori politicians have decried a push to temporarily suspend them from New Zealand's parliament, after disrupting the reading of a contentious race relations bill with a protest haka. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0515/1512961-haka/>
+
+---
+
+## On the run for 21 years, U.S. fugitive 'psychic' arrested in Toronto
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534738.1747238722!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/patrick-lutts-jr.jpg' alt='A man in a red shirt and the same man, roughly 20 years later, wearing a dark shirt' width='620' height='349' title='Patrick Lutts Jr. is seen in 2002 (left) and in recent years. Lutts was arrested in Toronto after evading Florida authorities for 21 years. He faces manslaughter charges in connection with a drunk-driving crash that killed two teens in Orlando.'/><p>A U.S. fugitive on the run for more than two decades has been arrested in Toronto after living in the city — out in the open — for years, CBC News has learned. Patrick Lutts Jr., a self-styled psychic, faces manslaughter charges in Florida, stemming from a drunk-driving crash that killed two teens.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/toronto/florida-fugitive-arrested-toronto-1.7534663?cmp=rss>
+
+---
+
+## Workplaces warned over low readiness for managing AI
+
+date: 2025-05-15, from: RTÉ News
+
+Workplaces need to improve their standard of engagement with workers on artificial intelligence, according to CIPD, the professional body for the HR industry. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0515/1512913-ai-workplaces-ireland/>
+
+---
+
+## Australia removes repeatedly vandalised James Cook statue
+
+date: 2025-05-15, from: RTÉ News
+
+The Australian city of Melbourne will not replace a damaged monument to British explorer James Cook, a local mayor has said, for fear it will inevitably be vandalised again. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0515/1512957-cook-statue-removed/>
+
+---
+
+## Ye's song praising Hitler was pulled from most online platforms. Are they doing enough?
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7455065.1739199483!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kanye.jpg' alt='A man in sunglasses stands in a crowd' width='620' height='349' title='Kanye West attends the 67th Annual GRAMMY Awards on Feb. 2, 2025 in Los Angeles, California.  '/><p>When Kanye West's new song praising Adolf Hitler was posted on a number of social media platforms, most tech companies removed the antisemitic track from their sites. But some experts say these companies are not doing enough to prevent the posting of online hate content.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/kanye-west-hitler-antisemitism-social-media-1.7534508?cmp=rss>
+
+---
+
+## Stage set for EMMY to represent Ireland at Eurovision
+
+date: 2025-05-15, from: RTÉ News
+
+Norwegian singer EMMY will represent Ireland at the second semi-final of the 2025 Eurovision Song Contest in Basel this evening, with Israel among the other countries competing. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0515/1512955-ireland-eurovision/>
+
+---
+
+## Trump says no move on Ukraine talks until he meets Putin
+
+date: 2025-05-14, from: RTÉ News
+
+US President Donald Trump has said there will not be movement on Ukraine peace talks until he and Russian President Vladimir Putin get together. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0515/1512952-trump-putin-ukraine/>
+
+---
+
+## Family of Danielle McLaughlin welcome inquest decision
+
+date: 2025-05-14, from: RTÉ News
+
+The family of Danielle McLaughlin, a 28-year-old Co Donegal woman who was murdered in India eight years ago, have welcomed the fact that an inquest into her death is to take place. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0515/1512943-danielle-mclaughlin-inquest/>
+
+---
+
+## Harris seeks EU-Israel deal review over Gaza 'war crimes'
+
+date: 2025-05-14, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs Simon Harris has said he believes the EU-Israel Association Agreement needs to be "reviewed" due to what he described as "war crimes" by Israel in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0515/1512912-simon-harris-brussels/>
+
+---
+
+## Three cyclists injured after being hit by car in Co Cork
+
+date: 2025-05-14, from: RTÉ News
+
+Three cyclists have been injured after a collision with a car in Co Cork this evening. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0514/1512937-crash-cork/>
 
 ---
 
@@ -21,6 +449,18 @@ Firefighters and emergency services are at the scene of a fire in an apartment b
 
 ---
 
+## Putin, Trump won't be in Turkey for proposed direct talks between Russia-Ukraine
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7535244.1747256429!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/u-s-president-donald-trump-attending-a-state-dinner-in-qatar.JPG' alt='U.S. President Donald Trump, sitting at a table, during a state dinner in Lusail, Qatar.' width='620' height='349' title='U.S. President Donald Trump listens as Qatar&apos;s Emir Tamim bin Hamad Al Thani (not pictured) speaks at a state dinner, at Lusail Palace in Lusail, Qatar, May 14, 2025. '/><p>U.S. President Donald Trump and his Russian counterpart Vladimir Putin will not attend what could be the first direct peace talks between Moscow and Kyiv in three years on Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-putin-zelenskyy-ukraine-turkey-talks-1.7535227?cmp=rss>
+
+---
+
 ## Victim recognised sex offender from Late Late Show appeal
 
 date: 2025-05-14, from: RTÉ News
@@ -33,6 +473,18 @@ A sex offender who was jailed for two years yesterday for indecently assaulting 
 
 ---
 
+## Victim recognised sex offender from Late Late Show appeal
+
+date: 2025-05-14, from: RTÉ News
+
+A sex offender who was jailed for two years yesterday for indecently assaulting three boys in Dublin was recognised by one of the victims when he appeared on television, dressed in daffodils, as part of a fundraiser for the Irish Cancer Society. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0514/1512927-james-gilleran-court/>
+
+---
+
 ## Harris: Up to ten people to be seconded to housing office
 
 date: 2025-05-14, from: RTÉ News
@@ -42,6 +494,18 @@ The Tánaiste said he expects up to ten people, from various State agencies, to 
 <br> 
 
 <https://www.rte.ie/news/2025/0514/1512919-housing-activation-office-staff/>
+
+---
+
+## Indigenous midwifery services 'really essential' in Yukon, prize-winning group says
+
+date: 2025-05-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535248.1747256571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cyfn-midwifery.jpg' alt='A man embraces a pregnant woman.' width='620' height='349' title='Participants in the Council of Yukon First Nations&apos; Bibia Nàtsät Ku project, which was awarded the $1-million Arctic Inspiration Prize in May 2025.'/><p>The Council of Yukon First Nations (CYFN) says the next step for its Indigenous midwifery program, thanks to some new prize money, is to purchase a space that will serve as home to the program and expands its services.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/indigenous-midwifery-services-really-essential-in-yukon-prize-winning-group-says-1.7535063?cmp=rss>
 
 ---
 
@@ -69,6 +533,18 @@ A two-year-old girl separated in the US from her Venezuelan parents, who were de
 
 ---
 
+## Greenland's foreign minister takes over as Arctic Council chair
+
+date: 2025-05-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535194.1747254933!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/greenland-foreign-minister.jpg' alt='A woman holds a hand-carved gavel and stands at a microphone while a man with glasses stands next to her in the background ' width='620' height='349' title='Espen Barth Eide, Minister of Foreign Affairs of Norway and outgoing Chair of the Arctic Council with Vivian Motzfeldt, Greenland&apos;s Minister of Foreign Affairs and incoming Chair of the Council.'/><p>Greenland's foreign minister is the new chair of the Arctic Council as the Kingdom of Denmark takes over the position from Norway. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/greenland-foreign-minister-arctic-council-chair-1.7534938?cmp=rss>
+
+---
+
 ## UNIFIL reports Israeli fire near its peacekeeping post
 
 date: 2025-05-14, from: RTÉ News
@@ -78,6 +554,18 @@ The UN Interim Force in Lebanon (UNIFIL) said that direct fire from the Israeli 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0514/1512903-unifil-israel-latest/>
+
+---
+
+## Tla-o-qui-aht members harvest grey whale carcass washed ashore on Vancouver Island
+
+date: 2025-05-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7534272.1747257653!/fileImage/httpImage/image.JPEG_gen/derivatives/16x9_620/tla-o-qui-aht-women-with-baleen-from-a-grey-whale.JPEG' alt='Tla-o-qui-aht women' width='620' height='349' title='Gisele Martin, third from left, and others with baleen from a grey whale that washed ashore on Vancouver Island May 7.'/><p>A Tla-o-qui-aht Tribal Park guardian says the death of a grey whale that drifted ashore on Vancouver Island near Tofino, B.C., last week, though unfortunate, became an opportunity for community members to engage in their culture.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/grey-whale-carcass-harvested-tlaoquiaht-1.7534271?cmp=rss>
 
 ---
 
@@ -169,6 +657,18 @@ A 41-year-old woman who pleaded guilty to two counts of cruelty and who stayed w
 
 ---
 
+## New foreign minister says Israel using lack of food as 'political tool' in Gaza
+
+date: 2025-05-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7533656.1747151190!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cabinet-shuffle-20250513.jpg' alt='A woman with shoulder-length dark hair, wearing a dark red suit, places her hand on a book while taking an oath.' width='620' height='349' title='Foreign Affairs Minister Anita Anand takes part in the cabinet swearing-in ceremony at Rideau Hall on Tuesday.'/><p>Newly named Foreign Minister Anita Anand accused Israel on Wednesday of using a lack of food as a political tool in its Gaza operation and urged further work on a ceasefire with Hamas, the militant group that controls the Palestinian enclave.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/foreign-minister-food-gaza-israel-1.7535177?cmp=rss>
+
+---
+
 ## Mother handed wrong newborn settles High Court action
 
 date: 2025-05-14, from: RTÉ News
@@ -197,7 +697,7 @@ Saturday's Leinster camogie finals are to go ahead as planned, with the players 
 
 date: 2025-05-14, from: RTÉ News
 
-A Government minister has insisted driving test waiting times will not exceed 10 weeks by this autumn, amid Opposition criticism some people are waiting up to 43 weeks to undergo the tests. 
+A Government minister has insisted driving test waiting times will not exceed ten weeks by this autumn, amid Opposition criticism some people are waiting up to 43 weeks to undergo the tests. 
 
 <br> 
 
@@ -226,6 +726,18 @@ French prosecutors are investigating after a masked gang attempted to kidnap the
 <br> 
 
 <https://www.rte.ie/news/world/2025/0514/1512856-paris-attempted-kidnapping/>
+
+---
+
+## Woman escapes botched kidnapping in Paris
+
+date: 2025-05-14, from: RTÉ News
+
+French prosecutors are investigating after a masked gang attempted to kidnap the daughter of a crypto businessman in Paris in what is at least the third violent attack targeting wealthy crypto players and their families in recent months. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0514/1512856-paris-attempted-kidnapping/>
 
 ---
 
@@ -371,7 +883,7 @@ More than 2,200 letters have been sent to parents of children who had dysplasia 
 
 ## In Berlin, broad backing for UN peacekeeping as global threats mount
 
-date: 2025-05-14, from: United Nations, UN Affairs
+date: 2025-05-14, from: United Nations, Top Stories
 
 More than 130 countries and international partners threw their weight behind UN peacekeeping at a high-level ministerial summit in Berlin on Wednesday, pledging military, tech and political support. 
 
@@ -402,6 +914,66 @@ More than 40,000 Sudanese have fled to eastern Chad in the past month to escape 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163216>
+
+---
+
+## 8 million teens in world's wealthiest countries functionally illiterate: UNICEF
+
+date: 2025-05-14, from: United Nations, Culture and Education
+
+Children in many of the world’s wealthiest countries saw marked declines in their academic performance, mental wellbeing, and physical health as a result of the COVID-19 pandemic, according to a new report published by the UN Children’s Fund (UNICEF) on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163271>
+
+---
+
+## A historic course correction: how the world’s shipping sector is setting sail for net zero
+
+date: 2025-05-14, from: United Nations, Top Stories
+
+Long overlooked as a major contributor to global greenhouse gas emissions, the shipping industry is now at the forefront of a unique display of international cooperation. The shift signals that even the world’s largest transport sector can be steered toward climate accountability. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163241>
+
+---
+
+## Funding cuts in Afghanistan mean ‘lives lost and lives less lived’
+
+date: 2025-05-14, from: United Nations, Top Stories
+
+In a remote village clinic in the Bamyan Province in Afghanistan last week, a group of teenage girls were given potentially life-saving reproductive health advice, excited by the small kit of menstrual supplies they had been given. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163266>
+
+---
+
+## ‘Politically unacceptable, morally repugnant’: UN chief calls for global ban on 'killer robots'
+
+date: 2025-05-14, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has once again called for a global ban on lethal autonomous weapon systems – machines capable of taking human lives without human oversight – describing them as “politically unacceptable” and “morally repugnant.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163256>
+
+---
+
+## UN aid office denounces attacks on Gaza hospital
+
+date: 2025-05-14, from: United Nations, Top Stories
+
+The UN humanitarian affairs office, OCHA, underlined the need to protect civilians and healthcare facilities in the Gaza Strip in a renewed appeal on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163251>
 
 ---
 
@@ -810,7 +1382,7 @@ date: 2025-05-14, from: CBC, World News
 
 ---
 
-## Zelenskyy says he is ready to meet Putin in Turkey. But Russia's president may be a no-show
+## Putin has more to gain by not showing up to ceasefire talks, Russia watchers say
 
 date: 2025-05-14, from: CBC, World News
 
@@ -898,7 +1470,7 @@ Fan favourites Sweden, Ukraine and the Netherlands are among the ten countries t
 
 date: 2025-05-13, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7534373.1747182915!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nueltin-lake-lodge-video.jpg' alt='An aerial view of animal parts lying on snow.' width='620' height='349' title='The scattered remains of multiple caribou are seen outside Nueltin Lake Lodge in northern Manitoba on April 11. The lodge owner claims dozens of caribou, including fetuses, were &apos;killed wastefully&apos; at the site.'/><p>The owner of a remote hunting lodge in northern Manitoba says he wants answers after he found a “mass slaughter” of caribou and severe property damage there last month, but police warn that images circulating of the dead animals might not tell the entire story.</p> 
+<img src='https://i.cbc.ca/1.7534373.1747270437!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nueltin-lake-lodge-video.jpg' alt='An aerial view of animal parts lying on snow.' width='620' height='349' title='The scattered remains of multiple caribou are seen outside Nueltin Lake Lodge in northern Manitoba on April 11. The lodge owner claims dozens of caribou, including fetuses, were &apos;killed wastefully&apos; at the site.'/><p>The owner of a remote hunting lodge in northern Manitoba says he wants answers after he found a “mass slaughter” of caribou and severe property damage there last month, but police warn that images circulating of the dead animals might not tell the entire story.</p> 
 
 <br> 
 
@@ -2509,7 +3081,7 @@ The search team looking for the remains of Cork woman Tina Satchwell discovered 
 
 ## Climate change takes increasingly extreme toll on African countries
 
-date: 2025-05-12, from: United Nations, Climate Change
+date: 2025-05-12, from: United Nations, Top Stories
 
 Devastating floods in South Sudan in recent months left thousands of herders without their most precious possessions: goats, cows and cattle. The animals are central to people’s lives and age-old customs including marriage and cultural traditions. All risk being swept away or scorched by the ravages of climate change. 
 
@@ -2533,7 +3105,7 @@ Gazans remain at “critical risk of famine,” UN-backed&nbsp;food security exp
 
 ## UN chief calls for major reforms to cut costs and improve efficiency
 
-date: 2025-05-12, from: United Nations, UN Affairs
+date: 2025-05-12, from: United Nations, Top Stories
 
 Amid financial strain and growing global challenges, UN Secretary-General António Guterres is pushing for wide-ranging structural reforms to enhance the world body’s effectiveness. 
 
