@@ -1,11 +1,164 @@
 ---
 title: socal north
-updated: 2025-05-15 14:07:42
+updated: 2025-05-16 06:11:18
 ---
 
 # socal north
 
-(date: 2025-05-15 14:07:42)
+(date: 2025-05-16 06:11:18)
+
+---
+
+## The Tournament of Cheeseburgers is back — now cheesier and juicier than before
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+Nominations are open for your local faves, culminating in a winner to be crowned at Smorgasburg LA on July 20. 
+
+<br> 
+
+<https://laist.com/news/food/tournament-of-cheeseburgers-is-back>
+
+---
+
+## Original Pantry cooks find a new home — and loyal customers — at East LA taco spot
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+A handful of longtime Pantry cooks have been serving fried potatoes, eggs, pancakes, bacon and sourdough bread at an East L.A. restaurant since the diner closed in March. 
+
+<br> 
+
+<https://laist.com/news/food/original-pantry-cooks-find-a-new-home-and-loyal-customers-at-east-la-taco-spot>
+
+---
+
+## Long Beach firefighters douse two suspicious blazes in the Los Cerritos area
+
+date: 2025-05-16, from: Longbeach Post
+
+<figure><img width="1024" height="829" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-1024x829.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-1024x829.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-300x243.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-768x622.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-133x108.jpg 133w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-1536x1244.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-1200x972.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-1568x1270.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347-400x324.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15190309/img-0241-289705-pzzurj10-926215-spN2hcfX-scaled-e1747361303347.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One blaze, in a storage yard filled with plastic tubing, sent thick black smoke pouring into the sky.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-firefighters-douse-two-suspicious-blazes-in-the-los-cerritos-area">Long Beach firefighters douse two suspicious blazes in the Los Cerritos area</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-firefighters-douse-two-suspicious-blazes-in-the-los-cerritos-area>
+
+---
+
+## Court auditors say LA homelessness services are 'extremely broken'
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+A court-overseen review found that the city could not substantiate the number of beds the city was taking credit for to show it was complying with the agreements. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/court-auditors-say-la-homelessness-services-are-extremely-broken>
+
+---
+
+## Parole hearing set for the Menendez brothers
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+State officials have scheduled a June 13 hearing date, just days after the two were resentenced in the 1989 murders of their parents. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/parole-hearing-set-for-the-menendez-brothers>
+
+---
+
+## Undeterred by campus crackdowns, SoCal college students stage hunger strikes in support of Gaza
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+Students on at least six of the Cal State system’s 23 campuses have joined the growing hunger strike movement. 
+
+<br> 
+
+<https://laist.com/news/education/student-hunger-strikes-cal-state-university-gaza>
+
+---
+
+## A fly fishing club in Recreation Park celebrates a century of casting and reeling
+
+date: 2025-05-15, from: Longbeach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-1024x576.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-1024x576.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-1536x864.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-2048x1152.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-1200x675.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-1568x882.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14153557/lbcc-drone-club-pond-347568-ppvfbgml-414821-RjiX52ES-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Long Beach Casting Club is turning 100. Its practice pond in the park is one of only two in Los Angeles County.</p>
+<p>The post <a href="https://lbpost.com/news/local-history/a-fly-fishing-club-in-recreation-park-celebrates-a-century-of-casting-and-reeling">A fly fishing club in Recreation Park celebrates a century of casting and reeling</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/local-history/a-fly-fishing-club-in-recreation-park-celebrates-a-century-of-casting-and-reeling>
+
+---
+
+## Charles Strouse, Broadway composer of 'Annie' and 'Bye Bye Birdie,' dies at 96
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+The Broadway composer of hit musicals had a versatile songwriting style. He died Thursday at 96. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/charles-strouse-broadway-composer-of-annie-and-bye-bye-birdie-dies-at-96>
+
+---
+
+## Got medical debt? LA County may have just paid it off
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+Nearly 135,000 residents will be notified next week as part of the first wave of the county’s medical debt relief program. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-medical-debt-relief-payments-start>
+
+---
+
+## Anaheim puts its tourism board on a short leash after corruption scandal
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+In recent years, investigations have revealed the grip Anaheim’s tourism industry has on city politics. Now, the city is implementing oversight measures. 
+
+<br> 
+
+<https://laist.com/news/politics/anaheim-tourism-board-changes>
+
+---
+
+## Tipster who helped identify Long Beach dog abuser to get $5,000 reward, PETA says
+
+date: 2025-05-15, from: Longbeach Post
+
+<figure><img width="828" height="722" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1.jpg 828w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-300x262.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-768x670.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-124x108.jpg 124w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/07150203/rue-542266-qeybtnwy-006460-Jujf8Ul1-400x349.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“It just takes one kind person to crack a cruelty case, and by coming forward, this tipster saved this dog from further abuse and gave her the bright future she deserves,” the organization said in a statement. </p>
+<p>The post <a href="https://lbpost.com/news/crime/tipster-who-helped-identify-long-beach-dog-abuser-to-get-5000-reward-peta-says">Tipster who helped identify Long Beach dog abuser to get $5,000 reward, PETA says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/tipster-who-helped-identify-long-beach-dog-abuser-to-get-5000-reward-peta-says>
+
+---
+
+## Medi-Cal coverage of weight loss drugs on chopping block under governor’s proposal
+
+date: 2025-05-15, updated: 2025-05-15, from: The LAist
+
+Weight loss drugs Ozempic and Wegovy would no longer be covered by California’s health insurance for low-income people under the governor’s proposal. 
+
+<br> 
+
+<https://laist.com/news/health/medi-cal-coverage-weight-loss-drugs-on-chopping-block-under-governors-proposal>
 
 ---
 
@@ -73,7 +226,7 @@ The world's largest retailer says it won't be able to absorb all the costs from 
 
 date: 2025-05-15, from: Longbeach Post
 
-<figure><img width="1024" height="670" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-1024x670.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-1024x670.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg.jpg 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="670" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-1024x670.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-1024x670.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-300x196.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/15101817/newsom-file-715028-vr7jdmrw-484903-AiS5UvFg.jpg 1080w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Weight loss drugs Ozempic and Wegovy would no longer be covered by California’s health insurance for low-income people under the governor’s proposal.</p>
 <p>The post <a href="https://lbpost.com/news/health/medi-cal-coverage-of-weight-loss-drugs-on-chopping-block-under-governors-proposal">Medi-Cal coverage of weight loss drugs on chopping block under governor’s proposal</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -88,7 +241,7 @@ date: 2025-05-15, from: Longbeach Post
 
 date: 2025-05-15, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The collision happened at about 2:30 a.m. on Seventh Street, near Channel Drive, police said.</p>
 <p>The post <a href="https://lbpost.com/news/crime/seventh-street-crash-va-fata-traffic-collision">Man lying in roadway killed in crash outside Long Beach VA, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

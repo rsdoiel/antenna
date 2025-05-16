@@ -1,11 +1,91 @@
 ---
 title: snapshots
-updated: 2025-05-15 14:07:51
+updated: 2025-05-16 06:11:27
 ---
 
 # snapshots
 
-(date: 2025-05-15 14:07:51)
+(date: 2025-05-16 06:11:27)
+
+---
+
+## Acer Predator Triton 14 AI is a 3.5 pound gaming laptop with an OLED display and stylus support
+
+date: 2025-05-16, from: Liliputing
+
+<p>The Acer Predator Triton 14 is a thin and light gaming laptop that&#8217;s been giving the popular Asus ROG Zephyrus G14 a run for its money for several years. But the new PT14-52T model for 2025 introduces a bunch of new features that could help Acer&#8217;s compact gaming notebook appealing even for non-gamers. Acer&#8217;s newest model [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-predator-triton-14-ai-is-a-3-5-pound-gaming-laptop-with-an-oled-display-and-stylus-support/">Acer Predator Triton 14 AI is a 3.5 pound gaming laptop with an OLED display and stylus support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-predator-triton-14-ai-is-a-3-5-pound-gaming-laptop-with-an-oled-display-and-stylus-support/>
+
+---
+
+## Acer unveils two new wearables: AI TransBuds for real-time translation and FreeeSense smart ring
+
+date: 2025-05-16, from: Liliputing
+
+<p>Acer is best known for making PCs, but the company has a subsidiary called Acer Gadget that focuses on other produces like eBikes, scooters, and accessories. Now Acer Gadget is also getting into the wearable space with two new products. The Acer FreeSense Ring is a wearable health tracker, while the Acer AI TransBuds are a pair [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-unveils-two-new-wearables-ai-transbuds-for-real-time-translation-and-freeesense-smart-ring/">Acer unveils two new wearables: AI TransBuds for real-time translation and FreeeSense smart ring</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-unveils-two-new-wearables-ai-transbuds-for-real-time-translation-and-freeesense-smart-ring/>
+
+---
+
+## Build a Raspberry Pi setup for children aged 3 to 6
+
+date: 2025-05-16, from: Raspberry Pi News (.com)
+
+<p>A surprising number of young people struggle to use a desktop computer. Here's how you can help break that trend.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-a-raspberry-pi-setup-for-children-aged-3-to-6/">Build a Raspberry Pi setup for children aged 3 to 6</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/build-a-raspberry-pi-setup-for-children-aged-3-to-6/>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-05-16, from: IIIF Mastodon feed)
+
+<p>It&#39;s the LAST DAY to register for the 2025 <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Annual Conference &amp; Showcase</p><p>Join us June 2 for a free Showcase of IIIF implementations and demos, and June 3-5 for presentations, lightning talks, workshops, and networking session. </p><p>Registration: <a href="https://www.conftool.org/iiif2025" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="">conftool.org/iiif2025</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114517623113021546>
+
+---
+
+## The Trade War Isn’t Over
+
+date: 2025-05-16, from: Paul Krugman
+
+Look at the numbers, not the vibes 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-trade-war-isnt-over>
+
+---
+
+## Quoting Sam Altman
+
+date: 2025-05-16, updated: 2025-05-16, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/sama/status/1923104596622246252"><p>soon we have another low-key research preview to share with you all</p>
+<p>we will name it better than chatgpt this time in case it takes off</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/sama/status/1923104596622246252">Sam Altman</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/16/sam-altman/#atom-everything>
 
 ---
 
@@ -838,6 +918,73 @@ This blog post describes an alternative, straightforward approach to collaborati
 
 ---
 
+## My own RSS reader
+
+date: 2025-05-15, from: Lean Rada's blog
+
+
+<p>I started making my own RSS reader webapp (<a href="https://reedybear.bearblog.dev/getting-started-with-feed-readers/" target="_blank">a what reader?</a>). It can be accessed at <a href="https://leanrada.com/tools/rss?ref=rss" target="_blank"><code>/tools/rss/</code></a>. Currently it’s hardcoded to just load my own site feed <code>leanrada.com/rss.xml</code> and that’s totally fine.</p>
+
+<p>I made this primarily to test how my own posts get rendered in <strong>‘reader mode’</strong>.</p>
+
+<h2>Reader mode</h2>
+
+<p>You see, I like to incorporate interactive elements in my posts. However, custom elements and JS are scrubbed by RSS reader apps, ultimately resulting in a clean but confusing and broken experience. Even custom CSS which I use to format some graphs and illustrations are lost.</p>
+
+<p>The same could be said for the <i>Reading mode</i> feature offered by most full-fledged web browsers today, if not their add-ons. It’s a feature that strips ‘distracting’ elements away. My own RSS reader actually uses <strong><a href="https://github.com/mozilla/readability" target="_blank">the same library</a></strong> used by Mozilla Firefox’s <i>Reader View</i>.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/my-own-rss-reader/ss.png?ref=rss" alt="Screenshot of my RSS reader" loading="lazy" width="1280" height="768">
+  <figcaption>My barebones RSS reader showing a reader mode transformation of posts.</figcaption>
+</figure>
+
+<p>But many of my posts are not meant to be just for <em>reading</em>. I want my posts to be interactive and playable. A <em>reading</em> mode transformation is inherently incompatible. Still, I wanted to provide an RSS feed. I had to compromise.</p>
+
+<p>An easy way out would be to omit the post body in the feed, maybe put in a summary instead, and just link to the original URL like what other feeds do. The <a href="https://feeds.bbci.co.uk/news/rss.xml" target="_blank">BBC news feed</a> does this, for example. But that’s boring.</p>
+
+<h2>An alt text kind of way</h2>
+
+<p>I went with an alt text kind of way. That is, all interactive content are replaced by alternative plain text in the feed body.</p>
+<fixed-grid>
+  <figure>
+    <img src="https://leanrada.com/notes/my-own-rss-reader/before-reading.png?ref=rss" loading="lazy" width="704" height="832">
+    <figcaption>Original content</figcaption>
+  </figure>
+  <figure>
+    <img src="https://leanrada.com/notes/my-own-rss-reader/after-reading.png?ref=rss" loading="lazy" width="704" height="832">
+    <figcaption>Converted content</figcaption>
+  </figure>
+</fixed-grid>
+<p>Right now it’s pretty crude — my HTML to RSS converter scans custom tags in the markup, and replaces them with the tag name in sentence case. So <code>&lt;some-demo&gt;&lt;/some-demo&gt;</code> would turn into <i>Some demo</i>.</p>
+
+<p>It also tries to look for <code>alt</code> and <code>aria-label</code> attributes if present.</p>
+
+<p>It’s not really a complete solution since it doesn’t cover other stuff like plain DOM-based JS stuff (non-WebComponents). I don’t think RSS readers will start running third-party JS or WebComponents anytime soon, so this is not going to be a temporary solution either.</p>
+
+<p>The idea for the RSS reader is that it will help me continuously test these conversions, and remind myself to polish the HTML to RSS solution.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/my-own-rss-reader/alt-prelude.png?ref=rss" alt="Quote: For RSS readers: This article contains interactive content available on the original post on leanrada.com." loading="lazy" width="755" height="71">
+  <figcaption>Prelude prepended to the post body when there is interactive content in the post.</figcaption>
+</figure>
+
+<p>Beyond just a testing tool, this RSS reader is, well, an RSS reader!</p>
+
+<h2>It is a feed reader!</h2>
+
+<p>Now that I’ve made an actual RSS reader, it’d be trivial to add other feeds and use this as my main reader app! I’ve always wanted to make my own feed reader.</p>
+
+<p>I’m currently using an online service <a href="https://www.inoreader.com/" target="_blank">InoReader</a> to subscribe to and read around <strong>123 feeds</strong> in total. I could potentially switch to my own reader…? I should probably start with OPML import functionality. It would be a nice project, at least.</p>
+
+<p>Actually, more than a feed reader, I’ve always wanted to make my own personal front page containing not just RSS feeds, but also social media posts and other stuff I follow all in one place. So many project ideas… 🤔</p>
+ 
+
+<br> 
+
+<https://leanrada.com/notes/my-own-rss-reader/?ref=rss>
+
+---
+
 ## 565. The Great Northern War: Revenge of the Cossacks (Part 2)
 
 date: 2025-05-14, from: This is history podcast
@@ -952,7 +1099,7 @@ date: 2025-05-14, updated: 2025-05-14, from: p1k3.com community feed
 
 date: 2025-05-14, from: Liliputing
 
-<p>The MagicX Zero 40 is an upcoming handheld game console that&#8217;s expected to sell for $75. It has relatively modest specs including a 1/8 GHz quad-core ARM Cortex-A53 processor, Imagination PowerVR GE8300 graphics, 2GB of RAM, and support for WiFi 4 and Bluetooth 4.2. But this handheld has one thing that makes it very different from [&#8230;]</p>
+<p>The MagicX Zero 40 is an upcoming handheld game console that&#8217;s expected to sell for $75. It has relatively modest specs including a 1.8 GHz quad-core ARM Cortex-A53 processor, Imagination PowerVR GE8300 graphics, 2GB of RAM, and support for WiFi 4 and Bluetooth 4.2. But this handheld has one thing that makes it very different from [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/magicx-zero-40-is-a-75-handheld-with-a-vertical-display-for-nintendo-ds-emulation-and-classic-arcade-games/">MagicX Zero 40 is a $75 handheld with a vertical display for Nintendo DS emulation (and classic arcade games)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 

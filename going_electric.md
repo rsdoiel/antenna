@@ -1,11 +1,95 @@
 ---
 title: going electric
-updated: 2025-05-15 14:07:49
+updated: 2025-05-16 06:11:25
 ---
 
 # going electric
 
-(date: 2025-05-15 14:07:49)
+(date: 2025-05-16 06:11:25)
+
+---
+
+## Despite ongoing war in Ukraine, is Hyundai positioning for return to Russia?
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/hyundai-russia.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Despite pulling out of the Russian market in a response to that nation’s invasion of Ukraine, new trademark filings and a buyback option on its shuttered factory are raising eyebrows. Is Hyundai headed for a Russian return?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,hyundai,russia,tariffs" data-layer-viewtype="unknown" data-post-id="416303" href="https://electrek.co/2025/05/16/despite-ongoing-war-in-ukraine-is-hyundai-positioning-for-return-to-russia/#more-416303" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/despite-ongoing-war-in-ukraine-is-hyundai-positioning-for-return-to-russia/>
+
+---
+
+## The Renault 4 Savane 4x4 Concept Is Europe’s Answer To The Rivian R3X
+
+date: 2025-05-16, from: Inside EVs News
+
+Renault added a rear motor to its electric crossover, making it all-wheel drive. 
+
+<br> 
+
+<https://insideevs.com/news/759802/renault-4-savane-4x4-concept-photos-specs/>
+
+---
+
+## The Tesla Cybertruck Is No Longer The Best-Selling EV Truck In America
+
+date: 2025-05-16, from: Inside EVs News
+
+Demand for the angular electric pickup has continued to falter in the first quarter, making room for a new king. 
+
+<br> 
+
+<https://insideevs.com/news/759788/tesla-cybertruck-q1-registrations-top/>
+
+---
+
+## India’s Waaree to double its solar module output at its Texas factory [update]
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Waaree-Energies-Texas.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>India’s Waaree Energies doubled Texas production in April to counter US solar tariffs – now it’s investing hundreds of millions more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,india,solar-power,texas" data-layer-viewtype="unknown" data-post-id="411610" href="https://electrek.co/2025/05/15/indias-waaree-to-double-its-solar-module-output-at-its-texas-factory/#more-411610" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/indias-waaree-to-double-its-solar-module-output-at-its-texas-factory/>
+
+---
+
+## BYD’s first mini EV was just spotted and it’s about to shake up Japan’s kei car market
+
+date: 2025-05-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYDs-mini-EV-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is about to launch another low-cost electric car, but this one’s a little different. It’s <a href="https://electrek.co/guides/byd/">BYD’s</a> first kei car. You know, those tiny vehicles that dominate Japan’s city streets? BYD’s mini EV was just spotted out in public, giving us our first real look at the upcoming kei car.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="416286" href="https://electrek.co/2025/05/15/byds-mini-ev-spotted-coming-for-japans-kei-cars/#more-416286" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/15/byds-mini-ev-spotted-coming-for-japans-kei-cars/>
+
+---
+
+## The 2026 Lexus ES EV Gets 300 Miles Of Range And A Tesla Port
+
+date: 2025-05-15, from: Inside EVs News
+
+Lexus is launching its first electric sedan next year. It'll also be available as a hybrid.  
+
+<br> 
+
+<https://insideevs.com/news/759755/lexus-es-ev-range-charging/>
 
 ---
 
@@ -229,7 +313,7 @@ date: 2025-05-15, from: Electrek Feed
 
 ---
 
-## This Plan Could Break The EV Market
+## Closing This Tax Credit 'Loophole' Could Break The EV Market
 
 date: 2025-05-15, from: Inside EVs News
 

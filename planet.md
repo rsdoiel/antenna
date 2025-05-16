@@ -1,11 +1,439 @@
 ---
 title: planet
-updated: 2025-05-15 14:07:40
+updated: 2025-05-16 06:11:16
 ---
 
 # planet
 
-(date: 2025-05-15 14:07:40)
+(date: 2025-05-16 06:11:16)
+
+---
+
+## Pharmacies to provide free HRT for women from 1 June
+
+date: 2025-05-16, from: RTÉ News
+
+Pharmacies will start providing free hormone replacement therapy for women from 1 June after an agreement with Minister for Health Jennifer Carroll MacNeill. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0516/1513278-free-hrt-women/>
+
+---
+
+## Tusla to review outcomes of Daniel McAnaspie inquest
+
+date: 2025-05-16, from: RTÉ News
+
+The State agency responsible for child protection and welfare, Tusla, has said that it will now review the outcomes of the inquest into the death of Daniel McAnaspie. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513277-tusla-daniel-mcanaspie/>
+
+---
+
+## 'Unintended' impacts of Higher Level Maths bonus points
+
+date: 2025-05-16, from: RTÉ News
+
+The awarding of bonus points to students who achieve a pass or more in Higher Level Maths has had unintended negative consequences and should be re-assessed, a new study has found. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513272-bonus-points-maths/>
+
+---
+
+## Call for people to consider 'life saving' organ donation
+
+date: 2025-05-16, from: RTÉ News
+
+Lung transplant patients have encouraged the public to consider the "life-saving" gift of organ donation on the 20th anniversary of the first ever lung transplant that took place at the Mater Hospital in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0516/1513265-organ-donation/>
+
+---
+
+## Swedish diplomat suspected of spying found dead - reports
+
+date: 2025-05-16, from: RTÉ News
+
+A Swedish diplomat arrested over the weekend in Stockholm on charges of spying and released days later has been found dead, media reported, with the foreign ministry confirming an employee had died. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0516/1513263-swedish-diplomat-death/>
+
+---
+
+## Two firefighters among 3 dead in former RAF base blaze
+
+date: 2025-05-16, from: RTÉ News
+
+Two firefighters and a member of the public have died following a large fire at a former RAF base in England. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513261-raf-base-fire/>
+
+---
+
+## Irish aid for Gaza held up for two months
+
+date: 2025-05-16, from: RTÉ News
+
+Two consignments of Irish humanitarian aid have been held up in a warehouse in Jordan for the past two months. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513238-gaza-humanitarian-aid/>
+
+---
+
+## Plans over IPAS centre at former Coolock factory scrapped
+
+date: 2025-05-16, from: RTÉ News
+
+Plans to accommodate asylum seekers at the former paint factory in Coolock, north Dublin, have been scrapped. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0516/1513250-asylum-seekers-accommodation-dublin/>
+
+---
+
+## Record 89 beaches, ten marinas awarded Blue Flag
+
+date: 2025-05-16, from: RTÉ News
+
+A record number of beaches and marinas have been awarded a Blue Flag this year; 89 beaches and ten marinas obtained the coveted accolade - five more than last year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0516/1513240-beaches-marinas-ireland/>
+
+---
+
+## Judiciary pay tribute to the late Aodhán Ó Faoláin
+
+date: 2025-05-16, from: RTÉ News
+
+A High Court judge has led tributes in court to reporter Aodhán Ó Faoláin who died last week. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513246-aodhan-o-faolain-death/>
+
+---
+
+## Trial date set for Jeffrey and Eleanor Donaldson
+
+date: 2025-05-16, from: RTÉ News
+
+A date has been fixed for the trial of former DUP leader Jeffrey Donaldson and his wife in relation to alleged sex offences. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513241-jeffrey-donaldson-court/>
+
+---
+
+## CEAST welcomes new Pope and looks forward to Ad Limina Visit
+
+date: 2025-05-16, from: Vatican News
+
+
+                    <p>The President of the Episcopal Conference of Angola and São Tomé (CEAST) has said that the Church in the region warmly welcomes the new Pope and that the Bishops are eager to meet the Holy Father at the Vatican during their upcoming ad limina visit.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/ceast-welcomes-the-new-pope-and-looks-forward-to-their-ad-limina.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/ceast-welcomes-the-new-pope-and-looks-forward-to-their-ad-limina.html>
+
+---
+
+## 'It's a shame' - Irish fans react to Eurovision exit
+
+date: 2025-05-16, from: RTÉ News
+
+Ireland's hopes of qualifying for the Eurovision Song Contest Grand Final were dashed last night, as EMMY's Laika Party failed to make it through a fiercely competitive second semi-final in Basel, Switzerland. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0516/1513234-its-a-shame-irish-fans-react-to-eurovision-exit/>
+
+---
+
+## Sky says TV tech issue now resolved
+
+date: 2025-05-16, from: RTÉ News
+
+Sky has said that a technical issue with its Sky Q TV service, which affected some customers in Ireland and the UK, has now been resolved. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0516/1513231-sky-says-tv-tech-issue-resolved/>
+
+---
+
+## Talks between Russian and Ukrainian delegations end
+
+date: 2025-05-16, from: RTÉ News
+
+Follow live developments as delegations from Moscow and Kyiv are in Istanbul today for talks while European leaders are in Albania for the sixth summit of the European Political Community. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0516/1513227-ukraine-russia-talks/>
+
+---
+
+## Pope to Diplomatic Corps: Build peace with justice, truth, and hope
+
+date: 2025-05-16, from: Vatican News
+
+
+                    <p>Pope Leo XIV addresses the Diplomatic Corps and encourages the ambassadors to pursue paths of peace with justice, truth and hope. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-to-diplomatic-corps-build-peace-with-justice-truth-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-to-diplomatic-corps-build-peace-with-justice-truth-hope.html>
+
+---
+
+## OPW minister welcomes bike shelter report findings
+
+date: 2025-05-16, from: RTÉ News
+
+The Minister of State with responsibility for the Office of Public Works has said that a report into the Leinster House bike shelter has "come out with findings that I welcome and want to recommend". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0516/1513218-bike-shelter-opw/>
+
+---
+
+## 'A lot of people are starving' in besieged Gaza - Trump
+
+date: 2025-05-16, from: RTÉ News
+
+US President Donald Trump has said "a lot of people are starving" in besieged Gaza, where rescuers reported more than 74 deaths in Israeli air strikes. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0516/1513210-israeli-strikes-gaza/>
+
+---
+
+## ECB may be nearing end of rate cuts, trade war a risk
+
+date: 2025-05-16, from: RTÉ News
+
+European Central Bank interest rates may be close to bottoming out but uncertainty was high and the environment was prone to sudden changes that could also alter the policy outlook, ECB policymaker Martins Kazaks said today. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0516/1513211-european-central-bank-interest-rates/>
+
+---
+
+## Social post by former FBI chief Comey investigated
+
+date: 2025-05-16, from: RTÉ News
+
+US law enforcement officials have said that they were looking into a social media post by former FBI Director James Comey depicting an image of "8647," which some Trump supporters interpreted as a threat against the US President. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0516/1513199-comey-trump/>
+
+---
+
+## Australian soldier loses war crimes defamation appeal
+
+date: 2025-05-16, from: RTÉ News
+
+One of Australia's most decorated soldiers has lost a legal bid to overturn bombshell court findings that implicated him in war crimes while serving in Afghanistan. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0516/1513186-australian-soldier/>
+
+---
+
+## Two climbers die in two days on Everest
+
+date: 2025-05-16, from: RTÉ News
+
+An Indian climber and another from the Philippines became the first mountaineers to die on Mount Everest in the current March-May climbing season of the world's highest peak, hiking officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513184-everest-deaths/>
+
+---
+
+## US baby with rare illness treated with 'gene editing'
+
+date: 2025-05-16, from: RTÉ News
+
+A US infant with a rare condition has become history's first patient to be treated with a personalised 'gene-editing' technique that raises hopes for other people with obscure illnesses, doctors have said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513179-baby-gene-edit/>
+
+---
+
+## European leaders ready to impose fresh Russian sanctions
+
+date: 2025-05-16, from: RTÉ News
+
+European leaders gathering at a summit in the Albanian capital of Tirana have said they are ready to impose tough new sanctions on Russia following President Vladimir Putin's refusal to attend peace talks in Istanbul or to agree to an immediate ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513177-european-politics/>
+
+---
+
+## Pilot ejects from Ukraine F-16 fighter jet after incident, air force says
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7308666.1724961979!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ukrainian-f-16-fighter-jet-flying-in-undisclosed-location-in-early-august-2024.jpg' alt='One of Ukraine&apos;s F-16 fighter jet is seen flying in an undisclosed location above the country on Aug. 4, 2024.' width='620' height='349' title='In this photo taken Sunday, Aug. 4, 2024, the Ukrainian Air Force&apos;s F-16 fighter jet flies in an undisclosed location in Ukraine. One of the handful of F-16 warplanes that Ukraine has received from its Western partners to help fight Russia&apos;s invasion crashed on Monday, Aug. 26, when Russia launched a major missile and drone barrage at Ukraine, Ukraine&apos;s military officials said on Thursday, Aug. 29, 2024.'/><p>Ukraine lost an F-16 fighter jet on Friday morning after an incident on board, though the pilot ejected safely, the Ukrainian air force said in a statement.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-f16-jet-pilot-ejects-1.7536676?cmp=rss>
+
+---
+
+## New Leaving Cert course aims to promote climate activism
+
+date: 2025-05-16, from: RTÉ News
+
+A new Leaving Certificate subject aims to encourage students to become activists on issues related to climate change. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0516/1513161-climate-leaving-cert-subject/>
+
+---
+
+## Watch: Off-grid micro-distillery opens on Lambay Island
+
+date: 2025-05-16, from: RTÉ News
+
+An off-grid micro-distillery has opened on Lambay Island, three miles off the coast of Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513122-lambay-island-distillery/>
+
+---
+
+## Ukraine, Russia delegations sit down for first ceasefire talks in 3 years
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7536711.1747396434!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-talks.JPG' alt='Several people are shown sitting at a long conference room table.' width='620' height='349' title='A Ukrainian delegation, led by Ukrainian Defence Minister Rustem Umerov, in black shirt, attends the meeting on Friday in Istanbul.'/><p>Russian and Ukrainian negotiators met in Istanbul on Friday at their first direct peace talks in more than three years, under pressure from U.S. President Donald Trump to end Europe's deadliest conflict since the Second World War.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/turkey-ukraine-russia-meetings-1.7536679?cmp=rss>
+
+---
+
+## Russia-Ukraine talks end after less than two hours
+
+date: 2025-05-16, from: RTÉ News
+
+The first direct peace talks between Russia and Ukraine in more than three years lasted well under two hours, with no apparent sign of progress so far in narrowing the gap between the sides. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513174-russia-ukraine-turkey/>
+
+---
+
+## Record personal loans for car, home improvement in 2024
+
+date: 2025-05-16, from: RTÉ News
+
+A record €2.5 billion worth of personal loans were drawn down last year, including loans for cars, home improvement works, holidays and weddings. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0516/1513129-record-2-5bn-worth-of-personal-loans-drawn-down-in-2024/>
+
+---
+
+## Chris Brown remanded in custody over assault charge
+
+date: 2025-05-16, from: RTÉ News
+
+R&B singer Chris Brown, 36, has been remanded in custody until 13 June by a judge in Manchester over an allegation of causing grievous bodily harm with intent. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0516/1513172-chris-brown-court/>
+
+---
+
+## 'Sad and sombre day': Garda Flatley's funeral takes place
+
+date: 2025-05-15, from: RTÉ News
+
+The funeral of Garda Kevin Flatley, who died in the line of duty, is taking place in Balbriggan in Co Dublin this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513153-garda-flatley-funeral/>
+
+---
+
+## Trump officials suggest ex-FBI director's social media post was call for violence against Trump
+
+date: 2025-05-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7536613.1747358055!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/former-fbi-director-james-comey-being-interviewed-by-nicolle-wallace.jpg' alt='Former FBI director Jamey Comey looks toward an interviewer.' width='620' height='349' title='Nicolle Wallace (L) interviews James Comey onstage during Former FBI director James Comey In Conversation With MSNBC&apos;s Nicolle Wallace at 92NY on May 30, 2023 in New York City.'/><p>U.S. Homeland Security Secretary Kristi Noem said Thursday federal law enforcement officials are investigating a social media post made by former FBI director James Comey that she and other Republicans suggested was a call for violence against U.S. President Donald Trump.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/comey-social-post-8647-investigation-1.7536609?cmp=rss>
+
+---
+
+## In Pictures: Eurovision - the second semi-final
+
+date: 2025-05-15, from: RTÉ News
+
+Take a look at EMMY as well as the bonkers, bizarre and eye-popping moments from the second semi-final of the Eurovision Song Contest 2025 in Basel, Switzerland. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0515/1513150-in-pictures-eurovision-the-second-semi-final/>
+
+---
+
+## Ireland fails to qualify for the Eurovision final
+
+date: 2025-05-15, from: RTÉ News
+
+Ireland's Eurovision journey has come to an end for 2025, with EMMY failing to qualify for Saturday's Grand Final in Basel, Switzerland. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0515/1513160-ireland-fails-to-qualify-for-the-eurovision-final/>
 
 ---
 
@@ -45,6 +473,18 @@ Police in London have charged a man, 21, with three counts of arson with intent 
 
 ---
 
+## Alberta separatism threats spur First Nation to revive lawsuit against Sovereignty Act
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7536520.1747354135!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/protest-alberta-seperatism.jpg' alt='Legislature building and protest flags' width='620' height='349' title='Treaty Nations Peaceful Demonstration Regarding Alberta Separation Edmonton Rally on the Provincial Legislature Grounds May 15, 2025.'/><p>A First Nation whose land spans the Alberta-Saskatchewan border says Alberta's "growing separatist agenda" has spurred it to revive a more than two-year-old lawsuit against the province's Sovereignty Act.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/onion-lake-lawsuit-sovereignty-act-1.7535319?cmp=rss>
+
+---
+
 ## Israeli Eurovision rehearsal 'disrupted' by protesters
 
 date: 2025-05-15, from: RTÉ News
@@ -57,11 +497,11 @@ Protesters have "disrupted" Israeli singer Yuval Raphael's rehearsal for the Eur
 
 ---
 
-## Eurovision: All the action from the second semi-final
+## Eurovision: The story of the second semi-final
 
 date: 2025-05-15, from: RTÉ News
 
-Sixteen acts. Ten spots. One step closer to Eurovision glory. Follow all the action live from the second semi-final in Basel, Switzerland. 
+The second semi-final is done and dusted and there was disappointment for EMMY. Here's a look at all the action from Thursday night in Basel . . . 
 
 <br> 
 
@@ -291,18 +731,6 @@ date: 2025-05-15, from: CBC, World News
 
 ---
 
-## Trump wants to accept a Qatari jet for Air Force One. Here are the facts
-
-date: 2025-05-15, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7534363.1747180277!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-gulf.JPG' alt='A man raises his fist from atop a flight of stairs leading into an airliner.' width='620' height='349' title='U.S. President Donald Trump gestures, while he boards Air Force One, as he departs for Saudi Arabia, Qatar and the United Arab Emirates, at Joint Base Andrews, in Maryland, U.S. May 12, 2025. REUTERS/'/><p>Donald Trump wants to accept a Qatari jet to replace ageing Air Force One planes, but the constitutionality of it is disputed. Here are the facts.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/trump-qatar-air-force-one-replacement-1.7535798?cmp=rss>
-
----
-
 ## Satchwell told gardaí he had to 'get rid of the memories'
 
 date: 2025-05-15, from: RTÉ News
@@ -351,11 +779,11 @@ A long-awaited report into the Leinster House bike shelter has found there was a
 
 ---
 
-## Cassie reads out 'freak-off' texts during cross-examination in Combs sex trafficking trial
+## Diddy's lawyers focus on Cassie's texts, try to portray her as willing participant in 'freak-offs'
 
 date: 2025-05-15, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7535742.1747322571!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sean-diddy-combs-trial-may-15.JPG' alt='A courtroom sketch of a man in a yellow suit sitting at a desk with his back slightly turned. A man in a dark suit stands to the right of him and a woman in a blue suit stands in front of him, with her back turned. ' width='620' height='349' title='Sean (Diddy) Combs takes notes during the morning arguments in his sex trafficking trial in New York City on May 15 in this courtroom sketch.'/><p>R&B singer Cassie faced cross-examination on Thursday in the Sean (Diddy) Combs sex trafficking trial, in which she was forced to read aloud to a jury her explicit messages with former boyfriend Combs.</p> 
+<img src='https://i.cbc.ca/1.7535742.1747322571!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sean-diddy-combs-trial-may-15.JPG' alt='A courtroom sketch of a man in a yellow suit sitting at a desk with his back slightly turned. A man in a dark suit stands to the right of him and a woman in a blue suit stands in front of him, with her back turned. ' width='620' height='349' title='Sean (Diddy) Combs takes notes during the morning arguments in his sex trafficking trial in New York City on May 15 in this courtroom sketch.'/><p>R&B singer Cassie was forced under cross-examination Thursday to read aloud explicit messages with her former boyfriend Sean (Diddy) Combs, some of which expressed enthusiasm for sex with other men at Combs's behest that she previously testified she "hated doing."</p> 
 
 <br> 
 
@@ -377,7 +805,7 @@ The Irish Dental Association has said State dental schemes have seen effective c
 
 ## UN needed ‘more than ever before’ says Germany’s candidate to head General Assembly
 
-date: 2025-05-15, from: United Nations, Top Stories
+date: 2025-05-15, from: United Nations, UN Affairs
 
 The former Foreign Minister of Germany outlined her vision for the role of UN General Assembly President, pledging to make the world body more effective, inclusive and focused on results.&nbsp; 
 
@@ -389,7 +817,7 @@ The former Foreign Minister of Germany outlined her vision for the role of UN Ge
 
 ## Sudden escalation of trade tensions sends shockwaves through global economy
 
-date: 2025-05-15, from: United Nations, Top Stories
+date: 2025-05-15, from: United Nations, Economic Development
 
 Amid escalating trade tensions and growing policy uncertainties, the global economy stands at a fragile turning point, according to a new report on Thursday from the UN Department of Economic and Social Affairs (UN DESA). 
 
@@ -401,7 +829,7 @@ Amid escalating trade tensions and growing policy uncertainties, the global econ
 
 ## Over 60 per cent of the Arab world still outside the banking system
 
-date: 2025-05-15, from: United Nations, Top Stories
+date: 2025-05-15, from: United Nations, Economic Development
 
 Between 2016 and 2024, the number of Egyptians with a bank account – which experts say is essential for financial inclusion - tripled, from 17.1 million to over 51 million. 
 
@@ -448,6 +876,30 @@ In just two years, between 2019 and 2021, life expectancy worldwide fell by 1.8 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163281>
+
+---
+
+## ‘We are still waiting for our loved ones’: Families of the abducted speak out
+
+date: 2025-05-15, from: United Nations, Top Stories
+
+Two families – one still waiting for answers 75 years after a father was taken during the Korean War, the other pleading for a son’s return from captivity in Gaza – shared their testimonies before the UN Security Council on Thursday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163311>
+
+---
+
+## Gaza: New displacement orders force thousands to flee as famine looms
+
+date: 2025-05-15, from: United Nations, Top Stories
+
+Intensified hostilities continue in the Gaza Strip, bringing further death, displacement and destruction as the weeks-long aid blockade grinds on, the UN humanitarian affairs office (OCHA) said on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163306>
 
 ---
 
@@ -499,11 +951,11 @@ RTÉ 2FM remains the most-listened-to radio station in Ireland among 15 - 34-yea
 
 ---
 
-## US PGA Championship - Day 1 updates
+## US PGA Championship - Day 1 recap
 
 date: 2025-05-15, from: RTÉ News
 
-The second major of the year gets underway at Quail Hollow. Can Rory McIlroy back up his US Masters triumph? The Holywood star is one of five Irish golfers in the field. 
+The second major of the year got underway at Quail Hollow. Tom McKibbin was best of the Irish five on day one. 
 
 <br> 
 
@@ -895,11 +1347,11 @@ Norwegian singer EMMY has represented Ireland at the second semi-final of the 20
 
 ---
 
-## Turkey to hold talks with Russia, Ukraine teams tomorrow
+## Turkey to hold talks with Russia, Ukraine teams
 
 date: 2025-05-14, from: RTÉ News
 
-Talks in Istanbul between Turkey's top diplomat and a Russian delegation have ended with the two sides set to meet again tomorrow with the Ukrainians, a foreign ministry source said. 
+Talks in Istanbul between Turkey's top diplomat and a Russian delegation have ended with the two sides set to meet again with the Ukrainians, a foreign ministry source said. 
 
 <br> 
 
@@ -1401,7 +1853,7 @@ More than 2,200 letters have been sent to parents of children who had dysplasia 
 
 ## In Berlin, broad backing for UN peacekeeping as global threats mount
 
-date: 2025-05-14, from: United Nations, Top Stories
+date: 2025-05-14, from: United Nations, UN Affairs
 
 More than 130 countries and international partners threw their weight behind UN peacekeeping at a high-level ministerial summit in Berlin on Wednesday, pledging military, tech and political support. 
 
@@ -1437,7 +1889,7 @@ More than 40,000 Sudanese have fled to eastern Chad in the past month to escape 
 
 ## 8 million teens in world's wealthiest countries functionally illiterate: UNICEF
 
-date: 2025-05-14, from: United Nations, Top Stories
+date: 2025-05-14, from: United Nations, Culture and Education
 
 Children in many of the world’s wealthiest countries saw marked declines in their academic performance, mental wellbeing, and physical health as a result of the COVID-19 pandemic, according to a new report published by the UN Children’s Fund (UNICEF) on Wednesday. 
 
@@ -3635,7 +4087,7 @@ Gazans remain at “critical risk of famine,” UN-backed&nbsp;food security exp
 
 ## UN chief calls for major reforms to cut costs and improve efficiency
 
-date: 2025-05-12, from: United Nations, Top Stories
+date: 2025-05-12, from: United Nations, UN Affairs
 
 Amid financial strain and growing global challenges, UN Secretary-General António Guterres is pushing for wide-ranging structural reforms to enhance the world body’s effectiveness. 
 

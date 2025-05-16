@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-15 14:07:50
+updated: 2025-05-16 06:11:26
 ---
 
 # craft
 
-(date: 2025-05-15 14:07:50)
+(date: 2025-05-16 06:11:26)
+
+---
+
+## Mind Upon Mind: Reaming & Drilling Leg Mortises Without a Laser
+
+date: 2025-05-16, from: Lost Arg Press blog
+
+Editor’s note: In our new Mind Upon Mind series, we ask readers of our books, blog and Substacks what else they&#8217;ve thought of, tried out and improved on? You can read more about the series here. Today we’re featuring an idea from Sam Robinson. In our books and blog posts, we don’t have the time... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/16/mind-upon-mind-reaming-and-drilling-leg-mortises-without-a-laser/>
 
 ---
 

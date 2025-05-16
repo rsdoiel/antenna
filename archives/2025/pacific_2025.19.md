@@ -1,11 +1,634 @@
 ---
 title: pacific
-updated: 2025-05-15 14:07:43
+updated: 2025-05-16 06:11:19
 ---
 
 # pacific
 
-(date: 2025-05-15 14:07:43)
+(date: 2025-05-16 06:11:19)
+
+---
+
+## Youth vote helps shape Philippine election results amid traditional politics
+
+date: 2025-05-16, from: Pacific Island Times
+
+By Diana G. Mendoza   Manila – The Philippines saw an unprecedented shift in the country’s political environment after the May 12 midterm... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/youth-vote-helps-shape-philippine-election-results-amid-traditional-politics>
+
+---
+
+## Peace breakthrough unlikely as Putin declines to meet Zelenskiy in Turkey
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>ISTANBUL/ANKARA &#8212; Russia&#8217;s Vladimir Putin spurned a challenge to meet face-to-face with Volodymyr Zelenskyy in Turkey on Thursday, instead sending a second-tier delegation to planned peace talks, while Ukraine&#8217;s president said his defence minister would head up Kyiv&#8217;s team.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/peace-breakthrough-unlikely-as-putin-declines-to-meet-zelenskiy-in-turkey/>
+
+---
+
+## Guatemalan national faces deportation after DUI arrest in Kona
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>A Guatemalan national illegally in the U.S. since 2016 likely will be deported after he was arrested for a second time in January for drunken driving in Kailua-Kona without a license or insurance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/hawaii-news/guatemalan-national-faces-deportation-after-dui-arrest-in-kona/>
+
+---
+
+## Baby is healed with world’s first personalized gene-editing treatment
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Something was very wrong with Kyle and Nicole Muldoon&#8217;s baby.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/baby-is-healed-with-worlds-first-personalized-gene-editing-treatment/>
+
+---
+
+## Forecasters predict 1 to 4 tropical cyclones during hurricane season
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>A near- to below-average hurricane season is forecast for Hawaii and the Central Pacific.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/hawaii-news/forecasters-predict-1-to-4-tropical-cyclones-during-hurricane-season-2/>
+
+---
+
+## Staff losses, low morale derailing FEMA hurricane prep
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>The loss of key staff and low morale at the Federal Emergency Management Agency have derailed the agency&#8217;s planning for the June 1 start of hurricane season, according to an internal document seen by Reuters, although the agency chief said on Thursday that FEMA is well prepared.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/staff-losses-low-morale-derailing-fema-hurricane-prep/>
+
+---
+
+## Wisconsin judge accused of obstructing federal agents pleads not guilty
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; The Wisconsin state judge accused of impeding immigration agents at a Milwaukee courthouse last month pleaded not guilty Thursday morning during a brief appearance in federal court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/wisconsin-judge-accused-of-obstructing-federal-agents-pleads-not-guilty/>
+
+---
+
+## Vance to attend Pope Leo’s inaugural Mass, his office says
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President JD Vance will lead a U.S. delegation to attend the inaugural Mass on Sunday of Pope Leo XIV, the first U.S. pontiff, who was critical of President Donald Trump and Vance before taking leadership of the global Roman Catholic Church.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/vance-to-attend-pope-leos-inaugural-mass-his-office-says/>
+
+---
+
+## Supreme Court seems torn over judges’ power in birthright citizenship case
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court wrestled Thursday with the Trump administration&#8217;s complaints that federal judges have exceeded their authority by temporarily blocking some of his policy moves for the whole country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/supreme-court-seems-torn-over-judges-power-in-birthright-citizenship-case/>
+
+---
+
+## DHS requests 20,000 National Guard members to help with immigration crackdown
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Department of Homeland Security has requested more than 20,000 National Guard members to help with the Trump administration&#8217;s immigration crackdown, according to two U.S. officials with knowledge of the plans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/dhs-requests-20000-national-guard-members-to-help-with-immigration-crackdown/>
+
+---
+
+## Florida bans fluoride in public water systems, part of conservative push
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Florida became the second state to ban fluoride in its water supply on Thursday, as use of the mineral used to strengthen teeth increasingly comes under attack from Republicans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/florida-bans-fluoride-in-public-water-systems-part-of-conservative-push/>
+
+---
+
+## Huge ice falls at Argentina’s Perito Moreno glacier stir awe and concern
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>PERITO MORENO GLACIER &#8212; The deep cracking sound bursting from within the ice signals the dramatic fall about to happen. Seconds later, a block of ice some 70 meters (230 ft) tall - the size of a 20-story building - collapses from the face of the Perito Moreno glacier into the aquamarine water below.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/huge-ice-falls-at-argentinas-perito-moreno-glacier-stir-awe-and-concern/>
+
+---
+
+## News in brief for May 16
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Texas woman bought guns for son who was planning school shooting</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/news-in-brief-for-may-16/>
+
+---
+
+## Trump announces $200 billion in deals during UAE visit, AI agreement signed
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>ABU DHABI &#8212; President Donald Trump on Thursday pledged to strengthen U.S. ties to the United Arab Emirates and announced deals with the Gulf state totaling over $200 billion and the two countries also agreed to deepen cooperation in artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/trump-announces-200-billion-in-deals-during-uae-visit-ai-agreement-signed/>
+
+---
+
+## Walmart warns about ability to ‘absorb’ tariff costs without raising prices
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Everyday low prices are going to get a bit steeper.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/walmart-warns-about-ability-to-absorb-tariff-costs-without-raising-prices/>
+
+---
+
+## Colorado air traffic control facility lost contact with some pilots
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>A second air traffic control facility in the United States experienced a 90-second communications outage this week after a series of disruptions raised safety fears and caused long flight delays at Newark Liberty International Airport near New York.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/nation-world-news/colorado-air-traffic-control-facility-lost-contact-with-some-pilots/>
+
+---
+
+## Reservations for bunkhouse, cabins open daily
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Booking a spot for your next camping adventure in the Hilo Forest Reserve just got easier.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/community/reservations-for-bunkhouse-cabins-open-daily/>
+
+---
+
+## Annual Lantern Floating Event is May 25 in Hilo
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Care Choices will host the 21st Annual Celebration of Life Lantern Floating Event from 3 p.m. to 7:45 p.m. on Sunday, May 25, at Reeds Bay Beach Park in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/community/annual-lantern-floating-event-is-may-25-in-hilo/>
+
+---
+
+## ‘Stand Up Hawaii’ rally on Saturday in Hilo
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>The historic Mo&#8216;oheau Bandstand in Hilo on Saturday will host a grassroots mobilization, &#8220;Stand Up Hawaii: A Rally for Democracy.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/community/stand-up-hawaii-rally-on-saturday-in-hilo/>
+
+---
+
+## Big Island Chocolate Festival winners announced
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>It was a triple win for the Fairmont Orchid resort at the recent Big Island Chocolate Festival, taking Best Savory in both the judge&#8217;s and people&#8217;s choice divisions and Best Decorated Booth.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/community/big-island-chocolate-festival-winners-announced/>
+
+---
+
+## Senate confirms Olegeriil for Justice; Udui named Budget Director Amid Ministerial vacancies
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="600" height="698" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?fit=600%2C698&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?resize=258%2C300&amp;ssl=1 258w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?resize=400%2C465&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?fit=600%2C698&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77497" data-permalink="https://islandtimes.org/senate-confirms-olegeriil-for-justice-udui-named-budget-director-amid-ministerial-vacancies/jennifer-olegeriil/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?fit=600%2C698&amp;ssl=1" data-orig-size="600,698" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Jennifer Olegeriil" data-image-description="" data-image-caption="&lt;p&gt;Jennifer Olegeriil&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?fit=258%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil.jpg?fit=600%2C698&amp;ssl=1" /></figure>
+<p>NGERULMUD, Palau (May 13, 2025) – The Senate confirmed Jennifer Olegeriil as Palau’s new Minister of Justice during its second special session this week, ending months of speculation and uncertainty surrounding the position. Olegeriil was nominated in April after the position remained vacant for nearly four months. The Senate had not acted on the nomination [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-confirms-olegeriil-for-justice-udui-named-budget-director-amid-ministerial-vacancies/">Senate confirms Olegeriil for Justice; Udui named Budget Director Amid Ministerial vacancies</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-confirms-olegeriil-for-justice-udui-named-budget-director-amid-ministerial-vacancies/>
+
+---
+
+## Solar Users Are Saving Money While Utility Loses Revenue, PPUC Calls for Law Change
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77492" data-permalink="https://islandtimes.org/solar-users-are-saving-money-while-utility-loses-revenue-ppuc-calls-for-law-change/abandoned-solar-farm/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?fit=1249%2C703&amp;ssl=1" data-orig-size="1249,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1746790339&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;12&quot;,&quot;shutter_speed&quot;:&quot;0.0007&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Abandoned solar farm" data-image-description="" data-image-caption="&lt;p&gt;Abandoned solar farm &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Abandoned-solar-farm.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>Non-solar users may be subsidizing customers using rooftop solar panels, including large commercial operations. &#160;KOROR, Palau (May 16, 2025) — The Palau Public Utilities Corporation (PPUC) is not making money from people using rooftop solar panels, and it wants the law to change. In a letter sent on May 13 to Senator Mark Rudimch, who [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/solar-users-are-saving-money-while-utility-loses-revenue-ppuc-calls-for-law-change/">Solar Users Are Saving Money While Utility Loses Revenue, PPUC Calls for Law Change</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/solar-users-are-saving-money-while-utility-loses-revenue-ppuc-calls-for-law-change/>
+
+---
+
+## Palau backs Japan’s efforts to recover WWII remains from Peleliu, Angaur
+
+date: 2025-05-16, from: Island Times
+
+<p>KOROR, Palau — Palau has reaffirmed its support for Japan’s ongoing efforts to recover the remains of thousands of Japanese soldiers who died during World War II battles on the islands of Peleliu and Angaur. More than 10,000 Japanese troops were killed in the fierce fighting on the two islands. Since then, the Japanese government, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-backs-japans-efforts-to-recover-wwii-remains-from-peleliu-angaur/">Palau backs Japan&#8217;s efforts to recover WWII remains from Peleliu, Angaur</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-backs-japans-efforts-to-recover-wwii-remains-from-peleliu-angaur/>
+
+---
+
+## Ngarchelong Legislators, staff test negative for Methamphetamine
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="1024" height="616" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?fit=1024%2C616&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=300%2C180&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=1024%2C616&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=768%2C462&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=1536%2C923&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=2048%2C1231&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=1200%2C721&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=1568%2C943&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?fit=1024%2C616&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="57857" data-permalink="https://islandtimes.org/ngarchelong-constitutional-amendments-take-effect-immediately/flag_of_ngarchelong-svg-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?fit=2560%2C1539&amp;ssl=1" data-orig-size="2560,1539" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Flag_of_Ngarchelong.svg" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?fit=300%2C180&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Flag_of_Ngarchelong.svg_.png?fit=780%2C469&amp;ssl=1" /></figure>
+<p>&#160;NGARCHELONG — Members of the Ngarchelong State Assembly and their staff have voluntarily tested negative for methamphetamine, also known as “ice,” following drug tests conducted on April 29 and 30, 2025, at the Belau Medical Clinic. The initiative, led by Speaker Abraham Osima and the Ngarchelong General Assembly, came in response to growing concerns about [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngarchelong-legislators-staff-test-negative-for-methamphetamine/">Ngarchelong Legislators, staff test negative for Methamphetamine</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngarchelong-legislators-staff-test-negative-for-methamphetamine/>
+
+---
+
+## Palau will co-organize side events at our ocean conference in France in June
+
+date: 2025-05-16, from: Island Times
+
+<p>Palau is co-organizing a side event at the upcoming third UN Ocean Conference (UNOC), which will take place from June 3 to 13 in Nice, France. The side event, &#8220;Leading by Doing—Three Years of Progress and Meaningful Action Towards 30&#215;30,&#8221; will be held on June 12. Leaders from Palau and the Solomon Islands will co-organize [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-will-co-organize-side-events-at-our-ocean-conference-in-france-in-june/">Palau will co-organize side events at our ocean conference in France in June</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-will-co-organize-side-events-at-our-ocean-conference-in-france-in-june/>
+
+---
+
+## Office of the Public Auditor and Bureau of Domestic Affairs conducts State Validation Activity….
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="682" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?fit=682%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=682%2C1024&amp;ssl=1 682w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=768%2C1154&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=1023%2C1536&amp;ssl=1 1023w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=1200%2C1802&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=780%2C1172&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=400%2C601&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?resize=706%2C1060&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?fit=682%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77478" data-permalink="https://islandtimes.org/office-of-the-public-auditor-and-bureau-of-domestic-affairs-conducts-state-validation-activity/bdapr25-011-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?fit=1249%2C1876&amp;ssl=1" data-orig-size="1249,1876" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;User&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BDAPR25-011-2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BDAPR25-011-2.jpg?fit=682%2C1024&amp;ssl=1" /></figure>
+<p>on Public Financial Management SOP through Local Governance Strengthening Program The Bureau of Domestic Affairs, Ministry of State is mandated by 6 PNC and by Executive Order No. 452 to post and publish laws and regulations for public viewing, and to raise public awareness through dissemination of all government activities and issues through various media [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/office-of-the-public-auditor-and-bureau-of-domestic-affairs-conducts-state-validation-activity/">Office of the Public Auditor and Bureau of Domestic Affairs conducts State Validation Activity&#8230;.</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/office-of-the-public-auditor-and-bureau-of-domestic-affairs-conducts-state-validation-activity/>
+
+---
+
+## Obichang promises completion of new rehabilitation facility within a year
+
+date: 2025-05-16, from: Island Times
+
+<p>KOROR, Palau — Minister of Public Infrastructure and Industries Charles Obichang has assured that the new correctional and rehabilitation facility will be completed within a year, addressing growing safety concerns tied to overcrowding at the existing jail. Obichang&#8217;s statement comes amid heightened anxiety following the escape of three inmates over two days earlier this month. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/obichang-promises-completion-of-new-rehabilitation-facility-within-a-year/">Obichang promises completion of new rehabilitation facility within a year</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/obichang-promises-completion-of-new-rehabilitation-facility-within-a-year/>
+
+---
+
+## PICRC concludes coral spawning training to strengthen reef restoration capacity
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77465" data-permalink="https://islandtimes.org/picrc-concludes-coral-spawning-training-to-strengthen-reef-restoration-capacity/re2500_dsc_8527/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?fit=1249%2C832&amp;ssl=1" data-orig-size="1249,832" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re2500_DSC_8527" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/re2500_DSC_8527.jpg?fit=780%2C519&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) has successfully completed an intensive two-month coral spawning training program held from March to April 2025. The initiative aimed to build local and regional expertise in coral reef restoration, addressing the urgent need for climate-resilient solutions. Led by Dr. Adriana Humanes, a leading expert in coral reproduction, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-concludes-coral-spawning-training-to-strengthen-reef-restoration-capacity/">PICRC concludes coral spawning training to strengthen reef restoration capacity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-concludes-coral-spawning-training-to-strengthen-reef-restoration-capacity/>
+
+---
+
+## BMS students present a science show at Ngaraard Elementary School
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="1024" height="675" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?fit=1024%2C675&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?resize=1024%2C675&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?resize=768%2C506&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?resize=1200%2C791&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?resize=780%2C514&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?resize=400%2C264&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?resize=706%2C465&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?fit=1024%2C675&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77461" data-permalink="https://islandtimes.org/bms-students-present-a-science-show-at-ngaraard-elementary-school/modekngei-ngaraard-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?fit=1249%2C823&amp;ssl=1" data-orig-size="1249,823" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Modekngei. Ngaraard 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?fit=300%2C198&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Modekngei.-Ngaraard-2.jpg?fit=780%2C514&amp;ssl=1" /></figure>
+<p>Students in grades 9 and 10 at Belau Modekngei School presented a science experiment show to students in grades 3-8 at Ngaraard Elementary School. Ms. MIURA Rina has been working at Belau Modekngei School as a JICA Volunteer for Science Education since July 2023.&#160; In February 2024, a science lab was established through a grassroots [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bms-students-present-a-science-show-at-ngaraard-elementary-school/">BMS students present a science show at Ngaraard Elementary School</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bms-students-present-a-science-show-at-ngaraard-elementary-school/>
+
+---
+
+## Bank of Guam announces  new leaders in the islands
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="1024" height="354" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?fit=1024%2C354&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?resize=300%2C104&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?resize=1024%2C354&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?resize=768%2C266&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?resize=1200%2C415&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?resize=780%2C270&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?resize=400%2C138&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?resize=706%2C244&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?fit=1024%2C354&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77457" data-permalink="https://islandtimes.org/bank-of-guam-announces-new-leaders-in-the-islands/bankofguam_pressrelease_bogannouncesnewleadershipintheislands_5-13/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?fit=1249%2C432&amp;ssl=1" data-orig-size="1249,432" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Eric Krause&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?fit=300%2C104&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/BankofGuam_PressRelease_BOGAnnouncesNewLeadershipInTheIslands_5.13.jpg?fit=780%2C270&amp;ssl=1" /></figure>
+<p>Hagåtña, Guam – Bank of Guam, along with its Board of Directors, is proud to announce the following promotions and additions to the Bank of Guam Familia. For over 53 years, Bank of Guam has been guided by a simple but powerful purpose: to serve the people and communities we call home. That commitment is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bank-of-guam-announces-new-leaders-in-the-islands/"> Bank of Guam announces  new leaders in the islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bank-of-guam-announces-new-leaders-in-the-islands/>
+
+---
+
+## New Australian Embassy staff
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="600" height="799" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?fit=600%2C799&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?fit=600%2C799&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77453" data-permalink="https://islandtimes.org/new-australian-embassy-staff-5/aussie-27/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?fit=600%2C799&amp;ssl=1" data-orig-size="600,799" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="aussie" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/aussie.jpg?fit=600%2C799&amp;ssl=1" /></figure>
+<p>15 May 2025 &#8211; The Australian Embassy welcomes the arrival of Ms Camille Pesava, our new Second Secretary. Ms Pesava will work across Australia’s development cooperation program to address the Government of Palau’s priorities. Ms. Pesava joins us from the Australian Department of Foreign Affairs and Trade (DFAT) Office of the Pacific in Canberra, where [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-australian-embassy-staff-5/">New Australian Embassy staff</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-australian-embassy-staff-5/>
+
+---
+
+## Rotary Club of Palau 30 Years of service wine and cheese fundraiser a success!
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="600" height="748" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?fit=600%2C748&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?resize=241%2C300&amp;ssl=1 241w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?resize=400%2C499&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?fit=600%2C748&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77449" data-permalink="https://islandtimes.org/rotary-club-of-palau-30-years-of-service-wine-and-cheese-fundraiser-a-success/wc-press-release-docx/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?fit=600%2C748&amp;ssl=1" data-orig-size="600,748" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;W&amp;C press release.docx&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="W&amp;amp;C press release.docx" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?fit=241%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/WC-press-release.jpg?fit=600%2C748&amp;ssl=1" /></figure>
+<p>On Saturday, May 10, 2025, in a esounding display of community spirit and generosity, the recent Wine and Cheese Fundraiser exceeded all expectations, bringing together residents, local businesses, and supporters for an unforgettable evening and raising over $10,000. Held on the grounds of the Belau National Museum on a beautiful evening, the event combined exquisite [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rotary-club-of-palau-30-years-of-service-wine-and-cheese-fundraiser-a-success/">Rotary Club of Palau 30 Years of service wine and cheese fundraiser a success!</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/rotary-club-of-palau-30-years-of-service-wine-and-cheese-fundraiser-a-success/>
+
+---
+
+## Stop Running. Come out of Hiding!
+
+date: 2025-05-16, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
+<p>How much will trauma and excuses take away from your vibrant life? How long will you hold onto the negativity from your past? Embrace the vibrant glow of positivity around you and let go of the burdens of negativity from your past. Whether it&#8217;s echoes of trauma, challenges that tested your resilience, or personal struggles, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/stop-running-come-out-of-hiding/">Stop Running. Come out of Hiding!</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/stop-running-come-out-of-hiding/>
+
+---
+
+## PNG PM must look deeper at alarming suppression, sackings of journalists, says Pacific media watchdog
+
+date: 2025-05-16, from: Island Times
+
+<p>15 May, 2025 – Pacific Article 19 watchdog, the Pacific Freedom Forum (PFF) has welcomed the call from Papua New Guinea PM James Marape for more information[1]&#160; and facts on the recent sacking of a high profile talk show host connected to his airtime with Opposition MP, Governor Allan Bird. The three-week suspension of FM100 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/png-pm-must-look-deeper-at-alarming-suppression-sackings-of-journalists-says-pacific-media-watchdog/">PNG PM must look deeper at alarming suppression, sackings of journalists, says Pacific media watchdog</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/png-pm-must-look-deeper-at-alarming-suppression-sackings-of-journalists-says-pacific-media-watchdog/>
+
+---
+
+## “We don’t have time to play it safe”: How Palau & Tuvalu are forcing advertising to face the Climate Crisis
+
+date: 2025-05-16, from: Island Times
+
+<p>By Aimee Edwards CAIRNS (BANT.COM.AU) &#8212;“You might as well bomb us, because right now I feel like a toad in boiling water” – Those weren’t the words of an activist or an environmental lobbyist. They came from Surangel S. Whipps, Jr., the sitting President of Palau, speaking directly to the advertising industry at Cairns Crocodiles. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/we-dont-have-time-to-play-it-safe-how-palau-tuvalu-are-forcing-advertising-to-face-the-climate-crisis/">“We don’t have time to play it safe”: How Palau &amp; Tuvalu are forcing advertising to face the Climate Crisis</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/we-dont-have-time-to-play-it-safe-how-palau-tuvalu-are-forcing-advertising-to-face-the-climate-crisis/>
+
+---
+
+## Governor: GovGuam planning for ‘worst case scenario’ in Trump’s 2026 budget
+
+date: 2025-05-16, from: Island Times
+
+<p>HAGATNA (GUAM PACIFIC DAILY NEWS) &#8212;Guam Governor Lou Leon Guerrero on Wednesday said her administration is planning for the “worst case scenario,” given Trump’s proposed fiscal 2026 budget that seeks US$163 billion in federal spending cuts. The governor said, however, that it’s “very hard to plan,” considering the rapidly evolving federal policy shifts and funding [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/governor-govguam-planning-for-worst-case-scenario-in-trumps-2026-budget/">Governor: GovGuam planning for &#8216;worst case scenario&#8217; in Trump&#8217;s 2026 budget</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/governor-govguam-planning-for-worst-case-scenario-in-trumps-2026-budget/>
+
+---
+
+## China criticizes US-UK trade deal, warning agreements shouldn’t ‘target or harm any third party’
+
+date: 2025-05-16, from: Island Times
+
+<p>By&#160;Patrick Martin&#160;with wires In short: (ABC-Australia) Beijing has criticised the US-UK trade deal, saying no agreements should &#8220;target or hinder any third party&#8221;. Clauses targeting supply chain security and provenance are said to deliberately target Chinese goods. What&#8217;s next? Experts say China&#8217;s response is a &#8220;warning&#8221; to other countries who align too closely to the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-criticizes-us-uk-trade-deal-warning-agreements-shouldnt-target-or-harm-any-third-party/">China criticizes US-UK trade deal, warning agreements shouldn&#8217;t &#8216;target or harm any third party&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-criticizes-us-uk-trade-deal-warning-agreements-shouldnt-target-or-harm-any-third-party/>
+
+---
+
+## U.S deep sea mining plan would likely violate international law
+
+date: 2025-05-16, from: Island Times
+
+<p>BANGKOK/WASHINGTON (RFA) &#8212; The Trump administration plan to allow mining of deep-sea metals in the Pacific Ocean would unequivocally violate international law, experts said, making any attempt to sell the minerals – used in batteries, weapons and smartphones – open to challenge by other nations. President Donald Trump last month signed an executive order to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-deep-sea-mining-plan-would-likely-violate-international-law/">U.S deep sea mining plan would likely violate international law</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-deep-sea-mining-plan-would-likely-violate-international-law/>
+
+---
+
+## Federal cuts add fuel to the fire: Guam leaders brace for new debate on BPT 
+
+date: 2025-05-16, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   Gov. Lou Leon Guerrero reiterated—for the nth time— her call for the Guam legislature to sustain the current... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/federal-cuts-drive-new-bpt-debate-on-guam-s>
+
+---
+
+## Fukui named chief of clinical breast oncology at UH Cancer Center
+
+date: 2025-05-16, from: University of Hawaiʻi News
+
+<p>Jami Fukui’s new role will focus on training local oncologists and advancing equitable cancer care across Hawaiʻi.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/15/fukui-chief-of-clinical-breast-oncology/">Fukui named chief of clinical breast oncology at <abbr>UH</abbr> Cancer Center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/15/fukui-chief-of-clinical-breast-oncology/>
+
+---
+
+## Google's CNMI cable set to launch in the first quarter of 2026
+
+date: 2025-05-15, from: Pacific Island Times
+
+Along with Fiji and French Polynesia, the  CNMI and Guam will serve as key nodes on the Pacific Connect Initiative network, which aims to enhance digital connectivity across the Pacific region through advanced submarine cable technology. 
+
+
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/google-s-cnmi-cable-set-to-launch-in-the-first-quarter-of-2026>
+
+---
+
+## President’s report: Federal update, athletic director search, commencement
+
+date: 2025-05-15, from: University of Hawaiʻi News
+
+<p>Hensel shared the latest on international students, immigration enforcement and recognized the remarkable achievements of spring semester sports teams.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/15/may-president-report-2025/">President’s report: Federal update, athletic director search, commencement</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/15/may-president-report-2025/>
+
+---
+
+## Cracking cosmic mysteries earns UH Mānoa physicist international award
+
+date: 2025-05-15, from: University of Hawaiʻi News
+
+<p>The Frontiers of Science Award honors research of exceptional originality, scientific value and lasting impact.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/15/frontiers-of-science-award-sakstein/">Cracking cosmic mysteries earns <abbr>UH</abbr> Mānoa physicist international award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/15/frontiers-of-science-award-sakstein/>
+
+---
+
+## Missile zone broached
+
+date: 2025-05-15, from: Marshal Islands Journal
+
+<p>Journal 5/18/1982 P1 Young vandals break into bottling plantThe TASC bottling plant was broken into May 16 around 10am. The perpetrators were aged from eight to 12 and they caused a great deal of mayhem before the back door of the plant was nailed shut. The police were called and they said they would come [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/missile-zone-broached/">Missile zone broached</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/missile-zone-broached/>
 
 ---
 
@@ -296,6 +919,20 @@ date: 2025-05-15, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/15/nation-world-news/israel-intensifies-gaza-bombardment-kills-80-people-as-trump-visits-gulf/>
+
+---
+
+## Forecasters predict 1 to 4 tropical cyclones during hurricane season
+
+date: 2025-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters with the National Oceanic and Atmospheric Administration&#8217;s Central Pacific Hurricane Center and Climate Prediction today predicted there will be between one and four tropical cyclones in the Central Pacific during hurricane season, which runs from June 1 to Nov. 30.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/15/hawaii-news/forecasters-predict-1-to-4-tropical-cyclones-during-hurricane-season/>
 
 ---
 

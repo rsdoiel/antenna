@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-05-15 14:07:46
+updated: 2025-05-16 06:11:22
 ---
 
 # writing
 
-(date: 2025-05-15 14:07:46)
+(date: 2025-05-16 06:11:22)
 
 ---
 
@@ -133,7 +133,7 @@ date: 2025-05-15, from: Locus Magazine
 
 date: 2025-05-14, from: John August blog
 
-The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: This is episode 686 of Script Notes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, how do writers and the [&#8230;]
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: This is episode 686 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, how do writers and the characters [&#8230;]
 The post <a href="https://johnaugust.com/2025/scriptnotes-episode-686-problem-solving-transcript">Scriptnotes, Episode 686: Problem Solving, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
 <br> 

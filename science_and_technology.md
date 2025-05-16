@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2025-05-15 14:07:43
+updated: 2025-05-16 06:11:20
 ---
 
 # science and technology
 
-(date: 2025-05-15 14:07:43)
+(date: 2025-05-16 06:11:20)
+
+---
+
+## Microsoft proposes sweeping global concessions to Teams for up to a decade
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Beast of Redmond runs scared from EC antitrust cops half decade after rivals complained</h4> <p>Microsoft is offering to make a series of concessions for up to ten years to pacify European Commission antitrust regulators. This follows protests from users that tying Teams with its biz productivity applications hinders competition.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/microsoft_proposes_sweeping_global_concessions/>
+
+---
+
+## AWS says Britain needs more nuclear power to feed AI datacenter surge
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>CEO warns energy demands will overwhelm grid without extra generation capacity</h4> <p>The UK needs more nuclear energy generation just to power all the AI datacenters that are going to be built, according to the head of Amazon Web Services (AWS).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/amazon_nuclear_power_britain/>
+
+---
+
+## “TCF” cookie consent popups violate GDPR; OSNews wants to stop using cookie popups too once we get enough Patreons
+
+date: 2025-05-16, from: OS News
+
+You may not have heard of the &#8220;Transparency &#38; Consent Framework&#8221;, but you&#8217;ve most likely interacted with it, probably on a daily basis. The TCF is used by 80% of the internet to obtain &#8220;consent&#8221; from users to collect their data and share it among advertisers &#8211; you know, the cookie popups. In a landmark EU ruling yesterday, the TCF has been declared to violate the GDPR, making it illegal. For seven years, the tracking industry has used the TCF as a legal cover for Real-Time Bidding (RTB), the vast advertising auction system that operates behind the scenes on websites and apps. RTB tracks what Internet users look at and where they go in the real world. It then continuously broadcasts this data to a host of companies, enabling them to keep dossiers on every Internet user. Because there is no security in the RTB system it is impossible to know what then happens to the data. As a result, it is also impossible to provide the necessary information that must accompany a consent request. ↫ Irish Council for Civil Liberties It&#8217;s no secret that cookie consent popups do not actually comply with the GDPR, and that they are not even necessary if you simply don&#8217;t do any cross-site sharing of personal information. It seems that this ruling confirms this in a legal sense, forcing the advertising industry to come up with a new, better system. On top of that, every individual company that participated in this scheme is now liable for fines and damages. Complaints coordinated by Johnny Ryan, Director of Enforce at the Irish Council for Civil Liberties, prompted the ruling. He said: Today&#8217;s court&#8217;s decision shows that the consent system used by Google, Amazon, X, Microsoft, deceives hundreds of millions of Europeans. The tech industry has sought to hide its vast data breach behind sham consent popups. Tech companies turned the GDPR into a daily nuisance rather than a shield for people. ↫ Irish Council for Civil Liberties The problem here is not so much the clarity of applicable laws and regulations, but the cost and effectiveness of enforcement. If it takes years of expensive and complex legal proceedings to bring a company that violates the GDPR to heel, is it really an effective legal framework? Especially when you take into account just how many companies, big and small, there are that violate the GDPR? OSNews uses a cookie popup and displays advertising, something we have to do to gain a little bit of extra income &#8211; but I&#8217;m not happy about it. Our ads don&#8217;t provide us with much income, perhaps about €150-200, but that&#8217;s still a decent enough chunk of our income pie that we need it. I would greatly prefer we turn off these ads altogether, but in order to be able to afford that, we&#8217;d need to up our Patreon income. OSNews Patreons get an ad-free version of OSNews. That&#8217;s a long and slow process, especially with the current economic uncertainty making people reconsider their expenses. Disabling our ads altogether for everyone once we&#8217;re fully reader-funded is still my end goal, but until the world around us settles down a bit, that&#8217;s a little while off. If you want to speed this process up &#8211; you can become an OSNews Patreon and enjoy an ad-free OSNews today. 
+
+<br> 
+
+<https://www.osnews.com/story/142379/tcf-cookie-consent-popups-violate-gdpr-osnews-wants-to-stop-using-cookie-popups-too-once-we-get-enough-patreons/>
+
+---
+
+## Good luck to Atos' 7th CEO and its latest biz transformation
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>We suspect Philippe Salle will need it, not to mention staff and customers</h4> <p>If at first you don&#39;t succeed, transform, transform, and transform again is the corporate motto at Atos these days. The lumbering French-based megacorp has created another blueprint to return to its glory days, and it includes job cuts, offshoring and... AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/atos_transformation_7/>
+
+---
+
+## Hubble Captures Cotton Candy Clouds
+
+date: 2025-05-16, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features a sparkling cloudscape from one of the Milky Way’s galactic neighbors, a dwarf galaxy called the Large Magellanic Cloud. Located 160,000 light-years away in the constellations Dorado and Mensa, the Large Magellanic Cloud is the largest of the Milky Way’s many small satellite galaxies. This view of dusty […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-cotton-candy-clouds/>
+
+---
+
+## How sticky notes saved 'the single biggest digital program in the world'
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Success of UK&#39;s Universal Credit has lessons for government IT projects, former minister claims</h4> <p>Former UK government minister Sir Iain Duncan Smith has told a committee of MPs that the digitization of Universal Credit is a success story other government departments can learn from.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/universal_credit_commons_committee/>
+
+---
+
+## NASA X-59’s Latest Testing Milestone: Simulating Flight from the Ground
+
+date: 2025-05-16, from: NASA breaking news
+
+NASA’s X-59 quiet supersonic research aircraft successfully completed a critical series of tests in which the airplane was put through its paces for cruising high above the California desert – all without ever leaving the ground. “The idea behind these tests is to command the airplane&#8217;s subsystems and flight computer to function as if it [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/x-59-aluminum-bird/>
+
+---
+
+## UK government overrules local council’s datacenter refusal on Green Belt land
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>DPM signs off 96MW bit barn, citing national policy shift</h4> <p>The British government has stepped in to overturn a local council&#39;s refusal of a proposed datacenter on green belt land, citing updated national planning policy that urges councils to find space for bit barns, labs, gigafactories, and other strategic infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/uk_overrules_local_council_approve_datacenter/>
+
+---
+
+## Some English hospitals doubt Palantir's utility: We'd 'lose functionality rather than gain it'
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>After UK spends hundreds of millions, several say existing systems are better</h4> <p>English hospitals are voicing their concern about the functionality provided by Palantir, the US spy-tech firm that <a target="_blank" href="https://www.theregister.com/2023/11/22/palantir_wins_nhs_contract/">won</a> a £330 million ($437 million) deal to run the Federated Data Platform for NHS England, as around a third of trusts go live on the system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/nhs_hospitals_palantir/>
+
+---
+
+## Rust celebrates ten year anniversary with Rust 1.87.0 release
+
+date: 2025-05-16, from: OS News
+
+I generally don&#8217;t pay attention to the releases of programming languages unless they&#8217;re notable for some reason or another, and I think this one qualifies. Rust is celebrating its ten year anniversary with a brand new release, Rust 1.87.0. This release adds anonymous pipes to the standard library, inline assembly can now jump to labeled blocks in Rust code, and support for the i586 Windows target has been removed. Considering Windows 7 was the last Windows version to support i586, I&#8217;d say this is fair. You can update to the new version using the rustup command, or wait until your operating system adds it to its repository if you&#8217;re using a modern operating system. 
+
+<br> 
+
+<https://www.osnews.com/story/142377/rust-celebrates-ten-year-anniversary-with-rust-1-87-0-release/>
+
+---
+
+## Dilettante dev wrote rubbish, left no logs, and had no idea why his app wasn't working
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Self-taught coders who work in HR and have a doctorate in English tend to do that</h4> <p><strong>On Call</strong>  Bosses often ask IT pros to clean up messes made by amateurs, and in this week&#39;s On Call – <i>The Register</i>&#39;s reader-contributed tech support column – we have just such a tale to tell.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/on_call/>
+
+---
+
+## Jilted AWS reckons VMware is now crusty like a mainframe
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Gives both platforms the ‘generative AI will freshen it up and shift it to the cloud’ treatment</h4> <p>In 2017 Amazon Web Services and VMware were best buddies as they launched a combined cloud service. In 2025 AWS is dismissing Virtzilla as a legacy outfit that needs to be re-platformed to the cloud ASAP before it sinks your business.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/aws_vmware_mainframe_ai_transformation/>
+
+---
+
+## Sci-fi author Neal Stephenson wants AIs fighting AIs so those most fit to live with us survive
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Fears surrendering to GenAI makes humans less competitive</h4> <p>Science fiction author Neal Stephenson has suggested AIs should be allowed to fight other AIs, because evolution brings balance to ecosystems, but also thinks humans should stop using AI before it dumbs down our species.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/neal_stephenson_ai_evolution/>
+
+---
+
+## Microsoft blows deadline for special Azure for EU hosters
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Lawyers prepare to get suited and booted if &#39;Plan B&#39; to address unfair competition claims is a no show</h4> <p>Microsoft has failed to deliver a special version of Azure for EU cloud providers on time, raising the specter of legal action if it is unable to devise a &#34;commercially equivalent solution&#34; in less than two months&#39; time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/cispe_and_microsoft_abandon_dreams/>
+
+---
+
+## Trump says he has a problem if Apple builds iThings in India
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Cupertino&#39;s plan to spend $500bn stateside wasn’t enough to placate the tycoon of tariffs</h4> <p>US president Donald Trump has told Apple CEO Tim Cook he has a problem with his plan to manufacture iThings in India.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/trump_apple_india_warning/>
+
+---
+
+## Scammers are deepfaking voices of senior US government officials, warns FBI
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>They&#39;re smishing, they&#39;re vishing</h4> <p>The FBI has warned that fraudsters are impersonating &#34;senior US officials&#34; using deepfakes as part of a major fraud campaign.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/fbi_deepfake_us_government_warning/>
+
+---
+
+## DoorDash scam used fake drivers, phantom deliveries to bilk $2.59M
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Entire process took less than five minutes, prosecutors say</h4> <p>A former DoorDash driver has pleaded guilty to participating in a $2.59 million scheme that used fake accounts, insider access to reassign orders, and bogus delivery reports to trigger payouts for food that was never delivered.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/exdoordash_driver_scam/>
+
+---
+
+## NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>Failure could&#39;ve triggered a small explosion</h4> <p>NASA has revived a set of thrusters on the nearly 50-year-old Voyager 1 spacecraft after declaring them inoperable over two decades ago. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/>
+
+---
+
+## Accessibility on Linux sucks, but GNOME and KDE are making progress
+
+date: 2025-05-15, from: OS News
+
+Accessibility in the software world is a problem in general, but it&#8217;s an even bigger problem on open source desktops, as painfully highlighted by this excellent article detailing the utterly broken state of accessibility on Linux. Reading the article is soul-crushing as it starts to dawn on you just how bad the situation really is for those among us who require accessibility features, making it virtually impossible for them to switch to Linux. This obviously has to change, and it just so happens that both on the GTK/GNOME and KDE side, recent work on accessibility has delivered some valuable results. Starting with GTK and GNOME, the framework has recently merged the AccessKit backend with GTK 4.18, which enables accessibility features when running GTK applications on Windows and macOS. On Linux, GTK still defaults to at-spi, but I&#8217;m sure this will change eventually too. Another major improvement are the special keyboard shortcuts normally provided by the screen reader Orca. Support for these was in the works for a while but incomplete, but now this work has been completed, and the new shortcuts ship as part of GNOME 48. Accessibility support for GNOME Web has been greatly improved as well, and Elevado is a new tool that shows you what applications expose on the a11y bus. There&#8217;s a ton additional, smaller changes too. On the KDE side, a number of accessibility improvements have been implemented as part of the project&#8217;s goal to improving input handling. You can now use the numerical pad&#8217;s arrow keys to move the mouse cursor, there&#8217;s a new 3-finger gesture to invoke the desktop zoom accessibility feature, keyboard navigation in general has been improved in a wide variety of places in KDE, and a whole bunch more improvements. In addition, a number of financial grants have been given to developers working on accessibility in KDE, such as a project to make file management-related features &#8211; think open/save dialogs, Dolphin, and so on &#8211; fully accessibly, and projects to make touchpad and screen gestures fully customisable. Accessibility is never really &#8220;done&#8221; or &#8220;perfect&#8221;, but there&#8217;s definitely an increasing awareness among the two major open source desktops of just how important it is. A few confounding factors &#8211; like the switch to Wayland or the complicated history of audio on Linux &#8211; have actually hurt accessibility, and it&#8217;s only now that things are starting to look up again. However, as anyone with reduced vision or auditory problems can tell you, Linux and the open source desktop still has a very long way to go. 
+
+<br> 
+
+<https://www.osnews.com/story/142373/accessibility-on-linux-sucks-but-gnome-and-kde-are-making-progress/>
+
+---
+
+## Top Prize Awarded in Lunar Autonomy Challenge to Virtually Map Moon’s Surface
+
+date: 2025-05-15, from: NASA breaking news
+
+NASA named Stanford University of California winner of the Lunar Autonomy Challenge, a six-month competition for U.S. college and university student teams to virtually map and explore using a digital twin of&#160;NASA&#8217;s In-Situ Resource Utilization Pilot Excavator (IPEx).&#160; The winning team successfully demonstrated the design and functionality of their autonomous agent, or software that performs [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/>
+
+---
+
+## Anthropic’s law firm throws Claude under the bus over citation errors in court filing
+
+date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+
+<h4>AI footnote fail triggers legal palmface in music copyright spat</h4> <p>An attorney defending AI firm Anthropic in a copyright case brought by music publishers apologized to the court on Thursday for citation errors that slipped into a filing after using the biz&#39;s own AI tool, Claude, to format references.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/15/anthopics_law_firm_blames_claude_hallucinations/>
 
 ---
 
@@ -133,7 +385,7 @@ The international mission collects two-dimensional views of smaller waves and cu
 
 date: 2025-05-15, from: NASA breaking news
 
-Noctilucent or night-shining clouds are rare, high-altitude clouds that glow with a blue silvery hue at dusk or dawn when the sun shines on them from below the horizon. These ice clouds typically occur near the north and south poles but are increasingly being reported at mid- and low latitudes. Observing them helps scientists better […] 
+Noctilucent or night-shining clouds are rare, high-altitude clouds that glow with a blue silvery hue at dusk or dawn when the Sun shines on them from below the horizon. These ice clouds typically occur near the North and South Poles but are increasingly being reported at mid- and low latitudes. Observing them helps scientists better […] 
 
 <br> 
 
@@ -755,7 +1007,7 @@ Saturn’s moon Titan is an intriguing world cloaked in a yellowish, smoggy haze
 
 ## Europe plots escape hatch from the enshittification of search
 
-date: 2025-05-14, updated: 2025-05-14, from: The Register (UK I.T. News)
+date: 2025-05-14, updated: 2025-05-16, from: The Register (UK I.T. News)
 
 <h4>Plus: How to make Google less unhelpful</h4> <p>As search engines are intentionally made worse, and software grows ever bigger and more complex, a possibly unexpected ally emerges: the European Union.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

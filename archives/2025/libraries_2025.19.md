@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-15 14:07:47
+updated: 2025-05-16 06:11:23
 ---
 
 # libraries
 
-(date: 2025-05-15 14:07:47)
+(date: 2025-05-16 06:11:23)
+
+---
+
+## Language Evolves, or rather, Constantly Cooks New Ways to Pass the Vibe Check
+
+date: 2025-05-16, from: Scholarly Kitchen
+
+<p>A millennial linguist dares to speak to a gen-alpha audience in their native tongue.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/16/language-evolves-or-rather-constantly-cooks-new-ways-to-pass-the-vibe-check/">Language Evolves, or rather, Constantly Cooks New Ways to Pass the Vibe Check</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/16/language-evolves-or-rather-constantly-cooks-new-ways-to-pass-the-vibe-check/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-15 14:07:47
 
 date: 2025-05-15, from: Association of Research Libraries News
 
-<p>Last Updated on May 15, 2025, 5:01 pm ET   Recently I was asked to introduce and facilitate a session on web accessibility and repositories for accessible scholarly works. As...</p>
+<p>Last Updated on May 15, 2025, 5:11 pm ET Recently I was asked to introduce and facilitate a session on web accessibility and repositories for accessible scholarly works. As I...</p>
 <p>The post <a href="https://www.arl.org/blog/the-importance-of-the-european-accessibility-act-to-canada-and-the-united-states/">The Importance of the European Accessibility Act to Canada and the United States</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

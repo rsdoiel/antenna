@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-05-15 14:07:48
+updated: 2025-05-16 06:11:25
 ---
 
 # retro computing
 
-(date: 2025-05-15 14:07:48)
+(date: 2025-05-16 06:11:25)
+
+---
+
+## Oberon for PICO RP2040 (and PICO 2 RP2350)
+
+date: 2025-05-16, from: Hans Otten's Pascal for small machines
+
+Oberon is till alive. Chris Burrows of Astrobe has maintained and added a lot to his Oberon compilers. New are support for the Raspberry Pi PICO and PICO2 See also the Oberon RTK site, a real time kernel written in Oberon for the PICO. 
+
+<br> 
+
+<http://pascal.hansotten.com/2025/05/16/oberon-for-pico-rp2040-and-pico-2-rp2350/>
+
+---
+
+## Rougol May 2025 meeting on monday
+
+date: 2025-05-16, from: Icon Bar, RISC OS News
+
+The May 2025 Rougol meeting is on Monday 19th May. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2197.html>
+
+---
+
+## b.log 2025/05/15 - Eurovision 2025 Semi Final 2.
+
+date: 2025-05-15, from: Richard Murray's blog
+
+Eurovision 2025 Semi Final 2. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250515>
 
 ---
 

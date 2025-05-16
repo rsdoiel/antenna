@@ -1,11 +1,213 @@
 ---
 title: columns
-updated: 2025-05-15 14:07:45
+updated: 2025-05-16 06:11:21
 ---
 
 # columns
 
-(date: 2025-05-15 14:07:45)
+(date: 2025-05-16 06:11:21)
+
+---
+
+## Vibe coding, creativity, craft and professionalism… are we making ourselves redundant? Live on stage!
+
+date: 2025-05-16, from: Chris Heilmann's blog
+
+Join me in Gdansk in Poland on the 27th of May for Infoshare to present what I already covered in print in the German AI magazine and on the WeAreDevelopers Magazzine: Vibe coding, creativity, craft and professionalism&#8230; are we making ourselves redundant? 
+
+<br> 
+
+<https://christianheilmann.com/2025/05/16/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-live-on-stage/>
+
+---
+
+## Leeks and leaks
+
+date: 2025-05-16, from: Daniel Stenberg Blog
+
+On the completely impossible situation of blocking the Tor .onion TLD to avoid leaks, but at the same time not block it to make users able to do what they want. dot-onion leaks The onion TLD is a Tor specific domain that does not mean much to the world outside of Tor. If you try &#8230; <a href="https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/" class="more-link">Continue reading <span class="screen-reader-text">Leeks and leaks</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/>
+
+---
+
+## Notes from the Front Line 
+
+date: 2025-05-16, from: Robert Reich's blog
+
+Of the Anti-Trump, Pro-Democracy Movement 
+
+<br> 
+
+<https://robertreich.substack.com/p/notes-from-the-front-line>
+
+---
+
+## May 15, 2025 (Thursday)
+
+date: 2025-05-16, from: Heather Cox Richardson blog
+
+Perhaps in frustration, this season&#8217;s writers of the saga of American history are making their symbolism increasingly obvious. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-15-2025-thursday>
+
+---
+
+## Detecting malicious Unicode
+
+date: 2025-05-16, from: Daniel Stenberg Blog
+
+In a recent educational trick, curl contributor James Fuller submitted a pull-request to the project in which he suggested a larger cleanup of a set of scripts. In a later presentation, he could show us how not a single human reviewer in the team nor any CI job had spotted or remarked on one of &#8230; <a href="https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/" class="more-link">Continue reading <span class="screen-reader-text">Detecting malicious Unicode</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/>
+
+---
+
+## ★ 15 Years Later: ‘Very Insightful and Not Negative’
+
+date: 2025-05-16, updated: 2025-05-16, from: Daring Fireball
+
+So, what would *you* do if Steve Jobs was quoted in a viral blog post saying, “We think «*Your Name Here*»’s post is very insightful and not negative”? I decided to just sit there with a smug look on my face for a few days. 
+
+<br> 
+
+<https://daringfireball.net/2025/05/15_years_later_very_insightful_and_not_negative>
+
+---
+
+## Friday 16 May, 2025
+
+date: 2025-05-15, from: John Naughton's online diary
+
+Lake view Killarney, sometimes known as &#8220;Ireland’s Lake District”. Quote of the Day ”A page digested is better than a volume hurriedly read.” Thomas Macaulay Well, up to a point, Lord Copper (as Evelyn Waugh might have said). Musical alternative &#8230; <a href="https://memex.naughtons.org/friday-16-may-2025/40828/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-16-may-2025/40828/>
+
+---
+
+##  A Roundup of Things Wearing Other Things 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/a-roundup-of-things-wearing-other-things>
+
+---
+
+## The Unthinkable is Now on The Table
+
+date: 2025-05-15, from: Dan Rather's Steady
+
+White House aide suggests Trump wants to suspend due process 
+
+<br> 
+
+<https://steady.substack.com/p/the-unthinkable-is-now-on-the-table>
+
+---
+
+## The Process That’s Due
+
+date: 2025-05-15, from: Robert Reich's blog
+
+Four things you should know 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-process-thats-due>
+
+---
+
+##  What It&#8217;s Like to Be a Professional Card Counter. &#8220;Suddenly, I get... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046858-what-its-like-to-be>
+
+---
+
+## Yours Truly With Nilay Patel on ‘Decoder’
+
+date: 2025-05-15, updated: 2025-05-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/decoder-podcast-with-nilay-patel/664802/apple-app-store-iphone-ios-fortnite-epic-games-lawsuit>
+
+---
+
+## RevenueCat Report Suggests In-App Purchases Perform Noticeably Better Than Link-Outs to the Web
+
+date: 2025-05-15, updated: 2025-05-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.revenuecat.com/blog/growth/iap-vs-web-purchases-conversion-test/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-15, from: Dave Winer's Scripting News)
+
+How feeds <a href="https://daveverse.org/2025/05/15/how-feeds-work-in-wordland/">work</a> in WordLand. 
+
+<br> 
+
+<http://scripting.com/2025/05/15.html#a212841>
+
+---
+
+## Andy Allen on the App Store’s Feature Stagnation
+
+date: 2025-05-15, updated: 2025-05-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.threads.com/@asallen/post/DJPLWZ-NwPZ>
+
+---
+
+##  Typically interesting thoughts about AI from Neal Stephenson. &#8220;I see parallels between... 
+
+date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046864-typically-interesting-tho>
+
+---
+
+## ★ That EU App Store Warning About External Purchases Is Not New, and Apple Proposed Improving It Nine Months Ago
+
+date: 2025-05-15, updated: 2025-05-16, from: Daring Fireball
+
+Apple proposed a much less objectionable “external payments” disclosure in August, but claims that the EC told them not to implement it. 
+
+<br> 
+
+<https://daringfireball.net/2025/05/that_eu_app_store_warning_about_external_purchases_is_not_new>
 
 ---
 
@@ -517,7 +719,7 @@ date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
 
 date: 2025-05-15, from: Doc Searls (at Harvard), New Old Blog
 
-A good sign. Ever hear of TCF, or the Transparency &#38; Consent Framework? The TCF is how sites and services can obey the letter of the GDPR&#39;s law, while screwing its spirt. It does that with those annoying consent notices that interrupt your experience of seemingly every site you visit, recording &#34;your choices&#34; God knows [&#8230;] 
+Classic HBO. Seems HBO&#39;s rebrand as Max is something of a fail. The app re-rebrand is HBO Max. A good sign. Ever hear of TCF, or the Transparency &#38; Consent Framework? The TCF is how sites and services can obey the letter of the GDPR&#39;s law, while screwing its spirt. It does that with those [&#8230;] 
 
 <br> 
 

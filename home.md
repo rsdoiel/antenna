@@ -1,11 +1,67 @@
 ---
 title: home
-updated: 2025-05-15 14:07:48
+updated: 2025-05-16 06:11:24
 ---
 
 # home
 
-(date: 2025-05-15 14:07:48)
+(date: 2025-05-16 06:11:24)
+
+---
+
+## April in Jacques’ food garden
+
+date: 2025-05-16, from: Greg Alder's blog, Yard Post
+
+<p>Walk around with me as Jacques points out what is ripe to eat in his garden full of treats in April. Maybe you would like to be able to snack on these in your yard. And of course, we take a few detours along the way: What companions to plant around a new fruit tree? [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/april-in-jacques-food-garden/">April in Jacques&#8217; food garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/april-in-jacques-food-garden/>
+
+---
+
+## How to Propagate Blueberry Bushes
+
+date: 2025-05-16, from: The Gardener's Path
+
+<p>Are you eager to expand your blueberry patch? You could go to a nursery and buy potted plants, but why not try propagating your own? You can do this by taking cuttings, collecting and sowing seeds, via layering, or transplanting suckers Learn how to propagate your own blueberry plants using these methods. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/propagate-blueberries/">How to Propagate Blueberry Bushes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/propagate-blueberries/>
+
+---
+
+## How to Grow Stock: A Cottage Garden Staple
+
+date: 2025-05-16, from: The Gardener's Path
+
+<p>Are you looking for a flower that evokes images of Victorian ladies with parasols in their cottage gardens? One that adds rich color and fragrance to beds and borders? Matthiola incana, commonly called stock, is the perfect choice. Learn all about this timeless classic and how to grow it in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/stock-cottage-garden-staple/">How to Grow Stock: A Cottage Garden Staple</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/stock-cottage-garden-staple/>
+
+---
+
+## 13 of the Best Lima and Butter Bean Cultivars to Grow in Your Garden
+
+date: 2025-05-16, from: The Gardener's Path
+
+<p>From baby limas to towering ‘King of the Garden,’ you’ll find 13 of the best butter bean and lima bean cultivars to grow in your garden right here. Some are bush varieties, others top 10 feet tall and need support. A few picks are heirloom standouts, and some produce extra early for those with short growing seasons.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-lima-bean-cultivars/">13 of the Best Lima and Butter Bean Cultivars to Grow in Your Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-lima-bean-cultivars/>
 
 ---
 
@@ -186,6 +242,18 @@ date: 2025-05-15, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/herbs/transplant-bay-laurel/>
+
+---
+
+## This Is the Official Drink of the Summer (and It’s Highly Polarizing)
+
+date: 2025-05-15, from: Sunset Magazine - Living in the West
+
+Creators on TikTok have announced that spicy sauvignon blanc, or sauvignon blanc with jalapenos is the drink of the summer. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/jalapeno-sauvignon-blanc>
 
 ---
 

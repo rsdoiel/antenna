@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2025-05-15 14:07:49
+updated: 2025-05-16 06:11:26
 ---
 
 # food
 
-(date: 2025-05-15 14:07:49)
+(date: 2025-05-16 06:11:26)
+
+---
+
+## Coffea Canephora (AKA Robusta) Finally Gets A Flavor Wheel
+
+date: 2025-05-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A total of 103 flavor descriptors exist on the wheel. 
+
+<br> 
+
+<https://sprudge.com/coffea-canephora-aka-robusta-finally-gets-a-flavor-wheel-337410.html>
+
+---
+
+## The C Market Just Got Less Confusing Thanks to Futures.Coffee
+
+date: 2025-05-16, from: The Fresh Cup
+
+<p>The coffee industry hinges on the C Market, which sets benchmarks for coffee prices—but can be difficult for many to understand. A new website called Futures.Coffee hopes to change that. </p>
+<p>The post <a href="https://freshcup.com/the-c-market-just-got-less-confusing-thanks-to-futures-coffee/">The C Market Just Got Less Confusing Thanks to Futures.Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-c-market-just-got-less-confusing-thanks-to-futures-coffee/>
+
+---
+
+## Spicy Salmon Bowls and More Recipes We Made This Week
+
+date: 2025-05-16, from: Bon Appetet
+
+Like chicken with tomatoes and rhubarb crumb bars. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-may-2025>
+
+---
+
+## Which Tequila Is Best? A Taste Test of Patrón, Terremana, Casamigos and more
+
+date: 2025-05-16, from: Bon Appetet
+
+We sipped 16 blanco tequila brands to help you build a better bar. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-tequila-taste-test>
+
+---
+
+## Buffalo Chicken Chili Recipe (Award Winner!)
+
+date: 2025-05-16, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/buffalo-chicken-chili/" title="Buffalo Chicken Chili Recipe (Award Winner!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large bowl of spicy Buffalo Chicken Chili with blue cheese crumbles on top" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Buffalo-Chicken-Chili-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This buffalo chicken chili recipe is spicy, hearty, and award-winning, loaded with bold buffalo flavor, tender chicken, and just the right amount of heat. It's so easy to make! Plus you can make a creamy version.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/buffalo-chicken-chili/">Buffalo Chicken Chili Recipe (Award Winner!)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/buffalo-chicken-chili/>
+
+---
+
+## The Best Olive Oil Subscriptions (2025)
+
+date: 2025-05-15, from: Bon Appetet
+
+Give yourself the gift of quality olive oil on demand. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-olive-oil-subscriptions>
 
 ---
 
@@ -249,7 +325,7 @@ date: 2025-05-14, from: The Sprudge
 
 date: 2025-05-14, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/halal-cart-chicken/" title="Halal Chicken Recipe (Halal Cart Style)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="(Halal Cart Style Chicken on a serving plate with yellow rice, simple salad, drizzled with Halal white sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Juicy Halal Chicken Recipe made New York Halal Cart Style, with seasoned chicken, yellow rice, fresh salad, and creamy white sauce, a street food favorite!</p>
+<a href="https://www.chilipeppermadness.com/recipes/halal-cart-chicken/" title="Halal Chicken Recipe (Halal Cart Style)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="(Halal Cart Style Chicken on a serving plate with yellow rice, simple salad, drizzled with Halal white sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Halal-Chicken-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Juicy Halal Chicken Recipe made New York Halal Cart Style, with seasoned chicken, yellow rice, fresh salad, and creamy white sauce, a street food favorite!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/halal-cart-chicken/">Halal Chicken Recipe (Halal Cart Style)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -284,18 +360,6 @@ date: 2025-05-13, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/pop-tarts-ice-cream-sandwiches/>
-
----
-
-## What Is the Best Tequila? A Taste Test of Patrón, Teremana, Casamigos, and More
-
-date: 2025-05-13, from: Bon Appetet
-
-We sipped 16 blanco tequila brands to help you build a better bar. 
-
-<br> 
-
-<https://www.bonappetit.com/story/best-tequila-taste-test>
 
 ---
 

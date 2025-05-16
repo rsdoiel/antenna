@@ -1,11 +1,85 @@
 ---
 title: north america
-updated: 2025-05-15 14:07:41
+updated: 2025-05-16 06:11:17
 ---
 
 # north america
 
-(date: 2025-05-15 14:07:41)
+(date: 2025-05-16 06:11:17)
+
+---
+
+## Travel Day #2
+
+date: 2025-05-16, from: The Contrarian
+
+Jen visits Val&#232;ncia! 
+
+<br> 
+
+<https://contrarian.substack.com/p/travel-day-2>
+
+---
+
+##  The Secret History Behind Trump’s Big, Beautiful Tax Bill 
+
+date: 2025-05-16, from: The Lever News
+
+ As Trump’s contentious tax-cut megabill moves forward, explore the untold story of how the anti-tax movement took over the country.  
+
+<br> 
+
+<https://www.levernews.com/the-secret-history-behind-trumps-big-beautiful-tax-bill/>
+
+---
+
+## Evening Roundup, May 15
+
+date: 2025-05-15, from: The Contrarian
+
+Featuring *The Tea with April Ryan*, Mimi Rocah, Meredith Blake, Olivia Julianna, Jeff Nesbit, Pasha Dashtgard & Jen Rubin, Brian O'Neill, and Heather Boushey 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-15>
+
+---
+
+## The Tea With April Ryan
+
+date: 2025-05-15, from: The Contrarian
+
+Marc Morial and April Ryan are serving up so much policy and econ tea, they don&#8217;t just spill it&#8212;they knock the pot over. Catch April every Thursday at 5pm ET on Substack. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-tea-with-april-ryan>
+
+---
+
+## What's Happening at the Supreme Court?
+
+date: 2025-05-15, from: The Contrarian
+
+Our friends Harry Litman and Steve Vladeck cut through the noise to share the complexities of what went down today at our highest court in the land 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163662311/0d7dc9e36535b6368ff4c1cd516c1890.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163662311/0d7dc9e36535b6368ff4c1cd516c1890.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/whats-happening-at-the-supreme-court>
+
+---
+
+##  Senators Probe Cash Funneled To Trump IRS Nominee 
+
+date: 2025-05-15, from: The Lever News
+
+ Citing The Lever’s reporting, top Senate Dems say “unusually timed contributions” to Trump’s stalled IRS nominee Billy Long “potentially violate federal bribery laws.”  
+
+<br> 
+
+<https://www.levernews.com/senators-probe-cash-funneled-to-trump-irs-nominee/>
 
 ---
 

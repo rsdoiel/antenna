@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-05-15 14:07:48
+updated: 2025-05-16 06:11:24
 ---
 
 # motorcycles
 
-(date: 2025-05-15 14:07:48)
+(date: 2025-05-16 06:11:24)
+
+---
+
+## This Oddball Electric Scooter Is More Than Just a Throwback
+
+date: 2025-05-16, from: Ride Apart, Electric Motorcycle News
+
+It’s a legitimate successor to the Cold War-era Simson Schwalbe KR51. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759629/e-schwalbe-electric-scooter-specs-price/>
+
+---
+
+## KTM Just Recalled Over 20,000 Dirt Bikes for a Major Crash Hazard
+
+date: 2025-05-16, from: Ride Apart, Electric Motorcycle News
+
+This is just so many dirt bikes, you guys. 
+
+<br> 
+
+<https://www.rideapart.com/news/759715/ktm-gasgas-husqvarna-recall-dirt-bikes/>
+
+---
+
+## This City Is Making Motorcycle Parking a Priority In Its New Construction
+
+date: 2025-05-16, from: Ride Apart, Electric Motorcycle News
+
+If you've ever tried to park your bike in a major city, you know it's a bold move. 
+
+<br> 
+
+<https://www.rideapart.com/news/759615/chiba-city-motorcycle-parking-law/>
+
+---
+
+## Royal Enfield’s Electric Motorcycle Is Coming Next Year to Dealerships Near You
+
+date: 2025-05-16, from: Ride Apart, Electric Motorcycle News
+
+It had better live up to all the hype. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759628/royal-enfield-flying-flea-coming-2026/>
+
+---
+
+## This Is Your Once in a Lifetime Chance To Ride With Wayne Rainey at Laguna Seca
+
+date: 2025-05-16, from: Ride Apart, Electric Motorcycle News
+
+Rainey isn't the only star you'd share the track with. 
+
+<br> 
+
+<https://www.rideapart.com/news/759622/ride-with-wayne-rainey-laguna-seca/>
+
+---
+
+## Indianapolis 500 Day 3 Practice Report: Newgarden fastest as Kirkwood shows qualifying pace
+
+date: 2025-05-15, from: Kickin the Tires blog
+
+Thursday saw the first full day of practice for the 109th Indianapolis 500 as the 34 entrants saw six hours of running. In addition to the full day of running,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/other/indianapolis-500-day-3-practice-report-newgarden-fastest-as-kirkwood-shows-qualifying-pace/>
 
 ---
 

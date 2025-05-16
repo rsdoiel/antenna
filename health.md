@@ -1,11 +1,83 @@
 ---
 title: health
-updated: 2025-05-15 14:07:49
+updated: 2025-05-16 06:11:25
 ---
 
 # health
 
-(date: 2025-05-15 14:07:49)
+(date: 2025-05-16 06:11:25)
+
+---
+
+## Relationship between Helicobacter pylori infection and visceral fat area in diabetic populations: the mediating role of insulin resistance
+
+date: 2025-05-16, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundObesity has become a global health concern, particularly in relation to abdominal fat which is associated with various diseases. The connection between Helicobacter pylori (H. pylori) and obesity is still debated, with limited research on the link between H. pylori and visceral fat. This study aimed to examine the correlation between H. pylori infection and visceral fat area (VFA) among participants.MethodsA total of 18,076 individuals participated in this study, undergoing assessments of VFA, physical parameter measurements, and serum examinations. Bioelectrical impedance was used to analyze VFA, with the triglyceride-glucose (TyG) index indicating levels of insulin resistance (IR) in the population. Multiple linear regression analysis was utilized to determine the factors influencing VFA, while a generalized additive model was employed to assess potential non-linear associations between the TyG index and VFA.ResultsH. pylori was recognized as a contributing factor to VFA exclusively within diabetic populations. In these populations, a significant nonlinear relationship existed between the TyG index and VFA. Furthermore, mediation analysis indicated that the TyG index acted as a mediator in the relationship between H. pylori and VFA.ConclusionH. pylori is closely associated with VFA in individuals with diabetes, with IR serving as a mediating factor in the relationship between H. pylori and VFA. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1598223>
+
+---
+
+## Research progress on diagnostic techniques for different Babesia species in persistent infections
+
+date: 2025-05-16, from: Frontiers in Cellular and Infection Microbiology
+
+Babesiosis, a zoonotic parasitic disease caused by Babesia protozoa, poses significant infection risks across mammalian species. Clinical manifestations in vertebrate hosts range from spontaneous abortion to fatal outcomes, with immunocompromised individuals potentially transmitting the pathogen through blood products or transplanted organs, thereby amplifying epidemiological risks. Effective disease management carries substantial public health implications for livestock production, companion animal welfare, and food safety in endemic regions. In global endemic zones, conventional diagnostic approaches combine morphological identification of Babesia spp. with complementary serological assays. Contemporary molecular diagnostics, particularly nucleic acid amplification techniques, have emerged as valuable adjunctive tools. A critical challenge in veterinary practice involves persistent subclinical carriers among treated livestock populations, necessitating precise parasite speciation for effective transmission control. This review synthesizes recent advancements in babesiosis detection methodologies, with particular emphasis on their implementation in clinical microbiology laboratories. This article introduces the latest progress in Babesiosis detection technology and its application in clinical microbiology laboratories, to provide a theoretical and practical basis for the comprehensive prevention and control of Babesiosis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1575227>
+
+---
+
+## The characteristics of methicillin-resistant Staphylococcus aureus co-infection in COVID-19 pneumonia
+
+date: 2025-05-16, from: Frontiers in Cellular and Infection Microbiology
+
+Methicillin-resistant Staphylococcus aureus (MRSA) stands as a pervasive and important pathogen in the co-infections during the COVID-19 pandemic given its high morbidity and mortality. This study aimed to characterize MRSA isolates obtained from COVID-19 pneumonia with MRSA co-infection patients during the COVID-19 pandemic wave in China from 2022 to 2024. Fifty MRSA isolates collected form COVID-19 pneumonia with MRSA co-infection patients (MRSA-COC) and 50 MRSA isolates collected from MRSA pneumonia patients without COVID-19 (MRSA-CON) were enrolled in this study. Whole-genome sequencing, genomic epidemiology and comparative analysis were conducted to explore differences of MRSA isolates between two groups. Patients with MRSA-COC were significantly older (P=0.0492), had higher rates of severe pneumonia progression (P=0.0006), and carried greater comorbidity burdens. The time from hospital admission to MRSA detected was significantly shorter in MRSA-COC patients than in MRSA-CON patients (P=0.0141). Furthermore, MRSA-COC patients demonstrated significantly higher mortality rates compared with MRSA-CON patients (44% vs. 18%, P=0.0049). However, genomic analysis revealed no statistically significant differences in antimicrobial resistance gene or virulence factor genes between the MRSA-COC and MRSA-CON isolates. CC5 emerged as the predominant clone in both groups, with significantly higher prevalence in MRSA-COC isolates (88% vs. 66%, P=0.0090). The tst-positive ST5-MRSA-II strain was associated with concerning mortality rates in both MRSA-COC (50%) and MRSA-CON (20%) patients, underscoring the critical need for enhanced surveillance in MRSA pneumonia. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1560688>
+
+---
+
+## Editorial: Targeted metagenomics in pathogen detection
+
+date: 2025-05-16, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1612802>
+
+---
+
+## Juglans regia and Pfaffia paniculata extracts: implications for periodontal disease treatment and correlation with Alzheimer’s risk
+
+date: 2025-05-16, from: Frontiers in Cellular and Infection Microbiology
+
+Periodontal disease (PD) is a significant global health concern, affecting approximately 19% of the world’s population. It is one of the most prevalent diseases today, causing substantial socio-economic impacts and diminished quality of life. Recent research has also revealed a potential link between PD and Alzheimer’s disease. This study investigated the antimicrobial effects of Juglans regia and Pfaffia paniculata extracts against P. endodontalis and P. gingivalis, bacteria that cause PD and are related to Alzheimer’s risk. The study also assessed the impact of these extracts on macrophage metabolic activity, pro- and anti-inflammatory cytokine expression, and genotoxicity. The phytochemical analysis of the extract was carried out first. Antimicrobial activity was performed using the M11-A7 protocol (CLSI) for planktonic cultures on monotypic biofilms matured for 168 hours in anaerobiosis. Cell viability analysis was carried out using MTT on mouse macrophages (RAW 264-7), as well as genotoxicity assessment using micronuclei. The anti-inflammatory activity was evaluated using ELISA method, checking the cytokines IL-6, IL-1B, TNF-alpha, IL-17 and IL-10. Phytochemical analysis revealed the presence of Miquelianin, Regiolone and Gallic Acid in J. regia extract. For the P. paniculata extract, we identified the glycosides Pfaffoside C, Pfaffoside A, 3-O-β-D-glycopyranosyl-oleanolic acid and Beta-ecdysone. Antimicrobial activity revealed a MBC of 1.73 for the extract of J. regia and 0.48 for P. paniculata against P. endodontalis and P. gingivalis. All biofilms were reduced by more than 89% after treatment with the extracts for 5 min. Cytotoxicity evaluations revealed that cell viability remained above 50% at concentrations up to 0.216 mg/ml for J. regia and 0.015 mg/ml for P. paniculata. Neither extract exhibited genotoxicity. Furthermore, both demonstrated anti-inflammatory activity by promoting the production of the cytokine IL-10. In conclusion, the antimicrobial and anti-inflammatory activities of J. regia and P. paniculata extracts suggest their potential as treatments for oral dysbiosis, which may contribute to a reduced risk of neurodegenerative diseases. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1585438>
+
+---
+
+## Bovine lactoferricin exerts antibacterial activity against four Gram-negative pathogenic bacteria by transforming its molecular structure
+
+date: 2025-05-16, from: Frontiers in Cellular and Infection Microbiology
+
+The emergence and development of pathogenic bacterial resistance to antibiotics pose significant challenges to human health. Antimicrobial peptides (AMPs) are considered promising alternatives to conventional antibiotics. Lactoferricin (Lfcin), a cationic AMP located in the N-terminal region of lactoferrin, serves as the antimicrobial active center of the intact protein. The presence of two cysteines in Lfcin allows for the formation of an intramolecular disulfide bond, which may influence its molecular structure and antibacterial function. To investigate this hypothesis, we synthesized, purified, and identified bovine Lfcin along with two derivatives: Lfcin with a disulfide bond (Lfcin DB) and a mutated form that cannot form the disulfide bond (Lfcin C36G). We analyzed the circular dichroism spectra of these peptides under varying ionic and hydrophobic conditions, while their tertiary structures were predicted using AlphaFold3. Results indicated that increased ionic strength reduced the random coil ratios across all peptides. The secondary structure of Lfcin showed similar percentages with Lfcin C36G in the H2O and similar ratios with Lfcin DB under hydrophobic conditions. AlphaFold3-predicted models revealed two distinct structures: one predominantly adopting α-helix conformations and the other characterized by β-sheet topology. Furthermore, we evaluated the antibacterial activity of the peptides against four Gram-negative bacteria, including Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, and Salmonella gallinarum. The synthetic peptides demonstrated broad-spectrum antibacterial activity, with Lfcin exhibiting superior efficacy compared to its derivatives. Our findings suggest that Lfcin can reversibly interconvert between two distinct molecular states under varying ionic strengths and hydrophobic effects, with the resulting structural transformations enhancing its antibacterial function. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1508895>
 
 ---
 

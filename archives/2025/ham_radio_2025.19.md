@@ -1,11 +1,49 @@
 ---
 title: ham radio
-updated: 2025-05-15 14:07:43
+updated: 2025-05-16 06:11:19
 ---
 
 # ham radio
 
-(date: 2025-05-15 14:07:43)
+(date: 2025-05-16 06:11:19)
+
+---
+
+## The 200G/lane CPO pushes optical interconnect boundaries
+
+date: 2025-05-16, from: EDN Blog
+
+<img width="1170" height="680" src="https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?fit=1170%2C680" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=1170 1170w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=1024 1024w" sizes="(max-width: 1170px) 100vw, 1170px" /><p>Broadcom’s third-generation co-packaged optics (CPO) technology is engineered to address the scale issues in optical interconnects.</p>
+<p>The post <a href="https://www.edn.com/the-200g-lane-cpo-pushes-optical-interconnect-boundaries/">The 200G/lane CPO pushes optical interconnect boundaries</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-200g-lane-cpo-pushes-optical-interconnect-boundaries/>
+
+---
+
+## ARRL Awards Phil Karn, KA9Q, with Mary Hobart, K1MMH, Medal of Distinction
+
+date: 2025-05-16, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-awards-phil-karn-ka9q-with-mary-hobart-k1mmh-medal-of-distinction>
+
+---
+
+## ARRL Coverage of 2025 Dayton Hamvention - Thursday, May 15
+
+date: 2025-05-16, from: Amateur Radio Relay League News
+
+<p>It was a flurry of activity around the exhibit space for ARRL The National Association for Amateur Radio® and beyond. Trucks being unloaded, tables being arranged, boxes being opened and even tablecloths being ironed were among the sights and sounds Thursday at Ohio’s Greene County Fairgrounds as hundreds of ham radio manufacturers, retailers, clubs, and organizations prepared for Friday’s open...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-coverage-of-2025-dayton-hamvention-thursday-may-15>
 
 ---
 
@@ -25,7 +63,7 @@ date: 2025-05-15, from: Amateur Radio Relay League News
 
 date: 2025-05-15, from: EDN Blog
 
-<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Sycamore-W, an ultra-thin near-field MEMS speaker from xMEMS, brings premium audio to smartwatches and fitness bands.</p>
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/xMEMS-Sycamore-W.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Sycamore-W, an ultra-thin near-field MEMS speaker from xMEMS, brings premium audio to smartwatches and fitness bands.</p>
 <p>The post <a href="https://www.edn.com/micro-speaker-enables-slimmer-wearables/">Micro-speaker enables slimmer wearables</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

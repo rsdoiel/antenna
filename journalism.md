@@ -1,11 +1,231 @@
 ---
 title: journalism
-updated: 2025-05-15 14:07:47
+updated: 2025-05-16 06:11:23
 ---
 
 # journalism
 
-(date: 2025-05-15 14:07:47)
+(date: 2025-05-16 06:11:23)
+
+---
+
+## California Community Colleges offer affordable option for in-state students
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+College students said the California Community Colleges system has allowed them to pursue higher education at an affordable cost.
+As the largest system of higher education in the country, CCC collectively serves 2.1 million students. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/california-community-colleges-offer-affordable-option-for-in-state-students/>
+
+---
+
+## Bold Beauty at UCLA spotlights beauty in disability through photo-stories
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bold Beauty at UCLA is bringing its vision of the connection between art and disability to campus.
+The club is a chapter of the Bold Beauty Project &#8211; a national organization that pairs women with disabilities and photographers to create &#8220;photo-stories&#8221; of each model, according to its website. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/bold-beauty-at-ucla-spotlights-beauty-in-disability-through-photo-stories/>
+
+---
+
+## Spring Sing 2025: Viva Corless’ music works to explore complexity of emotion, life
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Through her music, Viva Corless is unfolding a love letter to her sonic authenticity.
+After her second time auditioning, the second-year theater student will take the stage for her first Spring Sing to perform her original song “Eat Your Words.” Corless said she wrote “Eat Your Words” when she was 16, and the song reckons with the societal pressures young women and queer people face growing up. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-viva-corless-music-works-to-explore-complexity-of-emotion-life/>
+
+---
+
+## Spring Sing 2025: ACA All Day embraces diverse styles of dance, cultivates close community
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+From day to night, ACA All Day showcases the world of dance with its moves.
+Following a win at the All-Cal Annual Hip-Hop Dance Competition, the student-led competitive dance team is returning to this year’s Spring Sing stage with its multifaceted choreography. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-aca-all-day-embraces-diverse-styles-of-dance-cultivates-close-community/>
+
+---
+
+## Spring Sing 2025: Matty Gottesman reflects on musical process, community connection ahead of show
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Matty Gottesman is back for another Spring Sing, this time with company.
+Singer-songwriter and producer Gottesman – a performer at the virtual 2024 Spring Sing – is bringing his original song “Voice of Reason” to the Los Angeles Tennis Center stage Friday. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-matty-gottesman-reflects-on-musical-process-community-connection-ahead-of-show/>
+
+---
+
+## Spring Sing 2025
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Spring Sing is back for the first time since 2023. After the annual student talent showcase and competition was canceled last year, the event will return to the Los Angeles Tennis Center on May 16. 
+
+<br> 
+
+<https://dailybruin.com/tag/spring-sing-2025>
+
+---
+
+## Spring Sing 2025: Ella Gibson to perform unreleased single, seaming together uncertainty, growth
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ella Gibson is stitching together a sonic patchwork of introspection and growth in her Spring Sing encore.
+Making her Los Angeles Tennis Center debut this Friday, the second-year music industry student is returning to the Spring Sing lineup with her new unreleased single “Patch.” Following last year’s virtual performance, Gibson said she has grown more confident in her vocal abilities, allowing her to embrace greater vulnerability within her lyricism. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-ella-gibson-to-perform-unreleased-single-seaming-together-uncertainty-growth/>
+
+---
+
+## Spring Sing 2025: Synthesis Dance mixes multiple styles, focuses on fostering members’ love of dance
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Synthesis Dance will fill Spring Sing with talent this Friday.
+Focused on creating an accessible environment for UCLA dancers, the student-led group honors its name by building a team with a diverse dance background that creates its own style, said its internal operations chair, Katy Palmer. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-synthesis-dance-mixes-multiple-styles-focuses-on-fostering-members-love-of-dance/>
+
+---
+
+## Spring Sing 2025: Ryann Barnes prepares to showcase ‘truest self’ at in-person Spring Sing debut
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ryann Barnes is ready to explore a new stage.
+The second-year music industry student is slated to make her in-person Spring Sing debut after the competition’s cancelation and move to a virtual event due to the attack on and police sweep of the Palestine solidarity encampment last year. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-ryann-barnes-prepares-to-showcase-truest-self-at-in-person-spring-sing-debut/>
+
+---
+
+## Spring Sing 2025: The Band Called Sex rocks back to the stage with new album preview, brass section
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Band Called Sex is back for Spring Sing, bigger and better than ever.
+After being selected for last year’s canceled in-person show, the band will finally get to take the stage this year at the Los Angeles Tennis Center for UCLA’s annual music competition. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-the-band-called-sex-rocks-back-to-the-stage-with-new-album-preview-brass-section/>
+
+---
+
+## Spring Sing 2025: Ava Ulloa brings Broadway talent, skills to UCLA in Spring Sing debut
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+From Broadway to Bruin Walk, singer-songwriter Ava Ulloa is making her Spring Sing debut while navigating her passions.
+A third-year global jazz studies student from New York, Ulloa has experience and background in theater. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-ava-ulloa-brings-broadway-talent-skills-to-ucla-in-spring-sing-debut/>
+
+---
+
+## Spring Sing 2025: Icarus Contemporary strives for audience engagement, excitement through performance
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Icarus Contemporary Dance Company is flying closer to the sun with a joyful vision for the group’s Spring Sing performance.
+The contemporary dance group is part of the lineup for Friday’s campuswide talent competition for the fourth year in a row and will return to Los Angeles Tennis Center&#8217;s stage after last year’s Spring Sing was moved online. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-icarus-contemporary-strives-for-audience-engagement-excitement-through-performance/>
+
+---
+
+## Spring Sing 2025: The 529s changes tune, mixes up original music for its biggest audience yet
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 529s will mark its one-year anniversary with a Spring Sing debut.
+The band is composed of students Kiva Schweig, Roman Leitz, Maxwell Jenkins, Jacob Mayer, Addie Chandler and Will Stokes. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-the-529s-changes-tune-mixes-up-original-music-for-its-biggest-audience-yet/>
+
+---
+
+## Spring Sing 2025: Sketch comedy group Company creates community, camaraderie through humor
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Company is ushering comedic camaraderie to Spring Sing.
+The 10-member comedy troupe emcees the annual Spring Sing event, providing comedic relief between each performing act. Company fosters unity through the universal language of laughter by encapsulating the humor that resides among the UCLA community. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-sketch-comedy-group-company-creates-community-camaraderie-through-humor/>
+
+---
+
+## Spring Sing 2025: Awaken A Cappella aims to connect with audience, touch hearts through storytelling
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Finding the light in setbacks, Awaken A Cappella isn’t holding any grudges.
+The International Championship of Collegiate A Cappella serves as the co-ed vocal group’s largest performance every year, but when the Los Angeles County wildfires spread in January, Awaken lost crucial rehearsal time and withdrew from the competition. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-awaken-a-cappella-aims-to-connect-with-audience-touch-hearts-through-storytelling/>
+
+---
+
+## Spring Sing 2025: Lady Vengeance brings lively performances with diverse punk sound
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lady Vengeance is ready to slay Spring Sing with sound.
+A year and a half since its debut, the five-piece punk band is preparing to take the Spring Sing stage with raw emotion and drama. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/spring-sing-2025-lady-vengeance-brings-lively-performances-with-diverse-punk-sound/>
+
+---
+
+## Alumnus Kareem Abdul-Jabbar reflects on activism, protests at UCLA book launch
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kareem Abdul-Jabbar shared his passion for protest at his book talk Monday.
+The UCLA alumnus and former National Basketball Association player published his newest book, &#8220;We All Want to Change the World: My Journey Through Social Justice Movements From the 1960s to Today&#8221; on May 13. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/15/alumnus-kareem-abdul-jabbar-reflects-on-activism-protests-at-ucla-book-launch/>
 
 ---
 
@@ -487,6 +707,186 @@ date: 2025-05-12, from: The Round Up (Pierce College Student Newspaper)
 <br> 
 
 <https://theroundupnews.com/2025/05/12/sexuality-and-gender-alliance-club-fosters-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=sexuality-and-gender-alliance-club-fosters-resilience>
+
+---
+
+## Caltech and USC Rally Downtown to "Kill the Cuts"
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+On April 8, members of the Caltech community joined forces with union members from USC for the Kill the Cuts rally in Downtown Los Angeles—part of a National Day of Action opposing proposed federal cuts to scientific research funding. From undergraduate students to postdocs, organizers, and union representatives, our presence at the protest was unified, urgent, and unrelenting. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/caltech-and-usc-rally-downtown-kill-the-cuts/>
+
+---
+
+## Caltech Athletics Bloom in Spring Season
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+At Caltech, student-athletes aren’t just competing—they are redefining what it means to balance intensity in both sports and academics. They exhibit not only commitment but a certain kind of mental toughness and passionate energy to their teams and to the Caltech community. Here’s the latest from Caltech Athletics, highlighting the records, rivalries, and relentless drive that define our teams. With the spring quarter underway, our Caltech athletics have achieved like never before. Let’s dive into the many accomplishments the spring sport beavers have to show off this year. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/caltech-athletics-bloom-in-spring-season/>
+
+---
+
+## Caltech Wildlife: Fox Squirrels
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+Among the mammals of Caltech, they’re arguably the happiest and freest. While <em>Homo sapiens</em> are burdened with homework and deadlines, and coyotes stick to moonlit hours to avoid the crowd, the fox squirrels roam wherever their paws take them. Stroll across campus and you&rsquo;re guaranteed to spot one: foraging randomly in the grass (no, they don’t remember where they bury their nuts), lounging on a branch, or chasing a friend in spirals around tree trunks, like a dazzling ribbon in the hand of a gymnast. Even if you don’t see one, just look up: the treetops are decorated with their nests, ready for year-round breeding. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/caltech-wildlife-fox-squirrels/>
+
+---
+
+## Cinco de Mayo Fiesta Lights Up Browne Dining Hall
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+Last Monday, in celebration of Cinco de Mayo, a special dinner in Browne Dining Hall was held from 5-7:30 p.m. The event was a collaboration between Caltech Dining Services and the Caltech Wellness Center. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/cinco-de-mayo-at-browne-dining-hall/>
+
+---
+
+## Every Game Shown in the March Nintendo Direct and How Excited I Am
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+Remakes don’t usually excite me as the core mechanics and plot are usually the same as the original, just with better graphics. Unless a remake is practically an entirely new game—think <em>Final Fantasy VII</em> remake I don’t have any interest in buying it as it’s incredibly likely that one could emulate the original <em>Dragon Quest I</em> and <em>II</em> with little issue. That seems to be the case here and with other remakes announced. It looks pretty, though. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/every-game-shown-in-the-march-nintendo-direct-and-how-excited-i-am/>
+
+---
+
+## How Peru Changed Me: A Bridge Between Two Worlds
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+Hello everyone, my name is Camilla Fezzi, and you probably know me, always running around, without any free time, and I am kind of recognizable because of my Italian (fashion style) 😜. I’m a freshman at Caltech, with the goal of double majoring in biology and chemistry and dreaming, one day, of becoming a doctor and researcher in the oncology/neuroscience field. But before I am any of those things, I am Italian—a daughter, a sister, a friend. I grew up beneath the Verona sun, in a place where the dinner table is sacred and where family is the compass that guides everything. I have always known warmth—of home-cooked meals, of laughter echoing through ancient streets, of a mother’s arms around my shoulders. I know what it is to feel safe, to take fresh water and a doctor’s appointment for granted. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/how-peru-changed-me-a-bridge-between-two-worlds/>
+
+---
+
+## More Funding Cuts and Uncertainty at NSF
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+According to the lawsuit, a reduction in the NSF indirect cost rate to 15% would result in an “annual loss of approximately $14.8 million to Caltech’s planned research budget.” An awarded grant consists of direct costs, which fund the research itself, and indirect costs, an added percentage that covers overhead such as infrastructure and administration. Caltech currently has 210 active awards and subawards from NSF. In Fiscal Year 2024, the Institute spent over $93 million on NSF-supported research, including nearly $22 million in indirect costs. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/more-funding-cuts-and-uncertainty-at-nsf/>
+
+---
+
+## NASA Faces 47% Budget Cut—Here’s How You Can Fight Back
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+The proposed 47% single-year cut to NASA&rsquo;s science budget eviscerates our nation&rsquo;s leadership in space science: ending missions already in space, halting those in build, and defunding telescopes and instruments of the future. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/nasa-faces-budget-cut-heres-how-you-can-fight-back/>
+
+---
+
+## The Magical Campus of Caltech
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+If you stroll past the Olive Walk on a sunny Pasadena day, you might see something magical in the air. Is it the scent of freshly pranked upperclassmen? The echo of the Fleming cannon? Or perhaps it’s just the spirit of Caltech’s brand of wizardry—a house system that would make even J.K. Rowling jealous. At Caltech, the hallowed tradition of “houses” isn’t just about where you sleep; it’s about forging family, engineering pranks, and unleashing a level of creativity that would make even Dumbledore drop his lemon drop. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/the-magical-campus-of-caltech/>
+
+---
+
+## The Obligation to Work-Life Balance
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+My reign of terror is over, and my era as ASCIT President has come to its end. Through this opportunity, Caltech and its community have taught me countless lessons that I wouldn’t be able to learn in any classroom, and I thank each and every one of you for the faith you’ve put in me as the ASCIT President and the ways you’ve helped me grow. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/the-obligation-to-worklife-balance/>
+
+---
+
+## Unions Like UAW Must Shift Their Focus to Defend America’s Scientific Future
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+It is no secret that America’s leadership in science and technology was not born by accident—it was built through public investment, public partnerships with academia, and government sanction of private sector monopoly. From the Apollo program to the Human Genome Project, from the internet to the transistor, the United States once treated research and development (R&amp;D) as a cornerstone of national security and economic strength. For some time the facade has been quietly crumbling away, but last week’s FY2026 Discretionary Budget Request rocked the foundations of that legacy hard enough to bring down its edifice. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/unions-like-uaw-must-shift-their-focus-to-defend-americas-scientific-future/>
+
+---
+
+## Vive la Fête: A Revolutionary Blacker Interhouse
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+Last Saturday, the delicious scent of crème brûlée and chocolate croissants wafted through the alleys of Blacker Hovse. Moles hurried around the Hovse, tidying up their courtyard and dining hall for their annual Interhovse. The theme? The French Revolution. After months of preparation—with input from what felt like the entire Hovse—a production worthy of that era’s dynamism and ingenuity came together marvelously, complete with a panoply of renegade constructions and toothsome dishes. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/vive-la-fete-a-revolutionary-blacker-interhouse/>
+
+---
+
+## What Cuts Kill: On Wonder and Revolution
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+At the Kill the Cuts rally on April 8th, I gave the following speech to Caltech and USC contingents in front of the 300 North Los Angeles Federal Building. I hope its words resonate with the current scientific/political/cultural moment. They represent my truest feelings, the joyous and the vitriolic, as best as I can compress and verbalize them. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/what-cuts-kill-on-wonder-and-revolution/>
+
+---
+
+## What If? The Disney Influence in My (and Probably Everyone’s) Life
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+As I lean over my desk, slumped between piles of textbooks and scrawled notes, the weight of my schoolwork drags down my mind. The pressure to excel academically and carve out a niche in the competitive university environment sometimes becomes overwhelming. Yet amidst the chaos of deadlines and exams, an old song unexpectedly pierces the drudgery. The rich, sweeping sounds of &ldquo;Belle&rdquo; from Beauty and the Beast sweep me, in the blink of an eye, from the chill of my dorm room to one of wonder and magic. In an instant, I am no longer a struggling student trying to find her place, but a capable, independent young woman, venturing out into the world&rsquo;s possibilities. The burden of academic intensity and the pressure to conform to societal norms melt away, replaced by a sense of empowerment, joy, and pure fantasy. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/what-if--the-disney-influence-in-my--and-probably-everyone-s--life/>
+
+---
+
+## What You Will: And What a Delight! EXPLiCIT's Twelfth Night
+
+date: 2025-05-12, from: California Tech (Caltech Student Newspaper)
+
+Last Monday, in celebration of Cinco de Mayo, a special dinner in Browne Dining Hall was held from 5-7:30 p.m. The event was a collaboration between Caltech Dining Services and the Caltech Wellness Center. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/05/12/what-you-will-and-what-a-delight-explicts-twelfth-night/>
 
 ---
 
