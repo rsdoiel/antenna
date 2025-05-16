@@ -1,11 +1,25 @@
 ---
 title: pacific
-updated: 2025-05-16 06:11:19
+updated: 2025-05-16 14:08:17
 ---
 
 # pacific
 
-(date: 2025-05-16 06:11:19)
+(date: 2025-05-16 14:08:17)
+
+---
+
+## Kilauea lava fountains reach up to 1,000 feet in ‘episode 22’
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Lava fountains reaching up to 1,000 feet erupted from the summit of Kilauea early this morning, marking the start of another episode in the volcano&#8217;s ongoing eruptive cycle.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/hawaii-news/kilauea-lava-fountains-reach-up-to-1000-feet-in-episode-22/>
 
 ---
 

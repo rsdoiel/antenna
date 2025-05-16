@@ -1,11 +1,355 @@
 ---
 title: snapshots
-updated: 2025-05-16 06:11:27
+updated: 2025-05-16 14:08:26
 ---
 
 # snapshots
 
-(date: 2025-05-16 06:11:27)
+(date: 2025-05-16 14:08:26)
+
+---
+
+## Congress moves to cut off states' AI regulations
+
+date: 2025-05-16, from: The Markup blog
+
+House Republicans advanced a 10-year moratorium on state AI rules. California would be especially hard hit 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/05/16/congress-moves-to-cut-off-states-ai-regulations>
+
+---
+
+## Emmys 2025: ranking de predicciones categorías de serie limitada – mayo
+
+date: 2025-05-16, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>El resto de los rankings de mayo están disponibles aquí. Serie limitada o serie antológica Es difícil pensar que alguna serie limitada vencerá a Adolescence, pero The Penguin es la segunda en esta carrera y apuesta segura para la nominación. Mantendremos a la serie Dying for Sex en la contienda por el historial exitoso de [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/emmys-2025-ranking-de-predicciones-categorias-de-serie-limitada-mayo/">Emmys 2025: ranking de predicciones categorías de serie limitada – mayo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/emmys-2025-ranking-de-predicciones-categorias-de-serie-limitada-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=emmys-2025-ranking-de-predicciones-categorias-de-serie-limitada-mayo>
+
+---
+
+## Live with Ryan Lizza
+
+date: 2025-05-16, from: Paul Krugman
+
+A recording from Paul Krugman and Ryan Lizza's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163735198/5525787539a8a2920fb53e5822074cf9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163735198/5525787539a8a2920fb53e5822074cf9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/live-with-ryan-lizza>
+
+---
+
+## Paul Krugman on Trump’s Trade War
+
+date: 2025-05-16, from: Paul Krugman
+
+A recording from Paul Krugman and Ryan Lizza's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163733533/02d00894cd4faf106f626c428f2750f4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163733533/02d00894cd4faf106f626c428f2750f4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/paul-krugman-on-trumps-trade-war>
+
+---
+
+## 8849 Tank Pad is a rugged Android tablet with a big battery and built-in projector
+
+date: 2025-05-16, from: Liliputing
+
+<p>For the past few years, a company called 8849 has been selling rugged Android phones under the Tank brand. They have special features like ultrabright flashlights, built-in projectors, and batteries so massive that you might as well think of the devices as power banks with built-in phone functionality. Now the 8849 has built a larger [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/8849-tank-pad-is-a-rugged-android-tablet-with-a-big-battery-and-built-in-projector/">8849 Tank Pad is a rugged Android tablet with a big battery and built-in projector</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/8849-tank-pad-is-a-rugged-android-tablet-with-a-big-battery-and-built-in-projector/>
+
+---
+
+## OpenAI Codex
+
+date: 2025-05-16, updated: 2025-05-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://platform.openai.com/docs/codex">OpenAI Codex</a></strong></p>
+<a href="https://openai.com/index/introducing-codex/">Announced today</a>, here's the documentation for OpenAI's "cloud-based software engineering agent". It's not yet available for us $20/month Plus customers ("coming soon") but if you're a $200/month Pro user you can try it out today.</p>
+<blockquote>
+<p>At a high level, you specify a prompt, and the agent goes to work in its own environment. After about 8–10 minutes, the agent gives you back a diff.</p>
+<p>You can execute prompts in either <em>ask</em> mode or <em>code</em> mode. When you select <em>ask</em>, Codex clones a read-only version of your repo, booting faster and giving you follow-up tasks. <em>Code</em> mode, however, creates a full-fledged environment that the agent can run and test against.</p>
+</blockquote>
+<p>It sounds similar to GitHub's own <a href="https://githubnext.com/projects/copilot-workspace">Copilot Workspace</a> project, which can compose PRs against your code based on a prompt. The big difference is that Codex incorporates a full Code Interpeter style environment, allowing it to build and run the code it's creating and execute tests in a loop.</p>
+<p>Copilot Workspaces has a level of integration with Codespaces but still requires manual intervention to help exercise the code.</p>
+<p>Also similar to Copilot Workspaces is a confusing  name. OpenAI now have <em>four</em> products called Codex:</p>
+<ul>
+<li><a href="https://openai.com/codex/">OpenAI Codex</a>, announced today.</li>
+<li><a href="https://github.com/openai/codex">Codex CLI</a>, a completely different coding assistant tool they released a few weeks ago that is the same kind of shape as <a href="https://docs.anthropic.com/en/docs/claude-code/overview">Claude Code</a>. This one owns the <a href="https://github.com/openai/codex">openai/codex</a> namespace on GitHub.</li>
+<li><a href="https://platform.openai.com/docs/models/codex-mini-latest">codex-mini</a>, a brand new model released today that is used by their Codex product. It's a fine-tuned o4-mini variant. I released <a href="https://github.com/simonw/llm-openai-plugin/releases/tag/0.4">llm-openai-plugin 0.4</a> adding support for that model.</li>
+<li><a href="https://web.archive.org/web/20230203201912/https://openai.com/blog/openai-codex/">OpenAI Codex (2021)</a> - Internet Archive link, OpenAI's first specialist coding model from the GPT-3 era. This was used by the original GitHub Copilot and is still the current topic of Wikipedia's <a href="https://en.m.wikipedia.org/wiki/OpenAI_Codex">OpenAI Codex</a> page.</li>
+</ul>
+<p>My favorite thing about this most recent Codex product is that OpenAI shared <a href="https://github.com/openai/codex-universal/blob/main/Dockerfile">the full Dockerfile</a> for the environment that the system uses to run code - in <code>openai/codex-universal</code> on GitHub because <code>openai/codex</code> was taken already.</p>
+<p>This is extremely useful documentation for figuring out how to use this thing - I'm glad they're making this as transparent as possible.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/16/openai-codex/#atom-everything>
+
+---
+
+## In Praise of the iPad mini 7
+
+date: 2025-05-16, from: Michael Tsai
+
+Adam Chandler (Reddit, Amazon): Right now, the iPad mini with an A17 Pro and 8Gb of RAM is $399 through some retail partners. [&#8230;] Something surprising happened since picking this up. Following setup, I&#8217;d start casually grabbing it and carrying it around the house. The mini fits in my cargo shorts and pants pockets of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/16/in-praise-of-the-ipad-mini-7/>
+
+---
+
+## Fortnite “Blocked”
+
+date: 2025-05-16, from: Michael Tsai
+
+Dominic Preston (MacRumors, Hacker News, Slashdot, TechCrunch, The Register): Fortnite maker Epic Games has announced that Apple has blocked the game&#8217;s return to iOS. Following the rejection, Fortnite is no longer available on iPhones and iPads even in the European Union, where it had previously been available to download through the Epic Games Store.&#8220;Apple has [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/16/fortnite-blocked/>
+
+---
+
+## CarPlay Ultra
+
+date: 2025-05-16, from: Michael Tsai
+
+Apple (Hacker News, MacRumors): Starting today, CarPlay Ultra, the next generation of CarPlay, is available with new Aston Martin vehicle orders in the U.S. and Canada, and will be available for existing models that feature the brand&#8217;s next-generation infotainment system through a software update in the coming weeks. CarPlay Ultra builds on the capabilities of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/16/carplay-ultra/>
+
+---
+
+## Why Using ChatGPT Is Not Bad for the Environment
+
+date: 2025-05-16, from: Michael Tsai
+
+Andy Masley: It&#8217;s not bad for the environment if you or any number of people use ChatGPT, Gemini, Claude, Grok, or other large language model (LLM) chatbots. You can use ChatGPT as much as you like without worrying that you&#8217;re doing any harm to the planet.[&#8230;]Throughout this post I&#8217;ll assume the average ChatGPT query uses [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/16/why-using-chatgpt-is-not-bad-for-the-environment/>
+
+---
+
+## What Exactly Does “Worth” Mean?
+
+date: 2025-05-16, updated: 2025-05-16, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/16/what-exactly-does-worth-mean/>
+
+---
+
+## Build Your Own Gumball
+
+date: 2025-05-16, updated: 2025-05-16, from: Tedium site
+
+Considering how the user benefits when a mature project goes fully open-source—even one with the baggage of something like Gumroad. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17032352/gumroad-mit-license-thoughts>
+
+---
+
+## Two Years Ago Today in AI History: The Tale of An About-face in AI Regulation
+
+date: 2025-05-16, from: Gary Marcus blog
+
+On the second anniversary of the US Senate&#8217;s first hearing on AI; a lot has changed &#8212; and not for the better 
+
+<br> 
+
+<https://garymarcus.substack.com/p/two-years-ago-today-in-ai-history>
+
+---
+
+## Taxpayer Research Delivers Public Benefits
+
+date: 2025-05-16, from: Guy Kawasaki blog
+
+Bruce J. MacFadden, Distinguished Professor Emeritus, University of Florida. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/taxpayer-research-delivers-public>
+
+---
+
+## Talking All Things Media on The News Agents podcast
+
+date: 2025-05-16, from: Tina Brown
+
+I listen to the News Agents every morning. On my trip to the UK, it was my turn in the interview seat. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/talking-all-things-media-on-the-news>
+
+---
+
+## Behind the Blog: The Art of the 'Catharticle'
+
+date: 2025-05-16, from: 404 Media Group
+
+This week, we discuss Star Wars' weird little guys, catharticles, and spectacular views. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-the-art-of-the-catharticle/>
+
+---
+
+## Andor (recapitulación 2.10, 2.11 y 2.12): Make it stop; Who else Knows?; Jedha, Kyber, Erso
+
+date: 2025-05-16, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Disponible en: Disney+. Creador: Tony Gilroy. Dirección: Alonso Ruizpalacios. Guion: Tom Bissell. Elenco: Diego Luna, Stellan Skarsgård, Genevieve O&#8217;Reilly, Denise Gough, Adria Arjona, Faye Marsay, Muhannad Bhaier, Elizabeth Dulau. Más información de la serie: https://www.imdb.com/title/tt9253284/ Episodios previos &#124; Esta recapitulación contiene spoilers acumulados de Andor y Rogue One (Star Wars). Veredicto: El final de Andor [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/andor-recapitulacion-2-10-2-11-y-2-12/">Andor (recapitulación 2.10, 2.11 y 2.12): Make it stop; Who else Knows?; Jedha, Kyber, Erso</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/andor-recapitulacion-2-10-2-11-y-2-12/?utm_source=rss&utm_medium=rss&utm_campaign=andor-recapitulacion-2-10-2-11-y-2-12>
+
+---
+
+## The Fix
+
+date: 2025-05-16, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>The Fix This week, President Trump signed an executive order to lower drug prices, demanding the U.S. receive most favored nation status from pharmaceutical companies — that they charge Americans the lowest price paid abroad. Trump said his policy would cut drug prices by 59%: “Whoever is paying the lowest price, that’s the price that [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/the-fix/">The Fix</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/the-fix/>
+
+---
+
+## Zotac’s 2025 mini PC lineup includes fanless models with Intel Twin lake and Core Ultra Series 2 chips
+
+date: 2025-05-16, from: Liliputing
+
+<p>Zotac&#8217;s ZBOX line of mini PCs is getting a major refresh this year. Ahead of Computex, the company teased several upcoming models including the new ZBOX Magnus EAMAX390C and EN7506TC systems are powerful 2.65 liter mini PCs with AMD Strix Halo or Intel + NVIDIA hardware. But the company is also updating its smaller, less [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zotacs-2025-mini-pc-lineup-includes-fanless-models-with-intel-twin-lake-and-core-ultra-series-2-chips/">Zotac&#8217;s 2025 mini PC lineup includes fanless models with Intel Twin lake and Core Ultra Series 2 chips</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zotacs-2025-mini-pc-lineup-includes-fanless-models-with-intel-twin-lake-and-core-ultra-series-2-chips/>
+
+---
+
+## Acer Swift X 14 (2025) laptops combine NVIDIA graphics with Intel or AMD chips
+
+date: 2025-05-16, from: Liliputing
+
+<p>The Acer Swift X 14 is a thin, light, and powerful laptop that&#8217;s been around for a few years, typically offering a combination of the latest Intel processor and NVIDIA graphics. But this year Acer is shaking things up by offering two models. The new Acer Swift X 14 (SFX14-73G/T) features an Intel Arrow Lake processor while [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-swift-x-14-2025-laptops-combine-nvidia-graphics-with-intel-or-amd-chips/">Acer Swift X 14 (2025) laptops combine NVIDIA graphics with Intel or AMD chips</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-swift-x-14-2025-laptops-combine-nvidia-graphics-with-intel-or-amd-chips/>
+
+---
+
+## ASRock updates its DeskMini lineup with new Intel and AMD-powered mini PCs
+
+date: 2025-05-16, from: Liliputing
+
+<p>The ASRock DeskMini line of computers are small desktops with a 1.92 liter chassis that measure just 155 x 155 x 80mm (6.1&#8243; x 6.1&#8243; x 3.1&#8243;). But unlike most mini PCs in this size category the DeskMini lineup don&#8217;t use mobile processors: they feature motherboards with Intel or AMD sockets that let you bring [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/asrock-updates-its-deskmini-lineup-with-new-intel-and-amd-powered-mini-pcs/">ASRock updates its DeskMini lineup with new Intel and AMD-powered mini PCs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/asrock-updates-its-deskmini-lineup-with-new-intel-and-amd-powered-mini-pcs/>
+
+---
+
+## Acer introduces two new mid-range Android tablets: Acer Iconia Tab V11 and V12
+
+date: 2025-05-16, from: Liliputing
+
+<p>Acer isn&#8217;t exactly a big name in the Android tablet space, but the company continues to crank out the occasional mid-range and budget models, and this year the company is introducing two new tablets ahead of the Computex show in Taiwan. The Acer Iconia V11 and Acer Iconia V12 are a pair of mid-range tablets with 90 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-introduces-two-new-mid-range-android-tablets-acer-iconia-tab-v11-and-v12/">Acer introduces two new mid-range Android tablets: Acer Iconia Tab V11 and V12</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-introduces-two-new-mid-range-android-tablets-acer-iconia-tab-v11-and-v12/>
+
+---
+
+## Python at Meta
+
+date: 2025-05-16, updated: 2025-05-16, from: Simon Willison’s Weblog
+
+<p>Today I learned - from a very short "we're sponsoring Python" sponsor blurb by Meta during the opening <a href="https://us.pycon.org/2025/">PyCon US</a> welcome talks - that Python is now "the most-used language at Meta" - if you consider all of the different functional areas spread across the company.</p>
+<p>They also have "over 3,000 Python developers working in the language every day".</p>
+<p><img alt="Conference presentation at PyCon US 2025 showing speaker on stage in blue shirt with large screens displaying his image and slide text: &quot;have over 3,000 Python developers working in the language every day, which is -- I mean, there's probably more people here. Looking at you all. They're in different functional areas spread across the country. But if you look at folks making changes, Python is the most-used language at Meta. Our motivation to continue investing in Python is to support development at scale. We look forward to building solutions&quot;" src="https://static.simonwillison.net/static/2025/meta-python.jpg" /></p>
+<p>The live captions for the event are once again provided by the excellent <a href="https://whitecoatcaptioning.com/">White Coat Captioning</a> - real human beings! This got a cheer when it was pointed out by the conference chair a few moments earlier.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/pycon">pycon</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/meta">meta</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/16/python-at-meta/#atom-everything>
+
+---
+
+## Acer Swift Edge 14 AI is a 2.2 pound laptop with a 2.8K matte OLED display and Intel Lunar Lake
+
+date: 2025-05-16, from: Liliputing
+
+<p>The Acer Swift Edge 14 AI (SFE-14-51/T) is a laptop with a 14 inch, 2880 x 1800 pixel OLED display, support for up to an Intel Core Ultra 9 288V Lunar Lake processor with 32GB of LPDDR5x of integrated memory, and a bunch of other premium features. It&#8217;s also a pretty portable notebook that weighs just [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-swift-edge-14-ai-is-a-2-2-pound-laptop-with-a-2-8k-matte-oled-display-and-intel-lunar-lake/">Acer Swift Edge 14 AI is a 2.2 pound laptop with a 2.8K matte OLED display and Intel Lunar Lake</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-swift-edge-14-ai-is-a-2-2-pound-laptop-with-a-2-8k-matte-oled-display-and-intel-lunar-lake/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-16, from: Dave Winer's linkblog)
+
+Calling All Technologists: The Era of Neutrality Is Over. 
+
+<br> 
+
+<https://the-decenter.ghost.io/calling-all-technologists-the-era-of-neutrality-is-over/>
 
 ---
 

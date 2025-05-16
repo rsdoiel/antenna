@@ -1,11 +1,59 @@
 ---
 title: journalism
-updated: 2025-05-16 06:11:23
+updated: 2025-05-16 14:08:20
 ---
 
 # journalism
 
-(date: 2025-05-16 06:11:23)
+(date: 2025-05-16 14:08:20)
+
+---
+
+## Men’s volleyball takes on Brigham Young University
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA men&#8217;s volleyball face off BYU on April 11, 2025. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/mens-volleyball-takes-on-brigham-young-university/>
+
+---
+
+## UCLA welcomes newly admitted students at Bruin Day
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Newly admitted students to UCLA get a taste of life on campus on Saturday, April 12. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/ucla-welcomes-newly-admitted-students-at-bruin-day/>
+
+---
+
+## UCLA Faculty Association protests downtown post-rally
+
+date: 2025-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Immediately after the rally with Sanders, nearly 150 students, faculty and supporters marched to the federal building, criticising the recent revocations of student visas and the deportation of protesters. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/ucla-faculty-association-protests-downtown-post-rally/>
+
+---
+
+## THPS Fest combines new Tony Hawk’s Pro Skater 3+4 details with electrifying live performances
+
+date: 2025-05-16, from: The Sundail (CSUN Student Newspaper)
+
+The Sundial was invited to THPS Fest, a fan event where Activision, AEG Presents and Goldenvoice invited guests and members of the press to the El Rey Theatre in Los... 
+
+<br> 
+
+<https://sundial.csun.edu/193706/arts-entertainment/thps-fest-combines-new-tony-hawks-pro-skater-34-details-with-electrifying-live-performances/>
 
 ---
 

@@ -1,11 +1,173 @@
 ---
 title: north america
-updated: 2025-05-16 06:11:17
+updated: 2025-05-16 14:08:15
 ---
 
 # north america
 
-(date: 2025-05-16 06:11:17)
+(date: 2025-05-16 14:08:15)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-16, from: The Contrarian
+
+Friday: Protest at the Supreme Court, planning for upcoming protests this weekend, June 6, and June 14, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+##  The New War On State Regulators 
+
+date: 2025-05-16, from: The Lever News
+
+ After kneecapping and culling federal agencies, corporate interests have a coordinated plan to defang government protections, state by state.  
+
+<br> 
+
+<https://www.levernews.com/the-new-war-on-state-regulators/>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-05-16, from: The Contrarian
+
+Meet Norman! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-c5a>
+
+---
+
+## Transformation sauce
+
+date: 2025-05-16, from: The Contrarian
+
+A gift from me to you: Awesome green sauce that just makes everything better. 
+
+<br> 
+
+<https://contrarian.substack.com/p/transformation-sauce>
+
+---
+
+## The Mother of all Deals
+
+date: 2025-05-16, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-mother-of-all-deals>
+
+---
+
+## The Democracy Index
+
+date: 2025-05-16, from: The Contrarian
+
+May 16, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-eed>
+
+---
+
+## Why Eurovision matters 
+
+date: 2025-05-16, from: The Contrarian
+
+Controversy over Israel's participation in the kitschy song contest highlight its geopolitical importance 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-eurovision-matters>
+
+---
+
+## Will Abrego-Garcia Ever See the Light of Day Again: A Discussion with Sen. Chris Van Hollen
+
+date: 2025-05-16, from: The Contrarian
+
+Harry talks with Maryland Senator Chris Van Hollen, who has been at the forefront of the efforts to keep attention on the nightmarish treatment of Kilmar Abrego-Garcia. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163719960/d74b593c804ce2061c75e8557ddc2575.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163719960/d74b593c804ce2061c75e8557ddc2575.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/will-abrego-garcia-ever-see-the-light>
+
+---
+
+## Something's rotten at the Supreme Court: Leah Litman on the lawlessness embraced by conservative justices
+
+date: 2025-05-16, from: The Contrarian
+
+"Sam Alito is always going to be convinced that the most persecuted person in the United States is him or Donald Trump" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163162888/a3bac5c69cc3105a6f37a56aedea4d02.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163162888/a3bac5c69cc3105a6f37a56aedea4d02.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/somethings-rotten-at-the-supreme>
+
+---
+
+## Trump is running a reverse by appealing to the football world 
+
+date: 2025-05-16, from: The Contrarian
+
+The president used to be a nuisance to the NFL. It&#8217;s just another Hail Mary. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-is-running-a-reverse-by-appealing>
+
+---
+
+## DOGE Cuts ‘Hurting’ Residents in Elon Musk’s Backyard in Rural Texas
+
+date: 2025-05-16, from: Capital and Main
+
+<p>While the tech billionaire slashes jobs and services, local food banks, veterans' health care and college students all suffer.</p>
+<p>The post <a href="https://capitalandmain.com/doge-cuts-hurting-residents-in-elon-musks-backyard-in-rural-texas">DOGE Cuts ‘Hurting’ Residents in Elon Musk’s Backyard in Rural Texas</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/doge-cuts-hurting-residents-in-elon-musks-backyard-in-rural-texas>
+
+---
+
+## A half-century ago, House members pushed Congress’s first gay rights bill
+
+date: 2025-05-16, from: The Contrarian
+
+The legislation went nowhere. More than 40 years later, the Supreme Court ruled that the Civil Rights Act protects gay and transgender people from workplace discrimination. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-half-century-ago-house-members>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-05-16, from: The Contrarian
+
+Come Visit Trump's USA! 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-5ff>
 
 ---
 
@@ -368,18 +530,6 @@ date: 2025-05-14, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/163478098/1e909e736b8520ebd0504d79122e29ee.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/carlos-eduardo-espina-on-escalating>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-14, from: The Contrarian
-
-Wednesday: Dozens of Americans protested proposed drastic cuts to Medicaid at the very place the cuts were being discussed: Capitol Hill. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-05-16 06:11:20
+updated: 2025-05-16 14:08:18
 ---
 
 # science and technology
 
-(date: 2025-05-16 06:11:20)
+(date: 2025-05-16 14:08:18)
+
+---
+
+## Microsoft winnows: Layoffs hit software engineers hard
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Python, TypeScript, Azure SDK devs among those let go</h4> <p>Microsoft&#39;s recent round of layoffs appears to have fallen largely on software developers, including several prominent Python developers and a veteran TypeScript developer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/microsofts_axe_software_developers/>
+
+---
+
+## CoreWeave may have built a house of (graphics) cards
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>An overdependence on hyperscalers and a mountain of debt could pull the rug out</h4> <p><strong>Comment</strong>  CoreWeave this week said it would plow between $20 and $23 billion into GPU bit barns by year&#39;s end in order to meet growing demand from model builders and hyperscalers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/coreweave_graphics_cards/>
+
+---
+
+## NASA’s LRO Views Japan’s RESILENCE Lunar Lander Landing Area
+
+date: 2025-05-16, from: NASA breaking news
+
+NASA’s Lunar Reconnaissance Orbiter Camera (LROC) imaged the landing area of the ispace SMBC x HAKUTO-R Venture Moon Mission 2 RESILIENCE lunar lander which is slated to land on the surface of the Moon no earlier than June 5, 2025 (UTC). This view of the primary landing area is 3.13 miles (5,040 meters) wide and north is up. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-lro-views-japans-resilence-lunar-lander-landing-area/>
+
+---
+
+## Dems are upset about DOGE's IRS hackathon, but the IRS says it never happened
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Tax bods characterize it more as a brainstorming session, says Elon&#39;s unit wasn&#39;t involved</h4> <p>Congressional Democrats are again demanding answers from a federal agency over whether DOGE&#39;s latest tech makeover could put taxpayer data at risk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/congress_question_doge_it_overhaul/>
+
+---
+
+## Nancy Grace Roman’s 100th Birthday
+
+date: 2025-05-16, from: NASA breaking news
+
+Dr. Nancy Grace Roman, NASA&#8217;s first Chief of Astronomy and namesake of the Nancy Grace Roman Telescope, briefs astronaut Edwin &#8220;Buzz&#8221; Aldrin on celestial objects in 1965 in Washington, D.C. Nancy Grace Roman passed away on December 25, 2018, in Germantown, Maryland at the age of 93. May 16, 2025, would have been her 100th [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nancy-grace-romans-100th-birthday/>
+
+---
+
+## NASA, International Astronauts Address Students from New York, Ohio
+
+date: 2025-05-16, from: NASA breaking news
+
+NASA astronaut Nichole Ayers and JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi will answer prerecorded questions submitted by middle and high school students from New York and Ohio. Both groups will hear from the astronauts aboard the International Space Station in two separate events. The first event at 10:20 a.m. EDT on Tuesday, May [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-international-astronauts-address-students-from-new-york-ohio/>
+
+---
+
+## Apple slams door on Fortnite's stateside iOS comeback
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Epic&#39;s latest submission blocked right after CEO offered truce with Cupertino</h4> <p>Apple has blocked Epic Games&#39; submission of Fortnite, just as it was set to return to iOS in the US. Now it cannot be found in the US App Store nor via the Epic Games Store for iOS in the European Union.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/apple_block_fortnite_ios/>
+
+---
+
+## Microsoft pulls MS365 Business Premium from nonprofits
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Microsoft giveth and Microsoft taketh away</h4> <p>Microsoft is pulling the free MS365 Business Premium licenses granted to non-profits and replacing them with Business Basic and discounts for its other services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/microsoft_pulls_ms365_business_premium/>
+
+---
+
+## Defamation case against DEF CON terminated with prejudice
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>&#39;We hope it makes attendees feel safe reporting violations&#39;</h4> <p>A Seattle court this week dismissed with prejudice the defamation case brought against DEF CON and its organizer Jeff Moss by former conference stalwart Christopher Hadnagy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/def_con_defamation_dismissed/>
+
+---
+
+## Annual electronic waste footprint per person is 11.2 kg
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>Extending all the dumped devices&#39; lives by 12 months? Like taking 2M cars off the road each year</h4> <p>Tech buyers should purchase refurbished devices to push vendors to make hardware more repairable and help the shift to a more circular economy, according to a senior analyst at IDC.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/ted_talk_electronic_waste/>
+
+---
+
+## New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence
+
+date: 2025-05-16, from: Quanta Magazine
+
+Turbulence is a notoriously difficult phenomenon to study. Mathematicians are now starting to untangle it at its smallest scales.            <p>The post <a href="https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/" target="_blank">New ‘Superdiffusion’ Proof Probes the Mysterious Math of Turbulence</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/>
+
+---
+
+## Broadcom employee data stolen by ransomware crooks following hit on payroll provider
+
+date: 2025-05-16, updated: 2025-05-16, from: The Register (UK I.T. News)
+
+<h4>The tech biz was in the process of dropping the payroll company as it learned of the breach</h4> <p><strong>EXCLUSIVE</strong>  A ransomware attack at a Middle Eastern business partner of payroll company ADP has led to customer data theft at Broadcom, <em>The Register</em> has learned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/16/broadcom_employee_data_stolen_by/>
 
 ---
 
@@ -215,7 +359,7 @@ date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
 
 ## NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix
 
-date: 2025-05-15, updated: 2025-05-15, from: The Register (UK I.T. News)
+date: 2025-05-15, updated: 2025-05-16, from: The Register (UK I.T. News)
 
 <h4>Failure could&#39;ve triggered a small explosion</h4> <p>NASA has revived a set of thrusters on the nearly 50-year-old Voyager 1 spacecraft after declaring them inoperable over two decades ago. …</p> 
 

@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-05-16 06:11:25
+updated: 2025-05-16 14:08:23
 ---
 
 # retro computing
 
-(date: 2025-05-16 06:11:25)
+(date: 2025-05-16 14:08:23)
+
+---
+
+## 'FreePascal from Square One' free book
+
+date: 2025-05-16, from: FreeDOS News
+
+<div class="markdown_content"><p>Tech author Jeff Duntemann has released his book about FreePascal programming, for free, for anyone to use. Jeff writes on his blog: "<em>FreePascal from Square One</em> really is a free ebook. It’s a distillation of the four editions of my Pascal tutorial, <em>Complete Turbo Pascal</em>, which first appeared in 1985 and culminated in <em>Borland Pascal 7 From Square One</em> in 1993. I sold a lot of those books and made plenty of money, so I’m now giving it away, in hopes of drawing more people into the Pascal universe. ... If you want the book, it’s right here. You’re welcome to share it around, post it on your site, or give it to anyone who might be find it useful." We include FreePascal in the FreeDOS distribution, so this book is a great way to get started with Pascal programming on DOS. There's a link to download the book in PDF format <a class="" href="https://www.contrapositivediary.com/?p=5399" rel="nofollow">in Jeff's announcement</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/05/freepascal-from-square-one-free-book/>
+
+---
+
+## ALed (ALan's Text Editor) version 1.53 now free
+
+date: 2025-05-16, from: FreeDOS News
+
+<div class="markdown_content"><p>ALed is a small powerful text editor that was available as 'shareware' during the DOS era. The last version was 1.53 from April 1991. Alan Boulanger, author of ALed, has announced that the editor is now free for everyone to use. Details and downloads links at the <a class="" href="https://www.bttr-software.de/forum/forum_entry.php?id=22580" rel="nofollow">BTTR Software forum</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/05/aled-alans-text-editor-version-153-now-free/>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-05-16, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 29: In the Belly of the Beast 
+
+<br> 
+
+<https://www.filfre.net/2025/05/this-week-on-the-analog-antiquarian/>
 
 ---
 

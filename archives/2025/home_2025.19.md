@@ -1,11 +1,66 @@
 ---
 title: home
-updated: 2025-05-16 06:11:24
+updated: 2025-05-16 14:08:22
 ---
 
 # home
 
-(date: 2025-05-16 06:11:24)
+(date: 2025-05-16 14:08:22)
+
+---
+
+## How To Polish a Stainless Steel Sink
+
+date: 2025-05-16, from: Family Handyman Blog
+
+<p>Figuring out how to polish a stainless steel sink can make a big difference in the overall look and it doesn't actually require a lot of effort.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/polish-stainless-steel-sink/">How To Polish a Stainless Steel Sink</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/polish-stainless-steel-sink/>
+
+---
+
+## Pretend You’re in a Fairytale in This $6M Chalet Near Lisbon
+
+date: 2025-05-16, from: Dwell
+
+Surrounded by gardens on a hilltop overlooking the ocean, the home has a stone facade, bright-red accents, and whimsical interiors with ornate molding and parquet floors. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-chalet-sintra-portugal-real-estate-308aaa39>
+
+---
+
+## When and How to Prune Magnolias
+
+date: 2025-05-16, from: The Gardener's Path
+
+<p>Pruning magnolias can be tricky business. Done improperly, it can stress the tree and reduce flowering. But a few well-timed cuts can promote healthy growth and preserve your tree's natural shape. Discover how to properly prune deciduous and evergreen magnolias without causing harm in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/prune-magnolias/">When and How to Prune Magnolias</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/prune-magnolias/>
+
+---
+
+## 49 Types of Squirrels (With Pictures and Identification)
+
+date: 2025-05-16, from: Yard Life blog
+
+<p>Squirrels are some of the most familiar and fascinating mammals found in forests, parks, and even urban areas worldwide. Known ... </p>
+<p class="read-more-container"><a title="49 Types of Squirrels (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/49-types-of-squirrels-with-pictures-and-identification/#more-28330" aria-label="Read more about 49 Types of Squirrels (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/49-types-of-squirrels-with-pictures-and-identification/">49 Types of Squirrels (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/49-types-of-squirrels-with-pictures-and-identification/>
 
 ---
 
@@ -20,6 +75,30 @@ date: 2025-05-16, from: Greg Alder's blog, Yard Post
 <br> 
 
 <https://gregalder.com/yardposts/april-in-jacques-food-garden/>
+
+---
+
+## My House: She Custom Made More Than 1,000 Kitchen Tiles for Her Austin Renovation
+
+date: 2025-05-16, from: Dwell
+
+Ceramicist Amanda Rivera’s first interiors project turned out to be her family’s own home, a Spanish Mediterranean–style now brimming with her touch. 
+
+<br> 
+
+<https://www.dwell.com/article/my-house-amanda-rivera-mother-of-god-austin-renovation-murray-legge-88fb64db>
+
+---
+
+## Airbnb’s "Midlife Crisis"—and Everything Else You Need to Know About This Week
+
+date: 2025-05-16, from: Dwell
+
+A collective parenting experiment challenges the traditional nuclear household, Galveston’s short-term rental boom goes bust, adobe home building makes a comeback as wildfires rage—and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-airbnb-midlife-crisis-adobe-home-building-california-forever-dda5f95d>
 
 ---
 
@@ -65,12 +144,12 @@ date: 2025-05-16, from: The Gardener's Path
 
 ---
 
-## Are Doggy Doors Safe?
+## Here’s How To Keep Your Home Secure If You Have a Doggy Door
 
 date: 2025-05-15, from: Family Handyman Blog
 
 <p>They can offer pets more freedom, but are doggy doors safe? We ask the experts about the risks of dog doors and how to reduce them.</p>
-<p>The post <a href="https://www.familyhandyman.com/article/are-doggy-doors-safe/">Are Doggy Doors Safe?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/are-doggy-doors-safe/">Here&#8217;s How To Keep Your Home Secure If You Have a Doggy Door</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <br> 

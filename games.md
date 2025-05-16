@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-05-16 06:11:22
+updated: 2025-05-16 14:08:20
 ---
 
 # games
 
-(date: 2025-05-16 06:11:22)
+(date: 2025-05-16 14:08:20)
+
+---
+
+## All secret landing spots for ‘Layover’ in Doom: The Dark Ages
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+In Doom: The Dark Ages’ chapter 5, “The Holy City of Aratum,” you must find two secret landing spots to land your flying cyber…demon…dragon… thing to complete the chapter’s “Layover” challenge. This challenge aren’t mandatory for you to finish the chapter and progress the story, but it’s always worth checking what they are asking you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599655/layover-challenge-secret-landing-spots-all-where-to-find>
+
+---
+
+## Fortnite players are abusing AI Darth Vader, forcing him to say ‘Skibidi Toilet’ and worse
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+Shortly after Epic Games dropped Darth Vader, in the form of a holographic conversational AI, into Fortnite, players started figuring out how to get the Sith lord to say the worst things possible. That includes tricking Darth into saying the F-word, “edging and gooning,” and, chillingly, “Skibidi Toilets.” In response, Epic says it pushed out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/599687/fortnite-darth-vader-ai-abuse>
+
+---
+
+## Steam&#8217;s monthly top-releases charts just got a huge makeover
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+Steam is shaking things up with a refreshed look for its monthly top-releases chart, now spotlighting the platform’s highest-earning games each month. Users can also browse the top 50 titles going all the way back to November 2004, when Half-Life 2 launched. The new layout features a trailer section that highlights top games one at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599633/steams-monthly-top-releases-charts-just-got-a-huge-makeover>
+
+---
+
+## How to recruit Darth Vader in Fortnite
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+After facing his samurai iteration, you can recruit Darth Vader to your squad in Fornite, though be aware that he’ll now talk to you with an AI-recreated version of James Earl Jones’ iconic voice. The Chapter 6 Star Wars season of Fortnite, called Galactic Battle, is bringing famous characters and seasonal items themed around a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/599520/darth-vader-ai-location-boss-recruit-how-to>
+
+---
+
+## Killer Instinct Gold, the iconic N64 fighting game, just got added to Switch Online
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+“ULTRAAAAAAAA COMBO!” A battle cry that became popular with young fighting game fanatics in 1996 has returned: Killer Instinct Gold is now available on the Nintendo Switch Online + Expansion Pack subscription. And I’m thrilled. Killer Instinct Gold includes 10 playable characters and features exclusive to the Nintendo 64 game such as team battle, team elimination [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/599630/ki-switch-online-n64-retro-fighting-games>
+
+---
+
+## How to get the free Butcher skin in Doom: The Dark Ages
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+The Doom Slayer doesn’t have a deep wardrobe in Doom: The Dark Ages, but you can still add some flavor to his look. Among the options, you have the Butcher skin. It gives the Doom Slayer a bloody look, one that represents the feeling of playing this game. And the best part? It’s a free [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599615/butcher-skin-free-how-to-get>
+
+---
+
+## Bungie admits to lifting art for Marathon without credit
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+After visual and musical artist Antireal (aka 4nt1r34l) accused Bungie of using her artwork without credit in Marathon’s recently released alpha build, the studio has admitted to wrongdoing. On Thursday, Antireal said on X, “The Marathon alpha released recently and its environments are covered with assets lifted from poster designs I made in 2017.” And [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599536/bungie-marathon-stolen-artwork>
+
+---
+
+## How to get the General Grievous skin in Fortnite
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+At long last, you can play as General Grievous in Fortnite, so long as you have the Chapter 6 Galactic Battle Pass. Grievous and his second outfit, Warlord Grievous, are locked to it, but unlike previous special pass skins there aren’t any specific quests you have to complete to unlock him. Below we explain how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/599593/general-grievous-skin-unlock-battle-pass-requirements>
+
+---
+
+## How to get medallions in Fortnite Chapter 6 Star Wars season
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+Medallions return in Fortnite Chapter 6’s Star Wars season (Chapter 6 Season 3? Chapter 6 Mini-season 1? What is this season named?) after being first introduced in Chapter 5 Season 1. Two medallions are up for grabs as of the start Chapter 6 Star Wars season: the Phasma’s Blaster Medallion and the Super Shield Medallion, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/599537/medallion-locations-chapter-6-season-star-wars-c6ms1>
+
+---
+
+## Nintendo releases more details about free Switch 2 upgrades for certain games
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+While some OG Nintendo Switch games will be receiving paid Switch 2 upgrades, like The Legend of Zelda: Breath of the Wild, several others will receive performance upgrades for free. Though a game like New Super Mario Bros. U Deluxe already looked and played pretty great on the original Switch, you know Pokémon Scarlet and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/599535/free-switch-2-upgrades>
 
 ---
 

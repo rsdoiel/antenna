@@ -1,11 +1,37 @@
 ---
 title: ham radio
-updated: 2025-05-16 06:11:19
+updated: 2025-05-16 14:08:17
 ---
 
 # ham radio
 
-(date: 2025-05-16 06:11:19)
+(date: 2025-05-16 14:08:17)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-05-16, from: Amateur Radio Relay League News
+
+<p>After weeks of calm, solar activity is suddenly high again, with two<br />strong solar flares erupting from opposite sides of the Sun. A<br />Coronal Mass Ejection (CME) was associated with a strong solar flare<br />on May 12, but modeling shows the ejection passing behind Earth. The<br />geomagnetic field has been at unsettled to active conditions.<br /><br />A CME associated with a filament eruption in the northern hemisphere<br />is...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-14>
+
+---
+
+## Another PWM controls a switching voltage regulator
+
+date: 2025-05-16, from: EDN Blog
+
+<img width="1072" height="517" src="https://www.edn.com/wp-content/uploads/PWMcontrolregulator_Figure1.png?fit=1072%2C517" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PWMcontrolregulator_Figure1.png?w=1072 1072w, https://www.edn.com/wp-content/uploads/PWMcontrolregulator_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/PWMcontrolregulator_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/PWMcontrolregulator_Figure1.png?w=1024 1024w" sizes="(max-width: 1072px) 100vw, 1072px" /><p>A PWM-controlled regulator, this time using a logic gate IC, op-amp, and resistors and capacitors to buffer the PWM signal.</p>
+<p>The post <a href="https://www.edn.com/another-pwm-controls-a-switching-voltage-regulator/">Another PWM controls a switching voltage regulator</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/another-pwm-controls-a-switching-voltage-regulator/>
 
 ---
 
@@ -13,7 +39,7 @@ updated: 2025-05-16 06:11:19
 
 date: 2025-05-16, from: EDN Blog
 
-<img width="1170" height="680" src="https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?fit=1170%2C680" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=1170 1170w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=1024 1024w" sizes="(max-width: 1170px) 100vw, 1170px" /><p>Broadcom’s third-generation co-packaged optics (CPO) technology is engineered to address the scale issues in optical interconnects.</p>
+<img width="1170" height="680" src="https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?fit=1170%2C680" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=1170 1170w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-CPO.jpg?w=1024 1024w" sizes="auto, (max-width: 1170px) 100vw, 1170px" /><p>Broadcom’s third-generation co-packaged optics (CPO) technology is engineered to address the scale issues in optical interconnects.</p>
 <p>The post <a href="https://www.edn.com/the-200g-lane-cpo-pushes-optical-interconnect-boundaries/">The 200G/lane CPO pushes optical interconnect boundaries</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

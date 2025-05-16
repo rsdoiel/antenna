@@ -1,11 +1,191 @@
 ---
 title: going electric
-updated: 2025-05-16 06:11:25
+updated: 2025-05-16 14:08:24
 ---
 
 # going electric
 
-(date: 2025-05-16 06:11:25)
+(date: 2025-05-16 14:08:24)
+
+---
+
+## Ford F-150 Lightning retakes America’s best-selling electric pickup crown
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/lease-Ford-Lightning-Maverick-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford’s electric pickup truck is back at the top. The <a href="https://electrek.co/guides/ford-f-150-lightning/">F-150 Lightning</a> is once again the best-selling electric pickup in the US after overtaking the Tesla Cybertruck in the first quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning" data-layer-viewtype="unknown" data-post-id="416388" href="https://electrek.co/2025/05/16/ford-f-150-lightning-retakes-best-selling-electric-pickup-crown/#more-416388" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/ford-f-150-lightning-retakes-best-selling-electric-pickup-crown/>
+
+---
+
+## Lucid Will Ramp Up European Deliveries Using Its Expanded Saudi Plant
+
+date: 2025-05-16, from: Inside EVs News
+
+The first Saudi-made Lucids will reach Europe and non-Chinese Asian markets starting in 2027. 
+
+<br> 
+
+<https://insideevs.com/news/759746/lucid-saudi-plant-expansion-europe/>
+
+---
+
+## Podcast: EV tax credit on chopping block, Tesla’s China problem, Slate gets interest, and more
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss how the GOP plans to kill the EV tax credit, Tesla’s China problem, Slate getting some interest, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="416394" href="https://electrek.co/2025/05/16/podcast-ev-tax-credit-on-chopping-block-teslas-china-problem-slate-gets-interest-and-more/#more-416394" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/podcast-ev-tax-credit-on-chopping-block-teslas-china-problem-slate-gets-interest-and-more/>
+
+---
+
+## Tesla’s robotaxi fleet will be powered by ‘plenty of teleoperation’
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Elon-Musk-Tesla-remote-control.png?w=1600" /></div><p>Tesla’s Austin robotaxi fleet will be powered by ‘plenty of teleoperation’ as it “can’t screw up”, according to a new report from Morgan Stanley after meeting with Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416377" href="https://electrek.co/2025/05/16/tesla-robotaxi-fleet-powered-by-plenty-of-teleoperation/#more-416377" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/tesla-robotaxi-fleet-powered-by-plenty-of-teleoperation/>
+
+---
+
+## China's Lightweight Electric Sports Car Costs Less Than A Mazda Miata
+
+date: 2025-05-16, from: Inside EVs News
+
+The Small Sports Car SC01 is unlike any other EV available today, and it’s surprisingly affordable. 
+
+<br> 
+
+<https://insideevs.com/news/759880/sc01-electric-sports-car-china/>
+
+---
+
+## Green Deals EV edition – Lectric Memorial Day Sale takes up to $742 off e-bike bundles, Rad Power, Ride1Up, Velotric, more
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Lectric-XPedition-2.0-Cargo-e-bike-in-white-lifestyle-1.jpg?quality=82&#038;strip=all&#038;w=1201" /></div><p>Today is National Bike to Work Day which means today’s Green Deals are all about e-bikes! Headlining our lineup of savings today is <a href="https://9to5toys.com/2025/05/16/lectric-memorial-day-sale-from-999/">Lectric’s newly launched Memorial Day Sale</a> that is offering increased bundles with up to $742 in free gear, with the largest of them on the <a href="https://9to5toys.com/2025/05/16/lectric-memorial-day-sale-from-999/">XPedition 2.0 Cargo e-bikes</a> (biggest bundles to date) starting from <a href="https://9to5toys.com/2025/05/16/lectric-memorial-day-sale-from-999/">$1,399</a>. Next, from Rad Power’s <a href="https://9to5toys.com/2025/05/16/rad-powers-radrover-6-plus-radexpand-5-from-1299/">ongoing Mother’s Day savings</a>, we have the <a href="https://9to5toys.com/2025/05/16/rad-powers-radrover-6-plus-radexpand-5-from-1299/">RadRover 6 Plus and RadExpand 5 e-bikes</a> starting from <a href="https://9to5toys.com/2025/05/16/rad-powers-radrover-6-plus-radexpand-5-from-1299/">$1,299</a> for off-road commutes and those in need of space-saving options. There’s also <a href="https://9to5toys.com/2025/05/16/ride1ups-memorial-day-sale-from-1095/">Ride1Up’s Memorial Day Sale</a> that is taking up to $300 off two e-bikes, including the <a href="https://9to5toys.com/2025/05/16/ride1ups-memorial-day-sale-from-1095/">Prodigy v2 Mid-Drive models</a>, as well as an accessory promo on the <a href="https://9to5toys.com/2025/05/16/ride1ups-memorial-day-sale-from-1095/">Portola Folding e-bike</a>, among others. Lastly, <a href="https://9to5toys.com/2025/05/16/velotrics-t1-st-plus-e-bike-1399-more/">Velotric’s Bike Month Sale</a> has dropped the urban-minded <a href="https://9to5toys.com/2025/05/16/velotrics-t1-st-plus-e-bike-1399-more/">T1 ST Plus e-bike</a> with Apple Find My to <a href="https://9to5toys.com/2025/05/16/velotrics-t1-st-plus-e-bike-1399-more/">$1,399</a>, with others up to $400 off. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s launch deals on <a href="https://9to5toys.com/2025/05/15/jackery-homepower-3000-bundles-from-1999/">Jackery’s HomePower 3000 Solar generator</a> bundles, <a href="https://9to5toys.com/2025/05/15/preorder-segway-e2-plus-ii-350/">Segway’s E2 Plus II eKickScooter</a> preorder, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="416359" href="https://electrek.co/2025/05/16/lectric-xpedition-2-0-e-bike-rad-power-ride1up-velotric-more/#more-416359" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/lectric-xpedition-2-0-e-bike-rad-power-ride1up-velotric-more/>
+
+---
+
+## Dodge is scrapping the cheaper Charger EV, but the Scat Pack model will get a price cut
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Dodge-Charger-EV-discounts-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Dodge will not offer the entry-level <a href="https://electrek.co/guides/electric-dodge-charger/">electric Charger Daytona</a> R/T for 2026, leaving only the high-performance Scat Pack model. Other big changes, including lower prices, are coming for the 2026 Dodge Charger EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger" data-layer-viewtype="unknown" data-post-id="416356" href="https://electrek.co/2025/05/16/dodge-scrapping-charger-daytona-r-t-ev-but-theres-more/#more-416356" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/dodge-scrapping-charger-daytona-r-t-ev-but-theres-more/>
+
+---
+
+## Honda’s Prologue and the Chevy Equinox EV charge up electric vehicle sales in the US
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Honda-Chevy-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric vehicles continued to outpace the overall US auto market in March as buyers scooped up savings before higher prices, thanks to Trump’s tariffs, take effect. New models, including the <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> and Chevy Equinox EV, are driving sales growth in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-equinox-ev,honda-prologue" data-layer-viewtype="unknown" data-post-id="416342" href="https://electrek.co/2025/05/16/honda-prologue-chevy-equinox-ev-charge-up-sales-us/#more-416342" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/honda-prologue-chevy-equinox-ev-charge-up-sales-us/>
+
+---
+
+## ‘Arrogance': How U.S. Battery Inventions Supercharged China’s EVs
+
+date: 2025-05-16, from: Inside EVs News
+
+We also discuss Nissan’s radical plan for a turnaround and Tesla’s request to Panasonic to increase U.S battery production. 
+
+<br> 
+
+<https://insideevs.com/news/759852/us-ev-battery-innovation-powered-china-rise/>
+
+---
+
+## Mazda’s $20,000 EZ-6 electric sedan is getting a sporty upgrade
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Mazda-sporty-EZ-6-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Wait, <a href="https://electrek.co/guides/mazda/">Mazda</a> sells an EV for less than $20,000? The EZ-6 is sold in China but will launch in Europe and other global markets later this year. With overseas deliveries kicking off, Mazda unveiled a sporty new EZ-6 edition that’s actually pretty sleek. Will it arrive overseas?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="416327" href="https://electrek.co/2025/05/16/mazda-unveils-sporty-new-ez-6-edition-20000-ev/#more-416327" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/mazda-unveils-sporty-new-ez-6-edition-20000-ev/>
+
+---
+
+## Elon Musk hires another Tesla board member to cash checks and let him destroy the brand
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Tesla has hired a new board member with no automotive background, but that’s not a problem as the main responsibility of Tesla’s board members these days is to sell stocks and let Elon Musk destroy the brand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416329" href="https://electrek.co/2025/05/16/elon-musk-hires-another-tesla-board-member-to-cash-checks-destroy-brand/#more-416329" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/elon-musk-hires-another-tesla-board-member-to-cash-checks-destroy-brand/>
+
+---
+
+## This Dodge Charger Daytona Vs Tesla Model 3 Race Isn't Even Close
+
+date: 2025-05-16, from: Inside EVs News
+
+The two cars are separated by $30,000 in price and 2,000 pounds in weight. 
+
+<br> 
+
+<https://insideevs.com/news/759846/tesla-model-3-performance-vs-dodge-charger-daytona-drag/>
 
 ---
 
@@ -37,7 +217,7 @@ Renault added a rear motor to its electric crossover, making it all-wheel drive.
 
 ---
 
-## The Tesla Cybertruck Is No Longer The Best-Selling EV Truck In America
+## The Tesla Cybertruck Is No Longer America's Best-Selling Electric Pickup
 
 date: 2025-05-16, from: Inside EVs News
 
@@ -197,11 +377,11 @@ date: 2025-05-15, from: Electrek Feed
 
 ---
 
-## The Electric Dodge Charger Daytona R/T Is Dead: Report
+## The Electric Dodge Charger Daytona R/T Is Dead For 2026
 
 date: 2025-05-15, from: Inside EVs News
 
-Despite having bargain lease deals from the moment it hit dealer lots, demand may not have been enough to save it. 
+Despite having bargain lease deals from the moment it hit dealer lots, demand has been slim. 
 
 <br> 
 

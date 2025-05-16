@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-05-16 06:11:24
+updated: 2025-05-16 14:08:22
 ---
 
 # motorcycles
 
-(date: 2025-05-16 06:11:24)
+(date: 2025-05-16 14:08:22)
+
+---
+
+## Imminent Grandstand Sellout & local blackout lifted for 109th Indianapolis 500
+
+date: 2025-05-16, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer Fans that are unable to attend the 109th Indianapolis 500 in person will be able to watch the race live on FOX on May 25.&#160;&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/imminent-grandstand-sellout-local-blackout-lifted-for-109th-indianapolis-500/>
+
+---
+
+## Go Behind the Scenes at Mud Nats, the Gnarliest ATV Event Ever
+
+date: 2025-05-16, from: Ride Apart, Electric Motorcycle News
+
+You ever play in mud as a kid? This is like that, but with horsepower.  
+
+<br> 
+
+<https://www.rideapart.com/news/759725/mud-nat-nationals-atv-event-video-behind-the-scenes/>
+
+---
+
+## GoPro's Smart Motorcycle Helmet Is Finally On Its Way, With a Big Name Onboard
+
+date: 2025-05-16, from: Ride Apart, Electric Motorcycle News
+
+In 2024, the American action camera maker acquired Aussie helmet startup Forcite. But it wouldn't stop there. 
+
+<br> 
+
+<https://www.rideapart.com/news/759735/gopro-smart-helmet-coming-agv/>
 
 ---
 
@@ -75,7 +111,7 @@ Rainey isn't the only star you'd share the track with.
 
 date: 2025-05-15, from: Kickin the Tires blog
 
-Thursday saw the first full day of practice for the 109th Indianapolis 500 as the 34 entrants saw six hours of running. In addition to the full day of running,&#8230;  
+By Austin Lawton, Staff Writer Thursday saw the first full day of practice for the 109th Indianapolis 500 as the 34 entrants saw six hours of running. In addition to&#8230;  
 
 <br> 
 
@@ -186,7 +222,7 @@ It’s exactly the high-tech, high-performance electric dirt bike you’d expect
 
 date: 2025-05-14, from: Kickin the Tires blog
 
-The second day of Indianapolis 500 practice saw fast speeds and more rain as Alex Palou was fastest on the day.&#160; The Indianapolis area saw heavy rain overnight and into&#8230;  
+By Austin Lawton, Staff Writer The second day of Indianapolis 500 practice saw fast speeds and more rain as Alex Palou was fastest on the day.&#160; The Indianapolis area saw&#8230;  
 
 <br> 
 
@@ -210,7 +246,7 @@ H Partners Management's plot didn't work.
 
 date: 2025-05-14, from: Kickin the Tires blog
 
-Legends are made at Indianapolis and a pair of sports legends will take to the track on the morning of the 109th Indianapolis 500.&#160; Seven-time NASCAR Cup Champion, former IndyCar&#8230;  
+By Austin Lawton, Staff Writer Legends are made at Indianapolis and a pair of sports legends will take to the track on the morning of the 109th Indianapolis 500.&#160; Seven-time&#8230;  
 
 <br> 
 

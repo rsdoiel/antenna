@@ -1,11 +1,191 @@
 ---
 title: food
-updated: 2025-05-16 06:11:26
+updated: 2025-05-16 14:08:24
 ---
 
 # food
 
-(date: 2025-05-16 06:11:26)
+(date: 2025-05-16 14:08:24)
+
+---
+
+## Bradley Cooper’s Favorite Meal Is One of His Grandmother’s Recipes
+
+date: 2025-05-16, from: Taste of Home
+
+<p>Talk about a grandma's boy!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bradley-cooper-grandma-cheesecake/">Bradley Cooper’s Favorite Meal Is One of His Grandmother’s Recipes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bradley-cooper-grandma-cheesecake/>
+
+---
+
+## We Created the World's Best Restaurant—For Just One Night
+
+date: 2025-05-16, from: Bon Appetet
+
+At an exclusive dinner inside the New York Public Library, Bon Appétit assembled some of the best chefs in the world for an unforgettable four-course meal. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/we-created-the-worlds-best-restaurant-for-just-one-night>
+
+---
+
+## Princess Diana Loved This Hack For Extra Crispy Potatoes
+
+date: 2025-05-16, from: Taste of Home
+
+<p>People who like their spuds with extra crunch are going to want to try this immediately. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/princess-diana-favorite-potato-recipe/">Princess Diana Loved This Hack For Extra Crispy Potatoes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/princess-diana-favorite-potato-recipe/>
+
+---
+
+## The 9 Best Bars and Cafes In Philadelphia
+
+date: 2025-05-16, from: Bon Appetet
+
+Whether you’re sipping a Japanese whisky or enjoying a traditional chai, these 9 spots reflect Philly’s booming drinks scene 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-bars-and-cafes-in-philadelphia>
+
+---
+
+## Why Is Flour Sold in Those Hard-to-Open Paper Bags?
+
+date: 2025-05-16, from: Taste of Home
+
+<p>Just about everything you see in the grocery store is wrapped in plastic. So why does flour come in paper bags, like it's still the 19th century?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-does-flour-come-in-paper-bags/">Why Is Flour Sold in Those Hard-to-Open Paper Bags?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-does-flour-come-in-paper-bags/>
+
+---
+
+## I Tried Paul Hollywood’s Focaccia Recipe, and I Gave It a Handshake
+
+date: 2025-05-16, from: Taste of Home
+
+<p>Does Paul Hollywood's focaccia deserve a handshake? I tried it to find out.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/paul-hollywood-focaccia-recipe/">I Tried Paul Hollywood&#8217;s Focaccia Recipe, and I Gave It a Handshake</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/paul-hollywood-focaccia-recipe/>
+
+---
+
+## The Philadelphia Bar Inspired By Japanese Cocktail Culture
+
+date: 2025-05-16, from: Bon Appetet
+
+Almanac is an ambitious Japanese-style speakeasy that's a love letter to all things local and seasonal. 
+
+<br> 
+
+<https://www.bonappetit.com/story/almanac-philadelphia-slow-drinks-foraged-cocktails>
+
+---
+
+## The Best Way to Ask for Menu Recommendations
+
+date: 2025-05-16, from: Bon Appetet
+
+If you want to ace your order, here are the questions you should and shouldn’t ask, according to the pros. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-to-ask-restaurant-servers-what-to-order>
+
+---
+
+## World Coffee Roasting Champion Mikaël Portannier On The Latest Coffee Sprudgecast
+
+date: 2025-05-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Roasting Champions, Transparency Reports, and traveling with Frosted Mini Wheats on a new episode of the Coffee Sprudgecast.  
+
+<br> 
+
+<https://sprudge.com/world-coffee-roasting-champion-mikael-portannier-on-the-latest-coffee-sprudgecast-337875.html>
+
+---
+
+## The Best Coffee Grinder (2025) Reviewed by Our Experts
+
+date: 2025-05-16, from: Bon Appetet
+
+This is what you need to go from good coffee to great coffee. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-coffee-grinders>
+
+---
+
+## I Tried The Viral Udon Carbonara Everyone Is Losing Their Mind Over
+
+date: 2025-05-16, from: Taste of Home
+
+<p>Udon carbonara is a dish born in Japan, inspired by Italy and popularized by social media. Of course, we had to try it.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/udon-carbonara/">I Tried The Viral Udon Carbonara Everyone Is Losing Their Mind Over</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/udon-carbonara/>
+
+---
+
+## The Society6 Memorial Day Sale Is Here—Stock Up on Art and Entertaining Essentials
+
+date: 2025-05-16, from: Taste of Home
+
+<p>Stock up on art and entertaining essentials with the five-day Society6 Memorial Day Sale. Save up to 30% across many product categories!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/society6-memorial-day-sale/">The Society6 Memorial Day Sale Is Here—Stock Up on Art and Entertaining Essentials</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/society6-memorial-day-sale/>
+
+---
+
+## India Coffee Report: Weather to Reduce Output Amid Increased Demand
+
+date: 2025-05-16, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/India-Coffee-Market-report-620x400.png" class="attachment-large size-large wp-post-image" alt="India Coffee Market report" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/India-Coffee-Market-report-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/India-Coffee-Market-report-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/India-Coffee-Market-report-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/India-Coffee-Market-report-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/India-Coffee-Market-report.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>India’s total coffee production is forecast to decline in the 2025/26 market year (October through September), with total output expected to fall to the equivalent of 6 million 60-kilogram bags,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/16/india-coffee-report-weather-to-reduce-output-amid-increased-demand/>
+
+---
+
+## Weekly Coffee News: Brazil Shipment Backup + Tariff-Related Disruptions
+
+date: 2025-05-16, from: Daily Coffee News
+
+<div><img width="620" height="454" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-port-1-620x454.jpg" class="attachment-large size-large wp-post-image" alt="Brazil port" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-port-1-620x454.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-port-1-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-port-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-port-1-768x562.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-port-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Analysis: Brazil&#8217;s Deteriorating Port Structure Resulting in Financial Losses... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/16/weekly-coffee-news-brazil-shipment-backup-tariff-related-disruptions/>
 
 ---
 
@@ -125,7 +305,7 @@ Our juiciest steaks with a caramelized honey-mayo crust, blackened chicken thigh
 
 date: 2025-05-15, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Whammy Coffee Birmingham downtown" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Birmingham, Alabama, coffee scene gained a doozy this spring with the grand opening of Whammy Coffee&#8216;s first brick-and-mortar cafe. In the ground floor space of the Denham Building formerly... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Whammy Coffee Birmingham downtown" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Whammy-Coffee-Birmingham-downtown.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Birmingham, Alabama, coffee scene gained a doozy this spring with the grand opening of Whammy Coffee&#8216;s first brick-and-mortar cafe. In the ground floor space of the Denham Building formerly... 
 
 <br> 
 
@@ -149,7 +329,7 @@ date: 2025-05-15, from: The Sprudge
 
 date: 2025-05-15, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Roast Summit 2024-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roast magazine, the leading technical trade publication for the specialty coffee industry, is proud to announce the return of Roast Summit to its hometown of Portland, Oregon, on Oct. 2–3,... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Roast Summit 2024-2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Roast-Summit-2024-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Roast magazine, the leading technical trade publication for the specialty coffee industry, is proud to announce the return of Roast Summit to its hometown of Portland, Oregon, on Oct. 2–3,... 
 
 <br> 
 
@@ -253,7 +433,7 @@ date: 2025-05-14, from: The Sprudge
 
 date: 2025-05-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Education" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States- and UK-based Specialty Coffee Association (SCA) is rolling out a new tiered pricing structure for its professional education program based on geographic location.&#160; According to an announcement... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Education" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Education.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The United States- and UK-based Specialty Coffee Association (SCA) is rolling out a new tiered pricing structure for its professional education program based on geographic location.&#160; According to an announcement... 
 
 <br> 
 

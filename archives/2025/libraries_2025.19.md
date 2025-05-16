@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-16 06:11:23
+updated: 2025-05-16 14:08:21
 ---
 
 # libraries
 
-(date: 2025-05-16 06:11:23)
+(date: 2025-05-16 14:08:21)
+
+---
+
+## Letter Opposing Pro Codes Act
+
+date: 2025-05-16, from: Association of Research Libraries News
+
+<p>Last Updated on May 16, 2025, 4:28 pm ET On May 16, 2025, ARL signed on to a letter to the House and Senate Judiciary Committees opposing the Pro Codes...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/letter-opposing-pro-codes-act-2/">Letter Opposing Pro Codes Act</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/letter-opposing-pro-codes-act-2/>
 
 ---
 
@@ -229,11 +243,23 @@ Khan, Dean
 
 ---
 
+## Elasticity-based primary pressure scales at high pressures and implications on the density deficit of Earth’s Inner Core
+
+date: 2025-05-13, from: ETH Zurich, recently added
+
+Ma, Ning 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/735940>
+
+---
+
 ## Day in Review (May 12–15)
 
 date: 2025-05-12, from: Association of Research Libraries News
 
-<p>Last Updated on May 15, 2025, 4:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
+<p>Last Updated on May 16, 2025, 1:23 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 13 &#124; Wednesday, May 14 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-12-15/">Day in Review (May 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

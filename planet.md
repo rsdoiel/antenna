@@ -1,11 +1,327 @@
 ---
 title: planet
-updated: 2025-05-16 06:11:16
+updated: 2025-05-16 14:08:15
 ---
 
 # planet
 
-(date: 2025-05-16 06:11:16)
+(date: 2025-05-16 14:08:15)
+
+---
+
+## Combs's ex Cassie takes witness stand for fourth day
+
+date: 2025-05-16, from: RTÉ News
+
+Defence lawyers for music mogul Sean Combs have cross-examined his ex-girlfriend Casandra Ventura for a second day at his sex trafficking trial, seeking to poke holes in her testimony and portray her as erratic. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513341-sean-combs-trial/>
+
+---
+
+## Thousands attend rally for inquiry into Sean Brown murder
+
+date: 2025-05-16, from: RTÉ News
+
+Thousands of people have attended a rally in support of the family of murdered GAA official Sean Brown. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513340-sean-brown-protest/>
+
+---
+
+## Putin and Zelensky battle to remain in Trump's thoughts
+
+date: 2025-05-16, from: RTÉ News
+
+The talks in Istanbul were given the worst billing imaginable, writes Tony Connelly. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0516/1513325-ukraine-russia-war/>
+
+---
+
+## 2024 Young Scientist winner honoured at US event
+
+date: 2025-05-16, from: RTÉ News
+
+Seán O'Sullivan, the 2024 winner of the BT Young Scientist and Technology Exhibition, has won fourth place in the Technology Enhances the Arts category at the International Science and Engineering Fair in Ohio. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513333-sean-osullivan/>
+
+---
+
+## Father found not guilty of cruelty to five month old baby
+
+date: 2025-05-16, from: RTÉ News
+
+A father has been found not guilty of assaulting his five-month-old daughter who had bleeding in the brain, a fractured collar bone and bruising to her face and body when she was taken to Cork University Hospital in January of 2021. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513331-father-not-guilty/>
+
+---
+
+## Man sentenced to 13 and a half years for importing heroin
+
+date: 2025-05-16, from: RTÉ News
+
+A man has been jailed for 13 and a half years in relation to his "high" level role in importing €2.769 million worth of heroin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513329-andrew-noonan-court/>
+
+---
+
+## Eurovision - what's next for Ireland?
+
+date: 2025-05-16, from: RTÉ News
+
+Last night, Emmy's Eurovision party came to a sudden end at the St Jacobshalle in Basel, Switzerland. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0516/1513321-eurovision-whats-next-for-ireland/>
+
+---
+
+## Fragments of remains found in Joe Lynskey search
+
+date: 2025-05-16, from: RTÉ News
+
+The Independent Commission for the Location of Victims' Remains has reported that fragments of human remains have been found at a site which it was investigating in Annyalla Cemetery, Co Monaghan. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513324-disappeared-search/>
+
+---
+
+## Family of crash victim says lives have been 'destroyed'
+
+date: 2025-05-16, from: RTÉ News
+
+The family of a man who died after a car driven by a college friend hit a kerb after he misjudged a corner have said that their lives have been destroyed following his death. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513307-kirwan-statements/>
+
+---
+
+## Doubt cast on 'Napalm Girl' photographer's identity
+
+date: 2025-05-16, from: RTÉ News
+
+World Press Photo has said it removed US-Vietnamese photographer Nick Ut's name as the person credited for one of history's most iconic pictures, the Vietnam War image "Napalm Girl", amid doubts over its authorship. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0516/1513319-napalm-girl-photo/>
+
+---
+
+## Trump insults Springsteen, Swift from Air Force One
+
+date: 2025-05-16, from: RTÉ News
+
+US President Donald Trump has used his down time on Air Force One to insult "obnoxious JERK" Bruce Springsteen and declare Taylor Swift "no longer HOT" in social media blasts against the music giants. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0516/1513313-trump-springsteen-swift/>
+
+---
+
+## The rite for the Inauguration of the Petrine Ministry of Leo XIV
+
+date: 2025-05-16, from: Vatican News
+
+
+                    <p>The celebration marking the official beginning of Pope Leo XIV’s pontificate on May 18 is a solemn liturgy. The rite highlights the bond with the Apostle Peter and his martyrdom, which nurtured the nascent Church of Rome, and the significance of the “Petrine” episcopal insignia conferred upon the Pope: the Pallium and the Ring of the Fisherman.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/rite-inauguration-petrine-ministry-leo-xiv-symbolism-rites.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/rite-inauguration-petrine-ministry-leo-xiv-symbolism-rites.html>
+
+---
+
+## Salman Rushdie assailant sentenced to 25 years in prison
+
+date: 2025-05-16, from: RTÉ News
+
+An American-Lebanese man has been sentenced to 25 years in prison for trying to kill novelist Salman Rushdie in a 2022 knife attack at a New York cultural centre. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513311-salman-rushdie-court/>
+
+---
+
+## Global hunger surges amid wars, climate crisis and funding gaps
+
+date: 2025-05-16, from: Vatican News
+
+
+                    <p>The 2025 Global Network Against Food Crises report reveals a sharp rise in global hunger. Over 295 million people now face severe food insecurity, an increase of 14 million from the previous year.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/global-network-against-food-crisis-report-2025-hunger-fao-interv.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/global-network-against-food-crisis-report-2025-hunger-fao-interv.html>
+
+---
+
+## Drogheda businesses taking part in trial late-night hours
+
+date: 2025-05-16, from: RTÉ News
+
+Four businesses with a café offering in Drogheda are to trial keeping their doors open late into the night as part of an initiative to promote and diversify the town's late-night entertainment offering. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513304-drogheda-latenight/>
+
+---
+
+## Ex-classmate remembers Pope Leo XIV as 'man of integrity'
+
+date: 2025-05-16, from: Vatican News
+
+
+                    <p>Fr Anthony Pizzo, Prior of the Midwest Province of the Augustinian Order, shares his personal experience of Pope Leo XIV, describing him as a man of integrity, balance, and deep commitment to the mission of the Church.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-augustinian-soul-anthony-pizzo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-augustinian-soul-anthony-pizzo.html>
+
+---
+
+## Pope Leo is walking in Francis's shoes, but likely to tread his own path
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7535720.1747321878!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2214681415.jpg' alt='A smiling man in a white cossack and skullcap.' width='620' height='349' title='VATICAN CITY, VATICAN - MAY 12:  Pope Leo XIV shakes the hands and greets people of the press after an audience with thousands of journalists and media workers on May 12, 2025 at Paul VI Hall in Vatican City, Vatican. The audience with journalists has become a tradition among newly elected popes.  (Photo by Christopher Furlong/Getty Images)'/><p>While Pope Leo XIV may walk in Francis's shoes, early signs point to a papacy with a style and direction all its own — straddling ideological lines and blending traditional Catholic signifiers with a new political awareness.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/leo-francis-early-days-1.7535553?cmp=rss>
+
+---
+
+## What's going on with air traffic control in the U.S.? Here are the facts
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7537293.1747419428!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-aviation-newark-united-arlns.JPG' alt='A white aircraft with a blue tail sits on the tarmac of an airport.' width='620' height='349' title='A plane docks on the tarmac after an air traffic control outage, bringing flights to a standstill at Newark Liberty International Airport in Newark, New Jersey, U.S., May 12, 2025.'/><p>Three technical outages affecting Newark airport have traumatized air traffic controllers and worried passengers about the safety of U.S. air travel. Here are the facts on what’s happening.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/air-traffic-control-us-facts-1.7537258?cmp=rss>
+
+---
+
+## Validity of farmer's marriage questioned at inquest
+
+date: 2025-05-16, from: RTÉ News
+
+A coroner's court has heard claims that an inquest into the death of an Offaly farmer is being used to question the validity of his marriage on the day before he died two years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513301-joe-grogan-inquest/>
+
+---
+
+## Judge calls for risk assessement on woman who faked death
+
+date: 2025-05-16, from: RTÉ News
+
+A judge has directed the Probation Services to carry out a risk assessment on a woman who faked her own death to avoid going to court to face theft and deception charges. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513297-amy-mcauley-court/>
+
+---
+
+## Over 100 people killed in Israeli strikes on Gaza as death toll crosses 53,000
+
+date: 2025-05-16, from: Vatican News
+
+
+                    <p>More than 100 people were killed by Israeli strikes in Gaza on Friday as the death toll in the enclave, since 7 October 2023, crosses 53,000. Gaza's health ministry said hundreds more were injured in addition to those killed. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/gaza-israel-strikes-deaths-blockade-humanitarian-trump.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/gaza-israel-strikes-deaths-blockade-humanitarian-trump.html>
+
+---
+
+## Man jailed for dangerous driving causing death of friend
+
+date: 2025-05-16, from: RTÉ News
+
+A 22-year-old man has been jailed for 18 months, after he admitted dangerous driving causing the death of a college friend when they were on a night out together in Co Tipperary in March 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0516/1513287-nenagh-court-fitzpatrick/>
+
+---
+
+## Man convicted of murdering his mother in her home
+
+date: 2025-05-16, from: RTÉ News
+
+A jury has convicted a 39-year-old man of murder, rejecting his claim that he was provoked and defending himself from an attack by his ailing 58-year-old mother, whom he strangled and smothered to death in her home. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513292-courts-murder/>
+
+---
+
+## Carney travelling to Rome with Liberal MPs for Pope's inaugural mass
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7537141.1747416688!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/carney-rome-20250513.jpg' alt='Man makes a gesture to his left while walking.' width='620' height='349' title='Prime Minister Mark Carney gestures toward his cabinet, not seen, as he prepares to speak to reporters following a swearing-in ceremony at Rideau Hall in Ottawa, on Tuesday, May 13, 2025. '/><p>Prime Minister Mark Carney will travel to Rome for his first official trip to the Vatican where he will attend the inaugural mass for Pope Leo XIV on Sunday. He's expected to meet with world leaders, including members of the G7.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/carney-travelling-to-rome-with-liberal-mps-for-pope-s-inaugural-mass-1.7537089?cmp=rss>
+
+---
+
+## Further review into Portiuncula maternity care
+
+date: 2025-05-16, from: RTÉ News
+
+A further external review into maternity care provided at Portiuncula Hospital in Co Galway has begun. It follows the death of a baby at the hospital recently. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0516/1513283-maternity-care-portiuncula/>
 
 ---
 
@@ -45,7 +361,91 @@ The awarding of bonus points to students who achieve a pass or more in Higher Le
 
 ---
 
-## Call for people to consider 'life saving' organ donation
+## End senseless killings in the West Bank: UN rights office
+
+date: 2025-05-16, from: United Nations, Top Stories
+
+The UN human rights office (OHCHR) called on Friday for an end to senseless killings in the occupied West Bank, where a pregnant Israeli woman was among the latest victims.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163326>
+
+---
+
+## ‘On thin ice’: UN chief sounds alarm over rapid Himalayan glacier melt
+
+date: 2025-05-16, from: United Nations, Climate Change
+
+The United Nations Secretary-General warned on Friday that Himalayan glaciers are “caving in,” urging immediate action to address the climate crisis, especially in the world’s most fragile ecosystems. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163376>
+
+---
+
+## World News in Brief: Russia-Ukraine talks, Sudan exodus worsens, Colombia displacement rises
+
+date: 2025-05-16, from: United Nations, Top Stories
+
+The United Nations has welcomed talks between Russia and Ukraine held on Friday in Türkiye. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163371>
+
+---
+
+## Journalists being forgotten on the frontline, warns injured war reporter
+
+date: 2025-05-16, from: United Nations, Top Stories
+
+A war reporter from Lebanon who lost a limb in the line of duty is calling for an end to impunity for attacks against journalists. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163346>
+
+---
+
+## UN’s Türk criticises ‘draconian’ decree limiting dissent in Mali
+
+date: 2025-05-16, from: United Nations, Top Stories
+
+The military authorities in Mali have dissolved all political parties and repealed laws protecting political participation, drawing sharp condemnation from the UN’s top human rights official on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163351>
+
+---
+
+## Another year, another rise in food insecurity – including famine
+
+date: 2025-05-16, from: United Nations, Top Stories
+
+In July 2024, famine was detected in the Sudan’s Zamzam IDP camp. In the following months, the official alert expanded to other camps in Darfur and Western Nuba Mountains. From December until now, famine has been&nbsp;confirmed in five other areas of the war-torn country. A further 17 areas are at risk.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163321>
+
+---
+
+## Gazans ‘in terror’ after another night of deadly strikes and siege
+
+date: 2025-05-16, from: United Nations, Top Stories
+
+Amid reports that Israeli strikes across Gaza overnight into Friday killed at least 64 people, aid teams once again pushed back strongly at allegations that aid is being diverted to Hamas, demanding an end to Israel’s blockade. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163316>
+
+---
+
+## Call for people to consider 'life-saving' organ donation
 
 date: 2025-05-16, from: RTÉ News
 
@@ -54,6 +454,22 @@ Lung transplant patients have encouraged the public to consider the "life-saving
 <br> 
 
 <https://www.rte.ie/news/health/2025/0516/1513265-organ-donation/>
+
+---
+
+## Cardinal Tagle reflects on Pope Leo XIV as a missionary shepherd
+
+date: 2025-05-16, from: Vatican News
+
+
+                    <p>The Pro-Prefect of the Dicastery for Evangelization speaks with Vatican News about Pope Leo XIV, shares his spiritual experience of the conclave, and reflects on the legacy of Pope Francis nearly a month after his passing.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/tagle-leo-xiv-a-missionary-shepherd-who-leads-by-listening.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/tagle-leo-xiv-a-missionary-shepherd-who-leads-by-listening.html>
 
 ---
 
@@ -81,11 +497,23 @@ Two firefighters and a member of the public have died following a large fire at 
 
 ---
 
-## Irish aid for Gaza held up for two months
+## Chris Brown to be held in custody over alleged 2023 assault in U.K.
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7536956.1747409297!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2165182088.jpg' alt='A heavily tatooed man wearing a baseball cap sings into a wireless microphone.' width='620' height='349' title='LAS VEGAS, NEVADA - AUGUST 03: Chris Brown performs during The 11:11 Tour at T-Mobile Arena on August 03, 2024 in Las Vegas, Nevada. (Photo by Mindy Small/Getty Images)'/><p>American singer Chris Brown was denied bail and ordered to be held in custody Friday after appearing in a British courtroom. He is facing allegations he beat a music producer with a bottle in a London nightclub in 2023.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/chris-brown-london-nightclub-fight-custody-1.7536875?cmp=rss>
+
+---
+
+## Taoiseach joins call on Israel to lift Gaza blockade
 
 date: 2025-05-16, from: RTÉ News
 
-Two consignments of Irish humanitarian aid have been held up in a warehouse in Jordan for the past two months. 
+Taoiseach Micheál Martin has signed a joint statement alongside a number of European Union and non-EU European leaders condemning what they have described as "the man-made humanitarian catastrophe taking place before our eyes in Gaza". 
 
 <br> 
 
@@ -93,11 +521,23 @@ Two consignments of Irish humanitarian aid have been held up in a warehouse in J
 
 ---
 
-## Plans over IPAS centre at former Coolock factory scrapped
+## Man convicted of stabbing Salman Rushdie sentenced to 25 years in prison
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7536920.1747407039!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/salman-rushdie-assault.jpg' alt='A man leans on a desk' width='620' height='349' title='Hadi Matar, charged with severely injuring author Salman Rushdie in a 2022 knife attack, sits in Chautauqua County court after being found guilty on all counts in Mayville, N.Y., Friday, Feb. 21, 2025. '/><p>The man convicted of stabbing Salman Rushdie on a New York lecture stage in 2022, leaving the prizewinning author blind in one eye, was sentenced Friday to serve 25 years in prison.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/rushdie-stabbing-sentencing-1.7536907?cmp=rss>
+
+---
+
+## Criticism of Government's handling of Coolock IPAS centre
 
 date: 2025-05-16, from: RTÉ News
 
-Plans to accommodate asylum seekers at the former paint factory in Coolock, north Dublin, have been scrapped. 
+There has been widespread criticism of the Government's handling of plans to accommodate asylum seekers at the site of a former paint factory in Coolock, after they made a u-turn on the decision today. 
 
 <br> 
 
@@ -129,6 +569,18 @@ A High Court judge has led tributes in court to reporter Aodhán Ó Faoláin who
 
 ---
 
+## Trump says 'people are starving' in Gaza amid deadliest 24 hours of Israeli strikes in months
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7536776.1747401288!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='People cry and scream while holding out empty pots and dishes' width='620' height='349' title='Palestinians wait to receive food cooked by a charity kitchen, in Jabalia, in the northern Gaza Strip, May 14, 2025. '/><p>U.S. President Donald Trump on Friday backed aid for the Palestinians, saying people in Gaza are starving and adding that he expected "a lot of good things" in the next month.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-trump-starving-1.7536729?cmp=rss>
+
+---
+
 ## Trial date set for Jeffrey and Eleanor Donaldson
 
 date: 2025-05-16, from: RTÉ News
@@ -157,6 +609,18 @@ date: 2025-05-16, from: Vatican News
 
 ---
 
+## Tthebatthı Dënésułıné celebrates name change from Smith's Landing First Nation
+
+date: 2025-05-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7536766.1747400501!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tthebatth-denesu-ne-celebration.jpg' alt='People sit in a room smiling. ' width='620' height='349' title=''/><p>Tthebatthı is a combination of the Dënésułıné words for rapids and head, together meaning head of the rapids.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/smith-s-landing-first-nation-changes-name-to-tthebatth%C4%B1-d%C3%ABn%C3%A9su%C5%82%C4%B1n%C3%A9-1.7536219?cmp=rss>
+
+---
+
 ## 'It's a shame' - Irish fans react to Eurovision exit
 
 date: 2025-05-16, from: RTÉ News
@@ -181,11 +645,11 @@ Sky has said that a technical issue with its Sky Q TV service, which affected so
 
 ---
 
-## Talks between Russian and Ukrainian delegations end
+## As it happened: Russia and Ukraine to swap 1,000 POWs
 
 date: 2025-05-16, from: RTÉ News
 
-Follow live developments as delegations from Moscow and Kyiv are in Istanbul today for talks while European leaders are in Albania for the sixth summit of the European Political Community. 
+Look back on live updates after delegations from Moscow and Kyiv met in Istanbul for talks while European leaders met in Albania for the sixth summit of the European Political Community. 
 
 <br> 
 
@@ -209,6 +673,18 @@ date: 2025-05-16, from: Vatican News
 
 ---
 
+## Georgia hospital says it's following state law in continuing pregnancy of woman on life support
+
+date: 2025-05-16, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7536702.1747395363!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pregnant-woman-brain-death.jpg' alt='The top of a multi-storey building is shown, and atop the building is a sign that reads &apos;Emory.&apos;' width='620' height='349' title='Emory University Hospital Midtown is seen on Thursday, May 15, 2025, in Atlanta. '/><p>A pregnant woman in Georgia who was declared brain-dead after a medical emergency has been on life support for three months to let the fetus grow enough to be delivered, a move her family says a hospital told them was required under the state's strict anti-abortion law.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/georgia-pregnancy-controversy-1.7536691?cmp=rss>
+
+---
+
 ## OPW minister welcomes bike shelter report findings
 
 date: 2025-05-16, from: RTÉ News
@@ -221,11 +697,23 @@ The Minister of State with responsibility for the Office of Public Works has sai
 
 ---
 
-## 'A lot of people are starving' in besieged Gaza - Trump
+## Indigenous leaders call on new Pope to return thousands of artifacts
+
+date: 2025-05-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7536535.1747355533!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/inuvialuit-kayak.jpg' alt='A kayak' width='620' height='349' title='A rare Inuvialuit kayak from the western Arctic, one of five of its kind in the world, is on display at the Vatican Museums.'/><p>The Federation of Sovereign Indigenous Nations (FSIN) is calling for the Vatican to return sacred First Nation artifacts that were taken from Indigenous communities during the residential school era.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatoon/indigenous-leaders-call-pope-return-artifacts-1.7536529?cmp=rss>
+
+---
+
+## Israeli strikes kill 88 people in Gaza, rescuers say
 
 date: 2025-05-16, from: RTÉ News
 
-US President Donald Trump has said "a lot of people are starving" in besieged Gaza, where rescuers reported more than 74 deaths in Israeli air strikes. 
+Rescuers have said Israeli strikes on Gaza killed nearly 90 people, while Hamas demanded the United States press Israel to lift a sweeping aid blockade in return for a US-Israeli hostage released by the group. 
 
 <br> 
 
@@ -242,6 +730,18 @@ European Central Bank interest rates may be close to bottoming out but uncertain
 <br> 
 
 <https://www.rte.ie/news/business/2025/0516/1513211-european-central-bank-interest-rates/>
+
+---
+
+## Northern Ontario First Nations fear uphill battle to preserve rights as Bill 5 speeds through legislature
+
+date: 2025-05-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7536316.1747342561!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/friends-of-the-attawapiskat-river.jpg' alt='People posing for a picture.' width='620' height='349' title='Friends of the Attawapiskat River and other First Nation groups were at Queen&apos;s Park this week to voice their concerns over Bill 5.'/><p>The Ford government says it will continue to fulfil its duty to consult Indigenous communities, but the legislation on 'special economic zones' provides no oversight mechanism for First Nations to participate or object to decisions made under the Act.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/ford-government-mining-industry-special-economic-zones-1.7536263?cmp=rss>
 
 ---
 
@@ -293,6 +793,18 @@ A US infant with a rare condition has become history's first patient to be treat
 
 ---
 
+## Allegations of caribou wastage after hunt meant to vilify First Nations hunters, former lodge owner says
+
+date: 2025-05-16, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7534391.1747270460!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nueltin-lake-lodge.jpg' alt='People are seen cutting up dead caribou for meat.' width='620' height='349' title='Caribou hunters are seen cutting up caribou at the lodge in undated surveillance footage publicly released on Tuesday.'/><p>The former owner of a remote lodge in northern Manitoba where recent caribou hunts led to allegations of vandalism and animal wastage says he believes images of dead fetuses at the site were circulated with the intent of making First Nations hunters "look bad."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/caribou-fetuses-lodge-nueltin-1.7535435?cmp=rss>
+
+---
+
 ## European leaders ready to impose fresh Russian sanctions
 
 date: 2025-05-16, from: RTÉ News
@@ -341,11 +853,11 @@ An off-grid micro-distillery has opened on Lambay Island, three miles off the co
 
 ---
 
-## Ukraine, Russia delegations sit down for first ceasefire talks in 3 years
+## Ukraine, Russia delegations meet, agree to exchange hundreds of POWs
 
 date: 2025-05-16, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7536711.1747396434!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-talks.JPG' alt='Several people are shown sitting at a long conference room table.' width='620' height='349' title='A Ukrainian delegation, led by Ukrainian Defence Minister Rustem Umerov, in black shirt, attends the meeting on Friday in Istanbul.'/><p>Russian and Ukrainian negotiators met in Istanbul on Friday at their first direct peace talks in more than three years, under pressure from U.S. President Donald Trump to end Europe's deadliest conflict since the Second World War.</p> 
+<img src='https://i.cbc.ca/1.7536711.1747396434!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-talks.JPG' alt='Several people are shown sitting at a long conference room table.' width='620' height='349' title='A Ukrainian delegation, led by Ukrainian Defence Minister Rustem Umerov, in black shirt, attends the meeting on Friday in Istanbul.'/><p>The first direct peace talks between Russia and Ukraine in more than three years lasted less than two hours, with no apparent sign of progress so far in narrowing the gap between the sides, though a deal was reached to exchange about 1,000 prisoners of war each.</p> 
 
 <br> 
 
@@ -353,11 +865,11 @@ date: 2025-05-16, from: CBC, World News
 
 ---
 
-## Russia-Ukraine talks end after less than two hours
+## Russia, Ukraine agree large-scale prisoner swap in talks
 
 date: 2025-05-16, from: RTÉ News
 
-The first direct peace talks between Russia and Ukraine in more than three years lasted well under two hours, with no apparent sign of progress so far in narrowing the gap between the sides. 
+Russia and Ukraine agreed a large-scale prisoner exchange, said they would trade ideas on a possible ceasefire and discussed a potential meeting between Volodymyr Zelensky and Vladimir Putin in their first direct talks in over three years. 
 
 <br> 
 
@@ -389,11 +901,11 @@ R&B singer Chris Brown, 36, has been remanded in custody until 13 June by a judg
 
 ---
 
-## 'Sad and sombre day': Garda Flatley's funeral takes place
+## 'Always there to help' - Gda Kevin Flatley's funeral told
 
 date: 2025-05-15, from: RTÉ News
 
-The funeral of Garda Kevin Flatley, who died in the line of duty, is taking place in Balbriggan in Co Dublin this afternoon. 
+The funeral of Garda Kevin Flatley has heard that he was "adored" by everyone in his family and that the loss they are experiencing is "heartbreaking". 
 
 <br> 
 
@@ -497,6 +1009,18 @@ Protesters have "disrupted" Israeli singer Yuval Raphael's rehearsal for the Eur
 
 ---
 
+## First Nations 'unified' against bills pushed by B.C. NDP, citing overreach and inadequate consultation
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7438957.1747346736!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/ubcic-on-rcmp-stewart-phillip.jpg' alt='An Indigenous man wearing a black hat is pictured in profile, with a crest behind him.' width='620' height='349' title='Grand Chief Stewart Phillip, president of the B.C. Union of B.C. Indian Chiefs, speaks to the media regarding a report by the Civilian Review and Complaints Commission into the actions of the RCMP in Wet&apos;suwet&apos;en and the exclusion zone in Vancouver, British Columbia on Thursday, February 20, 2020.'/><p>Premier David Eby is not backing down from two controversial laws that will fast-track infrastructure projects and clean energy projects across BC, despite a tense meeting with First Nations leaders Thursday, where he was urged to "kill" the bills.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/first-nations-unified-against-bills-pushed-by-b-c-ndp-citing-overreach-and-inadequate-consultation-1.7536239?cmp=rss>
+
+---
+
 ## Eurovision: The story of the second semi-final
 
 date: 2025-05-15, from: RTÉ News
@@ -534,6 +1058,18 @@ Students and residents in Galway have been outlining their struggles with paying
 <br> 
 
 <https://www.rte.ie/news/2025/0515/1513140-galway-rent/>
+
+---
+
+## 'I work for the people,' says Mandy Gull-Masty, Canada's new Indigenous Services minister
+
+date: 2025-05-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535893.1747329241!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/indigenous-connections-summit.jpg' alt='Mandy Gull-Masty' width='620' height='349' title='to come '/><p>Mandy Gull-Masty, former grand chief of Eeyou Istchee, was appointed Canada's Indigenous Services minister this week. She is the first Indigenous cabinet minister to hold the portfolio responsible for providing services for First Nations, Inuit and Métis.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/mandy-gull-masty-minister-of-indigenous-services-1.7535878?cmp=rss>
 
 ---
 
@@ -1889,7 +2425,7 @@ More than 40,000 Sudanese have fled to eastern Chad in the past month to escape 
 
 ## 8 million teens in world's wealthiest countries functionally illiterate: UNICEF
 
-date: 2025-05-14, from: United Nations, Culture and Education
+date: 2025-05-14, from: United Nations, Economic Development
 
 Children in many of the world’s wealthiest countries saw marked declines in their academic performance, mental wellbeing, and physical health as a result of the COVID-19 pandemic, according to a new report published by the UN Children’s Fund (UNICEF) on Wednesday. 
 

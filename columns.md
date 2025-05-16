@@ -1,11 +1,263 @@
 ---
 title: columns
-updated: 2025-05-16 06:11:21
+updated: 2025-05-16 14:08:19
 ---
 
 # columns
 
-(date: 2025-05-16 06:11:21)
+(date: 2025-05-16 14:08:19)
+
+---
+
+## The one thing that's certain to tank Trump is coming soon
+
+date: 2025-05-16, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-one-thing-thats-certain-to-tank>
+
+---
+
+##  I Like Good Art and I Cannot Lie 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/i-like-good-art-and-i-cannot-lie>
+
+---
+
+## 2025-05-16 Plitvička Jezera
+
+date: 2025-05-16, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-16-plitvička-jezera">2025-05-16 Plitvička Jezera</h1>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-1.jpg" alt="2025-05-15-plitvice-1.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-2.jpg" alt="2025-05-15-plitvice-2.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-3.jpg" alt="2025-05-15-plitvice-3.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-4.jpg" alt="2025-05-15-plitvice-4.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-5.jpg" alt="2025-05-15-plitvice-5.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-6.jpg" alt="2025-05-15-plitvice-6.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-7.jpg" alt="2025-05-15-plitvice-7.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-8.jpg" alt="2025-05-15-plitvice-8.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-9.jpg" alt="2025-05-15-plitvice-9.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-10.jpg" alt="2025-05-15-plitvice-10.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-11.jpg" alt="2025-05-15-plitvice-11.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-12.jpg" alt="2025-05-15-plitvice-12.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-13.jpg" alt="2025-05-15-plitvice-13.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-14.jpg" alt="2025-05-15-plitvice-14.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-15.jpg" alt="2025-05-15-plitvice-15.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-16.jpg" alt="2025-05-15-plitvice-16.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-17.jpg" alt="2025-05-15-plitvice-17.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-18.jpg" alt="2025-05-15-plitvice-18.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-19.jpg" alt="2025-05-15-plitvice-19.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-20.jpg" alt="2025-05-15-plitvice-20.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-21.jpg" alt="2025-05-15-plitvice-21.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-22.jpg" alt="2025-05-15-plitvice-22.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-23.jpg" alt="2025-05-15-plitvice-23.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-24.jpg" alt="2025-05-15-plitvice-24.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-25.jpg" alt="2025-05-15-plitvice-25.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-26.jpg" alt="2025-05-15-plitvice-26.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-27.jpg" alt="2025-05-15-plitvice-27.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-28.jpg" alt="2025-05-15-plitvice-28.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-29.jpg" alt="2025-05-15-plitvice-29.jpg" />
+<img loading="lazy" src="2025-05-15-plitvice-30.jpg" alt="2025-05-15-plitvice-30.jpg" /></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-15-plitvice>
+
+---
+
+##  A series of videos by Toby Hendy where she explains the PhD... 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046863-a-series-of-videos-by>
+
+---
+
+## May 15, 2025
+
+date: 2025-05-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163735735/3f3f68f90629644af8380a2fd281287e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163735735/3f3f68f90629644af8380a2fd281287e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-15-2025>
+
+---
+
+##  The Good Luck Fish 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/the-good-luck-fish>
+
+---
+
+## What to Read Before Your Next Flight.
+
+date: 2025-05-16, from: James Fallows, Substack
+
+Ten questions and answers as we enter the aerial equivalent of the school crossing-guard era. 
+
+<br> 
+
+<https://fallows.substack.com/p/what-to-read-before-your-next-flight>
+
+---
+
+## Apple Is Not Reinstating Fortnite to the App Store, and Because of the Stunt-Like Way That Epic Submitted the Latest Build, Fortnite Is Currently No Longer Available on iOS Anywhere in the World
+
+date: 2025-05-16, updated: 2025-05-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/markgurman/status/1923404412090782109>
+
+---
+
+##  George Orwell&#8217;s 11 rules for a nice cup of tea. &#8220;I maintain... 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046859-george-orwells-11-rules-f>
+
+---
+
+##  Photos of the Inside of a Particle Accelerator 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/photos-of-the-inside-of-a-particle-accelerator>
+
+---
+
+##  International students studying in the US were asked about the chilling effects... 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046869-international-students-st>
+
+---
+
+##  High-School Runner Rips GOP State Rep. for Anti-Trans Comments 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/high-school-runner-rips-state-rep-for-anti-trans-comments>
+
+---
+
+## Using GPS for the most accurate time possible on a Mac
+
+date: 2025-05-16, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Using GPS for the most accurate time possible on a Mac</span>
+
+            <p></p>
+
+<p>I'm deep in the rabbit hole of all things time and timing. One step on any modern horologist's journey is GPS time.</p>
+
+<p>NIST just <a href="https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time">put NIST-F4 online</a>, accurate to within 2.2e-16 ppm (that's <code>0.00000000000000022</code> seconds. The clock is <a href="https://iopscience.iop.org/article/10.1088/1681-7575/adc7bd">described in Metrologia</a> thusly:</p>
+
+<blockquote>
+  <p>The fountain uses optical molasses to laser cool a cloud of cesium atoms and launch it vertically in a fountain geometry.</p></blockquote>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">May 16, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/using-gps-most-accurate-time-possible-on-mac>
+
+---
+
+## Communications Backdoor in Chinese Power Inverters
+
+date: 2025-05-16, updated: 2025-05-16, from: Bruce Schneier blog
+
+<p>This is a <a href="https://www.msn.com/en-us/news/world/ar-AA1EMfHP">weird story</a>:</p>
+<blockquote><p>U.S. energy officials are reassessing the risk posed by Chinese-made devices that play a critical role in renewable energy infrastructure after unexplained communication equipment was found inside some of them, two people familiar with the matter said.</p>
+<p>[&#8230;]</p>
+<p>Over the past nine months, undocumented communication devices, including cellular radios, have also been found in some batteries from multiple Chinese suppliers, one of them said.</p>
+<p>Reuters was unable to determine how many solar power inverters and batteries they have looked at...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/communications-backdoor-in-chinese-power-inverters.html>
+
+---
+
+## Of significance
+
+date: 2025-05-16, from: Doc Searls (at Harvard), New Old Blog
+
+That&#39;s about half off. The Intention Economy hardcover edition is now $12.97 on Amazon. 
+
+<br> 
+
+<https://doc.searls.com/2025/05/16/of-significance/>
+
+---
+
+##  Octavia Butler&#8217;s Advice on Writing. &#8220;Write, every day, whether you like it... 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046851-octavia-butlers-advice-on>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-16, from: Dave Winer's Scripting News)
+
+One thing I've been waiting to hear about Trump's $400 million jet. We don't need the money. 
+
+<br> 
+
+<http://scripting.com/2025/05/16.html#a132828>
 
 ---
 
@@ -719,7 +971,7 @@ date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
 
 date: 2025-05-15, from: Doc Searls (at Harvard), New Old Blog
 
-Classic HBO. Seems HBO&#39;s rebrand as Max is something of a fail. The app re-rebrand is HBO Max. A good sign. Ever hear of TCF, or the Transparency &#38; Consent Framework? The TCF is how sites and services can obey the letter of the GDPR&#39;s law, while screwing its spirt. It does that with those [&#8230;] 
+What could go right? Charter and Cox are merging. Our home in Santa Barbara is served by Cox. They&#8217;re not bad, which is a compliment toward a cable company. But we only use them for Internet. Our &#8220;cable&#8221; is Dish, and comes off a satellite. Our old apartment in New York was (and presumably still is) [&#8230;] 
 
 <br> 
 
