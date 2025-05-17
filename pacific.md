@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-05-17 06:08:09
+updated: 2025-05-17 14:07:34
 ---
 
 # pacific
 
-(date: 2025-05-17 06:08:09)
+(date: 2025-05-17 14:07:34)
 
 ---
 
@@ -736,6 +736,18 @@ The post <a href="https://www.hawaii.edu/news/2025/05/15/summer-program-food-fas
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/15/summer-program-food-fashion-aina/>
+
+---
+
+## Lucky Harvest vessel located; two mariners rescued
+
+date: 2025-05-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff The 47-foot vessel Lucky Harvest, carrying two mariners, has been rescued after being reported missing... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/lucky-harvest-vessel-located-two-mariners-rescued>
 
 ---
 

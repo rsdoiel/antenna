@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-05-17 06:08:14
+updated: 2025-05-17 14:07:40
 ---
 
 # home
 
-(date: 2025-05-17 06:08:14)
+(date: 2025-05-17 14:07:40)
 
 ---
 
@@ -334,18 +334,6 @@ date: 2025-05-15, from: The Gardener's Path
 
 ---
 
-## Homepage 2025
-
-date: 2025-05-15, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Learn How to Transplant a Bay Laurel Tree
 
 date: 2025-05-15, from: The Gardener's Path
@@ -626,30 +614,6 @@ date: 2025-05-14, from: The Gardener's Path
 
 ---
 
-## From Maritime Decor to ‘Chateaucore’, These Are the Summer’s Biggest Trends
-
-date: 2025-05-14, from: Sunset Magazine - Living in the West
-
-Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
-
----
-
-## Keep an Eye Out for These Summer Music Festivals Across The West
-
-date: 2025-05-14, from: Sunset Magazine - Living in the West
-
-From Bottlerock to Hard Summer to Outside Lands, these are best summer music festivals in the West to add to your lineup. 
-
-<br> 
-
-<https://www.sunset.com/travel/best-summer-music-festivals-in-the-west>
-
----
-
 ## 2025 Sunset Western Home & Design Awards: Best Interior Design
 
 date: 2025-05-14, from: Sunset Magazine - Living in the West
@@ -709,18 +673,6 @@ Rivian has the coolest charging station just outside of Joshua Tree National Par
 <br> 
 
 <https://www.sunset.com/travel/road-trips/rivian-electric-car-road-trip-in-joshua-tree>
-
----
-
-## The Wines That Pair Best with Summer
-
-date: 2025-05-14, from: Sunset Magazine - Living in the West
-
-The Sunset Wine Club features the best bottles in the West, perfectly paired with recipes in the magazine. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/wine-club-pairings-home-and-design-issue-2025>
 
 ---
 

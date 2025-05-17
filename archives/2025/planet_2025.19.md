@@ -1,11 +1,11 @@
 ---
 title: planet
-updated: 2025-05-17 06:08:07
+updated: 2025-05-17 14:07:31
 ---
 
 # planet
 
-(date: 2025-05-17 06:08:07)
+(date: 2025-05-17 14:07:31)
 
 ---
 
@@ -25,7 +25,7 @@ date: 2025-05-16, from: CBC, World News
 
 date: 2025-05-16, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7536338.1747433950!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-mideast.jpg' alt='A man speaks at a lectern. Behind him is an enormous display of the Saudi flag.' width='620' height='349' title='U.S. President Donald Trump speaks at the Saudi-U.S. Investment Forum in Riyadh, Saudi Arabia, on Tuesday.'/><p></p> 
+<img src='https://i.cbc.ca/ais/7975b950-c579-4a35-9ba8-be944522b80e,1747237922557/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='A group of people in formal attire poses together, smiling. A man in a blue suit gives a thumbs up, standing next to a man in a white robe.' width='620' height='349' title=''/><p></p> 
 
 <br> 
 
@@ -471,7 +471,7 @@ The UN human rights office (OHCHR) called on Friday for an end to senseless kill
 
 ## ‘On thin ice’: UN chief sounds alarm over rapid Himalayan glacier melt
 
-date: 2025-05-16, from: United Nations, Climate Change
+date: 2025-05-16, from: United Nations, Top Stories
 
 The United Nations Secretary-General warned on Friday that Himalayan glaciers are “caving in,” urging immediate action to address the climate crisis, especially in the world’s most fragile ecosystems. 
 
@@ -545,7 +545,7 @@ Amid reports that Israeli strikes across Gaza overnight into Friday killed at le
 
 date: 2025-05-16, from: United Nations, Top Stories
 
-As world leaders negotiate the landmark Pandemic Preparedness Treaty at the World Health Assembly — the governing body of the World Health Organization, the UN’s global health agency—we revisit frontline doctors, community advocates, a youth volunteer, and a journalist who lived through the storm of COVID-19. Theirs are just some of the millions of testimonies worldwide helping shape the urgent call for action.&nbsp; 
+As world leaders meet in Geneva to negotiate a new UN-brokered agreement on pandemic preparedness, we revisit frontline doctors, community advocates, a youth volunteer and a journalist who lived through the storm of COVID-19. Their voices are just a few among millions that show why this moment matters. 
 
 <br> 
 
@@ -2569,7 +2569,7 @@ Children in many of the world’s wealthiest countries saw marked declines in th
 
 ## A historic course correction: How the world’s shipping sector is setting sail for net zero
 
-date: 2025-05-14, from: United Nations, Climate Change
+date: 2025-05-14, from: United Nations, Top Stories
 
 Long overlooked as a major contributor to global greenhouse gas emissions, the shipping industry is now at the forefront of a unique display of international cooperation. The shift signals that even the world’s largest transport sector can be steered toward climate accountability. 
 

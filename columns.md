@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-05-17 06:08:11
+updated: 2025-05-17 14:07:37
 ---
 
 # columns
 
-(date: 2025-05-17 06:08:11)
+(date: 2025-05-17 14:07:37)
 
 ---
 
@@ -581,7 +581,7 @@ date: 2025-05-15, updated: 2025-05-15, from: Jason Kittke's blog
 
 ## ★ That EU App Store Warning About External Purchases Is Not New, and Apple Proposed Improving It Nine Months Ago
 
-date: 2025-05-15, updated: 2025-05-16, from: Daring Fireball
+date: 2025-05-15, updated: 2025-05-17, from: Daring Fireball
 
 Apple proposed a much less objectionable “external payments” disclosure in August, but claims that the EC told them not to implement it. 
 
