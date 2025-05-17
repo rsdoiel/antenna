@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-05-16 14:08:24
+updated: 2025-05-17 06:08:17
 ---
 
 # food
 
-(date: 2025-05-16 14:08:24)
+(date: 2025-05-17 06:08:17)
+
+---
+
+## This Is the Reason People Keep Putting Jalapeños in Rosé and Sauvignon Blanc
+
+date: 2025-05-16, from: Taste of Home
+
+<p>This combination isn't intuitive, but hot peppers can make wine more refreshing.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/jalapenos-in-rose/">This Is the Reason People Keep Putting Jalapeños in Rosé and Sauvignon Blanc</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/jalapenos-in-rose/>
+
+---
+
+## Ree Drummond Just Shared Her Recipe for ‘Graduation Cookies’
+
+date: 2025-05-16, from: Taste of Home
+
+<p>Of course the Pioneer Woman would have the perfect dessert idea for your next graduation party.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pioneer-woman-graduation-cookies/">Ree Drummond Just Shared Her Recipe for &#8216;Graduation Cookies&#8217;</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pioneer-woman-graduation-cookies/>
 
 ---
 

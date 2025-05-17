@@ -1,11 +1,63 @@
 ---
 title: north america
-updated: 2025-05-16 14:08:15
+updated: 2025-05-17 06:08:07
 ---
 
 # north america
 
-(date: 2025-05-16 14:08:15)
+(date: 2025-05-17 06:08:07)
+
+---
+
+## Kristi Goes to Congress
+
+date: 2025-05-16, from: The Contrarian
+
+This week, in the absence of our regular Undaunted piece, we take a clear-eyed look at some of the less savory members of this regime, who must be held accountable for failing to uphold their oaths of office. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163744725/29ffe6d783c41627389fd512e27b0b97.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163744725/29ffe6d783c41627389fd512e27b0b97.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/kristi-goes-to-congress>
+
+---
+
+## Evening Roundup, May 16!
+
+date: 2025-05-16, from: The Contrarian
+
+Featuring breaking SCOTUS news, Leah Litman & Jen Rubin, Frederic Frommer, Carron Phillips, Meredith Blake, Harry Litman & Sen. Van Hollen, Democracy Index, & Marissa Rothkopf 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-16>
+
+---
+
+##  Trump’s Social Security Chief Just Scored A Mammoth Tax Break 
+
+date: 2025-05-16, from: The Lever News
+
+ New financial disclosures reveal that new Social Security Commissioner Frank Bisignano won an indefinite tax break on an estimated $484 million windfall.  
+
+<br> 
+
+<https://www.levernews.com/trumps-social-security-chief-just-scored-a-mammoth-tax-break/>
+
+---
+
+## Katie Phang, Steve Vladeck and Norm Eisen react to Supreme Court bombshell!
+
+date: 2025-05-16, from: The Contrarian
+
+A recording from Norman Eisen's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163740131/16ae451eca47da974738d8e6eb10ca05.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163740131/16ae451eca47da974738d8e6eb10ca05.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/katie-phang-steve-vladeck-and-norm>
 
 ---
 
@@ -954,4 +1006,28 @@ date: 2025-05-11, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-welcome-to-america-no-not-you/>
+
+---
+
+## Trump’s Crypto Conflicts Catch Fire
+
+date: 2025-05-10, from: The Contrarian
+
+Publisher's Roundup, 17 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-crypto-conflicts-catch-fire>
+
+---
+
+##  YOU LOVE TO SEE IT: Log Off, Kids 
+
+date: 2025-05-10, from: The Lever News
+
+ Offline is the new cool, offshore accounts are caught red-handed, a crypto kingpin is behind bars, and the Pentagon does its own repairs.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-log-off-kids/>
 

@@ -1,20 +1,59 @@
 ---
 title: pacific
-updated: 2025-05-16 14:08:17
+updated: 2025-05-17 06:08:09
 ---
 
 # pacific
 
-(date: 2025-05-16 14:08:17)
+(date: 2025-05-17 06:08:09)
 
 ---
 
-## Kilauea lava fountains reach up to 1,000 feet in ‘episode 22’
+## Maui immigrant wildfire survivors continue to face gaps in housing, healthcare, more
+
+date: 2025-05-16, from: University of Hawaiʻi News
+
+<p>The blog published draws on surveys of nearly 300 participants.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/16/maui-immigrant-wildfire-survivors-challenges/">Maui immigrant wildfire survivors continue to face gaps in housing, healthcare, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/16/maui-immigrant-wildfire-survivors-challenges/>
+
+---
+
+## From Catwalk to Commencement: Mānoa students have Lasting Legacies of fashion
+
+date: 2025-05-16, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa Department of Fashion Design and Merchandising hosted 59th annual fashion exhibition.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/16/from-catwalk-to-commencement/">From Catwalk to Commencement: Mānoa students have Lasting Legacies of fashion</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/16/from-catwalk-to-commencement/>
+
+---
+
+## Regional crown, national ranking for UH West Oʻahu cyber team
+
+date: 2025-05-16, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> cracks top 12 in National Cyber Games invitational.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/16/regional-crown-national-ranking-uh-west-oahu-cyber-team/">Regional crown, national ranking for <abbr>UH</abbr> West Oʻahu cyber team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/16/regional-crown-national-ranking-uh-west-oahu-cyber-team/>
+
+---
+
+## UPDATE: Kilauea’s latest ‘episode’ ends after 10 hours of fountaining
 
 date: 2025-05-16, from: Hawaii Tribune Harold
 
 
-				<p>Lava fountains reaching up to 1,000 feet erupted from the summit of Kilauea early this morning, marking the start of another episode in the volcano&#8217;s ongoing eruptive cycle.</p>
+				<p><strong>UPDATE 4:22 p.m. </strong></p>
 			 
 
 <br> 
@@ -298,6 +337,20 @@ date: 2025-05-16, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/16/community/big-island-chocolate-festival-winners-announced/>
+
+---
+
+## Tropical Gardening: Celebrate independence from high food bills by planting bananas
+
+date: 2025-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Even though we talk a good story about being independent by growing our food locally and buying locally grown fruits and vegetables, it is not an easy thing to do. One exception is by growing and eating our local bananas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/16/features/tropical-gardening-celebrate-independence-from-high-food-bills-by-planting-bananas/>
 
 ---
 
@@ -2970,4 +3023,143 @@ date: 2025-05-11, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/11/features/volcano-watch-20-episodes-and-counting-lava-fountains-continue-in-kaluapele/>
+
+---
+
+## What has happened to the American dream?
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>The American dream &#8212; often idealized by the house and white picket fence &#8212; has been debated, pondered and relentlessly pursued by those who have lived in the United States for generations, as well as more recent immigrants.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/what-has-happened-to-the-american-dream/>
+
+---
+
+## Mild recession forecast for Hawaii economy
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>University of Hawaii economists expect the state economy to begin gradually contracting later this year due to federal policy impacts hurting tourism, employment and personal income.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/hawaii-news/mild-recession-forecast-for-hawaii-economy/>
+
+---
+
+## ICE arrests 50 in raids across 3 Hawaiian islands
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>Federal agents arrested 50 people this week on Oahu, Maui and Hawaii island for violating immigration laws due to convictions for crimes including murder, domestic violence and drug possession.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/hawaii-news/ice-arrests-50-in-raids-across-3-hawaiian-islands/>
+
+---
+
+## Trump suggests openness to slashing China tariffs before trade talks
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump suggested Friday that he was open to sharply reducing the tariffs the United States had imposed on China, as American and Chinese negotiators prepare to meet in Switzerland this weekend for high-stakes trade talks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/trump-suggests-openness-to-slashing-china-tariffs-before-trade-talks/>
+
+---
+
+## Newark’s mayor arrested at protest outside ICE detention center
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>Federal officials arrested Ras J. Baraka, the mayor of Newark, New Jersey, on Friday after a confrontation that also involved three members of Congress at a new immigration detention facility that is expected to play a central role in President Donald Trump&#8217;s mass deportation effort.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/newarks-mayor-arrested-at-protest-outside-ice-detention-center/>
+
+---
+
+## First white South Africans to arrive under US refugee plan as soon as next week
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s administration is aiming to bring the first group of white South Africans to the United States via its refugee program as soon as next week, three people familiar with the matter said, a divisive effort given that Trump has been blocking refugee admissions from the rest of the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/first-white-south-africans-to-arrive-under-us-refugee-plan-as-soon-as-next-week/>
+
+---
+
+## Trump officials mull proposing COFA status to Greenland
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. officials are discussing a plan to pull Greenland into America&#8217;s sphere of influence using a type of agreement that the United States has used to keep close ties with several Pacific Island nations, according to two U.S. officials and another person familiar with the discussions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/trump-officials-mull-proposing-cofa-status-to-greenland/>
+
+---
+
+## Tufts student released from US immigration custody after judge’s order
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>A Tufts University student from Turkey who was held for over six weeks in an immigration detention center in Louisiana after co-writing an opinion piece criticizing her school&#8217;s response to Israel&#8217;s war in Gaza was released from custody on Friday after a federal judge granted her bail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/tufts-student-released-from-us-immigration-custody-after-judges-order/>
+
+---
+
+## Newark airport has another radar outage
+
+date: 2025-05-10, from: Hawaii Tribune Harold
+
+
+				<p>An air traffic control facility that guides planes at Newark Liberty International Airport in New Jersey had a brief radar outage Friday morning, the latest technological disruption at one of the nation&#8217;s busiest airports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/newark-airport-has-another-radar-outage/>
+
+---
+
+## UH alumni 15 of PBN Women Who Mean Business honorees
+
+date: 2025-05-10, from: University of Hawaiʻi News
+
+<p>Fifteen trailblazing <abbr>UH</abbr> grads honored for leadership and impact.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/09/uh-alumni-pbn-women-who-mean-business/"><abbr>UH</abbr> alumni 15 of <abbr>PBN</abbr> Women Who Mean Business honorees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/09/uh-alumni-pbn-women-who-mean-business/>
 

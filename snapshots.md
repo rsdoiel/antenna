@@ -1,11 +1,21 @@
 ---
 title: snapshots
-updated: 2025-05-16 14:08:26
+updated: 2025-05-17 06:08:19
 ---
 
 # snapshots
 
-(date: 2025-05-16 14:08:26)
+(date: 2025-05-17 06:08:19)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-16, from: Dave Winer's linkblog)
+
+2024: The web lives in WordPress and Mastodon. 
+
+<br> 
+
+<http://scripting.com/2024/10/11/132736.html>
 
 ---
 
@@ -82,11 +92,12 @@ date: 2025-05-16, from: Liliputing
 date: 2025-05-16, updated: 2025-05-16, from: Simon Willison’s Weblog
 
 <p><strong><a href="https://platform.openai.com/docs/codex">OpenAI Codex</a></strong></p>
-<a href="https://openai.com/index/introducing-codex/">Announced today</a>, here's the documentation for OpenAI's "cloud-based software engineering agent". It's not yet available for us $20/month Plus customers ("coming soon") but if you're a $200/month Pro user you can try it out today.</p>
+<a href="https://openai.com/index/introducing-codex/">Announced today</a>, here's the documentation for OpenAI's "cloud-based software engineering agent". It's not yet available for us $20/month Plus customers ("coming soon") but if you're a $200/month Pro user you can try it out now.</p>
 <blockquote>
 <p>At a high level, you specify a prompt, and the agent goes to work in its own environment. After about 8–10 minutes, the agent gives you back a diff.</p>
 <p>You can execute prompts in either <em>ask</em> mode or <em>code</em> mode. When you select <em>ask</em>, Codex clones a read-only version of your repo, booting faster and giving you follow-up tasks. <em>Code</em> mode, however, creates a full-fledged environment that the agent can run and test against.</p>
 </blockquote>
+<p>This <a href="https://twitter.com/openaidevs/status/1923492740526112819">4 minute demo video</a> is a useful overview. One note that caught my eye is that the setup phase for an environment can pull from the internet (to install necessary dependencies) but the agent loop itself still runs in a network disconnected sandbox.</p>
 <p>It sounds similar to GitHub's own <a href="https://githubnext.com/projects/copilot-workspace">Copilot Workspace</a> project, which can compose PRs against your code based on a prompt. The big difference is that Codex incorporates a full Code Interpeter style environment, allowing it to build and run the code it's creating and execute tests in a loop.</p>
 <p>Copilot Workspaces has a level of integration with Codespaces but still requires manual intervention to help exercise the code.</p>
 <p>Also similar to Copilot Workspaces is a confusing  name. OpenAI now have <em>four</em> products called Codex:</p>
@@ -97,10 +108,11 @@ date: 2025-05-16, updated: 2025-05-16, from: Simon Willison’s Weblog
 <li><a href="https://web.archive.org/web/20230203201912/https://openai.com/blog/openai-codex/">OpenAI Codex (2021)</a> - Internet Archive link, OpenAI's first specialist coding model from the GPT-3 era. This was used by the original GitHub Copilot and is still the current topic of Wikipedia's <a href="https://en.m.wikipedia.org/wiki/OpenAI_Codex">OpenAI Codex</a> page.</li>
 </ul>
 <p>My favorite thing about this most recent Codex product is that OpenAI shared <a href="https://github.com/openai/codex-universal/blob/main/Dockerfile">the full Dockerfile</a> for the environment that the system uses to run code - in <code>openai/codex-universal</code> on GitHub because <code>openai/codex</code> was taken already.</p>
-<p>This is extremely useful documentation for figuring out how to use this thing - I'm glad they're making this as transparent as possible.
+<p>This is extremely useful documentation for figuring out how to use this thing - I'm glad they're making this as transparent as possible.</p>
+<p>And to be fair, If you ignore it previous history Codex Is a good name for this product. I'm just glad they didn't call it <a href="https://twitter.com/simonw/status/1730259398990385355">Ada</a>.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/llm">llm</a></p> 
 
 <br> 
 
@@ -430,6 +442,18 @@ date: 2025-05-16, updated: 2025-05-16, from: Simon Willison’s Weblog
 <br> 
 
 <https://simonwillison.net/2025/May/16/sam-altman/#atom-everything>
+
+---
+
+## 2025-05-16: I revived pkgsrc on AIX
+
+date: 2025-05-16, from: Brian Robert Callahan blog
+
+Step-by-step process to get pkgsrc working on modern AIX 
+
+<br> 
+
+<https://briancallahan.net/blog/20250516.html>
 
 ---
 
@@ -2965,4 +2989,385 @@ Learn more: https://bit.ly/4jQzaas
 <br> 
 
 <https://bsky.app/profile/altusds.altgov.info/post/3loudxjdhx523>
+
+---
+
+## The Pope gets it
+
+date: 2025-05-10, from: Gary Marcus blog
+
+In age when few political leaders are engaging with AI, Pope Leo XIV gets it. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/the-pope-gets-it>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Former Supreme Court Justice David Souter dies at 85. 
+
+<br> 
+
+<https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Trump is a TV character. 
+
+<br> 
+
+<https://www.thedailybeast.com/is-trump-out-of-touch-senile-nuts-or-something-worse/>
+
+---
+
+## Poker Face season two on FanFare
+
+date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
+
+<p>Poker Face season two just started on Peacock (the US streaming service). It's my favorite thing on TV right now. I've started threads on MetaFilter FanFare for episodes <a href="https://fanfare.metafilter.com/26073/Poker-Face-The-Game-Is-a-Foot">one</a>, <a href="https://fanfare.metafilter.com/26075/Poker-Face-Last-Looks">two</a> and <a href="https://fanfare.metafilter.com/26077/Poker-Face-Whack-a-Mole">three</a>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/tv">tv</a>, <a href="https://simonwillison.net/tags/metafilter">metafilter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/10/poker-face/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+Does it matter more that the guy doesn't know anything or that he knows and lies constantly?
+
+This is a Washington Post Aaron Blake piece about how often Trump says he doesn't know about events.
+
+archive.is/B4pBL
+https://archive.is/B4pBL 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lotvgh72rk2z>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Zero ships from China are bound for California’s top ports. Officials haven’t seen that since the pandemic. 
+
+<br> 
+
+<https://www.cnn.com/2025/05/10/business/zero-ships-china-trade-ports-pandemic>
+
+---
+
+## Beelink ME mini is now available for $329 (NAS with Intel N150 and up to 6 NVMe SSDs)
+
+date: 2025-05-10, from: Liliputing
+
+<p>The Beelink ME mini is a compact network-attached storage device that&#8217;s basically a cube-shaped mini PC with a 6-watt Intel N150 quad-core processor based on &#8220;Twin Lake&#8221; architecture and six M.2 slots for up to 24TB of total PCIe NVMe storage. First unveiled earlier this year, the Beelink ME mini is now available for pre-order. You [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-me-mini-is-now-available-for-329-nas-with-intel-n150-and-up-to-6-nvme-ssds/">Beelink ME mini is now available for $329 (NAS with Intel N150 and up to 6 NVMe SSDs)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-me-mini-is-now-available-for-329-nas-with-intel-n150-and-up-to-6-nvme-ssds/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+Happy Birthday, Mother Fletcher!
+Thank you for inspiring the world to pursue truth and justice no matter how long it takes, or how heavy the burden. 💛
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lotpkbi4ik2b>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+The American Dream is to have a dream. 
+
+<br> 
+
+<http://scripting.com/2025/05/10/125322.html>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-05-10, from: Tomosino's Mastodon feed)
+
+<p>If you got elected Pope, what would your Pope name be?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114485127047314377>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+The video of Paul Frazee of Bluesky&#39;s talk at Berkman last Wednesday. I haven&#39;t watched it yet, but I plan to. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=xDhBVm3iTCQ>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-10, from: Robert's feed at BlueSky)
+
+I found this both meaningful and inspiring on many levels. https://www.cjr.org/analysis/politifact-cspan-republicans-fact-check.php 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lotfvntzw22p>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-10, from: Robert's feed at BlueSky)
+
+So F-ing true 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lotelt24j22m>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+ICYMI: "DOGE is an insider threat. Name what's happening then act on it. That's how you de-weaponize it." Kate and Milo recently spoke with about what DOGE *really* is.
+
+ https://bit.ly/4jPHffi 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lotcoas6hl2t>
+
+---
+
+## The Am Dash
+
+date: 2025-05-10, from: Chris Coyier blog
+
+The Am Dash is a clever idea. It&#8217;s a little typographic dash you can slip into text that sorta &#8220;proves&#8221; it&#8217;s human written, while looking kinda cool. This &#8220;proves&#8221; it&#8217;s human written because there is barely any text in the world that uses this so LLMs will (never?) generate text that has &#8220;am-&#8221; in it [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/05/10/the-am-dash/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+UVA Tried To Shut Down Its Historical Tours Discussing Slavery. These Students Resisted. 
+
+<br> 
+
+<https://www.teenvogue.com/story/uva-historical-tours-slavery-students>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+America as a platform. 
+
+<br> 
+
+<http://scripting.com/2025/05/10/125322.html?title=americaAsAPlatform>
+
+---
+
+## The secret to AGI, in 4 pages
+
+date: 2025-05-10, from: Gary Marcus blog
+
+A couple days ago I learned on X that getting to AGI was much easier than I had long thought. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/the-secret-to-agi-in-4-pages>
+
+---
+
+## Ancient Poems Record the Decline of a Special Porpoise
+
+date: 2025-05-10, from: 404 Media Group
+
+The Yangtze finless porpoise is near extinction in the wild, but glimpses of its heyday can be found in centuries of Chinese poetry. 
+
+<br> 
+
+<https://www.404media.co/ancient-poems-record-the-decline-of-a-special-porpoise/>
+
+---
+
+## 50 Years of Portuguese Democracy
+
+date: 2025-05-10, from: Paul Krugman
+
+My talk in Lisbon 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/50-years-of-portuguese-democracy>
+
+---
+
+## Trying out llama.cpp's new vision support
+
+date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
+
+<p>This <a href="https://github.com/ggml-org/llama.cpp/pull/12898">llama.cpp server vision support via libmtmd</a> pull request - via <a href="https://news.ycombinator.com/item?id=43943047">Hacker News</a> - was merged earlier today. The PR finally adds full support for vision models to the excellent <a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a> project. It's documented <a href="https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md">on this page</a>, but the more detailed technical details are <a href="https://github.com/ggml-org/llama.cpp/tree/master/tools/mtmd#multimodal-support-in-llamacpp">covered here</a>. Here are my notes on getting it working on a Mac.</p>
+<p><code>llama.cpp</code> models are usually distributed as <code>.gguf</code> files. This project introduces a new variant of those called <code>mmproj</code>, for multimodal projector. <code>libmtmd</code> is the new library for handling these.</p>
+<p>You can try it out by compiling <code>llama.cpp</code> from source, but I found another option that works: you can download pre-compiled binaries from the <a href="https://github.com/ggml-org/llama.cpp/releases">GitHub releases</a>.</p>
+<p>On macOS there's an extra step to jump through to get these working, which I'll describe below.</p>
+
+<p><strong>Update</strong>: it turns out the <a href="https://formulae.brew.sh/formula/llama.cpp">Homebrew package</a> for <code>llama.cpp</code> turns things around <em>extremely</em> quickly. You can run <code>brew install llama.cpp</code> or <code>brew upgrade llama.cpp</code> and start running the below tools without any extra steps.</p>
+
+<p>I downloaded the <code>llama-b5332-bin-macos-arm64.zip</code> file from <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b5332">this GitHub release</a> and unzipped it, which created a <code>build/bin</code> directory.</p>
+<p>That directory contains a bunch of binary executables and a whole lot of <code>.dylib</code> files. macOS wouldn't let me execute these files because they were quarantined. Running this command fixed that for the <code>llama-mtmd-cli</code> and <code>llama-server</code> executables and the <code>.dylib</code> files they needed:</p>
+<pre><code>sudo xattr -rd com.apple.quarantine llama-server llama-mtmd-cli *.dylib
+</code></pre>
+<p>Now I can run an interactive terminal LLM session using this command:</p>
+<pre><code>./llama-mtmd-cli -hf unsloth/gemma-3-4b-it-GGUF:Q4_K_XL</code></pre>
+<p>The first time this runs it fetches four files from <a href="https://huggingface.co/unsloth/gemma-3-4b-it-GGUF">unsloth/gemma-3-4b-it-GGUF</a> - a quantized copy of Google DeepMind's <a href="https://huggingface.co/google/gemma-3-4b-pt">Gemma 3 4B</a> - and stores them in <code>~/Library/Caches/llama.cpp</code>:</p>
+<pre><code>2.4G unsloth_gemma-3-4b-it-GGUF_gemma-3-4b-it-UD-Q4_K_XL.gguf
+217B unsloth_gemma-3-4b-it-GGUF_gemma-3-4b-it-UD-Q4_K_XL.gguf.json
+812M unsloth_gemma-3-4b-it-GGUF_mmproj-F16.gguf
+203B unsloth_gemma-3-4b-it-GGUF_mmproj-F16.gguf.json
+</code></pre>
+<p>Once they've downloaded an interactive session starts. You can chat directly with the model or use the <code>/image path-to-image.jpg</code> command to load an image into the context.</p>
+<p>I loaded in <a href="https://static.simonwillison.net/static/2025/pelican-no-hat.jpg">a pelican photo</a> and prompted "describe it" and got back this:</p>
+<blockquote>
+<p>It’s a striking photograph of a brown pelican standing in shallow water on a sandy beach. Here's a breakdown of what I see:</p>
+<ul>
+<li>
+<p><strong>Subject:</strong> The main focus is a large brown pelican. It’s standing with its wings fully extended, creating a dramatic pose.</p>
+</li>
+<li>
+<p><strong>Pose:</strong> The pelican is in a slightly awkward, almost comical stance, with its legs planted firmly in the wet sand and its wings spread wide. It looks like it might be preparing to take off or is simply enjoying the water.</p>
+</li>
+<li>
+<p><strong>Color &amp; Texture:</strong> The pelican is a rich, dark brown with lighter markings on its wings and head. The sand is a muted beige color, and the water reflects the sunlight, creating a shimmering effect. You can see the texture of the
+sand and the ripples in the water.</p>
+</li>
+<li>
+<p><strong>Lighting:</strong> The lighting appears to be bright and sunny, casting shadows and highlighting the details of the pelican's feathers.</p>
+</li>
+<li>
+<p><strong>Background:</strong> The background is blurred, suggesting a shallow depth of field, which keeps the focus on the pelican. It appears to be a beach scene.</p>
+</li>
+<li>
+<p><strong>Overall Impression:</strong> The image has a dynamic feel due to the pelican’s pose and the movement implied by the water. It’s a well-composed shot that captures a moment of wildlife in its natural habitat.</p>
+</li>
+</ul>
+<p>Do you want me to zoom in on a particular detail, or perhaps tell you more about pelicans?</p>
+</blockquote>
+<p>Not bad for a 3.2GB model running on my laptop!</p>
+<p><img src="https://static.simonwillison.net/static/2025/llama-vision.jpg" alt="Screenshot of the terminal session showing the response quoted above." style="max-width: 100%;" /></p>
+<h4 id="running-llama-server">Running llama-server</h4>
+<p>Even more fun is the <a href="https://github.com/ggml-org/llama.cpp/tree/master/tools/server#llamacpp-http-server"><code>llama-server</code> command</a>. This starts a localhost web server running on port 8080 to serve the model, with both a web UI and an OpenAI-compatible API endpoint.</p>
+<p>The command to run it is the same:</p>
+<pre><code>./llama-server -hf unsloth/gemma-3-4b-it-GGUF:Q4_K_XL</code></pre>
+<p>Now visit <code>http://localhost:8080</code> in your browser to start interacting with the model:</p>
+<p><img src="https://static.simonwillison.net/static/2025/llama-server-vision.jpg" alt="screenshot of llama.cpp web UI - I've added a photo of some pelicans and the prompt decsribe these creatures, it came back with the following: Okay, let's describe these beautiful birds!  These are Brown Pelicans (Pelecanus occidentalis).  Here's a breakdown of their key features, based on the image:      Appearance: They are large, brown birds with distinctive long, pointed bills. Their plumage is a rich, chocolate brown, with lighter underparts. They have large, webbed feet.     Posture: As you can see, they're standing together on a concrete embankment, likely near the water's edge. They're in a somewhat huddled or attentive stance.     Size: They are quite large birds – adults can have a wingspan of up to 6.5 feet (2 meters).     Behavior: Pelicans are known for their unique feeding technique, where they plunge-dive into the water to scoop up fish with their pouches.  In the image, you can see:      A group of 6-7 Brown Pelicans.     A single bird in the foreground, slightly out of focus, showing a more detailed view of their feathers and feet.  Where they are: The presence of these birds suggests they are likely in a coastal or wetland environment – perhaps a bay, estuary, or near a large body of water.  Do you want me to delve deeper into any specific aspect of these birds, such as their habitat, diet, or conservation status? On the right is a Conversations sidebar with three other conversations listed." style="max-width: 100%;" /></p>
+<p>It miscounted the pelicans in <a href="https://static.simonwillison.net/static/2025/pelican-group.jpg">the group photo</a>, but again, this is a <em>tiny</em> 3.2GB model.</p>
+<p>With the server running on port 8080 you can also access the OpenAI-compatible API endpoint. Here's how to do that using <code>curl</code>:</p>
+<div class="highlight highlight-source-shell"><pre>curl -X POST http://localhost:8080/v1/chat/completions \
+  -H <span class="pl-s"><span class="pl-pds">"</span>Content-Type: application/json<span class="pl-pds">"</span></span> \
+  -d <span class="pl-s"><span class="pl-pds">'</span>{</span>
+<span class="pl-s">    "messages": [</span>
+<span class="pl-s">      {"role": "user", "content": "Describe a pelicans ideal corporate retreat"}</span>
+<span class="pl-s">    ]</span>
+<span class="pl-s">  }<span class="pl-pds">'</span></span> <span class="pl-k">|</span> jq</pre></div>
+<p>I built a new plugin for LLM just now called <a href="https://github.com/simonw/llm-llama-server">llm-llama-server</a> to make interacting with this API more convenient. You can use that like this:</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-llama-server
+llm -m llama-server <span class="pl-s"><span class="pl-pds">'</span>invent a theme park ride for a pelican<span class="pl-pds">'</span></span></pre></div>
+<p>Or for vision models use <code>llama-server-vision</code>:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m llama-server-vision <span class="pl-s"><span class="pl-pds">'</span>describe this image<span class="pl-pds">'</span></span> -a https://static.simonwillison.net/static/2025/pelican-group.jpg</pre></div>
+<p>The LLM plugin uses the streaming API, so responses will stream back to you as they are being generated.</p>
+<p><img src="https://static.simonwillison.net/static/2025/theme-park.gif" alt="Animated terminal session. $ llm -m llama-server 'invent a theme park ride for a pelican' Okay, this is a fun challenge! Let's design a theme park ride specifically for a pelican – a majestic, diving bird. Here’s my concept:  Ride Name: “Pelican’s Plunge”   Theme: Coastal Exploration &amp; Underwater Discovery  Target Audience: Families with children (8+ recommended), animal lovers, and those who enjoy a mix of thrills and gentle exploration.  Ride Type: A partially submerged, rotating “pod” experience with a focus on simulated dives and underwater views.  Ride Mechanics:  1. The Pod: Guests ride in a large, semi-circular pod shaped like a stylized, open-mouthed pelican’s beak.  It’s made of reinforced, transparent acrylic and has comfortable seating inside. The pod can hold around 8-10 people.  2. The Launch: Guests board the pod and are positioned facing forward. The ride begins with a slow, gentle rise up a ramp, mimicking the pelican’s ascent from the water.   3. The &quot;Dive&quot; Sequence: This is the core of the ride.  The pod enters a large, darkened chamber that simulates the ocean floor.     * Rotating Simulation: The pod begins to rotate slowly, mimicking a pelican diving into the water.     * Water Effects:  The chamber is filled with realistic, moving water – created by a sophisticated system of pumps, jets, and screens. This creates the illusion of being surrounded by the ocean.    * Projection Mapping:  Powerful projection mapping is used on the walls and floor to create stunning underwater visuals: schools of fish, coral reefs, kelp forests, and even glimpses of marine life like sharks (safely projected, of course!).    * “Dive” Trigger:  At specific points in the rotation, the pod will perform a short, controlled “dive” – a sudden drop that creates a feeling of speed and the sensation of plunging into the water.  Sensors detect the speed of the rotation and trigger these dives.  4. Underwater Exploration: After the initial dive, the pod continues its rotation, offering increasingly detailed views of the projected underwater scenes.      * Interactive Elements (Optional):  Small, strategically placed screens could display sonar-like visuals, allowing guests to “scan” the environment and reveal hidden creatures or details.  5. The Ascent &amp; Return: The ride gradually slows, bringing the pod back to the surface. As it rises, the projections shift to show a sunny coastline and seabirds flying overhead. The pod returns to the loading area.   Theming &amp; Atmosphere:  * Sound Design: Immersive sound effects – waves crashing, seabirds calling, underwater ambience – are crucial. * Lighting: Dynamic lighting that shifts with the projections and the &quot;dive&quot; sequences. * Pelican Props:  Realistic pelican statues and props are integrated throughout the queue and surrounding area. * Educational Element: Small informational panels explain pelican behavior, conservation efforts, and the importance of marine ecosystems.  Why this works for a pelican:  * Mimics Natural Behavior: The ride accurately reflects a pelican’s primary activity – diving for fish. * Visually Engaging: The combination of water effects, projection mapping, and rotation creates a captivating and immersive experience. * Family-Friendly Thrill: The “dive” sequences provide a moderate thrill without being overly intense. * Educational Value: It promotes awareness and appreciation for these amazing birds and the marine environment.    ---  Further Development Ideas:  * Different &quot;Dive Routes&quot;: Create multiple routes through the underwater environment, each with a different theme (e.g., a coral reef route, a deep-sea route, a pelican’s feeding ground route). * Animatronic Pelican: A large animatronic pelican could “greet” guests as they board the pod. * Smell Integration: Subtle scents of saltwater and seaweed could enhance the immersion.    Would you like me to brainstorm a specific element of the ride further, such as:  *   The projection mapping details? *   The technical aspects of the water effects? *   A unique interactive element? " style="max-width: 100%;" /></p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llama-cpp">llama-cpp</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/homebrew">homebrew</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/10/llama-cpp-vision/#atom-everything>
+
+---
+
+## TIL: SQLite triggers
+
+date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://til.simonwillison.net/sqlite/sqlite-triggers">TIL: SQLite triggers</a></strong></p>
+I've been doing some work with SQLite triggers recently while working on <a href="https://github.com/simonw/sqlite-chronicle">sqlite-chronicle</a>, and I decided I needed a single reference to exactly which triggers are executed for which SQLite actions and what data is available within those triggers.</p>
+<p>I wrote this <a href="https://github.com/simonw/til/blob/main/sqlite/triggers.py">triggers.py</a> script to output as much information about triggers as possible, then wired it into a TIL article using <a href="https://cog.readthedocs.io/">Cog</a>. The Cog-powered source code for the TIL article <a href="https://github.com/simonw/til/blob/main/sqlite/sqlite-triggers.md?plain=1">can be seen here</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/til">til</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/sql">sql</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/10/til-sqlite-triggers/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
+
+Tesla Reportedly Has $800 Million Worth of Cybertrucks That Nobody Wants. 
+
+<br> 
+
+<https://www.vice.com/en/article/tesla-reportedly-has-800-million-worth-of-cybertrucks-that-nobody-wants/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+The RNC says they’re interviewing the “smartest people” in every state to join DOGE, so we took the quiz. Spoiler: it’s not going well. 
+
+🧵 Read the full breakdown and laugh (so you don’t cry): https://bit.ly/3SubBbb
+
+#WeTheBuilders #BuiltToServe #FederalGov #DOGE 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lorrvmccpd2r>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
+
+And we also have zombie contracts too: revived after being canceled by DOGE. Is this what happens when we let grifters and children run the show?
+
+https://www.nytimes.com/2025/05/09/us/politics/doge-musk-contracts-agencies.html 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lorocc2ifk2b>
+
+---
+
+## I was wrong: AI Won't Overtake Software Engineering
+
+date: 2025-05-10, updated: 2025-05-10, from: Tom Kellog blog
+
+In January I wrote that software engineers would be replaced by people closer to the problem. I was
+wrong.
+
+Most people aren't the type of people that will push through problems to make software work. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/05/10/ai-code-updated>
 

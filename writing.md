@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-05-16 14:08:20
+updated: 2025-05-17 06:08:12
 ---
 
 # writing
 
-(date: 2025-05-16 14:08:20)
+(date: 2025-05-17 06:08:12)
 
 ---
 
@@ -553,4 +553,17 @@ date: 2025-05-11, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/05/one-way-witch-by-nnedi-okorafor-review-by-gary-k-wolfe/>
+
+---
+
+## Where the Axe Is Buried by Ray Nayler: Review by Niall Harrison
+
+date: 2025-05-10, from: Locus Magazine
+
+<p><strong>Where the Axe Is Buried</strong>, Ray Nayler (MCD 978-0-374-61536-9, $28.00, 336pp, hc) April 2025.</p>
+<p>I came to Ray Nayler’s <strong>Where the Axe Is Bur­ied </strong>on a fool’s errand. I am not American, but I have loved America, in spite of its sins, the imperfect ideals of it, the casually confident literature of it, the soul-shaping landscapes of it, all filtered through my own partial personal experiences of it in  <a href="https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-niall-harrison/>
 

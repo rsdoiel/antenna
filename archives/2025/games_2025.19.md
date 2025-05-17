@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-05-16 14:08:20
+updated: 2025-05-17 06:08:12
 ---
 
 # games
 
-(date: 2025-05-16 14:08:20)
+(date: 2025-05-17 06:08:12)
+
+---
+
+## Where to find Nightmare weapon skins in Doom: The Dark Age
+
+date: 2025-05-16, updated: 2025-05-16, from: Polygon Website
+
+Nightmare skins are a type of weapon skin in Doom: The Dark Ages. By equipping them, you can customize your guns to look as cool as the killing sprees you perform with them — but you do have to find these skins first. Skins can be easily equipped in Doom: The Dark Ages by accessing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find>
 
 ---
 
@@ -222,18 +234,6 @@ As a fan of Martha Wells’ award-winning, popular Murderbot Diaries book series
 <br> 
 
 <https://www.polygon.com/sci-fi/598759/murderbot-diaries-tv-adaptation-interview-tone-comedy>
-
----
-
-## Where to find Nightmare weapon skins in Doom: The Dark Age
-
-date: 2025-05-15, updated: 2025-05-15, from: Polygon Website
-
-Nightmare skins are a type of weapon skin in Doom: The Dark Ages. By equipping them, you can customize your guns to look as cool as the killing sprees you perform with them — but you do have to find these skins first. Skins can be easily equipped in Doom: The Dark Ages by accessing [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find>
 
 ---
 
@@ -702,4 +702,52 @@ Like most movies, Marvel Studios’ superhero team-up Thunderbolts* went through
 <br> 
 
 <https://www.polygon.com/marvel/598425/thunderbolts-original-script-changes-die-hard-breakfast-club-interview>
+
+---
+
+## Magic: The Gathering team dives deep into its stunning Final Fantasy set in 2-hour showcase
+
+date: 2025-05-10, updated: 2025-05-10, from: Polygon Website
+
+Judging from the number of gleeful screams heard throughout its PAX East Magic: The Gathering x Final Fantasy showcase presentation, Wizards of the Coast may have nailed its highly anticipated RPG crossover. The two-hour presentation, which you can watch above, rips open the new packs to reveal everything from Chocobos to luscious land cards inspired [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/598463/magic-final-fantasy-cards-reveal-ff-mtg-art>
+
+---
+
+## Dune: Awakening’s beta weekend is open — and you can still get in, if you pre-order
+
+date: 2025-05-10, updated: 2025-05-10, from: Polygon Website
+
+Dune: Awakening, the highly anticipated Dune MMO made by Funcom, previously had a beta that was under NDA for select players. But this weekend, there’s a new beta going on that players are free to stream and talk to their friends about. It’s available from now until this coming Monday, May 12 — and at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/598448/dune-awakening-beta-weekend-preorder>
+
+---
+
+## Putting the bleak anime movie Wolf Children in theaters for Mother’s Day is the perfect dark joke
+
+date: 2025-05-10, updated: 2025-05-09, from: Polygon Website
+
+Back in January, New York-based animation distributor GKIDS made the exciting announcement that it’s bringing Mamoru Hosoda’s library of anime films back to digital and home video release in America, including in 4K UHD editions. That was a fantastic relief for fans of ambitious, intelligently made anime movies. Hosoda’s latest movies, including 2021’s twisted-future “Beauty and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/598430/wolf-children-mamoru-hosoda-what-to-watch>
+
+---
+
+## Cassian Andor says luck brought him this far. Obi-Wan Kenobi and Star Wars history disagree
+
+date: 2025-05-10, updated: 2025-05-09, from: Polygon Website
+
+As season 2 of Andor heads toward its finale, Cassian Andor (Diego Luna) once again tries to quit the rebellion, in what’s become a running theme throughout both seasons of the show. He’s tired of the risks. He’s tired of being scared. He’s tired of witnessing atrocities. He’s tired of arguing with everyone about next [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/598309/cassian-andor-force-user-luck-obi-wan-kenobi-easter-egg>
 

@@ -1,15 +1,186 @@
 ---
 title: columns
-updated: 2025-05-16 14:08:19
+updated: 2025-05-17 06:08:11
 ---
 
 # columns
 
-(date: 2025-05-16 14:08:19)
+(date: 2025-05-17 06:08:11)
 
 ---
 
-## The one thing that's certain to tank Trump is coming soon
+**@Dave Winer's Scripting News** (date: 2025-05-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/16/thisIsAWordlandSite.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is what my <a href="https://daveverse.org/2025/05/16/my-site-looks-nice-now/">WordLand blog</a> looks <a href="https://imgs.scripting.com/2025/05/16/howBlogLooksToday.png">like</a> now. Quite a transformation! <i>Sooo</i> pretty. We're going to keep tweaking it up, so it's even more beautiful and more and more useful, but it's going to take some time. As the Supremes used to <a href="https://www.youtube.com/watch?v=ovoBi3pXD_A">sing</a> -- you can't hurry love, you just have to wait, la la la la. 
+
+<br> 
+
+<http://scripting.com/2025/05/16.html#a220300>
+
+---
+
+##  The Internet Phone Book is &#8220;an annual publication for exploring the vast... 
+
+date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046865-the-internet-phone-book-i>
+
+---
+
+## 2025-05-16 Plitvička Jezera
+
+date: 2025-05-16, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-16-plitvička-jezera">2025-05-16 Plitvička Jezera</h1>
+
+<p>The reason for coming to Grabovac was that we wanted to see the <a href="https://np-plitvicka-jezera.hr/">Plitvička Jezera</a>. It had many, many fantastic waterfalls, and a wooden walkway passing beneath them, going through the water-flooded areas, a boat to take you across one of the larger lakes, and more waterfalls. It was mind-boggling. It was beautiful. It was almost too wonderful to take in. But see for yourself.</p>
+
+<p>Approach the canyon and see the first few waterfalls down below.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-1.jpg" alt="green forest and a white limestone canyon below, with waterfalls" /></p>
+
+<p>Descend the trail and get closer to the waterfalls.
+Then notice the wooden walkways down below and realise that you will be down there, right there!</p>
+
+<p>Also, this is in May and apparently there are many more people here in summer.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-2.jpg" alt="a walkway beneath the limestone cliffs leads to the waterfalls" /></p>
+
+<p>Never forget to look at the little flowers along the way! As always, I identify them with Flora Incognita later that day. Here, for example, I guessed some sort of carnation.</p>
+
+<p>Feder-Nelke<br>
+Dianthus plumarius</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-3.jpg" alt="a white flower" /></p>
+
+<p>The walkway goes over the wetlands overflowing with water.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-4.jpg" alt="greenery everywhere and flowing water and miniature cascades" /></p>
+
+<p>Looking back at the lake we came from.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-5.jpg" alt="water falling from beneath the walkway into the lake below" /></p>
+
+<p>The taller waterfalls are around 30m high.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-6.jpg" alt="a dozen waterfalls coming down the wall into a landscape of green islands amidst the flowing water" /></p>
+
+<p>Ausdauerndes Silberblatt<br>
+Lunaria rediviva</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-7.jpg" alt="white flowers with four petals" /></p>
+
+<p>Herzblättrige Kugelblume<br>
+Globularia cordifolia</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-8.jpg" alt="pink, round flowers" /></p>
+
+<p>More landscape overflowing with water.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-9.jpg" alt="a dozen waterfalls beneath a limestone wall" /></p>
+
+<p>The limestone wall is full of cave entrances.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-10.jpg" alt="limestone wall, overgrown with bushes, and a cave entrance" /></p>
+
+<p>Another lake.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-11.jpg" alt="grey sky reflected in the lake below; another cascade visible in the background" /></p>
+
+<p>Dragonfly husks on wooden stems reaching out of the water.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-12.jpg" alt="insect shapes, six legged, but with gaping holes in their backs where the adult dragon fly emerged" /></p>
+
+<p>Just to show that we are not alone, here&rsquo;s the wooden walkway, mere centimetres above the water line, with dozens of people following us and watching the water.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-13.jpg" alt="people on the walkway" /></p>
+
+<p>Rundblättriger Steinbrech<br>
+Saxifraga rotundifolia</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-14.jpg" alt="white flowers with five petals" /></p>
+
+<p>Sometimes the wooden walkway touches the water, it&rsquo;s that close.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-15.jpg" alt="wooden walkway, this time with rails, along a lake" /></p>
+
+<p>Even the trees are in bloom.</p>
+
+<p>Blumen-Esche<br>
+Fraxinus ornus</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-16.jpg" alt="white flowers looking like feather dusters" /></p>
+
+<p>The trees grow out of the water like everything else.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-17.jpg" alt="a tree, standing in the water, leaning to the left, with another waterfall in the back" /></p>
+
+<p>More waterfalls.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-18.jpg" alt="grey skies and majestic waterfalls" />
+<img loading="lazy" src="2025-05-15-plitvice-19.jpg" alt="the waterfalls hits an outcrop, making it shoot straight out and the wind blows it away to the right" />
+<img loading="lazy" src="2025-05-15-plitvice-20.jpg" alt="hidden behind trees, more (smaller) waterfalls" />
+<img loading="lazy" src="2025-05-15-plitvice-21.jpg" alt="another limestone cliff and another waterfall" />
+<img loading="lazy" src="2025-05-15-plitvice-22.jpg" alt="another lake, another limestone cliff, and half a dozen waterfalls" />
+<img loading="lazy" src="2025-05-15-plitvice-23.jpg" alt="a bigger lake, more waterfalls" />
+<img loading="lazy" src="2025-05-15-plitvice-24.jpg" alt="a smaller lake, more waterfalls" />
+<img loading="lazy" src="2025-05-15-plitvice-25.jpg" alt="a calmer section with many pools and bushes and trees growing between them" />
+<img loading="lazy" src="2025-05-15-plitvice-26.jpg" alt="a log overgrown with moss in the water" /></p>
+
+<p>Langblättriges Waldvöglein<br>
+Cephalanthera longifolia</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-27.jpg" alt="white bulbous flowers" /></p>
+
+<p>Ährige Teufelskralle (Artengruppe)<br>
+Phyteuma spicatum agg.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-28.jpg" alt="spiky looking violet flowers" /></p>
+
+<p>Riesen-Taubnessel<br>
+Lamium orvala</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-29.jpg" alt="clusters of violet-white flowers under leaf cover" /></p>
+
+<p>We took a little bus back and walked the rest. On the way, there were a number of vista points into the valley below. Notice the walkway snaking itself through the landscape.</p>
+
+<p><img loading="lazy" src="2025-05-15-plitvice-30.jpg" alt="aquamarine water separated by little cascades where every rock is overgrown with green" /></p>
+
+<p>Truly, a magnificent place, with excellent infrastructure. Highly recommended.</p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Waterfalls">#Waterfalls</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-15-plitvice>
+
+---
+
+## Friday Squid Blogging: Pet Squid Simulation
+
+date: 2025-05-16, updated: 2025-05-05, from: Bruce Schneier blog
+
+<p>From <a href="https://hackaday.com/2025/04/26/digital-squids-behavior-shaped-by-neural-network/">Hackaday.com</a>, this is a <a href="https://github.com/ViciousSquid/Dosidicus">neural network simulation</a> of a pet squid.</p>
+<blockquote><p>Autonomous Behavior:</p>
+<ul>
+<li>The squid moves autonomously, making decisions based on his current state (hunger, sleepiness, etc.).
+<li>Implements a vision cone for food detection, simulating realistic foraging behavior.
+<li>Neural network can make decisions and form associations.
+<li>Weights are analysed, tweaked and trained by Hebbian learning algorithm.
+<li>Experiences from short-term and long-term memory can influence decision-making.
+<li>Squid can create new neurons in response to his environment (Neurogenesis) ...</li></li></li></li></li></li></ul></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pet-squid-simulation.html>
+
+---
+
+## The one thing that’s certain to tank Trump is coming soon
 
 date: 2025-05-16, from: Robert Reich's blog
 
@@ -30,49 +201,6 @@ date: 2025-05-16, updated: 2025-05-16, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/05/i-like-good-art-and-i-cannot-lie>
-
----
-
-## 2025-05-16 Plitvička Jezera
-
-date: 2025-05-16, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-16-plitvička-jezera">2025-05-16 Plitvička Jezera</h1>
-
-<p><img loading="lazy" src="2025-05-15-plitvice-1.jpg" alt="2025-05-15-plitvice-1.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-2.jpg" alt="2025-05-15-plitvice-2.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-3.jpg" alt="2025-05-15-plitvice-3.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-4.jpg" alt="2025-05-15-plitvice-4.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-5.jpg" alt="2025-05-15-plitvice-5.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-6.jpg" alt="2025-05-15-plitvice-6.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-7.jpg" alt="2025-05-15-plitvice-7.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-8.jpg" alt="2025-05-15-plitvice-8.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-9.jpg" alt="2025-05-15-plitvice-9.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-10.jpg" alt="2025-05-15-plitvice-10.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-11.jpg" alt="2025-05-15-plitvice-11.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-12.jpg" alt="2025-05-15-plitvice-12.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-13.jpg" alt="2025-05-15-plitvice-13.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-14.jpg" alt="2025-05-15-plitvice-14.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-15.jpg" alt="2025-05-15-plitvice-15.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-16.jpg" alt="2025-05-15-plitvice-16.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-17.jpg" alt="2025-05-15-plitvice-17.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-18.jpg" alt="2025-05-15-plitvice-18.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-19.jpg" alt="2025-05-15-plitvice-19.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-20.jpg" alt="2025-05-15-plitvice-20.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-21.jpg" alt="2025-05-15-plitvice-21.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-22.jpg" alt="2025-05-15-plitvice-22.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-23.jpg" alt="2025-05-15-plitvice-23.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-24.jpg" alt="2025-05-15-plitvice-24.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-25.jpg" alt="2025-05-15-plitvice-25.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-26.jpg" alt="2025-05-15-plitvice-26.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-27.jpg" alt="2025-05-15-plitvice-27.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-28.jpg" alt="2025-05-15-plitvice-28.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-29.jpg" alt="2025-05-15-plitvice-29.jpg" />
-<img loading="lazy" src="2025-05-15-plitvice-30.jpg" alt="2025-05-15-plitvice-30.jpg" /></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-15-plitvice>
 
 ---
 
@@ -2700,4 +2828,190 @@ Those of us who are truly lucky have more than one mother.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/may-10-2025>
+
+---
+
+## How to Make Customers Hate You
+
+date: 2025-05-10, from: Doc Searls (at Harvard), New Old Blog
+
+Exhibit A: Welcome to negative option billing at work. Other labels include &#8220;sludge,&#8221; &#8220;dark patterns,&#8221; &#8220;gotcha pricing,&#8221; &#8220;subscription trapping,&#8221; and &#8220;bait-and-default.&#8221; Works like this: offer a service at a discount that jumps up to a high &#8220;regular&#8221; price after the discount runs out, and count on the customer forgetting when the jump happens. It&#8217;s a [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/10/how-to-make-customers-hate-you-2/>
+
+---
+
+## May 9, 2025
+
+date: 2025-05-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163285322/cca1de68cd89ed2b62a105ea2c6d41aa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163285322/cca1de68cd89ed2b62a105ea2c6d41aa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-9-2025-f6f>
+
+---
+
+**@John's World Wide Wall Display** (date: 2025-05-10, from: John's World Wide Wall Display)
+
+While there have always been gullible adults, as a parent and educator, the real issue here is with young people. I had never considered people would use AI as a therapist, prophet or guru! 
+
+<br> 
+
+<https://johnjohnston.info/blog/like-chatgpt-prime/>
+
+---
+
+## Developers as Suppliers
+
+date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.threads.com/@benedictevans/post/DJVCqaZuN63>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-10, from: Miguel de Icaza Mastondon feed)
+
+<p>We are at PAX this weekend:  <a href="https://blog.la-terminal.net/xogot-at-pax-east/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-at-</span><span class="invisible">pax-east/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114484083013696714>
+
+---
+
+## Software isn't a thing
+
+date: 2025-05-10, from: Dave Winer's Scripting News
+
+<p>When a friend discovers a new product of mine and says the world owes Dave for being such a great guy, I wish they'd skip that part, and follow what we're doing. Get in the loop. </p>
+<p>Software isn't a thing, it isn't finished, it's a process as it gets invented by the users. It's a performing art. WordLand today is like a musician performing in a small club, working out the playlist, and hoping to be playing at theaters then arenas, and finally someday, if we're very good, stadiums. But we need help. </p>
+<p>If you love WordLand, subscribe. Use the software. Learn what it can do, hit its limits, make requests. </p>
+<p>I remember very well being handed a list of feature requests by Apple's lead evangelist from a new exec they just hired at Apple. I looked at the list, and handed it back and said I'd like to meet him. On the paper was the top ten list of <i>every</i> MORE user at the time. We knew what they wanted because we listened, studied, and learned. I knew his new boss was a real user, and thus I knew we could do stuff together. It worked out exactly that way. </p>
+<p>So if you love it, use it, <i>become part of it. </i></p>
+<p>PS: I've written about this over the years with the motto <a href="https://www.google.com/search?q=site%3Ascripting.com+shitty+software">we make shitty software</a>. If you use it and share what you learn, it will get better. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/10/141952.html?title=softwareIsntAThing>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-10, from: Dave Winer's Scripting News)
+
+It's about time WordLand had a <a href="https://bsky.app/profile/wordland.social">Bluesky account</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/10.html#a135838>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-10, from: Dave Winer's Scripting News)
+
+Someday I'll be able to point ChatGPT at the <a href="https://this.how/wordland/">home page</a> for writing about WordLand, and tell it to read every page that's linked to it, and from that put together a well-organized book about WordLand. Maybe sometime next year perhaps??  I used that as a prompt, to see what <a href="https://imgs.scripting.com/2025/05/10/writeABookForWordland.png">ChatGPT</a> would say. 
+
+<br> 
+
+<http://scripting.com/2025/05/10.html#a125701>
+
+---
+
+## America as a platform
+
+date: 2025-05-10, from: Dave Winer's Scripting News
+
+<p>We lived for the first years of my life in <a href="https://en.wikipedia.org/wiki/Jackson_Heights">Jackson Heights</a>, which is probably, today, the most culturally diverse place in the world. In the 1960s it was a white neighborhood that was adjacent to a black neighborhood, <a href="https://en.wikipedia.org/wiki/Corona,_Queens">Corona</a>. They paired our elementary schools when I was in third or fourth grade. My little brother went to the school in Corona, and I stayed in the school in Jackson Heights. </p>
+<p>There's a <a href="http://scripting.com/images/2025/05/10/eveWinerPeterWinerWalkToSchool.png">famous picture</a>, in our family at least, of my mother walking my brother to school. It was on the front page of the NYT one day. That was a big deal then.  </p>
+<p>When I was in fifth grade we moved to <a href="https://en.wikipedia.org/wiki/Flushing,_Queens">Flushing</a>. It was a sleepy little place (for NYC), nice houses, mostly Irish and Italian families with a few Jews. Now it's a Far East culture, from China and Korea, and still just as nice as it ever was. </p>
+<p>We have a system in this country, it takes people from everywhere and gives them a platform to create whatever they want. In Flushing it's the best Chinese food in the city, which is saying a lot.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/10/125322.html?title=americaAsAPlatform>
+
+---
+
+## The Biggest Presidential Con in History | The Coffee Klatch for May 10, 2025
+
+date: 2025-05-10, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163243226/60c87159c2b247cd582a0ab386f835a4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163243226/60c87159c2b247cd582a0ab386f835a4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-biggest-presidential-con-in-history>
+
+---
+
+## May 9, 2025
+
+date: 2025-05-10, from: Heather Cox Richardson blog
+
+Yesterday afternoon, President Donald Trump withdrew his nomination for interim U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-9-2025>
+
+---
+
+## No, Science is Not Just Another Religion
+
+date: 2025-05-10, updated: 2025-05-10, from: Ron Garret
+
+I want to debunk once and for all this idea that "science is just another religion".&nbsp; It isn't, for one simple reason: all religions are based on some kind of metaphysical assumptions.&nbsp; Those assumptions are generally something like the authority of some source of revealed knowledge, typically a holy text.&nbsp; But it doesn't have to be that.&nbsp; It can be as simple as assuming that 
+
+<br> 
+
+<https://blog.rongarret.info/2025/05/no-science-is-not-just-another-religion.html>
+
+---
+
+## Weeknotes: May 3-9, 2025
+
+date: 2025-05-10, from: Tracy Durnell Blog
+
+Highlight of the week: we had a great day out on Whidbey Island with some internet friends (where I repeatedly failed to guess what mountain we were looking at then finally landed on Kulshan which I did not realize was an indigenous name for Mt. Baker) Looking forward to: resting this weekend, busy week! Stuff I [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/09/weeknotes-may-3-9-2025/>
+
+---
+
+## Trump Administration ‘Actively Looking’ at Suspending Habeas Corpus
+
+date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cbsnews.com/news/stephen-miller-says-trump-administration-actively-looking-at-suspending-habeas-corpus-to-deport-migrants/>
+
+---
+
+## Epic Submits Fortnite to App Store Through Swedish Subsidiary
+
+date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/05/09/fortnite-apple-app-store-epic-games.html>
 

@@ -1,11 +1,86 @@
 ---
 title: socal north
-updated: 2025-05-16 14:08:16
+updated: 2025-05-17 06:08:08
 ---
 
 # socal north
 
-(date: 2025-05-16 14:08:16)
+(date: 2025-05-17 06:08:08)
+
+---
+
+## Smokey Robinson under criminal investigation after sexual assault allegations
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+Motown legend Smokey Robinson is being criminally investigated by the Los Angeles County Sheriff's Department following allegations accusing him of a series of sexual assaults. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/smokey-robinson-under-criminal-investigation-sexual-assault-allegations>
+
+---
+
+## What can I do if my former employer can’t — or won’t — sign off on public service loan forgiveness?
+
+date: 2025-05-16, updated: 2025-05-17, from: The LAist
+
+Borrowers who need to certify their employment have options. 
+
+<br> 
+
+<https://laist.com/news/education/public-service-loan-forgiveness-employer-certification-problems>
+
+---
+
+## Air taxis set to ferry spectators to Long Beach and beyond during 2028 LA Olympics
+
+date: 2025-05-16, from: Longbeach Post
+
+<figure><img width="1024" height="679" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-300x199.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-768x509.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-163x108.png 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1200x796.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-400x265.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e.png 1442w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The vertical-takeoff electric aircraft are supposed to be accessible to the average person, not just affluent travelers.</p>
+<p>The post <a href="https://lbpost.com/news/air-taxis-set-to-ferry-spectators-to-long-beach-and-beyond-during-2028-la-olympics">Air taxis set to ferry spectators to Long Beach and beyond during 2028 LA Olympics</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/air-taxis-set-to-ferry-spectators-to-long-beach-and-beyond-during-2028-la-olympics>
+
+---
+
+## Voter Game Plan: A guide to Huntington Beach’s special election on public libraries
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+Huntington Beach voters will weigh in on library privatization and book review committee. 
+
+<br> 
+
+<https://laist.com/news/politics/voter-game-plan-huntington-beach-special-election-on-public-libraries>
+
+---
+
+## LA’s first 'community solar' project of its kind is online. What it means for clean energy
+
+date: 2025-05-16, updated: 2025-05-17, from: The LAist
+
+Two small solar installations atop storage warehouses in Pico Rivera are a first for the state. They've been reducing low-income households' electricity bills since February. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-first-community-solar-project-of-its-kind-is-online>
+
+---
+
+## Here's how to nab a free life jacket for your kid this summer
+
+date: 2025-05-16, updated: 2025-05-16, from: The LAist
+
+The life jackets are U.S. Coast Guard-approved and available for free in Irvine. And you don't have to live in the city to get one. 
+
+<br> 
+
+<https://laist.com/news/politics/free-life-jackets-for-kids-in-irvine>
 
 ---
 
@@ -25,7 +100,7 @@ Republicans want to block enforcement of state AI regulations, imperiling Califo
 
 date: 2025-05-16, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A video of several kids breaking into the Second Street store made headlines. Police say they also targeted shops at 2nd &#038; PCH, in Bixby Knolls and in North Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/crime/sweet-jills-kids-burglary-businesses-arrested">Police say they&#8217;ve arrested 2 of the kids who broke into Sweet Jill&#8217;s Bakery and a handful of other shops</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -118,7 +193,7 @@ As he details deep cuts to public health care and universities in his budget, on
 
 date: 2025-05-16, from: Longbeach Post
 
-<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Google and California struck a deal last year to fund local news. Now the state is pulling back some of its commitments. Google could follow suit.</p>
 <p>The post <a href="https://lbpost.com/news/politics/googles-125-million-deal-with-california-for-local-news-is-already-shrinking">Google’s $125 million deal with California for local news is already shrinking</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -1464,4 +1539,118 @@ date: 2025-05-11, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/health/memorialcare-strike-long-beach-medical-center-nurses-miller-childrens-hospital-memorial>
+
+---
+
+## The FDA approves first US at-home tool as a Pap-smear alternative
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+Women can use a wand to collect a vaginal sample, then mail it to a lab that will screen for cervical cancer. The device will be available by prescription through a telehealth service. 
+
+<br> 
+
+<https://laist.com/news/health/the-fda-approves-first-us-at-home-tool-as-a-pap-smear-alternative>
+
+---
+
+## 15-year-old girl goes missing in Lakewood
+
+date: 2025-05-10, from: Longbeach Post
+
+<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-768x434.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1536x868.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-2048x1157.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1200x678.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1568x886.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-400x226.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Mikee's family is concerned for her well-being and is asking for the public’s help," the LASD said.</p>
+<p>The post <a href="https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood">15-year-old girl goes missing in Lakewood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood>
+
+---
+
+## Elizabeth Holmes' partner raises millions for new biotech testing startup
+
+date: 2025-05-10, updated: 2025-05-11, from: The LAist
+
+The incarcerated former Silicon Valley star is advising her partner on a new health tech startup. Holmes was convicted of defrauding investors in her blood-testing company Theranos. 
+
+<br> 
+
+<https://laist.com/news/elizabeth-holmes-partner-raises-millions-for-new-biotech-testing-startup>
+
+---
+
+## Hot. Cold. Hot. Cold. Today is hot. But tomorrow is cold. No, really
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+We've been experiencing some whiplash weather, alternating between hot and cold and hot and cold. 
+
+<br> 
+
+<https://laist.com/news/heat-wave-peaks-saturday-but-a-swing-in-temperatures-is-expected-early-next-week>
+
+---
+
+## A piece of LA history is on the 2025 list of most endangered historic places in the US
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+This year, the annual list from the National Trust for Historic Preservation includes a mysterious castle, flooded communities in Florida and North Carolina, historic hotels and a gigantic turtle. 
+
+<br> 
+
+<https://laist.com/news/la-history/piece-of-la-history-2025-list-of-most-endangered-historic-places-us>
+
+---
+
+## Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency
+
+date: 2025-05-10, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The money was funding 79 positions across the city for young workers seeking experience in health care, education, shelters and other social services.</p>
+<p>The post <a href="https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding">Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding>
+
+---
+
+## Why the SoCal studio where iconic murals were created remains carefully preserved today
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+In its past life, the office of Claremont Eye Associates was the Millard Sheets studio, where giant, breathtaking mosaic murals were made for more than a hundred buildings that dot the region. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/millard-sheets-studio-mosaic-mural-claremont-eye-associates>
+
+---
+
+## Stay local this Mother’s Day: 9 Boyle Heights places to brunch with mama
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+From old-school favorites to newer hotspots, we’ve got your Día de las Madres brunch plans covered. 
+
+<br> 
+
+<https://laist.com/news/food/mothers-day-9-boyle-heights-places-to-brunch>
+
+---
+
+## Trump signs executive order for more veteran housing at West LA VA campus
+
+date: 2025-05-10, updated: 2025-05-10, from: The LAist
+
+The president's order calls for a plan to house 6,000 veterans in less than three years. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/trump-signs-executive-order-for-more-veteran-housing-at-west-la-va-campus>
 

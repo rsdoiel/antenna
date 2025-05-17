@@ -1,11 +1,55 @@
 ---
 title: going electric
-updated: 2025-05-16 14:08:24
+updated: 2025-05-17 06:08:16
 ---
 
 # going electric
 
-(date: 2025-05-16 14:08:24)
+(date: 2025-05-17 06:08:16)
+
+---
+
+## This vast 1.3 GW Indiana solar farm will power 200,000 homes
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Mammoth-Solar-Grazing-2.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Mammoth Solar, a 1.3 gigawatt (GW) solar farm in northern Indiana, is now powering into its biggest construction phase yet, cementing its place as one of the largest solar projects in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,indiana,solar-power" data-layer-viewtype="unknown" data-post-id="416410" href="https://electrek.co/2025/05/16/1-3-gw-indiana-solar-farm-will-power-200000-homes/#more-416410" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/1-3-gw-indiana-solar-farm-will-power-200000-homes/>
+
+---
+
+## BYD’s funky new kei car spotted testing: Here’s our first look at the mini EV
+
+date: 2025-05-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYDs-mini-EV-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is about to launch an even smaller EV, but this one’s a little different. It’s <a href="https://electrek.co/guides/byd/">BYD’s</a> first kei car. You know, those tiny vehicles that dominate Japan’s city streets? BYD’s mini EV was just spotted out in public, giving us our first real look at the upcoming kei car.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="416286" href="https://electrek.co/2025/05/16/byds-funky-new-kei-car-spotted-testing-first-look-mini-ev/#more-416286" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/16/byds-funky-new-kei-car-spotted-testing-first-look-mini-ev/>
+
+---
+
+## Volkswagen: Real Car Names Are So Back
+
+date: 2025-05-16, from: Inside EVs News
+
+VW will soon scrap its "ID" naming scheme on EVs and give its cars "proper names." 
+
+<br> 
+
+<https://insideevs.com/news/759881/vw-drop-id-name-evs/>
 
 ---
 
@@ -17,7 +61,7 @@ date: 2025-05-16, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning" data-layer-viewtype="unknown" data-post-id="416388" href="https://electrek.co/2025/05/16/ford-f-150-lightning-retakes-best-selling-electric-pickup-crown/#more-416388" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning" data-layer-viewtype="unknown" data-post-id="416388" href="https://electrek.co/2025/05/16/ford-f-150-lightning-retakes-best-selling-electric-pickup-crown/#more-416388" class="more-link">more…</a> 
 
 <br> 
 
@@ -42,6 +86,10 @@ The first Saudi-made Lucids will reach Europe and non-Chinese Asian markets star
 date: 2025-05-16, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss how the GOP plans to kill the EV tax credit, Tesla’s China problem, Slate getting some interest, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Electrek_385.mp3"></audio></figure>
 
 
 
@@ -1902,4 +1950,52 @@ date: 2025-05-11, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/05/11/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
+
+---
+
+## There’s plenty of EV money out there – and plenty of people to help you find it!
+
+date: 2025-05-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/ford-pro_money.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>While Washington continues to threaten America’s economic security and position as a global technology leader by toying with the idea of <a href="https://electrek.co/2025/05/06/gop-leader-confirms-plan-to-kill-7500-ev-tax-credit-in-budget/">killing the $7,500 Federal EV tax credit</a>, <a href="https://www.motherjones.com/politics/2025/05/trump-epa-energy-star-program-eliminate-reaction-cost-families-businesses-500-billion-efficient-appliances/" target="_blank" rel="noreferrer noopener nofollow">the ENERGY STAR program</a>, and other energy efficiency incentives, the private energy sector is stepping up with massive investments in battery storage, charging infrastructure, and commercial EV rebates – and helping fleet buyers navigate those new incentives is becoming part of the broader business plan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,ev-incentives,ev-rebate,ford-pro" data-layer-viewtype="unknown" data-post-id="415377" href="https://electrek.co/2025/05/10/theres-plenty-of-ev-money-out-there-and-plenty-of-people-to-help-you-find-it/#more-415377" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/10/theres-plenty-of-ev-money-out-there-and-plenty-of-people-to-help-you-find-it/>
+
+---
+
+## Volvo teases all-new XC70 PHEV with 125 miles of electric range for 2026
+
+date: 2025-05-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/xc70_5.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volvo Cars has teased an all-new Volvo XC70 plug-in hybrid crossover with 400 hp and 200 km (approx. 125 miles) of all-electric range, giving it the longest battery-only range of any of the company’s plug-in hybrid offerings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,phev,volvo" data-layer-viewtype="unknown" data-post-id="415353" href="https://electrek.co/2025/05/10/volvo-teases-all-new-xc70-phev-with-125-miles-of-electric-range-for-2026/#more-415353" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/10/volvo-teases-all-new-xc70-phev-with-125-miles-of-electric-range-for-2026/>
+
+---
+
+## American energy sector set to invest $100B in battery storage by 2030
+
+date: 2025-05-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/wartsila_energy_252e4e.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Members of the US energy industry has committed to investing $100 billion over the next five years to build and buy American-made batteries for large, utility-scale deployments of battery energy storage systems (BESS).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,electric-utility" data-layer-viewtype="unknown" data-post-id="415332" href="https://electrek.co/2025/05/10/american-energy-sector-set-to-invest-100b-in-battery-storage-by-2030/#more-415332" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/10/american-energy-sector-set-to-invest-100b-in-battery-storage-by-2030/>
 

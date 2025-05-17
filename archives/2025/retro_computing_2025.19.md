@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-16 14:08:23
+updated: 2025-05-17 06:08:15
 ---
 
 # retro computing
 
-(date: 2025-05-16 14:08:23)
+(date: 2025-05-17 06:08:15)
 
 ---
 
@@ -174,4 +174,16 @@ Linux Mint getting sound on an Asus E200H in 2025.
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250511>
+
+---
+
+## b.log 2025/05/10 - No audio, ESP32-Cam enhancements, Eurovision.
+
+date: 2025-05-10, from: Richard Murray's blog
+
+No audio, ESP32-Cam enhancements, Eurovision. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250510>
 

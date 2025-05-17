@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-16 14:08:22
+updated: 2025-05-17 06:08:15
 ---
 
 # motorcycles
 
-(date: 2025-05-16 14:08:22)
+(date: 2025-05-17 06:08:15)
+
+---
+
+## Indianapolis 500 Day 4 Practice Report: Ganassi, Penske and Kirkwood show their hands as Rahal struggles
+
+date: 2025-05-16, from: Kickin the Tires blog
+
+Tricky conditions plagued the drivers on ‘Fast Friday’ at the Indianapolis Motor Speedway for the fourth day of practice for the 109th Indianapolis 500. ‘Fast Friday’ is reserved as the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indianapolis-500-day-4-practice-report-ganassi-penske-and-kirkwood-show-their-hands-as-rahal-struggles/>
 
 ---
 
@@ -520,4 +532,28 @@ By Austin Lawton, Staff Writer Alex Palou continues to do what Alex Palou does b
 <br> 
 
 <https://kickinthetires.net/indycar/alex-palou-and-the-perfect-10s-win-third-ims-road-course-race-in-a-row/>
+
+---
+
+## Harley Investors Allege Backroom Deals, Say CEO and Directors Are Promising to Leave
+
+date: 2025-05-10, from: Ride Apart, Electric Motorcycle News
+
+H Partners Management alleges the directors are holding backroom meetings with shareholders.  
+
+<br> 
+
+<https://www.rideapart.com/news/759147/harley-davidson-h-partners-management-ceo-board-directors-leaving/>
+
+---
+
+## Palou wins Sonsio GP Pole; looks to get fourth win of the season
+
+date: 2025-05-10, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer The Month of May is finally here which means the NTT IndyCar Series will spend the next three weeks at the Indianapolis Motor Speedway. Instead&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/palou-wins-sonsio-gp-pole-looks-to-get-fourth-win-of-the-season/>
 

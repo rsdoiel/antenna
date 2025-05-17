@@ -1,11 +1,38 @@
 ---
 title: small papers
-updated: 2025-05-16 14:08:25
+updated: 2025-05-17 06:08:17
 ---
 
 # small papers
 
-(date: 2025-05-16 14:08:25)
+(date: 2025-05-17 06:08:17)
+
+---
+
+## Air taxis set to ferry spectators to Long Beach and beyond during 2028 LA Olympics
+
+date: 2025-05-16, from: Long Beach Post
+
+<figure><img width="1024" height="679" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-300x199.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-768x509.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-163x108.png 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1200x796.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-400x265.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e.png 1442w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The vertical-takeoff electric aircraft are supposed to be accessible to the average person, not just affluent travelers.</p>
+<p>The post <a href="https://lbpost.com/news/air-taxis-set-to-ferry-spectators-to-long-beach-and-beyond-during-2028-la-olympics">Air taxis set to ferry spectators to Long Beach and beyond during 2028 LA Olympics</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/air-taxis-set-to-ferry-spectators-to-long-beach-and-beyond-during-2028-la-olympics>
+
+---
+
+## Sunset Bar & Grill, Bravo’s Landscaping win
+
+date: 2025-05-16, from: Catalina Islander
+
+The start of the third round of play broke the tied standings. Buoys &#38; Gulls took on Sunset Bar &#38; Grill in game one. Weston Leonhardi hit a double for Buoys &#38; Gulls in the first, but was left at second. Buoys &#38; Gulls scored two in the second off the two RBI home run [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sunset-bar-grill-bravos-landscaping-win/>
 
 ---
 
@@ -25,7 +52,7 @@ The Jazz Angels, with their Catalina connection has set a date for its first per
 
 date: 2025-05-16, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A video of several kids breaking into the Second Street store made headlines. Police say they also targeted shops at 2nd &#038; PCH, in Bixby Knolls and in North Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/crime/sweet-jills-kids-burglary-businesses-arrested">Police say they&#8217;ve arrested 2 of the kids who broke into Sweet Jill&#8217;s Bakery and a handful of other shops</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -82,7 +109,7 @@ date: 2025-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-05-16, from: Long Beach Post
 
-<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Google and California struck a deal last year to fund local news. Now the state is pulling back some of its commitments. Google could follow suit.</p>
 <p>The post <a href="https://lbpost.com/news/politics/googles-125-million-deal-with-california-for-local-news-is-already-shrinking">Google’s $125 million deal with California for local news is already shrinking</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -567,4 +594,49 @@ date: 2025-05-11, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/health/memorialcare-strike-long-beach-medical-center-nurses-miller-childrens-hospital-memorial>
+
+---
+
+## 15-year-old girl goes missing in Lakewood
+
+date: 2025-05-10, from: Long Beach Post
+
+<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-768x434.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1536x868.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-2048x1157.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1200x678.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1568x886.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-400x226.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Mikee's family is concerned for her well-being and is asking for the public’s help," the LASD said.</p>
+<p>The post <a href="https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood">15-year-old girl goes missing in Lakewood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood>
+
+---
+
+## Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency
+
+date: 2025-05-10, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The money was funding 79 positions across the city for young workers seeking experience in health care, education, shelters and other social services.</p>
+<p>The post <a href="https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding">Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding>
+
+---
+
+## Select Greater LA Area DMV Offices Opening on May 17 for REAL ID Appointments
+
+date: 2025-05-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="795" height="419" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?fit=795%2C419&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?w=795&amp;ssl=1 795w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=300%2C158&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=768%2C405&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=780%2C411&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=400%2C211&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=706%2C372&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?fit=795%2C419&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The California Department of Motor Vehicles (DMV) announced today that select offices in the greater Los Angeles area will offer REAL ID appointments on Saturday, May 17, from 8 a.m. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/05/09/select-greater-la-area-dmv-offices-opening-on-may-17-for-real-id-appointments/">Select Greater LA Area DMV Offices Opening on May 17 for REAL ID Appointments</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/05/09/select-greater-la-area-dmv-offices-opening-on-may-17-for-real-id-appointments/>
 
