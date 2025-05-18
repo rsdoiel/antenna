@@ -1,11 +1,76 @@
 ---
 title: journalism
-updated: 2025-05-18 06:07:28
+updated: 2025-05-18 14:08:17
 ---
 
 # journalism
 
-(date: 2025-05-18 06:07:28)
+(date: 2025-05-18 14:08:17)
+
+---
+
+## Opera ‘Schoenberg in Hollywood’ stages life of acclaimed composer, UCLA professor
+
+date: 2025-05-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+A Hollywood story is being told in a new way with an opera&#8217;s West Coast premiere.
+A production of composer Tod Machover&#8217;s piece &#8220;Schoenberg in Hollywood&#8221; will have a four-show run from today through Thursday at the UCLA Nimoy Theater. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/18/opera-schoenberg-in-hollywood-stages-life-of-acclaimed-composer-ucla-professor/>
+
+---
+
+## Student DJ Eszter Chappell spins up dynamic sets, builds community through music
+
+date: 2025-05-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Eszter Chappell is stirring up the Westwood DJ scene with her unapologetic confidence and energy.
+The first-year business economics student &#8211; also known as DJ ST3RR &#8211; said she began DJing with her own DJ deck after unwrapping it for Christmas in 2023. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/18/student-dj-eszter-chappell-spins-up-dynamic-sets-builds-community-through-music/>
+
+---
+
+## Restaurant review: CHAGEE Modern Tea House’s 1st US location delivers both aesthetic and flavor
+
+date: 2025-05-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+CHAGEE Modern Tea House delivers invigorating flavors and an up-to-the-minute coolness that will upset the hierarchy of West Los Angeles cafes and boulangeries.
+On a sunny Friday afternoon, a curtain of black umbrellas festooned the balcony of Westfield Century City shopping mall. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/18/restaurant-review-chagee-modern-tea-houses-1st-us-location-delivers-both-aesthetic-and-flavor/>
+
+---
+
+## ‘Just Like Us’ explores Latino experiences of, challenges attitudes on immigration
+
+date: 2025-05-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Through the lens of immigration, the theater production &#8220;Just Like Us&#8221; highlights the coming-of-age stories of four Latina girls in Denver.
+This rendition of a true story is running until May 18 under the Latino Theater Company at the Los Angeles Theatre Center. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/18/just-like-us-explores-latino-experiences-of-challenges-attitudes-on-immigration/>
+
+---
+
+## Asian and Pacific Islander film night shows short films from UCLA students, alumni
+
+date: 2025-05-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Asian and Pacific Islander filmmakers showcased their work and discussed the struggles the communities face at the API Film Night on May 9. 
+Four creatives, made up of a mix of UCLA alumni and current students, presented their films and talked about the process behind their work at the James Bridges Theater. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/18/asian-and-pacific-islander-film-night-shows-short-films-from-ucla-students-alumni/>
 
 ---
 

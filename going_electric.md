@@ -1,11 +1,83 @@
 ---
 title: going electric
-updated: 2025-05-18 06:07:31
+updated: 2025-05-18 14:08:19
 ---
 
 # going electric
 
-(date: 2025-05-18 06:07:31)
+(date: 2025-05-18 14:08:19)
+
+---
+
+## Autonomous electric haul truck fleet set to revolutionize mineral mining in China
+
+date: 2025-05-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/huawei-mining-truck.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Powered by tech giant Huawei 5G-Advanced network, a fleet of over 100 Huaneng Ruichi all-electric autonomous haul trucks and heavy equipment assets have been deployed at the Yimin open-pit mine in Inner Mongolia.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,china,huawei,mining" data-layer-viewtype="unknown" data-post-id="416502" href="https://electrek.co/2025/05/18/autonomous-electric-haul-truck-fleet-set-to-revolutionize-mineral-mining-in-china/#more-416502" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/18/autonomous-electric-haul-truck-fleet-set-to-revolutionize-mineral-mining-in-china/>
+
+---
+
+## BMW Neue Klasse EVs Shed More Camouflage Ahead Of Reveal
+
+date: 2025-05-18, from: Inside EVs News
+
+The first is the iX3 SUV, which will be shown this year, followed by the i3 sedan coming in 2026 with sedan and wagon bodies. 
+
+<br> 
+
+<https://insideevs.com/news/759924/bmw-neue-klasse-evs-appearance/>
+
+---
+
+## Tesla starts accepting Cybertruck trade-ins, confirms insane depreciation
+
+date: 2025-05-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has started accepting Cybertruck trade-ins, something that wasn’t the case more than a year after deliveries of the electric pickup truck started.</p>
+
+
+
+<p>We are starting to see why Tesla didn’t accept its own vehicle as a trade-in: the depreciation is insane.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="416498" href="https://electrek.co/2025/05/18/tesla-starts-accepting-cybertruck-trade-ins-confirms-insane-depreciation/#more-416498" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/18/tesla-starts-accepting-cybertruck-trade-ins-confirms-insane-depreciation/>
+
+---
+
+## America's EV Outlook Just Got Bleaker. China Isn't Slowing Down.
+
+date: 2025-05-18, from: Inside EVs News
+
+EV sales growth would slow dramatically under President Trump's policies, according to a report from the International Energy Agency. 
+
+<br> 
+
+<https://insideevs.com/news/759907/ev-sales-slowdown-trump-ira/>
+
+---
+
+## Porsche Just Added A Bunch Of Stations To Its EV Charging Service Plan
+
+date: 2025-05-18, from: Inside EVs News
+
+There are now over 102,000 places to charge your Porsche through the automaker's app, some of which are free. 
+
+<br> 
+
+<https://insideevs.com/news/759697/porsche-added-ev-stations-charging-service-plan/>
 
 ---
 

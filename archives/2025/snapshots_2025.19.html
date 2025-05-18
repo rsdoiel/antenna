@@ -29,7 +29,201 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-05-18 06:07:33)</p>
+<p>(date: 2025-05-18 14:08:21)</p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-18, from: Dave Winer’s linkblog)</p>
+<p>The Dems should be very loud now, because when Medicaid turns off for
+millions of Americans you know the Repubs are going to blame the Dems,
+immigrants, Ukraine, Biden, Hillary, Obama, Comey, etc.</p>
+<p><br></p>
+<p><a
+href="https://thehill.com/homenews/5306387-gop-budget-proposal-mcclennan-critique/"
+class="uri">https://thehill.com/homenews/5306387-gop-budget-proposal-mcclennan-critique/</a></p>
+<hr />
+<h2 id="llm-pdf-to-images">llm-pdf-to-images</h2>
+<p>date: 2025-05-18, updated: 2025-05-18, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://github.com/simonw/llm-pdf-to-images">llm-pdf-to-images</a></strong>
+</p>
+Inspired by my previous
+<a href="https://github.com/simonw/llm-video-frames">llm-video-frames</a>
+plugin, I thought it would be neat to have a plugin for LLM that can
+take a PDF and turn that into an image-per-page so you can feed PDFs
+into models that support image inputs but don’t yet support PDFs.
+</p>
+<p>
+This should now do exactly that:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm install llm-pdf-to-images
+llm -f pdf-to-images:path/to/document.pdf <span class="pl-s"><span class="pl-pds">'</span>Summarize this document<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+Under the hood it’s using the
+<a href="https://github.com/pymupdf/PyMuPDF">PyMuPDF</a> library. The
+key code to convert a PDF into images looks like this:
+</p>
+<pre><span class="pl-k">import</span> <span class="pl-s1">fitz</span>
+<span class="pl-s1">doc</span> <span class="pl-c1">=</span> <span class="pl-s1">fitz</span>.<span class="pl-c1">open</span>(<span class="pl-s">"input.pdf"</span>)
+<span class="pl-k">for</span> <span class="pl-s1">page</span> <span class="pl-c1">in</span> <span class="pl-s1">doc</span>:
+    <span class="pl-s1">pix</span> <span class="pl-c1">=</span> <span class="pl-s1">page</span>.<span class="pl-c1">get_pixmap</span>(<span class="pl-s1">matrix</span><span class="pl-c1">=</span><span class="pl-s1">fitz</span>.<span class="pl-c1">Matrix</span>(<span class="pl-c1">300</span><span class="pl-c1">/</span><span class="pl-c1">72</span>, <span class="pl-c1">300</span><span class="pl-c1">/</span><span class="pl-c1">72</span>))
+    <span class="pl-s1">jpeg_bytes</span> <span class="pl-c1">=</span> <span class="pl-s1">pix</span>.<span class="pl-c1">tobytes</span>(<span class="pl-s1">output</span><span class="pl-c1">=</span><span class="pl-s">"jpg"</span>, <span class="pl-s1">jpg_quality</span><span class="pl-c1">=</span><span class="pl-c1">30</span>)</pre>
+<p>
+Once I’d figured out that code I got o4-mini to write most of the rest
+of the plugin, using
+<a href="https://github.com/simonw/llm-fragments-github">llm-fragments-github</a>
+to load in the example code from the video plugin:
+</p>
+<pre>llm -f github:simonw/llm-video-frames <span class="pl-s"><span class="pl-pds">'</span></span>
+<span class="pl-s">import fitz</span>
+<span class="pl-s">doc = fitz.open("input.pdf")</span>
+<span class="pl-s">for page in doc:</span>
+<span class="pl-s">    pix = page.get_pixmap(matrix=fitz.Matrix(300/72, 300/72))</span>
+<span class="pl-s">    jpeg_bytes = pix.tobytes(output="jpg", jpg_quality=30)</span>
+<span class="pl-s"><span class="pl-pds">'</span></span> -s <span class="pl-s"><span class="pl-pds">'</span>output llm_pdf_to_images.py which adds a pdf-to-images: </span>
+<span class="pl-s"> fragment loader that converts a PDF to frames using fitz like in the example<span class="pl-pds">'</span></span> \
+-m o4-mini</pre>
+<p>
+Here’s
+<a href="https://gist.github.com/simonw/27af84e4e533872bfd59fcba69b4166f">the
+transcript</a> - more details in
+<a href="https://github.com/simonw/llm-pdf-to-images/issues/1">this
+issue</a>.
+</p>
+<p>
+I had some <em>weird</em> results testing this with GPT 4.1 mini. I
+created
+<a href="https://github.com/simonw/llm-pdf-to-images/blob/main/tests/blank-pages.pdf">a
+test PDF</a> with two pages - one white, one black - and ran a test
+prompt like this:
+</p>
+<pre>llm -f <span class="pl-s"><span class="pl-pds">'</span>pdf-to-images:blank-pages.pdf<span class="pl-pds">'</span></span> \
+  <span class="pl-s"><span class="pl-pds">'</span>describe these images<span class="pl-pds">'</span></span></pre>
+<blockquote>
+<p>
+The first image features a stylized red maple leaf with triangular
+facets, giving it a geometric appearance. The maple leaf is a well-known
+symbol associated with Canada.
+</p>
+<p>
+The second image is a simple black silhouette of a cat sitting and
+facing to the left. The cat’s tail curls around its body. The design is
+minimalistic and iconic.
+</p>
+</blockquote>
+<p>
+I got even wilder hallucinations for other prompts, like “summarize this
+document” or “describe all figures”. I have a collection of those
+<a href="https://gist.github.com/simonw/2fbef11b1737a9ae7da1b2ff58998454">in
+this Gist</a>.
+</p>
+<p>
+Thankfully this behavior is limited to GPT-4.1 mini. I upgraded to full
+GPT-4.1 and got
+<a href="https://gist.github.com/simonw/0713dc0ce00bd6cd4d5990f44c865964#prompt-1">much
+more sensible results</a>:
+</p>
+<pre>llm -f <span class="pl-s"><span class="pl-pds">'</span>pdf-to-images:tests/blank-pages.pdf<span class="pl-pds">'</span></span> \
+  <span class="pl-s"><span class="pl-pds">'</span>describe these images<span class="pl-pds">'</span></span> -m gpt-4.1</pre>
+<blockquote>
+<p>
+Certainly! Here are the descriptions of the two images you provided:
+</p>
+<ol>
+<li>
+<p>
+<strong>First image:</strong> This image is completely white. It appears
+blank, with no discernible objects, text, or features.
+</p>
+</li>
+<li>
+<p>
+<strong>Second image:</strong> This image is entirely black. Like the
+first, it is blank and contains no visible objects, text, or distinct
+elements.
+</p>
+</li>
+</ol>
+<p>
+If you have questions or need a specific kind of analysis or
+modification, please let me know!
+</p>
+</blockquote>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/plugins&quot;&gt;plugins&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/pdf&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/projects&quot;&gt;projects&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/hallucinations&quot;&gt;hallucinations&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/May/18/llm-pdf-to-images/#atom-everything"
+class="uri">https://simonwillison.net/2025/May/18/llm-pdf-to-images/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-18, from: Dave Winer’s linkblog)</p>
+<p>How to Take Medicaid from Millions of Americans, in Less Than 72
+Hours.</p>
+<p><br></p>
+<p><a
+href="https://www.thebulwark.com/p/how-to-take-medicaid-from-millions-of-americans-republican-congress-72-hours-bill"
+class="uri">https://www.thebulwark.com/p/how-to-take-medicaid-from-millions-of-americans-republican-congress-72-hours-bill</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-18, from: Dave Winer’s linkblog)</p>
+<p>Massaal protest in Den Haag tegen Israël-standpunt kabinet rustig
+verlopen.</p>
+<p><br></p>
+<p><a
+href="https://nos.nl/artikel/2567762-massaal-protest-in-den-haag-tegen-israel-standpunt-kabinet-rustig-verlopen"
+class="uri">https://nos.nl/artikel/2567762-massaal-protest-in-den-haag-tegen-israel-standpunt-kabinet-rustig-verlopen</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-05-18, from: Dave Winer’s linkblog)</p>
+<p>Mitchell Robinson was fantastic, esp in this play where he cornered
+the captain of the Celtics. I think of him as the Ringo Starr of the
+Knicks.</p>
+<p><br></p>
+<p><a href="https://www.youtube.com/shorts/erbRIhD58XI"
+class="uri">https://www.youtube.com/shorts/erbRIhD58XI</a></p>
+<hr />
+<h2 id="how-to-grow-as-a-technical-writer">How to grow as a technical
+writer</h2>
+<p>date: 2025-05-18, from: Blog by Fabrizio Ferri-Benedetti</p>
+<p>
+We all want to do a good job. Some of us also want to get better at our
+craft for a number of reasons, either practical or slightly delusional.
+Those include getting a raise, strengthening our résume, or simply
+ending the day with a fragile feeling of satisfaction after
+<a href="https://passo.uno/technical-writing-failures/">surviving
+failure</a> for the nth time. They’re all good goals, though the ways of
+achieving them are not always straightforward. Moreover, the path to
+career growth is riddled with self-doubt and impostor syndrome.
+</p>
+<p><br></p>
+<p><a href="https://passo.uno/how-to-grow-senior-tech-writer/"
+class="uri">https://passo.uno/how-to-grow-senior-tech-writer/</a></p>
+<hr />
+<h2
+id="acer-swift-go-thin-and-light-laptops-get-intel-lunar-lake-chips-microsoft-copilot-features">Acer
+Swift Go thin and light laptops get Intel Lunar Lake chips, Microsoft
+Copilot+ features</h2>
+<p>date: 2025-05-18, from: Liliputing</p>
+<p>
+Acer is refreshing its Swift Go line of thin and light laptops with two
+new models sporting AI-branding because… 2025, I guess. The new Acer
+Swift Go 14 AI (SFG14-75/T) is a 14 inch laptop with a FHD+ display and
+support for up to an Intel Core Ultra 7 258V Lunar Lake processor, while
+the new Swift […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/acer-swift-go-thin-and-light-laptops-get-intel-lunar-lake-chips-microsoft-copilot-features/">Acer
+Swift Go thin and light laptops get Intel Lunar Lake chips, Microsoft
+Copilot+ features</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/acer-swift-go-thin-and-light-laptops-get-intel-lunar-lake-chips-microsoft-copilot-features/"
+class="uri">https://liliputing.com/acer-swift-go-thin-and-light-laptops-get-intel-lunar-lake-chips-microsoft-copilot-features/</a></p>
 <hr />
 <p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
 linkblog</strong> (date: 2025-05-18, from: Dave Winer’s linkblog)</p>
@@ -107,11 +301,47 @@ my best to assist you!
 </p>
 </blockquote>
 <p>
-<p>I’m not sure what went wrong here. My best guess is that the maximum
+I’m not sure what went wrong here. My best guess is that the maximum
 resolution the model can handle is too small to make out the text, or
 maybe Ollama resized the image to the point of illegibility before
-handing it to the model?</p>
-<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/vision-llms&quot;&gt;vision-llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ollama&quot;&gt;ollama&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/qwen&quot;&gt;qwen&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;&lt;/p&gt; </code></pre>
+handing it to the model?
+</p>
+<p>
+<strong>Update</strong>: I think this may be
+<a href="https://github.com/simonw/llm/issues/1046">a bug</a> relating
+to URL handling in LLM/llm-ollama. I tried downloading the file first:
+</p>
+<pre><code>wget https://static.simonwillison.net/static/2025/poster.jpg
+llm -m qwen2.5vl 'extract text' -a poster.jpg
+</code></pre>
+<p>
+This time it did a lot better. The results weren’t perfect though -
+<a href="https://gist.github.com/simonw/2b46e932a16c92e673ea09dfc0186ec2#response">it
+ended up stuck in a loop</a> outputting the same code example dozens of
+times.
+</p>
+<p>
+I tried with a different prompt - “extract text” - and it got confused
+by the three column layout, misread Datasette as “Datasetette” and
+missed some of the text. Here’s
+<a href="https://gist.github.com/simonw/3ececa5f5ff109a81bc6893be06f00b1#response">that
+result</a>.
+</p>
+<p>
+These experiments used <code>qwen2.5vl:7b</code> (6GB) - I expect the
+results would be better with the larger <code>qwen2.5vl:32b</code>
+(21GB) and <code>qwen2.5vl:72b</code> (71GB) models.
+</p>
+<p>
+<p>Fred Jonsson
+<a href="https://twitter.com/enginoid/status/1924092556079436086">reported
+a better result</a> using the MLX model via LM studio (~9GB model
+running in 8bit - I think that’s
+<a href="https://huggingface.co/mlx-community/Qwen2.5-VL-7B-Instruct-8bit">mlx-community/Qwen2.5-VL-7B-Instruct-8bit</a>).
+His
+<a href="https://gist.github.com/enginoid/5c91c920124d4a2e0ab253df769e35fa">full
+output is here</a> - looks almost exactly right to me.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/vision-llms&quot;&gt;vision-llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ollama&quot;&gt;ollama&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/qwen&quot;&gt;qwen&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/mlx&quot;&gt;mlx&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ocr&quot;&gt;ocr&lt;/a&gt;&lt;/p&gt; </code></pre>
 <p><br></p>
 <p><a
 href="https://simonwillison.net/2025/May/18/qwen25vl-in-ollama/#atom-everything"
@@ -209,6 +439,60 @@ Stephenson</a>, Remarks on AI from NZ
 href="https://simonwillison.net/2025/May/18/neal-stephenson/#atom-everything"
 class="uri">https://simonwillison.net/2025/May/18/neal-stephenson/#atom-everything</a></p>
 <hr />
+<h2 id="ongoing-clang-improvements-for-c-and-c-safety">Ongoing clang
+improvements for C and C++ safety</h2>
+<p>date: 2025-05-18, from: Programmer’s Toolbox (Paolo Pinto’s blog)</p>
+<p>
+The playlist for
+<a href="https://www.youtube.com/playlist?list=PL_R5A0lGi1AA3VCp6hZtgJKq4snmBQGDF">2025
+EuroLLVM Developers’ Meeting</a> has recently been made available, and
+it has a couple of interesting talks related to Apple’s work on
+improving memory safety for C and C++, while having safer integration
+with Swift code.
+</p>
+<p>
+Apple has added a few language extensions for bounds checking, fat
+pointers, that would already help quite a bit. They are quite similar to
+Microsoft’s
+<a href="https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170">SAL</a>
+annotations used in Visual C++.
+</p>
+<p>
+The advantage with Apple’s approach is that by having this on an open
+source compiler like clang, there is an higher chance that the C and C++
+communities adopt such extensions, and eventually make up to the
+respective ISO standards.
+</p>
+<p>
+The relevant talks on security were:
+</p>
+<p>
+<ul>
+<li>
+<a href="https://www.youtube.com/watch?v=rYOCPBUM1Hs">Recipe for
+Eliminating Entire Classes of Memory Safety Vulnerabilities in C and
+C++</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=rlevLn831R4">Adopting
+-fbounds-safety in practice</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=AVmgL-97kqo">C++
+interoperability with memory-safe languages</a>
+</li>
+</ul>
+</p>
+<p>
+I found quite interesting the approach they decided to take to talk
+about current state of security, with memory safe languages being
+islands, the amount of existing C and C++ code in the industry, oceans,
+and the interop layers between languages, the beach.
+</p>
+<p><br></p>
+<p><a href="http://www.progtools.org/blog.php?entry=20250518"
+class="uri">http://www.progtools.org/blog.php?entry=20250518</a></p>
+<hr />
 <h2
 id="acer-aspire-14-ai-laptops-come-with-intel-amd-and-qualcomm-processor-options">Acer
 Aspire 14 AI laptops come with Intel, AMD, and Qualcomm processor
@@ -277,6 +561,15 @@ a PDF</a>). It has columns for
 </p>
 <p>
 If you’re at PyCon I’d love to talk to you about things I’m working on!
+</p>
+<p>
+<strong>Update</strong>: Thanks to everyone who came along. Here’s a
+<a href="https://static.simonwillison.net/static/2025/poster-full-size.jpeg">6MB
+photo of the poster setup</a>. The museums were all from my
+<a href="https://www.niche-museums.com/">www.niche-museums.com</a> site
+and the pelicans riding a bicycle SVGs came from my
+<a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">pelican-riding-a-bicycle
+tag</a>.
 </p>
 <pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/pycon&quot;&gt;pycon&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/datasette&quot;&gt;datasette&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/sqlite-utils&quot;&gt;sqlite-utils&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/pelican-riding-a-bicycle&quot;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/museums&quot;&gt;museums&lt;/a&gt;&lt;/p&gt; </code></pre>
 <p><br></p>

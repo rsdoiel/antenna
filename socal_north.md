@@ -1,23 +1,50 @@
 ---
 title: socal north
-updated: 2025-05-18 06:07:23
+updated: 2025-05-18 14:08:13
 ---
 
 # socal north
 
-(date: 2025-05-18 06:07:23)
+(date: 2025-05-18 14:08:13)
 
 ---
 
-## Denser housing may be on the horizon near LA's transit centers
+## Police surround Long Beach preschool after a reported burglary but find no suspects
 
-date: 2025-05-18, updated: 2025-05-18, from: The LAist
+date: 2025-05-18, from: Longbeach Post
 
-SB79 would loosen zoning requirements within a half mile of light rail and subway stops. 
+<figure><img width="1024" height="746" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-1024x746.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-1024x746.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-768x559.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-1536x1119.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-1200x874.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-1568x1142.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ-400x291.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/18132433/screenshot-2025-05-18-at-12250pm-492792-ejmonmyo-623872-g4BTbjVJ.png 1694w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Video from the scene shows officers on a loudspeaker telling the suspected burglar to come out of the school "through the same window you entered through."</p>
+<p>The post <a href="https://lbpost.com/news/crime/police-surround-long-beach-preschool-after-a-reported-burglary-but-find-no-suspects">Police surround Long Beach preschool after a reported burglary but find no suspects</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
 
 <br> 
 
-<https://laist.com/news/transportation/denser-housing-near-transit-sb-79>
+<https://lbpost.com/news/crime/police-surround-long-beach-preschool-after-a-reported-burglary-but-find-no-suspects>
+
+---
+
+## What we know about the Palm Springs bomber
+
+date: 2025-05-18, updated: 2025-05-18, from: The LAist
+
+Authorities have identified Guy Edward Bartkus, 25, as the person tied to Saturday's fatal bomb attack. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/palm-springs-bomber-alleged-guy-edward-bartkus>
+
+---
+
+## How LA inspired a Korean American artist whose place in history is still being written
+
+date: 2025-05-18, updated: 2025-05-18, from: The LAist
+
+Abstract painter Young-Il Ahn is the subject of a career survey at Perrotin Los Angeles until May 24. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/perrotin-los-angeles-young-il-anh-korean-american-abstract-painter-los-angeles>
 
 ---
 
@@ -33,15 +60,15 @@ Gary Parton has cultivated different varieties of the flower at his home, inviti
 
 ---
 
-## How LA inspired a Korean American artist whose place in history is still being written
+## Denser housing may be on the horizon near LA's transit centers
 
 date: 2025-05-18, updated: 2025-05-18, from: The LAist
 
-Abstract painter Young-Il Ahn is the subject of a career survey at Perrotin Los Angeles until May 24. 
+SB79 would loosen zoning requirements within a half mile of light rail and subway stops. 
 
 <br> 
 
-<https://laist.com/news/los-angeles-activities/perrotin-los-angeles-young-il-anh-korean-american-abstract-painter-los-angeles>
+<https://laist.com/news/transportation/denser-housing-near-transit-sb-79>
 
 ---
 
@@ -71,11 +98,11 @@ date: 2025-05-17, from: City of Santa Clarita
 
 ---
 
-## FBI: Explosion in Palm Springs an 'intentional act of terrorism'
+## Suspect identified in 'intentional act of terrorism' near Palm Springs fertility clinic
 
 date: 2025-05-17, updated: 2025-05-18, from: The LAist
 
-An explosion occurred just before 11 a.m. on Saturday morning. One of the buildings damaged is a fertility clinic. 
+Authorities said a 25-year-old man from Twentynine Palms is the alleged bomber. The explosion occurred just before 11 a.m. Saturday. Authorities plan to give the public updates Sunday morning. 
 
 <br> 
 
@@ -171,7 +198,7 @@ Borrowers who need to certify their employment have options.
 
 date: 2025-05-16, from: Longbeach Post
 
-<figure><img width="1024" height="679" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-300x199.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-768x509.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-163x108.png 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1200x796.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-400x265.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e.png 1442w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="679" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1024x679.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-300x199.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-768x509.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-163x108.png 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-1200x796.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e-400x265.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16153821/screenshot-2025-05-16-at-33709pm-518713-60wrvwpq-029582-v0PaRC8e.png 1442w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The vertical-takeoff electric aircraft are supposed to be accessible to the average person, not just affluent travelers.</p>
 <p>The post <a href="https://lbpost.com/news/air-taxis-set-to-ferry-spectators-to-long-beach-and-beyond-during-2028-la-olympics">Air taxis set to ferry spectators to Long Beach and beyond during 2028 LA Olympics</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -234,7 +261,7 @@ Republicans want to block enforcement of state AI regulations, imperiling Califo
 
 date: 2025-05-16, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A video of several kids breaking into the Second Street store made headlines. Police say they also targeted shops at 2nd &#038; PCH, in Bixby Knolls and in North Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/crime/sweet-jills-kids-burglary-businesses-arrested">Police say they&#8217;ve arrested 2 of the kids who broke into Sweet Jill&#8217;s Bakery and a handful of other shops</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -338,13 +365,13 @@ date: 2025-05-16, from: Longbeach Post
 
 ---
 
-## Your medical debt could be wiped away: LA County buys and forgives nearly $2 million of it
+## Your medical debt could be wiped away: LA County buys and forgives millions of dollars of it
 
 date: 2025-05-16, from: Longbeach Post
 
 <figure><img width="1024" height="729" src="https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36-1024x729.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36-768x547.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36-152x108.jpg 152w, https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36-400x285.jpg 400w, https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36-422x300.jpg 422w, https://img.lbpost.com/wp-content/uploads/2018/09/10144439/0904-OSIER-TAFT-36-970x690.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>More than 134,000 people across Los Angeles County — including Long Beach — can expect letters in the mail saying their medical debt is forgiven, as part of a county plan to erase debt at a discounted price. </p>
-<p>The post <a href="https://lbpost.com/news/health/your-medical-debt-could-be-wiped-away-la-county-buys-and-forgives-nearly-2-million-of-it">Your medical debt could be wiped away: LA County buys and forgives nearly $2 million of it</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>The post <a href="https://lbpost.com/news/health/your-medical-debt-could-be-wiped-away-la-county-buys-and-forgives-nearly-2-million-of-it">Your medical debt could be wiped away: LA County buys and forgives millions of dollars of it</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

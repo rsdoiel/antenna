@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-05-18 06:07:30
+updated: 2025-05-18 14:08:18
 ---
 
 # motorcycles
 
-(date: 2025-05-18 06:07:30)
+(date: 2025-05-18 14:08:18)
+
+---
+
+## Brad Keselowski, Christopher Bell Ring Up All-Star Heat Race Victories
+
+date: 2025-05-18, from: Kickin the Tires blog
+
+NORTH WILKESBORO, N.C. (May 17, 2025) – Brad Keselowski’s hopes of a breakthrough NASCAR All-Star Race victory were high after winning the pole on Friday, but a dominant Heat Race&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/brad-keselowski-christopher-bell-ring-up-all-star-heat-race-victories/>
+
+---
+
+## Chandler Smith Scores Surprising Window World 250 Victory at North Wilkesboro
+
+date: 2025-05-18, from: Kickin the Tires blog
+
+NORTH WILKESBORO, N.C. (May 17, 2025) &#8212; The final lap of Saturday’s Window World 250 at North Wilkesboro Speedway saw two lead changes, a side-by-side battle among teammates and a&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/chandler-smith-scores-surprising-window-world-250-victory-at-north-wilkesboro/>
 
 ---
 

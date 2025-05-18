@@ -1,11 +1,119 @@
 ---
 title: planet
-updated: 2025-05-18 06:07:22
+updated: 2025-05-18 14:08:11
 ---
 
 # planet
 
-(date: 2025-05-18 06:07:22)
+(date: 2025-05-18 14:08:11)
+
+---
+
+## Former US president Biden diagnosed with prostate cancer
+
+date: 2025-05-18, from: RTÉ News
+
+Former US president Joe Biden has been diagnosed with an "aggressive" form of prostate cancer that has spread to his bones, and is reviewing treatment options, a statement from his office said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0518/1513568-joe-biden-cancer/>
+
+---
+
+## Opposition TDs say Lowry 'calling shots in Government'
+
+date: 2025-05-18, from: RTÉ News
+
+Opposition TDs have rounded on comments made by Independent TD Michael Lowry as evidence that he is "calling the shots in Government". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0518/1513564-michael-lowry/>
+
+---
+
+## Pro-EU centrist wins Romanian presidential race over hard-right rival, data shows
+
+date: 2025-05-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7538371.1747601507!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-romania-election.jpg' alt='A voter leaves a booth while holding a ballot.' width='620' height='349' title='Presidential candidate Nicusor Dan exits a voting cabin before casting his vote in the second round of the country&apos;s presidential election redo in Fagaras, Romania, Sunday, May 18, 2025. (AP Photo/Eduard Vinatoru)'/><p>An election that many viewed as a geopolitical choice between East and West comes months after the cancellation of the previous vote, which plunged Romania into its worst political crisis in decades.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/roman-presidential-race-centrist-wins-1.7538367?cmp=rss>
+
+---
+
+## Joe Biden diagnosed with 'aggressive' prostate cancer that has spread to his bones
+
+date: 2025-05-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7538360.1747598758!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/biden-chicago.jpg' alt='A person speaks at a lectern in front of U.S. flags.' width='620' height='349' title='Former U.S. President Joe Biden speaks at the Advocates, Counselors, and Representatives for the Disabled conference in Chicago, Tuesday, April 15, 2025. (AP Photo/Nam Y. Huh)'/><p>Former U.S. president Joe Biden has been diagnosed with prostate cancer with metastasis to the bone, and he and his family are reviewing treatment options, his office said in a statement on Sunday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/joe-biden-diagnosed-prostate-cancer-1.7538358?cmp=rss>
+
+---
+
+## Vance meets EU chief to talk tariffs in Rome
+
+date: 2025-05-18, from: RTÉ News
+
+US Vice President JD Vance has said that Europe is "an important ally" despite disagreements over trade as he met European Commission President Ursula von der Leyen in Rome. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0518/1513543-us-eu-tariffs/>
+
+---
+
+## Suspect believed to be only person killed in California fertility clinic blast, FBI says
+
+date: 2025-05-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7538131.1747521532!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/california-explosion.jpg' alt='An aerial view shows the aftermath of an explosion at a building.' width='620' height='349' title='Debris covers the ground after an explosion on Saturday, May 17, 2025 in Palm Springs, Calif.  (ABC7 Los Angeles via AP)'/><p>The FBI said on Sunday that it believes the suspect in Saturday's explosion at a California fertility clinic, which it described as an "intentional act of terrorism," was the only person killed in the incident.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/california-fertility-clinic-explosion-motive-1.7538318?cmp=rss>
+
+---
+
+## Zelensky meets US Vice President Vance in Rome
+
+date: 2025-05-18, from: RTÉ News
+
+Ukraine's President Volodymyr Zelensky had a 30 minute meeting with US Vice President JD Vance and Secretary of State Marco Rubio on the sidelines of Pope Leo XIV's inauguration. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0518/1513535-ukraine/>
+
+---
+
+## Coolock IPAS U-turn due to State property focus - Brophy
+
+date: 2025-05-18, from: RTÉ News
+
+Minister of State for Migration Colm Brophy has said the U-turn by the Department of Justice on housing asylum seekers in Coolock was due to the move towards State-acquired properties and State IPAS centres. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0518/1513531-coolock-ipas/>
+
+---
+
+## Sunday's hurling championship results and reports
+
+date: 2025-05-18, from: RTÉ News
+
+There was a double header in Munster - Tipp hosting Waterford with Cork travelling to take on Limerick in the provincial blockbuster - sandwiched by the Leinster clash of Kilkenny and Dublin today. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0518/1513507-sundays-hurling-championship-updates/>
 
 ---
 
@@ -73,6 +181,18 @@ date: 2025-05-18, from: Vatican News
 
 ---
 
+## Dunne sparkles in Imola to notch another F2 victory
+
+date: 2025-05-18, from: RTÉ News
+
+Ireland's Alex Dunne surged to another brilliant FIA Formula 2 victory on Sunday, timing his move to perfection to win at Imola for Rodin Motorsport. 
+
+<br> 
+
+<https://www.rte.ie/sport/motorsport/2025/0518/1513521-dunne-sparkles-in-imola-to-notch-another-f2-victory/>
+
+---
+
 ## In Pictures: Pope Leo XIV's inauguration mass
 
 date: 2025-05-18, from: RTÉ News
@@ -85,7 +205,7 @@ Pope Leo XIV led the mass beginning his pontificate in front of thousands of peo
 
 ---
 
-## Two seriously hurt after car driven at people in NI
+## Two seriously hurt after car driven at people in Co Down
 
 date: 2025-05-18, from: RTÉ News
 
@@ -118,7 +238,7 @@ date: 2025-05-18, from: Vatican News
 date: 2025-05-18, from: Vatican News
 
 
-                    <p>Pope Leo XIV presides at the Mass of Inauguration of his Petrine Ministry in St. Peter’s Square, and invites the Church to walk together along the path of God's love and remain united in one family.</p>
+                    <p>Pope Leo XIV presides at the Mass of Inauguration of his Petrine Ministry in Saint Peter’s Square, and invites the Church to walk together along the path of God's love and remain united in one family.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-let-us-walk-towards-god-and-love-one-another.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -141,11 +261,11 @@ A look back at the third week of evidence in the Richard Satchwell trial.
 
 ---
 
-## Israeli strikes across Gaza overnight kill at least 103 people, hospitals and medics say
+## Israel launches new ground operations in Gaza as airstrikes kill at least 103 people
 
 date: 2025-05-18, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7538215.1747562162!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='People in distress fill a street.' width='620' height='349' title='Palestinians carry the bodies of their relatives killed in an Israeli army airstrike, during their funeral in Khan Younis, Gaza Strip, Sunday, May 18, 2025.'/><p>Israeli strikes across the Gaza Strip killed at least 103 people overnight and into Sunday, hospitals and medics said, and prompted the main hospital in northern Gaza to close as Israel intensifies its war in the territory that, after more than 19 months, shows no signs of abating.</p> 
+<img src='https://i.cbc.ca/1.7538216.1747562268!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='A man walking with a friend carries the body of an infant wrapped in a white bag. ' width='620' height='349' title='Saleh Zenati, carries the body of his infant nephew Khalid Zenati killed in an Israeli army airstrike, during his funeral in Khan Younis, Gaza Strip, Sunday, May 18, 2025. '/><p>Israeli strikes across the Gaza Strip killed at least 103 people overnight and into Sunday, hospitals and medics said, and prompted the main hospital in northern Gaza to close as Israel intensifies its war in the territory that, after more than 19 months, shows no signs of abating.</p> 
 
 <br> 
 
@@ -153,11 +273,11 @@ date: 2025-05-18, from: CBC, World News
 
 ---
 
-## Israeli attacks kill at least 100 in Gaza, medics say
+## Israeli attacks kill at least 130 in Gaza, medics say
 
 date: 2025-05-18, from: RTÉ News
 
-Israeli airstrikes killed at least 100 Palestinians across Gaza overnight, local health authorities said, as the enclave's health ministry said public hospitals in the north of the territory were now "out of service" after Israeli forces besieged the Indonesian hospital. 
+Israeli airstrikes killed at least 130 Palestinians across Gaza overnight, local health authorities said, as the Israeli military said it had begun "extensive ground operations" in northern and southern Gaza. 
 
 <br> 
 
@@ -165,7 +285,7 @@ Israeli airstrikes killed at least 100 Palestinians across Gaza overnight, local
 
 ---
 
-## Community devastated after boy dies off Sligo beach
+## Community devastated as boy named after Sligo drowning
 
 date: 2025-05-18, from: RTÉ News
 
@@ -177,11 +297,11 @@ Shock and sadness have been expressed after a young boy died after getting into 
 
 ---
 
-## Polls open in second round of Romania elections
+## Centrist Dan set to win Romanian presidency - exit poll
 
 date: 2025-05-18, from: RTÉ News
 
-Romanians are voting in a presidential election run-off that pits a hard-right eurosceptic against a centrist independent, and where the outcome could have implications for both the country's struggling economy and EU unity. 
+Romania's centrist Bucharest mayor Nicușor Dan appears on course to win the Romanian presidency in an election closely watched across Europe amid a rise in support for US President Donald Trump. 
 
 <br> 
 
@@ -189,11 +309,11 @@ Romanians are voting in a presidential election run-off that pits a hard-right e
 
 ---
 
-## Poland votes in tight election as Europe watches
+## Pro-EU mayor ahead in Polish election, exit poll suggests
 
 date: 2025-05-18, from: RTÉ News
 
-Poles are voting in a tight presidential election that will be decisive for the future of the country's centrist government as well as for abortion and LGBTQ rights. 
+Pro-EU Warsaw mayor Rafal Trzaskowski is tipped to narrowly win the first round of Poland's presidential election and face a runoff against nationalist Karol Nawrocki on 1 June, an exit poll showed. 
 
 <br> 
 
@@ -241,7 +361,7 @@ During the height of the Brexit drama, as a beleaguered Theresa May fought endle
 
 date: 2025-05-18, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7538210.1747559873!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-vatican-pope.jpg' alt='A man in white robes waves in front of a eloborate building as vibrant blue skies hover overhead.' width='620' height='349' title='Pope Leo XIV on his popemobile tours St. Peter&apos;s Square at the Vatican prior to the inaugural Mass of his pontificate, Sunday, May 18, 2025. (AP Photo/Andrew Medichini)'/><p>Pope Leo XIV officially opened his pontificate as history's first American pope on Sunday, presiding over an inaugural Mass in St. Peter's Square before tens of thousands of people, presidents, patriarchs and princes in a ceremony that blended ancient ritual, evocative symbols and a nod to modern-day celebrity.</p> 
+<img src='https://i.cbc.ca/1.7538252.1747578786!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vatican-pope-20250518.JPG' alt='A man in his sixties dressed in white stands at the back of a white SUV, waving at the crowd in the sun.' width='620' height='349' title='Pope Leo XIV, on his popemobile, tours St. Peter&apos;s Square at the Vatican prior to the inaugural Mass of his pontifcate, Sunday, May 18, 2025. '/><p>Pope Leo XIV officially opened his pontificate as history's first American pope on Sunday, presiding over an inaugural mass in St. Peter's Square before tens of thousands of people, presidents, patriarchs and princes in a ceremony that blended ancient ritual, evocative symbols and a nod to modern-day celebrity.</p> 
 
 <br> 
 
@@ -249,11 +369,11 @@ date: 2025-05-18, from: CBC, World News
 
 ---
 
-## Two dead as Mexican Navy tall ship crashes into NY bridge
+## US probes Mexican ship's deadly New York bridge collision
 
 date: 2025-05-18, from: RTÉ News
 
-Two people have died and 17 others were injured after a Mexican Navy training ship hit the Brooklyn Bridge, New York City Mayor Eric Adams has said. 
+US safety officials have launched an investigation after a Mexican sailing ship crashed into New York's iconic Brooklyn Bridge, snapping its masts and killing two crew members. 
 
 <br> 
 
@@ -309,11 +429,11 @@ date: 2025-05-18, from: CBC, Indigenious News
 
 ---
 
-## Forensic analysis of Michael Gaine farmyard resumes
+## Man arrested on suspicion of murder of Michael Gaine
 
 date: 2025-05-18, from: RTÉ News
 
-A technical and forensic examination has resumed at the farmyard, outhouses and adjoining lands of missing Kerry farmer Michael Gaine. 
+A man in his 50s has been arrested on suspicion of murder by gardaí investigating the disappearance of Kenmare sheep farmer Michael Gaine. 
 
 <br> 
 
@@ -741,7 +861,7 @@ date: 2025-05-17, from: Vatican News
 
 date: 2025-05-17, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7538143.1747522731!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-severe-weather.jpg' alt='A person sifts through a pile of debris.' width='620' height='349' title='Anthony Broughton digs through the debris of his destroyed home following a severe storm in the Sunshine Hill neighborhood of London, Ky., Saturday, May 17, 2025. (AP Photo/Timothy D. Easley)'/><p>At least 27 people have been killed by storms systems that swept across part of the U.S. Midwest and South, with Kentucky Gov. Andy Beshear announcing Saturday that 18 of the deaths came in his state and 10 others were hospitalized in critical condition.</p> 
+<img src='https://i.cbc.ca/1.7538143.1747522731!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-severe-weather.jpg' alt='A person sifts through a pile of debris.' width='620' height='349' title='Anthony Broughton digs through the debris of his destroyed home following a severe storm in the Sunshine Hill neighborhood of London, Ky., Saturday, May 17, 2025. (AP Photo/Timothy D. Easley)'/><p>At least 27 people have been killed by storm systems that swept across part of the U.S. Midwest and South, with Kentucky Gov. Andy Beshear announcing Saturday that 18 of the deaths came in his state and 10 others were hospitalized in critical condition.</p> 
 
 <br> 
 
@@ -1451,7 +1571,7 @@ The awarding of bonus points to students who achieve a pass or more in Higher Le
 
 ## End senseless killings in the West Bank: UN rights office
 
-date: 2025-05-16, from: United Nations, Top Stories
+date: 2025-05-16, from: United Nations, Culture and Education
 
 The UN human rights office (OHCHR) called on Friday for an end to senseless killings in the occupied West Bank, where a pregnant Israeli woman was among the latest victims.&nbsp; 
 
@@ -2453,7 +2573,7 @@ The Irish Dental Association has said State dental schemes have seen effective c
 
 ## UN needed ‘more than ever before’ says Germany’s candidate to head General Assembly
 
-date: 2025-05-15, from: United Nations, Top Stories
+date: 2025-05-15, from: United Nations, UN Affairs
 
 The former Foreign Minister of Germany outlined her vision for the role of UN General Assembly President, pledging to make the world body more effective, inclusive and focused on results.&nbsp; 
 
@@ -3513,7 +3633,7 @@ More than 2,200 letters have been sent to parents of children who had dysplasia 
 
 ## In Berlin, broad backing for UN peacekeeping as global threats mount
 
-date: 2025-05-14, from: United Nations, Top Stories
+date: 2025-05-14, from: United Nations, UN Affairs
 
 More than 130 countries and international partners threw their weight behind UN peacekeeping at a high-level ministerial summit in Berlin on Wednesday, pledging military, tech and political support. 
 
@@ -3549,7 +3669,7 @@ More than 40,000 Sudanese have fled to eastern Chad in the past month to escape 
 
 ## 8 million teens in world's wealthiest countries functionally illiterate: UNICEF
 
-date: 2025-05-14, from: United Nations, Top Stories
+date: 2025-05-14, from: United Nations, Culture and Education
 
 Children in many of the world’s wealthiest countries saw marked declines in their academic performance, mental wellbeing, and physical health as a result of the COVID-19 pandemic, according to a new report published by the UN Children’s Fund (UNICEF) on Wednesday. 
 

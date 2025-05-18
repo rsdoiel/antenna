@@ -1,11 +1,141 @@
 ---
 title: snapshots
-updated: 2025-05-18 06:07:33
+updated: 2025-05-18 14:08:21
 ---
 
 # snapshots
 
-(date: 2025-05-18 06:07:33)
+(date: 2025-05-18 14:08:21)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-18, from: Dave Winer's linkblog)
+
+The Dems should be very loud now, because when Medicaid turns off for millions of Americans you know the Repubs are going to blame the Dems, immigrants, Ukraine, Biden, Hillary, Obama, Comey, etc. 
+
+<br> 
+
+<https://thehill.com/homenews/5306387-gop-budget-proposal-mcclennan-critique/>
+
+---
+
+## llm-pdf-to-images
+
+date: 2025-05-18, updated: 2025-05-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-pdf-to-images">llm-pdf-to-images</a></strong></p>
+Inspired by my previous <a href="https://github.com/simonw/llm-video-frames">llm-video-frames</a> plugin, I thought it would be neat to have a plugin for LLM that can take a PDF and turn that into an image-per-page so you can feed PDFs into models that support image inputs but don't yet support PDFs.</p>
+<p>This should now do exactly that:</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-pdf-to-images
+llm -f pdf-to-images:path/to/document.pdf <span class="pl-s"><span class="pl-pds">'</span>Summarize this document<span class="pl-pds">'</span></span></pre></div>
+
+<p>Under the hood it's using the <a href="https://github.com/pymupdf/PyMuPDF">PyMuPDF</a> library. The key code to convert a PDF into images looks like this:</p>
+<pre><span class="pl-k">import</span> <span class="pl-s1">fitz</span>
+<span class="pl-s1">doc</span> <span class="pl-c1">=</span> <span class="pl-s1">fitz</span>.<span class="pl-c1">open</span>(<span class="pl-s">"input.pdf"</span>)
+<span class="pl-k">for</span> <span class="pl-s1">page</span> <span class="pl-c1">in</span> <span class="pl-s1">doc</span>:
+    <span class="pl-s1">pix</span> <span class="pl-c1">=</span> <span class="pl-s1">page</span>.<span class="pl-c1">get_pixmap</span>(<span class="pl-s1">matrix</span><span class="pl-c1">=</span><span class="pl-s1">fitz</span>.<span class="pl-c1">Matrix</span>(<span class="pl-c1">300</span><span class="pl-c1">/</span><span class="pl-c1">72</span>, <span class="pl-c1">300</span><span class="pl-c1">/</span><span class="pl-c1">72</span>))
+    <span class="pl-s1">jpeg_bytes</span> <span class="pl-c1">=</span> <span class="pl-s1">pix</span>.<span class="pl-c1">tobytes</span>(<span class="pl-s1">output</span><span class="pl-c1">=</span><span class="pl-s">"jpg"</span>, <span class="pl-s1">jpg_quality</span><span class="pl-c1">=</span><span class="pl-c1">30</span>)</pre>
+
+<p>Once I'd figured out that code I got o4-mini to write most of the rest of the plugin, using <a href="https://github.com/simonw/llm-fragments-github">llm-fragments-github</a> to load in the example code from the video plugin:</p>
+<pre>llm -f github:simonw/llm-video-frames <span class="pl-s"><span class="pl-pds">'</span></span>
+<span class="pl-s">import fitz</span>
+<span class="pl-s">doc = fitz.open("input.pdf")</span>
+<span class="pl-s">for page in doc:</span>
+<span class="pl-s">    pix = page.get_pixmap(matrix=fitz.Matrix(300/72, 300/72))</span>
+<span class="pl-s">    jpeg_bytes = pix.tobytes(output="jpg", jpg_quality=30)</span>
+<span class="pl-s"><span class="pl-pds">'</span></span> -s <span class="pl-s"><span class="pl-pds">'</span>output llm_pdf_to_images.py which adds a pdf-to-images: </span>
+<span class="pl-s"> fragment loader that converts a PDF to frames using fitz like in the example<span class="pl-pds">'</span></span> \
+-m o4-mini</pre>
+
+<p>Here's <a href="https://gist.github.com/simonw/27af84e4e533872bfd59fcba69b4166f">the transcript</a> - more details in <a href="https://github.com/simonw/llm-pdf-to-images/issues/1">this issue</a>.</p>
+<p>I had some <em>weird</em> results testing this with GPT 4.1 mini. I created <a href="https://github.com/simonw/llm-pdf-to-images/blob/main/tests/blank-pages.pdf">a test PDF</a> with two pages - one white, one black - and ran a test prompt like this:</p>
+<pre>llm -f <span class="pl-s"><span class="pl-pds">'</span>pdf-to-images:blank-pages.pdf<span class="pl-pds">'</span></span> \
+  <span class="pl-s"><span class="pl-pds">'</span>describe these images<span class="pl-pds">'</span></span></pre>
+
+<blockquote>
+<p>The first image features a stylized red maple leaf with triangular facets, giving it a geometric appearance. The maple leaf is a well-known symbol associated with Canada.</p>
+<p>The second image is a simple black silhouette of a cat sitting and facing to the left. The cat's tail curls around its body. The design is minimalistic and iconic.</p>
+</blockquote>
+<p>I got even wilder hallucinations for other prompts, like "summarize this document" or "describe all figures". I have a collection of those <a href="https://gist.github.com/simonw/2fbef11b1737a9ae7da1b2ff58998454">in this Gist</a>.</p>
+<p>Thankfully this behavior is limited to GPT-4.1 mini. I upgraded to full GPT-4.1 and got <a href="https://gist.github.com/simonw/0713dc0ce00bd6cd4d5990f44c865964#prompt-1">much more sensible results</a>:</p>
+<pre>llm -f <span class="pl-s"><span class="pl-pds">'</span>pdf-to-images:tests/blank-pages.pdf<span class="pl-pds">'</span></span> \
+  <span class="pl-s"><span class="pl-pds">'</span>describe these images<span class="pl-pds">'</span></span> -m gpt-4.1</pre>
+
+<blockquote>
+<p>Certainly! Here are the descriptions of the two images you provided:</p>
+<ol>
+<li>
+<p><strong>First image:</strong> This image is completely white. It appears blank, with no discernible objects, text, or features.</p>
+</li>
+<li>
+<p><strong>Second image:</strong> This image is entirely black. Like the first, it is blank and contains no visible objects, text, or distinct elements.</p>
+</li>
+</ol>
+<p>If you have questions or need a specific kind of analysis or modification, please let me know!</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/pdf">pdf</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/18/llm-pdf-to-images/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-18, from: Dave Winer's linkblog)
+
+How to Take Medicaid from Millions of Americans, in Less Than 72 Hours. 
+
+<br> 
+
+<https://www.thebulwark.com/p/how-to-take-medicaid-from-millions-of-americans-republican-congress-72-hours-bill>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-18, from: Dave Winer's linkblog)
+
+Massaal protest in Den Haag tegen Israël-standpunt kabinet rustig verlopen. 
+
+<br> 
+
+<https://nos.nl/artikel/2567762-massaal-protest-in-den-haag-tegen-israel-standpunt-kabinet-rustig-verlopen>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-18, from: Dave Winer's linkblog)
+
+Mitchell Robinson was fantastic, esp in this play where he cornered the captain of the Celtics. I think of him as the Ringo Starr of the Knicks. 
+
+<br> 
+
+<https://www.youtube.com/shorts/erbRIhD58XI>
+
+---
+
+## How to grow as a technical writer
+
+date: 2025-05-18, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>We all want to do a good job. Some of us also want to get better at our craft for a number of reasons, either practical or slightly delusional. Those include getting a raise, strengthening our résume, or simply ending the day with a fragile feeling of satisfaction after <a href="https://passo.uno/technical-writing-failures/">surviving failure</a> for the nth time. They’re all good goals, though the ways of achieving them are not always straightforward. Moreover, the path to career growth is riddled with self-doubt and impostor syndrome.</p> 
+
+<br> 
+
+<https://passo.uno/how-to-grow-senior-tech-writer/>
+
+---
+
+## Acer Swift Go thin and light laptops get Intel Lunar Lake chips, Microsoft Copilot+ features
+
+date: 2025-05-18, from: Liliputing
+
+<p>Acer is refreshing its Swift Go line of thin and light laptops with two new models sporting AI-branding because&#8230; 2025, I guess. The new Acer Swift Go 14 AI (SFG14-75/T) is a 14 inch laptop with a FHD+ display and support for up to an Intel Core Ultra 7 258V Lunar Lake processor, while the new Swift [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-swift-go-thin-and-light-laptops-get-intel-lunar-lake-chips-microsoft-copilot-features/">Acer Swift Go thin and light laptops get Intel Lunar Lake chips, Microsoft Copilot+ features</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-swift-go-thin-and-light-laptops-get-intel-lunar-lake-chips-microsoft-copilot-features/>
 
 ---
 
@@ -44,10 +174,18 @@ Ollama announced a complete overhaul of their vision support the other day. Here
 <blockquote>
 <p>It looks like the image you provided is a jumbled and distorted text, making it difficult to interpret. If you have a specific question or need help with a particular topic, please feel free to ask, and I'll do my best to assist you!</p>
 </blockquote>
-<p>I'm not sure what went wrong here. My best guess is that the maximum resolution the model can handle is too small to make out the text, or maybe Ollama resized the image to the point of illegibility before handing it to the model?
+<p>I'm not sure what went wrong here. My best guess is that the maximum resolution the model can handle is too small to make out the text, or maybe Ollama resized the image to the point of illegibility before handing it to the model?</p>
+<p><strong>Update</strong>: I think this may be <a href="https://github.com/simonw/llm/issues/1046">a bug</a> relating to URL handling in LLM/llm-ollama. I tried downloading the file first:</p>
+<pre><code>wget https://static.simonwillison.net/static/2025/poster.jpg
+llm -m qwen2.5vl 'extract text' -a poster.jpg
+</code></pre>
+<p>This time it did a lot better. The results weren't perfect though - <a href="https://gist.github.com/simonw/2b46e932a16c92e673ea09dfc0186ec2#response">it ended up stuck in a loop</a> outputting the same code example dozens of times.</p>
+<p>I tried with a different prompt - "extract text" - and it got confused by the three column layout, misread Datasette as "Datasetette" and missed some of the text. Here's <a href="https://gist.github.com/simonw/3ececa5f5ff109a81bc6893be06f00b1#response">that result</a>.</p>
+<p>These experiments used <code>qwen2.5vl:7b</code> (6GB) - I expect the results would be better with the larger <code>qwen2.5vl:32b</code> (21GB) and <code>qwen2.5vl:72b</code> (71GB) models.</p>
+<p>Fred Jonsson <a href="https://twitter.com/enginoid/status/1924092556079436086">reported a better result</a> using the MLX model via LM studio (~9GB model running in 8bit - I think that's <a href="https://huggingface.co/mlx-community/Qwen2.5-VL-7B-Instruct-8bit">mlx-community/Qwen2.5-VL-7B-Instruct-8bit</a>). His <a href="https://gist.github.com/enginoid/5c91c920124d4a2e0ab253df769e35fa">full output is here</a> - looks almost exactly right to me.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ocr">ocr</a></p> 
 
 <br> 
 
@@ -122,6 +260,24 @@ date: 2025-05-18, updated: 2025-05-18, from: Simon Willison’s Weblog
 
 ---
 
+## Ongoing clang improvements for C and C++ safety
+
+date: 2025-05-18, from: Programmer's Toolbox (Paolo Pinto's blog)
+
+<p>The playlist for <a href="https://www.youtube.com/playlist?list=PL_R5A0lGi1AA3VCp6hZtgJKq4snmBQGDF">2025 EuroLLVM Developers' Meeting</a> has recently been made available, and it has a couple of interesting talks related to Apple's work on improving memory safety for C and C++, while having safer integration with Swift code.</p><p>Apple has added a few language extensions for bounds checking, fat pointers, that would already help quite a bit. They are quite similar to Microsoft's <a href="https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170">SAL</a> annotations used in Visual C++.</p><p>The advantage with Apple's approach is that by having this on an open source compiler like clang, there is an higher chance that the C and C++ communities adopt such extensions, and eventually make up to the respective ISO standards.</p><p>The relevant talks on security were:</p><p>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=rYOCPBUM1Hs">Recipe for Eliminating Entire Classes of Memory Safety Vulnerabilities in C and C++</a></li>
+        <li><a href="https://www.youtube.com/watch?v=rlevLn831R4">Adopting -fbounds-safety in practice</a></li>
+        <li><a href="https://www.youtube.com/watch?v=AVmgL-97kqo">C++ interoperability with memory-safe languages</a></li>
+    </ul>
+</p><p>I found quite interesting the approach they decided to take to talk about current state of security, with memory safe languages being islands, the amount of existing C and C++ code in the industry, oceans, and the interop layers between languages, the beach.</p> 
+
+<br> 
+
+<http://www.progtools.org/blog.php?entry=20250518>
+
+---
+
 ## Acer Aspire 14 AI laptops come with Intel, AMD, and Qualcomm processor options
 
 date: 2025-05-17, from: Liliputing
@@ -149,6 +305,7 @@ date: 2025-05-17, updated: 2025-05-17, from: Simon Willison’s Weblog
 <p>Here's the poster in the middle (also available <a href="https://static.simonwillison.net/static/2025/datasette-poster-v2.pdf">as a PDF</a>). It has columns for <a href="https://datasette.io/">Datasette</a>, <a href="https://sqlite-utils.datasette.io/">sqlite-utils</a> and <a href="https://llm.datasette.io/">LLM</a>.</p>
 <p><img id="datasette-poster" alt="Datasette: An ecosystem of tools for finding stories in data. Three projects: Datasette is a tool for exploring and publishing data. It helps data journalists (and everyone else) take data of any shape, analyze and explore it, and publish it as an interactive website and accompanying API. There's a screenshot of the table interface against a legislators table. Datasette has over 180 plugins adding features for visualizing, editing and transforming data. datasette-cluster-map, datasette-graphql, datasette-publish-cloudrun, datasette-comments, datasette-query-assistant, datasette-extract. datasette.io. sqlite-utils is a Python library and CLI tool for manipulating SQLite databases. It aims to make the gap from “I have data” to “that data is in SQLite” as small as possible. There's a code example showing inserting three chickens into a database and configuring full-text search. And in the terminal: sqlite-utils transform places.db roadside_attractions  --rename pk id  --default name Untitled  --drop address.  sqlite-utils.datasette.io. LLM is a Python library and CLI tool for interacting with Large Language Models. It provides a plugin-based abstraction over hundreds of different models, both local and hosted, and logs every interaction with them to SQLite. LLMs are proficient at SQL and extremely good at extracting structured data from unstructured text, images and documents. LLM’s asyncio Python library powers several Datasette plugins, including datasette-query-assistant, datasette-enrichments and datasette-extract. llm.datasette.io" src="https://static.simonwillison.net/static/2025/poster.jpg" style="max-width: 100%;"></p>
 <p>If you're at PyCon I'd love to talk to you about things I'm working on!</p>
+<p><strong>Update</strong>: Thanks to everyone who came along. Here's a <a href="https://static.simonwillison.net/static/2025/poster-full-size.jpeg">6MB photo of the poster setup</a>. The museums were all from my <a href="https://www.niche-museums.com/">www.niche-museums.com</a> site and the pelicans riding a bicycle SVGs came from my <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">pelican-riding-a-bicycle tag</a>.</p>
 
     <p>Tags: <a href="https://simonwillison.net/tags/pycon">pycon</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/sqlite-utils">sqlite-utils</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/museums">museums</a></p> 
 

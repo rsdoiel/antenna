@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2025-05-18 06:07:26
+updated: 2025-05-18 14:08:15
 ---
 
 # science and technology
 
-(date: 2025-05-18 06:07:26)
+(date: 2025-05-18 14:08:15)
+
+---
+
+## Ex-NSA bad-guy hunter listened to Scattered Spider's fake help-desk calls: 'Those guys are good'
+
+date: 2025-05-18, updated: 2025-05-18, from: The Register (UK I.T. News)
+
+<h4>Plus, Co-op tells The Reg: &#39;we took early and decisive action&#39; to block the crooks</h4> <p><strong>INTERVIEW</strong>  The call came into the help desk at a large US retailer. An employee had been locked out of their corporate accounts. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/18/ex_nsa_scattered_spider_call/>
 
 ---
 
@@ -47,7 +59,7 @@ date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
 
 ## No-boom supersonic flights could slide through US skies soon
 
-date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
+date: 2025-05-17, updated: 2025-05-18, from: The Register (UK I.T. News)
 
 <h4>As long as you&#39;re quiet about it</h4> <p><strong>Feature</strong>  This week, a bipartisan bill was introduced that would allow supersonic flight over the continental US for the first time in 52 years, as long as they&#39;re quiet.…</p> 
 

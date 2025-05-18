@@ -1,11 +1,69 @@
 ---
 title: columns
-updated: 2025-05-18 06:07:26
+updated: 2025-05-18 14:08:15
 ---
 
 # columns
 
-(date: 2025-05-18 06:07:26)
+(date: 2025-05-18 14:08:15)
+
+---
+
+## May 17, 2025
+
+date: 2025-05-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163874973/209f073e8ab0f24c5e8408566289d225.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163874973/209f073e8ab0f24c5e8408566289d225.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-17-2025-ce2>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-18, from: Miguel de Icaza Mastondon feed)
+
+<p>This looks incredible: <a href="https://github.com/dm-zharov/swift-security?tab=readme-ov-file" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/dm-zharov/swift-sec</span><span class="invisible">urity?tab=readme-ov-file</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114529959550916956>
+
+---
+
+## Jack Rix at Top Gear Reviews CarPlay Ultra in the Aston Martin DBX
+
+date: 2025-05-18, updated: 2025-05-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=EQlLjVraA9g>
+
+---
+
+## Storm Reportings
+
+date: 2025-05-18, from: Doc Searls (at Harvard), New Old Blog
+
+While the deadliest Friday tornadoes were south of here in Kentucky, we were hit by some in and around Bloomington, Indiana. Reports: Bloomingtonian, BSqare Bulletin, Herald-Times, WBIW, WTHR, WFIU, MSN, Facebook, WLKY. I&#39;ll add more when I get the chance. 
+
+<br> 
+
+<https://doc.searls.com/2025/05/18/storm-reportings/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Reached my 500 tab limit in mid May.  Not a bad run:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114529110552324007>
 
 ---
 

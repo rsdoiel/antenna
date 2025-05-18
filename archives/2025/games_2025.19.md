@@ -1,11 +1,11 @@
 ---
 title: games
-updated: 2025-05-18 06:07:28
+updated: 2025-05-18 14:08:16
 ---
 
 # games
 
-(date: 2025-05-18 06:07:28)
+(date: 2025-05-18 14:08:16)
 
 ---
 
@@ -23,7 +23,7 @@ Elden Ring Nightreign may look familiar in many ways, but FromSoftware’s stand
 
 ## Horror legend Tony Todd improvised a goodbye to his fans in Final Destination: Bloodlines
 
-date: 2025-05-17, updated: 2025-05-17, from: Polygon Website
+date: 2025-05-17, updated: 2025-05-18, from: Polygon Website
 
 Fans of the Final Destination movies know there isn’t a lot of continuity, apart from each new sequel returning to the basic concept: Someone has a premonition of impending disaster and uses it to save the lives of people who would have died in that disaster, but death finds convoluted ways to claim them anyway. [&#8230;] 
 

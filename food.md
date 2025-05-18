@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-05-18 06:07:32
+updated: 2025-05-18 14:08:19
 ---
 
 # food
 
-(date: 2025-05-18 06:07:32)
+(date: 2025-05-18 14:08:19)
+
+---
+
+## This Is Why Corn on the Cob Only Ever Has an Even Number of Rows
+
+date: 2025-05-18, from: Taste of Home
+
+<p>Need a fun conversation starter for corn-on-the-cob season? We gotcha.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-corn-only-has-even-rows/">This Is Why Corn on the Cob Only Ever Has an Even Number of Rows</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-corn-only-has-even-rows/>
+
+---
+
+## This Is Every Drink on the Starbucks 2025 Summer Menu
+
+date: 2025-05-18, from: Taste of Home
+
+<p>Horchata Oatmilk Shaken Espresso, you're calling my name!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-summer-menu-2025/">This Is Every Drink on the Starbucks 2025 Summer Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-summer-menu-2025/>
 
 ---
 
