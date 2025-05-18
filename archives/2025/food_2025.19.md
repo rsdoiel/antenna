@@ -1,11 +1,77 @@
 ---
 title: food
-updated: 2025-05-17 14:07:42
+updated: 2025-05-18 06:07:32
 ---
 
 # food
 
-(date: 2025-05-17 14:07:42)
+(date: 2025-05-18 06:07:32)
+
+---
+
+## A Coffee For Every Taste And For Every Taste A Coffee
+
+date: 2025-05-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated list of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/a-coffee-for-every-taste-and-for-every-taste-a-coffee-337886.html>
+
+---
+
+## Spring Recipes
+
+date: 2025-05-18, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/05/Spring-Recipes.jpg"/></div>
+<p>The best Spring recipe to celebrate the season! Healthy and easy recipes highlighting local produce including asparagus, strawberries, fiddleheads, etc. It has officially been Spring for a while now but it&#8217;s just finally starting to feel like it! What&#8217;s more is that I am finally seeing some spring produce in the grocery stores and that...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/34-spring-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/34-spring-recipes/">Spring Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/34-spring-recipes/>
+
+---
+
+## 23 Best Cherry Recipes From Pies to Pork
+
+date: 2025-05-17, from: Bon Appetet
+
+Like puff-pastry turnovers, pork with cherry agrodolce, and sour cherry cheesecake. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-cherry-recipes>
+
+---
+
+## Best Sauté Pan (2025) Is the Actual Everything Pan
+
+date: 2025-05-17, from: Bon Appetet
+
+Braise, roast, simmer, and yes, sauté 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-saute-pans>
+
+---
+
+## How to Bake a Homemade Wedding Cake
+
+date: 2025-05-17, from: Taste of Home
+
+<p>If you know how to bake a cake, you know how to make a wedding cake—but there is still a lot of pressure to get it right. With proper planning and some stress-relief tips, you can deliver the perfect wedding cake.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-bake-a-homemade-wedding-cake/">How to Bake a Homemade Wedding Cake</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-to-bake-a-homemade-wedding-cake/>
 
 ---
 

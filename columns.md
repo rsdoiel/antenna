@@ -1,11 +1,293 @@
 ---
 title: columns
-updated: 2025-05-17 14:07:37
+updated: 2025-05-18 06:07:26
 ---
 
 # columns
 
-(date: 2025-05-17 14:07:37)
+(date: 2025-05-18 06:07:26)
+
+---
+
+## A Message from The Boss
+
+date: 2025-05-18, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/a-message-from-the-boss>
+
+---
+
+## Apple to add fresh accessibility features for 2025
+
+date: 2025-05-18, updated: 2025-05-18, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Global Accessibility Awareness Day</span> It matters for everyone, because we&#39;ll all be disabled one day</h4>
+      <p>Accessibility matters to everyone. If you think it doesn&#39;t: it will. Apple builds in some pretty good tools, and they&#39;re getting better. Here&#39;s why it&#39;s important.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/18/apple_accessibility_features_2025/>
+
+---
+
+## Sunday thought
+
+date: 2025-05-18, from: Robert Reich's blog
+
+Awakening the sleeping giant 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-45d>
+
+---
+
+## May 17, 2025 
+
+date: 2025-05-18, from: Heather Cox Richardson blog
+
+This weekend there are two major anniversaries for the history of civil rights in the United States. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-17-2025>
+
+---
+
+## What an Unusual Week
+
+date: 2025-05-18, from: Om Malik blog
+
+It has been a week, that at best can be described as deliciously weird. I have neither been inspired to write, nor to indulge my passion for photography. Apart from necessary work, I have been out walking, and doing a lot of reading. And making notes for future writing projects. My brain is percolating, trying &#8230; 
+
+<br> 
+
+<https://om.co/2025/05/17/what-an-unusual-week/>
+
+---
+
+## May 16, 2025
+
+date: 2025-05-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163812804/5b5875fb00a3dada8f52c9fcc4027dc8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163812804/5b5875fb00a3dada8f52c9fcc4027dc8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-16-2025-956>
+
+---
+
+## 2025-05-17 Israel
+
+date: 2025-05-17, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-17-israel">2025-05-17 Israel</h1>
+
+<p>The European Song Contest doesn’t allow Russia:</p>
+
+<blockquote>
+<p>Following its exclusion from the 2022 contest due to the Russian invasion of Ukraine, on 26 February 2022, the Russian broadcasters VGTRK and Channel One announced that they would suspend their membership in the European Broadcasting Union (EBU). The EBU made effective the suspension on 26 May, preventing Russia from participating in further Eurovision events unless its membership is resumed. – <a href="https://en.m.wikipedia.org/wiki/Russia_in_the_Eurovision_Song_Contest">Russia in the Eurovision Song Contest</a></p>
+</blockquote>
+
+<p>Spanish <a href="https://www.rtve.es/noticias/20250517/mensaje-rtve-antes-eurovision-frente-a-derechos-humanos-silencio-no-opcion-paz-justicia-para-palestina/16585148.shtml">RTVE sends a message</a> about Gaza during the song contest:</p>
+
+<blockquote>
+<p>El mensaje de RTVE antes de Eurovisión: &ldquo;Frente a los derechos humanos, el silencio no es una opción. Paz y justicia para Palestina&rdquo;</p>
+</blockquote>
+
+<p>On the web page they add some context:</p>
+
+<blockquote>
+<p>La representante israelí, fue víctima de los atentados de Hamás del 7 de octubre de 2023 y ha contado su historia por todo el mundo, incluso ante Naciones Unidas, acompañada de otras víctimas.</p>
+</blockquote>
+
+<p>Israel complained and now the <a href="https://www.rtve.es/noticias/20250517/eurovision-advierte-rtve-multa-comentarios-gaza/16584998.shtml">EBU threatens RTVE with a fine</a>.</p>
+
+<blockquote>
+<p>La organización de Eurovisión advierte a RTVE con una multa si se repiten los comentarios sobre Gaza</p>
+</blockquote>
+
+<p>Let me check the numbers for Russia:</p>
+
+<blockquote>
+<p>14,200–14,400 military and civilian deaths during the War in Donbas, and up to 1,000,000 estimated casualties during the Russian invasion of Ukraine till mid-September 2024. – <a href="https://en.m.wikipedia.org/wiki/Casualties_of_the_Russo-Ukrainian_War">Casualties of the Russo-Ukrainian War</a></p>
+</blockquote>
+
+<p>And for Israel:</p>
+
+<blockquote>
+<p>As of 7 May 2025, almost 55,000 people (53,253 Palestinians and 1,706 Israelis) have been reported killed in the Gaza war according to the official figures of the Gaza Health Ministry, as well as 166 journalists and media workers, 120 academics, and over 224 humanitarian aid workers, a number that includes 179 employees of UNRWA. Scholars have estimated 80% of Palestinians killed are civilians. A study by OHCHR, which verified fatalities from three independent sources, found that 70% of the Palestinians killed in residential buildings or similar housing were women and children. – <a href="https://en.m.wikipedia.org/wiki/Casualties_of_the_Gaza_war">Casualties of the Gaza war</a></p>
+</blockquote>
+
+<p>And that doesn’t include the planned war crimes, as mentioned <a href="2025-04-17%20Israel">a month ago</a>.</p>
+
+<p>Draw your own conclusions.</p>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a> <a class="tag" href="/search/?q=%23Russia">#Russia</a> <a class="tag" href="/search/?q=%23Ukraine">#Ukraine</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-17-israel>
+
+---
+
+## Trump vs. the Supremes 
+
+date: 2025-05-17, from: Robert Reich's blog
+
+The largest stress test yet of the U.S. Constitution 
+
+<br> 
+
+<https://robertreich.substack.com/p/trump-vs-the-supremes>
+
+---
+
+## 2025-05-17 Getting SFJAZZ recordings
+
+date: 2025-05-17, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-17-getting-sfjazz-recordings">2025-05-17 Getting SFJAZZ recordings</h1>
+
+<p>Something I just saw on fedi: The <a href="https://archive.org/details/sfjazz">SFJAZZ Historical Archive</a> has a ton of material online.</p>
+
+<p>From my bookmarks, there is <a href="https://archive.org/developers/internetarchive/cli.html#download">a command line tool</a> to access the Internet Archive. I installed it via my package manager:</p>
+
+<pre><code>sudo apt install internetarchive
+</code></pre>
+
+<p>Let&rsquo;s give it a try:</p>
+
+<pre><code>ia download casfjazz_000163
+</code></pre>
+
+<p>This downloads a bunch of files including two M4A files that I can play.</p>
+
+<p>Download all the files:</p>
+
+<pre><code>ia download --search 'collection:sfjazz' --glob=&quot;*.m4a&quot;
+</code></pre>
+
+<p>Beware, though: With about 750 items and each item being about 250MB, that&rsquo;ll take about 190GB of disk space and a significant amount of time.</p>
+
+<p>Some exploration: When I look online for Zakir Hussein, I get 11 items.</p>
+
+<pre><code>ia download --search 'collection:sfjazz' --glob=&quot;*.m4a&quot;
+</code></pre>
+
+<p>To list the files (I&rsquo;m using fish):</p>
+
+<pre><code>for item in (ia search 'collection:sfjazz zakir' --itemlist); ia list $item; end
+</code></pre>
+
+<p>Notice that there are hits for MP3 files, M4A files, FLAC files, WAV files, etc.
+That&rsquo;s a lot of wasted space!</p>
+
+<p>For parallel download:</p>
+
+<pre><code>ia search 'collection:sfjazz zakir' --itemlist | parallel 'ia download {} --glob=&quot;*.m4a&quot;'
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Music">#Music</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-17-getting-sfjazz>
+
+---
+
+## Ads used to be this great
+
+date: 2025-05-17, from: Dave Winer's Scripting News
+
+<p>Look at this, for an idea of what a product says to the prospect.</p>
+<p>It makes you laugh. When you laugh inside an idea forms. </p>
+<p>"Ain't it the truth."</p>
+<p>That gets you ready to read the pitch, which is stuff you wouldn't have read or even considered if they hadn't said something so true right up front.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/17/uglyAd.png"></center><i>Ugly is only skin-deep.</i></div></p>
+<p>This is what's wrong with the opposition political party in the US, they think all they need to do is recite the facts. But first you have to convince them you speak from the heart, you'll tell the truth, even if it hurts. </p>
+<p>It's an ugly car. Yeah, but you'll come to love how ugly it is because it's so beautiful inside. What you say next hardly matters, because they already believe that you speak the truth. And that's when they're ready to sign on the dotted line.</p>
+<p>That's what the Republicans do so well, before and after Trump, that the Democrats don't even gets exists. </p>
+<p>I finally figured out what the Dems need, the top guy has to be an entrepreneur. Needs to understand how to get people ready to believe the truth. And make the product deliver a truth the people choose. And now sign on the dotted line. </p>
+<p>PS: More <a href="https://fontsinuse.com/uses/1976/volkswagen-of-america-ads-1960-68">Volkswagen ads</a> from the 60s.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/17/144337.html?title=adsUsedToBeThisGreat>
+
+---
+
+## The Knicks really did win
+
+date: 2025-05-17, from: Dave Winer's Scripting News
+
+<p>The Knicks did actually win last night. I didn't dream it.</p>
+<p>I remember when the Knicks sucked.</p>
+<p>In my heart I believe they still do.</p>
+<p>But here we are, my Knicks actually have an approximately 1 in 4 chance of winning the championship. </p>
+<p>I hope it's Minnesota we end up playing. </p>
+<p>All in the family. 😀</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/17/140201.html?title=theKnicksReallyDidWin>
+
+---
+
+## The Era of the Great Bamboozle | The Coffee Klatch for May 17, 2025
+
+date: 2025-05-17, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-era-of-the-great-bamboozle-the>
+
+---
+
+## May 16, 2025
+
+date: 2025-05-17, from: Heather Cox Richardson blog
+
+MAGA world is performing over-the-top outrage over a photo former Federal Bureau of Investigation director James Comey posted on Instagram, where he has been teasing a new novel. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-16-2025>
+
+---
+
+## Weeknotes: May 10-16, 2025
+
+date: 2025-05-17, from: Tracy Durnell Blog
+
+Win of the week: 🦾 actually went to Craig Mod&#8217;s book talk, despite a) it being in Seattle*, b) there being over 50 people there and I&#8217;ve only been to an event this big once since Covid, and c) finding mouse poop in the car again when I got in to leave 😾 *(it only [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/16/weeknotes-may-10-16-2025/>
+
+---
+
+## Puzzmo Is Getting a Native iOS App Monday
+
+date: 2025-05-17, updated: 2025-05-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/games/668478/puzzmo-is-finally-getting-an-app>
 
 ---
 
@@ -1215,7 +1497,7 @@ Checking internet connectivity with 'generate 204' endpoints.
 
 ## ‘Max’, the Dumbest Name Ever, Changes Back to ‘HBO Max’
 
-date: 2025-05-14, updated: 2025-05-14, from: Daring Fireball
+date: 2025-05-14, updated: 2025-05-17, from: Daring Fireball
 
  
 
@@ -1625,7 +1907,7 @@ date: 2025-05-14, from: Dave Winer's Scripting News
 
 ---
 
-## Europe plots escape hatch from the enshittification of search
+## Europe plots escape hatch from enshittification of search
 
 date: 2025-05-14, updated: 2025-05-14, from: Liam Proven's articles at the Register
 
@@ -2828,190 +3110,4 @@ Those of us who are truly lucky have more than one mother.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/may-10-2025>
-
----
-
-## How to Make Customers Hate You
-
-date: 2025-05-10, from: Doc Searls (at Harvard), New Old Blog
-
-Exhibit A: Welcome to negative option billing at work. Other labels include &#8220;sludge,&#8221; &#8220;dark patterns,&#8221; &#8220;gotcha pricing,&#8221; &#8220;subscription trapping,&#8221; and &#8220;bait-and-default.&#8221; Works like this: offer a service at a discount that jumps up to a high &#8220;regular&#8221; price after the discount runs out, and count on the customer forgetting when the jump happens. It&#8217;s a [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/05/10/how-to-make-customers-hate-you-2/>
-
----
-
-## May 9, 2025
-
-date: 2025-05-10, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163285322/cca1de68cd89ed2b62a105ea2c6d41aa.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163285322/cca1de68cd89ed2b62a105ea2c6d41aa.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/may-9-2025-f6f>
-
----
-
-**@John's World Wide Wall Display** (date: 2025-05-10, from: John's World Wide Wall Display)
-
-While there have always been gullible adults, as a parent and educator, the real issue here is with young people. I had never considered people would use AI as a therapist, prophet or guru! 
-
-<br> 
-
-<https://johnjohnston.info/blog/like-chatgpt-prime/>
-
----
-
-## Developers as Suppliers
-
-date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.threads.com/@benedictevans/post/DJVCqaZuN63>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-05-10, from: Miguel de Icaza Mastondon feed)
-
-<p>We are at PAX this weekend:  <a href="https://blog.la-terminal.net/xogot-at-pax-east/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-at-</span><span class="invisible">pax-east/</span></a></p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114484083013696714>
-
----
-
-## Software isn't a thing
-
-date: 2025-05-10, from: Dave Winer's Scripting News
-
-<p>When a friend discovers a new product of mine and says the world owes Dave for being such a great guy, I wish they'd skip that part, and follow what we're doing. Get in the loop. </p>
-<p>Software isn't a thing, it isn't finished, it's a process as it gets invented by the users. It's a performing art. WordLand today is like a musician performing in a small club, working out the playlist, and hoping to be playing at theaters then arenas, and finally someday, if we're very good, stadiums. But we need help. </p>
-<p>If you love WordLand, subscribe. Use the software. Learn what it can do, hit its limits, make requests. </p>
-<p>I remember very well being handed a list of feature requests by Apple's lead evangelist from a new exec they just hired at Apple. I looked at the list, and handed it back and said I'd like to meet him. On the paper was the top ten list of <i>every</i> MORE user at the time. We knew what they wanted because we listened, studied, and learned. I knew his new boss was a real user, and thus I knew we could do stuff together. It worked out exactly that way. </p>
-<p>So if you love it, use it, <i>become part of it. </i></p>
-<p>PS: I've written about this over the years with the motto <a href="https://www.google.com/search?q=site%3Ascripting.com+shitty+software">we make shitty software</a>. If you use it and share what you learn, it will get better. </p>
- 
-
-<br> 
-
-<http://scripting.com/2025/05/10/141952.html?title=softwareIsntAThing>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-10, from: Dave Winer's Scripting News)
-
-It's about time WordLand had a <a href="https://bsky.app/profile/wordland.social">Bluesky account</a>. 
-
-<br> 
-
-<http://scripting.com/2025/05/10.html#a135838>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-05-10, from: Dave Winer's Scripting News)
-
-Someday I'll be able to point ChatGPT at the <a href="https://this.how/wordland/">home page</a> for writing about WordLand, and tell it to read every page that's linked to it, and from that put together a well-organized book about WordLand. Maybe sometime next year perhaps??  I used that as a prompt, to see what <a href="https://imgs.scripting.com/2025/05/10/writeABookForWordland.png">ChatGPT</a> would say. 
-
-<br> 
-
-<http://scripting.com/2025/05/10.html#a125701>
-
----
-
-## America as a platform
-
-date: 2025-05-10, from: Dave Winer's Scripting News
-
-<p>We lived for the first years of my life in <a href="https://en.wikipedia.org/wiki/Jackson_Heights">Jackson Heights</a>, which is probably, today, the most culturally diverse place in the world. In the 1960s it was a white neighborhood that was adjacent to a black neighborhood, <a href="https://en.wikipedia.org/wiki/Corona,_Queens">Corona</a>. They paired our elementary schools when I was in third or fourth grade. My little brother went to the school in Corona, and I stayed in the school in Jackson Heights. </p>
-<p>There's a <a href="http://scripting.com/images/2025/05/10/eveWinerPeterWinerWalkToSchool.png">famous picture</a>, in our family at least, of my mother walking my brother to school. It was on the front page of the NYT one day. That was a big deal then.  </p>
-<p>When I was in fifth grade we moved to <a href="https://en.wikipedia.org/wiki/Flushing,_Queens">Flushing</a>. It was a sleepy little place (for NYC), nice houses, mostly Irish and Italian families with a few Jews. Now it's a Far East culture, from China and Korea, and still just as nice as it ever was. </p>
-<p>We have a system in this country, it takes people from everywhere and gives them a platform to create whatever they want. In Flushing it's the best Chinese food in the city, which is saying a lot.</p>
- 
-
-<br> 
-
-<http://scripting.com/2025/05/10/125322.html?title=americaAsAPlatform>
-
----
-
-## The Biggest Presidential Con in History | The Coffee Klatch for May 10, 2025
-
-date: 2025-05-10, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163243226/60c87159c2b247cd582a0ab386f835a4.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163243226/60c87159c2b247cd582a0ab386f835a4.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-biggest-presidential-con-in-history>
-
----
-
-## May 9, 2025
-
-date: 2025-05-10, from: Heather Cox Richardson blog
-
-Yesterday afternoon, President Donald Trump withdrew his nomination for interim U.S. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/may-9-2025>
-
----
-
-## No, Science is Not Just Another Religion
-
-date: 2025-05-10, updated: 2025-05-10, from: Ron Garret
-
-I want to debunk once and for all this idea that "science is just another religion".&nbsp; It isn't, for one simple reason: all religions are based on some kind of metaphysical assumptions.&nbsp; Those assumptions are generally something like the authority of some source of revealed knowledge, typically a holy text.&nbsp; But it doesn't have to be that.&nbsp; It can be as simple as assuming that 
-
-<br> 
-
-<https://blog.rongarret.info/2025/05/no-science-is-not-just-another-religion.html>
-
----
-
-## Weeknotes: May 3-9, 2025
-
-date: 2025-05-10, from: Tracy Durnell Blog
-
-Highlight of the week: we had a great day out on Whidbey Island with some internet friends (where I repeatedly failed to guess what mountain we were looking at then finally landed on Kulshan which I did not realize was an indigenous name for Mt. Baker) Looking forward to: resting this weekend, busy week! Stuff I [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/05/09/weeknotes-may-3-9-2025/>
-
----
-
-## Trump Administration ‘Actively Looking’ at Suspending Habeas Corpus
-
-date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.cbsnews.com/news/stephen-miller-says-trump-administration-actively-looking-at-suspending-habeas-corpus-to-deport-migrants/>
-
----
-
-## Epic Submits Fortnite to App Store Through Swedish Subsidiary
-
-date: 2025-05-10, updated: 2025-05-10, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.cnbc.com/2025/05/09/fortnite-apple-app-store-epic-games.html>
 

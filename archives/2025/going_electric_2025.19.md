@@ -1,11 +1,131 @@
 ---
 title: going electric
-updated: 2025-05-17 14:07:42
+updated: 2025-05-18 06:07:31
 ---
 
 # going electric
 
-(date: 2025-05-17 14:07:42)
+(date: 2025-05-18 06:07:31)
+
+---
+
+## Linfox adds 30 fully electric semi trucks to Australian logistics fleet
+
+date: 2025-05-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/linfox_volvo_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Australian logistics company <a href="https://www.linfox.com/" target="_blank" rel="noreferrer noopener">Linfox</a> is making big moves to electrify its heavy-duty semi fleet with the addition of thirty new Volvo FH and FM Electric semi trucks as the Swedish brand works to begin production at its Brisbane facility.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="australia,electric-semi-truck,volvo" data-layer-viewtype="unknown" data-post-id="416481" href="https://electrek.co/2025/05/18/linfox-adds-30-fully-electric-semi-trucks-to-australian-logistics-fleet/#more-416481" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/18/linfox-adds-30-fully-electric-semi-trucks-to-australian-logistics-fleet/>
+
+---
+
+## BYD Ride electrifies Oakland Int’l Airport shuttle bus fleet
+
+date: 2025-05-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Oakland-Airport-Press-Release-Image.png?w=1600" /></div><p>Oakland International Airport (OAK) in Alameda, California is helping stressed-out air passengers breathe a little bit easier with the introduction of five new battery-electric K9MD shuttle buses to its ground equipment fleet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="416461" href="https://electrek.co/2025/05/18/byd-ride-electrifies-oakland-intl-airport-shuttle-bus-fleet/#more-416461" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/18/byd-ride-electrifies-oakland-intl-airport-shuttle-bus-fleet/>
+
+---
+
+## Tesla pulls all the demand levers with discounts and incentives as sales crash
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/F5hSGgEWEAAcIyn-e1704126520175.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now pulling on all the demand levers in the US with new discounts and incentives as sales are crashing due to brand damage.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416453" href="https://electrek.co/2025/05/17/tesla-pulls-demand-levers-discounts-and-incentives-sales-crash/#more-416453" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/tesla-pulls-demand-levers-discounts-and-incentives-sales-crash/>
+
+---
+
+## Chevy Blazer EV Vs. Cadillac Lyriq: How Different Are They?
+
+date: 2025-05-17, from: Inside EVs News
+
+GM is trying harder to differentiate its options in the electric era, as these cars show.  
+
+<br> 
+
+<https://insideevs.com/news/759900/cadillac-lyriq-vs-chevy-blazer-ev/>
+
+---
+
+## Game changer: Harbinger launches a medium-duty EREV with 500 mile range
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/AL-MY24-Harbinger-Truck-Image-250128.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The electric box van experts at Harbinger announced a new, EREV version of their medium-duty van that pairs a big battery with a small, gas-powered ICE engine to offer fleets that are hesitant to electrify a massive 500 miles of autonomy on a single charge + tank.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,erev,harbinger-motors" data-layer-viewtype="unknown" data-post-id="416437" href="https://electrek.co/2025/05/17/game-changer-harbinger-launches-a-medium-duty-erev-with-500-mile-range/#more-416437" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/game-changer-harbinger-launches-a-medium-duty-erev-with-500-mile-range/>
+
+---
+
+## The VW ID Buzz Is A Minivan Without Rear-Seat Cupholders
+
+date: 2025-05-17, from: Inside EVs News
+
+European models get a tray table with a cup holder, but American buyers have to get really creative. 
+
+<br> 
+
+<https://insideevs.com/news/759897/vw-idbuzz-no-cupholder-dilemma/>
+
+---
+
+## Here are the cheapest EVs we could find for lease at under $300/month right now [Updated]
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Cheapest-EVs-lease-May.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said you had to break the bank to drive an EV? Right now, there are a few EV deals for under $300 a month that are hard to pass up. However, the savings may not last long. Here are the cheapest EVs you can get your hands on this May.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/05/17/cheapest-evs-lease-may-under-300-mo/#more-404778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/cheapest-evs-lease-may-under-300-mo/>
+
+---
+
+## Bollinger Motors circles the drain as court cases, debts pull it down
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/bollinger-b2-over.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A federal court judge in Michigan has placed the once-promising electric truck brand Bollinger Motors’ assets into receivership following claims that the company’s owners still owe its founder, Robert Bollinger, more than $10 million.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,business,mullen" data-layer-viewtype="unknown" data-post-id="416426" href="https://electrek.co/2025/05/17/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/#more-416426" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/>
 
 ---
 
@@ -1950,52 +2070,4 @@ date: 2025-05-11, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/05/11/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
-
----
-
-## There’s plenty of EV money out there – and plenty of people to help you find it!
-
-date: 2025-05-10, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/ford-pro_money.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>While Washington continues to threaten America’s economic security and position as a global technology leader by toying with the idea of <a href="https://electrek.co/2025/05/06/gop-leader-confirms-plan-to-kill-7500-ev-tax-credit-in-budget/">killing the $7,500 Federal EV tax credit</a>, <a href="https://www.motherjones.com/politics/2025/05/trump-epa-energy-star-program-eliminate-reaction-cost-families-businesses-500-billion-efficient-appliances/" target="_blank" rel="noreferrer noopener nofollow">the ENERGY STAR program</a>, and other energy efficiency incentives, the private energy sector is stepping up with massive investments in battery storage, charging infrastructure, and commercial EV rebates – and helping fleet buyers navigate those new incentives is becoming part of the broader business plan.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,ev-incentives,ev-rebate,ford-pro" data-layer-viewtype="unknown" data-post-id="415377" href="https://electrek.co/2025/05/10/theres-plenty-of-ev-money-out-there-and-plenty-of-people-to-help-you-find-it/#more-415377" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/05/10/theres-plenty-of-ev-money-out-there-and-plenty-of-people-to-help-you-find-it/>
-
----
-
-## Volvo teases all-new XC70 PHEV with 125 miles of electric range for 2026
-
-date: 2025-05-10, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/xc70_5.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volvo Cars has teased an all-new Volvo XC70 plug-in hybrid crossover with 400 hp and 200 km (approx. 125 miles) of all-electric range, giving it the longest battery-only range of any of the company’s plug-in hybrid offerings.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="china,phev,volvo" data-layer-viewtype="unknown" data-post-id="415353" href="https://electrek.co/2025/05/10/volvo-teases-all-new-xc70-phev-with-125-miles-of-electric-range-for-2026/#more-415353" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/05/10/volvo-teases-all-new-xc70-phev-with-125-miles-of-electric-range-for-2026/>
-
----
-
-## American energy sector set to invest $100B in battery storage by 2030
-
-date: 2025-05-10, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/wartsila_energy_252e4e.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Members of the US energy industry has committed to investing $100 billion over the next five years to build and buy American-made batteries for large, utility-scale deployments of battery energy storage systems (BESS).</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,electric-utility" data-layer-viewtype="unknown" data-post-id="415332" href="https://electrek.co/2025/05/10/american-energy-sector-set-to-invest-100b-in-battery-storage-by-2030/#more-415332" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/05/10/american-energy-sector-set-to-invest-100b-in-battery-storage-by-2030/>
 

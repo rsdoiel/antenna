@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-05-17 14:07:43
+updated: 2025-05-18 06:07:32
 ---
 
 # small papers
 
-(date: 2025-05-17 14:07:43)
+(date: 2025-05-18 06:07:32)
 
 ---
 
@@ -594,49 +594,4 @@ date: 2025-05-11, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/health/memorialcare-strike-long-beach-medical-center-nurses-miller-childrens-hospital-memorial>
-
----
-
-## 15-year-old girl goes missing in Lakewood
-
-date: 2025-05-10, from: Long Beach Post
-
-<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-768x434.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1536x868.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-2048x1157.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1200x678.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1568x886.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-400x226.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>"Mikee's family is concerned for her well-being and is asking for the public’s help," the LASD said.</p>
-<p>The post <a href="https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood">15-year-old girl goes missing in Lakewood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood>
-
----
-
-## Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency
-
-date: 2025-05-10, from: Long Beach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The money was funding 79 positions across the city for young workers seeking experience in health care, education, shelters and other social services.</p>
-<p>The post <a href="https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding">Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding>
-
----
-
-## Select Greater LA Area DMV Offices Opening on May 17 for REAL ID Appointments
-
-date: 2025-05-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="795" height="419" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?fit=795%2C419&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?w=795&amp;ssl=1 795w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=300%2C158&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=768%2C405&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=780%2C411&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=400%2C211&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?resize=706%2C372&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/DL-real-id.jpg?fit=795%2C419&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The California Department of Motor Vehicles (DMV) announced today that select offices in the greater Los Angeles area will offer REAL ID appointments on Saturday, May 17, from 8 a.m. [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/05/09/select-greater-la-area-dmv-offices-opening-on-may-17-for-real-id-appointments/">Select Greater LA Area DMV Offices Opening on May 17 for REAL ID Appointments</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/05/09/select-greater-la-area-dmv-offices-opening-on-may-17-for-real-id-appointments/>
 

@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-05-17 14:07:41
+updated: 2025-05-18 06:07:30
 ---
 
 # motorcycles
 
-(date: 2025-05-17 14:07:41)
+(date: 2025-05-18 06:07:30)
+
+---
+
+## Klim’s Racer Support Program Aims To Get More Folks Into Motorcycle Racing
+
+date: 2025-05-18, from: Ride Apart, Electric Motorcycle News
+
+One of the biggest names in the off-road gear scene wants to make racing more accessible.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759766/klim-racer-support-program-2025-announcement/>
+
+---
+
+## Indianapolis 500 Saturday Qualification Report: Huge wrecks and fast speeds with Palou on top
+
+date: 2025-05-17, from: Kickin the Tires blog
+
+Drama. It is what makes the Indianapolis 500 the biggest race on the planet and the first day of qualifications for the 109th “500” brought plenty of drama.&#160; High winds&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indianapolis-500-saturday-qualification-report-huge-wrecks-and-fast-speeds-with-palou-on-top/>
 
 ---
 
@@ -532,28 +557,4 @@ By Austin Lawton, Staff Writer Alex Palou continues to do what Alex Palou does b
 <br> 
 
 <https://kickinthetires.net/indycar/alex-palou-and-the-perfect-10s-win-third-ims-road-course-race-in-a-row/>
-
----
-
-## Harley Investors Allege Backroom Deals, Say CEO and Directors Are Promising to Leave
-
-date: 2025-05-10, from: Ride Apart, Electric Motorcycle News
-
-H Partners Management alleges the directors are holding backroom meetings with shareholders.  
-
-<br> 
-
-<https://www.rideapart.com/news/759147/harley-davidson-h-partners-management-ceo-board-directors-leaving/>
-
----
-
-## Palou wins Sonsio GP Pole; looks to get fourth win of the season
-
-date: 2025-05-10, from: Kickin the Tires blog
-
-By Austin Lawton, Staff Writer The Month of May is finally here which means the NTT IndyCar Series will spend the next three weeks at the Indianapolis Motor Speedway. Instead&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/indycar/palou-wins-sonsio-gp-pole-looks-to-get-fourth-win-of-the-season/>
 

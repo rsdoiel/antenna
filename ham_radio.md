@@ -1,11 +1,35 @@
 ---
 title: ham radio
-updated: 2025-05-17 14:07:35
+updated: 2025-05-18 06:07:25
 ---
 
 # ham radio
 
-(date: 2025-05-17 14:07:35)
+(date: 2025-05-18 06:07:25)
+
+---
+
+## ARRL Coverage of 2025 Dayton Hamvention - Saturday, May 17
+
+date: 2025-05-18, from: Amateur Radio Relay League News
+
+<p><em>By: Rich Moseson, W2VU</em></p><p><span>What do the Dayton Hamvention® flea market and Xenia, Ohio, weather have in common? They each offer a little bit of everything! Friday’s hot and humid afternoon was followed by thunderstorms at night and cool, windy, weather on Saturday. The Hamvention itself, though, provided consistently positive experiences for just about everyone. ARRL activities were highlighted by th...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-coverage-of-2025-dayton-hamvention-saturday-may-17>
+
+---
+
+## ARRL Coverage of 2025 Dayton Hamvention - Friday, May 16
+
+date: 2025-05-17, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-coverage-of-2025-dayton-hamvention-friday-may-16>
 
 ---
 
@@ -65,7 +89,7 @@ date: 2025-05-16, from: Amateur Radio Relay League News
 
 date: 2025-05-16, from: Amateur Radio Relay League News
 
-<p>It was a flurry of activity around the exhibit space for ARRL The National Association for Amateur Radio® and beyond. Trucks being unloaded, tables being arranged, boxes being opened and even tablecloths being ironed were among the sights and sounds Thursday at Ohio’s Greene County Fairgrounds as hundreds of ham radio manufacturers, retailers, clubs, and organizations prepared for Friday’s open...</p> 
+<p><em>By: Rich Moseson, W2VU</em></p><p>It was a flurry of activity around the exhibit space for ARRL The National Association for Amateur Radio® and beyond. Trucks being unloaded, tables being arranged, boxes being opened and even tablecloths being ironed were among the sights and sounds Thursday at Ohio’s Greene County Fairgrounds as hundreds of ham radio manufacturers, retailers, clubs, and organizations prep...</p> 
 
 <br> 
 

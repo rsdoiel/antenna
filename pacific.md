@@ -1,11 +1,372 @@
 ---
 title: pacific
-updated: 2025-05-17 14:07:34
+updated: 2025-05-18 06:07:24
 ---
 
 # pacific
 
-(date: 2025-05-17 14:07:34)
+(date: 2025-05-18 06:07:24)
+
+---
+
+## BAC bills die again, but working group urged
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>For the fifth consecutive year, bills were introduced in the state Legislature to reduce the blood-alcohol content threshold for a drunken driving charge from 0.08% to 0.05%.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/hawaii-news/bac-bills-die-again-but-working-group-urged/>
+
+---
+
+## Federal funding for Hawaiian Home Lands on chopping block
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>The state agency helping Native Hawaiians with housing needs is at risk again of a federal funding cutoff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/hawaii-news/federal-funding-for-hawaiian-home-lands-on-chopping-block/>
+
+---
+
+## Trump urges Walmart to absorb tariffs after retailer says it could raise prices
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump scolded Walmart on Saturday after the retail giant warned that his tariffs would force it to raise prices, writing on social media that the discount chain could afford to absorb the costs of the new import taxes without passing them on to customers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/nation-world-news/trump-urges-walmart-to-absorb-tariffs-after-retailer-says-it-could-raise-prices/>
+
+---
+
+## Reintegration fair helps 23 inmates prepare for freedom
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>Twenty-three inmates closing in on their release date from Big Island correctional facilities participated Thursday in a reintegration resource fair at Hawaii Community Correctional Center&#8217;s Hale Nani Facility in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/hawaii-news/reintegration-fair-helps-23-inmates-prepare-for-freedom/>
+
+---
+
+## Army alerts Big Island residents about convoys
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Army National Guard will be preparing for its annual training exercises in June by shipping its vehicles and equipment from Oahu to Hawaii Island starting today.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/hawaii-news/army-alerts-big-island-residents-about-convoys/>
+
+---
+
+## Police: Grenade not a threat
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>Police called in the Hawaii Island Bomb Squad Thursday evening after a resident reported discovering what appeared to be an unexploded grenade in a riverbed at a trail park in Waimea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/hawaii-news/police-grenade-not-a-threat/>
+
+---
+
+## Waipiʻo Valley Road tree trimming to begin
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>Tree trimming and vegetation maintenance will take place starting Monday on Waipi&#8216;o Valley Road.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/hawaii-news/waipi%ca%bbo-valley-road-tree-trimming-to-begin/>
+
+---
+
+## At least 27 dead after tornadoes and storms tear across central US
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>ST. LOUIS &#8212; The call came late Friday to the Rev. Derrick Perkins: Three people were trapped in the Centennial Christian Church in St. Louis after a tornado had toppled part of its steeple, leaving it in dusty piles of bricks and stones.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/nation-world-news/at-least-27-dead-after-tornadoes-and-storms-tear-across-central-us/>
+
+---
+
+## Israel says it has begun mobilizing for a new Gaza advance
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli military said Saturday that it had begun mobilizing its forces in preparation to advance farther into the Gaza Strip, seize more land and displace more civilians, adding that it was conducting intense airstrikes before the planned offensive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/nation-world-news/israel-says-it-has-begun-mobilizing-for-a-new-gaza-advance/>
+
+---
+
+## India is accused of inhumanely deporting Rohingya refugees
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>NEW DELHI &#8212; The United Nations has called for an investigation into &#8220;credible reports&#8221; that Indian authorities rounded up Rohingya refugees and expelled them, in some cases by putting them into the Andaman Sea off the shore of the same country they had escaped from, fearing persecution and death.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/nation-world-news/india-is-accused-of-inhumanely-deporting-rohingya-refugees/>
+
+---
+
+## 1 dead as bomb damages Palm Springs fertility clinic, mayor says
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>One person is dead in the desert oasis of Palm Springs, California, after a bomb exploded Saturday outside a fertility clinic, damaging buildings and leaving windows shattered in restaurants, shops and apartment buildings across several blocks in the city&#8217;s downtown.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/nation-world-news/1-dead-as-bomb-damages-palm-springs-fertility-clinic-mayor-says/>
+
+---
+
+## Leipzig: The German city that helped halt communism
+
+date: 2025-05-18, from: Hawaii Tribune Harold
+
+
+				<p>Once trapped in communist East Germany, bustling Leipzig is now a city of business and of culture. It&#8217;s also a city of great history &#8212; Martin Luther, Goethe, Johann Sebastian Bach, Felix Mendelssohn, Richard Wagner, Angela Merkel, and many other German VIPs have spent time here.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/18/features/leipzig-the-german-city-that-helped-halt-communism/>
+
+---
+
+## Vanuatu pressing for climate justice; warns that the damage will be irreversible in five years
+
+date: 2025-05-17, from: Pacific Island Times
+
+By James C. Pearce Ahead of the third UN Ocean Conference this summer, the International Court of Justice is set to render a... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/vanuatu-pressing-for-climate-justice-warns-that-the-damage-will-be-irreversible-in-five-years>
+
+---
+
+## Conservatives imperil GOP megabill that would fulfill Trump’s agenda
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Conservatives on the House Budget Committee on Friday blocked their party&#8217;s megabill from reaching the floor, citing concerns that the legislation to fulfill President Donald Trump&#8217;s domestic agenda would add too much to the deficit.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/conservatives-imperil-gop-megabill-that-would-fulfill-trumps-agenda/>
+
+---
+
+## GOP tax bill may hurt the lowest earners and help the richest
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As Rep. Jason Smith, R-Mo., commenced a marathon session this week to consider a sprawling and expensive Republican tax package, he took special care to emphasize his party&#8217;s commitment to &#8220;hardworking Americans.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/gop-tax-bill-may-hurt-the-lowest-earners-and-help-the-richest/>
+
+---
+
+## Audio of special counsel interview adds to renewed debate of Biden’s fitness as president
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A 2023 audio recording of President Joe Biden speaking haltingly and having memory lapses is the latest in a series of recent disclosures that have reopened a debate over Biden&#8217;s physical and mental fitness while in office and prompted fresh recriminations among Democrats.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/audio-of-special-counsel-interview-adds-to-renewed-debate-of-bidens-fitness-as-president/>
+
+---
+
+## As Congress debates cutting Medicaid, a major study shows it saves lives
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The expansion of Medicaid has saved more than 27,000 lives since 2010, according to the most definitive study yet on the program&#8217;s health effects.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/as-congress-debates-cutting-medicaid-a-major-study-shows-it-saves-lives/>
+
+---
+
+## ‘He gets us’: Trump makes a splash in Saudi Arabia
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>RIYADH, Saudi Arabia &#8212; As he waited for President Donald Trump to arrive in a gilded ballroom in the Saudi capital, Riyadh, Mohammad Bahareth was beaming.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/he-gets-us-trump-makes-a-splash-in-saudi-arabia/>
+
+---
+
+## 10 New Orleans inmates escape jail through cell wall where toilet was removed
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The rectangular hole in the cell wall was just big enough for a person to squeeze through. Right next to it, a metal toilet and sink had been ripped from the wall. Above the hole, someone had scrawled a picture of a face with a tongue sticking out and taunting messages for Orleans Parish Sheriff&#8217;s Office officials, saying it was all too &#8220;easy. LOL.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/10-new-orleans-inmates-escape-jail-through-cell-wall-where-toilet-was-removed/>
+
+---
+
+## US may drop guilty plea deal with Boeing over deadly Max crashes, lawyers say
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>After years of legal wrangling, Boeing may avoid criminal responsibility for its role in a pair of deadly 737 Max crashes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/us-may-drop-guilty-plea-deal-with-boeing-over-deadly-max-crashes-lawyers-say/>
+
+---
+
+## Trump says ‘a lot of people are starving’ in Gaza and the US wants to help
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>ABU DHABI, United Arab Emirates &#8212; President Donald Trump said Friday that &#8220;a lot of people are starving&#8221; in the Gaza Strip under an Israeli blockade preventing aid deliveries, adding that the U.S. wanted to help alleviate the suffering.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/trump-says-a-lot-of-people-are-starving-in-gaza-and-the-us-wants-to-help/>
+
+---
+
+## US downgraded by Moody’s as Trump pushes costly tax cuts
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The credit rating of the United States received a potentially costly downgrade Friday, as the ratings firm Moody&#8217;s determined that the government&#8217;s rising debt levels stood to grow further if Republicans enact a package of new tax cuts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/us-downgraded-by-moodys-as-trump-pushes-costly-tax-cuts/>
+
+---
+
+## Secret Service questions Comey over social media post about Trump
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The Secret Service questioned James Comey, the former FBI director, Friday about a social media post he made that Trump&#8217;s Cabinet officials and allies claimed amounted to a call for Trump&#8217;s assassination, according to a law enforcement official.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/secret-service-questions-comey-over-social-media-post-about-trump/>
+
+---
+
+## At least 4 dead as tornado strikes St. Louis, mayor says
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>At least four people were killed after a tornado struck St. Louis on Friday afternoon and left a trail of destruction of uprooted trees, downed power lines and collapsed buildings, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/at-least-4-dead-as-tornado-strikes-st-louis-mayor-says/>
+
+---
+
+## Pedestrian killed in Orchidland crash
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>Police launched a negligent homicide investigation after a 21-year-old male pedestrian was killed in a traffic crash Friday evening in Kurtistown.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/hawaii-news/pedestrian-killed-in-orchidland-crash/>
+
+---
+
+## UH Hilo graduate earns doctorate while balancing family, full-time job
+
+date: 2025-05-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo graduate Kristle Akau Giraudy’s journey to a nursing doctorate is rooted in grit, gratitude and a deep love for learning</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/16/uh-hilo-graduate-earns-doctorate-family-full-time-job/"><abbr>UH</abbr> Hilo graduate earns doctorate while balancing family, full-time job</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/16/uh-hilo-graduate-earns-doctorate-family-full-time-job/>
 
 ---
 
@@ -59,6 +420,18 @@ date: 2025-05-16, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/16/hawaii-news/kilauea-lava-fountains-reach-up-to-1000-feet-in-episode-22/>
+
+---
+
+## Ayude a dar forma al futuro de la salud del hígado
+
+date: 2025-05-16, updated: 2025-05-16, from: Marianas Variety
+
+(NAPSI)—Si usted o un ser querido está entre los casi 100 millones de estadounidenses afectados por una enfermedad hepática, considere unirse al Registro de pacientes de la American Liver Foundation. Al compartir su historia, usted puede ayudar a dar forma al futuro de la salud del hígado. Como participante, usted se unirá a un grupo de personas dedicadas a cambiar el aspecto de la enfermedad hepática mediante el avance de ciencia y tratamientos nuevos que beneficiarán a todos. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/ayude-a-dar-forma-al-futuro-de-la-salud-del-h-gado/article_19d2cd5c-803e-5ed2-805e-be919328ca18.html>
 
 ---
 
@@ -630,6 +1003,30 @@ By Mar-Vic Cagurangan   Gov. Lou Leon Guerrero reiterated—for the nth time—
 
 ---
 
+## Leepan is GOP’s new president; governor says he’s seeking a 2nd term next year
+
+date: 2025-05-16, updated: 2025-05-18, from: Marianas Variety
+
+LED by former Rep. Joseph “Leepan” Guerrero, NMI Republicans allied with former Gov. Ralph DLG Torres swept the party’s election of new officers on Thursday evening. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/leepan-is-gop-s-new-president-governor-says-he-s-seeking-a-2nd-term-next/article_0c7a163c-2864-410f-86c1-15cb217423e1.html>
+
+---
+
+## Free fresh Tinian beef tasting at ‘Taste’ on May 17
+
+date: 2025-05-16, updated: 2025-05-18, from: Marianas Variety
+
+THE 26th Annual Taste of The Marianas International Food Festival continues this Saturday, May 17, in Garapan, Saipan, with a spotlight on cooking demonstrations and free tasting, including roasted grass-fed beef from Tinian. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/free-fresh-tinian-beef-tasting-at-taste-on-may-17/article_a8f22bfe-8e05-4060-8416-2d8b78022d0c.html>
+
+---
+
 ## Fukui named chief of clinical breast oncology at UH Cancer Center
 
 date: 2025-05-16, from: University of Hawaiʻi News
@@ -699,6 +1096,30 @@ date: 2025-05-15, from: Marshal Islands Journal
 
 ---
 
+## Expert tips for small business success in the AI era
+
+date: 2025-05-15, updated: 2025-05-17, from: Marianas Variety
+
+(BPT) - Did you know small businesses comprise 99.9% of all businesses nationwide? Today's small businesses are entering a new era, with smart, accessible technology helping to level the playing field, making it easier than ever to compete, grow and thrive. From AI-powered PCs and generative AI tools like ChatGPT and Gemini, to intuitive platforms like Canva, Square, Shopify, Mailchimp and QuickBooks Online, there's technology available to support almost any business need today — no IT team required. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/expert-tips-for-small-business-success-in-the-ai-era/article_e2617b8f-43f3-57c7-a3b0-22904a483e91.html>
+
+---
+
+## Protect your summer plans from unexpected car trouble
+
+date: 2025-05-15, updated: 2025-05-17, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/protect-your-summer-plans-from-unexpected-car-trouble/article_b8680039-a13f-53e8-8df1-e0fb784197c8.html>
+
+---
+
 ## Stay Scam Smart INSIGHTS ON PBS HAWAIʻI
 
 date: 2025-05-15, from: INSIGHTS ON PBS HAWAIʻI
@@ -736,6 +1157,42 @@ The post <a href="https://www.hawaii.edu/news/2025/05/15/summer-program-food-fas
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/15/summer-program-food-fashion-aina/>
+
+---
+
+## How One Company is Fueling the Future of Small Businesses — With $5 Billion to Back It Up
+
+date: 2025-05-15, updated: 2025-05-17, from: Marianas Variety
+
+(BPT) - Small businesses are the heart of Main Street — and the backbone of the American economy. From neighborhood restaurants to veteran-owned logistics companies, these millions of entrepreneurs are responsible for driving innovation, creating jobs and keeping communities thriving. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/how-one-company-is-fueling-the-future-of-small-businesses-with-5-billion-to-back/article_9d949ade-6e8d-5bfb-8d6d-d563f121e148.html>
+
+---
+
+## What's better than a wedding guest book? A video booth captures the joy and authenticity of the day
+
+date: 2025-05-15, updated: 2025-05-17, from: Marianas Variety
+
+(BPT) - Wedding season is here, with couples everywhere looking forward to what they're told will be one of the "greatest days of their life," celebrating their love with family and friends. But the day goes by in a joyful blur — how can you be sure to capture meaningful moments with the loved ones who made it so special? Will all of your guests have the opportunity to fully express their greetings and well-wishes to you and your partner? While not everyone needs a microphone moment, capturing messages from all your loved ones is something you won't want to miss. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/food_recipes_entertaining/whats-better-than-a-wedding-guest-book-a-video-booth-captures-the-joy-and-authenticity/article_7212148a-9c35-58da-b5ea-3eed4207203b.html>
+
+---
+
+## Trump budget cuts’ impact on Guam programs, workers monitored
+
+date: 2025-05-15, updated: 2025-05-18, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The fate of more than 780 local employees whose positions are covered by some $27.1 million in federally funded programs are now in the hands of Guam Delegate James Moylan. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/trump-budget-cuts-impact-on-guam-programs-workers-monitored/article_8799df8c-a79f-4d22-a068-109a8daaa1c5.html>
 
 ---
 
@@ -3035,143 +3492,4 @@ date: 2025-05-11, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/11/features/volcano-watch-20-episodes-and-counting-lava-fountains-continue-in-kaluapele/>
-
----
-
-## What has happened to the American dream?
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>The American dream &#8212; often idealized by the house and white picket fence &#8212; has been debated, pondered and relentlessly pursued by those who have lived in the United States for generations, as well as more recent immigrants.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/what-has-happened-to-the-american-dream/>
-
----
-
-## Mild recession forecast for Hawaii economy
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>University of Hawaii economists expect the state economy to begin gradually contracting later this year due to federal policy impacts hurting tourism, employment and personal income.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/hawaii-news/mild-recession-forecast-for-hawaii-economy/>
-
----
-
-## ICE arrests 50 in raids across 3 Hawaiian islands
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>Federal agents arrested 50 people this week on Oahu, Maui and Hawaii island for violating immigration laws due to convictions for crimes including murder, domestic violence and drug possession.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/hawaii-news/ice-arrests-50-in-raids-across-3-hawaiian-islands/>
-
----
-
-## Trump suggests openness to slashing China tariffs before trade talks
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump suggested Friday that he was open to sharply reducing the tariffs the United States had imposed on China, as American and Chinese negotiators prepare to meet in Switzerland this weekend for high-stakes trade talks.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/trump-suggests-openness-to-slashing-china-tariffs-before-trade-talks/>
-
----
-
-## Newark’s mayor arrested at protest outside ICE detention center
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>Federal officials arrested Ras J. Baraka, the mayor of Newark, New Jersey, on Friday after a confrontation that also involved three members of Congress at a new immigration detention facility that is expected to play a central role in President Donald Trump&#8217;s mass deportation effort.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/newarks-mayor-arrested-at-protest-outside-ice-detention-center/>
-
----
-
-## First white South Africans to arrive under US refugee plan as soon as next week
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s administration is aiming to bring the first group of white South Africans to the United States via its refugee program as soon as next week, three people familiar with the matter said, a divisive effort given that Trump has been blocking refugee admissions from the rest of the world.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/first-white-south-africans-to-arrive-under-us-refugee-plan-as-soon-as-next-week/>
-
----
-
-## Trump officials mull proposing COFA status to Greenland
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. officials are discussing a plan to pull Greenland into America&#8217;s sphere of influence using a type of agreement that the United States has used to keep close ties with several Pacific Island nations, according to two U.S. officials and another person familiar with the discussions.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/trump-officials-mull-proposing-cofa-status-to-greenland/>
-
----
-
-## Tufts student released from US immigration custody after judge’s order
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>A Tufts University student from Turkey who was held for over six weeks in an immigration detention center in Louisiana after co-writing an opinion piece criticizing her school&#8217;s response to Israel&#8217;s war in Gaza was released from custody on Friday after a federal judge granted her bail.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/tufts-student-released-from-us-immigration-custody-after-judges-order/>
-
----
-
-## Newark airport has another radar outage
-
-date: 2025-05-10, from: Hawaii Tribune Harold
-
-
-				<p>An air traffic control facility that guides planes at Newark Liberty International Airport in New Jersey had a brief radar outage Friday morning, the latest technological disruption at one of the nation&#8217;s busiest airports.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/10/nation-world-news/newark-airport-has-another-radar-outage/>
-
----
-
-## UH alumni 15 of PBN Women Who Mean Business honorees
-
-date: 2025-05-10, from: University of Hawaiʻi News
-
-<p>Fifteen trailblazing <abbr>UH</abbr> grads honored for leadership and impact.</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/09/uh-alumni-pbn-women-who-mean-business/"><abbr>UH</abbr> alumni 15 of <abbr>PBN</abbr> Women Who Mean Business honorees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/09/uh-alumni-pbn-women-who-mean-business/>
 

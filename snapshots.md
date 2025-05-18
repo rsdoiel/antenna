@@ -1,11 +1,342 @@
 ---
 title: snapshots
-updated: 2025-05-17 14:07:44
+updated: 2025-05-18 06:07:33
 ---
 
 # snapshots
 
-(date: 2025-05-17 14:07:44)
+(date: 2025-05-18 06:07:33)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-18, from: Dave Winer's linkblog)
+
+I finally figured out what the Dems need, the top guy has to be an entrepreneur. Needs to understand how to get people ready to believe the truth. And make the product deliver a truth the people choose. 
+
+<br> 
+
+<http://scripting.com/2025/05/17/144337.html>
+
+---
+
+## qwen2.5vl in Ollama
+
+date: 2025-05-18, updated: 2025-05-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://ollama.com/library/qwen2.5vl">qwen2.5vl in Ollama</a></strong></p>
+Ollama announced a complete overhaul of their vision support the other day. Here's the first new model they've shipped since then - a packaged version of <a href="https://github.com/QwenLM/Qwen2.5-VL">Qwen 2.5 VL</a> which was first released <a href="https://qwenlm.github.io/blog/qwen2.5-vl/">on January 26th 2025</a>. Here are my <a href="https://simonwillison.net/2025/Jan/27/qwen25-vl-qwen25-vl-qwen25-vl/">notes from that release</a>.</p>
+<p>I upgraded Ollama (it auto-updates so I just had to restart it from the tray icon) and ran this:</p>
+<pre><code>ollama pull qwen2.5vl
+</code></pre>
+<p>This downloaded a 6GB model file. I tried it out against my <a href="https://static.simonwillison.net/static/2025/cleo-sand.jpg">photo of Cleo rolling on the beach</a>:</p>
+<pre><code>llm -a https://static.simonwillison.net/static/2025/cleo-sand.jpg \
+  'describe this image' -m qwen2.5vl
+</code></pre>
+<p>And got a pretty good result:</p>
+<blockquote>
+<p>The image shows a dog lying on its back on a sandy beach. The dog appears to be a medium to large breed with a dark coat, possibly black or dark brown. It is wearing a red collar or harness around its chest. The dog's legs are spread out, and its belly is exposed, suggesting it might be rolling around or playing in the sand. The sand is light-colored and appears to be dry, with some small footprints and marks visible around the dog. The lighting in the image suggests it is taken during the daytime, with the sun casting a shadow of the dog to the left side of the image. The overall scene gives a relaxed and playful impression, typical of a dog enjoying time outdoors on a beach.</p>
+</blockquote>
+<p>Qwen 2.5 VL has a strong reputation for OCR, so I tried it on <a href="https://simonwillison.net/2025/May/17/pycon-poster/#datasette-poster">my poster</a>:</p>
+<pre><code>llm -a https://static.simonwillison.net/static/2025/poster.jpg \
+  'convert to markdown' -m qwen2.5vl
+</code></pre>
+<p>The result that came back:</p>
+<blockquote>
+<p>It looks like the image you provided is a jumbled and distorted text, making it difficult to interpret. If you have a specific question or need help with a particular topic, please feel free to ask, and I'll do my best to assist you!</p>
+</blockquote>
+<p>I'm not sure what went wrong here. My best guess is that the maximum resolution the model can handle is too small to make out the text, or maybe Ollama resized the image to the point of illegibility before handing it to the model?
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/18/qwen25vl-in-ollama/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-18, from: Dave Winer's linkblog)
+
+24 Books to Read This Summer. 
+
+<br> 
+
+<https://www.theatlantic.com/books/archive/2025/05/summer-reading-2025/682549/?gift=f35zZN0v_gDFE8xNwlQAHfDvi3oIhGiCtVmQxqXQ5xQ&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Acer Predator Helios Neo 14 AI is a compact gaming laptop with Intel Arrow Lake and NVIDIA RTX 50 Series graphics
+
+date: 2025-05-18, from: Liliputing
+
+<p>The Acer Predator Triton 14 AI isn&#8217;t the only new gaming laptop from Acer with a 14.5 inch display, an Intel Core Ultra 200 Series processor, and support for up to NVIDIA GeForce RTX 5070 graphics. Acer is also introducing a new Acer Predator Helios Neo 14 AI ahead of Computex. This model is a bit [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-predator-helios-neo-14-ai-is-a-compact-gaming-laptop-with-intel-arrow-lake-and-nvidia-rtx-50-series-graphics/">Acer Predator Helios Neo 14 AI is a compact gaming laptop with Intel Arrow Lake and NVIDIA RTX 50 Series graphics</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-predator-helios-neo-14-ai-is-a-compact-gaming-laptop-with-intel-arrow-lake-and-nvidia-rtx-50-series-graphics/>
+
+---
+
+## 2025 Python Packaging Ecosystem Survey
+
+date: 2025-05-18, updated: 2025-05-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://anaconda.surveymonkey.com/r/py-package-2025">2025 Python Packaging Ecosystem Survey</a></strong></p>
+If you make use of Python packaging tools (pip, Anaconda, uv, dozens of others) and have opinions please spend a few minutes with this year's packaging survey. This one was "Co-authored by 30+ of your favorite Python Ecosystem projects, organizations and companies."
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/surveys">surveys</a>, <a href="https://simonwillison.net/tags/packaging">packaging</a>, <a href="https://simonwillison.net/tags/pip">pip</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/psf">psf</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/18/2025-python-packaging-ecosystem-survey/#atom-everything>
+
+---
+
+## Deindustrialization: Causes and Consequences
+
+date: 2025-05-18, from: Paul Krugman
+
+It&#8217;s not mostly about globalization, and it&#8217;s not what ails workers 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/deindustrialization-causes-and-consequences>
+
+---
+
+## Quoting Neal Stephenson
+
+date: 2025-05-18, updated: 2025-05-18, from: Simon Willison’s Weblog
+
+<blockquote cite="https://nealstephenson.substack.com/p/remarks-on-ai-from-nz"><p>Speaking of the effects of technology on individuals and society as a whole, Marshall McLuhan wrote that every augmentation is also an amputation. [...] Today, quite suddenly, billions of people have access to AI systems that provide augmentations, and inflict amputations, far more substantial than anything McLuhan could have imagined. This is the main thing I worry about currently as far as AI is concerned. I follow conversations among professional educators who all report the same phenomenon, which is that their students use ChatGPT for everything, and in consequence learn nothing. We may end up with at least one generation of people who are like the Eloi in H.G. Wells’s The Time Machine, in that they are mental weaklings utterly dependent on technologies that they don’t understand and that they could never rebuild from scratch were they to break down.</p></blockquote>
+<p class="cite">&mdash; <a href="https://nealstephenson.substack.com/p/remarks-on-ai-from-nz">Neal Stephenson</a>, Remarks on AI from NZ</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/neal-stephenson">neal-stephenson</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/education">education</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/18/neal-stephenson/#atom-everything>
+
+---
+
+## Acer Aspire 14 AI laptops come with Intel, AMD, and Qualcomm processor options
+
+date: 2025-05-17, from: Liliputing
+
+<p>For the past few decades most laptop and desktop computers that ship with Windows software have featured Intel or AMD processors. That changed last year when Qualcomm launched its Snapdragon X line of chips for Windows PCs. While laptops with these ARM-based processors still aren&#8217;t as common as models with x86_64 chips, just about every [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-aspire-14-ai-laptops-come-with-intel-amd-and-qualcomm-processor-options/">Acer Aspire 14 AI laptops come with Intel, AMD, and Qualcomm processor options</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-aspire-14-ai-laptops-come-with-intel-amd-and-qualcomm-processor-options/>
+
+---
+
+## Datasette ecosystem poster for PyCon US
+
+date: 2025-05-17, updated: 2025-05-17, from: Simon Willison’s Weblog
+
+<p>In addition to <a href="https://simonwillison.net/2025/May/15/building-on-llms/">my workshop the other day</a> I'm also participating in the <a href="https://us.pycon.org/2025/schedule/posters/list/">poster session</a> at PyCon US this year.</p>
+<p>This means that tomorrow (Sunday 18th May) I'll be hanging out next to my poster from 10am to 1pm in Hall A talking to people about my various projects.</p>
+<p>I'll confess: I didn't pay close enough attention to the poster information, so when I first put my poster up it looked a little small:</p>
+<p><img alt="My Datasette poster on a huge black poster board. It looks a bit lonely in the middle surrounded by empty space." src="https://static.simonwillison.net/static/2025/poster-before.jpg" /></p>
+<p>... so I headed to the nearest CVS and printed out some photos to better represent my interests and personality. I'm going for a "teenage bedroom" aesthetic here, I'm very happy with the result:</p>
+<p><img alt="My Datasette poster is now surrounded by nearly 100 photos - mostly of pelicans, SVGs of pelicans and niche museums I've been to." src="https://static.simonwillison.net/static/2025/poster-after.jpg" /></p>
+<p>Here's the poster in the middle (also available <a href="https://static.simonwillison.net/static/2025/datasette-poster-v2.pdf">as a PDF</a>). It has columns for <a href="https://datasette.io/">Datasette</a>, <a href="https://sqlite-utils.datasette.io/">sqlite-utils</a> and <a href="https://llm.datasette.io/">LLM</a>.</p>
+<p><img id="datasette-poster" alt="Datasette: An ecosystem of tools for finding stories in data. Three projects: Datasette is a tool for exploring and publishing data. It helps data journalists (and everyone else) take data of any shape, analyze and explore it, and publish it as an interactive website and accompanying API. There's a screenshot of the table interface against a legislators table. Datasette has over 180 plugins adding features for visualizing, editing and transforming data. datasette-cluster-map, datasette-graphql, datasette-publish-cloudrun, datasette-comments, datasette-query-assistant, datasette-extract. datasette.io. sqlite-utils is a Python library and CLI tool for manipulating SQLite databases. It aims to make the gap from “I have data” to “that data is in SQLite” as small as possible. There's a code example showing inserting three chickens into a database and configuring full-text search. And in the terminal: sqlite-utils transform places.db roadside_attractions  --rename pk id  --default name Untitled  --drop address.  sqlite-utils.datasette.io. LLM is a Python library and CLI tool for interacting with Large Language Models. It provides a plugin-based abstraction over hundreds of different models, both local and hosted, and logs every interaction with them to SQLite. LLMs are proficient at SQL and extremely good at extracting structured data from unstructured text, images and documents. LLM’s asyncio Python library powers several Datasette plugins, including datasette-query-assistant, datasette-enrichments and datasette-extract. llm.datasette.io" src="https://static.simonwillison.net/static/2025/poster.jpg" style="max-width: 100%;"></p>
+<p>If you're at PyCon I'd love to talk to you about things I'm working on!</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/pycon">pycon</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/sqlite-utils">sqlite-utils</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/museums">museums</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/17/pycon-poster/#atom-everything>
+
+---
+
+## Self-modern, post-parody
+
+date: 2025-05-17, from: Gary Marcus blog
+
+You can&#8217;t make this stuff up 
+
+<br> 
+
+<https://garymarcus.substack.com/p/self-modern-post-parody>
+
+---
+
+## My 2025 SMPA Commencement Address
+
+date: 2025-05-17, from: Dave Karpf's blog
+
+This is GWU&#8217;s commencement weekend. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/my-2025-smpa-commencement-address>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+Jeff Bezos Abandons Khashoggi to Cut Deal With MBS. 
+
+<br> 
+
+<https://www.status.news/p/jeff-bezos-jamal-khashoggi-saudi-arabia-ai-deal?_bhlid=6cdbbbf4abc107e223b48b4db2d781e36e8a349d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+My favorite play from last night’s game. Mitchell Robinson corners Jaylen Brown, locks him down, then steals the ball. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=jm_X54haz-g>
+
+---
+
+## LILYGO T-LoRa Pager is an ESP32-powered communications device with LoRa, NFC, and GPS
+
+date: 2025-05-17, from: Liliputing
+
+<p>Pagers may have largely gone out of fashion in the age of the smartphone, but the T-LoRa Pager from LILYGO puts a modern spin on the class communications device. It&#8217;s a portable device with a 2.33 inch widescreen display, a thumb keyboard for tapping out messages, and support for LoRa, NFC, and GPS (GNSS), theoretically [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilygo-t-lora-pager-is-an-esp32-powered-communications-device-with-lora-nfc-and-gps/">LILYGO T-LoRa Pager is an ESP32-powered communications device with LoRa, NFC, and GPS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilygo-t-lora-pager-is-an-esp32-powered-communications-device-with-lora-nfc-and-gps/>
+
+---
+
+## The Universe Will Decay a Lot Sooner than Expected
+
+date: 2025-05-17, from: 404 Media Group
+
+This week, we have stories about wild horses, wild chimps, and wild cosmic deaths. 
+
+<br> 
+
+<https://www.404media.co/the-universe-will-decay-a-lot-sooner-than-expected/>
+
+---
+
+## django-simple-deploy
+
+date: 2025-05-17, updated: 2025-05-17, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://django-simple-deploy.readthedocs.io/">django-simple-deploy</a></strong></p>
+Eric Matthes presented a lightning talk about this project at PyCon US this morning. "Django has a deploy command now". You can run it like this:</p>
+<pre><code>pip install django-simple-deploy[fly_io]
+# Add django_simple_deploy to INSTALLED_APPS.
+python manage.py deploy --automate-all
+</code></pre>
+<p>It's plugin-based (<a href="https://github.com/django-simple-deploy/django-simple-deploy/issues/313">inspired by Datasette!</a>) and the project has stable plugins for three hosting platforms: <a href="https://github.com/django-simple-deploy/dsd-flyio">dsd-flyio</a>, <a href="https://github.com/django-simple-deploy/dsd-heroku">dsd-heroku</a> and <a href="https://github.com/django-simple-deploy/dsd-platformsh">dsd-platformsh</a>.</p>
+<p>Currently in development: <a href="https://github.com/django-simple-deploy/dsd-vps">dsd-vps</a> - a plugin that should work with any VPS provider, using <a href="https://www.paramiko.org/">Paramiko</a> to connect to a newly created instance and <a href="https://github.com/django-simple-deploy/dsd-vps/blob/a372fc7b7fd31cd2ad3cf22d68b9c9fecb65d17a/dsd_vps/utils.py">run all of the commands</a> needed to start serving a Django application.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/fly">fly</a>, <a href="https://simonwillison.net/tags/heroku">heroku</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/django">django</a>, <a href="https://simonwillison.net/tags/paramiko">paramiko</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/17/django-simple-deploy/#atom-everything>
+
+---
+
+## Tariffs: Now What?
+
+date: 2025-05-17, from: Paul Krugman
+
+A conversation with Joey Politano 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/tariffs-now-what>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+The Knicks’ transition from laughing stock to title contenders is complete. 
+
+<br> 
+
+<https://feedland.org/?item=24131660>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+The Knicks’ transition from laughing stock to title contenders is complete. 
+
+<br> 
+
+<https://feedland.org/?item=24131657>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+The Knicks’ transition from laughing stock to title contenders is complete. 
+
+<br> 
+
+<https://www.aol.co.uk/sport/knicks-transition-laughing-stock-title-080003379.html>
+
+---
+
+## Of Jews, rats and Gary Lineker
+
+date: 2025-05-17, from: Howard Jacobson blog
+
+Whereof one knows nothing, thereof one must remain silent 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/of-jews-rats-and-gary-lineker>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+Knicks blow out Celtics to advance to first East finals since 2000. 
+
+<br> 
+
+<https://sports.yahoo.com/article/rampant-knicks-blow-celtics-advance-030444350.html>
+
+---
+
+## Why is Pacifica so Unpopular?
+
+date: 2025-05-17, from: Peter Warden
+
+Not long after I&#8217;d first moved to San Francisco, I had a friend from the UK visit. My apartment overlooked the N Judah tram line, and seeing the &#8220;Ocean Beach&#8221; destination board on the trains made her want to check it out. So one day, when it was sunny and warm in Duboce Triangle, so [&#8230;] 
+
+<br> 
+
+<https://petewarden.com/2025/05/17/why-is-pacifica-so-unpopular/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-17, from: Feed for Alt USDS)
+
+While Trump flies around on a foreign government’s jet and plans a $700 million parade, everyday Americans are losing healthcare and public workers are being laid off. 
+
+📫 Check out our latest newsletter: https://bit.ly/4j6CVqQ
+
+ #WeTheBuilders #RebuildGovernment 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lpditkmm7i25>
 
 ---
 
@@ -369,7 +700,7 @@ Calling All Technologists: The Era of Neutrality Is Over.
 
 date: 2025-05-16, from: Liliputing
 
-<p>The Acer Predator Triton 14 is a thin and light gaming laptop that&#8217;s been giving the popular Asus ROG Zephyrus G14 a run for its money for several years. But the new PT14-52T model for 2025 introduces a bunch of new features that could help Acer&#8217;s compact gaming notebook appealing even for non-gamers. Acer&#8217;s newest model [&#8230;]</p>
+<p>The Acer Predator Triton 14 AI is a thin and light gaming laptop that&#8217;s been giving the popular Asus ROG Zephyrus G14 a run for its money for several years. But the new PT14-52T model for 2025 introduces a bunch of new features that could help Acer&#8217;s compact gaming notebook appealing even for non-gamers. Acer&#8217;s newest [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/acer-predator-triton-14-ai-is-a-3-5-pound-gaming-laptop-with-an-oled-display-and-stylus-support/">Acer Predator Triton 14 AI is a 3.5 pound gaming laptop with an OLED display and stylus support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
@@ -2989,385 +3320,4 @@ Learn more: https://bit.ly/4jQzaas
 <br> 
 
 <https://bsky.app/profile/altusds.altgov.info/post/3loudxjdhx523>
-
----
-
-## The Pope gets it
-
-date: 2025-05-10, from: Gary Marcus blog
-
-In age when few political leaders are engaging with AI, Pope Leo XIV gets it. 
-
-<br> 
-
-<https://garymarcus.substack.com/p/the-pope-gets-it>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-Former Supreme Court Justice David Souter dies at 85. 
-
-<br> 
-
-<https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-Trump is a TV character. 
-
-<br> 
-
-<https://www.thedailybeast.com/is-trump-out-of-touch-senile-nuts-or-something-worse/>
-
----
-
-## Poker Face season two on FanFare
-
-date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
-
-<p>Poker Face season two just started on Peacock (the US streaming service). It's my favorite thing on TV right now. I've started threads on MetaFilter FanFare for episodes <a href="https://fanfare.metafilter.com/26073/Poker-Face-The-Game-Is-a-Foot">one</a>, <a href="https://fanfare.metafilter.com/26075/Poker-Face-Last-Looks">two</a> and <a href="https://fanfare.metafilter.com/26077/Poker-Face-Whack-a-Mole">three</a>.</p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/tv">tv</a>, <a href="https://simonwillison.net/tags/metafilter">metafilter</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/May/10/poker-face/#atom-everything>
-
----
-
-**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
-
-Does it matter more that the guy doesn't know anything or that he knows and lies constantly?
-
-This is a Washington Post Aaron Blake piece about how often Trump says he doesn't know about events.
-
-archive.is/B4pBL
-https://archive.is/B4pBL 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lotvgh72rk2z>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-Zero ships from China are bound for California’s top ports. Officials haven’t seen that since the pandemic. 
-
-<br> 
-
-<https://www.cnn.com/2025/05/10/business/zero-ships-china-trade-ports-pandemic>
-
----
-
-## Beelink ME mini is now available for $329 (NAS with Intel N150 and up to 6 NVMe SSDs)
-
-date: 2025-05-10, from: Liliputing
-
-<p>The Beelink ME mini is a compact network-attached storage device that&#8217;s basically a cube-shaped mini PC with a 6-watt Intel N150 quad-core processor based on &#8220;Twin Lake&#8221; architecture and six M.2 slots for up to 24TB of total PCIe NVMe storage. First unveiled earlier this year, the Beelink ME mini is now available for pre-order. You [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/beelink-me-mini-is-now-available-for-329-nas-with-intel-n150-and-up-to-6-nvme-ssds/">Beelink ME mini is now available for $329 (NAS with Intel N150 and up to 6 NVMe SSDs)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/beelink-me-mini-is-now-available-for-329-nas-with-intel-n150-and-up-to-6-nvme-ssds/>
-
----
-
-**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
-
-Happy Birthday, Mother Fletcher!
-Thank you for inspiring the world to pursue truth and justice no matter how long it takes, or how heavy the burden. 💛
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lotpkbi4ik2b>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-The American Dream is to have a dream. 
-
-<br> 
-
-<http://scripting.com/2025/05/10/125322.html>
-
----
-
-**@Tomosino's Mastodon feed** (date: 2025-05-10, from: Tomosino's Mastodon feed)
-
-<p>If you got elected Pope, what would your Pope name be?</p> 
-
-<br> 
-
-<https://tilde.zone/@tomasino/114485127047314377>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-The video of Paul Frazee of Bluesky&#39;s talk at Berkman last Wednesday. I haven&#39;t watched it yet, but I plan to. 
-
-<br> 
-
-<https://www.youtube.com/watch?v=xDhBVm3iTCQ>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-05-10, from: Robert's feed at BlueSky)
-
-I found this both meaningful and inspiring on many levels. https://www.cjr.org/analysis/politifact-cspan-republicans-fact-check.php 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lotfvntzw22p>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-05-10, from: Robert's feed at BlueSky)
-
-So F-ing true 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lotelt24j22m>
-
----
-
-**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
-
-ICYMI: "DOGE is an insider threat. Name what's happening then act on it. That's how you de-weaponize it." Kate and Milo recently spoke with about what DOGE *really* is.
-
- https://bit.ly/4jPHffi 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lotcoas6hl2t>
-
----
-
-## The Am Dash
-
-date: 2025-05-10, from: Chris Coyier blog
-
-The Am Dash is a clever idea. It&#8217;s a little typographic dash you can slip into text that sorta &#8220;proves&#8221; it&#8217;s human written, while looking kinda cool. This &#8220;proves&#8221; it&#8217;s human written because there is barely any text in the world that uses this so LLMs will (never?) generate text that has &#8220;am-&#8221; in it [&#8230;] 
-
-<br> 
-
-<https://chriscoyier.net/2025/05/10/the-am-dash/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-UVA Tried To Shut Down Its Historical Tours Discussing Slavery. These Students Resisted. 
-
-<br> 
-
-<https://www.teenvogue.com/story/uva-historical-tours-slavery-students>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-America as a platform. 
-
-<br> 
-
-<http://scripting.com/2025/05/10/125322.html?title=americaAsAPlatform>
-
----
-
-## The secret to AGI, in 4 pages
-
-date: 2025-05-10, from: Gary Marcus blog
-
-A couple days ago I learned on X that getting to AGI was much easier than I had long thought. 
-
-<br> 
-
-<https://garymarcus.substack.com/p/the-secret-to-agi-in-4-pages>
-
----
-
-## Ancient Poems Record the Decline of a Special Porpoise
-
-date: 2025-05-10, from: 404 Media Group
-
-The Yangtze finless porpoise is near extinction in the wild, but glimpses of its heyday can be found in centuries of Chinese poetry. 
-
-<br> 
-
-<https://www.404media.co/ancient-poems-record-the-decline-of-a-special-porpoise/>
-
----
-
-## 50 Years of Portuguese Democracy
-
-date: 2025-05-10, from: Paul Krugman
-
-My talk in Lisbon 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/50-years-of-portuguese-democracy>
-
----
-
-## Trying out llama.cpp's new vision support
-
-date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
-
-<p>This <a href="https://github.com/ggml-org/llama.cpp/pull/12898">llama.cpp server vision support via libmtmd</a> pull request - via <a href="https://news.ycombinator.com/item?id=43943047">Hacker News</a> - was merged earlier today. The PR finally adds full support for vision models to the excellent <a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a> project. It's documented <a href="https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md">on this page</a>, but the more detailed technical details are <a href="https://github.com/ggml-org/llama.cpp/tree/master/tools/mtmd#multimodal-support-in-llamacpp">covered here</a>. Here are my notes on getting it working on a Mac.</p>
-<p><code>llama.cpp</code> models are usually distributed as <code>.gguf</code> files. This project introduces a new variant of those called <code>mmproj</code>, for multimodal projector. <code>libmtmd</code> is the new library for handling these.</p>
-<p>You can try it out by compiling <code>llama.cpp</code> from source, but I found another option that works: you can download pre-compiled binaries from the <a href="https://github.com/ggml-org/llama.cpp/releases">GitHub releases</a>.</p>
-<p>On macOS there's an extra step to jump through to get these working, which I'll describe below.</p>
-
-<p><strong>Update</strong>: it turns out the <a href="https://formulae.brew.sh/formula/llama.cpp">Homebrew package</a> for <code>llama.cpp</code> turns things around <em>extremely</em> quickly. You can run <code>brew install llama.cpp</code> or <code>brew upgrade llama.cpp</code> and start running the below tools without any extra steps.</p>
-
-<p>I downloaded the <code>llama-b5332-bin-macos-arm64.zip</code> file from <a href="https://github.com/ggml-org/llama.cpp/releases/tag/b5332">this GitHub release</a> and unzipped it, which created a <code>build/bin</code> directory.</p>
-<p>That directory contains a bunch of binary executables and a whole lot of <code>.dylib</code> files. macOS wouldn't let me execute these files because they were quarantined. Running this command fixed that for the <code>llama-mtmd-cli</code> and <code>llama-server</code> executables and the <code>.dylib</code> files they needed:</p>
-<pre><code>sudo xattr -rd com.apple.quarantine llama-server llama-mtmd-cli *.dylib
-</code></pre>
-<p>Now I can run an interactive terminal LLM session using this command:</p>
-<pre><code>./llama-mtmd-cli -hf unsloth/gemma-3-4b-it-GGUF:Q4_K_XL</code></pre>
-<p>The first time this runs it fetches four files from <a href="https://huggingface.co/unsloth/gemma-3-4b-it-GGUF">unsloth/gemma-3-4b-it-GGUF</a> - a quantized copy of Google DeepMind's <a href="https://huggingface.co/google/gemma-3-4b-pt">Gemma 3 4B</a> - and stores them in <code>~/Library/Caches/llama.cpp</code>:</p>
-<pre><code>2.4G unsloth_gemma-3-4b-it-GGUF_gemma-3-4b-it-UD-Q4_K_XL.gguf
-217B unsloth_gemma-3-4b-it-GGUF_gemma-3-4b-it-UD-Q4_K_XL.gguf.json
-812M unsloth_gemma-3-4b-it-GGUF_mmproj-F16.gguf
-203B unsloth_gemma-3-4b-it-GGUF_mmproj-F16.gguf.json
-</code></pre>
-<p>Once they've downloaded an interactive session starts. You can chat directly with the model or use the <code>/image path-to-image.jpg</code> command to load an image into the context.</p>
-<p>I loaded in <a href="https://static.simonwillison.net/static/2025/pelican-no-hat.jpg">a pelican photo</a> and prompted "describe it" and got back this:</p>
-<blockquote>
-<p>It’s a striking photograph of a brown pelican standing in shallow water on a sandy beach. Here's a breakdown of what I see:</p>
-<ul>
-<li>
-<p><strong>Subject:</strong> The main focus is a large brown pelican. It’s standing with its wings fully extended, creating a dramatic pose.</p>
-</li>
-<li>
-<p><strong>Pose:</strong> The pelican is in a slightly awkward, almost comical stance, with its legs planted firmly in the wet sand and its wings spread wide. It looks like it might be preparing to take off or is simply enjoying the water.</p>
-</li>
-<li>
-<p><strong>Color &amp; Texture:</strong> The pelican is a rich, dark brown with lighter markings on its wings and head. The sand is a muted beige color, and the water reflects the sunlight, creating a shimmering effect. You can see the texture of the
-sand and the ripples in the water.</p>
-</li>
-<li>
-<p><strong>Lighting:</strong> The lighting appears to be bright and sunny, casting shadows and highlighting the details of the pelican's feathers.</p>
-</li>
-<li>
-<p><strong>Background:</strong> The background is blurred, suggesting a shallow depth of field, which keeps the focus on the pelican. It appears to be a beach scene.</p>
-</li>
-<li>
-<p><strong>Overall Impression:</strong> The image has a dynamic feel due to the pelican’s pose and the movement implied by the water. It’s a well-composed shot that captures a moment of wildlife in its natural habitat.</p>
-</li>
-</ul>
-<p>Do you want me to zoom in on a particular detail, or perhaps tell you more about pelicans?</p>
-</blockquote>
-<p>Not bad for a 3.2GB model running on my laptop!</p>
-<p><img src="https://static.simonwillison.net/static/2025/llama-vision.jpg" alt="Screenshot of the terminal session showing the response quoted above." style="max-width: 100%;" /></p>
-<h4 id="running-llama-server">Running llama-server</h4>
-<p>Even more fun is the <a href="https://github.com/ggml-org/llama.cpp/tree/master/tools/server#llamacpp-http-server"><code>llama-server</code> command</a>. This starts a localhost web server running on port 8080 to serve the model, with both a web UI and an OpenAI-compatible API endpoint.</p>
-<p>The command to run it is the same:</p>
-<pre><code>./llama-server -hf unsloth/gemma-3-4b-it-GGUF:Q4_K_XL</code></pre>
-<p>Now visit <code>http://localhost:8080</code> in your browser to start interacting with the model:</p>
-<p><img src="https://static.simonwillison.net/static/2025/llama-server-vision.jpg" alt="screenshot of llama.cpp web UI - I've added a photo of some pelicans and the prompt decsribe these creatures, it came back with the following: Okay, let's describe these beautiful birds!  These are Brown Pelicans (Pelecanus occidentalis).  Here's a breakdown of their key features, based on the image:      Appearance: They are large, brown birds with distinctive long, pointed bills. Their plumage is a rich, chocolate brown, with lighter underparts. They have large, webbed feet.     Posture: As you can see, they're standing together on a concrete embankment, likely near the water's edge. They're in a somewhat huddled or attentive stance.     Size: They are quite large birds – adults can have a wingspan of up to 6.5 feet (2 meters).     Behavior: Pelicans are known for their unique feeding technique, where they plunge-dive into the water to scoop up fish with their pouches.  In the image, you can see:      A group of 6-7 Brown Pelicans.     A single bird in the foreground, slightly out of focus, showing a more detailed view of their feathers and feet.  Where they are: The presence of these birds suggests they are likely in a coastal or wetland environment – perhaps a bay, estuary, or near a large body of water.  Do you want me to delve deeper into any specific aspect of these birds, such as their habitat, diet, or conservation status? On the right is a Conversations sidebar with three other conversations listed." style="max-width: 100%;" /></p>
-<p>It miscounted the pelicans in <a href="https://static.simonwillison.net/static/2025/pelican-group.jpg">the group photo</a>, but again, this is a <em>tiny</em> 3.2GB model.</p>
-<p>With the server running on port 8080 you can also access the OpenAI-compatible API endpoint. Here's how to do that using <code>curl</code>:</p>
-<div class="highlight highlight-source-shell"><pre>curl -X POST http://localhost:8080/v1/chat/completions \
-  -H <span class="pl-s"><span class="pl-pds">"</span>Content-Type: application/json<span class="pl-pds">"</span></span> \
-  -d <span class="pl-s"><span class="pl-pds">'</span>{</span>
-<span class="pl-s">    "messages": [</span>
-<span class="pl-s">      {"role": "user", "content": "Describe a pelicans ideal corporate retreat"}</span>
-<span class="pl-s">    ]</span>
-<span class="pl-s">  }<span class="pl-pds">'</span></span> <span class="pl-k">|</span> jq</pre></div>
-<p>I built a new plugin for LLM just now called <a href="https://github.com/simonw/llm-llama-server">llm-llama-server</a> to make interacting with this API more convenient. You can use that like this:</p>
-<div class="highlight highlight-source-shell"><pre>llm install llm-llama-server
-llm -m llama-server <span class="pl-s"><span class="pl-pds">'</span>invent a theme park ride for a pelican<span class="pl-pds">'</span></span></pre></div>
-<p>Or for vision models use <code>llama-server-vision</code>:</p>
-<div class="highlight highlight-source-shell"><pre>llm -m llama-server-vision <span class="pl-s"><span class="pl-pds">'</span>describe this image<span class="pl-pds">'</span></span> -a https://static.simonwillison.net/static/2025/pelican-group.jpg</pre></div>
-<p>The LLM plugin uses the streaming API, so responses will stream back to you as they are being generated.</p>
-<p><img src="https://static.simonwillison.net/static/2025/theme-park.gif" alt="Animated terminal session. $ llm -m llama-server 'invent a theme park ride for a pelican' Okay, this is a fun challenge! Let's design a theme park ride specifically for a pelican – a majestic, diving bird. Here’s my concept:  Ride Name: “Pelican’s Plunge”   Theme: Coastal Exploration &amp; Underwater Discovery  Target Audience: Families with children (8+ recommended), animal lovers, and those who enjoy a mix of thrills and gentle exploration.  Ride Type: A partially submerged, rotating “pod” experience with a focus on simulated dives and underwater views.  Ride Mechanics:  1. The Pod: Guests ride in a large, semi-circular pod shaped like a stylized, open-mouthed pelican’s beak.  It’s made of reinforced, transparent acrylic and has comfortable seating inside. The pod can hold around 8-10 people.  2. The Launch: Guests board the pod and are positioned facing forward. The ride begins with a slow, gentle rise up a ramp, mimicking the pelican’s ascent from the water.   3. The &quot;Dive&quot; Sequence: This is the core of the ride.  The pod enters a large, darkened chamber that simulates the ocean floor.     * Rotating Simulation: The pod begins to rotate slowly, mimicking a pelican diving into the water.     * Water Effects:  The chamber is filled with realistic, moving water – created by a sophisticated system of pumps, jets, and screens. This creates the illusion of being surrounded by the ocean.    * Projection Mapping:  Powerful projection mapping is used on the walls and floor to create stunning underwater visuals: schools of fish, coral reefs, kelp forests, and even glimpses of marine life like sharks (safely projected, of course!).    * “Dive” Trigger:  At specific points in the rotation, the pod will perform a short, controlled “dive” – a sudden drop that creates a feeling of speed and the sensation of plunging into the water.  Sensors detect the speed of the rotation and trigger these dives.  4. Underwater Exploration: After the initial dive, the pod continues its rotation, offering increasingly detailed views of the projected underwater scenes.      * Interactive Elements (Optional):  Small, strategically placed screens could display sonar-like visuals, allowing guests to “scan” the environment and reveal hidden creatures or details.  5. The Ascent &amp; Return: The ride gradually slows, bringing the pod back to the surface. As it rises, the projections shift to show a sunny coastline and seabirds flying overhead. The pod returns to the loading area.   Theming &amp; Atmosphere:  * Sound Design: Immersive sound effects – waves crashing, seabirds calling, underwater ambience – are crucial. * Lighting: Dynamic lighting that shifts with the projections and the &quot;dive&quot; sequences. * Pelican Props:  Realistic pelican statues and props are integrated throughout the queue and surrounding area. * Educational Element: Small informational panels explain pelican behavior, conservation efforts, and the importance of marine ecosystems.  Why this works for a pelican:  * Mimics Natural Behavior: The ride accurately reflects a pelican’s primary activity – diving for fish. * Visually Engaging: The combination of water effects, projection mapping, and rotation creates a captivating and immersive experience. * Family-Friendly Thrill: The “dive” sequences provide a moderate thrill without being overly intense. * Educational Value: It promotes awareness and appreciation for these amazing birds and the marine environment.    ---  Further Development Ideas:  * Different &quot;Dive Routes&quot;: Create multiple routes through the underwater environment, each with a different theme (e.g., a coral reef route, a deep-sea route, a pelican’s feeding ground route). * Animatronic Pelican: A large animatronic pelican could “greet” guests as they board the pod. * Smell Integration: Subtle scents of saltwater and seaweed could enhance the immersion.    Would you like me to brainstorm a specific element of the ride further, such as:  *   The projection mapping details? *   The technical aspects of the water effects? *   A unique interactive element? " style="max-width: 100%;" /></p>
-    
-        <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llama-cpp">llama-cpp</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/homebrew">homebrew</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/May/10/llama-cpp-vision/#atom-everything>
-
----
-
-## TIL: SQLite triggers
-
-date: 2025-05-10, updated: 2025-05-10, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://til.simonwillison.net/sqlite/sqlite-triggers">TIL: SQLite triggers</a></strong></p>
-I've been doing some work with SQLite triggers recently while working on <a href="https://github.com/simonw/sqlite-chronicle">sqlite-chronicle</a>, and I decided I needed a single reference to exactly which triggers are executed for which SQLite actions and what data is available within those triggers.</p>
-<p>I wrote this <a href="https://github.com/simonw/til/blob/main/sqlite/triggers.py">triggers.py</a> script to output as much information about triggers as possible, then wired it into a TIL article using <a href="https://cog.readthedocs.io/">Cog</a>. The Cog-powered source code for the TIL article <a href="https://github.com/simonw/til/blob/main/sqlite/sqlite-triggers.md?plain=1">can be seen here</a>.
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/til">til</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/sql">sql</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/May/10/til-sqlite-triggers/#atom-everything>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-10, from: Dave Winer's linkblog)
-
-Tesla Reportedly Has $800 Million Worth of Cybertrucks That Nobody Wants. 
-
-<br> 
-
-<https://www.vice.com/en/article/tesla-reportedly-has-800-million-worth-of-cybertrucks-that-nobody-wants/>
-
----
-
-**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
-
-The RNC says they’re interviewing the “smartest people” in every state to join DOGE, so we took the quiz. Spoiler: it’s not going well. 
-
-🧵 Read the full breakdown and laugh (so you don’t cry): https://bit.ly/3SubBbb
-
-#WeTheBuilders #BuiltToServe #FederalGov #DOGE 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lorrvmccpd2r>
-
----
-
-**@Feed for Alt USDS** (date: 2025-05-10, from: Feed for Alt USDS)
-
-And we also have zombie contracts too: revived after being canceled by DOGE. Is this what happens when we let grifters and children run the show?
-
-https://www.nytimes.com/2025/05/09/us/politics/doge-musk-contracts-agencies.html 
-
-<br> 
-
-<https://bsky.app/profile/altusds.altgov.info/post/3lorocc2ifk2b>
-
----
-
-## I was wrong: AI Won't Overtake Software Engineering
-
-date: 2025-05-10, updated: 2025-05-10, from: Tom Kellog blog
-
-In January I wrote that software engineers would be replaced by people closer to the problem. I was
-wrong.
-
-Most people aren't the type of people that will push through problems to make software work. 
-
-<br> 
-
-<http://timkellogg.me/blog/2025/05/10/ai-code-updated>
 

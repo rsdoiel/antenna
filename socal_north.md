@@ -1,11 +1,145 @@
 ---
 title: socal north
-updated: 2025-05-17 14:07:33
+updated: 2025-05-18 06:07:23
 ---
 
 # socal north
 
-(date: 2025-05-17 14:07:33)
+(date: 2025-05-18 06:07:23)
+
+---
+
+## Denser housing may be on the horizon near LA's transit centers
+
+date: 2025-05-18, updated: 2025-05-18, from: The LAist
+
+SB79 would loosen zoning requirements within a half mile of light rail and subway stops. 
+
+<br> 
+
+<https://laist.com/news/transportation/denser-housing-near-transit-sb-79>
+
+---
+
+## After two decades, one man's obsession with the lilac is coming to an end in Idyllwild
+
+date: 2025-05-18, updated: 2025-05-18, from: The LAist
+
+Gary Parton has cultivated different varieties of the flower at his home, inviting the public to experience his Idyllwild Lilac Garden every year. This could be its last. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/lilac-garden-idyllwild-gary-parton>
+
+---
+
+## How LA inspired a Korean American artist whose place in history is still being written
+
+date: 2025-05-18, updated: 2025-05-18, from: The LAist
+
+Abstract painter Young-Il Ahn is the subject of a career survey at Perrotin Los Angeles until May 24. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/perrotin-los-angeles-young-il-anh-korean-american-abstract-painter-los-angeles>
+
+---
+
+## Labubu love runs deep in Boyle Heights — and it’s boosting business for local vendors
+
+date: 2025-05-18, updated: 2025-05-18, from: The LAist
+
+The viral, rabbit-eared dolls have sparked a booming micro-economy. But rising import costs could bring it all to a halt. 
+
+<br> 
+
+<https://laist.com/news/labubu-love-runs-deep-in-boyle-heights-and-its-boosting-business-for-local-vendors>
+
+---
+
+## Silent Stars Shine Again: Honoring Santa Clarita’s Cinematic Roots
+
+date: 2025-05-17, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Santa Clarita’s long-standing connection to the film industry takes center stage once again as the Newhallywood Silent Film Festival returns on Memorial Day weekend, May 23 through May 25. This cherished, annual event celebrates the golden age of silent cinema, honors the pioneers who shaped the foundation of Hollywood and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/17/silent-stars-shine-again-honoring-santa-claritas-cinematic-roots/">Silent Stars Shine Again: Honoring Santa Clarita’s Cinematic Roots</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/17/silent-stars-shine-again-honoring-santa-claritas-cinematic-roots/>
+
+---
+
+## FBI: Explosion in Palm Springs an 'intentional act of terrorism'
+
+date: 2025-05-17, updated: 2025-05-18, from: The LAist
+
+An explosion occurred just before 11 a.m. on Saturday morning. One of the buildings damaged is a fertility clinic. 
+
+<br> 
+
+<https://laist.com/news/one-person-believed-dead-after-explosion-rocked-the-city-of-palm-springs>
+
+---
+
+## Amid global competition for production business, Hollywood is hurting
+
+date: 2025-05-17, updated: 2025-05-17, from: The LAist
+
+Hollywood's plummeting film and TV production levels have studio executives and grassroots groups pushing for better incentives to keep business in California. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/amid-global-competition-for-production-business-hollywood-is-hurting>
+
+---
+
+## New to your queerness? Here's how to find a supportive community in your area
+
+date: 2025-05-17, updated: 2025-05-17, from: The LAist
+
+It can be intimidating to enter a new queer space, especially if you're starting to explore your gender and sexuality. Organizers share advice on how to find a support network with confidence. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/new-to-your-queerness-how-to-find-a-supportive-community-in-your-area>
+
+---
+
+## Remembering 'Grandma Lee,' who defended Glendale’s monument to 'comfort women'
+
+date: 2025-05-17, updated: 2025-05-17, from: The LAist
+
+In Glendale today, Korean American groups pay tribute to one of the last survivors of Japan’s wartime sexual slavery. 
+
+<br> 
+
+<https://laist.com/news/comfort-women-ok-seon-lee-glendale-south-korea>
+
+---
+
+## Heads up! Fine art is on a billboard near you this month in LA
+
+date: 2025-05-17, updated: 2025-05-17, from: The LAist
+
+Thirty artists will have their work on billboards across L.A. this May, thanks to The Billboard Creative. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/art-billboards-nonprofit-collective-los-angeles>
+
+---
+
+## Soil samples from Pasadena schools show lead, other heavy metals. What does that mean?
+
+date: 2025-05-17, updated: 2025-05-18, from: The LAist
+
+Pasadena Unified School District released results from soil samples this week, five months after the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/education/soil-samples-pasadena-unified-schools-lead-arsenic-chromium>
 
 ---
 
@@ -1539,118 +1673,4 @@ date: 2025-05-11, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/health/memorialcare-strike-long-beach-medical-center-nurses-miller-childrens-hospital-memorial>
-
----
-
-## The FDA approves first US at-home tool as a Pap-smear alternative
-
-date: 2025-05-10, updated: 2025-05-10, from: The LAist
-
-Women can use a wand to collect a vaginal sample, then mail it to a lab that will screen for cervical cancer. The device will be available by prescription through a telehealth service. 
-
-<br> 
-
-<https://laist.com/news/health/the-fda-approves-first-us-at-home-tool-as-a-pap-smear-alternative>
-
----
-
-## 15-year-old girl goes missing in Lakewood
-
-date: 2025-05-10, from: Longbeach Post
-
-<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1024x578.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-768x434.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1536x868.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-2048x1157.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1200x678.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-1568x886.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/10125506/screenshot-2025-05-10-at-125405pm-444275-lgywlr4a-978941-BKQxHMRo-400x226.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>"Mikee's family is concerned for her well-being and is asking for the public’s help," the LASD said.</p>
-<p>The post <a href="https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood">15-year-old girl goes missing in Lakewood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/15-year-old-girl-goes-missing-in-lakewood>
-
----
-
-## Elizabeth Holmes' partner raises millions for new biotech testing startup
-
-date: 2025-05-10, updated: 2025-05-11, from: The LAist
-
-The incarcerated former Silicon Valley star is advising her partner on a new health tech startup. Holmes was convicted of defrauding investors in her blood-testing company Theranos. 
-
-<br> 
-
-<https://laist.com/news/elizabeth-holmes-partner-raises-millions-for-new-biotech-testing-startup>
-
----
-
-## Hot. Cold. Hot. Cold. Today is hot. But tomorrow is cold. No, really
-
-date: 2025-05-10, updated: 2025-05-10, from: The LAist
-
-We've been experiencing some whiplash weather, alternating between hot and cold and hot and cold. 
-
-<br> 
-
-<https://laist.com/news/heat-wave-peaks-saturday-but-a-swing-in-temperatures-is-expected-early-next-week>
-
----
-
-## A piece of LA history is on the 2025 list of most endangered historic places in the US
-
-date: 2025-05-10, updated: 2025-05-10, from: The LAist
-
-This year, the annual list from the National Trust for Historic Preservation includes a mysterious castle, flooded communities in Florida and North Carolina, historic hotels and a gigantic turtle. 
-
-<br> 
-
-<https://laist.com/news/la-history/piece-of-la-history-2025-list-of-most-endangered-historic-places-us>
-
----
-
-## Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency
-
-date: 2025-05-10, from: Longbeach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The money was funding 79 positions across the city for young workers seeking experience in health care, education, shelters and other social services.</p>
-<p>The post <a href="https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding">Long Beach loses $9.5 million in social welfare programs as Trump Admin dismantles AmeriCorps service agency</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/politics/long-beach-americorps-cuts-trump-funding>
-
----
-
-## Why the SoCal studio where iconic murals were created remains carefully preserved today
-
-date: 2025-05-10, updated: 2025-05-10, from: The LAist
-
-In its past life, the office of Claremont Eye Associates was the Millard Sheets studio, where giant, breathtaking mosaic murals were made for more than a hundred buildings that dot the region. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/millard-sheets-studio-mosaic-mural-claremont-eye-associates>
-
----
-
-## Stay local this Mother’s Day: 9 Boyle Heights places to brunch with mama
-
-date: 2025-05-10, updated: 2025-05-10, from: The LAist
-
-From old-school favorites to newer hotspots, we’ve got your Día de las Madres brunch plans covered. 
-
-<br> 
-
-<https://laist.com/news/food/mothers-day-9-boyle-heights-places-to-brunch>
-
----
-
-## Trump signs executive order for more veteran housing at West LA VA campus
-
-date: 2025-05-10, updated: 2025-05-10, from: The LAist
-
-The president's order calls for a plan to house 6,000 veterans in less than three years. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/trump-signs-executive-order-for-more-veteran-housing-at-west-la-va-campus>
 

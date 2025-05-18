@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-17 14:07:41
+updated: 2025-05-18 06:07:31
 ---
 
 # retro computing
 
-(date: 2025-05-17 14:07:41)
+(date: 2025-05-18 06:07:31)
+
+---
+
+## b.log 2025/05/17 - Eurovision 2025 Grand Final.
+
+date: 2025-05-17, from: Richard Murray's blog
+
+Eurovision 2025 Grand Final. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250517>
 
 ---
 
@@ -174,16 +186,4 @@ Linux Mint getting sound on an Asus E200H in 2025.
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250511>
-
----
-
-## b.log 2025/05/10 - No audio, ESP32-Cam enhancements, Eurovision.
-
-date: 2025-05-10, from: Richard Murray's blog
-
-No audio, ESP32-Cam enhancements, Eurovision. 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20250510>
 

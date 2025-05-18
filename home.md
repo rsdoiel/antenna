@@ -1,11 +1,357 @@
 ---
 title: home
-updated: 2025-05-17 14:07:40
+updated: 2025-05-18 06:07:30
 ---
 
 # home
 
-(date: 2025-05-17 14:07:40)
+(date: 2025-05-18 06:07:30)
+
+---
+
+## Cheer Up! Solutions for Sunflowers That Droop
+
+date: 2025-05-18, from: The Gardener's Path
+
+<p>Why are your sunflowers drooping? Whether the flowers are facing the ground or your seedlings are slumped, you can use these tips to play detective and possibly revive them. Causes include pests, transplant shock, and seed heads forming. Learn ways to spot trouble and possible solutions with this handy guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/sunflowers-droop/">Cheer Up! Solutions for Sunflowers That Droop</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/sunflowers-droop/>
+
+---
+
+## How to Plant and Grow Greek Oregano
+
+date: 2025-05-18, from: The Gardener's Path
+
+<p>Greek oregano is one of the most popular culinary herbs to grow for a reason. A common seasoning in pizza and pasta sauce, this spicy and flavorful perennial is also amazingly hardy and very easy to grow in the home garden. Continue reading for more information on how to grow and use Greek oregano.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-greek-oregano/">How to Plant and Grow Greek Oregano</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-greek-oregano/>
+
+---
+
+## Learn When and How to Divide Hosta Plants
+
+date: 2025-05-17, from: The Gardener's Path
+
+<p>Hostas need dividing to look as good as possible. As they age, the center starts to look a bit shabby, yellowed, and sparse. They may even stop sending up those lovely flowers. By dividing them, they get a refresh. Plus, when you divide your hostas, you get new free plants out of the deal so you can expand your garden.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/divide-hostas/">Learn When and How to Divide Hosta Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/divide-hostas/>
+
+---
+
+## Waterfalls, Wildflowers, and Waves of Sand: 10 National Parks That Shine in Spring
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+From waterfalls to wildflowers, these Western national parks' landscapes are not to be missed in spring. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/best-national-parks-in-spring>
+
+---
+
+## The Ultimate Insider Guide to Joshua Tree and the High Desert
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+A local shares her tips on what to do, eat, drink, and see in Joshua Tree and the other High Desert communities. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/what-do-in-joshua-tree-high-desert>
+
+---
+
+## Where to See Some of Spring’s Most Spectacular Blooms in the West
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Spring in the West is nothing short of magical, with an explosion of color painting the landscape across the region. Here's where to visit. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/where-to-see-spring-blooms-in-the-west>
+
+---
+
+## How to Design a Perennial Garden
+
+date: 2025-05-17, from: The Gardener's Path
+
+<p>Perennial gardens feature plants that return each year, providing long-lasting color, fragrance, and texture without the need for replanting. With thoughtful planning, they can offer visual interest from spring through fall. Learn how to design and plant a perennial garden in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/design-perennial-garden/">How to Design a Perennial Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/design-perennial-garden/>
+
+---
+
+## Road Trips
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Outdoor Adventure
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Travel the West
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Gifts & Shopping
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Flowers & Plants
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## DIY Projects
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Wine & Drinks
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings>
+
+---
+
+## The Wines That Pair Best with Summer
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+The Sunset Wine Club features the best bottles in the West, perfectly paired with recipes in the magazine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/wine-club-pairings-home-and-design-issue-2025>
+
+---
+
+## Restaurants
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants>
+
+---
+
+## Recipes
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Keep an Eye Out for These Summer Music Festivals Across The West
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+From Bottlerock to Hard Summer to Outside Lands, these are best summer music festivals in the West to add to your lineup. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-summer-music-festivals-in-the-west>
+
+---
+
+## From Maritime Decor to ‘Chateaucore’, These Are Summer’s Biggest Trends
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
+
+---
+
+## How to Identify and Control Squash Bugs
+
+date: 2025-05-17, from: The Gardener's Path
+
+<p>Are you struggling to combat a squash bug infestation in the garden? Anasa tristis is a pesky insect that resembles a stink bug in its adult stage, and these pests can cause damage and wilting in your squash plants and other edibles. In this guide we offer tips that can help to save your cucurbit harvest. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/squash-bugs-2/">How to Identify and Control Squash Bugs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/squash-bugs-2/>
 
 ---
 
@@ -1321,116 +1667,4 @@ date: 2025-05-11, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vines/train-clematis-vertically/>
-
----
-
-## How to Grow and Care for Japanese White Pines
-
-date: 2025-05-10, from: The Gardener's Path
-
-<p>Japanese white pines (Pinus parviflora) are like living works of evergreen art with their twisting colorful needles, elegant branches, and crooked trunks. Plus, these trees are extremely tough, requiring almost zero maintenance to keep them healthy. Learn how to grow Japanese white pine in the home garden in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-japanese-white-pine/">How to Grow and Care for Japanese White Pines</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/landscape-trees/grow-japanese-white-pine/>
-
----
-
-## Learn How and When to Deadhead Daisies
-
-date: 2025-05-10, from: The Gardener's Path
-
-<p>Daisies of various types offer masses of cheerful blossoms that open randomly instead of all at once on the laziest, haziest summer days. With an easy gardening technique called deadheading, you can keep your flower patch looking its best at all times. Read on to learn how easy it is to deadhead throughout the season.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/deadhead-daisies/">Learn How and When to Deadhead Daisies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/deadhead-daisies/>
-
----
-
-## How to Use Straw Mulch in the Vegetable Garden
-
-date: 2025-05-10, from: The Gardener's Path
-
-<p>Straw is a byproduct of growing grain crops that happens to be a highly beneficial material for mulching vegetable gardens. It is light and easy to work with, fairly inexpensive, and can drastically reduce time spent weeding and watering. Learn more about using straw as mulch for vegetables in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vegetables/straw-mulch-vegetable-garden/">How to Use Straw Mulch in the Vegetable Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vegetables/straw-mulch-vegetable-garden/>
-
----
-
-## How to Plant, Grow, and Care for Impatiens Flowers
-
-date: 2025-05-10, from: The Gardener's Path
-
-<p>Impatiens are ready for their comeback. The once incredibly popular shade-lover has fallen out of favor over the past decade since downy mildew began wiping it out across the UK and US. But growers have found new techniques to help prevent this disease, and resistant cultivars are popping up on the market. Read more.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-impatiens/">How to Plant, Grow, and Care for Impatiens Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/grow-impatiens/>
-
----
-
-## Are Marigold Flowers Edible? Yes, and Here’s How to Use Them
-
-date: 2025-05-10, from: The Gardener's Path
-
-<p>Are marigolds part of your culinary repertoire? They should be! These flowers make a nice addition to a variety of savory dishes, and desserts too. Use them in tomato or cucumber salad, egg or chicken dishes, or a sandwich. Amp up homemade biscotti or a trifle. Learn how to make the most of edible marigolds now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/edible-marigolds/">Are Marigold Flowers Edible? Yes, and Here&#8217;s How to Use Them</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/edible-marigolds/>
-
----
-
-## How to Grow and Care for Hollyhock Flowers
-
-date: 2025-05-10, from: The Gardener's Path
-
-<p>Growing hollyhocks is rewarding for people and pollinators. They offer a beautiful spectrum of picturesque petals, making them a must-have for any floral garden! And you only need to plant them once to see them return for years to come, via self-sowing or seed saving. Learn how to grow and care for your own hollyhocks.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-hollyhocks/">How to Grow and Care for Hollyhock Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/grow-hollyhocks/>
-
----
-
-## How I compost, today
-
-date: 2025-05-10, from: Greg Alder's blog, Yard Post
-
-<p>This is how I make compost, today. Each morning, I take the “chicken bucket” from the kitchen down to the chickens. The chicken bucket is what we use to hold kitchen scraps: banana peels, bits of onion, coffee grounds, ribs of kale leaves, egg shells, even detritus such as sweepings from the floor and fingernail [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/how-i-compost-today/">How I compost, today</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/how-i-compost-today/>
-
----
-
-## Learn About Brambles: the Marvelous Plants of the Rubus Genus
-
-date: 2025-05-10, from: The Gardener's Path
-
-<p>Brambles can be a marvelous addition to your yard or a hideous curse, depending on what you’re dealing with. Whether you’re thinking about planting something in the Rubus genus in your garden or you’re trying to manage some unwelcome canes, it helps to understand these plants. Learn all you need to know in our guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/fruit/brambles/">Learn About Brambles: the Marvelous Plants of the Rubus Genus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/fruit/brambles/>
 

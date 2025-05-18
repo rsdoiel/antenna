@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-05-17 14:07:37
+updated: 2025-05-18 06:07:27
 ---
 
 # writing
 
-(date: 2025-05-17 14:07:37)
+(date: 2025-05-18 06:07:27)
+
+---
+
+## Vanishing World by Sayaka Murata: Review by Niall Harrison
+
+date: 2025-05-17, from: Locus Magazine
+
+<p><strong>Vanishing World</strong>, Sayaka Murata (Grove Press 978-0-8021-6366-7, $28.00, 233pp, hc) April 2025.</p>
+<p>So I turned to <strong>Vanishing World </strong>in the hopes of finding something that would refuse my subcon­scious’s attempts to read through the lens of cur­rent events, and more or less succeeded. Sayaka Murata’s third novel in English is a cunning inversion of her first. Both novels have a kind of thought-experiment clarity to them; both are streamlined  <a href="https://locusmag.com/2025/05/vanishing-world-by-sayaka-murata-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/vanishing-world-by-sayaka-murata-review-by-niall-harrison/>
 
 ---
 
@@ -553,17 +566,4 @@ date: 2025-05-11, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/05/one-way-witch-by-nnedi-okorafor-review-by-gary-k-wolfe/>
-
----
-
-## Where the Axe Is Buried by Ray Nayler: Review by Niall Harrison
-
-date: 2025-05-10, from: Locus Magazine
-
-<p><strong>Where the Axe Is Buried</strong>, Ray Nayler (MCD 978-0-374-61536-9, $28.00, 336pp, hc) April 2025.</p>
-<p>I came to Ray Nayler’s <strong>Where the Axe Is Bur­ied </strong>on a fool’s errand. I am not American, but I have loved America, in spite of its sins, the imperfect ideals of it, the casually confident literature of it, the soul-shaping landscapes of it, all filtered through my own partial personal experiences of it in  <a href="https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/05/where-the-axe-is-buried-by-ray-nayler-review-by-niall-harrison/>
 

@@ -1,11 +1,88 @@
 ---
 title: journalism
-updated: 2025-05-17 14:07:38
+updated: 2025-05-18 06:07:28
 ---
 
 # journalism
 
-(date: 2025-05-17 14:07:38)
+(date: 2025-05-18 06:07:28)
+
+---
+
+## Protesters arrested during on-campus demonstration remembering Nakba Day
+
+date: 2025-05-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two people were arrested during a demonstration held Thursday, May 15 by pro-Palestine organizations at UCLA in remembrance of the 1948 Nakba. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/17/protesters-arrested-during-on-campus-demonstration-remembering-nakba-day/>
+
+---
+
+## Gallery: Hammer Museum’s Arts Party brings students together for after-hours crafts, music
+
+date: 2025-05-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Hammer Museum hosted Arts Party: Transcend, an event featuring performances, art-making workshops, exhibitions, food and more. The annual event allowed college students to roam the museum, enjoy sets from DJ Starrza and watch a performance from Orion Sun. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/17/gallery-hammer-museums-arts-party-brings-students-together-for-after-hours-crafts-music/>
+
+---
+
+## Spring Sing 2025 showcases artistic talent as Ella Gibson, ACA All Day win awards
+
+date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+With more than 75 years of UCLA history, Spring Sing 2025 was back in full bloom.
+After the annual student talent showcase and competition was canceled last year, the event returned to the Los Angeles Tennis Center on Friday night. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/17/spring-sing-2025-showcases-artistic-talent-as-ella-gibson-aca-all-day-win-awards/>
+
+---
+
+## USC celebrates 142nd commencement
+
+date: 2025-05-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Commencement speaker Jon M. Chu emphasized the power of storytelling at the ceremony.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/16/usc-celebrates-142nd-commencement/">USC celebrates 142nd commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/16/usc-celebrates-142nd-commencement/>
+
+---
+
+## Bruins renew Bruin U-Pass, vote in new council in 2025 USAC election
+
+date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 16 at 11:05 p.m.</em>
+Undergraduate students elected a new Undergraduate Students Association Council and renewed funding for the Bruin U-Pass in the 2025 USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/bruins-renew-bruin-u-pass-vote-in-new-council-in-2025-usac-election/>
+
+---
+
+## Gov. Gavin Newsom’s May Revision reduces proposed budget cuts to the UC
+
+date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gov. Gavin Newsom&#8217;s May 14 revision of the state budget reduced proposed funding cuts to the UC.
+While Newsom&#8217;s initial January budget proposed that the state cut $396.6 million of the UC&#8217;s funding, his revised May budget would cut only $129.7 million. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/gov-gavin-newsoms-may-revision-reduces-proposed-budget-cuts-to-the-uc/>
 
 ---
 
@@ -1150,248 +1227,4 @@ After kicking off her latest concert trek April 28, the 35-time Grammy winner pl
 <br> 
 
 <https://dailybruin.com/2025/05/10/concert-review-beyonces-extravagance-nostalgia-prove-cowboy-carter-tour-isnt-her-1st-rodeo/>
-
----
-
-## Exploring the world of college admissions
-
-date: 2025-05-10, from: The Daily Trojan (USC Student Newspaper)
-
-<p>As the incoming freshman class prepares to attend their future colleges, hosts Ting Ting Chen and Kaylee Eiber discuss their own college journeys and how to navigate a changing college admissions system.</p>
-<p>The post <a href="https://dailytrojan.com/2025/05/10/exploring-the-world-of-college-admissions/">Exploring the world of college admissions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/05/10/exploring-the-world-of-college-admissions/>
-
----
-
-## Trump declares West LA VA campus as National Center for Warrior Independence
-
-date: 2025-05-10, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated May 12 at 12:35 a.m.</em>
-President Donald Trump signed an executive order Friday designating the West Los Angeles Veterans Affairs campus as the National Center for Warrior Independence. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/10/trump-declares-west-la-va-campus-as-national-center-for-warrior-independence/>
-
----
-
-## Blood Moon takes over the sky
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>As the cold winter night began to set and the Moon was bright, the Physics and Planetary Sciences Department hosted a lunar eclipse viewing. Students</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/blood-moon-takes-over-the-sky/">Blood Moon takes over the sky</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/blood-moon-takes-over-the-sky/?utm_source=rss&utm_medium=rss&utm_campaign=blood-moon-takes-over-the-sky>
-
----
-
-## Student Health Center hosts workshops at wellness fair
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>Director of Student Health Center Houry Tanashian continues the legacy of hosting the Student Health and Wellness Fair at Pierce College in Building 600 on</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/student-health-center-hosts-workshops-at-wellness-fair/">Student Health Center hosts workshops at wellness fair</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/student-health-center-hosts-workshops-at-wellness-fair/?utm_source=rss&utm_medium=rss&utm_campaign=student-health-center-hosts-workshops-at-wellness-fair>
-
----
-
-## Pierce students grapple with food insecurity
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>Three points for each can of vegetable soup. Four points for pasta. Ten points total, per week. Pierce College student Carolyn Mansager is not a</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/pierce-students-grapple-with-food-insecurity/">Pierce students grapple with food insecurity</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/pierce-students-grapple-with-food-insecurity/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-students-grapple-with-food-insecurity>
-
----
-
-## Students gather to remember
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>Multicultural Center hosts the Armenian Genocide Commemoration. Students, faculty, and community members unite to honor the sacrifices of the Armenian Genocide victims. The Multicultural Center</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/students-gather-to-remember/">Students gather to remember</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/students-gather-to-remember/?utm_source=rss&utm_medium=rss&utm_campaign=students-gather-to-remember>
-
----
-
-## Santa Clarita honors Louis E. Brathwaite, key architect of city’s founding
-
-date: 2025-05-10, from: The Canyon News (COC Student Newspaper)
-
-<p>Santa Clarita dedicated a street in the name of the late Louis&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/louis-e-brathwaite/">Santa Clarita honors Louis E. Brathwaite, key architect of city&#8217;s founding</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/louis-e-brathwaite/>
-
----
-
-## Finding community among fellow thespians
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>Lights, camera, action! On Feb. 11, 25 Pierce College theater students attended the Kennedy Center American College Theater Festival in Mesa, Ariz. The conference was</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/finding-community-among-fellow-thespians/">Finding community among fellow thespians</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/finding-community-among-fellow-thespians/?utm_source=rss&utm_medium=rss&utm_campaign=finding-community-among-fellow-thespians>
-
----
-
-## Umoja kicks off spring semester with event
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>Pierce College students gathered at the Great Hall for the Umoja program’s spring kickoff on Wednesday, Feb 26, to go over the program’s requirements, expectations</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/umoja-kicks-off-spring-semester-with-event/">Umoja kicks off spring semester with event</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/umoja-kicks-off-spring-semester-with-event/?utm_source=rss&utm_medium=rss&utm_campaign=umoja-kicks-off-spring-semester-with-event>
-
----
-
-## Pierce College Council tackles new student fee policy
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>The Pierce College Council met to discuss ongoing updates and concerns from the standing committees and department members in a Zoom meeting on Thursday, Feb.</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/pierce-college-council-tackles-new-student-fee-policy/">Pierce College Council tackles new student fee policy</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/pierce-college-council-tackles-new-student-fee-policy/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-council-tackles-new-student-fee-policy>
-
----
-
-## Dream center offers support amid uncertainty
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>As concerns about mass deportations and immigration arrests abound, undocumented students on college campuses are actively looking for resources to help them navigate these challenges.</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/10/dream-center-offers-support-amid-uncertainty/">Dream center offers support amid uncertainty</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/10/dream-center-offers-support-amid-uncertainty/?utm_source=rss&utm_medium=rss&utm_campaign=dream-center-offers-support-amid-uncertainty>
-
----
-
-## Theater review: Untimely patriotism, forgettable performances set the sun on ‘Annie’
-
-date: 2025-05-10, from: The Daily Bruin (UCLA Student Newspaper)
-
-For &#8220;Annie,&#8221; the sun is not coming out much.
-Broadway&#8217;s beloved orphan has settled in Los Angeles for a brief run at Hollywood&#8217;s Dolby Theatre until May 18. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/10/theater-review-untimely-patriotism-forgettable-performances-set-the-sun-on-annie/>
-
----
-
-## Like father, like daughter: A CSUN graduation shared
-
-date: 2025-05-10, from: The Sundail (CSUN Student Newspaper)
-
-As final exams come to an end, graduation season begins and the preparations at CSUN have taken over the campus for the last two weeks to be ready for its... 
-
-<br> 
-
-<https://sundial.csun.edu/193645/news/like-father-like-daughter-a-csun-graduation-shared/>
-
----
-
-## Umoja Club honors King Mansa Musa’s legacy
-
-date: 2025-05-10, from: The Round Up (Pierce College Student Newspaper)
-
-<p>The Umoja club hosted a presentation on King Mansa Musa in the Multicultural Center on Thursday, Feb. 20 to celebrate Black History Month. Students got</p>
-<p>The post <a href="https://theroundupnews.com/2025/05/09/umoja-club-honors-king-mansa-musas-legacy/">Umoja Club honors King Mansa Musa’s legacy</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
- 
-
-<br> 
-
-<https://theroundupnews.com/2025/05/09/umoja-club-honors-king-mansa-musas-legacy/?utm_source=rss&utm_medium=rss&utm_campaign=umoja-club-honors-king-mansa-musas-legacy>
-
----
-
-## The Temptations receive 2025 UCLA Spring Sing George and Ira Gershwin Award
-
-date: 2025-05-10, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Student Alumni Association announced The Temptations as the Spring Sing 2025 George and Ira Gershwin Award recipients.
-Taking place at the Los Angeles Tennis Center on May 16, the annual musical tradition will honor the Motown group’s legacy and include performances from 12 student acts as well as its comedy troupe host Company after happening in a virtual format last year following the Palestine solidarity encampments. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/09/the-temptations-receive-2025-ucla-spring-sing-george-and-ira-gershwin-award/>
-
----
-
-## College of the Canyons hosts annual Job Fair to connect students with local employers
-
-date: 2025-05-10, from: The Canyon News (COC Student Newspaper)
-
-<p>It was a busy day at College of the Canyons as hundreds&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/coc-job-fair/">College of the Canyons hosts annual Job Fair to connect students with local employers</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/coc-job-fair/>
-
----
-
-## Star-studded lineup takes to the shore at BeachLife Festival
-
-date: 2025-05-10, from: The Sundail (CSUN Student Newspaper)
-
-Redondo Beach’s Seaside Lagoon transformed into the BeachLife Festival grounds for the sixth time on May 2 through May 4. The festival attracted around 33,000 music lovers throughout its annual... 
-
-<br> 
-
-<https://sundial.csun.edu/193626/arts-entertainment/star-studded-lineup-takes-to-the-shore-at-beachlife-festival/>
-
----
-
-## Album review: Kali Uchis’ ‘Sincerely,’ artfully explores love, lacks sonic diversity
-
-date: 2025-05-10, from: The Daily Bruin (UCLA Student Newspaper)
-
-Kali Uchis has released a wonderful album for slow, sweet summer days.
-The Colombian-American singer’s latest album, “Sincerely,” marks her third LP in the past three years. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/09/album-review-kali-uchis-sincerely-artfully-explores-love-lacks-sonic-diversity/>
 

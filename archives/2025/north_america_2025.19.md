@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-05-17 14:07:33
+updated: 2025-05-18 06:07:23
 ---
 
 # north america
 
-(date: 2025-05-17 14:07:33)
+(date: 2025-05-18 06:07:23)
+
+---
+
+## SCOTUS Judo Flips Trump
+
+date: 2025-05-17, from: The Contrarian
+
+Publisher's Roundup, 18 
+
+<br> 
+
+<https://contrarian.substack.com/p/scotus-judo-flips-trump>
+
+---
+
+##  YOU LOVE TO SEE IT: Face Off At The Airport 
+
+date: 2025-05-17, from: The Lever News
+
+ Airport security gets less invasive, unemployment scores a boost, judgment day for jet fuel spill, and data trackers pay up.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-face-off-at-the-airport/>
 
 ---
 
@@ -1006,28 +1030,4 @@ date: 2025-05-11, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-welcome-to-america-no-not-you/>
-
----
-
-## Trump’s Crypto Conflicts Catch Fire
-
-date: 2025-05-10, from: The Contrarian
-
-Publisher's Roundup, 17 
-
-<br> 
-
-<https://contrarian.substack.com/p/trumps-crypto-conflicts-catch-fire>
-
----
-
-##  YOU LOVE TO SEE IT: Log Off, Kids 
-
-date: 2025-05-10, from: The Lever News
-
- Offline is the new cool, offshore accounts are caught red-handed, a crypto kingpin is behind bars, and the Pentagon does its own repairs.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-log-off-kids/>
 

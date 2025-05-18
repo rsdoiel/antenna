@@ -1,11 +1,71 @@
 ---
 title: science and technology
-updated: 2025-05-17 14:07:35
+updated: 2025-05-18 06:07:26
 ---
 
 # science and technology
 
-(date: 2025-05-17 14:07:35)
+(date: 2025-05-18 06:07:26)
+
+---
+
+## To progress as an engineer career-wise, become a great communicator
+
+date: 2025-05-18, updated: 2025-05-18, from: The Register (UK I.T. News)
+
+<h4>It&#39;ll even help you develop technical skills</h4> <p><strong>Systems Approach</strong>  From 2014 to 2020 I had a title of CTO at VMware, first for the networking business and then for the Asia Pacific region as a Field CTO.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/18/communications_for_engineers/>
+
+---
+
+## Apple to add fresh accessibility features for 2025
+
+date: 2025-05-18, updated: 2025-05-18, from: The Register (UK I.T. News)
+
+<h4>It matters for everyone, because we&#39;ll all be disabled one day</h4> <p><strong>Global Accessibility Awareness Day</strong>  Accessibility matters to everyone. If you think it doesn&#39;t: it will. Apple builds in some pretty good tools, and they&#39;re getting better. Here&#39;s why it&#39;s important.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/18/apple_accessibility_features_2025/>
+
+---
+
+## Boffins devise technique that lets users prove location without giving it away
+
+date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
+
+<h4>ZKLP system allows apps to confirm user presence in a region without exposing exactly where</h4> <p>Computer scientists from universities in Germany, Hong Kong, and the United Kingdom have proposed a way to provide verifiable claims about location data without surrendering privacy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/17/privacy_preserving_location_sharing/>
+
+---
+
+## No-boom supersonic flights could slide through US skies soon
+
+date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
+
+<h4>As long as you&#39;re quiet about it</h4> <p><strong>Feature</strong>  This week, a bipartisan bill was introduced that would allow supersonic flight over the continental US for the first time in 52 years, as long as they&#39;re quiet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/17/faa_supersonic_law/>
+
+---
+
+## Google backs down after locking out Nextcloud Files app
+
+date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
+
+<h4>Search giant to restore critical Android permission after user outcry</h4> <p>In a turn of events to warm our withered hearts, Google has offered to restore the permission that was revoked from Nextcloud&#39;s Files app for Android.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/17/google_nextcloud_android_permission/>
 
 ---
 
@@ -2058,76 +2118,4 @@ date: 2025-05-11, updated: 2025-05-12, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/11/cpu_ransomware_rapid7/>
-
----
-
-## Microsoft unveils the new Start menu for Windows 11 users
-
-date: 2025-05-10, from: OS News
-
-I think one of the more controversial parts of Windows 11 &#8211; aside from its system requirements, privacy issues, crapware, and &#8220;AI&#8221; nonsense &#8211; is its Start menu. I&#8217;ve heard so many complaints about how it&#8217;s organised, its performance, the lack of customisation, and so on. Microsoft heard those complaints, and has unveiled the new Start menu that&#8217;ll be shipping to Windows 11 soon &#8211; and I have to say, there&#8217;s a ton of genuine improvements here that I think many of you will be happy with. First and foremost, the &#8220;all applications&#8221; view, that until now has been hidden behind a button, will be at the top level, and you can choose between a category view, a grid view, and a list view. This alone makes the Windows 11 Start menu so much more usable, and will be more than enough to make a lot of users want to upgrade, I&#8217;m sure. Second, customisation is taken a lot more seriously in this new incarnation of the Start menu. You can actually shrink or remove completely sections you&#8217;re not using. If you&#8217;re not interested in those recommendations, you can just remove that section. Don&#8217;t want to use the feature where you pin applications to the Start menu? Remove that section. This, too, seems to address common complaints, and I&#8217;m glad Microsoft is fixing this. Then there&#8217;s the rest. Microsoft is promising this new Start menu will perform better, which better be true because I&#8217;ve seen some serious lag and delays on incredibly powerful hardware. The recommendations have been improved as well, in case you care about those, and there&#8217;s a new optional mobile panel that you can slide out, which contains everything related to your phone. Personally, I&#8217;m a classic Start menu kind of person &#8211; on all my machines (which all run Fedora KDE), I use a classic, very traditional cascading menu that contains nothing but application categories and their respective applications, and nothing more. Still, were I forced to use Windows, these improvements are welcome, and they seem genuine. 
-
-<br> 
-
-<https://www.osnews.com/story/142336/microsoft-unveils-the-new-start-menu-for-windows-11-users/>
-
----
-
-## Feds disrupt proxy-for-hire botnet, indict four alleged net miscreants
-
-date: 2025-05-10, updated: 2025-05-10, from: The Register (UK I.T. News)
-
-<h4>The FBI also issued a list of end-of-life routers you need to replace</h4> <p>Earlier this week, the FBI urged folks to bin aging routers vulnerable to hijacking, citing ongoing attacks linked to TheMoon malware. In a related move, the US Department of Justice unsealed indictments against four foreign nationals accused of running a long-running proxy-for-hire network that exploited outdated routers to funnel criminal traffic.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/10/router_botnet_crashed/>
-
----
-
-## UK Ministry of Defence is spending less with US biz, and more with Europeans
-
-date: 2025-05-10, updated: 2025-05-10, from: The Register (UK I.T. News)
-
-<h4>France&#39;s share of MOD cash is growing while the US&#39;s shrinks</h4> <p>The UK&#39;s Ministry of Defence (MOD) is gradually shifting its spending from the US to Europe, according to research from Tussell.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/10/uk_ministry_of_defence_drops_us_spending/>
-
----
-
-## Yolk's on you – eggs break less when they land sideways
-
-date: 2025-05-10, updated: 2025-05-10, from: The Register (UK I.T. News)
-
-<h4>MIT research team proves pop science eggsplanation wrong</h4> <p>It might sound like common sense – and it&#39;s echoed by science communicators and even ChatGPT – but it&#39;s wrong. New research shows eggs are less likely to crack when they land on their side than on their end.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/10/egg_dropping_research/>
-
----
-
-## Chromium to use “AI” to combat the spam notifications it helped create
-
-date: 2025-05-10, from: OS News
-
-Notifications in Chrome are a useful feature to keep up with updates from your favorite sites. However, we know that some notifications may be spammy or even deceptive. We’ve received reports of notifications diverting you to download suspicious software, tricking you into sharing personal information or asking you to make purchases on potentially fraudulent online store fronts. To defend against these threats, Chrome is launching warnings of unwanted notifications on Android. This new feature uses on-device machine learning to detect and warn you about potentially deceptive or spammy notifications, giving you an extra level of control over the information displayed on your device. ↫ Hannah Buonomo and Sarah Krakowiak Criel on the Chromium Blog So first web browser makers introduce notifications, a feature nobody asked for and everybody hates, and now they&#8217;re using &#8220;AI&#8221; to combat the spam they themselves enabled and forced onto everyone? Don&#8217;t we have a name for a business model where you purport to protect your clients from threats you yourself pose? Turning off notifications is one of the first things I do after installing a browser. I do not ever want any website sending me a notification, nor do I want any of them to ask me for permission to do so. They&#8217;re such an obvious annoyance and massive security threat, and it&#8217;s absolutely mindboggling to me we just accept them as a feature we have to live with. I genuinely wish browsers like Firefox, which claim to protect your privacy, would just have the guts to be opinionated and rip shit features like this straight out of their browser. Using &#8220;AI&#8221; to combat spam notifications instead of just turning notifications off is peak techbro. 
-
-<br> 
-
-<https://www.osnews.com/story/142333/chromium-to-use-ai-to-combat-the-spam-notifications-it-helped-create/>
-
----
-
-## Xtool: cross-platform Xcode replacement for Linux, Windows, and macOS
-
-date: 2025-05-10, from: OS News
-
-A few months ago I shared my Swift SDK for Darwin, which allows you to build iOS Swift Packages on Linux, amongst other things. I mentioned that a lot of work still needed to be done, such as handling codesigning, packaging, and bundling. I&#8217;m super excited to share that we&#8217;ve finally reached the point where all of these things are now possible with cross-platform, open source software. Enter, xtool!  This means it&#8217;s finally possible to build and deploy iOS apps from Linux and Windows (WSL). At the same time, xtool is SwiftPM-based and fully declarative, which means you can also use it to replace Xcode on macOS for building iOS software! ↫ kabiroberai While this is obviously an impressive piece of engineering that&#8217;s taken countless years to fully put together, the issue this doesn&#8217;t address are Apple&#8217;s licensing terms when it comes to Xcode and development for Apple&#8217;s platforms. The Apple Developer Program License Agreement clearly forbids installing Xcode and the Apple SDK on non-Apple branded devices, and as this new xtool requires you download Xcode.xip and use it, it seems it violates these terms. Now, as far as I&#8217;m concerned, these terms are idiotic and should be 100% illegal, but if you&#8217;re an Apple developer who relies on your Apple developer account to make money, using a tool like this definitely has the potential to put your developer account at risk. For experimentation, sure, this is great, but for any official work I would be quite weary until Apple makes some sort of statement about the matter, which is highly unlikely to happen. Perhaps the courts can, at some point, have a say here &#8211; especially in the EU &#8211; but even then, Apple can always find or manufacture some reason to terminate your account if they really want to. If you want to develop on your own terms, perhaps developing for Apple platforms is not what you should be doing. 
-
-<br> 
-
-<https://www.osnews.com/story/142331/xtool-cross-platform-xcode-replacement-for-linux-windows-and-macos/>
 

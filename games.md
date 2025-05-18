@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-05-17 14:07:38
+updated: 2025-05-18 06:07:28
 ---
 
 # games
 
-(date: 2025-05-17 14:07:38)
+(date: 2025-05-18 06:07:28)
+
+---
+
+## All Elden Ring Nightreign character classes announced so far
+
+date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
+
+Elden Ring Nightreign may look familiar in many ways, but FromSoftware’s stand-alone multiplayer spinoff of Elden Ring will play differently thanks to its battle-royale-inspired map and a roster of playable characters. Unlike the blank-slate, highly customizable characters of the original Elden Ring, the playable heroes of Nightreign — known as Nightfarers — are predefined characters with class [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/599387/character-classes-all-list-nightfarers>
+
+---
+
+## Horror legend Tony Todd improvised a goodbye to his fans in Final Destination: Bloodlines
+
+date: 2025-05-17, updated: 2025-05-17, from: Polygon Website
+
+Fans of the Final Destination movies know there isn’t a lot of continuity, apart from each new sequel returning to the basic concept: Someone has a premonition of impending disaster and uses it to save the lives of people who would have died in that disaster, but death finds convoluted ways to claim them anyway. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/599677/tony-todd-final-destinations-bloodlines-post-credits-scene-goodbye>
+
+---
+
+## What&#8217;s going on with manga and anime piracy crackdowns?
+
+date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
+
+Much like the gaming industry, entertainment has long been at war with piracy. But while gamers often turn to piracy to preserve titles lost to digital delistings or scarce physical copies, anime and manga fans, especially in earlier eras, relied on illicit means simply to access the content. Before widespread licensing, piracy played a crucial [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/599425/manga-anime-piracy-crackdown>
+
+---
+
+## ‘I was so tired’: Behind Clair Obscur: Expedition 33’s beloved ‘whee whoo’ scene
+
+date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
+
+Clair Obscur: Expedition 33 writer Jennifer Svedberg-Yen would be the first to tell you: writing a video game is work. At least writing a novel is a one-person operation for most of the time. At least a screenplay for a film only needs to come in around 120 pages, unless you’re working for Martin Scorsese. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599459/clair-obscur-expedition-33-whee-whoo>
+
+---
+
+## Before Final Destination: Bloodlines, the directors made an unsettling Stranger Things-style sci-fi thriller
+
+date: 2025-05-17, updated: 2025-05-17, from: Polygon Website
+
+After a 14-year hiatus, the Final Destination horror franchise returns to theaters on May 16 with Final Destination: Bloodlines. In the first five Final Destination films, death itself creates Rube Goldberg machines out of everyday objects, constructing freak accidents to kill people who previously escaped its grasp. The latest iteration puts a new spin on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommends/599522/freaks-2018-stranger-things-final-destination-bloodlines-connections>
 
 ---
 
@@ -702,52 +762,4 @@ Like most movies, Marvel Studios’ superhero team-up Thunderbolts* went through
 <br> 
 
 <https://www.polygon.com/marvel/598425/thunderbolts-original-script-changes-die-hard-breakfast-club-interview>
-
----
-
-## Magic: The Gathering team dives deep into its stunning Final Fantasy set in 2-hour showcase
-
-date: 2025-05-10, updated: 2025-05-10, from: Polygon Website
-
-Judging from the number of gleeful screams heard throughout its PAX East Magic: The Gathering x Final Fantasy showcase presentation, Wizards of the Coast may have nailed its highly anticipated RPG crossover. The two-hour presentation, which you can watch above, rips open the new packs to reveal everything from Chocobos to luscious land cards inspired [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/mtg-magic-the-gathering/598463/magic-final-fantasy-cards-reveal-ff-mtg-art>
-
----
-
-## Dune: Awakening’s beta weekend is open — and you can still get in, if you pre-order
-
-date: 2025-05-10, updated: 2025-05-10, from: Polygon Website
-
-Dune: Awakening, the highly anticipated Dune MMO made by Funcom, previously had a beta that was under NDA for select players. But this weekend, there’s a new beta going on that players are free to stream and talk to their friends about. It’s available from now until this coming Monday, May 12 — and at [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/news/598448/dune-awakening-beta-weekend-preorder>
-
----
-
-## Putting the bleak anime movie Wolf Children in theaters for Mother’s Day is the perfect dark joke
-
-date: 2025-05-10, updated: 2025-05-09, from: Polygon Website
-
-Back in January, New York-based animation distributor GKIDS made the exciting announcement that it’s bringing Mamoru Hosoda’s library of anime films back to digital and home video release in America, including in 4K UHD editions. That was a fantastic relief for fans of ambitious, intelligently made anime movies. Hosoda’s latest movies, including 2021’s twisted-future “Beauty and [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/anime/598430/wolf-children-mamoru-hosoda-what-to-watch>
-
----
-
-## Cassian Andor says luck brought him this far. Obi-Wan Kenobi and Star Wars history disagree
-
-date: 2025-05-10, updated: 2025-05-09, from: Polygon Website
-
-As season 2 of Andor heads toward its finale, Cassian Andor (Diego Luna) once again tries to quit the rebellion, in what’s become a running theme throughout both seasons of the show. He’s tired of the risks. He’s tired of being scared. He’s tired of witnessing atrocities. He’s tired of arguing with everyone about next [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/star-wars/598309/cassian-andor-force-user-luck-obi-wan-kenobi-easter-egg>
 

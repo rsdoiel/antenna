@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-17 14:07:40
+updated: 2025-05-18 06:07:29
 ---
 
 # libraries
 
-(date: 2025-05-17 14:07:40)
+(date: 2025-05-18 06:07:29)
 
 ---
 
@@ -111,6 +111,18 @@ The descendants of a noble family, and of pirates, seek to restore their fortune
 <br> 
 
 <https://standardebooks.org/ebooks/andre-norton/ralestone-luck>
+
+---
+
+## Protect Fair Use, Especially Now
+
+date: 2025-05-14, from: Internet Archive Blog
+
+Fair use, the flexible aspect of U.S. copyright law, enables libraries to fulfill their public mission of providing access to knowledge, preserving culture, and supporting education and research. Fair use [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/05/14/protect-fair-use-especially-now/>
 
 ---
 
