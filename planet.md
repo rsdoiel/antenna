@@ -1,11 +1,279 @@
 ---
 title: planet
-updated: 2025-05-19 06:08:02
+updated: 2025-05-19 14:08:25
 ---
 
 # planet
 
-(date: 2025-05-19 06:08:02)
+(date: 2025-05-19 14:08:25)
+
+---
+
+## Labour moves marriage equality event over protest threat
+
+date: 2025-05-19, from: RTÉ News
+
+The Labour Party switched locations for an event marking 10 years of marriage equality, with the party saying it changed from the original venue in Dublin 8 due to a threat of a far-right protest. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0519/1513778-labour-moves-marriage-equality-event-over-protest-threat/>
+
+---
+
+## Amputee, 93, tasered by UK police in care home - court
+
+date: 2025-05-19, from: RTÉ News
+
+A 93-year-old disabled man was sprayed in the face with synthetic pepper spray before being shot by a Taser and hit with a baton, by police officers responding to a call at his care home, a court in Britain has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0519/1513775-elderly-amputee-pepper-sprayed/>
+
+---
+
+## Cardinal Parolin: Pope Leo XIV calls for diplomacy of encounter
+
+date: 2025-05-19, from: Vatican News
+
+
+                    <p>Cardinal Pietro Parolin, the Holy See’s Secretary of State, tells the United Nations the election of a new Pope is “an occasion for renewal… for all who seek a world of greater justice, solidarity, and peace.”</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-parolin-pope-leo-xiv-calls-for-diplomacy-of-encounter.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-parolin-pope-leo-xiv-calls-for-diplomacy-of-encounter.html>
+
+---
+
+## RTÉ approved 116 external activities for staff in Q4 2024
+
+date: 2025-05-19, from: RTÉ News
+
+RTÉ has published a statistical summary of external activities by staff for the fourth quarter of 2024, showing that 116 activities were approved. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0519/1513762-rte-activities/>
+
+---
+
+## Deal signals solidarity in face of Trump's NATO hostility
+
+date: 2025-05-19, from: RTÉ News
+
+Brussels and London will be largely satisfied with the Brexit reset deal, announced with some fanfare at Lancaster House, and the direction of travel towards a closer relationship is now clear. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0519/1513756-brexit-reset-deal/>
+
+---
+
+## Jury sworn in for case over aiding Ashling Murphy killer
+
+date: 2025-05-19, from: RTÉ News
+
+A jury has been sworn in to hear the trial of two brothers and their wives, who are accused of withholding information or assisting Jozef Puska after he had murdered 23-year-old school teacher Ashling Murphy in Tullamore three years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0519/1513754-puska-ashling-murphy/>
+
+---
+
+## Behind the story: Inside the Michael Gaine case
+
+date: 2025-05-19, from: RTÉ News
+
+In the latest episode of Behind the Story, RTÉ's Southern Editor Paschal Sheehy joins David and Fran from Kerry to give them an insight into the investigation into Michael Gaine's death. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0519/1513747-behind-the-story-inside-the-michael-gaine-case/>
+
+---
+
+## Man jailed after stabbing wife and filming her dying
+
+date: 2025-05-19, from: RTÉ News
+
+A controlling husband who murdered his wife by stabbing her 14 times on Christmas Eve, after claiming she had an affair and recorded her on his mobile phone as she lay dying, has been jailed for life. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0519/1513751-bahaalddin-alshwawrah-court/>
+
+---
+
+## Jury shown chisel found during search of Satchwell house
+
+date: 2025-05-19, from: RTÉ News
+
+Richard Satchwell replied "guilty, or not guilty, guilty" when charged with the murder of his wife Tina Satchwell, the Central Criminal Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0519/1513743-satchwell-latest/>
+
+---
+
+## 8 years jail for man who hijacked car with baby in back
+
+date: 2025-05-19, from: RTÉ News
+
+A man who left a 10-month-old baby on the ground between parked cars on the side of a busy Dublin road after hijacking her mother's car has been jailed for eight years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0519/1513742-francis-broughan-court/>
+
+---
+
+## Toolkit launched to protect child influencers
+
+date: 2025-05-19, from: RTÉ News
+
+A new digital safeguarding toolkit has been launched to protect child influencers, also known as 'kidfluencers'. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0519/1513737-toolkit-launched-to-protect-child-influencers/>
+
+---
+
+## Vision Ireland converts 3 children's books into Braille
+
+date: 2025-05-19, from: RTÉ News
+
+Vision Ireland has converted three children's books, aimed at helping grieving children, into Braille and audio for European Mental Health Week as part of their Book Bridge Project. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0519/1513728-vision-ireland-braille/>
+
+---
+
+## Woman jailed for helping partner 'lie low' after murder
+
+date: 2025-05-19, from: RTÉ News
+
+A woman who helped her then partner - "an extremely dangerous" killer - "lie low" after he gunned down a young drug dealer on Dublin's northside has been jailed for four years. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0519/1513715-redmond-jail/>
+
+---
+
+## Cameroonian priest, kidnapped on May 7, released
+
+date: 2025-05-19, from: Vatican News
+
+
+                    <p>Fr. Valentin Mbaibarem is the last of the six hostages captured on May 7 to be released, and the Archbishop of Garoua says he is in good physical condition.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/cameroonian-priest-kidnapped-on-may-7-released.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/cameroonian-priest-kidnapped-on-may-7-released.html>
+
+---
+
+## CBS News CEO Wendy McMahon quits amid possible settlement of Trump lawsuit
+
+date: 2025-05-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7538649.1747679802!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/wendy-mcmahon.JPG' alt='a woman in a green dress with blonde hair sits in an armchair speaking to another woman, who in only visible from the back' width='620' height='349' title='Wendy McMahon, CEO of CBS News, speaks during an event in New York City, U.S., October 12, 2023.'/><p>CBS News CEO Wendy McMahon said Monday that she is resigning after four years, the latest fallout at the network as its parent company considers settling a lawsuit with U.S. President Donald Trump over a 60 Minutes interview with his former political opponent, Kamala Harris.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/wendy-mcmahon-quits-cbs-1.7538643?cmp=rss>
+
+---
+
+## At a glance: What has been agreed in EU-UK deal?
+
+date: 2025-05-19, from: RTÉ News
+
+The UK and the EU have reached a wide-ranging agreement on issues including defence, food and passport checks. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0519/1513717-eu-uk-deal/>
+
+---
+
+## Dawn Richard testifies at Combs sex trafficking trial
+
+date: 2025-05-19, from: RTÉ News
+
+Pop singer Dawn Richard returned to the witness stand in Sean "Diddy" Combs' sex trafficking trial, after telling a jury last week that she saw the hip-hop mogul physically and emotionally abuse his then-girlfriend for years. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0519/1513712-sean-combs-trial/>
+
+---
+
+## Visit of Br. Guy Consolmagno S.J.
+
+date: 2025-05-19, from: Vatican Obervatory
+
+The Pluscarden community was pleased to have the honour of welcoming Br. Guy Consolmagno S.J. recently.  
+
+<br> 
+
+<https://www.pluscardenabbey.org/newsandevents/2025/5/17/visit-of-br-guy-consolmagno-sj>
+
+---
+
+## Israel eases Gaza blockade amid renewed military offensive
+
+date: 2025-05-19, from: Vatican News
+
+
+                    <p>Israel allows basic food supplies to enter Gaza following a 10-week blockade, aiming to prevent a famine in the besieged Palestinian territory. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/israel-eases-gaza-blockade-amid-renewed-military-offensive.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/israel-eases-gaza-blockade-amid-renewed-military-offensive.html>
+
+---
+
+## Jim Morrison bust found in France, 37 years after theft
+
+date: 2025-05-19, from: RTÉ News
+
+French police have recovered by chance the long-lost bust of the American singer Jim Morrison that once adorned the grave of the iconic frontman of The Doors, 37 years after it was stolen from a Paris cemetery. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0519/1513699-jim-morrison-bust-found-in-france-37-years-after-theft/>
+
+---
+
+## Pope Leo XIV meets with Colombian President Gustavo Petro
+
+date: 2025-05-19, from: Vatican News
+
+
+                    <p>Pope Leo XIV holds a private audience with Colombian President Gustavo Petro, a day after he attended the Mass of Inauguration of his pontificate.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-audience-colombia-president-gustavo-petro.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-audience-colombia-president-gustavo-petro.html>
 
 ---
 
@@ -61,6 +329,18 @@ A Cork mother whose three sons were addicted to drugs and died - two of them jus
 
 ---
 
+## 'There's not enough help' - mother who lost sons to drugs
+
+date: 2025-05-19, from: RTÉ News
+
+A Cork mother whose three sons were addicted to drugs and died - two of them just 15 days apart - is appealing to the Government to help families like hers. 
+
+<br> 
+
+<https://www.rte.ie/news/upfront/2025/0519/1513682-theres-not-enough-help-mother-who-lost-sons-to-drugs/>
+
+---
+
 ## Taoiseach welcomes 'landmark moment' from EU-UK summit
 
 date: 2025-05-19, from: RTÉ News
@@ -101,11 +381,71 @@ Amid intensifying Israeli bombing and ground operations in Gaza, the UN’s reli
 
 ---
 
+## UN faces deepening financial crisis, urges members to pay up
+
+date: 2025-05-19, from: United Nations, Top Stories
+
+The United Nations is facing a worsening cash crisis that threatens its ability to carry out vital work, Member States warned this week, as the General Assembly’s Fifth Committee met to discuss the world body’s financial health. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163436>
+
+---
+
+## Home-bound Syrians find few of the basics needed to survive
+
+date: 2025-05-19, from: United Nations, Top Stories
+
+Syrians trying to rebuild their lives in their war-torn country urgently need the support of the rest of the world to help them start again, UN aid agencies insist. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163431>
+
+---
+
+## World Health Assembly opens amid high-stakes pandemic treaty vote, global funding crisis
+
+date: 2025-05-19, from: United Nations, Top Stories
+
+The 78th&nbsp;World Health Assembly opened on Monday with a broad appeal to global solidarity, as delegates from around the world gather in Geneva to confront mounting health, climate, and financial challenges – and finalise a global treaty to head off the next pandemic. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163416>
+
+---
+
+## UN relief chief welcomes limited Gaza aid resumption – but it’s a ‘drop in the ocean’
+
+date: 2025-05-19, from: United Nations, Top Stories
+
+The UN humanitarian affairs chief has welcomed Israel’s decision to allow limited aid to cross into Gaza after 11 weeks of complete blockade – but significantly more is needed “starting tomorrow morning”. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163426>
+
+---
+
+## International Criminal Court: Deputies take over amid Prosecutor misconduct probe
+
+date: 2025-05-19, from: United Nations, Top Stories
+
+The Deputy Prosecutors of the International Criminal Court have assumed leadership of the Office of the Prosecutor following Karim Khan’s decision to take a leave of absence amid an ongoing UN investigation into allegations of misconduct against him. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163421>
+
+---
+
 ## Rare turtle to be returned to the sea after care in Kerry
 
 date: 2025-05-19, from: RTÉ News
 
-The director of Oceanworld Aquarium in Daingean Uí Chúis, Co Kerry, has said he is very grateful to Aer Lingus for agreeing to fly Solstice the turtle to the Canary Islands, where it will re-released into the wild. 
+The director of Dingle Oceanworld Aquarium in Daingean Uí Chúis, Co Kerry, has said he is very grateful to Aer Lingus for agreeing to fly Solstice the turtle to the Canary Islands, where it will re-released into the wild. 
 
 <br> 
 
@@ -134,6 +474,18 @@ The young boy who drowned in Co Sligo on Saturday has been remembered as "always
 <br> 
 
 <https://www.rte.ie/news/2025/0519/1513666-alan-singh-sligo/>
+
+---
+
+## Sports broadcaster Gary Lineker to leave BBC after sharing Instagram story about Zionism
+
+date: 2025-05-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6782184.1679066385!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gary-lineker-march-13.jpg' alt='A man with white hair and black-rimmed glasses is shown outside, looking off to the side.' width='620' height='349' title='Gary Lineker, the former England footballer turned sports TV presenter for the BBC, leaves his house in London on March 13, 2023. Lineker will return as presenter of the flagship BBC football show Match of the Day, ending a crisis sparked by his criticism of the U.K. government&apos;s new asylum policy.'/><p>Gary Lineker, the England soccer great-turned-media celebrity, will leave his role as a presenter for the BBC after facing criticism for reposting an Instagram story about Zionism that featured a picture of a rat.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gary-lineker-steps-down-1.7538515?cmp=rss>
 
 ---
 
@@ -241,11 +593,11 @@ date: 2025-05-19, from: Vatican News
 
 ---
 
-## Israel to 'control all parts' of Gaza, Netanyahu says, as aid trucks wait to enter territory
+## Canada, Britain, France threaten action if Israel does not stop military offensive and lift aid restrictions
 
 date: 2025-05-19, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7538498.1747654335!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians.JPG' alt='A truck carrying aid crosses a border.' width='620' height='349' title='A truck carrying aid, makes its way to Gaza, at the Kerem Shalom crossing, on the Israeli side of the crossing, May 19, 2025  REUTERS/Ronen Zvulun'/><p>Prime Minister Benjamin Netanyahu said on Monday Israel would control the whole of Gaza despite mounting international pressure that forced it to lift a blockade on aid supplies which has left the enclave on the brink of famine.</p> 
+<img src='https://i.cbc.ca/1.7538498.1747654335!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians.JPG' alt='A truck carrying aid crosses a border.' width='620' height='349' title='A truck carrying aid, makes its way to Gaza, at the Kerem Shalom crossing, on the Israeli side of the crossing, May 19, 2025  REUTERS/Ronen Zvulun'/><p>Israeli Prime Minister Benjamin Netanyahu said Monday that Israel would control the whole of Gaza despite mounting international pressure that forced it to lift a blockade on aid supplies that has left the enclave on the brink of famine.</p> 
 
 <br> 
 
@@ -277,11 +629,11 @@ Grazing cattle have been used for the first time on airport-owned land in Irelan
 
 ---
 
-## Israel will control Gaza, says PM as aid blockade lifted
+## Aid trucks allowed into Gaza, aid not yet collected - UN
 
 date: 2025-05-19, from: RTÉ News
 
-Israeli Prime Minister Benjamin Netanyahu has said Israel would control the whole of Gaza despite mounting international pressure that forced it to lift a blockade on aid supplies. 
+The United Nations has confirmed that nine trucks, carrying mostly nutritional supplies, were permitted to enter Gaza from Israel via the Kerem Shalom crossing today, but it said none of the aid had yet been picked up for distribution. 
 
 <br> 
 
@@ -326,18 +678,6 @@ date: 2025-05-19, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/saskatchewan/pronouncing-belanger-harder-than-you-think-1.7537591?cmp=rss>
-
----
-
-## Trump hopes for Russia-Ukraine ceasefire progress ahead of calls with Putin, Zelenskyy
-
-date: 2025-05-19, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7463848.1742394096!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/putin-trump-zelenskyy.jpg' alt='Three mugshots of three men.' width='620' height='349' title='From left, Russian President Vladimir Putin, U.S. president Donald Trump and Ukrainian President Volodymyr Zelenskyy.'/><p>President Donald Trump is hoping separate phone calls Monday with Russian leader Vladimir Putin and Ukrainian President Volodymyr Zelenskyy will make progress toward a ceasefire in the war in Ukraine.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/trump-putin-zelenskyy-russia-ukraine-call-1.7538493?cmp=rss>
 
 ---
 
@@ -445,11 +785,11 @@ Few pollsters and analysts predicted even a week ago that Nicusor Dan, a quietly
 
 ---
 
-## Ruling party tops Portugal poll in snap election
+## Portugal's far-right party gains as PM holds on
 
 date: 2025-05-19, from: RTÉ News
 
-Portugal's incumbent centre-right party won the most seats in the country's third general election in three years but again fell short of a parliamentary majority, while support for the far-right Chega rose. 
+Portugal's Prime Minister Luis Montenegro is preparing to lead a new minority government after the upstart far-right Chega party tied for second place in snap elections, posing a major challenge to his centre-right alliance. 
 
 <br> 
 
@@ -457,11 +797,11 @@ Portugal's incumbent centre-right party won the most seats in the country's thir
 
 ---
 
-## Man still being held on suspicion of Michael Gaine murder
+## Suspect held over Gaine murder known to missing farmer
 
 date: 2025-05-19, from: RTÉ News
 
-Gardaí are continuing to question a man in his 50s who was arrested yesterday on suspicion of murdering Michael Gaine. 
+A man in his 50s arrested yesterday on suspicion of murdering Michael Gaine is understood to have been known to the missing Kerry farmer. 
 
 <br> 
 
@@ -481,11 +821,11 @@ date: 2025-05-19, from: CBC, World News
 
 ---
 
-## Trump to call Putin in push for Ukraine ceasefire
+## Russia, Ukraine to begin peace talks immediately - Trump
 
 date: 2025-05-19, from: RTÉ News
 
-Donald Trump will speak by phone later with Russia's Vladimir Putin as part of the US leader's effort to end the war set off by Moscow's 2022 invasion of Ukraine. 
+Donald Trump said Russia and Ukraine had agreed to "immediately" start ceasefire talks after the US president spoke for more than two hours on the phone to Russian counterpart Vladimir Putin. 
 
 <br> 
 
@@ -541,11 +881,11 @@ Average asking prices for rents nationally rose by 3.4% between January and Marc
 
 ---
 
-## EU and UK reach trade and fishing deal in reset agreement
+## EU and UK reach reset deal in 'new era' for relations
 
 date: 2025-05-18, from: RTÉ News
 
-The EU and UK have reached an agreement to reset relations, which the British Prime Minister has claimed will add nearly £9 billion (€10.6bn) to the UK economy by 2040. 
+Britain has agreed the most significant reset of defence and trade ties with the European Union since Brexit after US President Donald Trump's upending of the global order pushed the two sides to move on from their acrimonious divorce. 
 
 <br> 
 
@@ -577,11 +917,11 @@ date: 2025-05-18, from: CBC, World News
 
 ---
 
-## Aviation expert weighs in on growing turbulence in U.S. skies
+## What’s behind the rise in U.S. air traffic control problems 
 
 date: 2025-05-18, from: CBC, World News
 
-<img src='https://i.cbc.ca/ais/795af916-d349-4836-bbe7-03914a1be82d,1747612807557/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two men in side-by-side frames' width='620' height='349' title='Ian Hanomansing interviews Robert Kokonis about aviation issues in the U.S.'/><p>Aviation expert Robert Kokonis tells The National’s Ian Hanomansing how U.S. air traffic controller shortages are leading to radar blackouts and radio silence in the skies.</p> 
+<img src='https://i.cbc.ca/ais/795af916-d349-4836-bbe7-03914a1be82d,1747663135134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two men in side-by-side frames' width='620' height='349' title='Ian Hanomansing interviews Robert Kokonis about aviation issues in the U.S.'/><p>Aviation expert Robert Kokonis tells The National’s Ian Hanomansing how U.S. air traffic controller shortages are leading to radar blackouts and radio silence in the skies.</p> 
 
 <br> 
 

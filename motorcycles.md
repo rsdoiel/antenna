@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-05-19 06:08:10
+updated: 2025-05-19 14:08:30
 ---
 
 # motorcycles
 
-(date: 2025-05-19 06:08:10)
+(date: 2025-05-19 14:08:30)
+
+---
+
+## Indianapolis 500 Monday Practice Report: Palou fastest as Penske scrambles from penalties
+
+date: 2025-05-19, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer The penultimate practice for the 109th Indianapolis 500 wrapped on Monday afternoon with Alex Palou fastest at 226.765 mph.  The Spaniard in the No.10 DHL&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indianapolis-500-monday-practice-report-palou-fastest-as-penske-scrambles-from-penalties/>
+
+---
+
+## Team Penske penalized for modifying attenuator, Newgarden and Power to start at rear of Indy 500
+
+date: 2025-05-19, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer A messy situation gets even worse as IndyCar has moved the Team Penske No.’s 2 and 12 of Josef Newgarden, the winner of the last&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/team-penske-penalized-for-modifying-attenuator-newgarden-and-power-to-start-at-rear-of-indy-500/>
+
+---
+
+## The Stars Align: Christopher Bell Corrals A Thrilling NASCAR All-Star Race Victory
+
+date: 2025-05-19, from: Kickin the Tires blog
+
+NORTH WILKESBORO, N.C. (May 18, 2025) – Christopher Bell made a million-dollar move on Joey Logano in Sunday’s NASCAR All-Star Race, and emerged victorious in one of North Wilkesboro Speedway’s&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/the-stars-align-christopher-bell-corrals-a-thrilling-nascar-all-star-race-victory/>
+
+---
+
+## KTM Might Have Just Been Saved, Again
+
+date: 2025-05-19, from: Ride Apart, Electric Motorcycle News
+
+Is this the break KTM needs, or will this be the straw that breaks the camel’s back?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759957/bajaj-600-million-loan-save-ktm/>
+
+---
+
+## Take a Look At These Sweet Colors the Honda ADV160 Doesn't Get Here
+
+date: 2025-05-19, from: Ride Apart, Electric Motorcycle News
+
+Team Red's ADV-styled scooter gets a multi-hued paint refresh overseas. 
+
+<br> 
+
+<https://www.rideapart.com/news/759905/honda-adv160-new-colors-2025/>
 
 ---
 
@@ -54,6 +115,18 @@ By Austin Lawton, Staff Writer A rookie has won pole at Indianapolis but has bee
 <br> 
 
 <https://kickinthetires.net/other/team-penske-suffers-qualifying-infractions-shwartzman-wins-pole-abel-bumped-at-indianapolis/>
+
+---
+
+## Team Penske suffers qualifying infractions; Shwartzman wins pole; Abel bumped at Indianapolis
+
+date: 2025-05-19, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer A rookie has won pole at Indianapolis but has been overshadowed by a scandal that is rocking the sport with Team Penske&#160; The 20-time Indy&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/team-penske-suffers-qualifying-infractions-shwartzman-wins-pole-abel-bumped-at-indianapolis/>
 
 ---
 

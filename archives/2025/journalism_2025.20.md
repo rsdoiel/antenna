@@ -1,11 +1,72 @@
 ---
 title: journalism
-updated: 2025-05-19 06:08:08
+updated: 2025-05-19 14:08:28
 ---
 
 # journalism
 
-(date: 2025-05-19 06:08:08)
+(date: 2025-05-19 14:08:28)
+
+---
+
+## Lively Westwood hub Enzo’s Pizzeria serves up slices for UCLA community
+
+date: 2025-05-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Enzo&#8217;s Pizzeria is a historic slice of Westwood culture.
+Situated on 1145 Westwood Blvd., the 25-year-old New York-style pizza joint is settling into its new location since moving in September 2024. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/19/lively-westwood-hub-enzos-pizzeria-serves-up-slices-for-ucla-community/>
+
+---
+
+## Las Manzanas Famosas – A Sweet Story of Strength, Struggle and Self-Made Success
+
+date: 2025-05-19, from: The Sundail (CSUN Student Newspaper)
+
+In the heart of the Northridge Fashion Center, tucked between bustling storefronts and familiar franchises, lies a small shop with a big heart—Famous Apples. Since 2019, the scent of warm... 
+
+<br> 
+
+<https://sundial.csun.edu/193744/featured/las-manzanas-famosas-a-sweet-story-of-strength-struggle-and-self-made-success/>
+
+---
+
+## Review: Sinners brings the blues with a shade of red
+
+date: 2025-05-19, from: The Sundail (CSUN Student Newspaper)
+
+Ryan Coogler’s latest film, ‘’Sinners,’’ dominated the box office upon its official release on April 17. Already a breakthrough film of the year, it sits at an outstanding 97% on... 
+
+<br> 
+
+<https://sundial.csun.edu/193733/arts-entertainment/review-sinners-brings-the-blues-with-a-shade-of-red/>
+
+---
+
+## Review: Keni Titus, Pretty Sick and Beabadoobee at the Fox Pomona
+
+date: 2025-05-19, from: The Sundail (CSUN Student Newspaper)
+
+The sparkly glowing red letters that spelled out &#8220;FOX&#8221; lit up the sky on a cloudy night, and the Fox Pomona Theatre marquee read: “Goldenvoice Presents Beabadoobee—4/17 SOLD OUT.” After... 
+
+<br> 
+
+<https://sundial.csun.edu/193722/arts-entertainment/review-keni-titus-pretty-sick-and-beabadoobee-at-the-fox-pomona/>
+
+---
+
+## Review: ‘Fatal Fury: City of the Wolves’ burns bright in fighting gameplay
+
+date: 2025-05-19, from: The Sundail (CSUN Student Newspaper)
+
+Fatal Fury: City of the Wolves (COTW) brings the heat with its fun to pick up, hard to master 1v1, 2D fighting gameplay and unforgettable characters. SNK provides their best... 
+
+<br> 
+
+<https://sundial.csun.edu/193717/arts-entertainment/review-fatal-fury-city-of-the-wolves-burns-bright-in-fighting-gameplay/>
 
 ---
 

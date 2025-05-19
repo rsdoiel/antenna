@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-05-19 06:08:04
+updated: 2025-05-19 14:08:26
 ---
 
 # pacific
 
-(date: 2025-05-19 06:08:04)
+(date: 2025-05-19 14:08:26)
 
 ---
 
@@ -230,6 +230,20 @@ date: 2025-05-19, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/19/nation-world-news/new-jersey-rail-strike-to-end-on-tuesday/>
+
+---
+
+## Foreclosure appears to kill Punaluʻu Village project
+
+date: 2025-05-19, from: Hawaii Tribune Harold
+
+
+				<p>A controversial proposal to build a resort development in Punalu&#699;u appears to be dead.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/19/hawaii-news/foreclosure-appears-to-kill-punalu%ca%bbu-village-project/>
 
 ---
 

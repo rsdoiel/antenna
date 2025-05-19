@@ -1,11 +1,123 @@
 ---
 title: north america
-updated: 2025-05-19 06:08:02
+updated: 2025-05-19 14:08:25
 ---
 
 # north america
 
-(date: 2025-05-19 06:08:02)
+(date: 2025-05-19 14:08:25)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-20, from: The Contrarian
+
+Monday: Protests in Illinois, California, and Tennessee, preparing for upcoming protests, and Tesla takedowns. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Offsides with Pablo Torre: How Sports Talk Wins the Manosphere
+
+date: 2025-05-19, from: The Contrarian
+
+"If we&#8217;re going to fight a culture war, you do not want to cede the largest bit of available real estate in American culture &#8212; and that&#8217;s sports" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163935864/1e998fb56bcd112f64a97035778f96a9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163935864/1e998fb56bcd112f64a97035778f96a9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/offsides-with-pablo-torre-how-sports>
+
+---
+
+## Art of the Self Deal
+
+date: 2025-05-19, from: The Contrarian
+
+If you like your presidential travel mixed with $B self-enrichment for Trump and sons, this is the week for you, guided by a terrific Talking Feds Substack panel of Peter Baker, Tara Setmayer, and Jacob Weisberg. 
+
+<br> 
+
+<https://contrarian.substack.com/p/art-of-the-self-deal>
+
+---
+
+## Why white South Africans are migrants the Trump adminstration can love
+
+date: 2025-05-19, from: The Contrarian
+
+Brown or Black immigrants? Invaders. White ones? Refugees. It's no surprise from Musk and Trump. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-white-south-africans-are-migrants>
+
+---
+
+## Van Nuys Airport Still Lacks Clear Warnings on Toxic Aircraft Fuel
+
+date: 2025-05-19, from: Capital and Main
+
+<p>Companies have failed to post signs alerting the public to the dangers of the lead-based fuel used at the airport despite a decade-old settlement requiring them.</p>
+<p>The post <a href="https://capitalandmain.com/van-nuys-airport-still-lacks-clear-warnings-on-toxic-aircraft-fuel">Van Nuys Airport Still Lacks Clear Warnings on Toxic Aircraft Fuel</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/van-nuys-airport-still-lacks-clear-warnings-on-toxic-aircraft-fuel>
+
+---
+
+##  The Endangered Species Act Is At Risk Of Extinction, Thanks To Trump 
+
+date: 2025-05-19, from: The Lever News
+
+ The Trump administration is seeking to gut the Endangered Species Act by redefining what it means to harm at-risk animals.  
+
+<br> 
+
+<https://www.levernews.com/the-endangered-species-act-is-at-risk-of-extinction-thanks-to-trump/>
+
+---
+
+## The white whale
+
+date: 2025-05-19, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-white-whale>
+
+---
+
+## The Supreme Court Needs to Double Down on Empowering Lower Courts
+
+date: 2025-05-19, from: The Contrarian
+
+Friday&#8217;s bombshell opinion suggested a powerful tool for lower courts to hold the Trump administration to account. With birthright citizenship and more at stake, here&#8217;s hoping SCOTUS runs with it. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-supreme-court-needs-to-double>
+
+---
+
+## Coffee with The Contrarians 05/19
+
+date: 2025-05-19, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/19 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0519>
 
 ---
 

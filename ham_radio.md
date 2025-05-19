@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-19 06:08:04
+updated: 2025-05-19 14:08:27
 ---
 
 # ham radio
 
-(date: 2025-05-19 06:08:04)
+(date: 2025-05-19 14:08:27)
+
+---
+
+## Adaptive resolution for ADCs
+
+date: 2025-05-19, from: EDN Blog
+
+<img width="583" height="460" src="https://www.edn.com/wp-content/uploads/Figure-4-13.png?fit=583%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-4-13.png?w=583 583w, https://www.edn.com/wp-content/uploads/Figure-4-13.png?w=300 300w" sizes="(max-width: 583px) 100vw, 583px" /><p>How to implement multiple references to improve the maximum single-read resolution of your voltage readings.</p>
+<p>The post <a href="https://www.edn.com/adaptive-resolution-for-adcs/">Adaptive resolution for ADCs</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/adaptive-resolution-for-adcs/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-19 06:08:04
 
 date: 2025-05-19, from: EDN Blog
 
-<img width="2000" height="1200" src="https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?fit=2000%2C1200" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=2000 2000w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=1900 1900w" sizes="(max-width: 2000px) 100vw, 2000px" /><p>Secure firmware in semiconductors is the unsung hero of embedded systems safeguarding financial transactions and personal health data.</p>
+<img width="2000" height="1200" src="https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?fit=2000%2C1200" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=2000 2000w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-firmware-security.jpg?w=1900 1900w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /><p>Secure firmware in semiconductors is the unsung hero of embedded systems safeguarding financial transactions and personal health data.</p>
 <p>The post <a href="https://www.edn.com/what-you-need-to-know-about-firmware-security-in-chips/">What you need to know about firmware security in chips</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

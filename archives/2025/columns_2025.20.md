@@ -1,11 +1,276 @@
 ---
 title: columns
-updated: 2025-05-19 06:08:06
+updated: 2025-05-19 14:08:27
 ---
 
 # columns
 
-(date: 2025-05-19 06:08:06)
+(date: 2025-05-19 14:08:27)
+
+---
+
+##  The Unbreaking team is starting to publish &#8220;clear and rigorously cited explanations... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046890-the-unbreaking-team-is-st>
+
+---
+
+## WSJ: ‘Apple Considers Raising iPhone Prices, Without Blaming Tariffs’
+
+date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/apple-iphone-price-increase-2eaebb14?st=P6hk65&reflink=desktopwebshare_permalink>
+
+---
+
+## Trump Tells Walmart to ‘Eat the Tariffs’
+
+date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://truthsocial.com/@realDonaldTrump/posts/114523638623110397>
+
+---
+
+##  Ed Smylie, Who Saved the Apollo 13 Crew With Duct Tape, Dies... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046885-ed-smylie-who-saved-the>
+
+---
+
+## ★ More Insight and Not-Negativity
+
+date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+
+I never linked to the viral blog post where Jobs was quoted recommending my article, I never mentioned it in a post, but I *did* acknowledge it, in what is clearly the most Daring-Fireball-ish way possible: I made it the slogan under the logo banner. 
+
+<br> 
+
+<https://daringfireball.net/2025/05/more_insight_and_not-negativity>
+
+---
+
+## May 18, 2025
+
+date: 2025-05-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163947807/73af8decccdb93adcc662b3ec860a44a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163947807/73af8decccdb93adcc662b3ec860a44a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-18-2025-28f>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+I was going to use <a href="https://gist.github.com/scripting/ffea3997c193552deb8fc8c864e8ebee">this code</a> in the UI of my search engine, when it wanted to display an image over http, reroute it to use an https proxy server. But Chrome wouldn't stay out of the way, so had to give up. Hey I was trying to route around their outage. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a184716>
+
+---
+
+##  NASA engineers fixed some thrusters on Voyager 1 from 15 billion miles... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046879-nasa-engineers-fixed-some>
+
+---
+
+##  Justice Sotomayor&#8217;s Message to Lawyers: Stand Up, Fight and Win. &#8220;Those on... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046877-justice-sotomayors-messag>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+Apparently Chrome has changed the behavior of images served over http in web pages. It's changing the request to https, so it gives an erroneous error message about the certificate which the page never claimed to have. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a174033>
+
+---
+
+## The Real Cost of Chinese Open-Source AI
+
+date: 2025-05-19, from: Om Malik blog
+
+Don&#8217;t believe the Chinese AI open-source hype, warns good friend, Pete Warden. Their large language models come at a price — the models are programmed to deliberately obscure historical truths, he writes on his blog. He points out that this isn&#8217;t just censorship; it&#8217;s engineered misinformation at scale, baked into the foundation of future AI. Warden compares answers to the same query using different models to support his conclusions. 
+
+<br> 
+
+<https://om.co/2025/05/19/the-real-cost-of-chinese-open-source-ai/>
+
+---
+
+##  Fastest Rubik&#8217;s Cube Solve Ever 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/fastest-rubiks-cube-solve-ever>
+
+---
+
+##  &#8220;The bird in Charlie&#8217;s Angels is, I believe, the wrongest bird in... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046881-the-bird-in-charlies-ange>
+
+---
+
+##  Yes, the Media&#8217;s Biden Coverage Was Flawed. But Its Reporting on Trump... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046880-yes-the-medias-biden-cove>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+And with <a href="https://github.com/scripting/Scripting-News/tree/master/blog/misc/database">this update</a>, we don't depend on OPML any longer to create the database, all the data is exported in a format that can be easily imported directly into an SQL database. I provide the <a href="https://github.com/scripting/Scripting-News/tree/master/blog/misc/database#the-sql-table">schema</a> and example <a href="https://github.com/scripting/Scripting-News/tree/master/blog/misc/database#code-to-import">JavaScript code</a> that, via SQL, updates a database. Hopefully this creates a better more useful archive. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a151409>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+What it means to be distributed. Mastodon can't go down, neither can RSS. But Bluesky, Twitter, Facebook can. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a150923>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+As the import script runs I just tried looking up <a href="https://daytona.scripting.com/search?q=engadget">Engadget</a>, got zero hits. I expect that link will work in a while after all the importing is done. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a150539>
+
+---
+
+##  Colin Jost & Michael Che give each other jokes to tell on... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046887-colin-jost-michael-che>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+Having the 90s and 00s in the index means I can look up old friends like <a href="https://daytona.scripting.com/search?q=shotton">Chuck Shotton</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a145231>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+I've been working on the search function for this blog, and now we have all the DaveNet pieces between 1994 and 2004 in the database. So here's a search for <a href="https://daytona.scripting.com/search?q=%22menu%20sharing%22">menu sharing</a> which was a technology we made on the Mac that allowed people to write menus of scripts in Frontier that appear inside other apps. Netscape supported it as did MSIE, Quark, Eudora and many others. It was kind of magical, esp when the apps themselves were scriptable (many of them were in the 90s). Next up, I'm going to import the home page of Scripting News from 1997 to 2010. It was mostly a linkblog then. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a144041>
+
+---
+
+## LastOS slaps neon paint on Linux Mint and dares you to run Photoshop
+
+date: 2025-05-19, updated: 2025-05-19, from: Liam Proven's articles at the Register
+
+<h4>Another distro for Windows users – presumably ones who love bling</h4>
+      <p>LastOS is a tricked-out version of Linux Mint 22.1 with the Cinnamon desktop and some additional tools to make life easier for Windows folks.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/19/lastos/>
+
+---
+
+##  Netflix has picked up Sesame Street after HBO/Max/HBO Max/LOL Max cancelled their... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046884-netflix-has-picked-up-ses>
+
+---
+
+##  Congratulations to Amazon on Its Partnership With the Saudi Prince Who Murdered... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046875-congratulations-to-amazon>
 
 ---
 
@@ -164,7 +429,7 @@ date: 2025-05-18, updated: 2025-05-19, from: Daring Fireball
 
 ## Joe Biden Has an Aggressive Form of Prostate Cancer
 
-date: 2025-05-18, updated: 2025-05-18, from: Daring Fireball
+date: 2025-05-18, updated: 2025-05-19, from: Daring Fireball
 
  
 
@@ -200,7 +465,7 @@ date: 2025-05-18, from: Heather Cox Richardson blog
 
 ## Jack Rix at Top Gear Reviews CarPlay Ultra in the Aston Martin DBX
 
-date: 2025-05-18, updated: 2025-05-18, from: Daring Fireball
+date: 2025-05-18, updated: 2025-05-19, from: Daring Fireball
 
  
 

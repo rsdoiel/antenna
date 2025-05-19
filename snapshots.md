@@ -1,11 +1,390 @@
 ---
 title: snapshots
-updated: 2025-05-19 06:08:13
+updated: 2025-05-19 14:08:32
 ---
 
 # snapshots
 
-(date: 2025-05-19 06:08:13)
+(date: 2025-05-19 14:08:32)
+
+---
+
+## Razer Blade 14 (2025) is a thinner gaming laptop with Ryzen AI 9 365 and NVIDIA RTX 50 series graphics
+
+date: 2025-05-19, from: Liliputing
+
+<p>The Razer Blade 14 has always been a relatively thin and light notebook, at least by gaming laptop standards. But the new 2025 version is a pretty slim notebook by any standard, measuring just 16.2mm (0.64 inches) at its thickest point and weighing just 1.63 kilograms (3.59 pounds). Despite the fact that the Razer Blade 14 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/razer-blade-14-2025-is-a-thinner-gaming-laptop-with-ryzen-ai-9-365-and-nvidia-rtx-50-series-graphics/">Razer Blade 14 (2025) is a thinner gaming laptop with Ryzen AI 9 365 and NVIDIA RTX 50 series graphics</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/razer-blade-14-2025-is-a-thinner-gaming-laptop-with-ryzen-ai-9-365-and-nvidia-rtx-50-series-graphics/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-19, from: Dave Winer's linkblog)
+
+BYD launches the new e7 EV in China, starting at under $15,000. 
+
+<br> 
+
+<https://electrek.co/2025/05/19/byd-launches-new-e7-ev-china-starting-under-15000/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-19, from: Dave Winer's linkblog)
+
+Hillary Clinton bashes Republican women as a &#39;handmaiden of the patriarchy.&#39; 
+
+<br> 
+
+<https://www.foxnews.com/media/hillary-clinton-bashes-republican-women-says-gop-female-president-would-handmaiden-patriarchy>
+
+---
+
+## Walmart’s Onn 4K Plus is official: $30 Google TV media streaming box
+
+date: 2025-05-19, from: Liliputing
+
+<p>For the past few years one of the cheapest 4K-ready media streaming boxes you could buy has been Walmart&#8217;s $20 Onn 4K. The company also offers a $50 model called the Onn 4K Pro that has more memory and storage, a faster USB port, and an Ethernet jack. Now Walmart has introduced a mid-range version [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/walmarts-onn-4k-plus-is-official-30-google-tv-media-streaming-box/">Walmart&#8217;s Onn 4K Plus is official: $30 Google TV media streaming box</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/walmarts-onn-4k-plus-is-official-30-google-tv-media-streaming-box/>
+
+---
+
+## Asus ROG Bulwark Dock is a universal dock for the ROG Ally and other handhelds, phones, and PCs
+
+date: 2025-05-19, from: Liliputing
+
+<p>The ROG Bulwark Dock is a new 7-in-1 USB-C docking station from the gaming arm of Asus. While it&#8217;s clearly designed for use with the company&#8217;s ROG Ally handheld gaming PCs, there are a few things that make this dock interesting. One is that this thing&#8217;s meant for gamers so of course it has RGB [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/asus-rog-bulwark-dock-is-a-universal-dock-for-the-rog-ally-and-other-handhelds-phones-and-pcs/">Asus ROG Bulwark Dock is a universal dock for the ROG Ally and other handhelds, phones, and PCs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/asus-rog-bulwark-dock-is-a-universal-dock-for-the-rog-ally-and-other-handhelds-phones-and-pcs/>
+
+---
+
+## Asus introduces a cheaper ROG Zephyrus G14 gaming laptop with Ryzen AI 9 270 and NVIDIA RTX 5060
+
+date: 2025-05-19, from: Liliputing
+
+<p>Earlier this year Asus introduced a ROG Zephyrus G14 portable gaming laptop with support for up to an AMD Ryzen AI 9 HX 370 Strix Point processor and NVIDIA RTX 5080 graphics. But with prices starting at $2500 that laptop is a bit of an investment. Mode Now Asus is introducing a cheaper version that&#8217;s [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/asus-introduces-a-cheaper-rog-zephyrus-g14-gaming-laptop-with-ryzen-ai-9-270-and-nvidia-rtx-5060/">Asus introduces a cheaper ROG Zephyrus G14 gaming laptop with Ryzen AI 9 270 and NVIDIA RTX 5060</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/asus-introduces-a-cheaper-rog-zephyrus-g14-gaming-laptop-with-ryzen-ai-9-270-and-nvidia-rtx-5060/>
+
+---
+
+## Epic Files Motion to Enforce Injunction
+
+date: 2025-05-19, from: Michael Tsai
+
+Epic Games: Yesterday afternoon, Apple broke its week-long silence on the status of our app review with a letter saying they will not act on the Fortnite app submission until the Ninth Circuit Court rules on the partial stay. We believe this violates the Court&#8217;s Injunction and we have filed a second Motion to Enforce [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/19/epic-files-motion-to-enforce-injunction/>
+
+---
+
+## Slow TestFlight Beta App Review
+
+date: 2025-05-19, from: Michael Tsai
+
+Craig Hockenberry: We&#8217;ve entered day 10 of waiting for a TestFlight beta app review on macOS. Have tried all the tricks, like submitting new builds, but there has been absolutely no movement.While Apple is doing everything it can to maintain the tight control it has over the App Stores and a huge revenue stream, we&#8217;re [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/19/slow-testflight-beta-app-review/>
+
+---
+
+## Rust at 10
+
+date: 2025-05-19, from: Michael Tsai
+
+Graydon Hoare (Slashdot): Rust turns 10 today, or at least it&#8217;s been 10 years since the 1.0 release. In this decade (and the near-decade of development before!) it has undergone growth and change I can barely comprehend the scale of. To say I&#8217;m surprised by its trajectory would be a vast understatement: I can only [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/19/rust-at-10/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-19, from: Dave Winer's linkblog)
+
+How did you end up starting a decentralized social platform? It’s not decentralized. 
+
+<br> 
+
+<https://www.wired.com/story/big-interview-jay-graber-bluesky/>
+
+---
+
+## Paul Krugman on Trump‘s budgetary “cruelty” and more
+
+date: 2025-05-19, from: Paul Krugman
+
+A recording from Paul Krugman and Anand Giridharadas's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163942158/10d37eb77cf5a204d1da88925c36d7da.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/163942158/10d37eb77cf5a204d1da88925c36d7da.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/paul-krugman-on-trumps-budgetary>
+
+---
+
+## Windows Subsystem for Linux is now open source (mostly)
+
+date: 2025-05-19, from: Liliputing
+
+<p>The Windows Subsystem for Linux (WSL) is a set of software tools that basically lets you install and run native Linux applications on a Windows PC without rebooting into a different operating system. You can basically install a Linux distro inside Windows and use it to run Linux apps almost as if they were native [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/windows-subsystem-for-linux-is-now-open-source-mostly/">Windows Subsystem for Linux is now open source (mostly)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/windows-subsystem-for-linux-is-now-open-source-mostly/>
+
+---
+
+## Telegram Gave Authorities Data on More than 20,000 Users
+
+date: 2025-05-19, from: 404 Media Group
+
+According to its newest transparency report, Telegram complied with more than 5,000 requests from authorities in the first three months of 2025. 
+
+<br> 
+
+<https://www.404media.co/telegram-gave-authorities-data-on-more-than-20-000-users/>
+
+---
+
+## Dell Max Pro Plus laptop supports an Qualcomm AI 100 NPU
+
+date: 2025-05-19, from: Liliputing
+
+<p>Plenty of companies are touting the AI capabilities of their PCs these days. But with Intel, AMD and Qualcomm all releasing mainstream mobile chips packing NPUs that deliver 40+ TOPS of AI performance, it&#8217;s hard to find an AI PC that really stands out. So Dell decided to go a step further with its new Dell [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dell-max-pro-plus-laptop-supports-an-qualcomm-ai-100-npu/">Dell Max Pro Plus laptop supports an Qualcomm AI 100 NPU</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dell-max-pro-plus-laptop-supports-an-qualcomm-ai-100-npu/>
+
+---
+
+## MSI Claw A8 handheld gaming PC has a Ryzen Z2 Extreme chip with 16-core graphics
+
+date: 2025-05-19, from: Liliputing
+
+<p>MSI&#8217;s first handheld gaming PC arrived in 2024, but it landed with a bit of a thud thanks to the lackluster performance of its Intel Meteor Lake processor. Since then the company has launched several new models powered by Intel Lunar Lake chips that deliver significantly better performance. Now MSI is expanding its handheld lineup [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/msi-claw-a8-handheld-gaming-pc-has-a-ryzen-z2-extreme-chip-with-16-core-graphics/">MSI Claw A8 handheld gaming PC has a Ryzen Z2 Extreme chip with 16-core graphics</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/msi-claw-a8-handheld-gaming-pc-has-a-ryzen-z2-extreme-chip-with-16-core-graphics/>
+
+---
+
+## 23andMe Sale Shows Your Genetic Data Is Worth $17
+
+date: 2025-05-19, from: 404 Media Group
+
+23andMe sold the genetic data of 15 million people for $256 million to a pharmaceutical company called Regeneron. 
+
+<br> 
+
+<https://www.404media.co/23andme-sale-shows-your-genetic-data-is-worth-17/>
+
+---
+
+## What makes people flourish?
+
+date: 2025-05-19, from: Guy Kawasaki blog
+
+Victor Counted, Byron R. Johnson, Tyler J. VanderWeele. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/what-makes-people-flourish>
+
+---
+
+## Kansas Mom Sues Porn Sites Because Her Son Visited Chaturbate 30 Times
+
+date: 2025-05-19, from: 404 Media Group
+
+The 14 year old's mother left an old laptop in a closet and now alleges it's adult sites' problem that he watched porn. 
+
+<br> 
+
+<https://www.404media.co/kansas-lawsuit-chaturbate-age-verification-old-laptop/>
+
+---
+
+## AI may have just influenced Argentina’s election
+
+date: 2025-05-19, from: Gary Marcus blog
+
+A reader reports from Argentina 
+
+<br> 
+
+<https://garymarcus.substack.com/p/ai-may-have-just-influenced-argentinas>
+
+---
+
+## Destino final: lazos de sangre – la muerte ingeniosa ataca de nuevo
+
+date: 2025-05-19, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Zach Lipovski y Adam Stein. Guion: Gary Busick y Lori Evans Taylor basados en personajes creados por Jeffrey Reddick. País: EUA. Elenco: Kaitlyn Santa Juana, Teo Briones, Richard Harmon, Owen Patrick Joyner, Rya Kihlstedt, Anna Lore, Brec Bassinger, Tony Todd. Más información de la película: https://www.imdb.com/title/tt9619824/ “La vida es una tómbola”, reza la famosa [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-destino-final-lazos-de-sangre/">Destino final: lazos de sangre – la muerte ingeniosa ataca de nuevo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-destino-final-lazos-de-sangre/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-destino-final-lazos-de-sangre>
+
+---
+
+## The Windows Subsystem for Linux is now open source
+
+date: 2025-05-19, from: Windows Developer Blog
+
+<p>Today we’re very excited to announce the open-source release of the Windows Subsystem for Linux. This is the result of a multiyear effort to prepare for this, and a great closure to the first ever issue raised on the Microsoft/WSL repo: <a href="ht
+</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/">The Windows Subsystem for Linux is now open source</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/>
+
+---
+
+## Introducing Windows ML: The future of machine learning development on Windows
+
+date: 2025-05-19, from: Windows Developer Blog
+
+<p>Machine learning is at the forefront of technological innovation, enabling transformative user experiences. With the advances in client silicon and model miniaturization, new scenarios are feasible to run completely locally.</p>
+<p>To support developers sh</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/introducing-windows-ml-the-future-of-machine-learning-development-on-windows/">Introducing Windows ML: The future of machine learning development on Windows</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/19/introducing-windows-ml-the-future-of-machine-learning-development-on-windows/>
+
+---
+
+## Accelerating AI development with Windows-based AI workstations
+
+date: 2025-05-19, from: Windows Developer Blog
+
+<p>Today, we <a href="https://blogs.windows.com/windowsdeveloper/?p=57397">announced</a> powerful capabilities for AI development with Windows AI Foundry, featuring components like <a href="https://blogs.windows.com/windowsdeveloper/?p=57438">Windows ML</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/accelerating-ai-development-with-windows-based-ai-workstations/">Accelerating AI development with Windows-based AI workstations</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/19/accelerating-ai-development-with-windows-based-ai-workstations/>
+
+---
+
+## Enhance your application security with administrator protection
+
+date: 2025-05-19, from: Windows Developer Blog
+
+<h3>Introduction</h3>
+<p>Administrator protection is a new Windows 11 platform security feature that aims to protect the admin users on the device while still allowing them to perform the necessary functions which may require use of admin level permissi</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/enhance-your-application-security-with-administrator-protection/">Enhance your application security with administrator protection</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/19/enhance-your-application-security-with-administrator-protection/>
+
+---
+
+## Microsoft Store expands opportunities for Windows app developers
+
+date: 2025-05-19, from: Windows Developer Blog
+
+<p>The <a href="https://blogs.windows.com/windowsdeveloper/?p=57397">Windows developer platform continues to evolve</a>, bringing more quality, performance and innovation through Copilot+ PC. This translates into a tremendous opportunity for app develop</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/microsoft-store-expands-opportunities-for-windows-app-developers/">Microsoft Store expands opportunities for Windows app developers</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/19/microsoft-store-expands-opportunities-for-windows-app-developers/>
+
+---
+
+## Advancing Windows for AI development: New platform capabilities and tools introduced at Build 2025
+
+date: 2025-05-19, from: Windows Developer Blog
+
+<p>We’re excited to be back at Build, a special moment each year to connect with the global developer community. It’s energizing to share what we’ve been working on, and just as important, to hear how developers are using Microsoft platforms to bu</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/advancing-windows-for-ai-development-new-platform-capabilities-and-tools-introduced-at-build-2025/">Advancing Windows for AI development: New platform capabilities and tools introduced at Build 2025</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/19/advancing-windows-for-ai-development-new-platform-capabilities-and-tools-introduced-at-build-2025/>
+
+---
+
+## Huawei MateBook Fold Ultimate is an 18 inch foldable laptop that runs HarmonyOS
+
+date: 2025-05-19, from: Liliputing
+
+<p>The new Huawei MateBook Fold Ultimate is a portable computer that&#8217;s about the size of a 13 inch laptop. But when you unfold the laptop you&#8217;ll find that it&#8217;s basically a big tablet. Instead of keyboard on the bottom and a screen on top, the MateBook Fold has an 18 inch foldable display and a hinge [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/huawei-matebook-fold-ultimate-is-an-18-inch-foldable-laptop-that-runs-harmonyos/">Huawei MateBook Fold Ultimate is an 18 inch foldable laptop that runs HarmonyOS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/huawei-matebook-fold-ultimate-is-an-18-inch-foldable-laptop-that-runs-harmonyos/>
+
+---
+
+## Extreme Raspberry Pi: projects taking Raspberry Pi to its very limits
+
+date: 2025-05-19, from: Raspberry Pi News (.com)
+
+<p>From the highest to the deepest and the coldest to the longest-running, these Raspberry Pis have been taken to extreme limits.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/extreme-raspberry-pi-projects-taking-raspberry-pi-to-its-very-limits/">Extreme Raspberry Pi: projects taking Raspberry Pi to its very limits</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/extreme-raspberry-pi-projects-taking-raspberry-pi-to-its-very-limits/>
+
+---
+
+## Student Makes Tool That Identifies ‘Radicals’ on Reddit, Deploys AI Bots to Engage With Them
+
+date: 2025-05-19, from: 404 Media Group
+
+The tool scans for users writing certain keywords on Reddit and assigns those users a so-called “radical score,” before deploying an AI-powered bot to automatically engage with the users to de-radicalize them. 
+
+<br> 
+
+<https://www.404media.co/student-makes-tool-that-identifies-radicals-on-reddit-deploys-ai-bots-to-engage-with-them/>
 
 ---
 
@@ -120,6 +499,18 @@ date: 2025-05-19, updated: 2025-05-19, from: Tantek Çelik's blog
 <br> 
 
 <https://www.foxsports.com/stories/nba/2024-25-nba-finals-odds-team-futures>
+
+---
+
+## Go Cryptography Security Audit
+
+date: 2025-05-19, updated: 2025-05-19, from: Go language blog
+
+Go&#39;s cryptography libraries underwent an audit by Trail of Bits. 
+
+<br> 
+
+<https://go.dev/blog/tob-crypto-audit>
 
 ---
 
