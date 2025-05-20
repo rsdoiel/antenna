@@ -1,11 +1,100 @@
 ---
 title: socal north
-updated: 2025-05-20 06:08:05
+updated: 2025-05-20 14:07:25
 ---
 
 # socal north
 
-(date: 2025-05-20 06:08:05)
+(date: 2025-05-20 14:07:25)
+
+---
+
+## Santa Ana Unified lays off 262 staff as enrollment drops. What does that mean for families?
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+The school district’s enrollment has been dropping, and is now losing federal relief funding. 
+
+<br> 
+
+<https://laist.com/news/education/santa-ana-unified-school-district-2025-layoffs-enrollment-dropping>
+
+---
+
+## ‘Relic of slavery’: California lawmakers are trying again to raise pay for incarcerated workers
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+'It would take you a full business week to be able to afford a two-ounce tube of toothpaste and a bag of hot Cheetos," a California lawmaker said about wages paid to jail inmate workers. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/relic-of-slavery-california-lawmakers-are-trying-again-to-raise-pay-for-incarcerated-workers>
+
+---
+
+## Immigrants learn English for free at California colleges. Under Trump, some are skipping class
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+California’s ESL courses gained 30,000 students over the past six years. As the Trump administration revokes student visas and escalates immigration raids, that growth is at risk. 
+
+<br> 
+
+<https://laist.com/news/education/immigrants-learn-english-for-free-at-california-colleges-under-trump-some-are-skipping-class>
+
+---
+
+## Showdown Stage Company Presents Wild Dust At The Main
+
+date: 2025-05-20, from: City of Santa Clarita
+
+<p>A Steampunk Western Comedy Filled with Secrets, Sisterhood and One Mysterious Dead Body Saddle up for a wild ride with Wild Dust, a funny and heartfelt Steampunk Western presented by Showdown Stage Company. This laugh-out-loud theatrical comedy gallops into The MAIN (24266 Main Street) beginning Friday, May 23. Written by Flip Kobler and Cindy Marcus [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/20/showdown-stage-company-presents-wild-dust-at-the-main/">Showdown Stage Company Presents Wild Dust At The Main</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/20/showdown-stage-company-presents-wild-dust-at-the-main/>
+
+---
+
+## Why California’s biggest local effort to fight homelessness is starting all over again
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+After scathing audits criticizing Los Angeles’ county-city homeless authority, the county is blowing up that joint agency and starting over. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-local-effort-to-fight-homelessness-is-starting-all-over-again>
+
+---
+
+## Large fire, propane tank explosion char Cambodia Town home
+
+date: 2025-05-20, from: Longbeach Post
+
+<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-300x209.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-768x536.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-155x108.jpeg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1200x837.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-400x279.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ.jpeg 1206w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The one-story house was engulfed in flames, and as the fire spread, a propane tank on the property blew up, according to the Long Beach Fire Department.</p>
+<p>The post <a href="https://lbpost.com/news/junipero-fire-cambodia-town-long-beach">Large fire, propane tank explosion char Cambodia Town home</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/junipero-fire-cambodia-town-long-beach>
+
+---
+
+## The history of Southern California’s strawberry fields and the Japanese farmers behind them
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+A look at how Southern California became a hotspot for strawberry farms and the Japanese farmers behind them. 
+
+<br> 
+
+<https://laist.com/news/la-history/the-history-of-southern-californias-strawberry-fields-and-japanese-farmers>
 
 ---
 
@@ -61,7 +150,7 @@ Port of L.A. has seen a 20% cancellation of cargo ships coming in so far this mo
 
 date: 2025-05-19, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Many people in California prisons and jails work for less than $1 an hour. Lawmakers are advancing two bills that could lead to wage increases for some of them.</p>
 <p>The post <a href="https://lbpost.com/news/politics/relic-of-slavery-california-lawmakers-are-trying-again-to-raise-pay-for-incarcerated-workers">‘Relic of slavery’: California lawmakers are trying again to raise pay for incarcerated workers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -74,7 +163,7 @@ date: 2025-05-19, from: Longbeach Post
 
 ## LA’s gonna be hot this week, but we’ve likely dodged a bigger heat wave
 
-date: 2025-05-19, updated: 2025-05-19, from: The LAist
+date: 2025-05-19, updated: 2025-05-20, from: The LAist
 
 Models show mother nature may show some mercy. Highs will merely reach the 90s in most places, though some areas could top 100. 
 
@@ -86,7 +175,7 @@ Models show mother nature may show some mercy. Highs will merely reach the 90s i
 
 ## Getty Villa reopening next month with some Palisades Fire damage
 
-date: 2025-05-19, updated: 2025-05-19, from: The LAist
+date: 2025-05-19, updated: 2025-05-20, from: The LAist
 
 The museum has been closed for more than four months. 
 
@@ -98,7 +187,7 @@ The museum has been closed for more than four months.
 
 ## How to get to Sesame Street? Kids can now head to Netflix as well as PBS
 
-date: 2025-05-19, updated: 2025-05-19, from: The LAist
+date: 2025-05-19, updated: 2025-05-20, from: The LAist
 
 The children's series has found a new streaming home — Netflix, PBS stations and PBS KIDS will air new episodes on the same day. And Netflix will also run 90 hours from the Sesame Street library. 
 
@@ -110,7 +199,7 @@ The children's series has found a new streaming home — Netflix, PBS stations a
 
 ## California lets students wear tribal regalia at graduations. Why it’s still controversial
 
-date: 2025-05-19, updated: 2025-05-19, from: The LAist
+date: 2025-05-19, updated: 2025-05-20, from: The LAist
 
 California law requires schools to let students wear tribal graduation regalia. But many school districts made the process difficult. 
 
@@ -148,7 +237,7 @@ Fossils of the underwater predator shed new light on biodiversity from the Cambr
 
 date: 2025-05-19, from: Longbeach Post
 
-<figure><img width="1024" height="669" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-300x196.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-768x502.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-165x108.jpeg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1536x1003.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1200x784.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1568x1024.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-400x261.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872.jpeg 1644w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="669" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-300x196.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-768x502.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-165x108.jpeg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1536x1003.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1200x784.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1568x1024.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-400x261.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872.jpeg 1644w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>At a press conference, Akil Davis, FBI assistant director in charge of the Los Angeles field office, said the bombing was “an intentional act of terrorism.”</p>
 <p>The post <a href="https://lbpost.com/news/crime/palm-springs-bombings-efilism-fringe-anti-life-views">Authorities probe Palm Springs bombing’s links to fringe ‘anti-life’ views</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -161,7 +250,7 @@ date: 2025-05-19, from: Longbeach Post
 
 ## Where does your weather forecast come from?
 
-date: 2025-05-19, updated: 2025-05-19, from: The LAist
+date: 2025-05-19, updated: 2025-05-20, from: The LAist
 
 Whether you get your forecast from an app on your phone, a website or a meteorologist on TV, most of the underlying information comes from the federal government. 
 
@@ -185,7 +274,7 @@ L.A. County’s Department of Public Health sent notice to 39 organizations that
 
 ## Should California’s climate budget pay for high speed rail and firefighters? Newsom’s new plan triggers fiery debate
 
-date: 2025-05-19, updated: 2025-05-19, from: The LAist
+date: 2025-05-19, updated: 2025-05-20, from: The LAist
 
 Newsom wants to allocate half of funds from the landmark cap and trade program to high speed rail and firefighting — leaving too little for other climate work, critics say. 
 

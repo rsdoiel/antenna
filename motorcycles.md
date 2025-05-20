@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-20 06:08:12
+updated: 2025-05-20 14:07:33
 ---
 
 # motorcycles
 
-(date: 2025-05-20 06:08:12)
+(date: 2025-05-20 14:07:33)
+
+---
+
+## KTM Says It's Been Saved Again, Only Had a Few Days Left
+
+date: 2025-05-20, from: Ride Apart, Electric Motorcycle News
+
+Just where did the mystery money come from? Hmm. 
+
+<br> 
+
+<https://www.rideapart.com/news/760183/ktm-money-restructuring-deadline-bajaj/>
 
 ---
 

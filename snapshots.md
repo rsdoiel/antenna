@@ -1,11 +1,355 @@
 ---
 title: snapshots
-updated: 2025-05-20 06:08:15
+updated: 2025-05-20 14:07:35
 ---
 
 # snapshots
 
-(date: 2025-05-20 06:08:15)
+(date: 2025-05-20 14:07:35)
+
+---
+
+## Scientists Explain Why Trump's $175 Billion Golden Dome Is a Fantasy
+
+date: 2025-05-20, from: 404 Media Group
+
+Shooting missiles out of the sky from space could require a constellation of 36,000 satellites. 
+
+<br> 
+
+<https://www.404media.co/scientists-explain-why-trumps-175-billion-golden-dome-is-a-fantasy/>
+
+---
+
+## Gemini 2.5: Our most intelligent models are getting even better
+
+date: 2025-05-20, updated: 2025-05-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025/#performance">Gemini 2.5: Our most intelligent models are getting even better</a></strong></p>
+A bunch of new Gemini 2.5 announcements at Google I/O today.</p>
+<p>2.5 Flash and 2.5 Pro are both getting audio output (previously previewed in Gemini 2.0) and 2.5 Pro is getting an enhanced reasoning mode called "Deep Think" - not yet available via the API.</p>
+<p>Available today is the latest Gemini 2.5 Flash model, <code>gemini-2.5-flash-preview-05-20</code>. I added support to that in <a href="https://github.com/simonw/llm-gemini/releases/tag/0.20">llm-gemini 0.20</a> (and, if you're using the <a href="https://simonwillison.net/2025/May/14/llm-adds-support-for-tools/">LLM tool-use alpha</a>, <a href="https://github.com/simonw/llm-gemini/releases/tag/0.20a2">llm-gemini 0.20a2</a>).</p>
+<p>I tried it out on my personal benchmark, as seen <a href="https://simonwillison.net/2025/May/20/google-io-pelican/">in the Google I/O keynote</a>!</p>
+<pre><code>llm -m gemini-2.5-flash-preview-05-20 'Generate an SVG of a pelican riding a bicycle'
+</code></pre>
+<p>Here's what I got from the default model, with its thinking mode enabled:</p>
+<p><img alt="The bicycle has spokes that look like a spider web. The pelican is goofy but recognizable." src="https://static.simonwillison.net/static/2025/flash-pelican-thinking.png" /></p>
+<p><a href="https://gist.github.com/simonw/5b61866cb4ce67899934c29a9de1b4be">Full transcript</a>. 11 input tokens, 2,619 output tokens, 10,391 thinking tokens = 4.5537 cents.</p>
+<p>I ran the same thing again with <code>-o thinking_budget 0</code> to turn off thinking mode entirely, and got this:</p>
+<p><img alt="The bicycle has too many bits of frame in the wrong direction. The pelican is yellow and weirdly shaped." src="https://static.simonwillison.net/static/2025/flash-pelican-no-thinking.png" /></p>
+<p><a href="https://gist.github.com/simonw/3e6740d2a99be4922af455d14bc1c943">Full transcript</a>. 11 input, 1,243 output = 0.0747 cents.</p>
+<p>The non-thinking model is priced differently - still $0.15/million for input but $0.60/million for output as opposed to $3.50/million for thinking+output. The pelican it drew was  61x cheaper!</p>
+<p>Finally, inspired by the keynote I ran this follow-up prompt to animate the more expensive pelican:</p>
+<pre><code>llm --cid 01jvqjqz9aha979yemcp7a4885 'Now animate it'
+</code></pre>
+<p>This one is pretty great!</p>
+<p><img src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-05-20-animated.svg" alt="The wheels and pedals are rotating and the pelican is bobbing up and down. This would be a fantastic animated pelican if the pelican didn't kind of suck!">
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/20/gemini-25/#atom-everything>
+
+---
+
+## Why Apple Still Hasn’t Cracked AI
+
+date: 2025-05-20, from: Michael Tsai
+
+Mark Gurman and Drake Bennett (Reddit, Hacker News, 9to5Mac, Dithering): As for the Siri upgrade, Apple was targeting April 2025, according to people working on the technology. But when Federighi started running a beta of the iOS version, 18.4, on his own phone weeks before the operating system&#8217;s planned release, he was shocked to find [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/20/why-apple-still-hasnt-cracked-ai/>
+
+---
+
+## Delta’s IAP Scare Sheet
+
+date: 2025-05-20, from: Michael Tsai
+
+Riley Testut: Delta&#8217;s latest update with our revised Patreon sign-up flow has been approved! We can now freely mention our Patreon without giving Apple 27% of donations &#x1F389; Of course Apple still requires we offer in-app purchases&#8230;so we shoved them away at the bottom of Delta&#8217;s settings under &#8220;Alternate Payment Methods&#8221; &#175;\_(&#x30C4;)_/&#175; Riley Testut: It&#8217;s [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/20/deltas-iap-scare-sheet/>
+
+---
+
+## Stripe Managed Payments
+
+date: 2025-05-20, from: Michael Tsai
+
+JR Farr (Hacker News): At Stripe Sessions, we announced something we&#8217;ve been quietly crafting for months: Stripe Managed Payments &#8212; a new merchant of record experience, built directly into Stripe and launching this summer in private preview.This is a big step forward. Stripe Managed Payments is designed to handle all the heavy lifting for digital [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/20/stripe-managed-payments/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-20, from: Dave Winer's linkblog)
+
+FDA vaccine framework changes Covid shot recommendations. 
+
+<br> 
+
+<https://www.statnews.com/2025/05/20/fda-vaccine-framework-new-covid-shot-recommendations-vinay-prasad-marty-makary/>
+
+---
+
+## Google I/O Pelican
+
+date: 2025-05-20, updated: 2025-05-20, from: Simon Willison’s Weblog
+
+<p>Tucked into today's Google I/O keynote, <a href="https://www.youtube.com/live/o8NiE3XMPrM?si=lOK-8OX01SC9UEJa&amp;t=5270">a blink-and-you'll miss it moment</a>:</p>
+<div style="max-width: 100%; margin-bottom: 0.4em">
+    <video controls="controls" preload="none" aria-label="Snippet from Google I/O" aria-description="Overlaid text says Animate anything, and for a brief moment there is a vector-style animation of a pelican riding a bicycle" poster="https://static.simonwillison.net/static/2025/google-io-pelican.jpg" loop="loop" style="width: 100%; height: auto;" muted="muted">
+        <source src="https://static.simonwillison.net/static/2025/google-io-pelican.mp4" type="video/mp4">
+    </video>
+</div>
+
+<p>The pelican in the keynote <a href="https://twitter.com/alexanderchen/status/1924911741705629828">was created by Alexander Chen</a>. Here's <a href="https://gemini.google.com/share/cd81bbb98f33">the code they wrote</a> with the help of Gemini, which uses <a href="https://p5js.org/">p5.js</a> to power the animation.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/google-io">google-io</a>, <a href="https://simonwillison.net/tags/google">google</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/20/google-io-pelican/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-20, from: Dave Winer's linkblog)
+
+I have a new search engine for my blog, going back to 1994. Something new to explore that’s pretty old. For example this is a search for “Compuserve” which came up a lot, once. 
+
+<br> 
+
+<https://daytona.scripting.com/search?q=Compuserve>
+
+---
+
+## What Most Crypto Users Get Wrong About DeFi Security
+
+date: 2025-05-20, from: Guy Kawasaki blog
+
+Mingyi Liu, Ph.D. student in Computer Science, Georgia Institute of Technology. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/what-most-crypto-users-get-wrong>
+
+---
+
+## The Comic Book Sales Team
+
+date: 2025-05-20, updated: 2025-05-20, from: Tedium site
+
+Discussing the rise and fall of the “sales club,” a marketing tactic that gained extreme popularity with kids in the 1960s and 1970s. (Warning: This story ends kind of bleak.) 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17034729/comic-book-youth-sales-clubs-history>
+
+---
+
+## cityofaustin/atd-data-tech issues
+
+date: 2025-05-20, updated: 2025-05-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/cityofaustin/atd-data-tech/issues">cityofaustin/atd-data-tech issues</a></strong></p>
+I stumbled across this today while looking for interesting frequently updated data sources from local governments. It turns out the City of Austin's <a href="https://austinmobility.io/">Transportation Data &amp; Technology Services</a> department run everything out of a public GitHub issues instance, which currently has 20,225 closed and 2,002 open issues. They also publish an <a href="https://data.austintexas.gov/Transportation-and-Mobility/Transportation-Public-Works-Data-Tech-Services-Iss/rzwg-fyv8/about_data">exported copy</a> of the issues data through the <a href="https://data.austintexas.gov/">data.austintexas.gov</a> open data portal.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/open-data">open-data</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/github-issues">github-issues</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/20/data-tech-issues/#atom-everything>
+
+---
+
+## Viral AI-Generated Summer Guide Printed by Chicago Sun-Times Was Made by Magazine Giant Hearst
+
+date: 2025-05-20, from: 404 Media Group
+
+The Chicago Sun-Times said "we understand this is unacceptable for us to distribute." 
+
+<br> 
+
+<https://www.404media.co/viral-ai-generated-summer-guide-printed-by-chicago-sun-times-was-made-by-magazine-giant-hearst/>
+
+---
+
+## GMKtec EVO-X1 Review: Mini PC shows big performance can come from small packages
+
+date: 2025-05-20, from: Liliputing
+
+<p>The GMKtec EVO-X1 is a mini PC that combines a versatile set of ports with a powerful 12-core, 24-thread AMD Ryzen AI 9 HX 370 Strix Point processor with 16-core RDNA 3.5 integrated graphics and an NPU that delivers up to 50 TOPS of AI performance. And all of that fits inside a compact body that&#8217;s [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gmktec-evo-x1-review-mini-pc-shows-big-performance-can-come-from-small-packages/">GMKtec EVO-X1 Review: Mini PC shows big performance can come from small packages</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gmktec-evo-x1-review-mini-pc-shows-big-performance-can-come-from-small-packages/>
+
+---
+
+## Live with Jared Bernstein
+
+date: 2025-05-20, from: Paul Krugman
+
+A recording from Paul Krugman and Jared Bernstein's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164019143/2c33d68d68b87b21e812ab40912c67e8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164019143/2c33d68d68b87b21e812ab40912c67e8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/live-with-jared-bernstein>
+
+---
+
+## Civitai, Site Used to Generate AI Porn, Cut Off by Credit Card Processor
+
+date: 2025-05-20, from: 404 Media Group
+
+Civitai, a huge platform for sharing AI models and generating videos and images, has been cut off from its payment processor.  
+
+<br> 
+
+<https://www.404media.co/civitai-site-used-to-generate-ai-porn-cut-off-by-credit-card-processor/>
+
+---
+
+## Jewish American Heritage sites in the National Register of Historic Places
+
+date: 2025-05-20, from: National Archives, Text Message blog
+
+The month of May is, among other things, recognized as Jewish American Heritage Month, recognizing the contributions of Jewish Americans to American culture, history, and society.  There are a number of properties in the National Register series that include “Jewish” in the description, along with a number of synagogues and temples. In Newport, Rhode Island, &#8230; <a href="https://text-message.blogs.archives.gov/2025/05/20/jewish-american-heritage-sites-in-the-national-register-of-historic-places/" class="more-link">Continue reading <span class="screen-reader-text">Jewish American Heritage sites in the National Register of Historic Places</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/05/20/jewish-american-heritage-sites-in-the-national-register-of-historic-places/>
+
+---
+
+## Un mejor papá: una comedia entre una hija y alguien que no es su padre
+
+date: 2025-05-20, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Tracie Laymon. Guion: Tracie Laymon. País: EUA. Elenco: Barbie Ferreira, John Leguizamo, French Stewart, Lauren Spencer, Rachel Bay Jonesl Más información de la película: https://www.imdb.com/title/tt28613536/ La relación con el padre es parte clave de la identidad humana y hasta los memes lo reconocen. Si una mujer se viste de cierta manera o desempeña cierto [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-un-mejor-papa/">Un mejor papá: una comedia entre una hija y alguien que no es su padre</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-un-mejor-papa/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-un-mejor-papa>
+
+---
+
+## Zotac reveals next-gen gaming handheld with AMD Strix Point and Manjaro Linux
+
+date: 2025-05-20, from: Liliputing
+
+<p>As promised, Zotac is using the Computex show in Taiwan this week to provide an early look at its next-gen handheld gaming PC. The company is showing off a prototype of the new Zotac Gaming Zone that looks, at first glance, a lot like last year&#8217;s model. But there are some big changes under the hood. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/zotac-reveals-next-gen-gaming-handheld-with-amd-strix-point-and-manjaro-linux/">Zotac reveals next-gen gaming handheld with AMD Strix Point and Manjaro Linux</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/zotac-reveals-next-gen-gaming-handheld-with-amd-strix-point-and-manjaro-linux/>
+
+---
+
+## After months of coding with LLMs, I'm going back to using my brain
+
+date: 2025-05-20, updated: 2025-05-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://albertofortin.com/writing/coding-with-ai">After months of coding with LLMs, I&#x27;m going back to using my brain</a></strong></p>
+Interesting vibe coding retrospective from Alberto Fortin. Alberto is an experienced software developer and decided to use Claude an Cursor to rewrite an existing system using Go and ClickHouse - two new-to-him technologies.</p>
+<blockquote>
+<p>One morning, I decide to actually inspect closely what’s all this code that Cursor has been writing. It’s not like I was blindly prompting without looking at the end result, but I was optimizing for speed and I hadn’t actually sat down just to review the code. I was just building building building.</p>
+<p>So I do a “coding review” session. And <strong>the horror ensues</strong>.</p>
+<p>Two service files, in the same directory, with similar names, clearly doing a very similar thing. But the method names are different. The props are not consistent. One is called "WebAPIprovider", the other one "webApi". They represent the same exact parameter. The same method is redeclared multiple times across different files. The same config file is being called in different ways and retrieved with different methods.</p>
+<p>No consistency, no overarching plan. It’s like I'd asked 10 junior-mid developers to work on this codebase, with no Git access, locking them in a room without seeing what the other 9 were doing.</p>
+</blockquote>
+<p>Alberto reset to a less vibe-heavy approach and is finding it to be a much more productive way of working:</p>
+<blockquote>
+<p>I’m defaulting to pen and paper, I’m defaulting to coding the first draft of that function on my own.  [...] But I’m not asking it to write new things from scratch, to come up with ideas or to write a whole new plan. I’m writing the plan. I’m the senior dev. The LLM is the assistant.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/20/after-months-of-coding-with-llms/#atom-everything>
+
+---
+
+## Radxa NIO 5A is a single-board PC with up to 10 TOPS of AI performance
+
+date: 2025-05-20, from: Liliputing
+
+<p>The Radxa NIO 5A is a credit card-sized single-board computer that looks a bit like a Raspberry Pi model B. It even has a Raspberry Pi-compatible 40-pin GPIO header. But this upcoming mini PC has a few features that help set it apart. One is support for WiFi 6E. Another is a built-in MIPI-CSI connector. But [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/radxa-nio-5a-is-a-single-board-pc-with-up-to-10-tops-of-ai-performance/">Radxa NIO 5A is a single-board PC with up to 10 TOPS of AI performance</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/radxa-nio-5a-is-a-single-board-pc-with-up-to-10-tops-of-ai-performance/>
+
+---
+
+## Chicago Sun-Times Prints AI-Generated Summer Reading List With Books That Don't Exist
+
+date: 2025-05-20, from: 404 Media Group
+
+"I can't believe I missed it because it's so obvious. No excuses," the writer said. "I'm completely embarrassed." 
+
+<br> 
+
+<https://www.404media.co/chicago-sun-times-prints-ai-generated-summer-reading-list-with-books-that-dont-exist/>
+
+---
+
+## Conquer the command line, 3rd edition — out now!
+
+date: 2025-05-20, from: Raspberry Pi News (.com)
+
+<p>An update to one of our classic Essentials books, 'Conquer the command line': everything from beginner-friendly basics to advanced commands.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/conquer-the-command-line-3rd-edition-out-now/">Conquer the command line, 3rd edition — out now!</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/conquer-the-command-line-3rd-edition-out-now/>
+
+---
+
+## 'Configuration Issue' Allows Civitai Users to AI Generate Nonconsensual Porn Videos
+
+date: 2025-05-20, from: 404 Media Group
+
+404 Media found that people were using Civitai to create nonconsensual AI porn videos of anyone for a small price.  
+
+<br> 
+
+<https://www.404media.co/configuration-issue-allows-civitai-users-to-ai-generate-nonconsensual-porn-videos/>
+
+---
+
+## The Giant Sour Patch Kids
+
+date: 2025-05-20, updated: 2025-05-20, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/20/the-giant-sour-patch-kids/>
 
 ---
 
@@ -151,7 +495,7 @@ It seems like <em>everyone</em> is rolling out AI coding assistants that attach 
 <p>My habit of <a href="https://simonwillison.net/2022/Nov/26/productivity/#issue-thread">creating long issue threads</a> where I talk to myself about the features I'm planning is proving to be a good fit for outsourcing implementation work to this new generation of coding assistants.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/github">github</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/github-issues">github-issues</a></p> 
 
 <br> 
 
@@ -399,6 +743,21 @@ The 14 year old's mother left an old laptop in a closet and now alleges it's adu
 
 ---
 
+## Enhance your application security with administrator protection
+
+date: 2025-05-19, from: Windows Developer Blog
+
+<h3>Introduction</h3>
+<p>Administrator protection is a new Windows 11 platform security feature that aims to protect the admin users on the device while still allowing them to perform the necessary functions which may require use of admin level permissi</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/enhance-your-application-security-with-administrator-protection/">Enhance your application security with administrator protection</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/05/19/enhance-your-application-security-with-administrator-protection/>
+
+---
+
 ## AI may have just influenced Argentina’s election
 
 date: 2025-05-19, from: Gary Marcus blog
@@ -466,21 +825,6 @@ date: 2025-05-19, from: Windows Developer Blog
 <br> 
 
 <https://blogs.windows.com/windowsdeveloper/2025/05/19/accelerating-ai-development-with-windows-based-ai-workstations/>
-
----
-
-## Enhance your application security with administrator protection
-
-date: 2025-05-19, from: Windows Developer Blog
-
-<h3>Introduction</h3>
-<p>Administrator protection is a new Windows 11 platform security feature that aims to protect the admin users on the device while still allowing them to perform the necessary functions which may require use of admin level permissi</p>
-<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/enhance-your-application-security-with-administrator-protection/">Enhance your application security with administrator protection</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
- 
-
-<br> 
-
-<https://blogs.windows.com/windowsdeveloper/2025/05/19/enhance-your-application-security-with-administrator-protection/>
 
 ---
 

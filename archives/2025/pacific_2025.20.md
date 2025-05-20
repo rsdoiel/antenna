@@ -1,11 +1,71 @@
 ---
 title: pacific
-updated: 2025-05-20 06:08:06
+updated: 2025-05-20 14:07:26
 ---
 
 # pacific
 
-(date: 2025-05-20 06:08:06)
+(date: 2025-05-20 14:07:26)
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-05-20, updated: 2025-05-20, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Trump says Russia, Ukraine agree to immediate ceasefire talks, Kremlin offers no timeframe
+
+date: 2025-05-20, updated: 2025-05-20, from: Marianas Variety
+
+WASHINGTON/MOSCOW/KYIV (Reuters) — Donald Trump said after his call on Monday with President Vladimir Putin that Russia and Ukraine will immediately start negotiations for a ceasefire, but the Kremlin said the process would take time and the U.S. president indicated he was not ready to join Europe with fresh sanctions to pressure Moscow. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-says-russia-ukraine-agree-to-immediate-ceasefire-talks-kremlin-offers-no-timeframe/article_c13012fa-d0bd-4900-a9ec-ab48205a503e.html>
+
+---
+
+## Kanye West’s South Korea concert cancelled due to ‘controversies’
+
+date: 2025-05-20, updated: 2025-05-20, from: Marianas Variety
+
+(Reuters) — Kanye West has had his upcoming concert in South Korea cancelled. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/kanye-west-s-south-korea-concert-cancelled-due-to-controversies/article_c223ef32-487e-48b2-893a-6eb2e42e1253.html>
+
+---
+
+## Poetry
+
+date: 2025-05-20, updated: 2025-05-20, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_112e2ba4-e89f-4105-8e9d-522acf27f0d2.html>
+
+---
+
+## Guam: Lack of workforce housing slowing H2 labor arrivals, military buildup projects
+
+date: 2025-05-20, updated: 2025-05-20, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A Guam Department of Labor official said there's been a lull in the recruitment of foreign H2 workers, and the military has slowed its awarding of buildup related contracts. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-lack-of-workforce-housing-slowing-h2-labor-arrivals-military-buildup-projects/article_cec42d14-cd80-4a6f-a792-a877f88e007b.html>
 
 ---
 

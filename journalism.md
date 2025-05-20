@@ -1,11 +1,47 @@
 ---
 title: journalism
-updated: 2025-05-20 06:08:10
+updated: 2025-05-20 14:07:30
 ---
 
 # journalism
 
-(date: 2025-05-20 06:08:10)
+(date: 2025-05-20 14:07:30)
+
+---
+
+## California Sens. Alex Padilla, Adam Schiff condemn student visa revocations
+
+date: 2025-05-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Both of California’s United States Senators condemned the Trump administration’s revocations of student visas in a Tuesday letter to U.S. Secretary of State Marco Rubio and Secretary of Homeland Security Kristi Noem. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/20/california-sens-alex-padilla-adam-schiff-condemn-student-visa-revocations/>
+
+---
+
+## UCLA Gaming and Esports Expo
+
+date: 2025-05-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+On April 19 and 20, UCLA Recreation hosted a two-day event to bring the gaming community together. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/20/ucla-gaming-and-esports-expo/>
+
+---
+
+## Exploring La La Land
+
+date: 2025-05-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/05/20/exploring-la-la-land/>
 
 ---
 
@@ -27,7 +63,7 @@ Since his appointment, Zeldin has overseen the rollback of 31 environmental regu
 date: 2025-05-20, from: The Daily Bruin (UCLA Student Newspaper)
 
 Stefano Fendrich had only been editor in chief of the Daily Trojan for a few weeks when he received bad news.
-The University of Southern California&#8217;s Student Life office told him the paper had a budget deficit of $80,000, print was being cut from daily to three days a week and his staff would no longer be paid, Fendrich said. 
+The University of Southern California’s Student Life office told him the paper had a budget deficit of $80,000, print was being cut from daily to three days a week and his staff would no longer be paid, Fendrich said. 
 
 <br> 
 

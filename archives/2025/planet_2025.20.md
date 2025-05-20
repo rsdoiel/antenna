@@ -1,11 +1,279 @@
 ---
 title: planet
-updated: 2025-05-20 06:08:04
+updated: 2025-05-20 14:07:24
 ---
 
 # planet
 
-(date: 2025-05-20 06:08:04)
+(date: 2025-05-20 14:07:24)
+
+---
+
+## Cheers star George Wendt dies aged 76
+
+date: 2025-05-20, from: RTÉ News
+
+George Wendt, who played the affable, beer-loving barfly Norm on the hit 1980s TV comedy Cheers and later crafted a stage career that took him to Broadway in Art, Hairspray and Elf, has died aged 76. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0520/1513991-cheers-star-george-wendt-dies-aged-76/>
+
+---
+
+## Mother of Combs' ex Cassie testifies at trial
+
+date: 2025-05-20, from: RTÉ News
+
+The mother of Sean "Diddy" Combs' ex-partner Cassie has testified about threats and violence experienced by her daughter during her decade-long relationship with the music mogul. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0520/1513990-diddy-trial/>
+
+---
+
+## Maradona trial paused as judge's impartiality questioned
+
+date: 2025-05-20, from: RTÉ News
+
+The Argentine court trying the medical team of late football legend Diego Maradona over his death suspended the trial for a week over questions about a judge's impartiality 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0520/1513989-maradona-trial/>
+
+---
+
+## 'No moving on': McCann parents speak out after debs crash deaths
+
+date: 2025-05-20, from: RTÉ News
+
+The parents of Kiea McCann, one of two teenagers killed in a crash on the way to a Debs ball in Monaghan in 2023, have spoken in their first television interview about arriving to the scene of the crash moments after it occurred. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0520/1513988-no-moving-on-mccann-parents-speak-out-after-debs-crash-deaths/>
+
+---
+
+## Amputee, 92, threatened to murder care home staff - court
+
+date: 2025-05-20, from: RTÉ News
+
+A 92-year-old disabled man threatened to murder care home workers before he was allegedly assaulted by police, a British court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0520/1513985-pensioner-pepper-sprayed-care-home/>
+
+---
+
+## SF accuses FF of bid to commemorate William the Conqueror
+
+date: 2025-05-20, from: RTÉ News
+
+Sinn Féin has accused Fianna Fáil of pushing the Government to commemorate the birth of England's first Norman king, William the Conqueror. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0520/1513978-norman-initiative-politics/>
+
+---
+
+## Legislation to change Triple lock to be published soon
+
+date: 2025-05-20, from: RTÉ News
+
+Legislation that will remove the need for UN approval when deploying more than 12 members of the Defence Forces overseas will be published before the end of the week. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0520/1513973-triple-lock/>
+
+---
+
+## Significant drop in alcohol, cigarette use by Irish teens
+
+date: 2025-05-20, from: RTÉ News
+
+Alcohol and cigarette use by Irish teenagers has significantly declined over the past 30 years, according to a new study published today. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0520/1513969-alcohol-use-study/>
+
+---
+
+## Assessment of needs important step in children's lives
+
+date: 2025-05-20, from: RTÉ News
+
+Parents who know their child requires a bit more support to navigate everyday life never forget the contrasting emotions when their needs are crystallised, writes Mícheál Lehane. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0520/1513963-assessment-needs-children/>
+
+---
+
+## RTÉ requests breakdown of Eurovision voting numbers
+
+date: 2025-05-20, from: RTÉ News
+
+RTÉ has requested a breakdown in Eurovision voting numbers from the European Broadcast Union (EBU) and its voting partner Once. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0520/1513954-rte-requests-breakdown-of-eurovision-voting-numbers/>
+
+---
+
+## EU to lift economic sanctions on Syria, says Kallas
+
+date: 2025-05-20, from: RTÉ News
+
+EU foreign ministers have agreed to lift economic sanctions on Syria, the bloc's foreign policy chief Kaja Kallas said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0520/1513951-syria-us/>
+
+---
+
+## Inquest unable to find how prisoner received head injury
+
+date: 2025-05-20, from: RTÉ News
+
+An inquest into the death of a vulnerable prisoner has been unable to establish how exactly he suffered a fatal head injury while being detained in Cloverhill Prison in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0520/1513947-christopher-doherty-inquest/>
+
+---
+
+## Further search on Michael Gaine farm as suspect released
+
+date: 2025-05-20, from: RTÉ News
+
+Searches continued this afternoon on the farm of missing Kerry farmer Michael Gaine, with much of the search activity focused on the farmyard in Carrig East and the adjoining fields. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513949-searches-gaine-farm/>
+
+---
+
+## Pope Leo XIV: Build bridges for ecological and social justice
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>Marking the 10th anniversary of Laudato si’, Pope Leo XIV sends a videomessage to the Network of Universities for the Care of Our Common Home, and encourages their synodal reflection ahead of COP30.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-videomessage-laudato-si-common-home.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-videomessage-laudato-si-common-home.html>
+
+---
+
+## EU plans €2 flat fee on small parcels from outside bloc
+
+date: 2025-05-20, from: RTÉ News
+
+The EU has said it is preparing to impose a €2 flat fee on the billions of low-value packages that flood into the bloc each year, the great majority from China. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0520/1513944-eu-plans-2-flat-fee-on-small-parcels-from-outside-bloc/>
+
+---
+
+## Pope Leo prays at tomb of St Paul
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>Pope Leo visits the tomb of St Paul, and prays: “May the Lord grant me the grace to respond faithfully to his call.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-st-paul-tomb-mission-romans-grace-faith.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-st-paul-tomb-mission-romans-grace-faith.html>
+
+---
+
+## Social Democrats in Dáil bid to reduce voting age to 16
+
+date: 2025-05-20, from: RTÉ News
+
+The Social Democrats have introduced a bill in the Dáil calling for a referendum to reduce the voting age to 16 years. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0520/1513942-voting-age-bill/>
+
+---
+
+## Cardinal Parolin receives prize: Serving the Pope for a just world
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>Cardinal Parolin receives the Path to Peace Foundation’s award, stating he accepted it on behalf of the Secretariat of State, “which works tirelessly for the Pope to promote justice in our world.”</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/parolin-receives-peace-prize-serving-the-pope-for-just-world.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/parolin-receives-peace-prize-serving-the-pope-for-just-world.html>
+
+---
+
+## Climate change increasing pregnancy issues risk - study
+
+date: 2025-05-20, from: RTÉ News
+
+Scorching heatwaves fuelled by global warming are increasing the risk of dangerous complications during pregnancies across the world, a report has warned. 
+
+<br> 
+
+<https://www.rte.ie/news/newslens/2025/0520/1513929-climate-change-pregnancy/>
+
+---
+
+## Pope Leo XIV visits the Dicastery for Bishops
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>Pope Leo XIV makes a surprise visit to the Dicastery for Bishops - where he had served as Prefect until he was elected Pope - and celebrates Mass in the Dicastery's chapel.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-visits-the-dicastery-for-bishops.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-visits-the-dicastery-for-bishops.html>
+
+---
+
+## Two men found guilty of murder of man in Co Meath
+
+date: 2025-05-20, from: RTÉ News
+
+Two men have been found guilty of the murder of a 22-year-old man, who was beaten to death and dumped in a wooded area in Co Meath in 2022, after a row over a stolen bag of cannabis. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0520/1513912-otniel-richardo-clejan-and-viorel-doroscan/>
 
 ---
 
@@ -45,6 +313,18 @@ No cause of death could be determined for Cork woman, Tina Satchwell, due to the
 
 ---
 
+## Portugal's far-right Chega makes historic election gains. Some are comparing it to Trump's rise
+
+date: 2025-05-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7538894.1747750880!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/portugal-election.jpg' alt='Supporters wave flags that say Chega and wear masks of  a  man&apos;s face' width='620' height='349' title='Supporters of the populist right-wing party Chega wear masks of its leader Andre Ventura during an election campaign rally in downtown Lisbon, Friday, May 16, 2025, ahead of the May 18 general election. '/><p>Portugal’s third general election in three years has failed to deliver the result that could break the worst spell of political instability for decades in the European Union country of 10.6 million people.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/portugal-election-immigration-1.7538831?cmp=rss>
+
+---
+
 ## Expert warns parents over AI deepfakes of children
 
 date: 2025-05-20, from: RTÉ News
@@ -57,11 +337,11 @@ Only 20 images of a child are needed for AI to create a deepfake video of them, 
 
 ---
 
-## Four people go on trial for aiding Ashling Murphy killer
+## Four accused of misleading gardaí in Aisling Murphy probe
 
 date: 2025-05-20, from: RTÉ News
 
-The trial of two brothers and their wives, who are accused of withholding information or assisting Jozef Puska after he had murdered 23-year-old school teacher Ashling Murphy in Tullamore three years ago, has gotten under way. 
+Two brothers and their wives have been accused of misleading gardaí investigating the murder of schoolteacher Aisling Murphy in Tullamore, Co Offaly three years ago. 
 
 <br> 
 
@@ -78,6 +358,90 @@ After three years of negotiations sparked by the COVID-19 crisis, countries have
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163451>
+
+---
+
+## UN life-saving aid allowed to trickle into Gaza as needs mount
+
+date: 2025-05-20, from: United Nations, Top Stories
+
+Aid is trickling into Gaza after nearly three months of blockade, but it remains far from enough to meet the soaring humanitarian needs, UN Spokesperson Stéphane Dujarric said on Tuesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163501>
+
+---
+
+## ‘Keep the lights on’ for women and girls caught up in crisis
+
+date: 2025-05-20, from: United Nations, Top Stories
+
+Women and girls living through humanitarian crises are at risk of being overlooked – just as they are at their most vulnerable.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163496>
+
+---
+
+## 90 days to economic collapse: UN and experts sound alarm over security at sea
+
+date: 2025-05-20, from: United Nations, Top Stories
+
+The UN Secretary-General on Tuesday urged world powers to uphold international maritime law and overcome geopolitical rivalries, warning that growing threats are endangering global trade, marine ecosystems and international peace. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163491>
+
+---
+
+## AI threatens one in four jobs – but transformation, not replacement, is the real risk
+
+date: 2025-05-20, from: United Nations, Economic Development
+
+Women and clerical workers face the highest risk of their roles being radically transformed, prompting calls for inclusive policy responses.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163486>
+
+---
+
+## Afghanistan’s returnees at a crossroads between collapse and recovery
+
+date: 2025-05-20, from: United Nations, Top Stories
+
+Afghanistan stands at a critical juncture, where the large-scale return of refugees could either plunge the country deeper into crisis or contribute to a path of renewal and stability. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163461>
+
+---
+
+## Organized crime groups increasingly embedded in gold supply chain
+
+date: 2025-05-20, from: United Nations, Top Stories
+
+The global drive for renewable energy technologies has sharply increased demand for so-called critical minerals, heightening the risk of crime, corruption, and instability across supply chains as organised crime groups infiltrate the mining industry. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163456>
+
+---
+
+## This 19-year-old female lacrosse player from Kanehsatà:ke is making history
+
+date: 2025-05-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/72f28ac7-4763-441b-a765-d27903e5ea3a,1747758439620/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Extreme close up of female lacrosse player wearing her helmet and smiling.' width='620' height='349' title=''/><p>Ava Gabriel is the first woman in the Ontario Lacrosse Association to play for a junior men's team as an offensive player. But she says breaking the gender barrier wasn’t something she was planning on doing.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6765544?cmp=rss>
 
 ---
 
@@ -145,6 +509,18 @@ date: 2025-05-20, from: Vatican News
 
 ---
 
+## Global pandemic accord adopted by WHO amid U.S. absence
+
+date: 2025-05-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.5574855.1747748655!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/virus-outbreak-who-probe.jpg' alt='A man with grey hair, moustache and black glasses seated wearing a black suit with tie and a nameplate reading Dr Tedros Adhanom Ghebreyesus on the first line and WHO Director General in all caps on the second line.' width='620' height='349' title='On Monday, WHO Director General Tedros Adhanom Ghebreyesus, promised an independent review of the global pandemic response at the &apos;earliest appropriate moment.&apos; '/><p>Members of the World Health Organization have adopted an agreement intended to improve preparedness for future pandemics following the disjointed global response to COVID-19.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/who-pandemic-treaty-1.7538851?cmp=rss>
+
+---
+
 ## Uganda: Catholic institutions and faith-based organisations pledge to eliminate single use plastics
 
 date: 2025-05-20, from: Vatican News
@@ -158,6 +534,18 @@ date: 2025-05-20, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/africa/news/2025-05/uganda-catholic-institutions-and-faith-based-organisations-ple.html>
+
+---
+
+## IN PHOTOS | Chelsea Flower Show blooms with royals, celebs
+
+date: 2025-05-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7538883.1747749870!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-chelsea-flower-show.jpg' alt='Elderly man in pinstripe suit standing in a field of wildflowers.' width='620' height='349' title='Britain&apos;s King Charles III, patron of the Royal Horticultural Society, visits the Chelsea Flower Show in London, Monday May 19, 2025. (Toby Melville/Pool via AP)'/><p>Running from May 20 to 24, the Chelsea Gardening Show by the Royal Horticultural Society in the U.K. sees garden designers competing to earn coveted bronze, silver or gold medals with their imaginative landscapes and floral displays.  </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/photos/in-photos-chelsea-flower-show-blooms-with-royals-celebs-1.7538880?cmp=rss>
 
 ---
 
@@ -186,6 +574,18 @@ date: 2025-05-20, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/church/news/2025-05/interview-cafod-gaza-limiting-aid-amid-humanitarian-catastrophe.html>
+
+---
+
+## More voters, more excitement for Métis Nation-Sask. election, prof says
+
+date: 2025-05-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7033176.1700366099!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/untitled-design-2.jpg' alt='a glass infinity symbol on top of a woven sash' width='620' height='349' title='The infinity symbol is used on the Métis flag, representing that &quot;Métis people will exist forever,&quot; according to the Métis Nation of Alberta&apos;s website. Métis Week is an annual celebration that takes place from Nov. 12 to 18 to learn about Métis history and culture.'/><p>Almost 28,000 Métis Nation-Saskatchewan citizens — the most ever — are eligible to vote for leadership and regional directors on May 24 at polls across the province.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/metis-nation-saskatchewan-2025-election-1.7535865?cmp=rss>
 
 ---
 
@@ -249,11 +649,11 @@ Three days of intense activity in the investigation into the disappearance of Ke
 
 ---
 
-## 14,000 babies could die in next 48 hours without aid - UN
+## 93 UN aid trucks entered Gaza today, says Israel
 
 date: 2025-05-20, from: RTÉ News
 
-The UN's humanitarian chief Tom Fletcher has said 14,000 babies could die in Gaza in the next 48 hours if more aid does not reach them. 
+Israel has said 93 UN aid trucks entered war-ravaged Gaza today, a day after the UN announced it had been cleared to send supplies for the first time since Israel imposed a total blockade on 2 March. 
 
 <br> 
 
@@ -289,6 +689,18 @@ Israeli air strikes have killed at least 50 Palestinians in Gaza, local health a
 
 ---
 
+## EU to review cooperation deal with Israel over Gaza
+
+date: 2025-05-20, from: RTÉ News
+
+The European Union has agreed to review its cooperation deal with Israel, after a clear majority of member states supported a Dutch proposal to do so. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0520/1513806-gaza-middle-east/>
+
+---
+
 ## Irish gardener wins gold medal at Chelsea Flower Show
 
 date: 2025-05-20, from: RTÉ News
@@ -298,6 +710,18 @@ Irish gardener Billy Alexander has won a gold medal at this year's Chelsea Flowe
 <br> 
 
 <https://www.rte.ie/news/2025/0520/1513807-billy-alexander-chelsea-flower-show/>
+
+---
+
+## Irish gardener wins gold medal at Chelsea Flower Show
+
+date: 2025-05-20, from: RTÉ News
+
+Irish Gardener Billy Alexander has won a gold medal at this year's Chelsea Flower Show in London. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513807-alexander-chelsea-flower-show/>
 
 ---
 
@@ -385,11 +809,11 @@ date: 2025-05-20, from: CBC, Indigenious News
 
 ---
 
-## Russia 'trying to buy time' to 'continue war' - Zelensky
+## EU countries adopt four sets of new Russia sanctions
 
 date: 2025-05-20, from: RTÉ News
 
-Ukrainian President Volodymyr Zelensky has accused Russia of not seriously engaging in peace talks and of wanting to continue its three-year invasion, despite a US push for a ceasefire. 
+The EU has adopted four sets of sanctions against Russia over the war in Ukraine, including a 17th package targeting Moscow's shadow fleet, and measures related to chemical weapons, human rights and hybrid threats, the European Commission has said. 
 
 <br> 
 
@@ -409,11 +833,11 @@ Around 50 farmers took part in a demonstration outside the European Commission o
 
 ---
 
-## Local authorities to outline housing delivery challenges
+## Land banks undeveloped over lack of services, cttee told
 
 date: 2025-05-19, from: RTÉ News
 
-A body representing local authority managers will tell the Oireachtas Committee on Housing of the impediments that need addressing so councils can build more housing units. 
+The Oireachtas Committee on Housing has heard that nearly one third of local authority land banks cannot proceed to development because they are not serviced sites. 
 
 <br> 
 
@@ -421,11 +845,11 @@ A body representing local authority managers will tell the Oireachtas Committee 
 
 ---
 
-## Campaigner begins Dáil protest over assessment delays
+## Taoiseach suggests change to assessment of needs law
 
 date: 2025-05-19, from: RTÉ News
 
-Disability rights campaigner, 14-year-old Cara Darmody, will begin a 50-hour protest outside Leinster House to highlight delays in children getting an assessment of needs. 
+Taoiseach Micheál Martin has suggested that legislation around assessments of needs must be changed in order that therapists can provide services to children more quickly. 
 
 <br> 
 
@@ -478,6 +902,18 @@ A 93-year-old disabled man was sprayed in the face with synthetic pepper spray b
 <br> 
 
 <https://www.rte.ie/news/uk/2025/0519/1513775-elderly-amputee-pepper-sprayed/>
+
+---
+
+## N.W.T. gov't renews consultation on potential Indigenous procurement policy
+
+date: 2025-05-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5760856.1682123529!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/construction-vehicle-n-w-t.JPG' alt='A construction vehicle sits at the site of an overflow on the Mackenzie Valley winter road in March 2019.' width='620' height='349' title='A construction vehicle sits at the site of an overflow on the Mackenzie Valley winter road in March 2019.'/><p>After years of consultation, officials with the N.W.T. government say the territory could have an Indigenous procurement policy by the end of 2025.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/indigenous-procurement-policy-consultations-nwt-1.7538729?cmp=rss>
 
 ---
 
@@ -985,6 +1421,18 @@ A 23-year-old man has been jailed for life for the murder of a 65-year-old man w
 
 ---
 
+## Lennox Island says it will defend treaty rights after DFO seizes lobster traps
+
+date: 2025-05-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6820807.1682365342!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lennox-wharf.jpg' alt='&apos;We&apos;re trying to do this a good way, in the right way, and we shouldn&apos;t be penalized for that. In some ways I think that we are,&apos; Chief Bernard said.' width='620' height='349' title='&apos;We&apos;re trying to do this a good way, in the right way, and we shouldn&apos;t be penalized for that. In some ways I think that we are,&apos; Chief Bernard said.'/><p>Lennox Island First Nation is calling out what it describes as "aggressive enforcement" by the Department of Fisheries and Oceans after lobster traps were seized from its treaty-protected fishery in Malpeque, P.E.I., and Alberton, P.E.I., on Sunday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/prince-edward-island/pei-lobster-traps-seized-1.7538514?cmp=rss>
+
+---
+
 ## Study shows 94% agree elections held in line with law
 
 date: 2025-05-19, from: RTÉ News
@@ -1157,7 +1605,7 @@ date: 2025-05-19, from: Vatican News
 
 date: 2025-05-19, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7533932.1747177421!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cabinet-shuffle-20250513.jpg' alt='Buckley Belanger is sworn in as a cabinet member as Prime Minister Mark Carney looks on in the background.' width='620' height='349' title='Buckley Belanger, Secretary of State (Rural Development), takes part in the cabinet swearing-in ceremony at Rideau Hall in Ottawa on Tuesday, May 13, 2025. '/><p>Is it bell-ON-jay or buh-LON-jur? It became a burning question among CBC Saskatchewan's newsrooms and the public after the CBC began using the buh-LON-jur pronunciation in regards to Desnethé-Missinippi-Churchill River MP Buckley Belanger.</p> 
+<img src='https://i.cbc.ca/1.7533932.1747177421!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cabinet-shuffle-20250513.jpg' alt='Buckley Belanger is sworn in as a cabinet member as Prime Minister Mark Carney looks on in the background.' width='620' height='349' title='Buckley Belanger, Secretary of State (Rural Development), takes part in the cabinet swearing-in ceremony at Rideau Hall in Ottawa on Tuesday, May 13, 2025. '/><p>Is it bell-ON-zhay or buh-LON-jur? It became a burning question among CBC Saskatchewan's newsrooms and the public after the CBC began using the buh-LON-jur pronunciation in regards to Desnethé-Missinippi-Churchill River MP Buckley Belanger.</p> 
 
 <br> 
 
@@ -1482,6 +1930,18 @@ Ukraine's President Volodymyr Zelensky had a 30 minute meeting with US Vice Pres
 <br> 
 
 <https://www.rte.ie/news/world/2025/0518/1513535-ukraine/>
+
+---
+
+## What could Alberta separation mean for First Nations in the province?
+
+date: 2025-05-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/f2ae91b0-1de8-4f6e-ae72-0f9687a07e9d,1747590471667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3BResize%3D%28620%29' alt='Collage of photos.' width='620' height='349' title=''/><p>Chief political correspondent Rosemary Barton speaks with Chief Tony Alexis of the Alexis Nakota Sioux Nation about how Alberta separation threats violate First Nations treaty rights and how the government is not going far enough to protect those communities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6765181?cmp=rss>
 
 ---
 

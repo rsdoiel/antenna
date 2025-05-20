@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-05-20 06:08:09
+updated: 2025-05-20 14:07:30
 ---
 
 # games
 
-(date: 2025-05-20 06:08:09)
+(date: 2025-05-20 14:07:30)
+
+---
+
+## All ammo upgrade leaders locations in Doom: The Dark Ages
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+In Doom: The Dark Ages, you have a long list of weapons at your disposal, each gun with its own flavor. But regardless of whether we are talking about the Combat Shotgun or the Chainshot, you will always need ammo upgrades for them. Right after your Health and Shield capacity, ammo is one of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/600199/ammo-upgrade-leaders-locations-all-where-to-find>
+
+---
+
+## Best Maelle build in Clair Obscur: Expedition 33
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Maelle is one of the strongest damage-dealers in Clair Obscur: Expedition 33 — if you spec out her build properly, that is. With all of the weapons and pictos to choose from in Expedition 33, every playable character can be molded to fit whatever playstyle you need for the moment. You could turn Sciel into [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/599822/best-maelle-build-attributes-skills-weapon-luminas-pictos>
+
+---
+
+## Naughty Dog has another new game in the works
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+While we know Naughty Dog is currently developing its next big single-player adventure Intergalactic: The Heretic Prophet, studio head Neil Druckmann casually mentioned Tuesday that the studio concurrently has another game in the works. Appearing on the Press X to Continue podcast, Druckmann said, “There’s another game that’s being worked on at Naughty Dog where [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/600169/naughty-dog-new-game-in-progress>
+
+---
+
+## Stellar Blade sequel confirmed, and it might arrive sooner than you think
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Stellar Blade developer Shift Up subtly revealed it’s developing a sequel to its 2024 hit, and it might launch surprisingly soon. As part of an investor report published May 16, Shift Up included a slide showcasing its plans for the next couple years (via IGN). “Platform Expansion” is listed under Stellar Blade, and it’s reasonable [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600113/stellar-blade-2-confirmed>
+
+---
+
+## Fortnite trolls players with Jar Jar Binks skin that’s nearly impossible to get without cheating
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Normally, when you buy a skin in Fortnite, you can simply equip it and immediately sport your new costume. The new Star Wars skin that Fortnite just released is different. For 1,500 V-Bucks — or about $13 — you get the privilege of grinding XP before you can don the latest Jar Jar Binks skin. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite/600088/fortnite-darth-jar-jar-skin-xp-grind>
+
+---
+
+## One of the most important Pokémon anime arcs is finally hitting Netflix in time for Legends: Z-A
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Netflix is about to mega evolve with more Pokémon content in June — just in time for fans who want to prep for Pokémon Legends: Z-A. According to What&#8217;s On Netflix, Pokémon the Series: XY and Kalos Quest will return on June 1 alongside XYZ — marking the first time the 19th season has been [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/600076/pokemon-xy-kalos-quest-netflix-release>
+
+---
+
+## JRPG sickos, this new games showcase is just for you
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Nearly every genre of game has sprouted a dedicated news showcase meant to highlight upcoming releases, so it was only a matter of time before Japanese role-playing games got the same treatment. Enter Indie Quest, an event dedicated to displaying some of the most exciting titles created by up-and-coming developers. If you’re fresh off the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600106/jrpg-games-showcase-indie-quest-date-time>
+
+---
+
+## HBO’s It show dials back the clock 30 years in first teaser
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+After years of development, HBO has finally released a teaser for its prequel series, It: Welcome To Derry, which will debut this fall. The series is developed by It and It: Chapter Two director/screenwriter duo Andy Muschietti and Barbara Muschietti, with Andy set to direct multiple episodes of the series. “Set in the world of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/600086/hbo-it-welcome-to-derry-teaser-trailer>
+
+---
+
+## GameStop employees say scalpers stayed in line for new Pokémon cards through tornado warnings
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Years into the resurgence of popularity for Pokémon cards, the collectibles aren’t just difficult to source — the situation is getting worse, judging by the rollout of a recent boxed set. In mid-May, The Pokémon Company released a hotly-anticipated collection called Prismatic Evolutions Super-Premium Collection, themed entirely around Eevee, a beloved monster known for its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/600017/gamestop-pokemon-tcg-scalpers-tornado-warning-reddit>
 
 ---
 

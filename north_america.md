@@ -1,11 +1,123 @@
 ---
 title: north america
-updated: 2025-05-20 06:08:04
+updated: 2025-05-20 14:07:25
 ---
 
 # north america
 
-(date: 2025-05-20 06:08:04)
+(date: 2025-05-20 14:07:25)
+
+---
+
+## Back the blue*
+
+date: 2025-05-20, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/back-the-blue>
+
+---
+
+## How to dismantle the media’s bothsidesism
+
+date: 2025-05-20, from: The Contrarian
+
+News agencies complain about it, but do it anyway 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-to-dismantle-the-medias-bothsidesism>
+
+---
+
+##  Senators Turn To The Lever To Challenge Billy Long’s Nomination 
+
+date: 2025-05-20, from: The Lever News
+
+ Senators are challenging Trump’s IRS pick Billy Long, repeatedly citing The Lever&#39;s reporting on his shady industry donors and plans to weaponize the IRS against his political enemies.  
+
+<br> 
+
+<https://www.levernews.com/senators-turn-to-the-lever-to-challenge-billy-longs-nomination/>
+
+---
+
+## Romania. Poland. Portugal.
+
+date: 2025-05-20, from: The Contrarian
+
+One weekend, three elections&#8212;and the same global question: Can democracy still hold the line? 
+
+<br> 
+
+<https://contrarian.substack.com/p/romania-poland-portugal>
+
+---
+
+## Let's Do Lunch w/ Jared Bernstein and Paul Krugman
+
+date: 2025-05-20, from: The Contrarian
+
+A recording from Jared Bernstein's live video 
+
+<br> 
+
+<https://contrarian.substack.com/p/live-with-jared-bernstein-abb>
+
+---
+
+## Los Angeles Hospitality Workers Win Olympian Pay Raise
+
+date: 2025-05-20, from: Capital and Main
+
+<p>Hotel industry predicts financial ruin, but data show a $30-an-hour minimum wage will stabilize the city’s tourism ecosystem.</p>
+<p>The post <a href="https://capitalandmain.com/los-angeles-hospitality-workers-win-olympian-pay-raise">Los Angeles Hospitality Workers Win Olympian Pay Raise</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/los-angeles-hospitality-workers-win-olympian-pay-raise>
+
+---
+
+## Don't lose sight of the pain Trump is passing on to American consumers
+
+date: 2025-05-20, from: The Contrarian
+
+Many people have stopped paying attention to the harms. They shouldn't. It's coming for their pocketbooks, and maybe worse. 
+
+<br> 
+
+<https://contrarian.substack.com/p/dont-lose-sight-of-the-pain-trump>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-20, from: The Contrarian
+
+Tuesday: Protests in Kansas, Illinois, Pennsylvania, Arizona, North Carolina, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Katie Phang and Congressman Ritchie Torres on GOP's calamitous cuts to Medicaid
+
+date: 2025-05-20, from: The Contrarian
+
+"Republicans are going to defund healthcare and food and education for the bottom 50% in order to provide massive tax cuts for the top 1%" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164003483/ca2e5a29f6b46c2d4372246ba12706ae.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164003483/ca2e5a29f6b46c2d4372246ba12706ae.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/katie-phang-and-congressman-ritchie>
 
 ---
 
@@ -18,18 +130,6 @@ Even from across the globe, it's evident that the &#8220;big, beautiful&#8221; b
 <br> 
 
 <https://contrarian.substack.com/p/words-and-phrases-we-can-do-without-976>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-20, from: The Contrarian
-
-Monday: Protests in Illinois, California, and Tennessee, preparing for upcoming protests, and Tesla takedowns. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

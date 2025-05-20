@@ -1,11 +1,99 @@
 ---
 title: food
-updated: 2025-05-20 06:08:13
+updated: 2025-05-20 14:07:34
 ---
 
 # food
 
-(date: 2025-05-20 06:08:13)
+(date: 2025-05-20 14:07:34)
+
+---
+
+## The Best Father's Day Gifts for Dads Who Love Cooking (or Just Eating) for 2025
+
+date: 2025-05-20, from: Bon Appetet
+
+Plus gadgets, fashion, and NA beverages. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-fathers-day-gifts>
+
+---
+
+## Major Salmonella Outbreak: Cucumbers Linked to 26 Illnesses in 15 States
+
+date: 2025-05-20, from: Taste of Home
+
+<p>This is the second outbreak linked to cucumbers from Bedner Growers in less than a year.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/salmonella-outbreak-cucumbers-may-2025/">Major Salmonella Outbreak: Cucumbers Linked to 26 Illnesses in 15 States</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/salmonella-outbreak-cucumbers-may-2025/>
+
+---
+
+## Uganda Coffee Report: Growth Expected, Supported by Prices
+
+date: 2025-05-20, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-620x400.png" class="attachment-large size-large wp-post-image" alt="Uganda coffee market report" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Uganda’s coffee production is expected to expand in the 2025/26 marketing year, with a forecast of the equivalent of 6.88 million 60-kilogram bags, up 2.6% from the previous year, according... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/20/uganda-coffee-report-growth-expected-supported-by-prices/>
+
+---
+
+## How to Travel With Wine (Without Shattering the Bottle)
+
+date: 2025-05-20, from: Bon Appetet
+
+Or any glass bottle for that matter. Because yes, we bring vinegar home from vacation too. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-to-travel-with-wine>
+
+---
+
+## Taste of Home Light & Bright Recipe Contest (#338) Official Rules
+
+date: 2025-05-20, from: Taste of Home
+
+<p>NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE</p>
+<p>The post <a href="https://www.tasteofhome.com/taste-of-home-light-bright-recipe-contest-338-official-rules/">Taste of Home Light &#038; Bright Recipe Contest (#338) Official Rules</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/taste-of-home-light-bright-recipe-contest-338-official-rules/>
+
+---
+
+## How To Brew Coffee Like The 2025 World Brewers Cup Champion
+
+date: 2025-05-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Brew like 2025 World Brewers Cup Champion George Jinyeng Peng of China. 
+
+<br> 
+
+<https://sprudge.com/how-to-brew-coffee-like-the-2025-world-brewers-cup-champion-338576.html>
+
+---
+
+## Here’s a Toast to New Coffee Drinkware at the 2025 SCA Expo
+
+date: 2025-05-20, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="SCA Expo coffee cups" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sniffs, sips and slurps were virtually nonstop for three days last month at the annual SCA Expo in Houston. For all the close attention that was paid to the liquids... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/20/heres-a-toast-to-new-coffee-drinkware-at-the-2025-sca-expo/>
 
 ---
 
@@ -155,7 +243,7 @@ date: 2025-05-19, from: The Sprudge
 
 date: 2025-05-19, from: Daily Coffee News
 
-<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg" class="attachment-large size-large wp-post-image" alt="Bangkok Thailand" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In conjunction with its second World of Coffee Asia (WoC) trade show in Indonesia, the Specialty Coffee Association (SCA) announced that its 2026 flagship Asia event will take place in... 
+<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg" class="attachment-large size-large wp-post-image" alt="Bangkok Thailand" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In conjunction with its second World of Coffee Asia (WoC) trade show in Indonesia, the Specialty Coffee Association (SCA) announced that its 2026 flagship Asia event will take place in... 
 
 <br> 
 
@@ -179,7 +267,7 @@ Want good pizza at home? You need it hot, hot, hot.
 
 date: 2025-05-19, from: Daily Coffee News
 
-<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-620x410.jpg" class="attachment-large size-large wp-post-image" alt="Duvall FC1 Espresso machine 6" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-620x410.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-768x508.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seven years after revealing a prototype FC-1 espresso machine at the SCA Expo in Seattle, Duvall Espresso is now taking orders for its signature single-, dual- and three-group machines. The... 
+<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-620x410.jpg" class="attachment-large size-large wp-post-image" alt="Duvall FC1 Espresso machine 6" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-620x410.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-768x508.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Seven years after revealing a prototype FC-1 espresso machine at the SCA Expo in Seattle, Duvall Espresso is now taking orders for its signature single-, dual- and three-group machines. The... 
 
 <br> 
 

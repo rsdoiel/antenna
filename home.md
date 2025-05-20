@@ -1,11 +1,232 @@
 ---
 title: home
-updated: 2025-05-20 06:08:12
+updated: 2025-05-20 14:07:32
 ---
 
 # home
 
-(date: 2025-05-20 06:08:12)
+(date: 2025-05-20 14:07:32)
+
+---
+
+## How to Change a Lawn Mower Tire
+
+date: 2025-05-20, from: Family Handyman Blog
+
+<p>If your riding mower gives you the jitters every time you use it, it may be time to replace one or more tires. Our experts show you how.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-change-a-lawn-mower-tire/">How to Change a Lawn Mower Tire</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-change-a-lawn-mower-tire/>
+
+---
+
+## When Smart Locks Break, Can You Still Get Inside?
+
+date: 2025-05-20, from: Family Handyman Blog
+
+<p>Don't kick in your door! If your smart lock is broken, we have steps to solve the problem and get you back inside.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/smart-lock-flaws/">When Smart Locks Break, Can You Still Get Inside?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/smart-lock-flaws/>
+
+---
+
+## 12 DIY Wine Racks and Hacks
+
+date: 2025-05-20, from: Family Handyman Blog
+
+<p>Wine drinkers will appreciate these brilliant tips and project ideas for all things vino.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/diy-wine-racks-and-hacks/">12 DIY Wine Racks and Hacks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/diy-wine-racks-and-hacks/>
+
+---
+
+## 12 Bookcase Projects for Better Storage and Functionality
+
+date: 2025-05-20, from: Family Handyman Blog
+
+<p>A bookcase or shelf is an extremely useful home storage system. In this collection, you'll discover helpful project plans and learn building tips to maximize your bookcase or shelf's storing capacity.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/bookcase-projects-for-storage-and-functionality/">12 Bookcase Projects for Better Storage and Functionality</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/bookcase-projects-for-storage-and-functionality/>
+
+---
+
+## Planting Bamboo Is Terrible for Your Yard— Here’s Why
+
+date: 2025-05-20, from: Family Handyman Blog
+
+<p>Learn about different bamboo species, as well as methods to contain and remove even aggressive, spreading types.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bamboo-taking-over-your-garden/">Planting Bamboo Is Terrible for Your Yard— Here’s Why</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bamboo-taking-over-your-garden/>
+
+---
+
+## Here’s Why This Home Near Mexico City Has a Truly Massive Hearth
+
+date: 2025-05-20, from: Dwell
+
+Stretching to the lofted ceiling, the monolithic brick structure holds a bathroom and water storage and divides an otherwise open plan. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-nogal-escobedo-soliz-concrete-home-brick-construction-b90e4399>
+
+---
+
+## The Real Reason Costco Gas Is So Cheap
+
+date: 2025-05-20, from: Family Handyman Blog
+
+<p>When it comes to saving money, filling up your tank with Costco gas could be a good idea if you have a membership.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/the-real-reason-costco-gas-is-so-cheap/">The Real Reason Costco Gas Is So Cheap</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/the-real-reason-costco-gas-is-so-cheap/>
+
+---
+
+## A Spiky Jewelry "Box"—and More Unhinged Objects From North America’s Largest Furniture Fair
+
+date: 2025-05-20, from: Dwell
+
+A sense of irreverence pervaded the emerging designer showcase at ICFF in New York, from a loofahlike metal sconce to one of the chunkiest mirrors I’ve ever seen. 
+
+<br> 
+
+<https://www.dwell.com/article/2025-nycxdesign-best-of-icff-865b57c8>
+
+---
+
+## How Trees Destroyed by the L.A. Fires Are Being Recycled Into New Lumber
+
+date: 2025-05-20, from: Dwell
+
+Angel City Lumber says it will likely be able to produce enough low-cost, millwork-grade board for 500 rebuilt homes—and provide some closure along with them. 
+
+<br> 
+
+<https://www.dwell.com/article/destroyed-trees-recycled-angel-city-lumber-adaptive-reuse-0f49a553>
+
+---
+
+## A Frank Lloyd Wright Protégé Built This $2.3M Home With a Massive Curved Roof
+
+date: 2025-05-20, from: Dwell
+
+Arthur Dyson designed the flowing, glass-and-steel house for a placid site on the banks of the Kings River near Fresno, California. 
+
+<br> 
+
+<https://www.dwell.com/article/lapp-riverhouse-arthur-dyson-sanger-california-real-estate-85aaed6b>
+
+---
+
+## Learn How to Plant, Grow, and Care for Black Bamboo
+
+date: 2025-05-20, from: The Gardener's Path
+
+<p>Black bamboo (Phyllostachys nigra) is a striking ornamental grass prized for its tall, slender culms that transition from green to black over time. It grows quickly and is often used for hedging or screening, but requires containment to curb its aggressive roots. Learn how to grow black bamboo in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/grasses-rushes-sedges/grow-black-bamboo/">Learn How to Plant, Grow, and Care for Black Bamboo</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/grasses-rushes-sedges/grow-black-bamboo/>
+
+---
+
+## The Case for the Scandinavian Sleep Method
+
+date: 2025-05-20, from: Dwell
+
+If sharing a bed (and a blanket) with your partner is becoming untenable, consider a duvet divorce. 
+
+<br> 
+
+<https://www.dwell.com/article/scandinavian-sleep-method-cecf2809>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-20, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 30 Animals That Start With X (With Pictures and Names)
+
+date: 2025-05-20, from: Yard Life blog
+
+<p>When it comes to learning about unique creatures from around the world, few topics are as intriguing as animals that ... </p>
+<p class="read-more-container"><a title="30 Animals That Start With X (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/30-animals-that-start-with-x-with-pictures-and-names/#more-28492" aria-label="Read more about 30 Animals That Start With X (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-animals-that-start-with-x-with-pictures-and-names/">30 Animals That Start With X (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-animals-that-start-with-x-with-pictures-and-names/>
+
+---
+
+## Rivian’s High-Design Outpost Near Joshua Tree Is the Coolest Charging Station We’ve Ever Seen
+
+date: 2025-05-20, from: Sunset Magazine - Living in the West
+
+Rivian has the coolest charging station just outside of Joshua Tree National Park. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/rivian-electric-car-road-trip-in-joshua-tree>
+
+---
+
+## 2025 Sunset Western Home & Design Awards: Best Landscape Design and Architecture
+
+date: 2025-05-20, from: Sunset Magazine - Living in the West
+
+The best of landscape design in the West, from minimalists to maximalists to native plant specialists to edible garden enthusiasts. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/2025-sunset-home-design-awards-best-landscape-design>
+
+---
+
+## An Orcas Island Cottage Makeover Turns Up the Charm
+
+date: 2025-05-20, from: Sunset Magazine - Living in the West
+
+An Orcas Island cottage had plenty of family memories but needed a modern update. Its layout and fixtures were given a contemporary upgrade. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/orcas-island-cottage>
 
 ---
 
@@ -117,18 +338,6 @@ date: 2025-05-19, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/game-room-ideas/>
-
----
-
-## An Orcas Island Cottage Makeover Turns Up the Charm
-
-date: 2025-05-19, from: Sunset Magazine - Living in the West
-
-An Orcas Island cottage had plenty of family memories but needed a modern update. Its layout and fixtures were given a contemporary upgrade. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/orcas-island-cottage>
 
 ---
 

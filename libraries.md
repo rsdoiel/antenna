@@ -1,11 +1,47 @@
 ---
 title: libraries
-updated: 2025-05-20 06:08:11
+updated: 2025-05-20 14:07:32
 ---
 
 # libraries
 
-(date: 2025-05-20 06:08:11)
+(date: 2025-05-20 14:07:32)
+
+---
+
+## The Celibates, by Honoré de Balzac
+
+date: 2025-05-20, from: Standard Ebooks, new releaases
+
+The lives of bachelors and old maids are illustrated in three disparate stories. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/honore-de-balzac/the-celibates/clara-bell>
+
+---
+
+## Gudrun, by Anonymous
+
+date: 2025-05-20, from: Standard Ebooks, new releaases
+
+A princess is captured by a jealous prince from a rival kingdom. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/anonymous/gudrun/mary-pickering-nichols>
+
+---
+
+## Bellarion the Fortunate, by Rafael Sabatini
+
+date: 2025-05-20, from: Standard Ebooks, new releaases
+
+An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate>
 
 ---
 
@@ -27,7 +63,7 @@ date: 2025-05-20, from: Scholarly Kitchen
 
 date: 2025-05-19, from: Association of Research Libraries News
 
-<p>Last Updated on May 19, 2025, 4:41 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 20 &#124; Wednesday, May 21 &#124; Thursday,...</p>
+<p>Last Updated on May 20, 2025, 3:02 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 20 &#124; Wednesday, May 21 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-19-22/">Day in Review (May 19–22)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -48,4 +84,16 @@ date: 2025-05-19, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/05/19/guest-post-public-access-to-the-endless-frontier/>
+
+---
+
+## Urban Planning and Housing Policy in Geneva and Zurich – Historical Trajectories and Current Trends
+
+date: 2025-05-19, from: ETH Zurich, recently added
+
+Abdelgadir, Nouri; Brumm, Léo; Ehrler, Ismene; Kauer, Fiona 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/736426>
 

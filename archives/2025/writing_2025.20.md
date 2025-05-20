@@ -1,11 +1,135 @@
 ---
 title: writing
-updated: 2025-05-20 06:08:09
+updated: 2025-05-20 14:07:29
 ---
 
 # writing
 
-(date: 2025-05-20 06:08:09)
+(date: 2025-05-20 14:07:29)
+
+---
+
+## New Books: May 20, 2025
+
+date: 2025-05-20, from: Locus Magazine
+
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of May 20, 2025. </strong></p>
+<p></p>
+<p>Barclay, Linwood: <b> Whistle</b> (HarperCollins/Morrow 978-0063457126, $30.00, 464pp, formats: hardcover, paperback, ebook, audiobook, 05/20/2025)</p>
+<p>Horror novel. Children&#8217;s book author Annie has her life implode, as one of her books is mired in scandal and her husband dies in a hit-and-run.  <a href="https://locusmag.com/2025/05/new-books-may-20-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/new-books-may-20-2025/>
+
+---
+
+## 2025 Romantic Novel Awards Winners
+
+date: 2025-05-20, from: Locus Magazine
+
+<p>The Romantic Novelists&#8217; Association (RNA) has announced the winners of the 2025 Romantic Novel Awards. Titles and authors of genre interest include:</p>
+<div class="nobullets">
+<p><strong>The Fantasy Romantic Novel Award</strong></p>
+<ul>
+<li>WINNER: <strong>Now Comes the Mist</strong>, Julie C. Dao (Podium)</li>
+</ul>
+<ul>
+<li><strong>The Love of Her Lives</strong>, C.J. Connolly (Joffe)</li>
+<li><strong>Meet Me on the Bridge</strong>, Sarah J. Harris (Amazon)</li>
+<li><strong>Apprentice to the Villain</strong>, Hannah Nicole Maehrer (Penguin)</li>
+<li><strong>The Courting of Bristol Keats</strong></li></ul></div> <a href="https://locusmag.com/2025/05/2025-romantic-novel-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-romantic-novel-awards-winners/>
+
+---
+
+## How to Get Your Screenwriting Fire Back
+
+date: 2025-05-20, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-get-your-screenwriting-fire-back" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/A%20match%20in%20the%20process%20of%20lighting%2010%20new%20matchsticks.png" alt="A match in the process of lighting 10 new matchsticks" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Sometimes we lose our passion — the fire burning inside that pushes us through adverse and difficult times during our screenwriting journeys.&nbsp;<br><br>It doesn’t matter if you’re a beginner learning the ins and outs of writing a screenplay, an experienced screenwriter with some major contest and fellowship wins, or a seasoned pro earning money and seeing your name on the screen. Sometimes the passion dims, the words don’t come, the cursor blinks back at you in quiet judgement on an empty page, and you begin to question if you’ve lost <em>it</em> for good — or, if you ever really had <em>it</em> at all. &nbsp; &nbsp;<br><br>Don’t worry. Breathe. <span style="font-weight: bold;">You haven’t lost your fire</span>. It’s still there.&nbsp;<br><br>The key to any successful run at a career in screenwriting is to learn how to get the fire back — how to reignite those creative and inspirational flames to a point where the ideas, visuals, words, and story/character solutions come flowing out of you through your fingers, onto those keys, and onto the pages.&nbsp;<br><br>Here are some tested, implemented, and proven ways to reignite your screenwriting fire! &nbsp;&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-get-your-screenwriting-fire-back>
+
+---
+
+## How to Not Ruin Your First Film
+
+date: 2025-05-20, from: John August blog
+
+John and Craig dig through the mailbag to answer some of our trickiest listener questions. They lay out their best advice for first-time feature directors &#8212; from picking department heads to making sure your movie actually gets seen &#8212; and look at how to adapt Craig’s “How to Write a Movie” for structuring a TV [&#8230;]
+The post <a href="https://johnaugust.com/2025/how-to-not-ruin-your-first-film">How to Not Ruin Your First Film</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/how-to-not-ruin-your-first-film>
+
+---
+
+## Locus Bestsellers, May
+
+date: 2025-05-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for May include top titles: Onyx Storm by Rebecca Yarros (Red Tower), The Way of Kings by Brandon Sanderson (Tor), </strong><strong>Fourth Wing by Rebecca Yarros (Red Tower), and DragonLance Chronicles by Margaret Weis &#38; Tracy Hickman (Random House Worlds).</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>Onyx Storm</strong>, Rebecca Yarros (Red Tower)
+2
+1
+
+
+2)
+<strong>Iron Flame</strong>, Rebecca Yarros (Red Tower)
+15
+3
+
+
+3)
+<strong>Emily </strong></div> <a href="https://locusmag.com/2025/05/locus-bestsellers-may-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/locus-bestsellers-may-4/>
+
+---
+
+## Casual by Koji A. Dae: Review by Alex Brown
+
+date: 2025-05-20, from: Locus Magazine
+
+<p><strong>Casual</strong>, Koji A. Dae (Tenebrous 978-1-95979-029-7, $19.99. 254pp, tp) February 2025.</p>
+<p>I love a story that leaves you with more questions than answers. I’ve sat with Koji A. Dae’s new novel <strong>Casual </strong>for a few days now and I’m still not entirely sure how I feel about it. And I mean that in a good way.</p>
+<p>The eponymous “Casual” is an immersive game. For most people, it’s simply a  <a href="https://locusmag.com/2025/05/casual-by-koji-a-dae-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/casual-by-koji-a-dae-review-by-alex-brown/>
 
 ---
 
