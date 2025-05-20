@@ -1,11 +1,175 @@
 ---
 title: snapshots
-updated: 2025-05-19 14:08:32
+updated: 2025-05-20 06:08:15
 ---
 
 # snapshots
 
-(date: 2025-05-19 14:08:32)
+(date: 2025-05-20 06:08:15)
+
+---
+
+## Reports of Deno's Demise Have Been Greatly Exaggerated
+
+date: 2025-05-20, updated: 2025-05-20, from: Deno blog
+
+Addressing recent Deno criticisms and sharing our vision for the future 
+
+<br> 
+
+<https://deno.com/blog/greatly-exaggerated>
+
+---
+
+## The NYC Algorithm Deciding Which Families Are Under Watch for Child Abuse
+
+date: 2025-05-20, from: The Markup blog
+
+How a family’s neighborhood, age, and mental health might get their case a deeper look 
+
+<br> 
+
+<https://themarkup.org/investigations/2025/05/20/the-nyc-algorithm-deciding-which-families-are-under-watch-for-child-abuse>
+
+---
+
+## How Trump Will Make the Tariff Shock Worse
+
+date: 2025-05-20, from: Paul Krugman
+
+Beware the three Ds: denial, dirigisme and deception 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/how-trump-will-make-the-tariff-shock>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-20, from: Dave Winer's linkblog)
+
+2024: It’s mostly harmless when ChatGPT has a hallucination, it’s a whole other story when a Tesla has one. 
+
+<br> 
+
+<https://daveverse.org/2024/10/11/musky-hype/>
+
+---
+
+## Antimicrobial Resistance Research and Innovation in Australia.
+
+date: 2025-05-20, from: Lens.org news
+
+A new reporting platform developed by The Lens and CSIRO reveals new insights on antimicrobial resistance research and innovation in Australia. A new resource launched today provides real-time, data-driven insights into Australia's antimicrobial resistance (AMR) research and patent landscape to help address key challenges in the AMR space. The report, Antimicrobial Resistance Research and Innovation  ... 
+
+<br> 
+
+<https://about.lens.org/antimicrobial-resistance-research-and-innovation-in-australia/>
+
+---
+
+## Academic Database Comparisons
+
+date: 2025-05-20, from: Lens.org news
+
+Pricing Comparisons Save The Librarians! Librarians are so much more than stewards of the stacks.They are heroes in public service.In a society awash in information, AI-generated confusion, misinformation and disinformation they are the first and best line of defence: trusted navigators to help us find meaning, relevance, evidence and actionable knowledge from reliable sources.  ... 
+
+<br> 
+
+<https://about.lens.org/database-comparisons/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-20, from: Feed for Alt USDS)
+
+“The lesson of 1933 is you get out sooner rather than later.” Snyder is leaving. We’re staying. And resisting.
+ 🧱 Read more: https://bit.ly/4mmDWOs
+
+ #WeTheBuilders #OnTyranny 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lpl4p3ooau2b>
+
+---
+
+## Microsoft's NLWeb and Agentic AI could trigger the resurgence of RSS
+
+date: 2025-05-20, from: Conor O'Niell's blog, Cross Dominant
+
+I&rsquo;ve never given up on RSS. It still provides enormous utility for me. The silly number of RSS converters in my GitHub account are testament to that.
+The recent removal of all RSS feeds from the EPA Ireland site was a major disappointment and I&rsquo;ve been forced to Vibe Code a horror of a replacement scraper using their dreadful API instead.
+In contrast, my heart skipped a beat when I started going through the README for Microsoft&rsquo;s NLWeb. 
+
+<br> 
+
+<https://conoroneill.net/2025/05/20/microsofts-nlweb-and-agentic-ai-could-trigger-the-resurgence-of-rss/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-20, from: Dave Winer's linkblog)
+
+Catching up in WordLand and KnicksLand. 
+
+<br> 
+
+<https://daveverse.org/2025/05/19/catching-up-in-wordland-and-knicksland/>
+
+---
+
+## MCP is the coming of Web 2.0 2.0
+
+date: 2025-05-20, updated: 2025-05-20, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/05/20/mcp-web20-20/>
+
+---
+
+## Kill Switches in Chinese-Made Power Inverters
+
+date: 2025-05-19, updated: 2025-05-19, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/19/kill-switches-in-chinese-made-power-inverters/>
+
+---
+
+## Jules
+
+date: 2025-05-19, updated: 2025-05-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://jules.google.com/">Jules</a></strong></p>
+It seems like <em>everyone</em> is rolling out AI coding assistants that attach to your GitHub account and submit PRs for you right now. We had <a href="https://simonwillison.net/2025/May/16/openai-codex/">OpenAI Codex</a> last week, today Microsoft announced <a href="https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/">GitHub Copilot coding agent</a> (confusingly not the same thing as <a href="https://githubnext.com/projects/copilot-workspace">Copilot Workspace</a>) and I found out just now that Google's Jules, <a href="https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/">announced in December</a>, is now in a beta preview.</p>
+<p>I'm flying home from PyCon but I managed to try out Jules from my phone. I took <a href="https://github.com/datasette/datasette-chronicle/issues/3">this GitHub issue thread</a>, converted it to copy-pasteable Markdown with <a href="https://tools.simonwillison.net/github-issue-to-markdown">this tool</a> and pasted it into Jules, with no further instructions.</p>
+<p>Here's <a href="https://github.com/datasette/datasette-chronicle/pull/6">the resulting PR</a> created from its branch. I haven't fully reviewed it yet and the tests aren't passing, so it's hard to evaluate from my phone how well it did. In a cursory first glance it looks like it's covered most of the requirements from the issue thread.</p>
+<p>My habit of <a href="https://simonwillison.net/2022/Nov/26/productivity/#issue-thread">creating long issue threads</a> where I talk to myself about the features I'm planning is proving to be a good fit for outsourcing implementation work to this new generation of coding assistants.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/github">github</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/19/jules/#atom-everything>
+
+---
+
+## Lilbits: Asus ROG XG Station eGPU dock with Thunderbolt 5, AYANEO Flip 1S handheld gaming PC, and Microsoft’s new command line text editor
+
+date: 2025-05-19, from: Liliputing
+
+<p>As Computex gets underway in Taiwan Asus has unveiled a new graphics dock that could make all of those OCuLink-equipped models we&#8217;ve seen recently look like old news. Meanwhile mini PC maker GMK is teasing its first computer with an Intel Arrow Lake processor, AYANEO is planning to launch a new handheld gaming PC with [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-asus-rog-xg-station-egpu-dock-with-thunderbolt-5-ayaneo-flip-1s-handheld-gaming-pc-and-microsofts-new-command-line-text-editor/">Lilbits: Asus ROG XG Station eGPU dock with Thunderbolt 5, AYANEO Flip 1S handheld gaming PC, and Microsoft&#8217;s new command line text editor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-asus-rog-xg-station-egpu-dock-with-thunderbolt-5-ayaneo-flip-1s-handheld-gaming-pc-and-microsofts-new-command-line-text-editor/>
 
 ---
 

@@ -1,15 +1,183 @@
 ---
 title: science and technology
-updated: 2025-05-19 14:08:27
+updated: 2025-05-20 06:08:07
 ---
 
 # science and technology
 
-(date: 2025-05-19 14:08:27)
+(date: 2025-05-20 06:08:07)
 
 ---
 
-## Microsoft adds Grok - the most unhinged chatbot - to Azure AI buffet
+## Ransomware attack on food distributor spells more pain for UK supermarkets
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>Peter Green Chilled supplies all the major UK chains</h4> <p>It&#39;s more bad news for UK supermarkets with chilled and frozen food distribution business Peter Green Chilled confirming a ransomware attack with customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/ransomware_attack_on_food_distributor/>
+
+---
+
+## Intel bets you'll stack cheap GPUs to avoid spending top dollar on Nvidia Pros
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>Behold ‘Project Battlematrix’</h4> <p><strong>Computex</strong>  When it comes to AI accelerators, Intel isn&#39;t very competitive, and its newly announced Battlemage workstation cards don&#39;t do much to change that. But at least they&#39;re cheap. Really cheap.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/intel_arc_pro_b60/>
+
+---
+
+## Hubble Images Galaxies Near and Far
+
+date: 2025-05-20, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image offers us the chance to see a distant galaxy now some 19.5 billion light-years from Earth (but appearing as it did around 11 billion years ago, when the galaxy was 5.5 billion light-years away and began its trek to us through expanding space). Known as HerS 020941.1+001557, this remote […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-images-galaxies-near-and-far/>
+
+---
+
+## Wanted: A handy metric for gauging if GPUs are being used optimally
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>Even well-optimized models only likely to use 35 to 45% of compute the silicon can deliver</h4> <p>GPU accelerators used in AI processing are costly items, so making sure you get the best usage out of them ought to be a priority, yet the industry lacks an effective way of measuring this, says the Uptime Institute.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/gpu_metric/>
+
+---
+
+## Andrea Harrington’s Vision Paves the Way for Lunar Missions
+
+date: 2025-05-20, from: NASA breaking news
+
+When future astronauts set foot on Mars, they will stand on decades of scientific groundwork laid by people like Andrea Harrington.&#160;&#160; As NASA’s sample return curation integration lead, Harrington is helping shape the future of planetary exploration and paving the way for interplanetary discovery.&#160;&#160; Harrington works in NASA’s Astromaterials Research and Exploration Sciences Division, or [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/andrea-harringtons-vision-paves-the-way-for-artemis-missions/>
+
+---
+
+## Torvalds' typing taste test touches tactile tragedy
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>There’s something wrong with keyboard design, but we can’t put our finger on it</h4> <p><strong>Opinion</strong>  Linus Torvalds is the global hero most of the world doesn&#39;t even know exists. There are no big movies about him, no best-selling biographies, no ardent Torvaldian cultists with home altars and gilded icons. At least, we hope not.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/torvalds_typing_taste_test_touches/>
+
+---
+
+## Virgin Media O2 patches hole that let callers snoop on your coordinates
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>Researcher finds VoLTE metadata could be used to locate users within 100 meters</h4> <p>UK telco Virgin Media O2 has fixed an issue with its 4G Calling feature that allowed users&#39; general location to be discerned by those who called them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/vmo2_fixes_4g_calling_issue/>
+
+---
+
+## Techies propose the Agent Name Service: It's like DNS but for AI agents
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>Because nobody wants a random and unverified bot tickling their APIs</h4> <p>To unify the proliferating set of would-be standards to govern AI agents, researchers have proposed yet another standard.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/agent_name_service_proposal/>
+
+---
+
+## Foxconn chair predicts AI will end manufacturers' search for cheap labor
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>Urges world leaders to pay attention because he’s already building factories in which GenAI is acing scutwork</h4> <p><strong>Computex</strong>  Foxconn chair Young Liu has predicted the combination of generative AI and robotics will destroy low-end manufacturing jobs and called on world leaders to recognize inevitable geopolitical shifts that will follow.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/foxconn_chair_ai_manufacturing_predictions/>
+
+---
+
+## Trump signs TAKE IT DOWN law meant to stop revenge porn
+
+date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+
+<h4>Fine-print is vague and broad, could easily be abused to blunt protected speech</h4> <p>President Donald Trump officially signed Monday the TAKE IT DOWN Act, a bill to criminalize revenge porn - both real and AI-generated. But internet rights groups have repeatedly warned the law is overly broad and vague, and could be used to order the takedown of protected speech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/20/take_it_down_law/>
+
+---
+
+## CISA has a new No. 2 ... but still no official top dog
+
+date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
+
+<h4>Brain drain, budget cuts, constant cyberthreats - who wouldn&#39;t want this job?</h4> <p>The US Cybersecurity and Infrastructure Security Agency (CISA) has a new No. 2: Madhu Gottumukkala, stepping in as the nation&#39;s lead civilian cyber agency faces budget cuts, a brain drain, and the never-ending task of defending critical infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/19/cisa_deputy_director_gottumukkala/>
+
+---
+
+## Show us your face: New Orleans PD reportedly got secret facial recognition alerts
+
+date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
+
+<h4>Police took Big Easy attitude to the rules, says WaPo</h4> <p>Since early 2023, facial recognition cameras run by a private nonprofit have scanned New Orleans visitors and residents and quietly alerted police, sidestepping oversight and potentially violating city law, according to a new report.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/19/new_orleans_facial_recognition/>
+
+---
+
+## Telum II at Hot Chips 2024: mainframe with a unique caching strategy
+
+date: 2025-05-19, from: OS News
+
+Mainframes still play a vital role in today, providing extremely high uptime and low latency for financial transactions. Telum II is IBM’s latest mainframe processor, and is designed unlike any other server CPU. It only has eight cores, but runs them at a very high 5.5 GHz and feeds them with 360 MB of on-chip cache. IBM also includes a DPU for accelerating IO, along with an on-board AI accelerator. Telum II is implemented on Samsung’s leading edge 5 nm process node. IBM’s presentation has already been covered by other outlets. Therefore I’ll focus on what I feel like is Telum (II)’s most interesting features. DRAM latency and bandwidth limitations often mean good caching is critical to performance, and IBM has a often deployed interesting caching solutions. Telum II is no exception, carrying forward a virtual L3 and virtual L4 strategy from prior IBM chips. ↫ Chester Lam at Chips and Cheese If you&#8217;ve been keeping track, you can possibly deduce that I&#8217;m bit of a sucker for IBM&#8217;s mainframes and big POWER machines. These Telum II processors are absolutely wild. 
+
+<br> 
+
+<https://www.osnews.com/story/142399/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/>
+
+---
+
+## Two weeks with AR glasses and Linux on Android
+
+date: 2025-05-19, from: OS News
+
+I recently learned something that blew my mind; you can run a full desktop Linux environment on your phone.  That&#8217;s a graphical environment via X11 with real window management and compositing, Firefox comfortably playing YouTube (including working audio), and a status bar with system stats. It launches in less than a second and feels snappy. ↫ Hold the Robot In and of itself, this is a neat trick most of us are probably aware of. Running a full Linux distribution on an Android phone using chroot is an awesome party trick, but I doubt many people take this concept to its logical conclusion by connecting it up to a display, keyboard, and mouse, and use it as their mobile workstation. Well, the author of this article did, and he took it even one step further by replacing the display part of the logical conclusion with AR glasses. The AR glasses in question were a pair of Xreal Air 2 Pro, which put a 120Hz 1080p display in front of your eyes using Sony micro-OLED panels. This will create the illusion of a 130&#8243; screen with a 46° field of view, from a pair of glasses that honestly do not feel that much more massive than regular sunglasses or some of the thicker glasses frames some people like. I&#8217;m honestly kind of impressed this is possible these days. Add in a keyboard and mouse, and you&#8217;ve got a mobile workstation that takes up very little space, especially since you&#8217;re carrying your phone with you at all times anyway. Of course, you have to be comfortable with using Linux &#8211; no Windows or macOS here &#8211; and the software side of the equation requires more setup and fiddling than I thought it would, but the end result is exactly like using a regular Linux desktop, but on your phone and a pair of AR glasses instead of on a laptop or desktop. If I had the cash to throw around on fun side projects like this (you can help with that, actually, through Ko-Fi donations), I would totally order a pair of these Xreal glasses to try this out. 
+
+<br> 
+
+<https://www.osnews.com/story/142397/two-weeks-with-ar-glasses-and-linux-on-android/>
+
+---
+
+## Microsoft adds Grok – the most unhinged chatbot – to Azure AI buffet
 
 date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
 
@@ -83,7 +251,7 @@ date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
 
 ## European customers report Oracle Cloud identity outage, Big Red is silent
 
-date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
+date: 2025-05-19, updated: 2025-05-20, from: The Register (UK I.T. News)
 
 <h4>DownDetector reported problems for about 6 hours</h4> <p>Oracle Cloud Infrastructure (OCI) experienced an outage in Europe earlier today, according to users and online metrics.…</p> 
 
@@ -95,7 +263,7 @@ date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
 
 ## DARPA zaps popcorn with laser power beamed 5.3 miles through air
 
-date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
+date: 2025-05-19, updated: 2025-05-20, from: The Register (UK I.T. News)
 
 <h4>800-watt demo breaks distance record for optical energy transmission</h4> <p>Wireless power transmission is moving from lab curiosity toward real-world utility, at least if the Defense Advanced Research Projects Agency&#39;s latest test is any indication.…</p> 
 
@@ -333,7 +501,7 @@ date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
 
 ---
 
-## China launches an AI cloud into orbit -12 sats for now, 2,800 in coming years
+## China launches an AI cloud into orbit. 12 sats for now, 2,800 in coming years
 
 date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
 

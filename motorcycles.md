@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-05-19 14:08:30
+updated: 2025-05-20 06:08:12
 ---
 
 # motorcycles
 
-(date: 2025-05-19 14:08:30)
+(date: 2025-05-20 06:08:12)
+
+---
+
+## China's Benda Motorcycles Sets Up Shop In the US
+
+date: 2025-05-20, from: Ride Apart, Electric Motorcycle News
+
+It’s pricing its bikes pretty aggressively, considering the volatile market situation. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/759972/benda-enters-us-market-keeway-america-distributor/>
+
+---
+
+## Jason Momoa's On The Roam Partners with Japan's TT&Co. for Helmet Collab
+
+date: 2025-05-20, from: Ride Apart, Electric Motorcycle News
+
+There's no denying the man knows how to cultivate a motorcycling image.  
+
+<br> 
+
+<https://www.rideapart.com/news/760043/jason-momoa-on-the-roam-tt-and-co-helmet-collaboration/>
+
+---
+
+## You Know You Want an American Flag on an Italian-Made Motorcycle Helmet
+
+date: 2025-05-20, from: Ride Apart, Electric Motorcycle News
+
+Chants "US A, US A, US A!" 
+
+<br> 
+
+<https://www.rideapart.com/news/760039/agv-k1-s-motorcycle-helmet-american-flag-limited-edition/>
+
+---
+
+## You’re Going To See Yamaha's New V4 Engine in MotoGP Sooner Than You Think
+
+date: 2025-05-20, from: Ride Apart, Electric Motorcycle News
+
+It's no longer a matter of if, but when. 
+
+<br> 
+
+<https://www.rideapart.com/news/759902/yamaha-v4-engine-motogp-debut/>
 
 ---
 

@@ -1,11 +1,75 @@
 ---
 title: journalism
-updated: 2025-05-19 14:08:28
+updated: 2025-05-20 06:08:10
 ---
 
 # journalism
 
-(date: 2025-05-19 14:08:28)
+(date: 2025-05-20 06:08:10)
+
+---
+
+## UCLA research programs hit by EPA cuts amid national changes to climate policy
+
+date: 2025-05-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA researchers and policy experts expressed concerns about the qualifications of new Environmental Protection Agency Administrator Lee Zeldin. 
+Since his appointment, Zeldin has overseen the rollback of 31 environmental regulations and has attempted to revise the EPA&#8217;s 2009 findings that greenhouse gases endanger public health, according to an EPA press release. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/19/ucla-research-programs-hit-by-epa-cuts-amid-national-changes-to-climate-policy/>
+
+---
+
+## ‘Fight to keep these papers alive’: Student journalists react to print budget cuts
+
+date: 2025-05-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Stefano Fendrich had only been editor in chief of the Daily Trojan for a few weeks when he received bad news.
+The University of Southern California&#8217;s Student Life office told him the paper had a budget deficit of $80,000, print was being cut from daily to three days a week and his staff would no longer be paid, Fendrich said. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/19/fight-to-keep-these-papers-alive-student-journalists-react-to-print-budget-cuts/>
+
+---
+
+## Q&A: DJ Ahmed Spins discusses recent Coachella experience, current musical direction
+
+date: 2025-05-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ahmed Spins is spinning his talents into house-driven beats.
+The Moroccan DJ &#8211; who studied finance at Northeastern University in Boston &#8211; has been pursuing a career in music for several years. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/19/qa-dj-ahmed-spins-discusses-recent-coachella-experience-current-musical-direction/>
+
+---
+
+## Pianist Tigran Hamasyan to perform at Schoenberg Hall, celebrating Armenian music
+
+date: 2025-05-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+With a live music performance, UCLA&#8217;s celebration of Armenian music continues.
+Acclaimed Armenian jazz pianist and composer Tigran Hamasyan will perform a free public concert tomorrow at Schoenberg Hall at 7 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/19/pianist-tigran-hamasyan-to-perform-at-schoenberg-hall-celebrating-armenian-music/>
+
+---
+
+## Students protest following the detainment of a UCLA student at the US-Mexico border
+
+date: 2025-05-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA community protested outside of Murphy Hall, calling for the university to fight back after a UCLA international graduate student was detained on April 17 by Customs and Border Patrol. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/19/students-protest-following-the-detainment-of-a-ucla-student-at-the-us-mexico-border/>
 
 ---
 

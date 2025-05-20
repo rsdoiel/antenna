@@ -1,11 +1,459 @@
 ---
 title: planet
-updated: 2025-05-19 14:08:25
+updated: 2025-05-20 06:08:04
 ---
 
 # planet
 
-(date: 2025-05-19 14:08:25)
+(date: 2025-05-20 06:08:04)
+
+---
+
+## Special care system review shows beds and staffing crisis
+
+date: 2025-05-20, from: RTÉ News
+
+A review of the special care system for children aged between 11 and 17 years old has found it is in crisis with critical bed shortages and staffing difficulties. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513908-special-care-review/>
+
+---
+
+## 'These children are skin and bone', says surgeon in Gaza
+
+date: 2025-05-20, from: RTÉ News
+
+A surgeon working in Gaza has said that children there are so malnourished that it is impacting on their ability to heal and recover from surgery. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513906-gaza-surgeon/>
+
+---
+
+## No cause of death found for Tina Satchwell, court told
+
+date: 2025-05-20, from: RTÉ News
+
+No cause of death could be determined for Cork woman, Tina Satchwell, due to the length of time that had passed since she died, the Central Criminal Court has been told. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0520/1513907-satchwell-court/>
+
+---
+
+## Expert warns parents over AI deepfakes of children
+
+date: 2025-05-20, from: RTÉ News
+
+Only 20 images of a child are needed for AI to create a deepfake video of them, a leading expert in cybersecurity has warned. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513901-ai-children-deepfakes/>
+
+---
+
+## Four people go on trial for aiding Ashling Murphy killer
+
+date: 2025-05-20, from: RTÉ News
+
+The trial of two brothers and their wives, who are accused of withholding information or assisting Jozef Puska after he had murdered 23-year-old school teacher Ashling Murphy in Tullamore three years ago, has gotten under way. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0520/1513902-puska-court/>
+
+---
+
+## Nations adopt historic pledge to guard against future pandemics
+
+date: 2025-05-20, from: United Nations, Top Stories
+
+After three years of negotiations sparked by the COVID-19 crisis, countries have adopted the world’s first-ever international agreement to better prevent, prepare for, and respond to future pandemics. The new accord marks a major step towards ensuring stronger global cooperation to protect lives and avoid the devastating consequences of future outbreaks. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163451>
+
+---
+
+## Coldplay fan fully refunded for 'restricted view' seats
+
+date: 2025-05-20, from: RTÉ News
+
+A judge has ordered Ticketmaster to fully refund a furious Coldplay fan who ended up crouching in "restricted view" seats, unable to see the band during their sell-out Croke Park concert last year. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0520/1513892-coldplay-fan-refund/>
+
+---
+
+## Seafood economy worth €1.24 billion in 2024
+
+date: 2025-05-20, from: RTÉ News
+
+A Bord Iascaigh Mhara (BIM) report has found the value of Ireland's seafood economy increased to €1.24 billion last year, an increase of 4% compared to 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0520/1513885-seafood-ecomony/>
+
+---
+
+## Woman jailed for 12 years for murdering abusive partner
+
+date: 2025-05-20, from: RTÉ News
+
+A Belfast woman who was the victim of prolonged domestic violence by her partner has been sentenced to a minimum of 12 years in prison for murdering him as he slept. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0520/1513872-julie-ann-mcilwaine-court/>
+
+---
+
+## Adams case would not breach UK regulations, court hears
+
+date: 2025-05-20, from: RTÉ News
+
+An independent media consultant has told the High Court in Dublin that he believes the BBC Spotlight progamme at the centre of a defamation case, taken by former Sinn Féin President Gerry Adams, would not have been found in breach of the UK's broadcasting regulations. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0520/1513883-adams-court/>
+
+---
+
+## USCCB: ‘Protecting pregnant mothers and their children is never obsolete'
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>The US Bishops’ Conference responds to Trump administration revoking policies that protect pregnant and postpartum women in the custody of the U.S. Customs and Border Protection.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/usccb-protecting-pregnant-mothers-and-children-never-obsolete.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/usccb-protecting-pregnant-mothers-and-children-never-obsolete.html>
+
+---
+
+## Uganda: Catholic institutions and faith-based organisations pledge to eliminate single use plastics
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>Ugandan Catholic institutions and faith-based organisations have announced a collective commitment to eliminate single-use plastics from all their functions, gatherings, and public religious events marking a major step forward in the country’s growing faith-led environmental movement.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/uganda-catholic-institutions-and-faith-based-organisations-ple.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/uganda-catholic-institutions-and-faith-based-organisations-ple.html>
+
+---
+
+## School secretaries balloted for strike action
+
+date: 2025-05-20, from: RTÉ News
+
+The Fórsa trade union has commenced a ballot of school secretaries for indefinite strike action in a dispute over pensions. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0520/1513848-school-secretaries-balloted-for-strike-action/>
+
+---
+
+## CAFOD calls for end to blockade of aid to Gaza
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>As the Integrated Food Security Phase Classification (IPC), supported by the UN, warns of an imminent famine in Gaza, CAFOD, the official aid agency of the Catholic Church in England and Wales, says the blockade of lifesaving aid to Gaza must end and calls for an immediate ceasefire.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/interview-cafod-gaza-limiting-aid-amid-humanitarian-catastrophe.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/interview-cafod-gaza-limiting-aid-amid-humanitarian-catastrophe.html>
+
+---
+
+## WHO members adopt global pandemic accord
+
+date: 2025-05-20, from: RTÉ News
+
+Members of the World Health Organization have adopted an agreement to better prepare for future pandemics following the disjointed global response to Covid-19, but the absence of the US cast doubt on the treaty's effectiveness. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0520/1513832-who-pandemic-agreement/>
+
+---
+
+## Substance abuse history in most homeless deaths - study
+
+date: 2025-05-20, from: RTÉ News
+
+The CEO of the Dublin Simon Community has said society is failing vulnerable homeless people and a cross departmental government strategy must be developed to tackle homelessness. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513818-homeless-figures/>
+
+---
+
+## EU and UK deal 'significant', says British Ambassador
+
+date: 2025-05-20, from: RTÉ News
+
+British Ambassador to Ireland Paul Johnston has described an agreement between the EU and the UK as "significant". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513823-eu-uk-deal/>
+
+---
+
+## US executes first of three sentenced to death this week
+
+date: 2025-05-20, from: RTÉ News
+
+A man was executed in Indiana for the murder of a police officer in 2000, the prison department said, one of three executions to be carried out in the United States this week. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0520/1513822-us-execution/>
+
+---
+
+## Arrest 'pressure cooker' off as Gaine suspect released
+
+date: 2025-05-20, from: RTÉ News
+
+Three days of intense activity in the investigation into the disappearance of Kenmare sheep farmer Mike Gaine came to an end in 45 seconds at the rear of Killarney garda station last night. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0520/1513796-michael-gaine-kerry-farmer-analysis/>
+
+---
+
+## 14,000 babies could die in next 48 hours without aid - UN
+
+date: 2025-05-20, from: RTÉ News
+
+The UN's humanitarian chief Tom Fletcher has said 14,000 babies could die in Gaza in the next 48 hours if more aid does not reach them. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0520/1513625-israel-gaza/>
+
+---
+
+## Pope Leo meets with Prime Minister of Australia
+
+date: 2025-05-20, from: Vatican News
+
+
+                    <p>Pope Leo XIV receives Prime Minister Anthony Albanese of Australia in the Vatican on Monday and warm appreciation was expressed at the Prime Minister's subsequent encounter at the Holy See's Secretariat of State "for the good bilateral relations between the Holy See and Australia."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-meets-with-prime-minister-of-australia.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-meets-with-prime-minister-of-australia.html>
+
+---
+
+## Israeli strikes kill dozens in Gaza as criticism grows
+
+date: 2025-05-20, from: RTÉ News
+
+Israeli air strikes have killed at least 50 Palestinians in Gaza, local health authorities said, as Israel continues its bombardment despite mounting international pressure to stop military operations and allow aid into Gaza unimpeded. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513806-gaza-middle-east/>
+
+---
+
+## Irish gardener wins gold medal at Chelsea Flower Show
+
+date: 2025-05-20, from: RTÉ News
+
+Irish gardener Billy Alexander has won a gold medal at this year's Chelsea Flower Show in London. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513807-billy-alexander-chelsea-flower-show/>
+
+---
+
+## 15% rise in motor liability claims by pedestrians in 2024
+
+date: 2025-05-20, from: RTÉ News
+
+There was a 15% rise in motor liability claims among pedestrians last year, while motorcyclists account for just 2% of personal injury claims, but represent one in ten fatal claims, according to the latest report from the Injuries Resolution Board. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513805-motor-claims-increase/>
+
+---
+
+## Wexford lagoon facing 'ecological disaster', say experts
+
+date: 2025-05-20, from: RTÉ News
+
+An "ecological disaster" is unfolding at one of Ireland's largest lagoons, according to experts, with algae blocking out light leading to plants and animals dying. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513767-lagoon-wexford/>
+
+---
+
+## Why Poland's presidential election is too close to call
+
+date: 2025-05-20, from: RTÉ News
+
+21% of Polish voters cast their ballots for a far-right candidate last Sunday, reflecting an ongoing drift towards radical-right politics in Poland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513701-poland-election-analysis/>
+
+---
+
+## How Mi'kmaw communities are moving toward self-regulation in commercial elver fishery
+
+date: 2025-05-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7182082.1716090326!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/elver-fishery-charges-20230414.jpg' alt='Tiny eels swim in a tank.' width='620' height='349' title='Baby eels, also known as elvers, swim in a tank after being caught in the Penobscot River on May 15, 2021, in Brewer, Maine.'/><p>As eight Mi’kmaw communities co-ordinate a federally recognized elver fishing plan, and others fish independently, tensions have grown over regulatory confusion and enforcement. Here's what you need to now about the complex regulatory landscape surrounding the Mi'kmaw elver fishery.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/mikmaw-treaty-right-protected-elver-plan-1.7534777?cmp=rss>
+
+---
+
+## Almost 200% rise in number of children awaiting therapy
+
+date: 2025-05-20, from: RTÉ News
+
+The number of children waiting over one year for initial speech and language therapy has risen by almost 200% in the last three years. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0520/1513793-therapy-politics/>
+
+---
+
+## Man arrested in Gaine inquiry released without charge
+
+date: 2025-05-20, from: RTÉ News
+
+A man in his 50s who was arrested on Sunday on suspicion of murdering missing Kerry farmer Michael Gaine has been released without charge. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0520/1513799-gaine-investigation/>
+
+---
+
+## Their families never accepted the official account of their deaths. Now police are taking another look
+
+date: 2025-05-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7535997.1747332341!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/matty-fairman-and-tyler-maracle.JPG' alt='Matty Fairman, left, and Tyler Maracle of Tyendinaga Mohawk Territoy, in a side by side composite.' width='620' height='349' title='The Ontario Provincial Police commissioner has ordered a review of its investigation into the 2015 drowning deaths of Matty Fairman, left, and Tyler Maracle, right, by the Toronto Police Service.'/><p>Ontario Provincial Police have ordered a review of their investigation into the 2015 drowning deaths of Matty Fairman and Tyler Maracle of Tyendinaga Mohawk Territory. Investigators originally concluded their boat sank after the two men stole another fisher's catch.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/ottawa/tyendinaga-drowning-matty-fairman-tyler-maracle-new-investigation-1.7535644?cmp=rss>
+
+---
+
+## Russia 'trying to buy time' to 'continue war' - Zelensky
+
+date: 2025-05-20, from: RTÉ News
+
+Ukrainian President Volodymyr Zelensky has accused Russia of not seriously engaging in peace talks and of wanting to continue its three-year invasion, despite a US push for a ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0520/1513794-ukraine-russia/>
+
+---
+
+## Farming groups protest in Dublin over CAP proposals
+
+date: 2025-05-19, from: RTÉ News
+
+Around 50 farmers took part in a demonstration outside the European Commission offices in Dublin, to warn against stripping away the CAP budget in favour of a single-fund approach to the EU budget. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513792-ireland-agriculture/>
+
+---
+
+## Local authorities to outline housing delivery challenges
+
+date: 2025-05-19, from: RTÉ News
+
+A body representing local authority managers will tell the Oireachtas Committee on Housing of the impediments that need addressing so councils can build more housing units. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0520/1513790-housing-commitee-politics/>
+
+---
+
+## Campaigner begins Dáil protest over assessment delays
+
+date: 2025-05-19, from: RTÉ News
+
+Disability rights campaigner, 14-year-old Cara Darmody, will begin a 50-hour protest outside Leinster House to highlight delays in children getting an assessment of needs. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0520/1513776-disability-rights-protest/>
+
+---
+
+## 1926 census to be available online after digitisation
+
+date: 2025-05-19, from: RTÉ News
+
+The first census carried out by the State will be available online next year, Minister for Arts, Culture and Communications Patrick O'Donovan is expected to tell the Cabinet. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0520/1513773-ireland-politics/>
+
+---
+
+## Mixed reality headsets to help drive blood donations
+
+date: 2025-05-19, from: RTÉ News
+
+A new pilot scheme has been launched that will see blood donors being offered mixed reality headsets while they donate. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0520/1513769-blood-donations/>
 
 ---
 
@@ -121,7 +569,7 @@ Richard Satchwell replied "guilty, or not guilty, guilty" when charged with the 
 
 ---
 
-## 8 years jail for man who hijacked car with baby in back
+## Man who hijacked car with baby in back jailed for 8 years
 
 date: 2025-05-19, from: RTÉ News
 
@@ -383,7 +831,7 @@ Amid intensifying Israeli bombing and ground operations in Gaza, the UN’s reli
 
 ## UN faces deepening financial crisis, urges members to pay up
 
-date: 2025-05-19, from: United Nations, Top Stories
+date: 2025-05-19, from: United Nations, UN Affairs
 
 The United Nations is facing a worsening cash crisis that threatens its ability to carry out vital work, Member States warned this week, as the General Assembly’s Fifth Committee met to discuss the world body’s financial health. 
 
@@ -393,7 +841,7 @@ The United Nations is facing a worsening cash crisis that threatens its ability 
 
 ---
 
-## Home-bound Syrians find few of the basics needed to survive
+## Syrians heading home find few of the basics needed to survive
 
 date: 2025-05-19, from: United Nations, Top Stories
 
@@ -438,6 +886,30 @@ The Deputy Prosecutors of the International Criminal Court have assumed leadersh
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163421>
+
+---
+
+## Drone strikes on civilian infrastructure in Port Sudan must end: UN expert
+
+date: 2025-05-19, from: United Nations, Top Stories
+
+Repeated drone strikes over the past two weeks in Port Sudan have damaged key infrastructure across the crucial Sudanese aid hub, disrupted humanitarian operations, and placed civilians in danger, a UN-appointed human rights expert has warned. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163446>
+
+---
+
+## World News in Brief: Terror-crime link alarm, child detention in Australia, judiciary in Maldives, Protection of Civilians Week
+
+date: 2025-05-19, from: United Nations, Top Stories
+
+The head of the UN Office on Drugs and Crime (UNODC), called on Monday for renewed global commitment to combating emerging criminal threats and strengthening justice systems worldwide. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163441>
 
 ---
 
@@ -498,6 +970,18 @@ A 23-year-old man has been jailed for life for the murder of a 65-year-old man w
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0519/1513663-brian-ibe/>
+
+---
+
+## Man jailed for murder of man who took him and mother in
+
+date: 2025-05-19, from: RTÉ News
+
+A 23-year-old man has been jailed for life for the murder of a 65-year-old man who had taken his mother into his home after learning she was sleeping in her car. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0519/1513663-brian-ibe-court/>
 
 ---
 
@@ -797,11 +1281,11 @@ Portugal's Prime Minister Luis Montenegro is preparing to lead a new minority go
 
 ---
 
-## Suspect held over Gaine murder known to missing farmer
+## Man arrested over Gaine murder released without charge
 
 date: 2025-05-19, from: RTÉ News
 
-A man in his 50s arrested yesterday on suspicion of murdering Michael Gaine is understood to have been known to the missing Kerry farmer. 
+A man in his 50s arrested yesterday on suspicion of murdering missing Kerry farmer Michael Gaine has been released without charge. 
 
 <br> 
 
@@ -1051,7 +1535,7 @@ Could the world be better prepared for the next pandemic? As nations continue to
 
 ## In Baghdad, Guterres affirms UN will never forget staff killed in Canal Hotel attack
 
-date: 2025-05-18, from: United Nations, Top Stories
+date: 2025-05-18, from: United Nations, UN Affairs
 
 The United Nations will never forget the staff members killed nearly 23 years ago in the attack on its headquarters in Iraq, the Secretary-General said in the capital on Sunday. 
 

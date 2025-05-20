@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-19 14:08:29
+updated: 2025-05-20 06:08:11
 ---
 
 # libraries
 
-(date: 2025-05-19 14:08:29)
+(date: 2025-05-20 06:08:11)
+
+---
+
+## Guest Post — Beyond Efficiency: Reclaiming Creativity and Wellbeing in the Age of AI and Scholarly Publishing
+
+date: 2025-05-20, from: Scholarly Kitchen
+
+<p>Editor’s Note: Today’s post is by Ashutosh Ghildiyal, Ashutosh is a strategic leader in scholarly publishing with over 18 years of experience driving sustainable growth and global market expansion. He currently serves as Vice President of Growth and Strategy at [&#8230;]</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/20/guest-post-beyond-efficiency-reclaiming-creativity-and-wellbeing-in-the-age-of-ai-and-scholarly-publishing/">Guest Post &#8212; Beyond Efficiency: Reclaiming Creativity and Wellbeing in the Age of AI and Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/20/guest-post-beyond-efficiency-reclaiming-creativity-and-wellbeing-in-the-age-of-ai-and-scholarly-publishing/>
 
 ---
 

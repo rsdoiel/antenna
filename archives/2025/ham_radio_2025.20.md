@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-19 14:08:27
+updated: 2025-05-20 06:08:06
 ---
 
 # ham radio
 
-(date: 2025-05-19 14:08:27)
+(date: 2025-05-20 06:08:06)
+
+---
+
+## Boosting RISC-V SoC performance for AI and ML applications
+
+date: 2025-05-20, from: EDN Blog
+
+<img width="780" height="413" src="https://www.edn.com/wp-content/uploads/EDN-Fig-1-RISC-V.jpg?fit=780%2C413" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/EDN-Fig-1-RISC-V.jpg?w=780 780w, https://www.edn.com/wp-content/uploads/EDN-Fig-1-RISC-V.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/EDN-Fig-1-RISC-V.jpg?w=768 768w" sizes="(max-width: 780px) 100vw, 780px" /><p>These AI-centric SoCs must ensure efficient communication among IP blocks from different vendors using robust NoCs.</p>
+<p>The post <a href="https://www.edn.com/boosting-risc-v-soc-performance-for-ai-and-ml-applications/">Boosting RISC-V SoC performance for AI and ML applications</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/boosting-risc-v-soc-performance-for-ai-and-ml-applications/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-19 14:08:27
 
 date: 2025-05-19, from: EDN Blog
 
-<img width="583" height="460" src="https://www.edn.com/wp-content/uploads/Figure-4-13.png?fit=583%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-4-13.png?w=583 583w, https://www.edn.com/wp-content/uploads/Figure-4-13.png?w=300 300w" sizes="(max-width: 583px) 100vw, 583px" /><p>How to implement multiple references to improve the maximum single-read resolution of your voltage readings.</p>
+<img width="583" height="460" src="https://www.edn.com/wp-content/uploads/Figure-4-13.png?fit=583%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-4-13.png?w=583 583w, https://www.edn.com/wp-content/uploads/Figure-4-13.png?w=300 300w" sizes="auto, (max-width: 583px) 100vw, 583px" /><p>How to implement multiple references to improve the maximum single-read resolution of your voltage readings.</p>
 <p>The post <a href="https://www.edn.com/adaptive-resolution-for-adcs/">Adaptive resolution for ADCs</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

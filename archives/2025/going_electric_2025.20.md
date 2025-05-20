@@ -1,11 +1,119 @@
 ---
 title: going electric
-updated: 2025-05-19 14:08:30
+updated: 2025-05-20 06:08:13
 ---
 
 # going electric
 
-(date: 2025-05-19 14:08:30)
+(date: 2025-05-20 06:08:13)
+
+---
+
+## Honda commits to going out of business by pulling back on EVs as sales rise
+
+date: 2025-05-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/04/Honda-CEO.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Honda said it will reduce its planned EV investments by $21 billion, claiming that it’s doing so due to a slowdown in EV sales which isn’t actually happening.</p>
+
+
+
+<p>Instead, it will focus on hybrids, which get 100% of their energy from fossil fuels, and which cause climate change and poison the air you breathe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="416794" href="https://electrek.co/2025/05/20/honda-commits-to-going-out-of-business-by-pulling-back-on-evs-as-sales-rise/#more-416794" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/20/honda-commits-to-going-out-of-business-by-pulling-back-on-evs-as-sales-rise/>
+
+---
+
+## NIU’s stock nearly doubles in 2025 amid soarding electric moped sales
+
+date: 2025-05-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/NIU-lineup-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese electric scooter manufacturer NIU Technologies (NASDAQ: NIU) is experiencing a remarkable surge in 2025, with its stock price nearly doubling year-to-date. This impressive performance is fueled by a significant increase in electric moped sales, particularly within its domestic market, despite facing challenges such as international tariffs and rising freight costs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="niu" data-layer-viewtype="unknown" data-post-id="416789" href="https://electrek.co/2025/05/20/nius-stock-nearly-doubles-in-2025-amid-soarding-electric-moped-sales/#more-416789" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/20/nius-stock-nearly-doubles-in-2025-amid-soarding-electric-moped-sales/>
+
+---
+
+## Honda Cuts EV Investments, Pivots To Hybrids
+
+date: 2025-05-20, from: Inside EVs News
+
+The automaker said it will likely miss its previous goal of having 30% of all car sales come from EVs in 2030. 
+
+<br> 
+
+<https://insideevs.com/news/760093/honda-ev-investment-cut-hybrid-push/>
+
+---
+
+## The 2026 Lexus RZ Gets A Tesla Plug, 300 Miles Of Range, Simulated Shifts
+
+date: 2025-05-20, from: Inside EVs News
+
+With up to 300 miles of range and Lexus' first "virtual manual gear shift system," the RZ gets a glow-up. 
+
+<br> 
+
+<https://insideevs.com/news/760083/2026-lexus-rz-specs-shift/>
+
+---
+
+## State of the solar industry as GOP eliminates homeowner’s tax credits
+
+date: 2025-05-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/slar-scenario.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s sunny side up episode of <em></em><em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we take a look at the latest from the world of solar power, and discuss Congressional Republicans’ plans to limit your energy independence by eliminating a critical tax credit for homeowners nearly <em>ten</em> years early. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="quick-charge,solar-power" data-layer-viewtype="unknown" data-post-id="416780" href="https://electrek.co/2025/05/19/state-of-the-solar-industry-as-gop-eliminates-homeowners-tax-credits/#more-416780" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/19/state-of-the-solar-industry-as-gop-eliminates-homeowners-tax-credits/>
+
+---
+
+## Trump reversal revives Empire Wind, NY’s offshore energy giant
+
+date: 2025-05-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Empire-Wind-Field-scaled-e1732284588699.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The $5 billion Empire Wind is back in business. The Trump administration’s Bureau of Ocean Energy Management (BOEM) has lifted its stop-work order for Empire Wind, a major offshore wind project off the coast of New York led by Empire Offshore Wind LLC, a subsidiary of Equinor. Construction is now allowed to resume.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,new-york,offshore-wind-power" data-layer-viewtype="unknown" data-post-id="416767" href="https://electrek.co/2025/05/19/trump-reversal-revives-empire-wind-nys-offshore-energy-giant/#more-416767" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/19/trump-reversal-revives-empire-wind-nys-offshore-energy-giant/>
+
+---
+
+## Toyota’s new smart EV for China looks pretty sharp: Check out the bZ5
+
+date: 2025-05-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Toyotas-bZ5-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota’s </a>new bZ5 EV starts at about $18,000 in China and uses BYD batteries for a driving range of up to 630 km (391 miles). Can it keep up in the world’s largest EV market?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="416751" href="https://electrek.co/2025/05/19/toyotas-new-smart-ev-china-looks-pretty-sharp-meet-bz5/#more-416751" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/19/toyotas-new-smart-ev-china-looks-pretty-sharp-meet-bz5/>
 
 ---
 

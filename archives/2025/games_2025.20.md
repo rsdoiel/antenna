@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-05-19 14:08:28
+updated: 2025-05-20 06:08:09
 ---
 
 # games
 
-(date: 2025-05-19 14:08:28)
+(date: 2025-05-20 06:08:09)
+
+---
+
+## Fight to save a doomed world in the Brazilian D&#038;D 5e setting Skyfall
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Wizards of the Coast didn’t have an official Portuguese translation of the rules for Dungeons &#38; Dragons until 2022, eight years after the release of 5th edition. CapyCat Games creative director Pedro Coimbra had been a playtester for 5e and began teaching the new rules in Portuguese on his YouTube channel. He developed a custom [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/600041/skyfall-brazilian-dnd-5e-setting-kickstarter>
+
+---
+
+## Can Poochyena be shiny in Pokémon Go?
+
+date: 2025-05-20, updated: 2025-05-19, from: Polygon Website
+
+Poochyena, the bite Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Poochyena can be shiny in Pokémon Go! Mightyena isn’t actually a complete wash in the Great League of PvP, but its shadow version is preferred. Either way, these are pretty nice shinies — and as with all shinies, they’re [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/599838/can-poochyena-be-shiny-mightyena>
+
+---
+
+## Smash Bros. Melee player lost out on $2,000 after heartbreaking Pokémon Stadium glitch
+
+date: 2025-05-19, updated: 2025-05-19, from: Polygon Website
+
+The Super Smash Bros. Melee tournament Full House 2025 finals ended in the most anticlimactic way Sunday — and it’s all because of an extremely rare glitch. The tourney featured a showdown between fourth-ranked Kurtis “Moky” Pratt and Cody Schwab, the second-ranked player in the Melee community. The two players both selected the Melee speed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/600019/smash-bros-melee-player-lost-out-on-2000-after-heartbreaking-pokemon-stadium-glitch>
+
+---
+
+## Where to find Wolf Statues in Doom: The Dark Ages
+
+date: 2025-05-19, updated: 2025-05-19, from: Polygon Website
+
+Throwing your shield at demons is the bread and butter of Doom: The Dark Ages. However, Wolf Statues are also valuable targets to aim your shield at. In each chapter of Doom: The Dark Ages, there are many secrets to discover. Maps may hide little toys in underground tunnels or Nightmare skins in platforms that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599982/wolf-statues-locations-where-to-find-all>
 
 ---
 

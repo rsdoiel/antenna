@@ -1,11 +1,53 @@
 ---
 title: food
-updated: 2025-05-19 14:08:31
+updated: 2025-05-20 06:08:13
 ---
 
 # food
 
-(date: 2025-05-19 14:08:31)
+(date: 2025-05-20 06:08:13)
+
+---
+
+## World Of Coffee Asia Is Heading To Bangkok In 2026
+
+date: 2025-05-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. World of Coffee Bangkok takes places May 7th through 9th. 
+
+<br> 
+
+<https://sprudge.com/world-of-coffee-asia-is-heading-to-bangkok-in-2026-338593.html>
+
+---
+
+## In Uganda, Bayaaya Pays a Premium for Cherries from Women Farmers
+
+date: 2025-05-20, from: The Fresh Cup
+
+<p>A Ugandan entrepreneur founded a company that pays a premium for coffee cherries from women farmers. </p>
+<p>The post <a href="https://freshcup.com/in-uganda-bayaaya-pays-a-premium-for-cherries-from-women-farmers/">In Uganda, Bayaaya Pays a Premium for Cherries from Women Farmers</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/in-uganda-bayaaya-pays-a-premium-for-cherries-from-women-farmers/>
+
+---
+
+## Fajita Seasoning
+
+date: 2025-05-20, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/fajita-seasoning/"><img title="fajita-seasoning-small-3" src="https://www.isabeleats.com/wp-content/uploads/2025/05/fajita-seasoning-small-3-400x600.jpg" alt="A fajita seasoning recipe in a bowl." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This fajita seasoning recipe is made with everyday spices. No weird stuff, just big flavor. Use it on chicken, steak,&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/fajita-seasoning/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2025-05-19 14:08:31
 
 date: 2025-05-19, from: Bon Appetet
 
-After testing this stuff for more than 5 years we've figured out what works and what doesn't. 
+After testing this stuff for more than 5 years, we’ve figured out what works and what doesn’t. 
 
 <br> 
 
@@ -109,6 +151,18 @@ date: 2025-05-19, from: The Sprudge
 
 ---
 
+## World of Coffee Asia Heading to Bangkok in 2026
+
+date: 2025-05-19, from: Daily Coffee News
+
+<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg" class="attachment-large size-large wp-post-image" alt="Bangkok Thailand" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In conjunction with its second World of Coffee Asia (WoC) trade show in Indonesia, the Specialty Coffee Association (SCA) announced that its 2026 flagship Asia event will take place in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/19/world-of-coffee-asia-heading-to-bangkok-in-2026/>
+
+---
+
 ## The Best Pizza Ovens for Perfect Pies at Home (2025)
 
 date: 2025-05-19, from: Bon Appetet
@@ -118,6 +172,18 @@ Want good pizza at home? You need it hot, hot, hot.
 <br> 
 
 <https://www.bonappetit.com/story/best-pizza-ovens>
+
+---
+
+## Duvall Espresso Launches Sales of Groundbreaking FC-1 Espresso Machine
+
+date: 2025-05-19, from: Daily Coffee News
+
+<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-620x410.jpg" class="attachment-large size-large wp-post-image" alt="Duvall FC1 Espresso machine 6" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-620x410.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6-768x508.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Duvall-FC1-Espresso-machine-6.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seven years after revealing a prototype FC-1 espresso machine at the SCA Expo in Seattle, Duvall Espresso is now taking orders for its signature single-, dual- and three-group machines. The... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/19/duvall-espresso-launches-sales-of-groundbreaking-fc-1-espresso-machine/>
 
 ---
 

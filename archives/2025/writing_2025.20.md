@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-05-19 14:08:28
+updated: 2025-05-20 06:08:09
 ---
 
 # writing
 
-(date: 2025-05-19 14:08:28)
+(date: 2025-05-20 06:08:09)
+
+---
+
+## Scriptnotes on YouTube
+
+date: 2025-05-19, from: John August blog
+
+For years, we&#8217;ve had a few select episodes of Scriptnotes up on my personal YouTube channel. Beginning today, we have a proper Scriptnotes Podcast channel. In addition to two of our most-loved classic episodes, we&#8217;ll be posting new videos. Here&#8217;s the first, drawn from our Die Hard Deep-Dive: The new videos are thanks to our [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-on-youtube">Scriptnotes on YouTube</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-on-youtube>
 
 ---
 

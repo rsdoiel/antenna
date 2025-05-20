@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-05-19 14:08:25
+updated: 2025-05-20 06:08:04
 ---
 
 # north america
 
-(date: 2025-05-19 14:08:25)
+(date: 2025-05-20 06:08:04)
+
+---
+
+## Words & Phrases We Can Do Without
+
+date: 2025-05-20, from: The Contrarian
+
+Even from across the globe, it's evident that the &#8220;big, beautiful&#8221; bill is hideous 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-can-do-without-976>
 
 ---
 
@@ -18,6 +30,18 @@ Monday: Protests in Illinois, California, and Tennessee, preparing for upcoming 
 <br> 
 
 <https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Evening Roundup, May 19
+
+date: 2025-05-19, from: The Contrarian
+
+Featuring Offsides with Pablo Torre and guest Dan Koh; Shalise Manza Young; Leah Litman; Michael de Adder; "Talking Feds"; Jen Rubin; and "Coffee with the Contrarians" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-19>
 
 ---
 

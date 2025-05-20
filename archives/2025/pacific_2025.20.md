@@ -1,11 +1,672 @@
 ---
 title: pacific
-updated: 2025-05-19 14:08:26
+updated: 2025-05-20 06:08:06
 ---
 
 # pacific
 
-(date: 2025-05-19 14:08:26)
+(date: 2025-05-20 06:08:06)
+
+---
+
+## Hawaiian Electric using drones for aerial inspections
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric is drones for aerial inspections of its electrical infrastructure in identified wildfire risk areas on Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/hawaii-news/hawaiian-electric-using-drones-for-aerial-inspections/>
+
+---
+
+## US Supreme Court may broaden religious rights in looming rulings
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Supreme Court in a trio of rulings expected in the coming weeks appears inclined to extend its trend of taking an expansive view of religious rights while potentially dealing a sharp blow to the principle of separation of church and state.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/us-supreme-court-may-broaden-religious-rights-in-looming-rulings/>
+
+---
+
+## Islands brace for Energy Star’s demise
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii households, with higher electricity rates than the rest of the nation, could benefit from any help available to keep those bills down.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/hawaii-news/islands-brace-for-energy-stars-demise/>
+
+---
+
+## Foreclosure kills Punalu‘u project
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>A controversial commercial development on the famous black sand beaches of Big Island has been stalled by foreclosure.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/hawaii-news/foreclosure-kills-punaluu-project/>
+
+---
+
+## News in brief for May 20
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>Head of CBS News is forced out amid tensions with Trump</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/news-in-brief-for-may-20/>
+
+---
+
+## Netanyahu says Israel will control Gaza as pressure mounts on aid
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/CAIRO &#8212; Prime Minister Benjamin Netanyahu said on Monday Israel would control the whole of Gaza despite mounting international pressure that pushed it to lift a blockade on aid supplies in the face of warnings of looming famine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/netanyahu-says-israel-will-control-gaza-as-pressure-mounts-on-aid/>
+
+---
+
+## Trump and Putin discuss Ukraine war in high-stakes call
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; President Vladimir Putin revealed no breakthroughs after a two-hour call with President Donald Trump on Monday, telling reporters he was ready to negotiate a peace deal with Ukraine but repeating his demand for broad concessions before Russia stops fighting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/trump-and-putin-discuss-ukraine-war-in-high-stakes-call/>
+
+---
+
+## Spain orders Airbnb to take down 66,000 rental listings
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; The Spanish government on Monday ordered Airbnb to remove nearly 66,000 listings from its platform, widening a crackdown on tourist rentals as it seeks to alleviate a housing crisis that has become among the worst in Europe.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/spain-orders-airbnb-to-take-down-66000-rental-listings/>
+
+---
+
+## Supreme Court lets Trump lift deportation protections for Venezuelans
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Monday let the Trump administration, for now, remove protections from nearly 350,000 Venezuelan immigrants who had been allowed to remain in the United States without risk of deportation under a program known as Temporary Protected Status.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/supreme-court-lets-trump-lift-deportation-protections-for-venezuelans/>
+
+---
+
+## Kentucky city devastated by tornadoes out of a ‘horror movie’
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>LONDON, Ky. &#8212; On Sunday morning in a small Kentucky city, the sun shone and birds chirped.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/kentucky-city-devastated-by-tornadoes-out-of-a-horror-movie/>
+
+---
+
+## Poached salmon and broccoli Caesar salad make a healthy, hearty meal
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>I don&#8217;t cook salmon very often, but reading and writing about the Pittsburgh Marathon recently made me question why it&#8217;s not on regular rotation in my kitchen.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/features/poached-salmon-and-broccoli-caesar-salad-make-a-healthy-hearty-meal/>
+
+---
+
+## Let’s Talk Food: HCC Palamanui Culinary Arts Program
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>Students in the Hawaii Community College Palamanui campus Culinary Arts Program have finished their final practicums for their advanced cookery and Garde Manger courses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/features/lets-talk-food-hcc-palamanui-culinary-arts-program/>
+
+---
+
+## US launches unit to target DEI policies at colleges with civil fraud probes
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States announced on Monday the formation of a new unit that will crack down on federally-funded universities that have diversity, equity and inclusion policies using a civil anti-fraud law, the Justice Department said in a memo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/us-launches-unit-to-target-dei-policies-at-colleges-with-civil-fraud-probes/>
+
+---
+
+## Thousands of chicks left in Postal Service truck overwhelm a Delaware shelter
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>Thousands of chicks that spent three days in a U.S. Postal Service truck in early May have overwhelmed a Delaware animal shelter, frustrating the hatchery that had shipped them to various farms, the shelter and hatchery said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/thousands-of-chicks-left-in-postal-service-truck-overwhelm-a-delaware-shelter/>
+
+---
+
+## Melania Trump joins the president to sign revenge porn bill she championed
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>The president and first lady appeared together in the White House Rose Garden on Monday afternoon so he could sign into law a piece of revenge porn legislation that she championed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/melania-trump-joins-the-president-to-sign-revenge-porn-bill-she-championed/>
+
+---
+
+## Trump administration discussing paying $5 million to family of Jan. 6 rioter
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>The Justice Department is discussing giving the relatives of Ashli Babbitt, an Air Force veteran killed by police during the storming of the Capitol on Jan. 6, 2021, about $5 million to settle a wrongful-death lawsuit they brought against the government last year, according to two people familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/trump-administration-discussing-paying-5-million-to-family-of-jan-6-rioter/>
+
+---
+
+## Trump berates companies for warning about tariff price increases
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump is telling some of the nation&#8217;s largest companies that they should eat the cost of his tariffs, as a growing number of businesses signal that they must raise prices to blunt the impact of a persistent global trade war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/nation-world-news/trump-berates-companies-for-warning-about-tariff-price-increases/>
+
+---
+
+## Baklai Temengil elected first female President in ONOC’s 45-Year History
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="600" height="630" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?fit=600%2C630&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?resize=286%2C300&amp;ssl=1 286w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?resize=400%2C420&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?fit=600%2C630&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77573" data-permalink="https://islandtimes.org/baklai-temengil-elected-first-female-president-in-onocs-45-year-history/baklai-temengil/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?fit=600%2C630&amp;ssl=1" data-orig-size="600,630" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1736964362&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.0333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Baklai Temengil" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?fit=286%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Baklai-Temengil.jpg?fit=600%2C630&amp;ssl=1" /></figure>
+<p>KOROR, Palau — In a groundbreaking moment for Oceania sport, Palau’s Baklai Temengil has been elected President of the Oceania National Olympic Committees (ONOC), becoming the first woman to hold the role in the organization’s 45-year history. Temengil’s election was confirmed during the 45th ONOC Annual General Assembly, held Saturday, May 17, in Guam. Her [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/baklai-temengil-elected-first-female-president-in-onocs-45-year-history/">Baklai Temengil elected first female President in ONOC’s 45-Year History</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/baklai-temengil-elected-first-female-president-in-onocs-45-year-history/>
+
+---
+
+## Family, grit, and community support drive adult students to graduation
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="996" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?fit=996%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?resize=292%2C300&amp;ssl=1 292w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?resize=996%2C1024&amp;ssl=1 996w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?resize=768%2C790&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?resize=1200%2C1234&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?resize=780%2C802&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?resize=400%2C411&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?resize=706%2C726&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?fit=996%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77568" data-permalink="https://islandtimes.org/family-grit-and-community-support-drive-adult-students-to-graduation/aimeliik-adult-ed-graduates1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?fit=1249%2C1284&amp;ssl=1" data-orig-size="1249,1284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Aimeliik Adult Ed Graduates1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?fit=292%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Aimeliik-Adult-Ed-Graduates1.jpg?fit=780%2C802&amp;ssl=1" /></figure>
+<p>AIMELIIK, Palau — Returning to school after two decades is no easy feat — especially while juggling jobs, family responsibilities and personal hardships. But for eight adults from Aimeliik State, that challenge turned into triumph as they graduated last week with Track II high school diplomas from the Palau Community College (PCC) Adult Education Program. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/family-grit-and-community-support-drive-adult-students-to-graduation/">Family, grit, and community support drive adult students to graduation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/family-grit-and-community-support-drive-adult-students-to-graduation/>
+
+---
+
+## House narrowly approves $1 Million settlement with Coin Minting Company
+
+date: 2025-05-20, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang NGERULMUD, Palau— The House of Delegates narrowly passed House Joint Resolution No. 12-6-2 during the first day of its second special session, ratifying an agreement between the National Development Bank of Palau (NDBP) and CIT Coin Investment AG to mint and distribute commemorative legal tender coins on behalf of the Republic [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/house-narrowly-approves-1-million-settlement-with-coin-minting-company/">House narrowly approves $1 Million settlement with Coin Minting Company</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/house-narrowly-approves-1-million-settlement-with-coin-minting-company/>
+
+---
+
+## Olegeriil sworn in as Justice Minister, highlights support for women in Law Enforcement
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="1024" height="575" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?fit=1024%2C575&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?resize=1200%2C673&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?resize=780%2C438&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?resize=400%2C224&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?resize=706%2C396&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?fit=1024%2C575&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77561" data-permalink="https://islandtimes.org/olegeriil-sworn-in-as-justice-minister-highlights-support-for-women-in-law-enforcement/jennifer-olegeriil-swear-in-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?fit=1249%2C701&amp;ssl=1" data-orig-size="1249,701" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Jennifer Olegeriil Swear in 4" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Jennifer-Olegeriil-Swear-in-4.jpg?fit=780%2C438&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Jennifer Olegeriil was sworn in as Minister of Justice on May 19, becoming the second woman to lead the Ministry and marking a historic moment as women now head all of Palau’s top law enforcement agencies. Olegeriil joins Attorney General Ernestine Rengiil, National Security Coordinator Jennifer Anson and Special Prosecutor Tamara Hutzler, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/olegeriil-sworn-in-as-justice-minister-highlights-support-for-women-in-law-enforcement/">Olegeriil sworn in as Justice Minister, highlights support for women in Law Enforcement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/olegeriil-sworn-in-as-justice-minister-highlights-support-for-women-in-law-enforcement/>
+
+---
+
+## Palau continues to support Taiwan at the WHO meeting
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="911" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=911%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=267%2C300&amp;ssl=1 267w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=911%2C1024&amp;ssl=1 911w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=768%2C863&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=1200%2C1349&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=780%2C877&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=400%2C450&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=706%2C794&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=911%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76593" data-permalink="https://islandtimes.org/palau-officials-assess-patient-housing-in-taiwan-hawaii/20250402_101334/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=1249%2C1404&amp;ssl=1" data-orig-size="1249,1404" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1743588814&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.0083&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250402_101334" data-image-description="" data-image-caption="&lt;p&gt;Minister of Health Raynold “Arnold” Oilouch&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=267%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=780%2C877&amp;ssl=1" /></figure>
+<p>By: Bernadette Carreon Palau&#8217;s Vice President and Health Minister, Raynold Oilouch, joined diplomatic allies of Taiwan in advocating for support for Taipei&#8217;s efforts to participate in the ongoing 78th World Health Assembly (WHA), scheduled for May 19-27 in Geneva, Switzerland.&#160; According to a report by CNA, Taiwan hosted a reception in Geneva on Sunday, highlighting [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-continues-to-support-taiwan-at-the-who-meeting/">Palau continues to support Taiwan at the WHO meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-continues-to-support-taiwan-at-the-who-meeting/>
+
+---
+
+## Whipps in Taiwan for State visit
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="600" height="856" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=210%2C300&amp;ssl=1 210w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=400%2C571&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70146" data-permalink="https://islandtimes.org/palau-recognizes-law-enforcement-during-national-police-week/whipps-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" data-orig-size="600,856" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715164497&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=210%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" /></figure>
+<p>Palau President Surangel Whipps Jr. is currently in Taiwan for a week-long state visit, following an invitation from the Taiwanese government. He is accompanied by a Palauan delegation that includes Minister of State Gustav Aitaro, Minister of Public Infrastructure and Industries Charles Obichang, Minister of Human Resources, Culture, Tourism, and Development Ngiraibelas Tmetuchl, and nine [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-in-taiwan-for-state-visit/">Whipps in Taiwan for State visit</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-in-taiwan-for-state-visit/>
+
+---
+
+## Former Honorary Consul challenges Palau’s ‘Undesirable Alien’ designation
+
+date: 2025-05-20, from: Island Times
+
+<p>KOROR, Palau — A former honorary consul to Monaco is contesting his inclusion on Palau’s list of undesirable aliens, a designation that bars individuals from entering the country under a law allowing the president to deny entry “in the best interest of the Republic.” George Victor Malek, a British citizen and former honorary consul representing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/former-honorary-consul-challenges-palaus-undesirable-alien-designation/">Former Honorary Consul challenges Palau’s ‘Undesirable Alien’ designation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/former-honorary-consul-challenges-palaus-undesirable-alien-designation/>
+
+---
+
+## Authorities target meth trafficking and use amid surge in arrests
+
+date: 2025-05-20, from: Island Times
+
+<p>KOROR, Palau — In a troubling indication of Palau’s growing illegal drug crisis, three individuals have been charged in separate cases involving methamphetamine—a powerful and highly addictive stimulant—according to recent filings by the Office of the Attorney General. The cases, filed in the Supreme Court’s Trial Division between April 29 and May 2, 2025, include [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/authorities-target-meth-trafficking-and-use-amid-surge-in-arrests/">Authorities target meth trafficking and use amid surge in arrests</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/authorities-target-meth-trafficking-and-use-amid-surge-in-arrests/>
+
+---
+
+## 596 students to graduate and be promoted across Palau schools
+
+date: 2025-05-20, from: Island Times
+
+<p>A total of 596 students across Palau are scheduled to graduate or be promoted this year, with ceremonies taking place throughout May and June. The events mark important milestones for students, families, and educational institutions across the nation. The graduation and promotion season began on May 16 with Palau Community College (PCC) holding its commencement [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/596-students-to-graduate-and-be-promoted-across-palau-schools/">596 students to graduate and be promoted across Palau schools</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/596-students-to-graduate-and-be-promoted-across-palau-schools/>
+
+---
+
+## Airai accessibility ramp and beautification project of 2025 opens
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="600" height="764" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?fit=600%2C764&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?resize=236%2C300&amp;ssl=1 236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?resize=400%2C509&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?fit=600%2C764&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77542" data-permalink="https://islandtimes.org/airai-accessibility-ramp-and-beautification-project-of-2025-opens/494689635_1442346010261602_5259533558274211566_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?fit=600%2C764&amp;ssl=1" data-orig-size="600,764" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="494689635_1442346010261602_5259533558274211566_n" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?fit=236%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/494689635_1442346010261602_5259533558274211566_n.jpg?fit=600%2C764&amp;ssl=1" /></figure>
+<p>A Ribbon Cutting ceremony was held on May 15, 2025 to commemorate the opening of the new Airai Accessibility Ramp at Airai Side. The ramp and beautification project were the result of a Public-Private Partnership established under an MOU signed on October 23, 2024. On the public side were the National Government represented by Minister [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/airai-accessibility-ramp-and-beautification-project-of-2025-opens/">Airai accessibility ramp and beautification project of 2025 opens</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/airai-accessibility-ramp-and-beautification-project-of-2025-opens/>
+
+---
+
+## PHS students gain valuable industry experience through internship at PPR
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="1024" height="1010" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?fit=1024%2C1010&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=300%2C296&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=1024%2C1010&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=768%2C758&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=1200%2C1184&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=780%2C769&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=400%2C395&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=706%2C696&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?fit=1024%2C1010&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77538" data-permalink="https://islandtimes.org/phs-students-gain-valuable-industry-experience-through-internship-at-ppr/phs-practicum-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?fit=1249%2C1232&amp;ssl=1" data-orig-size="1249,1232" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone SE (3rd generation)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1747311209&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;25&quot;,&quot;shutter_speed&quot;:&quot;0.0078740157480315&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PHS PRACTICUM PHOTO" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?fit=300%2C296&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PHS-PRACTICUM-PHOTO.jpg?fit=780%2C769&amp;ssl=1" /></figure>
+<p>Koror, Palau – May 19, 2025 – Palau Pacific Resort proudly announces the successful participation of Palau High School students in its internship program, which took place from January to May 2025. This initiative, aimed at cultivating the next generation of hospitality professionals, provided students with hands-on training in key operational departments of the resort. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/phs-students-gain-valuable-industry-experience-through-internship-at-ppr/">PHS students gain valuable industry experience through internship at PPR</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/phs-students-gain-valuable-industry-experience-through-internship-at-ppr/>
+
+---
+
+## Empowering Women, Protecting Heritage
+
+date: 2025-05-20, from: Island Times
+
+<figure><img width="1024" height="473" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?fit=1024%2C473&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?resize=300%2C139&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?resize=1024%2C473&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?resize=768%2C355&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?resize=1200%2C554&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?resize=780%2C360&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?resize=400%2C185&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?resize=706%2C326&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?fit=1024%2C473&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77534" data-permalink="https://islandtimes.org/empowering-women-protecting-heritage/empowering-women-protecting-heritage/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?fit=1249%2C577&amp;ssl=1" data-orig-size="1249,577" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Empowering Women, Protecting Heritage" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?fit=300%2C139&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Empowering-Women-Protecting-Heritage.jpg?fit=780%2C360&amp;ssl=1" /></figure>
+<p>PCS and Ipang Seineng advance community partnership in conservation Koror, Palau May 15, 2025- The Palau Conservation Society (PCS) and Ipang Seineng era Oreor, one of Palau’s largest women’s group in Koror, met on May 15, 2025 at Bai ra Maiberel to strengthen collaboration on invasive species management, climate resilience, and local conservation initiatives. Attending [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/empowering-women-protecting-heritage/">Empowering Women, Protecting Heritage</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/empowering-women-protecting-heritage/>
+
+---
+
+## Over 40 individuals receive Nauru citizenship
+
+date: 2025-05-20, from: Island Times
+
+<p>YAREN (NAURU MEDIA) &#8212; A momentous occasion on Friday 16 May in Nauru as over 40 individuals officially became citizens in a formal ceremony that underscored the nation’s commitment to welcoming new members into its community. The event also marks the opening of Nauru’s 57th Anniversary of Constitution Day celebration. President of Nauru His Excellency [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/over-40-individuals-receive-nauru-citizenship/">Over 40 individuals receive Nauru citizenship</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/over-40-individuals-receive-nauru-citizenship/>
+
+---
+
+## Heads of military forces for Marianas, Micronesia should serve longer for 3 or 4 years
+
+date: 2025-05-20, from: Island Times
+
+<p>HAGATNA (GUAM PACIFIC DAILY NEWS) &#8212; With Guam regularly facing natural disasters and threats, the admirals selected to lead military forces in the region should stick around for longer than just a two-year term, Governor Lou Leon Guerrero said last Thursday. The governor spoke briefly in front of top military brass during a change of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/heads-of-military-forces-for-marianas-micronesia-should-serve-longer-for-3-or-4-years/">Heads of military forces for Marianas, Micronesia should serve longer for 3 or 4 years</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/heads-of-military-forces-for-marianas-micronesia-should-serve-longer-for-3-or-4-years/>
+
+---
+
+## Manufacturers in China rush back to work to fulfil US orders amid 90-day reciprocal tariff pause
+
+date: 2025-05-20, from: Island Times
+
+<p>By Kai Feng and Carol Mang (ABC-Australia) David Xu felt relieved when his jigsaw puzzle factory in China resumed production of an order worth half-a-million US dollars. The order for 100,000 puzzles from an American client had been suspended at the height of the US-China tariff war. But after the Trump administration and Beijing struck a deal [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/manufacturers-in-china-rush-back-to-work-to-fulfil-us-orders-amid-90-day-reciprocal-tariff-pause/">Manufacturers in China rush back to work to fulfil US orders amid 90-day reciprocal tariff pause</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/manufacturers-in-china-rush-back-to-work-to-fulfil-us-orders-amid-90-day-reciprocal-tariff-pause/>
+
+---
+
+## Excellence in teaching, groundbreaking research honored by UH regents
+
+date: 2025-05-20, from: University of Hawaiʻi News
+
+<p>&#8220;These awardees represent the very best of <abbr>UH</abbr>: world-class scholars and educators whose work has local impact and global reach.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/bor-awards-2025/">Excellence in teaching, groundbreaking research honored by <abbr>UH</abbr> regents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/bor-awards-2025/>
+
+---
+
+## More than 2,500 graduates celebrate UH Mānoa spring commencement
+
+date: 2025-05-20, from: University of Hawaiʻi News
+
+<p>Thousands of proud family members, friends, faculty and staff cheered as the 2,319 undergraduates and 538 graduate students received their degrees.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/more-than-2500-graduates-celebrate-uh-manoa-spring-commencement/">More than 2,500 graduates celebrate <abbr>UH</abbr> Mānoa spring commencement</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/more-than-2500-graduates-celebrate-uh-manoa-spring-commencement/>
+
+---
+
+## DPS launches probe into death of Shayne Villanueva
+
+date: 2025-05-20, updated: 2025-05-20, from: Marianas Variety
+
+THE Department of Public Safety has launched an investigation into the death of businessman Shayne B. Villanueva, according to Assistant Chief of Police Simon Manacop on Tuesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dps-launches-probe-into-death-of-shayne-villanueva/article_4dd0e38f-35e7-4242-b5f5-d8270c3de3e7.html>
+
+---
+
+## International experts convene to advise Red Hill Registry
+
+date: 2025-05-20, from: University of Hawaiʻi News
+
+<p>International experts gathered to guide the Red Hill Registry’s efforts to track and address health impacts from the 2021 jet fuel spill.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/experts-convene-red-hill-registry/">International experts convene to advise Red Hill Registry</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/experts-convene-red-hill-registry/>
+
+---
+
+## Q&A: UH expert on World Turtle Day and the challenges turtles continue to face
+
+date: 2025-05-20, from: University of Hawaiʻi News
+
+<p>World Turtle Day is on May 23.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/expert-on-world-turtle-day/">Q&A: <abbr>UH</abbr> expert on World Turtle Day and the challenges turtles continue to face</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/expert-on-world-turtle-day/>
+
+---
+
+## President Hensel encourages UH Maui graduates to chart their own path forward
+
+date: 2025-05-20, from: University of Hawaiʻi News
+
+<p>Hensel delivered the keynote address at the <abbr">UH Maui College spring commencement, encouraging graduates to embrace change, find joy in their journey, and stay true to themselves.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/president-hensel-encourages-uh-maui-graduates/">President Hensel encourages <abbr>UH</abbr> Maui graduates to chart their own path forward</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/president-hensel-encourages-uh-maui-graduates/>
+
+---
+
+## ‘Increased Medicaid access does not equal quality care,’ Guam doctor says
+
+date: 2025-05-20, from: Pacific Island Times
+
+Bill 118-38, titled “Medicaid Access Enhancement Act,” seeks to make more health care providers accessible to Guam's Medicaid patients.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/increased-medicaid-access-does-not-equal-quality-care-guam-doctor-says>
+
+---
+
+## Federal grant termination uproots CTAHR’s ʻulu education program
+
+date: 2025-05-19, from: University of Hawaiʻi News
+
+<p>SPROUTS, a <abbr>CTAHR</abbr>-led program, taught students about sustainability and cultural identity through planting &#699;ulu trees at public schools.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/federal-grant-termination-uproots-education/">Federal grant termination uproots <abbr>CTAHR</abbr>’s ʻulu education program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/federal-grant-termination-uproots-education/>
+
+---
+
+## JABSOM research training programs end after decades of impact
+
+date: 2025-05-19, from: University of Hawaiʻi News
+
+<p>The terminated programs raise concerns about long-term impacts on <span aria-label="Hawaii">Hawai&#699;i</span>’s biomedical workforce.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/jabsom-research-training-programs-end/"><abbr>JABSOM</abbr> research training programs end after decades of impact</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/jabsom-research-training-programs-end/>
+
+---
+
+## Hawaiʻi CC–Pālamanui celebrates commencement in new outdoor space
+
+date: 2025-05-19, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> Community College&#8211;Pālamanui celebrated its 2025 commencement in a new outdoor space, honoring 60 graduates and their inspiring journeys.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/hawaii-cc-palamanui-commencement-2025/">Hawaiʻi <abbr>CC</abbr>–Pālamanui celebrates commencement in new outdoor space</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/hawaii-cc-palamanui-commencement-2025/>
+
+---
+
+## Lānaʻi Education Center celebrates first UH Maui College bachelor’s degree grad
+
+date: 2025-05-19, from: University of Hawaiʻi News
+
+<p>Through global detours, <span aria-label="Lanai">L&#257;na&#699;i</span> Education Center fuels a student’s triumph.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/lec-celebrates-first-uh-maui-college-bachelors-degree-grad/">Lānaʻi Education Center celebrates first <abbr>UH</abbr> Maui College bachelor’s degree grad</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/lec-celebrates-first-uh-maui-college-bachelors-degree-grad/>
+
+---
+
+## Marines and sailors from Okinawa start moving  into Camp Blaz
+
+date: 2025-05-19, from: Pacific Island Times
+
+U.S. Navy Capt. Blake Burket, commanding officer, officer in charge of construction, and Rear Adm. Brent DeVore, commander, Joint Region... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/marines-and-sailors-from-okinawa-start-moving-into-camp-blaz>
+
+---
+
+## Downtown Honolulu, Chinatown revitalization plans developed by UH students
+
+date: 2025-05-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa graduate students unveiled bold revitalization plans for Downtown Honolulu and Chinatown through a proposed Business Improvement District.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/19/honolulu-chinatown-bid-plans/">Downtown Honolulu, Chinatown revitalization plans developed by <abbr>UH</abbr> students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/19/honolulu-chinatown-bid-plans/>
+
+---
+
+## Tinian JROTC Stallion Battalion gathers for 4th Annual Military Dining-In
+
+date: 2025-05-19, updated: 2025-05-20, from: Marianas Variety
+
+TINIAN — On May 10, 2025, the Stallion Battalion held its 4th Annual Military Dining-In, a cherished and significant tradition that continues to bring cadets, JROTC leadership, and community members together for a formal yet festive evening. After much preparation and planning by our Stallion Battalion, they successfully managed to create a night filled with camaraderie, nostalgia, and unforgettable memories. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/tinian-jrotc-stallion-battalion-gathers-for-4th-annual-military-dining-in/article_682d724c-1b19-438c-a88c-b89467b015e9.html>
+
+---
+
+## Nominations now open for 2025 Bridge of Light Award
+
+date: 2025-05-19, updated: 2025-05-20, from: Marianas Variety
+
+THE Northern Marianas Coalition Against Domestic &amp; Sexual Violence is calling on the community to help recognize individuals who are making a difference in the lives of victims and survivors of domestic and sexual violence in the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nominations-now-open-for-2025-bridge-of-light-award/article_776c758f-e0ac-4359-b35d-78541c0f44ee.html>
+
+---
+
+## Nicole Kidman champions gender equality at star-studded Cannes party
+
+date: 2025-05-19, updated: 2025-05-20, from: Marianas Variety
+
+CANNES, France (Reuters) —     Australian actor Nicole Kidman vowed to keep pushing for gender equality in cinema at an exclusive party attended by celebrities like popstar Charli XCX and Irish actor Paul Mescal on the sidelines of the Cannes Film Festival on Sunday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/nicole-kidman-champions-gender-equality-at-star-studded-cannes-party/article_986e84ce-a000-4fc9-9dbb-6058079a2eca.html>
 
 ---
 

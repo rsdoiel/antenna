@@ -1,11 +1,72 @@
 ---
 title: health
-updated: 2025-05-19 14:08:30
+updated: 2025-05-20 06:08:13
 ---
 
 # health
 
-(date: 2025-05-19 14:08:30)
+(date: 2025-05-20 06:08:13)
+
+---
+
+## Helicobacter pylori infection and apolipoprotein B/apolipoprotein A1 ratio: a cross-sectional study
+
+date: 2025-05-20, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundHelicobacter pylori (HP) infection is one of the most common chronic infections worldwide, closely related to various gastrointestinal diseases and metabolic disorders. In recent years, the relationship between HP infection and abnormal glucose and lipid metabolism has received significant attention, although its specific mechanisms remain unclear. This study aims to explore the association between HP infection and lipid metabolism abnormalities, particularly the role of the apolipoprotein B/A1 (ApoB/ApoA1) ratio.MethodsThis cross-sectional study retrospectively analyzed data from 9,218 patients who underwent physical examinations at Shanghai Health and Medical Center in 2022. HP infection status was determined using the carbon-13 breath test, and clinical data, biochemical indicators, and lipid metabolism-related data were collected. Multiple regression analysis was employed to investigate the relationship between HP infection and the ApoB/ApoA1 ratio.ResultsPatients in the HP-positive group were older and had a higher proportion of males. Their body mass index (BMI), blood pressure, γ-glutamyl transpeptidase (γ-GT), total cholesterol (TC), fasting blood glucose (FBG), Creatinine and White blood Cell were significantly higher than those in the HP-negative group. The HP-positive group exhibited a higher prevalence of underlying diseases (e.g., hypertension, diabetes, coronary heart disease) and significant abnormalities in glucose and lipid metabolism, uric acid, high-sensitivity C-reactive protein (hs-CRP), and other indicators. The ApoB/ApoA1 ratio was significantly elevated in the HP-positive group and was not influenced by gender. Multiple regression analysis revealed that the ApoB/ApoA1 ratio is an independent risk factor for HP infection.ConclusionHP infection is closely associated with abnormal lipid metabolism, and the ApoB/ApoA1 ratio is an independent risk factor for HP infection, demonstrating significant advantages over other lipid indicators. This large-scale study highlights a significant association between HP infection and an elevated ApoB/ApoA1 ratio. The findings suggest that HP may contribute to cardiovascular risk via dyslipidemia, with the ApoB/ApoA1 ratio serving as a potential biomarker. Further research should explore whether HP eradication could mitigate these metabolic disturbances. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1582843>
+
+---
+
+## IFIT2-induced transcriptomic changes in Mycobacterium tuberculosis infected macrophages
+
+date: 2025-05-20, from: Frontiers in Cellular and Infection Microbiology
+
+Interferon-induced protein with tetratricopeptide repeat 2 (IFIT2) is known for its antiviral activity and has recently been implicated in the defense against Mycobacterium tuberculosis (M. tb). This study employed global transcriptomics to investigate the downstream effects of IFIT2 induction in THP-1 macrophages infected with R179 M. tb, aiming to elucidate its role and downstream contributing factors that aid it in intracellular M. tb killing. Using a vector-based overexpression approach, IFIT2 expression was induced in THP-1 cells infected with R179 M. tb, followed by RNA extraction 12 hours post-infection and AmpliSeq-based targeted transcriptome sequencing. Bioinformatics analysis identified 282 differentially expressed genes (DEGs), of which 189 were upregulated and 90 were downregulated (FDR <0.05). Filtering for highly significant DEGs (|log2(fold change) | > 1.5) yielded 70 genes, predominantly upregulated, with functional enrichment in pathways such as defense response to viruses and cytokine-mediated signaling. Signaling pathway impact analysis highlighted pathway activation and inhibition of the tuberculosis (TB) pathway. RT-qPCR validation confirmed the upregulation of selected DEGs (ISG15, CMPK2, RSAD2, IFI44L, IFI44), corroborating the AmpliSeq data. This study provides comprehensive insights into the transcriptomic profile induced by IFIT2 in TB, revealing critical downstream contributors and pathways that underpin IFIT2’s ability to combat M. tb infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1536446>
+
+---
+
+## The interplay between species and locations shapes vector fleas microbial communities in plague foci: pathogens rather than symbionts?
+
+date: 2025-05-20, from: Frontiers in Cellular and Infection Microbiology
+
+Besides causing allergies from their bites, fleas transmit the most notorious zoonotic pathogen, Yersinia pestis. They also harbor commensal bacteria in their guts. Here, the microbial communities of fleas were characterized using 16S rRNA Next-Generation Sequencing to understand microbial interactions and functions in areas with historical plague-outbreaks in Iran with the ultimate idea of ​​managing flea-borne diseases. Meriones persicus, Xenopsylla buxtoni and Bartonella spp. were identified as the dominant host, vector and bacterium, respectively. Six bacteria Bartonella, Sphingomonas, Wolbachia, Cardinium, Rickettsia and Ralstonia were identified as the most abundant genera in the microbiome of five flea species. More detailed surveys revealed substantial intrageneric variations (e.g. nine phylotypes for Bartonella) and the diverse nature (from biofilm-forming human pathogens to insect reproductive manipulators, and environmental microbes) for the bacteria studied. The fleas microbiome is largely affected by species and to a lesser extent by location, and circulates by both horizontal and vertical transmissions. The prevalence of Bartonella spp. infection in fleas highlights the potential to explore One Health approaches, particularly in addressing travel-related and zoonotic disease risks. Environmental drivers—such as climate change, habitat alteration, and host dynamics—shape flea microbiomes and influence disease risk, while concerns about antimicrobial resistance further complicate control efforts. Our findings advocate for coordinated strategies that combine public health education, ecological monitoring, and global collaboration to sustainably manage flea-borne diseases. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1568103>
+
+---
+
+## Development and validation of a diagnostic model for tuberculous meningitis based on laboratory data
+
+date: 2025-05-20, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveWe developed and validated a diagnostic scoring system for tuberculous meningitis (TBM) using 13 laboratory parameters, comparing tuberculous meningitis (TBM) and non-tuberculous meningitis (non-TBM).MethodsThis study enrolled patients diagnosed with meningitis. We retrospectively collected and analyzed demographic data (gender, age) and cerebrospinal fluid (CSF) parameters, including biochemical profiles and white blood cell counts with differential analysis. Variable selection was performed using least absolute shrinkage and selection operator (LASSO) regression. The dataset was randomly divided into a training set and a validation set. A diagnostic prediction model was developed using logistic regression in the training set, with nomograms constructed to visually demonstrate the diagnostic relationships. Decision curve analysis (DCA) was employed to assess the clinical utility of the model. Finally, the diagnostic performance of the model was evaluated in the validation set.ResultsA total of 254 patients with meningitis were included in this study. LASSO regression analysis identified four predictive variables: CSF glucose, CSF chloride, CSF protein and CSF mononuclear cells proportion. These parameters were incorporated into a logistic regression model, with weighted factors generating a diagnostic score. A score of ≥ 3 was suggestive of TBM with a sensitivity of 76.10% and a specificity of 84.10%, and the area under the curve (AUC) values was 0.86 (95% CI 0.81-0.91). Both calibration curves and DCA validated the robust performance of model.ConclusionWe developed and validated a clinically applicable diagnostic model for TBM using routinely available and low-cost CSF parameters. Our findings demonstrated that this scoring system provided reliable TBM diagnosis, particularly in countries and regions with limited microbial and radiological resources. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1579827>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2025-05-19, from: People's CDC
+
+This is the People’s CDC bi-weekly update for May 19th, 2025. This Weather Report from the People’s CDC shares the latest news on the COVID situation and ways public health and access to healthcare in the United States is at risk. See the “Take Action” section for what we can do to protect public health.
+ 
+
+<br> 
+
+<https://peoplescdc.org/2025/05/19/peoples-cdc-covid-19-weather-report-98/>
 
 ---
 

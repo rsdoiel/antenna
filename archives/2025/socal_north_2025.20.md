@@ -1,11 +1,122 @@
 ---
 title: socal north
-updated: 2025-05-19 14:08:26
+updated: 2025-05-20 06:08:05
 ---
 
 # socal north
 
-(date: 2025-05-19 14:08:26)
+(date: 2025-05-20 06:08:05)
+
+---
+
+## O.C. health officials allege state regulator threatened board member to help powerful private interests
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+CalOptima, Orange County’s Medi-Cal insurer, is looking into what led to the collapse of a lucrative deal to open a health center to serve elderly Vietnamese-speaking people in Westminster. 
+
+<br> 
+
+<https://laist.com/news/politics/o-c-health-officials-allege-state-regulator-threatened-board-member-to-help-powerful-private-interests>
+
+---
+
+## Voter Game Plan: Get ready to vote in the Newport-Mesa Unified school board special election
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+A last-minute petition set off a special election to fill the board's Newport Beach seat. Here's what to know about the candidates. 
+
+<br> 
+
+<https://laist.com/news/politics/voter-game-plan-guide-to-the-newport-mesa-unified-school-board-special-election>
+
+---
+
+## Trump-appointed prosecutor tries to undo jury’s excessive force verdict against LA sheriff’s deputy
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+After he was appointed by President Donald Trump last month, the U.S. attorney in Los Angeles, Bill Essayli, took the rare step of moving to strike the conviction won by his own office. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/trump-appointed-prosecutor-tries-to-undo-jurys-excessive-force-verdict-against-la-sheriffs-deputy>
+
+---
+
+## The domino effect of Trump's tariffs begins to hit Port of LA
+
+date: 2025-05-19, updated: 2025-05-20, from: The LAist
+
+Port of L.A. has seen a 20% cancellation of cargo ships coming in so far this month. 
+
+<br> 
+
+<https://laist.com/news/trump-tariffs-port-of-la-effects>
+
+---
+
+## ‘Relic of slavery’: California lawmakers are trying again to raise pay for incarcerated workers
+
+date: 2025-05-19, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Many people in California prisons and jails work for less than $1 an hour. Lawmakers are advancing two bills that could lead to wage increases for some of them.</p>
+<p>The post <a href="https://lbpost.com/news/politics/relic-of-slavery-california-lawmakers-are-trying-again-to-raise-pay-for-incarcerated-workers">‘Relic of slavery’: California lawmakers are trying again to raise pay for incarcerated workers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/relic-of-slavery-california-lawmakers-are-trying-again-to-raise-pay-for-incarcerated-workers>
+
+---
+
+## LA’s gonna be hot this week, but we’ve likely dodged a bigger heat wave
+
+date: 2025-05-19, updated: 2025-05-19, from: The LAist
+
+Models show mother nature may show some mercy. Highs will merely reach the 90s in most places, though some areas could top 100. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-weather-may-heat-forecast>
+
+---
+
+## Getty Villa reopening next month with some Palisades Fire damage
+
+date: 2025-05-19, updated: 2025-05-19, from: The LAist
+
+The museum has been closed for more than four months. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/getty-villa-reopening-next-month-palisades-fire-damage>
+
+---
+
+## How to get to Sesame Street? Kids can now head to Netflix as well as PBS
+
+date: 2025-05-19, updated: 2025-05-19, from: The LAist
+
+The children's series has found a new streaming home — Netflix, PBS stations and PBS KIDS will air new episodes on the same day. And Netflix will also run 90 hours from the Sesame Street library. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/how-to-get-to-sesame-street-kids-can-now-head-to-netflix-as-well-as-pbs>
+
+---
+
+## California lets students wear tribal regalia at graduations. Why it’s still controversial
+
+date: 2025-05-19, updated: 2025-05-19, from: The LAist
+
+California law requires schools to let students wear tribal graduation regalia. But many school districts made the process difficult. 
+
+<br> 
+
+<https://laist.com/news/education/california-lets-students-wear-tribal-regalia-at-graduations-controversy>
 
 ---
 
@@ -37,7 +148,7 @@ Fossils of the underwater predator shed new light on biodiversity from the Cambr
 
 date: 2025-05-19, from: Longbeach Post
 
-<figure><img width="1024" height="669" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-300x196.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-768x502.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-165x108.jpeg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1536x1003.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1200x784.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1568x1024.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-400x261.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872.jpeg 1644w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="669" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1024x669.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-300x196.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-768x502.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-165x108.jpeg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1536x1003.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1200x784.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-1568x1024.jpeg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872-400x261.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104923/akil-fbi-and-andy-psjpeg-111813-2p5caaop-943580-hTTNQhAG-e1747677372872.jpeg 1644w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>At a press conference, Akil Davis, FBI assistant director in charge of the Los Angeles field office, said the bombing was “an intentional act of terrorism.”</p>
 <p>The post <a href="https://lbpost.com/news/crime/palm-springs-bombings-efilism-fringe-anti-life-views">Authorities probe Palm Springs bombing’s links to fringe ‘anti-life’ views</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

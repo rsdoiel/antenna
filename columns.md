@@ -1,11 +1,246 @@
 ---
 title: columns
-updated: 2025-05-19 14:08:27
+updated: 2025-05-20 06:08:08
 ---
 
 # columns
 
-(date: 2025-05-19 14:08:27)
+(date: 2025-05-20 06:08:08)
+
+---
+
+## Nothing makes me want to hire someone less than them showing an open to work badge
+
+date: 2025-05-20, from: Chris Heilmann's blog
+
+I just came across a post on X that stated &#8220;nothing makes me want to hire someone less than this&#8221;, with a picture of the &#8220;open to work&#8221; badge LinkedIn offers job seekers. This being X, I thought I answer using appropriate voice: This, albeit succinct, is not very enlightening, so let me elaborate&#8230; Like [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/05/20/nothing-makes-me-want-to-hire-someone-less-than-them-showing-an-open-to-work-badge/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-20, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/17/dewey.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been looking up all kinds of things now that my new Daytona search engine has access to my blogging going back to 1994. I just did a <a href="https://daytona.scripting.com/search?q=mullenweg">search for Mullenweg</a>, and came up with this <a href="https://ma.tt/2006/04/feed-validator/">blog post</a> by Matt in 2006 about the Feed Validator. The clarity is remarkable, and he's of course right. The people running the validator were actually promoting Atom over RSS, and were trying to tilt the table towards Atom. The goal was <a href="https://daytona.scripting.com/search?q=interop">interop</a>, not to give Google or IBM control of the syndication format of the open web. When you keep changing your mind about what to flag and what to pass you end up with a standard that's as murky as the tariff policy of the US in 2025. I think you have to assume that was the goal. They didn't like that RSS didn't fall apart when Atom came out. If there's no benefit in changing, people don't. 
+
+<br> 
+
+<http://scripting.com/2025/05/20.html#a113617>
+
+---
+
+## DoorDash Hack
+
+date: 2025-05-20, updated: 2025-05-20, from: Bruce Schneier blog
+
+<p>A DoorDash driver <a href="https://www.theverge.com/news/669140/doordash-driver-convicted-delivery-scam">stole</a> over $2.5 million over several months:</p>
+<blockquote><p>The driver, Sayee Chaitainya Reddy Devagiri, placed expensive orders from a fraudulent customer account in the DoorDash app. Then, using DoorDash employee credentials, he manually assigned the orders to driver accounts he and the others involved had created. Devagiri would then mark the undelivered orders as complete and prompt DoorDash&#8217;s system to pay the driver accounts. Then he&#8217;d switch those same orders back to &#8220;in process&#8221; and do it all over again. Doing this &#8220;took less than five minutes, and was repeated hundreds of times for many of the orders,&#8221; writes the US Attorney&#8217;s Office...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/doordash-hack.html>
+
+---
+
+## May 19, 2025
+
+date: 2025-05-20, from: Heather Cox Richardson blog
+
+The House Rules Committee will take up the Republicans&#8217; omnibus bill this week. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-19-2025>
+
+---
+
+## 2025-05-18 Krka national park, Vodice
+
+date: 2025-05-20, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-18-krka-national-park-vodice">2025-05-18 Krka national park, Vodice</h1>
+
+<p>I’m falling behind with posting pictures. 😬</p>
+
+<p><img loading="lazy" src="2025-05-18-krka-1.jpg" alt="2025-05-18-krka-1.jpg" />
+<img loading="lazy" src="2025-05-18-krka-2.jpg" alt="2025-05-18-krka-2.jpg" />
+<img loading="lazy" src="2025-05-18-krka-3.jpg" alt="2025-05-18-krka-3.jpg" />
+<img loading="lazy" src="2025-05-18-krka-4.jpg" alt="2025-05-18-krka-4.jpg" />
+<img loading="lazy" src="2025-05-18-krka-5.jpg" alt="2025-05-18-krka-5.jpg" />
+<img loading="lazy" src="2025-05-18-krka-6.jpg" alt="2025-05-18-krka-6.jpg" />
+<img loading="lazy" src="2025-05-18-krka-7.jpg" alt="2025-05-18-krka-7.jpg" />
+<img loading="lazy" src="2025-05-18-krka-8.jpg" alt="2025-05-18-krka-8.jpg" /></p>
+
+<p><img loading="lazy" src="2025-05-18-krka-9.jpg" alt="2025-05-18-krka-9.jpg" />
+<img loading="lazy" src="2025-05-18-krka-10.jpg" alt="2025-05-18-krka-10.jpg" /></p>
+
+<p><img loading="lazy" src="2025-05-18-krka-11.jpg" alt="2025-05-18-krka-11.jpg" />
+<img loading="lazy" src="2025-05-18-krka-12.jpg" alt="2025-05-18-krka-12.jpg" /></p>
+
+<p><img loading="lazy" src="2025-05-18-krka-13.jpg" alt="2025-05-18-krka-13.jpg" />
+<img loading="lazy" src="2025-05-18-krka-14.jpg" alt="2025-05-18-krka-14.jpg" /></p>
+
+<p><img loading="lazy" src="2025-05-18-krka-15.jpg" alt="2025-05-18-krka-15.jpg" />
+<img loading="lazy" src="2025-05-18-krka-16.jpg" alt="2025-05-18-krka-16.jpg" /></p>
+
+<p><img loading="lazy" src="2025-05-18-krka-17.jpg" alt="2025-05-18-krka-17.jpg" />
+<img loading="lazy" src="2025-05-18-krka-18.jpg" alt="2025-05-18-krka-18.jpg" /></p>
+
+<p><img loading="lazy" src="2025-05-18-krka-19.jpg" alt="2025-05-18-krka-19.jpg" />
+<img loading="lazy" src="2025-05-18-krka-20.jpg" alt="2025-05-18-krka-20.jpg" /></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-18-krka>
+
+---
+
+## Stop asking about a Biden "cover-up"
+
+date: 2025-05-20, from: Robert Reich's blog
+
+It's an irrelevant, contemptible distraction from what's threatening America 
+
+<br> 
+
+<https://robertreich.substack.com/p/stop-asking-about-a-biden-cover-up>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-20, from: Dave Winer's Scripting News)
+
+How to understand Trump talking about tariffs. Remember how he talked about Covid. Same thing. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a003527>
+
+---
+
+## MCP is the coming of Web 2.0 2.0
+
+date: 2025-05-20, updated: 2025-05-20, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/05/20/mcp-web20-20/>
+
+---
+
+## [Sponsor] Drata
+
+date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://drata.com/daring>
+
+---
+
+## The First Rule of Legal Fight Club Is ‘Don’t Piss Off the Judge’; the Second Rule of Legal Fight Club Is ‘Don’t Piss Off the Judge’
+
+date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/05/19/apple-fortnite-us-app-store-dispute/>
+
+---
+
+## John Siracusa: ‘Apple Turnover’
+
+date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://hypercritical.co/2025/05/09/apple-turnover>
+
+---
+
+## One Big Bad Bill
+
+date: 2025-05-19, from: Dan Rather's Steady
+
+Johnson is trying to sneak the shocking details past us 
+
+<br> 
+
+<https://steady.substack.com/p/one-big-bad-bill>
+
+---
+
+## Chad the Bird on ‘Star Wars’ Typography
+
+date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.instagram.com/reel/DJZ7uYbvN_O/?igsh=aWZhaGZham1zNWlp>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
+
+When I announced Chris Lydon's podcast in <a href="http://scripting.com/davenet/2003/07/31/chrisLydonsWeblogForTheEar.html">2003</a>, I called it a <a href="https://daytona.scripting.com/search?q=%22weblog%20for%20the%20ears%22">weblog for the ears</a>. We didn't have the name podcasting yet. 
+
+<br> 
+
+<http://scripting.com/2025/05/19.html#a222356>
+
+---
+
+##  Fairy Pools is an excerpt from Patricia Lockwood&#8217;s upcoming novel, Will There... 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046888-fairy-pools-is-an-excerpt>
+
+---
+
+## Andrew Hickey
+
+date: 2025-05-19, from: Dave Winer's Scripting News
+
+<p><a href="https://bsky.app/profile/did:plc:2tjsq6a4vn6pww2iva5qj23v">Andrew Hickey</a> whose <a href="https://500songs.com/podcast/">podcast</a> I support, also appears to be strongly against people using ChatGPT. </p>
+<p>I am a programmer, so you might think I'd see it the same way because what I do is similar to what musicians and prose writers do in that I create "intellectual property" which can be easily copied.</p>
+<p>But we have a different culture in software, we tend to by default share what we do and let other people use it. They're supposed to credit us, but people are selfish and greedy and they will tend to take whatever isn't bolted down, and it sucks, but you accept it.</p>
+<p>What's funny is Hickey appears to have no clue how much he's benefited from this ethos. His success probably would not have been possible without some people thinking it's more important to create the medium he could use any way he saw fit, than to own one that would probably have kept him out.</p>
+<p>Creating is not as linear as he appears to think, which so ironic because that's basically what his freaking podcast is about. He loves to say "no one did anything first" (paraphrasing) and that's basically the <a href="http://scripting.com/stories/2011/09/09/onlyStealFromTheBest.html">same idea</a>.</p>
+<p>And I don't doubt that the next big media invention, the next <a href="https://daytona.scripting.com/search?q=podcasting">podcasting</a> perhaps, will benefit enormously from having ChatGPT available for the people developing it.</p>
+<p>PS: This appeared earlier as a <a href="https://bsky.app/profile/scripting.com/post/3lpjn22v22s2k">post</a> on Bluesky. And I wrote every freaking word, as I always do unless disclaimed.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/19/220650.html?title=andrewHickey>
+
+---
+
+##  NYC Restaurant Interior or Black & White Drawing? 
+
+date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/nyc-restaurant-interior-or-black-white-drawing>
 
 ---
 
@@ -187,7 +422,7 @@ And with <a href="https://github.com/scripting/Scripting-News/tree/master/blog/m
 
 **@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
 
-What it means to be distributed. Mastodon can't go down, neither can RSS. But Bluesky, Twitter, Facebook can. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">What it means to be distributed. Mastodon and RSS can't go down. But Bluesky, Twitter, Facebook can. 
 
 <br> 
 
@@ -229,7 +464,7 @@ Having the 90s and 00s in the index means I can look up old friends like <a href
 
 **@Dave Winer's Scripting News** (date: 2025-05-19, from: Dave Winer's Scripting News)
 
-I've been working on the search function for this blog, and now we have all the DaveNet pieces between 1994 and 2004 in the database. So here's a search for <a href="https://daytona.scripting.com/search?q=%22menu%20sharing%22">menu sharing</a> which was a technology we made on the Mac that allowed people to write menus of scripts in Frontier that appear inside other apps. Netscape supported it as did MSIE, Quark, Eudora and many others. It was kind of magical, esp when the apps themselves were scriptable (many of them were in the 90s). Next up, I'm going to import the home page of Scripting News from 1997 to 2010. It was mostly a linkblog then. 
+I've been working on the <a href="https://daytona.scripting.com/search?q=daytona">search function</a> for this blog, and now we have all the <a href="https://daytona.scripting.com/search?q=davenet">DaveNet</a> pieces between 1994 and 2004 in the database. <a href="https://daytona.scripting.com/search?q=autoweb">Autoweb</a> was my first static site generator. Here's a search for <a href="https://daytona.scripting.com/search?q=%22menu%20sharing%22">menu sharing</a> which was a technology we made on the Mac that allowed people to write menus of scripts in Frontier that appear inside other apps. Netscape supported it as did MSIE, Quark, Eudora and many others. It was kind of magical, esp when the apps themselves were scriptable (many of them were in the 90s). Next up, I'm going to import the home page of Scripting News from 1997 to 2010. It was mostly a linkblog then. 
 
 <br> 
 
