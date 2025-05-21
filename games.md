@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-05-20 14:07:30
+updated: 2025-05-21 06:08:03
 ---
 
 # games
 
-(date: 2025-05-20 14:07:30)
+(date: 2025-05-21 06:08:03)
+
+---
+
+## Cool Sword Day
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Happy Cool Sword Day to all who celebrate. What, you forgot? We get it. It’s easy to forget Cool Sword Day, the No. 1 holiday dedicated to cool swords in all walks of media, because it arrives in the lead-up to the “more legitimate” national holiday of Memorial Day. But that doesn’t mean it deserves [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24158464/cool-sword-day-2024>
+
+---
+
+## Don’t be surprised Guillermo del Toro says his Frankenstein won’t be a horror movie
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Guillermo del Toro recently spoke at the Cannes Film Festival, sharing some details about his upcoming film Frankenstein, set to release on Netflix later this year. As reported by Variety, he said he’s been asked whether his movie will have “really scary scenes.” That prompted the Academy Award-winning director to ponder how people would receive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/600323/guillermo-del-toro-netflix-frankenstein-adaptation-preview>
+
+---
+
+## All your daily thoughts about the Roman Empire have led to this
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+When the How Often Do You Think About the Roman Empire? meme went viral in 2023, it may have felt like a passing joke — until it became clear that people really do think about it all the time. Ubisoft Mainz has capitalized on that obsession with its next historical city builder, Anno 117: Pax Romana, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/600313/anno-117-pax-romana-gameplay-roman-empire-city-builder>
+
+---
+
+## The length of Sephiroth’s sword in FF7 actually changes, says Tetsuya Nomura
+
+date: 2025-05-20, updated: 2025-05-20, from: Polygon Website
+
+Sephiroth ranks very high on the “cool” scale, and a huge reason for that is his ōdachi, the extra-long katana he wields, called the Masamune. He’s not the first Final Fantasy character to wield a sword that has this particular name, but he’s probably the most notable, not least because of a very infamous murder [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/final-fantasy/600272/sephiroth-sword-length-how-long-tetsuya-nomura-ff7>
 
 ---
 

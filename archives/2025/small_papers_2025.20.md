@@ -1,21 +1,21 @@
 ---
 title: small papers
-updated: 2025-05-20 14:07:34
+updated: 2025-05-21 06:08:07
 ---
 
 # small papers
 
-(date: 2025-05-20 14:07:34)
+(date: 2025-05-21 06:08:07)
 
 ---
 
-## Large fire, propane tank explosion char Cambodia Town home
+## Man arrested on suspicion of lighting large fire that  charred Cambodia Town home
 
 date: 2025-05-20, from: Long Beach Post
 
 <figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-300x209.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-768x536.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-155x108.jpeg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1200x837.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-400x279.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ.jpeg 1206w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The one-story house was engulfed in flames, and as the fire spread, a propane tank on the property blew up, according to the Long Beach Fire Department.</p>
-<p>The post <a href="https://lbpost.com/news/junipero-fire-cambodia-town-long-beach">Large fire, propane tank explosion char Cambodia Town home</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>The post <a href="https://lbpost.com/news/junipero-fire-cambodia-town-long-beach">Man arrested on suspicion of lighting large fire that  charred Cambodia Town home</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

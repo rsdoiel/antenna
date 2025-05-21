@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2025-05-20 14:07:34
+updated: 2025-05-21 06:08:06
 ---
 
 # food
 
-(date: 2025-05-20 14:07:34)
+(date: 2025-05-21 06:08:06)
+
+---
+
+## Coffee Design: The Everyman Tasting Set From Corvus Coffee Roasters
+
+date: 2025-05-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Everyman tasting set from Corvus Coffee Roasters in Denver, Colorado. 
+
+<br> 
+
+<https://sprudge.com/coffee-design-the-everyman-tasting-set-from-corvus-coffee-roasters-335280.html>
+
+---
+
+## Five Things We Learned at the 2025 London Coffee Festival
+
+date: 2025-05-21, from: The Fresh Cup
+
+<p>This year’s London Coffee Festival revealed the trends moving forward the coffee industry: bold flavors, creative drinks, plant-based milks, wellness brews, and matcha’s growing dominance.</p>
+<p>The post <a href="https://freshcup.com/five-things-we-learned-at-the-2025-london-coffee-festival/">Five Things We Learned at the 2025 London Coffee Festival</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/five-things-we-learned-at-the-2025-london-coffee-festival/>
+
+---
+
+## TechnoServe Report Proves Regenerative Agriculture Works, Urges Industry to Invest
+
+date: 2025-05-21, from: The Fresh Cup
+
+<p>Investing in regenerative agriculture could boost smallholder farmer income and coffee exports while reducing carbon emissions, according to a new report released by the nonprofit organization TechnoServe.</p>
+<p>The post <a href="https://freshcup.com/technoserve-report-proves-regenerative-agriculture-works-urges-industry-to-invest/">TechnoServe Report Proves Regenerative Agriculture Works, Urges Industry to Invest</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/technoserve-report-proves-regenerative-agriculture-works-urges-industry-to-invest/>
+
+---
+
+## Homemade Honey Beer Mustard
+
+date: 2025-05-21, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/beer-honey-mustard/" title="Homemade Honey Beer Mustard" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A jar of spicy Homemade Honey Beer Mustard with a serving spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Homemade Honey Beer Mustard is sweet and tangy with whole mustard seeds, honey, brown sugar, and beer, perfect for sandwiches, pretzels, and more.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/beer-honey-mustard/">Homemade Honey Beer Mustard</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/beer-honey-mustard/>
+
+---
+
+## This Popular Fast-Food Chain Just Quietly Added Fried Pickles to Its Menu
+
+date: 2025-05-21, from: Taste of Home
+
+<p>I feel like people should've been talking about this more.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/shake-shack-fried-pickles-review/">This Popular Fast-Food Chain Just Quietly Added Fried Pickles to Its Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/shake-shack-fried-pickles-review/>
+
+---
+
+## Elise Jesse’s Taco Bouquet
+
+date: 2025-05-20, from: Taste of Home
+
+I love taco night, but sometimes I just need a break from the dishes. Washing every little topping bowl used to hold me back from throwing taco night until I decided to create a Taco Bouquet. I started making this on vacation when I had minimal dishes to use, and I wanted to make sure my little kids kept the floor clean. This simple method saved me time, but didn’t sacrifice flavor. The unique cone shape keeps all the toppings from falling out, making it an easy meal you can walk around with at summer parties, too. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-taco-bouquet/>
+
+---
+
+## Lucy Wang’s Mini Pizza Pigs in a Blanket
+
+date: 2025-05-20, from: Taste of Home
+
+To pineapple or not to pineapple? That’s the question. For as long as I can remember, people have argued about this—you either like pineapple in your food or you don’t. But don’t knock it till you try this recipe. It might just convert the non-believers! Or maybe it’ll confirm what you already know. Who knows! Just give it a try. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-mini-pizza-pigs-in-a-blanket/>
+
+---
+
+## We Tried a Stanley Flask and It’s a Seriously Underrated Accessory
+
+date: 2025-05-20, from: Taste of Home
+
+<p>Whether we're taking a trip or taking it tailgating, the Stanley Flask is our must-have happy hour accessory.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-flask/">We Tried a Stanley Flask and It&#8217;s a Seriously Underrated Accessory</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-flask/>
+
+---
+
+## Ooni Koda 2 Pro Review: Our Expert’s Top Pizza Oven Option for Even Heat Distribution and Larger Pies
+
+date: 2025-05-20, from: Taste of Home
+
+<p>We put the Ooni Koda 2 Pro pizza oven to the test. Find out how it performed.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ooni-koda-2-pro-review/">Ooni Koda 2 Pro Review: Our Expert&#8217;s Top Pizza Oven Option for Even Heat Distribution and Larger Pies</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ooni-koda-2-pro-review/>
 
 ---
 

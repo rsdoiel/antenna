@@ -1,11 +1,152 @@
 ---
 title: snapshots
-updated: 2025-05-20 14:07:35
+updated: 2025-05-21 06:08:08
 ---
 
 # snapshots
 
-(date: 2025-05-20 14:07:35)
+(date: 2025-05-21 06:08:08)
+
+---
+
+## Podcast: AI Slop Summer
+
+date: 2025-05-21, from: 404 Media Group
+
+How the Chicago Sun-Times printed an AI-generated summer guide; how schools were not prepared for ChatGPT; and those funny little guys from Star Wars. 
+
+<br> 
+
+<https://www.404media.co/podcast-ai-slop-summer/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-21, from: Dave Winer's linkblog)
+
+Google’s chief emissary to the news business is stepping down — and looking back. 
+
+<br> 
+
+<https://www.niemanlab.org/2025/05/googles-chief-emissary-to-the-news-business-is-stepping-down-and-looking-back/>
+
+---
+
+## AI, Authorship, and the Public Interest – Project Update and Call for Grant Proposals
+
+date: 2025-05-21, from: Authors Union blogs
+
+Authors Alliance is pleased to announce the availability of research grants of up to $20,000 to support research projects at the intersection of artificial intelligence, copyright law, and the public interest.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/21/knight-foundation-project-update-and-call-for-research-grant-proposals/>
+
+---
+
+## A Liz Truss Moment for America?
+
+date: 2025-05-21, from: Paul Krugman
+
+Financial indicators are flashing yellow 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-liz-truss-moment-for-america>
+
+---
+
+## The power of ideas
+
+date: 2025-05-21, from: Enlightenment Economics
+
+Some years ago I read Masters of the Universe by Daniel Stedman-Jones, a history of the Mont Pelerin Society with a focus on how it came to have such a profound influence on policy, first in the UK and US &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/05/the-power-of-ideas/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/05/the-power-of-ideas/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-21, from: Dave Winer's linkblog)
+
+The Trump Justice department going after Cuomo is sure to get him elected. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/20/us/politics/andrew-cuomo-investigation-doj.html?unlocked_article_code=1.I08.5xUP.Gfp9l3mLaaBV&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-21, from: Dave Winer's linkblog)
+
+We need to study AI with science, not emotions — like this… 
+
+<br> 
+
+<https://bsky.app/profile/jeffabbott.bsky.social/post/3lpncxvqkz226>
+
+---
+
+## We did the math on AI’s energy footprint. Here’s the story you haven’t heard.
+
+date: 2025-05-20, updated: 2025-05-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/">We did the math on AI’s energy footprint. Here’s the story you haven’t heard.</a></strong></p>
+James O'Donnell and Casey Crownhart try to pull together a detailed account of AI energy usage for MIT Technology Review.</p>
+<p>They quickly run into the same roadblock faced by everyone else who's tried to investigate this: the AI companies themselves remain <em>infuriatingly</em> opaque about their energy usage, making it impossible to produce credible, definitive numbers on any of this.</p>
+<p>Something I find frustrating about conversations about AI energy usage is the way anything that could remotely be categorized as "AI" (a vague term at the best of the times) inevitably gets bundled together. Here's a good example from early in this piece:</p>
+<blockquote>
+<p>In 2017, AI began to change everything. Data centers started getting built with energy-intensive hardware designed for AI, which led them to double their electricity consumption by 2023.</p>
+</blockquote>
+<p>ChatGPT kicked off the generative AI boom in November 2022, so that six year period mostly represents growth in data centers in the pre-generative AI era.</p>
+<p>Thanks to the lack of transparency on energy usage by the popular closed models - OpenAI, Anthropic and Gemini all refused to share useful numbers with the reporters - they turned to the Llama models to get estimates of energy usage instead. The estimated prompts like this:</p>
+<ul>
+<li>Llama 3.1 8B - 114 joules per response - run a microwave for one-tenth of a second.</li>
+<li>Llama 3.1 405B - 6,706 joules per response - run the microwave for eight seconds. </li>
+<li>A 1024 x 1024 pixels image with Stable Diffusion 3 Medium - 2,282 joules per image which I'd estimate at about two and a half seconds.</li>
+</ul>
+<p>Video models use a <em>lot</em> more energy. Experiments with CogVideoX (presumably <a href="https://huggingface.co/THUDM/CogVideoX-5b">this one</a>) used "700 times the energy required to generate a high-quality image" for a 5 second video.</p>
+<blockquote>
+<p>AI companies have defended these numbers saying that generative video has a smaller footprint than the film shoots and travel that go into typical video production. That claim is hard to test and doesn’t account for the surge in video generation that might follow if AI videos become cheap to produce.</p>
+</blockquote>
+<p>I share their skepticism here. I don't think comparing a 5 second AI generated video to a full film production is a credible comparison here.</p>
+<p>This piece generally reinforced my mental model that the cost of (most) individual prompts by individuals is fractionally small, but that the overall costs still add up to something substantial.</p>
+<p>The lack of detailed information around this stuff is so disappointing - especially from companies like Google who have aggressive <a href="https://sustainability.google/">sustainability targets</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-energy-usage">ai-energy-usage</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/20/ai-energy-footprint/#atom-everything>
+
+---
+
+## Lilbits: A rack-ready Strix Point mini PC & some Google I/O announcements (Android XR, Real-time voice translations in Google Meet, and Android 16 QPR 1 Beta)
+
+date: 2025-05-20, from: Liliputing
+
+<p>It&#8217;s a busy week for tech news &#8211; Computex is taking place in Taiwan this week. Google&#8217;s annual Google I/O developer conference kicked off today. And Microsoft&#8217;s Build developer conference is also underway. That said, there hasn&#8217;t been a lot of mobile and mini PC news. But here are some interesting stories that I found around [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-a-rack-ready-strix-point-mini-pc-some-google-i-o-announcements-android-xr-real-time-voice-translations-in-google-meet-and-android-16-qpr-1-beta/">Lilbits: A rack-ready Strix Point mini PC &#038; some Google I/O announcements (Android XR, Real-time voice translations in Google Meet, and Android 16 QPR 1 Beta)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-a-rack-ready-strix-point-mini-pc-some-google-i-o-announcements-android-xr-real-time-voice-translations-in-google-meet-and-android-16-qpr-1-beta/>
+
+---
+
+## ECS debuts Liva Z8 Plus mini PC with AMD Strix Point at Computex
+
+date: 2025-05-20, from: Liliputing
+
+<p>The ECS Liva line of computers are small form-factor desktops that range in size from models that can fit in the palm of your hand to larger, slim system that look like they&#8217;d be right at home next to a cash register or attached to the back of a monitor. Ahead of this week&#8217;s Computex [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ecs-debuts-liva-z8-plus-mini-pc-with-amd-strix-point-at-computex/">ECS debuts Liva Z8 Plus mini PC with AMD Strix Point at Computex</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ecs-debuts-liva-z8-plus-mini-pc-with-amd-strix-point-at-computex/>
 
 ---
 
@@ -46,7 +187,7 @@ A bunch of new Gemini 2.5 announcements at Google I/O today.</p>
 <p><img src="https://static.simonwillison.net/static/2025/gemini-2.5-flash-preview-05-20-animated.svg" alt="The wheels and pedals are rotating and the pelican is bobbing up and down. This would be a fantastic animated pelican if the pelican didn't kind of suck!">
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/google-io">google-io</a></p> 
 
 <br> 
 

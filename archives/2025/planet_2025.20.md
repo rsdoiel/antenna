@@ -1,11 +1,572 @@
 ---
 title: planet
-updated: 2025-05-20 14:07:24
+updated: 2025-05-21 06:07:58
 ---
 
 # planet
 
-(date: 2025-05-20 14:07:24)
+(date: 2025-05-21 06:07:58)
+
+---
+
+## Court told Gerry Adams has reputation of 'war monger'
+
+date: 2025-05-21, from: RTÉ News
+
+A victim's rights campaigner has told the High Court that Gerry Adams has the reputation of a "war monger". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0521/1514128-gerry-adams-court/>
+
+---
+
+## Call for national strategy on integration of migrants
+
+date: 2025-05-21, from: RTÉ News
+
+The Immigrant Council of Ireland has said that it is struggling with a lack of national strategy when it comes to migrant integration. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0521/1514125-migrant-integration/>
+
+---
+
+## Cousin says she never saw Tina Satchwell be aggressive
+
+date: 2025-05-21, from: RTÉ News
+
+A cousin of Cork woman Tina Satchwell has told the Central Criminal Court that she never saw her be violent or aggressive to her husband, Richard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0521/1514126-richard-satchwell-court/>
+
+---
+
+## 5,956 same-sex marriages held between 2015 and 2024 - CSO
+
+date: 2025-05-21, from: RTÉ News
+
+Almost 6,000 same-sex marriages have been celebrated in Ireland since the first such marriages took place in November 2015 up to the end of last year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0521/1514115-same-sex-marriages-cso/>
+
+---
+
+## Situation in Gaza 'appalling and barbaric' - Taoiseach
+
+date: 2025-05-21, from: RTÉ News
+
+Taoiseach Micheál Martin has described the situation in Gaza as "absolutely appalling and barbaric". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514118-gaza-dail/>
+
+---
+
+## Chris Brown granted bail by UK judge and can tour
+
+date: 2025-05-21, from: RTÉ News
+
+R&B singer Chris Brown has been granted bail in the UK after he was charged over an alleged bottle attack at a London nightclub two years ago. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0521/1514116-chris-brown-freed-on-bail-by-uk-judge-and-can-tour/>
+
+---
+
+## Popes at the United Nations: Voices for Peace
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>As the UN marks the 60th anniversary of Pope Saint Paul VI’s visit, the 30th anniversary of Pope Saint John Paul II’s second visit, and the 10th anniversary of Pope Francis’ address to the UN General Assembly, Vatican News has prepared a short video highlighting the moral voice of all the Popes who have spoken before the international organization. 
+</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/popes-at-the-united-nations-voices-for-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/popes-at-the-united-nations-voices-for-peace.html>
+
+---
+
+## Calls for more political attention on human trafficking
+
+date: 2025-05-21, from: RTÉ News
+
+"Samantha" was told she was going to the UK to study international business management but when she arrived, she was brought to a house and forced into sex work. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514097-human-trafficking-ireland/>
+
+---
+
+## Family faces €150k legal bill after cases thrown out
+
+date: 2025-05-21, from: RTÉ News
+
+A Co Dublin family, already linked to 26 previous personal injury claims, now face a bill for legal costs of up to €150,000 after six separate new claims for damages totalling €360,000 against a motorist were thrown out by a judge. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514108-gaynor-family-court/>
+
+---
+
+## Union criticises Stormont over refusal to fund PSNI plan
+
+date: 2025-05-21, from: RTÉ News
+
+The union that represents rank and file police officers in Northern Ireland has accused the Stormont Executive of not giving a damn about policing after a refusal to fund a five-year recovery plan for the PSNI. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514080-psni-policing-plan/>
+
+---
+
+## Central Bank spent over €24m on Irish Nationwide probe
+
+date: 2025-05-21, from: RTÉ News
+
+The Central Bank spent more than €24m on its investigation and inquiry into regulatory breaches at the now defunct Irish Nationwide Building Society, which lasted 15 years from 2010 to 2025. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0521/1514100-irish-nationwide-inquiry-report/>
+
+---
+
+## 'Bubbling up': Teachers on how online content is shaping teens
+
+date: 2025-05-21, from: RTÉ News
+
+As part of a special programme examining how online influencers who promote a negative form of masculinity may be shaping Irish teenagers' views of the world, Prime Time spoke to several teachers across the country. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0521/1514075-bubbling-up-teachers-on-how-online-content-is-shaping-teens/>
+
+---
+
+## Ukrainian ex-politician shot outside elite Madrid school
+
+date: 2025-05-21, from: RTÉ News
+
+A former Ukrainian politician has been shot dead outside a school in a wealthy suburb of Madrid, Spain's Interior Ministry said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0521/1514092-andriy-portnov/>
+
+---
+
+## Call for whole-of-society move away from fast fashion
+
+date: 2025-05-21, from: RTÉ News
+
+A whole societal effort will be required to move away from fast fashion trends and the high consumption of textiles, a reuse and recycling charity has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514083-fast-fashion/>
+
+---
+
+## Annual house price growth slows to 7.5% in March - CSO
+
+date: 2025-05-21, from: RTÉ News
+
+New figures from the Central Statistics Office show that residential property prices rose by 7.5% in the year to March, down from the 8% rise recorded in the previous month. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0521/1514084-cso-residential-property-prices/>
+
+---
+
+## Pope Leo XIV to preside at Mass every Sunday in June
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>Pope Leo XIV is scheduled to preside at a papal Mass every Sunday in June, and he will hold a Consistory of Cardinals to vote on several Causes of Canonization.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-june-liturgical-calendar-mass.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-june-liturgical-calendar-mass.html>
+
+---
+
+## 'Our children are dying slowly' says father in Gaza
+
+date: 2025-05-21, from: RTÉ News
+
+Father of four Mahmoud al-Haw and other Palestinians crowd around a soup kitchen in war-ravaged Gaza, surging forward and frantically waving pots. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0521/1514076-gaza-aid/>
+
+---
+
+## From the Vatican Observatory Faith and Science pages (Younger Readers) — Gregor Mendel: The Friar Who Grew Peas
+
+date: 2025-05-21, from: Vatican Obervatory
+
+From the Faith &#038; Science Resource Center (Younger Readers): This colorful book about Mendel was produced in partnership with the Field Museum in Chicago. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-younger-readers-gregor-mendel-the-friar-who-grew-peas-2/>
+
+---
+
+## Butte Montmartre features 3 times in final Tour stage
+
+date: 2025-05-21, from: RTÉ News
+
+The final stage of this year's Tour de France promises to be a competitive affair as the traditional procession towards the Champs Elysees has been replaced with a demanding route. 
+
+<br> 
+
+<https://www.rte.ie/sport/cycling/2025/0521/1514074-butte-montmartre-features-3-times-in-final-tour-stage/>
+
+---
+
+## Pope Leo XIV recalls Pope Francis, one month after his death
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>Concluding his weekly General Audience, Pope Leo XIV remembers the late Pope Francis one month after his death. Cardinal Konrad Krajewski celebrates Mass in the chapel of the late Pope's residence at the Casa Santa Marta.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-remembers-late-pope-francis-one-month-after-passing.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-remembers-late-pope-francis-one-month-after-passing.html>
+
+---
+
+## Pope Leo XIV appeals for Gaza: 'Allow aid to enter, end the hostilities'
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>Pope Leo XIV renews his appeal for "dignified humanitarian aid" to enter Gaza, calling for a cessation of hostilities "whose price is paid by children, the elderly, and the sick."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-appeals-for-helping-gaza-at-general-audience.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-appeals-for-helping-gaza-at-general-audience.html>
+
+---
+
+## New Dublin GAA club provides support network to newcomers
+
+date: 2025-05-21, from: RTÉ News
+
+A new GAA club in Dublin has provided a vital "support network" to people who have made the city their home. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514053-columbus-gaa-club/>
+
+---
+
+## Pope Leo XIV’s first General Audience: Love does not calculate
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>Pope Leo XIV holds his first Wednesday General Audience and reflects on Jesus' parable of the sower, stressing that God “does not wait for us to become the best soil.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xivs-first-general-audience-love-does-not-calculate.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xivs-first-general-audience-love-does-not-calculate.html>
+
+---
+
+## Teen disability rights campaigner meets Taoiseach
+
+date: 2025-05-21, from: RTÉ News
+
+Fourteen-year-old disability rights campaigner Cara Darmody met Taoiseach Micheál Martin at Leinster House this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0521/1514058-taoiseach-disability-campaigner/>
+
+---
+
+## Dozens of trucks of humanitarian aid for Gaza still sitting at border entry
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7539742.1747824747!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='People in military-type uniform, men and women, stand on pavement some metres away from a truck that is loaded with bundles of material.' width='620' height='349' title='A truck loaded with humanitarian aid for the Gaza Strip bound for the Kerem Shalom crossing is shown on Wednesday as border police officers line up to prevent protesters from blocking the road in southern Israel.'/><p>Israel began allowing dozens of humanitarian trucks into Gaza on Tuesday, but the aid has not yet reached Palestinians in desperate need, according to aid groups.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-gaza-humanitarian-aid-un-1.7539737?cmp=rss>
+
+---
+
+## Child seriously injured in e-scooter incident in Co Cavan
+
+date: 2025-05-21, from: RTÉ News
+
+A child is in a serious condition following a road traffic incident involving an e-scooter in Ballyconnell, Co Cavan. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514049-cavan-rtc/>
+
+---
+
+## U.S. adviser reportedly pushed officials to rewrite intelligence so it would not be used against Trump
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7539728.1747804930!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-washington-house.jpg' alt='A man in a blue suit with curly black hair is pictured speaking' width='620' height='349' title='Washington 3rd District Republican candidate Joe Kent speaks during a debate at KATU studios on Monday, Oct. 7, 2024, in Portland, Ore. (AP Photo/Jenny Kane)'/><p>A top adviser to the U.S. director of national intelligence acknowledged in a March 24 email that the Venezuelan government may not have specifically directed the activities of a gang that the Trump administration has used to justify fast-tracking deportations of immigrants.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-tren-de-aragua-venezuela-1.7539727?cmp=rss>
+
+---
+
+## Putin visits Kursk as six killed in strikes on Ukraine
+
+date: 2025-05-21, from: RTÉ News
+
+Russian President Vladimir Putin has visited the western Kursk region for the first time since Russian forces ejected Ukrainian troops from the area last month. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0521/1514035-russia-ukraine-conflict/>
+
+---
+
+## Samaritans answered 50 calls per hour in 2024 - report
+
+date: 2025-05-21, from: RTÉ News
+
+Volunteers for Samaritans Ireland answered 50 calls every hour last year, a new report has shown, with the service being the only form of support for over half of callers. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514033-samaritans-ireland-research/>
+
+---
+
+## Trump selects $175b Golden Dome defence shield design
+
+date: 2025-05-21, from: RTÉ News
+
+US President Donald Trump has said he had selected a design for the $175 billion Golden Dome missile defence shield and named a Space Force general to head the ambitious programme aimed at blocking threats from China and Russia. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0521/1514028-us-golden-dome-defence-shield/>
+
+---
+
+## Fires drive tropical forest loss to record high
+
+date: 2025-05-21, from: RTÉ News
+
+Eighteen football pitches every minute of every hour of every day: that is the record extent of tropical rainforest destroyed last year due in large measure to fires fuelled by climate change, researchers reported. 
+
+<br> 
+
+<https://www.rte.ie/news/newslens/2025/0521/1514020-fires-tropical-rainforests/>
+
+---
+
+## Residents stranded in east Australia after flash floods
+
+date: 2025-05-21, from: RTÉ News
+
+Fast-moving floodwaters have risen in eastern Australia, inundating homes and leaving residents stranded on their roofs overnight, as authorities warned more rain is expected. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514023-australia-flash-floods/>
+
+---
+
+## Marks & Spencer says cyberattack to cost it £300m
+
+date: 2025-05-21, from: RTÉ News
+
+British retailer Marks & Spencer said today that a "highly sophisticated cyber" attack would cost it about £300m in operating profit, with disruption set to run into July. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0521/1514022-marks-spencer-says-cyberattack-to-cost-it-l300m/>
+
+---
+
+## Appeal for blood donations as stocks 'critically' low
+
+date: 2025-05-21, from: RTÉ News
+
+An additional 2,000 blood donations are needed over the next four weeks to maintain the national blood supply, according to the Irish Blood Transfusion Service. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0521/1514007-blood-donations-appeal/>
+
+---
+
+## No aid has reached Palestinians yet, charities say
+
+date: 2025-05-21, from: RTÉ News
+
+Humanitarian aid has not yet reached Palestinians in need, according to aid groups, two days after Israel began to allow dozens of trucks enter Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514018-gaza/>
+
+---
+
+## Texas man who set shop employee on fire executed
+
+date: 2025-05-21, from: RTÉ News
+
+A man who pleaded guilty to killing a supermarket worker by setting her on fire was put to death in Texas in the second of three executions to be carried out in the United States this week. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0521/1514017-us-execution/>
+
+---
+
+## Fears of explosive encounter as Trump meets Ramaphosa
+
+date: 2025-05-21, from: RTÉ News
+
+US President Donald Trump receives South African President Cyril Ramaphosa at the White House today, for what some observers think could be the most explosive encounter since that notorious meeting with Ukraine's leader Volodymyr Zelensky. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0521/1514013-trump-ramaphosa-meeting/>
+
+---
+
+## 'The Manosphere': Why some young men turn to negative influencers
+
+date: 2025-05-21, from: RTÉ News
+
+Experts Prime Time have spoken to are concerned that perceptions of masculinity held by significant numbers of young men are being shaped and distorted by narratives and communities online 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0521/1513895-the-manosphere-why-some-young-men-turn-to-negative-influencers/>
+
+---
+
+## 'Wikipedia' of the Middle Ages goes on display at Trinity
+
+date: 2025-05-21, from: RTÉ News
+
+One of the most important surviving medieval manuscripts written in Irish goes on public display after a two-year long project to conserve it. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1513930-book-leinster-trinity/>
+
+---
+
+## Sipekne'katik First Nation fishers say treaty elver fishery is 'a peaceful thing'
+
+date: 2025-05-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7512949.1744903380!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/elver-fishing-mi-kmaq.JPG' alt='A woman in a sweatshirt and fishing waders and holds a net in one hand.' width='620' height='349' title='Tabitha Morrison of Sipekne’katik fishes for elvers on the Hubbards River, in Hubbards, N.S. on Tuesday, April 15, 2025.'/><p>While the 2025 commercial elver season is underway in Nova Scotia and New Brunswick, Sipekne'katik, Millbrook First Nation and Membertou First Nation are three Mi'kmaw communities in Nova Scotia operating under their own management plans instead of accepting DFO's plan. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/sipeknekatik-elver-fishers-peaceful-1.7534852?cmp=rss>
+
+---
+
+## Iran says it is 'ready for talks' about renewing relations with Canada, but Ottawa must make 1st move
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7539733.1747817674!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/esmail-baghaei-iran.jpg' alt='A woman wearing a hijab holds a microphone to a man with grey hair wearing a dark suit as he speaks in front of a book case that display a photo of Iran&apos;s Supreme Leader.' width='620' height='349' title='CBC’s senior international correspondent Margaret Evans speaks with Esmail Baghaei, the spokesperson for Iran’s Foreign Minister, in Tehran. On the Iran-Canada diplomatic freeze, Baghaei says that since it was Canada that unilaterally severed the relationship, it’s up to Canada to decide on a course of action moving forward.'/><p>Recent efforts to restore talks between Washington and Tehran over a deal to limit Iran’s nuclear program in exchange for the lifting of sanctions has raised hopes among ordinary Iranians that other countries like Canada will also renew diplomatic relations as they long for an end to their country’s isolation and economic pain.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/iran-canada-diplomatic-relations-1.7539652?cmp=rss>
+
+---
+
+## US expects Russia offer soon as Zelensky sounds warning
+
+date: 2025-05-21, from: RTÉ News
+
+US Secretary of State Marco Rubio has said he expected Russia to present a Ukraine ceasefire outline within days that will show if it is serious, as Ukrainian President Volodymyr Zelensky accused Russia of buying time. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0521/1514012-ukraine-russia/>
+
+---
+
+## Canada seeks to send 'strong message' at G7 finance talks
+
+date: 2025-05-21, from: RTÉ News
+
+Canada sought to send a firm message with a Ukrainian minister's presence at the start of a G7 finance leaders gathering, where war in Ukraine and economic turmoil from US President Donald Trump's tariffs remain in sharp focus. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0521/1514011-g7-finance-talks/>
+
+---
+
+## Energy-related emissions at lowest level in 30 years
+
+date: 2025-05-20, from: RTÉ News
+
+Greenhouse gas emissions from Ireland's usage of energy are now at their lowest level for more than 30 years after falling for a third consecutive year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514002-energy-related-emissions/>
+
+---
+
+## Funding needed to avoid post office closures, says union
+
+date: 2025-05-20, from: RTÉ News
+
+The Irish Postmasters' Union has said the country's post office network urgently needs an investment of €15 million per year over five years to secure the future of the service. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1513958-post-office-funding/>
 
 ---
 
@@ -93,11 +654,23 @@ Legislation that will remove the need for UN approval when deploying more than 1
 
 ---
 
+## Magnus Carlsen vs. The World: the chess mega-showdown that ended in a draw
+
+date: 2025-05-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7539409.1747778244!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/eu-chess-carlsen.jpg' alt='A man moves a chess piece on a board. ' width='620' height='349' title='Norwegian Magnus Carlsen of SG Alpine Warriors plays against Poland&apos;s Jan-Krzysztof Duda of Chingari Gulf Titans during Global Chess League in Dubai United Arab Emirates, on July 1, 2023. '/><p>Norwegian chess legend Magnus Carlsen played against 143,000 players from all over the world in a 46-day online freestyle match that ended in a draw.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/magnus-carlsen-chess-world-1.7539367?cmp=rss>
+
+---
+
 ## Significant drop in alcohol, cigarette use by Irish teens
 
 date: 2025-05-20, from: RTÉ News
 
-Alcohol and cigarette use by Irish teenagers has significantly declined over the past 30 years, according to a new study published today. 
+Alcohol and cigarette use by Irish teenagers has significantly declined over the past 30 years, according to a new study. 
 
 <br> 
 
@@ -141,6 +714,18 @@ EU foreign ministers have agreed to lift economic sanctions on Syria, the bloc's
 
 ---
 
+## New Dublin event to ask the big questions about AI
+
+date: 2025-05-20, from: RTÉ News
+
+This Thursday, Let's make AI:OK for music and the creative sector takes place at the National Concert Hall in Dublin to discuss the impact of AI on the creative arts in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0520/1512930-new-dublin-event-aims-to-ask-the-big-questions-about-ai/>
+
+---
+
 ## Inquest unable to find how prisoner received head injury
 
 date: 2025-05-20, from: RTÉ News
@@ -150,6 +735,18 @@ An inquest into the death of a vulnerable prisoner has been unable to establish 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0520/1513947-christopher-doherty-inquest/>
+
+---
+
+## Chicago newspaper prints a summer reading list. The problem? The books don't exist
+
+date: 2025-05-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7539034.1747756479!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/books-indigo-20231026.jpg' alt='A display of fiction books and colourful book covers' width='620' height='349' title='Fiction titles stand on display at an  Indigo store in Toronto,  on Thursday Oct. 26, 2023. '/><p>The Chicago Sun-Times is being roasted online after it confirmed that a freelancer used AI to generate a summer reading list made up of real authors and fake books. The newspaper called it "a learning moment for all of journalism." Meanwhile, the paper's union said it was "deeply disturbed" by what it called "this slop syndication."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/chicago-sun-times-ai-book-list-1.7539016?cmp=rss>
 
 ---
 
@@ -193,12 +790,12 @@ The EU has said it is preparing to impose a €2 flat fee on the billions of low
 
 ---
 
-## Pope Leo prays at tomb of St Paul
+## Pope Leo XIV prays at tomb of St. Paul
 
 date: 2025-05-20, from: Vatican News
 
 
-                    <p>Pope Leo visits the tomb of St Paul, and prays: “May the Lord grant me the grace to respond faithfully to his call.”</p>
+                    <p>Pope Leo visits the Papal Basilica of St. Paul Outside the Walls, and prays: “May the Lord grant me the grace to respond faithfully to His call.”</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-st-paul-tomb-mission-romans-grace-faith.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -399,9 +996,9 @@ The UN Secretary-General on Tuesday urged world powers to uphold international m
 
 ## AI threatens one in four jobs – but transformation, not replacement, is the real risk
 
-date: 2025-05-20, from: United Nations, Economic Development
+date: 2025-05-20, from: United Nations, Top Stories
 
-Women and clerical workers face the highest risk of their roles being radically transformed, prompting calls for inclusive policy responses.&nbsp; 
+Women and clerical workers face the highest risk of their roles being radically transformed by Artificial Intelligence, prompting calls for inclusive policy responses.&nbsp; 
 
 <br> 
 
@@ -442,6 +1039,18 @@ date: 2025-05-20, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/player/play/9.6765544?cmp=rss>
+
+---
+
+## ‘Silence is complicity,’ warns activist who fled DPR Korea
+
+date: 2025-05-20, from: United Nations, Top Stories
+
+When human rights activist Eunju Kim was 11, her mother and older sister left, telling her they were going in search of food. For six days and six nights, Ms. Kim counted from one to 100 over and over again, desperate for their return. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163511>
 
 ---
 
@@ -490,6 +1099,18 @@ An independent media consultant has told the High Court in Dublin that he believ
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0520/1513883-adams-court/>
+
+---
+
+## Peppa Pig welcomes baby sister, name and pics revealed
+
+date: 2025-05-20, from: RTÉ News
+
+The name and first pictures of Peppa Pig's baby sister have been revealed as the family welcome a new member. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0520/1513874-peppa-pig-welcomes-baby-sister-name-and-pics-revealed/>
 
 ---
 
@@ -649,11 +1270,11 @@ Three days of intense activity in the investigation into the disappearance of Ke
 
 ---
 
-## 93 UN aid trucks entered Gaza today, says Israel
+## 93 UN aid trucks entered Gaza, says Israel
 
 date: 2025-05-20, from: RTÉ News
 
-Israel has said 93 UN aid trucks entered war-ravaged Gaza today, a day after the UN announced it had been cleared to send supplies for the first time since Israel imposed a total blockade on 2 March. 
+Israel has said 93 UN aid trucks entered war-ravaged Gaza, a day after the UN announced it had been cleared to send supplies for the first time since Israel imposed a total blockade on 2 March. 
 
 <br> 
 
@@ -809,11 +1430,11 @@ date: 2025-05-20, from: CBC, Indigenious News
 
 ---
 
-## EU countries adopt four sets of new Russia sanctions
+## EU and UK announce new sanctions against Russia
 
 date: 2025-05-20, from: RTÉ News
 
-The EU has adopted four sets of sanctions against Russia over the war in Ukraine, including a 17th package targeting Moscow's shadow fleet, and measures related to chemical weapons, human rights and hybrid threats, the European Commission has said. 
+The EU and Britain have announced new sanctions against Russia, which include a clampdown on its so-called "shadow fleet" of oil tankers as well as financial firms that have helped Moscow avoid the impact of other sanctions imposed over the war. 
 
 <br> 
 
@@ -1846,6 +2467,18 @@ date: 2025-05-18, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/joe-biden-diagnosed-prostate-cancer-1.7538358?cmp=rss>
+
+---
+
+## Why wasn't Joe Biden's 'aggressive' prostate cancer spotted sooner? Experts weigh in
+
+date: 2025-05-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/8fb61c97-1fb5-4536-a95f-059f12c02104,1747683439221/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Former U.S. president Joe Biden at a podium' width='620' height='349' title='U.S. President Joe Biden speaks during a reception for new democratic members of the United States Congress in the State Dining Room of the White House on January 5, 2025 in Washington, DC.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/joe-biden-prostate-cancer-diagnosis-1.7539444?cmp=rss>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-05-20 14:07:29
+updated: 2025-05-21 06:08:03
 ---
 
 # writing
 
-(date: 2025-05-20 14:07:29)
+(date: 2025-05-21 06:08:03)
+
+---
+
+## AI, Authorship, and the Public Interest – Project Update and Call for Grant Proposals
+
+date: 2025-05-21, from: Author's Union blog
+
+Authors Alliance is pleased to announce the availability of research grants of up to $20,000 to support research projects at the intersection of artificial intelligence, copyright law, and the public interest.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/21/knight-foundation-project-update-and-call-for-research-grant-proposals/>
 
 ---
 

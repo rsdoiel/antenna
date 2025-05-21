@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-20 14:07:27
+updated: 2025-05-21 06:08:01
 ---
 
 # ham radio
 
-(date: 2025-05-20 14:07:27)
+(date: 2025-05-21 06:08:01)
+
+---
+
+## From system design to SiP: What’s the design flow
+
+date: 2025-05-21, from: EDN Blog
+
+<img width="1230" height="724" src="https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?fit=1230%2C724" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=1230 1230w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=1024 1024w" sizes="(max-width: 1230px) 100vw, 1230px" /><p>The earlier the SiP-design experts engage with the system designers, the better the resulting design quality is likely to be.</p>
+<p>The post <a href="https://www.edn.com/from-system-design-to-sip-whats-the-design-flow/">From system design to SiP: What’s the design flow</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/from-system-design-to-sip-whats-the-design-flow/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-20 14:07:27
 
 date: 2025-05-20, from: EDN Blog
 
-<img width="1400" height="1817" src="https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?fit=1400%2C1817" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=231 231w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=789 789w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=1183 1183w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Another monsoon-summer year; another box full of lightning-zapped gear. This time, a QNAP network storage device goes under the knife.</p>
+<img width="1400" height="1817" src="https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?fit=1400%2C1817" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=231 231w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=789 789w, https://www.edn.com/wp-content/uploads/overview_insides_front-rotated-view.jpg?w=1183 1183w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>Another monsoon-summer year; another box full of lightning-zapped gear. This time, a QNAP network storage device goes under the knife.</p>
 <p>The post <a href="https://www.edn.com/analyzing-a-lightning-zapped-nas/">Analyzing a lightning-zapped NAS</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

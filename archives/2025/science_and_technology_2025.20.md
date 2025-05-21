@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2025-05-20 14:07:27
+updated: 2025-05-21 06:08:01
 ---
 
 # science and technology
 
-(date: 2025-05-20 14:07:27)
+(date: 2025-05-21 06:08:01)
+
+---
+
+## NASA was eyeing ISS crew cutbacks before Trump's budget landed
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Will the US President take credit for that one as well?</h4> <p>NASA was already considering reducing crew size on the International Space Station (ISS) before cuts to the agency&#39;s budget were proposed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/nasa_iss_crew_cuts/>
+
+---
+
+## Research reimagines LLMs as tireless tools of torture
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>No need for thumbscrews when your chatbot never lets up</h4> <p>Large language models (LLMs) are not just about assistance and hallucinations. The technology has a darker side.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/llm_torture_tools/>
+
+---
+
+## Greater Manchester says its NHS analytics stack is years ahead of Palantir wares
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Care board draws red lines over use of UK government-backed Federated Data Platform</h4> <p>A report for a Northern England health authority says its analytics platform is more capable than anything offered under a controversial central government deal with Palantir.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/greater_manchester_nhs_palantir/>
+
+---
+
+## Station Nation: Meet Megan Harvey, Utilization Flight Lead and Capsule Communicator
+
+date: 2025-05-21, from: NASA breaking news
+
+Megan Harvey is a utilization flight lead and capsule communicator, or capcom, in the Research Integration Office at NASA’s Johnson Space Center in Houston. She integrates science payload constraints related to vehicles’ launch and landing schedules. She is also working to coordinate logistics for the return of SpaceX vehicles to West Coast landing sites.&#160; Read [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-megan-harvey-utilization-flight-lead-and-capsule-communicator/>
+
+---
+
+## M&amp;S warns of £300M dent in profits from cyberattack
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Downtime stings retailer, with technical recovery costs coming at a later date</h4> <p>Marks &amp; Spencer says the disruption related to its ongoing cyberattack is likely to knock around £300 million ($402 million) off its operating profits for the next financial year (2025/26).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/ms_cyberattack_disruption/>
+
+---
+
+## UK 'extremely dependent' on US for space security
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>After 60 years+ cooperation on space and military ops, worrying &#39;rhetoric&#39; from Team Trump has Brits examining options</h4> <p>The current rhetoric coming from the US is &#34;alarming&#34; for the UK, which depends on a continuation of their long-standing co-operation around space and military tech for the future, the UK&#39;s second parliamentary chamber heard this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/uk_space_commitee/>
+
+---
+
+## Scattered Spider snared financial orgs before targeting shops in Britain, America
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Crew ain&#39;t done hopping sectors, Unit 42 threat hunter warns</h4> <p><strong>interview</strong>  Scattered Spider snared financial services organizations in its web before its recent spate of retail attacks in the UK and US, according to Palo Alto Networks&#39; Unit 42.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/scattered_spider_snared_financial_orgs/>
+
+---
+
+## AI can't replace devs until it understands office politics
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Being human and working on a team is the job, not writing code</h4> <p><strong>Column</strong>  Whenever I read the news these days, I see the same warning to developers: Watch out, AI is going to replace you.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/opinion_column_ai_cant_replace_developers/>
+
+---
+
+## Nvidia CEO Jensen Huang labels US GPU export bans ‘precisely wrong’ and ‘a failure’
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Argues the world needs China’s AI researchers working on his chips so the rest of us benefit</h4> <p><strong>Computex</strong>  Nvidia CEO Jensen Huang has said the USA’s ban on exports of his company’s most powerful accelerators to China is “precisely the wrong policy” and “a failure”.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/jensen_huang_h20_ban_criticism/>
+
+---
+
+## AMD puts Intel in rear view mirror with Threadripper Pro 9000 high-end desktop chips
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>RDNA 4 makes workstation debut with 32GB R9700</h4> <p><strong>Computex</strong>  AMD aims to extend its lead over Intel in the high-end desktop (HEDT) and workstation arenas with its 9000-series Threadripper workstation CPUs teased at Computex this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/amd_threadripper_radeon_workstation/>
+
+---
+
+## 'Ongoing' Ivanti hijack bug exploitation reaches clouds
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Nothing like insecure code in security suites</h4> <p>The &#34;ongoing exploitation&#34; of two Ivanti bugs has now extended beyond on-premises environments and hit customers&#39; cloud instances, according to security shop Wiz.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/ivanti_rce_attacks_ongoing/>
+
+---
+
+## Google crowns Jules to be its agent and spreads the AI love
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Choc Fac brings gen mods to Android, Chrome, pretty much everywhere else</h4> <p><strong>Google IO</strong>  Google technical folk laid out a menu of geeky delights on Tuesday at Google I/O, in the hope that software developers will pay to build upon the Chocolate Factory&#39;s platforms and services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/google_crowns_jules_to_be/>
+
+---
+
+## You are not needed
+
+date: 2025-05-20, from: OS News
+
+You want more &#8220;AI&#8221;? No? Well, too damn bad, here&#8217;s &#8220;AI&#8221; in your file manager. With AI actions in File Explorer, you can interact more deeply with your files by right-clicking to quickly take actions like editing images or summarizing documents. Like with Click to Do, AI actions in File Explorer allow you to stay in your flow while leveraging the power of AI to take advantage of editing tools in apps or Copilot functionality without having to open your file. AI actions in File Explorer are easily accessible – to try out AI actions in File Explorer, just right-click on a file and you will see a new AI actions entry on the content menu that allows you to choose from available options for your file. ↫ Amanda Langowski and Brandon LeBlanc at the Windows Blogs What, you don&#8217;t like it? There, &#8220;AI&#8221; that reads all your email and sifts through your Google Drive to barf up stunt, soulless replies. Gmail’s smart replies, which suggest potential replies to your emails, will be able to pull information from your Gmail inbox and from your Google Drive and better match your tone and style, all with help from Gemini, the company announced at I/O. ↫ Jay Peters at The Verge Ready to submit? No? Your browser now has &#8220;AI&#8221; integrated and will do your browsing for usyou. Starting tomorrow, Gemini in Chrome will begin rolling out on desktop to Google AI Pro and Google AI Ultra subscribers in the U.S. who use English as their Chrome language on Windows and macOS. This first version allows you to easily ask Gemini to clarify complex information on any webpage you&#8217;re reading or summarize information. In the future, Gemini will be able to work across multiple tabs and navigate websites on your behalf. ↫ Josh Woodward Mercy? You want mercy? You sure give up easily, but we&#8217;re not done yet. We destroyed internet search and now we&#8217;re replacing it with &#8220;AI&#8221;, and you will like it. Announced today at Google I/O, AI Mode is now available to all US users. The focused version of Google Search distills results into AI-generated summaries with links to certain topics. Unlike AI Overviews, which appear above traditional search results, AI Mode is a dedicated interface where you interact almost exclusively with AI. ↫ Ben Schoon at 9To5Google We&#8217;re going to assume control of your phone, too. The technology powering Gemini Live’s camera and screen sharing is called Project Astra. It’s available as an Android app for trusted testers, and Google today unveiled agentic capabilities for Project Astra, including how it can control your Android phone. ↫ Abner Li at 9To5Google And just to make sure our &#8220;AI&#8221; can control your phone, we&#8217;ll let it instruct developers how to make applications, too. That&#8217;s precisely the problem Stitch aims to solve – Stitch is a new experiment from Google Labs that allows you to turn simple prompt and image inputs into complex UI designs and frontend code in minutes. ↫ Vincent Nallatamby, Arnaud Benard, and Sam El-Husseini You are not needed. You will be replaced. Submit. 
+
+<br> 
+
+<https://www.osnews.com/story/142407/you-are-not-needed/>
 
 ---
 
@@ -18,6 +174,18 @@ Jwno is a highly customizable tiling window manager for Windows 10/11, built wit
 <br> 
 
 <https://www.osnews.com/story/142405/jwno-a-highly-customisable-tiling-wm-for-windows-built-with-janet/>
+
+---
+
+## Sols 4543-4545: Leaving the Ridge for the Ridges
+
+date: 2025-05-20, from: NASA breaking news
+
+Written by Susanne Schwenzer, Planetary Geologist at The Open University Earth planning date: Friday, May 16, 2025 As Curiosity progresses up Mount Sharp, it crosses different terrains, which the team has mapped from orbit. If you want to follow the path and see for yourself, you can have a look on the “Where is Curiosity?” […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4543-4545-leaving-the-ridge-for-the-ridges/>
 
 ---
 
@@ -431,9 +599,9 @@ date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
 
 ## Aussie rocket foiled by premature fairing pop
 
-date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
+date: 2025-05-19, updated: 2025-05-21, from: The Register (UK I.T. News)
 
-<h4>A fair dinkum disaster</h4> <p>Australia&#39;s first homegrown rocket launch has been delayed after the vehicle&#39;s fairing unexpectedly deployed on the launchpad.…</p> 
+<h4>A fair dinkum disaster</h4> <p><strong>Updated</strong>  Australia&#39;s first homegrown rocket launch has been delayed after the vehicle&#39;s fairing unexpectedly deployed on the launchpad.…</p> 
 
 <br> 
 
@@ -599,9 +767,9 @@ The numbers are notable – 34 years of testing space shuttle main engines at NA
 
 ## Latest patch leaves some Windows 10 machines stuck in recovery loops
 
-date: 2025-05-19, updated: 2025-05-19, from: The Register (UK I.T. News)
+date: 2025-05-19, updated: 2025-05-21, from: The Register (UK I.T. News)
 
-<h4>Veteran OS might be almost out of support, but there&#39;s still time for Microsoft to break it</h4> <p>As Microsoft&#39;s Build developer shindig begins, many users are once again facing a familiar problem: broken Windows.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Veteran OS might be almost out of support, but there&#39;s still time for Microsoft to break it</h4> <p><strong>Updated</strong>  As Microsoft&#39;s Build developer shindig begins, many users are once again facing a familiar problem: broken Windows.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

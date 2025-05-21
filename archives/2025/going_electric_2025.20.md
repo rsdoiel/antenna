@@ -1,11 +1,127 @@
 ---
 title: going electric
-updated: 2025-05-20 14:07:34
+updated: 2025-05-21 06:08:06
 ---
 
 # going electric
 
-(date: 2025-05-20 14:07:34)
+(date: 2025-05-21 06:08:06)
+
+---
+
+## Toyota Issues Stark Warning On Tariffs: 'Not Sustainable'
+
+date: 2025-05-21, from: Inside EVs News
+
+Toyota officials said the automaker is highly exposed to tariffs, which threaten to increase car prices for American consumers.  
+
+<br> 
+
+<https://insideevs.com/news/760222/toyota-warning-tariffs-rav4/>
+
+---
+
+## All the EVs you can buy with 0% interest financing in May 2025 [update]
+
+date: 2025-05-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/may-2025-0-interest.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2025/05/07/cheapest-evs-lease-may-under-300-month-updated/">Lease deals get all the hype</a>, but most people still want to own the car after they’re done making all those payments on it. If that sounds like you, and you’ve been waiting for the interest rates on auto loans to drop, you’re in luck: there are a bunch of great plug-in cars you can buy with 0% financing in May, 2025!</p>
+
+
+
+<p><strong>UPDATE</strong>: <a href="https://electrek.co/2025/05/13/all-the-evs-you-can-buy-with-0-interest-financing-in-may-2025/#:~:text=With%200%25%20interest%20for%20up%20to%2072%20months%20plus%20%243%2C000%20in%20bonus%20cash%20allowance">a new electric SUV makes the list with some additional bonus cash, too</a>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="0-financing,ev-deals" data-layer-viewtype="unknown" data-post-id="415473" href="https://electrek.co/2025/05/21/all-the-evs-you-can-buy-with-0-interest-financing-in-may-2025/#more-415473" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/21/all-the-evs-you-can-buy-with-0-interest-financing-in-may-2025/>
+
+---
+
+## Tesla Robotaxi Fleet Will Have '10 To 12 Cars' At First: Musk
+
+date: 2025-05-21, from: Inside EVs News
+
+Tesla’s CEO said that the current test fleet, which has safety drivers, has had “essentially no interventions.” 
+
+<br> 
+
+<https://insideevs.com/news/760242/tesla-robotaxi-launch-june-10-cars-musk/>
+
+---
+
+## The BYD Seagull Heads To Europe As The Dolphin Surf
+
+date: 2025-05-21, from: Inside EVs News
+
+China's best-selling EV gets some Europe-specific alterations, including bigger bumpers and a healthy boost in power and range.  
+
+<br> 
+
+<https://insideevs.com/news/760191/byd-dolpin-surf-seagull-europe/>
+
+---
+
+## Toyota says RAV4 is ‘100% electrified’ in 2026, but every one has a gas engine
+
+date: 2025-05-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/2026-Toyota-RAV4_Family_Studio_001-1500x990-1-e1747791633741.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Toyota USA has refreshed its RAV4 for 2026, and, in a significant step forward for efficiency, Toyota has axed the non-hybrid version of the vehicle. The RAV4 will now only be available in HEV and PHEV versions starting in the 2026 model year.</p>
+
+
+
+<p>However, in an act of greenwashing reminiscent of many things Toyota has done before, it’s confusingly calling its vehicles “100% electrified” – despite that every single RAV4 includes a gas engine.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="417018" href="https://electrek.co/2025/05/20/toyota-says-rav4-is-100-electrified-now-but-every-one-has-a-gas-engine/#more-417018" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/20/toyota-says-rav4-is-100-electrified-now-but-every-one-has-a-gas-engine/>
+
+---
+
+## The New Toyota RAV4 Goes Hybrid-Only. Here's Why That's A Big Deal
+
+date: 2025-05-21, from: Inside EVs News
+
+Toyota’s best-selling crossover will only be available as a hybrid and plug-in hybrid. That’s good news for everybody. 
+
+<br> 
+
+<https://insideevs.com/news/760163/2026-toyota-rav4-hybrid-phev-specs-official/>
+
+---
+
+## The 2026 Toyota RAV4 Plug-In Hybrid Borrows A Key EV Feature
+
+date: 2025-05-21, from: Inside EVs News
+
+The plug-in RAV4 is better than ever for 2026 with 50 miles of electric range and DC fast-charging. Yes, really. 
+
+<br> 
+
+<https://insideevs.com/news/760197/2026-toyota-rav4-phev-charging/>
+
+---
+
+## Hyundai is temporarily halting IONIQ 5 and Kona EV production in Korea
+
+date: 2025-05-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Hyundai-Kona-Electric-N-Line-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is shutting down a production line at its Ulsan plant in Korea, where the <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> and Kona EV are built. Although it’s only for a few days, the move comes as the automaker faces slower exports.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-kona-ev" data-layer-viewtype="unknown" data-post-id="416998" href="https://electrek.co/2025/05/20/hyundai-temporarily-halt-ioniq-5-kona-ev-production-korea/#more-416998" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/20/hyundai-temporarily-halt-ioniq-5-kona-ev-production-korea/>
 
 ---
 

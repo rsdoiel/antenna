@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-05-20 14:07:25
+updated: 2025-05-21 06:07:59
 ---
 
 # north america
 
-(date: 2025-05-20 14:07:25)
+(date: 2025-05-21 06:07:59)
+
+---
+
+## The Spanish Historical Lesson
+
+date: 2025-05-21, from: The Contrarian
+
+And thoughts on Joe Biden 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-spanish-historical-lesson>
+
+---
+
+##  CEO Says Trump’s IRS Pick Promised Big Benefits 
+
+date: 2025-05-20, from: The Lever News
+
+ Recordings reveal a finance executive claiming he offered Trump’s IRS nominee Billy Long an inauguration ticket — and was promised tax benefits if confirmed.  
+
+<br> 
+
+<https://www.levernews.com/ceo-says-trumps-irs-pick-promised-big-benefits/>
+
+---
+
+## Evening Roundup, May 20
+
+date: 2025-05-20, from: The Contrarian
+
+Featuring Rep. Ritchie Torres & Katie Phang; Jeff Nesbit; Meredith Blake; Brian O'Neill; Josh Levs; Democracy Movement; and Nick Anderson. In case you missed it: Jared Bernstein & Paul Krugman LIVE 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-20>
+
+---
+
+## Saturday Night Live concludes 50th season at a crossroads
+
+date: 2025-05-20, from: The Contrarian
+
+Can the show reman relevant in an increasingly divided culture? 
+
+<br> 
+
+<https://contrarian.substack.com/p/saturday-night-live-concludes-50th>
 
 ---
 

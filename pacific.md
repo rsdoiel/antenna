@@ -1,11 +1,345 @@
 ---
 title: pacific
-updated: 2025-05-20 14:07:26
+updated: 2025-05-21 06:08:00
 ---
 
 # pacific
 
-(date: 2025-05-20 14:07:26)
+(date: 2025-05-21 06:08:00)
+
+---
+
+## Man released following fatal traffic collision in Kurtistown
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>Police have released the driver of a vehicle that struck a male pedestrian who died following a Kurtistown traffic collision Friday near the Orchidland Drive and 36th Avenue intersection.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/hawaii-news/man-released-following-fatal-traffic-collision-in-kurtistown/>
+
+---
+
+## Trump administration caps flights in and out of Newark airport
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Aviation Administration on Tuesday issued new, temporary restrictions on flights in and out of Newark Liberty International Airport in New Jersey after disruptions caused severe flight delays and cancellations at the congested facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/trump-administration-caps-flights-in-and-out-of-newark-airport/>
+
+---
+
+## Hokule‘a, Hikianalia head to Hilo
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>The Hokule&#8216;a and Hikianalia voyaging canoes are expected to arrive in Hilo this afternoon, and celebrations honoring their trans-Pacific journey will be happening this weekend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/hawaii-news/hokulea-hikianalia-head-to-hilo/>
+
+---
+
+## Trump’s mass layoff threat drives US government workers to resign
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Tens of thousands of U.S. government workers have chosen to resign rather than endure what many view as a torturous wait for the Trump administration to carry out its threats to fire them, say unions, governance experts and the employees themselves.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/trumps-mass-layoff-threat-drives-us-government-workers-to-resign/>
+
+---
+
+## FDA poised to restrict access to COVID vaccines
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>The Food and Drug Administration will permit use of COVID vaccines by adults older than 65 and those with certain medical conditions in the fall, but will require additional studies before approving the shots for healthy Americans younger than 65, agency officials said Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/fda-poised-to-restrict-access-to-covid-vaccines/>
+
+---
+
+## Thousands on the Big Island could face cuts in SNAP benefits
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>The efforts by Republicans in Congress to alter SNAP benefits has the potential to negatively impact about 42 million people nationwide who receive food stamps for groceries, including over 40,000 people on Hawaii Island, according to the state Department of Human Services.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/hawaii-news/thousands-on-the-big-island-could-face-cuts-in-snap-benefits/>
+
+---
+
+## News in brief for May 21
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>Biden did not receive prostate &#0010;cancer diagnosis before last week</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/news-in-brief-for-may-21/>
+
+---
+
+## Trump selects $175 billion Golden Dome defense shield design, appoints leader
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said on Tuesday he had selected a design for the $175 billion Golden Dome missile defense shield and named a Space Force general to head the ambitious program aimed at blocking threats from China and Russia.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/trump-selects-175-billion-golden-dome-defense-shield-design-appoints-leader/>
+
+---
+
+## In approving soda ban for food stamps, USDA reverses decades of policy
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; For two decades, the federal government has rejected states&#8217; efforts to ban purchases of sugary drinks using food stamps, hesitant, in part, to cross an unusual coalition of corporate interests and anti-poverty groups.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/in-approving-soda-ban-for-food-stamps-usda-reverses-decades-of-policy/>
+
+---
+
+## New Orleans jail employee is arrested and charged with helping 10 inmates escape
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>A maintenance worker has been arrested and charged with helping 10 inmates carry out a brazen escape from a New Orleans jail last week, bolstering the suspicion among investigators that the escape would have been impossible without inside help.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/new-orleans-jail-employee-is-arrested-and-charged-with-helping-10-inmates-escape/>
+
+---
+
+## US intel suggests Israel preparing strike on Iran’s nuclear facilities, CNN reports
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>New intelligence obtained by the United States suggests that Israel is making preparations to strike Iranian nuclear facilities, CNN reported on Tuesday, citing multiple U.S. officials familiar with the intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/us-intel-suggests-israel-preparing-strike-on-irans-nuclear-facilities-cnn-reports/>
+
+---
+
+## Trump migrant detentions at Guantanamo Bay cost $100,000 per person daily, senator says
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s use of the Guantanamo Bay naval base to house migrants appears to cost $100,000 per day for each detainee, U.S. Senator Gary Peters said during a hearing on Tuesday, decrying what he described as a prime example of wasteful government spending.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/trump-migrant-detentions-at-guantanamo-bay-cost-100000-per-person-daily-senator-says/>
+
+---
+
+## US judge orders Trump administration to keep custody of migrants sent to South Sudan
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; A federal judge on Tuesday ordered the Trump administration to not let a group of migrants being flown to South Sudan leave the custody of U.S. immigration authorities after saying they appeared to have been deported in violation of a court order.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/us-judge-orders-trump-administration-to-keep-custody-of-migrants-sent-to-south-sudan/>
+
+---
+
+## Noem incorrectly defines habeas corpus as the president’s right to deport people
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Kristi Noem, the homeland security secretary, bungled answers on Tuesday about habeas corpus, incorrectly asserting that the legal right of people to challenge their detention by the government was actually the president&#8217;s &#8220;constitutional right&#8221; to deport people.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/noem-incorrectly-defines-habeas-corpus-as-the-presidents-right-to-deport-people/>
+
+---
+
+## EU, Britain go ahead with new Russia sanctions without waiting for Trump
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>BRUSSELS/LONDON/WASHINGTON &#8212; The EU and Britain announced new sanctions against Russia on Tuesday without waiting for Washington to join them, a day after President Donald Trump&#8217;s phone call with Vladimir Putin brought about neither a ceasefire in Ukraine nor fresh U.S. sanctions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/nation-world-news/eu-britain-go-ahead-with-new-russia-sanctions-without-waiting-for-trump/>
+
+---
+
+## Astronomy talk will explore ‘The Search for Life’
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>W. M. Keck Observatory later this month will present, &#8220;The Search for Life: A Story Told by Past, Present, Future NASA Science Missions.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/community/astronomy-talk-will-explore-the-search-for-life/>
+
+---
+
+## HPD used donated tourniquets to save nearly two dozen lives
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>Twenty Hawaii Island residents are alive today due to Hawaii Police Department deploying tourniquets donated by the Spirit of Blue Foundation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/community/hpd-used-donated-tourniquets-to-save-nearly-two-dozen-lives/>
+
+---
+
+## Public invited to orchestra’s ‘Flow of the Tide’ concert
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>Orchid Isle Orchestra&#8217;s &#8220;Flow of the Tide&#8221; concert starts at 4 p.m. on Sunday, June 1, at the Hilo High School Auditorium.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/entertainment/public-invited-to-orchestras-flow-of-the-tide-concert/>
+
+---
+
+## PTA honored for partnership with Hawaii Fire Department
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>U.S. Army Garrison Pohakuloa Training Area was named as a recipient of the 2024 Army Community Partnership Award, highlighting the exceptional collaboration between the Army and Hawaii Fire Department to improve readiness, adaptability and quality of life for military and community members.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/community/pta-honored-for-partnership-with-hawaii-fire-department/>
+
+---
+
+## From music to medicine: JABSOM grad finds calling in pathology
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p>Jeff Hayashi is bringing his unique perspective to the field of pathology</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/20/jabsom-grad-finds-calling-in-pathology/">From music to medicine: <abbr>JABSOM</abbr> grad finds calling in pathology</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/20/jabsom-grad-finds-calling-in-pathology/>
+
+---
+
+## Taiwan open to renewing ties with old allies in the Pacific but will nix extortion 
+
+date: 2025-05-21, from: Pacific Island Times
+
+Francois Chinchung  Wu  By Mar-Vic Cagurangan   Taipei—Taiwan would be willing to reestablish relations with runaway allies in the ... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/taiwan-open-to-renewing-ties-with-runaway-allies-but-will-nix-extortion>
+
+---
+
+## UH Hilo grad roots career in ʻāina
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo Chancellor Scholar Rosemary Bearden earned a biology degree in spring 2025 and is ready for a career in conservation on <span aria-label="Hawaii">Hawai&#699;i</span> Island.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/20/uh-hilo-grad-roots-career-in-aina/"><abbr>UH</abbr> Hilo grad roots career in ʻāina</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/20/uh-hilo-grad-roots-career-in-aina/>
+
+---
+
+## Report: Fukushima wastewater not clear of contaminants despite ALPS-treatment
+
+date: 2025-05-20, from: Pacific Island Times
+
+“TEPCO’s own data confirms that ALPS-treated water contains multiple radionuclides, such as strontium-90, iodine-129 and carbon-14 and plutonium
+
+ isotopes. In addition, it contains high concentrations of tritium, which is not
+
+ treated by ALPS,” states the report. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/report-fukushima-wastewater-not-clear-of-contaminants-despite-alps-treatment>
+
+---
+
+## Bomb threat delays flight from San Diego to Honolulu
+
+date: 2025-05-20, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaiian Airlines flight from San Diego bound for Honolulu this morning was stopped shortly before takeoff after a passenger allegedly threatened to bomb the aircraft.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/20/hawaii-news/bomb-threat-delays-flight-from-san-diego-to-honolulu/>
 
 ---
 

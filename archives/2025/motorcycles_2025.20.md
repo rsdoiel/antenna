@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-05-20 14:07:33
+updated: 2025-05-21 06:08:05
 ---
 
 # motorcycles
 
-(date: 2025-05-20 14:07:33)
+(date: 2025-05-21 06:08:05)
+
+---
+
+## Watch, and Listen, as a Ducati Races a Lamborghini in an Epic Sibling Rivalry
+
+date: 2025-05-21, from: Ride Apart, Electric Motorcycle News
+
+Siblings will always quarrel. They don't always sound this good. 
+
+<br> 
+
+<https://www.rideapart.com/news/760194/ducati-panigale-v4-lamborghini-temerario-supercar-race-video/>
+
+---
+
+## Taiga Restarts Production of Electric PWC After Nearly Dying, Says Its Made Upgrades
+
+date: 2025-05-21, from: Ride Apart, Electric Motorcycle News
+
+Arisen from the ashes! 
+
+<br> 
+
+<https://www.rideapart.com/news/760188/taiga-electric-ev-pwc-restarts-production-canada/>
+
+---
+
+## Ducati's Upcoming “Cruiser” Motorcycle Might Be the Craziest Ever
+
+date: 2025-05-21, from: Ride Apart, Electric Motorcycle News
+
+At this point, is it even proper to still call it a cruiser?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760098/ducati-diavel-v4-rs-coming-soon/>
+
+---
+
+## Polaris’ New Military Snowmobiles Get Power Upgrades We Wish We All Could Have
+
+date: 2025-05-21, from: Ride Apart, Electric Motorcycle News
+
+And that’s because they’re built for more than just fun. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760089/polaris-new-military-snowmobiles-details-launch/>
+
+---
+
+## If You Love Public Lands, Call Your Senators and Representatives Right Now
+
+date: 2025-05-20, from: Ride Apart, Electric Motorcycle News
+
+They're voting today or tomorrow.  
+
+<br> 
+
+<https://www.rideapart.com/news/760220/public-land-sale-budget-reconciliation-vote/>
 
 ---
 

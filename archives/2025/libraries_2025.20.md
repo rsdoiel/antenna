@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-05-20 14:07:32
+updated: 2025-05-21 06:08:04
 ---
 
 # libraries
 
-(date: 2025-05-20 14:07:32)
+(date: 2025-05-21 06:08:04)
+
+---
+
+## Building a Shared Culture: A Post-acquisition Interview with Krishna K. Chinnaiah and Alice Ellingham of Molecular Connections
+
+date: 2025-05-21, from: Scholarly Kitchen
+
+<p>Today, Alice Meadows talks to Krishna K. Chinnaiah and Alice Ellingham of Molecular Connections about their experience of (respectively) acquiring and being acquired</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/21/building-a-shared-culture-a-post-acquisition-interview-with-krishna-k-chinnaiah-and-alice-ellingham-of-molecular-connections/">Building a Shared Culture: A Post-acquisition Interview with Krishna K. Chinnaiah and Alice Ellingham of Molecular Connections</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/21/building-a-shared-culture-a-post-acquisition-interview-with-krishna-k-chinnaiah-and-alice-ellingham-of-molecular-connections/>
+
+---
+
+## Winterthurerstrasse Zurich from within a car
+
+date: 2025-05-21, from: ETH Zurich, recently added
+
+Ballo, Lukas; Cardoso, Matias 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/736872>
 
 ---
 

@@ -1,11 +1,101 @@
 ---
 title: journalism
-updated: 2025-05-20 14:07:30
+updated: 2025-05-21 06:08:03
 ---
 
 # journalism
 
-(date: 2025-05-20 14:07:30)
+(date: 2025-05-21 06:08:03)
+
+---
+
+## Sharlize True Trujillo builds positive platform with Miss Culver City title
+
+date: 2025-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+From posting daily dancing videos on Musical.ly as a teenager to becoming Miss Culver City at 21 years old, Sharlize True Trujillo has continued to achieve her goals. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/sharlize-true-trujillo-builds-positive-platform-with-miss-culver-city-title/>
+
+---
+
+## Classifieds – May 21, 2025
+
+date: 2025-05-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/21/classifieds-may-21-2025/">Classifieds &#8211; May 21, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/21/classifieds-may-21-2025/>
+
+---
+
+## UCLA experts share concerns over background of RFK Jr. as Secretary of HHS
+
+date: 2025-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA researchers and policy experts said United States Secretary of Health and Human Services Robert F. Kennedy Jr. lacks qualifications for his role and could derail American research and public health efforts. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/ucla-experts-share-concerns-over-background-of-rfk-jr-as-secretary-of-hhs/>
+
+---
+
+## Ella Rhodes transfuses queerness with ’80s punk in ‘Hickeys’
+
+date: 2025-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ella Rhodes is sinking her teeth into queer vampire punk in &#8220;Hickeys.&#8221;
+The 12-minute thesis film, which will be screened at the UCLA School of Theater, Film and Television Undergraduate Showcase on June 8, follows Vivian,  a queer Nashville runaway who finds belonging in the 1983 Los Angeles hardcore punk scene &#8211; only to realize her close friends are actually manipulative vampires. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/20/ella-rhodes-transfuses-queerness-with-80s-punk-in-hickeys/>
+
+---
+
+## SCA adjunct union ratifies first agreement with USC
+
+date: 2025-05-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The agreement comes amid negotiations for the union’s first contract.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/20/sca-adjunct-union-ratifies-first-agreement-with-usc/">SCA adjunct union ratifies first agreement with USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/20/sca-adjunct-union-ratifies-first-agreement-with-usc/>
+
+---
+
+## Experts discuss AI implications following Trump administration executive order
+
+date: 2025-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Artificial intelligence experts at UCLA said AI deregulation creates cultural challenges and has significant business implications following a Trump administration executive order.
+One of President Donald Trump&#8217;s executive orders &#8211; executive order 14179 &#8211; passed in January and revoked previous AI regulation policies that he described as &#8220;barriers to American AI innovation.&#8221; Titled &#8220;Removing Barriers to American Leadership in Artificial Intelligence,&#8221; the order places a high emphasis on global leadership and competition and deregulating AI. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/20/experts-discuss-ai-implications-following-trump-administration-executive-order/>
+
+---
+
+## “We are the target”: Immigrant Matadors on edge
+
+date: 2025-05-20, from: The Sundail (CSUN Student Newspaper)
+
+Jazmin Garcia Gaspar should be celebrating having completed her freshman year at California State University, Northridge, on a full-ride scholarship. But unable to afford college tuition due to her father’s... 
+
+<br> 
+
+<https://sundial.csun.edu/193759/news/we-are-the-target-immigrant-matadors-on-edge/>
 
 ---
 
@@ -13,7 +103,8 @@ updated: 2025-05-20 14:07:30
 
 date: 2025-05-20, from: The Daily Bruin (UCLA Student Newspaper)
 
-Both of California’s United States Senators condemned the Trump administration’s revocations of student visas in a Tuesday letter to U.S. Secretary of State Marco Rubio and Secretary of Homeland Security Kristi Noem. 
+<em>This post was updated May 20 at 11:07 p.m.</em>
+Both of California’s United States Senators condemned the Trump administration’s revocations of student visas in a Tuesday letter to U.S. 
 
 <br> 
 
@@ -75,8 +166,9 @@ The University of Southern California’s Student Life office told him the paper
 
 date: 2025-05-19, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 20 at 9:44 p.m.</em>
 Ahmed Spins is spinning his talents into house-driven beats.
-The Moroccan DJ &#8211; who studied finance at Northeastern University in Boston &#8211; has been pursuing a career in music for several years. 
+The Moroccan DJ – who studied finance at Northeastern University in Boston – has been pursuing a career in music for several years. 
 
 <br> 
 
@@ -113,7 +205,8 @@ The UCLA community protested outside of Murphy Hall, calling for the university 
 
 date: 2025-05-19, from: The Daily Bruin (UCLA Student Newspaper)
 
-Enzo&#8217;s Pizzeria is a historic slice of Westwood culture.
+<em>This post was updated May 20 at 9:16 p.m.</em>
+Enzo’s Pizzeria is a historic slice of Westwood culture.
 Situated on 1145 Westwood Blvd., the 25-year-old New York-style pizza joint is settling into its new location since moving in September 2024. 
 
 <br> 

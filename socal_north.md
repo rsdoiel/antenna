@@ -1,17 +1,125 @@
 ---
 title: socal north
-updated: 2025-05-20 14:07:25
+updated: 2025-05-21 06:08:00
 ---
 
 # socal north
 
-(date: 2025-05-20 14:07:25)
+(date: 2025-05-21 06:08:00)
 
 ---
 
-## Santa Ana Unified lays off 262 staff as enrollment drops. What does that mean for families?
+## Researchers call for more comprehensive soil testing after LA fires. But who should do it?
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+The federal government and state agencies haven't taken charge of comprehensive soil testing, as they did with past fires in California. Here's what people can do now. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-fires-soil-testing-who-should-do-it>
+
+---
+
+## LAUSD preschool enrollment is up after changes to toilet training requirements
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+For the first time, some early education centers have waitlists. But the district still has many empty seats 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/lausd-preschool-enrollment-up-policy-change-toilet-training-income>
+
+---
+
+## Prosecutors drop a scathing report in the Andrew Do case. Here are 5 damning takeaways
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+Andrew Do defends his actions in part by saying he didn't vote for the contracts alone — his fellow colleages on the Orange County Board of Supervisors did so, too. 
+
+<br> 
+
+<https://laist.com/news/politics/scathing-sentencing-report-in-case-of-disgraced-former-supervisor-andrew-do>
+
+---
+
+## LA County opening free storage facility downtown for artists affected by the fires
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+The program offers one year of storage, plus shipping to and from the facility. But some artists say they need studio space too. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-county-opening-free-storage-facility-downtown-for-artists-affected-by-the-fires>
+
+---
+
+## It’s a girl? Big Bear bald eaglet shows tell-tale signs of being female
+
+date: 2025-05-20, updated: 2025-05-21, from: The LAist
+
+Friends of Big Bear Valley said in a social media update that the eaglets’ size, including their ankles, have helped them make an educated guess. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/big-bear-bald-eaglet-shows-tell-tale-signs-of-being-female>
+
+---
+
+## LA City Council votes to address homelessness data problems
 
 date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+The motion, approved Tuesday, looks to fix “data silos” within city agencies. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-council-homeless-data-vote>
+
+---
+
+## LA looks to make film, TV and commercial shoots easier
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+As local productions decline, Mayor Karen Bass' executive order directs city departments to lower costs and coordination time while making iconic shooting locations more available. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-mayor-bass-film-production-changes>
+
+---
+
+## LA Fire Department says nearly a third of fires involve unhoused residents
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+Fire officials are asking for more funding as call volumes rise. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-fire-department-homelessness-budget-trash-unhoused>
+
+---
+
+## Home Depot doesn't plan to raise prices due to tariffs. But some items may disappear
+
+date: 2025-05-20, updated: 2025-05-20, from: The LAist
+
+The home improvement chain broke from many other retailers, who say they cannot afford to absorb new tariffs. 
+
+<br> 
+
+<https://laist.com/news/home-depot-doesnt-plan-to-raise-prices-due-to-tariffs-some-items-may-disappear>
+
+---
+
+## Santa Ana Unified lays off staff as enrollment drops. Here's what that means for families
+
+date: 2025-05-20, updated: 2025-05-21, from: The LAist
 
 The school district’s enrollment has been dropping, and is now losing federal relief funding. 
 
@@ -71,13 +179,13 @@ After scathing audits criticizing Los Angeles’ county-city homeless authority,
 
 ---
 
-## Large fire, propane tank explosion char Cambodia Town home
+## Man arrested on suspicion of lighting large fire that  charred Cambodia Town home
 
 date: 2025-05-20, from: Longbeach Post
 
 <figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-300x209.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-768x536.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-155x108.jpeg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1200x837.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-400x279.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ.jpeg 1206w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The one-story house was engulfed in flames, and as the fire spread, a propane tank on the property blew up, according to the Long Beach Fire Department.</p>
-<p>The post <a href="https://lbpost.com/news/junipero-fire-cambodia-town-long-beach">Large fire, propane tank explosion char Cambodia Town home</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>The post <a href="https://lbpost.com/news/junipero-fire-cambodia-town-long-beach">Man arrested on suspicion of lighting large fire that  charred Cambodia Town home</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 
@@ -98,9 +206,9 @@ A look at how Southern California became a hotspot for strawberry farms and the 
 
 ---
 
-## O.C. health officials allege state regulator threatened board member to help powerful private interests
+## OC health officials allege state regulator threatened board member to help powerful private interests
 
-date: 2025-05-20, updated: 2025-05-20, from: The LAist
+date: 2025-05-20, updated: 2025-05-21, from: The LAist
 
 CalOptima, Orange County’s Medi-Cal insurer, is looking into what led to the collapse of a lucrative deal to open a health center to serve elderly Vietnamese-speaking people in Westminster. 
 
