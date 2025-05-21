@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-05-21 06:08:01
+updated: 2025-05-21 14:07:59
 ---
 
 # science and technology
 
-(date: 2025-05-21 06:08:01)
+(date: 2025-05-21 14:07:59)
+
+---
+
+## Microsoft-backed AI out-forecasts hurricane experts without crunching the physics
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>LLM trained on decades of weather data claimed to be faster, and cheaper</h4> <p>Scientists have developed a machine learning model that can outperform official agencies at predicting tropical cyclone tracks, and do it faster and cheaper than traditional physics-based systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/earth_system_model_hurricane_forecast/>
+
+---
+
+## Sergey Brin promises next generation of Glassholes will be much less conspicuous
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Chocolate Factory comes for Meta&#39;s Ray-Bans with Warby Parker pact</h4> <p><strong>Google I/O</strong>  Google and eyeglass maker Warby Parker have partnered to create a more stylish successor to Google Glass, which cofounder Sergey Brin quipped will actually be polished before launch this time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/google_warby_parker_glass/>
+
+---
+
+## Estimating AI energy usage is fiendishly hard – but this report took a shot
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>And it gets even harder when you try to estimate CO2 emissions</h4> <p>A single person with a serious AI habit may chew through enough electricity each day to keep a microwave running for more than three hours. And the actual toll may even be worse, as so many companies keep details about their AI models secret.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/ai_energy_consumption_loose_estimates/>
+
+---
+
+## What is Lunar Regolith? (Grades 5-8)
+
+date: 2025-05-21, from: NASA breaking news
+
+This article is&#160;for students grades 5-8. The surface of the Moon is covered in a thick layer of boulders, rocks, and dust. This dusty, rocky layer is called lunar regolith. &#160;It was created a long time ago when meteorites crashed into the Moon and broke up the ground. NASA scientists study the regolith to learn [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/for-kids-and-students/nasa-knows-what-is-lunar-regolith-grades-5-8/>
+
+---
+
+## Russia's Fancy Bear swipes a paw at logistics, transport orgs' email servers
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Their connection? Aiding Ukraine, duh</h4> <p>Russian cyberspies have targeted &#34;dozens&#34; of Western and NATO-country logistics providers, tech companies, and government orgs providing transport and foreign assistance to Ukraine, according to a joint government announcement issued Wednesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/russias_fancy_bear_alert/>
+
+---
+
+## FBI, Microsoft, international cops bust Lumma infostealer service
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Credit card theft losses in 2023 alone totaled $36.5M</h4> <p>International cops working with Microsoft have shut down infrastructure and seized web domains used to run a distribution service for info-stealing malware Lumma. Criminals paid $250 to $1,000 a month to get access to the infostealer.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/lumma_infostealer_service_busted/>
+
+---
+
+## Coinbase confirms insiders handed over data of 70K users
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Bribed support staff identified, fired</h4> <p>Coinbase says the data of nearly 70,000 customers was handed over by overseas support staff who were bribed by criminals to give up the goods.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/coinbase_confirms_insider_breach_affects/>
+
+---
+
+## Builder.ai coded itself into a corner – now it's bankrupt
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>When &#39;AI-powered&#39; means &#39;mostly humans and bad decisions&#39;</h4> <p><strong>Comment</strong>  The collapse of Builder.ai has cast fresh light on AI coding practices, despite the software company blaming its fall from grace on poor historical decision-making.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/builderai_insolvency/>
+
+---
+
+## NASA-French Satellite Spots Large-Scale River Waves for First Time
+
+date: 2025-05-21, from: NASA breaking news
+
+In a first, researchers from NASA and Virginia Tech used satellite data to measure the height and speed of potentially hazardous flood waves traveling down U.S. rivers. The three waves they tracked were likely caused by extreme rainfall and by a loosened ice jam. While there is currently no database that compiles satellite data on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/swot/nasa-french-satellite-spots-large-scale-river-waves-for-first-time/>
+
+---
+
+## Windows reports two CPU speeds because one would be too simple
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>Every hardware claim is equal, but some are more equal than others</h4> <p>Veteran Microsoft engineer Raymond Chen has explained another Windows oddity – this time, why the operating system can appear to report two different CPU speeds.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/chen_windows_cpu_speed/>
+
+---
+
+## Another Milestone for X-59
+
+date: 2025-05-21, from: NASA breaking news
+
+NASA’s X-59 quiet supersonic research aircraft successfully completed a critical series of tests in which the airplane was put through its paces for cruising high above the California desert – all without ever leaving the ground. The goal of ground-based simulation testing was to make sure the hardware and software that will allow the X-59 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/another-milestone-for-x-59/>
+
+---
+
+## How Big is Space? We Asked a NASA Expert: Episode: 61
+
+date: 2025-05-21, from: NASA breaking news
+
+How big is space? Space is really big. Thinking about our solar system, let&#8217;s imagine you could get in a car and drive to Pluto at highway speeds. It would take you about 6,000 years to get there. When we start to think about other stars outside of our solar system, we need to think [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/astrophysics/how-big-is-space-we-asked-a-nasa-expert-episode-61/>
+
+---
+
+## Judge allows Delta's lawsuit against CrowdStrike to proceed with millions in damages on the line
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>CS remains hopeful damages will be limited to seven figures</h4> <p>CrowdStrike is &#34;confident&#34; that the worst-case scenario of its pending lawsuit with Delta will result in it paying the airline a sum in the &#34;single-digit millions.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/judge_allows_deltas_lawsuit_against/>
+
+---
+
+## Devil’s in Details in Selfie Taken by NASA’s Mars Perseverance Rover
+
+date: 2025-05-21, from: NASA breaking news
+
+The rover took the image — its fifth since landing in February 2021 — between stops investigating the Martian surface. A Martian dust devil photobombed NASA’s Perseverance Mars rover as it took a selfie on May 10 to mark its 1,500th sol (Martian day) exploring the Red Planet. At the time, the six-wheeled rover was [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/devils-in-details-in-selfie-taken-by-nasas-mars-perseverance-rover/>
+
+---
+
+## Discovery Alert: A Possible Perpendicular Planet
+
+date: 2025-05-21, from: NASA breaking news
+
+The Discovery A newly discovered planetary system, informally known as 2M1510, is among the strangest ever found. An apparent planet traces out an orbit that carries it far over the poles of two brown dwarfs. This pair of mysterious objects – too massive to be planets, not massive enough to be stars – also orbit […] 
+
+<br> 
+
+<https://science.nasa.gov/universe/exoplanets/discovery-alert-a-possible-perpendicular-planet/>
+
+---
+
+## For Algorithms, a Little Memory Outweighs a Lot of Time
+
+date: 2025-05-21, from: Quanta Magazine
+
+One computer scientist’s “stunning” proof is the first progress in 50 years on one of the most famous questions in computer science.            <p>The post <a href="https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/" target="_blank">For Algorithms, a Little Memory Outweighs a Lot of Time</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/>
+
+---
+
+## Google carves out cloudy safe spaces for nations nervous about America's reach
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>From air-gapped bunkers to partner-run platforms, sovereignty is suddenly in vogue</h4> <p>Google has updated its sovereign cloud services, including an air-gapped solution for customers with strict data security and residency requirements, as customers grow uneasy over US digital dominance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/google_sovereign_cloud_updates/>
+
+---
+
+## Trump announces $175B for Golden Dome defense shield over America
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>In practice, it&#39;ll cost many times that and almost certainly won&#39;t work</h4> <p>In a White House press conference on Tuesday President Trump announced his plans for a defensive network of missiles, radar, space surveillance, and attack satellites that he promised would protect America.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/trump_golden_dome/>
 
 ---
 
@@ -251,9 +467,9 @@ NASA and its international partners will soon receive scientific research sample
 
 ## Dell creates one private cloud to rule them all and in the datacenter bind them
 
-date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+date: 2025-05-20, updated: 2025-05-21, from: The Register (UK I.T. News)
 
-<h4>Mix Master Mike will spin up Nutanix, VMware, and Red Hat on the same beastly cluster</h4> <p>Dell has created a private cloud that isn&#39;t actually a private cloud – but will let users create private clouds built on software stacks from VMware, Nutanix, and Red Hat.…</p> 
+<h4>Mix Master Mike will spin up Nutanix, VMware, Red Hat on the same beastly cluster</h4> <p>Dell has created a private cloud that isn&#39;t actually a private cloud – but will let users create private clouds built on software stacks from VMware, Nutanix, and Red Hat.…</p> 
 
 <br> 
 

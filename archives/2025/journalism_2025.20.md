@@ -1,11 +1,80 @@
 ---
 title: journalism
-updated: 2025-05-21 06:08:03
+updated: 2025-05-21 14:08:02
 ---
 
 # journalism
 
-(date: 2025-05-21 06:08:03)
+(date: 2025-05-21 14:08:02)
+
+---
+
+## At routine traffic stop, UCPD arrests 1 person for possession of illegal firearm
+
+date: 2025-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD arrested one person for the possession of an illegal firearm during a routine traffic stop near Sproul Hall around 2:15 a.m. Wednesday.
+The person voluntarily disclosed the presence of the firearm and was taken into custody, according to a post from UCPD on social media platform X. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/at-routine-traffic-stop-ucpd-arrests-1-person-for-possession-of-illegal-firearm/>
+
+---
+
+## Film Club turn campus into ‘Barbie Land’
+
+date: 2025-05-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Rocky Young Park was transformed into “Barbie Land” on Thursday, May 15.  &#160; As part of the Pierce College Film Club’s Feninomemon series about women&#8217;s</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/21/film-club-turn-campus-into-barbie-land/">Film Club turn campus into &#8216;Barbie Land&#8217;</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/21/film-club-turn-campus-into-barbie-land/?utm_source=rss&utm_medium=rss&utm_campaign=film-club-turn-campus-into-barbie-land>
+
+---
+
+## Slime, sun and relaxation
+
+date: 2025-05-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; &#160; As finals week inches closer, the Associated Student Organization brought out glitter, beads and lots of glue for Pierce College students to get</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/21/slime-sun-and-relaxation/">Slime, sun and relaxation</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/21/slime-sun-and-relaxation/?utm_source=rss&utm_medium=rss&utm_campaign=slime-sun-and-relaxation>
+
+---
+
+## Student fee schedule changes discussed in Academic senate
+
+date: 2025-05-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>District-wide deficits continue to be a major concern for Pierce College, which were discussed throughout the Academic Senate meeting on Monday, May 19, in Building</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/21/student-fee-schedule-changes-discussed-in-academic-senate/">Student fee schedule changes discussed in Academic senate</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/21/student-fee-schedule-changes-discussed-in-academic-senate/?utm_source=rss&utm_medium=rss&utm_campaign=student-fee-schedule-changes-discussed-in-academic-senate>
+
+---
+
+## Deputies attempt to build community with students
+
+date: 2025-05-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; The Associated Student Organization partnered with the Pierce College Sheriff&#8217;s Department to present &#8220;Coffee with a Cop&#8221; on May 14, on the Mall. Attendees</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/21/deputies-attempt-to-build-community-with-students/">Deputies attempt to build community with students</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/21/deputies-attempt-to-build-community-with-students/?utm_source=rss&utm_medium=rss&utm_campaign=deputies-attempt-to-build-community-with-students>
 
 ---
 

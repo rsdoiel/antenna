@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-05-21 06:08:03
+updated: 2025-05-21 14:08:02
 ---
 
 # games
 
-(date: 2025-05-21 06:08:03)
+(date: 2025-05-21 14:08:02)
+
+---
+
+## It’s actually wild that Frieza died to a sword
+
+date: 2025-05-21, updated: 2025-05-20, from: Polygon Website
+
+Early in Dragon Ball, Master Roshi destroys the moon, setting the stage for many more absolutely wild feats to come in the various Dragon Ball anime and manga series. Planets get blown up left and right, perhaps none more consequential than Frieza destroying Namek — which, of course, took longer to blow than the five [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/599968/dragon-ball-z-frieza-death-sword>
+
+---
+
+## Escape From the 21st Century is the best kind of gamer-movie nonsense
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Cineverse dropped a first trailer today for the American release of Escape From the 21st Century, Yang Li’s frantic time-travel comedy movie about three hapless teenage nerds who mysteriously gain the ability to jump forward into their future adult bodies whenever they sneeze. The film, released in China in 2024, is the kind of goofy, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/600653/escape-from-the-21st-century-first-look-trailer>
+
+---
+
+## All Nightmare weapon skins and locations in Doom: The Dark Ages
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Nightmare skins are a type of weapon skin in Doom: The Dark Ages. By equipping them, you can customize your guns to look as cool as the killing sprees you perform with them — but you do have to find these skins first. Skins can be easily equipped in Doom: The Dark Ages by accessing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find>
+
+---
+
+## How to evolve Kubfu into Urshifu in Pokémon Go — should you pick Single or Rapid Strike?
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Pokémon Go players can now evolve Kubfu into Urshifu, but the big fighting bear has two forms: Single Strike and Rapid Strike. Which one should you evolve your Kubfu into? How do you even evolve the Kubfu to begin with? We’re here with the answers. Since the Kubfu can only Dynamax (not Gigantamax), the choice [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/600294/evolve-kubfu-dynamax-urshifu-single-rapid-strike>
+
+---
+
+## George R.R. Martin is working with Blue Eye Samurai’s studio on a book adaptation
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+In his seemingly endless quest to not finish The Winds of Winter, Game of Thrones author George R.R. Martin has a new project on the table: He’s producing a magical-realist reimagining of the story of Hercules, animated by Blue Spirit, the Emmy-winning studio behind the bloody Netflix revenge series Blue Eye Samurai. The film is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/600568/george-rr-martin-blue-eye-samurai-hercules-animated-adaptation>
+
+---
+
+## There was confusion inside Nintendo over whether Mario eats mushrooms
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+During the course of developing Mario Kart World, the team making it were confronted with an important, potentially existential question: Does Mario, in fact, eat mushrooms? Meaning, do Super Mushrooms in the Mario universe need to be eaten, or simply touched to imbue Mario (and Luigi) with super powers? The answer to that question may [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/600572/mario-eats-mushrooms-power-up>
+
+---
+
+## Pokémon Go ‘Fuzzy Fighter’ paid Special Research — is it worth it?
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Pokémon Go players can buy a “Fuzzy Fighter” paid Special Research ticket for $8 as part of the “Final Strike: Go Battle Week” event. The ticket was only originally available for purchase from March 5-10, but it’s available again until May 27, making many wonder: Is this “Fuzzy Fighter” Special Research worth buying? You can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/534404/fuzzy-fighter-special-research-steps-worth-it-kubfu>
+
+---
+
+## Xbox Game Pass takes a page from Nintendo’s playbook, adds a ton of retro games
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Xbox Game Pass appears to be taking a page from Nintendo Switch Online’s playbook by adding a slew of classic titles to its library. Xbox and Antstream Arcade have joined forces to launch Retro Classics, which gives all Game Pass members access to a 50+ collection of Activision titles like “Commando, Grand Prix, Kaboom!, Mech [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/600494/xbox-game-pass-takes-a-page-from-nintendos-playbook-adds-a-ton-of-retro-games>
 
 ---
 

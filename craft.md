@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-21 06:08:07
+updated: 2025-05-21 14:08:06
 ---
 
 # craft
 
-(date: 2025-05-21 06:08:07)
+(date: 2025-05-21 14:08:06)
+
+---
+
+## Hayward Collection Back in Stock (& Extended Intro Offer)
+
+date: 2025-05-21, from: Lost Arg Press blog
+
+In late February when we got our new Hayward four-volume collection in stock, we offered a $100 special on the set with free domestic shipping through April 30. But we ran out of books two weeks before the end of the special offer date. Now, we have a new print run in stock of all... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/21/hayward-collection-back-in-stock-extended-intro-offer/>
 
 ---
 

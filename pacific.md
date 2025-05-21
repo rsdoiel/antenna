@@ -1,11 +1,158 @@
 ---
 title: pacific
-updated: 2025-05-21 06:08:00
+updated: 2025-05-21 14:07:58
 ---
 
 # pacific
 
-(date: 2025-05-21 06:08:00)
+(date: 2025-05-21 14:07:58)
+
+---
+
+## United Airlines flight from Honolulu turns back after bomb threat in lavatory
+
+date: 2025-05-21, from: Hawaii Tribune Harold
+
+
+				<p>A United Airlines flight from Honolulu to Los Angeles returned to the Daniel K. Inouye International Airport early this morning after a bomb threat was found written on a bathroom mirror.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/21/hawaii-news/united-airlines-flight-from-honolulu-turns-back-after-bomb-threat-in-lavatory/>
+
+---
+
+## Image of the Week: Worth it
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p>This week’s image is from <abbr>UH</abbr> Maui College graduate Mark Amano.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/image-of-the-week-worth-it/">Image of the Week: Worth it</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/image-of-the-week-worth-it/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Kevin Spacey ‘glad to be working’ as he is feted in Cannes
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+CANNES, France (Reuters) —Oscar-winning U.S. actor Kevin Spacey said that "it was nice to be back" at an awards ceremony on the sidelines of the Cannes Film Festival on Tuesday evening. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/kevin-spacey-glad-to-be-working-as-he-is-feted-in-cannes/article_17c48116-bfa0-4db5-8f90-7f65aa566951.html>
+
+---
+
+## Natalie Portman, John Krasinski go on nostalgic adventure with ‘Fountain of Youth’
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+LONDON (Reuters) — Director Guy Ritchie's new action-adventure "Fountain of Youth" did not lead its stars Natalie Portman and John Krasinski to the source of immortality, but it did take them back to the movies they grew up watching. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/natalie-portman-john-krasinski-go-on-nostalgic-adventure-with-fountain-of-youth/article_99da31c2-2ed2-4bdc-89db-686c17840993.html>
+
+---
+
+## Stocks subdued, dollar slips as Trump tax cuts stoke fiscal fears
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+LONDON (Reuters) — Stocks were muted and the U.S. dollar under pressure on Wednesday, as investors fretted about the fiscal outlook for major developed economies and the lack of progress on trade deals. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/stocks-subdued-dollar-slips-as-trump-tax-cuts-stoke-fiscal-fears/article_4776bd09-f105-43a1-9e34-787325e662e9.html>
+
+---
+
+## Trump’s approval rating ticks lower, economic concerns weigh, Reuters/Ipsos poll finds
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump's approval rating ticked slightly lower this week to 42%, matching the lowest level of his new term as Americans kept a dour view of his handling of the U.S. economy, according to a new Reuters/Ipsos poll. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-s-approval-rating-ticks-lower-economic-concerns-weigh-reuters-ipsos-poll-finds/article_36de81d4-d042-4113-8917-2c228879db56.html>
+
+---
+
+## Guam: Major prison contraband found, 8  inmates allegedly linked
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Eight inmates at the Department of Corrections Adult Correctional Facility in Mangilao were arrested in connection to the discovery of major prison contraband. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-major-prison-contraband-found-8-inmates-allegedly-linked/article_2a02ef87-1c1f-4609-aefa-93ddf382173e.html>
+
+---
+
+## Congratulations!
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+Northern Marianas College nursing students who will be earning their degrees this Friday held a nursing pinning and lamp lighting ceremony at Crowne Plaza on Monday, May 19, 2025. They, along with students from other degree programs, will graduate on May 23, 2025, at the Koblerville gymnasium. The ceremony will also be live-streamed on NMC’s Facebook page. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/congratulations/article_29044558-d31f-44be-bec8-a42fe71b124f.html>
+
+---
+
+## Green flag on Managaha
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-managaha/article_f629fbef-37c0-4856-bb8d-9fcb58d6a743.html>
+
+---
+
+## Smoke and dye testing for Gualo Rai on May 22 and 23
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — Dye tests and smoke tests will be conducted in Gualo Rai (Espana St. and Japon Dr.) on Thursday, May 22, and Friday, May 23, from 8:30 a.m. to 3:30 p.m.  The purpose of these tests is to identify leaks, breaks, and other connections in CUC’s sewer system. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/smoke-and-dye-testing-for-gualo-rai-on-may-22-and-23/article_718ca931-f164-4171-b5f5-fd92a46053ea.html>
+
+---
+
+## King-Hinds is NMC's 2025 commencement keynote speaker
+
+date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds will deliver the keynote address at Northern Marianas College’s 44th Commencement Exercise this Friday, May 23, 2025 at the Koblerville gymnasium. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-is-nmcs-2025-commencement-keynote-speaker/article_963742f8-5ec3-43fa-b394-cacbbbbddb34.html>
 
 ---
 
@@ -340,18 +487,6 @@ date: 2025-05-20, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/20/hawaii-news/bomb-threat-delays-flight-from-san-diego-to-honolulu/>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-05-20, updated: 2025-05-20, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

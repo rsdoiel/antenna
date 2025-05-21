@@ -1,11 +1,104 @@
 ---
 title: socal north
-updated: 2025-05-21 06:08:00
+updated: 2025-05-21 14:07:57
 ---
 
 # socal north
 
-(date: 2025-05-21 06:08:00)
+(date: 2025-05-21 14:07:57)
+
+---
+
+## Her miscarriage showed the limits of California’s abortion protections. Where you live matters
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+Catholic hospitals run 20% of California’s maternity wards. Their policies generally prohibit abortion, even in miscarriage, as long as a heartbeat can be detected. 
+
+<br> 
+
+<https://laist.com/news/health/her-miscarriage-showed-the-limits-of-californias-abortion-protections-where-you-live-matters>
+
+---
+
+## Fraud pushes California’s community colleges to consider an application fee. Is it worth it?
+
+date: 2025-05-21, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Faced with increasing financial aid fraud, the board of California’s community colleges is considering ways to charge students an application fee and tighten its identity verification process. Students are pushing back.</p>
+<p>The post <a href="https://lbpost.com/news/education/fraud-pushes-californias-community-colleges-to-consider-an-application-fee-is-it-worth-it">Fraud pushes California’s community colleges to consider an application fee. Is it worth it?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/fraud-pushes-californias-community-colleges-to-consider-an-application-fee-is-it-worth-it>
+
+---
+
+## Palm Springs ‘anti-life’ bombing suspect may have had suicide pact with slain Washington woman
+
+date: 2025-05-21, from: Longbeach Post
+
+<figure><img width="1024" height="735" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1024x735.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1024x735.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-300x215.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-768x551.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-151x108.jpeg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1200x861.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-400x287.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX.jpeg 1398w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Online postings and interviews with his father reveal an expanding network of fringe beliefs around the ethics of human life and procreation.</p>
+<p>The post <a href="https://lbpost.com/news/crime/palm-springs-bombing-bartkus-sophie-tinney-efilism">Palm Springs ‘anti-life’ bombing suspect may have had suicide pact with slain Washington woman</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/palm-springs-bombing-bartkus-sophie-tinney-efilism>
+
+---
+
+## A salmonella outbreak sickens dozens, prompting a cucumber recall. Here's what to do
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+The FDA says 26 people, nine of whom were hospitalized, have gotten sick across 15 states. It is still figuring out where the cucumbers were distributed — and warning people to take extra precautions. 
+
+<br> 
+
+<https://laist.com/news/health/salmonella-outbreak-sickens-dozens-prompting-a-cucumber-recall>
+
+---
+
+## Trump’s attempt to speed deportations in California hits another roadblock in court
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+Unauthorized immigrants can be deported quickly if they're detained near the border. The Trump administration wants to expand expedited removal inland. 
+
+<br> 
+
+<https://laist.com/news/trump-attempt-to-speed-deportations-in-california-hits-another-roadblock-in-court>
+
+---
+
+## Trump unveils ambitious and expensive plans for 'Golden Dome' missile defense
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+The plan includes a vast array of space-based sensors and interceptors. 
+
+<br> 
+
+<https://laist.com/news/trump-unveils-ambitious-expensive-plans-for-golden-dome-missile-defense>
+
+---
+
+## Seeking to seize its opportunity on the world stage, Long Beach lays plans for influx of Olympic visitors
+
+date: 2025-05-21, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-1024x683.jpg 1024w, https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-300x200.jpg 300w, https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-768x512.jpg 768w, https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-162x108.jpg 162w, https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-1536x1024.jpg 1536w, https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-1200x800.jpg 1200w, https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-1568x1045.jpg 1568w, https://lbpost.com/news/wp-content/uploads/sites/2/2024/07/small-la28-rendering-marine-stadium-in-long-beach-ca-07-11-24-disclaimer-687055-oc8gpqkz-716000-Y91CuuXg-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city is planning fan zones for spectators around town, laying roadmaps for public transportation and hoping to leverage the Games for long-term philanthropic giving.</p>
+<p>The post <a href="https://lbpost.com/news/olympic-planning-long-beach-city-tourism">Seeking to seize its opportunity on the world stage, Long Beach lays plans for influx of Olympic visitors</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/olympic-planning-long-beach-city-tourism>
 
 ---
 
@@ -183,7 +276,7 @@ After scathing audits criticizing Los Angeles’ county-city homeless authority,
 
 date: 2025-05-20, from: Longbeach Post
 
-<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-300x209.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-768x536.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-155x108.jpeg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1200x837.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-400x279.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ.jpeg 1206w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1024x714.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-300x209.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-768x536.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-155x108.jpeg 155w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-1200x837.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ-400x279.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/20091706/junipero-fire-2025-478668-a8bmxoyd-340108-H15Yu1tQ.jpeg 1206w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The one-story house was engulfed in flames, and as the fire spread, a propane tank on the property blew up, according to the Long Beach Fire Department.</p>
 <p>The post <a href="https://lbpost.com/news/junipero-fire-cambodia-town-long-beach">Man arrested on suspicion of lighting large fire that  charred Cambodia Town home</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -258,7 +351,7 @@ Port of L.A. has seen a 20% cancellation of cargo ships coming in so far this mo
 
 date: 2025-05-19, from: Longbeach Post
 
-<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19153003/012224-assembly-floor-fg-cm-12-362797-qemqfpyy-172432-4Q2mVbff.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Many people in California prisons and jails work for less than $1 an hour. Lawmakers are advancing two bills that could lead to wage increases for some of them.</p>
 <p>The post <a href="https://lbpost.com/news/politics/relic-of-slavery-california-lawmakers-are-trying-again-to-raise-pay-for-incarcerated-workers">‘Relic of slavery’: California lawmakers are trying again to raise pay for incarcerated workers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

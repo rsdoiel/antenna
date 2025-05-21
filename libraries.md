@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-21 06:08:04
+updated: 2025-05-21 14:08:03
 ---
 
 # libraries
 
-(date: 2025-05-21 06:08:04)
+(date: 2025-05-21 14:08:03)
 
 ---
 
@@ -89,7 +89,7 @@ date: 2025-05-20, from: Scholarly Kitchen
 
 date: 2025-05-19, from: Association of Research Libraries News
 
-<p>Last Updated on May 20, 2025, 3:02 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 20 &#124; Wednesday, May 21 &#124; Thursday,...</p>
+<p>Last Updated on May 21, 2025, 4:20 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 20 &#124; Wednesday, May 21 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-19-22/">Day in Review (May 19–22)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

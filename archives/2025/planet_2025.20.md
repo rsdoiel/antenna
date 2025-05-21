@@ -1,11 +1,319 @@
 ---
 title: planet
-updated: 2025-05-21 06:07:58
+updated: 2025-05-21 14:07:56
 ---
 
 # planet
 
-(date: 2025-05-21 06:07:58)
+(date: 2025-05-21 14:07:56)
+
+---
+
+## New measures by Meta AI to improve data protection - DPC
+
+date: 2025-05-21, from: RTÉ News
+
+The Data Protection Commission has said that Meta has introduced a number of significant measures and improvements to protect people's data used for the training of its artificial intelligence models. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0521/1514216-meta-ai-data-protection/>
+
+---
+
+## Police charge Kneecap's 'Mo Chara' with terrorism offence
+
+date: 2025-05-21, from: RTÉ News
+
+A member of Irish hip-hop group Kneecap has been charged with a terrorism offence over the displaying of a flag in support of Hezbollah at a gig in London last November, British police have said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514213-kneecap/>
+
+---
+
+## US accepts Boeing jet from Qatar for use as Air Force One
+
+date: 2025-05-21, from: RTÉ News
+
+US Defense Secretary Pete Hegseth has accepted the Boeing 747 that the Gulf emirate of Qatar offered to President Donald Trump for use as Air Force One, the Pentagon has said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0521/1514202-qatar-us-air-force-one/>
+
+---
+
+## Trump confronts Ramaphosa with false genocide claims
+
+date: 2025-05-21, from: RTÉ News
+
+US President Donald Trump confronted South African President Cyril Ramaphosa at the White House with allegations of mass killings and land seizures from white people, in a scene reminiscent of his February ambush of Ukraine's Volodymyr Zelensky. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514192-ramaphosa-trump/>
+
+---
+
+## Government publishes legislation to remove Triple Lock
+
+date: 2025-05-21, from: RTÉ News
+
+Legislation that will remove the requirement for UN approval when deploying members of the Defence Forces outside the State has been published. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514188-triple-lock-legislation/>
+
+---
+
+## Watch: Roof slides off historic Ming tower in China
+
+date: 2025-05-21, from: RTÉ News
+
+Eyewitness footage shows the roof of a historic tower from the time of the Ming dynasty in China's collapsing. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0521/1514182-china-ming-tower/>
+
+---
+
+## U.S. formally accepts Qatar-gifted jet for Trump's use as Air Force One
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540281.1747856467!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-inside-the-oval-office.jpg' alt='A side view of U.S. President Donald Trump&apos;s face, as seen in the Oval Office.' width='620' height='349' title='U.S. President Donald Trump looks on as he meets with South African President Cyril Ramaphosa in the Oval Office of the White House in Washington, DC, on May 21, 2025. South African President Cyril Ramaphosa meets Donald Trump on Wednesday amid tensions over Washington&apos;s resettlement of white Afrikaners that the US president claims are the victims of &quot;genocide.&quot;'/><p>U.S. Defence Secretary Pete Hegseth has accepted a luxury Boeing 747 aircraft from Qatar for U.S. President Donald Trump to use as Air Force One, the Pentagon said Wednesday, despite ongoing questions about the ethics and legality of taking the expensive gift from a foreign nation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hegeth-trump-qatar-plane-1.7540260?cmp=rss>
+
+---
+
+## Masseur given two-and-a-half years for sexual assault
+
+date: 2025-05-21, from: RTÉ News
+
+A masseur, who sexually assaulted a female client after he asked her if she would like a "surprise" at the end of a massage session, has been jailed for two-and-a-half years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0521/1514180-cork-circuit-criminal-court-masseur/>
+
+---
+
+## RTÉ appoints new Chief Risk and Compliance Officer
+
+date: 2025-05-21, from: RTÉ News
+
+RTÉ has announced the appointment of a new Chief Risk and Compliance Officer. Eleanor O'Shaughnessy is to take on the position at the national broadcaster following a public competition. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0521/1514178-rte-appoints-new-chief-risk-and-compliance-officer/>
+
+---
+
+## Dáil hears heartfelt contributions over Gaza war
+
+date: 2025-05-21, from: RTÉ News
+
+The Dáil heard fiery and heartfelt contributions this afternoon, united in its abhorrence of the killing and starving of people in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0521/1514172-politics-dail-gaza-analysis/>
+
+---
+
+## NAMA head never discussed housing czar salary - committee
+
+date: 2025-05-21, from: RTÉ News
+
+The head of NAMA has told the Oireachtas Committee on Finance that his salary was never discussed when he was approached to become the so-called housing czar. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0521/1514169-brendan-mcdonagh/>
+
+---
+
+## Trump confronts South African leader with baseless claims of targeted killing of white farmers
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540196.1747852423!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='Two men sit at chairs in front of an opulent fireplace.' width='620' height='349' title='President Donald Trump meets South African President Cyril Ramaphosa in the Oval Office of the White House, Wednesday, May 21, 2025, in Washington.'/><p>President Donald Trump used a White House meeting to forcefully confront South African President Cyril Ramaphosa, accusing the country of failing to address Trump’s baseless claim of widespread and targeted killing of white farmers.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-ramaphosa-meeting-south-africa-1.7540184?cmp=rss>
+
+---
+
+## Remembering Francis, a Pope who led the Church to the peripheries
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>As the world marks 30 days since Pope Francis’ death, Cardinal John Ribat, MSC, from Papua New Guinea shares his memories of the late pontiff, who travelled to the Pacific island country in September 2024.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/remembering-francis-a-pope-who-led-the-church-to-the-peripherie.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/remembering-francis-a-pope-who-led-the-church-to-the-peripherie.html>
+
+---
+
+## Martin 'demands answers' as IDF shots fired near envoys
+
+date: 2025-05-21, from: RTÉ News
+
+Taoiseach Micheál Martin has said he will be "demanding answers" from Israel after Israeli troops fired on a European Union delegation that included two Irish diplomats visiting the occupied West Bank. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0521/1514153-jenin-diplomats-israel/>
+
+---
+
+## Suspended sentence for 'Gucci Gang' leader over fight
+
+date: 2025-05-21, from: RTÉ News
+
+A man named in the High Court as the leader of a north Dublin organised crime group known as "The Gucci Gang" has been sentenced for his involvement in a street fight with a rival criminal gang in Finglas. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0521/1514155-mr-flashy-sentencing/>
+
+---
+
+## Corkscrew Prom
+
+date: 2025-05-21, from: Vatican Obervatory
+
+It was an absolute pleasure to observe this action-packed prom dangling from the southern limb of the sun.  
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/corkscrew-prom/>
+
+---
+
+## Tanzania Catholic Association of Sisters combats human trafficking
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>As Tanzania faces increasing cases of human trafficking, particularly involving women and girls, the Tanzanian Government has called for a comprehensive response. This response foresees the active involvement and participation of Faith-Based Organisations (FBOs) and civil society organizations, especially at the grassroots level.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/tanzania-catholic-association-of-sisters-tcas-against-human-tr.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/tanzania-catholic-association-of-sisters-tcas-against-human-tr.html>
+
+---
+
+## No Covid compliance fall after Storey funeral - O'Neill
+
+date: 2025-05-21, from: RTÉ News
+
+Northern Ireland First Minister Michelle O'Neill has said there is no evidence to suggest there was a fall in compliance with Covid-19 restrictions after the funeral of republican Bobby Storey in 2020. 
+
+<br> 
+
+<https://www.rte.ie/news/coronavirus/2025/0521/1514150-covid-inquiry-ni/>
+
+---
+
+## Council of Nicaea: A light on path of understanding the faith
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>A conference in Rome studies the International Theological Commission's document, “Jesus Christ, Son of God, Saviour: 1,700th anniversary of the Ecumenical Council of Nicaea.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/light-on-the-path-of-understanding-the-faith.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/light-on-the-path-of-understanding-the-faith.html>
+
+---
+
+## Fake message to President of Burkina Faso attributed to Pope
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>A 36-minute speech in English, created with artificial intelligence, has been uploaded to YouTube, falsely attributing to Pope Leo XIV words for Ibrahim Traoré, President of Burkina Faso.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/pope-leo-xiv-burkina-faso-fake-video-message.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/pope-leo-xiv-burkina-faso-fake-video-message.html>
+
+---
+
+## EU-Israel agreement 'important forum' for talks - Germany
+
+date: 2025-05-21, from: RTÉ News
+
+Germany has defended a cooperation deal between the European Union and Israel, a day after the bloc ordered a review of it in a bid to pressure Israel over the war in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0521/1514137-eu-israel-germany/>
+
+---
+
+## Europa League final: Tottenham v Manchester Utd updates
+
+date: 2025-05-21, from: RTÉ News
+
+The San Mames Stadium in Bilbao is the venue as Tottenham and Manchester United look to put some gloss on what has been a disappointing season so far for both. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0521/1514138-europa-league-final-tottenham-v-manchester-utd-updates/>
+
+---
+
+## Ireland get Euros boost as UEFA confirms host places
+
+date: 2025-05-21, from: RTÉ News
+
+The Republic of Ireland's Euro 2028 hopes have been boosted after UEFA confirmed places at the tournament will be reserved for the two best-ranked host nations who don't automatically qualify. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0521/1514127-ireland-get-euros-boost-as-uefa-sign-off-on-decision/>
+
+---
+
+## Ten years on: The HALO Trust and the future of Syria's Palmyra
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>Ten years after the fall of Palmyra to the so-called Islamic-State, and as Syrians return to their cities following the fall of the Assad regime, The HALO Trust is beginning to look at the Syrian City with the prospect of clearing it of unexploded military ordinance. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/ten-years-on-the-halo-trust-and-palmyra-s-potential-future.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/ten-years-on-the-halo-trust-and-palmyra-s-potential-future.html>
 
 ---
 
@@ -18,6 +326,18 @@ A victim's rights campaigner has told the High Court that Gerry Adams has the re
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0521/1514128-gerry-adams-court/>
+
+---
+
+## Adams had reputation of being in IRA, McDowell tells case
+
+date: 2025-05-21, from: RTÉ News
+
+Independent Senator Michael McDowell has told the High Court that Gerry Adams falsely represented himself as a go-between in negotiations for the Good Friday Agreement when in fact he was a leading member of the IRA at the time. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0521/1514128-gerry-adams-court/>
 
 ---
 
@@ -57,11 +377,23 @@ Almost 6,000 same-sex marriages have been celebrated in Ireland since the first 
 
 ---
 
-## Situation in Gaza 'appalling and barbaric' - Taoiseach
+## TD requests meeting with Martin over septic tank concerns
 
 date: 2025-05-21, from: RTÉ News
 
-Taoiseach Micheál Martin has described the situation in Gaza as "absolutely appalling and barbaric". 
+Independent Ireland TD Richard O'Donoghue has called on Taoiseach Micheál Martin to meet him and Uisce Éireann to address septic tank concerns in rural Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0521/1514120-septic-tank-dail/>
+
+---
+
+## EU-Israeli agreement should be suspended, says Taoiseach
+
+date: 2025-05-21, from: RTÉ News
+
+Taoiseach Micheál Martin has said he believes the EU-Israeli Association Agreement should be suspended pending a review. 
 
 <br> 
 
@@ -69,15 +401,115 @@ Taoiseach Micheál Martin has described the situation in Gaza as "absolutely app
 
 ---
 
-## Chris Brown granted bail by UK judge and can tour
+## Four children dead in ‘horrific’ attack on school bus in Baluchistan: UNICEF
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+An “horrific” attack on a school bus in Pakistan’s Baluchistan Province on Wednesday which left six dead – including four children – has been condemned by the UN children’s agency. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163556>
+
+---
+
+## Champions for Change: World football teams up with UN development goals
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+Football unites fans worldwide – but on Wednesday it matched the sport’s global reach with the UN Sustainable Development Goals (SDGs). In the lead-up to&nbsp;World Football Day, marked on 25 May. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163551>
+
+---
+
+## UN alarmed after warning shots fired at foreign diplomats in the West Bank
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+Israel forces opened fire on a diplomatic delegation near the Jenin camp in the occupied West Bank on Wednesday, drawing condemnation from several governments and the UN.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163546>
+
+---
+
+## Historic shifts offer Syria a path forward
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+After years of stalemate and suffering, Syria is beginning to see renewed international engagement. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163541>
+
+---
+
+## Urgent action needed to ‘pull Yemen back from the brink of catastrophe’
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+Noor, a 16-month-old toddler, is from the Lahj governorate in the southwest corner of Yemen. A UN-partner volunteer diagnosed her with severe malnutrition – and her story became headline news when the UN relief chief recounted it to the Security Council during an impassioned briefing last week. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163531>
+
+---
+
+## Scam centres are a ‘human rights crisis’, independent experts warn
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+Southeast Asian nations should do more to protect people from being reeled into scam farms, top independent human rights experts said on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163521>
+
+---
+
+## Gaza: Aid trucks still waiting for Israeli green light inside enclave
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+UN aid workers said on Wednesday that they are still waiting for permission from Israel to distribute five trucks’ worth of lifesaving relief that was allowed into Gaza at the start of the week, after an 11-week blockade. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163516>
+
+---
+
+## Chris Brown freed on bail after bottle attack charge
 
 date: 2025-05-21, from: RTÉ News
 
-R&B singer Chris Brown has been granted bail in the UK after he was charged over an alleged bottle attack at a London nightclub two years ago. 
+R&B singer Chris Brown has been freed on bail after he was charged over an alleged bottle attack at a London nightclub two years ago. 
 
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0521/1514116-chris-brown-freed-on-bail-by-uk-judge-and-can-tour/>
+
+---
+
+## Fr. Romanelli: Pope Leo XIV gives us new encouragement to persevere
+
+date: 2025-05-21, from: Vatican News
+
+
+                    <p>Fr. Gabriel Romanelli, the parish priest of the Holy Family Church, tells Vatican News about the tough humanitarian situation in Gaza, but also expresses his gratitude to Pope Leo XIV for “his words of peace.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/fr-romanelli-with-pope-leo-we-felt-a-new-encouragement.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/fr-romanelli-with-pope-leo-we-felt-a-new-encouragement.html>
 
 ---
 
@@ -110,6 +542,18 @@ date: 2025-05-21, from: RTÉ News
 
 ---
 
+## Calls for more political attention on human trafficking
+
+date: 2025-05-21, from: RTÉ News
+
+"Samantha" was told she was going to the UK to study international business management but when she arrived, she was brought to a house and forced into sex work. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0521/1514097-human-trafficking-ireland/>
+
+---
+
 ## Family faces €150k legal bill after cases thrown out
 
 date: 2025-05-21, from: RTÉ News
@@ -122,11 +566,23 @@ A Co Dublin family, already linked to 26 previous personal injury claims, now fa
 
 ---
 
-## Union criticises Stormont over refusal to fund PSNI plan
+## Family faces €150k legal bill after cases thrown out
 
 date: 2025-05-21, from: RTÉ News
 
-The union that represents rank and file police officers in Northern Ireland has accused the Stormont Executive of not giving a damn about policing after a refusal to fund a five-year recovery plan for the PSNI. 
+A Co Dublin family, already linked to 26 previous personal injury claims, face a bill for legal costs of up to €150,000 after six separate new claims for damages totalling €360,000 against a motorist were thrown out by a judge. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0521/1514108-gaynor-family-court/>
+
+---
+
+## PSNI chief warns of 'dire situation' after funding denied
+
+date: 2025-05-21, from: RTÉ News
+
+The Chief Constable of the PSNI has warned that the public should be worried by a decision by the Stormont Executive not to fund a five-year recovery plan for the force. 
 
 <br> 
 
@@ -222,6 +678,18 @@ Father of four Mahmoud al-Haw and other Palestinians crowd around a soup kitchen
 
 ---
 
+## 'Our children are dying slowly' says father in Gaza
+
+date: 2025-05-21, from: RTÉ News
+
+Father of four Mahmoud al-Haw and other Palestinians crowd around a soup kitchen in war-ravaged Gaza, surging forward and frantically waving pots. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0521/1514076-gaza-aid/>
+
+---
+
 ## From the Vatican Observatory Faith and Science pages (Younger Readers) — Gregor Mendel: The Friar Who Grew Peas
 
 date: 2025-05-21, from: Vatican Obervatory
@@ -231,6 +699,18 @@ From the Faith &#038; Science Resource Center (Younger Readers): This colorful b
 <br> 
 
 <https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-younger-readers-gregor-mendel-the-friar-who-grew-peas-2/>
+
+---
+
+## Singer Chris Brown free on bail while awaiting trial over alleged London nightclub attack
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7539796.1747833826!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chris-brown-amsterdam-2023.jpg' alt='A man hair dyed pink and blue and wearing a puffer jacket, with a horizontal image of a man on it, sings on stage with a microphone in his right hand and pointing to the left with his other hand. ' width='620' height='349' title='US singer Chris Brown performs during a concert at the Ziggo Dome in Amsterdam, on March 6, 2023. '/><p>A British judge ordered Grammy-winning singer Chris Brown released on 5-million-pound ($9.3 million Cdn) bail on Wednesday while facing allegations he beat and seriously injured a music producer with a bottle in a London nightclub in 2023.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/chris-brown-trial-bail-1.7539785?cmp=rss>
 
 ---
 
@@ -414,11 +894,11 @@ Fast-moving floodwaters have risen in eastern Australia, inundating homes and le
 
 ---
 
-## Marks & Spencer says cyberattack to cost it £300m
+## M&S says £300m cyberattack upheaval to linger into July
 
 date: 2025-05-21, from: RTÉ News
 
-British retailer Marks & Spencer said today that a "highly sophisticated cyber" attack would cost it about £300m in operating profit, with disruption set to run into July. 
+A "highly sophisticated and targeted" cyberattack will cost Marks & Spencer about £300m in lost operating profit, and disruption to online services is likely until July, the British retailer said today. 
 
 <br> 
 
@@ -447,6 +927,18 @@ Humanitarian aid has not yet reached Palestinians in need, according to aid grou
 <br> 
 
 <https://www.rte.ie/news/2025/0521/1514018-gaza/>
+
+---
+
+## Gaza still waiting for aid as pressure mounts on Israel
+
+date: 2025-05-21, from: RTÉ News
+
+Israel allowed 100 aid trucks carrying flour, baby food and medical equipment into Gaza today, the Israeli military has said, as UN officials reported that distribution issues had meant that no aid had so far reached people in need. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0521/1514018-gaza-aid/>
 
 ---
 
@@ -522,6 +1014,18 @@ date: 2025-05-21, from: CBC, World News
 
 ---
 
+## Indigenous development corps. will be hit hard by N.W.T. diamond mine closures, report says
+
+date: 2025-05-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7501237.1743702445!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/diavik-diamond-mine.jpg' alt='A rocky pit.' width='620' height='349' title='An open pit at Diavik Diamond Mine in 2024.'/><p>With the N.W.T.'s diamond mines facing an uncertain future, some Indigenous businesses are warning of the impact the mines' closures could have on local communities.  </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/indigenous-development-corps-will-be-hit-hard-by-n-w-t-diamond-mine-closures-report-says-1.7539656?cmp=rss>
+
+---
+
 ## US expects Russia offer soon as Zelensky sounds warning
 
 date: 2025-05-21, from: RTÉ News
@@ -543,6 +1047,18 @@ Canada sought to send a firm message with a Ukrainian minister's presence at the
 <br> 
 
 <https://www.rte.ie/news/world/2025/0521/1514011-g7-finance-talks/>
+
+---
+
+## G7 finance talks begin under strain of US tariffs
+
+date: 2025-05-21, from: RTÉ News
+
+G7 members have begun tough discussions in Canada, seeking to restore stability in the face of economic turbulence from US President Donald Trump's tariffs and to strengthen support for Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0521/1514011-g7-finance-talks/>
 
 ---
 
@@ -570,6 +1086,30 @@ The Irish Postmasters' Union has said the country's post office network urgently
 
 ---
 
+## Nuns Helped Map Close To Half A Million Stars In The Early 20th Century After The Vatican Recruited Them
+
+date: 2025-05-20, from: Vatican Obervatory
+
+Discover the remarkable story of four nuns who cataloged half a million stars for the Vatican Observatory in the 20th century. 
+
+<br> 
+
+<https://www.chipchick.com/2025/05/nuns-helped-map-close-to-half-a-million-stars-in-the-early-20th-century-after-the-vatican-recruited-them>
+
+---
+
+## U.S. college student pleads guilty in data breach that affected North American schools
+
+date: 2025-05-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7457470.1739389843!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/data-breaches-20240730.JPG' alt='Two hands are typing on an Apple laptop keyboard, lit by a red light. ' width='620' height='349' title='Canadian organizations embroiled in data breaches wind up paying an average $6.32 million to resolve the incidents, a new study says. A man uses a computer keyboard in Toronto in this Sunday, Oct. 9, 2023 photo illustration. '/><p>A Massachusetts college student has agreed to plead guilty to hacking cloud-based education software provider PowerSchool and stealing data pertaining to millions of North American students and teachers that hackers used to extort the company and school districts into paying ransoms.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/powerschool-data-breach-hack-plead-guilty-1.7539683?cmp=rss>
+
+---
+
 ## Cheers star George Wendt dies aged 76
 
 date: 2025-05-20, from: RTÉ News
@@ -579,6 +1119,18 @@ George Wendt, who played the affable, beer-loving barfly Norm on the hit 1980s T
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0520/1513991-cheers-star-george-wendt-dies-aged-76/>
+
+---
+
+## Workers at Métis, Michif child and family services agencies now have wage parity agreement: Union
+
+date: 2025-05-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7492826.1742928307!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/mgeu-child-and-family-services-strike.jpeg' alt='Several people are seen walking on a sidewalk with signs reading &quot;On strike.&quot;' width='620' height='349' title='Workers with two child and family services agencies hit the picket line on Tuesday, March 25, 2025, outside the Métis Child, Family and Community Services building on Portage Avenue in Winnipeg. The workers have been without a contract since the last one expired on Jan. 31, 2023.'/><p>Workers at Métis Child, Family and Community Services and Michif Child and Family Services reached an arbitration agreement for wage parity between the two child welfare agencies, the union representing them said Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/metis-michif-child-family-services-union-agreement-1.7539511?cmp=rss>
 
 ---
 
@@ -687,6 +1239,18 @@ Parents who know their child requires a bit more support to navigate everyday li
 <br> 
 
 <https://www.rte.ie/news/analysis-and-comment/2025/0520/1513963-assessment-needs-children/>
+
+---
+
+## Lennox Island chief says moderate-livelihood lobster fishers will replace traps seized by DFO
+
+date: 2025-05-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7539318.1747768841!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lennox-island-lobster-fishing.jpg' alt='A lobster fishing boat tied up at the wharf in Lennox Island First Nation in western Prince Edward Island on May 19, 2025.' width='620' height='349' title='A lobster fishing boat tied up at the wharf in Lennox Island First Nation in western Prince Edward Island on May 19, 2025.'/><p>On Sunday, Fisheries and Oceans Canada confiscated traps from Lennox Island fishermen in Malpeque Bay. The agency says the traps were not authorized, but the First Nation says the seizure was illegal.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/prince-edward-island/pei-lennox-island-lobster-fishery-traps-seized-dfo-1.7539285?cmp=rss>
 
 ---
 
@@ -996,7 +1560,7 @@ The UN Secretary-General on Tuesday urged world powers to uphold international m
 
 ## AI threatens one in four jobs – but transformation, not replacement, is the real risk
 
-date: 2025-05-20, from: United Nations, Top Stories
+date: 2025-05-20, from: United Nations, Economic Development
 
 Women and clerical workers face the highest risk of their roles being radically transformed by Artificial Intelligence, prompting calls for inclusive policy responses.&nbsp; 
 

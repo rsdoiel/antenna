@@ -1,11 +1,141 @@
 ---
 title: home
-updated: 2025-05-21 06:08:04
+updated: 2025-05-21 14:08:04
 ---
 
 # home
 
-(date: 2025-05-21 06:08:04)
+(date: 2025-05-21 14:08:04)
+
+---
+
+## 7 Reasons Your Phone Isn’t Charging
+
+date: 2025-05-21, from: Family Handyman Blog
+
+<p>When your phone won't charge, you need to figure out what the problem is quickly.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-your-phone-isnt-charging/">7 Reasons Your Phone Isn&#8217;t Charging</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-your-phone-isnt-charging/>
+
+---
+
+## Animal Care and Youth Education at California Fairs
+
+date: 2025-05-21, from: Calfifornia Dept. Aggriculture blog
+
+California FFA student Brendy Puckett earns inaugural $10,000 scholarship from Youth for the Quality Care of Animals (YQCA) Livestock exhibitions are a hallmark of local and state fairs, and teaching our student exhibitors how to care for their animals in &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29006">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29006>
+
+---
+
+## How to Make Sourdough Starter From Scratch: Easy Step-by-Step Recipe
+
+date: 2025-05-21, from: Homestead and Chil
+
+<p>Follow our easy recipe to make a sourdough starter from scratch. Learn how to transform three simple ingredients - water, flour, and apple - into an active and bubbly sourdough starter within 7 days - so you can bake delicious homemade bread, crackers, cookies, muffins and more!</p>
+<p>The post <a href="https://homesteadandchill.com/make-your-own-sourdough-starter/">How to Make Sourdough Starter From Scratch: Easy Step-by-Step Recipe</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/make-your-own-sourdough-starter/>
+
+---
+
+## Before & After: There’s a Hidden Meadow at the Heart of This Wabi-Sabi D.C. Home
+
+date: 2025-05-21, from: Dwell
+
+After spending several years in Tokyo, a family revamps an American Foursquare with a fresh floor plan, a glassy extension, and an appreciation of Japanese design. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-hidden-meadow-home-renovation-colleen-healey-architecture-washington-dc-cd258fc4>
+
+---
+
+## How They Pulled It Off: A Transparent Deck Roof That Brightens Up a Moody Renovation
+
+date: 2025-05-21, from: Dwell
+
+The budget-friendly move brings more sunlight into this renovated and rock-inspired home in Auckland, New Zealand. 
+
+<br> 
+
+<https://www.dwell.com/article/pac-studio-auckland-transparent-roof-348c5806>
+
+---
+
+## Translucent Panels Top This Airy Retreat Outside São Paulo
+
+date: 2025-05-21, from: Dwell
+
+The roofing protects the home’s cross-laminated timber frame from rain while letting an abundance of light into the central living space. 
+
+<br> 
+
+<https://www.dwell.com/article/house-in-piedade-nitsche-arquitetos-cross-laminated-timber-construction-indoor-outdoor-retreat-3f371e2b>
+
+---
+
+## 13 of the Best Rosemary Varieties
+
+date: 2025-05-21, from: The Gardener's Path
+
+<p>A favorite herb for using fresh or dried, rosemary is also a handsome, aromatic ornamental with needle-like leaves and masses of small blue flowers. Plants thrive in low water and poor soil conditions and are suitable for containers, ground covers, hedges, and more. Discover 13 of the best rosemary varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/best-rosemary-varieties/">13 of the Best Rosemary Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/best-rosemary-varieties/>
+
+---
+
+## For $890K, You Can Scoop Up a Decked-Out Beach House on the Oregon Coast
+
+date: 2025-05-21, from: Dwell
+
+The current owner/designer refreshed the ’60s getaway from top to bottom, and it has two wraparound balconies with ocean views. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-beach-house-renovation-jarrell-interiors-neskowin-oregon-real-estate-17cb197d>
+
+---
+
+## Home Depot Says No to Tariff-Driven Price Hikes
+
+date: 2025-05-21, from: Family Handyman Blog
+
+<p>Home Depot will not be joining the list of retailers raising their prices amid Trump's trade war.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/home-depot-no-price-hikes/">Home Depot Says No to Tariff-Driven Price Hikes</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/home-depot-no-price-hikes/>
+
+---
+
+## How to Identify and Correct Iron Deficiency in Roses
+
+date: 2025-05-21, from: The Gardener's Path
+
+<p>Iron deficiency is common in roses, resulting in yellow leaves with green veins and a general decline in plant health. It can also leave your rose susceptible to pests and diseases. While it’s an extremely common issue, don’t lose sleep over it. It’s easy to diagnose, and once you do, we can help you work on a cure.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/rose-iron-deficiency/">How to Identify and Correct Iron Deficiency in Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/rose-iron-deficiency/>
 
 ---
 

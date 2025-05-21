@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-05-21 06:08:05
+updated: 2025-05-21 14:08:04
 ---
 
 # motorcycles
 
-(date: 2025-05-21 06:08:05)
+(date: 2025-05-21 14:08:04)
+
+---
+
+## NEWS: Penske releases Cindric, Ruzewski and Moyer amid attenuator controversy
+
+date: 2025-05-21, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer The fallout from the Team Penske attenuator situation continues to unravel as the team has released three members of personnel on Wednesday morning: IndyCar Team&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/news-penske-releases-cindric-ruzewski-and-moyer-amid-attenuator-controversy/>
+
+---
+
+## There's Another Recall for Potentially Deadly Youth ATVs, So Stop Riding
+
+date: 2025-05-21, from: Ride Apart, Electric Motorcycle News
+
+This has a potentially deadly defect. 
+
+<br> 
+
+<https://www.rideapart.com/news/759909/pulse-performance-youth-atv-recall/>
+
+---
+
+## This New “Adventure Scooter” Makes Off-Roading More Accessible, Supposedly
+
+date: 2025-05-21, from: Ride Apart, Electric Motorcycle News
+
+The practicality and accessibility of a scooter meets ADV ruggedness—all in a beginner-friendly package. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760085/keeway-xdv125-evo-pro-europe-specs-features/>
 
 ---
 

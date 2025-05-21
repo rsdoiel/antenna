@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-05-21 06:08:01
+updated: 2025-05-21 14:07:58
 ---
 
 # ham radio
 
-(date: 2025-05-21 06:08:01)
+(date: 2025-05-21 14:07:58)
+
+---
+
+## A two-way mirror—current mirror that is
+
+date: 2025-05-21, from: EDN Blog
+
+<img width="703" height="515" src="https://www.edn.com/wp-content/uploads/TwoWay_Figure1.png?fit=703%2C515" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/TwoWay_Figure1.png?w=703 703w, https://www.edn.com/wp-content/uploads/TwoWay_Figure1.png?w=300 300w" sizes="(max-width: 703px) 100vw, 703px" /><p>A two-way current mirror with two BJTs and one diode that can mirror the more positive input side at its output.</p>
+<p>The post <a href="https://www.edn.com/a-two-way-mirror-current-mirror-that-is/">A two-way mirror—current mirror that is</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-two-way-mirror-current-mirror-that-is/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-21 06:08:01
 
 date: 2025-05-21, from: EDN Blog
 
-<img width="1230" height="724" src="https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?fit=1230%2C724" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=1230 1230w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=1024 1024w" sizes="(max-width: 1230px) 100vw, 1230px" /><p>The earlier the SiP-design experts engage with the system designers, the better the resulting design quality is likely to be.</p>
+<img width="1230" height="724" src="https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?fit=1230%2C724" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=1230 1230w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-SiP.png?w=1024 1024w" sizes="auto, (max-width: 1230px) 100vw, 1230px" /><p>The earlier the SiP-design experts engage with the system designers, the better the resulting design quality is likely to be.</p>
 <p>The post <a href="https://www.edn.com/from-system-design-to-sip-whats-the-design-flow/">From system design to SiP: What’s the design flow</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

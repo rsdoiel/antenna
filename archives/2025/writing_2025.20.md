@@ -1,11 +1,61 @@
 ---
 title: writing
-updated: 2025-05-21 06:08:03
+updated: 2025-05-21 14:08:01
 ---
 
 # writing
 
-(date: 2025-05-21 06:08:03)
+(date: 2025-05-21 14:08:01)
+
+---
+
+## 2025 Sturgeon Award Finalists
+
+date: 2025-05-21, from: Locus Magazine
+
+<p>The finalists for the Theodore Sturgeon Memorial Award for the best short science fiction story have been announced by the Gunn Center for the Study of Science Fiction.</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>“Rachel Is At a Protest”, Esther Alter (The Deadlands 7/24)</li>
+<li>“To Eat Your Own Head”, Nkone Chaka (Asimov&#8217;s 1-2/24)</li>
+<li>“Swarm X1048 &#8211; Ethological Field Report: Canis Lupus Familiaris, &#8216;6&#8217;”, F.E. Choe (Clarkesworld 3/24)</li>
+<li>“Judas Iscariot Didn&#8217;t Kill Himself: A Story in Fragments”, </li></ul></div> <a href="https://locusmag.com/2025/05/2025-sturgeon-award-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-sturgeon-award-finalists/>
+
+---
+
+## 2025 Society of Authors’ Awards Shortlists
+
+date: 2025-05-21, from: Locus Magazine
+
+<p>Shortlists for the 2025 Society of Authors&#8217; Awards have been announced. Titles and authors of genre interest include:
+</p>
+<div class="mynomorebulletlist">
+<p><strong>ALCS Tom Gallon Trust Award</strong></p>
+<ul>
+<li>&#8220;God&#8217;s Doorbell&#8221;, Naomi Alderman (<strong>A Cage Went in Search of a Bird</strong>)</li>
+<li>&#8220;Raise, or How to Break Free of the Ground, or The Lakeland Dialect for Slippery is Slape and to Form it in the Mouth Requires an Act of Falling&#8221;, Katie Hale (self-published)</li>
+<li>&#8220;Into </li></ul></div> <a href="https://locusmag.com/2025/05/2025-society-of-authors-awards-shortlists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-society-of-authors-awards-shortlists/>
+
+---
+
+## Written on the Dark by Guy Gavriel Kay: Review by Gary K. Wolfe
+
+date: 2025-05-21, from: Locus Magazine
+
+<p><strong>Written on the Dark</strong>, Guy Gavriel Kay (Ace 978-0593953983, $29.00, 400pp, hc) May 2025.</p>
+<p>For the first-time reader, there comes a point in almost every Guy Gavriel Kay novel where you need to decide on your own personal reading strategy: Am I going to approach this as historical fiction with a twist of fantasy, or as fantasy overlaid on an historical template? For readers of the first sort, especially  <a href="https://locusmag.com/2025/05/written-on-the-dark-by-guy-gavriel-kay-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/written-on-the-dark-by-guy-gavriel-kay-review-by-gary-k-wolfe/>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: food
-updated: 2025-05-21 06:08:06
+updated: 2025-05-21 14:08:06
 ---
 
 # food
 
-(date: 2025-05-21 06:08:06)
+(date: 2025-05-21 14:08:06)
+
+---
+
+## 10 Dinner Party Host Gift Ideas That Aren't a Bottle of Wine
+
+date: 2025-05-21, from: Bon Appetet
+
+Thoughtful, creative host gifts—because they probably have enough wine. 
+
+<br> 
+
+<https://www.bonappetit.com/story/dinner-party-gifts-for-host>
+
+---
+
+## The 5 Wine Subscription Services Worthy of Your Long-Term Commitment (2025)
+
+date: 2025-05-21, from: Bon Appetet
+
+Expand your palate with these wine clubs that drop high-quality bottles right at your doorstep. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-wine-subscriptions>
+
+---
+
+## The Best High-Protein Snacks, According to BA Editors (2025)
+
+date: 2025-05-21, from: Bon Appetet
+
+It’s time to branch out from protein bars. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-high-protein-snacks>
+
+---
+
+## I Need Impressive Dinner Party Recipes
+
+date: 2025-05-21, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Kendra help listeners plan the dinner party menu of their dreams! 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-dinner-party-menu-recipes>
+
+---
+
+## Immigration Crackdowns Are Hitting Kona Coffee Farms
+
+date: 2025-05-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. ICE has started targeting immigrants on some Kona coffee farms. 
+
+<br> 
+
+<https://sprudge.com/immigration-crackdowns-are-hitting-kona-coffee-farms-338732.html>
+
+---
+
+## El Salvador Coffee Report: Exports Rise Though Structural Challenges Remain
+
+date: 2025-05-21, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="El Salvador" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>El Salvador’s coffee sector is expected to show modest production gains in the 2025/26 market year, with a forecast of the equivalent of 597,000 60-kilogram bags, up 6.4% from the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/21/el-salvador-coffee-report-exports-rise-though-structural-challenges-remain/>
+
+---
+
+## Royal Coffee Continuing “Development Stage” This Fall
+
+date: 2025-05-21, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Development Stage Royal Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After hosting the inaugural Development Stage event in 2024, Oakland, California-based green coffee trader Royal Coffee is planning to drop another batch of speakers and tastings for 2025. Taking place... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/21/royal-coffee-continuing-development-stage-this-fall/>
+
+---
+
+## Volcafe Names Jason Cortellini Regional Manager for North America
+
+date: 2025-05-21, from: Daily Coffee News
+
+<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-620x387.jpg" class="attachment-large size-large wp-post-image" alt="Jason_Cortellini_1200x900" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-768x480.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900.jpg 1079w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Multinational green coffee production and trading company Volcafe recently tapped Jason Cortellini as regional general manager for North America, effective June 3. A former commodities buyer at companies such... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/21/volcafe-names-jason-cortellini-regional-manager-for-north-america/>
+
+---
+
+## The Pinecone GH-B Grinder is Built for Budget-Friendly Bulk
+
+date: 2025-05-21, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/pinecone-ghb-2-620x349.jpg" class="attachment-large size-large wp-post-image" alt="pinecone-ghb" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/pinecone-ghb-2-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/pinecone-ghb-2-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/pinecone-ghb-2-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/pinecone-ghb-2-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/pinecone-ghb-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Swiss coffee grinder company Pinecone recently opened a new entry point for United States customers with the launch of the GH-B grinder, designed for bulk grinding in settings such... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/21/the-pinecone-gh-b-grinder-is-built-for-budget-friendly-bulk/>
 
 ---
 
@@ -159,7 +267,7 @@ date: 2025-05-20, from: Taste of Home
 
 date: 2025-05-20, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-620x400.png" class="attachment-large size-large wp-post-image" alt="Uganda coffee market report" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Uganda’s coffee production is expected to expand in the 2025/26 marketing year, with a forecast of the equivalent of 6.88 million 60-kilogram bags, up 2.6% from the previous year, according... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-620x400.png" class="attachment-large size-large wp-post-image" alt="Uganda coffee market report" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Uganda-coffee-market-report.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Uganda’s coffee production is expected to expand in the 2025/26 marketing year, with a forecast of the equivalent of 6.88 million 60-kilogram bags, up 2.6% from the previous year, according... 
 
 <br> 
 
@@ -209,7 +317,7 @@ date: 2025-05-20, from: The Sprudge
 
 date: 2025-05-20, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="SCA Expo coffee cups" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sniffs, sips and slurps were virtually nonstop for three days last month at the annual SCA Expo in Houston. For all the close attention that was paid to the liquids... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="SCA Expo coffee cups" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/SCA-Expo-coffee-cups.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Sniffs, sips and slurps were virtually nonstop for three days last month at the annual SCA Expo in Houston. For all the close attention that was paid to the liquids... 
 
 <br> 
 
@@ -363,7 +471,7 @@ date: 2025-05-19, from: The Sprudge
 
 date: 2025-05-19, from: Daily Coffee News
 
-<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg" class="attachment-large size-large wp-post-image" alt="Bangkok Thailand" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In conjunction with its second World of Coffee Asia (WoC) trade show in Indonesia, the Specialty Coffee Association (SCA) announced that its 2026 flagship Asia event will take place in... 
+<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg" class="attachment-large size-large wp-post-image" alt="Bangkok Thailand" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Bangkok-Thailand.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>In conjunction with its second World of Coffee Asia (WoC) trade show in Indonesia, the Specialty Coffee Association (SCA) announced that its 2026 flagship Asia event will take place in... 
 
 <br> 
 

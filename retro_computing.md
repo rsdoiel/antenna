@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-21 06:08:05
+updated: 2025-05-21 14:08:05
 ---
 
 # retro computing
 
-(date: 2025-05-21 06:08:05)
+(date: 2025-05-21 14:08:05)
+
+---
+
+## Red Hat Releases RHEL 10 Early
+
+date: 2025-05-21, from: Linux Magazine
+
+<p>Red Hat quietly rolled out the official release of RHEL 10.0 a bit early.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Red-Hat-Releases-RHEL-10-Early>
 
 ---
 

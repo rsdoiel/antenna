@@ -1,11 +1,193 @@
 ---
 title: columns
-updated: 2025-05-21 06:08:02
+updated: 2025-05-21 14:08:00
 ---
 
 # columns
 
-(date: 2025-05-21 06:08:02)
+(date: 2025-05-21 14:08:00)
+
+---
+
+##  A history of Earth&#8217;s supercontinents and their impact on evolution. &#8220;Tectonic activities... 
+
+date: 2025-05-21, updated: 2025-05-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046903-a-history-of-earths-super>
+
+---
+
+##  An Open Letter to Clarence Thomas by Elie Mystal. &#8220;You have put... 
+
+date: 2025-05-21, updated: 2025-05-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046902-an-open-letter-to-clarenc>
+
+---
+
+##  The Onion&#8217;s Bestseller List for June 2025, including I Need Money by... 
+
+date: 2025-05-21, updated: 2025-05-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046901-the-onions-bestseller-lis>
+
+---
+
+##  &#8220;[This website] is a repurposed smartphone running on solar power. It&#8217;s a... 
+
+date: 2025-05-21, updated: 2025-05-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046876-this-website-is-a-repurpo>
+
+---
+
+## Filings
+
+date: 2025-05-21, from: Doc Searls (at Harvard), New Old Blog
+
+Throwing blogs on the fire. I was thinking about posts as files, blogs as outlines, and outlines as directories. In geek-speak, directories look like this: something/something/something/something/file. In URLs, each something is also called a folder, because that&#39;s the frame in which putting files somewhere makes sense. Anyway, I have the top level of a directory [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/05/21/filings/>
+
+---
+
+##  The winners of the 2025 Milky Way Photographer of the Year awards.... 
+
+date: 2025-05-21, updated: 2025-05-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046891-the-winners-of-the-2025>
+
+---
+
+## Sam Altman and Jony Ive Introduce ‘io’, the Device-Making Partnership Between OpenAI and LoveFrom
+
+date: 2025-05-21, updated: 2025-05-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://openai.com/sam-and-jony/>
+
+---
+
+## May 20, 2025
+
+date: 2025-05-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164096979/bb47f7451cc91e154b6e22722d952874.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164096979/bb47f7451cc91e154b6e22722d952874.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-20-2025-681>
+
+---
+
+## Fortnite Returns to the U.S. App Store for iOS
+
+date: 2025-05-21, updated: 2025-05-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/05/20/fortnite-is-now-available-on-the-app-store-for-iphone-and-ipad/>
+
+---
+
+##  Interesting thing about contextual fame: to the surprise of bookstores, Craig Mod... 
+
+date: 2025-05-21, updated: 2025-05-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046900-interesting-thing-about-s>
+
+---
+
+## What If We Had Bigger Brains? Imagining Minds beyond Ours
+
+date: 2025-05-21, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2025/05/imaginingbiggerbrains-news.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we humans [&#8230;] 
+
+<br> 
+
+<https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/>
+
+---
+
+##  Supercut of Every Time Norm Enters the Bar on Cheers 
+
+date: 2025-05-21, updated: 2025-05-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/supercut-of-every-time-norm-enters-the-bar-on-cheers>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/05/21/theBeatles.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I mentioned Chris Lydon's <a href="http://scripting.com/2025/05/19.html#a222356">weblog for the ears</a> and got an email back, and this made me think some more. We need someone to do a canvas of how intellectuals use ChatGPT-like systems to advance their research and creativity, or just for learning or fun. It's the same kind of opportunity that was in front of us in 2003 when blogs were new, and only a few people loved the idea, but they were fierce in their enthusiasm. You could tell something was happening. It happened before that with PCs, and now it's happening again with AI. I'm absolutely sure of this, as sure as I was with PCs and the web. So Chris, humor me -- this is your new assignment -- find out from the people who listen to <a href="https://radioopensource.org/">Radio Open Source</a> not what's bad about AI, they hear that all the time, let's hear their stories, why they think it's the best thing ever. I believe you'll find them. That's what's missing today in journalism, and it's something Chris is uniquely able to do. BTW, here's a <a href="https://daytona.scripting.com/search?q=ChatGPT">list of things</a> I've written recently about ChatGPT. 
+
+<br> 
+
+<http://scripting.com/2025/05/21.html#a135615>
+
+---
+
+## Mem’ries… light the corners of my mind
+
+date: 2025-05-21, from: Paolo Valdemarin's blog
+
+For the last few days, I’ve had access to the “Reference Chat History” feature in ChatGPT (I think it had been available for a while in the US, but it just landed on my account in the UK). Wow… what a change! I was putting together a page to describe the various tools we’ve been &#8230; <a href="https://val.demar.in/2025/05/memries-light-the-corners-of-my-mind/" class="more-link">Continue reading<span class="screen-reader-text"> "Mem’ries&#8230; light the corners of my mind"</span></a> 
+
+<br> 
+
+<https://val.demar.in/2025/05/memries-light-the-corners-of-my-mind/>
+
+---
+
+## 
+                Git-CVS setup for next Advent of Code
+            
+
+date: 2025-05-21, updated: 2025-05-21, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-05-21/0/POSTING-en.html>
 
 ---
 
@@ -66,7 +248,7 @@ What's their motive for trying to destroy America?
 
 date: 2025-05-21, from: Doc Searls (at Harvard), New Old Blog
 
-How the future might come true. I&#39;ve re-written most of Four Roads to the Intention Economy, because I keep getting encouraging news about the prospects. It was slow as mud, but worked full time and I loved it. Anyone else remember Ricochet, the wireless ISP that served the Bay Area for the last few years [&#8230;] 
+Is there a word for failing to fail? Here&#39;s a Hmm:  What if Flickr Fails? is getting a sudden burst of readers fourteen years after Flickr didn&#39;t fail. Also, according to my blog&#39;s stats, this post has had eleven reads.  Cool is forever. Dig: New Livestream Brings Microfiche Digitization to Life for Democracy’s Library. Watch it happen live. Particulars: [&#8230;] 
 
 <br> 
 
@@ -122,15 +304,13 @@ date: 2025-05-21, from: Heather Cox Richardson blog
 
 ---
 
-## Meet the Monster: a fountain pen so…
+## The Method of the Monster
 
 date: 2025-05-21, from: Om Malik blog
 
 Meet the Monster: a fountain pen so ambitious that it holds enough ink to write a short novel. The pen is a symbiosis of precision engineering, material science, and bold design choices. It is also the story of a young designer's journey.  
 
-<br><video crossorigin="anonymous" controls="controls" width="250">
-<source type="video/quicktime" src="https://videos.files.wordpress.com/1yANTMJh/gravitas-11.mov"></source>
-</video> <a href="https://videos.files.wordpress.com/1yANTMJh/gravitas-11.mov" target="_blank">download video/quicktime</a> 
+<br> 
 
 <https://om.co/2025/05/20/gravitas-pens-ben-walsh-monster-pen/>
 

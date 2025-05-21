@@ -1,11 +1,149 @@
 ---
 title: north america
-updated: 2025-05-21 06:07:59
+updated: 2025-05-21 14:07:56
 ---
 
 # north america
 
-(date: 2025-05-21 06:07:59)
+(date: 2025-05-21 14:07:56)
+
+---
+
+## The state of reproductive rights is dire
+
+date: 2025-05-21, from: The Contrarian
+
+In the dystopian present, women's bodies are not their own. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-state-of-reproductive-rights>
+
+---
+
+## When government officials are ignorant about the Constitution
+
+date: 2025-05-21, from: The Contrarian
+
+In a constitutional republic, our elected and appointed officials must know and care about the power the Constitution confers&#8212;and the limits it imposes. 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-government-officials-are-ignorant>
+
+---
+
+## Nearly Flown to El Salvador, Venezuelan Men Now Locked up in Texas — Their Fates Unknown
+
+date: 2025-05-21, from: Capital and Main
+
+<p>Detainees say they're being held in solitary confinement after family members helped them post about their situation on TikTok.</p>
+<p>The post <a href="https://capitalandmain.com/nearly-flown-to-el-salvador-venezuelan-men-now-locked-up-in-texas-their-fates-unknown">Nearly Flown to El Salvador, Venezuelan Men Now Locked up in Texas — Their Fates Unknown</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/nearly-flown-to-el-salvador-venezuelan-men-now-locked-up-in-texas-their-fates-unknown>
+
+---
+
+## Making Salmonella Great Again 
+
+date: 2025-05-21, from: The Contrarian
+
+Thanks to Donald Trump, going to the grocery store could soon be more like going to a casino. You pay your money and you take your chances. 
+
+<br> 
+
+<https://contrarian.substack.com/p/making-salmonella-great-again>
+
+---
+
+## This summer, don't fly deportation airlines 
+
+date: 2025-05-21, from: The Contrarian
+
+A small airline is helping ICE carry out cruel deportations. 
+
+<br> 
+
+<https://contrarian.substack.com/p/this-summer-dont-fly-deportation>
+
+---
+
+##  A Crypto Giant Buried A Data Scandal Then Made It Too Late To Sue 
+
+date: 2025-05-21, from: The Lever News
+
+ Coinbase waited months to inform consumers it had sold their data to criminals while changing its terms of service to limit future class-action lawsuits.  
+
+<br> 
+
+<https://www.levernews.com/a-crypto-giant-buried-a-data-scandal-then-made-it-too-late-to-sue/>
+
+---
+
+## 5 years after George Floyd: AG Keith Ellison and April Ryan in conversation
+
+date: 2025-05-21, from: The Contrarian
+
+"You have to stand up for core basic principles, and you have to do it even if it hurts" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164037196/4253d63139db40c7ceca06a9290f4368.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164037196/4253d63139db40c7ceca06a9290f4368.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/5-years-after-george-floyd-ag-keith>
+
+---
+
+## Why the Black Pope Matters — from New Orleans’ 7th Ward to South Los Angeles and Beyond
+
+date: 2025-05-21, from: Capital and Main
+
+<p>Reports that the new leader of the Catholic Church has mixed African ancestry offer a fascinating antidote to President Trump’s attacks on diversity in America.</p>
+<p>The post <a href="https://capitalandmain.com/why-the-black-pope-matters-from-new-orleans-7th-ward-to-south-los-angeles-and-beyond">Why the Black Pope Matters — from New Orleans’ 7th Ward to South Los Angeles and Beyond</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/why-the-black-pope-matters-from-new-orleans-7th-ward-to-south-los-angeles-and-beyond>
+
+---
+
+## Coffee with The Contrarians 05/21
+
+date: 2025-05-21, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/21 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0521>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-21, from: The Contrarian
+
+Wednesday: Protests in Georgia, Arizona, Washington, and California, a Tesla Takedown, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Eroding the filibuster would come back to bite Republicans
+
+date: 2025-05-21, from: The Contrarian
+
+The GOP won't always be in the majority. Members who want to erode protections might want to remember that. 
+
+<br> 
+
+<https://contrarian.substack.com/p/eroding-the-filibuster-would-come>
 
 ---
 
@@ -140,18 +278,6 @@ Many people have stopped paying attention to the harms. They shouldn't. It's com
 <br> 
 
 <https://contrarian.substack.com/p/dont-lose-sight-of-the-pain-trump>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-20, from: The Contrarian
-
-Tuesday: Protests in Kansas, Illinois, Pennsylvania, Arizona, North Carolina, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
