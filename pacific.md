@@ -1,11 +1,174 @@
 ---
 title: pacific
-updated: 2025-05-22 06:09:22
+updated: 2025-05-22 14:08:32
 ---
 
 # pacific
 
-(date: 2025-05-22 06:09:22)
+(date: 2025-05-22 14:08:32)
+
+---
+
+## United Airlines flight from Honolulu turns back after bomb threat in lavatory
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>A United Airlines flight from Honolulu to Los Angeles returned to the Daniel K. Inouye International Airport early Wednesday morning after a bomb threat was found written on a bathroom mirror.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/hawaii-news/united-airlines-flight-from-honolulu-turns-back-after-bomb-threat-in-lavatory-2/>
+
+---
+
+## Temporary suspension of special salary and compensation adjustments
+
+date: 2025-05-22, from: University of Hawaiʻi News
+
+<p>&#8220;<abbr>UH</abbr> is taking additional proactive steps to preserve our financial stability and ensure that we remain positioned to respond strategically as conditions evolve.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/22/temporary-suspension-of-special-salary-and-compensation-adjustments/">Temporary suspension of special salary and compensation adjustments</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/22/temporary-suspension-of-special-salary-and-compensation-adjustments/>
+
+---
+
+## Kids Close-Up in U.S.
+
+date: 2025-05-22, from: Marshal Islands Journal
+
+<p>Fourteen students and three team leaders from the Marshall Islands departed Majuro on May 15 to participate in a two-week educational exchange program in Washington, DC, New York City, and Philadelphia. The delegation joins peers and educators from across Micronesia and the United States as part of the annual Close-Up Program, a renowned civic education [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kids-close-up-in-u-s/">Kids Close-Up in U.S.</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/kids-close-up-in-u-s/>
+
+---
+
+## GovGuam revenue collections continue to outpace projections
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Government of Guam revenue collections through the "tax month" of April currently remain comfortably higher than GovGuam finance officials "conservative" projections, according to the Consolidated Revenue and Expenditure report or CRER. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/govguam-revenue-collections-continue-to-outpace-projections/article_8ca32683-2b6d-434a-9335-23b85cdc6a20.html>
+
+---
+
+## Bitcoin surges to all-time peak as crypto sentiment improves
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+LONDON/NEW YORK (Reuters) — Bitcoin rose to its highest level on record on Wednesday, eclipsing the previous high from January, as risk sentiment continues to improve after last month's tariff-induced selloff. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/bitcoin-surges-to-all-time-peak-as-crypto-sentiment-improves/article_a92de44f-dd04-40ba-b64e-d1c598ca2131.html>
+
+---
+
+## Chicken Kelaguen Cook-Off, J-Pop at Taste of The Marianas
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+(MVA) — That savory Marianas side dish chicken kelaguen is expected to have mouths watering at the 26th Annual Taste of The Marianas International Food Festival this Saturday, May 24. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/chicken-kelaguen-cook-off-j-pop-at-taste-of-the-marianas/article_22277d50-c6b0-49cf-971a-427bd47703e3.html>
+
+---
+
+## Scarlett Johansson centers Cannes directorial debut on forgiveness
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+CANNES, France (Reuters) —   Award-winning actor Scarlett Johansson's directorial debut at the Cannes Film Festival is a story she hopes will challenge audiences to reconsider their perspectives on forgiveness and empathy, she told Reuters on Wednesday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/scarlett-johansson-centers-cannes-directorial-debut-on-forgiveness/article_04c22732-b7b0-45fa-8488-0b68d52832be.html>
+
+---
+
+## Rota students experience being ‘tourists for a day’
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/rota-students-experience-being-tourists-for-a-day/article_5e307e94-10b9-47cb-8913-b68194c6faf7.html>
+
+---
+
+## Politics. What is it good for?
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+A timeless piece of advice 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/politics-what-is-it-good-for/article_b3e328ba-537f-4997-8c6d-5eb5c4faa33c.html>
+
+---
+
+## Desperate measures in desperate times
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+IN these trying times, and amid Trump’s questionable and unethical behavior, American voters never expected to lose their jobs or to green-light the President’s dismantling of the Constitution, along with the rules and protocols that protect the U.S. and its global interests. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/desperate-measures-in-desperate-times/article_449af495-a336-47d4-92a2-fa0a3832ff5e.html>
+
+---
+
+## Joey's poems
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/joeys-poems/article_363e70a2-6035-409b-8296-53054db4479f.html>
+
+---
+
+## Jodie Foster, in Cannes for new French film, prefers life outside US
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+CANNES, France (Reuters) —Jodie Foster prefers to be outside the United States right now, the Oscar-winning actor told Reuters at the Cannes Film Festival on Wednesday, citing better conditions in Europe's film industry as well as more freedom now that her children have grown up. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/jodie-foster-in-cannes-for-new-french-film-prefers-life-outside-us/article_b4d2e7e8-1897-454d-8359-a6c40bd3eea9.html>
+
+---
+
+## 46th celebrated in Taiwan
+
+date: 2025-05-22, from: Marshal Islands Journal
+
+<p>RMI Ambassador to Taiwan Anjanette Kattil hosted a commemorative reception at the Shangri-La Far Eastern Hotel in Taipei earlier this month to honor the 46th Constitution Day. Taiwan Vice President Hsiao Bi-Khim, and Secretary-General of the National Security Council Joseph Juashieh Wu delivered remarks on behalf of Taiwan, congratulating the RMI on the 46th independence [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/46th-celebrated-in-taiwan/">46th celebrated in Taiwan</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/46th-celebrated-in-taiwan/>
 
 ---
 

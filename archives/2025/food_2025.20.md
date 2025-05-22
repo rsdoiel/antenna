@@ -1,11 +1,151 @@
 ---
 title: food
-updated: 2025-05-22 06:09:29
+updated: 2025-05-22 14:08:38
 ---
 
 # food
 
-(date: 2025-05-22 06:09:29)
+(date: 2025-05-22 14:08:38)
+
+---
+
+## The Most Stylish Cocktail Glasses for All Your Summer Drinking Needs
+
+date: 2025-05-22, from: Bon Appetet
+
+According to a prop stylist and some glassware-obsessed editors. 
+
+<br> 
+
+<https://www.bonappetit.com/story/summerdrinkware>
+
+---
+
+## GreenPan Just Launched a New Line of Hybrid Cookware and It’s Seriously Nonstick
+
+date: 2025-05-22, from: Taste of Home
+
+<p>GreenPan's new line of cookware is seriously nonstick.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/greenpan-spectra-cookware/">GreenPan Just Launched a New Line of Hybrid Cookware and It&#8217;s Seriously Nonstick</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/greenpan-spectra-cookware/>
+
+---
+
+## Ice Cream Has Taken Over Dessert Menus
+
+date: 2025-05-22, from: Bon Appetet
+
+Between slimming margins and shrinking pastry programs, ice cream has become the dessert of choice for a number of buzzy new restaurants. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-ice-cream-desserts-restaurants-2025>
+
+---
+
+## Walmart Just Dropped an Updated Pioneer Woman Collection—And It’s Prettier Than Ever
+
+date: 2025-05-22, from: Taste of Home
+
+<p>Ree Drummond's newest farmhouse designs swap her signature bright florals for soothing palettes and graceful silhouettes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/new-pioneer-woman-collection/">Walmart Just Dropped an Updated Pioneer Woman Collection—And It&#8217;s Prettier Than Ever</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/new-pioneer-woman-collection/>
+
+---
+
+## Tested and Totally Worth It: The Best Memorial Day Sales of 2025
+
+date: 2025-05-22, from: Taste of Home
+
+<p>Spending your holiday weekend shopping? These are the best Memorial Day sales we found in 2025. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-memorial-day-sales-2025/">Tested and Totally Worth It: The Best Memorial Day Sales of 2025</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-memorial-day-sales-2025/>
+
+---
+
+## The Coolest New Products At World Of Coffee Jakarta
+
+date: 2025-05-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Exciting new gear at World of Coffee Jakarta. 
+
+<br> 
+
+<https://sprudge.com/the-coolest-new-products-at-world-of-coffee-jakarta-339444.html>
+
+---
+
+## The New Solo Stove Cooler Has a Feature We’ve Never Seen Before
+
+date: 2025-05-22, from: Taste of Home
+
+<p>This special Solo Stove cooler crushes the product category with a cooler that offers chilly drinks, air conditioning and built-in misters.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/solo-stove-cooler/">The New Solo Stove Cooler Has a Feature We&#8217;ve Never Seen Before</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/solo-stove-cooler/>
+
+---
+
+## Invite Coffee To Your Memorial Day Barbecue Spice Rub
+
+date: 2025-05-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. There's no reason you shouldn't be making your own coffee spice rub. 
+
+<br> 
+
+<https://sprudge.com/invite-coffee-to-your-memorial-day-barbecue-spice-rub-339291.html>
+
+---
+
+## Judy’s Chocolate Chip Banana Bread
+
+date: 2025-05-22, from: Taste of Home
+
+I received this chocolate chip banana bread recipe from my co-worker and dear friend Judy years ago. When she gave it to me she said I'd never need another banana bread recipe. She was almost right. I added more chocolate chips for the chocolate lovers in my family. — Debra Keiser, St. Cloud, Minnesota 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/judys-chocolate-chip-banana-bread/>
+
+---
+
+## Greatest Gazpacho
+
+date: 2025-05-22, from: Bon Appetet
+
+This tangy chilled soup is basically summer in a bowl. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/best-gazpacho-for-summer>
+
+---
+
+## Costa Rica Coffee Report: Production, Planted Area and Farm Numbers Down
+
+date: 2025-05-22, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Costa Rica" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Costa Rica’s coffee production is forecast to decline by 10% in the 2025/26 market year, reaching the equivalent of 1.17 million 60-kilogram bags, according to the latest USDA estimates. The... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/22/costa-rica-coffee-report-production-planted-area-and-farm-numbers-down/>
 
 ---
 
@@ -20,6 +160,18 @@ date: 2025-05-22, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/margot-robbies-favorite-cocktail/>
+
+---
+
+## From Houston to Helsinki, Coffee Raves Help Shop Owners Build a Base
+
+date: 2025-05-22, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee rave" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Call them coffee raves, coffee parties or simply DJ sets, there&#8217;s an international trend happening in coffee shop culture that involves packed rooms, fat bass and drinks aplenty. And... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/22/from-houston-to-helsinki-coffee-raves-help-shop-owners-build-a-base/>
 
 ---
 
@@ -177,7 +329,7 @@ date: 2025-05-21, from: The Sprudge
 
 date: 2025-05-21, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="El Salvador" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>El Salvador’s coffee sector is expected to show modest production gains in the 2025/26 market year, with a forecast of the equivalent of 597,000 60-kilogram bags, up 6.4% from the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="El Salvador" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>El Salvador’s coffee sector is expected to show modest production gains in the 2025/26 market year, with a forecast of the equivalent of 597,000 60-kilogram bags, up 6.4% from the... 
 
 <br> 
 
@@ -189,7 +341,7 @@ date: 2025-05-21, from: Daily Coffee News
 
 date: 2025-05-21, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Development Stage Royal Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After hosting the inaugural Development Stage event in 2024, Oakland, California-based green coffee trader Royal Coffee is planning to drop another batch of speakers and tastings for 2025. Taking place... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Development Stage Royal Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Development-Stage-coffee-event.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>After hosting the inaugural Development Stage event in 2024, Oakland, California-based green coffee trader Royal Coffee is planning to drop another batch of speakers and tastings for 2025. Taking place... 
 
 <br> 
 
@@ -201,7 +353,7 @@ date: 2025-05-21, from: Daily Coffee News
 
 date: 2025-05-21, from: Daily Coffee News
 
-<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-620x387.jpg" class="attachment-large size-large wp-post-image" alt="Jason_Cortellini_1200x900" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-768x480.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900.jpg 1079w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Multinational green coffee production and trading company Volcafe recently tapped Jason Cortellini as regional general manager for North America, effective June 3. A former commodities buyer at companies such... 
+<div><img width="620" height="387" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-620x387.jpg" class="attachment-large size-large wp-post-image" alt="Jason_Cortellini_1200x900" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-620x387.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-300x187.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900-768x480.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Jason_Cortellini_1200x900.jpg 1079w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Multinational green coffee production and trading company Volcafe recently tapped Jason Cortellini as regional general manager for North America, effective June 3. A former commodities buyer at companies such... 
 
 <br> 
 
@@ -258,6 +410,18 @@ date: 2025-05-21, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/technoserve-report-proves-regenerative-agriculture-works-urges-industry-to-invest/>
+
+---
+
+## Lemon Blueberry Cookies
+
+date: 2025-05-21, from: Taste of Home
+
+Soft and citrusy lemon blueberry cookies are easy to prepare and bake quickly, yet still feel out-of-the-ordinary enough to make them a special treat. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lemon-blueberry-cookies/>
 
 ---
 

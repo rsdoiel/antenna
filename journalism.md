@@ -1,11 +1,88 @@
 ---
 title: journalism
-updated: 2025-05-22 06:09:26
+updated: 2025-05-22 14:08:35
 ---
 
 # journalism
 
-(date: 2025-05-22 06:09:26)
+(date: 2025-05-22 14:08:35)
+
+---
+
+## African American Music Ensemble, Old-Time String Band put on spring show
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Community and tradition inspire the performers of the Old-Time String Band and African American Music Ensemble.
+Each class of musical performers has shared its passion for traditional old-time Americana and African American gospel for years. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/african-american-music-ensemble-old-time-string-band-put-on-spring-show/>
+
+---
+
+## Tacos 1986 serves up Tijuana-style tacos, handmade corn tortillas
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+For over half a decade, Tacos 1986 has been serving up Tijuana-style tacos to the Westwood community.
+Nestled on the corner between Kinross and Glendon, about a mile&#8217;s walk from Bruin Plaza, Tacos 1986 offers an array of Mexican food, including their signature tacos, from 8 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/tacos-1986-serves-up-tijuana-style-tacos-handmade-corn-tortillas/>
+
+---
+
+## Editorial Cartoon: “a very special headliner”
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/editorial-cartoon-a-very-special-headliner/>
+
+---
+
+## USAC recap – May 13
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council allocated over $35,000 to student organizations during its Tuesday meeting.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/usac-recap-may-13-2/>
+
+---
+
+## When Science and Health Gets ‘Trumped’
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this special package, the Science and Health team at the Daily Bruin explores how policies and appointments under the Trump administration could influence the research enterprise at UCLA – from climate studies to biomedical innovation to artificial intelligence. 
+
+<br> 
+
+<https://features.dailybruin.com/2025/science-health-24-25/>
+
+---
+
+## The threat of fentanyl continues to plague communities across the nation
+
+date: 2025-05-22, from: The Canyon News (COC Student Newspaper)
+
+<p>Recently, federal authorities announced a record-breaking fentanyl bust – the largest in&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-threat-of-fentanyl-continues-to-plague-communities-across-the-nation/">The threat of fentanyl continues to plague communities across the nation</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/the-threat-of-fentanyl-continues-to-plague-communities-across-the-nation/>
 
 ---
 

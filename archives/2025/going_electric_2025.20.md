@@ -1,11 +1,363 @@
 ---
 title: going electric
-updated: 2025-05-22 06:09:29
+updated: 2025-05-22 14:08:38
 ---
 
 # going electric
 
-(date: 2025-05-22 06:09:29)
+(date: 2025-05-22 14:08:38)
+
+---
+
+## Tesla Model Y compared to ‘Tesla killer’ Xiaomi YU7: it’s not even close
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Model-Y-vs-Xiaomi-YU7.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Here we compare the specs of the new Tesla Model Y (Chinese version) to the newly unveiled Xiaomi YU7, a vehicle dubbed the ‘Tesla killer’.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,xiaomi" data-layer-viewtype="unknown" data-post-id="417362" href="https://electrek.co/2025/05/22/tesla-model-y-compared-to-tesla-killer-xiaomi-yu7/#more-417362" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/tesla-model-y-compared-to-tesla-killer-xiaomi-yu7/>
+
+---
+
+## States and nonprofits sue feds for illegal withholding of $5B in EV charger funds
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/happy-texas-NEVI-fast-charging-station.jpg?quality=82&#038;strip=all&#038;w=1424" /></div><p>California and 16 other states have sued the government for illegally withholding $5 billion in funds that Congress earmarked for EV charging, calling the action “another trump gift to China.”</p>
+
+
+
+<p><em>Update, May 22: </em>After the initial lawsuit was filed on May 7th,<a href="https://earthjustice.org/press/2025/nonprofits-sue-trump-administration-over-illegal-freeze-of-billions-for-electric-vehicle-charging"> a number of nonprofits</a> including Sierra Club, Earthjustice, NRDC, Southern Environmental Law Center, and Plug in America joined the lawsuit today. Also, the Government Accountability Office <a href="https://www.nytimes.com/2025/05/22/us/politics/trump-federal-funds-gao.html">determined today that the seizure of funds was illegal</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,nevi" data-layer-viewtype="unknown" data-post-id="414969" href="https://electrek.co/2025/05/22/ca-and-16-states-sue-feds-for-5b-gift-to-china-withholding-ev-charger-funds/#more-414969" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/ca-and-16-states-sue-feds-for-5b-gift-to-china-withholding-ev-charger-funds/>
+
+---
+
+## Zurich Airport found a smart new way to squeeze out more solar power
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/zurich-airport-solar-wall.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Zurich Airport is testing out an innovative new way to make solar power: vertical solar fences. The Swiss airport, which already uses rooftop solar panels, has now installed upright solar panels on a security fence near its heating facility. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,switzerland" data-layer-viewtype="unknown" data-post-id="417370" href="https://electrek.co/2025/05/22/zurich-airport-solar-power/#more-417370" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/zurich-airport-solar-power/>
+
+---
+
+## Kia’s electric van is going full camper mode: Here’s our first look at the PV5 Conversion
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Kia-PV5-camping-van-7.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/kia-pv5/">PV5</a> is not just any van. For one, it’s built for more than just getting from Point A to Point B. With a fully electric, modular design, Kia will offer the PV5 van in Passenger, Cargo, Freezer Box, and even Light Camper variants. The upcoming “PV5 Conversion” was spotted for the first time, hinting it could be here soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="417352" href="https://electrek.co/2025/05/22/kias-electric-van-going-full-camper-mode-first-look/#more-417352" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/kias-electric-van-going-full-camper-mode-first-look/>
+
+---
+
+## Republican solar cuts raise your electric bill, threaten US energy/AI dominance
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/home-solar.png?w=1400" /></div><p>House republicans passed their tax bill, which promises to <a href="https://electrek.co/2025/05/13/gop-proposes-sending-us-ev-jobs-to-china-giving-money-to-elites-instead/">inflate costs for Americans and channel money from the middle class to billionaires, all while sending jobs to China</a>.</p>
+
+
+
+<p>But that’s not the only bad stuff that’s in the bill – it will also inflate your electricity costs and threaten a recent boom in solar installations that is helping to grow domestic energy production and feed power-hungry data centers for AI.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="solar,inflation-reduction-act,solar-power" data-layer-viewtype="unknown" data-post-id="417351" href="https://electrek.co/2025/05/22/republican-solar-cuts-raise-your-electric-bill-threaten-us-energy-ai-dominance/#more-417351" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/republican-solar-cuts-raise-your-electric-bill-threaten-us-energy-ai-dominance/>
+
+---
+
+## Xiaomi YU7: China's Apple Car Goes SUV To Crush The Tesla Model Y
+
+date: 2025-05-22, from: Inside EVs News
+
+With up to 518 miles of range and Ferrari-like looks, this software-defined electric crossover is gunning right for Tesla. 
+
+<br> 
+
+<https://insideevs.com/news/760467/xiaomi-yu7-debut-china-tesla/>
+
+---
+
+## BMW Is Putting Solid-State Batteries On The Road
+
+date: 2025-05-22, from: Inside EVs News
+
+You can see this first-of-its-kind prototype testing around Munich. But BMW isn’t rushing solid-state batteries into production. 
+
+<br> 
+
+<https://insideevs.com/news/760462/bmw-solid-state-prototype-testing/>
+
+---
+
+## TotalEnergies just went big on solar with its largest project in Europe
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/GUILLENA_PARQUE_SOLAR_CONSTRUCCION.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>TotalEnergies has officially opened its largest solar power installation in Europe, and it’s a big one. The massive solar cluster is located just outside Seville in southern Spain and is made up of five solar farms. Together, they have a total capacity of 263 megawatts (MW) – enough to generate 515 gigawatt-hours (GWh) of clean electricity each year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,spain" data-layer-viewtype="unknown" data-post-id="417339" href="https://electrek.co/2025/05/22/totalenergies-just-went-big-on-solar-with-its-largest-project-in-europe/#more-417339" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/totalenergies-just-went-big-on-solar-with-its-largest-project-in-europe/>
+
+---
+
+## Congress Just Took A Sledgehammer To The EV Industry. Here's What It Means
+
+date: 2025-05-22, from: Inside EVs News
+
+The U.S. House just killed the EV tax credits. The Senate voted to end California's emissions rules. America is about to fall behind. 
+
+<br> 
+
+<https://insideevs.com/news/760459/house-republicans-ira-evs-vote/>
+
+---
+
+## Check out Hyundai’s new robot that will automatically charge your EV
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-robot-EV-charger.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>How much easier can charging get? <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia want to make it effortless with their new robot that automatically charges your EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,robot-charger" data-layer-viewtype="unknown" data-post-id="417310" href="https://electrek.co/2025/05/22/hyundais-new-robot-automatically-charge-your-ev/#more-417310" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/hyundais-new-robot-automatically-charge-your-ev/>
+
+---
+
+## Rad Power’s Memorial Day Sale takes up to $500 off new and legacy e-bikes from $1,299, DJI, Husqvarna, EcoFlow flash sale, more
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rad-Power-Radster-Road-Commuter-e-bike.png?w=1200" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/05/22/rad-power-memorial-day-sale-from-1299/">Rad Power’s Memorial Day Sale</a> which is taking up to $500 off seven e-bikes – four of which are the first discounts we’re seeing on the new lineup of models, like the <a href="https://9to5toys.com/2025/05/22/rad-power-memorial-day-sale-from-1299/">Radster Road Commuter e-bike</a> that is down at <a href="https://9to5toys.com/2025/05/22/rad-power-memorial-day-sale-from-1299/">$1,999</a>. We also spotted <a href="https://9to5toys.com/2025/05/22/dji-power-1000-449/">DJI’s Power 1000 Station</a> dropping to <a href="https://9to5toys.com/2025/05/22/dji-power-1000-449/">$449</a>, as well as <a href="https://9to5toys.com/2025/05/22/husqvarna-power-axe-350i-384-more/">Husqvarna’s Power Axe 350i</a> 18-inch Cordless Electric Chainsaw kit at <a href="https://9to5toys.com/2025/05/22/husqvarna-power-axe-350i-384-more/">$384</a>, with more of the brand’s tools also seeing discounts. Lastly, we have <a href="https://9to5toys.com/2025/05/22/ecoflow-flash-offers-delta-3-plus-649-today/">EcoFlow taking up to 30% off three flash sale offers</a> through the rest of the day, <a href="https://9to5toys.com/2025/05/22/ecoflow-flash-offers-delta-3-plus-649-today/">starting from $649</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s up to 67% discounts during <a href="https://9to5toys.com/2025/05/21/ecoflow-memorial-day-sale-from-50/">EcoFlow’s Memorial Day Sale</a>, the biggest accessory bundle to date on <a href="https://9to5toys.com/2025/05/20/lectric-xp-trike-508-bundle-1499/">Lectric’s XP Trike</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="417322" href="https://electrek.co/2025/05/22/rad-powers-e-bike-memorial-day-sale-dji-husqvarna-ecoflow-more/#more-417322" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/rad-powers-e-bike-memorial-day-sale-dji-husqvarna-ecoflow-more/>
+
+---
+
+## House republicans vote to send US EV jobs to China, give trillions to US elites
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Capitol_Building_Full_View-public-domain-e1713472940371.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>House republicans passed their tax proposal, which kills a slew of tax credits to help working families become more energy efficient, improve US air quality, and boost US manufacturing. The republican bill instead channels that money to wealthy elites, increasing the deficit by trillions of dollars along the way.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="417298" href="https://electrek.co/2025/05/22/house-republicans-vote-to-send-us-ev-jobs-to-china-give-trillions-to-us-elites/#more-417298" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/house-republicans-vote-to-send-us-ev-jobs-to-china-give-trillions-to-us-elites/>
+
+---
+
+## Rivian R2 kicks off real-world validation and even its camo wraps are cooler than everyone else’s
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-wraps-R2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> has shared an exciting update on the progress of the development of its R2 validation builds. The production-intent R2 vehicles will be put through long cycles of harsh real-world conditions and will do so in style. The American automaker showcased its unique R2 wraps today, and these camoed designs are true to the Rivian brand and some of the most creative I’ve ever seen.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="417292" href="https://electrek.co/2025/05/22/rivian-r2s-kicked-off-real-world-validation-camo-wraps/#more-417292" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/rivian-r2s-kicked-off-real-world-validation-camo-wraps/>
+
+---
+
+## Tesla Is Testing An Updated Model S Plaid. So Far, It Looks The Same
+
+date: 2025-05-22, from: Inside EVs News
+
+The company moves pretty slowly when it comes to major refreshes, but the Model S could certainly use one. 
+
+<br> 
+
+<https://insideevs.com/news/760451/tesla-model-s-plaid-refresh-spy-shot/>
+
+---
+
+## GM nabs nearly 15% of new EV sales in the US as Chevy and Cadillac find their groove
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/GM-EV-sales-April-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although fewer electric vehicles were sold in the US last month than in March, several brands saw surprising growth. <a href="https://electrek.co/guides/gm/">GM</a> is starting to chip away at Tesla’s dominant lead, after accounting for nearly 15% of new EV sales in April</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="417259" href="https://electrek.co/2025/05/22/gm-nabs-nearly-15-new-ev-sales-us-april/#more-417259" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/gm-nabs-nearly-15-new-ev-sales-us-april/>
+
+---
+
+## Tesla (TSLA) is badly affected by Trump’s ‘Big Beautiful Bill’ the GOP just passed
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesa-Supercharger-for-all-hero.jpg?quality=82&#038;strip=all&#038;w=1237" /></div><p>The Republicans in Congress have voted for Trump’s ‘Big Beautiful Bill’, which are going to greatly slow down electric vehicles and renewable energy in the US.</p>
+
+
+
+<p>Here’s how the new bill is going to affect Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="417279" href="https://electrek.co/2025/05/22/tesla-tsla-badly-affected-trumps-big-beautiful-bill-gop-passed/#more-417279" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/tesla-tsla-badly-affected-trumps-big-beautiful-bill-gop-passed/>
+
+---
+
+## Xiaomi officially unveils its YU7 SUV and is gunning straight for the Tesla Model Y in China
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Xiaomi-SUV-YU7-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>At last! After plenty of teaser tidbits earlier this week, Chinese smartphone giant and young EV automaker Xiaomi has given us (nearly) all the details of its new YU7 SUV, inside and out, including its official launch plans. Originally described as a direct competitor to the Tesla Model Y, <a href="https://electrek.co/guides/xiaomi-automobile/">Xiaomi</a> did not shy away from several direct comparisons during the YU7’s debut event.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla-model-y,xiaomi,xiaomi-automobile,xiaomi-yu7" data-layer-viewtype="unknown" data-post-id="417258" href="https://electrek.co/2025/05/22/xiaomi-unveils-yu7-suv-gunning-for-tesla-model-y-in-china/#more-417258" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/xiaomi-unveils-yu7-suv-gunning-for-tesla-model-y-in-china/>
+
+---
+
+## Meepo Flow: gorgeous all-purpose cruising e-skateboard for summer fun
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/image_19bfee.png?w=700" /></div><p>At 51 years old, I’m trying not to ruin myself at skate parks anymore<span style="margin: 0px; padding: 0px;">, but I still enjoy riding a long skateboard on short trips or just out and about on a sunny day. Last month, I got to try out the <span style="margin: 0px; padding: 0px;">reasonably-priced <a href="https://shrsl.com/4wdsm" target="_blank">Meepo Flow ($699</a>), </span>a lovely wood-grained, electric longboard with a kicktail. But its standout feature is more about what it isn’t. Let me explain.</span></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-skateboard" data-layer-viewtype="unknown" data-post-id="415564" href="https://electrek.co/2025/05/22/meepo-flow-gorgeous-all-purpose-cruising-e-skateboard-for-summer-fun/#more-415564" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/meepo-flow-gorgeous-all-purpose-cruising-e-skateboard-for-summer-fun/>
+
+---
+
+## Republicans in Congress illegally vote to end clean air rules they can’t actually end
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/349912280_f9839a8826_k-e1734143671371.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Republicans in Congress have voted to use the Congressional Review Act to roll back California’s states’ right to protect its own residents’ lungs and pocketbooks with better pollution rules.</p>
+
+
+
+<p>But here’s the thing: Congress doesn’t <em>have</em> that authority because that’s not how the Congressional Review Act works, so the republican party is once again just letting everyone know that it wants to poison Americans and raise their fuel costs, no matter the legality of doing so.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california" data-layer-viewtype="unknown" data-post-id="417213" href="https://electrek.co/2025/05/22/republicans-in-congress-illegally-vote-to-end-clean-air-rules-they-cant-actually-end/#more-417213" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/republicans-in-congress-illegally-vote-to-end-clean-air-rules-they-cant-actually-end/>
+
+---
+
+## HiPhi financially rescued by Lebanon’s EV Electra, BEV development to resume soon
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/HiPhi-Z-GT-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Remember <a href="https://electrek.co/guides/hiphi/">HiPhi</a>, the ultra-futuristic EV brand led by Human Horizons? It’s been over a year since the company went on a six-month hiatus after failing to find additional funding, but it has reportedly found a savior in a Lebanese investor called EV Electra. EV Electra is taking over a majority stake and plans to resume vehicle development and production in China immediately.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-electra,hiphi,human-horizons" data-layer-viewtype="unknown" data-post-id="417242" href="https://electrek.co/2025/05/22/hiphi-financially-rescued-ev-electra-bev-development-resume/#more-417242" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/hiphi-financially-rescued-ev-electra-bev-development-resume/>
+
+---
+
+## BYD is already taking Europe by storm, and its top-selling EV just landed
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-Dolphin-Surf-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a “watershed moment,” <a href="https://electrek.co/guides/byd/">BYD</a> outsold Tesla in Europe after EV registrations surged over 350% in April. With its top-selling electric car launching this week, this could be just the start.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="417236" href="https://electrek.co/2025/05/22/byd-taking-europe-by-storm-top-selling-ev-just-landed/#more-417236" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/byd-taking-europe-by-storm-top-selling-ev-just-landed/>
+
+---
+
+## A Tesla Executive Just Gave A Brutal Assessment Of Full Self-Driving
+
+date: 2025-05-22, from: Inside EVs News
+
+Plus, VW says one of its EVs will reach cost-parity with ICE cars next year and new vehicle inventory is shrinking rapidly. 
+
+<br> 
+
+<https://insideevs.com/news/760336/tesla-couple-years-behind-waymo/>
 
 ---
 
@@ -426,7 +778,7 @@ China's best-selling EV gets some Europe-specific alterations, including bigger 
 
 date: 2025-05-21, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/2026-Toyota-RAV4_Family_Studio_001-1500x990-1-e1747791633741.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Toyota USA has refreshed its RAV4 for 2026, and, in a significant step forward for efficiency, Toyota has axed the non-hybrid version of the vehicle. The RAV4 will now only be available in HEV and PHEV versions starting in the 2026 model year.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/2026-Toyota-RAV4_Family_Studio_001-1500x990-1-e1747791633741.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Toyota USA has refreshed its RAV4 for 2026, and, in a significant step forward for efficiency, Toyota has axed the non-hybrid version of the vehicle. The RAV4 will now only be available in conventional hybrid and PHEV versions starting in the 2026 model year.</p>
 
 
 
@@ -1034,11 +1386,11 @@ date: 2025-05-19, from: Electrek Feed
 
 ---
 
-## Xiaomi to launch its new YU7 this week as a potential game-changing SUV
+## Xiaomi to unveil its new YU7 this week as a potential game-changing SUV
 
 date: 2025-05-19, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Xiaomi-YU7-SUV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>About one year after first catching wind that EV newcomer <a href="https://electrek.co/guides/xiaomi/">Xiaomi Automobile</a> was working on an SUV we’d come to know as the YU7, the company is finally set to launch the new model in China. This will be a direct competitor to the Tesla Model Y and has the potential to reimagine the all-electric SUV market in China.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Xiaomi-YU7-SUV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>About one year after first catching wind that EV newcomer <a href="https://electrek.co/guides/xiaomi/">Xiaomi Automobile</a> was working on an SUV we’d come to know as the YU7, the company is finally set to officially unveil the new model in China. This will be a direct competitor to the Tesla Model Y and has the potential to reimagine the all-electric SUV market in China.</p>
 
 
 

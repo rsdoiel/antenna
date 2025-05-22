@@ -1,23 +1,178 @@
 ---
 title: socal north
-updated: 2025-05-22 06:09:21
+updated: 2025-05-22 14:08:31
 ---
 
 # socal north
 
-(date: 2025-05-22 06:09:21)
+(date: 2025-05-22 14:08:31)
 
 ---
 
-## LA County to offer more blood tests for lead exposure
+## Ex-deputy LA mayor agrees to pleads guilty to making City Hall bomb threat
 
 date: 2025-05-22, updated: 2025-05-22, from: The LAist
 
-Five months after the Eaton Fire, soil tests show elevated levels of lead and other toxic metals in and around the affected areas. 
+Brian Williams was named deputy mayor in 2023 and oversaw LA's police, fire and other public safety departments. 
 
 <br> 
 
-<https://laist.com/news/health/la-county-eaton-fire-blood-tests-lead-extension>
+<https://laist.com/news/criminal-justice/former-deputy-la-mayor-agrees-to-pleads-guilty-city-hall-bomb-threat>
+
+---
+
+## LA Metro board OKs study for proposed Olympic water taxi service
+
+date: 2025-05-22, from: Longbeach Post
+
+<figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Boats move through the water backdropped by the Downtown Long Beach skyline." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-768x425.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1536x849.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1200x663.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-1568x867.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/05/29160747/AQUALINK_2556-400x221.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Staff will assess routes and costs for a ferry service between Long Beach and San Pedro.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/la-metro-board-oks-study-for-proposed-olympic-water-taxi-service">LA Metro board OKs study for proposed Olympic water taxi service</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/la-metro-board-oks-study-for-proposed-olympic-water-taxi-service>
+
+---
+
+## No more pennies: In big change, Treasury will stop minting them
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+In a cost-cutting move, the U.S. Treasury will stop minting new pennies. Originally introduced in 1793, the one-cent coins will still be legal tender. There are more than 100 billion pennies in circulation. 
+
+<br> 
+
+<https://laist.com/news/no-more-pennies-treasury-will-stop-minting-them>
+
+---
+
+## East LA may get a Municipal Advisory Council. Here’s what that means
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Cityhood may be off the table, but a MAC could give this unincorporated community more influence over how L.A. County governs it. 
+
+<br> 
+
+<https://laist.com/news/politics/east-la-may-get-a-municipal-advisory-council-heres-what-that-means>
+
+---
+
+## The Cube To Host Largest Spring Hockey Cup Tournament Yet!
+
+date: 2025-05-22, from: City of Santa Clarita
+
+<p>The Cube – Ice and Entertainment Center &#124; Powered by FivePoint Valencia, is proud to host the Spring Hockey Cup Tournament from Thursday, May 22 through Monday, May 26. This year marks the tournament’s largest event to date, featuring 47 California teams competing in an impressive 97 games across the NHL, Olympic and Pond rinks. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/05/22/the-cube-to-host-largest-spring-hockey-cup-tournament-yet/">The Cube To Host Largest Spring Hockey Cup Tournament Yet!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/05/22/the-cube-to-host-largest-spring-hockey-cup-tournament-yet/>
+
+---
+
+## LAist’s Nick Gerda named California Journalist of the Year
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Gerda was recognized for his investigative work uncovering the Orange County Supervisor Andrew Do saga. 
+
+<br> 
+
+<https://laist.com/news/laists-nick-gerda-named-california-journalist-of-the-year>
+
+---
+
+## Another casualty of Trump research cuts? California students who want to be scientists
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+At least 24 UC and Cal State campuses lost science research training grants that provided their students with annual stipends of $12,000 or more. 
+
+<br> 
+
+<https://laist.com/news/education/another-casualty-of-trump-research-cuts-california-students-who-want-to-be-scientists>
+
+---
+
+## U.S. Senate blocks California’s electric car mandate in historic vote
+
+date: 2025-05-22, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22103750/092523-ev-fast-charging-event-le-cm-05-498785-9zw9y2ve-137396-kr8au2H9-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22103750/092523-ev-fast-charging-event-le-cm-05-498785-9zw9y2ve-137396-kr8au2H9-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22103750/092523-ev-fast-charging-event-le-cm-05-498785-9zw9y2ve-137396-kr8au2H9-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22103750/092523-ev-fast-charging-event-le-cm-05-498785-9zw9y2ve-137396-kr8au2H9-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22103750/092523-ev-fast-charging-event-le-cm-05-498785-9zw9y2ve-137396-kr8au2H9-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22103750/092523-ev-fast-charging-event-le-cm-05-498785-9zw9y2ve-137396-kr8au2H9-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22103750/092523-ev-fast-charging-event-le-cm-05-498785-9zw9y2ve-137396-kr8au2H9.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Today’s decision could upend California’s phaseout of gas-powered cars and its decades-long battle against air pollution. Some experts say Congress’ move is illegal and is likely to trigger a legal battle.</p>
+<p>The post <a href="https://lbpost.com/news/climate-change/u-s-senate-blocks-californias-electric-car-mandate-in-historic-vote">U.S. Senate blocks California’s electric car mandate in historic vote</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/climate-change/u-s-senate-blocks-californias-electric-car-mandate-in-historic-vote>
+
+---
+
+## Safety is part of a Metro ambassador's job. How did a man facing sex assault charge get hired?
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+The man, now serving four years in prison on a sexual assault conviction, was arrested in his uniform on suspicion of attempting another sexual assault on a woman he allegedly met working at Union Station. 
+
+<br> 
+
+<https://laist.com/news/transportation/transit-ambassador-la-metro-train-fernando-vinicio-chavez>
+
+---
+
+## Judge blocks Trump administration from closing the Education Department
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+The federal judge also told the administration to reinstate department employees who lost their jobs during the reduction-in-force announced in March. 
+
+<br> 
+
+<https://laist.com/news/judge-blocks-administration-from-closing-the-education-department>
+
+---
+
+## Just in time for summer, here are the cleanest and dirtiest beaches in SoCal
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Heal the Bay’s annual beach report card just came out, and the water at the Santa Monica Pier is once again some of the dirtiest along the West Coast. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cleanest-and-dirtiest-beaches-in-socal-2025>
+
+---
+
+## Senate votes to undo California's ban on new gas-only car sales
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+The Senate parliamentarian advised lawmakers that they couldn't use the Congressional Review Act to revoke California's right to set vehicle standards. But they did it anyway. Expect a legal fight. 
+
+<br> 
+
+<https://laist.com/news/politics/senate-overrules-parliamentarian-and-votes-to-undo-california-ev-rule>
+
+---
+
+## Veterans memorial vandalized in Paramount; authorities ask for help finding perpetrators
+
+date: 2025-05-22, from: Longbeach Post
+
+<figure><img width="1024" height="698" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22080224/paramount-memorial-copy-861241-vyky1tdj-103268-Hy4Jtf9e-1024x698.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22080224/paramount-memorial-copy-861241-vyky1tdj-103268-Hy4Jtf9e-1024x698.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22080224/paramount-memorial-copy-861241-vyky1tdj-103268-Hy4Jtf9e-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22080224/paramount-memorial-copy-861241-vyky1tdj-103268-Hy4Jtf9e-768x523.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22080224/paramount-memorial-copy-861241-vyky1tdj-103268-Hy4Jtf9e-158x108.jpg 158w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22080224/paramount-memorial-copy-861241-vyky1tdj-103268-Hy4Jtf9e-400x273.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/22080224/paramount-memorial-copy-861241-vyky1tdj-103268-Hy4Jtf9e.jpg 1118w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"This is a shameful act of disrespect to those who risked their lives protecting our country and freedoms, as this memorial stands as a symbol of honor and their sacrifice," the city said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/crime/veterans-memorial-vandalized-in-paramount-authorities-ask-for-help-finding-perpetrators">Veterans memorial vandalized in Paramount; authorities ask for help finding perpetrators</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/veterans-memorial-vandalized-in-paramount-authorities-ask-for-help-finding-perpetrators>
 
 ---
 
@@ -30,6 +185,18 @@ L.A. Fleet Week, Topanga Days are back, A Doll’s House Part 2 opens at Pasaden
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-memorial-day-weekend-los-angeles-southern-california-may-23-26>
+
+---
+
+## LA County to offer more blood tests for lead exposure
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Five months after the Eaton Fire, soil tests show elevated levels of lead and other toxic metals in and around the affected areas. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-eaton-fire-blood-tests-lead-extension>
 
 ---
 
@@ -49,7 +216,7 @@ Wendt got his start in Chicago's Second City improv comedy troupe. He went on to
 
 date: 2025-05-22, from: Longbeach Post
 
-<figure><img width="1024" height="597" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1024x597.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1024x597.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-300x175.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-768x448.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-185x108.png 185w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1536x896.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1200x700.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1568x914.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-400x233.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0.png 1674w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="597" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1024x597.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1024x597.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-300x175.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-768x448.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-185x108.png 185w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1536x896.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1200x700.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1568x914.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-400x233.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0.png 1674w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>At night, it will be lit by internal LEDs. The City Council approved a $859,625 budget for the project on Tuesday.</p>
 <p>The post <a href="https://lbpost.com/news/business/trade-transportation/fly-long-beach-new-airport-sign-led">12-foot-tall ‘Fly LONG BEACH’ sign to be installed outside Long Beach Airport</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -266,7 +433,7 @@ For the first time, some early education centers have waitlists. But the distric
 
 ## Prosecutors drop a scathing report in the Andrew Do case. Here are 5 damning takeaways
 
-date: 2025-05-21, updated: 2025-05-21, from: The LAist
+date: 2025-05-21, updated: 2025-05-22, from: The LAist
 
 Andrew Do defends his actions in part by saying he didn't vote for the contracts alone — his fellow colleages on the Orange County Board of Supervisors did so, too. 
 

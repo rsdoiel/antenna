@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-05-22 06:09:21
+updated: 2025-05-22 14:08:31
 ---
 
 # north america
 
-(date: 2025-05-22 06:09:21)
+(date: 2025-05-22 14:08:31)
+
+---
+
+## Culture picks for the long weekend
+
+date: 2025-05-22, from: The Contrarian
+
+What to watch, read, and listen to this Memorial Day 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-picks-for-the-long-weekend>
+
+---
+
+## Louisiana's Nottoway fire took us back to when Black Twitter was a time
+
+date: 2025-05-22, from: The Contrarian
+
+Black folk had a big ol&#8217; online party to celebrate the demise of the former sugar plantation where Americans were enslaved. 
+
+<br> 
+
+<https://contrarian.substack.com/p/louisianas-nottoway-fire-took-us>
+
+---
+
+## Good news, bad news
+
+date: 2025-05-22, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/good-news-bad-news>
+
+---
+
+##  Big Tech’s Big, Beautiful Bill 
+
+date: 2025-05-22, from: The Lever News
+
+ The tech industry is boldly asking the White House for favors — including provisions which ended up in Republicans’ budget bill.  
+
+<br> 
+
+<https://www.levernews.com/big-techs-big-beautiful-bill/>
+
+---
+
+## Trump DOJ charges a Democratic congresswoman
+
+date: 2025-05-22, from: The Contrarian
+
+Another abuse of the justice system? 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-doj-charges-a-democratic-congresswoman>
+
+---
+
+## Trump’s cuts to cancer research imperil Joe Biden’s legacy Cancer Moonshot initiative
+
+date: 2025-05-22, from: The Contrarian
+
+The sitting president has gutted cancer research pretty much everywhere he can, with almost no regard to the pain it might inflict on cancer patients and their families. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-cuts-to-cancer-research-imperil>
+
+---
+
+## The Great Food Bank Robbery: Hungry Californians Face Losing Their Daily Bread
+
+date: 2025-05-22, from: Capital and Main
+
+<p>A new landscape of scarcity is threatening even the state’s food basket regions.</p>
+<p>The post <a href="https://capitalandmain.com/the-great-food-bank-robbery-hungry-californians-face-losing-their-daily-bread">The Great Food Bank Robbery: Hungry Californians Face Losing Their Daily Bread</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-great-food-bank-robbery-hungry-californians-face-losing-their-daily-bread>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-22, from: The Contrarian
+
+Thursday: Protests in Washington over the budget bill the House passed this morning (and a reminder to call your member of Congress), plus planning for upcoming protests, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Sorry, Tulsi Gabbard. You can’t polygraph your way out of this.
+
+date: 2025-05-22, from: The Contrarian
+
+My second open letter to the director of national intelligence. 
+
+<br> 
+
+<https://contrarian.substack.com/p/sorry-tulsi-gabbard-you-cant-polygraph>
+
+---
+
+## Coffee ☕️ with The Contrarians 05/22
+
+date: 2025-05-22, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/22 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164159615/e4d66edb6fc02aad04edcdd25cc01cf2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164159615/e4d66edb6fc02aad04edcdd25cc01cf2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarian-0522>
 
 ---
 
@@ -170,18 +294,6 @@ A recording from Coffee with The Contrarians LIVE 05/21
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-the-contrarians-0521>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-21, from: The Contrarian
-
-Wednesday: Protests in Georgia, Arizona, Washington, and California, a Tesla Takedown, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

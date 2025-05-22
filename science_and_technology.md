@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-05-22 06:09:23
+updated: 2025-05-22 14:08:32
 ---
 
 # science and technology
 
-(date: 2025-05-22 06:09:23)
+(date: 2025-05-22 14:08:32)
+
+---
+
+## NASA Astronaut to Answer Questions from Students in Washington State
+
+date: 2025-05-22, from: NASA breaking news
+
+NASA astronaut and Spokane, Washington, native Anne McClain will participate in an event with students from the Mobius Discovery Center located in her hometown. McClain will answer prerecorded questions submitted by students from aboard the International Space Station. Watch the 20-minute Earth-to-space call on the NASA STEM YouTube Channel. The event will take place at [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-washington-state/>
+
+---
+
+## Space Force tech mission threatened by staff and funding black hole
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Budget slashing has &#39;outsized impact&#39; on us, says commander who fears branch not ready for orbital war</h4> <p>The US Space Force has been struggling to achieve its technological goals, and Chief of Space Operations General B. Chance Saltzman told senators this week that civilian layoffs and budget cuts aren&#39;t helping matters at all. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/space_force_tech_mission_threatened/>
+
+---
+
+## Sols 4547-4548: Taking in the View After a Long Drive
+
+date: 2025-05-22, from: NASA breaking news
+
+Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Wednesday, May 21, 2025 Monday’s single-sol plan included a marathon 45-meter drive (about 148 feet), which put us in position for two full sols of imaging. This means both sols have what we call “targeted” science blocks, in which we have images of […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4547-4548-taking-in-the-view-after-a-long-drive/>
+
+---
+
+## Preflight Flower
+
+date: 2025-05-22, from: NASA breaking news
+
+A NASA photographer took this picture of a flower called Borshchov’s tulip near the launch pad at the Baikonur Cosmodrome in Kazakhstan on April 7, 2025, ahead of NASA astronaut Jonny Kim and cosmonauts Sergey Ryzhikov and Alexey Zubritsky launching to the International Space Station. The flower is unique to Kazakhstan, attracting many to study [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/preflight-flower/>
+
+---
+
+## Chinese snoops tried to break into US city utilities, says Talos
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Intrusions began weeks before Trimble patched the Cityworks hole</h4> <p>A suspected Chinese crew has been exploiting a now-patched remote code execution (RCE) flaw in Trimble Cityworks to break into US local government networks and target utility management systems, according to Cisco&#39;s Talos threat intelligence group.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/chinese_crew_us_city_utilities/>
+
+---
+
+## Percolating Clues: NASA Models New Way to Build Planetary Cores
+
+date: 2025-05-22, from: NASA breaking news
+
+A new NASA study reveals a surprising way planetary cores may have formed—one that could reshape how scientists understand the early evolution of rocky planets like Mars. Conducted by a team of early-career scientists and long-time researchers across the Astromaterials Research and Exploration Science (ARES) Division at NASA’s Johnson Space Center in Houston, the study […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/astromaterials/percolating-clues-nasa-models-new-way-to-build-planetary-cores/>
+
+---
+
+## Bain launches datacenter biz for Euros worried about climate change and Trump
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Data sovereignty fears fuel pitch to hyperscalers</h4> <p>Investment biz Bain Capital is getting further into the datacenter sector with the launch of an operation serving hyperscalers in Europe, potentially positioning itself to benefit from customer unease over US hyperscalers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/bain_capital_hscale/>
+
+---
+
+## SAP users grapple with 50% premium for industry-standard service levels
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Vendor&#39;s AI-infused pitch at Sapphire marred by backlash over support costs</h4> <p>News that SAP users face a 30-50 percent premium to get some cloud products – including core ERP – to industry-standard service levels threatens to overshadow the German vendor&#39;s annual conference as new pricing models, performance, and partner arrangements dominate the conversation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/sap_sapphire_costs/>
+
+---
+
+## NASA’s Moffett Federal Airfield Hosts Boeing Digital Taxi Tests
+
+date: 2025-05-22, from: NASA breaking news
+
+New technology tested by an industry partner at NASA’s Ames Research Center in California’s Silicon Valley could improve how commercial planes taxi to and from gates to runways, making operations safer and more efficient on the surfaces of airports. Airport taxiways are busy. Planes come and go while support vehicles provide maintenance, carry fuel, transport [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasas-moffett-federal-airfield-hosts-boeing-digital-taxi-tests/>
+
+---
+
+## Sol 4546: Martian Jenga
+
+date: 2025-05-22, from: NASA breaking news
+
+Written by Michelle Minitti, Planetary Geologist at Framework Earth planning date: Monday, May 19, 2025 Have you ever played the game Jenga, where you remove one wooden block from a stack, gently place it on another part of the stack, then repeat over and over as you try to keep the stack from toppling over? […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sol-4546-martian-jenga/>
+
+---
+
+## Irish privacy watchdog OKs Meta to train AI on EU folks' posts
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Case in Germany could derail Zuck&#39;s plans, noyb tells <i>El Reg</i> fight isn&#39;t over</h4> <p>The Irish Data Protection Commission has cleared the way for Meta to begin slurping up the data of European citizens for training AI next week, ongoing legal challenges notwithstanding. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/irish_data_protection_commission_gives/>
+
+---
+
+## NASA’s Dragonfly Mission Sets Sights on Titan’s Mysteries
+
+date: 2025-05-22, from: NASA breaking news
+
+When it descends through the thick golden haze on Saturn’s moon Titan, NASA’s Dragonfly rotorcraft will find eerily familiar terrain. Dunes wrap around Titan’s equator. Clouds drift across its skies. Rain drizzles. Rivers flow, forming canyons, lakes and seas.  But not everything is as familiar as it seems. At minus 292 degrees Fahrenheit, the dune […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/>
+
+---
+
+## Winners Announced in NASA’s 2025 Gateways to Blue Skies Competition
+
+date: 2025-05-22, from: NASA breaking news
+
+A team from South Dakota State University, with their project titled “Soil Testing and Plant Leaf Extraction Drone” took first place at the 2025 NASA Gateways to Blue Skies Competition, which challenged student teams to research aviation solutions to support U.S. agriculture. The winning project proposed a drone-based soil and tissue sampling process that would [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/winners-2025-gateways-to-blue-skies/>
+
+---
+
+## Graduate Student Solves Classic Problem About the Limits of Addition
+
+date: 2025-05-22, from: Quanta Magazine
+
+A new proof illuminates the hidden patterns that emerge when addition becomes impossible.            <p>The post <a href="https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/" target="_blank">Graduate Student Solves Classic Problem About the Limits of Addition</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/>
+
+---
+
+## Russia expected to pass experimental law that tracks foreigners in Moscow via smartphones
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>4-year trial is second major initiative this year that clamps down on &#39;illegal immigrants&#39;</h4> <p>Foreigners in Moscow will now be subject to a new experimental law that affords the state enhanced tracking mechanisms via a smartphone app.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/russia_expected_to_pass_experimental/>
+
+---
+
+## Neptune OS is Debian made easy but, boy, does it need some housekeeping
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>A media-ready remix with KDE, codecs, and clutter from its BeOS-flavored past</h4> <p>Neptune is a moderately tweaked Debian remix with KDE Plasma 5, a few alternative app choices, and a longer history than we anticipated.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/neptune_os/>
+
+---
+
+## Signal shuts the blinds on Microsoft Recall with the power of DRM
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Chat app blocks Windows&#39; screenshot-happy feature from peeking at private convos</h4> <p>Chat app biz Signal is unhappy with the current version of Microsoft Recall and has invoked some Digital Rights Management (DRM) functionality in Windows to stop the tool from snapshotting private conversations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/signal_microsoft_recall/>
 
 ---
 
@@ -133,7 +337,7 @@ date: 2025-05-21, updated: 2025-05-22, from: The Register (UK I.T. News)
 
 date: 2025-05-21, updated: 2025-05-22, from: The Register (UK I.T. News)
 
-<h4>AT&amp;T, Verizon, T-Mo failed to alert lawmakers about surveillance, senator says</h4> <p>AT&amp;T, Verizon, and T-Mobile US failed to set up systems to notify lawmakers when government snoops came calling for their phone records - a contractual obligation that went ignored until recently, according to US Senator Ron Wyden.…</p> 
+<h4>AT&amp;T, Verizon, T-Mo failed to alert lawmakers about surveillance, senator says</h4> <p><strong>Updated</strong>  AT&amp;T, Verizon, and T-Mobile US failed to set up systems to notify lawmakers when government snoops came calling for their phone records - a contractual obligation that went ignored until recently, according to US Senator Ron Wyden.…</p> 
 
 <br> 
 
@@ -179,7 +383,7 @@ date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
 
 ## Estimating AI energy usage is fiendishly hard – but this report took a shot
 
-date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+date: 2025-05-21, updated: 2025-05-22, from: The Register (UK I.T. News)
 
 <h4>And it gets even harder when you try to estimate CO2 emissions</h4> <p>A single person with a serious AI habit may chew through enough electricity each day to keep a microwave running for more than three hours. And the actual toll may even be worse, as so many companies keep details about their AI models secret.…</p> 
 
@@ -239,7 +443,7 @@ date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
 
 ## Builder.ai coded itself into a corner – now it's bankrupt
 
-date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+date: 2025-05-21, updated: 2025-05-22, from: The Register (UK I.T. News)
 
 <h4>When &#39;AI-powered&#39; means &#39;mostly humans and bad decisions&#39;</h4> <p><strong>Comment</strong>  The collapse of Builder.ai has cast fresh light on AI coding practices, despite the software company blaming its fall from grace on poor historical decision-making.…</p> 
 

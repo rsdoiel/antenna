@@ -1,11 +1,39 @@
 ---
 title: writing
-updated: 2025-05-22 06:09:25
+updated: 2025-05-22 14:08:34
 ---
 
 # writing
 
-(date: 2025-05-22 06:09:25)
+(date: 2025-05-22 14:08:34)
+
+---
+
+## New Books Video for May 20th, 2025 is Live!
+
+date: 2025-05-22, from: Locus Magazine
+
+<p>Welcome back for another New Books video for May 20th, 2025! We&#8217;re going over our picks for the best new releases in the Horror, Scifi, Fantasy, and YA fields! We upload regularly, so come back the YouTube channel and subscribe to keep up-to-date on future releases!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/05/new-books-video-for-may-20th-2025-is-live/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/new-books-video-for-may-20th-2025-is-live/>
+
+---
+
+## The Potency of Ungovernable Impulses by Malka Older: Review by Alexandra Pierce
+
+date: 2025-05-22, from: Locus Magazine
+
+<p><strong>The Potency of Ungovernable Impulses</strong>, Malka Older (Tor 978-0-76538-459-1, $28.99, 256pp, hc) June 2025. Cover by Christine Foltzer.</p>
+<p>In <strong>The Potency of Ungovernable Impulses</strong>, the third Mossa and Pleiti adventure from Malka Older, the pair confront more academic bad behaviour, struggle with their relationship, and deal with consequences of their previous adventures. It’s worth reading the first two books in this series to fully grasp those consequences and  <a href="https://locusmag.com/2025/05/the-potency-of-ungovernable-impulses-by-malka-older-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/the-potency-of-ungovernable-impulses-by-malka-older-review-by-alexandra-pierce/>
 
 ---
 
@@ -83,6 +111,18 @@ Authors Alliance is pleased to announce the availability of research grants of u
 <br> 
 
 <https://www.authorsalliance.org/2025/05/21/knight-foundation-project-update-and-call-for-research-grant-proposals/>
+
+---
+
+## How to Use Scrivener’s Navigate Menu to Access Elements of Your Projects
+
+date: 2025-05-21, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-use-scriveners-navigate-menu-to-access-elements-of-your-projects>
 
 ---
 

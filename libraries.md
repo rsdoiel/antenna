@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-22 06:09:27
+updated: 2025-05-22 14:08:35
 ---
 
 # libraries
 
-(date: 2025-05-22 06:09:27)
+(date: 2025-05-22 14:08:35)
+
+---
+
+## May 2025
+
+date: 2025-05-22, from: Association of Research Libraries News
+
+<p>Last Updated on May 22, 2025, 2:42 pm ET Subscribe to the email version of the Public Policy Briefing. ARL Public Policy Briefing (May 2025) This issue includes: Accessibility CARL...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/may-2025/">May 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/may-2025/>
 
 ---
 
@@ -103,7 +117,7 @@ date: 2025-05-20, from: Scholarly Kitchen
 
 date: 2025-05-19, from: Association of Research Libraries News
 
-<p>Last Updated on May 21, 2025, 4:20 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 20 &#124; Wednesday, May 21 &#124; Thursday,...</p>
+<p>Last Updated on May 22, 2025, 4:54 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 20 &#124; Wednesday, May 21 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-19-22/">Day in Review (May 19–22)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

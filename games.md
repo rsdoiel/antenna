@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-05-22 06:09:26
+updated: 2025-05-22 14:08:34
 ---
 
 # games
 
-(date: 2025-05-22 06:09:26)
+(date: 2025-05-22 14:08:34)
+
+---
+
+## Best Sciel build in Clair Obscur: Expedition 33
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+Sciel is a true heavy-hitter in your Clair Obscur: Expedition 33 party, offering a fairly straightforward way to make number go up compared to her counterparts. While, yes, Lune and Maelle can dish out serious damage, both require some preparatory work to achieve that output, whereas Sciel only requires you to be aware of her [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/600811/best-sciel-build-attributes-skills-weapon-luminas-pictos>
+
+---
+
+## Blue Prince patch will fix PS5 save bug
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+Blue Prince’s PlayStation 5 save file bug is finally over thanks to a new patch Raw Fury released Thursday. Tonda Ros, director and creator of Blue Prince, released patch notes for update 1.04.5, directly addressing a stubborn bug, which, according to the game’s Reddit community, appears around day 100 and prevents players from saving any [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600968/blue-prince-patch-ps5-save-bug>
+
+---
+
+## The dark Pac-Man Metroidvania secretly has what I can only describe as Pac-Man Championship Edition 3 hidden inside of it
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+Bandai Namco’s bold new take on Pac-Man — the 2D action platformer known as Shadow Labyrinth — has a secret: Despite being a grim sci-fi, Metroid-inspired game that looks nothing like a traditional Pac-Man sequel, there’s actual real Pac-Man gameplay in here. A new trailer for Shadow Labyrinth reveals the Maze, a portion of the game that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600899/shadow-labyrinth-pac-man-championship-edition-3-maze>
+
+---
+
+## Ultron announced alongside new team-up attacks as part of Marvel Rivals Season 2.5
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+Ultron has stolen Cerebro from the mutants of Krakoa in Marvel Rivals Season 2.5 story, and has now become a playable character, introducing a new map and a slew of new Team-Up changes. “Ultron is a strategist who can provide consistent healing to his allies,” according to Creative Director Guangguang. He attacks with energy beams [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600880/ultron-announced-alongside-new-team-up-attacks-as-part-of-marvel-rivals-season-2-5>
+
+---
+
+## Fans keep thinking GTA 6 is ripping off the likeness of real people
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+The streets of Grand Theft Auto 6’s Leonida are bustling with all sorts of zany characters who help bring Rockstar’s satire of Florida to life. Typically, this fictional mass of non-playable plebs find a balance between being complete randos and looking realistic enough to be believable. Potentially, you could point to any character in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600834/gta-6-likenesses-florida-joker-cloned-tyrone-rockstar-games>
+
+---
+
+## Lies of P to receive difficulty options when prequel DLC releases
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+While Lies of P is set to receive a big update this year when the prequel DLC Overture arrives, another update will be just as noteworthy: Lies of P is going to receive difficulty options. Meaning, the notoriously difficult soulslike is going to become easier — and more accessible. “We wanted to make sure a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600832/lies-of-p-overture-dlc-difficulty-options>
+
+---
+
+## All Wolf Statue locations and rewards in Doom: The Dark Ages
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+Throwing your shield at demons is the bread and butter of Doom: The Dark Ages. However, Wolf Statues are also valuable targets to aim your shield at. In each chapter of Doom: The Dark Ages, there are many secrets to discover. Maps may hide little toys in underground tunnels or Nightmare skins in platforms that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599982/wolf-statues-locations-where-to-find-all>
+
+---
+
+## Pokémon TCG Pocket unleashes Ultra Beasts in new Extradimensional Crisis packs
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+Following the release of Triumphant Light, The Pokémon Company has announced the fourth themed booster pack for Pokémon: Trading Card Game Pocket, Extradimensional Crisis, introducing Ultra Beasts to the mobile collectible card game. Ultra Beasts, first introduced in the Pokémon Sun and Pokémon Moon video games, are enigmatic creatures from another dimension. They arrive through [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/600812/pokemon-tcg-pocket-ultra-beasts-pack>
+
+---
+
+## Capcom wants you to throw hands as Akuma in Monster Hunter Wilds
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+Monster Hunter Wilds fans have been asking Capcom what a new weapon type for the game would look like, and the company may have an answer: deez hands. Capcom announced Thursday that Monster Hunter Wilds will get a free Akuma layered armor, complete with his moveset, in a Street Fighter 6 collaboration arriving on May [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/600797/monster-hunter-wilds-street-fighter-collab-akuma-armor>
+
+---
+
+## All armor upgrade leaders locations in Doom: The Dark Ages
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+As a super soldier ready to face all kinds of demons, upgrading your armor is crucial if you want to win the war in Doom: The Dark Ages. The upgrade system in Doom: The Dark Ages allows you to not only make your weapons and shield stronger. They can make you an invincible soldier—only if [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/600743/armor-upgrades-leaders-locations-all-where-to-find>
 
 ---
 
@@ -354,18 +474,6 @@ The Super Smash Bros. Melee tournament Full House 2025 finals ended in the most 
 <br> 
 
 <https://www.polygon.com/gaming/600019/smash-bros-melee-player-lost-out-on-2000-after-heartbreaking-pokemon-stadium-glitch>
-
----
-
-## Where to find Wolf Statues in Doom: The Dark Ages
-
-date: 2025-05-19, updated: 2025-05-19, from: Polygon Website
-
-Throwing your shield at demons is the bread and butter of Doom: The Dark Ages. However, Wolf Statues are also valuable targets to aim your shield at. In each chapter of Doom: The Dark Ages, there are many secrets to discover. Maps may hide little toys in underground tunnels or Nightmare skins in platforms that [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/doom-dark-ages-guides/599982/wolf-statues-locations-where-to-find-all>
 
 ---
 

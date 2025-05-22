@@ -1,11 +1,359 @@
 ---
 title: snapshots
-updated: 2025-05-22 06:09:30
+updated: 2025-05-22 14:08:40
 ---
 
 # snapshots
 
-(date: 2025-05-22 06:09:30)
+(date: 2025-05-22 14:08:40)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-22, from: Dave Winer's linkblog)
+
+Republicans are planning to secretly blow up the filibuster. 
+
+<br> 
+
+<https://slate.com/news-and-politics/2025/05/republicans-kill-filibuster-senate-trump.html?pay=1747943006282&support_journalism=please>
+
+---
+
+## Agents are models using tools in a loop
+
+date: 2025-05-22, updated: 2025-05-22, from: Simon Willison’s Weblog
+
+<p>I was going slightly spare at the fact that every talk at this Anthropic developer conference has used the word "agents" dozens of times, but nobody ever stopped to provide a useful definition.</p>
+<p>I'm now in the "Prompting for Agents" workshop and Anthropic's Hannah Moran finally broke the trend by saying that at Anthropic:</p>
+<blockquote>
+<p>Agents are models using tools in a loop</p>
+</blockquote>
+<p>I can live with that! I'm glad someone finally said it out loud.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/22/tools-in-a-loop/#atom-everything>
+
+---
+
+## Shutting Down Pocket
+
+date: 2025-05-22, from: Michael Tsai
+
+Peter Steinberger (in February): Is Pocket dead? Extension isn&#8217;t updated anymore. Mozilla (Hacker News): Pocket will no longer be available after July 8, 2025. You can continue using the app and browser extensions until this date. After July 8, Pocket will move into export-only mode. Users can export saves anytime until October 8, 2025, after [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/22/shutting-down-pocket/>
+
+---
+
+## Microsoft Supports Epic Against Apple’s Appeal
+
+date: 2025-05-22, from: Michael Tsai
+
+Tom Warren: A year ago Xbox president Sarah Bond revealed that Microsoft was planning to launch a new Xbox mobile web store in July 2024. That never happened. I&#8217;ve been wondering what the hold up has been over the past year, and it seems we might have an answer: Apple.Microsoft filed an amicus brief late [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/22/microsoft-supports-epic-against-apples-appeal/>
+
+---
+
+## Unable to Update Virtualized macOS
+
+date: 2025-05-22, from: Michael Tsai
+
+Howard Oakley: I have since tried updating my 15.3.2 VM to 15.4.1 on the M4 Pro, a surprisingly large update of over 6 GB, and that continues to result in a kernel panic and failure. I have also tried updating from 15.1 to 15.4.1 with an extraordinarily large download of more than 15 GB, only [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/22/unable-to-update-virtualized-macos/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-22, from: Dave Winer's linkblog)
+
+Trump Admin Revokes Harvard’s Authorization To Enroll International Students. 
+
+<br> 
+
+<https://www.thecrimson.com/article/2025/5/23/trump-admin-revokes-sevp/>
+
+---
+
+## Updated Anthropic model comparison table
+
+date: 2025-05-22, updated: 2025-05-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://docs.anthropic.com/en/docs/about-claude/models/overview#model-comparison-table">Updated Anthropic model comparison table</a></strong></p>
+A few details in here about Claude 4 that I hadn't spotted elsewhere:</p>
+<ol>
+<li>The training cut-off date for Claude Opus 4 and Claude Sonnet 4 is March 2025! That's the most recent cut-off for any of the current popular models, really impressive.</li>
+<li>Opus 4 has a max output of 32,000 tokens, Sonnet 4 has a max output of 64,000 tokens. Claude 3.7 Sonnet is 64,000 tokens too, so this is a small regression for Opus.</li>
+<li>The input limit for both of the Claude 4 models is still stuck at 200,000. I'm disjointed by this, I was hoping for a leap to a million to catch up with GPT 4.1 and the Gemini Pro series.</li>
+<li>Claude 3 Haiku is still in that table - it remains Anthropic's cheapest model, priced slightly lower than Claude 3.5 Haiku.</li>
+</ol>
+<p>For pricing: Sonnet 4 is the same price as Sonnet 3.7 ($3/million input, $15/million output). Opus 4 matches the pricing of the older Opus 3 - $15/million for input and $75/million for output. I've updated <a href="https://www.llm-prices.com/">llm-prices.com</a> with the new models.</p>
+<p>I spotted a few more interesting details in Anthropic's <a href="https://docs.anthropic.com/en/docs/about-claude/models/migrating-to-claude-4">Migrating to Claude 4</a> documentation:</p>
+<blockquote>
+<p>Claude 4 models introduce a new <code>refusal</code> stop reason for content that the model declines to generate for safety reasons, due to the increased intelligence of Claude 4 models.</p>
+</blockquote>
+<p>Plus this note on the new <a href="https://docs.anthropic.com/en/docs/about-claude/models/migrating-to-claude-4#summarized-thinking">summarized thinking</a> feature:</p>
+<blockquote>
+<p>With extended thinking enabled, the Messages API for Claude 4 models returns a summary of Claude’s full thinking process. Summarized thinking provides the full intelligence benefits of extended thinking, while preventing misuse.</p>
+<p>While the API is consistent across Claude 3.7 and 4 models, streaming responses for extended thinking might return in a “chunky” delivery pattern, with possible delays between streaming events.</p>
+<p><em>Summarization is processed by a different model than the one you target in your requests. The thinking model does not see the summarized output.</em></p>
+</blockquote>
+<p>There's a new beta header, <code>interleaved-thinking-2025-05-14</code>, which turns on the "interleaved thinking" feature where tools can be called as part of the chain-of-thought. More details on that <a href="https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking#interleaved-thinking">in the interleaved thinking</a> documentation.</p>
+<p>This is <a href="https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking#summarized-thinking">a frustrating note</a>:</p>
+<blockquote>
+<ul>
+<li>You’re charged for the full thinking tokens generated by the original request, not the summary tokens.</li>
+<li>The billed output token count will <strong>not match</strong> the count of tokens you see in the response.</li>
+</ul>
+</blockquote>
+<p>I initially misread that second bullet as meaning we would no longer be able to estimate costs based on the return token counts, but it's just warning us that we might see an output token integer that doesn't exactly match the visible tokens that were returned in the API.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/22/updated-anthropic-models/#atom-everything>
+
+---
+
+## Pocket, One of the Only Apps I Ever Liked, Is Shutting Down
+
+date: 2025-05-22, from: 404 Media Group
+
+Pocket, the app for saving articles to read later, announced it is shutting down on July 8. 
+
+<br> 
+
+<https://www.404media.co/pocket-app-shutting-down-mozilla/>
+
+---
+
+## llm-anthropic 0.16
+
+date: 2025-05-22, updated: 2025-05-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-anthropic/releases/0.16">llm-anthropic 0.16</a></strong></p>
+New release of my LLM plugin for Anthropic adding the new Claude 4 Opus and Sonnet models.</p>
+<p>You can see pelicans on bicycles generated using the new plugin at the bottom of <a href="https://simonwillison.net/2025/May/22/code-with-claude-live-blog/">my live blog</a> covering the release.</p>
+<p>I also released <a href="https://github.com/simonw/llm-anthropic/releases/0.16a1">llm-anthropic 0.16a1</a> which works with <a href="https://simonwillison.net/2025/May/14/llm-adds-support-for-tools/">the latest LLM alpha</a> and provides tool usage feature on top of the Claude models.</p>
+<p>The new models can be accessed using both their official model ID and the aliases I've set for them in the plugin:</p>
+<pre><code>llm install -U llm-anthropic
+llm keys set anthropic
+# paste key here
+llm -m anthropic/claude-sonnet-4-0 \
+  'Generate an SVG of a pelican riding a bicycle'
+</code></pre>
+<p>This uses the full model ID - <code>anthropic/claude-sonnet-4-0</code>.</p>
+<p>I've also setup aliases <code>claude-4-sonnet</code> and <code>claude-4-opus</code>. These are notably different from the official Anthropic names - I'm sticking with their previous naming scheme of <code>claude-VERSION-VARIANT</code> as seen with <code>claude-3.7-sonnet</code>.</p>
+<p>Here's an example that uses the new alpha tool feature with the new Opus:</p>
+<pre><code>llm install llm-anthropic==0.16a1
+llm --functions '                                                               
+def multiply(a: int, b: int):
+    return a * b
+' '234324 * 2343243' --td -m claude-4-opus
+</code></pre>
+<p>Outputs:</p>
+<pre><code>I'll multiply those two numbers for you.
+Tool call: multiply({'a': 234324, 'b': 2343243})
+  549078072732
+The result of 234,324 × 2,343,243 is **549,078,072,732**.
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/cbe9fdb51ffd4ac01f8e4192dce0bdb9">the output of llm logs -c</a> from that tool-enabled prompt response. More on tool calling in <a href="https://building-with-llms-pycon-2025.readthedocs.io/en/latest/tools.html">my recent workshop</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/22/llm-anthropic-016/#atom-everything>
+
+---
+
+## The ASK Approach
+
+date: 2025-05-22, from: Guy Kawasaki blog
+
+Jeff Wetzler on the questions that drive innovation 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-ask-approach>
+
+---
+
+## GMK introduces EVO-T1 mini PC with Intel Core Ultra 9 285H Arrow Lake
+
+date: 2025-05-22, from: Liliputing
+
+<p>The GMK EVO-T1 is a compact desktop computer with an Intel Core Ultra 9 285H Arrow Lake 16-core, 24-thread processor with Intel Arc 140T integrated graphics,  OCuLink, USB4, and dual Ethernet ports, and support for up to four displays. GMK hasn&#8217;t announced pricing or availability details yet, but the company sent us a press release with [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gmk-introduces-evo-t1-mini-pc-with-intel-core-ultra-9-285h-arrow-lake/">GMK introduces EVO-T1 mini PC with Intel Core Ultra 9 285H Arrow Lake</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gmk-introduces-evo-t1-mini-pc-with-intel-core-ultra-9-285h-arrow-lake/>
+
+---
+
+## The “AI 2027” Scenario: How realistic is it?
+
+date: 2025-05-22, from: Gary Marcus blog
+
+Everyone&#8217;s been talking about it. JD Vance read it. What does it actually tell us? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic>
+
+---
+
+## They Think They’re People
+
+date: 2025-05-22, updated: 2025-05-22, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/22/they-think-theyre-people/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-22, from: Dave Winer's linkblog)
+
+Sounds like stuff we were doing with Frontier on the Mac in the early 90s. Scriptable apps. That&#39;s what &quot;agents&quot; are? 
+
+<br> 
+
+<https://www.exponentialview.co/p/claude-4-the-first-universal-assistant>
+
+---
+
+## HackBerryPi CM5 is an open source, Raspberry Pi-powered handheld PC with a BlackBerry keyboard
+
+date: 2025-05-22, from: Liliputing
+
+<p>The HackBerryPiCM5 is a handheld computer with a 4 inch, 720 x 720 pixel touchscreen display, a repurposed BlackBerry keyboard, and and a Raspberry Pi Compute Module 5 inside, allowing you to use the device as a portable Linux computer. It&#8217;s the latest line of open source, Raspberry Pi + BlackBerry handhelds from ZitaoTech. While [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/hackberrypi-cm5-is-an-open-source-raspberry-pi-powered-handheld-pc-with-a-blackberry-keyboard/">HackBerryPi CM5 is an open source, Raspberry Pi-powered handheld PC with a BlackBerry keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/hackberrypi-cm5-is-an-open-source-raspberry-pi-powered-handheld-pc-with-a-blackberry-keyboard/>
+
+---
+
+## Pecadores: recuerdo de un ocaso
+
+date: 2025-05-22, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Los vampiros sí existen; tal vez no como aquellas criaturas atractivas de la literatura y el cine que consumen sangre para sobrevivir, pero sí como esas que satisfacen sus excesos a través del abuso cultural y financiero. Pecadores, de Ryan Coogler, supera su desempeño como pieza de entretenimiento al ofrecer una saga de vampiros explotadores [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/pecadores-recuerdo-de-un-ocaso/">Pecadores: recuerdo de un ocaso</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/pecadores-recuerdo-de-un-ocaso/?utm_source=rss&utm_medium=rss&utm_campaign=pecadores-recuerdo-de-un-ocaso>
+
+---
+
+## Thermalright introduces liquid-cooled mini PCs with AMD Strix Halo
+
+date: 2025-05-22, from: Liliputing
+
+<p>AMD&#8217;s Ryzen AI Max+ 395 &#8220;Strix Halo&#8221; processor is some of the highest-performance mobile chips available today, with a 12-core, 24-thread CPU based on Zen 5 architecture, Radeon 8060S integrated graphics with a 40-core RDNA 3.5 GPU, and an NPU that delivers up to 50 TOPS of AI performance. While you can put that chip in [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/thermalright-introduces-liquid-cooled-mini-pcs-with-amd-strix-halo/">Thermalright introduces liquid-cooled mini PCs with AMD Strix Halo</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/thermalright-introduces-liquid-cooled-mini-pcs-with-amd-strix-halo/>
+
+---
+
+## Live blog: Claude 4 launch at Code with Claude
+
+date: 2025-05-22, updated: 2025-05-22, from: Simon Willison’s Weblog
+
+<p>I'm at Anthropic's Code with Claude event, where they are launching Claude 4. I'll be live blogging the keynote here.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/liveblogging">liveblogging</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/22/code-with-claude-live-blog/#atom-everything>
+
+---
+
+## The Era of False Teeth for the Masses
+
+date: 2025-05-22, from: National Archives, Text Message blog
+
+Today&#8217;s post was written by Ruth Chan, Archivist at the National Archives at San Francisco. The mid-19th century became known as the “era of false teeth for the masses.” Why? This was thanks to Charles Goodyear’s invention on vulcanized rubber &#8211; which was improved by his brother, Nelson &#8211; and Dr. John A. Cummings’ patent &#8230; <a href="https://text-message.blogs.archives.gov/2025/05/22/the-era-of-false-teeth-for-the-masses/" class="more-link">Continue reading <span class="screen-reader-text">The Era of False Teeth for the Masses</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/05/22/the-era-of-false-teeth-for-the-masses/>
+
+---
+
+## How Big Tech Exploits Apps to Circumvent Privacy Laws & a Solution from Purism
+
+date: 2025-05-22, from: Purism News and Events
+
+<p>Despite the promises of robust privacy laws like Europe’s GDPR and California’s CCPA/CPRA, Big Tech continues to push the envelope when it comes to data collection. This is especially the case with regard to mobile applications. Big Tech takes advantage of a powerful loophole: apps operate as closed surveillance ecosystems where aggressive and wide-ranging Terms [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/how-big-tech-exploits-apps-to-circumvent-privacy-laws-a-solution-from-purism/">How Big Tech Exploits Apps to Circumvent Privacy Laws &#038; a Solution from Purism</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/how-big-tech-exploits-apps-to-circumvent-privacy-laws-a-solution-from-purism/>
+
+---
+
+## Cross-Border Data Processing with Privacy Compliance Through Bacalhau
+
+date: 2025-05-22, from: Bacalhau Blog
+
+Usign Bacalhau to handle complex data pipelines that cross borders while preserving privacy 
+
+<br> 
+
+<https://blog.bacalhau.org/p/cross-border-data-processing-with>
+
+---
+
+## A brief history of JavaScript
+
+date: 2025-05-22, updated: 2025-05-22, from: Deno blog
+
+In 30 years, JavaScript went from being a little scripting language to one of the world's most popular. Here are key moments to show how it has evolved and where it is headed. 
+
+<br> 
+
+<https://deno.com/blog/history-of-javascript>
+
+---
+
+## Hacker Conference HOPE Says U.S. Immigration Crackdown Caused Massive Crash in Ticket Sales
+
+date: 2025-05-22, from: 404 Media Group
+
+One scheduled speaker has also pulled out of the New York-based event and specifically pointed to Trump’s mass deportation efforts. 
+
+<br> 
+
+<https://www.404media.co/hacker-conference-hope-says-fewer-people-buying-tickets-because-u-s-immigration-crackdown/>
 
 ---
 
@@ -40,6 +388,126 @@ What happens if investors lose faith in America?
 <br> 
 
 <https://paulkrugman.substack.com/p/gaming-out-a-sudden-stop>
+
+---
+
+## Rules for Robots
+
+date: 2025-05-22, from: Ed Summers blog, Inkdroid
+
+<figure>
+<p>
+<a href="https://commons.wikimedia.org/wiki/File:Smilodon_and_Canis_dirus.jpg">
+<img class="img-fluid" src="/images/tarpit.jpg"> </a>
+</p>
+<figcaption>
+A fight in the La Brea Tar Pits (from
+<a href="https://commons.wikimedia.org/wiki/File:Smilodon_and_Canis_dirus.jpg">Wikipedia</a>)
+</figcaption>
+</figure>
+<p>
+With the bot swarms descending to <a
+href="https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/">ransack</a>
+websites for every scrap of text they can get in the attempt to improve
+their ever-larger-language-models we’ve started to see the emergence of
+tools for trapping them in an endless maze of text. The explicit goal of
+these tools is to make the bots waste time and energy making their
+models (ultimately) worse.
+</p>
+<p>
+Some examples of these tools include Cloudflare’s <a
+href="https://blog.cloudflare.com/ai-labyrinth/">AI Labyrinth</a>
+service as well as the open source software <a
+href="https://zadzmo.org/code/nepenthes/">Nepenthes</a>, <a
+href="https://git.jsbarretto.com/zesterer/babble">Babble</a>, <a
+href="https://codeberg.org/reed/gabble">Gabble</a>. They take different
+approaches to generating the maze of hyperlinked trash. Sometimes the
+site can be pre-generated, as is the case with AI Labyrinth, which saves
+on the energy usage since the content isn’t being recomputed. Or the
+content can be generated on demand, like Babble and Gabble do, using <a
+href="https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf">resource
+efficient compiled languages</a> (Rust and Go respectively). Nepenthes
+uses Lua, which I believe is more efficient than other interpreted
+language like Python or Ruby, but maybe not as much as a well written
+program in a compiled language. I’m not sure, but perhaps that’s why
+Babble and Gabble got written.
+</p>
+<p>
+At any rate, no matter how these mazes are generated, the sites are
+often called <a
+href="https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/">tarpits</a>
+because of how the bots get snarled up in them.
+</p>
+<p>
+One interesting dimension to this is what to put in the tarpit’s
+<code>robots.txt</code>, or whether to even have one at all. The <a
+href="https://en.wikipedia.org/wiki/Robots.txt">Robots Exclusion
+Protocol</a> is a simple text file you put at the root of your website.
+When crawling a website, a well behaved robot will read it to determine
+what parts of the website the website owner wants to be crawled, and by
+whom (which bots).
+</p>
+<p>
+Part of the problem is that ill-behaved robots, like the ones
+aggressively crawling websites (using botnets <a
+href="https://jan.wildeboer.net/2025/02/Blocking-Stealthy-Botnets/">running
+off of infected phones</a>, etc) have zero interest in looking at a
+<code>robots.txt</code>, let alone parsing it in order to determine what
+to crawl. They are programmed to take anything and everything they can
+find.
+</p>
+<p>
+So if they aren’t going to look at it why does it matter what you put in
+a tarpit’s <code>robots.txt</code>?
+</p>
+<p>
+<strong>If you care about website owners being able to decide how they
+want their content to be crawled and used it’s really important for a
+tarpit’s <code>robots.txt</code> to tell bots to <em>go
+away</em>.</strong>
+</p>
+<pre class="text"><code>User-agent: *
+Disallow: /</code></pre>
+<p>
+<em>Note: the slash is really important because if it’s not there it
+says the opposite–that everyone is allowed in.</em>
+</p>
+<p>
+Part of the rationale here is that there are well-behaved bots that read
+the <code>robots.txt</code>, in order to generate search indexes,
+archive web content, and do other generally useful things. In the
+interests of a healthy web ecosystem it’s a good idea to warn them away
+from tarpits.
+</p>
+<p>
+But the most important reason for this is that, given enough tarpits, it
+will be in the interests of bot creators to modify their software to
+read and respect the <code>robots.txt</code> so they don’t get stuck in
+a maze of hypertrash. I was <a
+href="https://mstdn.science/@dryak/114541881600634649">reminded</a> of
+this subtle technique recently by Ivan Topolsky, who pointed out that
+this was an approach taken <a
+href="https://www.virusbulletin.com/virusbulletin/2007/09/fighting-spam-using-tar-pits/">decades
+ago</a> to try to trap bots scraping the web for email addresses.
+</p>
+<p>
+I guess if you are one of those people that have a problem with
+plagiarism machines more generally, even ones that <em>do</em> respect
+<code>robots.txt</code>, you may want to explicitly allow those in. This
+would be kind of like the inverse of the <a
+href="https://github.com/ai-robots-txt/ai.robots.txt#readme">ai.robots.txt</a>
+list.
+</p>
+<p>
+Who knows whether it will work or not, but I thought it was interesting
+that rules can be important even when they aren’t being followed by
+everyone.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/05/22/tarpit/>
 
 ---
 

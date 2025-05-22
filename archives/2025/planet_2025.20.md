@@ -1,11 +1,251 @@
 ---
 title: planet
-updated: 2025-05-22 06:09:20
+updated: 2025-05-22 14:08:29
 ---
 
 # planet
 
-(date: 2025-05-22 06:09:20)
+(date: 2025-05-22 14:08:29)
+
+---
+
+## Green light for wearing of shorts after congress vote
+
+date: 2025-05-22, from: RTÉ News
+
+Following a special congress at Croke Park, the Camogie Association has voted in favour of allowing shorts to become part of the official kit for the code. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0522/1514364-green-light-for-wearing-of-shorts-after-congress-vote/>
+
+---
+
+## US govt blocks Harvard's right to enroll foreign students
+
+date: 2025-05-22, from: RTÉ News
+
+Donald Trump's administration has revoked Harvard's right to enroll international students - more than a quarter of its annual enrollment - in a major escalation of the president's fight with one of the world's most storied universities. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0522/1514434-harvard-students/>
+
+---
+
+## Temperatures soar to dangerous levels in southern Iraq
+
+date: 2025-05-22, from: RTÉ News
+
+Temperatures have reached dangerous levels in Iraq's southern provinces, according to the national weather centre. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0522/1514394-iraq-weather/>
+
+---
+
+## Committee concerned over timeline on Triple Lock bill
+
+date: 2025-05-22, from: RTÉ News
+
+The Oireachtas committee examining the proposed law to remove the Triple Lock has written to Minister for Defence Simon Harris expressing concerns over the timeline for it to complete its scrutiny of the bill. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0522/1514425-oireachtas-committee-triple-lock/>
+
+---
+
+## UK agrees deal over Chagos Islands despite court action
+
+date: 2025-05-22, from: RTÉ News
+
+British Prime Minister Keir Starmer has announced that he had signed a contentious deal to return the remote Chagos Islands to Mauritius after a judge overturned a last-minute legal challenge. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0522/1514418-chagos-islands-uk/>
+
+---
+
+## Gardaí sifted through ashes at Puska home, trial hears
+
+date: 2025-05-22, from: RTÉ News
+
+The trial of four of Jozef Puska's family members, who are accused of withholding information, has heard how gardaí sifted through ashes in the fireplace at his home looking for evidence the clothes he wore when he murdered Ashling Murphy had been burned. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0522/1514413-gardai-puska-trial/>
+
+---
+
+## Kid Cudi testifies Sean 'Diddy' Combs broke into house
+
+date: 2025-05-22, from: RTÉ News
+
+Rapper Scott "Kid Cudi" Mescudi has testified at Sean "Diddy" Combs' sex trafficking trial that the hip-hop mogul broke into his home in 2011 after discovering Mr Mescudi was dating his on-and-off girlfriend Casandra Ventura. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0522/1514402-diddy-trial/>
+
+---
+
+## Independent sector to produce mass, services on RTÉ
+
+date: 2025-05-22, from: RTÉ News
+
+RTÉ has launched a commissioning process that will see all of its Christian worship content produced in the independent sector. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514392-rte-mass/>
+
+---
+
+## On a wing and a prayer: Turtle on flight home after rehab
+
+date: 2025-05-22, from: RTÉ News
+
+An endangered sea turtle, that washed up on Ireland's shores last Christmas in ill health, is being flown to Gran Canaria where she will be released back into the wild - and warmer - waters of her natural habitat. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514377-sea-turtle-flight/>
+
+---
+
+## Suspended sentence for man found with 954 abuse images
+
+date: 2025-05-22, from: RTÉ News
+
+A man found in possession of over 900 images of child sexual abuse told gardaí that it became a challenge to access this material. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0522/1514378-child-abuse-images/>
+
+---
+
+## News from the Orient - May 22, 2025
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>In this week's News from the Orient, produced in collaboration with L'Œuvre d'Orient: 1700th anniversary of Council of Nicaea, Eastern Churches welcome Pope Leo XIV, and Monsignor Gollnisch honoured in Armenia.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/news-from-the-orient-may-22-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/news-from-the-orient-may-22-2025.html>
+
+---
+
+## Three new Venerables: two missionaries in Ecuador and one Indian bishop
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>Pope Leo XIV authorizes the promulgation of various decrees for three Servants of God: Colombian Sister Agnese Arango Velásquez, Indian Bishop Matthew Makil, and Spanish Bishop Alessandro Labaka Ugarte.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/three-people-now-one-step-closer-to-beatification.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/three-people-now-one-step-closer-to-beatification.html>
+
+---
+
+## Worker has WRC claims thrown out after she turned up late
+
+date: 2025-05-22, from: RTÉ News
+
+The Workplace Relations Commission has thrown out multiple employment rights claims by a worker at a community probation service because she turned up half an hour late for her hearing before an adjudication officer last month. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0522/1514370-worker-has-claims-thrown-out-because-she-turnen-up-late/>
+
+---
+
+## Two killed after plane crashes onto street in US
+
+date: 2025-05-22, from: RTÉ News
+
+Two people died and multiple others were injured when a private jet crashed into military housing in San Diego during foggy weather, igniting cars parked along a suburban neighbourhood block, authorities said 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0522/1514362-plane-crash-us/>
+
+---
+
+## Richard Satchwell was obsessed with his wife, court told
+
+date: 2025-05-22, from: RTÉ News
+
+The Central Criminal Court has been told Richard Satchwell was controlling and odd with his wife, Tina. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0522/1514357-richard-satchwell-court/>
+
+---
+
+## 112 jobs at risk at Liberty Mutual Insurance
+
+date: 2025-05-22, from: RTÉ News
+
+US company Liberty Mutual Insurance said it has entered a consultation period with 112 employees across the island of Ireland which may result in redundancies. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0522/1514353-112-jobs-at-risk-at-liberty-mutual-insurance/>
+
+---
+
+## Court told action an attempt to launder Adams' reputation
+
+date: 2025-05-22, from: RTÉ News
+
+Lawyers for the BBC have told the High Court that a defamation action by former Sinn Féin leader Gerry Adams is a cynical attempt to launder his reputation. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0522/1514350-gerry-adams-case/>
+
+---
+
+## Judge allows lawsuit alleging AI chatbot pushed Florida teen to kill himself to proceed
+
+date: 2025-05-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7541031.1747929664!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/florida-chatbot-lawsuit.jpg' alt='A boy and a woman stand with their arms around each other, smiling' width='620' height='349' title='In this undated photo provided by Megan Garcia of Florida in October 2024, she stands with her son, Sewell Setzer III.'/><p>A federal judge on Wednesday rejected arguments made by an artificial intelligence company that its chatbots are protected by the First Amendment — at least for now.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ai-lawsuit-teen-suicide-1.7540986?cmp=rss>
+
+---
+
+## Congolese layperson Floribert Bwana Chui to be beatified in Rome on 15 June 2025
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>“Recognised as a martyr of honesty and moral integrity,” Floribert Bwana Chui Bin Kositi will be beatified on Sunday, 15 June 2025, in Rome, at the Basilica of Saint Paul Outside the Walls, during the Solemnity of the Holy Trinity. In announcing this “joyful event,” the Bishop of Goma, Bishop Willy Ngumbi M. Afr., indicated that the location and date were communicated by the Dicastery for the Causes of Saints.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/congolese-layperson-floribert-bwana-chui-to-be-beatified-in-rome.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/congolese-layperson-floribert-bwana-chui-to-be-beatified-in-rome.html>
 
 ---
 
@@ -18,6 +258,18 @@ A priest at the only Roman Catholic parish in Gaza has said there has been no br
 <br> 
 
 <https://www.rte.ie/news/world/2025/0522/1514344-gaza-priest/>
+
+---
+
+## No bread and the flour has 'worms', says priest in Gaza
+
+date: 2025-05-22, from: RTÉ News
+
+A priest at the only Roman Catholic parish in Gaza has said there has been no bread for many weeks and what little flour there is contains "worms". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0522/1514344-gaza-priest/>
 
 ---
 
@@ -61,6 +313,66 @@ UN agencies in Gaza confirmed on Thursday that desperately needed aid has finall
 
 ---
 
+## Civilians ‘trapped and terrorised’: UN sounds alarm over collapse of critical protections
+
+date: 2025-05-22, from: United Nations, Top Stories
+
+With more than 36,000 civilian deaths recorded in conflict zones in 2024 and sexual violence surging, senior UN officials warn that the international framework designed to protect civilians is collapsing. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163601>
+
+---
+
+## Gaza: Strikes on houses and tents responsible for over half of deaths this week
+
+date: 2025-05-22, from: United Nations, Top Stories
+
+More than half the people killed in Gaza over the past week were in shelters and residential buildings, the UN human rights office OHCHR said on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163596>
+
+---
+
+## Kenya: Refugees facing ‘lowest ever’ emergency food rations amid funding crisis
+
+date: 2025-05-22, from: United Nations, Top Stories
+
+The UN World Food Programme (WFP) warned on Thursday that it has been forced to cut food aid to unprecedented lows in Kenya’s sprawling refugee camps, as a result of severe funding shortages. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163591>
+
+---
+
+## Guterres strongly condemns killing of Israeli diplomats in US capital
+
+date: 2025-05-22, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has strongly condemned the “appalling killing” of two Israeli embassy officials in the United States capital, stressing that “nothing can justify such a horrific act,” his Spokesperson said in a statement on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163581>
+
+---
+
+## SECURITY COUNCIL LIVE: Ambassadors debate safety of civilians with 36,000 lives lost during conflict last year
+
+date: 2025-05-22, from: United Nations, Top Stories
+
+We're live as the Security Council convenes for its annual open debate on the protection of civilians in armed conflict, with the UN relief chief and the head of UN Women calling for urgent action to safeguard lives –&nbsp;especially those of women and girls caught in the crossfire. Non-combatants in Gaza, Lebanon, Myanmar, Sudan and Ukraine are among the hardest-hit. Mobile app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163576>
+
+---
+
 ## Posts about Healy-Rae to be taken down pending trial
 
 date: 2025-05-22, from: RTÉ News
@@ -70,6 +382,30 @@ A number of allegations on social media by a former general election candidate a
 <br> 
 
 <https://www.rte.ie/news/2025/0522/1514331-michael-healy-rae-court/>
+
+---
+
+## Posts about Healy-Rae to be taken down pending trial
+
+date: 2025-05-22, from: RTÉ News
+
+A number of allegations on social media by a former general election candidate and activist about Kerry TD Michael Healy-Rae are to be taken down from social media and not repeated "pending" trial of the matter, a court has ruled. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0522/1514331-michael-healy-rae-court/>
+
+---
+
+## Rapper Kid Cudi says his car was set on fire weeks after Sean (Diddy) Combs broke into his home
+
+date: 2025-05-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540948.1747926352!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexual-misconduct-diddy.jpg' alt='A man holds a cigarette while walking in front of a crowd. Another man to his left holds an umbrella for him.' width='620' height='349' title='Rapper Kid Cudi, right, arrives at Federal Court for the trial of Sean (Diddy) Combs, in New York, Thursday, May 22, 2025. '/><p>Rapper Kid Cudi testified Thursday that Sean (Diddy) Combs broke into his Hollywood Hills home in 2011 after finding out he was dating Combs' ex-girlfriend, the R&B singer Cassie, and that someone set fire to his car weeks later.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/kid-cudi-sean-combs-trial-1.7540941?cmp=rss>
 
 ---
 
@@ -85,6 +421,18 @@ Canadian author Michael Crummey has been announced as the winner of the 2025 Dub
 
 ---
 
+## Canadian author wins 2025 Dublin Literary Award
+
+date: 2025-05-22, from: RTÉ News
+
+Canadian author Michael Crummey has been announced as the winner of the 2025 Dublin Literary Award for his book 'The Adversary'. 
+
+<br> 
+
+<https://www.rte.ie/culture/2025/0522/1514311-dublin-literary-award/>
+
+---
+
 ## US House approves Trump's sweeping tax-cut bill
 
 date: 2025-05-22, from: RTÉ News
@@ -97,11 +445,11 @@ The Republican-led US House of Representatives has voted to approve President Do
 
 ---
 
-## Funeral mass for Paul Durcan taking place in Dublin
+## Funeral mass for Paul Durcan held in Dublin
 
 date: 2025-05-22, from: RTÉ News
 
-The funeral mass is taking place in Dublin of one of Ireland's most renowned contemporary poets Paul Durcan, who died last week aged 80. 
+The funeral mass of one of Ireland's most renowned contemporary poets Paul Durcan, who died last week aged 80, has taken place in Dublin. 
 
 <br> 
 
@@ -121,6 +469,18 @@ Chancellor Friedrich Merz has warned that Russia threatens security in Europe as
 
 ---
 
+## Mothers' legal win in Italy IVF case seen as 'historic day' for 2SLGBTQ+ parenting rights
+
+date: 2025-05-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540789.1747918776!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/italy-lgbt-parenting.JPG' alt='People in pink shirts and children wave signs' width='620' height='349' title='A child of a same-sex couple is carried by their parent at a protest after Italy&apos;s right-wing government told Milan&apos;s city council to stop registering same-sex parents&apos; children in Milan, Italy March 18, 2023. '/><p>Italy's Constitutional Court said on Thursday that same-sex female couples who use in vitro fertilization (IVF) abroad can both be legally recognized as parents in Italy, even if one is not the biological mother.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/italy-ivf-ruling-1.7540786?cmp=rss>
+
+---
+
 ## People asked to share their pandemic experience
 
 date: 2025-05-22, from: RTÉ News
@@ -130,6 +490,18 @@ The independent Expert Evaluation of Ireland's handling of the Covid-19 pandemic
 <br> 
 
 <https://www.rte.ie/news/2025/0522/1514309-covid-pandemic-handling/>
+
+---
+
+## People asked to share their pandemic experience
+
+date: 2025-05-22, from: RTÉ News
+
+The independent Expert Evaluation of Ireland's handling of the Covid-19 pandemic has today launched a public consultation phase. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0522/1514309-covid-pandemic-handling/>
 
 ---
 
@@ -158,6 +530,18 @@ Palestinian officials say flour and other food aid entering Gaza is nowhere near
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0522/1514306-israel-gaza/>
+
+---
+
+## Gaza health system at 'breaking point' amid shortages
+
+date: 2025-05-22, from: RTÉ News
+
+The World Health Organization (WHO) has said that Gaza's health system is at a "breaking point" as Israel's intensified military operations continue, amidst worsening mass population displacement and acute shortages of basic necessities. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0522/1514306-israel-gaza-middle-east/>
 
 ---
 
@@ -193,11 +577,11 @@ date: 2025-05-22, from: Vatican News
 
 ---
 
-## Harris examining report of US deportees flight stopover
+## Govt examining report of US deportees flight stopover
 
 date: 2025-05-22, from: RTÉ News
 
-Tánaiste Simon Harris has said he is trying to establish the facts surrounding a report that a flight carrying deportees from the US to Africa, against a judge's order, stopped at Shannon Airport. 
+The Government has said it is working to establish the exact chain of events in relation to a flight carrying deportees from the US, which is understood to have stopped in Shannon Airport this week. 
 
 <br> 
 
@@ -221,11 +605,11 @@ date: 2025-05-22, from: Vatican News
 
 ---
 
-## Driving test wait should fall to 10 weeks this year - RSA
+## Govt monitoring RSA plan to reduce driving test wait
 
 date: 2025-05-22, from: RTÉ News
 
-The Chief Operating Officer with the Road Safety Authority has said waiting times for driving tests should be down to ten weeks by the start of September. 
+A Government minister has said that he will be checking with the Road Safety Authority every two weeks to see if it is meeting its target to reduce the waiting time for a driving test. 
 
 <br> 
 
@@ -233,11 +617,11 @@ The Chief Operating Officer with the Road Safety Authority has said waiting time
 
 ---
 
-## PAC told of 15th delay to children's hospital
+## As it happened: PAC told of 15th delay to NCH
 
 date: 2025-05-22, from: RTÉ News
 
-Follow live updates as the National Paediatric Hospital Development Board and Children's Health Ireland appear before Public Accounts Committee to update TDs on progress on the children's hospital. 
+As it happened: Updates as the National Paediatric Hospital Development Board and Children's Health Ireland appear before Public Accounts Committee to update TDs on progress on the children's hospital. 
 
 <br> 
 
@@ -293,7 +677,19 @@ Several nations have voiced outrage after Israeli troops fired near a delegation
 
 ---
 
-## Fifth year students find relic of saint in Dublin school
+## Latest updates: World leaders condemn shooting of 2 Israeli Embassy staffers in Washington, D.C.
+
+date: 2025-05-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/49077be8-1233-4bac-9bc5-2182f6ba8a80,1747926787938/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/9.6768751?cmp=rss>
+
+---
+
+## Fifth-year students find relic of saint in Dublin school
 
 date: 2025-05-22, from: RTÉ News
 
@@ -317,7 +713,7 @@ Ambush. That is the word most used by US media to describe yesterday's explosive
 
 ---
 
-## Shooting result of anti-Semitic 'incitement' - Israel
+## As it happened: Israeli embassy workers killed in US
 
 date: 2025-05-22, from: RTÉ News
 
@@ -333,7 +729,7 @@ Follow live updates as US President Donald Trump condemns the killing of two Isr
 
 date: 2025-05-22, from: RTÉ News
 
-In an interview ahead of a special Prime Time programme tonight, ASTI Kieran Christie has warned that female teachers are facing misogynistic comments and harassment from students in schools to an extent that is becoming 'unmanageable.' 
+In an interview ahead of a special Prime Time programme tonight, ASTI's Kieran Christie has warned that female teachers are facing misogynistic comments and harassment from students in schools to an extent that is becoming 'unmanageable.' 
 
 <br> 
 
@@ -365,11 +761,11 @@ Talks among G7 finance ministers faced challenges as the group worked to overcom
 
 ---
 
-## Israeli embassy 'devastated' after two staff shot dead
+## Suspect in shooting of Israeli aides charged with murder
 
 date: 2025-05-22, from: RTÉ News
 
-The Israeli embassy in Washington has said it is "heartbroken and devastated" after two staff members were killed in a shooting in the US capital last night. 
+The lone suspect in the fatal shooting of a pair of Israel embassy workers outside a Jewish museum in Washington has been charged with two counts of first degree murder, according to a court filing from the US Justice Department. 
 
 <br> 
 
@@ -377,7 +773,7 @@ The Israeli embassy in Washington has said it is "heartbroken and devastated" af
 
 ---
 
-## Education under fire: How Gazan students and professors study and teach in a war zone
+## In war-torn Gaza, students strive to study and professors are compelled to teach
 
 date: 2025-05-22, from: CBC, World News
 
@@ -425,6 +821,18 @@ A major incident occurred at a launch ceremony for a new North Korean naval dest
 
 ---
 
+## 'Serious' incident at N Korea warship launch ceremony
+
+date: 2025-05-22, from: RTÉ News
+
+A major incident occurred at a launch ceremony for a new North Korean naval destroyer, state media reported, with leader Kim Jong-un calling it a "criminal act". 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0522/1514244-north-korea-warship/>
+
+---
+
 ## One dead, 50,000 stranded in eastern Australia floods
 
 date: 2025-05-22, from: RTÉ News
@@ -441,7 +849,7 @@ Torrential rain continued to lash eastern Australia, swelling already engorged r
 
 date: 2025-05-21, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7540718.1747905423!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/washington-shooting-israel.JPG' alt='A group of people stands in the street behind police tape next to an ambulance' width='620' height='349' title='U.S. Attorney General Pam Bondi and Israeli Ambassador to the U.S. Yechiel Leiter speak to the law enforcement officials as they visit the site where, according to the U.S. Homeland Security Secretary, two Israeli embassy staff were shot dead near the Capital Jewish Museum in Washington, D.C., U.S. May 22, 2025.  REUTERS/Jonathan Ernst'/><p>Two Israeli Embassy staff were killed in a shooting outside an event at the Capital Jewish Museum in Washington on Wednesday night, and a suspect is in custody, officials said.</p> 
+<img src='https://i.cbc.ca/1.7540719.1747905568!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/washington-shooting-israel.JPG' alt='A man kneels in the street behind police tape next to a police car with an Israeli flag with a cross in the centre draped across his back.' width='620' height='349' title='A man, with an Israeli flag with a cross in the center, kneels next to emergency personnel working at the site where, according to the U.S. Homeland Security Secretary, two Israeli embassy staff were shot dead near the Capital Jewish Museum in Washington, D.C., U.S. May 21, 2025.  REUTERS/Jonathan Ernst    TPX IMAGES OF THE DAY'/><p>Two Israeli Embassy staff were killed in a shooting outside an event at the Capital Jewish Museum in Washington on Wednesday night, and a suspect is in custody, officials said.</p> 
 
 <br> 
 
@@ -461,11 +869,11 @@ date: 2025-05-21, from: CBC, World News
 
 ---
 
-## New Children's Hospital 'to miss latest completion date'
+## June 2026 before new children's hospital treats patients
 
 date: 2025-05-21, from: RTÉ News
 
-The latest deadline for the completion of the multi-billion euro New Children's Hospital is set to be missed by more than three months, with the project now unlikely to be finished until September, TDs will be told. 
+The new National Children's Hospital in Dublin will not receive its first patients until at least June of next year, the Dáil Public Accounts Committee has heard. 
 
 <br> 
 
@@ -542,6 +950,18 @@ US President Donald Trump confronted South African President Cyril Ramaphosa at 
 <br> 
 
 <https://www.rte.ie/news/2025/0521/1514192-ramaphosa-trump/>
+
+---
+
+## 'Totally unacceptable' that IDF fired shots near Canadians, Carney says
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540533.1747868634!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-carney-20250521.JPG' alt='A man speaks at a podium.' width='620' height='349' title='Prime Minister Mark Carney speaks with reporters during an availability following a cabinet retreat, Wednesday, May 21, 2025 in Ottawa.'/><p>Prime Minister Mark Carney says it's "totally unacceptable" that members of the Israeli army fired shots near a diplomatic delegation, which included Canadians, in the West Bank on Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/israel-canadians-west-bank-shots-1.7540343?cmp=rss>
 
 ---
 
@@ -987,7 +1407,7 @@ UN aid workers said on Wednesday that they are still waiting for permission from
 
 ## Biodiversity loss demands urgent global action, says UN chief
 
-date: 2025-05-21, from: United Nations, Top Stories
+date: 2025-05-21, from: United Nations, Climate Change
 
 UN Secretary-General António Guterres has called on countries to radically rethink their relationship with nature, warning that biodiversity loss is a global crisis no nation can ignore. 
 
@@ -2976,7 +3396,7 @@ Amid intensifying Israeli bombing and ground operations in Gaza, the UN’s reli
 
 ## UN faces deepening financial crisis, urges members to pay up
 
-date: 2025-05-19, from: United Nations, Top Stories
+date: 2025-05-19, from: United Nations, UN Affairs
 
 The United Nations is facing a worsening cash crisis that threatens its ability to carry out vital work, Member States warned this week, as the General Assembly’s Fifth Committee met to discuss the world body’s financial health. 
 
@@ -3716,7 +4136,7 @@ Could the world be better prepared for the next pandemic? As nations continue to
 
 ## In Baghdad, Guterres affirms UN will never forget staff killed in Canal Hotel attack
 
-date: 2025-05-18, from: United Nations, Top Stories
+date: 2025-05-18, from: United Nations, UN Affairs
 
 The United Nations will never forget the staff members killed nearly 23 years ago in the attack on its headquarters in Iraq, the Secretary-General said in the capital on Sunday. 
 

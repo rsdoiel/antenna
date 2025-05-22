@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2025-05-22 06:09:28
+updated: 2025-05-22 14:08:37
 ---
 
 # health
 
-(date: 2025-05-22 06:09:28)
+(date: 2025-05-22 14:08:37)
 
 ---
 
@@ -126,6 +126,23 @@ ObjectiveWe developed and validated a diagnostic scoring system for tuberculous 
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2025.1579827>
+
+---
+
+## Press Release: The People’s CDC Denounces the Executive Branch for Cutting Safety Standard Committees for Workplaces and Healthcare Settings
+
+date: 2025-05-19, from: People's CDC
+
+April 23, 2025: Press release
+
+Experts Condemn Trump Administration Attacks on Science and Public Health, Call on Hospitals to Keep Patients Safe for All 
+
+Release journal article demonstrating simple infection control measures dramatically reduce hospital-acquired illness and death 
+ 
+
+<br> 
+
+<https://peoplescdc.org/2025/05/19/press-release/>
 
 ---
 

@@ -1,11 +1,277 @@
 ---
 title: columns
-updated: 2025-05-22 06:09:24
+updated: 2025-05-22 14:08:33
 ---
 
 # columns
 
-(date: 2025-05-22 06:09:24)
+(date: 2025-05-22 14:08:33)
+
+---
+
+## 2025-05-22 Postira
+
+date: 2025-05-22, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-22-postira">2025-05-22 Postira</h1>
+
+<p>We went for a walk along the coast to Lovrečina. All the bars and restaurants were closed but the flowers were in bloom. It’s May! 😍</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-22.jpg" alt="the sky after breakfast was bright" /></p>
+
+<p>We started walking.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-1.jpg" alt="The channel is calm, the sky cloudy" /></p>
+
+<p>Hundert-jährige Agave<br>
+Agave americana</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-2.jpg" alt="snails on agaves" /></p>
+
+<p>I keep calling them pines but Flora Incognita tells me we&rsquo;re looking at:</p>
+
+<p>Aleppo-Kiefer<br>
+Pinus halepensis</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-3.jpg" alt="2025-05-22-postira-3.jpg" />
+<img loading="lazy" src="2025-05-22-postira-4.jpg" alt="2025-05-22-postira-4.jpg" />
+<img loading="lazy" src="2025-05-22-postira-5.jpg" alt="2025-05-22-postira-5.jpg" />
+<img loading="lazy" src="2025-05-22-postira-6.jpg" alt="2025-05-22-postira-6.jpg" />
+<img loading="lazy" src="2025-05-22-postira-7.jpg" alt="2025-05-22-postira-7.jpg" />
+<img loading="lazy" src="2025-05-22-postira-8.jpg" alt="2025-05-22-postira-8.jpg" />
+<img loading="lazy" src="2025-05-22-postira-9.jpg" alt="2025-05-22-postira-9.jpg" />
+<img loading="lazy" src="2025-05-22-postira-10.jpg" alt="2025-05-22-postira-10.jpg" />
+<img loading="lazy" src="2025-05-22-postira-11.jpg" alt="2025-05-22-postira-11.jpg" />
+<img loading="lazy" src="2025-05-22-postira-12.jpg" alt="2025-05-22-postira-12.jpg" />
+<img loading="lazy" src="2025-05-22-postira-13.jpg" alt="2025-05-22-postira-13.jpg" />
+<img loading="lazy" src="2025-05-22-postira-14.jpg" alt="2025-05-22-postira-14.jpg" />
+<img loading="lazy" src="2025-05-22-postira-15.jpg" alt="2025-05-22-postira-15.jpg" />
+<img loading="lazy" src="2025-05-22-postira-16.jpg" alt="2025-05-22-postira-16.jpg" />
+<img loading="lazy" src="2025-05-22-postira-17.jpg" alt="2025-05-22-postira-17.jpg" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-22-postira>
+
+---
+
+## 2025-05-21 Postira, Bol
+
+date: 2025-05-22, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-21-postira-bol">2025-05-21 Postira, Bol</h1>
+
+<p>We knew it was going to rain. We went for a short walk through Postira and then we had the fantastic idea of driving to the other side of the island, hoping to find the other side sunny. And so it was! At first, though, we drove in the pouring rain. It was only the last few kilometres that we started seeing the sun. We went for a short run and managed to take a bath at the Golden Horn, purportedly the “most beautiful beach” of Croatia. Significantly overhyped, for sure. At least during the off season it is mostly empty. 😍</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-1.jpg" alt="Claudia taking a picture of the clouds" />
+<img loading="lazy" src="2025-05-21-postira-bol-2.jpg" alt="narrow alleys" />
+<img loading="lazy" src="2025-05-21-postira-bol-3.jpg" alt="the wide alley leads towards the church" />
+<img loading="lazy" src="2025-05-21-postira-bol-4.jpg" alt="a street sign warning of the max width: 1.8m" />
+<img loading="lazy" src="2025-05-21-postira-bol-5.jpg" alt="some people have lush gardens" />
+<img loading="lazy" src="2025-05-21-postira-bol-6.jpg" alt="some houses are dry stone walls and wilderness, a roof near collapse and boarded up windows" /></p>
+
+<p>We walked up until we could look into the Dol valley towards the center of the island. Rain clouds loomed.</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-7.jpg" alt="a road leading into a valley with grey clouds overhead" /></p>
+
+<p>We drove through the rain (no pictures) and finally arrived on the sunny side. There, we posed like the influencers we are.</p>
+
+<p>We also went for a swim.</p>
+
+<p>The Golden Horn is probably famouse because it is a tip of pebble beach reaching into the sea. A beach on both sides!</p>
+
+<p>Not shown: all the empty stands and bars awaiting the main season.</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-8.jpg" alt="Alex posing at the tip of the horn" />
+<img loading="lazy" src="2025-05-21-postira-bol-9.jpg" alt="Claudia posing in front of the sea, with a yacht, and the sky and her silhouette reflecting in a puddle of sea water" /></p>
+
+<p>We continued our jogging.</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-10.jpg" alt="pine trees all leaning left" />
+<img loading="lazy" src="2025-05-21-postira-bol-11.jpg" alt="Alex standing on a little dry stone wall with pine trees and agaves and the sea in the background" />
+<img loading="lazy" src="2025-05-21-postira-bol-12.jpg" alt="a different beach, seen from above, empty" />
+<img loading="lazy" src="2025-05-21-postira-bol-13.jpg" alt="more of the coast with a strip of rocks followed by pine trees" />
+<img loading="lazy" src="2025-05-21-postira-bol-14.jpg" alt="turning back, the same coastline" /></p>
+
+<p>Harzklee<br>
+Bituminaria bituminosa</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-15.jpg" alt="2025-05-21-postira-bol-15.jpg" /></p>
+
+<p>A better view of the trail along the beaches, a few meters above.</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-16.jpg" alt="between the drystone wall and the drop" />
+<img loading="lazy" src="2025-05-21-postira-bol-17.jpg" alt="Alex on the rocky beach with running sandals" />
+<img loading="lazy" src="2025-05-21-postira-bol-18.jpg" alt="empty beach loungers waiting for tourists" />
+<img loading="lazy" src="2025-05-21-postira-bol-19.jpg" alt="Claudia drinking from a glass of water at the beach bar" />
+<img loading="lazy" src="2025-05-21-postira-bol-20.jpg" alt="Alex with arms folded and laughing, mouth open, eyes closed" /></p>
+
+<p>When we went back, the rain was gone and we ate out in the open at the port.</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-21.jpg" alt="2025-05-21-postira-bol-21.jpg" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-21-postira-bol>
+
+---
+
+##  The Tragedy of Prevention: No One Knows When They Don&#8217;t Die 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/the-tragedy-of-prevention-no-one-knows-when-they-dont-die>
+
+---
+
+##  Meet the New American Refugees Fleeing Across State Lines for Safety. They... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046917-meet-the-new-american-ref>
+
+---
+
+##  Where is the courage and morality of our political leaders? &#8220;Corruption and... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046915-where-is-the-courage-and>
+
+---
+
+##  Pipelinefunk Gon&#8217; Give It to You 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/pipelinefunk-gon-give-it-to-you>
+
+---
+
+##  PBS executives forced the makers of an Art Spiegelman documentary to cut... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046914-pbs-executives-forced-the>
+
+---
+
+## What you need to share about the "one big beautiful" ugly horrible bill
+
+date: 2025-05-22, from: Robert Reich's blog
+
+(Resending so you can share over email without my inadvertent notes after the "share" button) 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-you-need-to-share-about-the>
+
+---
+
+##  Use of semicolons by UK authors has dropped by nearly half over... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046910-use-of-semicolons-by-uk>
+
+---
+
+## Puppet Tree
+
+date: 2025-05-22, from: Doc Searls (at Harvard), New Old Blog
+
+I guarantee insights and learnings. Great podcast interview with the world&#39;s leading authority on the puppets in Star Wars, and author of the book A Galaxy of Things. But&#8230; Japan? A leaked FSB email says Russia had a &#34;maniacal desire for war&#34; and that Ukraine was (or may not have been&#8230; unclear) its first choice. 
+
+<br> 
+
+<https://doc.searls.com/2025/05/22/puppet-tree/>
+
+---
+
+##  Donald Trump is waging war on the future; he&#8217;s attempting to destroy... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046906-donald-trump-is-waging-wa>
+
+---
+
+## Why the one big beautiful bill is the single ugliest you can imagine
+
+date: 2025-05-22, from: Robert Reich's blog
+
+The truth 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-the-one-big-beautiful-bill-is>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-22, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/05/13/knicksFan.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Knicks got beat last night. And the game seemed so won. When Brunson sat down in the fourth period because he was in foul trouble, the Knicks had a huge run that put them up by 17 with less than 3 minutes remaining. My numbers might be slightly off. Then they brought Brunson back, and it all flipped around. The Pacers were getting off shots where they weren't before, and their aim was deadly. So it wasn't just the Knicks folding, the Pacers were hot. The announcers were so clueless, the Knicks didn't need Brunson back. He was benched a good portion of the final blowout with Boston. I loved that. Showed he can sit down when needed, and the team will keep going. When he was injured in March, the Knicks faltered at first, but then they learned how to put it together with the remaining players which believe it or not are a full NBA team, a very competitive one. So when Brunson gets in foul trouble and the remaining Knicks are in a groove don't screw with it. That should be the lesson of last night's game. The Knicks were very good, net-net, but the Pacers were better and they won. 
+
+<br> 
+
+<http://scripting.com/2025/05/22.html#a155103>
+
+---
+
+##  I&#8217;m Not Going There Anymore. Tony Wheeler (co-founder of Lonely Planet) lists... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046905-im-not-going-there-anymor>
+
+---
+
+## Neptune OS is Debian made easy but, boy, does it need some housekeeping
+
+date: 2025-05-22, updated: 2025-05-22, from: Liam Proven's articles at the Register
+
+<h4>A media-ready remix with KDE, codecs, and clutter from its BeOS-flavored past</h4>
+      <p>Neptune is a moderately tweaked Debian remix with KDE Plasma 5, a few alternative app choices, and a longer history than we anticipated.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/22/neptune_os/>
 
 ---
 
@@ -114,11 +380,11 @@ We’ll get back to it.</p>
 
 ---
 
-## The Hidden Provision in the Big Ugly Bill that makes Trump King. 
+## The hidden provision in the Big Ugly Bill that makes Trump king
 
 date: 2025-05-22, from: Robert Reich's blog
 
-Don't let this happen 
+Don&#8217;t let this happen 
 
 <br> 
 
@@ -405,7 +671,7 @@ date: 2025-05-21, from: Heather Cox Richardson blog
 
 ## Fortnite Returns to the U.S. App Store for iOS
 
-date: 2025-05-21, updated: 2025-05-21, from: Daring Fireball
+date: 2025-05-21, updated: 2025-05-22, from: Daring Fireball
 
  
 
