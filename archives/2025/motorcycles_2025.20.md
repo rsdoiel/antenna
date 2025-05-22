@@ -1,11 +1,96 @@
 ---
 title: motorcycles
-updated: 2025-05-21 14:08:04
+updated: 2025-05-22 06:09:28
 ---
 
 # motorcycles
 
-(date: 2025-05-21 14:08:04)
+(date: 2025-05-22 06:09:28)
+
+---
+
+## There's a New Triumph Scrambler In Town, But Only If You Live In This One Place
+
+date: 2025-05-22, from: Ride Apart, Electric Motorcycle News
+
+Triumph's 400s have been smashing it out of the park since they were announced. Now there's another one. 
+
+<br> 
+
+<https://www.rideapart.com/news/760334/triumph-scrambler-400-xc-india-motorcycle/>
+
+---
+
+## Another "Wolf Whacking" Bill Won't Be Debated, Practice Will Continue
+
+date: 2025-05-22, from: Ride Apart, Electric Motorcycle News
+
+A proposed ban was, again, brushed off after an incident made global headlines. 
+
+<br> 
+
+<https://www.rideapart.com/news/760332/snowmobile-wolf-whacking-wyoming-legislature/>
+
+---
+
+## A Revolutionary New Battery By GM and LG Could Make EV Motorcycles Finally Work
+
+date: 2025-05-22, from: Ride Apart, Electric Motorcycle News
+
+Cheaper, lighter, more efficient: sounds like the perfect recipe for an EV powersports battery, right?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760227/gm-lg-ev-battery-under-development/>
+
+---
+
+## What Happens When You Turn a Handtruck and a Free Engine Into a Motorcycle?
+
+date: 2025-05-22, from: Ride Apart, Electric Motorcycle News
+
+You get this impossible little guy, that's what. 
+
+<br> 
+
+<https://www.rideapart.com/news/760213/handtruck-harley-davidson-custom-motorcycle-build/>
+
+---
+
+## Stewart, Beckman & Herrera Collect Wins at Gerber Collision & Glass Route 66 NHRA Nationals
+
+date: 2025-05-22, from: Kickin the Tires blog
+
+JOLIET, Ill. (May 18, 2025) – Racing legend Tony Stewart moved into the NHRA Top Fuel points lead for the first time with his second win in three races on&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/stewart-beckman-herrera-collect-wins-at-gerber-collision-glass-route-66-nhra-nationals/>
+
+---
+
+## Chicago Event Recap for the NHRA Route 66 Nationals
+
+date: 2025-05-22, from: Kickin the Tires blog
+
+Event RecapTony Stewart, driver of the Rinnai Dodge//SRT Top Fuel Dragster: Earned No. 1 provisional qualifying position in Q1 on Friday (3.847 ET at 320.36 mph)Earned three bonus points for&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/chicago-event-recap-for-the-nhra-route-66-nationals/>
+
+---
+
+## Kurt Busch, Harry Gant, Ray Hendrick make up NASCAR Hall of Fame Class of 2026
+
+date: 2025-05-22, from: Kickin the Tires blog
+
+CHARLOTTE, N.C.—For Kurt Busch, waiting for the announcement of the 2026 NASCAR Hall of Fame Class felt like race day.That was before his name was called as a member of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/kurt-busch-harry-gant-ray-hendrick-make-up-nascar-hall-of-fame-class-of-2026/>
 
 ---
 
@@ -96,7 +181,7 @@ And that’s because they’re built for more than just fun.
 
 ---
 
-## If You Love Public Lands, Call Your Senators and Representatives Right Now
+## Update: If You Love Public Lands, Call Your Senators and Representatives Right Now
 
 date: 2025-05-20, from: Ride Apart, Electric Motorcycle News
 

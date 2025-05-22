@@ -1,11 +1,380 @@
 ---
 title: pacific
-updated: 2025-05-21 14:07:58
+updated: 2025-05-22 06:09:22
 ---
 
 # pacific
 
-(date: 2025-05-21 14:07:58)
+(date: 2025-05-22 06:09:22)
+
+---
+
+## Jalen Brunson vs. Tyrese Haliburton: Meet NBA’s newest point guard rivalry
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; It&#8217;s the matchup Tyrese Haliburton wanted &#8212; one-on-one with the Knicks captain &#8212; and with just under five minutes left in the third quarter of Game 1 of the Eastern Conference finals matchup between the Knicks and Pacers, Indiana&#8217;s All-Star guard dialed his own number.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/jalen-brunson-vs-tyrese-haliburton-meet-nbas-newest-point-guard-rivalry/>
+
+---
+
+## Poland intervenes as Russian ‘shadow fleet’ ship spotted near power cable
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WARSAW &#8212; Poland&#8217;s military intervened after a ship from the Russian &#8220;shadow fleet&#8221; was seen performing suspicious manoeuvres near a power cable connecting Poland with Sweden, Poland&#8217;s prime minister said on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/poland-intervenes-as-russian-shadow-fleet-ship-spotted-near-power-cable/>
+
+---
+
+## Gabbard aide pushed to rewrite intelligence so it could not be ‘used against’ Trump
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; New emails document how a top aide to Tulsi Gabbard, the director of national intelligence, ordered analysts to edit an assessment with the hope of insulating President Donald Trump and Gabbard from being attacked for the administration&#8217;s claim that Venezuela&#8217;s government controls a criminal gang.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/gabbard-aide-pushed-to-rewrite-intelligence-so-it-could-not-be-used-against-trump/>
+
+---
+
+## FDA’s COVID-19 changes worry local health professionals
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Big Island health professionals are concerned changes to U.S. Food and Drug Administration rules for COVID-19 vaccines could limit their availability for healthy people under 65 who get vaccinated to protect vulnerable family members.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/hawaii-news/fdas-covid-19-changes-worry-local-health-professionals/>
+
+---
+
+## A dozen US states decry Trump’s “blank check” tariffs in lawsuit
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Twelve U.S. states asked a federal court on Wednesday to halt President Donald Trump&#8217;s &#8220;Liberation Day&#8221; tariffs, arguing that he overstepped his authority by declaring a national emergency to impose across-the-board taxes on imports from nations that sell more to the U.S. than they buy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/a-dozen-us-states-decry-trumps-blank-check-tariffs-in-lawsuit/>
+
+---
+
+## US takes a another step toward opening the seabed for mining
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Commercial mining on the miles-deep Pacific Ocean floor came one step closer to reality with an announcement late Tuesday by the U.S. Interior Department that it would evaluate a request from a California-based company to extract metals off the coast of American Samoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/us-takes-a-another-step-toward-opening-the-seabed-for-mining/>
+
+---
+
+## News in brief for May 22
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Target cuts annual forecasts as tariff pressure mounts </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/news-in-brief-for-may-22/>
+
+---
+
+## EHCC exhibition brings to life the hope, resilience of incarcerated people
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;INSIDE,&#8221; the exhibition now on view at the main and Ola Na Iwi galleries of the East Hawaii Cultural Center, presents an urgent and compassionate portrait of pa&#8216;ahao &#8212; incarcerated people.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/entertainment/ehcc-exhibition-brings-to-life-the-hope-resilience-of-incarcerated-people/>
+
+---
+
+## Hilo-based comedy troupe offers shows, classes
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>East Hawaii can keep things light thanks to a group of eight jokesters offering laughter-filled performances and team-building corporate exercises through improvisational comedy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/community/hilo-based-comedy-troupe-offers-shows-classes/>
+
+---
+
+## Ka‘u Coffee Festival kicks off Sunday
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>KA&#8217;U &#8212; Explore, savor and enjoy the unique coffee and regional flavor of the island&#8217;s southern district at the 16th Ka&#8216;u Coffee Festival. The annual event celebrates Ka&#8216;u&#8217;s award-winning brew with a weeklong lineup of activities May 25-31.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/entertainment/kau-coffee-festival-kicks-off-sunday/>
+
+---
+
+## Trump administration drops police oversight spurred by Floyd, Taylor killings
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is ending efforts to secure agreements for federal oversight of police departments in Minneapolis and Louisville, Kentucky, despite a prior government finding they routinely violated the civil rights of Black people.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/trump-administration-drops-police-oversight-spurred-by-floyd-taylor-killings/>
+
+---
+
+## ‘There is no bread, there is nothing’ says father searching for food in Gaza
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>GAZA &#8212; Father of four Mahmoud al-Haw and other Palestinians crowd around a soup kitchen in war-ravaged Gaza, surging forward and frantically waving pots.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/there-is-no-bread-there-is-nothing-says-father-searching-for-food-in-gaza/>
+
+---
+
+## Hacker who breached communications app used by Trump aide stole data from across US government
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A hacker who breached the communications service used by former Trump national security adviser Mike Waltz earlier this month intercepted messages from a broader swathe of American officials than has previously been reported, according to a Reuters review, potentially raising the stakes of a breach that has already drawn questions about data security in the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/hacker-who-breached-communications-app-used-by-trump-aide-stole-data-from-across-us-government/>
+
+---
+
+## US air traffic control system failing Americans, airline CEOs say
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Major airline CEOs on Wednesday called on Congress to approve billions of dollars in funding to modernize the United States&#8217; aging air traffic control system, saying it is &#8220;failing Americans.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/us-air-traffic-control-system-failing-americans-airline-ceos-say/>
+
+---
+
+## US accepts luxury jet from Qatar for use as Air Force One for Trump
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States has accepted a luxury Boeing 747 jetliner as a gift from Qatar and the Air Force has been asked to find a way to rapidly upgrade it for use as a new Air Force One to transport President Donald Trump, the Pentagon said on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/us-accepts-luxury-jet-from-qatar-for-use-as-air-force-one-for-trump/>
+
+---
+
+## Trump confronts South Africa’s Ramaphosa with false claims of white genocide
+
+date: 2025-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump confronted South African President Cyril Ramaphosa on Wednesday with explosive false claims of white genocide and land seizures during a tense White House meeting that was reminiscent of his February ambush of Ukrainian leader Volodymyr Zelenskyy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/22/nation-world-news/trump-confronts-south-africas-ramaphosa-with-false-claims-of-white-genocide/>
+
+---
+
+## Start made on ‘resilient’ facility
+
+date: 2025-05-22, from: Marshal Islands Journal
+
+<p>WILMER JOEL Ground was broken for a new “resilient” multi-functional facility on Tuesday at the Mokeo Weto where NTA headquarters is located. The facility is part of the Urban Resilience Project funded by the World Bank. The World Bank’s Resident Representative for the North Pacific, Omar Lyasse, said the project will house “critical components of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/start-made-on-resilient-facility/">Start made on ‘resilient’ facility</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/start-made-on-resilient-facility/>
+
+---
+
+## UH law school launches Soifer Lecture Series
+
+date: 2025-05-22, from: University of Hawaiʻi News
+
+<p>The Soifer Lecture Series launched in March and featured Rutgers’ Professor Ellen Goodman.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/soifer-lecture-series-launch/">UH law school launches Soifer Lecture Series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/soifer-lecture-series-launch/>
+
+---
+
+## RMI’s 6 women activists
+
+date: 2025-05-22, from: Marshal Islands Journal
+
+<p>During the extended visit of Greenpeace’s Rainbow Warrior III in the Marshall Islands, the organization featured many Marshall Islands-related stories and photos on its website, greenpeace.org/. It also posted brief items on “Six Marshallese women activists who are changing the world.” The feature was written by Zabeena Buksh, the digital campaigner for Greenpeace Australia Pacific. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmis-6-women-activists/">RMI’s 6 women activists</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmis-6-women-activists/>
+
+---
+
+## UH Mānoa scholar builds Indigenous ties through Fulbright experience
+
+date: 2025-05-22, from: University of Hawaiʻi News
+
+<p>Mapuana Antonio fostered Indigenous collaboration and advanced cultural environmental sustainability across the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/antonio-fulbright-experience/"><abbr>UH</abbr> Mānoa scholar builds Indigenous ties through Fulbright experience</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/antonio-fulbright-experience/>
+
+---
+
+## UH Mānoa gave Cole Cabrera the chance to come home—and chase his dreams
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p>How <abbr>UH</abbr> took Cole Cabrera from the baseball diamond to million-dollar listings.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/uh-manoa-alum-cole-cabrera/"><abbr>UH</abbr> Mānoa gave Cole Cabrera the chance to come home—and chase his dreams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/uh-manoa-alum-cole-cabrera/>
+
+---
+
+## Noniep vs Mejenkwad
+
+date: 2025-05-21, from: Marshal Islands Journal
+
+<p>Journal 5/25/1982 P1 Zeder and deBrum reported ‘eyeball to eyeball’US Ambassador Fred Zeder said Thursday’s he’s “eyeball to eyeball” with Marshall Islands Foreign Secretary Tony deBrum in negotiations on the political status of the islands, according to a story in Pacific Daily News. Zeder, suffering from the flue and a 103-degree temperature, quickly left the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/noniep-vs-mejenkwad/">Noniep vs Mejenkwad</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/noniep-vs-mejenkwad/>
+
+---
+
+## Vulcan softball player earns All-West regional honors
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p>Jayda Favela was honored after a standout season and career.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/favela-earns-regional-honors/">Vulcan softball player earns All-West regional honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/favela-earns-regional-honors/>
+
+---
+
+## Rainbow Warrior Baseball player named Big West Player of the Week
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p>Jordan Donahue claimed his first career Big West Player of the Week honor.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/donahue-big-west-player-of-the-week/">Rainbow Warrior Baseball player named Big West Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/donahue-big-west-player-of-the-week/>
+
+---
+
+## Warrior baseball players earn All-Big West honors, Walls named Freshman Pitcher of the Year
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p>This is only the second time a Rainbow Warrior has earned the Freshman Pitcher of the Year award.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/warrior-baseball-players-earn-all-big-west-honors-walls-named-freshman-pitcher-of-the-year/">Warrior baseball players earn All-Big West honors, Walls named Freshman Pitcher of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/warrior-baseball-players-earn-all-big-west-honors-walls-named-freshman-pitcher-of-the-year/>
+
+---
+
+## Taiwan continues to drum up support for WHO membership amid WHA snub
+
+date: 2025-05-21, from: Pacific Island Times
+
+By Mar-Vic Cagurangan  Taipei—Taiwan continued to seek support for its bid to secure a place in the global health landscape in the face... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/we-have-all-the-rights-to-participate-in-international-organizations-taiwan-presses-support-for-w>
+
+---
+
+## Rising health disparities statewide, UHERO survey finds
+
+date: 2025-05-21, from: University of Hawaiʻi News
+
+<p>Worsening health and rising care gaps highlight urgent equity challenges statewide.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/21/health-disparities-climb/">Rising health disparities statewide, <abbr>UHERO</abbr> survey finds</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/21/health-disparities-climb/>
 
 ---
 

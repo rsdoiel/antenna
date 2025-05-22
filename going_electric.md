@@ -1,11 +1,112 @@
 ---
 title: going electric
-updated: 2025-05-21 14:08:05
+updated: 2025-05-22 06:09:29
 ---
 
 # going electric
 
-(date: 2025-05-21 14:08:05)
+(date: 2025-05-22 06:09:29)
+
+---
+
+## Tesla Promised Charging Robots 10 Years Ago. Hyundai Just Did It
+
+date: 2025-05-22, from: Inside EVs News
+
+Hyundai’s automatic charging robots are up and running in the company’s home country. The robot detects a charging port and plugs in.
+ 
+
+<br> 
+
+<https://insideevs.com/news/760408/hyundai-ev-charging-robot/>
+
+---
+
+## Velotric launches its first full-suspension fat tire electric bike
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/velotric-nomad-2x-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Velotric is breaking new ground – and blazing new trails – with the launch of its newest electric bike model, the Nomad 2X. Based on the popular <a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=357cd2d0-110e-47d6-a7fb-9292be27d1ed&amp;website_id=d8cb501a-c5ae-4e37-bc97-8c54add0467e&amp;url=https%3A%2F%2Fwww.velotricbike.com%2Fproducts%2Fvelotric-nomad-2">all-terrain Nomad platform</a>, Velotric has ratcheted up the action with a full-suspension version that doesn’t skimp on the features.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="417215" href="https://electrek.co/2025/05/22/velotric-launches-its-first-full-suspension-fat-tire-electric-bike/#more-417215" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/velotric-launches-its-first-full-suspension-fat-tire-electric-bike/>
+
+---
+
+## Fiat’s New EV Might Be The Cutest Pickup In The World
+
+date: 2025-05-22, from: Inside EVs News
+
+The Tris doesn’t need a conventional EV charger–it can just be plugged into a 220V outlet. 
+
+<br> 
+
+<https://insideevs.com/news/760382/fiat-tris-electric-pickup/>
+
+---
+
+## The Dodge Charger EV Sedan Is Finally Here
+
+date: 2025-05-22, from: Inside EVs News
+
+The four-door Charger Daytona comes with 670 hp and a mechanical limited-slip diff at the rear. 
+
+<br> 
+
+<https://insideevs.com/news/760373/dodge-charger-daytona-ev-sedan-official/>
+
+---
+
+## Trump wants to kill ENERGY STAR – here’s how that impacts you
+
+date: 2025-05-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/energy-star_1200x675.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The Trump administration wants to pull the plug on ENERGY STAR, the federal program behind those familiar blue labels on energy-efficient appliances, homes, and buildings. Launched in 1992, ENERGY STAR has saved Americans more than $500 billion in energy costs while slashing greenhouse gas emissions. </p>
+
+
+
+<p>To dig into what this means for everyday Americans, we spoke with Rebecca Foster, CEO of clean energy nonprofit Vermont Energy Investment Corporation (VEIC), which has spent decades working to make homes, schools, and businesses more energy efficient.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,energy-efficiency,epa" data-layer-viewtype="unknown" data-post-id="417183" href="https://electrek.co/2025/05/21/trump-wants-to-kill-energy-star-heres-how-that-impacts-you/#more-417183" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/21/trump-wants-to-kill-energy-star-heres-how-that-impacts-you/>
+
+---
+
+## Why The New Toyota RAV4 Is Bigger News Than You Think
+
+date: 2025-05-21, from: Inside EVs News
+
+The hybrid-only RAV4 is a very big deal.  
+
+<br> 
+
+<https://insideevs.com/news/760355/new-toyota-rav4-hybrid-only/>
+
+---
+
+## Cadillac’s new luxury EVs are quickly catching on, especially among Tesla owners
+
+date: 2025-05-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Cadillacs-Optiq-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM’s luxury brand now has a full lineup of EVs, and it’s already starting to pay off. <a href="https://electrek.co/guides/cadillac/">Cadillac’s</a> EVs are quickly catching on with nearly 80% of buyers new to the brand, many of them Tesla drivers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,general-motors,gm" data-layer-viewtype="unknown" data-post-id="417182" href="https://electrek.co/2025/05/21/cadillacs-new-evs-winning-over-tesla-drivers/#more-417182" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/21/cadillacs-new-evs-winning-over-tesla-drivers/>
 
 ---
 

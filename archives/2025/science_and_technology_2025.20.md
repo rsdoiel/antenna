@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-05-21 14:07:59
+updated: 2025-05-22 06:09:23
 ---
 
 # science and technology
 
-(date: 2025-05-21 14:07:59)
+(date: 2025-05-22 06:09:23)
+
+---
+
+## AI can't replace freelance coders yet, but that day is coming
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Claude passed 80% of tasks assigned in a recent study</h4> <p>Freelance coders take solace: while AI models can perform a lot of the real-world coding tasks that companies contract out, they do so less effectively than a human.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/freelance_coders_ai_work/>
+
+---
+
+## 'Close to impossible' for Europe to escape clutches of US hyperscalers
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Barriers stack up: Datacenter capacity, egress fees, platform skills, variety of cloud services. It won&#39;t happen, say analysts</h4> <p>European organizations wanting to break free of American cloud operators may find their hopes dashed, according to industry analysts, for a number of reasons including a sheer lack of datacenter capacity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/ditching_us_clouds_for_local/>
+
+---
+
+## AROS turns any PC into an Amiga with USB-bootable distro
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>And other ways to get that Amiga feeling on a budget</h4> <p>The FOSS recreation of AmigaOS is making progress. A new edition runs entirely from a USB key, so you can temporarily turn your PC into an Amiga – without any tricky installation process.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/aros_live/>
+
+---
+
+## GhostBSD: from usability to struggle and renewal
+
+date: 2025-05-22, from: OS News
+
+This article isn’t meant to be technical. Instead, it offers a high-level view of what happened through the years with GhostBSD, where the project stands today, and where we want to take it next. As you may know, GhostBSD is a user-friendly desktop BSD operating system built with FreeBSD. Its mission is to deliver a simple, stable, and accessible desktop experience for users who want FreeBSD’s power without the complexity of manual setup. I started this journey as a non-technical user. I dreamed of a BSD that anyone could use. ↫ Eric Turgeon at the FreeBSD Foundation&#8217;s website I&#8217;m very glad to see this article published on the website of the FreeBSD Foundation. I firmly believe that especially FreeBSD has all the components to become an excellent desktop alternative to desktop Linux distributions, especially now that the Linux world is moving fast with certain features and components not everyone likes. FreeBSD could serve as a valid alternative. GhostBSD plays an important role in this. It offers not just an easily installable FreeBSD desktop, but also several tools to make managing such an installation easier, like in-house graphical user interfaces for managing Wi-Fi and other networks, backups, updates, installing software, and more. They also recently moved from UFS to ZFS, and intend to develop graphical tools to expose ZFS&#8217;s features to users. GhostBSD can always use more contributors, so if you have the skills, interest, and time, do give it a go. 
+
+<br> 
+
+<https://www.osnews.com/story/142409/ghostbsd-from-usability-to-struggle-and-renewal/>
+
+---
+
+## Scottish council admits ransomware crooks stole school data
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Parents and teachers have personal info, ID documents leaked online, but exam season mostly unaffected</h4> <p>Scotland&#39;s West Lothian Council has confirmed that data was stolen from its education network after the Interlock ransomware group claimed responsibility for the intrusion earlier this month.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/west_lothian_school_ransomware/>
+
+---
+
+## VMware price hikes? Between 800 and 1,500%, claim Euro customers
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Report slates end of perpetual licenses, death of monthly pay-as-you-go model, and &#39;punitive&#39; changes by Broadcom</h4> <p>Broadcom has upped VMware licensing costs by between eight to 15 times since it took over the organization, and a lack of alternatives in the tech industry means trade and end customers have no choice but to play ball.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/euro_cloud_body_ecco_says_broadcom_licensing_unfair/>
+
+---
+
+## Europe is Russian to sanction Putin's pals over 'hybrid' threats
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Names spies, web hosts, GPS jammers, fishing (not phishing) biz</h4> <p>The European Union has sanctioned Russia-linked entities it says jammed GPS signals, sabotaged undersea cables, and ran a web hosting business that aided &#34;information manipulation interference and cyber-attacks.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/europe_russian_sanctions/>
+
+---
+
+## China finds a previously unknown microbe on its space station
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Don’t panic! It&#39;s related to an earthly bug, eats gelatin, not astronauts, and may have adapted to life in space</h4> <p>Chinse scientists have found a previously unknown species of microbe on the nation’s Tiangong space station, and it may have evolved characteristics that help it to survive in space.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/china_space_mutant_microbe/>
+
+---
+
+## Apartment living to get worse in 5 years as 6 GHz Wi-Fi nears ‘exhaustion’
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Cable Labs predicts two percent packet loss and 10ms latency in some buildings unless more spectrum freed</h4> <p>Rapid growth in Wi-Fi use means the 6 GHZ band’s carrying capacity may soon be exhausted, according to CableLabs, the nonprofit networking think tank run by cable television operators.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/cable_labs_wifi_future_analysis/>
+
+---
+
+## Google's AI vision clouded by business model hallucinations
+
+date: 2025-05-21, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>The agentic era may not be all that it&#39;s cracked up to be</h4> <p><strong>google i/o</strong>  At Google I/O this week, the Chocolate Factory argued for its AI supremacy, making the case with benchmark-topping machine learning models, developer tools, and a few promising products.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/googles_ai_vision/>
+
+---
+
+## Wyden warns telcos still leave Senate in the dark after Trump DOJ snooping scandal
+
+date: 2025-05-21, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>AT&amp;T, Verizon, T-Mo failed to alert lawmakers about surveillance, senator says</h4> <p>AT&amp;T, Verizon, and T-Mobile US failed to set up systems to notify lawmakers when government snoops came calling for their phone records - a contractual obligation that went ignored until recently, according to US Senator Ron Wyden.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/telco_senator_phone_records/>
+
+---
+
+## US teen to plead guilty to extortion attack against PowerSchool
+
+date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+
+<h4>The 19-year-old and a partner first tried to extort an unnamed telco, but failed</h4> <p>A 19-year-old student has agreed to plead guilty to hacking into the systems of two companies as part of an extortion scheme, and <em>The Register</em> has learned that one of the targets was PowerSchool.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/21/teenager_extortion_powerschool/>
 
 ---
 
@@ -359,9 +503,9 @@ date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
 
 ## Google crowns Jules to be its agent and spreads the AI love
 
-date: 2025-05-21, updated: 2025-05-21, from: The Register (UK I.T. News)
+date: 2025-05-21, updated: 2025-05-22, from: The Register (UK I.T. News)
 
-<h4>Choc Fac brings gen mods to Android, Chrome, pretty much everywhere else</h4> <p><strong>Google IO</strong>  Google technical folk laid out a menu of geeky delights on Tuesday at Google I/O, in the hope that software developers will pay to build upon the Chocolate Factory&#39;s platforms and services.…</p> 
+<h4>Choc Fac brings gen mods to Android, Chrome, pretty much everywhere else</h4> <p><strong>Google I/O</strong>  Google technical folk laid out a menu of geeky delights on Tuesday at Google I/O, in the hope that software developers will pay to build upon the Chocolate Factory&#39;s platforms and services.…</p> 
 
 <br> 
 
@@ -419,9 +563,9 @@ I genuinely believe making games without a big &#8220;do everything&#8221; engin
 
 ## Google, high on AI, flogs Gemini for all things
 
-date: 2025-05-20, updated: 2025-05-20, from: The Register (UK I.T. News)
+date: 2025-05-20, updated: 2025-05-22, from: The Register (UK I.T. News)
 
-<h4>Search? That&#39;s now artificial intelligence, too</h4> <p><strong>Google IO</strong>  Sundar Pichai, CEO of Alphabet and its Google subsidiary, opened the 17th annual Google I/O developer conference on Tuesday, evangelizing the transformational power of artificial intelligence, as he did last year and the year before that.…</p> 
+<h4>Search? That&#39;s now artificial intelligence, too</h4> <p><strong>Google I/O</strong>  Sundar Pichai, CEO of Alphabet and its Google subsidiary, opened the 17th annual Google I/O developer conference on Tuesday, evangelizing the transformational power of artificial intelligence, as he did last year and the year before that.…</p> 
 
 <br> 
 

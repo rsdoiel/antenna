@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-05-21 14:08:02
+updated: 2025-05-22 06:09:26
 ---
 
 # games
 
-(date: 2025-05-21 14:08:02)
+(date: 2025-05-22 06:09:26)
+
+---
+
+## Kingdom Hearts’ dual Keyblades, Oblivion and Oathkeeper, are the perfect analogy for its story
+
+date: 2025-05-22, updated: 2025-05-21, from: Polygon Website
+
+With Tetsuya Nomura finally breaking a three-year silence to drop new Kingdom Hearts 4 details, what better time to revisit the series’ most iconic weapon? The Keyblade has long sparked debate — is it a sword? Should it be included in Cool Sword Day celebrations? Or is it simply a giant key-shaped billy club? Regardless [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/600663/kingdom-hearts-kh-best-keyblades-oblivion-oathkeeper>
+
+---
+
+## Betrayal at House on the Hill is getting an It-themed expansion
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+In the classic board game Betrayal at House on the Hill, a group of players explore a haunted house gathering useful items and leveling up their stats until the Haunt becomes active and one of the players switches sides and starts killing everyone else or performing some twisted ritual. Now Hasbro and Avalon Hill are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/board-games/600786/betrayal-at-house-on-the-hill-it-pennywise>
+
+---
+
+## Gigantamax Machamp counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-05-22, updated: 2025-05-20, from: Polygon Website
+
+Gigantamax Machamp is making its Gigantamax debut in Pokémon Go, and given its a bit of a powerhouse, it’ll need some coordination to take down. It’s expected to hit hard, so you’ll want to bring out the tankiest of your tanks to help you out with this. Machamp will specifically appear as part of Gigantamax [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/600112/gigantamax-machamp-counters-weakness-tips>
+
+---
+
+## All health upgrade leader locations in Doom: The Dark Ages
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Upgrading your health is arguably the single most important thing for your survival in Doom: The Dark Ages. To make it through all the challenges entailed by fighting demons with minimal suffering, improving your health could mean the difference between life and death. And you can considerably improve your chance of staying alive if you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find>
+
+---
+
+## Best Lune build in Clair Obscur: Expedition 33
+
+date: 2025-05-21, updated: 2025-05-21, from: Polygon Website
+
+Unlike most of her fellow party members, Lune can work equally well as a damage-dealer or a support in Clair Obscur: Expedition 33, depending on your preferred playstyle. With the wide range of weapons and accessories in Expedition 33, you might feel like you can turn anyone into anything. A triple tank team? A team [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/600383/best-lune-build-attributes-skills-weapon-luminas-pictos>
 
 ---
 

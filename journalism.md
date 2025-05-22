@@ -1,11 +1,89 @@
 ---
 title: journalism
-updated: 2025-05-21 14:08:02
+updated: 2025-05-22 06:09:26
 ---
 
 # journalism
 
-(date: 2025-05-21 14:08:02)
+(date: 2025-05-22 06:09:26)
+
+---
+
+## ‘The program saved my life’: UCLA to eliminate Community Youth Programs
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kayla Walls began rebelling more and attending school less when her brother died.
+But the one person who she said did not write her off was MaryAnn Szyskowski, an After School Program school site coordinator for UCLA’s Community Youth Programs. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/the-program-saved-my-life-ucla-to-eliminate-community-youth-programs/>
+
+---
+
+## UC Board of Regents discusses tuition increases in response to state finance cuts
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents investments and finance and capital strategies committees discussed potentially raising tuition in response to state budget cuts. 
+The board held its bimonthly meeting from May 13 to 15 at UC San Francisco. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/uc-board-of-regents-discusses-tuition-increases-in-response-to-state-finance-cuts/>
+
+---
+
+## Student volunteers, community members collaborate in North Westwood cleanup
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and community members woke up early Saturday morning to pick up trash at the North Westwood community cleanup.
+The volunteer event &#8211; which took place from 9 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/student-volunteers-community-members-collaborate-in-north-westwood-cleanup/>
+
+---
+
+## Editorial Cartoon: “Seasonal Allergies”
+
+date: 2025-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/editorial-cartoon-seasonal-allergies/>
+
+---
+
+## Restaurant review: Despite Cosetta’s comfy cuisine, it cannot overcome costly prices
+
+date: 2025-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+With a cozy interior and predictable preparations of well-known classics, Cosetta satisfies but fails to excite.
+The Santa Monica restaurant, which opened April 1 on Ocean Park Boulevard and primarily specializes in a blend of Californian and Italian cuisine, is the creation of Zach Pollack. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/21/restaurant-review-despite-cosettas-comfy-cuisine-it-cannot-overcome-costly-prices/>
+
+---
+
+## Honoring Patsy Mink
+
+date: 2025-05-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Most people may not know the first woman of color elected to Congress, Patsy Mink, but those who attended a performance in the Great Hall</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/21/honoring-patsy-mink/">Honoring Patsy Mink</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/21/honoring-patsy-mink/?utm_source=rss&utm_medium=rss&utm_campaign=honoring-patsy-mink>
 
 ---
 

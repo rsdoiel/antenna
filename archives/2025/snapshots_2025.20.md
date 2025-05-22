@@ -1,11 +1,209 @@
 ---
 title: snapshots
-updated: 2025-05-21 14:08:07
+updated: 2025-05-22 06:09:30
 ---
 
 # snapshots
 
-(date: 2025-05-21 14:08:07)
+(date: 2025-05-22 06:09:30)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-22, from: Dave Winer's linkblog)
+
+The “big, beautiful” bill ain’t beautiful—it’s bullshit. 
+
+<br> 
+
+<https://bsky.app/profile/repjasmine.bsky.social/post/3lpqzehoays2c>
+
+---
+
+## Making AI Work: Leadership, Lab, and Crowd
+
+date: 2025-05-22, from: One Useful Thing
+
+A formula for AI in companies 
+
+<br> 
+
+<https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and>
+
+---
+
+## Gaming Out a Sudden Stop
+
+date: 2025-05-22, from: Paul Krugman
+
+What happens if investors lose faith in America? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/gaming-out-a-sudden-stop>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-22, from: Feed for Alt USDS)
+
+We’ve got a Builder in office! On May 20, our colleague, Itir Cole, was sworn in as Haddonfield Commissioner. She’s bringing her brilliance from USDS + the White House to local Gov. Let’s goooo!
+
+🔗 https://bit.ly/4mz38l5 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lpq75mj7k324>
+
+---
+
+## 297: Brontë Country
+
+date: 2025-05-22, from: Fix the News
+
+"Every leaf speaks bliss to me, fluttering from the autumn tree." Plus, the end of one of the world's oldest conflicts, a turning point for China's emissions, some surprising news on mass shootings in the US, Colombia leads the way for indigenous rights, and some nifty engineering on Voyager. 
+
+<br> 
+
+<https://fixthenews.com/297-bronte-country/>
+
+---
+
+## No docs, no bugs
+
+date: 2025-05-22, updated: 2025-05-22, from: Simon Willison’s Weblog
+
+<p><strong>If your library doesn't have any documentation, it can't have any bugs.</strong></p>
+<p>Documentation specifies what your code is supposed to do. Your tests specify what it actually does.</p>
+<p>Bugs exist when your test-enforced implementation fails to match the behavior described in your documentation.  Without documentation a bug is just undefined behavior.</p>
+<p>If you aim to follow <a href="https://semver.org/">semantic versioning</a> you bump your major version when you release a backwards incompatible change. Such changes cannot exist if your code is not comprehensively documented!</p>
+<p><small>Inspired by a half-remembered conversation I had with <a href="https://movieos.org/">Tom Insam</a> many years ago. </small></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/testing">testing</a>, <a href="https://simonwillison.net/tags/semantic-versioning">semantic-versioning</a>, <a href="https://simonwillison.net/tags/documentation">documentation</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/22/no-docs-no-bugs/#atom-everything>
+
+---
+
+## White Noise
+
+date: 2025-05-22, from: Chris Coyier blog
+
+My 7 year old strongly prefers to sleep with white noise playing. She&#8217;s got a little machine that does it on a timer. Whenever she sleeps somewhere else, if she can&#8217;t bring the machine, it&#8217;s best to have another solution. YouTube has those 10 hour long videos that do it which I can just play [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/05/21/white-noise/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-21, from: Dave Winer's linkblog)
+
+RFK Jr. calls WHO “moribund” amid US withdrawal; China pledges to give $500M. 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/05/china-pledges-500m-to-who-as-us-abandons-international-health-agency/>
+
+---
+
+## 567. The Great Northern War: Murder in Moscow (Part 4)
+
+date: 2025-05-21, from: This is history podcast
+
+<p>What were the consequences of Peter the Great’s mighty victory over Sweden at the Battle of Poltova in 1707? How great was the impact of his reign upon Russia overall, and was he responsible for turning it into one of Europe’s greatest powers? What occurred during the later years of his life? And, what is [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/567-the-great-northern-war-murder-in-moscow-part-4/">567. The Great Northern War: Murder in Moscow (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/567-the-great-northern-war-murder-in-moscow-part-4/>
+
+---
+
+## Devstral
+
+date: 2025-05-21, updated: 2025-05-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mistral.ai/news/devstral">Devstral</a></strong></p>
+New Apache 2.0 licensed LLM release from Mistral, this time specifically trained for code.</p>
+<blockquote>
+<p>Devstral achieves a score of 46.8% on SWE-Bench Verified, outperforming prior open-source SoTA models by more than 6% points. When evaluated under the same test scaffold (OpenHands, provided by <a href="https://www.all-hands.dev/">All Hands AI</a> 🙌), Devstral exceeds far larger models such as Deepseek-V3-0324 (671B) and Qwen3 232B-A22B.</p>
+</blockquote>
+<p>I'm always suspicious of small models like this that claim great benchmarks against much larger rivals, but there's a Devstral model that is <a href="https://ollama.com/library/devstral/tags">just 14GB on Ollama</a> to it's quite easy to try out for yourself.</p>
+<p>I fetched it like this:</p>
+<pre><code>ollama pull devstral
+</code></pre>
+<p>Then ran it in a <a href="https://llm.datasette.io/en/stable/usage.html#starting-an-interactive-chat">llm chat</a> session with <a href="https://github.com/taketwo/llm-ollama">llm-ollama</a> like this:</p>
+<pre><code>llm install llm-ollama
+llm chat -m devstral
+</code></pre>
+<p>Initial impressions: I think this one is pretty good! Here's <a href="https://gist.github.com/simonw/543e4322c7a3144afb1cc2d685036742">a full transcript</a> where I had it write Python code to fetch a CSV file from a URL and import it into a SQLite database, creating the table with the necessary columns. Honestly I need to retire that challenge, it's been a while since a model failed at it, but it's still interesting to see how it handles follow-up prompts to demand things like <code>asyncio</code> or a different HTTP client library.</p>
+<p>It's also available through <a href="https://docs.mistral.ai/api/">Mistral's API</a>. <a href="https://github.com/simonw/llm-mistral/releases/tag/0.13">llm-mistral 0.13</a> configures the <code>devstral-small</code> alias for it:</p>
+<pre><code>llm install -U llm-mistral
+llm keys set mistral
+# paste key here
+llm -m devstral-small 'HTML+JS for a large text countdown app from 5m'
+</code></pre>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/21/devstral/#atom-everything>
+
+---
+
+## Gemini Diffusion
+
+date: 2025-05-21, updated: 2025-05-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://deepmind.google/models/gemini-diffusion/">Gemini Diffusion</a></strong></p>
+Another of the announcements from Google I/O yesterday was Gemini Diffusion, Google's first LLM to use diffusion (similar to image models like Imagen and Stable Diffusion) in place of transformers.</p>
+<p>Google describe it like this:</p>
+<blockquote>
+<p>Traditional autoregressive language models generate text one word – or token – at a time. This sequential process can be slow, and limit the quality and coherence of the output.</p>
+<p>Diffusion models work differently. Instead of predicting text directly, they learn to generate outputs by refining noise, step-by-step. This means they can iterate on a solution very quickly and error correct during the generation process. This helps them excel at tasks like editing, including in the context of math and code.</p>
+</blockquote>
+<p>The key feature then is <em>speed</em>. I made it through the waitlist and tried it out just now and <em>wow</em>, they are not kidding about it being fast.</p>
+<p>In this video I prompt it with "Build a simulated chat app" and it responds at 857 tokens/second, resulting in an interactive HTML+JavaScript page (embedded in the chat tool, Claude Artifacts style) within single digit seconds.</p>
+<div style="max-width: 100%;">
+    <video 
+        controls 
+        preload="none"
+        aria-label="In the video I prompt Gemini Diffusion to create me an example chat app and it responds at over 650 tokens a second, giving me a working app I can iterate on in less than a few seconds."
+        poster="https://static.simonwillison.net/static/2025/gemini-diffusion.jpg"
+        style="width: 100%; height: auto;">
+        <source src="https://static.simonwillison.net/static/2025/gemini-diffusion.mp4" type="video/mp4">
+    </video>
+</div>
+
+<p>The performance feels similar to <a href="https://simonwillison.net/2024/Oct/31/cerebras-coder/">the Cerebras Coder tool</a>, which used Cerebras to run Llama3.1-70b at around 2,000 tokens/second.</p>
+<p>How good is the model? I've not seen any independent benchmarks yet, but Google's landing page for it promises "the performance of Gemini 2.0 Flash-Lite at 5x the speed" so presumably they think it's comparable to Gemini 2.0 Flash-Lite, one of their least expensive models.</p>
+<p>Prior to this the only commercial grade diffusion model I've encountered is <a href="https://www.inceptionlabs.ai/introducing-mercury">Inception Mercury</a> back in February this year.</p>
+<p><strong>Update</strong>: a correction from <a href="https://news.ycombinator.com/item?id=44057820#44057939">synapsomorphy on Hacker News</a>:</p>
+<blockquote>
+<p>Diffusion isn't in place of transformers, it's in place of autoregression. Prior diffusion LLMs like <a href="https://www.inceptionlabs.ai/introducing-mercury">Mercury</a> still use a transformer, but there's no causal masking, so the entire input is processed all at once and the output generation is obviously different. I very strongly suspect this is also using a transformer.</p>
+</blockquote>
+<p>nvtop <a href="https://news.ycombinator.com/context?id=44059646">provided this explanation</a>:</p>
+<blockquote>
+<p>Despite the name, diffusion LMs have little to do with image diffusion and are much closer to BERT and old good masked language modeling. Recall how BERT is trained:</p>
+<ol>
+<li>Take a full sentence ("the cat sat on the mat")</li>
+<li>Replace 15% of tokens with a [MASK] token ("the cat [MASK] on [MASK] mat")</li>
+<li>Make the Transformer predict tokens at masked positions. It does it in parallel, via a single inference step.</li>
+</ol>
+<p>Now, diffusion LMs take this idea further. BERT can recover 15% of masked tokens ("noise"), but why stop here. Let's train a model to recover texts with 30%, 50%, 90%, 100% of masked tokens.</p>
+<p>Once you've trained that, in order to generate something from scratch, you start by feeding the model all [MASK]s. It will generate you mostly gibberish, but you can take some tokens (let's say, 10%) at random positions and assume that these tokens are generated ("final"). Next, you run another iteration of inference, this time input having 90% of masks and 10% of "final" tokens. Again, you mark 10% of new tokens as final. Continue, and in 10 steps you'll have generated a whole sequence. This is a core idea behind diffusion language models. [...]</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/google-io">google-io</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/21/gemini-diffusion/#atom-everything>
 
 ---
 
@@ -139,7 +337,7 @@ date: 2025-05-21, updated: 2025-05-21, from: Robin Rendle Essays
 
 date: 2025-05-21, from: Liliputing
 
-<p>The Bosgame M5 AI is a small desktop computer with a powerful AMD Ryzen AI Max+ 395 Strix Halo processor featuring a 16-core, 32-thread CPU, Radeon 8060S integrated graphics with 40 RDNA 3.5 GPU cores, and an NPU that delivers up to 40 TOPS of AI performance. Available for pre-order from the Bosgame website for $1699, [&#8230;]</p>
+<p>The Bosgame M5 AI is a small desktop computer with a powerful AMD Ryzen AI Max+ 395 Strix Halo processor featuring a 16-core, 32-thread CPU, Radeon 8060S integrated graphics with 40 RDNA 3.5 GPU cores, and an NPU that delivers up to 40 TOPS of AI performance. Available for pre-order from the Bosgame website for [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/bosgame-m5-ai-is-a-mini-pc-with-ryzen-ai-max-395-and-a-familiar-design/">Bosgame M5 AI is a mini PC with Ryzen AI Max+ 395 (and a familiar design)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 

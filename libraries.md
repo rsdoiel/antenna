@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-21 14:08:03
+updated: 2025-05-22 06:09:27
 ---
 
 # libraries
 
-(date: 2025-05-21 14:08:03)
+(date: 2025-05-22 06:09:27)
+
+---
+
+## Guest Post — The Guidelines for Reporting Intersectional Analysis in Science and Technology (GRIST): An Interview with Londa Schiebinger
+
+date: 2025-05-22, from: Scholarly Kitchen
+
+<p>A comprehensive set of recommendations designed to support researchers, peer-reviewed journals, and funding bodies in systematically incorporating intersectional perspectives have been  formalized in the Guidelines for Reporting Intersectional Analysis in Science and Technology (GRIST). Here we interview Londa Schiebinger, co-author of the Guidelines.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/22/guest-post-the-guidelines-for-reporting-intersectional-analysis-in-science-and-technology-grist-an-interview-with-londa-schiebinger/">Guest Post &#8212; The Guidelines for Reporting Intersectional Analysis in Science and Technology (GRIST): An Interview with Londa Schiebinger</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/22/guest-post-the-guidelines-for-reporting-intersectional-analysis-in-science-and-technology-grist-an-interview-with-londa-schiebinger/>
 
 ---
 

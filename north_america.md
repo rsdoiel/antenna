@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-05-21 14:07:56
+updated: 2025-05-22 06:09:21
 ---
 
 # north america
 
-(date: 2025-05-21 14:07:56)
+(date: 2025-05-22 06:09:21)
+
+---
+
+## Trump’s Oval Office is Dripping in Gold: Azza Cohen Explains
+
+date: 2025-05-22, from: The Contrarian
+
+Every President is able to customize the look and feel of the Oval Office. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164156618/cd51b6a18fd799775e4ed23e1f697e62.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164156618/cd51b6a18fd799775e4ed23e1f697e62.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trumps-oval-office-is-dripping-in>
+
+---
+
+## Where is the outrage when Trump goes full Erdogan?
+
+date: 2025-05-22, from: The Contrarian
+
+Plus...Side trips can be the most engaging part of any journey 
+
+<br> 
+
+<https://contrarian.substack.com/p/where-is-the-outrage-when-trump-goes>
+
+---
+
+##  The Pharma Puppets Keeping Your Drug Prices High 
+
+date: 2025-05-22, from: The Lever News
+
+ Six supposed patient advocacy groups are closely linked to drugmakers and pushing industry-aligned agendas, according to a new report.  
+
+<br> 
+
+<https://www.levernews.com/the-pharma-puppets-keeping-your-drug-prices-high/>
+
+---
+
+## Evening Roundup, May 21
+
+date: 2025-05-21, from: The Contrarian
+
+Featuring AG Keith Ellison & April Ryan; Norm Eisen & Lisa Gilbert; Jennifer Weiss-Wolf; Jennifer Schulze; Austin Sarat; Matthew Boulay; The Democracy Movement; and Jen Rubin 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-21>
 
 ---
 

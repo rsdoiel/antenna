@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-05-21 14:08:01
+updated: 2025-05-22 06:09:25
 ---
 
 # writing
 
-(date: 2025-05-21 14:08:01)
+(date: 2025-05-22 06:09:25)
+
+---
+
+## Creativity in Death: How ‘Final Destination: Bloodlines’ Keeps Things Fresh
+
+date: 2025-05-21, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/creativity-in-death-how-final-destination-bloodlines-keeps-things-fresh" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Kaitlyn%20Santa%20Juana%20in%20Final%20Destination%20Bloodlines%20%282%29.png" alt="Kaitlyn Santa Juana holds a shard of glass in Final Destination Bloodlines" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>It’s coming. You know it’s coming. But <em>Final Destination: Bloodlines</em> keeps the audiences guessing on who is going to die and how – it builds suspense even when everyone knows someone is about to die. If there is one thing that the <em>Final Destination</em> franchise excels at, it’s the journey more than the (final) destination. The viewer is consistently thrown into a puzzle trying to piece together the clues that lead to a character’s death. They’re constantly asking questions: Will the broken glass play a role in a character’s demise? What about the penny? Is the vending machine going to tip over?</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/creativity-in-death-how-final-destination-bloodlines-keeps-things-fresh>
 
 ---
 

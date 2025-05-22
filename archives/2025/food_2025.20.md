@@ -1,11 +1,115 @@
 ---
 title: food
-updated: 2025-05-21 14:08:06
+updated: 2025-05-22 06:09:29
 ---
 
 # food
 
-(date: 2025-05-21 14:08:06)
+(date: 2025-05-22 06:09:29)
+
+---
+
+## Margot Robbie’s Favorite Cocktail Is Simple But Refreshing
+
+date: 2025-05-22, from: Taste of Home
+
+<p>This Barbie's job is drinking fun cocktails.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/margot-robbies-favorite-cocktail/">Margot Robbie’s Favorite Cocktail Is Simple But Refreshing</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/margot-robbies-favorite-cocktail/>
+
+---
+
+## Potato Salad
+
+date: 2025-05-22, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/05/Potato-Salad-1200-7833.jpg"/></div>
+<p>The classic potato salad; tender potatoes in a creamy dressing that&#8217;s the perfect summer food! One of my favourite summer side dishes is potato salad! There’s just something magical about tender potatoes in a creamy dressing! I have shared a few different potato salad recipes (see below) but this is my goto recipe, the one...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/potato-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/potato-salad/">Potato Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/potato-salad/>
+
+---
+
+## Mango Margarita
+
+date: 2025-05-22, from: Bon Appetet
+
+Blend frozen mango, blanco tequila, and lime juice into these cooling  margaritas. A Tajín rim adds a spicy-salty kick. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/spicy-mango-margarita>
+
+---
+
+## Paloma Slushy
+
+date: 2025-05-22, from: Bon Appetet
+
+Frozen into a slushy, the classic tequila and grapefruit cocktail becomes even more refreshing. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/paloma-slushy>
+
+---
+
+## Strawberry Daiquiri
+
+date: 2025-05-22, from: Bon Appetet
+
+Using frozen strawberries means no need for ice cubes. White rum adds just enough booze and fresh lime juice, bright acidity. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/strawberry-daiquiri>
+
+---
+
+## Frozen Espresso Martini With Spiked Whipped Cream
+
+date: 2025-05-22, from: Bon Appetet
+
+This frozen cocktail uses instant espresso for a strong flavor and unbeatable convenience. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/frozen-espresso-martini-with-spiked-whipped-cream>
+
+---
+
+## Ina Garten Eats This Whenever She Has a Bad Day
+
+date: 2025-05-22, from: Taste of Home
+
+<p>The Barefoot Contessa has a favorite comfort meal.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-favorite-comfort-recipe/">Ina Garten Eats This Whenever She Has a Bad Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-favorite-comfort-recipe/>
+
+---
+
+## Best Healthy Snacks to Buy Online That Actually Taste Good (2025)
+
+date: 2025-05-21, from: Bon Appetet
+
+Seasonal citrus, nut butter-stuffed dates, and your new favorite crackers. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-healthy-snacks>
 
 ---
 

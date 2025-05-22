@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2025-05-21 14:08:05
+updated: 2025-05-22 06:09:28
 ---
 
 # health
 
-(date: 2025-05-21 14:08:05)
+(date: 2025-05-22 06:09:28)
+
+---
+
+## Gut microbiota dysbiosis and metabolic shifts in pediatric norovirus infection: a metagenomic study in Northeast China
+
+date: 2025-05-22, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundNorovirus (NoV) is a leading cause of acute gastroenteritis in pediatric populations worldwide. However, the role of gut microbiota in NoV pathogenesis remains poorly understood.MethodsWe conducted a longitudinal metagenomic analysis of fecal samples from 12 NoV-infected children and 13 age-matched healthy controls in Northeast China. Microbial composition and functional pathways were assessed using high-throughput shotgun sequencing and bioinformatic profiling.ResultsNoV infection was associated with significant gut microbial dysbiosis, including increased alpha diversity and distinct taxonomic shifts. Notably, Bacteroides uniformis, Veillonella spp., and Carjivirus communis were enriched in infected individuals. Functional analysis revealed upregulation of metabolic pathways involved in carbohydrate and lipid processing. These microbial and functional alterations persisted over time and correlated with disease severity.ConclusionsOur findings reveal novel associations between NoV infection and gut microbiota dysbiosis, particularly the enrichment of Bacteroides uniformis, which may influence host-pathogen interactions via metabolic or immune mechanisms. The identified microbial and metabolic signatures offer potential biomarkers for diagnosis and targets for microbiota-based therapeutic strategies in pediatric NoV infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1600470>
 
 ---
 

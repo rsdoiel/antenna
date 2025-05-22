@@ -1,11 +1,83 @@
 ---
 title: home
-updated: 2025-05-21 14:08:04
+updated: 2025-05-22 06:09:28
 ---
 
 # home
 
-(date: 2025-05-21 14:08:04)
+(date: 2025-05-22 06:09:28)
+
+---
+
+## 30 Different Types of Daisy Plants (With Pictures and Names)
+
+date: 2025-05-22, from: Yard Life blog
+
+<p>When it comes to timeless garden charm, few flowers can rival the cheerful elegance of daisies. Alongside iconic blooms like ... </p>
+<p class="read-more-container"><a title="30 Different Types of Daisy Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/30-different-types-of-daisy-plants-with-pictures-and-names/#more-28620" aria-label="Read more about 30 Different Types of Daisy Plants (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-different-types-of-daisy-plants-with-pictures-and-names/">30 Different Types of Daisy Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-different-types-of-daisy-plants-with-pictures-and-names/>
+
+---
+
+## 40 Common Types of Clover Plants (With Pictures and Names)
+
+date: 2025-05-22, from: Yard Life blog
+
+<p>If you&#8217;ve ever wandered through a meadow or glanced at a thriving backyard lawn, chances are you&#8217;ve seen clover quietly ... </p>
+<p class="read-more-container"><a title="40 Common Types of Clover Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/40-common-types-of-clover-plants-with-pictures-and-names/#more-28578" aria-label="Read more about 40 Common Types of Clover Plants (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-common-types-of-clover-plants-with-pictures-and-names/">40 Common Types of Clover Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-common-types-of-clover-plants-with-pictures-and-names/>
+
+---
+
+## Picking Blackberries: How and When to Harvest
+
+date: 2025-05-22, from: The Gardener's Path
+
+<p>Harvesting blackberries isn’t complicated, but it can be a prickly task! Make the most of your summer blackberry harvest by picking only the best berries on your plant. While it may be tempting to harvest as soon as they appear, there is a trick to plucking the best fruit at its peak. Read our top tips now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/harvest-blackberries/">Picking Blackberries: How and When to Harvest</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/harvest-blackberries/>
+
+---
+
+## How to Plant and Grow Eye-Popping Zinnia Flowers
+
+date: 2025-05-22, from: The Gardener's Path
+
+<p>Want eye-popping color all season long? Grow zinnias. These impressive annuals feature large colorful flowers that continue blooming throughout the summer, attracting hummingbirds, bees, and butterflies to the garden. Continue reading for information on how to grow and care for zinnia flowers.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-zinnia/">How to Plant and Grow Eye-Popping Zinnia Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-zinnia/>
+
+---
+
+## Madonna Inn: Secret Gardens & Fruit-Filled Pie in SLO
+
+date: 2025-05-21, from: California Grown
+
+<p>You know that feeling when you stumble upon a place so eccentric, so unapologetically itself, that you can’t help but grin? That’s the Madonna Inn. Located right off Madonna Road in downtown San Luis Obispo, this landmark is more than a pit stop on Highway 101. It’s a fever dream of pink decor, rock walls, [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/madonna-inn/" data-wpel-link="internal" target="_self">Madonna Inn: Secret Gardens &amp; Fruit-Filled Pie in SLO</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/madonna-inn/>
 
 ---
 
@@ -32,6 +104,42 @@ California FFA student Brendy Puckett earns inaugural $10,000 scholarship from Y
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29006>
+
+---
+
+## The Best Sustainable Swimwear Brands to Shop This Summer
+
+date: 2025-05-21, from: Sunset Magazine - Living in the West
+
+Swim sustainably all summer long with these eco-friendly swimwear brands from the West. There's something for everyone here. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/sustainable-swimwear-brands>
+
+---
+
+## Why ‘Chaos Gardening’ Is the Wild Trend Taking Over Backyards Once Again
+
+date: 2025-05-21, from: Sunset Magazine - Living in the West
+
+Chaos gardening is the practice of tossing a bunch of seeds into the ground randomly, and it's trending again. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/chaos-gardening-trend>
+
+---
+
+## I Went Seaweed Foraging on the Sonoma Coast—Here’s What I Learned
+
+date: 2025-05-21, from: Sunset Magazine - Living in the West
+
+Seaweed foraging on the Sonoma Coast tells a story of tide and terroir. Here's how to do it with Strong Arm Farm. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel/foraging-seaweed-california-coast>
 
 ---
 
@@ -108,6 +216,18 @@ The current owner/designer refreshed the ’60s getaway from top to bottom, and 
 <br> 
 
 <https://www.dwell.com/article/midcentury-beach-house-renovation-jarrell-interiors-neskowin-oregon-real-estate-17cb197d>
+
+---
+
+## 8 Airplane Essentials You Didn’t Know You Needed
+
+date: 2025-05-21, from: Sunset Magazine - Living in the West
+
+Check out these goodies that will make your next flight as easy as can be, so you can hit the tarmac running when you arrive.  
+
+<br> 
+
+<https://www.sunset.com/travel/airplane-essentials>
 
 ---
 
@@ -315,6 +435,18 @@ Located in Northern California and within a quick drive from San Francisco, thes
 <br> 
 
 <https://www.sunset.com/travel/camping/best-campgrounds-in-california>
+
+---
+
+## 7 Ways You Can Turn Your Vegetable Garden into a Beautiful Work of Art
+
+date: 2025-05-20, from: Sunset Magazine - Living in the West
+
+Landscape designer Christian Douglas teaches us how to mix in flavor with flair and create a beautiful vegetable garden. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/vegetable-garden-design-ideas>
 
 ---
 

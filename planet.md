@@ -1,11 +1,487 @@
 ---
 title: planet
-updated: 2025-05-21 14:07:56
+updated: 2025-05-22 06:09:20
 ---
 
 # planet
 
-(date: 2025-05-21 14:07:56)
+(date: 2025-05-22 06:09:20)
+
+---
+
+## No bread and the flour has 'worms', says priest in Gaza
+
+date: 2025-05-22, from: RTÉ News
+
+A priest at the only Roman Catholic parish in Gaza has said there has been no bread for many weeks and what little flour there is contains "worms". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0522/1514344-gaza-priest/>
+
+---
+
+## What is happening to the children of Haiti? 
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>As gang violence spirals in Haiti, children are being pulled from classrooms and into chaos. Confiance Haiti is on the frontline, offering education, safety, and hope where the world has turned away.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/confiance-haiti-ngo-education-children-gang-poverty-crisis-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/confiance-haiti-ngo-education-children-gang-poverty-crisis-2025.html>
+
+---
+
+## Influencer speaks out on violent attack and growing online abuse
+
+date: 2025-05-22, from: RTÉ News
+
+Charleen Murphy speaks about her experience in which a man who had commented constantly on her social media accounts attacked her in person. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0522/1514335-influencer-speaks-out-on-violent-attack-and-growing-online-abuse/>
+
+---
+
+## All eyes on Gaza as aid teams retrieve first lifesaving relief in months
+
+date: 2025-05-22, from: United Nations, Top Stories
+
+UN agencies in Gaza confirmed on Thursday that desperately needed aid has finally arrived at warehouses inside the enclave after an 11-week blockade by Israeli authorities. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163571>
+
+---
+
+## Posts about Healy-Rae to be taken down pending trial
+
+date: 2025-05-22, from: RTÉ News
+
+A number of allegations on social media by a former general election candidate and activist about Kerry TD Michael Healy-Rae are to be taken down from social media and not repeated "pending" trial of the matter, a court has ruled. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0522/1514331-michael-healy-rae-court/>
+
+---
+
+## Canadian author wins 2025 Dublin Literary Award
+
+date: 2025-05-22, from: RTÉ News
+
+Canadian author Michael Crummey has been announced as the winner of the 2025 Dublin Literary Award for his book 'The Adversary'. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514311-dublin-literary-award/>
+
+---
+
+## US House approves Trump's sweeping tax-cut bill
+
+date: 2025-05-22, from: RTÉ News
+
+The Republican-led US House of Representatives has voted to approve President Donald Trump's sprawling tax relief and spending cuts mega-bill that critics warn would decimate health care while ballooning the debt. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0522/1514323-us-tax-bill/>
+
+---
+
+## Funeral mass for Paul Durcan taking place in Dublin
+
+date: 2025-05-22, from: RTÉ News
+
+The funeral mass is taking place in Dublin of one of Ireland's most renowned contemporary poets Paul Durcan, who died last week aged 80. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514319-paul-durcan-funeral/>
+
+---
+
+## Merz warns of Russia threat during Lithuania visit
+
+date: 2025-05-22, from: RTÉ News
+
+Chancellor Friedrich Merz has warned that Russia threatens security in Europe as he visited Lithuania to mark the official formation of Germany's first permanent overseas military unit since World War II, aimed at bolstering NATO's eastern flank. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0522/1514315-ukraine/>
+
+---
+
+## People asked to share their pandemic experience
+
+date: 2025-05-22, from: RTÉ News
+
+The independent Expert Evaluation of Ireland's handling of the Covid-19 pandemic has today launched a public consultation phase. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0522/1514309-covid-pandemic-handling/>
+
+---
+
+## Pope Leo XIV: 'Christ is our Saviour, and in Him, we are one family'
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>Pope Leo XIV praises the important global efforts of the Pontifical Mission Societies, marveling that they are "effectively the 'primary means' of awakening missionary responsibility among all the baptized and supporting ecclesial communities in areas where the Church is young.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-to-pontifical-mission-societies-general-assembly.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-to-pontifical-mission-societies-general-assembly.html>
+
+---
+
+## Aid entering Gaza nowhere near enough, say officials
+
+date: 2025-05-22, from: RTÉ News
+
+Palestinian officials say flour and other food aid entering Gaza is nowhere near enough to make up for shortages caused by an 11-week blockade, as the Israeli army issued evacuation orders for 14 neighbourhoods in north Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0522/1514306-israel-gaza/>
+
+---
+
+## Pope appoints Sr. Tiziana Merletti as Secretary of Dicastery for Consecrated Life
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>Pope Leo XIV has appointed Sr. Tiziana Merletti as the Secretary of the Dicastery for Consecrated Life, which is responsible for orders and religious congregations, as well as secular institutes.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-sr-merletti-dicastery-for-consecrated-life.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-sr-merletti-dicastery-for-consecrated-life.html>
+
+---
+
+## Moscow Auxiliary Bishop: Church in Russia ‘struck by Pope’s push for peace’
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>Bishop Nicolai Gennadevich Dubinin, Auxiliary Bishop of the Archdiocese of the Mother of God in Moscow, tells Vatican News that Pope Leo XIV has impressed the Church and people of Russia with his call for a “disarmed and disarming peace.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/russia-mother-god-moscow-catholic-auxiliary-bishop-dubinin.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/russia-mother-god-moscow-catholic-auxiliary-bishop-dubinin.html>
+
+---
+
+## Harris examining report of US deportees flight stopover
+
+date: 2025-05-22, from: RTÉ News
+
+Tánaiste Simon Harris has said he is trying to establish the facts surrounding a report that a flight carrying deportees from the US to Africa, against a judge's order, stopped at Shannon Airport. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514292-us-deportees-flight/>
+
+---
+
+## Athletica Vaticana: Jubilee of Sport to foster ‘Momentum of Hope’
+
+date: 2025-05-22, from: Vatican News
+
+
+                    <p>On the Jubilee of Sport in mid-June, the Augustinianum Institute in Rome will host an international conference to explore the Church’s desire to support the “Momentum of Hope” offered by sport.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/athletica-vaticana-jubilee-sport-momentum-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/athletica-vaticana-jubilee-sport-momentum-hope.html>
+
+---
+
+## Driving test wait should fall to 10 weeks this year - RSA
+
+date: 2025-05-22, from: RTÉ News
+
+The Chief Operating Officer with the Road Safety Authority has said waiting times for driving tests should be down to ten weeks by the start of September. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514279-rsa-driving-test/>
+
+---
+
+## PAC told of 15th delay to children's hospital
+
+date: 2025-05-22, from: RTÉ News
+
+Follow live updates as the National Paediatric Hospital Development Board and Children's Health Ireland appear before Public Accounts Committee to update TDs on progress on the children's hospital. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0522/1514274-public-accounts-committee-childrens-hospital/>
+
+---
+
+## Kneecap say terrorism charge an attempt to 'silence' them
+
+date: 2025-05-22, from: RTÉ News
+
+Irish rap trio Kneecap have said the charging of one of their members with a terror offence in the UK was "political" and intended to "silence" them. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514262-kneecap-charge-statement/>
+
+---
+
+## Children's Ombudsman dismayed by child homelessness rise
+
+date: 2025-05-22, from: RTÉ News
+
+The Children's Ombudsman has said he is "exasperated and utterly dismayed" with the rise in child homelessness. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514240-child-homelessness/>
+
+---
+
+## Camogie Association to vote on skorts issue tonight
+
+date: 2025-05-22, from: RTÉ News
+
+The Camogie Association will hold a special congress on the skorts issue at Croke Park tonight, where a vote will be taken on whether or not to allow shorts to become part of the official kit for the sport. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0522/1514256-camogie-association-vote-on-skorts-issue-this-evening/>
+
+---
+
+## Several nations condemn IDF 'warning shots' in West Bank
+
+date: 2025-05-22, from: RTÉ News
+
+Several nations have voiced outrage after Israeli troops fired near a delegation that included two Irish diplomats in the West Bank, with the Tánaiste calling the incident "a clear breach of law". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0522/1514254-middle-east-gaza/>
+
+---
+
+## Fifth year students find relic of saint in Dublin school
+
+date: 2025-05-22, from: RTÉ News
+
+A relic of a saint which is believed to date from the second or third century has been found in a secondary school in north Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0522/1514234-dublin-school-relic/>
+
+---
+
+## Oval Office 'ambush' shapes US-South Africa relations
+
+date: 2025-05-22, from: RTÉ News
+
+Ambush. That is the word most used by US media to describe yesterday's explosive White House confrontation between President Donald Trump and his South African counterpart Cyril Ramaphosa. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0522/1514245-ramaphosa-trump-analysis/>
+
+---
+
+## Shooting result of anti-Semitic 'incitement' - Israel
+
+date: 2025-05-22, from: RTÉ News
+
+Follow live updates as US President Donald Trump condemns the killing of two Israeli embassy staff near the Jewish museum in Washington DC. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0522/1514249-us-washington/>
+
+---
+
+## ASTI: 'Exponential growth' in misogynistic comments from students
+
+date: 2025-05-22, from: RTÉ News
+
+In an interview ahead of a special Prime Time programme tonight, ASTI Kieran Christie has warned that female teachers are facing misogynistic comments and harassment from students in schools to an extent that is becoming 'unmanageable.' 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0522/1514203-asti-exponential-growth-in-misogynistic-comments-from-students/>
+
+---
+
+## Challenges for LGBTQ+ community 10 years after referendum
+
+date: 2025-05-22, from: RTÉ News
+
+RTÉ Social Affairs Correspondent Ailbhe Conneely looks back at the marriage equality referendum campaign and examines challenges the LGBTQ+ community continues to face. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0522/1514229-marriage-equality-10-years-on/>
+
+---
+
+## G7 finance chiefs seek unity as Canada talks near end
+
+date: 2025-05-22, from: RTÉ News
+
+Talks among G7 finance ministers faced challenges as the group worked to overcome divides on thorny issues like the impact of US President Donald Trump's tariffs and support for Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0522/1514247-g7-finance-talks/>
+
+---
+
+## Israeli embassy 'devastated' after two staff shot dead
+
+date: 2025-05-22, from: RTÉ News
+
+The Israeli embassy in Washington has said it is "heartbroken and devastated" after two staff members were killed in a shooting in the US capital last night. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0522/1514246-israeli-embassy-shooting/>
+
+---
+
+## Education under fire: How Gazan students and professors study and teach in a war zone
+
+date: 2025-05-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/c8ff1240-6700-45d9-bad7-9633c2e5fc03,1747858188167/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='A photo illustration showing how professors and students work in Gaza' width='620' height='349' title='A photo illustration showing how professors and students work in Gaza'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-university-student-professor-war-1.7540421?cmp=rss>
+
+---
+
+## Paqtnkek fishers call for unity in Mi'kmaw nation to address elver fishing
+
+date: 2025-05-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7540099.1747856855!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kerry-prosper.jpg' alt='Man smiling ' width='620' height='349' title='Kerry Prosper describes eels as a food cache for the Mi&apos;kmaq, &quot;If we needed eels, we knew right where to go to find them. We&apos;d cut holes in the ice and spear them and bring them home,&quot; he says.'/><p>Elder Kerry Prosper and grandson Kaeden Prosper, who are from the only Mi'kmaw community in Nova Scotia choosing not to be involved with the elver fishery, say a unified approach between communities is needed to maintain eel populations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/paqtnek-eel-fishery-prosper-1.7539322?cmp=rss>
+
+---
+
+## My family's survival of residential school inspired me to identify people buried in unmarked graves
+
+date: 2025-05-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7537829.1747436927!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/enoch-cemetery.JPG' alt='A black stone, which has an etching of a tepee and a Cree man in traditional garb, in a grassy field. ' width='620' height='349' title='A plaque on a suburban parcel of land in Edmonton explains that this area is a burial site for the Enoch Cree Nation and that people “as far away as the Northwest Territories” were buried here, but it does not explain why.  '/><p>Shannon Cornelsen knows she is from a family of survivors. On her mother’s side, many of her loved ones lived through the residential school system. And that’s what's motivating her to take on the task of reconnecting families of those who died in the Camsell, a hospital in Edmonton where many Indigenous people were taken from the North and never came home.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/nowornever/my-family-s-survival-of-residential-school-inspired-me-to-identify-people-buried-in-unmarked-graves-1.7537804?cmp=rss>
+
+---
+
+## 'Serious' incident at N Korea warship launch ceremony
+
+date: 2025-05-22, from: RTÉ News
+
+A major incident occurred at a launch ceremony for a new North Korean naval destroyer, state media reported, with leader Kim Jong-un calling the incident a "criminal act". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0522/1514244-north-korea-warship/>
+
+---
+
+## One dead, 50,000 stranded in eastern Australia floods
+
+date: 2025-05-22, from: RTÉ News
+
+Torrential rain continued to lash eastern Australia, swelling already engorged rivers, engulfing roads and leaving almost 50,000 people stranded. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0522/1514241-australia-floods/>
+
+---
+
+## 2 Israeli Embassy staffers killed in Washington, D.C. shooting
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540718.1747905423!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/washington-shooting-israel.JPG' alt='A group of people stands in the street behind police tape next to an ambulance' width='620' height='349' title='U.S. Attorney General Pam Bondi and Israeli Ambassador to the U.S. Yechiel Leiter speak to the law enforcement officials as they visit the site where, according to the U.S. Homeland Security Secretary, two Israeli embassy staff were shot dead near the Capital Jewish Museum in Washington, D.C., U.S. May 22, 2025.  REUTERS/Jonathan Ernst'/><p>Two Israeli Embassy staff were killed in a shooting outside an event at the Capital Jewish Museum in Washington on Wednesday night, and a suspect is in custody, officials said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israeli-embassy-staff-washington-dc-1.7540699?cmp=rss>
+
+---
+
+## Kim Jong-un slams North Korean warship launch accident as 'criminal act': state media
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540681.1747881060!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/north-korean-leader-kim-jong-un-attending-ceremony-in-nampo-north-korea.JPG' alt='A photo of North Korean leader Kim Jong-un.' width='620' height='349' title='North Korean leader Kim Jong-un attends a ceremony for the launch of a &quot;new multipurpose destroyer,&quot; as per state media KCNA&apos;s reports, in Nampo, North Korea, in this handout picture released on April 26, 2025, by the Korean Central News Agency.'/><p>A serious accident occurred on Wednesday during the launch of a new North Korean warship while leader Kim Jong-un was attending the event. He called it a "criminal act" that could not be tolerated, state media KCNA reported.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/north-korea-warship-launch-accident-1.7540680?cmp=rss>
+
+---
+
+## New Children's Hospital 'to miss latest completion date'
+
+date: 2025-05-21, from: RTÉ News
+
+The latest deadline for the completion of the multi-billion euro New Children's Hospital is set to be missed by more than three months, with the project now unlikely to be finished until September, TDs will be told. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0522/1514220-pac-childrens-hospital/>
+
+---
+
+## Spurs edge United in scrappy final to win Europa League
+
+date: 2025-05-21, from: RTÉ News
+
+Tottenham ended their 17-year trophy drought by beating Manchester United 1-0 in the Europa League final and booking their spot in next season's Champions League in the process. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0521/1514136-spurs-edge-united-in-scrappy-final-to-win-europa-league/>
 
 ---
 
@@ -25,7 +501,7 @@ The Data Protection Commission has said that Meta has introduced a number of sig
 
 date: 2025-05-21, from: RTÉ News
 
-A member of Irish hip-hop group Kneecap has been charged with a terrorism offence over the displaying of a flag in support of Hezbollah at a gig in London last November, British police have said. 
+A member of Irish rap trio Kneecap has been charged with a terrorism offence over the displaying of a flag in support of Hezbollah at a gig in London last November, British police have said. 
 
 <br> 
 
@@ -42,6 +518,18 @@ US Defense Secretary Pete Hegseth has accepted the Boeing 747 that the Gulf emir
 <br> 
 
 <https://www.rte.ie/news/us/2025/0521/1514202-qatar-us-air-force-one/>
+
+---
+
+## 'Complete drainage' of lake cuts off Cree hunting territory near Waswanipi, Que.
+
+date: 2025-05-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7540015.1747845078!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/lake-rouge-drainage.JPG' alt='Lake Rouge drainage' width='620' height='349' title='Dixon family trapline find Lake Rouge drained, causing land collapse and debris making it&apos;s way to Lake Doda, a lake that connects to several others. '/><p>The Cree First Nation of Waswanipi in Quebec is advising land users to exercise caution and avoid the area around Lake Rouge after the lake drained with no apparent warning and destabilized some of the land in the area. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/lake-drainage-land-collapse-waswanipi-lake-rouge-lake-doda-1.7539994?cmp=rss>
 
 ---
 
@@ -90,6 +578,18 @@ date: 2025-05-21, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/hegeth-trump-qatar-plane-1.7540260?cmp=rss>
+
+---
+
+## U.S. formally accepts Qatar-gifted jet for Trump's use as Air Force One
+
+date: 2025-05-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540281.1747856467!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-inside-the-oval-office.jpg' alt='A side view of U.S. President Donald Trump&apos;s face, as seen in the Oval Office.' width='620' height='349' title='U.S. President Donald Trump looks on as he meets with South African President Cyril Ramaphosa in the Oval Office of the White House in Washington, DC, on May 21, 2025. South African President Cyril Ramaphosa meets Donald Trump on Wednesday amid tensions over Washington&apos;s resettlement of white Afrikaners that the US president claims are the victims of &quot;genocide.&quot;'/><p>U.S. Defence Secretary Pete Hegseth has accepted a luxury Boeing 747 aircraft from Qatar for U.S. President Donald Trump to use as Air Force One, the Pentagon said Wednesday, despite ongoing questions about the ethics and legality of taking the expensive gift from a foreign nation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hegseth-trump-qatar-plane-1.7540260?cmp=rss>
 
 ---
 
@@ -145,7 +645,7 @@ The head of NAMA has told the Oireachtas Committee on Finance that his salary wa
 
 date: 2025-05-21, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7540196.1747852423!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='Two men sit at chairs in front of an opulent fireplace.' width='620' height='349' title='President Donald Trump meets South African President Cyril Ramaphosa in the Oval Office of the White House, Wednesday, May 21, 2025, in Washington.'/><p>President Donald Trump used a White House meeting to forcefully confront South African President Cyril Ramaphosa, accusing the country of failing to address Trump’s baseless claim of widespread and targeted killing of white farmers.</p> 
+<img src='https://i.cbc.ca/1.7540196.1747852423!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='Two men sit at chairs in front of an opulent fireplace.' width='620' height='349' title='President Donald Trump meets South African President Cyril Ramaphosa in the Oval Office of the White House, Wednesday, May 21, 2025, in Washington.'/><p>U.S. President Donald Trump used a White House meeting to forcefully confront South African President Cyril Ramaphosa, accusing the country of failing to address Trump’s baseless claim of widespread and targeted killing of white farmers.</p> 
 
 <br> 
 
@@ -429,7 +929,7 @@ Football unites fans worldwide – but on Wednesday it matched the sport’s glo
 
 date: 2025-05-21, from: United Nations, Top Stories
 
-Israel forces opened fire on a diplomatic delegation near the Jenin camp in the occupied West Bank on Wednesday, drawing condemnation from several governments and the UN.&nbsp; 
+The UN has called for an investigation following reports that Israeli forces opened fire on a diplomatic delegation near the Jenin camp in the occupied West Bank on Wednesday.&nbsp; 
 
 <br> 
 
@@ -477,7 +977,7 @@ Southeast Asian nations should do more to protect people from being reeled into 
 
 date: 2025-05-21, from: United Nations, Top Stories
 
-UN aid workers said on Wednesday that they are still waiting for permission from Israel to distribute five trucks’ worth of lifesaving relief that was allowed into Gaza at the start of the week, after an 11-week blockade. 
+UN aid workers said on Wednesday that they are still waiting for permission from Israel to distribute five trucks worth of lifesaving relief that was allowed into Gaza at the start of the week, after an 11-week blockade. 
 
 <br> 
 
@@ -485,11 +985,35 @@ UN aid workers said on Wednesday that they are still waiting for permission from
 
 ---
 
-## Chris Brown freed on bail after bottle attack charge
+## Biodiversity loss demands urgent global action, says UN chief
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has called on countries to radically rethink their relationship with nature, warning that biodiversity loss is a global crisis no nation can ignore. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163561>
+
+---
+
+## Haiti: Displaced children face sexual violence risk
+
+date: 2025-05-21, from: United Nations, Top Stories
+
+Armed violence and insecurity in Haiti have exposed already vulnerable children to sexual violence and exploitation, the UN Office for the Coordination of Humanitarian Affairs (OCHA) warned on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163566>
+
+---
+
+## Chris Brown granted bail after bottle attack charge
 
 date: 2025-05-21, from: RTÉ News
 
-R&B singer Chris Brown has been freed on bail after he was charged over an alleged bottle attack at a London nightclub two years ago. 
+R&B singer Chris Brown has been granted bail after he was charged over an alleged bottle attack at a London nightclub two years ago. 
 
 <br> 
 
@@ -2452,7 +2976,7 @@ Amid intensifying Israeli bombing and ground operations in Gaza, the UN’s reli
 
 ## UN faces deepening financial crisis, urges members to pay up
 
-date: 2025-05-19, from: United Nations, UN Affairs
+date: 2025-05-19, from: United Nations, Top Stories
 
 The United Nations is facing a worsening cash crisis that threatens its ability to carry out vital work, Member States warned this week, as the General Assembly’s Fifth Committee met to discuss the world body’s financial health. 
 
@@ -3192,7 +3716,7 @@ Could the world be better prepared for the next pandemic? As nations continue to
 
 ## In Baghdad, Guterres affirms UN will never forget staff killed in Canal Hotel attack
 
-date: 2025-05-18, from: United Nations, UN Affairs
+date: 2025-05-18, from: United Nations, Top Stories
 
 The United Nations will never forget the staff members killed nearly 23 years ago in the attack on its headquarters in Iraq, the Secretary-General said in the capital on Sunday. 
 

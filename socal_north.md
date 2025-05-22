@@ -1,11 +1,149 @@
 ---
 title: socal north
-updated: 2025-05-21 14:07:57
+updated: 2025-05-22 06:09:21
 ---
 
 # socal north
 
-(date: 2025-05-21 14:07:57)
+(date: 2025-05-22 06:09:21)
+
+---
+
+## LA County to offer more blood tests for lead exposure
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Five months after the Eaton Fire, soil tests show elevated levels of lead and other toxic metals in and around the affected areas. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-eaton-fire-blood-tests-lead-extension>
+
+---
+
+## Best things to do Memorial Day weekend in LA and SoCal
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+L.A. Fleet Week, Topanga Days are back, A Doll’s House Part 2 opens at Pasadena Playhouse, MAINopoly and more of the best things to do this Memorial Day weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-memorial-day-weekend-los-angeles-southern-california-may-23-26>
+
+---
+
+## George Wendt, who played Norm on 'Cheers,' has died
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Wendt got his start in Chicago's Second City improv comedy troupe. He went on to earn six Primetime Emmy nominations for his role as a lovable barfly on Cheers. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/george-wendt-played-norm-on-cheers-has-died>
+
+---
+
+## 12-foot-tall ‘Fly LONG BEACH’ sign to be installed outside Long Beach Airport
+
+date: 2025-05-22, from: Longbeach Post
+
+<figure><img width="1024" height="597" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1024x597.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1024x597.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-300x175.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-768x448.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-185x108.png 185w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1536x896.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1200x700.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-1568x914.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0-400x233.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21110850/fly-lgb-night-717510-lac960gk-957758-dUOhqTb0.png 1674w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>At night, it will be lit by internal LEDs. The City Council approved a $859,625 budget for the project on Tuesday.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/fly-long-beach-new-airport-sign-led">12-foot-tall ‘Fly LONG BEACH’ sign to be installed outside Long Beach Airport</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/fly-long-beach-new-airport-sign-led>
+
+---
+
+## Five highlights from Orange County’s $10.8 billion budget proposal
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+The $10.8 billion spending plan cuts vacant jobs and boosts funding for liability claims. 
+
+<br> 
+
+<https://laist.com/news/politics/five-highlights-from-orange-countys-budget-proposal>
+
+---
+
+## Google follows Newsom in reducing support for California local news
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+To avoid regulations, Google and California agreed to commit $45 million in one year to prop up local news outlets. The new program is starting with just half that amount. 
+
+<br> 
+
+<https://laist.com/news/google-follows-newsom-in-reducing-support-for-california-local-news>
+
+---
+
+## Program offers e-bike vouchers for lower-income Californians. Here's how to apply
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+The program will offer 1,000 vouchers worth up to $2,000 each toward the purchase of a new e-bike. 
+
+<br> 
+
+<https://laist.com/news/carb-ebike-incentive-program>
+
+---
+
+## The Tesla diner may be coming, but our homegrown SoCal diners still rule
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+They're also far less likely to ruffle feathers. 
+
+<br> 
+
+<https://laist.com/news/food/yes-the-tesla-diner-is-coming-but-our-home-grown-socal-diners-still-rule-ruffling-feathers>
+
+---
+
+## Long Beach is seizing food, impounding carts as it starts crackdown on unpermitted street vending
+
+date: 2025-05-21, from: Longbeach Post
+
+<figure><img width="1024" height="654" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21151651/30jul24-tacos-5-024042-rt5q90oy-750244-g35buhhf-761223-ubrmirze-983342-WwWEexAZ-1024x654.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21151651/30jul24-tacos-5-024042-rt5q90oy-750244-g35buhhf-761223-ubrmirze-983342-WwWEexAZ-1024x654.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21151651/30jul24-tacos-5-024042-rt5q90oy-750244-g35buhhf-761223-ubrmirze-983342-WwWEexAZ-300x192.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21151651/30jul24-tacos-5-024042-rt5q90oy-750244-g35buhhf-761223-ubrmirze-983342-WwWEexAZ-768x490.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21151651/30jul24-tacos-5-024042-rt5q90oy-750244-g35buhhf-761223-ubrmirze-983342-WwWEexAZ-169x108.jpg 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21151651/30jul24-tacos-5-024042-rt5q90oy-750244-g35buhhf-761223-ubrmirze-983342-WwWEexAZ-400x255.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21151651/30jul24-tacos-5-024042-rt5q90oy-750244-g35buhhf-761223-ubrmirze-983342-WwWEexAZ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Few food cart owners have been able to comply with the city’s rules that went into effect more than a year ago. Now, enforcement has begun.</p>
+<p>The post <a href="https://lbpost.com/news/city/seize-food-impound-carts-street-vendors-long-beach-crackdown">Long Beach is seizing food, impounding carts as it starts crackdown on unpermitted street vending</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/seize-food-impound-carts-street-vendors-long-beach-crackdown>
+
+---
+
+## How to get free soil lead tests if you live downwind from the Eaton Fire
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+L.A. County is offering free tests after recent analysis showed high levels of lead downwind of the January fire that devastated Altadena. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-to-get-free-soil-lead-tests-if-you-live-downwind-eaton-fire>
+
+---
+
+## Ranchos Palos Verdes issues buyout offers for 23 landslide-damaged homes
+
+date: 2025-05-21, updated: 2025-05-21, from: The LAist
+
+A total of 85 homeowners sought to get the federal funds for a buyout, but there's not enough money for everyone and cash could take years to arrive. 
+
+<br> 
+
+<https://laist.com/news/politics/rancho-palos-verdes-offers-buyouts-to-slide-homeowners>
 
 ---
 
@@ -25,7 +163,7 @@ Catholic hospitals run 20% of California’s maternity wards. Their policies gen
 
 date: 2025-05-21, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/21132148/053023-community-college-budget-lj-cm-02-235002-jh2xtooa-317908-9Z0M2VD7.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Faced with increasing financial aid fraud, the board of California’s community colleges is considering ways to charge students an application fee and tighten its identity verification process. Students are pushing back.</p>
 <p>The post <a href="https://lbpost.com/news/education/fraud-pushes-californias-community-colleges-to-consider-an-application-fee-is-it-worth-it">Fraud pushes California’s community colleges to consider an application fee. Is it worth it?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -40,7 +178,7 @@ date: 2025-05-21, from: Longbeach Post
 
 date: 2025-05-21, from: Longbeach Post
 
-<figure><img width="1024" height="735" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1024x735.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1024x735.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-300x215.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-768x551.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-151x108.jpeg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1200x861.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-400x287.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX.jpeg 1398w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="735" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1024x735.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1024x735.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-300x215.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-768x551.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-151x108.jpeg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-1200x861.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX-400x287.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/19104932/command-center-2jpeg-336527-d40rw0ms-872908-3E5mpAIX.jpeg 1398w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Online postings and interviews with his father reveal an expanding network of fringe beliefs around the ethics of human life and procreation.</p>
 <p>The post <a href="https://lbpost.com/news/crime/palm-springs-bombing-bartkus-sophie-tinney-efilism">Palm Springs ‘anti-life’ bombing suspect may have had suicide pact with slain Washington woman</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
