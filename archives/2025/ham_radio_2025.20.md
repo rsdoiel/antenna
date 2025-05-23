@@ -1,11 +1,51 @@
 ---
 title: ham radio
-updated: 2025-05-22 14:08:32
+updated: 2025-05-23 06:08:30
 ---
 
 # ham radio
 
-(date: 2025-05-22 14:08:32)
+(date: 2025-05-23 06:08:30)
+
+---
+
+## Warranties: Inconsistent-requirements and -results policies
+
+date: 2025-05-23, from: EDN Blog
+
+<img width="1400" height="488" src="https://www.edn.com/wp-content/uploads/right-side_no-case-2.jpg?fit=1400%2C488" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/right-side_no-case-2.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/right-side_no-case-2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/right-side_no-case-2.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/right-side_no-case-2.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Sometimes you win, and sometimes you lose (and no, getting special treatment doesn’t qualify as a “win”). Two case studies follow herein.</p>
+<p>The post <a href="https://www.edn.com/warranties-inconsistent-requirements-and-results-policies/">Warranties: Inconsistent-requirements and -results policies</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/warranties-inconsistent-requirements-and-results-policies/>
+
+---
+
+## Hot swap basics: Controllers, schematics, and design examples
+
+date: 2025-05-23, from: EDN Blog
+
+<img width="710" height="666" src="https://www.edn.com/wp-content/uploads/Fig-5-AP2337-Hot-Swap-Controller.jpg?fit=710%2C666" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-5-AP2337-Hot-Swap-Controller.jpg?w=710 710w, https://www.edn.com/wp-content/uploads/Fig-5-AP2337-Hot-Swap-Controller.jpg?w=300 300w" sizes="auto, (max-width: 710px) 100vw, 710px" /><p>What you need to know about a hot swap circuit and related design considerations for a controller or module.</p>
+<p>The post <a href="https://www.edn.com/hot-swap-basics-controllers-schematics-and-design-examples/">Hot swap basics: Controllers, schematics, and design examples</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/hot-swap-basics-controllers-schematics-and-design-examples/>
+
+---
+
+## JUST IN: Amateur Spectrum Addressed in US House Reconciliation Bill
+
+date: 2025-05-22, from: Amateur Radio Relay League News
+
+<p><span>ARRL The National Association for Amateur Radio® reports that early this morning, May 22, 2025, the US House of Representatives passed a massive Reconciliation bill with the below spectrum provisions relevant to Amateur Radio.</span> </p><ul><li><span>Within two years not less than 600 megahertz must be identified <b>from between 1.3 and 10 GHz</b> for reallocation to commercial use for broadband services.</span></li> <li><span>The identified spec...</span></li></ul> 
+
+<br> 
+
+<http://www.arrl.org/news/view/just-in-amateur-spectrum-addressed-in-us-house-reconciliation-bill>
 
 ---
 
@@ -13,7 +53,7 @@ updated: 2025-05-22 14:08:32
 
 date: 2025-05-22, from: EDN Blog
 
-<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NXP’s OrangeBox 2.0 automotive connectivity domain controller features an upgraded CPU and embedded AI acceleration.</p>
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/NXP-OrangeBox-2.0.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NXP’s OrangeBox 2.0 automotive connectivity domain controller features an upgraded CPU and embedded AI acceleration.</p>
 <p>The post <a href="https://www.edn.com/platform-helps-secure-in-vehicle-connectivity/">Platform helps secure in-vehicle connectivity</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

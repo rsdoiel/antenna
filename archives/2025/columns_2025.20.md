@@ -1,11 +1,292 @@
 ---
 title: columns
-updated: 2025-05-22 14:08:33
+updated: 2025-05-23 06:08:32
 ---
 
 # columns
 
-(date: 2025-05-22 14:08:33)
+(date: 2025-05-23 06:08:32)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-23, from: Dave Winer's Scripting News)
+
+Has Harvard considered opening a satellite campus outside the United States? If the Trumps keep making demands, like demanding that they stop admitting students from outside the US, the students the US government rejects could still go to Harvard, be taught by the same teachers, collaborate and socialize with other Harvard-quality students, without interference from Trump. I imagine there are a few countries that would be willing to help. If you want to really make a point, open it in China. 
+
+<br> 
+
+<http://scripting.com/2025/05/23.html#a125004>
+
+---
+
+## What would a Microsoft engineer do to Ubuntu? AnduinOS is the answer
+
+date: 2025-05-23, updated: 2025-05-23, from: Liam Proven's articles at the Register
+
+<h4>It&#39;s not radical, but it is slim and pretty – usually a winning combination</h4>
+      <p>AnduinOS, a one-man project from a Chinese Microsoft engineer, is quite a new Ubuntu remix that reshapes GNOME in the image of Windows 11.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/23/anduinos/>
+
+---
+
+## Signal Blocks Windows Recall
+
+date: 2025-05-23, updated: 2025-05-22, from: Bruce Schneier blog
+
+<p>This <a href="https://arstechnica.com/security/2025/05/signal-resorts-to-weird-trick-to-block-windows-recall-in-desktop-app/">article</a> gives a good rundown of the security risks of Windows Recall, and the repurposed copyright protection took that Signal used to block the AI feature from scraping Signal data.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/signal-blocks-windows-recall.html>
+
+---
+
+## Trump’s Biggest “Fuck You” Yet to Higher Education and the Rest of the World 
+
+date: 2025-05-23, from: Robert Reich's blog
+
+He and his regime are mounting an assault on the American mind. Why? Because ignorance is the handmaiden of tyranny. 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-i-told-the-ed-school-graduates>
+
+---
+
+## May 22, 2025
+
+date: 2025-05-23, from: Heather Cox Richardson blog
+
+Just before 7:00 this morning, the House of Representatives passed the Republicans&#8217; megabill by a vote of 215 to 214. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-22-2025>
+
+---
+
+## OpenAI, Jony Ive & the Art of the Deal
+
+date: 2025-05-23, from: Om Malik blog
+
+My phone has been pinging non-stop since yesterday. Everyone wants to know the backstory of the biggest acquihire in Silicon Valley history: Sam Altman’s OpenAI buying Jony Ive’s io Products for $6.5 billion. I have a few more clues. It’s why I’m updating my piece on the deal from yesterday. In their video announcing the &#8230; 
+
+<br> 
+
+<https://om.co/2025/05/22/openai-ive-the-art-of-the-deal/>
+
+---
+
+## Thoughts on Obscura VPN and Online Privacy
+
+date: 2025-05-23, from: mrusme blog
+
+If we continue treating privacy as a product to be bought rather than a right
+to be protected, we risk creating an internet where only the wealthy can
+afford to be free. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/thoughts-on-obscura-vpn-and-online-privacy/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-22, from: Miguel de Icaza Mastondon feed)
+
+<p>We have made some changes to our pricing in Xogot, and introduced a free trial.</p><p>Enjoy!</p><p><a href="https://blog.la-terminal.net/xogot-pricing-update-free-trial-lower-prices-and-lifetime-unlock/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-pri</span><span class="invisible">cing-update-free-trial-lower-prices-and-lifetime-unlock/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114554089877642010>
+
+---
+
+## Claude 4
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.anthropic.com/news/claude-4>
+
+---
+
+## Friday 23 May, 2025
+
+date: 2025-05-22, from: John Naughton's online diary
+
+Mellow yellow Industrialised agriculture in technicolor. Quote of the Day “He may look like an idiot and talk like an idiot but don&#8217;t let that fool you. He really is an idiot.” Groucho Marx I’ve got a list of people &#8230; <a href="https://memex.naughtons.org/friday-23-may-2025/40852/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-23-may-2025/40852/>
+
+---
+
+##  Old school food blogger Adam Roberts has a new novel out this... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046909-old-school-food-blogger-a>
+
+---
+
+## Google Translate Can Now Be Set as the Default Translation App on iOS
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/05/19/google-translate-default-option-ios/>
+
+---
+
+## Shameful
+
+date: 2025-05-22, from: Dan Rather's Steady
+
+Mike Johnson pushes Trump&#8217;s policy bill through the House 
+
+<br> 
+
+<https://steady.substack.com/p/shameful>
+
+---
+
+## Gurman on the Team Jony Ive Has Assembled at IO
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-22, from: Miguel de Icaza Mastondon feed)
+
+<p>Tonight we are cheating.</p><p>Bought this marinated at the store</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114553940787915893>
+
+---
+
+## MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://spyglass.org/epics-feigning-floundering-to-keep-apple-under-pressure/>
+
+---
+
+##  The Quilters 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/the-quilters>
+
+---
+
+## The Dave & Busters Anomaly
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.searchengine.show/the-dave-and-busters-anomaly/>
+
+---
+
+## Where AI fits in
+
+date: 2025-05-22, from: Dave Winer's Scripting News
+
+<p>The Beatles</p>
+<p>Personal computers</p>
+<p>The web</p>
+<p>Napster</p>
+<p>AI</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/22/214121.html?title=whereAiFitsIn>
+
+---
+
+##  Conservationists are planting giant sequoia trees in Detroit. &#8220;We&#8217;re planting the forest... 
+
+date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046908-conservationists-are-plan>
+
+---
+
+## Excerpt From Patrick McGee’s ‘Apple in China’
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.thetimes.com/business-money/technology/article/how-apple-helped-china-become-americas-biggest-tech-rival-8f83tttv5>
+
+---
+
+## Patrick McGee on The Daily Show With Jon Stewart
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=NAj9zB4vaZc>
+
+---
+
+## May 21, 2025
+
+date: 2025-05-22, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164194427/dd9daab19549295794a3a68a8d7004c3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164194427/dd9daab19549295794a3a68a8d7004c3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-21-2025-4cc>
 
 ---
 
@@ -19,7 +300,7 @@ date: 2025-05-22, from: Alex Schroeder's Blog
 
 <p><img loading="lazy" src="2025-05-21-postira-bol-22.jpg" alt="the sky after breakfast was bright" /></p>
 
-<p>We started walking.</p>
+<p>We started walking. Both Claudia and I took these pictures.</p>
 
 <p><img loading="lazy" src="2025-05-22-postira-1.jpg" alt="The channel is calm, the sky cloudy" /></p>
 
@@ -33,27 +314,56 @@ Agave americana</p>
 <p>Aleppo-Kiefer<br>
 Pinus halepensis</p>
 
-<p><img loading="lazy" src="2025-05-22-postira-3.jpg" alt="2025-05-22-postira-3.jpg" />
-<img loading="lazy" src="2025-05-22-postira-4.jpg" alt="2025-05-22-postira-4.jpg" />
-<img loading="lazy" src="2025-05-22-postira-5.jpg" alt="2025-05-22-postira-5.jpg" />
-<img loading="lazy" src="2025-05-22-postira-6.jpg" alt="2025-05-22-postira-6.jpg" />
-<img loading="lazy" src="2025-05-22-postira-7.jpg" alt="2025-05-22-postira-7.jpg" />
-<img loading="lazy" src="2025-05-22-postira-8.jpg" alt="2025-05-22-postira-8.jpg" />
-<img loading="lazy" src="2025-05-22-postira-9.jpg" alt="2025-05-22-postira-9.jpg" />
-<img loading="lazy" src="2025-05-22-postira-10.jpg" alt="2025-05-22-postira-10.jpg" />
-<img loading="lazy" src="2025-05-22-postira-11.jpg" alt="2025-05-22-postira-11.jpg" />
-<img loading="lazy" src="2025-05-22-postira-12.jpg" alt="2025-05-22-postira-12.jpg" />
-<img loading="lazy" src="2025-05-22-postira-13.jpg" alt="2025-05-22-postira-13.jpg" />
-<img loading="lazy" src="2025-05-22-postira-14.jpg" alt="2025-05-22-postira-14.jpg" />
-<img loading="lazy" src="2025-05-22-postira-15.jpg" alt="2025-05-22-postira-15.jpg" />
-<img loading="lazy" src="2025-05-22-postira-16.jpg" alt="2025-05-22-postira-16.jpg" />
-<img loading="lazy" src="2025-05-22-postira-17.jpg" alt="2025-05-22-postira-17.jpg" /></p>
+<p><img loading="lazy" src="2025-05-22-postira-3.jpg" alt="pines on the stony coast" /></p>
+
+<p>The edge of town.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-4.jpg" alt="another bay, a few more houses in the distance" /></p>
+
+<p>And then I started seeing all the flowers.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-5.jpg" alt="Alex taking pictures with the phone" /></p>
+
+<p>Grosser Kohlweissling<br>
+Pieris brassicae</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-6.jpg" alt="a mostly white butterfly" /></p>
+
+<p>So happy.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-7.jpg" alt="Alex and Claudia with sunglasses" />
+<img loading="lazy" src="2025-05-22-postira-8.jpg" alt="another bay with beautiful water" />
+<img loading="lazy" src="2025-05-22-postira-9.jpg" alt="looking at a bay across some poppies" />
+<img loading="lazy" src="2025-05-22-postira-10.jpg" alt="Alex taking pictures of poppies" />
+<img loading="lazy" src="2025-05-22-postira-11.jpg" alt="a lizard beneath the poppies" />
+<img loading="lazy" src="2025-05-22-postira-12.jpg" alt="another bay full of beautiful water" /></p>
+
+<p>Schopf-Träubel<br>
+Leopoldia comosa</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-13.jpg" alt="a violet flower growing from a crack in the rock" />
+<img loading="lazy" src="2025-05-22-postira-14.jpg" alt="Alex standing on a sea wall" />
+<img loading="lazy" src="2025-05-22-postira-15.jpg" alt="a tree growing through a hole in the drywall they built for it " />
+<img loading="lazy" src="2025-05-22-postira-16.jpg" alt="yet another bay" />
+<img loading="lazy" src="2025-05-22-postira-17.jpg" alt="and finally on the way back" /></p>
 
 <p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-05-22-postira>
+
+---
+
+## 24 Years After ‘Sorry, Steve: Here’s Why the Apple Stores Won’t Work’
+
+date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ritholtz.com/2025/05/sorry-steve/>
 
 ---
 
@@ -180,11 +490,11 @@ date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
 
 ---
 
-## What you need to share about the "one big beautiful" ugly horrible bill
+## What you need to share about the “one big beautiful” ugly horrible bill
 
 date: 2025-05-22, from: Robert Reich's blog
 
-(Resending so you can share over email without my inadvertent notes after the "share" button) 
+(Resending so you can share over email without my inadvertent notes after the &#8220;share&#8221; button) 
 
 <br> 
 
@@ -556,6 +866,18 @@ OpenAI, made the biggest acquihire in  Silicon Valley’s history. Sam Altman a
 <br> 
 
 <https://om.co/2025/05/21/why-did-openai-buy-jony-ive-co/>
+
+---
+
+## The Crafters of “Andor”
+
+date: 2025-05-22, updated: 2025-05-22, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/05/22/2025-05-22-the-crafters-of-andor/>
 
 ---
 
@@ -1406,7 +1728,7 @@ The fundamental problem for graphics support in a multi-process operating system
 <br />
 RPCs imposed a performance penalty that made 3D games unusable. To allow, for example, a game to run in one window while a mail program ran in another we needed the currently active process to have direct access to the hardware, and if the operating system context-switched to a different graphics process, give that process direct access to the hardware. The operating system would need to save the first process' state from the graphics hardware, and restore the second process' state<br />
 <br />
-Our work on this problem at Sun led to a patent filed in 1989, <a href="https://patents.google.com/patent/US5127098A/"><b>US5127098A</b></a>: <i>Method and apparatus for the context switching of devices</i> with (inventors David S. H. Rosenthal, Robert Rocchetti, Curtis Priem, and Chris Malachowsky). The idea was to have the device mapped into each process' memory but to use the system's memory management unit (MMU) ensure that at any one time all but one of the mappings was <i>invalid</i>. A process' access to an invalid mapping would interrupt into the system's page fault handler, which would invoke the device's driver to save the old process' context and restore the new process' context. The general problem with this idea is that, because the interrupt ends up in the page fault handler, it requires device-dependent code in the page fault handler. This is precisely the kind of connection between software and hardware that caused schedule problems at Sun.<br />
+Our work on this problem at Sun led to a patent filed in 1989, <a href="https://patents.google.com/patent/US5127098A/"><b>US5127098A</b></a>: <i>Method and apparatus for the context switching of devices</i> (inventors David S. H. Rosenthal, Robert Rocchetti, Curtis Priem, and Chris Malachowsky). The idea was to have the device mapped into each process' memory but to use the system's memory management unit (MMU) ensure that at any one time all but one of the mappings was <i>invalid</i>. A process' access to an invalid mapping would interrupt into the system's page fault handler, which would invoke the device's driver to save the old process' context and restore the new process' context. The general problem with this idea is that, because the interrupt ends up in the page fault handler, it requires device-dependent code in the page fault handler. This is precisely the kind of connection between software and hardware that caused schedule problems at Sun.<br />
 <br />
 There were two specific Nvidia problems with this idea. First that Windows wasn't a virtual memory operating system so you couldn't do any of this. And second that even once Windows had evolved into a virtual memory operating system, Microsoft was unlikely to let us mess with the page fault handler.<br />
 <br />

@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-05-22 14:08:34
+updated: 2025-05-23 06:08:33
 ---
 
 # writing
 
-(date: 2025-05-22 14:08:34)
+(date: 2025-05-23 06:08:33)
+
+---
+
+## Understanding the Real Barriers to Text and Data Mining
+
+date: 2025-05-23, from: Author's Union blog
+
+Our law student intern this semester studied the legal and practical challenges facing TDM researchers. She shares her key takeaways.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/23/understanding-the-real-barriers-to-text-and-data-mining/>
 
 ---
 

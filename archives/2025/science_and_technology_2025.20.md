@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-05-22 14:08:32
+updated: 2025-05-23 06:08:31
 ---
 
 # science and technology
 
-(date: 2025-05-22 14:08:32)
+(date: 2025-05-23 06:08:31)
+
+---
+
+## Lenovo thought it could surf geopolitics, until Trump's sudden tariff changes
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Worries about uncertainty, even as AI pushes revenue and profit higher</h4> <p>Chinese hardware giant Lenovo thought it had prepared for a trade war, but its plan proved insufficient once the US started to rapidly change its tax policies in imported goods.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/lenovo_fy2025/>
+
+---
+
+## What would a Microsoft engineer do to Ubuntu? AnduinOS is the answer
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not radical, but it is slim and pretty – usually a winning combination</h4> <p>AnduinOS, a one-man project from a Chinese Microsoft engineer, is quite a new Ubuntu remix that reshapes GNOME in the image of Windows 11.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/anduinos/>
+
+---
+
+## Hubble Spies a Spiral So Inclined
+
+date: 2025-05-23, from: NASA breaking news
+
+The stately and inclined spiral galaxy NGC 3511 is the subject of this NASA/ESA Hubble Space Telescope image. The galaxy is located 43 million light-years away in the constellation Crater (The Cup). From Hubble’s vantage point in orbit around Earth, NGC 3511 is tilted by about 70 degrees, intermediate between face-on galaxies that display the […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-so-inclined/>
+
+---
+
+## One of Britain's largest health trusts says 'no ta' to Palantir-run data platform – for now
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Care board defers decision to adopt national system</h4> <p>Greater Manchester Integrated Care Board (ICB) has decided not to adopt a national data platform – prescribed by the UK government and run by Palantir – until it has more evidence of the benefits and risks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/greater_manchester_palantir_snub/>
+
+---
+
+## Grandpa-conning crook jailed over sugar-coated drug scam
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Callous fraudster tricked elderly gents into smuggling meth hidden in chocolate truffles</h4> <p>A ruthless cyber conman who duped elderly pensioners – including an 80-year-old man – into smuggling deadly class A drugs was this week locked up.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/meth_smuggling_scam_prison/>
+
+---
+
+## BT managers' union mulls options after 'derisory or non-existent pay rise
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Annoyed at poor or missing salary increase offer as Brit telco pays out dividend</h4> <p>BT is facing a revolt over pay from its line managers, with unions complaining today about the telco giant dishing out increased dividends to shareholders from its fiscal 2025 earnings.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/bt_fy25_results_union_pay/>
+
+---
+
+## User unboxed a PC so badly it 'broke' and only a nail file could fix it
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>For once, the IT department was rewarded for finding the fix, and the perfect-if-unexpected fixer</h4> <p><strong>On Call</strong>  Welcome to a fresh instalment of On-Call, <i>The Register</i>’s reader-contributed column in which you share your tales of tech support triumph, and we try to retell them in an amusing fashion.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/on_call/>
+
+---
+
+## Stargate to land its first offshore datacenters in the United Arab Emirates
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Says it will serve half of humanity but testing that claim produced a hilarious ChatGPT fail</h4> <p>Stargate, the Open AI led consortium that aims to build giant AI datacenters, has picked the United Arab Emirates as its first non-US destination.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/stargate_uae/>
+
+---
+
+## Rideshare companies in India are asking for tips before the trip
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Consumer affairs Minister is not happy with Uber for following local players with this scheme to encourage rapid pickups</h4> <p>India’s consumer affairs minister has criticized Uber for adding a feature that allows users to tip their driver <i>before</i> a trip as an incentive to take a job.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/tiup_before_rideshare_uber_controversy/>
+
+---
+
+## Suspected creeps behind DanaBot malware that hit 300K+ computers revealed
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>And the associated fraud&#39;n&#39;spy botnet is about to be shut down</h4> <p>The US Department of Justice has unsealed indictments against 16 people accused of spreading and using the DanaBot remote-control malware that infected more than 300,000 computers, plus operating a botnet of the same name, and appears set to shutter its operations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/300000_machine_danabot_endgame/>
+
+---
+
+## Ivanti makes dedicated fans of Chinese spies who just can't resist attacking its buggy kit
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>If it ain&#39;t broke?</h4> <p>A suspected Chinese government spy group is behind the rash of attacks that exploit two Ivanti bugs that can be chained together to achieve unauthenticated remote code execution (RCE), according to analysts at threat intelligence outfit EclecticIQ.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/ivanti_chinese_spies_attack/>
+
+---
+
+## US Navy sailor charged in horrific child sextortion case
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Blackmailed teen allegedly scared into carving his handle onto her arm</h4> <p>The FBI has filed an affidavit detailing how it identified a US Navy man who was allegedly distributing child sex abuse material (CSAM) through Discord.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/us_navy_csam_blackmail/>
+
+---
+
+## Linux Mint forks GNOME’s Libadwaita to add theme support
+
+date: 2025-05-22, from: OS News
+
+On numerous occasions, we&#8217;ve talked about the issue facing non-GNOME GTK desktops, like Xfce, MATE, and Cinnamon: the popularity of Libadwaita. With more and more application developers opting for GNOME&#8217;s Libadwaita because of the desktop environment&#8217;s popularity, many popular GTK applications now look like GNOME applications instead of GTK applications, and they just don&#8217;t mesh well with traditional GTK desktops. Since Libadwaita is not themeable, applications that use it can&#8217;t really be made to feel at home on non-GNOME GTK desktops, unless said desktops adopt the entire GNOME design language, handing over control ovr their GUI design to outsiders in the process. The developers of Libadwaita, as well as the people behind GNOME, have made it very clear they do not intend to make Libadwaita themeable, and they are well within their rights to make that decision. I think it&#8217;s a bad decision &#8211; themeing is a crucial accessibility feature &#8211; but it&#8217;s their project, their code, and their time, and I fully respect their decision, since it&#8217;s really not up to GNOME to worry about the other GTK desktops. So, what are the developers of Xfce, MATE, and Cinnamon supposed to do? Well, how about taking matters into their own hands? Clement Lefebvre, the lead developer of Linux Mint and its Cinnamon desktop environment, has soft-forked Libadwaita to add theme support to the library. They&#8217;re calling it LibAdapta. libAdapta is libAdwaita with theme support and a few extra. It provides the same features and the same look as libAdwaita by default. In desktop environments which provide theme selection, libAdapta apps follow the theme and use the proper window controls. ↫ LibAdapta&#8217;s GitHub page The reason they consider libAdapta a &#8220;soft-fork&#8221; is that all it does is add theme support; they do not intended to deviate from Libadwaita in any other way, and will follow Libadwaita&#8217;s releases. It will use the current GTK3 theme, and will fallback to the default Libadwaita look and feel if the GTK3 theme in question doesn&#8217;t have a libadapta-1.0 directory. This seems like a transparent and smart way to handle it. I doubt it will be long before libAdapta becomes a default part of a lot of user instructions online, GTK theme developers will probably add support for it pretty quickly, and perhaps even of a lot of non-GNOME GTK desktop environments will add it by default. It will make it a lot easier for, say, the developers of MATE to make use of the latest Libadwaita applications, without having to either accept a disjointed, inconsistent user experience, or adopt the GNOME design language hook, line, and sinker and lose all control over the user experience they wish to offer to their users. I&#8217;m glad this exists now, and hope it will prove to be popular. I appreciate the pragmatic approach taken here &#8211; a relatively simple fork that doesn&#8217;t burden upstream, without long feature request threads where everybody is shouting at each other that needlessly spill over onto Fedi. This is how open source is supposed to work. 
+
+<br> 
+
+<https://www.osnews.com/story/142412/linux-mint-forks-gnomes-libadwaita-to-add-theme-support/>
+
+---
+
+## Feds finger Russian 'behind Qakbot malware' that hit 700K computers
+
+date: 2025-05-22, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Agents thought they shut this all down in 2023, but the duck quacked again</h4> <p>Uncle Sam on Thursday unsealed criminal charges and a civil forfeiture case against a Russian national accused of leading the cybercrime ring behind Qakbot, the notorious malware that infected hundreds of thousands of computers worldwide and helped fuel ransomware attacks costing victims tens of millions of dollars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/qakbot_criminal_mastermind_charged/>
+
+---
+
+## NASA Supports Artemis Accords Signatories Advancing Exploration
+
+date: 2025-05-22, from: NASA breaking news
+
+The United States participated in an international Artemis Accords workshop May 21-22 to advance the safe and responsible exploration of the Moon, Mars, and beyond. Hosted by the United Arab Emirates (UAE), which was represented by the UAE Space Agency, the workshop took place at the Abu Dhabi National Exhibition Centre. The Artemis Accords are [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-supports-artemis-accords-signatories-advancing-exploration/>
+
+---
+
+## Anthropic Claude 4 models a little more willing than before to blackmail some users
+
+date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+
+<h4>Open the pod bay door</h4> <p>Anthropic on Thursday announced the availability of Claude Opus 4 and Claude Sonnet 4, the latest iteration of its Claude family of machine learning models.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/22/anthropic_claude_opus_4_sonnet/>
 
 ---
 
@@ -287,7 +479,7 @@ date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
 
 ## Europe is Russian to sanction Putin's pals over 'hybrid' threats
 
-date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+date: 2025-05-22, updated: 2025-05-23, from: The Register (UK I.T. News)
 
 <h4>Names spies, web hosts, GPS jammers, fishing (not phishing) biz</h4> <p>The European Union has sanctioned Russia-linked entities it says jammed GPS signals, sabotaged undersea cables, and ran a web hosting business that aided &#34;information manipulation interference and cyber-attacks.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -311,9 +503,9 @@ date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
 
 ## Apartment living to get worse in 5 years as 6 GHz Wi-Fi nears ‘exhaustion’
 
-date: 2025-05-22, updated: 2025-05-22, from: The Register (UK I.T. News)
+date: 2025-05-22, updated: 2025-05-23, from: The Register (UK I.T. News)
 
-<h4>Cable Labs predicts two percent packet loss and 10ms latency in some buildings unless more spectrum freed</h4> <p>Rapid growth in Wi-Fi use means the 6 GHZ band’s carrying capacity may soon be exhausted, according to CableLabs, the nonprofit networking think tank run by cable television operators.…</p> 
+<h4>Cable Labs predicts two percent packet loss and 10ms latency in some buildings unless more spectrum freed</h4> <p>Rapid growth in Wi-Fi use means the 6 GHz band’s carrying capacity may soon be exhausted, according to CableLabs, the nonprofit networking think tank run by cable television operators.…</p> 
 
 <br> 
 

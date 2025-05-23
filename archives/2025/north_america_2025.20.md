@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-05-22 14:08:31
+updated: 2025-05-23 06:08:29
 ---
 
 # north america
 
-(date: 2025-05-22 14:08:31)
+(date: 2025-05-23 06:08:29)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-23, from: The Contrarian
+
+Friday: Protesters outside Trump's 'meme coin dinner,' Tesla Takedowns, Batman joins the resistance, reminders about June 14 protests, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Undaunted: Veterans
+
+date: 2025-05-23, from: The Contrarian
+
+America owes them so much more 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-veterans>
+
+---
+
+## Trump Touts ‘No Tax on Overtime.’ But He Just Made It Harder for Millions to Earn Overtime.
+
+date: 2025-05-23, from: Capital and Main
+
+<p>Department of Labor “walked away from” rule that expanded overtime to 4 million workers, says former agency head.</p>
+<p>The post <a href="https://capitalandmain.com/trump-touts-no-tax-on-overtime-but-he-just-made-it-harder-for-millions-to-earn-overtime">Trump Touts ‘No Tax on Overtime.’ But He Just Made It Harder for Millions to Earn Overtime.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-touts-no-tax-on-overtime-but-he-just-made-it-harder-for-millions-to-earn-overtime>
+
+---
+
+## Evening Roundup, May 22
+
+date: 2025-05-22, from: The Contrarian
+
+Featuring Azza Cohen, Jeff Nesbit, Meredith Blake, Shalise Manza Young, Mimi Rocah, Michael de Adder, Brian O'Neill, and Jen Rubin. 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-22>
 
 ---
 
@@ -92,18 +142,6 @@ date: 2025-05-22, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/the-great-food-bank-robbery-hungry-californians-face-losing-their-daily-bread>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-22, from: The Contrarian
-
-Thursday: Protests in Washington over the budget bill the House passed this morning (and a reminder to call your member of Congress), plus planning for upcoming protests, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

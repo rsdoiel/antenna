@@ -1,23 +1,277 @@
 ---
 title: weather
-updated: 2025-05-22 14:08:34
+updated: 2025-05-23 06:08:33
 ---
 
 # weather
 
-(date: 2025-05-22 14:08:34)
+(date: 2025-05-23 06:08:33)
 
 ---
 
 ## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2025-05-22, from: Central Pacific Basin Tropical Cyclones
+date: 2025-05-23, from: Central Pacific Basin Tropical Cyclones
 
 The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC May 23, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-05-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0750 AM CDT Fri May 23 2025
+
+Valid 231300Z - 241200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE SOUTHERN/CENTRAL PLAINS...
+
+...SUMMARY...
+Isolated to scattered severe thunderstorms should develop across
+parts of the southern and central Plains this afternoon through the
+overnight hours, with large hail and severe gusts the main threats.
+Isolated very large hail greater than 2 inches in diameter may
+occur.
+
+...Central/Southern Plains...
+In the wake of overnight/early morning convection across parts of
+central/south TX, low-level airmass recovery is anticipated today
+across much of the southern/central Plains along and south of a
+front. Only weak forcing aloft is forecast, as multiple
+low-amplitude mid-level shortwave troughs progress
+east-southeastward from the southern/central Rockies across the
+adjacent High Plains by this evening. Corresponding weak
+cyclogenesis over the central High Plains should encourage modest
+low-level moisture transport northward into parts of eastern
+CO/western KS by peak afternoon heating. A narrow corridor of
+sufficient destabilization, along with generally 35-45 kt of
+deep-layer shear, should support organized convection. 
+
+Initial development over the central High Plains late this afternoon
+should become supercellular and pose a threat for large hail and
+severe gusts as it spreads southeastward through the evening. Given
+steep lapse rates aloft and elongated hodographs at mid/upper
+levels, isolated very large hail may occur. It remains unclear
+whether this convection will grow upscale into a cluster across
+southern KS/northern OK later in the evening/early overnight hours
+as a southerly low-level jet gradually strengthens, or if a separate
+cluster will eventually develop. Regardless, the airmass across this
+region will be at least moderately unstable, with sufficient
+deep-layer shear to support continued updraft organization and a
+threat for hail and severe/damaging winds with whatever convection
+that can persist this evening/overnight.
+
+Across the southern High Plains, isolated to scattered high-based
+thunderstorms may develop this afternoon along/east of the surface
+dryline. Weak large-scale forcing and warm low/mid-level
+temperatures limit confidence on overall thunderstorm coverage.
+Still, any convection which can develop could pose an isolated
+threat for severe hail/wind through the early evening before
+weakening with the loss of daytime heating.
+
+...Florida...
+To the south of a remnant front, at least scattered thunderstorms
+should develop this afternoon across parts of the southeast FL
+Peninsula. This activity should preferentially form on/near the
+Atlantic Coast sea breeze. While mid-level winds are not forecast to
+be overly strong, sufficient instability and shear should exist for
+modest updraft organization. Any cells/clusters that develop could
+produce isolated hail and/or damaging winds.
+
+..Gleason/Leitman.. 05/23/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC - No watches are valid as of Fri May 23 12:55:02 UTC 2025
+
+date: 2025-05-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri May 23 12:55:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri May 23 12:55:02 UTC 2025
+
+date: 2025-05-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri May 23 12:55:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-05-23, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri May 23 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days. <br><br>$$<br>Forecaster Berg<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-05-23, from: Eastern Pacific Basin Tropical Cyclones
+
+000<br />ABPZ20 KNHC 231116<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Fri May 23 2025<br /><br />For the eastern North Pacific...east of 140 degrees west longitude:<br /><br />South of the Southern Coast of Mexico:<br />An area of low pressure is likely to form early next week several <br />hundred miles south of the southern coast of Mexico.  Conditions <br />appear favorable for development of this system, and a tropical <br />depression could form around the middle of next week while moving <br />westward to west-northwestward at 10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...medium...60 percent.<br /><br />$$<br />Forecaster Hagen 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-05-23, from: Eastern Pacific Tropical Weather Outlook
+
+000&lt;br /&gt;ABPZ20 KNHC 231116&lt;br /&gt;TWOEP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;500 AM PDT Fri May 23 2025&lt;br /&gt;&lt;br /&gt;For the eastern North Pacific...east of 140 degrees west longitude:&lt;br /&gt;&lt;br /&gt;South of the Southern Coast of Mexico:&lt;br /&gt;An area of low pressure is likely to form early next week several &lt;br /&gt;hundred miles south of the southern coast of Mexico.  Conditions &lt;br /&gt;appear favorable for development of this system, and a tropical &lt;br /&gt;depression could form around the middle of next week while moving &lt;br /&gt;westward to west-northwestward at 10 to 15 mph.&lt;br /&gt;* Formation chance through 48 hours...low...near 0 percent.&lt;br /&gt;* Formation chance through 7 days...medium...60 percent.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Hagen 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## SPC May 23, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-05-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0400 AM CDT Fri May 23 2025
+
+Valid 261200Z - 311200Z
+
+...DISCUSSION...
+...Monday/Day 4 to Wednesday/Day 6...
+The medium-range models move a mid-level trough into the southern
+and central Plains on Monday. Ahead of the trough, a moist airmass
+is forecast from the southern Plains into the Gulf Coast states.
+Scattered thunderstorms are expected across much of this airmass
+Monday afternoon. The greatest convective coverage should be located
+in parts of central and east Texas, where warm advection is forecast
+to be maximized. Across the moist airmass, moderate instability will
+likely be in place by midday. In addition, westerly flow associated
+with the trough, should be strong enough for a severe threat. Large
+hail and severe gusts will be possible as a cluster or line of
+storms moves southeastward into central and east Texas during the
+afternoon and evening.
+
+On Tuesday, the moist airmass is forecast to remain in place from
+the southern Plains eastward into the Gulf Coast states, with the
+mid-level trough moving into the Ozarks. Model forecasts suggest
+that numerous thunderstorms will develop ahead of the trough in
+parts of the Southeast, with more isolated development occurring
+across the southern Plains. Although a severe threat will be
+possible across parts of this airmass, mesoscale processes will
+determine the most favorable areas for severe. It appears that
+instability will support isolated wind damage and hail, but
+predictability appears low concerning the spatial distribution of
+any isolated threat.
+
+On Wednesday, the most unstable air is forecast from parts of
+central and south Texas eastward into the lower Mississippi Valley.
+Although large-scale ascent is forecast to be weak, thunderstorms
+should develop in areas that warm up sufficiently along residual
+outflow boundaries. An isolated severe threat should develop during
+the mid to late afternoon, but predictability appears to be low.
+
+...Thursday/Day 7 and Friday/Day 8...
+On Thursday and Friday, westerly mid-level flow is forecast over the
+southern U.S., where an unstable airmass is expected to remain in
+place. As surface temperatures warm each day, isolated to scattered
+thunderstorm development should take place. Although instability and
+shear will be favorable for severe storms in a few areas,
+predictability remains low.
+
+In addition, on Friday convection will be possible ahead of a cold
+front across parts of the Atlantic Seaboard. Enough instability
+should be in place during the day for an isolated severe threat.
+However, the spatial distribution of any potential threat appears to
+have low predictability.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-05-23, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0135 AM CDT Fri May 23 2025
+
+Valid 241200Z - 251200Z
+
+...Synopsis...
+A mid-level wave will shift across the Southwest on Saturday.
+Enhanced mid-level flow will largely pass overnight D1/Friday into
+D2/Saturday, with relaxing pressure gradients through the day.
+Though afternoon relative humidity will remain low (around 10
+percent), this relaxing gradient will keep winds largely below
+Critical values. In addition, an increase in mid-level cloud cover
+is expected which may limit mixing. In more favored downslope
+regions, locally stronger winds will be possible and support periods
+of localized Critical fire weather. Overall, the broad Elevated
+delineation was maintained where highest confidence in sustained
+Elevated conditions were expected across eastern Arizona into
+southeastern Utah and across south-central/western New Mexico.
+
+..Thornton.. 05/23/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -322,63 +576,6 @@ Intermountain region.
 
 ---
 
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0254 PM CDT Thu May 22 2025
-
-Valid 231200Z - 241200Z
-
-...CRITICAL FIRE WEATHER AREA FOR EAST-CENTRAL ARIZONA INTO
-WEST-CENTRAL NEW MEXICO...
-
-Slight enhancement of southwest mid-level flow will overspread much
-of the Southwest Friday. Efficient daytime mixing of a deep/dry
-boundary layer will support single digit relative humidity and
-breezy southwest winds across much of Arizona and New Mexico.
-Critical fire weather conditions are expected across the Mogollon
-Rim area and west-central New Mexico. Dry fuels developing across
-the Upper Colorado Basin will overlap with southwest winds of 10-20
-mph and single digit relative humidity to promote an elevated fire
-weather threat in eastern Utah/western Colorado on Friday.
-
-..Williams.. 05/22/2025
-
-.PREV DISCUSSION... /ISSUED 1229 AM CDT Thu May 22 2025/
-
-...Synopsis...
-Preceding a midlevel trough moving eastward across central/southern
-CA, midlevel southwesterly flow will increase across the Southwest.
-This will promote gradual deepening of a broad surface low over the
-southern Great Basin. 
-
-...East-central Arizona into west-central New Mexico...
-Diurnal heating of a dry antecedent air mass across the Southwest
-will favor a deep/dry boundary layer -- characterized by
-single-digit afternoon RH. The deep boundary-layer mixing into the
-increasing southwesterly flow aloft, coupled with an enhanced
-pressure gradient south of the developing surface low, will yield 20
-mph sustained southwesterly surface winds along the Mogollon Rim
-into west-central NM. The combination of breezy/gusty surface winds
-atop increasingly dry fuels will support critical fire-weather
-conditions.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## SPC May 22, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
 
 date: 2025-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -585,50 +782,6 @@ gust/hail threat with the stronger storms.
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-05-22, from: Eastern Pacific Basin Tropical Cyclones
-
-950 <br />ABPZ20 KNHC 221719<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu May 22 2025<br /><br />For the eastern North Pacific...east of 140 degrees west longitude:<br /><br />South of the Southern Coast of Mexico:<br />An area of low pressure is likely to form early next week several <br />hundred miles south of the southern coast of Mexico.  Conditions <br />appear favorable for development of this system, and a tropical <br />depression could form around the middle of next week while moving <br />westward to west-northwestward at 10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...medium...50 percent.<br /><br />$$<br />Forecaster Berg 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-05-22, from: Eastern Pacific Tropical Weather Outlook
-
-950 &lt;br /&gt;ABPZ20 KNHC 221719&lt;br /&gt;TWOEP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;1100 AM PDT Thu May 22 2025&lt;br /&gt;&lt;br /&gt;For the eastern North Pacific...east of 140 degrees west longitude:&lt;br /&gt;&lt;br /&gt;South of the Southern Coast of Mexico:&lt;br /&gt;An area of low pressure is likely to form early next week several &lt;br /&gt;hundred miles south of the southern coast of Mexico.  Conditions &lt;br /&gt;appear favorable for development of this system, and a tropical &lt;br /&gt;depression could form around the middle of next week while moving &lt;br /&gt;westward to west-northwestward at 10 to 15 mph.&lt;br /&gt;* Formation chance through 48 hours...low...near 0 percent.&lt;br /&gt;* Formation chance through 7 days...medium...50 percent.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Berg 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-05-22, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Thu May 22 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days. <br><br>$$<br>Forecaster Hagen<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## SPC Day 1 Fire Weather Outlook
 
 date: 2025-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -762,141 +915,6 @@ Intermountain region.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC May 22, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0737 AM CDT Thu May 22 2025
-
-Valid 221300Z - 231200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR NORTHERN
-PORTIONS OF TEXAS AND SOUTHERN OKLAHOMA...
-
-...SUMMARY...
-Severe storms are possible across parts of the southern Plains this
-afternoon and evening. Large hail is the main threat, along with
-severe gusts.  A few instances of 2+ inch diameter hail are
-possible.
-
-...Southern Plains...
-Weak short-wave ridging will shift into the central High Plains
-later today and mid-level heights are forecast to rise from the
-southern Rockies into the northern Plains.  As this occurs, a
-synoptic front draped across OK will sag south and sharpen over the
-TX South Plains/southern OK by mid-late afternoon.  Strong heating
-south of the boundary will contribute to a moderately to very
-unstable airmass.  Scattered thunderstorms will likely evolve and
-mature within this steep lapse-rate environment with 0-6km bulk
-shear around 40kt.  Wind profiles favor supercells and hodographs
-suggest very large hail is likely with the most robust updrafts.
-Severe gusts are possible with the stronger downdrafts and upscale
-growth into a couple of thunderstorm clusters is forecast during the
-evening as this activity moves into northwest/north-central TX
-during the evening hours.
-
-...Southern/Eastern Florida...
-Seasonally cool 500-mb temperatures (-8 to -10 deg C) and moderately
-steep mid-level lapse rates are forecast equatorward of a
-large-scale eastern U.S. upper trough.  Deep westerly flow favors an
-east coast sea breeze, and this should be where convection focuses
-as temperatures warm through the upper 80s and lower 90s.  Localized
-severe gusts and large hail are the primary threats with this
-diurnally driven convection.
-
-...Central High Plains...
-The aforementioned mid-level ridge and an eastward-migrating
-mid-level trough over the northern Rockies will favor southeasterly
-low-level upslope flow into the central High Plains.  Modest
-moisture coupled with strong heating will yield 250-750 J/kg SBCAPE
-by mid afternoon east of the Front Range.  Recent model runs of the
-HRRR show a dearth of storm coverage, but the 00z HREF implies at
-least isolated storms.  Elongated straight-line hodographs will
-support east-southeastward moving storms within an environment
-featuring steep 700-500 mb lapse rates (8 deg C/km).  A couple of
-stronger storms may result in an isolated risk for large hail/severe
-gusts.
-
-..Smith/Marsh.. 05/22/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No watches are valid as of Thu May 22 12:42:01 UTC 2025
-
-date: 2025-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu May 22 12:42:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Thu May 22 12:42:01 UTC 2025
-
-date: 2025-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu May 22 12:42:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC May 22, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0403 AM CDT Thu May 22 2025
-
-Valid 251200Z - 301200Z
-
-...DISCUSSION...
-Severe storms are possible across parts of the central/southern High
-Plains on D4/Sunday as ridging shifts east and broad southwesterly
-flow overspreads the southern High Plains. Moderate to strong
-instability is forecast with modest height falls and forecast
-soundings show an uncapped airmass.  Scattered to widespread
-thunderstorms are likely across much of the warm sector across
-central Oklahoma and northwest Texas. Details of storm mode and
-hazard type remain nebulous at this time. However, a focused zone of
-the most likely threat area exists across northwest Texas and
-southwest Oklahoma where 15% probabilities have been introduced. 
-
-Beyond Day 4, some isolated strong to severe storms will be possible
-along a stalled front from the Southeast to Far West Texas.
-Mid-level shortwave troughs embedded within mostly zonal flow along
-this frontal zone may focus some severe weather, but significant
-uncertainty exists regarding the timing and amplitude of any of
-these shortwave troughs. A few damaging wind gusts will be possible
-from this activity, but a more widespread threat is not anticipated.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

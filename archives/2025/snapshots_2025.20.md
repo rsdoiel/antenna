@@ -1,11 +1,197 @@
 ---
 title: snapshots
-updated: 2025-05-22 14:08:40
+updated: 2025-05-23 06:08:40
 ---
 
 # snapshots
 
-(date: 2025-05-22 14:08:40)
+(date: 2025-05-23 06:08:40)
+
+---
+
+## Authors Are Accidentally Leaving AI Prompts In their Novels
+
+date: 2025-05-23, from: 404 Media Group
+
+ ‘I’ve rewritten the passage to align more with the J. Bree style’ appeared in the middle of a tense scene with a scaled dragon prince. 
+
+<br> 
+
+<https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
+
+Memorial Day EV deals you can snag for under $300 a month. 
+
+<br> 
+
+<https://electrek.co/2025/05/23/memorial-day-ev-deals-for-under-300-a-month/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
+
+Has Harvard considered opening a satellite campus outside the United States? 
+
+<br> 
+
+<https://daveverse.org/2025/05/23/a-harvard-campus-outside-the-us/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
+
+The Eagles with Linda Ronstadt and Jackson Browne 1974. 
+
+<br> 
+
+<https://karkpost.com/the-eagles-with-linda-ronstadt-and-jackson-browne-1974/>
+
+---
+
+## Understanding the Real Barriers to Text and Data Mining
+
+date: 2025-05-23, from: Authors Union blogs
+
+Our law student intern this semester studied the legal and practical challenges facing TDM researchers. She shares her key takeaways.  
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/23/understanding-the-real-barriers-to-text-and-data-mining/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
+
+The Knicks inspire dread in their fans, and great writing among the sports writers. Like this. 
+
+<br> 
+
+<https://www.nydailynews.com/2025/05/23/knicks-must-embrace-the-madness-at-the-garden/>
+
+---
+
+## What a Decent Budget Would Look Like
+
+date: 2025-05-23, from: Paul Krugman
+
+Imagining a Congress that was neither cruel nor irresponsible 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/what-a-decent-budget-would-look-like>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
+
+The Paris Agreement Target for Warming Still Won’t Protect Polar Ice Sheets. 
+
+<br> 
+
+<https://www.motherjones.com/environment/2025/05/the-paris-agreement-target-for-warming-still-wont-protect-polar-ice-sheets/>
+
+---
+
+## Navigating global market access: how Raspberry Pi supports OEMs
+
+date: 2025-05-23, from: Raspberry Pi News (.com)
+
+<p>All our devices have global compliance certification; where modular certification isn't enough, we can manage the approval process for you.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/navigating-global-market-access-how-raspberry-pi-supports-oems/">Navigating global market access: how Raspberry Pi supports OEMs</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/navigating-global-market-access-how-raspberry-pi-supports-oems/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
+
+Dictators Are Never as Strong as They Tell You They Are. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/21/opinion/authoritarianism-democracy-protest.html?unlocked_article_code=1.JU8.RqxS.5LkruzIiwiQZ&smid=url-share>
+
+---
+
+## Thoughts on Obscura VPN and Online Privacy
+
+date: 2025-05-23, from: mrusme blog
+
+If we continue treating privacy as a product to be bought rather than a right
+to be protected, we risk creating an internet where only the wealthy can
+afford to be free. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/thoughts-on-obscura-vpn-and-online-privacy/>
+
+---
+
+## A 2030 morning routine
+
+date: 2025-05-23, from: Marginallia log
+
+You wake at 05:30 in the morning, feeling somewhat groggy.
+Instead of the alarm clock ringing like it normally does, a cheerful hologram appears: &ldquo;Hi! I&rsquo;m Kyle, your new alarm clock assistant!&rdquo; You get dressed as Kyle explains all of the fantastic things he is capable of.
+You head over to the coffee machine. &ldquo;Hey there! I&rsquo;m Evan! Are you ready for AI in your coffee? But first - tell me about yourself! 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_120_morning_routine_2030/>
+
+---
+
+## Lilbits: Mozilla kills Pocket and Fakespot, ASRock crams a desktop Arrow Lake chip into a 1.92 liter mini PC
+
+date: 2025-05-22, from: Liliputing
+
+<p>Eighteen years ago a Firefox browser extension called Read It Later was launched, providing a way to save web pages to&#8230; well, read later. Over time the service added features, changed its name to Pocket, launched mobile apps, and got acquired by Firefox maker Mozilla. Now Mozilla has announced plans to shut down Pocket on [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-mozilla-kills-pocket-and-fakespot-asrock-crams-a-desktop-arrow-lake-chip-into-a-1-92-liter-mini-pc/">Lilbits: Mozilla kills Pocket and Fakespot, ASRock crams a desktop Arrow Lake chip into a 1.92 liter mini PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-mozilla-kills-pocket-and-fakespot-asrock-crams-a-desktop-arrow-lake-chip-into-a-1-92-liter-mini-pc/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-22, from: Dave Winer's linkblog)
+
+Supreme Court Kills The Independent Agency. Trump Is King. 
+
+<br> 
+
+<https://talkingpointsmemo.com/news/supreme-court-trump-independent-agency>
+
+---
+
+## Now you can officially install SteamOS on the Lenovo Legion Go or Asus ROG Ally
+
+date: 2025-05-22, from: Liliputing
+
+<p>SteamOS is a Linux-based operating system designed for handheld gaming PCs. Up until now that&#8217;s largely meant that it&#8217;s the operating system that powers Valve&#8217;s Steam Deck handhelds. While folks have been unofficially porting key components of the software to work with other handhelds, that was the only device that officially supported the latest versions of [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/now-you-can-officially-install-steamos-on-the-lenovo-legion-go-or-asus-rog-ally/">Now you can officially install SteamOS on the Lenovo Legion Go or Asus ROG Ally</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/now-you-can-officially-install-steamos-on-the-lenovo-legion-go-or-asus-rog-ally/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-22, from: Dave Winer's linkblog)
+
+Knicks legends Carmelo Anthony, Amar&#39;e Stoudemire reminisce on the &#39;uproar&#39; that was &#39;Linsanity.&#39; 
+
+<br> 
+
+<https://www.cbssports.com/nba/news/knicks-legends-carmelo-anthony-amare-stoudemire-reminisce-on-the-uproar-that-was-linsanity/>
 
 ---
 
@@ -271,7 +457,7 @@ date: 2025-05-22, from: Iván Paredes Reséndiz blog, Mexico's cinema
 
 date: 2025-05-22, from: Liliputing
 
-<p>AMD&#8217;s Ryzen AI Max+ 395 &#8220;Strix Halo&#8221; processor is some of the highest-performance mobile chips available today, with a 12-core, 24-thread CPU based on Zen 5 architecture, Radeon 8060S integrated graphics with a 40-core RDNA 3.5 GPU, and an NPU that delivers up to 50 TOPS of AI performance. While you can put that chip in [&#8230;]</p>
+<p>AMD&#8217;s Ryzen AI Max+ 395 &#8220;Strix Halo&#8221; processor is some of the highest-performance mobile chips available today, with a 16-core, 32-thread CPU based on Zen 5 architecture, Radeon 8060S integrated graphics with a 40-core RDNA 3.5 GPU, and an NPU that delivers up to 50 TOPS of AI performance. While you can put that chip in [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/thermalright-introduces-liquid-cooled-mini-pcs-with-amd-strix-halo/">Thermalright introduces liquid-cooled mini PCs with AMD Strix Halo</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
@@ -321,11 +507,11 @@ date: 2025-05-22, from: Purism News and Events
 
 ---
 
-## Cross-Border Data Processing with Privacy Compliance Through Bacalhau
+## Cross-Border Data Processing With Privacy Compliance Through Expanso
 
 date: 2025-05-22, from: Bacalhau Blog
 
-Usign Bacalhau to handle complex data pipelines that cross borders while preserving privacy 
+Using Bacalhau to handle complex data pipelines that cross borders while preserving privacy 
 
 <br> 
 
@@ -562,6 +748,18 @@ My 7 year old strongly prefers to sleep with white noise playing. She&#8217;s go
 <br> 
 
 <https://chriscoyier.net/2025/05/21/white-noise/>
+
+---
+
+## The Crafters of “Andor”
+
+date: 2025-05-22, updated: 2025-05-22, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/05/22/2025-05-22-the-crafters-of-andor/>
 
 ---
 

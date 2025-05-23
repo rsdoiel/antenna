@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-22 14:08:35
+updated: 2025-05-23 06:08:35
 ---
 
 # libraries
 
-(date: 2025-05-22 14:08:35)
+(date: 2025-05-23 06:08:35)
+
+---
+
+## Off for the US Holiday — Wishing You A Constructive Summer
+
+date: 2025-05-23, from: Scholarly Kitchen
+
+<p>We are off for the Memorial Day holiday, traditionally marking the beginning of summer.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/23/off-for-the-us-holiday-wishing-you-a-constructive-summer/">Off for the US Holiday &#8212; Wishing You A Constructive Summer</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/23/off-for-the-us-holiday-wishing-you-a-constructive-summer/>
 
 ---
 
@@ -34,6 +48,18 @@ date: 2025-05-22, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/05/22/guest-post-the-guidelines-for-reporting-intersectional-analysis-in-science-and-technology-grist-an-interview-with-londa-schiebinger/>
+
+---
+
+## New Livestream Brings Microfiche Digitization to Life for Democracy’s Library
+
+date: 2025-05-21, from: Internet Archive Blog
+
+Ever wonder how government documents, once locked away on tiny sheets of microfiche, become searchable and accessible online? Now you can see it happen in real time. Today, the Internet [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/05/21/new-livestream-brings-microfiche-digitization-to-life-for-democracys-library/>
 
 ---
 

@@ -1,11 +1,494 @@
 ---
 title: pacific
-updated: 2025-05-22 14:08:32
+updated: 2025-05-23 06:08:30
 ---
 
 # pacific
 
-(date: 2025-05-22 14:08:32)
+(date: 2025-05-23 06:08:30)
+
+---
+
+## Deadlocked Supreme Court rejects bid for religious charter school in Oklahoma
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; An evenly divided Supreme Court rejected a plan Thursday to allow Oklahoma to use government money to run the nation&#8217;s first religious charter school, which would teach a curriculum infused by Catholic doctrine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/deadlocked-supreme-court-rejects-bid-for-religious-charter-school-in-oklahoma/>
+
+---
+
+## Here’s what’s in the bill to deliver Trump’s agenda
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; House Republicans approved a domestic policy bill to enact President Donald Trump&#8217;s agenda, prevailing by a single vote early Thursday after a bitter fight over tax and spending priorities that had divided their conference.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/heres-whats-in-the-bill-to-deliver-trumps-agenda/>
+
+---
+
+## More downgrades forecast for Hawaii tax revenue
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>A panel that forecasts state tax revenue that funds Hawaii government operations on Wednesday downgraded projections for the next three fiscal years amid swirling uncertainties over federal policy upheaval.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/hawaii-news/more-downgrades-forecast-for-hawaii-tax-revenue/>
+
+---
+
+## Kennedy and Trump paint bleak picture of chronic disease in US children
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump and Health Secretary Robert F. Kennedy Jr. on Thursday set forth their vision for how to &#8220;make America healthy again&#8221; with the release of an expansive report on a crisis of chronic disease in children.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/kennedy-and-trump-paint-bleak-picture-of-chronic-disease-in-us-children/>
+
+---
+
+## Now that House Republicans took the plunge, it’s the Senate’s turn
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; It took everything House Republicans could muster to just barely nudge their major domestic policy bill over the finish line by the sparest of margins at daybreak Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/now-that-house-republicans-took-the-plunge-its-the-senates-turn/>
+
+---
+
+## Woman detained after shooting outside CIA headquarters
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Security guards opened fire on a woman who drove toward the gates of the CIA&#8217;s headquarters near Washington, D.C. on Thursday, ignoring orders to stop, and she was then taken into custody, according to a person familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/woman-detained-after-shooting-outside-cia-headquarters/>
+
+---
+
+## Small plane crashes into San Diego neighborhood, killing at least 2
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; At least two people were killed and eight others injured on Thursday when a small plane crashed in a San Diego neighborhood where military families lived, damaging houses and vehicles.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/small-plane-crashes-into-san-diego-neighborhood-killing-at-least-2/>
+
+---
+
+## Suspect charged with murder in fatal DC shooting of two Israel embassy aides
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A Chicago-born man arrested as the lone suspect in the fatal shooting of two Israeli Embassy employees in Washington was charged on Thursday in federal court with two counts of first-degree murder in a killing widely condemned as an act of antisemitism.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/suspect-charged-with-murder-in-fatal-dc-shooting-of-two-israel-embassy-aides/>
+
+---
+
+## News in brief for May 23 HTH
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>End of the penny grows near</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/news-in-brief-for-may-23-hth/>
+
+---
+
+## US forecasts above-normal 2025 hurricane season amid concerns about NOAA cuts
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; U.S. government scientists forecast an above-normal 2025 hurricane season on Thursday, and said big staffing and budget cuts at the National Oceanic and Atmospheric Administration would not hinder its ability to forecast devastating storms and warn the public.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/us-forecasts-above-normal-2025-hurricane-season-amid-concerns-about-noaa-cuts/>
+
+---
+
+## Trump administration says it is halting Harvard’s ability to enroll international students
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration on Thursday halted Harvard University&#8217;s ability to enroll international students, taking aim at a crucial funding source for the nation&#8217;s oldest and wealthiest college in a major escalation of the administration&#8217;s efforts to pressure the elite school to fall in line with the president&#8217;s agenda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/trump-administration-says-it-is-halting-harvards-ability-to-enroll-international-students/>
+
+---
+
+## US judge blocks Trump’s plan to dismantle Education Department
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; A federal judge blocked U.S. President Donald Trump&#8217;s administration from carrying out his executive order to dismantle the U.S. Department of Education and ordered it on Thursday to reinstate employees terminated in a mass layoff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/nation-world-news/us-judge-blocks-trumps-plan-to-dismantle-education-department/>
+
+---
+
+## Taiwan welcomes Whipps
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="1024" height="612" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?fit=1024%2C612&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?w=1724&amp;ssl=1 1724w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=1024%2C612&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=768%2C459&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=1536%2C918&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=1200%2C717&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=780%2C466&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=400%2C239&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?resize=706%2C422&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?fit=1024%2C612&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77648" data-permalink="https://islandtimes.org/taiwan-welcomes-whipps/president-in-taiwan-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?fit=1724%2C1030&amp;ssl=1" data-orig-size="1724,1030" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="President in Taiwan 3" data-image-description="" data-image-caption="&lt;p&gt;Photo, Credit Office of the President.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?fit=300%2C179&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/President-in-Taiwan-3.jpg?fit=780%2C466&amp;ssl=1" /></figure>
+<p>Taiwan’s President Lai Ching-te welcomed President Surangel Whipps Jr. on May 20 with full military honors, marking the 26th anniversary of the two countries&#8217; establishment of diplomatic ties. According to the Office of the Taiwan President website, Lai thanked Whipps and his government for continuing to support Taiwan on the international stage,&#160;including its inclusion in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-welcomes-whipps/">Taiwan welcomes Whipps </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-welcomes-whipps/>
+
+---
+
+## U.S. revises TACMOR Environmental statement, Ngaraard Chiefs urge follow-through
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="1024" height="635" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?fit=1024%2C635&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=1024%2C635&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=768%2C476&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=1536%2C952&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=2048%2C1270&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=1200%2C744&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=2000%2C1240&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=780%2C484&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=400%2C248&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?resize=706%2C438&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?fit=1024%2C635&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77643" data-permalink="https://islandtimes.org/u-s-revises-tacmor-environmental-statement-ngaraard-chiefs-urge-follow-through/ngaraard-citizens-listening/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?fit=2560%2C1587&amp;ssl=1" data-orig-size="2560,1587" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1747943589&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ngaraard citizens listening" data-image-description="" data-image-caption="&lt;p&gt; Ngaraard citizens listening to the presentation on the second EIS for the TACMOR project.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?fit=300%2C186&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Ngaraard-citizens-listening-scaled.jpg?fit=780%2C484&amp;ssl=1" /></figure>
+<p>CHOLL, Ngaraard (May 22, 2025) — U.S. officials and project leaders presented a revised Environmental Impact Statement (EIS) for the Tactical Mobile Over-the-Horizon Radar (TACMOR) project during a second public hearing in Ngaraard, addressing numerous environmental and cultural concerns raised in the initial review. However, traditional leaders in Ngaraard emphasized the need for accountability and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-revises-tacmor-environmental-statement-ngaraard-chiefs-urge-follow-through/">U.S. revises TACMOR Environmental statement, Ngaraard Chiefs urge follow-through</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-revises-tacmor-environmental-statement-ngaraard-chiefs-urge-follow-through/>
+
+---
+
+## Senate slashes supplemental budget claiming use for Major Fiscal Decisions
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="256" height="283" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Surangel_Whipps_Jr..jpg?fit=256%2C283&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Surangel_Whipps_Jr..jpg?w=256&amp;ssl=1 256w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Surangel_Whipps_Jr..jpg?fit=256%2C283&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Surangel_Whipps_Jr..jpg?fit=256%2C283&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61717" data-permalink="https://islandtimes.org/whipps-joining-mps-this-month/surangel_whipps_jr/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Surangel_Whipps_Jr..jpg?fit=256%2C283&amp;ssl=1" data-orig-size="256,283" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1617128050&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;16&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Surangel_Whipps_Jr." data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Surangel_Whipps_Jr..jpg?fit=256%2C283&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Surangel_Whipps_Jr..jpg?fit=256%2C283&amp;ssl=1" /></figure>
+<p>By: L.N Reklai KOROR — The Senate halved and passed President Surangel Whipps Jr.’s supplemental budget, cutting off proposed increases to Palau’s consulates overseas, and transmitted the reduced budget bill to the House of Delegates for deliberation. On a radio talk show on May 16, President Whipps said that the Senate action cutting funding for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-slashes-supplemental-budget-claiming-use-for-major-fiscal-decisions/">Senate slashes supplemental budget claiming use for Major Fiscal Decisions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-slashes-supplemental-budget-claiming-use-for-major-fiscal-decisions/>
+
+---
+
+## Whipps seeks Taiwan support in hosting PIF in 2026
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="600" height="856" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=210%2C300&amp;ssl=1 210w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=400%2C571&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70146" data-permalink="https://islandtimes.org/palau-recognizes-law-enforcement-during-national-police-week/whipps-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" data-orig-size="600,856" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715164497&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=210%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" /></figure>
+<p>By: Bernadette Carreon President Surangel Whipps Jr. said it will ensure that his government will work with Taiwan to host a successful Pacific Islands Forum next year. Whipps said this in his remarks during the banquet for him and his delegation in Taiwan. “ Palau remains committed to working closely with Taiwan to ensure a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-seeks-taiwan-support-in-hosting-pif-in-2026/">Whipps seeks Taiwan support in hosting PIF in 2026 </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-seeks-taiwan-support-in-hosting-pif-in-2026/>
+
+---
+
+## Palau Media Council elects’ new officers for 2025-2027
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="1024" height="717" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?fit=1024%2C717&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?resize=1024%2C717&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?resize=768%2C538&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?resize=1200%2C841&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?resize=780%2C546&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?resize=400%2C280&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?resize=706%2C495&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?fit=1024%2C717&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77632" data-permalink="https://islandtimes.org/palau-media-council-elects-new-officers-for-2025-2027/palau-media-council-new-officers-press-release-draft-okk-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?fit=1249%2C875&amp;ssl=1" data-orig-size="1249,875" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Ongerung Kesolei&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau-media-Council-new-officers-press-release-draft-okk-1" data-image-description="" data-image-caption="&lt;p&gt;Palau Media Council’s new officers and directors (l-r): Director Ngewakl Soaladaob, President Leilani Reklai, Secretary Eustoria Marie Borja, Vice President Jill Senior, Treasurer Janiz Ruetinag  and Director Kambes Kesolei.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?fit=300%2C210&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Palau-media-Council-new-officers-press-release-draft-okk-1.jpg?fit=780%2C546&amp;ssl=1" /></figure>
+<p>(May 21, 2025, Press Release) The Palau Media Council has elected Ms. Leilani Reklai as its new president during its annual general membership meeting on May 21, 2025. Reklai, previously a board director, succeeds Kambes Kesolei and will lead the organization for the next two years. Expressing gratitude for the confidence placed in her, Reklai [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-media-council-elects-new-officers-for-2025-2027/">Palau Media Council elects’ new officers for 2025-2027</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-media-council-elects-new-officers-for-2025-2027/>
+
+---
+
+## Palau establishes Coordinated Maritime Management Working Group to enhance national maritime security
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="600" height="744" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?resize=242%2C300&amp;ssl=1 242w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?resize=400%2C496&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76405" data-permalink="https://islandtimes.org/temmy-l-shmull/whipps-8/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" data-orig-size="600,744" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=242%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" /></figure>
+<p>President Surangel S. Whipps Jr. has signed Executive Order No. 491, establishing the Coordinated Maritime Management (CMM) Working Group to strengthen interagency coordination and improve the Republic of Palau’s ability to respond to maritime security threats. “The ocean is central to our shared future,” the executive order states. “Its health and safety is foundational to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-establishes-coordinated-maritime-management-working-group-to-enhance-national-maritime-security/">Palau establishes Coordinated Maritime Management Working Group to enhance national maritime security</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-establishes-coordinated-maritime-management-working-group-to-enhance-national-maritime-security/>
+
+---
+
+## PINA supports JAWS call for repeal of law criminalising journalism in Samoa
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="600" height="511" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?fit=600%2C511&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?resize=300%2C256&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?resize=400%2C341&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?fit=600%2C511&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77622" data-permalink="https://islandtimes.org/pina-supports-jaws-call-for-repeal-of-law-criminalising-journalism-in-samoa/pina-support-jaws-call-to-repeal-law-criminalising-journalism-in-samoa/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?fit=600%2C511&amp;ssl=1" data-orig-size="600,511" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Matai Akauola&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PINA Support JAWS call to repeal law criminalising journalism in Samoa" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?fit=300%2C256&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/PINA-Support-JAWS-call-to-repeal-law-criminalising-journalism-in-Samoa.jpg?fit=600%2C511&amp;ssl=1" /></figure>
+<p>The Pacific Islands News Association (PINA) expresses its full support for the Journalists Association of Samoa (JAWS) and its President, Ms Lagi Keresoma, who is facing a criminal libel charge under Section 117A of Samoa’s Crimes Act 2013. Ms Keresoma is a well-respected senior journalist in Samoa and known across the Pacific for her professionalism, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pina-supports-jaws-call-for-repeal-of-law-criminalising-journalism-in-samoa/">PINA supports JAWS call for repeal of law criminalising journalism in Samoa</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pina-supports-jaws-call-for-repeal-of-law-criminalising-journalism-in-samoa/>
+
+---
+
+## “Palau Advances Gender Equality with New Tools and Partnerships
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="750" height="466" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?fit=750%2C466&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?w=750&amp;ssl=1 750w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?resize=400%2C249&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?resize=706%2C439&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?fit=750%2C466&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77616" data-permalink="https://islandtimes.org/palau-advances-gender-equality-with-new-tools-and-partnerships/building/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?fit=750%2C466&amp;ssl=1" data-orig-size="750,466" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;User&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="building" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?fit=300%2C186&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/building.jpg?fit=750%2C466&amp;ssl=1" /></figure>
+<p>BDA and PNOC Strengthen MEL Capabilities Through Pacific Women Lead Support The Bureau of Domestic Affairs, Ministry of State is mandated by 6 PNC and by Executive Order No. 452 to post and publish laws and regulations for public viewing, and to raise public awareness through dissemination of all government activities and issues through various [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-advances-gender-equality-with-new-tools-and-partnerships/">“Palau Advances Gender Equality with New Tools and Partnerships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-advances-gender-equality-with-new-tools-and-partnerships/>
+
+---
+
+## PICRC bids farewell to longtime security officer Sawaichi
+
+date: 2025-05-23, from: Island Times
+
+<figure><img width="1024" height="741" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?fit=1024%2C741&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?resize=300%2C217&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?resize=1024%2C741&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?resize=768%2C556&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?resize=1200%2C869&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?resize=780%2C565&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?resize=400%2C290&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?resize=706%2C511&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?fit=1024%2C741&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="77610" data-permalink="https://islandtimes.org/picrc-bids-farewell-to-longtime-security-officer-sawaichi/mort-retirement/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?fit=1249%2C904&amp;ssl=1" data-orig-size="1249,904" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Mort Retirement" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?fit=300%2C217&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/05/Mort-Retirement.jpg?fit=780%2C564&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is pleased to announce the retirement of Mr. Morton Sawaichi, a dedicated and esteemed member of our team, who served as a Security Officer for the past 17 years. Mr. Sawaichi officially retired on February 26, 2025. Mr. Sawaichi began his journey with PICRC on February 26, 2008, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-bids-farewell-to-longtime-security-officer-sawaichi/">PICRC bids farewell to longtime security officer Sawaichi</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-bids-farewell-to-longtime-security-officer-sawaichi/>
+
+---
+
+## Australia fills gap left by USAID withdrawal
+
+date: 2025-05-23, from: Island Times
+
+<p>SUVA (FBC NEWS) &#8212; Foreign Affairs Minister Senator Penny Wong says Australia is a steadfast partner committed to the region’s development despite changes in global aid. Wong assured that Australia’s development assistance to the region remains a top priority, with increased funding to support Pacific countries through tough times. The question was asked of the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-fills-gap-left-by-usaid-withdrawal/">Australia fills gap left by USAID withdrawal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australia-fills-gap-left-by-usaid-withdrawal/>
+
+---
+
+## Marines and sailors from Okinawa start moving into Camp Blaz
+
+date: 2025-05-23, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; Marines and sailors who formed the vanguard from Okinawa began moving into their new home on Marine Corps Base Camp Blaz (MCBCB) following the opening of the first new enlisted barracks last week. They were previously housed on Andersen Air Force Base and those living aboard Naval Base Guam will [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/marines-and-sailors-from-okinawa-start-moving-into-camp-blaz/">Marines and sailors from Okinawa start moving into Camp Blaz</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/marines-and-sailors-from-okinawa-start-moving-into-camp-blaz/>
+
+---
+
+## Trump sets stage to sell ocean mining rights off American Samoa
+
+date: 2025-05-23, from: Island Times
+
+<p>PAGOPAGO/WASHINGTON (THE JAPAN TIMES) &#8212; The administration of U.S President Donald Trump is setting the stage to sell mining rights off the coast of American Samoa as demand surges for critical materials used in electric vehicle batteries, smart phones and other technology. The Interior Department said Tuesday that it planned to seek information from the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trump-sets-stage-to-sell-ocean-mining-rights-off-american-samoa/">Trump sets stage to sell ocean mining rights off American Samoa</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trump-sets-stage-to-sell-ocean-mining-rights-off-american-samoa/>
+
+---
+
+## China to host Pacific Island leaders, seeking closer ties
+
+date: 2025-05-23, from: Island Times
+
+<p>BEIJING (AFP) &#8212; China&#8217;s top diplomat will host leaders from Pacific Island nations next week for a summit, Beijing announced on Wednesday, as it seeks closer ties with the strategic region.  Leaders and diplomats from 11 Pacific Island nations, including Kiribati, Solomon Islands, Papua New Guinea and Fiji, will attend the talks in the eastern [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-to-host-pacific-island-leaders-seeking-closer-ties/">China to host Pacific Island leaders, seeking closer ties</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-to-host-pacific-island-leaders-seeking-closer-ties/>
+
+---
+
+## Australia to stay tariff-free for Pacific Islands struggling with aid cuts, says foreign minister
+
+date: 2025-05-23, from: Island Times
+
+<p>SUVA (REUTERS) &#8212; Australia&#8217;s Foreign Minister Penny Wong has pledged to keep tariff-free access for Pacific Island goods, after Fiji was hit by a 32 percent U.S tariff, in a speech positioning Australia as a reliable partner to the region amid global aid cuts. Australia is the region&#8217;s largest aid donor and &#8220;a partner the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-to-stay-tariff-free-for-pacific-islands-struggling-with-aid-cuts-says-foreign-minister/">Australia to stay tariff-free for Pacific Islands struggling with aid cuts, says foreign minister</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australia-to-stay-tariff-free-for-pacific-islands-struggling-with-aid-cuts-says-foreign-minister/>
+
+---
+
+## Japan’s agriculture minister Taku Eto resigns after gaffe about rice
+
+date: 2025-05-23, from: Island Times
+
+<p>In short: (ABC-Australia) Public outrage over remarks about not needing to buy rice, as voters grapple with record-high prices, has led to the resignation of Japan&#8217;s agriculture minister. The controversy has deepened pressure on Prime Minister Shigeru Ishiba, whose approval ratings have hit historic lows. What&#8217;s next? The departure threatens Mr Ishiba&#8217;s already-shaky grip on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japans-agriculture-minister-taku-eto-resigns-after-gaffe-about-rice/">Japan&#8217;s agriculture minister Taku Eto resigns after gaffe about rice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japans-agriculture-minister-taku-eto-resigns-after-gaffe-about-rice/>
+
+---
+
+## Anthony Albanese to visit China for second time amid Xi Jinping’s push for ‘mature’ ties with Australia
+
+date: 2025-05-23, from: Island Times
+
+<p>Exclusive by Bang Xiao In short: (ABC-Australia) Anthony Albanese is expected to travel to China for the second time to meet with Xi Jinping and other senior officials. The trip follows a warm letter of congratulations from China&#8217;s leader following Mr Albanese&#8217;s election win. What&#8217;s next? It is not yet known when the trip will take [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/anthony-albanese-to-visit-china-for-second-time-amid-xi-jinpings-push-for-mature-ties-with-australia/">Anthony Albanese to visit China for second time amid Xi Jinping&#8217;s push for &#8216;mature&#8217; ties with Australia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/anthony-albanese-to-visit-china-for-second-time-amid-xi-jinpings-push-for-mature-ties-with-australia/>
+
+---
+
+## Taiwan president calls for ‘peace’ with China but says island must prepare for war
+
+date: 2025-05-23, from: Island Times
+
+<p>TAIWAN (AFP) &#8212; Taiwan wants peace and dialogue with China but the government must continue to strengthen the island&#8217;s defences, President Lai Ching-te said on Tuesday as he completed one year in office. China has rebuffed Lai&#8217;s multiple offers for talks. Lai rejects China&#8217;s sovereignty claims over the democratic and separately governed island, saying only [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-president-calls-for-peace-with-china-but-says-island-must-prepare-for-war/">Taiwan president calls for &#8216;peace&#8217; with China but says island must prepare for war</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-president-calls-for-peace-with-china-but-says-island-must-prepare-for-war/>
+
+---
+
+## #TakeMeToMānoa scholarship winner surprised by news crew
+
+date: 2025-05-23, from: University of Hawaiʻi News
+
+<p>Out of the dozens of entries, Moanalua High School's Maiya Sugimoto was chosen to win a free year of tuition at <abbr>UH</abbr> Mānoa, courtesy of <abbr>UH</abbr> Federal Credit Union.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/22/takemetomanoa-scholarship-winner-surprised-by-news-crew/">#TakeMeToMānoa scholarship winner surprised by news crew</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/22/takemetomanoa-scholarship-winner-surprised-by-news-crew/>
+
+---
+
+## From deep trauma to triumph: UH Hilo helps Mom rebuild life
+
+date: 2025-05-23, from: University of Hawaiʻi News
+
+<p>&#8220;They made me feel comfortable, made me believe that I was smart and important. They actually inspired me.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/22/trauma-to-triumph-uh-hilo-helps-mom-rebuild-life/">From deep trauma to triumph: <abbr>UH</abbr> Hilo helps Mom rebuild life</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/22/trauma-to-triumph-uh-hilo-helps-mom-rebuild-life/>
+
+---
+
+## Mānoa fashion students use AI to reimagine runway
+
+date: 2025-05-23, from: University of Hawaiʻi News
+
+<p>Fashion design and merchandising students use <abbr>3D</abbr> design software to create designs and a virtual fashion show.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/22/manoa-fashion-students-use-ai-to-reimagine-runway/">Mānoa fashion students use <abbr>AI</abbr> to reimagine runway</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/22/manoa-fashion-students-use-ai-to-reimagine-runway/>
+
+---
+
+## President Hensel: Grant terminations, DOJ initiative, international students
+
+date: 2025-05-22, from: University of Hawaiʻi News
+
+<p>&#8220;We continue to work closely with national higher education organizations, <span aria-label="Hawaii">Hawai&#699;i</span>’s congressional delegation, Gov. Green, the State attorney general and our own Presidential Advisory Council on Federal Policy and leadership teams to respond to these challenges.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/22/president-hensel-federal-update-may-2025/">President Hensel: Grant terminations, <abbr>DOJ</abbr> initiative, international students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/22/president-hensel-federal-update-may-2025/>
+
+---
+
+## UH taps retired FBI Special Agent to lead emergency planning, preparedness
+
+date: 2025-05-22, from: University of Hawaiʻi News
+
+<p>Former <abbr>FBI</abbr> Special Agent Steven Merrill is the <abbr>UH</abbr> 10 campus system’s first director of emergency management.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/22/merrill-to-lead-emergency-planning-preparedness/"><abbr>UH</abbr> taps retired <abbr>FBI</abbr> Special Agent to lead emergency planning, preparedness</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/22/merrill-to-lead-emergency-planning-preparedness/>
 
 ---
 

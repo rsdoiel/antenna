@@ -1,11 +1,99 @@
 ---
 title: going electric
-updated: 2025-05-22 14:08:38
+updated: 2025-05-23 06:08:38
 ---
 
 # going electric
 
-(date: 2025-05-22 14:08:38)
+(date: 2025-05-23 06:08:38)
+
+---
+
+## Tesla ranks under UnitedHealth, Temu, BP in brand reputation poll due to Musk
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-killer.png?w=1600" /></div><p>The 2025 version of the Axios Harris poll of brand reputation is out, and it shows a sharp decline in the reputation of Tesla and other Elon Musk-related brands, putting them among the lowest-ranked brands in America, largely due to the toxicity of Musk himself.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="417422" href="https://electrek.co/2025/05/23/tesla-ranks-under-unitedhealth-temu-bp-in-brand-reputation-poll-due-to-musk/#more-417422" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/tesla-ranks-under-unitedhealth-temu-bp-in-brand-reputation-poll-due-to-musk/>
+
+---
+
+## Memorial Day deals are here: These EVs you can snag for under $300 a month
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Memorial-Day-EV-lease-deals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Forget the patio set. This Memorial Day, the real deals are on EVs. While some savings, including the $7,500 federal EV tax credit, could soon disappear, there’s still time to take advantage of the discounts. We rounded up all the EVs you can lease right now for under $300 a month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/05/23/memorial-day-ev-deals-for-under-300-a-month/#more-404778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/memorial-day-ev-deals-for-under-300-a-month/>
+
+---
+
+## Wheel-E Podcast: Velotric Nomax 2X, Meepo Flow test, more
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes a new launch of a full-suspension e-bike from Velotric, Yamaha-backed company’s plan for battery swapping in electric bicycles, buying a super-cheap e-bike from China, testing the Meepo Flow electric skateboard, PodBike closes its doors, the impending launch of the Royal Enfield Flying Flea electric motorcycle, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="417444" href="https://electrek.co/2025/05/23/wheel-e-podcast-velotric-nomax-2x-meepo-flow-test-more/#more-417444" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/wheel-e-podcast-velotric-nomax-2x-meepo-flow-test-more/>
+
+---
+
+## Tesla Just Got Crushed By BYD In A Crucial Market
+
+date: 2025-05-23, from: Inside EVs News
+
+Tesla used to be the best-selling EV brand in Europe. Now it’s not even in the top 10. 
+
+<br> 
+
+<https://insideevs.com/news/760503/tesla-byd-ev-sales-europe-april-2025/>
+
+---
+
+## California announces lawsuit to resist Congress’ illegal attacks on clean air
+
+date: 2025-05-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/IMG_9694-scaled-1-e1747948929611.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>California will go to court to protect its clean air in the face of <a href="https://electrek.co/2025/05/22/republicans-in-congress-illegally-vote-to-end-clean-air-rules-they-cant-actually-end/">illegal attacks</a> by republicans in Congress, said California Governor Gavin Newsom today.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,california-air-resources-board" data-layer-viewtype="unknown" data-post-id="417401" href="https://electrek.co/2025/05/22/california-announces-lawsuit-to-resist-congress-illegal-attacks-on-clean-air/#more-417401" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/22/california-announces-lawsuit-to-resist-congress-illegal-attacks-on-clean-air/>
+
+---
+
+## Two EVs Charge Faster Than the Rest. But One Is Clearly Better
+
+date: 2025-05-22, from: Inside EVs News
+
+In the U.S., the Porsche Taycan and the Lucid Gravity are the fast-charging champions. So which can get it done the fastest? 
+
+<br> 
+
+<https://insideevs.com/news/760481/lucid-gravity-porsche-taycan-charging/>
 
 ---
 
@@ -33,7 +121,7 @@ date: 2025-05-22, from: Electrek Feed
 
 
 
-<p><em>Update, May 22: </em>After the initial lawsuit was filed on May 7th,<a href="https://earthjustice.org/press/2025/nonprofits-sue-trump-administration-over-illegal-freeze-of-billions-for-electric-vehicle-charging"> a number of nonprofits</a> including Sierra Club, Earthjustice, NRDC, Southern Environmental Law Center, and Plug in America joined the lawsuit today. Also, the Government Accountability Office <a href="https://www.nytimes.com/2025/05/22/us/politics/trump-federal-funds-gao.html">determined today that the seizure of funds was illegal</a>.</p>
+<p><em>Update, May 22: </em>After the initial lawsuit was filed on May 7th when this article was first written,<a href="https://earthjustice.org/press/2025/nonprofits-sue-trump-administration-over-illegal-freeze-of-billions-for-electric-vehicle-charging"> a number of nonprofits</a> including Sierra Club, Earthjustice, NRDC, Southern Environmental Law Center, and Plug in America joined the lawsuit today. Also, the Government Accountability Office <a href="https://www.nytimes.com/2025/05/22/us/politics/trump-federal-funds-gao.html">determined today that the seizure of funds was illegal</a>.</p>
 
 
 

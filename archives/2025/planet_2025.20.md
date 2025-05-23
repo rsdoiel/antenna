@@ -1,11 +1,312 @@
 ---
 title: planet
-updated: 2025-05-22 14:08:29
+updated: 2025-05-23 06:08:27
 ---
 
 # planet
 
-(date: 2025-05-22 14:08:29)
+(date: 2025-05-23 06:08:27)
+
+---
+
+## Turtle rescued in Ireland set free in Canary Islands
+
+date: 2025-05-23, from: RTÉ News
+
+Solstice, a rare green sea turtle found paralysed by cold on Christmas Eve on a beach in Co Clare, was set free in Spain's Canary Islands, six months after she was rescued and underwent a programme of care by vets. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0523/1514581-solstice-turtle/>
+
+---
+
+## Harvard sues over foreign students enrolment block
+
+date: 2025-05-23, from: RTÉ News
+
+Harvard University is suing the Trump administration over President Donald Trump's decision to revoke the Ivy League school's ability to enrol international students. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0523/1514579-harvard-university/>
+
+---
+
+## Satchwell narrative on how wife died 'self-serving'
+
+date: 2025-05-23, from: RTÉ News
+
+Richard Satchwell's narrative about how his wife, Tina, died was implausible, self-serving and had more holes in it than a block of Swiss cheese the jury in his trial has been told. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0523/1514568-richard-satchwell-court/>
+
+---
+
+## Audit of child hip surgery at three hospitals published
+
+date: 2025-05-23, from: RTÉ News
+
+Follow live updates and reaction following the publication an independent clinical audit of children's dysplasia of the hips surgery at a number of hospitals. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0523/1514529-dysplasia-hips-surgery/>
+
+---
+
+## Aid teams highlight growing anxiety in Gaza after food is looted
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+Long-awaited food supplies have been looted in Gaza overnight while being transported to desperate communities in the war-torn enclave, UN aid teams reported on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163611>
+
+---
+
+## 79% drop in 20 years in women aged under 20 giving birth
+
+date: 2025-05-23, from: RTÉ News
+
+The number of women under the age of 20 giving birth has dropped significantly in the last 20 years, figures from the Central Statistics Office have shown. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0523/1514546-cso-birth-figures/>
+
+---
+
+## Trump re-escalates trade threats, aiming at EU, Apple
+
+date: 2025-05-23, from: RTÉ News
+
+US President Donald Trump has re-escalated his trade threats, targeting both imports from the entire European Union and smartphone giant Apple, sending the global market roiling after weeks of de-escalation had provided some reprieve. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0523/1514558-us-tariffs/>
+
+---
+
+## Man, 60s, arrested in Creeslough explosion investigation
+
+date: 2025-05-23, from: RTÉ News
+
+A man aged in his 60s has been arrested as part of the investigation into an explosion in Creeslough, Co Donegal in 2022 in which ten people died. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0523/1514554-creeslough/>
+
+---
+
+## Ukraine says prisoner exchange with Russia under way
+
+date: 2025-05-23, from: RTÉ News
+
+A prisoner exchange between Ukraine and Russia is under way but has not yet been completed, a Ukrainian military source has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0523/1514528-ukraine-russia/>
+
+---
+
+## Dubliner Orla Gartland 'can't believe' Ivor Novello win
+
+date: 2025-05-23, from: RTÉ News
+
+Irish singer Orla Gartland has said she "can't believe" she won an Ivor Novello award following her success at the awards ceremony in London on Thursday night. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0523/1514497-dubliner-orla-gartland-cant-believe-ivor-novello-win/>
+
+---
+
+## Heather Humphreys rules out presidential run
+
+date: 2025-05-23, from: RTÉ News
+
+Fine Gael's Heather Humphreys has confirmed that she will not seek her party's nomination for this year's presidential election. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0523/1514518-heather-humphreys/>
+
+---
+
+## Huge cargo ship runs aground near man's home in Norway
+
+date: 2025-05-23, from: RTÉ News
+
+A man in Norway awoke early to discover a huge container ship had run aground a stone's throw from his fjord-side house - and he had slept through the commotion. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0523/1514505-norway-container-ship/>
+
+---
+
+## Two hospitals used lower threshold for child hip surgery
+
+date: 2025-05-23, from: RTÉ News
+
+The independent clinical audit of dysplasia of the hips surgery in children at a number of hospitals has found that a lower threshold was used to decide for surgery at Temple Street and Cappagh hospitals. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0523/1514506-hip-surgery-ireland/>
+
+---
+
+## Suspect in shooting of Israeli staff charged with murder
+
+date: 2025-05-23, from: RTÉ News
+
+The lone suspect in the fatal shooting of two Israeli embassy employees in Washington has been charged with two counts of first-degree murder. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0523/1514489-washington-shooting/>
+
+---
+
+## Directors of IPAS centre operator shared €4.68m last year
+
+date: 2025-05-23, from: RTÉ News
+
+Two directors at one of the biggest operators in the International Protection applicant accommodation sector last year shared €4.68m in pay and pension contributions. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514492-ipas-operators/>
+
+---
+
+## Drawn in by the algorithm: four Irish men share their stories
+
+date: 2025-05-23, from: RTÉ News
+
+Four Irish men describe how online content gradually shaped their views on gender, dating and identity.
+They tell Prime Time how they were drawn in - and what helped them step back. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0523/1514406-drawn-in-by-the-algorithm-four-irish-men-share-their-stories/>
+
+---
+
+## 'Show it to parents' - UK school considers 'Adolescence'
+
+date: 2025-05-23, from: RTÉ News
+
+Last March, British Prime Minister Keir Starmer held a roundtable discussion with the creators of the Netflix drama 'Adolescence' in Downing Street. He spoke of watching the series himself with his two teenage children. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0523/1514438-adolescence-netflix/>
+
+---
+
+## 20th anniversary of Navan bus crash which killed five
+
+date: 2025-05-23, from: RTÉ News
+
+Communities in Co Meath will gather to remember the victims of a school bus crash which happened on the Navan to Kentstown Road 20 years ago. Five young girls lost their lives in the tragedy. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0523/1514459-navan-bus-crash-anniversary/>
+
+---
+
+## Strikes kill six Gazans protecting aid trucks, says Hamas
+
+date: 2025-05-23, from: RTÉ News
+
+Israeli airstrikes have killed at least six Palestinians guarding aid trucks against looters, Hamas officials said, underlining the problems hindering supplies from reaching hungry people in Gaza following Israel's 11-week-long blockade. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0523/1514470-middle-east/>
+
+---
+
+## Verdict due in Paris in Kardashian robbery trial
+
+date: 2025-05-23, from: RTÉ News
+
+A French court is expected to give a verdict in the trial of ten people accused of robbing reality TV star Kim Kardashian of some €8 million worth of jewellery in Paris. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0523/1514469-paris-trial/>
+
+---
+
+## Death toll in Australia floods rises to four
+
+date: 2025-05-23, from: RTÉ News
+
+At least four people have died as record floods cut a destructive path through eastern Australia, caking houses in silt, washing out roads and cutting off around 50,000 people from help. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0523/1514467-australia-floods/>
+
+---
+
+## Migrants deported from US to South Sudan held in Djibouti
+
+date: 2025-05-23, from: RTÉ News
+
+A group of migrants deported from the United States towards conflict-torn South Sudan will be held for now in Djibouti after a court ruling, the Trump administration said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0523/1514465-us-deportations/>
+
+---
+
+## Concerns raised over answering of parliamentary questions
+
+date: 2025-05-22, from: RTÉ News
+
+Concern over ministers failing to answer parliamentary questions adequately has been expressed to Taoiseach Micheál Martin and to the top civil servants in Government departments. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0523/1514460-taoiseach-parliamentary-questions/>
+
+---
+
+## People urged to prepare for travel as consular cases rise
+
+date: 2025-05-22, from: RTÉ News
+
+Consular assistance cases handled by the Department of Foreign Affairs have increased by 22% this year compared to the same period last year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514439-consular-assistance/>
+
+---
+
+## Protest held over closure of Sceilg Mhichíl to visitors
+
+date: 2025-05-22, from: RTÉ News
+
+A protest has taken place in Co Kerry over the continued closure of Sceilg Mhichíl to visitors. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0522/1514447-sceilg-mhichil/>
 
 ---
 
@@ -21,15 +322,39 @@ Following a special congress at Croke Park, the Camogie Association has voted in
 
 ---
 
-## US govt blocks Harvard's right to enroll foreign students
+## US govt blocks Harvard's right to enrol foreign students
 
 date: 2025-05-22, from: RTÉ News
 
-Donald Trump's administration has revoked Harvard's right to enroll international students - more than a quarter of its annual enrollment - in a major escalation of the president's fight with one of the world's most storied universities. 
+US President Donald Trump's administration has revoked Harvard University's ability to enrol international students, and is forcing existing students to transfer to other schools or lose their legal status, while also threatening to expand the crackdown to other schools. 
 
 <br> 
 
 <https://www.rte.ie/news/us/2025/0522/1514434-harvard-students/>
+
+---
+
+## Report disputes Métis rights claims in Saugeen Ojibway Nation territory
+
+date: 2025-05-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7005852.1698108683!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/saugeen-first-nation-sign.jpg' alt='The Saugeen First Nation is located along the Bruce Peninsula in southwestern Ontario. Its leaders say they want the site where the bones were discovered to be recognized as a burial for the ancestral remains. ' width='620' height='349' title='The Saugeen First Nation is located along the Bruce Peninsula in southwestern Ontario. Its leaders say they want the site where the bones were discovered to be recognized as a burial for the ancestral remains. '/><p>Saugeen Ojibway Nation (SON) in southern Ontario has released a report that says there is no evidence to support Métis rights claims in their traditional territory.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/saugeen-georgian-bay-metis-ontario-1.7540436?cmp=rss>
+
+---
+
+## 3 music agency employees dead after plane crashes into California neighbourhood
+
+date: 2025-05-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7541322.1747941304!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-crash.JPG' alt='Police officers and firefighters stand in the middle of a street in the aftermath of a plane crash that destroyed vehicles and scattered debris.' width='620' height='349' title='Emergency personnel work at the crash scene on a street, after a small civilian aircraft went down in a neighbourhood in San Diego, California, U.S. May 22, 2025.  '/><p>The music agency Sound Talent Group said Thursday that three of its employees, including co-founder Dave Shapiro, died on the private plane that crashed into a San Diego neighborhood.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/san-diego-plane-crash-1.7541259?cmp=rss>
 
 ---
 
@@ -105,6 +430,18 @@ RTÉ has launched a commissioning process that will see all of its Christian wor
 
 ---
 
+## 'Policing plan' for Kneecap's surprise London gig
+
+date: 2025-05-22, from: RTÉ News
+
+London's Metropolitan Police put a "policing plan" in place for Kneecap's surprise gig at the 100 Club in central London. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0522/1514387-kneecap-announce-100-club-gig-that-takes-place-tonight/>
+
+---
+
 ## On a wing and a prayer: Turtle on flight home after rehab
 
 date: 2025-05-22, from: RTÉ News
@@ -170,6 +507,18 @@ The Workplace Relations Commission has thrown out multiple employment rights cla
 <br> 
 
 <https://www.rte.ie/news/business/2025/0522/1514370-worker-has-claims-thrown-out-because-she-turnen-up-late/>
+
+---
+
+## How to prepare (affordably) for heat, smoke and wildfire
+
+date: 2025-05-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540854.1747922825!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/glennis-harwig.jpg' alt='Woman stands in front of silvery shades inside log cabin' width='620' height='349' title='Glennis Harwig shows off her removable window blinds made of silver emergency blankets, which keep her log cabin cool in summer.'/><p>In this issue of our environmental newsletter, we get some tips on how to prepare your home for the summer's hot weather, and possible smoke and wildfires; map out PFAS contamination across Canada; and learn why many new cars being sold worldwide are electric — and what that could mean for Canada.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/what-on-earth-heat-wildfire-prep-1.7540764?cmp=rss>
 
 ---
 
@@ -370,6 +719,18 @@ We're live as the Security Council convenes for its annual open debate on the pr
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163576>
+
+---
+
+## World News in Brief: UK cedes sovereignty over Chagos Islands, suffering in Sudan deepens, UN releases new emergency relief funds
+
+date: 2025-05-22, from: United Nations, Top Stories
+
+The United Kingdom agreed to cede its control over the Chagos Islands to the Republic of Mauritius in an agreement signed between the two countries on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163606>
 
 ---
 
@@ -677,11 +1038,11 @@ Several nations have voiced outrage after Israeli troops fired near a delegation
 
 ---
 
-## Latest updates: World leaders condemn shooting of 2 Israeli Embassy staffers in Washington, D.C.
+## Suspect charged after Israeli Embassy staffers shot dead in Washington, D.C.
 
 date: 2025-05-22, from: CBC, World News
 
-<img src='https://i.cbc.ca/ais/49077be8-1233-4bac-9bc5-2182f6ba8a80,1747926787938/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='' width='620' height='349' title=''/><p></p> 
+<img src='https://i.cbc.ca/ais/e7e75f4e-e841-4c78-87e4-53820dab1eaa,1747949525027/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A woman in a red blazer gestures while speaking at a lectern.' width='620' height='349' title='Jeanine Ferris Pirro, the interim U.S. attorney for Washington, D.C., speaks at a May 21 2025 news conference'/><p></p> 
 
 <br> 
 
@@ -761,7 +1122,7 @@ Talks among G7 finance ministers faced challenges as the group worked to overcom
 
 ---
 
-## Suspect in shooting of Israeli aides charged with murder
+## Suspect in shooting of Israeli staff charged with murder
 
 date: 2025-05-22, from: RTÉ News
 
@@ -2183,6 +2544,18 @@ Parents who know their child requires a bit more support to navigate everyday li
 <br> 
 
 <https://www.rte.ie/news/analysis-and-comment/2025/0520/1513963-assessment-needs-children/>
+
+---
+
+## Trump's Golden Dome raises major questions: Can it be built? Should it? What's Canada's role?
+
+date: 2025-05-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7541699.1747957222!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-golden-dome.jpg' alt='Donald Trump sits at a desk and speaks in front of a poster displaying a golden dome with the words &quot;A golden dome for America&quot; across the bottom. ' width='620' height='349' title='Experts say U.S. President Donald Trump&apos;s proposed &apos;Golden Dome&apos; missile defence system could take decades to build and cost hundreds of billions of dollars. They also warn that '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/golden-dome-canada-1.7540566?cmp=rss>
 
 ---
 

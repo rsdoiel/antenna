@@ -1,15 +1,135 @@
 ---
 title: socal north
-updated: 2025-05-22 14:08:31
+updated: 2025-05-23 06:08:29
 ---
 
 # socal north
 
-(date: 2025-05-22 14:08:31)
+(date: 2025-05-23 06:08:29)
 
 ---
 
-## Ex-deputy LA mayor agrees to pleads guilty to making City Hall bomb threat
+## Dr. Dre and 'starstruck' students celebrate Compton's rebuilt high school
+
+date: 2025-05-23, updated: 2025-05-23, from: The LAist
+
+The new $225 million campus includes a performing arts center, a half-size Olympic pool, tennis courts and classrooms where students will learn engineering, video game design and earn college credit. 
+
+<br> 
+
+<https://laist.com/news/education/compton-high-school-rebuild-ribbon-cutting-dr-dre-2025>
+
+---
+
+## Cloudy skies and cooler weather in store this Memorial Day weekend
+
+date: 2025-05-23, updated: 2025-05-23, from: The LAist
+
+SoCal is in for a cooling trend in time for Memorial Day after a mini heatwave. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cloudy-skies-cool-weather-memorial-day-weekend>
+
+---
+
+## TV's Phil Rosenthal loves diners. Soon, he'll have one of his own in LA's Larchmont
+
+date: 2025-05-23, updated: 2025-05-23, from: The LAist
+
+For the star of 'Somebody Feed Phil,' the Larchmont diner is all about creating community. 
+
+<br> 
+
+<https://laist.com/news/food/tvs-phil-rosenthal-loves-diners-soon-hell-have-one-of-his-own-in-las-larchmont>
+
+---
+
+## Ex-Irvine councilmember faces more than 10 years in prison on perjury and voter fraud charges
+
+date: 2025-05-23, updated: 2025-05-23, from: The LAist
+
+Prosecutors say Tammy Kim changed her driver’s license and voter registration in 2024 to reflect an address she has never lived at. 
+
+<br> 
+
+<https://laist.com/news/politics/former-irvine-councilmember-tammy-kim-charged-with-election-fraud>
+
+---
+
+## LA City Council saves 1,000 jobs in revised budget; plan reduces LAPD staffing
+
+date: 2025-05-23, updated: 2025-05-23, from: The LAist
+
+The plan averts 1,000 layoffs, lowering the number of Los Angeles city workers who will lose their jobs to 650. 
+
+<br> 
+
+<https://laist.com/news/politics/la-city-council-approves-budget-city-workers-layoffs-lapd>
+
+---
+
+## Civil rights leaders in LA say anti-Asian crimes have not let up since pandemic
+
+date: 2025-05-23, updated: 2025-05-23, from: The LAist
+
+Asian American leaders gathered to support a Japanese American college professor attacked in an alleged hate crime last month in Montebello. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/aapi-attack>
+
+---
+
+## A James Beard nominee just opened a diner. And it's the coolest place to be
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Chef Daniel Castillo has opened a love letter to diners in Santa Ana. 
+
+<br> 
+
+<https://laist.com/news/food/the-diner-with-a-modern-twist>
+
+---
+
+## Renters sue Pasadena and LA County over toxic ash cleanup, lack of enforcement
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Local officials have told tenants to sue landlords who refuse to clean post-fire smoke damage. A new lawsuit seeks to require inspections and enforcement. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-pasadena-renter-tenant-landlord-lawsuit-smoke-damage-ash-fire>
+
+---
+
+## Eaton Canyon trails will remain closed through 2025 due to damage from January fire
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Officials want to give local flora and fauna a chance to bounce back after the Eaton Fire. They also want to protect hikers from danger. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/eaton-canyon-trails-will-remain-closed>
+
+---
+
+## PCH will reopen to the public ahead of Memorial Day weekend
+
+date: 2025-05-22, updated: 2025-05-22, from: The LAist
+
+Starting at 8 a.m. Friday, the public will have access to two lanes in each direction. 
+
+<br> 
+
+<https://laist.com/news/transportation/pch-will-reopen-to-the-public-ahead-of-memorial-day-weekend-newsom-bass>
+
+---
+
+## Ex-deputy LA mayor agrees to plead guilty to making City Hall bomb threat
 
 date: 2025-05-22, updated: 2025-05-22, from: The LAist
 
@@ -113,11 +233,11 @@ date: 2025-05-22, from: Longbeach Post
 
 ---
 
-## Safety is part of a Metro ambassador's job. How did a man facing sex assault charge get hired?
+## How did a man facing sexual assault charges get hired as an LA Metro ambassador?
 
-date: 2025-05-22, updated: 2025-05-22, from: The LAist
+date: 2025-05-22, updated: 2025-05-23, from: The LAist
 
-The man, now serving four years in prison on a sexual assault conviction, was arrested in his uniform on suspicion of attempting another sexual assault on a woman he allegedly met working at Union Station. 
+After he was hired, the man was arrested in his uniform on suspicion of attempting another sexual assault He's serving a four-year prison sentence in the first case. 
 
 <br> 
 
@@ -265,7 +385,7 @@ The program will offer 1,000 vouchers worth up to $2,000 each toward the purchas
 
 ## The Tesla diner may be coming, but our homegrown SoCal diners still rule
 
-date: 2025-05-21, updated: 2025-05-21, from: The LAist
+date: 2025-05-21, updated: 2025-05-22, from: The LAist
 
 They're also far less likely to ruffle feathers. 
 

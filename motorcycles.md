@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-05-22 14:08:36
+updated: 2025-05-23 06:08:36
 ---
 
 # motorcycles
 
-(date: 2025-05-22 14:08:36)
+(date: 2025-05-23 06:08:36)
+
+---
+
+## This Startup Thinks We Want Diesel Cruiser Motorcycles, But Do We Really?
+
+date: 2025-05-23, from: Ride Apart, Electric Motorcycle News
+
+The idea’s surely unique, but the performance figures will leave you wanting. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760358/axiom-diesel-cycles-yay-or-nay/>
+
+---
+
+## Fiat Just Made the Most Adorable Electric Three-Wheeler I've Ever Seen
+
+date: 2025-05-23, from: Ride Apart, Electric Motorcycle News
+
+Let me drive it. 
+
+<br> 
+
+<https://www.rideapart.com/news/760473/fiat-tris-three-wheeler-electric-ev-debut/>
+
+---
+
+## The Makers of the Corvette Want to Build an Electric Motorcycle, Seriously
+
+date: 2025-05-23, from: Ride Apart, Electric Motorcycle News
+
+What would Bob Lutz think?! 
+
+<br> 
+
+<https://www.rideapart.com/news/760438/gm-electric-ev-motorcycle-patent/>
+
+---
+
+## Royal Enfield’s Working On a Small Displacement Motorcycle…With CFMoto?
+
+date: 2025-05-23, from: Ride Apart, Electric Motorcycle News
+
+What happens when two up and coming moto giants join forces?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760361/royal-enfield-new-small-motorcycle-cfmoto-engine/>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-05-22 14:08:34
+updated: 2025-05-23 06:08:34
 ---
 
 # games
 
-(date: 2025-05-22 14:08:34)
+(date: 2025-05-23 06:08:34)
+
+---
+
+## Marvel delays both upcoming Avengers movies
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Marvel Studios has chosen to delay its next two high-stakes Avengers movies by seven months apiece. Avengers: Doomsday moves from May 1 to December 18, 2026, while Avengers: Secret Wars shifts from May 27, 2027 to December 17 of that year. Insiders told Deadline that the delay is just to accommodate the “gargantuan vision” of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/601082/avengers-doomsday-secret-wars-delayed>
+
+---
+
+## 15 Elden Ring-like movies to watch while you wait for the Elden Ring movie
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+With the release of Elden Ring spinoff Nightreign imminent and the announcement of an official film adaptation from Alex Garland (Civil War) and A24, it’s time to return to the Lands Between. But if you’ve bashed your head against some of the new areas’ hardest bosses too many times to count and need a bit [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/22981316/movies-like-elden-ring-dark-souls-fantasy-movies>
+
+---
+
+## Every Marvel movie and TV release set for 2025 and beyond
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Marvel Studios took a breather in 2024, releasing only one major film (Deadpool &#38; Wolverine) and a couple of live-action TV series (Agatha All Along, Echo). But the Marvel Cinematic Universe is set to make a thunderous return in 2025. A whopping nine MCU feature films and TV series are slated to arrive in movie [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule>
+
+---
+
+## Elden Ring movie coming from Civil War and Annihilation director
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+The long-awaited, long-teased live-action movie adaptation of Elden Ring is coming, and it’s got a big name attached to it: Alex Garland, the writer-director behind Ex Machina, Annihilation, and Civil War will helm the film. Garland is teaming up with production company A24, which is also backing the Death Stranding movie, for Elden Ring. Publisher [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/598330/elden-ring-movie-alex-garland-a24>
+
+---
+
+## I bet you haven’t seen a first-person shooter quite like this
+
+date: 2025-05-22, updated: 2025-05-22, from: Polygon Website
+
+There is no shortage of first-person shooters out there, to the degree that some of them can start to blur together. Mouse: P.I. For Hire, however, has one of the most unique art styles I’ve ever seen in the genre. Think Cuphead, but with more explosive action — and way more mice to kill. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/601052/mouse-pi-for-hire-six-one-indie-showcase>
 
 ---
 

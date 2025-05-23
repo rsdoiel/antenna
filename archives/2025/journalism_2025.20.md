@@ -1,11 +1,137 @@
 ---
 title: journalism
-updated: 2025-05-22 14:08:35
+updated: 2025-05-23 06:08:34
 ---
 
 # journalism
 
-(date: 2025-05-22 14:08:35)
+(date: 2025-05-23 06:08:34)
+
+---
+
+## UC Regents committee proposes over $2M in health budget cuts amid hiring freeze
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents Health Services Committee announced at a meeting May 13 that the proposed UC Health budget will decrease for the upcoming fiscal year. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/uc-regents-committee-proposes-over-2m-in-health-budget-cuts-amid-hiring-freeze/>
+
+---
+
+## Esports lounge to replace Bruin Fun Zone in Ackerman Union
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+An esports lounge will replace the Bruin Fun Zone in Ackerman Union. 
+The Bruin Fun Zone &#8211; located on the A-level of Ackerman Union &#8211; was introduced in 2022 as a recreational space that housed arcade machines, table tennis, foosball, Jenga and board games. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/esports-lounge-to-replace-bruin-fun-zone-in-ackerman-union/>
+
+---
+
+## Restaurant review: From trivia to daily specials, Barney’s Beanery serves as Westwood staple
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Barney&#8217;s Beanery is more than deserving of its title as a Westwood staple.
+With six locations scattered around Los Angeles, the beloved sports bar and grill has become a household name among UCLA students and Angelenos alike. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/restaurant-review-from-trivia-to-daily-specials-barneys-beanery-serves-as-westwood-staple/>
+
+---
+
+## Winner Takes All: Revisiting the timeless magic of Disney songs for Disneyland’s 70th anniversary
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the best songs, the magic never ends.
+Such magic can often be found among the rich songbook of Walt Disney Animation Studios. For decades, the studio&#8217;s films have been immortalized by the evocative storytelling and eternal hooks of the songs. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/winner-takes-all-revisiting-the-timeless-magic-of-disney-songs-for-disneylands-70th-anniversary/>
+
+---
+
+## Gallery: Artists of Coachella 2025 lineup fill 3-day weekend with multigenre performances
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The lineup for the Coachella Valley Music and Arts Festival featured a variety of artists from all around the world. Acts such as ENHYPEN, The Marías, Tyla, Post Malone and more performed on the Coachella stages for the attendees as well as the live broadcast. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/gallery-artists-of-coachella-2025-lineup-fill-3-day-weekend-with-multigenre-performances/>
+
+---
+
+## Gallery: Highlighting travel possibilities, exploring Los Angeles using the Bruin U-Pass
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruin U-Pass provides UCLA students with unlimited public transport access on select transport agencies in Los Angeles County through TAP cards. The card allows students to venture outside of Westwood, using free transportation to explore parks or downtown LA. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/gallery-highlighting-travel-possibilities-exploring-los-angeles-using-the-bruin-u-pass/>
+
+---
+
+## Residents say conditions worsen after Chiquita Canyon Landfill halts new trash intake
+
+date: 2025-05-23, from: The Canyon News (COC Student Newspaper)
+
+<p>In most neighborhoods, community means connection. But for the towns of Castaic&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/chiquita-landfill-2/">Residents say conditions worsen after Chiquita Canyon Landfill halts new trash intake</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/chiquita-landfill-2/>
+
+---
+
+## Book review: Ocean Vuong’s ‘The Emperor of Gladness’ redefines contemporary American experience
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+In a moving new narrative, Ocean Vuong redefines what it means to write an American novel.
+The follow-up to his first prose endeavor &#8211; the heralded 2019 novel &#8220;On Earth We&#8217;re Briefly Gorgeous&#8221; &#8211; &#8220;The Emperor of Gladness,&#8221; released May 13, marks Vuong&#8217;s first formal prose effort. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/book-review-ocean-vuongs-the-emperor-of-gladness-redefines-contemporary-american-experience/>
+
+---
+
+## How AI Training Propels Students into Thriving Careers
+
+date: 2025-05-22, from: The Sundail (CSUN Student Newspaper)
+
+The career landscape is a dynamic world where artificial intelligence (AI) is progressively rewriting the map. For today&#8217;s students, this is not only a task, but also a magnificent opportunity.... 
+
+<br> 
+
+<https://sundial.csun.edu/193783/sundialbrandstudio/sundial-marketplace/how-ai-training-propels-students-into-thriving-careers/>
+
+---
+
+## Entertainment Unscripted: Aidan Brooks on Producing, Podcasting and Finding Your Path in Entertainment
+
+date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Recent UCLA graduate and Treefort Media associate producer Aidan Brooks joins Entertainment Unscripted to share his journey from campus productions like Spring Sing to high-profile shows like The Late Show and &#8220;CHINWAG.&#8221; Hosted by Mia Fernandez, this episode dives into navigating internships, producing with purpose and why saying yes &#8211; even without all the answers &#8211; can open unexpected doors. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/22/entertainment-unscripted-aidan-brooks-on-producing-podcasting-and-finding-your-path-in-entertainment/>
 
 ---
 
@@ -13,8 +139,9 @@ updated: 2025-05-22 14:08:35
 
 date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 22 at 9:43 p.m.</em>
 Community and tradition inspire the performers of the Old-Time String Band and African American Music Ensemble.
-Each class of musical performers has shared its passion for traditional old-time Americana and African American gospel for years. 
+Each class of musical performers has shared a passion for traditional old-time Americana and African American gospel for years. 
 
 <br> 
 
@@ -26,8 +153,8 @@ Each class of musical performers has shared its passion for traditional old-time
 
 date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
 
-For over half a decade, Tacos 1986 has been serving up Tijuana-style tacos to the Westwood community.
-Nestled on the corner between Kinross and Glendon, about a mile&#8217;s walk from Bruin Plaza, Tacos 1986 offers an array of Mexican food, including their signature tacos, from 8 a.m. 
+<em>This post was updated May 22 at 9:20 p.m.</em>
+For over half a decade, Tacos 1986 has been serving up Tijuana-style tacos to the Westwood community. 
 
 <br> 
 
@@ -90,8 +217,9 @@ date: 2025-05-22, from: The Canyon News (COC Student Newspaper)
 
 date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 23 at 12:24 a.m.</em>
 Kayla Walls began rebelling more and attending school less when her brother died.
-But the one person who she said did not write her off was MaryAnn Szyskowski, an After School Program school site coordinator for UCLA’s Community Youth Programs. 
+But the one person who she said did not write her off was MaryAnn Szyskowski, an after-school program school site coordinator for UCLA’s Community Youth Programs. 
 
 <br> 
 
@@ -103,8 +231,8 @@ But the one person who she said did not write her off was MaryAnn Szyskowski, an
 
 date: 2025-05-22, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 23 at 12:19 a.m.</em>
 The UC Board of Regents investments and finance and capital strategies committees discussed potentially raising tuition in response to state budget cuts. 
-The board held its bimonthly meeting from May 13 to 15 at UC San Francisco. 
 
 <br> 
 

@@ -1,11 +1,153 @@
 ---
 title: food
-updated: 2025-05-22 14:08:38
+updated: 2025-05-23 06:08:38
 ---
 
 # food
 
-(date: 2025-05-22 14:08:38)
+(date: 2025-05-23 06:08:38)
+
+---
+
+## Ratio Scales Up While Launching Ratio Eight Series 2 Flagship Brewer
+
+date: 2025-05-23, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ratio-Eight-Series-2-coffee-brewer-5-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Ratio Eight Series 2 coffee brewer 5" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ratio-Eight-Series-2-coffee-brewer-5-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ratio-Eight-Series-2-coffee-brewer-5-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ratio-Eight-Series-2-coffee-brewer-5-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ratio-Eight-Series-2-coffee-brewer-5-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ratio-Eight-Series-2-coffee-brewer-5.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Portland, Oregon-based home coffee brewer maker Ratio just launched online sales of a new generation of its flagship automatic drip coffee maker, the Ratio Eight Series 2. Departing from... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/23/ratio-scales-up-while-launching-ratio-eight-series-2-flagship-brewer/>
+
+---
+
+## Weekly Coffee News: New World Brewers Champ + ‘Alarming’ Development Funding News
+
+date: 2025-05-23, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Brewers-Cup-620x414.png" class="attachment-large size-large wp-post-image" alt="World Brewers Cup" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Brewers-Cup-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Brewers-Cup-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Brewers-Cup-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Brewers-Cup-768x513.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/World-Brewers-Cup.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. George Jinyang Peng of China is the 2025 World... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/23/weekly-coffee-news-new-world-brewers-champ-alarming-development-funding-news/>
+
+---
+
+## The Ratio Eight Gets An Update With Series Two
+
+date: 2025-05-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Ratio Eight Series Two is available for pre-order. 
+
+<br> 
+
+<https://sprudge.com/the-ratio-eight-gets-an-update-with-series-two-339462.html>
+
+---
+
+## The SCA’s Q Program Takeover Leaves the Coffee Industry Divided
+
+date: 2025-05-23, from: The Fresh Cup
+
+<p>In April, the Specialty Coffee Association announced it would be taking over the Q Grader Program, news that took the coffee industry by surprise. Now, as the dust settles, many remain confused and frustrated—but also hopeful.</p>
+<p>The post <a href="https://freshcup.com/the-scas-q-program-takeover-leaves-the-coffee-industry-divided/">The SCA&#8217;s Q Program Takeover Leaves the Coffee Industry Divided</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-scas-q-program-takeover-leaves-the-coffee-industry-divided/>
+
+---
+
+## Homemade Peri Peri Seasoning Recipe
+
+date: 2025-05-23, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/peri-peri-seasoning/" title="Homemade Peri Peri Seasoning Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Spicy Peri Peri Seasoning in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Peri-Peri-Seasoning-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This peri peri seasoning is a versatile blend of spices that can be used as a dry rub for grilled meats, sprinkled over veggies, or incorporated into simmering dishes, perfect for the spicy food lover.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/peri-peri-seasoning/">Homemade Peri Peri Seasoning Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/peri-peri-seasoning/>
+
+---
+
+## Caper-Butter Chicken and More Recipes We Made This Week
+
+date: 2025-05-23, from: Bon Appetet
+
+Like gochujang-marinated steak and poached rhubarb. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-may-2025>
+
+---
+
+## I Tried the Starbucks Horchata Shaken Espresso—Here’s My Honest Opinion
+
+date: 2025-05-23, from: Taste of Home
+
+<p>The ever-popular Starbucks Shaken Espresso has gotten yet another upgrade. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-horchata-shaken-espresso-review/">I Tried the Starbucks Horchata Shaken Espresso—Here&#8217;s My Honest Opinion</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-horchata-shaken-espresso-review/>
+
+---
+
+## I Ordered Ice Cream Cakes at DQ, Coldstone and Baskin-Robbins—There Was One Clear Winner
+
+date: 2025-05-23, from: Taste of Home
+
+<p>No party is complete without cake and ice cream! Why not combine them and order the best ice cream cake?</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-ice-cream-cake/">I Ordered Ice Cream Cakes at DQ, Coldstone and Baskin-Robbins—There Was One Clear Winner</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-ice-cream-cake/>
+
+---
+
+## This Is the One Food Selena Gomez Has to Have at Her Wedding
+
+date: 2025-05-23, from: Taste of Home
+
+<p>No, it's not chicken salad.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/selena-gomez-benny-blanco-wedding-food/">This Is the One Food Selena Gomez Has to Have at Her Wedding</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/selena-gomez-benny-blanco-wedding-food/>
+
+---
+
+## Aged Whiskey Reserve Returns To Klatch Coffee
+
+date: 2025-05-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Whiskey-infused fresh-roasted coffee is ideal for gifting. 
+
+<br> 
+
+<https://sprudge.com/aged-whiskey-reserve-returns-to-klatch-coffee-339494.html>
+
+---
+
+## 5 Best Toasters, Tested & Reviewed by Experts (2025)
+
+date: 2025-05-22, from: Bon Appetet
+
+These toasters passed every test for golden-brown perfection every time. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-toasters>
 
 ---
 
@@ -141,7 +283,7 @@ This tangy chilled soup is basically summer in a bowl.
 
 date: 2025-05-22, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Costa Rica" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Costa Rica’s coffee production is forecast to decline by 10% in the 2025/26 market year, reaching the equivalent of 1.17 million 60-kilogram bags, according to the latest USDA estimates. The... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Costa Rica" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Costa-Rica.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Costa Rica’s coffee production is forecast to decline by 10% in the 2025/26 market year, reaching the equivalent of 1.17 million 60-kilogram bags, according to the latest USDA estimates. The... 
 
 <br> 
 
@@ -167,7 +309,7 @@ date: 2025-05-22, from: Taste of Home
 
 date: 2025-05-22, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee rave" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Call them coffee raves, coffee parties or simply DJ sets, there&#8217;s an international trend happening in coffee shop culture that involves packed rooms, fat bass and drinks aplenty. And... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee rave" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/coffee-rave.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Call them coffee raves, coffee parties or simply DJ sets, there&#8217;s an international trend happening in coffee shop culture that involves packed rooms, fat bass and drinks aplenty. And... 
 
 <br> 
 
@@ -329,7 +471,7 @@ date: 2025-05-21, from: The Sprudge
 
 date: 2025-05-21, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="El Salvador" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>El Salvador’s coffee sector is expected to show modest production gains in the 2025/26 market year, with a forecast of the equivalent of 597,000 60-kilogram bags, up 6.4% from the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="El Salvador" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/El-Salvador.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>El Salvador’s coffee sector is expected to show modest production gains in the 2025/26 market year, with a forecast of the equivalent of 597,000 60-kilogram bags, up 6.4% from the... 
 
 <br> 
 
@@ -429,7 +571,7 @@ Soft and citrusy lemon blueberry cookies are easy to prepare and bake quickly, y
 
 date: 2025-05-21, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/beer-honey-mustard/" title="Homemade Honey Beer Mustard" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A jar of spicy Homemade Honey Beer Mustard with a serving spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Homemade Honey Beer Mustard is sweet and tangy with whole mustard seeds, honey, brown sugar, and beer, perfect for sandwiches, pretzels, and more.</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/beer-honey-mustard/" title="Homemade Honey Beer Mustard" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A jar of spicy Homemade Honey Beer Mustard with a serving spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Homemade-Mustard-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Homemade Honey Beer Mustard is sweet and tangy with whole mustard seeds, honey, brown sugar, and beer, perfect for sandwiches, pretzels, and more.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/beer-honey-mustard/">Homemade Honey Beer Mustard</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
