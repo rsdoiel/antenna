@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-23 06:08:37
+updated: 2025-05-23 14:06:54
 ---
 
 # retro computing
 
-(date: 2025-05-23 06:08:37)
+(date: 2025-05-23 14:06:54)
+
+---
+
+## The End of Sierra as We Knew It, Part 4: Chainsaw Monday
+
+date: 2025-05-23, from: Digital Antiquarian
+
+In 1825, in Paris, France, a man named Charles-Louis Havas set up an agency to translate foreign news reports into French for the benefit of local newspapers. At that time, his country along with the rest of the Western world stood on the cusp of far-reaching changes. Over the next few decades, the railroad and [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/>
 
 ---
 

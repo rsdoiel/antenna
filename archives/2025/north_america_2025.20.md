@@ -1,11 +1,121 @@
 ---
 title: north america
-updated: 2025-05-23 06:08:29
+updated: 2025-05-23 14:06:48
 ---
 
 # north america
 
-(date: 2025-05-23 06:08:29)
+(date: 2025-05-23 14:06:48)
+
+---
+
+##  Get Ready To Pay In ZuckBucks 
+
+date: 2025-05-23, from: The Lever News
+
+ The GENIUS Act isn’t just a crypto giveaway — it could turn tech giants into unregulated banks.  
+
+<br> 
+
+<https://www.levernews.com/get-ready-to-pay-in-zuckbucks/>
+
+---
+
+##  We’re Part Of The Zeitgeist 
+
+date: 2025-05-23, from: The Lever News
+
+ Taxes are having a moment for all the wrong reasons — we explain why.  
+
+<br> 
+
+<https://www.levernews.com/were-part-of-the-zeitgeist/>
+
+---
+
+## Take care of yourself while the world is burning
+
+date: 2025-05-23, from: The Contrarian
+
+Self-care is important if you want to keep up the fight. 
+
+<br> 
+
+<https://contrarian.substack.com/p/take-care-of-yourself-while-the-world>
+
+---
+
+##  The Lever Wins The 2025 National Press Club Award 
+
+date: 2025-05-23, from: The Lever News
+
+ This award is a major milestone not just for The Lever’s newsroom, but for all independent news outlets competing with the world’s biggest media conglomerates.  
+
+<br> 
+
+<https://www.levernews.com/the-lever-wins-the-2025-national-press-club-award/>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-05-23, from: The Contrarian
+
+Meet Mac! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-490>
+
+---
+
+## Summer Cherry Berry Cobbler
+
+date: 2025-05-23, from: The Contrarian
+
+A red, white, and blue Memorial Day 
+
+<br> 
+
+<https://contrarian.substack.com/p/summer-cherry-berry-cobbler>
+
+---
+
+## Marco Goes to Congress
+
+date: 2025-05-23, from: The Contrarian
+
+We are taking a clear-eyed look at some of the less savory members of this regime, who must be held accountable for failing to uphold their oaths of office. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164240599/226cc0568c167e1e83eadeaf9de7d185.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164240599/226cc0568c167e1e83eadeaf9de7d185.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/marco-goes-to-congress>
+
+---
+
+## It took America only five years to forget about George Floyd
+
+date: 2025-05-23, from: The Contrarian
+
+Witnessing the death of an innocent Black man caused this country to reflect. However, the subsequent "racial awakening" proved to be short-lived 
+
+<br> 
+
+<https://contrarian.substack.com/p/it-took-america-only-five-years-to>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-05-23, from: The Contrarian
+
+The New Sneetches 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-a96>
 
 ---
 
@@ -459,7 +569,7 @@ A recording from Jared Bernstein's live video
 
 date: 2025-05-20, from: Capital and Main
 
-<p>Hotel industry predicts financial ruin, but data show a $30-an-hour minimum wage will stabilize the city’s tourism ecosystem.</p>
+<p>Hotel industry predicts financial ruin, but data shows a $30-an-hour minimum wage will stabilize the city’s tourism ecosystem.</p>
 <p>The post <a href="https://capitalandmain.com/los-angeles-hospitality-workers-win-olympian-pay-raise">Los Angeles Hospitality Workers Win Olympian Pay Raise</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
  
 

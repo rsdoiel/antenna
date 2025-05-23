@@ -1,11 +1,38 @@
 ---
 title: pacific
-updated: 2025-05-23 06:08:30
+updated: 2025-05-23 14:06:49
 ---
 
 # pacific
 
-(date: 2025-05-23 06:08:30)
+(date: 2025-05-23 14:06:49)
+
+---
+
+## UH mentors next astronomy stars, Waipahu teen wins $10K scholarship
+
+date: 2025-05-23, from: University of Hawaiʻi News
+
+<p>Maunakea Scholars launched in 2015 and has reached more than 1,300 students and awarded telescope time to more than 250.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/23/uh-mentors-next-astronomy-stars/"><abbr>UH</abbr> mentors next astronomy stars, Waipahu teen wins $10K scholarship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/23/uh-mentors-next-astronomy-stars/>
+
+---
+
+## Kona restaurant shuttered for multiple food safety violations
+
+date: 2025-05-23, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has shut down a Kailua-Kona restaurant after a routine inspection uncovered an active cockroach infestation, contaminated food and multiple food safety violations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/23/hawaii-news/kona-restaurant-shuttered-for-multiple-food-safety-violations/>
 
 ---
 
@@ -489,6 +516,18 @@ The post <a href="https://www.hawaii.edu/news/2025/05/22/merrill-to-lead-emergen
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/22/merrill-to-lead-emergency-planning-preparedness/>
+
+---
+
+## 8 ways to protect your home from wildfires
+
+date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+
+(BPT) - As wildfire threats grow more severe across the western and southern U.S., Mercury Insurance continues to provide tips to help homeowners proactively reduce their risk. With decades of experience insuring homes in high-risk wildfire zones, Mercury is committed to empowering communities through education, action and accessible insurance solutions. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/8-ways-to-protect-your-home-from-wildfires/article_b15ebcb1-beff-5deb-ae29-bb3e7b6741d9.html>
 
 ---
 

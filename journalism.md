@@ -1,11 +1,47 @@
 ---
 title: journalism
-updated: 2025-05-23 06:08:34
+updated: 2025-05-23 14:06:52
 ---
 
 # journalism
 
-(date: 2025-05-23 06:08:34)
+(date: 2025-05-23 14:06:52)
+
+---
+
+## Bruin to Bruin: Andy Hill on John Wooden, UCLA basketball and the lessons that last
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of Bruin to Bruin, host Aidan Teeger sits down with Andy Hill &#8211; UCLA basketball champion-turned-Hollywood executive &#8211; to reflect on his time playing for Coach John Wooden during the peak of the Bruins&#8217; legendary dynasty. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/bruin-to-bruin-andy-hill-on-john-wooden-ucla-basketball-and-the-lessons-that-last/>
+
+---
+
+## Editorial Cartoon: “Sunny bears”
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/editorial-cartoon-sunny-bears/>
+
+---
+
+## Mike Curb College caps off 2025 commencement
+
+date: 2025-05-23, from: The Sundail (CSUN Student Newspaper)
+
+After a weekend of ceremonies, CSUN held its seventh and final commencement to honor graduates in the Mike Curb College of Arts, Media and Communication programs on Monday, May 19.... 
+
+<br> 
+
+<https://sundial.csun.edu/193883/news/campus-news/mike-curb-college-caps-off-2025-commencement/>
 
 ---
 

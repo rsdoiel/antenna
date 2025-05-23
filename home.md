@@ -1,11 +1,157 @@
 ---
 title: home
-updated: 2025-05-23 06:08:36
+updated: 2025-05-23 14:06:53
 ---
 
 # home
 
-(date: 2025-05-23 06:08:36)
+(date: 2025-05-23 14:06:53)
+
+---
+
+## It Might Be Time to Toss That Wire Grill Brush
+
+date: 2025-05-23, from: Family Handyman Blog
+
+<p>Grill experts provide insights about wire grill brushes and provide insights into wire grill brush alternatives you can use instead.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/wire-grill-brush-safety/">It Might Be Time to Toss That Wire Grill Brush</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/wire-grill-brush-safety/>
+
+---
+
+## Elegant Ashtrays, Updated USM Chairs, and a New Piercing at the "Shelter" Design Fair
+
+date: 2025-05-23, from: Dwell
+
+Here's everything our editor-in-chief got up to at the new show organized by online design shop Afternoon Light. 
+
+<br> 
+
+<https://www.dwell.com/article/elegant-ashtrays-updated-usm-chairs-and-a-new-piercing-at-the-shelter-design-fair-9205bade>
+
+---
+
+## Rare Plant of the Month: Columbia yellow cress
+
+date: 2025-05-23, from: California Native Plants Society
+
+<p>Columbia yellow cress is a rare native plant that grows in the newly designated Sáttítla Highlands National Monument!</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-columbia-yellow-cress-43628">Rare Plant of the Month: Columbia yellow cress</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-columbia-yellow-cress-43628>
+
+---
+
+## 25 of the Best Eggplant Companion Plants
+
+date: 2025-05-23, from: The Gardener's Path
+
+<p>Growing eggplant organically? Carefully selecting plant partners to grow with this delicious, warm season crop can reduce pest and disease damage, protect the soil, and reduce water loss. Plus, taking this approach can make your garden more productive. Discover 25 of the best companion plants for eggplant in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-eggplant-companions/">25 of the Best Eggplant Companion Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-eggplant-companions/>
+
+---
+
+## The Real Reason Costco Tires Cost Less
+
+date: 2025-05-23, from: Family Handyman Blog
+
+<p>Costco had some of the most aggressive pricing for tens of thousands of items, especially when buying in bulk. Costco tire centers are no exception...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/costco-tires-why-so-cheap/">The Real Reason Costco Tires Cost Less</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/costco-tires-why-so-cheap/>
+
+---
+
+## Can Micro-Units Help Gen Z’s Loneliness Epidemic?
+
+date: 2025-05-23, from: Dwell
+
+A stable and connected future for young people could lie in an extremely small-scale intervention. 
+
+<br> 
+
+<https://www.dwell.com/article/can-micro-units-help-gen-zs-loneliness-epidemic-36682a41>
+
+---
+
+## Automotive Bypass Relays Made Simple: What They Do in Your Car
+
+date: 2025-05-23, from: Family Handyman Blog
+
+<p>Over almost 60 years in the auto repair industry automotive technology instructor, I wish I knew about automotive bypass relays decades ago</p>
+<p>The post <a href="https://www.familyhandyman.com/article/automotive-bypass-relays-made-simple-what-they-do-in-your-car/">Automotive Bypass Relays Made Simple: What They Do in Your Car</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/automotive-bypass-relays-made-simple-what-they-do-in-your-car/>
+
+---
+
+## How Accurate Is Your Car’s Fuel Range Estimate?
+
+date: 2025-05-23, from: Family Handyman Blog
+
+<p>Back in the day, you quickly learned how far you could drive once the fuel gauge hit "E" for empty. My car was seven miles, give or take. Today's cars...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/cars-fuel-range-estimate/">How Accurate Is Your Car&#8217;s Fuel Range Estimate?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/cars-fuel-range-estimate/>
+
+---
+
+## Are Apple Watches Compatible With Android Phones?
+
+date: 2025-05-23, from: Family Handyman Blog
+
+<p>What happens if you have an Apple Watch but an Android phone? Can you pair them or are they fundamentally incompatible?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/apple-watch-android-phone/">Are Apple Watches Compatible With Android Phones?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/apple-watch-android-phone/>
+
+---
+
+## For $135K, You Can Hit the Road With a Completely Overhauled Airstream
+
+date: 2025-05-23, from: Dwell
+
+The current owners gutted the 1974 camper and gave it an open floor plan, a Japanese-style tub, and a powder-blue shell. 
+
+<br> 
+
+<https://www.dwell.com/article/airstream-argosy-restoration-real-estate-f468cff1>
+
+---
+
+## I Went Seaweed Foraging on the Sonoma Coast—Here’s What I Learned
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+Seaweed foraging on the Sonoma Coast tells a story of tide and terroir. Here's how to do it with Strong Arm Farm. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel/foraging-seaweed-california-coast>
 
 ---
 
@@ -21,6 +167,54 @@ date: 2025-05-23, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/54-animals-that-start-with-a-with-pictures-and-names/>
+
+---
+
+## Construction Diary: She Envisioned a Dome Home—Then Made It a Reality Outside Joshua Tree
+
+date: 2025-05-23, from: Dwell
+
+Anastasiya Dudik’s high desert retreat experiments with organic architecture, down to the locally sourced boulders used for furniture. 
+
+<br> 
+
+<https://www.dwell.com/article/construction-diary-hata-dome-anastasiya-dudik-monolithic-concrete-house-7a003134>
+
+---
+
+## The Breuer Building Gets Landmark Status—and Everything Else You Need to Know About This Week
+
+date: 2025-05-23, from: Dwell
+
+Can the "abundance movement" solve America’s transportation issues? Plus, Spain cracks down on Airbnb listings, the best furniture and decor from New York design week, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/the-breuer-building-gets-landmark-status-and-everything-else-you-need-to-know-about-this-week-54eb4d34-61fb294e>
+
+---
+
+## The 3 Things You Can’t Miss While Spring Cleaning
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+When spring cleaning this season, there are some spots ythat are often forgotten about. Here's what not to miss. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/commonly-forgotten-spots-to-clean>
+
+---
+
+## Why ‘Chaos Gardening’ Is the Wild Trend Taking Over Backyards Once Again
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+Chaos gardening is the practice of tossing a bunch of seeds into the ground randomly, and it's trending again. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/chaos-gardening-trend>
 
 ---
 
@@ -86,6 +280,18 @@ Working with the iconic architect to renovate one of his creations was transform
 <br> 
 
 <https://www.dwell.com/article/john-lautner-los-angeles-rodman-friedberg-ade4dd6a>
+
+---
+
+## From the Archive: 35 Years Later, They Hired John Lautner to Tweak a Project From His Past
+
+date: 2025-05-22, from: Dwell
+
+Working with the iconic architect to renovate one of his creations was transformative—not only to the structure but to the clients as well. 
+
+<br> 
+
+<https://www.dwell.com/article/john-lautner-zahn-house-renovation-los-angeles-rodman-friedberg-ade4dd6a-96802933>
 
 ---
 
@@ -209,18 +415,6 @@ date: 2025-05-22, from: Family Handyman Blog
 
 ---
 
-## Why ‘Chaos Gardening’ Is the Wild Trend Taking Over Backyards Once Again
-
-date: 2025-05-22, from: Sunset Magazine - Living in the West
-
-Chaos gardening is the practice of tossing a bunch of seeds into the ground randomly, and it's trending again. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/chaos-gardening-trend>
-
----
-
 ## These Are the Winners of the 2025 Sunset Western Home & Design Awards
 
 date: 2025-05-22, from: Sunset Magazine - Living in the West
@@ -254,18 +448,6 @@ date: 2025-05-22, from: Sunset Magazine - Living in the West
 <br> 
 
 <https://www.sunset.com/>
-
----
-
-## I Went Seaweed Foraging on the Sonoma Coast—Here’s What I Learned
-
-date: 2025-05-22, from: Sunset Magazine - Living in the West
-
-Seaweed foraging on the Sonoma Coast tells a story of tide and terroir. Here's how to do it with Strong Arm Farm. 
-
-<br> 
-
-<https://www.sunset.com/travel/culinary-travel/foraging-seaweed-california-coast>
 
 ---
 

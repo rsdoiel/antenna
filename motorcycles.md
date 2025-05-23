@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-05-23 06:08:36
+updated: 2025-05-23 14:06:53
 ---
 
 # motorcycles
 
-(date: 2025-05-23 06:08:36)
+(date: 2025-05-23 14:06:53)
+
+---
+
+## Indianapolis 500 Final Practice Report: Newgarden fastest while several drivers have mechanical failures
+
+date: 2025-05-23, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer The final practice for the 109th Indianapolis 500 is complete, with Josef Newgarden fastest at 225.687 mph.&#160; The driver of the No.2 Shell Chevrolet for&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indianapolis-500-final-practice-report-newgarden-fastest-while-several-drivers-have-mechanical-failures/>
+
+---
+
+## Polesitter Robert Shwartzman among three Indy 500 rookies looking to level up their performance, make their mark on racing’s biggest stage
+
+date: 2025-05-23, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Robert Shwartzman is a former Formula 3 champ, having defeated current Formula 1 drivers Yuki Tsunoda and Liam Lawson to claim the title. Nolan Siegel&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/polesitter-robert-shwartzman-among-three-indy-500-rookies-looking-to-level-up-their-performance-make-their-mark-on-racings-biggest-stage/>
+
+---
+
+## Honda Has Sold Half a Billion Motorcycles
+
+date: 2025-05-23, from: Ride Apart, Electric Motorcycle News
+
+That's a lot of bikes. 
+
+<br> 
+
+<https://www.rideapart.com/news/760476/honda-500-million-motorcycles-sold-2025/>
 
 ---
 

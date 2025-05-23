@@ -1,11 +1,59 @@
 ---
 title: ham radio
-updated: 2025-05-23 06:08:30
+updated: 2025-05-23 14:06:49
 ---
 
 # ham radio
 
-(date: 2025-05-23 06:08:30)
+(date: 2025-05-23 14:06:49)
+
+---
+
+## Highlights from 2025 Dayton Hamvention
+
+date: 2025-05-23, from: Amateur Radio Relay League News
+
+<p>ARRL interacted with thousands of members at 2025 Dayton Hamvention®, held May 16-18 in Xenia, Ohio. There were many ARRL programs and services available to visitors to the ARRL Expo area. The ARRL Youth Lounge was busy throughout the event, and “the kids were loving it,” according to Education and Learning Manager Steve Goodgame, K5ATA, who pointed out that the young visitors were building cod...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/highlights-from-2025-dayton-hamvention>
+
+---
+
+## Hurricane Watch Net Remembers and Celebrates 60 Years
+
+date: 2025-05-23, from: Amateur Radio Relay League News
+
+<p>In September 1965, Hurricane Betsy hit Florida, the Bahamas, and the central US Gulf Cost. The damage was nearly $1.42 billion, earning the storm the nickname Billion Dollar Betsy. Forecasting for storms like Betsy was still in its infancy. </p><p>Bobby Graves, KB5HAV, the current Hurricane Watch Net (HWN) manager, shared that amateur radio operator Gerald E. “Jerry” Murphy, K8YUW, then 28 years old, ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/hurricane-watch-net-remembers-and-celebrates-60-years>
+
+---
+
+## New Book Release: Using the Baofeng® Radio
+
+date: 2025-05-23, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/new-book-release-using-the-baofeng-radio>
+
+---
+
+## Use the 2025 ARRL Field Day Site Locator
+
+date: 2025-05-23, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/use-the-2025-arrl-field-day-site-locator>
 
 ---
 

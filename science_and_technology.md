@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-05-23 06:08:31
+updated: 2025-05-23 14:06:50
 ---
 
 # science and technology
 
-(date: 2025-05-23 06:08:31)
+(date: 2025-05-23 14:06:50)
+
+---
+
+## NASA Awards Project Support Bridge Contract
+
+date: 2025-05-23, from: NASA breaking news
+
+NASA has awarded a bridge contract to ASRC Federal System Solutions LLC of Beltsville, Maryland, to provide financial support and project planning and control services to the agency. The Program Analysis and Control Bridge Contract has a total potential value up to $98 million with a 13-month period of performance beginning Saturday, May 24. The [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-project-support-bridge-contract/>
+
+---
+
+## TrueNAS uses “AI” for customer support, and of course it goes horribly wrong
+
+date: 2025-05-23, from: OS News
+
+Let&#8217;s check in on TrueNAS, who apparently employ &#8220;AI&#8221; to handle customer service tickets. Kyle Kingsbury had to have dealings with TrueNAS&#8217; customer support, and it was a complete trashfire of irrelevance and obviously wrong answers, spiraling all the way into utter lies. The &#8220;AI&#8221; couldn&#8217;t generate its way out of a paper bag, and for a paying customer who is entitled to support, that&#8217;s not a great experience. Kingsbury concludes: I get it. Support is often viewed as a cost center, and agents are often working against a brutal, endlessly increasing backlog of tickets. There is pressure at every level to clear those tickets in as little time as possible. Large Language Models create plausible support responses with incredible speed, but their output must still be reviewed by humans. Reviewing large volumes of plausible, syntactically valid text for factual errors is exhausting, time-consuming work, and every few minutes a new ticket arrives. Companies must do more with less; what was once a team of five support engineers becomes three. Pressure builds, and the time allocated to review the LLM’s output becomes shorter and shorter. Five minutes per ticket becomes three. The LLM gets it mostly right. Two minutes. Looks good. Sixty seconds. Click submit. There are one hundred eighty tickets still in queue, and behind every one is a disappointed customer, and behind that is the risk of losing one’s job. Thirty seconds. Submit. Submit. The metrics do not measure how many times the system has lied to customers. ↫ Kyle Kingsbury This time, it&#8217;s just about an upgrade process for a NAS, and the worst possible outcome &#8220;AI&#8221; generated bullshit could lead to is a few lost files. Potentially disastrous on a personal level for the customer involved, but not exactly a massive problem. However, once we&#8217;re talking support for medical devices, medication, dangerous power tools, and worse, this could &#8211; and trust me, will &#8211; lead to injury and death. TrueNAS, for its part, contacted Kingsbury after his blog post blew up, and assured him that &#8220;their support process does not normally incorporate LLMs&#8221;, and that they would investigate internally what, exactly, happened. I hope the popularity of Kingsbury&#8217;s post has jolted whomever is responsible for customer service at TrueNAS that farming out customer service to text generators is a surefire way to damage your reputation. 
+
+<br> 
+
+<https://www.osnews.com/story/142417/truenas-uses-ai-for-customer-support-and-of-course-it-goes-horribly-wrong/>
+
+---
+
+## Moon and Flag at NASA Michoud
+
+date: 2025-05-23, from: NASA breaking news
+
+Just after sunrise, the waning gibbous moon sets just behind a waving United States flag on March 19, 2025, in this image from NASA’s Michoud Assembly Facility in New Orleans. The waning gibbous moon phase comes after the full moon. As the Moon begins its journey back toward the Sun, the opposite side of the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/moon-and-flag-at-nasa-michoud/>
+
+---
+
+## Microsoft stitches transactional databases to Fabric analytics system
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>SQL Server and Cosmos DB added to data lake platform as lure for building AI features into transactional systems</h4> <p>Microsoft is throwing more transactional database systems into its Fabric analytics and data lake environment in expectation the proximity will help users that are adding AI to their systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/microsoft_stitches_transactional_databases_to/>
+
+---
+
+## Ransomware scum leaked Nova Scotia Power customers' info
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Bank accounts, personal details all hoovered up in the attack</h4> <p>Nova Scotia Power on Friday confirmed it had been hit by a ransomware attack that began earlier this spring and disrupted certain IT systems, and admitted the crooks leaked data belonging to about 280,000 customers online. The stolen info may have included billing details and, for those on autopay, bank account numbers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/novia_scotia_power_customers_info_leaked/>
+
+---
+
+## Glitch hits kill switch on app web hosting, citing 'bad actors' and worse architecture
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Fastly acquisition asks that redirects be set up before December 31</h4> <p>Three years after confirming its acquisition by Fastly, Glitch is pulling the plug on its app hosting platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/glitch_app_hosting_gone/>
+
+---
+
+## CISA says SaaS providers in firing line after Commvault zero-day Azure attack
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Cyberbaddies are coming for your M365 creds, US infosec agency warns</h4> <p>The Cybersecurity and Infrastructure Security Agency (CISA) is warning that SaaS companies are under fire from criminals on the prowl for cloud apps with weak security.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/cisa_commvault_zero_day/>
+
+---
+
+## Microsoft dumps AI into Notepad as 'Copilot all the things' mania takes hold in Redmond
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>A simple text editor that dates back to Windows 1.0 is getting smartified</h4> <p>Microsoft has continued to shovel AI into its built-in Windows inbox apps, and now it&#39;s rolling out a Notepad update that will use Copilot to write text for you.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/microsoft_ai_notepad/>
+
+---
+
+## NASA Videographer Wins Top Award for Capturing Human Side of Science
+
+date: 2025-05-23, from: NASA breaking news
+
+Capturing the high-stakes work behind NASA’s Airborne Science Program takes more than just technical skill – it takes vision. At NASA’s Armstrong Flight Research Center in Edwards, California, videographer Jacob Shaw brings that vision to life, documenting missions with a style and storytelling approach all his own. “Armstrong is full of cutting-edge flight research and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-videographer-wins-top-award-for-capturing-human-side-of-science/>
+
+---
+
+## How Java changed the development landscape entirely as code turns 30
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>The coffee shows no signs of cooling</h4> <p><strong>Feature</strong>  It was 30 years ago when the first public release of the Java programming language introduced the world to Write Once, Run Anywhere – and showed devs something cuddlier than C and C++.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/30_years_ago_java_arrived/>
+
+---
+
+## Datacenter biz wants to turn heat and carbon waste into biomass for sale
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>From bit barn to algae farm?</h4> <p>Euro datacenter operator Data4 is trialling a project to reuse heat from its servers and captured carbon dioxide to grow algae that can then be used in the agri-food or pharmacology sectors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/datacenter_waste_heat_trial/>
+
+---
+
+## FAA gives SpaceX the nod for Starship Flight 9 but doubles the danger zone
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>Aircraft Hazard Area now stretches 1,600 nautical miles</h4> <p><strong>Updated</strong>  The Federal Aviation Administration (FAA) has given SpaceX the go-ahead to launch Starship Flight 9, but has nearly doubled the size of the vehicle&#39;s Aircraft Hazard Area (AHA).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/faa_spacex_starship_9/>
+
+---
+
+## Student Coders Bring Novel Approaches to NASA Challenge
+
+date: 2025-05-23, from: NASA breaking news
+
+On March 28, 80 college students filed into Colorado State University’s (CSU) Nancy Richardson Design Center to receive pizza and a challenge: design an intelligent system capable of traversing rugged terrain to provide aid in emergency scenarios. They had 24 hours to complete this mission. Co-led by CSU, the United States Department of Agriculture (USDA) [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/coders-approaches-to-challenge/>
+
+---
+
+## Nvidia ain't done with x86 as it taps Intel Xeons to babysit GPUs
+
+date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+
+<h4>AI-optimized CPUs promise 4.6GHz clocks, at least for one in eight cores</h4> <p><strong>Computex</strong>  When Nvidia first teased its Arm-based Grace CPU back in 2021, many saw it as a threat to Intel and AMD. Four years later, the Arm-based silicon is at the heart of the GPU giant&#39;s most powerful AI systems, but it has not yet replaced x86 entirely.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/23/nvidia_intel_dgx/>
 
 ---
 

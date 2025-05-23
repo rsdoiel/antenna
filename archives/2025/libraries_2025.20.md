@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2025-05-23 06:08:35
+updated: 2025-05-23 14:06:53
 ---
 
 # libraries
 
-(date: 2025-05-23 06:08:35)
+(date: 2025-05-23 14:06:53)
+
+---
+
+## Asian American, Native Hawaiian, and Pacific Islander Heritage Month 2025
+
+date: 2025-05-23, from: Association of Research Libraries News
+
+<p>Last Updated on May 23, 2025, 2:00 pm ET ARL shines a spotlight on Asian American, Native Hawaiian, and Pacific Islander heritage during the month of May. View our round-up...</p>
+<p>The post <a href="https://www.arl.org/blog/aapi25/">Asian American, Native Hawaiian, and Pacific Islander Heritage Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/aapi25/>
+
+---
+
+## ARL Celebrates Jewish American Heritage Month 2025
+
+date: 2025-05-23, from: Association of Research Libraries News
+
+<p>Last Updated on May 23, 2025, 1:54 pm ET   May is Jewish American Heritage Month. Join ARL in honoring this community by viewing our round-up of events, blog posts,...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-celebrates-jewish-american-heritage-month-2025/">ARL Celebrates Jewish American Heritage Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-celebrates-jewish-american-heritage-month-2025/>
 
 ---
 
@@ -20,6 +48,18 @@ date: 2025-05-23, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/05/23/off-for-the-us-holiday-wishing-you-a-constructive-summer/>
+
+---
+
+## Oxidative Aggregation of Hemoglobin – a Mechanism for Low-Temperature Plasma-Mediated Wound Healing
+
+date: 2025-05-23, from: ETH Zurich, recently added
+
+Oganesyan, Irina; Begley, Alina; Mrdenovic, Dusan; Harrison, Julian Alexander; Zenobi, Renato 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/640016>
 
 ---
 

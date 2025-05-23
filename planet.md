@@ -1,11 +1,251 @@
 ---
 title: planet
-updated: 2025-05-23 06:08:27
+updated: 2025-05-23 14:06:46
 ---
 
 # planet
 
-(date: 2025-05-23 06:08:27)
+(date: 2025-05-23 14:06:46)
+
+---
+
+## Brendan Gleeson among recipients of Lord Mayor Award
+
+date: 2025-05-23, from: RTÉ News
+
+Brendan Gleeson and Rhasidat Adeleke were among several people who received awards from the Lord Mayor of Dublin at a ceremony tonight. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514677-lord-mayor-awards/>
+
+---
+
+## Apostolic Nuncio to EU: We need peace and the transmission of faith
+
+date: 2025-05-23, from: Vatican News
+
+
+                    <p>In an interview with Vatican Media, the Apostolic Nuncio to the European Union, Archbishop Bernardito Auza, discusses emphasis placed on working toward just peace in Ukraine during encounter with Pope Leo XIV,  how families in Europe have a responsibility to transmit the faith from one generation to the next, and how the Pope suggested "there is a thirst" among young people and children to learn about God and the faith.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/nuncio-bernardito-auza-family-has-critical-role-in-transmitting.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/nuncio-bernardito-auza-family-has-critical-role-in-transmitting.html>
+
+---
+
+## Very clearly a problem within CHI, says Minister
+
+date: 2025-05-23, from: RTÉ News
+
+The Minister for Health has said the audit of dysplasia of the hip surgery in children states "very clearly" that there is a "problem within CHI". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514656-macneill-hips-ireland/>
+
+---
+
+## Govt spending, immigration to dominate Aontú ard fheis
+
+date: 2025-05-23, from: RTÉ News
+
+Government spending, immigration, housing and crime are likely to dominate proceedings at Aontú's ard fheis tomorrow. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0523/1514662-aontu-ard-fheis/>
+
+---
+
+## Podcast: Trump v the EU, and exploring the manosphere
+
+date: 2025-05-23, from: RTÉ News
+
+Katie and Fran are joined by Prime Time's Kate McDonald as they react to Thursday's programme which looked at the manosphere, and how some men are being shaped by online content. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514629-podcast-trump-v-the-eu-and-exploring-the-manosphere/>
+
+---
+
+## Woman arrested as 12 injured in German station stabbing
+
+date: 2025-05-23, from: RTÉ News
+
+German police have said they had arrested a woman after at least 12 people were injured in a knife attack at the main station in the northern city of Hamburg. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0523/1514646-hamburg-attack/>
+
+---
+
+## What is going on in Gaza is unspeakable - Bernie Sanders
+
+date: 2025-05-23, from: RTÉ News
+
+US Senator Bernie Sanders has said there are more people in the US outraged by what is happening in Gaza than the rest of the world understands. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514627-bernie-sanders/>
+
+---
+
+## RTÉ receives 325 applications for voluntary exit scheme
+
+date: 2025-05-23, from: RTÉ News
+
+RTÉ has said that it received 325 applications for its Voluntary Exit Programme. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0523/1514640-rte-vep-programme/>
+
+---
+
+## Joyous scenes as Irish troops return home from Lebanon
+
+date: 2025-05-23, from: RTÉ News
+
+There were emotional scenes at Dublin Airport today as 170 Irish troops from the 125th Infantry Battalion returned home following a six-month deployment with UNIFIL in Lebanon. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514637-defence-forces-airport/>
+
+---
+
+## Jury in Adams case told not to make 'historical judgment'
+
+date: 2025-05-23, from: RTÉ News
+
+Jurors in the Gerry Adams libel action against the BBC are not being asking to pass verdict on Irish history, a judge has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0523/1514641-gerry-adams-court/>
+
+---
+
+## Sandy Lake First Nation mourns loss of 11-year-old to house fire, calls for more resources
+
+date: 2025-05-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7542396.1748025294!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sandy-lake-first-nation.jpg' alt='An aerial view of a community surrounded by water and wilderness.' width='620' height='349' title='An aerial view of Sandy Lake First Nation in northwestern Ontario, located in Treaty 5 territory. The community&apos;s chief says there is only one functioning fire truck, and firefighters do not have proper gear.'/><p>The death of another child in Sandy Lake First Nation due to a house fire has renewed calls for action to prevent fire-related deaths among First Nations people. Here's what we know about Thursday's fatal fire in the remote northwestern Ontario community, as community leaders and advocates seek more support.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/sandy-lake-fatal-house-fire-1.7542386?cmp=rss>
+
+---
+
+## Large-scale Ukraine-Russia prisoner swap underway
+
+date: 2025-05-23, from: Vatican News
+
+
+                    <p>Officials say Russia and Ukraine have begun one of the largest prisoner exchanges since the outbreak of the war, after their first direct talks in more than three years.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/largest-ukraine-russia-prisoners-swap-underway.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/largest-ukraine-russia-prisoners-swap-underway.html>
+
+---
+
+## Pilgrims already arriving at the Uganda Martyrs Shrine in Namugongo
+
+date: 2025-05-23, from: Vatican News
+
+
+                    <p>As the annual Uganda Martyrs Day celebrations at the Catholic Shrine of Namugongo approaches on June 3rd, preparations are well underway. Pilgrims from various regions across the country are walking and some have begun arriving and camping at the shrine more than a week before the main event.  In Uganda 3 June is a public holiday.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/pilgrims-already-arriving-at-the-uganda-martyrs-shrine-in-namugo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/pilgrims-already-arriving-at-the-uganda-martyrs-shrine-in-namugo.html>
+
+---
+
+## 'Inquiries' over US deportees' stopover flight at Shannon
+
+date: 2025-05-23, from: RTÉ News
+
+The Taoiseach has said that the Department of Transport is continuing to make "inquiries" in relation to a US plane carrying deportees which reportedly stopped at Shannon Airport this week. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0523/1514622-taoiseach-shannon-us-plane/>
+
+---
+
+## Puska brother told gardaí memory impaired, court hears
+
+date: 2025-05-23, from: RTÉ News
+
+Jozef Puska's brother Marek told gardaí investigating the murder of Ashling Murphy that he wanted to tell them more but could not because of medication he was taking for back problems, which had left him on disability allowance, a court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0523/1514620-puska-trial/>
+
+---
+
+## Vancouver Island land returned to Lyackson First Nation and Cowichan Tribes
+
+date: 2025-05-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7202222.1748027524!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/treaty-agreement-signing.jpg' alt='Three people sit at a table signing papers. ' width='620' height='349' title='Lyackson First Nation Chief Pahalicktun, left, Cowichan Tribes Chief Cindy Daniels, centre, and Premier David Eby, right, sign an incremental treaty agreement to transfer 312 hectares of land. '/><p>A stretch of culturally significant land in the Cowichan Valley has been returned to the Lyackson First Nation and the Cowichan Tribes communities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/vancouver-island-land-first-nations-land-transfer-1.7542454?cmp=rss>
+
+---
+
+## Questions from hip audit to take many months to answer
+
+date: 2025-05-23, from: RTÉ News
+
+The questions raised by the independent audit of children's hip surgeries will take many months, perhaps even longer, to answer. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0523/1514600-hip-audit-analysis/>
+
+---
+
+## Marine heatwave occuring in Irish waters, scientists say
+
+date: 2025-05-23, from: RTÉ News
+
+Scientists from the Marine Institute have confirmed the occurrence of what is known as a marine heatwave in Irish waters, as a result of higher temperatures in recent weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0523/1514599-marine-heatwave-ireland/>
+
+---
+
+## Carleton University launches new program aimed at training Indigenous journalists
+
+date: 2025-05-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7541357.1747949445!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/duncan-mccue.jpg' alt='Man wearing ribbon shirt speaks at a podium. ' width='620' height='349' title='Duncan McCue, CJIIC Director, speaks at an announcement for the launch of the at Carleton University launching a new one-year journalism certificate to be delivered on the ground in Indigenous communities across Ontario starting in September 2025. '/><p>Three educational institutions in Ontario have teamed up to offer a new model of journalism school aimed at "passing the mic" to Indigenous learners in remote communities who may have faced roadblocks to education in the past.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/journalism-indigenous-communities-carleton-1.7541346?cmp=rss>
 
 ---
 
@@ -21,11 +261,11 @@ Solstice, a rare green sea turtle found paralysed by cold on Christmas Eve on a 
 
 ---
 
-## Harvard sues over foreign students enrolment block
+## Judge halts US govt move over Harvard student enrolment
 
 date: 2025-05-23, from: RTÉ News
 
-Harvard University is suing the Trump administration over President Donald Trump's decision to revoke the Ivy League school's ability to enrol international students. 
+A US judge has blocked the Trump administration from revoking Harvard University's ability to enroll international students, a move that ratcheted up White House efforts to conform practices in academia to President Donald Trump's policies. 
 
 <br> 
 
@@ -33,11 +273,11 @@ Harvard University is suing the Trump administration over President Donald Trump
 
 ---
 
-## Satchwell narrative on how wife died 'self-serving'
+## Satchwell story on how wife died 'farcical' - court
 
 date: 2025-05-23, from: RTÉ News
 
-Richard Satchwell's narrative about how his wife, Tina, died was implausible, self-serving and had more holes in it than a block of Swiss cheese the jury in his trial has been told. 
+Richard Satchwell's narrative about how his wife Tina died was farcical, implausible, self-serving and had more holes in it than a block of Swiss cheese, the jury in his trial has been told. 
 
 <br> 
 
@@ -45,7 +285,19 @@ Richard Satchwell's narrative about how his wife, Tina, died was implausible, se
 
 ---
 
-## Audit of child hip surgery at three hospitals published
+## Ukraine, Russia begin what is expected to be largest prisoner swap since 2022 invasion
+
+date: 2025-05-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7542094.1748014256!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war-prisoners.jpg' alt='Three men with shaved heads or short haircuts appear to be singing while draping themselves in a blue and yellow flag.' width='620' height='349' title='In this photo provided by the Ukrainian Presidential Press Office,Ukrainian soldiers react after returning from captivity during an exchange between Russia and Ukraine, in Chernyhiv region, Ukraine, Friday, May 23, 2025.  '/><p>Russia and Ukraine each released 390 prisoners on Friday and said they would free more in the coming days, in what is expected to be the biggest prisoner swap of the war so far.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-russia-prisoner-exchange-1.7542039?cmp=rss>
+
+---
+
+## As it happened: CHI invited before Health Committee
 
 date: 2025-05-23, from: RTÉ News
 
@@ -69,6 +321,102 @@ Long-awaited food supplies have been looted in Gaza overnight while being transp
 
 ---
 
+## UNHCR underscores plight of Rohingya refugees amid alarming reports
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+The UN refugee agency (UNHCR) on Friday released a&nbsp;statement expressing grave concern over reports that two boats carrying Rohingya refugees sank off the coast of Myanmar earlier this month, with an estimated 427 people dead. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163661>
+
+---
+
+## Public health champions honoured for work ‘beyond the call of normal duty’
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+Some patients are easy to diagnose. They walk into a clinic and explain their symptoms. They can afford to pay for healthcare and access it seamlessly. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163651>
+
+---
+
+## Diplomats prepare ground for June conference on two-State solution for Israel and Palestine
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+Diplomats convened at UN Headquarters in New York on Friday to lay the groundwork for a crucial international conference in June, aimed at advancing global efforts towards achieving a two-State solution to the Israel-Palestine conflict.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163646>
+
+---
+
+## Escalating violence drives food crisis across eastern DR Congo, warns WFP
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+As violence intensifies in eastern Democratic Republic of the Congo (DRC), the World Food Programme (WFP)&nbsp;warned Friday that food insecurity is worsening both within the country and in neighbouring States, where 140,000 Congolese have fled since January. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163641>
+
+---
+
+## UN rights chief calls on South Sudan’s warring parties to end renewed fighting
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+The UN on Friday warned of further deterioration in the human rights situation in South Sudan amid an uptick in hostilities, arbitrary arrests and hate speech since February. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163631>
+
+---
+
+## Guterres calls on Israel to accept UN’s ‘detailed, principled’ aid plan for Gaza
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+The UN Secretary-General on Friday outlined a five-stage plan to provide lifesaving aid to the stricken population of Gaza, making clear the organization will not take part in any scheme that fails to respect international law or basic humanitarian principles. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163626>
+
+---
+
+## ‘A silent crisis’: Obstetric fibrosis affects 500,000 women, yet it’s fully treatable
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+Five days – that is how long it took Dah, a 14-year-old prospective mother from Côte d’Ivoire, to give birth. The child was stillborn and she developed obstetric fistula. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163621>
+
+---
+
+## Syrians face staggering needs amid insecurity and healthcare crisis
+
+date: 2025-05-23, from: United Nations, Top Stories
+
+Millions of people in Syria continue to face mortal danger from unexploded munitions, disease and malnutrition and more international support is urgently required, senior UN aid officials said on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163616>
+
+---
+
 ## 79% drop in 20 years in women aged under 20 giving birth
 
 date: 2025-05-23, from: RTÉ News
@@ -81,11 +429,11 @@ The number of women under the age of 20 giving birth has dropped significantly i
 
 ---
 
-## Trump re-escalates trade threats, aiming at EU, Apple
+## 'Very damaging' if Trump acts on tariff threat - Martin
 
 date: 2025-05-23, from: RTÉ News
 
-US President Donald Trump has re-escalated his trade threats, targeting both imports from the entire European Union and smartphone giant Apple, sending the global market roiling after weeks of de-escalation had provided some reprieve. 
+The Taoiseach has said that it would be "very damaging" if US President Donald Trump acts on his threat to impose 50% tariffs on the EU from the start of June. 
 
 <br> 
 
@@ -97,7 +445,7 @@ US President Donald Trump has re-escalated his trade threats, targeting both imp
 
 date: 2025-05-23, from: RTÉ News
 
-A man aged in his 60s has been arrested as part of the investigation into an explosion in Creeslough, Co Donegal in 2022 in which ten people died. 
+A man aged in his 60s has been arrested as part of the investigation into an explosion in Creeslough, Co Donegal, in 2022 in which ten people died. 
 
 <br> 
 
@@ -105,15 +453,47 @@ A man aged in his 60s has been arrested as part of the investigation into an exp
 
 ---
 
-## Ukraine says prisoner exchange with Russia under way
+## Ukraine, Russia free hundreds of prisoners in major swap
 
 date: 2025-05-23, from: RTÉ News
 
-A prisoner exchange between Ukraine and Russia is under way but has not yet been completed, a Ukrainian military source has said. 
+Russia and Ukraine have each released 390 prisoners and said they would free more in the coming days, in what is expected to be the biggest prisoner swap of the war so far. 
 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0523/1514528-ukraine-russia/>
+
+---
+
+## Vatican conference highlights importance of ending inequality in cancer care
+
+date: 2025-05-23, from: Vatican News
+
+
+                    <p>Professor Joachim von Braun, President of the Pontifical Academy of Sciences, urges united action from science, policymakers, and the Church in order to tackle global inequalities in cancer care.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/pas-cancer-research-conference-inequalities-cancer-patients.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/pas-cancer-research-conference-inequalities-cancer-patients.html>
+
+---
+
+## 'It was really a gift to have this audience with Pope Leo'
+
+date: 2025-05-23, from: Vatican News
+
+
+                    <p>COMECE Secretary General, Fr.  Manuel Enrique Barrios Prieto, tells Vatican News that the EU Bishops' meeting with Pope Leo XIV at the beginning of his pontificate was unexpected, and a gift, and the Holy Father was more interested in listening than speaking.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/comece-secretary-general-speaks-after-comece-meeting-pope-leo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/comece-secretary-general-speaks-after-comece-meeting-pope-leo.html>
 
 ---
 
@@ -129,6 +509,22 @@ Irish singer Orla Gartland has said she "can't believe" she won an Ivor Novello 
 
 ---
 
+## Cardinal Grech urges religious men to be ‘engines of hope’ for synodal Church
+
+date: 2025-05-23, from: Vatican News
+
+
+                    <p>Cardinal Mario Grech, Secretary General of the Synod of Bishops, urges religious men to draw inspiration from the Church’s desire for synodality, as he meets with members of the Union of Superiors General.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-mario-grech-synodality-religious-men-usg.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-mario-grech-synodality-religious-men-usg.html>
+
+---
+
 ## Heather Humphreys rules out presidential run
 
 date: 2025-05-23, from: RTÉ News
@@ -138,6 +534,18 @@ Fine Gael's Heather Humphreys has confirmed that she will not seek her party's n
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0523/1514518-heather-humphreys/>
+
+---
+
+## Trump threatens EU with 50% tariff, Apple and other smartphone makers with 25%
+
+date: 2025-05-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7540281.1747856467!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-inside-the-oval-office.jpg' alt='A side view of U.S. President Donald Trump&apos;s face, as seen in the Oval Office.' width='620' height='349' title='U.S. President Donald Trump looks on as he meets with South African President Cyril Ramaphosa in the Oval Office of the White House in Washington, DC, on May 21, 2025. South African President Cyril Ramaphosa meets Donald Trump on Wednesday amid tensions over Washington&apos;s resettlement of white Afrikaners that the US president claims are the victims of &quot;genocide.&quot;'/><p>U.S. President Donald Trump cranked up his trade threats on Friday, targeting both smartphone giant Apple and imports from the European Union, sending the global market roiling after weeks of de-escalation provided some reprieve.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/trump-trade-threats-eu-apple-1.7541856?cmp=rss>
 
 ---
 
@@ -153,11 +561,11 @@ A man in Norway awoke early to discover a huge container ship had run aground a 
 
 ---
 
-## Two hospitals used lower threshold for child hip surgery
+## Two hospitals performed unnecessary child hip surgeries
 
 date: 2025-05-23, from: RTÉ News
 
-The independent clinical audit of dysplasia of the hips surgery in children at a number of hospitals has found that a lower threshold was used to decide for surgery at Temple Street and Cappagh hospitals. 
+An independent clinical audit of dysplasia of the hips surgery in children at a number of hospitals has found that a number of the surgeries were unnecessary at Temple Street and Cappagh hospitals. 
 
 <br> 
 
@@ -226,11 +634,11 @@ Communities in Co Meath will gather to remember the victims of a school bus cras
 
 ---
 
-## Strikes kill six Gazans protecting aid trucks, says Hamas
+## Israel has only authorised a 'teaspoon' of Gaza aid - UN
 
 date: 2025-05-23, from: RTÉ News
 
-Israeli airstrikes have killed at least six Palestinians guarding aid trucks against looters, Hamas officials said, underlining the problems hindering supplies from reaching hungry people in Gaza following Israel's 11-week-long blockade. 
+Israel has only authorised for Gaza what "amounts to a teaspoon of aid when a flood of assistance is required," United Nations chief Antonio Guterres has said, who again signalled that the UN will not take part in a new US-backed distribution plan. 
 
 <br> 
 
@@ -238,11 +646,23 @@ Israeli airstrikes have killed at least six Palestinians guarding aid trucks aga
 
 ---
 
-## Verdict due in Paris in Kardashian robbery trial
+## Q&A | N.W.T. MP Rebecca Alty on her cabinet appointment, and how she'll work to advance land claims in riding
+
+date: 2025-05-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7521178.1745897606!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/rebecca-alty.jpeg' alt='A woman stands in front of a laptop speaking into a microphone.' width='620' height='349' title='N.W.T. Liberal candidate Rebecca Alty on election night, April 28, 2025.'/><p>As the cabinet minister responsible for Crown-Indigenous Relations, the N.W.T.'s MP Rebecca Alty will be navigating both land claim and self-government negotiations that are taking place within her riding. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/n-w-t-mp-and-cabinet-minister-rebecca-alty-tasked-with-land-claims-in-her-riding-1.7541454?cmp=rss>
+
+---
+
+## Paris court sentences gang over Kim Kardashian robbery
 
 date: 2025-05-23, from: RTÉ News
 
-A French court is expected to give a verdict in the trial of ten people accused of robbing reality TV star Kim Kardashian of some €8 million worth of jewellery in Paris. 
+A French court has convicted a gang of robbers who stole €8m in jewellery from reality TV star Kim Kardashian in a Paris hotel in 2016, although they will not return to jail and the verdicts were more lenient than requested by the prosecution. 
 
 <br> 
 
@@ -379,6 +799,18 @@ The Oireachtas committee examining the proposed law to remove the Triple Lock ha
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0522/1514425-oireachtas-committee-triple-lock/>
+
+---
+
+## Multi-purpose centre in Tasiujaq, Que., destroyed by fire
+
+date: 2025-05-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7541574.1747950601!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tasiujaq-fire-may-21.jpg' alt='plumes of smoke with building on fire' width='620' height='349' title='Firefighters worked all night to try put out the flames. '/><p>A blaze, which began around 9 p.m. on Wednesday, tore through a multi-purpose facility. It was used for sewing programs, as a youth centre and as housing for workers.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/building-tasiujaq-fire-1.7541564?cmp=rss>
 
 ---
 

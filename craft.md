@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-23 06:08:38
+updated: 2025-05-23 14:06:55
 ---
 
 # craft
 
-(date: 2025-05-23 06:08:38)
+(date: 2025-05-23 14:06:55)
+
+---
+
+## Factory-edge Test with Elmer’s Glue Max
+
+date: 2025-05-23, from: Lost Arg Press blog
+
+After learning the epoxy has enough gap-filling properties to make a great edge joint with &#8220;factory&#8221; edges, we decided to see if Elmer&#8217;s Glue Max could also do the trick. James Wright of Wood by Wright has been testing glues for years and has some nice things to say about the Elmer&#8217;s Glue Max. Spoiler... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/23/factory-edge-test-with-elmers-glue-max/>
 
 ---
 

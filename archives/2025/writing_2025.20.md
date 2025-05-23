@@ -1,11 +1,90 @@
 ---
 title: writing
-updated: 2025-05-23 06:08:33
+updated: 2025-05-23 14:06:51
 ---
 
 # writing
 
-(date: 2025-05-23 06:08:33)
+(date: 2025-05-23 14:06:51)
+
+---
+
+## Write On: 'Running Point' Co-Creator and Showrunner David Stassen
+
+date: 2025-05-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-running-point-co-creator-and-showrunner-david-stassen" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Running%20Point%20Co-Creator%20%26%20Showrunner%20David%20Stassen.png" alt="Write On logo featuring a cell phone with headphones wrapped around it. In the center of the screen is the poster for 'Running Point' with Kate Hudson sitting on a desk" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“It’s not ripped from the headlines. We’re not using any of [the Buss family’s] real-life stories and putting them into our show. Because Mindy [Kaling], Ike [Barinholtz], and I have so many influences like <em>Arrested Development</em>, <em>30 Rock, The Office</em> and <em>Succession</em>, we’re coming up with our own fun stories and fun situations to put this dysfunctional, very wealthy, successful family into a blender and then have them going back and forth and arguing and solving problems together and against each other,” says David Stassen, showrunner of <em>Running Point</em>, about taking inspiration from Los Angeles Lakers’ President, Jeannie Buss’s family and turning it into a hit TV show. &nbsp;<br><br>In this episode, we chat with David Stassen, showrunner and co-creator of the Netflix show, <em>Running Point</em>, that’s just been given the greenlight for Season 2. The show centers on Isla Gordon (Kate Hudson), the daughter of a powerful basketball magnate. She’s now taken the helm of the legendary team with the help – or hindrance – of her four well-meaning but unpredictable brothers. &nbsp;&nbsp;<br><br>While firmly set in the brawny world of basketball, Stassen talks about the true core of <em>Running Point</em>, which revolves around the siblings trying to earn the love of their deceased father. To get this particular narrative right, Stassen says the writers room spent a lot of time focusing on the family dynamics and differentiating each character’s struggles and traits. Much of the comedy in the show comes from the clashes between the siblings and their attempts to live up to their father’s fierce expectations.<br><br>Stassen also talks about how the character Isla, a woman at the center of a very male-dominated universe, relies on speeches from gangster films to communicate with her basketball team.&nbsp;<br><br>“Movies transcend our society. So, I think it’s a great way to connect and even if you haven’t seen <em>Casino,</em> most people know that Joe Pesci is viewed as a very scary person on film. We were lucky enough to get the rights to show a scene. So even if you didn’t know anything about it, you got to see the moment. It’s just a fun thing to have this beautiful, airy Kate Hudson taking on these roles of the tough Italian mobster or the contract killer getting revenge for his dead dog, like John Wick. And I guess it probably speaks to something bigger about this show – about a woman in a man’s world. But at the same time, Isla is powerful in her own way, right? She’s powerful 95% of the time just being herself and standing up for herself. And then the fun flourishes are maybe using a movie reference to illustrate a point,” says Stassen.&nbsp;<br><br>To hear more about <em>Running Point</em> and Stassen’s advice to TV writers, listen to the podcast.&nbsp;<br><br></p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-running-point-co-creator-and-showrunner-david-stassen>
+
+---
+
+## 5 Screenwriting Challenges To Help You Level Up
+
+date: 2025-05-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-screenwriting-challenges-to-help-you-level-up" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/5%20wooden%20blocks%20positioned%20in%20an%20ascending%20staircase.%20An%20arrow%20bounces%20on%20each%20step%20pointing%20upward.png" alt="5 wooden blocks positioned in an ascending staircase. An arrow bounces on each step pointing upward" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Every screenwriter hits a wall at some point. Sometimes it’s after your third script. Sometimes it’s a dozen screenplays in. But there are key screenwriting challenges that can help beginners avoid hitting those walls — even before you get to a more advanced point in your screenwriting career.&nbsp;<br><br>These aren’t warm-ups. They are full-blown script workouts that will help any screenwriter grow their screenwriting muscles. They’re not designed to be easy — they are designed to help you level up by creating tears in your current writing process to allow space to fill in more talent and experience.&nbsp;<br><br>With that in mind, here are five screenwriting challenges to help you level up!&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-screenwriting-challenges-to-help-you-level-up>
+
+---
+
+## Colourfields: Writing About Writing About Science Fiction by Paul Kincaid: Review by Ian Mond
+
+date: 2025-05-23, from: Locus Magazine
+
+<p><strong>Colourfields: Writing About Writing About Science Fiction</strong>, Paul Kincaid (Briardene, £22.00, tp) April 2025. Cover by Tom Joyes.</p>
+<p>Clear-eyed. That’s how I would describe the work of Paul Kincaid. There are other words I could use: engaging, intelligent, rigorous. All are accurate. But clear-eyed sits at the top of the list. Since first encountering Kincaid’s criticism online over two decades ago (whether on Strange Horizons or, his now-defunct LiveJournal  <a href="https://locusmag.com/2025/05/colourfields-writing-about-writing-about-science-fiction-by-paul-kincaid-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/colourfields-writing-about-writing-about-science-fiction-by-paul-kincaid-review-by-ian-mond/>
+
+---
+
+## 2025 Writers & Illustrators of the Future Awards
+
+date: 2025-05-23, from: Locus Magazine
+
+<p></p>
+<p>The 41st annual L. Ron Hubbard’s Writ­ers and Illustrators of the Future Awards ceremony was held April 10, 2025, at the Taglyan Complex in sunny Los Angeles, Calfor­nia, during a weeklong intensive of workshops, lectures, and classes for the winners. This year’s Golden Brush Award went to Jordan Smjastrla for her illustration of “Kill Switch’’, and the Gold­en Pen Award went to Randyn C.J. Bartholomew for his story “Ascii’’ about  <a href="https://locusmag.com/2025/05/2025-writers-illustrators-of-the-future-awards-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-writers-illustrators-of-the-future-awards-2/>
+
+---
+
+## Perlmutter v. Blanche – Register of Copyrights Sues Trump Over His Attempt to Remove Her
+
+date: 2025-05-23, from: Author's Union blog
+
+Yesterday evening Register of Copyrights Shira Perlmutter filed suit against a number of individuals involved in both her attempted removal [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/05/23/perlmutter-v-blanche-register-of-copyrights-sues-trump-over-his-attempt-to-remove-her/>
 
 ---
 

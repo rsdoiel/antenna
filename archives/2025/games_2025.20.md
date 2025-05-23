@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-05-23 06:08:34
+updated: 2025-05-23 14:06:52
 ---
 
 # games
 
-(date: 2025-05-23 06:08:34)
+(date: 2025-05-23 14:06:52)
+
+---
+
+## Mickey 17, Fountain of Youth, Wolfs, and every movie new to streaming this weekend
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Mickey 17, the science fiction comedy from Oscar-winning Parasite writer-director Bong Joon Ho, starring Robert Pattinson as an expendable clone, gets copied onto HBO [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/600457/mickey-17-fountain-of-youth-wolfs-what-to-stream-this-weekend>
+
+---
+
+## The Switch 2 will let you plug in an actual mouse, thank goodness
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+The Switch 2&#8217;s mouse functionality is a nifty idea, but let&#8217;s face it, the prospect of scrolling around for hours with something that wasn&#8217;t designed from the ground up with that functionality in mind sounds like a recipe for hand cramps. Fortunately, you’ll have options. In April, Polygon had a chance to take the Switch [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/601403/joy-con-2-real-mouse-usb-will-work>
+
+---
+
+## How to hide in hiding spots in Fortnite
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+You’ll need to hide in hiding spots in Fortnite to complete one of the Chapter 6 Galactic Battle weekly challenges. Hiding spots are scattered all over the island, but some spots are easier to reach than others. In this guide, we’ll show you how to hide in hiding spots in Fortnite, plus list some of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/601334/hiding-spots-how-to-hide-where-locations-best>
+
+---
+
+## Best Verso build in Clair Obscur: Expedition 33
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Verso is happy taking back seat in your Clair Obscur: Expedition 33 party. He provides damage buffs to your team and then helps your primary damage-dealer quickly rout the enemy. His playstyle is reminiscent of Capcom’s Devil May Cry series, since you must rack up damage and dodges across multiple turns to increase your rank [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/clair-obscur-expedition-33-guides/601154/best-verso-build-attributes-skills-weapon-luminas-pictos>
+
+---
+
+## Valve adds SteamOS support for its Steam Deck rivals
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Valve&#8217;s huge new SteamOS update is finally here, and with it arrives support for the Steam Deck&#8217;s rivals, Lenovo’s Legion Go and Asus’ ROG Ally series. SteamOS update 3.7.8 improves support for these third-party devices and other AMD-powered handhelds, fixes a previous bug that prevented some apps from installing on the Legion Go S, while [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hardware/601144/valve-adds-steamos-support-for-its-steam-deck-rivals>
+
+---
+
+## All Mandalorian locations in Fortnite
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+As of an update on May 22, the Mandalorian (actually, multiple of them) have touched down in Fortnite, appearing on the island as part of the Chapter 6 Star Wars season. You can find a couple of these guys around the island, and they serve different functions as they have various specialties. You’ll also have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/601296/mandalorians-locations-where-to-find-all>
+
+---
+
+## Where to find all nymphs in Honkai: Star Rail
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Honkai: Star Rail’s 3.0 update added a new type of collectible to the game: nymphs in Amphoreus. These critters are scattered around the maps, with each map featuring a “Garmentmaker” looking to find them. Help the “Garmentmaker” out and you’ll be able to get Stellar Jade and other goodies for your time. These little bugs [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map>
+
+---
+
+## Turns out, Mario Kart 8 has been gaslighting everyone for a decade
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+The first time anyone jumps into Mario Kart 8’s 200cc mode can be a shock. The engine class is meant to be the hardest challenge in the game, but even so, racing in 200cc can sometimes feel egregiously punishing. There’s a reason for that: Apparently, the number does not accurately represent the jump in speed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/601168/mario-kart-8-200cc-true-speed>
+
+---
+
+## Elden Ring Nightreign might fix ‘overlooked’ two-player mode in post-launch update
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Elden Ring Nightreign is designed around three-player squads, but solo play is possible. (Whether it’s enjoyable going solo remains to be seen.) But support for duos isn’t part of the plan and won’t be available when the game launches next week. But FromSoftware might reverse that decision; Elden Ring Nightreign director Junya Ishizaki tells IGN [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/601197/elden-ring-nightreign-2-player-duos-multiplayer>
+
+---
+
+## Honkai: Star Rail Amphoreus treasure chest locations and map
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Amphoreus is the fourth planet in Honkai: Star Rail that you’ll visit. Just like all the other areas, it’s filled with loot. You’ll need to scour the maps out completely to get some exclusive rewards, so to help you hunt them down, we’ve compiled the maps and loot locations in our guide. Most maps have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/505630/amphoreus-treasure-chests-spirithief-locations-maps>
 
 ---
 

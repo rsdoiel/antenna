@@ -1,11 +1,175 @@
 ---
 title: columns
-updated: 2025-05-23 06:08:32
+updated: 2025-05-23 14:06:51
 ---
 
 # columns
 
-(date: 2025-05-23 06:08:32)
+(date: 2025-05-23 14:06:51)
+
+---
+
+## May 22, 2025
+
+date: 2025-05-23, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164265954/33731668abc16bd28191edb059fb414b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164265954/33731668abc16bd28191edb059fb414b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-22-2025-521>
+
+---
+
+## As These Senators Go Home for the Memorial Day Weekend …
+
+date: 2025-05-23, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/as-these-senators-go-home-for-the>
+
+---
+
+##  For They Shall Inherit 
+
+date: 2025-05-23, updated: 2025-05-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/for-they-shall-inherit>
+
+---
+
+##  A new offering from Swiss hotels: Bees & Friends. &#8220;We&#8217;re welcoming bees,... 
+
+date: 2025-05-23, updated: 2025-05-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046913-a-new-offering-from-swiss>
+
+---
+
+##  Now on public display for the first time, at MoMA: a collection... 
+
+date: 2025-05-23, updated: 2025-05-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046919-now-on-public-display-for>
+
+---
+
+## Mozilla Is Shutting Down Pocket
+
+date: 2025-05-23, updated: 2025-05-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/672924/mozilla-pocket-fakespot-shutting-down>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-23, from: Dave Winer's Scripting News)
+
+I would pay extra for cable service to have none of my money go to Fox News. 
+
+<br> 
+
+<http://scripting.com/2025/05/23.html#a170014>
+
+---
+
+## Trump Threatens Apple With 25 Percent Tariffs on iPhones Assembled in India
+
+date: 2025-05-23, updated: 2025-05-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://truthsocial.com/@realDonaldTrump/posts/114556874484491575>
+
+---
+
+##  Apple TV+ and filmmaker Rebecca Miller are doing a five-part documentary about... 
+
+date: 2025-05-23, updated: 2025-05-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046918-apple-tv-and-filmmaker-re>
+
+---
+
+## Anthropic’s ‘System Card’ for Claude 4 (Opus and Sonnet)
+
+date: 2025-05-23, updated: 2025-05-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf>
+
+---
+
+##  The Problem with My City Is That It&#8217;s a City. &#8220;I moved... 
+
+date: 2025-05-23, updated: 2025-05-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046916-the-problem-with-my-city>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-23, from: Dave Winer's Scripting News)
+
+I should mention that you can follow my <a href="https://daveverse.org/">daveverse</a> blog, which I write using WordLand, on Mastodon -- @scripting@daveverse.org. Mastodon preserves links and styling, and doesn't seem to have a size limit. I can edit my posts and you get the updates. So Mastodon kind of informally has become a blogging system, which I totally applaud. It checks a lot of the boxes on my <a href="https://textcasting.org/">textcasting</a> manifesto. Slowly the world is starting to make sense. 
+
+<br> 
+
+<http://scripting.com/2025/05/23.html#a151738>
+
+---
+
+##  &#8220;Today, faced with a president who seemingly has no concern for constitutional... 
+
+date: 2025-05-23, updated: 2025-05-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046907-today-faced-with-a-presid>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-23, from: Dave Winer's Scripting News)
+
+A couple of little tweaks to <a href="https://daytona.scripting.com/search?q=Hello World">Daytona</a>. It now has a <a href="https://imgs.scripting.com/2025/05/23/historyMenuDaytona.png">history menu</a> which it saves in local storage. It's useful to be able to come back to a recent search. It remembers the last 50 searches this way. Also had to add a little hack that turns off other copies of Daytona when another one launches. Use a local storage trick, save a random string to a fixed location, and every second check to see if its value has changed. If it has, another copy of Daytona has launched, so I redirect to the home page of my blog. 
+
+<br> 
+
+<http://scripting.com/2025/05/23.html#a135604>
 
 ---
 

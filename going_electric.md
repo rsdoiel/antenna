@@ -1,11 +1,163 @@
 ---
 title: going electric
-updated: 2025-05-23 06:08:38
+updated: 2025-05-23 14:06:54
 ---
 
 # going electric
 
-(date: 2025-05-23 06:08:38)
+(date: 2025-05-23 14:06:54)
+
+---
+
+## The Best Explanation Yet For Why America Is Giving Up On EVs
+
+date: 2025-05-23, from: Inside EVs News
+
+This is what's at stake: jobs, competing with China and the technology of the future. And here's what's holding us back. 
+
+<br> 
+
+<https://insideevs.com/news/760602/america-congress-trump-evs-china/>
+
+---
+
+## Podcast: EV/Solar killing bill moves forward, Elon lies about Tesla’s demand, cheaper EVs, and more
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the EV/Solar killing bill moving forward, Elon lying about Tesla’s demand, cheaper EVs coming, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="417528" href="https://electrek.co/2025/05/23/podcast-ev-solar-killing-bill-moves-forward-elon-lies-about-teslas-demand-cheaper-evs-and-more/#more-417528" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/podcast-ev-solar-killing-bill-moves-forward-elon-lies-about-teslas-demand-cheaper-evs-and-more/>
+
+---
+
+## Circle K just opened a new spot exclusively for EV charging with no gas pumps in sight
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Circle-K-EV-Charging.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>This is what the future of travel will look like. Circle K opened its first location exclusively for EV charging in Europe. The site features ten ultra-fast <a href="https://electrek.co/guides/ev-chargers/">EV chargers</a> and a convenience store while you wait.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,gas-stations" data-layer-viewtype="unknown" data-post-id="417508" href="https://electrek.co/2025/05/23/circle-k-opens-first-ev-charging-only-spot-with-no-gas-pumps/#more-417508" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/circle-k-opens-first-ev-charging-only-spot-with-no-gas-pumps/>
+
+---
+
+## RadExpand 5 Plus and RadWagon 5 e-bikes $200 off, exclusive $3,297 savings on three Anker SOLIX BP3800 expansion batteries, much more
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rad-Power-RadExpand-5-Plus-Folding-e-bike-2.png?w=1200" /></div><p>With Memorial Day on the horizon, we’re giving you a more jam-pack Green Deals to close out this week, with a spotlight being returned on <a href="https://9to5toys.com/2025/05/23/radexpand-5-plus-and-radwagon-5-e-bikes-from-1699/">Rad Power’s Memorial Day Sale</a> that is seeing the first discounts on its newest models, this time focusing on the <a href="https://9to5toys.com/2025/05/23/radexpand-5-plus-and-radwagon-5-e-bikes-from-1699/">RadExpand 5 Plus Folding e-bike at $1,699</a> and the <a href="https://9to5toys.com/2025/05/23/radexpand-5-plus-and-radwagon-5-e-bikes-from-1699/">RadWagon 5 Cargo e-bike at $2,199</a>. We’ve also secured a massive $3,297 in savings on <a href="https://9to5toys.com/2025/05/23/expand-your-anker-solix-f3800-setup-with-exclusive-3297-in-savings-on-three-expansion-batteries-at-a-4200-low/">three Anker SOLIX BP3800 Expansion Batteries at a new $4,200 low</a>, while spotting Velotric increasing savings on its <a href="https://9to5toys.com/2025/05/23/velotric-nomad-1-plus-summit-1-e-bikes-from-1399/">Nomad 1 Plus and Summit 1 All-Terrain e-bikes</a>, starting from <a href="https://9to5toys.com/2025/05/23/velotric-nomad-1-plus-summit-1-e-bikes-from-1399/">$1,399</a>. There’s also a $1,300 discount on <a href="https://9to5toys.com/2025/05/22/samsung-bespoke-ai-combo-from-1900/">Samsung’s Bespoke AI Laundry Combo</a> Electric Ventless Heat Pump Washer/Dryer that starts from <a href="https://9to5toys.com/2025/05/22/samsung-bespoke-ai-combo-from-1900/">$1,900</a> through Memorial Day, as well as a one-day-only sale on <a href="https://9to5toys.com/2025/05/23/today-only-anker-solix-everfrost-2-58l-800-low/">Anker’s SOLIX EverFrost 2 58L</a> Dual-Zone Electric Cooler that is returning it to its <a href="https://9to5toys.com/2025/05/23/today-only-anker-solix-everfrost-2-58l-800-low/">$800 pre-sale low</a> for the first time. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s full <a href="https://9to5toys.com/2025/05/22/rad-power-memorial-day-sale-from-1299/">Rad Power Memorial Day Sale coverage</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="417499" href="https://electrek.co/2025/05/23/radexpand-5-plus-e-bike-exclusive-anker-solix-batteries-more/#more-417499" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/radexpand-5-plus-e-bike-exclusive-anker-solix-batteries-more/>
+
+---
+
+## BYD’s new Seal 06 EV leaks with 375 miles range
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-Seal-06-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s new electric SUV is about the size of a Tesla Model Y, but it’s expected to cost much less. The Seal 06 leaked in China this week, giving us a closer look at the new <a href="https://electrek.co/guides/byd/">BYD EV</a>, which is set to arrive later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="417473" href="https://electrek.co/2025/05/23/byd-seal-06-ev-leaks-with-375-miles-range/#more-417473" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/byd-seal-06-ev-leaks-with-375-miles-range/>
+
+---
+
+## California Says ‘See You In Court’ After EV Rules Rolled Back
+
+date: 2025-05-23, from: Inside EVs News
+
+The U.S. Senate voted to end California’s 2035 gas car ban. The state is now preparing to fight back. 
+
+<br> 
+
+<https://insideevs.com/news/760559/california-will-sue-trump-admin-ev-rules/>
+
+---
+
+## Tesla Full Self-Driving veers off road, flips car in scary crash driver couldn’t prevent
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Full-Self-Driving-crash-upside-down-hero.png?w=1600" /></div><p>A Tesla vehicle on the latest Full Self-Driving (FSD) Supervised update suddenly veered off road and flipped the car upside down – creating a scary crash that the driver said he couldn’t prevent.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="417451" href="https://electrek.co/2025/05/23/tesla-full-self-driving-veers-off-road-flips-car-scary-crash-driver-couldnt-prevent/#more-417451" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/tesla-full-self-driving-veers-off-road-flips-car-scary-crash-driver-couldnt-prevent/>
+
+---
+
+## 11 states launch coalition to expand clean cars in face of federal attacks
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/IMG_9694-scaled-1-e1747948929611.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Hot on the heels of Congress<a href="https://electrek.co/2025/05/22/republicans-in-congress-illegally-vote-to-end-clean-air-rules-they-cant-actually-end/"> illegally attacking clean air</a>, a coalition of 11 states has launched an Affordable Clean Cars Coalition to expand access to clean cars even as the federal government tries to raise costs for Americans and drag down the US auto industry during the all-important transition to EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="united-states-climate-alliance" data-layer-viewtype="unknown" data-post-id="417416" href="https://electrek.co/2025/05/23/11-states-launch-coalition-to-expand-clean-cars-in-face-of-federal-attacks/#more-417416" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/11-states-launch-coalition-to-expand-clean-cars-in-face-of-federal-attacks/>
+
+---
+
+## Volkswagen builds first pre-series ID.2 parts and the low-cost battery system to power it
+
+date: 2025-05-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/VW-ID.-2all.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen’s entry-level EV is coming along. The first pre-series battery systems, which will power <a href="https://electrek.co/guides/volkswagen-id-2/">the ID.2,</a> are now rolling off the assembly line, and Volkswagen is already building parts for the low-cost EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-group,volkswagen-id-2" data-layer-viewtype="unknown" data-post-id="417448" href="https://electrek.co/2025/05/23/volkswagen-builds-first-pre-series-id-2-parts-and-battery-system/#more-417448" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/23/volkswagen-builds-first-pre-series-id-2-parts-and-battery-system/>
+
+---
+
+## Used Porsche Taycans Are Getting Cheap. Here’s What Living With One Is Like
+
+date: 2025-05-23, from: Inside EVs News
+
+Through the magic of depreciation, slightly used pre-facelift Taycans sell for way less than new—about $50,000. Sounds tempting. 
+
+<br> 
+
+<https://insideevs.com/news/760545/used-porsche-taycan-ownership-experience-6-months/>
 
 ---
 
@@ -982,7 +1134,7 @@ date: 2025-05-20, from: Electrek Feed
 
 ---
 
-## Elon Musk materialy lied to Tesla  (TSLA) shareholders – transcript and proof
+## Elon Musk materially lied to Tesla  (TSLA) shareholders – transcript and proof
 
 date: 2025-05-20, from: Electrek Feed
 
