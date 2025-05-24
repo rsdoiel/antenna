@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-05-24 06:07:31
+updated: 2025-05-24 14:07:59
 ---
 
 # columns
 
-(date: 2025-05-24 06:07:31)
+(date: 2025-05-24 14:07:59)
 
 ---
 
@@ -563,7 +563,7 @@ date: 2025-05-22, updated: 2025-05-22, from: Jason Kittke's blog
 
 ## Excerpt From Patrick McGee’s ‘Apple in China’
 
-date: 2025-05-22, updated: 2025-05-22, from: Daring Fireball
+date: 2025-05-22, updated: 2025-05-24, from: Daring Fireball
 
  
 
@@ -2211,7 +2211,7 @@ date: 2025-05-19, updated: 2025-05-19, from: Jason Kittke's blog
 
 ## WSJ: ‘Apple Considers Raising iPhone Prices, Without Blaming Tariffs’
 
-date: 2025-05-19, updated: 2025-05-19, from: Daring Fireball
+date: 2025-05-19, updated: 2025-05-24, from: Daring Fireball
 
  
 

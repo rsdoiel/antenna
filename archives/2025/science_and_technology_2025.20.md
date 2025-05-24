@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-05-24 06:07:30
+updated: 2025-05-24 14:07:58
 ---
 
 # science and technology
 
-(date: 2025-05-24 06:07:30)
+(date: 2025-05-24 14:07:58)
 
 ---
 
@@ -95,7 +95,7 @@ date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
 
 ## Ransomware scum leaked Nova Scotia Power customers' info
 
-date: 2025-05-23, updated: 2025-05-23, from: The Register (UK I.T. News)
+date: 2025-05-23, updated: 2025-05-24, from: The Register (UK I.T. News)
 
 <h4>Bank accounts, personal details all hoovered up in the attack</h4> <p>Nova Scotia Power on Friday confirmed it had been hit by a ransomware attack that began earlier this spring and disrupted certain IT systems, and admitted the crooks leaked data belonging to about 280,000 customers online. The stolen info may have included billing details and, for those on autopay, bank account numbers.…</p> 
 

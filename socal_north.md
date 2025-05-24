@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-05-24 06:07:28
+updated: 2025-05-24 14:07:57
 ---
 
 # socal north
 
-(date: 2025-05-24 06:07:28)
+(date: 2025-05-24 14:07:57)
 
 ---
 
@@ -25,7 +25,7 @@ Last year the state recorded roughly 1,000 pelicans captured for rehabilitation.
 
 date: 2025-05-23, from: Longbeach Post
 
-<figure><img width="1024" height="616" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-1024x616.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-1024x616.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-300x181.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-768x462.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-400x241.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="616" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-1024x616.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-1024x616.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-300x181.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-768x462.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-180x108.jpg 180w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF-400x241.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/23090239/22may25-5-22-25-jeopardy-0-676489-5yv7flfb-285243-NdBistYF.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Mitch Loflin, a set decoration coordinator who grew up in North Carolina, said he used a portion of the prize money to buy Lady Gaga tickets.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-jeopardy-mitch-loflin-tortoises">Long Beach man wins $38,700 in 3-day run on &#8216;Jeopardy!&#8217;</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -128,7 +128,7 @@ From dining hall leftovers to refrigerated food lockers and grab-and-go-meals, s
 
 ## These old, trippy recordings of nature are inspiring Angelenos to use sound for art and healing
 
-date: 2025-05-23, updated: 2025-05-23, from: The LAist
+date: 2025-05-23, updated: 2025-05-24, from: The LAist
 
 The pioneering nature recordings of ArtCenter attendee Irv Teibel, made between the 1960s and 70s, have inspired a new generation of audio engineers, DJs and even a psychotherapist. 
 
@@ -457,7 +457,7 @@ The federal judge also told the administration to reinstate department employees
 
 ## Just in time for summer, here are the cleanest and dirtiest beaches in SoCal
 
-date: 2025-05-22, updated: 2025-05-22, from: The LAist
+date: 2025-05-22, updated: 2025-05-24, from: The LAist
 
 Heal the Bay’s annual beach report card just came out, and the water at the Santa Monica Pier is once again some of the dirtiest along the West Coast. 
 

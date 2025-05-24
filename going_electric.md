@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-05-24 06:07:37
+updated: 2025-05-24 14:08:04
 ---
 
 # going electric
 
-(date: 2025-05-24 06:07:37)
+(date: 2025-05-24 14:08:04)
 
 ---
 
@@ -1026,7 +1026,7 @@ China's best-selling EV gets some Europe-specific alterations, including bigger 
 
 date: 2025-05-21, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/2026-Toyota-RAV4_Family_Studio_001-1500x990-1-e1747791633741.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Toyota USA has refreshed its RAV4 for 2026, and, in a significant step forward for efficiency, Toyota has axed the non-hybrid version of the vehicle. The RAV4 will now only be available in conventional hybrid and PHEV versions starting in the 2026 model year.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/2026-Toyota-RAV4_Family_Studio_001-1500x990-1-e1747791633741.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Toyota USA has refreshed its RAV4 for 2026, and, in a significant step forward for efficiency, Toyota has axed the non-hybrid version of the vehicle. The RAV4 will now only be available in conventional (gas-powered) hybrid and plug-in hybrid (PHEV) versions starting in the 2026 model year.</p>
 
 
 
