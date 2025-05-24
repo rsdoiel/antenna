@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-23 14:06:53
+updated: 2025-05-24 06:07:35
 ---
 
 # motorcycles
 
-(date: 2025-05-23 14:06:53)
+(date: 2025-05-24 06:07:35)
+
+---
+
+## “Wood Brothers 75 Years: A Family Legacy” Exhibit Opens at NASCAR Hall of Fame
+
+date: 2025-05-23, from: Kickin the Tires blog
+
+CHARLOTTE, N.C. (May 23, 2025) – Wood Brothers Racing and the NASCAR Hall of Fame have partnered to debut a new exhibit, “Wood Brothers 75 Years: A Family Legacy.” The&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/wood-brothers-75-years-a-family-legacy-exhibit-opens-at-nascar-hall-of-fame/>
 
 ---
 
@@ -532,4 +544,16 @@ One of the biggest names in the off-road gear scene wants to make racing more ac
 <br> 
 
 <https://www.rideapart.com/news/759766/klim-racer-support-program-2025-announcement/>
+
+---
+
+## Indianapolis 500 Saturday Qualification Report: Huge wrecks and fast speeds with Palou on top
+
+date: 2025-05-17, from: Kickin the Tires blog
+
+Drama. It is what makes the Indianapolis 500 the biggest race on the planet and the first day of qualifications for the 109th “500” brought plenty of drama.&#160; High winds&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indianapolis-500-saturday-qualification-report-huge-wrecks-and-fast-speeds-with-palou-on-top/>
 

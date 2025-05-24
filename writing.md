@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-05-23 14:06:51
+updated: 2025-05-24 06:07:32
 ---
 
 # writing
 
-(date: 2025-05-23 14:06:51)
+(date: 2025-05-24 06:07:32)
 
 ---
 
@@ -487,4 +487,17 @@ date: 2025-05-18, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/05/the-martian-contingency-by-mary-robinette-kowal-review-by-adrienne-martini/>
+
+---
+
+## Vanishing World by Sayaka Murata: Review by Niall Harrison
+
+date: 2025-05-17, from: Locus Magazine
+
+<p><strong>Vanishing World</strong>, Sayaka Murata (Grove Press 978-0-8021-6366-7, $28.00, 233pp, hc) April 2025.</p>
+<p>So I turned to <strong>Vanishing World </strong>in the hopes of finding something that would refuse my subcon­scious’s attempts to read through the lens of cur­rent events, and more or less succeeded. Sayaka Murata’s third novel in English is a cunning inversion of her first. Both novels have a kind of thought-experiment clarity to them; both are streamlined  <a href="https://locusmag.com/2025/05/vanishing-world-by-sayaka-murata-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/vanishing-world-by-sayaka-murata-review-by-niall-harrison/>
 

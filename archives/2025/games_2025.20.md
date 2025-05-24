@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-05-23 14:06:52
+updated: 2025-05-24 06:07:33
 ---
 
 # games
 
-(date: 2025-05-23 14:06:52)
+(date: 2025-05-24 06:07:33)
+
+---
+
+## Overwatch 2’s new hero bans probably mean changes for Sombra, Zarya, and others
+
+date: 2025-05-23, updated: 2025-05-23, from: Polygon Website
+
+Blizzard Entertainment rolled out its hero ban feature for Overwatch 2 in April, and if you’ve been playing any competitive games during season 16, you’ve probably noticed that certain heroes (e.g., Sombra, Zarya, Symmetra, Ana, Mercy) are among the most consistently banned characters. Newly published data from Blizzard shows that to be the case, with some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/601367/overwatch-2-hero-bans-changes-zarya-sombra>
 
 ---
 
@@ -786,4 +798,64 @@ How do you put the expedition into a game like Clair Obscur: Expedition 33? For 
 <br> 
 
 <https://www.polygon.com/gaming/599737/expedition-33-characters-gustave-maelle>
+
+---
+
+## All Elden Ring Nightreign character classes announced so far
+
+date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
+
+Elden Ring Nightreign may look familiar in many ways, but FromSoftware’s stand-alone multiplayer spinoff of Elden Ring will play differently thanks to its battle-royale-inspired map and a roster of playable characters. Unlike the blank-slate, highly customizable characters of the original Elden Ring, the playable heroes of Nightreign — known as Nightfarers — are predefined characters with class [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/599387/character-classes-all-list-nightfarers>
+
+---
+
+## Horror legend Tony Todd improvised a goodbye to his fans in Final Destination: Bloodlines
+
+date: 2025-05-17, updated: 2025-05-18, from: Polygon Website
+
+Fans of the Final Destination movies know there isn’t a lot of continuity, apart from each new sequel returning to the basic concept: Someone has a premonition of impending disaster and uses it to save the lives of people who would have died in that disaster, but death finds convoluted ways to claim them anyway. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/599677/tony-todd-final-destinations-bloodlines-post-credits-scene-goodbye>
+
+---
+
+## What&#8217;s going on with manga and anime piracy crackdowns?
+
+date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
+
+Much like the gaming industry, entertainment has long been at war with piracy. But while gamers often turn to piracy to preserve titles lost to digital delistings or scarce physical copies, anime and manga fans, especially in earlier eras, relied on illicit means simply to access the content. Before widespread licensing, piracy played a crucial [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/599425/manga-anime-piracy-crackdown>
+
+---
+
+## ‘I was so tired’: Behind Clair Obscur: Expedition 33’s beloved ‘whee whoo’ scene
+
+date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
+
+Clair Obscur: Expedition 33 writer Jennifer Svedberg-Yen would be the first to tell you: writing a video game is work. At least writing a novel is a one-person operation for most of the time. At least a screenplay for a film only needs to come in around 120 pages, unless you’re working for Martin Scorsese. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/599459/clair-obscur-expedition-33-whee-whoo>
+
+---
+
+## Before Final Destination: Bloodlines, the directors made an unsettling Stranger Things-style sci-fi thriller
+
+date: 2025-05-17, updated: 2025-05-17, from: Polygon Website
+
+After a 14-year hiatus, the Final Destination horror franchise returns to theaters on May 16 with Final Destination: Bloodlines. In the first five Final Destination films, death itself creates Rube Goldberg machines out of everyday objects, constructing freak accidents to kill people who previously escaped its grasp. The latest iteration puts a new spin on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/recommends/599522/freaks-2018-stranger-things-final-destination-bloodlines-connections>
 

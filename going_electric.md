@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-05-23 14:06:54
+updated: 2025-05-24 06:07:37
 ---
 
 # going electric
 
-(date: 2025-05-23 14:06:54)
+(date: 2025-05-24 06:07:37)
 
 ---
 
@@ -26,6 +26,10 @@ This is what's at stake: jobs, competing with China and the technology of the fu
 date: 2025-05-23, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the EV/Solar killing bill moving forward, Elon lying about Tesla’s demand, cheaper EVs coming, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Electrek_386.mp3"></audio></figure>
 
 
 
@@ -198,6 +202,10 @@ date: 2025-05-23, from: Electrek Feed
 date: 2025-05-23, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes a new launch of a full-suspension e-bike from Velotric, Yamaha-backed company’s plan for battery swapping in electric bicycles, buying a super-cheap e-bike from China, testing the Meepo Flow electric skateboard, PodBike closes its doors, the impending launch of the Royal Enfield Flying Flea electric motorcycle, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Wheel-E_90.mp3"></audio></figure>
 
 
 
@@ -1923,4 +1931,92 @@ date: 2025-05-18, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/05/18/byd-ride-electrifies-oakland-intl-airport-shuttle-bus-fleet/>
+
+---
+
+## Tesla pulls all the demand levers with discounts and incentives as sales crash
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/F5hSGgEWEAAcIyn-e1704126520175.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now pulling on all the demand levers in the US with new discounts and incentives as sales are crashing due to brand damage.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416453" href="https://electrek.co/2025/05/17/tesla-pulls-demand-levers-discounts-and-incentives-sales-crash/#more-416453" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/tesla-pulls-demand-levers-discounts-and-incentives-sales-crash/>
+
+---
+
+## Chevy Blazer EV Vs. Cadillac Lyriq: How Different Are They?
+
+date: 2025-05-17, from: Inside EVs News
+
+GM is trying harder to differentiate its options in the electric era, as these cars show.  
+
+<br> 
+
+<https://insideevs.com/news/759900/cadillac-lyriq-vs-chevy-blazer-ev/>
+
+---
+
+## Game changer: Harbinger launches a medium-duty EREV with 500 mile range
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/AL-MY24-Harbinger-Truck-Image-250128.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The electric box van experts at Harbinger announced a new, EREV version of their medium-duty van that pairs a big battery with a small, gas-powered ICE engine to offer fleets that are hesitant to electrify a massive 500 miles of autonomy on a single charge + tank.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,erev,harbinger-motors" data-layer-viewtype="unknown" data-post-id="416437" href="https://electrek.co/2025/05/17/game-changer-harbinger-launches-a-medium-duty-erev-with-500-mile-range/#more-416437" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/game-changer-harbinger-launches-a-medium-duty-erev-with-500-mile-range/>
+
+---
+
+## The VW ID Buzz Is A Minivan Without Rear-Seat Cupholders
+
+date: 2025-05-17, from: Inside EVs News
+
+European models get a tray table with a cup holder, but American buyers have to get really creative. 
+
+<br> 
+
+<https://insideevs.com/news/759897/vw-idbuzz-no-cupholder-dilemma/>
+
+---
+
+## Here are the cheapest EVs we could find for lease at under $300/month right now [Updated]
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Cheapest-EVs-lease-May.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said you had to break the bank to drive an EV? Right now, there are a few EV deals for under $300 a month that are hard to pass up. However, the savings may not last long. Here are the cheapest EVs you can get your hands on this May.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/05/17/cheapest-evs-lease-may-under-300-mo/#more-404778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/cheapest-evs-lease-may-under-300-mo/>
+
+---
+
+## Bollinger Motors circles the drain as court cases, debts pull it down
+
+date: 2025-05-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/bollinger-b2-over.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A federal court judge in Michigan has placed the once-promising electric truck brand Bollinger Motors’ assets into receivership following claims that the company’s owners still owe its founder, Robert Bollinger, more than $10 million.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,business,mullen" data-layer-viewtype="unknown" data-post-id="416426" href="https://electrek.co/2025/05/17/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/#more-416426" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/17/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/>
 

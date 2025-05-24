@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-05-23 14:06:49
+updated: 2025-05-24 06:07:29
 ---
 
 # pacific
 
-(date: 2025-05-23 14:06:49)
+(date: 2025-05-24 06:07:29)
 
 ---
 
@@ -22,12 +22,12 @@ The post <a href="https://www.hawaii.edu/news/2025/05/23/uh-mentors-next-astrono
 
 ---
 
-## Kona restaurant shuttered for multiple food safety violations
+## UPDATE: Kona restaurant reopens following food safety violations
 
 date: 2025-05-23, from: Hawaii Tribune Harold
 
 
-				<p>The state Department of Health has shut down a Kailua-Kona restaurant after a routine inspection uncovered an active cockroach infestation, contaminated food and multiple food safety violations.</p>
+				<p><strong>UPDATE: 12:30 p.m.</strong></p>
 			 
 
 <br> 
@@ -2818,4 +2818,197 @@ date: 2025-05-18, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/18/features/leipzig-the-german-city-that-helped-halt-communism/>
+
+---
+
+## Vanuatu presses for climate justice, warns of irreversible damage in 5 years
+
+date: 2025-05-17, from: Pacific Island Times
+
+By James C. Pearce  Ahead of the third UN Ocean Conference this summer, the International Court of Justice is set to render a... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/vanuatu-pressing-for-climate-justice-warns-that-the-damage-will-be-irreversible-in-five-years>
+
+---
+
+## Conservatives imperil GOP megabill that would fulfill Trump’s agenda
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Conservatives on the House Budget Committee on Friday blocked their party&#8217;s megabill from reaching the floor, citing concerns that the legislation to fulfill President Donald Trump&#8217;s domestic agenda would add too much to the deficit.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/conservatives-imperil-gop-megabill-that-would-fulfill-trumps-agenda/>
+
+---
+
+## GOP tax bill may hurt the lowest earners and help the richest
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As Rep. Jason Smith, R-Mo., commenced a marathon session this week to consider a sprawling and expensive Republican tax package, he took special care to emphasize his party&#8217;s commitment to &#8220;hardworking Americans.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/gop-tax-bill-may-hurt-the-lowest-earners-and-help-the-richest/>
+
+---
+
+## Audio of special counsel interview adds to renewed debate of Biden’s fitness as president
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A 2023 audio recording of President Joe Biden speaking haltingly and having memory lapses is the latest in a series of recent disclosures that have reopened a debate over Biden&#8217;s physical and mental fitness while in office and prompted fresh recriminations among Democrats.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/audio-of-special-counsel-interview-adds-to-renewed-debate-of-bidens-fitness-as-president/>
+
+---
+
+## As Congress debates cutting Medicaid, a major study shows it saves lives
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The expansion of Medicaid has saved more than 27,000 lives since 2010, according to the most definitive study yet on the program&#8217;s health effects.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/as-congress-debates-cutting-medicaid-a-major-study-shows-it-saves-lives/>
+
+---
+
+## ‘He gets us’: Trump makes a splash in Saudi Arabia
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>RIYADH, Saudi Arabia &#8212; As he waited for President Donald Trump to arrive in a gilded ballroom in the Saudi capital, Riyadh, Mohammad Bahareth was beaming.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/he-gets-us-trump-makes-a-splash-in-saudi-arabia/>
+
+---
+
+## 10 New Orleans inmates escape jail through cell wall where toilet was removed
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The rectangular hole in the cell wall was just big enough for a person to squeeze through. Right next to it, a metal toilet and sink had been ripped from the wall. Above the hole, someone had scrawled a picture of a face with a tongue sticking out and taunting messages for Orleans Parish Sheriff&#8217;s Office officials, saying it was all too &#8220;easy. LOL.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/10-new-orleans-inmates-escape-jail-through-cell-wall-where-toilet-was-removed/>
+
+---
+
+## US may drop guilty plea deal with Boeing over deadly Max crashes, lawyers say
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>After years of legal wrangling, Boeing may avoid criminal responsibility for its role in a pair of deadly 737 Max crashes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/us-may-drop-guilty-plea-deal-with-boeing-over-deadly-max-crashes-lawyers-say/>
+
+---
+
+## Trump says ‘a lot of people are starving’ in Gaza and the US wants to help
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>ABU DHABI, United Arab Emirates &#8212; President Donald Trump said Friday that &#8220;a lot of people are starving&#8221; in the Gaza Strip under an Israeli blockade preventing aid deliveries, adding that the U.S. wanted to help alleviate the suffering.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/trump-says-a-lot-of-people-are-starving-in-gaza-and-the-us-wants-to-help/>
+
+---
+
+## US downgraded by Moody’s as Trump pushes costly tax cuts
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The credit rating of the United States received a potentially costly downgrade Friday, as the ratings firm Moody&#8217;s determined that the government&#8217;s rising debt levels stood to grow further if Republicans enact a package of new tax cuts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/us-downgraded-by-moodys-as-trump-pushes-costly-tax-cuts/>
+
+---
+
+## Secret Service questions Comey over social media post about Trump
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>The Secret Service questioned James Comey, the former FBI director, Friday about a social media post he made that Trump&#8217;s Cabinet officials and allies claimed amounted to a call for Trump&#8217;s assassination, according to a law enforcement official.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/secret-service-questions-comey-over-social-media-post-about-trump/>
+
+---
+
+## At least 4 dead as tornado strikes St. Louis, mayor says
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>At least four people were killed after a tornado struck St. Louis on Friday afternoon and left a trail of destruction of uprooted trees, downed power lines and collapsed buildings, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/at-least-4-dead-as-tornado-strikes-st-louis-mayor-says/>
+
+---
+
+## Pedestrian killed in Orchidland crash
+
+date: 2025-05-17, from: Hawaii Tribune Harold
+
+
+				<p>Police launched a negligent homicide investigation after a 21-year-old male pedestrian was killed in a traffic crash Friday evening in Kurtistown.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/17/hawaii-news/pedestrian-killed-in-orchidland-crash/>
+
+---
+
+## UH Hilo graduate earns doctorate while balancing family, full-time job
+
+date: 2025-05-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo graduate Kristle Akau Giraudy’s journey to a nursing doctorate is rooted in grit, gratitude and a deep love for learning</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/16/uh-hilo-graduate-earns-doctorate-family-full-time-job/"><abbr>UH</abbr> Hilo graduate earns doctorate while balancing family, full-time job</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/16/uh-hilo-graduate-earns-doctorate-family-full-time-job/>
 

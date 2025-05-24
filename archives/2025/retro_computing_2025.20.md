@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-05-23 14:06:54
+updated: 2025-05-24 06:07:36
 ---
 
 # retro computing
 
-(date: 2025-05-23 14:06:54)
+(date: 2025-05-24 06:07:36)
 
 ---
 
@@ -42,4 +42,16 @@ One of the attractions of the FAST systems (beyond its blistering speed) is the 
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2203.html>
+
+---
+
+## b.log 2025/05/17 - Eurovision 2025 Grand Final.
+
+date: 2025-05-17, from: Richard Murray's blog
+
+Eurovision 2025 Grand Final. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250517>
 

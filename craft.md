@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2025-05-23 14:06:55
+updated: 2025-05-24 06:07:37
 ---
 
 # craft
 
-(date: 2025-05-23 14:06:55)
+(date: 2025-05-24 06:07:37)
 
 ---
 
@@ -42,4 +42,16 @@ We have just launched a free 12-part video series that accompanies the new book 
 <br> 
 
 <https://blog.lostartpress.com/2025/05/19/the-free-video-series-of-build-a-chair-from-bullst/>
+
+---
+
+## Glue Up Boards – Without a Good Edge Joint
+
+date: 2025-05-17, from: Lost Arg Press blog
+
+In the next few days, we’ll release the free video series on “Build a Chair from Bulls%$t,” which will help make chairmaking accessible for more people. The chair (and stool) in the book are built using only home center materials and tools. After finishing up the book and videos, my brain did not get the... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/17/glue-up-boards-without-a-good-edge-joint/>
 

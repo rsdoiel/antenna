@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-05-23 14:06:49
+updated: 2025-05-24 06:07:29
 ---
 
 # ham radio
 
-(date: 2025-05-23 14:06:49)
+(date: 2025-05-24 06:07:29)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-05-23, from: Amateur Radio Relay League News
+
+<p><span>Solar activity ranged from low to high.<span>  </span>Region 4087 produced the strongest event of the period, an impulsive R3 flare on May 14 at 0825 UTC near the NE limb.<span>  </span>The region also produced R2 flares at 0325 and 1119 UTC.<span>  </span>Finally, three R1 events were produced by the region on May 14 and 15.<span>  </span>Region 4086 also produced an R3 event, with a flare observed on May 13 at 1538 UTC. </span></p><p><span>No proton events were o...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-15>
 
 ---
 
@@ -310,4 +322,16 @@ date: 2025-05-18, from: Amateur Radio Relay League News
 <br> 
 
 <http://www.arrl.org/news/view/arrl-coverage-of-2025-dayton-hamvention-saturday-may-17>
+
+---
+
+## ARRL Coverage of 2025 Dayton Hamvention - Friday, May 16
+
+date: 2025-05-17, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-coverage-of-2025-dayton-hamvention-friday-may-16>
 

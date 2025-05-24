@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-05-23 14:06:52
+updated: 2025-05-24 06:07:33
 ---
 
 # journalism
 
-(date: 2025-05-23 14:06:52)
+(date: 2025-05-24 06:07:33)
+
+---
+
+## Number 5 seed UCLA Gymnastics finishes in second place behind number 2 seed Oklahoma
+
+date: 2025-05-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin assistant sports editor Aaron Doyle covered the gymnastics championship Fort Worth Texas and joins us to talk about the season. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/number-5-seed-ucla-gymnastics-finishes-in-second-place-behind-number-2-seed-oklahoma/>
 
 ---
 
@@ -802,4 +814,57 @@ The Hammer Museum hosted Arts Party: Transcend, an event featuring performances,
 <br> 
 
 <https://dailybruin.com/2025/05/17/gallery-hammer-museums-arts-party-brings-students-together-for-after-hours-crafts-music/>
+
+---
+
+## Spring Sing 2025 showcases artistic talent as Ella Gibson, ACA All Day win awards
+
+date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+With more than 75 years of UCLA history, Spring Sing 2025 was back in full bloom.
+After the annual student talent showcase and competition was canceled last year, the event returned to the Los Angeles Tennis Center on Friday night. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/17/spring-sing-2025-showcases-artistic-talent-as-ella-gibson-aca-all-day-win-awards/>
+
+---
+
+## USC celebrates 142nd commencement
+
+date: 2025-05-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Commencement speaker Jon M. Chu emphasized the power of storytelling at the ceremony.</p>
+<p>The post <a href="https://dailytrojan.com/2025/05/16/usc-celebrates-142nd-commencement/">USC celebrates 142nd commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/05/16/usc-celebrates-142nd-commencement/>
+
+---
+
+## Bruins renew Bruin U-Pass, vote in new council in 2025 USAC election
+
+date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 16 at 11:05 p.m.</em>
+Undergraduate students elected a new Undergraduate Students Association Council and renewed funding for the Bruin U-Pass in the 2025 USAC election. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/bruins-renew-bruin-u-pass-vote-in-new-council-in-2025-usac-election/>
+
+---
+
+## Gov. Gavin Newsom’s May Revision reduces proposed budget cuts to the UC
+
+date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gov. Gavin Newsom&#8217;s May 14 revision of the state budget reduced proposed funding cuts to the UC.
+While Newsom&#8217;s initial January budget proposed that the state cut $396.6 million of the UC&#8217;s funding, his revised May budget would cut only $129.7 million. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/16/gov-gavin-newsoms-may-revision-reduces-proposed-budget-cuts-to-the-uc/>
 

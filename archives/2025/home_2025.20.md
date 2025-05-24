@@ -1,11 +1,87 @@
 ---
 title: home
-updated: 2025-05-23 14:06:53
+updated: 2025-05-24 06:07:35
 ---
 
 # home
 
-(date: 2025-05-23 14:06:53)
+(date: 2025-05-24 06:07:35)
+
+---
+
+## “Super” avocado trees
+
+date: 2025-05-23, from: Greg Alder's blog, Yard Post
+
+<p>A &#8220;super&#8221; avocado tree is one that make lots of fruit, more fruit year-after-year than other trees of the same variety in a particular grove. The most important question is why a tree is super. And secondly, can you make a copies of it? (I want one in my yard!) But before we look at [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/super-avocado-trees/">&#8220;Super&#8221; avocado trees</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/super-avocado-trees/>
+
+---
+
+## Avila Valley Barn: Farm-Fresh Snacks and Family Fun
+
+date: 2025-05-23, from: California Grown
+
+<p>Beloved by both locals and tourists, Avila Valley Barn is your go-to destination for locally-grown produce, farm-fresh snacks and family fun! Avila Valley Barn sprang to life during the eighties &#8211; a decade often associated with MTV, fluorescent fashions, and stacks of jelly bracelets…but farmstands? Not so much. Avila Valley Barn began in 1986, when [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/avila-valley-barn/" data-wpel-link="internal" target="_self">Avila Valley Barn: Farm-Fresh Snacks and Family Fun</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/avila-valley-barn/>
+
+---
+
+## 7 Ways You Can Turn Your Vegetable Garden into a Beautiful Work of Art
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+Landscape designer Christian Douglas teaches us how to mix in flavor with flair and create a beautiful vegetable garden. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/vegetable-garden-design-ideas>
+
+---
+
+## Keep an Eye out for These Summer Music Festivals Across the West
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+From Bottlerock to Hard Summer to Outside Lands, these are best summer music festivals in the West to add to your lineup. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-summer-music-festivals-in-the-west>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Sunset’s New Idea House in Palm Springs Is an Indoor-Outdoor Masterpiece and Open for Tours Now
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+Sunset’s latest Idea House in Palm Springs is a tribute to timeless design and visionary architecture, and it's open for tours. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses/sunset-idea-house-palm-springs-tours>
 
 ---
 
@@ -32,6 +108,18 @@ Here's everything our editor-in-chief got up to at the new show organized by onl
 <br> 
 
 <https://www.dwell.com/article/elegant-ashtrays-updated-usm-chairs-and-a-new-piercing-at-the-shelter-design-fair-9205bade>
+
+---
+
+## These Are the Memorial Day Weekend Sales You Don’t Want to Miss
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+These are the best deals to shop for your home, kitchen, and summer travel plans this Memorial Day weekend. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/memorial-day-weekend-sales-2025>
 
 ---
 
@@ -74,6 +162,18 @@ date: 2025-05-23, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/costco-tires-why-so-cheap/>
+
+---
+
+## These Are the Dirtiest Beaches on the West Coast
+
+date: 2025-05-23, from: Sunset Magazine - Living in the West
+
+Heal the Bay’s 2024-2025 annual Beach Report Card was released this week and we got a list of the dirtiest and cleanest beaches in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/dirtiest-beaches-west-coast-2024-2025>
 
 ---
 
@@ -242,18 +342,6 @@ The new ON Cloudzone shoes are the perfect pair of tennis shoes for summer trave
 <br> 
 
 <https://www.sunset.com/lifestyle/on-cloudzone-shoes-review>
-
----
-
-## These Are the Memorial Day Weekend Sales You Don’t Want to Miss
-
-date: 2025-05-22, from: Sunset Magazine - Living in the West
-
-These are the best deals to shop for your home, kitchen, and summer travel plans this Memorial Day weekend. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/memorial-day-weekend-sales-2025>
 
 ---
 
@@ -436,18 +524,6 @@ People are taking their organziational systems and turning them into statement p
 <br> 
 
 <https://www.sunset.com/home-garden/design/painted-statement-storage-trend>
-
----
-
-## Homepage 2025
-
-date: 2025-05-22, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -856,18 +932,6 @@ Located in Northern California and within a quick drive from San Francisco, thes
 
 ---
 
-## 7 Ways You Can Turn Your Vegetable Garden into a Beautiful Work of Art
-
-date: 2025-05-20, from: Sunset Magazine - Living in the West
-
-Landscape designer Christian Douglas teaches us how to mix in flavor with flair and create a beautiful vegetable garden. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/edible-gardening/vegetable-garden-design-ideas>
-
----
-
 ## A Spiky Jewelry "Box"—and More Unhinged Objects From North America’s Largest Furniture Fair
 
 date: 2025-05-20, from: Dwell
@@ -1206,18 +1270,6 @@ CDFA&#8217;s Office of Farm to Fork is pleased to announce that 12 projects acro
 
 ---
 
-## Sunset’s New Idea House in Palm Springs Is an Indoor-Outdoor Masterpiece and Open for Tours Now
-
-date: 2025-05-19, from: Sunset Magazine - Living in the West
-
-Sunset’s latest Idea House in Palm Springs is a tribute to timeless design and visionary architecture, and it's open for tours. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/idea-houses/sunset-idea-house-palm-springs-tours>
-
----
-
 ## 60 Types of Sparrows (With Pictures and Identification)
 
 date: 2025-05-19, from: Yard Life blog
@@ -1284,4 +1336,310 @@ date: 2025-05-18, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/herbs/grow-greek-oregano/>
+
+---
+
+## Learn When and How to Divide Hosta Plants
+
+date: 2025-05-17, from: The Gardener's Path
+
+<p>Hostas need dividing to look as good as possible. As they age, the center starts to look a bit shabby, yellowed, and sparse. They may even stop sending up those lovely flowers. By dividing them, they get a refresh. Plus, when you divide your hostas, you get new free plants out of the deal so you can expand your garden.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/divide-hostas/">Learn When and How to Divide Hosta Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/divide-hostas/>
+
+---
+
+## Waterfalls, Wildflowers, and Waves of Sand: 10 National Parks That Shine in Spring
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+From waterfalls to wildflowers, these Western national parks' landscapes are not to be missed in spring. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/best-national-parks-in-spring>
+
+---
+
+## The Ultimate Insider Guide to Joshua Tree and the High Desert
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+A local shares her tips on what to do, eat, drink, and see in Joshua Tree and the other High Desert communities. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/what-do-in-joshua-tree-high-desert>
+
+---
+
+## Where to See Some of Spring’s Most Spectacular Blooms in the West
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Spring in the West is nothing short of magical, with an explosion of color painting the landscape across the region. Here's where to visit. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/where-to-see-spring-blooms-in-the-west>
+
+---
+
+## How to Design a Perennial Garden
+
+date: 2025-05-17, from: The Gardener's Path
+
+<p>Perennial gardens feature plants that return each year, providing long-lasting color, fragrance, and texture without the need for replanting. With thoughtful planning, they can offer visual interest from spring through fall. Learn how to design and plant a perennial garden in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/design-perennial-garden/">How to Design a Perennial Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/design-perennial-garden/>
+
+---
+
+## Road Trips
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Outdoor Adventure
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Travel the West
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Gifts & Shopping
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Flowers & Plants
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## DIY Projects
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Wine & Drinks
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings>
+
+---
+
+## The Wines That Pair Best with Summer
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+The Sunset Wine Club features the best bottles in the West, perfectly paired with recipes in the magazine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/wine-club-pairings-home-and-design-issue-2025>
+
+---
+
+## ‘Bedscaping’ Is a Thing Now—Here’s How to Do It
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Bedscaping is a concept that focuses on elevating your bedroom to reflect your style and personality. Designers share how to do it. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/bedscaping-trend>
+
+---
+
+## Restaurants
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants>
+
+---
+
+## Recipes
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## From Maritime Decor to ‘Chateaucore’, These Are Summer’s Biggest Trends
+
+date: 2025-05-17, from: Sunset Magazine - Living in the West
+
+Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
+
+---
+
+## How to Identify and Control Squash Bugs
+
+date: 2025-05-17, from: The Gardener's Path
+
+<p>Are you struggling to combat a squash bug infestation in the garden? Anasa tristis is a pesky insect that resembles a stink bug in its adult stage, and these pests can cause damage and wilting in your squash plants and other edibles. In this guide we offer tips that can help to save your cucurbit harvest. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/squash-bugs-2/">How to Identify and Control Squash Bugs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/squash-bugs-2/>
 

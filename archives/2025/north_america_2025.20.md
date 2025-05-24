@@ -1,11 +1,63 @@
 ---
 title: north america
-updated: 2025-05-23 14:06:48
+updated: 2025-05-24 06:07:28
 ---
 
 # north america
 
-(date: 2025-05-23 14:06:48)
+(date: 2025-05-24 06:07:28)
+
+---
+
+## ICE Detains People After Immigration Court Hearings in Nationwide Operation
+
+date: 2025-05-23, from: Capital and Main
+
+<p>In San Diego, officers tried to arrest two men who weren’t the people they were looking for. One had a medical emergency.</p>
+<p>The post <a href="https://capitalandmain.com/ice-detains-people-after-immigration-court-hearings-in-nationwide-operation">ICE Detains People After Immigration Court Hearings in Nationwide Operation</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/ice-detains-people-after-immigration-court-hearings-in-nationwide-operation>
+
+---
+
+## Early Evening Roundup, May 23
+
+date: 2025-05-23, from: The Contrarian
+
+Featuring: Jen Rubin; Carron J. Phillips; Jehieli Luevanos-Ovalle; The Democracy Index; "Little Marco Goes to Congress"; The Democracy Movement; Jamie Schler; Ruben Bolling; and our Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/early-evening-roundup-may-23>
+
+---
+
+## The Democracy Index
+
+date: 2025-05-23, from: The Contrarian
+
+May 23, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-2cd>
+
+---
+
+## The Tea with April Ryan 05/22
+
+date: 2025-05-23, from: The Contrarian
+
+Rep. Ayanna Pressley and April Ryan spill the tea. Catch April every Thursday at 5pm ET 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164266241/6c7d6db3c79e6fcf70ff0c3311bd8e8b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164266241/6c7d6db3c79e6fcf70ff0c3311bd8e8b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-with-april-ryan-0522>
 
 ---
 
@@ -750,4 +802,28 @@ date: 2025-05-18, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-clear-skies-and-dirty-secrets/>
+
+---
+
+## SCOTUS Judo Flips Trump
+
+date: 2025-05-17, from: The Contrarian
+
+Publisher's Roundup, 18 
+
+<br> 
+
+<https://contrarian.substack.com/p/scotus-judo-flips-trump>
+
+---
+
+##  YOU LOVE TO SEE IT: Face Off At The Airport 
+
+date: 2025-05-17, from: The Lever News
+
+ Airport security gets less invasive, unemployment scores a boost, judgment day for jet fuel spill, and data trackers pay up.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-face-off-at-the-airport/>
 

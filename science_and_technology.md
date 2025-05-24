@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-05-23 14:06:50
+updated: 2025-05-24 06:07:30
 ---
 
 # science and technology
 
-(date: 2025-05-23 14:06:50)
+(date: 2025-05-24 06:07:30)
+
+---
+
+## A new PowerPC board with support for Amiga OS 4 and MorphOS is on its way
+
+date: 2025-05-23, from: OS News
+
+The Amiga, a once-dominant force in the personal computer world, continues to hold a special place in the hearts of many. But with limited next-gen hardware available and dwindling AmigaOS4 support, the future of this beloved platform seemed uncertain. That is, until four Dutch passionate individuals, Dave, Harald, Paul, and Marco, decided to take matters into their own hands. Driven by a shared love for the Amiga and a desire to see it thrive, they embarked on an ambitious project: to create a new, low-cost next-gen Amiga mainboard. ↫ Mirari&#8217;s Our Story page Experience has taught me to be&#8230; Careful of news of new hardware from the Amiga world, but for once I have strong reasons to believe this one is actually the real deal. The development story &#8211; from the initial KiCad renders to the first five, fully functional prototype boards &#8211; seems to be on track, software support for Amiga OS is in development, Linux is working great already, and since today, MorphOS also boots on the board. It&#8217;s called the Mirari, and it&#8217;s very Dutch. So, what are we looking at here? The Mirari is a micro-ATX board, sporting either a PowerPC T10x2 processor (2-4 e5500 cores) up to 1.5GHz or a PowerPC T2081 processor (4 dual-threaded e6500 cores with Altivec 2.0) up to 1.8GHz, both designed by NXP in The Netherlands. It supports DDR3 memory, PCIe 2.0 (3.0 for the 4x slot when using the T2081), SATA and NVMe, the usual array of USB 2.0 and 3.2 ports, audio jacks, Ethernet, and so on. No, this is not a massive powerhouse that can take on the latest x86 or ARM machines, but it&#8217;s more than enough to power Amiga OS 4 or MorphOS, and aims to be actually affordable. Being at the prototype stage means they&#8217;re not for sale quite yet, but the fact they have a 100% yield so far and are comfortable enough to send one of the prototypes to a MorphOS developer, who then got MorphOS booting rather quickly, is a good sign. I also like the focus on affordability, which is often a problem in the Amiga world. I hope they make it to production, because I want one real bad. 
+
+<br> 
+
+<https://www.osnews.com/story/142420/a-new-powerpc-board-with-support-for-amiga-os-4-and-morphos-is-on-its-way/>
+
+---
+
+## Google’s “AI” is convinced Solaris uses systemd
+
+date: 2025-05-23, from: OS News
+
+Who doesn&#8217;t love a bug bounty program? Fix some bugs, get some money &#8211; you scratch my back, I pay you for it. The CycloneDX Rust (Cargo) Plugin decided to run one, funded by the Bug Resilience Program run by the Sovereign Tech Fund. That is, until &#8220;AI&#8221; killed it. We received almost entirely AI slop reports that are irrelevant to our tool. It&#8217;s a library and most reporters didn&#8217;t even bother to read the rules or even look at what the intended purpose of the tool is/was. This caused a lot of extra work which is why we decided to abandon the program. Thanks AI. ↫ Lars Francke On a slightly related note, I had to do search the web today because I&#8217;m having some issues getting OpenIndiana to boot properly on my mini PC. For whatever reason, starting LightDM fails when booting the live USB, and LightDM&#8217;s log is giving some helpful error messages. So, I searched for "failed to get list of logind seats" openindiana, and Google&#8217;s automatic &#8220;AI Overview&#8221; &#8216;feature&#8217;, which takes up everything above the fold so is impossible to miss, confidently told me to check the status of the logind service&#8230; With systemctl. We&#8217;ve automated stupidity. 
+
+<br> 
+
+<https://www.osnews.com/story/142423/googles-ai-is-convinced-solaris-uses-systemd/>
+
+---
+
+## Home Assistant deprecates Core and Supervised installation methods and 32bit systems
+
+date: 2025-05-23, from: OS News
+
+We are today officially deprecating two installation methods and three legacy CPU architectures. We always strive to have Home Assistant run on almost anything, but sometimes we must make difficult decisions to keep the project moving forward. Though these changes will only affect a small percentage of Home Assistant users, we want to do everything in our power to make this easy for those who may need to migrate. ↫ Franck Nijhof on the Home Assistant blog Home Assistant is quite popular among the kind of people who read OSNews, and this news might actually hit our little demographic particularly hard. The legacy CPU architectures they&#8217;re removing support for won&#8217;t make much of a difference, as we&#8217;re talking 32bit x86 and 32bit ARM, although that last one does include version 1 and 2 of the Raspberry Pi, which were quite popular at the time. Do check to make sure you&#8217;re not running your Home Assistant installation on one of those. The bigger hit is the deprecation of two installation methods: Home Assistant Core and Home Assistant&#8217;s Supervised installation method. In Core, you&#8217;re running it in a Python environment, and with Supervised, you&#8217;re installing the various components that make up Home Assistant manually. Supervised is used to install Home Assistant on unsupported operating systems, like the various flavours of BSD. What this means is that if you are running Home Assistant on, say, OpenBSD, you&#8217;re going to have to migrate soon. Apparently, these installation methods are not used very often, and are difficult for Home Assistant to support. These changes do not mean you can no longer perform these installation methods; it just means they are not supported, will be removed from the documentation, and new issues with these methods will not be accepted. Of course, anyone is free to take over hosting any documentation and guides, as Home Assistant is open source. Home Assistant generally wants you to use Home Assistant OS, which is basically a Linux distribution designed to run Home Assistant, either on real hardware (which is what I do, on an x86 thin client) or in a container. 
+
+<br> 
+
+<https://www.osnews.com/story/142421/home-assistant-deprecates-core-and-supervised-installation-methods-and-32bit-systems/>
 
 ---
 
@@ -1842,4 +1878,40 @@ date: 2025-05-18, updated: 2025-05-18, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/18/apple_accessibility_features_2025/>
+
+---
+
+## Boffins devise technique that lets users prove location without giving it away
+
+date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
+
+<h4>ZKLP system allows apps to confirm user presence in a region without exposing exactly where</h4> <p>Computer scientists from universities in Germany, Hong Kong, and the United Kingdom have proposed a way to provide verifiable claims about location data without surrendering privacy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/17/privacy_preserving_location_sharing/>
+
+---
+
+## No-boom supersonic flights could slide through US skies soon
+
+date: 2025-05-17, updated: 2025-05-18, from: The Register (UK I.T. News)
+
+<h4>As long as you&#39;re quiet about it</h4> <p><strong>Feature</strong>  This week, a bipartisan bill was introduced that would allow supersonic flight over the continental US for the first time in 52 years, as long as they&#39;re quiet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/17/faa_supersonic_law/>
+
+---
+
+## Google backs down after locking out Nextcloud Files app
+
+date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
+
+<h4>Search giant to restore critical Android permission after user outcry</h4> <p>In a turn of events to warm our withered hearts, Google has offered to restore the permission that was revoked from Nextcloud&#39;s Files app for Android.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/17/google_nextcloud_android_permission/>
 

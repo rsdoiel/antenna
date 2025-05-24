@@ -1,11 +1,23 @@
 ---
 title: snapshots
-updated: 2025-05-23 14:06:56
+updated: 2025-05-24 06:07:39
 ---
 
 # snapshots
 
-(date: 2025-05-23 14:06:56)
+(date: 2025-05-24 06:07:39)
+
+---
+
+## Black Mirror was a warmup act
+
+date: 2025-05-23, from: Gary Marcus blog
+
+Breaking, worrisome news 
+
+<br> 
+
+<https://garymarcus.substack.com/p/black-mirror-was-a-warmup-act>
 
 ---
 
@@ -61,16 +73,6 @@ date: 2025-05-23, from: Liliputing
 
 **@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
 
-Brent Simmons: My Wildly Incorrect Bias About Corporate Engineers. 
-
-<br> 
-
-<https://inessential.com/2025/05/23/love_letter.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-05-23, from: Dave Winer's linkblog)
-
 What does Jony Ive actually do? He doesn’t seem like a software developer, yet he was somehow put in charge of software at Apple and now is going to do the software design at OpenAI? Really? Or is this just a multi billion dollar press release? 
 
 <br> 
@@ -86,6 +88,65 @@ Why Is Cancer Drug Revlimid So Expensive?
 <br> 
 
 <https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma>
+
+---
+
+## My Wildly Incorrect Bias About Corporate Engineers
+
+date: 2025-05-23, from: Innessential (Brint Simmons' blog)
+
+<p>
+<p>Before I went to work for Audible (five years ago now — time flies!) I had a bias about engineers that worked for large corporations. I assumed that they weren’t as good as indies and engineers at small companies, or else they’d actually <em>be</em> indies or work at small shops like Omni.</p>
+
+<p>Obviously I knew there had to be exceptions, particularly at Apple, or else we wouldn’t have had great things like AppKit and UIKit and everything else we’ve built on over these years. But the bias persisted.</p>
+
+<p style="text-align:center">* * *</p>
+
+<p>Before Audible, the largest company I’d ever worked at (Newsgator) had just over 100 people. When I worked at Omni it had roughly half that number.</p>
+
+<p>I’ve spent half my career working at even smaller companies, with just me and Sheila (Ranchero Software) or at places with three people (Q Branch) or like six people (UserLand Software).</p>
+
+<p>And of course I was arrogant enough to think that I was better — much better — than any corporate engineer. While a corporate engineer might own some small part of an app or framework — or just a single button, as the (lame) joke went back in the day — I was shipping entire apps on my own or with a very small team. Popular, valuable, newsworthy apps that people loved.</p>
+
+<p>And I wasn’t the only one: think of <a href="https://flyingmeat.com/">Flying Meat</a>, <a href="https://rogueamoeba.com/">Rogue Amoeba</a>, <a href="https://www.barebones.com/">Bare Bones</a>, <a href="https://redsweater.com/">Red Sweater</a>, <a href="https://iconfactory.com/">The Iconfactory</a> and many more.</p>
+
+<p style="text-align:center">* * *</p>
+
+<p>And so I learned very quickly when I started at Audible that I was <em>very</em> wrong. I was impressed, and grew more impressed as time went on, by my fellow engineers’ rigor, talent, professionalism, care, and, especially, ability to work with other people toward common goals.</p>
+
+<p>While I’m the die-hard introvert who just wants to go into a room and sit in front of a Mac and write some code and get things done, I learned that my co-workers — even if they, like me, kinda just wanted to sit and write code — were great at app development as a team sport. I was impressed with how they wanted to grow and did grow — always leveling-up their individual skills <em>and</em> their ability to work on a team and across teams.</p>
+
+<p>And what a team it was! It’s not a new observation, but the indies I mentioned above, and the ones I didn’t, tend to be white men born in the United States — the people who could most afford to fail, in other words, because for them (for me, absolutely) there’s <em>always</em> another opportunity.</p>
+
+<p>My team didn’t look like that — it was quite a contrast with my previous experience. Many more women, people of color, people born outside the United States. (But note that there’s always more progress to be made!)</p>
+
+<p>The engineers on my team could write apps as well, if not <em>better</em> in many cases, than the indies I know. And the ones who aren’t quite there yet — well, just give them a little more time. They’ve all given me reason to believe in them.</p>
+
+<p>I regret my bias about engineers working in corporate environments, and I’m so glad I learned the truth almost from day one on starting at Audible.</p>
+
+<p style="text-align:center">* * *</p>
+
+<p>For a couple years I did a lot of hiring — a lot of interviews — at Audible. And I noticed something: there was a strong correlation between being hirable and having worked with other people.</p>
+
+<p>The folks who’d worked largely by themselves, or on just one small team, weren’t as good candidates as the folks who’d worked with more people. This, of course, went against my original bias that indies are the best engineers — but by then I knew that a candidate who’d worked with lots of other people had been exposed to more code, more dilemmas, more challenges (technical and human), and they were not just more ready to work on a larger team but more knowledgeable. Even their individual skills were greater.</p>
+
+<p>Advice time: if you’re a newer engineer, find ways to work with other people. Not just because you’re more likely to get hired at a place like Audible — but because, no matter where you want to work, you’ll be better at it.</p>
+
+<p>You can’t just sit alone in front of your computer all day and write code and expect to be a great engineer.</p>
+
+<p>Lesson learned!</p>
+
+<p style="text-align:center">* * *</p>
+
+<p>With retirement imminent — this is my last job, and June 6 is my last day (maybe I’ve buried the lede here) — I want to thank my team publicly for how they’ve made me a better engineer and, more importantly, a better person. From the bottom of my heart.</p>
+
+<p>I learned more from them than I could ever have taught; I got the better part of this deal.</p>
+
+<p>Thank you, team! So much. ❤️</p> 
+
+<br> 
+
+<https://inessential.com/2025/05/23/love_letter.html>
 
 ---
 
@@ -2964,4 +3025,223 @@ date: 2025-05-18, from: Programmer's Toolbox (Paolo Pinto's blog)
 <br> 
 
 <http://www.progtools.org/blog.php?entry=20250518>
+
+---
+
+## Acer Aspire 14 AI laptops come with Intel, AMD, and Qualcomm processor options
+
+date: 2025-05-17, from: Liliputing
+
+<p>For the past few decades most laptop and desktop computers that ship with Windows software have featured Intel or AMD processors. That changed last year when Qualcomm launched its Snapdragon X line of chips for Windows PCs. While laptops with these ARM-based processors still aren&#8217;t as common as models with x86_64 chips, just about every [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-aspire-14-ai-laptops-come-with-intel-amd-and-qualcomm-processor-options/">Acer Aspire 14 AI laptops come with Intel, AMD, and Qualcomm processor options</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-aspire-14-ai-laptops-come-with-intel-amd-and-qualcomm-processor-options/>
+
+---
+
+## Datasette ecosystem poster for PyCon US
+
+date: 2025-05-17, updated: 2025-05-17, from: Simon Willison’s Weblog
+
+<p>In addition to <a href="https://simonwillison.net/2025/May/15/building-on-llms/">my workshop the other day</a> I'm also participating in the <a href="https://us.pycon.org/2025/schedule/posters/list/">poster session</a> at PyCon US this year.</p>
+<p>This means that tomorrow (Sunday 18th May) I'll be hanging out next to my poster from 10am to 1pm in Hall A talking to people about my various projects.</p>
+<p>I'll confess: I didn't pay close enough attention to the poster information, so when I first put my poster up it looked a little small:</p>
+<p><img alt="My Datasette poster on a huge black poster board. It looks a bit lonely in the middle surrounded by empty space." src="https://static.simonwillison.net/static/2025/poster-before.jpg" /></p>
+<p>... so I headed to the nearest CVS and printed out some photos to better represent my interests and personality. I'm going for a "teenage bedroom" aesthetic here, I'm very happy with the result:</p>
+<p><img alt="My Datasette poster is now surrounded by nearly 100 photos - mostly of pelicans, SVGs of pelicans and niche museums I've been to." src="https://static.simonwillison.net/static/2025/poster-after.jpg" /></p>
+<p>Here's the poster in the middle (also available <a href="https://static.simonwillison.net/static/2025/datasette-poster-v2.pdf">as a PDF</a>). It has columns for <a href="https://datasette.io/">Datasette</a>, <a href="https://sqlite-utils.datasette.io/">sqlite-utils</a> and <a href="https://llm.datasette.io/">LLM</a>.</p>
+<p><img id="datasette-poster" alt="Datasette: An ecosystem of tools for finding stories in data. Three projects: Datasette is a tool for exploring and publishing data. It helps data journalists (and everyone else) take data of any shape, analyze and explore it, and publish it as an interactive website and accompanying API. There's a screenshot of the table interface against a legislators table. Datasette has over 180 plugins adding features for visualizing, editing and transforming data. datasette-cluster-map, datasette-graphql, datasette-publish-cloudrun, datasette-comments, datasette-query-assistant, datasette-extract. datasette.io. sqlite-utils is a Python library and CLI tool for manipulating SQLite databases. It aims to make the gap from “I have data” to “that data is in SQLite” as small as possible. There's a code example showing inserting three chickens into a database and configuring full-text search. And in the terminal: sqlite-utils transform places.db roadside_attractions  --rename pk id  --default name Untitled  --drop address.  sqlite-utils.datasette.io. LLM is a Python library and CLI tool for interacting with Large Language Models. It provides a plugin-based abstraction over hundreds of different models, both local and hosted, and logs every interaction with them to SQLite. LLMs are proficient at SQL and extremely good at extracting structured data from unstructured text, images and documents. LLM’s asyncio Python library powers several Datasette plugins, including datasette-query-assistant, datasette-enrichments and datasette-extract. llm.datasette.io" src="https://static.simonwillison.net/static/2025/poster.jpg" style="max-width: 100%;"></p>
+<p>If you're at PyCon I'd love to talk to you about things I'm working on!</p>
+<p><strong>Update</strong>: Thanks to everyone who came along. Here's a <a href="https://static.simonwillison.net/static/2025/poster-full-size.jpeg">6MB photo of the poster setup</a>. The museums were all from my <a href="https://www.niche-museums.com/">www.niche-museums.com</a> site and the pelicans riding a bicycle SVGs came from my <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">pelican-riding-a-bicycle tag</a>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/pycon">pycon</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/sqlite-utils">sqlite-utils</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/museums">museums</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/17/pycon-poster/#atom-everything>
+
+---
+
+## Self-modern, post-parody
+
+date: 2025-05-17, from: Gary Marcus blog
+
+You can&#8217;t make this stuff up 
+
+<br> 
+
+<https://garymarcus.substack.com/p/self-modern-post-parody>
+
+---
+
+## My 2025 SMPA Commencement Address
+
+date: 2025-05-17, from: Dave Karpf's blog
+
+This is GWU&#8217;s commencement weekend. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/my-2025-smpa-commencement-address>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+Jeff Bezos Abandons Khashoggi to Cut Deal With MBS. 
+
+<br> 
+
+<https://www.status.news/p/jeff-bezos-jamal-khashoggi-saudi-arabia-ai-deal?_bhlid=6cdbbbf4abc107e223b48b4db2d781e36e8a349d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+My favorite play from last night’s game. Mitchell Robinson corners Jaylen Brown, locks him down, then steals the ball. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=jm_X54haz-g>
+
+---
+
+## LILYGO T-LoRa Pager is an ESP32-powered communications device with LoRa, NFC, and GPS
+
+date: 2025-05-17, from: Liliputing
+
+<p>Pagers may have largely gone out of fashion in the age of the smartphone, but the T-LoRa Pager from LILYGO puts a modern spin on the class communications device. It&#8217;s a portable device with a 2.33 inch widescreen display, a thumb keyboard for tapping out messages, and support for LoRa, NFC, and GPS (GNSS), theoretically [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilygo-t-lora-pager-is-an-esp32-powered-communications-device-with-lora-nfc-and-gps/">LILYGO T-LoRa Pager is an ESP32-powered communications device with LoRa, NFC, and GPS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilygo-t-lora-pager-is-an-esp32-powered-communications-device-with-lora-nfc-and-gps/>
+
+---
+
+## The Universe Will Decay a Lot Sooner than Expected
+
+date: 2025-05-17, from: 404 Media Group
+
+This week, we have stories about wild horses, wild chimps, and wild cosmic deaths. 
+
+<br> 
+
+<https://www.404media.co/the-universe-will-decay-a-lot-sooner-than-expected/>
+
+---
+
+## django-simple-deploy
+
+date: 2025-05-17, updated: 2025-05-17, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://django-simple-deploy.readthedocs.io/">django-simple-deploy</a></strong></p>
+Eric Matthes presented a lightning talk about this project at PyCon US this morning. "Django has a deploy command now". You can run it like this:</p>
+<pre><code>pip install django-simple-deploy[fly_io]
+# Add django_simple_deploy to INSTALLED_APPS.
+python manage.py deploy --automate-all
+</code></pre>
+<p>It's plugin-based (<a href="https://github.com/django-simple-deploy/django-simple-deploy/issues/313">inspired by Datasette!</a>) and the project has stable plugins for three hosting platforms: <a href="https://github.com/django-simple-deploy/dsd-flyio">dsd-flyio</a>, <a href="https://github.com/django-simple-deploy/dsd-heroku">dsd-heroku</a> and <a href="https://github.com/django-simple-deploy/dsd-platformsh">dsd-platformsh</a>.</p>
+<p>Currently in development: <a href="https://github.com/django-simple-deploy/dsd-vps">dsd-vps</a> - a plugin that should work with any VPS provider, using <a href="https://www.paramiko.org/">Paramiko</a> to connect to a newly created instance and <a href="https://github.com/django-simple-deploy/dsd-vps/blob/a372fc7b7fd31cd2ad3cf22d68b9c9fecb65d17a/dsd_vps/utils.py">run all of the commands</a> needed to start serving a Django application.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/fly">fly</a>, <a href="https://simonwillison.net/tags/heroku">heroku</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/django">django</a>, <a href="https://simonwillison.net/tags/paramiko">paramiko</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/17/django-simple-deploy/#atom-everything>
+
+---
+
+## Tariffs: Now What?
+
+date: 2025-05-17, from: Paul Krugman
+
+A conversation with Joey Politano 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/tariffs-now-what>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+The Knicks’ transition from laughing stock to title contenders is complete. 
+
+<br> 
+
+<https://feedland.org/?item=24131660>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+The Knicks’ transition from laughing stock to title contenders is complete. 
+
+<br> 
+
+<https://feedland.org/?item=24131657>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+The Knicks’ transition from laughing stock to title contenders is complete. 
+
+<br> 
+
+<https://www.aol.co.uk/sport/knicks-transition-laughing-stock-title-080003379.html>
+
+---
+
+## Of Jews, rats and Gary Lineker
+
+date: 2025-05-17, from: Howard Jacobson blog
+
+Whereof one knows nothing, thereof one must remain silent 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/of-jews-rats-and-gary-lineker>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-17, from: Dave Winer's linkblog)
+
+Knicks blow out Celtics to advance to first East finals since 2000. 
+
+<br> 
+
+<https://sports.yahoo.com/article/rampant-knicks-blow-celtics-advance-030444350.html>
+
+---
+
+## Why is Pacifica so Unpopular?
+
+date: 2025-05-17, from: Peter Warden
+
+Not long after I&#8217;d first moved to San Francisco, I had a friend from the UK visit. My apartment overlooked the N Judah tram line, and seeing the &#8220;Ocean Beach&#8221; destination board on the trains made her want to check it out. So one day, when it was sunny and warm in Duboce Triangle, so [&#8230;] 
+
+<br> 
+
+<https://petewarden.com/2025/05/17/why-is-pacifica-so-unpopular/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-17, from: Feed for Alt USDS)
+
+While Trump flies around on a foreign government’s jet and plans a $700 million parade, everyday Americans are losing healthcare and public workers are being laid off. 
+
+📫 Check out our latest newsletter: https://bit.ly/4j6CVqQ
+
+ #WeTheBuilders #RebuildGovernment 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lpditkmm7i25>
 
