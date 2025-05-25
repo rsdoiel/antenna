@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-05-25 06:08:10
+updated: 2025-05-25 14:07:49
 ---
 
 # journalism
 
-(date: 2025-05-25 06:08:10)
+(date: 2025-05-25 14:07:49)
+
+---
+
+## Gallery: Night of Cultura 2025 captures Latin American culture through art, performance
+
+date: 2025-05-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA’s Latine Film and Theatre Association hosted its annual Night of Cultura showcase April 18 and 19, presenting student-produced plays and films. The LFTA was founded in 2004 and has continued to produce plays and films highlighting Latinx culture. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/25/gallery-night-of-cultura-2025-captures-latin-american-culture-through-art-performance/>
+
+---
+
+## Water plays an unexpected role in powering AI
+
+date: 2025-05-25, from: The Canyon News (COC Student Newspaper)
+
+<p>It feels like magic. Type a prompt, get an instant answer. But&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/ai-server-farms/">Water plays an unexpected role in powering AI </a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/ai-server-farms/>
 
 ---
 

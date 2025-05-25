@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-05-25 06:08:12
+updated: 2025-05-25 14:07:51
 ---
 
 # motorcycles
 
-(date: 2025-05-25 06:08:12)
+(date: 2025-05-25 14:07:51)
+
+---
+
+## The Fastest MotoGP Racer Ever Could Now Be Yours
+
+date: 2025-05-25, from: Ride Apart, Electric Motorcycle News
+
+Assuming you’ve got half-a-million bucks burning a gaping hole through your checkbook.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760489/2023-ktm-rc16-auction-rm-sothebys/>
 
 ---
 

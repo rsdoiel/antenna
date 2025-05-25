@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-25 06:08:11
+updated: 2025-05-25 14:07:50
 ---
 
 # libraries
 
-(date: 2025-05-25 06:08:11)
+(date: 2025-05-25 14:07:50)
 
 ---
 
@@ -30,6 +30,18 @@ Cheng, Hsu-Cheng; Nguyen, Lu Trong Khiem; Kochmann, Dennis M.; Cheng, Hsu-Cheng
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737579>
+
+---
+
+## Multifunctional Electromagnetic Navigation Systems
+
+date: 2025-05-25, from: ETH Zurich, recently added
+
+von Arx, Denis 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/737586>
 
 ---
 
@@ -162,6 +174,18 @@ Ballo, Lukas; Cardoso, Matias
 <br> 
 
 <http://hdl.handle.net/20.500.11850/736872>
+
+---
+
+## Bibliothek der Zukunft - Zukunft der Bibliothek
+
+date: 2025-05-21, from: ETH Zurich, recently added
+
+Edinger, Eva-Christina 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/737587>
 
 ---
 

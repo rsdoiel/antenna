@@ -1,11 +1,28 @@
 ---
 title: columns
-updated: 2025-05-25 06:08:09
+updated: 2025-05-25 14:07:47
 ---
 
 # columns
 
-(date: 2025-05-25 06:08:09)
+(date: 2025-05-25 14:07:47)
+
+---
+
+## Pete Rose
+
+date: 2025-05-25, from: Dave Winer's Scripting News
+
+<p>It was so predictable. Shortly after Pete Rose died, baseball <a href="https://sports.yahoo.com/article/calls-escalate-against-rob-manfred-220702792.html">rescinded his lifetime ban</a>, and <a href="https://www.google.com/search?q=May+13%2C+2025%2C+Manfred+instituted+a+change">now he can</a> be <a href="https://www.google.com/search?q=pete+rose+hall+of+fame+induction">inducted</a> into the Hall of Fame. </p>
+<p>He had <a href="https://en.wikipedia.org/wiki/Pete_Rose#Records_and_achievements">more hits</a> than any baseball player ever. </p>
+<p>A role model in so many ways, and like all heroes he had fatal flaws. You may think he set a bad example for kids, but I say the opposite. You don't give kids enough credit. What he taught was that a man with average athletic ability could will himself to achieve. </p>
+<p>I grew up with a Pete Rose ethos, why shouldn't I go for it all? I feel so sad that he couldn't have gotten the acceptance he so totally deserved. How could we not forgive him? He was Charlie Hustle! <span class="spOldSchoolEmoji">❤️</span></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="//s3.amazonaws.com/scripting.com/images/2025/05/25/peteRose.png"></center><a href="https://en.wikipedia.org/wiki/Pete_Rose">Pete Rose</a> was <a href="https://www.espn.com/classic/biography/s/rosepete000824.html">Charlie Hustle</a>.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/25/155507.html?title=peteRose>
 
 ---
 
@@ -124,7 +141,7 @@ date: 2025-05-24, from: Heather Cox Richardson blog
 
 ## ★ Idiocy or Jackassery, You Make the Call: Tripp Mickle on Whether Trump’s ‘Made in America’ iPhone Is a Fantasy
 
-date: 2025-05-24, updated: 2025-05-24, from: Daring Fireball
+date: 2025-05-24, updated: 2025-05-25, from: Daring Fireball
 
 My chances of ever landing a job at The New York Times continue to sink. 
 

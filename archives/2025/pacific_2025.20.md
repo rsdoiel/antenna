@@ -1,11 +1,108 @@
 ---
 title: pacific
-updated: 2025-05-25 06:08:07
+updated: 2025-05-25 14:07:46
 ---
 
 # pacific
 
-(date: 2025-05-25 06:08:07)
+(date: 2025-05-25 14:07:46)
+
+---
+
+## UH Mānoa NROTC commissions 1st Marine Corps officers
+
+date: 2025-05-25, from: University of Hawaiʻi News
+
+<p>The commissioning ceremony was held aboard the <abbr>USS</abbr> Missouri on May 22.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/25/nrotc-1st-marine-corps-officers/"><abbr>UH</abbr> Mānoa <abbr>NROTC</abbr> commissions 1st Marine Corps officers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/25/nrotc-1st-marine-corps-officers/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Trump threatens new tariffs on European Union and Apple, reigniting trade fears
+
+date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
+
+BRUSSELS/BANFF, Canada/THE HAGUE (Reuters) — President Donald Trump threatened on Friday to ratchet up his trade war again, pushing for a 50% tariff on European Union goods starting June 1 and warning Apple he may slap a 25% levy on all imported iPhones bought by U.S. consumers. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/trump-threatens-new-tariffs-on-european-union-and-apple-reigniting-trade-fears/article_990f29d7-f7cd-42b4-b6a7-c6179121b176.html>
+
+---
+
+## ‘Honey Don’t!’ noir brings Ethan Coen's inventive violence to Cannes
+
+date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
+
+CANNES, France (Reuters) — Ethan Coen, one half of the renowned Coen brothers, had to get even more creative when imagining how to kill off characters for “Honey Don't!,” his new spin on 1940s LA noir starring Margaret Qualley. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/honey-don-t-noir-brings-ethan-coens-inventive-violence-to-cannes/article_94ff9603-c049-44c0-afbf-e6fdf9ef8c06.html>
+
+---
+
+## ‘It Was Just An Accident’ by Iran's Jafar Panahi wins Cannes' top prize
+
+date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
+
+CANNES, France (Reuters) — Revenge thriller "It Was Just An Accident" by Iranian director Jafar Panahi, who was barred from filmmaking for 15 years by the government in Tehran, won the Palme d'Or top prize on Saturday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/it-was-just-an-accident-by-irans-jafar-panahi-wins-cannes-top-prize/article_91da8b2c-8fcc-4483-bfb1-3ae433ba9f1c.html>
+
+---
+
+## Atkins Kroll Saipan dedicates parking stall to honor active military and veterans
+
+date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
+
+IN a heartfelt show of appreciation for those who serve and have served in the U.S. armed forces, Atkins Kroll Saipan has unveiled a dedicated parking stall reserved exclusively for active military personnel and veterans. The gesture, while small in form, carries significant meaning in the company’s continued commitment to honoring the men and women who protect our freedoms. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/atkins-kroll-saipan-dedicates-parking-stall-to-honor-active-military-and-veterans/article_2513a930-f7c2-4688-9c6c-f0230369b00d.html>
+
+---
+
+## Poetry
+
+date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_24f3482e-c2bd-4731-a7af-7a59b87f08da.html>
+
+---
+
+## The center lane is not your chill zone
+
+date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
+
+HAVE you noticed our newly paved roads and freshly painted lanes? Beautiful, right? Especially that shiny center lane. Too bad some folks are treating it like their personal freeway. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/the-center-lane-is-not-your-chill-zone/article_faf7850d-12e4-42e7-a69b-29db30fabd1f.html>
 
 ---
 
@@ -1467,18 +1564,6 @@ The post <a href="https://www.hawaii.edu/news/2025/05/21/image-of-the-week-worth
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/21/image-of-the-week-worth-it/>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-05-21, updated: 2025-05-21, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

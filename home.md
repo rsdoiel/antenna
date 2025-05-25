@@ -1,11 +1,40 @@
 ---
 title: home
-updated: 2025-05-25 06:08:12
+updated: 2025-05-25 14:07:51
 ---
 
 # home
 
-(date: 2025-05-25 06:08:12)
+(date: 2025-05-25 14:07:51)
+
+---
+
+## When and How to Prune Conifers
+
+date: 2025-05-25, from: The Gardener's Path
+
+<p>Conifers don't usually need as much pruning as some deciduous trees, but sometimes they need some maintenance. Whether you want to provide shape or you need to remove a troublesome branch, and whether you're working with a newly-planted or well-established plant, we'll explain the right method for trimming your conifer.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/prune-conifers/">When and How to Prune Conifers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/prune-conifers/>
+
+---
+
+## 21 Types of Scorpions in Texas (With Pictures and Identification)
+
+date: 2025-05-25, from: Yard Life blog
+
+<p>Scorpions in Texas are a fascinating and often misunderstood part of the state&#8217;s diverse ecosystem. With Texas spanning deserts, grasslands, ... </p>
+<p class="read-more-container"><a title="21 Types of Scorpions in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/21-types-of-scorpions-in-texas-with-pictures-and-identification/#more-28805" aria-label="Read more about 21 Types of Scorpions in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-types-of-scorpions-in-texas-with-pictures-and-identification/">21 Types of Scorpions in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/21-types-of-scorpions-in-texas-with-pictures-and-identification/>
 
 ---
 

@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-05-25 06:08:13
+updated: 2025-05-25 14:07:52
 ---
 
 # retro computing
 
-(date: 2025-05-25 06:08:13)
+(date: 2025-05-25 14:07:52)
+
+---
+
+## New from Kevin Wells – KHolidays
+
+date: 2025-05-25, from: RiscOS Story
+
+Expanding his range of applications that use Wget as a way to allow RISC OS users to look things up online without having to worry about whether their web browser will be able to cope with the website, Kevin Wells has released KHolidays. The purpose of the application is to find the dates of public holidays, and it&#8217;s able to do so for 115 different countries, showing the dates for the twelve months from the chosen date &#8211; with a date range that covers the last five years as well&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/kholidays-released/>
+
+---
+
+## Datamost Nightraiders
+
+date: 2025-05-25, from: Computer ads from the Past
+
+Day Must Turn to Night Before Mankind Dares to Fight 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/datamost-nightraiders>
+
+---
+
+## b.log 2025/05/25 - Taxes, Waste treatment audit, Mowing and hair, Labour really are SCUM, A free microwave!, How do I feel?, RPCEmu, Tea v0.21, SimpleSeq v0.30.
+
+date: 2025-05-25, from: Richard Murray's blog
+
+Taxes, Waste treatment audit, Mowing and hair, Labour really are SCUM, A free microwave!, How do I feel?, RPCEmu, Tea v0.21, SimpleSeq v0.30. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250525>
+
+---
+
+## Morphix – the latest title from AMCOG
+
+date: 2025-05-25, from: RiscOS Story
+
+Initially launched at RISC OS North at the end of March, the latest new title added to AMCOG&#8217;s ever increasing range is Morphix, and it is now available to purchase online via !Store. Morphix is a puzzle game played on a scrolling isometric 3D play area, in which you must move blocks around to guide the titular Morphix to a door in order that they can escape &#8211; but there&#8217;s a little more to it than that, of course. You can&#8217;t directly control the Morphix, they have a mind of&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/morphix-game-amcog/>
 
 ---
 
@@ -1147,17 +1195,23 @@ We'll sort it to the top, as appropriate for the hundreds and thousands of no pe
 
 We'll then add links to the Floodgap web server ...
 
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZKEbuyIkT3E4YsJFpxUr3cFX-uoLPY56wXqXFU70IcUZkiosjb5uuKNo3IP12aTtVLjZuYXH00CGvnrZ3I0KaidpxmGd43gatSb3Gt5D0bb8fJLpxAvB0TtAI42x1Se0r1iwGqyYGc9NuBCvY2Z3xeRD45Dem3m_es6iLoEAYxOI4gAFOcUwvv2qyOsQ/s1024/harmony34.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZKEbuyIkT3E4YsJFpxUr3cFX-uoLPY56wXqXFU70IcUZkiosjb5uuKNo3IP12aTtVLjZuYXH00CGvnrZ3I0KaidpxmGd43gatSb3Gt5D0bb8fJLpxAvB0TtAI42x1Se0r1iwGqyYGc9NuBCvY2Z3xeRD45Dem3m_es6iLoEAYxOI4gAFOcUwvv2qyOsQ/s320/harmony34.xwd.png"/></a></div>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9aCLzESqIB9B_gYnvOkIlKnk4r8myn1QKdZIhoQDPNuj-ZKRbvD4k-KayrgJPz4-mwGQRdVDt4NY7ain85cyrE9EGVfyIa1kRbfdDvs-pOV9vwOqRKJOGIHsgmmekhm1yp1tgiK8C495ejBSf1ZqO3hI2I2swgDX4AaiaWraEcBeu2IrpVoyiPYWApM/s1024/hgoph00.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9aCLzESqIB9B_gYnvOkIlKnk4r8myn1QKdZIhoQDPNuj-ZKRbvD4k-KayrgJPz4-mwGQRdVDt4NY7ain85cyrE9EGVfyIa1kRbfdDvs-pOV9vwOqRKJOGIHsgmmekhm1yp1tgiK8C495ejBSf1ZqO3hI2I2swgDX4AaiaWraEcBeu2IrpVoyiPYWApM/s320/hgoph00.xwd.png"/></a></div>
 
-... and the Floodgap gopher server. Because Hyper-G knows what these protocols are, they each get options appropriate to them (such as, with Gopher, the selector). Also, notice that both of these resources could be inserted with their own Rights attached.
+... and the Floodgap gopher server. Because Hyper-G knows what these protocols are, they each get options appropriate to them (such as, with Gopher, the selector and item type, though only a limited number are supported &mdash; hold that thought). Also, notice that both of these resources could be inserted with their own Rights attached. 
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-613tyIgcz6I-ipojJB8xEPpv2Bd5fnJb2EJK5B298g-tL0ZFxhs4adc5FQpQ2m76kVluh8hmkxWTSjVgkEmroJiDKYn0QaE8-IkfFfsqP1VFoNlLT0nl0Szz02fcDFMvXMzjul_5KX72vvaB0LRJZ2e4akap0pcEf9Kh2g_qS_BkjMxnu2Uafn_HMbM/s1024/harmony35.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-613tyIgcz6I-ipojJB8xEPpv2Bd5fnJb2EJK5B298g-tL0ZFxhs4adc5FQpQ2m76kVluh8hmkxWTSjVgkEmroJiDKYn0QaE8-IkfFfsqP1VFoNlLT0nl0Szz02fcDFMvXMzjul_5KX72vvaB0LRJZ2e4akap0pcEf9Kh2g_qS_BkjMxnu2Uafn_HMbM/s320/harmony35.xwd.png"/></a></div>
 
 The reason is because when you access them with a Hyper-G client, the server itself fetches the content, and pulls it through. This only sort of works for Web sites ...
 
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQaSxXP3Eu4zLtXhsGElFAEgcIM0El5HdeNz6IH-oPPqcmcAF6eQjACWKYum9K0e4OU6GuX20E-Mn7dl2SLFwT5QrtJl0VSdNJqlojWjm4KD_h08oIHhZuEk03UaDUgx_nxG36N-H0ToE3jILROP_umnddSv4YMetYdnNZdTcv9oECKXoWki1_o_qGYAg/s1024/harmony36.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQaSxXP3Eu4zLtXhsGElFAEgcIM0El5HdeNz6IH-oPPqcmcAF6eQjACWKYum9K0e4OU6GuX20E-Mn7dl2SLFwT5QrtJl0VSdNJqlojWjm4KD_h08oIHhZuEk03UaDUgx_nxG36N-H0ToE3jILROP_umnddSv4YMetYdnNZdTcv9oECKXoWki1_o_qGYAg/s320/harmony36.xwd.png"/></a></div>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFHsMljKDqqzKFTnPCOxlHv_r5sNCmLBDOMXkgRk-JqDS9cvxts-A-vdCjNiNnYYI7tdApLMwBcX3-J8fhh6Hlua2HUgZRlWe7ySnz1I_e9MeWON-79i0sEWScofAGUQs7hQR1P4Kt5R6BDVtIsJwbC-XK-uHeY6tnmaWVD_7r3lvVxMrbYelEKOsO4_k/s1024/hgoph01.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFHsMljKDqqzKFTnPCOxlHv_r5sNCmLBDOMXkgRk-JqDS9cvxts-A-vdCjNiNnYYI7tdApLMwBcX3-J8fhh6Hlua2HUgZRlWe7ySnz1I_e9MeWON-79i0sEWScofAGUQs7hQR1P4Kt5R6BDVtIsJwbC-XK-uHeY6tnmaWVD_7r3lvVxMrbYelEKOsO4_k/s320/hgoph01.xwd.png"/></a></div>
 
-... and, at least for this version of the server, not well at all for Gopher menus. But the fact you can assign rights to them could be a way to manage a paywall or restricted access by having a multihomed Hyper-G server where the internal Web or gopher resources are only accessible through the Hyper-G box, effectively turning it into a simple translating proxy. The Hyper-G box then gates views and assigns charges as applicable. Could your server do that in 1996?
+... but it would have worked nicely for Gopher sites, and they would even have been turned into part of the hierarchy, except Hyper-G seems to completely give up on our main site for reasons I can't figure out. I made a second simpler test gopher and it accepts that, so you can see how it would have looked, though typical for Gopher clients of this era it does not understand i itemtype (in fairness there isn't really a clean way to do non-selectable informational options in Hyper-G).
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_iGCxKeXhdYeaKXycj5Xt1AdvrNMH3ByHGB1Icv4NLKwE6r9Rve6euf9HFpdbyyvEos4Ijk-7shmlcGrFHUtUyIYGYFxm68QX_ROqkUSfPOSWdV7TF7U-owbGv3vMdAhi9fhSp7qh8kPShYsa8dhO0B9eEXVyk95g9P9u7JLZTHO3rYtjTDyd3qoEBzY/s1024/hgoph03.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_iGCxKeXhdYeaKXycj5Xt1AdvrNMH3ByHGB1Icv4NLKwE6r9Rve6euf9HFpdbyyvEos4Ijk-7shmlcGrFHUtUyIYGYFxm68QX_ROqkUSfPOSWdV7TF7U-owbGv3vMdAhi9fhSp7qh8kPShYsa8dhO0B9eEXVyk95g9P9u7JLZTHO3rYtjTDyd3qoEBzY/s320/hgoph03.xwd.png"/></a></div>
+
+I did try making it do a download to see how Harmony would handle it, and that failed completely. But that's what FTP servers are for! It's the '90s, man! Doesn't your site have one already?
+<p>
+The fact you can assign rights to Gopher and Web sites could be a way to manage a paywall or restricted access by having a multihomed Hyper-G server where the internal Web or gopher resources are only accessible through the Hyper-G box, effectively turning it into a simple translating proxy. The Hyper-G box then gates views and assigns charges as applicable. Could your server do that in 1996?
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOHyrUs_30Rf98tO4Ftrb8EjadQfkOEIHc6yVWier-ongSuMbwLTO5wPV50jtB0tcd7NxVXmfoczR4XdoP44dVvllFbHWW3em9idbjy8EiwXpnfCuLpb1j6pEiVQQeRuPukbS5bV5daZYsNleDJGd4y-MrMtsf53Podfo6NjxBk7ygJUUZHMbZGHF_oo/s1024/harmony37.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOHyrUs_30Rf98tO4Ftrb8EjadQfkOEIHc6yVWier-ongSuMbwLTO5wPV50jtB0tcd7NxVXmfoczR4XdoP44dVvllFbHWW3em9idbjy8EiwXpnfCuLpb1j6pEiVQQeRuPukbS5bV5daZYsNleDJGd4y-MrMtsf53Podfo6NjxBk7ygJUUZHMbZGHF_oo/s320/harmony37.xwd.png"/></a></div>
 
@@ -1325,7 +1379,7 @@ Attributes are also viewable from the web interface, with the same Y2K issues.
 
 While there were various problems turning HTML into HTF, turning HTF into HTML yields much less loss of fidelity.
 
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyifB9Lo_OBD9w1evm1bkrEGtz36aCVF4VQVKQ1dIP3x-8U2RrDNLdu45pA8u2HHMVXB9gHSs8LHRlWD2Yk6IylmLyWj-EWOrqzAXu-Nt7s0fB3AeOFXl_yZVyVovzlAtUfBvfiuEZyTHCnDFZG2adwnhjMfoCb9KFjOI-TsIoe48hNgeBXLePmaH_DQ/s1024/abweb.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyifB9Lo_OBD9w1evm1bkrEGtz36aCVF4VQVKQ1dIP3x-8U2RrDNLdu45pA8u2HHMVXB9gHSs8LHRlWD2Yk6IylmLyWj-EWOrqzAXu-Nt7s0fB3AeOFXl_yZVyVovzlAtUfBvfiuEZyTHCnDFZG2adwnhjMfoCb9KFjOI-TsIoe48hNgeBXLePmaH_DQ/s320/abweb.png"/></a></div>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTpYdarX3viDaTffAlTm74YqVSfs5Ut2NpKwW4-ZPuDECOUFrqnmz093jRdH0pOaxijSeH0qb_oEqcAux6ILnLbmAOS8FJX-NZrf4w7uGe9dRPcihkR5FTftup_NxMPsJK1oFnxeNY9aRxvXwCrPj8alwjKa69QYY-DxBJfFMtQO9wj_y3Q9eZCg1YVvA/s1024/hgoph02.xwd.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTpYdarX3viDaTffAlTm74YqVSfs5Ut2NpKwW4-ZPuDECOUFrqnmz093jRdH0pOaxijSeH0qb_oEqcAux6ILnLbmAOS8FJX-NZrf4w7uGe9dRPcihkR5FTftup_NxMPsJK1oFnxeNY9aRxvXwCrPj8alwjKa69QYY-DxBJfFMtQO9wj_y3Q9eZCg1YVvA/s320/hgoph02.xwd.png"/></a></div>
 
 Interestingly, links to outside URLs like Gopher and WWW here are just links, not proxied (as shown by the Gopher link I'm hovering in the bottom status bar). Again, however, you could just set these links to be invisible to people who weren't logged in or authorized (i.e., remove read rights), and/or require them to use the Hyper-G client to access those sites if you wanted to paywall or restrict them by not allowing the sites to be externally accessible otherwise.
 
@@ -1453,7 +1507,7 @@ That concludes our demonstration, so on the Indy we'll type <tt>dbstop</tt> to b
 
 In 1997 HyperWave became an independent company with Maurer as chairman and <a href="https://web.archive.org/web/19991013192358/http://www.iicm.edu/hw_mm/menu/commerce/10.html">offices in Germany and Austria</a>, later expanding to the US and UK. Gopher no longer had any large-scale relevance and the Web had clearly become dominant, causing Hyperwave to also gradually de-emphasize its own native client in lieu of uploading and managing content with more typical tools like WebDAV, <a href="https://web.archive.org/web/20010409200031/http://www.hyperwave.com/e/products/his.html">Windows Explorer and Microsoft Word</a>, and administering and accessing it with a regular web browser (offline operation was still supported), as depicted in this screenshot from the same year. Along the way the capital W got dropped, becoming merely Hyperwave. In all of these later incarnations, however, the bidirectional linkages and strict hierarchy remained intact as foundational features in some form, even though the massive Hyper Root concept contemplated by earlier versions ultimately fell by the wayside.
 <p>
-Hyperwave continues to be sold as <a href="https://www.hyperwave.com/media/hyperwave_datenblatt_en.pdf">a commercial product</a> today, with the company revived <a href="https://web.archive.org/web/20060326052619/http://www.hyperwave.com/e/news/pr117.html">after a 2005 reorganization</a>,<!-- https://my.realstorygroup.com/Blog/hyperwave-survives-2006 --> and the underlying technology of Hyper-G still seems to be a part of <a href="https://www.hyperwave.com/media/hyperwave_datenblatt_en.pdf">the most current release</a>. As proof, at the IICM &mdash; now after several name changes called <a href="https://www.tugraz.at/institute/hcc/home">Institute of Human-Centred Computing</a>, with professor Frank Kappe <a href="https://www.tugraz.at/institute/hcc/institute/people">its first deputy</a> &mdash; there's still <a href="https://www2.iicm.tugraz.at/">a HyperWave [sic] IS/7 server</a>. It has a home collection just like ours with exactly one item, <a href="https://www2.iicm.tugraz.at/maurer">Herman Maurer's home page</a>, who as of this writing still remains on Hyperwave's advisory board.
+Hyperwave continues to be sold as <a href="https://www.hyperwave.com/media/hyperwave_datenblatt_en.pdf">a commercial product</a> today, with the company revived <a href="https://web.archive.org/web/20060326052619/http://www.hyperwave.com/e/news/pr117.html">after a 2005 reorganization</a>,<!-- https://my.realstorygroup.com/Blog/hyperwave-survives-2006 --> and the underlying technology of Hyper-G still seems to be a part of <a href="https://www.hyperwave.com/media/hyperwave_datenblatt_en.pdf">the most current release</a>. As proof, at the IICM &mdash; now after several name changes called the <a href="https://www.tugraz.at/institute/hcc/home">Institute of Human-Centred Computing</a>, with professor Frank Kappe <a href="https://www.tugraz.at/institute/hcc/institute/people">its first deputy</a> &mdash; there's still <a href="https://www2.iicm.tugraz.at/">a HyperWave [sic] IS/7 server</a>. It has a home collection just like ours with exactly one item, <a href="https://www2.iicm.tugraz.at/maurer">Herman Maurer's home page</a>, who as of this writing still remains on Hyperwave's advisory board.
 <p>
 Although later products have attempted to do similar sorts of large-scale document and resource management, Hyper-G pioneered the field by years, and even smaller such tools owe it a debt either directly or by independent convergent evolution. That makes it more than appropriate to appear in the Prior Art Department, especially since some of its more innovative solutions to hypermedia's intrinsic navigational issues have largely been forgotten &mdash; or badly reinvented. That said, unlike many such examples of prior art, it has managed to quietly evolve and survive to the present, even if by doing so it lost much of its unique nature and some of its wildest ideas. Of course, without those wild ideas, this article would have been a great deal less interesting.
 <p>
