@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-05-24 14:07:58
+updated: 2025-05-25 06:08:08
 ---
 
 # science and technology
 
-(date: 2025-05-24 14:07:58)
+(date: 2025-05-25 06:08:08)
+
+---
+
+## Linux kernel driver plugs rotary phone dial into the kernel
+
+date: 2025-05-24, from: OS News
+
+A Linux kernel driver that turns a rotary phone dial into an evdev input device. ↫ Stefan Wiehler The year of Linux on the desktop is finally here. Thanks to Oleksandr Natalenko for pointing this gem out. 
+
+<br> 
+
+<https://www.osnews.com/story/142436/linux-kernel-driver-plugs-rotary-phone-dial-into-the-kernel/>
+
+---
+
+## Cybercrime is 'orders of magnitude' larger than state-backed ops, says ex-White House advisor
+
+date: 2025-05-24, updated: 2025-05-24, from: The Register (UK I.T. News)
+
+<h4>Michael Daniel also thinks Uncle Sam should increase help to orgs hit by ransomware</h4> <p><strong>INTERVIEW</strong>  Uncle Sam&#39;s cybersecurity apparatus can&#39;t only focus on China and other nation-state actors, but also has to fight the much bigger damage from plain old cybercrime, says former White House advisor Michael Daniel. And the Trump administration&#39;s steep cuts to federal government staff are making that a lot harder.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/24/cyber_crime_bigger_than_nation_state/>
+
+---
+
+## Remembering John Young, co-founder of web archive Cryptome
+
+date: 2025-05-24, updated: 2025-05-24, from: The Register (UK I.T. News)
+
+<h4>The original leak site that never sold out, never surrendered</h4> <p><strong>Obituary</strong>  John Young, the co-founder of the legendary internet archive Cryptome, died at the age of 89 on March 28. <em>The Register</em> talked to friends and peers who gave tribute to a bright, pugnacious man who was devoted to the public&#39;s right to know.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/24/john_young_obituary/>
+
+---
+
+## Forgotten Turing treasure trove rescued from attic goes under the hammer
+
+date: 2025-05-24, updated: 2025-05-24, from: The Register (UK I.T. News)
+
+<h4>Computing pioneer&#39;s personal papers expected to fetch tens of thousands</h4> <p>Precious scientific papers once belonging to wartime codebreaking genius Alan Turing – rescued from an attic clear-out where they faced destruction – are set to fetch a fortune at auction next month.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/24/turing_papers_auction/>
 
 ---
 
@@ -1878,40 +1926,4 @@ date: 2025-05-18, updated: 2025-05-18, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/18/apple_accessibility_features_2025/>
-
----
-
-## Boffins devise technique that lets users prove location without giving it away
-
-date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
-
-<h4>ZKLP system allows apps to confirm user presence in a region without exposing exactly where</h4> <p>Computer scientists from universities in Germany, Hong Kong, and the United Kingdom have proposed a way to provide verifiable claims about location data without surrendering privacy.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/17/privacy_preserving_location_sharing/>
-
----
-
-## No-boom supersonic flights could slide through US skies soon
-
-date: 2025-05-17, updated: 2025-05-18, from: The Register (UK I.T. News)
-
-<h4>As long as you&#39;re quiet about it</h4> <p><strong>Feature</strong>  This week, a bipartisan bill was introduced that would allow supersonic flight over the continental US for the first time in 52 years, as long as they&#39;re quiet.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/17/faa_supersonic_law/>
-
----
-
-## Google backs down after locking out Nextcloud Files app
-
-date: 2025-05-17, updated: 2025-05-17, from: The Register (UK I.T. News)
-
-<h4>Search giant to restore critical Android permission after user outcry</h4> <p>In a turn of events to warm our withered hearts, Google has offered to restore the permission that was revoked from Nextcloud&#39;s Files app for Android.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/05/17/google_nextcloud_android_permission/>
 

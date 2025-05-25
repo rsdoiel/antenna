@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-05-24 14:08:01
+updated: 2025-05-25 06:08:10
 ---
 
 # games
 
-(date: 2025-05-24 14:08:01)
+(date: 2025-05-25 06:08:10)
+
+---
+
+## This AI-generated Fortnite video is a bleak glimpse at our future
+
+date: 2025-05-25, updated: 2025-05-24, from: Polygon Website
+
+Earlier this week, Google unveiled Flow, a tool that can be used to generate AI video with ease. Users can submit text prompts or give Veo, the AI model that Flow uses, the digital equivalent of a mood board in exchange for eight second clips. From there, users can direct Flow to patch together different [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo>
+
+---
+
+## Summer Game Fest and ‘Not-E3’ 2025 schedule: All conference dates and times
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+Summer Game Fest 2025 returns in June to fill the vacuum left by E3 — may it rest in peace&#160;—&#160;and will be joined by a long list of showcases from the likes of Xbox and tireless independent organizers who will put on shows like Day of the Devs and Wholesome Direct. This year’s Summer Game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/601264/summer-game-fest-2025-schedule-sgf-e3>
+
+---
+
+## A definitive ranking of Tom Cruise’s 26 best action movies
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+After spending several months doing not much besides watching Tom Cruise movies, I now spend a lot of time wondering about Tom Cruise running. The Mission: Impossible star is a high-cadence runner. He’s famously short of stature, low to the ground and with short legs. But that build is perfect for cinema, because those arms [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rankings/601358/tom-cruise-action-movie-ranking-mission-impossible>
+
+---
+
+## Rick and Morty team didn’t worry about the lore ‘we owe’ in season 8 — only Rick’s baggage
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+Rick and Morty remains a staggering work of chaotic creativity. Previewing a handful of episodes from season 8, which premieres Sunday, May 25 with a Matrix-themed story inspired by phone charger theft, I still had that brain-melty “How do they think of this stuff?” feeling from when the show premiered more than a decade ago. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/600794/rick-morty-season-8-episodes-dan-harmon-scott-marder-interview>
+
+---
+
+## Despelote might be the best game ever about childhood
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+One of the great magic tricks of art — or perhaps just of the human brain — is the ability to transmute something hyper-specific and personal into something universal. Despelote is an autobiographical, semi-documentary game about being a kid in Ecuador during the country’s first successful qualifying run for the 2002 World Cup. It’s also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/601192/despelote-review-childhood-ecuador-football-sorry-soccer>
+
+---
+
+## Netflix is losing these 5 great movies in June
+
+date: 2025-05-24, updated: 2025-05-23, from: Polygon Website
+
+This weekend is a major one for new movies, with the release of Mission: Impossible – The Final Reckoning and Disney’s live-action Lilo &#38; Stitch remake in theaters. But even if you carved out two days for two major blockbusters, good news: Monday is Memorial Day. So why not spend your three-day weekend sneaking in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/601216/best-movies-streaming-leaving-netflix-removed-june-2025>
+
+---
+
+## Pokémon Go Machop Community Day guide
+
+date: 2025-05-24, updated: 2025-05-19, from: Polygon Website
+
+Pokémon Go is having a Machop Community Day event on Saturday, May 24, from 2-5 p.m. in your local time. As expected with a Community Day event, Machop will spawn in huge numbers with a high chance for it to appear shiny in Pokémon Go. There are also several other bonuses and perks, which we’ve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/599922/machop-community-day-shiny-machamp-moveset>
 
 ---
 
@@ -798,64 +882,4 @@ How do you put the expedition into a game like Clair Obscur: Expedition 33? For 
 <br> 
 
 <https://www.polygon.com/gaming/599737/expedition-33-characters-gustave-maelle>
-
----
-
-## All Elden Ring Nightreign character classes announced so far
-
-date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
-
-Elden Ring Nightreign may look familiar in many ways, but FromSoftware’s stand-alone multiplayer spinoff of Elden Ring will play differently thanks to its battle-royale-inspired map and a roster of playable characters. Unlike the blank-slate, highly customizable characters of the original Elden Ring, the playable heroes of Nightreign — known as Nightfarers — are predefined characters with class [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/elden-ring-nightreign-guides/599387/character-classes-all-list-nightfarers>
-
----
-
-## Horror legend Tony Todd improvised a goodbye to his fans in Final Destination: Bloodlines
-
-date: 2025-05-17, updated: 2025-05-18, from: Polygon Website
-
-Fans of the Final Destination movies know there isn’t a lot of continuity, apart from each new sequel returning to the basic concept: Someone has a premonition of impending disaster and uses it to save the lives of people who would have died in that disaster, but death finds convoluted ways to claim them anyway. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/horror/599677/tony-todd-final-destinations-bloodlines-post-credits-scene-goodbye>
-
----
-
-## What&#8217;s going on with manga and anime piracy crackdowns?
-
-date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
-
-Much like the gaming industry, entertainment has long been at war with piracy. But while gamers often turn to piracy to preserve titles lost to digital delistings or scarce physical copies, anime and manga fans, especially in earlier eras, relied on illicit means simply to access the content. Before widespread licensing, piracy played a crucial [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/entertainment/599425/manga-anime-piracy-crackdown>
-
----
-
-## ‘I was so tired’: Behind Clair Obscur: Expedition 33’s beloved ‘whee whoo’ scene
-
-date: 2025-05-17, updated: 2025-05-16, from: Polygon Website
-
-Clair Obscur: Expedition 33 writer Jennifer Svedberg-Yen would be the first to tell you: writing a video game is work. At least writing a novel is a one-person operation for most of the time. At least a screenplay for a film only needs to come in around 120 pages, unless you’re working for Martin Scorsese. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/599459/clair-obscur-expedition-33-whee-whoo>
-
----
-
-## Before Final Destination: Bloodlines, the directors made an unsettling Stranger Things-style sci-fi thriller
-
-date: 2025-05-17, updated: 2025-05-17, from: Polygon Website
-
-After a 14-year hiatus, the Final Destination horror franchise returns to theaters on May 16 with Final Destination: Bloodlines. In the first five Final Destination films, death itself creates Rube Goldberg machines out of everyday objects, constructing freak accidents to kill people who previously escaped its grasp. The latest iteration puts a new spin on [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/recommends/599522/freaks-2018-stranger-things-final-destination-bloodlines-connections>
 

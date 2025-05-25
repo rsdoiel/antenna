@@ -1,11 +1,54 @@
 ---
 title: home
-updated: 2025-05-24 14:08:02
+updated: 2025-05-25 06:08:12
 ---
 
 # home
 
-(date: 2025-05-24 14:08:02)
+(date: 2025-05-25 06:08:12)
+
+---
+
+## How to Grow California Tree Poppies (Coulter’s Matilija Poppy)
+
+date: 2025-05-24, from: The Gardener's Path
+
+<p>The California tree poppy is a woody perennial suited to Zones 8 to 10 that prefers full sun and sandy, well-drained loam. Plants grow up to eight feet tall and sport whimsical white ruffled blossoms with golden centers resembling fried eggs bobbing in the breeze. Learn how to grow this Pacific Coast flower in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-california-tree-poppies/">How to Grow California Tree Poppies (Coulter’s Matilija Poppy)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-california-tree-poppies/>
+
+---
+
+## How to Prune Clematis Vines for Copious Flowers
+
+date: 2025-05-24, from: The Gardener's Path
+
+<p>Clematis are beautiful, showy vines with pretty flowers in bold colors. Easy to cultivate, they flower in spring, summer, or fall, depending on the type – and each type has specific pruning requirements for the most floriferous displays. Learn how to prune clematis for strong, healthy vines with copious flowers. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vines/prune-clematis/">How to Prune Clematis Vines for Copious Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vines/prune-clematis/>
+
+---
+
+## 43 Animals That Start With Y (With Pictures and Names)
+
+date: 2025-05-24, from: Yard Life blog
+
+<p>When it comes to discovering Animals That Start With Y, most people draw a blank—and that’s exactly what makes this ... </p>
+<p class="read-more-container"><a title="43 Animals That Start With Y (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/43-animals-that-start-with-y-with-pictures-and-names/#more-28752" aria-label="Read more about 43 Animals That Start With Y (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-animals-that-start-with-y-with-pictures-and-names/">43 Animals That Start With Y (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-animals-that-start-with-y-with-pictures-and-names/>
 
 ---
 
@@ -1336,310 +1379,4 @@ date: 2025-05-18, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/herbs/grow-greek-oregano/>
-
----
-
-## Learn When and How to Divide Hosta Plants
-
-date: 2025-05-17, from: The Gardener's Path
-
-<p>Hostas need dividing to look as good as possible. As they age, the center starts to look a bit shabby, yellowed, and sparse. They may even stop sending up those lovely flowers. By dividing them, they get a refresh. Plus, when you divide your hostas, you get new free plants out of the deal so you can expand your garden.</p>
-<p>The post <a href="https://gardenerspath.com/plants/foliage/divide-hostas/">Learn When and How to Divide Hosta Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/foliage/divide-hostas/>
-
----
-
-## Waterfalls, Wildflowers, and Waves of Sand: 10 National Parks That Shine in Spring
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-From waterfalls to wildflowers, these Western national parks' landscapes are not to be missed in spring. 
-
-<br> 
-
-<https://www.sunset.com/travel/national-parks/best-national-parks-in-spring>
-
----
-
-## The Ultimate Insider Guide to Joshua Tree and the High Desert
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-A local shares her tips on what to do, eat, drink, and see in Joshua Tree and the other High Desert communities. 
-
-<br> 
-
-<https://www.sunset.com/travel/insider-guides/what-do-in-joshua-tree-high-desert>
-
----
-
-## Where to See Some of Spring’s Most Spectacular Blooms in the West
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Spring in the West is nothing short of magical, with an explosion of color painting the landscape across the region. Here's where to visit. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/where-to-see-spring-blooms-in-the-west>
-
----
-
-## How to Design a Perennial Garden
-
-date: 2025-05-17, from: The Gardener's Path
-
-<p>Perennial gardens feature plants that return each year, providing long-lasting color, fragrance, and texture without the need for replanting. With thoughtful planning, they can offer visual interest from spring through fall. Learn how to design and plant a perennial garden in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/design-perennial-garden/">How to Design a Perennial Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/design-perennial-garden/>
-
----
-
-## Road Trips
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
-
-<br> 
-
-<https://www.sunset.com/travel/road-trips>
-
----
-
-## Outdoor Adventure
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
-
-<br> 
-
-<https://www.sunset.com/travel/outdoor-adventure>
-
----
-
-## Travel the West
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
-
-<br> 
-
-<https://www.sunset.com/travel>
-
----
-
-## Gifts & Shopping
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping>
-
----
-
-## Lifestyle
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle>
-
----
-
-## Flowers & Plants
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-The very best flowers and plants for your garden's climate zone. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/plants>
-
----
-
-## Landscaping
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping>
-
----
-
-## DIY Projects
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/diy-projects>
-
----
-
-## Garden Basics
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics>
-
----
-
-## Decorating & Design
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design>
-
----
-
-## Home Tours
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours>
-
----
-
-## Home & Garden
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
-
-<br> 
-
-<https://www.sunset.com/home-garden>
-
----
-
-## Wine & Drinks
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings>
-
----
-
-## The Wines That Pair Best with Summer
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-The Sunset Wine Club features the best bottles in the West, perfectly paired with recipes in the magazine. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/wine-club-pairings-home-and-design-issue-2025>
-
----
-
-## ‘Bedscaping’ Is a Thing Now—Here’s How to Do It
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Bedscaping is a concept that focuses on elevating your bedroom to reflect your style and personality. Designers share how to do it. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/bedscaping-trend>
-
----
-
-## Restaurants
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/food-wine/restaurants>
-
----
-
-## Recipes
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant>
-
----
-
-## Food and Drink
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Delicious recipes, food and wine pairings, and more ways to savor the West. 
-
-<br> 
-
-<https://www.sunset.com/food-wine>
-
----
-
-## From Maritime Decor to ‘Chateaucore’, These Are Summer’s Biggest Trends
-
-date: 2025-05-17, from: Sunset Magazine - Living in the West
-
-Check out the Etsy 2025 Spring and Summer Trend Report and learn how to style your home for this warm weather season. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/2025-spring-summer-trends-etsy>
-
----
-
-## How to Identify and Control Squash Bugs
-
-date: 2025-05-17, from: The Gardener's Path
-
-<p>Are you struggling to combat a squash bug infestation in the garden? Anasa tristis is a pesky insect that resembles a stink bug in its adult stage, and these pests can cause damage and wilting in your squash plants and other edibles. In this guide we offer tips that can help to save your cucurbit harvest. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/squash-bugs-2/">How to Identify and Control Squash Bugs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/how-to/disease-and-pests/squash-bugs-2/>
 

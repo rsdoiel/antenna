@@ -1,11 +1,118 @@
 ---
 title: journalism
-updated: 2025-05-24 14:08:01
+updated: 2025-05-25 06:08:10
 ---
 
 # journalism
 
-(date: 2025-05-24 14:08:01)
+(date: 2025-05-25 06:08:10)
+
+---
+
+## Santa Clarita Valley Farmer’s Markets Manger Larry McClement uses fresh food to unite the community
+
+date: 2025-05-25, from: The Canyon News (COC Student Newspaper)
+
+<p>Every Saturday, hundreds gather at the Newhall Farmers Market. But for Larry&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/larry-mcclements/">Santa Clarita Valley Farmer&#8217;s Markets Manger Larry McClement uses fresh food to unite the community</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/larry-mcclements/>
+
+---
+
+## Co-op residents defend rooster dropped off in nearby lot despite disturbances
+
+date: 2025-05-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+For about a week, residents of the University Cooperative Housing Association didn&#8217;t need an alarm clock &#8211; they were roused by a rooster&#8217;s crowing.
+The rooster, who was deemed &#8220;Baraaack&#8221; &#8211; after former president Barack Obama &#8211; lived in a then-vacant lot near the co-op &#8211; a student-led, nonprofit housing space &#8211; from April 6 to April 14. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/24/co-op-residents-defend-rooster-dropped-off-in-nearby-lot-despite-disturbances/>
+
+---
+
+## Metrolink aims to make public transit a familiar and reliable option for COC students
+
+date: 2025-05-24, from: The Canyon News (COC Student Newspaper)
+
+<p>Commuting can be a challenge for college students in California. But a&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/metrolink-pass/">Metrolink aims to make public transit a familiar and reliable option for COC students</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/metrolink-pass/>
+
+---
+
+## Film review: Despite wave of changes, standout lead helps ‘Lilo & Stitch’ remake stay afloat
+
+date: 2025-05-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+In leaving behind signature threads of the cherished classic, &#8220;Lilo &#38; Stitch&#8221; struggles to honor the true meaning of &#699;ohana.
+Riding the wave into its highly anticipated release this Friday, Disney&#8217;s latest live-action remake brings back the beloved eponymous duo nearly 25 years after its original animated debut. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/film-review-despite-wave-of-changes-standout-lead-helps-lilo-stitch-remake-stay-afloat/>
+
+---
+
+## Over 20 labor demonstrators arrested during UC Regents public comment sit-in
+
+date: 2025-05-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD arrested around two dozen labor union demonstrators who staged a sit-in during a public comment session at the UC Board of Regents’ May meeting.
+The board held its bimonthly meeting May 13 to 15 at UC San Francisco. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/over-20-labor-demonstrators-arrested-during-uc-regents-public-comment-sit-in/>
+
+---
+
+## Earthquakes are inevitable in Santa Clarita but how we stay prepared is important
+
+date: 2025-05-24, from: The Canyon News (COC Student Newspaper)
+
+<p>The Earth never stops moving, from its orbit around the sun to&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/earthquakes-are-inevitable-in-santa-clarita-but-how-we-stay-prepared-is-important/">Earthquakes are inevitable in Santa Clarita but how we stay prepared is important</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/earthquakes-are-inevitable-in-santa-clarita-but-how-we-stay-prepared-is-important/>
+
+---
+
+## Album review: Joe Jonas establishes distinct artistic voice in genre-spanning solo comeback
+
+date: 2025-05-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 23 at 10:17 p.m.</em>
+Joe Jonas is eager to step out of the shadow of his iconic brotherly trio.
+Carving out a new chapter in his career, “Music For People Who Believe In Love” is Jonas’ first solo album in over a decade. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/23/album-review-joe-jonas-establishes-distinct-artistic-voice-in-genre-spanning-solo-comeback/>
+
+---
+
+## Track by Track Review: Arm’s Length ‘There’s A Whole World Out There’
+
+date: 2025-05-24, from: The Sundail (CSUN Student Newspaper)
+
+Ontario, Canada-based emo band Arm’s Length released their sophomore album “There’s A Whole World Out There,” their first under Pure Noise Records. Spanning 12 tracks and just over 46 minutes,... 
+
+<br> 
+
+<https://sundial.csun.edu/193929/arts-entertainment/track-by-track-review-arms-length-theres-a-whole-world-out-there/>
 
 ---
 
@@ -814,57 +921,4 @@ The Hammer Museum hosted Arts Party: Transcend, an event featuring performances,
 <br> 
 
 <https://dailybruin.com/2025/05/17/gallery-hammer-museums-arts-party-brings-students-together-for-after-hours-crafts-music/>
-
----
-
-## Spring Sing 2025 showcases artistic talent as Ella Gibson, ACA All Day win awards
-
-date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
-
-With more than 75 years of UCLA history, Spring Sing 2025 was back in full bloom.
-After the annual student talent showcase and competition was canceled last year, the event returned to the Los Angeles Tennis Center on Friday night. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/17/spring-sing-2025-showcases-artistic-talent-as-ella-gibson-aca-all-day-win-awards/>
-
----
-
-## USC celebrates 142nd commencement
-
-date: 2025-05-17, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Commencement speaker Jon M. Chu emphasized the power of storytelling at the ceremony.</p>
-<p>The post <a href="https://dailytrojan.com/2025/05/16/usc-celebrates-142nd-commencement/">USC celebrates 142nd commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/05/16/usc-celebrates-142nd-commencement/>
-
----
-
-## Bruins renew Bruin U-Pass, vote in new council in 2025 USAC election
-
-date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated May 16 at 11:05 p.m.</em>
-Undergraduate students elected a new Undergraduate Students Association Council and renewed funding for the Bruin U-Pass in the 2025 USAC election. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/16/bruins-renew-bruin-u-pass-vote-in-new-council-in-2025-usac-election/>
-
----
-
-## Gov. Gavin Newsom’s May Revision reduces proposed budget cuts to the UC
-
-date: 2025-05-17, from: The Daily Bruin (UCLA Student Newspaper)
-
-Gov. Gavin Newsom&#8217;s May 14 revision of the state budget reduced proposed funding cuts to the UC.
-While Newsom&#8217;s initial January budget proposed that the state cut $396.6 million of the UC&#8217;s funding, his revised May budget would cut only $129.7 million. 
-
-<br> 
-
-<https://dailybruin.com/2025/05/16/gov-gavin-newsoms-may-revision-reduces-proposed-budget-cuts-to-the-uc/>
 

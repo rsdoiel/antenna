@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-05-24 14:08:04
+updated: 2025-05-25 06:08:14
 ---
 
 # food
 
-(date: 2025-05-24 14:08:04)
+(date: 2025-05-25 06:08:14)
+
+---
+
+## Summer Coffees Comin’ In Hot
+
+date: 2025-05-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated list of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/summer-coffees-comin-in-hot-339721.html>
+
+---
+
+## 19 Frozen Drinks to Blend Up This Summer
+
+date: 2025-05-24, from: Bon Appetet
+
+Like an espresso martini frappé, make-ahead piña coladas, and a spicy mango margarita. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/frozen-drinks-cocktail-recipes>
 
 ---
 
@@ -1208,54 +1232,4 @@ date: 2025-05-18, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/34-spring-recipes/>
-
----
-
-## 23 Best Cherry Recipes From Pies to Pork
-
-date: 2025-05-17, from: Bon Appetet
-
-Like puff-pastry turnovers, pork with cherry agrodolce, and sour cherry cheesecake. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/best-cherry-recipes>
-
----
-
-## Grinder Sandwich
-
-date: 2025-05-17, from: Taste of Home
-
-This grinder sandwich is a masterpiece of thinly sliced meats and cheeses. It's warmed and topped with a crisp, tangy salad in a crusty-yet-tender roll. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/grinder-sandwich-recipe/>
-
----
-
-## Best Sauté Pan (2025) Is the Actual Everything Pan
-
-date: 2025-05-17, from: Bon Appetet
-
-Braise, roast, simmer, and yes, sauté 
-
-<br> 
-
-<https://www.bonappetit.com/story/best-saute-pans>
-
----
-
-## How to Bake a Homemade Wedding Cake
-
-date: 2025-05-17, from: Taste of Home
-
-<p>If you know how to bake a cake, you know how to make a wedding cake—but there is still a lot of pressure to get it right. With proper planning and some stress-relief tips, you can deliver the perfect wedding cake.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/how-to-bake-a-homemade-wedding-cake/">How to Bake a Homemade Wedding Cake</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/article/how-to-bake-a-homemade-wedding-cake/>
 

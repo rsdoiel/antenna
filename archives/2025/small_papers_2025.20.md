@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-05-24 14:08:04
+updated: 2025-05-25 06:08:15
 ---
 
 # small papers
 
-(date: 2025-05-24 14:08:04)
+(date: 2025-05-25 06:08:15)
+
+---
+
+## Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says
+
+date: 2025-05-24, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The 21-year-old driver did not have her headlights on and may have been impaired, Long Beach police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard">Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard>
+
+---
+
+## One person shot on 710 Freeway in Long Beach, CHP says
+
+date: 2025-05-24, from: Long Beach Post
+
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The victim was found wounded in the driver's seat of a pickup truck.</p>
+<p>The post <a href="https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says">One person shot on 710 Freeway in Long Beach, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says>
 
 ---
 

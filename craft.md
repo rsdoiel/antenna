@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-24 14:08:04
+updated: 2025-05-25 06:08:14
 ---
 
 # craft
 
-(date: 2025-05-24 14:08:04)
+(date: 2025-05-25 06:08:14)
+
+---
+
+## For Sale: Irish Armchair in Red Elm & Sycamore (& Green Socks)
+
+date: 2025-05-24, from: Lost Arg Press blog
+
+This Irish armchair is one of the most comfortable chairs I make, and I built this particular example in elm and sycamore for an upcoming revised edition of “The Stick Chair Book.”&#160; This chair is an original design of mine, but it borrows heavily from the Irish chairs I studied in person during 2019 and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/24/for-sale-irish-armchair-in-red-elm-sycamore-green-socks/>
 
 ---
 
@@ -42,16 +54,4 @@ We have just launched a free 12-part video series that accompanies the new book 
 <br> 
 
 <https://blog.lostartpress.com/2025/05/19/the-free-video-series-of-build-a-chair-from-bullst/>
-
----
-
-## Glue Up Boards – Without a Good Edge Joint
-
-date: 2025-05-17, from: Lost Arg Press blog
-
-In the next few days, we’ll release the free video series on “Build a Chair from Bulls%$t,” which will help make chairmaking accessible for more people. The chair (and stool) in the book are built using only home center materials and tools. After finishing up the book and videos, my brain did not get the... 
-
-<br> 
-
-<https://blog.lostartpress.com/2025/05/17/glue-up-boards-without-a-good-edge-joint/>
 

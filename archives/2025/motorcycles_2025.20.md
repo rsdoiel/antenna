@@ -1,11 +1,119 @@
 ---
 title: motorcycles
-updated: 2025-05-24 14:08:03
+updated: 2025-05-25 06:08:12
 ---
 
 # motorcycles
 
-(date: 2025-05-24 14:08:03)
+(date: 2025-05-25 06:08:12)
+
+---
+
+## A walk through the past of PREMA Racing ahead of the team’s most historic day
+
+date: 2025-05-25, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer When Robert Shwartzman took pole position for the 109th running of the Indianapolis 500 this past Sunday, he became the first rookie to do so&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/a-walk-through-the-past-of-prema-racing-ahead-of-the-teams-most-historic-day/>
+
+---
+
+## GALLERY: Saturday At The Indianapolis Motor Speedway, One Day Until The Indy 500
+
+date: 2025-05-25, from: Kickin the Tires blog
+
+Photos by Jeremy Bryner/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/indycar/gallery-saturday-at-the-indianapolis-motor-speedway-one-day-until-the-indy-500/>
+
+---
+
+## Coca-Cola 600 Sold Out for 4th Consecutive Year
+
+date: 2025-05-25, from: Kickin the Tires blog
+
+CONCORD, N.C. (May 24, 2025) – Charlotte Motor Speedway’s Memorial Day weekend classic, the Coca-Cola 600, has sold out for the fourth consecutive year, speedway officials announced. The capacity crowd&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/coca-cola-600-sold-out-for-4th-consecutive-year/>
+
+---
+
+## Dreyer & Reinbold Racing, Cusick Motorsports look to continue Indy 500 one-off success with Ryan Hunter-Reay and Jack Harvey
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Dreyer &#38; Reinbold Racing has been a part of the INDYCAR garage dating back to before the turn of the century. Fast forward to present&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/dreyer-reinbold-racing-cusick-motorsports-look-to-continue-indy-500-one-off-success-with-ryan-hunter-reay-and-jack-harvey/>
+
+---
+
+## GALLERY: Carb Day At The Indianapolis 500
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+Photos by Jeremy Bryner/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/indycar/gallery-carb-day-at-the-indianapolis-500/>
+
+---
+
+## Jimmie Johnson Scholarship Recipient Honored Ahead of Coca-Cola 600, Johnson’s 700th Career Cup Start
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+CONCORD, N.C. (May 24, 2025) &#8211; Ahead of Sunday’s Coca-Cola 600, the 700th career Cup Series start for NASCAR Hall of Famer Jimmie Johnson, Charlotte Motor Speedway honored Lucy Roach,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jimmie-johnson-scholarship-recipient-honored-ahead-of-coca-cola-600-johnsons-700th-career-cup-start/>
+
+---
+
+## Austin Green Captures General Tire 150 Victory in ARCA
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+CONCORD, NC (May 23, 2025) – Austin Green honed his skills as an aspiring race-car driver on Charlotte Motor Speedway&#8217;s frontstretch quarter-mile. On Friday, Green was the teacher, the General&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/austin-green-captures-general-tire-150-victory-in-arca/>
+
+---
+
+## Hot Damn, Look At BMW's New Insane Superbike
+
+date: 2025-05-24, from: Ride Apart, Electric Motorcycle News
+
+A preview at what's to come both for you and MotoGP? 
+
+<br> 
+
+<https://www.rideapart.com/news/760581/bmw-concept-superbike-concept-rr-villa-deste/>
+
+---
+
+## ARCA Menards West Series: 2025 Colorado 150 Race Preview
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+The fourth race of the 2025 ARCA Menards West Series season will take place this Saturday, May 24, at Colorado National Speedway (CNS). This 0.375-mile short-track, paved oval is located&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-colorado-150-race-preview/>
 
 ---
 
@@ -544,16 +652,4 @@ One of the biggest names in the off-road gear scene wants to make racing more ac
 <br> 
 
 <https://www.rideapart.com/news/759766/klim-racer-support-program-2025-announcement/>
-
----
-
-## Indianapolis 500 Saturday Qualification Report: Huge wrecks and fast speeds with Palou on top
-
-date: 2025-05-17, from: Kickin the Tires blog
-
-Drama. It is what makes the Indianapolis 500 the biggest race on the planet and the first day of qualifications for the 109th “500” brought plenty of drama.&#160; High winds&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/indycar/indianapolis-500-saturday-qualification-report-huge-wrecks-and-fast-speeds-with-palou-on-top/>
 

@@ -1,11 +1,194 @@
 ---
 title: columns
-updated: 2025-05-24 14:07:59
+updated: 2025-05-25 06:08:09
 ---
 
 # columns
 
-(date: 2025-05-24 14:07:59)
+(date: 2025-05-25 06:08:09)
+
+---
+
+## Carole King
+
+date: 2025-05-25, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/carole-king>
+
+---
+
+## 
+                TCP/IP on Windows for Workgroups 3.11 in 2025 under QEMU
+            
+
+date: 2025-05-25, updated: 2025-05-25, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-05-25/0/POSTING-en.html>
+
+---
+
+## 2025-05-25 iPhone, GoPro, tears
+
+date: 2025-05-25, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-25-iphone-gopro-tears">2025-05-25 iPhone, GoPro, tears</h1>
+
+<p>I have a GoPro which I used to take a nice <a href="/wiki/2024-04-06-maledives-14.mov">6s video of a young whale</a> when we went to the <a href="2024-04-06-maledives">Maledives in 2024</a>.</p>
+
+<p>I also took hours of not so important video. There is, of course, an iPhone app for the GoPro. It currently has 45 GB of videos on it. I can&rsquo;t access the iPhone from my wife&rsquo;s Mac without upgrading it.</p>
+
+<p>So I use my Linux Laptop to connect to the phone. And my wife&rsquo;s Mac is mounted via wifi, and it has the external hard disk where the videos should go. Current transfer speed is 1.3 MB/sec.</p>
+
+<p>Sometimes I do feel the bars of the golden cage. 😔</p>
+
+<p>And there so many random errors. Or a laptop that falls asleep. Or a duplicate filename. These things always interrupt the process and wait for user input.</p>
+
+<p>This is where the tears come in.</p>
+
+<p><a class="tag" href="/search/?q=%23GoPro">#GoPro</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-25-gopro>
+
+---
+
+## The reviews are in for Face with Tears of Joy
+
+date: 2025-05-25, from: Shady Characters blog
+
+<p>The reviews for <cite>Face with Tears of Joy</cite> have started to come in, and I am happy (and relieved) to say that reviewers seem to be enjoying the book quite a bit! Here are a few quotes:</p>
+<blockquote><p>Houston chronicles the rise of the emoji in this fun romp through the evolution of digital language…equal parts informative and delightful.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/05/the-reviews-are-in-for-face-with-tears-of-joy/">Read more →</a></blockquote> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/05/the-reviews-are-in-for-face-with-tears-of-joy/>
+
+---
+
+## Sunday thought
+
+date: 2025-05-25, from: Robert Reich's blog
+
+A new phase of Trump neofascism 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-8c5>
+
+---
+
+## May 24, 2025 
+
+date: 2025-05-25, from: Heather Cox Richardson blog
+
+On Thursday the Trump administration told Harvard University that because it had not handed over information on foreign students&#8217; protest activities, violent activity, and coursework, the university had &#8220;lost [the] privilege&#8221; of enrolling foreign students. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-24-2025>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-25, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/05/30/spikeLeeKnicksFan.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A day away from the blog. Really enjoying the NBA playoffs, even though the Knicks are still in it. Nice turnaround after the first quarter for the Minnesotas. Still hoping for a finals between them and the Knicks. It'll be interesting to see how the Knicks change their lineup. Hopefully no more isolation-ball with Brunson. It's boring and doesn't work. Melo 2.0. Might make sense if he was LeBron, but he's not and LeBron's game is boring anyway. Let's do this well, win or lose. 
+
+<br> 
+
+<http://scripting.com/2025/05/24.html#a011153>
+
+---
+
+## May 23, 2025
+
+date: 2025-05-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164379778/4be0df6c72cf48d7669b39c2dda8b49b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164379778/4be0df6c72cf48d7669b39c2dda8b49b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-23-2025-17e>
+
+---
+
+## ★ Idiocy or Jackassery, You Make the Call: Tripp Mickle on Whether Trump’s ‘Made in America’ iPhone Is a Fantasy
+
+date: 2025-05-24, updated: 2025-05-24, from: Daring Fireball
+
+My chances of ever landing a job at The New York Times continue to sink. 
+
+<br> 
+
+<https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Dear Apple SwiftUI friends, this bug is killing the vibe of our users: FB16257334</p><p>Repro for those in the community:</p><p><a href="https://github.com/feedback-assistant/reports/issues/594" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/feedback-assistant/</span><span class="invisible">reports/issues/594</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114563260894225902>
+
+---
+
+## The New Fascism | Coffee Klatch for May 24, 2025
+
+date: 2025-05-24, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-new-fascism-coffee-klatch-for>
+
+---
+
+## May 23, 2025 
+
+date: 2025-05-24, from: Heather Cox Richardson blog
+
+I&#8217;m going to take an early night tonight, but I want to record three things that jumped out at me today because they seem to tell a story. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-23-2025>
+
+---
+
+## Sad story of http.DefaultTransport
+
+date: 2025-05-24, from: Anton Zhiyanov blog
+
+A tale of false flexibility and leaking abstractions. 
+
+<br> 
+
+<https://antonz.org/default-transport/>
+
+---
+
+## Weeknotes: May 17-23, 2025
+
+date: 2025-05-24, from: Tracy Durnell Blog
+
+Win of the week: new client accepted my budget proposal! 🙌 Looking forward to: three day weekend! hoping to make it to Bonus Galactic Homebrew Website Club Stuff I did: 7.75 hours consulting 3.5 hours writing went to see a matinee of Sinners &#8212; somebody gave us movie passes like 6 years ago so it was the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/23/weeknotes-may-17-23-2025/>
 
 ---
 
@@ -2757,213 +2940,4 @@ date: 2025-05-18, from: Heather Cox Richardson blog
 </audio> <a href="https://api.substack.com/feed/podcast/163812804/5b5875fb00a3dada8f52c9fcc4027dc8.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/may-16-2025-956>
-
----
-
-## 2025-05-17 Israel
-
-date: 2025-05-17, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-17-israel">2025-05-17 Israel</h1>
-
-<p>The European Song Contest doesn’t allow Russia:</p>
-
-<blockquote>
-<p>Following its exclusion from the 2022 contest due to the Russian invasion of Ukraine, on 26 February 2022, the Russian broadcasters VGTRK and Channel One announced that they would suspend their membership in the European Broadcasting Union (EBU). The EBU made effective the suspension on 26 May, preventing Russia from participating in further Eurovision events unless its membership is resumed. – <a href="https://en.m.wikipedia.org/wiki/Russia_in_the_Eurovision_Song_Contest">Russia in the Eurovision Song Contest</a></p>
-</blockquote>
-
-<p>Spanish <a href="https://www.rtve.es/noticias/20250517/mensaje-rtve-antes-eurovision-frente-a-derechos-humanos-silencio-no-opcion-paz-justicia-para-palestina/16585148.shtml">RTVE sends a message</a> about Gaza during the song contest:</p>
-
-<blockquote>
-<p>El mensaje de RTVE antes de Eurovisión: &ldquo;Frente a los derechos humanos, el silencio no es una opción. Paz y justicia para Palestina&rdquo;</p>
-</blockquote>
-
-<p>On the web page they add some context:</p>
-
-<blockquote>
-<p>La representante israelí, fue víctima de los atentados de Hamás del 7 de octubre de 2023 y ha contado su historia por todo el mundo, incluso ante Naciones Unidas, acompañada de otras víctimas.</p>
-</blockquote>
-
-<p>Israel complained and now the <a href="https://www.rtve.es/noticias/20250517/eurovision-advierte-rtve-multa-comentarios-gaza/16584998.shtml">EBU threatens RTVE with a fine</a>.</p>
-
-<blockquote>
-<p>La organización de Eurovisión advierte a RTVE con una multa si se repiten los comentarios sobre Gaza</p>
-</blockquote>
-
-<p>Let me check the numbers for Russia:</p>
-
-<blockquote>
-<p>14,200–14,400 military and civilian deaths during the War in Donbas, and up to 1,000,000 estimated casualties during the Russian invasion of Ukraine till mid-September 2024. – <a href="https://en.m.wikipedia.org/wiki/Casualties_of_the_Russo-Ukrainian_War">Casualties of the Russo-Ukrainian War</a></p>
-</blockquote>
-
-<p>And for Israel:</p>
-
-<blockquote>
-<p>As of 7 May 2025, almost 55,000 people (53,253 Palestinians and 1,706 Israelis) have been reported killed in the Gaza war according to the official figures of the Gaza Health Ministry, as well as 166 journalists and media workers, 120 academics, and over 224 humanitarian aid workers, a number that includes 179 employees of UNRWA. Scholars have estimated 80% of Palestinians killed are civilians. A study by OHCHR, which verified fatalities from three independent sources, found that 70% of the Palestinians killed in residential buildings or similar housing were women and children. – <a href="https://en.m.wikipedia.org/wiki/Casualties_of_the_Gaza_war">Casualties of the Gaza war</a></p>
-</blockquote>
-
-<p>And that doesn’t include the planned war crimes, as mentioned <a href="2025-04-17%20Israel">a month ago</a>.</p>
-
-<p>Draw your own conclusions.</p>
-
-<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a> <a class="tag" href="/search/?q=%23Russia">#Russia</a> <a class="tag" href="/search/?q=%23Ukraine">#Ukraine</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-17-israel>
-
----
-
-## Trump vs. the Supremes 
-
-date: 2025-05-17, from: Robert Reich's blog
-
-The largest stress test yet of the U.S. Constitution 
-
-<br> 
-
-<https://robertreich.substack.com/p/trump-vs-the-supremes>
-
----
-
-## 2025-05-17 Getting SFJAZZ recordings
-
-date: 2025-05-17, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-17-getting-sfjazz-recordings">2025-05-17 Getting SFJAZZ recordings</h1>
-
-<p>Something I just saw on fedi: The <a href="https://archive.org/details/sfjazz">SFJAZZ Historical Archive</a> has a ton of material online.</p>
-
-<p>From my bookmarks, there is <a href="https://archive.org/developers/internetarchive/cli.html#download">a command line tool</a> to access the Internet Archive. I installed it via my package manager:</p>
-
-<pre><code>sudo apt install internetarchive
-</code></pre>
-
-<p>Let&rsquo;s give it a try:</p>
-
-<pre><code>ia download casfjazz_000163
-</code></pre>
-
-<p>This downloads a bunch of files including two M4A files that I can play.</p>
-
-<p>Download all the files:</p>
-
-<pre><code>ia download --search 'collection:sfjazz' --glob=&quot;*.m4a&quot;
-</code></pre>
-
-<p>Beware, though: With about 750 items and each item being about 250MB, that&rsquo;ll take about 190GB of disk space and a significant amount of time.</p>
-
-<p>Some exploration: When I look online for Zakir Hussein, I get 11 items.</p>
-
-<pre><code>ia download --search 'collection:sfjazz' --glob=&quot;*.m4a&quot;
-</code></pre>
-
-<p>To list the files (I&rsquo;m using fish):</p>
-
-<pre><code>for item in (ia search 'collection:sfjazz zakir' --itemlist); ia list $item; end
-</code></pre>
-
-<p>Notice that there are hits for MP3 files, M4A files, FLAC files, WAV files, etc.
-That&rsquo;s a lot of wasted space!</p>
-
-<p>For parallel download:</p>
-
-<pre><code>ia search 'collection:sfjazz zakir' --itemlist | parallel 'ia download {} --glob=&quot;*.m4a&quot;'
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23Music">#Music</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-17-getting-sfjazz>
-
----
-
-## Ads used to be this great
-
-date: 2025-05-17, from: Dave Winer's Scripting News
-
-<p>Look at this, for an idea of what a product says to the prospect.</p>
-<p>It makes you laugh. When you laugh inside an idea forms. </p>
-<p>"Ain't it the truth."</p>
-<p>That gets you ready to read the pitch, which is stuff you wouldn't have read or even considered if they hadn't said something so true right up front.</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/05/17/uglyAd.png"></center><i>Ugly is only skin-deep.</i></div></p>
-<p>This is what's wrong with the opposition political party in the US, they think all they need to do is recite the facts. But first you have to convince them you speak from the heart, you'll tell the truth, even if it hurts. </p>
-<p>It's an ugly car. Yeah, but you'll come to love how ugly it is because it's so beautiful inside. What you say next hardly matters, because they already believe that you speak the truth. And that's when they're ready to sign on the dotted line.</p>
-<p>That's what the Republicans do so well, before and after Trump, that the Democrats don't even gets exists. </p>
-<p>I finally figured out what the Dems need, the top guy has to be an entrepreneur. Needs to understand how to get people ready to believe the truth. And make the product deliver a truth the people choose. And now sign on the dotted line. </p>
-<p>PS: More <a href="https://fontsinuse.com/uses/1976/volkswagen-of-america-ads-1960-68">Volkswagen ads</a> from the 60s.</p>
- 
-
-<br> 
-
-<http://scripting.com/2025/05/17/144337.html?title=adsUsedToBeThisGreat>
-
----
-
-## The Knicks really did win
-
-date: 2025-05-17, from: Dave Winer's Scripting News
-
-<p>The Knicks did actually win last night. I didn't dream it.</p>
-<p>I remember when the Knicks sucked.</p>
-<p>In my heart I believe they still do.</p>
-<p>But here we are, my Knicks actually have an approximately 1 in 4 chance of winning the championship. </p>
-<p>I hope it's Minnesota we end up playing. </p>
-<p>All in the family. 😀</p>
- 
-
-<br> 
-
-<http://scripting.com/2025/05/17/140201.html?title=theKnicksReallyDidWin>
-
----
-
-## The Era of the Great Bamboozle | The Coffee Klatch for May 17, 2025
-
-date: 2025-05-17, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/163746748/a7082f6cab29b927f42daa082070c3d3.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/163746748/a7082f6cab29b927f42daa082070c3d3.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-era-of-the-great-bamboozle-the>
-
----
-
-## May 16, 2025
-
-date: 2025-05-17, from: Heather Cox Richardson blog
-
-MAGA world is performing over-the-top outrage over a photo former Federal Bureau of Investigation director James Comey posted on Instagram, where he has been teasing a new novel. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/may-16-2025>
-
----
-
-## Weeknotes: May 10-16, 2025
-
-date: 2025-05-17, from: Tracy Durnell Blog
-
-Win of the week: 🦾 actually went to Craig Mod&#8217;s book talk, despite a) it being in Seattle*, b) there being over 50 people there and I&#8217;ve only been to an event this big once since Covid, and c) finding mouse poop in the car again when I got in to leave 😾 *(it only [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/05/16/weeknotes-may-10-16-2025/>
-
----
-
-## Puzzmo Is Getting a Native iOS App Monday
-
-date: 2025-05-17, updated: 2025-05-17, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theverge.com/games/668478/puzzmo-is-finally-getting-an-app>
 

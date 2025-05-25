@@ -1,11 +1,167 @@
 ---
 title: going electric
-updated: 2025-05-24 14:08:04
+updated: 2025-05-25 06:08:14
 ---
 
 # going electric
 
-(date: 2025-05-24 14:08:04)
+(date: 2025-05-25 06:08:14)
+
+---
+
+## Tesla co-founder, Komatsu bring mobile Megawatt charging to electric job sites
+
+date: 2025-05-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/komatsu_mobile-charger_AI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>There’s no question that electric construction equipment is safer, more precise, and generally better than the diesel equipment it’s replacing, but getting power to that equipment remains a logistical challenge that hasn’t been solved for. With this new mobile Megawatt charging station, however, Komatsu think they’ve found a solution — <strong>with up to 6 MW of power</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-heavy-machinery,megawatt-charge-standard-mcs,mobile-charging" data-layer-viewtype="unknown" data-post-id="417683" href="https://electrek.co/2025/05/25/tesla-co-founder-komatsu-bring-mobile-megawatt-charging-to-electric-job-sites/#more-417683" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/25/tesla-co-founder-komatsu-bring-mobile-megawatt-charging-to-electric-job-sites/>
+
+---
+
+## A Major Tesla Cheerleader Thinks It Can't Hang With Xiaomi
+
+date: 2025-05-24, from: Inside EVs News
+
+"China may have already won the EV battle," a team of Morgan Stanley analysts said in a note to investors.  
+
+<br> 
+
+<https://insideevs.com/news/760633/tesla-xiaomi-su7-morgan-stanley/>
+
+---
+
+## Opinion: it’s time to start recommending some Tesla alternatives
+
+date: 2025-05-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/completey-different.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>For years, Tesla has been the go-to EV recommendation for “normals” looking for a painless, low-effort experience from their first electric cars. In light of <a href="https://electrek.co/2025/04/03/tesla-cybertruck-recall-fix-joke-leaves-mark-gap/">questionable recalls</a> and its <a href="https://electrek.co/2025/05/23/tesla-ranks-under-unitedhealth-temu-bp-in-brand-reputation-poll-due-to-musk/">CEO’s recent involvement in controversial politics</a>, however, <a href="https://electrek.co/2025/03/03/tesla-owners-get-creative-to-distance-themselves-from-elon-with-new-car-logos-projectors/">people are starting to distance themselves from the trailblazing company</a>.</p>
+
+
+
+<p>All that begs the question: <strong>what should we recommend to EV noobs now</strong>?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,opinion,tesla,volvo" data-layer-viewtype="unknown" data-post-id="417606" href="https://electrek.co/2025/05/24/opinion-its-time-to-start-recommending-some-tesla-alternatives/#more-417606" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/24/opinion-its-time-to-start-recommending-some-tesla-alternatives/>
+
+---
+
+## Congress Is On Track To End America's Battery Boom
+
+date: 2025-05-24, from: Inside EVs News
+
+The One Big Beautiful Bill Act could slash EV battery manufacturing and destroy thousands of jobs, experts say. 
+
+<br> 
+
+<https://insideevs.com/news/760600/trump-bill-battery-boom-congress/>
+
+---
+
+## The Xiaomi YU7 Looks Even Better In The Real World
+
+date: 2025-05-24, from: Inside EVs News
+
+The YU7 may be lacking in interior room, but it still looks to be a very desirable crossover. 
+
+<br> 
+
+<https://insideevs.com/news/760594/video-yu7-xiaomi-preview-china/>
+
+---
+
+## Republicans won’t defeat EVs – but in fighting them, may kill US auto industry
+
+date: 2025-05-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/BYDs-largest-car-transport-ship-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Republicans launched multiple attacks against EVs, clean air and American jobs this week, at the behest of the oil industry that funds them. These attacks won’t be successful, and EVs will continue to grow regardless, and inevitably take over for outdated gasoline vehicles.</p>
+
+
+
+<p>However, these republican attacks on EVs will still have some effect: they will diminish the US auto industry globally, leading to job losses and surrendering one of the jewels in the crown of American industry to China, where there is no similar effort to destroy its own rapidly growing domestic EV industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="opinion" data-layer-viewtype="unknown" data-post-id="417478" href="https://electrek.co/2025/05/24/republicans-wont-defeat-evs-but-in-fighting-them-may-kill-us-auto-industry/#more-417478" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/24/republicans-wont-defeat-evs-but-in-fighting-them-may-kill-us-auto-industry/>
+
+---
+
+## Heavy equipment space race heats up with new Vermeer lunar excavator
+
+date: 2025-05-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/vermeer_excavator.png?w=1600" /></div><p>International equipment manufacturer Vermeer has unveiled a full-scale prototype of its Interlune excavator, a machine designed to ingest 100 metric tons of rocks and dirt per hour, extracting valuable helium as it makes its way across the surface … of the Moon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-heavy-machinery,nasa" data-layer-viewtype="unknown" data-post-id="417576" href="https://electrek.co/2025/05/24/heavy-equipment-space-race-heats-up-with-new-vermeer-lunar-excavator/#more-417576" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/24/heavy-equipment-space-race-heats-up-with-new-vermeer-lunar-excavator/>
+
+---
+
+## Volkswagen ID. Buzz Owners, Rejoice: Cupholders Coming In June
+
+date: 2025-05-24, from: Inside EVs News
+
+The add-on accessory is expected to cost less than $100 per set and will work with both bench seat and captain's chair-equipped models. 
+
+<br> 
+
+<https://insideevs.com/news/760612/june-cupholder-idbuzz-volkswagen-accessory/>
+
+---
+
+## Humans step up as Texas steps back from autonomous trucking
+
+date: 2025-05-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Latest_Truck_Build__1_.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Texas technology firm <a href="https://electrek.co/2025/05/01/aurora-first-company-deploy-class-8-self-driving-trucks-us-public-roads-video/">Aurora made headlines earlier this month</a> by launching the first fully autonomous freight service in the US – but those celebrations may have been premature. According to the company’s CEO, human operators are back in the saddle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-truck,texas" data-layer-viewtype="unknown" data-post-id="417559" href="https://electrek.co/2025/05/24/humans-step-up-as-texas-steps-back-from-autonomous-trucking/#more-417559" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/24/humans-step-up-as-texas-steps-back-from-autonomous-trucking/>
+
+---
+
+## Bollinger Motors circles the drain as court cases, debts pull it down [update]
+
+date: 2025-05-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/bollinger_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A federal court judge in Michigan has placed the once-promising electric truck brand Bollinger Motors’ assets into receivership following claims that the company’s owners still owe its founder, Robert Bollinger, more than $10 million.</p>
+
+
+
+<p><strong>UPDATE</strong>: Bollinger CEO, Bryan Chambers, says all is not lost.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,business,mullen" data-layer-viewtype="unknown" data-post-id="416426" href="https://electrek.co/2025/05/24/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/#more-416426" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/24/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/>
 
 ---
 
@@ -1931,92 +2087,4 @@ date: 2025-05-18, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/05/18/byd-ride-electrifies-oakland-intl-airport-shuttle-bus-fleet/>
-
----
-
-## Tesla pulls all the demand levers with discounts and incentives as sales crash
-
-date: 2025-05-17, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/F5hSGgEWEAAcIyn-e1704126520175.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now pulling on all the demand levers in the US with new discounts and incentives as sales are crashing due to brand damage.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="416453" href="https://electrek.co/2025/05/17/tesla-pulls-demand-levers-discounts-and-incentives-sales-crash/#more-416453" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/05/17/tesla-pulls-demand-levers-discounts-and-incentives-sales-crash/>
-
----
-
-## Chevy Blazer EV Vs. Cadillac Lyriq: How Different Are They?
-
-date: 2025-05-17, from: Inside EVs News
-
-GM is trying harder to differentiate its options in the electric era, as these cars show.  
-
-<br> 
-
-<https://insideevs.com/news/759900/cadillac-lyriq-vs-chevy-blazer-ev/>
-
----
-
-## Game changer: Harbinger launches a medium-duty EREV with 500 mile range
-
-date: 2025-05-17, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/AL-MY24-Harbinger-Truck-Image-250128.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The electric box van experts at Harbinger announced a new, EREV version of their medium-duty van that pairs a big battery with a small, gas-powered ICE engine to offer fleets that are hesitant to electrify a massive 500 miles of autonomy on a single charge + tank.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,erev,harbinger-motors" data-layer-viewtype="unknown" data-post-id="416437" href="https://electrek.co/2025/05/17/game-changer-harbinger-launches-a-medium-duty-erev-with-500-mile-range/#more-416437" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/05/17/game-changer-harbinger-launches-a-medium-duty-erev-with-500-mile-range/>
-
----
-
-## The VW ID Buzz Is A Minivan Without Rear-Seat Cupholders
-
-date: 2025-05-17, from: Inside EVs News
-
-European models get a tray table with a cup holder, but American buyers have to get really creative. 
-
-<br> 
-
-<https://insideevs.com/news/759897/vw-idbuzz-no-cupholder-dilemma/>
-
----
-
-## Here are the cheapest EVs we could find for lease at under $300/month right now [Updated]
-
-date: 2025-05-17, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Cheapest-EVs-lease-May.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said you had to break the bank to drive an EV? Right now, there are a few EV deals for under $300 a month that are hard to pass up. However, the savings may not last long. Here are the cheapest EVs you can get your hands on this May.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/05/17/cheapest-evs-lease-may-under-300-mo/#more-404778" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/05/17/cheapest-evs-lease-may-under-300-mo/>
-
----
-
-## Bollinger Motors circles the drain as court cases, debts pull it down
-
-date: 2025-05-17, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/bollinger-b2-over.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A federal court judge in Michigan has placed the once-promising electric truck brand Bollinger Motors’ assets into receivership following claims that the company’s owners still owe its founder, Robert Bollinger, more than $10 million.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,business,mullen" data-layer-viewtype="unknown" data-post-id="416426" href="https://electrek.co/2025/05/17/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/#more-416426" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/05/17/bollinger-motors-circles-the-drain-as-court-cases-debts-pull-it-down/>
 

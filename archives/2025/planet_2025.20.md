@@ -1,11 +1,776 @@
 ---
 title: planet
-updated: 2025-05-24 14:07:55
+updated: 2025-05-25 06:08:04
 ---
 
 # planet
 
-(date: 2025-05-24 14:07:55)
+(date: 2025-05-25 06:08:04)
+
+---
+
+## Man made bogus calls about bodies in sea off Donegal
+
+date: 2025-05-25, from: RTÉ News
+
+A man who made bogus calls to the emergency services about bodies floating in the sea off Co Donegal, has appeared in court. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0525/1514848-bogus-calls-donegal/>
+
+---
+
+## Sunday's All-Ireland SHC updates
+
+date: 2025-05-25, from: RTÉ News
+
+We have three Leinster SHC matches and a pair of Munster crackers to bring you this afternoon. Don't miss a beat with our Live Updates from around the grounds. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0525/1514849-sundays-all-ireland-shc-updates/>
+
+---
+
+## Pope Leo XIV: Our prayer embraces all those suffering from war
+
+date: 2025-05-25, from: Vatican News
+
+
+                    <p>Following the Regina Caeli, Pope Leo XIV remembers Blessed Stanislaus Streich, beatified on Saturday, as well as the Day of Prayer for the Church in China and the anniversary of the Encyclical “Laudato sì”, and invites the faithful to pray for all peoples suffering from war.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-our-prayer-embraces-all-those-suffering-for-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-our-prayer-embraces-all-those-suffering-for-war.html>
+
+---
+
+## Fare dodgers cost transport services estimated €20m
+
+date: 2025-05-25, from: RTÉ News
+
+Over €20 million was lost in revenue on public transport services last year due to fare dodgers, according to estimates by transport regulatory bodies. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0525/1514837-transport-fare-dodgers/>
+
+---
+
+## N Korea detains three over warship launch - state media
+
+date: 2025-05-25, from: RTÉ News
+
+North Korea has detained three people over an accident that occurred during the launch of a new warship this past week, state media reported. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0525/1514835-north-korea-warship-launch/>
+
+---
+
+## Pope at Regina Caeli: 'Let us walk in the joy of the faith'
+
+date: 2025-05-25, from: Vatican News
+
+
+                    <p>During his Regina Caeli address, Pope Leo XIV remembers Jesus' call for our hearts to not be troubled and urges us to walk in the joy of the faith, while also expressing appreciation for the affection the faithful have been offering him.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-regina-caeli-25-may-2024-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-regina-caeli-25-may-2024-vatican.html>
+
+---
+
+## Element Pictures claims double win at Cannes
+
+date: 2025-05-25, from: RTÉ News
+
+Dublin and London-based film company Element Pictures have won two awards for a second year running at the Cannes Film Festival. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0525/1514827-element-pictures-claims-double-win-at-cannes/>
+
+---
+
+## Australia airdrops supplies to farmers stranded by floods
+
+date: 2025-05-25, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0525/1514815-australia-floods/>
+
+---
+
+## Three women killed in separate road incidents in 24 hours
+
+date: 2025-05-25, from: RTÉ News
+
+Three women have been killed in separate road incidents in Wexford, Clare and Meath in the last 24 hours. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0525/1514811-wexford-pedestrian-death/>
+
+---
+
+## Brokenhead Ojibway Nation welcomes 1st buffalo calves in decades
+
+date: 2025-05-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7542162.1748017606!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brokenhead-ojibway-nation-bison-and-calf.jpg' alt='a mother bison nuzzles her baby on the pasture.' width='620' height='349' title='For the first months of life, the baby calves are dependent on their mothers and rarely leave their side.'/><p>Its been more than two decades since Brokenhead Ojibway Nation had a buffalo herd, but that changed in December. This calving season the community is welcoming some new hoofed neighbours.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/brokenheadnewbisonherd-1.7542629?cmp=rss>
+
+---
+
+## Russia and Ukraine complete largest prisoner swap
+
+date: 2025-05-25, from: RTÉ News
+
+Russia and Ukraine have completed a three-day prisoner of war exchange, with each side swapping 303 more detainees today, Russian Defence Ministry has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0525/1514807-ukraine/>
+
+---
+
+## Israeli strikes kill 20 in Gaza, including journalist
+
+date: 2025-05-25, from: RTÉ News
+
+Israeli military strikes have killed at least 20 Palestinians across Gaza, including a local journalist and a senior rescue service official, local health authorities said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0525/1514806-middle-east/>
+
+---
+
+## Harris warns US of risks with investigation of pharma
+
+date: 2025-05-25, from: RTÉ News
+
+Tánaiste Simon Harris has written to US Commerce Secretary Howard Lutnick to warn against US investigations into the pharmaceutical and semiconductor sectors. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0525/1514805-politics-tariffs/>
+
+---
+
+## Pets of people fleeing domestic violence offered shelter
+
+date: 2025-05-25, from: RTÉ News
+
+Pets are rarely considered as a barrier for those seeking to escape from domestic violence, but behind closed doors, they are often used by abusers to control their partners and their children. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0525/1514764-domestic-abuse/>
+
+---
+
+## Watch: Volunteers prepare for peak fire season in Greece
+
+date: 2025-05-25, from: RTÉ News
+
+In summer 2023, Dimitris Marinelis spent days on the frontline of Europe's biggest wildfire in northern Greece, protecting homes and setting up anti-fire zones as flames engulfed a forest. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0525/1514628-volunteers-greece-fire/>
+
+---
+
+## Ireland may lack 'robust' asylum seeker checks - report
+
+date: 2025-05-25, from: RTÉ News
+
+Immigration officials in Ireland may not be able to perform robust identity checks and security screening on asylum seekers due to the country's lack of access to key EU security databases, a Government report has warned. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0525/1514768-immigration-checks/>
+
+---
+
+## Israel prepares to bypass UN in Gaza as aid drips in
+
+date: 2025-05-25, from: RTÉ News
+
+The UN resumed aid deliveries to Gaza this week, after Israel ordered a temporary pause in the total blockade on food, water and medical supplies that had lasted 80 days. But US-Israeli plans are already underway to sideline the UN's entire relief operation in the territory. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0525/1514630-un-aid-gaza/>
+
+---
+
+## 'Keep thinking about the goal': 87-year-old U of Sask. grad hopes to help revitalize Cree language
+
+date: 2025-05-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7543184.1748124691!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/louise-fraser.jpg' alt='Side-by-side photos of a woman holding a certificate and the same woman teaching in a classroom.' width='620' height='349' title='Fraser returns to the classroom decades later earning a degree that allows her to teach Cree to others  '/><p>At the age of 87, Louise Fraser has achieved her dream of becoming a teacher. When she walked across the stage to accept her degree on Saturday, the residential school survivor said she was reclaiming something that was almost taken from her as a child. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatoon/louise-fraser-87-year-old-graduate-indian-teacher-education-program-1.7543175?cmp=rss>
+
+---
+
+## Russia unleashes its largest air attack of war, killing at least 12, Ukraine says
+
+date: 2025-05-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7543255.1748163670!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='Fire erupts on a street of destroyed buildings.' width='620' height='349' title='In this photo provided by the Ukrainian Emergency Service, firefighters try to put out a fire following a Russian attack in Kyiv region, Ukraine, Sunday, May 25, 2025. '/><p>Officials say a massive Russian attack of drones and missiles targeted the Ukrainian capital and other regions early Sunday in the country for a second consecutive night, killing at least 12 people and injuring dozens.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/kyiv-deaths-russia-ukraine-war-largest-drone-attack-1.7543242?cmp=rss>
+
+---
+
+## Africa Day: Reflecting on energy, inclusivity and a solid future in Africa
+
+date: 2025-05-25, from: Vatican News
+
+
+                    <p>The conference on “Energy, Youth, and the Future: A Global Perspective on the Sustainable Transition from Africa,” was recently organised by Rome’s Pontifical University of Santa Croce in collaboration with Harambee Africa International on the occasion of Africa Day 2025 which is commemorated worldwide on 25 May 2025.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/africa-day-reflecting-on-energy-inclusivity-for-development-a.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/africa-day-reflecting-on-energy-inclusivity-for-development-a.html>
+
+---
+
+## Money dysmorphia: When your mind tricks your wallet
+
+date: 2025-05-25, from: RTÉ News
+
+You've got a steady income, a roof over your head, and maybe even some savings - but why does it never feel like enough? 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0525/1514523-money-dysmorphia-when-your-mind-tricks-your-wallet/>
+
+---
+
+## Canadian recounts ordeal after being stuck in Dominican Republic on 'bogus' drug charges
+
+date: 2025-05-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7542374.1748023574!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jane-wilcox-and-david-bennett.jpg' alt='Jane Wilcox and David Bennett.' width='620' height='349' title='Jane Wilcox and David Bennett'/><p>A Burlington resident who was arrested in the Dominican Republic over accusations of smuggling drugs is recounting his 71-day ordeal in the Caribbean country. The charges were withdrawn in April.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/hamilton/burlington-david-bennett-dominican-republic-1.7542344?cmp=rss>
+
+---
+
+## Woman in her 60s killed in Co Meath road collision
+
+date: 2025-05-24, from: RTÉ News
+
+A woman has died after being hit by a car on the outskirts of Ashbourne, Co Meath. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514791-meath-fatal-collision/>
+
+---
+
+## Champions League glory for McCabe as Arsenal win final
+
+date: 2025-05-24, from: RTÉ News
+
+Katie McCabe played her part for Arsenal as the Gunners stunned holders Barcelona to win the UEFA Women's Champions League final in Lisbon. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0524/1514723-champions-league-glory-for-mccabe-as-arsenal-win-final/>
+
+---
+
+## Aberdeen stun Celtic to win Scottish Cup in shootout
+
+date: 2025-05-24, from: RTÉ News
+
+Dimitar Mitov was the hero as Aberdeen denied Celtic the treble and secured their first Scottish Gas Scottish Cup triumph for 35 years. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0524/1514722-aberdeen-stun-celtic-to-win-scottish-cup-in-shootout/>
+
+---
+
+## Boris Johnson and wife Carrie welcome fourth baby
+
+date: 2025-05-24, from: RTÉ News
+
+Former British prime minister Boris Johnson and his wife Carrie Johnson have welcomed a fourth baby to the family. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0524/1514771-boris-johnson-baby/>
+
+---
+
+## 'First ever' intact Roman pot found in Ireland
+
+date: 2025-05-24, from: RTÉ News
+
+Archaeologists have found what is believed to be the first intact Roman pot in Ireland ever. The pot was unearthed earlier from an archaeological excavation at Drumanagh, near the village of Loughshinny, Co Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514758-roman-pot-discovered/>
+
+---
+
+## The Ecological damage is grave - Ghana Bishops sound alarm on illegal mining
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>The Ghana Catholic Bishops' Conference has issued a searing indictment of the country’s ecological destruction caused by illegal mining, calling for immediate and systemic intervention to halt what they describe as a “threat of national proportion.”</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/the-ecological-damage-is-grave-ghana-bishops-sound-alarm-on-il.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/the-ecological-damage-is-grave-ghana-bishops-sound-alarm-on-il.html>
+
+---
+
+## Woman, 70s, dies after bicycle hit by tractor in Clare
+
+date: 2025-05-24, from: RTÉ News
+
+A cyclist aged in her 70s has died after being hit by a tractor in Co Clare. The woman was cycling on the L3180 at Toonagh in Tulla when she was struck by the tractor at around 12.45pm. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0524/1514766-fatal-clare/>
+
+---
+
+##  Russia launches heaviest attack on Kyiv in years
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>Authorities in Ukraine say Russia has launched a large-scale drone and missile strike on Kyiv, injuring 15 people. It is seen as one of the biggest assaults on the Ukrainian capital since the war began over three years ago.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/russia-launches-heaviest-attack-on-kyiv-in-years.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/russia-launches-heaviest-attack-on-kyiv-in-years.html>
+
+---
+
+## Left-wing coalition can be 'real alternative' - McDonald
+
+date: 2025-05-24, from: RTÉ News
+
+The Sinn Féin President has said she "strongly believes" that a coalition of left-wing parties can take the Government on and offer a "real alternative" to what is currently in power. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0524/1514761-left-coalition/>
+
+---
+
+## Saturday's All-Ireland SFC results and reports
+
+date: 2025-05-24, from: RTÉ News
+
+Read how it all unfolded as Meath, Monaghan, Armagh and Tyrone recorded victories. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0524/1514729-saturdays-all-ireland-sfc-results-and-reports/>
+
+---
+
+## Celebrations mark 10 years since marriage equality vote
+
+date: 2025-05-24, from: RTÉ News
+
+Celebrations have been held at Collins Barracks in Dublin, marking 10 years since Ireland voted 'Yes' in the marriage equality referendum. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514755-equality/>
+
+---
+
+## Bono defends his decision to accept Medal of Freedom
+
+date: 2025-05-24, from: RTÉ News
+
+U2 frontman Bono has spoken out against criticism of his decision to accept the Medal of Freedom from then-US President Joe Biden earlier this year. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0524/1514742-bono-defends-his-decision-to-accept-medal-of-freedom/>
+
+---
+
+## Tenth anniversary of Laudato si
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>On 24 May 2015, the Pope published his social encyclical on the theme of integral ecology, as a new paradigm of justice. “Laudato sì,” with its title taken from the ‘Canticle of the Creatures’ by Saint Francis, became a cornerstone of the Argentinean pope’s magisterium and a reference point for multiple initiatives in favour of the environment. In six chapters, Pope Francis combines concern for the Earth with an appeal for equity, a commitment to society, a call for peace.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/tenth-anniversary-of-laudato-si.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/tenth-anniversary-of-laudato-si.html>
+
+---
+
+## GAA chiefs to meet Mayo board amid financial situation
+
+date: 2025-05-24, from: RTÉ News
+
+GAA president Jarlath Burns and director general Tom Ryan are to attend a special meeting of the Mayo county board on Monday evening. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0524/1514748-gaa-chiefs-to-meet-mayo-board-amid-financial-situation/>
+
+---
+
+## Minister to deliver apology to family of Shane O'Farrell
+
+date: 2025-05-24, from: RTÉ News
+
+Minister for Justice Jim O'Callaghan will deliver a public apology to the family of hit-and-run victim Shane O'Farrell in the Dáil next week. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0524/1514745-shane-ofarrell/>
+
+---
+
+## Thousands flee homes in Mozambique as conflict and disasters fuel worsening crisis
+
+date: 2025-05-24, from: United Nations, Top Stories
+
+More than 25,000 people have been forced to flee their homes in northern Mozambique in recent weeks, as conflict and a series of disasters fuel a worsening humanitarian crisis – one that risks deepening as vital relief operations face a severe funding shortfall. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163671>
+
+---
+
+## Barron can flourish in the Páirc Uí Chaoimh confusion
+
+date: 2025-05-24, from: RTÉ News
+
+Jamie Barron is averaging 15 possessions per game and over 0-07 in scores and assists - and his brilliance will be much-needed in their Munster SHC clash with Cork. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0524/1514739-barron-can-flourish-in-the-pairc-ui-chaoimh-confusion/>
+
+---
+
+## Hundreds queue as new homes go on sale in Dublin
+
+date: 2025-05-24, from: RTÉ News
+
+Hundreds of people queued up as a new housing development went on sale in Dublin 22, between Clondalkin and Lucan. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514738-housing/>
+
+---
+
+## Man arrested in Creeslough investigation is released
+
+date: 2025-05-24, from: RTÉ News
+
+A man aged in his 60s who was arrested yesterday as part of the investigation into an explosion in Creeslough, Co Donegal, in 2022 in which ten people died has been released without charge. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0524/1514730-cresslough/>
+
+---
+
+## Thoom! Pow!! ZZZzzzzzkkKTTT!!! – Battling Space Aliens Since 1898 (re-run)
+
+date: 2025-05-24, from: Vatican Obervatory
+
+At one time newspapers ran stories about Mars and its Martians. This had an impact on the popular culture of the time, and on our popular culture today. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/thoom-pow-zzzzzzzzkkkttt-battling-space-aliens-since-1898-re-run/>
+
+---
+
+## German woman due in court after mass stabbing in Hamburg
+
+date: 2025-05-24, from: RTÉ News
+
+A German woman accused of a mass stabbing attack at a train station in Hamburg will appear before a judge later, while the number of victims wounded rose to 18, police said. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0524/1514727-mass-stabbing-germany/>
+
+---
+
+## Holy See opposes rearmament, calls for respect of humanitarian law
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>Our Editorial Director reflects on the Holy See’s intervention at the UN, drawing on the words of Pope Leo XIV, noting that concrete steps are urgently needed to protect civilians in armed conflicts and to disarm the world. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/no-to-rearmament-humanitarian-law-must-be-respected.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/no-to-rearmament-humanitarian-law-must-be-respected.html>
+
+---
+
+## Gazan Christian's hope that nightmare of war may soon end
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>As Hilda Joseph Ayyad, a parishioner taking refuge at the Holy Family Catholic Parish in Gaza, celebrates her 20th birthday, she shares the weight of war and her spark of hope that conflict may soon end.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/gaza-christian-holy-family-parish-hope-end-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/gaza-christian-holy-family-parish-hope-end-war.html>
+
+---
+
+## Peaky Blinders auction raises £19k for cancer charity
+
+date: 2025-05-24, from: RTÉ News
+
+An auction of original costumes from BBC TV series Peaky Blinders, including a suit worn by actor Cillian Murphy as Tommy Shelby in the show's final scenes, has raised £19,000 for charity in the UK. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0524/1514720-peaky-blinders-auction-raises-l19k-for-cancer-charity/>
+
+---
+
+## Pope: 'Faith and prayer are like salt which gives flavour'
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>Pope Leo XIV gives a warm welcome to Vatican employees and their families, and reminds that 'faith and prayer are like salt which gives flavour,' and that by regularly turning to these key ingredients they will best offer their everyday tasks and responsibilities, and observes that 'popes come and go, but the Curia remains.'</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-vatican-employees-faith-prayer-salt-discourse.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-vatican-employees-faith-prayer-salt-discourse.html>
+
+---
+
+## Nine of Gaza doctor's 10 children 'killed in air strike'
+
+date: 2025-05-24, from: RTÉ News
+
+An Israeli air strike hit the home of a doctor in Gaza killing nine of her 10 children, according to the director of the Hamas-run Health Ministry. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0524/1514714-gaza-israel-strikes/>
+
+---
+
+## Laudato si': Pope Francis’ ecological legacy lives on in Malaysia
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>Inspired by the late Pope Francis' encyclical Laudato si', which came out ten years ago, the Catholic Church in Malaysia is converting used cooking oil into biofuels, planting trees, cutting single-use plastics, recycling candles, and pledging to live out a “deep ecological spirituality."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/malaysia-pope-francis-ecological-legacy-laudato-si-conservation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/malaysia-pope-francis-ecological-legacy-laudato-si-conservation.html>
+
+---
+
+## Lord's Day Reflection: Don't be afraid
+
+date: 2025-05-24, from: Vatican News
+
+
+                    <p>As the Church celebrates the Sixth Sunday of Easter, Jenny Kraska reflects on the theme, "Don't be afraid - even if you're getting married, ordained, or elected pope."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-don-t-be-afraid.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-don-t-be-afraid.html>
+
+---
+
+## Ukraine says 15 people hurt in 'massive' Russian attack
+
+date: 2025-05-24, from: RTÉ News
+
+Russia launched dozens of drones and ballistic missiles at Kyiv overnight in one of the biggest combined aerial attacks on the Ukrainian capital of the three-year war, damaging several apartment buildings and injuring 15 people. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514701-ukraine-russia/>
+
+---
+
+## Aontú leader hits out at Govt 'dysfunction, incompetence'
+
+date: 2025-05-24, from: RTÉ News
+
+Aontú leader Peadar Tóibín has criticised what he said is the Government's "dysfunction, incompetence, lack of accountability and refusal to listen to the people", in a keynote speech at his party's Ard Fheis. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514700-aontu-politics/>
+
+---
+
+## What is behind Donald Trump's 50% tariff on EU imports?
+
+date: 2025-05-24, from: RTÉ News
+
+What is behind the US President Donald Trump's 50% tariff on EU imports to the US? RTÉ's Washington correspondent Sean Whelan looks at the latest developments on both sides of the Atlantic as well as what may happen in the aftermath following the US president's shock announcement 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0524/1514693-us-eu-analysis/>
+
+---
+
+## EU-Israel deal: Why Dutch succeeded where Ireland failed
+
+date: 2025-05-24, from: RTÉ News
+
+Kaja Kallas, the EU's foreign policy chief will instruct the EU's diplomatic arm to carry out a review of the EU-Israel agreement, a small step in relative terms. But why did the Dutch request succeed where Ireland and Spain previously failed? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0524/1514664-eu-israel-analysis/>
+
+---
+
+## Stolen World War II gear returned after online campaign
+
+date: 2025-05-24, from: RTÉ News
+
+Landing gear from a World War II bomber stolen from a memorial to 15 RAF airmen killed in a crash in the Cooley Mountains in Co Louth in 1942 has been returned after a social media campaign by a local community group. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0524/1514696-war-items-returned/>
+
+---
+
+## Is it too late for the US to catch up with China on tech?
+
+date: 2025-05-24, from: RTÉ News
+
+China has outstripped the United States as a global leader in cutting edge science and technology research, according to the Australian Strategic Policy Institute. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514634-china-tech-us/>
+
+---
+
+## The video that blindsided the South African president
+
+date: 2025-05-24, from: RTÉ News
+
+We know Donald Trump can put on a show, and that's exactly what he did in the Oval Office on Wednesday during his South African counterpart Cyril Ramaphosa's visit. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514606-clarity-white-genocide-trump-claims/>
+
+---
+
+## Watch: Exam time tips for sleep, nutrition and more
+
+date: 2025-05-24, from: RTÉ News
+
+On Wednesday 4 June, thousands of secondary school pupils will begin their Leaving Cert and Junior Cycle exams. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0524/1514540-exam-tips/>
+
+---
+
+## How Canada's relationship with Israel went from 'best friend' to breakdown
+
+date: 2025-05-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7509158.1748035834!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-israel-palestinians-20250412-ottawa-palestine-march-april-2025-parliament-hill.jpg' alt='A white woman on a crowded street holds up a flag that is half the Canadian flag and half the Israel flag. ' width='620' height='349' title='A Pro-Israel protestor waves a Canada and Israel flag in-front of Pro-Palestinian protestors during a demonstration protesters are calling a &quot;National March for Palestine&quot; in Ottawa, on Saturday, April 12, 2025.'/><p>The Trudeau government started out in 2015 by continuing the strongly pro-Israel policies it inherited from Stephen Harper. From 2019 on, though, the growing extremism of Israeli politics began to strain ties. But it was Israel's conduct of the current war in Gaza that broke the relationship.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canada-israel-friendship-gaza-1.7541957?cmp=rss>
+
+---
+
+## EU urges respect not threats as Trump pushes 50% tariff
+
+date: 2025-05-24, from: RTÉ News
+
+The European Commission has urged the US to bring respect, not threats, to trade talks after President Donald Trump pushed for a 50% tariff on EU goods. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0524/1514698-eu-trump-tariffs/>
 
 ---
 
@@ -13,7 +778,7 @@ updated: 2025-05-24 14:07:55
 
 date: 2025-05-23, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7543032.1748053947!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rfk-ostriches-composite.jpg' alt='A man in a black suit; ostriches.' width='620' height='349' title='U.S. Health Secretary Robert F. Kennedy Jr. says in a post to X that he has met with Canadian health officials about sparing a flock of B.C. ostriches that have been ordered killed after avian flu was detected in two dead birds in December 2024.'/><p>Roughly 400 birds have been ordered killed after avian flu was detected in 2 carcasses in December.</p> 
+<img src='https://i.cbc.ca/1.7543032.1748144491!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rfk-ostriches-composite.jpg' alt='A man in a black suit; ostriches.' width='620' height='349' title='U.S. Health Secretary Robert F. Kennedy Jr. says in a post to X that he has met with Canadian health officials about sparing a flock of B.C. ostriches that have been ordered killed after avian flu was detected in two dead birds in December 2024.'/><p>Roughly 400 birds have been ordered killed after avian flu was detected in 2 carcasses in December.</p> 
 
 <br> 
 
@@ -37,7 +802,7 @@ Political progress is sometimes described as being about inches not miles, a phr
 
 date: 2025-05-23, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7543015.1748050535!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/a-residential-building-on-fire-in-kyiv-following-a-russian-attack.jpg' alt='A burning residential building in Kyiv, following a Russian attack on the Ukrainian capital.' width='620' height='349' title='Residential building is on fire as following a Russian attack in Kyiv, Ukraine, Saturday, May 24, 2025.'/><p>Russia attacked Ukraine's capital Kyiv early on Saturday with drones and missiles, triggering fires, strewing debris in districts throughout the city and injuring at least eight people, Mayor Vitali Klitschko said.</p> 
+<img src='https://i.cbc.ca/1.7543237.1748153579!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='An explosion lights up the sky in orange colours and smoke as apartments are seen in the foreground.' width='620' height='349' title='An explosion lights up the sky over the city during a Russian drone strike in Kyiv, Ukraine, May 24, 2025. '/><p>Russia attacked Ukraine's capital Kyiv early on Saturday with drones and missiles, triggering fires, strewing debris in districts throughout the city and injuring at least eight people, Mayor Vitali Klitschko said.</p> 
 
 <br> 
 
@@ -2344,7 +3109,7 @@ UN aid workers said on Wednesday that they are still waiting for permission from
 
 ## Biodiversity loss demands urgent global action, says UN chief
 
-date: 2025-05-21, from: United Nations, Top Stories
+date: 2025-05-21, from: United Nations, Climate Change
 
 UN Secretary-General António Guterres has called on countries to radically rethink their relationship with nature, warning that biodiversity loss is a global crisis no nation can ignore. 
 
@@ -3453,7 +4218,7 @@ The UN Secretary-General on Tuesday urged world powers to uphold international m
 
 ## AI threatens one in four jobs – but transformation, not replacement, is the real risk
 
-date: 2025-05-20, from: United Nations, Top Stories
+date: 2025-05-20, from: United Nations, Economic Development
 
 Women and clerical workers face the highest risk of their roles being radically transformed by Artificial Intelligence, prompting calls for inclusive policy responses.&nbsp; 
 
@@ -5392,672 +6157,4 @@ A bomb has exploded outside a fertility clinic in the United States, killing one
 <br> 
 
 <https://www.rte.ie/news/us/2025/0518/1513478-california-fertility-clinic/>
-
----
-
-## Pope criticises systems that exploit nature, the poor
-
-date: 2025-05-17, from: RTÉ News
-
-Pope Leo XIV has pledged to safeguard the Catholic Church's teachings while urging it to face modern challenges head-on, and criticised economic systems that exploit nature and the poor. 
-
-<br> 
-
-<https://www.rte.ie/news/world/2025/0518/1513474-pope-leo-inaugural-mass/>
-
----
-
-## Faultless Scheffler takes control at Quail Hollow
-
-date: 2025-05-17, from: RTÉ News
-
-Scottie Scheffler marched through the overnight leaders to seize control at the PGA Championship on a day when Rory McIlroy's challenge failed to ignite at Quail Hollow. 
-
-<br> 
-
-<https://www.rte.ie/sport/golf/2025/0517/1513476-faultless-scheffler-takes-control-at-quail-hollow/>
-
----
-
-## Austria's JJ wins Eurovision, Israel comes second
-
-date: 2025-05-17, from: RTÉ News
-
-Austria's JJ was crowned winner of the Eurovision Song Contest 2025 following an action-packed Grand Final in Basel, Switzerland, on Saturday night. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0517/1513470-anxious-wait-for-eurovision-2025-winner-begins/>
-
----
-
-## 2 killed, others injured after Mexican navy ship sails into Brooklyn Bridge
-
-date: 2025-05-17, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7538192.1747535910!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/brooklyn-bridge-collision.jpg' alt='A boat sits in a river under a bridge.' width='620' height='349' title='A New York Police Department harbor unit prepares to board the Cuauhtémoc, a masted Mexican Navy training ship that collided with the Brooklyn Bridge, Saturday, May 17, 2025, in New York. (AP Photo/Yuki Iwamura)'/><p>A Mexican navy sailing ship on a global goodwill tour struck the Brooklyn Bridge in New York on Saturday night, snapping its three masts, fatally injuring two crew members and leaving some sailors dangling from harnesses high in the air waiting for help.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/mexican-ship-new-york-city-brooklyn-bridge-crash-1.7538184?cmp=rss>
-
----
-
-## Boy dies after getting into difficulty in water in Sligo
-
-date: 2025-05-17, from: RTÉ News
-
-A boy has died after getting into difficulty in the water at a beach in Co Sligo this afternoon. The young child was swimming at Lissadell beach when the incident occurred. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0517/1513468-sligo/>
-
----
-
-## Two people try to disrupt Israel's Eurovision song
-
-date: 2025-05-17, from: RTÉ News
-
-Israeli representative Yuval Raphael was left "shaken and upset", after pro-Palestinian protesters rushed towards her while she was on stage during the Eurovision Song Contest final 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0517/1513467-two-people-try-to-disrupt-israels-eurovision-song/>
-
----
-
-## Deadly blast at California fertility clinic an 'intentional act of terrorism,' FBI says
-
-date: 2025-05-17, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7538131.1747521532!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/california-explosion.jpg' alt='An aerial view shows the aftermath of an explosion at a building.' width='620' height='349' title='Debris covers the ground after an explosion on Saturday, May 17, 2025 in Palm Springs, Calif.  (ABC7 Los Angeles via AP)'/><p>Akil Davis, the head of the FBI's Los Angeles field office, said Saturday evening that the clinic was deliberately targeted.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/california-fertility-clinic-explosion-1.7538130?cmp=rss>
-
----
-
-## Dubs make statement with dramatic win in Galway
-
-date: 2025-05-17, from: RTÉ News
-
-Tom Lahiff slotted the winning point with the last kick of the game as Dublin battled to a dramatic victory against Galway in an absorbing All-Ireland SFC round-robin Group 4 contest. 
-
-<br> 
-
-<https://www.rte.ie/sport/football/2025/0517/1513371-dubs-make-statement-with-dramatic-win-in-galway/>
-
----
-
-## Eurovision: All the action from the Grand Final
-
-date: 2025-05-17, from: RTÉ News
-
-The glitter, the drama, the music - take a look back at our coverage of the Eurovision Song Contest Grand Final 2025! 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0517/1513442-eurovision-all-the-action-from-the-grand-final/>
-
----
-
-## Palace shock Manchester City to win first ever FA Cup
-
-date: 2025-05-17, from: RTÉ News
-
-Eberechi Eze's 16th-minute goal fired Crystal Palace to the first major trophy in their history as they secured a 1-0 FA Cup victory over Manchester City at Wembley. 
-
-<br> 
-
-<https://www.rte.ie/sport/soccer/2025/0517/1513450-palace-shock-manchester-city-to-win-first-ever-fa-cup/>
-
----
-
-## Pro-Palestinian protesters in Basel ahead of Eurovision
-
-date: 2025-05-17, from: RTÉ News
-
-Pro-Palestinian protesters are gathering at Barfüsserplatz in the heart of Eurovision host city Basel, in Switzerland, ahead of tonight's final of the 2025 competition. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0517/1513448-pro-palestinian-protesters-in-basel-ahead-of-eurovision/>
-
----
-
-## US PGA Championship Day 3 recap: Scheffler seizes day
-
-date: 2025-05-17, from: RTÉ News
-
-Rory McIlroy hasn't quite fired at Quail Hollow. But Scottie Scheffler, Bryson DeChambeau and Jon Rahm have come to play on Moving Day at the season's second major championship. 
-
-<br> 
-
-<https://www.rte.ie/sport/golf/2025/0517/1513407-us-pga-championship-day-3-updates-mcilroy-starts-late/>
-
----
-
-## Anniversary of Dublin-Monaghan bombings marked
-
-date: 2025-05-17, from: RTÉ News
-
-The Government is committed to securing truth and justice for the Dublin and Monaghan bombings, Tánaiste Simon Harris has said. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0517/1513440-dublin-monaghan-bombings-anniversary/>
-
----
-
-## Cats win Leinster camogie title after planned protest
-
-date: 2025-05-17, from: RTÉ News
-
-The Leinster Camogie final between Kilkenny and Wexford is under way in Netwatch Dr Cullen Park in Carlow following an expected protest by the players from both teams over the ongoing skorts controversy. 
-
-<br> 
-
-<https://www.rte.ie/sport/camogie/2025/0517/1513439-leinster-camogie-final-throws-in-after-planned-protest/>
-
----
-
-## All-Ireland SFC recap: Galway 2-14 Dublin 1-18
-
-date: 2025-05-17, from: RTÉ News
-
-Dublin edge a thriller to pick up two crucial points in their All-Ireland group opener in Salthill. 
-
-<br> 
-
-<https://www.rte.ie/sport/football/2025/0517/1513438-all-ireland-sfc-galway-v-dublin-updates/>
-
----
-
-## Renowned poet Paul Durcan dies at 80
-
-date: 2025-05-17, from: RTÉ News
-
-Paul Durcan, one of Ireland's most renowned contemporary poets, has died at the age of 80. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0517/1513432-paul-durcan-poet/>
-
----
-
-## Renowned poet Paul Durcan dies at 80
-
-date: 2025-05-17, from: RTÉ News
-
-Paul Durcan, one of Ireland's most renowned contemporary poets, has died at the age of 80. 
-
-<br> 
-
-<https://www.rte.ie/culture/2025/0517/1513432-paul-durcan-poet/>
-
----
-
-## FA Cup final: Crystal Palace 1-0 Manchester City recap
-
-date: 2025-05-17, from: RTÉ News
-
-Crystal Palace have pulled off a famous upset at Wembley. Read back on how the action unfolded. 
-
-<br> 
-
-<https://www.rte.ie/sport/soccer/2025/0517/1513427-fa-cup-final-crystal-palace-v-manchester-city-updates/>
-
----
-
-## Govt may expand asylum seeker accommodation at Citywest
-
-date: 2025-05-17, from: RTÉ News
-
-The Government is understood to be aiming to purchase the Citywest Hotel in west Dublin in order to significantly expand accommodation for asylum seekers on the site. 
-
-<br> 
-
-<https://www.rte.ie/news/dublin/2025/0517/1513431-citywest-dublin/>
-
----
-
-## Hamas-Israel talks underway as major operation kills hundreds in Gaza
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>Israel launches a major military operation in the Gaza Strip, following days of intensive strikes across the territory that killed hundreds of people. </p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/hamas-israel-doha-talks-military-operation-gaza-humanitarian.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-05/hamas-israel-doha-talks-military-operation-gaza-humanitarian.html>
-
----
-
-## 'Sing with the Pope': Bursting into song in communion with God
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>Fr. Robert Mehlhart, OP, President of the Pontifical Institute of Sacred Music, has begun offering singing lessons on social media, saying the initiative stems from a desire to help people join in song with Pope Leo XIV.</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/sing-with-the-pope-when-we-burst-into-song-its-in-communion.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-05/sing-with-the-pope-when-we-burst-into-song-its-in-communion.html>
-
----
-
-## Pro-Palestinian protesters call for immediate ceasefire
-
-date: 2025-05-17, from: RTÉ News
-
-The organisers of a pro-Palestine protest march in Dublin claim it was one of the biggest to date, with "tens of thousands" of people taking part. 
-
-<br> 
-
-<https://www.rte.ie/news/dublin/2025/0517/1513425-dublin-protest/>
-
----
-
-## Cardinal Parolin: Catholic Social Doctrine can heal global divides
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>At the Centesimus Annus Pro Pontifice Foundation conference on Friday, the Vatican Secretary of State highlights the crucial role of the Social Doctrine of the Church in addressing today’s crises of global governance and polarisation.</p>
-                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-parolin-conference-centesimus-annus-catholic-social-doc.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/vatican-city/news/2025-05/cardinal-parolin-conference-centesimus-annus-catholic-social-doc.html>
-
----
-
-## More than 25 killed as tornadoes hit two US states
-
-date: 2025-05-17, from: RTÉ News
-
-Severe storms that swept through the US states of Missouri, Kentucky and Virginia left more than 25 people dead, laying waste to local communities and cutting off electricity to nearly 200,000, authorities said Saturday. 
-
-<br> 
-
-<https://www.rte.ie/news/us/2025/0517/1513420-us-weather-tornadoes/>
-
----
-
-## 'Dangerous weather' suspends play at PGA Championship
-
-date: 2025-05-17, from: RTÉ News
-
-Play has been suspended at the US PGA Championship just minutes before Rory McIlroy was due to start his third round. 
-
-<br> 
-
-<https://www.rte.ie/sport/golf/2025/0517/1513416-dangerous-weather-suspends-play-at-pga-championship/>
-
----
-
-## Manito Ahbee celebrates 20 years of showcasing Indigenous culture at one of North America's biggest powwows
-
-date: 2025-05-17, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7538100.1747514238!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/powwow-manito-ahbee-2025.jpg' alt='A group of people wearing bright and colourful clothes with feathers dance on a stage. ' width='620' height='349' title='Dancers in the grand entry for the Manito Ahbee powwow at Red River Exhibition Park in Winnipeg on Saturday, May 17, 2025.'/><p>The Manito Ahbee Festival, one of the largest powwows in North America, is marking its 20th anniversary in Winnipeg celebrating First Nations, Metis and Inuit cultures.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/manitoba/manito-ahbee-powwows-north-america-1.7538014?cmp=rss>
-
----
-
-## Pandemic accord can be a ‘gamechanger’ for marginalised communities, says youth advocate
-
-date: 2025-05-17, from: United Nations, Top Stories
-
-An international pandemic prevention treaty, three years in the making, is set to be adopted this week in Geneva. Rehman Hassan, a prominent member of the UN World Health Organization (WHO) Youth Council, is confident the accord could make a huge difference to the way that the world reacts to pandemics. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/05/1163366>
-
----
-
-## UN humanitarian chief demands resumption of aid in Gaza
-
-date: 2025-05-17, from: United Nations, Top Stories
-
-Humanitarians demand access to the Gaza Strip and already have a plan in place to deliver life-saving assistance to civilians, UN Emergency Relief Coordinator Tom Fletcher said in a strong call issued late on Friday evening. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/05/1163391>
-
----
-
-## Civilians killed in drone strike in eastern Ukraine: UN rights monitors
-
-date: 2025-05-17, from: United Nations, Top Stories
-
-A drone strike in eastern Ukraine on Saturday could possibly be the deadliest in recent weeks, the UN Human Rights Monitoring Mission in the country, HRMMU, has said. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/05/1163386>
-
----
-
-## At Arab League Summit, Guterres reiterates call for Gaza ceasefire
-
-date: 2025-05-17, from: United Nations, Top Stories
-
-The UN Secretary-General renewed his call for a ceasefire in the Gaza Strip, and upheld the need for a two-State solution between Israelis and Palestinians, in a speech on Saturday to the League of Arab States Summit in Baghdad. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/05/1163381>
-
----
-
-## Second man charged in UK case involving Chris Brown
-
-date: 2025-05-17, from: RTÉ News
-
-A second man has been charged in relation to a reported assault at a London nightclub involving R&B singer Chris Brown. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0517/1513408-second-man-charged-in-chris-brown-bottle-attack/>
-
----
-
-## What exactly is the Ring of the Fisherman?
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>During the Mass of Inauguration of his pontificate on May 18, Pope Leo XIV will receive the Ring of the Fisherman—a symbol of the Petrine Ministry with deep roots in the New Testament.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/what-exactly-is-the-fishermans-ring.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-05/what-exactly-is-the-fishermans-ring.html>
-
----
-
-## Pope’s mission experience in Peru a gift for his pontificate
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>The Apostolic Nuncio to Peru reflects on the strong ties between the new Pope and the South American nation where he spent much of his life in service.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-peru-mission-interview-apostolic-nuncio-gualtieri.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-peru-mission-interview-apostolic-nuncio-gualtieri.html>
-
----
-
-## Dozens killed after severe weather slams Kentucky, Missouri
-
-date: 2025-05-17, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7538143.1747522731!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-severe-weather.jpg' alt='A person sifts through a pile of debris.' width='620' height='349' title='Anthony Broughton digs through the debris of his destroyed home following a severe storm in the Sunshine Hill neighborhood of London, Ky., Saturday, May 17, 2025. (AP Photo/Timothy D. Easley)'/><p>At least 27 people have been killed by storm systems that swept across part of the U.S. Midwest and South, with Kentucky Gov. Andy Beshear announcing Saturday that 18 of the deaths came in his state and 10 others were hospitalized in critical condition.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/kentucky-storms-1.7537994?cmp=rss>
-
----
-
-## The Skull of St. Thomas Aquinas, Realities, and Science
-
-date: 2025-05-17, from: Vatican Obervatory
-
-St. Thomas Aquinas visited the church of St. Louis Bertrand last year, for a lesson about corporeal realities, faith, and reason. 
-
-<br> 
-
-<https://www.vaticanobservatory.org/sacred-space-astronomy/the-skull-of-st-thomas-aquinas-realities-and-science/>
-
----
-
-## Pope Leo XIV to Centesimus Annus Foundation: 'Give voice to the poor'
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>Pope Leo XIV challenges the Centesimus Annus Foundation to help develop the Church’s Social Doctrine with the “people of God, in this time of great social upheaval, through attentive listening and open dialogue to all.”</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-to-centesimus-annus-foundation-give-voice-to-the-poor.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-to-centesimus-annus-foundation-give-voice-to-the-poor.html>
-
----
-
-## Gazans subjected to 'forced starvation', says President
-
-date: 2025-05-17, from: RTÉ News
-
-President Michael D Higgins has accused the United Nations Security Council of failing "again and again" by not dealing with current famines including what he called the "forced starvation" of the people of Gaza. 
-
-<br> 
-
-<https://www.rte.ie/news/munster/2025/0517/1513396-national-famine-commemoration/>
-
----
-
-## Trump says he plans to call Putin, push for ending 'bloodbath' in Ukraine
-
-date: 2025-05-17, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.5749208.1731307618!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1202252353.jpg' alt='x' width='620' height='349' title='(COMBO) This combination of pictures created on February 21, 2020 shows US President Donald Trump delivers remarks at a Keep America Great rally in Phoenix, Arizona, on February 19, 2020. Russian President Vladimir Putin delivers a speech during a ceremony in Jerusalem on January 23, 2020 commemorating the people of Leningrad during the Second World War Nazi siege on the city. - President Donald Trump on february 21, 2020 dismissed reported warnings by US intelligence that Russia is meddling in this year&apos;s elections as a &quot;hoax&quot; planted by his Democratic rivals. &quot;Another misinformation campaign is being launched by Democrats in Congress saying that Russia prefers me to any of the Do Nothing Democrat candidates who still have been unable to, after two weeks, count their votes in Iowa,&quot; Trump wrote on Twitter. (Photos by JIM WATSON and EMMANUEL DUNAND / AFP) (Photo by JIM WATSON,EMMANUEL DUNAND/AFP via Getty Images)'/><p>Ukrainian President Volodymyr Zelenskyy called on Saturday for stronger sanctions on Moscow after a Russian drone killed nine bus passengers in northeastern Ukraine just hours after the two countries held their first peace talks in three years of war. Meanwhile, U.S. President Donald Trump said he plans to speak by phone Monday with Russian leader Vladimir Putin, followed by Zelenskyy and leaders of various NATO countries, about ending the war in Ukraine.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/ukraine-russia-drone-attack-nine-killed-peace-talks-1.7537975?cmp=rss>
-
----
-
-## Ethiopia hosts World Interfaith Harmony Week to promote unity through faith
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>The 3rd World Interfaith Harmony Week forum held in Addis Ababa has brought together global faith leaders to discuss issues such as peacebuilding, climate justice, and religious freedom, and saw a strong Catholic participation. </p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/ethiopia-world-interfaith-harmony-week-g20.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-05/ethiopia-world-interfaith-harmony-week-g20.html>
-
----
-
-## Israel-Hamas ceasefire talks pick back up as Israeli attacks in Gaza kill hundreds over 72 hours
-
-date: 2025-05-17, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7537972.1747482419!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='Children stand in the middle of a tent camp site after an airstrike.' width='620' height='349' title='Palestinians inspect the site of an Israeli airstrike on a tent sheltering displaced people, in Deir Al-Balah in the central Gaza Strip, May 17, 2025. REUTERS/Ramadan Abed'/><p>Israel and Hamas resumed ceasefire talks on Saturday in Qatar, both sides said, even as Israeli forces ramped up a bombing campaign that has killed hundreds of people over 72 hours, and mobilized for a massive new ground assault.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/gaza-israel-airforce-strikes-1.7537971?cmp=rss>
-
----
-
-## Lord's Day Reflection: Sowing seeds of love and hope
-
-date: 2025-05-17, from: Vatican News
-
-
-                    <p>As the Church celebrates the Fifth Sunday of Easter, Father Luke Gregory reflects on the theme, "Sowing seeds of love and hope."</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-sowing-seeds-of-love-and-hope.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-05/lord-s-day-reflection-sowing-seeds-of-love-and-hope.html>
-
----
-
-## Three Iranians charged in UK counter terrorism probe
-
-date: 2025-05-17, from: RTÉ News
-
-Three Iranian men have been charged with offences under the UK's National Security Act after a major counter terrorism investigation, the Metropolitan police said in a statement. 
-
-<br> 
-
-<https://www.rte.ie/news/uk/2025/0517/1513386-uk-iran-arrests/>
-
----
-
-## Trump says will speak to Putin to end Ukraine 'bloodbath'
-
-date: 2025-05-17, from: RTÉ News
-
-US President Donald Trump has said he will speak by phone to his Russian counterpart Vladimir Putin on Monday to discuss finding a way out of the Ukraine war. 
-
-<br> 
-
-<https://www.rte.ie/news/ukraine/2025/0517/1513384-ukraine-russia/>
-
----
-
-## Partial human remains found at scene of Gaine probe
-
-date: 2025-05-17, from: RTÉ News
-
-Gardaí have confirmed material recovered as part of the investigation into the disappearance of Kerry farmer Mike Gaine are partial human remains. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0517/1513354-michael-gaine/>
-
----
-
-## Subterfuge and high stakes - what happened in Istanbul?
-
-date: 2025-05-17, from: RTÉ News
-
-A day later than expected, Russian and Ukrainian delegations met face-to-face in Istanbul yesterday for the first time in more than three years. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0517/1513326-ukraine-russia-talks/>
-
----
-
-## Opposition parties unite over children's health
-
-date: 2025-05-17, from: RTÉ News
-
-At 10am next Tuesday morning, a 14-year-old girl will begin a 50-hour sleepout protest outside the Dáil. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0517/1513334-childrens-health/>
-
----
-
-## EMMY on Eurovision: 'I was so grateful to be there'
-
-date: 2025-05-17, from: RTÉ News
-
-EMMY has been reflecting on her semi-final exit from the Eurovision Song Contest, admitting her disappointment but also the joy she felt as she got to "fulfil my childhood dream". 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0517/1513299-emmy-on-eurovision-i-was-so-grateful-to-be-there/>
-
----
-
-## It's Basel dazzle as Eurovision winner crowned tonight
-
-date: 2025-05-17, from: RTÉ News
-
-The countdown is on to tonight's Eurovision Song Contest Grand Final as Basel, Switzerland hosts the world's biggest televised live music event. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0517/1513322-its-basel-dazzle-as-eurovision-winner-crowned-tonight/>
-
----
-
-## US loses last remaining Triple-A credit rating
-
-date: 2025-05-17, from: RTÉ News
-
-Moody's Credit Rating agency downgraded the US sovereign credit rating yesterday due to concerns about the nation's growing $36 trillion debt pile. 
-
-<br> 
-
-<https://www.rte.ie/news/business/2025/0517/1513370-us-credit-rating/>
-
----
-
-## Scientists gobsmacked by never-seen footage of earth rupturing during Myanmar quake
-
-date: 2025-05-17, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7536661.1747365635!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/myanmar-earthquake-mandalay-building-collapse.jpg' alt='A person walks past a white concrete building that is tilted backward and damaged from an earthquake.' width='620' height='349' title='A man walks past a collapsed building in Mandalay on April 1, 2025, a few days after the deadly Myanmar earthquake. After a night sprawled out on cardboard panels under hastily erected plastic tarps, hundreds of Mandalay residents arose to another day of earthquake recovery, wondering when they can return safely to permanent shelter. '/><p>The video was captured by a surveillance camera on March 28 when a violent earthquake struck the southeast Asian country of Myanmar — causing widespread damage as far away as Bangkok in neighbouring Thailand, and killing some 3,700 people, according to Myanmar's ruling military junta. </p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/myanmar-earthquake-rupture-video-1.7536653?cmp=rss>
-
----
-
-## Gaza ceasefire talks resume as Israeli attacks kill 146
-
-date: 2025-05-17, from: RTÉ News
-
-Israel and Hamas have resumed ceasefire talks in Qatar, both sides said, even as Israeli forces ramped up a bombing campaign that has killed hundreds of people over 72 hours, and mobilised for a massive new ground assault. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0517/1513369-israel-gaza/>
-
----
-
-## Teen who died in Donegal drowning 'touched every heart'
-
-date: 2025-05-17, from: RTÉ News
-
-One of two teenagers who died when they got into difficulty in Lough Swilly last weekend, "touched every heart", mourners at his funeral were told. 
-
-<br> 
-
-<https://www.rte.ie/news/ulster/2025/0517/1513366-donegal-funeral/>
-
----
-
-## McIlroy avoids early exit as Vegas enjoys halfway lead
-
-date: 2025-05-17, from: RTÉ News
-
-Rory McIlroy narrowly avoided an early exit from the 107th US PGA Championship as he posted a two-under-par second round to make it through to the weekend on the cut line. 
-
-<br> 
-
-<https://www.rte.ie/sport/golf/2025/0517/1513364-mcilroy-avoids-early-exit-as-vegas-enjoys-halfway-lead/>
 

@@ -1,11 +1,151 @@
 ---
 title: socal north
-updated: 2025-05-24 14:07:57
+updated: 2025-05-25 06:08:06
 ---
 
 # socal north
 
-(date: 2025-05-24 14:07:57)
+(date: 2025-05-25 06:08:06)
+
+---
+
+## Clearing my Altadena lot: A milestone in letting go
+
+date: 2025-05-25, updated: 2025-05-25, from: The LAist
+
+As thousands across L.A. County undergo the process of debris removal in the burn scars, our reporter shares her family’s experience. 
+
+<br> 
+
+<https://laist.com/news/clearing-our-altadena-lot-a-milestone-debris-removal-eaton-fire>
+
+---
+
+## The next site for renowned LA muralist Robert Vargas: Altadena's Fair Oaks Burger
+
+date: 2025-05-25, updated: 2025-05-25, from: The LAist
+
+The owners of Fair Oaks Burger say the mural is their tribute to Altadena’s resiliency. An unveiling is set for June 7. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-next-site-for-renowned-la-muralist-robert-vargas-altadenas-fair-oaks-burger>
+
+---
+
+## One daughter’s mission to honor veterans and heal generations on the Eastside
+
+date: 2025-05-25, updated: 2025-05-25, from: The LAist
+
+After growing up with a father forever changed by war, East L.A. author Julie Sands channels her pain into advocacy — and a powerful Memorial Day tribute at Cinco Puntos. 
+
+<br> 
+
+<https://laist.com/news/mission-to-honor-veterans-and-heal-generations-on-the-eastside>
+
+---
+
+## Hannah Gutierrez-Reed, armorer in 'Rust' shooting, is released early
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+She will remain on parole until May 2026. 
+
+<br> 
+
+<https://laist.com/news/hannah-gutierrez-reed-armorer-in-rust-shooting-is-released-early>
+
+---
+
+## That zing in your teeth from a cold treat? Blame this ancient armored fish
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+The sometimes uncomfortable sensations we feel in our teeth may be an evolutionary holdover from the scaly exteriors of ancient armored fish. 
+
+<br> 
+
+<https://laist.com/news/health/that-zing-in-your-teeth-from-a-cold-treat-blame-this-ancient-armored-fish>
+
+---
+
+## Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says
+
+date: 2025-05-24, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The 21-year-old driver did not have her headlights on and may have been impaired, Long Beach police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard">Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard>
+
+---
+
+## FDA alleges fluoride supplements cause gut harms. Scientists aren't convinced
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+The agency is taking steps to remove prescription fluoride products that children swallow. But researchers who study fluoride say it's not harmful and some kids need the treatments. 
+
+<br> 
+
+<https://laist.com/news/health/fda-alleges-fluoride-supplements-cause-gut-harms-scientists-arent-convinced>
+
+---
+
+## $30 hourly wage increase for hotel and airport workers heads to Bass for final approval
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+The workers would be paid $30 an hour by 2028. 
+
+<br> 
+
+<https://laist.com/news/30-hourly-wage-for-hotel-and-airport-workers-head-to-bass-for-final-approval>
+
+---
+
+## The Transiting Los Angeles Podcast – #12: Gondola!
+
+date: 2025-05-24, from: Transiting Los Angeles
+
+John and Janeth look south to Orange County, where Irvine's Great Park has just approved moving ahead with what seems to be a very questionable transportation operation... 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3"></source>
+</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://transitinglosangeles.com/2025/05/24/the-transiting-los-angeles-podcast-12-gondola/>
+
+---
+
+## One person shot on 710 Freeway in Long Beach, CHP says
+
+date: 2025-05-24, from: Longbeach Post
+
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The victim was found wounded in the driver's seat of a pickup truck.</p>
+<p>The post <a href="https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says">One person shot on 710 Freeway in Long Beach, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says>
+
+---
+
+## Los Feliz's Hillhurst asks: Another coffee place?!
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+Within a 10-minute walk on Hillhurst Avenue are a handful of places that serve a cup of joe. And another coffee shop is coming. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/los-feliz-hillhurst-coffee>
 
 ---
 
@@ -1258,90 +1398,4 @@ The viral, rabbit-eared dolls have sparked a booming micro-economy. But rising i
 <br> 
 
 <https://laist.com/news/labubu-love-runs-deep-in-boyle-heights-and-its-boosting-business-for-local-vendors>
-
----
-
-## Silent Stars Shine Again: Honoring Santa Clarita’s Cinematic Roots
-
-date: 2025-05-17, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Santa Clarita’s long-standing connection to the film industry takes center stage once again as the Newhallywood Silent Film Festival returns on Memorial Day weekend, May 23 through May 25. This cherished, annual event celebrates the golden age of silent cinema, honors the pioneers who shaped the foundation of Hollywood and [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/05/17/silent-stars-shine-again-honoring-santa-claritas-cinematic-roots/">Silent Stars Shine Again: Honoring Santa Clarita’s Cinematic Roots</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/05/17/silent-stars-shine-again-honoring-santa-claritas-cinematic-roots/>
-
----
-
-## Suspect identified in 'intentional act of terrorism' near Palm Springs fertility clinic
-
-date: 2025-05-17, updated: 2025-05-18, from: The LAist
-
-Authorities said a 25-year-old man from Twentynine Palms is the alleged bomber. The explosion occurred just before 11 a.m. Saturday. Authorities plan to give the public updates Sunday morning. 
-
-<br> 
-
-<https://laist.com/news/one-person-believed-dead-after-explosion-rocked-the-city-of-palm-springs>
-
----
-
-## Amid global competition for production business, Hollywood is hurting
-
-date: 2025-05-17, updated: 2025-05-17, from: The LAist
-
-Hollywood's plummeting film and TV production levels have studio executives and grassroots groups pushing for better incentives to keep business in California. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/amid-global-competition-for-production-business-hollywood-is-hurting>
-
----
-
-## New to your queerness? Here's how to find a supportive community in your area
-
-date: 2025-05-17, updated: 2025-05-17, from: The LAist
-
-It can be intimidating to enter a new queer space, especially if you're starting to explore your gender and sexuality. Organizers share advice on how to find a support network with confidence. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/new-to-your-queerness-how-to-find-a-supportive-community-in-your-area>
-
----
-
-## Remembering 'Grandma Lee,' who defended Glendale’s monument to 'comfort women'
-
-date: 2025-05-17, updated: 2025-05-17, from: The LAist
-
-In Glendale today, Korean American groups pay tribute to one of the last survivors of Japan’s wartime sexual slavery. 
-
-<br> 
-
-<https://laist.com/news/comfort-women-ok-seon-lee-glendale-south-korea>
-
----
-
-## Heads up! Fine art is on a billboard near you this month in LA
-
-date: 2025-05-17, updated: 2025-05-17, from: The LAist
-
-Thirty artists will have their work on billboards across L.A. this May, thanks to The Billboard Creative. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/art-billboards-nonprofit-collective-los-angeles>
-
----
-
-## Soil samples from Pasadena schools show lead, other heavy metals. What does that mean?
-
-date: 2025-05-17, updated: 2025-05-20, from: The LAist
-
-Pasadena Unified School District released results from soil samples this week, five months after the Eaton Fire. 
-
-<br> 
-
-<https://laist.com/news/education/soil-samples-pasadena-unified-schools-lead-arsenic-chromium>
 

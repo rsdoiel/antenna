@@ -1,11 +1,331 @@
 ---
 title: pacific
-updated: 2025-05-24 14:07:57
+updated: 2025-05-25 06:08:07
 ---
 
 # pacific
 
-(date: 2025-05-24 14:07:57)
+(date: 2025-05-25 06:08:07)
+
+---
+
+## Universities see Trump’s Harvard move as a threat to them, too
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>If it happened to Harvard University, could it happen anywhere?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/nation-world-news/universities-see-trumps-harvard-move-as-a-threat-to-them-too/>
+
+---
+
+## Stressed? Vaping could make it worse
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>Honoring May as Mental Health Awareness Month, health professionals and anti-tobacco advocates are offering education on the connection between vaping and mental health issues.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/hawaii-news/stressed-vaping-could-make-it-worse/>
+
+---
+
+## Pivoting from tax cuts to tariffs, Trump ignores economic warning signs
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The day after House Republicans approved an expensive package of tax cuts that rattled financial markets, President Donald Trump pivoted back to his other signature policy priority, unveiling a battery of tariff threats that further spooked investors and raised the prospects of higher prices on American consumers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/nation-world-news/pivoting-from-tax-cuts-to-tariffs-trump-ignores-economic-warning-signs/>
+
+---
+
+## Pacific Islands Heritage Marine National Monument illegally opened to fishing, suit alleges
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>A group of Native Hawaiians and three environmental organizations are challenging the legality of a move by President Donald Trump to permit commercial fishing within a Pacific marine monument.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/hawaii-news/pacific-islands-heritage-marine-national-monument-illegally-opened-to-fishing-suit-alleges/>
+
+---
+
+## Photos: Hokuleʻa ho‘olaule‘a
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>The voyaging canoes Hokule&#8216;a and Hikianalia were celebrated during the Hokule&#8216;a Ho&#8216;olaule&#8216;a Saturday in Hilo before continuing on to French Polynesia. The canoes are fully loaded for the next leg of the Moananuiakea Voyage, a four-year circumnavigation of the Pacific that will traverse approximately 43,000 nautical miles as the vessels visit 36 countries and archipelagos, nearly 100 indigenous territories, and more than 345 ports. Learn more at www.hokulea.com. For additional photos, see Being There in Monday&#8217;s edition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/hawaii-news/photos-hokule%ca%bba-hoolaulea/>
+
+---
+
+## US temporarily lifts some sanctions on Syria
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration on Friday lifted several major sanctions on Syria, a first step toward making good on President Donald Trump&#8217;s promise this month to help the country&#8217;s new leader establish a stable government after the fall of the brutal dictatorship of Bashar Assad last year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/nation-world-news/us-temporarily-lifts-some-sanctions-on-syria/>
+
+---
+
+## US man who lived abroad with his family’s nanny is charged in wife’s murder
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>After arriving at the family business in Douglas, Georgia, and finding his wife fatally shot on Sept. 20, 2006, Jon Worrell called 911 and crumpled to the ground in sobs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/nation-world-news/us-man-who-lived-abroad-with-his-familys-nanny-is-charged-in-wifes-murder/>
+
+---
+
+## Trump gives commencement address at West Point, stressing a new era
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>WEST POINT, N.Y. &#8212; President Donald Trump told cadets in a commencement address at the U.S. Military Academy at West Point on Saturday that they were the first graduates to serve in a &#8220;golden age&#8221; of the nation that was a result of his efforts to rebuild the military and reshape American society.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/nation-world-news/trump-gives-commencement-address-at-west-point-stressing-a-new-era/>
+
+---
+
+## Russia and Ukraine exchange air assaults amid major prisoner swap
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia and Ukraine engaged in large-scale dueling air assaults overnight Saturday, launching hundreds of drones in hourslong raids. The attacks came as both sides were carrying out the war&#8217;s largest prisoner exchange &#8212; a stark reminder that despite ongoing efforts to deescalate the conflict, a resolution remains far off.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/nation-world-news/russia-and-ukraine-exchange-air-assaults-amid-major-prisoner-swap/>
+
+---
+
+## New Gaza aid plan, bypassing UN and billed as neutral, originated in Israel
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>Throughout the war in the Gaza Strip, United Nations agencies and experienced aid groups have overseen the distribution of food aid in the territory. Now Israel is set to transfer that responsibility to a handful of newly formed private organizations with obscure histories and unknown financial backers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/nation-world-news/new-gaza-aid-plan-bypassing-un-and-billed-as-neutral-originated-in-israel/>
+
+---
+
+## Steves: Swiss bliss on a Berner Oberland hike
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>A highlight of one of my European summers was a day I spent hiking in the Swiss Alps, on a hillside above the Berner Oberland&#8217;s Lauterbrunnen Valley. I was with a wonderful group of traveling friends, all eager for a ramble in the high country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/features/steves-swiss-bliss-on-a-berner-oberland-hike/>
+
+---
+
+## Volcano Watch: Inter-episode rumblings at Kilauea
+
+date: 2025-05-25, from: Hawaii Tribune Harold
+
+
+				<p>Witnessing a volcanic eruption is, for many, a once-in-a-lifetime experience. Hawaii Volcanoes National Park welcomes well over a million visitors from around the world every year, and many of these visitors hope to see lava erupting in person. As enthralling as each eruptive episode is, experts at the USGS Hawaiian Volcano Observatory watch just as closely at what&#8217;s happening between episodes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/25/features/volcano-watch-inter-episode-rumblings-at-kilauea/>
+
+---
+
+## Memorial Day: The measure of devotion and the price of freedom
+
+date: 2025-05-25, from: Pacific Island Times
+
+Here, we remember the sons of this land who died in service during Operation Iraqi Freedom and Operation Enduring Freedom. These are not just names on marble.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/memorial-day-the-measure-of-devotion-and-the-price-of-freedom>
+
+---
+
+## Wolves ‘desperate’ to defend home court as Thunder lead series 2-0
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>The Minnesota Timberwolves know that time is running out for them to make a run at the NBA Finals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/wolves-desperate-to-defend-home-court-as-thunder-lead-series-2-0/>
+
+---
+
+## Under Trump, a mainstay for small businesses clamps down
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>For entrepreneurs who want a loan, a government contract or just some advice, the Small Business Administration is generally a first stop. But over the past few months, getting the agency&#8217;s help has become more difficult.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/under-trump-a-mainstay-for-small-businesses-clamps-down/>
+
+---
+
+## Trump turns back to his trade war, threatening Europe and Apple
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump threatened to revive his global trade wars Friday, adding a fresh dose of chaos to trade relationships that had calmed somewhat in recent weeks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/trump-turns-back-to-his-trade-war-threatening-europe-and-apple/>
+
+---
+
+## State audit criticizes Hawai‘i Tourism Authority’s destination management
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>The Hawai&#8216;i Tourism Authority&#8217;s destination management focus is &#8220;not new &#8212; or effective &#8212; and the agency remains unable to gauge its own performance,&#8221; according to the latest state audit, which was especially critical of its community-driven Destination Management Action Plan effort.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/hawaii-news/state-audit-criticizes-hawaii-tourism-authoritys-destination-management/>
+
+---
+
+## Ukraine and Russia begin largest exchange of prisoners of war
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>CHERNIHIV REGION, Ukraine &#8212; Russia and Ukraine began their largest exchange of prisoners of war Friday, with each side returning 390 soldiers and civilians, according to both governments. More swaps were expected Saturday and Sunday, as the two countries have committed to exchange 1,000 prisoners each.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/ukraine-and-russia-begin-largest-exchange-of-prisoners-of-war/>
+
+---
+
+## Knife attack at train station in Hamburg, Germany, wounds at least 17
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>At least 17 people were injured in a knife attack at the central train station in the German city of Hamburg on Friday evening, according to the local fire department.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/knife-attack-at-train-station-in-hamburg-germany-wounds-at-least-17/>
+
+---
+
+## Trump orders faster build-out of nuclear power plants
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump signed four executive orders Friday aimed at accelerating the construction of nuclear power plants in the United States, including a new generation of small, advanced reactors that offer the promise of faster deployment but have yet to be proven.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/trump-orders-faster-build-out-of-nuclear-power-plants/>
+
+---
+
+## National Security Council staff will be cut by half
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>Secretary of State Marco Rubio, who is also serving as the national security adviser, on Friday revealed a significant restructuring of the National Security Council, reducing the size of its staff by at least half, according to a person with knowledge of the move.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/national-security-council-staff-will-be-cut-by-half/>
+
+---
+
+## Judge blocks Trump effort to bar international students at Harvard
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge Friday halted the Trump administration&#8217;s attempts to block international students from attending Harvard University, the nation&#8217;s oldest university and one of its most prestigious.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/judge-blocks-trump-effort-to-bar-international-students-at-harvard/>
+
+---
+
+## Tropical Gardening: Fertilize with organics for healthy vegetable gardens
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>It is time to think about planting your vegetable garden to minimize the effects of increasing food bills. This week and for the next few weeks, let&#8217;s consider a landscapes that feed us.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/features/tropical-gardening-fertilize-with-organics-for-healthy-vegetable-gardens/>
 
 ---
 
@@ -33,6 +353,30 @@ date: 2025-05-23, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/23/hawaii-news/kona-restaurant-shuttered-for-multiple-food-safety-violations/>
+
+---
+
+## 6 must-stay road trip destinations in the Northeast
+
+date: 2025-05-23, updated: 2025-05-23, from: Marianas Variety
+
+(BPT) - Are you trying to plan a vacation but feeling uninspired? Consider taking a road trip through the Northeast this summer! 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/6-must-stay-road-trip-destinations-in-the-northeast/article_a7a44c5c-af95-5dab-a264-c0fbb91f5359.html>
+
+---
+
+## Six Park Personality Types: Which One Are You?
+
+date: 2025-05-23, updated: 2025-05-23, from: Marianas Variety
+
+(NAPSI)—From bustling activity hubs to tranquil nature escapes, public parks offer diverse experiences that cater to the different ways people like to use and enjoy the outdoors. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/community_cares/six-park-personality-types-which-one-are-you/article_dbd37105-cf09-587a-95c4-9217ea10741f.html>
 
 ---
 
@@ -454,6 +798,30 @@ date: 2025-05-23, from: Island Times
 
 ---
 
+## Thinking About Renovating? Check With Your Building Department First
+
+date: 2025-05-23, updated: 2025-05-23, from: Marianas Variety
+
+(StatePoint) From updating an outdated kitchen to adding a home office, home renovations can be exciting. Before you dive in, it’s critical to understand the local safety requirements that impact your projects. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/home_improvement/thinking-about-renovating-check-with-your-building-department-first/article_0ea38a5f-0b85-5f43-bb0a-5ccd9d772efb.html>
+
+---
+
+## 3 Seasonal Prep Tips to Help Homeowners Weather Summer Storms
+
+date: 2025-05-23, updated: 2025-05-23, from: Marianas Variety
+
+(StatePoint) From unexpected downpours to damaging winds, homeowners should be prepared for emergency repairs when storms appear this summer. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/3-seasonal-prep-tips-to-help-homeowners-weather-summer-storms/article_55faf538-d340-5c4c-8b0e-8d9dfd4593fb.html>
+
+---
+
 ## #TakeMeToMānoa scholarship winner surprised by news crew
 
 date: 2025-05-23, from: University of Hawaiʻi News
@@ -521,7 +889,7 @@ The post <a href="https://www.hawaii.edu/news/2025/05/22/merrill-to-lead-emergen
 
 ## 8 ways to protect your home from wildfires
 
-date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+date: 2025-05-22, updated: 2025-05-24, from: Marianas Variety
 
 (BPT) - As wildfire threats grow more severe across the western and southern U.S., Mercury Insurance continues to provide tips to help homeowners proactively reduce their risk. With decades of experience insuring homes in high-risk wildfire zones, Mercury is committed to empowering communities through education, action and accessible insurance solutions. 
 
@@ -574,7 +942,7 @@ date: 2025-05-22, from: Marshal Islands Journal
 
 ## GovGuam revenue collections continue to outpace projections
 
-date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+date: 2025-05-22, updated: 2025-05-25, from: Marianas Variety
 
 HAGÅTÑA (The Guam Daily Post) — Government of Guam revenue collections through the "tax month" of April currently remain comfortably higher than GovGuam finance officials "conservative" projections, according to the Consolidated Revenue and Expenditure report or CRER. 
 
@@ -586,7 +954,7 @@ HAGÅTÑA (The Guam Daily Post) — Government of Guam revenue collections throu
 
 ## Bitcoin surges to all-time peak as crypto sentiment improves
 
-date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+date: 2025-05-22, updated: 2025-05-25, from: Marianas Variety
 
 LONDON/NEW YORK (Reuters) — Bitcoin rose to its highest level on record on Wednesday, eclipsing the previous high from January, as risk sentiment continues to improve after last month's tariff-induced selloff. 
 
@@ -598,7 +966,7 @@ LONDON/NEW YORK (Reuters) — Bitcoin rose to its highest level on record on Wed
 
 ## Chicken Kelaguen Cook-Off, J-Pop at Taste of The Marianas
 
-date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+date: 2025-05-22, updated: 2025-05-25, from: Marianas Variety
 
 (MVA) — That savory Marianas side dish chicken kelaguen is expected to have mouths watering at the 26th Annual Taste of The Marianas International Food Festival this Saturday, May 24. 
 
@@ -610,13 +978,25 @@ date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
 
 ## Scarlett Johansson centers Cannes directorial debut on forgiveness
 
-date: 2025-05-22, updated: 2025-05-22, from: Marianas Variety
+date: 2025-05-22, updated: 2025-05-25, from: Marianas Variety
 
 CANNES, France (Reuters) —   Award-winning actor Scarlett Johansson's directorial debut at the Cannes Film Festival is a story she hopes will challenge audiences to reconsider their perspectives on forgiveness and empathy, she told Reuters on Wednesday. 
 
 <br> 
 
 <https://www.mvariety.com/lifestyle/scarlett-johansson-centers-cannes-directorial-debut-on-forgiveness/article_04c22732-b7b0-45fa-8488-0b68d52832be.html>
+
+---
+
+## Tinian’s pride
+
+date: 2025-05-22, updated: 2025-05-25, from: Marianas Variety
+
+On Wednesday evening, eight nationally recognized student groups from the Commonwealth presented a series of groundbreaking presentations during the Public School STEM Showcase at the American Memorial Park theater. Among them was Tinian High School’s Stephanie Diaz, who participated in the Junior Science and Humanities Symposium (Pacific Region) in Washington, D.C. Diaz, who joined the showcase remotely, spoke about her presentation. She was honored by Board of Education Chair Aschumar Kodep Ogumoro-Uludong, Commissioner of Education Dr. Lawrence F. Camacho, PSS Federal Programs Officer Jacqueline P. Che, BOE Student Representative and Youth Congress Speaker Vinnie Juan Q. Sablan, Science Program Director Asapmar Ogumro (who received Diaz’s recognition on her behalf), Instructional Technology and Distance Education Director Dr. Lorraine Catienza, Statewide Longitudinal Data System Director Dr. Annette Pladevega Sablan, MHS Vice Principal Romolo A. Orsini, ITDE’s Dr. Ria Nathrani and Family Engagement and Community Involvement Coordinator Liela C. Yumul. Also attending the presentation were House Speaker Edmund Villagomez, Sen. Ronnie Calvo, Public Works Secretary Ray N. Yumul, and Youth Sen. Aydeun Sean C. Yumul. Diaz’s achievement was celebrated alongside those of her peers for their contributions to excellence in STEM. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tinian-s-pride/article_4f8e911c-bebc-4a82-b0c5-c24c6bcd0e3b.html>
 
 ---
 
@@ -2818,197 +3198,4 @@ date: 2025-05-18, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/18/features/leipzig-the-german-city-that-helped-halt-communism/>
-
----
-
-## Vanuatu presses for climate justice, warns of irreversible damage in 5 years
-
-date: 2025-05-17, from: Pacific Island Times
-
-By James C. Pearce  Ahead of the third UN Ocean Conference this summer, the International Court of Justice is set to render a... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/vanuatu-pressing-for-climate-justice-warns-that-the-damage-will-be-irreversible-in-five-years>
-
----
-
-## Conservatives imperil GOP megabill that would fulfill Trump’s agenda
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Conservatives on the House Budget Committee on Friday blocked their party&#8217;s megabill from reaching the floor, citing concerns that the legislation to fulfill President Donald Trump&#8217;s domestic agenda would add too much to the deficit.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/conservatives-imperil-gop-megabill-that-would-fulfill-trumps-agenda/>
-
----
-
-## GOP tax bill may hurt the lowest earners and help the richest
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; As Rep. Jason Smith, R-Mo., commenced a marathon session this week to consider a sprawling and expensive Republican tax package, he took special care to emphasize his party&#8217;s commitment to &#8220;hardworking Americans.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/gop-tax-bill-may-hurt-the-lowest-earners-and-help-the-richest/>
-
----
-
-## Audio of special counsel interview adds to renewed debate of Biden’s fitness as president
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; A 2023 audio recording of President Joe Biden speaking haltingly and having memory lapses is the latest in a series of recent disclosures that have reopened a debate over Biden&#8217;s physical and mental fitness while in office and prompted fresh recriminations among Democrats.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/audio-of-special-counsel-interview-adds-to-renewed-debate-of-bidens-fitness-as-president/>
-
----
-
-## As Congress debates cutting Medicaid, a major study shows it saves lives
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>The expansion of Medicaid has saved more than 27,000 lives since 2010, according to the most definitive study yet on the program&#8217;s health effects.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/as-congress-debates-cutting-medicaid-a-major-study-shows-it-saves-lives/>
-
----
-
-## ‘He gets us’: Trump makes a splash in Saudi Arabia
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>RIYADH, Saudi Arabia &#8212; As he waited for President Donald Trump to arrive in a gilded ballroom in the Saudi capital, Riyadh, Mohammad Bahareth was beaming.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/he-gets-us-trump-makes-a-splash-in-saudi-arabia/>
-
----
-
-## 10 New Orleans inmates escape jail through cell wall where toilet was removed
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>The rectangular hole in the cell wall was just big enough for a person to squeeze through. Right next to it, a metal toilet and sink had been ripped from the wall. Above the hole, someone had scrawled a picture of a face with a tongue sticking out and taunting messages for Orleans Parish Sheriff&#8217;s Office officials, saying it was all too &#8220;easy. LOL.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/10-new-orleans-inmates-escape-jail-through-cell-wall-where-toilet-was-removed/>
-
----
-
-## US may drop guilty plea deal with Boeing over deadly Max crashes, lawyers say
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>After years of legal wrangling, Boeing may avoid criminal responsibility for its role in a pair of deadly 737 Max crashes.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/us-may-drop-guilty-plea-deal-with-boeing-over-deadly-max-crashes-lawyers-say/>
-
----
-
-## Trump says ‘a lot of people are starving’ in Gaza and the US wants to help
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>ABU DHABI, United Arab Emirates &#8212; President Donald Trump said Friday that &#8220;a lot of people are starving&#8221; in the Gaza Strip under an Israeli blockade preventing aid deliveries, adding that the U.S. wanted to help alleviate the suffering.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/trump-says-a-lot-of-people-are-starving-in-gaza-and-the-us-wants-to-help/>
-
----
-
-## US downgraded by Moody’s as Trump pushes costly tax cuts
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>The credit rating of the United States received a potentially costly downgrade Friday, as the ratings firm Moody&#8217;s determined that the government&#8217;s rising debt levels stood to grow further if Republicans enact a package of new tax cuts.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/us-downgraded-by-moodys-as-trump-pushes-costly-tax-cuts/>
-
----
-
-## Secret Service questions Comey over social media post about Trump
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>The Secret Service questioned James Comey, the former FBI director, Friday about a social media post he made that Trump&#8217;s Cabinet officials and allies claimed amounted to a call for Trump&#8217;s assassination, according to a law enforcement official.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/secret-service-questions-comey-over-social-media-post-about-trump/>
-
----
-
-## At least 4 dead as tornado strikes St. Louis, mayor says
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>At least four people were killed after a tornado struck St. Louis on Friday afternoon and left a trail of destruction of uprooted trees, downed power lines and collapsed buildings, authorities said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/nation-world-news/at-least-4-dead-as-tornado-strikes-st-louis-mayor-says/>
-
----
-
-## Pedestrian killed in Orchidland crash
-
-date: 2025-05-17, from: Hawaii Tribune Harold
-
-
-				<p>Police launched a negligent homicide investigation after a 21-year-old male pedestrian was killed in a traffic crash Friday evening in Kurtistown.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/05/17/hawaii-news/pedestrian-killed-in-orchidland-crash/>
-
----
-
-## UH Hilo graduate earns doctorate while balancing family, full-time job
-
-date: 2025-05-17, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> Hilo graduate Kristle Akau Giraudy’s journey to a nursing doctorate is rooted in grit, gratitude and a deep love for learning</p>
-The post <a href="https://www.hawaii.edu/news/2025/05/16/uh-hilo-graduate-earns-doctorate-family-full-time-job/"><abbr>UH</abbr> Hilo graduate earns doctorate while balancing family, full-time job</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/05/16/uh-hilo-graduate-earns-doctorate-family-full-time-job/>
 

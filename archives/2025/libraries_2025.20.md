@@ -1,11 +1,47 @@
 ---
 title: libraries
-updated: 2025-05-24 14:08:02
+updated: 2025-05-25 06:08:11
 ---
 
 # libraries
 
-(date: 2025-05-24 14:08:02)
+(date: 2025-05-25 06:08:11)
+
+---
+
+## Dataset for "Divergent estimates of Miocene to Pleistocene upper ocean temperatures in the South Atlantic Ocean from alkenone and coccolith clumped isotope proxies"
+
+date: 2025-05-28, from: ETH Zurich, recently added
+
+Stoll, Heather 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/737537>
+
+---
+
+## FFT-based Galerkin and level-set methods for the homogenized evolution of domain nuclei in ferroelectrics
+
+date: 2025-05-25, from: ETH Zurich, recently added
+
+Cheng, Hsu-Cheng; Nguyen, Lu Trong Khiem; Kochmann, Dennis M.; Cheng, Hsu-Cheng 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/737579>
+
+---
+
+## In Memory of Rob Reich: Musician, Performer, Friend
+
+date: 2025-05-23, from: Internet Archive Blog
+
+We are deeply saddened by the passing of Rob Reich, a remarkable musician whose warmth, humor, and creativity touched the hearts of so many. Based in San Francisco, Rob was [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/05/23/in-memory-of-rob-reich-musician-performer-friend/>
 
 ---
 
@@ -176,6 +212,18 @@ date: 2025-05-20, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/05/20/guest-post-beyond-efficiency-reclaiming-creativity-and-wellbeing-in-the-age-of-ai-and-scholarly-publishing/>
+
+---
+
+## Comprehensive Insulation Design Method of High Voltage Oil-Immersed Pulse Transformers
+
+date: 2025-05-20, from: ETH Zurich, recently added
+
+Stathis, Spyridon; Korthauer, Bastian; Krismer, Florian; Biela, Juergen 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/737581>
 
 ---
 

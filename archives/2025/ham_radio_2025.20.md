@@ -1,11 +1,11 @@
 ---
 title: ham radio
-updated: 2025-05-24 14:07:58
+updated: 2025-05-25 06:08:08
 ---
 
 # ham radio
 
-(date: 2025-05-24 14:07:58)
+(date: 2025-05-25 06:08:08)
 
 ---
 
@@ -322,16 +322,4 @@ date: 2025-05-18, from: Amateur Radio Relay League News
 <br> 
 
 <http://www.arrl.org/news/view/arrl-coverage-of-2025-dayton-hamvention-saturday-may-17>
-
----
-
-## ARRL Coverage of 2025 Dayton Hamvention - Friday, May 16
-
-date: 2025-05-17, from: Amateur Radio Relay League News
-
- 
-
-<br> 
-
-<http://www.arrl.org/news/view/arrl-coverage-of-2025-dayton-hamvention-friday-may-16>
 

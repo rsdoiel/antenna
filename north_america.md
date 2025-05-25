@@ -1,11 +1,37 @@
 ---
 title: north america
-updated: 2025-05-24 14:07:56
+updated: 2025-05-25 06:08:06
 ---
 
 # north america
 
-(date: 2025-05-24 14:07:56)
+(date: 2025-05-25 06:08:06)
+
+---
+
+##  YOU LOVE TO SEE IT: It’s A Sunny Day On Sesame Street 
+
+date: 2025-05-24, from: The Lever News
+
+ Elmo gets an upgrade, climate villains pay up, a judge rules for peace, and data centers cool off.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-its-a-sunny-day-on-sesame-street/>
+
+---
+
+## Jim Crogan, 1951-2025: Reporter Was Unsung but Not Forgotten
+
+date: 2025-05-24, from: Capital and Main
+
+<p>Former colleagues remember the veteran journalist as “an invaluable voice” in Los Angeles media.</p>
+<p>The post <a href="https://capitalandmain.com/jim-crogan-1951-2025-reporter-was-unsung-but-not-forgotten">Jim Crogan, 1951-2025: Reporter Was Unsung but Not Forgotten</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/jim-crogan-1951-2025-reporter-was-unsung-but-not-forgotten>
 
 ---
 
@@ -802,28 +828,4 @@ date: 2025-05-18, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-clear-skies-and-dirty-secrets/>
-
----
-
-## SCOTUS Judo Flips Trump
-
-date: 2025-05-17, from: The Contrarian
-
-Publisher's Roundup, 18 
-
-<br> 
-
-<https://contrarian.substack.com/p/scotus-judo-flips-trump>
-
----
-
-##  YOU LOVE TO SEE IT: Face Off At The Airport 
-
-date: 2025-05-17, from: The Lever News
-
- Airport security gets less invasive, unemployment scores a boost, judgment day for jet fuel spill, and data trackers pay up.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-face-off-at-the-airport/>
 

@@ -1,11 +1,42 @@
 ---
 title: writing
-updated: 2025-05-24 14:08:00
+updated: 2025-05-25 06:08:09
 ---
 
 # writing
 
-(date: 2025-05-24 14:08:00)
+(date: 2025-05-25 06:08:09)
+
+---
+
+## Magazines Received – May
+
+date: 2025-05-24, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Asimov’s Science Fiction</p>
+<ul>
+<li>Sheila Williams, ed. Vol. 49 Nos. 5 &#38; 6, May/June 2025, $9.99, bimonthly, 208pp, 15 x </li></ul></div></div> <a href="https://locusmag.com/2025/05/magazines-received-may-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/magazines-received-may-4/>
+
+---
+
+## The Witch Roads by Kate Elliott: Review by Liz Bourke
+
+date: 2025-05-24, from: Locus Magazine
+
+<p><strong>The Witch Roads</strong>, Kate Elliott (Tor 978-1-250-33861-7, $29.99, 448pp, hc) June 2025. Cover by Raja Nandepu.</p>
+<p>For the last several years, one thing has become apparent: Kate Elliott has levelled up her writing game from its pre-existing heights, and dedicated herself to writing absolute bangers. <strong>Unconquerable Sun </strong>is ambitious and appealing epic space opera; <strong>Furious Heaven</strong>, its sequel, ups the level of ambition and political so­phistication with astonishing  <a href="https://locusmag.com/2025/05/the-witch-roads-by-kate-elliott-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/the-witch-roads-by-kate-elliott-review-by-liz-bourke/>
 
 ---
 
@@ -487,17 +518,4 @@ date: 2025-05-18, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/05/the-martian-contingency-by-mary-robinette-kowal-review-by-adrienne-martini/>
-
----
-
-## Vanishing World by Sayaka Murata: Review by Niall Harrison
-
-date: 2025-05-17, from: Locus Magazine
-
-<p><strong>Vanishing World</strong>, Sayaka Murata (Grove Press 978-0-8021-6366-7, $28.00, 233pp, hc) April 2025.</p>
-<p>So I turned to <strong>Vanishing World </strong>in the hopes of finding something that would refuse my subcon­scious’s attempts to read through the lens of cur­rent events, and more or less succeeded. Sayaka Murata’s third novel in English is a cunning inversion of her first. Both novels have a kind of thought-experiment clarity to them; both are streamlined  <a href="https://locusmag.com/2025/05/vanishing-world-by-sayaka-murata-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/05/vanishing-world-by-sayaka-murata-review-by-niall-harrison/>
 
