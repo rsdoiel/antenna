@@ -1,11 +1,135 @@
 ---
 title: going electric
-updated: 2025-05-27 10:23:02
+updated: 2025-05-27 14:08:00
 ---
 
 # going electric
 
-(date: 2025-05-27 10:23:02)
+(date: 2025-05-27 14:08:00)
+
+---
+
+## Tesla Is Hiring Humans To Control Its 'Self-Driving' Robotaxis
+
+date: 2025-05-27, from: Inside EVs News
+
+Tesla seems to be hiring plenty of remote operators who will monitor the self-driving taxis to ensure safety. 
+
+<br> 
+
+<https://insideevs.com/news/760863/tesla-hiring-humans-to-control-robotaxis/>
+
+---
+
+## Tesla spotted with design and feature update for Model S and Model X
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Model-X-refresh-hero-1.png?w=1600" /></div><p>Tesla has been spotted working on what appears to be a mild design update for the Model S and Model X, two vehicle programs that have been in decline.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-s,tesla-model-x" data-layer-viewtype="unknown" data-post-id="417932" href="https://electrek.co/2025/05/27/tesla-spotted-design-feature-update-model-s-x/#more-417932" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/tesla-spotted-design-feature-update-model-s-x/>
+
+---
+
+## US wind + solar outproduced coal and nuclear in Q1 2025 – EIA
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/pexels-photo-8174049.jpeg?quality=82&#038;strip=all&#038;w=750" /></div><p>All renewable energy sources, including wind + solar, produced more than a quarter of US electrical generation in Q1 2025 and provided nearly a third of total US electrical generation in March alone, according to US Energy Information Administration (EIA) data reviewed by the SUN DAY Campaign.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,eia,energy-brief,fossil-fuels,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="417930" href="https://electrek.co/2025/05/27/us-wind-solar-outproduced-coal-and-nuclear-in-q1-2025-eia/#more-417930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/us-wind-solar-outproduced-coal-and-nuclear-in-q1-2025-eia/>
+
+---
+
+## Kia’s Niro is getting a fresh new look, but is the EV version about to be axed?
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kia-Niro-new-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The affordable crossover SUV is due for a facelift, and it already appears to be an improvement. The Niro will arrive with a fresh new look, featuring elements from new <a href="https://electrek.co/guides/kia/">Kia EV models</a>, such as the larger EV9. Meanwhile, rumors suggest that Kia may phase out the Niro EV, as the EV3 is now rolling out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-niro-ev" data-layer-viewtype="unknown" data-post-id="417921" href="https://electrek.co/2025/05/27/kia-niro-gets-fresh-new-look-but-will-ev-be-axed/#more-417921" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/kia-niro-gets-fresh-new-look-but-will-ev-be-axed/>
+
+---
+
+## Another way electric cars clean the air: study says brake dust reduced by 83%
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/clear-blue-sky-clouds-avess-berge-ua2IF9HNaXs-unsplash-e1748369914818.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new study is out which quantifies just how much EVs help not just in cutting harmful exhaust emissions, but also cutting other types of pollution that come from personal vehicles. But of course, public transport, biking and walking are even better.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-quality,regenerative-braking" data-layer-viewtype="unknown" data-post-id="417672" href="https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/#more-417672" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/>
+
+---
+
+## Navee ST3 Pro e-scooter with quad suspension at new $850 low, ECOVACS A2500 RTK robot mower $1,500 low, Lectric, more
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Navee-ST3-Pro-Electric-Scooter-2.webp?w=1200" /></div><p>Just because Memorial Day is over, doesn’t mean the savings are slowing down on eco-friendly tech, and today’s Green Deals feature a mix of new and ongoing discounts at some of the best prices of the season. Headlining today is <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">Navee’s newly launched Father’s Day Sale</a> with up to $264 in savings on its two latest e-scooter series, which includes the new flagship <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">ST3 Pro Electric Scooter</a> with a damping arm suspension system, Apple Find My, and plenty more down at an <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">$850 low</a>, along with some free gear too. Next, we have <a href="https://9to5toys.com/2025/05/27/ecovac-goat-a2500-robot-1500-low-more/">ECOVACS’ new Goat A2500 RTK Robot Lawn Mower</a> returning to its <a href="https://9to5toys.com/2025/05/27/ecovac-goat-a2500-robot-1500-low-more/">$1,500 low</a> for the second time, as well as <a href="https://9to5toys.com/2025/05/27/lectric-xp-lite-2-0-e-bikes-from-999/">Lectric’s XP Lite 2.0 Long-Range e-bikes</a> with $404 free bundled gear starting <a href="https://9to5toys.com/2025/05/27/lectric-xp-lite-2-0-e-bikes-from-999/">from $999</a>. Lastly, we spotted <a href="https://9to5toys.com/2025/05/27/delta-2-expansion-battery-429-low/">EcoFlow’s DELTA 2 Smart Extra Battery</a> dropping back to its <a href="https://9to5toys.com/2025/05/27/delta-2-expansion-battery-429-low/">$429 low</a>. Plus, there’s all the rest of the hangover Green Deals and ongoing Memorial Day EV sales in the links at the bottom of the page, like yesterday’s ongoing increased savings on the <a href="https://9to5toys.com/2025/05/26/ride1up-portola-from-995-more/">Ride1Up Portola e-bike</a>, and more – and don’t forget to browse our <a href="https://9to5toys.com/2025/05/24/memorial-day-weekend-ev-deals-from-214/">Memorial Day EV hub</a> for the hangover savings while they last.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="417892" href="https://electrek.co/2025/05/27/navee-st3-pro-electric-scooter-new-850-low-ecovacs-lectric-more/#more-417892" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/navee-st3-pro-electric-scooter-new-850-low-ecovacs-lectric-more/>
+
+---
+
+## Tesla Is Getting Absolutely Creamed In Europe
+
+date: 2025-05-27, from: Inside EVs News
+
+EV sales are up in Europe. Why are Tesla's down by nearly 50%? 
+
+<br> 
+
+<https://insideevs.com/news/760845/tesla-sales-europe-april-2025/>
+
+---
+
+## CATL’s first 100-second swappable EV batteries debut, proving how far ahead China is
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/CATLs-swappable-EV-batteries-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first vehicles with <a href="https://electrek.co/guides/catl/">CATL’s</a> new ultra-fast swappable EV batteries are now being delivered in China. CATL’s new “Choco-SEB” battery pack can be swapped in 100 seconds, making it just as quick as filling up at a gas station. The new EV features ultra-fast charging and starts at under $24,000 as China widens its lead on the global auto industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl" data-layer-viewtype="unknown" data-post-id="417883" href="https://electrek.co/2025/05/27/catls-100-second-swappable-ev-batteries-proves-china-ahead/#more-417883" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/catls-100-second-swappable-ev-batteries-proves-china-ahead/>
 
 ---
 

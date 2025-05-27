@@ -1,11 +1,97 @@
 ---
 title: north america
-updated: 2025-05-27 10:22:52
+updated: 2025-05-27 14:07:52
 ---
 
 # north america
 
-(date: 2025-05-27 10:22:52)
+(date: 2025-05-27 14:07:52)
+
+---
+
+## Speaking from experience
+
+date: 2025-05-27, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/speaking-from-experience>
+
+---
+
+## There was more to Paul Reubens than Pee-wee Herman 
+
+date: 2025-05-27, from: The Contrarian
+
+A fascinating new documentary examines the fraught relationship between the intensely private actor and his better-known alter ego 
+
+<br> 
+
+<https://contrarian.substack.com/p/there-was-more-to-paul-reubens-than>
+
+---
+
+## How to bring democracy home
+
+date: 2025-05-27, from: The Contrarian
+
+How we speak about the threat matters. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-to-bring-democracy-home>
+
+---
+
+## Offsides with Pablo Torre: The Real Reason Trump Is Attacking Harvard
+
+date: 2025-05-27, from: The Contrarian
+
+We're supposed to believe that Harvard is "anti-capitalist" now? 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164566144/f33d4095a3b4cebb383f06f2e3cc7ec0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164566144/f33d4095a3b4cebb383f06f2e3cc7ec0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/offsides-with-pablo-torre-the-real>
+
+---
+
+## No Shame, No Limits 
+
+date: 2025-05-27, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/no-shame-no-limits>
+
+---
+
+## "Fight Fiercely, Harvard!"
+
+date: 2025-05-27, from: The Contrarian
+
+A terrific round table of Alisyn Camerota, Bill Kristol, and Mike Podhorzer join Harry on Talking Feds Substack to analyze a week in which only a couple things went right for Trump, but they were big-ticket items. 
+
+<br> 
+
+<https://contrarian.substack.com/p/fight-fiercely-harvard>
+
+---
+
+## Let’s do Lunch! 05/27
+
+date: 2025-05-27, from: The Contrarian
+
+A recording from Let's Do Lunch! 05/27 
+
+<br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0527>
 
 ---
 

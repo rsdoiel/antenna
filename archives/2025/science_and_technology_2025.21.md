@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-05-27 10:22:55
+updated: 2025-05-27 14:07:54
 ---
 
 # science and technology
 
-(date: 2025-05-27 10:22:55)
+(date: 2025-05-27 14:07:54)
+
+---
+
+## Arc put on ice as The Browser Company bets big on AI-powered Dia
+
+date: 2025-05-27, updated: 2025-05-27, from: The Register (UK I.T. News)
+
+<h4>No more features for the design darling - now it’s all about chatting with your tabs like they’re sentient</h4> <p>AI is rapidly reshaping how we use the web, or so The Browser Company founder Josh Miller argues. That belief helped drive his team&#39;s decision to stop building new features for its Arc browser and shift focus to an &#34;AI browser&#34; dubbed Dia.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/27/arc_browser_development_ends/>
+
+---
+
+## NASA Interns Conduct Aerospace Research in Microgravity
+
+date: 2025-05-27, from: NASA breaking news
+
+The NASA Science Activation program’s STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Summer Intern Program, hosted by the University of Texas Center for Space Research, continues to expand opportunities for high school students to engage in authentic spaceflight research. As part of the SEES Microgravity Research initiative, four interns were selected […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/nasa-interns-conduct-aerospace-research-in-microgravity/>
+
+---
+
+## Sols 4549-4552: Keeping Busy Over the Long Weekend
+
+date: 2025-05-27, from: NASA breaking news
+
+Written by Conor Hayes, Graduate Student at York University Earth planning date: Friday, May 23, 2025 In Wednesday’s mission update, Alex mentioned that this past Monday’s plan included a “marathon” drive of 45 meters (148 feet). Today, we found ourselves almost 70 meters (230 feet) from where we were on Wednesday. This was our longest […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4549-4552-keeping-busy-over-the-long-weekend/>
+
+---
+
+## AI agents don't care about your pretty website or tempting ads
+
+date: 2025-05-27, updated: 2025-05-27, from: The Register (UK I.T. News)
+
+<h4>&#39;Your well-honed customer experience is noise to an agent&#39;</h4> <p>As software agents powered by foundation models become more commonplace, marketers need to revisit their assumptions about website design and advertising.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/27/ai_agents_confused_by_websites_ads/>
+
+---
+
+## Career Spotlight: Mathematician (Ages 14-18)
+
+date: 2025-05-27, from: NASA breaking news
+
+What does a mathematician do? Mathematicians use their expert knowledge of math to solve problems and gain new understanding about how our world works. They analyze data and create mathematical models to predict results based on changes in variables. Many different fields rely heavily on math, such as engineering, finance, and the sciences. Using math [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/career-spotlight-mathematician-ages-14-18/>
+
+---
+
+## New Russian cyber-spy crew Laundry Bear joins the email-stealing pack
+
+date: 2025-05-27, updated: 2025-05-27, from: The Register (UK I.T. News)
+
+<h4>Dutch intel services, Microsoft go big-game hunting</h4> <p>A previously unknown Kremlin-linked group has conducted cyber-espionage operations against Dutch police, NATO member states, Western tech companies, and other organizations of interest to the Russian government since at least April 2024, according to Dutch intelligence services and Microsoft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/27/new_russian_cyberspy_crew_laundry_bear/>
 
 ---
 

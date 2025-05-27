@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-05-27 10:22:57
+updated: 2025-05-27 14:07:55
 ---
 
 # weather
 
-(date: 2025-05-27 10:22:57)
+(date: 2025-05-27 14:07:55)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2025-05-28, from: Eastern Pacific Basin GIS Data
+date: 2025-05-29, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 27 May 2025 17:13:56 GMT 
+No tropical cyclones as of Tue, 27 May 2025 21:00:06 GMT 
 
 <br> 
 
@@ -30,6 +30,99 @@ The Central North Pacific hurricane season runs from June 1st through November 3
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-05-27, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0245 PM CDT Tue May 27 2025
+
+Valid 281200Z - 291200Z
+
+...New Mexico...
+Isolated dry thunderstorms initiating along higher terrain across
+portions of central New Mexico/Rio Grande Valley are expected
+Wednesday afternoon where fuels remain dry. Slightly elevated
+west-southwest flow will usher in a drier, well mixed boundary layer
+which should erode convective potential from west to east into late
+afternoon and evening. Otherwise, forecast remains largely
+unchanged.
+
+..Williams.. 05/27/2025
+
+.PREV DISCUSSION... /ISSUED 0138 AM CDT Tue May 27 2025/
+
+...Synopsis...
+Mid-level moisture will increase from the east across portions of
+western and central New Mexico on Wednesday as a result of high
+pressure building in across Oklahoma and Texas. Thunderstorm
+coverage will be best across eastern New Mexico, but a few isolated
+high-based storms initiated along the higher terrain will be
+possible on the edge of the better moisture in western/central New
+Mexico. In this region, PW values will be < 0.50". An area of
+isolated dry thunderstorm chances was maintained near the Sandia
+Manzano Mountains west to the San Mateo Mountains in New Mexico with
+this outlook, as fuels in these region are near the 80th-90th
+percentile for dryness.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-05-27, from: Eastern Pacific Basin Tropical Cyclones
+
+785 <br />ABPZ20 KNHC 271732<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Tue May 27 2025<br /><br />For the eastern North Pacific...east of 140 degrees west longitude:<br /><br />South of the Southern Coast of Mexico (EP90):<br />Satellite imagery shows showers and thunderstorms becoming better <br />organized near a broad area of low pressure located several hundred <br />miles south of the coast of southern Mexico. While the system still <br />lacks a well-defined circulation, environmental conditions are <br />favorable for further development, and a tropical depression or <br />tropical storm is expected to form tonight or on Wednesday as the <br />low moves generally west-northwestward at around 10 mph. <br />* Formation chance through 48 hours...high...near 100 percent.<br />* Formation chance through 7 days...high...near 100 percent.<br /><br />$$<br />Forecaster Blake/Mora 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-05-27, from: Eastern Pacific Tropical Weather Outlook
+
+785 &lt;br /&gt;ABPZ20 KNHC 271732&lt;br /&gt;TWOEP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;1100 AM PDT Tue May 27 2025&lt;br /&gt;&lt;br /&gt;For the eastern North Pacific...east of 140 degrees west longitude:&lt;br /&gt;&lt;br /&gt;South of the Southern Coast of Mexico (EP90):&lt;br /&gt;Satellite imagery shows showers and thunderstorms becoming better &lt;br /&gt;organized near a broad area of low pressure located several hundred &lt;br /&gt;miles south of the coast of southern Mexico. While the system still &lt;br /&gt;lacks a well-defined circulation, environmental conditions are &lt;br /&gt;favorable for further development, and a tropical depression or &lt;br /&gt;tropical storm is expected to form tonight or on Wednesday as the &lt;br /&gt;low moves generally west-northwestward at around 10 mph. &lt;br /&gt;* Formation chance through 48 hours...high...near 100 percent.&lt;br /&gt;* Formation chance through 7 days...high...near 100 percent.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Blake/Mora 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-05-27, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Tue May 27 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days. <br><br>$$<br>Forecaster Kelly<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -366,50 +459,6 @@ and severe wind gusts with this activity.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-05-27, from: Eastern Pacific Basin Tropical Cyclones
-
-506 <br />ABPZ20 KNHC 271122<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Tue May 27 2025<br /><br />For the eastern North Pacific...east of 140 degrees west longitude:<br /><br />South of the Southern Coast of Mexico (EP90):<br />Showers and thunderstorms are gradually becoming better organized <br />near a broad area of low pressure located several hundred miles <br />south of the coast of southern Mexico.  While the system <br />currently lacks a well-defined circulation, environmental <br />conditions are favorable for further development, and a tropical <br />depression or tropical storm is expected to form during the next <br />day or two as the low moves generally west-northwestward at around <br />10 mph.<br />* Formation chance through 48 hours...high...90 percent.<br />* Formation chance through 7 days...high...90 percent.<br /><br />$$<br />Forecaster Blake/Mora 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-05-27, from: Eastern Pacific Tropical Weather Outlook
-
-506 &lt;br /&gt;ABPZ20 KNHC 271122&lt;br /&gt;TWOEP &lt;br /&gt;&lt;br /&gt;Tropical Weather Outlook&lt;br /&gt;NWS National Hurricane Center Miami FL&lt;br /&gt;500 AM PDT Tue May 27 2025&lt;br /&gt;&lt;br /&gt;For the eastern North Pacific...east of 140 degrees west longitude:&lt;br /&gt;&lt;br /&gt;South of the Southern Coast of Mexico (EP90):&lt;br /&gt;Showers and thunderstorms are gradually becoming better organized &lt;br /&gt;near a broad area of low pressure located several hundred miles &lt;br /&gt;south of the coast of southern Mexico.  While the system &lt;br /&gt;currently lacks a well-defined circulation, environmental &lt;br /&gt;conditions are favorable for further development, and a tropical &lt;br /&gt;depression or tropical storm is expected to form during the next &lt;br /&gt;day or two as the low moves generally west-northwestward at around &lt;br /&gt;10 mph.&lt;br /&gt;* Formation chance through 48 hours...high...90 percent.&lt;br /&gt;* Formation chance through 7 days...high...90 percent.&lt;br /&gt;&lt;br /&gt;$$&lt;br /&gt;Forecaster Blake/Mora 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-05-27, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue May 27 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days. <br><br>$$<br>Forecaster Kelly<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -1159,52 +1208,6 @@ the stronger cores that can develop this afternoon.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-05-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0247 PM CDT Sun May 25 2025
-
-Valid 261200Z - 271200Z
-
-...NO CRITICAL AREAS...
-
-...Southern New Mexico and far West Texas...
-Lighter winds overall are expected across the Southwest as an
-upper-level trough translates eastward into the Southern/Central
-Plains. Although broad a fire weather threat is not expected across
-southern New Mexico and far West Texas, locally elevated fire
-weather conditions are still possible in typical downslope/leeward
-areas where winds of around 15 mph combined with afternoon relative
-humidity of 5-15 percent and very dry fuels exist.
-
-..Williams.. 05/25/2025
-
-.PREV DISCUSSION... /ISSUED 1214 AM CDT Sun May 25 2025/
-
-...Synopsis...
-Fire weather concerns will remain low on D2/Monday. The upper-level
-trough will move into the Plains on Monday, with rising heights and
-southwest flow relaxing across the Southwest. A very dry air mass
-will remain in place, with afternoon relative humidity around 10-15
-percent across much of Arizona and western New Mexico. Overall, the
-lighter winds preclude the need for highlights on Monday.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 

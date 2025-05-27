@@ -1,11 +1,49 @@
 ---
 title: writing
-updated: 2025-05-27 10:22:57
+updated: 2025-05-27 14:07:56
 ---
 
 # writing
 
-(date: 2025-05-27 10:22:57)
+(date: 2025-05-27 14:07:56)
+
+---
+
+## 2025 Kurd Laßwitz Preis Winners
+
+date: 2025-05-27, from: Locus Magazine
+
+<p>The winners have been announced for the 2025 Kurd Laßwitz Preis. The prize is awarded to German-language SF works published in the previous year.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best German SF Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Proxi</strong>, Aiki Mira (Fischer Tor)</li>
+</ul>
+<ul>
+<li><strong>Der Riss</strong>, Andreas Brandhorst (Heyne)</li>
+<li><strong>Wolfszone</strong>, Christian Endres (Heyne)</li>
+<li><strong>Parts per Million</strong>, Theresa Hannig (Fischer Tor)</li>
+<li><strong>Anahita</strong>, Sven Haupt (Eridanus)</li>
+<li><strong>Lieferdienst</strong>, Tom Hillenbrand (Kiepenheuer &#38; Witsch)</li>
+<li><strong>Views</strong>, Marc-Uwe Kling </li></ul></div> <a href="https://locusmag.com/2025/05/2025-kurd-laswitz-preis-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-kurd-laswitz-preis-winners/>
+
+---
+
+## de Kretser Wins Stella Prize
+
+date: 2025-05-27, from: Locus Magazine
+
+<p><strong>Theory &#38; Practice</strong> by Michelle de Kretser (Catapult) is the winner of the $60,000 2025 Stella Prize.</p>
+<p>Named for Stella Maria Sarah “Miles” Franklin, the Australian gender equity and cultural change organization Stella awards the prize to celebrate literature by Australian women and non-binary writers.</p>
+<p>The 2025 judges were Yassmin Abdel-Magied, Debra Dank, Astrid Edwards (chair), Leah Jing McIntosh, and Rick Morton. For more information, including the complete shortlist and  <a href="https://locusmag.com/2025/05/de-kretser-wins-stella-prize/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/de-kretser-wins-stella-prize/>
 
 ---
 

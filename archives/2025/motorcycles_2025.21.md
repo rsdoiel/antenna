@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-05-27 10:23:00
+updated: 2025-05-27 14:07:58
 ---
 
 # motorcycles
 
-(date: 2025-05-27 10:23:00)
+(date: 2025-05-27 14:07:58)
 
 ---
 
@@ -159,7 +159,7 @@ By Noah Poser, Staff Writer (Editor&#8217;s note: This story has been updated to
 
 date: 2025-05-26, from: Kickin the Tires blog
 
-Alex Palou has cemented himself among the greats of IndyCar racing after winning the 109th Indianapolis 500 on Sunday, in front of a sold-out crowd. The 28 year-old from Barcelona,&#8230;  
+By Austin Lawton, Staff Writer NOTE: After failing post-race technical inspection , the cars of Ericsson, Kyle Kirkwood and Callum Ilott were moved to the back of the field finishing&#8230;  
 
 <br> 
 

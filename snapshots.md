@@ -1,11 +1,322 @@
 ---
 title: snapshots
-updated: 2025-05-27 10:23:03
+updated: 2025-05-27 14:08:02
 ---
 
 # snapshots
 
-(date: 2025-05-27 10:23:03)
+(date: 2025-05-27 14:08:02)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-27, from: Dave Winer's linkblog)
+
+NPR, public radio stations sue Trump White House over funding ban. 
+
+<br> 
+
+<https://www.npr.org/2025/05/27/nx-s1-5413094/npr-public-radio-lawsuit-trump-funding-ban>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-27, from: Dave Winer's linkblog)
+
+Trump Media to raise $2.5 billion to invest in bitcoin. 
+
+<br> 
+
+<https://www.reuters.com/business/trump-media-raise-25-billion-fund-bitcoin-treasury-2025-05-27/?link_source=ta_bluesky_link&taid=6835bf86780d8c0001582f44>
+
+---
+
+## Large Language Models can run tools in your terminal with LLM 0.26
+
+date: 2025-05-27, updated: 2025-05-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://llm.datasette.io/en/stable/changelog.html#v0-26">LLM 0.26</a></strong> is out with the biggest new feature since I started the project: <a href="https://llm.datasette.io/en/stable/tools.html"><strong>support for tools</strong></a>. You can now use the LLM <a href="https://llm.datasette.io/en/stable/usage.html">CLI tool</a> - and <a href="https://llm.datasette.io/en/stable/python-api.html">Python library</a> - to grant LLMs from OpenAI, Anthropic, Gemini and local models from Ollama with access to any tool that you can represent as a Python function.</p>
+<p>LLM also now has <a href="https://llm.datasette.io/en/stable/plugins/directory.html#fragments-and-template-loaders">tool plugins</a>, so you can install a plugin that adds new capabilities to whatever model you are currently using.</p>
+<p>There's a lot to cover here, but here are the highlights:</p>
+<ul>
+<li>
+<strong>LLM can run tools now</strong>! You can <strong>install tools from plugins</strong> and load them by name with <code>--tool/-T name_of_tool</code>.</li>
+<li>You can also <strong>pass in Python function code on the command-line</strong> with the <code>--functions</code> option.</li>
+<li>The <strong>Python API supports tools too</strong>: <code>llm.get_model("gpt-4.1").chain("show me the locals", tools=[locals]).text()</code>
+</li>
+<li>Tools work in <strong>both async and sync contexts</strong>.</li>
+</ul>
+<p>Here's what's covered in this post:</p>
+<ul>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/#trying-it-out">Trying it out</a></li>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/#more-interesting-tools-from-plugins">More interesting tools from plugins</a></li>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/#ad-hoc-command-line-tools-with-functions">Ad-hoc command-line tools with --functions</a></li>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/#tools-in-the-llm-python-api">Tools in the LLM Python API</a></li>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/#why-did-this-take-me-so-long-">Why did this take me so long?</a></li>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/#is-this-agents-then-">Is this agents then?</a></li>
+<li><a href="https://simonwillison.net/2025/May/27/llm-tools/#what-s-next-for-tools-in-llm-">What's next for tools in LLM?</a></li>
+</ul>
+
+
+<h4 id="trying-it-out">Trying it out</h4>
+<p>First, <a href="https://llm.datasette.io/en/stable/setup.html">install the latest LLM</a>. It may not be on Homebrew yet so I suggest using <code>pip</code> or <code>pipx</code> or <code>uv</code>:</p>
+<div class="highlight highlight-source-shell"><pre>uv tool install llm</pre></div>
+<p>If you have it already, <a href="https://llm.datasette.io/en/stable/setup.html#upgrading-to-the-latest-version">upgrade it</a>.</p>
+<div class="highlight highlight-source-shell"><pre>uv tool upgrade llm</pre></div>
+<p>Tools work with other vendors, but let's stick with OpenAI for the moment. Give LLM an OpenAI API key</p>
+<div class="highlight highlight-source-shell"><pre>llm keys <span class="pl-c1">set</span> openai
+<span class="pl-c"><span class="pl-c">#</span> Paste key here</span></pre></div>
+<p>Now let's run our first tool:</p>
+<div class="highlight highlight-source-shell"><pre>llm --tool llm_version <span class="pl-s"><span class="pl-pds">"</span>What version?<span class="pl-pds">"</span></span> --td</pre></div>
+<p>Here's what I get:</p>
+<p><img src="https://static.simonwillison.net/static/2025/llm-tools.gif" alt="Animated demo. I run that command, LLM shows Tool call: llm_version({}) in yellow, then 0.26a1 in green, then streams out the text The installed version is 0.26a1" style="max-width: 100%;" /></p>
+<p><code>llm_version</code> is a very simple demo tool that ships with LLM. Running <code>--tool llm_version</code> exposes that tool to the model - you can specify that multiple times to enable multiple tools, and it has a shorter version of <code>-T</code> to save on typing.</p>
+<p>The <code>--td</code> option stands for <code>--tools-debug</code> - it causes LLM to output information about tool calls and their responses so you can peek behind the scenes.</p>
+<p>This is using the default LLM model, which is usually <code>gpt-4o-mini</code>. I switched it to <code>gpt-4.1-mini</code> (better but fractionally more expensive) by running:</p>
+<div class="highlight highlight-source-shell"><pre>llm models default gpt-4.1-mini</pre></div>
+<p>You can try other models using the <code>-m</code> option. Here's how to run a similar demo of the <code>llm_time</code> built-in tool using <code>o4-mini</code>:</p>
+<div class="highlight highlight-source-shell"><pre>llm --tool llm_time <span class="pl-s"><span class="pl-pds">"</span>What time is it?<span class="pl-pds">"</span></span> --td -m o4-mini</pre></div>
+<p>Outputs:</p>
+<blockquote>
+<p><code>Tool call: llm_time({})</code></p>
+<div class="highlight highlight-source-json"><pre>  {
+    <span class="pl-ent">"utc_time"</span>: <span class="pl-s"><span class="pl-pds">"</span>2025-05-27 19:15:55 UTC<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"utc_time_iso"</span>: <span class="pl-s"><span class="pl-pds">"</span>2025-05-27T19:15:55.288632+00:00<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"local_timezone"</span>: <span class="pl-s"><span class="pl-pds">"</span>PDT<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"local_time"</span>: <span class="pl-s"><span class="pl-pds">"</span>2025-05-27 12:15:55<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"timezone_offset"</span>: <span class="pl-s"><span class="pl-pds">"</span>UTC-7:00<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"is_dst"</span>: <span class="pl-c1">true</span>
+  }</pre></div>
+<p>The current time is 12:15 PM PDT (UTC−7:00) on May 27, 2025, which corresponds to 7:15 PM UTC.</p>
+</blockquote>
+<p>Models from (tool supporting) plugins work too. Anthropic's Claude Sonnet 4:</p>
+<div class="highlight highlight-source-shell"><pre>llm install <span class="pl-s"><span class="pl-pds">'</span>llm-anthropic&gt;=0.16a2<span class="pl-pds">'</span></span>
+llm keys <span class="pl-c1">set</span> anthropic
+<span class="pl-c"><span class="pl-c">#</span> Paste Anthropic key here</span>
+llm --tool llm_version <span class="pl-s"><span class="pl-pds">"</span>What version?<span class="pl-pds">"</span></span> --td -m claude-4-sonnet</pre></div>
+<p>Or Google's Gemini 2.5 Flash:</p>
+<div class="highlight highlight-source-shell"><pre>llm install <span class="pl-s"><span class="pl-pds">'</span>llm-gemini&gt;=0.20a2<span class="pl-pds">'</span></span>
+llm keys <span class="pl-c1">set</span> gemini
+<span class="pl-c"><span class="pl-c">#</span> Paste Gemini key here</span>
+llm --tool llm_version <span class="pl-s"><span class="pl-pds">"</span>What version?<span class="pl-pds">"</span></span> --td -m gemini-2.5-flash-preview-05-20</pre></div>
+<p>You can even run simple tools with Qwen3:4b, a <em>tiny</em> (2.6GB) model that I run using <a href="https://ollama.com/">Ollama</a>:</p>
+<div class="highlight highlight-source-shell"><pre>ollama pull qwen3:4b
+llm install <span class="pl-s"><span class="pl-pds">'</span>llm-ollama&gt;=0.11a0<span class="pl-pds">'</span></span>
+llm --tool llm_version <span class="pl-s"><span class="pl-pds">"</span>What version?<span class="pl-pds">"</span></span> --td -m qwen3:4b</pre></div>
+<p>Qwen 3 calls the tool, thinks about it a bit and then prints out a response:
+<img src="https://static.simonwillison.net/static/2025/llm-tools-qwen.jpg" alt="Tool call: llm_version({}) 0.26a1&lt;think&gt; Okay, the user asked, &quot;What version?&quot; I need to respond with the version of the LLM. The tool provided is llm_version, which returns the installed version. I called that function and got the response 0.26a1. Now I should present this information clearly. Let me check if there's any additional context needed, but the user just asked for the version, so a straightforward answer should work. I'll state the version number and maybe mention that it's the installed version. Keep it simple and precise. &lt;/think&gt; The installed version of the LLM is 0.26a1." style="max-width: 100%;" /></p>
+<h4 id="more-interesting-tools-from-plugins">More interesting tools from plugins</h4>
+<p>This demo has been pretty weak so far. Let's do something a whole lot more interesting.</p>
+<p>LLMs are notoriously bad at mathematics. This is deeply surprising to many people: supposedly the most sophisticated computer systems we've ever built can't multiply two large numbers together?</p>
+<p>We can fix that with tools.</p>
+<p>The <a href="https://github.com/simonw/llm-tools-simpleeval">llm-tools-simpleeval</a> plugin exposes the <a href="https://github.com/danthedeckie/simpleeval">simpleeval</a> "Simple Safe Sandboxed Extensible Expression Evaluator for Python" library by Daniel Fairhead. This provides a robust-enough sandbox for executing simple Python expressions.</p>
+<p>Here's how to run a calculation:</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-tools-simpleeval
+llm -T simpleeval </pre></div>
+<p>Trying that out:</p>
+<div class="highlight highlight-source-shell"><pre>llm -T simple_eval <span class="pl-s"><span class="pl-pds">'</span>Calculate 1234 * 4346 / 32414 and square root it<span class="pl-pds">'</span></span> --td</pre></div>
+<p>I got back this - it tried <code>sqrt()</code> first, then when that didn't work switched to <code>** 0.5</code> instead:</p>
+<pre><code>Tool call: simple_eval({'expression': '1234 * 4346 / 32414'})
+  165.45208860368976
+
+
+Tool call: simple_eval({'expression': 'sqrt(1234 * 4346 / 32414)'})
+  Error: Function 'sqrt' not defined, for expression 'sqrt(1234 * 4346 / 32414)'.
+
+
+Tool call: simple_eval({'expression': '(1234 * 4346 / 32414) ** 0.5'})
+  12.862818066181678
+
+The result of (1234 * 4346 / 32414) is approximately
+165.45, and the square root of this value is approximately 12.86.
+</code></pre>
+<p>I've released four tool plugins so far:</p>
+<ul>
+<li>
+<strong><a href="https://github.com/simonw/llm-tools-simpleeval">llm-tools-simpleeval</a></strong> - as shown above, simple expression support for things like mathematics.</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-tools-quickjs">llm-tools-quickjs</a></strong> - provides access to a sandboxed QuickJS JavaScript interpreter, allowing LLMs to run JavaScript code. The environment persists between calls so the model can set variables and build functions and reuse them later on.</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-tools-sqlite">llm-tools-sqlite</a></strong> - read-only SQL query access to a local SQLite database.</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-tools-datasette">llm-tools-datasette</a></strong> - run SQL queries against a remote <a href="https://datasette.io/">Datasette</a> instance!</li>
+</ul>
+<p>Let's try that Datasette one now:</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-tools-datasette
+llm -T <span class="pl-s"><span class="pl-pds">'</span>Datasette("https://datasette.io/content")<span class="pl-pds">'</span></span> --td <span class="pl-s"><span class="pl-pds">"</span>What has the most stars?<span class="pl-pds">"</span></span></pre></div>
+<p>The syntax here is slightly different: the Datasette plugin is what I'm calling a "toolbox" - a plugin that has multiple tools inside it and can be configured with a constructor.</p>
+<p>Specifying <code>--tool</code> as <code>Datasette("https://datasette.io/content")</code> provides the plugin with the URL to the Datasette instance it should use - in this case the <a href="https://datasette.io/content">content database</a> that powers the Datasette website.</p>
+<p>Here's the output, with the schema section truncated for brevity:</p>
+<p><img src="https://static.simonwillison.net/static/2025/datasette-tool.jpg" alt="U rin the command. It first does a Tool call to Datasette_query with SELECT name, stars, FROM repos ORDER BY stars DESC LIMIT 1. This returns an error message because there is no such column stars. It calls the Datasette_schema() function which returns a whole load of CREATE TABLe statements. Then it executes Datasette_query again this time with SELECT name, stargazers_count FROM repos ORDER BY stargazers_count DES1 LIMIT 1. This returns name=datasette a count of 10020, so the model replies and says The repository with the most stars is &quot;datasette&quot; with 10,020 stars." style="max-width: 100%;" /></p>
+<p>This question triggered three calls. The model started by guessing the query! It tried <code>SELECT name, stars FROM repos ORDER BY stars DESC LIMIT 1</code>, which failed because the <code>stars</code> column doesn't exist.</p>
+<p>The tool call returned an error, so the model had another go - this time calling the <code>Datasette_schema()</code> tool to get the schema of the database.</p>
+<p>Based on that schema it assembled and then executed the correct query, and output its interpretation of the result:</p>
+<blockquote>
+<p>The repository with the most stars is "datasette" with 10,020 stars.</p>
+</blockquote>
+<p>Getting to this point was a real <a href="https://www.penny-arcade.com/comic/2010/09/17/mine-all-mine-part-one">Penny Arcade Minecraft moment</a> for me. The possibilities here are <em>limitless</em>. If you can write a Python function for it, you can trigger it from an LLM.</p>
+<h4 id="ad-hoc-command-line-tools-with-functions">Ad-hoc command-line tools with <code>--functions</code>
+</h4>
+<p>I'm looking forward to people building more plugins, but there's also much less structured and more ad-hoc way to use tools with the LLM CLI tool: the <code>--functions</code> option.</p>
+<p>This was inspired by a similar feature <a href="https://sqlite-utils.datasette.io/en/stable/cli.html#defining-custom-sql-functions">I added to sqlite-utils</a> a while ago.</p>
+<p>You can pass a block of literal Python code directly to the CLI tool using the <code>--functions</code> option, and any functions defined there will be made available to the model as tools.</p>
+<p>Here's an example that adds the ability to search my blog:</p>
+<div class="highlight highlight-source-shell"><pre>llm --functions <span class="pl-s"><span class="pl-pds">'</span></span>
+<span class="pl-s">import httpx</span>
+<span class="pl-s"></span>
+<span class="pl-s">def search_blog(q):</span>
+<span class="pl-s">    "Search Simon Willison blog"</span>
+<span class="pl-s">    return httpx.get("https://simonwillison.net/search/", params={"q": q}).content</span>
+<span class="pl-s"><span class="pl-pds">'</span></span> --td <span class="pl-s"><span class="pl-pds">'</span>Three features of sqlite-utils<span class="pl-pds">'</span></span> -s <span class="pl-s"><span class="pl-pds">'</span>use Simon search<span class="pl-pds">'</span></span></pre></div>
+<p>This is <em>such a hack</em> of an implementation! I'm literally just hitting <a href="https://simonwillison.net/search/?q=pelicans">my search page</a> and dumping the HTML straight back into tho model.</p>
+<p>It totally works though - it helps that the GPT-4.1 series all handle a million tokens now, so crufty HTML is no longer a problem for them.</p>
+<p>(I had to add "use Simon search" as the system prompt because without it the model would try to answer the question itself, rather than using the search tool I provided. System prompts for tools are clearly a <em>big topic</em>, Anthropic's own web search tool has <a href="https://simonwillison.net/2025/May/25/claude-4-system-prompt/#search-instructions">6,471 tokens of instructions</a>!)</p>
+<p>Here's the output I got just now:</p>
+<blockquote>
+<p>Three features of sqlite-utils are:</p>
+<ol>
+<li>It is a combined CLI tool and Python library for manipulating SQLite databases.</li>
+<li>It can automatically add columns to a database table if you attempt to insert data that doesn't quite fit (using the alter=True option).</li>
+<li>It supports plugins, allowing the extension of its functionality through third-party or custom plugins.</li>
+</ol>
+</blockquote>
+<p>A better search tool would have more detailed instructions and would return relevant snippets of the results, not just the headline and first paragraph for each result. This is pretty great for just four lines of Python though!</p>
+<h4 id="tools-in-the-llm-python-api">Tools in the LLM Python API</h4>
+<p>LLM is both a CLI tool and a Python library at the same time (similar to my other project <a href="https://sqlite-utils.datasette.io/">sqlite-utils</a>). The LLM Python library <a href="https://llm.datasette.io/en/stable/python-api.html#tools">grew tool support</a> in LLM 0.26 as well.</p>
+<p>Here's a simple example solving one of the previously hardest problems in LLMs: counting the number of Rs in "strawberry":</p>
+<pre><span class="pl-k">import</span> <span class="pl-s1">llm</span>
+
+<span class="pl-k">def</span> <span class="pl-en">count_char_in_text</span>(<span class="pl-s1">char</span>: <span class="pl-smi">str</span>, <span class="pl-s1">text</span>: <span class="pl-smi">str</span>) <span class="pl-c1">-&gt;</span> <span class="pl-smi">int</span>:
+    <span class="pl-s">"How many times does char appear in text?"</span>
+    <span class="pl-k">return</span> <span class="pl-s1">text</span>.<span class="pl-c1">count</span>(<span class="pl-s1">char</span>)
+
+<span class="pl-s1">model</span> <span class="pl-c1">=</span> <span class="pl-s1">llm</span>.<span class="pl-c1">get_model</span>(<span class="pl-s">"gpt-4.1-mini"</span>)
+<span class="pl-s1">chain_response</span> <span class="pl-c1">=</span> <span class="pl-s1">model</span>.<span class="pl-c1">chain</span>(
+    <span class="pl-s">"Rs in strawberry?"</span>,
+    <span class="pl-s1">tools</span><span class="pl-c1">=</span>[<span class="pl-s1">count_char_in_text</span>],
+    <span class="pl-s1">after_call</span><span class="pl-c1">=</span><span class="pl-s1">print</span>
+)
+<span class="pl-k">for</span> <span class="pl-s1">chunk</span> <span class="pl-c1">in</span> <span class="pl-s1">chain_response</span>:
+    <span class="pl-en">print</span>(<span class="pl-s1">chunk</span>, <span class="pl-s1">end</span><span class="pl-c1">=</span><span class="pl-s">""</span>, <span class="pl-s1">flush</span><span class="pl-c1">=</span><span class="pl-c1">True</span>)</pre>
+<p>The <code>after_call=print</code> argument is a way to peek at the tool calls, the Python equivalent of the <code>--td</code> option from earlier.</p>
+<p>The <code>model.chain()</code> method is new: it's similar to <code>model.prompt()</code> but knows how to spot returned tool call requests, execute them and then prompt the model again with the results. A <code>model.chain()</code> could potentially execute dozens of responses on the way to giving you a final answer.</p>
+<p>You can iterate over the <code>chain_response</code> to output those tokens as they are returned by the model, even across multiple responses.</p>
+<p>I got back this:</p>
+<blockquote>
+<p><code>Tool(name='count_char_in_text', description='How many times does char appear in text?', input_schema={'properties': {'char': {'type': 'string'}, 'text': {'type': 'string'}}, 'required': ['char', 'text'], 'type': 'object'}, implementation=&lt;function count_char_in_text at 0x109dd4f40&gt;, plugin=None) ToolCall(name='count_char_in_text', arguments={'char': 'r', 'text': 'strawberry'}, tool_call_id='call_DGXcM8b2B26KsbdMyC1uhGUu') ToolResult(name='count_char_in_text', output='3', tool_call_id='call_DGXcM8b2B26KsbdMyC1uhGUu', instance=None, exception=None)</code><br /></p>
+<p>There are 3 letter "r"s in the word "strawberry".</p>
+</blockquote>
+<p>LLM's Python library also supports <code>asyncio</code>, and tools can be <code>async def</code> functions <a href="https://llm.datasette.io/en/latest/python-api.html#tool-functions-can-be-sync-or-async">as described here</a>. If a model requests multiple async tools at once the library will run them concurrently with <code>asyncio.gather()</code>.</p>
+<p>The Toolbox form of tools is supported too: you can pass <code>tools=[Datasette("https://datasette.io/content")]</code> to that <code>chain()</code> method to achieve the same effect as the <code>--tool 'Datasette(...)</code> option from earlier.</p>
+<h4 id="why-did-this-take-me-so-long-">Why did this take me so long?</h4>
+<p>I've been tracking <a href="https://simonwillison.net/tags/llm-tool-use/">llm-tool-use</a> for a while. I first saw the trick described in <a href="https://arxiv.org/abs/2210.03629">the ReAcT paper</a>, first published in October 2022 (a month before the initial release of ChatGPT). I built <a href="https://til.simonwillison.net/llms/python-react-pattern">a simple implementation of that</a> in a few dozen lines of Python. It was clearly a very neat pattern!</p>
+<p>Over the past few years it has become <em>very</em> apparent that tool use is the single most effective way to extend the abilities of language models. It's such a simple trick: you tell the model that there are tools it can use, and have it output special syntax (JSON or XML or <code>tool_name(arguments)</code>, it doesn't matter which) requesting a tool action, then stop.</p>
+<p>Your code parses that output, runs the requested tools and then starts a new prompt to the model with the results.</p>
+<p>This works with almost <strong>every model</strong> now. Most of them are specifically trained for tool usage, and there are leaderboards like the <a href="https://gorilla.cs.berkeley.edu/leaderboard.html">Berkeley Function-Calling Leaderboard</a> dedicated to tracking which models do the best job of it.</p>
+<p>All of the big model vendors - OpenAI, Anthropic, Google, Mistral, Meta - have a version of this baked into their API, either called tool usage or function calling. It's all the same underlying pattern.</p>
+<p>The models you can run locally are getting good at this too. Ollama <a href="https://ollama.com/blog/tool-support">added tool support</a> last year, and it's baked into the <a href="https://github.com/ggml-org/llama.cpp/blob/master/docs/function-calling.md">llama.cpp</a> server as well.</p>
+<p>It's been clear for a while that LLM absolutely needed to grow support for tools. I released <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">LLM schema support</a> back in February as a stepping stone towards this. I'm glad to finally have it over the line.</p>
+<p>As always with LLM, the challenge was designing an abstraction layer that could work across as many different models as possible. A year ago I didn't feel that model tool support was mature enough to figure this out. Today there's a very definite consensus among vendors about how this should work, which finally gave me the confidence to implement it.</p>
+<p>I also presented a workshop at PyCon US two weeks ago about <a href="https://simonwillison.net/2025/May/15/building-on-llms/">Building software on top of Large Language Models</a>, which was exactly the incentive I needed to finally get this working in an alpha! Here's the <a href="https://building-with-llms-pycon-2025.readthedocs.io/en/latest/tools.html">tools section</a> from that tutorial.</p>
+<h4 id="is-this-agents-then-">Is this agents then?</h4>
+<p><em>Sigh</em>.</p>
+<p>I still <a href="https://simonwillison.net/2024/Dec/31/llms-in-2024/#-agents-still-haven-t-really-happened-yet">don't like</a> using the term "agents". I worry that developers will think <a href="https://simonwillison.net/2025/May/22/tools-in-a-loop/">tools in a loop</a>, regular people will think virtual AI assistants <a href="https://en.m.wikipedia.org/wiki/Her_(2013_film)">voiced by Scarlett Johansson</a> and academics will <a href="https://simonwillison.net/2025/Mar/19/worms-and-dogs-and-countries/">grumble about thermostats</a>. But in the LLM world we appear to be converging on "tools in a loop", and that's absolutely what this.</p>
+<p>So yes, if you want to build "agents" then LLM 0.26 is a great way to do that.</p>
+<h4 id="what-s-next-for-tools-in-llm-">What's next for tools in LLM?</h4>
+<p>I already have a <a href="https://github.com/simonw/llm/milestone/13">LLM tools v2 milestone</a> with 13 issues in it, mainly around improvements to how tool execution logs are displayed but with quite a few minor issues I decided shouldn't block this release. There's a bunch more stuff in the <a href="https://github.com/simonw/llm/issues?q=is%3Aissue%20state%3Aopen%20label%3Atools">tools label</a>.</p>
+<p>I'm most excited about the potential for plugins.</p>
+<p>Writing tool plugins is <em>really fun</em>. I have an <a href="https://github.com/simonw/llm-plugin-tools">llm-plugin-tools</a> cookiecutter template that I've been using for my own, and I plan to put together a tutorial around that soon.</p>
+<p>There's more work to be done adding tool support to more model plugins. I added <a href="https://llm.datasette.io/en/stable/plugins/advanced-model-plugins.html#supporting-tools">details of this</a> to the advanced plugins documentation. This commit <a href="https://github.com/simonw/llm-gemini/commit/a7f1096cfbb733018eb41c29028a8cc6160be298">adding tool support for Gemini</a> is a useful illustratino of what's involved.</p>
+
+<p>And yes, <strong>Model Context Protocol</strong> support is clearly on the agenda as well. MCP is emerging as the standard way for models to access tools at a frankly bewildering speed. Two weeks ago it wasn't directly supported by the APIs of any of the major vendors. In just the past eight days <a href="https://simonwillison.net/2025/May/27/mistral-agents-api/">it's been added</a> by OpenAI, Anthropic <em>and</em> Mistral! It's feeling like a lot less of a moving target today.</p>
+<p>I want LLM to be able to act as an MCP client, so that any of the MCP servers people are writing can be easily accessed as additional sources of tools for LLM.</p>
+<p>If you're interested in talking more about what comes next for LLM, <a href="https://datasette.io/discord-llm">come and chat to us in our Discord</a>.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/27/llm-tools/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-27, from: Dave Winer's linkblog)
+
+Tesla continues to circle the drain. 
+
+<br> 
+
+<https://www.theverge.com/news/675058/tesla-europe-april-sales-musk-doge-brand-crisis>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-27, from: Dave Winer's linkblog)
+
+Harvard president on Trump funding freeze, international students. 
+
+<br> 
+
+<https://www.npr.org/2025/05/27/nx-s1-5409576/trump-harvard-lawsuit-funding-international-students>
+
+---
+
+## External Payments From the HEY App
+
+date: 2025-05-27, from: Michael Tsai
+
+David Heinemeier Hansson: Well, we risked everything, but also secured a four-year truce, and now near-total victory is at hand: HEY is finally for sale on the iPhone in the US!Credit for this amazing turn of events goes to Epic Games founders Tim Sweeney and Mark Rein, who did what no small developer like us [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/27/external-payments-from-the-hey-app/>
+
+---
+
+## Google I/O 2025
+
+date: 2025-05-27, from: Michael Tsai
+
+Kyle Wiggers and Karyne Levy: Gemini Ultra (only in the U.S. for now) delivers the &#8220;highest level of access&#8221; to Google&#8217;s AI-powered apps and services, according to Google. It&#8217;s priced at $249.99 per month and includes Google&#8217;s Veo 3 video generator, the company&#8217;s new Flow video editing app, and a powerful AI capability called Gemini [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/27/google-i-o-2025/>
+
+---
+
+## Claude 4
+
+date: 2025-05-27, from: Michael Tsai
+
+Anthropic (Hacker News, MacRumors): Claude Opus 4 is the world&#8217;s best coding model, with sustained performance on complex, long-running tasks and agent workflows. Claude Sonnet 4 is a significant upgrade to Claude Sonnet 3.7, delivering superior coding and reasoning while responding more precisely to your instructions.[&#8230;]Both models can use tools&#8212;like web search&#8212;during extended thinking, allowing [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/27/claude-4/>
+
+---
+
+## OpenAI Codex
+
+date: 2025-05-27, from: Michael Tsai
+
+OpenAI (via John Gruber): Today we&#8217;re launching a research preview of Codex: a cloud-based software engineering agent that can work on many tasks in parallel. Codex can perform tasks for you such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review; each task runs in its own cloud [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/27/openai-codex/>
+
+---
+
+## Two new single-board PCs with RK3576 chips: Radxa ROCK 4D and FriendlyELEC NanoPi M5
+
+date: 2025-05-27, from: Liliputing
+
+<p>Rockchip&#8217;s RK3576 processor is an octa-core chip with ARM Cortex-A72 and Cortex-A53 CPU cores, Mali-G52 graphics, and an NPU for up to 6 TOPS of AI performance. It&#8217;s a bit cheaper (and less powerful) than the popular RK3588 chip, but offers the same AI features. Last year Banana Pi launched one of the first single-board [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/two-new-single-board-pcs-with-rk3576-chips-radxa-rock-4d-and-friendlyelec-nanopi-m5/">Two new single-board PCs with RK3576 chips: Radxa ROCK 4D and FriendlyELEC NanoPi M5</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/two-new-single-board-pcs-with-rk3576-chips-radxa-rock-4d-and-friendlyelec-nanopi-m5/>
 
 ---
 
@@ -215,6 +526,19 @@ date: 2025-05-27, updated: 2025-05-27, from: Anil Dash
 <br> 
 
 <https://anildash.com/2025/05/27/2025-05-27-internet-of-consent/>
+
+---
+
+## 26. Nixing everything
+
+date: 2025-05-27, from: Blair's Science Desk
+
+<p>I&rsquo;ve just finished a big revamp of my computer setup, so today I thought I&rsquo;d run through what I&rsquo;ve done. The backstory is that I&rsquo;ve been a Linux user since 2011. Over the years, I&rsquo;ve tried a variety of distributions (<a href="https://ubuntu.com/">Ubuntu</a>, <a href="https://www.linuxmint.com/">Linux Mint</a>, and <a href="https://archlinux.org/">Arch Linux</a>), but lately I&rsquo;ve settled on <a href="https://nixos.org/">NixOS</a>.</p>
+<p>Last year, I wrote a deep dive about the <a href="https://economicsfromthetopdown.com/2024/02/17/nixing-technological-lock-in/">philosophy behind Nix</a> &mdash; how it cleverly solves the problem of managing a complex web of dependencies by organizing programs according to cryptographic hashes. On top of this hashing scheme, Nix provides a configuration language that allows you to manage your entire system in a single location. This configuration system is the main reason I use Nix.</p> 
+
+<br> 
+
+<https://sciencedesk.economicsfromthetopdown.com/2025/05/nixing-everything/>
 
 ---
 

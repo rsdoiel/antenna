@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-05-27 10:22:58
+updated: 2025-05-27 14:07:56
 ---
 
 # games
 
-(date: 2025-05-27 10:22:58)
+(date: 2025-05-27 14:07:56)
+
+---
+
+## Batman and Deadpool to star in first DC/Marvel Comics crossover in 20 years
+
+date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
+
+DC and Marvel Comics are joining forces for the first time in 22 years, and the companies are hanging the long-awaited collab on two icons: Batman and Deadpool. According to Entertainment Weekly, the two comic book juggernauts will square off in a pair of one-shot specials starring the Bats and everyone&#8217;s favorite Merc With a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/601777/batman-deadpool-dc-marvel-crossover>
+
+---
+
+## N64 games get exclusive Switch 2 features to up the nostalgia
+
+date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
+
+The launch of the Nintendo Switch 2 is just about a week away, yet Nintendo is still drip-feeding news about the Switch 2’s new features that’ll separate it from the original Switch. Via the Nintendo Today app on Tuesday, Nintendo shared that a new set of features on the Nintendo Switch Online platform will make [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/601761/n64-games-switch-2-features>
+
+---
+
+## ‘Real talk…No’: Tekken 8 players still livid after Fahkumram gameplay, Armor King reveal
+
+date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
+
+Tekken 8 is not sitting well with its community, and the latest gameplay trailer for Fahkumram didn&#8217;t do them any favors. Bandai Namco released the trailer on May 26, showing off the character&#8217;s move set, motivations for fighting, and subtle changes to the fighter&#8217;s design. The returning character will arrive as paid DLC on July [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/601681/tekken-8-fahkumram-armor-king-player-reactions>
 
 ---
 

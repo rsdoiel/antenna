@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-27 10:22:59
+updated: 2025-05-27 14:07:57
 ---
 
 # libraries
 
-(date: 2025-05-27 10:22:59)
+(date: 2025-05-27 14:07:57)
 
 ---
 
@@ -18,6 +18,20 @@ Stoll, Heather
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737537>
+
+---
+
+## Day in Review (May 27–29)
+
+date: 2025-05-27, from: Association of Research Libraries News
+
+<p>Last Updated on May 27, 2025, 3:22 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 28 &#124; Thursday, May 29 Tuesday, May...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-27-29/">Day in Review (May 27–29)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-may-27-29/>
 
 ---
 
@@ -44,6 +58,18 @@ Four women seek to obtain personal fulfillment through different means.
 <br> 
 
 <https://standardebooks.org/ebooks/rose-macaulay/dangerous-ages>
+
+---
+
+## Efficient Computational Models for Forward and Inverse Elasticity Problems
+
+date: 2025-05-26, from: ETH Zurich, recently added
+
+Li, Yue 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/738164>
 
 ---
 

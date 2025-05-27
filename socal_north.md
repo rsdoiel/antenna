@@ -1,11 +1,89 @@
 ---
 title: socal north
-updated: 2025-05-27 10:22:53
+updated: 2025-05-27 14:07:52
 ---
 
 # socal north
 
-(date: 2025-05-27 10:22:53)
+(date: 2025-05-27 14:07:52)
+
+---
+
+## California schools see 9% surge in homeless students as funds decrease
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+Improved identification and worsening family finances contribute to the increase, liaisons say. 
+
+<br> 
+
+<https://laist.com/news/education/california-schools-see-9-surge-in-homeless-students-as-funds-decrease>
+
+---
+
+## California offers second round of e-bike vouchers worth up to $2,000 each
+
+date: 2025-05-27, from: Longbeach Post
+
+<figure><img width="1024" height="656" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-300x192.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1024x656.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-768x492.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-169x108.jpg 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1536x984.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1200x769.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1568x1004.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-400x256.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The state has already given out more than $2 million worth of vouchers, and another application window opens May 29.</p>
+<p>The post <a href="https://lbpost.com/news/free-ebike-voucher-california-application-window">California offers second round of e-bike vouchers worth up to $2,000 each</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/free-ebike-voucher-california-application-window>
+
+---
+
+## Now is your chance to let Orange County leaders know your budget priorities
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+Two public workshop sessions are being held on Thursday, but officials stress the budget is a year-round process. Here's how you can get involved. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-budget-public-workshops>
+
+---
+
+## Vets in LA hope, with Trump order, that they can finally come home
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+President Trump has ordered a Veterans Affairs campus in West Los Angeles to house 6,000 homeless vets by 2028, but details are elusive. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/vets-in-la-hope-with-trump-order-they-can-finally-come-home>
+
+---
+
+## If undocumented parents lose Medi-Cal, California kids could suffer, advocates say
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+Some studies show that when parents have access to health insurance, they are more likely to enroll their children. 
+
+<br> 
+
+<https://laist.com/news/health/if-undocumented-parents-lose-medi-cal-california-kids-could-suffer-advocates-say>
+
+---
+
+## Police chase would-be burglars away from Long Beach cannabis dispensary, LBPD says
+
+date: 2025-05-27, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The burglars failed to make it into the building, but they were able to escape capture.</p>
+<p>The post <a href="https://lbpost.com/news/crime/police-chase-would-be-burglars-away-from-long-beach-cannabis-dispensary-lbpd-says">Police chase would-be burglars away from Long Beach cannabis dispensary, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/police-chase-would-be-burglars-away-from-long-beach-cannabis-dispensary-lbpd-says>
 
 ---
 
@@ -51,7 +129,7 @@ date: 2025-05-27, from: City of Santa Clarita
 
 date: 2025-05-27, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The person may have been walking around a car stopped along the center divider when he was struck, according to the CHP.</p>
 <p>The post <a href="https://lbpost.com/news/person-struck-killed-on-710-freeway-near-willow-street-in-long-beach-chp-says">Person struck, killed on 710 Freeway near Willow Street in Long Beach, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -59,6 +137,18 @@ date: 2025-05-27, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/person-struck-killed-on-710-freeway-near-willow-street-in-long-beach-chp-says>
+
+---
+
+## Is it time for wildfires again in California? Here’s how fuels are looking
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+The drier plants get, the easier they burn. So after a dry rainy season and the recent heat in Southern California, grasses are primed to catch fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/is-it-time-for-wildfires-again-in-california>
 
 ---
 
@@ -110,23 +200,11 @@ Irvine city officials are set to discuss the controversial new project at the ne
 
 ---
 
-## Is it time for wildfires again in California? Here’s how fuels are looking
-
-date: 2025-05-27, updated: 2025-05-27, from: The LAist
-
-The drier plants get, the easier they burn. So after a dry rainy season and the recent heat in Southern California, grasses are primed to catch fire. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/is-it-time-for-wildfires-again-in-california>
-
----
-
 ## A century-old auto shop was at risk of closing until an outsider fell in love with its story
 
 date: 2025-05-27, from: Longbeach Post
 
-<figure><img width="1024" height="624" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-1024x624.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-1024x624.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-768x468.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-177x108.jpg 177w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-400x244.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="624" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-1024x624.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-1024x624.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-300x183.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-768x468.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-177x108.jpg 177w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui-400x244.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/16121652/12may25-5-12-25-brakes-2893-766531-qk3b3btk-565258-vZivs7Ui.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>After more than 100 years in operation, East Long Beach Brake Service was searching for someone who wanted the business. Kevin Kemp, who had been working a corporate job, said he saw something “really special” in it.</p>
 <p>The post <a href="https://lbpost.com/news/business/small-business/east-long-beach-brake-service-100-year-old-auto-shop">A century-old auto shop was at risk of closing until an outsider fell in love with its story</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -212,9 +290,21 @@ date: 2025-05-26, from: Longbeach Post
 
 ---
 
+## LA repeals oil phaseout law as residents near wells seek health protections
+
+date: 2025-05-26, updated: 2025-05-27, from: The LAist
+
+Communities living near oil drilling want the city to move quickly to reinstate its oil phaseout rule, as well as curtail practices like acid maintenance. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-city-repeals-oil-phaseout-law-as-residents-near-wells-seek-health-protections>
+
+---
+
 ## Best things to do this week in LA and SoCal: May 27 - 29
 
-date: 2025-05-26, updated: 2025-05-26, from: The LAist
+date: 2025-05-26, updated: 2025-05-27, from: The LAist
 
 A live podcast taping with Rainn Wilson, Trauma Play at IAMA, Gang of Four hit the Fonda, an Australian wine night, and more of the best things to do this week. 
 
@@ -245,18 +335,6 @@ Muralist David Botello is now working to get his artwork restored.
 <br> 
 
 <https://laist.com/news/transportation/los-angeles-culver-city-dmv-moonscapes-mural-david-botello>
-
----
-
-## LA repeals oil phaseout law as residents near wells seek health protections
-
-date: 2025-05-26, updated: 2025-05-26, from: The LAist
-
-Communities living near oil drilling want the city to move quickly to reinstate its oil phaseout rule, as well as curtail practices like acid maintenance. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/la-city-repeals-oil-phaseout-law-as-residents-near-wells-seek-health-protections>
 
 ---
 

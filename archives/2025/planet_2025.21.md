@@ -1,11 +1,135 @@
 ---
 title: planet
-updated: 2025-05-27 10:22:50
+updated: 2025-05-27 14:07:50
 ---
 
 # planet
 
-(date: 2025-05-27 10:22:50)
+(date: 2025-05-27 14:07:50)
+
+---
+
+## First step on road to new OTB after first draft approval
+
+date: 2025-05-27, from: RTÉ News
+
+Cabinet took a first step today and gave approval to Tánaiste and Minister for Foreign Affairs Simon Harris to draft an Occupied Territories Bill 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0527/1515295-occupied-territories-bill/>
+
+---
+
+## Boy awarded €9,000 over school's ear piercing policy
+
+date: 2025-05-27, from: RTÉ News
+
+A 16-year-old Transition Year student has won €9,000 in compensation for gender-based discrimination and victimisation after he was punished for wearing an ear piercing to school at the start of term last year. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0527/1515293-earring/>
+
+---
+
+## 'Watershed': O'Farrell family's 13-year fight for State apology
+
+date: 2025-05-27, from: RTÉ News
+
+A campaign for a public inquiry that began soon after Monaghan man Shane O'Farrell was killed in a 2011 hit-and-run, ended today as the Minister of Justice issued a Government apology to the O'Farrell family and promised reforms. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0527/1515288-watershed-ofarrell-familys-13-year-fight-for-state-apology/>
+
+---
+
+## New Ge‘ez Missal to serve unity among Ethiopian, Eritrean Catholics
+
+date: 2025-05-27, from: Vatican News
+
+
+                    <p>As the Pontifical Ethiopian College hosts the presentation of a new edition of the Ge‘ez-language Missal, Cardinal Prefect Claudio Gugerotti praises the liturgical book as a sign of God’s loving benevolence for the Eastern Catholic Churches of Ethiopia and Eritrea.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/ethiopia-eritrea-catholic-missal-geez-language-gugerotti.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/ethiopia-eritrea-catholic-missal-geez-language-gugerotti.html>
+
+---
+
+## Irish-developed gyroscope to be launched into space
+
+date: 2025-05-27, from: RTÉ News
+
+A gyroscope navigation system developed by an Irish company is to be launched into space as part of a mission to test and prepare planetary defences against incoming asteroids. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0527/1515287-gyroscope-navigation-system/>
+
+---
+
+## New student visa interviews paused by US government
+
+date: 2025-05-27, from: RTÉ News
+
+The Trump administration has ordered US embassies around the world to pause scheduling new visa interviews for foreign students. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0527/1515281-us-visas/>
+
+---
+
+## Spain seeks EU recognition for regional languages
+
+date: 2025-05-27, from: RTÉ News
+
+Spain has revived a push for Basque, Catalan and Galician to be made official EU languages, despite a less-than-enthusiastic response from fellow European countries fearing a domino effect. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0527/1515284-spain-language/>
+
+---
+
+## Public money for RTÉ write-downs 'regrettable' - Bakhurst
+
+date: 2025-05-27, from: RTÉ News
+
+The RTÉ Director General will tell the Oireachtas Media Committee it was "extremely regrettable" that public money was used to write-down a partly failed IT system. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0527/1515278-rte-bakhurst-media-committee/>
+
+---
+
+## Asisisted dying bill approved by parliament in France
+
+date: 2025-05-27, from: RTÉ News
+
+France's lower house of parliament has approved a right-to-die bill at its first reading. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0527/1515269-france-assisted-dying/>
+
+---
+
+## Funding delays threaten thousands of social homes, ICSH warns
+
+date: 2025-05-27, from: RTÉ News
+
+The delivery of thousands of new social homes is facing delay due to Government approval and funding issues, according to social housing organisations. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0527/1515271-funding-delays-threaten-thousands-of-social-homes-icsh-warns/>
 
 ---
 
@@ -30,6 +154,34 @@ Ryanair has welcomed the filing of a complaint with the European Commission agai
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0527/1515262-ryanair-complaint-luggage/>
+
+---
+
+## Ryanair welcomes complaint regarding hand luggage fees
+
+date: 2025-05-27, from: RTÉ News
+
+Ryanair has welcomed the filing of a complaint with the European Commission against it and six other European airlines over fees charged for hand luggage. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0527/1515262-ryanair-complaint-luggage/>
+
+---
+
+## Ghana: Seminary formation key to Church renewal in Ghana
+
+date: 2025-05-27, from: Vatican News
+
+
+                    <p>At a time of significant demographic shifts in Ghana’s religious landscape, the Bishop of Sunyani Diocese and President of the Ghana Catholic Bishops’ Conference, Matthew Kwasi Gyamfi, has stressed the need for a renewed missionary spirit in the Catholic Church — beginning from the formation of future priests in the seminary.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/ghana-seminary-formation-key-to-church-renewal-in-ghana.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/ghana-seminary-formation-key-to-church-renewal-in-ghana.html>
 
 ---
 
@@ -185,11 +337,11 @@ date: 2025-05-27, from: CBC, World News
 
 ---
 
-## Israeli gunfire heard as droves of Palestinians try to reach aid center in Rafah
+## Droves of Palestinians overwhelm new Gaza aid centre in Rafah as warning shots ring out
 
 date: 2025-05-27, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7544849.1748362512!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-aid-foundation.JPG' alt='A person gestures as he carries a box of aid near a Gaza aid distribution site.' width='620' height='349' title='A person gestures as he carries a box as palestinians gather near an aid distribution site run by the U.S.-backed Gaza Humanitarian Foundation, in Rafah, in the southern Gaza Strip, May 27, 2025. REUTERS/Hatem Khaled'/><p>Israeli tank and gunfire was heard Tuesday while large crowds of Palestinians tried to reach a newly opened aid distribution center in southern Gaza, according to reports from CBC and AP journalists.</p> 
+<img src='https://i.cbc.ca/1.7544849.1748375639!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-aid-foundation.JPG' alt='A person gestures as he carries a box of aid near a Gaza aid distribution site.' width='620' height='349' title='A person gestures as he carries a box as palestinians gather near an aid distribution site run by the U.S.-backed Gaza Humanitarian Foundation, in Rafah, in the southern Gaza Strip, May 27, 2025. REUTERS/Hatem Khaled'/><p>Chaos erupted on the second day of aid operations by a new U.S.-backed group in Gaza as desperate Palestinians overwhelmed a centre distributing food on Tuesday, breaking through fences. Nearby Israeli troops fired warning shots, sending people fleeing in panic.</p> 
 
 <br> 
 
@@ -230,6 +382,30 @@ As a controversial United States and Israel-backed aid distribution plan gets un
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163711>
+
+---
+
+## Sanctions relief for Syria offers ‘powerful message of hope,’ says UN migration agency
+
+date: 2025-05-27, from: United Nations, Economic Development
+
+The UN International Organization for Migration (IOM) has welcomed recent decisions by the United States, the United Kingdom and the European Union to ease sanctions against Syria. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163736>
+
+---
+
+## Sudan conflict triggers regional health crisis, warns WHO
+
+date: 2025-05-27, from: United Nations, Top Stories
+
+As the war between rival militaries in Sudan continues, the World Health Organization (WHO) has raised alarm over the escalating health emergency, driven by ongoing violence, mass displacement, collapsing health systems and poor conditions inside refugee camps. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163731>
 
 ---
 
@@ -301,11 +477,11 @@ date: 2025-05-27, from: Vatican News
 
 ---
 
-## Apology to O'Farrell family over justice failures
+## As it happened: Dáil hears apology to O'Farrell family
 
 date: 2025-05-27, from: RTÉ News
 
-Follow live updates as TDs and ministers discuss housing, health and other items on the political agenda. 
+ 
 
 <br> 
 
@@ -313,11 +489,11 @@ Follow live updates as TDs and ministers discuss housing, health and other items
 
 ---
 
-## Three members of CHI board have resigned, says minister
+## Four members of CHI board have resigned in last week
 
 date: 2025-05-27, from: RTÉ News
 
-Minister for Health Jennifer Carroll MacNeill has said that three members of the board of Children's Health Ireland have resigned. 
+Minister for Health Jennifer Carroll MacNeill has said that three members of the board of Children's Health Ireland have resigned, while another board member resigned last week. 
 
 <br> 
 
@@ -477,11 +653,11 @@ date: 2025-05-27, from: Vatican News
 
 ---
 
-## Trump warns Putin he is 'playing with fire'
+## Trump warns Putin he is 'playing with fire' over talks
 
 date: 2025-05-27, from: RTÉ News
 
-US President Donald Trump warned Vladimir Putin that he was "playing with fire," launching a fresh broadside at his Russian counterpart over stalled Ukraine peace efforts. 
+US President Donald Trump has said Vladimir Putin was "playing with fire" by refusing to engage in ceasefire talks with Kyiv as Russian forces made gains in Ukraine's northeast. 
 
 <br> 
 
@@ -587,7 +763,7 @@ Thousands of Palestinians have stormed into sites where aid was being distribute
 
 ---
 
-## The dispute between the Trump administration and Harvard University, explained
+## Trump vs. Harvard: Your questions answered
 
 date: 2025-05-27, from: CBC, World News
 
@@ -599,7 +775,7 @@ date: 2025-05-27, from: CBC, World News
 
 ---
 
-## Liverpool suspect accused of attempted murder
+## Police suspect driver followed ambulance past road block
 
 date: 2025-05-27, from: RTÉ News
 

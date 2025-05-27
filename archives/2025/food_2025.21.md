@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-05-27 10:23:02
+updated: 2025-05-27 14:08:00
 ---
 
 # food
 
-(date: 2025-05-27 10:23:02)
+(date: 2025-05-27 14:08:00)
+
+---
+
+## Whole Wheat Pancakes
+
+date: 2025-05-27, from: Taste of Home
+
+Fluffy whole wheat pancakes are made with rich buttermilk, cinnamon and vanilla. They're wholesome and high in fiber for a nutritious start to your day. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/whole-wheat-pancakes-2/>
+
+---
+
+## ASEAN Coffee Federation Launches ACAP Platform for Evaluation, Education
+
+date: 2025-05-27, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28.jpg 1080w" sizes="(max-width: 620px) 100vw, 620px" /></div>The ASEAN Coffee Federation — a trade group composed of national coffee associations in 10 Southeast Asian countries — recently launched the ASEAN Coffee Appreciation Protocol (ACAP). A framework for... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/27/asean-coffee-federation-launches-acap-platform-for-evaluation-education/>
 
 ---
 
@@ -85,7 +109,7 @@ This flavorful cake is a lovely, understated way to finish your grand meal. It d
 
 date: 2025-05-27, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Brazil final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brazil’s total coffee production for the 2025/26 market year (July to June) is forecast at the equivalent of 65 million 60-kilogram bags, up 0.5% from the prior year. This modest... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Brazil final" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brazil’s total coffee production for the 2025/26 market year (July to June) is forecast at the equivalent of 65 million 60-kilogram bags, up 0.5% from the prior year. This modest... 
 
 <br> 
 
@@ -339,12 +363,12 @@ Invest in better cookware, appliances, and kitchen tools while they're deeply di
 
 ---
 
-## SPICED BEEF
+## SPICED BEEF(CORK STYLE)
 
 date: 2025-05-26, from: Irish Food Hub
 
-<p>Description: Spiced Beef is a festive and flavorful delicacy from Cork, traditionally enjoyed during Christmas but cherished year-round. The beef is cured in a mixture of spices—like cloves, allspice, black pepper, and sugar—then slow-cooked until tender. It’s usually served cold, thinly sliced, and paired with crusty bread or mustard. Preparation Time: 20 minutes (plus 5–7 days curing time)Cooking Time: 3–4 hoursServing Size: Serves 8-10 Ingredients: For the Cure: 4–5 lb (2–2.5 kg) beef brisket (flat cut, well-trimmed) ½ cup brown sugar ½ cup coarse sea salt 1 tbsp cracked black pepper 1 tbsp whole allspice 1 tbsp whole cloves 1 tbsp juniper berries (optional) 1 tsp ground cinnamon 1 tsp ground nutmeg 1 tsp ground ginger 4 garlic cloves, crushed 1 bay leaf, crumbled For Cooking: 1 onion, quartered 1 carrot, chopped 1 celery stalk, chopped Water to cover Instructions Prepare the Spice Mix:In a bowl, mix all the curing ingredients together. Rub and Cure:Rub the spice mixture thoroughly all over the beef. Place in a large ziplock bag or non-metallic dish, cover, and refrigerate for 5 to 7 days. Turn the beef daily to ensure even curing. Rinse and Simmer:After curing, rinse the beef under cold water to remove excess spices. Place in a large pot with onion, carrot, and celery. Cover with water and bring to a boil. Skim any foam, then reduce to a gentle simmer. Cook Slowly:Simmer the beef for 3 to 4 hours until tender. You can use a slow cooker on low for 8 hours as an alternative. Cool and Slice:Let the beef cool in the broth. Once cooled, wrap and refrigerate until firm. Slice thinly and serve cold. Serving Suggestions: Serve with crusty brown bread, mustard, or pickles. Excellent in sandwiches or as part of a festive cold meat platter.</p>
-<p>The post <a href="https://irishfoodhub.com/spiced-beef/">SPICED BEEF</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+<p>Description Spiced Beef is a festive and flavorful delicacy from Cork, traditionally enjoyed during Christmas but cherished year-round. The beef is cured in a mixture of spices—like cloves, allspice, black pepper, and sugar—then slow-cooked until tender. It’s usually served cold, thinly sliced, and paired with crusty bread or mustard. Recipe Summary Preparation Time: 20 minutes (plus 5–7 days curing time) Cooking Time: 3–4 hours Serving Size: Serves 8–10 Ingredients For the Cure: 4–5 lb (2–2.5 kg) beef brisket (flat cut, well-trimmed) ½ cup brown sugar ½ cup coarse sea salt 1 tbsp cracked black pepper 1 tbsp whole allspice 1 tbsp whole cloves 1 tbsp juniper berries (optional) 1 tsp ground cinnamon 1 tsp ground nutmeg 1 tsp ground ginger 4 garlic cloves, crushed 1 bay leaf, crumbled For Cooking: 1 onion, quartered 1 carrot, chopped 1 celery stalk, chopped Water to cover Instructions Prepare the Spice Mix: In a bowl, mix all the curing ingredients together. Rub and Cure: Rub the spice mixture thoroughly all over the beef. Place in a large ziplock bag or non-metallic dish, cover, and refrigerate for 5 to 7 days. Turn the beef daily to ensure even curing. Rinse and Simmer: After curing, rinse the beef under cold water to remove excess spices. Place in a large pot with onion, carrot, and celery. Cover with water and bring to a boil. Skim any foam, then reduce to a gentle simmer. Cook Slowly: Simmer the beef for 3 to 4 hours until tender. You can use a slow cooker on low for 8 hours as an alternative. Cool and Slice: Let the beef cool in the broth. Once cooled, wrap and refrigerate until firm. Slice thinly and serve cold. Serving Suggestions Serve with crusty brown bread, mustard, or pickles. Excellent in sandwiches or as part of a festive cold meat platter.</p>
+<p>The post <a href="https://irishfoodhub.com/spiced-beef/">SPICED BEEF(CORK STYLE)</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
  
 
 <br> 
@@ -371,7 +395,7 @@ date: 2025-05-26, from: Irish Food Hub
 
 date: 2025-05-26, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-620x400.png" class="attachment-large size-large wp-post-image" alt="Honduras coffee market report" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Honduras is projected to increase coffee production and exports in the 2025/26 market year, with total output forecast at the equivalent of 5.8 million 60-kilogram bags, up 5% from the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-620x400.png" class="attachment-large size-large wp-post-image" alt="Honduras coffee market report" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Honduras is projected to increase coffee production and exports in the 2025/26 market year, with total output forecast at the equivalent of 5.8 million 60-kilogram bags, up 5% from the... 
 
 <br> 
 

@@ -1,11 +1,59 @@
 ---
 title: pacific
-updated: 2025-05-27 10:22:54
+updated: 2025-05-27 14:07:53
 ---
 
 # pacific
 
-(date: 2025-05-27 10:22:54)
+(date: 2025-05-27 14:07:53)
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-05-27, updated: 2025-05-27, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Shares mixed, dollar struggles on Trump's chaotic tariffs
+
+date: 2025-05-27, updated: 2025-05-27, from: Marianas Variety
+
+SINGAPORE (Reuters) — Shares were mixed on Tuesday as President Donald Trump's postponement of his threatened 50% duties on European Union shipments reinforced the unpredictability of his trade policies and kept investor sentiment fragile. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/shares-mixed-dollar-struggles-on-trumps-chaotic-tariffs/article_3c27fc2a-13af-405e-a1b8-fac97b142154.html>
+
+---
+
+## Poetry
+
+date: 2025-05-27, updated: 2025-05-27, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_61c05322-da60-4381-a2dc-769131276c00.html>
+
+---
+
+## National Burger Day is here!
+
+date: 2025-05-27, updated: 2025-05-27, from: Marianas Variety
+
+BURGER fans, make some noise—your national holiday is here! May 28 marks National Burger Day, a day to celebrate the juiciest, freshest, meatiest burgers across the country. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/national-burger-day-is-here/article_994def2d-0c84-4162-b50f-d15ad6eb3898.html>
 
 ---
 
@@ -592,18 +640,6 @@ The post <a href="https://www.hawaii.edu/news/2025/05/25/nrotc-1st-marine-corps-
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/25/nrotc-1st-marine-corps-officers/>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-05-25, updated: 2025-05-25, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

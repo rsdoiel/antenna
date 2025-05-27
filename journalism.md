@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-05-27 10:22:58
+updated: 2025-05-27 14:07:57
 ---
 
 # journalism
 
-(date: 2025-05-27 10:22:58)
+(date: 2025-05-27 14:07:57)
+
+---
+
+## On The Steps Episode 12: Spring Sing returns
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Spring Sing returned to the LA Tennis Center on May 16, bringing crowds, student talent, and celebrity judges to campus. The Daily Bruin takes you inside the event to see what it was all about, we also bring you stories from a pro-Palestine protest, Special Olympics at UCLA&#8217;s walkathon, the Black Art Experience, the Clarkia Flower Festival, and Baseball&#8217;s match against Northwestern. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/27/on-the-steps-episode-12-spring-sing-returns/>
+
+---
+
+## Daily Bruin Spotlight: Episode 3
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this May episode of Daily Bruin Spotlight, host Reid Sperisen is joined by contributors Izzy Greig and Eleanor Meyers to unpack the latest in arts and entertainment at UCLA and beyond. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/27/daily-bruin-spotlight-episode-3/>
 
 ---
 
