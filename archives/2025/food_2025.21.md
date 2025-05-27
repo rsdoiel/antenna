@@ -1,11 +1,435 @@
 ---
 title: food
-updated: 2025-05-27 06:00:13
+updated: 2025-05-27 10:23:02
 ---
 
 # food
 
-(date: 2025-05-27 06:00:13)
+(date: 2025-05-27 10:23:02)
+
+---
+
+## The Sprudge Guide to Coffee In Upper Manhattan
+
+date: 2025-05-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to get coffee in New York City's Upper Manhattan neighborhood. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-upper-manhattan-312336.html>
+
+---
+
+## Lucy Wang’s Watermelon Soju
+
+date: 2025-05-27, from: Taste of Home
+
+Soju is recognized as <i>the</i> alcoholic beverage in South Korea. It’s served in restaurants and karaoke rooms, and has a ton of variations. This one is with watermelon—sweet, refreshing and ice cold! —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-watermelon-soju/>
+
+---
+
+## The Best Bars for Nonalcoholic Cocktails in Singapore
+
+date: 2025-05-27, from: Bon Appetet
+
+The international cocktail destination is leveling up non-alc drinking through clever experimentation centering aroma, flavor, and texture. 
+
+<br> 
+
+<https://www.bonappetit.com/story/singapore-nonalcoholic-cocktails>
+
+---
+
+## The Best Carbon-Steel Pan (2025), Reviewed by Our Experts
+
+date: 2025-05-27, from: Bon Appetet
+
+They’re all over professional kitchens for a reason. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-carbon-steel-pans>
+
+---
+
+## The Ancient African Grain, Fonio, Might Be the Future of Beer
+
+date: 2025-05-27, from: Bon Appetet
+
+Brewmaster Garrett Oliver and chef Pierre Thiam are betting big on fonio. 
+
+<br> 
+
+<https://www.bonappetit.com/story/this-ancient-african-grain-could-change-the-way-we-drink-beer>
+
+---
+
+## Pear Olive Oil Cake
+
+date: 2025-05-27, from: Taste of Home
+
+This flavorful cake is a lovely, understated way to finish your grand meal. It doesn't take a lot of time to prepare, which is a bonus during the holidays. &amp;mdash;Andrea Potischman, Menlo Park, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pear-olive-oil-cake/>
+
+---
+
+## Brazil Coffee Report: Exports Set to Fall Despite Record Revenue and Robusta Growth
+
+date: 2025-05-27, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Brazil final" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brazil’s total coffee production for the 2025/26 market year (July to June) is forecast at the equivalent of 65 million 60-kilogram bags, up 0.5% from the prior year. This modest... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/27/brazil-coffee-report-exports-set-to-fall-despite-record-revenue-and-robusta-growth/>
+
+---
+
+## DiFluid Unveils AirWave: A Breakthrough In Coffee Roast Smoke Filtration & Purification
+
+date: 2025-05-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Introducing AirWave, a compact, high-efficiency smoke filter for roasters from DiFluid. 
+
+<br> 
+
+<https://sprudge.com/difluid-unveils-airwave-a-breakthrough-in-coffee-roast-smoke-filtration-purification-339783.html>
+
+---
+
+## Indiana’s Ghost Coffee Roaster in High Spirits with Flagship Opening
+
+date: 2025-05-27, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Ghost Coffee Roaster 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new local haunt for fresh coffee, a bite to eat and coffee education is open on the Purdue University campus in West Lafayette, Indiana. Ghost Coffee Roaster recently opened... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/27/indianas-ghost-coffee-roaster-in-high-spirits-with-flagship-opening/>
+
+---
+
+## What Drinking Looks Like in 2025
+
+date: 2025-05-27, from: Bon Appetet
+
+Editor in Chief Jamila Robinson talks about a new era of drinking. 
+
+<br> 
+
+<https://www.bonappetit.com/story/what-drinking-looks-like-in-2025>
+
+---
+
+## Take Control Of Your Grind With The New Slow Feeder Pro By CremaLoop
+
+date: 2025-05-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Slow Feeder Pro is on pre-order now. 
+
+<br> 
+
+<https://sprudge.com/take-control-of-your-grind-with-the-new-slow-feeder-pro-by-cremaloop-339739.html>
+
+---
+
+## Coffee News Club: Week of May 27th
+
+date: 2025-05-27, from: The Fresh Cup
+
+<p>Scroll to find out what tomato, shoyu, and coconut water have in common. That and more—here's the coffee news for the week of May 27th. </p>
+<p>The post <a href="https://freshcup.com/coffee-news-club-week-of-may-27th-2/">Coffee News Club: Week of May 27th</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-news-club-week-of-may-27th-2/>
+
+---
+
+## Tomato, Shoyu, and Coconut Water are Just Some Descriptors on New Robusta Flavor Wheel
+
+date: 2025-05-27, from: The Fresh Cup
+
+<p>✉️ This story was featured in this week’s Coffee News Club👋 Get the Coffee News Club newsletter in your inbox weekly—sign up. Once relegated to low-cost blends and jars of instant coffee, Coffea Canephora, usually referred to as robusta, has grown in popularity in recent years. Even the specialty coffee industry—which has often dismissed robusta as&#8230;</p>
+<p>The post <a href="https://freshcup.com/tomato-shoyu-and-coconut-water-are-just-some-descriptors-on-new-robusta-flavor-wheel/">Tomato, Shoyu, and Coconut Water are Just Some Descriptors on New Robusta Flavor Wheel</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/tomato-shoyu-and-coconut-water-are-just-some-descriptors-on-new-robusta-flavor-wheel/>
+
+---
+
+## Pad Kra Pao
+
+date: 2025-05-27, from: Bon Appetet
+
+This fast stir-fry dish pairs minced pork and fragrant basil with hot Thai chiles and a crispy fried egg. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/pad-kra-pao>
+
+---
+
+## Zucchini Butter
+
+date: 2025-05-27, from: Bon Appetet
+
+Transform summer squash into this spectacular spread to put toward sandwiches, pastas, and more all season long. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/zucchini-butter>
+
+---
+
+## Coconut Chicken Katsu With Smashed Cucumbers
+
+date: 2025-05-27, from: Bon Appetet
+
+These crispy cutlets feature a coconut-breadcrumb coating and sriracha mayo. Pair with a bright cuke salad to turn into a meal. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/coconut-chicken-katsu-with-smashed-cucumbers>
+
+---
+
+## Buttermilk Corn Pasta
+
+date: 2025-05-27, from: Bon Appetet
+
+This pasta starring summer corn achieves its savory, creamy sauce thanks to one special ingredient: buttermilk powder. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/buttermilk-corn-pasta>
+
+---
+
+## Cucumber and Avocado Salad Bean Dip
+
+date: 2025-05-27, from: Bon Appetet
+
+Consider this dish—made with refried beans and crunchy vegetables—an affirmative answer to the question, “Can dip be dinner?” 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cucumber-and-avocado-salad-bean-dip>
+
+---
+
+## Coney Island Hot Dogs
+
+date: 2025-05-27, from: Bon Appetet
+
+Be the cookout MVP with our recipe for Coney dogs—beef franks topped with meat sauce, chopped onions, and a squidge of yellow mustard. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/coney-island-hot-dogs>
+
+---
+
+## Steak Salad With Feta Dressing
+
+date: 2025-05-27, from: Bon Appetet
+
+Juicy steak, crisp lettuce, and a blender dressing come together for a breezy summer dinner. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/steak-salad-with-feta-dressing>
+
+---
+
+## Quick Butter-Braised Tomatoes and Dumplings
+
+date: 2025-05-27, from: Bon Appetet
+
+Store-bought dumplings, fresh tomatoes, butter, and soy sauce simmer away for dinner in a flash. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/quick-butter-braised-tomatoes-and-dumplings>
+
+---
+
+## Hugo Spritz
+
+date: 2025-05-27, from: Bon Appetet
+
+With elderflower liqueur, mint, and prosecco, the effervescent Hugo spritz cocktail is a hit year round, but particularly on warm nights. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/hugo-spritz>
+
+---
+
+## Stacked Muffuletta Salad
+
+date: 2025-05-27, from: Bon Appetet
+
+This towering salad—built with the components of a muffuletta sandwich like mortadella and an olive dressing—is ready for a party. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/stacked-muffuletta-salad>
+
+---
+
+## Grilled Buttermilk Chicken With Summer Salad
+
+date: 2025-05-27, from: Bon Appetet
+
+Charred chicken breasts coated in a tangy dry rub sit atop a fresh salad of tomatoes, cucumber, and onions. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/grilled-buttermilk-chicken-with-summer-salad>
+
+---
+
+## Gambas al Ajillo
+
+date: 2025-05-27, from: Bon Appetet
+
+This speedy Spanish dish of shrimp cooked in olive oil and garlic can be a main or appetizer. It all depends on how you dress it up. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/gambas-al-ajillo-spanish-garlic-shrimp>
+
+---
+
+## This French Rolling Pin Is the Secret to No-Fuss Pie Crusts
+
+date: 2025-05-26, from: Taste of Home
+
+<p>Home bakers, listen up. The Earlywood French rolling pin turns a tedious baking step into a breeze. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/earlywood-french-rolling-pin/">This French Rolling Pin Is the Secret to No-Fuss Pie Crusts</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/earlywood-french-rolling-pin/>
+
+---
+
+## The Best Memorial Day Kitchen and Entertaining Sales (2025)
+
+date: 2025-05-26, from: Bon Appetet
+
+Invest in better cookware, appliances, and kitchen tools while they're deeply discounted. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-memorial-day-sales-2025>
+
+---
+
+## SPICED BEEF
+
+date: 2025-05-26, from: Irish Food Hub
+
+<p>Description: Spiced Beef is a festive and flavorful delicacy from Cork, traditionally enjoyed during Christmas but cherished year-round. The beef is cured in a mixture of spices—like cloves, allspice, black pepper, and sugar—then slow-cooked until tender. It’s usually served cold, thinly sliced, and paired with crusty bread or mustard. Preparation Time: 20 minutes (plus 5–7 days curing time)Cooking Time: 3–4 hoursServing Size: Serves 8-10 Ingredients: For the Cure: 4–5 lb (2–2.5 kg) beef brisket (flat cut, well-trimmed) ½ cup brown sugar ½ cup coarse sea salt 1 tbsp cracked black pepper 1 tbsp whole allspice 1 tbsp whole cloves 1 tbsp juniper berries (optional) 1 tsp ground cinnamon 1 tsp ground nutmeg 1 tsp ground ginger 4 garlic cloves, crushed 1 bay leaf, crumbled For Cooking: 1 onion, quartered 1 carrot, chopped 1 celery stalk, chopped Water to cover Instructions Prepare the Spice Mix:In a bowl, mix all the curing ingredients together. Rub and Cure:Rub the spice mixture thoroughly all over the beef. Place in a large ziplock bag or non-metallic dish, cover, and refrigerate for 5 to 7 days. Turn the beef daily to ensure even curing. Rinse and Simmer:After curing, rinse the beef under cold water to remove excess spices. Place in a large pot with onion, carrot, and celery. Cover with water and bring to a boil. Skim any foam, then reduce to a gentle simmer. Cook Slowly:Simmer the beef for 3 to 4 hours until tender. You can use a slow cooker on low for 8 hours as an alternative. Cool and Slice:Let the beef cool in the broth. Once cooled, wrap and refrigerate until firm. Slice thinly and serve cold. Serving Suggestions: Serve with crusty brown bread, mustard, or pickles. Excellent in sandwiches or as part of a festive cold meat platter.</p>
+<p>The post <a href="https://irishfoodhub.com/spiced-beef/">SPICED BEEF</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/spiced-beef/>
+
+---
+
+## BANNOCK
+
+date: 2025-05-26, from: Irish Food Hub
+
+<p>Description: Bannock is a traditional flatbread made with oats or barley, popular in Irish and Scottish heritage. It’s baked on a griddle or in a skillet, giving it a lightly crisp exterior and a tender, hearty center. Often enjoyed warm with butter, cheese, or jam, it makes a comforting side to soups and stews. Preparation Time: 10 minutesCooking Time: 15–20 minutesServing Size: Makes 6–8 wedges (serves 4) Ingredients: 1½ cups oat flour (or finely ground oats) or barley flour ½ cup all-purpose flour (for better texture, optional) 1 tsp baking powder ½ tsp salt 2 tbsp cold butter, diced ¾ cup buttermilk (or milk with a splash of lemon juice) Instructions Mix Dry Ingredients:In a large bowl, whisk together the oat/barley flour, all-purpose flour (if using), baking powder, and salt. Cut in the Butter:Add the diced butter and use your fingertips or a pastry cutter to rub it into the flour until it resembles coarse crumbs. Add the Liquid:Pour in the buttermilk and stir gently just until a dough forms. Do not overmix. Shape the Dough:Turn the dough onto a lightly floured surface and pat into a round about ¾ inch thick. Score into 6–8 wedges. Cook the Bannock:Heat a heavy griddle or cast iron skillet over medium heat. Lightly grease with butter or oil. Cook the bannock for 6–8 minutes on each side, or until golden and cooked through. Serve Warm:Best enjoyed hot with a pat of butter, a slice of sharp cheese, or a drizzle of honey.</p>
+<p>The post <a href="https://irishfoodhub.com/bannock/">BANNOCK</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/bannock/>
+
+---
+
+## Honduras Coffee Report: Exports Surge on Rising Prices, Reduced Rust Impact
+
+date: 2025-05-26, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-620x400.png" class="attachment-large size-large wp-post-image" alt="Honduras coffee market report" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Honduras-coffee-market-report.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Honduras is projected to increase coffee production and exports in the 2025/26 market year, with total output forecast at the equivalent of 5.8 million 60-kilogram bags, up 5% from the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/26/honduras-coffee-report-exports-surge-on-rising-prices-reduced-rust-impact/>
+
+---
+
+## Marco Beverage Systems Introduces MilkPal and Pour’d Touch
+
+date: 2025-05-26, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Marco-MilkPal-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Marco MilkPal 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Marco-MilkPal-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Marco-MilkPal-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Marco-MilkPal-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Marco-MilkPal-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Marco-MilkPal-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Ireland-based commercial beverage equipment company Marco Beverage Systems officially launched the MilkPal, a new cold and hot milk frothing and dispensing system for professional baristas. The company also recently showed... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/26/marco-beverage-systems-introduces-milkpal-and-pourd-touch/>
+
+---
+
+## Easy Kalua Pork (Hawaiian-Style, Oven or Slow Cooker)
+
+date: 2025-05-26, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/kalua-pork/" title="Easy Kalua Pork (Hawaiian-Style, Oven or Slow Cooker)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of smoky Kalua Pork served with white rice and sliced pineapple on the site" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Kalua-Pork-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make tender, smoky Kalua pork at home with this easy recipe, with pork shoulder, banana leaves, and liquid smoke - perfect for parties, BBQs, or weeknight dinners!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/kalua-pork/">Easy Kalua Pork (Hawaiian-Style, Oven or Slow Cooker)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/kalua-pork/>
+
+---
+
+## Asparagus Pesto Pasta
+
+date: 2025-05-26, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2007/05/Asparagus-Pesto-Penne-1200-6576.jpg"/></div>
+<p>A fresh and bright asparagus pesto pasta that&#8217;s tasty, quick and easy! Asparagus pesto is one of my favourite ways to enjoy fresh asparagus and simply tossing it with pasta is one of the first ways that I make it every spring! This recipe is pretty much the recipe for asparagus pesto that&#8217;s mixed with...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/asparagus-pesto-on-penne-pasta/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/asparagus-pesto-on-penne-pasta/">Asparagus Pesto Pasta</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/asparagus-pesto-on-penne-pasta/>
+
+---
+
+## Chocolate Creme Brulee
+
+date: 2025-05-26, from: Taste of Home
+
+Before you dismiss this sophisticated dessert as too complicated for a home cook, stay with us. We’ve demystified the techniques to creating the perfect chocolate creme brulee recipe so you can have an exceptionally elegant ending to any at-home dinner. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chocolate-creme-brulee/>
 
 ---
 

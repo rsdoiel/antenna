@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-05-27 06:00:11
+updated: 2025-05-27 10:23:01
 ---
 
 # retro computing
 
-(date: 2025-05-27 06:00:11)
+(date: 2025-05-27 10:23:01)
+
+---
+
+## ScummVM bug-bashing release
+
+date: 2025-05-27, from: RiscOS Story
+
+A new version of ScummVM is available to download. Described by the development team (which includes Cameron Cawley looking after &#8216;our&#8217; version) as a maintenance release, version 2.9.1 of the software includes a host of bug fixes rather than new features, but as many of these affect the various engines supported by the software, it&#8217;s worth updating your copy to benefit from them. Originally developed to make it possible to play games based on LucasArts&#8217; Script Creation Utility for Maniac Mansion on machines on which the original software didn&#8217;t run,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/scummvm-2-9-1/>
+
+---
+
+## Developers’ fireside chat – 31st May
+
+date: 2025-05-27, from: RiscOS Story
+
+Anyone interesting in software development on or for (or even of) RISC OS is once again invited to get together online for another friendly fireside chat, with the next meeting scheduled for 7:30pm on Saturday, 31st May. These semi-regular meetings take place online using the Zoom video conferencing platform, with the aim of providing people with a means to discuss the broad subject of RISC OS programming. As such, there is no set agenda, and the subjects discussed are instead determined by what participants bring up. They offer an opportunity&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/developers-fireside-chat-31st-may/>
 
 ---
 

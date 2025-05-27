@@ -1,11 +1,170 @@
 ---
 title: journalism
-updated: 2025-05-27 06:00:09
+updated: 2025-05-27 10:22:58
 ---
 
 # journalism
 
-(date: 2025-05-27 06:00:09)
+(date: 2025-05-27 10:22:58)
+
+---
+
+## Editorial Cartoon: “Chill Bruin”
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/27/editorial-cartoon-chill-bruin/>
+
+---
+
+## A ‘loss of trust’ in School of Nursing leadership – faculty and lecturers raise concerns
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA School of Nursing faculty voted to declare no confidence in their current dean, Lin Zhan, in March 2023 because of concerns about her failure to consult with them. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/27/a-loss-of-trust-in-school-of-nursing-leadership-faculty-and-lecturers-raise-concerns/>
+
+---
+
+## Persian Perspectives Today: Josh Samani on AI, identity and reimagining how we learn
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to Professor Josh Samani describe how artificial intelligence reshapes education, why real-world connections prove essential to meaningful scientific understanding, and how his Iranian American identity informs his interest in physics. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/26/persian-perspectives-today-josh-samani-on-ai-identity-and-reimagining-how-we-learn/>
+
+---
+
+## Santa Monica College community expresses concern after ICE deportation of student
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 27 at 12:33 a.m.</em>
+Kaiala Siale fears for her friends’ safety when they walk down the street together.
+The digital multimedia broadcast production student lives in Westwood and attends Santa Monica College – where she learned through social media that a fellow student was detained and deported this month by United States Immigration and Customs Enforcement. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/26/santa-monica-college-community-expresses-concern-after-ice-deportation-of-student/>
+
+---
+
+## The College of the Canyons Book Fair showcased established authors and emerging writers
+
+date: 2025-05-27, from: The Canyon News (COC Student Newspaper)
+
+<p>The College of the Canyons Book Fair invites authors and upcoming creative&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/book-fair/">The College of the Canyons Book Fair showcased established authors and emerging writers</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/book-fair/>
+
+---
+
+## Communication professor Tim Groeling elected as 2026-2027 Academic Senate chair
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 27 at 12:56 a.m.</em>
+Tim Groeling, a professor of communication, will be the 2026-2027 chair of the UCLA Academic Senate.
+Senate Elections Commissioner Joseph Watson certified Groeling’s election, according to a May 21 announcement from Senate Secretary Linda Sarna. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/26/communication-professor-tim-groeling-elected-as-2026-2027-academic-senate-chair/>
+
+---
+
+## Elena Flauto supports artists, explores future career through Cherry Pop Records
+
+date: 2025-05-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+With each cherry-picked artist, Elena Flauto is paving the way for a fruitful future in the music industry.
+As president of the student-run record label Cherry Pop Records for the past two years, Flauto said the organization has created invaluable opportunities for students interested in all facets of the music industry, deepening her own passion for the business and its legal components. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/26/elena-flauto-supports-artists-explores-future-career-through-cherry-pop-records/>
+
+---
+
+## UC Regents discuss graduate programs tuition raise, faculty disciplinary policies
+
+date: 2025-05-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents Academic and Student Affairs Committee approved a tuition increase for 10 graduate programs at a May 14 meeting.
+The board held its bimonthly meeting May 13 to May 15 at UC San Francisco. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/26/uc-regents-discuss-graduate-programs-tuition-raise-faculty-disciplinary-policies/>
+
+---
+
+## The Art Walk in Old Town Newhall brought the community together
+
+date: 2025-05-26, from: The Canyon News (COC Student Newspaper)
+
+<p>The Old Town Newhall Art Walk drew dozens of visitors to Main&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/art-walk/">The Art Walk in Old Town Newhall brought the community together</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/art-walk/>
+
+---
+
+## Botanical garden Clarkia Flower Festival sows stories of history, Indigenous roots
+
+date: 2025-05-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 27 at 12:59 a.m.</em>
+The Mildred E. Mathias Botanical Garden bloomed with history at the Clarkia Flower Festival on May 17. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/25/botanical-garden-clarkia-flower-festival-sows-stories-of-history-indigenous-roots/>
+
+---
+
+## Blue Star Ranch, which offers equine therapy for veterans, has been forced to relocate
+
+date: 2025-05-26, from: The Canyon News (COC Student Newspaper)
+
+<p>Blue Star Ranch is a local ranch in Santa Clarita leased by&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/blue-star-ranch/">Blue Star Ranch, which offers equine therapy for veterans, has been forced to relocate</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/blue-star-ranch/>
+
+---
+
+## Indian Student Union to host annual Culture Show, celebrate South Asian arts
+
+date: 2025-05-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 26 at 5:47 p.m.</em>
+The Indian Student Union is ready to end the quarter in style.
+ISU&#8217;s annual Culture Show is set to take place May 31 and will consist of a skit, a fashion show and a capella and dance performances from numerous South Asian clubs across campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/25/indian-student-union-to-host-annual-culture-show-celebrate-south-asian-arts/>
 
 ---
 
