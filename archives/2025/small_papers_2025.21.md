@@ -1,11 +1,85 @@
 ---
 title: small papers
-updated: 2025-05-28 06:09:17
+updated: 2025-05-28 14:08:24
 ---
 
 # small papers
 
-(date: 2025-05-28 06:09:17)
+(date: 2025-05-28 14:08:24)
+
+---
+
+## NPR Sues Trump Administration over Executive Order to Cut Federal Funding to Public Media
+
+date: 2025-05-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25147475599225-scaled-e1748463932557.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25147475599225-scaled-e1748463932557.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25147475599225-scaled-e1748463932557.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25147475599225-scaled-e1748463932557.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25147475599225-scaled-e1748463932557.jpg?fit=1024%2C682&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By David Bauder AP Media Writer NEW YORK (AP) — National Public Radio and three of its local stations sued President Donald Trump on Tuesday, arguing that his executive order cutting [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/05/28/npr-sues-trump-administration-over-executive-order-to-cut-federal-funding-to-public-media/">NPR Sues Trump Administration over Executive Order to Cut Federal Funding to Public Media</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/05/28/npr-sues-trump-administration-over-executive-order-to-cut-federal-funding-to-public-media/>
+
+---
+
+## The US and EU Are in a Showdown over Trade. What Does Trump Want and What Can Europe Offer?
+
+date: 2025-05-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25142254695959-scaled-e1748463269910.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25142254695959-scaled-e1748463269910.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25142254695959-scaled-e1748463269910.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25142254695959-scaled-e1748463269910.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/AP25142254695959-scaled-e1748463269910.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By David McHugh and Paul WisemanAP Business Writers FRANKFURT, Germany (AP) — Top officials at the European Union&#8217;s executive commission says they&#8217;re pushing hard for a trade deal with the [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/05/28/the-us-and-eu-are-in-a-showdown-over-trade-what-does-trump-want-and-what-can-europe-offer/">The US and EU Are in a Showdown over Trade. What Does Trump Want and What Can Europe Offer?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/05/28/the-us-and-eu-are-in-a-showdown-over-trade-what-does-trump-want-and-what-can-europe-offer/>
+
+---
+
+## HOROSCOPE
+
+date: 2025-05-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>By Holiday Mathis (Creators.com) ARIES (March 21-April 19) Sometimes you can spot the potential for trouble and exert your influence to get things back on track immediately. But this week’s [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/05/28/horoscope-213/">HOROSCOPE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/05/28/horoscope-213/>
+
+---
+
+## Trump trade war has already had huge effect on CA ports
+
+date: 2025-05-28, from: Long Beach Post
+
+<figure><img width="1024" height="555" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-400x217.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California jobs and revenue on and off the ports are feeling the effects of Trump’s tariffs.</p>
+<p>The post <a href="https://lbpost.com/news/ports/trump-trade-war-has-already-had-huge-effect-on-ca-ports">Trump trade war has already had huge effect on CA ports</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/ports/trump-trade-war-has-already-had-huge-effect-on-ca-ports>
+
+---
+
+## Long Beach police investigate fatal shooting near PCH and Locust
+
+date: 2025-05-28, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police responded around 11 p.m. to a call about shots fired in the area and found the man wounded, according to reports from the scene.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-police-investigate-fatal-shooting-near-pch-and-locust">Long Beach police investigate fatal shooting near PCH and Locust</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-police-investigate-fatal-shooting-near-pch-and-locust>
 
 ---
 
@@ -13,7 +87,7 @@ updated: 2025-05-28 06:09:17
 
 date: 2025-05-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="871" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?fit=871%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?w=946&amp;ssl=1 946w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=255%2C300&amp;ssl=1 255w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=871%2C1024&amp;ssl=1 871w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=768%2C903&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=780%2C917&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=400%2C470&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=706%2C830&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?fit=871%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="871" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?fit=871%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?w=946&amp;ssl=1 946w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=255%2C300&amp;ssl=1 255w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=871%2C1024&amp;ssl=1 871w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=768%2C903&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=780%2C917&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=400%2C470&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?resize=706%2C830&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/Garcia.jpg?fit=871%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; An inmate was captured hours after his escape from a Sylmar lockup, authorities said yesterday. At around 9 p.m. Sunday, authorities discovered 33-year-old Angel Gaxiola was [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/05/27/incarcerated-man-apprehended-after-brief-escape/">Incarcerated Man Apprehended After Brief Escape</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -28,7 +102,7 @@ date: 2025-05-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-05-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?w=2121&amp;ssl=1 2121w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?w=2121&amp;ssl=1 2121w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/05/GettyImages-2201909923_Latina-Doula.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para muchas familias latinas, el embarazo es un período colmado de alegría e ilusión. Sin embargo, en los Estados Unidos las mujeres latinas enfrentan dificultades particulares durante el embarazo y [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/05/27/las-doulas-estan-salvando-la-vida-le-las-madres-latinas-blue-shield-of-california-promise-health-plan-expandio-los-servicios-de-doula-a-fin-de-reducir-las-desigualdades-en-la-salud-materna/">Las Doulas están Salvando la Vida le las Madres Latinas: Blue Shield of California Promise Health Plan Expandió los Servicios de Doula a Fin de Reducir las Desigualdades en la Salud Materna</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -43,7 +117,7 @@ date: 2025-05-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-05-27, from: Long Beach Post
 
-<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6.jpg 1199w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6.jpg 1199w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The scene near 17th Street and Linden Avenue was about a block away from both Poly and Roosevelt Elementary School. </p>
 <p>The post <a href="https://lbpost.com/news/crime/poly-high-barricade-linden-17th-swat-police">SWAT officers surround apartment building near Poly High School but find no suspect inside</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,203 @@
 ---
 title: columns
-updated: 2025-05-28 06:09:10
+updated: 2025-05-28 14:08:20
 ---
 
 # columns
 
-(date: 2025-05-28 06:09:10)
+(date: 2025-05-28 14:08:20)
+
+---
+
+## May 27, 2025
+
+date: 2025-05-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164675918/cf0ad0028a821d41becd3405a698115f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164675918/cf0ad0028a821d41becd3405a698115f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-27-2025-fae>
+
+---
+
+## from Luddites to AI: the Overton Window of disruption
+
+date: 2025-05-28, from: Geoffrey Hunntley's blog
+
+<p>I&apos;ve been thinking about <a href="https://en.wikipedia.org/wiki/Overton_window?ref=ghuntley.com">Overton Windows</a> lately, but not of the political variety.</p><figure class="kg-card kg-image-card"><img src="https://ghuntley.com/content/images/2025/05/Unthinkable-1.png" class="kg-image" alt loading="lazy" width="1039" height="703"></figure><p>You see, the Overton window can be adapted to model disruptive innovation by framing the acceptance of novel technologies, business models, or ideas within a market or society. So I&apos;ve been pondering about</p> 
+
+<br> 
+
+<https://ghuntley.com/overton/>
+
+---
+
+##  Happy 20th anniversary to Swissmiss, Tina Roth Eisenberg&#8217;s design/creativity/positivity blog.... 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046948-happy-20th-anniversary-to>
+
+---
+
+##  The Great Span: President John Tyler&#8217;s Grandson Dies Aged 96 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/the-great-span-president-john-tylers-grandson-dies-aged-96>
+
+---
+
+## George Dyson on AI
+
+date: 2025-05-28, from: Om Malik blog
+
+My good friend Chris Michel recently photographed George Dyson, thinker, historian, and writer. The topic of “AI” came up, and I found this worth noting. He’s less concerned about the usual apocalyptic fears and more interested in a quieter erosion: that “Good AI,” the kind that works too well, might slowly displace our capacity to &#8230; 
+
+<br> 
+
+<https://om.co/2025/05/28/george-dyson-on-ai/>
+
+---
+
+##  A recent study: &#8220;Ibn al-Shatir was the first astronomer to have successfully... 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046945-a-recent-study-ibn-al-sha>
+
+---
+
+## Arrival of Linux 6.15 hails end of 486-class CPUs
+
+date: 2025-05-28, updated: 2025-05-28, from: Liam Proven's articles at the Register
+
+<h4>Latest kernel includes 14,612 changesets, Penguinistas been busy</h4>
+      <p>Over the holiday weekend, Linus Torvalds released the latest Linux kernel – signalling the end of the line for 486-class chips.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/28/kernel_615_arrives/>
+
+---
+
+##  Top 25 Premier League goals of 2024-25 season. I like a good... 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046944-top-25-premier-league-goa>
+
+---
+
+## The Resistance Is Working Better Than You Think
+
+date: 2025-05-28, updated: 2025-05-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://politicalwire.com/2025/05/28/the-resistance-is-working-better-than-you-think/>
+
+---
+
+##  Resourceful: &#8220;Shooting down a $100,000 Russian drone with an air-defense missile might... 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046943-resourceful-shooting-down>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-28, from: Dave Winer's Scripting News)
+
+And btw, that's why I <a href="http://scripting.com/2025/05/21.html#a135615">wanted</a> Chris Lydon to do interviews with people in his audience who are tripping out on all the new power they're getting from AI. How is it augmenting their work? I know Chris well enough that he probably thinks it's not for him, too technical -- but that's the point -- the excitement with AI is not technical. That's the story all the other reporters are missing. It's the light in the users' eyes when they struggle to make you understand why it's the most incredible thing ever and they're so glad to have lived to see this. <i>That's</i> the freaking story. Help them get the ideas through. BTW, we have no idea how AI will rock our boat, we never did for other similar inventions. Who knew what the Beatles would lead to when they <a href="https://en.wikipedia.org/wiki/The_Beatles%27_1964_North_American_tour">came to America</a>. They said (the Beatles did, with ridiculous humility) that they expected their fame will last a few years at most. PCs a few years later were supposed to be for the kitchen where they would keep your recipes. Apple actually ran ads saying that in the late 70s. And the web? Well Chris was around near the beginning of that and knows how our eyes glazed over at the utopia we were envisioning, and we know, to some extent how all that turned out. The AI story is a great one, and as Chris had very little understanding of blogs when he did the series of podcasts in 2003 and 2004 that should win the Pulitzer Prize for being so presicent and courageous, he's the right guy to get this story, if he has the patience and stamina. This is the story. Sure you <i>have</i> to cover Harvard v Trump but AI is a story of love from the users and that story hasn't been told yet, and it's a big one, like what were the Beatles for and why, in <a href="https://en.wikipedia.org/wiki/The_Beatles%27_1964_North_American_tour">1964</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/28.html#a155546>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-28, from: Dave Winer's Scripting News)
+
+I love this <a href="https://sports.yahoo.com/nba/article/timberwolves-thunder-anthony-edwards-is-dealing-with-the-superstars-dilemma-against-okc-how-will-he-respond-150142061.html">piece</a> about Anthony Edwards and how the OKC's guard against him by double-teaming, so he can't have the ball, and that allows them to steal the ball more often from other Minnesotan ball-handlers, and also limits Edwards opportunities to shoot, but it does make it more <i>possible</i> for others on the team to shoot. If he does his job, the pundits and fans say he's slumping (low points). But he's just doing his job. Same thing, flipped around -- when they say Brunson is scoring so many points, he's doing great, like LeBron or Kobe, but actually it's a sign the team is fucked up. Too dependent on one offensive player, the others are just standing around in case he wants to pass it to them. I exaggerate, but it does work out that way. What you want is a team where there are always lots of options, and to the extent that they're hot, the team is impossible to defend. But a Brunson holding the ball all the time makes it easier to beat the Knicks? That was (as I've said a few times) the problem with Melo. Now we've <i>seen</i> the non-Brunsons on the Knicks kick ass. If the Knicks don't make it past this round, and it is it seems pretty likely -- next season they should focus on configurations that have to sink or swim based on whether they can win without Brunson. Then, next year, we'll have something, perhaps. But I'm just a fan, seriously, no sarcasm. Same way I'm a fan of AI, I have no idea how it works, and I'm happy with that. And don't tell me it's like auto-complete, try using it for a while for real stuff, and tell me how you know that from using it. You don't. Each system has quirks that you have to learn the same way you have to learn the quirks of team members, and help them do stuff they're good at, so they can handle the ball and take shots without you getting involved. That's how you start to get teamwork. See how that works kind of like basketball? :-) 
+
+<br> 
+
+<http://scripting.com/2025/05/28.html#a154441>
+
+---
+
+## Firefox 139 arrives for non-Chromium browser fans
+
+date: 2025-05-28, updated: 2025-05-28, from: Liam Proven's articles at the Register
+
+<h4>Project shutdowns at Mozilla are not encouraging, though</h4>
+      <p>Another month, another new version of Firefox, with several handy changes. The future is less certain, though.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/28/firefox_139/>
+
+---
+
+##  How to Fix Grocery Stores: The Chewy Decimal System 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/how-to-fix-grocery-stores-the-chewy-decimal-system>
+
+---
+
+##  This a great piece about the challenges many are facing in participating... 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046938-this-a-great-piece-about>
+
+---
+
+##  You can play Doom in this NY Times article about how you... 
+
+date: 2025-05-28, updated: 2025-05-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046941-you-can-play-doom-in>
 
 ---
 
@@ -220,6 +412,18 @@ date: 2025-05-27, updated: 2025-05-27, from: Daring Fireball
 <br> 
 
 <https://sixcolors.com/post/2025/05/sam-and-jony-and-skepticism/>
+
+---
+
+##  A Disillusioned Urban Planning Glossary. &#8220;NIMBY – Stands for &#8216;Not in My... 
+
+date: 2025-05-27, updated: 2025-05-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046940-a-disillusioned-urban-pla>
 
 ---
 

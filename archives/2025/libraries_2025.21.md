@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-28 06:09:13
+updated: 2025-05-28 14:08:22
 ---
 
 # libraries
 
-(date: 2025-05-28 06:09:13)
+(date: 2025-05-28 14:08:22)
 
 ---
 
@@ -39,7 +39,7 @@ Stoll, Heather
 
 date: 2025-05-27, from: Association of Research Libraries News
 
-<p>Last Updated on May 27, 2025, 3:22 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 28 &#124; Thursday, May 29 Tuesday, May...</p>
+<p>Last Updated on May 28, 2025, 4:20 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 28 &#124; Thursday, May 29 Tuesday, May...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-27-29/">Day in Review (May 27–29)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

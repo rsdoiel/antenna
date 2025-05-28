@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-05-28 06:09:05
+updated: 2025-05-28 14:08:18
 ---
 
 # north america
 
-(date: 2025-05-28 06:09:05)
+(date: 2025-05-28 14:08:18)
+
+---
+
+##  How To Combat America’s Culture-Warrior-In-Chief 
+
+date: 2025-05-28, from: The Lever News
+
+ Billionaires want Dems to talk about democracy, tout “abundance,” and play dead. But anti-oligarch politics is the only way to fight Trumpism.  
+
+<br> 
+
+<https://www.levernews.com/how-to-combat-americas-culture-warrior-in-chief/>
+
+---
+
+## Olivia Julianna asks Congressional Democrats about the way forward
+
+date: 2025-05-28, from: The Contrarian
+
+"I just cannot sign up for the circular firing squad," says Senator Elissa Slotkin. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164665233/d065f94e31bb8024beea29f78bcbe275.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164665233/d065f94e31bb8024beea29f78bcbe275.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/olivia-julianna-asks-congressional>
+
+---
+
+## Biden, a book, and a big media fiasco
+
+date: 2025-05-28, from: The Contrarian
+
+The legacy media&#8217;s hypocritical adoration of &#8216;Original Sin&#8217; 
+
+<br> 
+
+<https://contrarian.substack.com/p/biden-a-book-and-a-big-media-fiasco>
+
+---
+
+##  Tesla’s Great Shareholder Muzzling Of 2025 
+
+date: 2025-05-28, from: The Lever News
+
+ As Tesla’s sales collapse, Trump’s financial regulators just let Elon Musk’s vehicle company block nearly all shareholder proposals, including on union efforts and climate goals.  
+
+<br> 
+
+<https://www.levernews.com/teslas-great-shareholder-muzzling-of-2025/>
+
+---
+
+## When news out of the nation’s capital feels like too much to bear, take the fight local
+
+date: 2025-05-28, from: The Contrarian
+
+State legislatures tell the story of the health of American democracy itself. 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-news-out-of-the-nations-capital>
+
+---
+
+##  The Return Of Boeing’s Sweetheart Deal 
+
+date: 2025-05-28, from: The Lever News
+
+ The Trump administration dropped criminal charges against Boeing for its fatal 737 Max crashes, letting the manufacturer off the hook without a trial or even a guilty plea.  
+
+<br> 
+
+<https://www.levernews.com/the-return-of-boeings-sweetheart-deal/>
+
+---
+
+## Betrayed Again by Washington 50 Years After the Vietnam War?
+
+date: 2025-05-28, from: Capital and Main
+
+<p>Hmong farmers who feed California’s hungry now face the end of federal support under President Trump.</p>
+<p>The post <a href="https://capitalandmain.com/betrayed-again-by-washington-50-years-after-the-vietnam-war">Betrayed Again by Washington 50 Years After the Vietnam War?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/betrayed-again-by-washington-50-years-after-the-vietnam-war>
+
+---
+
+## Another salvo fired at Harvard
+
+date: 2025-05-28, from: The Contrarian
+
+National security has nothing to do with this latest folly. 
+
+<br> 
+
+<https://contrarian.substack.com/p/another-salvo-fired-at-harvard>
+
+---
+
+## Welcome To Postmodern Authoritarianism
+
+date: 2025-05-28, from: The Contrarian
+
+On the urgent importance--for those of us who still hold out hope for the idea of America--not to give up on democracy or its language 
+
+<br> 
+
+<https://contrarian.substack.com/p/welcome-to-postmodern-authoritarianism>
+
+---
+
+## Coffee with Contrarians from England!
+
+date: 2025-05-28, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/28 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-from-england>
 
 ---
 
@@ -113,7 +237,7 @@ By Marvin Kalb
 
 date: 2025-05-27, from: The Contrarian
 
-A terrific round table of Alisyn Camerota, Bill Kristol, and Mike Podhorzer join Harry on Talking Feds Substack to analyze a week in which only a couple things went right for Trump, but they were big-ticket items. 
+Talking Feds is the only independent podcast honored with all three: a Webby Honoree, a Signal Award, and a W3 Award. 
 
 <br> 
 
@@ -201,7 +325,7 @@ The Supreme Court&#8217;s decision upholding the firing of members of independen
 
 date: 2025-05-27, from: The Contrarian
 
-Tuesday: Protests in Pennsylvania, California, Michigan, and Turkey, planning for upcoming protests, and more. 
+Wednesday: Protests in New Jersey, Tennessee, and Scotland, Tesla Takedowns, planning for upcoming protests, and more. 
 
 <br> 
 

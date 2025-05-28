@@ -1,11 +1,195 @@
 ---
 title: food
-updated: 2025-05-28 06:09:16
+updated: 2025-05-28 14:08:24
 ---
 
 # food
 
-(date: 2025-05-28 06:09:16)
+(date: 2025-05-28 14:08:24)
+
+---
+
+## Our Very Favorite Moments From World Of Coffee Jakarta 2025
+
+date: 2025-05-28, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Looking back at the Producer and Roaster Village at World of Coffee Jakarta. 
+
+<br> 
+
+<https://sprudge.com/our-very-favorite-moments-from-world-of-coffee-jakarta-2025-340900.html>
+
+---
+
+## Anthony Bourdain Absolutely Loved Cheap, Shitty Coffee
+
+date: 2025-05-28, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The patron saint of culinary cool hated fancy coffee. 
+
+<br> 
+
+<https://sprudge.com/anthony-bourdain-absolutely-loved-cheap-shitty-coffee-340985.html>
+
+---
+
+## Buttermilk Powder Is an Underrated Pantry Staple
+
+date: 2025-05-28, from: Bon Appetet
+
+Unlike its liquid counterpart, this shelf-stable version is a versatile seasoning with incredible umami. 
+
+<br> 
+
+<https://www.bonappetit.com/story/buttermilk-powder-underrated-pantry-staple>
+
+---
+
+## Best Vegan Protein Powder: 9 Tasty, Plant-Based Options (2025)
+
+date: 2025-05-28, from: Bon Appetet
+
+After tasting over 20 plant-based protein powders, we finally have answers. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-vegan-protein-powder>
+
+---
+
+## The Tomato Candle That Sent Me Down the Food Smells Rabbit Hole
+
+date: 2025-05-28, from: Bon Appetet
+
+The customer reviews of these gourmand scents do not disappoint. 
+
+<br> 
+
+<https://www.bonappetit.com/story/products-that-smell-like-food>
+
+---
+
+## 22 Easy, Creamy Cheese Soups
+
+date: 2025-05-28, from: Taste of Home
+
+<p>Our best cheese soups are all about comfort and ease, with melty, creamy textures and hearty ingredients that make every bowl a cozy experience.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/comforting-cheese-soups/">22 Easy, Creamy Cheese Soups</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/comforting-cheese-soups/>
+
+---
+
+## The Coffee Fanatic: A Deeply Structured Guide To Specialty Coffee, Roasting, And Brewing
+
+date: 2025-05-28, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Coffee Fanatic by Ryo Mikami is out now. 
+
+<br> 
+
+<https://sprudge.com/the-coffee-fanatic-a-deeply-structured-guide-to-specialty-coffee-roasting-and-brewing-341396.html>
+
+---
+
+## Federal Judge Dismisses Alt Milk Up-Charge Suit Against Peet’s
+
+date: 2025-05-28, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="milk pitcher up-charge" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A United States District Court judge in Northern California dismissed a year-old lawsuit alleging that Peet&#8217;s Coffee discriminated against lactose-intolerant people by charging more for non-dairy milks. The Peet&#8217;s order... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/28/federal-judge-dismisses-alt-milk-up-charge-suit-against-peets/>
+
+---
+
+## Elise Jesse’s S’mores Bites
+
+date: 2025-05-28, from: Taste of Home
+
+These sweet little bites are just as fun but <i>way</i> less messy than classic s'mores. I make my own marshmallow fluff, but you can use store-bought, too. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-smores-bites/>
+
+---
+
+## Tyler Smith’s Party Ribs
+
+date: 2025-05-28, from: Taste of Home
+
+It isn’t a party unless you've got some ribs in attendance! These single-serve ribs make for a great bite to take to any barbecue and can be prepared in less time than your typical rack of ribs. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-party-ribs/>
+
+---
+
+## This Tiny Gadget From OXO Makes Coffee Concentrate in Minutes Instead of Hours
+
+date: 2025-05-28, from: Taste of Home
+
+<p>Cold brew typically takes time to steep, but the OXO Rapid Brewer can make both hot and cold coffee concentrates in a matter of minutes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/oxo-rapid-brewer/">This Tiny Gadget From OXO Makes Coffee Concentrate in Minutes Instead of Hours</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/oxo-rapid-brewer/>
+
+---
+
+## Hetal Vasavada’s Pistachio Cardamom Crinkle Cake
+
+date: 2025-05-28, from: Taste of Home
+
+This pistachio cardamom phyllo cake is my ode to gulab jamun—a delicious Indian dessert. It’s a milkfat doughnut soaked in a saffron, cinnamon, cardamom and rose water syrup. For this delicious dessert, I made a creamy cardamom custard to bring it all together. Then I soaked crisp layers of phyllo with the saffron, cinnamon and rose syrup echoing the floral, spiced notes of gulab jamun. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-pistachio-cardamom-crinkle-cake/>
+
+---
+
+## The Best Whiskey Glasses (2025) Whether You Take Yours Neat or on the Rocks
+
+date: 2025-05-28, from: Bon Appetet
+
+This is how you should take your sips and drams. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-whiskey-glasses>
+
+---
+
+## Nicaragua Coffee Report: Weather Helps Production Though Smallholders Challenged
+
+date: 2025-05-28, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Nicaragua" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Nicaragua’s coffee production is forecast to hold steady at the equivalent of approximately 2.58 million 60-kilogram bags in the 2025/26 market year, consistent with recent historical trends, according to the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/28/nicaragua-coffee-report-weather-helps-production-though-smallholders-challenged/>
+
+---
+
+## Stronghold Launches Mid-Range S8X Roaster, Unveils Home-Friendly S2
+
+date: 2025-05-28, from: Daily Coffee News
+
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Stronghold S8X 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-300x192.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-1536x985.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-2048x1313.jpg 2048w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; South Korean roaster-maker Stronghold is rounding out its lineup of commercial coffee roasting machines with the launch of the 4.5-kilo-capacity S8X. Appearing at the recent SCA Expo in Houston,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/28/stronghold-launches-mid-range-s8x-roaster-unveils-home-friendly-s2/>
 
 ---
 
@@ -135,7 +319,7 @@ Fluffy whole wheat pancakes are made with rich buttermilk, cinnamon and vanilla.
 
 date: 2025-05-27, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28.jpg 1080w" sizes="(max-width: 620px) 100vw, 620px" /></div>The ASEAN Coffee Federation — a trade group composed of national coffee associations in 10 Southeast Asian countries — recently launched the ASEAN Coffee Appreciation Protocol (ACAP). A framework for... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-16-at-15.02.45_d3d72f28.jpg 1080w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The ASEAN Coffee Federation — a trade group composed of national coffee associations in 10 Southeast Asian countries — recently launched the ASEAN Coffee Appreciation Protocol (ACAP). A framework for... 
 
 <br> 
 
@@ -219,7 +403,7 @@ This flavorful cake is a lovely, understated way to finish your grand meal. It d
 
 date: 2025-05-27, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Brazil final" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brazil’s total coffee production for the 2025/26 market year (July to June) is forecast at the equivalent of 65 million 60-kilogram bags, up 0.5% from the prior year. This modest... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Brazil final" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Brazil-final.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Brazil’s total coffee production for the 2025/26 market year (July to June) is forecast at the equivalent of 65 million 60-kilogram bags, up 0.5% from the prior year. This modest... 
 
 <br> 
 
@@ -243,7 +427,7 @@ date: 2025-05-27, from: The Sprudge
 
 date: 2025-05-27, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Ghost Coffee Roaster 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new local haunt for fresh coffee, a bite to eat and coffee education is open on the Purdue University campus in West Lafayette, Indiana. Ghost Coffee Roaster recently opened... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Ghost Coffee Roaster 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Ghost-Coffee-Roaster-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new local haunt for fresh coffee, a bite to eat and coffee education is open on the Purdue University campus in West Lafayette, Indiana. Ghost Coffee Roaster recently opened... 
 
 <br> 
 

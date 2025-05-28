@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-05-28 06:09:07
+updated: 2025-05-28 14:08:19
 ---
 
 # pacific
 
-(date: 2025-05-28 06:09:07)
+(date: 2025-05-28 14:08:19)
+
+---
+
+## Image of the Week: Honu
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>This week's image is from Honolulu Community College's Krystah Dumlao.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/28/image-of-the-week-honu/">Image of the Week: Honu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/28/image-of-the-week-honu/>
 
 ---
 
@@ -14,7 +27,7 @@ updated: 2025-05-28 06:09:07
 date: 2025-05-28, from: Hawaii Tribune Harold
 
 
-				<p>Everyone who stays in a Hawaii hotel, cruise ship or other lodging beginning Jan. 1 will pay an extra $30 for every $400 in overnight costs &#8212; or an additional $300 for every $4,000 spent to stay in the islands &#8212; to help Hawaii pay to address climate change and reduce the risk of future wildfires.</p>
+				<p>Everyone who stays in a Hawaii hotel, cruise ship or other lodging beginning Jan. 1 will pay an extra $3 for every $400 in overnight costs &#8212; or an additional $30 for every $4,000 spent to stay in the islands &#8212; to help Hawaii pay to address climate change and reduce the risk of future wildfires.</p>
 			 
 
 <br> 

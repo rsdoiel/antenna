@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-05-28 06:09:14
+updated: 2025-05-28 14:08:23
 ---
 
 # motorcycles
 
-(date: 2025-05-28 06:09:14)
+(date: 2025-05-28 14:08:23)
+
+---
+
+## INDYCAR Power Rankings: After securing that elusive oval win, can anything slow down Alex Palou?
+
+date: 2025-05-28, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer The only hope the rest of the drivers had was that once the series reached the oval-portion of the schedule, they could finally start making&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indycar-power-rankings-after-securing-that-elusive-oval-win-can-anything-slow-down-alex-palou/>
+
+---
+
+## Yamaha’s Upgraded Off-Roader Will Make You Want To Sell Your Regular One
+
+date: 2025-05-28, from: Ride Apart, Electric Motorcycle News
+
+And it’ll make those who want the standard T7 drool uncontrollably. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760662/yamaha-gytr-tenere-700-upgrades-specs/>
+
+---
+
+## This New Race Could Feature Attainable Sportbikes, Making it Actually Relevant
+
+date: 2025-05-28, from: Ride Apart, Electric Motorcycle News
+
+Out goes World Supersport 300, in comes World Sportbike. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760784/wsbk-series-world-sportbike-announcement/>
 
 ---
 

@@ -1,11 +1,325 @@
 ---
 title: planet
-updated: 2025-05-28 06:09:04
+updated: 2025-05-28 14:08:18
 ---
 
 # planet
 
-(date: 2025-05-28 06:09:04)
+(date: 2025-05-28 14:08:18)
+
+---
+
+## Senior Kinahan figure being extradited back to Ireland
+
+date: 2025-05-28, from: RTÉ News
+
+One of the most senior figures in the Kinahan Organised Crime Group, who is wanted in Ireland to face charges of murder and involvement with a criminal gang, is being extradited from the UAE. 
+
+<br> 
+
+<https://www.rte.ie/news/crime/2025/0528/1515523-kinahan/>
+
+---
+
+## Slovakia allows culled bears to be eaten
+
+date: 2025-05-28, from: RTÉ News
+
+The Slovak government has decided to allow the consumption of brown bear meat, angering environmentalists who have slammed the move as absurd and giving a boost to poachers. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0528/1515521-slovakia-bears/>
+
+---
+
+## Murder trial hears of texts between accused and victim
+
+date: 2025-05-28, from: RTÉ News
+
+A 30-year-old man charged with the murder of a chef sent him a text threatening to chop off his fingers just hours before he was fatally attacked in a car park, the Central Criminal Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0528/1515510-dylan-scannell-court/>
+
+---
+
+## Harris and foreign ministers urge Palestine recognition
+
+date: 2025-05-28, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs Simon Harris and his counterparts from Norway, Slovenia and Spain have urged other countries to recognise Palestinian statehood and grant it UN membership to build momentum for a two-state solution. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0528/1515506-palestine-state-ireland/>
+
+---
+
+## Bill to ban fox hunting passes first stage vote in Dáil
+
+date: 2025-05-28, from: RTÉ News
+
+The Dáil has voted to pass the first stage of a piece of legislation that would ban fox hunting with 113 TDs voting in favour and 49 against. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0528/1515509-fox-hunting/>
+
+---
+
+## Kneecap move Scottish gig amid police safety concerns
+
+date: 2025-05-28, from: RTÉ News
+
+Kneecap will no longer be playing at the TRNSMT festival in Scotland after the police voiced safety concerns, with a replacement gig at Glasgow's O2 Academy now scheduled in July. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0528/1515508-kneecap-move-scottish-gig-amid-police-safety-concerns/>
+
+---
+
+## Caritas: ‘Crippling’ debt weighing down developing countries
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>Vatican officials, charity workers, and internationally-recognised economists come together to discuss debt reform in an online town hall organised by Caritas Internationalis. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/caritas-internationalis-crippling-debt-ecology-climate-dutton.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/caritas-internationalis-crippling-debt-ecology-climate-dutton.html>
+
+---
+
+## "My heart is displaced" - Sligo doctor after Gaza deaths
+
+date: 2025-05-28, from: RTÉ News
+
+A doctor living in Sligo whose nine nieces and nephews were killed in an Israeli strike on Gaza last Friday has said his "heart has been displaced". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0528/1515399-sligo-doctor-gaza/>
+
+---
+
+## Tate brothers face charges, including rape, in England
+
+date: 2025-05-28, from: RTÉ News
+
+Online influencers Andrew and Tristan Tate are facing a number of charges in England, prosecutors have confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0528/1515495-tate-brothers-uk/>
+
+---
+
+## Police Ombudsman in contact with Shane O'Farrell's family
+
+date: 2025-05-28, from: RTÉ News
+
+The Police Ombudsman has said that it has been in direct contact with the family of Shane O'Farrell after a public apology was issued by the Government yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0528/1515498-police-ofarrell/>
+
+---
+
+## Ukraine ready for peace talks, wants Russian terms first
+
+date: 2025-05-28, from: RTÉ News
+
+Ukraine has said it is ready for more direct talks with Russia but demanded that Moscow needed to provide its peace terms in advance to ensure the encounter yielded results. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0528/1515490-russia-ukraine/>
+
+---
+
+## Jury in Adams libel case to begin deliberations tomorrow
+
+date: 2025-05-28, from: RTÉ News
+
+The jury in the defamation case taken by former Sinn Féin leader Gerry Adams is expected to begin deliberating tomorrow after a case lasting four weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0528/1515489-gerry-adams-defamation/>
+
+---
+
+## Police detention of Liverpool parade suspect extended
+
+date: 2025-05-28, from: RTÉ News
+
+Police in England have been given more time to question a man suspected of driving a car into a crowd at Liverpool's Premier League victory parade on Monday. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0528/1515484-liverpool-car/>
+
+---
+
+## CELAM celebrates 70 years with a telegram from Pope Leo XIV
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>The bishops of Latin America and the Caribbean gather for the 40th Ordinary General Assembly of CELAM, marking 70 years since the first General Conference of the Episcopate was held in Rio de Janeiro in 1955. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/70-years-of-celam-the-pope-calls-it-a-sign-of-collegiality.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/70-years-of-celam-the-pope-calls-it-a-sign-of-collegiality.html>
+
+---
+
+## Musk 'disappointed' by Trump tax and spending bill
+
+date: 2025-05-28, from: RTÉ News
+
+Billionaire Elon Musk has criticised Donald Trump's signature spending bill, in his first major break with the US president since he stepped back from his role in cutting government spending. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0528/1515478-musk-trump-bill/>
+
+---
+
+## Combs loses mistrial bid in sex trafficking trial
+
+date: 2025-05-28, from: RTÉ News
+
+Sean "Diddy" Combs has lost a bid for a mistrial in his sex-trafficking case, after his lawyers argued that prosecutors were improperly trying to suggest that the hip-hop mogul had evidence tied to an alleged arson incident destroyed. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0528/1515480-diddy-trial/>
+
+---
+
+## Germany to toughen citizenship rules for migrants
+
+date: 2025-05-28, from: RTÉ News
+
+The German government has agreed plans to restrict family reunifications for some migrants and toughen rules for obtaining citizenship. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0528/1515475-germany/>
+
+---
+
+## Tens of thousands of pilgrims expected for Jubilee of Families 
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>More than 60,000 pilgrims from 120 different countries are expected in Rome this weekend for the Jubilee of Families, Children, Grandparents, and the Elderly.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/tens-of-thousands-of-pilgrims-expected-for-jubilee-of-families.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/tens-of-thousands-of-pilgrims-expected-for-jubilee-of-families.html>
+
+---
+
+## 300 jobs to go with closure of Carelon in Limerick
+
+date: 2025-05-28, from: RTÉ News
+
+300 jobs are to be lost with the closure of Carelon Global Solutions Ireland in Castletroy in Limerick. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0528/1515462-300-job-losses-in-limerick/>
+
+---
+
+## French surgeon who abused hundreds jailed for 20 years
+
+date: 2025-05-28, from: RTÉ News
+
+A French court has given the maximum 20-year jail term to a surgeon who admitted sexually abusing hundreds of patients, most of them children, during more than two decades. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0528/1515445-french-surgeon-courts/>
+
+---
+
+## Young Africans on climate change, migration, conflict and development
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>Developing countries are disproportionately impacted by climate change, with many experiencing more frequent and severe disasters. On the occasion of Africa Day, celebrated worldwide this week, a young Togolese national, Mr Isaac Kodjo Atchikiti, based in Rome, spoke to Vatican News about climate financing in Africa, migration, and conflicts, among other issues. 
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/young-africans-climate-migration-conflict-and-development.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/young-africans-climate-migration-conflict-and-development.html>
+
+---
+
+## Glacier collapse buries 90% of Swiss village, person missing
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545965.1748450877!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/switzerland-mudslide.jpg' alt='A massive pile of mud and rocks is shown at the base of a valley. In the distance, the roof of a house can be seen in the debris. ' width='620' height='349' title='A large avalanche with a mixture of ice, rock, snow and water reach the valley floor is pictured in Wiler after the Birch glacier collapsing above Blatten, Switzerland, Wednesday, May 28, 2025. '/><p>One person is missing after the evacuated Swiss village of Blatten was buried by mud and rocks due to a glacier collapse.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/blatten-switzerland-rock-slide-1.7545949?cmp=rss>
+
+---
+
+## Tanzania: Bishops call on the government to address violent acts against citizens
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>Ahead of the presidential elections scheduled for 28 October 2025, the political climate in Tanzania has become tense. Both local and international observers have expressed concerns about violent incidents, increasing political repression and fear. The President of the Bishops’ Conference has called on citizens to pray for the country to preserve its reputation as an oasis of peace, “blessed with strong systems, institutions and just laws.”</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/tanzania-episcopal-conference-calls-on-the-government-to-address.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/tanzania-episcopal-conference-calls-on-the-government-to-address.html>
+
+---
+
+## Namibia: Genocide against the Herero and Nama commemorated
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>Namibia's capital of Windhoek has hosted a commemoration of the genocide against the Herero and Nama peoples from 1904 to 1908, marking a first step towards reconciliation after more than 70,000 deaths, including children, women, and the elderly, killed during the period of the German Empire.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/namibia-genocide-against-the-herero-and-nama-commemorated.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/namibia-genocide-against-the-herero-and-nama-commemorated.html>
 
 ---
 
@@ -33,11 +347,83 @@ Fact: 2024 was the warmest year on record – but the heat is far from over. A n
 
 ---
 
+## Exponential rise in synthetic drug production and trafficking in the Golden Triangle
+
+date: 2025-05-28, from: United Nations, Top Stories
+
+The Golden Triangle – the remote, jungle-covered border region where Thailand, Myanmar, and the Lao People’s Democratic Republic meet – has seen an exponential surge in the illicit manufacture and trafficking of synthetic drugs. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163741>
+
+---
+
+## Yemen: UN warns against Houthi-Israel escalation, calls for dialogue
+
+date: 2025-05-28, from: United Nations, Top Stories
+
+The United Nations has called for restraint following another wave of escalation between Houthi rebels in Yemen and Israeli forces.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163801>
+
+---
+
+## UN awards 2025 Mandela Prize to Brenda Reynolds and Kennedy Odede
+
+date: 2025-05-28, from: United Nations, UN Affairs
+
+An Indigenous&nbsp;social worker from Canada and a social entrepreneur from Kenya are the laureates of the 2025 Nelson Rolihlahla Mandela Prize, the United Nations announced on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163791>
+
+---
+
+## ‘My husband died in my arms’: Russian drone attacks on Ukrainians amount to crimes against humanity, UN investigators report
+
+date: 2025-05-28, from: United Nations, Top Stories
+
+Russian drone attacks against civilians in the Kherson region of Ukraine constitute crimes against humanity and war crimes, independent UN human rights investigators concluded in a report published on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163781>
+
+---
+
+## ‘We are women like you’: UN honours peacekeepers for work in gender empowerment
+
+date: 2025-05-28, from: United Nations, UN Affairs
+
+In early summer 2024, Squadron Leader Sharon Mwinsote Syme of Ghana ventured into sector North of Abyei, a disputed region between Sudan and South Sudan where she was deployed as a military gender advocate with the UN Interim Security Force in Abyei (UNISFA). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163786>
+
+---
+
+## Gaza: Top UN envoy calls on Israel to end devastating strikes, starvation of civilians
+
+date: 2025-05-28, from: United Nations, Top Stories
+
+Gaza’s population is being “starved and denied the very basics,” while the region stands at a dangerous crossroads, the UN’s Middle East peace envoy warned the Security Council Wednesday, urging immediate action to halt the violence, restore aid and advance a two-State solution before time runs out. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163766>
+
+---
+
 ## Seven killed as migrant boat capsizes near Canary Islands
 
 date: 2025-05-28, from: RTÉ News
 
-At least seven people died when a migrant boat capsized as rescuers were escorting it to port in Spain's Canary Islands, regional emergency services said. 
+At least seven people were killed after migrants getting ready to disembark their overcrowded boat in Spain's Canary Islands accidentally capsized the vessel, emergency services said, the latest tragedy on the perilous route. 
 
 <br> 
 
@@ -57,11 +443,11 @@ The dates for the 2027 Ryder Cup at Adare Manor have been confirmed, with the bi
 
 ---
 
-## RTÉ marketing campaign 'cost less than €100,000'
+## As it happened: RTÉ questioned over €3.6m IT write-down
 
 date: 2025-05-28, from: RTÉ News
 
- 
+Updates as RTÉ Leadership Team appear before Oireachtas Media Committee. 
 
 <br> 
 
@@ -69,11 +455,23 @@ date: 2025-05-28, from: RTÉ News
 
 ---
 
-## Jury resumes deliberations in Satchwell trial
+## Sherpa guide breaks record by making 31st summit of Mount Everest
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545867.1748444472!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nepal-everest.jpg' alt='A close-up image of a man wearing a hat, sunglasses and an orange flower garland around his neck.' width='620' height='349' title='Renowned Sherpa mountain guide Kami Rita is garlanded at the Tribhuvan airport as he prepares to depart to ascend Mount Everest for the record 31st time in Kathmandu, Nepal on April 20, 2025. '/><p>Sherpa guide Kami Rita Sherpa broke a record he set for most summits of Mount Everest by completing his 31st climb on Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/kami-rita-sherpa-mount-everest-1.7545850?cmp=rss>
+
+---
+
+## Jury to continue Satchwell trial deliberations tomorrow
 
 date: 2025-05-28, from: RTÉ News
 
-The jury in the trial of Richard Satchwell, who denies murdering his wife Tina in Co Cork more than eight years ago, has resumed its deliberations. 
+The jury in the trial of Richard Satchwell has gone home for the night and will resume its deliberations in the morning. 
 
 <br> 
 
@@ -81,7 +479,19 @@ The jury in the trial of Richard Satchwell, who denies murdering his wife Tina i
 
 ---
 
-## Second location searched in Fiona Pender investigation
+## Forecast for the next 5 years? Record-breakingly hot, UN weather agency says
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545834.1748442524!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/asia-weather-pakistan.JPG' alt='Men, who collect recyclables for living, gather as they take bath to cool off from the heat, at a leaking water pipeline, during a hot summer day in Karachi, Pakistan May 25, 2025. ' width='620' height='349' title='Men who collect recyclables for living cool off from the heat at a leaking water pipeline in Karachi, Pakistan on May 25, 2025. The UN weather agency says the next five years are likely to be record-breakingly hot.'/><p>There's a very high chance that one of the next five years will set a new heat record. It's also very likely that the next five years will see average temperatures above the lower limit in the Paris Agreement on climate change, the UN weather agency forecasts.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/wmo-warming-1.7545719?cmp=rss>
+
+---
+
+## Second search in Pender inquiry to continue overnight
 
 date: 2025-05-28, from: RTÉ News
 
@@ -90,6 +500,30 @@ A second location is being searched by gardaí investigating the disappearance a
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0528/1515362-fiona-pender-investigation/>
+
+---
+
+## SpaceX launches another Starship but loses control 30 minutes into flight
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545811.1748440878!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/spacex-starship-ift9.JPG' alt='A large rocket, with flames at its base, is seen blasting off against a blue sky.' width='620' height='349' title='SpaceX&apos;s next-generation Starship spacecraft atop its Super Heavy booster is launched on its ninth test at the company&apos;s launch pad in Starbase, Texas, U.S., May 27, 2025. '/><p>After back-to-back explosions, SpaceX launched its mega rocket Starship again on Tuesday evening but fell short of the main objectives when the spacecraft tumbled out of control and broke apart.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/starship-ift9-1.7545742?cmp=rss>
+
+---
+
+## Former French surgeon who raped 299 children sentenced to 20 years in prison
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545783.1748439888!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/france-surgeon-child-rape.jpg' alt='People hold posters and signs written in french' width='620' height='349' title='People place posters during a demonstration ahead of the verdict in the trial of Joel Le Scouarnec, a 74-year-old former surgeon, accused of raping and sexually assaulting 299 children, Wednesday, May 28, 2025 in Vannes, Brittany, western France.'/><p>A 74-year-old pedophile and former surgeon who raped dozens of children over a period spanning more than two decades was given a maximum 20-year prison sentence on Friday by a French court.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/france-surgeon-rape-1.7545755?cmp=rss>
 
 ---
 
@@ -102,6 +536,30 @@ Dundalk Institute of Technology and Maynooth University have launched a new part
 <br> 
 
 <https://www.rte.ie/news/regional/2025/0528/1515383-dundalk-maynooth-partnership/>
+
+---
+
+## Dundalk IT and Maynooth University launch new partnership
+
+date: 2025-05-28, from: RTÉ News
+
+Dundalk Institute of Technology and Maynooth University have launched a new partnership with the aim of advancing higher education in the region. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0528/1515383-dundalk-maynooth-partnership/>
+
+---
+
+## 'No MAGA left behind': Trump turning pardons into partisan exercise, critics say
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7532078.1746907670!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG' alt='U.S. President Donald Trump looks on inside the Oval Office of the White House, in Washington, D.C., U.S., May 9, 2025. ' width='620' height='349' title='U.S. President Donald Trump looks on inside the Oval Office of the White House, in Washington, D.C., U.S., May 9, 2025. '/><p>After Donald Trump's sweeping pardon of hundreds convicted of 2021 Capitol riot offences, other priorities of his administration have dominated the discourse. But his administration continues to issue periodic pardons, and critics say they reek of hyperpartisanship.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-pardons-jenkins-fiore-1.7544575?cmp=rss>
 
 ---
 
@@ -169,7 +627,7 @@ date: 2025-05-28, from: Vatican News
 
 ---
 
-## IHF joins legal action against Booking.com
+## Irish hotels body joins legal action against Booking.com
 
 date: 2025-05-28, from: RTÉ News
 
@@ -221,6 +679,22 @@ Two men have been arrested following the seizure of over €5 million worth of d
 
 ---
 
+## Pope Leo XIV's pectoral cross contains a relic of St. Leo the Great
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>On the day of his election, Pope Leo XIV received the gift of a silver pectoral cross containing the relics of Pope St. Leo the Great, as well as three Augustinian bishops: St. Augustine, St. Thomas of Villanova, and Blessed Anselmo Polanco, a Spanish bishop martyred in the country’s civil war.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/cross-donated-to-pope-leo-contains-relic-of-st-leo-the-great.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/cross-donated-to-pope-leo-contains-relic-of-st-leo-the-great.html>
+
+---
+
 ## Pope Leo: Compassion is a matter of humanity, not a religious issue
 
 date: 2025-05-28, from: Vatican News
@@ -249,11 +723,11 @@ Adult tickets for this year's Munster SHC decider between Limerick and Cork at T
 
 ---
 
-## 'Clock ticking towards famine' in Gaza, says UNRWA head
+## Envoy breaks down recounting deaths of children in Gaza
 
 date: 2025-05-28, from: RTÉ News
 
-The head of the UN agency for Palestinian refugees has said the "clock is ticking towards famine" in Gaza as he warned that the new US-backed aid distribution model in Gaza is a waste of resources and a distraction from "atrocities". 
+The Palestinian ambassador to the United Nations has described the suffering of Palestinian children as "unbearable" as he broke down in tears during an emotional address to the Security Council. 
 
 <br> 
 
@@ -309,11 +783,11 @@ date: 2025-05-28, from: CBC, World News
 
 ---
 
-## Licence fee figures 'broadly in line' with last year - DG
+## €3.6m IT write-down dominates RTÉ's committee appearance
 
 date: 2025-05-28, from: RTÉ News
 
-RTÉ Director General Kevin Bakhurst said licence fee figures go "up and down" week to week, but are "broadly in line with sales last year". 
+The RTÉ leadership team has told an Oireachtas committee that they had no knowledge of a €3.6 million write-down over a partly failed IT project until February of this year. 
 
 <br> 
 
@@ -333,11 +807,11 @@ Méabh White has just finished her second year of pharmacy studies, almost a dec
 
 ---
 
-## Uisce Éireann needs €2bn to help meet housing targets
+## Uisce Éireann warns of overreliance on water from Liffey
 
 date: 2025-05-28, from: RTÉ News
 
-Uisce Éireann will tell TDs and Senators today that it requires an additional €2bn to deliver the water services capacity needed to reach the Government's revised housing targets. 
+Uisce Éireann has warned that if the River Liffey is ever polluted, 85% of the water in the greater Dublin area would be gone. 
 
 <br> 
 
@@ -345,11 +819,11 @@ Uisce Éireann will tell TDs and Senators today that it requires an additional �
 
 ---
 
-## Dáil due to vote on Sinn Féin's Israeli bonds bill
+## Two Govt-supporting TDs back SF bill on Israeli bonds
 
 date: 2025-05-28, from: RTÉ News
 
-TDs are due to vote on a Sinn Féin bill which seeks to prevent the Central Bank from having any involvement with Israeli bonds. 
+A Sinn Féin bill that would have prevented the Irish Central Bank from approving the prospectus which allows Israel to sell bonds in the EU has been defeated in a Dáil vote, despite receiving the backing of two Government-supporting TDs. 
 
 <br> 
 
@@ -369,11 +843,23 @@ IDA Ireland circulated the EU's draft list of retaliatory measures to US tariffs
 
 ---
 
+## IDA consults pharma firms on EU retaliatory tariffs on US
+
+date: 2025-05-28, from: RTÉ News
+
+IDA Ireland circulated the EU's draft list of retaliatory measures to US tariffs to Irish-based pharmaceutical companies for their comments as part of the Government's response to the European Commission on the proposals. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0528/1515289-ida-tariff-measures/>
+
+---
+
 ## How a tipster tracked a U.S. fugitive 'psychic' to Toronto after a 21-year search
 
 date: 2025-05-28, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7534762.1747307259!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/patrick-lutts-jr.jpg' alt='Man in black sweater standing at a bar, holding up a can' width='620' height='349' title='Patrick Lutts’s online presence in recent years paints the picture of a man with a busy social life.'/><p>An internet sleuth pointed authorities to the whereabouts of a longtime U.S. fugitive leading a double life in Ontario. CBC News has pieced together new details about the anonymous tip that led Toronto police earlier this year to apprehend Patrick Lutts Jr., more than two decades after he vanished.</p> 
+<img src='https://i.cbc.ca/1.7545940.1748447839!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/luttsmay28.jpg' alt='Patrick Lutts Jr. appears in Ontario Superior Court in Toronto on May 28 by video link from a local jail.' width='620' height='349' title='Patrick Lutts Jr. appears in Ontario Superior Court in Toronto on May 28 by video link from a local jail.'/><p>An internet sleuth pointed authorities to the whereabouts of a longtime U.S. fugitive leading a double life in Ontario. CBC News has pieced together new details about the anonymous tip that led Toronto police earlier this year to apprehend Patrick Lutts Jr., more than two decades after he vanished.</p> 
 
 <br> 
 
@@ -429,11 +915,11 @@ Ireland has gone backwards in its attempts to achieve its greenhouse gas emissio
 
 ---
 
-## Record numbers treated for drug problems last year - HRB
+## 'It took my soul' - Dublin woman marks 6 years drug free
 
 date: 2025-05-27, from: RTÉ News
 
-The number of people being treated for drug problems reached a record high last year, according to new figures from the Health Research Board. 
+Fiona Taaffe completed the Dublin City Half Marathon last month - a remarkable achievement which marked her sixth year in recovery from drug addiction. 
 
 <br> 
 
@@ -889,18 +1375,6 @@ As the war between rival militaries in Sudan continues, the World Health Organiz
 
 ---
 
-## Exponential rise in synthetic drug production and trafficking in the Golden Triangle
-
-date: 2025-05-27, from: United Nations, Top Stories
-
-The Golden Triangle – the remote, jungle-covered border region where Thailand, Myanmar, and the Lao People’s Democratic Republic meet – has seen an exponential surge in the illicit manufacture and trafficking of synthetic drugs. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/05/1163741>
-
----
-
 ## UN aims to transform urgency into action at Nice Ocean Conference
 
 date: 2025-05-27, from: United Nations, Climate Change
@@ -1233,7 +1707,9 @@ date: 2025-05-27, from: CBC, World News
 
 ---
 
-**@CBC, World News** (date: 2025-05-27, from: CBC, World News)
+## Police allege Liverpool parade driver, arrested on suspicion of attempted murder, was impaired
+
+date: 2025-05-27, from: CBC, World News
 
 <img src='https://i.cbc.ca/1.7544463.1748303581!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/police-officer-gestures-to-liverpool-fans-in-the-aftermath-of-an-incident-at-victory-parade.jpg' alt='A police officer shouts at Liverpool fans as he stands on duty at a police cordon at the entrance to Water Street in Liverpool, England.' width='620' height='349' title='A police officer shouts at Liverpool fans as he stands on duty at a police cordon at the entrance to Water Street, at the scene of an incident, on the sidelines of an open-top bus victory parade for Liverpool&apos;s Premier League title win, in Liverpool, north-west England on May 26, 2025'/><p>A 53-year-old British man who injured 65 people when he plowed his vehicle into a crowd of Liverpool soccer fans celebrating their team's Premier League championship has been arrested on suspicion of attempted murder, police said Tuesday.</p> 
 

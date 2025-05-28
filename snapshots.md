@@ -1,11 +1,295 @@
 ---
 title: snapshots
-updated: 2025-05-28 06:09:18
+updated: 2025-05-28 14:08:25
 ---
 
 # snapshots
 
-(date: 2025-05-28 06:09:18)
+(date: 2025-05-28 14:08:25)
+
+---
+
+## from Luddites to AI: the Overton Window of disruption
+
+date: 2025-05-28, from: Geoffrey Hunntley's blog
+
+<p>I&apos;ve been thinking about <a href="https://en.wikipedia.org/wiki/Overton_window?ref=ghuntley.com">Overton Windows</a> lately, but not of the political variety.</p><figure class="kg-card kg-image-card"><img src="https://ghuntley.com/content/images/2025/05/Unthinkable-1.png" class="kg-image" alt loading="lazy" width="1039" height="703"></figure><p>You see, the Overton window can be adapted to model disruptive innovation by framing the acceptance of novel technologies, business models, or ideas within a market or society. So I&apos;ve been pondering about</p> 
+
+<br> 
+
+<https://ghuntley.com/overton/>
+
+---
+
+## Lilbits: More AMD Strix Halo mini PCs, Windows Update for third-party app updates, and Apple’s new operating system names
+
+date: 2025-05-28, from: Liliputing
+
+<p>Installing app updates on a phone is pretty simple these days: if you have an iPhone, the App Store handles updates. And while Android users can sideload apps or install third-party app stores, most app updates are probably handled by the Google Play Store. But installing updates on a PC? That&#8217;s a messier proposition. Microsoft [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-more-amd-strix-halo-mini-pcs-windows-update-for-third-party-app-updates-and-apples-new-operating-system-names/">Lilbits: More AMD Strix Halo mini PCs, Windows Update for third-party app updates, and Apple&#8217;s new operating system names</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-more-amd-strix-halo-mini-pcs-windows-update-for-third-party-app-updates-and-apples-new-operating-system-names/>
+
+---
+
+## DropDMG 3.6.9
+
+date: 2025-05-28, from: Michael Tsai
+
+DropDMG 3.6.9 is a maintenance update to my app for creating and working with Mac disk image files. It fixes a conversion bug, works better with macOS security/privacy features, improves the help, and more. Some interesting issues were: TCC continues to cause problems. A longstanding issue is that DropDMG&#8217;s command-line tool uses AppleScript to communicate [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/28/dropdmg-3-6-9/>
+
+---
+
+## BBEdit 15.5
+
+date: 2025-05-28, from: Michael Tsai
+
+Bare Bones Software: Introducing &#8220;workspaces&#8221;, a way to switch between arrangements of open documents and windows. A workspace includes the same application state that is saved and restored across quit and relaunch, but can be activated at any time while the application is running. This is useful for (for example) switching between working setups for [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/28/bbedit-15-5/>
+
+---
+
+## Kaleidoscope 6
+
+date: 2025-05-28, from: Michael Tsai
+
+Florian Albrecht (tweet): Kaleidoscope can now hide equal blocks of text by collapsing them into a single expandable line. This significantly shortens text comparisons when most of the text in A and B is identical. Collapsing unchanged lines lets you quickly focus on the differences, assuming familiarity with the text. I really like this feature. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/28/kaleidoscope-6/>
+
+---
+
+## No Dogs Allowed: retorcido y empático juego de ilusiones
+
+date: 2025-05-28, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Steve Bache. Guion: Stephan Kämpf. Elenco: Carlo Krammling, Robin Sondermann, Katharina Schubert, Sean Douglas, Bineta Hansen. País: Alemania. Más información de la película: https://www.imdb.com/title/tt29288270 Un adolescente llamado Gabo (Carlo Krammling) entra en una cafería esperando encontrarse con un chico con quien pautó una cita en una aplicación de encuentros entre hombres. La sorpresa para [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-no-dogs-allowed/">No Dogs Allowed: retorcido y empático juego de ilusiones</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-no-dogs-allowed/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-no-dogs-allowed>
+
+---
+
+## Streaming
+
+date: 2025-05-28, from: Chris Coyier blog
+
+I got an itch to attempt streaming. So&#8230; The point is, mostly, for me to play with CodePen&#8217;s 2.0 editor and just make stuff, learning about front-end development, web design, and CodePen features all together. I&#8217;ve used StreamYard to do it before, and I love how simple it is, but it feels a bit limiting, [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/05/28/streaming/>
+
+---
+
+## Developer Builds Tool That Scrapes YouTube Comments, Uses AI to Predict Where Users Live
+
+date: 2025-05-28, from: 404 Media Group
+
+The developer claims the tool is for cops, but anyone can sign up and use it for targeted harassment. 
+
+<br> 
+
+<https://www.404media.co/developer-builds-tool-that-scrapes-youtube-comments-uses-ai-to-predict-where-users-live/>
+
+---
+
+## Anker Soundcore P41i earbuds come with a case that can also charge your phone
+
+date: 2025-05-28, from: Liliputing
+
+<p>Most true wireless earbuds come with a charging case that lets you refuel the earbuds when you drop them inside. But the new Anker Soundcore P41i earbuds come with a case that can not only recharge the earbuds, but also a phone, tablet, or other devices. Available now in the UK for £80 and up, the new [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/anker-soundcore-p41i-earbuds-come-with-a-case-that-can-also-charge-your-phone/">Anker Soundcore P41i earbuds come with a case that can also charge your phone</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/anker-soundcore-p41i-earbuds-come-with-a-case-that-can-also-charge-your-phone/>
+
+---
+
+## Codestral Embed
+
+date: 2025-05-28, updated: 2025-05-28, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mistral.ai/news/codestral-embed">Codestral Embed</a></strong></p>
+Brand new embedding model from Mistral, specifically trained for code. Mistral claim that:</p>
+<blockquote>
+<p>Codestral Embed significantly outperforms leading code embedders in the market today: Voyage Code 3, Cohere Embed v4.0 and OpenAI’s large embedding model.</p>
+</blockquote>
+<p>The model is designed to work at different sizes. They show performance numbers for 256,  512, 1024 and 1546 sized vectors in binary (256 bits = 32 bytes of storage per record), int8 and float32 representations. The <a href="https://docs.mistral.ai/capabilities/embeddings/code_embeddings/#output-dimension">API documentation</a> says you can request up to 3072.</p>
+<blockquote>
+<p>The dimensions of our embeddings are ordered by relevance. For any integer target dimension n, you can choose to keep the first n dimensions for a smooth trade-off between quality and cost.</p>
+</blockquote>
+<p>I think that means they're using <a href="https://huggingface.co/blog/matryoshka">Matryoshka embeddings</a>.</p>
+<p>Here's the problem: the benchmarks look great, but the model is <em>only</em> available via their API (or for on-prem deployments at "contact us" prices).</p>
+<p>I'm perfectly happy to pay for API access to an embedding model like this, but I only want to do that if the model itself is also open weights so I can maintain the option to run it myself in the future if I ever need to.</p>
+<p>The reason is that the embeddings I retrieve from this API only maintain their value if I can continue to calculate more of them in the future. If I'm going to spend money on calculating and storing embeddings I want to know that value is guaranteed far into the future.</p>
+<p>If the only way to get new embeddings is via an API, and Mistral shut down that API (or go out of business), that investment I've made in the embeddings I've stored collapses in an instant.</p>
+<p>I don't actually want to run the model myself. Paying Mistral $0.15 per million tokens (50% off for batch discounts) to <em>not</em> have to waste my own server's RAM and GPU holding that model in memory is great deal!</p>
+<p>In this case, open weights is a feature I want purely because it gives me complete confidence in the future of my investment.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/embeddings">embeddings</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/28/codestral-embed/#atom-everything>
+
+---
+
+## UP Squared TWL single-board computers support up to an Intel Core 3 N355 Twin lake processor
+
+date: 2025-05-28, from: Liliputing
+
+<p>AAEON is updating its UP line of single-board computers with two new models powered by Intel Twin Lake chips. Both the Up Square TWL and UP Squared Pro TWL are available with a choice of Intel N150, Intel N250, or Intel Core 3 N355 processors and support for 4GB to 16GB of onboard LPDDR5 memory. But [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/up-squared-twl-single-board-computers-support-up-to-an-intel-core-3-n355-twin-lake-processor/">UP Squared TWL single-board computers support up to an Intel Core 3 N355 Twin lake processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/up-squared-twl-single-board-computers-support-up-to-an-intel-core-3-n355-twin-lake-processor/>
+
+---
+
+## Texas Solicitor General Resigned After Fantasizing Colleague Would Get 'Anally Raped By a Cylindrical Asteroid'
+
+date: 2025-05-28, from: 404 Media Group
+
+Judd Stone resigned after admitting to the statements, a letter circulated at the Texas Attorney General's office states. 
+
+<br> 
+
+<https://www.404media.co/texas-solicitor-general-judd-stone-resigned/>
+
+---
+
+## Claude as a calculator
+
+date: 2025-05-28, updated: 2025-05-28, from: Simon Willison’s Weblog
+
+<p>Here's a quick demo of the kind of casual things I use LLMs for on a daily basis.</p>
+<p>I just found out that Perplexity offer their Deep Research feature via their API, through a model called <a href="https://docs.perplexity.ai/models/models/sonar-deep-research">Sonar Deep Research</a>.</p>
+<p>Their documentation includes an example response, which included this usage data in the JSON:</p>
+<p><code>{"prompt_tokens": 19, "completion_tokens": 498, "total_tokens": 517, "citation_tokens": 10175, "num_search_queries": 48, "reasoning_tokens": 95305}</code></p>
+<p>But how much would that actually cost?</p>
+<p>Their pricing page lists <a href="https://docs.perplexity.ai/guides/pricing#deep-research-models">the price for that model</a>. I snapped this screenshot of the prices:</p>
+<p><img alt="Pricing table screenshot showing API costs: Input Tokens (Per Million) $2, Output Tokens (Per Million) $8, Price per 1000 Search Queries $5, Reasoning Tokens (Per Million) $3" src="https://static.simonwillison.net/static/2025/perplexity-pricing.jpg" /></p>
+<p>I could break out a calculator at this point, but I'm not quite curious enough to go through the extra effort.</p>
+<p>So I pasted that screenshot into Claude along with the JSON and <a href="https://claude.ai/share/31c23164-ced3-419c-ba68-55213caf71c3">prompted</a>:</p>
+<blockquote>
+<p><code>{"prompt_tokens": 19, "completion_tokens": 498, "total_tokens": 517, "citation_tokens": 10175, "num_search_queries": 48, "reasoning_tokens": 95305}</code></p>
+<p>Calculate price, use javascript</p>
+</blockquote>
+<p>I wanted to make sure Claude would use its JavaScript analysis tool, since LLMs can't do maths.</p>
+<p>I watched Claude Sonnet 4 <a href="https://gist.github.com/simonw/ad00a97d2e70918cfbbc94d429af46ca">write 61 lines of JavaScript</a> - keeping an eye on it to check it didn't do anything obviously wrong. The code spat out this output:</p>
+<pre><code>=== COST CALCULATIONS ===
+Input tokens cost: 19 tokens × $2/million = $0.000038
+Output tokens cost: 498 tokens × $8/million = $0.003984
+Search queries cost: 48 queries × $5/1000 = $0.240000
+Reasoning tokens cost: 95305 tokens × $3/million = $0.285915
+
+=== COST SUMMARY ===
+Input tokens: $0.000038
+Output tokens: $0.003984
+Search queries: $0.240000
+Reasoning tokens: $0.285915
+─────────────────────────
+TOTAL COST: $0.529937
+TOTAL COST: $0.5299 (rounded to 4 decimal places)
+</code></pre>
+<p>So that Deep Research API call would cost 53 cents! Curiosity satisfied in less than a minute.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/perplexity">perplexity</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/deep-research">deep-research</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/28/claude-calculator/#atom-everything>
+
+---
+
+## How to Be Remarkably Kind 
+
+date: 2025-05-28, from: Guy Kawasaki blog
+
+A guide to achieving success while staying humble and kind. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-be-remarkably-kind>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-28, from: Dave Winer's linkblog)
+
+Why we stopped building subways cheaply. 
+
+<br> 
+
+<https://www.worksinprogress.news/p/why-we-stopped-building-subways-cheaply?publication_id=90387&post_id=164599992&isFreemail=true&r=ykjb&triedRedirect=true>
+
+---
+
+## Name that Ware, May 2025
+
+date: 2025-05-28, from: Bunnie's Studio Blog
+
+The Ware for May 2025 is shown below. Because I really like to be able to read the part numbers on all the parts, here&#8217;s a couple more detail images of portions that didn&#8217;t photograph clearly in the above images. This ware was donated to me by someone in person, but unfortunately the post-it note [&#8230;] 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/name-that-ware-may-2025/>
+
+---
+
+## The Idiots Are Coming
+
+date: 2025-05-28, updated: 2025-05-28, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/28/the-idiots-are-coming/>
+
+---
+
+## Winner, Name that Ware April 2025
+
+date: 2025-05-28, from: Bunnie's Studio Blog
+
+The Ware for April 2025 is two digits out of a TI-55 calculator display. The full display assembly and calculator IC can be seen below. This was my father&#8217;s old calculator that he got back in 1979, which I recently recovered and lightly modified so that I could power it from a USB plug. I [&#8230;] 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/winner-name-that-ware-april-2025/>
+
+---
+
+## Inside the Discord Community Developing Its Own Hair Loss Drugs
+
+date: 2025-05-28, from: 404 Media Group
+
+HairDAO is a “decentralized autonomous organization” trying to cure hair loss. 
+
+<br> 
+
+<https://www.404media.co/inside-the-discord-community-developing-its-own-hair-loss-drugs/>
 
 ---
 
@@ -1071,9 +1355,11 @@ An oncologist says Biden&#39;s prostate cancer is treatable, and survivable.
 
 ---
 
-**@Dave Winer's linkblog** (date: 2025-05-26, from: Dave Winer's linkblog)
+## The Economic Consequences of Destroying Harvard
 
-The Economic Consequences of Destroying Harvard. 
+date: 2025-05-26, from: Paul Krugman
+
+Freedom is on the line. But so are jobs. 
 
 <br> 
 

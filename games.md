@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-05-28 06:09:11
+updated: 2025-05-28 14:08:21
 ---
 
 # games
 
-(date: 2025-05-28 06:09:11)
+(date: 2025-05-28 14:08:21)
+
+---
+
+## EA cancels Black Panther game, closes developer Cliffhanger Games
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+Electronic Arts has canceled its Black Panther game and closed down developer Cliffhanger Games. IGN, which first reported the news, cites an internal email in which EA Entertainment president Laura Miele notified staff about the changes made to &#8220;sharpen our focus and put our creative energy behind the most significant growth opportunities.&#8221; &#8220;These decisions are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/602118/black-panther-canceled-ea-cliffhanger-games-closed>
+
+---
+
+## How to unlock Phantom Jobs in FFXIV’s Occult Crescent
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+As part of FFXIV: Dawntrail’s Occult Crescent field operation, players can take on Phantom Jobs, which are mini-jobs that provide unique skills to help you out during combat. These jobs all level individually using EXP gained from the Occult Crescent, and as of patch 7.25, there are 13 of them. It should be noted that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/602044/phantom-jobs-unlock-occult-crescent>
+
+---
+
+## Final Destination: Bloodlines directors clear up fans’ two biggest questions
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+Nearly 15 years after the previous movie in the Final Destination horror franchise, Freaks writer-directors Zach Lipovsky and Adam B. Stein revived the series with Final Destination: Bloodlines, a modern update that instantly became the series’ number-one all-time box-office earner. The new movie — once again, about death as a vindictive force actively stalking people who [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/602031/final-destination-bloodlines-ending-explained-directors-spoilers-erik-death>
+
+---
+
+## Where is Tophat Gudetama this week in Hello Kitty Island Adventure?
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+Tophat Gudetama hides in a different spot in Hello Kitty Island Adventure every week, with new weeks beginning on Monday. Pochacco will task you with finding this dapper Gudetama specifically as part of a quest per week for the first two weeks (“The Laziest Egg” and “The Laziest Eggs”), though after you finish these, there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find>
+
+---
+
+## Where to unlock all allied society quests in FFXIV
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+Allied society quests are one of Final Fantasy 14’s more rewarding dailies. Formerly known as “beast tribe quests” or “tribal quests,” these quests involving helping out the other races of Eorzea by beating down baddies that might be giving them grief, or helping them rebuild an area using crafting and gathering. Below, we detail how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/480866/allied-society-quests-ranks-mounts-tribes>
+
+---
+
+## New York unveils details for its first annual NYC Video Game Festival
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+Cities around the world have been showing their enthusiasm for gaming as an educational tool, and New York City is helping to lead that charge with its first annual NYC Video Game Festival on Saturday, May 31. The day-long event will feature esports competitions, arcades, and indie game demos, all taking place at Convene Brookfield [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/602052/new-york-nyc-video-game-festival>
+
+---
+
+## Sith Rey reportedly closing out Fortnite’s Star Wars season
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+In a Fortnite season filled with a variety of familiar Star Wars faces, it seems that Epic and Disney have kept one final character on lockdown. According to established Fortnite leaker iFireMonkey, a Sith-tainted Rey will be coming to the game on May 30 at 8pm ET for 1500 V-Bucks. We got a full glimpse [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite/602036/sith-rey-star-wars-skin>
+
+---
+
+## After years of intense leaks, Nintendo’s got the Switch 2 launch on lockdown
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+The first Switch might be one of Nintendo’s most successful consoles of all time, but from a marketing perspective, the portable console could be a nightmare. A year into the Switch’s lifespan saw the launch of the console’s first emulator, which opened the floodgates for piracy. From there on out, Nintendo lost control over the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/601984/switch-2-leaks-takedowns-antipiracy>
 
 ---
 

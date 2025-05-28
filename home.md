@@ -1,11 +1,258 @@
 ---
 title: home
-updated: 2025-05-28 06:09:13
+updated: 2025-05-28 14:08:22
 ---
 
 # home
 
-(date: 2025-05-28 06:09:13)
+(date: 2025-05-28 14:08:22)
+
+---
+
+## Rental Revamp: She Gave Her West Hollywood Chateau the Princess Treatment
+
+date: 2025-05-28, from: Dwell
+
+"It looks like a Disneyland castle," designer Irina Lazar says of the one-bedroom apartment she furnished with practical pieces and flights of fancy. 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-irina-riri-lazar-west-hollywood-chateau-apartment-79072676>
+
+---
+
+## 7 Reasons Your Raised Bed Vegetables Are Struggling
+
+date: 2025-05-28, from: Family Handyman Blog
+
+<p>Raised bed gardens are a great way to grow a healthy crop of vegetables every year. But what should you do if your crops are struggling?</p>
+<p>The post <a href="https://www.familyhandyman.com/list/why-raised-bed-vegetables-are-struggling/">7 Reasons Your Raised Bed Vegetables Are Struggling</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/why-raised-bed-vegetables-are-struggling/>
+
+---
+
+## Secretary Ross highlights mental health support for agricultural communities
+
+date: 2025-05-28, from: Calfifornia Dept. Aggriculture blog
+
+In recognition of Mental Health Awareness Month, Secretary Karen Ross shares an important reminder about the emotional well-being of our farmers, ranchers, and farmworkers &#8212; especially in immigrant and rural communities. CDFA is partnering with trusted organizations to launch the &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29023">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29023>
+
+---
+
+## Toyota Recalls 440,000 Vehicles Over Dangerous Rearview Lighting Defect
+
+date: 2025-05-28, from: Family Handyman Blog
+
+<p>Hundreds of thousands of Toyotas are being recalled because they have lighting issues. Find out if yours is one of them. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/toyota-recall-lighting-issues/">Toyota Recalls 440,000 Vehicles Over Dangerous Rearview Lighting Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/toyota-recall-lighting-issues/>
+
+---
+
+## Parties Reach Conditional Settlement for Proposed Nipomo Mesa Development
+
+date: 2025-05-28, from: California Native Plants Society
+
+<p>The agreement incorporates significant mitigation for offsite biological mitigation to support long-term manzanita conservation, managed by the California Native Plant Society.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/parties-reach-conditional-settlement-for-proposed-nipomo-mesa-development-43644">Parties Reach Conditional Settlement for Proposed Nipomo Mesa Development</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/parties-reach-conditional-settlement-for-proposed-nipomo-mesa-development-43644>
+
+---
+
+## Euro Hinges: The Secret to Effortless Cabinet Door Installation
+
+date: 2025-05-28, from: Family Handyman Blog
+
+<p>Discover why Euro hinges are a game changer for cabinet installations. Learn about their easy installation, adjustable features, and instant door removal—perfect for DIYers and pros alike.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/euro-hinges/">Euro Hinges: The Secret to Effortless Cabinet Door Installation</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/euro-hinges/>
+
+---
+
+## Taste the Difference: Pasolivo’s Estate-Grown Olive Oils
+
+date: 2025-05-28, from: California Grown
+
+<p>Tucked into the rolling hills of Paso Robles, the Pasolivo Ranch Tasting Room welcomes guests to explore the 150-acre estate and sample their estate-grown olive oils. If you&#8217;re planning a wine tasting weekend in Paso Robles, be sure to carve out time for a different type of tasting experience &#8211; olive oil tasting. Like wine, [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/pasolivo/" data-wpel-link="internal" target="_self">Taste the Difference: Pasolivo&#8217;s Estate-Grown Olive Oils</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/pasolivo/>
+
+---
+
+## This $1.3M Home Is a Slice of Scandinavia in Upstate New York
+
+date: 2025-05-28, from: Dwell
+
+Set near Rhinebeck, the recently built house has crisp, white interiors, light wood accents, and an energy-efficient envelope. 
+
+<br> 
+
+<https://www.dwell.com/article/scandinavian-style-contemporary-home-upstate-new-york-real-estate-16e4c6b0>
+
+---
+
+## They Turned a 1960s Dentist’s Office Into a Home With a Giant Oculus
+
+date: 2025-05-28, from: Dwell
+
+To brighten the ground floor living spaces, a family sacrificed the room above them by punching a hole in the ceiling. 
+
+<br> 
+
+<https://www.dwell.com/article/ol6-jan-lefevere-adaptive-reuse-family-home-dentist-office-ac2826bb>
+
+---
+
+## How to Grow Gladiolus in Containers
+
+date: 2025-05-28, from: The Gardener's Path
+
+<p>Gladiolus are loved for their bold, upright flower spikes with ruffled blooms in rich, vibrant colors throughout summer. And they make superb potted plants when the right varieties are matched with an appropriately-sized pot. For dazzling container gardens, learn how to grow gladiolus in pots and planters in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-gladiolus-containers/">How to Grow Gladiolus in Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-gladiolus-containers/>
+
+---
+
+## 5 Popular Faucets Sold on Amazon Recalled Over Dangerous Lead Levels
+
+date: 2025-05-28, from: Family Handyman Blog
+
+<p>The Consumer Product Safety Commission has recalled Amazon faucets from sellers including Quomolangma Sanitary Ware, Kicimpro, HGN Sanitaryware and more.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/amazon-faucets-recalled-lead/">5 Popular Faucets Sold on Amazon Recalled Over Dangerous Lead Levels</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/amazon-faucets-recalled-lead/>
+
+---
+
+## We Designed and Built a Custom Headboard and WFH Station for Just $865
+
+date: 2025-05-28, from: Dwell
+
+What started out as a design challenge for my boyfriend and me turned into a DIY project that fully reshaped our space. 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-design-fabricate-custom-furniture-63a0f899>
+
+---
+
+## “Lemonading” Your Space: Decor Tips to Brighten Your Mood
+
+date: 2025-05-28, from: Family Handyman Blog
+
+<p>Make lemonade out of lemons in your home decor by tackling design challenges and creating a cozy sanctuary.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/lemonading-decor-tips-ideas/">&#8220;Lemonading&#8221; Your Space: Decor Tips to Brighten Your Mood</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/lemonading-decor-tips-ideas/>
+
+---
+
+## 14 Types of Grass in Texas (With Pictures and Identification)
+
+date: 2025-05-28, from: Yard Life blog
+
+<p>Choosing the right turf for your lawn can be a challenge, especially in a state as vast and ecologically diverse ... </p>
+<p class="read-more-container"><a title="14 Types of Grass in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-types-of-grass-in-texas-with-pictures-and-identification/#more-28919" aria-label="Read more about 14 Types of Grass in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-types-of-grass-in-texas-with-pictures-and-identification/">14 Types of Grass in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-types-of-grass-in-texas-with-pictures-and-identification/>
+
+---
+
+## I’m a Travel Editor and These Are the Shoes I’ll Be Wearing to the Airport All Summer
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+The new ON Cloudzone shoes are the perfect pair of tennis shoes for summer travel, going seamlessly from the tarmac to the streets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/on-cloudzone-shoes-review>
+
+---
+
+## The Ultimate Mexican Beach Road Trip of Your Dreams, Planned by a Local Expert
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+Heading to Baja California? This Baja California road trip itinerary hits all the spots, from camping to city hotels to beachy towns. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/baja-california-road-trip-itinerary>
+
+---
+
+## The Laguna Surf Lodge Will Fulfill Your ‘Endless Summer’ Fantasy
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+The new Laguna Surf Lodge is the coastal California stay we need this summer. It includes a dawn patrol experience with a surf pro. 
+
+<br> 
+
+<https://www.sunset.com/travel/laguna-surf-lodge-review>
+
+---
+
+## Your Guide to the Ultimate Palm Springs Bachelorette Party
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+Palm Springs is an ideal destination for a last hurrah pre-wedding. We've got ideas for the ultimate Palm Springs bachelorette itinerary. 
+
+<br> 
+
+<https://www.sunset.com/travel/palm-springs-bachelorette-itinerary>
+
+---
+
+## Getting a Spot at These Secret Campgrounds Is Like Winning the Lottery
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+Located in Northern California and within a quick drive from San Francisco, these campgrounds are worth setting alerts for. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping/best-campgrounds-in-california>
 
 ---
 
@@ -105,7 +352,7 @@ date: 2025-05-27, from: California Grown
 
 ---
 
-## This Extremely Narrow Home in Japan Was Supposed to Be Even Narrower
+## This Extremely Narrow Tokyo Home Was Supposed to Be Even Narrower
 
 date: 2025-05-27, from: Dwell
 

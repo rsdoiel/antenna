@@ -1,31 +1,109 @@
 ---
 title: socal north
-updated: 2025-05-28 06:09:06
+updated: 2025-05-28 14:08:19
 ---
 
 # socal north
 
-(date: 2025-05-28 06:09:06)
+(date: 2025-05-28 14:08:19)
 
 ---
 
-## LA invested millions in preschools. Less than four years later, it's offloading most. What happened?
+## Newsom proposes to cut acupuncture from Medi-Cal, alarming patients and providers
 
 date: 2025-05-28, updated: 2025-05-28, from: The LAist
 
-Parents loved Los Angeles' licensed childcare centers. Now they're calling the program a "total failure." 
+Newsom’s staff attributed the cuts to tough choices the Trump administration has forced upon the state. 
 
 <br> 
 
-<https://laist.com/news/education/early-childhood-education-pre-k/los-angeles-invested-millions-city-preschools-closing-offloading>
+<https://laist.com/news/health/newsom-proposes-to-cut-acupuncture-from-medi-cal-alarming-patients-and-providers>
 
 ---
 
-## Mother found dead at homeless encampment the city should have taken down, family says
+## For some LA students, the most dangerous part of the school day is getting home
 
 date: 2025-05-28, updated: 2025-05-28, from: The LAist
 
-The Westlake family said the encampment where the woman died was a problem for years. 
+With LAUSD buses ending service early, many students are left to navigate dark stations, potential crime and even carry self-defense tools. 
+
+<br> 
+
+<https://laist.com/news/education/for-some-la-students-the-most-dangerous-part-of-the-school-day-is-getting-home>
+
+---
+
+## Trump trade war has already had huge effects on California ports
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+The Port of Los Angeles reported that it expected 80 ships to arrive in May, but 17 have been canceled. 
+
+<br> 
+
+<https://laist.com/news/trump-trade-war-has-already-had-huge-effects-on-california-ports>
+
+---
+
+## A program paying California jurors $100 a day would end abruptly due to Newsom’s new budget
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+California’s experiment with increasing pay for jury duty would come to an early end under the new budget Gov. Gavin Newsom is asking lawmakers to approve. 
+
+<br> 
+
+<https://laist.com/news/politics/california-program-paying-california-jurors-100-a-day-would-end-abruptly-newsom-budget>
+
+---
+
+## US stops scheduling visa interviews for foreign students
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+The State Department has halted the scheduling of new visa interviews for foreign students while it prepares to expand the screening of their activity on social media, officials said. 
+
+<br> 
+
+<https://laist.com/news/education/us-stops-scheduling-visa-interviews-for-foreign-students>
+
+---
+
+## Trump trade war has already had huge effect on CA ports
+
+date: 2025-05-28, from: Longbeach Post
+
+<figure><img width="1024" height="555" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-400x217.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California jobs and revenue on and off the ports are feeling the effects of Trump’s tariffs.</p>
+<p>The post <a href="https://lbpost.com/news/ports/trump-trade-war-has-already-had-huge-effect-on-ca-ports">Trump trade war has already had huge effect on CA ports</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/ports/trump-trade-war-has-already-had-huge-effect-on-ca-ports>
+
+---
+
+## Long Beach police investigate fatal shooting near PCH and Locust
+
+date: 2025-05-28, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police responded around 11 p.m. to a call about shots fired in the area and found the man wounded, according to reports from the scene.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-police-investigate-fatal-shooting-near-pch-and-locust">Long Beach police investigate fatal shooting near PCH and Locust</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-police-investigate-fatal-shooting-near-pch-and-locust>
+
+---
+
+## Family found mother's dead body eaten by dogs at LA homeless encampment. They're demanding answers
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+The medical examiner has not yet determined a cause of death. Lucrecia Macias Barajas' family said the encampment where her daughter found her mother's body had been a known problem for many years. 
 
 <br> 
 
@@ -42,6 +120,18 @@ The Los Angeles Homeless Services Authority is addressing a shortfall in this ye
 <br> 
 
 <https://laist.com/news/housing-homelessness/lahsa-issues-layoff-notices-to-11-employees-amid-budget-crisis>
+
+---
+
+## LA invested millions in preschools. Less than four years later, it's offloading most. What happened?
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+Parents loved Los Angeles' licensed childcare centers. Now they're calling the program a "total failure." 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/los-angeles-invested-millions-city-preschools-closing-offloading>
 
 ---
 
@@ -83,7 +173,7 @@ Health Secretary Robert F. Kennedy Jr. announced that CDC recommendations for CO
 
 ## Popular Bay Cities Italian Deli in Santa Monica closed until further notice due to health code violations
 
-date: 2025-05-27, updated: 2025-05-27, from: The LAist
+date: 2025-05-27, updated: 2025-05-28, from: The LAist
 
 Public health records for the home of the Godmother sandwich refer to "vermin infestation." 
 
@@ -97,7 +187,7 @@ Public health records for the home of the Godmother sandwich refer to "vermin in
 
 date: 2025-05-27, from: Longbeach Post
 
-<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6.jpg 1199w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6.jpg 1199w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The scene near 17th Street and Linden Avenue was about a block away from both Poly and Roosevelt Elementary School. </p>
 <p>The post <a href="https://lbpost.com/news/crime/poly-high-barricade-linden-17th-swat-police">SWAT officers surround apartment building near Poly High School but find no suspect inside</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
