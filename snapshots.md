@@ -1,11 +1,203 @@
 ---
 title: snapshots
-updated: 2025-05-27 14:08:02
+updated: 2025-05-28 06:09:18
 ---
 
 # snapshots
 
-(date: 2025-05-27 14:08:02)
+(date: 2025-05-28 06:09:18)
+
+---
+
+## Podcast: ICE's 'Backdoor' Into a Nationwide AI Surveillance Network
+
+date: 2025-05-28, from: 404 Media Group
+
+How ICE is accessing data from Flock cameras; a new invasive surveillance product; and the radical changes made at AI platform Civitai. 
+
+<br> 
+
+<https://www.404media.co/podcast-ices-backdoor-into-a-nationwide-ai-surveillance-network/>
+
+---
+
+## Epyx Oil Barons
+
+date: 2025-05-28, from: Computer ads from the Past
+
+Oil Barons. If You're Smart, You'll get Filthy Rich. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/epyx-oil-barons>
+
+---
+
+## Beyond Content Types: A Human-first Model for Technical Documentation
+
+date: 2025-05-28, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>I spoke at the <a href="https://archdoc.bettercode.eu/veranstaltung-83489-se-0-beyond-content-types-a-human-first-model-for-technical-documentation.html">betterCode() ArchDoc 2025</a> conference a couple of weeks ago about the <a href="https://passo.uno/seven-action-model/">Seven Action Documentation model</a>. It was a very nice experience and I thank the organizers for inviting me and letting me post the video. Here is the full recording of the presentation (it&rsquo;s about 40 minutes long):</p> 
+
+<br> 
+
+<https://passo.uno/beyond-content-types-presentation/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-05-28, from: Tomosino's Mastodon feed)
+
+<p>Tuna is vegan because fish aren't real</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114585079045121930>
+
+---
+
+## America Turns Its Back on the World
+
+date: 2025-05-28, from: Paul Krugman
+
+Blocking foreign students is an act of self-destruction &#8212; and self-betrayal 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/america-turns-its-back-on-the-world>
+
+---
+
+## llm-llama-server 0.2
+
+date: 2025-05-28, updated: 2025-05-28, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-llama-server/releases/tag/0.2">llm-llama-server 0.2</a></strong></p>
+Here's a second option for using LLM's <a href="https://simonwillison.net/2025/May/27/llm-tools/">new tool support</a> against local models (the first was via <a href="https://github.com/taketwo/llm-ollama/releases/tag/0.11a0">llm-ollama</a>).</p>
+<p>It turns out the <code>llama.cpp</code> ecosystem has pretty robust OpenAI-compatible tool support already, so my <code>llm-llama-server</code> plugin only needed <a href="https://github.com/simonw/llm-llama-server/commit/f61626fb4737f4f17dc6a9689274d14c3f3cb8ad#diff-66221cd67281bbbfbc677b6e7a3fd6d1b2e5562f0f55bde58250bf3953b1853a">a quick upgrade</a> to get those working there.</p>
+<p>Unfortunately it looks like streaming support doesn't work with tools in <code>llama-server</code> at the moment, so I added a new model ID called <code>llama-server-tools</code> which disables streaming and enables tools.</p>
+<p>Here's how to try it out. First, ensure you have <code>llama-server</code> - the easiest way to get that on macOS is via Homebrew:</p>
+<pre><code>brew install llama.cpp
+</code></pre>
+<p>Start the server running like this. This command will download and cache the 3.2GB <a href="https://huggingface.co/unsloth/gemma-3-4b-it-GGUF">unsloth/gemma-3-4b-it-GGUF:Q4_K_XL</a> if you don't yet have it:</p>
+<pre><code>llama-server --jinja -hf unsloth/gemma-3-4b-it-GGUF:Q4_K_XL
+</code></pre>
+<p>Then in another window:</p>
+<pre><code>llm install llm-llama-server
+llm -m llama-server-tools -T llm_time 'what time is it?' --td
+</code></pre>
+<p>And since you don't even need an API key for this, even if you've never used LLM before you can try it out with this uvx one-liner:</p>
+<pre><code>uvx --with llm-llama-server llm -m llama-server-tools -T llm_time 'what time is it?' --td
+</code></pre>
+<p>For more notes on using <code>llama.cpp</code> with LLM see <a href="https://simonwillison.net/2025/May/10/llama-cpp-vision/">Trying out llama.cpp’s new vision support</a> from a couple of weeks ago.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llama-cpp">llama-cpp</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/uv">uv</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/28/llama-server-tools/#atom-everything>
+
+---
+
+## At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work
+
+date: 2025-05-28, updated: 2025-05-28, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html">At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work</a></strong></p>
+I got a couple of quotes in this NYTimes story about internal resistance to Amazon's policy to encourage employees to make use of more generative AI:</p>
+<blockquote>
+<p>“It’s more fun to write code than to read code,” said Simon Willison, an A.I. fan who is a longtime programmer and blogger, channeling the objections of other programmers. “If you’re told you have to do a code review, it’s never a fun part of the job. When you’re working with these tools, it’s most of the job.”
+ [...]</p>
+</blockquote>
+<p>It took me about 15 years of my career before I got over my dislike of <em>reading</em> code written by other people. It's a difficult skill to develop! I'm not surprised that a lot of people dislike AI-assisted programming paradigm when the end result is less time writing, more time reading!</p>
+<blockquote>
+<p>“If you’re a prototyper, this is a gift from heaven,” Mr. Willison said. “You can knock something out that illustrates the idea.”</p>
+</blockquote>
+<p>Rapid prototyping has been a key skill of mine for a long time. I love being able to bring half-baked illustrative prototypes of ideas to a meeting - my experience is that the quality of conversation goes up by an order of magnitude as a result of having something concrete for people to talk about.</p>
+<p>These days I can vibe code a prototype in single digit <em>minutes</em>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/prototyping">prototyping</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/amazon">amazon</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/28/amazon-some-coders/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-28, from: Dave Winer's linkblog)
+
+Trump’s Attacks Have Helped Heal a Deeply Divided Harvard. 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/27/us/trump-attacks-unify-divided-harvard.html?unlocked_article_code=1.Kk8.JP8N.iW5WSz9rAtN-&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-28, from: Dave Winer's linkblog)
+
+Scripting News: What do I really own? 
+
+<br> 
+
+<http://scripting.com/2025/05/11/120442.html>
+
+---
+
+## Arc Of The Broken Covenant
+
+date: 2025-05-28, updated: 2025-05-28, from: Tedium site
+
+We have at least two recent belabored examples of companies bewilderingly dropping beloved products for seemingly no good reason. Let’s not make it three. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17039460/arc-pocket-confusing-product-strategies>
+
+---
+
+## Lilbits: Retro gaming hardware, another BlackBerry clone, and a DIY UMPC with an E Ink color display
+
+date: 2025-05-27, from: Liliputing
+
+<p>The Onyx BOOX Poke 2 Color was one of the first eBook readers to ship with a color E Ink display. And while it&#8217;s designed for reading eBooks, periodicals, and comics, it&#8217;s basically a tablet with a sunlight readable display (with a slow refresh rate) and a relatively sluggish processor: but thanks to its Android-based [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-retro-gaming-hardware-another-blackberry-clone-and-a-diy-umpc-with-an-e-ink-color-display/">Lilbits: Retro gaming hardware, another BlackBerry clone, and a DIY UMPC with an E Ink color display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-retro-gaming-hardware-another-blackberry-clone-and-a-diy-umpc-with-an-e-ink-color-display/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-27, from: Dave Winer's linkblog)
+
+The ugly truth behind ICE agents’ masks. 
+
+<br> 
+
+<https://www.inquirer.com/columnists/attytood/ice-ximena-arias-cristobal-immigration-civility-college-admissions-20250527.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-27, from: Dave Winer's linkblog)
+
+Mikal Bridges is my favorite Knick. He&#39;s trippy. And has not missed a single game in his NBA career or college or going back to high school. And he&#39;s had Chipotle every day for over a decade. People complain about him a lot, but man he sure is consistent! 
+
+<br> 
+
+<https://www.si.com/nba/2023/12/28/brooklyn-nets-mikal-bridges-chipotle-every-day-for-decade>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-05-27, from: Tomosino's Mastodon feed)
+
+<p>Do less. Nap more.</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114581889548461954>
 
 ---
 
@@ -34,7 +226,7 @@ Trump Media to raise $2.5 billion to invest in bitcoin.
 date: 2025-05-27, updated: 2025-05-27, from: Simon Willison’s Weblog
 
 <p><strong><a href="https://llm.datasette.io/en/stable/changelog.html#v0-26">LLM 0.26</a></strong> is out with the biggest new feature since I started the project: <a href="https://llm.datasette.io/en/stable/tools.html"><strong>support for tools</strong></a>. You can now use the LLM <a href="https://llm.datasette.io/en/stable/usage.html">CLI tool</a> - and <a href="https://llm.datasette.io/en/stable/python-api.html">Python library</a> - to grant LLMs from OpenAI, Anthropic, Gemini and local models from Ollama with access to any tool that you can represent as a Python function.</p>
-<p>LLM also now has <a href="https://llm.datasette.io/en/stable/plugins/directory.html#fragments-and-template-loaders">tool plugins</a>, so you can install a plugin that adds new capabilities to whatever model you are currently using.</p>
+<p>LLM also now has <a href="https://llm.datasette.io/en/stable/plugins/directory.html#tools">tool plugins</a>, so you can install a plugin that adds new capabilities to whatever model you are currently using.</p>
 <p>There's a lot to cover here, but here are the highlights:</p>
 <ul>
 <li>
@@ -88,12 +280,12 @@ date: 2025-05-27, updated: 2025-05-27, from: Simon Willison’s Weblog
 <p>The current time is 12:15 PM PDT (UTC−7:00) on May 27, 2025, which corresponds to 7:15 PM UTC.</p>
 </blockquote>
 <p>Models from (tool supporting) plugins work too. Anthropic's Claude Sonnet 4:</p>
-<div class="highlight highlight-source-shell"><pre>llm install <span class="pl-s"><span class="pl-pds">'</span>llm-anthropic&gt;=0.16a2<span class="pl-pds">'</span></span>
+<div class="highlight highlight-source-shell"><pre>llm install llm-anthropic -U
 llm keys <span class="pl-c1">set</span> anthropic
 <span class="pl-c"><span class="pl-c">#</span> Paste Anthropic key here</span>
 llm --tool llm_version <span class="pl-s"><span class="pl-pds">"</span>What version?<span class="pl-pds">"</span></span> --td -m claude-4-sonnet</pre></div>
 <p>Or Google's Gemini 2.5 Flash:</p>
-<div class="highlight highlight-source-shell"><pre>llm install <span class="pl-s"><span class="pl-pds">'</span>llm-gemini&gt;=0.20a2<span class="pl-pds">'</span></span>
+<div class="highlight highlight-source-shell"><pre>llm install llm-gemini -U
 llm keys <span class="pl-c1">set</span> gemini
 <span class="pl-c"><span class="pl-c">#</span> Paste Gemini key here</span>
 llm --tool llm_version <span class="pl-s"><span class="pl-pds">"</span>What version?<span class="pl-pds">"</span></span> --td -m gemini-2.5-flash-preview-05-20</pre></div>
@@ -145,7 +337,7 @@ llm -T <span class="pl-s"><span class="pl-pds">'</span>Datasette("https://datase
 <p>The syntax here is slightly different: the Datasette plugin is what I'm calling a "toolbox" - a plugin that has multiple tools inside it and can be configured with a constructor.</p>
 <p>Specifying <code>--tool</code> as <code>Datasette("https://datasette.io/content")</code> provides the plugin with the URL to the Datasette instance it should use - in this case the <a href="https://datasette.io/content">content database</a> that powers the Datasette website.</p>
 <p>Here's the output, with the schema section truncated for brevity:</p>
-<p><img src="https://static.simonwillison.net/static/2025/datasette-tool.jpg" alt="U rin the command. It first does a Tool call to Datasette_query with SELECT name, stars, FROM repos ORDER BY stars DESC LIMIT 1. This returns an error message because there is no such column stars. It calls the Datasette_schema() function which returns a whole load of CREATE TABLe statements. Then it executes Datasette_query again this time with SELECT name, stargazers_count FROM repos ORDER BY stargazers_count DES1 LIMIT 1. This returns name=datasette a count of 10020, so the model replies and says The repository with the most stars is &quot;datasette&quot; with 10,020 stars." style="max-width: 100%;" /></p>
+<p><img src="https://static.simonwillison.net/static/2025/datasette-tool.jpg" alt="I run that command. It first does a Tool call to Datasette_query with SELECT name, stars, FROM repos ORDER BY stars DESC LIMIT 1. This returns an error message because there is no such column stars. It calls the Datasette_schema() function which returns a whole load of CREATE TABLE statements. Then it executes Datasette_query again this time with SELECT name, stargazers_count FROM repos ORDER BY stargazers_count DESC LIMIT 1. This returns name=datasette a count of 10020, so the model replies and says The repository with the most stars is &quot;datasette&quot; with 10,020 stars." style="max-width: 100%;" /></p>
 <p>This question triggered three calls. The model started by guessing the query! It tried <code>SELECT name, stars FROM repos ORDER BY stars DESC LIMIT 1</code>, which failed because the <code>stars</code> column doesn't exist.</p>
 <p>The tool call returned an error, so the model had another go - this time calling the <code>Datasette_schema()</code> tool to get the schema of the database.</p>
 <p>Based on that schema it assembled and then executed the correct query, and output its interpretation of the result:</p>
@@ -230,7 +422,7 @@ llm -T <span class="pl-s"><span class="pl-pds">'</span>Datasette("https://datase
 <p>I want LLM to be able to act as an MCP client, so that any of the MCP servers people are writing can be easily accessed as additional sources of tools for LLM.</p>
 <p>If you're interested in talking more about what comes next for LLM, <a href="https://datasette.io/discord-llm">come and chat to us in our Discord</a>.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/releases">releases</a></p> 
 
 <br> 
 

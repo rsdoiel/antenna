@@ -1,11 +1,479 @@
 ---
 title: planet
-updated: 2025-05-27 14:07:50
+updated: 2025-05-28 06:09:04
 ---
 
 # planet
 
-(date: 2025-05-27 14:07:50)
+(date: 2025-05-28 06:09:04)
+
+---
+
+## UN aid teams plead for access amid reports Gazans shot collecting food
+
+date: 2025-05-28, from: United Nations, Top Stories
+
+In Gaza, dozens of Palestinians have been reportedly injured and shot trying to collect aid from the new US and Israeli-backed aid distribution facility operating independently of the UN. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163756>
+
+---
+
+## Climate change: World likely to breach 1.5°C limit in next five years
+
+date: 2025-05-28, from: United Nations, Climate Change
+
+Fact: 2024 was the warmest year on record – but the heat is far from over. A new report from the World Meteorological Organization (WMO) warns that global temperatures will likely continue rising, with an 80 per cent chance that at least one year between now and 2029 will be even hotter. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163751>
+
+---
+
+## Seven killed as migrant boat capsizes near Canary Islands
+
+date: 2025-05-28, from: RTÉ News
+
+At least seven people died when a migrant boat capsized as rescuers were escorting it to port in Spain's Canary Islands, regional emergency services said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0528/1515418-canary-islands/>
+
+---
+
+## Dates confirmed for 2027 Ryder Cup at Adare Manor
+
+date: 2025-05-28, from: RTÉ News
+
+The dates for the 2027 Ryder Cup at Adare Manor have been confirmed, with the biennial matchplay event taking place from 17-19 September 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0528/1515417-dates-confirmed-for-2027-ryder-cup-at-adare-manor/>
+
+---
+
+## RTÉ marketing campaign 'cost less than €100,000'
+
+date: 2025-05-28, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0528/1515395-rte-leadership-team-before-oireachtas-media-committee/>
+
+---
+
+## Jury resumes deliberations in Satchwell trial
+
+date: 2025-05-28, from: RTÉ News
+
+The jury in the trial of Richard Satchwell, who denies murdering his wife Tina in Co Cork more than eight years ago, has resumed its deliberations. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0528/1515347-courts-satchwell/>
+
+---
+
+## Second location searched in Fiona Pender investigation
+
+date: 2025-05-28, from: RTÉ News
+
+A second location is being searched by gardaí investigating the disappearance and murder of Fiona Pender in Co Offaly. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0528/1515362-fiona-pender-investigation/>
+
+---
+
+## Dundalk IT and Maynooth University launch new partnership
+
+date: 2025-05-28, from: RTÉ News
+
+Dundalk Institute of Technology and Maynooth University have launched a new partnership with the aim of advancing higher education in the region. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0528/1515383-dundalk-maynooth-partnership/>
+
+---
+
+## Global temperatures may top 1.5C in next five years - UN
+
+date: 2025-05-28, from: RTÉ News
+
+The world is expected to experience more record temperatures over the next five years, with Arctic warming predicted at more than three times the global average, a new report by the UN weather agency said. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0528/1515377-global-temperatures/>
+
+---
+
+## EU supporting Czech Republic after Chinese cyberattack
+
+date: 2025-05-28, from: RTÉ News
+
+The European Union says it stands in solidarity with the Czech Republic, after China was identified as being responsible for a "malicious cybercampaign" at the Czech Ministry of Foreign Affairs. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0528/1515370-czech-republic-cyberattack/>
+
+---
+
+## Giant's Causeway being damaged by visitors leaving coins
+
+date: 2025-05-28, from: RTÉ News
+
+The Giant's Causeway in Co Antrim is being damaged by visitors leaving coins in the cracks of the famous stones. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0528/1515368-giants-causeway/>
+
+---
+
+## Arts Council director to step down next month
+
+date: 2025-05-28, from: RTÉ News
+
+Director of the Arts Council Maureen Kennelly will step down in June after concluding her five-year term, it has been confirmed this morning. 
+
+<br> 
+
+<https://www.rte.ie/culture/2025/0528/1515369-arts-council-director/>
+
+---
+
+## Pope Leo XIV calls for peace in Ukraine and ceasefire in Gaza
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>Pope Leo XIV reiterates his appeal for peace in Ukraine and calls for a ceasefire in Gaza, along with the liberation of hostages and renewed efforts to protect children. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-calls-for-peace-in-ukraine-ceasefire-in-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-calls-for-peace-in-ukraine-ceasefire-in-gaza.html>
+
+---
+
+## IHF joins legal action against Booking.com
+
+date: 2025-05-28, from: RTÉ News
+
+The Irish Hotels Federation is joining with hotels from across Europe to support a landmark collective legal action against Booking.com over its restrictions against hotels offering lower rates on their websites or on rival sites. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0528/1515349-hotels/>
+
+---
+
+## War in Tigray traumatically violates women's dignity
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>An award-winning exhibition in Rome captures how amid the often-forgotten, but dramatic war in the Tigray region, women are facing grave violations of human dignity, especially from sexual violence being used as a weapon of war.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/women-facing-continued-sorrow-in-the-tigray.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/women-facing-continued-sorrow-in-the-tigray.html>
+
+---
+
+## Current J1 visa holders should not be hit by US pause
+
+date: 2025-05-28, from: RTÉ News
+
+Irish students who have already received their J1 visas for the US this summer should not be impacted by the pause scheduling new visa interviews for foreign students. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0528/1515352-us-student-visas/>
+
+---
+
+## Two men arrested after over €5m worth of drugs seized
+
+date: 2025-05-28, from: RTÉ News
+
+Two men have been arrested following the seizure of over €5 million worth of drugs in Co Meath. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0528/1515357-drugs-seized-meath/>
+
+---
+
+## Pope Leo: Compassion is a matter of humanity, not a religious issue
+
+date: 2025-05-28, from: Vatican News
+
+
+                    <p>Reflecting on the parable of the Good Samaritan at the weekly General Audience, Pope Leo XIV challenges everyone to not let our busy lives “prevent us from feeling compassion” towards others.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-compassion-matter-of-humanity-not-religious-issue.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-compassion-matter-of-humanity-not-religious-issue.html>
+
+---
+
+## Munster hurling final sees another ticket price hike
+
+date: 2025-05-28, from: RTÉ News
+
+Adult tickets for this year's Munster SHC decider between Limerick and Cork at TUS Gaelic Grounds have been priced at €50 for the stand, and €40 for terrace 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0528/1515346-munster-hurling-final-sees-another-ticket-price-hike/>
+
+---
+
+## 'Clock ticking towards famine' in Gaza, says UNRWA head
+
+date: 2025-05-28, from: RTÉ News
+
+The head of the UN agency for Palestinian refugees has said the "clock is ticking towards famine" in Gaza as he warned that the new US-backed aid distribution model in Gaza is a waste of resources and a distraction from "atrocities". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0528/1515341-israel-gaza/>
+
+---
+
+## Ukraine, Germany to jointly produce long range missiles
+
+date: 2025-05-28, from: RTÉ News
+
+Germany and Ukraine will develop the joint production of long range missiles, German Chancellor Friedrich Merz said during a visit of Ukrainian President Volodymyr Zelensky to Berlin. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0528/1515334-ukraine-russia/>
+
+---
+
+## EU says 'well on track' to reach 2030 climate targets
+
+date: 2025-05-28, from: RTÉ News
+
+The European Union said it is on track to reach its 2030 climate targets, but uncertainty remains over the bloc's ambitions to cut greenhouse gas emissions much further by 2040. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0528/1515331-eu-climate-targets/>
+
+---
+
+## Actor Paul Danan's death ruled as misadventure
+
+date: 2025-05-28, from: RTÉ News
+
+The death of Hollyoaks and reality TV star Paul Danan from a cocktail of drugs, including cocaine and heroin, was misadventure, a coroner has concluded. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0528/1515325-inquest-resumes-into-death-of-reality-star-paul-danan/>
+
+---
+
+## Residents pick up the pieces, fear toxic fallout a day after deadly China chemical blast
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545657.1748408435!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/china-blast.JPG' alt='Large-scale industrial building debris is shown' width='620' height='349' title='A view of the site of the chemical plant explosion in Gaomi, Shandong province, China May 28, 2025. REUTERS/Go Nakamura   REFILE - QUALITY REPEAT     TPX IMAGES OF THE DAY'/><p>Residents near a blown out chemical plant in China's eastern Shandong province on Wednesday assessed the damage to their village and monitored the wind, fearful of toxic fallout from an explosion that killed at least five people a day earlier.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaomi-shangdong-china-chemical-blast-1.7545656?cmp=rss>
+
+---
+
+## Licence fee figures 'broadly in line' with last year - DG
+
+date: 2025-05-28, from: RTÉ News
+
+RTÉ Director General Kevin Bakhurst said licence fee figures go "up and down" week to week, but are "broadly in line with sales last year". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0528/1515318-oireachtas-media-committee-rte/>
+
+---
+
+## 'This can happen to you' - woman injured in road crash
+
+date: 2025-05-28, from: RTÉ News
+
+Méabh White has just finished her second year of pharmacy studies, almost a decade after she suffered severe injuries in a car collision. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0528/1515316-safer-roads-conference/>
+
+---
+
+## Uisce Éireann needs €2bn to help meet housing targets
+
+date: 2025-05-28, from: RTÉ News
+
+Uisce Éireann will tell TDs and Senators today that it requires an additional €2bn to deliver the water services capacity needed to reach the Government's revised housing targets. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0528/1515291-uisce-eireann/>
+
+---
+
+## Dáil due to vote on Sinn Féin's Israeli bonds bill
+
+date: 2025-05-28, from: RTÉ News
+
+TDs are due to vote on a Sinn Féin bill which seeks to prevent the Central Bank from having any involvement with Israeli bonds. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0528/1515321-israeli-bonds-bill/>
+
+---
+
+## IDA consults pharma firms on EU retaliatory tariffs on US
+
+date: 2025-05-28, from: RTÉ News
+
+IDA Ireland circulated the EU's draft list of retaliatory measures to US tariffs to Irish-based pharmaceutical companies for their comments as part of the Government's response to the European Commission on the proposals. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0528/1515289-ida-tariff-measures/>
+
+---
+
+## How a tipster tracked a U.S. fugitive 'psychic' to Toronto after a 21-year search
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7534762.1747307259!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/patrick-lutts-jr.jpg' alt='Man in black sweater standing at a bar, holding up a can' width='620' height='349' title='Patrick Lutts’s online presence in recent years paints the picture of a man with a busy social life.'/><p>An internet sleuth pointed authorities to the whereabouts of a longtime U.S. fugitive leading a double life in Ontario. CBC News has pieced together new details about the anonymous tip that led Toronto police earlier this year to apprehend Patrick Lutts Jr., more than two decades after he vanished.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/toronto/us-fugitive-toronto-1.7544891?cmp=rss>
+
+---
+
+## SpaceX Starship explodes before splashdown
+
+date: 2025-05-28, from: RTÉ News
+
+SpaceX's prototype Starship has exploded over the Indian Ocean, capping another bumpy test flight for the rocket central to Elon Musk's dream of colonising Mars. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0528/1515322-spacex-starship-launch/>
+
+---
+
+## Event to debate AI risks, potential for unemployed people
+
+date: 2025-05-28, from: RTÉ News
+
+The risks and potential of artificial intelligence for unemployed people will be debated at the annual delegate conference of the Irish National Organisation of the Unemployed. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0528/1515320-unemployed-conference/>
+
+---
+
+## One-third of ICU admissions within one hour of decision
+
+date: 2025-05-28, from: RTÉ News
+
+One-third of admissions from emergency departments or wards into intensive care happened within one hour of the decision being made to admit, while 87% were admitted within four hours, a report has found. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0528/1515315-health-reports/>
+
+---
+
+## Ireland going backwards on emissions target - EPA
+
+date: 2025-05-27, from: RTÉ News
+
+Ireland has gone backwards in its attempts to achieve its greenhouse gas emissions targets, according to an updated analysis by the Environmental Protection Agency. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0528/1515277-epa-emissions/>
+
+---
+
+## Record numbers treated for drug problems last year - HRB
+
+date: 2025-05-27, from: RTÉ News
+
+The number of people being treated for drug problems reached a record high last year, according to new figures from the Health Research Board. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0528/1515276-drug-treatment/>
+
+---
+
+## O'Farrell family calls Government apology a 'vindication'
+
+date: 2025-05-27, from: RTÉ News
+
+Shane O'Farrell's family have described the public apology from the Government as a day of "vindication" after their long years of campaigning. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0527/1515310-shane-ofarrell-apology/>
+
+---
+
+## Watch: Dáil suspended during Israeli bonds bill debate
+
+date: 2025-05-27, from: RTÉ News
+
+The Dáil was suspended for a time during a debate on a bill brought forward by Sinn Féin that seeks to prevent the Central Bank from dealing with Israeli bonds. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0527/1515302-israeli-bonds/>
+
+---
+
+## Minister acknowledges 2025 housing target unlikely to be met
+
+date: 2025-05-27, from: RTÉ News
+
+Minister for Housing James Browne has acknowledged the Government is unlikely to meet its target of building 41,000 homes this year. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0527/1515301-housing-minister-acknowledges-2025-target-unlikely-to-be-met/>
 
 ---
 
@@ -109,7 +577,7 @@ The RTÉ Director General will tell the Oireachtas Media Committee it was "extre
 
 ---
 
-## Asisisted dying bill approved by parliament in France
+## Assisted dying bill approved by parliament in France
 
 date: 2025-05-27, from: RTÉ News
 
@@ -337,6 +805,18 @@ date: 2025-05-27, from: CBC, World News
 
 ---
 
+## Bruce Springsteen donated $20,000 to striking miners
+
+date: 2025-05-27, from: RTÉ News
+
+Bruce Springsteen has been hailed as a "hero" after a "life-saving" 20,000 dollar donation to striking British miners was revealed in a new documentary. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0527/1515207-bruce-springsteen-donated-20-000-to-striking-miners/>
+
+---
+
 ## Droves of Palestinians overwhelm new Gaza aid centre in Rafah as warning shots ring out
 
 date: 2025-05-27, from: CBC, World News
@@ -351,7 +831,7 @@ date: 2025-05-27, from: CBC, World News
 
 ## Real cost of disasters is 10 times higher than previously thought, says UN
 
-date: 2025-05-27, from: United Nations, Top Stories
+date: 2025-05-27, from: United Nations, Climate Change
 
 As countries face increasingly steep bills from natural hazards, the true cost of disasters is actually 10 times higher than previously estimated, with far-reaching effects across healthcare, housing, education and employment. 
 
@@ -406,6 +886,30 @@ As the war between rival militaries in Sudan continues, the World Health Organiz
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163731>
+
+---
+
+## Exponential rise in synthetic drug production and trafficking in the Golden Triangle
+
+date: 2025-05-27, from: United Nations, Top Stories
+
+The Golden Triangle – the remote, jungle-covered border region where Thailand, Myanmar, and the Lao People’s Democratic Republic meet – has seen an exponential surge in the illicit manufacture and trafficking of synthetic drugs. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163741>
+
+---
+
+## UN aims to transform urgency into action at Nice Ocean Conference
+
+date: 2025-05-27, from: United Nations, Climate Change
+
+Countries are uniting in the French city of Nice next month to save the marine environment.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163746>
 
 ---
 
@@ -772,6 +1276,18 @@ date: 2025-05-27, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/harvard-trump-administration-explained-1.7544334?cmp=rss>
+
+---
+
+## Trump administration halts new appointments for student, exchange visitor visa applicants
+
+date: 2025-05-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7545613.1748396138!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-attends-memorial-day-observance-ceremony.jpg' alt='U.S. President Donald Trump gestures during Memorial Day Observance in Arlington, Va.' width='620' height='349' title='U.S. President Donald Trump attends the 157th National Memorial Day Observance at Arlington National Cemetery, Monday, May 26, 2025, in Arlington, Va.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-international-students-vetting-1.7545609?cmp=rss>
 
 ---
 

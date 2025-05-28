@@ -1,11 +1,175 @@
 ---
 title: going electric
-updated: 2025-05-27 14:08:00
+updated: 2025-05-28 06:09:16
 ---
 
 # going electric
 
-(date: 2025-05-27 14:08:00)
+(date: 2025-05-28 06:09:16)
+
+---
+
+## Tesla is losing money insuring its own cars
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1600" /></div><p>Tesla’s insurance products are currently unsustainable, according to a new report that shows the company is losing money insuring its own cars.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418020" href="https://electrek.co/2025/05/28/tesla-is-losing-money-insuring-its-own-cars/#more-418020" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/28/tesla-is-losing-money-insuring-its-own-cars/>
+
+---
+
+## This Curbside EV Charger Fits Right Into The Sidewalk
+
+date: 2025-05-28, from: Inside EVs News
+
+Rheinmetall, Europe’s largest arms manufacturer, came up with a great solution for curbside charging. 
+
+<br> 
+
+<https://insideevs.com/news/760953/curb-ev-charger-sidewalk-rheinmetall/>
+
+---
+
+## First electric boat crosses Mediteranean, sailing from Europe to Africa
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/candela-c-8-crossing-sea-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a historic first for electric marine travel, a Swedish team has successfully crossed the Mediterranean in an electric boat – and not just any electric boat, but one that <em>flies</em>. The voyage marks a major milestone in the future of clean maritime transport and shows that electric boats aren’t just ready for lakes and calm harbors – they’re ready for open sea.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats" data-layer-viewtype="unknown" data-post-id="417960" href="https://electrek.co/2025/05/28/first-electric-boat-crosses-mediteranean-sailing-from-europe-to-africa/#more-417960" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/28/first-electric-boat-crosses-mediteranean-sailing-from-europe-to-africa/>
+
+---
+
+## The Alpine A390 Is France's Answer To The Porsche Macan EV
+
+date: 2025-05-28, from: Inside EVs News
+
+It features a sporty fastback design and a tri-motor setup with torque vectoring, which provides plenty of tail-out fun. 
+
+<br> 
+
+<https://insideevs.com/news/760919/alpine-a390-tri-motor-revealed/>
+
+---
+
+## Two Tesla (TSLA) insiders close to Elon Musk just sold almost $200 million worth of stocks
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_75-e1728619627481.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Two Tesla board members close to Elon Musk, Ira Ehrenpreis and Kimbal Musk, just sold almost $200 million worth of Tesla (TSLA) stocks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="417979" href="https://electrek.co/2025/05/28/tesla-tsla-insiders-close-elon-musk-just-sold-200-million-worth-stocks/#more-417979" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/28/tesla-tsla-insiders-close-elon-musk-just-sold-200-million-worth-stocks/>
+
+---
+
+## Tesla can’t buy land in Australia because CEO Elon Musk is so ‘[redacted]’
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is trying to use a piece of property in Australia, near Adelaide, in order to build a battery factory and Tesla showroom. But it’s facing steep opposition from locals, most of whom cite dissatisfaction with Tesla CEO Elon Musk as their reason to oppose the project.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="australia,elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="417997" href="https://electrek.co/2025/05/27/tesla-cant-lease-property-in-australia-because-ceo-musk-is-so-redacted/#more-417997" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/tesla-cant-lease-property-in-australia-because-ceo-musk-is-so-redacted/>
+
+---
+
+## Plenty of Tesla alternatives and a new Ford Pro team to help pay for them
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/completey-different_388ec7.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>For years, Tesla has been the go-to EV recommendation for “normals” looking for a painless, low-effort experience from their first electric cars, but Elon Musk’s political antics are causing people to shop elsewhere. On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ll discuss some options … and how you might be able to pay for them!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford-pro,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="417993" href="https://electrek.co/2025/05/27/plenty-of-tesla-alternatives-and-a-new-ford-pro-team-to-help-pay-for-them/#more-417993" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/plenty-of-tesla-alternatives-and-a-new-ford-pro-team-to-help-pay-for-them/>
+
+---
+
+## EV Sales In Europe Keep Surging, With One Exception
+
+date: 2025-05-27, from: Inside EVs News
+
+Deliveries of gas cars were down over 20%, too, with hybrids taking up a lot of the slack. 
+
+<br> 
+
+<https://insideevs.com/news/760829/ev-sales-in-europe-climbing/>
+
+---
+
+## BYD takes control in another key EV market as its global push heats up
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYD-control-EV-Australia.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s leading electric vehicle (EV) maker is rapidly expanding overseas. After taking control of vehicle sales in Germany last year, <a href="https://electrek.co/guides/byd/">BYD</a> is about to do the same in another key overseas EV market. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="417961" href="https://electrek.co/2025/05/27/byd-takes-control-another-ev-market-global-push-heats-up/#more-417961" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/byd-takes-control-another-ev-market-global-push-heats-up/>
+
+---
+
+## RJ Scaringe teases R2’s rear suspension, telling followers the new Rivian EV is ‘sooo good’
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rivian-R2-EV-rear-suspension.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Less than a week after sending a beautifully wrapped fleet of R2 validation prototypes out into the wild, <a href="https://electrek.co/guides/rivian/">Rivian </a>founder and CEO has shared more of the design work at HQ, including a look at the EV’s multi-link rear suspension.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="417971" href="https://electrek.co/2025/05/27/rj-scaringe-teases-r2s-rear-suspension-new-rivian-ev-so-good/#more-417971" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/rj-scaringe-teases-r2s-rear-suspension-new-rivian-ev-so-good/>
+
+---
+
+## The world’s largest floating wind platform will snap together like IKEA furniture
+
+date: 2025-05-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Aikido-offshore-wind-platform.png?w=1346" /></div><p>Floating offshore wind tech company <a href="https://www.aikidotechnologies.com/" target="_blank" rel="noreferrer noopener">Aikido</a> is working with Norway’s Marin Energy Test Centre (METCentre) to launch a massive 15-megawatt (MW) demonstration project called AO60. Scheduled for deployment in 2027 off the coast of Haugesund, AO60 will be one of the largest floating wind platforms ever built.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="417958" href="https://electrek.co/2025/05/27/worlds-largest-floating-wind-platform-will-snap-together-like-ikea-furniture/#more-417958" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/27/worlds-largest-floating-wind-platform-will-snap-together-like-ikea-furniture/>
 
 ---
 

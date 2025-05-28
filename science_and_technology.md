@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-05-27 14:07:54
+updated: 2025-05-28 06:09:08
 ---
 
 # science and technology
 
-(date: 2025-05-27 14:07:54)
+(date: 2025-05-28 06:09:08)
+
+---
+
+## Russian IT pro sentenced to 14 years forced labor for sharing medical data with Ukraine
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>The latest in a long line of techies to face Putin’s wrath</h4> <p>A Russian programmer will face the next 14 years in a &#34;strict-regime&#34; (high-security) penal colony after a regional court ruled he leaked sensitive data to Ukraine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/russian_it_pro_sentenced_to/>
+
+---
+
+## AI models still not up to using radiology to diagnose what ails you
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>Researchers develop visual model testing benchmark and find models weak for medical reasoning</h4> <p>AI is not ready to make clinical diagnoses based on radiological scans, according to a new study.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/ai_models_still_not_up/>
+
+---
+
+## Three ways to run Windows apps on a Linux box
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>Easy, medium, and the sledgehammer approach – or any combination you fancy</h4> <p><strong>hands on</strong>  If you&#39;re thinking about switching to Linux but there are a few Windows apps you just can&#39;t do without, you do have options… and some of them are free.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/three_ways_to_win_on_lin/>
+
+---
+
+## Eviden unveils satellite monitoring tool, as Starlink asks UK for E band access
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>Space broadband and space-linked phones all very well, but someone&#39;s got to track them</h4> <p>Satellites have evolved, thanks to SpaceX&#39;s Starlink and incomer AST SpaceMobile pumping out high-speed broadband and <a href="https://www.theregister.com/2025/04/10/satellite_phone_service/">cellular services for everyday phones</a> delivered from low Earth orbit (LEO) hardware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/eviden_unveils_satellite_monitoring_tool/>
+
+---
+
+## Unhappy with the cloud costs? You're not alone
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>And it&#39;s all your fault</h4> <p>There is growing dissatisfaction over cloud computing, according to Gartner, and much of this can be put down to unrealistic expectations or customers simply not implementing the tech properly.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/cloud_gartner_survey/>
+
+---
+
+## German court parks four Volkswagen execs in jail over Dieselgate scandal
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>More cases about 2015 software swindle stuck in legal traffic jam</h4> <p>Germany’s Braunschweig Regional Court has reportedly sentenced four Volkswagen executives to jail over “Dieselgate” – the 2015 scandal in which the automaker was found to have fudged software used to test its vehicles’ pollution emissions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/dieselgate_sentencing_cases_still_coming/>
+
+---
+
+## DragonForce double-whammy: First hit an MSP, then use RMM software to push ransomware
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>SimpleHelp was the vector for the attack</h4> <p>DragonForce ransomware infected a managed service provider, and its customers, after attackers exploited security flaws in remote monitoring and management tool SimpleHelp.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/dragonforce_ransomware_gang_sets_fire/>
+
+---
+
+## SpaceX resets 'Days Since Last Starship Explosion' counter to zero, again
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>Musk’s rocket co fails to deploy any dummy satellites either</h4> <p>SpaceX&#39;s Starship has failed, again.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/starship_flight_9_crash/>
+
+---
+
+## ASUS to chase business PC market with free AI, or no AI - because nobody knows what to do with it
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>Really strong USB ports make a difference too by reducing the need for motherboard replacements</h4> <p><strong>Computex</strong>  Analysts rate Taiwan’s ASUS the world’s fifth most prolific PC-maker, but the company wants to climb the charts by targeting business buyers, according to Shawn Chang, Head of Go-To-Market for the outfit’s Commercial Business Unit.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/asus_business_pc_plans/>
+
+---
+
+## Don't click on that Facebook ad for a text-to-AI-video tool
+
+date: 2025-05-27, updated: 2025-05-27, from: The Register (UK I.T. News)
+
+<h4>Millions may fall for it - and end up with malware instead</h4> <p>A group of miscreants tracked as UNC6032 is exploiting interest in AI video generators by planting malicious ads on social media platforms to steal credentials, credit card details, and other sensitive info, according to Mandiant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/27/fake_social_media_ads_ai_tool/>
+
+---
+
+## From Russia with chokehold: Putin says foreign IT firms still in Russia should be 'strangled'
+
+date: 2025-05-27, updated: 2025-05-27, from: The Register (UK I.T. News)
+
+<h4>He was responding to a gripe from a Russian IT provider about competition from Microsoft and Zoom</h4> <p>Russian President Vladimir Putin said foreign tech providers still operating in Russia should be &#34;strangled&#34; as the country develops domestic alternatives.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/27/russia_chokehold_tech_firms/>
+
+---
+
+## 10biForthOS: a full 8086 OS in 46 bytes
+
+date: 2025-05-27, from: OS News
+
+An incredibly primitive operating system, with just two instructions: compile (1) and execute (0). It is heavily inspired by Frank Sergeant 3-Instruction Forth and is a strip down exercise following up SectorForth, SectorLisp, SectorC (the C compiler used here) and milliForth. Here is the full OS code in 46 bytes of 8086 assembly opcodes. ↫ 10biForthOS sourcehut page Yes, the entire operating system easily fits right here, inside an OSNews quote block: 50b8 8e00 31d8 e8ff 0017 003c 0575 00ea5000 3c00 7401 eb02 e8ee 0005 0588 eb47b8e6 0200 d231 14cd e480 7580 c3f4 ↫ 10biForthOS sourcehut page How do you actually use this operating system? Once the operating system is loaded at boot, it listens on the serial port for instructions. You can then send the instruction 1 followed by a byte of an assembly opcode which will be compiled into a fixed location in memory. The instruction 0 will then execute the program. There&#8217;s also a version with keyboard support, as well as a much bigger version compiled for x86-64. Something like this inevitably raises the question what an operating system really is, and if this extremely limited and minimalist thing can be considered as one. I&#8217;m not going to deep into this existential discussion, mostly because I land firmly on the side that this is indeed just as much an operating system as, say, Windows or MorphOS. This bit of code, when booted, allows you to operate the system. It&#8217;s an operating system. 
+
+<br> 
+
+<https://www.osnews.com/story/142449/10biforthos-a-full-8086-os-in-46-bytes/>
+
+---
+
+## Oracle's $40B Nvidia hardware haul may be too hot for OpenAI's Abilene, Texas DC to handle
+
+date: 2025-05-27, updated: 2025-05-27, from: The Register (UK I.T. News)
+
+<h4>400,000 GB200s could be more than a 1.2GW datacenter can chew</h4> <p>Oracle will reportedly shell out around $40 billion on Nvidia&#39;s most advanced GPUs to provide compute power to OpenAI from the first US Stargate datacenter in Abilene, Texas, assuming the site can deliver enough electricity to handle the load.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/27/oracle_openai_40b/>
+
+---
+
+## Signal uses Windows’ DRM to counter Recall snooping
+
+date: 2025-05-27, from: OS News
+
+Microsoft&#8217;s Recall feature, which takes screenshots of the contents of your screen every few seconds, saves them, and then runs text and image recognition to extract information from them, has had a rocky start. Even now that it&#8217;s out there and Microsoft deems it ready for everyone to use, it has huge security and privacy gaps, and one of them is that applications that contain sensitive information, such as the Windows Signal application, cannot &#8216;opt out&#8217; of having their contents scraped. Signal was rather unhappy with this massive privacy risk, and decided to do something about it. It&#8217;s called screen security, and is Windows-only because it&#8217;s specifically designed to counter Windows Recall. If you attempt to take a screenshot of Signal Desktop when screen security is enabled, nothing will appear. This limitation can be frustrating, but it might look familiar to you if you’ve ever had the audacity to try and take a screenshot of a movie or TV show on Windows. According to Microsoft’s official developer documentation, setting the correct Digital Rights Management (DRM) flag on the application window will ensure that “content won’t show up in Recall or any other screenshot application.” So that’s exactly what Signal Desktop is now doing on Windows 11 by default. ↫ Joshua Lund on the Signal blog Microsoft cares more about enforcing the rights of massive corporations than it does about respecting the privacy of its users. As such, everything is in place in Windows to ensure neither you nor Recall can take screenshots of, I don&#8217;t know, the Bee Movie, but nothing has been put in place to protect your private and sensitive messages in a service like Signal. This really tells you all you need to know about who Microsoft truly cares about, and it sure as hell isn&#8217;t you, the user. What Signal is doing is absolutely brilliant. By turning Windows&#8217; digital rights management features against Recall to protect the privacy of Signal users, Signal has made it impossible &#8211; or at least very hard &#8211; for Microsoft to address this. Of course, this also means that taking screenshots of the Signal application on Windows for legitimate purposes is more cumbersome now, but since you can temporarily turn screen security off to take a screenshot means it&#8217;s not impossible. I almost want other Windows developers to employ this same trick, just to make Recall less valuable, but that&#8217;s probably not a great idea considering how much it would annoy users just trying to take legitimate screenshots. My uneducated guess is that this is exactly why Microsoft isn&#8217;t providing developers with the kind of fine-grained controls to let Recall know what it can and cannot take screenshots of: Microsoft must know Recall is a feature for shareholders, not for users, and that users will ask developers to opt-out of any Recall snooping if such APIs were officially available. Microsoft wants to make it has hard as possible for applications to opt out of being sucked into the privacy black hole that is Recall, but in doing so, might be pushing developers to use DRM to achieve the same goal. Just delicious. Signal also signed off with a scathing indictment of &#8220;AI&#8221; as a whole. “Take a screenshot every few seconds” legitimately sounds like a suggestion from a low-parameter LLM that was given a prompt like “How do I add an arbitrary AI feature to my operating system as quickly as possible in order to make investors happy?” — but more sophisticated threats are on the horizon. The integration of AI agents with pervasive permissions, questionable security hygiene, and an insatiable hunger for data has the potential to break the blood-brain barrier between applications and operating systems. This poses a significant threat to Signal, and to every privacy-preserving application in general. ↫ Joshua Lund on the Signal blog Heed this warning. 
+
+<br> 
+
+<https://www.osnews.com/story/142447/signal-uses-windows-drm-to-counter-recall-snooping/>
 
 ---
 

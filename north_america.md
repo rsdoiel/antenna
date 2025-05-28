@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-05-27 14:07:52
+updated: 2025-05-28 06:09:05
 ---
 
 # north america
 
-(date: 2025-05-27 14:07:52)
+(date: 2025-05-28 06:09:05)
+
+---
+
+## Reflections on travels
+
+date: 2025-05-28, from: The Contrarian
+
+On the millions of people striving to (and succeeding at) keeping the achievements of Western Civilization from the clutches of fascism, xenophobia, know-nothingism, and conspiracy-mongering 
+
+<br> 
+
+<https://contrarian.substack.com/p/reflections-on-travels>
+
+---
+
+## California Interscholastic Federation Changes Rules for Track & Field Championships After Trump Tweet
+
+date: 2025-05-28, from: Capital and Main
+
+<p>President Donald Trump threatened to withhold federal funding if a trans athlete competes.</p>
+<p>The post <a href="https://capitalandmain.com/california-interscholastic-federation-changes-rules-for-track-field-championships-after-trump-tweet">California Interscholastic Federation Changes Rules for Track &amp; Field Championships After Trump Tweet</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/california-interscholastic-federation-changes-rules-for-track-field-championships-after-trump-tweet>
+
+---
+
+## Evening Roundup, May 27
+
+date: 2025-05-27, from: The Contrarian
+
+Featuring Austin Sarat; Eliza Orlins; Offsides with Pablo Torre & Dan Koh; Shalise Manza Young; Marvin Kalb; Nat Kendall-Taylor; Meredith Blake; and "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-27>
 
 ---
 

@@ -1,11 +1,122 @@
 ---
 title: socal north
-updated: 2025-05-27 14:07:52
+updated: 2025-05-28 06:09:06
 ---
 
 # socal north
 
-(date: 2025-05-27 14:07:52)
+(date: 2025-05-28 06:09:06)
+
+---
+
+## LA invested millions in preschools. Less than four years later, it's offloading most. What happened?
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+Parents loved Los Angeles' licensed childcare centers. Now they're calling the program a "total failure." 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/los-angeles-invested-millions-city-preschools-closing-offloading>
+
+---
+
+## Mother found dead at homeless encampment the city should have taken down, family says
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+The Westlake family said the encampment where the woman died was a problem for years. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/mother-found-dead-at-homeless-encampment-the-city-should-have-taken-down-family-says>
+
+---
+
+## LAHSA issues layoff notices to 11 employees amid budget crisis
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+The Los Angeles Homeless Services Authority is addressing a shortfall in this year's budget by cutting staff. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-issues-layoff-notices-to-11-employees-amid-budget-crisis>
+
+---
+
+## SoCal to continue warming up all week
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+A warming trend will raise temperatures to around 100 degrees for deserts. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-to-continue-warming-up-all-week>
+
+---
+
+## Trump delays multilingual emergency alerts for natural disasters, prompting criticism in LA County
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+The system would require wireless service providers to provide emergency alerts for fires, floods and other natural disasters in more than 12 languages. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-delays-multilingual-emergency-alert-system-for-natural-disasters-prompting-criticism-in-la>
+
+---
+
+## RFK Jr. says COVID shots are no longer recommended for kids or pregnant women
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+Health Secretary Robert F. Kennedy Jr. announced that CDC recommendations for COVID vaccines will no longer include healthy pregnant women and healthy children. 
+
+<br> 
+
+<https://laist.com/news/health/rfk-jr-covid-shots-no-longer-recommended-for-kids-pregnant-women>
+
+---
+
+## Popular Bay Cities Italian Deli in Santa Monica closed until further notice due to health code violations
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+Public health records for the home of the Godmother sandwich refer to "vermin infestation." 
+
+<br> 
+
+<https://laist.com/news/food/bay-cities-italian-deli-santa-monica-code-violations>
+
+---
+
+## SWAT officers surround apartment building near Poly High School but find no suspect inside
+
+date: 2025-05-27, from: Longbeach Post
+
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6-400x272.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/27151040/da027927-858c-4312-bfda-12df8bb63926-385269-wjsydvca-542741-WHXwJXf6.jpg 1199w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The scene near 17th Street and Linden Avenue was about a block away from both Poly and Roosevelt Elementary School. </p>
+<p>The post <a href="https://lbpost.com/news/crime/poly-high-barricade-linden-17th-swat-police">SWAT officers surround apartment building near Poly High School but find no suspect inside</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/poly-high-barricade-linden-17th-swat-police>
+
+---
+
+## This Ethiopian woman was tortured by her government. The U.S. is sending her home anyway
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+The Trump administration has turned the remaining sliver of hope for people fleeing torture into what experts fear is a fast track to deportation. And it’s trying to keep it a secret. 
+
+<br> 
+
+<https://laist.com/news/politics/this-ethiopian-woman-was-tortured-by-her-government-the-u-s-is-sending-her-home-anyway>
 
 ---
 
@@ -25,7 +136,7 @@ Improved identification and worsening family finances contribute to the increase
 
 date: 2025-05-27, from: Longbeach Post
 
-<figure><img width="1024" height="656" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-300x192.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1024x656.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-768x492.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-169x108.jpg 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1536x984.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1200x769.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1568x1004.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-400x256.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="656" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-300x192.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1024x656.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-768x492.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-169x108.jpg 169w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1536x984.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1200x769.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-1568x1004.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165659/EBIKE_6869-400x256.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The state has already given out more than $2 million worth of vouchers, and another application window opens May 29.</p>
 <p>The post <a href="https://lbpost.com/news/free-ebike-voucher-california-application-window">California offers second round of e-bike vouchers worth up to $2,000 each</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -89,7 +200,7 @@ date: 2025-05-27, from: Longbeach Post
 
 ## LA mayor, city officials called to court in contentious federal hearing on homelessness spending
 
-date: 2025-05-27, updated: 2025-05-27, from: The LAist
+date: 2025-05-27, updated: 2025-05-28, from: The LAist
 
 After an audit found the city failed to accurately track its homelessness spending, a federal judge is considering transferring control of that spending from Los Angeles officials to a court-appointed receiver. 
 
@@ -140,21 +251,9 @@ date: 2025-05-27, from: Longbeach Post
 
 ---
 
-## Is it time for wildfires again in California? Here’s how fuels are looking
-
-date: 2025-05-27, updated: 2025-05-27, from: The LAist
-
-The drier plants get, the easier they burn. So after a dry rainy season and the recent heat in Southern California, grasses are primed to catch fire. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/is-it-time-for-wildfires-again-in-california>
-
----
-
 ## The businesses facing scrutiny in probes surrounding a disgraced OC supervisor
 
-date: 2025-05-27, updated: 2025-05-27, from: The LAist
+date: 2025-05-27, updated: 2025-05-28, from: The LAist
 
 There are at least two inquiries underway into thousands of contracts handled by Andrew Do over the years related to his time on two powerful Orange County boards. 
 
@@ -173,6 +272,18 @@ The second annual Tournament of Cheeseburgers has begun — and we want to hear 
 <br> 
 
 <https://laist.com/news/food/reminder-still-time-to-nominate-your-favorite-socal-cheeseburger>
+
+---
+
+## Is it time for wildfires again in California? Here’s how fuels are looking
+
+date: 2025-05-27, updated: 2025-05-27, from: The LAist
+
+The drier plants get, the easier they burn. So after a dry rainy season and the recent heat in Southern California, grasses are primed to catch fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/is-it-time-for-wildfires-again-in-california>
 
 ---
 

@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-27 14:07:57
+updated: 2025-05-28 06:09:13
 ---
 
 # libraries
 
-(date: 2025-05-27 14:07:57)
+(date: 2025-05-28 06:09:13)
+
+---
+
+## Dispensed With A Matronly Air: Trust and AI
+
+date: 2025-05-28, from: Scholarly Kitchen
+
+<p>BBC Maestro has delivered a writing course taught by a speaking and moving on-screen image of Agatha Christie. Did the AI behind it succeed?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/28/dispensed-with-a-matronly-air-trust-and-ai/">Dispensed With A Matronly Air: Trust and AI</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/28/dispensed-with-a-matronly-air-trust-and-ai/>
 
 ---
 

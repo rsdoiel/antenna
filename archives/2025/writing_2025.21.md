@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-05-27 14:07:56
+updated: 2025-05-28 06:09:11
 ---
 
 # writing
 
-(date: 2025-05-27 14:07:56)
+(date: 2025-05-28 06:09:11)
+
+---
+
+## 6 Tweaks You Can Enable in Scrivener’s Appearance Settings
+
+date: 2025-05-28, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/6-tweaks-you-can-enable-in-scriveners-appearance-settings>
 
 ---
 

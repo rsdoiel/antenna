@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-05-27 14:07:56
+updated: 2025-05-28 06:09:11
 ---
 
 # games
 
-(date: 2025-05-27 14:07:56)
+(date: 2025-05-28 06:09:11)
+
+---
+
+## With To a T, Keita Takahashi almost made a normal game
+
+date: 2025-05-28, updated: 2025-05-28, from: Polygon Website
+
+Demoing his new game To a T to press, Keita Takahashi, the creator of Katamari Damacy and one of gaming’s great absurdists, was asked by Digital Trends’ Giovanni Colantonio what drew him to make such oddball games. According to Colantonio, Takahashi regarded the journalist sadly and said, “I was trying to make a normal one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/601901/to-a-t-review-keita-takahashi-pc-ps5-xbox>
+
+---
+
+## When does the Extradimensional Crisis expansion release in Pokémon TCG Pocket?
+
+date: 2025-05-28, updated: 2025-05-22, from: Polygon Website
+
+Extradimensional Crisis is the next expansion in Pokémon TCG Pocket, adding more than 100 new cards to the game — including the introduction of Ultra Beasts. For the most part, Ultra Beasts largely function the same as normal cards (attach energy, perform attacks) but some Ultra Beasts have additional synergy with each other, adding a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/600836/extradimensional-crisis-expansion-release-time-date-pdt-edt-bst>
+
+---
+
+## What time does Elden Ring Nightreign release?
+
+date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
+
+The Elden Ring Nightreign release time is, befitting the source material, way more complicated than it needs to be. Elden Ring Nightreign, a roguelike multiplayer Elden Ring game, rolls out this week with a fractured release schedule. Whether you’re playing on consoles or PC will determine when you can dive in, but even if you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/601729/release-time-date-edt-pdt-bst>
+
+---
+
+## A beginner’s guide for FFXIV’s Occult Crescent
+
+date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
+
+FFXIV: Dawntrail’s field operation is the Occult Crescent, a huge piece of content that dropped in patch 7.25 and should keep you busy for a while. This content is somewhat tied to the Dawntrail relic weapon (though you’ll be able to complete the weapon without necessarily partaking in the field op), and serves as a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips>
+
+---
+
+## How to get a Dawntrail (Phantom) relic weapon in FFXIV
+
+date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
+
+The sun is shining and the Dawntrail field operation and relic weapon is here, as of patch 7.25. For those wanting to get a jump on the relic grind, we got your back, as we detail how to get the Phantom relic weapon in FFXIV below. Just like other relics, the Phantom relic is no [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements>
+
+---
+
+## All Occult Crescent survey point locations in FFXIV
+
+date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
+
+As part of patch 7.25, FFXIV players can explore the Occult Crescent, learning about the ruins and creatures that roam the area. As part of the questline for the area, you’ll actually have to seek out specific survey points, glowing bits on the map you can interact with. You will need to find the quest-related [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601778/occult-crescent-survey-points-locations-quests-common-thread-past-and-crescent>
 
 ---
 

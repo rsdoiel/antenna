@@ -1,11 +1,98 @@
 ---
 title: motorcycles
-updated: 2025-05-27 14:07:58
+updated: 2025-05-28 06:09:14
 ---
 
 # motorcycles
 
-(date: 2025-05-27 14:07:58)
+(date: 2025-05-28 06:09:14)
+
+---
+
+## Honda Expands Its Massive Factory In India, Eyeing 7 Million Units a Year
+
+date: 2025-05-28, from: Ride Apart, Electric Motorcycle News
+
+Team Red is laying the groundwork for unstoppable expansion across Asia. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760781/honda-expands-massive-factory-gujarat-india/>
+
+---
+
+## Takuma Koga Making History In America, Will Race Xfinity Series At Dover And Portland
+
+date: 2025-05-28, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer A native of Nagoya, Japan, 48-year-old Takuma Koga is now a veteran of NASCAR racing. Since 2001, when he made his debut in the NASCAR Raybestos Northwest Series, he&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/feature/takuma-koga-making-history-in-america-will-race-xfinity-series-at-dover-and-portland/>
+
+---
+
+## ARCA Menards Series West: 2025 Colorado Race Review
+
+date: 2025-05-28, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The fourth race of the 2025 ARCA Menards West Series season took place in Dacono, Colorado, on the 0.375-mile paved oval at Colorado National Speedway&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-series-west-2025-colorado-race-review/>
+
+---
+
+## KTM Will Resume Production Again, Fingers Crossed It Stays That Way
+
+date: 2025-05-28, from: Ride Apart, Electric Motorcycle News
+
+Maybe decreased production this year will help sell all those old bikes sitting on dealership lots? 
+
+<br> 
+
+<https://www.rideapart.com/news/760843/ktm-bajaj-production-will-resume-july/>
+
+---
+
+## This Sportbike Has an Automatic Transmission, But Do People Want That?
+
+date: 2025-05-28, from: Ride Apart, Electric Motorcycle News
+
+It’s a fully automatic machine, with no foot controls whatsoever. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760683/qj-motor-new-automatic-sportbike-srk500ra/>
+
+---
+
+## More Details About Kawasaki's New Liter-Class Naked Motorcycle Have Leaked
+
+date: 2025-05-28, from: Ride Apart, Electric Motorcycle News
+
+It’s looking more and more like a modern revival of the Z1000. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760672/kawasaki-z1100-more-details-emerge/>
+
+---
+
+## Nerding out about heaters
+
+date: 2025-05-28, from: Herman Bear Blog
+
+Keeping warm in the winter 
+
+<br> 
+
+<https://herman.bearblog.dev/heaters/>
 
 ---
 

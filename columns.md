@@ -1,11 +1,273 @@
 ---
 title: columns
-updated: 2025-05-27 14:07:55
+updated: 2025-05-28 06:09:10
 ---
 
 # columns
 
-(date: 2025-05-27 14:07:55)
+(date: 2025-05-28 06:09:10)
+
+---
+
+## Location Tracking App for Foreigners in Moscow
+
+date: 2025-05-28, updated: 2025-05-27, from: Bruce Schneier blog
+
+<p>Russia is <a href="https://www.bleepingcomputer.com/news/government/russia-to-enforce-location-tracking-app-on-all-foreigners-in-moscow/">proposing a rule</a> that all foreigners in Moscow install a tracking app on their phones.</p>
+<blockquote><p>Using a mobile application that all foreigners will have to install on their smartphones, the Russian state will receive the following information:</p>
+<ul>
+<li>Residence location
+<li>Fingerprint
+<li>Face photograph
+<li>Real-time geo-location monitoring </ul>
+</blockquote>
+<p>This isn&#8217;t the first time we&#8217;ve seen this. Qatar <a href="https://www.theregister.com/2022/11/11/world_cup_security/">did it</a> in 2022 around the World Cup:</p>
+<blockquote><p>&#8220;After accepting the terms of these apps, moderators will have complete control of users&#8217; devices,&#8221; he continued. &#8220;All personal content, the ability to edit it, share it, extract it as well as data from other apps on your device is in their hands. Moderators will even have the power to unlock users&#8217; devices remotely.&#8221; ...</p></blockquote></li></li></li></li> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/location-tracking-app-for-foreigners-in-moscow.html>
+
+---
+
+## Three ways to run Windows apps on a Linux box
+
+date: 2025-05-28, updated: 2025-05-28, from: Liam Proven's articles at the Register
+
+<h4><span class="label">hands on</span> Easy, medium, and the sledgehammer approach – or any combination you fancy</h4>
+      <p>If you&#39;re thinking about switching to Linux but there are a few Windows apps you just can&#39;t do without, you do have options… and some of them are free.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/28/three_ways_to_win_on_lin/>
+
+---
+
+## 2025-05-27 Alt text on this blog
+
+date: 2025-05-28, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-27-alt-text-on-this-blog">2025-05-27 Alt text on this blog</h1>
+
+<p>On the web, the alt text is a description of an image to be shown by browsers when the image cannot be shown – like text browsers or screen readers. So what about alt text on this blog? What about blog posts full of photos, specifically? Like the <a href="Croatia">Croatia</a> posts.</p>
+
+<p>I think that alt text should be unnecessary on my blog because the text should carry the entire message. “Welcome to my <a href="Wall_of_Text">Wall of Text</a>!” 😄</p>
+
+<p>On fedi, I like alt text and I both read and write it. I hate clients that don’t display it. I want to always read it. Therefore, on my blog, the equivalent of alt text should always be readable. But real alt text isn’t shown to me – the browser is showing me the pictures, instead. It makes sense. And on fedi it only works because the applications and front-ends don&rsquo;t just use the alt text attribute for images in HTML – they have an extra user-interface to allow me to read it. Buttons, mouse-over, long-press, whatever it takes.</p>
+
+<p>There are options for this blog, of course. Except I don’t like these options.</p>
+
+<p>I could reuse the alt text as the image title attribute which is shown on mouse-over by default. I don’t like being forced to use mouse and I don’t like duplicating the description.</p>
+
+<p>In Markdown:</p>
+
+<pre><code>![alt text](url &quot;title&quot;)
+</code></pre>
+
+<p>I could automatically use the alt text as the title attribute but I still don’t like to use the mouse to read the title attribute and I wouldn’t be able to switch Markdown rendering engines as easily if I hack it. Writing some Javascript to produce extra pop-ups or some other user-interface element would be even worse, and it would need extra clicking or keyboard navigation as a reader. No way.</p>
+
+<p>The last option is the best. Just write the description above the image:</p>
+
+<pre><code>Description
+
+![](url)
+</code></pre>
+
+<p>I’ve tried using the title attribute for some of my recent picture-heavy blog posts about Croatia and I’ve been checking the result using Gemini and Gopher, and I’m not happy.</p>
+
+<p>Compare the following two with the <a href="https://alexschroeder.ch/view/2025-05-17-%C5%A1ibenik">web</a> version where I can’t read the alt text. (Screenshots from <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a> on my phone.)</p>
+
+<p>The <a href="gemini://alexschroeder.ch/2025-05-17-šibenik">Gemini</a> version looks OK with some text paragraphs being links to the images.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-1.jpg" alt="" /></p>
+
+<p>The <a href="gopher://alexschroeder.ch/02025-05-17-šibenik">Gopher</a> version shows the alt texts as weird disjointed text paragraphs that sometimes repeat the preceding paragraph and sometimes don’t.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-2.jpg" alt="" /></p>
+
+<p>I guess I could write longer alt texts until the Gopher version looks good but then the Gemini version looks weird and the web version continues to not show it.</p>
+
+<p>Now check the Gemini and Gopher output for the page you’re reading right now!</p>
+
+<p>The <a href="gopher://alexschroeder.ch/02025-05-27-alt-text">Gopher</a> version is OK. The line-breaks don’t look nice on the phone at the default resolution so ignore that weird line-break. What we can see is that the empty alt text generated an empty paragraph. Something I should fix. 😅 But in general, it looks OK and reads well.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-3.jpg" alt="" /></p>
+
+<p>The <a href="gemini://alexschroeder.ch/2025-05-27-alt-text">Gemini</a> version still looks OK. It also links to the Gopher and Gemini versions, so ignore those extra links. 😅 The browser substitutes the filenames for the missing alt text. That works for me. I&rsquo;m not sure what a screen reader would do. Probably say: &ldquo;Image. 2025-05-27-alt-text-3.jpg&rdquo;? And I&rsquo;m not sure what a person with bad sight would prefer. At this point I&rsquo;d know that I can skip the image since I have already read the description above.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-4.jpg" alt="" /></p>
+
+<p>And here&rsquo;s the same passage a day later, using the text browser <code>lynx</code>. The inline links look good, and there&rsquo;s no trace of the screenshots. This is great! It&rsquo;s as readable as the Gopher version with no extra line-breaks, and the inline links are inline (unlike in the Gemini version).</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-5.jpg" alt="" /></p>
+
+<p>All in all, I think this solution is better: Instead of alt text, just write more text above each image.</p>
+
+<p>What I’m less sure about is whether this automatically implies that all images are “decorative” and therefore should have an empty alt text (instead of no alt text). It seems to me that the filename being shown is a lot of visual clutter, but that only seems to affect Gemini, not the text browser.</p>
+
+<p>What do you think?</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a> <a class="tag" href="/search/?q=%23Gopher">#Gopher</a> <a class="tag" href="/search/?q=%23Markdown">#Markdown</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-27-alt-text>
+
+---
+
+## Office Hours: Now that Elon is on the way out, who will be Trump’s ringleader?
+
+date: 2025-05-28, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-now-that-elon-is-on>
+
+---
+
+## May 27, 2025
+
+date: 2025-05-28, from: Heather Cox Richardson blog
+
+Political scientist Adam Bonica noted last Friday that Trump and the administration suffered a 96% loss rate in federal courts in the month of May. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-27-2025>
+
+---
+
+## curl 8.14.0
+
+date: 2025-05-28, from: Daniel Stenberg Blog
+
+Welcome to another curl release. Release presentation Numbers the 267th release6 changes56 days (total: 9,931)229 bugfixes (total: 12,015)406 commits (total: 35,190)0 new public libcurl function (total: 96)1 new curl_easy_setopt() option (total: 308)1 new curl command line option (total: 269)91 contributors, 47 new (total: 3,426)36 authors, 17 new (total: 1,375)2 security fixes (total: 166) Security Changes &#8230; <a href="https://daniel.haxx.se/blog/2025/05/28/curl-8-14-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.14.0</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/05/28/curl-8-14-0/>
+
+---
+
+## SAFE Bellevue — letter in support of streets for everyone
+
+date: 2025-05-28, from: Tracy Durnell Blog
+
+I&#8217;m in a local urbanist Discord server that highlights actions to support safer streets and more housing in the Seattle suburbs. In support of the SAFE Bellevue campaign, I modified their form letter with my own introductory paragraphs:  I live just up the road in Kirkland and am in Bellevue all the time. I stopped [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/27/safe-bellevue-letter-in-support-of-streets-for-everyone/>
+
+---
+
+## [Sponsor] Ooni Halo Pro Spiral Mixer
+
+date: 2025-05-28, updated: 2025-05-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ooni.com/products/ooni-halo-pro-spiral-mixer?utm_source=daringfireball&utm_medium=web&utm_campaign=halo_pro>
+
+---
+
+## To What End?
+
+date: 2025-05-27, from: Dan Rather's Steady
+
+Understanding Trump&#8217;s endgame 
+
+<br> 
+
+<https://steady.substack.com/p/to-what-end>
+
+---
+
+## ‘The Future Is Colourful and Dimensional’
+
+date: 2025-05-27, updated: 2025-05-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.flarup.email/p/the-future-is-colourful-and-dimensional>
+
+---
+
+## Wednesday 28 May, 2025
+
+date: 2025-05-27, from: John Naughton's online diary
+
+The Canadians have landed Mom plus three fluffballs. Seen on an evening walk the other day. Quote of the Day “Outside of a dog, a book is man&#8217;s best friend. Inside of a dog it&#8217;s too dark to read.” Groucho &#8230; <a href="https://memex.naughtons.org/wednesday-28-may-2025/40869/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-28-may-2025/40869/>
+
+---
+
+## On the Engineering Talent at IO
+
+date: 2025-05-27, updated: 2025-05-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/05/sam-and-jony-and-skepticism/>
+
+---
+
+##  This looks really interesting: Rogue One recut and rescored in the style... 
+
+date: 2025-05-27, updated: 2025-05-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046935-this-looks-really-interes>
+
+---
+
+## Apple’s Satellite Networking Ambitions
+
+date: 2025-05-27, updated: 2025-05-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/apples-satellite-ambitions-threatened-elon-musk-internal-resistance?rc=jfy0lk>
+
+---
+
+## Scott Forstall Has Been Advising The Browser Company
+
+date: 2025-05-27, updated: 2025-05-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://browsercompany.substack.com/p/letter-to-arc-members-2025>
+
+---
+
+## Tim Cook Declined Middle East Trip With Trump’s Sycophant Entourage
+
+date: 2025-05-27, updated: 2025-05-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/26/technology/techs-trump-whisperer-tim-cook-goes-quiet-as-his-influence-fades.html>
 
 ---
 
@@ -18,76 +280,6 @@ date: 2025-05-27, updated: 2025-05-27, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/05/0046931-were-witnessing-the-rever>
-
----
-
-## 2025-05-27 Alt text on this blog
-
-date: 2025-05-27, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-27-alt-text-on-this-blog">2025-05-27 Alt text on this blog</h1>
-
-<p>Alt text is a description of images. By default, it is only shown by browsers that cannot show browsers – like text browsers or screen readers. So what about alt text on this blog?</p>
-
-<p>I think that alt text should be unnecessary on my blog because the text should carry the entire message. “Welcome to my <a href="Wall_of_Text">Wall of Text</a>!” 😄</p>
-
-<p>On fedi, I like alt text and I both read and write it. I hate clients that don’t display it. I want to always read it. Therefore, on my blog, the equivalent of alt text should always be readable. But real alt text isn’t shown to me.</p>
-
-<p>There are options, of course. Except I don’t like these options, either.</p>
-
-<p>I could reuse the alt text as the image title attribute which is shown on mouse over by default. I don’t like being forced to use mouse and I don’t like duplicating the description.</p>
-
-<p>In Markdown:</p>
-
-<pre><code>![alt text](url &quot;title&quot;)
-</code></pre>
-
-<p>I could automatically use the alt text as the title attribute but I still don’t like to use the mouse to read the title attribute and I wouldn’t be able to switch Markdown rendering engines as easily if I hack it.</p>
-
-<p>The last option is the best: Just write the description:</p>
-
-<pre><code>Description
-
-![](url)
-</code></pre>
-
-<p>I’ve tried using the title attribute for some my recent picture-heavy blog posts about Croatia and I’ve been checking the result using Gemini and Gopher, and I’m not happy.</p>
-
-<p>Compare the following two with the <a href="https://alexschroeder.ch/view/2025-05-17-%C5%A1ibenik">web</a> version where I can’t read the alt text. (Screenshots from <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a> on my phone.)</p>
-
-<p>The <a href="gemini://alexschroeder.ch/2025-05-17-šibenik">Gemini</a> version looks ok with some text paragraphs being links to the images.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-1.jpg" alt="" /></p>
-
-<p>The <a href="gopher://alexschroeder.ch/02025-05-17-šibenik">Gopher</a> version shows the alt texts as weird disjointed text paragraphs that sometimes repeat the preceding paragraph and sometimes don’t.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-2.jpg" alt="" /></p>
-
-<p>I guess I could write longer alt texts until the Gopher version looks good but then the Gemini version looks weird and the web version countinues to not show it.</p>
-
-<p>Now check the Gemini and Gopher output for the page you’re reading right now!</p>
-
-<p>The <a href="gopher://alexschroeder.ch/02025-05-27-alt-text">Gopher</a> version is OK. The line-breaks don’t look nice on the phone at the default resolution so ignore that weird line-break. What we can see is that the empty alt text generated an empty paragraph. Something I should fix. 😅</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-3.jpg" alt="" /></p>
-
-<p>The <a href="gemini://alexschroeder.ch/2025-05-27-alt-text">Gemini</a> version still looks OK. It also links to the Gopher and Gemini versions, so ignore those extra links. 😅</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-4.jpg" alt="" /></p>
-
-<p>All in all, I think this solution is better.</p>
-
-<p>Alt text is just more text added to the page.</p>
-
-<p>What I’m less sure about is whether this automatically implies that all images are “decorative” and therefore should have an empty alt text (instead of no alt text). It seems to me that the filename being shown is a lot of visual clutter.</p>
-
-<p>What do you think?</p>
-
-<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a> <a class="tag" href="/search/?q=%23Gopher">#Gopher</a> <a class="tag" href="/search/?q=%23Markdown">#Markdown</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-27-alt-text>
 
 ---
 
@@ -336,7 +528,7 @@ date: 2025-05-27, updated: 2025-05-27, from: Jason Kittke's blog
 
 date: 2025-05-27, from: Doc Searls (at Harvard), New Old Blog
 
-So we can move on to solving other problems. Well, shit: 404 says Penguin Poop Helps Antarctica Stay Cool.  So, rather than Web 3.0, we&#39;re at Web 2.1. Despite all its sweet aspirations, Web 2.0 brought us the Age of Walled Gardens. In Welcome to the World Wide Wall, Ted Gioia says tech giants and their wannabes [&#8230;] 
+Looking for one reporter—just one—from Wired or any other major news organization, to dig into this. Michaela Neville&#39;s A Starter Guide to Protecting Your Data From Hackers and Corporations in Wired gives good advice, but neglects to visit the magazine&#39;s own participation in the vast personal data harvesting adtech fecosystem. Here&#39;s a PageXray of the river delta out [&#8230;] 
 
 <br> 
 

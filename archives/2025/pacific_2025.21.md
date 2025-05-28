@@ -1,11 +1,434 @@
 ---
 title: pacific
-updated: 2025-05-27 14:07:53
+updated: 2025-05-28 06:09:07
 ---
 
 # pacific
 
-(date: 2025-05-27 14:07:53)
+(date: 2025-05-28 06:09:07)
+
+---
+
+## Green signs climate fee bill: State hotel room tax to increase to 14%
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>Everyone who stays in a Hawaii hotel, cruise ship or other lodging beginning Jan. 1 will pay an extra $30 for every $400 in overnight costs &#8212; or an additional $300 for every $4,000 spent to stay in the islands &#8212; to help Hawaii pay to address climate change and reduce the risk of future wildfires.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/hawaii-news/green-signs-climate-fee-bill-state-hotel-room-tax-to-increase-to-14/>
+
+---
+
+## Groundbreaking is Thursday for Papa‘aloa Park covered playcourt
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County will hold a blessing and groundbreaking at 10:30 a.m. Thursday to celebrate the start of construction of a new covered playcourt at Papa&#8216;aloa Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/hawaii-news/groundbreaking-is-thursday-for-papaaloa-park-covered-playcourt/>
+
+---
+
+## Nearly 30 pounds of pot found in Kona airport luggage
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>An Oahu couple was arrested Sunday at Ellison Onizuka Kona International Airport after checked baggage for a Honolulu-bound flight on Southwest Airlines was found to contain about 26 pounds of marijuana.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/hawaii-news/nearly-30-pounds-of-pot-found-in-kona-airport-luggage/>
+
+---
+
+## DOH cites Hawaii Petroleum for storage tank violations
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has issued a notice of violation and order against Hawaii Petroleum LLC., which operates Kamakani Store in Hawaiian Ocean View Estates, for violating state underground storage tank laws.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/hawaii-news/doh-cites-hawaii-petroleum-for-storage-tank-violations/>
+
+---
+
+## Police investigate W. Hawaii parking scam
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a possible parking violation scam at the top of Napo&#8216;opo&#8216;o Road near the Hawaii Belt Road (Highway 11) intersection in Captain Cook.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/hawaii-news/police-investigate-w-hawaii-parking-scam/>
+
+---
+
+## Trump is getting the military parade he wanted in his first term
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In President Donald Trump&#8217;s first term, the Pentagon opposed his desire for a military parade in Washington, wanting to keep the armed forces out of politics.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/trump-is-getting-the-military-parade-he-wanted-in-his-first-term/>
+
+---
+
+## A former employee testifies Sean Combs threatened to kill Kid Cudi
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A former employee of Sean Combs testified at his federal trial Tuesday that he repeatedly threatened her while she was working for him, and that the music mogul once kidnapped her during a jealous rage over a romantic rival.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/a-former-employee-testifies-sean-combs-threatened-to-kill-kid-cudi/>
+
+---
+
+## Chaos mars opening of Israeli-backed aid distribution site in Gaza
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>Chaos and confusion broke out at a new aid center in the Gaza Strip on Tuesday, the first full day that humanitarian assistance was being distributed through a contentious effort conceived by Israelis.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/chaos-mars-opening-of-israeli-backed-aid-distribution-site-in-gaza/>
+
+---
+
+## US will receive ‘golden share’ in steel deal
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. government is planning to participate in the planned &#8220;partnership&#8221; between U.S. Steel and its Japanese rival Nippon Steel, Sen. Dave McCormick, R-Pa., said on CNBC on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/us-will-receive-golden-share-in-steel-deal/>
+
+---
+
+## Trump Media raises money to buy $2.5 billion in bitcoin
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>Trump Media &#038; Technology Group, the parent company of Truth Social, said Tuesday that it would raise $2.5 billion from institutional investors to invest in bitcoin, continuing its transformation from a social media company into a financial services and cryptocurrency play.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/trump-media-raises-money-to-buy-2-5-billion-in-bitcoin/>
+
+---
+
+## Another suspect is arrested in bitcoin kidnapping and torture case
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A third person accused of kidnapping a man and torturing him for nearly three weeks to steal his bitcoin fortune surrendered to the police in New York City on Tuesday morning, Police Commissioner Jessica S. Tisch said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/another-suspect-is-arrested-in-bitcoin-kidnapping-and-torture-case/>
+
+---
+
+## Trump administration halts scheduling of new student visa appointments
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s administration has ordered its missions abroad to stop scheduling new appointments for student and exchange visitor visa applicants as the State Department prepares to expand social media vetting of foreign students, according to an internal cable seen by Reuters on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/trump-administration-halts-scheduling-of-new-student-visa-appointments/>
+
+---
+
+## SpaceX loses control of Starship, adding to spacecraft’s mixed record
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>The latest flight of SpaceX&#8217;s Starship, the largest and most powerful rocket ever built, got all the way up to space but not all the way back down to Earth.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/spacex-loses-control-of-starship-adding-to-spacecrafts-mixed-record/>
+
+---
+
+## US will no longer recommend COVID shots for children and pregnant women
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>The COVID vaccine will no longer be recommended for healthy children or healthy pregnant women, ending a pandemic-era policy aimed at protecting all Americans from the coronavirus.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/us-will-no-longer-recommend-covid-shots-for-children-and-pregnant-women/>
+
+---
+
+## A building boom on federal land? It just might work
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>Amid the relentless chaos in Washington &#8212; tariffs, trade war, terminally rising deficits &#8212; at least one sensible idea has recently emerged: The federal government wants to free up more land to build homes. It&#8217;s a great ambition. The devil, as ever, will be in the details. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/nation-world-news/a-building-boom-on-federal-land-it-just-might-work/>
+
+---
+
+## Saipan's most iconic spots to get facelifts 
+
+date: 2025-05-28, from: Pacific Island Times
+
+The project, designed by TRL Architecture and funded with a $1.4 million grant from the U.S. Economic Development Administration, is part of the MVA’s efforts to revitalize the island’s tourist spots. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/saipan-s-iconic-spots-to-get-facelifts>
+
+---
+
+## Hawaiian Word of the Week: Laiki
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>Laiki&#8212;Rice.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/27/hawaiian-word-of-the-week-laiki/">Hawaiian Word of the Week: Laiki</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/27/hawaiian-word-of-the-week-laiki/>
+
+---
+
+## Rainbow Wahine softball players earn academic honors
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>Five members of the <abbr>UH</abbr> Mānoa softball team were named to the College Sports Communicators Academic All-District Team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/27/rainbow-wahine-softball-academic-honors/">Rainbow Wahine softball players earn academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/27/rainbow-wahine-softball-academic-honors/>
+
+---
+
+## In memoriam: Donna M. Howard, former UH Foundation president
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>Visionary leader, trusted fundraiser and generous alum&#8212;Donna M. Howard’s <abbr>UH</abbr> legacy endures.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/27/in-memoriam-donna-howard/">In memoriam: Donna M. Howard, former <abbr>UH</abbr> Foundation president</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/27/in-memoriam-donna-howard/>
+
+---
+
+## Apply now: UH supports College of Ed grads with $500 classroom makeover
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>Three <abbr>UH</abbr> Mānoa <abbr>COE</abbr> graduates will receive classroom supply prizes to jump-start their teaching journey.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/27/apply-now-500-classroom-makeover/">Apply now: <abbr>UH</abbr> supports College of Ed grads with $500 classroom makeover</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/27/apply-now-500-classroom-makeover/>
+
+---
+
+## Rainbow Wahine earns Big West track and field tournament honors
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>Lilian Turban was named Big West Championship Field Athlete of the Meet.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/27/rainbow-wahine-big-west-track-and-field-honors/">Rainbow Wahine earns Big West track and field tournament honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/27/rainbow-wahine-big-west-track-and-field-honors/>
+
+---
+
+## UH haumāna explore Kalākaua and Hawaiian Kingdom’s legacy in Japan
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa students retraced King David <span aria-label="Laamea">La&#699;amea</span> Kal&#257;kaua’s path in Japan, reviving a historic Hawaiian study abroad legacy.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/27/kalakaua-and-hawaiian-kingdoms-legacy-in-japan/"><abbr>UH</abbr> haumāna explore Kalākaua and Hawaiian Kingdom’s legacy in Japan</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/27/kalakaua-and-hawaiian-kingdoms-legacy-in-japan/>
+
+---
+
+## FSM breaks ground on China-led airport reconstruction project in Woleai 
+
+date: 2025-05-28, from: Pacific Island Times
+
+The Woleai airport repair project is being done by China’s Shandong Hengyue Municipal Engineering Co. Photo by Clero Paskal  By Cleo... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fsm-china-break-ground-on-woleai-airport-project>
+
+---
+
+## UH Hilo men’s golf earns All-PacWest honors
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>Five Vulcan golfers named All-PacWest, Tamiya repeats as Coach of the Year.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/27/uh-hilo-mens-golf-all-pacwest/"><abbr>UH</abbr> Hilo men’s golf earns All-PacWest honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/27/uh-hilo-mens-golf-all-pacwest/>
+
+---
+
+## USP hosts immersive experiences for students
+
+date: 2025-05-27, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) recently played host to two distinct yet equally...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-hosts-immersive-experiences-for-students/">USP hosts immersive experiences for students</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-hosts-immersive-experiences-for-students/>
+
+---
+
+## Marianas youth to send symbolic ‘senbazuru’ to Hiroshima
+
+date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
+
+IN a deeply symbolic gesture, young people of The Marianas are marking 80 years of peace between their islands in the western Pacific and Japan since World War II with a gift of “senbazuru” — or 1,000 origami cranes —  to the Children’s Peace Monument in Hiroshima, Japan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/marianas-youth-to-send-symbolic-senbazuru-to-hiroshima/article_5fbcbded-2475-4269-b1c3-2f6f3accaf98.html>
+
+---
+
+## Three more New Orleans jail escapees captured, leaving two at large
+
+date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
+
+(Reuters) — Police in Louisiana and Texas arrested on Monday three more fugitives who escaped from a New Orleans jail 10 days ago, leaving at large two of the original 10, Louisiana state police said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/three-more-new-orleans-jail-escapees-captured-leaving-two-at-large/article_e8a8fd7d-6f46-4c3b-bbd2-ae9ca172beb8.html>
+
+---
+
+## Court denies DFW motion in environmental permit case
+
+date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
+
+SUPERIOR Court Presiding Judge Roberto C. Naraja has denied the Division of Fish and Wildlife’s motion for remand and ordered DFW to issue a final decision on Alexandria Davis Steeley’s permit application within 20 days. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-denies-dfw-motion-in-environmental-permit-case/article_fb9a77fc-2e19-4127-9689-7325fbbd5649.html>
+
+---
+
+## NWS: Isolated thunderstorms across NMI in next few days
+
+date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
+
+THE CNMI will experience isolated thunderstorms in the next few days, according to the National Weather Service-Guam’s weekly regional outlook issued on May 27. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nws-isolated-thunderstorms-across-nmi-in-next-few-days/article_3514ea5a-822f-477b-99e7-818a72137abc.html>
+
+---
+
+## They didn’t die for war — they died for peace
+
+date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
+
+“TINIAN didn’t just mark the end of a war.  Tinian marked the beginning of peace. And the people we remember today didn’t serve for glory or conquest. They served to protect something bigger: Peace. Peace that makes family possible. Peace that lets us raise our children. Peace that allows us to build something better," said U.S. Congresswoman Kimberlyn King-Hinds during the Memorial Day ceremony on Tinian Monday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/they-didn-t-die-for-war-they-died-for-peace/article_54d56f61-1c38-4a7c-8058-08d67c3a66af.html>
+
+---
+
+## Shares mixed, dollar struggles on Trump's chaotic tariffs
+
+date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
+
+SINGAPORE (Reuters) — Shares were mixed on Tuesday as President Donald Trump's postponement of his threatened 50% duties on European Union shipments reinforced the unpredictability of his trade policies and kept investor sentiment fragile. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/shares-mixed-dollar-struggles-on-trumps-chaotic-tariffs/article_3c27fc2a-13af-405e-a1b8-fac97b142154.html>
+
+---
+
+## Poetry
+
+date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_61c05322-da60-4381-a2dc-769131276c00.html>
 
 ---
 
@@ -18,30 +441,6 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 <br> 
 
 <https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
-## Shares mixed, dollar struggles on Trump's chaotic tariffs
-
-date: 2025-05-27, updated: 2025-05-27, from: Marianas Variety
-
-SINGAPORE (Reuters) — Shares were mixed on Tuesday as President Donald Trump's postponement of his threatened 50% duties on European Union shipments reinforced the unpredictability of his trade policies and kept investor sentiment fragile. 
-
-<br> 
-
-<https://www.mvariety.com/business/business_news/shares-mixed-dollar-struggles-on-trumps-chaotic-tariffs/article_3c27fc2a-13af-405e-a1b8-fac97b142154.html>
-
----
-
-## Poetry
-
-date: 2025-05-27, updated: 2025-05-27, from: Marianas Variety
-
- 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/poetry/article_61c05322-da60-4381-a2dc-769131276c00.html>
 
 ---
 
@@ -194,6 +593,20 @@ date: 2025-05-27, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/05/27/nation-world-news/car-plows-into-fans-at-a-liverpool-parade-27-in-hospital/>
+
+---
+
+## Pahoa man accused of daylight carjacking in Kailua-Kona
+
+date: 2025-05-27, from: Hawaii Tribune Harold
+
+
+				<p>A thrice-convicted felon is accused of an armed carjacking of a senior citizen Saturday in downtown Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/27/hawaii-news/pahoa-man-accused-of-daylight-carjacking-in-kailua-kona/>
 
 ---
 

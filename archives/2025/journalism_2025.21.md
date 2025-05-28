@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-05-27 14:07:57
+updated: 2025-05-28 06:09:12
 ---
 
 # journalism
 
-(date: 2025-05-27 14:07:57)
+(date: 2025-05-28 06:09:12)
+
+---
+
+## With her song-writing artistry, chiabiee turns to music to share personal stories
+
+date: 2025-05-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+With each note sung and guitar chord strung, Chianie Chi&#8217;s melodic tone echoes her love for music.
+The fourth-year linguistics and computer science student said her love for music began at a young age as she grew up watching singing competitions for fun with her family and recorded voice memos of herself singing the songs she made. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/27/with-her-song-writing-artistry-chiabiee-turns-to-music-to-share-personal-stories/>
+
+---
+
+## Winner Takes All: Grooving through Icon Award winner Janet Jackson’s legendary albums
+
+date: 2025-05-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Janet Jackson may not always receive her flowers, but her musical impact knows no bounds.
+After receiving the Icon Award at the American Music Awards yesterday &#8211; and with the recent resurgence in popularity of her 2001 hit &#8220;Someone To Call My Lover&#8221; &#8211; there has never been a better time to look back on the five-time Grammy winner&#8217;s supreme songbook. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/27/winner-takes-all-grooving-through-icon-award-winner-janet-jacksons-legendary-albums/>
 
 ---
 

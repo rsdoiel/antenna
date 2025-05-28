@@ -1,11 +1,119 @@
 ---
 title: home
-updated: 2025-05-27 14:07:58
+updated: 2025-05-28 06:09:13
 ---
 
 # home
 
-(date: 2025-05-27 14:07:58)
+(date: 2025-05-28 06:09:13)
+
+---
+
+## San Luis Obispo County: Central Coast Agriculture Meets Artistry
+
+date: 2025-05-28, from: California Grown
+
+<p>Stretching from oak-dotted hills to windswept coastlines, San Luis Obispo County (or SLO County) is more than just a scenic stop along California’s Highway 1—it’s one of the most diverse and vibrant agricultural regions in the state. Here, winegrapes, olive trees, berries, and vegetables grow in harmony alongside a new generation of boutique farms that [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/san-luis-obispo-county-central-coast-agriculture/" data-wpel-link="internal" target="_self">San Luis Obispo County: Central Coast Agriculture Meets Artistry</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/san-luis-obispo-county-central-coast-agriculture/>
+
+---
+
+## Halter Ranch Winery is Redefining Sustainability in Paso Robles
+
+date: 2025-05-28, from: California Grown
+
+<p>Tucked into the rugged beauty of Paso Robles’ west side, Halter Ranch Winery is more than a winery—it&#8217;s a testament to stewardship, sustainability, and a deep-rooted respect for land. Here, amid rolling vineyards and ancient oaks, a legacy of California ranching meets cutting-edge, eco-conscious winemaking. “We just want this to be a full-circle experience,” says [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/halter-ranch-winery-is-redefining-sustainability-in-paso-robles/" data-wpel-link="internal" target="_self">Halter Ranch Winery is Redefining Sustainability in Paso Robles</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/halter-ranch-winery-is-redefining-sustainability-in-paso-robles/>
+
+---
+
+## How to Identify and Manage 7 Common Hosta Diseases
+
+date: 2025-05-28, from: The Gardener's Path
+
+<p>Hostas have a reputation for being tough in the garden. That's one of the reasons they're one of the most popular plants out there. But when one of these disease strikes, it can spell disaster. Knowing what causes disease can help you prevent them, but if it's too late, you need to know how to deal with hosta diseases.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/hosta-diseases/">How to Identify and Manage 7 Common Hosta Diseases</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/hosta-diseases/>
+
+---
+
+## When and How to Prune Fuchsia Plants
+
+date: 2025-05-28, from: The Gardener's Path
+
+<p>Pruning is one of the most important parts of producing a big, beautiful display of fuchsia flowers. Without proper pruning, your plants will eventually stop producing as many blossoms as they used to. The process isn’t difficult, but knowing when and how to do it is key to enjoying your biggest show of flowers yet. </p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/prune-fuchsia/">When and How to Prune Fuchsia Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/prune-fuchsia/>
+
+---
+
+## Growing New York Asters: How to Care for Michaelmas Daisies
+
+date: 2025-05-28, from: The Gardener's Path
+
+<p>If you are looking for perennials for the summer-to-fall landscape, New York asters have plenty to contribute. In white, as well as bold shades of pink and purple, they are star attractions in mixed mass plantings that include black-eyed Susans, coneflowers, and goldenrod. Read on to learn how to grow Michaelmas daisies.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-new-york-asters/">Growing New York Asters: How to Care for Michaelmas Daisies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-new-york-asters/>
+
+---
+
+## These Are the Best Father’s Day Gifts to Give This Year
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+Father's Day is just around the corner and that means it's time for shopping. These are the best Father's Day gifts, at every price point. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/fathers-day-gift-ideas>
+
+---
+
+## How to Plan Wine Tastings at Tin City, Paso Robles, Ca
+
+date: 2025-05-27, from: California Grown
+
+<p>Picture this: industrial warehouses turned tasting rooms, creative winemakers experimenting with wild blends, the smell of barbecue wafting from a food truck, and a soundtrack of live music echoing through metal siding. That’s Tin City, Paso Robles, Ca—a gritty, no-frills wine-tasting mecca built by people who dare to do things differently. Located just south of [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/tin-city-paso-robles-ca/" data-wpel-link="internal" target="_self">How to Plan Wine Tastings at Tin City, Paso Robles, Ca</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/tin-city-paso-robles-ca/>
+
+---
+
+## This Extremely Narrow Home in Japan Was Supposed to Be Even Narrower
+
+date: 2025-05-27, from: Dwell
+
+Kominuro Design found opportunities within fire codes to maximize a tiny lot, building a vertical, 645-square-foot plan. 
+
+<br> 
+
+<https://www.dwell.com/article/small-house-on-a-corner-lot-kominoru-design-vertical-home-design-094bce11>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-05-27 14:07:59
+updated: 2025-05-28 06:09:15
 ---
 
 # retro computing
 
-(date: 2025-05-27 14:07:59)
+(date: 2025-05-28 06:09:15)
+
+---
+
+## Epyx Oil Barons
+
+date: 2025-05-28, from: Computer ads from the Past
+
+Oil Barons. If You're Smart, You'll get Filthy Rich. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/epyx-oil-barons>
+
+---
+
+## Linux Kernel 6.15 Now Available
+
+date: 2025-05-28, from: Linux Magazine
+
+<p>The latest Linux kernel is now available with several new features/improvements and the usual bug fixes.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Kernel-6.15-Now-Available>
+
+---
+
+## Microsoft Makes Surprising WSL Announcement
+
+date: 2025-05-28, from: Linux Magazine
+
+<p>In a move that might surprise some users, Microsoft has made Windows Subsystem for Linux open source.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Microsoft-Makes-Surprising-WSL-Announcement>
 
 ---
 
@@ -85,7 +121,7 @@ Initially launched at RISC OS North at the end of March, the latest new title ad
 
 date: 2025-05-25, from: Hans Otten's Retro blog
 
-Paul Schroeter gave me the dump of the SYM-2 ROM and photos of the backside. More about the SYM-1 and SYM-2 on the Synertek pages Sources of SYM-1 and SYM-2 Monitor ROMs Many years ago Paul R.Santa-Maria (who sadly left us in 2012) gave me the listing of the source of the Monitor ROM in [&#8230;] 
+Paul Schroeter gave me the dump of the SYM-2 ROM and photos of the backside.He also scanned his photocopy of the SYM-2 Reference Manual. More about the SYM-1 and SYM-2 on the Synertek pages Sources of SYM-1 and SYM-2 Monitor ROMs Many years ago Paul R.Santa-Maria (who sadly left us in 2012) gave me the [&#8230;] 
 
 <br> 
 

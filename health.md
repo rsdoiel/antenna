@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2025-05-27 14:07:59
+updated: 2025-05-28 06:09:15
 ---
 
 # health
 
-(date: 2025-05-27 14:07:59)
+(date: 2025-05-28 06:09:15)
+
+---
+
+## Editorial: Global excellence in virology: Latin America
+
+date: 2025-05-28, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1623374>
+
+---
+
+## Editorial: Advancement in malaria treatment
+
+date: 2025-05-28, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1628923>
 
 ---
 

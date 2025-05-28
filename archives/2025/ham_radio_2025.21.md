@@ -1,11 +1,37 @@
 ---
 title: ham radio
-updated: 2025-05-27 14:07:53
+updated: 2025-05-28 06:09:07
 ---
 
 # ham radio
 
-(date: 2025-05-27 14:07:53)
+(date: 2025-05-28 06:09:07)
+
+---
+
+## Microsoft Build 2025: Arm (and AI, of course) thrive
+
+date: 2025-05-28, from: EDN Blog
+
+<img width="950" height="540" src="https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?fit=950%2C540" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=950 950w, https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=768 768w" sizes="(max-width: 950px) 100vw, 950px" /><p>What is “agentic AI”? I don't know either. There was still plenty of non-hype at the yearly Microsoft Build event…and two weeks earlier, too.</p>
+<p>The post <a href="https://www.edn.com/microsoft-build-2025-arm-and-ai-of-course-thrive/">Microsoft Build 2025: Arm (and AI, of course) thrive</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/microsoft-build-2025-arm-and-ai-of-course-thrive/>
+
+---
+
+## ARRL Announces Leadership Changes in the Pacific Division
+
+date: 2025-05-27, from: Amateur Radio Relay League News
+
+<p>ARRL Director Anthony Marcin, W7XM, who has served the Pacific Division as Director since January 2024, has stepped down, effective May 25, 2025. Marcin was first appointed to the ARRL Board as Vice Director in November 2021.<br /><br />Vice Director John Litz, NZ6Q, accedes to the Director’s chair to complete the remainder of a 3-year term ending December 31, 2025. Litz was appointed Vice Director in Apri...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-announces-leadership-changes-in-the-pacific-division>
 
 ---
 
@@ -13,7 +39,7 @@ updated: 2025-05-27 14:07:53
 
 date: 2025-05-27, from: EDN Blog
 
-<img width="516" height="451" src="https://www.edn.com/wp-content/uploads/Laseroutput_Figure1.png?fit=516%2C451" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Laseroutput_Figure1.png?w=516 516w, https://www.edn.com/wp-content/uploads/Laseroutput_Figure1.png?w=300 300w" sizes="(max-width: 516px) 100vw, 516px" /><p>How to use negative feedback to regulate output power from a laser diode using a simple, single op-amp based circuit</p>
+<img width="516" height="451" src="https://www.edn.com/wp-content/uploads/Laseroutput_Figure1.png?fit=516%2C451" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Laseroutput_Figure1.png?w=516 516w, https://www.edn.com/wp-content/uploads/Laseroutput_Figure1.png?w=300 300w" sizes="auto, (max-width: 516px) 100vw, 516px" /><p>How to use negative feedback to regulate output power from a laser diode using a simple, single op-amp based circuit</p>
 <p>The post <a href="https://www.edn.com/a-single-op-amp-solution-to-stabilize-laser-output/">A single op-amp solution to stabilize laser output</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
