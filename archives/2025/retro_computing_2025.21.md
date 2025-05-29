@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-28 14:08:23
+updated: 2025-05-29 06:08:13
 ---
 
 # retro computing
 
-(date: 2025-05-28 14:08:23)
+(date: 2025-05-29 06:08:13)
+
+---
+
+## May developer 'fireside' chat on saturday night
+
+date: 2025-05-29, from: Icon Bar, RISC OS News
+
+The next 'fireside' chat of 2025 is on 31st May (this saturday). Usual 7:30pm UK time kick-off and the event is on Zoom. As always, stay for as long or as short a time as you like. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2200.html>
 
 ---
 

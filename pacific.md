@@ -1,11 +1,284 @@
 ---
 title: pacific
-updated: 2025-05-28 14:08:19
+updated: 2025-05-29 06:08:09
 ---
 
 # pacific
 
-(date: 2025-05-28 14:08:19)
+(date: 2025-05-29 06:08:09)
+
+---
+
+## Trump tariffs ruled illegal by federal judicial panel
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A panel of federal judges on Wednesday blocked President Donald Trump from imposing some of his steepest tariffs on China and other U.S. trading partners, finding that federal law did not grant him &#8220;unbounded authority&#8221; to tax imports from nearly every country around the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/trump-tariffs-ruled-illegal-by-federal-judicial-panel/>
+
+---
+
+## Trump bristles at ‘TACO’ trade that bets on him backing down
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump bristled at suggestions that Wall Street believes he&#8217;s ultimately unwilling to follow through on extreme tariff threats, saying his repeated retreats are instead part of a strategy to exert trade concessions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/trump-bristles-at-taco-trade-that-bets-on-him-backing-down/>
+
+---
+
+## BJ Penn misses court date following 2 arrests
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>UFC Hall of Fame mixed martial artist BJ Penn failed to show up in court Tuesday in a domestic abuse case after being arrested twice over the Memorial Day weekend at his family&#8217;s Puueo Street home in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/hawaii-news/bj-penn-misses-court-date-following-2-arrests/>
+
+---
+
+## Kilauea summit lookout reopens for the first time since 2018
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>An observation deck on Kilauea volcano&#8217;s summit that provides panoramic views of the caldera and Halema&#8216;uma&#8216;u crater has reopened in Hawaii Volcanoes National Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/hawaii-news/kilauea-summit-lookout-reopens-for-the-first-time-since-2018-2/>
+
+---
+
+## A disillusioned Musk, distanced from Trump, says he’s exiting Washington
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Billionaire Tesla CEO Elon Musk is leaving the Trump administration after leading a tumultuous efficiency drive, during which he upended several federal agencies, but ultimately failed to deliver the generational savings he had sought.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/a-disillusioned-musk-distanced-from-trump-says-hes-exiting-washington/>
+
+---
+
+## News in brief for May 29
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>Hailey Bieber sells makeup brand Elf Beauty in $1B deal</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/news-in-brief-for-may-29/>
+
+---
+
+## Trump bid to deport Columbia activist Khalil likely unconstitutional, judge says
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The Trump administration&#8217;s bid to deport Columbia University student and pro-Palestinian activist Mahmoud Khalil is likely unconstitutional, a U.S. judge said on Wednesday, finding that the little-used provision of immigration law invoked by the government was too vague.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/trump-bid-to-deport-columbia-activist-khalil-likely-unconstitutional-judge-says/>
+
+---
+
+## Fed saw inflation, jobless, stability risks at May meeting, minutes show
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Federal Reserve officials at their last meeting acknowledged they could face &#8220;difficult tradeoffs&#8221; in coming months in the form of rising inflation alongside rising unemployment, an outlook buttressed by concerns about financial market volatility and Fed staff warnings of increasing recession risk, according to minutes of the May 6-7 session.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/fed-saw-inflation-jobless-stability-risks-at-may-meeting-minutes-show/>
+
+---
+
+## State Department halts interviews abroad for student and exchange visas
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The State Department is temporarily halting interviews abroad with foreign citizens applying for student and exchange visas as it expands scrutiny of applicants&#8217; social media posts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/state-department-halts-interviews-abroad-for-student-and-exchange-visas/>
+
+---
+
+## Trump again criticizes Putin as Ukraine war heats up
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/MOSCOW/KYIV &#8212; U.S. President Donald Trump again expressed frustration on Wednesday with Russian President Vladimir Putin over the intensifying Ukraine conflict, a day after warning that Putin was &#8220;playing with fire&#8221; by resisting ceasefire talks while escalating drone and missile attacks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/trump-again-criticizes-putin-as-ukraine-war-heats-up/>
+
+---
+
+## Putin’s demands for peace include an end to NATO enlargement, sources say
+
+date: 2025-05-29, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; President Vladimir Putin&#8217;s conditions for ending the war in Ukraine include a demand that Western leaders pledge in writing to stop enlarging NATO eastwards and lift a chunk of sanctions on Russia, according to three Russian sources with knowledge of the negotiations. U.S. President Donald Trump has repeatedly said he wants to end the deadliest European conflict since World War Two and has shown increasing frustration with Putin in recent days, warning on Tuesday the Russian leader was &#8220;playing with fire&#8221; by refusing to engage in ceasefire talks with Kyiv as his forces made gains on the battlefield. After speaking to Trump for more than two hours last week, Putin said that he had agreed to work with Ukraine on a memorandum that would establish the contours of a peace accord, including the timing of a ceasefire. Russia says it is currently drafting its version of the memorandum and cannot estimate how long that will take.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/29/nation-world-news/putins-demands-for-peace-include-an-end-to-nato-enlargement-sources-say/>
+
+---
+
+## 233 great grads at CMI
+
+date: 2025-05-29, from: Marshal Islands Journal
+
+<p>The College of the Marshall Islands graduation ceremony last week saw the largest number of students to ever graduate from the Majuro school. A total of 233 CMI students graduated during the ceremony. In addition to the large number graduating, a number of students obtained either associate of science degrees or certificates in fields for [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/233-great-grads-at-cmi/">233 great grads at CMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/233-great-grads-at-cmi/>
+
+---
+
+## US-Yap agreement smooths the path for military construction on island state 
+
+date: 2025-05-29, from: Pacific Island Times
+
+Rear Adm. Brent deVore, outgoing commander of the Joint Region Marianas, said the operational control letter grants the Yap government some authorities “to work together with the Department of Defense to allow some construction efforts to happen.” 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-yap-agreement-smooths-the-path-for-military-construction-on-island-state>
+
+---
+
+## The wonders of WAM
+
+date: 2025-05-29, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON There is so much going on at Waan Aelon in Majel that you may be forgiven for wondering if you wandered into a time warp locating you in another country or time period. On any given day, you may find 25 young people learning and hands-on practicing English and math, carpentry skills, sailing [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/the-wonders-of-wam/">The wonders of WAM</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/the-wonders-of-wam/>
+
+---
+
+## Apply now: Free training program with Hawaiian Electric, UH Maui College
+
+date: 2025-05-29, from: University of Hawaiʻi News
+
+<p>First-ever Maui training program prepares participants for utility workforce opportunities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/28/apply-now-free-training-program/">Apply now: Free training program with Hawaiian Electric, <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/28/apply-now-free-training-program/>
+
+---
+
+## Environmental science grad investigates microplastic deposition on Oʻahu
+
+date: 2025-05-29, from: University of Hawaiʻi News
+
+<p>Ian Chung explored how weather and population density influence microplastic deposition across <span aria-label="Oahu">O&#699;ahu</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/28/grad-investigates-microplastic-deposition/">Environmental science grad investigates microplastic deposition on Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/28/grad-investigates-microplastic-deposition/>
+
+---
+
+## Governor delivers State of the Commonwealth Address
+
+date: 2025-05-29, updated: 2025-05-29, from: Marianas Variety
+
+https://www.youtube.com/watch?v=ZX9i2YsQXC4 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-delivers-state-of-the-commonwealth-address/article_d3f5bfa5-01ae-42c5-b1ad-3f2802829426.html>
+
+---
+
+## Record of decision for Guam missile defense system due for release in August amid unresolved challenges
+
+date: 2025-05-29, from: Pacific Island Times
+
+The $1.5 billion missile defense architecture, which includes multiple mobile components to be deployed in 16 proposed locations throughout Guam, is touted to provide a 360-degree protection against the rapidly evolving threats from China and North Korea.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/record-of-decision-for-guam-missile-defense-system-due-for-release-in-august-amid-unresolved-challen>
+
+---
+
+## UH Mānoa faculty help lead global aging initiative in Japan
+
+date: 2025-05-28, from: University of Hawaiʻi News
+
+<p>Their key roles promote active aging at <abbr>ACAP</abbr>’s 20th anniversary conference in Japan.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/28/global-aging-initiative-in-japan/"><abbr>UH</abbr> Mānoa faculty help lead global aging initiative in Japan</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/28/global-aging-initiative-in-japan/>
+
+---
+
+## Using basketball to help our kids
+
+date: 2025-05-28, from: Marshal Islands Journal
+
+<p>A program using basketball development as a platform for health awareness among young people aged eight to 15 has been ongoing in Majuro and ran its second of three clinics last weekend at the ECC gym in Delap. Called Sisterhoops4Health, the program is a three-part event that utilizes basketball as a platform to raise awareness [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/using-basketball-to-help-our-kids/">Using basketball to help our kids</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/using-basketball-to-help-our-kids/>
 
 ---
 
@@ -19,6 +292,66 @@ The post <a href="https://www.hawaii.edu/news/2025/05/28/image-of-the-week-honu/
 <br> 
 
 <https://www.hawaii.edu/news/2025/05/28/image-of-the-week-honu/>
+
+---
+
+## Poetry
+
+date: 2025-05-28, updated: 2025-05-29, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_61c05322-da60-4381-a2dc-769131276c00.html>
+
+---
+
+## US banks tiptoe toward crypto, awaiting more green lights from regulators
+
+date: 2025-05-28, updated: 2025-05-29, from: Marianas Variety
+
+NEW YORK (Reuters) — Big U.S. banks are holding internal discussions about expanding into cryptocurrencies as they get stronger endorsements from regulators, but initial steps will be tentative, centering on pilot programs, partnerships or limited crypto trading, according to four industry executives. Wall Street giants that had been largely blocked from many crypto activities by strict regulations are poised to grow quickly. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-banks-tiptoe-toward-crypto-awaiting-more-green-lights-from-regulators/article_bb04a5e0-0ee9-40b1-94ec-426490bc002a.html>
+
+---
+
+## MCS graduates 21 kindergarteners, 42 eighth-graders, 41 seniors
+
+date: 2025-05-28, updated: 2025-05-29, from: Marianas Variety
+
+(MCS) — This past week, Mount Carmel School celebrated the achievements of her graduating students across three levels — 21 kindergarteners, 42 eighth-graders, and 41 high school seniors — during commencement ceremonies at Mount Carmel Cathedral. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mcs-graduates-21-kindergarteners-42-eighth-graders-41-seniors/article_c6ed318b-b00d-451e-89e1-dd3e14bb01b0.html>
+
+---
+
+## Jackie Chan, Ralph Macchio join martial arts forces in ‘Karate Kid: Legends’
+
+date: 2025-05-28, updated: 2025-05-29, from: Marianas Variety
+
+LONDON (Reuters) — Jackie Chan and Ralph Macchio blend fighting techniques to train a new karate kid in the latest instalment of the martial arts movie franchise. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/jackie-chan-ralph-macchio-join-martial-arts-forces-in-karate-kid-legends/article_941b946b-1e2e-4f18-b269-b945e7f7e441.html>
+
+---
+
+## Moving from the challenge to the change:  DYS strikes out child abuse and wraps up April doing things differently across the CNMI
+
+date: 2025-05-28, updated: 2025-05-29, from: Marianas Variety
+
+(DCCA-DYS) — The Department of Community &amp; Cultural Affairs-Division of Youth Services is sending out a heartfelt thank you to every single person who showed up, stood with DYS, and helped make this year’s Child Abuse and Neglect Prevention and Awareness Month one of the most powerful in years. April was packed — from early morning roadside waving to packed softball fields, outreach booths, and school hallways, DYS was out in full force and so was the community. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/moving-from-the-challenge-to-the-change-dys-strikes-out-child-abuse-and-wraps-up/article_8ac04463-1038-41e1-baff-ad50488f607a.html>
 
 ---
 
@@ -232,6 +565,20 @@ date: 2025-05-28, from: Hawaii Tribune Harold
 
 ---
 
+## Kilauea summit lookout reopens for the first time since 2018
+
+date: 2025-05-28, from: Hawaii Tribune Harold
+
+
+				<p>An observation deck on Kilauea volcano&#8217;s summit that provides panoramic views of the caldera and Halema&#699;uma&#699;u crater has reopened in Hawaii Volcanoes National Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/28/hawaii-news/kilauea-summit-lookout-reopens-for-the-first-time-since-2018/>
+
+---
+
 ## Saipan's most iconic spots to get facelifts 
 
 date: 2025-05-28, from: Pacific Island Times
@@ -430,18 +777,6 @@ SINGAPORE (Reuters) — Shares were mixed on Tuesday as President Donald Trump's
 <br> 
 
 <https://www.mvariety.com/business/business_news/shares-mixed-dollar-struggles-on-trumps-chaotic-tariffs/article_3c27fc2a-13af-405e-a1b8-fac97b142154.html>
-
----
-
-## Poetry
-
-date: 2025-05-27, updated: 2025-05-28, from: Marianas Variety
-
- 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/poetry/article_61c05322-da60-4381-a2dc-769131276c00.html>
 
 ---
 

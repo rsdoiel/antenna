@@ -1,11 +1,27 @@
 ---
 title: food
-updated: 2025-05-28 14:08:24
+updated: 2025-05-29 06:08:14
 ---
 
 # food
 
-(date: 2025-05-28 14:08:24)
+(date: 2025-05-29 06:08:14)
+
+---
+
+## Greek Chicken Orzo
+
+date: 2025-05-29, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/05/Greek-Chicken-Orzo-1200-3057.jpg"/></div>
+<p>A flavour packed orzo (rice shaped pasta) with chicken, olives, roasted red peppers and feta! This is a super easy one-pan Mediterranean style chicken and orzo pasta that&#8217;s just packed with flavour! Chicken is marinated in a simple combination of olive oil, lemon, garlic and oregano before cooking it in a pan along with onions....</p>
+<p><a class="more-link" href="https://www.closetcooking.com/greek-chicken-orzo/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/greek-chicken-orzo/">Greek Chicken Orzo</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/greek-chicken-orzo/>
 
 ---
 

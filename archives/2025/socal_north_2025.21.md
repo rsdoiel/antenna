@@ -1,11 +1,98 @@
 ---
 title: socal north
-updated: 2025-05-28 14:08:19
+updated: 2025-05-29 06:08:09
 ---
 
 # socal north
 
-(date: 2025-05-28 14:08:19)
+(date: 2025-05-29 06:08:09)
+
+---
+
+## Best things to do this weekend in LA and SoCal: May 30 - June 1
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+WeHo Pride festivities kick off, a free comedy show, a latte art competition, outdoor salsa, a book giveaway and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-may-30-june1>
+
+---
+
+## Rubio says US will 'aggressively' revoke visas for many Chinese students
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+The announcement to revoke visas is the most drastic move yet to curtail the numbers of international students studying in the U.S. 
+
+<br> 
+
+<https://laist.com/news/education/rubio-says-us-will-aggressively-revoke-visas-for-many-chinese-students>
+
+---
+
+## Trump administration revokes legal status for 4-year-old with life-threatening condition
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+Her lawyers say she could die within days if she is deported, as the equipment that keeps her alive and out of the hospital is available only in the U.S. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-childrens-hospital-los-angeles>
+
+---
+
+## California tweaks trans athlete rules after Trump threatens to halt federal funding
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+The California Interscholastic Federation announced the change just hours after President Donald Trump threatened to withhold billions of dollars in federal education funds. 
+
+<br> 
+
+<https://laist.com/news/education/california-tweaks-trans-athlete-rules-after-trump-threatens-to-halt-federal-funding>
+
+---
+
+## Shipping company executive accused of running multi-billion-dollar smuggling scheme
+
+date: 2025-05-28, from: Longbeach Post
+
+<figure><img width="1024" height="562" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-1024x562.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-1024x562.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-300x165.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-768x421.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-192x105.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-1536x842.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-2048x1123.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-1200x658.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-1568x860.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/14132743/cargo-movement1-copy-925007-fsjp5cby-507087-BII9AGLx-400x219.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A federal indictment alleges he and another executive also bribed Mexican customs officials and paid kickbacks to drug cartels. </p>
+<p>The post <a href="https://lbpost.com/news/crime/executive-arrested-on-suspicion-of-running-multi-billion-dollar-smuggling-scheme">Shipping company executive accused of running multi-billion-dollar smuggling scheme</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/executive-arrested-on-suspicion-of-running-multi-billion-dollar-smuggling-scheme>
+
+---
+
+## Severe toxic algae bloom that sickened or killed hundreds of marine animals appears to be subsiding
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+The Marine Mammal Care Center in San Pedro is reporting no new animals with signs of toxicosis in recent days. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/toxic-algae-bloom-might-be-ending-marine-animals>
+
+---
+
+## LA firestorm survivors should update mailing addresses to get property tax refunds
+
+date: 2025-05-28, updated: 2025-05-28, from: The LAist
+
+Property tax relief letters, including refund checks, are getting returned because the homes they’re being sent to were destroyed in the fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-wildfire-property-tax-refund-letter-asessors-office>
 
 ---
 
@@ -73,7 +160,7 @@ The State Department has halted the scheduling of new visa interviews for foreig
 
 date: 2025-05-28, from: Longbeach Post
 
-<figure><img width="1024" height="555" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-400x217.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="555" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-1024x555.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-300x163.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-768x416.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea-400x217.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/12153048/12may25-5-12-25-port-8-556883-f6amo7gx-374470-ao7zl8Ea.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California jobs and revenue on and off the ports are feeling the effects of Trump’s tariffs.</p>
 <p>The post <a href="https://lbpost.com/news/ports/trump-trade-war-has-already-had-huge-effect-on-ca-ports">Trump trade war has already had huge effect on CA ports</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -99,9 +186,21 @@ date: 2025-05-28, from: Longbeach Post
 
 ---
 
+## LA invested millions in preschools. Less than four years later, it's offloading most. What happened?
+
+date: 2025-05-28, updated: 2025-05-29, from: The LAist
+
+Parents loved Los Angeles' licensed childcare centers. Now they're calling the program a "total failure." 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/los-angeles-invested-millions-city-preschools-closing-offloading>
+
+---
+
 ## Family found mother's dead body eaten by dogs at LA homeless encampment. They're demanding answers
 
-date: 2025-05-28, updated: 2025-05-28, from: The LAist
+date: 2025-05-28, updated: 2025-05-29, from: The LAist
 
 The medical examiner has not yet determined a cause of death. Lucrecia Macias Barajas' family said the encampment where her daughter found her mother's body had been a known problem for many years. 
 
@@ -120,18 +219,6 @@ The Los Angeles Homeless Services Authority is addressing a shortfall in this ye
 <br> 
 
 <https://laist.com/news/housing-homelessness/lahsa-issues-layoff-notices-to-11-employees-amid-budget-crisis>
-
----
-
-## LA invested millions in preschools. Less than four years later, it's offloading most. What happened?
-
-date: 2025-05-28, updated: 2025-05-28, from: The LAist
-
-Parents loved Los Angeles' licensed childcare centers. Now they're calling the program a "total failure." 
-
-<br> 
-
-<https://laist.com/news/education/early-childhood-education-pre-k/los-angeles-invested-millions-city-preschools-closing-offloading>
 
 ---
 

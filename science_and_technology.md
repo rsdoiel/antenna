@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-05-28 14:08:20
+updated: 2025-05-29 06:08:10
 ---
 
 # science and technology
 
-(date: 2025-05-28 14:08:20)
+(date: 2025-05-29 06:08:10)
+
+---
+
+## Billions of cookies up for grabs as experts warn over session security
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Law enforcement crackdowns are gathering pace but online marketplaces still teeming with valuable tokens</h4> <p>A VPN vendor says billions of stolen cookies currently on sale either on dark web or Telegram-based marketplaces remain active and exploitable.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/billions_of_cookies_available/>
+
+---
+
+## Apple has only 30 days to comply with EU DMA rules
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Users leaving App Store to make a third party payment must be free of charge, says Euro Commish</h4> <p>The European Commission (EC) this week released the full text of its decision that found Apple in violation of its digital competition rules, known as the Digital Markets Act (DMA).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/apple_has_only_about_30/>
+
+---
+
+## OpenAI model modifies shutdown script in apparent sabotage effort
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Even when instructed to allow shutdown, o3 sometimes tries to prevent it, research claims</h4> <p>A research organization claims that OpenAI machine learning model o3 might prevent itself from being shut down in some circumstances while completing an unrelated task.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/openai_model_modifies_shutdown_script/>
+
+---
+
+## European Commission: Make Europe Great Again... for startups
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Sick of paying the US tech tax and relinquishing talent to other continents, politicians finally wake up</h4> <p>The European Commission (EC) has kicked off a scheme to make Europe a better place to nurture global technology businesses, providing support throughout their lifecycle, from startup through to maturity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/european_commission_wants_tech_startups/>
+
+---
+
+## Sardina throws bait toward SUSE Enterprise Storage users
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Wiggles tiny price for FishOS Ceph-based wares as deprecation of Ceph continues</h4> <p>Sardina hopes to entice anyone still using SUSE Enterprise Storage (SES) over to FishOS instead with a price-based hook: a license fee of €1 per core, regardless of storage volume.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/sardina_entices_ses_users/>
+
+---
+
+## China to visit Earth’s ‘quasi-moon’ and bring a chunk of it back home
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Tianwen 2 probe launched Thursday and will also get up close with a comet</h4> <p>China’s National Space Agency today launched the nation’s first asteroid sample mission.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/china_tianwen_2_probe_launch/>
+
+---
+
+## HP Inc. hastens China exit as tariffs kick a hole in its profits
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Hiked prices and thinks that will make buyers nervous</h4> <p>HP Inc. is close to ending production of North-America-bound products in China, after US tariffs kicked a hole in its quarterly profits.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/hp_inc_q2_2025/>
+
+---
+
+## India none-too-subtly reminds Big Tech that local laws prohibit dark patterns
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>‘Consumers will not tolerate deceit’ Minister tells Amazon, Apple, Samsung and Uber</h4> <p>India’s government has reminded big tech companies that it has rules that prohibit the use of dark patterns – deceptive design practices that deliberately mislead and confuse customers of online services and apps – and called for an end to their use.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/india_nonetoosubtly_reminds_big_tech/>
+
+---
+
+## Trump tariffs ruled illegal within minutes of Musk announcing end of government role
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Hardware biz gets a reprieve but administration’s plans are unchanged</h4> <p><strong>World War Fee</strong>  The USA’s Court of International Trade has ruled the Trump administration improperly implemented its “Liberation Day” tariff policy, effectively blocking the imposition of the duties.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/trump_tariffs_trumped/>
+
+---
+
+## Trump trade policy to cost Nvidia $10.5B in lost H20 GPU revenues
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>But don&#39;t worry, sales are still up 69 percent</h4> <p>US export controls blocking the sale of Nvidia’s H20 GPUs to will cost the company $10.5 billion in lost revenues in the first half of the 2026 fiscal year, executives revealed on Wednesday&#39;s Q1 earnings call.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/nvidia_q1_fy_2026/>
+
+---
+
+## Victoria's Secret website laid bare for three days after 'security incident'
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Knickers outlet knackered</h4> <p>Underwear retailer Victoria&#39;s Secret’s website has been down for three days, with the company blaming an unspecified security problem.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/victoria_secrets_outage/>
+
+---
+
+## Elon Musk's xAI pays $300M to born-in-Russia messaging app Telegram to push Grok
+
+date: 2025-05-28, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Telegram to get 50% cut of xAI subscriptions too</h4> <p>Telegram founder Pavel Durov on Wednesday announced that the Dubai-based messaging service will make unspecified Grok models from Elon Musk&#39;s xAI available to users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/telegram_takes_300m_xai_cash/>
+
+---
+
+## Microsoft is opening Windows Update to third-party apps
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>Also in preview: a settings backup feature to support OS upgrades</h4> <p>Microsoft is previewing a Windows Update orchestration platform for app developers and management tool vendors, aiming to centralize update scheduling across Windows 11 devices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/microsoft_update_backup/>
+
+---
+
+## Here’s what it’ll take for Nvidia and other US chipmakers to flog AI chips in China
+
+date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+
+<h4>Jensen be limbo, Jensen be quick, Jensen go under the Uncle Sam’s limbo stick</h4> <p>Over the past few years, Uncle Sam has made it progressively harder for US chip designers to flog their AI wares in China. But not impossible.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/28/nvidia_us_chipmakers_ai_requirements_china/>
+
+---
+
+## Apple said to switch to year to identify releases of its operating systems
+
+date: 2025-05-28, from: OS News
+
+The next Apple operating systems will be identified by year, rather than with a version number, according to people with knowledge of the matter. That means the current iOS 18 will give way to “iOS 26,” said the people, who asked not to be identified because the plan is still private. Other updates will be known as iPadOS 26, macOS 26, watchOS 26, tvOS 26 and visionOS 26. Apple is making the change to bring consistency to its branding and move away from an approach that can be confusing to customers and developers. Today’s operating systems — including iOS 18, watchOS 12, macOS 15 and visionOS 2 — use different numbers because their initial versions didn’t debut at the same time. ↫ Mark Gurman at Bloomberg OK. 
+
+<br> 
+
+<https://www.osnews.com/story/142458/apple-said-to-switch-to-year-to-identify-releases-of-its-operating-systems/>
+
+---
+
+## The length of file names in early Unix
+
+date: 2025-05-28, from: OS News
+
+If you use Unix today, you can enjoy relatively long file names on more or less any filesystem that you care to name. But it wasn&#8217;t always this way. Research V7 had 14-byte filenames, and the System III/System V lineage continued this restriction until it merged with BSD Unix, which had significantly increased this limit as part of moving to a new filesystem (initially called the &#8216;Fast File System&#8217;, for good reasons). You might wonder where this unusual number came from, and for that matter, what the file name limit was on very early Unixes (it was 8 bytes, which surprised me; I vaguely assumed that it had been 14 from the start). ↫ Chris Siebenmann I love these historical explanations for seemingly arbitrary limitations. 
+
+<br> 
+
+<https://www.osnews.com/story/142456/the-length-of-file-names-in-early-unix/>
 
 ---
 
@@ -107,7 +299,7 @@ date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
 
 ## DuckDB flips lakehouse model with bring-your-own compute and metadata RDBMS
 
-date: 2025-05-28, updated: 2025-05-28, from: The Register (UK I.T. News)
+date: 2025-05-28, updated: 2025-05-29, from: The Register (UK I.T. News)
 
 <h4>Open source in-process OLAP system launches rival to Iceberg and Delta Lake table format, and more</h4> <p>With a combined market value of around $150 billion, Snowflake and Databricks have divergent visions on how to get customers&#39; analytics and machine learning tools to their data, which is often spread across different systems.…</p> 
 

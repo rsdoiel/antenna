@@ -1,11 +1,503 @@
 ---
 title: planet
-updated: 2025-05-28 14:08:18
+updated: 2025-05-29 06:08:08
 ---
 
 # planet
 
-(date: 2025-05-28 14:08:18)
+(date: 2025-05-29 06:08:08)
+
+---
+
+## Drivers urged to be aware of vulnerabilities this weekend
+
+date: 2025-05-29, from: RTÉ News
+
+An appeal has been launched by An Garda Síochána and the Road Safety Authority (RSA) calling on road users to be vigilant and never to drive under the influence of alcohol or drugs ahead of the bank holiday weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515701-bank-holiday-emergency/>
+
+---
+
+## US may use administrative process against Harvard
+
+date: 2025-05-29, from: RTÉ News
+
+The Trump administration signalled it might back off plans to immediately revoke Harvard University's ability to enrol foreign students because of several concerns, including its alleged failure to police antisemitism on campus, and would instead employ a lengthier administrative process. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0529/1515703-trump-harvard/>
+
+---
+
+## Russia says no response from Ukraine on Istanbul talks
+
+date: 2025-05-29, from: RTÉ News
+
+Russia has said it is still waiting for Ukraine to say whether it would attend peace talks in Istanbul on Monday, after Kyiv demanded Moscow send its peace terms before agreeing to the meeting. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0529/1515694-ukraine-russia/>
+
+---
+
+## Pope Leo XIV visits the Borgo Laudato Sì in Castel Gandolfo
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>Pope Leo XIV travels to Castel Gandalfo, where he pays a visit to the Borgo Laudato Sì, an area of the papal residence converted by Pope Francis into a space for formation and raising awareness about the care for our common home.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-visits-the-borgo-laudato-si-in-castel-gandolfo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-visits-the-borgo-laudato-si-in-castel-gandolfo.html>
+
+---
+
+## Triple Lock safeguards 'notional', senator tells cttee
+
+date: 2025-05-29, from: RTÉ News
+
+The Defence and National Security Committee is debating legislation that would remove the need for UN approval when deploying more than 12 members of the Defence Forces overseas when they are serving as part of an International Force. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0529/1515668-legislation-triple-lock/>
+
+---
+
+## Doherty says Govt 'incompetence' putting housing at risk
+
+date: 2025-05-29, from: RTÉ News
+
+Sinn Féin's Pearse Doherty has said the Government's incompetence is putting the development of thousands of homes at risk. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0529/1515669-politics-dail/>
+
+---
+
+## Marked increase in disruptive behaviour at Dublin Airport
+
+date: 2025-05-29, from: RTÉ News
+
+There has been an 80% increase in incidents of disruptive passenger behaviour reported at Dublin Airport so far this year compared to the entire number of incidents recorded in 2024, according to figures from the Irish Aviation Authority. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515632-dublin-airport-behaviour/>
+
+---
+
+## Pedestrian dies after being struck by car in Co Offaly
+
+date: 2025-05-29, from: RTÉ News
+
+A man in his 50s has died after he was struck by a car in Co Offaly last night. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0529/1515646-offaly-cloghan-rtc/>
+
+---
+
+## South African woman jailed for life for selling daughter
+
+date: 2025-05-29, from: RTÉ News
+
+A South African court has sentenced a woman to life in prison for kidnapping and selling her six-year-old daughter, in a case that horrified the country. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0529/1515640-south-africa-court/>
+
+---
+
+## What else can Trump do on tariffs after court ruling?
+
+date: 2025-05-29, from: RTÉ News
+
+A US trade court blocked most of President Donald Trump's tariffs in a sweeping ruling that found the president had overstepped his authority by imposing across-the-board duties on imports from US trading partners. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0529/1515633-explainer-trump-tariffs/>
+
+---
+
+## Situation in Gaza reaches ‘catastrophic levels’ 
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>As the situation continues to deteriorate in Gaza, the regional director of CNEWA-Pontifical Mission for Palestine and Israel details the difficulties facing Palestinians and the organization’s work to provide humanitarian aid.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/cnewa-pontifical-mission-palestine-israel-situation-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/cnewa-pontifical-mission-palestine-israel-situation-gaza.html>
+
+---
+
+## Jury in Adams defamation case begins deliberations
+
+date: 2025-05-29, from: RTÉ News
+
+The jury in the defamation case taken by former Sinn Féin leader Gerry Adams has begun deliberating. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0529/1515603-courts-adams/>
+
+---
+
+## Pope Leo XIV to greet Giro d'Italia cyclists passing through Vatican
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>Pope Leo XIV will greet Giro d'Italia bicyclists passing through Vatican City on Sunday, 1 June, in memory of Pope Francis, who had welcomed the proposal presented by Cardinal José Tolentino de Mendonça, Prefect of the Dicastery for Culture and Education.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-to-greet-giro-d-italia-bicyclists-passing-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-to-greet-giro-d-italia-bicyclists-passing-vatican.html>
+
+---
+
+## Vatican's official website for Papal Magisterium gets new look
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>The Holy See’s official website Vatican.va has a new, modern design, presenting papal teaching to the world in a more accessible format, according to the Dicastery for Communication.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/vatican-va-papal-magisterium-pope-leo-xiv-new-design.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/vatican-va-papal-magisterium-pope-leo-xiv-new-design.html>
+
+---
+
+## 'It was every man for himself' - Heysel Stadium survivor
+
+date: 2025-05-29, from: RTÉ News
+
+A survivor of the Heysel Stadium tragedy has recounted his experience 40 years ago when 39 people were killed after a wall collapsed on fans at the European Cup Final match between Juventus and Liverpool in Brussels. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515600-heysel-stadium-survivor/>
+
+---
+
+## Watch: Huge glacier breaks off and buries Swiss village
+
+date: 2025-05-29, from: RTÉ News
+
+A huge chunk of a glacier in the Swiss Alps broke off, causing a deluge of ice, mud and rock that buried most of a mountain village that had been evacuated due to the risk of a rockslide, authorities said. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0529/1515604-swiss-village-glacier/>
+
+---
+
+## 'Waking up in hell' - mistaken identity firebomb attack
+
+date: 2025-05-29, from: RTÉ News
+
+A family in Ballyfermot in Dublin has said it was like "waking up in hell" after their home was firebombed in the early hours of the morning last week. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0529/1515598-ballyfermot-dublin/>
+
+---
+
+## Key moments from Musk's brief tenure as Trump's adviser
+
+date: 2025-05-29, from: RTÉ News
+
+Billionaire Elon Musk has said he is leaving his role in the US government, in which he was tasked with reducing federal spending, shortly after his first major break with Donald Trump over the president's signature spending bill. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0529/1515592-musk-moments/>
+
+---
+
+## US says it will start revoking visas for Chinese students
+
+date: 2025-05-29, from: RTÉ News
+
+US Secretary of State Marco Rubio has announced that the United States will start "aggressively" revoking visas of Chinese students, including those with connections to the Chinese Communist Party or studying in critical fields. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0529/1515591-us-china/>
+
+---
+
+## Second day of Laois search in Fiona Pender investigation
+
+date: 2025-05-29, from: RTÉ News
+
+A second search as part of the investigation into the disappearance and murder of Offaly woman Fiona Pender is continuing this morning at a location in the Slieve Bloom mountains in Co Laois. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515593-fiona-pender-investigation/>
+
+---
+
+## Israeli minister announces 22 settlements in West Bank
+
+date: 2025-05-29, from: RTÉ News
+
+Far-right Israeli Finance Minister Bezalel Smotrich has announced the creation in the occupied West Bank of 22 new settlements, which are considered illegal under international law. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515577-israel-west-bank-settlements/>
+
+---
+
+## Jury resumes deliberations in Richard Satchwell trial
+
+date: 2025-05-29, from: RTÉ News
+
+The jury in the trial of Richard Satchwell has resumed its deliberations. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0529/1515572-richard-satchwell/>
+
+---
+
+## Apostolic Nuncio to Ukraine: As a Church and as humanity, we continue to pray
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>The Apostolic Nuncio to Ukraine, Archbishop Visvaldas Kulbokas, says that the recent Russia-Ukraine prisoner exchange shows that “even if political issues remain unresolved, dialogue is at least useful from a humanitarian standpoint.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/apostolic-nuncio-to-nuncio-as-church-we-continue-to-pray.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/apostolic-nuncio-to-nuncio-as-church-we-continue-to-pray.html>
+
+---
+
+## Senior Kinahan figure on way to Ireland after extradition
+
+date: 2025-05-29, from: RTÉ News
+
+One of the most senior figures in the Kinahan Organised Crime Group, who is wanted in Ireland to face charges of murder and involvement with a criminal gang, has been extradited from the United Arab Emirates. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515567-kinahan-extradition/>
+
+---
+
+## Which tariffs did a US court block
+
+date: 2025-05-29, from: RTÉ News
+
+A federal court in New York handed US President Donald Trump a big setback, blocking his audacious plan to impose massive taxes on imports from almost every country in the world. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515558-tariffs-court/>
+
+---
+
+## Floral coat of arms for Pope Leo XIV unveiled in Vatican Gardens
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>Within the Vatican Gardens, a floral reproduction of Pope Leo XIV’s coat of arms has been unveiled, which took two weeks to complete by the Gardens and Environment Service of the Directorate of Infrastructure and Services of the Governatorate.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-05/floral-coat-of-arms-for-pope-leo-xiv-unveiled-in-vatican-gardens.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-05/floral-coat-of-arms-for-pope-leo-xiv-unveiled-in-vatican-gardens.html>
+
+---
+
+## Eurovision 2025 watched by 166 million
+
+date: 2025-05-29, from: RTÉ News
+
+The Eurovision Song Contest confirmed its place as the world's biggest live televised music event with 166 million viewers in 37 countries watching the 2025 competition, organisers have said. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0529/1515555-eurovision-2025-watched-by-166-million/>
+
+---
+
+## Arts Council 'regrets' €6.7m IT failure, PAC hears
+
+date: 2025-05-29, from: RTÉ News
+
+The Arts Council has said it "greatly regrets" spending €6.7 million on a complex IT project that was later abandoned, the Public Accounts Committee has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515547-public-accounts-committee/>
+
+---
+
+## Two TDs reiterate support for Govt after backing SF bill
+
+date: 2025-05-29, from: RTÉ News
+
+The two Independent TDs who voted against the Government in the Dáil last night have insisted that they will continue to support the Coalition in the time ahead. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0529/1515546-israeli-bonds-bill/>
+
+---
+
+## Gaza civil defence says 44 killed in Israel attacks
+
+date: 2025-05-29, from: RTÉ News
+
+Gaza's civil defence agency said Israeli attacks killed 44 people, including 23 in a strike on a home in the centre of the Palestinian territory. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0529/1515553-israel-gaza/>
+
+---
+
+## Saudi Arabia is opening up its economy and its society. Why has Canada been so slow to capitalize on that?
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7542404.1748024417!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/usa-trump-gulf-saudi.jpeg' alt='People stand with camels, on the day U.S. President Donald Trump visits At-Turaif World Heritage Site, in Diriyah, Saudi Arabia, May 13, 2025. ' width='620' height='349' title='People stand with camels, on the day U.S. President Donald Trump visits At-Turaif World Heritage Site, in Diriyah, Saudi Arabia, May 13, 2025. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/saudi-arabia-canada-relations-1.7542355?cmp=rss>
+
+---
+
+## Followed, threatened and smeared — attacks by China against its critics in Canada are on the rise
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7546554.1748476415!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/tibet-20080331-topix.jpg' alt='A placard reading &apos;Stop the killing in Tibet&apos; is held up amid a large crowd of protesters. ' width='620' height='349' title='Protesters gather in front of Toronto city hall to protest China&apos;s occupation of Tibet, Monday, March 31,  2008.  '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/china-targets-dissidents-canada-1.7543745?cmp=rss>
+
+---
+
+## Xenon gas could speed Everest treks. There's concern it could also leave climbers dangerously unprepared
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7546456.1748490682!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nepal-everest-speed.jpg' alt='Four men in black parkas and snow pants wave a British flag while standing on the top of a mountain. ' width='620' height='349' title='Four British climbers pose on the summit of Mount Everest in Nepal on Wednesday, May 21, 2025. The mountain guide who arranged their trek said he and the team had inhaled xenon gas in Germany before embarking on the expedition where they reached the 8,848 metre peak of Everest less than five days after departing London.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/xenon-gas-mount-everest-climbing-1.7545997?cmp=rss>
+
+---
+
+## Musk leaving Trump administration - White House official
+
+date: 2025-05-29, from: RTÉ News
+
+Billionaire Tesla CEO Elon Musk is leaving the Trump administration after leading the so-called Department of Government Efficiency in a controversial effort to slash federal spending. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0529/1515552-elon-musk-trump-administration/>
+
+---
+
+## US court blocks Trump's tariffs from going into effect
+
+date: 2025-05-29, from: RTÉ News
+
+A US trade court has blocked President Donald Trump's tariffs from going into effect in a sweeping ruling that the president overstepped his authority by imposing across the board duties on imports from nations that sell more to the United States than they buy. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0529/1515551-us-tariffs/>
+
+---
+
+## Highest rate of contacts to rape crisis centre in 2024
+
+date: 2025-05-29, from: RTÉ News
+
+Disclosures of sexual violence to the Dublin Rape Crisis Centre last year reached the highest rate in the organisation's 46-year history, according to its latest annual report. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515548-dublin-rape-crisis-centre-report/>
+
+---
+
+## Portugal's far-right Chega becomes main opposition party
+
+date: 2025-05-28, from: RTÉ News
+
+Portugal's far-right, anti-establishment party Chega has overtaken the centre-left Socialists to become the main opposition party for the first time after the final tally of ballots from abroad in a snap election. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0528/1515542-portugal-election/>
+
+---
+
+## Elon Musk leaves Trump administration after leading effort to slash U.S. government
+
+date: 2025-05-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7546603.1748481520!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/elon-musk-attending-a-meeting-in-the-oval-office.jpg' alt='A side profile of the face of Elon Musk.' width='620' height='349' title='Elon Musk attends a meeting between U.S. President Donald Trump and South Africa President Cyril Ramaphosa in the Oval Office at the White House on May 21, 2025 in Washington, DC.'/><p>Elon Musk is leaving his government role as a top adviser to U.S. President Donald Trump after spearheading efforts to reduce and overhaul the federal bureaucracy.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/musk-leaves-trump-advisory-role-1.7546598?cmp=rss>
+
+---
+
+## Blow for Government as two TDs back SF Israeli bonds bill
+
+date: 2025-05-28, from: RTÉ News
+
+The Government suffered a blow tonight as two of the TDs that have supported it in every vote up to this point backed Sinn Féin's bill to prevent the Central Bank from having any role in the sale of Israel's bonds, writes Mícheál Lehane 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0528/1515535-independents-israel-bonds/>
 
 ---
 
@@ -97,7 +589,7 @@ date: 2025-05-28, from: Vatican News
 
 ---
 
-## "My heart is displaced" - Sligo doctor after Gaza deaths
+## 'My heart is displaced' - Sligo doctor after Gaza deaths
 
 date: 2025-05-28, from: RTÉ News
 
@@ -337,7 +829,7 @@ In Gaza, dozens of Palestinians have been reportedly injured and shot trying to 
 
 ## Climate change: World likely to breach 1.5°C limit in next five years
 
-date: 2025-05-28, from: United Nations, Climate Change
+date: 2025-05-28, from: United Nations, Top Stories
 
 Fact: 2024 was the warmest year on record – but the heat is far from over. A new report from the World Meteorological Organization (WMO) warns that global temperatures will likely continue rising, with an 80 per cent chance that at least one year between now and 2029 will be even hotter. 
 
@@ -387,7 +879,7 @@ An Indigenous&nbsp;social worker from Canada and a social entrepreneur from Keny
 
 date: 2025-05-28, from: United Nations, Top Stories
 
-Russian drone attacks against civilians in the Kherson region of Ukraine constitute crimes against humanity and war crimes, independent UN human rights investigators concluded in a report published on Wednesday.&nbsp; 
+Russian drone attacks against civilians in the Kherson region of Ukraine constitute crimes against humanity and war crimes, independent UN-appointed human rights investigators concluded in a new report published on Wednesday.&nbsp; 
 
 <br> 
 
@@ -416,6 +908,30 @@ Gaza’s population is being “starved and denied the very basics,” while the
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163766>
+
+---
+
+## Pandemics to pollution: WHO Assembly delivers landmark health decisions
+
+date: 2025-05-28, from: United Nations, Top Stories
+
+The 78th World Health Assembly concluded Tuesday in Geneva, marking several major milestones in global health. Delegates adopted the world’s first pandemic agreement and approved a significant boost in core funding for the World Health Organization (WHO). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163816>
+
+---
+
+## Sudan war exacerbates risk of cholera and malaria: UNICEF
+
+date: 2025-05-28, from: United Nations, Top Stories
+
+The UN Children’s Fund (UNICEF) has warned of an escalating public health crisis in Sudan, as conflict and mass displacement continue to drive a surge in disease, particularly cholera and malaria. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163811>
 
 ---
 
@@ -727,7 +1243,7 @@ Adult tickets for this year's Munster SHC decider between Limerick and Cork at T
 
 date: 2025-05-28, from: RTÉ News
 
-The Palestinian ambassador to the United Nations has described the suffering of Palestinian children as "unbearable" as he broke down in tears during an emotional address to the Security Council. 
+The Palestinian Ambassador to the United Nations has described the suffering of Palestinian children as "unbearable" as he broke down in tears during an emotional address to the Security Council. 
 
 <br> 
 
@@ -1179,6 +1695,18 @@ date: 2025-05-27, from: Vatican News
 
 ---
 
+## Connolly loving colour and passion of life in Serie A
+
+date: 2025-05-27, from: RTÉ News
+
+Megan Connolly took the plunge by moving to Lazio last summer. The Cork woman has no regrets as she looks towards two important Nations League games with the Republic of Ireland. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0527/1515243-connolly-loving-colour-and-passion-of-life-in-serie-a/>
+
+---
+
 ## Dobson to chair State Commemorations Advisory Committee
 
 date: 2025-05-27, from: RTÉ News
@@ -1291,6 +1819,18 @@ date: 2025-05-27, from: CBC, World News
 
 ---
 
+## This group walked nearly 400 km to raise awareness about bullying, violence in First Nations
+
+date: 2025-05-27, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7544762.1748358338!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/josh-nanokeesic-memory-walk.jpg' alt='A group of 10 people stand outside, holding signs.' width='620' height='349' title='Walkers make their way toward Thunder Bay City Hall after travelling nearly 400 kilometres from Sioux Lookout to raise awareness about bullying and violence.'/><p>The third and final Bullying Awareness Walk in memory of Josh Nanokeesic wrapped up in Thunder Bay, Ont., on Monday. A group of First Nation members walked nearly 400 kilometres from Sioux Lookout to raise awareness about bullying, violence and the impact on young people's mental health.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/josh-nanokeesic-memory-walk-2025-1.7544757?cmp=rss>
+
+---
+
 ## Bruce Springsteen donated $20,000 to striking miners
 
 date: 2025-05-27, from: RTÉ News
@@ -1317,7 +1857,7 @@ date: 2025-05-27, from: CBC, World News
 
 ## Real cost of disasters is 10 times higher than previously thought, says UN
 
-date: 2025-05-27, from: United Nations, Climate Change
+date: 2025-05-27, from: United Nations, Top Stories
 
 As countries face increasingly steep bills from natural hazards, the true cost of disasters is actually 10 times higher than previously estimated, with far-reaching effects across healthcare, housing, education and employment. 
 
@@ -1377,7 +1917,7 @@ As the war between rival militaries in Sudan continues, the World Health Organiz
 
 ## UN aims to transform urgency into action at Nice Ocean Conference
 
-date: 2025-05-27, from: United Nations, Climate Change
+date: 2025-05-27, from: United Nations, Top Stories
 
 Countries are uniting in the French city of Nice next month to save the marine environment.&nbsp; 
 
@@ -1396,6 +1936,18 @@ Special biosecurity regulations for poultry that were in place due to the increa
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0527/1515201-bird-flu-regulations/>
+
+---
+
+## Wildfires force thousands from homes, destroy Sask. Public Safety Agency compound
+
+date: 2025-05-27, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7545467.1748386044!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/little-bear-lake.JPG' alt='A view of a smoky sky overlooking a lake.' width='620' height='349' title='Smoke fills the sky at Little Bear Lake, Sask., on Monday. Little Bear Lake is one of many communities in the province evacuated this week due to wildfires.'/><p>Wildfires have prompted evacuations of many northern Saskatchewan communities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-wildfire-update-may-27-1.7544741?cmp=rss>
 
 ---
 

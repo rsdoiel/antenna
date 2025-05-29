@@ -1,11 +1,320 @@
 ---
 title: snapshots
-updated: 2025-05-28 14:08:25
+updated: 2025-05-29 06:08:15
 ---
 
 # snapshots
 
-(date: 2025-05-28 14:08:25)
+(date: 2025-05-29 06:08:15)
+
+---
+
+## No One Knows How to Deal With 'Student-on-Student' AI CSAM
+
+date: 2025-05-29, from: 404 Media Group
+
+A new report from Stanford finds that schools, parents, police, and our legal system are not prepared to deal with the growing problem of minors using AI to generate CSAM of other minors.  
+
+<br> 
+
+<https://www.404media.co/no-one-knows-how-to-deal-with-student-on-student-ai-csam/>
+
+---
+
+## Summer Can’t-Reads
+
+date: 2025-05-29, updated: 2025-05-29, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/29/summer-cant-reads/>
+
+---
+
+## The Trade Emperor Has Always Been Stark Naked
+
+date: 2025-05-29, from: Paul Krugman
+
+But it&#8217;s a shock to see someone say it 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-trade-emperor-has-always-been>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-29, from: Feed for Alt USDS)
+
+DOGE has gone quiet but the cruel spirit of their work is still going, just not in the news as loudly. 
+
+This is yet another dangerous "combine all the data" use case where they will get it wrong and people will suffer for it.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqcojtv7222a>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+How safe is the food supply after federal cutbacks? Experts are worried. 
+
+<br> 
+
+<https://www.mprnews.org/story/2025/05/29/npr-food-safety-inspection-fda-usda>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+Come At Me, Bro. 
+
+<br> 
+
+<https://www.thecrimson.com/article/2025/5/27/sperling-milner-linda-mcmahon-harvard-wwe/>
+
+---
+
+## First monthly sponsor newsletter tomorrow
+
+date: 2025-05-29, updated: 2025-05-29, from: Simon Willison’s Weblog
+
+<p>I'll be sending out my first <a href="https://simonwillison.net/2025/May/25/sponsors-only-newsletter/">curated monthly highlights newsletter</a> tomorrow, only to $10/month and up sponsors. <a href="https://github.com/sponsors/simonw/">Sign up now</a> if you want to pay me to send you less!</p>
+<p>My <a href="https://simonw.substack.com/">weekly-ish</a> newsletter remains free, in fact I just sent out <a href="https://simonw.substack.com/p/large-language-models-can-run-tools">the latest edition</a>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/newsletter">newsletter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/29/newsletter-tomorrow/#atom-everything>
+
+---
+
+## llm-github-models 0.15
+
+date: 2025-05-29, updated: 2025-05-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/tonybaloney/llm-github-models/releases/tag/0.15">llm-github-models 0.15</a></strong></p>
+Anthony Shaw's <a href="https://github.com/tonybaloney/llm-github-models">llm-github-models</a> plugin just got an upgrade: it now supports <a href="https://simonwillison.net/2025/May/27/llm-tools/">LLM 0.26 tool use</a> for a subset of the models hosted on the <a href="https://docs.github.com/en/github-models">GitHub Models API</a>, contributed by <a href="https://github.com/cmbrose">Caleb Brose</a>.</p>
+<p>The neat thing about this GitHub Models plugin is that it picks up an API key from your <code>GITHUB_TOKEN</code> - and if you're running LLM within a GitHub Actions worker the API key provided by the worker should be enough to start executing prompts!</p>
+<p>I tried it out against <a href="https://cohere.com/blog/command-a">Cohere Command A</a> via GitHub Models like this (<a href="https://gist.github.com/simonw/11452eb6cf4d024935419bbc541430b9">transcript here</a>):</p>
+<pre><code>llm install llm-github-models
+llm keys set github
+# Paste key here
+llm -m github/cohere-command-a -T llm_time 'What time is it?' --td
+</code></pre>
+<p>We now have seven LLM plugins that provide tool support, covering <a href="https://llm.datasette.io/en/stable/openai-models.html">OpenAI</a>, <a href="https://github.com/simonw/llm-anthropic">Anthropic</a>, <a href="https://github.com/simonw/llm-gemini">Gemini</a>, <a href="https://github.com/simonw/llm-mistral">Mistral</a>, <a href="https://github.com/taketwo/llm-ollama">Ollama</a>, <a href="https://github.com/simonw/llm-llama-server">llama-server</a> and now GitHub Models.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthony-shaw">anthony-shaw</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/29/llm-github-models-015/#atom-everything>
+
+---
+
+## 298: Orbital Supercomputer
+
+date: 2025-05-29, from: Fix the News
+
+'Houston, those labels aren't in English.' Plus, global suicide rates are down, a massive new ecological corridor in Kyrgyzstan, a quiet victory for LGBTQ rights in Lithuania, and a ton of bad news for the coal industry. 
+
+<br> 
+
+<https://fixthenews.com/298-orbital-supercomputer/>
+
+---
+
+## llm-tools-exa
+
+date: 2025-05-29, updated: 2025-05-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/daturkel/llm-tools-exa">llm-tools-exa</a></strong></p>
+When I <a href="https://simonwillison.net/2025/May/27/llm-tools/">shipped LLM 0.26</a> yesterday one of the things I was most excited about was seeing what new tool plugins people would build for it.</p>
+<p>Dan Turkel's <a href="https://github.com/daturkel/llm-tools-exa">llm-tools-exa</a> is one of the first. It adds web search to LLM using <a href="https://exa.ai/">Exa</a> (<a href="https://simonwillison.net/2025/Mar/10/llm-openrouter-04/">previously</a>), a relatively new search engine offering that rare thing, an API for search. They have a free preview, you can <a href="https://dashboard.exa.ai/api-keys">grab an API key here</a>.</p>
+<p>I'm getting pretty great results! I tried it out like this:</p>
+<pre><code>llm install llm-tools-exa
+llm keys set exa
+# Pasted API key here
+
+llm -T web_search "What's in LLM 0.26?"
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/b5780859f1dc68695fef496f44780595#response-1">the full answer</a> - it started like this:</p>
+<blockquote>
+<p>LLM 0.26 was released on May 27, 2025, and the biggest new feature in this version is official support for tools. Here's a summary of what's new and notable in LLM 0.26:</p>
+<ul>
+<li>LLM can now run tools. You can grant LLMs from OpenAI, Anthropic, Gemini, and local models access to any tool you represent as a Python function.</li>
+<li>Tool plugins are introduced, allowing installation of plugins that add new capabilities to any model you use.</li>
+<li>Tools can be installed from plugins and loaded by name with the --tool/-T option.
+[...]</li>
+</ul>
+</blockquote>
+<p>Exa provided 21,000 tokens of search results, including what looks to be a full copy of my blog entry and the release notes for LLM.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/apis">apis</a>, <a href="https://simonwillison.net/tags/search">search</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/29/llm-tools-exa/#atom-everything>
+
+---
+
+## llm-mistral 0.14
+
+date: 2025-05-29, updated: 2025-05-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-mistral/releases/tag/0.14">llm-mistral 0.14</a></strong></p>
+I <a href="https://github.com/simonw/llm-mistral/issues/31">added tool-support</a> to my plugin for accessing the Mistral API from LLM today, plus support for Mistral's new <a href="https://simonwillison.net/2025/May/28/codestral-embed/">Codestral Embed</a> embedding model.</p>
+<p>An interesting challenge here is that I'm not using an official client library for <code>llm-mistral</code> - I rolled my own client on top of their streaming HTTP API using Florimond Manca's <a href="https://github.com/florimondmanca/httpx-sse">httpx-sse</a> library. It's a very pleasant way to interact with streaming APIs - here's <a href="https://github.com/simonw/llm-mistral/blob/098a4eaf624a3a723f91381915f93b4783d498bc/llm_mistral.py#L456-L502">my code that does most of the work</a>.</p>
+<p>The problem I faced is that Mistral's API <a href="https://docs.mistral.ai/capabilities/function_calling/">documentation for function calling</a> has examples in Python and TypeScript but doesn't include <code>curl</code> or direct documentation of their HTTP endpoints!</p>
+<p>I needed documentation at the HTTP level. Could I maybe extract that directly from Mistral's official Python library?</p>
+<p>It turns out <a href="https://github.com/simonw/llm-mistral/issues/31#issuecomment-2917121330">I could</a>. I started by cloning the repo:</p>
+<div class="highlight highlight-source-shell"><pre>git clone https://github.com/mistralai/client-python
+<span class="pl-c1">cd</span> client-python/src/mistralai
+files-to-prompt <span class="pl-c1">.</span> <span class="pl-k">|</span> ttok</pre></div>
+
+<p>My <a href="https://github.com/simonw/ttok">ttok</a> tool gave me a token count of 212,410 (counted using OpenAI's tokenizer, but that's normally a close enough estimate) - Mistral's models tap out at 128,000 so I switched to Gemini 2.5 Flash which can easily handle that many.</p>
+<p>I ran this:</p>
+<div class="highlight highlight-source-shell"><pre>files-to-prompt -c <span class="pl-c1">.</span> <span class="pl-k">&gt;</span> /tmp/mistral.txt
+
+llm -f /tmp/mistral.txt \
+  -m gemini-2.5-flash-preview-05-20 \
+  -s <span class="pl-s"><span class="pl-pds">'</span>Generate comprehensive HTTP API documentation showing
+how function calling works, include example curl commands for each step<span class="pl-pds">'</span></span></pre></div>
+
+<p>The results were pretty spectacular! Gemini 2.5 Flash produced a <a href="https://gist.github.com/simonw/03f2049cd9af6dc072e1ee33461f3437#response">detailed description</a> of the exact set of HTTP APIs I needed to interact with, and the JSON formats I should pass to them.</p>
+<p>There are a bunch of steps needed to get tools working in a new model, as described in <a href="https://llm.datasette.io/en/stable/plugins/advanced-model-plugins.html#supporting-tools">the LLM plugin authors documentation</a>. I started working through them by hand... and then got lazy and decided to see if I could get a model to do the work for me.</p>
+<p>This time I tried the new Claude Opus 4. I fed it three files: my existing, incomplete <code>llm_mistral.py</code>, a full copy of <a href="https://github.com/simonw/llm-gemini/blob/6177aa2a0676bf004b374a8863914585aa93ca52/llm_gemini.py">llm_gemini.py</a> with its working tools implementation and a copy of the API docs Gemini had written for me earlier. I prompted:</p>
+<blockquote>
+<p><code>I need to update this Mistral code to add tool support. I've included examples of that code for Gemini, and a detailed README explaining the Mistral format.</code></p>
+</blockquote>
+<p>Claude churned away and wrote me code that was <em>most</em> of what I needed. I tested it in a bunch of different scenarios, pasted problems back into Claude to see what would happen, and eventually took over and finished the rest of the code myself. Here's <a href="https://claude.ai/share/7c609a61-4b32-45ca-bdca-31bf4ef25d2d">the full transcript</a>.</p>
+<p>I'm a little sad I didn't use Mistral to write the code to support Mistral, but I'm pleased to add yet another model family to the list that's supported for tool usage in LLM.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-4">claude-4</a>, <a href="https://simonwillison.net/tags/httpx">httpx</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/29/llm-mistral-014/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+The Sad Trombones Are Playing on Trump’s Tariff Parade. 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/the-sad-trombones-on-playing-on-trumps-tariff-parade>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+Elon Musk bids farewell to White House but says Doge will continue. 
+
+<br> 
+
+<https://www.bbc.com/news/articles/cz9y4exj822o>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+Federal trade court blocks Trump&#39;s sweeping &#39;Liberation Day&#39; tariffs. 
+
+<br> 
+
+<https://apnews.com/article/trump-tariffs-trade-court-0392dbd59f548e49ad4f64254ae3f94a>
+
+---
+
+## Is There a Dignified Legal Way, Preferably in Latin, to Say "Holy Shit"?
+
+date: 2025-05-29, from: Paul Krugman
+
+A court just threw out Trump's whole trade agenda 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/is-there-a-dignified-legal-way-preferably>
+
+---
+
+## Who washes their hands?
+
+date: 2025-05-29, updated: 2025-05-29, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/05/29/who-is-clean/>
+
+---
+
+## Profiling Websites
+
+date: 2025-05-29, from: Marginallia log
+
+The most recent change to the search engine is a system that profiles websites based on their rendered DOM. The goal is identifying advertisements, trackers, nuisance popovers, and similar elements.
+The search engine already tries to do this, but isn&rsquo;t very good at it because it&rsquo;s only looking at static code.
+It turns out to be somewhat difficult to determine what a website that has non-trivial javascript will look like based its source code alone, as this would require us to among other things solve the halting problem. 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_121_profiling_websites/>
+
+---
+
+## 569. Hannibal: Elephants Cross the Alps (Part 2)
+
+date: 2025-05-28, from: This is history podcast
+
+<p>Why did Hannibal choose to cross the Alps with his elephants in 218 BC, when invading Rome? Was it a brilliant stratagem or a military disaster? What was the secret to the Roman Republic’s growing military success at this time? And, why did Carthage, under Hannibal’s formidable generalship, believe they were more than capable of [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/569-hannibal-elephants-cross-the-alps-part-2/">569. Hannibal: Elephants Cross the Alps (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/569-hannibal-elephants-cross-the-alps-part-2/>
+
+---
+
+## Join me tomorrow for a live video chat with Barry Diller, Thursday May 29 at 2pm ET.
+
+date: 2025-05-28, from: Tina Brown
+
+Join me tomorrow, 2pm ET, for a live video chat with Barry Diller, whose book I wrote about here. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-me-tomorrow-for-a-live-video>
+
+---
+
+## AI-assisted development needs automated tests
+
+date: 2025-05-28, updated: 2025-05-28, from: Simon Willison’s Weblog
+
+<p>I wonder if one of the reasons I'm finding LLMs so much more useful for coding than a lot of people that I see in online discussions is that effectively <em>all</em> of the code I work on has automated tests.</p>
+<p>I've been trying to stay true to the idea of a <a href="https://simonwillison.net/2022/Oct/29/the-perfect-commit/">Perfect Commit</a> - one that bundles the implementation, tests and documentation in a single unit - for over five years now. As a result almost every piece of (non <a href="https://simonwillison.net/tags/vibe-coding/">vibe-coding</a>) code I work on has pretty comprehensive test coverage.</p>
+<p>This <em>massively</em> derisks my use of LLMs. If an LLM writes weird, convoluted code that solves my problem I can prove that it works with tests - and then have it refactor the code until it looks good to me, keeping the tests green the whole time.</p>
+<p>LLMs help write the tests, too. I finally have a 24/7 pair programmer who can remember how to use <a href="https://docs.python.org/3/library/unittest.mock.html">unittest.mock</a>!</p>
+<p>Next time someone complains that they've found LLMs to be more of a hindrance than a help in their programming work, I'm going to try to remember to ask after the health of their test suite.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/testing">testing</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/28/automated-tests/#atom-everything>
 
 ---
 
@@ -1002,6 +1311,18 @@ date: 2025-05-27, updated: 2025-05-27, from: Anil Dash
 <br> 
 
 <https://anildash.com/2025/05/27/2025-05-27-internet-of-consent/>
+
+---
+
+## The Internet of Consent
+
+date: 2025-05-27, updated: 2025-05-27, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/05/27/internet-of-consent/>
 
 ---
 
@@ -2069,7 +2390,7 @@ date: 2025-05-25, updated: 2025-05-25, from: Simon Willison’s Weblog
 <p>This blog and <a href="https://simonw.substack.com/">my newsletter</a> will continue at their same breakneck pace. Paying subscribers can get a <em>lower</em> volume of stuff.</p>
 <p>I'm cautiously optimistic that this could work. I've never liked the idea of business models that incentivize me to publish less. This feels like it encourages me to do what I'm doing already while giving people a rational reason to support my work, at a relatively small incremental cost to myself.</p>
 
-    <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/email">email</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/email">email</a>, <a href="https://simonwillison.net/tags/newsletter">newsletter</a></p> 
 
 <br> 
 

@@ -1,11 +1,116 @@
 ---
 title: journalism
-updated: 2025-05-28 14:08:22
+updated: 2025-05-29 06:08:12
 ---
 
 # journalism
 
-(date: 2025-05-28 14:08:22)
+(date: 2025-05-29 06:08:12)
+
+---
+
+## LA Armenian community celebrates independence anniversary, honors culture
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Armenians celebrate the anniversary of the First Republic of Armenia on May 28 &#8211; the day Armenia gained independence from the Ottoman Empire in 1918. 
+Prior to Armenian independence, the Ottoman Empire persecuted and killed up to 1.2 million Armenians during the Armenian Genocide between 1915 and 1916. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/29/la-armenian-community-celebrates-independence-anniversary-honors-culture/>
+
+---
+
+## North Westwood Neighborhood Council requests budget increase
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council requested a budget increase from the city of Los Angeles during its March meeting to enhance its ability to allocate money to the Westwood community. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/29/north-westwood-neighborhood-council-requests-budget-increase/>
+
+---
+
+## UCLA research cohort finds list of alleged war criminals granted refuge in Canada
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: The following piece contains mentions of persecution, which could be disturbing to some readers.
+Most students don&#8217;t uncover a classified list of alleged war criminals in their undergraduate research cohort. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/29/ucla-research-cohort-finds-list-of-alleged-war-criminals-granted-refuge-in-canada/>
+
+---
+
+## Federal official claims Trump administration intends to sue UC for discrimination
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 29 at 12:33 a.m.</em>
+The head of the Trump administration&#8217;s federal antisemitism task force said Tuesday that the UC should expect discrimination lawsuits. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/28/federal-official-claims-trump-administration-intends-to-sue-uc-for-discrimination/>
+
+---
+
+## ‘Xanadu’ blends technology, performance arts to craft interactive experience
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;Xanadu&#8221; mixes theater and technology to paint a portrait of community.
+UCLA&#8217;s Center for Research in Engineering, Media and Performance, also known as REMAP, bridges the gap between technology and performing arts on campus, namely through experimental theater productions. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/28/xanadu-blends-technology-performance-arts-to-craft-interactive-experience/>
+
+---
+
+## Restaurant review: Gokigen Tori bursts into LA food scene with rich Japanese flavors, cozy ambiance
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+One skewer at a time, Gokigen Tori is holding Japanese flavors together.
+Opening up its doors to Culver City on April 19, the Yakitori restaurant offers patrons a traditional Japanese grill experience. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/28/restaurant-review-gokigen-tori-bursts-into-la-food-scene-with-rich-japanese-flavors-cozy-ambiance/>
+
+---
+
+## Sarah Saturnino brings rigorous training to her 9th production of ‘Rigoletto’
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 28 at 8:46 p.m.</em>
+For one UCLA alumnus, resilience and rigorous training translate to vocal prowess.
+Sarah Saturnino will be playing Maddalena in the Los Angeles Opera’s upcoming production of “Rigoletto,” which kicks off May 31. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/28/sarah-saturnino-brings-rigorous-training-to-her-9th-production-of-rigoletto/>
+
+---
+
+## USAC recap – May 20
+
+date: 2025-05-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council allocated over $200,000 in funding &#8211; including to Samahang Pilipino student organizations &#8211; during its meeting May 20.
+
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/28/usac-recap-may-20-3/>
 
 ---
 
@@ -53,8 +158,8 @@ date: 2025-05-28, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2025-05-28, from: The Daily Bruin (UCLA Student Newspaper)
 
-With each note sung and guitar chord strung, Chianie Chi&#8217;s melodic tone echoes her love for music.
-The fourth-year linguistics and computer science student said her love for music began at a young age as she grew up watching singing competitions for fun with her family and recorded voice memos of herself singing the songs she made. 
+<em>This post was updated May 28 at 8:20 p.m.</em>
+With each note sung and guitar chord strung, Chianie Chi’s melodic tone echoes her love for music. 
 
 <br> 
 
@@ -66,8 +171,9 @@ The fourth-year linguistics and computer science student said her love for music
 
 date: 2025-05-28, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 28 at 8:59 p.m.</em>
 Janet Jackson may not always receive her flowers, but her musical impact knows no bounds.
-After receiving the Icon Award at the American Music Awards yesterday &#8211; and with the recent resurgence in popularity of her 2001 hit &#8220;Someone To Call My Lover&#8221; &#8211; there has never been a better time to look back on the five-time Grammy winner&#8217;s supreme songbook. 
+After receiving the Icon Award at the American Music Awards yesterday – and with the recent resurgence in popularity of her 2001 hit “Someone To Call My Lover” – there has never been a better time to look back on the five-time Grammy winner’s supreme songbook. 
 
 <br> 
 

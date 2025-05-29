@@ -1,11 +1,54 @@
 ---
 title: home
-updated: 2025-05-28 14:08:22
+updated: 2025-05-29 06:08:13
 ---
 
 # home
 
-(date: 2025-05-28 14:08:22)
+(date: 2025-05-29 06:08:13)
+
+---
+
+## How and When to Prune Boxwood Shrubs
+
+date: 2025-05-29, from: The Gardener's Path
+
+<p>Proper pruning is essential for a beautiful-looking boxwood shrub, and helps to keep it free of diseases. In our guide, you’ll learn about the necessary pruning tools along with the why, when, and how of pruning. By the end, you’ll be well-equipped with the necessary know-how and ready to prune a boxwood yourself.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/prune-boxwoods/">How and When to Prune Boxwood Shrubs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/prune-boxwoods/>
+
+---
+
+## 45 Types of Butterflies in Florida (With Pictures and Identification)
+
+date: 2025-05-29, from: Yard Life blog
+
+<p>Butterflies in Florida are some of the most colorful and fascinating insects found in the Sunshine State. Thanks to Florida’s ... </p>
+<p class="read-more-container"><a title="45 Types of Butterflies in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-types-of-butterflies-in-florida-with-pictures-and-identification/#more-28940" aria-label="Read more about 45 Types of Butterflies in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-types-of-butterflies-in-florida-with-pictures-and-identification/">45 Types of Butterflies in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-types-of-butterflies-in-florida-with-pictures-and-identification/>
+
+---
+
+## The Talley Box: Talley Farms Fresh Produce at Your Door
+
+date: 2025-05-28, from: California Grown
+
+<p>Talley Farms isn’t just a name; it’s a legacy—a promise of quality produce, wholesome vegetables, and sustainable farming practices that prioritize people just as much as plants. Tucked away in the lush, breezy landscape of the Arroyo Grande Valley is a family-owned agricultural gem that’s been growing more than just vegetables for generations. &#8220;My name [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/talley-farms/" data-wpel-link="internal" target="_self">The Talley Box: Talley Farms Fresh Produce at Your Door</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/talley-farms/>
 
 ---
 
@@ -32,6 +75,42 @@ date: 2025-05-28, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/why-raised-bed-vegetables-are-struggling/>
+
+---
+
+## These Are the Home Projects Everyone Will Be Doing This Summer
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+It's the summer of renovation. Homeowners are making smarter upgrades on both big and small levels right now. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/summer-home-renovation-trends>
+
+---
+
+## Pilates Comes in Many Forms—Here’s How to Find Your Perfect Fit
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+From mat Pilates to reformer Pilates, explore the core differences between popular Pilates styles with this explainer. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/types-of-pilates>
+
+---
+
+## How to Build a Successful Bee Garden, According to a Professional Beekeeper
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+A professional beekeeper shares her tips for creating an apiary garden. This advice will get you a thriving bee garden in no time. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-build-a-bee-garden>
 
 ---
 
@@ -100,6 +179,18 @@ date: 2025-05-28, from: California Grown
 <br> 
 
 <https://californiagrown.org/blog/pasolivo/>
+
+---
+
+## This L.A. Garden Has a Treehouse, a Tiny Farm, and Big Backyard Style
+
+date: 2025-05-28, from: Sunset Magazine - Living in the West
+
+Take a peek in this Los Angles garden which boasts a treehouse, fire pit, entertaining spaces, a kids' play area, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/los-angeles-treehouse-garden>
 
 ---
 

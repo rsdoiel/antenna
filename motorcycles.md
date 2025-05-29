@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-05-28 14:08:23
+updated: 2025-05-29 06:08:13
 ---
 
 # motorcycles
 
-(date: 2025-05-28 14:08:23)
+(date: 2025-05-29 06:08:13)
+
+---
+
+## Here's What Happens When You Pit Two Banned 3 Wheelers Against Each Other
+
+date: 2025-05-29, from: Ride Apart, Electric Motorcycle News
+
+Everyone knows the Honda ATC 250R, but what happens when it faces down a Yamaha Tri-Z? 
+
+<br> 
+
+<https://www.rideapart.com/news/760882/honda-atc-vs-yamaha-triz-race/>
+
+---
+
+## Michael Dunlop Gets a Corner on the Isle of Man Mountain Course Named After Him, Joining List of Few
+
+date: 2025-05-29, from: Ride Apart, Electric Motorcycle News
+
+But there's something I still don't understand. 
+
+<br> 
+
+<https://www.rideapart.com/news/760880/michael-dunlop-isle-of-man-tt-corner-name/>
+
+---
+
+## I Seriously Want This New E-Mountain Bike From Specialized
+
+date: 2025-05-29, from: Ride Apart, Electric Motorcycle News
+
+Top-tier e-bike tech at a more attainable price point? Sign me up. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760889/specialized-levo-4-alloy-emtb-launch-specs-price/>
 
 ---
 

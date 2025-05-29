@@ -1,11 +1,151 @@
 ---
 title: going electric
-updated: 2025-05-28 14:08:24
+updated: 2025-05-29 06:08:14
 ---
 
 # going electric
 
-(date: 2025-05-28 14:08:24)
+(date: 2025-05-29 06:08:14)
+
+---
+
+## EV competitors ZEEKR and NIO sign agreement to share each other’s charging networks
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/ZEEKR-NIO-Charging.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automakers ZEEKR and NIO have announced a rare and exciting cooperation to enable driver access to each other’s charging networks in China. This collaboration combines some of the world’s fastest <a href="https://electrek.co/guides/electric-vehicle-charging/">EV charging</a> with one of the largest networks in the country.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,electric-vehicle-charging,nio,nio-power,zeekr,zeekr-power" data-layer-viewtype="unknown" data-post-id="418153" href="https://electrek.co/2025/05/29/ev-competitors-zeekr-nio-sign-agreement-share-charging-networks/#more-418153" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/ev-competitors-zeekr-nio-sign-agreement-share-charging-networks/>
+
+---
+
+## Volkswagen Is Not Raising EV Prices–Yet
+
+date: 2025-05-29, from: Inside EVs News
+
+The ID.4 and ID. Buzz won’t be more expensive, at least until July. 
+
+<br> 
+
+<https://insideevs.com/news/761087/vw-ev-prices-steady-us/>
+
+---
+
+## Startup surge and green power give this country a perfect storm for e-motorcycle growth
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/vammo-motorcycle-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Brazil, a nation renowned for its vast landscapes and vibrant urban centers, is a fascinating case in the worldwide adoption of electric two-wheelers. Despite a robust two-wheeler market, with sales reaching approximately 1.9 million units in 2024, the adoption of electric motorcycles has been relatively modest. However, recent developments signal a shift towards electrification is gaining momentum and that the country is on the cusp of a significant transformation in its transportation sector.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="brazil,electric-motorcycle,electric-scooter" data-layer-viewtype="unknown" data-post-id="414997" href="https://electrek.co/2025/05/29/startup-surge-and-green-power-give-this-country-a-perfect-storm-for-e-motorcycle-growth/#more-414997" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/startup-surge-and-green-power-give-this-country-a-perfect-storm-for-e-motorcycle-growth/>
+
+---
+
+## Tesla has been testing robotaxi service without drivers for ‘several days’, says Elon Musk
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has started testing its robotaxi service in Austin, Texas without safety drivers over the last few days, according to Elon Musk.</p>
+
+
+
+<p>The automaker reportedly aims to launch its robotaxi service on June 12.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418142" href="https://electrek.co/2025/05/29/tesla-testing-robotaxi-service-without-drivers-for-several-days-elon-musk/#more-418142" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/tesla-testing-robotaxi-service-without-drivers-for-several-days-elon-musk/>
+
+---
+
+## Tesla’s sales fall 87% in Quebec as its market gets wiped out
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-Y-refreshed-interior-1.png?w=1600" /></div><p>Tesla’s sales have fallen 87% in Quebec in the first quarter 2025 compared to the same period last year.</p>
+
+
+
+<p>The critical Canadian market has been wiped out, and Tesla is no longer importing new vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418136" href="https://electrek.co/2025/05/28/teslas-sales-fall-quebec-market-gets-wiped-out/#more-418136" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/28/teslas-sales-fall-quebec-market-gets-wiped-out/>
+
+---
+
+## Tesla's Robotaxi Service Is Coming To Austin On June 12: Report
+
+date: 2025-05-28, from: Inside EVs News
+
+Tesla's long-awaited driverless ride-hailing service will reportedly begin operations in Austin, Texas on June 12. 
+
+<br> 
+
+<https://insideevs.com/news/761040/tesla-robotaxi-is-coming-to-austin-on-june-12/>
+
+---
+
+## Here’s a closer look at Kia’s low-cost EV2 [Video]
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kia-EV2-closer-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s smallest and most affordable EV is already creating quite the buzz. The EV2 will sit below the EV3 in Kia’s expanding EV lineup. With its official launch approaching, the Kia EV2 was spotted on public roads, giving us a closer look at the upcoming electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2" data-layer-viewtype="unknown" data-post-id="418119" href="https://electrek.co/2025/05/28/closer-look-at-kias-low-cost-ev2-video/#more-418119" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/28/closer-look-at-kias-low-cost-ev2-video/>
+
+---
+
+## Voltpost just flipped the switch on its first public lamppost EV charger
+
+date: 2025-05-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Voltpost-Oak-Park-IL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Voltpost, a startup that turns existing lampposts into EV chargers, has officially launched its first public charging site in Oak Park, Illinois. The curbside charger, installed in partnership with the Park District of Oak Park and utility ComEd, brings easy, affordable EV charging access right to the neighborhood.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="418120" href="https://electrek.co/2025/05/28/voltpost-public-lamppost-ev-charger/#more-418120" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/28/voltpost-public-lamppost-ev-charger/>
+
+---
+
+## Tesla Investors To Elon Musk: Please Work At Tesla Full-Time
+
+date: 2025-05-28, from: Inside EVs News
+
+The return-to-office mandate comes for us all eventually.  
+
+<br> 
+
+<https://insideevs.com/news/761038/tesla-investor-letter-to-musk/>
 
 ---
 

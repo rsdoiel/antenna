@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2025-05-28 14:08:21
+updated: 2025-05-29 06:08:12
 ---
 
 # games
 
-(date: 2025-05-28 14:08:21)
+(date: 2025-05-29 06:08:12)
+
+---
+
+## Gigantamax Rillaboom counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-05-29, updated: 2025-05-28, from: Polygon Website
+
+Gigantamax Rillaboom is making its Gigantamax debut in Pokémon Go, and as usual with these types of Pokémon, it’ll be tough to take down. Rillaboom will specifically be around during the weekend portion of the “Serene Retreat” event, from May 31 at 6 a.m. until June 1 at 9 p.m. in your local time. Below [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/601980/gigantamax-rillaboom-counters-weakness-tips>
 
 ---
 

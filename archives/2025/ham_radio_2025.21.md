@@ -1,11 +1,53 @@
 ---
 title: ham radio
-updated: 2025-05-28 14:08:20
+updated: 2025-05-29 06:08:10
 ---
 
 # ham radio
 
-(date: 2025-05-28 14:08:20)
+(date: 2025-05-29 06:08:10)
+
+---
+
+## Revisited: Three discretes suffice to interface PWM to switching regulators
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="709" height="661" src="https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?fit=709%2C661" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?w=709 709w, https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?w=300 300w" sizes="(max-width: 709px) 100vw, 709px" /><p>A revision of an earlier DI using three-discrete solution interface a PWM to switching regulator and a method to decrease settling time.</p>
+<p>The post <a href="https://www.edn.com/revisited-three-discretes-suffice-to-interface-pwm-to-switching-regulators/">Revisited: Three discretes suffice to interface PWM to switching regulators</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/revisited-three-discretes-suffice-to-interface-pwm-to-switching-regulators/>
+
+---
+
+## Accelerating silicon carbide (SiC) manufacturing with big data platforms
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="1519" height="637" src="https://www.edn.com/wp-content/uploads/Hero-image-SiC-manufacturing-PDF-Solutions.jpg?fit=1519%2C637" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SiC-manufacturing-PDF-Solutions.jpg?w=1519 1519w, https://www.edn.com/wp-content/uploads/Hero-image-SiC-manufacturing-PDF-Solutions.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SiC-manufacturing-PDF-Solutions.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-SiC-manufacturing-PDF-Solutions.jpg?w=1024 1024w" sizes="auto, (max-width: 1519px) 100vw, 1519px" /><p>While SiC offers benefits to designers and consumers, its manufacturing is substantially more expensive than silicon.</p>
+<p>The post <a href="https://www.edn.com/accelerating-silicon-carbide-sic-manufacturing-with-big-data-platforms/">Accelerating silicon carbide (SiC) manufacturing with big data platforms</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/accelerating-silicon-carbide-sic-manufacturing-with-big-data-platforms/>
+
+---
+
+## Basic considerations for electronic impulse relay DIY
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="800" height="449" src="https://www.edn.com/wp-content/uploads/Hero-image-2-Impulse-Relay-Breadboard.jpg?fit=800%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-2-Impulse-Relay-Breadboard.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-2-Impulse-Relay-Breadboard.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-2-Impulse-Relay-Breadboard.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>A hobby-level design project illuminates the inner workings of a simple electronic impulse relay module.</p>
+<p>The post <a href="https://www.edn.com/basic-considerations-for-electronic-impulse-relay-diy/">Basic considerations for electronic impulse relay DIY</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/basic-considerations-for-electronic-impulse-relay-diy/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2025-05-28 14:08:20
 
 date: 2025-05-28, from: EDN Blog
 
-<img width="950" height="540" src="https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?fit=950%2C540" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=950 950w, https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=768 768w" sizes="(max-width: 950px) 100vw, 950px" /><p>What is “agentic AI”? I don't know either. There was still plenty of non-hype at the yearly Microsoft Build event…and two weeks earlier, too.</p>
+<img width="950" height="540" src="https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?fit=950%2C540" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=950 950w, https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microsoft-build-featured.jpg?w=768 768w" sizes="auto, (max-width: 950px) 100vw, 950px" /><p>What is “agentic AI”? I don't know either. There was still plenty of non-hype at the yearly Microsoft Build event…and two weeks earlier, too.</p>
 <p>The post <a href="https://www.edn.com/microsoft-build-2025-arm-and-ai-of-course-thrive/">Microsoft Build 2025: Arm (and AI, of course) thrive</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

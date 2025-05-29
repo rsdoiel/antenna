@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-05-28 14:08:22
+updated: 2025-05-29 06:08:12
 ---
 
 # libraries
 
-(date: 2025-05-28 14:08:22)
+(date: 2025-05-29 06:08:12)
+
+---
+
+## Guest Post — Reading the Leaves of Publishing Speed: The Cases of Hindawi, Frontiers, and PLOS
+
+date: 2025-05-29, from: Scholarly Kitchen
+
+<p>The analysis of operational data is complex, dull, and unrewarding. It is also necessary. Three case studies of major journals and portfolios explain why.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/29/guest-post-reading-the-leaves-of-publishing-speed-the-cases-of-hindawi-frontiers-and-plos/">Guest Post &#8212; Reading the Leaves of Publishing Speed: The Cases of Hindawi, Frontiers, and PLOS</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/29/guest-post-reading-the-leaves-of-publishing-speed-the-cases-of-hindawi-frontiers-and-plos/>
+
+---
+
+## Data Collection for the article 'Fluid flow generates bacterial conjugation hotspots by increasing the rate of shear-driven cell-cell encounters'
+
+date: 2025-05-29, from: ETH Zurich, recently added
+
+Slomka, Jonasz 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/738551>
 
 ---
 

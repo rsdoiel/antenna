@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-05-28 14:08:18
+updated: 2025-05-29 06:08:08
 ---
 
 # north america
 
-(date: 2025-05-28 14:08:18)
+(date: 2025-05-29 06:08:08)
+
+---
+
+## Foreign Policy Malpractice
+
+date: 2025-05-29, from: The Contrarian
+
+When have we given up so much power so quickly? 
+
+<br> 
+
+<https://contrarian.substack.com/p/foreign-policy-malpractice>
+
+---
+
+##  Is This The End Of DOGE? 
+
+date: 2025-05-28, from: The Lever News
+
+ The inside scoop on what happened to Musk and what kinds of ticking time bombs he and DOGE may have left inside the federal government.  
+
+<br> 
+
+<https://www.levernews.com/is-this-the-end-of-doge/>
+
+---
+
+## Evening Roundup, May 28...plus a special thank you to our Contrarian family 
+
+date: 2025-05-28, from: The Contrarian
+
+Featuring Jen Rubin, Katherine Stewart, Brian O'Neill, Jennifer Weiss-Wolf, Josh Levs, Andy Borowitz, Olivia Julianna, and Frederick J. Frommer 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-28plus-a-special>
+
+---
+
+## David Souter went his own way
+
+date: 2025-05-28, from: The Contrarian
+
+The George W. Bush appointee was one of a host of GOP-appointed Supreme Court justices who didn't follow a party line. 
+
+<br> 
+
+<https://contrarian.substack.com/p/david-souter-went-his-own-way>
 
 ---
 
