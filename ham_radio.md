@@ -1,11 +1,81 @@
 ---
 title: ham radio
-updated: 2025-05-29 06:08:10
+updated: 2025-05-29 14:08:04
 ---
 
 # ham radio
 
-(date: 2025-05-29 06:08:10)
+(date: 2025-05-29 14:08:04)
+
+---
+
+## Wireless SoCs drive IoT efficiency
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="800" height="446" src="https://www.edn.com/wp-content/uploads/SiliconLabs-SiXG301.jpg?fit=800%2C446" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SiliconLabs-SiXG301.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/SiliconLabs-SiXG301.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/SiliconLabs-SiXG301.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Built on a 22-nm process, Silicon Labs’ SiXG301 and SiXG302 wireless SoCs deliver improved compute performance and energy efficiency. </p>
+<p>The post <a href="https://www.edn.com/wireless-socs-drive-iot-efficiency/">Wireless SoCs drive IoT efficiency</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/wireless-socs-drive-iot-efficiency/>
+
+---
+
+## Antenna-matching ICs cut RF design complexity
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="800" height="402" src="https://www.edn.com/wp-content/uploads/ST-MLPF-WL-02D3.jpg?fit=800%2C402" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/ST-MLPF-WL-02D3.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/ST-MLPF-WL-02D3.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/ST-MLPF-WL-02D3.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>ST offers three antenna-matching chips for STM32WL33 MCUs to simplify development of IoT, smart metering, and remote monitoring systems.</p>
+<p>The post <a href="https://www.edn.com/antenna-matching-ics-cut-rf-design-complexity/">Antenna-matching ICs cut RF design complexity</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/antenna-matching-ics-cut-rf-design-complexity/>
+
+---
+
+## IC safeguards NFC communication
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="800" height="457" src="https://www.edn.com/wp-content/uploads/NXP-NTAG-X-DNA.jpg?fit=800%2C457" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/NXP-NTAG-X-DNA.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/NXP-NTAG-X-DNA.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/NXP-NTAG-X-DNA.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The NTAG X DNA from NXP is an ISO/IEC 14443-4 Type 4 NFC tag that enables secure authentication of NFC-enabled mobile devices.</p>
+<p>The post <a href="https://www.edn.com/ic-safeguards-nfc-communication/">IC safeguards NFC communication</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ic-safeguards-nfc-communication/>
+
+---
+
+## Power doublers enable smooth DOCSIS 4.0 upgrades
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="800" height="467" src="https://www.edn.com/wp-content/uploads/Qorvo-QPA3311.16.jpg?fit=800%2C467" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Qorvo-QPA3311.16.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Qorvo-QPA3311.16.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Qorvo-QPA3311.16.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Qorvo’s QPA3311 and QPA3316 hybrid power doubler amplifiers are optimized for DOCSIS 4.0 downstream operations up to 1.8 GHz.</p>
+<p>The post <a href="https://www.edn.com/power-doublers-enable-smooth-docsis-4-0-upgrades/">Power doublers enable smooth DOCSIS 4.0 upgrades</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/power-doublers-enable-smooth-docsis-4-0-upgrades/>
+
+---
+
+## Dry film photoresist enables fine circuit formation
+
+date: 2025-05-29, from: EDN Blog
+
+<img width="700" height="468" src="https://www.edn.com/wp-content/uploads/Asahi-Kasei-TA-series.jpg?fit=700%2C468" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Asahi-Kasei-TA-series.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Asahi-Kasei-TA-series.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Asahi Kasei has developed the Sunfort TA series of dry film photoresist for next-gen semiconductor packages requiring fine circuit patterns.</p>
+<p>The post <a href="https://www.edn.com/dry-film-photoresist-enables-fine-circuit-formation/">Dry film photoresist enables fine circuit formation</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/dry-film-photoresist-enables-fine-circuit-formation/>
 
 ---
 
@@ -13,7 +83,7 @@ updated: 2025-05-29 06:08:10
 
 date: 2025-05-29, from: EDN Blog
 
-<img width="709" height="661" src="https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?fit=709%2C661" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?w=709 709w, https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?w=300 300w" sizes="(max-width: 709px) 100vw, 709px" /><p>A revision of an earlier DI using three-discrete solution interface a PWM to switching regulator and a method to decrease settling time.</p>
+<img width="709" height="661" src="https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?fit=709%2C661" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?w=709 709w, https://www.edn.com/wp-content/uploads/SimplePWMrevisited_Figure2.png?w=300 300w" sizes="auto, (max-width: 709px) 100vw, 709px" /><p>A revision of an earlier DI using three-discrete solution interface a PWM to switching regulator and a method to decrease settling time.</p>
 <p>The post <a href="https://www.edn.com/revisited-three-discretes-suffice-to-interface-pwm-to-switching-regulators/">Revisited: Three discretes suffice to interface PWM to switching regulators</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

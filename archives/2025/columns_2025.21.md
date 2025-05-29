@@ -1,11 +1,706 @@
 ---
 title: columns
-updated: 2025-05-29 06:08:11
+updated: 2025-05-29 14:08:05
 ---
 
 # columns
 
-(date: 2025-05-29 06:08:11)
+(date: 2025-05-29 14:08:05)
+
+---
+
+##  Don&#8217;t mind me, I&#8217;m just watching old episodes of The Great Space... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046958-dont-mind-me-im-just>
+
+---
+
+##  I Want No One Else to Succeed 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/i-want-no-one-else-to-succeed>
+
+---
+
+## Lael's ride around the globe
+
+date: 2025-05-29, from: Matt Haughey blog
+
+<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/foZSVhTyEfQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Lael Rides Around the World | Full Film"></iframe></figure><p>Last year I remember hearing about <a href="https://www.laelwilcox.net/around-the-world?ref=a.wholelottanothing.org" rel="noreferrer">Lael Wilcox&apos;s ride around the world</a> and how she was gunning for the fastest known time for any woman who has ever done it. Every couple weeks I&apos;d check in on her dot as it shifted around the globe and</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/laels-ride-around-the-globe/>
+
+---
+
+##  The 100 best sports moments of the 21st century (so far). Hmm.... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046937-the-100-best-sports-momen>
+
+---
+
+##  Re: SpaceX rockets that keep exploding: You Can&#8217;t Make an Omelette Without... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046953-re-spacex-rockets-that-ke>
+
+---
+
+## 2025-05-19 Split
+
+date: 2025-05-29, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-19-split">2025-05-19 Split</h1>
+
+<p>We drove all the way to Split, visited the old town and what remains of Diocletians palace, had lunch and then we went walking through Marjan forest park. Wonderfully quiet.</p>
+
+<p>On the way to the city center, I spotted a passion flower. So beautiful.
+They look like cosmic spaceships or psychedelic temples in miniature.</p>
+
+<p>Blaue Passionsblume<br>
+Passiflora caerulea</p>
+
+<p><img loading="lazy" src="2025-05-19-split-1.jpg" alt="a flower with an complex, three-dimensional structure in the middle" /></p>
+
+<p>The marina in front of the old town.
+Half the old town is within the perimeter of Diocletian&rsquo;s palace.</p>
+
+<p>The water is dirty and smells bad.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-2.jpg" alt="a marina with small boats and a boulevard with palm trees" /></p>
+
+<p>They turned Diocletian&rsquo;s mausoleum into the cathedral.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-3.jpg" alt="Claudia near the bell tower of the cathedral, with tourists in the back" />
+<img loading="lazy" src="2025-05-19-split-4.jpg" alt="looking up a the bell tower" />
+<img loading="lazy" src="2025-05-19-split-5.jpg" alt="from a nearby ruin with an open cupola, the bell tower can still be seen" />
+<img loading="lazy" src="2025-05-19-split-6.jpg" alt="Split&rsquo;s old town is full of narrow alleys" />
+<img loading="lazy" src="2025-05-19-split-7.jpg" alt="there is an open pit where you can see into the cellar ruins of Diocletian&rsquo;s palace" />
+<img loading="lazy" src="2025-05-19-split-8.jpg" alt="looking back at the bell tower" /></p>
+
+<p>There are places where you can see two levels of cellars and three or four levels of buildings.
+This is how I like my dungeon ruins. 😄</p>
+
+<p><img loading="lazy" src="2025-05-19-split-9.jpg" alt="looking into another pit with access to underground levels" /></p>
+
+<p>What impressed me the most is that people live in the midst of these fantastic ruins.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-10.jpg" alt="extremely narrow alleys" />
+<img loading="lazy" src="2025-05-19-split-11.jpg" alt="and suddenly, a private garden" />
+<img loading="lazy" src="2025-05-19-split-12.jpg" alt="and ruins, and tourists" /></p>
+
+<p>We went into the cathedral.
+It&rsquo;s a small octagonal building because it used to be Diocletions tomb.
+I was not impressed.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-13.jpg" alt="looking up at the ceiling" /></p>
+
+<p>Looking back over the corner with the carden (to the left) and the low walls from where one could peek into the cellars.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-14.jpg" alt="a view of Diocletian&rsquo;s palace with tourist milling about" />
+<img loading="lazy" src="2025-05-19-split-15.jpg" alt="ruins of walls with niches" />
+<img loading="lazy" src="2025-05-19-split-16.jpg" alt="more narrow alleys" /></p>
+
+<p>We had enough after a while, had a small lunch and decided to head into the Marjan forest park.
+The stairs up start in the old town.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-17.jpg" alt="Claudia on marble stairs" />
+<img loading="lazy" src="2025-05-19-split-18.jpg" alt="looking at Split&rsquo;s old town from the stairs" /></p>
+
+<p>Barbary fig<br>
+Opuntia ficus-indica</p>
+
+<p><img loading="lazy" src="2025-05-19-split-19.jpg" alt="a yellow flower on a cactus" /></p>
+
+<p>Stechendes Sternauge<br>
+Pallenis spinosa</p>
+
+<p><img loading="lazy" src="2025-05-19-split-20.jpg" alt="yellow flowers and spiny leaves" /></p>
+
+<p>Dry stone walls everywhere. Later there was even an info board talking about dry stone wall building.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-21.jpg" alt="some tall corniferous trees behind a dry stone wall" /></p>
+
+<p>The trail from the end of the stairs to Sedlow is wide, flat, and beautiful.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-22.jpg" alt="Claudia on a nice walkway" /></p>
+
+<p>Johannisbrotbaum<br>
+Ceratonia siliqua</p>
+
+<p><img loading="lazy" src="2025-05-19-split-23.jpg" alt="thick, saussage-like beans hanging on a tree" /></p>
+
+<p>The nice walkway turns into a trail.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-24.jpg" alt="a trail along a dry wall with trees off to the side providing no shade" />
+<img loading="lazy" src="2025-05-19-split-25.jpg" alt="the trail continues and still the trees provide no shade" /></p>
+
+<p>The trail gets narrower and we start thinking of ticks again.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-26.jpg" alt="a singletrail with grass and bushes growing nearby; some sort of info panel in the distance" /></p>
+
+<p>Damaszener Schwarzkümmel<br>
+Nigella damascena</p>
+
+<p><img loading="lazy" src="2025-05-19-split-27.jpg" alt="a blue flower with a complex network of antenna-like protrusions" /></p>
+
+<p>A view of a hidden sandy (?) beach.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-28.jpg" alt="trees in the foreground and the sea in the back" /></p>
+
+<p>We walked back along the coast and looked up. Our trail was somewhere behind this cliff.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-29.jpg" alt="a forested hill and while cliffs at the top" /></p>
+
+<p>In the evening we went for pizza and pasta.</p>
+
+<p><img loading="lazy" src="2025-05-19-split-30.jpg" alt="a marina by night" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-19-split>
+
+---
+
+## May 28, 2025
+
+date: 2025-05-29, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164747560/c8017c5342bee6639b10ea7ebe747e20.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164747560/c8017c5342bee6639b10ea7ebe747e20.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-28-2025-07c>
+
+---
+
+## 2025-05-21 The audio stack
+
+date: 2025-05-29, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-21-the-audio-stack">2025-05-21 The audio stack</h1>
+
+<p>Whenever I think about audio on my Debian-based laptops, I feel like I’m just too old for this. I just don’t get it anymore. Then I read a blog post like this one and I shake my head because I guess I’m not too old – the situation truly is miserable!</p>
+
+<blockquote>
+<p>Now the audio stack kicks in. Is it PipeWire? PulseAudio? Is ALSA enabled? Is the correct fallback sink selected? Is the audio device owned by root? Is the socket exposed to your session? Who knows. – <a href="https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/">I Want to Love Linux. It Doesn’t Love Me Back: Post 1 – Built for Control, But Not for People</a></p>
+</blockquote>
+
+<p>Accessibility matters. The problems blind users encounter are the problems that sighted people like me will encounter later in life. And when the complaints are about complexity, brittleness, lack of testing and lack of backwards compatibility, you know that eventually you’ll get hit.</p>
+
+<blockquote>
+<p>A stack implies layers. Order. A single interface at each point. This is not a stack. This is a tangled mess of everything ever built for Linux audio still being required right now because no one can kill anything off without breaking something else. You want to play sound? You need: ALSA, because it’s the actual driver. PipeWire, because it’s the new standard. Pulse emulation, because most apps still use Pulse. ALSA plugins, because some things bypass PipeWire. JACK shims, because a few pro audio tools never moved on. And config files for all of it—if they even exist. This isn’t backwards compatibility.  This is a graveyard, and we’re all just camping in it. – <a href="https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/">I Want to Love Linux. It Doesn’t Love Me Back: Post 1 – Built for Control, But Not for People</a></p>
+</blockquote>
+
+<p>I wonder. Isn’t this stack the right thing to do? The new layer with an emulation of the old layer sitting atop the kernel layer, etc? In the long lived stacks in the commercial world, the same thing is true (Windows API, Java API – all continue to offer compatibility layers to deprecated things). From my perspective the main problem is that the mess is necessary but it must also be either strictly encapsulated and controlled or – if composable like in a typical Linux distribution – supported by tools to inspect and control it across all layers. What we have right now is a composable stack where we are free to install and deinstall parts and every layer provides independent inspection and control tools that work differently from each other. And no overview so you don’t know which part is failing.</p>
+
+<p>My audio stacks also mostly work but if the volume is wrong I always wonder: what tool do I need to run (on the command line) to change it. So many mixers! And on every new laptop: do I need Jack? And is PipeWire or PulseAudio the correct one? Or both? The uncertainty is part of my problem.</p>
+
+<p><a class="tag" href="/search/?q=%23Audio">#Audio</a> <a class="tag" href="/search/?q=%23Software">#Software</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-21-audio-stack>
+
+---
+
+## 2025-05-20 Sutivan, Milna, Postira
+
+date: 2025-05-29, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-20-sutivan-milna-postira">2025-05-20 Sutivan, Milna, Postira</h1>
+
+<p>We took the ferry across the channel to Brač.
+This is the first time we took a car ferry as adults.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-1.jpg" alt="cars inside a ferry" /></p>
+
+<p>I always enjoy seeing the birds riding along with a ship.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-2.jpg" alt="seagulls and the ocean" /></p>
+
+<p>As we had managed to take the earlier ferry we decided to drive around for a bit.
+Our first stop was Sutivan.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-3.jpg" alt="boats in a small marina, old buildings and a church in the back" /></p>
+
+<p>A harbour with a pier extending into the water with a red lamppost at the end.
+We’ll get back to it.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-4.jpg" alt="a harbour bay" /></p>
+
+<p>We walked around town.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-5.jpg" alt="Alex in a narrow alley" /></p>
+
+<p>We went back to the car.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-6.jpg" alt="an official looking building with a tiny park in front if it" /></p>
+
+<p>The view into Bobovišća was nice.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-7.jpg" alt="a tiny fjord with a village" /></p>
+
+<p>The marina of Milna.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-8.jpg" alt="boats in a small marina, old buildings and a church in the back, again" /></p>
+
+<p>We turned around and drove to our hotel in Postira.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-9.jpg" alt="Claudia posing in front of a harbour bay" /></p>
+
+<p>Another pier with a red lantern at the end!</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-10.jpg" alt="a pier with a red lantern and some seagulls sitting at the end" /></p>
+
+<p>More walking around.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-11.jpg" alt="Claudia posing next to a statue" /></p>
+
+<p>And sunset.</p>
+
+<p><img loading="lazy" src="2025-05-20-postira-12.jpg" alt="another marina but instead of a church there is a big hotel reminiscent of a luxury boat" /></p>
+
+<p>I love the large number of swifts and swallows dashing back and forth, here.</p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-20-postira>
+
+---
+
+## 2025-05-22 Postira
+
+date: 2025-05-29, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-22-postira">2025-05-22 Postira</h1>
+
+<p>We went for a walk along the coast to Lovrečina. All the bars and restaurants were closed but the flowers were in bloom. It’s May! 😍</p>
+
+<p><img loading="lazy" src="2025-05-21-postira-bol-22.jpg" alt="the sky after breakfast was bright" /></p>
+
+<p>We started walking. Both Claudia and I took these pictures.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-1.jpg" alt="The channel is calm, the sky cloudy" /></p>
+
+<p>Hundert-jährige Agave<br>
+Agave americana</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-2.jpg" alt="snails on agaves" /></p>
+
+<p>I keep calling them pines but Flora Incognita tells me we&rsquo;re looking at:</p>
+
+<p>Aleppo-Kiefer<br>
+Pinus halepensis</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-3.jpg" alt="pines on the stony coast" /></p>
+
+<p>The edge of town.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-4.jpg" alt="another bay, a few more houses in the distance" /></p>
+
+<p>And then I started seeing all the flowers.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-5.jpg" alt="Alex taking pictures with the phone" /></p>
+
+<p>Grosser Kohlweissling<br>
+Pieris brassicae</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-6.jpg" alt="a mostly white butterfly" /></p>
+
+<p>So happy.</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-7.jpg" alt="Alex and Claudia with sunglasses" />
+<img loading="lazy" src="2025-05-22-postira-8.jpg" alt="another bay with beautiful water" />
+<img loading="lazy" src="2025-05-22-postira-9.jpg" alt="looking at a bay across some poppies" />
+<img loading="lazy" src="2025-05-22-postira-10.jpg" alt="Alex taking pictures of poppies" />
+<img loading="lazy" src="2025-05-22-postira-11.jpg" alt="a lizard beneath the poppies" />
+<img loading="lazy" src="2025-05-22-postira-12.jpg" alt="another bay full of beautiful water" /></p>
+
+<p>Schopf-Träubel<br>
+Leopoldia comosa</p>
+
+<p><img loading="lazy" src="2025-05-22-postira-13.jpg" alt="a violet flower growing from a crack in the rock" />
+<img loading="lazy" src="2025-05-22-postira-14.jpg" alt="Alex standing on a sea wall" />
+<img loading="lazy" src="2025-05-22-postira-15.jpg" alt="a tree growing through a hole in the drywall they built for it " />
+<img loading="lazy" src="2025-05-22-postira-16.jpg" alt="yet another bay" />
+<img loading="lazy" src="2025-05-22-postira-17.jpg" alt="and finally on the way back" /></p>
+
+<p><a class="tag" href="/search/?q=%23Croatia">#Croatia</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-22-postira>
+
+---
+
+##  Alexandra Petri has some advice for the 2025 Harvard grad who will... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046956-alexandra-petri-has-some->
+
+---
+
+## Decomplexification
+
+date: 2025-05-29, from: Daniel Stenberg Blog
+
+(Clearly a much better word than simplification.) I believe we generally accept the truth that we should write simple and easy to read code in order to make it harder to create bugs and cause security problems. The more complicated code we write, the easier it gets to slip up, misunderstand or forget something along &#8230; <a href="https://daniel.haxx.se/blog/2025/05/29/decomplexification/" class="more-link">Continue reading <span class="screen-reader-text">Decomplexification</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/05/29/decomplexification/>
+
+---
+
+##  Shifting Baselines and the New Normal of the Trump Era 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/shifting-baselines-and-the-new-normal-of-the-trump-era>
+
+---
+
+## 2025-05-27 Alt text on this blog
+
+date: 2025-05-29, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-27-alt-text-on-this-blog">2025-05-27 Alt text on this blog</h1>
+
+<p>On the web, the alt text is a description of an image to be shown by browsers when the image cannot be shown – like text browsers or screen readers. So what about alt text on this blog? What about blog posts full of photos, specifically? Like the <a href="Croatia">Croatia</a> posts.</p>
+
+<p>I think that alt text should be unnecessary on my blog because the text should carry the entire message. “Welcome to my <a href="Wall_of_Text">Wall of Text</a>!” 😄</p>
+
+<p>On fedi, I like alt text and I both read and write it. I hate clients that don’t display it. I want to always read it. Therefore, on my blog, the equivalent of alt text should always be readable. But real alt text isn’t shown to me – the browser is showing me the pictures, instead. It makes sense. And on fedi it only works because the applications and front-ends don&rsquo;t just use the alt text attribute for images in HTML – they have an extra user-interface to allow me to read it. Buttons, mouse-over, long-press, whatever it takes.</p>
+
+<p>There are options for this blog, of course. Except I don’t like these options.</p>
+
+<p>I could reuse the alt text as the image title attribute which is shown on mouse-over by default. I don’t like being forced to use mouse and I don’t like duplicating the description.</p>
+
+<p>In Markdown:</p>
+
+<pre><code>![alt text](url &quot;title&quot;)
+</code></pre>
+
+<p>I could automatically use the alt text as the title attribute but I still don’t like to use the mouse to read the title attribute and I wouldn’t be able to switch Markdown rendering engines as easily if I hack it. Writing some Javascript to produce extra pop-ups or some other user-interface element would be even worse, and it would need extra clicking or keyboard navigation as a reader. No way.</p>
+
+<p>The last option is the best. Just write the description above the image:</p>
+
+<pre><code>Description
+
+![](url)
+</code></pre>
+
+<p>I’ve tried using the title attribute for some of my recent picture-heavy blog posts about Croatia and I’ve been checking the result using Gemini and Gopher, and I’m not happy.</p>
+
+<p>Compare the following two with the <a href="https://alexschroeder.ch/view/2025-05-17-%C5%A1ibenik">web</a> version where I can’t read the alt text. (Screenshots from <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a> on my phone.)</p>
+
+<p>The <a href="gemini://alexschroeder.ch/2025-05-17-šibenik">Gemini</a> version looks OK with some text paragraphs being links to the images.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-1.jpg" alt="" /></p>
+
+<p>The <a href="gopher://alexschroeder.ch/02025-05-17-šibenik">Gopher</a> version shows the alt texts as weird disjointed text paragraphs that sometimes repeat the preceding paragraph and sometimes don’t.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-2.jpg" alt="" /></p>
+
+<p>I guess I could write longer alt texts until the Gopher version looks good but then the Gemini version looks weird and the web version continues to not show it.</p>
+
+<p>Now check the Gemini and Gopher output for the page you’re reading right now!</p>
+
+<p>The <a href="gopher://alexschroeder.ch/02025-05-27-alt-text">Gopher</a> version is OK. The line-breaks don’t look nice on the phone at the default resolution so ignore that weird line-break. What we can see is that the empty alt text generated an empty paragraph. Something I should fix. 😅 But in general, it looks OK and reads well.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-3.jpg" alt="" /></p>
+
+<p>The <a href="gemini://alexschroeder.ch/2025-05-27-alt-text">Gemini</a> version still looks OK. It also links to the Gopher and Gemini versions, so ignore those extra links. 😅 The browser substitutes the filenames for the missing alt text. That works for me. I&rsquo;m not sure what a screen reader would do. Probably say: &ldquo;Image. 2025-05-27-alt-text-3.jpg&rdquo;? And I&rsquo;m not sure what a person with bad sight would prefer. At this point I&rsquo;d know that I can skip the image since I have already read the description above.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-4.jpg" alt="" /></p>
+
+<p>And here&rsquo;s the same passage a day later, using the text browser <code>lynx</code>. The inline links look good, and there&rsquo;s no trace of the screenshots. This is great! It&rsquo;s as readable as the Gopher version with no extra line-breaks, and the inline links are inline (unlike in the Gemini version).</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-5.jpg" alt="" /></p>
+
+<p>Checking with <code>edbrowse</code>. The inline links are wrapped in bracers, which looks good, and the images with no alt text are shown as empty square brackets (<code>[]</code>) which works for me. Ideally, I guess, they&rsquo;d just disappear.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-6.jpg" alt="" /></p>
+
+<p>All in all, I think this solution is better: Instead of alt text, just write more text above each image.</p>
+
+<p>What I’m less sure about is whether this automatically implies that all images are “decorative” and therefore should have an empty alt text (instead of no alt text). It seems to me that the filename being shown is a lot of visual clutter, but that only seems to affect Gemini, not the text browser.</p>
+
+<p>What do you think?</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a> <a class="tag" href="/search/?q=%23Gopher">#Gopher</a> <a class="tag" href="/search/?q=%23Markdown">#Markdown</a></p>
+
+<p><strong>2025-05-29</strong>. I fixed that minor issue in <a href="https://src.alexschroeder.ch/markdown-gopher.git/">markdown-gopher</a> so that it skips paragraphs containing just images with no alt text. 😄</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-27-alt-text>
+
+---
+
+##  Pediatrician Dr. Annie Andrews is running against Lindsey Graham for one of... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046954-pediatrician-dr-annie-and>
+
+---
+
+## The End of Trump II, Part 1
+
+date: 2025-05-29, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-end-of-trump-ii-part-1>
+
+---
+
+## Trump’s Entire Tariff Endeavor Ruled Illegal by U.S. Court of International Trade
+
+date: 2025-05-29, updated: 2025-05-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/05/28/business/trump-tariffs-blocked-federal-court.html?unlocked_article_code=1.K08.Dopk.xjccPnSSgb59&smid=url-share>
+
+---
+
+## Findings
+
+date: 2025-05-29, from: Doc Searls (at Harvard), New Old Blog
+
+Wipe House. Nieman Lab: No more transcripts of Trump remarks on the White House website (and the old ones are gone, too). In case you weren&#39;t wondering. Jeffrey Epstein really did kill himself. For the reading list. Olaf Stapleton: Last And First Men. It&#39;s not simple. Lessig: Marshall on the (Maximalist) Unitary Executive Theory. 
+
+<br> 
+
+<https://doc.searls.com/2025/05/29/findings/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-05-29, from: Ryan Gantz Bluesky feed)
+
+Open letter to Gemini:
+
+I KNOW YOU EXIST. I AM FULLY AWARE YOU ARE AVAILABLE TO TAKE NOTES DURING THIS MEETING. AS THE BUTTON HAVE REPEATEDLY CLICKED SAYS, I "GOT IT". PLEASE GIVE ME SPACE 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lqczxwu4222f>
+
+---
+
+## Thunderbird is go: 139 follows closely on Firefox's heels
+
+date: 2025-05-29, updated: 2025-05-29, from: Liam Proven's articles at the Register
+
+<h4>One of the new smaller monthly releases – and how to tweak it</h4>
+      <p>Mozilla subsidiary MZLA has released the latest version of its messaging client, with some handy extras.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/29/thunderbird_139/>
+
+---
+
+## A test post
+
+date: 2025-05-29, from: Dave Winer's Scripting News
+
+<p><i>I'm working on something that requires an endless stream of test posts. Sometimes when I start writing I end up something that should be published. Should I edit it? Nah.</i></p>
+<p>this shit is hard. when it's done it looks simple. but these pieces must fit together. </p>
+<p>that's why it's soooo stupid to throw out all the interop, because it's going to take you forever to recreate it, if you ever can, which you probably can't.</p>
+<p>this is the lesson that activitypub and atproto are teaching once again. and the people who are dealing with this have probably known it a long time.</p>
+<p>it would be so much faster to use something that already works and is widely supported.</p>
+<p>this is why we used mp3 in rss to make podcasting. we could have said oh shit i don't understand how mp3 works, so let's create one that does only what podcasting needs. only of course it'll turn out that podcasting needs everything that mp3 already does.</p>
+<p>accept a win. don't feel compelled to reinvent everything. you'll find out it wasn't as easy as it looked.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/05/29/151457.html?title=aTestPost>
+
+---
+
+## The $740B Prize
+
+date: 2025-05-29, from: David Rosenthal's blog
+
+Forty-two months ago I wrote <a href="https://blog.dshr.org/2021/11/the-65b-prize.html"><i>The $65B Prize</i></a> citing Divesh Aggarwal <i>et al</i>'s 2019 paper <a href="https://arxiv.org/abs/1710.10377"><i>Quantum attacks on Bitcoin, and how to protect against them</i></a>. They noted that:<br />
+<blockquote>
+the elliptic curve signature scheme used by Bitcoin is much more at risk, and could be completely broken by a quantum computer as early as 2027, by the most optimistic estimates.
+</blockquote>
+It is time to re-visit the "optimistic estimates", so follow me below the fold.<br />
+<span><a name='more'></a></span>
+<br />
+NIST has been driving the <a href="https://csrc.nist.gov/csrc/media/Presentations/2023/nist-post-quantum-cryptography-update/2a-Moody_NIST_PQC_2.pdf">standardization of post-quantum cryptography since 2016</a>, and approved algorithms are now available.  Google's Craig Gidney and Sophie Schmieg posted <a href="https://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html"><i>Tracking the Cost of Quantum Factoring</i></a>:<br />
+<blockquote>
+The <a href="https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf">initial public draft</a> of the NIST internal report on the transition to post-quantum cryptography standards states that vulnerable systems should be deprecated after 2030 and disallowed after 2035. Our work highlights the importance of adhering to this recommended timeline.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwRjfgZSR1dvOoDbFSZ90xbJRHxG39SrYDHxpXc7_79GYSy-z5FnIUDdNFHvw5ibroB-vj3iTqGKsoJh1l9eJL6Uct5A7Bth5yvFd04pso0V6TpRC2OhA3qI7BYEUes28Ygls28ztw-IqiCxQGHReoS3moWtackolKssavtpRPQ6mq3_mvAfXyNzfvvIkc/s2252/GidneyFig1.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1544" data-original-width="2252" height="137" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwRjfgZSR1dvOoDbFSZ90xbJRHxG39SrYDHxpXc7_79GYSy-z5FnIUDdNFHvw5ibroB-vj3iTqGKsoJh1l9eJL6Uct5A7Bth5yvFd04pso0V6TpRC2OhA3qI7BYEUes28Ygls28ztw-IqiCxQGHReoS3moWtackolKssavtpRPQ6mq3_mvAfXyNzfvvIkc/w200-h137/GidneyFig1.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://arxiv.org/abs/2505.15917">Gidney Figure 1</a></td></tr></tbody></table>
+The point of Gidney and Schmieg's post and their <a href="https://arxiv.org/abs/2505.15917">paper</a> is <a href="https://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html">that</a>:<br />
+<blockquote>
+2048-bit RSA encryption could theoretically be broken by a quantum computer with 1 million noisy qubits running for one week. This is a 20-fold decrease in the number of qubits from <a href="https://arxiv.org/abs/1905.09749">our previous estimate</a>, published in 2019. Notably, quantum computers with relevant error rates currently have on the order of only 100 to 1000 qubits
+</blockquote>
+They don't provide an estimate for <a href="https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm">Bitcoin's ECDSA</a> but, like RSA, the ECDSA algorithm is a derivative of <a href="https://en.wikipedia.org/wiki/Shor's_algorithm">Schor's algorithm</a>.<br />
+<br />
+So there's nothing to worry about, right? NIST has specified the algorithms, quantum computers need to get 1000 times better before they can crack a single RSA key in a week, and NIST says we have 5 years before there's a problem.<br />
+<br />
+At least as regards cryptocurrencies, I think this is a rather pessimistic estimate. The point of <a href="https://blog.dshr.org/2021/11/the-65b-prize.html"><i>The $65B Prize</i></a> was that at least Bitcoin's transition to post-quantum cryptography faced a particular problem:<br />
+<blockquote>
+Senator Everett Dirksen is famously alleged to have remarked "<a href="https://www.dirksencenter.org/research-collections/everett-m-dirksen/dirksen-record/billion-here-billion-there">a billion here, a billion there, pretty soon you're talking real money</a>". There are a set of Bitcoin wallets containing about a million Bitcoins that are believed to have been mined by Satoshi Nakamoto at the very start of the blockchain in 2008. They haven't moved since and, if you believe the <a href="https://blog.dshr.org/2021/11/making-sure-number-go-up.html">bogus Bitcoin "price"</a>, are currently "worth" $65B. Even if you're skeptical of the "price", that is "real money".
+</blockquote>
+I assume that the fact that Nakamoto's stash hasn't moved means that he no longer has access to the keys, either through death, destruction or accident. As I write, the stash is "worth" about $107B. I also assume that the stash is <a href="https://blog.dshr.org/2021/11/the-65b-prize.html">included in Chainalysis' estimate that</a>:<br />
+<blockquote>
+about <a href="https://blog.chainalysis.com/reports/money-supply">20% of all Bitcoins</a> have been "lost", or in other words are sitting in wallets whose keys are inaccessible.  ...  These coins need to be protected from theft by some public-sprited person with a "sufficiently large quantum computer" who can transfer them to post-quantum wallets he owns.
+</blockquote>
+The point is that, without access to the keys for the vulnerable wallets, there is no way to transfer their contents to new wallets protected by post-quantum cryptography. Thus 20% of all Bitcoins or 4.2M BTC, currently "worth" almost $450B, is the reward for the first to build a "sufficiently powerful quantum computer". It is generally thought that VCs need to see the prospect of at least a 10x return on their investment, so that is enough for $45B of R&amp;D.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJm9D99aulcWoUc06SpEfPlrDqgSdw-MnFrzuhYWZ8ZdpV8wWKOkezvA1sa-QTCTgiI1I_ezmmw1NMaoeADULdHdEUurElSicdLcCgBkmro428ih_eQLwu5ATAEn4mmwxWj7lI-1YM4dgCt8SAVvhXP4FdbTMrdvVwhTysGSnN1zCyW84L0dRXsLzSPZo_/s1644/UtilityScaleQuantumComputer.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="992" data-original-width="1644" height="121" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJm9D99aulcWoUc06SpEfPlrDqgSdw-MnFrzuhYWZ8ZdpV8wWKOkezvA1sa-QTCTgiI1I_ezmmw1NMaoeADULdHdEUurElSicdLcCgBkmro428ih_eQLwu5ATAEn4mmwxWj7lI-1YM4dgCt8SAVvhXP4FdbTMrdvVwhTysGSnN1zCyW84L0dRXsLzSPZo_/w200-h121/UtilityScaleQuantumComputer.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.psiquantum.com/blueprint">Source</a></td></tr></tbody></table>
+There may now be a viable runner in this race. <a href="https://www.psiquantum.com/">Psi Quantum</a> is a Palo Alto based startup that is building a million-qubit optical quantum computer. They had raised <a href="https://www.seedtable.com/startups/PsiQuantum-PBDGXRA">$1.2B by 2021</a> and "<a href="https://www.reuters.com/technology/quantum-computing-startup-psiquantum-raising-least-750-million-6-billion-2025-03-24/">at least $750M this year</a>" from investors including Nvidia. Their website <a href="https://www.psiquantum.com/blueprint">claims</a>:<br />
+<blockquote>
+In 2024, PsiQuantum announced two landmark partnerships with the Australian Federal and Queensland State governments, as well as the State of Illinois and the City of Chicago, to build its first utility-scale quantum computers in Brisbane and Chicago. Recognizing quantum as a sovereign capability, these partnerships underscore the urgency and race towards building million-qubit systems. In 2025, PsiQuantum will break ground on Quantum Compute Centers at both sites, where the first utility-scale, million-qubit systems will be deployed.
+</blockquote>
+Investors have put in about $2B so far. They stand to make a notional 225x return just from Bitcoin, apart from all the other uses of a "utility-scale quantum computer".<br />
+<br />
+But wait! There is an even better way to monetize a "sufficiently powerful quantum computer". Matt Levine has been writing about <a href="https://www.bloomberg.com/opinion/articles/2025-01-23/crypto-perpetual-motion-machines"><i>Crypto Perpetual Motion Machines</i></a> for some time, for example:<br />
+<blockquote>
+MicroStrategy Inc. is, among other things, a proof of concept. The concept is: “If you buy $100 of Bitcoin and put it in a pot, you can slice the pot into shares and sell them for $200.” (MicroStrategy owns about $49 billion of Bitcoin and has a market capitalization of about $94 billion, because people will buy its shares for more than the value of the underlying Bitcoin.) This is a very appealing concept, because: free money! A “perpetual motion machine,” I sometimes call it: The more shares you sell, the more Bitcoin you can buy, and the more your shares are worth.
+</blockquote>
+To do this you need a public company, but as Levine explains,<a href="https://www.bloomberg.com/opinion/newsletters/2025-05-27/sell-your-crypto-on-the-stock-exchange">they aren't expensive</a>:<br />
+<blockquote>
+If you have a big pot of Bitcoin or Ethereum or Solana or Dogecoin or Trumpcoin or anything else, you should wrap it in a US public company and sell it to stock investors for twice its actual value. But to wrap it in a public company, you need a public company. There are only so many of those, and they are busy. If you called, like, Apple Inc. and said “hey we’d like to merge our big pot of Dogecoin with you so that our coins are worth more,” Apple would say no. The trick is to call a company that is (1) a public company but (2) only barely. Those companies’ phones are ringing off the hook.
+</blockquote>
+So the monetization strategy for the owner of the first "sufficiently powerful quantum computer" is:<br />
+<ol>
+<li>Buy a cheap public company.</li>
+<li>Lend it enough money to pay for the quantum computer time to crack the keys of the 20% of frozen BTC.</li>
+<li>Transfer the 20% of BTC to post-quantum wallets.</li>
+<li>Announce that your company now controls 20% of BTC and can prove it by signing messages with the post-quantum keys of your wallets.</li>
+<li>Since <a href="https://saylortracker.com/"><strike>Micro</strike>Strategy holds about 580K BTC</a> and MSTR is valued at 1.6 times their "price", by analogy your 4.2M BTC would give your company's stock a "market cap" of around $740B,</li>
+<li>Now you use (Michael) Saylor's algorithm:<br />
+<blockquote>
+<tt><small>
+float btc = 4,200,000.0; // Initial HODL-ing<br />
+float factor = 1.6; // Market Cap inflator<br />
+float fraction = 1.0; // % Market Cap to use as collateral<br />
+float over = 200; // % Over-collateralization<br />
+while (true) {<br />
+&nbsp;&nbsp;&nbsp;&nbsp;float price = btc_price();<br />
+&nbsp;&nbsp;&nbsp;&nbsp;float pre_mkt_cap = btc * price * factor;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;float cash = borrow((pre_mkt_cap * fraction) / over);<br />
+&nbsp;&nbsp;&nbsp;&nbsp;btc += cash / price;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;// Each time round Market Cap increases by cap_gain<br />
+&nbsp;&nbsp;&nbsp;&nbsp;float cap_gain = cash * factor;<br />
+}<br />
+</small> </tt>
+</blockquote>
+</li></ol>
+It is really hard to think of a better way to monetize a "sufficiently powerful quantum computer" than this way, with its at least 370x return!<br />
+<br />
+You may think that the market is irrational in valuing MSTR at 1.6 times its BTC HODL-ings. But, Levine writes, <a href="https://www.bloomberg.com/opinion/newsletters/2025-05-27/sell-your-crypto-on-the-stock-exchange">that's small potatoes</a>:<br />
+<blockquote>
+SharpLink’s <i>planned</i> $425 million stash of Ethereum is worth $2.5 billion on the stock market.<br />
+<br />
+Note that SharpLink apparently doesn’t own any Ether. The investors are contributing $425 million in dollars, not Ethereum. This is not “we’ve got a stash of Ethereum and might as well sell it on the stock exchange”; it’s “man the stock exchange is paying $2 for $1 of Ethereum, we’d better do that arb.” Or, in this case, $6 for every $1 of Ethereum.
+</blockquote>
+SharpLink is an el-cheapo public company that Consensys bought to run Saylor's algorithm. It is a shame that an <i>actual</i> pot of BTC isn't valued like a <i>planned</i> pot of ETH. If it were the post-quantum company would be valued at around $2.8B, almost as much as APPL.  Levine <a href="https://www.bloomberg.com/opinion/newsletters/2025-05-27/sell-your-crypto-on-the-stock-exchange">takes this lesson</a>:<br />
+<blockquote>
+This is not investment advice but honestly what am I doing with my life. Right now, if you have a few hundred million dollars lying around, you can buy any crypto you like with it, and the US stock market will give you an immediate 500+% paper profit. All you need — besides the startup cash — is a little public company to put your crypto in.
+</blockquote>
+And, of course, you need to remember to cash out without crashing the stock price before someone with a "sufficiently powerful quantum computer" steals the little public company's stash. Helpfully, Levine suggests a <a href="https://www.bloomberg.com/opinion/newsletters/2025-05-27/sell-your-crypto-on-the-stock-exchange">way to do it</a>:<br />
+<blockquote>
+In crypto, if you have magic beans that are currently priced at $1 billion, maybe someone will lend you $500 million of real money against them, with no recourse to you. In the stock market … look you’re going to have a hard time borrowing 50%, or 10%, of the market value of a 97% stake in a crypto treasury company whose market cap has increased 100,000% in a week, but, man, I would try.
+</blockquote>
+We just have to hope that the current infatuation with crypto treasury companies lasts long enough for PsiQuantum to build the "sufficiently powerful quantum computer".<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/05/the-740b-prize.html>
+
+---
+
+##  Harvard student: &#8220;I shall fight Secretary of Education Linda E. McMahon in... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046952-harvard-student-i-shall-f>
+
+---
+
+##  New apt acronym for America&#8217;s lamest president: TACO, which stands for Trump... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046951-new-apt-acronym-for-ameri>
+
+---
+
+##  The curse of Toumaï: an ancient skull, a disputed femur and a... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046936-the-curse-of-toumai-an>
 
 ---
 
@@ -26,7 +721,7 @@ date: 2025-05-29, updated: 2025-05-28, from: Bruce Schneier blog
 
 date: 2025-05-29, updated: 2025-05-29, from: Liam Proven's articles at the Register
 
-<h4>Wiggles tiny price for FishOS Ceph-based wares as deprecation of Ceph continues</h4>
+<h4><span class="label">Updated</span> Wiggles tiny price for FishOS Ceph-based wares as deprecation of Ceph continues</h4>
       <p>Sardina hopes to entice anyone still using SUSE Enterprise Storage (SES) over to FishOS instead with a price-based hook: a license fee of €1 per core, regardless of storage volume.</p> 
 
 <br> 
@@ -85,7 +780,7 @@ BTW, just for fun, a search for <a href="https://daytona.scripting.com/search?q=
 
 date: 2025-05-29, from: Robert Reich's blog
 
-Friends, 
+Watch now (33 mins) | Friends, 
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164669158/4ccff48647419d6790a7d3cf2b40dc65.mp3"></source>
@@ -378,78 +1073,6 @@ date: 2025-05-28, updated: 2025-05-28, from: Liam Proven's articles at the Regis
 <br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2025/05/28/three_ways_to_win_on_lin/>
-
----
-
-## 2025-05-27 Alt text on this blog
-
-date: 2025-05-28, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-27-alt-text-on-this-blog">2025-05-27 Alt text on this blog</h1>
-
-<p>On the web, the alt text is a description of an image to be shown by browsers when the image cannot be shown – like text browsers or screen readers. So what about alt text on this blog? What about blog posts full of photos, specifically? Like the <a href="Croatia">Croatia</a> posts.</p>
-
-<p>I think that alt text should be unnecessary on my blog because the text should carry the entire message. “Welcome to my <a href="Wall_of_Text">Wall of Text</a>!” 😄</p>
-
-<p>On fedi, I like alt text and I both read and write it. I hate clients that don’t display it. I want to always read it. Therefore, on my blog, the equivalent of alt text should always be readable. But real alt text isn’t shown to me – the browser is showing me the pictures, instead. It makes sense. And on fedi it only works because the applications and front-ends don&rsquo;t just use the alt text attribute for images in HTML – they have an extra user-interface to allow me to read it. Buttons, mouse-over, long-press, whatever it takes.</p>
-
-<p>There are options for this blog, of course. Except I don’t like these options.</p>
-
-<p>I could reuse the alt text as the image title attribute which is shown on mouse-over by default. I don’t like being forced to use mouse and I don’t like duplicating the description.</p>
-
-<p>In Markdown:</p>
-
-<pre><code>![alt text](url &quot;title&quot;)
-</code></pre>
-
-<p>I could automatically use the alt text as the title attribute but I still don’t like to use the mouse to read the title attribute and I wouldn’t be able to switch Markdown rendering engines as easily if I hack it. Writing some Javascript to produce extra pop-ups or some other user-interface element would be even worse, and it would need extra clicking or keyboard navigation as a reader. No way.</p>
-
-<p>The last option is the best. Just write the description above the image:</p>
-
-<pre><code>Description
-
-![](url)
-</code></pre>
-
-<p>I’ve tried using the title attribute for some of my recent picture-heavy blog posts about Croatia and I’ve been checking the result using Gemini and Gopher, and I’m not happy.</p>
-
-<p>Compare the following two with the <a href="https://alexschroeder.ch/view/2025-05-17-%C5%A1ibenik">web</a> version where I can’t read the alt text. (Screenshots from <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a> on my phone.)</p>
-
-<p>The <a href="gemini://alexschroeder.ch/2025-05-17-šibenik">Gemini</a> version looks OK with some text paragraphs being links to the images.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-1.jpg" alt="" /></p>
-
-<p>The <a href="gopher://alexschroeder.ch/02025-05-17-šibenik">Gopher</a> version shows the alt texts as weird disjointed text paragraphs that sometimes repeat the preceding paragraph and sometimes don’t.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-2.jpg" alt="" /></p>
-
-<p>I guess I could write longer alt texts until the Gopher version looks good but then the Gemini version looks weird and the web version continues to not show it.</p>
-
-<p>Now check the Gemini and Gopher output for the page you’re reading right now!</p>
-
-<p>The <a href="gopher://alexschroeder.ch/02025-05-27-alt-text">Gopher</a> version is OK. The line-breaks don’t look nice on the phone at the default resolution so ignore that weird line-break. What we can see is that the empty alt text generated an empty paragraph. Something I should fix. 😅 But in general, it looks OK and reads well.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-3.jpg" alt="" /></p>
-
-<p>The <a href="gemini://alexschroeder.ch/2025-05-27-alt-text">Gemini</a> version still looks OK. It also links to the Gopher and Gemini versions, so ignore those extra links. 😅 The browser substitutes the filenames for the missing alt text. That works for me. I&rsquo;m not sure what a screen reader would do. Probably say: &ldquo;Image. 2025-05-27-alt-text-3.jpg&rdquo;? And I&rsquo;m not sure what a person with bad sight would prefer. At this point I&rsquo;d know that I can skip the image since I have already read the description above.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-4.jpg" alt="" /></p>
-
-<p>And here&rsquo;s the same passage a day later, using the text browser <code>lynx</code>. The inline links look good, and there&rsquo;s no trace of the screenshots. This is great! It&rsquo;s as readable as the Gopher version with no extra line-breaks, and the inline links are inline (unlike in the Gemini version).</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-5.jpg" alt="" /></p>
-
-<p>All in all, I think this solution is better: Instead of alt text, just write more text above each image.</p>
-
-<p>What I’m less sure about is whether this automatically implies that all images are “decorative” and therefore should have an empty alt text (instead of no alt text). It seems to me that the filename being shown is a lot of visual clutter, but that only seems to affect Gemini, not the text browser.</p>
-
-<p>What do you think?</p>
-
-<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a> <a class="tag" href="/search/?q=%23Gopher">#Gopher</a> <a class="tag" href="/search/?q=%23Markdown">#Markdown</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-27-alt-text>
 
 ---
 

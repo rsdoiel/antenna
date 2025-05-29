@@ -1,15 +1,299 @@
 ---
 title: planet
-updated: 2025-05-29 06:08:08
+updated: 2025-05-29 14:08:02
 ---
 
 # planet
 
-(date: 2025-05-29 06:08:08)
+(date: 2025-05-29 14:08:02)
 
 ---
 
-## Drivers urged to be aware of vulnerabilities this weekend
+## Data protection watchdog moves to new Dublin headquarters
+
+date: 2025-05-29, from: RTÉ News
+
+The Data Protection Commission has moved to new headquarters in Dublin which will bring together all of the Commission's Dublin-based staff into one office. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515793-data-protection-commission-hq/>
+
+---
+
+## MEP used AI to compose letter to von der Leyen on Gaza
+
+date: 2025-05-29, from: RTÉ News
+
+Midlands North-West MEP Ciaran Mullooly has confirmed that he used artificial intelligence to write a letter to European Commission President Ursula von der Leyen, urging the EU to deliver more aid to Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515780-ciaran-mullooly/>
+
+---
+
+## France to ban smoking outdoors in most places- minister
+
+date: 2025-05-29, from: RTÉ News
+
+France will ban smoking in all outdoor places that can be frequented by children, like beaches, parks and bus stops, the health and family minister said in an interview. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0529/1515774-france-smoking-ban/>
+
+---
+
+## Man charged over driving car into crowd in Liverpool
+
+date: 2025-05-29, from: RTÉ News
+
+The alleged driver of a car that ploughed into a crowd at Liverpool's victory parade has been charged with offences including wounding and causing grievous bodily harm against six victims. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0529/1515766-man-charged-over-driving-car-into-crowd-at-pl-parade/>
+
+---
+
+## Tánaiste to contact Israel after Irish troops fired upon
+
+date: 2025-05-29, from: RTÉ News
+
+Tánaiste Simon Harris is to contact the Israeli government over what he termed as an "utterly inappropriate, utterly unacceptable" attack on Irish peacekeeping troops in southern Lebanon. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515765-lebanon-latest/>
+
+---
+
+## TD apologises over claim British army 'never retaliated'
+
+date: 2025-05-29, from: RTÉ News
+
+Fianna Fáil's Cathal Crowe has apologised after he "wrongly" stated that the British military "never retaliated by bombing or shooting the civilian population of Ireland" during a Dáil debate on the war in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0529/1515761-cathal-crowe-apology/>
+
+---
+
+## Two new members appointed to CHI board after resignations
+
+date: 2025-05-29, from: RTÉ News
+
+Two new board members have been appointed to the Children's Health Ireland (CHI) board. It follows the resignations of four members in the past week. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0529/1515762-chi-board-appointment/>
+
+---
+
+## Ryanair's Micheal O'Leary could earn €100m shares jackpot
+
+date: 2025-05-29, from: RTÉ News
+
+Ryanair Chief Executive Michael O'Leary hit a share-price target today that could earn him over €100m, a payout he told investors earlier this month would be good value compared to the salaries of football stars. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0529/1515760-micheal-oleary-could-earn-100m-shares-jackpot/>
+
+---
+
+## Pope invites Anabaptists and Catholics to have ‘courage to love’
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends a message to mark the 500th anniversary of the Anabaptist movement, and invites Catholics and Mennonites to employ “honesty and kindness” in reflecting on our common history.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-message-anabaptists-mennonites-500-anniversary.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-message-anabaptists-mennonites-500-anniversary.html>
+
+---
+
+## Lifetime ban for woman after 'appalling' animal neglect
+
+date: 2025-05-29, from: RTÉ News
+
+A dentist has been given a suspended prison sentence of four-and-a-half years, and a lifetime ban on owning animals after what a judge described as "one of the most appalling cases of animal neglect" he had ever come across. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0529/1515753-animal-neglect/>
+
+---
+
+## Musicians needn't feel threat from AI - Stewart Copeland
+
+date: 2025-05-29, from: RTÉ News
+
+As a founding member and drummer with The Police, Stewart Copeland knows what it takes to make a hit. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515747-stewart-copeland-ai-music/>
+
+---
+
+## 'Some 100 schemes' under way to tackle flooding - Moran
+
+date: 2025-05-29, from: RTÉ News
+
+The Government has restated its commitment to tackling the threat of flooding by investing in "prevention, protection and preparedness". 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0529/1515746-flooding/>
+
+---
+
+## News from the Orient - May 29, 2025
+
+date: 2025-05-29, from: Vatican News
+
+
+                    <p>In this week's News from the Orient, produced in collaboration with L'Œuvre d'Orient: The Church marks the International Day of Eastern Christians, Pilgrims visit a prison in Romania, and Syria honours St Rita.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/news-from-the-orient-may-29-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/news-from-the-orient-may-29-2025.html>
+
+---
+
+## Harris accuses Israel of genocide in Dáil clash over Gaza
+
+date: 2025-05-29, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs Simon Harris has insisted Government is doing all it can to help ordinary people in Palestine - describing what is happening as "the genocidal activity of the Netanyahu government" and that there is "an act of evil going on". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515739-harris-connolly-gaza/>
+
+---
+
+## Residents in shock after glacier destroys Swiss village
+
+date: 2025-05-29, from: RTÉ News
+
+Residents were struggling to absorb the scale of devastation caused by a huge chunk of glacier that buried most of their picturesque Swiss village, in what scientists suspect is a dramatic example of the impact of climate change on the Alps. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0529/1515734-swiss-village-glacier/>
+
+---
+
+## Man refused bail over alleged motorbike attack on garda
+
+date: 2025-05-29, from: RTÉ News
+
+A man accused of injuring a drugs unit garda by knocking him down with a "high-powered" motorcycle in Dublin has been denied bail. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0529/1515731-motorbike-attack/>
+
+---
+
+## Belfast Trust says NI cardiac unit report 'appalling'
+
+date: 2025-05-29, from: RTÉ News
+
+A review of the culture of Northern Ireland's regional cardiac unit uncovered behaviour which was "shocking and indefensible", health chiefs have said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515723-cardiac-unit-report-ni/>
+
+---
+
+## Judge extends order blocking Trump's attempt to bar Harvard from enrolling foreign students
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547092.1748537996!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/harvard-graduation.jpg' alt='Several people in school caps and gowns are shown seated at a ceremony. One has a sign that reads, &apos;Health, dignity, justice for every human.&apos;' width='620' height='349' title='Graduating students are shown attending commencement ceremonies at Harvard University in Cambridge, Mass., on Thursday, as one of the legal battles between the school and Donald Trump&apos;s administration proceeded in court.'/><p>Harvard graduates celebrated commencement on Thursday at a pivotal time for the Ivy League school, as a federal judge extended an order blocking President Donald Trump administration's attempt to bar the university from enrolling foreign students.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/harvard-graduation-court-hearing-1.7547046?cmp=rss>
+
+---
+
+## Ward says McCabe ready to go for 'must-win' Turkey test
+
+date: 2025-05-29, from: RTÉ News
+
+Republic of Ireland head coach Carla Ward insists Katie McCabe is fit and ready to play against Turkey tomorrow evening having savoured the joyous celebrations that followed Arsenal's Champions League triumph. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0529/1515704-ward-says-mccabe-ready-to-go-for-must-win-turkey-test/>
+
+---
+
+## Commission wants postal vote medical cert fees waived
+
+date: 2025-05-29, from: RTÉ News
+
+Ireland's electoral watchdog, An Coimisiún Toghcháin, has called on the Department of Housing and Local Government to waive all fees associated with medical certs for postal votes in time for autumn's presidential election. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515718-postal-voting/>
+
+---
+
+## Spike in weight loss drugs seized by Revenue - HPRA
+
+date: 2025-05-29, from: RTÉ News
+
+There has been a large increase in the number of unauthorised weight loss products seized by Revenue, according to the Health Products Regulatory Authority. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515710-hpra-drugs/>
+
+---
+
+## Criticism of Netanyahu not anti-Semitism - President
+
+date: 2025-05-29, from: RTÉ News
+
+President Michael D Higgins has said accusations of anti-Semitism against those who criticise the policies of Israeli Prime Minister Benjamin Netanyahu amount to "slander against Ireland". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0529/1515707-higgins-gaza/>
+
+---
+
+## Hours cut over military air traffic controller shortage
+
+date: 2025-05-29, from: RTÉ News
+
+Contingency plans are being put in place to deal with a shortage of military air traffic controllers, Tánaiste and Minister for Defence Simon Harris has told the Dáil. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0529/1515706-military-air-traffic-controllers-baldonnel/>
+
+---
+
+## Drivers urged not to 'take risks' on roads this weekend
 
 date: 2025-05-29, from: RTÉ News
 
@@ -21,11 +305,23 @@ An appeal has been launched by An Garda Síochána and the Road Safety Authority
 
 ---
 
-## US may use administrative process against Harvard
+## Israel announces 22 new settlements in occupied West Bank despite sanctions threat
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7546985.1748534626!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-west-bank-settlers.JPG' alt='Buildings at an Israeli settlement.' width='620' height='349' title='New buildings stand around the Israeli settlement Ateret near the Palestinian village of Um Safa near Ramallah, in the Israeli-occupied West Bank, March 11, 2025. REUTERS/Mohammed Torokman'/><p>Israel's government has approved 22 new Jewish settlements in the occupied West Bank, its finance minister said on Thursday, a move condemned by Israeli human rights groups that may strain ties with key allies that have threatened sanctions.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-west-bank-settlements-expansion-1.7546966?cmp=rss>
+
+---
+
+## Harvard given 30 days to contest US administration plans
 
 date: 2025-05-29, from: RTÉ News
 
-The Trump administration signalled it might back off plans to immediately revoke Harvard University's ability to enrol foreign students because of several concerns, including its alleged failure to police antisemitism on campus, and would instead employ a lengthier administrative process. 
+The Trump administration backed away from plans to immediately revoke Harvard University's ability to enroll international students and would instead give it 30 days to contest those plans through a lengthier administrative process. 
 
 <br> 
 
@@ -33,11 +329,11 @@ The Trump administration signalled it might back off plans to immediately revoke
 
 ---
 
-## Russia says no response from Ukraine on Istanbul talks
+## Zelensky accuses Russia of 'another deception'
 
 date: 2025-05-29, from: RTÉ News
 
-Russia has said it is still waiting for Ukraine to say whether it would attend peace talks in Istanbul on Monday, after Kyiv demanded Moscow send its peace terms before agreeing to the meeting. 
+Ukrainian President Volodymyr Zelensky has said Russia was engaging in "yet another deception" by failing to hand over its peace settlement proposal ahead of a potential meeting between Moscow and Kyiv. 
 
 <br> 
 
@@ -58,6 +354,54 @@ date: 2025-05-29, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-visits-the-borgo-laudato-si-in-castel-gandolfo.html>
+
+---
+
+## ‘We are the present’: Tajik climate activist urges leaders to include youth voices in dialogue
+
+date: 2025-05-29, from: United Nations, UN Affairs
+
+A young activist from Tajikistan is speaking up to show that her generation can be part of the solution to combat climate change. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163836>
+
+---
+
+## UN searches for solutions to global housing crisis
+
+date: 2025-05-29, from: United Nations, Top Stories
+
+The UN’s urban development agency&nbsp;estimates that an astonishing 2.8 billion people worldwide lack access to adequate housing, secure land, and basic water and sanitation services – that’s around 40 per cent of the global population. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163851>
+
+---
+
+## Desperate hunger drives crowd to storm UN food warehouse in Gaza
+
+date: 2025-05-29, from: United Nations, Top Stories
+
+Desperate hunger drove crowds of people to overrun a World Food Programme (WFP) warehouse in central Gaza on Wednesday, reportedly leaving two dead and several injured in a chaotic scramble for food. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163831>
+
+---
+
+## UN honours service and sacrifice of its peacekeepers
+
+date: 2025-05-29, from: United Nations, UN Affairs
+
+The United Nations is honouring staff serving at its field missions through several events to mark the International Day of UN Peacekeepers on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163821>
 
 ---
 
@@ -97,6 +441,30 @@ There has been an 80% increase in incidents of disruptive passenger behaviour re
 
 ---
 
+## 'Wrench attacks' subject some cryptocurrency holders to violence, kidnapping
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7546783.1748529721!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/man-kidnapped.jpg' alt='A person in a white robe with their back to the camera stands on the sidewalk in bare feet while handcuffed in front of what appears to be a townhouse. Several police officers are shown, some near the arrested person and some near a police vehicle.' width='620' height='349' title='New York police officers arrest John Woeltz, Friday, May 23, 2025, in New York, who was charged with kidnapping, assaulting and holding a man against his will for several weeks in an upscale Manhattan town house. '/><p>Police in two cases in the United States, and one in France, allege that brutal assaults were tied to cryptocurrency-related crimes that have spilled out from behind computer screens and into the real world as the largely unregulated currency surges in value.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/world-us-cryptocurrency-related-crimes-1.7546701?cmp=rss>
+
+---
+
+## Pimicikimak Cree Nation trying to get 767 people out of northern Manitoba community as wildfire closes in
+
+date: 2025-05-29, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7543396.1748198569!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/wildfires-near-pimicikamak-cree-nation.jpeg' alt='A plume of smoke billows from behind a building in Pimicikamak Cree Nation.' width='620' height='349' title='A plume smoke billows from an out-of-control wildfire in Pimicikamak Cree Nation forcing the evacuation of hundreds this weekend.'/><p>A wildfire is at the threshhold of Pimicikimak Cree Nation, choking the air with smoke, as the northern Manitoba community's leaders work to get 767 people out.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/wildfire-evacuations-pimicikimak-cree-nation-manitoba-1.7546711?cmp=rss>
+
+---
+
 ## Pedestrian dies after being struck by car in Co Offaly
 
 date: 2025-05-29, from: RTÉ News
@@ -118,6 +486,18 @@ A South African court has sentenced a woman to life in prison for kidnapping and
 <br> 
 
 <https://www.rte.ie/news/world/2025/0529/1515640-south-africa-court/>
+
+---
+
+## Tate brothers charged with rape and trafficking in the U.K.
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7546788.1748526302!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/romania-tate.jpg' alt='A man points as he speaks into several microphones held in front of him as another man wearing sunglasses watches on the left. ' width='620' height='349' title='Andrew Tate, left, watches his brother Tristan speak, outside a police station in Voluntari, Romania, May 21, 2025. '/><p>Influencer brothers Andrew and Tristan Tate face rape and trafficking charges in the U.K.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tate-brothers-charges-britain-1.7546768?cmp=rss>
 
 ---
 
@@ -149,11 +529,11 @@ date: 2025-05-29, from: Vatican News
 
 ---
 
-## Jury in Adams defamation case begins deliberations
+## Jury in Adams defamation case to return tomorrow
 
 date: 2025-05-29, from: RTÉ News
 
-The jury in the defamation case taken by former Sinn Féin leader Gerry Adams has begun deliberating. 
+The jury in the defamation case taken by former Sinn Féin leader Gerry Adams will return to deliberating on the case again at 10.30am tomorrow. 
 
 <br> 
 
@@ -253,11 +633,11 @@ US Secretary of State Marco Rubio has announced that the United States will star
 
 ---
 
-## Second day of Laois search in Fiona Pender investigation
+## Laois search ends in Fiona Pender investigation
 
 date: 2025-05-29, from: RTÉ News
 
-A second search as part of the investigation into the disappearance and murder of Offaly woman Fiona Pender is continuing this morning at a location in the Slieve Bloom mountains in Co Laois. 
+A search in the Slieve Bloom mountains in Co Laois as part of the investigation into the disappearance and murder of Fiona Pender has ended this evening. 
 
 <br> 
 
@@ -269,7 +649,7 @@ A second search as part of the investigation into the disappearance and murder o
 
 date: 2025-05-29, from: RTÉ News
 
-Far-right Israeli Finance Minister Bezalel Smotrich has announced the creation in the occupied West Bank of 22 new settlements, which are considered illegal under international law. 
+Israel's government has approved 22 new Jewish settlements in the occupied West Bank, a move that could deepen divisions with some allies who have threatened sanctions over such moves. 
 
 <br> 
 
@@ -277,11 +657,11 @@ Far-right Israeli Finance Minister Bezalel Smotrich has announced the creation i
 
 ---
 
-## Jury resumes deliberations in Richard Satchwell trial
+## Jury to continue Satchwell trial deliberations tomorrow
 
 date: 2025-05-29, from: RTÉ News
 
-The jury in the trial of Richard Satchwell has resumed its deliberations. 
+The jury in the trial of Richard Satchwell, who is accused of the murder of his wife at their home in Cork just over eight years ago, has gone home for the evening and will resume deliberations in the morning. 
 
 <br> 
 
@@ -305,11 +685,11 @@ date: 2025-05-29, from: Vatican News
 
 ---
 
-## Senior Kinahan figure on way to Ireland after extradition
+## McGovern charged with murder, conspiracy to murder
 
 date: 2025-05-29, from: RTÉ News
 
-One of the most senior figures in the Kinahan Organised Crime Group, who is wanted in Ireland to face charges of murder and involvement with a criminal gang, has been extradited from the United Arab Emirates. 
+A senior figure in the Kinahan Organised Crime Group, who was extradited to Ireland from the United Arab Emirates, has been charged with murder and conspiracy to murder at a special sitting of the Special Criminal Court. 
 
 <br> 
 
@@ -369,6 +749,18 @@ The Arts Council has said it "greatly regrets" spending €6.7 million on a comp
 
 ---
 
+## Arts Council 'regrets' €6.7m IT failure, PAC hears
+
+date: 2025-05-29, from: RTÉ News
+
+The Arts Council has said it "greatly regrets" spending €6.7 million on a complex IT project that was later abandoned, the Public Accounts Committee has heard. 
+
+<br> 
+
+<https://www.rte.ie/culture/2025/0529/1515547-public-accounts-committee/>
+
+---
+
 ## Two TDs reiterate support for Govt after backing SF bill
 
 date: 2025-05-29, from: RTÉ News
@@ -381,11 +773,11 @@ The two Independent TDs who voted against the Government in the Dáil last night
 
 ---
 
-## Gaza civil defence says 44 killed in Israel attacks
+## New US Gaza truce proposal does not meet demands - Hamas
 
 date: 2025-05-29, from: RTÉ News
 
-Gaza's civil defence agency said Israeli attacks killed 44 people, including 23 in a strike on a home in the centre of the Palestinian territory. 
+The White House said Israel had "signed off" on a new Gaza ceasefire proposal submitted to Hamas, but the Palestinian militant group said the deal failed to satisfy its demands. 
 
 <br> 
 
@@ -421,7 +813,7 @@ date: 2025-05-29, from: CBC, World News
 
 date: 2025-05-29, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7546456.1748490682!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nepal-everest-speed.jpg' alt='Four men in black parkas and snow pants wave a British flag while standing on the top of a mountain. ' width='620' height='349' title='Four British climbers pose on the summit of Mount Everest in Nepal on Wednesday, May 21, 2025. The mountain guide who arranged their trek said he and the team had inhaled xenon gas in Germany before embarking on the expedition where they reached the 8,848 metre peak of Everest less than five days after departing London.'/><p></p> 
+<img src='https://i.cbc.ca/1.7546456.1748545621!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nepal-everest-speed.jpg' alt='Four men in black parkas and snow pants wave a British flag while standing on the top of a mountain. ' width='620' height='349' title='Four British climbers pose on the summit of Mount Everest in Nepal on Wednesday, May 21, 2025. The mountain guide who arranged their trek said he and the team had inhaled xenon gas in Germany before embarking on the expedition where they reached the 8,848 metre peak of Everest less than five days after departing London.'/><p></p> 
 
 <br> 
 
@@ -429,11 +821,11 @@ date: 2025-05-29, from: CBC, World News
 
 ---
 
-## Musk leaving Trump administration - White House official
+## White House thanks Musk as he leaves administration role
 
 date: 2025-05-29, from: RTÉ News
 
-Billionaire Tesla CEO Elon Musk is leaving the Trump administration after leading the so-called Department of Government Efficiency in a controversial effort to slash federal spending. 
+The White House has expressed thanks to Elon Musk after the tech billionaire said he was leaving his cost-cutting role in US President Donald Trump's administration. 
 
 <br> 
 
@@ -441,11 +833,11 @@ Billionaire Tesla CEO Elon Musk is leaving the Trump administration after leadin
 
 ---
 
-## US court blocks Trump's tariffs from going into effect
+## US appeals court temporarily reinstates Trump's tariffs
 
 date: 2025-05-29, from: RTÉ News
 
-A US trade court has blocked President Donald Trump's tariffs from going into effect in a sweeping ruling that the president overstepped his authority by imposing across the board duties on imports from nations that sell more to the United States than they buy. 
+A US federal appeals court has reinstated the most sweeping of President Donald Trump's tariffs, a day after a trade court had ruled he had exceeded his authority in imposing the duties and had ordered an immediate block on them. 
 
 <br> 
 
@@ -462,6 +854,18 @@ Disclosures of sexual violence to the Dublin Rape Crisis Centre last year reache
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0529/1515548-dublin-rape-crisis-centre-report/>
+
+---
+
+## Sask. premier declares provincial state of emergency
+
+date: 2025-05-29, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7546723.1748521236!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/weyakwin-fire.jpg' alt='a man points as trees go up in flames.' width='620' height='349' title='Weyakwin, a hamlet 140 kilometres north of Prince Albert, issued an evacuation order late on Wednesday as a wildfire threatened the community.'/><p>The Saskatchewan government has declared a provincewide state of emergency, as wildfires raging across the northern part of the province continue to drive thousands from their homes.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/saskatchewan-first-nations-wildfires-state-of-emergency-1.7546571?cmp=rss>
 
 ---
 
@@ -570,6 +974,18 @@ Kneecap will no longer be playing at the TRNSMT festival in Scotland after the p
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0528/1515508-kneecap-move-scottish-gig-amid-police-safety-concerns/>
+
+---
+
+## Manitoba declares provincewide state of emergency over wildfires
+
+date: 2025-05-28, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7546278.1748528362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildfire-near-flin-flon.jpg' alt='A plume of smoke billows to the sky from a wildfire near lakes and forest.' width='620' height='349' title='Firefighters are battling a fire growing closer to Flin Flon in northern Manitoba on May 27, 2025 that started earlier this week at a landfill in Creighton, Sask., just across the provincial border. '/><p>Manitoba has declared a provincewide state of emergency as wildfires continue to threaten communities across the province. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/state-of-emergency-flin-flon-evacuation-1.7546326?cmp=rss>
 
 ---
 

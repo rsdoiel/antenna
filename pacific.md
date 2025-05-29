@@ -1,11 +1,38 @@
 ---
 title: pacific
-updated: 2025-05-29 06:08:09
+updated: 2025-05-29 14:08:04
 ---
 
 # pacific
 
-(date: 2025-05-29 06:08:09)
+(date: 2025-05-29 14:08:04)
+
+---
+
+## McCarthy Mall, Paradise Palms construction begins June 2
+
+date: 2025-05-29, from: University of Hawaiʻi News
+
+<p>The work is part of a major capital improvement project aimed at transforming the heart of campus.</p>
+The post <a href="https://www.hawaii.edu/news/2025/05/29/mccarthy-mall-paradise-palms-construction/">McCarthy Mall, Paradise Palms construction begins June 2</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/05/29/mccarthy-mall-paradise-palms-construction/>
+
+---
+
+## Brenson signs referendum results
+
+date: 2025-05-29, from: Marshal Islands Journal
+
+<p>Speaker Brenson Wase signed confirmation Wednesday this week that six of seven constitutional amendments were approved by Marshall Islands voters during a national referendum on April 25. He was joined by Minister of Culture and Internal Affairs Jess Gasper, Jr. and RMI and Nitijela officials.</p>
+<p>The post <a href="https://marshallislandsjournal.com/brenson-signs-referendum-results/">Brenson signs referendum results</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/brenson-signs-referendum-results/>
 
 ---
 

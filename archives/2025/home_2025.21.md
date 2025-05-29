@@ -1,11 +1,156 @@
 ---
 title: home
-updated: 2025-05-29 06:08:13
+updated: 2025-05-29 14:08:07
 ---
 
 # home
 
-(date: 2025-05-29 06:08:13)
+(date: 2025-05-29 14:08:07)
+
+---
+
+## Save Your Retaining Wall: Expert Tips to Avoid Costly Collapses
+
+date: 2025-05-29, from: Family Handyman Blog
+
+<p>It may be fixable, or not. Here's why retaining walls fail, and what to do about it if yours is looking questionable.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/retaining-wall-collapse/">Save Your Retaining Wall: Expert Tips to Avoid Costly Collapses</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/retaining-wall-collapse/>
+
+---
+
+## 10 Natural Tick Repellents and Their Effectiveness Explained
+
+date: 2025-05-29, from: Family Handyman Blog
+
+<p>Consider these expert-approved, scientifically-backed natural tick repellent ideas to protect you and your pets from these tiny disease-spreading terrors.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/natural-tick-repellents/">10 Natural Tick Repellents and Their Effectiveness Explained</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/natural-tick-repellents/>
+
+---
+
+## Plywood Flatpack Furniture Is Having a Moment. We Put It to the Test
+
+date: 2025-05-29, from: Dwell
+
+Smaller designers have been experimenting with Ikea-style furniture. Three Dwell staffers tried three such brands to see how they really hold up 
+
+<br> 
+
+<https://www.dwell.com/article/studio-furnis-unfnshed-lucca-house-review-flatpack-plywood-furniture31a88d25-5e637ef0>
+
+---
+
+## The compost connection: from your yard to California’s farms
+
+date: 2025-05-29, from: Calfifornia Dept. Aggriculture blog
+
+Today, May 29, is National Learn About Composting Day! Ever wonder what happens to the banana peels and yard clippings you toss in the green bin? In this video, Dana Yount, an environmental scientist at the California Department of Food &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29027">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29027>
+
+---
+
+## A Family’s Loft Inside a Former Chocolate Factory Takes a Candy-Colored Turn
+
+date: 2025-05-29, from: Dwell
+
+A splashy kitchen and a pink room holding a laundry area and bathroom nod to Memphis style. 
+
+<br> 
+
+<https://www.dwell.com/article/kerr-street-design-and-diplomacy-memphis-style-renovated-loft-family-home-d7bb405e>
+
+---
+
+## From the Archive: What It’s Like to Live in a Neutra—Two of Them
+
+date: 2025-05-29, from: Dwell
+
+Historian Thomas S. Hines didn’t just write the seminal monograph of Neutra’s work, he called the architect’s modernist apartment buildings home for decades. 
+
+<br> 
+
+<https://www.dwell.com/article/richard-neutra-strathmore-kelton-thomas-s-hines-6956f98f>
+
+---
+
+## In Hawaii, an A-Frame Home With A-Plus Views Seeks $2.5M
+
+date: 2025-05-29, from: Dwell
+
+Perched high above Honolulu, the updated midcentury has exposed beams, vaulted ceilings, and floor-to-ceiling windows overlooking the ocean and skyline. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-a-frame-home-renovation-honolulu-hawaii-real-estate-52259f59>
+
+---
+
+## Cheap Decorating Ideas That’ll Make Your Space Look Expensive
+
+date: 2025-05-29, from: Family Handyman Blog
+
+<p>We've rounded up several cheap decorating ideas to make your space look luxurious without breaking the bank. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/cheap-decorating-ideas-look-expensive/">Cheap Decorating Ideas That&#8217;ll Make Your Space Look Expensive</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/cheap-decorating-ideas-look-expensive/>
+
+---
+
+## Warning: Modern Car Lasers Could Break Your iPhone!
+
+date: 2025-05-29, from: Family Handyman Blog
+
+<p>Did you know that car lasers can wreck your iPhone? It's never a good idea to point a camera at them. Read on to find out why!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-laser-lidar-could-break-iphone/">Warning: Modern Car Lasers Could Break Your iPhone!</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-laser-lidar-could-break-iphone/>
+
+---
+
+## When and How to Harvest Anise Seeds
+
+date: 2025-05-29, from: The Gardener's Path
+
+<p>Sweet anise is prized for its zesty licorice flavors and is widely used in baked goods, beverages, confections, and savory dishes. An easy to grow annual herb, the plants need 100 frost-free growing days for flower heads to ripen but they can also be harvested green. Learn when and how to harvest anise seeds in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/harvest-anise-seeds/">When and How to Harvest Anise Seeds</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/harvest-anise-seeds/>
+
+---
+
+## 18 Types of Black Aphids (With Pictures and Identification)
+
+date: 2025-05-29, from: Yard Life blog
+
+<p>Black aphids are tiny insects that can cause big problems for gardeners and farmers alike. These sap-sucking pests often gather ... </p>
+<p class="read-more-container"><a title="18 Types of Black Aphids (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-types-of-black-aphids-with-pictures-and-identification/#more-28993" aria-label="Read more about 18 Types of Black Aphids (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-types-of-black-aphids-with-pictures-and-identification/">18 Types of Black Aphids (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-types-of-black-aphids-with-pictures-and-identification/>
 
 ---
 
@@ -23,6 +168,66 @@ date: 2025-05-29, from: The Gardener's Path
 
 ---
 
+## Where to See Some of Spring’s Most Spectacular Blooms in the West
+
+date: 2025-05-29, from: Sunset Magazine - Living in the West
+
+Spring in the West is nothing short of magical, with an explosion of color painting the landscape across the region. Here's where to visit. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/where-to-see-spring-blooms-in-the-west>
+
+---
+
+## The Number One Garden Task You Can’t Skip This Spring (And How to Do It Right)
+
+date: 2025-05-29, from: Sunset Magazine - Living in the West
+
+Your soil needs a little love before it can support vibrant plants. We're sharing tips on how to prep your soil for spring planting. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-prep-soil-for-spring>
+
+---
+
+## This L.A. Garden Has a Treehouse, a Tiny Farm, and Big Backyard Style
+
+date: 2025-05-29, from: Sunset Magazine - Living in the West
+
+Take a peek in this Los Angles garden which boasts a treehouse, fire pit, entertaining spaces, a kids' play area, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/los-angeles-treehouse-garden>
+
+---
+
+## This Is What You Need to Take with You When Checking out Spring’s Super Blooms
+
+date: 2025-05-29, from: Sunset Magazine - Living in the West
+
+Don’t let allergies get in your way—here's everything you need to hike through spring’s super blooms. Check out our gear recommendations. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/super-bloom-hiking-gear>
+
+---
+
+## Secret Garden Gems of the West to Visit This Spring
+
+date: 2025-05-29, from: Sunset Magazine - Living in the West
+
+Discover secluded oases, unique landscapes, and vibrant blooms in these secret gardens of the West. Put them on your spring travel list. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/secret-gardens-of-the-west>
+
+---
+
 ## 45 Types of Butterflies in Florida (With Pictures and Identification)
 
 date: 2025-05-29, from: Yard Life blog
@@ -35,6 +240,30 @@ date: 2025-05-29, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/45-types-of-butterflies-in-florida-with-pictures-and-identification/>
+
+---
+
+## Inside Artist and Designer Jennifer Miller’s 1930s Spanish-Style Silver Lake Bungalow
+
+date: 2025-05-29, from: Sunset Magazine - Living in the West
+
+Artist and designer's Jennifer Miller's Spanish-style bungalow is Silver Lake is a space that feels collected, curated, and cozy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/jennifer-miller-silver-lake-bungalow>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-29, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -179,18 +408,6 @@ date: 2025-05-28, from: California Grown
 <br> 
 
 <https://californiagrown.org/blog/pasolivo/>
-
----
-
-## This L.A. Garden Has a Treehouse, a Tiny Farm, and Big Backyard Style
-
-date: 2025-05-28, from: Sunset Magazine - Living in the West
-
-Take a peek in this Los Angles garden which boasts a treehouse, fire pit, entertaining spaces, a kids' play area, and more. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/los-angeles-treehouse-garden>
 
 ---
 
@@ -649,18 +866,6 @@ Heal the Bay’s 2024-2025 annual Beach Report Card was released this week and w
 <br> 
 
 <https://www.sunset.com/travel/dirtiest-beaches-west-coast-2024-2025>
-
----
-
-## Homepage 2025
-
-date: 2025-05-27, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-29 06:08:12
+updated: 2025-05-29 14:08:07
 ---
 
 # libraries
 
-(date: 2025-05-29 06:08:12)
+(date: 2025-05-29 14:08:07)
+
+---
+
+## Seven Takeaways from the Spring 2025 Meeting of the Association of Research Libraries
+
+date: 2025-05-29, from: Association of Research Libraries News
+
+<p>Last Updated on May 29, 2025, 4:29 pm ET The Association of Research Libraries (ARL) convened in Minneapolis, Minnesota, at the end of April. Attended by the member representatives of...</p>
+<p>The post <a href="https://www.arl.org/blog/seven-takeaways-from-the-spring-2025-meeting-of-the-association-of-research-libraries/">Seven Takeaways from the Spring 2025 Meeting of the Association of Research Libraries</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/seven-takeaways-from-the-spring-2025-meeting-of-the-association-of-research-libraries/>
 
 ---
 
@@ -65,7 +79,7 @@ Stoll, Heather
 
 date: 2025-05-27, from: Association of Research Libraries News
 
-<p>Last Updated on May 28, 2025, 4:20 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 28 &#124; Thursday, May 29 Tuesday, May...</p>
+<p>Last Updated on May 29, 2025, 2:26 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 28 &#124; Thursday, May 29 Tuesday, May...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-27-29/">Day in Review (May 27–29)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

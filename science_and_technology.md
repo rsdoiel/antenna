@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-05-29 06:08:10
+updated: 2025-05-29 14:08:05
 ---
 
 # science and technology
 
-(date: 2025-05-29 06:08:10)
+(date: 2025-05-29 14:08:05)
+
+---
+
+## NASA Tech Gives Treadmill Users a ‘Boost’
+
+date: 2025-05-29, from: NASA breaking news
+
+Creators of the original antigravity treadmill continue to advance technology with new company.   
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-gives-treadmill-users-a-boost/>
+
+---
+
+## 45 Years Ago: NASA Announces Ninth Astronaut Group
+
+date: 2025-05-29, from: NASA breaking news
+
+Nearly all of NASA’s ninth class of astronaut candidates, along with two European trainees, poses for photos in the briefing room in the public affairs facility at NASA&#8217;s Johnson Space Center in Houston on July 7, 1980. Group 9 was announced on May 29, 1980; the candidates would go on to make history in spaceflight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/45-years-ago-nasa-announces-ninth-astronaut-group/>
+
+---
+
+## Why is China deep in US networks? 'They're preparing for war,' HR McMaster tells lawmakers
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>House Homeland Security Committee takes a field trip to Silicon Valley</h4> <p>Chinese government spies burrowed deep into American telecommunications systems and critical infrastructure networks for one reason, according to retired US Army Lt. Gen. H.R. McMaster.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/china_preparing_war_mcmaster/>
+
+---
+
+## Elon Musk bragged this group had been 'deleted' when DOGE shut it down - now they're appealing
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>18F says the whole thing was political</h4> <p>Former employees of the US government&#39;s 18F tech modernization team have filed an appeal of their termination, arguing that the DOGE-led shuttering of their entire unit was illegal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/18f_files_appeal_rif/>
+
+---
+
+## NASA Tests New Ways to Stick the Landing in Challenging Terrain
+
+date: 2025-05-29, from: NASA breaking news
+
+Advancing new hazard detection and precision landing technologies to help future space missions successfully achieve safe and soft landings is a critical area of space research and development, particularly for future crewed missions. To support this, NASA’s Space Technology Mission Directorate (STMD) is pursuing a regular cadence of flight testing on a variety of vehicles, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/nasa-tests-new-ways-to-stick-the-landing-in-challenging-terrain/>
+
+---
+
+## Nvidia is cozying up to China with Shanghai R&amp;D lab plans, Senators cry
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Banks and Warren accuse chip maker of habitual &#39;disregard for US national security and support for autocratic regimes&#39;</h4> <p>Nvidia is reportedly planning to open a new research and development facility in Shanghai, China, drawing sharp criticism from a pair of US lawmakers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/senators_nvidia_shanghai_office/>
+
+---
+
+## Economists blame Trump tariffs, AI explosion for threatening global economy
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Businesses need to adopt AI, says WEF, but uncertainty is a blocker</h4> <p>There are two things keeping chief economists awake around the globe, if the World Economic Forum&#39;s latest survey is any indicator: US President Donald Trump&#39;s trade policies and AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/economists_blame_trump_tariffs_ai/>
+
+---
+
+## 8,000+ Asus routers popped in 'advanced' mystery botnet plot
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>No formal attribution made but two separate probes hint at the same suspect</h4> <p>Thousands of Asus routers are currently ensnared by a new botnet that is trying to disable Trend Micro security features before exploiting vulnerabilities for backdoor access.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/8000_asus_routers_popped_in/>
+
+---
+
+## Integrated Testing on Horizon for Artemis II Launch Preparations
+
+date: 2025-05-29, from: NASA breaking news
+
+Teams responsible for preparing and launching Artemis II at NASA’s Kennedy Space Center in Florida are set to begin a series of integrated tests to get ready for the mission. With the upper stage of the agency’s SLS (Space Launch System) integrated with other elements of the rocket, engineers are set to start the tests [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/artemis-2/integrated-testing-on-horizon-for-artemis-ii-launch-preparations/>
+
+---
+
+## Thunderbird is go: 139 follows closely on Firefox's heels
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>One of the new smaller monthly releases – and how to tweak it</h4> <p>Mozilla subsidiary MZLA has released the latest version of its messaging client, with some handy extras.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/thunderbird_139/>
+
+---
+
+## NASA’s MAVEN Makes First Observation of Atmospheric Sputtering at Mars
+
+date: 2025-05-29, from: NASA breaking news
+
+After a decade of searching, NASA’s MAVEN (Mars Atmosphere Volatile Evolution) mission has, for the first time, reported a direct observation of an elusive atmospheric escape process called sputtering that could help answer longstanding questions about the history of water loss on Mars. Scientists have known for a long time, through an abundance of evidence, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/maven/nasas-maven-makes-first-observation-of-atmospheric-sputtering-at-mars/>
+
+---
+
+## NASA Langley Uses Height, Gravity to Test Long, Flexible Booms
+
+date: 2025-05-29, from: NASA breaking news
+
+Researchers at NASA’s Langley Research Center in Hampton, Virginia, have developed a technique to test long, flexible, composite booms for use in space in such a way that gravity helps, rather than hinders, the process. During a recent test campaign inside a 100-foot tower at a NASA Langley lab, researchers suspended a 94-foot triangular, rollable, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-uses-height-gravity-to-test-long-flexible-booms/>
+
+---
+
+## Will We Ever Prove String Theory?
+
+date: 2025-05-29, from: Quanta Magazine
+
+Promise and controversy continues to surround string theory as a potential unified theory of everything. In the latest episode of The Joy of Why, Cumrun Vafa discusses his progress in trying to find good, testable models hidden among the ‘swampland’ of impossible universes.            <p>The post <a href="https://www.quantamagazine.org/will-we-ever-prove-string-theory-20250529/" target="_blank">Will We Ever Prove String Theory?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/will-we-ever-prove-string-theory-20250529/>
+
+---
+
+## Look forward to having a Slack teammate, says Salesforce's Benioff
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>No, that&#39;s not someone on your team who doesn&#39;t pull their weight</h4> <p>Salesforce is promising every Slack user a &#34;digital teammate&#34; to help with tasks such as providing summaries of channels and taking notes from meetings. And responding to office banter on the user&#39;s behalf, <em>The Register</em> can only assume.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/slack_teammate/>
+
+---
+
+## US to deny visas to foreign officials it says 'censor' social media
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Against backdrop of EU rules on spread of misinfo plus UK probing role of online hate in far right riots</h4> <p>The US government says it&#39;ll refuse visas to foreign officials judged to have censored social media posts of American citizens - a move aimed at countries trying to stem the flow of online misinformation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/us_to_deny_visas_social_media/>
 
 ---
 
@@ -61,7 +241,7 @@ date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
 
 date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
 
-<h4>Wiggles tiny price for FishOS Ceph-based wares as deprecation of Ceph continues</h4> <p>Sardina hopes to entice anyone still using SUSE Enterprise Storage (SES) over to FishOS instead with a price-based hook: a license fee of €1 per core, regardless of storage volume.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Wiggles tiny price for FishOS Ceph-based wares as deprecation of Ceph continues</h4> <p><strong>Updated</strong>  Sardina hopes to entice anyone still using SUSE Enterprise Storage (SES) over to FishOS instead with a price-based hook: a license fee of €1 per core, regardless of storage volume.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

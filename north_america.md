@@ -1,11 +1,109 @@
 ---
 title: north america
-updated: 2025-05-29 06:08:08
+updated: 2025-05-29 14:08:03
 ---
 
 # north america
 
-(date: 2025-05-29 06:08:08)
+(date: 2025-05-29 14:08:03)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-29, from: The Contrarian
+
+Thursday: Protests in California, Washington, D.C., and New York, planning for June 14, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Taco trade
+
+date: 2025-05-29, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/taco-trade>
+
+---
+
+## Santa Monica Airport Closure Spurs Push for Housing
+
+date: 2025-05-29, from: Capital and Main
+
+<p>A campaign to build housing on the site of the soon-to-be-shuttered airport is drawing pushback from opponents of new development.</p>
+<p>The post <a href="https://capitalandmain.com/santa-monica-airport-closure-spurs-push-for-housing">Santa Monica Airport Closure Spurs Push for Housing</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/santa-monica-airport-closure-spurs-push-for-housing>
+
+---
+
+##  Democratic Voters Know Who Their Real Enemy Is 
+
+date: 2025-05-29, from: The Lever News
+
+ New polling shows Democratic voters already understand what the &quot;Abundance&quot; argument gets wrong: The real problem is corporate power.  
+
+<br> 
+
+<https://www.levernews.com/democratic-voters-know-who-their-real-enemy-is/>
+
+---
+
+## Men can't be silent on misogynoir 
+
+date: 2025-05-29, from: The Contrarian
+
+Black men must lead the conversation. 
+
+<br> 
+
+<https://contrarian.substack.com/p/men-cant-be-silent-on-misogynoir>
+
+---
+
+## Don’t Texas America
+
+date: 2025-05-29, from: The Contrarian
+
+What Texas Can Teach the Democratic Party About the Path Forward 
+
+<br> 
+
+<https://contrarian.substack.com/p/dont-texas-america>
+
+---
+
+## THANK YOU: 1000 posts 
+
+date: 2025-05-29, from: The Contrarian
+
+...and counting! 
+
+<br> 
+
+<https://contrarian.substack.com/p/thank-you-1000-posts>
+
+---
+
+## Norm and April Ryan host Coffee with the Contrarians 05/29
+
+date: 2025-05-29, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 05/29 
+
+<br> 
+
+<https://contrarian.substack.com/p/norm-and-april-ryan-host-coffee-with>
 
 ---
 
@@ -366,18 +464,6 @@ The Supreme Court&#8217;s decision upholding the firing of members of independen
 <br> 
 
 <https://contrarian.substack.com/p/a-blow-to-our-constitutional-system>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-27, from: The Contrarian
-
-Wednesday: Protests in New Jersey, Tennessee, and Scotland, Tesla Takedowns, planning for upcoming protests, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

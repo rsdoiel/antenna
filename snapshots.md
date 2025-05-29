@@ -1,11 +1,183 @@
 ---
 title: snapshots
-updated: 2025-05-29 06:08:15
+updated: 2025-05-29 14:08:10
 ---
 
 # snapshots
 
-(date: 2025-05-29 06:08:15)
+(date: 2025-05-29 14:08:10)
+
+---
+
+## Saying Bye to Glitch
+
+date: 2025-05-29, updated: 2025-05-29, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://pketh.org/bye-glitch.html">Saying Bye to Glitch</a></strong></p>
+Pirijan, co-creator of <a href="https://www.glitch.com/">Glitch</a> - who stopped working on it six years ago, so has the benefit of distance:</p>
+<blockquote>
+<p>Here lies Glitch, a place on the web you could go to write up a website or a node.js server that would be hosted and updated as you type. 🥀 RIP 2015 – 2025.</p>
+</blockquote>
+<p>Pirijan continues with a poignant retrospective about Glitch's early origins at Fog Greek with the vision of providing "web development with real code that was as easy as editing a Google Doc". Their conclusion:</p>
+<blockquote>
+<p>I still believe there’s a market for easy and fun web development and hosting, but a product like this needs power-users and enthusiasts willing to pay for it. To build any kind of prosumer software, you do have to be an optimist and believe that enough of the world still cares about quality and craft.</p>
+</blockquote>
+<p>Glitch will be <a href="https://blog.glitch.com/post/changes-are-coming-to-glitch/">shutting down project hosting and user profiles</a> on July 8th.</p>
+<p>Code will be available to download until the end of the year. Glitch have <a href="https://support.glitch.com/t/glitch-project-bulk-downloading/75872">an official Python export script</a> that can download all of your projects and assets.</p>
+<p>Jenn Schiffer, formerly Director of Community at Glitch and then Fastly, is <a href="https://livelaugh.blog/posts/on-important-changes-coming-to-glitch/">a little more salty</a>:</p>
+<blockquote>
+<p>all that being said, i do sincerely want to thank fastly for giving glitch the opportunity to live to its 3-year acqui-versary this week. they generously took in a beautiful flower and placed it upon their sunny window sill with hopes to grow it more. the problem is they chose to never water it, and anyone with an elementary school education know what happens then. i wish us all a merry august earnings call season.</p>
+</blockquote>
+<p>I'm very sad to see Glitch go. I've been pointing people to my tutorial on <a href="https://simonwillison.net/2019/Apr/23/datasette-glitch/">Running Datasette on Glitch</a> for 5 years now, it was a fantastic way to help people quickly get started hosting their own projects.
+
+    <p><small></small>Via <a href="https://lobste.rs/s/s6utq0/saying_bye_glitch">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/glitch">glitch</a>, <a href="https://simonwillison.net/tags/fastly">fastly</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/29/saying-bye-to-glitch/#atom-everything>
+
+---
+
+## Lilbits: Anbernic RG Slide and AYANEO Pocket S2 handhelds coming soon, VirtualBox adds Windows on ARM support
+
+date: 2025-05-29, from: Liliputing
+
+<p>Anbernic is a Chinese company that&#8217;s put out dozens of handheld game consoles over the past few years. But none look quite like the upcoming Anbernic RG Slide, which appears to be a handheld game console with a PSP Go-like design featuring a screen that slides upward to reveal a gamepad. Earlier this month a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-anbernic-rg-slide-and-ayaneo-pocket-s2-handhelds-coming-soon-virtualbox-adds-windows-on-arm-support/">Lilbits: Anbernic RG Slide and AYANEO Pocket S2 handhelds coming soon, VirtualBox adds Windows on ARM support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-anbernic-rg-slide-and-ayaneo-pocket-s2-handhelds-coming-soon-virtualbox-adds-windows-on-arm-support/>
+
+---
+
+## Shuttle introduces XPC nano NE10N/NE20N fanless mini PCs with Intel Alder Lake-N and Twin Lake chips
+
+date: 2025-05-29, from: Liliputing
+
+<p>The Shuttle XPC nano NE10N and XPC nano NE20N are small, fanless computers that measure 135 x 115 x 39mm (5.3&#8243;x  4.5&#8243; x 1.5&#8243;). Both are powered by 6-watt, quad-core Intel processors, but the NE10N comes with an Intel N100 Alder Lake-N chip while the NE20N has a newer, slightly faster Intel N150 Twin Lake processor. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/shuttle-introduces-xpc-nano-ne10n-ne20n-fanless-mini-pcs-with-intel-alder-lake-n-and-twin-lake-chips/">Shuttle introduces XPC nano NE10N/NE20N fanless mini PCs with Intel Alder Lake-N and Twin Lake chips</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/shuttle-introduces-xpc-nano-ne10n-ne20n-fanless-mini-pcs-with-intel-alder-lake-n-and-twin-lake-chips/>
+
+---
+
+## My live video chat with Barry Diller: "It's a business based on instinct ... and instinct takes personality"
+
+date: 2025-05-29, from: Tina Brown
+
+Listen now | My fascinating chat with Barry Diller, biggest of the big dogs about learning about himself as he wrote, interacting with glorious monsters and how he copes with Trump Derangement Syndrome. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164745068/9f23f126d3acb85dfde837b1295ea47f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164745068/9f23f126d3acb85dfde837b1295ea47f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-live-video-chat-with-barry-diller>
+
+---
+
+## Beelink Mate Mini is a Thunderbolt 5 dock designed for the Mac Mini
+
+date: 2025-05-29, from: Liliputing
+
+<p>The latest Mac mini is a tiny computer that packs a high-performance Apple M4 series processor into a tiny chassis that measures just 5&#8243; x 5&#8243; x 2&#8243;. It also has a reasonably large number of ports for such as small computer, including Ethernet, HDMI, and audio jacks, two USB Type-C ports, and three Thunderbolt [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-mate-mini-is-a-thunderbolt-5-dock-designed-for-the-mac-mini/">Beelink Mate Mini is a Thunderbolt 5 dock designed for the Mac Mini</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-mate-mini-is-a-thunderbolt-5-dock-designed-for-the-mac-mini/>
+
+---
+
+## A Texas Cop Searched License Plate Cameras Nationwide for a Woman Who Got an Abortion
+
+date: 2025-05-29, from: 404 Media Group
+
+The sheriff said the woman self-administered the abortion and her family were concerned for her safety, so authorities searched through Flock cameras. Experts are still concerned that a cop in a state where abortion is illegal can search cameras in others where it's a human right. 
+
+<br> 
+
+<https://www.404media.co/a-texas-cop-searched-license-plate-cameras-nationwide-for-a-woman-who-got-an-abortion/>
+
+---
+
+## Small Shifts, Massive Changes
+
+date: 2025-05-29, from: Guy Kawasaki blog
+
+Greg Walton on the Science of Wise Interventions 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/small-shifts-massive-changes>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+In the United States, the fightback against Trump has begun. 
+
+<br> 
+
+<https://www.prospectmagazine.co.uk/world/united-states/69827/united-states-trump-the-fightback-has-begun>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+What Really Happened When OpenAI Turned on Sam Altman. 
+
+<br> 
+
+<https://feedland.org/?item=24550796>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-29, from: Feed for Alt USDS)
+
+We already know Feds are being traumatized. We know that's the plan. Dehumanize them, call them names, summarily fire them. Marginalize and torment the ones they can't fire. 
+
+Except it's worse. They're awful at  doing this and it's a haphazard process that made it even worse. 
+
+🧵1/? 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqcycilz7k2h>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-05-29, from: Robert's feed at BlueSky)
+
+Something to consider 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lqcve4vcls2v>
+
+---
+
+## Raspberry Pi does the heavy lifting in this elevator simulator
+
+date: 2025-05-29, from: Raspberry Pi News (.com)
+
+<p>A hydraulic elevator system powered by Raspberry Pi computers and microcontrollers cleverly simulates an elevator in action.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-does-the-heavy-lifting-in-this-elevator-simulator/">Raspberry Pi does the heavy lifting in this elevator simulator</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/raspberry-pi-does-the-heavy-lifting-in-this-elevator-simulator/>
 
 ---
 
@@ -747,6 +919,18 @@ We have at least two recent belabored examples of companies bewilderingly droppi
 <br> 
 
 <https://feed.tedium.co/link/15204/17039460/arc-pocket-confusing-product-strategies>
+
+---
+
+## Create, Use, and Automate Actions With Custom Behaviors in Browsertrix
+
+date: 2025-05-28, from: Web Recorder
+
+It is now easier than ever to automate custom page actions in Browsertrix. 
+
+<br> 
+
+<https://webrecorder.net/blog/2025-05-28-create-use-and-automate-actions-with-custom-behaviors-in-browsertrix/>
 
 ---
 
@@ -1676,11 +1860,9 @@ An oncologist says Biden&#39;s prostate cancer is treatable, and survivable.
 
 ---
 
-## The Economic Consequences of Destroying Harvard
+**@Dave Winer's linkblog** (date: 2025-05-26, from: Dave Winer's linkblog)
 
-date: 2025-05-26, from: Paul Krugman
-
-Freedom is on the line. But so are jobs. 
+The Economic Consequences of Destroying Harvard. 
 
 <br> 
 

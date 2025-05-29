@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-05-29 06:08:13
+updated: 2025-05-29 14:08:07
 ---
 
 # motorcycles
 
-(date: 2025-05-29 06:08:13)
+(date: 2025-05-29 14:08:07)
+
+---
+
+## BMW Gives the Isle of Man a Bunch of Superbikes, Could Be Genius Marketing
+
+date: 2025-05-29, from: Ride Apart, Electric Motorcycle News
+
+The fastest race in the world needs the fastest bikes.  
+
+<br> 
+
+<https://www.rideapart.com/news/760860/bmw-sponsors-isle-of-man-tt-superbikes/>
+
+---
+
+## This Indian Manufacturer Will Launch a New Middleweight Adventure Motorcycle
+
+date: 2025-05-29, from: Ride Apart, Electric Motorcycle News
+
+Could it go up against the likes of the Royal Enfield Himalayan? 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/760888/yezdi-adventure-update-coming-soon/>
+
+---
+
+## After Patenting a Motorcycle, GM Supposedly Has a UTV In the Works
+
+date: 2025-05-29, from: Ride Apart, Electric Motorcycle News
+
+What's going on at General Motors right now? 
+
+<br> 
+
+<https://www.rideapart.com/news/761001/general-motors-gm-utv-side-by-side-patent-motorcycle/>
 
 ---
 

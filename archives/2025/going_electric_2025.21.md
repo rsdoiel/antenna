@@ -1,11 +1,239 @@
 ---
 title: going electric
-updated: 2025-05-29 06:08:14
+updated: 2025-05-29 14:08:08
 ---
 
 # going electric
 
-(date: 2025-05-29 06:08:14)
+(date: 2025-05-29 14:08:08)
+
+---
+
+## The Cheapest Chevy Silverado EV Is The One To Get
+
+date: 2025-05-29, from: Inside EVs News
+
+It's pretty easy to find Work Trucks with over 400 miles of range for under $60,000. 
+
+<br> 
+
+<https://insideevs.com/news/761156/chevy-silverado-ev-work-truck/>
+
+---
+
+## GM takes over as the ‘#1 EV seller’ in Canada
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After its electric vehicle sales more than doubled in the first quarter, <a href="https://electrek.co/guides/gm/">GM</a> claims it’s now the “#1 EV seller” in Canada. With a full lineup of 13 all-electric vehicles, GM sold more EVs than Tesla in Canada.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="418228" href="https://electrek.co/2025/05/29/gm-takes-over-as-1-ev-seller-canada/#more-418228" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/gm-takes-over-as-1-ev-seller-canada/>
+
+---
+
+## ComEd extends electrification plan in Illinois, committing a fresh $168M toward EV charger and purchase incentives
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/ComEd-Illinois-EV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>ComEd confirmed that the Illinois Commerce Commission (ICC) has approved its second Beneficial Electrification Plan. This plan builds upon an existing investment and will commit an additional $168 million over three years to support its Illinois ComEd customers who purchase or lease an EV or install a <a href="https://electrek.co/guides/electric-vehicle-charging/">charger</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="comed,ev-incentives,illinois" data-layer-viewtype="unknown" data-post-id="418210" href="https://electrek.co/2025/05/29/comed-electrification-illinois-committing-168m-ev-charger-incentives/#more-418210" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/comed-electrification-illinois-committing-168m-ev-charger-incentives/>
+
+---
+
+## This new Vermont plant turns Ben & Jerry’s waste into clean energy
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/PURPOSEENERGY_ST_ALBANS_AERIAL1.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Ben &amp; Jerry’s organic waste is now creating clean energy for the Vermont grid, thanks to a new <a href="https://purposeenergy.com/" target="_blank" rel="noreferrer noopener">PurposeEnergy</a> plant in St. Albans.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electrical-grid,solar,vermont" data-layer-viewtype="unknown" data-post-id="418208" href="https://electrek.co/2025/05/29/vermont-plant-ben-jerrys-waste-into-clean-energy/#more-418208" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/vermont-plant-ben-jerrys-waste-into-clean-energy/>
+
+---
+
+## General Motors Is Now Canada’s Best-Selling EV Maker As Tesla Sales Crater
+
+date: 2025-05-29, from: Inside EVs News
+
+Tesla sold just 524 cars in Quebec in the first three months of the year. 
+
+<br> 
+
+<https://insideevs.com/news/761064/gm-ev-sales-canada-tesla-drops/>
+
+---
+
+## EcoFlow EcoCredits May Madness takes up to 57% off units + extra savings & rewards, Hiboy Father’s Day EV sale, Greenworks, more
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/EcoFlow-May-Madness-Sale-FI-e1748539208609.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/05/29/ecoflow-may-madness-from-179/">EcoFlow’s two-day-only EcoCredits May Madness Sale</a>, offering up to 57% off power stations and accessories in initial discounts alongside extra savings, and plenty of EcoCredit rewards to take advantage of. Beating out the brand’s 2025 sales so far is the <a href="https://9to5toys.com/2025/05/29/ecoflow-may-madness-from-179/">EcoFlow DELTA 2 Solar Generator bundle</a> with a 220W panel down at a <a href="https://9to5toys.com/2025/05/29/ecoflow-may-madness-from-179/">$699 low</a>, among several other offers. There’s also <a href="https://9to5toys.com/2025/05/29/hiboy-p7-e-bike-900-fathers-day-more/">Hiboy’s newly launched Father’s Day Sale</a> with up to 55% savings on EVs, like the <a href="https://9to5toys.com/2025/05/29/hiboy-p7-e-bike-900-fathers-day-more/">2024 P7 Commuter e-bike</a> down at <a href="https://9to5toys.com/2025/05/29/hiboy-p7-e-bike-900-fathers-day-more/">$900</a>. We have two Greenworks sales for your outdoor cleaning and lawn care needs, with up to <a href="https://9to5toys.com/2025/05/28/greenworks-electric-pressure-washers-from-82/">29% being taken off new and legacy electric pressure washers starting from $82</a>, while the <a href="https://9to5toys.com/2025/05/28/greenworks-4-in-1-40v-21-inch-mower-360-low/">40V 21-inch Cordless Electric Self-Propelled Lawn Mower</a> comes with a 5.0Ah battery for a <a href="https://9to5toys.com/2025/05/28/greenworks-4-in-1-40v-21-inch-mower-360-low/">$360 low</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s $300 off deal on <a href="https://9to5toys.com/2025/05/28/ankers-new-eufy-e15-and-e18-robot-mowers-with-pure-vision-fsd-navigation-now-300-off-with-free-gift-starting-from-1500/">Anker’s eufy E15 and E18 robot mowers</a>, extended SOLIX and Aventon savings from Monday’s holiday, and more – and don’t forget to browse our <a href="https://9to5toys.com/2025/05/24/memorial-day-weekend-ev-deals-from-214/">Memorial Day EV hub</a> for the hangover savings while they last.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="418190" href="https://electrek.co/2025/05/29/ecoflow-ecocredits-may-madness-hiboy-greenworks-more/#more-418190" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/ecoflow-ecocredits-may-madness-hiboy-greenworks-more/>
+
+---
+
+## Meet the $7,000 mini EV that’s taking Japan by storm
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/7000-mini-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s not a <a href="https://electrek.co/guides/toyota/">Toyota</a>, Nissan, or a Honda, but this new mini EV is already a sensation. The mibot mini EV costs just ¥1 million ($7,000), or about half the price of Nissan’s Sakura, the top-selling EV in Japan.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="japan,kei-cars" data-layer-viewtype="unknown" data-post-id="418179" href="https://electrek.co/2025/05/29/7000-mini-ev-taking-japan-by-storm/#more-418179" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/7000-mini-ev-taking-japan-by-storm/>
+
+---
+
+## The 2025 Honda Prologue EV just got $16,500 cheaper to buy or lease
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Honda-Prologue-record-sales-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Thinking about driving a <a href="https://www.carsdirect.com/buildyourcar/style?make=honda&amp;model=prologue&amp;src=1001054&amp;lnk=subIDMichelle">2025 Honda Prologue EV</a>? You’re in luck – CarsDirect says you could score up to $16,500 off, plus 0.99% financing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease,honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="418180" href="https://electrek.co/2025/05/29/2025-honda-prologue-ev-just-got-16500-cheaper-to-buy-or-lease/#more-418180" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/2025-honda-prologue-ev-just-got-16500-cheaper-to-buy-or-lease/>
+
+---
+
+## Tesla's Robotaxis Are Finally Testing Without A Safety Driver: Musk
+
+date: 2025-05-29, from: Inside EVs News
+
+Musk says that Tesla's actually self-driving (for real this time) Model Ys are testing in Texas "a month ahead of schedule." 
+
+<br> 
+
+<https://insideevs.com/news/761120/musk-robotaxi-driverless-rides-testing/>
+
+---
+
+## Toyota Plots Massive EV Push With 7 New Models For The U.S.: ‘Won’t Give Up’
+
+date: 2025-05-29, from: Inside EVs News
+
+At least two of these Toyota EVs will be American-made and use locally sourced batteries. 
+
+<br> 
+
+<https://insideevs.com/news/761115/toyota-ev-push-7-new-models-us/>
+
+---
+
+## Toyota is ‘loading the bases’ with a wave of new hybrid, PHEV, and EVs
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Toyota-hybrid-PHEV-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With a new lineup of electrified vehicles, including plug-in hybrid (PHEV), hybrid, and EV models, <a href="https://electrek.co/guides/toyota/">Toyota</a> is swinging for the fences. By offering every powertrain option, Toyota believes it has a better chance of hitting a home run. Will it hit it out of the park, or is Toyota setting itself up for a swing and a miss?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="418027" href="https://electrek.co/2025/05/29/toyota-loading-bases-new-hybrid-phev-evs/#more-418027" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/toyota-loading-bases-new-hybrid-phev-evs/>
+
+---
+
+## Hyundai Ioniq 9 On A Tesla Charger: Here's Why Voltage Matters
+
+date: 2025-05-29, from: Inside EVs News
+
+The Ioniq 9 may come with a Tesla-style NACS port, but you'll get a faster charge by avoiding Superchargers. 
+
+<br> 
+
+<https://insideevs.com/news/761017/hyundai-ioniq-9-tesla-supercharger/>
+
+---
+
+## CATL Reveals Game-Changing Leap In Battery Endurance
+
+date: 2025-05-29, from: Inside EVs News
+
+The lifespan of lithium metal batteries (LMBs) has been doubled in testing while maintaining a very high energy density. 
+
+<br> 
+
+<https://insideevs.com/news/761074/catl-lithium-metal-battery-breakthrough/>
+
+---
+
+## BYD’s new global electric van looks massive driving on public streets
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/BYDs-global-electric-van.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is preparing to launch its new E-Vali electric van in Europe and other global markets. With its official launch just around the corner, the EV delivery van has been spotted out in the wild. Compared to other cars on the road, the new <a href="https://electrek.co/guides/byd/">BYD’s</a> electric van looks enormous.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="418160" href="https://electrek.co/2025/05/29/byds-new-global-electric-van-looks-massive-in-person/#more-418160" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/byds-new-global-electric-van-looks-massive-in-person/>
+
+---
+
+## Audi Went To China To Build Cars. China Rebuilt Audi Instead
+
+date: 2025-05-29, from: Inside EVs News
+
+Plus, Tesla loses tech crown in China, while Nissan tries to stop the bleeding 
+
+<br> 
+
+<https://insideevs.com/news/761013/china-audi-robot-factory-production/>
+
+---
+
+## Kia's Affordable EV4 Is Getting A Tesla Model 3 Performance-Fighter
+
+date: 2025-05-29, from: Inside EVs News
+
+It's official. The Kia EV4 GT will get a go-fast version, and it will come with all-wheel-drive as well. 
+
+<br> 
+
+<https://insideevs.com/news/761102/kia-ev4-gt-performance/>
 
 ---
 

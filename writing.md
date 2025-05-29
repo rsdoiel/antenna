@@ -1,11 +1,78 @@
 ---
 title: writing
-updated: 2025-05-29 06:08:11
+updated: 2025-05-29 14:08:06
 ---
 
 # writing
 
-(date: 2025-05-29 06:08:11)
+(date: 2025-05-29 14:08:06)
+
+---
+
+## What Screenwriters Can Take Away from ‘Mission: Impossible – The Final Reckoning’
+
+date: 2025-05-29, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-screenwriters-can-take-away-from-mission-impossible-the-final-reckoning" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Tom%20Cruise%20in%20Mission_%20Impossible%20-%20The%20Final%20Reckoning.png" alt="Tom Cruise dangling from a plane, thousands of feet above the ground in Mission: Impossible - The Final Reckoning" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Are you a new screenwriter? If so, there’s probably a good chance you weren’t even born 29 years ago when Tom Cruise took over the role of Ethan Hunt in Mission: Impossible, one of many films inspired and adapted from their TV counterparts. <a href="https://www.imdb.com/title/tt9603208/?ref_=nv_sr_srsg_2_tt_6_nm_0_in_0_q_mission" style="font-style: italic;">Mission: Impossible – The Final Reckoning</a> is a love letter to the seven films that came before it, referencing the others as if everything Ethan Hunt did or didn’t do to save the world all came to a (wait for it) final reckoning.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-screenwriters-can-take-away-from-mission-impossible-the-final-reckoning>
+
+---
+
+## New Books Video for May 27th is Live!
+
+date: 2025-05-29, from: Locus Magazine
+
+<p>We&#8217;re back at it with another weekly video on the top new releases in the SF, Fantasy, Horror, and YA genres! If you want to support what we do and keep up-to-date on future releases, come on by and subscribe to our YouTube channel! We hope to see you all next week for another exciting video!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/05/new-books-video-for-may-27th-is-live/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/new-books-video-for-may-27th-is-live/>
+
+---
+
+## Bury Our Bones in the Midnight Soil by V.E. Schwab.: Review by Adrienne Martini
+
+date: 2025-05-29, from: Locus Magazine
+
+<p><strong>Bury Our Bones in the Midnight Soil</strong>, V.E. Schwab (Tor 978-1-2503-2052-0, $29.99, 544pp, hc) June 2025.</p>
+<p>I knew absolutely nothing about V.E. Schwab’s <strong>Bury Our Bones in the Midnight Soil </strong>before I started reading it. If you can remain in the same state of ignorance about the book’s rough outlines, I recommend doing so. If I’d known more about the genre of this magnificent story, I would have left  <a href="https://locusmag.com/2025/05/bury-our-bones-in-the-midnight-soil-by-v-e-schwab-review-by-adrienne-martini/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/bury-our-bones-in-the-midnight-soil-by-v-e-schwab-review-by-adrienne-martini/>
+
+---
+
+## 2025 Anthony Awards Nominees
+
+date: 2025-05-29, from: Locus Magazine
+
+<p>Bouchercon has announced the nominees for the 2025 Anthony Awards, honoring the best in crime fiction. Authors and works of genre interest include:</p>
+<p><strong>Best Hardcover Novel</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The God of the Woods</strong>, Liz Moore (Riverhead)</li>
+<li><strong>Alter Ego</strong>, Alex Segura (Flatiron)</li>
+<li><strong>California Bear</strong>, Duane Swierczynski (Mulholland)</li>
+</ul>
+<p><strong>Best Paperback Novel</strong></p>
+<ul>
+<li><strong>The Last Few Miles of Road</strong>, Eric Beetner (Level Best)</li>
+<li><strong>Echo</strong>, Tracy Clark (Thomas &#38; Mercer)</li>
+<li><strong>Late Checkout</strong></li></ul></div> <a href="https://locusmag.com/2025/05/2025-anthony-awards-nominees/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-anthony-awards-nominees/>
 
 ---
 

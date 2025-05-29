@@ -1,11 +1,83 @@
 ---
 title: food
-updated: 2025-05-29 06:08:14
+updated: 2025-05-29 14:08:09
 ---
 
 # food
 
-(date: 2025-05-29 06:08:14)
+(date: 2025-05-29 14:08:09)
+
+---
+
+## Homemade BBQ Sauce
+
+date: 2025-05-29, from: Bon Appetet
+
+A splash of bourbon adds to the smoky depth of this 15-minute ketchup-based sauce. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/barbecue-bbq-sauce>
+
+---
+
+## Someone Who Loves Coffee Should Buy David Lynch’s Espresso Machine
+
+date: 2025-05-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. David Lynch's own La Marzocco GS/3 and Mazzer Mini are currently up for auction. 
+
+<br> 
+
+<https://sprudge.com/someone-who-loves-coffee-should-buy-david-lynchs-espresso-machine-341832.html>
+
+---
+
+## Strawberry Cream Cheese Frosting
+
+date: 2025-05-29, from: Taste of Home
+
+You need only six ingredients and 10 minutes to make this luscious strawberry cream cheese frosting. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-cream-cheese-frosting/>
+
+---
+
+## Colombia Coffee Report: Production Decline Predicted Amid Weather and Regulatory Volatility
+
+date: 2025-05-29, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-620x400.png" class="attachment-large size-large wp-post-image" alt="Colombia 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Colombia’s coffee production is forecast to decline by 5.3% in the 2025/26 market year, reaching the equivalent of 12.5 million 60-kilogram bags, according to the latest USDA estimates. The projected... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/29/colombia-coffee-report-production-decline-predicted-amid-weather-and-regulatory-volatility/>
+
+---
+
+## From South Africa, Air-Motion Roasters Makes Its Move in the US
+
+date: 2025-05-29, from: Daily Coffee News
+
+<div><img width="620" height="509" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-620x509.jpg" class="attachment-large size-large wp-post-image" alt="Air-Motion Roasters 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-620x509.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-300x246.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-150x123.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-768x630.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; South African electric fluid-bed roasting machine maker Air-Motion Roasters formally introduced itself to the United States coffee community at last month&#8217;s SCA Expo in Houston.&#160; With new U.S. distribution... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/29/from-south-africa-air-motion-roasters-makes-its-move-in-the-us/>
+
+---
+
+## Best Dutch Ovens for Braising, Baking, Beginners, and More (2025)
+
+date: 2025-05-29, from: Bon Appetet
+
+Including one under $100. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-dutch-ovens>
 
 ---
 
@@ -115,7 +187,7 @@ date: 2025-05-28, from: The Sprudge
 
 date: 2025-05-28, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="milk pitcher up-charge" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A United States District Court judge in Northern California dismissed a year-old lawsuit alleging that Peet&#8217;s Coffee discriminated against lactose-intolerant people by charging more for non-dairy milks. The Peet&#8217;s order... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="milk pitcher up-charge" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A United States District Court judge in Northern California dismissed a year-old lawsuit alleging that Peet&#8217;s Coffee discriminated against lactose-intolerant people by charging more for non-dairy milks. The Peet&#8217;s order... 
 
 <br> 
 
@@ -189,7 +261,7 @@ This is how you should take your sips and drams.
 
 date: 2025-05-28, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Nicaragua" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Nicaragua’s coffee production is forecast to hold steady at the equivalent of approximately 2.58 million 60-kilogram bags in the 2025/26 market year, consistent with recent historical trends, according to the... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Nicaragua" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Nicaragua.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Nicaragua’s coffee production is forecast to hold steady at the equivalent of approximately 2.58 million 60-kilogram bags in the 2025/26 market year, consistent with recent historical trends, according to the... 
 
 <br> 
 
@@ -201,7 +273,7 @@ date: 2025-05-28, from: Daily Coffee News
 
 date: 2025-05-28, from: Daily Coffee News
 
-<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Stronghold S8X 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-300x192.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-1536x985.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-2048x1313.jpg 2048w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; South Korean roaster-maker Stronghold is rounding out its lineup of commercial coffee roasting machines with the launch of the 4.5-kilo-capacity S8X. Appearing at the recent SCA Expo in Houston,... 
+<div><img width="620" height="398" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-620x398.jpg" class="attachment-large size-large wp-post-image" alt="Stronghold S8X 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-620x398.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-300x192.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-768x493.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-1536x985.jpg 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Stronghold-S8X-1-2048x1313.jpg 2048w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; South Korean roaster-maker Stronghold is rounding out its lineup of commercial coffee roasting machines with the launch of the 4.5-kilo-capacity S8X. Appearing at the recent SCA Expo in Houston,... 
 
 <br> 
 
@@ -752,6 +824,18 @@ date: 2025-05-26, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/asparagus-pesto-on-penne-pasta/>
+
+---
+
+## Pickle-Brined Chicken
+
+date: 2025-05-26, from: Taste of Home
+
+Use up that leftover juice from the jar and make pickle-brined chicken. It's tender, juicy and lightly flavored with the sweet, salty and sour taste of pickles. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pickle-brined-chicken/>
 
 ---
 

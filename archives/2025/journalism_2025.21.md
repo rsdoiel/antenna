@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-05-29 06:08:12
+updated: 2025-05-29 14:08:06
 ---
 
 # journalism
 
-(date: 2025-05-29 06:08:12)
+(date: 2025-05-29 14:08:06)
 
 ---
 
@@ -38,8 +38,9 @@ The North Westwood Neighborhood Council requested a budget increase from the cit
 
 date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-Editor&#8217;s note: The following piece contains mentions of persecution, which could be disturbing to some readers.
-Most students don&#8217;t uncover a classified list of alleged war criminals in their undergraduate research cohort. 
+<em>This post was updated May 29 at 11:31 a.m.</em>
+Editor’s note: The following piece contains mentions of persecution, which could be disturbing to some readers.
+Most students don’t uncover a classified list of alleged war criminals in their undergraduate research cohort. 
 
 <br> 
 
@@ -64,8 +65,8 @@ The head of the Trump administration&#8217;s federal antisemitism task force sai
 
 date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-&#8220;Xanadu&#8221; mixes theater and technology to paint a portrait of community.
-UCLA&#8217;s Center for Research in Engineering, Media and Performance, also known as REMAP, bridges the gap between technology and performing arts on campus, namely through experimental theater productions. 
+“Xanadu” mixes theater and technology to paint a portrait of community.
+UCLA’s Center for Research in Engineering, Media and Performance, also known as REMAP, bridges the gap between technology and performing arts on campus, namely through experimental theater productions. 
 
 <br> 
 

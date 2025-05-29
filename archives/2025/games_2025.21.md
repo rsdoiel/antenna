@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-05-29 06:08:12
+updated: 2025-05-29 14:08:06
 ---
 
 # games
 
-(date: 2025-05-29 06:08:12)
+(date: 2025-05-29 14:08:06)
+
+---
+
+## How to get a Dawntrail (Phantom) relic weapon in FFXIV
+
+date: 2025-05-29, updated: 2025-05-29, from: Polygon Website
+
+The sun is shining and the Dawntrail field operation and relic weapon is here, as of patch 7.25. For those wanting to get a jump on the relic grind, we got your back, as we detail how to get the Phantom relic weapon in FFXIV below. Just like other relics, the Phantom relic is no [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements>
+
+---
+
+## The Switch 2 box art disclaimer is ugly, Nintendo fans scream
+
+date: 2025-05-29, updated: 2025-05-29, from: Polygon Website
+
+The Nintendo Switch 2 has been at the center of perpetual online discussions since the console was shown off in earnest in April, with much of the chatter focused on its price. But with just days to go before the June 5 launch, we now find ourselves confronting the newest Switch 2 topic: ugly box [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/602094/the-switch-2-box-art-disclaimer-is-ugly-nintendo-fans-scream>
+
+---
+
+## Elden Ring Nightreign’s official Evanescence trailer is peak cinema
+
+date: 2025-05-29, updated: 2025-05-29, from: Polygon Website
+
+Amy Lee is having a big year. First, Evanescence’s “Bring Me To Life” became a running bit in HBO’s The Rehearsal after Nathan Fielder hypothesized that an airplane pilot may have listened to the iconic 2003 rock song while pulling off a tricky landing. Now the song is front and center in FromSoftware’s new trailer [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/602179/elden-ring-nightreign-evanescence-trailer>
+
+---
+
+## How to find the Persistent Pot chest in FFXIV’s Occult Crescent
+
+date: 2025-05-29, updated: 2025-05-29, from: Polygon Website
+
+Occult Crescent, the new field operation added to FFXIV: Dawntrail in patch 7.25 has many secrets. Among them are the hidden rewards that you can only find with the help of a Persistent Pot, a devilish little creature you might end up finding while looking for survey points or farming FATEs for the Phantom relic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/602152/persistent-pot-how-to-use-elixir-fates-loot>
 
 ---
 
@@ -162,18 +210,6 @@ FFXIV: Dawntrail’s field operation is the Occult Crescent, a huge piece of con
 <br> 
 
 <https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips>
-
----
-
-## How to get a Dawntrail (Phantom) relic weapon in FFXIV
-
-date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
-
-The sun is shining and the Dawntrail field operation and relic weapon is here, as of patch 7.25. For those wanting to get a jump on the relic grind, we got your back, as we detail how to get the Phantom relic weapon in FFXIV below. Just like other relics, the Phantom relic is no [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements>
 
 ---
 
