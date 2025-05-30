@@ -1,11 +1,59 @@
 ---
 title: ham radio
-updated: 2025-05-30 06:09:33
+updated: 2025-05-30 14:09:06
 ---
 
 # ham radio
 
-(date: 2025-05-30 06:09:33)
+(date: 2025-05-30 14:09:06)
+
+---
+
+## ARRL Teachers Institute Set for Record Year
+
+date: 2025-05-30, from: Amateur Radio Relay League News
+
+<p>The ARRL Teachers Institute on Wireless Technology (TI) has 13 sessions announced in 2025, with more in the works. The program, from ARRL The National Association for Amateur Radio® is a donor-funded professional development program designed to help classroom teachers elevate their science, technology, engineering, and mathematics (STEM) programs using wireless technology.</p><p>“This is all possible ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-set-for-record-year>
+
+---
+
+## 2025 ARRL Field Day: FAQ with the Contest Program Manager
+
+date: 2025-05-30, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/2025-arrl-field-day-faq-with-the-contest-program-manager>
+
+---
+
+## Amateur Radio Ready for Above Average Hurricane Season
+
+date: 2025-05-30, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/amateur-radio-ready-for-above-average-hurricane-season>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-05-30, from: Amateur Radio Relay League News
+
+<p>Solar activity reached moderate levels early this past week with<br />several flares. An X1-class flare erupted mid-week, but activity has<br />slowed down with the majority of the low-level C-class flares. A<br />coronal mass ejection (CME) was observed on May 27 with a flare from<br />Region AR4100.<br /><br />Modelling determined the CME to be well behind Earth's orbit. No<br />other potentially Earth-directed CMEs were detected in ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-16>
 
 ---
 

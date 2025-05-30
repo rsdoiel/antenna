@@ -1,11 +1,51 @@
 ---
 title: writing
-updated: 2025-05-30 06:09:35
+updated: 2025-05-30 14:09:07
 ---
 
 # writing
 
-(date: 2025-05-30 06:09:35)
+(date: 2025-05-30 14:09:07)
+
+---
+
+## 2025 Dagger Awards Shortlists
+
+date: 2025-05-30, from: Locus Magazine
+
+<p>The Crime Writers&#8217; Association (CWA) has announced the shortlists for the 2025 Dagger Awards. Titles and authors of genre interest include:</p>
+<div class="nobullets">
+<p><strong>Gold Dagger
+</strong></p>
+<ul>
+<li><strong>The Book of Secrets</strong>, Anna Mazzola (Orion)</li>
+</ul>
+<p><strong>Ian Fleming Steel Dagger</strong></p>
+<ul>
+<li><strong>Nobody&#8217;s Hero</strong>, M.W. Craven (Constable)</li>
+<li><strong>Sanctuary</strong>, Garry Disher (Viper)</li>
+<li><strong>Blood Like Mine</strong>, Stuart Neville (Simon &#38; Schuster UK)</li>
+</ul>
+<p><strong>ILP John Creasey New Blood Dagger</strong></p>
+<ul>
+<li><strong>Deadly Animals</strong>, Marie Tierney (Bonnier Books Ltd)</li></ul></div> <a href="https://locusmag.com/2025/05/2025-dagger-awards-shortlists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/2025-dagger-awards-shortlists/>
+
+---
+
+## The Dagger in Vichy by Alastair Reynolds: Review by Alexandra Pierce
+
+date: 2025-05-30, from: Locus Magazine
+
+<p><strong>The Dagger in Vichy</strong>, Alastair Reynolds (Subter­ranean 978-1-64524-280-2, $40.00, 120pp, hc) August 2025. Cover by Andrew Davis.</p>
+<p><strong>The Dagger in Vichy </strong>is very different from Alastair Reynolds’s other recent work. His most recent novel, <strong>Machine Vendetta </strong>(2024), saw him return to the Revelation Space universe. This novella, on the other hand, is set on Earth – albeit (it becomes clear) many centuries in the future. No space op­era, <strong>The </strong> <a href="https://locusmag.com/2025/05/the-dagger-in-vichy-by-alastair-reynolds-review-by-alexandra-pierce-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/the-dagger-in-vichy-by-alastair-reynolds-review-by-alexandra-pierce-2/>
 
 ---
 

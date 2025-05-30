@@ -1,15 +1,227 @@
 ---
 title: going electric
-updated: 2025-05-30 06:09:38
+updated: 2025-05-30 14:09:10
 ---
 
 # going electric
 
-(date: 2025-05-30 06:09:38)
+(date: 2025-05-30 14:09:10)
 
 ---
 
-## Rivian Joins Ionna To Bring Seamless Charging To R1S And R1T Owners
+## A Tesla Supercharger Saved My Ass In A Chevy Blazer EV
+
+date: 2025-05-30, from: Inside EVs News
+
+I visited a Tesla charger in a Chevy EV and learned the benefits—and pitfalls—of Supercharger access opening up. 
+
+<br> 
+
+<https://insideevs.com/news/761292/chevy-blazer-ev-tesla-supercharger/>
+
+---
+
+## Podcast: new Tesla Model S/X, robotaxi service is coming, new EV price war, and more
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the new Tesla Model S/X “refresh”, robotaxi service is coming, a new EV price war in China, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="418320" href="https://electrek.co/2025/05/30/podcast-new-tesla-model-s-x-robotaxi-service-is-coming-new-ev-price-war/#more-418320" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/podcast-new-tesla-model-s-x-robotaxi-service-is-coming-new-ev-price-war/>
+
+---
+
+## Kia hits a milestone as the EV5 launches in Singapore
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Kia-EV5-singapore.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s electric SUV has already become a hit in several overseas markets. The <a href="https://electrek.co/guides/kia-ev5/">EV5</a> is now arriving as the first electric Kia to be assembled in Singapore, as it rolls out to new global markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="418398" href="https://electrek.co/2025/05/30/kia-hits-milestone-ev5-launches-singapore/#more-418398" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/kia-hits-milestone-ev5-launches-singapore/>
+
+---
+
+## Ford Performance unveils Super Mustang Mach-E that will compete at Pikes Peak 2025
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Mach-E-Pikes-Peak-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Do we smell a three-peat? The team at <a href="https://electrek.co/guides/ford-performance/">Ford Performance</a> is once again competing at the annual Pikes Peak International Hill Climb, and this year is bringing a “Super” version of the all-electric Mustang Mach-E… At least we think there’s a Mach-E in there somewhere.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e,ford-performance,pikes-peak,pikes-peak-international-hill-climb" data-layer-viewtype="unknown" data-post-id="418403" href="https://electrek.co/2025/05/30/ford-performance-unveils-super-mustang-mach-e-pikes-peak-2025/#more-418403" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/ford-performance-unveils-super-mustang-mach-e-pikes-peak-2025/>
+
+---
+
+## Here's Why EV Batteries Won't Just Go To Landfills
+
+date: 2025-05-30, from: Inside EVs News
+
+Even if the car it comes in gets scrapped, your EV battery will likely live on. 
+
+<br> 
+
+<https://insideevs.com/news/761273/what-happens-to-ev-batteries/>
+
+---
+
+## Meyer Burger just shut down its US solar factory and laid off 282 workers
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Meyer-Burger-Goodyear.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Swiss solar manufacturer Meyer Burger has just pulled the plug on its US solar module factory in Arizona and laid off nearly 300 workers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="418391" href="https://electrek.co/2025/05/30/meyer-burger-us-solar-factory-and-laid-off-282-workers/#more-418391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/meyer-burger-us-solar-factory-and-laid-off-282-workers/>
+
+---
+
+## Heybike Hero carbon fiber all-terrain e-bikes at new lows from $2,199 ($600 off), Bluetti AC200L solar bundle $1,649, EGO, more
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Heybike-Hero-Carbon-Fiber-All-Terrain-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week’s closing Green Deals is being led by a massive and unexpected price cut on <a href="https://9to5toys.com/2025/05/30/heybike-hero-e-bikes-new-lows-from-2199/">Heybike’s Hero Carbon Fiber All-Terrain e-bikes</a> to new low prices, with the <a href="https://9to5toys.com/2025/05/30/heybike-hero-e-bikes-new-lows-from-2199/">1,000W rear-hub model at $2,199</a> ($400 off), while the <a href="https://9to5toys.com/2025/05/30/heybike-hero-e-bikes-new-lows-from-2199/">750W mid-drive model is at $2,499</a> ($600 off). Bluetti has some member-only deals running through the weekend, like the <a href="https://9to5toys.com/2025/05/30/bluetti-ac200l-solar-generator-1649-more/">AC200L Solar Generator bundle</a> with two 200W panels for <a href="https://9to5toys.com/2025/05/30/bluetti-ac200l-solar-generator-1649-more/">$1,649</a>. We also spotted EGO’s advanced <a href="https://9to5toys.com/2025/05/29/ego-22-inch-self-propelled-mower-10-0ah-battery-999/">56V 22-inch Cordless Electric Self-Propelled Lawn Mower</a> that comes with select cut and touch drive tech and a 10.0Ah battery for <a href="https://9to5toys.com/2025/05/29/ego-22-inch-self-propelled-mower-10-0ah-battery-999/">$999</a>, as well as Greenworks <a href="https://9to5toys.com/2025/05/29/greenworks-80v-770-cfm-leaf-blower-220/">80V 770 CFM Cordless Electric Leaf Blower</a> with a 4.0Ah battery at <a href="https://9to5toys.com/2025/05/29/greenworks-80v-770-cfm-leaf-blower-220/">$220</a>. Plus, there’s all the rest of the hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/05/29/ecoflow-may-madness-from-179/">EcoFlow EcoCredits May Madness</a> event that ends tonight, <a href="https://9to5toys.com/2025/05/29/hiboy-p7-e-bike-900-fathers-day-more/">Hiboy’s Father’s Day EV sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="418365" href="https://electrek.co/2025/05/30/heybike-hero-e-bike-from-2199-bluetti-ego-more/#more-418365" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/heybike-hero-e-bike-from-2199-bluetti-ego-more/>
+
+---
+
+## Mazda’s new electric SUV hits dealerships with over 20,000 pre-orders in China
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Mazda-EZ-60-electric-SUV-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mazda calls it a “dream car.” The EZ-60 is about the size of a Tesla Model Y, and it will be sold globally. After racking up over 20,000 pre-orders in just over two weeks, <a href="https://electrek.co/guides/mazda/">Mazda’s</a> new electric SUV is now arriving at dealerships across China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="418362" href="https://electrek.co/2025/05/30/mazdas-electric-suv-hits-dealerships-with-20k-pre-orders-china/#more-418362" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/mazdas-electric-suv-hits-dealerships-with-20k-pre-orders-china/>
+
+---
+
+## The Dodge Charger Daytona EV Takes On The BMW i5 M60. One Has A Clear Edge
+
+date: 2025-05-30, from: Inside EVs News
+
+The two cars are pretty evenly matched in a straight line. Corners are another story. 
+
+<br> 
+
+<https://insideevs.com/news/761243/bmw-i5-races-charger-ev/>
+
+---
+
+## Hyundai’s first three-row electric SUV is here as IONIQ 9 deliveries kick off across the US
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-IONIQ-9-deliveries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai handed over one of the first <a href="https://electrek.co/guides/hyundai-ioniq-9/">IONIQ 9</a> models to customers in the US on Friday, marking the start of deliveries for its new three-row electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="418350" href="https://electrek.co/2025/05/30/hyundai-delivers-first-three-row-ioniq-9-suvs/#more-418350" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/hyundai-delivers-first-three-row-ioniq-9-suvs/>
+
+---
+
+## Bill Ford Has A Warning For Congress On EV Batteries
+
+date: 2025-05-30, from: Inside EVs News
+
+Ford wants to make affordable EVs and lithium-iron-phosphate batteries in the U.S. Its plans are now “in peril.” 
+
+<br> 
+
+<https://insideevs.com/news/761253/ford-lfp-battery-michigan-risk/>
+
+---
+
+## Hyundai vehicles are about to get more expensive with price hikes expected across its lineup
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-IONIQ-9-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another automaker is preparing to raise vehicle prices in the US. As soon as next week, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> is expected to hike prices across its entire lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,hyundai,hyundai-motor-group,kia" data-layer-viewtype="unknown" data-post-id="418335" href="https://electrek.co/2025/05/30/hyundai-vehicles-more-expensive/#more-418335" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/hyundai-vehicles-more-expensive/>
+
+---
+
+## Tesla EVs Will Deliver Themselves To Customers Soon: Elon Musk
+
+date: 2025-05-30, from: Inside EVs News
+
+As with many things related to Tesla's Full Self-Driving, it sounds cool enough. But is it another promise that’s bound to be broken? 
+
+<br> 
+
+<https://insideevs.com/news/761196/tesla-evs-deliver-autonomous-customer/>
+
+---
+
+## Opinion: it’s time to start recommending some Tesla Powerwall alternatives
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Powerwall.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>For years, Tesla Powerwall has been the go-to recommendation for “normals” looking for a painless, low-effort experience from their first home solar and battery backup solutions. <a href="https://electrek.co/2025/05/23/tesla-ranks-under-unitedhealth-temu-bp-in-brand-reputation-poll-due-to-musk/">Its CEO’s recent involvement in controversial politics</a>, however, <a href="https://electrek.co/2025/03/03/tesla-owners-get-creative-to-distance-themselves-from-elon-with-new-car-logos-projectors/">means that people are now distancing themselves from the once-trailblazing company</a>.</p>
+
+
+
+<p>It begs the question: <strong>what other home solar battery solutions are there</strong>?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="home-battery,opinion,solar-power,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="418291" href="https://electrek.co/2025/05/30/opinion-its-time-to-start-recommending-some-tesla-powerwall-alternatives/#more-418291" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/opinion-its-time-to-start-recommending-some-tesla-powerwall-alternatives/>
+
+---
+
+## Rivians Will Get Seamless Plug-And-Charge At Ionna Stations
 
 date: 2025-05-30, from: Inside EVs News
 
@@ -941,11 +1153,15 @@ date: 2025-05-27, from: Electrek Feed
 
 ---
 
-## Navee ST3 Pro e-scooter with quad suspension at new $850 low, ECOVACS A2500 RTK robot mower $1,500 low, Lectric, more
+## Navee ST3 Pro e-scooter with quad suspension at new $760 low, ECOVACS A2500 RTK robot mower $1,500 low, Lectric, more
 
 date: 2025-05-27, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Navee-ST3-Pro-Electric-Scooter-2.webp?w=1200" /></div><p>Just because Memorial Day is over, doesn’t mean the savings are slowing down on eco-friendly tech, and today’s Green Deals feature a mix of new and ongoing discounts at some of the best prices of the season. Headlining today is <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">Navee’s newly launched Father’s Day Sale</a> with up to $264 in savings on its two latest e-scooter series, which includes the new flagship <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">ST3 Pro Electric Scooter</a> with a damping arm suspension system, Apple Find My, and plenty more down at an <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">$850 low</a>, along with some free gear too. Next, we have <a href="https://9to5toys.com/2025/05/27/ecovac-goat-a2500-robot-1500-low-more/">ECOVACS’ new Goat A2500 RTK Robot Lawn Mower</a> returning to its <a href="https://9to5toys.com/2025/05/27/ecovac-goat-a2500-robot-1500-low-more/">$1,500 low</a> for the second time, as well as <a href="https://9to5toys.com/2025/05/27/lectric-xp-lite-2-0-e-bikes-from-999/">Lectric’s XP Lite 2.0 Long-Range e-bikes</a> with $404 free bundled gear starting <a href="https://9to5toys.com/2025/05/27/lectric-xp-lite-2-0-e-bikes-from-999/">from $999</a>. Lastly, we spotted <a href="https://9to5toys.com/2025/05/27/delta-2-expansion-battery-429-low/">EcoFlow’s DELTA 2 Smart Extra Battery</a> dropping back to its <a href="https://9to5toys.com/2025/05/27/delta-2-expansion-battery-429-low/">$429 low</a>. Plus, there’s all the rest of the hangover Green Deals and ongoing Memorial Day EV sales in the links at the bottom of the page, like yesterday’s ongoing increased savings on the <a href="https://9to5toys.com/2025/05/26/ride1up-portola-from-995-more/">Ride1Up Portola e-bike</a>, and more – and don’t forget to browse our <a href="https://9to5toys.com/2025/05/24/memorial-day-weekend-ev-deals-from-214/">Memorial Day EV hub</a> for the hangover savings while they last.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Navee-ST3-Pro-Electric-Scooter-2.webp?w=1200" /></div><p><strong><em>Update:</em></strong> Navee has dropped the pricing on its ST3 and GT3 series of electric scooters even lower. Prices have been adjusted below.</p>
+
+
+
+<p>Just because Memorial Day is over, doesn’t mean the savings are slowing down on eco-friendly tech, and today’s Green Deals feature a mix of new and ongoing discounts at some of the best prices of the season. Headlining today is <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">Navee’s newly launched Father’s Day Sale</a> with up to $264 in savings on its two latest e-scooter series, which includes the new flagship <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/">ST3 Pro Electric Scooter</a> with a damping arm suspension system, Apple Find My, and plenty more down at an <a href="https://9to5toys.com/2025/05/27/navee-st3-pro-e-scooter-850-more/"><s>$850</s> $760 low</a>, along with some free gear too. Next, we have <a href="https://9to5toys.com/2025/05/27/ecovac-goat-a2500-robot-1500-low-more/">ECOVACS’ new Goat A2500 RTK Robot Lawn Mower</a> returning to its <a href="https://9to5toys.com/2025/05/27/ecovac-goat-a2500-robot-1500-low-more/">$1,500 low</a> for the second time, as well as <a href="https://9to5toys.com/2025/05/27/lectric-xp-lite-2-0-e-bikes-from-999/">Lectric’s XP Lite 2.0 Long-Range e-bikes</a> with $404 free bundled gear starting <a href="https://9to5toys.com/2025/05/27/lectric-xp-lite-2-0-e-bikes-from-999/">from $999</a>. Lastly, we spotted <a href="https://9to5toys.com/2025/05/27/delta-2-expansion-battery-429-low/">EcoFlow’s DELTA 2 Smart Extra Battery</a> dropping back to its <a href="https://9to5toys.com/2025/05/27/delta-2-expansion-battery-429-low/">$429 low</a>. Plus, there’s all the rest of the hangover Green Deals and ongoing Memorial Day EV sales in the links at the bottom of the page, like yesterday’s ongoing increased savings on the <a href="https://9to5toys.com/2025/05/26/ride1up-portola-from-995-more/">Ride1Up Portola e-bike</a>, and more – and don’t forget to browse our <a href="https://9to5toys.com/2025/05/24/memorial-day-weekend-ev-deals-from-214/">Memorial Day EV hub</a> for the hangover savings while they last.</p>
 
 
 

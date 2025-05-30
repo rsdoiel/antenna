@@ -1,11 +1,217 @@
 ---
 title: food
-updated: 2025-05-30 06:09:39
+updated: 2025-05-30 14:09:10
 ---
 
 # food
 
-(date: 2025-05-30 06:09:39)
+(date: 2025-05-30 14:09:10)
+
+---
+
+## Build-Outs Of Coffee 2025: Submissions Now Open! New Season Kicks Off Next Week!
+
+date: 2025-05-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Submit your cafe now! 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-2025-submissions-now-open-new-season-kicks-off-next-week-342307.html>
+
+---
+
+## Wayne Gretzky (The Coffee Drink) Is Not A Great One
+
+date: 2025-05-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Wayne Gretzky doesn't deserve this. 
+
+<br> 
+
+<https://sprudge.com/wayne-gretzky-the-coffee-drink-is-not-a-great-one-341460.html>
+
+---
+
+## The “C Price” as the Coffee Industry Knows It is Being Phased Out
+
+date: 2025-05-30, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/FIBC-super-sacks-coffee-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="FIBC super sacks coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/FIBC-super-sacks-coffee-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/FIBC-super-sacks-coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/FIBC-super-sacks-coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/FIBC-super-sacks-coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/FIBC-super-sacks-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The New York-based Intercontinental Exchange (ICE), one of the world&#8217;s major commodity trading platforms, said it is phasing out the current U.S.-cents-per-pound benchmark for the arabica coffee trade, known as... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/30/the-c-price-as-the-coffee-industry-knows-it-is-being-phased-out/>
+
+---
+
+## The Stanley Mesa Rose Collection Is Coming—And We’re Obsessed with the Rose Gold Cup
+
+date: 2025-05-30, from: Taste of Home
+
+<p>Channeling Southwestern charm and featuring a pretty polished rose gold tumbler, the Stanley Mesa Rose collection is just in time for summer.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-mesa-rose/">The Stanley Mesa Rose Collection Is Coming—And We&#8217;re Obsessed with the Rose Gold Cup</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-mesa-rose/>
+
+---
+
+## The Best Food at the Ikea Restaurant, Ranked
+
+date: 2025-05-30, from: Taste of Home
+
+<p>Shopping at Ikea is a whole-day affair, and, luckily, the Swedish furniture chain has a restaurant on site to fuel your adventure.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-food-at-ikea/">The Best Food at the Ikea Restaurant, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-food-at-ikea/>
+
+---
+
+## 54 Breakfast Tailgate Food Ideas for the Big Game
+
+date: 2025-05-30, from: Taste of Home
+
+<p>Breakfast tailgate food gets even more exciting with these crowd-pleasing quiches, French toast bakes and casseroles.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/breakfast-tailgate-food/">54 Breakfast Tailgate Food Ideas for the Big Game</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/breakfast-tailgate-food/>
+
+---
+
+## Dundee Cake
+
+date: 2025-05-30, from: Taste of Home
+
+Dundee cake has an appealing pale orange color and a pleasant citrus flavor, thanks to orange marmalade as a "secret" ingredient. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dundee-cake/>
+
+---
+
+## The Best Greens Powder, Tasted & Reviewed (2025)
+
+date: 2025-05-30, from: Bon Appetet
+
+It doesn’t matter whether it’s good for you if you’re not going to drink it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-greens-powder>
+
+---
+
+## This Popular Kitchen Brand Just Dropped a Pizza Oven—And It’s Loaded with Smart Features
+
+date: 2025-05-30, from: Taste of Home
+
+<p>The All-Clad pizza oven offers a fleet of fun features. Plus, it's backed by one of the most trustworthy names in kitchenware. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/all-clad-pizza-oven/">This Popular Kitchen Brand Just Dropped a Pizza Oven—And It&#8217;s Loaded with Smart Features</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/all-clad-pizza-oven/>
+
+---
+
+## Best Air Fryers, Rigorously Tested & Reviewed (2025)
+
+date: 2025-05-30, from: Bon Appetet
+
+Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-air-fryers-reviewed>
+
+---
+
+## This Costco Frozen Treat Is a Summer Trend in the Making
+
+date: 2025-05-30, from: Taste of Home
+
+<p>The "Dubai chocolate" trend has now extended to the freezer aisle, with Dubai chocolate ice cream bars now available at Costco.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/best-costco-food-deals-right-now/">This Costco Frozen Treat Is a Summer Trend in the Making</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/best-costco-food-deals-right-now/>
+
+---
+
+## Use Zucchini Butter for Sandwiches, Pastas, and More
+
+date: 2025-05-30, from: Bon Appetet
+
+Luscious, bright, and vegetal, it's also good straight off the spoon. 
+
+<br> 
+
+<https://www.bonappetit.com/story/ways-to-use-zucchini-butter>
+
+---
+
+## The 9 Best New Bars of 2025
+
+date: 2025-05-30, from: Bon Appetet
+
+Pouring dialed-in classics, witchy cocktails, or Japanese-inspired drinks, 2025's Best New Bars are pushing boundaries. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-new-bars-america-2025>
+
+---
+
+## Weekly Coffee News: Loving Robusta Book + Influential LA Cafe to Close
+
+date: 2025-05-30, from: Daily Coffee News
+
+<div><img width="620" height="435" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Robusta_Canephora1-620x435.jpg" class="attachment-large size-large wp-post-image" alt="Robusta_Canephora1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Robusta_Canephora1-620x435.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Robusta_Canephora1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Robusta_Canephora1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Robusta_Canephora1-768x539.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Robusta_Canephora1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Book Tour Launched for &#8220;Robusta — Canephora: A Guide... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/05/30/weekly-coffee-news-loving-robusta-book-influential-la-cafe-to-close/>
+
+---
+
+## Fruit’s Crashing the Coffee Party
+
+date: 2025-05-30, from: The Fresh Cup
+
+<p>We're calling it now: Fruit-flavored drinks will be this summer’s hottest coffee trend.  </p>
+<p>The post <a href="https://freshcup.com/fruits-crashing-the-coffee-party/">Fruit&#8217;s Crashing the Coffee Party</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/fruits-crashing-the-coffee-party/>
+
+---
+
+## Caribbean-Style Mango-Habanero Hot Sauce Recipe
+
+date: 2025-05-30, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/hot-sauces/caribbean-style-mango-habanero-hot-sauce-video/" title="Caribbean-Style Mango-Habanero Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="of" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/04/Caribbean-Mango-Habanero-Hot-Sauce-Recipe1b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>We're going Caribbean with this hot sauce recipe with fiery habanero peppers, mango, vinegar, honey, allspice and more, perfect for chicken, shrimp or fish.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/hot-sauces/caribbean-style-mango-habanero-hot-sauce-video/">Caribbean-Style Mango-Habanero Hot Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/hot-sauces/caribbean-style-mango-habanero-hot-sauce-video/>
 
 ---
 
@@ -125,7 +331,7 @@ You need only six ingredients and 10 minutes to make this luscious strawberry cr
 
 date: 2025-05-29, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-620x400.png" class="attachment-large size-large wp-post-image" alt="Colombia 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Colombia’s coffee production is forecast to decline by 5.3% in the 2025/26 market year, reaching the equivalent of 12.5 million 60-kilogram bags, according to the latest USDA estimates. The projected... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-620x400.png" class="attachment-large size-large wp-post-image" alt="Colombia 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Colombia-2.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Colombia’s coffee production is forecast to decline by 5.3% in the 2025/26 market year, reaching the equivalent of 12.5 million 60-kilogram bags, according to the latest USDA estimates. The projected... 
 
 <br> 
 
@@ -137,7 +343,7 @@ date: 2025-05-29, from: Daily Coffee News
 
 date: 2025-05-29, from: Daily Coffee News
 
-<div><img width="620" height="509" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-620x509.jpg" class="attachment-large size-large wp-post-image" alt="Air-Motion Roasters 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-620x509.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-300x246.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-150x123.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-768x630.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; South African electric fluid-bed roasting machine maker Air-Motion Roasters formally introduced itself to the United States coffee community at last month&#8217;s SCA Expo in Houston.&#160; With new U.S. distribution... 
+<div><img width="620" height="509" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-620x509.jpg" class="attachment-large size-large wp-post-image" alt="Air-Motion Roasters 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-620x509.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-300x246.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-150x123.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2-768x630.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Air-Motion-Roasters-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; South African electric roasting machine maker Air-Motion Roasters formally introduced itself to the United States coffee community at last month&#8217;s SCA Expo in Houston.&#160; With new U.S. distribution and... 
 
 <br> 
 
@@ -263,7 +469,7 @@ date: 2025-05-28, from: The Sprudge
 
 date: 2025-05-28, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="milk pitcher up-charge" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A United States District Court judge in Northern California dismissed a year-old lawsuit alleging that Peet&#8217;s Coffee discriminated against lactose-intolerant people by charging more for non-dairy milks. The Peet&#8217;s order... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="milk pitcher up-charge" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/milk-pitcher-up-charge.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A United States District Court judge in Northern California dismissed a year-old lawsuit alleging that Peet&#8217;s Coffee discriminated against lactose-intolerant people by charging more for non-dairy milks. The Peet&#8217;s order... 
 
 <br> 
 
@@ -375,7 +581,7 @@ date: 2025-05-28, from: The Fresh Cup
 
 date: 2025-05-28, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/crab-dip/" title="Crab Dip Recipe (Good Hot or Cold!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Taking a scoop from the pan of hot crab dip with a spoon to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This creamy crab dip with lump crab, Old Bay seasoning, cream cheese, and a hint of smoky paprika is the perfect cheesy appetizer, just mix and bake!</p>
+<a href="https://www.chilipeppermadness.com/recipes/crab-dip/" title="Crab Dip Recipe (Good Hot or Cold!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Taking a scoop from the pan of hot crab dip with a spoon to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/05/Crab-Dip-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This creamy crab dip with lump crab, Old Bay seasoning, cream cheese, and a hint of smoky paprika is the perfect cheesy appetizer, just mix and bake!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/crab-dip/">Crab Dip Recipe (Good Hot or Cold!)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -952,4 +1158,16 @@ date: 2025-05-25, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/asparagus-recipes/>
+
+---
+
+## Elvis Presley Cake
+
+date: 2025-05-25, from: Taste of Home
+
+Elvis Presley cake is a pineapple lover's dream. The sweet pineapple layer and rich cream cheese frosting with chopped pecans will leave you all shook up. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elvis-presley-cake/>
 

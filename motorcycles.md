@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-30 06:09:37
+updated: 2025-05-30 14:09:09
 ---
 
 # motorcycles
 
-(date: 2025-05-30 06:09:37)
+(date: 2025-05-30 14:09:09)
+
+---
+
+## Costing Under $2,000, This Ex-Tesla Exec Wants To Make Cheap Electric Motorcycles
+
+date: 2025-05-30, from: Ride Apart, Electric Motorcycle News
+
+It was built with utility and accessibility in mind.  
+
+<br> 
+
+<https://www.rideapart.com/news/761059/zeno-emara-electric-motorcycle-ex-tesla-exec/>
 
 ---
 
@@ -45,7 +57,7 @@ But if you're going to go, there's something you can do to help.
 
 ---
 
-## Despite Being Saved From Bankruptcy, KTM Is Still Likely Quitting MotoGP
+## KTM Is Still Likely Quitting MotoGP, Despite Being Saved From Bankruptcy
 
 date: 2025-05-30, from: Ride Apart, Electric Motorcycle News
 

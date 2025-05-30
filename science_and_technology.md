@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-05-30 06:09:34
+updated: 2025-05-30 14:09:06
 ---
 
 # science and technology
 
-(date: 2025-05-30 06:09:34)
+(date: 2025-05-30 14:09:06)
+
+---
+
+## Perplexity offers training wheels for building AI agents
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Generate modest interactive apps, spiffy charts, and bland screenplays as needed</h4> <p>Perplexity, an AI search biz, has launched Perplexity Labs, a project automation service capable of generating basic apps and digital assets on demand, with example workflows and project samples to help first-timers get started.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/perplexity_labs_ai_agent/>
+
+---
+
+## ConnectWise customers get mysterious warning about 'sophisticated' nation-state hack
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Pen tester on ScreenConnect bug: This one ‘terrifies’ me</h4> <p>ConnectWise has brought in the big guns to investigate a &#34;sophisticated nation state actor&#34; that broke into its IT environment and then breached some of its customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/connectwise_compromised_by_sophisticated_government/>
+
+---
+
+## Feds arrest DoD techie, claim he dumped top secret files in park for foreign spies to find
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>28-year-old alleged to have made multiple drops to folks who turned out to be undercover FBI agents</h4> <p>A Defense Intelligence Agency (DIA) IT specialist is scheduled to appear in court today after being caught by the FBI trying to surreptitiously drop top secret information to a foreign government in a public park.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/feds_nab_dod_techie_dumping/>
+
+---
+
+## The flip phone web: browsing with the original Opera Mini
+
+date: 2025-05-30, from: OS News
+
+Opera Mini was first released in 2005 as a web browser for mobile phones, with the ability to load full websites by sending most of the work to an external server. It was a massive hit, but it started to fade out of relevance once smartphones entered mainstream use. Opera Mini still exists today as a web browser for iPhone and Android—it&#8217;s now just a tweaked version of the regular Opera mobile browser, and you shouldn&#8217;t use Opera browsers. However, the original Java ME-based version is still functional, and you can even use it on modern computers. ↫ Corbin Davenport I remember using Opera Mini back in the day on my PocketPC and Palm devices. It wasn&#8217;t my main browser on those devices, but if some site I really needed was acting up, Opera Mini could be a lifesaver, but as we all remember, the mobile web before the arrival of the iPhone was a trashfire. Interestingly enough, we circled back to the mobile web being a trashfire, but at least we can block ads now to make it bearable. Since Opera Mini is just a Java application, the client part of the equation will probably remain executable for a long time, but once Opera decides to close the server side of things, it will stop being useful. Perhaps one day someone will reverse-engineer the protocol and APIs, paving the way for a custom server we can all run as part of the retrocomputing hobby. There&#8217;s always someone crazy and dedicated enough. 
+
+<br> 
+
+<https://www.osnews.com/story/142463/the-flip-phone-web-browsing-with-the-original-opera-mini/>
+
+---
+
+## US medical org pays $50M+ to settle case after crims raided data and threatened to swat cancer patients
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Cash splashed on damages, infrastructure improvements, and fraud monitoring</h4> <p>A Seattle cancer facility has agreed to fork out around $52.5 million as part of a class action settlement linked to a Thanksgiving 2023 cyberattack where criminals directly threatened cancer patients with swat attacks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/fred_hutch_cancer_center_commits/>
+
+---
+
+## Meta – yep, Facebook Meta – is now a defense contractor
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Giving people the power to build community and bring the world closer together so we can shoot them</h4> <p>Meta has partnered with Anduril Industries to build augmented and virtual reality devices for the military, eight years after it fired the defense firm&#39;s founder, Palmer Luckey.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/meta_is_now_a_defense/>
+
+---
+
+## Tariff woes equal US smartphone price hikes, shrinking sales
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Liberation Day not freeing consumers or businesses of their hard earned disposable income</h4> <p><strong>World War Fee</strong>  Trump&#39;s tariffs may have been ruled unlawful, but they are still in place and continue to affect the market, with the threat of price hikes on smartphones causing prospective buyers to hold off until the situation becomes less volatile.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/tariff_troubles_to_cause_cut/>
+
+---
+
+## Sols 4554–4555: Let’s Try That One Again…
+
+date: 2025-05-30, from: NASA breaking news
+
+Written by Abigail Fraeman, Planetary Geologist at NASA’s Jet Propulsion Laboratory Earth planning date: Wednesday, May 28, 2025 We came in early this morning and learned that part of Tuesday’s plan didn’t execute on Mars due to a temporary issue with the arm. We collected APXS data on the target “Palo Verde Mountains,” but were […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4554-4555-lets-try-that-one-again/>
+
+---
+
+## Barclays Bank signs 100k license Copilot deal with Microsoft
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>High-profile logo win for AI? Weeks ahead of year-end and with investors twitchy about returns? Impeccable timing</h4> <p>Microsoft yesterday used a town hall meeting to <span class="strike">leak details</span> tell staff about a 100,000 license contract signed with Barclays to use Copilot.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/barclays_bank_sign_100k_license/>
+
+---
+
+## How Can AI Researchers Save Energy? By Going Backward.
+
+date: 2025-05-30, from: Quanta Magazine
+
+Reversible programs run backward as easily as they run forward, saving energy in theory. After decades of research, they may soon power AI.            <p>The post <a href="https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/" target="_blank">How Can AI Researchers Save Energy? By Going Backward.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/>
+
+---
+
+## NASA’s SpaceX Demo-2 Launch Fifth Anniversary
+
+date: 2025-05-30, from: NASA breaking news
+
+President Donald Trump walks onstage to speak to a crowd at NASA’s Kennedy Space Center in Florida, following the launch of NASA’s SpaceX Demo-2 mission on May 30, 2020. The mission was the first crewed launch of the SpaceX Crew Dragon spacecraft and Falcon 9 rocket to the International Space Station as part of the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-spacex-demo-2-launch-fifth-anniversary/>
+
+---
+
+## Dell has $14BN AI server backlog, warns projects are 'nonlinear'
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Can&#39;t build a datacenter overnight, argues tech giant</h4> <p>Dell has confirmed an order backlog of $14.4 billion for AI optimized servers, yet it is tempering investors&#39; expectations for future sales by talking about demand being lumpy and dependencies in the pipeline.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/dell_results/>
 
 ---
 
@@ -21,6 +165,18 @@ date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
 
 ---
 
+## Hubble Spies Paired Pinwheel on Its Own
+
+date: 2025-05-30, from: NASA breaking news
+
+A single member of a galaxy pair takes centerstage in this NASA/ESA Hubble Space Telescope image. This beautiful spiral galaxy is NGC 3507, which is situated about 46 million light-years away in the constellation Leo (the Lion). NGC 3507’s classification is a barred spiral because the galaxy’s sweeping spiral arms emerge from the ends of […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-paired-pinwheel-on-its-own/>
+
+---
+
 ## Crims defeat human intelligence with fake AI installers they poison with ransomware
 
 date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
@@ -30,6 +186,18 @@ date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/30/fake_ai_installers_carry_ransomware/>
+
+---
+
+## June’s Night Sky Notes: Seasons of the Solar System
+
+date: 2025-05-30, from: NASA breaking news
+
+by Kat Troche of the Astronomical Society of the Pacific Here on Earth, we undergo a changing of seasons every three months. But what about the rest of the Solar System? What does a sunny day on Mars look like? How long would a winter on Neptune be? Let’s take a tour of some other […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/jun2025-night-sky-notes/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-05-30 06:09:33
+updated: 2025-05-30 14:09:06
 ---
 
 # pacific
 
-(date: 2025-05-30 06:09:33)
+(date: 2025-05-30 14:09:06)
+
+---
+
+## Guam renews partnership with the Philippines'  St. Lukes Medical Center
+
+date: 2025-05-30, from: Pacific Island Times
+
+“This renewed MOU with St. Luke’s ensures more affordable, accessible options for our patients, especially those traveling on medical referral," Tenorio said.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-renews-partnership-with-the-philippines-st-lukes-medical-center>
 
 ---
 

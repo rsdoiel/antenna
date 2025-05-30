@@ -1,11 +1,323 @@
 ---
 title: planet
-updated: 2025-05-30 06:09:31
+updated: 2025-05-30 14:09:04
 ---
 
 # planet
 
-(date: 2025-05-30 06:09:31)
+(date: 2025-05-30 14:09:04)
+
+---
+
+## Satchwell: The eight years that led to a guilty verdict
+
+date: 2025-05-30, from: RTÉ News
+
+The guilty verdict delivered in the murder trial of Richard Satchwell brings to an end eight years of mystery and speculation surrounding the case of his missing wife Tina. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1516027-richard-satchwell/>
+
+---
+
+## Podcast: Inside Richard Satchwell's murder trial
+
+date: 2025-05-30, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515996-podcast-inside-richard-satchwells-murder-trial/>
+
+---
+
+## Woman says she was afraid to admit burning Puska clothes
+
+date: 2025-05-30, from: RTÉ News
+
+Jozef Puska's sister-in-law told gardaí she had failed to say that she burned the clothes Jozef Puska was wearing on the day he murdered Ashling Murphy because she was "afraid the whole family would go against me" or that she would end up on the street. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1516032-puska-courts/>
+
+---
+
+## English breaks his own 800m national record in Poland
+
+date: 2025-05-30, from: RTÉ News
+
+Mark English ran a scorching 1:44.34 to break his own 800m Irish record at the World Athletics Continental Tour Gold meeting in Bydgoszcz, Poland. 
+
+<br> 
+
+<https://www.rte.ie/sport/athletics/2025/0530/1516028-english-breaks-his-own-800m-national-record-in-poland/>
+
+---
+
+## Murphy's late cracker rescues Ireland in Istanbul
+
+date: 2025-05-30, from: RTÉ News
+
+Emily Murphy walloped home an 89th-minute winner to earn the Republic of Ireland a 2-1 Women's Nations League victory in Turkey. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0530/1515851-murphys-late-cracker-rescues-ireland-in-istanbul/>
+
+---
+
+## “When Science Goes Wrong – And Why We Love It!” a Dr. Benjamin T. Chu Distinguished Lecture
+
+date: 2025-05-30, from: Vatican Obervatory
+
+A new entry for the Vatican Observatory Faith &#038; Science Resource Center: VO Director Br. Guy Consolmagno at St. Norbert's College. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/resources/when-science-goes-wrong-and-why-we-love-it-a-dr-benjamin-t-chu-distinguished-lecture/>
+
+---
+
+## Gaine case suspect claims he is being framed by criminals
+
+date: 2025-05-30, from: RTÉ News
+
+The suspect in the Michael Gaine murder case has denied having any involvement in the killing of the Kerry farmer. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1516019-michael-kelly/>
+
+---
+
+## Taoiseach defends Govt action over situation in Gaza
+
+date: 2025-05-30, from: RTÉ News
+
+Taoiseach Micheál Martin has defended Government's actions over the situation in Gaza and has told protesters who say Ireland has not gone far enough, to "go and ask the Palestinian Authority, ask the Palestinian people". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1516011-gaza-taoiseach/>
+
+---
+
+## UK government seeks to appeal ruling over Brown inquiry
+
+date: 2025-05-30, from: RTÉ News
+
+The British government has lodged papers seeking permission of the UK Supreme Court to appeal an order mandating a public inquiry into the murder of GAA chairman Sean Brown. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1516009-sean-brown/>
+
+---
+
+## TUI members accept senior cycle redevelopment measures
+
+date: 2025-05-30, from: RTÉ News
+
+Members of the Teachers' Union of Ireland have voted by a margin of 73% to 27% to accept negotiated implementation measures for senior cycle redevelopment. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0530/1516005-tui-vote/>
+
+---
+
+## Turkey v Republic of Ireland updates
+
+date: 2025-05-30, from: RTÉ News
+
+Live updates from Ireland's Nations League B game away to Turkey 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0530/1516001-turkey-v-republic-of-ireland-updates/>
+
+---
+
+## Denis Donaldson's daughter calls for inquiry into killing
+
+date: 2025-05-30, from: RTÉ News
+
+The daughter of Denis Donaldson, who was shot dead in Donegal in 2006 months after admitting being an informer for the police and MI5 over two decades, has called for a public inquiry into his killing. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515999-jane-donaldson-statement/>
+
+---
+
+## McGrath raises 'SkinnyTok' concerns with TikTok CEO
+
+date: 2025-05-30, from: RTÉ News
+
+Michael McGrath, EU Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection, has held an online meeting with TikTok CEO Shou Chew. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1516000-skinnytok/>
+
+---
+
+## Trump signals fresh trade tensions with China
+
+date: 2025-05-30, from: RTÉ News
+
+US President Donald Trump signalled renewed trade tensions with China, arguing that China had "violated" a deal to de-escalate tariffs, at a time when both sides appeared deadlocked in negotiations. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0530/1515997-trump-china-trade/>
+
+---
+
+## Taylor Swift has acquired rights to all of her music
+
+date: 2025-05-30, from: RTÉ News
+
+Taylor Swift has revealed that she's been "bursting into tears of joy" as she announces that she has acquired the rights to all of her music. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0530/1515995-taylor-swift-has-acquired-rights-to-all-of-her-music/>
+
+---
+
+## Ukraine await Russia peace proposal ahead of talks
+
+date: 2025-05-30, from: RTÉ News
+
+Ukraine resisted pressure from Russia and the United States to commit itself to attending peace talks with Russia on 2 June, saying it first needed to see the proposals Russian negotiators plan to bring to the talks. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0530/1515987-ukraine-russia-talks/>
+
+---
+
+## CAB sells Dublin home of convicted robber for €573,000
+
+date: 2025-05-30, from: RTÉ News
+
+The Criminal Assets Bureau has sold two homes in Dublin and Laois that were the proceeds of crime for a total of €664,000 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515986-cab-houses/>
+
+---
+
+## Israel's provocative settlement response may force Canada to back up its words
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7548504.1748630195!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-settlements.JPG' alt='A crane is seen at a construction site at a distance.' width='620' height='349' title='New buildings stand around the Israeli settlement Eli near Ramallah, in the Israeli-occupied West Bank, May 30, 2025. REUTERS/Ammar Awad'/><p>Canada has little choice but to sanction Israel or lose international credibility, say a former ambassador and former defence official, after the Netanyahu government responded to a joint statement demanding an end to settlement expansions with a major West Bank settlement announcement.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/israel-west-bank-settlements-1.7547426?cmp=rss>
+
+---
+
+## Cannabis grow operation in Six Nations sparks concern in community
+
+date: 2025-05-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7546349.1748630875!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/nancy-porter.jpeg' alt='Woman stands on her back deck with a field of greenhouses in the property behind her.' width='620' height='349' title='Nancy Porter lives with her mother in the property in front of the cannabis growing operation. '/><p>A cannabis grow operation's proximity to Six Nations' downtown and its potential environmental impacts is causing concern with some neighbours.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/cannabis-grow-operation-six-nations-1.7546309?cmp=rss>
+
+---
+
+## Memorable quotes from the defamation trial
+
+date: 2025-05-30, from: RTÉ News
+
+Over the course of four weeks, the jury in former Sinn Féin president Gerry Adams' defamation trial against the BBC heard many hours of evidence. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1515965-adams-bbc-court-quotes/>
+
+---
+
+## Garda fails in High Court bid to overturn suspension
+
+date: 2025-05-30, from: RTÉ News
+
+A garda who was suspended over four years ago, because he entered into a sexual relationship with a woman "within weeks" of her making a complaint of domestic abuse assault to him, has failed in a High Court challenge to his suspension. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515978-keith-harrison/>
+
+---
+
+## Tina Satchwell was 'a kind, loving, gentle soul' - family
+
+date: 2025-05-30, from: RTÉ News
+
+The family of Tina Satchwell have described her as a "kind, loving, gentle soul". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515974-tina-satchwell/>
+
+---
+
+## 15,580 homeless last month, including 4,775 children
+
+date: 2025-05-30, from: RTÉ News
+
+The number of people accessing emergency accommodation rose again last month. According to the Department of Housing, 15,580 people were homeless in April. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515960-homeless-figures/>
+
+---
+
+## Supreme Court lets Trump administration revoke status of over 500,000 migrants legally in U.S.
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7548245.1748621761!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-migration-arrests-phoenix.JPG' alt='Several people are shown with backs to the camera walking down a sidewalk. Some are police officers in uniform.' width='620' height='349' title='Masked law enforcement officers, including HSI and ICE agents, take people into custody at an immigration court in Phoenix, Arizona, U.S., May 21, 2025.  REUTERS/Caitlin O&apos;Hara'/><p>The U.S. Supreme Court on Friday let President Donald Trump's administration revoke the temporary legal status of hundreds of thousands of Venezuelan, Cuban, Haitian and Nicaraguan migrants living in the United States, bolstering the Republican president's drive to step up deportations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/scotus-trump-migrants-parole-1.7548134?cmp=rss>
+
+---
+
+## What the jury didn't hear during Satchwell murder trial
+
+date: 2025-05-30, from: RTÉ News
+
+Richard Satchwell's trial was initially scheduled to sit in his home county of Cork but due to the "intense publicity" surrounding the case, his lawyers applied late last year to move the trial to the capital. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515948-satchwell-jury/>
+
+---
+
+## Oil companies sued over heat dome 'wrongful' death
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7548121.1748623435!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/climate-wrongful-death-lawsuit.jpg' alt='Two women smile at the camera with empty red seats behind them' width='620' height='349' title='In this 2016 image provided by Misti Leon, left, she sits with her mom, Juliana Leon. Misti Leon is suing several oil and gas companies in one of the nation’s first wrongful-death claims seeking to hold the fossil fuel industry accountable for its role in the changing climate.'/><p>A U.S. woman is suing seven oil and gas companies, saying they contributed to an extraordinarily hot day that led to her mother's fatal hyperthermia during a heat dome event that also killed more than 600 people in B.C.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/heat-dome-lawsuit-1.7547975?cmp=rss>
 
 ---
 
@@ -49,7 +361,7 @@ date: 2025-05-30, from: Vatican News
 
 ---
 
-## Adams' reputation scrutinised during BBC defamation case
+## A look back at the Adams v BBC High Court case
 
 date: 2025-05-30, from: RTÉ News
 
@@ -73,7 +385,7 @@ The jury in the Gerry Adams defamation case at the High Court heard dramatically
 
 ---
 
-## 'Tina, come home': Satchwell courted media after murder
+## 'Tina, come home' - Satchwell courted media after murder
 
 date: 2025-05-30, from: RTÉ News
 
@@ -82,6 +394,66 @@ Tina Satchwell could never have imagined the tight space under the stairs at her
 <br> 
 
 <https://www.rte.ie/news/analysis-and-comment/2025/0530/1515929-richard-satchwell-case-background/>
+
+---
+
+## ‘Justice is long overdue’: Guterres calls for reparations for enslavement and colonialism
+
+date: 2025-05-30, from: United Nations, Top Stories
+
+Secretary-General António Guterres renewed his calls for Member states and the United Nations to work towards justice and reparations for Africans and the diaspora in a speech in New York on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163886>
+
+---
+
+## World News in Brief: Education suffers amid DR Congo violence, WHO greenlights RSV vaccines, more hurricanes ahead for Haiti
+
+date: 2025-05-30, from: United Nations, Top Stories
+
+In Ituri, a province in the east of the Democratic Republic of the Congo (DRC), intensifying conflict, intercommunal violence and mass displacement are forcing hundreds of thousands of children out of school. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163881>
+
+---
+
+## Songs of hope rise from Gaza’s ruins
+
+date: 2025-05-30, from: United Nations, Culture and Education
+
+In Al-Jundi Al-Majhool Square – once the bustling heart of Gaza City – music now floats among the tents. The square, transformed into a sprawling displacement camp, shelters hundreds of families driven from their homes by more than 19 months of war. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163876>
+
+---
+
+## Flavoured nicotine products driving youth addiction, WHO warns
+
+date: 2025-05-30, from: United Nations, Top Stories
+
+For most nicotine users today, their first experience with the drug is a flavoured product – making it easier, and more appealing, to try. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163871>
+
+---
+
+## Gaza is the ‘hungriest place on earth’, as Israel continues stranglehold on aid
+
+date: 2025-05-30, from: United Nations, Top Stories
+
+Starving Gazans continue to be deprived of aid as international relief efforts are being severely constrained by the Israeli authorities, the UN humanitarian affairs coordination office OCHA said on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163861>
 
 ---
 
@@ -97,6 +469,22 @@ date: 2025-05-30, from: RTÉ News
 
 ---
 
+## Friendship and commitment to peace following Holy Land tragedies
+
+date: 2025-05-30, from: Vatican News
+
+
+                    <p>Immediately after meeting Pope Leo XIV in the Vatican, Palestinian Aziz Abu Sarah and Israeli Maoz Inon sat down in the studios of Vatican Radio for an exclusive interview.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-05/friendship-and-commitment-to-peace-following-holy-land-tragedies.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-05/friendship-and-commitment-to-peace-following-holy-land-tragedies.html>
+
+---
+
 ## US boy clinches Spelling Bee win with 'éclaircissement'
 
 date: 2025-05-30, from: RTÉ News
@@ -106,6 +494,18 @@ Faizan Zaki, a 13-year-old boy from the Dallas area, won the 97th Scripps Nation
 <br> 
 
 <https://www.rte.ie/news/us/2025/0530/1515922-us-spelling-bee/>
+
+---
+
+## 13-year-old Texas showman who refused to take hints wins Scripps spelling bee with 'eclaircissement'
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7548014.1748615336!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-spelling-bee.jpg' alt='A boy pumps his fists as he reacts to his Scripps National Spelling Bee win. ' width='620' height='349' title='Faizan Zaki, 13, of Dallas, reacts as he wins the 2025 Scripps National Spelling Bee, Thursday, May 29, 2025, in Oxon Hill, Md.'/><p>Faizan Zaki's enthusiasm for spelling nearly got the better of him. Ultimately, the 13-year-old Texan's joyful approach made him the Scripps National Spelling Bee champion Thursday night.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/faizan-zaki-scripps-spelling-bee-1.7547980?cmp=rss>
 
 ---
 
@@ -189,11 +589,11 @@ date: 2025-05-30, from: Vatican News
 
 ---
 
-## Gaza is the 'hungriest place on Earth', says UN aid chief
+## Trump says he believes Gaza ceasefire deal is close
 
 date: 2025-05-30, from: RTÉ News
 
-Gaza is the "hungriest place on Earth right now", with people willing to do anything to get food for their children, UN aid chief Tom Fletcher has said. 
+US President Donald Trump said he believes an agreement is close on a Gaza ceasefire deal between Israel and Hamas and that it could be announced soon. 
 
 <br> 
 
@@ -210,6 +610,18 @@ An investigation is under way following the death of one of Ireland's oldest bre
 <br> 
 
 <https://www.rte.ie/news/munster/2025/0530/1515856-investigation-eagle-death/>
+
+---
+
+## White House blames 'formatting issues' in health report that cited non-existent studies
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547871.1748605294!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='Two clean shaven older men wearing suit and tie are shown seated in front of a backdrop that includes a American flag.' width='620' height='349' title='President Donald Trump, left, and Health and Human Services Secretary Robert F. Kennedy Jr. attend a Make America Healthy Again (MAHA) Commission Event in the East Room of the White House, Thursday, May 22, 2025, in Washington. '/><p>The White House said it will fix errors in a much-anticipated federal government report spearheaded by U.S. Health and Human Services Secretary Robert F. Kennedy Jr., which decried America's food supply, pesticides and prescription drugs.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/us-maha-health-kennedy-report-1.7547853?cmp=rss>
 
 ---
 
@@ -261,11 +673,11 @@ Petrol and diesel prices dipped in May following a prolonged period of stability
 
 ---
 
-## Without Musk, DOGE likely to fizzle out, says ex-employee
+## Trump, Musk offer show of unity as Tesla CEO departs
 
 date: 2025-05-30, from: RTÉ News
 
-Without billionaire Elon Musk in the Trump administration, his cost-cutting Department of Government Efficiency project is likely to "fizzle" out, a former DOGE employee has said. 
+US President Donald Trump has said that billionaire Elon Musk will remain a close adviser, even after the Tesla CEO departs the administration. 
 
 <br> 
 
@@ -277,7 +689,7 @@ Without billionaire Elon Musk in the Trump administration, his cost-cutting Depa
 
 date: 2025-05-30, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7544852.1748361445!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-aid-foundation.JPG' alt='A crowd of Palestinians seen in Rafah.' width='620' height='349' title='Palestinians seeking aid gather near an aid distribution site run by the U.S.-backed Gaza Humanitarian Foundation, in Rafah, in the southern Gaza Strip, May 27, 2025. REUTERS/Hatem Khaled'/><p>A U.S. plan for Gaza proposes a 60-day ceasefire and the release of 28 Israeli hostages alive and dead in the first week, in exchange for the release of 1,236 Palestinian prisoners and the remains of 180 dead Palestinians.</p> 
+<img src='https://i.cbc.ca/1.7548109.1748617770!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A Palestinian woman raises her hand at the sky as another girl grips onto her.' width='620' height='349' title='A Palestinian woman reacts in the aftermath of an Israeli strike on a house, in Gaza City, May 30, 2025. REUTERS/Ebrahim Hajjaj     TPX IMAGES OF THE DAY'/><p>A U.S. plan for Gaza proposes a 60-day ceasefire and the release of 28 Israeli hostages alive and dead in the first week, in exchange for the release of 1,236 Palestinian prisoners and the remains of 180 dead Palestinians.</p> 
 
 <br> 
 
@@ -289,7 +701,7 @@ date: 2025-05-30, from: CBC, World News
 
 date: 2025-05-30, from: RTÉ News
 
-The jury has found Richard Satchwell guilty of murdering his wife Tina at their home in Youghal, Co Cork, in 2017. 
+Richard Satchwell has been found guilty of murdering his wife Tina at their home in Youghal, Co Cork, in 2017. 
 
 <br> 
 
@@ -361,7 +773,7 @@ The Minister for Health has been urged to commence a long-awaited inquiry into t
 
 date: 2025-05-30, from: RTÉ News
 
-The construction of a long-awaited regeneration project at the former St Teresa's Gardens site in Dublin's south inner city, is being officially launched, with the first homes due to be completed by early 2027. 
+The construction of a long-awaited regeneration project at the former St Teresa's Gardens site in Dublin's south inner city, has been launched with the first homes due to be completed by early 2027. 
 
 <br> 
 
@@ -1761,7 +2173,7 @@ In Gaza, dozens of Palestinians have been reportedly injured and shot trying to 
 
 ## Climate change: World likely to breach 1.5°C limit in next five years
 
-date: 2025-05-28, from: United Nations, Top Stories
+date: 2025-05-28, from: United Nations, Climate Change
 
 Fact: 2024 was the warmest year on record – but the heat is far from over. A new report from the World Meteorological Organization (WMO) warns that global temperatures will likely continue rising, with an 80 per cent chance that at least one year between now and 2029 will be even hotter. 
 
@@ -1807,7 +2219,7 @@ An Indigenous&nbsp;social worker from Canada and a social entrepreneur from Keny
 
 ---
 
-## ‘My husband died in my arms’: Russian drone attacks on Ukrainians amount to crimes against humanity, UN investigators report
+## ‘My husband died in my arms’: UN probe says Russian drone strikes may be crimes against humanity
 
 date: 2025-05-28, from: United Nations, Top Stories
 
@@ -2789,7 +3201,7 @@ date: 2025-05-27, from: CBC, World News
 
 ## Real cost of disasters is 10 times higher than previously thought, says UN
 
-date: 2025-05-27, from: United Nations, Top Stories
+date: 2025-05-27, from: United Nations, Climate Change
 
 As countries face increasingly steep bills from natural hazards, the true cost of disasters is actually 10 times higher than previously estimated, with far-reaching effects across healthcare, housing, education and employment. 
 
@@ -2825,7 +3237,7 @@ As a controversial United States and Israel-backed aid distribution plan gets un
 
 ## Sanctions relief for Syria offers ‘powerful message of hope,’ says UN migration agency
 
-date: 2025-05-27, from: United Nations, Top Stories
+date: 2025-05-27, from: United Nations, Economic Development
 
 The UN International Organization for Migration (IOM) has welcomed recent decisions by the United States, the United Kingdom and the European Union to ease sanctions against Syria. 
 
@@ -2849,7 +3261,7 @@ As the war between rival militaries in Sudan continues, the World Health Organiz
 
 ## UN aims to transform urgency into action at Nice Ocean Conference
 
-date: 2025-05-27, from: United Nations, Top Stories
+date: 2025-05-27, from: United Nations, Climate Change
 
 Countries are uniting in the French city of Nice next month to save the marine environment.&nbsp; 
 

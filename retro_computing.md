@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-05-30 06:09:38
+updated: 2025-05-30 14:09:09
 ---
 
 # retro computing
 
-(date: 2025-05-30 06:09:38)
+(date: 2025-05-30 14:09:09)
+
+---
+
+## b.log 2025/05/30 - Scam surprise, What the hell?, Is America great yet?, Not going out.
+
+date: 2025-05-30, from: Richard Murray's blog
+
+Scam surprise, What the hell?, Is America great yet?, Not going out. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250530>
+
+---
+
+## KaOS 2025.05 Officially Qt5 Free
+
+date: 2025-05-30, from: Linux Magazine
+
+<p>If you're a fan of independent Linux distributions, the team behind KaOS is proud to announce the latest iteration that includes kernel 6.14 and KDE's Plasma 6.3.5.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/KaOS-2025.05-Officially-Qt5-Free>
 
 ---
 

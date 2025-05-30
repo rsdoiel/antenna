@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-30 06:09:36
+updated: 2025-05-30 14:09:08
 ---
 
 # libraries
 
-(date: 2025-05-30 06:09:36)
+(date: 2025-05-30 14:09:08)
+
+---
+
+## Partnering Across the Research Enterprise in These Times
+
+date: 2025-05-30, from: Association of Research Libraries News
+
+<p>Last Updated on May 30, 2025, 9:39 am ET More than 30 senior library leaders gathered on April 28 at the ARL Spring Meeting in Minneapolis to discuss partnerships with...</p>
+<p>The post <a href="https://www.arl.org/blog/partnering-across-the-research-enterprise-in-these-times/">Partnering Across the Research Enterprise in These Times</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/partnering-across-the-research-enterprise-in-these-times/>
 
 ---
 
@@ -23,11 +37,23 @@ date: 2025-05-30, from: Scholarly Kitchen
 
 ---
 
+## Data Collection for the article 'Fluid flow generates bacterial conjugation hotspots by increasing the rate of shear-driven cell-cell encounters'
+
+date: 2025-05-30, from: ETH Zurich, recently added
+
+Slomka, Jonasz 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/738551>
+
+---
+
 ## Seven Takeaways from the Spring 2025 Meeting of the Association of Research Libraries
 
 date: 2025-05-29, from: Association of Research Libraries News
 
-<p>Last Updated on May 29, 2025, 6:06 pm ET The Association of Research Libraries (ARL) convened in Minneapolis, Minnesota, at the end of April. Attended by the member representatives of...</p>
+<p>Last Updated on May 30, 2025, 9:43 am ET The Association of Research Libraries (ARL) convened in Minneapolis, Minnesota, at the end of April. Attended by the member representatives of...</p>
 <p>The post <a href="https://www.arl.org/blog/seven-takeaways-from-the-spring-2025-meeting-of-the-association-of-research-libraries/">Seven Takeaways from the Spring 2025 Meeting of the Association of Research Libraries</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -48,18 +74,6 @@ date: 2025-05-29, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/05/29/guest-post-reading-the-leaves-of-publishing-speed-the-cases-of-hindawi-frontiers-and-plos/>
-
----
-
-## Data Collection for the article 'Fluid flow generates bacterial conjugation hotspots by increasing the rate of shear-driven cell-cell encounters'
-
-date: 2025-05-29, from: ETH Zurich, recently added
-
-Slomka, Jonasz 
-
-<br> 
-
-<http://hdl.handle.net/20.500.11850/738551>
 
 ---
 
@@ -86,6 +100,18 @@ Stoll, Heather
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737537>
+
+---
+
+## New Geospatial Dataset of Dams and Reservoirs in Switzerland with Georeferenced Dam Locations
+
+date: 2025-05-28, from: ETH Zurich, recently added
+
+Adamus, Leon 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/737760>
 
 ---
 

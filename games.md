@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-05-30 06:09:36
+updated: 2025-05-30 14:09:08
 ---
 
 # games
 
-(date: 2025-05-30 06:09:36)
+(date: 2025-05-30 14:09:08)
+
+---
+
+## How to get Stonesword Keys to unlock Evergaol in Elden Ring Nightreign
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Stonesword Keys are special items in Elden Ring Nightreign that allow you to open Evergaol, opening up one of the best rune farming locations in the game.  Farming runes is a crucial part of the gameplay loop in this game, but some locations are better than others. By having at least one Stonesword Key, you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602575/stonesword-keys-how-to-get-unlock-evergaol>
+
+---
+
+## How to upgrade to legendary weapons in Elden Ring Nightreign
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Nothing makes you feel as unstoppable in Elden Ring Nightreign as having a legendary weapon.  Finding the weapon that best suits not only your class but also your playstyle is a real challenge, though. When you’re out of luck, the best option is to look for some smithing stones and upgrade your initial weapon. However, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602495/legendary-weapons-how-to-upgrade-special-smithing-table-location>
+
+---
+
+## Pokémon Go ‘Serene Retreat’ event guide
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Pokémon Go’s “Serene Retreat” is one of three big events that are leading up to Pokémon Go Fest, happening alongside the in-person event in Osaka. This event runs from May 30 until June 3. The event features a ton of bonuses, including halved hatch distance for any eggs put into the Incubators during the event [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/602493/serene-retreat-collection-challenge-premium-research>
+
+---
+
+## D&#038;D expands even more on psychic powers with new test class
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Dungeons &#38; Dragons makers Wizards of the Coast has put a strong focus psychic powers since 2023’s Baldur’s Gate 3 pitted adventurers of the Forgotten Realms against a mind-flayer invasion. WotC embraced the game’s success in its 2024 ruleset with an emphasis on psionics, with aberrant sorcerers, psychic warriors and soulknives all appearing in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/602593/dnd-psion-5e-test-class>
+
+---
+
+## The Death Stranding movie director’s breakout hit is climbing the Netflix charts
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Have you seen Pig? You gotta see Pig. At least before the Death Stranding movie. It’s on Netflix right now! Between the recently announced Elden Ring movie from the director of Annihilation and Civil War, and the reinterpretation of the Barney the Dinosaur canon from The Bear’s Ayo Edebiri, boutique film studio A24 is ready [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/602477/pig-netflix-nicolas-cage-what-to-stream-this-weekend>
+
+---
+
+## Elden Ring Nightreign&#8217;s first big patch will make the game very slightly easier for solo players
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Elden Ring Nightreign is finally out, and while it’s received a pretty positive reception so far, there’s a contingent of players voicing their complaints that the game isn’t balanced well for solo play. The developers at FromSoftware appear to be listening, and they’re set to release a patch next week to make the solo experience [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/602489/elden-ring-nightreign-solo-play-patch-102>
+
+---
+
+## Ubisoft teasing a big Splinter Cell announcement ahead of Summer Game Fest
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+After letting slip that the company was working on a new Rayman title, Ubisoft is now teasing something Splinter Cell-related, just days before Summer Game Fest kicks off. The company uploaded a cryptic post on X (formerly Twitter) on Friday with an image of what appears to be Sam Fisher, the beloved main character from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/602440/ubisoft-splinter-cell-remake-rumors-tease>
+
+---
+
+## All Elden Ring Nightreign classes and what they do
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+The classes you can play as in Elden Ring Nightreign are known as the Nightfarers — eight distinct characters with predetermined stats, movesets, and appearances. Unlike the blank-slate, highly customizable characters of the original Elden Ring, these classes fit into neat class roles like rogues, sorcerers, barbarians, archers, and mages. At launch, there are eight [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/599387/character-classes-all-list-nightfarers>
 
 ---
 

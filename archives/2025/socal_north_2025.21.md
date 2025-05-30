@@ -1,11 +1,86 @@
 ---
 title: socal north
-updated: 2025-05-30 06:09:32
+updated: 2025-05-30 14:09:05
 ---
 
 # socal north
 
-(date: 2025-05-30 06:09:32)
+(date: 2025-05-30 14:09:05)
+
+---
+
+## How the Trump administration’s vow to revoke Chinese student visas could hurt California
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+Secretary of State Marco Rubio’s announcement of the intent to revoke Chinese student visas could affect more than 50,000 at California universities and colleges. 
+
+<br> 
+
+<https://laist.com/news/education/how-the-trump-administrations-vow-to-revoke-chinese-student-visas-could-hurt-california>
+
+---
+
+## Drag artists are getting attacked. This safety handbook aims to help
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+As Pride Month approaches, a group of drag artists and their allies are releasing guidelines to help performers navigate a landscape of online harassment and physical violence. 
+
+<br> 
+
+<https://laist.com/news/drag-artists-are-getting-attacked-this-safety-handbook-aims-to-help>
+
+---
+
+## Boyle Heights gets its first $35,000 bus shelter in city’s push for shade equity
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+The upgraded shelter at Soto and 1st streets is one of several expected in the next year. 
+
+<br> 
+
+<https://laist.com/news/transportation/boyle-heights-bus-shelter-shade-equity>
+
+---
+
+## Medicaid work rules could leave a million Californians with no health insurance
+
+date: 2025-05-30, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A proposal in Congress would require some adults to document 80 hours a month of work or school. Experts say the red tape and paperwork is so cumbersome that even people who work will lose their health insurance.</p>
+<p>The post <a href="https://lbpost.com/news/health/medicaid-work-rules-could-leave-a-million-californians-with-no-health-insurance">Medicaid work rules could leave a million Californians with no health insurance</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/medicaid-work-rules-could-leave-a-million-californians-with-no-health-insurance>
+
+---
+
+## Medicaid work rules could leave a million Californians with no health insurance
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+A proposal in Congress would require some adults to document 80 hours a month of work. 
+
+<br> 
+
+<https://laist.com/news/health/medicaid-work-rules-could-leave-a-million-californians-with-no-health-insurance>
+
+---
+
+## Some SoCal valleys under heat advisory as temperatures rise
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+Friday is the warmest day of the week, so stay hydrated and put on sunscreen. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/heat-advisory-socal-valleys>
 
 ---
 
@@ -21,15 +96,15 @@ The county planned to send concrete from the Eaton Fire burn area to the Antelop
 
 ---
 
-## How much is too much when it comes to eating out?
+## Last chance to nominate your fave SoCal cheeseburger. You have till midnight tonight!
 
 date: 2025-05-30, updated: 2025-05-30, from: The LAist
 
-Setting the right menu price is all about customer psychology. 
+Don’t let the moment pass you by — vote in this year’s Tournament of Cheeseburgers. 
 
 <br> 
 
-<https://laist.com/news/food/how-much-is-too-much-when-it-comes-to-eating-out>
+<https://laist.com/news/food/last-chance-to-nominate-your-fave-socal-cheeseburger-you-have-till-midnight-tonight>
 
 ---
 
@@ -45,15 +120,15 @@ Our week of diner coverage sparked intense debates, so we asked: Where do you li
 
 ---
 
-## Last chance to nominate your fave SoCal cheeseburger. You have till midnight tonight!
+## How much is too much when it comes to eating out?
 
 date: 2025-05-30, updated: 2025-05-30, from: The LAist
 
-Don’t let the moment pass you by — vote in this year’s Tournament of Cheeseburgers. 
+Setting the right menu price is all about customer psychology. 
 
 <br> 
 
-<https://laist.com/news/food/last-chance-to-nominate-your-fave-socal-cheeseburger-you-have-till-midnight-tonight>
+<https://laist.com/news/food/how-much-is-too-much-when-it-comes-to-eating-out>
 
 ---
 
@@ -83,7 +158,7 @@ The National Association of the Deaf says the White House's failure to provide A
 
 ## Local sawmill is racing against the clock to save lumber from Altadena trees
 
-date: 2025-05-29, updated: 2025-05-29, from: The LAist
+date: 2025-05-29, updated: 2025-05-30, from: The LAist
 
 Angel City Lumber is trying to find a space where logs salvaged after the Eaton Fire can be stored and milled. 
 
@@ -95,7 +170,7 @@ Angel City Lumber is trying to find a space where logs salvaged after the Eaton 
 
 ## Plans for a veterans cemetery in Irvine are shut down yet again
 
-date: 2025-05-29, updated: 2025-05-29, from: The LAist
+date: 2025-05-29, updated: 2025-05-30, from: The LAist
 
 Everyone agrees that Orange County needs a veterans cemetery. The debate centers around where it should go. 
 
@@ -177,13 +252,13 @@ Across Los Angeles, rent hikes have led to fewer bus and train riders in an exam
 
 ---
 
-## Man fatally shot in North Long Beach, police say
+## Suspect arrested in Thursday’s deadly shooting in North Long Beach
 
 date: 2025-05-29, from: Longbeach Post
 
-<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-1024x689.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-1024x689.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-300x202.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-768x516.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-161x108.jpeg 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-400x269.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u.jpeg 1111w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The shooting was reported around 5:15 this morning near Harding Street and Cherry Avenue.</p>
-<p>The post <a href="https://lbpost.com/news/crime/man-fatally-shot-in-north-long-beach-police-say">Man fatally shot in North Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<figure><img width="1024" height="689" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-1024x689.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-1024x689.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-300x202.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-768x516.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-161x108.jpeg 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u-400x269.jpeg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/29095523/30cfdfe0-62bc-4f17-a80d-21ceaeac265bjpeg-654350-mzco8dcc-413190-ESLbKw7u.jpeg 1111w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The shooting was reported around 5:15 Thursday morning near Harding Street and Cherry Avenue.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-fatally-shot-in-north-long-beach-police-say">Suspect arrested in Thursday&#8217;s deadly shooting in North Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

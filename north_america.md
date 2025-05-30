@@ -1,11 +1,157 @@
 ---
 title: north america
-updated: 2025-05-30 06:09:32
+updated: 2025-05-30 14:09:05
 ---
 
 # north america
 
-(date: 2025-05-30 06:09:32)
+(date: 2025-05-30 14:09:05)
+
+---
+
+##  A Chilean Billionaire Strikes Gold In The Budget Bill 
+
+date: 2025-05-30, from: The Lever News
+
+ The budget reconciliation bill includes an environmentally devastating natural resources giveaway to a Chilean billionaire with close ties to the Trump family.  
+
+<br> 
+
+<https://www.levernews.com/a-chilean-billionaire-strikes-gold-in-the-budget-bill/>
+
+---
+
+## The Democracy Index
+
+date: 2025-05-30, from: The Contrarian
+
+May 30, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-25b>
+
+---
+
+## Contrarian Pets of the Week
+
+date: 2025-05-30, from: The Contrarian
+
+Meet Kari and Oaki! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pets-of-the-week>
+
+---
+
+## Culture recs: A timely tech satire from Succession creator Jesse Armstrong, plus... quilts! 
+
+date: 2025-05-30, from: The Contrarian
+
+In Mountainhead, four Silicon Valley bros congratulate themselves while the world burns. 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-recs-a-timely-tech-satire>
+
+---
+
+## Chewy and crunchy oatmeal cookies
+
+date: 2025-05-30, from: The Contrarian
+
+These cookies have soft and tender middles and crispy edges, not unlike how I feel these days. 
+
+<br> 
+
+<https://contrarian.substack.com/p/chewy-and-crunchy-oatmeal-cookies>
+
+---
+
+## At the precipice
+
+date: 2025-05-30, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/at-the-precipice>
+
+---
+
+## Angel Reese deserves her flowers for the women’s basketball boom
+
+date: 2025-05-30, from: The Contrarian
+
+Reese is one of the WNBA&#8217;s primary targets of misogynoir, a reality that unfairly diminishes her role in the growth of the game, her excellence, and the joy she spreads. 
+
+<br> 
+
+<https://contrarian.substack.com/p/angel-reese-deserves-her-flowers>
+
+---
+
+## Trump’s extraordinary pardon binge MAGAifies the clemency power
+
+date: 2025-05-30, from: The Contrarian
+
+He isn't the first to abuse the pardon power, but that's no reason not to reform it. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-extraordinary-pardon-binge>
+
+---
+
+## Drawing the Line Where It Matters
+
+date: 2025-05-30, from: Capital and Main
+
+<p>While one student risks his future to challenge Trump, a columnist takes a stand for his Tesla.</p>
+<p>The post <a href="https://capitalandmain.com/drawing-the-line-where-it-matters">Drawing the Line Where It Matters</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/drawing-the-line-where-it-matters>
+
+---
+
+## The voices congressional Republicans want to ignore
+
+date: 2025-05-30, from: The Contrarian
+
+Innovative storytelling can elevate the voices of Americans most affected by cuts in the GOP budget bill. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-voices-congressional-republicans>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-05-30, from: The Contrarian
+
+Super-Fun-Pak Comix 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-50a>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-05-30, from: The Contrarian
+
+Friday: Tesla Takedowns in Minnesota, California, and Florida, planning ahead for upcoming protests, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -70,18 +216,6 @@ The reality TV stars shamelessly sucked up to the president--and got a pardon in
 <br> 
 
 <https://contrarian.substack.com/p/the-chrisleys-played-trump-like-a>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-05-29, from: The Contrarian
-
-Thursday: Protests in California, Washington, D.C., and New York, planning for June 14, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

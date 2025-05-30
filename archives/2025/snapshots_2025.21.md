@@ -1,11 +1,388 @@
 ---
 title: snapshots
-updated: 2025-05-30 06:09:40
+updated: 2025-05-30 14:09:12
 ---
 
 # snapshots
 
-(date: 2025-05-30 06:09:40)
+(date: 2025-05-30 14:09:12)
+
+---
+
+## Grammarly Raises $1 Billion
+
+date: 2025-05-30, from: Michael Tsai
+
+Krystal Hu: Grammarly has raised $1 billion in non-dilutive financing from General Catalyst to expand its artificial intelligence (AI) offerings, aiming to grow into a comprehensive productivity platform, the companies said on Thursday.Grammarly, known for its popular writing assistant tool, plans to use the capital to fund sales and marketing costs and strategic acquisitions. It [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/30/grammarly-raises-1-billion/>
+
+---
+
+## The Talk Show Live, Without Apple
+
+date: 2025-05-30, from: Michael Tsai
+
+John Gruber (Mastodon, MacRumors, Hacker News, Steve Troughton-Smith): But in recent years the guests have seemed a bit predictable: senior executives from Apple. This year I again extended my usual invitation to Apple, but, for the first time since 2015, they declined. I think this will make for a fascinating show, but I want to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/30/the-talk-show-live-without-apple/>
+
+---
+
+## Xcode 16.4
+
+date: 2025-05-30, from: Michael Tsai
+
+Apple (downloads): Fixed: Users may see excessive CPU utilization from diskimagesiod which reduces simulator performance, increasing boot time, process launch times, and test execution times.[&#8230;]The command devicectl diagnose now obtains a sysdiagnose from your Mac and all available devices by default.[&#8230;]Fixed: NSURLSession was always timing out and failing in iOS 18.3 simulator runtimes.Fixed: Some C++ [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/30/xcode-16-4/>
+
+---
+
+## Arc and Dia
+
+date: 2025-05-30, from: Michael Tsai
+
+Wes Davis: The Browser Company has said repeatedly that it&#8217;s not getting rid of the Arc browser as it moves onto its new AI-centric Dia browser. But what the company also not going to do is develop new features for it. Josh Miller: Back in 2019, it was already clear to us that everything was [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/30/arc-and-dia/>
+
+---
+
+## Ghost in the Shell
+
+date: 2025-05-30, from: mrusme blog
+
+Beginning a new chapter in my terminal workflow by replacing _Alacritty_ with
+_Ghostty_. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/ghost-in-the-shell/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-30, from: Dave Winer's linkblog)
+
+Scott Hanson reviews AI website builder. 
+
+<br> 
+
+<https://wordland.shanson.de/2025/05/30/wordpress-com-ai-website-builder/>
+
+---
+
+## Work Mandates Exclude More Than Employ
+
+date: 2025-05-30, from: Guy Kawasaki blog
+
+Anne Whitesell, Assistant Professor of Political Science, Miami University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/work-mandates-exclude-more-than-employ>
+
+---
+
+## Flock Decides Not to Use Hacked Data in People Search Tool
+
+date: 2025-05-30, from: 404 Media Group
+
+The move comes after internal pressure and 404 Media’s reporting. 
+
+<br> 
+
+<https://www.404media.co/flock-decides-not-to-use-hacked-data-in-people-search-tool/>
+
+---
+
+## Call for Syllabi: Writing with Data
+
+date: 2025-05-30, from: Digital Humanities Quarterly News
+
+If you recently taught a course in writing, rhetoric, and/or technical, professional, or business communication with a significant thematic focus on writing with or about data, we invite you to publish it as part of the Sweetland DRC Syllabus Repository. Please consider submitting your syllabus so that others might gain inspiration for their future courses [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/05/30/call-for-syllabi-writing-with-data/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/05/30/call-for-syllabi-writing-with-data/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-30, from: Feed for Alt USDS)
+
+We posted this yesterday without comment. Today, we want to explain why this matters. 
+
+Much of the software that powers the world is open source, that is, the code is available for all to see. Writing code is difficult and scrutiny can make it more secure. 
+
+But there's more...
+
+1/?
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqfrtrome22w>
+
+---
+
+## Fabulous Fecal Matter
+
+date: 2025-05-30, updated: 2025-05-30, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/05/30/fabulous-fecal-matter/>
+
+---
+
+## Behind the Blog: Lighting Money on Fire and the Meaning of Vetting
+
+date: 2025-05-30, from: 404 Media Group
+
+This week, we discuss an exciting revamp of The Abstract, tech betrayals, and the "it's for cops" defense. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-lighting-money-on-fire-and-the-meaning-of-vetting/>
+
+---
+
+## A Postphenomenological Turn in Rhetorical Studies
+
+date: 2025-05-30, from: Digital Humanities Quarterly News
+
+This is a follow-up to a previous Yack post, which explores doing philosophy of technology in Rhetoric &#38; writing Studies (RWS). To read more about the ways in which philosophical frameworks of technology might benefit RWS, you can find the previous post here. Diane Davis (2021) has already informed us of rhetoricity as “the fundamental [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/05/30/a-postphenomenological-turn-in-rhetorical-studies/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/05/30/a-postphenomenological-turn-in-rhetorical-studies/>
+
+---
+
+## Why Cloud-Centric Architectures Are Breaking Under Data Scale
+
+date: 2025-05-30, from: Bacalhau Blog
+
+Your cloud bills are too high and data is slow? Here&#8217;s a better way than just using the cloud! 
+
+<br> 
+
+<https://blog.bacalhau.org/p/why-cloud-centric-architectures-are>
+
+---
+
+## Z4Pro+ is an Intel Twin Lake powered NAS that supports up to 4 HDs, 2 SSDs, and 2.5 GbE LAN
+
+date: 2025-05-30, from: Liliputing
+
+<p>Chinese device makers have jumped on the NAS (network attached storage) bandwagon in a big way over the past few years, with companies like Beelink, MINISFORUM, GMK, and AOOSTAR getting in on the action. Now there&#8217;s a new model called the Z4Pro+ that combines an unusual design with a strong feature set including support for [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/z4pro-is-an-intel-twin-lake-powered-nas-that-supports-up-to-4-hds-2-ssds-and-2-5-gbe-lan/">Z4Pro+ is an Intel Twin Lake powered NAS that supports up to 4 HDs, 2 SSDs, and 2.5 GbE LAN</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/z4pro-is-an-intel-twin-lake-powered-nas-that-supports-up-to-4-hds-2-ssds-and-2-5-gbe-lan/>
+
+---
+
+## Rich Kids
+
+date: 2025-05-30, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>Last week, the fiscal lunatics proved they are still running the asylum. The last fit of congressional sanity broke out during the Clinton administration. This week, House Republicans sent the Senate a budget that adds $3.8 trillion to the deficit. Trump’s “Big Beautiful Bill” pairs unfunded tax cuts for the wealthy with a combined $1.1 [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/rich-kids/">Rich Kids</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/rich-kids/>
+
+---
+
+## Talking AI and jobs with Natasha Zouves for News Nation
+
+date: 2025-05-30, updated: 2025-05-30, from: Simon Willison’s Weblog
+
+<p>I was interviewed by News Nation's Natasha Zouves about the very complicated topic of how we should think about AI in terms of threatening our jobs and careers. I previously talked with Natasha two years ago <a href="https://simonwillison.net/2023/Feb/19/live-tv/">about Microsoft Bing</a>.</p>
+
+<p>I'll be honest: I was nervous about this one. I'm not an economist and I didn't feel confident talking about this topic!</p>
+
+<p>I do find the challenge of making recent advances in AI and LLMs accessible to a general audience absolutely fascinating though, so I took the risk and agreed to the interview.</p>
+
+<p>I think it came out very well. The full hour long video is now available <a href="https://www.youtube.com/watch?v=RIvIpILrNXE">on the News Nation YouTube channel</a>, or as an audio podcast <a href="https://podcasts.apple.com/us/podcast/the-truth-of-the-matter-with-natasha-zouves/id1804707066?i=1000709421307">on iTunes</a> or <a href="https://open.spotify.com/episode/5M4DGPfmPqD8mgK3o2K0uj?si=PR4h9EL6TDCrRHZ9NKXFfQ">on Spotify</a>.</p>
+
+<p><lite-youtube videoid="RIvIpILrNXE" title="AI is coming for your job. Here’s what to do now, with Simon Willison" playlabel="Play: 
+AI is coming for your job. Here’s what to do now, with Simon Willison" params="enablejsapi=1"> </lite-youtube></p>
+
+<p>I made my own transcript of the video (using <a href="https://goodsnooze.gumroad.com/l/macwhisper">MacWhisper</a>) and fed it into the new Claude Opus 4 model to see if it could do a good job of turning that into an outline of the episode, with links to segments, short summaries and illustrative quotes. It did such a good job that I'm including it here on my blog - I <em>very rarely</em> publish AI-produced text of this length, but in this case I think it's justified - especially since most of it is direct quotes from things I said (and have confirmed I said) during the episode.</p>
+
+<p>I ran this command (using my LLM tool):</p>
+
+<p><code>llm -m claude-4-opus -f transcript.md -s 'Create a markdown outline list of topics covered by this talk. For each topic have a title that links to that point in the video and a single sentence paragraph summary of that section and two or three of the best illustrative quotes. The YouTube video URL is https://www.youtube.com/watch?v=RIvIpILrNXE - use that to link to the exact moments in the video.'</code></p>
+
+<p>It cost me 23,942 input tokens and 2,973 outputs, which for Claude Opus 4 adds up to <a href="https://www.llm-prices.com/#it=23942&amp;ot=2973&amp;ic=15&amp;oc=75">58 cents</a>.</p>
+
+<p>Claude included the relevant timestamps from the transcript. I ended tweaking those a little to ensure they included the introductory context to the session.</p>
+
+<h4 id="the-economic-disruption-nightmare-scenario">
+<strong>The economic disruption nightmare scenario</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=46s">0:46</a>)</h4>
+<p>Simon discusses his primary concern about AI's impact on employment and the economy. He explains that while skeptical of AGI claims, he sees real job impacts already happening, particularly for information workers and programmers.</p>
+<ul>
+<li>"The biggest nightmare scenario for me, or the more realistic one is the economic disruption this causes"</li>
+<li>"If you have a job that primarily deals with handling information, this stuff is a very powerful tool to help with that. And maybe that results in job losses"</li>
+<li>"This stuff is incredibly good at writing software, which was a huge surprise to everyone"</li>
+</ul>
+<h4 id="jobs-most-vulnerable-to-ai-translation-and-information-processing">
+<strong>Jobs most vulnerable to AI: translation and information processing</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=132s">2:12</a>)</h4>
+<p>The conversation explores how jobs involving information transformation are already being affected, with translation services as a prime example. Simon explains how translators have shifted from doing translations to reviewing AI-generated work.</p>
+<ul>
+<li>"Something we've seen already is jobs that are purely about transforming information from one shape to another are already being affected quite heavily"</li>
+<li>"It's not so much that they're put out of work. It's that their job has changed from doing the translation to reviewing translations created by machines"</li>
+<li>"Paralegals, who are assisting lawyers in going through contracts and so forth, a lot of what they do is beginning to be impacted by these tools as well"</li>
+</ul>
+<h4 id="the-jagged-frontier-what-ai-can-and-cannot-do">
+<strong>The jagged frontier: what AI can and cannot do</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=213s">3:33</a>)</h4>
+<p>Simon introduces the concept of AI's "jagged frontier" - the unpredictable boundary between tasks AI excels at and those it fails at. He emphasizes that discovering these boundaries requires constant experimentation.</p>
+<ul>
+<li>"There are things that AI is really good at and there's things that AI is terrible at, but those things are very non-obvious"</li>
+<li>"The only way to find out if AI can do a task is to sort of push it through the AI, try it lots of different times"</li>
+<li>"People are still finding things that it can't do, finding things that it can do, and trying to explore those edges"</li>
+</ul>
+<h4 id="ai-s-strength-processing-and-synthesizing-large-documents-4-20-">
+<strong>AI's strength: processing and synthesizing large documents</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=256s">4:16</a>)</h4>
+<p>Simon details how AI excels at answering questions about information you provide it, making it valuable for document analysis and synthesis. He particularly highlights its surprising capability in code generation.</p>
+<ul>
+<li>"You can paste in a hundred-page document and ask it questions about the information in that document"</li>
+<li>"AI is shockingly good at writing code for computers"</li>
+<li>"If you can describe what you need, the AI can churn out hundreds of lines of codes that do exactly that"</li>
+</ul>
+<h4 id="the-hallucination-problem-ai-s-critical-weakness">
+<strong>The hallucination problem: AI's critical weakness</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=328s">5:28</a>)</h4>
+<p>A detailed discussion of AI hallucination - when models confidently state false information. Simon provides examples including lawyers citing non-existent cases and explains why this is such a fundamental limitation.</p>
+<ul>
+<li>"AI makes mistakes a lot... it feels like it's a science fiction AI that knows everything and answers instantly and always gets everything right. And it turns out that's not what they are at all"</li>
+<li>"Really what these things are doing is they're trying to give you something that sounds convincing. They've been trained to output convincing texts, but convincing isn't the same thing as truth"</li>
+<li>"A bunch of lawyers have got caught out where they'll in their lawsuits, they'll say, and in the case, so-and-so versus so-and-so this thing happened. And then somebody looks it up and the case didn't exist"</li>
+</ul>
+<h4 id="customer-service-ai-the-failed-revolution">
+<strong>Customer service AI: the failed revolution</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=512s">8:32</a>)</h4>
+<p>Simon discusses Klarna's reversal on AI customer service, explaining why human customers resist AI support and the ethical concerns around disclosure.</p>
+<ul>
+<li>"They announced a reversal of that. They said they're hiring humans back again... because it turns out human beings hate talking to an AI as customer support"</li>
+<li>"I think it's deeply unethical to present a customer with an AI support bot without letting them know that it's AI"</li>
+<li>"If you're talking to customer support, sometimes it's because you've hit an edge case... which is that the thing that you're trying to do just isn't one of those normal things that the AI have been trained on"</li>
+</ul>
+<h4 id="the-trucking-industry-and-self-driving-vehicles">
+<strong>The trucking industry and self-driving vehicles</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=658s">10:58</a>)</h4>
+<p>A sobering discussion about the future of trucking jobs in light of advances in self-driving technology, particularly Waymo's success in San Francisco.</p>
+<ul>
+<li>"I'm more nervous about that now than I was a year ago, because like self driving cars have been coming soon in the future for like over a decade"</li>
+<li>"We now have these self driving taxis, which actually do work... They've been operating on the roads of San Francisco for a couple of years now. And they're good"</li>
+<li>"Given how well Waymo is now working, it does feel to me like we might see functional self driving trucks at some point within the next five to 10 years"</li>
+</ul>
+<h4 id="journalism-and-financial-analysis-why-human-judgment-matters">
+<strong>Journalism and financial analysis: why human judgment matters</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=944s">15:44</a>)</h4>
+<p>Simon strongly defends journalism against AI replacement, explaining why human judgment and verification skills remain crucial in fields dealing with truth and trust.</p>
+<ul>
+<li>"The single biggest flaw of AI is that it is gullible... they have absolutely no instincts for telling if something is true or not"</li>
+<li>"Journalism is the art of absorbing information from a huge array of untrustworthy sources and figuring out what is the truth in amongst all of this"</li>
+<li>"If you want to analyze 10,000 police reports and figure out what the overall trends are... If the AI can read those 10,000 things and give you leads on which ones look most interesting, it almost doesn't matter if it makes mistakes"</li>
+</ul>
+<h4 id="ai-s-telltale-signs-the-delve-phenomenon">
+<strong>AI's telltale signs: the "delve" phenomenon</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=1069s">17:49</a>)</h4>
+<p>An fascinating <small>(note: Claude used "an fascinating" rather than "a fascinating", what a weird mistake!)</small> explanation of how to spot AI-generated text, including the surprising linguistic influence of Nigerian English on AI models.</p>
+<ul>
+<li>"There's this magical thing where the world delve is surprisingly common in AI generated text. If something says that it's going to delve into something, that's an instant red flag"</li>
+<li>"A lot of that work was outsourced to people in Nigeria a couple of years ago... Nigerian English is slightly different from American English. They use the word delve a whole lot more"</li>
+<li>"One of the thrilling things about this field is the people building this stuff don't really understand how it works"</li>
+</ul>
+<h4 id="voice-cloning-and-scams-the-dark-side-of-ai">
+<strong>Voice cloning and scams: the dark side of AI</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=1307s">21:47</a>)</h4>
+<p>Simon discusses the serious threat of voice cloning technology and romance scams, explaining how AI makes these scams cheaper and more scalable.</p>
+<ul>
+<li>"There are a lot of systems now that can clone your voice to a very high degree based on 10 to 15 seconds of samples"</li>
+<li>"When you hear somebody on the phone with a voice, you can no longer be at all sure that that person is the person that they sound like"</li>
+<li>"Romance scams... were being run by human beings... Now you don't even need that. The AI models are extremely good at convincing messages"</li>
+</ul>
+<h4 id="ai-proofing-your-career-learning-and-adaptation">
+<strong>AI-proofing your career: learning and adaptation</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=1612s">26:52</a>)</h4>
+<p>Simon provides practical advice for workers concerned about AI, emphasizing how AI can actually help people learn new skills more easily.</p>
+<ul>
+<li>"One of the most exciting things to me personally about AI is that it reduces the barrier to entry on so many different things"</li>
+<li>"There's never been a better time to learn to program. Because that frustration, that learning curve has been shaved down so much"</li>
+<li>"If you're AI literate, if you can understand what these tools can do and how to apply them and you have literacy in some other field, that makes you incredibly valuable"</li>
+</ul>
+<h4 id="safe-sectors-the-trades-and-human-touch">
+<strong>Safe sectors: the trades and human touch</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=1801s">30:01</a>)</h4>
+<p>Discussion of jobs that are more resistant to AI disruption, particularly skilled trades and roles requiring physical presence.</p>
+<ul>
+<li>"The classic example is things like plumbing. Like plumbing and HVAC... it's going to be a very long time until we have an AI plumber"</li>
+<li>"I don't think AI eliminates many jobs. I think it greatly changes how they work"</li>
+<li>"You could be the AI-enabled botanist who helps all of the companies that run nurseries and so forth upgrade their processes"</li>
+</ul>
+<h4 id="creative-industries-the-human-advantage">
+<strong>Creative industries: the human advantage</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=2077s">34:37</a>)</h4>
+<p>Simon explains why human creativity remains valuable despite AI's capabilities, using examples from film and art.</p>
+<ul>
+<li>"Novelty is the one thing that AI can't do because it's imitating the examples that it's seen already"</li>
+<li>"If a human being with taste filtered that, if it got the AI to write 20 stories and it said, okay, this is the most interesting and then added that human flavor on top, that's the point where the thing starts to get interesting"</li>
+<li>"I love the idea that creative people can take on more ambitious projects, can tell even better stories"</li>
+</ul>
+<h4 id="ai-security-and-the-gullibility-problem">
+<strong>AI security and the gullibility problem</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=2811s">46:51</a>)</h4>
+<p>A deep dive into the unsolved security challenges of AI systems, particularly their susceptibility to manipulation.</p>
+<ul>
+<li>"We're building these systems that you can talk to and they can do things for you... And we have no idea how to make this secure"</li>
+<li>"The AI security problem comes down to gullibility"</li>
+<li>"They don't yet have a way of telling the difference between stuff that you tell them to do and stuff that other people tell them to do"</li>
+</ul>
+<h4 id="the-global-ai-race-and-competition">
+<strong>The global AI race and competition</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=3134s">52:14</a>)</h4>
+<p>Simon discusses concerns about international AI competition and how it affects safety considerations.</p>
+<ul>
+<li>"The thing that frightens me most is the competition... In the past 12 months, there are, I counted, 18 organizations that are putting out these ChatGPT style models"</li>
+<li>"They're all competing against each other, which means they're taking shortcuts. The safety research they're paying less attention to"</li>
+<li>"Chinese AI lab called DeepSeek came up with more optimized methods... they managed to produce a model that was as good as the OpenAI ones for like a 20th of the price"</li>
+</ul>
+<h4 id="getting-started-with-ai-practical-tips-57-42-">
+<strong>Getting started with AI: practical tips</strong> (<a href="https://www.youtube.com/watch?v=RIvIpILrNXE&amp;t=3454s">57:34</a>)</h4>
+<p>Simon provides concrete advice for beginners wanting to explore AI tools safely and productively.</p>
+<ul>
+<li>"The best way to learn about this stuff is to play with it, is to try and do ridiculous things with it"</li>
+<li>"A friend of mine says you should always bring AI to the table. Like any challenge that you have, try it against the AI, even if you think it's not going to work"</li>
+<li>"One exercise I really recommend is try and get an AI to make a mistake as early as possible... the first time you see it very confidently tell you something that's blatantly not true, it sort of inoculates you"</li>
+</ul>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/interviews">interviews</a>, <a href="https://simonwillison.net/tags/speaking">speaking</a>, <a href="https://simonwillison.net/tags/podcast-appearances">podcast-appearances</a>, <a href="https://simonwillison.net/tags/claude-4">claude-4</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/30/ai-and-jobs-with-natasha-zouves/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-30, from: Feed for Alt USDS)
+
+Itir did great things at USDS before becoming a commissioner in Haddonfield, NJ. Take the time to hear from her on Watchcats!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqfe4qouf22l>
 
 ---
 
@@ -16,6 +393,52 @@ The US-Ukraine relationship looks a lot better than it did a few months ago.
 <br> 
 
 <https://www.vox.com/world-politics/414948/ukraine-hasnt-won-over-trump-but-it-might-not-need-to>
+
+---
+
+## Retreating to Safety
+
+date: 2025-05-30, from: Marco Arment blog
+
+<p style="margin-top: 1em; margin-bottom: 1em;"><a href="https://marco.org/2015/06/11/live-with-phil"><img  src="https://marco.org/media/2015/06/tts2015-schiller6.jpg"/></a></p>
+
+<p>Ten years ago, Apple&#8217;s Phil Schiller surprised Apple enthusiasts and developers by walking out on stage at John Gruber&#8217;s <a href="https://daringfireball.net/thetalkshow/">The Talk Show</a> Live WWDC event and giving an open, human, honest interview to a somewhat <a href="https://marco.org/2015/01/04/apple-lost-functional-high-ground">jaded</a> community.</p>
+
+<p><a href="https://marco.org/2015/06/11/live-with-phil">I wrote this in response</a>:</p>
+
+<blockquote>
+  <p>Both Apple and Phil Schiller himself took a huge risk in doing this. That they agreed at all is a noteworthy gift to this community of long-time enthusiasts, many of whom have felt under-appreciated as the company has grown.</p>
+  
+  <p>[&#8230;]</p>
+  
+  <p>Phil’s appearance on the show was warm, genuine, informative, and entertaining.</p>
+  
+  <p>It was human.</p>
+  
+  <p>And humanizing the company and its decisions, especially to developers — remember, developer relations is all under Phil — might be worth the PR risk.</p>
+</blockquote>
+
+<p>This started a <em>ten-year</em> run of interviews by Apple executives on The Talk Show every year at WWDC that proved to be great, surprisingly safe PR for Apple.</p>
+
+<p>No executive ever said something they shouldn&#8217;t have (they&#8217;re pros), no sensational or negative news stories ever resulted from them, and Apple&#8217;s enthusiastic fans and developers felt seen, heard, and appreciated.</p>
+
+<p style="text-align: center; color: #ccc;">*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</p>
+
+<p>For unspecified reasons, <a href="https://daringfireball.net/linked/2025/05/29/the-talk-show-live-tickets-2025">Apple has declined to participate this year</a>, ending what had become a beloved tradition in our community — and I can&#8217;t help but suspect that it won&#8217;t come back. (<a href="https://marco.org/2021/06/03/developer-relations">A lot has changed</a> in the meantime.)</p>
+
+<p>Maybe Apple has good reasons. <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">Maybe not</a>. We&#8217;ll see what their WWDC PR strategy looks like in a couple of weeks.</p>
+
+<p>In the absence of any other information, it&#8217;s easy to assume that Apple no longer wants its executives to be interviewed in a human, unscripted, unedited context that may contain hard questions, and that Apple no longer feels it necessary to show their appreciation to our community and developers in this way.</p>
+
+<p>I hope that&#8217;s either not the case, or it doesn&#8217;t stay the case for long.</p>
+
+<p>This will be the first WWDC I&#8217;m not attending since 2009 (excluding the remote 2020 one, of course). Given <a href="https://www.relay.fm/radar/312">my realizations about my relationship with Apple</a> and <a href="https://www.relay.fm/radar/318">how they view developers</a>, I&#8217;ve decided that it&#8217;s best for me to take a break this year, gain some perspective, and decide what my future relationship should look like.</p>
+
+<p>Maybe Apple&#8217;s leaders are doing that, too.</p> 
+
+<br> 
+
+<https://marco.org/2025/05/30/retreat>
 
 ---
 
@@ -43,18 +466,6 @@ date: 2025-05-30, from: RIP Corp
 </audio> <a href="https://cdn.simplecast.com/audio/9f939d29-3851-4cf5-806d-2f338733807b/episodes/caeac384-5525-42c4-9c70-6b7df1500c93/audio/5cc4985c-bced-4e9a-9ef3-268a43e182fb/default_tc.mp3?aid=rss_feed&feed=gfVnllUi" target="_blank">download audio/mpeg</a><br> 
 
 <https://ripcorp.biz/episodes/everything-is-the-financial-crisis-gELEJ3FT>
-
----
-
-## oberon@gitlab.inf.ethz.ch joined project Felix Oliver Friedrich / Oberon A2
-
-date: 2025-05-30, updated: 2025-05-30, from: Oberon A2 repository
-
- 
-
-<br> 
-
-<>
 
 ---
 
@@ -1037,6 +1448,19 @@ I got a couple of quotes in this NYTimes story about internal resistance to Amaz
 
 ---
 
+## US-RSE May 2025 Newsletter
+
+date: 2025-05-28, from: The United States Research Software Engineer Association
+
+👯 This Month: Meetups! 👯 - 
+          In this monthly newsletter, we share recent, current, and planned activities of the US-RSE Association, and related news that we think is of interest to US-RSE members. Newsletters are also available on our website. To receive our newsletter, join US-RSE. This month, we’re highlighting the importance and impact of meetups... 
+
+<br> 
+
+<https://us-rse.org/2025-05-28-newsletter/>
+
+---
+
 **@Dave Winer's linkblog** (date: 2025-05-28, from: Dave Winer's linkblog)
 
 Trump’s Attacks Have Helped Heal a Deeply Divided Harvard. 
@@ -1670,6 +2094,18 @@ date: 2025-05-27, from: Blair's Science Desk
 
 ---
 
+## Daniel Madren's Community and Travel Funds Report: Indiana Regional Group Inaugural Meetup
+
+date: 2025-05-27, from: The United States Research Software Engineer Association
+
+Thanks to the US-RSE Community and Travel Funds program, supported by the Alfred P. Sloan Foundation, I had the chance to bring together RSE team members from Purdue, Indiana University, and the University of Notre Dame for a meetup in Indianapolis. We wanted to better understand how each of our... 
+
+<br> 
+
+<https://us-rse.org/2025-05-27-madren-community-travel-funds-report/>
+
+---
+
 ## GitHub MCP Exploited: Accessing private repositories via MCP
 
 date: 2025-05-26, updated: 2025-05-26, from: Simon Willison’s Weblog
@@ -2007,9 +2443,11 @@ An oncologist says Biden&#39;s prostate cancer is treatable, and survivable.
 
 ---
 
-**@Dave Winer's linkblog** (date: 2025-05-26, from: Dave Winer's linkblog)
+## The Economic Consequences of Destroying Harvard
 
-The Economic Consequences of Destroying Harvard. 
+date: 2025-05-26, from: Paul Krugman
+
+Freedom is on the line. But so are jobs. 
 
 <br> 
 

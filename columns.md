@@ -1,11 +1,172 @@
 ---
 title: columns
-updated: 2025-05-30 06:09:35
+updated: 2025-05-30 14:09:07
 ---
 
 # columns
 
-(date: 2025-05-30 06:09:35)
+(date: 2025-05-30 14:09:07)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-30, from: Dave Winer's Scripting News)
+
+Thinking (for a moment) of splurging on <a href="https://www.stubhub.com/new-york-knicks-new-york-tickets-6-2-2025/event/157266978/?quantity=2">tickets for Game 7</a> at the <a href="https://en.wikipedia.org/wiki/Madison_Square_Garden">Garden</a> on Monday. I've been following the prices during the playoffs, never seen them this high. There's no guarantee there will be a Game 7, first the Knicks have to win tomorrow in Indiana. Courtside seats go for <a href="https://www.stubhub.com/new-york-knicks-new-york-tickets-6-2-2025/event/157266978/?quantity=2&sections=1717540&ticketClasses=17400&rows=2161980&seats=&seatTypes=&listingQty=">$27K</a> each. 
+
+<br> 
+
+<http://scripting.com/2025/05/30.html#a203249>
+
+---
+
+##  Beautiful Drone Footage of an Alaskan Salmon Migration 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/beautiful-drone-footage-of-an-alaskan-salmon-migration-1>
+
+---
+
+## Ghost in the Shell
+
+date: 2025-05-30, from: mrusme blog
+
+Beginning a new chapter in my terminal workflow by replacing _Alacritty_ with
+_Ghostty_. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/ghost-in-the-shell/>
+
+---
+
+##  I like this song (Lifelike&#8217;s So Electric) and I like this video... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046878-i-like-this-song-lifelike>
+
+---
+
+##  Two interesting things about the rock paper scissors game: 1. scissors were... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046789-two-interesting-things-ab>
+
+---
+
+##  A supercut of every point scored by Kobe Bryant in his 81-point... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046071-a-supercut-of-every-point>
+
+---
+
+##  The Wes Anderson Archive: Ten Films, Twenty-Five Years 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/the-wes-anderson-archive-ten-films-twenty-five-years>
+
+---
+
+##  The actor Patrick Stewart exists in the Star Trek universe and &#8220;Jean-Luc... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046949-the-actor-patrick-stewart>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-30, from: Dave Winer's Scripting News)
+
+A somewhat obscure <a href="https://github.com/scripting/Scripting-News/issues/320">question</a> about how feed readers should handle content:encoded elements in WordPress feeds. 
+
+<br> 
+
+<http://scripting.com/2025/05/30.html#a153943>
+
+---
+
+##  28 slightly rude notes on writing. &#8220;Most writing is bad because it&#8217;s... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046942-28-slightly-rude-notes-on>
+
+---
+
+##  Grammar movies: Apostrophes Now, Rebel Without a Clause, Gerund Brockovich, Alien vs... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046939-grammar-movies-apostrophe>
+
+---
+
+## A limited-time flavor: Blue Raspberry Pi
+
+date: 2025-05-30, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">A limited-time flavor: Blue Raspberry Pi</span>
+
+            <p></p>
+
+<p>The most unique Raspberry Pi I own is a limited-time flavor: <em>blue raspberry</em>. And no, this isn't the <a href="https://www.raspberrypi.com/news/raspberry-pi-brazil/">Brazilian version</a>, or the <a href="https://www.raspberrypi.com/news/red-pi-at-night/">red Chinese version</a>. This blue version is <a href="https://www.raspberrypi.com/news/blue-pi/">one of 1000</a> blue Pis that were made to celebrate Raspberry Pi's first anniversary, 12 years ago.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">May 30, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/limited-time-flavor-blue-raspberry-pi>
+
+---
+
+##  &#8220;All three of the country&#8217;s largest carriers (American Airlines, United Airlines, and... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046960-all-three-of-the-countrys>
 
 ---
 

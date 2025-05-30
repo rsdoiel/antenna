@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-05-30 06:09:36
+updated: 2025-05-30 14:09:08
 ---
 
 # journalism
 
-(date: 2025-05-30 06:09:36)
+(date: 2025-05-30 14:09:08)
+
+---
+
+## Editorial Cartoon: “the final stretch”
+
+date: 2025-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/05/30/editorial-cartoon-the-final-stretch/>
+
+---
+
+## The evolution of experiential travel
+
+date: 2025-05-30, from: The Sundail (CSUN Student Newspaper)
+
+  The notion of a truly fulfilling holiday has undergone a significant transformation, moving beyond mere sightseeing to embrace deeper, more engaging and personally enriching experiences that resonate long after... 
+
+<br> 
+
+<https://sundial.csun.edu/194093/sundialbrandstudio/sundial-marketplace/the-evolution-of-experiential-travel/>
 
 ---
 
