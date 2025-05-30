@@ -1,11 +1,143 @@
 ---
 title: socal north
-updated: 2025-05-29 14:08:03
+updated: 2025-05-30 06:09:32
 ---
 
 # socal north
 
-(date: 2025-05-29 14:08:03)
+(date: 2025-05-30 06:09:32)
+
+---
+
+## LA County planned to send fire debris to the desert. Then the community spoke up
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+The county planned to send concrete from the Eaton Fire burn area to the Antelope Valley for later use reinforcing roads. The plan was abandoned after community outrage. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-concrete-fire-debris-palmdale>
+
+---
+
+## How much is too much when it comes to eating out?
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+Setting the right menu price is all about customer psychology. 
+
+<br> 
+
+<https://laist.com/news/food/how-much-is-too-much-when-it-comes-to-eating-out>
+
+---
+
+## All day breakfasts and vinyl booths: What are your favorite diners, SoCal?
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+Our week of diner coverage sparked intense debates, so we asked: Where do you like to go? 
+
+<br> 
+
+<https://laist.com/news/food/all-day-breakfasts-and-vinyl-booths-what-are-your-favorite-diners-socal>
+
+---
+
+## Last chance to nominate your fave SoCal cheeseburger. You have till midnight tonight!
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+Don’t let the moment pass you by — vote in this year’s Tournament of Cheeseburgers. 
+
+<br> 
+
+<https://laist.com/news/food/last-chance-to-nominate-your-fave-socal-cheeseburger-you-have-till-midnight-tonight>
+
+---
+
+## Supreme Court limits environmental reviews of infrastructure projects
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+The decision makes it easier to win approval for highways, bridges, pipelines, wind farms, and other infrastructure projects. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/supreme-court-limits-environmental-reviews-of-infrastructure-projects>
+
+---
+
+## The White House is sued over lack of sign language interpreters at press briefings
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+The National Association of the Deaf says the White House's failure to provide ASL interpreters during press briefings leaves some deaf and hard of hearing people without information. 
+
+<br> 
+
+<https://laist.com/news/politics/the-white-house-is-sued-over-lack-of-sign-language-interpreters-at-press-briefings>
+
+---
+
+## Local sawmill is racing against the clock to save lumber from Altadena trees
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+Angel City Lumber is trying to find a space where logs salvaged after the Eaton Fire can be stored and milled. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/angel-city-lumber-sawmill-altadena-trees-eaton-fire>
+
+---
+
+## Plans for a veterans cemetery in Irvine are shut down yet again
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+Everyone agrees that Orange County needs a veterans cemetery. The debate centers around where it should go. 
+
+<br> 
+
+<https://laist.com/news/politics/fight-over-a-veterans-cemetery-in-irvine>
+
+---
+
+## San Clemente rail service to resume Saturday after railway reinforced against coastal erosion
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+Routes were adjusted in April to allow crews to reinforce the tracks. 
+
+<br> 
+
+<https://laist.com/news/transportation/san-clemente-amtrak-pacific-surfliner>
+
+---
+
+## How safe is the food supply after federal cutbacks? Experts are worried
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+As the Trump administration slashes the federal workforce, experts say cuts to the USDA, FDA and CDC have left the food supply vulnerable to outbreaks of foodborne illness. 
+
+<br> 
+
+<https://laist.com/news/health/how-safe-is-food-supply-after-federal-cutbacks-experts-are-worried>
+
+---
+
+## As LA plans to recycle more water, officials want to hear from you
+
+date: 2025-05-29, updated: 2025-05-29, from: The LAist
+
+There are opportunities for the public to share feedback on what will be Southern California largest recycled water projects. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-water-recycling-public-input>
 
 ---
 
@@ -62,7 +194,7 @@ date: 2025-05-29, from: Longbeach Post
 
 ## Second phase of Metro subsidy program to kick off in July after months-long delay
 
-date: 2025-05-29, updated: 2025-05-29, from: The LAist
+date: 2025-05-29, updated: 2025-05-30, from: The LAist
 
 Metro said it’s switching vendors to distribute a total of $1,800 to Phase 2 participants. 
 
@@ -88,7 +220,7 @@ The Department of Health and Human Services is ending a $766 million contract wi
 
 date: 2025-05-29, updated: 2025-05-29, from: The LAist
 
-The U.S. Court of Appeals for the Federal District granted the Trump administration's request to temporarily put on hold the New York-based Court of International Trade judgment that struck down President Trump's tariffs. 
+The U.S. Court of Appeals for the Federal Circuit granted the Trump administration's request to temporarily put on hold the New York-based Court of International Trade judgment that struck down President Trump's tariffs. 
 
 <br> 
 

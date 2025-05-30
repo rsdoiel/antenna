@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-05-29 14:08:05
+updated: 2025-05-30 06:09:34
 ---
 
 # science and technology
 
-(date: 2025-05-29 14:08:05)
+(date: 2025-05-30 06:09:34)
+
+---
+
+## UK's answer to Darpa invests £23.3M in touchy-feely robots
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Latest project gets the green light although Brexit-era brainchild faces spending review</h4> <p>The UK&#39;s version of Darpa — a US government blue-sky research body — has invested £23.3 million (c $32 million) into nine teams working to transform &#34;robotic dexterity.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/uks_darpa_invests_233_million/>
+
+---
+
+## Crims defeat human intelligence with fake AI installers they poison with ransomware
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Take care when downloading AI freebies, researcher tells <i>The Register</i></h4> <p>Criminals are using installers for fake AI software to distribute ransomware and other destructive malware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/fake_ai_installers_carry_ransomware/>
+
+---
+
+## Data watchdog put cops on naughty step for lost CCTV footage
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Greater Manchester Police reprimanded over hours of video that went AWOL</h4> <p>The UK’s data watchdog has reprimanded Greater Manchester Police (GMP) force for losing CCTV footage the cop shop was later requested to retain.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/uk_data_watchdog_found_police/>
+
+---
+
+## The UK wants you to sign up for £1B cyber defense force
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>War in Ukraine causes major rethink in policy and spending</h4> <p>The UK is spending more than £1 billion ($1.35 billion) setting up a new Cyber and Electromagnetic Command and is recruiting a few good men and women to join up and staff it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/uk_cyber_defense/>
+
+---
+
+## Techie fixed a ‘brown monitor’ by closing a door for a doctor
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>After three service calls, user reflected on their utter stupidity</h4> <p><strong>On Call</strong>  As the door closes on another working week, <i>The Register</i> brings you another edition of On Call, our reader-contributed column that recounts your amazing stories from the frontlines of tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/on_call/>
+
+---
+
+## The House of Zen joins the co-packaged optics race with Enosemi buy
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Light is faster than copper, which is important with rack scale architecture</h4> <p><strong>Analysis</strong>  AMD officially entered the co-packaged optics race with the acquisition of photonic chip startup Enosemi, announced this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/amd_enosemi_ai/>
+
+---
+
+## Astroboffins analyzed old data and found a candidate dwarf planet in the Oort cloud
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Thank whoever decided to make the Dark Energy Camera Legacy Survey public for this discovery</h4> <p>A trio of scientists have published a paper that explains how they found a dwarf planet in a database.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/2017_of201_dwarf_planet_discovery/>
+
+---
+
+## Sol 4553: Back to the Boxwork!
+
+date: 2025-05-30, from: NASA breaking news
+
+Written by Lucy Thompson, Planetary Geologist at University of New Brunswick Earth planning date: Tuesday, May 27, 2005 We return to planning today after a successful long weekend and about 42 meters of drive distance (about 138 feet). We planned four sols of activities on Friday to keep Curiosity busy, while the U.S.-based science team […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sol-4553-back-to-the-boxwork/>
+
+---
+
+## A Dust Devil Photobombs Perseverance!
+
+date: 2025-05-30, from: NASA breaking news
+
+Written by Athanasios Klidaras, Ph.D. candidate at Purdue University, and Megan Kennedy Wu, Senior Mission Operations Specialist at Malin Space Science Systems To celebrate her 1,500th Martian day (“Sol”) exploring the red planet, the Perseverance rover used its robotic arm to take a selfie of the rover and the surrounding landscape. But when team members […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/a-dust-devil-photobombs-perseverance/>
+
+---
+
+## Chip designers latest casualties in US-China trade war
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Cadence Systems, Synopsys, and Siemens among those subject to export licenses targeting Middle Kingdom</h4> <p>In the latest assault on China&#39;s burgeoning semiconductor industry, the Trump administration has erected new curbs on the sale of chip design software in the region.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/eda_us_china/>
+
+---
+
+## Security outfit SentinelOne's services back online after lengthy outage
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Probably not a cyber-incident, but definitely not a good look</h4> <p>Security services vendor SentinelOne experienced a major outage on Thursday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/sentinelone_outage/>
+
+---
+
+## Feds gut host behind pig butchering scams that bilked $200M from Americans
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Philippines company allegedly run by Chinese national has form running scams</h4> <p>The US Treasury has sanctioned a Philippine company and its administrator after linking them to the infrastructure behind the majority of so-called &#34;pig butchering&#34; scams reported to the FBI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/fbi_treasury_funnull_sanctions/>
+
+---
+
+## Palantir's Trump bonanza continues with Fannie Mae contract to fight fraud
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>Yet more juicy data for the all-seeing eye</h4> <p>Trump administration darling Palantir has scored another data-guzzling win by partnering with Fannie Mae to detect mortgage fraud using AI. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/fannie_mae_palantir_ai/>
+
+---
+
+## Microsoft's May Patch Tuesday update fails on some Windows 11 VMs
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>&#39;The operating system couldn&#39;t be loaded&#39; is never a great message</h4> <p>Microsoft&#39;s latest Patch Tuesday update is failing to install on some Windows 11 machines, mostly virtual ones, and dumping them into recovery mode with a boot error. Its only recommendation to avoid the problem for now is to dodge the update.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/microsoft_windows_problems/>
+
+---
+
+## Anthropic CEO frets about 20% unemployment from AI, but economists are doubtful
+
+date: 2025-05-29, updated: 2025-05-29, from: The Register (UK I.T. News)
+
+<h4>It&#39;s hard to predict the future, but trying might get Amodei a seat at the regulatory table</h4> <p>Anthropic CEO Dario Amodei is worried that AI could eliminate half of entry-level white collar jobs in five years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/29/anthropic_ceo_ai_job_threat/>
 
 ---
 

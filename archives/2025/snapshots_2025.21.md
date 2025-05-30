@@ -1,11 +1,158 @@
 ---
 title: snapshots
-updated: 2025-05-29 14:08:10
+updated: 2025-05-30 06:09:40
 ---
 
 # snapshots
 
-(date: 2025-05-29 14:08:10)
+(date: 2025-05-30 06:09:40)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-30, from: Dave Winer's linkblog)
+
+The US-Ukraine relationship looks a lot better than it did a few months ago. 
+
+<br> 
+
+<https://www.vox.com/world-politics/414948/ukraine-hasnt-won-over-trump-but-it-might-not-need-to>
+
+---
+
+## Digital Corruption Takes Over DC
+
+date: 2025-05-30, from: Paul Krugman
+
+Time to call crypto what it is: A criminal enterprise 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/digital-corruption-takes-over-dc>
+
+---
+
+## Everything Is The Financial Crisis
+
+date: 2025-05-30, from: RIP Corp
+
+<p>RIP Corp is a Charts & Leisure production. Find us at ripcorp.biz, or follow in places @ripcorpdotbiz for all your dead business needs. </p><p>To support the show, please consider aligning yourself even more deeply with the brand, via our merch shop: ripcorp.threadless.com</p><p>RIP Corp is written and hosted by Ingrid Burrington. Produced by Meghal Janardan and Mike Rugnetta. Associate producer, Taylor Behnke. Original music and sound design from Andrew Atkin and Michael Simonelli. Fact-checking from Matt Giles. Logo design by Beatriz Lozano and illustrations by Megan Mulholland. Executive produced by Jason Oberholtzer.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://cdn.simplecast.com/audio/9f939d29-3851-4cf5-806d-2f338733807b/episodes/caeac384-5525-42c4-9c70-6b7df1500c93/audio/5cc4985c-bced-4e9a-9ef3-268a43e182fb/default_tc.mp3?aid=rss_feed&feed=gfVnllUi"></source>
+</audio> <a href="https://cdn.simplecast.com/audio/9f939d29-3851-4cf5-806d-2f338733807b/episodes/caeac384-5525-42c4-9c70-6b7df1500c93/audio/5cc4985c-bced-4e9a-9ef3-268a43e182fb/default_tc.mp3?aid=rss_feed&feed=gfVnllUi" target="_blank">download audio/mpeg</a><br> 
+
+<https://ripcorp.biz/episodes/everything-is-the-financial-crisis-gELEJ3FT>
+
+---
+
+## oberon@gitlab.inf.ethz.ch joined project Felix Oliver Friedrich / Oberon A2
+
+date: 2025-05-30, updated: 2025-05-30, from: Oberon A2 repository
+
+ 
+
+<br> 
+
+<>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-30, from: Dave Winer's linkblog)
+
+Trump goes after Leonard Leo and the Federalist Society in fury over court ruling. 
+
+<br> 
+
+<https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-30, from: Dave Winer's linkblog)
+
+HBO&#39;s &#39;Mountainhead&#39; almost too believable to be funny. 
+
+<br> 
+
+<https://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2025/05/23/mountainhead-review/83750083007/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-30, from: Dave Winer's linkblog)
+
+The Trump Administration Wants to Create an ‘Office of Remigration.’ 
+
+<br> 
+
+<https://www.wired.com/story/trump-office-remigration-state-department-europe-far-right/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-29, from: Feed for Alt USDS)
+
+Look what we found!
+
+https://github.com/irs-public/direct-file 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lqds4nyrp22y>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+Trans Man Detained After Using Women’s Restroom in South Carolina. 
+
+<br> 
+
+<https://www.erininthemorning.com/p/trans-man-detained-after-using-womens>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-29, from: Dave Winer's linkblog)
+
+U.S. vets recoil at Trump plan to end Afghans’ deportation protection. 
+
+<br> 
+
+<https://wapo.st/43jo0oJ>
+
+---
+
+## SpamSieve 3.1.3
+
+date: 2025-05-29, from: Michael Tsai
+
+SpamSieve 3.1.3 improves the filtering accuracy of my Mac e-mail spam filter. It works with the new MailMaven e-mail client and includes enhancements for notification and server junk filters, along with various other fixes and improvements. Some interesting issues were: The Mail extension API is only supposed to send the extension messages to filter &#8220;when [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/29/spamsieve-3-1-3/>
+
+---
+
+## Apple Operating System Version Years
+
+date: 2025-05-29, from: Michael Tsai
+
+Mark Gurman (MacRumors, Hacker News, Slashdot): Apple will announce its biggest ever software rebrand at WWDC, tied to operating system redesigns. Apple is moving from version numbers to years (like Windows in the 90s). The new OSs: iOS 26, iPadOS 26, macOS 26, visionOS 26, tvOS 26, watchOS 26. Adam Engst: The &#xF8FF;OS 26 updates [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/29/apple-operating-system-version-years/>
+
+---
+
+## MacInTouch Paused
+
+date: 2025-05-29, from: Michael Tsai
+
+Ric Ford: Website traffic is overwhelmingly dominated now by &#8220;bots&#8221; executing sophisticated cyberattacks and sucking up every scrap of content; only a tiny fraction of our traffic comes from legitimate human visitors. Unfortunately, these rampant and rising abuses and attacks drive rising server costs, and there&#8217;s no practical way to stop them &#8212; they originate [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/05/29/macintouch-paused/>
 
 ---
 

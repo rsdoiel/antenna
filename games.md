@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-05-29 14:08:06
+updated: 2025-05-30 06:09:36
 ---
 
 # games
 
-(date: 2025-05-29 14:08:06)
+(date: 2025-05-30 06:09:36)
+
+---
+
+## 17 games to play after Elden Ring
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Elden Ring is massive and dense. It transplants FromSoftware’s tried-and-true design pillars of difficulty and experimentation into the sprawling Lands Between. And after 100-plus hours with FromSoftware’s magnum opus and its DLC Shadow of the Erdtree, you may be ready for something else. It might not be the multiplayer spin on the formula, Nightreign. So [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23005255/elden-ring-similar-dissimilar-games-kirby-tunic-skyrim-zelda>
+
+---
+
+## A beginner’s guide for FFXIV’s Occult Crescent
+
+date: 2025-05-29, updated: 2025-05-29, from: Polygon Website
+
+FFXIV: Dawntrail’s field operation is the Occult Crescent, a huge piece of content that dropped in patch 7.25 and should keep you busy for a while. This content is somewhat tied to the Dawntrail relic weapon (though you’ll be able to complete the weapon without necessarily partaking in the field op), and serves as a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips>
 
 ---
 
@@ -198,18 +222,6 @@ The Elden Ring Nightreign release time is, befitting the source material, way mo
 <br> 
 
 <https://www.polygon.com/elden-ring-nightreign-guides/601729/release-time-date-edt-pdt-bst>
-
----
-
-## A beginner’s guide for FFXIV’s Occult Crescent
-
-date: 2025-05-27, updated: 2025-05-27, from: Polygon Website
-
-FFXIV: Dawntrail’s field operation is the Occult Crescent, a huge piece of content that dropped in patch 7.25 and should keep you busy for a while. This content is somewhat tied to the Dawntrail relic weapon (though you’ll be able to complete the weapon without necessarily partaking in the field op), and serves as a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips>
 
 ---
 

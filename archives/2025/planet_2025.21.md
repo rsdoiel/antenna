@@ -1,11 +1,455 @@
 ---
 title: planet
-updated: 2025-05-29 14:08:02
+updated: 2025-05-30 06:09:31
 ---
 
 # planet
 
-(date: 2025-05-29 14:08:02)
+(date: 2025-05-30 06:09:31)
+
+---
+
+## 41,000 new homes this year 'very difficult' - Minister
+
+date: 2025-05-30, from: RTÉ News
+
+Minister for Housing James Browne has admitted a pre-general election Government promise to build 41,000 new homes this year is now "very, very difficult" and will be "an extreme climb to reach". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515946-housing-target-minister/>
+
+---
+
+## Watch: Adams speaks after winning case against BBC
+
+date: 2025-05-30, from: RTÉ News
+
+Former Sinn Féin leader Gerry Adams has won a defamation case against the BBC. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1515939-gerry-adams-bbc-court/>
+
+---
+
+## CELAM sends letter to Pope Leo, inviting him to visit
+
+date: 2025-05-30, from: Vatican News
+
+
+                    <p>Two days after Pope Leo XIV sent a telegram to the CELAM bishops, they share their commitment to his pontificate and call his election "a sign of hope.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-05/celam-sends-letter-to-pope-leo-inviting-him-to-visit.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-05/celam-sends-letter-to-pope-leo-inviting-him-to-visit.html>
+
+---
+
+## Adams' reputation scrutinised during BBC defamation case
+
+date: 2025-05-30, from: RTÉ News
+
+Former Sinn Féin leader Gerry Adams has won a defamation case against the BBC. Courts Reporter Vivienne Traynor takes a look back at the case. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1515915-gerry-adams-summary/>
+
+---
+
+## Jury heard contrasting evidence about Adams' reputation
+
+date: 2025-05-30, from: RTÉ News
+
+The jury in the Gerry Adams defamation case at the High Court heard dramatically differing evidence about the reputation of the former Sinn Féin leader. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1515923-gerry-adams-case-evidence/>
+
+---
+
+## 'Tina, come home': Satchwell courted media after murder
+
+date: 2025-05-30, from: RTÉ News
+
+Tina Satchwell could never have imagined the tight space under the stairs at her home at 3 Grattan Street in Youghal would be her final resting place. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0530/1515929-richard-satchwell-case-background/>
+
+---
+
+## Question remains over time it took to find Tina's body
+
+date: 2025-05-30, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0530/1515932-richard-satchwell-garda-investigation/>
+
+---
+
+## US boy clinches Spelling Bee win with 'éclaircissement'
+
+date: 2025-05-30, from: RTÉ News
+
+Faizan Zaki, a 13-year-old boy from the Dallas area, won the 97th Scripps National Spelling Bee, after missing out on the title and coming in second place last year. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0530/1515922-us-spelling-bee/>
+
+---
+
+## 21,000 domestic violence calls to gardaí so far this year
+
+date: 2025-05-30, from: RTÉ News
+
+Over 21,000 domestic violence calls were made to gardaí so far this year, according to garda figures, an increase on the same period last year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515906-domestic-violence/>
+
+---
+
+## Russell Brand pleads not guilty to rape, sexual assault
+
+date: 2025-05-30, from: RTÉ News
+
+British actor and comedian Russell Brand has pleaded not guilty in a London court to charges of rape and sexual assault relating to four women more than two decades ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1515892-russell-brand-court/>
+
+---
+
+## Adams awarded €100,000 in damages in BBC defamation case
+
+date: 2025-05-30, from: RTÉ News
+
+Former Sinn Féin leader Gerry Adams has been awarded €100,000 in damages after winning his defamation action against the BBC at the High Court. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1515841-gerry-adams-court/>
+
+---
+
+## Mozambique: Nampula celebrates 10 Years of the Laudato Si 
+
+date: 2025-05-30, from: Vatican News
+
+
+                    <p>The Archdiocese of Nampula, in northern Mozambique, is marking the 10th anniversary of the encyclical Laudato Si, released in 2015 by Pope Francis, with a series of activities aimed at raising awareness among the population about the urgency of caring for our Common Home, the planet Earth.  </p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-05/mozambique-nampula-celebrates-10-years-of-the-laudato-si.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-05/mozambique-nampula-celebrates-10-years-of-the-laudato-si.html>
+
+---
+
+## EU 'fully invested' in trade talks after US court ruling
+
+date: 2025-05-30, from: RTÉ News
+
+The EU is "fully invested" in reaching a deal with the United States to avoid sweeping tariffs, the bloc's trade chief said, after US judges ruled the controversial measures were unconstitutional. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0530/1515870-us-tariffs/>
+
+---
+
+## Pope Leo XIV: If you want peace, prepare institutions of peace
+
+date: 2025-05-30, from: Vatican News
+
+
+                    <p>Speaking with participants in last year’s Arena of Peace, Pope Leo says the Gospel and the Church’s social doctrine are a constant source of support for Christians, and a compass for everyone in efforts to build peace. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-if-you-want-peace-prepare-institutions-of-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-05/pope-leo-xiv-if-you-want-peace-prepare-institutions-of-peace.html>
+
+---
+
+## Gaza is the 'hungriest place on Earth', says UN aid chief
+
+date: 2025-05-30, from: RTÉ News
+
+Gaza is the "hungriest place on Earth right now", with people willing to do anything to get food for their children, UN aid chief Tom Fletcher has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515862-tom-fletcher-gaza/>
+
+---
+
+## Breeding white-tailed eagle dies from suspected poisoning
+
+date: 2025-05-30, from: RTÉ News
+
+An investigation is under way following the death of one of Ireland's oldest breeding white-tailed eagles. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0530/1515856-investigation-eagle-death/>
+
+---
+
+## Calls for TikTok accountability over 'SkinnyTok' trend
+
+date: 2025-05-30, from: RTÉ News
+
+The European Commission and Coimisiún na Meán have said they are aware of the issues linked to the trend known as 'SkinnyTok', and that protecting minors online was top priority. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515790-skinnytok-trend/>
+
+---
+
+## Universities seek to lure U.S.-bound students amid Trump crackdown
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547186.1748603967!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-commencement-harvard.JPG' alt='Graduating students in their cap and gown regalia sitting in rows outside during Harvard commencement, with one wearing a cap whose top side reads: Protect international students.' width='620' height='349' title='A graduating student wears their hat, decorated with a statement of support for international students, during the 374th Commencement exercises at Harvard University in Cambridge, Massachusetts, U.S., May 29, 2025.'/><p>Universities around the world are seeking to offer refuge for students impacted by U.S. President Donald Trump's crackdown on academic institutions, targeting top talent and a slice of the billions of dollars in academic revenue in the United States.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/universities-trump-crackdown-1.7547847?cmp=rss>
+
+---
+
+## Half the world faced extra month of extreme heat - study
+
+date: 2025-05-30, from: RTÉ News
+
+Half the global population endured an additional month of extreme heat over the past year because of man-made climate change, a new study has found. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515845-climate-change-report/>
+
+---
+
+## Fuel prices drop in May, says AA Ireland
+
+date: 2025-05-30, from: RTÉ News
+
+Petrol and diesel prices dipped in May following a prolonged period of stability, according to the latest AA Ireland Fuel Price Survey. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0530/1515848-aa-ireland-survey-shows-major-fuel-price-drop/>
+
+---
+
+## Without Musk, DOGE likely to fizzle out, says ex-employee
+
+date: 2025-05-30, from: RTÉ News
+
+Without billionaire Elon Musk in the Trump administration, his cost-cutting Department of Government Efficiency project is likely to "fizzle" out, a former DOGE employee has said. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0530/1515843-without-musk-doge-likely-to-fizzle-out-says-ex-staffer/>
+
+---
+
+## U.S. proposes 60-day ceasefire for Gaza and hostage-prisoner swap, plan shows
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7544852.1748361445!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-aid-foundation.JPG' alt='A crowd of Palestinians seen in Rafah.' width='620' height='349' title='Palestinians seeking aid gather near an aid distribution site run by the U.S.-backed Gaza Humanitarian Foundation, in Rafah, in the southern Gaza Strip, May 27, 2025. REUTERS/Hatem Khaled'/><p>A U.S. plan for Gaza proposes a 60-day ceasefire and the release of 28 Israeli hostages alive and dead in the first week, in exchange for the release of 1,236 Palestinian prisoners and the remains of 180 dead Palestinians.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-60-day-gaza-ceasefire-1.7547826?cmp=rss>
+
+---
+
+## Richard Satchwell found guilty of murdering wife Tina
+
+date: 2025-05-30, from: RTÉ News
+
+The jury has found Richard Satchwell guilty of murdering his wife Tina at their home in Youghal, Co Cork, in 2017. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0530/1515840-richard-satchwell-court/>
+
+---
+
+## Russell Brand pleads not guilty, with sexual assault trial scheduled for June 2026
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547864.1748599077!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-russell-brand.jpg' alt='A bearded man in sunglasses and a blazer, with brown hair to his shoulder, stands near a vehicle.' width='620' height='349' title='English comedian and actor Russell Brand arrives at Southwark Crown Court where he is charged with rape and sexual assault in London, Friday, May 30, 2025. '/><p>Actor and comedian Russell Brand pleaded not guilty in a London court Friday to rape and sexual assault charges involving four women dating back more than 25 years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/uk-brand-charges-plea-1.7547863?cmp=rss>
+
+---
+
+## Ukraine a 'test of credibility' for US, says Macron
+
+date: 2025-05-30, from: RTÉ News
+
+French President Emmanuel Macron has said that the United States faces a "credibility test" over its response to Russia dragging its feet on a Ukraine ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515826-ukraine/>
+
+---
+
+## Nearly 2,000 US military flights stopped over in Ireland
+
+date: 2025-05-30, from: RTÉ News
+
+Almost 2,000 US military aircraft and US civil flights, with declared munitions of war on board, stopped at Irish airports over the last three years. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515801-us-military-flights/>
+
+---
+
+## Why Shannon Airport is a key gateway for the US military
+
+date: 2025-05-30, from: RTÉ News
+
+Data obtained and analysed by RTÉ News shows that between 2022 and 2024, nearly two thousand US military aircrafts and US civil air operators with declared munitions of war on-board applied for exemptions to stop in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/clarity/2025/0530/1515792-why-shannon-airport-remains-a-key-gateway-for-us-military/>
+
+---
+
+## Mother 'shocked' over delay to anti-epilepsy drug inquiry
+
+date: 2025-05-30, from: RTÉ News
+
+The Minister for Health has been urged to commence a long-awaited inquiry into the historical prescribing of an anti-epilepsy drug to pregnant women. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0530/1515789-epilepsy-drug-inquiry/>
+
+---
+
+## 542 new homes to be built on St Teresa's Gardens site
+
+date: 2025-05-30, from: RTÉ News
+
+The construction of a long-awaited regeneration project at the former St Teresa's Gardens site in Dublin's south inner city, is being officially launched, with the first homes due to be completed by early 2027. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515781-st-teresas-gardens-dublin/>
+
+---
+
+## Hamas says it is reviewing US ceasefire plan for Gaza
+
+date: 2025-05-30, from: RTÉ News
+
+A US plan for Gaza proposes a 60-day ceasefire and the release of 28 Israeli hostages alive and dead in the first week and the release of 125 Palestinian prisoners sentenced to life and the remains of 180 dead Palestinians. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0530/1515822-israel-gaza/>
+
+---
+
+## U.S. tourism operators offer exclusive deals for Canadians to try to convince them to return
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7546914.1748606479!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/paul-dame-owner-of-bluff-point-golf-resort-in-plattsburgh-new-york.JPG' alt='Paul Dame at his golf course. ' width='620' height='349' title=' Paul Dame, owner of Bluff Point Golf Resort in Plattsburgh, New York, says business over the past two months has dropped by 30 per cent compare to the same time last year, mainly due to fewer Canadian customers.  '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/u-s-canadian-tourism-discounts-1.7546881?cmp=rss>
+
+---
+
+## Amid 51st state taunts, King's popularity in Canada grows
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547307.1748556296!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/throne-speech-20250527.JPG' alt='Prime Minister Mark Carney applauds King Charles after the King delivered speech from the throne in the Senate in Ottawa on Tuesday, May 27, 2025.' width='620' height='349' title='Prime Minister Mark Carney applauds King Charles after the King delivered speech from the throne in the Senate in Ottawa on Tuesday, May 27, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/king-charles-popularity-spikes-1.7547157?cmp=rss>
+
+---
+
+## Tánaiste briefed on peacekeepers incident in Lebanon
+
+date: 2025-05-30, from: RTÉ News
+
+Up to 30 shots were fired near a joint Irish-Lebanese unit by Israeli Defence Forces during an incident near the buffer zone blue line in south Lebanon, according to a briefing given to Tánaiste and Minister for Defence Simon Harris. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515812-unifil-lebanon/>
+
+---
+
+## The time when foreign invasions were impossible is over, former diplomats tell defence conference
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7547702.1748561019!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-usa.JPG' alt='Russian soldiers are seen from above.' width='620' height='349' title='FILE PHOTO: Russian soldiers, who were involved in the country&apos;s military campaign in Ukraine, march in columns during a parade on Victory Day, marking the 80th anniversary of the victory over Nazi Germany in World War Two, in Red Square in central Moscow, Russia, May 9, 2025. REUTERS/Anton Vaganov/File Photo'/><p>The post-Cold War era where nations didn’t have to worry about their sovereignty and territorial defence is over, a former NATO secretary general told the conference in Ottawa.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/cansec-nato-latvia-speeches-1.7547698?cmp=rss>
+
+---
+
+## Record numbers vote in South Korean presidential election
+
+date: 2025-05-30, from: RTÉ News
+
+South Koreans lined up in record numbers to vote for a new president, joining lengthy queues to vote early in a poll triggered by the ex-leader's disastrous martial law declaration. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0530/1515821-south-korea/>
+
+---
+
+## Man in court in connection with Liverpool car attack
+
+date: 2025-05-30, from: RTÉ News
+
+The man accused of being the driver that ploughed into crowds at the Liverpool FC victory parade, leaving 79 people injured, has appeared in court. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0530/1515818-paul-doyle-liverpool-court/>
 
 ---
 
@@ -18,6 +462,18 @@ The Data Protection Commission has moved to new headquarters in Dublin which wil
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0529/1515793-data-protection-commission-hq/>
+
+---
+
+## O'Meara in a New York state of mind for Meagher decider
+
+date: 2025-05-29, from: RTÉ News
+
+They have a saying in the US military, 'no man left behind', and the New York hurlers do their best to live by a similar creed. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0529/1515788-omeara-in-a-new-york-state-of-mind-for-meagher-decider/>
 
 ---
 
@@ -57,11 +513,11 @@ The alleged driver of a car that ploughed into a crowd at Liverpool's victory pa
 
 ---
 
-## Tánaiste to contact Israel after Irish troops fired upon
+## UNIFIL to convey Irish Govt anger to Israel over shooting
 
 date: 2025-05-29, from: RTÉ News
 
-Tánaiste Simon Harris is to contact the Israeli government over what he termed as an "utterly inappropriate, utterly unacceptable" attack on Irish peacekeeping troops in southern Lebanon. 
+The Force Commander of the UN Interim Force in Lebanon (UNIFIL) is expected to convey the Government's anger and concern at the shooting incident involving Irish peacekeepers directly to the Israel Defence Forces. 
 
 <br> 
 
@@ -393,15 +849,27 @@ Desperate hunger drove crowds of people to overrun a World Food Programme (WFP) 
 
 ---
 
-## UN honours service and sacrifice of its peacekeepers
+## UN honours peacekeepers' service and sacrifice
 
 date: 2025-05-29, from: United Nations, UN Affairs
 
-The United Nations is honouring staff serving at its field missions through several events to mark the International Day of UN Peacekeepers on Thursday.&nbsp; 
+The United Nations honoured staff serving at its field missions through several events to mark the International Day of UN Peacekeepers on Thursday.&nbsp; 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/05/1163821>
+
+---
+
+## Ukraine: Hopes for peace on life support, Security Council hears
+
+date: 2025-05-29, from: United Nations, Top Stories
+
+A glimmer of hope for peace in Ukraine has been overshadowed by a devastating new wave of Russian attacks, UN officials told the Security Council on Thursday, warning of soaring civilian casualties and a worsening humanitarian crisis that could derail a diplomatic end to the war. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/05/1163856>
 
 ---
 
@@ -441,6 +909,18 @@ There has been an 80% increase in incidents of disruptive passenger behaviour re
 
 ---
 
+## Preview: Irish promotion hopes on the line in Istanbul
+
+date: 2025-05-29, from: RTÉ News
+
+The Republic of Ireland are in Istanbul for an important Nations League match against Turkey this evening. Victory is essential if they're to keep alive hopes of gaining automatic promotion back to League A. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0529/1515653-preview-irish-promotion-hopes-on-the-line-in-istanbul/>
+
+---
+
 ## 'Wrench attacks' subject some cryptocurrency holders to violence, kidnapping
 
 date: 2025-05-29, from: CBC, World News
@@ -462,6 +942,18 @@ date: 2025-05-29, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/manitoba/wildfire-evacuations-pimicikimak-cree-nation-manitoba-1.7546711?cmp=rss>
+
+---
+
+## Pimicikamak Cree Nation trying to get 767 people out of northern Manitoba community as wildfire closes in
+
+date: 2025-05-29, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7543396.1748561922!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/wildfires-near-pimicikamak-cree-nation-may-2025.jpeg' alt='A plume of smoke billows from behind a building in Pimicikamak Cree Nation.' width='620' height='349' title='A photo sent by Pimicikamak Cree Nation Coun. Shirley Robinson on May 25, 2025, shows a plume of smoke billowing from an out-of-control wildfire in the northern Manitoba community, forcing the evacuation of hundreds.'/><p>A wildfire is at the threshhold of Pimicikamak Cree Nation, choking the air with smoke, as the northern Manitoba community's leaders work to get 767 people out.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/wildfire-evacuations-pimicikamak-cree-nation-manitoba-1.7546711?cmp=rss>
 
 ---
 
@@ -697,6 +1189,18 @@ A senior figure in the Kinahan Organised Crime Group, who was extradited to Irel
 
 ---
 
+## McGovern charged with murder after extradition from UAE
+
+date: 2025-05-29, from: RTÉ News
+
+A senior figure in the Kinahan Organised Crime Group, who was extradited to Ireland from the United Arab Emirates, has been charged with murder at a special sitting of the Special Criminal Court. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0529/1515567-sean-mcgovern/>
+
+---
+
 ## Which tariffs did a US court block
 
 date: 2025-05-29, from: RTÉ News
@@ -821,6 +1325,18 @@ date: 2025-05-29, from: CBC, World News
 
 ---
 
+## It's time to act on foreign interference, say opposition MPs
+
+date: 2025-05-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6831004.1683135832!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/michael-chong-20230503.jpg' alt='Conservative member of Parliament Michael Chong speaks to reporters on Parliament Hill in Ottawa on Wednesday, May 3, 2023. ' width='620' height='349' title='Conservative member of Parliament Michael Chong speaks to reporters on Parliament Hill in Ottawa on Wednesday, May 3, 2023. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/foreign-interference-opposition-registry-1.7547650?cmp=rss>
+
+---
+
 ## White House thanks Musk as he leaves administration role
 
 date: 2025-05-29, from: RTÉ News
@@ -861,7 +1377,7 @@ Disclosures of sexual violence to the Dublin Rape Crisis Centre last year reache
 
 date: 2025-05-29, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7546723.1748521236!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/weyakwin-fire.jpg' alt='a man points as trees go up in flames.' width='620' height='349' title='Weyakwin, a hamlet 140 kilometres north of Prince Albert, issued an evacuation order late on Wednesday as a wildfire threatened the community.'/><p>The Saskatchewan government has declared a provincewide state of emergency, as wildfires raging across the northern part of the province continue to drive thousands from their homes.</p> 
+<img src='https://i.cbc.ca/1.7547679.1748558870!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/besnard-lake-fire.jpg' alt='A fire burns next to a lake.' width='620' height='349' title='A wildfire burns Wednesday at Besnard Lake in Saskatchewan.'/><p>The Saskatchewan government has declared a provincewide state of emergency, as wildfires raging across the northern part of the province continue to drive thousands from their homes.</p> 
 
 <br> 
 
@@ -2309,7 +2825,7 @@ As a controversial United States and Israel-backed aid distribution plan gets un
 
 ## Sanctions relief for Syria offers ‘powerful message of hope,’ says UN migration agency
 
-date: 2025-05-27, from: United Nations, Economic Development
+date: 2025-05-27, from: United Nations, Top Stories
 
 The UN International Organization for Migration (IOM) has welcomed recent decisions by the United States, the United Kingdom and the European Union to ease sanctions against Syria. 
 

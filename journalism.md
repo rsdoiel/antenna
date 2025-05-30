@@ -1,11 +1,52 @@
 ---
 title: journalism
-updated: 2025-05-29 14:08:06
+updated: 2025-05-30 06:09:36
 ---
 
 # journalism
 
-(date: 2025-05-29 14:08:06)
+(date: 2025-05-30 06:09:36)
+
+---
+
+## ASO hosts graduation cap decorating
+
+date: 2025-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College Associated Student Organization (ASO) hosted its annual Grad Fest in the Student Engagement Center on Thursday, May 22, to create a one-stop shop</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/29/aso-hosts-graduation-cap-decorating/">ASO hosts graduation cap decorating</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/29/aso-hosts-graduation-cap-decorating/?utm_source=rss&utm_medium=rss&utm_campaign=aso-hosts-graduation-cap-decorating>
+
+---
+
+## Music Department organizes showcase for student performers
+
+date: 2025-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College&#8217;s Music Department organized a musical showcase concert, and the students participated to highlight their singing skills on Saturday, May 29, in the Music</p>
+<p>The post <a href="https://theroundupnews.com/2025/05/29/music-department-organizes-showcase-for-student-performers/">Music Department organizes showcase for student performers</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/05/29/music-department-organizes-showcase-for-student-performers/?utm_source=rss&utm_medium=rss&utm_campaign=music-department-organizes-showcase-for-student-performers>
+
+---
+
+## UCLA researchers develop drug to counteract effects of Alzheimer’s disease, stroke
+
+date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA researchers have developed a drug that counteracts the impaired cognition caused by Alzheimer&#8217;s disease and reestablishes brain connections following strokes in mice.
+The team began searching around six years ago for a molecule that would induce gamma oscillations &#8211; natural brain waves that are involved in memory, said Varghese John, the director of the Drug Discovery Laboratory at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/05/29/ucla-researchers-develop-drug-to-counteract-effects-of-alzheimers-disease-stroke/>
 
 ---
 
@@ -38,9 +79,8 @@ The North Westwood Neighborhood Council requested a budget increase from the cit
 
 date: 2025-05-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 29 at 11:31 a.m.</em>
-Editor’s note: The following piece contains mentions of persecution, which could be disturbing to some readers.
-Most students don’t uncover a classified list of alleged war criminals in their undergraduate research cohort. 
+<em>This post was updated May 29 at 3:47 p.m.</em>
+Editor’s note: The following piece contains mentions of persecution, which could be disturbing to some r<em>eaders.</em> 
 
 <br> 
 

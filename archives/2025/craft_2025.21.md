@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-05-29 14:08:09
+updated: 2025-05-30 06:09:39
 ---
 
 # craft
 
-(date: 2025-05-29 14:08:09)
+(date: 2025-05-30 06:09:39)
+
+---
+
+## Mind Upon Mind: A Method for Accurately Drilling Compound Angles
+
+date: 2025-05-30, from: Lost Arg Press blog
+
+Editor’s note: Our Mind Upon Mind series is a nod to a 1937 Chips from the Chisel column (also featured in “Honest Labour: The Charles H. Hayward Years”), in which Hayward wrote, “The influence of mind upon mind is extraordinary.” The idea being there’s often room for improvement. (You can read the entire Chips from... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/30/mind-upon-mind-a-method-for-accurately-drilling-compound-angles/>
 
 ---
 

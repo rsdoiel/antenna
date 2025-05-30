@@ -1,11 +1,67 @@
 ---
 title: going electric
-updated: 2025-05-29 14:08:08
+updated: 2025-05-30 06:09:38
 ---
 
 # going electric
 
-(date: 2025-05-29 14:08:08)
+(date: 2025-05-30 06:09:38)
+
+---
+
+## Rivian Joins Ionna To Bring Seamless Charging To R1S And R1T Owners
+
+date: 2025-05-30, from: Inside EVs News
+
+Despite supporting a new DC fast charging network, Rivian won’t abandon its own charging operation. 
+
+<br> 
+
+<https://insideevs.com/news/761224/rivian-ionna-partnership-plug-and-charge/>
+
+---
+
+## Elon Musk is starting to realize Trump and GOP are killing Tesla
+
+date: 2025-05-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Elon-Musk-Tesla-Money-hero.png?w=1600" /></div><p>Elon Musk is starting to realize, or at least admit, that Trump and the GOP are going to hurt Tesla greatly by removing battery and solar incentives without removing incentives for fossil fuels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="418283" href="https://electrek.co/2025/05/30/elon-musk-starting-realize-trump-gop-killing-tesla/#more-418283" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/30/elon-musk-starting-realize-trump-gop-killing-tesla/>
+
+---
+
+## The Kia EV4 Will Be Made In Korea, Exposing It To U.S. Tariffs
+
+date: 2025-05-29, from: Inside EVs News
+
+Kia confirmed to InsideEVs that U.S.-market EV4s won't be built in America. That's going to be a problem. 
+
+<br> 
+
+<https://insideevs.com/news/761165/kia-ev4-tariff-impact/>
+
+---
+
+## Genesis GV90 spotted in the US, offering a sneak peek at its ultra-luxe interior
+
+date: 2025-05-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Genesis-GV90-ultra-luxury-SUV-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The GV90 is set to raise the bar as the most luxurious <a href="https://electrek.co/guides/genesis/">Genesis</a> SUV. If you thought the GV80 was impressive, wait until you see this larger, three-row electric flagship. After it was recently spotted in the US, we are getting our first glimpse of the ultra-luxe Genesis GV90’s interior.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="418267" href="https://electrek.co/2025/05/29/genesis-gv90-spotted-offering-sneak-peek-ultra-luxe-interior/#more-418267" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/05/29/genesis-gv90-spotted-offering-sneak-peek-ultra-luxe-interior/>
 
 ---
 

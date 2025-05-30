@@ -1,11 +1,264 @@
 ---
 title: columns
-updated: 2025-05-29 14:08:05
+updated: 2025-05-30 06:09:35
 ---
 
 # columns
 
-(date: 2025-05-29 14:08:05)
+(date: 2025-05-30 06:09:35)
+
+---
+
+## Why Take9 Won’t Improve Cybersecurity
+
+date: 2025-05-30, updated: 2025-05-29, from: Bruce Schneier blog
+
+<p>There&#8217;s a new cybersecurity awareness campaign: Take9. The idea is that people&#8212;you, me, everyone&#8212;should just pause for nine seconds and think more about the link they are planning to click on, the file they are planning to download, or whatever it is they are planning to share.</p>
+<p>There&#8217;s a <a href="https://pausetake9.org/">website</a>&#8212;of course&#8212;and a <a href="https://www.youtube.com/watch?v=GlmplblxsGM">video</a>, well-produced and scary. But the campaign won&#8217;t do much to improve cybersecurity. The advice isn&#8217;t reasonable, it won&#8217;t make either individuals or nations appreciably safer, and it deflects blame from the real causes of our cyberspace insecurities...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html>
+
+---
+
+## The Tragic History of Neoliberalism
+
+date: 2025-05-30, from: Robert Reich's blog
+
+Don&#8217;t buy revisionist attempts to rehabilitate it. Instead, push for a bold progressive populism. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-tragic-history-of-neoliberalism>
+
+---
+
+## May 29, 2025
+
+date: 2025-05-30, from: Heather Cox Richardson blog
+
+I&#8217;m home tonight, after a long time away, and am just too tired to make sense of today&#8217;s news. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-29-2025>
+
+---
+
+## The Talk Show Live From WWDC 2025: Tuesday June 10
+
+date: 2025-05-30, updated: 2025-05-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2025>
+
+---
+
+## The Talk Show: ‘Sewing Machine Repair Shop’
+
+date: 2025-05-30, updated: 2025-05-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/05/29/ep-423>
+
+---
+
+## The Fifth Estate
+
+date: 2025-05-30, from: Dave Rupert blog
+
+<p><a href="https://amzn.to/42NSD5n">Careless People</a> is a tell-all book that walks through Facebook’s rampant (and criminally?) inept responses to it’s growing role in global policy, from <a href="https://erinkissane.com/meta-in-myanmar-part-i-the-setup">it’s role in the Rohingya genocide in Myanmar</a> to the election of Donald J. Trump. The book, written by Facebook’s former director of foreign policy Sarah Wynn-Williams, explains that Zuckerberg initially denied the notion that Facebook could ever impact an election but over time starts to see Facebook and social media as a powerful “Digital Fifth Estate”.</p>
+<p>The three-estate system used to refer to the Clergy, the Nobles, and the Commoners. In modern times, the three-estate system describes the legislative, executive, and judicial branches of government. Then there’s the newly minted (<em>ahem</em>, circa <a href="https://en.wikipedia.org/wiki/Fourth_Estate">1840</a>) Fourth Estate comprised of good ol’ fashioned journalism and newspapers. The Fourth Estate applies pressure on the other estates through shining a spotlight on important or unaddressed issues. Another form of checks and balances. I would lump academia into the Fourth Estate as well. And so does Wikipedia. So. I’m right because an online wiki said so.</p>
+<p>Speaking of online wikis, what does a “Digital Fifth Estate” look like?</p>
+<blockquote>
+<p>A <a href="https://en.wikipedia.org/wiki/Fifth_Estate">Fifth Estate</a>, while not recognized in the same way as the first four, includes bloggers, social media influencers, and other online platforms that can influence public discourse and politics independently of traditional media.</p>
+</blockquote>
+<p>I’ve read about the influence of the “man-o-sphere” and MSNBC is tying itself in knots trying to find “the Joe Rogan of the Left” and I can’t help but roll my eyes. No doubt the Left needs to consider issues facing men more, but the Zune had better luck with a product clone. With the framing of the Fifth Estate though, I understand the desire better. <a href="https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx">Most people have lost trust in the Fourth Estate</a> and the Fifth Estate explains to me why podcasters, YouTube influencers, and newsletter goblins have so much political sway these days (certainly during the last election) and why news organizations and academic scientists don’t anymore.</p>
+<p>Estates are for sale. Billionaires also own major portions of the First, Second, and Third Estates through gifts, bribes, and threat of primaries. Billionaires like the Murdochs and Bezos (RIP <em>The Washington Post</em>) and media conglomerates own major portions of the Fourth Estate. “Mainstream media” has become an effective slur, even when there’s no true meaning behind it. And in places where the Fourth Estate isn’t for sale, you slap them with a lawsuit.</p>
+<p>We commoners have lost trust in the Estates, like we lost trust in the Clergy and Nobles in the before times. The Fifth Estate is why “flood the zone with shit” is an effective tactic. We’re not making informed decisions based on answers from educated individuals. We’re making decisions based on vibes and standup comics who host pay-per-view fight clubs. We’re eating Tide Pods to get the toxins out. We’re getting our news from a guy in a car with a backwards hat and sunglasses. We ask fancy autocomplete for answers to our personal problems, to do our work, to write our eulogies.</p>
+<p>This shift isn’t lost on the wealthy, billionaires like Musk and Zuckerberg own major portions of the Fifth Estate. They also own the AI. They create bots to keep us engaged on their apps. Why? Because our attention powers their products. They’ve captured and commoditized our attention to auction our eyeballs to advertisers. The flip-side of this system forced on us is that we know our attention has value. If you want two good books on the intersection of attention and billionaires, I recommend Chris Hayes’ book <a href="https://amzn.to/3YEqwTD">The Sirens’ Call</a> followed up by his other book <a href="https://amzn.to/4jCvpon">Twilight of the Elites</a>.</p>
+<p>The concept of a digital Fifth Estate is profound to me because it appears effective and it’s the one where I have the most choice. My singular vote pales in comparison to the influence of a well-funded Super PAC. I don’t get to choose who owns my local newspaper or the board of the university. I don’t have a legal team to undo Citizens United. But I do get to choose where I give my time and attention.</p>
+<p>Where I find hope, if the Fifth Estate is powerful enough to hoodwink our fellow citizens into authoritarianism, then we –you and me– can seize power from the already powerful. We can give power –our attention– to the trustworthy. We can eradicate the “rich ergo good” fallacy. And the cost of “going indie” in the Fifth Estate is lower than it has ever been right now with a sizable exodus to Mastodon and Bluesky. Sure, all your favorite nazis and Russian botnets might be harder to find on the alternatives, but think about it as an investment in a world that isn’t owned by wealthy people already.</p>
+<p>I don’t have the capital to start my own Fourth Estate university or newspaper. But I do have this blog. A minor stake in the Fifth Estate. But my blog plus your blog, mix in some RSS and the power of sharing interesting blogs and podcasts… we might make a dent.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/05/the-fifth-estate/>
+
+---
+
+## Friday 30 May, 2025
+
+date: 2025-05-29, from: John Naughton's online diary
+
+Memorial Day Monday was Memorial Day, which is always marked by a moving ceremony at the American Cemetery in Madingley, near Cambridge. The ceremony is about remembering the thousands of soldiers, sailors and airmen who are buried or memorialised here, &#8230; <a href="https://memex.naughtons.org/friday-30-may-2025/40876/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-30-may-2025/40876/>
+
+---
+
+## The Gerontocracy Problem
+
+date: 2025-05-29, from: Robert Reich's blog
+
+A recording from Robert Reich and V Spehar&#8217;s live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164746497/7c6c9b28099a0f9668b50928ca0c459d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164746497/7c6c9b28099a0f9668b50928ca0c459d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-gerontocracy-problem>
+
+---
+
+## 2025-05-30 Fighting against the news
+
+date: 2025-05-29, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-30-fighting-against-the-news">2025-05-30 Fighting against the news</h1>
+
+<p>The news is dragging me down. Israel and the genocide in Palestine; the invasion of Russia into Ukraine; the government in Germany; the government in the USA … ugh!</p>
+
+<p>The world is so terrible that I&rsquo;m lacking words now that I&rsquo;m back from the holidays and have more time to read it. Somehow I also feel that it&rsquo;s not OK to just post about random stuff at a place where I see too much stuff that&rsquo;s upsetting me. I can&rsquo;t counteract the terror of reading about the state of the world by posting about the flowers I see when I go for a walk. Instead, I&rsquo;d better go for another walk, I think.</p>
+
+<p><a class="account" href="https://chaos.social/@frauxirah" title="@frauxirah@chaos.social">@frauxirah</a> <a class="account" href="https://masto.hackers.town/@randomgeek" title="@randomgeek@masto.hackers.town">@randomgeek</a> and <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> reminded me that there is an important part about going for walks and maybe taking pictures of flowers, though: to bring back joy. So I brought back some pictures. And then I spent some time with music instruments, making a drum pattern, adding some stuff. It’s not great but it drove away the sadness.</p>
+
+<p>So here’s to life. 😄</p>
+
+<p>Maybe next time I should take pictures of my surroundings, too.</p>
+
+<p>Balkan-Storchschnabel<br>
+Geranium macrorrhizum</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-1.jpg" alt="" /></p>
+
+<p>Luzerne<br>
+Medicago sativa</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-2.jpg" alt="" /></p>
+
+<p>Kartäuser-Nelke (Artengruppe)<br>
+Dianthus carthusianorum agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-3.jpg" alt="" /></p>
+
+<p>Mausohr-Habichtskräuter<br>
+Pilosella</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-4.jpg" alt="" /></p>
+
+<p>Borretsch<br>
+Borago officinalis</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-5.jpg" alt="" /></p>
+
+<p>Gewöhnlicher Beinwell (Artengruppe)<br>
+Symphytum officinale agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-6.jpg" alt="" /></p>
+
+<p>Wiesen-Margerite (Artengruppe)<br>
+Leucanthemum vulgare agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-7.jpg" alt="" /></p>
+
+<p>Fuchsschwanz-Klee<br>
+Trifolium rubens</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-8.jpg" alt="" /></p>
+
+<p>Rote Johannisbeere<br>
+Ribes rubrum agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-9.jpg" alt="" /></p>
+
+<p>Flora Incognita could not quite determine the exact species.</p>
+
+<p>Besen-Felsenbirne<br>
+Amelanchier humilis</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-10.jpg" alt="" /></p>
+
+<p>Himbeere<br>
+Rubus idaeus</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-11.jpg" alt="" /></p>
+
+<p>Blüten-Hartriegel<br>
+Cornus florida</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-12.jpg" alt="" /></p>
+
+<p>Punktierter Gilbweiderich<br>
+Lysimachia punctata</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-13.jpg" alt="" /></p>
+
+<p>Plant identification by Flora Incognita.</p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-29-flowers>
+
+---
+
+## See Ya!
+
+date: 2025-05-29, from: Dan Rather's Steady
+
+And don&#8217;t let the door hit you on your way out 
+
+<br> 
+
+<https://steady.substack.com/p/see-ya>
+
+---
+
+##  ESA&#8217;s Proba-3 is planning on creating an artificial eclipse to study the... 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046950-esas-proba-3-is-planning->
+
+---
+
+##  Caine&#8217;s Arcade 
+
+date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/caines-arcade-1>
+
+---
+
+## Friday Squid Blogging: NGC 1068 Is the “Squid Galaxy”
+
+date: 2025-05-29, updated: 2025-05-29, from: Bruce Schneier blog
+
+<p>I hadn&#8217;t known that the NGC 1068  galaxy is nicknamed the &#8220;Squid Galaxy.&#8221; It is, and it&#8217;s <a href="https://scitechdaily.com/the-squid-galaxys-black-hole-just-unleashed-a-neutrino-storm-without-the-light/">spewing neutrinos</a> without the usual accompanying gamma rays.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-ngc-1068-is-the-squid-galaxy.html>
 
 ---
 
@@ -517,7 +770,7 @@ date: 2025-05-29, updated: 2025-05-29, from: Daring Fireball
 
 date: 2025-05-29, from: Doc Searls (at Harvard), New Old Blog
 
-Wipe House. Nieman Lab: No more transcripts of Trump remarks on the White House website (and the old ones are gone, too). In case you weren&#39;t wondering. Jeffrey Epstein really did kill himself. For the reading list. Olaf Stapleton: Last And First Men. It&#39;s not simple. Lessig: Marshall on the (Maximalist) Unitary Executive Theory. 
+Here&#39;s how to save what&#39;s left. Newsweek: CVS is closing 277 stores. Wipe House. Nieman Lab: No more transcripts of Trump remarks on the White House website (and the old ones are gone, too). In case you weren&#39;t wondering. Jeffrey Epstein really did kill himself. For the reading list. Olaf Stapleton: Last And First Men. It&#39;s [&#8230;] 
 
 <br> 
 
@@ -632,7 +885,7 @@ float btc = 4,200,000.0; // Initial HODL-ing<br />
 float factor = 1.6; // Market Cap inflator<br />
 float fraction = 1.0; // % Market Cap to use as collateral<br />
 float over = 200; // % Over-collateralization<br />
-while (true) {<br />
+while (factor > 1.0) {<br />
 &nbsp;&nbsp;&nbsp;&nbsp;float price = btc_price();<br />
 &nbsp;&nbsp;&nbsp;&nbsp;float pre_mkt_cap = btc * price * factor;<br />
 &nbsp;&nbsp;&nbsp;&nbsp;float cash = borrow((pre_mkt_cap * fraction) / over);<br />

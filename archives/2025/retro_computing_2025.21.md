@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-05-29 14:08:08
+updated: 2025-05-30 06:09:38
 ---
 
 # retro computing
 
-(date: 2025-05-29 14:08:08)
+(date: 2025-05-30 06:09:38)
+
+---
+
+## May 2025 News Summary
+
+date: 2025-05-30, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2202.html>
 
 ---
 

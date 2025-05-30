@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-05-29 14:08:07
+updated: 2025-05-30 06:09:37
 ---
 
 # motorcycles
 
-(date: 2025-05-29 14:08:07)
+(date: 2025-05-30 06:09:37)
+
+---
+
+## US Tells Pirelli to Stop Outfitting Data-Collecting Tires, Chinese Investors Won’t Back Down
+
+date: 2025-05-30, from: Ride Apart, Electric Motorcycle News
+
+The inner circle of Pirelli must be a total mess right now. 
+
+<br> 
+
+<https://www.rideapart.com/news/761034/us-threathens-pirelli-data-collection/>
+
+---
+
+## onX Introduces a Cool Off-Road Camping Feature
+
+date: 2025-05-30, from: Ride Apart, Electric Motorcycle News
+
+Well, that'll make camping in the backcountry all the easier.  
+
+<br> 
+
+<https://www.rideapart.com/news/761135/onx-off-road-dispersed-camping-feature-update/>
+
+---
+
+## Death Valley National Park Advises Motorcyclists To Avoid It, Says It's Way Too Hot
+
+date: 2025-05-30, from: Ride Apart, Electric Motorcycle News
+
+But if you're going to go, there's something you can do to help. 
+
+<br> 
+
+<https://www.rideapart.com/news/760883/motorcyclists-avoid-death-valley-national-advise/>
+
+---
+
+## Despite Being Saved From Bankruptcy, KTM Is Still Likely Quitting MotoGP
+
+date: 2025-05-30, from: Ride Apart, Electric Motorcycle News
+
+The roadmap to fixing KTM hasn't changed, says its insolvency managers, specifying its exit from MotoGP.  
+
+<br> 
+
+<https://www.rideapart.com/news/761139/motogp-ktm-bajaj-insolvency-quitting-akv/>
+
+---
+
+## Could Yamaha’s Battery Swapping Tech Propel E-Bikes Into the Mainstream?
+
+date: 2025-05-30, from: Ride Apart, Electric Motorcycle News
+
+Perhaps more importantly, could it pave the way for Yamaha’s comeback in the US e-bike market? 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/761056/enyring-yamaha-ebike-swapping-technology-europe/>
 
 ---
 

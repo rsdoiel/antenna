@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-05-29 14:08:07
+updated: 2025-05-30 06:09:36
 ---
 
 # libraries
 
-(date: 2025-05-29 14:08:07)
+(date: 2025-05-30 06:09:36)
+
+---
+
+## Greetings from SSP 2025 in Baltimore
+
+date: 2025-05-30, from: Scholarly Kitchen
+
+<p>Some thoughts midway through the SSP 2025 Annual Meeting.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/30/greetings-from-ssp-2025-in-baltimore/">Greetings from SSP 2025 in Baltimore</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/30/greetings-from-ssp-2025-in-baltimore/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-05-29 14:08:07
 
 date: 2025-05-29, from: Association of Research Libraries News
 
-<p>Last Updated on May 29, 2025, 4:29 pm ET The Association of Research Libraries (ARL) convened in Minneapolis, Minnesota, at the end of April. Attended by the member representatives of...</p>
+<p>Last Updated on May 29, 2025, 6:06 pm ET The Association of Research Libraries (ARL) convened in Minneapolis, Minnesota, at the end of April. Attended by the member representatives of...</p>
 <p>The post <a href="https://www.arl.org/blog/seven-takeaways-from-the-spring-2025-meeting-of-the-association-of-research-libraries/">Seven Takeaways from the Spring 2025 Meeting of the Association of Research Libraries</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-05-29 14:08:03
+updated: 2025-05-30 06:09:32
 ---
 
 # north america
 
-(date: 2025-05-29 14:08:03)
+(date: 2025-05-30 06:09:32)
+
+---
+
+## Undaunted: NPR 
+
+date: 2025-05-30, from: The Contrarian
+
+"When we see [our] rights infringed upon, we have an obligation to challenge them..." 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-npr>
+
+---
+
+## Ambulance Chaser: Can Gov. Newsom Siphon Off Medi-Cal Funding to Balance Budget?
+
+date: 2025-05-30, from: Capital and Main
+
+<p>Proposition 35 was meant to attract doctors to care for low-income Californians. Instead, it’s looking like a cash cow for Sacramento.</p>
+<p>The post <a href="https://capitalandmain.com/ambulance-chaser-can-gov-newsom-siphon-off-medi-cal-funding-to-balance-budget">Ambulance Chaser: Can Gov. Newsom Siphon Off Medi-Cal Funding to Balance Budget?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/ambulance-chaser-can-gov-newsom-siphon-off-medi-cal-funding-to-balance-budget>
+
+---
+
+## Evening Roundup, May 29
+
+date: 2025-05-30, from: The Contrarian
+
+Featuring our 1,000th Post; "The Tea with April Ryan," featuring Rep. Jasmine Crockett & Pastor Jamal Bryant; Olivia Julianna; Michael Franklin; Michael de Adder; Meredith Blake; & Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-29>
+
+---
+
+## The Tea with April Ryan, ft. Rep. Jasmine Crockett and Pastor Jamal Bryant
+
+date: 2025-05-29, from: The Contrarian
+
+A recording from The Contrarian's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164757599/cabb2c6fb21918ac1584c8b8b95c6ebc.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164757599/cabb2c6fb21918ac1584c8b8b95c6ebc.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-with-april-ryan-ft-rep-jasmine>
+
+---
+
+## The Chrisleys played Trump like a fiddle
+
+date: 2025-05-29, from: The Contrarian
+
+The reality TV stars shamelessly sucked up to the president--and got a pardon in return 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-chrisleys-played-trump-like-a>
 
 ---
 
