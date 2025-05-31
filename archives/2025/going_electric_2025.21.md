@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-05-31 06:07:52
+updated: 2025-05-31 14:08:10
 ---
 
 # going electric
 
-(date: 2025-05-31 06:07:52)
+(date: 2025-05-31 14:08:10)
 
 ---
 
@@ -42,6 +42,10 @@ I visited a Tesla charger in a Chevy EV and learned the benefits—and pitfalls�
 date: 2025-05-30, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the new Tesla Model S/X “refresh”, robotaxi service is coming, a new EV price war in China, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Electrek_387.mp3"></audio></figure>
 
 
 

@@ -1,11 +1,11 @@
 ---
 title: planet
-updated: 2025-05-31 06:07:44
+updated: 2025-05-31 14:07:59
 ---
 
 # planet
 
-(date: 2025-05-31 06:07:44)
+(date: 2025-05-31 14:07:59)
 
 ---
 
@@ -30,6 +30,18 @@ A teenager was arrested and a garda investigation is under way after an incident
 <br> 
 
 <https://www.rte.ie/news/regional/2025/0530/1516038-dublin-incident/>
+
+---
+
+## Alaska man survives being pinned face-down in a glacier creek by a massive boulder for 3 hours
+
+date: 2025-05-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7548991.1748650523!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alaska-trapped-by-boulder.jpg' alt='Two smiling people take a selfie outdoors.' width='620' height='349' title='This June 4, 2023, photo shows Kell Morris, left, and his wife Jo Roop, in Sandpoint, Idaho.'/><p>An Alaska man who was pinned face-down in an icy creek by a 318-kilogram boulder for three hours survived the ordeal with no major injuries, thanks in part to his wife's quick thinking and lots of luck.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/alaska-man-survives-being-pinned-face-down-in-a-glacier-creek-by-a-massive-boulder-for-three-hours-1.7548987?cmp=rss>
 
 ---
 
@@ -114,6 +126,18 @@ The suspect in the Michael Gaine murder case has denied having any involvement i
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0530/1516019-michael-kelly/>
+
+---
+
+## Some First Nations worry Carney's major projects bill will only lead to more conflict
+
+date: 2025-05-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7548720.1748642886!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/fcm-carney-20250530.jpg' alt='A man in a suit stands at a podium. ' width='620' height='349' title='Prime Minister Mark Carney speaks at the Federation of Canadian Municipalities conference, in Ottawa, Friday, May 30, 2025. '/><p>Some First Nations are raising concerns about the federal government's plan to provide up-front approvals for major projects, with one grand chief calling it a "fool's errand."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/first-nations-carney-major-projects-1.7548709?cmp=rss>
 
 ---
 
@@ -213,6 +237,18 @@ Taylor Swift has revealed that she's been "bursting into tears of joy" as she an
 
 ---
 
+## Coming home: Elders return to Nunavut for care after years of living in the south
+
+date: 2025-05-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7548540.1748631451!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eric-anoee-jr-and-bernard.jpg' alt='Two men sit beside each other on leather couches ' width='620' height='349' title='Eric Anoee Jr. (left) and his brother Bernard, who has lived at a seniors&apos; living facility in Ottawa for the last three years. Now, he&apos;s coming home to Nunavut. '/><p>Three years ago, Eric Anoee's Jr., along with his family, made the difficult decision to move his brother Bernard from Arviat to Embassy West, seniors' living facility in Ottawa. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/elders-return-to-nunavut-for-care-1.7548398?cmp=rss>
+
+---
+
 ## Ukraine await Russia peace proposal ahead of talks
 
 date: 2025-05-30, from: RTÉ News
@@ -297,6 +333,18 @@ The family of Tina Satchwell have described her as a "kind, loving, gentle soul"
 
 ---
 
+## Pimicikamak Cree Nation struggles with evacuations as people return out of frustration
+
+date: 2025-05-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7548257.1748622093!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wanless-fire-manitoba-we23.jpg' alt='Flames and black smoke rise into the sky behind a row of trees, with a hydro pole in front of them.' width='620' height='349' title='The Wanless fire burns on May 29, 2025, between Flin Flon and The Pas in western Manitoba.'/><p>One day after Pimicikamak Cree Nation Chief David Monias said 767 people in the northern Manitoba community needed to evacuate, there are now close to 1,000 waiting to leave.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/wildfires-pimicikamak-norway-house-evacuations-1.7548282?cmp=rss>
+
+---
+
 ## 15,580 homeless last month, including 4,775 children
 
 date: 2025-05-30, from: RTÉ News
@@ -354,6 +402,18 @@ Minister for Housing James Browne has admitted a pre-general election Government
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0530/1515946-housing-target-minister/>
+
+---
+
+## Changes to Jordan's Principle funding requirements could negatively impact Yukon's rural nutrition programs
+
+date: 2025-05-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6789372.1748546118!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/melanie-bennett.jpg' alt='A woman stands against a wooden wall. At her side hangs an art piece. She is dressed in black with and has a determined expression.' width='620' height='349' title='Melanie Bennett, executive director of the Yukon First Nation Education Directorate. She said changes to the Jordan&apos;s Principle rural nutrition programs operational requirements could put a &apos;significant barrier&apos; on accessing funds.'/><p>The Yukon First Nation Education Directorate says changes to the Jordan's Principle rural nutrition program will create 'significant barriers' for accessing funding. New operational requirements call for individual children's names and status card numbers attached to each funding proposal.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/changes-to-jordan-s-principle-funding-requirements-could-negatively-impact-yukon-s-rural-nutrition-programs-1.7546934?cmp=rss>
 
 ---
 
@@ -447,7 +507,7 @@ In Ituri, a province in the east of the Democratic Republic of the Congo (DRC), 
 
 ## Songs of hope rise from Gaza’s ruins
 
-date: 2025-05-30, from: United Nations, Culture and Education
+date: 2025-05-30, from: United Nations, Top Stories
 
 In Al-Jundi Al-Majhool Square – once the bustling heart of Gaza City – music now floats among the tents. The square, transformed into a sprawling displacement camp, shelters hundreds of families driven from their homes by more than 19 months of war. 
 
@@ -483,7 +543,7 @@ Starving Gazans continue to be deprived of aid as international relief efforts a
 
 ## ‘This is not just ice’: Glaciers support human livelihoods, UN deputy chief says
 
-date: 2025-05-30, from: United Nations, Climate Change
+date: 2025-05-30, from: United Nations, Top Stories
 
 UN Deputy Secretary-General Amina Mohammed called for urgent action to protect water-related ecosystems in remarks to the International Conference on Glaciers’ Preservation in Dushanbe, Tajikistan, on Friday. 
 
@@ -2245,7 +2305,7 @@ In Gaza, dozens of Palestinians have been reportedly injured and shot trying to 
 
 ## Climate change: World likely to breach 1.5°C limit in next five years
 
-date: 2025-05-28, from: United Nations, Climate Change
+date: 2025-05-28, from: United Nations, Top Stories
 
 Fact: 2024 was the warmest year on record – but the heat is far from over. A new report from the World Meteorological Organization (WMO) warns that global temperatures will likely continue rising, with an 80 per cent chance that at least one year between now and 2029 will be even hotter. 
 
@@ -3273,7 +3333,7 @@ date: 2025-05-27, from: CBC, World News
 
 ## Real cost of disasters is 10 times higher than previously thought, says UN
 
-date: 2025-05-27, from: United Nations, Climate Change
+date: 2025-05-27, from: United Nations, Top Stories
 
 As countries face increasingly steep bills from natural hazards, the true cost of disasters is actually 10 times higher than previously estimated, with far-reaching effects across healthcare, housing, education and employment. 
 
@@ -3309,7 +3369,7 @@ As a controversial United States and Israel-backed aid distribution plan gets un
 
 ## Sanctions relief for Syria offers ‘powerful message of hope,’ says UN migration agency
 
-date: 2025-05-27, from: United Nations, Economic Development
+date: 2025-05-27, from: United Nations, Top Stories
 
 The UN International Organization for Migration (IOM) has welcomed recent decisions by the United States, the United Kingdom and the European Union to ease sanctions against Syria. 
 
@@ -3333,7 +3393,7 @@ As the war between rival militaries in Sudan continues, the World Health Organiz
 
 ## UN aims to transform urgency into action at Nice Ocean Conference
 
-date: 2025-05-27, from: United Nations, Climate Change
+date: 2025-05-27, from: United Nations, Top Stories
 
 Countries are uniting in the French city of Nice next month to save the marine environment.&nbsp; 
 

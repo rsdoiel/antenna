@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-05-31 06:07:50
+updated: 2025-05-31 14:08:08
 ---
 
 # libraries
 
-(date: 2025-05-31 06:07:50)
+(date: 2025-05-31 14:08:08)
 
 ---
 
@@ -112,6 +112,19 @@ Adamus, Leon
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737760>
+
+---
+
+## Russian Space Sector
+
+date: 2025-05-28, from: ETH Zurich, recently added
+
+Vidal, Florian; Kalafatian, Brian; Pillet, Nicolas; Dunn, Sarah C.G.; Poirier, Clémence
+Burkhardt, Fabian; Orttung, Robert; Perović, Jeronim; Pleines, Heiko; Schröder, Hans-Henning; Poirier, Clémence 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/738640>
 
 ---
 
