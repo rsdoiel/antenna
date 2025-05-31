@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-05-30 14:09:05
+updated: 2025-05-31 06:07:45
 ---
 
 # north america
 
-(date: 2025-05-30 14:09:05)
+(date: 2025-05-31 06:07:45)
+
+---
+
+## Evening Roundup, May 30
+
+date: 2025-05-30, from: The Contrarian
+
+Featuring: Tom Malinowski & Jen Rubin; Sage Warner; Austin Sarat; Owen Pence; The Democracy Index; Meredith Blake; Emily Beyda; Ruben Bolling; RJ Matson; Marissa Rothkopf; and our Pet(s) of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-may-30>
+
+---
+
+## Dense bean salad
+
+date: 2025-05-30, from: The Contrarian
+
+The world might be in a state of chaos, but with a good dense bean salad in your fridge, you&#8217;ve got your corner of it handled. 
+
+<br> 
+
+<https://contrarian.substack.com/p/dense-bean-salad>
+
+---
+
+## Tom Malinowski on Trump's incoherent foreign policy strategy 
+
+date: 2025-05-30, from: The Contrarian
+
+"He seems to think that what every other leader in the world wants is just to be rich" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164816854/a1a5ca5ee4dbc6c3ac71dc694961afcf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164816854/a1a5ca5ee4dbc6c3ac71dc694961afcf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/tom-malinowski-on-trumps-incoherent>
 
 ---
 
@@ -750,4 +788,30 @@ date: 2025-05-25, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-secrets-lies-and-audiotape/>
+
+---
+
+##  YOU LOVE TO SEE IT: It’s A Sunny Day On Sesame Street 
+
+date: 2025-05-24, from: The Lever News
+
+ Elmo gets an upgrade, climate villains pay up, a judge rules for peace, and data centers cool off.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-its-a-sunny-day-on-sesame-street/>
+
+---
+
+## Jim Crogan, 1951-2025: Reporter Was Unsung but Not Forgotten
+
+date: 2025-05-24, from: Capital and Main
+
+<p>Former colleagues remember the veteran journalist as “an invaluable voice” in Los Angeles media.</p>
+<p>The post <a href="https://capitalandmain.com/jim-crogan-1951-2025-reporter-was-unsung-but-not-forgotten">Jim Crogan, 1951-2025: Reporter Was Unsung but Not Forgotten</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/jim-crogan-1951-2025-reporter-was-unsung-but-not-forgotten>
 

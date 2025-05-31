@@ -1,11 +1,23 @@
 ---
 title: snapshots
-updated: 2025-05-30 14:09:12
+updated: 2025-05-31 06:07:54
 ---
 
 # snapshots
 
-(date: 2025-05-30 14:09:12)
+(date: 2025-05-31 06:07:54)
+
+---
+
+## Little Tokyo
+
+date: 2025-05-30, from: Transiting Los Angeles
+
+Little Tokyo is Downtown's most dynamic and fun neighborhood to visit, with great dining, nightlife, and shopping, And it's very convenient to visit by transit. 
+
+<br> 
+
+<https://transitinglosangeles.com/2025/05/30/little-tokyo/>
 
 ---
 
@@ -2443,11 +2455,9 @@ An oncologist says Biden&#39;s prostate cancer is treatable, and survivable.
 
 ---
 
-## The Economic Consequences of Destroying Harvard
+**@Dave Winer's linkblog** (date: 2025-05-26, from: Dave Winer's linkblog)
 
-date: 2025-05-26, from: Paul Krugman
-
-Freedom is on the line. But so are jobs. 
+The Economic Consequences of Destroying Harvard. 
 
 <br> 
 
@@ -3356,4 +3366,280 @@ the value `VARIABLE_OR_CONSTANT` would be replaced with the object you are query
 <br> 
 
 <https://rsdoiel.github.io/blog/2025/05/25/a_quick_notes_on_types.html>
+
+---
+
+## How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation
+
+date: 2025-05-24, updated: 2025-05-24, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/">How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation</a></strong></p>
+Sean Heelan:</p>
+<blockquote>
+<p>The vulnerability [o3] found is CVE-2025-37899 (fix <a href="https://github.com/torvalds/linux/commit/2fc9feff45d92a92cd5f96487655d5be23fb7e2b">here</a>), a use-after-free in the handler for the SMB 'logoff' command. Understanding the vulnerability requires reasoning about concurrent connections to the server, and how they may share various objects in specific circumstances. o3 was able to comprehend this and spot a location where a particular object that is not referenced counted is freed while still being accessible by another thread. As far as I'm aware, this is the first public discussion of a vulnerability of that nature being found by a LLM.</p>
+<p>Before I get into the technical details, the main takeaway from this post is this: with o3 LLMs have made a leap forward in their ability to reason about code, and if you work in vulnerability research you should start paying close attention. If you're an expert-level vulnerability researcher or exploit developer the machines aren't about to replace you. In fact, it is quite the opposite: they are now at a stage where they can make you <em>significantly</em> more efficient and effective. If you have a problem that can be represented in fewer than 10k lines of code there is a reasonable chance o3 can either solve it, or help you solve it.</p>
+</blockquote>
+<p>Sean used my <a href="https://llm.datasette.io/">LLM</a> tool to help find the bug! He ran it against the prompts he shared <a href="https://github.com/SeanHeelan/o3_finds_cve-2025-37899">in this GitHub repo</a> using the following command:</p>
+<pre><code>llm --sf system_prompt_uafs.prompt              \ 
+    -f session_setup_code.prompt                \          
+    -f ksmbd_explainer.prompt                   \
+    -f session_setup_context_explainer.prompt   \
+    -f audit_request.prompt
+</code></pre>
+<p>Sean ran the same prompt 100 times, so I'm glad he was using the new, more efficient <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/#improving-llm-s-support-for-long-context-models">fragments mechanism</a>.</p>
+<p>o3 found his first, known vulnerability 8/100 times - but found the brand new one in just 1 out of the 100 runs it performed with a larger context.</p>
+<p>I thoroughly enjoyed this snippet which perfectly captures how I feel when I'm iterating on prompts myself:</p>
+<blockquote>
+<p>In fact my entire system prompt is speculative in that I haven’t ran a sufficient number of evaluations to determine if it helps or hinders, so consider it equivalent to me saying a prayer, rather than anything resembling science or engineering.</p>
+</blockquote>
+<p>Sean's conclusion with respect to the utility of these models for security research:</p>
+<blockquote>
+<p>If we were to never progress beyond what o3 can do right now, it would still make sense for everyone working in VR [Vulnerability Research] to figure out what parts of their work-flow will benefit from it, and to build the tooling to wire it in. Of course, part of that wiring will be figuring out how to deal with the the signal to noise ratio of ~1:50 in this case, but that’s something we are already making progress at.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44081338">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/24/sean-heelan/#atom-everything>
+
+---
+
+## f2
+
+date: 2025-05-24, updated: 2025-05-24, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/ayoisaiah/f2">f2</a></strong></p>
+Really neat CLI tool for bulk renaming of files and directories by Ayooluwa Isaiah, written in Go and designed to work cross-platform.</p>
+<p>There's a <em>lot</em> of great design in this. <a href="https://f2.freshman.tech/guide/tutorial">Basic usage</a> is intuitive - here's how to rename all <code>.svg</code> files to <code>.tmp.svg</code> in the current directory:</p>
+<pre><code>f2 -f '.svg' -r '.tmp.svg' path/to/dir
+</code></pre>
+<p>f2 defaults to a dry run which looks like this:</p>
+<pre><code>*————————————————————*————————————————————————*————————*
+|      ORIGINAL      |        RENAMED         | STATUS |
+*————————————————————*————————————————————————*————————*
+| claude-pelican.svg | claude-pelican.tmp.svg | ok     |
+| gemini-pelican.svg | gemini-pelican.tmp.svg | ok     |
+*————————————————————*————————————————————————*————————*
+dry run: commit the above changes with the -x/--exec flag
+</code></pre>
+<p>Running <code>-x</code> executes the rename.</p>
+<p>The really cool stuff is the advanced features - Ayooluwa has thought of <em>everything</em>. The EXIF integration is particularly clevel - here's an example <a href="https://f2.freshman.tech/guide/organizing-image-library">from the advanced tutorial</a> which renames a library of photos to use their EXIF creation date as part of the file path:</p>
+<pre><code>f2 -r '{x.cdt.YYYY}/{x.cdt.MM}-{x.cdt.MMM}/{x.cdt.YYYY}-{x.cdt.MM}-{x.cdt.DD}/{f}{ext}' -R
+</code></pre>
+<p>The <code>-R</code> flag means "recursive". The small <code>-r</code> uses variable syntax <a href="https://f2.freshman.tech/guide/exif-variables">for EXIF data</a>. There are plenty of others too, including <a href="https://f2.freshman.tech/guide/file-hash-variables">hash variables</a> that use the hash of the file contents.</p>
+<h4 id="f2-installation">Installation notes</h4>
+
+<p>I had Go 1.23.2 installed on my Mac via Homebrew. I ran this:</p>
+<pre><code>go install github.com/ayoisaiah/f2/v2/cmd/f2@latest
+</code></pre>
+<p>And got an error:</p>
+<pre><code>requires go &gt;= 1.24.2 (running go 1.23.2; GOTOOLCHAIN=local)
+</code></pre>
+<p>So I upgraded Go using Homebrew:</p>
+<pre><code>brew upgrade go
+</code></pre>
+<p>Which took me to 1.24.3 - then the <code>go install</code> command worked. It put the binary in <code>~/go/bin/f2</code>.</p>
+<p>There's also <a href="https://www.npmjs.com/package/@ayoisaiah/f2">an npm package</a>, similar to the pattern I wrote about a while ago of people <a href="https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/">Bundling binary tools in Python wheels</a>.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44081850">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/go">go</a>, <a href="https://simonwillison.net/tags/cli">cli</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/May/24/f2/#atom-everything>
+
+---
+
+## Retirement and NetNewsWire
+
+date: 2025-05-24, from: Innessential (Brint Simmons' blog)
+
+<p>
+<p>To answer some questions people have asked me about my impending retirement…</p>
+
+<h4 id="what-does-it-mean-for-netnewswire">What does it mean for NetNewsWire?</h4>
+
+<p>Good things! I’m not retiring from writing apps — which means I’ll have a lot more time for working on NetNewsWire.</p>
+
+<p>It’s been 15 years since the last time I could work on NetNewsWire during weekdays (as opposed to just nights and weekends), and I’m super-psyched for this.</p>
+
+<h4 id="will-you-work-on-any-other-apps">Will you work on any other apps?</h4>
+
+<p>Yes. I have several ideas for other apps I’d like to work on, and have made a little progress on one of them.</p>
+
+<p>They will all be free and open source. I have no plans to create apps for money. (I’ll be retired — <em>not working for money anymore</em> is the point.)</p>
+
+<h4 id="will-you-be-taking-a-big-trip-right-after-retiring">Will you be taking a big trip right after retiring?</h4>
+
+<p>Every time this comes up, I joke that the first thing I’ll be doing is <em>sleeping</em>. Forty years of work is a long time, and I’ve earned a long nap.</p>
+
+<p>We do have some travel plans, but no big trips yet. We will. There’s so much of the world we want to see!</p>
+
+<p>My actual first week of retirement will be taken up by WWDC. I won’t be there — I’ll be at home watching the videos like most everyone else. Only this time I won’t have to think about how the changes will affect things at work.</p>
+
+<h4 id="do-you-have-any-other-hobbies-or-plans-are-you-getting-into-woodworking-pizza-making">Do you have any other hobbies or plans? Are you getting into woodworking? Pizza-making?</h4>
+
+<p>Yes to other hobbies and plans, though probably not woodworking or pizza (but never say never — those are pretty tempting ideas!).</p>
+
+<p>Making apps is important to me — contributing to the public stack is how I can best use my abilities to make the world better — but it’s also not the only thing.</p>
+
+<p>I have more ideas than time, which is a good problem to have, and once I have some space to think and feel I’ll be able to start picking and get to work.</p>
+
+<h4 id="will-you-be-blogging-more">Will you be blogging more?</h4>
+
+<p>I hope so!</p>
+
+<p>The hard part is, after 25 years, finding things to say that I haven’t already said. Maybe I’ll just decide it’s okay to repeat myself in new ways. 🐥</p> 
+
+<br> 
+
+<https://inessential.com/2025/05/24/retirement_and_netnewswire.html>
+
+---
+
+## AI literacy, hallucinations, and the law: A case study
+
+date: 2025-05-24, from: Gary Marcus blog
+
+In the battle for AI literacy&#8212;and communicating clearly the weaknesses of AI&#8212; hypesters are winning. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/ai-literacy-hallucinations-and-the>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+Runway lights not working at San Diego airport before crash, investigators say. 
+
+<br> 
+
+<https://wapo.st/3SSF8LS>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+Stack Overflow was the best for a long time, but it&#39;s day is past, ChatGPT takes figuring stuff out to the next level. 
+
+<br> 
+
+<https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/>
+
+---
+
+## The Transiting Los Angeles Podcast – #12: Gondola!
+
+date: 2025-05-24, from: Transiting Los Angeles
+
+John and Janeth look south to Orange County, where Irvine's Great Park has just approved moving ahead with what seems to be a very questionable transportation operation... 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3"></source>
+</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://transitinglosangeles.com/2025/05/24/the-transiting-los-angeles-podcast-12-gondola/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+The End of Glitch (Even Though They Say It Isn&#39;t). 
+
+<br> 
+
+<https://blog.keith.is/blog/the-end-of-glitch-even-though-they-say-it-isnt/>
+
+---
+
+## Penguin Poop Helps Antarctica Stay Cool
+
+date: 2025-05-24, from: 404 Media Group
+
+Penguin guano helps clouds form in coastal Antarctica, making these birds an important factor in the region’s climate.  
+
+<br> 
+
+<https://www.404media.co/penguin-poop-helps-antarctica-stay-cool/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+Elon&#39;s DOGE Is Reportedly Using Grok AI With Government Data. 
+
+<br> 
+
+<https://gizmodo.com/elons-doge-is-reportedly-using-grok-ai-with-government-data-2000606753>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+Pee-wee Herman documentary examines Paul Reubens&#39; controversial past. 
+
+<br> 
+
+<https://www.usatoday.com/story/entertainment/tv/2025/05/23/pee-wee-herman-paul-reubens-documentary-controversy-death/83718116007/>
+
+---
+
+## A Conversation With Barry Ritholtz
+
+date: 2025-05-24, from: Paul Krugman
+
+Fun with bad investing ideas 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-conversation-with-barry-ritholtz>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+Tesla Model Y &amp; Model 3 Still 1st &amp; 3rd Best Selling Cars in California. 
+
+<br> 
+
+<https://cleantechnica.com/2025/05/23/tesla-model-y-model-3-still-1st-3rd-best-selling-cars-in-california/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+Busy hurricane season expected as forecasters fear Trump cuts. 
+
+<br> 
+
+<https://www.bbc.com/news/articles/cp855prygj1o>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-05-24, from: Dave Winer's linkblog)
+
+Highly recommend Jon Stewart on the latest Bill Simmons podcast. 
+
+<br> 
+
+<https://podcasts.apple.com/us/podcast/jon-stewart-on-a-knicks-disaster-the-soto-era-his/id1043699613?i=1000709534517>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-05-24, from: Feed for Alt USDS)
+
+The “One Big Beautiful Bill” should terrify anyone who cares about checks and balances. From court-defying powers to political control over regulatory agencies, this isn’t a tax bill—it’s a playbook for authoritarianism. We broke it down: https://bit.ly/3SlWNvk
+
+#WeTheBuilders #NoKings #OBBB #OBUB 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lpv5njdnf223>
 

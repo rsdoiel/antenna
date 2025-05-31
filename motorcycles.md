@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-05-30 14:09:09
+updated: 2025-05-31 06:07:51
 ---
 
 # motorcycles
 
-(date: 2025-05-30 14:09:09)
+(date: 2025-05-31 06:07:51)
+
+---
+
+## Kirkwood sets the pace in opening practice for the Chevrolet Detroit Grand Prix
+
+date: 2025-05-30, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer Just a week after the 109th Indianapolis 500, the IndyCar series heads up north to the streets of Detroit, Michigan for the Chevrolet Detroit Grand&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/kirkwood-sets-the-pace-in-opening-practice-for-the-chevrolet-detroit-grand-prix/>
 
 ---
 
@@ -485,4 +497,76 @@ CONCORD, N.C. (May 24, 2025) – Charlotte Motor Speedway’s Memorial Day weeke
 <br> 
 
 <https://kickinthetires.net/nascar/coca-cola-600-sold-out-for-4th-consecutive-year/>
+
+---
+
+## Dreyer & Reinbold Racing, Cusick Motorsports look to continue Indy 500 one-off success with Ryan Hunter-Reay and Jack Harvey
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Dreyer &#38; Reinbold Racing has been a part of the INDYCAR garage dating back to before the turn of the century. Fast forward to present&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/dreyer-reinbold-racing-cusick-motorsports-look-to-continue-indy-500-one-off-success-with-ryan-hunter-reay-and-jack-harvey/>
+
+---
+
+## GALLERY: Carb Day At The Indianapolis 500
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+Photos by Jeremy Bryner/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/indycar/gallery-carb-day-at-the-indianapolis-500/>
+
+---
+
+## Jimmie Johnson Scholarship Recipient Honored Ahead of Coca-Cola 600, Johnson’s 700th Career Cup Start
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+CONCORD, N.C. (May 24, 2025) &#8211; Ahead of Sunday’s Coca-Cola 600, the 700th career Cup Series start for NASCAR Hall of Famer Jimmie Johnson, Charlotte Motor Speedway honored Lucy Roach,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jimmie-johnson-scholarship-recipient-honored-ahead-of-coca-cola-600-johnsons-700th-career-cup-start/>
+
+---
+
+## Austin Green Captures General Tire 150 Victory in ARCA
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+CONCORD, NC (May 23, 2025) – Austin Green honed his skills as an aspiring race-car driver on Charlotte Motor Speedway&#8217;s frontstretch quarter-mile. On Friday, Green was the teacher, the General&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/austin-green-captures-general-tire-150-victory-in-arca/>
+
+---
+
+## Hot Damn, Look At BMW's New Insane Superbike
+
+date: 2025-05-24, from: Ride Apart, Electric Motorcycle News
+
+A preview at what's to come both for you and MotoGP? 
+
+<br> 
+
+<https://www.rideapart.com/news/760581/bmw-concept-superbike-concept-rr-villa-deste/>
+
+---
+
+## ARCA Menards West Series: 2025 Colorado 150 Race Preview
+
+date: 2025-05-24, from: Kickin the Tires blog
+
+The fourth race of the 2025 ARCA Menards West Series season will take place this Saturday, May 24, at Colorado National Speedway (CNS). This 0.375-mile short-track, paved oval is located&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-colorado-150-race-preview/>
 

@@ -1,11 +1,122 @@
 ---
 title: socal north
-updated: 2025-05-30 14:09:05
+updated: 2025-05-31 06:07:46
 ---
 
 # socal north
 
-(date: 2025-05-30 14:09:05)
+(date: 2025-05-31 06:07:46)
+
+---
+
+## Riverside area state senator vindicated after drug testing shows she was not intoxicated
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+State Sen. Sabrina Cervantes maintained from the start that she wasn’t drunk or on drugs after she was cited for DUI in Sacramento. 
+
+<br> 
+
+<https://laist.com/news/politics/riverside-area-state-senator-vindicated-after-drug-testing-shows-she-was-not-intoxicated>
+
+---
+
+## Irvine promises more transparency about its plan for gondolas at the Great Park
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+The city will make presentations at several upcoming gatherings after LAist revealed $700,000 in contracts had been signed outside public view. 
+
+<br> 
+
+<https://laist.com/news/politics/irvine-promises-more-transparency-on-gondolas-at-the-great-park>
+
+---
+
+## Sellers of dog leashes and mom gear hope court rulings lead to tariff relief
+
+date: 2025-05-30, updated: 2025-05-31, from: The LAist
+
+Court rulings against President Trump's tariffs could spell relief for many American importers — if the decisions hold. For now, the uncertainty remains. 
+
+<br> 
+
+<https://laist.com/news/sellers-of-dog-leashes-and-mom-gear-hope-court-rulings-lead-to-tariff-relief>
+
+---
+
+## It's that time of the year, when LA glows in purple
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+Jacarandas are everywhere, including at the L.A. Arboretum, which offers other recommendations for those seeking more than just purple. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/jacaranda-trees-los-angeles-blooms>
+
+---
+
+## Trump cites California LGBTQ+ centers to justify big cuts to ‘woke’ campuses
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+San Diego’s community college district finds itself directly in Trump’s crosshairs: Its “pride centers” were the only items called out by name in the administration’s plan to slash more than $10 billion of federal spending on education. 
+
+<br> 
+
+<https://laist.com/news/education/trump-cites-california-lgbtq-centers-to-justify-big-cuts-to-woke-campuses>
+
+---
+
+## PBS and Minnesota public TV station sue Trump White House
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+PBS and Lakeland PBS in rural Minnesota are suing President Trump over his executive order demanding that the Corporation for Public Broadcasting kill all funding for the public television network. 
+
+<br> 
+
+<https://laist.com/news/pbs-and-minnesota-public-tv-station-sue-trump-white-house>
+
+---
+
+## Trump Administration names Long Beach as a sanctuary city that could soon face penalties
+
+date: 2025-05-30, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-2048x1366.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach was specifically called out as a jurisdiction that undermines immigration enforcement. A city spokesman said Long Beach “does not obstruct federal law enforcement in any way.”</p>
+<p>The post <a href="https://lbpost.com/news/immigration/long-beach-sanctuary-city-trump-list-penalties">Trump Administration names Long Beach as a sanctuary city that could soon face penalties</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/long-beach-sanctuary-city-trump-list-penalties>
+
+---
+
+## Trump nominates official with ties to antisemitic extremists to lead ethics agency
+
+date: 2025-05-30, updated: 2025-05-30, from: The LAist
+
+President Trump nominated Paul Ingrassia to lead the Office of Special Counsel, a government agency that enforces ethics law and protects whistleblowers, despite Ingrassia's links to extremists. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-nominates-official-with-ties-to-antisemitic-extremists-to-lead-ethics-agency>
+
+---
+
+## Little Tokyo
+
+date: 2025-05-30, from: Transiting Los Angeles
+
+Little Tokyo is Downtown's most dynamic and fun neighborhood to visit, with great dining, nightlife, and shopping, And it's very convenient to visit by transit. 
+
+<br> 
+
+<https://transitinglosangeles.com/2025/05/30/little-tokyo/>
 
 ---
 
@@ -49,7 +160,7 @@ The upgraded shelter at Soto and 1st streets is one of several expected in the n
 
 date: 2025-05-30, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A proposal in Congress would require some adults to document 80 hours a month of work or school. Experts say the red tape and paperwork is so cumbersome that even people who work will lose their health insurance.</p>
 <p>The post <a href="https://lbpost.com/news/health/medicaid-work-rules-could-leave-a-million-californians-with-no-health-insurance">Medicaid work rules could leave a million Californians with no health insurance</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -86,7 +197,7 @@ Friday is the warmest day of the week, so stay hydrated and put on sunscreen.
 
 ## LA County planned to send fire debris to the desert. Then the community spoke up
 
-date: 2025-05-30, updated: 2025-05-30, from: The LAist
+date: 2025-05-30, updated: 2025-05-31, from: The LAist
 
 The county planned to send concrete from the Eaton Fire burn area to the Antelope Valley for later use reinforcing roads. The plan was abandoned after community outrage. 
 
@@ -1028,4 +1139,108 @@ After growing up with a father forever changed by war, East L.A. author Julie Sa
 <br> 
 
 <https://laist.com/news/mission-to-honor-veterans-and-heal-generations-on-the-eastside>
+
+---
+
+## Hannah Gutierrez-Reed, armorer in 'Rust' shooting, is released early
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+She will remain on parole until May 2026. 
+
+<br> 
+
+<https://laist.com/news/hannah-gutierrez-reed-armorer-in-rust-shooting-is-released-early>
+
+---
+
+## That zing in your teeth from a cold treat? Blame this ancient armored fish
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+The sometimes uncomfortable sensations we feel in our teeth may be an evolutionary holdover from the scaly exteriors of ancient armored fish. 
+
+<br> 
+
+<https://laist.com/news/health/that-zing-in-your-teeth-from-a-cold-treat-blame-this-ancient-armored-fish>
+
+---
+
+## Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says
+
+date: 2025-05-24, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The 21-year-old driver did not have her headlights on and may have been impaired, Long Beach police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard">Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard>
+
+---
+
+## FDA alleges fluoride supplements cause gut harms. Scientists aren't convinced
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+The agency is taking steps to remove prescription fluoride products that children swallow. But researchers who study fluoride say it's not harmful and some kids need the treatments. 
+
+<br> 
+
+<https://laist.com/news/health/fda-alleges-fluoride-supplements-cause-gut-harms-scientists-arent-convinced>
+
+---
+
+## $30 hourly wage increase for hotel and airport workers heads to Bass for final approval
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+The workers would be paid $30 an hour by 2028. 
+
+<br> 
+
+<https://laist.com/news/30-hourly-wage-for-hotel-and-airport-workers-head-to-bass-for-final-approval>
+
+---
+
+## The Transiting Los Angeles Podcast – #12: Gondola!
+
+date: 2025-05-24, from: Transiting Los Angeles
+
+John and Janeth look south to Orange County, where Irvine's Great Park has just approved moving ahead with what seems to be a very questionable transportation operation... 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3"></source>
+</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/05/gondola_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://transitinglosangeles.com/2025/05/24/the-transiting-los-angeles-podcast-12-gondola/>
+
+---
+
+## One person shot on 710 Freeway in Long Beach, CHP says
+
+date: 2025-05-24, from: Longbeach Post
+
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The victim was found wounded in the driver's seat of a pickup truck.</p>
+<p>The post <a href="https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says">One person shot on 710 Freeway in Long Beach, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says>
+
+---
+
+## Los Feliz's Hillhurst asks: Another coffee place?!
+
+date: 2025-05-24, updated: 2025-05-24, from: The LAist
+
+Within a 10-minute walk on Hillhurst Avenue are a handful of places that serve a cup of joe. And another coffee shop is coming. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/los-feliz-hillhurst-coffee>
 

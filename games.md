@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-05-30 14:09:08
+updated: 2025-05-31 06:07:49
 ---
 
 # games
 
-(date: 2025-05-30 14:09:08)
+(date: 2025-05-31 06:07:49)
+
+---
+
+## Captain America: Brave New World, The Wild Robot, Lost in Starlight, and every movie new to streaming this weekend
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Captain America: Brave New World, the Marvel superhero movie starring Anthony Mackie and Harrison Ford, smashes its way onto Disney Plus after hitting video [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/601382/new-movies-watch-streaming-captain-america-brave-new-world-wild-robot-lost-in-starlight>
+
+---
+
+## How to play Recluse in Elden Ring Nightreign
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+The Recluse makes a bunch of cocktails in Elden Ring&#8217;s Nightreign, but not the type you’d like to drink. She transforms the typical playstyle of a Soulslike spellcaster and flips it on its head by allowing you access to 14 extra spells through her character skill, Magic Cocktail. Recluse is the perfect character for you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602567/reculse-build-best-how-to-play>
+
+---
+
+## How to play Duchess in Elden Ring Nightreign
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+The Duchess is one of the sharpest classes in Elden Ring Nightreign. The undercover priestess loves to dip in and out of combat, overwhelming foes with fast attacks and status ailments. Once you unlock the Duchess, pick her if you like to stay nimble and quickly dominate foes with excessively high damage per second. While [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602474/duchess-build-best-how-to-play>
+
+---
+
+## Unearthed details from scrapped Black Panther game make me sad all over again
+
+date: 2025-05-30, updated: 2025-05-30, from: Polygon Website
+
+On Wednesday, EA both shuttered its studio Cliffhanger Games and cancelled the Black Panther game it was developing. Since it was originally announced in 2023, we hadn’t heard much about the game, other than that it would have been an open world adventure starring the titular hero. Now, a new report from Bloomberg has shed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/602670/black-panther-cliffhanger-game-nemsis-system-details-canceled>
+
+---
+
+## How to two-hand in Elden Ring Nightreign
+
+date: 2025-05-30, updated: 2025-05-31, from: Polygon Website
+
+In Elden Ring Nightreign, every bit of damage you can cause to enemies is a step closer to defeating a boss. The two-hand technique is a classic but effective method to achieve this goal. When you hold a weapon with both hands, you might feel more vulnerable to enemies’ attacks, since you can’t use a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/602592/two-hand-how-to>
 
 ---
 
@@ -498,4 +558,76 @@ Earlier this week, Google unveiled Flow, a tool that can be used to generate AI 
 <br> 
 
 <https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo>
+
+---
+
+## Summer Game Fest and ‘Not-E3’ 2025 schedule: All conference dates and times
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+Summer Game Fest 2025 returns in June to fill the vacuum left by E3 — may it rest in peace&#160;—&#160;and will be joined by a long list of showcases from the likes of Xbox and tireless independent organizers who will put on shows like Day of the Devs and Wholesome Direct. This year’s Summer Game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/events/601264/summer-game-fest-2025-schedule-sgf-e3>
+
+---
+
+## A definitive ranking of Tom Cruise’s 26 best action movies
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+After spending several months doing not much besides watching Tom Cruise movies, I now spend a lot of time wondering about Tom Cruise running. The Mission: Impossible star is a high-cadence runner. He’s famously short of stature, low to the ground and with short legs. But that build is perfect for cinema, because those arms [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rankings/601358/tom-cruise-action-movie-ranking-mission-impossible>
+
+---
+
+## Rick and Morty team didn’t worry about the lore ‘we owe’ in season 8 — only Rick’s baggage
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+Rick and Morty remains a staggering work of chaotic creativity. Previewing a handful of episodes from season 8, which premieres Sunday, May 25 with a Matrix-themed story inspired by phone charger theft, I still had that brain-melty “How do they think of this stuff?” feeling from when the show premiered more than a decade ago. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/600794/rick-morty-season-8-episodes-dan-harmon-scott-marder-interview>
+
+---
+
+## Despelote might be the best game ever about childhood
+
+date: 2025-05-24, updated: 2025-05-24, from: Polygon Website
+
+One of the great magic tricks of art — or perhaps just of the human brain — is the ability to transmute something hyper-specific and personal into something universal. Despelote is an autobiographical, semi-documentary game about being a kid in Ecuador during the country’s first successful qualifying run for the 2002 World Cup. It’s also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/601192/despelote-review-childhood-ecuador-football-sorry-soccer>
+
+---
+
+## Netflix is losing these 5 great movies in June
+
+date: 2025-05-24, updated: 2025-05-23, from: Polygon Website
+
+This weekend is a major one for new movies, with the release of Mission: Impossible – The Final Reckoning and Disney’s live-action Lilo &#38; Stitch remake in theaters. But even if you carved out two days for two major blockbusters, good news: Monday is Memorial Day. So why not spend your three-day weekend sneaking in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/601216/best-movies-streaming-leaving-netflix-removed-june-2025>
+
+---
+
+## Pokémon Go Machop Community Day guide
+
+date: 2025-05-24, updated: 2025-05-19, from: Polygon Website
+
+Pokémon Go is having a Machop Community Day event on Saturday, May 24, from 2-5 p.m. in your local time. As expected with a Community Day event, Machop will spawn in huge numbers with a high chance for it to appear shiny in Pokémon Go. There are also several other bonuses and perks, which we’ve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/599922/machop-community-day-shiny-machamp-moveset>
 

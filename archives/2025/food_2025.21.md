@@ -1,11 +1,91 @@
 ---
 title: food
-updated: 2025-05-30 14:09:10
+updated: 2025-05-31 06:07:52
 ---
 
 # food
 
-(date: 2025-05-30 14:09:10)
+(date: 2025-05-31 06:07:52)
+
+---
+
+## Pedro Pascal’s Favorite Breakfast Is a Big Bowl of Nostalgia
+
+date: 2025-05-30, from: Taste of Home
+
+<p>As if you needed another reason to love him!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pedro-pascals-favorite-breakfast/">Pedro Pascal&#8217;s Favorite Breakfast Is a Big Bowl of Nostalgia</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pedro-pascals-favorite-breakfast/>
+
+---
+
+## Fried Apple Pies
+
+date: 2025-05-30, from: Taste of Home
+
+Golden brown outside and sweet and fruity inside, these fried apple pies are perfect hand-held treats. Take them to picnics or potlucks, or fry 'em up any time you need a quick and portable piece of pie. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/fried-apple-pies/>
+
+---
+
+## Selena Gomez Confirms Horchata Is the Flavor of the Summer
+
+date: 2025-05-30, from: Taste of Home
+
+<p>This is gearing up to be one tasty summer!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/selena-gomez-oreos/">Selena Gomez Confirms Horchata Is the Flavor of the Summer</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/selena-gomez-oreos/>
+
+---
+
+## Best-Ever Mini Blueberry Muffins
+
+date: 2025-05-30, from: Taste of Home
+
+Mini blueberry muffins are tender, sweet, packed with juicy berries and perfectly portioned for mindful munching, lunchboxes and on-the-go snacks. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/mini-blueberry-muffins/>
+
+---
+
+## Costco Just Brought Back This $12 Freezer Treat for the Summer
+
+date: 2025-05-30, from: Taste of Home
+
+<p>Reese's peanut butter and chocolate banana frozen treats? I'll take 14 of 'em.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/reeses-banana-slices/">Costco Just Brought Back This $12 Freezer Treat for the Summer</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/reeses-banana-slices/>
+
+---
+
+## Trader Joe’s Just Dropped Dubai Chocolate Bars That Are Shockingly Inexpensive
+
+date: 2025-05-30, from: Taste of Home
+
+<p>These chocolate bars are flying off the shelves at Trader Joe's stores across the country.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/trader-joes-dubai-chocolate/">Trader Joe&#8217;s Just Dropped Dubai Chocolate Bars That Are Shockingly Inexpensive</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/trader-joes-dubai-chocolate/>
 
 ---
 
@@ -1170,4 +1250,16 @@ Elvis Presley cake is a pineapple lover's dream. The sweet pineapple layer and r
 <br> 
 
 <https://www.tasteofhome.com/recipes/elvis-presley-cake/>
+
+---
+
+## 19 Frozen Drinks to Blend Up This Summer
+
+date: 2025-05-24, from: Bon Appetet
+
+Like an espresso martini frappé, make-ahead piña coladas, and a spicy mango margarita. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/frozen-drinks-cocktail-recipes>
 

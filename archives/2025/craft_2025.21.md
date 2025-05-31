@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2025-05-30 14:09:11
+updated: 2025-05-31 06:07:53
 ---
 
 # craft
 
-(date: 2025-05-30 14:09:11)
+(date: 2025-05-31 06:07:53)
 
 ---
 
@@ -30,4 +30,16 @@ The following is an excerpt from “The Stick Chair Journal 2.” “The Stick C
 <br> 
 
 <https://blog.lostartpress.com/2025/05/27/the-tyranny-of-tables/>
+
+---
+
+## For Sale: Irish Armchair in Red Elm & Sycamore (& Green Socks)
+
+date: 2025-05-24, from: Lost Arg Press blog
+
+This Irish armchair is one of the most comfortable chairs I make, and I built this particular example in elm and sycamore for an upcoming revised edition of “The Stick Chair Book.”&#160; This chair is an original design of mine, but it borrows heavily from the Irish chairs I studied in person during 2019 and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/05/24/for-sale-irish-armchair-in-red-elm-sycamore-green-socks/>
 

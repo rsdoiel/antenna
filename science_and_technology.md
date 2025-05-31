@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-05-30 14:09:06
+updated: 2025-05-31 06:07:47
 ---
 
 # science and technology
 
-(date: 2025-05-30 14:09:06)
+(date: 2025-05-31 06:07:47)
+
+---
+
+## American science put on starvation diet
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>National Science Foundation FY 2026 budget cut by more than 60%</h4> <p>To make America great again, the US National Science Foundation (NSF) aims to get by with less.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/american_science_put_on_starvation/>
+
+---
+
+## Tesla FSD ignores school bus lights and hits 'child' dummy in staged demo
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>Its driverless cars are already testing in Austin - good luck</h4> <p><strong>Video</strong>  Tesla has been testing self-driving Model Ys on the streets of Austin, Texas. But according to the automaker&#39;s bête noire, the Dawn Project, kids should keep clear.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/selfdriving_tesla_accident/>
+
+---
+
+## Nvidia scores its first DOE win since 2022 with Doudna supercomputer
+
+date: 2025-05-30, updated: 2025-05-30, from: The Register (UK I.T. News)
+
+<h4>System promises a 10x increase in &#39;scientific output&#39; - not necessarily performance</h4> <p>The US Department of Energy&#39;s next supercomputer will be built by Dell Technologies and powered by Nvidia&#39;s next-gen Vera-Rubin accelerators - a notable switch from the usual Cray-AMD tag teams that build such machines. It&#39;s the first DOE win for Nvidia since the Venado system in 2022.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/30/nvidia_doe_supercomputer/>
 
 ---
 
@@ -1566,4 +1602,52 @@ date: 2025-05-25, updated: 2025-05-25, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/05/25/ai_is_a_consumer_technology/>
+
+---
+
+## Linux kernel driver plugs rotary phone dial into the kernel
+
+date: 2025-05-24, from: OS News
+
+A Linux kernel driver that turns a rotary phone dial into an evdev input device. ↫ Stefan Wiehler The year of Linux on the desktop is finally here. Thanks to Oleksandr Natalenko for pointing this gem out. 
+
+<br> 
+
+<https://www.osnews.com/story/142436/linux-kernel-driver-plugs-rotary-phone-dial-into-the-kernel/>
+
+---
+
+## Cybercrime is 'orders of magnitude' larger than state-backed ops, says ex-White House advisor
+
+date: 2025-05-24, updated: 2025-05-24, from: The Register (UK I.T. News)
+
+<h4>Michael Daniel also thinks Uncle Sam should increase help to orgs hit by ransomware</h4> <p><strong>INTERVIEW</strong>  Uncle Sam&#39;s cybersecurity apparatus can&#39;t only focus on China and other nation-state actors, but also has to fight the much bigger damage from plain old cybercrime, says former White House advisor Michael Daniel. And the Trump administration&#39;s steep cuts to federal government staff are making that a lot harder.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/24/cyber_crime_bigger_than_nation_state/>
+
+---
+
+## Remembering John Young, co-founder of web archive Cryptome
+
+date: 2025-05-24, updated: 2025-05-26, from: The Register (UK I.T. News)
+
+<h4>The original leak site that never sold out, never surrendered</h4> <p><strong>Obituary</strong>  John Young, the co-founder of the legendary internet archive Cryptome, died at the age of 89 on March 28. <em>The Register</em> talked to friends and peers who gave tribute to a bright, pugnacious man who was devoted to the public&#39;s right to know.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/24/john_young_obituary/>
+
+---
+
+## Forgotten Turing treasure trove rescued from attic goes under the hammer
+
+date: 2025-05-24, updated: 2025-05-24, from: The Register (UK I.T. News)
+
+<h4>Computing pioneer&#39;s personal papers expected to fetch tens of thousands</h4> <p>Precious scientific papers once belonging to wartime codebreaking genius Alan Turing – rescued from an attic clear-out where they faced destruction – are set to fetch a fortune at auction next month.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/05/24/turing_papers_auction/>
 

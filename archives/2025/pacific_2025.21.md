@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-05-30 14:09:06
+updated: 2025-05-31 06:07:47
 ---
 
 # pacific
 
-(date: 2025-05-30 14:09:06)
+(date: 2025-05-31 06:07:47)
+
+---
+
+## First SMS from Marianas sent to space
+
+date: 2025-05-30, from: Pacific Island Times
+
+Docomo Pacific and Lynk Global complete satellite-direct-to-device test in preparation for service rollout Gene Ramos, Docomo Pacific's... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/first-sms-from-marianas-sent-to-space>
 
 ---
 
@@ -2467,4 +2479,144 @@ Here, we remember the sons of this land who died in service during Operation Ira
 <br> 
 
 <https://www.pacificislandtimes.com/post/memorial-day-the-measure-of-devotion-and-the-price-of-freedom>
+
+---
+
+## Wolves ‘desperate’ to defend home court as Thunder lead series 2-0
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>The Minnesota Timberwolves know that time is running out for them to make a run at the NBA Finals.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/wolves-desperate-to-defend-home-court-as-thunder-lead-series-2-0/>
+
+---
+
+## Under Trump, a mainstay for small businesses clamps down
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>For entrepreneurs who want a loan, a government contract or just some advice, the Small Business Administration is generally a first stop. But over the past few months, getting the agency&#8217;s help has become more difficult.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/under-trump-a-mainstay-for-small-businesses-clamps-down/>
+
+---
+
+## Trump turns back to his trade war, threatening Europe and Apple
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump threatened to revive his global trade wars Friday, adding a fresh dose of chaos to trade relationships that had calmed somewhat in recent weeks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/trump-turns-back-to-his-trade-war-threatening-europe-and-apple/>
+
+---
+
+## State audit criticizes Hawai‘i Tourism Authority’s destination management
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>The Hawai&#8216;i Tourism Authority&#8217;s destination management focus is &#8220;not new &#8212; or effective &#8212; and the agency remains unable to gauge its own performance,&#8221; according to the latest state audit, which was especially critical of its community-driven Destination Management Action Plan effort.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/hawaii-news/state-audit-criticizes-hawaii-tourism-authoritys-destination-management/>
+
+---
+
+## Ukraine and Russia begin largest exchange of prisoners of war
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>CHERNIHIV REGION, Ukraine &#8212; Russia and Ukraine began their largest exchange of prisoners of war Friday, with each side returning 390 soldiers and civilians, according to both governments. More swaps were expected Saturday and Sunday, as the two countries have committed to exchange 1,000 prisoners each.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/ukraine-and-russia-begin-largest-exchange-of-prisoners-of-war/>
+
+---
+
+## Knife attack at train station in Hamburg, Germany, wounds at least 17
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>At least 17 people were injured in a knife attack at the central train station in the German city of Hamburg on Friday evening, according to the local fire department.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/knife-attack-at-train-station-in-hamburg-germany-wounds-at-least-17/>
+
+---
+
+## Trump orders faster build-out of nuclear power plants
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump signed four executive orders Friday aimed at accelerating the construction of nuclear power plants in the United States, including a new generation of small, advanced reactors that offer the promise of faster deployment but have yet to be proven.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/trump-orders-faster-build-out-of-nuclear-power-plants/>
+
+---
+
+## National Security Council staff will be cut by half
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>Secretary of State Marco Rubio, who is also serving as the national security adviser, on Friday revealed a significant restructuring of the National Security Council, reducing the size of its staff by at least half, according to a person with knowledge of the move.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/national-security-council-staff-will-be-cut-by-half/>
+
+---
+
+## Judge blocks Trump effort to bar international students at Harvard
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge Friday halted the Trump administration&#8217;s attempts to block international students from attending Harvard University, the nation&#8217;s oldest university and one of its most prestigious.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/nation-world-news/judge-blocks-trump-effort-to-bar-international-students-at-harvard/>
+
+---
+
+## Tropical Gardening: Fertilize with organics for healthy vegetable gardens
+
+date: 2025-05-24, from: Hawaii Tribune Harold
+
+
+				<p>It is time to think about planting your vegetable garden to minimize the effects of increasing food bills. This week and for the next few weeks, let&#8217;s consider a landscapes that feed us.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/05/24/features/tropical-gardening-fertilize-with-organics-for-healthy-vegetable-gardens/>
 

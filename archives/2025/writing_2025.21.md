@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-05-30 14:09:07
+updated: 2025-05-31 06:07:49
 ---
 
 # writing
 
-(date: 2025-05-30 14:09:07)
+(date: 2025-05-31 06:07:49)
 
 ---
 
@@ -448,4 +448,35 @@ date: 2025-05-25, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/05/a-granite-silence-by-nina-allan-review-by-niall-harrison/>
+
+---
+
+## Magazines Received – May
+
+date: 2025-05-24, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Asimov’s Science Fiction</p>
+<ul>
+<li>Sheila Williams, ed. Vol. 49 Nos. 5 &#38; 6, May/June 2025, $9.99, bimonthly, 208pp, 15 x </li></ul></div></div> <a href="https://locusmag.com/2025/05/magazines-received-may-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/05/magazines-received-may-4/>
+
+---
+
+## The Witch Roads by Kate Elliott: Review by Liz Bourke
+
+date: 2025-05-24, from: Locus Magazine
+
+<p><strong>The Witch Roads</strong>, Kate Elliott (Tor 978-1-250-33861-7, $29.99, 448pp, hc) June 2025. Cover by Raja Nandepu.</p>
+<p>For the last several years, one thing has become apparent: Kate Elliott has levelled up her writing game from its pre-existing heights, and dedicated herself to writing absolute bangers. <strong>Unconquerable Sun </strong>is ambitious and appealing epic space opera; <strong>Furious Heaven</strong>, its sequel, ups the level of ambition and political so­phistication with astonishing  <a href="https://locusmag.com/2025/05/the-witch-roads-by-kate-elliott-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/05/the-witch-roads-by-kate-elliott-review-by-liz-bourke/>
 

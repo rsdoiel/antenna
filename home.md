@@ -1,11 +1,119 @@
 ---
 title: home
-updated: 2025-05-30 14:09:09
+updated: 2025-05-31 06:07:50
 ---
 
 # home
 
-(date: 2025-05-30 14:09:09)
+(date: 2025-05-31 06:07:50)
+
+---
+
+## Mushrooms (Psychedelic and Otherwise) Are Having a Moment—Here’s How to Have Your Best Trip
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+Mushrooms are having a moment right now. You're going to want to book a stay at these luxe hotels that offer mushroom foraging experiences. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/mushroom-foraging-hotels>
+
+---
+
+## Why I Spent My Saturday Cleaning up the Beach (And How You Can, Too)
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+As a lifetime water woman, it’s time to give back to the sea that gave me so much. 
+
+<br> 
+
+<https://www.sunset.com/travel/easy-volunteer-opportunities-help-environment>
+
+---
+
+## I Went Seaweed Foraging on the Sonoma Coast—Here’s What I Learned
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+Seaweed foraging on the Sonoma Coast tells a story of tide and terroir. Here's how to do it with Strong Arm Farm. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel/foraging-seaweed-california-coast>
+
+---
+
+## Game Rooms Are Having a Moment—Here’s How to Make Them Actually Chic
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+More people are adding game rooms to their homes now. Designers share how to make game rooms look chic and stylish. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/game-rooms-trend>
+
+---
+
+## Homepage 2025
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Gifts & Shopping
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Recipes
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
 
 ---
 
@@ -195,6 +303,18 @@ date: 2025-05-30, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/laser-level-tips/>
+
+---
+
+## These Are the Memorial Day Weekend Sales You Don’t Want to Miss
+
+date: 2025-05-30, from: Sunset Magazine - Living in the West
+
+These are the best deals to shop for your home, kitchen, and summer travel plans this Memorial Day weekend. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/memorial-day-weekend-sales-2025>
 
 ---
 
@@ -570,18 +690,6 @@ Artist and designer's Jennifer Miller's Spanish-style bungalow is Silver Lake is
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/jennifer-miller-silver-lake-bungalow>
-
----
-
-## Homepage 2025
-
-date: 2025-05-29, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -1338,4 +1446,61 @@ date: 2025-05-25, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/21-types-of-scorpions-in-texas-with-pictures-and-identification/>
+
+---
+
+## How to Grow California Tree Poppies (Coulter’s Matilija Poppy)
+
+date: 2025-05-24, from: The Gardener's Path
+
+<p>The California tree poppy is a woody perennial suited to Zones 8 to 10 that prefers full sun and sandy, well-drained loam. Plants grow up to eight feet tall and sport whimsical white ruffled blossoms with golden centers resembling fried eggs bobbing in the breeze. Learn how to grow this Pacific Coast flower in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-california-tree-poppies/">How to Grow California Tree Poppies (Coulter’s Matilija Poppy)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-california-tree-poppies/>
+
+---
+
+## How to Prune Clematis Vines for Copious Flowers
+
+date: 2025-05-24, from: The Gardener's Path
+
+<p>Clematis are beautiful, showy vines with pretty flowers in bold colors. Easy to cultivate, they flower in spring, summer, or fall, depending on the type – and each type has specific pruning requirements for the most floriferous displays. Learn how to prune clematis for strong, healthy vines with copious flowers. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vines/prune-clematis/">How to Prune Clematis Vines for Copious Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vines/prune-clematis/>
+
+---
+
+## Building A Hobbit House: Bring The Shire To Your Backyard
+
+date: 2025-05-24, from: The Tiny Life blog
+
+<p>You don’t have to venture all the way to Middle Earth to live in a hobbit home! In addition to many other alternative dwellings that have gained popularity alongside the tiny house movement, hobbit homes have become a favorite for those seeking whimsy and adventure in everyday life.</p>
+<p>The post <a href="https://thetinylife.com/how-to-build-a-hobbit-house/">Building A Hobbit House: Bring The Shire To Your Backyard</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/how-to-build-a-hobbit-house/>
+
+---
+
+## 43 Animals That Start With Y (With Pictures and Names)
+
+date: 2025-05-24, from: Yard Life blog
+
+<p>When it comes to discovering Animals That Start With Y, most people draw a blank—and that’s exactly what makes this ... </p>
+<p class="read-more-container"><a title="43 Animals That Start With Y (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/43-animals-that-start-with-y-with-pictures-and-names/#more-28752" aria-label="Read more about 43 Animals That Start With Y (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-animals-that-start-with-y-with-pictures-and-names/">43 Animals That Start With Y (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-animals-that-start-with-y-with-pictures-and-names/>
 

@@ -1,17 +1,339 @@
 ---
 title: columns
-updated: 2025-05-30 14:09:07
+updated: 2025-05-31 06:07:48
 ---
 
 # columns
 
-(date: 2025-05-30 14:09:07)
+(date: 2025-05-31 06:07:48)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-30, from: Miguel de Icaza Mastondon feed)
+
+<p>My integrated chat window in Xogot is looking nicer, copied a few Claude UI elements:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114599145334005811>
+
+---
+
+## 2025-05-27 Alt text on this blog
+
+date: 2025-05-30, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-27-alt-text-on-this-blog">2025-05-27 Alt text on this blog</h1>
+
+<p>On the web, the alt text is a description of an image to be shown by browsers when the image cannot be shown – like text browsers or screen readers. So what about alt text on this blog? What about blog posts full of photos, specifically? Like the <a href="Croatia">Croatia</a> posts.</p>
+
+<p>I think that alt text should be unnecessary on my blog because the text should carry the entire message. “Welcome to my <a href="Wall_of_Text">Wall of Text</a>!” 😄</p>
+
+<p>On fedi, I like alt text and I both read and write it. I hate clients that don’t display it. I want to always read it. Therefore, on my blog, the equivalent of alt text should always be readable. But real alt text isn’t shown to me – the browser is showing me the pictures, instead. It makes sense. And on fedi it only works because the applications and front-ends don&rsquo;t just use the alt text attribute for images in HTML – they have an extra user-interface to allow me to read it. Buttons, mouse-over, long-press, whatever it takes.</p>
+
+<p>There are options for this blog, of course. Except I don’t like these options.</p>
+
+<p>I could reuse the alt text as the image title attribute which is shown on mouse-over by default. I don’t like being forced to use mouse and I don’t like duplicating the description.</p>
+
+<p>In Markdown:</p>
+
+<pre><code>![alt text](url &quot;title&quot;)
+</code></pre>
+
+<p>I could automatically use the alt text as the title attribute but I still don’t like to use the mouse to read the title attribute and I wouldn’t be able to switch Markdown rendering engines as easily if I hack it. Writing some Javascript to produce extra pop-ups or some other user-interface element would be even worse, and it would need extra clicking or keyboard navigation as a reader. No way.</p>
+
+<p>The last option is the best. Just write the description above the image:</p>
+
+<pre><code>Description
+
+![](url)
+</code></pre>
+
+<p>I’ve tried using the title attribute for some of my recent picture-heavy blog posts about Croatia and I’ve been checking the result using Gemini and Gopher, and I’m not happy.</p>
+
+<p>Compare the following two with the <a href="https://alexschroeder.ch/view/2025-05-17-%C5%A1ibenik">web</a> version where I can’t read the alt text. (Screenshots from <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a> on my phone.)</p>
+
+<p>The <a href="gemini://alexschroeder.ch/2025-05-17-šibenik">Gemini</a> version looks OK with some text paragraphs being links to the images.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-1.jpg" alt="" /></p>
+
+<p>The <a href="gopher://alexschroeder.ch/02025-05-17-šibenik">Gopher</a> version shows the alt texts as weird disjointed text paragraphs that sometimes repeat the preceding paragraph and sometimes don’t.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-2.jpg" alt="" /></p>
+
+<p>I guess I could write longer alt texts until the Gopher version looks good but then the Gemini version looks weird and the web version continues to not show it.</p>
+
+<p>Now check the Gemini and Gopher output for the page you’re reading right now!</p>
+
+<p>The <a href="gopher://alexschroeder.ch/02025-05-27-alt-text">Gopher</a> version is OK. The line-breaks don’t look nice on the phone at the default resolution so ignore that weird line-break. What we can see is that the empty alt text generated an empty paragraph. Something I should fix. 😅 But in general, it looks OK and reads well.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-3.jpg" alt="" /></p>
+
+<p>The <a href="gemini://alexschroeder.ch/2025-05-27-alt-text">Gemini</a> version still looks OK. It also links to the Gopher and Gemini versions, so ignore those extra links. 😅 The browser substitutes the filenames for the missing alt text. That works for me. I&rsquo;m not sure what a screen reader would do. Probably say: &ldquo;Image. 2025-05-27-alt-text-3.jpg&rdquo;? And I&rsquo;m not sure what a person with bad sight would prefer. At this point I&rsquo;d know that I can skip the image since I have already read the description above.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-4.jpg" alt="" /></p>
+
+<p>And here&rsquo;s the same passage a day later, using the text browser <code>lynx</code>. The inline links look good, and there&rsquo;s no trace of the screenshots. This is great! It&rsquo;s as readable as the Gopher version with no extra line-breaks, and the inline links are inline (unlike in the Gemini version).</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-5.jpg" alt="" /></p>
+
+<p>Checking with <code>edbrowse</code>. The inline links are wrapped in bracers, which looks good, and the images with no alt text are shown as empty square brackets (<code>[]</code>) which works for me. Ideally, I guess, they&rsquo;d just disappear.</p>
+
+<p><img loading="lazy" src="2025-05-27-alt-text-6.jpg" alt="" /></p>
+
+<p>All in all, I think this solution is better: Instead of alt text, just write more text above each image.</p>
+
+<p>What I’m less sure about is whether this automatically implies that all images are “decorative” and therefore should have an empty alt text (instead of no alt text). It seems to me that the filename being shown is a lot of visual clutter, but that only seems to affect Gemini, not the text browser.</p>
+
+<p>What do you think?</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a> <a class="tag" href="/search/?q=%23Gopher">#Gopher</a> <a class="tag" href="/search/?q=%23Markdown">#Markdown</a></p>
+
+<p><strong>2025-05-29</strong>. I fixed that minor issue in <a href="https://src.alexschroeder.ch/markdown-gopher.git/">markdown-gopher</a> so that it skips paragraphs containing just images with no alt text. 😄</p>
+
+<p><strong>2025-05-31</strong>. I added a piece of Javascript to copy the alt text to the title attribute if the alt text is set and the title is not. Perhaps that&rsquo;ll motivate me to add more alt text.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-27-alt-text>
+
+---
+
+## 2025-05-30 Walking along the Limmat
+
+date: 2025-05-30, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-30-walking-along-the-limmat">2025-05-30 Walking along the Limmat</h1>
+
+<p>My lower back hurts and I think it’s better to take long walks than to sit at the computer as I usually do.
+So the plan for today is to read the newspaper on the balcony, surrounded by plants; then eat the best baklava in town (<a href="https://www.cafe-konditorei-damaskus.ch/">Damaskus</a>) – well, nearby.
+And then I walked back home. About 8km in 2h, that went well. And I took some pictures.</p>
+
+<p>This is where I read the newspaper until it was too hot.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-1.jpg" alt="two chairs on a balcony  surrounded by greenery" /></p>
+
+<p>I met Claudia at the coffee house &amp; pastry shop.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-2.jpg" alt="a woman smiling at the camera" /></p>
+
+<p>When she met her friend for lunch, I started walking.</p>
+
+<p>I started at the Dietikon train stration.
+Look at the <em>Salvia pratensis</em> growing on the gravel.
+And the fast train rushing through.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-3.jpg" alt="several train tracks, two platforms and some forlorn flowers in the foreground and something looking like a bullet train in the background" /></p>
+
+<p>I wanted to take the track between railway and river so I had to pass beneath the train tracks.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-4.jpg" alt="an underground passage with walls of concrete (brutalism!) and elevators leading up the the platforms, stairs with daylight in the distance" /></p>
+
+<p>On the other side, I saw a swan with four chicks.
+The water carries a kind of white foam.
+I suspect that this is the cotton-like seeds of <em>Populus nigra</em>.</p>
+
+<p>The river here is the Limmat and so following it upstream leads me into Zürich and we live right at the beginning so we&rsquo;ll just get into the outskirts of town.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-5.jpg" alt="a river with reeds and trees on the farside and swans and ducks in the foreground" /></p>
+
+<p>The track is free of cars but there are bicycles and people on foot and every few minutes a train rushes by.
+This train with the more rounded snout is the slower urban train.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-6.jpg" alt="a small road between river and train tracks, with a bicycle coming towards me and a train rushing past" /></p>
+
+<p>As I looked over across the river i saw a lone man punting upriver.
+It looked like hard work because the water levels are high and the water runs fast.
+It must have rained somewhere in the mountains.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-7.jpg" alt="a man standing in a long boat, pushing it upstream with a pole" /></p>
+
+<p>At one point the track was blocked.
+They were digging it up so they could fix the sewage system or something.
+Too bad, because that was a shady segment!
+I had to take the detour without trees protecting me from the sun, unfortunately.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-8.jpg" alt="a fence blocking the track and huge pipes visible; the trees to either side look cool and shady!!" /></p>
+
+<p>I reached the next train station. I still can&rsquo;t walk next to the river.
+I&rsquo;m separated from the cool water by a patch of grass. My track continues right next to the railway.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-9.jpg" alt="Some platforms with two overpasses for cars, giving this area a bit of an oppressive look" /></p>
+
+<p>I know somewhere around here there are the foundations of an old castle. And here it is, hidden between woods and elevated road.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-10.jpg" alt="a stone rectangle; the walls are about half a metre high; behind the elevated road we can see the tops of concrete skyscrapers (more brutalism!)" /></p>
+
+<p>At last I make it back to the river.
+Occasionally, bridges pass both over my track and over the river.</p>
+
+<p>I hate cars.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-11.jpg" alt="a metal construction crosses the river and cars are faintly visible on it" /></p>
+
+<p>Here is one of the many benches.
+Too bad somebody ate a chocolate bar and decided to leave their packaging on the bench. Boo!</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-12.jpg" alt="a bench facing the river and on the far side there&rsquo;s grass and woods and a single person that looks like a hiker" /></p>
+
+<p>On the far side, there&rsquo;s <a href="https://en.wikipedia.org/wiki/Fahr_Convent">a former convent</a>.
+I was surprised to learn from the Wikipedia page that the convent still exists!
+It belonged to Einsiedeln Abbey in the canton of Schwyz but it was located in the canton of Aargau.
+It was closed 1530–1576 due to the Reformation in Zürich.
+In 1841, the canton of Aargau closed all monasteries within its territories but convents were allowed to reopen in 1843.</p>
+
+<p>On many afternoons, there&rsquo;s a small ferry that carries people across the river for free.
+On this picture you can see the small boat and the cable it is tied to.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-13.jpg" alt="a cable is tied to the far side and a boat is tied to it; on this side there&rsquo;s a small pier consisting of two wooden planks pointing towards it " /></p>
+
+<p>If you look towards the Alps, the mountains seem huge. Huge! But on a phone camera, they are minuscule.
+Zooming-by-cropping doesn&rsquo;t work that well, unfortunately.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-14.jpg" alt="trees at the horizon and behind that, a wall of rock and ice, or so it seems" /></p>
+
+<p>When the weather is hot, people like to drift down river from Zürich towards Dietikon on inflatable boats, rings and matresses.
+This is the first hot summer day with temperatures reaching nearly 30°C and this is how it starts…</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-15.jpg" alt="the river with a single inflatable boat on it; there are three half-naked men aboard" /></p>
+
+<p>A field of <em>Brassica napus</em>…</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-16.jpg" alt="a field of yellow below and a blue sky above, separated by a thin line of buildings; it looks a bit like the flag of Ukraine" /></p>
+
+<p>As I approached Altstetten, I had to cross back over the railway.
+Once again, a train rushes past.
+Metal worms, racing across the land.
+The sheer weight and their amazing speed keeps awing me.</p>
+
+<p><img loading="lazy" src="2025-05-30-limmat-17.jpg" alt="looking down on at least five tracks and a fast train on one of them" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-30-limmat>
+
+---
+
+##  David Lynch&#8217;s estate auction, including cameras, clothes, books, memorabilia, megaphones, scripts, vinyl,... 
+
+date: 2025-05-30, updated: 2025-05-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/05/0046962-david-lynchs-estate-aucti>
+
+---
+
+## 2025-05-29 Fighting against the news
+
+date: 2025-05-30, from: Alex Schroeder's Blog
+
+<h1 id="2025-05-29-fighting-against-the-news">2025-05-29 Fighting against the news</h1>
+
+<p>The news is dragging me down. Israel and the genocide in Palestine; the invasion of Russia into Ukraine; the government in Germany; the government in the USA … ugh!</p>
+
+<p>The world is so terrible that I&rsquo;m lacking words now that I&rsquo;m back from the holidays and have more time to read it. Somehow I also feel that it&rsquo;s not OK to just post about random stuff at a place where I see too much stuff that&rsquo;s upsetting me. I can&rsquo;t counteract the terror of reading about the state of the world by posting about the flowers I see when I go for a walk. Instead, I&rsquo;d better go for another walk, I think.</p>
+
+<p><a class="account" href="https://chaos.social/@frauxirah" title="@frauxirah@chaos.social">@frauxirah</a> <a class="account" href="https://masto.hackers.town/@randomgeek" title="@randomgeek@masto.hackers.town">@randomgeek</a> and <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> reminded me that there is an important part about going for walks and maybe taking pictures of flowers, though: to bring back joy. So I brought back some pictures. And then I spent some time with music instruments, making a drum pattern, adding some stuff. It’s not great but it drove away the sadness.</p>
+
+<p>So here’s to life. 😄</p>
+
+<p>Maybe next time I should take pictures of my surroundings, too.</p>
+
+<p>Balkan-Storchschnabel<br>
+Geranium macrorrhizum</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-1.jpg" alt="" /></p>
+
+<p>Luzerne<br>
+Medicago sativa</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-2.jpg" alt="" /></p>
+
+<p>Kartäuser-Nelke (Artengruppe)<br>
+Dianthus carthusianorum agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-3.jpg" alt="" /></p>
+
+<p>Mausohr-Habichtskräuter<br>
+Pilosella</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-4.jpg" alt="" /></p>
+
+<p>Borretsch<br>
+Borago officinalis</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-5.jpg" alt="" /></p>
+
+<p>Gewöhnlicher Beinwell (Artengruppe)<br>
+Symphytum officinale agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-6.jpg" alt="" /></p>
+
+<p>Wiesen-Margerite (Artengruppe)<br>
+Leucanthemum vulgare agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-7.jpg" alt="" /></p>
+
+<p>Fuchsschwanz-Klee<br>
+Trifolium rubens</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-8.jpg" alt="" /></p>
+
+<p>Rote Johannisbeere<br>
+Ribes rubrum agg.</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-9.jpg" alt="" /></p>
+
+<p>Flora Incognita could not quite determine the exact species.</p>
+
+<p>Besen-Felsenbirne<br>
+Amelanchier humilis</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-10.jpg" alt="" /></p>
+
+<p>Himbeere<br>
+Rubus idaeus</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-11.jpg" alt="" /></p>
+
+<p>Blüten-Hartriegel<br>
+Cornus florida</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-12.jpg" alt="" /></p>
+
+<p>Punktierter Gilbweiderich<br>
+Lysimachia punctata</p>
+
+<p><img loading="lazy" src="2025-05-29-flowers-13.jpg" alt="" /></p>
+
+<p>Plant identification by Flora Incognita.</p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-05-29-flowers>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-05-30, from: Dave Winer's Scripting News)
 
-Thinking (for a moment) of splurging on <a href="https://www.stubhub.com/new-york-knicks-new-york-tickets-6-2-2025/event/157266978/?quantity=2">tickets for Game 7</a> at the <a href="https://en.wikipedia.org/wiki/Madison_Square_Garden">Garden</a> on Monday. I've been following the prices during the playoffs, never seen them this high. There's no guarantee there will be a Game 7, first the Knicks have to win tomorrow in Indiana. Courtside seats go for <a href="https://www.stubhub.com/new-york-knicks-new-york-tickets-6-2-2025/event/157266978/?quantity=2&sections=1717540&ticketClasses=17400&rows=2161980&seats=&seatTypes=&listingQty=">$27K</a> each. 
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/05/30/theKnicksWonGame5.html">The Knicks won game 5</a>. 
+
+<br> 
+
+<http://scripting.com/2025/05/30.html#a210542>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-05-30, from: Dave Winer's Scripting News)
+
+Thinking of splurging on <a href="https://www.stubhub.com/new-york-knicks-new-york-tickets-6-2-2025/event/157266978/?quantity=2">tickets for Game 7</a> at the <a href="https://en.wikipedia.org/wiki/Madison_Square_Garden">Garden</a> on Monday. I've been following the prices during the playoffs, never seen them this high. Courtside seats go for <a href="https://www.stubhub.com/new-york-knicks-new-york-tickets-6-2-2025/event/157266978/?quantity=2&sections=1717540&ticketClasses=17400&rows=2161980&seats=&seatTypes=&listingQty=">$27K</a> each. BTW, there's no guarantee there will be a Game 7, first the Knicks have to win tomorrow in Indiana. 
 
 <br> 
 
@@ -278,99 +600,6 @@ A recording from Robert Reich and V Spehar&#8217;s live video
 </audio> <a href="https://api.substack.com/feed/podcast/164746497/7c6c9b28099a0f9668b50928ca0c459d.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://robertreich.substack.com/p/the-gerontocracy-problem>
-
----
-
-## 2025-05-30 Fighting against the news
-
-date: 2025-05-29, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-30-fighting-against-the-news">2025-05-30 Fighting against the news</h1>
-
-<p>The news is dragging me down. Israel and the genocide in Palestine; the invasion of Russia into Ukraine; the government in Germany; the government in the USA … ugh!</p>
-
-<p>The world is so terrible that I&rsquo;m lacking words now that I&rsquo;m back from the holidays and have more time to read it. Somehow I also feel that it&rsquo;s not OK to just post about random stuff at a place where I see too much stuff that&rsquo;s upsetting me. I can&rsquo;t counteract the terror of reading about the state of the world by posting about the flowers I see when I go for a walk. Instead, I&rsquo;d better go for another walk, I think.</p>
-
-<p><a class="account" href="https://chaos.social/@frauxirah" title="@frauxirah@chaos.social">@frauxirah</a> <a class="account" href="https://masto.hackers.town/@randomgeek" title="@randomgeek@masto.hackers.town">@randomgeek</a> and <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a> reminded me that there is an important part about going for walks and maybe taking pictures of flowers, though: to bring back joy. So I brought back some pictures. And then I spent some time with music instruments, making a drum pattern, adding some stuff. It’s not great but it drove away the sadness.</p>
-
-<p>So here’s to life. 😄</p>
-
-<p>Maybe next time I should take pictures of my surroundings, too.</p>
-
-<p>Balkan-Storchschnabel<br>
-Geranium macrorrhizum</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-1.jpg" alt="" /></p>
-
-<p>Luzerne<br>
-Medicago sativa</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-2.jpg" alt="" /></p>
-
-<p>Kartäuser-Nelke (Artengruppe)<br>
-Dianthus carthusianorum agg.</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-3.jpg" alt="" /></p>
-
-<p>Mausohr-Habichtskräuter<br>
-Pilosella</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-4.jpg" alt="" /></p>
-
-<p>Borretsch<br>
-Borago officinalis</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-5.jpg" alt="" /></p>
-
-<p>Gewöhnlicher Beinwell (Artengruppe)<br>
-Symphytum officinale agg.</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-6.jpg" alt="" /></p>
-
-<p>Wiesen-Margerite (Artengruppe)<br>
-Leucanthemum vulgare agg.</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-7.jpg" alt="" /></p>
-
-<p>Fuchsschwanz-Klee<br>
-Trifolium rubens</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-8.jpg" alt="" /></p>
-
-<p>Rote Johannisbeere<br>
-Ribes rubrum agg.</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-9.jpg" alt="" /></p>
-
-<p>Flora Incognita could not quite determine the exact species.</p>
-
-<p>Besen-Felsenbirne<br>
-Amelanchier humilis</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-10.jpg" alt="" /></p>
-
-<p>Himbeere<br>
-Rubus idaeus</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-11.jpg" alt="" /></p>
-
-<p>Blüten-Hartriegel<br>
-Cornus florida</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-12.jpg" alt="" /></p>
-
-<p>Punktierter Gilbweiderich<br>
-Lysimachia punctata</p>
-
-<p><img loading="lazy" src="2025-05-29-flowers-13.jpg" alt="" /></p>
-
-<p>Plant identification by Flora Incognita.</p>
-
-<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-29-flowers>
 
 ---
 
@@ -810,84 +1039,6 @@ date: 2025-05-29, updated: 2025-05-29, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/05/shifting-baselines-and-the-new-normal-of-the-trump-era>
-
----
-
-## 2025-05-27 Alt text on this blog
-
-date: 2025-05-29, from: Alex Schroeder's Blog
-
-<h1 id="2025-05-27-alt-text-on-this-blog">2025-05-27 Alt text on this blog</h1>
-
-<p>On the web, the alt text is a description of an image to be shown by browsers when the image cannot be shown – like text browsers or screen readers. So what about alt text on this blog? What about blog posts full of photos, specifically? Like the <a href="Croatia">Croatia</a> posts.</p>
-
-<p>I think that alt text should be unnecessary on my blog because the text should carry the entire message. “Welcome to my <a href="Wall_of_Text">Wall of Text</a>!” 😄</p>
-
-<p>On fedi, I like alt text and I both read and write it. I hate clients that don’t display it. I want to always read it. Therefore, on my blog, the equivalent of alt text should always be readable. But real alt text isn’t shown to me – the browser is showing me the pictures, instead. It makes sense. And on fedi it only works because the applications and front-ends don&rsquo;t just use the alt text attribute for images in HTML – they have an extra user-interface to allow me to read it. Buttons, mouse-over, long-press, whatever it takes.</p>
-
-<p>There are options for this blog, of course. Except I don’t like these options.</p>
-
-<p>I could reuse the alt text as the image title attribute which is shown on mouse-over by default. I don’t like being forced to use mouse and I don’t like duplicating the description.</p>
-
-<p>In Markdown:</p>
-
-<pre><code>![alt text](url &quot;title&quot;)
-</code></pre>
-
-<p>I could automatically use the alt text as the title attribute but I still don’t like to use the mouse to read the title attribute and I wouldn’t be able to switch Markdown rendering engines as easily if I hack it. Writing some Javascript to produce extra pop-ups or some other user-interface element would be even worse, and it would need extra clicking or keyboard navigation as a reader. No way.</p>
-
-<p>The last option is the best. Just write the description above the image:</p>
-
-<pre><code>Description
-
-![](url)
-</code></pre>
-
-<p>I’ve tried using the title attribute for some of my recent picture-heavy blog posts about Croatia and I’ve been checking the result using Gemini and Gopher, and I’m not happy.</p>
-
-<p>Compare the following two with the <a href="https://alexschroeder.ch/view/2025-05-17-%C5%A1ibenik">web</a> version where I can’t read the alt text. (Screenshots from <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a> on my phone.)</p>
-
-<p>The <a href="gemini://alexschroeder.ch/2025-05-17-šibenik">Gemini</a> version looks OK with some text paragraphs being links to the images.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-1.jpg" alt="" /></p>
-
-<p>The <a href="gopher://alexschroeder.ch/02025-05-17-šibenik">Gopher</a> version shows the alt texts as weird disjointed text paragraphs that sometimes repeat the preceding paragraph and sometimes don’t.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-2.jpg" alt="" /></p>
-
-<p>I guess I could write longer alt texts until the Gopher version looks good but then the Gemini version looks weird and the web version continues to not show it.</p>
-
-<p>Now check the Gemini and Gopher output for the page you’re reading right now!</p>
-
-<p>The <a href="gopher://alexschroeder.ch/02025-05-27-alt-text">Gopher</a> version is OK. The line-breaks don’t look nice on the phone at the default resolution so ignore that weird line-break. What we can see is that the empty alt text generated an empty paragraph. Something I should fix. 😅 But in general, it looks OK and reads well.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-3.jpg" alt="" /></p>
-
-<p>The <a href="gemini://alexschroeder.ch/2025-05-27-alt-text">Gemini</a> version still looks OK. It also links to the Gopher and Gemini versions, so ignore those extra links. 😅 The browser substitutes the filenames for the missing alt text. That works for me. I&rsquo;m not sure what a screen reader would do. Probably say: &ldquo;Image. 2025-05-27-alt-text-3.jpg&rdquo;? And I&rsquo;m not sure what a person with bad sight would prefer. At this point I&rsquo;d know that I can skip the image since I have already read the description above.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-4.jpg" alt="" /></p>
-
-<p>And here&rsquo;s the same passage a day later, using the text browser <code>lynx</code>. The inline links look good, and there&rsquo;s no trace of the screenshots. This is great! It&rsquo;s as readable as the Gopher version with no extra line-breaks, and the inline links are inline (unlike in the Gemini version).</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-5.jpg" alt="" /></p>
-
-<p>Checking with <code>edbrowse</code>. The inline links are wrapped in bracers, which looks good, and the images with no alt text are shown as empty square brackets (<code>[]</code>) which works for me. Ideally, I guess, they&rsquo;d just disappear.</p>
-
-<p><img loading="lazy" src="2025-05-27-alt-text-6.jpg" alt="" /></p>
-
-<p>All in all, I think this solution is better: Instead of alt text, just write more text above each image.</p>
-
-<p>What I’m less sure about is whether this automatically implies that all images are “decorative” and therefore should have an empty alt text (instead of no alt text). It seems to me that the filename being shown is a lot of visual clutter, but that only seems to affect Gemini, not the text browser.</p>
-
-<p>What do you think?</p>
-
-<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Gemini">#Gemini</a> <a class="tag" href="/search/?q=%23Gopher">#Gopher</a> <a class="tag" href="/search/?q=%23Markdown">#Markdown</a></p>
-
-<p><strong>2025-05-29</strong>. I fixed that minor issue in <a href="https://src.alexschroeder.ch/markdown-gopher.git/">markdown-gopher</a> so that it skips paragraphs containing just images with no alt text. 😄</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-05-27-alt-text>
 
 ---
 
@@ -2583,4 +2734,88 @@ On Thursday the Trump administration told Harvard University that because it had
 <br> 
 
 <http://scripting.com/2025/05/24.html#a011153>
+
+---
+
+## May 23, 2025
+
+date: 2025-05-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/164379778/4be0df6c72cf48d7669b39c2dda8b49b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/164379778/4be0df6c72cf48d7669b39c2dda8b49b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/may-23-2025-17e>
+
+---
+
+## ★ Idiocy or Jackassery, You Make the Call: Tripp Mickle on Whether Trump’s ‘Made in America’ iPhone Is a Fantasy
+
+date: 2025-05-24, updated: 2025-05-26, from: Daring Fireball
+
+My chances of ever landing a job at The New York Times continue to sink. 
+
+<br> 
+
+<https://daringfireball.net/2025/05/idiocy_or_jackassery_you_make_the_call_made_in_america_iphone>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-05-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Dear Apple SwiftUI friends, this bug is killing the vibe of our users: FB16257334</p><p>Repro for those in the community:</p><p><a href="https://github.com/feedback-assistant/reports/issues/594" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/feedback-assistant/</span><span class="invisible">reports/issues/594</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114563260894225902>
+
+---
+
+## The New Fascism | Coffee Klatch for May 24, 2025
+
+date: 2025-05-24, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-new-fascism-coffee-klatch-for>
+
+---
+
+## May 23, 2025 
+
+date: 2025-05-24, from: Heather Cox Richardson blog
+
+I&#8217;m going to take an early night tonight, but I want to record three things that jumped out at me today because they seem to tell a story. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/may-23-2025>
+
+---
+
+## Sad story of http.DefaultTransport
+
+date: 2025-05-24, from: Anton Zhiyanov blog
+
+A tale of false flexibility and leaking abstractions. 
+
+<br> 
+
+<https://antonz.org/default-transport/>
+
+---
+
+## Weeknotes: May 17-23, 2025
+
+date: 2025-05-24, from: Tracy Durnell Blog
+
+Win of the week: new client accepted my budget proposal! 🙌 Looking forward to: three day weekend! hoping to make it to Bonus Galactic Homebrew Website Club Stuff I did: 7.75 hours consulting 3.5 hours writing went to see a matinee of Sinners &#8212; somebody gave us movie passes like 6 years ago so it was the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/05/23/weeknotes-may-17-23-2025/>
 

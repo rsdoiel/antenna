@@ -1,11 +1,62 @@
 ---
 title: small papers
-updated: 2025-05-30 14:09:11
+updated: 2025-05-31 06:07:53
 ---
 
 # small papers
 
-(date: 2025-05-30 14:09:11)
+(date: 2025-05-31 06:07:53)
+
+---
+
+## Trump Administration names Long Beach as a sanctuary city that could soon face penalties
+
+date: 2025-05-30, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-2048x1366.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/22124106/gh0dmg-w4aaveic-670268-yucpomko-988662-gdywiLPC-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach was specifically called out as a jurisdiction that undermines immigration enforcement. A city spokesman said Long Beach “does not obstruct federal law enforcement in any way.”</p>
+<p>The post <a href="https://lbpost.com/news/immigration/long-beach-sanctuary-city-trump-list-penalties">Trump Administration names Long Beach as a sanctuary city that could soon face penalties</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/long-beach-sanctuary-city-trump-list-penalties>
+
+---
+
+## New flag flies over Casino entrance
+
+date: 2025-05-30, from: Catalina Islander
+
+Visitors and residents who take a moment to look up and study the magnificent architecture of the Avalon Casino may notice the 26 flags around the edge of the building that celebrate the seasons. The United States service flags &#8211; Army, Navy, Marine Corps, Air Force, Space Force, Merchant Marine, and Coast Guard &#8211; are [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/new-flag-flies-over-casino-entrance/>
+
+---
+
+## February 2025: visitor count up 32.9%
+
+date: 2025-05-30, from: Catalina Islander
+
+Visitor counts were 32.9% greater in February 2025 than they were in February 2024, according to data recently released by Love Catalina Island Tourism Authority (the local Chamber of Commerce). Love Catalina released the February 2025 visitor counts on May 19. “Passengers arriving by sea in February totaled 53,302, up for the month by 33.5% [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/february-2025-visitor-count-up-32-9/>
+
+---
+
+## Sanpellegrino’s new sparkling water promotes Island escape
+
+date: 2025-05-30, from: Catalina Islander
+
+Catalina Island, known for its Mediterranean charm, stunning coastline, and laid-back island lifestyle, has been selected as the featured destination in a new partnership between Love Catalina Island and Sanpellegrino to celebrate the launch of CIAO!, a sparkling water infused with real fruit juice. The campaign offers a chance for consumers to win a trip [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sanpellegrinos-new-sparkling-water-promotes-island-escape/>
 
 ---
 
@@ -13,7 +64,7 @@ updated: 2025-05-30 14:09:11
 
 date: 2025-05-30, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1536x1025.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-1568x1046.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/30102306/052825-workrequirements-jc-cm-23-352773-hiuuczne-348011-VqR6rTW2.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A proposal in Congress would require some adults to document 80 hours a month of work or school. Experts say the red tape and paperwork is so cumbersome that even people who work will lose their health insurance.</p>
 <p>The post <a href="https://lbpost.com/news/health/medicaid-work-rules-could-leave-a-million-californians-with-no-health-insurance">Medicaid work rules could leave a million Californians with no health insurance</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -422,4 +473,34 @@ date: 2025-05-26, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/crime/shoreline-village-shooting-leaves-3-wounded-including-14-year-old-boy-police-say>
+
+---
+
+## Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says
+
+date: 2025-05-24, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The 21-year-old driver did not have her headlights on and may have been impaired, Long Beach police said.</p>
+<p>The post <a href="https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard">Speeding driver dies after swerving to avoid car crash, running into Metro train, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/metro-train-crash-long-beach-boulevard>
+
+---
+
+## One person shot on 710 Freeway in Long Beach, CHP says
+
+date: 2025-05-24, from: Long Beach Post
+
+<figure><img width="900" height="600" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1.png 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-300x200.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-768x512.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-162x108.png 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/31113526/police-lights-3-1-400x267.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The victim was found wounded in the driver's seat of a pickup truck.</p>
+<p>The post <a href="https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says">One person shot on 710 Freeway in Long Beach, CHP says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/one-person-shot-on-710-freeway-in-long-beach-chp-says>
 
